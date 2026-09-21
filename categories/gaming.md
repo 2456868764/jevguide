@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 137 | 114 | 25 | 588K |
+| 141 | 118 | 25 | 588K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/mitraalice1/status/2101887269170708571">在 X 查看原帖</a> · <a href="https://t.co/5vFfFN9UMn">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Vtuber7144/status/2102000159337140414"><img src="https://pbs.twimg.com/media/HK7idMlXAAAvuip.jpg" alt="Jev-like Responsive Tech May Disrupt Digital TCGs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Vtuber7144/status/2102000159337140414">Jev-like Responsive Tech May Disrupt Digital TCGs</a></h3>
+<p>The post worries that highly responsive tech like Jev could quickly derive optimal plays in card battles, potentially harming digital TCG ecosystems.</p>
+<p><strong>中文摘要：</strong>帖子担忧 Jev 这类高响应性技术若用于卡牌对战，可能快速给出最优解，从而冲击数字 TCG 生态。</p>
+<p><strong>残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖</strong> · @Vtuber7144 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 68</p>
+<p><a href="https://x.com/Vtuber7144/status/2102000159337140414">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
 <p><a href="https://x.com/loktar00/status/2101851403790512615">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AiWithBDN/status/2101902757573828982"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902729723674624/img/DckbSt_2ITupFrff.jpg" alt="Jev and Astra Beat Minecraft Ender Dragon in 8m 43s · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/AiWithBDN/status/2101902757573828982">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101895983202439248"><img src="https://pbs.twimg.com/media/HStvL9-awAAZzBi?format=jpg&amp;name=900x900" alt="Jev and Codex Team Up to Reach the Nether in Minecraft · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
 <p><a href="https://x.com/geeorgey/status/2101895983202439248">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sidodtv/status/2101951519373574597"><img src="https://pbs.twimg.com/media/HSuhbq5aMAAOqac?format=jpg&amp;name=medium" alt="Ultra-fast futsal simulator built with Jev and Laya · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 60</p>
 <p><a href="https://x.com/sidodtv/status/2101951519373574597">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notef_fn/status/2101949849273053335"><img src="https://pbs.twimg.com/amplify_video_thumb/2101949795422375936/img/0ROtyxvgLbc_8nvY.jpg" alt="Testing Automated Gameplay with Jev and Local SAM · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/notef_fn/status/2101949849273053335">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notf/status/2101915884663308796"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915195270705152/img/kjIWIfyIlvpPCwRj.jpg" alt="Jev Speeds Up Parameter Tuning in DreamCore Game Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
 <p><a href="https://x.com/notf/status/2101915884663308796">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101942787554091351"><img src="https://pbs.twimg.com/media/HSuZfLYaQAAinYE?format=jpg&amp;name=medium" alt="Jev connection restored, game exploration continues · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/geeorgey/status/2101942787554091351">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aixaipr/status/2101955720619135277"><img src="https://pbs.twimg.com/amplify_video_thumb/2101954747637121024/img/NxrUrg8wch953cPF.jpg" alt="Jev AI Plays the Roles of 9 Other Players in Werewolf · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/aixaipr/status/2101955720619135277">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wellback000/status/2101931130731852088"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930824686096384/img/1gqQc_5FgU_1NRJk.jpg" alt="Playing Tetris with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/wellback000/status/2101931130731852088">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101909864792613107"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="AI Agents Jev and Astra Team Up to Beat Minecraft&#39;s Ender Dragon · 原帖视频截图" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>돼박</strong> · @DAEBAK_100 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101909864792613107">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/geeorgey/status/2102001727260209202"><img src="https://pbs.twimg.com/amplify_video_thumb/2102001535337332736/img/-XK3dG-qamqjP_yL.jpg" alt="Jev autonomously approaches and attacks enemies in-game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/geeorgey/status/2102001727260209202">Jev autonomously approaches and attacks enemies in-game</a></h3>
+<p>The post shows Jev autonomously choosing to approach and attack in-game, defeating a skeleton in three hits, and building walls and a roof to recover after being hit.</p>
+<p><strong>中文摘要：</strong>帖子展示Jev在游戏中自主选择接近与攻击，三击击破骷髅，并涉及被击中后建造墙壁和屋顶恢复等行为。</p>
+<p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/geeorgey/status/2102001727260209202">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/AflGains/status/2101911297768280442"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911051977756672/img/3nO06Gtj5lX6lSiA.jpg" alt="Connecting Jev to an AFL Simulator for Experiments · 原帖视频截图" width="100%"></a>
@@ -299,6 +323,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/TheAIInsiderN/status/2102001482425852074"><img src="https://pbs.twimg.com/amplify_video_thumb/2102001323180728320/img/zpdeuX9yFiMgFvnc.jpg" alt="Jev vs. Laya-MLX Tetris Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheAIInsiderN/status/2102001482425852074">Jev vs. Laya-MLX Tetris Benchmark</a></h3>
+<p>In a Tetris benchmark, Jev is compared to Laya-MLX running locally: Laya responds in ~84ms but makes poor decisions, while Jev plays more intelligently.</p>
+<p><strong>中文摘要：</strong>在俄罗斯方块基准测试中，Jev 与本地运行的 Laya-MLX 对比：Laya 响应约 84 毫秒但决策不佳，Jev 则展现出更智能的游戏策略。</p>
+<p><strong>AI Insider</strong> · @TheAIInsiderN · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/TheAIInsiderN/status/2102001482425852074">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/TheosTT04/status/2101993249481384290"><img src="https://pbs.twimg.com/amplify_video_thumb/2101992227035910144/img/QaGyt1HNT1RAu__E.jpg" alt="Emojiquest: An Emoji Matching Game Built on Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -309,6 +344,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/TheosTT04/status/2101993249481384290">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/theshajha/status/2101905184704323969"><img src="https://pbs.twimg.com/media/HSt3Lx0aQAAXk0o?format=jpg&amp;name=medium" alt="Play Chess Against Jev from TypeSafe AI · 原帖图片" width="100%"></a>
 <br>
@@ -320,8 +357,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/theshajha/status/2101905184704323969">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akinkeskinbas/status/2101942281590964708"><img src="https://pbs.twimg.com/amplify_video_thumb/2101940817653088256/img/Tw0L4IC2NTSnypwh.jpg" alt="Using Jev to Analyze League of Legends Deaths · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/akinkeskinbas/status/2101942281590964708">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yukix2000/status/2101911998619656646"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911765873479680/img/RALU1R4lnnORQegy.jpg" alt="Idea of Integrating Jev Judgment-Only AI into Games with 2048 and Flappy Bird Spectator Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/yukix2000/status/2101911998619656646">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/attrip/status/2101917343597408451"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915176920621056/img/FgDRxjkCNi7K4CPO.jpg" alt="Othello Game with Jev Advice · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +392,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/attrip/status/2101917343597408451">在 X 查看原帖</a> · <a href="https://t.co/gXtroUzODk">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shwetabjaj/status/2101914174553280639"><img src="https://pbs.twimg.com/amplify_video_thumb/2101914130341089280/img/7onODUxOENqZtU18.jpg" alt="Testing Jev&#39;s Decision Quality with Snake · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/shwetabjaj/status/2101914174553280639">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AOga51748099/status/2101915903856370029"><img src="https://pbs.twimg.com/amplify_video_thumb/2101914321433600000/img/MZOZVM0Y3GWAQKUX.jpg" alt="Jev Soccer: Issuing Tactical Orders Instead of Directly Controlling Players · 原帖视频截图" width="100%"></a>
 <br>
@@ -380,6 +415,19 @@
 <p><strong>A.Oga</strong> · @AOga51748099 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/AOga51748099/status/2101915903856370029">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/osamu1203/status/2102003211121172854"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Minecraft speedrun with Jev and Astra for under $1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/osamu1203/status/2102003211121172854">Minecraft speedrun with Jev and Astra for under $1</a></h3>
+<p>The author analyzes a Minecraft speedrun completed in under 8 minutes with Jev and Astra for under $1, noting it used Peaceful mode, fixed seeds, known coordinates, and structured data, and questions whether Astra was necessary.</p>
+<p><strong>中文摘要：</strong>作者分析用 Jev 和 Astra 在 8 分钟内完成《我的世界》速通且成本低于 1 美元，但指出使用了和平模式、固定种子和已知坐标，认为 Astra 可能并非必需。</p>
+<p><strong>西山 修 / 「組織とAI」を探求するCTO</strong> · @osamu1203 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/osamu1203/status/2102003211121172854">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101675124747338229"><img src="https://pbs.twimg.com/amplify_video_thumb/2101666395239182336/img/wvATzQcIrkDYZos1.jpg" alt="Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison · 原帖视频截图" width="100%"></a>

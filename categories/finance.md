@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 61 | 42 | 20 | 1.2M |
+| 63 | 42 | 22 | 1.2M |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/AIJonHu/status/2101945213002608907">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/daisy_traces/status/2102001260706607212"><img src="https://pbs.twimg.com/media/HSvO85qXgAAKp0l?format=jpg&amp;name=medium" alt="$JEV Token Contract Address on Base Chain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/daisy_traces/status/2102001260706607212">$JEV Token Contract Address on Base Chain</a></h3>
+<p>A brief note on the public smart contract address for the $JEV token on Base Chain.</p>
+<p><strong>中文摘要：</strong>简要说明 $JEV 代币在 Base Chain 上的公开智能合约地址。</p>
+<p><strong>Daisy Nguyen</strong> · @daisy_traces · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/daisy_traces/status/2102001260706607212">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/JetSquirrel2048/status/2101910782405660853"><img src="https://pbs.twimg.com/media/HSt8s6ua8AExPlE?format=jpg&amp;name=medium" alt="In-Browser Trading Demo Built on DuckDB Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/JetSquirrel2048/status/2101910782405660853">在 X 查看原帖</a> · <a href="https://t.co/rRkR6YDcfJ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akshayindragant/status/2101904234497343698"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Building a Crypto Arbitrage Bot with JEV in 24 Hours · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/akshayindragant/status/2101904234497343698">在 X 查看原帖</a> · <a href="https://t.co/NJNHNlqnY7">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechMoney191260/status/2101965913549590735"><img src="https://pbs.twimg.com/amplify_video_thumb/2101965711816151040/img/zc5Umyf-9IckmK9r.jpg" alt="Building a Real-Time Stock Analysis App with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -175,6 +188,17 @@
 <p><strong>テックマネー【30歳までに資産5000万貯めるぞ🔥】</strong> · @TechMoney191260 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/TechMoney191260/status/2101965913549590735">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/declicia72/status/2102000637210694120"><img src="https://pbs.twimg.com/media/HSvOcPqXoAAeYmK?format=png&amp;name=medium" alt="Jev Model Raises $40M: An AI That Only Answers Multiple-Choice Questions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/declicia72/status/2102000637210694120">Jev Model Raises $40M: An AI That Only Answers Multiple-Choice Questions</a></h3>
+<p>According to the post, Jev, an AI model that writes no text or code and only answers closed questions with a choice, has raised $40M.</p>
+<p><strong>中文摘要：</strong>据该帖，一个不撰写任何文字或代码、只对封闭式问题给出选项答案的 AI 模型 Jev 完成了 4000 万美元融资。</p>
+<p><strong>Declic IA</strong> · @declicia72 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/declicia72/status/2102000637210694120">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

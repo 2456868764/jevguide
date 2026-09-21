@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 8 | 8 | 0 | 231K |
+| 10 | 10 | 0 | 231K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/hajimimt/status/2101940709796536365">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/PentaclesOrg/status/2102000160784130148"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997142282010624/img/GVnNZGSG3SazSgVo.jpg" alt="JPYC Virtual Liquor Store Payment Demo Integrates Jev Recommendations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PentaclesOrg/status/2102000160784130148">JPYC Virtual Liquor Store Payment Demo Integrates Jev Recommendations</a></h3>
+<p>Pentacles is building a JPYC virtual liquor store payment demo, supporting delivery and in-store pickup, automatic shipping calculation, a liquor-optimized product database, and is implementing a Jev-based drink recommendation feature while optimizing the admin panel.</p>
+<p><strong>中文摘要：</strong>Pentacles 正在开发 JPYC 虚拟酒屋支付演示，已支持配送与到店取货、自动计算运费、优化酒屋商品数据库，并正在用 Jev 实现酒类推荐功能，同时优化管理后台。</p>
+<p><strong>Pentacles（ペンタクルス）🐧✨</strong> · @PentaclesOrg · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
+<p><a href="https://x.com/PentaclesOrg/status/2102000160784130148">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/hajimimt/status/2101953350837391685"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>电商</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/hajimimt/status/2101953350837391685">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/okyanusi23/status/2101991099401474268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101990891821137920/pu/img/fsB_StJAjiFA5xVt.jpg" alt="Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>Akin Yilmaz</strong> · @okyanusi23 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/okyanusi23/status/2101991099401474268">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shaihulud43/status/2102003362472583336"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002342136836096/img/PX8iEiDV2n_OFzqW.jpg" alt="Jev Applied to an Etsy Shop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shaihulud43/status/2102003362472583336">Jev Applied to an Etsy Shop</a></h3>
+<p>A user shares applying Jev to their mom&#39;s Etsy shop and reports it works well.</p>
+<p><strong>中文摘要：</strong>用户分享将 Jev 用于其母亲的 Etsy 店铺，反馈效果很好。</p>
+<p><strong>bitzuist</strong> · @shaihulud43 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/shaihulud43/status/2102003362472583336">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>

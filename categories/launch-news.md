@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 86 | 50 | 39 | 1.1M |
+| 88 | 51 | 40 | 1.1M |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/Angus_Flint/status/2101872088210710948">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/alexander_jais/status/2102000158305050899"><img src="https://pbs.twimg.com/media/HSvN_jAWcAAKYzq?format=jpg&amp;name=medium" alt="Jev Praised for Single-Task App-Layer Approach · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alexander_jais/status/2102000158305050899">Jev Praised for Single-Task App-Layer Approach</a></h3>
+<p>Alex argues the app layer is won by those not tied to a single LLM frontier lab, citing TypeSafe AI&#39;s Jev as an example built for one job and mastering it.</p>
+<p><strong>中文摘要：</strong>Alex 指出，应用层的胜出者不会绑定单一 LLM 前沿实验室，并以 TypeSafe AI 的 Jev 为例，称其专注单一任务并完美掌握该任务。</p>
+<p><strong>Alex</strong> · @alexander_jais · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/alexander_jais/status/2102000158305050899">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Carbaj0/status/2101942660680368367"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941366896963584/img/W3WMh_84xtpqfVqh.jpg" alt="Text input widget powered by Jev calibrated probabilities · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Carbaj0/status/2101942660680368367">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TinyRouterHQ/status/2101971022802989067"><img src="https://pbs.twimg.com/amplify_video_thumb/2101970922164854784/img/r-BLnYqf-VTLzmvX.jpg" alt="TypeSafe Jev decision model: state + typed questions in, choice/score/probability out · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/TinyRouterHQ/status/2101971022802989067">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuChenTheGed/status/2101950223581143352"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Open-source version of Jev appears days after launch · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/YuChenTheGed/status/2101950223581143352">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/de2pressed/status/2101900009243640022"><img src="https://pbs.twimg.com/media/HSty5Qga0AIYjPa?format=jpg&amp;name=medium" alt="Jev: Type a Feeling, Get a Website · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/de2pressed/status/2101900009243640022">在 X 查看原帖</a> · <a href="https://t.co/Yy9UJbfqJA">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alexy_b404/status/2101920615079035078"><img src="https://pbs.twimg.com/media/HSuFOkJbAAAELJb?format=jpg&amp;name=medium" alt="TypeSafe Website UI Praised for Early GUI × Pastel Retro-Futurism Style · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/alexy_b404/status/2101920615079035078">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Yang_Male_god/status/2101915426859155877"><img src="https://pbs.twimg.com/media/HSuA5z8asAAJKID?format=png&amp;name=900x900" alt="Jev Opens to All, Drops Waitlist and Offers $5 Credit · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
 <p><a href="https://x.com/Yang_Male_god/status/2101915426859155877">在 X 查看原帖</a> · <a href="https://t.co/KeLGfIrSPO">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nik_hoelti/status/2101952601860288840"><img src="https://pbs.twimg.com/amplify_video_thumb/2100407646226649088/img/qVPomAIwJ_lKpO2J.jpg" alt="Jev can generate text · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/nik_hoelti/status/2101952601860288840">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SaaSocalypse/status/2101950656752038069"><img src="https://pbs.twimg.com/media/HSug5uRbQAArAv9?format=jpg&amp;name=small" alt="Next Version of Jev for Images Teased · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
 <p><a href="https://x.com/SaaSocalypse/status/2101950656752038069">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Shadowfetch/status/2101972719214494146"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101972643419160576/pu/img/Fn9zpixP577pPPYH.jpg" alt="TypeSafe Launches Jev AI Choice Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Robert Corbin</strong> · @Shadowfetch · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/Shadowfetch/status/2101972719214494146">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shirorakuki/status/2102002938529149373"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002744014053376/img/DNpeYw894z78Y4Oc.jpg" alt="Jev Removes Waitlist and Opens to All · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shirorakuki/status/2102002938529149373">Jev Removes Waitlist and Opens to All</a></h3>
+<p>AI evening news reports Jev removes its waitlist and opens to all, while ZCode goes open source with an apology.</p>
+<p><strong>中文摘要：</strong>AI晚报报道Jev取消waitlist全面开放，同时ZCode开源并致歉。</p>
+<p><strong>白洛奇</strong> · @shirorakuki · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/shirorakuki/status/2102002938529149373">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

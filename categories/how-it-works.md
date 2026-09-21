@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 156 | 77 | 79 | 1.6M |
+| 160 | 79 | 81 | 1.6M |
 
 ## Showcase 卡片
 
@@ -94,6 +94,30 @@
 <p><a href="https://x.com/nichochar/status/2101897944316449181">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nett0eth/status/2102000290463391837"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe&#39;s Jev: No Text or Code, Just Probabilistic Choice · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nett0eth/status/2102000290463391837">TypeSafe&#39;s Jev: No Text or Code, Just Probabilistic Choice</a></h3>
+<p>The post introduces TypeSafe&#39;s Jev model: it does not generate text or code, but instead selects one of the user-declared options probabilistically in under half a second, guaranteeing format but not correctness.</p>
+<p><strong>中文摘要：</strong>帖子介绍 TypeSafe 的 Jev 模型：它不生成文本或代码，而是根据用户声明的选项，在不到半秒内以概率方式选出一个，保证输出格式但不保证正确性。</p>
+<p><strong>Nett0</strong> · @nett0eth · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 123</p>
+<p><a href="https://x.com/nett0eth/status/2102000290463391837">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OndrejBacina/status/2102000365734392095"><img src="https://pbs.twimg.com/media/HSvOIO4WsAEeKSF?format=png&amp;name=900x900" alt="Jev doesn&#39;t generate text — it returns decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OndrejBacina/status/2102000365734392095">Jev doesn&#39;t generate text — it returns decisions</a></h3>
+<p>TypeSafe AI&#39;s Jev model doesn&#39;t generate text; it directly returns decisions, scores, or probabilities that software can act on immediately, solving a key problem for today&#39;s AI agents.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型不生成文本，而是直接返回决策、评分或概率，供软件立即使用，解决当前 AI 智能体的一个关键问题。</p>
+<p><strong>Ondrej Bacina ⚡️🔋🚗 🤖🇨🇿🇺🇦</strong> · @OndrejBacina · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 109</p>
+<p><a href="https://x.com/OndrejBacina/status/2102000365734392095">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Pluvio9yte/status/2101951965152555440"><img src="https://pbs.twimg.com/media/HSuiLGwaoAAB-tD?format=jpg&amp;name=medium" alt="Clarifying Jev&#39;s Limits: No Internet Access, No URL Verification · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -107,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/VictorMolla14/status/2102000639249199526"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev isn&#39;t replacing GPT or Claude: a switch statement with judgment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VictorMolla14/status/2102000639249199526">Jev isn&#39;t replacing GPT or Claude: a switch statement with judgment</a></h3>
+<p>The author argues Jev isn&#39;t meant to replace GPT or Claude, but is a switch statement with judgment doing the one job neither does well, like 2016 ML classifiers running at 2026 intelligence levels.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 并非要取代 GPT 或 Claude，而是一种带判断的 switch 语句，专注于两者都不擅长的单一任务，类似 2016 年的 ML 分类器运行在 2026 年的智能水平上。</p>
+<p><strong>Víctor Mollá</strong> · @VictorMolla14 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/VictorMolla14/status/2102000639249199526">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/innovaTopia_JP/status/2101939179638915271"><img src="https://pbs.twimg.com/amplify_video_thumb/2101938957626081280/img/nFCbb_SXGL2k3Pgp.jpg" alt="Jev returns only verdicts: where do decomposed judgments go? · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -117,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
 <p><a href="https://x.com/innovaTopia_JP/status/2101939179638915271">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nothal9000/status/2101941728404296040"><img src="https://pbs.twimg.com/media/HSuXJJpbAAAT6jx?format=png&amp;name=small" alt="Jev Excitement Compared to the ChatGPT Moment · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/nothal9000/status/2101941728404296040">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fourweekmba/status/2101899411940888854"><img src="https://pbs.twimg.com/media/HStyYEaXgAA9MyI?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev and the Leaderboard Category Split Problem · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/fourweekmba/status/2101899411940888854">在 X 查看原帖</a> · <a href="https://t.co/vbQyb7Cpuv">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManideepPa5443/status/2101951402851332147"><img src="https://pbs.twimg.com/media/HSuhorQXYAAydqU?format=jpg&amp;name=medium" alt="Jev Model: AI Agents Don&#39;t Need an LLM for Every Decision · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/ManideepPa5443/status/2101951402851332147">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hakoneko/status/2101902961983299728"><img src="https://pbs.twimg.com/media/HSt1mRrbwAA-pYA?format=jpg&amp;name=medium" alt="User tries Jev: rule-based bulk classification and scoring · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/hakoneko/status/2101902961983299728">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sunilmehta_695/status/2101944038559510774"><img src="https://pbs.twimg.com/media/HSua7yXWEAACML9?format=jpg&amp;name=medium" alt="Jev Is Not a Smaller Chat Model, but a Different Interface to Intelligence · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Sunilmehta_695/status/2101944038559510774">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nugalaxyhq/status/2101973151836000534"><img src="https://pbs.twimg.com/media/HSuz4k6WkAACPDG?format=png&amp;name=900x900" alt="Jev Doesn&#39;t Write Answers, It Picks the Next Move · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/nugalaxyhq/status/2101973151836000534">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MeetSirari/status/2101896762239995911"><img src="https://pbs.twimg.com/media/HStv8dvbMAANUKT?format=jpg&amp;name=medium" alt="User reads Jev Architecture: a model layer parallel to LLMs · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/MeetSirari/status/2101896762239995911">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VenkataSub34/status/2101855079615942707"><img src="https://pbs.twimg.com/media/HStJVFyasAAySo5?format=jpg&amp;name=medium" alt="Jev for Fast Bounded Judgement, MonkDB Adds Enterprise Layer · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/VenkataSub34/status/2101855079615942707">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/getSubhan/status/2101943680294867060"><img src="https://pbs.twimg.com/media/HSuancnaQAAtzl1?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: Decisions, Not Strings · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/getSubhan/status/2101943680294867060">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/paulocoutinhox/status/2101907221927878731"><img src="https://pbs.twimg.com/media/HSt5dDKXkAEf7K4?format=jpg&amp;name=medium" alt="JEV Model: Evaluating States to Produce Structured Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/paulocoutinhox/status/2101907221927878731">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIinPeak/status/2101909946447364489"><img src="https://pbs.twimg.com/media/HSt78vJbEAAIDT_?format=jpg&amp;name=medium" alt="Jev isn&#39;t a cheaper GPT — it turns AI from conversation into function · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
 <p><a href="https://x.com/AIinPeak/status/2101909946447364489">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SergueyB/status/2101874055787802786"><img src="https://pbs.twimg.com/media/HStbT_9XkAErrso?format=jpg&amp;name=medium" alt="Jev: Type-Safe Probabilistic Decision AI for Machines · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/SergueyB/status/2101874055787802786">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/danizhu/status/2101906206306496792"><img src="https://pbs.twimg.com/amplify_video_thumb/2101393592065421313/img/nYIybMu1kFDVqATI.jpg" alt="How to Evaluate Jev&#39;s Accuracy · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 13</p>
 <p><a href="https://x.com/danizhu/status/2101906206306496792">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikaeru676523/status/2101948475135164701"><img src="https://pbs.twimg.com/media/HSubZx9aEAA2Tgq?format=png&amp;name=medium" alt="Self-trained encoder vs Jev: task determines the winner · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +320,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/mikaeru676523/status/2101948475135164701">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MartinSzerment/status/2101915554839671021"><img src="https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg" alt="TypeSafe AI&#39;s Jev: Decisions as yes/no, choices, or scores instead of text · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/MartinSzerment/status/2101915554839671021">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Amir_HamzaFahim/status/2101965689070453005"><img src="https://pbs.twimg.com/amplify_video_thumb/2101965595612995584/img/JORJSybMsRAF8826.jpg" alt="Building a Mood Detection Experiment with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Amir_HamzaFahim/status/2101965689070453005">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/urayushjain/status/2101952130076532749"><img src="https://pbs.twimg.com/media/HSuh2fSaUAAtnn-?format=jpg&amp;name=medium" alt="Jev Model: Don&#39;t Generate, Decide · 原帖图片" width="100%"></a>
 <br>
@@ -320,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/urayushjain/status/2101952130076532749">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AkibKamani/status/2101952108744650989"><img src="https://pbs.twimg.com/media/HSuiTcDaUAAJehO?format=jpg&amp;name=medium" alt="Jev in the decision hierarchy: small bounded classification and routing · 原帖图片" width="100%"></a>
 <br>
@@ -333,6 +368,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/AkibKamani/status/2101952108744650989">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hazemomier/status/2101907504733040969"><img src="https://pbs.twimg.com/amplify_video_thumb/2101885207716474880/img/ndbx4dpA8M2NRlsJ.jpg" alt="Jev loads skills on demand to keep context clean · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/hazemomier/status/2101907504733040969">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sunilmehta_695/status/2101944506807427188"><img src="https://pbs.twimg.com/media/HSubWeSWYAATjmq?format=jpg&amp;name=medium" alt="Where Jev Fits in an Agent Loop: Typed Routing and Risk Gating · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +392,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/Sunilmehta_695/status/2101944506807427188">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/isanthoshgandhi/status/2101952088347668558"><img src="https://pbs.twimg.com/media/HSuhicwbkAAMvPA?format=jpg&amp;name=medium" alt="How JEV (TypeSafe) Works: Typed Questions and Calibrated Answers · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/isanthoshgandhi/status/2101952088347668558">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BinodOfficial/status/2101905514485743842"><img src="https://pbs.twimg.com/media/HSt339qaYAAAYu5?format=jpg&amp;name=medium" alt="Do AI Agents Need an LLM for Every Decision? Examining the Jev Architecture · 原帖图片" width="100%"></a>
 <br>
@@ -381,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/BinodOfficial/status/2101905514485743842">在 X 查看原帖</a> · <a href="https://t.co/oR6hf8Lt4M">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/miitame/status/2101923066456744042"><img src="https://pbs.twimg.com/media/HSuH40Qa8AAmsSP?format=jpg&amp;name=900x900" alt="Jev as a Fast, Low-Cost Decision Layer in AI Systems · 原帖图片" width="100%"></a>
 <br>
@@ -392,8 +429,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/miitame/status/2101923066456744042">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gocloudship/status/2101953082045149320"><img src="https://pbs.twimg.com/media/HSujL9DW0AApJ2W?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev Inverts Text-Generator Decision-Making · 原帖图片" width="100%"></a>
 <br>
@@ -405,6 +440,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/gocloudship/status/2101953082045149320">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LoquaAI/status/2101915088328499617"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="The Real Unlock of Jev: Voice Straight to Intent and Action · 原帖视频截图" width="100%"></a>
 <br>
@@ -415,6 +452,17 @@
 <p><strong>Loqua.AI</strong> · @LoquaAI · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/LoquaAI/status/2101915088328499617">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AIWith_Marcus/status/2102003117763998050"><img src="https://pbs.twimg.com/media/HSvQsDnWMAA3F4C?format=jpg&amp;name=medium" alt="Jev AI Model: Architectural Efficiency Beats Brute-Force Scaling · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIWith_Marcus/status/2102003117763998050">Jev AI Model: Architectural Efficiency Beats Brute-Force Scaling</a></h3>
+<p>The post argues that the Jev AI model proves architectural efficiency beats brute-force scaling, signaling the end of the &#39;bigger is better&#39; era.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev AI 模型证明架构效率优于单纯扩大参数规模，认为‘越大越好’的时代已经结束。</p>
+<p><strong>Marcus | AI</strong> · @AIWith_Marcus · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
+<p><a href="https://x.com/AIWith_Marcus/status/2102003117763998050">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

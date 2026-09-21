@@ -40,6 +40,7 @@
 | 2026-09-21 | [Jev AI Demo: Voice-Controlled Browser Agent](https://x.com/JulianGoldieSEO/status/2101944527271415814) | 智能体 | Julian Goldie SEO | 374 |
 | 2026-09-21 | [Using Jev in Google Sheets for Form Survey Analysis](https://x.com/kinari_kuramoto/status/2101937847674835406) | 数据分析 | Kinari Kuramoto / キナリ | 332 |
 | 2026-09-21 | [Jev suits CPU behavior that occasionally errs like humans](https://x.com/aqhayami/status/2101939208185389533) | 工作原理 | aq | 323 |
+| 2026-09-21 | [Jev Beginner Guides and Installation Tutorials](https://x.com/0xluffy_eth/status/2102001393783447595) | 开发资源 | 路飞 🏴‍☠️ AI 研究员🧐 | 306 |
 | 2026-09-21 | [Testing 500+ Trading Strategies with Jev](https://x.com/BrendanPlayford/status/2101904912150098081) | 金融 | Brendan Playford | 290 |
 | 2026-09-21 | [Jev Now Live on Surplus Intelligence](https://x.com/mac_eth/status/2101911416840032320) | 接入动态 | Mac | 284 |
 | 2026-09-21 | [Building a Trading Router with Jev and Polymarket](https://x.com/RitOnchain/status/2101907127543718196) | 金融 | venus | 280 |
@@ -72,6 +73,8 @@
 | 2026-09-21 | [Jev's three primitives: choice, score, noul and parallel usage](https://x.com/nichochar/status/2101897944316449181) | 工作原理 | Nicholas Charriere | 133 |
 | 2026-09-21 | [Building a Fuzzy-Word Search Site with Jev](https://x.com/gigabit_million/status/2101948297107984837) | 知识与搜索 | ギガビット@ゲームつくるひと | 133 |
 | 2026-09-21 | [User discusses JEV tool: retro interface, too many tools?](https://x.com/shengtang135754/status/2101900991876489682) | 社区实践 | 麦麦提 | 126 |
+| 2026-09-21 | [TypeSafe's Jev: No Text or Code, Just Probabilistic Choice](https://x.com/nett0eth/status/2102000290463391837) | 工作原理 | Nett0 | 123 |
+| 2026-09-21 | [Jev doesn't generate text — it returns decisions](https://x.com/OndrejBacina/status/2102000365734392095) | 工作原理 | Ondrej Bacina ⚡️🔋🚗 🤖🇨🇿🇺🇦 | 109 |
 | 2026-09-21 | [Introducing Jev into codex and ClaudeCode](https://x.com/secondenalist/status/2101938488715124830) | 接入动态 | 兼業エナリスト | 106 |
 | 2026-09-21 | [Using Jev to Find Tanuki Among Guild Members](https://x.com/mitraalice1/status/2101887269170708571) | 游戏 | mitraalice1 | 103 |
 | 2026-09-21 | [Using JEV with Agentic UI, CopilotKit, and A2UI](https://x.com/ManfredSteyer/status/2101942432581484862) | 开发者工具 | Manfred Steyer | 102 |
@@ -93,12 +96,9 @@
 | 2026-09-21 | [Jev works well as a top-k reranker](https://x.com/zainhas/status/2101915703192506805) | 知识与搜索 | Zain | 70 |
 | 2026-09-21 | [User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations](https://x.com/aad34210/status/2101837143576662211) | 社区实践 | Takashi Minoda | 69 |
 | 2026-09-21 | [Putting $100 into a Jev account: a 'generational wealth' joke](https://x.com/suganthan/status/2101905249590239415) | 金融 | Suganthan Mohanadasan | 68 |
+| 2026-09-21 | [Chrome extension that auto-fills browser forms with Jev](https://x.com/mitakamikata/status/2102000526489702733) | 自动化工作流 | ゆーりんち @ゲームを作っています | 68 |
+| 2026-09-21 | [Jev-like Responsive Tech May Disrupt Digital TCGs](https://x.com/Vtuber7144/status/2102000159337140414) | 游戏 | 残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖 | 68 |
 | 2026-09-21 | [Jev CEO on the End of the ChatGPT Era and What He's Building](https://x.com/0xfuckpoverty/status/2101903372001403372) | 产品发布 | broke boy | 67 |
 | 2026-09-21 | [Clarifying Jev's Limits: No Internet Access, No URL Verification](https://x.com/Pluvio9yte/status/2101951965152555440) | 工作原理 | 雪踏乌云 | 64 |
 | 2026-09-21 | [Jev and a Local LLM Play Unreal Tournament 99](https://x.com/loktar00/status/2101851403790512615) | 游戏 | Loktar 🇺🇸 | 63 |
 | 2026-09-21 | [Made With Jev Documents ~300 Creative Builds on Jev](https://x.com/kraayenJon/status/2101896366297329693) | 社区实践 | Jon Kraayenbrink | 63 |
-| 2026-09-21 | [JEV sees random 502 errors Monday after weekend hype](https://x.com/Arthur_Valverde/status/2101940291238240444) | 接入动态 | Arthur Valverde | 62 |
-| 2026-09-21 | [Jev and Astra Beat Minecraft Ender Dragon in 8m 43s](https://x.com/AiWithBDN/status/2101902757573828982) | 游戏 | Brooke Danielle Nelson | 61 |
-| 2026-09-21 | [Jev and Codex Team Up to Reach the Nether in Minecraft](https://x.com/geeorgey/status/2101895983202439248) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 60 |
-| 2026-09-21 | [Ultra-fast futsal simulator built with Jev and Laya](https://x.com/sidodtv/status/2101951519373574597) | 游戏 | 内田勉 DirecTune.app β公開中 | 60 |
-| 2026-09-21 | [Made With JEV Documents Over 300 Demos](https://x.com/kraayenJon/status/2101896621524914485) | 社区实践 | Jon Kraayenbrink | 56 |

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 82 | 38 | 44 | 419K |
+| 84 | 38 | 46 | 419K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/0xluffy_eth/status/2102001393783447595"><img src="https://pbs.twimg.com/media/HSvBbRQbkAAMARS?format=jpg&amp;name=medium" alt="Jev Beginner Guides and Installation Tutorials · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xluffy_eth/status/2102001393783447595">Jev Beginner Guides and Installation Tutorials</a></h3>
+<p>A curated collection of Jev beginner guides, installation tutorials, and overseas cases for systematic study.</p>
+<p><strong>中文摘要：</strong>整理 Jev 新手玩法、安装教程与海外案例，方便系统研究 Jev。</p>
+<p><strong>路飞 🏴‍☠️ AI 研究员🧐</strong> · @0xluffy_eth · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 306</p>
+<p><a href="https://x.com/0xluffy_eth/status/2102001393783447595">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/kelseytothe/status/2101895657267315142"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="First open-weight multimodal Jev alternative · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 189</p>
 <p><a href="https://x.com/kelseytothe/status/2101895657267315142">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hackernewstop5/status/2101947773281300957"><img src="https://pbs.twimg.com/media/HSueWJWa4AA62CS?format=jpg&amp;name=medium" alt="Kev: A Tiny Jev-like Family of Decision Models Built on Qwen3.5 · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 181</p>
 <p><a href="https://x.com/hackernewstop5/status/2101947773281300957">在 X 查看原帖</a> · <a href="https://t.co/3kAo0YtFyd">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fkadev/status/2101953538972614766"><img src="https://pbs.twimg.com/media/HSug7ASWQAAY-Dx?format=jpg&amp;name=medium" alt="leftPad Jev version released on NPM · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
 <p><a href="https://x.com/fkadev/status/2101953538972614766">在 X 查看原帖</a> · <a href="https://t.co/Pyzo2E2OjH">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zhilinjerrywag/status/2101908031873135070"><img src="https://pbs.twimg.com/media/HSt6H8qW4AAOOlB?format=jpg&amp;name=medium" alt="Extending Jev&#39;s Idea: Mev, a Recruiting Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 74</p>
 <p><a href="https://x.com/zhilinjerrywag/status/2101908031873135070">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/4rcherhume/status/2101965358047596823"><img src="https://pbs.twimg.com/media/HSuuWeHagAAtQjC?format=jpg&amp;name=900x900" alt="Jev calibration reaches parity on MMLU; 8-bit quant fits in ~30GB locally · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
 <p><a href="https://x.com/4rcherhume/status/2101965358047596823">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_evanmccall/status/2101930716108067052"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930183645339648/img/yoMU_n4YbJ-9rWLC.jpg" alt="One-shot complex 3D model with GPT Astra and custom harness, eyeing TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
 <p><a href="https://x.com/_evanmccall/status/2101930716108067052">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ownerthoughts/status/2101900767397331114"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900725450162176/img/hoW_DMv_5aLJu7cH.jpg" alt="Laya: An Open Local Alternative to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 39</p>
 <p><a href="https://x.com/Ownerthoughts/status/2101900767397331114">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nanomix_chip/status/2101944158269350078"><img src="https://pbs.twimg.com/media/HSualNwaoAARFMG?format=jpg&amp;name=900x900" alt="Building an expression mapping table for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 37</p>
 <p><a href="https://x.com/nanomix_chip/status/2101944158269350078">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kishi27/status/2101952455177277748"><img src="https://pbs.twimg.com/media/HSuiDYobIAAQyur?format=jpg&amp;name=medium" alt="New Book &#39;Introduction to Jev&#39; Released: Receiving AI Judgments in Fixed Patterns · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/kishi27/status/2101952455177277748">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101897493088756175"><img src="https://pbs.twimg.com/media/HStwoQAWEAANCWo?format=jpg&amp;name=900x900" alt="Jev Use Cases and Demos Collection · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/kraayenJon/status/2101897493088756175">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arash_khajelou/status/2101895891494088713"><img src="https://pbs.twimg.com/media/HStvDxobMAA_E2d?format=png&amp;name=900x900" alt="Jev AI Quiz Entry Experience · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/arash_khajelou/status/2101895891494088713">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NerdInTokyo/status/2101987586160083216"><img src="https://pbs.twimg.com/media/HSvCkKyboAARiWj?format=jpg&amp;name=medium" alt="JevTex: Checking TeX Equation Transformations with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/NerdInTokyo/status/2101987586160083216">在 X 查看原帖</a> · <a href="https://t.co/KI0Vjg5IpC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vintuxai/status/2101950741724160129"><img src="https://pbs.twimg.com/media/HSugv5TW8AE8W9S?format=png&amp;name=medium" alt="slop-grader: A Jev-AI CLI Tool for Text Auditing · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/vintuxai/status/2101950741724160129">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/issun_studio_jp/status/2101947155380601199"><img src="https://pbs.twimg.com/media/HSudRVlboAAg2cL?format=jpg&amp;name=medium" alt="Quickly Built a Hiroshima Dialect Checker with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Issun Studio Japan</strong> · @issun_studio_jp · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/issun_studio_jp/status/2101947155380601199">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Kgaroo_music/status/2102002200105078831"><img src="https://pbs.twimg.com/media/HSvO_AYbkAAg3zo?format=jpg&amp;name=900x900" alt="Best JEV 101 Guiding Sites Roundup · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Kgaroo_music/status/2102002200105078831">Best JEV 101 Guiding Sites Roundup</a></h3>
+<p>A community user shares four JEV starter learning sites: awesomejev.com, jev-lab.com, jevable.com, and madewithjev.com for developers to reference.</p>
+<p><strong>中文摘要：</strong>社区用户分享四个 JEV 入门学习站点：awesomejev.com、jev-lab.com、jevable.com 和 madewithjev.com，供开发者参考。</p>
+<p><strong>강걸우 웍스 l K-garoo Works</strong> · @Kgaroo_music · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/Kgaroo_music/status/2102002200105078831">在 X 查看原帖</a> · <a href="https://t.co/TGtK1eMEX3">原文链接</a></p>
 </td>
 </tr>
 <tr>

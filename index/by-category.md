@@ -1,24 +1,24 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 160
-- [How it works](../categories/how-it-works.md) — 156
-- [Developer tools](../categories/developer-tools.md) — 156
-- [Gaming](../categories/gaming.md) — 137
-- [Agents](../categories/agents.md) — 87
-- [Launch news](../categories/launch-news.md) — 86
-- [Developer resources](../categories/developer-resources.md) — 82
-- [Community builds](../categories/community-builds.md) — 75
-- [Finance](../categories/finance.md) — 61
-- [Marketing](../categories/marketing.md) — 47
-- [Workflow automation](../categories/workflow-automation.md) — 46
+- [Access updates](../categories/access-updates.md) — 167
+- [How it works](../categories/how-it-works.md) — 160
+- [Developer tools](../categories/developer-tools.md) — 157
+- [Gaming](../categories/gaming.md) — 141
+- [Launch news](../categories/launch-news.md) — 88
+- [Agents](../categories/agents.md) — 88
+- [Developer resources](../categories/developer-resources.md) — 84
+- [Community builds](../categories/community-builds.md) — 76
+- [Finance](../categories/finance.md) — 63
+- [Marketing](../categories/marketing.md) — 48
+- [Workflow automation](../categories/workflow-automation.md) — 47
 - [Knowledge & search](../categories/knowledge-search.md) — 45
-- [Data analytics](../categories/data-analytics.md) — 31
-- [Content creation](../categories/content-creation.md) — 27
+- [Data analytics](../categories/data-analytics.md) — 32
+- [Content creation](../categories/content-creation.md) — 28
 - [Robotics](../categories/robotics.md) — 19
 - [Customer support](../categories/customer-support.md) — 13
+- [Productivity](../categories/productivity.md) — 10
+- [E-commerce](../categories/e-commerce.md) — 10
 - [Scientific research](../categories/scientific-research.md) — 10
-- [Productivity](../categories/productivity.md) — 9
-- [E-commerce](../categories/e-commerce.md) — 8
 - [Software development](../categories/software-development.md) — 8
 - [Business operations](../categories/business-operations.md) — 7
 - [Legal & compliance](../categories/legal-compliance.md) — 7

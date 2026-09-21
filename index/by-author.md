@@ -180,6 +180,7 @@
 - [Alex Atallah](../authors/alex-atallah.md) — 1
 - [Alex C.](../authors/alex-c.md) — 1
 - [alex nikolic](../authors/alex-nikolic.md) — 1
+- [Alexy B](../authors/alexy-b.md) — 1
 - [ali](../authors/ali.md) — 1
 - [Alisson](../authors/alisson.md) — 1
 - [Allie the Icon](../authors/allie-the-icon.md) — 1
@@ -194,6 +195,7 @@
 - [Andy](../authors/andy.md) — 1
 - [Andy Gao](../authors/andy-gao.md) — 1
 - [Angel Galvis Caballero](../authors/angel-galvis-caballero.md) — 1
+- [Angus](../authors/angus.md) — 1
 - [Anicet](../authors/anicet.md) — 1
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
 - [Anjula Dwivedi](../authors/anjula-dwivedi.md) — 1
@@ -227,6 +229,7 @@
 - [Ben](../authors/ben.md) — 1
 - [Ben Dicken](../authors/ben-dicken.md) — 1
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 1
+- [Beney de Saxonne](../authors/beney-de-saxonne.md) — 1
 - [Bilu](../authors/bilu.md) — 1
 - [Binod Kumar](../authors/binod-kumar.md) — 1
 - [blanknote](../authors/blanknote.md) — 1
@@ -274,6 +277,7 @@
 - [Cure](../authors/cure.md) — 1
 - [Cuth](../authors/cuth.md) — 1
 - [CV.YH](../authors/cv-yh.md) — 1
+- [DaBin.Binah](../authors/dabin-binah.md) — 1
 - [Daily AI Tracker](../authors/daily-ai-tracker.md) — 1
 - [Dan Billson](../authors/dan-billson.md) — 1
 - [Dan Robinson](../authors/dan-robinson.md) — 1
@@ -289,6 +293,7 @@
 - [David Ondrej](../authors/david-ondrej.md) — 1
 - [David Tao](../authors/david-tao.md) — 1
 - [David Villalón](../authors/david-villalon.md) — 1
+- [Deepthi Connects](../authors/deepthi-connects.md) — 1
 - [dei](../authors/dei.md) — 1
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 1
 - [DeMinds](../authors/deminds.md) — 1
@@ -303,6 +308,7 @@
 - [Domain.News 📈](../authors/domain-news.md) — 1
 - [double](../authors/double.md) — 1
 - [Dr. Sanjay Kumar](../authors/dr-sanjay-kumar.md) — 1
+- [DryHoleCo](../authors/dryholeco.md) — 1
 - [Duncan](../authors/duncan.md) — 1
 - [Dunsin🎙️](../authors/dunsin.md) — 1
 - [Dwid Lee](../authors/dwid-lee.md) — 1
@@ -395,6 +401,7 @@
 - [Hixon](../authors/hixon.md) — 1
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 1
 - [Hosenur](../authors/hosenur.md) — 1
+- [HS](../authors/hs.md) — 1
 - [HStark](../authors/hstark.md) — 1
 - [huangserva](../authors/huangserva.md) — 1
 - [Hugo Duprez](../authors/hugo-duprez.md) — 1
@@ -416,6 +423,7 @@
 - [j.i](../authors/j-i.md) — 1
 - [Jacin 🏴‍☠️](../authors/jacin.md) — 1
 - [Jack](../authors/jack.md) — 1
+- [JackZ·杰克周](../authors/jackz-杰克周.md) — 1
 - [james](../authors/james.md) — 1
 - [Jamie Watters](../authors/jamie-watters.md) — 1
 - [Jan-Hendrik Müller](../authors/jan-hendrik-muller.md) — 1
@@ -545,6 +553,7 @@
 - [Misbah Syed](../authors/misbah-syed.md) — 1
 - [Misch Strotz](../authors/misch-strotz.md) — 1
 - [Misha_Cripto](../authors/misha-cripto.md) — 1
+- [mitraalice1](../authors/mitraalice1.md) — 1
 - [mizchi](../authors/mizchi.md) — 1
 - [MKQuant](../authors/mkquant.md) — 1
 - [ML_Bear](../authors/ml-bear.md) — 1
@@ -762,9 +771,11 @@
 - [Vaibhav Dusad](../authors/vaibhav-dusad.md) — 1
 - [varish ali](../authors/varish-ali.md) — 1
 - [Varun Prashar](../authors/varun-prashar.md) — 1
+- [Venkata Subrahmanyam](../authors/venkata-subrahmanyam.md) — 1
 - [venus](../authors/venus.md) — 1
 - [Vera](../authors/vera.md) — 1
 - [Vercel](../authors/vercel.md) — 1
+- [VertrAI](../authors/vertrai.md) — 1
 - [Vi iD](../authors/vi-id.md) — 1
 - [Vibe](../authors/vibe.md) — 1
 - [Vincent Wang-Maścianica](../authors/vincent-wang-mascianica.md) — 1
@@ -830,6 +841,7 @@
 - [‍タイガー](../authors/jev-showcase.md) — 1
 - [たくあん](../authors/jev-showcase.md) — 1
 - [たまね](../authors/jev-showcase.md) — 1
+- [ため](../authors/jev-showcase.md) — 1
 - [ちゃっきー](../authors/jev-showcase.md) — 1
 - [つぼね👨‍💻](../authors/jev-showcase.md) — 1
 - [テツメモ｜AI図解×検証｜Newsletter](../authors/ai図解-検証-newsletter.md) — 1
@@ -850,6 +862,7 @@
 - [みんす](../authors/jev-showcase.md) — 1
 - [ゆもかず♨️ SESを再定義するエンジニア部長](../authors/ses-再定義-部長.md) — 1
 - [ヨ](../authors/jev-showcase.md) — 1
+- [よたん](../authors/jev-showcase.md) — 1
 - [らけしで / Mizmic Studio](../authors/mizmic-studio.md) — 1
 - [ラッキー｜AIを武器に。](../authors/ai-武器.md) — 1
 - [リツト＠AI活用を教える人](../authors/ai活用-教-人.md) — 1
@@ -886,6 +899,7 @@
 - [生ビール](../authors/生.md) — 1
 - [田嶋正吾](../authors/田嶋正吾.md) — 1
 - [痛いマリモ](../authors/痛.md) — 1
+- [白日做梦™](../authors/白日做梦tm.md) — 1
 - [知识猫AI实验室](../authors/知识猫ai实验室.md) — 1
 - [石川陽太 Yota Ishikawa](../authors/石川陽太-yota-ishikawa.md) — 1
 - [科学家无邪🔶 BNB](../authors/科学家无邪-bnb.md) — 1

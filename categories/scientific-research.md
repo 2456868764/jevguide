@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 8 | 4 | 4 | 136K |
+| 9 | 5 | 4 | 136K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/homerosousa/status/2101865551798649142"><img src="https://pbs.twimg.com/amplify_video_thumb/2101864711625101312/img/VoJNsvYBX2KgVKdI.jpg" alt="Jev turns conference talk transcripts into GRADE evidence profiles · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/homerosousa/status/2101865551798649142">Jev turns conference talk transcripts into GRADE evidence profiles</a></h3>
+<p>A user shows Jev analyzing a conference talk transcript, producing GRADE evidence profiles for every empirical claim traceable to sentences in published abstracts—78 judgments in 0.8 seconds for about $0.09.</p>
+<p><strong>中文摘要：</strong>用户展示用 Jev 分析会议演讲转录，为每条实证主张生成可追溯至已发表摘要句子的 GRADE 证据档案，78 条判断耗时 0.8 秒、约 0.09 美元。</p>
+<p><strong>HS</strong> · @homerosousa · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/homerosousa/status/2101865551798649142">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/FinanceYF5/status/2101545447773159650"><img src="https://pbs.twimg.com/amplify_video_thumb/2101545403753865217/img/iI7Ep7ZzcUMWm-GG.jpg" alt="Jev Completes 100 Consecutive Trolley Problems · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 40 &nbsp; 🔁 8 &nbsp; ♡ 57 &nbsp; 📊 41K</p>
 <p><a href="https://x.com/FinanceYF5/status/2101545447773159650">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jnormore/status/2101641621850800457"><img src="https://pbs.twimg.com/amplify_video_thumb/2101640711842017280/img/97S88hTr4pgJYFeT.jpg" alt="Jev experiment: particle fluid simulation micro-scale physics decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 76</p>
 <p><a href="https://x.com/jnormore/status/2101641621850800457">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Csisc1994/status/2101707362247614853"><img src="https://pbs.twimg.com/media/HSrDNtoXcAI0hDu?format=jpg&amp;name=medium" alt="Jev for Automated Screening and Validation of Biomedical Datasets · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
 <p><a href="https://x.com/Csisc1994/status/2101707362247614853">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JinxiangTse/status/2101693517022302326"><img src="https://pbs.twimg.com/media/HSq3FlKbsAAPfi3?format=jpg&amp;name=medium" alt="Experimenting with Jev in a Retrosynthesis Agent: Fast Decisions vs. Full Reasoning · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/JinxiangTse/status/2101693517022302326">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AGTPinsights/status/2101802590564704274"><img src="https://pbs.twimg.com/media/HSsaTVCbYAAwCDB?format=jpg&amp;name=medium" alt="Researcher questions determinism of TypeSafe AI&#39;s Jev model · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/AGTPinsights/status/2101802590564704274">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shirshagh/status/2101698125266055200"><img src="https://pbs.twimg.com/media/HSq7TZCX0AAzNWM?format=jpg&amp;name=medium" alt="Testing TypeSafe AI&#39;s Jev on a pharma medical affairs problem · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/shirshagh/status/2101698125266055200">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2101311769113178270"><img src="https://pbs.twimg.com/amplify_video_thumb/2101311146871476224/img/7iObyfH5AUq_DC_q.jpg" alt="JevBench: First Benchmark for Jev-Class Models Released · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 17 &nbsp; 🔁 27 &nbsp; ♡ 188 &nbsp; 📊 136K</p>
 <p><a href="https://x.com/airesearch12/status/2101311769113178270">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarissaFamularo/status/2100585751398232539"><img src="https://pbs.twimg.com/amplify_video_thumb/2100585700890472448/img/_BaNzZ4KXWwgw-LR.jpg" alt="TypeSafe AI Added to Citation Checker Tool · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,5 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/MarissaFamularo/status/2100585751398232539">在 X 查看原帖</a> · <a href="https://t.co/Hl76VsvAei">原文链接</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1463</strong><br>curated posts</td>
-<td align="center"><strong>859</strong><br>original videos</td>
+<td align="center"><strong>1482</strong><br>curated posts</td>
+<td align="center"><strong>872</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>181</strong> showcases · <strong>75</strong> videos</p>
+<p><strong>183</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>175</strong> showcases · <strong>89</strong> videos</p>
+<p><strong>176</strong> showcases · <strong>89</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>171</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>174</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>97</strong> showcases · <strong>56</strong> videos</p>
+<p><strong>99</strong> showcases · <strong>58</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>96</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>98</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>56</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>57</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>20</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>21</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -132,19 +132,25 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>13</strong> showcases · <strong>12</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
 <p><strong>10</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
 <p><strong>10</strong> showcases · <strong>10</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
@@ -157,14 +163,14 @@ From finance and gaming to security review. Every listed post is checked against
 <p><strong>9</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
 <p><strong>9</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
@@ -176,12 +182,6 @@ From finance and gaming to security review. Every listed post is checked against
 <p><sub>网络安全</sub></p>
 <p><strong>7</strong> showcases · <strong>2</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>6</strong> showcases · <strong>5</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/4rcherhume/status/2101888238357237798"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/4rcherhume/status/2101888238357237798">Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative</a></h3>
+<p>A healthcare company releases Solomon 27b, an open-weight model it calls the best open alternative to Jev, featuring native multimodality, a 265k context window, and added multi-choice tagging and evidence pointer spans.</p>
+<p><strong>44K</strong> views · 💬 33 &nbsp; 🔁 62 &nbsp; ♡ 651 &nbsp; 📊 44K</p>
+<p><strong>Archer</strong> · @4rcherhume</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2101940744202424479"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706250090319872/img/h92BN1ENdExQGPy6.jpg" alt="Turn JEV into an Autopilot Business · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2101940744202424479">Turn JEV into an Autopilot Business</a></h3>
 <p>Use JEV&#39;s fast decisions for instant pricing, sell the same system to bigger businesses, add monthly fees, and run it 24/7 with Hermes or Grok Bot.</p>
 <p><strong>30K</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 16 &nbsp; 📊 30K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2102008693126570269"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Jev Engineering: Turning an Agent Stack into a Real Control System · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2102008693126570269">Jev Engineering: Turning an Agent Stack into a Real Control System</a></h3>
 <p>Explains how Jev engineering turns an agent stack into a real control system, claiming up to 193x faster and 444x cheaper decisions, with a linked build guide.</p>
 <p><strong>22K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 20 &nbsp; 📊 22K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/karminski3/status/2101923782407639249"><img src="https://pbs.twimg.com/media/HSuIhVLa4AAtppC?format=png&amp;name=medium" alt="Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/karminski3/status/2101923782407639249">Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance</a></h3>
 <p>The author teases the fastest quantum Jev yet: 0.12ms per inference, 400x Jev&#39;s performance, free of charge, and capable of solving problems Jev cannot. Details and open-source release coming soon.</p>
 <p><strong>13K</strong> views · 💬 15 &nbsp; 🔁 4 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
 <p><strong>karminski-牙医</strong> · @karminski3</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
-<p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
-<p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2101940744202424479"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706250090319872/img/h92BN1ENdExQGPy6.jpg" alt="Turn JEV into an Autopilot Business · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2101940744202424479">Turn JEV into an Autopilot Business</a></h3>
-<p>Use JEV&#39;s fast decisions for instant pricing, sell the same system to bigger businesses, add monthly fees, and run it 24/7 with Hermes or Grok Bot.</p>
-<p><strong>30K</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 16 &nbsp; 📊 30K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/4rcherhume/status/2101888238357237798"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/4rcherhume/status/2101888238357237798">Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative</a></h3>
+<p>A healthcare company releases Solomon 27b, an open-weight model it calls the best open alternative to Jev, featuring native multimodality, a 265k context window, and added multi-choice tagging and evidence pointer spans.</p>
+<p><strong>44K</strong> views · 💬 33 &nbsp; 🔁 62 &nbsp; ♡ 651 &nbsp; 📊 44K</p>
+<p><strong>Archer</strong> · @4rcherhume</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/karminski3/status/2101923782407639249"><img src="https://pbs.twimg.com/media/HSuIhVLa4AAtppC?format=png&amp;name=medium" alt="Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/karminski3/status/2101923782407639249">Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance</a></h3>
+<p>The author teases the fastest quantum Jev yet: 0.12ms per inference, 400x Jev&#39;s performance, free of charge, and capable of solving problems Jev cannot. Details and open-source release coming soon.</p>
+<p><strong>13K</strong> views · 💬 15 &nbsp; 🔁 4 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
+<p><strong>karminski-牙医</strong> · @karminski3</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
 <p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
 <p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/crypto_banter/status/2101943143331438780"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943060942786561/img/DmnACYGiCDyJTFE9.jpg" alt="Jev Goes Live on Venice&#39;s Private AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/crypto_banter/status/2101943143331438780">Jev Goes Live on Venice&#39;s Private AI</a></h3>
-<p>Jev is now live on Venice, adding an extra paid use to Venice&#39;s private AI.</p>
-<p><strong>3.9K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 3.9K</p>
-<p><strong>Crypto Banter</strong> · @crypto_banter</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/MakeAI_CEO/status/2102010126043660645"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009913690222592/img/iRFsgYp8UZILddXa.jpg" alt="Generating slides with Codex and judging accuracy with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MakeAI_CEO/status/2102010126043660645">Generating slides with Codex and judging accuracy with Jev</a></h3>
-<p>A user shares a workflow of generating slides with Codex and using Jev to judge accuracy and content, saying no extra slide-generation skill is needed.</p>
-<p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.6K</p>
-<p><strong>mana｜株式会社MakeAI CEO</strong> · @MakeAI_CEO</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/yupi996/status/2101946715725299993"><img src="https://pbs.twimg.com/amplify_video_thumb/2101935871067086848/img/RDaiaanaaeckbEDd.jpg" alt="Jev Is Blazing Fast but Feels Less Intelligent · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yupi996/status/2101946715725299993">Jev Is Blazing Fast but Feels Less Intelligent</a></h3>
+<p>A user notes that Jev is extremely fast, far outpacing the previously hyped DeepSeek V4.1 Flash, though it feels a bit less intelligent.</p>
+<p><strong>1.9K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 1.9K</p>
+<p><strong>程序员鱼皮</strong> · @yupi996</p>
 </td>
 </tr>
 </table>

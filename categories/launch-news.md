@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 97 | 56 | 44 | 1.1M |
+| 99 | 58 | 44 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/4rcherhume/status/2101888238357237798"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/4rcherhume/status/2101888238357237798">Healthcare Company Releases Solomon 27b as Best Open-Weight Jev Alternative</a></h3>
+<p>A healthcare company releases Solomon 27b, an open-weight model it calls the best open alternative to Jev, featuring native multimodality, a 265k context window, and added multi-choice tagging and evidence pointer spans.</p>
+<p><strong>中文摘要：</strong>一家医疗公司发布 Solomon 27b 开源权重模型，称其为 Jev 的最佳开源替代，具备原生多模态、265k 上下文窗口，并新增多选标注与证据指针跨度等功能。</p>
+<p><strong>Archer</strong> · @4rcherhume · 2026-09-21</p>
+<p>💬 33 &nbsp; 🔁 62 &nbsp; ♡ 651 &nbsp; 📊 44K</p>
+<p><a href="https://x.com/4rcherhume/status/2101888238357237798">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/karminski3/status/2101923782407639249"><img src="https://pbs.twimg.com/media/HSuIhVLa4AAtppC?format=png&amp;name=medium" alt="Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>karminski-牙医</strong> · @karminski3 · 2026-09-21</p>
 <p>💬 15 &nbsp; 🔁 4 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
 <p><a href="https://x.com/karminski3/status/2101923782407639249">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hwchase17/status/2102065131202945152"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062370566934528/img/qBP7zUwdnwf_Jz8a.jpg" alt="Jev Decision Models and Free SemIf Hosting · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hwchase17/status/2102065131202945152">Jev Decision Models and Free SemIf Hosting</a></h3>
+<p>Harrison Chase introduces Jev as a new type of &quot;decision model&quot; and mentions open-source alternative SemIf (based on qwen3.5), announcing free hosting of SemIf via LangSmith Gateway for one week.</p>
+<p><strong>中文摘要：</strong>Harrison Chase 介绍 Jev 是一种新型的“决策模型”，并提到开源替代品 SemIf（基于 qwen3.5），同时宣布通过 LangSmith Gateway 免费托管 SemIf 一周。</p>
+<p><strong>Harrison Chase</strong> · @hwchase17 · 2026-09-21</p>
+<p>💬 8 &nbsp; 🔁 1 &nbsp; ♡ 21 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/hwchase17/status/2102065131202945152">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101939214799749370"><img src="https://pbs.twimg.com/media/HSuWg7gacAAGWaG?format=jpg&amp;name=medium" alt="Jev: Voice-Controlled AI Browser · 原帖图片" width="100%"></a>

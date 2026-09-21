@@ -677,7 +677,6 @@
 - [えみっく](../authors/jev-showcase.md) — 1
 - [おじぎねこ🐱AI自動集客 x アフィ](../authors/ai自動集客-x.md) — 1
 - [お寿司@小説](../authors/寿司-小説.md) — 1
-- [ガガロット](../authors/jev-showcase.md) — 1
 - [からあげ](../authors/jev-showcase.md) — 1
 - [けんと＠設計構築チャンネル](../authors/設計構築.md) — 1
 - [こぎそ](../authors/jev-showcase.md) — 1

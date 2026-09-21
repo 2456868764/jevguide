@@ -46,7 +46,6 @@
 | 2026-09-20 | [Jeff Added to JevBench, Ranked #9](https://x.com/LoganMarkewich/status/2101473352074625344) | 开发资源 | Logan Markewich | 20K |
 | 2026-09-20 | [Jev as an instant classifier: no more model picking](https://x.com/okkshitij/status/2101704186769404160) | 工作原理 | Kshitij | 20K |
 | 2026-09-20 | [Using Jev to Find Outfits by Occasion](https://x.com/dbillson/status/2101657637871837578) | 电商 | Dan Billson | 20K |
-| 2026-09-20 | [Using Jev to Judge AI Beauty Videos Hits 2M Views](https://x.com/gagarot200/status/2101570554872697098) | 内容创作 | ガガロット | 19K |
 | 2026-09-20 | [Using Jev to Batch-Judge Backlogged Tasks and Connect to Generative AI](https://x.com/suh_sunaneko/status/2101469071955128726) | 生产力 | すぅ\| PM & PdM🐈 | 18K |
 | 2026-09-20 | [Building Reddit Radar MCP with Jev](https://x.com/oguzhankayancom/status/2101667801274478707) | 开发资源 | Oğuzhan ✷ | 17K |
 | 2026-09-20 | [Open-source desktop automation arc-cua built on Jev](https://x.com/sxhivs/status/2101729362194432184) | 自动化工作流 | shiv | 16K |
@@ -102,3 +101,4 @@
 | 2026-09-20 | [Jev is API-only and closed-source; open alternative Nimble built in one day](https://x.com/DataChaz/status/2101787241165267425) | 接入动态 | Charly Wargnier ♨️ | 3.2K |
 | 2026-09-20 | [Browser Use Integrates TypeSafe Jev Model for Ultrafast Operations](https://x.com/DataChaz/status/2101575783273906469) | 接入动态 | Charly Wargnier ♨️ | 3.0K |
 | 2026-09-20 | [Building Rolewise: A Resume-to-Job Matching Demo with Jev](https://x.com/zhilinjerrywag/status/2101576651238711642) | 知识与搜索 | Zhilin Wang | 2.9K |
+| 2026-09-20 | [Google Says Jev Judgment Model Can Be Reproduced as Open Model](https://x.com/masahirochaen/status/2101792528785948700) | 开发资源 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 2.9K |

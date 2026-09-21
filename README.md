@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>949</strong><br>curated posts</td>
-<td align="center"><strong>597</strong><br>original videos</td>
+<td align="center"><strong>948</strong><br>curated posts</td>
+<td align="center"><strong>596</strong><br>original videos</td>
 <td align="center"><strong>24</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -106,16 +106,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>22</strong> showcases · <strong>20</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
 <p><strong>22</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>21</strong> showcases · <strong>19</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>

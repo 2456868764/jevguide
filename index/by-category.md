@@ -12,8 +12,8 @@
 - [Marketing](../categories/marketing.md) — 37
 - [Workflow automation](../categories/workflow-automation.md) — 32
 - [Knowledge & search](../categories/knowledge-search.md) — 27
-- [Content creation](../categories/content-creation.md) — 22
 - [Data analytics](../categories/data-analytics.md) — 22
+- [Content creation](../categories/content-creation.md) — 21
 - [Robotics](../categories/robotics.md) — 14
 - [Customer support](../categories/customer-support.md) — 11
 - [Productivity](../categories/productivity.md) — 9

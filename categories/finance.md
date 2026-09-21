@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 64 | 42 | 23 | 1.2M |
+| 66 | 42 | 25 | 1.2M |
 
 ## Showcase 卡片
 
@@ -199,6 +199,30 @@
 <p><strong>テックマネー【30歳までに資産5000万貯めるぞ🔥】</strong> · @TechMoney191260 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/TechMoney191260/status/2101965913549590735">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vwapster/status/2102012812906094722"><img src="https://pbs.twimg.com/media/HSvZgwAWQAA3xRM?format=jpg&amp;name=medium" alt="Cost Discussion of Jev Usage in a Trading Bot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vwapster/status/2102012812906094722">Cost Discussion of Jev Usage in a Trading Bot</a></h3>
+<p>A user shares the cost experience of using Jev in a trading bot, noting it&#39;s cheap but adds up fast, and calls on DeepSeek to release a similar free option.</p>
+<p><strong>中文摘要：</strong>用户分享在交易机器人中使用 Jev 的成本体验，认为虽然便宜但会快速累积，并呼吁 DeepSeek 发布类似免费方案。</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/vwapster/status/2102012812906094722">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vwapster/status/2102014448961499471"><img src="https://pbs.twimg.com/media/HSva-g9WwAE-Z9E?format=jpg&amp;name=medium" alt="Grok bot combines Jev and Laya for a Kalshi Solana trading bot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vwapster/status/2102014448961499471">Grok bot combines Jev and Laya for a Kalshi Solana trading bot</a></h3>
+<p>The post introduces a Kalshi Solana trading bot combining Grok bot, Jev, and Laya, featuring self-improvement and auto-calibration. It is still on paper but looks promising.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了一个结合 Grok bot、Jev 和 Laya 的 Kalshi Solana 交易机器人，具备自我改进和自动校准能力，目前仍在模拟阶段，但看起来很有前景。</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/vwapster/status/2102014448961499471">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

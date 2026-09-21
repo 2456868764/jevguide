@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 14 | 10 | 4 | 639K |
+| 15 | 10 | 5 | 639K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/blueb/status/2101951431402291638">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/hitotori_365/status/2102012437608423433"><img src="https://pbs.twimg.com/media/HSvZK23aoAAp9t0?format=jpg&amp;name=medium" alt="Building AI Customer Support with Jev: Dynamically Selecting the Next Question · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hitotori_365/status/2102012437608423433">Building AI Customer Support with Jev: Dynamically Selecting the Next Question</a></h3>
+<p>The author tried implementing AI customer support with Jev for NHK subscription contract questions, using chat to determine whether the user should continue, take action, be exempted, or cancel; Jev handles selecting the next question based on user answers.</p>
+<p><strong>中文摘要：</strong>作者尝试用 Jev 实现 AI 客服，针对 NHK 收视合同问题，通过对话判断用户属于续约、需办理、可豁免还是可解约，其中 Jev 负责根据用户回答选择下一个问题。</p>
+<p><strong>ひととり</strong> · @hitotori_365 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/hitotori_365/status/2102012437608423433">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/TechieSapien/status/2101998302476788057"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997999220289536/img/JAoZJBszS5G0UihT.jpg" alt="Building a Support Ticket Triage Tool with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>客户支持</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/TechieSapien/status/2101998302476788057">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Olli0103/status/2101942856092942518"><img src="https://pbs.twimg.com/media/HSuZ37dWwAAqu3V?format=jpg&amp;name=medium" alt="Jev Outperforms Laya on Synthetic Support Ticket Routing · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/Olli0103/status/2101942856092942518">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/developedbyed/status/2101628206478512341"><img src="https://pbs.twimg.com/amplify_video_thumb/2101628010369622016/img/6rUvq7yBwgE7BpL2.jpg" alt="Running Jev to quickly remove negative comments from chat · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 116 &nbsp; 🔁 111 &nbsp; ♡ 3.3K &nbsp; 📊 162K</p>
 <p><a href="https://x.com/developedbyed/status/2101628206478512341">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kidehen/status/2101795427225878906"><img src="https://pbs.twimg.com/amplify_video_thumb/2101061589038477312/img/Jrat3MGWY4vtlsjL.jpg" alt="Jev Demonstrates AI Agent Value in Customer Support · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 80</p>
 <p><a href="https://x.com/kidehen/status/2101795427225878906">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jimmy_dj_c/status/2101601061836566550"><img src="https://pbs.twimg.com/media/HSpiQ9JaMAAgqeS?format=jpg&amp;name=medium" alt="Integrating Jev Model to Find Related Support Requests · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 52</p>
 <p><a href="https://x.com/jimmy_dj_c/status/2101601061836566550">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Foly_AI/status/2101723129089335574"><img src="https://pbs.twimg.com/amplify_video_thumb/2101723095941664768/img/ZiDO4VUCGzy8M5vI.jpg" alt="Issue triage with Jev: flag impact and route decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Foly_AI/status/2101723129089335574">在 X 查看原帖</a> · <a href="https://t.co/gPgf8rxvI8">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101253568774697099"><img src="https://pbs.twimg.com/amplify_video_thumb/2101252015779373056/img/an3uKosWqfYtwDq9.jpg" alt="Jev vs DeepSeek: 500 E-commerce Support Tickets · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 14 &nbsp; 🔁 18 &nbsp; ♡ 164 &nbsp; 📊 79K</p>
 <p><a href="https://x.com/NFT_Chen/status/2101253568774697099">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kgsi/status/2100740717454954548"><img src="https://pbs.twimg.com/amplify_video_thumb/2100740154877169664/img/TL5ADRkf7p6l4Dha.jpg" alt="Demo: Sorting Live Comments with TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 6 &nbsp; 🔁 187 &nbsp; ♡ 1.1K &nbsp; 📊 141K</p>
 <p><a href="https://x.com/kgsi/status/2100740717454954548">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FarokhNotes/status/2100999674639327501"><img src="https://pbs.twimg.com/amplify_video_thumb/2100891566340501504/img/agvkcRfNWmnGbRI5.jpg" alt="Jev and RLCD: Drastically Cutting Decision Costs for Real Automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 17 &nbsp; 🔁 16 &nbsp; ♡ 416 &nbsp; 📊 30K</p>
 <p><a href="https://x.com/FarokhNotes/status/2100999674639327501">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0913_marco/status/2100844795921076235"><img src="https://pbs.twimg.com/media/HSex1VNbkAAymGD?format=png&amp;name=900x900" alt="Jev Use Cases: Customer Support, Model Routing, and LLM Guardrails · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
 <p><a href="https://x.com/0913_marco/status/2100844795921076235">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rinte0321/status/2100736454850908344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="E-commerce Real-time Customer Service Demo Built with Jev and gpt-live-1 · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 15 &nbsp; 🔁 363 &nbsp; ♡ 1.9K &nbsp; 📊 639K</p>
 <p><a href="https://x.com/rinte0321/status/2100736454850908344">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186"><img src="https://pbs.twimg.com/amplify_video_thumb/2100713609756389376/img/9Sdopo46pXonLyBK.jpg" alt="Real-Time Customer Service Prototype by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 17 &nbsp; 🔁 375 &nbsp; ♡ 2.4K &nbsp; 📊 442K</p>
 <p><a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tetumemo/status/2100541516834029707"><img src="https://pbs.twimg.com/amplify_video_thumb/2100541074859253760/img/lO5Rn_75drf1cMmT.jpg" alt="Jev Usage Insight: Don&#39;t Let AI Write Text for Clearer Inquiry Handling · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,5 +189,6 @@
 <p>💬 9 &nbsp; 🔁 15 &nbsp; ♡ 88 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/tetumemo/status/2100541516834029707">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

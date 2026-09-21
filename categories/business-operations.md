@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 7 | 4 | 3 | 3.8M |
+| 9 | 5 | 4 | 3.8M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AgroConceptos/status/2102014136112582933"><img src="https://pbs.twimg.com/media/HSvatp7XMAAZVvf?format=jpg&amp;name=medium" alt="JEV Joins AgroConceptos Management System · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AgroConceptos/status/2102014136112582933">JEV Joins AgroConceptos Management System</a></h3>
+<p>AgroConceptos announces JEV, a new AI assistant added to its management system, positioned for decision-making rather than lengthy conversation, able to compare under incomplete information.</p>
+<p><strong>中文摘要：</strong>AgroConceptos 宣布其管理系统新增 AI 助手 JEV，强调其定位是辅助决策而非长时间对话，可在信息不完整时进行比较分析。</p>
+<p><strong>Agroconceptos 🇦🇷</strong> · @AgroConceptos · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/AgroConceptos/status/2102014136112582933">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Mileson07/status/2102013810332889185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102012404020477953/img/7PAsi53DwymhDaMA.jpg" alt="Why Jev Is the Standard Answer for Enterprise AI Deployment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mileson07/status/2102013810332889185">Why Jev Is the Standard Answer for Enterprise AI Deployment</a></h3>
+<p>The post argues that Jev is the standard answer for enterprise AI deployment, claiming it solves the trilemma of high stability, low cost, and high real-time performance, with a detailed explanation to follow.</p>
+<p><strong>中文摘要：</strong>帖子提出 Jev 是企业 AI 落地的标准答案，称其解决了高稳定性、低成本、高实时性三大难题，并预告将展开详细讲解。</p>
+<p><strong>超级峰</strong> · @Mileson07 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
+<p><a href="https://x.com/Mileson07/status/2102013810332889185">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101916922061140237"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101916892675911680/pu/img/YZ-gDggzbZulVH0s.jpg" alt="Jev Model Screens 100 Interviews in 12.8 Seconds · 原帖视频截图" width="100%"></a>

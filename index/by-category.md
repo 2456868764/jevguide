@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 170
-- [How it works](../categories/how-it-works.md) — 164
-- [Developer tools](../categories/developer-tools.md) — 161
-- [Gaming](../categories/gaming.md) — 147
-- [Launch news](../categories/launch-news.md) — 90
-- [Agents](../categories/agents.md) — 88
-- [Developer resources](../categories/developer-resources.md) — 85
-- [Community builds](../categories/community-builds.md) — 77
-- [Finance](../categories/finance.md) — 64
-- [Workflow automation](../categories/workflow-automation.md) — 49
+- [Access updates](../categories/access-updates.md) — 173
+- [How it works](../categories/how-it-works.md) — 167
+- [Developer tools](../categories/developer-tools.md) — 164
+- [Gaming](../categories/gaming.md) — 152
+- [Launch news](../categories/launch-news.md) — 91
+- [Developer resources](../categories/developer-resources.md) — 90
+- [Agents](../categories/agents.md) — 89
+- [Community builds](../categories/community-builds.md) — 78
+- [Finance](../categories/finance.md) — 66
+- [Marketing](../categories/marketing.md) — 51
+- [Workflow automation](../categories/workflow-automation.md) — 50
 - [Knowledge & search](../categories/knowledge-search.md) — 48
-- [Marketing](../categories/marketing.md) — 48
-- [Content creation](../categories/content-creation.md) — 32
-- [Data analytics](../categories/data-analytics.md) — 32
+- [Content creation](../categories/content-creation.md) — 33
+- [Data analytics](../categories/data-analytics.md) — 33
 - [Robotics](../categories/robotics.md) — 20
-- [Customer support](../categories/customer-support.md) — 14
+- [Customer support](../categories/customer-support.md) — 15
 - [Productivity](../categories/productivity.md) — 10
 - [E-commerce](../categories/e-commerce.md) — 10
 - [Scientific research](../categories/scientific-research.md) — 10
+- [Business operations](../categories/business-operations.md) — 9
 - [Software development](../categories/software-development.md) — 8
-- [Business operations](../categories/business-operations.md) — 7
 - [Legal & compliance](../categories/legal-compliance.md) — 7
 - [Cybersecurity](../categories/cybersecurity.md) — 7
+- [Healthcare](../categories/healthcare.md) — 6
 - [Education](../categories/education.md) — 6
-- [Healthcare](../categories/healthcare.md) — 5

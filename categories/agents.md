@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 54 | 31 | 23 | 3.0M |
+| 60 | 36 | 24 | 3.0M |
 
 ## Showcase 卡片
 
@@ -491,6 +491,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/amagitakayosi/status/2100820581444980736"><img src="https://pbs.twimg.com/amplify_video_thumb/2100820470438481921/img/ZI7uuy-zv2Gm2Q3A.jpg" alt="Jev demo: live Bluesky feed with real-time emotion detection and avatar matching · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/amagitakayosi/status/2100820581444980736">Jev demo: live Bluesky feed with real-time emotion detection and avatar matching</a></h3>
+<p>The demo applies Jev to a live Bluesky feed, detecting emotions in posts and matching an avatar to each user.</p>
+<p><strong>中文摘要：</strong>该演示将 Jev 应用于实时 Bluesky 信息流，对帖子进行情绪检测，并为每位用户匹配对应头像。</p>
+<p><strong>𝘼𝙈𝘼𝙂𝙄</strong> · @amagitakayosi · 2026-09-18</p>
+<p>💬 3 &nbsp; 🔁 3 &nbsp; ♡ 16 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/amagitakayosi/status/2100820581444980736">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/mcspring/status/2100884857257865384"><img src="https://pbs.twimg.com/media/HSfXolHaEAAlkDM?format=jpg&amp;name=medium" alt="Jev May Reshape Agent Architecture: Local Decision Model Meets Cloud LLM · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -501,6 +512,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 103</p>
 <p><a href="https://x.com/mcspring/status/2100884857257865384">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gregpr07/status/2100411066966749359"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Browser Use + Jev: Ultrafast Browser Agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 264 &nbsp; 🔁 938 &nbsp; ♡ 8.8K &nbsp; 📊 3.0M</p>
 <p><a href="https://x.com/gregpr07/status/2100411066966749359">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/swill1ams/status/2100421326389354624"><img src="https://pbs.twimg.com/amplify_video_thumb/2100044290743558144/img/qoO9w7RnXjqtrq6I.jpg" alt="Custom Jev-style models can make agent systems more token efficient · 原帖视频截图" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 34 &nbsp; 🔁 92 &nbsp; ♡ 1.4K &nbsp; 📊 191K</p>
 <p><a href="https://x.com/swill1ams/status/2100421326389354624">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kunchenguid/status/2100468943853085061"><img src="https://pbs.twimg.com/media/HSYK_gbagAAqKqr?format=jpg&amp;name=medium" alt="Jev Deployed in Real Production: Fable-Level Quality, 10x Faster · 原帖图片" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 120 &nbsp; 🔁 155 &nbsp; ♡ 2.0K &nbsp; 📊 136K</p>
 <p><a href="https://x.com/kunchenguid/status/2100468943853085061">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Reeshasx/status/2100443780746711267"><img src="https://pbs.twimg.com/amplify_video_thumb/2100081173380939776/img/2VgNwSaHK3lLw4ux.jpg" alt="JEV Model&#39;s Reproduction Speed Sparks Excitement · 原帖视频截图" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 17 &nbsp; 🔁 37 &nbsp; ♡ 996 &nbsp; 📊 122K</p>
 <p><a href="https://x.com/Reeshasx/status/2100443780746711267">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/savboj/status/2100545295201288678"><img src="https://pbs.twimg.com/amplify_video_thumb/2100545038677655552/img/PSyeykC06q5OLVVu.jpg" alt="Jev + Computer use: 100x faster than any LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 36 &nbsp; 🔁 65 &nbsp; ♡ 1.2K &nbsp; 📊 113K</p>
 <p><a href="https://x.com/savboj/status/2100545295201288678">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CodingGarden/status/2100665210419950031"><img src="https://pbs.twimg.com/amplify_video_thumb/2100664410935332864/img/KPApgq0AysL_SFeg.jpg" alt="Building a no-LLM chatbot with Jev for instant tool calls · 原帖视频截图" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 53 &nbsp; 🔁 86 &nbsp; ♡ 1.2K &nbsp; 📊 110K</p>
 <p><a href="https://x.com/CodingGarden/status/2100665210419950031">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/da_fant/status/2100659471257366766"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="How Jev Makes Agents 10x Faster and Cheaper · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 33 &nbsp; 🔁 58 &nbsp; ♡ 636 &nbsp; 📊 86K</p>
 <p><a href="https://x.com/da_fant/status/2100659471257366766">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tsuyoshi_osiire/status/2100734646824902713"><img src="https://pbs.twimg.com/amplify_video_thumb/2100733358020202496/img/Ei71W-dfloIYoM4m.jpg" alt="Prototyping a Real-Time Conversation Sensor in Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 3 &nbsp; 🔁 65 &nbsp; ♡ 448 &nbsp; 📊 66K</p>
 <p><a href="https://x.com/tsuyoshi_osiire/status/2100734646824902713">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/crislenta/status/2100457614073327754"><img src="https://pbs.twimg.com/amplify_video_thumb/2100457262372560897/img/zSIVGvaQhEZLMd9-.jpg" alt="Jev Benchmark: 500 Real-Time Agents Running in Parallel · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 48 &nbsp; 🔁 37 &nbsp; ♡ 651 &nbsp; 📊 59K</p>
 <p><a href="https://x.com/crislenta/status/2100457614073327754">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/omarsar0/status/2100693601021997193"><img src="https://pbs.twimg.com/media/HScpisJbEAAMxZb?format=jpg&amp;name=medium" alt="Four agent use cases to try with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 40 &nbsp; 🔁 72 &nbsp; ♡ 669 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/omarsar0/status/2100693601021997193">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tonysimons_/status/2100656340817633313"><img src="https://pbs.twimg.com/tweet_video_thumb/HScHna_XUAAwuch.jpg" alt="Browser Use open-sources Jev Ultrafast to speed up browser agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 14 &nbsp; 🔁 27 &nbsp; ♡ 275 &nbsp; 📊 18K</p>
 <p><a href="https://x.com/tonysimons_/status/2100656340817633313">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/daniel_mac8/status/2100620339097026633"><img src="https://pbs.twimg.com/amplify_video_thumb/2100619919448592384/img/Pw-l4hnbWIZQGktL.jpg" alt="Using Jev and Grok Bot to Find the Best AI Agent Tip from 1,000 Posts · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 20 &nbsp; 🔁 19 &nbsp; ♡ 169 &nbsp; 📊 15K</p>
 <p><a href="https://x.com/daniel_mac8/status/2100620339097026633">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/milindlabs/status/2100515910754750741"><img src="https://pbs.twimg.com/amplify_video_thumb/2100515619712184320/img/LFrKN4XyJ024sGe_.jpg" alt="Jev as Chief of Staff for Bots · 原帖视频截图" width="100%"></a>
 <br>
@@ -655,6 +668,65 @@
 <p><strong>Milind S</strong> · @milindlabs · 2026-09-17</p>
 <p>💬 12 &nbsp; 🔁 12 &nbsp; ♡ 185 &nbsp; 📊 14K</p>
 <p><a href="https://x.com/milindlabs/status/2100515910754750741">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/meganetaaan/status/2100611870784880764"><img src="https://pbs.twimg.com/amplify_video_thumb/2100611839847751680/img/x5jaiByAi1r8Ks_k.jpg" alt="Jev Generates Avatar Reactions in Parallel with Text Conversation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/meganetaaan/status/2100611870784880764">Jev Generates Avatar Reactions in Parallel with Text Conversation</a></h3>
+<p>A developer shows using Jev to generate avatar reactions in parallel with text conversation, tagged #jev.</p>
+<p><strong>中文摘要：</strong>开发者展示用 Jev 在文本对话的同时并行生成头像反应，并附上 #jev 标签。</p>
+<p><strong>ししかわ/Shinya Ishikawa</strong> · @meganetaaan · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 8 &nbsp; ♡ 39 &nbsp; 📊 3.8K</p>
+<p><a href="https://x.com/meganetaaan/status/2100611870784880764">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nagata_hideyuki/status/2100714926474182831"><img src="https://pbs.twimg.com/amplify_video_thumb/2100714882643681280/img/Dn1Ma-CSDLOGJWlp.jpg" alt="Three AI sages deliberating and voting, powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nagata_hideyuki/status/2100714926474182831">Three AI sages deliberating and voting, powered by Jev</a></h3>
+<p>A real-world app inspired by Evangelion&#39;s MAGI: three AI sages powered by Jev (TypeSafe&#39;s System One model) deliberate and vote on your question, with typed, calibrated, hallucination-free output, built entirely with Kiro.</p>
+<p><strong>中文摘要：</strong>展示一个受《新世纪福音战士》MAGI 启发的真实应用：三个由 Jev（TypeSafe 的 System One 模型）驱动的 AI 智者对问题展开审议并投票，强调类型化、校准且无幻觉，完全用 Kiro 构建。</p>
+<p><strong>長田英幸 | AWS Community Builder AI Engineering</strong> · @nagata_hideyuki · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 477</p>
+<p><a href="https://x.com/nagata_hideyuki/status/2100714926474182831">在 X 查看原帖</a> · <a href="https://t.co/vWgK5vwqCQ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nagata_hideyuki/status/2100687689708458042"><img src="https://pbs.twimg.com/media/HScj_8kbUAAp1t5?format=jpg&amp;name=medium" alt="Building a MAGI System with Jev to Judge Lemon on Fried Chicken · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nagata_hideyuki/status/2100687689708458042">Building a MAGI System with Jev to Judge Lemon on Fried Chicken</a></h3>
+<p>The author shares a MAGI system built with Jev and has it judge the playful question of whether lemon belongs on fried chicken.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 构建的 MAGI 系统，让它判定「炸鸡上挤柠檬是否可行」这一趣味问题。</p>
+<p><strong>長田英幸 | AWS Community Builder AI Engineering</strong> · @nagata_hideyuki · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 335</p>
+<p><a href="https://x.com/nagata_hideyuki/status/2100687689708458042">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nagata_hideyuki/status/2100715135434428817"><img src="https://pbs.twimg.com/amplify_video_thumb/2100715047072960512/img/mCvfUCyebnCxQ5Vv.jpg" alt="Building an EVA MAGI-style Three-Sage Deliberation System with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nagata_hideyuki/status/2100715135434428817">Building an EVA MAGI-style Three-Sage Deliberation System with Jev</a></h3>
+<p>The author built an EVA MAGI-like system with Jev (TypeSafe&#39;s System One model): three AI sages deliberate on a topic and decide by majority, with typed, probabilistic, hallucination-free output. Both the system and the PV video were made with Kiro.</p>
+<p><strong>中文摘要：</strong>作者用 Jev（TypeSafe 的 System One 模型）构建了类似 EVA MAGI 的系统：三位 AI 贤者审议议题并多数决，输出类型化、带概率、无幻觉。系统与 PV 视频均由 Kiro 制作。</p>
+<p><strong>長田英幸 | AWS Community Builder AI Engineering</strong> · @nagata_hideyuki · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 295</p>
+<p><a href="https://x.com/nagata_hideyuki/status/2100715135434428817">在 X 查看原帖</a> · <a href="https://t.co/vWgK5vwqCQ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Web3Lenny/status/2100638374428369242"><img src="https://pbs.twimg.com/amplify_video_thumb/2100637946059833344/img/YWX1WYmZOM5UirK0.jpg" alt="Simulation Visualizes How Jev Routes Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Web3Lenny/status/2100638374428369242">Simulation Visualizes How Jev Routes Agents</a></h3>
+<p>The author built a simulation to visualize how Jev helps route agents, calling it much faster and cheaper, and praising TypeSafe AI&#39;s work.</p>
+<p><strong>中文摘要：</strong>作者制作了一个模拟来可视化 Jev 如何帮助路由智能体，并称其更快更便宜，同时称赞 TypeSafe AI 的工作。</p>
+<p><strong>Ben</strong> · @Web3Lenny · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 218</p>
+<p><a href="https://x.com/Web3Lenny/status/2100638374428369242">在 X 查看原帖</a></p>
 </td>
 </tr>
 </table>

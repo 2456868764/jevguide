@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 10 | 9 | 1 | 639K |
+| 11 | 9 | 2 | 639K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/FarokhNotes/status/2100999674639327501">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/0913_marco/status/2100844795921076235"><img src="https://pbs.twimg.com/media/HSex1VNbkAAymGD?format=png&amp;name=900x900" alt="Jev Use Cases: Customer Support, Model Routing, and LLM Guardrails · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0913_marco/status/2100844795921076235">Jev Use Cases: Customer Support, Model Routing, and LLM Guardrails</a></h3>
+<p>The post lists potential Jev use cases, arguing that customer support, model routing, and LLM guardrails are solid directions, and suggests placing Jev before and after existing LLMs.</p>
+<p><strong>中文摘要：</strong>帖子列出 Jev 的潜在用例，认为客户支持、模型振り分け和 LLM 护栏是可靠方向，并建议将 Jev 放在现有 LLM 的前后段。</p>
+<p><strong>marco | AI x Web3 | ⚔️ Develop Manager</strong> · @0913_marco · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
+<p><a href="https://x.com/0913_marco/status/2100844795921076235">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/rinte0321/status/2100736454850908344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="E-commerce Real-time Customer Service Demo Built with Jev and gpt-live-1 · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>客户支持</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 15 &nbsp; 🔁 363 &nbsp; ♡ 1.9K &nbsp; 📊 639K</p>
 <p><a href="https://x.com/rinte0321/status/2100736454850908344">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186"><img src="https://pbs.twimg.com/amplify_video_thumb/2100713609756389376/img/9Sdopo46pXonLyBK.jpg" alt="Real-Time Customer Service Prototype by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 17 &nbsp; 🔁 375 &nbsp; ♡ 2.4K &nbsp; 📊 442K</p>
 <p><a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tetumemo/status/2100541516834029707"><img src="https://pbs.twimg.com/amplify_video_thumb/2100541074859253760/img/lO5Rn_75drf1cMmT.jpg" alt="Jev Usage Insight: Don&#39;t Let AI Write Text for Clearer Inquiry Handling · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,5 +141,6 @@
 <p>💬 9 &nbsp; 🔁 15 &nbsp; ♡ 88 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/tetumemo/status/2100541516834029707">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

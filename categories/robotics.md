@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 12 | 10 | 2 | 205K |
+| 14 | 11 | 3 | 205K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/SimeonLi82/status/2101813425101791357"><img src="https://pbs.twimg.com/amplify_video_thumb/2101813283552448512/img/DXPPvOotMGGR8S1x.jpg" alt="Jev triages incidents for a 10K-robot warehouse fleet · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SimeonLi82/status/2101813425101791357">Jev triages incidents for a 10K-robot warehouse fleet</a></h3>
+<p>Simeon Li pointed Jev at a simulated 10K-robot warehouse fleet to triage 300 incidents, reporting p50 0.53s, $0.0000246 per decision, and $354/mo at fleet scale versus $1,814 for GPT-4o-mini — a 5.1x difference.</p>
+<p><strong>中文摘要：</strong>Simeon Li 将 Jev 指向模拟的 1 万机器人仓库车队，对 300 个事件进行分诊，p50 延迟 0.53 秒、每次决策成本 $0.0000246，规模化月成本 $354，对比 GPT-4o-mini 的 $1,814，成本优势 5.1 倍。</p>
+<p><strong>Simeon Li</strong> · @SimeonLi82 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/SimeonLi82/status/2101813425101791357">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/stboi1996/status/2101796464770838967"><img src="https://pbs.twimg.com/amplify_video_thumb/2101796228824526848/img/jgYhJ1byCd8Q2TaE.jpg" alt="ESP32 Robot Integrates Jev for Real-Time Decisions · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>机器人</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/stboi1996/status/2101796464770838967">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SimeonLi82/status/2101694996563026404"><img src="https://pbs.twimg.com/media/HSq4Y8BaQAAIO-4?format=jpg&amp;name=medium" alt="TypeSafe Jev Runs 300 Real API Calls on Warehouse Robot Fleet · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/SimeonLi82/status/2101694996563026404">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/btc_clint/status/2101641051991937038"><img src="https://pbs.twimg.com/amplify_video_thumb/2101640619945009152/img/wSfJS7JM4nLEYPpH.jpg" alt="Jev in a Real-Time Control Loop: 478 Decisions, Zero Crashes · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/btc_clint/status/2101641051991937038">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/openroboto/status/2101310974359941332"><img src="https://pbs.twimg.com/amplify_video_thumb/2101310940260270080/img/mCYBqjSwjUf4UV6d.jpg" alt="Jev Compared with GPT Models for Robot Control in MuJoCo · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 21 &nbsp; 🔁 49 &nbsp; ♡ 389 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/openroboto/status/2101310974359941332">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stash_pomichter/status/2101149600044224698"><img src="https://pbs.twimg.com/amplify_video_thumb/2101149070140014592/img/DdmO54VKkiBapiqs.jpg" alt="Benchmarking Jev on Robotics Tasks · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 19 &nbsp; 🔁 47 &nbsp; ♡ 417 &nbsp; 📊 25K</p>
 <p><a href="https://x.com/stash_pomichter/status/2101149600044224698">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dimentary/status/2101018760371171420"><img src="https://pbs.twimg.com/amplify_video_thumb/2101017646154366976/img/02bH3Hxy9l0qEffS.jpg" alt="Testing Jev as a real-time robotics policy in MuJoCo · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 20 &nbsp; 🔁 52 &nbsp; ♡ 583 &nbsp; 📊 38K</p>
 <p><a href="https://x.com/dimentary/status/2101018760371171420">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/redp314/status/2100489858951073858"><img src="https://pbs.twimg.com/amplify_video_thumb/2100479486382809088/img/r6daGpDnvsCr3LyL.jpg" alt="Using TypeSafe Jev to make a Rubik&#39;s Cube solve itself like a human · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,19 @@
 <p><strong>Paolo Rosson</strong> · @redp314 · 2026-09-17</p>
 <p>💬 25 &nbsp; 🔁 67 &nbsp; ♡ 704 &nbsp; 📊 205K</p>
 <p><a href="https://x.com/redp314/status/2100489858951073858">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nerdytanay/status/2100575567737409989"><img src="https://pbs.twimg.com/media/HSa-UBfakAARS08?format=jpg&amp;name=medium" alt="Controlling a LeRobot Arm with JEV Decision-Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nerdytanay/status/2100575567737409989">Controlling a LeRobot Arm with JEV Decision-Making</a></h3>
+<p>A developer experiments with GPT for reasoning and JEV for decision-making to control a LeRobot arm, with updates promised soon.</p>
+<p><strong>中文摘要：</strong>开发者尝试用 GPT 进行推理、用 JEV 进行决策，以控制 LeRobot 机械臂，并预告后续更新。</p>
+<p><strong>Tanay</strong> · @nerdytanay · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 173</p>
+<p><a href="https://x.com/nerdytanay/status/2100575567737409989">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/SigGravitas/status/2100325221932958134"><img src="https://pbs.twimg.com/amplify_video_thumb/2100323655389474816/img/LLOAJ3wie1phk45K.jpg" alt="Jev Drives a Simulator in Real Time · 原帖视频截图" width="100%"></a>

@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-21 | [ZoCoBrowse adds Jev support for agentic browsing](https://x.com/logic/status/2101840909138825370) | 接入动态 | Srikanth.CashlessConsumer \| ஸ்‌ரீகாந்த் | 87 |
+| 2026-09-21 | [User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations](https://x.com/aad34210/status/2101837143576662211) | 社区实践 | Takashi Minoda | 69 |
+| 2026-09-21 | [Jev powers zsh autosuggestions in the terminal](https://x.com/khajanpandey/status/2101837339387437384) | 开发者工具 | Khajan Pandey | 37 |
+| 2026-09-21 | [User gains Jev access and adds it to toolbox](https://x.com/OneLegDavePDX/status/2101833867913228593) | 接入动态 | OneLegDave | 5 |
+| 2026-09-21 | [AI Learning Event to Cover Jev](https://x.com/kawamoto_LINER/status/2101852325619134676) | 接入动态 | 河本_Kawamoto \| WRC2026・北京🤖✨️ | 2 |
 | 2026-09-20 | [Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison](https://x.com/NFT_Chen/status/2101675124747338229) | 游戏 | SuSu_酥酥👅 | 257K |
 | 2026-09-20 | [Smart Copy/Paste Powered by TypeSafe Jev](https://x.com/marcus_lowe/status/2101476399488160013) | 生产力 | Marcus Lowe | 237K |
 | 2026-09-20 | [Jev + Astra beats Minecraft Ender Dragon in 8m43s](https://x.com/rronak_/status/2101544156757950697) | 游戏 | Ronak Malde | 233K |
@@ -97,8 +102,3 @@
 | 2026-09-20 | [Jev is API-only and closed-source; open alternative Nimble built in one day](https://x.com/DataChaz/status/2101787241165267425) | 接入动态 | Charly Wargnier ♨️ | 3.2K |
 | 2026-09-20 | [Browser Use Integrates TypeSafe Jev Model for Ultrafast Operations](https://x.com/DataChaz/status/2101575783273906469) | 接入动态 | Charly Wargnier ♨️ | 3.0K |
 | 2026-09-20 | [Building Rolewise: A Resume-to-Job Matching Demo with Jev](https://x.com/zhilinjerrywag/status/2101576651238711642) | 知识与搜索 | Zhilin Wang | 2.9K |
-| 2026-09-20 | [Google Says Jev Judgment Model Can Be Reproduced as Open Model](https://x.com/masahirochaen/status/2101792528785948700) | 开发资源 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 2.9K |
-| 2026-09-20 | [Jev Plays 50 Subway Surfers at Once](https://x.com/0xKaveh/status/2101624697255350308) | 游戏 | Kaveh | 2.7K |
-| 2026-09-20 | [Jev Meets Embodied Intelligence: MuJoCo Robotic Arm Simulation in Browser](https://x.com/NFT_Chen/status/2101608965536968782) | 机器人 | SuSu_酥酥👅 | 2.6K |
-| 2026-09-20 | [Hands-on Jev experiment: building a horizontal scrolling game and clearing stage one](https://x.com/hAru_mAki_ch/status/2101541175324995832) | 游戏 | Maki@Sunwood AI Labs. | 2.3K |
-| 2026-09-20 | [TypeSafe Releases Jev: An AI That Makes Typed Decisions](https://x.com/mika_systems/status/2101745157846823228) | 产品发布 | Mika | 2.2K |

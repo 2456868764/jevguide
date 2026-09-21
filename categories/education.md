@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 3 | 2 | 2 | 29K |
+| 4 | 2 | 3 | 29K |
 
 ## Showcase 卡片
 
@@ -45,6 +45,16 @@
 <p>💬 5 &nbsp; 🔁 34 &nbsp; ♡ 246 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/YuInada2/status/2101451019284820098">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://x.com/robpenner/status/2100790139123274188"><img src="https://pbs.twimg.com/media/HSeAb-DXEAErCLG?format=jpg&amp;name=medium" alt="Jev AI described as a non-verbal savant focused on exams · 原帖图片" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/robpenner/status/2100790139123274188">Jev AI described as a non-verbal savant focused on exams</a></h3>
+<p>Robert Penner posts that Jev AI is a non-verbal savant that wastes no circuits on social skills and focuses solely on beating the Scantron, tagging @typesafeai.</p>
+<p><strong>中文摘要：</strong>Robert Penner 发帖称 Jev AI 是不浪费算力在社交技能上的&quot;非语言天才&quot;，只专注应对 Scantron 考试，并 @typesafeai。</p>
+<p><strong>Robert Penner</strong> · @robpenner · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 395</p>
+<p><a href="https://x.com/robpenner/status/2100790139123274188">在 X 查看原帖</a></p>
+</td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 4 | 4 | 0 | 92K |
+| 5 | 4 | 1 | 92K |
 
 ## Showcase 卡片
 
@@ -56,5 +56,19 @@
 <p>💬 27 &nbsp; 🔁 39 &nbsp; ♡ 429 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/rheum_ai/status/2100454043361722798">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EczekMarcin/status/2100524381361365170"><img src="https://pbs.twimg.com/media/HSaAFi2W0AEKBhZ?format=jpg&amp;name=medium" alt="Example of patient triage using the Jev model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EczekMarcin/status/2100524381361365170">Example of patient triage using the Jev model</a></h3>
+<p>The author demonstrates how to triage a patient to the right doctor using only TypeSafe AI&#39;s Jev model and some question-asking code, noting that no LLM is used during the conversation.</p>
+<p><strong>中文摘要：</strong>作者演示了如何仅使用 TypeSafe AI 的 Jev 模型和少量提问代码，将患者分诊到合适的医生，并指出对话中未使用 LLM。</p>
+<p><strong>Marcin Kłeczek</strong> · @EczekMarcin · 2026-09-17</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 119</p>
+<p><a href="https://x.com/EczekMarcin/status/2100524381361365170">在 X 查看原帖</a></p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>

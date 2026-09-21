@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 65 | 39 | 28 | 1.1M |
+| 69 | 41 | 30 | 1.1M |
 
 ## Showcase 卡片
 
@@ -515,6 +515,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/TristanLi99/status/2100854421660057758"><img src="https://pbs.twimg.com/amplify_video_thumb/2100854121557524480/img/qAcp8WqrR4CbHvZs.jpg" alt="TypeSafe AI Releases Jev Model System One · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TristanLi99/status/2100854421660057758">TypeSafe AI Releases Jev Model System One</a></h3>
+<p>TypeSafe AI, founded by former OpenAI member Diogo Almeida, releases the Jev model System One, recently gaining attention on X.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI（前 OpenAI 成员 Diogo Almeida 创立）发布 Jev 模型 System One，近期在 X 上引发关注。</p>
+<p><strong>Tristan Lee</strong> · @TristanLi99 · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
+<p><a href="https://x.com/TristanLi99/status/2100854421660057758">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/aitrend_log/status/2101003062760690015"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="ChatGPT Co-Developer Unveils New AI &quot;Jev&quot;: No Writing, Just Fast Judgments · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -525,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
 <p><a href="https://x.com/aitrend_log/status/2101003062760690015">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101010990984769999"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101010921002782720/pu/img/rQIBe8xOEfKAOZYm.jpg" alt="Diogo Almeida Launches Jev: A Model That Decides, Not Generates Text · 原帖视频截图" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
 <p><a href="https://x.com/1CMartinez/status/2101010990984769999">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/titosemi/status/2100958049691394169"><img src="https://pbs.twimg.com/media/HSgaNjNbEAAUih7?format=jpg&amp;name=medium" alt="TypeSafe AI launches Jev: a model that decides for AI agents instead of writing text · 原帖图片" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
 <p><a href="https://x.com/titosemi/status/2100958049691394169">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iam_zachi/status/2100679300756435135"><img src="https://pbs.twimg.com/amplify_video_thumb/2100674729216524288/img/ZqaCccSfzuzlrdro.jpg" alt="jev(): PostgreSQL extension for natural language search · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 121 &nbsp; 🔁 266 &nbsp; ♡ 2.8K &nbsp; 📊 419K</p>
 <p><a href="https://x.com/iam_zachi/status/2100679300756435135">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CompleteSkeptic/status/2100454726462804333"><img src="https://pbs.twimg.com/media/HSZQWFEa0AEXY1c?format=jpg&amp;name=medium" alt="140k off the Jev waitlist in under 36 hours · 原帖图片" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 184 &nbsp; 🔁 112 &nbsp; ♡ 3.3K &nbsp; 📊 151K</p>
 <p><a href="https://x.com/CompleteSkeptic/status/2100454726462804333">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2100466502545862725"><img src="https://pbs.twimg.com/amplify_video_thumb/2100347372844756992/img/CaExDBw3MTf0ia58.jpg" alt="Jev Model Replicates Tesla FSD in One Hour? · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 33 &nbsp; 🔁 53 &nbsp; ♡ 348 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/NFT_Chen/status/2100466502545862725">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/waynesutton/status/2100487878992388279"><img src="https://pbs.twimg.com/amplify_video_thumb/2100486117325955072/img/_QailXRTsMGQ_atc.jpg" alt="Ask Jev launches: ask anything, let Jev judge · 原帖视频截图" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 64 &nbsp; 🔁 39 &nbsp; ♡ 516 &nbsp; 📊 95K</p>
 <p><a href="https://x.com/waynesutton/status/2100487878992388279">在 X 查看原帖</a> · <a href="https://t.co/P9QMfdDc0r">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/riku720720/status/2100705558512963602"><img src="https://pbs.twimg.com/amplify_video_thumb/2100705222016520192/img/BxzTN_rxkA_FLvwe.jpg" alt="Demo of Real-Time Emoji Candidate Output by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 5 &nbsp; 🔁 82 &nbsp; ♡ 673 &nbsp; 📊 94K</p>
 <p><a href="https://x.com/riku720720/status/2100705558512963602">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/manthanguptaa/status/2100466984605417923"><img src="https://pbs.twimg.com/media/HSZZjySaIAA6vsm?format=jpg&amp;name=medium" alt="Jev model launch: questioning autoregressive LLMs as expensive if-statements in software · 原帖图片" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 34 &nbsp; 🔁 63 &nbsp; ♡ 697 &nbsp; 📊 71K</p>
 <p><a href="https://x.com/manthanguptaa/status/2100466984605417923">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hr98w/status/2100646513412292873"><img src="https://pbs.twimg.com/amplify_video_thumb/2100641762557714432/img/FMQcHyJNyCQCbaca.jpg" alt="Visual Edition Jev Released: Local Multimodal 4-bit Quantized Deployment · 原帖视频截图" width="100%"></a>
 <br>
@@ -631,6 +644,41 @@
 <p><strong>Haoran | 公众号：独立开发</strong> · @hr98w · 2026-09-17</p>
 <p>💬 31 &nbsp; 🔁 38 &nbsp; ♡ 303 &nbsp; 📊 35K</p>
 <p><a href="https://x.com/hr98w/status/2100646513412292873">在 X 查看原帖</a> · <a href="https://t.co/x0kzeE3hdx">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tzangms/status/2100729243793805362"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2100729046326022144/pu/img/D4Kd9y8YMQNfYF_-.jpg" alt="TypeSafe Releases New Model Jev, X Reacts Enthusiastically · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tzangms/status/2100729243793805362">TypeSafe Releases New Model Jev, X Reacts Enthusiastically</a></h3>
+<p>TypeSafe released its new model Jev just a day ago, and X users are already buzzing. The model does only one thing: quickly and accurately determine if someone is making it play Super Mario, Tetris, or rebuild Tesla.</p>
+<p><strong>中文摘要：</strong>TypeSafe 发布新模型 Jev 仅一天，X 上用户已热烈讨论。该模型只做一件事：快速准确判断用户是否在让它玩 Super Mario、Tetris 或重建 Tesla。</p>
+<p><strong>海總理</strong> · @tzangms · 2026-09-17</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 36 &nbsp; 📊 2.1K</p>
+<p><a href="https://x.com/tzangms/status/2100729243793805362">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dotpem/status/2100732344416264328"><img src="https://pbs.twimg.com/media/HSdM7zlaoAAcaRI?format=jpg&amp;name=medium" alt="User says they want TypeSafe&#39;s Jev, not overpriced chat · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dotpem/status/2100732344416264328">User says they want TypeSafe&#39;s Jev, not overpriced chat</a></h3>
+<p>Nathan LeClaire posts that nobody wants overpriced chat, they just want TypeSafe AI&#39;s Jev, tagging #jev.</p>
+<p><strong>中文摘要：</strong>Nathan LeClaire 发帖表示没人想要高价聊天工具，只想要 TypeSafe AI 的 Jev，并带上 #jev 标签。</p>
+<p><strong>Nathan LeClaire</strong> · @dotpem · 2026-09-17</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 483</p>
+<p><a href="https://x.com/dotpem/status/2100732344416264328">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pcherkashinX/status/2100527809286352990"><img src="https://pbs.twimg.com/media/HSaSwHVWMAAjK-4?format=jpg&amp;name=medium" alt="TypeSafe Launches JEV: An AI Model That Decides, Not Writes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pcherkashinX/status/2100527809286352990">TypeSafe Launches JEV: An AI Model That Decides, Not Writes</a></h3>
+<p>TypeSafe launched JEV, a model that decides rather than writes text. The author tested it on 80 real routing decisions: 98.3% top-1, 100% at confidence ≥0.9, total cost 3 cents, with deep reading at 25% and self-flagged.</p>
+<p><strong>中文摘要：</strong>TypeSafe 推出 JEV 模型，不生成文本只做决策。作者在 80 个真实路由决策上测试，top-1 准确率 98.3%，置信度≥0.9 时达 100%，总成本 3 美分，深度阅读占比 25% 且模型自行标记。</p>
+<p><strong>pcherkashin.x</strong> · @pcherkashinX · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/pcherkashinX/status/2100527809286352990">在 X 查看原帖</a> · <a href="https://t.co/n4TsCsmu8O">原文链接</a></p>
 </td>
 </tr>
 <tr>

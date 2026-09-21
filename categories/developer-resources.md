@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 59 | 29 | 30 | 419K |
+| 64 | 33 | 31 | 419K |
 
 ## Showcase 卡片
 
@@ -598,6 +598,19 @@
 <p><a href="https://x.com/omarjpeg/status/2101047036863037753">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Devoxx/status/2100824445409427734"><img src="https://pbs.twimg.com/amplify_video_thumb/2100672777917210624/img/Te-idi14Nd64YVJ4.jpg" alt="Open Source Java Implementation of Jev Parallel Constraint Decoder (via Llama.cpp) · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Devoxx/status/2100824445409427734">Open Source Java Implementation of Jev Parallel Constraint Decoder (via Llama.cpp)</a></h3>
+<p>Devoxx shares an open source Java implementation of the Jev parallel constraint decoder built on Llama.cpp.</p>
+<p><strong>中文摘要：</strong>Devoxx 分享了一个基于 Llama.cpp 的开源 Java 版 Jev 并行约束解码器实现。</p>
+<p><strong>Devoxx</strong> · @Devoxx · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 975</p>
+<p><a href="https://x.com/Devoxx/status/2100824445409427734">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/mmastrac/status/2100626193943052784"><img src="https://pbs.twimg.com/media/HSbpIYIagAY_7EC?format=jpg&amp;name=medium" alt="Live evals compare Jev vs DiffusionGemma · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -608,8 +621,6 @@
 <p>💬 49 &nbsp; 🔁 120 &nbsp; ♡ 1.1K &nbsp; 📊 374K</p>
 <p><a href="https://x.com/mmastrac/status/2100626193943052784">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moritzkremb/status/2100715237267660873"><img src="https://pbs.twimg.com/amplify_video_thumb/2100714561389129730/img/mHB9NznquD7-VkyS.jpg" alt="Full Jev Tutorial: Intro, API Setup and Three Demos · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 54 &nbsp; 🔁 382 &nbsp; ♡ 2.9K &nbsp; 📊 240K</p>
 <p><a href="https://x.com/moritzkremb/status/2100715237267660873">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/andy0440sada/status/2100426558863458770"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085174826647552/img/6YMRQKKZYBPsW2oo.jpg" alt="typesafe-mario: Open-source project linking emulator info to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 2 &nbsp; 🔁 193 &nbsp; ♡ 1.1K &nbsp; 📊 176K</p>
 <p><a href="https://x.com/andy0440sada/status/2100426558863458770">在 X 查看原帖</a> · <a href="https://t.co/mWpmC3bTNz">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ScarletKc/status/2100718364922683499"><img src="https://pbs.twimg.com/amplify_video_thumb/2100044290743558144/img/qoO9w7RnXjqtrq6I.jpg" alt="Someone open-sourced a Qwen-based Jev-style parallel classification and probability output implementation · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 42 &nbsp; 🔁 69 &nbsp; ♡ 813 &nbsp; 📊 170K</p>
 <p><a href="https://x.com/ScarletKc/status/2100718364922683499">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moritzkremb/status/2100520536464105556"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="A thread of explanations and examples for Jev by TypeSafe AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -656,8 +669,6 @@
 <p>💬 18 &nbsp; 🔁 55 &nbsp; ♡ 547 &nbsp; 📊 161K</p>
 <p><a href="https://x.com/moritzkremb/status/2100520536464105556">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ekzhang1/status/2100651678110515383"><img src="https://pbs.twimg.com/amplify_video_thumb/2100650872896409600/img/5UEJfLYI86-q2mwG.jpg" alt="Jev-compatible public API: fast parallel System One generation with SGLang · 原帖视频截图" width="100%"></a>
 <br>
@@ -669,6 +680,8 @@
 <p>💬 28 &nbsp; 🔁 72 &nbsp; ♡ 977 &nbsp; 📊 140K</p>
 <p><a href="https://x.com/ekzhang1/status/2100651678110515383">在 X 查看原帖</a> · <a href="https://t.co/bbRh4yAPAB">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iwasakoya/status/2100471523358474709"><img src="https://pbs.twimg.com/amplify_video_thumb/2100471095627591680/img/jQewHJZ85th2EEv3.jpg" alt="Building a Document Upload Permission Checker with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -680,8 +693,6 @@
 <p>💬 6 &nbsp; 🔁 76 &nbsp; ♡ 525 &nbsp; 📊 73K</p>
 <p><a href="https://x.com/iwasakoya/status/2100471523358474709">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jpschroeder/status/2100698502531514761"><img src="https://pbs.twimg.com/amplify_video_thumb/2100695514970718208/img/JdLlK-j6d3MKBgPF.jpg" alt="Tesla FSD Jev demo open sourced, try it online · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +704,56 @@
 <p>💬 16 &nbsp; 🔁 49 &nbsp; ♡ 351 &nbsp; 📊 64K</p>
 <p><a href="https://x.com/jpschroeder/status/2100698502531514761">在 X 查看原帖</a> · <a href="https://t.co/iS6Ch6EoI3">原文链接</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/akira_papa_IT/status/2100581114293506163"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581062917459968/img/ZewM2VXm59EvPS3E.jpg" alt="Developer builds semantic search with Devin and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akira_papa_IT/status/2100581114293506163">Developer builds semantic search with Devin and Jev</a></h3>
+<p>A developer shares demoing a speedy semantic search feature built with Devin and Jev at a seminar, praising Jev&#39;s many use cases.</p>
+<p><strong>中文摘要：</strong>一位开发者分享在研讨会上演示了使用 Devin 与 Jev 为应用快速构建语义搜索功能，并称赞 Jev 拥有众多实用用例。</p>
+<p><strong>あきらパパ【生成AI活用エンジニア&amp;３児のパパ】</strong> · @akira_papa_IT · 2026-09-17</p>
+<p>💬 7 &nbsp; 🔁 12 &nbsp; ♡ 46 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/akira_papa_IT/status/2100581114293506163">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Happm_HCS/status/2100588739471024303"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581062917459968/img/ZewM2VXm59EvPS3E.jpg" alt="Devin × Jev Demo Showcases Semantic Search · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Happm_HCS/status/2100588739471024303">Devin × Jev Demo Showcases Semantic Search</a></h3>
+<p>A user shares the Devin × Jev demo, amazed at how quickly a meaning-based search was added to the app, and considers using it in their own work.</p>
+<p><strong>中文摘要：</strong>用户分享 Devin × Jev 演示，惊叹应用快速加入按语义查找的搜索功能，并思考如何用于自己的工作。</p>
+<p><strong>すぎ｜AI開発×仕事に使えるAI</strong> · @Happm_HCS · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/Happm_HCS/status/2100588739471024303">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/azamsharp/status/2100622025228169713"><img src="https://pbs.twimg.com/amplify_video_thumb/2100621747888291840/img/EE7lxOLZR5SfCB56.jpg" alt="Getting Started with JEV: API Keys, HTTP Requests &amp; JavaScript/Python SDKs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/azamsharp/status/2100622025228169713">Getting Started with JEV: API Keys, HTTP Requests &amp; JavaScript/Python SDKs</a></h3>
+<p>Covers JEV getting-started steps including API keys, HTTP requests, and using the JavaScript and Python SDKs.</p>
+<p><strong>中文摘要：</strong>介绍 JEV 的入门步骤，涵盖 API 密钥、HTTP 请求以及 JavaScript 和 Python SDK 的使用。</p>
+<p><strong>Mohammad Azam</strong> · @azamsharp · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 767</p>
+<p><a href="https://x.com/azamsharp/status/2100622025228169713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tawasee/status/2100612758467432712"><img src="https://pbs.twimg.com/media/HSbgK5TbUAAsSRI?format=jpg&amp;name=900x900" alt="Feeding Pen Stroke Vectors into Jev for Recognition · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tawasee/status/2100612758467432712">Feeding Pen Stroke Vectors into Jev for Recognition</a></h3>
+<p>The user sent pen stroke vector data from a tablet to Jev instead of an image, achieving low-confidence recognition of the letter A and questioning whether Jev properly understands the geometric information.</p>
+<p><strong>中文摘要：</strong>用户尝试将平板手写笔的矢量笔画数据而非图像发送给 Jev，虽然置信度较低但成功识别出字母 A，并质疑 Jev 是否能正确理解数据的几何信息。</p>
+<p><strong>tawasee</strong> · @tawasee · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 248</p>
+<p><a href="https://x.com/tawasee/status/2100612758467432712">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vinnylarouge/status/2100170846346097083"><img src="https://pbs.twimg.com/media/HSVN9GfWcAARS8b?format=jpg&amp;name=medium" alt="Reverse-engineered a Jev-like architecture with open-source training repo · 原帖图片" width="100%"></a>
 <br>
@@ -704,8 +765,6 @@
 <p>💬 48 &nbsp; 🔁 191 &nbsp; ♡ 2.0K &nbsp; 📊 165K</p>
 <p><a href="https://x.com/vinnylarouge/status/2100170846346097083">在 X 查看原帖</a> · <a href="https://t.co/UVPfP6OoqZ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stevekrouse/status/2100287368221659289"><img src="https://pbs.twimg.com/amplify_video_thumb/2100287272918593538/img/Wfej3okCPXU3wgN5.jpg" alt="TypeSafe Jev Live Demo Available to Play · 原帖视频截图" width="100%"></a>
 <br>
@@ -717,6 +776,5 @@
 <p>💬 25 &nbsp; 🔁 41 &nbsp; ♡ 587 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/stevekrouse/status/2100287368221659289">在 X 查看原帖</a> · <a href="https://t.co/ctnPF0w70r">原文链接</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 20 | 11 | 9 | 392K |
+| 22 | 12 | 10 | 392K |
 
 ## Showcase 卡片
 
@@ -166,6 +166,19 @@
 <p><a href="https://x.com/dabit3/status/2100780008193020049">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/kun70706/status/2100850609805209753"><img src="https://pbs.twimg.com/media/HSe3wV7aEAEKC5l?format=jpg&amp;name=large" alt="Jev vs qwen3.8-flash: Intent Recognition Speed Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kun70706/status/2100850609805209753">Jev vs qwen3.8-flash: Intent Recognition Speed Comparison</a></h3>
+<p>Across 55 real intent-recognition requests, Jev averaged 0.78s versus 3s for qwen3.8-flash, about 4x faster.</p>
+<p><strong>中文摘要：</strong>在 55 条真实意图识别需求上，Jev 平均耗时 0.78 秒，qwen3.8-flash 平均 3 秒，Jev 快约 4 倍。</p>
+<p><strong>StormOfCup</strong> · @kun70706 · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 315</p>
+<p><a href="https://x.com/kun70706/status/2100850609805209753">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ytiskw/status/2100474943154827344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100474178457698304/img/DXGnHg-iUrEhsFgE.jpg" alt="Simulating Product Adoption Intent of 150 Fictional Personas via Jev API · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖视频</code></sub>
@@ -176,8 +189,6 @@
 <p>💬 9 &nbsp; 🔁 107 &nbsp; ♡ 1.1K &nbsp; 📊 241K</p>
 <p><a href="https://x.com/ytiskw/status/2100474943154827344">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robj3d3/status/2100631889585606959"><img src="https://pbs.twimg.com/media/HSbxP15bMAA1LaU?format=jpg&amp;name=medium" alt="Building a Viral Post Classifier with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 55 &nbsp; 🔁 15 &nbsp; ♡ 615 &nbsp; 📊 166K</p>
 <p><a href="https://x.com/robj3d3/status/2100631889585606959">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nutlope/status/2100426999546184123"><img src="https://pbs.twimg.com/amplify_video_thumb/2100425141947604992/img/AITyHwcOWq1jw-3Z.jpg" alt="Classifying 1,018 AI Papers with Jev for $0.08 · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 118 &nbsp; 🔁 182 &nbsp; ♡ 2.0K &nbsp; 📊 164K</p>
 <p><a href="https://x.com/nutlope/status/2100426999546184123">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iannuttall/status/2100668908227162567"><img src="https://pbs.twimg.com/amplify_video_thumb/2100668725737213952/img/m210oIkCyuGX5Dqr.jpg" alt="Analyzing 3,282 X posts with Jev to find growth patterns · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 54 &nbsp; 🔁 45 &nbsp; ♡ 745 &nbsp; 📊 87K</p>
 <p><a href="https://x.com/iannuttall/status/2100668908227162567">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Khazix0918/status/2100614133171552435"><img src="https://pbs.twimg.com/media/HSbgXI-agAAkxpB?format=png&amp;name=900x900" alt="Testing Jev&#39;s classification accuracy: solid for AIHOT pre-screening · 原帖图片" width="100%"></a>
 <br>
@@ -223,6 +236,17 @@
 <p><strong>数字生命卡兹克</strong> · @Khazix0918 · 2026-09-17</p>
 <p>💬 58 &nbsp; 🔁 8 &nbsp; ♡ 196 &nbsp; 📊 45K</p>
 <p><a href="https://x.com/Khazix0918/status/2100614133171552435">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rahulbuildsmore/status/2100581721515188451"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581250469711872/img/ohCdCO1BURKHBdWA.jpg" alt="Jev vs Gemini 3.8 Flash benchmark on app review analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rahulbuildsmore/status/2100581721515188451">Jev vs Gemini 3.8 Flash benchmark on app review analysis</a></h3>
+<p>The author tested Jev against Gemini 3.8 Flash on 1,000 real app reviews for sentiment, topic, bug, and churn risk detection. Jev took 4.6s and $0.023, while Gemini took 18.8s and $0.158, with a GitHub repo linked.</p>
+<p><strong>中文摘要：</strong>作者用 1,000 条真实应用评论测试 Jev 与 Gemini 3.8 Flash，在情感、主题、bug 和流失风险判断任务上，Jev 耗时 4.6 秒、花费 0.023 美元，Gemini 耗时 18.8 秒、花费 0.158 美元，并附上 GitHub 仓库。</p>
+<p><strong>Rahul Kumar</strong> · @rahulbuildsmore · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 624</p>
+<p><a href="https://x.com/rahulbuildsmore/status/2100581721515188451">在 X 查看原帖</a> · <a href="https://t.co/XzVZ9SGcpO">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -1,26 +1,26 @@
 # Jev Showcases by Category
 
-- [Developer tools](../categories/developer-tools.md) — 113
-- [Access updates](../categories/access-updates.md) — 106
-- [How it works](../categories/how-it-works.md) — 105
-- [Gaming](../categories/gaming.md) — 85
-- [Launch news](../categories/launch-news.md) — 65
-- [Developer resources](../categories/developer-resources.md) — 59
-- [Agents](../categories/agents.md) — 54
-- [Community builds](../categories/community-builds.md) — 54
+- [Developer tools](../categories/developer-tools.md) — 116
+- [Access updates](../categories/access-updates.md) — 116
+- [How it works](../categories/how-it-works.md) — 115
+- [Gaming](../categories/gaming.md) — 89
+- [Launch news](../categories/launch-news.md) — 69
+- [Developer resources](../categories/developer-resources.md) — 64
+- [Agents](../categories/agents.md) — 60
+- [Community builds](../categories/community-builds.md) — 60
 - [Finance](../categories/finance.md) — 46
 - [Marketing](../categories/marketing.md) — 37
 - [Workflow automation](../categories/workflow-automation.md) — 32
-- [Knowledge & search](../categories/knowledge-search.md) — 25
+- [Knowledge & search](../categories/knowledge-search.md) — 27
 - [Content creation](../categories/content-creation.md) — 22
-- [Data analytics](../categories/data-analytics.md) — 20
-- [Robotics](../categories/robotics.md) — 12
-- [Customer support](../categories/customer-support.md) — 10
+- [Data analytics](../categories/data-analytics.md) — 22
+- [Robotics](../categories/robotics.md) — 14
+- [Customer support](../categories/customer-support.md) — 11
 - [Productivity](../categories/productivity.md) — 9
-- [Scientific research](../categories/scientific-research.md) — 7
+- [Scientific research](../categories/scientific-research.md) — 8
 - [Business operations](../categories/business-operations.md) — 6
 - [Cybersecurity](../categories/cybersecurity.md) — 6
 - [Software development](../categories/software-development.md) — 6
+- [Healthcare](../categories/healthcare.md) — 5
 - [E-commerce](../categories/e-commerce.md) — 5
-- [Healthcare](../categories/healthcare.md) — 4
-- [Education](../categories/education.md) — 3
+- [Education](../categories/education.md) — 4

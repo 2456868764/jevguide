@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 105 | 65 | 40 | 1.6M |
+| 115 | 66 | 49 | 1.6M |
 
 ## Showcase 卡片
 
@@ -958,6 +958,19 @@
 <p><a href="https://x.com/xzhang_billy/status/2100893231861149901">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/ANGEWORK_EMI/status/2100824453005636035"><img src="https://pbs.twimg.com/media/HSegrEjbgAA95LH?format=jpg&amp;name=medium" alt="Jev Explained in 5 Slides: Differences from if Statements, OpenJev, and Speedups · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ANGEWORK_EMI/status/2100824453005636035">Jev Explained in 5 Slides: Differences from if Statements, OpenJev, and Speedups</a></h3>
+<p>The author uses 5 slides to introduce Jev: the idea is simple, but combined with AI it makes an old mechanism surprisingly interesting, covering differences from if statements, OpenJev, speedups, and use cases.</p>
+<p><strong>中文摘要：</strong>作者用5张图介绍Jev：思路本身简单，但与AI结合后能让旧机制焕发新意，涵盖与if语句的区别、OpenJev、高速化及实际用途。</p>
+<p><strong>えみっく</strong> · @ANGEWORK_EMI · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 187</p>
+<p><a href="https://x.com/ANGEWORK_EMI/status/2100824453005636035">在 X 查看原帖</a> · <a href="https://t.co/DS6x5bGav8">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/nagata_hideyuki/status/2100945299342803198"><img src="https://pbs.twimg.com/amplify_video_thumb/2100944748622254080/img/Y85YDj8TMXRDmxNW.jpg" alt="Diverging Opinions in Jev Deliberation: The Three Sages&#39; Verdict · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -967,6 +980,41 @@
 <p><strong>長田英幸 | AWS Community Builder AI Engineering</strong> · @nagata_hideyuki · 2026-09-18</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 158</p>
 <p><a href="https://x.com/nagata_hideyuki/status/2100945299342803198">在 X 查看原帖</a> · <a href="https://t.co/csnIrJg0N2">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/singh_ojasv/status/2100862742596833693"><img src="https://pbs.twimg.com/media/HSfC6TMW0AAFiRp?format=png&amp;name=small" alt="User Hopes for a Jev-like Model with Vision Capabilities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/singh_ojasv/status/2100862742596833693">User Hopes for a Jev-like Model with Vision Capabilities</a></h3>
+<p>A user hopes for a Jev-like model with vision capabilities, envisioning optimization math to find optimal hyperparameters and reliable answers.</p>
+<p><strong>中文摘要：</strong>用户提出希望发布具备视觉能力的 Jev 类模型，并设想通过优化数学获取最优超参数以获得可靠答案。</p>
+<p><strong>Ojasv Singh</strong> · @singh_ojasv · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 101</p>
+<p><a href="https://x.com/singh_ojasv/status/2100862742596833693">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FrontieraTechIT/status/2100802441566445654"><img src="https://pbs.twimg.com/media/HSeMr1IWsAAnTRS?format=jpg&amp;name=medium" alt="TypeSafe introduces Jev: a System One model that doesn&#39;t write text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/FrontieraTechIT/status/2100802441566445654">TypeSafe introduces Jev: a System One model that doesn&#39;t write text</a></h3>
+<p>Jev takes app state and typed questions, returning choices, scores, and calibrated probabilities in 70–500ms. No parsing, no chatbot; keep the big LLM for writing.</p>
+<p><strong>中文摘要：</strong>Jev 接收应用状态和类型化问题，在 70–500ms 内返回选择、分数和校准概率，无需解析，也不做聊天机器人；写作仍交给大语言模型。</p>
+<p><strong>Frontiera Tech</strong> · @FrontieraTechIT · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
+<p><a href="https://x.com/FrontieraTechIT/status/2100802441566445654">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/islandsofmoons/status/2100747130180960454"><img src="https://pbs.twimg.com/media/HSdXoTebsAAVCJ5?format=jpg&amp;name=medium" alt="Jev proposes designing autonomous systems as decisions over state-dependent action spaces · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/islandsofmoons/status/2100747130180960454">Jev proposes designing autonomous systems as decisions over state-dependent action spaces</a></h3>
+<p>Jev (@typesafeai) launched less than 2 days ago by Diogo (@CompleteSkeptic), with the key idea that autonomous systems may be better designed as decisions over state-dependent action spaces.</p>
+<p><strong>中文摘要：</strong>Jev (@typesafeai) 由 Diogo(@CompleteSkeptic) 发布不到两天，其核心观点是自主系统可更好地设计为基于状态依赖动作空间的决策。</p>
+<p><strong>ZX🇨🇦</strong> · @islandsofmoons · 2026-09-18</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/islandsofmoons/status/2100747130180960454">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -1111,6 +1159,78 @@
 <p><strong>车厘子</strong> · @0xcherry · 2026-09-17</p>
 <p>💬 18 &nbsp; 🔁 18 &nbsp; ♡ 142 &nbsp; 📊 23K</p>
 <p><a href="https://x.com/0xcherry/status/2100529937488957924">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/moduloseal/status/2100530923880284326"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev uses a single forward pass for multi-task classification, replacing LLMs for semantic classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/moduloseal/status/2100530923880284326">Jev uses a single forward pass for multi-task classification, replacing LLMs for semantic classification</a></h3>
+<p>The post interprets Jev&#39;s decoder output: instead of autoregressive next-token prediction, it performs multi-task classification in a single forward pass, so it can be used for semantic classification and directly replace an existing LLM, enabling semantic information routing.</p>
+<p><strong>中文摘要：</strong>帖子解读 Jev 的解码器输出：不做自回归下一词预测，而是单次前向传播完成多任务分类，因此可用于语义分类场景并直接替换原 LLM，实现按语义路由信息。</p>
+<p><strong>あざらし@kintone</strong> · @moduloseal · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 252</p>
+<p><a href="https://x.com/moduloseal/status/2100530923880284326">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BencyMarrit/status/2100545058470596970"><img src="https://pbs.twimg.com/media/HSaieL5XMAAT8yq?format=jpg&amp;name=medium" alt="Jev Model: No Chat, Only Three Judgment Types—Is &#39;Zero Hallucination&#39; Just Wordplay? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BencyMarrit/status/2100545058470596970">Jev Model: No Chat, Only Three Judgment Types—Is &#39;Zero Hallucination&#39; Just Wordplay?</a></h3>
+<p>The post describes the Jev model as not chatting or writing code, only performing three task types—choice, scoring, and true/false judgment—with pre-enumerated answers, single forward-pass probabilities, and free output, noting its zero-hallucination claim only guarantees valid format.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 模型不聊天不写代码，只做选择、打分和是非判断三类任务，答案提前枚举、一次前向出概率且输出免费，并指出其零幻觉承诺仅保证格式合法。</p>
+<p><strong>AI大表哥「· 作业本」</strong> · @BencyMarrit · 2026-09-17</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 250</p>
+<p><a href="https://x.com/BencyMarrit/status/2100545058470596970">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mega_takoyaki/status/2100731354833133910"><img src="https://pbs.twimg.com/media/HSdMCE2bAAAsOCf?format=jpg&amp;name=medium" alt="Reflecting on TypeSafe Jev with LLMs and Rule-Based Systems · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mega_takoyaki/status/2100731354833133910">Reflecting on TypeSafe Jev with LLMs and Rule-Based Systems</a></h3>
+<p>The author says combining TypeSafe Jev with LLMs and rule-based systems addresses prior frustrations but implies significant rework of existing systems.</p>
+<p><strong>中文摘要：</strong>作者表示 TypeSafe 的 Jev 与 LLM、规则库的结合触及了此前的困惑，但也意味着需要大幅重构现有系统。</p>
+<p><strong>たくあん</strong> · @mega_takoyaki · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 65</p>
+<p><a href="https://x.com/mega_takoyaki/status/2100731354833133910">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Imbucatura72/status/2100594939897794600"><img src="https://pbs.twimg.com/media/HSbP2c_XEAAbI6T?format=jpg&amp;name=medium" alt="Jev doesn&#39;t talk but classifies and decides 200x faster than other AI models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Imbucatura72/status/2100594939897794600">Jev doesn&#39;t talk but classifies and decides 200x faster than other AI models</a></h3>
+<p>Introduces the Jev model, which doesn&#39;t converse but focuses on classification and decision-making, claimed to be 200x faster than other AI models, tagged TypeSafe.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 模型不进行对话，专注于分类和决策，速度比其它 AI 模型快 200 倍，并带有 TypeSafe 标签。</p>
+<p><strong>Cristina Imbucatura</strong> · @Imbucatura72 · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 50</p>
+<p><a href="https://x.com/Imbucatura72/status/2100594939897794600">在 X 查看原帖</a> · <a href="https://t.co/LMc9TpDdDo">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/adventurers_4/status/2100531198280024487"><img src="https://pbs.twimg.com/media/HSaVy3oaYAAq8JN?format=jpg&amp;name=medium" alt="Jev: Pure Thinking Freed from Conversational Noise · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/adventurers_4/status/2100531198280024487">Jev: Pure Thinking Freed from Conversational Noise</a></h3>
+<p>The post describes Jev as a new way of thinking that escapes conversational noise and returns to pure thought, tagged #AI, #Jev, #resources.</p>
+<p><strong>中文摘要：</strong>帖子将Jev描述为一种摆脱对话噪声、回归纯粹思考的新思维方式，并附有#AI、#Jev、#资源标签。</p>
+<p><strong>あdventurers</strong> · @adventurers_4 · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/adventurers_4/status/2100531198280024487">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ArtsEtCultureQc/status/2100514211805692387"><img src="https://pbs.twimg.com/media/HSaGiyoXcAEIJTt?format=jpg&amp;name=medium" alt="Team takes a different route from frontier large models, focusing on System One · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ArtsEtCultureQc/status/2100514211805692387">Team takes a different route from frontier large models, focusing on System One</a></h3>
+<p>A French post praises a team for taking a route on System One that differs from frontier large models, tagging TypeSafe AI.</p>
+<p><strong>中文摘要：</strong>一条法语帖子称赞某团队在 System One 上选择了不同于前沿大模型的路线，并标记了 TypeSafe AI。</p>
+<p><strong>Arts et culture</strong> · @ArtsEtCultureQc · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/ArtsEtCultureQc/status/2100514211805692387">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

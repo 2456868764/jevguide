@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 7 | 3 | 4 | 136K |
+| 8 | 4 | 4 | 136K |
 
 ## Showcase 卡片
 
@@ -93,6 +93,16 @@
 <p>💬 17 &nbsp; 🔁 27 &nbsp; ♡ 188 &nbsp; 📊 136K</p>
 <p><a href="https://x.com/airesearch12/status/2101311769113178270">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://x.com/MarissaFamularo/status/2100585751398232539"><img src="https://pbs.twimg.com/amplify_video_thumb/2100585700890472448/img/_BaNzZ4KXWwgw-LR.jpg" alt="TypeSafe AI Added to Citation Checker Tool · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MarissaFamularo/status/2100585751398232539">TypeSafe AI Added to Citation Checker Tool</a></h3>
+<p>User added @typesafeai to their citation checker and praises it, free to try at PaperTrellis, tagged with Jev and AI in medicine.</p>
+<p><strong>中文摘要：</strong>用户将 @typesafeai 加入其引用检查器并给予好评，可在 PaperTrellis 免费试用，标签涉及 Jev 与医学 AI。</p>
+<p><strong>Marissa Famularo</strong> · @MarissaFamularo · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/MarissaFamularo/status/2100585751398232539">在 X 查看原帖</a> · <a href="https://t.co/Hl76VsvAei">原文链接</a></p>
+</td>
 </tr>
 </table>

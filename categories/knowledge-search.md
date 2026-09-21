@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 25 | 16 | 9 | 235K |
+| 27 | 17 | 10 | 235K |
 
 ## Showcase 卡片
 
@@ -260,6 +260,30 @@
 <p><strong>李不凯正在研究</strong> · @libukai · 2026-09-18</p>
 <p>💬 25 &nbsp; 🔁 14 &nbsp; ♡ 160 &nbsp; 📊 17K</p>
 <p><a href="https://x.com/libukai/status/2100984923926728920">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dr_nikhilshah/status/2100810954674212969"><img src="https://pbs.twimg.com/media/HSeUbfRbUAACF0G?format=jpg&amp;name=medium" alt="Jev cuts AudioScholar curation time by ~25x · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dr_nikhilshah/status/2100810954674212969">Jev cuts AudioScholar curation time by ~25x</a></h3>
+<p>A user with access to TypeSafe AI&#39;s Jev applied it to AudioScholar, cutting curation time ~25x versus Sonnet with 80% concurrence and catching items Sonnet missed.</p>
+<p><strong>中文摘要：</strong>用户获得 TypeSafe AI 的 Jev 访问权限后应用于 AudioScholar，整理时间比 Sonnet 缩短约 25 倍，一致率 80%，并发现 Sonnet 遗漏的内容。</p>
+<p><strong>Nikhil Shah MBBS DNB(IM, Neph)🇨🇦</strong> · @dr_nikhilshah · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 446</p>
+<p><a href="https://x.com/dr_nikhilshah/status/2100810954674212969">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Brantley_Brum/status/2100789817475051981"><img src="https://pbs.twimg.com/amplify_video_thumb/2100789578307420161/img/zK90Lvnf6zpvUfMd.jpg" alt="Learn about TypeSafe AI&#39;s Jev model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Brantley_Brum/status/2100789817475051981">Learn about TypeSafe AI&#39;s Jev model</a></h3>
+<p>A post introducing TypeSafe AI&#39;s Jev model and inviting users to learn more.</p>
+<p><strong>中文摘要：</strong>一条介绍 TypeSafe AI 的 Jev 模型的帖子，邀请用户进一步了解。</p>
+<p><strong>Brantley Brumley</strong> · @Brantley_Brum · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 130</p>
+<p><a href="https://x.com/Brantley_Brum/status/2100789817475051981">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Imheyhomees/status/2100993776869154932"><img src="https://pbs.twimg.com/amplify_video_thumb/2100993020707434496/img/QIBqRCsWAwfqb0S7.jpg" alt="TypeSafe AI and Jev Share Video · 原帖视频截图" width="100%"></a>

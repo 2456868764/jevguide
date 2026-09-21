@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>891</strong><br>curated posts</td>
-<td align="center"><strong>571</strong><br>original videos</td>
+<td align="center"><strong>949</strong><br>curated posts</td>
+<td align="center"><strong>597</strong><br>original videos</td>
 <td align="center"><strong>24</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>113</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>116</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>106</strong> showcases · <strong>53</strong> videos</p>
+<p><strong>116</strong> showcases · <strong>56</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>105</strong> showcases · <strong>65</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>85</strong> showcases · <strong>74</strong> videos</p>
+<p><strong>89</strong> showcases · <strong>78</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>65</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>69</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>59</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>64</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>54</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>60</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>54</strong> showcases · <strong>22</strong> videos</p>
+<p><strong>60</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>25</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>20</strong> showcases · <strong>11</strong> videos</p>
+<p><strong>22</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>12</strong> showcases · <strong>10</strong> videos</p>
+<p><strong>14</strong> showcases · <strong>11</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>10</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>11</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>7</strong> showcases · <strong>3</strong> videos</p>
+<p><strong>8</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -166,21 +166,21 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>5</strong> showcases · <strong>4</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
 <p><strong>5</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>4</strong> showcases · <strong>4</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>3</strong> showcases · <strong>2</strong> videos</p>
+<p><strong>4</strong> showcases · <strong>2</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 </tr>
@@ -195,38 +195,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/NFT_Chen/status/2101675124747338229"><img src="https://pbs.twimg.com/amplify_video_thumb/2101666395239182336/img/wvATzQcIrkDYZos1.jpg" alt="Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2101675124747338229">Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison</a></h3>
-<p>A post comparing the response speed of local open-source decision model Laya (421M) against Jev 1.13.0 cloud API in a Snake game, highlighting millisecond-level decision differences.</p>
-<p><strong>257K</strong> views · 💬 73 &nbsp; 🔁 224 &nbsp; ♡ 2.1K &nbsp; 📊 257K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/logic/status/2101840909138825370"><img src="https://pbs.twimg.com/media/HSs84I5bcAEZEAh?format=png&amp;name=medium" alt="ZoCoBrowse adds Jev support for agentic browsing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/logic/status/2101840909138825370">ZoCoBrowse adds Jev support for agentic browsing</a></h3>
+<p>ZoCoBrowse is adding Jev support, which the author expects to enable powerful agentic browsing.</p>
+<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 87</p>
+<p><strong>Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்</strong> · @logic</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
-<a href="https://x.com/marcus_lowe/status/2101476399488160013"><img src="https://pbs.twimg.com/amplify_video_thumb/2101475440577880065/img/Ee0hhRA3B7Ibp_tK.jpg" alt="Smart Copy/Paste Powered by TypeSafe Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/marcus_lowe/status/2101476399488160013">Smart Copy/Paste Powered by TypeSafe Jev</a></h3>
-<p>Marcus Lowe imagines smart copy/paste powered by TypeSafe AI&#39;s Jev, suggesting every computer interaction could be rewritten.</p>
-<p><strong>237K</strong> views · 💬 151 &nbsp; 🔁 321 &nbsp; ♡ 3.6K &nbsp; 📊 237K</p>
-<p><strong>Marcus Lowe</strong> · @marcus_lowe</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/aad34210/status/2101837143576662211"><img src="https://pbs.twimg.com/media/HSs5HvybkAAgxSk?format=jpg&amp;name=medium" alt="User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/aad34210/status/2101837143576662211">User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations</a></h3>
+<p>The author shares a first experience with TypeSafe Jev: describe the situation in State, pre-write evaluation criteria in Questions, and Jev evaluates accordingly with very fast responses. A complaint-handling example is attached, noting it works fine in Japanese.</p>
+<p><strong>69</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
+<p><strong>Takashi Minoda</strong> · @aad34210</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/rronak_/status/2101544156757950697"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Jev + Astra beats Minecraft Ender Dragon in 8m43s · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rronak_/status/2101544156757950697">Jev + Astra beats Minecraft Ender Dragon in 8m43s</a></h3>
-<p>Ronak Malde shows Jev + Astra beating the Minecraft Ender Dragon in 8m43s for under $1, open-sourcing the code and harness, highlighting Jev&#39;s near-instant decision-making.</p>
-<p><strong>233K</strong> views · 💬 75 &nbsp; 🔁 274 &nbsp; ♡ 2.9K &nbsp; 📊 233K</p>
-<p><strong>Ronak Malde</strong> · @rronak_</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/khajanpandey/status/2101837339387437384">Jev powers zsh autosuggestions in the terminal</a></h3>
+<p>With the zsh autosuggestion plugin, get Jev-assisted suggestions right in the terminal using one command and a typesafe key, covering command history and smart grep history.</p>
+<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><strong>Khajan Pandey</strong> · @khajanpandey</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/goan999999/status/2101657121746198981"><img src="https://pbs.twimg.com/media/HSqV4esbMAETVVV?format=jpg&amp;name=medium" alt="Codex integration with Jev cuts token usage by 90% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/goan999999/status/2101657121746198981">Codex integration with Jev cuts token usage by 90%</a></h3>
-<p>A user shares that integrating Codex with Jev reduced token quota consumption by 90%, and demonstrates Jev classifying &quot;Should I buy a gaming console?&quot; as purchase consultation with 97% probability and 0.96 confidence.</p>
-<p><strong>197K</strong> views · 💬 94 &nbsp; 🔁 152 &nbsp; ♡ 1.1K &nbsp; 📊 197K</p>
-<p><strong>govin.eth | G哥</strong> · @goan999999</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/OneLegDavePDX/status/2101833867913228593"><img src="https://pbs.twimg.com/tweet_video_thumb/HSs2wrabQAA4gS_.jpg" alt="User gains Jev access and adds it to toolbox · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/OneLegDavePDX/status/2101833867913228593">User gains Jev access and adds it to toolbox</a></h3>
+<p>A user says they thought Jev might just be hype, but after getting access added it to their toolbox about an hour ago.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>OneLegDave</strong> · @OneLegDavePDX</p>
 </td>
 </tr>
 </table>
@@ -285,38 +285,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/NFT_Chen/status/2101675124747338229"><img src="https://pbs.twimg.com/amplify_video_thumb/2101666395239182336/img/wvATzQcIrkDYZos1.jpg" alt="Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2101675124747338229">Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison</a></h3>
-<p>A post comparing the response speed of local open-source decision model Laya (421M) against Jev 1.13.0 cloud API in a Snake game, highlighting millisecond-level decision differences.</p>
-<p><strong>257K</strong> views · 💬 73 &nbsp; 🔁 224 &nbsp; ♡ 2.1K &nbsp; 📊 257K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/logic/status/2101840909138825370"><img src="https://pbs.twimg.com/media/HSs84I5bcAEZEAh?format=png&amp;name=medium" alt="ZoCoBrowse adds Jev support for agentic browsing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/logic/status/2101840909138825370">ZoCoBrowse adds Jev support for agentic browsing</a></h3>
+<p>ZoCoBrowse is adding Jev support, which the author expects to enable powerful agentic browsing.</p>
+<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 87</p>
+<p><strong>Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்</strong> · @logic</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/goan999999/status/2101657121746198981"><img src="https://pbs.twimg.com/media/HSqV4esbMAETVVV?format=jpg&amp;name=medium" alt="Codex integration with Jev cuts token usage by 90% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/goan999999/status/2101657121746198981">Codex integration with Jev cuts token usage by 90%</a></h3>
-<p>A user shares that integrating Codex with Jev reduced token quota consumption by 90%, and demonstrates Jev classifying &quot;Should I buy a gaming console?&quot; as purchase consultation with 97% probability and 0.96 confidence.</p>
-<p><strong>197K</strong> views · 💬 94 &nbsp; 🔁 152 &nbsp; ♡ 1.1K &nbsp; 📊 197K</p>
-<p><strong>govin.eth | G哥</strong> · @goan999999</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/OneLegDavePDX/status/2101833867913228593"><img src="https://pbs.twimg.com/tweet_video_thumb/HSs2wrabQAA4gS_.jpg" alt="User gains Jev access and adds it to toolbox · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/OneLegDavePDX/status/2101833867913228593">User gains Jev access and adds it to toolbox</a></h3>
+<p>A user says they thought Jev might just be hype, but after getting access added it to their toolbox about an hour ago.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>OneLegDave</strong> · @OneLegDavePDX</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
-<a href="https://x.com/developedbyed/status/2101628206478512341"><img src="https://pbs.twimg.com/amplify_video_thumb/2101628010369622016/img/6rUvq7yBwgE7BpL2.jpg" alt="Running Jev to quickly remove negative comments from chat · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/developedbyed/status/2101628206478512341">Running Jev to quickly remove negative comments from chat</a></h3>
-<p>Developer Dev Ed posts about running Jev to see how fast it can remove negative comments from chat.</p>
-<p><strong>162K</strong> views · 💬 116 &nbsp; 🔁 111 &nbsp; ♡ 3.3K &nbsp; 📊 162K</p>
-<p><strong>Dev Ed</strong> · @developedbyed</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/kawamoto_LINER/status/2101852325619134676"><img src="https://pbs.twimg.com/media/HStFqsRa8AAWjG5?format=jpg&amp;name=medium" alt="AI Learning Event to Cover Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kawamoto_LINER/status/2101852325619134676">AI Learning Event to Cover Jev</a></h3>
+<p>A hands-on AI learning event will be held on Sep 30 in Akasaka, Tokyo, and will cover the trending Jev; registration is open.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 2</p>
+<p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/kenonews/status/2101656436136661163"><img src="https://pbs.twimg.com/amplify_video_thumb/2101656195824037888/img/hzvfbq5RAEOXmT66.jpg" alt="JEV CAPTCHA Arbitrage: Economic Opportunity with TypeSafe&#39;s Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kenonews/status/2101656436136661163">JEV CAPTCHA Arbitrage: Economic Opportunity with TypeSafe&#39;s Model</a></h3>
-<p>User notes JEV can solve CAPTCHAs at very low cost, yielding 99.32% gross margin in a Chinese marketplace, and warns of open-sourcing if not fixed.</p>
-<p><strong>70K</strong> views · 💬 19 &nbsp; 🔁 28 &nbsp; ♡ 581 &nbsp; 📊 70K</p>
-<p><strong>keno</strong> · @kenonews</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/mizorewww/status/2101473552956555427"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="laya-mlx: An Open-Source Jev-like Classification System Ported to MLX · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/mizorewww/status/2101473552956555427">laya-mlx: An Open-Source Jev-like Classification System Ported to MLX</a></h3>
+<p>The author ported Laya, an open-source classification system similar to Jev, to MLX for on-device use, using at most 1GB of memory and claimed to be 50x faster than Jev.</p>
+<p><strong>147K</strong> views · 💬 49 &nbsp; 🔁 258 &nbsp; ♡ 2.3K &nbsp; 📊 147K</p>
+<p><strong>雨夹雪❄️</strong> · @mizorewww</p>
 </td>
 </tr>
 </table>

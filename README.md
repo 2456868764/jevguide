@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1143</strong><br>curated posts</td>
-<td align="center"><strong>695</strong><br>original videos</td>
+<td align="center"><strong>1180</strong><br>curated posts</td>
+<td align="center"><strong>712</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -26,21 +26,21 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/how-it-works.md">How it works</a></h3>
-<p><sub>工作原理</sub></p>
-<p><strong>138</strong> showcases · <strong>71</strong> videos</p>
-<p><a href="categories/how-it-works.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>138</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>145</strong> showcases · <strong>79</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/how-it-works.md">How it works</a></h3>
+<p><sub>工作原理</sub></p>
+<p><strong>141</strong> showcases · <strong>71</strong> videos</p>
+<p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>134</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>140</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,39 +48,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>126</strong> showcases · <strong>107</strong> videos</p>
+<p><strong>131</strong> showcases · <strong>110</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>77</strong> showcases · <strong>44</strong> videos</p>
+<p><strong>79</strong> showcases · <strong>46</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
-<p><sub>开发资源</sub></p>
-<p><strong>73</strong> showcases · <strong>37</strong> videos</p>
-<p><a href="categories/developer-resources.md">Open category →</a></p>
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>77</strong> showcases · <strong>45</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>72</strong> showcases · <strong>43</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
+<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
+<p><sub>开发资源</sub></p>
+<p><strong>74</strong> showcases · <strong>37</strong> videos</p>
+<p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>67</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>68</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>56</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>57</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,34 +88,34 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>44</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>45</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>40</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>41</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>39</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>40</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>28</strong> showcases · <strong>15</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
 <p><strong>26</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>26</strong> showcases · <strong>15</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>11</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>12</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/crypto_banter/status/2101943143331438780"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943060942786561/img/DmnACYGiCDyJTFE9.jpg" alt="Jev Goes Live on Venice&#39;s Private AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/crypto_banter/status/2101943143331438780">Jev Goes Live on Venice&#39;s Private AI</a></h3>
+<p>Jev is now live on Venice, adding an extra paid use to Venice&#39;s private AI.</p>
+<p><strong>3.9K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 3.9K</p>
+<p><strong>Crypto Banter</strong> · @crypto_banter</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
 <a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/tubone24/status/2101895523674534374">Jev-based speed test app made public</a></h3>
 <p>The author made a Jev-based speed test app public because usage fees are cheap, inviting people to play on rainy days.</p>
 <p><strong>1.9K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
 <p><strong>つぼね👨‍💻</strong> · @tubone24</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
 <a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/shi3z/status/2101895864163909779">Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev</a></h3>
 <p>A user expresses disbelief at the claim that DeepSeek V4.1 achieves a 48x speedup on Jev.</p>
 <p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 30 &nbsp; 📊 1.6K</p>
 <p><strong>shi3z</strong> · @shi3z</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SakaneBTC/status/2101902015194636573">Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections</a></h3>
-<p>The author shares a site-wide Q&amp;A search built with the recently popular Jev: typing a question about site content into the search box highlights the relevant section and jumps to it; the author says they saw it on X and implemented it themselves.</p>
-<p><strong>1.4K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
-<p><strong>SAKANE</strong> · @SakaneBTC</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shi3z/status/2101895864163909779">Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev</a></h3>
+<p>A user expresses disbelief at the claim that DeepSeek V4.1 achieves a 48x speedup on Jev.</p>
+<p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 30 &nbsp; 📊 1.6K</p>
+<p><strong>shi3z</strong> · @shi3z</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
 <a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/SakaneBTC/status/2101902015194636573">Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections</a></h3>
 <p>The author shares a site-wide Q&amp;A search built with the recently popular Jev: typing a question about site content into the search box highlights the relevant section and jumps to it; the author says they saw it on X and implemented it themselves.</p>
 <p><strong>1.4K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
 <p><strong>SAKANE</strong> · @SakaneBTC</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2101906790355251278"><img src="https://pbs.twimg.com/media/HSt5FEwbAAANcIk?format=jpg&amp;name=900x900" alt="Jev Multi-Agent Design: Single Responsibility and Parallel Execution · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2101906790355251278">Jev Multi-Agent Design: Single Responsibility and Parallel Execution</a></h3>
-<p>Explains Jev&#39;s core idea: instead of one all-purpose agent, give each agent a single job, keep context small and focused, run work in parallel, repair failures without restarting, and only surface verified results.</p>
-<p><strong>1.3K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 1.3K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/makaneko_AI/status/2101909643094380991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Semantic In-Page Search with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/makaneko_AI/status/2101909643094380991">Semantic In-Page Search with Jev</a></h3>
-<p>A user shares a new in-page search (⌘F) built with Jev that retrieves results by meaning even without exact text matches, and feels nearly real-time.</p>
-<p><strong>514</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 514</p>
-<p><strong>まかねこ| AIに働かせる技術</strong> · @makaneko_AI</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/yugen_matuni/status/2101898801615401256"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Jev lowers the barrier for local AI use · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yugen_matuni/status/2101898801615401256">Jev lowers the barrier for local AI use</a></h3>
+<p>A user praises Jev for making local AI easier, saying it will greatly lower the barrier for many people.</p>
+<p><strong>847</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 847</p>
+<p><strong>まつにぃ</strong> · @yugen_matuni</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 134 | 59 | 75 | 802K |
+| 140 | 63 | 77 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/crypto_banter/status/2101943143331438780"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943060942786561/img/DmnACYGiCDyJTFE9.jpg" alt="Jev Goes Live on Venice&#39;s Private AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/crypto_banter/status/2101943143331438780">Jev Goes Live on Venice&#39;s Private AI</a></h3>
+<p>Jev is now live on Venice, adding an extra paid use to Venice&#39;s private AI.</p>
+<p><strong>中文摘要：</strong>Jev 已在 Venice 上线，成为 Venice 私有 AI 的一项额外付费用途。</p>
+<p><strong>Crypto Banter</strong> · @crypto_banter · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 3.9K</p>
+<p><a href="https://x.com/crypto_banter/status/2101943143331438780">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JulianGoldieSEO/status/2101944783933731203"><img src="https://pbs.twimg.com/amplify_video_thumb/2101944730951254016/img/kYYrOwQgz5oyQ02u.jpg" alt="Jev AI Is Free for a Limited Time via AI Gateway · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JulianGoldieSEO/status/2101944783933731203">Jev AI Is Free for a Limited Time via AI Gateway</a></h3>
+<p>Notes that Jev AI is free until September 25 and outlines the setup: open AI Gateway, find Jev by TypeSafe AI, create an API key, and add it to your environment.</p>
+<p><strong>中文摘要：</strong>介绍 Jev AI 在 9 月 25 日前免费，并说明通过 AI Gateway 找到 TypeSafe AI 的 Jev、创建 API key 并配置到环境中的接入步骤。</p>
+<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/JulianGoldieSEO/status/2101944783933731203">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KKaWSB/status/2101896711182733673"><img src="https://pbs.twimg.com/media/HStvgSaa8AEOIQ8?format=jpg&amp;name=medium" alt="Jev Fully Open: Claim the API Without Application · 原帖图片" width="100%"></a>
@@ -107,6 +131,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/zeetakou/status/2101945022782284192"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930224544104448/img/KJiNk6RfkI8mPRNs.jpg" alt="Integrating Jev into a GPT Live API Telemarketing AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zeetakou/status/2101945022782284192">Integrating Jev into a GPT Live API Telemarketing AI</a></h3>
+<p>The author is integrating Jev into a telemarketing AI built with the GPT Live API, testing in practice which decisions are best delegated to Jev.</p>
+<p><strong>中文摘要：</strong>作者正在把 Jev 集成到基于 GPT Live API 构建的电话销售 AI 中，并通过实际运行验证哪些判断交给 Jev 最能发挥价值。</p>
+<p><strong>kou</strong> · @zeetakou · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/zeetakou/status/2101945022782284192">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mikawuf/status/2101942481852019000"><img src="https://pbs.twimg.com/amplify_video_thumb/2101742849142263808/img/AD6CJMj2D-jz8fM_.jpg" alt="NERVE plugs a memecoin analyzer into Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mikawuf/status/2101942481852019000">NERVE plugs a memecoin analyzer into Jev</a></h3>
+<p>NERVE plugged a memecoin analyzer into Jev. It scores a pool in 190ms at roughly $0.001 per decision and returns typed fields you can check instead of a paragraph you have to trust.</p>
+<p><strong>中文摘要：</strong>NERVE 将 memecoin 分析器接入 Jev，可在 190 毫秒内对池子打分，每次决策约 0.001 美元，并返回可核验的类型化字段而非一段文字。</p>
+<p><strong>Mika Heinonen</strong> · @mikawuf · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/mikawuf/status/2101942481852019000">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/gakushiai/status/2101905589307937145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101297718199250944/img/ZfHi6yxmGhGWvSPC.jpg" alt="Jev and AnimeActEngine combine for near-real-time performance generation from text · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖视频</code></sub>
@@ -142,6 +190,19 @@
 <p><a href="https://x.com/kraayenJon/status/2101904249424588993">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/txt365/status/2101945739496903158"><img src="https://pbs.twimg.com/media/HSucf4MaIAAVtRz?format=png&amp;name=240x240" alt="User encounters server outage while trying Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/txt365/status/2101945739496903158">User encounters server outage while trying Jev</a></h3>
+<p>A user reports that the server appears to have gone down while trying out Jev.</p>
+<p><strong>中文摘要：</strong>一位用户表示在尝试使用 Jev 时似乎遇到了服务器宕机。</p>
+<p><strong>ツトム (txt365.org)</strong> · @txt365 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/txt365/status/2101945739496903158">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Appsclavitud/status/2101913807601770631"><img src="https://pbs.twimg.com/amplify_video_thumb/2101664001465757696/img/n7Vzh81PKbKWpVw3.jpg" alt="72 Hours After Jev Launch: Use Cases for Price, Speed, and Trust · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖视频</code></sub>
@@ -152,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Appsclavitud/status/2101913807601770631">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Riri_unfiltered/status/2101915680383660460"><img src="https://pbs.twimg.com/amplify_video_thumb/2101083913506754560/img/jh1rKgyxdFxucr67.jpg" alt="Venice Adds TypeSafe&#39;s Jev to Its API in Beta · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Riri_unfiltered/status/2101915680383660460">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OneLegDavePDX/status/2101833867913228593"><img src="https://pbs.twimg.com/tweet_video_thumb/HSs2wrabQAA4gS_.jpg" alt="User gains Jev access and adds it to toolbox · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/OneLegDavePDX/status/2101833867913228593">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ganeshships/status/2101902841036288365"><img src="https://pbs.twimg.com/media/HSt1BrWaAAAuQuQ?format=png&amp;name=900x900" alt="User Gains Jev Access and Asks for Suggestions · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/ganeshships/status/2101902841036288365">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kawamoto_LINER/status/2101852325619134676"><img src="https://pbs.twimg.com/media/HStFqsRa8AAWjG5?format=jpg&amp;name=medium" alt="AI Learning Event to Cover Jev · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 2</p>
 <p><a href="https://x.com/kawamoto_LINER/status/2101852325619134676">在 X 查看原帖</a> · <a href="https://t.co/g5sutUNdMe">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hanishkeloth/status/2101914951812272582"><img src="https://pbs.twimg.com/media/HSuAWT3agAEymx4?format=jpg&amp;name=medium" alt="Gyeol vs Jev API on Korean Decision Tasks · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +271,19 @@
 <p><strong>Hanish Keloth</strong> · @hanishkeloth · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/hanishkeloth/status/2101914951812272582">在 X 查看原帖</a> · <a href="https://t.co/VV91tLpyiz">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PacificWNL/status/2101945993008976276"><img src="https://pbs.twimg.com/media/HSucvBMa8AAzBa5?format=jpg&amp;name=medium" alt="User reports Jev login issue · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PacificWNL/status/2101945993008976276">User reports Jev login issue</a></h3>
+<p>User @samharsh asks @typesafeai whether something is wrong with the Jev login or if they are missing something.</p>
+<p><strong>中文摘要：</strong>用户 @samharsh 向 @typesafeai 提问，反映 Jev 登录似乎出现问题，询问是否遗漏了什么。</p>
+<p><strong>samharsh</strong> · @PacificWNL · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/PacificWNL/status/2101945993008976276">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_toolbox_jp/status/2101917071692967998"><img src="https://pbs.twimg.com/media/HSuCcD_WkAE7WtB?format=jpg&amp;name=medium" alt="This Week in AI: Claude Overhaul, ChatGPT×Word Integration, and Judgment-Focused AI &quot;Jev&quot; · 原帖图片" width="100%"></a>

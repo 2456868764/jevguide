@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 26 | 15 | 11 | 392K |
+| 28 | 15 | 13 | 392K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Kunal</strong> · @kunal_twts · 2026-09-21</p>
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
 <p><a href="https://x.com/kunal_twts/status/2101896661773754458">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/flock_io/status/2101942693618156026"><img src="https://pbs.twimg.com/media/HSuZuy4aoAEXDg-?format=jpg&amp;name=medium" alt="FLock Benchmark: THIS/THAT Model 94.1% vs Jev Hosted System One 76.5% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/flock_io/status/2101942693618156026">FLock Benchmark: THIS/THAT Model 94.1% vs Jev Hosted System One 76.5%</a></h3>
+<p>FLock.io shares a third-party-recorded 68-question accuracy test: FLock&#39;s THIS/THAT Model 1.0 scores 94.1%, while Jev (hosted System One service) scores 76.5%. The post calls this a promising result for a specialised decision model, noting complex tasks needing graph search or multi-step arithmetic remain challenging.</p>
+<p><strong>中文摘要：</strong>FLock.io 公布第三方记录的 68 题准确率测试结果：FLock 的 THIS/THAT Model 1.0 达 94.1%，Jev（托管的 System One 服务）为 76.5%。帖子称这对专用决策模型是积极结果，但涉及图搜索或多步算术的复杂任务仍有待提升。</p>
+<p><strong>FLock.io</strong> · @flock_io · 2026-09-21</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 78</p>
+<p><a href="https://x.com/flock_io/status/2101942693618156026">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yonyoniz/status/2101943752759607459"><img src="https://pbs.twimg.com/media/HSuaN4cW0AACTSE?format=jpg&amp;name=medium" alt="Jev labeling and multi-model comparison practice · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yonyoniz/status/2101943752759607459">Jev labeling and multi-model comparison practice</a></h3>
+<p>The author shares experience manually labeling with Jev, notes Jev only ran with opus and mistakenly compared against another opus, and now instructs it to label with several different models.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 进行手动标注的体验，并指出 Jev 仅用 opus 运行且误与另一 opus 对比，现指导其用多个不同模型进行标注。</p>
+<p><strong>Yonatan Gross</strong> · @yonyoniz · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/yonyoniz/status/2101943752759607459">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/USPraveenRaj1/status/2101901177151521063"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Benchmarks: Accuracy vs. Calibration Evaluation · 原帖视频截图" width="100%"></a>

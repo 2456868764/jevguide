@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 77 | 44 | 35 | 1.1M |
+| 79 | 46 | 35 | 1.1M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/PharosInsights/status/2101944523576451198"><img src="https://pbs.twimg.com/amplify_video_thumb/2101083913506754560/img/jh1rKgyxdFxucr67.jpg" alt="TypeSafe Launches Jev: Classification, Scoring, and Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PharosInsights/status/2101944523576451198">TypeSafe Launches Jev: Classification, Scoring, and Decisions</a></h3>
+<p>TypeSafe AI launches Jev; Venice integrates it; $VVV hits a new high. Jev doesn&#39;t chat or write code — it classifies, scores, and decides: developers set options, and it returns a choice, probabilities, and confidence.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 发布 Jev 模型，Venice 已集成，$VVV 创新高。Jev 不聊天也不写代码，而是进行分类、评分和决策：开发者设定选项，它返回选择、概率和置信度。</p>
+<p><strong>Pharos</strong> · @PharosInsights · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/PharosInsights/status/2101944523576451198">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/decodewithrudra/status/2101901843748073841"><img src="https://pbs.twimg.com/media/HSt0lHoXcAAZS_S?format=jpg&amp;name=medium" alt="Jev opens to everyone: no chat, millisecond yes/no/score model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/decodewithrudra/status/2101901843748073841">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Angus_Flint/status/2101872088210710948"><img src="https://pbs.twimg.com/tweet_video_thumb/HStYxMZawAAygtK.jpg" alt="Jev System One Model Outperforms GPT-6 Astra and Fable 5.1 on Comprehension Test · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Angus</strong> · @Angus_Flint · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/Angus_Flint/status/2101872088210710948">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Carbaj0/status/2101942660680368367"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941366896963584/img/W3WMh_84xtpqfVqh.jpg" alt="Text input widget powered by Jev calibrated probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Carbaj0/status/2101942660680368367">Text input widget powered by Jev calibrated probabilities</a></h3>
+<p>A developer showcases a text input widget with no chat and no LLM in the loop, filling in as you type, where every decision comes from Jev calibrated probabilities, saving in ~430 ms at ~$0.0005.</p>
+<p><strong>中文摘要：</strong>开发者展示了一个无聊天、无 LLM 循环的文本输入组件，输入时实时填充，每次决策来自 Jev 的校准概率，保存耗时约 430 毫秒、成本约 0.0005 美元。</p>
+<p><strong>Alejandro Carbajo</strong> · @Carbaj0 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/Carbaj0/status/2101942660680368367">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

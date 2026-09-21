@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1249</strong><br>curated posts</td>
-<td align="center"><strong>743</strong><br>original videos</td>
+<td align="center"><strong>1278</strong><br>curated posts</td>
+<td align="center"><strong>755</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -26,30 +26,36 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/access-updates.md">Access updates</a></h3>
+<p><sub>接入动态</sub></p>
+<p><strong>159</strong> showcases · <strong>68</strong> videos</p>
+<p><a href="categories/access-updates.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>153</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>155</strong> showcases · <strong>77</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>153</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>154</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/access-updates.md">Access updates</a></h3>
-<p><sub>接入动态</sub></p>
-<p><strong>152</strong> showcases · <strong>66</strong> videos</p>
-<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>133</strong> showcases · <strong>111</strong> videos</p>
+<p><strong>134</strong> showcases · <strong>111</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>85</strong> showcases · <strong>49</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
@@ -57,30 +63,24 @@ From finance and gaming to security review. Every listed post is checked against
 <p><strong>83</strong> showcases · <strong>48</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>82</strong> showcases · <strong>48</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>77</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>80</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>74</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>75</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>58</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>61</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -92,16 +92,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
-<p><sub>自动化工作流</sub></p>
-<p><strong>44</strong> showcases · <strong>33</strong> videos</p>
-<p><a href="categories/workflow-automation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>43</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>45</strong> showcases · <strong>29</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
+<p><sub>自动化工作流</sub></p>
+<p><strong>45</strong> showcases · <strong>33</strong> videos</p>
+<p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>26</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>17</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>18</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,20 +128,20 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>12</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>13</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>10</strong> showcases · <strong>6</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
 <p><strong>9</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>9</strong> showcases · <strong>5</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -178,18 +178,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>5</strong> showcases · <strong>4</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>6</strong> showcases · <strong>3</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>5</strong> showcases · <strong>3</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>5</strong> showcases · <strong>4</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -231,12 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Crypto Banter</strong> · @crypto_banter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tubone24/status/2101895523674534374">Jev-based speed test app made public</a></h3>
-<p>The author made a Jev-based speed test app public because usage fees are cheap, inviting people to play on rainy days.</p>
-<p><strong>1.9K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
-<p><strong>つぼね👨‍💻</strong> · @tubone24</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_xiaomu/status/2101946636658442690"><img src="https://pbs.twimg.com/amplify_video_thumb/2101946443183562752/img/gMXG3RMID4SIyqC8.jpg" alt="If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_xiaomu/status/2101946636658442690">If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With?</a></h3>
+<p>Huang Xiaomu asks how much $10,000 given to Jev for stock trading would turn into, noting it is not investment advice.</p>
+<p><strong>2.5K</strong> views · 💬 7 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 2.5K</p>
+<p><strong>黄小木</strong> · @ai_xiaomu</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_xiaomu/status/2101946636658442690"><img src="https://pbs.twimg.com/amplify_video_thumb/2101946443183562752/img/gMXG3RMID4SIyqC8.jpg" alt="If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_xiaomu/status/2101946636658442690">If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With?</a></h3>
+<p>Huang Xiaomu asks how much $10,000 given to Jev for stock trading would turn into, noting it is not investment advice.</p>
+<p><strong>2.5K</strong> views · 💬 7 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 2.5K</p>
+<p><strong>黄小木</strong> · @ai_xiaomu</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
 <a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/tubone24/status/2101895523674534374">Jev-based speed test app made public</a></h3>
 <p>The author made a Jev-based speed test app public because usage fees are cheap, inviting people to play on rainy days.</p>
 <p><strong>1.9K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
 <p><strong>つぼね👨‍💻</strong> · @tubone24</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shi3z/status/2101895864163909779">Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev</a></h3>
-<p>A user expresses disbelief at the claim that DeepSeek V4.1 achieves a 48x speedup on Jev.</p>
-<p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 30 &nbsp; 📊 1.6K</p>
-<p><strong>shi3z</strong> · @shi3z</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/GOROman/status/2101949997868855763"><img src="https://pbs.twimg.com/media/HSugXDybMAA6Flf?format=jpg&amp;name=medium" alt="Jev Shit Reply Detector Adds Crap and AI Thresholds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GOROman/status/2101949997868855763">Jev Shit Reply Detector Adds Crap and AI Thresholds</a></h3>
-<p>The author added a crap threshold and an AI threshold to Jev&#39;s Shit Reply Detector Chrome extension to filter low-quality replies.</p>
-<p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 4 &nbsp; ♡ 31 &nbsp; 📊 1.2K</p>
-<p><strong>NULL=RUN</strong> · @GOROman</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/cyrilXBT/status/2101906790355251278"><img src="https://pbs.twimg.com/media/HSt5FEwbAAANcIk?format=jpg&amp;name=900x900" alt="Jev Multi-Agent Design: Single Responsibility and Parallel Execution · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2101906790355251278">Jev Multi-Agent Design: Single Responsibility and Parallel Execution</a></h3>
+<p>Explains Jev&#39;s core idea: instead of one all-purpose agent, give each agent a single job, keep context small and focused, run work in parallel, repair failures without restarting, and only surface verified results.</p>
+<p><strong>1.3K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 1.3K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 </table>

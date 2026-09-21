@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 43 | 27 | 16 | 235K |
+| 45 | 29 | 16 | 235K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yupi996/status/2101946715725299993"><img src="https://pbs.twimg.com/amplify_video_thumb/2101935871067086848/img/RDaiaanaaeckbEDd.jpg" alt="Jev Is Blazing Fast but Feels Less Intelligent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yupi996/status/2101946715725299993">Jev Is Blazing Fast but Feels Less Intelligent</a></h3>
+<p>A user notes that Jev is extremely fast, far outpacing the previously hyped DeepSeek V4.1 Flash, though it feels a bit less intelligent.</p>
+<p><strong>中文摘要：</strong>用户评价 Jev 速度极快，远超此前宣传的 DeepSeek V4.1 Flash，但感觉智能水平稍低。</p>
+<p><strong>程序员鱼皮</strong> · @yupi996 · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/yupi996/status/2101946715725299993">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
 <p><a href="https://x.com/SakaneBTC/status/2101902015194636573">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101941004362264767"><img src="https://pbs.twimg.com/amplify_video_thumb/2101940010245345280/img/-1i23d8TDWFAcU2n.jpg" alt="Jev Browser Search Query Design: Word Slicing and Exact Copying · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101941004362264767">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/makaneko_AI/status/2101909643094380991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Semantic In-Page Search with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 514</p>
 <p><a href="https://x.com/makaneko_AI/status/2101909643094380991">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mossy2026/status/2101909618696052886"><img src="https://pbs.twimg.com/amplify_video_thumb/2101909512865374208/img/zFVAyHo_4QlovkgG.jpg" alt="Jev asks: How do you spot AI slop? · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 227</p>
 <p><a href="https://x.com/mossy2026/status/2101909618696052886">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yaohui12138/status/2101912940882678154"><img src="https://pbs.twimg.com/amplify_video_thumb/2101535990846509056/img/hoBZPL8d08Ba7aPw.jpg" alt="A Beginner&#39;s Guide to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>超级个体｜柿子</strong> · @yaohui12138 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 156</p>
 <p><a href="https://x.com/yaohui12138/status/2101912940882678154">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gigabit_million/status/2101948297107984837"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941990254632960/img/gx4NHU9mxvfHKA3y.jpg" alt="Building a Fuzzy-Word Search Site with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gigabit_million/status/2101948297107984837">Building a Fuzzy-Word Search Site with Jev</a></h3>
+<p>The author is building a fuzzy-word search site for their public web content using Jev. By narrowing the search scope and showing Jev&#39;s score for each query term, the search feels more transparent, and this fuzzy-word matching approach is nearly free and easy to apply in many places.</p>
+<p><strong>中文摘要：</strong>作者尝试用 Jev 为自己公开的网络内容构建模糊词搜索网站，通过限定搜索范围并显示 Jev 对搜索词的评分，让搜索透明度更高，并认为这种模糊词匹配方式几乎零成本且易于推广。</p>
+<p><strong>ギガビット@ゲームつくるひと</strong> · @gigabit_million · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 133</p>
+<p><a href="https://x.com/gigabit_million/status/2101948297107984837">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Pluvio9yte/status/2101951949755347284"><img src="https://pbs.twimg.com/media/HSuiKNebgAAp4JU?format=jpg&amp;name=medium" alt="Optimizing Evidence Sources with Jev: Extracting Citations and Calling jev-1.13.0 · 原帖图片" width="100%"></a>

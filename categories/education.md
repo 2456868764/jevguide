@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 5 | 3 | 4 | 29K |
+| 6 | 3 | 5 | 29K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/riyu__li/status/2101895097344561196">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/AIxEdu_news/status/2101965901469786341"><img src="https://pbs.twimg.com/media/HSuu198bkAEJqvh?format=jpg&amp;name=large" alt="Jev Judgment AI in Education: Applications and Data Compliance · 原帖图片" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIxEdu_news/status/2101965901469786341">Jev Judgment AI in Education: Applications and Data Compliance</a></h3>
+<p>Introduces the recent buzz around judgment-focused AI &#39;Jev&#39;, explores its potential use in education for free-text classification and real-time learning support, and notes caution regarding data of students under 18.</p>
+<p><strong>中文摘要：</strong>介绍判断型 AI「Jev」近期引发关注，探讨其在教育现场用于自由记述分类和实时学习支援的可能，并提醒注意18岁以下学生数据的处理。</p>
+<p><strong>先生のためのAIニュース</strong> · @AIxEdu_news · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/AIxEdu_news/status/2101965901469786341">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916"><img src="https://pbs.twimg.com/amplify_video_thumb/2101630019420450816/img/tNWor6QkfAlKtRXS.jpg" alt="Jev Hackathon: Solving the School Handout Problem with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>教育</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 784</p>
 <p><a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/debianmaster/status/2101501810917658763"><img src="https://pbs.twimg.com/media/HSoIq7EXsAAkvju?format=jpg&amp;name=medium" alt="Experiment with Jev and Chirp-3 for Kids · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 153</p>
 <p><a href="https://x.com/debianmaster/status/2101501810917658763">在 X 查看原帖</a> · <a href="https://t.co/7dUCUBDtxK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuInada2/status/2101451019284820098"><img src="https://pbs.twimg.com/amplify_video_thumb/2101450572503425024/img/Xlrzew9HYjBzoWJr.jpg" alt="Building a Real-Time Class Opinion Classifier with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 5 &nbsp; 🔁 34 &nbsp; ♡ 246 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/YuInada2/status/2101451019284820098">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robpenner/status/2100790139123274188"><img src="https://pbs.twimg.com/media/HSeAb-DXEAErCLG?format=jpg&amp;name=medium" alt="Jev AI described as a non-verbal savant focused on exams · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,5 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 395</p>
 <p><a href="https://x.com/robpenner/status/2100790139123274188">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

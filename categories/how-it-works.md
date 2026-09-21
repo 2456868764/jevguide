@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 153 | 76 | 77 | 1.6M |
+| 155 | 77 | 78 | 1.6M |
 
 ## Showcase 卡片
 
@@ -262,6 +262,19 @@
 <p><a href="https://x.com/danizhu/status/2101906206306496792">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/mikaeru676523/status/2101948475135164701"><img src="https://pbs.twimg.com/media/HSubZx9aEAA2Tgq?format=png&amp;name=medium" alt="Self-trained encoder vs Jev: task determines the winner · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mikaeru676523/status/2101948475135164701">Self-trained encoder vs Jev: task determines the winner</a></h3>
+<p>An article comparing self-trained encoders with Jev finds that Jev does not win everywhere; its label-free, ready-to-use advantage can reverse depending on the task, with key takeaways and personal interpretation.</p>
+<p><strong>中文摘要：</strong>一篇对比自前编码器与Jev的文章指出，Jev并非在所有任务上都占优，无需标签即可使用的优势会因任务类型而逆转，并总结了使用场景与个人解读。</p>
+<p><strong>mikaeru</strong> · @mikaeru676523 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/mikaeru676523/status/2101948475135164701">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/MartinSzerment/status/2101915554839671021"><img src="https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg" alt="TypeSafe AI&#39;s Jev: Decisions as yes/no, choices, or scores instead of text · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -271,6 +284,17 @@
 <p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/MartinSzerment/status/2101915554839671021">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Amir_HamzaFahim/status/2101965689070453005"><img src="https://pbs.twimg.com/amplify_video_thumb/2101965595612995584/img/JORJSybMsRAF8826.jpg" alt="Building a Mood Detection Experiment with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Amir_HamzaFahim/status/2101965689070453005">Building a Mood Detection Experiment with Jev</a></h3>
+<p>A developer shares a small experiment with Jev: type a situation, Jev detects mood and intensity, and the UI reacts, offering a hands-on way to understand how Jev AI works.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Jev 做的小实验：输入情境后，Jev 检测情绪与强度，界面随之响应，帮助理解 Jev AI 的工作方式。</p>
+<p><strong>Amir Hamza</strong> · @Amir_HamzaFahim · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Amir_HamzaFahim/status/2101965689070453005">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 6 | 3 | 3 | 88K |
+| 7 | 4 | 3 | 88K |
 
 ## Showcase 卡片
 
@@ -80,5 +80,19 @@
 <p>💬 3 &nbsp; 🔁 31 &nbsp; ♡ 280 &nbsp; 📊 57K</p>
 <p><a href="https://x.com/suthio_/status/2100741209035850095">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iamAdityaAnjana/status/2100438907611660510"><img src="https://pbs.twimg.com/amplify_video_thumb/2100438870479568896/img/VQBKtHK7Zm-TR-GK.jpg" alt="Writing C++ with Jev by picking valid next tokens · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iamAdityaAnjana/status/2100438907611660510">Writing C++ with Jev by picking valid next tokens</a></h3>
+<p>The author experimented with TypeSafe&#39;s Jev decision/classifier model for C++: at each step it was given only grammatically valid next tokens to pick from, avoiding free-form generation.</p>
+<p><strong>中文摘要：</strong>作者用 TypeSafe 的 Jev 决策/分类模型做实验：每步只提供语法合法的候选 token，让模型选择，从而生成 C++ 代码。</p>
+<p><strong>Aditya A.</strong> · @iamAdityaAnjana · 2026-09-17</p>
+<p>💬 7 &nbsp; 🔁 3 &nbsp; ♡ 50 &nbsp; 📊 12K</p>
+<p><a href="https://x.com/iamAdityaAnjana/status/2100438907611660510">在 X 查看原帖</a></p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>

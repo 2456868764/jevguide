@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 60 | 36 | 24 | 3.0M |
+| 64 | 37 | 27 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291"><img src="https://pbs.twimg.com/media/HStGO8Ya0AAlDn9?format=jpg&amp;name=medium" alt="Jev: Adding a Judgment Cerebellum to Codex/Claude Code · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291">Jev: Adding a Judgment Cerebellum to Codex/Claude Code</a></h3>
+<p>Jev is described as adding a dedicated judgment module to Codex/Claude Code that only selects, classifies, and scores, suitable for email triage, code review prioritization, tool routing, browser actions, document filtering, and context compression.</p>
+<p><strong>中文摘要：</strong>Jev 被描述为给 Codex/Claude Code 增加一个专门负责判断的模块，只做选择、分类和打分，适用于邮件分流、代码审查优先级、工具路由、浏览器动作、文档筛选和上下文压缩等场景。</p>
+<p><strong>Power｜资料过滤器</strong> · @Bifuzhuiqiuze · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pprownets2023/status/2101851202095087977"><img src="https://pbs.twimg.com/media/HStGVaSaMAADey9?format=jpg&amp;name=medium" alt="Improve AI Agent Decision-Making with Jev Engineering · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pprownets2023/status/2101851202095087977">Improve AI Agent Decision-Making with Jev Engineering</a></h3>
+<p>Introduces Jev Engineering as a decision-making brain for AI Agents, addressing unstable and hard-to-control results from free-form prompting.</p>
+<p><strong>中文摘要：</strong>介绍 Jev Engineering 作为 AI Agent 的决策大脑，解决自由提示词导致结果不稳定、难以控制的问题。</p>
+<p><strong>Doge 🐶</strong> · @pprownets2023 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/pprownets2023/status/2101851202095087977">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BohuTANG/status/2101851735501537697"><img src="https://pbs.twimg.com/media/HStGU04aEAEQs84?format=jpg&amp;name=medium" alt="Top models with Jev periodically prune context noise · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BohuTANG/status/2101851735501537697">Top models with Jev periodically prune context noise</a></h3>
+<p>A user shares that pairing top models with Jev to periodically prune junk from context noticeably improves task quality, with little need to worry about cache and strong overall value.</p>
+<p><strong>中文摘要：</strong>用户分享使用体验：顶级模型配合 Jev 定期剔除上下文中的垃圾信息，任务完成质量明显提升，且无需太在意 cache，整体性价比高。</p>
+<p><strong>Bohu</strong> · @BohuTANG · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/BohuTANG/status/2101851735501537697">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xRicker/status/2101705843200721203"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Jev Engineering: Turning an Agent Stack into a Control System · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 28 &nbsp; 🔁 73 &nbsp; ♡ 616 &nbsp; 📊 61K</p>
 <p><a href="https://x.com/0xRicker/status/2101705843200721203">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Vtrivedy10/status/2101688022513160700"><img src="https://pbs.twimg.com/media/HSqyHdDWsAAsksr?format=jpg&amp;name=medium" alt="Jev-as-a-Judge: Faster RL Environment Verification · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 13 &nbsp; 🔁 40 &nbsp; ♡ 442 &nbsp; 📊 40K</p>
 <p><a href="https://x.com/Vtrivedy10/status/2101688022513160700">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ashutoshpuro97/status/2101660362882085299"><img src="https://pbs.twimg.com/amplify_video_thumb/2101659226607321089/img/iDIVp1YnUasEtGo9.jpg" alt="Exploring an always-on AI use case for Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 16 &nbsp; 🔁 14 &nbsp; ♡ 159 &nbsp; 📊 15K</p>
 <p><a href="https://x.com/ashutoshpuro97/status/2101660362882085299">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2101540625929970126"><img src="https://pbs.twimg.com/media/HSosDVpbAAA-9Hx?format=jpg&amp;name=900x900" alt="Jev + Claude Code Parallel Agent Architecture · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 19 &nbsp; 🔁 16 &nbsp; ♡ 114 &nbsp; 📊 8.2K</p>
 <p><a href="https://x.com/cyrilXBT/status/2101540625929970126">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2101608597801291966"><img src="https://pbs.twimg.com/amplify_video_thumb/2101608557569507328/img/iHxjf4UlIlxFAjiz.jpg" alt="Combining Claude Code with Jev as an agent stack · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 6 &nbsp; 🔁 9 &nbsp; ♡ 57 &nbsp; 📊 4.9K</p>
 <p><a href="https://x.com/cyrilXBT/status/2101608597801291966">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2101593497463894323"><img src="https://pbs.twimg.com/amplify_video_thumb/2101593458301706240/img/jtO3wAQBLfI5fvJJ.jpg" alt="Jev Runs the Agent Factory: Plan, Route, Parallelize, Execute, Verify · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +116,17 @@
 <p><strong>CyrilXBT</strong> · @cyrilXBT · 2026-09-20</p>
 <p>💬 12 &nbsp; 🔁 11 &nbsp; ♡ 62 &nbsp; 📊 4.6K</p>
 <p><a href="https://x.com/cyrilXBT/status/2101593497463894323">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BenjaminDEKR/status/2101803703258771901"><img src="https://pbs.twimg.com/amplify_video_thumb/2101803283186667520/img/2HVLF5tx4_cIH-q8.jpg" alt="Can Jev solve a maze? A step-by-step test on a 14×14 braided maze · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BenjaminDEKR/status/2101803703258771901">Can Jev solve a maze? A step-by-step test on a 14×14 braided maze</a></h3>
+<p>The author generated a 14×14 braided maze with randomized Prim&#39;s algorithm, about 52 junctions, and loops knocked through dead ends. In attempt 1, Jev was asked which way to go at every step, with all legal directions on the table, including back the way it came.</p>
+<p><strong>中文摘要：</strong>作者用随机 Prim 算法生成 14×14 编织迷宫，约 52 个交叉点，并打通死胡同形成环路。第一次尝试中，每一步都询问 Jev 该往哪走，包括所有合法方向以及来时的路。</p>
+<p><strong>Benjamin De Kraker</strong> · @BenjaminDEKR · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 650</p>
+<p><a href="https://x.com/BenjaminDEKR/status/2101803703258771901">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

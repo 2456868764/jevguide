@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 64 | 33 | 31 | 419K |
+| 65 | 34 | 31 | 419K |
 
 ## Showcase 卡片
 
@@ -491,6 +491,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/DwidLee/status/2101216386790154678"><img src="https://pbs.twimg.com/tweet_video_thumb/HSkFKNobwAALLCJ.jpg" alt="Local System One toy: Jev-shaped API with Qwen 0.5B · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DwidLee/status/2101216386790154678">Local System One toy: Jev-shaped API with Qwen 0.5B</a></h3>
+<p>The author shows a local System One toy using a Jev-shaped API and Qwen 0.5B, where both chess sides model only over legal moves; Stockfish 5k SFT raises move accuracy from 78% to 82%, with long multi-question prefix KV around 150ms.</p>
+<p><strong>中文摘要：</strong>作者展示本地 System One 玩具，使用 Jev 风格 API 和 Qwen 0.5B，在国际象棋中双方仅基于合法走法建模，Stockfish 5k SFT 将走法准确率从 78% 提升到 82%，长多问题前缀 KV 约 150ms。</p>
+<p><strong>Dwid Lee</strong> · @DwidLee · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/DwidLee/status/2101216386790154678">在 X 查看原帖</a> · <a href="https://t.co/hehm7NMSGH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/saisuiwa/status/2101439046606361011"><img src="https://pbs.twimg.com/amplify_video_thumb/2101438113201745920/img/WQfter0U0Io-ChQe.jpg" alt="Building a particle morph app with Jev: choosing from 144 shapes in 0.3s · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -501,6 +512,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
 <p><a href="https://x.com/saisuiwa/status/2101439046606361011">在 X 查看原帖</a> · <a href="https://t.co/X1slG4mg9x">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jaredpalmer/status/2101028325472841920"><img src="https://pbs.twimg.com/media/HShaIHuWsAAU9fy?format=jpg&amp;name=large" alt="Kev-0.5B: An Open-Source Jev-like Decision Model with TypeSafe-Compatible API · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 86 &nbsp; 🔁 247 &nbsp; ♡ 2.4K &nbsp; 📊 172K</p>
 <p><a href="https://x.com/jaredpalmer/status/2101028325472841920">在 X 查看原帖</a> · <a href="https://t.co/53wZQYhhmu">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sadsadasgaaxwa/status/2100974458458784124"><img src="https://pbs.twimg.com/amplify_video_thumb/2100974429601972224/img/n7T5NMXzszoNf0Ir.jpg" alt="Trying to Replicate Jev with a Local LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 6 &nbsp; 🔁 112 &nbsp; ♡ 845 &nbsp; 📊 110K</p>
 <p><a href="https://x.com/sadsadasgaaxwa/status/2100974458458784124">在 X 查看原帖</a> · <a href="https://t.co/LQrrc4rJtO">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SUOHA_AI/status/2100905906267418879"><img src="https://pbs.twimg.com/media/HSfmJ6yXwAAd2io?format=jpg&amp;name=large" alt="Getting Started with Jev: Waitlist Application Guide · 原帖图片" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 12 &nbsp; 🔁 111 &nbsp; ♡ 635 &nbsp; 📊 107K</p>
 <p><a href="https://x.com/SUOHA_AI/status/2100905906267418879">在 X 查看原帖</a> · <a href="https://t.co/mJAR87S6CC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2100840157008253261"><img src="https://pbs.twimg.com/media/HSeu-7uacAA1MKv?format=jpg&amp;name=medium" alt="NanoJev Open-Sources Full Jev Pipeline: 0.6B Parallel Decision Model and Training Pipeline · 原帖图片" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 20 &nbsp; 🔁 104 &nbsp; ♡ 652 &nbsp; 📊 100K</p>
 <p><a href="https://x.com/NFT_Chen/status/2100840157008253261">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/picocreator/status/2101006253829046539"><img src="https://pbs.twimg.com/amplify_video_thumb/2101000224030466048/img/hdS6iLX8bGh568ga.jpg" alt="SimpleJev.ai: Open-source Jev-ify any HF model with API · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 31 &nbsp; 🔁 149 &nbsp; ♡ 1.2K &nbsp; 📊 97K</p>
 <p><a href="https://x.com/picocreator/status/2101006253829046539">在 X 查看原帖</a> · <a href="https://t.co/DlNeKo2k5e">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Av1dlive/status/2100974220759196026"><img src="https://pbs.twimg.com/media/HSgo4FiawAAL3Vo?format=png&amp;name=900x900" alt="After getting Jev access, using a prompt with Codex and Claude to find workflow decisions Jev can help with · 原帖图片" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 31 &nbsp; 🔁 33 &nbsp; ♡ 569 &nbsp; 📊 88K</p>
 <p><a href="https://x.com/Av1dlive/status/2100974220759196026">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/o_kwasniewski/status/2100966838905585687"><img src="https://pbs.twimg.com/amplify_video_thumb/2100966360192868352/img/8GCSVzX1AYF4caav.jpg" alt="Open-source framework for running e2e tests with agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 31 &nbsp; 🔁 87 &nbsp; ♡ 1.1K &nbsp; 📊 64K</p>
 <p><a href="https://x.com/o_kwasniewski/status/2100966838905585687">在 X 查看原帖</a> · <a href="https://t.co/G3XB2L8tiC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/omarjpeg/status/2101047036863037753"><img src="https://pbs.twimg.com/amplify_video_thumb/2101046478685007872/img/gR52RkPOJb99hnPD.jpg" alt="Jev with Browser Use for Fast Design Flow Capture · 原帖视频截图" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 35 &nbsp; 🔁 17 &nbsp; ♡ 405 &nbsp; 📊 47K</p>
 <p><a href="https://x.com/omarjpeg/status/2101047036863037753">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Devoxx/status/2100824445409427734"><img src="https://pbs.twimg.com/amplify_video_thumb/2100672777917210624/img/Te-idi14Nd64YVJ4.jpg" alt="Open Source Java Implementation of Jev Parallel Constraint Decoder (via Llama.cpp) · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 975</p>
 <p><a href="https://x.com/Devoxx/status/2100824445409427734">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mmastrac/status/2100626193943052784"><img src="https://pbs.twimg.com/media/HSbpIYIagAY_7EC?format=jpg&amp;name=medium" alt="Live evals compare Jev vs DiffusionGemma · 原帖图片" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 49 &nbsp; 🔁 120 &nbsp; ♡ 1.1K &nbsp; 📊 374K</p>
 <p><a href="https://x.com/mmastrac/status/2100626193943052784">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moritzkremb/status/2100715237267660873"><img src="https://pbs.twimg.com/amplify_video_thumb/2100714561389129730/img/mHB9NznquD7-VkyS.jpg" alt="Full Jev Tutorial: Intro, API Setup and Three Demos · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 54 &nbsp; 🔁 382 &nbsp; ♡ 2.9K &nbsp; 📊 240K</p>
 <p><a href="https://x.com/moritzkremb/status/2100715237267660873">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/andy0440sada/status/2100426558863458770"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085174826647552/img/6YMRQKKZYBPsW2oo.jpg" alt="typesafe-mario: Open-source project linking emulator info to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 2 &nbsp; 🔁 193 &nbsp; ♡ 1.1K &nbsp; 📊 176K</p>
 <p><a href="https://x.com/andy0440sada/status/2100426558863458770">在 X 查看原帖</a> · <a href="https://t.co/mWpmC3bTNz">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ScarletKc/status/2100718364922683499"><img src="https://pbs.twimg.com/amplify_video_thumb/2100044290743558144/img/qoO9w7RnXjqtrq6I.jpg" alt="Someone open-sourced a Qwen-based Jev-style parallel classification and probability output implementation · 原帖视频截图" width="100%"></a>
 <br>
@@ -656,8 +669,6 @@
 <p>💬 42 &nbsp; 🔁 69 &nbsp; ♡ 813 &nbsp; 📊 170K</p>
 <p><a href="https://x.com/ScarletKc/status/2100718364922683499">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moritzkremb/status/2100520536464105556"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="A thread of explanations and examples for Jev by TypeSafe AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -669,6 +680,8 @@
 <p>💬 18 &nbsp; 🔁 55 &nbsp; ♡ 547 &nbsp; 📊 161K</p>
 <p><a href="https://x.com/moritzkremb/status/2100520536464105556">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ekzhang1/status/2100651678110515383"><img src="https://pbs.twimg.com/amplify_video_thumb/2100650872896409600/img/5UEJfLYI86-q2mwG.jpg" alt="Jev-compatible public API: fast parallel System One generation with SGLang · 原帖视频截图" width="100%"></a>
 <br>
@@ -680,8 +693,6 @@
 <p>💬 28 &nbsp; 🔁 72 &nbsp; ♡ 977 &nbsp; 📊 140K</p>
 <p><a href="https://x.com/ekzhang1/status/2100651678110515383">在 X 查看原帖</a> · <a href="https://t.co/bbRh4yAPAB">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iwasakoya/status/2100471523358474709"><img src="https://pbs.twimg.com/amplify_video_thumb/2100471095627591680/img/jQewHJZ85th2EEv3.jpg" alt="Building a Document Upload Permission Checker with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +704,8 @@
 <p>💬 6 &nbsp; 🔁 76 &nbsp; ♡ 525 &nbsp; 📊 73K</p>
 <p><a href="https://x.com/iwasakoya/status/2100471523358474709">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jpschroeder/status/2100698502531514761"><img src="https://pbs.twimg.com/amplify_video_thumb/2100695514970718208/img/JdLlK-j6d3MKBgPF.jpg" alt="Tesla FSD Jev demo open sourced, try it online · 原帖视频截图" width="100%"></a>
 <br>
@@ -704,8 +717,6 @@
 <p>💬 16 &nbsp; 🔁 49 &nbsp; ♡ 351 &nbsp; 📊 64K</p>
 <p><a href="https://x.com/jpschroeder/status/2100698502531514761">在 X 查看原帖</a> · <a href="https://t.co/iS6Ch6EoI3">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akira_papa_IT/status/2100581114293506163"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581062917459968/img/ZewM2VXm59EvPS3E.jpg" alt="Developer builds semantic search with Devin and Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -717,6 +728,8 @@
 <p>💬 7 &nbsp; 🔁 12 &nbsp; ♡ 46 &nbsp; 📊 10K</p>
 <p><a href="https://x.com/akira_papa_IT/status/2100581114293506163">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Happm_HCS/status/2100588739471024303"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581062917459968/img/ZewM2VXm59EvPS3E.jpg" alt="Devin × Jev Demo Showcases Semantic Search · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +741,6 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/Happm_HCS/status/2100588739471024303">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/azamsharp/status/2100622025228169713"><img src="https://pbs.twimg.com/amplify_video_thumb/2100621747888291840/img/EE7lxOLZR5SfCB56.jpg" alt="Getting Started with JEV: API Keys, HTTP Requests &amp; JavaScript/Python SDKs · 原帖视频截图" width="100%"></a>
 <br>
@@ -741,6 +752,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 767</p>
 <p><a href="https://x.com/azamsharp/status/2100622025228169713">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tawasee/status/2100612758467432712"><img src="https://pbs.twimg.com/media/HSbgK5TbUAAsSRI?format=jpg&amp;name=900x900" alt="Feeding Pen Stroke Vectors into Jev for Recognition · 原帖图片" width="100%"></a>
 <br>
@@ -752,8 +765,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 248</p>
 <p><a href="https://x.com/tawasee/status/2100612758467432712">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vinnylarouge/status/2100170846346097083"><img src="https://pbs.twimg.com/media/HSVN9GfWcAARS8b?format=jpg&amp;name=medium" alt="Reverse-engineered a Jev-like architecture with open-source training repo · 原帖图片" width="100%"></a>
 <br>
@@ -765,6 +776,8 @@
 <p>💬 48 &nbsp; 🔁 191 &nbsp; ♡ 2.0K &nbsp; 📊 165K</p>
 <p><a href="https://x.com/vinnylarouge/status/2100170846346097083">在 X 查看原帖</a> · <a href="https://t.co/UVPfP6OoqZ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stevekrouse/status/2100287368221659289"><img src="https://pbs.twimg.com/amplify_video_thumb/2100287272918593538/img/Wfej3okCPXU3wgN5.jpg" alt="TypeSafe Jev Live Demo Available to Play · 原帖视频截图" width="100%"></a>
 <br>
@@ -776,5 +789,6 @@
 <p>💬 25 &nbsp; 🔁 41 &nbsp; ♡ 587 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/stevekrouse/status/2100287368221659289">在 X 查看原帖</a> · <a href="https://t.co/ctnPF0w70r">原文链接</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

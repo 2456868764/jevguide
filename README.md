@@ -10,9 +10,9 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>948</strong><br>curated posts</td>
-<td align="center"><strong>596</strong><br>original videos</td>
-<td align="center"><strong>24</strong><br>categories</td>
+<td align="center"><strong>1000</strong><br>curated posts</td>
+<td align="center"><strong>627</strong><br>original videos</td>
+<td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
 </table>
@@ -26,41 +26,41 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
-<p><sub>开发者工具</sub></p>
-<p><strong>116</strong> showcases · <strong>66</strong> videos</p>
-<p><a href="categories/developer-tools.md">Open category →</a></p>
+<h3><a href="categories/how-it-works.md">How it works</a></h3>
+<p><sub>工作原理</sub></p>
+<p><strong>121</strong> showcases · <strong>66</strong> videos</p>
+<p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>116</strong> showcases · <strong>56</strong> videos</p>
+<p><strong>119</strong> showcases · <strong>56</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/how-it-works.md">How it works</a></h3>
-<p><sub>工作原理</sub></p>
-<p><strong>115</strong> showcases · <strong>66</strong> videos</p>
-<p><a href="categories/how-it-works.md">Open category →</a></p>
+<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
+<p><sub>开发者工具</sub></p>
+<p><strong>118</strong> showcases · <strong>66</strong> videos</p>
+<p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>89</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>108</strong> showcases · <strong>96</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>69</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>70</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>64</strong> showcases · <strong>33</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>60</strong> showcases · <strong>36</strong> videos</p>
+<p><strong>64</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>60</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>62</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>46</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>35</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>37</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>40</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>32</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>35</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -146,25 +146,31 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/software-development.md">Software development</a></h3>
+<p><sub>软件开发</sub></p>
+<p><strong>7</strong> showcases · <strong>4</strong> videos</p>
+<p><a href="categories/software-development.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
 <p><strong>6</strong> showcases · <strong>3</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
+<p><sub>法律合规</sub></p>
+<p><strong>6</strong> showcases · <strong>3</strong> videos</p>
+<p><a href="categories/legal-compliance.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
 <p><strong>6</strong> showcases · <strong>2</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="categories/software-development.md">Software development</a></h3>
-<p><sub>软件开发</sub></p>
-<p><strong>6</strong> showcases · <strong>3</strong> videos</p>
-<p><a href="categories/software-development.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
@@ -177,12 +183,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><strong>5</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
 <p><strong>4</strong> showcases · <strong>2</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
@@ -213,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/loktar00/status/2101851403790512615">Jev and a Local LLM Play Unreal Tournament 99</a></h3>
+<p>Two real Windows 98 PCs run Unreal Tournament 99, with the left player driven by cloud Jev and the right by gpt-oss-20b on local GPUs, with no vision and no scripts.</p>
+<p><strong>63</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
+<p><strong>Loktar 🇺🇸</strong> · @loktar00</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
 <a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/khajanpandey/status/2101837339387437384">Jev powers zsh autosuggestions in the terminal</a></h3>
 <p>With the zsh autosuggestion plugin, get Jev-assisted suggestions right in the terminal using one command and a typesafe key, covering command history and smart grep history.</p>
 <p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><strong>Khajan Pandey</strong> · @khajanpandey</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/OneLegDavePDX/status/2101833867913228593"><img src="https://pbs.twimg.com/tweet_video_thumb/HSs2wrabQAA4gS_.jpg" alt="User gains Jev access and adds it to toolbox · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/OneLegDavePDX/status/2101833867913228593">User gains Jev access and adds it to toolbox</a></h3>
-<p>A user says they thought Jev might just be hype, but after getting access added it to their toolbox about an hour ago.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>OneLegDave</strong> · @OneLegDavePDX</p>
 </td>
 </tr>
 </table>
@@ -293,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்</strong> · @logic</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/OneLegDavePDX/status/2101833867913228593"><img src="https://pbs.twimg.com/tweet_video_thumb/HSs2wrabQAA4gS_.jpg" alt="User gains Jev access and adds it to toolbox · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/OneLegDavePDX/status/2101833867913228593">User gains Jev access and adds it to toolbox</a></h3>
-<p>A user says they thought Jev might just be hype, but after getting access added it to their toolbox about an hour ago.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>OneLegDave</strong> · @OneLegDavePDX</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/khajanpandey/status/2101837339387437384">Jev powers zsh autosuggestions in the terminal</a></h3>
+<p>With the zsh autosuggestion plugin, get Jev-assisted suggestions right in the terminal using one command and a typesafe key, covering command history and smart grep history.</p>
+<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><strong>Khajan Pandey</strong> · @khajanpandey</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/kawamoto_LINER/status/2101852325619134676"><img src="https://pbs.twimg.com/media/HStFqsRa8AAWjG5?format=jpg&amp;name=medium" alt="AI Learning Event to Cover Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kawamoto_LINER/status/2101852325619134676">AI Learning Event to Cover Jev</a></h3>
-<p>A hands-on AI learning event will be held on Sep 30 in Akasaka, Tokyo, and will cover the trending Jev; registration is open.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 2</p>
-<p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER</p>
+<p><strong>03</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
+<a href="https://x.com/matu79go/status/2101878714917429488"><img src="https://pbs.twimg.com/amplify_video_thumb/2101877976375939072/img/1PPCZ99yIK8mBlq9.jpg" alt="Jev benchmarked on legal contract review: 820 decisions in 8.3s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/matu79go/status/2101878714917429488">Jev benchmarked on legal contract review: 820 decisions in 8.3s</a></h3>
+<p>The benchmark shows Jev reading a contract page and evaluating all 41 clause types at once, sorting in real time at 0.40s per page, with the same F1 as Claude Haiku 4.5 at about 1/18 the cost.</p>
+<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><strong>Gosuke Suzuki｜Suzuki Soten</strong> · @matu79go</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/mizorewww/status/2101473552956555427"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="laya-mlx: An Open-Source Jev-like Classification System Ported to MLX · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/mizorewww/status/2101473552956555427">laya-mlx: An Open-Source Jev-like Classification System Ported to MLX</a></h3>
-<p>The author ported Laya, an open-source classification system similar to Jev, to MLX for on-device use, using at most 1GB of memory and claimed to be 50x faster than Jev.</p>
-<p><strong>147K</strong> views · 💬 49 &nbsp; 🔁 258 &nbsp; ♡ 2.3K &nbsp; 📊 147K</p>
-<p><strong>雨夹雪❄️</strong> · @mizorewww</p>
+<p><strong>04</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
+<a href="https://x.com/xfanwu/status/2101850900356649247"><img src="https://pbs.twimg.com/amplify_video_thumb/2101831753363259392/img/0FZG8mGApbMEfRIY.jpg" alt="Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/xfanwu/status/2101850900356649247">Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON</a></h3>
+<p>The author praises Jev for logging disagreements on 13% of well-known court rulings, argues classifiers need fail-case records, and asks what first judgment would never be auto-approved in a typed system.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Xiaofan Wu</strong> · @xfanwu</p>
 </td>
 </tr>
 </table>

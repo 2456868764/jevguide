@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 89 | 78 | 12 | 588K |
+| 108 | 96 | 13 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/loktar00/status/2101851403790512615">Jev and a Local LLM Play Unreal Tournament 99</a></h3>
+<p>Two real Windows 98 PCs run Unreal Tournament 99, with the left player driven by cloud Jev and the right by gpt-oss-20b on local GPUs, with no vision and no scripts.</p>
+<p><strong>中文摘要：</strong>两台真实 Windows 98 PC 运行《虚幻竞技场99》，左侧玩家由云端 Jev 驱动，右侧由本地 GPU 上的 gpt-oss-20b 驱动，无视觉输入、无脚本。</p>
+<p><strong>Loktar 🇺🇸</strong> · @loktar00 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
+<p><a href="https://x.com/loktar00/status/2101851403790512615">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/node_jz/status/2101869614170820861"><img src="https://pbs.twimg.com/amplify_video_thumb/2101869602783272960/img/ZbUzTjLlmVETq6vk.jpg" alt="Jev Loop Powers Combat and Map Decisions in Games · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/node_jz/status/2101869614170820861">Jev Loop Powers Combat and Map Decisions in Games</a></h3>
+<p>The Jev loop handles combat, map routes, shops, event rooms, rest sites, and card rewards; the harness provides game state, recent decisions, legal moves, and relevant strategy tips.</p>
+<p><strong>中文摘要：</strong>Jev 循环处理战斗、地图路线、商店、事件房间、休息点和卡牌奖励；harness 提供游戏状态、近期决策、合法动作及相关策略提示。</p>
+<p><strong>Jeremy</strong> · @node_jz · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/node_jz/status/2101869614170820861">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101675124747338229"><img src="https://pbs.twimg.com/amplify_video_thumb/2101666395239182336/img/wvATzQcIrkDYZos1.jpg" alt="Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison · 原帖视频截图" width="100%"></a>
@@ -118,6 +142,19 @@
 <p><a href="https://x.com/cyrilXBT/status/2101634985631658180">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/filicroval/status/2101692321364406600"><img src="https://pbs.twimg.com/amplify_video_thumb/2101692089629126656/img/fRBFtTGqL_uZm_py.jpg" alt="Jev can now actually play Pokémon Showdown · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/filicroval/status/2101692321364406600">Jev can now actually play Pokémon Showdown</a></h3>
+<p>Each turn it reads the live battle state, weighs every legal move, Tera and switch, then commits; 81 calls, 277ms average, $0.0096 spent.</p>
+<p><strong>中文摘要：</strong>每回合读取实时对战状态，权衡所有合法招式、太晶化和换人后执行；81 次调用，平均 277ms，花费 $0.0096。</p>
+<p><strong>filipe</strong> · @filicroval · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 2.0K</p>
+<p><a href="https://x.com/filicroval/status/2101692321364406600">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Taodav/status/2101716888464117846"><img src="https://pbs.twimg.com/tweet_video_thumb/HSrLdAWWoAAZrr7.jpg" alt="Jev Can (Kind of) Play Atari Too · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -128,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 6 &nbsp; ♡ 12 &nbsp; 📊 1.0K</p>
 <p><a href="https://x.com/Taodav/status/2101716888464117846">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/osushi_cr/status/2101539880149160295"><img src="https://pbs.twimg.com/amplify_video_thumb/2101539118689947648/img/CpEQLApg8-DvCGEd.jpg" alt="Playing games with Jev by extracting logits from Apple&#39;s on-device model · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +175,19 @@
 <p><strong>お寿司@小説</strong> · @osushi_cr · 2026-09-20</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 516</p>
 <p><a href="https://x.com/osushi_cr/status/2101539880149160295">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dedene/status/2101770592055935114"><img src="https://pbs.twimg.com/amplify_video_thumb/2101770557297774592/img/EMCv1Ka0Y1gtwjO-.jpg" alt="Building a Rubik&#39;s Cube Solver Live with TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dedene/status/2101770592055935114">Building a Rubik&#39;s Cube Solver Live with TypeSafe Jev</a></h3>
+<p>A developer built a Rubik&#39;s Cube solver using TypeSafe AI&#39;s Jev, which picks every step live with a graph showing stickers sliding along their orbits, without any solver library or cube algorithms.</p>
+<p><strong>中文摘要：</strong>开发者使用 TypeSafe AI 的 Jev 构建魔方求解器，Jev 实时选择每一步，并通过图表展示贴纸沿轨道滑动，不依赖求解器库或预设算法。</p>
+<p><strong>Peter Dedene</strong> · @dedene · 2026-09-20</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 443</p>
+<p><a href="https://x.com/dedene/status/2101770592055935114">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/hAru_mAki_ch/status/2101693259861139813"><img src="https://pbs.twimg.com/media/HSq2zJbbAAAlcGX?format=jpg&amp;name=medium" alt="Developer builds 3D flight simulator for Jev to try, open-sources repo · 原帖图片" width="100%"></a>
@@ -238,6 +286,19 @@
 <p><a href="https://x.com/e_schultze_/status/2101773114434552245">在 X 查看原帖</a> · <a href="https://t.co/YhpxD62aoW">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Htech_works/status/2101784771047141727"><img src="https://pbs.twimg.com/amplify_video_thumb/2101784732748980224/img/8XTNxYejqwcyOfQG.jpg" alt="Playing chess with TypeSafe&#39;s Jev: one Choice call per move · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Htech_works/status/2101784771047141727">Playing chess with TypeSafe&#39;s Jev: one Choice call per move</a></h3>
+<p>A demo where Jev decides directly over legal moves with one Choice call per move, no text or parsing, and can play against Stockfish and Beast Jev.</p>
+<p><strong>中文摘要：</strong>演示用 Jev 直接对合法走法做决策，每次走子仅一次 Choice 调用，无文本解析，可与 Stockfish 和 Beast Jev 对战。</p>
+<p><strong>Harold</strong> · @Htech_works · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 56</p>
+<p><a href="https://x.com/Htech_works/status/2101784771047141727">在 X 查看原帖</a> · <a href="https://t.co/JQQb51rHfh">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/arkyu2077/status/2101623118322417902"><img src="https://pbs.twimg.com/amplify_video_thumb/2101622976592670720/img/lIcVBPOPftijV5gS.jpg" alt="Room Rush: Jev AI Shops IKEA Live for Your Room · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -248,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
 <p><a href="https://x.com/arkyu2077/status/2101623118322417902">在 X 查看原帖</a> · <a href="https://t.co/Wrp1RByNPK">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chucky_sn/status/2101670097358385654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101670073945686016/img/BoTqanLLIQvMyIm5.jpg" alt="Using Jev for answer validation in a real-time guessing game · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 50</p>
 <p><a href="https://x.com/chucky_sn/status/2101670097358385654">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bariskisir/status/2101531039185129683"><img src="https://pbs.twimg.com/amplify_video_thumb/2101530909170089984/img/A2PKFt3An2aUNbMa.jpg" alt="Testing TypeSafe AI&#39;s Jev Model in Bullet Chess · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
 <p><a href="https://x.com/bariskisir/status/2101531039185129683">在 X 查看原帖</a> · <a href="https://t.co/4o5rEdqOKq">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/skewbed/status/2101796127007814015"><img src="https://pbs.twimg.com/amplify_video_thumb/2101768771929010176/img/0m49OYKXvXRZEv2D.jpg" alt="Jev demos said to receive game state directly, not vision · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
 <p><a href="https://x.com/skewbed/status/2101796127007814015">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aliteracy/status/2101698827363475775"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Jev Places Blocks Blind and Opens Chests Through Walls in Minecraft · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/aliteracy/status/2101698827363475775">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abelardodiaz/status/2101815916660941029"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Jev as Controller Lets LLM Beat the Ender Dragon in 8:43 · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/abelardodiaz/status/2101815916660941029">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/megurosumi/status/2101656868645216490"><img src="https://pbs.twimg.com/amplify_video_thumb/2101656100462559232/img/yflmJKZ81EZnVn6J.jpg" alt="A Talkable 3D Pocket Garden Powered by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
 <p><a href="https://x.com/megurosumi/status/2101656868645216490">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ojigineko_tips/status/2101642545101242537"><img src="https://pbs.twimg.com/amplify_video_thumb/2101622824142282753/img/cP6an1vW5jFJmSj2.jpg" alt="Using Jev for Game Autopilot · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +392,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/ojigineko_tips/status/2101642545101242537">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dariusgaynor/status/2101719475074584753"><img src="https://pbs.twimg.com/media/HSrOLXPWQAAVKt-?format=jpg&amp;name=medium" alt="Jev Improves Sumo AI Decision-Making · 原帖图片" width="100%"></a>
 <br>
@@ -343,6 +404,17 @@
 <p><strong>Darius Gaynor</strong> · @dariusgaynor · 2026-09-20</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/dariusgaynor/status/2101719475074584753">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/civitcio/status/2101749417514586354"><img src="https://pbs.twimg.com/amplify_video_thumb/2101748900365275136/img/pat9D5JIuU5J4Thv.jpg" alt="Sonnet 5 vs Jev Tournament: Sonnet Wins First Game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/civitcio/status/2101749417514586354">Sonnet 5 vs Jev Tournament: Sonnet Wins First Game</a></h3>
+<p>User comments on the chess match between Sonnet 5 and Jev, where Sonnet won the first game, noting chess should be Jev&#39;s advantage.</p>
+<p><strong>中文摘要：</strong>用户评论 Sonnet 5 与 Jev 的国际象棋对弈，首局 Sonnet 获胜，并指出国际象棋本应是 Jev 的优势领域。</p>
+<p><strong>burak ç</strong> · @civitcio · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
+<p><a href="https://x.com/civitcio/status/2101749417514586354">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -587,6 +659,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/GNUmanth/status/2101192254455271741"><img src="https://pbs.twimg.com/amplify_video_thumb/2101189626564358144/img/A2ZHzEOUgJi94kEX.jpg" alt="jev-chess: A Chess Studio Powered by TypeSafe AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GNUmanth/status/2101192254455271741">jev-chess: A Chess Studio Powered by TypeSafe AI</a></h3>
+<p>jev-chess maps natural language to verified legal moves, offering real-time tactical telemetry, grandmaster personas, and historic game classification, installable via npm.</p>
+<p><strong>中文摘要：</strong>jev-chess 将自然语言映射为经过验证的合法走法，提供实时战术遥测、大师人格和历史对局分类，可通过 npm 安装。</p>
+<p><strong>Hemanth.HM</strong> · @GNUmanth · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 423</p>
+<p><a href="https://x.com/GNUmanth/status/2101192254455271741">在 X 查看原帖</a> · <a href="https://t.co/tQUM5pkj5D">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/aslammdoctor/status/2101296272808530401"><img src="https://pbs.twimg.com/amplify_video_thumb/2101296206261743618/img/H8HlyHVqo1HjA9tk.jpg" alt="Adding JEV Move Suggestions to a React Chess Game · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -597,6 +680,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 208</p>
 <p><a href="https://x.com/aslammdoctor/status/2101296272808530401">在 X 查看原帖</a> · <a href="https://t.co/LF7PfPiQUK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/whycallqq/status/2101270905670291536"><img src="https://pbs.twimg.com/amplify_video_thumb/2101270818080833536/img/lK9NT_EK-NncYmka.jpg" alt="Jev Autonomously Plays a Poker Roguelike · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +693,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 168</p>
 <p><a href="https://x.com/whycallqq/status/2101270905670291536">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hirostudiocom/status/2101327771956117663"><img src="https://pbs.twimg.com/amplify_video_thumb/2101327320271441920/img/LtFzB-XbkP6qqZc_.jpg" alt="Using Jev for Game Balance Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +704,19 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 151</p>
 <p><a href="https://x.com/hirostudiocom/status/2101327771956117663">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SyedZawwarAhmed/status/2101354335573770574"><img src="https://pbs.twimg.com/amplify_video_thumb/2101354074440691712/img/GC03jmF4pteBVj5y.jpg" alt="Playing Chess with Jev: Generating Legal Moves for a Classification Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SyedZawwarAhmed/status/2101354335573770574">Playing Chess with Jev: Generating Legal Moves for a Classification Model</a></h3>
+<p>The author made Jev play chess against them. Since Jev is a classification model that cannot generate moves, they generate all legal moves in code and let Jev pick from them.</p>
+<p><strong>中文摘要：</strong>作者让 Jev 与自己下棋。由于 Jev 是分类模型、无法直接生成走法，他通过代码生成所有合法走法，再让 Jev 从中选择。</p>
+<p><strong>Zawwar</strong> · @SyedZawwarAhmed · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 71</p>
+<p><a href="https://x.com/SyedZawwarAhmed/status/2101354335573770574">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/raxxoofficial/status/2101210121925779809"><img src="https://pbs.twimg.com/amplify_video_thumb/2101209758225092608/img/JPhC5dYwIcfQo3vK.jpg" alt="JEV Tries to Beat NIGHTMILE Game Record · 原帖视频截图" width="100%"></a>
 <br>
@@ -631,6 +727,30 @@
 <p><strong>RAXXO Studios | Creative Studio</strong> · @raxxoofficial · 2026-09-19</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/raxxoofficial/status/2101210121925779809">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PatoDevelop/status/2101390179504451724"><img src="https://pbs.twimg.com/media/HSmi7htXsAAKj2e?format=jpg&amp;name=large" alt="Jev vs Astra at a poker table: Jev only evaluates legal choices · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PatoDevelop/status/2101390179504451724">Jev vs Astra at a poker table: Jev only evaluates legal choices</a></h3>
+<p>In a poker table scenario, GPT-6 Astra chooses its own actions while Jev only evaluates legal choices, with neither seeing the other&#39;s strategy. Jev wins hand 002 as Astra folds, with decision counts, time, and token usage listed.</p>
+<p><strong>中文摘要：</strong>在扑克桌场景中，GPT-6 Astra 自主选择行动，Jev 仅评估合法选择，双方互不知晓策略。第二手 Jev 获胜，Astra 弃牌，并列出决策次数、耗时与 token 数。</p>
+<p><strong>Patricio M</strong> · @PatoDevelop · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><a href="https://x.com/PatoDevelop/status/2101390179504451724">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ghtght_7/status/2101153719736013027"><img src="https://pbs.twimg.com/amplify_video_thumb/2101043537634635778/img/G2L_5Qt0vdMjLtCa.jpg" alt="Jev-powered puzzle bot solves puzzles with 190 calls · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ghtght_7/status/2101153719736013027">Jev-powered puzzle bot solves puzzles with 190 calls</a></h3>
+<p>Code lists legal taps, Jev returns a probability for each, and the bot clears puzzles: 190 calls, ~240ms each, $0.03 total.</p>
+<p><strong>中文摘要：</strong>代码列出合法点击，Jev 为每个点击返回概率，机器人据此完成谜题：190 次调用，每次约 240 毫秒，总成本 0.03 美元。</p>
+<p><strong>ghtght</strong> · @ghtght_7 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/ghtght_7/status/2101153719736013027">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -659,6 +779,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/BigP_dev/status/2101385541438586923"><img src="https://pbs.twimg.com/amplify_video_thumb/2101385494596628480/img/fARe16b19iMQZKc3.jpg" alt="Jev Plays Chess: Enumerating Safe Moves, Jev Picks by Judgment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BigP_dev/status/2101385541438586923">Jev Plays Chess: Enumerating Safe Moves, Jev Picks by Judgment</a></h3>
+<p>The author&#39;s code enumerates legal, tactically safe chess moves and Jev picks one by judgment, with no lookahead unless unsure.</p>
+<p><strong>中文摘要：</strong>作者用代码枚举国际象棋中合法且战术安全的走法，再由 Jev 凭判断选择，除非不确定否则不做前瞻搜索。</p>
+<p><strong>Pate</strong> · @BigP_dev · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><a href="https://x.com/BigP_dev/status/2101385541438586923">在 X 查看原帖</a> · <a href="https://t.co/2LTRxh1ktw">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/azakhary/status/2101190707604062679"><img src="https://pbs.twimg.com/media/HSjtjCaXEAAUZll?format=jpg&amp;name=medium" alt="Jev for Game Playtesting and Design Feedback · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -669,6 +800,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/azakhary/status/2101190707604062679">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zsalloum/status/2101347614331416849"><img src="https://pbs.twimg.com/amplify_video_thumb/2101347340510429185/img/HwbgyxHVeLfeCXUN.jpg" alt="Jev Plays Tic-Tac-Toe · 原帖视频截图" width="100%"></a>
 <br>
@@ -680,8 +813,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/zsalloum/status/2101347614331416849">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HugoDuprez/status/2100953089003921543"><img src="https://pbs.twimg.com/amplify_video_thumb/2100952449661992960/img/GEVdw9BvAW7Dv2Gx.jpg" alt="Jev can generate game levels in real time · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +824,8 @@
 <p>💬 133 &nbsp; 🔁 359 &nbsp; ♡ 2.8K &nbsp; 📊 526K</p>
 <p><a href="https://x.com/HugoDuprez/status/2100953089003921543">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maubaron/status/2100738237237002706"><img src="https://pbs.twimg.com/amplify_video_thumb/2100731665513349120/img/j4DcB9CxjN8DX4qe.jpg" alt="Jev Plays Smash Bros Against Itself, Controlling All 4 Characters · 原帖视频截图" width="100%"></a>
 <br>
@@ -704,8 +837,6 @@
 <p>💬 138 &nbsp; 🔁 436 &nbsp; ♡ 3.7K &nbsp; 📊 301K</p>
 <p><a href="https://x.com/maubaron/status/2100738237237002706">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/J_niwacis/status/2100791658346676691"><img src="https://pbs.twimg.com/amplify_video_thumb/2100790085021323264/img/oGEi90uNHRLNNS00.jpg" alt="Jev vs Claude Haiku 4.5 in Tetris · 原帖视频截图" width="100%"></a>
 <br>
@@ -717,6 +848,8 @@
 <p>💬 4 &nbsp; 🔁 73 &nbsp; ♡ 331 &nbsp; 📊 143K</p>
 <p><a href="https://x.com/J_niwacis/status/2100791658346676691">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/odiak_/status/2100887995524272232"><img src="https://pbs.twimg.com/media/HSfZNOvboAAGlWg?format=jpg&amp;name=medium" alt="Reverse Akinator guessing game built on Jev · 原帖图片" width="100%"></a>
 <br>
@@ -728,8 +861,6 @@
 <p>💬 17 &nbsp; 🔁 249 &nbsp; ♡ 724 &nbsp; 📊 110K</p>
 <p><a href="https://x.com/odiak_/status/2100887995524272232">在 X 查看原帖</a> · <a href="https://t.co/ewuiB5ktxo">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/john_bortotti/status/2101019513676345555"><img src="https://pbs.twimg.com/amplify_video_thumb/2101017687044366336/img/i9QnHKeZumFnNMCB.jpg" alt="Orchestrating a 3D character&#39;s performance with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -741,6 +872,8 @@
 <p>💬 26 &nbsp; 🔁 102 &nbsp; ♡ 768 &nbsp; 📊 102K</p>
 <p><a href="https://x.com/john_bortotti/status/2101019513676345555">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tdinh_me/status/2101083073777750223"><img src="https://pbs.twimg.com/amplify_video_thumb/2101083038050631680/img/QqvdRuIYSbKvWiAK.jpg" alt="Jev plays Tetris: fast and cheap but not very smart · 原帖视频截图" width="100%"></a>
 <br>
@@ -752,8 +885,6 @@
 <p>💬 90 &nbsp; 🔁 15 &nbsp; ♡ 270 &nbsp; 📊 62K</p>
 <p><a href="https://x.com/tdinh_me/status/2101083073777750223">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/umimya_trbgani/status/2100807832643977219"><img src="https://pbs.twimg.com/amplify_video_thumb/2100807146304839680/img/tFN8ics3kUraXm4G.jpg" alt="A real-time game prototype quickly built with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -765,6 +896,8 @@
 <p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 9 &nbsp; 📊 5.2K</p>
 <p><a href="https://x.com/umimya_trbgani/status/2100807832643977219">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GOROman/status/2100927827399135625"><img src="https://pbs.twimg.com/amplify_video_thumb/2100927771979767808/img/nEWzFqUflGpL7c0X.jpg" alt="Playing Famicom on JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -776,8 +909,6 @@
 <p>💬 1 &nbsp; 🔁 7 &nbsp; ♡ 27 &nbsp; 📊 4.8K</p>
 <p><a href="https://x.com/GOROman/status/2100927827399135625">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pankajparkar/status/2100886506684711166"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Can Jev improve the chess engine Kibitz? · 原帖视频截图" width="100%"></a>
 <br>
@@ -789,6 +920,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 260</p>
 <p><a href="https://x.com/pankajparkar/status/2100886506684711166">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GroverInnovate/status/2101034633462977016"><img src="https://pbs.twimg.com/amplify_video_thumb/2101034366273196032/img/RwQFUJtnoZj50b7-.jpg" alt="Driving a Tiny Civilization Simulation with Jev: Play God and Watch Factions React · 原帖视频截图" width="100%"></a>
 <br>
@@ -800,8 +933,30 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 189</p>
 <p><a href="https://x.com/GroverInnovate/status/2101034633462977016">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/mikemenard_com/status/2101045885257843001"><img src="https://pbs.twimg.com/amplify_video_thumb/2101043537634635778/img/G2L_5Qt0vdMjLtCa.jpg" alt="Puzzle Game Bot Powered by the Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mikemenard_com/status/2101045885257843001">Puzzle Game Bot Powered by the Jev Model</a></h3>
+<p>A developer built a puzzle game bot that calls the Jev model API before every tap; the code lists legal moves, Jev returns a probability for each, and the code picks the best one.</p>
+<p><strong>中文摘要：</strong>开发者构建了一个解谜游戏机器人，每次点击前都调用 Jev 模型 API，由代码列出合法操作，Jev 返回每个操作的概率，代码选择最优操作。</p>
+<p><strong>Michaël Ménard</strong> · @mikemenard_com · 2026-09-18</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 179</p>
+<p><a href="https://x.com/mikemenard_com/status/2101045885257843001">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/steve_rosky/status/2100841146696032591"><img src="https://pbs.twimg.com/amplify_video_thumb/2100840838938955776/img/NU_VebMSUKTQl5AM.jpg" alt="Tetris powered by TypeSafe&#39;s Jev decision model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/steve_rosky/status/2100841146696032591">Tetris powered by TypeSafe&#39;s Jev decision model</a></h3>
+<p>A developer built Tetris where TypeSafe&#39;s Jev decision model picks from a list of legal landings, at ~400ms per move and ~1 cent per 100 pieces, with schema constraints preventing illegal moves.</p>
+<p><strong>中文摘要：</strong>开发者用 TypeSafe 的 Jev 决策模型构建俄罗斯方块，模型从合法落点列表中选择一步，每步约 400 毫秒、每 100 块约 1 美分，且受 schema 约束无法产生非法落子。</p>
+<p><strong>Steve</strong> · @steve_rosky · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 154</p>
+<p><a href="https://x.com/steve_rosky/status/2100841146696032591">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SaikatDas_/status/2101016122523083184"><img src="https://pbs.twimg.com/media/HShNpcPbIAArjS7?format=jpg&amp;name=medium" alt="Jev nearly wins 100-round Iterated Prisoner&#39;s Dilemma tournament · 原帖图片" width="100%"></a>
 <br>
@@ -813,6 +968,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 123</p>
 <p><a href="https://x.com/SaikatDas_/status/2101016122523083184">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Alissonks/status/2100790435782275188"><img src="https://pbs.twimg.com/amplify_video_thumb/2100789695642746880/img/_nCjipMEMZiCx9Oo.jpg" alt="Playing Pong with a Local LLM as a Jev-like Decision Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -824,8 +981,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 81</p>
 <p><a href="https://x.com/Alissonks/status/2100790435782275188">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2100634359099232678"><img src="https://pbs.twimg.com/amplify_video_thumb/2100633400717565952/img/KlytLNSLCQA-yY2E.jpg" alt="Jev Plays Subway Surfers at Superhuman Speed and Runs 50 Games at Once · 原帖视频截图" width="100%"></a>
 <br>
@@ -837,6 +992,8 @@
 <p>💬 153 &nbsp; 🔁 344 &nbsp; ♡ 4.0K &nbsp; 📊 340K</p>
 <p><a href="https://x.com/_MaxBlade/status/2100634359099232678">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/coolish/status/2100570517954838897"><img src="https://pbs.twimg.com/amplify_video_thumb/2100569632482746369/img/TPuOBiHYCWUWxNOc.jpg" alt="Testing Jev Model for High-Frequency Decisions in Gaming · 原帖视频截图" width="100%"></a>
 <br>
@@ -848,8 +1005,6 @@
 <p>💬 358 &nbsp; 🔁 108 &nbsp; ♡ 1.1K &nbsp; 📊 318K</p>
 <p><a href="https://x.com/coolish/status/2100570517954838897">在 X 查看原帖</a> · <a href="https://t.co/6eiMFaJTrj">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kzkhykw/status/2100519018058698874"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085174826647552/img/6YMRQKKZYBPsW2oo.jpg" alt="TypeSafe AI&#39;s Jev model controls Mario like a human · 原帖视频截图" width="100%"></a>
 <br>
@@ -861,6 +1016,8 @@
 <p>💬 9 &nbsp; 🔁 52 &nbsp; ♡ 216 &nbsp; 📊 160K</p>
 <p><a href="https://x.com/kzkhykw/status/2100519018058698874">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wuyang_zhou/status/2100727660875808913"><img src="https://pbs.twimg.com/amplify_video_thumb/2100727359569530880/img/IGuQpzilRkIsw1Wb.jpg" alt="Jev and GPT-6 Astra Play Minecraft in Real Time · 原帖视频截图" width="100%"></a>
 <br>
@@ -872,8 +1029,6 @@
 <p>💬 59 &nbsp; 🔁 79 &nbsp; ♡ 1.3K &nbsp; 📊 155K</p>
 <p><a href="https://x.com/wuyang_zhou/status/2100727660875808913">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sengpt/status/2100485665666277828"><img src="https://pbs.twimg.com/amplify_video_thumb/2100479357709914112/img/sI1GsuR3U5uiCR_3.jpg" alt="Early Jev Access: 4 Agents Play 101 in Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -885,6 +1040,8 @@
 <p>💬 7 &nbsp; 🔁 10 &nbsp; ♡ 184 &nbsp; 📊 70K</p>
 <p><a href="https://x.com/sengpt/status/2100485665666277828">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chenchengpro/status/2100516953496670430"><img src="https://pbs.twimg.com/amplify_video_thumb/2100516335155646464/img/pow4ZDKeRwkBVSvy.jpg" alt="Playing Snake with Jev: 200 Requests for Only $0.02 · 原帖视频截图" width="100%"></a>
 <br>
@@ -896,8 +1053,6 @@
 <p>💬 12 &nbsp; 🔁 19 &nbsp; ♡ 281 &nbsp; 📊 66K</p>
 <p><a href="https://x.com/chenchengpro/status/2100516953496670430">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xBOYD/status/2100539883836018697"><img src="https://pbs.twimg.com/amplify_video_thumb/2100539819172544512/img/0EZ7yznRwL7qi4K8.jpg" alt="Jev Plays Pokemon: Beats Brock and Earns First Gym Badge · 原帖视频截图" width="100%"></a>
 <br>
@@ -909,6 +1064,8 @@
 <p>💬 21 &nbsp; 🔁 31 &nbsp; ♡ 387 &nbsp; 📊 55K</p>
 <p><a href="https://x.com/0xBOYD/status/2100539883836018697">在 X 查看原帖</a> · <a href="https://t.co/4Gj24SpIfR">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/atomic_chat_hq/status/2100644221279424925"><img src="https://pbs.twimg.com/amplify_video_thumb/2100643549716901888/img/8uiHwmaeRojyNwCl.jpg" alt="Jev v1.13 Dodges Rockets with Probability Calculation · 原帖视频截图" width="100%"></a>
 <br>
@@ -920,8 +1077,6 @@
 <p>💬 11 &nbsp; 🔁 49 &nbsp; ♡ 522 &nbsp; 📊 54K</p>
 <p><a href="https://x.com/atomic_chat_hq/status/2100644221279424925">在 X 查看原帖</a> · <a href="https://t.co/RbcCOIgVkj">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/karaage0703/status/2100569924238471355"><img src="https://pbs.twimg.com/amplify_video_thumb/2100567975317454849/img/UjFbLkeMH5RdOrlS.jpg" alt="Jev and Qwen Play Mario: Structured Data Input Comparison · 原帖视频截图" width="100%"></a>
 <br>
@@ -933,6 +1088,8 @@
 <p>💬 8 &nbsp; 🔁 57 &nbsp; ♡ 431 &nbsp; 📊 47K</p>
 <p><a href="https://x.com/karaage0703/status/2100569924238471355">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/__syumai/status/2100594965437100131"><img src="https://pbs.twimg.com/amplify_video_thumb/2100485370333036544/img/rnGGJ13-bZpEDRNR.jpg" alt="Jev Usage Example: Classifying Next Action by Height · 原帖视频截图" width="100%"></a>
 <br>
@@ -944,8 +1101,6 @@
 <p>💬 1 &nbsp; 🔁 33 &nbsp; ♡ 328 &nbsp; 📊 47K</p>
 <p><a href="https://x.com/__syumai/status/2100594965437100131">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anshnanda/status/2100611596859093082"><img src="https://pbs.twimg.com/amplify_video_thumb/2100611414746644481/img/E5GtDSrVTj1b3VBq.jpg" alt="Jev Plays Flappy Bird Against 3 Other Models · 原帖视频截图" width="100%"></a>
 <br>
@@ -957,6 +1112,8 @@
 <p>💬 26 &nbsp; 🔁 20 &nbsp; ♡ 347 &nbsp; 📊 46K</p>
 <p><a href="https://x.com/anshnanda/status/2100611596859093082">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/riku720720/status/2100710286466637975"><img src="https://pbs.twimg.com/amplify_video_thumb/2100709888309788672/img/V-NmUWBhUM-P_IhE.jpg" alt="Pokémon Type Judge Built in Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -968,8 +1125,6 @@
 <p>💬 4 &nbsp; 🔁 40 &nbsp; ♡ 293 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/riku720720/status/2100710286466637975">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gigabit_million/status/2100489411565904185"><img src="https://pbs.twimg.com/media/HSZvHcBaYAAmkaw?format=png&amp;name=900x900" alt="Discussion on Jev AI&#39;s Usefulness in Game Development · 原帖图片" width="100%"></a>
 <br>
@@ -981,6 +1136,32 @@
 <p>💬 2 &nbsp; 🔁 37 &nbsp; ♡ 221 &nbsp; 📊 24K</p>
 <p><a href="https://x.com/gigabit_million/status/2100489411565904185">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ashutoshftw/status/2100536977162715265"><img src="https://pbs.twimg.com/amplify_video_thumb/2100536849836158976/img/JaliAwlYoJGmFitN.jpg" alt="Jev vs Claude vs Gemini in Tetris · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ashutoshftw/status/2100536977162715265">Jev vs Claude vs Gemini in Tetris</a></h3>
+<p>With the same 200 pieces and legal moves, Jev scored 9200 points, 75 lines, and 300ms per move, beating Claude and Gemini.</p>
+<p><strong>中文摘要：</strong>在相同 200 个方块和合法移动条件下，Jev 以 9200 分、75 行、300 毫秒/步的成绩击败 Claude 和 Gemini。</p>
+<p><strong>Ashutosh Mathore</strong> · @ashutoshftw · 2026-09-17</p>
+<p>💬 7 &nbsp; 🔁 8 &nbsp; ♡ 126 &nbsp; 📊 21K</p>
+<p><a href="https://x.com/ashutoshftw/status/2100536977162715265">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shmulc8/status/2100541401318490145"><img src="https://pbs.twimg.com/amplify_video_thumb/2100540950544076800/img/Ag6GrGjxGe2xOJwT.jpg" alt="Jev Plays Tetris: 22 Lines in 60 Pieces, Zero Holes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shmulc8/status/2100541401318490145">Jev Plays Tetris: 22 Lines in 60 Pieces, Zero Holes</a></h3>
+<p>The author compares his Tetris play with TypeSafe AI&#39;s Jev: code enumerates legal placements, Jev picks one in ~300 ms, reaching 22 lines in 60 pieces with zero holes, at under a cent per game.</p>
+<p><strong>中文摘要：</strong>作者对比自己与 TypeSafe AI 的 Jev 玩俄罗斯方块：代码枚举合法落点，Jev 约300毫秒选一步，60块堆到22行零空洞，每局成本不到一美分。</p>
+<p><strong>Shmulik Cohen</strong> · @shmulc8 · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 10 &nbsp; 📊 6.0K</p>
+<p><a href="https://x.com/shmulc8/status/2100541401318490145">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/__masso__/status/2100728939622912229"><img src="https://pbs.twimg.com/amplify_video_thumb/2100728661376958464/img/j7LsHylKtpVT9Us8.jpg" alt="Jev demo playing a Chrome-dino-like game with TypeSafe AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -991,6 +1172,41 @@
 <p><strong>MASSO</strong> · @__masso__ · 2026-09-17</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 1.4K</p>
 <p><a href="https://x.com/__masso__/status/2100728939622912229">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheMoonMidas/status/2100408587486978257"><img src="https://pbs.twimg.com/amplify_video_thumb/2100315393860730880/img/u0iH2SHQny2hkd4Q.jpg" alt="Jev plays Tetris via API, change its prompt to change how it plays · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheMoonMidas/status/2100408587486978257">Jev plays Tetris via API, change its prompt to change how it plays</a></h3>
+<p>Marcus Lowe feeds Jev the board state and legal moves; Jev plays through the API fast enough to push blocks down itself, and changing its prompt changes how it plays. A playable demo was also shared.</p>
+<p><strong>中文摘要：</strong>Marcus Lowe 向 Jev 提供棋盘状态和合法走法，Jev 通过 API 快速操作方块，改提示词就能改变其俄罗斯方块玩法，并附有可玩演示。</p>
+<p><strong>Midas 👑</strong> · @TheMoonMidas · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 659</p>
+<p><a href="https://x.com/TheMoonMidas/status/2100408587486978257">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/objectgraph/status/2100626348725207104"><img src="https://pbs.twimg.com/amplify_video_thumb/2100626305460932608/img/eHCsyplvlvx96-sz.jpg" alt="Jev Plays SameGame Move by Move · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/objectgraph/status/2100626348725207104">Jev Plays SameGame Move by Move</a></h3>
+<p>ObjectGraph lets TypeSafe AI&#39;s Jev play SameGame: no search, no lookahead; each move code lists every legal move and Jev picks one, about a third of a second per move and a tenth of a cent per game.</p>
+<p><strong>中文摘要：</strong>ObjectGraph 让 TypeSafe AI 的 Jev 玩 SameGame：无搜索、无前瞻，每步由代码列出所有合法走法，Jev 选择其一，约三分之一秒一步，每局成本约十分之一美分。</p>
+<p><strong>ObjectGraph</strong> · @objectgraph · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 281</p>
+<p><a href="https://x.com/objectgraph/status/2100626348725207104">在 X 查看原帖</a> · <a href="https://t.co/p6s1oO3fqH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kanemama_/status/2100600419336507468"><img src="https://pbs.twimg.com/amplify_video_thumb/2100600376651128832/img/ycy-JUvsCT1TRkUM.jpg" alt="Probabilistic chess experiment built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kanemama_/status/2100600419336507468">Probabilistic chess experiment built with Jev</a></h3>
+<p>A developer built a chess experiment with Jev that picks moves probabilistically from the legal move set, noting Jev API responses are almost real-time.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 构建了一个国际象棋实验，从合法走法中按概率选择走法，并称 Jev API 响应几乎实时。</p>
+<p><strong>Kane</strong> · @kanemama_ · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 79</p>
+<p><a href="https://x.com/kanemama_/status/2100600419336507468">在 X 查看原帖</a> · <a href="https://t.co/39tgc9yo6y">原文链接</a></p>
 </td>
 </tr>
 <tr>
@@ -1077,6 +1293,16 @@
 <p>💬 9 &nbsp; 🔁 21 &nbsp; ♡ 159 &nbsp; 📊 58K</p>
 <p><a href="https://x.com/NFT_Chen/status/2100234300218388988">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://x.com/eugeneboondock/status/2100324308635591024"><img src="https://pbs.twimg.com/amplify_video_thumb/2100323504092549120/img/FkHKa42RO5wOiRPR.jpg" alt="Jev Plays Chess: Picking the Best Move with Calibrated Probabilities in Milliseconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eugeneboondock/status/2100324308635591024">Jev Plays Chess: Picking the Best Move with Calibrated Probabilities in Milliseconds</a></h3>
+<p>The author gives a chess board to Jev, which rates each legal move and returns calibrated probabilities in about 100-450ms to determine the best move, aiming to win or not lose.</p>
+<p><strong>中文摘要：</strong>作者将棋盘交给 Jev，Jev 对每个合法走法进行评分并在约100-450毫秒内返回校准概率，用于判断哪一步最佳，目标是赢棋或不输。</p>
+<p><strong>Eugene Boondock 🌍2️⃣</strong> · @eugeneboondock · 2026-09-16</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 189</p>
+<p><a href="https://x.com/eugeneboondock/status/2100324308635591024">在 X 查看原帖</a></p>
+</td>
 </tr>
 </table>

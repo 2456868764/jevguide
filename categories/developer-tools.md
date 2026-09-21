@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 179 | 94 | 86 | 3.6M |
+| 181 | 95 | 87 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2101937960925139417"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Open-Source Unified Interface Runs Multiple Agent Harnesses, Including Jev-Powered System One · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2101937960925139417">Open-Source Unified Interface Runs Multiple Agent Harnesses, Including Jev-Powered System One</a></h3>
+<p>Developers open-sourced a plug-and-play infrastructure layer that lets users run Codex, Hermes, Claude Code, DeepSeek Harness, and Jev-powered System One under a single interface.</p>
+<p><strong>中文摘要：</strong>开发者开源了一个可插拔的基础设施层，让用户能在单一接口下运行 Codex、Hermes、Claude Code、DeepSeek Harness 以及由 Jev 驱动的 System One 等多种 agent harness。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-09-21</p>
+<p>💬 67 &nbsp; 🔁 124 &nbsp; ♡ 872 &nbsp; 📊 110K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2101937960925139417">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/charliejhills/status/2101957500669169711"><img src="https://pbs.twimg.com/media/HSunLUUa8AAwXAL?format=jpg&amp;name=900x900" alt="A List of Popular Projects Built with the Jev API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/charliejhills/status/2101957500669169711">A List of Popular Projects Built with the Jev API</a></h3>
+<p>Charlie Hills compiled the best projects people are building with the Jev API, including the browser agent jev-ultrafast, the context compression tool fast-jev-compaction, and the generative UI project json-render.</p>
+<p><strong>中文摘要：</strong>Charlie Hills 整理了人们使用 Jev API 构建的最佳项目，包括浏览器智能体 jev-ultrafast、上下文压缩工具 fast-jev-compaction 和生成式 UI 项目 json-render。</p>
+<p><strong>Charlie Hills</strong> · @charliejhills · 2026-09-21</p>
+<p>💬 33 &nbsp; 🔁 74 &nbsp; ♡ 531 &nbsp; 📊 52K</p>
+<p><a href="https://x.com/charliejhills/status/2101957500669169711">在 X 查看原帖</a> · <a href="https://t.co/583tfOit70">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>

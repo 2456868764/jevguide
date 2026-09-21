@@ -1,9 +1,10 @@
 # 0xMarioNawfal
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-21 | [Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02](https://x.com/RoundtableSpace/status/2101918094738223264) | 内容创作 | 0xMarioNawfal | 56K |
 | 2026-09-21 | [Turn JEV into an Autopilot Business](https://x.com/RoundtableSpace/status/2101940744202424479) | 自动化工作流 | 0xMarioNawfal | 30K |
 | 2026-09-21 | [Jev Engineering: Turning an Agent Stack into a Real Control System](https://x.com/RoundtableSpace/status/2102008693126570269) | 智能体 | 0xMarioNawfal | 22K |
 | 2026-09-21 | [Claude Code Mod Adds Jev Routing](https://x.com/RoundtableSpace/status/2101902995331924145) | 开发者工具 | 0xMarioNawfal | 12K |

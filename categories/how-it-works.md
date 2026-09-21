@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 179 | 90 | 89 | 1.6M |
+| 181 | 91 | 90 | 1.6M |
 
 ## Showcase 卡片
 
@@ -683,6 +683,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/danman314/status/2101776030252052740"><img src="https://pbs.twimg.com/media/HSsBBOfbYAAtyMu?format=png&amp;name=small" alt="Discussion of Jev Model Hallucinations · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/danman314/status/2101776030252052740">Discussion of Jev Model Hallucinations</a></h3>
+<p>User notes that the Jev model hallucinates at a rate similar to other models, providing examples.</p>
+<p><strong>中文摘要：</strong>用户指出 Jev 模型存在幻觉问题，频率与其他模型相似，并举例说明。</p>
+<p><strong>Dan</strong> · @danman314 · 2026-09-20</p>
+<p>💬 58 &nbsp; 🔁 79 &nbsp; ♡ 1.6K &nbsp; 📊 179K</p>
+<p><a href="https://x.com/danman314/status/2101776030252052740">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/neural_avb/status/2101736546391244854"><img src="https://pbs.twimg.com/media/HSrdh16boAA1q9i?format=jpg&amp;name=medium" alt="JEV&#39;s Non-Deterministic Behavior Raises Doubts About &#39;No-Hallucination&#39; Claim · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -693,6 +704,8 @@
 <p>💬 96 &nbsp; 🔁 61 &nbsp; ♡ 1.1K &nbsp; 📊 93K</p>
 <p><a href="https://x.com/neural_avb/status/2101736546391244854">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2101774897122881658"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Jev Engineering: Separating Reasoning from Decision-Making for Speed and Cost · 原帖视频截图" width="100%"></a>
 <br>
@@ -704,8 +717,6 @@
 <p>💬 11 &nbsp; 🔁 6 &nbsp; ♡ 46 &nbsp; 📊 36K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2101774897122881658">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aleabitoreddit/status/2101797616812269694"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Exploring Jev&#39;s Potential Implications and Applications · 原帖视频截图" width="100%"></a>
 <br>
@@ -716,6 +727,19 @@
 <p><strong>Serenity</strong> · @aleabitoreddit · 2026-09-20</p>
 <p>💬 19 &nbsp; 🔁 4 &nbsp; ♡ 85 &nbsp; 📊 36K</p>
 <p><a href="https://x.com/aleabitoreddit/status/2101797616812269694">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hanakoxbt/status/2101780219774357560"><img src="https://pbs.twimg.com/amplify_video_thumb/2101773946601304064/img/1k7VaVH4Yi_W7Z3j.jpg" alt="LLMs vs. Jev, Clearly Explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hanakoxbt/status/2101780219774357560">LLMs vs. Jev, Clearly Explained</a></h3>
+<p>The post contrasts how LLMs and Jev work, noting that LLMs generate answers token by token while Jev may use a different reasoning mechanism.</p>
+<p><strong>中文摘要：</strong>帖子对比 LLM 与 Jev 的工作方式，指出 LLM 逐 token 生成答案，而 Jev 可能采用不同的推理机制。</p>
+<p><strong>Hanako</strong> · @hanakoxbt · 2026-09-20</p>
+<p>💬 18 &nbsp; 🔁 48 &nbsp; ♡ 325 &nbsp; 📊 31K</p>
+<p><a href="https://x.com/hanakoxbt/status/2101780219774357560">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/zodchiii/status/2101634257240371335"><img src="https://pbs.twimg.com/media/HSqAtOpbUAEqmYW?format=jpg&amp;name=medium" alt="Jev: The ChatGPT Moment for AI Infrastructure · 原帖图片" width="100%"></a>

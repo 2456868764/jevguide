@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 49 | 31 | 18 | 235K |
+| 51 | 32 | 19 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/redp314/status/2101935665663328491"><img src="https://pbs.twimg.com/amplify_video_thumb/2101935623766491136/img/vcsSCKuqjMhhy3ed.jpg" alt="Testing Jev Model on Letter Counting Tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/redp314/status/2101935665663328491">Testing Jev Model on Letter Counting Tasks</a></h3>
+<p>A user tests whether TypeSafe AI&#39;s Jev model can count the r&#39;s in strawberry, finding its performance similar to typical LLMs with inconsistent results.</p>
+<p><strong>中文摘要：</strong>用户测试 TypeSafe AI 的 Jev 模型能否数出 strawberry 中 r 的数量，结果显示其表现与普通 LLM 类似，存在不确定性。</p>
+<p><strong>Paolo Rosson</strong> · @redp314 · 2026-09-21</p>
+<p>💬 19 &nbsp; 🔁 6 &nbsp; ♡ 149 &nbsp; 📊 34K</p>
+<p><a href="https://x.com/redp314/status/2101935665663328491">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yaojingang/status/2101867443820113982"><img src="https://pbs.twimg.com/media/HStVSjwbQAAAQLk?format=jpg&amp;name=medium" alt="60 Typical Jev Use Cases and 12 Curated Highlights · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yaojingang/status/2101867443820113982">60 Typical Jev Use Cases and 12 Curated Highlights</a></h3>
+<p>A compilation of 60 typical Jev use cases with 12 curated highlights, covering scenarios like GEO to inspire understanding and application.</p>
+<p><strong>中文摘要：</strong>整理了60个典型Jev用例，并精选12个最值得关注的案例，涵盖GEO等场景，为理解和应用提供参考与启发。</p>
+<p><strong>姚金刚</strong> · @yaojingang · 2026-09-21</p>
+<p>💬 72 &nbsp; 🔁 48 &nbsp; ♡ 235 &nbsp; 📊 18K</p>
+<p><a href="https://x.com/yaojingang/status/2101867443820113982">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yupi996/status/2101946715725299993"><img src="https://pbs.twimg.com/amplify_video_thumb/2101935871067086848/img/RDaiaanaaeckbEDd.jpg" alt="Jev Is Blazing Fast but Feels Less Intelligent · 原帖视频截图" width="100%"></a>

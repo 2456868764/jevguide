@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 38 | 35 | 4 | 101K |
+| 40 | 37 | 4 | 101K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2101918094738223264"><img src="https://pbs.twimg.com/amplify_video_thumb/2101641468817338368/img/OTTt_P4JNL_duCAl.jpg" alt="Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2101918094738223264">Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02</a></h3>
+<p>Jev&#39;s video clipping capability: 90+ minute videos can be clipped in under 2 seconds for about $0.02, seen as a goldmine for content creators.</p>
+<p><strong>中文摘要：</strong>Jev 的视频剪辑能力：90 分钟以上视频可在 2 秒内完成剪辑，成本约 0.02 美元，被内容创作者视为金矿。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 8 &nbsp; 🔁 13 &nbsp; ♡ 160 &nbsp; 📊 56K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2101918094738223264">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/happycapyai/status/2101895709809352848"><img src="https://pbs.twimg.com/amplify_video_thumb/2101895670022238208/img/MUi-Zxlx3Z2zJ6qf.jpg" alt="Jev + Happycapy Power an AI Live-Stream Director · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 268</p>
 <p><a href="https://x.com/happycapyai/status/2101895709809352848">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nicekate8888/status/2101908148110217220"><img src="https://pbs.twimg.com/amplify_video_thumb/2101904554111717376/img/nxp2IPENMaYZcql3.jpg" alt="Local Video Retrieval Tool Combining Jev and BaoCut · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 249</p>
 <p><a href="https://x.com/nicekate8888/status/2101908148110217220">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sidodtv/status/2101995122896654455"><img src="https://pbs.twimg.com/amplify_video_thumb/2101994941669163008/img/ZB4KafmG8LMq-fXU.jpg" alt="Auto-generating a Jev explainer video with DirecTune · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 109</p>
 <p><a href="https://x.com/sidodtv/status/2101995122896654455">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yurinakanishi33/status/2101946125385437622"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941849707761664/img/80vOcsRZ9JcYUlqC.jpg" alt="Jev Hackathon: Correction on Haiku Generation with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 88</p>
 <p><a href="https://x.com/yurinakanishi33/status/2101946125385437622">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wtry1102/status/2101995325145882707"><img src="https://pbs.twimg.com/amplify_video_thumb/2101993960004841472/img/8R5SAshOhQlu-vSj.jpg" alt="Making a Jev explainer short with Astra · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
 <p><a href="https://x.com/wtry1102/status/2101995325145882707">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JustinPerea/status/2101996047257972932"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995322113232896/img/kEWRwgX9al15rCKC.jpg" alt="Using Jev to pick from a JSON catalog and render scenes · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
 <p><a href="https://x.com/JustinPerea/status/2101996047257972932">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/huggingpuppy/status/2101898004529647951"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897948271427584/img/iVA5QQzUIfrwrRa1.jpg" alt="Jev Model: Turning Poets into Musicians, Talking to Your Piano · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
 <p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/4o1sobblue/status/2102061671078613194"><img src="https://pbs.twimg.com/amplify_video_thumb/2102061642800570368/img/nM76TNOeOg59Z7h1.jpg" alt="Building a real-time composition app with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
 <p><a href="https://x.com/4o1sobblue/status/2102061671078613194">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SethCronin/status/2102008307128967435"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Models Collaborate for Live Improvisational Music · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/SethCronin/status/2102008307128967435">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/garrrikkotua/status/2102000382612295744"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997452370796544/img/mV0n2InAuESEfMB6.jpg" alt="Jev + Octolens: Score Your Posts Against Yourself · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/garrrikkotua/status/2102000382612295744">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Dantelarroy/status/2102012648569069874"><img src="https://pbs.twimg.com/amplify_video_thumb/2102011102787731456/img/-ZL6OwGTdT33_w8k.jpg" alt="JEV Music Button: Describe a Feeling and It Plays · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Dantelarroy/status/2102012648569069874">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yz_chow/status/2102002798640714154"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002356921700352/img/Nvz0ZA6J_4EbUp7t.jpg" alt="Auto-editing Apple Event Clips with Codex, Jev, and Jianying · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/yz_chow/status/2102002798640714154">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LongChen8asr/status/2101904162447556648"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903869345501184/img/zkRooacuKzJ9sjsz.jpg" alt="Jev Creates Stunning Demo Video for VoiceCursor · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/LongChen8asr/status/2101904162447556648">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/techduckyyy/status/2101904456384454747"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Combining Jev with Meta SAM 3.1 for Video Editing · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/techduckyyy/status/2101904456384454747">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Citronetic/status/2102008256575259093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008222764986368/img/XjHezh5jS56a33C8.jpg" alt="JEV parses video into typed structure, copiecat.ai builds editable production plan · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/Citronetic/status/2102008256575259093">在 X 查看原帖</a> · <a href="https://t.co/wjuB0MavC3">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/opticgap/status/2102062827179774117"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062801644859392/img/zBW9lMrg5_J1APOy.jpg" alt="Using Jev for tagging articles · 原帖视频截图" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>sheng</strong> · @opticgap · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/opticgap/status/2102062827179774117">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Sofi_Shvets/status/2101813487941062997"><img src="https://pbs.twimg.com/amplify_video_thumb/2101812035906592768/img/i7JnPTV0ExASH8BO.jpg" alt="Jev + HyperFrames for Quick Video Editing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sofi_Shvets/status/2101813487941062997">Jev + HyperFrames for Quick Video Editing</a></h3>
+<p>User tests Jev with HyperFrames for quick video editing, cutting bad takes and guiding effects, working surprisingly well.</p>
+<p><strong>中文摘要：</strong>用户测试 Jev 与 HyperFrames 结合进行快速视频剪辑，能自动剪掉废镜头并引导特效，效果出奇地好。</p>
+<p><strong>Sofiia Shvets</strong> · @Sofi_Shvets · 2026-09-20</p>
+<p>💬 13 &nbsp; 🔁 20 &nbsp; ♡ 214 &nbsp; 📊 14K</p>
+<p><a href="https://x.com/Sofi_Shvets/status/2101813487941062997">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

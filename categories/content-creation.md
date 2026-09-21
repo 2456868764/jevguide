@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 21 | 19 | 3 | 101K |
+| 25 | 23 | 3 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/happycapyai/status/2101895709809352848"><img src="https://pbs.twimg.com/amplify_video_thumb/2101895670022238208/img/MUi-Zxlx3Z2zJ6qf.jpg" alt="Jev + Happycapy Power an AI Live-Stream Director · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/happycapyai/status/2101895709809352848">Jev + Happycapy Power an AI Live-Stream Director</a></h3>
+<p>Testing an AI live-stream director in Happycapy with Jev: it cuts to close-ups during host explanations, shows price cards for viewer questions and calls other models to answer, ignores irrelevant comments, flags missing info for confirmation, and turns each judgment into the broadcast.</p>
+<p><strong>中文摘要：</strong>在 Happycapy 中用 Jev 测试 AI 直播导播台：根据主播讲解切特写、按观众提问挂价格卡并调用其他模型回答，自动忽略无关评论，资料缺失时提示确认，每次判断直接变为播出画面。</p>
+<p><strong>Happycapy</strong> · @happycapyai · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 268</p>
+<p><a href="https://x.com/happycapyai/status/2101895709809352848">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/huggingpuppy/status/2101898004529647951"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897948271427584/img/iVA5QQzUIfrwrRa1.jpg" alt="Jev Model: Turning Poets into Musicians, Talking to Your Piano · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/huggingpuppy/status/2101898004529647951">Jev Model: Turning Poets into Musicians, Talking to Your Piano</a></h3>
+<p>Kasra shares that the Jev model turns poets into musicians and enables talking to your piano.</p>
+<p><strong>中文摘要：</strong>Kasra 分享 Jev 模型可将诗人变成音乐家，并支持与钢琴对话。</p>
+<p><strong>Kasra</strong> · @huggingpuppy · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
+<p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LongChen8asr/status/2101904162447556648"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903869345501184/img/zkRooacuKzJ9sjsz.jpg" alt="Jev Creates Stunning Demo Video for VoiceCursor · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LongChen8asr/status/2101904162447556648">Jev Creates Stunning Demo Video for VoiceCursor</a></h3>
+<p>User praises Jev for producing a far more stunning demo video for VoiceCursor than expected.</p>
+<p><strong>中文摘要：</strong>用户称赞 Jev 能为 VoiceCursor 制作出超乎想象的惊艳演示视频。</p>
+<p><strong>Long Chen</strong> · @LongChen8asr · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/LongChen8asr/status/2101904162447556648">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/techduckyyy/status/2101904456384454747"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Combining Jev with Meta SAM 3.1 for Video Editing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/techduckyyy/status/2101904456384454747">Combining Jev with Meta SAM 3.1 for Video Editing</a></h3>
+<p>The author imagines combining Jev with Meta SAM 3.1 to give Jev more contextual information for deciding when to add B-roll or sound effects, though this depends on Jev becoming smart and tasteful enough in the future.</p>
+<p><strong>中文摘要：</strong>作者设想将 Jev 与 Meta SAM 3.1 结合，让 Jev 获得更多上下文信息，从而判断何时添加 B-roll 或音效，但前提是 Jev 未来能变得足够智能且有品味。</p>
+<p><strong>Tech Ducky</strong> · @techduckyyy · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/techduckyyy/status/2101904456384454747">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sep_is_heim/status/2101603192664740330"><img src="https://pbs.twimg.com/amplify_video_thumb/2101601077087068161/img/uqagAEwe9KKX1eGq.jpg" alt="Integrating Jev into MiniMax H3 to Accelerate Video Generation · 原帖视频截图" width="100%"></a>

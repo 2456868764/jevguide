@@ -1,24 +1,24 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 121
-- [Access updates](../categories/access-updates.md) — 119
-- [Developer tools](../categories/developer-tools.md) — 118
-- [Gaming](../categories/gaming.md) — 108
-- [Launch news](../categories/launch-news.md) — 70
-- [Developer resources](../categories/developer-resources.md) — 65
-- [Agents](../categories/agents.md) — 64
-- [Community builds](../categories/community-builds.md) — 62
-- [Finance](../categories/finance.md) — 47
+- [How it works](../categories/how-it-works.md) — 129
+- [Developer tools](../categories/developer-tools.md) — 128
+- [Access updates](../categories/access-updates.md) — 126
+- [Gaming](../categories/gaming.md) — 113
+- [Launch news](../categories/launch-news.md) — 73
+- [Developer resources](../categories/developer-resources.md) — 71
+- [Agents](../categories/agents.md) — 67
+- [Community builds](../categories/community-builds.md) — 66
+- [Finance](../categories/finance.md) — 53
 - [Marketing](../categories/marketing.md) — 40
-- [Workflow automation](../categories/workflow-automation.md) — 35
-- [Knowledge & search](../categories/knowledge-search.md) — 27
-- [Data analytics](../categories/data-analytics.md) — 22
-- [Content creation](../categories/content-creation.md) — 21
-- [Robotics](../categories/robotics.md) — 14
+- [Workflow automation](../categories/workflow-automation.md) — 36
+- [Knowledge & search](../categories/knowledge-search.md) — 31
+- [Content creation](../categories/content-creation.md) — 25
+- [Data analytics](../categories/data-analytics.md) — 24
+- [Robotics](../categories/robotics.md) — 15
 - [Customer support](../categories/customer-support.md) — 11
 - [Productivity](../categories/productivity.md) — 9
 - [Scientific research](../categories/scientific-research.md) — 8
-- [Software development](../categories/software-development.md) — 7
+- [Software development](../categories/software-development.md) — 8
 - [Business operations](../categories/business-operations.md) — 6
 - [Legal & compliance](../categories/legal-compliance.md) — 6
 - [Cybersecurity](../categories/cybersecurity.md) — 6

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 62 | 27 | 36 | 3.0M |
+| 66 | 27 | 40 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shengtang135754/status/2101900991876489682"><img src="https://pbs.twimg.com/media/HStzzDabIAAMSdU?format=jpg&amp;name=medium" alt="User discusses JEV tool: retro interface, too many tools? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shengtang135754/status/2101900991876489682">User discusses JEV tool: retro interface, too many tools?</a></h3>
+<p>User shares first impressions of JEV, calling the website interface retro and questioning whether there are too many AI tools.</p>
+<p><strong>中文摘要：</strong>用户分享对JEV的初步印象，认为官网界面复古，并质疑AI工具是否过多。</p>
+<p><strong>麦麦提</strong> · @shengtang135754 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 126</p>
+<p><a href="https://x.com/shengtang135754/status/2101900991876489682">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/aad34210/status/2101837143576662211"><img src="https://pbs.twimg.com/media/HSs5HvybkAAgxSk?format=jpg&amp;name=medium" alt="User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,43 @@
 <p><strong>Takashi Minoda</strong> · @aad34210 · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
 <p><a href="https://x.com/aad34210/status/2101837143576662211">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2101896366297329693"><img src="https://pbs.twimg.com/media/HStvmorXMAEVHBS?format=jpg&amp;name=medium" alt="Made With Jev Documents ~300 Creative Builds on Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2101896366297329693">Made With Jev Documents ~300 Creative Builds on Jev</a></h3>
+<p>The author documents what people are building with Jev at Made With Jev, noting ~300 highly creative builds worth exploring.</p>
+<p><strong>中文摘要：</strong>作者在 Made With Jev 上记录了人们用 Jev 构建的项目，称已有约300个极具创意和想象力的作品，值得深入浏览。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 63</p>
+<p><a href="https://x.com/kraayenJon/status/2101896366297329693">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2101896621524914485"><img src="https://pbs.twimg.com/media/HStv1ivXYAACJw3?format=jpg&amp;name=medium" alt="Made With JEV Documents Over 300 Demos · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2101896621524914485">Made With JEV Documents Over 300 Demos</a></h3>
+<p>The author has been documenting Jev use cases on Made With JEV, which now features over 300 demos.</p>
+<p><strong>中文摘要：</strong>作者在 Made With JEV 上持续记录 Jev 相关用例，目前已有超过 300 个演示。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 56</p>
+<p><a href="https://x.com/kraayenJon/status/2101896621524914485">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/prabahankalita/status/2101901789398478955"><img src="https://pbs.twimg.com/media/HSt0fksaYAAk53z?format=png&amp;name=900x900" alt="Trying basic Noul and Choice questions in Jev, lightning fast · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/prabahankalita/status/2101901789398478955">Trying basic Noul and Choice questions in Jev, lightning fast</a></h3>
+<p>User shares experience trying basic Noul and Choice questions in Jev, describing it as lightning fast.</p>
+<p><strong>中文摘要：</strong>用户分享在 Jev 中尝试基础 Noul 和 Choice 问题的体验，形容其速度如闪电般快。</p>
+<p><strong>Prabahan Kalita</strong> · @prabahankalita · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/prabahankalita/status/2101901789398478955">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/investerinarian/status/2101850796489117974"><img src="https://pbs.twimg.com/amplify_video_thumb/2101850697465790464/img/rRtjMJttNs04Y4iL.jpg" alt="User Praises Jev: Fast and Fairly Accurate · 原帖视频截图" width="100%"></a>

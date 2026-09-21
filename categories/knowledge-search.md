@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 27 | 17 | 10 | 235K |
+| 31 | 20 | 11 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SakaneBTC/status/2101902015194636573">Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections</a></h3>
+<p>The author shares a site-wide Q&amp;A search built with the recently popular Jev: typing a question about site content into the search box highlights the relevant section and jumps to it; the author says they saw it on X and implemented it themselves.</p>
+<p><strong>中文摘要：</strong>作者分享用近期流行的 Jev 实现站内问答搜索：在搜索框输入站内信息相关问题，系统会高亮相关段落并跳转，作者称在 X 上看到后自己动手实现。</p>
+<p><strong>SAKANE</strong> · @SakaneBTC · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/SakaneBTC/status/2101902015194636573">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Threeaio/status/2101902991942930743"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a Knowledge Base with Jev: A Second Brain · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Threeaio/status/2101902991942930743">Building a Knowledge Base with Jev: A Second Brain</a></h3>
+<p>The author shares their practice of building a knowledge base (second brain) with Jev, aiming to quickly capture any content from every device.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 构建知识库（第二大脑）的实践，希望从各种设备快速存入任意内容。</p>
+<p><strong>Nikolaj Sokolowski</strong> · @Threeaio · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
+<p><a href="https://x.com/Threeaio/status/2101902991942930743">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/snaga/status/2101901648184643707"><img src="https://pbs.twimg.com/media/HSt0LTabQAAACdr?format=jpg&amp;name=medium" alt="Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev) · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/snaga/status/2101901648184643707">Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev)</a></h3>
+<p>The author shares an experiment using TypeSafe System One (Jev) to build personalized Hacker News recommendations, describing a composite decision architecture for daily AI agent browsing.</p>
+<p><strong>中文摘要：</strong>作者分享用 TypeSafe System One（Jev）为 Hacker News 构建个性化推荐实验，并介绍复合判定架构，用于每日 AI 智能体浏览。</p>
+<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><a href="https://x.com/snaga/status/2101901648184643707">在 X 查看原帖</a> · <a href="https://t.co/ndZVcLZOXJ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Threeaio/status/2101904594494181513"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a retrieval pipeline for a knowledge base with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Threeaio/status/2101904594494181513">Building a retrieval pipeline for a knowledge base with Jev</a></h3>
+<p>A developer shares building a retrieval pipeline (plus an ingestion flow) for a knowledge base with Jev, confirming it works.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Jev 为知识库搭建检索管道（以及摄取流程），并确认其可正常运行。</p>
+<p><strong>Nikolaj Sokolowski</strong> · @Threeaio · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/Threeaio/status/2101904594494181513">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/servasyy_ai/status/2101634170267312239"><img src="https://pbs.twimg.com/media/HSqA-yqaYAE_W1j?format=jpg&amp;name=medium" alt="The Best Applications of the Jev Model · 原帖图片" width="100%"></a>

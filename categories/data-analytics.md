@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 22 | 12 | 10 | 392K |
+| 24 | 13 | 11 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kunal_twts/status/2101896661773754458"><img src="https://pbs.twimg.com/media/HStv3uQa0AASNtH?format=jpg&amp;name=medium" alt="Using Jev to Analyze Thousands of SEO/GEO Signals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kunal_twts/status/2101896661773754458">Using Jev to Analyze Thousands of SEO/GEO Signals</a></h3>
+<p>A post shares that someone used Jev to analyze thousands of SEO/GEO signals, with a thread explaining how it works.</p>
+<p><strong>中文摘要：</strong>一则帖子分享有人用 Jev 分析数千个 SEO/GEO 信号，并预告将介绍其工作方式。</p>
+<p><strong>Kunal</strong> · @kunal_twts · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
+<p><a href="https://x.com/kunal_twts/status/2101896661773754458">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/USPraveenRaj1/status/2101901177151521063"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Benchmarks: Accuracy vs. Calibration Evaluation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/USPraveenRaj1/status/2101901177151521063">Jev Benchmarks: Accuracy vs. Calibration Evaluation</a></h3>
+<p>Evaluation of Jev and nine open checkpoints across 22 tasks shows Jev leads on macro accuracy, but an open 4B model produces better-calibrated probabilities; jev-bench is fully open.</p>
+<p><strong>中文摘要：</strong>对 Jev 及九个开放检查点在 22 项任务上的评估显示，Jev 在宏观准确率上领先，但一个开放 4B 模型在概率校准上表现更优，jev-bench 完全开放。</p>
+<p><strong>Praveen Sundar</strong> · @USPraveenRaj1 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/USPraveenRaj1/status/2101901177151521063">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/serpinxbt/status/2101539616188776885"><img src="https://pbs.twimg.com/media/HSoq9QQX0AAbllV?format=jpg&amp;name=small" alt="Jev Released This Week, Used to Analyze ZKSnarks Supporters · 原帖图片" width="100%"></a>

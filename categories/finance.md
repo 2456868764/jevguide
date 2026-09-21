@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 47 | 35 | 13 | 1.2M |
+| 53 | 38 | 16 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DailyAITracker/status/2101897628510494812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897601314603008/img/d-w8O0OPcC3JpIc9.jpg" alt="Building an Autonomous Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DailyAITracker/status/2101897628510494812">Building an Autonomous Trading Bot with Jev</a></h3>
+<p>A user shares building an autonomous trading bot with Jev for real-time execution and onchain/offchain data ingestion, which has lost $31,680 so far.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 构建自主交易机器人，实现实时执行与链上链下数据接入，但目前已亏损 31,680 美元。</p>
+<p><strong>Daily AI Tracker</strong> · @DailyAITracker · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
+<p><a href="https://x.com/DailyAITracker/status/2101897628510494812">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BrendanPlayford/status/2101904912150098081"><img src="https://pbs.twimg.com/media/HSt1z_Ga0AAheJZ?format=jpg&amp;name=medium" alt="Testing 500+ Trading Strategies with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BrendanPlayford/status/2101904912150098081">Testing 500+ Trading Strategies with Jev</a></h3>
+<p>Brendan Playford says trading with Jev still has no edge, testing 500+ strategies distilled from 2.1M strategies evaluated, 19M Monte Carlo simulations, and 300+ markets analyzed.</p>
+<p><strong>中文摘要：</strong>Brendan Playford 表示使用 Jev 进行交易仍无优势，正在测试从 210 万策略评估、1900 万次蒙特卡洛模拟和 300+ 市场分析中提炼的 500+ 策略。</p>
+<p><strong>Brendan Playford</strong> · @BrendanPlayford · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 290</p>
+<p><a href="https://x.com/BrendanPlayford/status/2101904912150098081">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KanaWorks_AI/status/2101904819963498934"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903828388106240/img/f7PqZNLe5KVUS9cG.jpg" alt="JEV Runs 2,015 FX Trades: Fast Decisions but Account Down 3.8% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KanaWorks_AI/status/2101904819963498934">JEV Runs 2,015 FX Trades: Fast Decisions but Account Down 3.8%</a></h3>
+<p>KANA had JEV make 2,015 FX trading decisions in 125 seconds, averaging about 220 ms each with 63% confidence, yet the account ended the day down 3.8%, suggesting speed without a clear edge.</p>
+<p><strong>中文摘要：</strong>KANA 让 JEV 在 125 秒内完成 2,015 次外汇交易判断，平均每次约 220 毫秒、平均确信度 63%，但一天后账户亏损 3.8%，显示速度快但缺乏明确优势。</p>
+<p><strong>KANA｜東京AI映像</strong> · @KanaWorks_AI · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 135</p>
+<p><a href="https://x.com/KanaWorks_AI/status/2101904819963498934">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/suganthan/status/2101905249590239415"><img src="https://pbs.twimg.com/media/HSt3rpBbUAAM11r?format=jpg&amp;name=medium" alt="Putting $100 into a Jev account: a &#39;generational wealth&#39; joke · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/suganthan/status/2101905249590239415">Putting $100 into a Jev account: a &#39;generational wealth&#39; joke</a></h3>
+<p>The author jokes about putting $100 into a Jev account, noting that at the current burn rate about $97 should remain, calling it &#39;generational wealth&#39;.</p>
+<p><strong>中文摘要：</strong>作者调侃向 Jev 账户存入 100 美元，按消耗率最终还能剩约 97 美元，称之为“世代财富”。</p>
+<p><strong>Suganthan Mohanadasan</strong> · @suganthan · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
+<p><a href="https://x.com/suganthan/status/2101905249590239415">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vwapster/status/2101899380907299259"><img src="https://pbs.twimg.com/media/HStyWHDW0AARHqk?format=jpg&amp;name=medium" alt="Jev and Laya Seen as Missing Pieces for Algorithmic Trading · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vwapster/status/2101899380907299259">Jev and Laya Seen as Missing Pieces for Algorithmic Trading</a></h3>
+<p>The user believes Jev and Laya add real-time decision-making to algorithmic trading, enabling dynamic decisions beyond hardcoded rules.</p>
+<p><strong>中文摘要：</strong>用户认为 Jev 和 Laya 为算法交易补上了实时决策能力，使交易算法能动态决策，而非仅靠硬编码规则。</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/vwapster/status/2101899380907299259">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/akshayindragant/status/2101904234497343698"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Building a Crypto Arbitrage Bot with JEV in 24 Hours · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshayindragant/status/2101904234497343698">Building a Crypto Arbitrage Bot with JEV in 24 Hours</a></h3>
+<p>A developer shares building a crypto arbitrage bot in 24 hours with Node, Jev, APIs, MongoDB, and Next.js, using Jev as a 70ms AI gate to handle fast-vanishing spreads and slippage.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Node、Jev、API、MongoDB 和 Next.js 在 24 小时内构建加密货币套利机器人的经验，利用 Jev 作为 70ms 延迟的 AI 门控来应对价差快速消失和滑点问题。</p>
+<p><strong>Indraganti Akshay</strong> · @akshayindragant · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/akshayindragant/status/2101904234497343698">在 X 查看原帖</a> · <a href="https://t.co/NJNHNlqnY7">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RohOnChain/status/2101708948990767160"><img src="https://pbs.twimg.com/amplify_video_thumb/2101707612815568896/img/Qd9yTOChzkqo3Kjw.jpg" alt="Open-Sourced jev-trader: A 24/7 Trading Bot Built with Jev · 原帖视频截图" width="100%"></a>

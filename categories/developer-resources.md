@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 65 | 34 | 31 | 419K |
+| 71 | 37 | 34 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tubone24/status/2101895523674534374">Jev-based speed test app made public</a></h3>
+<p>The author made a Jev-based speed test app public because usage fees are cheap, inviting people to play on rainy days.</p>
+<p><strong>中文摘要：</strong>作者因使用费便宜而公开了一个基于 Jev 的测速应用，邀请大家在雨天玩耍。</p>
+<p><strong>つぼね👨‍💻</strong> · @tubone24 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/tubone24/status/2101895523674534374">在 X 查看原帖</a> · <a href="https://t.co/fu4QCt5amZ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2101898318465187900"><img src="https://pbs.twimg.com/media/HStxX2kakAAisAD?format=jpg&amp;name=medium" alt="Open Source Community Replicates Jev&#39;s System One Fast Thinking Paradigm · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2101898318465187900">Open Source Community Replicates Jev&#39;s System One Fast Thinking Paradigm</a></h3>
+<p>The open-source community replicated Jev&#39;s System One fast thinking paradigm; SemIf scores 74.7 on JevBench, close to official Jev 1.13.0&#39;s 75.4, and can run locally on a single 3090.</p>
+<p><strong>中文摘要：</strong>开源社区复现 Jev 的 System One 快速思考范式，SemIf 在 JevBench 上得分 74.7，接近官方 Jev 1.13.0 的 75.4，可在单张 3090 上本地运行。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-21</p>
+<p>💬 4 &nbsp; 🔁 4 &nbsp; ♡ 13 &nbsp; 📊 722</p>
+<p><a href="https://x.com/NFT_Chen/status/2101898318465187900">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kelseytothe/status/2101895657267315142"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="First open-weight multimodal Jev alternative · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kelseytothe/status/2101895657267315142">First open-weight multimodal Jev alternative</a></h3>
+<p>KELSEY and @4rcherhume collaborated on the first open-weight and multimodal Jev alternative.</p>
+<p><strong>中文摘要：</strong>KELSEY 与 @4rcherhume 合作发布了首个开放权重且支持多模态的 Jev 替代方案。</p>
+<p><strong>KELSEY</strong> · @kelseytothe · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 189</p>
+<p><a href="https://x.com/kelseytothe/status/2101895657267315142">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Ownerthoughts/status/2101900767397331114"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900725450162176/img/hoW_DMv_5aLJu7cH.jpg" alt="Laya: An Open Local Alternative to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Ownerthoughts/status/2101900767397331114">Laya: An Open Local Alternative to Jev</a></h3>
+<p>Introducing Laya, a local open decision-making model with 421M parameters as an alternative to Jev, supporting structured answers and running under 1GB of memory.</p>
+<p><strong>中文摘要：</strong>介绍 Laya：一个拥有 4.21 亿参数的本地开源决策模型，可作为 Jev 的替代方案，支持结构化答案，内存占用低于 1GB。</p>
+<p><strong>Enfantshustle</strong> · @Ownerthoughts · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 39</p>
+<p><a href="https://x.com/Ownerthoughts/status/2101900767397331114">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2101897493088756175"><img src="https://pbs.twimg.com/media/HStwoQAWEAANCWo?format=jpg&amp;name=900x900" alt="Jev Use Cases and Demos Collection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2101897493088756175">Jev Use Cases and Demos Collection</a></h3>
+<p>A collection of Jev use cases, demos, and other cool stuff.</p>
+<p><strong>中文摘要：</strong>汇总 Jev 的各类用例、演示及其他有趣内容。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/kraayenJon/status/2101897493088756175">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arash_khajelou/status/2101895891494088713"><img src="https://pbs.twimg.com/media/HStvDxobMAA_E2d?format=png&amp;name=900x900" alt="Jev AI Quiz Entry Experience · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arash_khajelou/status/2101895891494088713">Jev AI Quiz Entry Experience</a></h3>
+<p>User shares a positive experience with the Jev AI quiz entry.</p>
+<p><strong>中文摘要：</strong>用户分享了对 Jev AI 测验入口的积极体验。</p>
+<p><strong>Arash Khajelou</strong> · @arash_khajelou · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/arash_khajelou/status/2101895891494088713">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mizorewww/status/2101473552956555427"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="laya-mlx: An Open-Source Jev-like Classification System Ported to MLX · 原帖视频截图" width="100%"></a>

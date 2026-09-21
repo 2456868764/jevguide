@@ -1,9 +1,10 @@
 # SuSu_酥酥👅
 
-16 Jev showcases.
+17 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-21 | [Open Source Community Replicates Jev's System One Fast Thinking Paradigm](https://x.com/NFT_Chen/status/2101898318465187900) | 开发资源 | SuSu_酥酥👅 | 722 |
 | 2026-09-20 | [Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison](https://x.com/NFT_Chen/status/2101675124747338229) | 游戏 | SuSu_酥酥👅 | 257K |
 | 2026-09-20 | [LLM2Jev: Turn Any LLM into a Local Jev Model](https://x.com/NFT_Chen/status/2101565218128355747) | 开发者工具 | SuSu_酥酥👅 | 14K |
 | 2026-09-20 | [Astra and Jev Team Up to Kill the Ender Dragon in 8m 43s](https://x.com/NFT_Chen/status/2101598388739281312) | 游戏 | SuSu_酥酥👅 | 6.2K |

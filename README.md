@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1000</strong><br>curated posts</td>
-<td align="center"><strong>627</strong><br>original videos</td>
+<td align="center"><strong>1065</strong><br>curated posts</td>
+<td align="center"><strong>656</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,39 +28,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>121</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>129</strong> showcases · <strong>67</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/access-updates.md">Access updates</a></h3>
-<p><sub>接入动态</sub></p>
-<p><strong>119</strong> showcases · <strong>56</strong> videos</p>
-<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>118</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>128</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/access-updates.md">Access updates</a></h3>
+<p><sub>接入动态</sub></p>
+<p><strong>126</strong> showcases · <strong>57</strong> videos</p>
+<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>108</strong> showcases · <strong>96</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>70</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>43</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>65</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>71</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>64</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>39</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>62</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>66</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>47</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>53</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,33 +94,33 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>35</strong> showcases · <strong>28</strong> videos</p>
+<p><strong>36</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>27</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>31</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>22</strong> showcases · <strong>12</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>21</strong> showcases · <strong>19</strong> videos</p>
+<p><strong>25</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>24</strong> showcases · <strong>13</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>14</strong> showcases · <strong>11</strong> videos</p>
+<p><strong>15</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>7</strong> showcases · <strong>4</strong> videos</p>
+<p><strong>8</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/logic/status/2101840909138825370"><img src="https://pbs.twimg.com/media/HSs84I5bcAEZEAh?format=png&amp;name=medium" alt="ZoCoBrowse adds Jev support for agentic browsing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/logic/status/2101840909138825370">ZoCoBrowse adds Jev support for agentic browsing</a></h3>
-<p>ZoCoBrowse is adding Jev support, which the author expects to enable powerful agentic browsing.</p>
-<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 87</p>
-<p><strong>Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்</strong> · @logic</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
+<p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
+<p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/aad34210/status/2101837143576662211"><img src="https://pbs.twimg.com/media/HSs5HvybkAAgxSk?format=jpg&amp;name=medium" alt="User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aad34210/status/2101837143576662211">User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations</a></h3>
-<p>The author shares a first experience with TypeSafe Jev: describe the situation in State, pre-write evaluation criteria in Questions, and Jev evaluates accordingly with very fast responses. A complaint-handling example is attached, noting it works fine in Japanese.</p>
-<p><strong>69</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
-<p><strong>Takashi Minoda</strong> · @aad34210</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tubone24/status/2101895523674534374">Jev-based speed test app made public</a></h3>
+<p>The author made a Jev-based speed test app public because usage fees are cheap, inviting people to play on rainy days.</p>
+<p><strong>1.9K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
+<p><strong>つぼね👨‍💻</strong> · @tubone24</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/loktar00/status/2101851403790512615">Jev and a Local LLM Play Unreal Tournament 99</a></h3>
-<p>Two real Windows 98 PCs run Unreal Tournament 99, with the left player driven by cloud Jev and the right by gpt-oss-20b on local GPUs, with no vision and no scripts.</p>
-<p><strong>63</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
-<p><strong>Loktar 🇺🇸</strong> · @loktar00</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shi3z/status/2101895864163909779">Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev</a></h3>
+<p>A user expresses disbelief at the claim that DeepSeek V4.1 achieves a 48x speedup on Jev.</p>
+<p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 30 &nbsp; 📊 1.6K</p>
+<p><strong>shi3z</strong> · @shi3z</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/khajanpandey/status/2101837339387437384">Jev powers zsh autosuggestions in the terminal</a></h3>
-<p>With the zsh autosuggestion plugin, get Jev-assisted suggestions right in the terminal using one command and a typesafe key, covering command history and smart grep history.</p>
-<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
-<p><strong>Khajan Pandey</strong> · @khajanpandey</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SakaneBTC/status/2101902015194636573">Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections</a></h3>
+<p>The author shares a site-wide Q&amp;A search built with the recently popular Jev: typing a question about site content into the search box highlights the relevant section and jumps to it; the author says they saw it on X and implemented it themselves.</p>
+<p><strong>1.4K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
+<p><strong>SAKANE</strong> · @SakaneBTC</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/logic/status/2101840909138825370"><img src="https://pbs.twimg.com/media/HSs84I5bcAEZEAh?format=png&amp;name=medium" alt="ZoCoBrowse adds Jev support for agentic browsing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/logic/status/2101840909138825370">ZoCoBrowse adds Jev support for agentic browsing</a></h3>
-<p>ZoCoBrowse is adding Jev support, which the author expects to enable powerful agentic browsing.</p>
-<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 87</p>
-<p><strong>Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்</strong> · @logic</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
+<p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
+<p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/khajanpandey/status/2101837339387437384">Jev powers zsh autosuggestions in the terminal</a></h3>
-<p>With the zsh autosuggestion plugin, get Jev-assisted suggestions right in the terminal using one command and a typesafe key, covering command history and smart grep history.</p>
-<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
-<p><strong>Khajan Pandey</strong> · @khajanpandey</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/SakaneBTC/status/2101902015194636573"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900598899867648/img/pGeNMovQzYwVAGY_.jpg" alt="Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SakaneBTC/status/2101902015194636573">Site-wide Q&amp;A search with Jev: highlights and jumps to relevant sections</a></h3>
+<p>The author shares a site-wide Q&amp;A search built with the recently popular Jev: typing a question about site content into the search box highlights the relevant section and jumps to it; the author says they saw it on X and implemented it themselves.</p>
+<p><strong>1.4K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 1.4K</p>
+<p><strong>SAKANE</strong> · @SakaneBTC</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
-<a href="https://x.com/matu79go/status/2101878714917429488"><img src="https://pbs.twimg.com/amplify_video_thumb/2101877976375939072/img/1PPCZ99yIK8mBlq9.jpg" alt="Jev benchmarked on legal contract review: 820 decisions in 8.3s · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/matu79go/status/2101878714917429488">Jev benchmarked on legal contract review: 820 decisions in 8.3s</a></h3>
-<p>The benchmark shows Jev reading a contract page and evaluating all 41 clause types at once, sorting in real time at 0.40s per page, with the same F1 as Claude Haiku 4.5 at about 1/18 the cost.</p>
-<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
-<p><strong>Gosuke Suzuki｜Suzuki Soten</strong> · @matu79go</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/cyrilXBT/status/2101906790355251278"><img src="https://pbs.twimg.com/media/HSt5FEwbAAANcIk?format=jpg&amp;name=900x900" alt="Jev Multi-Agent Design: Single Responsibility and Parallel Execution · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2101906790355251278">Jev Multi-Agent Design: Single Responsibility and Parallel Execution</a></h3>
+<p>Explains Jev&#39;s core idea: instead of one all-purpose agent, give each agent a single job, keep context small and focused, run work in parallel, repair failures without restarting, and only surface verified results.</p>
+<p><strong>1.3K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 1.3K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
-<a href="https://x.com/xfanwu/status/2101850900356649247"><img src="https://pbs.twimg.com/amplify_video_thumb/2101831753363259392/img/0FZG8mGApbMEfRIY.jpg" alt="Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/xfanwu/status/2101850900356649247">Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON</a></h3>
-<p>The author praises Jev for logging disagreements on 13% of well-known court rulings, argues classifiers need fail-case records, and asks what first judgment would never be auto-approved in a typed system.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Xiaofan Wu</strong> · @xfanwu</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/DailyAITracker/status/2101897628510494812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897601314603008/img/d-w8O0OPcC3JpIc9.jpg" alt="Building an Autonomous Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DailyAITracker/status/2101897628510494812">Building an Autonomous Trading Bot with Jev</a></h3>
+<p>A user shares building an autonomous trading bot with Jev for real-time execution and onchain/offchain data ingestion, which has lost $31,680 so far.</p>
+<p><strong>382</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
+<p><strong>Daily AI Tracker</strong> · @DailyAITracker</p>
 </td>
 </tr>
 </table>

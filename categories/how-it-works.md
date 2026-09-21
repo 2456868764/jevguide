@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 121 | 66 | 55 | 1.6M |
+| 129 | 67 | 62 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shi3z/status/2101895864163909779">Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev</a></h3>
+<p>A user expresses disbelief at the claim that DeepSeek V4.1 achieves a 48x speedup on Jev.</p>
+<p><strong>中文摘要：</strong>用户对 DeepSeek V4.1 在 Jev 上实现 48 倍加速的说法表示难以置信。</p>
+<p><strong>shi3z</strong> · @shi3z · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 30 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/shi3z/status/2101895864163909779">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HelloVyom/status/2101897801609449901"><img src="https://pbs.twimg.com/media/HStw5wiaoAAtf2X?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: An &#39;Internet Moment&#39; for AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HelloVyom/status/2101897801609449901">TypeSafe AI&#39;s Jev: An &#39;Internet Moment&#39; for AI</a></h3>
+<p>Introduces TypeSafe AI&#39;s Jev model, citing an article on how to use it and where its up to 193x speed and 444x cost advantage comes from.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 的 Jev 模型，引用文章说明其使用方法及高达 193 倍速度和 444 倍成本优势的来源。</p>
+<p><strong>Vyom</strong> · @HelloVyom · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 433</p>
+<p><a href="https://x.com/HelloVyom/status/2101897801609449901">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nichochar/status/2101897944316449181"><img src="https://pbs.twimg.com/media/HStwMYdbYAAWoJy?format=jpg&amp;name=900x900" alt="Jev&#39;s three primitives: choice, score, noul and parallel usage · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nichochar/status/2101897944316449181">Jev&#39;s three primitives: choice, score, noul and parallel usage</a></h3>
+<p>Introduces the three primitives available when calling Jev—choice, score, and noul—and notes they can be used in parallel, illustrated with an email triage example about whether to auto-archive.</p>
+<p><strong>中文摘要：</strong>介绍调用 Jev 时可用的 choice、score、noul 三个原语，并说明它们可并行使用，以邮件分诊中是否自动归档的判断为例展开。</p>
+<p><strong>Nicholas Charriere</strong> · @nichochar · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 133</p>
+<p><a href="https://x.com/nichochar/status/2101897944316449181">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fourweekmba/status/2101899411940888854"><img src="https://pbs.twimg.com/media/HStyYEaXgAA9MyI?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev and the Leaderboard Category Split Problem · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fourweekmba/status/2101899411940888854">TypeSafe AI&#39;s Jev and the Leaderboard Category Split Problem</a></h3>
+<p>The article discusses how TypeSafe AI&#39;s Jev model faces ranking issues when leaderboard categories split, analyzing how category fragmentation affects evaluation.</p>
+<p><strong>中文摘要：</strong>文章探讨 TypeSafe AI 的 Jev 模型在排行榜分类拆分时面临的排名问题，分析类别分裂如何影响评估。</p>
+<p><strong>Gennaro</strong> · @fourweekmba · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/fourweekmba/status/2101899411940888854">在 X 查看原帖</a> · <a href="https://t.co/vbQyb7Cpuv">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hakoneko/status/2101902961983299728"><img src="https://pbs.twimg.com/media/HSt1mRrbwAA-pYA?format=jpg&amp;name=medium" alt="User tries Jev: rule-based bulk classification and scoring · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hakoneko/status/2101902961983299728">User tries Jev: rule-based bulk classification and scoring</a></h3>
+<p>A user shares first impressions of Jev, noting it doesn&#39;t just give a black-and-white verdict but a number for how dark something is, and mentions efficiency gains in rule-based bulk classification and tagging, with plans to explore more uses.</p>
+<p><strong>中文摘要：</strong>一位用户分享初次接触 Jev 的体验，认为它不只是给出黑白判断，而是用数字表示“有多黑”，并提到按规则批量分类和打标签的效率提升，计划继续探索更多用法。</p>
+<p><strong>hakoneko@仙台</strong> · @hakoneko · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/hakoneko/status/2101902961983299728">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MeetSirari/status/2101896762239995911"><img src="https://pbs.twimg.com/media/HStv8dvbMAANUKT?format=jpg&amp;name=medium" alt="User reads Jev Architecture: a model layer parallel to LLMs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MeetSirari/status/2101896762239995911">User reads Jev Architecture: a model layer parallel to LLMs</a></h3>
+<p>After reading Jev Architecture, a user suggests JEV is like a computer tool in model form, a layer usable in parallel with LLMs in agentic loops to handle some tasks.</p>
+<p><strong>中文摘要：</strong>一位用户阅读 Jev Architecture 后认为，JEV 类似一种以模型形式存在的计算机工具，可作为与 LLM 并行的一层，用于智能体循环等场景完成部分任务。</p>
+<p><strong>Gurmeet Singh</strong> · @MeetSirari · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/MeetSirari/status/2101896762239995911">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/danizhu/status/2101906206306496792"><img src="https://pbs.twimg.com/amplify_video_thumb/2101393592065421313/img/nYIybMu1kFDVqATI.jpg" alt="How to Evaluate Jev&#39;s Accuracy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/danizhu/status/2101906206306496792">How to Evaluate Jev&#39;s Accuracy</a></h3>
+<p>Discusses that while Jev cannot invent answers outside a predefined schema, it can still choose wrong answers within it, sometimes with high confidence, and raises evaluation questions for low-stakes scenarios.</p>
+<p><strong>中文摘要：</strong>讨论 Jev 虽不能超出预定义 schema 编造答案，但仍可能在 schema 内选错答案，甚至高置信度出错，并探讨低风险场景下的评估问题。</p>
+<p><strong>Dani Zhu</strong> · @danizhu · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 13</p>
+<p><a href="https://x.com/danizhu/status/2101906206306496792">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BinodOfficial/status/2101905514485743842"><img src="https://pbs.twimg.com/media/HSt339qaYAAAYu5?format=jpg&amp;name=medium" alt="Do AI Agents Need an LLM for Every Decision? Examining the Jev Architecture · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BinodOfficial/status/2101905514485743842">Do AI Agents Need an LLM for Every Decision? Examining the Jev Architecture</a></h3>
+<p>This article examines whether AI agents need an LLM for every decision and analyzes how the Jev architecture reduces reliance on LLMs through mechanisms like System One.</p>
+<p><strong>中文摘要：</strong>本文探讨 AI 智能体是否每个决策都需要调用 LLM，并分析 Jev 架构如何通过 System One 等机制减少对 LLM 的依赖。</p>
+<p><strong>Binod Kumar</strong> · @BinodOfficial · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/BinodOfficial/status/2101905514485743842">在 X 查看原帖</a> · <a href="https://t.co/oR6hf8Lt4M">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/neural_avb/status/2101736546391244854"><img src="https://pbs.twimg.com/media/HSrdh16boAA1q9i?format=jpg&amp;name=medium" alt="JEV&#39;s Non-Deterministic Behavior Raises Doubts About &#39;No-Hallucination&#39; Claim · 原帖图片" width="100%"></a>

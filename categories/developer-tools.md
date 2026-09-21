@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 118 | 66 | 53 | 3.6M |
+| 128 | 73 | 56 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
+<p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
+<p><strong>中文摘要：</strong>该插件通过 Typesafe AI API 或 Vercel AI Gateway 为每个请求添加 Jev 路由，自动分类子代理模型、主模型和努力级别，一条安装命令即可完成。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2101902995331924145">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yugen_matuni/status/2101898801615401256"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Jev lowers the barrier for local AI use · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yugen_matuni/status/2101898801615401256">Jev lowers the barrier for local AI use</a></h3>
+<p>A user praises Jev for making local AI easier, saying it will greatly lower the barrier for many people.</p>
+<p><strong>中文摘要：</strong>用户称赞 Jev 让本地运行 AI 变得更容易，认为这会大幅降低各类人群的使用门槛。</p>
+<p><strong>まつにぃ</strong> · @yugen_matuni · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 847</p>
+<p><a href="https://x.com/yugen_matuni/status/2101898801615401256">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hahwul/status/2101895654209634588"><img src="https://pbs.twimg.com/media/HStu2apa4AASbzD?format=jpg&amp;name=medium" alt="GitHub Next Introduces Local Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hahwul/status/2101895654209634588">GitHub Next Introduces Local Jev</a></h3>
+<p>GitHub Next releases the Local Jev project, offering locally runnable Jev-related tooling.</p>
+<p><strong>中文摘要：</strong>GitHub Next 发布 Local Jev 项目，提供本地运行的 Jev 相关工具。</p>
+<p><strong>HAHWUL</strong> · @hahwul · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 180</p>
+<p><a href="https://x.com/hahwul/status/2101895654209634588">在 X 查看原帖</a> · <a href="https://t.co/P3IdRUfOGG">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_yuhanluo/status/2101901020691648957"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900731058147328/img/8GLnHF654XLaT3Be.jpg" alt="Comparing Jev vs Codex Luna as Graders on Code Taste Tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_yuhanluo/status/2101901020691648957">Comparing Jev vs Codex Luna as Graders on Code Taste Tasks</a></h3>
+<p>The author ran a toy pipeline decomposing text-based rubrics into structured answers to compare Jev and Codex Luna as graders on FrontierCode-style code taste tasks.</p>
+<p><strong>中文摘要：</strong>作者运行了一个玩具流水线，将基于文本的评分标准分解为结构化答案，比较 Jev 与 Codex Luna 在 FrontierCode 风格代码品味任务上的评分表现。</p>
+<p><strong>Yuhan Luo</strong> · @_yuhanluo · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><a href="https://x.com/_yuhanluo/status/2101901020691648957">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2101896965181395175"><img src="https://pbs.twimg.com/media/HStwJdnb0AA0dUg?format=jpg&amp;name=900x900" alt="Simple Jev: Turning Open Models into Structured Decision Interfaces · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2101896965181395175">Simple Jev: Turning Open Models into Structured Decision Interfaces</a></h3>
+<p>Simple Jev reuses shared-context KV cache, reads only the next-token logits of candidate labels, and assembles choice, score, and truth judgment server-side, avoiding per-token decoding and JSON generation.</p>
+<p><strong>中文摘要：</strong>Simple Jev 复用共享上下文的 KV cache，只读取候选标签的下一 token logits，由服务端组装 choice、score 和真值判断，省去逐 token 解码与 JSON 生成。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
+<p><a href="https://x.com/vintcessun/status/2101896965181395175">在 X 查看原帖</a> · <a href="https://t.co/4A66BVuYuc">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/richard_meng_01/status/2101897102557425680"><img src="https://pbs.twimg.com/amplify_video_thumb/2101895341851443200/img/lvfdZBbSjAequg3O.jpg" alt="Nitpicky: An AI-Generated Photo Detector Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/richard_meng_01/status/2101897102557425680">Nitpicky: An AI-Generated Photo Detector Powered by Jev</a></h3>
+<p>Nitpicky uses Jev to zoom into details like faces, fingers, text, numbers, and poses to spot where common sense breaks down in AI-generated photos.</p>
+<p><strong>中文摘要：</strong>Nitpicky 利用 Jev 放大照片中的面部、手指、文字、数字和姿势等细节，识别 AI 生成照片中常识失效的破绽。</p>
+<p><strong>Richard Meng</strong> · @richard_meng_01 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><a href="https://x.com/richard_meng_01/status/2101897102557425680">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/khajanpandey/status/2101837339387437384"><img src="https://pbs.twimg.com/media/HSs5Nl5XQAAvBSy?format=jpg&amp;name=medium" alt="Jev powers zsh autosuggestions in the terminal · 原帖图片" width="100%"></a>
@@ -20,6 +92,54 @@
 <p><strong>Khajan Pandey</strong> · @khajanpandey · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/khajanpandey/status/2101837339387437384">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zohaibtanwir/status/2101897187970171176"><img src="https://pbs.twimg.com/amplify_video_thumb/2101896594950066178/img/FA6bjTgb6HEh9hxQ.jpg" alt="Developer builds email classifier with Jev, sorting 50 emails in under 2 seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zohaibtanwir/status/2101897187970171176">Developer builds email classifier with Jev, sorting 50 emails in under 2 seconds</a></h3>
+<p>Developer Zohaib Tanwir shares building an email classifier with TypeSafe&#39;s Jev: it classifies 50 emails in under 2 seconds even with Jev hosted in us-west and the user in India.</p>
+<p><strong>中文摘要：</strong>开发者 Zohaib Tanwir 分享使用 TypeSafe 的 Jev 构建邮件分类器的体验：即使 Jev 托管在 us-west 而用户在印度，也能在 2 秒内分类 50 封邮件。</p>
+<p><strong>Zohaib Tanwir</strong> · @zohaibtanwir · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/zohaibtanwir/status/2101897187970171176">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mrinal/status/2101905966111563843"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="Solomon vs Official Jev Comparison Discussion · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mrinal/status/2101905966111563843">Solomon vs Official Jev Comparison Discussion</a></h3>
+<p>User asks if anyone has compared Solomon against the official Jev, noting Solomon looks close to what they hoped for.</p>
+<p><strong>中文摘要：</strong>用户询问是否有人将 Solomon 与官方 Jev 进行过对比，表明 Solomon 接近其期望。</p>
+<p><strong>mrinal</strong> · @mrinal · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/mrinal/status/2101905966111563843">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/moein8668/status/2101905198520140196"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="User asks about testing Jev locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/moein8668/status/2101905198520140196">User asks about testing Jev locally</a></h3>
+<p>A user says they have been too busy to test Jev but is tempted by the possibility of running it locally, and asks if anyone has tried it.</p>
+<p><strong>中文摘要：</strong>一位用户表示近期太忙没来得及测试 Jev，但被本地部署的可能性吸引，询问是否有人测试过。</p>
+<p><strong>Moein</strong> · @moein8668 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/moein8668/status/2101905198520140196">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/feddiwhip/status/2101903494638932308"><img src="https://pbs.twimg.com/media/HSt1zRobkAAX5Nf?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Classifier Enables Natural-Language Product Filters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/feddiwhip/status/2101903494638932308">TypeSafe AI&#39;s Jev Classifier Enables Natural-Language Product Filters</a></h3>
+<p>The post introduces TypeSafe AI&#39;s Jev classifier model, which lets users specify product filters in natural language; the author says it worked well in a simple demo.</p>
+<p><strong>中文摘要：</strong>帖子介绍 TypeSafe AI 的 Jev 分类器模型，可用自然语言指定产品筛选条件，作者称已在简单演示中验证效果良好。</p>
+<p><strong>feddiwhip</strong> · @feddiwhip · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/feddiwhip/status/2101903494638932308">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/danzzzz11/status/2101852170920538517"><img src="https://pbs.twimg.com/media/HStGdCTbYAAA1HE?format=jpg&amp;name=medium" alt="Jev Opens Free: A Try for Decision-Making Tasks · 原帖图片" width="100%"></a>

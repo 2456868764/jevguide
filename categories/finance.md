@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 68 | 43 | 26 | 1.2M |
+| 73 | 45 | 29 | 1.2M |
 
 ## Showcase 卡片
 
@@ -203,6 +203,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/phongharit_p/status/2102066209969909788"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Using JEV for Trading: The Problem Isn&#39;t the Model, It&#39;s Risk Control · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/phongharit_p/status/2102066209969909788">Using JEV for Trading: The Problem Isn&#39;t the Model, It&#39;s Risk Control</a></h3>
+<p>The author argues that when using JEV for trading, the issue is not applying JEV to trading itself, but letting JEV go beyond being a decision signal and trading real money without sufficiently rigorous risk controls.</p>
+<p><strong>中文摘要：</strong>作者认为，将 JEV 用于交易时，问题不在于把 JEV 引入交易，而在于让 JEV 承担超出决策信号的角色，并在缺乏足够风险控制措施的情况下用真实资金交易。</p>
+<p><strong>Phongharit</strong> · @phongharit_p · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/phongharit_p/status/2102066209969909788">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/vwapster/status/2102012812906094722"><img src="https://pbs.twimg.com/media/HSvZgwAWQAA3xRM?format=jpg&amp;name=medium" alt="Cost Discussion of Jev Usage in a Trading Bot · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -213,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/vwapster/status/2102012812906094722">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alberto_arena/status/2102007818022686972"><img src="https://pbs.twimg.com/media/HSvUyyDXYAAJ7FA?format=png&amp;name=medium" alt="Choosing Jev Probability Thresholds for Payment Checks · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/alberto_arena/status/2102007818022686972">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vwapster/status/2102014448961499471"><img src="https://pbs.twimg.com/media/HSva-g9WwAE-Z9E?format=jpg&amp;name=medium" alt="Grok bot combines Jev and Laya for a Kalshi Solana trading bot · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/vwapster/status/2102014448961499471">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/declicia72/status/2102000637210694120"><img src="https://pbs.twimg.com/media/HSvOcPqXoAAeYmK?format=png&amp;name=medium" alt="Jev Model Raises $40M: An AI That Only Answers Multiple-Choice Questions · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/declicia72/status/2102000637210694120">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/daxsfax/status/2102062138688700912"><img src="https://pbs.twimg.com/amplify_video_thumb/2101611983632318464/img/IonJ5viqIhg-qJlI.jpg" alt="Jev Powers AI Trading Reasoning and Visualization · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/daxsfax/status/2102062138688700912">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RohOnChain/status/2101708948990767160"><img src="https://pbs.twimg.com/amplify_video_thumb/2101707612815568896/img/Qd9yTOChzkqo3Kjw.jpg" alt="Open-Sourced jev-trader: A 24/7 Trading Bot Built with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 35 &nbsp; 🔁 28 &nbsp; ♡ 241 &nbsp; 📊 39K</p>
 <p><a href="https://x.com/RohOnChain/status/2101708948990767160">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/everestchris6/status/2101706320261128398"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706250090319872/img/h92BN1ENdExQGPy6.jpg" alt="Making Money with Jev on Autopilot: Use Cases for a Fast Decision Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 5 &nbsp; 🔁 23 &nbsp; ♡ 194 &nbsp; 📊 22K</p>
 <p><a href="https://x.com/everestchris6/status/2101706320261128398">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wuliao_btc/status/2101513081524531671"><img src="https://pbs.twimg.com/media/HSoSu1-bIAAOidE?format=jpg&amp;name=medium" alt="Jev Model for Trading: Hype vs. Caution · 原帖图片" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 22 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 3.6K</p>
 <p><a href="https://x.com/wuliao_btc/status/2101513081524531671">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/obrainarc/status/2101535648549368227"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Using Jev to Build a Trading Bot and Train a Brain to Play Games · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 22 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/obrainarc/status/2101535648549368227">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/follow_clues/status/2101680539791196400"><img src="https://pbs.twimg.com/media/HSqrLU7akAAh2WL?format=jpg&amp;name=medium" alt="Implementing Convergence Restrictions and Trailing Stop Loss for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/follow_clues/status/2101680539791196400">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/simplifyinAI/status/2101696691657478550"><img src="https://pbs.twimg.com/amplify_video_thumb/2101693731493871616/img/JR6DDwsq7VNPrGz1.jpg" alt="Jev Model Connects to Hyperliquid for Live Crypto Trading · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 348</p>
 <p><a href="https://x.com/simplifyinAI/status/2101696691657478550">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OctoOnItsOwn/status/2101539272298057825"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101539233446203392/pu/img/DSByNC0utV-F4G-1.jpg" alt="Jev reads new coins on Robinhood Chain in real time · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 145</p>
 <p><a href="https://x.com/OctoOnItsOwn/status/2101539272298057825">在 X 查看原帖</a> · <a href="https://t.co/I4qUoqLYT0">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/osideantunes/status/2101741491936776271"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Jev is not suitable for automated stock trading · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 119</p>
 <p><a href="https://x.com/osideantunes/status/2101741491936776271">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/adzeb_/status/2101588968219590726"><img src="https://pbs.twimg.com/amplify_video_thumb/2101588911239938048/img/FDYA6M_BN0EaHGYF.jpg" alt="Early test of Jev action selection model for payment fraud detection · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 57</p>
 <p><a href="https://x.com/adzeb_/status/2101588968219590726">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Alex_aic5/status/2101523309158343137"><img src="https://pbs.twimg.com/amplify_video_thumb/2101520826855993344/img/G5Po0XYCjTrtzGvo.jpg" alt="Early JEV Proof of Concept in Finance: Ranking 6K+ Companies in ~40 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -381,6 +392,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 53</p>
 <p><a href="https://x.com/Alex_aic5/status/2101523309158343137">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/juaxix/status/2101607949659484355"><img src="https://pbs.twimg.com/media/HSppHnQW0AAQszp?format=png&amp;name=small" alt="Testing Jev with an MQL5 Bot on BTCUSD CFDs · 原帖图片" width="100%"></a>
 <br>
@@ -392,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/juaxix/status/2101607949659484355">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIShifuhk/status/2101469976930705493"><img src="https://pbs.twimg.com/amplify_video_thumb/2101469861855809536/img/PBIqr4vQC2tADRVC.jpg" alt="Using JEV to Track Shanghai Luxury Home Price Trends · 原帖视频截图" width="100%"></a>
 <br>
@@ -405,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/AIShifuhk/status/2101469976930705493">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aarjavshahhh/status/2101694757135347973"><img src="https://pbs.twimg.com/amplify_video_thumb/2101694718401007616/img/U6z-uDY2zyPJQ6su.jpg" alt="Classifying inbound deals with JEV vs. a self-training open model · 原帖视频截图" width="100%"></a>
 <br>
@@ -416,8 +429,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 25</p>
 <p><a href="https://x.com/aarjavshahhh/status/2101694757135347973">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Trend0x_com/status/2101752917287915967"><img src="https://pbs.twimg.com/media/HSrtIeNWEAA_CXB?format=jpg&amp;name=medium" alt="Trend0x uses Jev to route AI requests, starting in shadow mode · 原帖图片" width="100%"></a>
 <br>
@@ -429,6 +440,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Trend0x_com/status/2101752917287915967">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SandbaseAI/status/2101695244345765917"><img src="https://pbs.twimg.com/amplify_video_thumb/2101693558638198784/img/UPF5GzFjCrTJPHDc.jpg" alt="SandBase Launches Jev Trader for Simulated Market Trading · 原帖视频截图" width="100%"></a>
 <br>
@@ -440,8 +453,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 20</p>
 <p><a href="https://x.com/SandbaseAI/status/2101695244345765917">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FMZQuant/status/2101642165843894696"><img src="https://pbs.twimg.com/media/HSqIZL0bIAArg33?format=jpg&amp;name=medium" alt="Jev Integrated into Live Quant Trading: Does the New AI Paradigm Work? · 原帖图片" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/FMZQuant/status/2101642165843894696">在 X 查看原帖</a> · <a href="https://t.co/azWEvijIt4">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/de2pressed/status/2101696094782849185"><img src="https://pbs.twimg.com/media/HSq5b0lagAA70tF?format=jpg&amp;name=medium" alt="Analyzing Consistency Trade-offs in Payment Ledgers with Jev-GPT · 原帖图片" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/de2pressed/status/2101696094782849185">在 X 查看原帖</a> · <a href="https://t.co/VDLCvLPCs9">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Uzbeko_07/status/2101801991227798006"><img src="https://pbs.twimg.com/media/HSsZmrrW0AAd4_S?format=jpg&amp;name=medium" alt="Testing robustness of a genetic-algorithm trading system with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
 <p><a href="https://x.com/Uzbeko_07/status/2101801991227798006">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MoonGotchi/status/2101320141065609294"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Building an Autonomous Real-Time Trading Bot with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 316 &nbsp; 🔁 842 &nbsp; ♡ 12K &nbsp; 📊 606K</p>
 <p><a href="https://x.com/MoonGotchi/status/2101320141065609294">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SUOHA_AI/status/2101275294451515740"><img src="https://pbs.twimg.com/amplify_video_thumb/2101274788513693696/img/Gj7UchuQIdpkqvAz.jpg" alt="JEV AI Quantitative Trading Demo Reverse Strategy Experiment · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +512,8 @@
 <p>💬 132 &nbsp; 🔁 35 &nbsp; ♡ 436 &nbsp; 📊 172K</p>
 <p><a href="https://x.com/SUOHA_AI/status/2101275294451515740">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RohOnChain/status/2101344481400508459"><img src="https://pbs.twimg.com/media/HSl5hClaoAA2_m7?format=jpg&amp;name=medium" alt="Building a 24/7 HFT Trading Bot with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 35 &nbsp; 🔁 82 &nbsp; ♡ 706 &nbsp; 📊 93K</p>
 <p><a href="https://x.com/RohOnChain/status/2101344481400508459">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oragnes/status/2101156068814667942"><img src="https://pbs.twimg.com/amplify_video_thumb/2101155580752891904/img/P0VoIBtyjQXUsTtF.jpg" alt="JEV Automated Intelligent Trading Test: 114 Trades with ~30% Win Rate · 原帖视频截图" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 52 &nbsp; 🔁 31 &nbsp; ♡ 210 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/oragnes/status/2101156068814667942">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_meaningless/status/2101242687055864088"><img src="https://pbs.twimg.com/media/HSkcEmYaQAA0iG_?format=jpg&amp;name=medium" alt="Automated ETH Leverage Trading Based on JEV Confidence · 原帖图片" width="100%"></a>
 <br>
@@ -535,6 +548,17 @@
 <p><strong>J-S---</strong> · @_meaningless · 2026-09-19</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 606</p>
 <p><a href="https://x.com/_meaningless/status/2101242687055864088">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsChrisOnX/status/2101242838587502643"><img src="https://pbs.twimg.com/media/HSkdOWVW8AAN9F3?format=jpg&amp;name=medium" alt="Early access to JEV: Premier League predictions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ItsChrisOnX/status/2101242838587502643">Early access to JEV: Premier League predictions</a></h3>
+<p>A user shares early access to TypeSafe AI&#39;s JEV, with their first project being sports predictions, tested on today&#39;s Premier League match.</p>
+<p><strong>中文摘要：</strong>用户分享获得 TypeSafe AI 的 JEV 早期访问权限，首个项目是体育赛事预测，并测试今日英超比赛。</p>
+<p><strong>Chris On 𝕏</strong> · @ItsChrisOnX · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 250</p>
+<p><a href="https://x.com/ItsChrisOnX/status/2101242838587502643">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -622,6 +646,19 @@
 <p><a href="https://x.com/IndraVahan/status/2100929105382564113">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2100876229918458326"><img src="https://pbs.twimg.com/amplify_video_thumb/2100483712672743424/img/nAxbyfjlXhe5xa3F.jpg" alt="Jev Uses AI to Automate Crypto and Stock Technical Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2100876229918458326">Jev Uses AI to Automate Crypto and Stock Technical Analysis</a></h3>
+<p>Jev combines price forecasts, technical indicators, time-series data and news feeds to find trading opportunities in crypto and stock markets in real time.</p>
+<p><strong>中文摘要：</strong>Jev 结合价格预测、技术指标、时间序列数据和新闻源，实时发现加密货币和股票市场的交易机会。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-18</p>
+<p>💬 8 &nbsp; 🔁 10 &nbsp; ♡ 101 &nbsp; 📊 57K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2100876229918458326">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101002481073586294"><img src="https://pbs.twimg.com/amplify_video_thumb/2100959729350561792/img/wc-JtyIBGa_9qgNL.jpg" alt="Jev Model Embedded in Hedge Fund for Trading Strategies · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -632,8 +669,6 @@
 <p>💬 14 &nbsp; 🔁 36 &nbsp; ♡ 237 &nbsp; 📊 50K</p>
 <p><a href="https://x.com/NFT_Chen/status/2101002481073586294">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/milbon_/status/2100770918809374779"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Jev AI Executes Real Trades Every 0.3 Seconds on Monad · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +680,8 @@
 <p>💬 3 &nbsp; 🔁 14 &nbsp; ♡ 185 &nbsp; 📊 39K</p>
 <p><a href="https://x.com/milbon_/status/2100770918809374779">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/muramar_u/status/2101096444635804066"><img src="https://pbs.twimg.com/media/HSiWL51aIAACwGQ?format=jpg&amp;name=medium" alt="Jev (TypeSafe AI) Potential to Transform Bookkeeping Outsourcing · 原帖图片" width="100%"></a>
 <br>
@@ -655,6 +692,17 @@
 <p><strong>村井隆紘 - CloudPartnersGroup 代表税理士・公認会計士</strong> · @muramar_u · 2026-09-18</p>
 <p>💬 3 &nbsp; 🔁 18 &nbsp; ♡ 142 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/muramar_u/status/2101096444635804066">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Seb_Rodi/status/2101064708208128465"><img src="https://pbs.twimg.com/media/HSh7NkYXcAEjcpJ?format=jpg&amp;name=medium" alt="Four Facts About Jev in Financial Markets · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Seb_Rodi/status/2101064708208128465">Four Facts About Jev in Financial Markets</a></h3>
+<p>Introduces Jev as a financial markets expert, MRKT co-founder, live news headline scanner, and macro understanding specialist.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 是金融市场专家、MRKT 联合创始人，能扫描实时新闻标题并理解宏观经济。</p>
+<p><strong>Seb</strong> · @Seb_Rodi · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 12 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/Seb_Rodi/status/2101064708208128465">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -824,5 +872,19 @@
 <p>💬 291 &nbsp; 🔁 361 &nbsp; ♡ 5.0K &nbsp; 📊 1.2M</p>
 <p><a href="https://x.com/jarrodwatts/status/2100356151468585346">在 X 查看原帖</a> · <a href="https://t.co/vwl2SUu4jm">原文链接</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jlongster/status/2100179852053639236"><img src="https://pbs.twimg.com/media/HSVWcZ9WcAAcwPe?format=jpg&amp;name=medium" alt="James Long tests Jev on extracting payee descriptions from raw bank data · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jlongster/status/2100179852053639236">James Long tests Jev on extracting payee descriptions from raw bank data</a></h3>
+<p>James Long uses Jev to tackle the most annoying problem in personal finance tools: generating good payee descriptions from raw bank data. It got about 95% of the way there on the first try, with many ways to improve the prompting.</p>
+<p><strong>中文摘要：</strong>James Long 用 Jev 解决个人财务工具中最棘手的问题：从原始银行数据中生成良好的收款人描述，首次尝试即达到约 95% 的完成度，并指出还有多种优化提问方式。</p>
+<p><strong>James Long</strong> · @jlongster · 2026-09-16</p>
+<p>💬 41 &nbsp; 🔁 21 &nbsp; ♡ 637 &nbsp; 📊 52K</p>
+<p><a href="https://x.com/jlongster/status/2100179852053639236">在 X 查看原帖</a></p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 34 | 18 | 16 | 392K |
+| 37 | 19 | 18 | 392K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/kinari_kuramoto/status/2101937847674835406">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/OKtamajun/status/2102064393899188433"><img src="https://pbs.twimg.com/amplify_video_thumb/2102064357840707585/img/Bu_YefoSsiA5lfeZ.jpg" alt="Experiment: Using Jev Judgments to Compress Text and Cut LLM Redundancy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/OKtamajun/status/2102064393899188433">Experiment: Using Jev Judgments to Compress Text and Cut LLM Redundancy</a></h3>
+<p>The author shares a Jev application experiment: breaking text into parts, using many Jev judgments to evaluate different trimming patterns, and balancing readability against information loss to compress text and remove LLM redundancy.</p>
+<p><strong>中文摘要：</strong>作者分享一项 Jev 应用实验：将文章拆解为多个部分，用大量 Jev 判定评估不同删减方案，在可读性与信息缺失之间取得平衡，以压缩文本、去除 LLM 的冗余表达。</p>
+<p><strong>Jun Tamaoki / 玉置絢</strong> · @OKtamajun · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 173</p>
+<p><a href="https://x.com/OKtamajun/status/2102064393899188433">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kunal_twts/status/2101896661773754458"><img src="https://pbs.twimg.com/media/HStv3uQa0AASNtH?format=jpg&amp;name=medium" alt="Using Jev to Analyze Thousands of SEO/GEO Signals · 原帖图片" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
 <p><a href="https://x.com/kunal_twts/status/2101896661773754458">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/flock_io/status/2101942693618156026"><img src="https://pbs.twimg.com/media/HSuZuy4aoAEXDg-?format=jpg&amp;name=medium" alt="FLock Benchmark: THIS/THAT Model 94.1% vs Jev Hosted System One 76.5% · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 78</p>
 <p><a href="https://x.com/flock_io/status/2101942693618156026">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chokudai/status/2102001298858234291"><img src="https://pbs.twimg.com/media/HSvOkG8bsAA2m63?format=png&amp;name=medium" alt="Building an AtCoder Difficulty Predictor with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/chokudai/status/2102001298858234291">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/flock_io_korea/status/2102012316376285200"><img src="https://pbs.twimg.com/media/HSvZCUhbcAAkyQW?format=jpg&amp;name=medium" alt="Third-Party Test Compares FLock Models and Jev System One Accuracy · 原帖图片" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>FLock.io Korea</strong> · @flock_io_korea · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/flock_io_korea/status/2102012316376285200">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/01Mukesh29/status/2101982843023020294"><img src="https://pbs.twimg.com/media/HSu-PDfbYAA129-?format=jpg&amp;name=medium" alt="Screening 1,000 Resumes with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/01Mukesh29/status/2101982843023020294">Screening 1,000 Resumes with Jev</a></h3>
+<p>A user shares running 1,000 resumes against a Senior Backend Engineer JD with Jev in 1 min 28 sec, scoring skill depth, domain fit, and seniority before filtering by experience, education, and required skills.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 对 1000 份简历按高级后端工程师职位描述进行批量筛选，耗时 1 分 28 秒，先评估技能深度、领域匹配和资历，再过滤经验年限、学历和必备技能。</p>
+<p><strong>Mukesh Bishnoi</strong> · @01Mukesh29 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
+<p><a href="https://x.com/01Mukesh29/status/2101982843023020294">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/yonyoniz/status/2101943752759607459"><img src="https://pbs.twimg.com/media/HSuaN4cW0AACTSE?format=jpg&amp;name=medium" alt="Jev labeling and multi-model comparison practice · 原帖图片" width="100%"></a>
@@ -395,6 +419,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Archilinho/status/2100649727536640435"><img src="https://pbs.twimg.com/media/HSb_8hkXsAAq2jO?format=jpg&amp;name=medium" alt="Jev Shows Speed and Cost Advantages on Classification Task · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Archilinho/status/2100649727536640435">Jev Shows Speed and Cost Advantages on Classification Task</a></h3>
+<p>A user shares trying Jev on a classification task, citing speed and cost advantages over Gemini and a 5% precision uplift.</p>
+<p><strong>中文摘要：</strong>用户分享在分类任务中试用 Jev 的体验，称其速度和成本优势远超 Gemini，并带来 5% 的精度提升。</p>
+<p><strong>Archil Sharashenidze</strong> · @Archilinho · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 598</p>
+<p><a href="https://x.com/Archilinho/status/2100649727536640435">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/cramforce/status/2100269198727602468"><img src="https://pbs.twimg.com/media/HSWnmSYaIAAwrmA?format=jpg&amp;name=medium" alt="Jev beats Gemini 2.5 Flash Lite on classifier eval quality and speed · 原帖图片" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖图片</code></sub>
@@ -405,6 +440,8 @@
 <p>💬 40 &nbsp; 🔁 56 &nbsp; ♡ 1.1K &nbsp; 📊 213K</p>
 <p><a href="https://x.com/cramforce/status/2100269198727602468">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hamiltonulmer/status/2100370557405667768"><img src="https://pbs.twimg.com/media/HSYD5B1bsAAWqeg?format=jpg&amp;name=medium" alt="Fast row classification in DuckDB with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -416,5 +453,6 @@
 <p>💬 37 &nbsp; 🔁 137 &nbsp; ♡ 1.4K &nbsp; 📊 130K</p>
 <p><a href="https://x.com/hamiltonulmer/status/2100370557405667768">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

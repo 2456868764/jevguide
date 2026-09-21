@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 6 | 3 | 5 | 29K |
+| 7 | 3 | 6 | 29K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/khkreddy/status/2101734993454387581"><img src="https://pbs.twimg.com/media/HSrcffGaYAAOyzp?format=jpg&amp;name=medium" alt="Building Pedagogical DAGs for Grades 6-12 Science and Math with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/khkreddy/status/2101734993454387581">Building Pedagogical DAGs for Grades 6-12 Science and Math with JEV</a></h3>
+<p>The author uses JEV to build directed DAGs of science and math topics for grades 6-12, with node and concept-grain prerequisites weighted by JEV noul and strength, tagged as hard.</p>
+<p><strong>中文摘要：</strong>作者使用 JEV 为 6-12 年级科学和数学主题构建有向 DAG，节点和概念级先修关系由 JEV noul 与强度加权，并标记难度。</p>
+<p><strong>Hari Krishna</strong> · @khkreddy · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 232</p>
+<p><a href="https://x.com/khkreddy/status/2101734993454387581">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/debianmaster/status/2101501810917658763"><img src="https://pbs.twimg.com/media/HSoIq7EXsAAkvju?format=jpg&amp;name=medium" alt="Experiment with Jev and Chirp-3 for Kids · 原帖图片" width="100%"></a>
 <br>
 <sub><code>教育</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 153</p>
 <p><a href="https://x.com/debianmaster/status/2101501810917658763">在 X 查看原帖</a> · <a href="https://t.co/7dUCUBDtxK">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuInada2/status/2101451019284820098"><img src="https://pbs.twimg.com/amplify_video_thumb/2101450572503425024/img/Xlrzew9HYjBzoWJr.jpg" alt="Building a Real-Time Class Opinion Classifier with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 5 &nbsp; 🔁 34 &nbsp; ♡ 246 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/YuInada2/status/2101451019284820098">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robpenner/status/2100790139123274188"><img src="https://pbs.twimg.com/media/HSeAb-DXEAErCLG?format=jpg&amp;name=medium" alt="Jev AI described as a non-verbal savant focused on exams · 原帖图片" width="100%"></a>
 <br>
@@ -80,5 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 395</p>
 <p><a href="https://x.com/robpenner/status/2100790139123274188">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

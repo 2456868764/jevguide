@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 37 | 35 | 3 | 101K |
+| 38 | 35 | 4 | 101K |
 
 ## Showcase 卡片
 
@@ -443,6 +443,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/AadithVA/status/2100521377241719215"><img src="https://pbs.twimg.com/media/HSaM1ivbcAAavw0?format=jpg&amp;name=medium" alt="Trying Jev to Evaluate Video Production Quality · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AadithVA/status/2100521377241719215">Trying Jev to Evaluate Video Production Quality</a></h3>
+<p>The author tries Jev to see if better eval scores can actually lead to better video production quality, hoping the numbers translate to pixels.</p>
+<p><strong>中文摘要：</strong>作者试用 Jev，观察更好的评估分数是否能真正提升视频制作质量，并期待数字能转化为像素。</p>
+<p><strong>aadithva</strong> · @AadithVA · 2026-09-17</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 711</p>
+<p><a href="https://x.com/AadithVA/status/2100521377241719215">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/rrriviannn/status/2100281474943779254"><img src="https://pbs.twimg.com/amplify_video_thumb/2100277960834248704/img/LxLWxe47pdndX2xM.jpg" alt="User tests whether Jev can generate images · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>内容创作</code> <code>原帖视频</code></sub>
@@ -453,6 +464,5 @@
 <p>💬 12 &nbsp; 🔁 9 &nbsp; ♡ 140 &nbsp; 📊 44K</p>
 <p><a href="https://x.com/rrriviannn/status/2100281474943779254">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

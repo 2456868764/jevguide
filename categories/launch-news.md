@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 99 | 58 | 44 | 1.1M |
+| 101 | 60 | 44 | 1.1M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/0xvexran/status/2102046759040012796"><img src="https://pbs.twimg.com/amplify_video_thumb/2102046157820002304/img/Y650dR4NVNHVR7Yc.jpg" alt="Jev Founder: JEV Is the Next Step for LLMs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xvexran/status/2102046759040012796">Jev Founder: JEV Is the Next Step for LLMs</a></h3>
+<p>Jev founder Diogo Almeida, ex-OpenAI, says Claude Code and Codex remain in the human-in-the-loop assistance phase, while JEV is the next step for LLMs: 200x quicker, 444x less expensive, zero hallucinations, and no human in the loop.</p>
+<p><strong>中文摘要：</strong>Jev 创始人 Diogo Almeida（前 OpenAI）表示，Claude Code 和 Codex 仍处于人类在环的辅助阶段，而 JEV 是 LLM 的下一步：快 200 倍、成本低 444 倍、零幻觉、无需人类在环。</p>
+<p><strong>0xvexran</strong> · @0xvexran · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 376</p>
+<p><a href="https://x.com/0xvexran/status/2102046759040012796">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ModularCrypto/status/2101994730913513910"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Launches Jev: An AI That Decides Instead of Chats · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 320</p>
 <p><a href="https://x.com/ModularCrypto/status/2101994730913513910">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BuildFastWithAI/status/2101994641184944354"><img src="https://pbs.twimg.com/amplify_video_thumb/2101991977512525824/img/iuAaZRQhP4pD0338.jpg" alt="TypeSafe AI launches Jev: a model that picks options, not text · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Build Fast with AI</strong> · @BuildFastWithAI · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 163</p>
 <p><a href="https://x.com/BuildFastWithAI/status/2101994641184944354">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/buildwithavis/status/2101887138010722669"><img src="https://pbs.twimg.com/amplify_video_thumb/2101886758304845824/img/ZMzTuaV6YHP6O5jU.jpg" alt="TypeSafe Introduces JEV: A System 1 AI Model for Fast Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/buildwithavis/status/2101887138010722669">TypeSafe Introduces JEV: A System 1 AI Model for Fast Decisions</a></h3>
+<p>Built by ex-OpenAI researchers, JEV is TypeSafe&#39;s &quot;System 1&quot; AI model designed to handle simple branching decisions instead of large LLMs, avoiding high latency and token costs.</p>
+<p><strong>中文摘要：</strong>由前 OpenAI 研究人员打造的 JEV 是 TypeSafe 推出的“System 1”AI 模型，旨在替代大语言模型处理简单分支决策，避免高延迟和高 token 成本。</p>
+<p><strong>AVIS</strong> · @buildwithavis · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 150</p>
+<p><a href="https://x.com/buildwithavis/status/2101887138010722669">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

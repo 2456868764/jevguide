@@ -44,6 +44,7 @@
 | 2026-09-21 | [Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads](https://x.com/chesny/status/2102008701754409204) | 营销 | Chesny | 515 |
 | 2026-09-21 | [Semantic In-Page Search with Jev](https://x.com/makaneko_AI/status/2101909643094380991) | 知识与搜索 | まかねこ\| AIに働かせる技術 | 514 |
 | 2026-09-21 | [Evaluating TypeSafe Console Status via Jev](https://x.com/ersinkoc/status/2101937853152256481) | 开发者工具 | Ersin KOÇ | 496 |
+| 2026-09-21 | [Jev tested across math, logic, text, structured data, and code](https://x.com/brandonjcarl/status/2102066041824104516) | 开发者工具 | Brandon Carl | 492 |
 | 2026-09-21 | [Jev for Computer Use: Experiments Paired with Grok Bot](https://x.com/LufzzLiz/status/2101948034464805040) | 自动化工作流 | 岚叔 | 482 |
 | 2026-09-21 | [Jev AI sorts your follow-up list so nothing slips through](https://x.com/JulianGoldieSEO/status/2101914814322995557) | 自动化工作流 | Julian Goldie SEO | 469 |
 | 2026-09-21 | [Discussion on Jev's Capability Limits](https://x.com/melvynx/status/2102007599420088474) | 工作原理 | Melvyn • Builder | 466 |
@@ -55,6 +56,7 @@
 | 2026-09-21 | [What Is the Jev Model and Why Developers Are Interested](https://x.com/Digiato/status/2101998584644198685) | 工作原理 | Digiato \| دیجیاتو | 410 |
 | 2026-09-21 | [Jev Benchmark Lab: Stress Testing with 200 Ground-Truth Cases](https://x.com/ersinkoc/status/2101940187475345584) | 开发者工具 | Ersin KOÇ | 404 |
 | 2026-09-21 | [Building an Autonomous Trading Bot with Jev](https://x.com/DailyAITracker/status/2101897628510494812) | 金融 | Daily AI Tracker | 382 |
+| 2026-09-21 | [Jev Founder: JEV Is the Next Step for LLMs](https://x.com/0xvexran/status/2102046759040012796) | 产品发布 | 0xvexran | 376 |
 | 2026-09-21 | [Jev AI Demo: Voice-Controlled Browser Agent](https://x.com/JulianGoldieSEO/status/2101944527271415814) | 智能体 | Julian Goldie SEO | 374 |
 | 2026-09-21 | [Using Jev in Google Sheets for Form Survey Analysis](https://x.com/kinari_kuramoto/status/2101937847674835406) | 数据分析 | Kinari Kuramoto / キナリ | 332 |
 | 2026-09-21 | [Understanding Jev's Choice, Score, and Noul in 22 Minutes](https://x.com/HarryTandy/status/2101993990581076131) | 工作原理 | Harry Tandy | 331 |
@@ -68,6 +70,7 @@
 | 2026-09-21 | [Jev Engineering: One Decision Layer for Hundreds of Agent Paths](https://x.com/0xRicker/status/2102066972196303129) | 智能体 | Ricker | 287 |
 | 2026-09-21 | [Jev Now Live on Surplus Intelligence](https://x.com/mac_eth/status/2101911416840032320) | 接入动态 | Mac | 284 |
 | 2026-09-21 | [Building a Trading Router with Jev and Polymarket](https://x.com/RitOnchain/status/2101907127543718196) | 金融 | venus | 280 |
+| 2026-09-21 | [gakuse.ai Study Group Focuses on Jev: Differences, Use Cases, and Agent Harness Integration](https://x.com/sora19ai/status/2102064126524805306) | 智能体 | そら ☁️ AgentSwarm 自動化オタク📱 | 271 |
 | 2026-09-21 | [Jev + Happycapy Power an AI Live-Stream Director](https://x.com/happycapyai/status/2101895709809352848) | 内容创作 | Happycapy | 268 |
 | 2026-09-21 | [Jev for evaluating agent runs, paired with an open-source self-improving memory layer](https://x.com/_avichawla/status/2101966536798040332) | 智能体 | Avi Chawla | 261 |
 | 2026-09-21 | [TypeSafe's Jev: A model that returns answers, not prose](https://x.com/AiAircle34052/status/2101950307945332831) | 工作原理 | Aircle｜AIコミュニティ | 259 |
@@ -90,6 +93,7 @@
 | 2026-09-21 | [Kev: A Tiny Jev-like Family of Decision Models Built on Qwen3.5](https://x.com/hackernewstop5/status/2101947773281300957) | 开发资源 | HackerNewsTop5 | 181 |
 | 2026-09-21 | [GitHub Next Introduces Local Jev](https://x.com/hahwul/status/2101895654209634588) | 开发者工具 | HAHWUL | 180 |
 | 2026-09-21 | [Critique of Jev: No Vision and Unnatural Prompt-Based Personalities](https://x.com/yunuscode/status/2101937202691219849) | 工作原理 | yunus | 176 |
+| 2026-09-21 | [Experiment: Using Jev Judgments to Compress Text and Cut LLM Redundancy](https://x.com/OKtamajun/status/2102064393899188433) | 数据分析 | Jun Tamaoki / 玉置絢 | 173 |
 | 2026-09-21 | [Driving 3D Character Expressions and Motion with Jev](https://x.com/winebaizou/status/2101994437002072365) | 游戏 | 野中健吾 | 171 |
 | 2026-09-21 | [How Skilled Craftsmen's Fast Decisions Resemble Jev](https://x.com/furoku/status/2102010255706316989) | 工作原理 | Mojofull | 171 |
 | 2026-09-21 | [Running Jev on Cloudflare](https://x.com/masamune_sakaki/status/2101946760734364010) | 接入动态 | 榊正宗🫛ずんだもん＆デルタもん発案者 | 168 |
@@ -98,7 +102,3 @@
 | 2026-09-21 | [JEV as an observer for agent runs, not a security gate](https://x.com/zeroxmin/status/2101940446637531634) | 智能体 | Min(building Moss, hiring now) | 161 |
 | 2026-09-21 | [Jev Placed Before Codex/Claude Code to Filter Memory Candidates](https://x.com/dansyu_callenge/status/2101894975759986696) | 开发者工具 | 今野健介｜Claude×EC専門家 | 156 |
 | 2026-09-21 | [A Beginner's Guide to Jev](https://x.com/yaohui12138/status/2101912940882678154) | 知识与搜索 | 超级个体｜柿子 | 156 |
-| 2026-09-21 | [Jev ticket router: one model call with code deciding next steps](https://x.com/0xTreff/status/2101997289715773761) | 自动化工作流 | Treff | 153 |
-| 2026-09-21 | [Using Jev to Analyze Thousands of SEO/GEO Signals](https://x.com/kunal_twts/status/2101896661773754458) | 数据分析 | Kunal | 143 |
-| 2026-09-21 | [Building a Talk-Show Game with Jev-Powered AI Audience](https://x.com/akihiro_genai/status/2101908942183899463) | 游戏 | 中村彰宏 \| 「Codexではじめるエージェンティックコーディング」共著 | 143 |
-| 2026-09-21 | [Real-world delivery workflow combining Jev model with Kooko](https://x.com/Pluvio9yte/status/2101951934811066867) | 自动化工作流 | 雪踏乌云 | 143 |

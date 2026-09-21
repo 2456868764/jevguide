@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 183
-- [How it works](../categories/how-it-works.md) — 176
-- [Developer tools](../categories/developer-tools.md) — 174
-- [Gaming](../categories/gaming.md) — 157
-- [Launch news](../categories/launch-news.md) — 99
-- [Agents](../categories/agents.md) — 98
-- [Developer resources](../categories/developer-resources.md) — 93
+- [Access updates](../categories/access-updates.md) — 186
+- [How it works](../categories/how-it-works.md) — 179
+- [Developer tools](../categories/developer-tools.md) — 179
+- [Gaming](../categories/gaming.md) — 159
+- [Launch news](../categories/launch-news.md) — 101
+- [Agents](../categories/agents.md) — 100
+- [Developer resources](../categories/developer-resources.md) — 96
 - [Community builds](../categories/community-builds.md) — 85
-- [Finance](../categories/finance.md) — 68
+- [Finance](../categories/finance.md) — 73
 - [Workflow automation](../categories/workflow-automation.md) — 57
 - [Marketing](../categories/marketing.md) — 53
 - [Knowledge & search](../categories/knowledge-search.md) — 49
-- [Content creation](../categories/content-creation.md) — 37
-- [Data analytics](../categories/data-analytics.md) — 34
+- [Content creation](../categories/content-creation.md) — 38
+- [Data analytics](../categories/data-analytics.md) — 37
 - [Robotics](../categories/robotics.md) — 21
 - [Customer support](../categories/customer-support.md) — 17
 - [Healthcare](../categories/healthcare.md) — 13
 - [Productivity](../categories/productivity.md) — 10
 - [E-commerce](../categories/e-commerce.md) — 10
 - [Scientific research](../categories/scientific-research.md) — 10
+- [Software development](../categories/software-development.md) — 10
 - [Business operations](../categories/business-operations.md) — 9
-- [Software development](../categories/software-development.md) — 9
+- [Education](../categories/education.md) — 7
 - [Legal & compliance](../categories/legal-compliance.md) — 7
 - [Cybersecurity](../categories/cybersecurity.md) — 7
-- [Education](../categories/education.md) — 6

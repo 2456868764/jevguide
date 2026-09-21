@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1065</strong><br>curated posts</td>
-<td align="center"><strong>656</strong><br>original videos</td>
+<td align="center"><strong>1129</strong><br>curated posts</td>
+<td align="center"><strong>690</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -26,21 +26,21 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/how-it-works.md">How it works</a></h3>
-<p><sub>工作原理</sub></p>
-<p><strong>129</strong> showcases · <strong>67</strong> videos</p>
-<p><a href="categories/how-it-works.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>128</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>137</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/how-it-works.md">How it works</a></h3>
+<p><sub>工作原理</sub></p>
+<p><strong>135</strong> showcases · <strong>71</strong> videos</p>
+<p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>126</strong> showcases · <strong>57</strong> videos</p>
+<p><strong>133</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>113</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>125</strong> showcases · <strong>107</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>73</strong> showcases · <strong>43</strong> videos</p>
+<p><strong>74</strong> showcases · <strong>43</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>71</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>67</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>71</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>66</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>53</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>56</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,33 +88,33 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>40</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>44</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
-<p><sub>自动化工作流</sub></p>
-<p><strong>36</strong> showcases · <strong>28</strong> videos</p>
-<p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>31</strong> showcases · <strong>20</strong> videos</p>
+<p><strong>39</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
+<p><sub>自动化工作流</sub></p>
+<p><strong>37</strong> showcases · <strong>28</strong> videos</p>
+<p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>25</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>24</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -154,22 +154,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>6</strong> showcases · <strong>3</strong> videos</p>
+<p><strong>7</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
+<td width="33%" valign="top">
+<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
+<p><sub>网络安全</sub></p>
+<p><strong>7</strong> showcases · <strong>2</strong> videos</p>
+<p><a href="categories/cybersecurity.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
 <p><strong>6</strong> showcases · <strong>3</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
-<p><sub>网络安全</sub></p>
-<p><strong>6</strong> showcases · <strong>2</strong> videos</p>
-<p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
@@ -178,18 +178,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
-<p><sub>电商</sub></p>
-<p><strong>5</strong> showcases · <strong>5</strong> videos</p>
-<p><a href="categories/e-commerce.md">Open category →</a></p>
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>5</strong> showcases · <strong>3</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>4</strong> showcases · <strong>2</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
+<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
+<p><sub>电商</sub></p>
+<p><strong>5</strong> showcases · <strong>5</strong> videos</p>
+<p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/DailyAITracker/status/2101897628510494812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897601314603008/img/d-w8O0OPcC3JpIc9.jpg" alt="Building an Autonomous Trading Bot with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DailyAITracker/status/2101897628510494812">Building an Autonomous Trading Bot with Jev</a></h3>
-<p>A user shares building an autonomous trading bot with Jev for real-time execution and onchain/offchain data ingestion, which has lost $31,680 so far.</p>
-<p><strong>382</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
-<p><strong>Daily AI Tracker</strong> · @DailyAITracker</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/makaneko_AI/status/2101909643094380991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Semantic In-Page Search with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/makaneko_AI/status/2101909643094380991">Semantic In-Page Search with Jev</a></h3>
+<p>A user shares a new in-page search (⌘F) built with Jev that retrieves results by meaning even without exact text matches, and feels nearly real-time.</p>
+<p><strong>514</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 514</p>
+<p><strong>まかねこ| AIに働かせる技術</strong> · @makaneko_AI</p>
 </td>
 </tr>
 </table>

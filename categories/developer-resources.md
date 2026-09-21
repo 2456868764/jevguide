@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 71 | 37 | 34 | 419K |
+| 73 | 37 | 36 | 419K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/kelseytothe/status/2101895657267315142">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/zhilinjerrywag/status/2101908031873135070"><img src="https://pbs.twimg.com/media/HSt6H8qW4AAOOlB?format=jpg&amp;name=medium" alt="Extending Jev&#39;s Idea: Mev, a Recruiting Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zhilinjerrywag/status/2101908031873135070">Extending Jev&#39;s Idea: Mev, a Recruiting Decision Model</a></h3>
+<p>The author notes that Jev made one thing clear: not every AI model needs to generate—some should focus on making really good decisions. Based on this, the team is building Mev at metix_ai, a recruiting-native decision model centered on job-candidate matching, ranking, and hiring signals.</p>
+<p><strong>中文摘要：</strong>作者指出 Jev 传达了一个明确理念：并非所有 AI 模型都需要生成，有些模型应专注于做出优质决策。基于此，团队正在 metix_ai 构建 Mev——一个面向招聘场景的决策模型，围绕职位与候选人匹配、排序和招聘信号设计。</p>
+<p><strong>Zhilin Wang</strong> · @zhilinjerrywag · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 74</p>
+<p><a href="https://x.com/zhilinjerrywag/status/2101908031873135070">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Ownerthoughts/status/2101900767397331114"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900725450162176/img/hoW_DMv_5aLJu7cH.jpg" alt="Laya: An Open Local Alternative to Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 39</p>
 <p><a href="https://x.com/Ownerthoughts/status/2101900767397331114">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101897493088756175"><img src="https://pbs.twimg.com/media/HStwoQAWEAANCWo?format=jpg&amp;name=900x900" alt="Jev Use Cases and Demos Collection · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/kraayenJon/status/2101897493088756175">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arash_khajelou/status/2101895891494088713"><img src="https://pbs.twimg.com/media/HStvDxobMAA_E2d?format=png&amp;name=900x900" alt="Jev AI Quiz Entry Experience · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Arash Khajelou</strong> · @arash_khajelou · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/arash_khajelou/status/2101895891494088713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2101915137116639354"><img src="https://pbs.twimg.com/media/HSuAimZawAAfO-Z?format=jpg&amp;name=medium" alt="KaLM-Jev Open Source: Local Three-Mode Structured Judgment Service · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2101915137116639354">KaLM-Jev Open Source: Local Three-Mode Structured Judgment Service</a></h3>
+<p>KaLM-Jev is open-sourced based on KaLM-Reranker-V1-R2, offering a fully local Choice / Score / Noul three-mode structured judgment service, enabling conclusion-only judgment without sending data to the cloud.</p>
+<p><strong>中文摘要：</strong>KaLM-Jev 基于 KaLM-Reranker-V1-R2 开源，提供完全本地的 Choice / Score / Noul 三档结构化判断服务，无需上云即可获得只给结论的判断能力。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/NFT_Chen/status/2101915137116639354">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

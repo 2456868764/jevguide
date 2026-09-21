@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 25 | 23 | 3 | 101K |
+| 26 | 24 | 3 | 101K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/happycapyai/status/2101895709809352848">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nicekate8888/status/2101908148110217220"><img src="https://pbs.twimg.com/amplify_video_thumb/2101904554111717376/img/nxp2IPENMaYZcql3.jpg" alt="Local Video Retrieval Tool Combining Jev and BaoCut · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nicekate8888/status/2101908148110217220">Local Video Retrieval Tool Combining Jev and BaoCut</a></h3>
+<p>Uses Jev to judge subtitle relevance to the search intent, completeness, and appeal, while BaoCut handles subtitle recognition and video export, enabling relevant clip extraction from long videos with a single sentence.</p>
+<p><strong>中文摘要：</strong>利用 Jev 判断字幕与检索意图的相关性、表达完整性和吸引力，BaoCut 负责字幕识别与视频导出，实现输入一句话即可从长视频中筛出相关片段。</p>
+<p><strong>nicekate</strong> · @nicekate8888 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 249</p>
+<p><a href="https://x.com/nicekate8888/status/2101908148110217220">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/huggingpuppy/status/2101898004529647951"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897948271427584/img/iVA5QQzUIfrwrRa1.jpg" alt="Jev Model: Turning Poets into Musicians, Talking to Your Piano · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>内容创作</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
 <p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LongChen8asr/status/2101904162447556648"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903869345501184/img/zkRooacuKzJ9sjsz.jpg" alt="Jev Creates Stunning Demo Video for VoiceCursor · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/LongChen8asr/status/2101904162447556648">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/techduckyyy/status/2101904456384454747"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Combining Jev with Meta SAM 3.1 for Video Editing · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/techduckyyy/status/2101904456384454747">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sep_is_heim/status/2101603192664740330"><img src="https://pbs.twimg.com/amplify_video_thumb/2101601077087068161/img/uqagAEwe9KKX1eGq.jpg" alt="Integrating Jev into MiniMax H3 to Accelerate Video Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 10 &nbsp; 🔁 40 &nbsp; ♡ 249 &nbsp; 📊 13K</p>
 <p><a href="https://x.com/sep_is_heim/status/2101603192664740330">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robj3d3/status/2101786193709142049"><img src="https://pbs.twimg.com/amplify_video_thumb/2101776173856608256/img/iq1yGHJ-kJuhsel8.jpg" alt="Using Jev to Detect Slop in Your Own Posts · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 62 &nbsp; 🔁 9 &nbsp; ♡ 111 &nbsp; 📊 6.1K</p>
 <p><a href="https://x.com/robj3d3/status/2101786193709142049">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eridots/status/2101693617920188569"><img src="https://pbs.twimg.com/amplify_video_thumb/2101443127282110464/img/FK_vPT02tZMyhYrc.jpg" alt="Turning movie dialogue into tension charts with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 102</p>
 <p><a href="https://x.com/eridots/status/2101693617920188569">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/c_a_p_engineer/status/2101654721786479057"><img src="https://pbs.twimg.com/media/HSqT0G5bQAA8t5x?format=jpg&amp;name=900x900" alt="Explaining the trending Jev with a 4-panel comic · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
 <p><a href="https://x.com/c_a_p_engineer/status/2101654721786479057">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/megurosumi/status/2101657719392612542"><img src="https://pbs.twimg.com/amplify_video_thumb/2101657544326553600/img/8HOF2Jj2EbvNTGi2.jpg" alt="Language-driven 3D scene rearrangement with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
 <p><a href="https://x.com/megurosumi/status/2101657719392612542">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/megurosumi/status/2101658510891352421"><img src="https://pbs.twimg.com/amplify_video_thumb/2101658275737640960/img/Q31fUEtRb_rR2Sa6.jpg" alt="Building a 3D garden with GPT-6 Astra × Tripo × Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/megurosumi/status/2101658510891352421">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidbash/status/2101538783069962306"><img src="https://pbs.twimg.com/media/HSop7fIW0AEidAo?format=jpg&amp;name=medium" alt="Using Jev Instead of Long Text Generation · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/davidbash/status/2101538783069962306">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kojiohno/status/2101699100114837593"><img src="https://pbs.twimg.com/amplify_video_thumb/2101697307976806400/img/npI3DMm6L7Czm49s.jpg" alt="Experimenting with Jev for Semi-Real-Time Improvisation Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/kojiohno/status/2101699100114837593">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shields_pikes/status/2101640300917923978"><img src="https://pbs.twimg.com/amplify_video_thumb/2101628964737601536/img/exGx2jIdKKEgBa_w.jpg" alt="Building a Real-Time Lip-Sync Talking Face with Expression Changes Using Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/shields_pikes/status/2101640300917923978">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vcfgdev/status/2101698834774868250"><img src="https://pbs.twimg.com/amplify_video_thumb/2101698785269432320/img/UGXf9j7hipHrQztN.jpg" alt="Using Jev to pick the next record from the shelf · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/vcfgdev/status/2101698834774868250">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BurhanUsman/status/2101641842441732297"><img src="https://pbs.twimg.com/amplify_video_thumb/2101641468817338368/img/OTTt_P4JNL_duCAl.jpg" alt="Jev clipping: 90-min video clipped by topic in under 2 seconds for about 2 cents · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/BurhanUsman/status/2101641842441732297">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/crackalamoo/status/2101792189278019620"><img src="https://pbs.twimg.com/amplify_video_thumb/2101791975410475008/img/GkqI1JOTIGdZ4c5s.jpg" alt="Jev makes live music in real time · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/crackalamoo/status/2101792189278019620">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ArtiMindStudio/status/2101698597154849175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101117486720765952/img/YAZCcLaZMni06S9c.jpg" alt="Jev as a Creative Filter: Evaluating Assets to Drive Ad Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/ArtiMindStudio/status/2101698597154849175">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/grayscale_alpha/status/2101643108022911452"><img src="https://pbs.twimg.com/amplify_video_thumb/2101642693143347200/img/OrB3x4rw0mKvt4qa.jpg" alt="Building a PSYCHO-PASS-style Posting Tendency Visualizer with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/grayscale_alpha/status/2101643108022911452">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/frombit_jp/status/2101298040741253195"><img src="https://pbs.twimg.com/amplify_video_thumb/2101297718199250944/img/ZfHi6yxmGhGWvSPC.jpg" alt="Jev + AnimeActEngine Enables Near Real-Time Performance Generation from Text · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 235 &nbsp; ♡ 1.1K &nbsp; 📊 101K</p>
 <p><a href="https://x.com/frombit_jp/status/2101298040741253195">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/okinaaudio/status/2101156959546450049"><img src="https://pbs.twimg.com/amplify_video_thumb/2101156043439108096/img/SrsEJDvqLJQjjDsb.jpg" alt="Live Jev: Control Ableton Live with one sentence, ~40x faster than LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 25 &nbsp; 🔁 73 &nbsp; ♡ 534 &nbsp; 📊 97K</p>
 <p><a href="https://x.com/okinaaudio/status/2101156959546450049">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/unsu0707/status/2101249913099375058"><img src="https://pbs.twimg.com/amplify_video_thumb/2101248847444078592/img/mGFrlyfBgnJWT-p8.jpg" alt="Browser extension uses Jev to check if your X post sounds sensationalist or like an infomarketer · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 9 &nbsp; 🔁 213 &nbsp; ♡ 1.0K &nbsp; 📊 71K</p>
 <p><a href="https://x.com/unsu0707/status/2101249913099375058">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GeekCatX/status/2101223068580643172"><img src="https://pbs.twimg.com/amplify_video_thumb/2101222889106370561/img/A9uBa9gt7T8_bkKh.jpg" alt="Using Jev&#39;s Computer Use to Auto-Edit Ski Videos · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 25 &nbsp; 🔁 25 &nbsp; ♡ 192 &nbsp; 📊 47K</p>
 <p><a href="https://x.com/GeekCatX/status/2101223068580643172">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anshuc/status/2101040309522121072"><img src="https://pbs.twimg.com/amplify_video_thumb/2101037589088153600/img/MqwjYD3mH-8SL_3T.jpg" alt="Jevinci: Painting with Jev&#39;s Parallel Pixel Color Predictions · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 26 &nbsp; 🔁 72 &nbsp; ♡ 879 &nbsp; 📊 73K</p>
 <p><a href="https://x.com/anshuc/status/2101040309522121072">在 X 查看原帖</a> · <a href="https://t.co/8rO1mBA1D9">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/albicodes/status/2100720936852857271"><img src="https://pbs.twimg.com/amplify_video_thumb/2100720525739687936/img/2Kp3WYXT1muLjThU.jpg" alt="Building a Visual Reference Finder with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 19 &nbsp; 🔁 32 &nbsp; ♡ 708 &nbsp; 📊 50K</p>
 <p><a href="https://x.com/albicodes/status/2100720936852857271">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rrriviannn/status/2100281474943779254"><img src="https://pbs.twimg.com/amplify_video_thumb/2100277960834248704/img/LxLWxe47pdndX2xM.jpg" alt="User tests whether Jev can generate images · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,5 @@
 <p>💬 12 &nbsp; 🔁 9 &nbsp; ♡ 140 &nbsp; 📊 44K</p>
 <p><a href="https://x.com/rrriviannn/status/2100281474943779254">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 67 | 39 | 28 | 3.0M |
+| 71 | 42 | 29 | 3.0M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/0xhikae/status/2101890832605573405"><img src="https://pbs.twimg.com/media/HStqewdacAAMKzB?format=jpg&amp;name=medium" alt="Jev real-time prompt evaluation: agents auto-grill when ambiguous · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xhikae/status/2101890832605573405">Jev real-time prompt evaluation: agents auto-grill when ambiguous</a></h3>
+<p>Introduces Jev&#39;s real-time prompt evaluation: results are passed to the agent side, which automatically grills when the prompt is ambiguous.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 的实时提示词评估能力：评估结果会传给智能体侧，在提示词模糊时智能体自动进行追问。</p>
+<p><strong>hikae</strong> · @0xhikae · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 211</p>
+<p><a href="https://x.com/0xhikae/status/2101890832605573405">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291"><img src="https://pbs.twimg.com/media/HStGO8Ya0AAlDn9?format=jpg&amp;name=medium" alt="Jev: Adding a Judgment Cerebellum to Codex/Claude Code · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pprownets2023/status/2101851202095087977"><img src="https://pbs.twimg.com/media/HStGVaSaMAADey9?format=jpg&amp;name=medium" alt="Improve AI Agent Decision-Making with Jev Engineering · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/pprownets2023/status/2101851202095087977">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masaakiotadev/status/2101903851775521089"><img src="https://pbs.twimg.com/amplify_video_thumb/2101867409280049152/img/3kHkjCgJIRrY9dde.jpg" alt="Using Jev to decide when an LLM should respond for more natural chat · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/masaakiotadev/status/2101903851775521089">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BohuTANG/status/2101851735501537697"><img src="https://pbs.twimg.com/media/HStGU04aEAEQs84?format=jpg&amp;name=medium" alt="Top models with Jev periodically prune context noise · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,41 @@
 <p><strong>Bohu</strong> · @BohuTANG · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/BohuTANG/status/2101851735501537697">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ryo_hukugyo_pro/status/2101913899700510742"><img src="https://pbs.twimg.com/amplify_video_thumb/2101217182315360257/img/UzneIp_HvFwYCu69.jpg" alt="Mastering Jev Is Key to Mass-Producing Automated AI Employees · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ryo_hukugyo_pro/status/2101913899700510742">Mastering Jev Is Key to Mass-Producing Automated AI Employees</a></h3>
+<p>The post argues that mastering Jev is crucial for saving tokens and mass-producing automated AI employees.</p>
+<p><strong>中文摘要：</strong>帖子指出，能否用好 Jev 将直接影响 token 节省与自动化 AI 员工的批量生产，强调其重要性。</p>
+<p><strong>AIセラ｜Obsidian✖️クライアントワークを極めるエンジニア</strong> · @ryo_hukugyo_pro · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/ryo_hukugyo_pro/status/2101913899700510742">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heybackchannel/status/2101914744961585427"><img src="https://pbs.twimg.com/amplify_video_thumb/2100577954338373633/img/tbH43kHpUotE3hzK.jpg" alt="Building a Voice-Controlled Browser with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/heybackchannel/status/2101914744961585427">Building a Voice-Controlled Browser with Jev</a></h3>
+<p>A developer built a voice-controlled browser with Jev that predicts actions from partial speech, page state, and candidate elements before the user finishes speaking.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 构建语音控制浏览器，能在用户说完之前根据部分语音、页面状态和候选元素预测操作概率。</p>
+<p><strong>backchannel</strong> · @heybackchannel · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/heybackchannel/status/2101914744961585427">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nikhilraj__/status/2101917424107012448"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915607814033408/img/nPaGZoe9MO2UepYg.jpg" alt="Multi-agent rumor spreading simulation built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nikhilraj__/status/2101917424107012448">Multi-agent rumor spreading simulation built with Jev</a></h3>
+<p>A developer built a multi-agent simulation with Jev: whisper &quot;Free Coffee in cafe for next hour&quot; to one of 12 residents and watch the rumor drive them to the cafe.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 构建了一个多智能体模拟：向 12 位居民之一低语“咖啡馆免费咖啡一小时”，观察谣言如何让他们涌向咖啡馆。</p>
+<p><strong>Nikhil Raj</strong> · @nikhilraj__ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/nikhilraj__/status/2101917424107012448">在 X 查看原帖</a> · <a href="https://t.co/KsNhS9DG5U">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 40 | 37 | 3 | 904K |
+| 44 | 41 | 3 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gregoryovis/status/2101913439400554852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101912908342951936/img/z8SseM9PUx9pndZI.jpg" alt="Building a Real-Time LinkedIn Slop Detector with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gregoryovis/status/2101913439400554852">Building a Real-Time LinkedIn Slop Detector with Jev</a></h3>
+<p>A developer shares a real-time LinkedIn slop detector built with Jev.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Jev 构建的 LinkedIn 实时低质内容检测工具。</p>
+<p><strong>Greg</strong> · @gregoryovis · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/gregoryovis/status/2101913439400554852">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VaibhavSurge/status/2101909522914918852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101907930497036288/img/nm9MTw_W4ppSFs6s.jpg" alt="Jev in Action: Analyze Competitor Ads in Under a Minute · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VaibhavSurge/status/2101909522914918852">Jev in Action: Analyze Competitor Ads in Under a Minute</a></h3>
+<p>The post showcases Jev in action: input competitor creative tagging data already available on SurgeGrowth, and get competitor ad analysis output in under a minute. DM to get access.</p>
+<p><strong>中文摘要：</strong>帖子展示 Jev 的实际应用：输入 SurgeGrowth 上已有的竞品创意标签数据，不到一分钟即可输出竞品广告分析结果，并邀请私信获取访问权限。</p>
+<p><strong>Vaibhav Dusad</strong> · @VaibhavSurge · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/VaibhavSurge/status/2101909522914918852">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AshwiniNK21/status/2101913935805063443"><img src="https://pbs.twimg.com/amplify_video_thumb/2101913911943737344/img/5Ne3YkbLqyVKzVlR.jpg" alt="Cold Email Grader Built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AshwiniNK21/status/2101913935805063443">Cold Email Grader Built on Jev</a></h3>
+<p>The author built a small cold email grader with Jev that scores outbound messages against four checks and returns a typed verdict in under 500ms.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 构建了一个小型冷邮件评分工具，粘贴外发邮件后按四项检查评分，并在 500 毫秒内返回类型化判定。</p>
+<p><strong>Ashwini</strong> · @AshwiniNK21 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/AshwiniNK21/status/2101913935805063443">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/piyushnp/status/2101895078356869627"><img src="https://pbs.twimg.com/amplify_video_thumb/2101525120410083328/img/XQQLWw-MKYt5yvQ1.jpg" alt="Jev for GTM Engineers: Identifying Target Accounts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/piyushnp/status/2101895078356869627">Jev for GTM Engineers: Identifying Target Accounts</a></h3>
+<p>Introduces using Jev in GTM scenarios to help engineers identify target accounts worth pursuing.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 在 GTM 场景中的应用：帮助工程师识别值得跟进的目标客户账户。</p>
+<p><strong>Piyush Patel</strong> · @piyushnp · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/piyushnp/status/2101895078356869627">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Minsi_AI/status/2101851724000743852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101851338137276416/img/lIgeAbRLpVFUU5O4.jpg" alt="Jev analyzes 724 ads in 40 seconds with structured judgments · 原帖视频截图" width="100%"></a>

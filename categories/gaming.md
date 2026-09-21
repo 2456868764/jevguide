@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 113 | 98 | 16 | 588K |
+| 125 | 107 | 19 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/akihiro_genai/status/2101908942183899463"><img src="https://pbs.twimg.com/amplify_video_thumb/2101908669038563328/img/7AyApqLmCvS7v1lE.jpg" alt="Building a Talk-Show Game with Jev-Powered AI Audience · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akihiro_genai/status/2101908942183899463">Building a Talk-Show Game with Jev-Powered AI Audience</a></h3>
+<p>A developer integrated Jev into a game where four AI audience members with distinct personas react to a 60-second talk with laughter, confusion, boredom, or even leaving.</p>
+<p><strong>中文摘要：</strong>开发者将 Jev 集成到游戏中，让 4 位拥有不同人设的 AI 观众对 60 秒脱口秀做出笑、困惑、无聊或离场等反应。</p>
+<p><strong>中村彰宏 | 「Codexではじめるエージェンティックコーディング」共著</strong> · @akihiro_genai · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 143</p>
+<p><a href="https://x.com/akihiro_genai/status/2101908942183899463">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/t2aman1e/status/2101895813391876518"><img src="https://pbs.twimg.com/media/HStvB0fbkAAAGJd?format=jpg&amp;name=medium" alt="Stopping an AI (Jev) runaway in 3.9 seconds · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 137</p>
 <p><a href="https://x.com/t2aman1e/status/2101895813391876518">在 X 查看原帖</a> · <a href="https://t.co/7eIfwXdO4t">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
 <p><a href="https://x.com/loktar00/status/2101851403790512615">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AiWithBDN/status/2101902757573828982"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902729723674624/img/DckbSt_2ITupFrff.jpg" alt="Jev and Astra Beat Minecraft Ender Dragon in 8m 43s · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/AiWithBDN/status/2101902757573828982">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101895983202439248"><img src="https://pbs.twimg.com/media/HStvL9-awAAZzBi?format=jpg&amp;name=900x900" alt="Jev and Codex Team Up to Reach the Nether in Minecraft · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,54 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
 <p><a href="https://x.com/geeorgey/status/2101895983202439248">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/notf/status/2101915884663308796"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915195270705152/img/kjIWIfyIlvpPCwRj.jpg" alt="Jev Speeds Up Parameter Tuning in DreamCore Game Generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/notf/status/2101915884663308796">Jev Speeds Up Parameter Tuning in DreamCore Game Generation</a></h3>
+<p>A user reports that Jev makes parameter tuning in DreamCore game generation extremely fast, compared to nearly a minute for intent detection, code review, and code generation previously.</p>
+<p><strong>中文摘要：</strong>用户反馈 Jev 让 DreamCore 游戏生成中的参数调整变得极快，此前意图判定到代码生成需近一分钟。</p>
+<p><strong>ノトフ（川本龍）／DreamCore</strong> · @notf · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><a href="https://x.com/notf/status/2101915884663308796">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DAEBAK_100/status/2101909864792613107"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="AI Agents Jev and Astra Team Up to Beat Minecraft&#39;s Ender Dragon · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DAEBAK_100/status/2101909864792613107">AI Agents Jev and Astra Team Up to Beat Minecraft&#39;s Ender Dragon</a></h3>
+<p>AI agents Jev and Astra reportedly cooperated to defeat Minecraft&#39;s final boss, the Ender Dragon, in 8 minutes 43 seconds at a cost under $1.</p>
+<p><strong>中文摘要：</strong>据报道，AI 智能体 Jev 与 Astra 协作，在 8 分 43 秒内击败《我的世界》最终 Boss 末影龙，成本低于 1 美元。</p>
+<p><strong>돼박</strong> · @DAEBAK_100 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/DAEBAK_100/status/2101909864792613107">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AflGains/status/2101911297768280442"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911051977756672/img/3nO06Gtj5lX6lSiA.jpg" alt="Connecting Jev to an AFL Simulator for Experiments · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AflGains/status/2101911297768280442">Connecting Jev to an AFL Simulator for Experiments</a></h3>
+<p>A user connected Jev to an AFL simulator, found it underwhelming, but sees room for improvement via prompt refinement and looks forward to comparing Jev with other LLMs.</p>
+<p><strong>中文摘要：</strong>用户将 Jev 连接到 AFL 模拟器，发现效果一般，但认为通过优化提示词还有提升空间，并期待 Jev 与其他 LLM 的对比实验。</p>
+<p><strong>AflGains</strong> · @AflGains · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/AflGains/status/2101911297768280442">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/attrip/status/2101915424090996896"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915176920621056/img/FgDRxjkCNi7K4CPO.jpg" alt="Building an Othello Game with Jev Advice · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/attrip/status/2101915424090996896">Building an Othello Game with Jev Advice</a></h3>
+<p>The author shares building an Othello game with Jev&#39;s advice; following Jev alone didn&#39;t win, but the scored battles are fun.</p>
+<p><strong>中文摘要：</strong>作者分享在 Jev 建议下制作黑白棋游戏，仅靠遵循 Jev 无法获胜，但计分对战体验有趣。</p>
+<p><strong>attrip</strong> · @attrip · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/attrip/status/2101915424090996896">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/chetanankola/status/2101905824935518655"><img src="https://pbs.twimg.com/amplify_video_thumb/2101905179398598656/img/ijoqvkO9OEu7rs8h.jpg" alt="Browser Anime Skateboarding Project Adds Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +128,32 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/chetanankola/status/2101905824935518655">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Creaspan/status/2101907353830662145"><img src="https://pbs.twimg.com/media/HSt426dbEAE31PN?format=jpg&amp;name=medium" alt="Open-source chess game: play against Jev&#39;s System One agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Creaspan/status/2101907353830662145">Open-source chess game: play against Jev&#39;s System One agent</a></h3>
+<p>Developer CPPAlien released an open-source chess game where players can compete against TypeSafe&#39;s Jev (System One agent), with GitHub repo and live demo links.</p>
+<p><strong>中文摘要：</strong>开发者 CPPAlien 发布了一个开源国际象棋游戏，玩家可与 TypeSafe 的 Jev（System One 智能体）对弈，并附有 GitHub 仓库和在线试玩链接。</p>
+<p><strong>CPPAlien</strong> · @Creaspan · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Creaspan/status/2101907353830662145">在 X 查看原帖</a> · <a href="https://t.co/dPZJJAE0ME">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/geeorgey/status/2101913523140055173"><img src="https://pbs.twimg.com/media/HSt_GfvaoAAvQu6?format=jpg&amp;name=900x900" alt="Codex and Jev Collaborate to Build a 30-Block Bridge in Minecraft · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/geeorgey/status/2101913523140055173">Codex and Jev Collaborate to Build a 30-Block Bridge in Minecraft</a></h3>
+<p>After about 6 hours and 20 minutes, Codex decides the direction while Jev judges scaffolding step by step, building a 30-block bridge toward a black brick wall that may be a bastion.</p>
+<p><strong>中文摘要：</strong>经过约6小时20分，Codex 决定前进方向，Jev 逐步判断脚手架搭建，正架设30格桥梁接近疑似堡垒的黑色砖墙。</p>
+<p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/geeorgey/status/2101913523140055173">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/node_jz/status/2101869614170820861"><img src="https://pbs.twimg.com/amplify_video_thumb/2101869602783272960/img/ZbUzTjLlmVETq6vk.jpg" alt="Jev Loop Powers Combat and Map Decisions in Games · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +164,17 @@
 <p><strong>Jeremy</strong> · @node_jz · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/node_jz/status/2101869614170820861">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CodePolyglot/status/2101914735578943698"><img src="https://pbs.twimg.com/media/HSuALqlWwAA0kcP?format=jpg&amp;name=medium" alt="Coffee Under Fire: A Game with NPCs Powered by Jev AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CodePolyglot/status/2101914735578943698">Coffee Under Fire: A Game with NPCs Powered by Jev AI</a></h3>
+<p>A player scores points and delivers coffees in Coffee Under Fire, facing NPCs powered by Jev AI.</p>
+<p><strong>中文摘要：</strong>玩家在 Coffee Under Fire 中得分并送咖啡，挑战由 Jev AI 驱动的 NPC。</p>
+<p><strong>Josh Machado · The Polyglot Programmer</strong> · @CodePolyglot · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/CodePolyglot/status/2101914735578943698">在 X 查看原帖</a> · <a href="https://t.co/TasLeRD3KW">原文链接</a></p>
 </td>
 </tr>
 <tr>
@@ -92,6 +188,54 @@
 <p><strong>Shashank Jha</strong> · @theshajha · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/theshajha/status/2101905184704323969">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yukix2000/status/2101911998619656646"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911765873479680/img/RALU1R4lnnORQegy.jpg" alt="Idea of Integrating Jev Judgment-Only AI into Games with 2048 and Flappy Bird Spectator Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yukix2000/status/2101911998619656646">Idea of Integrating Jev Judgment-Only AI into Games with 2048 and Flappy Bird Spectator Demo</a></h3>
+<p>The author proposes embedding the judgment-only Jev AI into games and built a side-by-side spectator view of two bots playing 2048 and Flappy Bird, though Jev was never actually called: 2048 tries all moves and scores them, while Flappy Bird looks at the next gap to decide whether to fly or wait.</p>
+<p><strong>中文摘要：</strong>作者提出将只返回判断的 Jev AI 嵌入游戏，并制作了 2048 与 Flappy Bird 双 bot 并排观战画面，但实际并未调用 Jev：2048 尝试所有走法并打分，Flappy Bird 观察下一个缺口决定飞或等。</p>
+<p><strong>中平 裕貴</strong> · @yukix2000 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/yukix2000/status/2101911998619656646">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/attrip/status/2101917343597408451"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915176920621056/img/FgDRxjkCNi7K4CPO.jpg" alt="Othello Game with Jev Advice · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/attrip/status/2101917343597408451">Othello Game with Jev Advice</a></h3>
+<p>An Othello game where Jev gives advice, but Jev alone can&#39;t win; it&#39;s up to you to decide what to trust.</p>
+<p><strong>中文摘要：</strong>一个奥赛罗游戏，Jev 会提供建议，但仅靠 Jev 无法获胜，是否相信 Jev 由你决定。</p>
+<p><strong>attrip</strong> · @attrip · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/attrip/status/2101917343597408451">在 X 查看原帖</a> · <a href="https://t.co/gXtroUzODk">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shwetabjaj/status/2101914174553280639"><img src="https://pbs.twimg.com/amplify_video_thumb/2101914130341089280/img/7onODUxOENqZtU18.jpg" alt="Testing Jev&#39;s Decision Quality with Snake · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shwetabjaj/status/2101914174553280639">Testing Jev&#39;s Decision Quality with Snake</a></h3>
+<p>The author shares a fun Jev experiment: play Snake alone, with Jev, veto its moves, or race it, as a playful way to test decision quality and reliability.</p>
+<p><strong>中文摘要：</strong>作者分享一个有趣的 Jev 实验：在贪吃蛇中独自游玩、与 Jev 同玩、否决它的操作或与它竞速，以此检验决策质量与可靠性。</p>
+<p><strong>Coach Shweta Bajaj</strong> · @shwetabjaj · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/shwetabjaj/status/2101914174553280639">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AOga51748099/status/2101915903856370029"><img src="https://pbs.twimg.com/amplify_video_thumb/2101914321433600000/img/MZOZVM0Y3GWAQKUX.jpg" alt="Jev Soccer: Issuing Tactical Orders Instead of Directly Controlling Players · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AOga51748099/status/2101915903856370029">Jev Soccer: Issuing Tactical Orders Instead of Directly Controlling Players</a></h3>
+<p>In a soccer scenario, Jev does not directly control players but issues team-wide orders like &quot;WIDE ATTACK&quot; and individual instructions, with each player displaying the received order above their head.</p>
+<p><strong>中文摘要：</strong>Jev 在足球场景中不直接操控球员，而是发出「WIDE ATTACK」等整体战术和针对单个球员的指令，球员头顶会显示收到的指示内容。</p>
+<p><strong>A.Oga</strong> · @AOga51748099 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/AOga51748099/status/2101915903856370029">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101675124747338229"><img src="https://pbs.twimg.com/amplify_video_thumb/2101666395239182336/img/wvATzQcIrkDYZos1.jpg" alt="Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison · 原帖视频截图" width="100%"></a>

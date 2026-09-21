@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 31 | 20 | 11 | 235K |
+| 39 | 24 | 15 | 235K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,67 @@
 <p><a href="https://x.com/SakaneBTC/status/2101902015194636573">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/makaneko_AI/status/2101909643094380991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Semantic In-Page Search with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/makaneko_AI/status/2101909643094380991">Semantic In-Page Search with Jev</a></h3>
+<p>A user shares a new in-page search (⌘F) built with Jev that retrieves results by meaning even without exact text matches, and feels nearly real-time.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 实现的新页面内搜索（⌘F），即使输入文字不完全匹配也能按语义检索，且几乎实时。</p>
+<p><strong>まかねこ| AIに働かせる技術</strong> · @makaneko_AI · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 514</p>
+<p><a href="https://x.com/makaneko_AI/status/2101909643094380991">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mossy2026/status/2101909618696052886"><img src="https://pbs.twimg.com/amplify_video_thumb/2101909512865374208/img/zFVAyHo_4QlovkgG.jpg" alt="Jev asks: How do you spot AI slop? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mossy2026/status/2101909618696052886">Jev asks: How do you spot AI slop?</a></h3>
+<p>Jev raises a question about spotting low-quality AI-generated content, sparking discussion on judging AI content quality.</p>
+<p><strong>中文摘要：</strong>Jev 提出关于识别 AI 生成低质量内容的问题，引发对 AI 内容质量判断的讨论。</p>
+<p><strong>Mossy</strong> · @mossy2026 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 227</p>
+<p><a href="https://x.com/mossy2026/status/2101909618696052886">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yaohui12138/status/2101912940882678154"><img src="https://pbs.twimg.com/amplify_video_thumb/2101535990846509056/img/hoBZPL8d08Ba7aPw.jpg" alt="A Beginner&#39;s Guide to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yaohui12138/status/2101912940882678154">A Beginner&#39;s Guide to Jev</a></h3>
+<p>A beginner-friendly article on Jev that explains what it is, why it emerged, how to apply it, and how to tell hype from substance.</p>
+<p><strong>中文摘要：</strong>一篇面向小白的 Jev 入门文章，讲解 Jev 是什么、为何产生、如何应用，并帮助判断相关炒作。</p>
+<p><strong>超级个体｜柿子</strong> · @yaohui12138 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 156</p>
+<p><a href="https://x.com/yaohui12138/status/2101912940882678154">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zainhas/status/2101915703192506805"><img src="https://pbs.twimg.com/media/HSuBMVJacAESiMn?format=jpg&amp;name=medium" alt="Jev works well as a top-k reranker · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zainhas/status/2101915703192506805">Jev works well as a top-k reranker</a></h3>
+<p>User reports Jev works very well as a top-k reranker, reaching Luna level at k=200.</p>
+<p><strong>中文摘要：</strong>用户反馈 Jev 作为 top-k 重排序器效果很好，在 k=200 时达到 Luna 级别。</p>
+<p><strong>Zain</strong> · @zainhas · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 70</p>
+<p><a href="https://x.com/zainhas/status/2101915703192506805">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LeahW_2077/status/2101894926250168654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101890480606674944/img/JdPCHOnBidP_XbQN.jpg" alt="Ranking NYC Places with Jev Based on Google Maps History · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LeahW_2077/status/2101894926250168654">Ranking NYC Places with Jev Based on Google Maps History</a></h3>
+<p>The author built a Karpo experiment with Jev that learns from Google Maps history to rank 1,253 NYC places by personal taste.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 做了一个 Karpo 实验，从 Google Maps 历史学习偏好，对 1,253 个纽约地点进行个性化排序。</p>
+<p><strong>LeahW</strong> · @LeahW_2077 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 52</p>
+<p><a href="https://x.com/LeahW_2077/status/2101894926250168654">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101902991942930743"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a Knowledge Base with Jev: A Second Brain · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/Threeaio/status/2101902991942930743">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/snaga/status/2101901648184643707"><img src="https://pbs.twimg.com/media/HSt0LTabQAAACdr?format=jpg&amp;name=medium" alt="Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev) · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/snaga/status/2101901648184643707">在 X 查看原帖</a> · <a href="https://t.co/ndZVcLZOXJ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101904594494181513"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a retrieval pipeline for a knowledge base with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +116,41 @@
 <p><strong>Nikolaj Sokolowski</strong> · @Threeaio · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/Threeaio/status/2101904594494181513">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2101914135151694185"><img src="https://pbs.twimg.com/media/HSt_wkRa4AADOA1?format=jpg&amp;name=medium" alt="JevBench v1.2.6 Leaderboard Update · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2101914135151694185">JevBench v1.2.6 Leaderboard Update</a></h3>
+<p>JevBench v1.2.6 is live: Jev leads at 75.4, followed by SemIf at 74.7 and djev at 74.3, with new entrants openJev Verdict 1.4 and SimpleJev models also ranking.</p>
+<p><strong>中文摘要：</strong>JevBench v1.2.6 发布，Jev 以 75.4 居首，SemIf 74.7、djev 74.3 紧随其后；新入榜的 openJev Verdict 1.4 与 SimpleJev 系列也进入排名。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/airesearch12/status/2101914135151694185">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sunyuzheng/status/2101913251277848996"><img src="https://pbs.twimg.com/media/HSt-2qfagAAmuim?format=png&amp;name=medium" alt="Jev and the AI Narrative Trap: Getting Outside the Frame · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sunyuzheng/status/2101913251277848996">Jev and the AI Narrative Trap: Getting Outside the Frame</a></h3>
+<p>The author uses Jev as a case study to discuss how AI launches can win fairly by choosing the question, metric, and competitors, yet still accept the wrong frame.</p>
+<p><strong>中文摘要：</strong>作者以 Jev 为例，讨论 AI 发布如何通过选择问题、指标和竞争对手来赢得公平，但可能仍接受错误框架。</p>
+<p><strong>YZ | 立正</strong> · @sunyuzheng · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/sunyuzheng/status/2101913251277848996">在 X 查看原帖</a> · <a href="https://t.co/1bb9oZ34Yn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kamepee_7/status/2101915912698032535"><img src="https://pbs.twimg.com/media/HSuAAt8b0AEGHSu?format=jpg&amp;name=small" alt="AI Community Buzzing About Jev, Author Explores Its Applications via Learning Mode · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kamepee_7/status/2101915912698032535">AI Community Buzzing About Jev, Author Explores Its Applications via Learning Mode</a></h3>
+<p>The author notes the AI community is buzzing about Jev, is using AI learning modes to understand it, and sees many promising applications worth exploring.</p>
+<p><strong>中文摘要：</strong>作者表示AI圈正在热议Jev，自己正借助AI学习模式来理解它，并认为Jev有多种应用可能，值得探索。</p>
+<p><strong>タートルヴィレッジ</strong> · @kamepee_7 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/kamepee_7/status/2101915912698032535">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 129 | 67 | 62 | 1.6M |
+| 135 | 71 | 64 | 1.6M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/paulocoutinhox/status/2101907221927878731"><img src="https://pbs.twimg.com/media/HSt5dDKXkAEf7K4?format=jpg&amp;name=medium" alt="JEV Model: Evaluating States to Produce Structured Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/paulocoutinhox/status/2101907221927878731">JEV Model: Evaluating States to Produce Structured Decisions</a></h3>
+<p>JEV evaluates states and outputs structured decisions instead of relying on sequential token generation, aiming to let AI decide without long text.</p>
+<p><strong>中文摘要：</strong>JEV 不依赖顺序 token 生成，而是评估状态并输出结构化决策，旨在让 AI 无需长篇文本即可做出判断。</p>
+<p><strong>Paulo Coutinho  🇧🇷</strong> · @paulocoutinhox · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/paulocoutinhox/status/2101907221927878731">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AIinPeak/status/2101909946447364489"><img src="https://pbs.twimg.com/media/HSt78vJbEAAIDT_?format=jpg&amp;name=medium" alt="Jev isn&#39;t a cheaper GPT — it turns AI from conversation into function · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIinPeak/status/2101909946447364489">Jev isn&#39;t a cheaper GPT — it turns AI from conversation into function</a></h3>
+<p>The post argues Jev isn&#39;t a cheaper GPT but turns AI from conversation into function: chat models create options, decision models collapse them, and products need a yes with a confidence score.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 不是更便宜的 GPT，而是让 AI 从对话变为函数；聊天模型创造选项，决策模型收敛选项，产品需要的是带置信度的肯定答案。</p>
+<p><strong>Alter vortex</strong> · @AIinPeak · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/AIinPeak/status/2101909946447364489">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/danizhu/status/2101906206306496792"><img src="https://pbs.twimg.com/amplify_video_thumb/2101393592065421313/img/nYIybMu1kFDVqATI.jpg" alt="How to Evaluate Jev&#39;s Accuracy · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -94,6 +118,30 @@
 <p><a href="https://x.com/danizhu/status/2101906206306496792">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/MartinSzerment/status/2101915554839671021"><img src="https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg" alt="TypeSafe AI&#39;s Jev: Decisions as yes/no, choices, or scores instead of text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MartinSzerment/status/2101915554839671021">TypeSafe AI&#39;s Jev: Decisions as yes/no, choices, or scores instead of text</a></h3>
+<p>Introduces TypeSafe AI&#39;s Jev model: it generates no words, returning yes/no, a choice, or a score with probabilities in 70–500 ms at $0.042 per million.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 的 Jev 模型：不生成文字，而是直接返回是/否、选择或带概率的分数，延迟 70 至 500 毫秒，价格每百万次 0.042 美元。</p>
+<p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/MartinSzerment/status/2101915554839671021">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hazemomier/status/2101907504733040969"><img src="https://pbs.twimg.com/amplify_video_thumb/2101885207716474880/img/ndbx4dpA8M2NRlsJ.jpg" alt="Jev loads skills on demand to keep context clean · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hazemomier/status/2101907504733040969">Jev loads skills on demand to keep context clean</a></h3>
+<p>The post suggests letting Jev classify which skills to load per request, keeping the skill inventory outside the context window so irrelevant content doesn&#39;t occupy the session.</p>
+<p><strong>中文摘要：</strong>帖子指出让 Jev 按请求分类加载技能，使技能清单留在上下文窗口之外，从而避免上下文被无关内容占据。</p>
+<p><strong>Hazem Omier</strong> · @hazemomier · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/hazemomier/status/2101907504733040969">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/BinodOfficial/status/2101905514485743842"><img src="https://pbs.twimg.com/media/HSt339qaYAAAYu5?format=jpg&amp;name=medium" alt="Do AI Agents Need an LLM for Every Decision? Examining the Jev Architecture · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -103,6 +151,30 @@
 <p><strong>Binod Kumar</strong> · @BinodOfficial · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/BinodOfficial/status/2101905514485743842">在 X 查看原帖</a> · <a href="https://t.co/oR6hf8Lt4M">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LoquaAI/status/2101915088328499617"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="The Real Unlock of Jev: Voice Straight to Intent and Action · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LoquaAI/status/2101915088328499617">The Real Unlock of Jev: Voice Straight to Intent and Action</a></h3>
+<p>The value of Jev isn&#39;t faster AI, but that AI doesn&#39;t need to generate text for every micro-decision. The same applies to voice: no need to force everything through a transcript first—sometimes you just want voice → intent → action.</p>
+<p><strong>中文摘要：</strong>Jev 的价值不在于更快的 AI，而在于 AI 无需为每个微决策生成文本。语音场景同样如此：不必先转写成文字，可以直接从语音到意图再到行动。</p>
+<p><strong>Loqua.AI</strong> · @LoquaAI · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/LoquaAI/status/2101915088328499617">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/krzysztoffduda/status/2101914990911312078"><img src="https://pbs.twimg.com/amplify_video_thumb/2101914960724975616/img/llOmJoVkZ0uJEkbv.jpg" alt="How Jev Composes and Manipulates UI in Real Time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/krzysztoffduda/status/2101914990911312078">How Jev Composes and Manipulates UI in Real Time</a></h3>
+<p>Jev takes one line of text and answers nine closed questions (era, glowing or reflective, colour, typeface, wear, density, mood, layout, scene), then scores fifteen dials against those answers in a second call, with no LLM in the loop.</p>
+<p><strong>中文摘要：</strong>Jev 接收一行文本，回答九个封闭问题（时代、发光或反光、颜色、字体、磨损、密度、情绪、布局、场景），再通过第二次调用对十五个参数进行评分，全程无需 LLM。</p>
+<p><strong>Krzysztof Duda</strong> · @krzysztoffduda · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/krzysztoffduda/status/2101914990911312078">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

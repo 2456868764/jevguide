@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 24 | 13 | 11 | 392K |
+| 26 | 15 | 11 | 392K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Praveen Sundar</strong> · @USPraveenRaj1 · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/USPraveenRaj1/status/2101901177151521063">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/benchmarkheaven/status/2101916327174615057"><img src="https://pbs.twimg.com/amplify_video_thumb/2101916288767676416/img/xwARHQkhQCmr0Uo_.jpg" alt="JevBench v1.2.6 Update: Three New Model Rows Added · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/benchmarkheaven/status/2101916327174615057">JevBench v1.2.6 Update: Three New Model Rows Added</a></h3>
+<p>JevBench v1.2.6 is live with three new rows: openJev Verdict 1.4, SimpleJev Qwen3.8-27B, and SimpleJev Qwen3.6-35B-A3B, evaluated on the same frozen 534 decisions.</p>
+<p><strong>中文摘要：</strong>JevBench v1.2.6 发布，新增 openJev Verdict 1.4、SimpleJev Qwen3.8-27B 和 SimpleJev Qwen3.6-35B-A3B 三行评测结果，基于同一组 534 个冻结决策。</p>
+<p><strong>Benchmark Heaven</strong> · @benchmarkheaven · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/benchmarkheaven/status/2101916327174615057">在 X 查看原帖</a> · <a href="https://t.co/8qFEDUudxQ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jacintofleta/status/2101915138735399147"><img src="https://pbs.twimg.com/amplify_video_thumb/2101913500289249280/img/kUB3YXqXuhhf_SLG.jpg" alt="Building a Country Ranker with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jacintofleta/status/2101915138735399147">Building a Country Ranker with Jev</a></h3>
+<p>User shares using Jev to build a country ranker.</p>
+<p><strong>中文摘要：</strong>用户分享将 Jev 用于国家排名的实践。</p>
+<p><strong>Jacin 🏴‍☠️</strong> · @jacintofleta · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/jacintofleta/status/2101915138735399147">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

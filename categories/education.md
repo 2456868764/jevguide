@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 4 | 2 | 3 | 29K |
+| 5 | 3 | 4 | 29K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/riyu__li/status/2101895097344561196"><img src="https://pbs.twimg.com/amplify_video_thumb/2101893753292365824/img/ELrTpl9rAOuleTEO.jpg" alt="Building a Prototype with TypeSafe AI Jev and Dify to Classify Preschool Teachers&#39; Verbal Cues · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/riyu__li/status/2101895097344561196">Building a Prototype with TypeSafe AI Jev and Dify to Classify Preschool Teachers&#39; Verbal Cues</a></h3>
+<p>The author built a small prototype with TypeSafe AI Jev and Dify to classify preschool teachers&#39; verbal cues, aiming to help teachers reflect on their language use rather than score them.</p>
+<p><strong>中文摘要：</strong>作者用 TypeSafe AI Jev 与 Dify 搭建了一个小型原型，用于对保育员的“声かけ”进行分类，目的是帮助教师回顾自己的语言引导，而非给教师打分。</p>
+<p><strong>りゆ</strong> · @riyu__li · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 96</p>
+<p><a href="https://x.com/riyu__li/status/2101895097344561196">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916"><img src="https://pbs.twimg.com/amplify_video_thumb/2101630019420450816/img/tNWor6QkfAlKtRXS.jpg" alt="Jev Hackathon: Solving the School Handout Problem with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 784</p>
 <p><a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/debianmaster/status/2101501810917658763"><img src="https://pbs.twimg.com/media/HSoIq7EXsAAkvju?format=jpg&amp;name=medium" alt="Experiment with Jev and Chirp-3 for Kids · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 153</p>
 <p><a href="https://x.com/debianmaster/status/2101501810917658763">在 X 查看原帖</a> · <a href="https://t.co/7dUCUBDtxK">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuInada2/status/2101451019284820098"><img src="https://pbs.twimg.com/amplify_video_thumb/2101450572503425024/img/Xlrzew9HYjBzoWJr.jpg" alt="Building a Real-Time Class Opinion Classifier with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 5 &nbsp; 🔁 34 &nbsp; ♡ 246 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/YuInada2/status/2101451019284820098">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robpenner/status/2100790139123274188"><img src="https://pbs.twimg.com/media/HSeAb-DXEAErCLG?format=jpg&amp;name=medium" alt="Jev AI described as a non-verbal savant focused on exams · 原帖图片" width="100%"></a>
 <br>
@@ -56,5 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 395</p>
 <p><a href="https://x.com/robpenner/status/2100790139123274188">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

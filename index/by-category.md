@@ -1,18 +1,18 @@
 # Jev Showcases by Category
 
-- [Developer tools](../categories/developer-tools.md) — 151
-- [How it works](../categories/how-it-works.md) — 147
-- [Access updates](../categories/access-updates.md) — 147
-- [Gaming](../categories/gaming.md) — 131
+- [How it works](../categories/how-it-works.md) — 153
+- [Developer tools](../categories/developer-tools.md) — 153
+- [Access updates](../categories/access-updates.md) — 152
+- [Gaming](../categories/gaming.md) — 133
+- [Launch news](../categories/launch-news.md) — 83
 - [Agents](../categories/agents.md) — 82
-- [Launch news](../categories/launch-news.md) — 80
-- [Developer resources](../categories/developer-resources.md) — 75
-- [Community builds](../categories/community-builds.md) — 69
-- [Finance](../categories/finance.md) — 57
-- [Marketing](../categories/marketing.md) — 46
-- [Workflow automation](../categories/workflow-automation.md) — 43
-- [Knowledge & search](../categories/knowledge-search.md) — 41
-- [Data analytics](../categories/data-analytics.md) — 29
+- [Developer resources](../categories/developer-resources.md) — 77
+- [Community builds](../categories/community-builds.md) — 74
+- [Finance](../categories/finance.md) — 58
+- [Marketing](../categories/marketing.md) — 47
+- [Workflow automation](../categories/workflow-automation.md) — 44
+- [Knowledge & search](../categories/knowledge-search.md) — 43
+- [Data analytics](../categories/data-analytics.md) — 31
 - [Content creation](../categories/content-creation.md) — 26
 - [Robotics](../categories/robotics.md) — 17
 - [Customer support](../categories/customer-support.md) — 12

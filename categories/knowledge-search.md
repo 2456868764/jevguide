@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 41 | 26 | 15 | 235K |
+| 43 | 27 | 16 | 235K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/yaohui12138/status/2101912940882678154">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Pluvio9yte/status/2101951949755347284"><img src="https://pbs.twimg.com/media/HSuiKNebgAAp4JU?format=jpg&amp;name=medium" alt="Optimizing Evidence Sources with Jev: Extracting Citations and Calling jev-1.13.0 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Pluvio9yte/status/2101951949755347284">Optimizing Evidence Sources with Jev: Extracting Citations and Calling jev-1.13.0</a></h3>
+<p>Sharing how to continue optimizing evidence sources with Jev after receiving Kooko&#39;s full deliverable: extract key citations from the report into four elements—conclusion, source title and date, URL, and quoted excerpt—then call jev-1.13.0 separately.</p>
+<p><strong>中文摘要：</strong>分享在拿到 Kooko 交付的完整文件后，如何用 Jev 继续优化证据源：从报告抽取关键引用，规整为结论、来源标题与日期、URL、原文摘句四项，再单独调用 jev-1.13.0。</p>
+<p><strong>雪踏乌云</strong> · @Pluvio9yte · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 82</p>
+<p><a href="https://x.com/Pluvio9yte/status/2101951949755347284">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/zainhas/status/2101915703192506805"><img src="https://pbs.twimg.com/media/HSuBMVJacAESiMn?format=jpg&amp;name=medium" alt="Jev works well as a top-k reranker · 原帖图片" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖图片</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 70</p>
 <p><a href="https://x.com/zainhas/status/2101915703192506805">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LeahW_2077/status/2101894926250168654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101890480606674944/img/JdPCHOnBidP_XbQN.jpg" alt="Ranking NYC Places with Jev Based on Google Maps History · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 52</p>
 <p><a href="https://x.com/LeahW_2077/status/2101894926250168654">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101902991942930743"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a Knowledge Base with Jev: A Second Brain · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/Threeaio/status/2101902991942930743">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/snaga/status/2101901648184643707"><img src="https://pbs.twimg.com/media/HSt0LTabQAAACdr?format=jpg&amp;name=medium" alt="Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev) · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/snaga/status/2101901648184643707">在 X 查看原帖</a> · <a href="https://t.co/ndZVcLZOXJ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101904594494181513"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a retrieval pipeline for a knowledge base with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/Threeaio/status/2101904594494181513">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2101914135151694185"><img src="https://pbs.twimg.com/media/HSt_wkRa4AADOA1?format=jpg&amp;name=medium" alt="JevBench v1.2.6 Leaderboard Update · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/airesearch12/status/2101914135151694185">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sunyuzheng/status/2101913251277848996"><img src="https://pbs.twimg.com/media/HSt-2qfagAAmuim?format=png&amp;name=medium" alt="Jev and the AI Narrative Trap: Getting Outside the Frame · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +164,17 @@
 <p><strong>YZ | 立正</strong> · @sunyuzheng · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/sunyuzheng/status/2101913251277848996">在 X 查看原帖</a> · <a href="https://t.co/1bb9oZ34Yn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Deeprenuer/status/2101952697565872608"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Learn about Jev from the founder himself · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Deeprenuer/status/2101952697565872608">Learn about Jev from the founder himself</a></h3>
+<p>The post directs users to learn about the Jev model from the founder himself.</p>
+<p><strong>中文摘要：</strong>帖子引导用户从创始人本人处了解 Jev 模型。</p>
+<p><strong>Deep B</strong> · @Deeprenuer · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Deeprenuer/status/2101952697565872608">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

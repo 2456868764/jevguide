@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 75 | 37 | 38 | 419K |
+| 77 | 37 | 40 | 419K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/nanomix_chip/status/2101944158269350078">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/kishi27/status/2101952455177277748"><img src="https://pbs.twimg.com/media/HSuiDYobIAAQyur?format=jpg&amp;name=medium" alt="New Book &#39;Introduction to Jev&#39; Released: Receiving AI Judgments in Fixed Patterns · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kishi27/status/2101952455177277748">New Book &#39;Introduction to Jev&#39; Released: Receiving AI Judgments in Fixed Patterns</a></h3>
+<p>The author released &#39;Introduction to Jev&#39; on Kindle, explaining how to receive AI judgments in fixed patterns and integrate them into programs, including minimal code and design patterns for implementing safety gates in AI agents. Available on Kindle Unlimited.</p>
+<p><strong>中文摘要：</strong>作者在Kindle上发布了《Jev入门》，讲解如何用固定模式接收AI的判断并集成到程序中，包含为AI智能体实现安全门的最小代码和设计模式，可在Kindle Unlimited阅读。</p>
+<p><strong>kishi27 ＠ 実践AIエージェント</strong> · @kishi27 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/kishi27/status/2101952455177277748">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101897493088756175"><img src="https://pbs.twimg.com/media/HStwoQAWEAANCWo?format=jpg&amp;name=900x900" alt="Jev Use Cases and Demos Collection · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/kraayenJon/status/2101897493088756175">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arash_khajelou/status/2101895891494088713"><img src="https://pbs.twimg.com/media/HStvDxobMAA_E2d?format=png&amp;name=900x900" alt="Jev AI Quiz Entry Experience · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>Arash Khajelou</strong> · @arash_khajelou · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/arash_khajelou/status/2101895891494088713">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vintuxai/status/2101950741724160129"><img src="https://pbs.twimg.com/media/HSugv5TW8AE8W9S?format=png&amp;name=medium" alt="slop-grader: A Jev-AI CLI Tool for Text Auditing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintuxai/status/2101950741724160129">slop-grader: A Jev-AI CLI Tool for Text Auditing</a></h3>
+<p>Vintuxai introduces slop-grader, a Jev-AI CLI tool that audits text against custom rulesets to help users control low-quality AI output.</p>
+<p><strong>中文摘要：</strong>Vintuxai 推出 slop-grader，一款 Jev-AI 命令行工具，可按自定义规则集审计文本，帮助用户控制低质量 AI 输出。</p>
+<p><strong>Vintuxai</strong> · @vintuxai · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/vintuxai/status/2101950741724160129">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101915137116639354"><img src="https://pbs.twimg.com/media/HSuAimZawAAfO-Z?format=jpg&amp;name=medium" alt="KaLM-Jev Open Source: Local Three-Mode Structured Judgment Service · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 131 | 110 | 23 | 588K |
+| 133 | 111 | 24 | 588K |
 
 ## Showcase 卡片
 
@@ -79,6 +79,30 @@
 <p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
 <p><a href="https://x.com/geeorgey/status/2101895983202439248">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sidodtv/status/2101951519373574597"><img src="https://pbs.twimg.com/media/HSuhbq5aMAAOqac?format=jpg&amp;name=medium" alt="Ultra-fast futsal simulator built with Jev and Laya · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sidodtv/status/2101951519373574597">Ultra-fast futsal simulator built with Jev and Laya</a></h3>
+<p>At the Generative AI Anything Exhibition Vol.6 on September 23, the circle &quot;Tahito House&quot; will showcase an ultra-fast futsal simulator built with Jev and Laya at Hamamatsucho I-12.</p>
+<p><strong>中文摘要：</strong>在9月23日举办的生成AIなんでも展示会 Vol.6上，社团「他人ハウス」将展示使用Jev和Laya制作的超高速五人制足球模拟器，地点为滨松町I-12。</p>
+<p><strong>内田勉 DirecTune.app β公開中</strong> · @sidodtv · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 60</p>
+<p><a href="https://x.com/sidodtv/status/2101951519373574597">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/notef_fn/status/2101949849273053335"><img src="https://pbs.twimg.com/amplify_video_thumb/2101949795422375936/img/0ROtyxvgLbc_8nvY.jpg" alt="Testing Automated Gameplay with Jev and Local SAM · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/notef_fn/status/2101949849273053335">Testing Automated Gameplay with Jev and Local SAM</a></h3>
+<p>Testing automated gameplay with Jev and a local SAM: SAM converts visual information into JSON, and Jev decides the next action.</p>
+<p><strong>中文摘要：</strong>使用 Jev 和本地 SAM 测试自动化游戏玩法：SAM 将视觉信息转为 JSON，Jev 据此决定下一步行动。</p>
+<p><strong>Notef / NEIGHBOR CEO</strong> · @notef_fn · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/notef_fn/status/2101949849273053335">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

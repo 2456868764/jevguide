@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 29 | 16 | 13 | 392K |
+| 31 | 17 | 14 | 392K |
 
 ## Showcase 卡片
 
@@ -68,6 +68,30 @@
 <p><strong>Praveen Sundar</strong> · @USPraveenRaj1 · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/USPraveenRaj1/status/2101901177151521063">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shwetabjaj/status/2101949550827360294"><img src="https://pbs.twimg.com/amplify_video_thumb/2101949501330300928/img/kwQ3oAMjcPwf9Ip_.jpg" alt="Jev Analyzes 100 Popular Apps in 12 Seconds to Surface Product Strategy Patterns · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shwetabjaj/status/2101949550827360294">Jev Analyzes 100 Popular Apps in 12 Seconds to Surface Product Strategy Patterns</a></h3>
+<p>The post notes that Jev analyzed 100 popular apps in 12 seconds, highlighting how AI can quickly turn large volumes of product data into strategic patterns around distribution, design, irreplaceability, and competitive position.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 在 12 秒内分析了 100 款热门应用，强调 AI 能快速将海量产品数据转化为分发、设计、不可替代性和竞争定位等战略模式。</p>
+<p><strong>Coach Shweta Bajaj</strong> · @shwetabjaj · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/shwetabjaj/status/2101949550827360294">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kgsbl/status/2101951495541547363"><img src="https://pbs.twimg.com/media/HSuhu1IbYAAQSij?format=jpg&amp;name=medium" alt="Jev vs Gemini 3.5 flash-lite comparison test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kgsbl/status/2101951495541547363">Jev vs Gemini 3.5 flash-lite comparison test</a></h3>
+<p>The author compares Jev with Gemini 3.5 flash-lite, noting the sample size is small but Jev appears to have advantages beyond cost.</p>
+<p><strong>中文摘要：</strong>作者将 Jev 与 Gemini 3.5 flash-lite 进行对比测试，指出样本量较少，但发现 Jev 除价格外似乎也具优势。</p>
+<p><strong>おこげちゃん</strong> · @kgsbl · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/kgsbl/status/2101951495541547363">在 X 查看原帖</a> · <a href="https://t.co/WLbrrYOSdn">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2101916327174615057"><img src="https://pbs.twimg.com/amplify_video_thumb/2101916288767676416/img/xwARHQkhQCmr0Uo_.jpg" alt="JevBench v1.2.6 Update: Three New Model Rows Added · 原帖视频截图" width="100%"></a>

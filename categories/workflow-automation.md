@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 41 | 31 | 10 | 595K |
+| 43 | 33 | 10 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2101940744202424479"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706250090319872/img/h92BN1ENdExQGPy6.jpg" alt="Turn JEV into an Autopilot Business · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2101940744202424479">Turn JEV into an Autopilot Business</a></h3>
+<p>Use JEV&#39;s fast decisions for instant pricing, sell the same system to bigger businesses, add monthly fees, and run it 24/7 with Hermes or Grok Bot.</p>
+<p><strong>中文摘要：</strong>利用 JEV 的快速决策实现即时定价，将同一系统销售给更大企业，增加月费，并通过 Hermes 或 Grok Bot 全天候运行。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 16 &nbsp; 📊 30K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2101940744202424479">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JulianGoldieSEO/status/2101941761694450078"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941540382023680/img/rWg1RQAfKO8Dbh0c.jpg" alt="First Jev AI Builds: A Decision-Only Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JulianGoldieSEO/status/2101941761694450078">First Jev AI Builds: A Decision-Only Model</a></h3>
+<p>The Jev AI model doesn&#39;t generate text; it only picks from options in a tenth of a second and reports confidence. Week-one builds include a self-sorting inbox handling 500 emails in seconds for 3.5 cents.</p>
+<p><strong>中文摘要：</strong>Jev AI 模型不生成文字，只从选项中快速决策并给出置信度。首周应用包括自动分类收件箱，数秒处理 500 封邮件，成本 3.5 美分。</p>
+<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 608</p>
+<p><a href="https://x.com/JulianGoldieSEO/status/2101941761694450078">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101914814322995557"><img src="https://pbs.twimg.com/media/HSuAYRdbcAARIJ5?format=png&amp;name=small" alt="Jev AI sorts your follow-up list so nothing slips through · 原帖图片" width="100%"></a>

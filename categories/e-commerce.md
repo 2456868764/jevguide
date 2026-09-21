@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 5 | 5 | 0 | 231K |
+| 7 | 7 | 0 | 231K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hajimimt/status/2101940709796536365"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Building a Chrome Extension with Jev: Flagging Non-Double-Weekend Products on E-commerce Sites · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hajimimt/status/2101940709796536365">Building a Chrome Extension with Jev: Flagging Non-Double-Weekend Products on E-commerce Sites</a></h3>
+<p>The author built a Chrome extension with Jev that flags suspected non-double-weekend products with a PASS mark while browsing e-commerce sites like Taobao and JD.com, with a real screen recording and open-source code.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 开发了一款 Chrome 插件，在淘宝、京东等电商平台浏览时，对疑似非双休商品直接显示 PASS 标记，并附有真实录屏，项目独立开源。</p>
+<p><strong>Ccgh Ggh</strong> · @hajimimt · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
+<p><a href="https://x.com/hajimimt/status/2101940709796536365">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hajimimt/status/2101953350837391685"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hajimimt/status/2101953350837391685">Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies</a></h3>
+<p>The author open-sourced a Jev-based shopping tool supporting Taobao and JD.com, using Jev to determine whether a product&#39;s company offers weekends off and filtering out those that don&#39;t.</p>
+<p><strong>中文摘要：</strong>作者开源了一个以 Jev 为核心的双休购物工具，支持淘宝和京东，通过 Jev 判断商品所属公司是否双休，不双休的商品直接过滤。</p>
+<p><strong>Ccgh Ggh</strong> · @hajimimt · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/hajimimt/status/2101953350837391685">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>

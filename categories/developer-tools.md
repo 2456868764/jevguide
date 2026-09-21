@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 145 | 79 | 67 | 3.6M |
+| 151 | 80 | 72 | 3.6M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/ersinkoc/status/2101937853152256481"><img src="https://pbs.twimg.com/media/HSuUPBuWoAAaEiW?format=png&amp;name=small" alt="Evaluating TypeSafe Console Status via Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ersinkoc/status/2101937853152256481">Evaluating TypeSafe Console Status via Jev</a></h3>
+<p>User encountered a 500 error logging into TypeSafe Console and used Jev to evaluate TypeSafe&#39;s status through TypeSafe itself.</p>
+<p><strong>中文摘要：</strong>用户登录 TypeSafe Console 遇到 500 错误，使用 Jev 通过 TypeSafe 自身评估服务状态。</p>
+<p><strong>Ersin KOÇ</strong> · @ersinkoc · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 496</p>
+<p><a href="https://x.com/ersinkoc/status/2101937853152256481">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ersinkoc/status/2101940187475345584"><img src="https://pbs.twimg.com/media/HSuWryFXIAAKGzC?format=jpg&amp;name=medium" alt="Jev Benchmark Lab: Stress Testing with 200 Ground-Truth Cases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ersinkoc/status/2101940187475345584">Jev Benchmark Lab: Stress Testing with 200 Ground-Truth Cases</a></h3>
+<p>Jev Benchmark Lab runs 200 ground-truth cases across 20 suites, evaluating accuracy, consistency, adversarial failures, option-order bias, answer flips, probability drift, and latency—letting the numbers decide.</p>
+<p><strong>中文摘要：</strong>Jev Benchmark Lab 在 20 个套件中运行 200 个真实用例，评估准确性、一致性、对抗性失败、选项顺序偏差、答案翻转、概率漂移和延迟，让数据说话。</p>
+<p><strong>Ersin KOÇ</strong> · @ersinkoc · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 404</p>
+<p><a href="https://x.com/ersinkoc/status/2101940187475345584">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/hahwul/status/2101895654209634588"><img src="https://pbs.twimg.com/media/HStu2apa4AASbzD?format=jpg&amp;name=medium" alt="GitHub Next Introduces Local Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -94,6 +118,19 @@
 <p><a href="https://x.com/ManfredSteyer/status/2101942432581484862">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/yunxi0623/status/2101941098960855286"><img src="https://pbs.twimg.com/media/HSuUKUmawAA2qQB?format=jpg&amp;name=medium" alt="typesafe-ai Skill: Let Codex Understand TypeSafe / Jev Calls · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yunxi0623/status/2101941098960855286">typesafe-ai Skill: Let Codex Understand TypeSafe / Jev Calls</a></h3>
+<p>Install via npx skills add typesafe-ai/skills --skill typesafe-ai to let Codex understand TypeSafe / Jev calls, delegating code judgment tasks to Jev rather than having Jev write code for Codex.</p>
+<p><strong>中文摘要：</strong>通过 npx skills add typesafe-ai/skills --skill typesafe-ai 安装，让 Codex 理解 TypeSafe / Jev 的调用方式，把代码中的判断题交给 Jev，而非让 Jev 替 Codex 写代码。</p>
+<p><strong>云析</strong> · @yunxi0623 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
+<p><a href="https://x.com/yunxi0623/status/2101941098960855286">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/_yuhanluo/status/2101901020691648957"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900731058147328/img/8GLnHF654XLaT3Be.jpg" alt="Comparing Jev vs Codex Luna as Graders on Code Taste Tasks · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/_yuhanluo/status/2101901020691648957">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vintcessun/status/2101896965181395175"><img src="https://pbs.twimg.com/media/HStwJdnb0AA0dUg?format=jpg&amp;name=900x900" alt="Simple Jev: Turning Open Models into Structured Decision Interfaces · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +151,19 @@
 <p><strong>恒星sun</strong> · @vintcessun · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
 <p><a href="https://x.com/vintcessun/status/2101896965181395175">在 X 查看原帖</a> · <a href="https://t.co/4A66BVuYuc">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gadi_neelesh/status/2101940465457316280"><img src="https://pbs.twimg.com/media/HSuXtbgaIAAEnVN?format=jpg&amp;name=medium" alt="Jev trends as open-source rival Laya gains ~2,000 GitHub stars in a day · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gadi_neelesh/status/2101940465457316280">Jev trends as open-source rival Laya gains ~2,000 GitHub stars in a day</a></h3>
+<p>Neelesh notes Jev is trending widely while open-source rival Laya gained ~2,000 GitHub stars in a day, with a similar idea: avoid asking a giant LLM to generate 500 tokens.</p>
+<p><strong>中文摘要：</strong>Neelesh 指出 Jev 正在广泛走红，同时其开源竞品 Laya 在 GitHub 单日新增约 2000 星，理念与 Jev 相似：不必让大型 LLM 生成 500 个 token。</p>
+<p><strong>Neelesh</strong> · @gadi_neelesh · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/gadi_neelesh/status/2101940465457316280">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/richard_meng_01/status/2101897102557425680"><img src="https://pbs.twimg.com/amplify_video_thumb/2101895341851443200/img/lvfdZBbSjAequg3O.jpg" alt="Nitpicky: An AI-Generated Photo Detector Powered by Jev · 原帖视频截图" width="100%"></a>
@@ -227,6 +275,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/TawfekSraj/status/2101941418067390602"><img src="https://pbs.twimg.com/media/HSuYkIYXkAAIJvU?format=jpg&amp;name=medium" alt="Jev is awesome for coding agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TawfekSraj/status/2101941418067390602">Jev is awesome for coding agents</a></h3>
+<p>User shares how Jev performs for coding agents, comparing base vs with Jev.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 在编码智能体中的表现，并对比基础模型与使用 Jev 的效果。</p>
+<p><strong>Tawfek Sraj</strong> · @TawfekSraj · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/TawfekSraj/status/2101941418067390602">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/anurag_s_b/status/2101908692572701054"><img src="https://pbs.twimg.com/media/HSt6mMsbcAAY0a8?format=jpg&amp;name=medium" alt="Developer Gets Jev Access, Experiments with Text Generation · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -237,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/anurag_s_b/status/2101908692572701054">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sunilmehta_695/status/2101944780548628637"><img src="https://pbs.twimg.com/media/HSubmPeXcAA5GPm?format=jpg&amp;name=medium" alt="MLOps Tradeoffs: Jev vs LLMs in Production · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/Sunilmehta_695/status/2101944780548628637">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moein8668/status/2101905198520140196"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="User asks about testing Jev locally · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/moein8668/status/2101905198520140196">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/feddiwhip/status/2101903494638932308"><img src="https://pbs.twimg.com/media/HSt1zRobkAAX5Nf?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Classifier Enables Natural-Language Product Filters · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/feddiwhip/status/2101903494638932308">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sirindude/status/2101944726115041558"><img src="https://pbs.twimg.com/media/HSubaK7XYAAxmkR?format=png&amp;name=small" alt="Feedback on Jev input format validation issue · 原帖图片" width="100%"></a>
 <br>
@@ -284,6 +343,19 @@
 <p><strong>Sirin</strong> · @sirindude · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/sirindude/status/2101944726115041558">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/amasen02/status/2101953255739928846"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev System One Compared to an OpenRouter for Agent Harnesses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/amasen02/status/2101953255739928846">Jev System One Compared to an OpenRouter for Agent Harnesses</a></h3>
+<p>An X post says Jev&#39;s System One is included in an OpenRouter-style offering for agent harnesses, letting developers plug in directly.</p>
+<p><strong>中文摘要：</strong>一则 X 帖子称 Jev 的 System One 被纳入面向智能体框架的 OpenRouter 式方案，开发者可直接接入。</p>
+<p><strong>Ama Senevirathne</strong> · @amasen02 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/amasen02/status/2101953255739928846">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/mostdes7gn/status/2101868128473133412"><img src="https://pbs.twimg.com/media/HStV6uQacAAjGqs?format=jpg&amp;name=medium" alt="Jev Model Now Fully Open: Built for Judgment Tasks · 原帖图片" width="100%"></a>

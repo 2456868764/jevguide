@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 15 | 12 | 3 | 205K |
+| 17 | 14 | 3 | 205K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Laura Lin</strong> · @laura_llin · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 75</p>
 <p><a href="https://x.com/laura_llin/status/2101899469805736407">在 X 查看原帖</a> · <a href="https://t.co/akm8V19xNR">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/laura_llin/status/2101939425668436384"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937376981655552/img/CX0USdY_R9ThkXyz.jpg" alt="Building a Real-Time Visual Evaluation Layer for Robotics Demos with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/laura_llin/status/2101939425668436384">Building a Real-Time Visual Evaluation Layer for Robotics Demos with Jev</a></h3>
+<p>The author prototyped a Visual Arena for robotics demos, uploading a RewardAI demo and building a real-time visual evaluation layer with Jev that tracks completion, stability, safety, recovery, and uncertainty over time rather than just success.</p>
+<p><strong>中文摘要：</strong>作者尝试为机器人演示构建 Visual Arena，上传 RewardAI 演示并用 Jev 原型化实时视觉评估层，追踪完成度、稳定性、安全性、恢复和不确定性，而非仅判断是否成功。</p>
+<p><strong>Laura Lin</strong> · @laura_llin · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 73</p>
+<p><a href="https://x.com/laura_llin/status/2101939425668436384">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MingfeiGuo/status/2101938771386421319"><img src="https://pbs.twimg.com/amplify_video_thumb/2101938465508352000/img/XvF0xrK5qcwySzl6.jpg" alt="Jev Controls Simulated Robot Arm for Cleanup Task · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MingfeiGuo/status/2101938771386421319">Jev Controls Simulated Robot Arm for Cleanup Task</a></h3>
+<p>Jev was connected to a simulated robot arm, selecting actions from simulator state and switching to a side grip after a failed grasp to complete the cleanup; code is open source.</p>
+<p><strong>中文摘要：</strong>将 Jev 连接到模拟机械臂，根据模拟器状态选择动作，在抓取失败时改用侧握完成清理任务，代码已开源。</p>
+<p><strong>Mingfei Guo</strong> · @MingfeiGuo · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 31</p>
+<p><a href="https://x.com/MingfeiGuo/status/2101938771386421319">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/neogoose_btw/status/2101556786528760050"><img src="https://pbs.twimg.com/amplify_video_thumb/2101556538381139968/img/ILH0mqDphFwHNSZw.jpg" alt="Integrating Jev into Keyboard Firmware for Key Prediction · 原帖视频截图" width="100%"></a>

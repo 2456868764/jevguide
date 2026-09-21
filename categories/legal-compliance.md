@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 6 | 3 | 3 | 4.3K |
+| 7 | 3 | 4 | 4.3K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/matu79go/status/2101878714917429488">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/issun_studio_jp/status/2101938398642766005"><img src="https://pbs.twimg.com/media/HSuVtUHacAAFO2f?format=jpg&amp;name=medium" alt="Building a Power Harassment Checker with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>法律合规</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/issun_studio_jp/status/2101938398642766005">Building a Power Harassment Checker with Jev</a></h3>
+<p>Issun Studio Japan used Jev to build a power harassment checker, demonstrating a practical application of Jev in legal compliance.</p>
+<p><strong>中文摘要：</strong>Issun Studio Japan 利用 Jev 开发了一款职权骚扰检查器，展示了 Jev 在法律合规场景中的实际应用。</p>
+<p><strong>Issun Studio Japan</strong> · @issun_studio_jp · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/issun_studio_jp/status/2101938398642766005">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/xfanwu/status/2101850900356649247"><img src="https://pbs.twimg.com/amplify_video_thumb/2101831753363259392/img/0FZG8mGApbMEfRIY.jpg" alt="Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>法律合规</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/xfanwu/status/2101850900356649247">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kis/status/2101649840967168144"><img src="https://pbs.twimg.com/media/HSqO0gAaoAAQSID?format=png&amp;name=small" alt="TypeSafe AI Terms Prohibit Distillation, Caution Advised for Jev Use · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 4.3K</p>
 <p><a href="https://x.com/kis/status/2101649840967168144">在 X 查看原帖</a> · <a href="https://t.co/Tr3z4D58Ky">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/orz99/status/2100794526575280274"><img src="https://pbs.twimg.com/media/HSeFdOPbgAAuQPD?format=jpg&amp;name=medium" alt="Jev completes Traditional Chinese traffic-accident legal analysis in one API call · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
 <p><a href="https://x.com/orz99/status/2100794526575280274">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/truevis/status/2100904915690471473"><img src="https://pbs.twimg.com/media/HSfoQ3sawAEBb_0?format=png&amp;name=medium" alt="Building a Legal Chatbot Database Router with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/truevis/status/2100904915690471473">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/____NanaKong/status/2100691683071443024"><img src="https://pbs.twimg.com/amplify_video_thumb/2100676124544290816/img/gglnVPdOvZOY65g_.jpg" alt="Jev Combined with Legal Workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,5 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/____NanaKong/status/2100691683071443024">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

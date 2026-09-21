@@ -30,10 +30,12 @@
 | 2026-09-21 | [Open Source Community Replicates Jev's System One Fast Thinking Paradigm](https://x.com/NFT_Chen/status/2101898318465187900) | 开发资源 | SuSu_酥酥👅 | 722 |
 | 2026-09-21 | [Jev Fully Released, New Users Get $5 on Signup](https://x.com/Lonely__MH/status/2101896462082957393) | 接入动态 | Lonely | 660 |
 | 2026-09-21 | [jev-test-filter Released: Smart Test Filtering with Jev](https://x.com/mizchi/status/2101951538545746311) | 开发者工具 | mizchi | 660 |
+| 2026-09-21 | [Self-hosted email client built with Jev](https://x.com/fazlerocks/status/2102007472290685186) | 开发者工具 | Fazle Rahman | 613 |
 | 2026-09-21 | [Experimenting with Jev and WebMCP: Tool Selection and Input Filling](https://x.com/kaskulikowski/status/2101995976781135883) | 开发者工具 | Kasper | 610 |
 | 2026-09-21 | [First Jev AI Builds: A Decision-Only Model](https://x.com/JulianGoldieSEO/status/2101941761694450078) | 自动化工作流 | Julian Goldie SEO | 608 |
 | 2026-09-21 | [5 Jev Clones vs Jev in a Side-Scrolling Game: The Original Wins](https://x.com/hAru_mAki_ch/status/2101994638102127086) | 游戏 | Maki@Sunwood AI Labs. | 589 |
 | 2026-09-21 | [Ax: Cross-Language DSPy-Style LLM Programming with Jev Support](https://x.com/golangch/status/2101888872930329032) | 开发者工具 | Golang News & Libs & Jobs - human 🗣️ , no 🤖 | 586 |
+| 2026-09-21 | [Jev: Choose, Score, and Sort AI Before Your Tools Act](https://x.com/charliejhills/status/2102061573863039346) | 智能体 | Charlie Hills | 564 |
 | 2026-09-21 | [Jev AI Adds Confidence Scores to Agent Answers](https://x.com/JulianGoldieSEO/status/2101941727099765002) | 智能体 | Julian Goldie SEO | 545 |
 | 2026-09-21 | [Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads](https://x.com/chesny/status/2102008701754409204) | 营销 | Chesny | 515 |
 | 2026-09-21 | [Semantic In-Page Search with Jev](https://x.com/makaneko_AI/status/2101909643094380991) | 知识与搜索 | まかねこ\| AIに働かせる技術 | 514 |
@@ -100,5 +102,3 @@
 | 2026-09-21 | [Using JEV for page-linking decisions: API calls scale as n²](https://x.com/SylvainDeaure/status/2101929790835990745) | 接入动态 | Sylvain Deauré | 134 |
 | 2026-09-21 | [Jev's three primitives: choice, score, noul and parallel usage](https://x.com/nichochar/status/2101897944316449181) | 工作原理 | Nicholas Charriere | 133 |
 | 2026-09-21 | [Building a Fuzzy-Word Search Site with Jev](https://x.com/gigabit_million/status/2101948297107984837) | 知识与搜索 | ギガビット@ゲームつくるひと | 133 |
-| 2026-09-21 | [Open-source alternative to Jev emerges: Laya, a 421M decision model](https://x.com/sl1ma4/status/2102008698767904981) | 产品发布 | Artem | 132 |
-| 2026-09-21 | [User discusses JEV tool: retro interface, too many tools?](https://x.com/shengtang135754/status/2101900991876489682) | 社区实践 | 麦麦提 | 126 |

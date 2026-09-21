@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 90 | 50 | 40 | 3.0M |
+| 96 | 52 | 44 | 3.0M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/charliejhills/status/2102061573863039346"><img src="https://pbs.twimg.com/media/HSwFXFVbkAAmAkl?format=jpg&amp;name=medium" alt="Jev: Choose, Score, and Sort AI Before Your Tools Act · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/charliejhills/status/2102061573863039346">Jev: Choose, Score, and Sort AI Before Your Tools Act</a></h3>
+<p>Charlie Hills shares 6 ways Jev helps you choose, score, and sort the right AI before your tools act.</p>
+<p><strong>中文摘要：</strong>Charlie Hills 介绍 Jev 的 6 种方法，帮助你在工具执行前选择、评分和排序合适的 AI。</p>
+<p><strong>Charlie Hills</strong> · @charliejhills · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 8 &nbsp; ♡ 10 &nbsp; 📊 564</p>
+<p><a href="https://x.com/charliejhills/status/2102061573863039346">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101941727099765002"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941334684917760/img/zQE3gkU4QXjZ53V8.jpg" alt="Jev AI Adds Confidence Scores to Agent Answers · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 545</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101941727099765002">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101944527271415814"><img src="https://pbs.twimg.com/amplify_video_thumb/2101866923260874752/img/giT6gBylJQQmmmIj.jpg" alt="Jev AI Demo: Voice-Controlled Browser Agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 374</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101944527271415814">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_avichawla/status/2101966536798040332"><img src="https://pbs.twimg.com/amplify_video_thumb/2101966502954196992/img/rcMJFO9c3DV8wU5d.jpg" alt="Jev for evaluating agent runs, paired with an open-source self-improving memory layer · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 261</p>
 <p><a href="https://x.com/_avichawla/status/2101966536798040332">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AniC_dev/status/2101900575193612446"><img src="https://pbs.twimg.com/amplify_video_thumb/2101856670829944832/img/7r8ikmux-XKwGVs7.jpg" alt="Intern-built browser agent outperforms Jev on real-life tasks · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 257</p>
 <p><a href="https://x.com/AniC_dev/status/2101900575193612446">在 X 查看原帖</a> · <a href="https://t.co/7XB0X7YlMK">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xhikae/status/2101890832605573405"><img src="https://pbs.twimg.com/media/HStqewdacAAMKzB?format=jpg&amp;name=medium" alt="Jev real-time prompt evaluation: agents auto-grill when ambiguous · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 211</p>
 <p><a href="https://x.com/0xhikae/status/2101890832605573405">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/uehaj/status/2101928834820165661"><img src="https://pbs.twimg.com/media/HSuNB9IbkAANcp3?format=jpg&amp;name=medium" alt="Jev Doors adds genre creation and upload with WebMCP support · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 204</p>
 <p><a href="https://x.com/uehaj/status/2101928834820165661">在 X 查看原帖</a> · <a href="https://t.co/WUCQ5Vf1FE">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zeroxmin/status/2101940446637531634"><img src="https://pbs.twimg.com/amplify_video_thumb/2101842347814526976/img/NJlnpWuO1dz7L0A2.jpg" alt="JEV as an observer for agent runs, not a security gate · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,43 @@
 <p><strong>Min(building Moss, hiring now)</strong> · @zeroxmin · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 161</p>
 <p><a href="https://x.com/zeroxmin/status/2101940446637531634">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CoinSh0t/status/2102063535723262029"><img src="https://pbs.twimg.com/amplify_video_thumb/2102063477971935232/img/7SAEmc7eLi-Ze5OH.jpg" alt="Building an AI Bounty Hunter with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CoinSh0t/status/2102063535723262029">Building an AI Bounty Hunter with Jev</a></h3>
+<p>The author built an AI bounty hunter with Jev that scans 24/7 for bug bounties, giveaways, grants, open source rewards, and design challenges, then filters, completes, verifies, and prepares submissions.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 构建了一个 24/7 扫描漏洞赏金、赠品、资助、开源奖励和设计挑战的 AI 赏金猎人，能自动筛选、执行任务、检查结果并准备提交。</p>
+<p><strong>Coin Shot ☁️</strong> · @CoinSh0t · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 128</p>
+<p><a href="https://x.com/CoinSh0t/status/2102063535723262029">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kankichi/status/2102006978117779489"><img src="https://pbs.twimg.com/media/HSvUH2SawAE1w81?format=jpg&amp;name=medium" alt="Connecting the Judgment-Specific Model Jev to Codex · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kankichi/status/2102006978117779489">Connecting the Judgment-Specific Model Jev to Codex</a></h3>
+<p>The author notes that judgment steps in AI agent development consume too many tokens, and tries connecting the judgment-specific model Jev to Codex so high-performance AI focuses on code and design.</p>
+<p><strong>中文摘要：</strong>作者指出AI智能体开发中判断环节消耗过多token，尝试将判断专用模型Jev接入Codex，让高性能AI专注代码与设计。</p>
+<p><strong>かん吉</strong> · @kankichi · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 106</p>
+<p><a href="https://x.com/kankichi/status/2102006978117779489">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gigabit_million/status/2102007062293286976"><img src="https://pbs.twimg.com/media/HSvUIzvbkAAo9Vu?format=jpg&amp;name=medium" alt="Using Jev for scoring in Grok Bot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigabit_million/status/2102007062293286976">Using Jev for scoring in Grok Bot</a></h3>
+<p>A developer shares using Jev for scoring in Grok Bot, but is unsure about the meaning of the scores and whether it is cost-effective, suspecting misuse.</p>
+<p><strong>中文摘要：</strong>开发者分享在 Grok Bot 中调用 Jev 进行评分，但对评分含义和成本是否划算感到困惑，怀疑用法有误。</p>
+<p><strong>ギガビット@ゲームつくるひと</strong> · @gigabit_million · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 97</p>
+<p><a href="https://x.com/gigabit_million/status/2102007062293286976">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/razvanilin/status/2101942988322549863"><img src="https://pbs.twimg.com/media/HSuZ_ZAWgAApODs?format=jpg&amp;name=medium" alt="Asking Jev whether login works with a probability verdict · 原帖图片" width="100%"></a>
@@ -166,6 +214,19 @@
 <p><a href="https://x.com/vertr_ai/status/2101921554116592055">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/s4yonnara/status/2102062800843477302"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062410622263297/img/yNJ2P6ontAnwq7ZK.jpg" alt="Jev CEO on a Decision Brain for AI Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/s4yonnara/status/2102062800843477302">Jev CEO on a Decision Brain for AI Agents</a></h3>
+<p>Jev CEO Diogo Almeida (ex-OpenAI) says Claude Code is still part of the assistance era and presents Jev as a decision brain for AI agents.</p>
+<p><strong>中文摘要：</strong>Jev CEO Diogo Almeida（前 OpenAI）表示 Claude Code 仍属辅助时代，并介绍 Jev 作为 AI 智能体决策大脑的定位。</p>
+<p><strong>Andrew</strong> · @s4yonnara · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/s4yonnara/status/2102062800843477302">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/arnutr/status/2101956431369122252"><img src="https://pbs.twimg.com/media/HSumOtpakAAK1UG?format=jpg&amp;name=medium" alt="Meet Jev: The Decision-Making Brain for AI Agents · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -176,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 32</p>
 <p><a href="https://x.com/arnutr/status/2101956431369122252">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/s1rozha_/status/2101965712768082429"><img src="https://pbs.twimg.com/media/HSuudA9WQAI70Dn?format=jpg&amp;name=medium" alt="Jev Is About Decisions, Not Chat · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
 <p><a href="https://x.com/s1rozha_/status/2101965712768082429">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vadimchoi/status/2101937206063780084"><img src="https://pbs.twimg.com/media/HSuUvltb0AAs3Qo?format=jpg&amp;name=medium" alt="TypeSafe Jev agent routing: 0.29s, $0.00002 per message · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
 <p><a href="https://x.com/vadimchoi/status/2101937206063780084">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291"><img src="https://pbs.twimg.com/media/HStGO8Ya0AAlDn9?format=jpg&amp;name=medium" alt="Jev: Adding a Judgment Cerebellum to Codex/Claude Code · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +271,19 @@
 <p><strong>Power｜资料过滤器</strong> · @Bifuzhuiqiuze · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/Bifuzhuiqiuze/status/2101850881683796291">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/terzioglubrs/status/2102062654462255264"><img src="https://pbs.twimg.com/media/HSwGyXRWsAAYoun?format=jpg&amp;name=medium" alt="Jev May Solve Agent Memory Bloat · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/terzioglubrs/status/2102062654462255264">Jev May Solve Agent Memory Bloat</a></h3>
+<p>The author notes agent memory is often just an ever-growing Markdown file loaded fully into context on every run, and suggests Jev might be a low-cost fix.</p>
+<p><strong>中文摘要：</strong>作者指出智能体记忆通常只是无限增长的 Markdown 文件，多数框架每次运行都加载全部内容，并认为 Jev 可能是一个低成本的解决方案。</p>
+<p><strong>Baris Terzioglu</strong> · @terzioglubrs · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/terzioglubrs/status/2102062654462255264">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/pprownets2023/status/2101851202095087977"><img src="https://pbs.twimg.com/media/HStGVaSaMAADey9?format=jpg&amp;name=medium" alt="Improve AI Agent Decision-Making with Jev Engineering · 原帖图片" width="100%"></a>

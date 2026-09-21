@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 93 | 55 | 41 | 1.1M |
+| 97 | 56 | 44 | 1.1M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/starmexxx/status/2102062795042836653"><img src="https://pbs.twimg.com/amplify_video_thumb/2102061536495751168/img/sDSQ0BImaFHdhRNd.jpg" alt="TypeSafe Ships Jev: A Non-Generative Model That Decides and Routes in 70ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/starmexxx/status/2102062795042836653">TypeSafe Ships Jev: A Non-Generative Model That Decides and Routes in 70ms</a></h3>
+<p>TypeSafe released Jev, a model that writes no text and focuses on deciding, routing, and scoring in 70 milliseconds, compared to GPT-6 Astra taking 3 to 329 seconds for the same yes/no call.</p>
+<p><strong>中文摘要：</strong>TypeSafe 推出 Jev 模型，不生成任何文字，专注于决策、路由和评分，据称 70 毫秒即可完成，而 GPT-6 Astra 处理相同的是非判断需 3 到 329 秒。</p>
+<p><strong>starmex</strong> · @starmexxx · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 58</p>
+<p><a href="https://x.com/starmexxx/status/2102062795042836653">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/DeepthiConnects/status/2101854584507642073"><img src="https://pbs.twimg.com/media/HStJmXlbMAAfKXX?format=jpg&amp;name=medium" alt="Jev opens to everyone: no waitlist, $5 free credit · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/DeepthiConnects/status/2101854584507642073">在 X 查看原帖</a> · <a href="https://t.co/hyGRHTAQwY">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mushman1970/status/2102010451299111033"><img src="https://pbs.twimg.com/media/HSvXXdmWEAA6bKo?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: Typed Probabilistic Decisions Instead of Text · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/mushman1970/status/2102010451299111033">在 X 查看原帖</a> · <a href="https://t.co/NMMTsSTeZi">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PharosInsights/status/2101944523576451198"><img src="https://pbs.twimg.com/amplify_video_thumb/2101083913506754560/img/jh1rKgyxdFxucr67.jpg" alt="TypeSafe Launches Jev: Classification, Scoring, and Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/PharosInsights/status/2101944523576451198">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/decodewithrudra/status/2101901843748073841"><img src="https://pbs.twimg.com/media/HSt0lHoXcAAZS_S?format=jpg&amp;name=medium" alt="Jev opens to everyone: no chat, millisecond yes/no/score model · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/decodewithrudra/status/2101901843748073841">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Angus_Flint/status/2101872088210710948"><img src="https://pbs.twimg.com/tweet_video_thumb/HStYxMZawAAygtK.jpg" alt="Jev System One Model Outperforms GPT-6 Astra and Fable 5.1 on Comprehension Test · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/Angus_Flint/status/2101872088210710948">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alexander_jais/status/2102000158305050899"><img src="https://pbs.twimg.com/media/HSvN_jAWcAAKYzq?format=jpg&amp;name=medium" alt="Jev Praised for Single-Task App-Layer Approach · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/alexander_jais/status/2102000158305050899">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Carbaj0/status/2101942660680368367"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941366896963584/img/W3WMh_84xtpqfVqh.jpg" alt="Text input widget powered by Jev calibrated probabilities · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Carbaj0/status/2101942660680368367">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TinyRouterHQ/status/2101971022802989067"><img src="https://pbs.twimg.com/amplify_video_thumb/2101970922164854784/img/r-BLnYqf-VTLzmvX.jpg" alt="TypeSafe Jev decision model: state + typed questions in, choice/score/probability out · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/TinyRouterHQ/status/2101971022802989067">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuChenTheGed/status/2101950223581143352"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Open-source version of Jev appears days after launch · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/YuChenTheGed/status/2101950223581143352">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/de2pressed/status/2101900009243640022"><img src="https://pbs.twimg.com/media/HSty5Qga0AIYjPa?format=jpg&amp;name=medium" alt="Jev: Type a Feeling, Get a Website · 原帖图片" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Jayant</strong> · @de2pressed · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/de2pressed/status/2101900009243640022">在 X 查看原帖</a> · <a href="https://t.co/Yy9UJbfqJA">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Aashir__Shaikh/status/2102061220736258426"><img src="https://pbs.twimg.com/media/HSwFhpnbUAARhvW?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: A Structured Decision Model for Software Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Aashir__Shaikh/status/2102061220736258426">TypeSafe AI Launches Jev: A Structured Decision Model for Software Workflows</a></h3>
+<p>TypeSafe AI has launched Jev, a model designed for structured decisions rather than text generation. It returns typed outputs with probabilities for software workflows, with published latency of 70–500 ms.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 推出 Jev 模型，专为结构化决策而非文本生成设计，可返回带概率的类型化输出，适用于软件工作流，公布延迟为 70–500 毫秒。</p>
+<p><strong>Aashir Shaikh | AI Enthusiast &amp; IT Professor</strong> · @Aashir__Shaikh · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Aashir__Shaikh/status/2102061220736258426">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -251,6 +275,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/wxh24488/status/2102062572501639357"><img src="https://pbs.twimg.com/media/HSwGw3iagAAqzuJ?format=jpg&amp;name=medium" alt="TypeSafe AI Launches and Unveils Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wxh24488/status/2102062572501639357">TypeSafe AI Launches and Unveils Jev Model</a></h3>
+<p>TypeSafe AI, co-founded by former OpenAI core researcher Diogo Almeida, has officially launched and unveiled its new model codenamed Jev.</p>
+<p><strong>中文摘要：</strong>前 OpenAI 核心研究员 Diogo Almeida 联合创立的 TypeSafe AI 正式亮相，并公布代号为 Jev 的新型模型。</p>
+<p><strong>0xmasil梵高</strong> · @wxh24488 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/wxh24488/status/2102062572501639357">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Shadowfetch/status/2101972719214494146"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101972643419160576/pu/img/Fn9zpixP577pPPYH.jpg" alt="TypeSafe Launches Jev AI Choice Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -261,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/Shadowfetch/status/2101972719214494146">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shirorakuki/status/2102002938529149373"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002744014053376/img/DNpeYw894z78Y4Oc.jpg" alt="Jev Removes Waitlist and Opens to All · 原帖视频截图" width="100%"></a>
 <br>
@@ -271,6 +308,17 @@
 <p><strong>白洛奇</strong> · @shirorakuki · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/shirorakuki/status/2102002938529149373">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ka23wther/status/2102062958817980600"><img src="https://pbs.twimg.com/media/HSkfbN_WsAA6Yxl?format=png&amp;name=medium" alt="Jev 1.13 Now on NanoGPT&#39;s Decisions API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ka23wther/status/2102062958817980600">Jev 1.13 Now on NanoGPT&#39;s Decisions API</a></h3>
+<p>Jev 1.13 is now available on NanoGPT&#39;s Decisions API. Send state and typed questions to /v1/decisions and get back choices, scores, and probabilities.</p>
+<p><strong>中文摘要：</strong>Jev 1.13 已接入 NanoGPT 的 Decisions API，通过 /v1/decisions 发送状态和类型化问题，即可返回选择、评分和概率。</p>
+<p><strong>13</strong> · @ka23wther · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/ka23wther/status/2102062958817980600">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

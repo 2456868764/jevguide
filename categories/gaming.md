@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 153 | 125 | 30 | 588K |
+| 157 | 128 | 31 | 588K |
 
 ## Showcase 卡片
 
@@ -323,6 +323,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/geeorgey/status/2102062289549738169"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062098650206208/img/Wv_GGtFORkR-hFU2.jpg" alt="Jev Makes Approach and Trade Decision in Game, API Round-Trip 480.7ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/geeorgey/status/2102062289549738169">Jev Makes Approach and Trade Decision in Game, API Round-Trip 480.7ms</a></h3>
+<p>The post records Jev choosing approach and trade during a roughly 16-hour-10-minute game session, with Codex handling preparation; the trade decision had an API round-trip of 480.7ms, with Japanese subtitles.</p>
+<p><strong>中文摘要：</strong>帖子记录 Jev 在游戏约16小时10分的流程中，选择接近与交换，Codex 负责准备，该交换判断的 API 往返为 480.7ms，并附有日语字幕。</p>
+<p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/geeorgey/status/2102062289549738169">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Creaspan/status/2101907353830662145"><img src="https://pbs.twimg.com/media/HSt426dbEAE31PN?format=jpg&amp;name=medium" alt="Open-source chess game: play against Jev&#39;s System One agent · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/Creaspan/status/2101907353830662145">在 X 查看原帖</a> · <a href="https://t.co/dPZJJAE0ME">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yelkhayami/status/2101944518883037562"><img src="https://pbs.twimg.com/amplify_video_thumb/2100910848029978624/img/NHqTOxDSKfgV7bX1.jpg" alt="Building a Nintendo DS Game with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/yelkhayami/status/2101944518883037562">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2102014184678649954"><img src="https://pbs.twimg.com/media/HSvaicDasAAkHFP?format=jpg&amp;name=medium" alt="Jev and Codex Cross Lava Lake Together in No-Death Minecraft Run · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/geeorgey/status/2102014184678649954">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101913523140055173"><img src="https://pbs.twimg.com/media/HSt_GfvaoAAvQu6?format=jpg&amp;name=900x900" alt="Codex and Jev Collaborate to Build a 30-Block Bridge in Minecraft · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/geeorgey/status/2101913523140055173">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikawuf/status/2101942478454558856"><img src="https://pbs.twimg.com/amplify_video_thumb/2101827235925590016/img/Z9-x2VHoe3B_rhqT.jpg" alt="GLM 5.3 Flash plus Jev hybrid speeds up strategy game 13x · 原帖视频截图" width="100%"></a>
 <br>
@@ -381,6 +392,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/mikawuf/status/2101942478454558856">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/quantium16/status/2101997560491847856"><img src="https://pbs.twimg.com/media/HSvLpIqbEAAxS_0?format=jpg&amp;name=medium" alt="Infinity Runner game built around JEV launches · 原帖图片" width="100%"></a>
 <br>
@@ -392,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/quantium16/status/2101997560491847856">在 X 查看原帖</a> · <a href="https://t.co/4iWwFEV2KX">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zsz1210/status/2101965156171542791"><img src="https://pbs.twimg.com/media/HSut7MWaAAACuvg?format=jpg&amp;name=medium" alt="Using Jev to choose emotional reactions for a 3D character · 原帖图片" width="100%"></a>
 <br>
@@ -405,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/zsz1210/status/2101965156171542791">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2102013281414357117"><img src="https://pbs.twimg.com/amplify_video_thumb/2101918730049683456/img/ucwwrqid4dRhXkdP.jpg" alt="Jev trails Laya in Tetris benchmark · 原帖视频截图" width="100%"></a>
 <br>
@@ -416,8 +429,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/somi_ai/status/2102013281414357117">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/node_jz/status/2101869614170820861"><img src="https://pbs.twimg.com/amplify_video_thumb/2101869602783272960/img/ZbUzTjLlmVETq6vk.jpg" alt="Jev Loop Powers Combat and Map Decisions in Games · 原帖视频截图" width="100%"></a>
 <br>
@@ -429,6 +440,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/node_jz/status/2101869614170820861">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CodePolyglot/status/2101914735578943698"><img src="https://pbs.twimg.com/media/HSuALqlWwAA0kcP?format=jpg&amp;name=medium" alt="Coffee Under Fire: A Game with NPCs Powered by Jev AI · 原帖图片" width="100%"></a>
 <br>
@@ -440,8 +453,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/CodePolyglot/status/2101914735578943698">在 X 查看原帖</a> · <a href="https://t.co/TasLeRD3KW">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CodePolyglot/status/2101945936800879024"><img src="https://pbs.twimg.com/media/HSucryIWsAASBd2?format=jpg&amp;name=medium" alt="Coffee Under Fire: A Game with NPCs Powered by Jev AI · 原帖图片" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/CodePolyglot/status/2101945936800879024">在 X 查看原帖</a> · <a href="https://t.co/TasLeRD3KW">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheAIInsiderN/status/2102001482425852074"><img src="https://pbs.twimg.com/amplify_video_thumb/2102001323180728320/img/zpdeuX9yFiMgFvnc.jpg" alt="Jev vs. Laya-MLX Tetris Benchmark · 原帖视频截图" width="100%"></a>
 <br>
@@ -463,6 +476,17 @@
 <p><strong>AI Insider</strong> · @TheAIInsiderN · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/TheAIInsiderN/status/2102001482425852074">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/staskulesh/status/2102062632517697652"><img src="https://pbs.twimg.com/media/HSwGvGCWIAA7RFa?format=png&amp;name=medium" alt="Jev Chess adds shareable game results · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/staskulesh/status/2102062632517697652">Jev Chess adds shareable game results</a></h3>
+<p>The Jev chess app now supports shareable game results; the post notes Jev won again and jokes that the robots are coming.</p>
+<p><strong>中文摘要：</strong>Jev 国际象棋应用新增可分享对局结果功能，帖子提到 Jev 再次获胜并调侃机器人来袭。</p>
+<p><strong>Stas Kulesh</strong> · @staskulesh · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/staskulesh/status/2102062632517697652">在 X 查看原帖</a> · <a href="https://t.co/Ppj7yMwiUN">原文链接</a></p>
 </td>
 </tr>
 <tr>
@@ -478,6 +502,19 @@
 <p><a href="https://x.com/TheosTT04/status/2101993249481384290">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/ZerionIndie/status/2102061407713788322"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI&#39;s JEV model makes structured decisions in 70-500ms, already used in games · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ZerionIndie/status/2102061407713788322">TypeSafe AI&#39;s JEV model makes structured decisions in 70-500ms, already used in games</a></h3>
+<p>TypeSafe AI&#39;s JEV model doesn&#39;t chat, it makes structured decisions in 70-500ms, already applied in Minecraft, Doom, and Subway Surfers.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 JEV 模型不聊天，只在 70-500ms 内做出结构化决策，已应用于 Minecraft、Doom 和 Subway Surfers。</p>
+<p><strong>Zerion</strong> · @ZerionIndie · 2026-09-21</p>
+<p>💬 8 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/ZerionIndie/status/2102061407713788322">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/theshajha/status/2101905184704323969"><img src="https://pbs.twimg.com/media/HSt3Lx0aQAAXk0o?format=jpg&amp;name=medium" alt="Play Chess Against Jev from TypeSafe AI · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -488,8 +525,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/theshajha/status/2101905184704323969">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akinkeskinbas/status/2101942281590964708"><img src="https://pbs.twimg.com/amplify_video_thumb/2101940817653088256/img/Tw0L4IC2NTSnypwh.jpg" alt="Using Jev to Analyze League of Legends Deaths · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/akinkeskinbas/status/2101942281590964708">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yukix2000/status/2101911998619656646"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911765873479680/img/RALU1R4lnnORQegy.jpg" alt="Idea of Integrating Jev Judgment-Only AI into Games with 2048 and Flappy Bird Spectator Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -511,6 +548,17 @@
 <p><strong>中平 裕貴</strong> · @yukix2000 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/yukix2000/status/2101911998619656646">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/umezawakanta13/status/2102062482991001689"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062389281816576/img/Fh8WvFu2fI6wSBXE.jpg" alt="Jev Powers Real-Time Mario-Style Level Experiment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/umezawakanta13/status/2102062482991001689">Jev Powers Real-Time Mario-Style Level Experiment</a></h3>
+<p>A developer shares validation footage of Jev driving a Mario-style 1-1 level, failing on first enemy contact, with a browser round-trip median of 976.8ms (5 responses), plus links to the write-up and demo.</p>
+<p><strong>中文摘要：</strong>开发者分享 Jev 驱动马里奥风格 1-1 关卡的验证录像，首次接触敌人即失败，并给出浏览器往返中位延迟 976.8ms（5 次响应）的数据，附验证文章与体验链接。</p>
+<p><strong>梅澤 寛太｜Web・業務システム開発</strong> · @umezawakanta13 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/umezawakanta13/status/2102062482991001689">在 X 查看原帖</a> · <a href="https://t.co/kNu121ZbhN">原文链接</a></p>
 </td>
 </tr>
 <tr>

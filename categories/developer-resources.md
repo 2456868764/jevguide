@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 91 | 41 | 50 | 419K |
+| 93 | 42 | 51 | 419K |
 
 ## Showcase 卡片
 
@@ -310,6 +310,19 @@
 <p><a href="https://x.com/Kgaroo_music/status/2102002200105078831">在 X 查看原帖</a> · <a href="https://t.co/TGtK1eMEX3">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/mengdi_en/status/2102063580593914274"><img src="https://pbs.twimg.com/media/HSwG19hXsAARfHB?format=jpg&amp;name=medium" alt="A small library for semantic assertions in E2E tests using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mengdi_en/status/2102063580593914274">A small library for semantic assertions in E2E tests using Jev</a></h3>
+<p>The author built a small library that uses Jev for semantic assertions in E2E tests, replacing brittle string matches. As a decision-optimized model, Jev is fast, cheap, and reliable, making it suitable for assertions that are hard to check deterministically.</p>
+<p><strong>中文摘要：</strong>作者构建了一个小型库，用 Jev 在 E2E 测试中做语义断言，替代脆弱的字符串匹配。Jev 作为决策优化模型，快速、便宜且可靠，适合难以确定性检查的断言。</p>
+<p><strong>Mengdi Chen</strong> · @mengdi_en · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/mengdi_en/status/2102063580593914274">在 X 查看原帖</a> · <a href="https://t.co/LmFbSmZs9d">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101915137116639354"><img src="https://pbs.twimg.com/media/HSuAimZawAAfO-Z?format=jpg&amp;name=medium" alt="KaLM-Jev Open Source: Local Three-Mode Structured Judgment Service · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -319,6 +332,17 @@
 <p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><a href="https://x.com/NFT_Chen/status/2101915137116639354">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tin_ng_qn/status/2102063877009637564"><img src="https://pbs.twimg.com/tweet_video_thumb/HSwH81zXgAALuKh.jpg" alt="Multimodal JEV Prototype: Image QA with Bounding Boxes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tin_ng_qn/status/2102063877009637564">Multimodal JEV Prototype: Image QA with Bounding Boxes</a></h3>
+<p>A multimodal JEV prototype trained on CUB-200-2011 with a Qwen2.5-VL backbone, answering image questions with option probabilities and bounding boxes at ~0.4s per image.</p>
+<p><strong>中文摘要：</strong>基于 Qwen2.5-VL 骨干网络在 CUB-200-2011 上训练的多模态 JEV 原型，可对图像问题输出选项概率和边界框，每张图约 0.4 秒。</p>
+<p><strong>Tin (Kevin) Nguyen</strong> · @tin_ng_qn · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/tin_ng_qn/status/2102063877009637564">在 X 查看原帖</a> · <a href="https://t.co/cUyTROq4rd">原文链接</a></p>
 </td>
 </tr>
 <tr>

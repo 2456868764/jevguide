@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 52 | 38 | 14 | 595K |
+| 56 | 42 | 14 | 595K |
 
 ## Showcase 卡片
 
@@ -155,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/PetyakMi/status/2102062453907415238"><img src="https://pbs.twimg.com/amplify_video_thumb/2102061842709278720/img/pYFhf9zMCagJOHNO.jpg" alt="Navigate websites with Jev: say what you want and it highlights the next click · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PetyakMi/status/2102062453907415238">Navigate websites with Jev: say what you want and it highlights the next click</a></h3>
+<p>A user shares how Jev navigates websites: just say what you are looking for and it immediately highlights the next component to click, simplifying web interaction.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 导航网站的体验：只需说出要找的内容，Jev 会立即高亮下一个需要点击的组件，简化网页操作。</p>
+<p><strong>Maksym Petyak 🇺🇦</strong> · @PetyakMi · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/PetyakMi/status/2102062453907415238">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101962222545047616"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101962188789297152/pu/img/ZGkP1dj59Pfh8kn4.jpg" alt="Laya, an open-source alternative to Jev: millisecond decision engine · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -164,6 +175,19 @@
 <p><strong>Carlos Martinez</strong> · @1CMartinez · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/1CMartinez/status/2101962222545047616">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Carbaj0/status/2102061478438211812"><img src="https://pbs.twimg.com/amplify_video_thumb/2102061248271486978/img/QsXxhr4RLBTrg1-0.jpg" alt="Jev Powers Sentence-Level Auto-Filled Trackers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Carbaj0/status/2102061478438211812">Jev Powers Sentence-Level Auto-Filled Trackers</a></h3>
+<p>User types a sentence and the right widget is already filled in; tap Save. An LLM authors each tracker once, then Jev runs every sentence at ~430 ms and $0.0005 with nothing generated.</p>
+<p><strong>中文摘要：</strong>用户输入一句话，正确的组件已自动填充，点击保存即可。LLM 一次性编写每个追踪器，Jev 随后运行每个句子，约 430 毫秒、成本 $0.0005，无需生成内容。</p>
+<p><strong>Alejandro Carbajo</strong> · @Carbaj0 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/Carbaj0/status/2102061478438211812">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/mikawuf/status/2101942471701692503"><img src="https://pbs.twimg.com/amplify_video_thumb/2101728406949994496/img/04cY92dR_CtMYtoX.jpg" alt="arc-cua hands desktop tasks to Jev for clicks and typing · 原帖视频截图" width="100%"></a>
@@ -223,6 +247,30 @@
 <p><strong>DryHoleCo</strong> · @DryHoleCo · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/DryHoleCo/status/2101911247172096075">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGrimmer_/status/2102063191194747106"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062775904178176/img/FdUREL8J5zxMXbMW.jpg" alt="Jev Runs a $176.05 Workflow for $0.39 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGrimmer_/status/2102063191194747106">Jev Runs a $176.05 Workflow for $0.39</a></h3>
+<p>The post says Jev completed a $176.05 workflow for $0.39, with the creator claiming it can never make things up, alongside a 40-second clip.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 以 0.39 美元完成原本 176.05 美元的工作流，创作者表示它绝不会编造内容，并附有 40 秒视频片段。</p>
+<p><strong>Grimmer</strong> · @0xGrimmer_ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/0xGrimmer_/status/2102063191194747106">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JhAquarium/status/2102063610910708108"><img src="https://pbs.twimg.com/amplify_video_thumb/2101632970717007872/img/lcQeA281BT79Pjt5.jpg" alt="Using JEV for Judgment in Fully Automated Workflows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JhAquarium/status/2102063610910708108">Using JEV for Judgment in Fully Automated Workflows</a></h3>
+<p>The author proposes using JEV for judgment alongside a fast small model for inference, addressing slow automation caused by relying on large models.</p>
+<p><strong>中文摘要：</strong>作者提出用 JEV 专职判断、搭配高速小模型推理，解决自动化流程因大模型推理而变慢的问题。</p>
+<p><strong>Jerry Hong</strong> · @JhAquarium · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/JhAquarium/status/2102063610910708108">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

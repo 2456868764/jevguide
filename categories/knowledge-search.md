@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 24 | 15 | 9 | 235K |
+| 25 | 16 | 9 | 235K |
 
 ## Showcase 卡片
 
@@ -262,6 +262,19 @@
 <p><a href="https://x.com/libukai/status/2100984923926728920">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Imheyhomees/status/2100993776869154932"><img src="https://pbs.twimg.com/amplify_video_thumb/2100993020707434496/img/QIBqRCsWAwfqb0S7.jpg" alt="TypeSafe AI and Jev Share Video · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Imheyhomees/status/2100993776869154932">TypeSafe AI and Jev Share Video</a></h3>
+<p>Post mentions TypeSafe AI and Jev, sharing a full video link to cut through hype and share what&#39;s worth sharing.</p>
+<p><strong>中文摘要：</strong>帖子提及 TypeSafe AI 和 Jev，并分享完整视频链接，旨在去除炒作、分享有价值内容。</p>
+<p><strong>HeyHomees</strong> · @Imheyhomees · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 43</p>
+<p><a href="https://x.com/Imheyhomees/status/2100993776869154932">在 X 查看原帖</a> · <a href="https://t.co/KsEBlhUObD">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/chetaslua/status/2100473581251748216"><img src="https://pbs.twimg.com/amplify_video_thumb/2100473445868003328/img/1ukjahQYLgbIEmyI.jpg" alt="Building a live BS meter for the Trump vs Kamala debate with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -272,8 +285,6 @@
 <p>💬 71 &nbsp; 🔁 86 &nbsp; ♡ 1.4K &nbsp; 📊 180K</p>
 <p><a href="https://x.com/chetaslua/status/2100473581251748216">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Totzenberger/status/2100570643355852954"><img src="https://pbs.twimg.com/amplify_video_thumb/2100554427107028992/img/z9tWcqexQS9bTmjc.jpg" alt="Jev text classification: 6000x cheaper than Pangram · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 17 &nbsp; 🔁 5 &nbsp; ♡ 132 &nbsp; 📊 58K</p>
 <p><a href="https://x.com/Totzenberger/status/2100570643355852954">在 X 查看原帖</a> · <a href="https://t.co/v6JKFWq4YY">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dotpem/status/2100389272004198844"><img src="https://pbs.twimg.com/media/HSYUhVkbgAAmUiS?format=jpg&amp;name=medium" alt="Semantic Querying Use Case with Jev and TypeSafe AI · 原帖图片" width="100%"></a>
 <br>
@@ -296,5 +309,6 @@
 <p>💬 22 &nbsp; 🔁 43 &nbsp; ♡ 523 &nbsp; 📊 37K</p>
 <p><a href="https://x.com/dotpem/status/2100389272004198844">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

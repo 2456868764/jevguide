@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 5 | 3 | 2 | 3.8M |
+| 6 | 3 | 3 | 3.8M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/yildiz/status/2101015963454095440"><img src="https://pbs.twimg.com/media/HShO312a4AEyjOt?format=jpg&amp;name=medium" alt="Jev tested for observability decision models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yildiz/status/2101015963454095440">Jev tested for observability decision models</a></h3>
+<p>Fatih Yildiz says TypeSafe AI&#39;s Jev looks promising for observability decision model use cases, noting latency adds up when using frontier models at edge_delta for operational priority scoring and event routing, and is testing Jev.</p>
+<p><strong>中文摘要：</strong>Fatih Yildiz 表示 TypeSafe AI 的 Jev 在可观测性决策模型用例中很有前景，并提到在 edge_delta 使用前沿模型进行运营优先级评分、事件路由等决策时延迟累积，正在测试 Jev。</p>
+<p><strong>Fatih Yildiz</strong> · @yildiz · 2026-09-18</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/yildiz/status/2101015963454095440">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/nikhilmudholkar/status/2100604560335139083"><img src="https://pbs.twimg.com/media/HSbYODoWoAAKjJR?format=jpg&amp;name=medium" alt="Jev loses to Gemini on email classification benchmark, still considered for production · 原帖图片" width="100%"></a>
 <br>
 <sub><code>企业运营</code> <code>原帖图片</code></sub>
@@ -69,6 +80,5 @@
 <p>💬 38 &nbsp; 🔁 33 &nbsp; ♡ 438 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/nikhilmudholkar/status/2100604560335139083">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

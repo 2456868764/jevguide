@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 53 | 31 | 22 | 3.0M |
+| 54 | 31 | 23 | 3.0M |
 
 ## Showcase 卡片
 
@@ -491,6 +491,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/mcspring/status/2100884857257865384"><img src="https://pbs.twimg.com/media/HSfXolHaEAAlkDM?format=jpg&amp;name=medium" alt="Jev May Reshape Agent Architecture: Local Decision Model Meets Cloud LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mcspring/status/2100884857257865384">Jev May Reshape Agent Architecture: Local Decision Model Meets Cloud LLM</a></h3>
+<p>The post argues Jev&#39;s biggest impact may be reshaping Agent architecture: an embedded local decision model creates a loop of user input, local optimization, cloud LLM processing, and tool calls, with model compression letting the local model handle simple tasks and optimize cloud inputs.</p>
+<p><strong>中文摘要：</strong>观点认为 Jev 的最大意义在于推动 Agent 架构变革：内置本地决策小模型，形成用户输入到本地优化、云端大模型处理与工具调用的循环，并随模型压缩让本地模型承担简单任务与云端输入优化。</p>
+<p><strong>𝖒𝖈𝖘𝖕𝖗𝖎𝖓𝖌</strong> · @mcspring · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 103</p>
+<p><a href="https://x.com/mcspring/status/2100884857257865384">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/gregpr07/status/2100411066966749359"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Browser Use + Jev: Ultrafast Browser Agent · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -501,6 +512,8 @@
 <p>💬 264 &nbsp; 🔁 938 &nbsp; ♡ 8.8K &nbsp; 📊 3.0M</p>
 <p><a href="https://x.com/gregpr07/status/2100411066966749359">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/swill1ams/status/2100421326389354624"><img src="https://pbs.twimg.com/amplify_video_thumb/2100044290743558144/img/qoO9w7RnXjqtrq6I.jpg" alt="Custom Jev-style models can make agent systems more token efficient · 原帖视频截图" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 34 &nbsp; 🔁 92 &nbsp; ♡ 1.4K &nbsp; 📊 191K</p>
 <p><a href="https://x.com/swill1ams/status/2100421326389354624">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kunchenguid/status/2100468943853085061"><img src="https://pbs.twimg.com/media/HSYK_gbagAAqKqr?format=jpg&amp;name=medium" alt="Jev Deployed in Real Production: Fable-Level Quality, 10x Faster · 原帖图片" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 120 &nbsp; 🔁 155 &nbsp; ♡ 2.0K &nbsp; 📊 136K</p>
 <p><a href="https://x.com/kunchenguid/status/2100468943853085061">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Reeshasx/status/2100443780746711267"><img src="https://pbs.twimg.com/amplify_video_thumb/2100081173380939776/img/2VgNwSaHK3lLw4ux.jpg" alt="JEV Model&#39;s Reproduction Speed Sparks Excitement · 原帖视频截图" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 17 &nbsp; 🔁 37 &nbsp; ♡ 996 &nbsp; 📊 122K</p>
 <p><a href="https://x.com/Reeshasx/status/2100443780746711267">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/savboj/status/2100545295201288678"><img src="https://pbs.twimg.com/amplify_video_thumb/2100545038677655552/img/PSyeykC06q5OLVVu.jpg" alt="Jev + Computer use: 100x faster than any LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 36 &nbsp; 🔁 65 &nbsp; ♡ 1.2K &nbsp; 📊 113K</p>
 <p><a href="https://x.com/savboj/status/2100545295201288678">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CodingGarden/status/2100665210419950031"><img src="https://pbs.twimg.com/amplify_video_thumb/2100664410935332864/img/KPApgq0AysL_SFeg.jpg" alt="Building a no-LLM chatbot with Jev for instant tool calls · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 53 &nbsp; 🔁 86 &nbsp; ♡ 1.2K &nbsp; 📊 110K</p>
 <p><a href="https://x.com/CodingGarden/status/2100665210419950031">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/da_fant/status/2100659471257366766"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="How Jev Makes Agents 10x Faster and Cheaper · 原帖视频截图" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 33 &nbsp; 🔁 58 &nbsp; ♡ 636 &nbsp; 📊 86K</p>
 <p><a href="https://x.com/da_fant/status/2100659471257366766">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tsuyoshi_osiire/status/2100734646824902713"><img src="https://pbs.twimg.com/amplify_video_thumb/2100733358020202496/img/Ei71W-dfloIYoM4m.jpg" alt="Prototyping a Real-Time Conversation Sensor in Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 3 &nbsp; 🔁 65 &nbsp; ♡ 448 &nbsp; 📊 66K</p>
 <p><a href="https://x.com/tsuyoshi_osiire/status/2100734646824902713">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/crislenta/status/2100457614073327754"><img src="https://pbs.twimg.com/amplify_video_thumb/2100457262372560897/img/zSIVGvaQhEZLMd9-.jpg" alt="Jev Benchmark: 500 Real-Time Agents Running in Parallel · 原帖视频截图" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 48 &nbsp; 🔁 37 &nbsp; ♡ 651 &nbsp; 📊 59K</p>
 <p><a href="https://x.com/crislenta/status/2100457614073327754">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/omarsar0/status/2100693601021997193"><img src="https://pbs.twimg.com/media/HScpisJbEAAMxZb?format=jpg&amp;name=medium" alt="Four agent use cases to try with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 40 &nbsp; 🔁 72 &nbsp; ♡ 669 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/omarsar0/status/2100693601021997193">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tonysimons_/status/2100656340817633313"><img src="https://pbs.twimg.com/tweet_video_thumb/HScHna_XUAAwuch.jpg" alt="Browser Use open-sources Jev Ultrafast to speed up browser agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 14 &nbsp; 🔁 27 &nbsp; ♡ 275 &nbsp; 📊 18K</p>
 <p><a href="https://x.com/tonysimons_/status/2100656340817633313">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/daniel_mac8/status/2100620339097026633"><img src="https://pbs.twimg.com/amplify_video_thumb/2100619919448592384/img/Pw-l4hnbWIZQGktL.jpg" alt="Using Jev and Grok Bot to Find the Best AI Agent Tip from 1,000 Posts · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 20 &nbsp; 🔁 19 &nbsp; ♡ 169 &nbsp; 📊 15K</p>
 <p><a href="https://x.com/daniel_mac8/status/2100620339097026633">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/milindlabs/status/2100515910754750741"><img src="https://pbs.twimg.com/amplify_video_thumb/2100515619712184320/img/LFrKN4XyJ024sGe_.jpg" alt="Jev as Chief of Staff for Bots · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,5 @@
 <p>💬 12 &nbsp; 🔁 12 &nbsp; ♡ 185 &nbsp; 📊 14K</p>
 <p><a href="https://x.com/milindlabs/status/2100515910754750741">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 7 | 6 | 1 | 237K |
+| 9 | 8 | 1 | 237K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/rohan1chaudhari/status/2101706643251626482"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703797806338049/img/34m0BMCAg93NZ34L.jpg" alt="Jev replaces hunting for settings with natural-language descriptions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>生产力</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rohan1chaudhari/status/2101706643251626482">Jev replaces hunting for settings with natural-language descriptions</a></h3>
+<p>A user shares their experience with #jev: describe what you want to do instead of the setting&#39;s name, and the right control appears, asking if others would use it.</p>
+<p><strong>中文摘要：</strong>用户分享使用 #jev 的体验：只需描述想做的事，无需知道设置名称，正确的控件就会自动出现，并询问是否愿意使用。</p>
+<p><strong>rohan chaudhari</strong> · @rohan1chaudhari · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/rohan1chaudhari/status/2101706643251626482">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/mossy2026/status/2101687829680050438"><img src="https://pbs.twimg.com/amplify_video_thumb/2101644889230569472/img/zX15NLS40ttFaQ3p.jpg" alt="Jev Helps Me Find a File · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>生产力</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/mossy2026/status/2101687829680050438">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AYi_AInotes/status/2101323659608547819"><img src="https://pbs.twimg.com/media/HSlmtWgWUAEjH33?format=jpg&amp;name=medium" alt="Turning Jev into Real Productivity: 8 Representative Cases · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 42 &nbsp; 🔁 71 &nbsp; ♡ 291 &nbsp; 📊 55K</p>
 <p><a href="https://x.com/AYi_AInotes/status/2101323659608547819">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlanDaitch/status/2101090570110169547"><img src="https://pbs.twimg.com/amplify_video_thumb/2100809295809974272/img/_1rbvz04k6wjpcGW.jpg" alt="Jev seen as the missing piece for voice-controlled computing · 原帖视频截图" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Alan Daitch</strong> · @AlanDaitch · 2026-09-18</p>
 <p>💬 19 &nbsp; 🔁 57 &nbsp; ♡ 755 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/AlanDaitch/status/2101090570110169547">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/takeshi_engr/status/2100898418860400928"><img src="https://pbs.twimg.com/amplify_video_thumb/2100898321753915392/img/FxpETVyP1Nft63_z.jpg" alt="Using Jev to weigh tasks and visualize them on an Eisenhower matrix · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>生产力</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/takeshi_engr/status/2100898418860400928">Using Jev to weigh tasks and visualize them on an Eisenhower matrix</a></h3>
+<p>The author built an app that uses Jev to weigh tasks and visualize them on an Eisenhower matrix, already reducing cognitive load for PMs and engineers in early testing.</p>
+<p><strong>中文摘要：</strong>作者开发了一个应用，用 Jev 判断任务权重并在艾森豪威尔矩阵上可视化，试用阶段已能降低 PM 和工程师的思考负担。</p>
+<p><strong>Takeshi</strong> · @takeshi_engr · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 57</p>
+<p><a href="https://x.com/takeshi_engr/status/2100898418860400928">在 X 查看原帖</a></p>
 </td>
 <td width="50%"></td>
 </tr>

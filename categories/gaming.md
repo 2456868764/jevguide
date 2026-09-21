@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 73 | 63 | 11 | 588K |
+| 85 | 74 | 12 | 588K |
 
 ## Showcase 卡片
 
@@ -539,6 +539,89 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/haruka_apps/status/2101196231355830727"><img src="https://pbs.twimg.com/amplify_video_thumb/2101195890694451200/img/tVpFrMCefi9jyqJC.jpg" alt="TypeSafe AI (Jev) Real-Time Inference Powers Homemade 3D Pinball Machine · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/haruka_apps/status/2101196231355830727">TypeSafe AI (Jev) Real-Time Inference Powers Homemade 3D Pinball Machine</a></h3>
+<p>The author tests TypeSafe AI (Jev)&#39;s real-time inference by having it perform ultra-high-speed autonomous control on a homemade BTTF-style 3D pinball machine.</p>
+<p><strong>中文摘要：</strong>作者测试 TypeSafe AI (Jev) 的实时推理，让其在自制 BTTF 风格 3D 弹珠机上进行超高速自主控制。</p>
+<p><strong>haruka_apps</strong> · @haruka_apps · 2026-09-19</p>
+<p>💬 2 &nbsp; 🔁 5 &nbsp; ♡ 22 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/haruka_apps/status/2101196231355830727">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/koneko59/status/2101303124921356682"><img src="https://pbs.twimg.com/amplify_video_thumb/2101302773715447808/img/lX8vr7hR5q1V2cHP.jpg" alt="Jev Plays Flappy Bird: Reading Canvas Info to Make Judgments · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/koneko59/status/2101303124921356682">Jev Plays Flappy Bird: Reading Canvas Info to Make Judgments</a></h3>
+<p>A user shows Jev playing Flappy Bird, pulling information from the canvas to make judgments.</p>
+<p><strong>中文摘要：</strong>用户展示让 Jev 玩 Flappy Bird，从画布提取信息并据此做出判断。</p>
+<p><strong>‍タイガー</strong> · @koneko59 · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/koneko59/status/2101303124921356682">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hirostudiocom/status/2101196835645980981"><img src="https://pbs.twimg.com/amplify_video_thumb/2101196809762967552/img/xSW08GcgglQ4_tAD.jpg" alt="Controlling game characters with Jev: AI decides actions, JS executes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hirostudiocom/status/2101196835645980981">Controlling game characters with Jev: AI decides actions, JS executes</a></h3>
+<p>A developer tries using Jev to control all game characters, with Jev deciding where to move and what to do while the JS side handles actual movement and game processing, currently letting AIs fight each other.</p>
+<p><strong>中文摘要：</strong>开发者尝试用 Jev 控制游戏中的所有角色，由 Jev 决定移动和行动，JS 侧负责实际移动与游戏处理，目前让 AI 互相对战观察。</p>
+<p><strong>Hiroyuki＠個人ゲーム開発</strong> · @hirostudiocom · 2026-09-19</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 531</p>
+<p><a href="https://x.com/hirostudiocom/status/2101196835645980981">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aslammdoctor/status/2101296272808530401"><img src="https://pbs.twimg.com/amplify_video_thumb/2101296206261743618/img/H8HlyHVqo1HjA9tk.jpg" alt="Adding JEV Move Suggestions to a React Chess Game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aslammdoctor/status/2101296272808530401">Adding JEV Move Suggestions to a React Chess Game</a></h3>
+<p>A developer cloned a React chess game and integrated JEV so it can suggest the next move.</p>
+<p><strong>中文摘要：</strong>开发者克隆了一个 React 国际象棋游戏并集成 JEV，使其能够建议下一步走法。</p>
+<p><strong>Aslam Doctor</strong> · @aslammdoctor · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 208</p>
+<p><a href="https://x.com/aslammdoctor/status/2101296272808530401">在 X 查看原帖</a> · <a href="https://t.co/LF7PfPiQUK">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/whycallqq/status/2101270905670291536"><img src="https://pbs.twimg.com/amplify_video_thumb/2101270818080833536/img/lK9NT_EK-NncYmka.jpg" alt="Jev Autonomously Plays a Poker Roguelike · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/whycallqq/status/2101270905670291536">Jev Autonomously Plays a Poker Roguelike</a></h3>
+<p>A developer embedded Jev in a game loop, letting it buy upgrades, discard cards, choose hands and complete an entire poker roguelike run without a chatbot or scripted NPC.</p>
+<p><strong>中文摘要：</strong>开发者将 Jev 嵌入游戏循环，使其能自主购买升级、弃牌、选择手牌并完成整局扑克 Roguelike，无需聊天机器人或脚本 NPC。</p>
+<p><strong>为什么叫QQ</strong> · @whycallqq · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 168</p>
+<p><a href="https://x.com/whycallqq/status/2101270905670291536">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hirostudiocom/status/2101327771956117663"><img src="https://pbs.twimg.com/amplify_video_thumb/2101327320271441920/img/LtFzB-XbkP6qqZc_.jpg" alt="Using Jev for Game Balance Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hirostudiocom/status/2101327771956117663">Using Jev for Game Balance Decisions</a></h3>
+<p>A developer has Jev continuously decide &quot;raise/lower&quot; to adjust game balance, with physics handled in JS and Jev making the decisions.</p>
+<p><strong>中文摘要：</strong>开发者让 Jev 持续判断“上调/下调”来调整游戏平衡，物理演算由 JS 处理，Jev 负责决策。</p>
+<p><strong>Hiroyuki＠個人ゲーム開発</strong> · @hirostudiocom · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 151</p>
+<p><a href="https://x.com/hirostudiocom/status/2101327771956117663">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/raxxoofficial/status/2101210121925779809"><img src="https://pbs.twimg.com/amplify_video_thumb/2101209758225092608/img/JPhC5dYwIcfQo3vK.jpg" alt="JEV Tries to Beat NIGHTMILE Game Record · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/raxxoofficial/status/2101210121925779809">JEV Tries to Beat NIGHTMILE Game Record</a></h3>
+<p>RAXXO Studios has JEV play its NIGHTMILE game, but JEV has yet to beat the developer&#39;s record.</p>
+<p><strong>中文摘要：</strong>RAXXO Studios 让 JEV 试玩其 NIGHTMILE 游戏，目前 JEV 尚未打破开发者纪录。</p>
+<p><strong>RAXXO Studios | Creative Studio</strong> · @raxxoofficial · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><a href="https://x.com/raxxoofficial/status/2101210121925779809">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/JA1MEXD3ZTR0Y3R/status/2101385288077504715"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384258736541696/img/Jk9DYVOmBB8lx0xQ.jpg" alt="Building a Jev-like agent harness with Claude to let Gemma 4 4B play PS1 games · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -548,6 +631,19 @@
 <p><strong>high-meh</strong> · @JA1MEXD3ZTR0Y3R · 2026-09-19</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
 <p><a href="https://x.com/JA1MEXD3ZTR0Y3R/status/2101385288077504715">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CharryLee426/status/2101219910164807874"><img src="https://pbs.twimg.com/amplify_video_thumb/2101219888228663296/img/yQJUyKvmWnYthDS6.jpg" alt="Jev Plays Official Tetris Effortlessly · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CharryLee426/status/2101219910164807874">Jev Plays Official Tetris Effortlessly</a></h3>
+<p>A post showcasing Jev playing official Tetris smoothly.</p>
+<p><strong>中文摘要：</strong>一则展示 Jev 流畅游玩官方俄罗斯方块的帖子。</p>
+<p><strong>Charlie (Chen Li)</strong> · @CharryLee426 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/CharryLee426/status/2101219910164807874">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/azakhary/status/2101190707604062679"><img src="https://pbs.twimg.com/media/HSjtjCaXEAAUZll?format=jpg&amp;name=medium" alt="Jev for Game Playtesting and Design Feedback · 原帖图片" width="100%"></a>
@@ -644,6 +740,54 @@
 <p><strong>Tony Dinh</strong> · @tdinh_me · 2026-09-18</p>
 <p>💬 90 &nbsp; 🔁 15 &nbsp; ♡ 270 &nbsp; 📊 62K</p>
 <p><a href="https://x.com/tdinh_me/status/2101083073777750223">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GOROman/status/2100927827399135625"><img src="https://pbs.twimg.com/amplify_video_thumb/2100927771979767808/img/nEWzFqUflGpL7c0X.jpg" alt="Playing Famicom on JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GOROman/status/2100927827399135625">Playing Famicom on JEV</a></h3>
+<p>User shares running Famicom games on JEV, feeling it&#39;s close to the real thing.</p>
+<p><strong>中文摘要：</strong>用户分享在 JEV 上运行红白机游戏，感觉已接近真实体验。</p>
+<p><strong>NULL=RUN</strong> · @GOROman · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 7 &nbsp; ♡ 27 &nbsp; 📊 4.8K</p>
+<p><a href="https://x.com/GOROman/status/2100927827399135625">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pankajparkar/status/2100886506684711166"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Can Jev improve the chess engine Kibitz? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pankajparkar/status/2100886506684711166">Can Jev improve the chess engine Kibitz?</a></h3>
+<p>A user asks whether Jev could be useful for the chess engine Kibitz and looks forward to potential improvements.</p>
+<p><strong>中文摘要：</strong>用户询问 Jev 是否可用于国际象棋引擎 Kibitz，并期待其带来改进。</p>
+<p><strong>Pankaj Parkar 🇮🇳</strong> · @pankajparkar · 2026-09-18</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 260</p>
+<p><a href="https://x.com/pankajparkar/status/2100886506684711166">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GroverInnovate/status/2101034633462977016"><img src="https://pbs.twimg.com/amplify_video_thumb/2101034366273196032/img/RwQFUJtnoZj50b7-.jpg" alt="Driving a Tiny Civilization Simulation with Jev: Play God and Watch Factions React · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GroverInnovate/status/2101034633462977016">Driving a Tiny Civilization Simulation with Jev: Play God and Watch Factions React</a></h3>
+<p>A user shares using Jev to give a tiny civilization multiple minds, where factions react to kindness or tyranny, and invites trying GODMODE in replies.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 为小型文明赋予多个心智，让各派系根据善意或暴政做出反应，并邀请在回复中尝试 GODMODE。</p>
+<p><strong>Grover</strong> · @GroverInnovate · 2026-09-18</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 189</p>
+<p><a href="https://x.com/GroverInnovate/status/2101034633462977016">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SaikatDas_/status/2101016122523083184"><img src="https://pbs.twimg.com/media/HShNpcPbIAArjS7?format=jpg&amp;name=medium" alt="Jev nearly wins 100-round Iterated Prisoner&#39;s Dilemma tournament · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SaikatDas_/status/2101016122523083184">Jev nearly wins 100-round Iterated Prisoner&#39;s Dilemma tournament</a></h3>
+<p>The author entered TypeSafe&#39;s Jev model into a 100-round Iterated Prisoner&#39;s Dilemma tournament against classic game-theory strategies; Jev nearly won, showing how it behaves when trust is on the line.</p>
+<p><strong>中文摘要：</strong>作者将 TypeSafe 的 Jev 模型放入 100 轮迭代囚徒困境锦标赛，与经典博弈论策略对战，Jev 几乎赢得比赛，展示了其在信任博弈中的行为表现。</p>
+<p><strong>Saikat </strong> · @SaikatDas_ · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 123</p>
+<p><a href="https://x.com/SaikatDas_/status/2101016122523083184">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/_MaxBlade/status/2100634359099232678"><img src="https://pbs.twimg.com/amplify_video_thumb/2100633400717565952/img/KlytLNSLCQA-yY2E.jpg" alt="Jev Plays Subway Surfers at Superhuman Speed and Runs 50 Games at Once · 原帖视频截图" width="100%"></a>

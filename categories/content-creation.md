@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 28 | 26 | 3 | 101K |
+| 32 | 30 | 3 | 101K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/sidodtv/status/2101995122896654455"><img src="https://pbs.twimg.com/amplify_video_thumb/2101994941669163008/img/ZB4KafmG8LMq-fXU.jpg" alt="Auto-generating a Jev explainer video with DirecTune · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sidodtv/status/2101995122896654455">Auto-generating a Jev explainer video with DirecTune</a></h3>
+<p>A developer shares using DirecTune to auto-generate backgrounds and an explainer video for Jev, showcasing an AI-assisted video production workflow.</p>
+<p><strong>中文摘要：</strong>开发者分享用 DirecTune 为 Jev 自动生成背景与解说视频，展示 AI 辅助视频制作流程。</p>
+<p><strong>内田勉 DirecTune.app β公開中</strong> · @sidodtv · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 109</p>
+<p><a href="https://x.com/sidodtv/status/2101995122896654455">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/yurinakanishi33/status/2101946125385437622"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941849707761664/img/80vOcsRZ9JcYUlqC.jpg" alt="Jev Hackathon: Correction on Haiku Generation with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>内容创作</code> <code>原帖视频</code></sub>
@@ -45,6 +56,32 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 88</p>
 <p><a href="https://x.com/yurinakanishi33/status/2101946125385437622">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/wtry1102/status/2101995325145882707"><img src="https://pbs.twimg.com/amplify_video_thumb/2101993960004841472/img/8R5SAshOhQlu-vSj.jpg" alt="Making a Jev explainer short with Astra · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/wtry1102/status/2101995325145882707">Making a Jev explainer short with Astra</a></h3>
+<p>The author says they didn&#39;t fully understand the trending Jev, so they had Astra generate a short explainer video to help.</p>
+<p><strong>中文摘要：</strong>作者表示此前不太了解话题中的 Jev，于是让 Astra 生成了一段解说短视频来帮助理解。</p>
+<p><strong>WTR</strong> · @wtry1102 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
+<p><a href="https://x.com/wtry1102/status/2101995325145882707">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JustinPerea/status/2101996047257972932"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995322113232896/img/kEWRwgX9al15rCKC.jpg" alt="Using Jev to pick from a JSON catalog and render scenes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JustinPerea/status/2101996047257972932">Using Jev to pick from a JSON catalog and render scenes</a></h3>
+<p>The user gives Jev a JSON catalog of characters, colors, environments, and props; after prompting, it picks options in about 500 ms and a renderer draws the scene.</p>
+<p><strong>中文摘要：</strong>用户给 Jev 提供角色、颜色、环境和道具的 JSON 目录，提示后约 500 毫秒内选出选项，再由渲染器绘制场景。</p>
+<p><strong>Justin.md</strong> · @JustinPerea · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><a href="https://x.com/JustinPerea/status/2101996047257972932">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/huggingpuppy/status/2101898004529647951"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897948271427584/img/iVA5QQzUIfrwrRa1.jpg" alt="Jev Model: Turning Poets into Musicians, Talking to Your Piano · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +92,17 @@
 <p><strong>Kasra</strong> · @huggingpuppy · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
 <p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/garrrikkotua/status/2102000382612295744"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997452370796544/img/mV0n2InAuESEfMB6.jpg" alt="Jev + Octolens: Score Your Posts Against Yourself · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/garrrikkotua/status/2102000382612295744">Jev + Octolens: Score Your Posts Against Yourself</a></h3>
+<p>Introduces the Jev + Octolens integration: enter your handle, it reads your last 60 posts, Jev asks 56 questions about each, establishing your personal baseline (50 = your normal) for scoring drafts.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 与 Octolens 的集成：输入账号后读取最近60条帖子，Jev 对每条提出56个问题，建立个人基准（50分=你的正常水平），再用于草稿评分。</p>
+<p><strong>Igor Kotua</strong> · @garrrikkotua · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/garrrikkotua/status/2102000382612295744">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

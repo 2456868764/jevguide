@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 47 | 35 | 12 | 595K |
+| 49 | 36 | 13 | 595K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/0xTreff/status/2101997289715773761"><img src="https://pbs.twimg.com/amplify_video_thumb/2101984820221915136/img/-F-JpnfTElsc7Dq0.jpg" alt="Jev ticket router: one model call with code deciding next steps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xTreff/status/2101997289715773761">Jev ticket router: one model call with code deciding next steps</a></h3>
+<p>The author shares that their Jev ticket router uses a single LLM call with code deciding what happens next, citing Barry Zhang, coauthor of Anthropic&#39;s agent-building guide.</p>
+<p><strong>中文摘要：</strong>作者分享其 Jev 工单路由器采用单次 LLM 调用、由代码决定后续步骤的方式，并引用 Anthropic 智能体构建指南合著者 Barry Zhang 的观点。</p>
+<p><strong>Treff</strong> · @0xTreff · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 153</p>
+<p><a href="https://x.com/0xTreff/status/2101997289715773761">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Pluvio9yte/status/2101951934811066867"><img src="https://pbs.twimg.com/media/HSuiJWVbcAA4XFF?format=jpg&amp;name=medium" alt="Real-world delivery workflow combining Jev model with Kooko · 原帖图片" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 143</p>
 <p><a href="https://x.com/Pluvio9yte/status/2101951934811066867">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yo_ta_n/status/2101885032881365222"><img src="https://pbs.twimg.com/media/HStlLahaQAAk0uG?format=jpg&amp;name=medium" alt="Building a Family LINE Bot with Dify and Jev to Control Smart Home · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 79</p>
 <p><a href="https://x.com/yo_ta_n/status/2101885032881365222">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mitakamikata/status/2102000526489702733"><img src="https://pbs.twimg.com/amplify_video_thumb/2101996169836818432/img/9KrYjAfNMJD2I-rX.jpg" alt="Chrome extension that auto-fills browser forms with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
 <p><a href="https://x.com/mitakamikata/status/2102000526489702733">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yedabinbinah/status/2101882986027442211"><img src="https://pbs.twimg.com/amplify_video_thumb/2100809295809974272/img/_1rbvz04k6wjpcGW.jpg" alt="JEV voice controls Mac: tasks execute on command · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/yedabinbinah/status/2101882986027442211">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101962222545047616"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101962188789297152/pu/img/ZGkP1dj59Pfh8kn4.jpg" alt="Laya, an open-source alternative to Jev: millisecond decision engine · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/1CMartinez/status/2101962222545047616">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikawuf/status/2101942471701692503"><img src="https://pbs.twimg.com/amplify_video_thumb/2101728406949994496/img/04cY92dR_CtMYtoX.jpg" alt="arc-cua hands desktop tasks to Jev for clicks and typing · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +140,17 @@
 <p><strong>Mika Heinonen</strong> · @mikawuf · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/mikawuf/status/2101942471701692503">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Minhajeez/status/2101997349283500225"><img src="https://pbs.twimg.com/media/HSvLa5uagAAmY-H?format=png&amp;name=medium" alt="Jev routes voice agent turns in ~100ms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Minhajeez/status/2101997349283500225">Jev routes voice agent turns in ~100ms</a></h3>
+<p>A developer shares that their voice agent waited seconds per turn running Qwen3 on a 4090; using Jev for choice/true-false/score decisions routes each turn in ~100ms and only fires the GPU when reasoning is truly needed.</p>
+<p><strong>中文摘要：</strong>开发者分享：语音智能体在 4090 上运行 Qwen3 每轮等待数秒，改用 Jev 做选择/真假/评分决策后，每轮路由约100ms，仅在真正需要推理时才调用 GPU。</p>
+<p><strong>Sabbir Ahmed</strong> · @Minhajeez · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Minhajeez/status/2101997349283500225">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

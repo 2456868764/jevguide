@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 160 | 79 | 81 | 1.6M |
+| 164 | 81 | 83 | 1.6M |
 
 ## Showcase 卡片
 
@@ -44,6 +44,30 @@
 <p><strong>Vyom</strong> · @HelloVyom · 2026-09-21</p>
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 433</p>
 <p><a href="https://x.com/HelloVyom/status/2101897801609449901">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Digiato/status/2101998584644198685"><img src="https://pbs.twimg.com/media/HSvMjqaWwAA7p6f?format=jpg&amp;name=medium" alt="What Is the Jev Model and Why Developers Are Interested · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Digiato/status/2101998584644198685">What Is the Jev Model and Why Developers Are Interested</a></h3>
+<p>Introduces the Jev model: unlike large language models, it does not generate text but instead provides the probability of different decisions, drawing developer interest.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 模型：与大型语言模型不同，它不生成文本，而是输出不同决策发生的概率，因此受到开发者关注。</p>
+<p><strong>Digiato | دیجیاتو</strong> · @Digiato · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 410</p>
+<p><a href="https://x.com/Digiato/status/2101998584644198685">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HarryTandy/status/2101993990581076131"><img src="https://pbs.twimg.com/amplify_video_thumb/2101993250018000896/img/HycVrn-p_hA3X6dY.jpg" alt="Understanding Jev&#39;s Choice, Score, and Noul in 22 Minutes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HarryTandy/status/2101993990581076131">Understanding Jev&#39;s Choice, Score, and Noul in 22 Minutes</a></h3>
+<p>Vishwas Gopinath explains Jev&#39;s Choice, Score, and Noul in 22 minutes, then builds the same decision flow in the Playground and TypeScript, suggesting code for obvious calls and Jev for the messy ones.</p>
+<p><strong>中文摘要：</strong>Vishwas Gopinath 用22分钟讲解 Jev 的 Choice、Score 和 Noul，并在 Playground 与 TypeScript 中构建相同的决策流，建议用代码处理明确调用、用 Jev 处理复杂情况。</p>
+<p><strong>Harry Tandy</strong> · @HarryTandy · 2026-09-21</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 331</p>
+<p><a href="https://x.com/HarryTandy/status/2101993990581076131">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/aqhayami/status/2101939208185389533"><img src="https://pbs.twimg.com/amplify_video_thumb/2101831502053179392/img/V-74zZmkKB_P_-TQ.jpg" alt="Jev suits CPU behavior that occasionally errs like humans · 原帖视频截图" width="100%"></a>
@@ -166,6 +190,19 @@
 <p><a href="https://x.com/nothal9000/status/2101941728404296040">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/xKOPFx/status/2101995370607710324"><img src="https://pbs.twimg.com/media/HSvJo78XgAAqju2?format=png&amp;name=small" alt="Jev&#39;s Radically Simple Design Sparks Discussion · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xKOPFx/status/2101995370607710324">Jev&#39;s Radically Simple Design Sparks Discussion</a></h3>
+<p>A user remarks that Jev is so simple they wonder why it hasn&#39;t been the standard for 20 years.</p>
+<p><strong>中文摘要：</strong>用户感叹 Jev 简单到令人惊讶，并质疑为何这种设计没有在二十年前就成为标准。</p>
+<p><strong>MaNNi KoPF</strong> · @xKOPFx · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/xKOPFx/status/2101995370607710324">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/fourweekmba/status/2101899411940888854"><img src="https://pbs.twimg.com/media/HStyYEaXgAA9MyI?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev and the Leaderboard Category Split Problem · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -176,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/fourweekmba/status/2101899411940888854">在 X 查看原帖</a> · <a href="https://t.co/vbQyb7Cpuv">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManideepPa5443/status/2101951402851332147"><img src="https://pbs.twimg.com/media/HSuhorQXYAAydqU?format=jpg&amp;name=medium" alt="Jev Model: AI Agents Don&#39;t Need an LLM for Every Decision · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/ManideepPa5443/status/2101951402851332147">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hakoneko/status/2101902961983299728"><img src="https://pbs.twimg.com/media/HSt1mRrbwAA-pYA?format=jpg&amp;name=medium" alt="User tries Jev: rule-based bulk classification and scoring · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/hakoneko/status/2101902961983299728">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sunilmehta_695/status/2101944038559510774"><img src="https://pbs.twimg.com/media/HSua7yXWEAACML9?format=jpg&amp;name=medium" alt="Jev Is Not a Smaller Chat Model, but a Different Interface to Intelligence · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Sunilmehta_695/status/2101944038559510774">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nugalaxyhq/status/2101973151836000534"><img src="https://pbs.twimg.com/media/HSuz4k6WkAACPDG?format=png&amp;name=900x900" alt="Jev Doesn&#39;t Write Answers, It Picks the Next Move · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/nugalaxyhq/status/2101973151836000534">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MeetSirari/status/2101896762239995911"><img src="https://pbs.twimg.com/media/HStv8dvbMAANUKT?format=jpg&amp;name=medium" alt="User reads Jev Architecture: a model layer parallel to LLMs · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/MeetSirari/status/2101896762239995911">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VenkataSub34/status/2101855079615942707"><img src="https://pbs.twimg.com/media/HStJVFyasAAySo5?format=jpg&amp;name=medium" alt="Jev for Fast Bounded Judgement, MonkDB Adds Enterprise Layer · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/VenkataSub34/status/2101855079615942707">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/getSubhan/status/2101943680294867060"><img src="https://pbs.twimg.com/media/HSuancnaQAAtzl1?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: Decisions, Not Strings · 原帖图片" width="100%"></a>
 <br>
@@ -260,6 +295,19 @@
 <p><strong>Subhan</strong> · @getSubhan · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/getSubhan/status/2101943680294867060">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hevmind/status/2101996239130943924"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995732076990464/img/3xpu0y8FeqrMHG03.jpg" alt="Jev&#39;s closed-decision boundary: enumerable slots vs. LLM · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hevmind/status/2101996239130943924">Jev&#39;s closed-decision boundary: enumerable slots vs. LLM</a></h3>
+<p>The post argues Jev fits closed decisions: pick the tool, fill enumerable slots, and use an LLM only when input can&#39;t be enumerated—calling that the right line to draw.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 适合封闭决策：先选工具、填充可枚举槽位，仅在输入无法枚举时才交给 LLM，并认为这是合理的分界线。</p>
+<p><strong>hev mind</strong> · @hevmind · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/hevmind/status/2101996239130943924">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/paulocoutinhox/status/2101907221927878731"><img src="https://pbs.twimg.com/media/HSt5dDKXkAEf7K4?format=jpg&amp;name=medium" alt="JEV Model: Evaluating States to Produce Structured Decisions · 原帖图片" width="100%"></a>

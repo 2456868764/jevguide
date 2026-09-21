@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 141 | 118 | 25 | 588K |
+| 147 | 122 | 27 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hAru_mAki_ch/status/2101994638102127086"><img src="https://pbs.twimg.com/amplify_video_thumb/2101994582971985920/img/mgy1lmzlCPPnwMC0.jpg" alt="5 Jev Clones vs Jev in a Side-Scrolling Game: The Original Wins · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hAru_mAki_ch/status/2101994638102127086">5 Jev Clones vs Jev in a Side-Scrolling Game: The Original Wins</a></h3>
+<p>The author pit 5 Jev clones against the original Jev in a side-scrolling game, and the original Jev won by a landslide.</p>
+<p><strong>中文摘要：</strong>作者用5个Jev系克隆体与Jev本体进行横版卷轴游戏对战，结果Jev本家完胜。</p>
+<p><strong>Maki@Sunwood AI Labs.</strong> · @hAru_mAki_ch · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 589</p>
+<p><a href="https://x.com/hAru_mAki_ch/status/2101994638102127086">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/winebaizou/status/2101994437002072365"><img src="https://pbs.twimg.com/amplify_video_thumb/2101994292646760448/img/eJb-OBlF4mqf3si9.jpg" alt="Driving 3D Character Expressions and Motion with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/winebaizou/status/2101994437002072365">Driving 3D Character Expressions and Motion with Jev</a></h3>
+<p>The author uses Jev to make a 3D character react with face and body when talked to and while watching YouTube together, with a demo link.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 让 3D 角色在对话和一起看 YouTube 时做出面部与身体反应，并附上演示链接。</p>
+<p><strong>野中健吾</strong> · @winebaizou · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 171</p>
+<p><a href="https://x.com/winebaizou/status/2101994437002072365">在 X 查看原帖</a> · <a href="https://t.co/6grrslvxO6">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akihiro_genai/status/2101908942183899463"><img src="https://pbs.twimg.com/amplify_video_thumb/2101908669038563328/img/7AyApqLmCvS7v1lE.jpg" alt="Building a Talk-Show Game with Jev-Powered AI Audience · 原帖视频截图" width="100%"></a>
@@ -46,6 +70,19 @@
 <p><a href="https://x.com/mitraalice1/status/2101887269170708571">在 X 查看原帖</a> · <a href="https://t.co/5vFfFN9UMn">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/k1togami/status/2101998003846631433"><img src="https://pbs.twimg.com/media/HSvMCtvbAAA7rDv?format=jpg&amp;name=medium" alt="Building a Natural-Language RPG with a Jev-Style Local LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/k1togami/status/2101998003846631433">Building a Natural-Language RPG with a Jev-Style Local LLM</a></h3>
+<p>The author proposes a concept: a Jev-style local LLM could power an RPG without command-based combat, letting players interact in natural language, and argues it would not be hard to build.</p>
+<p><strong>中文摘要：</strong>作者提出一个概念：用 Jev 式的本地 LLM 驱动，让没有指令式战斗的 RPG 能以自然语言游玩，并认为实现难度不高。</p>
+<p><strong>k1t(外神)</strong> · @k1togami · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 70</p>
+<p><a href="https://x.com/k1togami/status/2101998003846631433">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Vtuber7144/status/2102000159337140414"><img src="https://pbs.twimg.com/media/HK7idMlXAAAvuip.jpg" alt="Jev-like Responsive Tech May Disrupt Digital TCGs · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 68</p>
 <p><a href="https://x.com/Vtuber7144/status/2102000159337140414">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/loktar00/status/2101851403790512615"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev and a Local LLM Play Unreal Tournament 99 · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 63</p>
 <p><a href="https://x.com/loktar00/status/2101851403790512615">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AiWithBDN/status/2101902757573828982"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902729723674624/img/DckbSt_2ITupFrff.jpg" alt="Jev and Astra Beat Minecraft Ender Dragon in 8m 43s · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/AiWithBDN/status/2101902757573828982">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101895983202439248"><img src="https://pbs.twimg.com/media/HStvL9-awAAZzBi?format=jpg&amp;name=900x900" alt="Jev and Codex Team Up to Reach the Nether in Minecraft · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
 <p><a href="https://x.com/geeorgey/status/2101895983202439248">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sidodtv/status/2101951519373574597"><img src="https://pbs.twimg.com/media/HSuhbq5aMAAOqac?format=jpg&amp;name=medium" alt="Ultra-fast futsal simulator built with Jev and Laya · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 60</p>
 <p><a href="https://x.com/sidodtv/status/2101951519373574597">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notef_fn/status/2101949849273053335"><img src="https://pbs.twimg.com/amplify_video_thumb/2101949795422375936/img/0ROtyxvgLbc_8nvY.jpg" alt="Testing Automated Gameplay with Jev and Local SAM · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/notef_fn/status/2101949849273053335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notf/status/2101915884663308796"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915195270705152/img/kjIWIfyIlvpPCwRj.jpg" alt="Jev Speeds Up Parameter Tuning in DreamCore Game Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
 <p><a href="https://x.com/notf/status/2101915884663308796">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101942787554091351"><img src="https://pbs.twimg.com/media/HSuZfLYaQAAinYE?format=jpg&amp;name=medium" alt="Jev connection restored, game exploration continues · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/geeorgey/status/2101942787554091351">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aixaipr/status/2101955720619135277"><img src="https://pbs.twimg.com/amplify_video_thumb/2101954747637121024/img/NxrUrg8wch953cPF.jpg" alt="Jev AI Plays the Roles of 9 Other Players in Werewolf · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +189,30 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/aixaipr/status/2101955720619135277">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/k_kinzal/status/2101998435016778117"><img src="https://pbs.twimg.com/amplify_video_thumb/2101998205823254528/img/NvUZxnysTvak3foR.jpg" alt="Trying JEV on a Nonogram Puzzle Without Success · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/k_kinzal/status/2101998435016778117">Trying JEV on a Nonogram Puzzle Without Success</a></h3>
+<p>A user shares an unsuccessful attempt to solve a Nonogram with JEV and asks where to find a community for less skilled JEV users.</p>
+<p><strong>中文摘要：</strong>用户分享用 JEV 解数织谜题但未能成功，并询问 JEV 使用不熟练的社群在哪里。</p>
+<p><strong>Rust のような何か with 任意</strong> · @k_kinzal · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/k_kinzal/status/2101998435016778117">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davidbash/status/2101995433874641014"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995300743184384/img/bZ-mRAiGJ1a6gGAE.jpg" alt="Two Jevs Battle in a Maze: A* Pathfinding and Real-Time Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davidbash/status/2101995433874641014">Two Jevs Battle in a Maze: A* Pathfinding and Real-Time Decisions</a></h3>
+<p>A developer demonstrates two TypeSafe Jev models choosing moves in real time within a maze, using A* for pathfinding and rock-paper-scissors to resolve clashes, emphasizing straight probabilities over chat.</p>
+<p><strong>中文摘要：</strong>开发者展示两个 TypeSafe Jev 模型在迷宫中实时选择移动，用 A* 算法实现路径，冲突时以石头剪刀布决定归属，强调直接的概率决策而非聊天。</p>
+<p><strong>BashBash, the Builder ☀️</strong> · @davidbash · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/davidbash/status/2101995433874641014">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/wellback000/status/2101931130731852088"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930824686096384/img/1gqQc_5FgU_1NRJk.jpg" alt="Playing Tetris with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/wellback000/status/2101931130731852088">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101909864792613107"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="AI Agents Jev and Astra Team Up to Beat Minecraft&#39;s Ender Dragon · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101909864792613107">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2102001727260209202"><img src="https://pbs.twimg.com/amplify_video_thumb/2102001535337332736/img/-XK3dG-qamqjP_yL.jpg" alt="Jev autonomously approaches and attacks enemies in-game · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/geeorgey/status/2102001727260209202">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AflGains/status/2101911297768280442"><img src="https://pbs.twimg.com/amplify_video_thumb/2101911051977756672/img/3nO06Gtj5lX6lSiA.jpg" alt="Connecting Jev to an AFL Simulator for Experiments · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/AflGains/status/2101911297768280442">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/attrip/status/2101915424090996896"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915176920621056/img/FgDRxjkCNi7K4CPO.jpg" alt="Building an Othello Game with Jev Advice · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/attrip/status/2101915424090996896">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chetanankola/status/2101905824935518655"><img src="https://pbs.twimg.com/amplify_video_thumb/2101905179398598656/img/ijoqvkO9OEu7rs8h.jpg" alt="Browser Anime Skateboarding Project Adds Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/chetanankola/status/2101905824935518655">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Creaspan/status/2101907353830662145"><img src="https://pbs.twimg.com/media/HSt426dbEAE31PN?format=jpg&amp;name=medium" alt="Open-source chess game: play against Jev&#39;s System One agent · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/Creaspan/status/2101907353830662145">在 X 查看原帖</a> · <a href="https://t.co/dPZJJAE0ME">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yelkhayami/status/2101944518883037562"><img src="https://pbs.twimg.com/amplify_video_thumb/2100910848029978624/img/NHqTOxDSKfgV7bX1.jpg" alt="Building a Nintendo DS Game with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/yelkhayami/status/2101944518883037562">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geeorgey/status/2101913523140055173"><img src="https://pbs.twimg.com/media/HSt_GfvaoAAvQu6?format=jpg&amp;name=900x900" alt="Codex and Jev Collaborate to Build a 30-Block Bridge in Minecraft · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/geeorgey/status/2101913523140055173">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikawuf/status/2101942478454558856"><img src="https://pbs.twimg.com/amplify_video_thumb/2101827235925590016/img/Z9-x2VHoe3B_rhqT.jpg" alt="GLM 5.3 Flash plus Jev hybrid speeds up strategy game 13x · 原帖视频截图" width="100%"></a>
 <br>
@@ -271,6 +332,17 @@
 <p><strong>Mika Heinonen</strong> · @mikawuf · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/mikawuf/status/2101942478454558856">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/quantium16/status/2101997560491847856"><img src="https://pbs.twimg.com/media/HSvLpIqbEAAxS_0?format=jpg&amp;name=medium" alt="Infinity Runner game built around JEV launches · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/quantium16/status/2101997560491847856">Infinity Runner game built around JEV launches</a></h3>
+<p>The author says JEV is now in Meta and built a web game where it runs endlessly collecting glasses; players can submit completion screenshots, with top performers receiving token supply.</p>
+<p><strong>中文摘要：</strong>作者表示 JEV 现已进入 Meta，并制作了一个让角色无限奔跑收集眼镜的网页游戏，玩家可提交通关截图，表现优异者将获得代币供应。</p>
+<p><strong>grahma.dev</strong> · @quantium16 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/quantium16/status/2101997560491847856">在 X 查看原帖</a> · <a href="https://t.co/4iWwFEV2KX">原文链接</a></p>
 </td>
 </tr>
 <tr>

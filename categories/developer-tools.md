@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 157 | 83 | 75 | 3.6M |
+| 161 | 85 | 77 | 3.6M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/kaskulikowski/status/2101995976781135883"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995732076990464/img/3xpu0y8FeqrMHG03.jpg" alt="Experimenting with Jev and WebMCP: Tool Selection and Input Filling · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kaskulikowski/status/2101995976781135883">Experimenting with Jev and WebMCP: Tool Selection and Input Filling</a></h3>
+<p>The author shares an experiment using Jev with WebMCP: Jev selects the next tool and fills enumerable inputs, falling back to an LLM when the same call needs free text or a number, with the LLM filling only those non-enumerable values.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 与 WebMCP 的实验：Jev 选择下一个工具并填充可枚举输入，当同一调用需要自由文本或数字时回退到 LLM，非枚举值也由 LLM 填充。</p>
+<p><strong>Kasper</strong> · @kaskulikowski · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 11 &nbsp; 📊 610</p>
+<p><a href="https://x.com/kaskulikowski/status/2101995976781135883">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/golangch/status/2101888872930329032"><img src="https://pbs.twimg.com/media/HStoyqYboAAEOh9?format=jpg&amp;name=medium" alt="Ax: Cross-Language DSPy-Style LLM Programming with Jev Support · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 586</p>
 <p><a href="https://x.com/golangch/status/2101888872930329032">在 X 查看原帖</a> · <a href="https://t.co/xSklaX4GX5">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ersinkoc/status/2101937853152256481"><img src="https://pbs.twimg.com/media/HSuUPBuWoAAaEiW?format=png&amp;name=small" alt="Evaluating TypeSafe Console Status via Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 496</p>
 <p><a href="https://x.com/ersinkoc/status/2101937853152256481">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ersinkoc/status/2101940187475345584"><img src="https://pbs.twimg.com/media/HSuWryFXIAAKGzC?format=jpg&amp;name=medium" alt="Jev Benchmark Lab: Stress Testing with 200 Ground-Truth Cases · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Ersin KOÇ</strong> · @ersinkoc · 2026-09-21</p>
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 404</p>
 <p><a href="https://x.com/ersinkoc/status/2101940187475345584">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jevbook/status/2101994751624884490"><img src="https://pbs.twimg.com/media/HSvJE64XYAAqWPH?format=jpg&amp;name=medium" alt="jevbook CLI launches: ask from your terminal, claims checked live · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jevbook/status/2101994751624884490">jevbook CLI launches: ask from your terminal, claims checked live</a></h3>
+<p>jevbook is an open-source MIT CLI that lets you ask questions from your terminal and checks every claim live, with no signup or API key required. Run it via npx jevbook.</p>
+<p><strong>中文摘要：</strong>jevbook 是一个开源 MIT 命令行工具，可在终端直接提问并实时核查每个声明，无需注册或 API 密钥，通过 npx jevbook 即可使用。</p>
+<p><strong>Jevbook</strong> · @jevbook · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 300</p>
+<p><a href="https://x.com/jevbook/status/2101994751624884490">在 X 查看原帖</a> · <a href="https://t.co/gT9igrkhJM">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/krishnakhanna/status/2101967688973344992"><img src="https://pbs.twimg.com/amplify_video_thumb/2101966800208715776/img/zqiYT4qTk8o4znbv.jpg" alt="Autonomous Self-Driving Simulation Built with OpenJev and Codiv · 原帖视频截图" width="100%"></a>
@@ -227,6 +251,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/monoooki/status/2101995909202792603"><img src="https://pbs.twimg.com/media/HSvJ048aEAA4hD_?format=png&amp;name=medium" alt="Jev&#39;s arrival may reduce gpt-oss-20b usage · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/monoooki/status/2101995909202792603">Jev&#39;s arrival may reduce gpt-oss-20b usage</a></h3>
+<p>User says Jev&#39;s arrival may reduce gpt-oss-20b usage, expressing gratitude.</p>
+<p><strong>中文摘要：</strong>用户表示 Jev 的到来可能减少 gpt-oss-20b 的使用，表达感谢。</p>
+<p><strong>まえだかずひこ</strong> · @monoooki · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/monoooki/status/2101995909202792603">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/zohaibtanwir/status/2101897187970171176"><img src="https://pbs.twimg.com/amplify_video_thumb/2101896594950066178/img/FA6bjTgb6HEh9hxQ.jpg" alt="Developer builds email classifier with Jev, sorting 50 emails in under 2 seconds · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -237,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
 <p><a href="https://x.com/zohaibtanwir/status/2101897187970171176">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Alisina_ai/status/2101945497271308579"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Open-source Jev-like model runs on a laptop without API · 原帖视频截图" width="100%"></a>
 <br>
@@ -247,6 +284,17 @@
 <p><strong>Alisina</strong> · @Alisina_ai · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/Alisina_ai/status/2101945497271308579">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/johnjoubert/status/2101999087331491904"><img src="https://pbs.twimg.com/amplify_video_thumb/2101998900873752576/img/LPIGPoDHXd0x8NhL.jpg" alt="Browser Extension Built with Jev to Assess Draft Quality · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/johnjoubert/status/2101999087331491904">Browser Extension Built with Jev to Assess Draft Quality</a></h3>
+<p>A developer built a browser extension using Jev and GPT5.6-luna that assesses post draft quality with a click; not yet published, may be released as a free tool.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 和 GPT5.6-luna 制作浏览器扩展，点击按钮即可评估帖子草稿质量，尚未发布，可能作为免费工具开放。</p>
+<p><strong>John Joubert</strong> · @johnjoubert · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/johnjoubert/status/2101999087331491904">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

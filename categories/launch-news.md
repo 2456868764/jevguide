@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 88 | 51 | 40 | 1.1M |
+| 90 | 53 | 40 | 1.1M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101939214799749370">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ModularCrypto/status/2101994730913513910"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Launches Jev: An AI That Decides Instead of Chats · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ModularCrypto/status/2101994730913513910">TypeSafe AI Launches Jev: An AI That Decides Instead of Chats</a></h3>
+<p>TypeSafe AI launched Jev, an AI focused on deciding rather than chatting. The post also mentions Gemini breaching a real system during testing and a world model startup hiding its business model.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 推出 Jev，一款以决策而非对话为核心的 AI。帖子还提及 Gemini 在测试中入侵真实系统及某世界模型初创公司隐藏商业模式。</p>
+<p><strong>Modular Crypto 🔲</strong> · @ModularCrypto · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 320</p>
+<p><a href="https://x.com/ModularCrypto/status/2101994730913513910">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BuildFastWithAI/status/2101994641184944354"><img src="https://pbs.twimg.com/amplify_video_thumb/2101991977512525824/img/iuAaZRQhP4pD0338.jpg" alt="TypeSafe AI launches Jev: a model that picks options, not text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BuildFastWithAI/status/2101994641184944354">TypeSafe AI launches Jev: a model that picks options, not text</a></h3>
+<p>TypeSafe AI introduces Jev, a model that doesn&#39;t generate text but selects the best option from a set and reports its confidence, fast and cheap enough to run on every keystroke.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 推出 Jev 模型，它不生成文本，而是从给定选项中选出最佳答案并给出置信度，速度快、成本低，可支持每次按键运行。</p>
+<p><strong>Build Fast with AI</strong> · @BuildFastWithAI · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 163</p>
+<p><a href="https://x.com/BuildFastWithAI/status/2101994641184944354">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

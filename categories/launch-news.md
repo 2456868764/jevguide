@@ -1,0 +1,746 @@
+# 产品发布
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 61 | 36 | 27 | 1.1M |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alexatallah/status/2101500566035636634"><img src="https://pbs.twimg.com/amplify_video_thumb/2101061589038477312/img/Jrat3MGWY4vtlsjL.jpg" alt="Jev Model Demo Video and Playground Released · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/alexatallah/status/2101500566035636634">Jev Model Demo Video and Playground Released</a></h3>
+<p>Alex Atallah shares a demo video and playground for the Jev model, using multiple mini demos to visually show why it can be more useful than frontier models.</p>
+<p><strong>中文摘要：</strong>Alex Atallah 分享 Jev 模型的演示视频和 playground，通过多个迷你演示直观展示其为何比前沿模型更实用。</p>
+<p><strong>Alex Atallah</strong> · @alexatallah · 2026-09-20</p>
+<p>💬 12 &nbsp; 🔁 7 &nbsp; ♡ 96 &nbsp; 📊 15K</p>
+<p><a href="https://x.com/alexatallah/status/2101500566035636634">在 X 查看原帖</a> · <a href="https://t.co/bD80xk5v5T">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shipper_now/status/2101602328243773468"><img src="https://pbs.twimg.com/amplify_video_thumb/2101602238120771585/img/bCCAhCupAjZWG3FK.jpg" alt="Jev Launches Google Maps Integration: Turn Local Websites into Native Mobile Apps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shipper_now/status/2101602328243773468">Jev Launches Google Maps Integration: Turn Local Websites into Native Mobile Apps</a></h3>
+<p>Jev adds a Google Maps use case: paste a URL and Jev controls your Mac to rebuild the local website as a native mobile app, then submits it to app stores; the team has used it heavily for iOS apps.</p>
+<p><strong>中文摘要：</strong>Jev 新增 Google Maps 场景：粘贴网址后，Jev 控制 Mac 将本地网站重建为原生移动应用，并代为提交至应用商店，团队已大量用于 iOS 应用。</p>
+<p><strong>Shipper</strong> · @shipper_now · 2026-09-20</p>
+<p>💬 6 &nbsp; 🔁 8 &nbsp; ♡ 40 &nbsp; 📊 5.1K</p>
+<p><a href="https://x.com/shipper_now/status/2101602328243773468">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xCodez/status/2101711947053879598"><img src="https://pbs.twimg.com/amplify_video_thumb/2101711554550939649/img/ehg2RPyTs-_e7PXp.jpg" alt="Jev Founder: JEV Is the Next Step for LLMs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xCodez/status/2101711947053879598">Jev Founder: JEV Is the Next Step for LLMs</a></h3>
+<p>Jev founder Diogo Almeida (ex-OpenAI) says Claude Code and ChatGPT remain in the assistance era, calling JEV the next step for LLMs—claiming 200x faster, 400x cheaper, zero hallucination, and no human in the loop.</p>
+<p><strong>中文摘要：</strong>Jev创始人Diogo Almeida（前OpenAI）称Claude Code和ChatGPT仍属辅助时代，JEV是LLM的下一步，宣称快200倍、便宜400倍、零幻觉且无需人工介入。</p>
+<p><strong>Codez</strong> · @0xCodez · 2026-09-20</p>
+<p>💬 17 &nbsp; 🔁 3 &nbsp; ♡ 50 &nbsp; 📊 3.8K</p>
+<p><a href="https://x.com/0xCodez/status/2101711947053879598">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mynameisyahia/status/2101569199248437437"><img src="https://pbs.twimg.com/amplify_video_thumb/2101568637513633793/img/mu_jNGIFohvm2AgY.jpg" alt="Answers Launches on Product Hunt: Web Research in One API Call · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mynameisyahia/status/2101569199248437437">Answers Launches on Product Hunt: Web Research in One API Call</a></h3>
+<p>Yahia Bakour announces Answers is live on Product Hunt, offering web research in one API call that returns structured JSON plus sources, and asks Jev users to support.</p>
+<p><strong>中文摘要：</strong>Yahia Bakour 宣布 Answers 在 Product Hunt 上线，该工具通过一次 API 调用完成网络研究，返回结构化 JSON 和来源，并呼吁 Jev 用户支持。</p>
+<p><strong>Yahia Bakour</strong> · @mynameisyahia · 2026-09-20</p>
+<p>💬 13 &nbsp; 🔁 8 &nbsp; ♡ 69 &nbsp; 📊 3.6K</p>
+<p><a href="https://x.com/mynameisyahia/status/2101569199248437437">在 X 查看原帖</a> · <a href="https://t.co/KwhErvNAk0">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mika_systems/status/2101745157846823228"><img src="https://pbs.twimg.com/amplify_video_thumb/2101709495202148352/img/z-2Ika4kueJruDyW.jpg" alt="TypeSafe Releases Jev: An AI That Makes Typed Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mika_systems/status/2101745157846823228">TypeSafe Releases Jev: An AI That Makes Typed Decisions</a></h3>
+<p>TypeSafe introduces Jev, which doesn&#39;t generate paragraphs but outputs typed decisions software can use directly, claimed up to 193.6× faster and 444.6× cheaper than frontier models in selected tasks.</p>
+<p><strong>中文摘要：</strong>TypeSafe 推出 Jev，不生成段落，而是直接输出软件可用的类型化决策，据称在特定任务上比前沿模型快 193.6 倍、便宜 444.6 倍。</p>
+<p><strong>Mika</strong> · @mika_systems · 2026-09-20</p>
+<p>💬 8 &nbsp; 🔁 3 &nbsp; ♡ 44 &nbsp; 📊 2.2K</p>
+<p><a href="https://x.com/mika_systems/status/2101745157846823228">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/masahirochaen/status/2101792576575832274"><img src="https://pbs.twimg.com/media/HSsRNZ_bUAAKbOz?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: A System 1 Model That Returns Only Typed Probabilistic Judgments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/masahirochaen/status/2101792576575832274">TypeSafe AI&#39;s Jev: A System 1 Model That Returns Only Typed Probabilistic Judgments</a></h3>
+<p>TypeSafe AI&#39;s Jev model stealth-launched on September 15 by former OpenAI&#39;s Diogo Almeida and others, with $40 million in seed funding. It is a System 1 type that returns no text, only typed probabilistic judgments.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型于 9 月 15 日 stealth launch，由前 OpenAI 的 Diogo Almeida 等人推出，种子资金 4000 万美元。该模型属于 System 1 类型，不返回文本，仅输出类型化概率判断。</p>
+<p><strong>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</strong> · @masahirochaen · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/masahirochaen/status/2101792576575832274">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/samuraipreneur/status/2101798377914507733"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Open Source Jev Released: 60 Decisions per Second, 50x Faster · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/samuraipreneur/status/2101798377914507733">Open Source Jev Released: 60 Decisions per Second, 50x Faster</a></h3>
+<p>Open source Jev is now available, handling 60 decisions per second and 50x faster.</p>
+<p><strong>中文摘要：</strong>开源 Jev 现已发布，每秒可处理 60 次决策，速度提升 50 倍。</p>
+<p><strong>The SamurAI</strong> · @samuraipreneur · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 355</p>
+<p><a href="https://x.com/samuraipreneur/status/2101798377914507733">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/muramar_u/status/2101799071677849856"><img src="https://pbs.twimg.com/media/HSsXHWKasAATFia?format=jpg&amp;name=medium" alt="Summary of Jev (TypeSafe AI) Pros and Cons · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/muramar_u/status/2101799071677849856">Summary of Jev (TypeSafe AI) Pros and Cons</a></h3>
+<p>The author revisits and summarizes the pros and cons of Jev (@typesafeai), tagged #jev.</p>
+<p><strong>中文摘要：</strong>作者重新梳理了 Jev（@typesafeai）的优点与缺点，并附上 #jev 标签。</p>
+<p><strong>村井隆紘 - CloudPartnersGroup 代表税理士・公認会計士</strong> · @muramar_u · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 96</p>
+<p><a href="https://x.com/muramar_u/status/2101799071677849856">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Jairzoby/status/2101664347206680616"><img src="https://pbs.twimg.com/media/HSqcQdLaAAEJOaU?format=jpg&amp;name=small" alt="TypeSafe AI Launches Jev: A Non-LLM Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Jairzoby/status/2101664347206680616">TypeSafe AI Launches Jev: A Non-LLM Decision Model</a></h3>
+<p>TypeSafe AI, founded by ChatGPT co-inventor Diogo Almeida, launched Jev on Sept 15: a non-LLM decision model that doesn&#39;t generate text, makes decisions 200x faster and 400x cheaper than LLMs, backed by a $40M seed round led by DCVC.</p>
+<p><strong>中文摘要：</strong>ChatGPT 联合发明人 Diogo Almeida 创立的 TypeSafe AI 于9月15日推出 Jev，一种非 LLM 决策模型，不生成文字，决策速度比 LLM 快200倍、成本低400倍，并获 DCVC 领投的4000万美元种子轮。</p>
+<p><strong>Nan Su</strong> · @Jairzoby · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 70</p>
+<p><a href="https://x.com/Jairzoby/status/2101664347206680616">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hawkymisc/status/2101696652742742472"><img src="https://pbs.twimg.com/media/HSq5a6DawAAsdU3?format=png&amp;name=900x900" alt="Jev&#39;s &#39;Flame Guard for X&#39; Chrome Extension to Be Submitted to Store Tomorrow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hawkymisc/status/2101696652742742472">Jev&#39;s &#39;Flame Guard for X&#39; Chrome Extension to Be Submitted to Store Tomorrow</a></h3>
+<p>The author says they will submit Jev&#39;s &#39;Flame Guard for X&#39; Chrome extension to the store tomorrow due to low energy today.</p>
+<p><strong>中文摘要：</strong>作者表示因状态不佳，将于明日提交 Jev 开发的『炎上ガード for X』Chrome 扩展至商店审核。</p>
+<p><strong>ほーきー(Hawkie) | AI× |||||||||||||||||||||||||||||</strong> · @hawkymisc · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 65</p>
+<p><a href="https://x.com/hawkymisc/status/2101696652742742472">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/IanArawjo/status/2101697195305050405"><img src="https://pbs.twimg.com/media/HSq5MtGXYAA7sYt?format=jpg&amp;name=medium" alt="Jev naming debate: &#39;System One model&#39; name questioned · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/IanArawjo/status/2101697195305050405">Jev naming debate: &#39;System One model&#39; name questioned</a></h3>
+<p>Ian Arawjo thinks Jev is awesome but dislikes the name &#39;System One model&#39;. He asked Jev what it should be called, using excerpts from TypeSafe and OpenRouter release posts.</p>
+<p><strong>中文摘要：</strong>Ian Arawjo 认为 Jev 很出色，但 &#39;System One model&#39; 这个名称不佳。他引用 TypeSafe 和 OpenRouter 发布帖的摘录，询问 Jev 自己希望被称为什么。</p>
+<p><strong>Ian Arawjo</strong> · @IanArawjo · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 44</p>
+<p><a href="https://x.com/IanArawjo/status/2101697195305050405">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kavindpadi/status/2101772391865258487"><img src="https://pbs.twimg.com/media/HSr-s8tbQAAFXAu?format=jpg&amp;name=medium" alt="User praises TypeSafe Jev&#39;s onboarding flow with user understanding test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kavindpadi/status/2101772391865258487">User praises TypeSafe Jev&#39;s onboarding flow with user understanding test</a></h3>
+<p>A tweet praising TypeSafe AI&#39;s Jev onboarding flow, which includes a user understanding test, calling it neat.</p>
+<p><strong>中文摘要：</strong>一条推文称赞 TypeSafe AI 的 Jev 引导流程，其中包含用户理解测试，认为设计巧妙。</p>
+<p><strong>Shiva Kavindpadi</strong> · @kavindpadi · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><a href="https://x.com/kavindpadi/status/2101772391865258487">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mikaeru676523/status/2101797481302642787"><img src="https://pbs.twimg.com/media/HSsSEuCaUAA5lFs?format=png&amp;name=medium" alt="GitHub Next Releases LocalJev to Run Jev Locally, Skipping the Waitlist · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mikaeru676523/status/2101797481302642787">GitHub Next Releases LocalJev to Run Jev Locally, Skipping the Waitlist</a></h3>
+<p>GitHub Next released LocalJev, allowing local runs of Jev without the waitlist. The thread outlines its design ideas like an AI that doesn&#39;t write articles and GPUs for LLMs, plus how to try it.</p>
+<p><strong>中文摘要：</strong>GitHub Next 发布 LocalJev，可跳过 Jev 等待名单在本地运行。帖子梳理了其「不写文章的 AI」「为 LLM 设计的 GPU」等设计理念及试用要点。</p>
+<p><strong>mikaeru</strong> · @mikaeru676523 · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/mikaeru676523/status/2101797481302642787">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cursorvers/status/2101802602161971273"><img src="https://pbs.twimg.com/amplify_video_thumb/2101475440577880065/img/Ee0hhRA3B7Ibp_tK.jpg" alt="Jev Recognizes Pasted Content and Routes It Smartly, Mac App Coming Soon · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cursorvers/status/2101802602161971273">Jev Recognizes Pasted Content and Routes It Smartly, Mac App Coming Soon</a></h3>
+<p>The post says Jev recognizes pasted content and routes it appropriately, calling it a smart use, and notes it will soon be released as a Mac app.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 能识别粘贴的内容并进行适当分流，认为这是聪明的用法，并提到该功能即将以 Mac 应用形式发布。</p>
+<p><strong>大田原正幸｜医療AIガバナンス｜Cursorvers</strong> · @cursorvers · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/cursorvers/status/2101802602161971273">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SadraMajidi04/status/2101642543758782895"><img src="https://pbs.twimg.com/amplify_video_thumb/2101569821208891392/img/czChul2rP3GEQpiF.jpg" alt="TypeSafe Launches Jev System One Model: Structured Queries with Parallel Probability Outputs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SadraMajidi04/status/2101642543758782895">TypeSafe Launches Jev System One Model: Structured Queries with Parallel Probability Outputs</a></h3>
+<p>TypeSafe introduces Jev System One, which instead of generating text token by token, answers structured questions (urgent? escalate? team?) with probabilities in parallel. Priced at $0.042/M input, free output, ~200x faster and ~400x cheaper.</p>
+<p><strong>中文摘要：</strong>TypeSafe 推出 Jev System One 模型，不再逐 token 生成文本，而是对结构化问题（如是否紧急、是否升级、哪个团队）并行返回概率。输入价格 $0.042/M，输出免费，速度约快 200 倍，成本约低 400 倍。</p>
+<p><strong>Sadra Majidi</strong> · @SadraMajidi04 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/SadraMajidi04/status/2101642543758782895">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xCVYH/status/2101171688683585622"><img src="https://pbs.twimg.com/media/HSjcVFEXwAAx3wL?format=png&amp;name=medium" alt="Jev&#39;s Open Source Project Laya Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xCVYH/status/2101171688683585622">Jev&#39;s Open Source Project Laya Released</a></h3>
+<p>Jev introduces the open source project Laya, with a Hugging Face model page, highlighting its accelerating progress.</p>
+<p><strong>中文摘要：</strong>Jev 推出开源项目 Laya，并附上 Hugging Face 模型页面，展示其持续加速的进展。</p>
+<p><strong>CV.YH</strong> · @0xCVYH · 2026-09-19</p>
+<p>💬 48 &nbsp; 🔁 199 &nbsp; ♡ 1.8K &nbsp; 📊 384K</p>
+<p><a href="https://x.com/0xCVYH/status/2101171688683585622">在 X 查看原帖</a> · <a href="https://t.co/XVyFYPxVht">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dani_avila7/status/2101176629745561686"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Jev Model Router for Claude Code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dani_avila7/status/2101176629745561686">Jev Model Router for Claude Code</a></h3>
+<p>This Claude Code mod lets you use Jev via the TypeSafe AI API or Vercel AI Gateway, classifying subagent and main models per request.</p>
+<p><strong>中文摘要：</strong>该 Claude Code 模组可通过 TypeSafe AI API 或 Vercel AI Gateway 使用 Jev，并对每个请求进行子代理与主模型分类。</p>
+<p><strong>Daniel San</strong> · @dani_avila7 · 2026-09-19</p>
+<p>💬 74 &nbsp; 🔁 147 &nbsp; ♡ 1.4K &nbsp; 📊 163K</p>
+<p><a href="https://x.com/dani_avila7/status/2101176629745561686">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xCodez/status/2101294219633529030"><img src="https://pbs.twimg.com/amplify_video_thumb/2101293440843591680/img/3BtdoFBd-JH1wJc6.jpg" alt="Jev Founder: JEV is the Next Era for LLMs, Faster and Cheaper than Claude Code and Codex · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xCodez/status/2101294219633529030">Jev Founder: JEV is the Next Era for LLMs, Faster and Cheaper than Claude Code and Codex</a></h3>
+<p>Jev founder Diogo Almeida (ex-OpenAI) says Claude Code and Codex are still part of the human-in-the-loop assistance era, while JEV is what comes next for LLMs: 200x faster, 400x cheaper, zero hallucination, and no human in the loop.</p>
+<p><strong>中文摘要：</strong>Jev创始人Diogo Almeida（前OpenAI）表示，Claude Code和Codex仍属于人类在环的辅助时代，而JEV是LLM的下一代，速度提升200倍、成本降低400倍、零幻觉且无需人类在环。</p>
+<p><strong>Codez</strong> · @0xCodez · 2026-09-19</p>
+<p>💬 34 &nbsp; 🔁 135 &nbsp; ♡ 1.1K &nbsp; 📊 148K</p>
+<p><a href="https://x.com/0xCodez/status/2101294219633529030">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neogoose_btw/status/2101174909942772045"><img src="https://pbs.twimg.com/amplify_video_thumb/2101174811846430720/img/xVdadK_zIPROugCl.jpg" alt="Real-time AI-first calculator built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/neogoose_btw/status/2101174909942772045">Real-time AI-first calculator built on Jev</a></h3>
+<p>The author gained access to Jev and introduced the first real-time AI-first calculator built on Jev, with no CPU load, instant responses, and very low cost.</p>
+<p><strong>中文摘要：</strong>作者获得 Jev 访问权限，并推出首个基于 Jev 的实时 AI 优先计算器，无需 CPU 负载、即时响应、成本极低。</p>
+<p><strong>Dmitriy Kovalenko</strong> · @neogoose_btw · 2026-09-19</p>
+<p>💬 45 &nbsp; 🔁 31 &nbsp; ♡ 687 &nbsp; 📊 138K</p>
+<p><a href="https://x.com/neogoose_btw/status/2101174909942772045">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/songsong/status/2101277573368168544"><img src="https://pbs.twimg.com/media/HSk7UxPagAAm1Ql?format=jpg&amp;name=medium" alt="Jev&#39;s Two Major Advantages: Fast Feedback and Extreme Cost-Effectiveness · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/songsong/status/2101277573368168544">Jev&#39;s Two Major Advantages: Fast Feedback and Extreme Cost-Effectiveness</a></h3>
+<p>The post highlights Jev&#39;s two major advantages: feedback in just a few seconds and being 100 times cheaper than ChatGPT.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 的两大优势：几秒内即可获得反馈，且成本比 ChatGPT 低 100 倍。</p>
+<p><strong>宋宋</strong> · @songsong · 2026-09-19</p>
+<p>💬 3 &nbsp; 🔁 34 &nbsp; ♡ 217 &nbsp; 📊 79K</p>
+<p><a href="https://x.com/songsong/status/2101277573368168544">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/muo_jp/status/2101143076375003372"><img src="https://pbs.twimg.com/amplify_video_thumb/2101102823408807936/img/k_uNGVHacO6DG6mC.jpg" alt="Content Built Within 80 Hours of TypeSafe AI Releasing Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/muo_jp/status/2101143076375003372">Content Built Within 80 Hours of TypeSafe AI Releasing Jev</a></h3>
+<p>The author marvels that content was completed just 80 hours after TypeSafe AI stealth-exited and released Jev, with 26 of those hours spent on distillation/training.</p>
+<p><strong>中文摘要：</strong>作者感叹 TypeSafe AI 隐身退出并发布 Jev 后，仅 80 小时就完成内容，其中 26 小时用于蒸馏/训练，速度惊人。</p>
+<p><strong>Kei Nakazawa</strong> · @muo_jp · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 31 &nbsp; ♡ 286 &nbsp; 📊 45K</p>
+<p><a href="https://x.com/muo_jp/status/2101143076375003372">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/davipar/status/2101363515663475176"><img src="https://pbs.twimg.com/amplify_video_thumb/2101363163249729536/img/RCb2NYxgIx92jQp6.jpg" alt="DJev Released: Open-Source Diffusion Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davipar/status/2101363515663475176">DJev Released: Open-Source Diffusion Jev Model</a></h3>
+<p>The author shares an easy way to test DJev (Diffusion Gemma Jev), described as the next evolution of the jev concept, fully open sourced (model, code, API) with native image input, images as options, and real-time capabilities.</p>
+<p><strong>中文摘要：</strong>作者分享测试 DJev（Diffusion Gemma Jev）的简便方式，称其为 jev 概念的下一代演进，模型、代码和 API 全部开源，并支持原生图像输入、图像作为选项和实时能力。</p>
+<p><strong>David Villalón</strong> · @davipar · 2026-09-19</p>
+<p>💬 29 &nbsp; 🔁 29 &nbsp; ♡ 198 &nbsp; 📊 18K</p>
+<p><a href="https://x.com/davipar/status/2101363515663475176">在 X 查看原帖</a> · <a href="https://t.co/VioMHNUgRk">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2101396671624298866"><img src="https://pbs.twimg.com/media/HSmpIRrbwAAMie8?format=jpg&amp;name=small" alt="Jev founder says no ops hires yet as waitlist surges and it tops HN · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2101396671624298866">Jev founder says no ops hires yet as waitlist surges and it tops HN</a></h3>
+<p>Jev founder Diogo says the team has not hired any operations staff so far; just days after launch, the waitlist has surged, it topped Hacker News, and developers are writing tutorials, making demos, and building communities on their own.</p>
+<p><strong>中文摘要：</strong>Jev 创始人 Diogo 表示团队至今未招聘任何运营人员；产品发布仅数日，等待名单激增，登上 Hacker News，开发者自发写教程、做演示并建立社区。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-19</p>
+<p>💬 8 &nbsp; 🔁 7 &nbsp; ♡ 24 &nbsp; 📊 12K</p>
+<p><a href="https://x.com/NFT_Chen/status/2101396671624298866">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dr_nikhilshah/status/2101394993537810917"><img src="https://pbs.twimg.com/media/HSmmSOWakAAmrAd?format=jpg&amp;name=medium" alt="Jev hailed as revolutionary AI model for cost savings and integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dr_nikhilshah/status/2101394993537810917">Jev hailed as revolutionary AI model for cost savings and integration</a></h3>
+<p>User praises Jev as revolutionary, noting it can handle high-level judgments to reduce time or dollar cost of AI actions, and mentions integration.</p>
+<p><strong>中文摘要：</strong>用户称赞 Jev 具有革命性，认为它能处理高级判断，从而降低 AI 行动的时间成本或金钱成本，并提到集成可能性。</p>
+<p><strong>Nikhil Shah MBBS DNB(IM, Neph)🇨🇦</strong> · @dr_nikhilshah · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 253</p>
+<p><a href="https://x.com/dr_nikhilshah/status/2101394993537810917">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/crtrsai/status/2101285456448979090"><img src="https://pbs.twimg.com/media/HSlD_GLWUAAba6q?format=jpg&amp;name=medium" alt="Jev Release: Typed Decisions, 200x Faster and 400x Cheaper · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/crtrsai/status/2101285456448979090">Jev Release: Typed Decisions, 200x Faster and 400x Cheaper</a></h3>
+<p>Creators&#39; AI newsletter covers the Jev release, claiming typed decisions instead of text, 200x faster and 400x cheaper, alongside AI leaders&#39; warnings and ChatGPT ads.</p>
+<p><strong>中文摘要：</strong>Creators&#39; AI 简报报道 Jev 发布，称其采用类型化决策而非文本，速度提升 200 倍、成本降低 400 倍，同时提及 AI 领袖警告与 ChatGPT 广告。</p>
+<p><strong>Creators&#39; AI</strong> · @crtrsai · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 97</p>
+<p><a href="https://x.com/crtrsai/status/2101285456448979090">在 X 查看原帖</a> · <a href="https://t.co/lAnedz9n8J">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/frunersz/status/2101370884682661979"><img src="https://pbs.twimg.com/media/HSmRk2zbsAAMiQ3?format=jpg&amp;name=medium" alt="TypeSafe AI launches Jev: a decision-focused model that doesn&#39;t write articles · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/frunersz/status/2101370884682661979">TypeSafe AI launches Jev: a decision-focused model that doesn&#39;t write articles</a></h3>
+<p>TypeSafe AI introduces Jev (System One), a decision-focused model reported to respond in 70–500 ms with $0.042 per million input tokens and free output; the founder co-invented ChatGPT&#39;s RLHF, shifting from conversation to decisions.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 发布判断特化模型 Jev（System One），据称响应 70–500 毫秒、输入百万 token 0.042 美元且输出免费，创始人为 ChatGPT RLHF 共同发明者，定位从对话转向判断。</p>
+<p><strong>Nox</strong> · @frunersz · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
+<p><a href="https://x.com/frunersz/status/2101370884682661979">在 X 查看原帖</a> · <a href="https://t.co/gaZpzltjSK">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kerobt/status/2101200167907049900"><img src="https://pbs.twimg.com/media/HSj2aftWsAALXRk?format=jpg&amp;name=medium" alt="Developer gains access to Jev, TypeSafe AI&#39;s first public System One model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kerobt/status/2101200167907049900">Developer gains access to Jev, TypeSafe AI&#39;s first public System One model</a></h3>
+<p>A developer says they have gained access to Jev, TypeSafe AI&#39;s first public System One model, built for fast, structured decisions inside software rather than traditional text generation, and plans to test it over the coming days and share how it works.</p>
+<p><strong>中文摘要：</strong>开发者表示已获得 TypeSafe AI 首个公开 System One 模型 Jev 的访问权限，该模型面向软件内的快速结构化决策而非传统文本生成，并计划在接下来几天测试并分享其工作原理。</p>
+<p><strong>Kerem Baran TAN</strong> · @kerobt · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
+<p><a href="https://x.com/kerobt/status/2101200167907049900">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/laofan_ai/status/2101189207360417868"><img src="https://pbs.twimg.com/media/HSjr7xXaUAAipl9?format=png&amp;name=small" alt="ChatGPT Inventor Releases Jev: A Model That Outputs Only Probabilities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/laofan_ai/status/2101189207360417868">ChatGPT Inventor Releases Jev: A Model That Outputs Only Probabilities</a></h3>
+<p>The ChatGPT inventor introduces Jev, a model that outputs only probabilities; sign up at typesafe.ai for $5 in free credits.</p>
+<p><strong>中文摘要：</strong>ChatGPT 发明者推出 Jev 模型，仅输出概率，注册 typesafe.ai 可获 $5 免费额度。</p>
+<p><strong>老范</strong> · @laofan_ai · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/laofan_ai/status/2101189207360417868">在 X 查看原帖</a> · <a href="https://t.co/AzRl2Qt4Wt">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JimmyWesleyBr/status/2101203886505648638"><img src="https://pbs.twimg.com/media/HSj5x4oXMAEyGEt?format=jpg&amp;name=medium" alt="Open-RLCD: Offline Multimodal System One Engine, Claimed 10x JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JimmyWesleyBr/status/2101203886505648638">Open-RLCD: Offline Multimodal System One Engine, Claimed 10x JEV</a></h3>
+<p>Open-RLCD is a 100% offline, low-latency, multimodal System One engine. The author says it processed a broken phone photo and returned calibrated probabilities in 395ms, with no cloud or string parsing, calling it 10x JEV.</p>
+<p><strong>中文摘要：</strong>Open-RLCD 是一个 100% 离线、低延迟、多模态的 System One 引擎。作者称其处理一张损坏手机图片并在 395 毫秒内返回校准概率，无需云端或字符串解析，并称之为 10 倍 JEV。</p>
+<p><strong>Jimmy Wesley</strong> · @JimmyWesleyBr · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/JimmyWesleyBr/status/2101203886505648638">在 X 查看原帖</a> · <a href="https://t.co/xj7JVSM8YB">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenRouter/status/2100744709589316009"><img src="https://pbs.twimg.com/amplify_video_thumb/2100744692048818176/img/lnRQ8fZbTFSI0YuV.jpg" alt="TypeSafe AI&#39;s Jev model launches in beta on OpenRouter · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/OpenRouter/status/2100744709589316009">TypeSafe AI&#39;s Jev model launches in beta on OpenRouter</a></h3>
+<p>Jev is a System One model that takes your app&#39;s state and a typed question, returning a typed decision with a probability—no JSON prompting, parsing layer, or validation needed.</p>
+<p><strong>中文摘要：</strong>Jev 是 System One 模型，不生成文本，而是接收应用状态和类型化问题，返回带概率的类型化决策，无需 JSON 提示、解析层或验证。</p>
+<p><strong>OpenRouter</strong> · @OpenRouter · 2026-09-18</p>
+<p>💬 138 &nbsp; 🔁 401 &nbsp; ♡ 3.8K &nbsp; 📊 528K</p>
+<p><a href="https://x.com/OpenRouter/status/2100744709589316009">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rauchg/status/2101032024635249069"><img src="https://pbs.twimg.com/amplify_video_thumb/2101022081810911232/img/3tKdQ3Y2_ZGSg3Q7.jpg" alt="Jev Generative UI Achieved Externally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rauchg/status/2101032024635249069">Jev Generative UI Achieved Externally</a></h3>
+<p>Guillermo Rauch states that Jev&#39;s generative UI has been achieved externally.</p>
+<p><strong>中文摘要：</strong>Guillermo Rauch 表示 Jev 的生成式 UI 已在外部实现。</p>
+<p><strong>Guillermo Rauch</strong> · @rauchg · 2026-09-18</p>
+<p>💬 98 &nbsp; 🔁 167 &nbsp; ♡ 4.3K &nbsp; 📊 500K</p>
+<p><a href="https://x.com/rauchg/status/2101032024635249069">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/madiator/status/2100990591215783946"><img src="https://pbs.twimg.com/media/HSg0OwLbwAAyKxp?format=jpg&amp;name=medium" alt="Bespoke Nimble: Open Data and Model for an Open Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/madiator/status/2100990591215783946">Bespoke Nimble: Open Data and Model for an Open Jev</a></h3>
+<p>Bespoke Labs introduces Bespoke Nimble, offering open data, an open model, and an open recipe, with a contrastive data curation method that generates negative data by slightly altering facts.</p>
+<p><strong>中文摘要：</strong>Bespoke Labs 发布 Bespoke Nimble，提供开放数据、开放模型与开放配方，并引入对比式数据整理方法，通过微调事实生成负样本数据。</p>
+<p><strong>Mahesh Sathiamoorthy</strong> · @madiator · 2026-09-18</p>
+<p>💬 76 &nbsp; 🔁 200 &nbsp; ♡ 1.3K &nbsp; 📊 459K</p>
+<p><a href="https://x.com/madiator/status/2100990591215783946">在 X 查看原帖</a> · <a href="https://t.co/rBzpX3KpHt">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KinGao476942/status/2100756959486218637"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Former OpenAI Executive Launches Jev, a Model for Quick Judgments · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KinGao476942/status/2100756959486218637">Former OpenAI Executive Launches Jev, a Model for Quick Judgments</a></h3>
+<p>A former OpenAI executive left to start a company and launched Jev, a model that doesn&#39;t generate text or images but focuses solely on helping users make quick judgments.</p>
+<p><strong>中文摘要：</strong>前OpenAI高管离职创业，推出Jev模型，该模型不生成文本或图像，仅用于帮助用户快速做出判断。</p>
+<p><strong>Kin</strong> · @KinGao476942 · 2026-09-18</p>
+<p>💬 204 &nbsp; 🔁 275 &nbsp; ♡ 1.3K &nbsp; 📊 338K</p>
+<p><a href="https://x.com/KinGao476942/status/2100756959486218637">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Richelle_Ji/status/2101064292242219407"><img src="https://pbs.twimg.com/amplify_video_thumb/2101062807123062784/img/EoRcAMkk7QTGCGha.jpg" alt="Jev adds open weights and vision · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Richelle_Ji/status/2101064292242219407">Jev adds open weights and vision</a></h3>
+<p>Jev now supports open weights and vision, classifying 1,697 SF Tech Week events with Gemma 4 26B-A4B, with zero labels and no fine-tuning, and can Jev-ify any open-source model on SimpleJev.</p>
+<p><strong>中文摘要：</strong>Jev 现已支持开放权重与视觉，使用 Gemma 4 26B-A4B 对 1,697 个 SF Tech Week 活动进行分类，无需标签或微调，并可通过 SimpleJev 将任意开源模型 Jev 化。</p>
+<p><strong>Richelle🧬</strong> · @Richelle_Ji · 2026-09-18</p>
+<p>💬 44 &nbsp; 🔁 198 &nbsp; ♡ 1.8K &nbsp; 📊 207K</p>
+<p><a href="https://x.com/Richelle_Ji/status/2101064292242219407">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gregisenberg/status/2101018750916948237"><img src="https://pbs.twimg.com/amplify_video_thumb/2101018301409202176/img/HP2Ycx2G3KjqvxJw.jpg" alt="Greg Isenberg explains Jev: what it is and the new businesses it unlocks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gregisenberg/status/2101018750916948237">Greg Isenberg explains Jev: what it is and the new businesses it unlocks</a></h3>
+<p>Greg Isenberg shares a clear explanation of Jev, covering what it is, how it helps with your inbox, the new business opportunities it unlocks, and how to get access even if you&#39;re on the waitlist.</p>
+<p><strong>中文摘要：</strong>Greg Isenberg 发布关于 Jev 的清晰解读，介绍其定义、如何帮助处理收件箱，以及它解锁的新业务机会，并说明即使处于等待名单也能获取 Jev 的方法。</p>
+<p><strong>GREG ISENBERG</strong> · @gregisenberg · 2026-09-18</p>
+<p>💬 76 &nbsp; 🔁 152 &nbsp; ♡ 1.4K &nbsp; 📊 142K</p>
+<p><a href="https://x.com/gregisenberg/status/2101018750916948237">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tobi/status/2100742327459303882"><img src="https://pbs.twimg.com/amplify_video_thumb/2100739467837644800/img/nFYCsRFMj24WufST.jpg" alt="Tobi Lutke shares Jev running in the browser · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tobi/status/2100742327459303882">Tobi Lutke shares Jev running in the browser</a></h3>
+<p>Tobi Lutke posts a demo of Jev running in the browser, suggesting the model or tool is usable on the web.</p>
+<p><strong>中文摘要：</strong>Tobi Lutke 发帖展示 Jev 可在浏览器中运行，暗示该模型或工具已具备浏览器端使用能力。</p>
+<p><strong>tobi lutke</strong> · @tobi · 2026-09-18</p>
+<p>💬 35 &nbsp; 🔁 20 &nbsp; ♡ 575 &nbsp; 📊 124K</p>
+<p><a href="https://x.com/tobi/status/2100742327459303882">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shannholmberg/status/2100979911825789393"><img src="https://pbs.twimg.com/media/HSguGFLakAAUlqM?format=jpg&amp;name=medium" alt="New Jev Model: Checks AI Work and Makes Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shannholmberg/status/2100979911825789393">New Jev Model: Checks AI Work and Makes Decisions</a></h3>
+<p>Introduces the new Jev model that checks AI work and makes decisions inside software for $0.042 per million input tokens with free output, listing first use cases like second brain, content workflow, post analysis, and SEO article review.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 新模型可检查 AI 工作并在软件内做决策，输入每百万 token 0.042 美元、输出免费，并列出第二大脑、内容工作流、帖子分析、SEO 文章审核等首批用例。</p>
+<p><strong>Shann³</strong> · @shannholmberg · 2026-09-18</p>
+<p>💬 49 &nbsp; 🔁 110 &nbsp; ♡ 901 &nbsp; 📊 115K</p>
+<p><a href="https://x.com/shannholmberg/status/2100979911825789393">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chddaniel/status/2100919415554617537"><img src="https://pbs.twimg.com/amplify_video_thumb/2100919375989805057/img/-VScsutBqPF0D6Um.jpg" alt="Jev launches Website to App: turn any website into a native mobile app · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chddaniel/status/2100919415554617537">Jev launches Website to App: turn any website into a native mobile app</a></h3>
+<p>Just paste a URL: jev-1.13.0 decides how to build the original website as a native mobile app, then shipper submits it to the app stores for you.</p>
+<p><strong>中文摘要：</strong>只需粘贴一个 URL，jev-1.13.0 会决定如何将原网站构建为原生移动应用，随后由 shipper 代为提交至应用商店。</p>
+<p><strong>Daniel Ch</strong> · @chddaniel · 2026-09-18</p>
+<p>💬 11 &nbsp; 🔁 33 &nbsp; ♡ 405 &nbsp; 📊 98K</p>
+<p><a href="https://x.com/chddaniel/status/2100919415554617537">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chhddavid/status/2101023743946756438"><img src="https://pbs.twimg.com/amplify_video_thumb/2101023708689338368/img/4vDutW56aZPEAQHF.jpg" alt="Jev-1.13.0 Can Scan a Website and Build a Mobile App · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chhddavid/status/2101023743946756438">Jev-1.13.0 Can Scan a Website and Build a Mobile App</a></h3>
+<p>A user discusses Jev-1.13.0 reportedly scanning a full website, building a mobile app, submitting to the Apple App Store, and maintaining it without human involvement.</p>
+<p><strong>中文摘要：</strong>用户讨论 Jev-1.13.0 据称可扫描完整网站、构建移动应用、提交至苹果应用商店并维护，全程无需人工介入。</p>
+<p><strong>David Ch</strong> · @chhddavid · 2026-09-18</p>
+<p>💬 8 &nbsp; 🔁 17 &nbsp; ♡ 396 &nbsp; 📊 58K</p>
+<p><a href="https://x.com/chhddavid/status/2101023743946756438">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tonnoz/status/2100844854490103835"><img src="https://pbs.twimg.com/amplify_video_thumb/2100843717791813632/img/BJXB5D_XC7MmmqdN.jpg" alt="Jev&#39;s Unlocked Use Cases Are Underestimated · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tonnoz/status/2100844854490103835">Jev&#39;s Unlocked Use Cases Are Underestimated</a></h3>
+<p>The author says he has been waiting for something like Jev since early ChatGPT models and predicts the fastest-growing SaaS by MRR in history within a month or two.</p>
+<p><strong>中文摘要：</strong>作者表示自早期 ChatGPT 模型以来一直在等待类似 Jev 的产品，并预测未来一两个月将出现史上 MRR 增长最快的 SaaS。</p>
+<p><strong>Tonino Catapano (tonnoz)</strong> · @tonnoz · 2026-09-18</p>
+<p>💬 29 &nbsp; 🔁 14 &nbsp; ♡ 375 &nbsp; 📊 58K</p>
+<p><a href="https://x.com/tonnoz/status/2100844854490103835">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shah_riyar_/status/2101054842454065419"><img src="https://pbs.twimg.com/amplify_video_thumb/2101054729992200192/img/NPRh1a_oPV7hl12n.jpg" alt="Jev: An Ultra-Fast Decision Model from a ChatGPT Co-Founder · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shah_riyar_/status/2101054842454065419">Jev: An Ultra-Fast Decision Model from a ChatGPT Co-Founder</a></h3>
+<p>The video introduces Jev, a model created by one of the co-founders of ChatGPT. Unlike ordinary language models built for conversation, Jev is an ultra-fast and extremely affordable decision-making model capable of making many decisions quickly.</p>
+<p><strong>中文摘要：</strong>视频介绍由 ChatGPT 联合创始人创建的 Jev 模型。与面向对话的普通语言模型不同，Jev 是超快且极低成本的“决策”模型，可快速做出大量决策。</p>
+<p><strong>Shahriar</strong> · @shah_riyar_ · 2026-09-18</p>
+<p>💬 3 &nbsp; 🔁 10 &nbsp; ♡ 197 &nbsp; 📊 9.5K</p>
+<p><a href="https://x.com/shah_riyar_/status/2101054842454065419">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iam_zachi/status/2100679300756435135"><img src="https://pbs.twimg.com/amplify_video_thumb/2100674729216524288/img/ZqaCccSfzuzlrdro.jpg" alt="jev(): PostgreSQL extension for natural language search · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iam_zachi/status/2100679300756435135">jev(): PostgreSQL extension for natural language search</a></h3>
+<p>A PostgreSQL extension that searches your whole database in natural language via a single function jev(), with no index or embeddings, judging 129 rows in about 1 second.</p>
+<p><strong>中文摘要：</strong>一个 PostgreSQL 扩展，通过单个函数 jev() 使用自然语言搜索整个数据库，无需索引或嵌入，约 1 秒内判断 129 行。</p>
+<p><strong>Zachi</strong> · @iam_zachi · 2026-09-17</p>
+<p>💬 121 &nbsp; 🔁 266 &nbsp; ♡ 2.8K &nbsp; 📊 419K</p>
+<p><a href="https://x.com/iam_zachi/status/2100679300756435135">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CompleteSkeptic/status/2100454726462804333"><img src="https://pbs.twimg.com/media/HSZQWFEa0AEXY1c?format=jpg&amp;name=medium" alt="140k off the Jev waitlist in under 36 hours · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CompleteSkeptic/status/2100454726462804333">140k off the Jev waitlist in under 36 hours</a></h3>
+<p>Less than 36 hours after launch, the Jev platform team has moved 140k people off the waitlist, with demos, evals, and ideas shared.</p>
+<p><strong>中文摘要：</strong>Jev 发布不到 36 小时，平台团队已从等待名单中处理 14 万人，并分享了演示、评估和想法。</p>
+<p><strong>Diogo Almeida</strong> · @CompleteSkeptic · 2026-09-17</p>
+<p>💬 184 &nbsp; 🔁 112 &nbsp; ♡ 3.3K &nbsp; 📊 151K</p>
+<p><a href="https://x.com/CompleteSkeptic/status/2100454726462804333">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2100466502545862725"><img src="https://pbs.twimg.com/amplify_video_thumb/2100347372844756992/img/CaExDBw3MTf0ia58.jpg" alt="Jev Model Replicates Tesla FSD in One Hour? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2100466502545862725">Jev Model Replicates Tesla FSD in One Hour?</a></h3>
+<p>The post claims the newly released Jev model can build a complete autonomous driving setup in one hour, replicating Tesla FSD without hallucinations.</p>
+<p><strong>中文摘要：</strong>帖子称新发布的 Jev 模型能在一小时内搭建完整自动驾驶方案，复现特斯拉 FSD，且无幻觉问题。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-17</p>
+<p>💬 33 &nbsp; 🔁 53 &nbsp; ♡ 348 &nbsp; 📊 115K</p>
+<p><a href="https://x.com/NFT_Chen/status/2100466502545862725">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/waynesutton/status/2100487878992388279"><img src="https://pbs.twimg.com/amplify_video_thumb/2100486117325955072/img/_QailXRTsMGQ_atc.jpg" alt="Ask Jev launches: ask anything, let Jev judge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/waynesutton/status/2100487878992388279">Ask Jev launches: ask anything, let Jev judge</a></h3>
+<p>Wayne Sutton promotes askjev.ai: ask Jev anything, it won&#39;t answer but will judge, noting TypeSafe AI works well with Convex.</p>
+<p><strong>中文摘要：</strong>Wayne Sutton 推广 askjev.ai：向 Jev 提问，它不会回答，而是给出评判，并提到 TypeSafe AI 与 Convex 配合良好。</p>
+<p><strong>Wayne Sutton</strong> · @waynesutton · 2026-09-17</p>
+<p>💬 64 &nbsp; 🔁 39 &nbsp; ♡ 516 &nbsp; 📊 95K</p>
+<p><a href="https://x.com/waynesutton/status/2100487878992388279">在 X 查看原帖</a> · <a href="https://t.co/P9QMfdDc0r">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/riku720720/status/2100705558512963602"><img src="https://pbs.twimg.com/amplify_video_thumb/2100705222016520192/img/BxzTN_rxkA_FLvwe.jpg" alt="Demo of Real-Time Emoji Candidate Output by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/riku720720/status/2100705558512963602">Demo of Real-Time Emoji Candidate Output by Jev</a></h3>
+<p>The demo shows Jev outputting emoji candidates in real time, with a response time of 100–200 ms, and the speed stays the same whether there are 3 or 200 emoji options.</p>
+<p><strong>中文摘要：</strong>该演示展示了 Jev 实时输出表情符号候选，响应时间在 100 至 200 毫秒之间，且无论候选数量是 3 个还是 200 个，响应速度保持不变。</p>
+<p><strong>Rikuo</strong> · @riku720720 · 2026-09-17</p>
+<p>💬 5 &nbsp; 🔁 82 &nbsp; ♡ 673 &nbsp; 📊 94K</p>
+<p><a href="https://x.com/riku720720/status/2100705558512963602">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/manthanguptaa/status/2100466984605417923"><img src="https://pbs.twimg.com/media/HSZZjySaIAA6vsm?format=jpg&amp;name=medium" alt="Jev model launch: questioning autoregressive LLMs as expensive if-statements in software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/manthanguptaa/status/2100466984605417923">Jev model launch: questioning autoregressive LLMs as expensive if-statements in software</a></h3>
+<p>Manthan Gupta calls Jev one of the more interesting recent model launches because it asks a simple question: why use autoregressive LLMs as insanely expensive if-statements in software? He contrasts this with the LLM text-to-token generation approach.</p>
+<p><strong>中文摘要：</strong>Manthan Gupta 认为 Jev 是近期较有趣的模型发布之一，因为它提出一个简单问题：为什么我们要把自回归 LLM 当作软件中极其昂贵的 if 语句来使用？并对比了 LLM 的文本到 token 生成方式。</p>
+<p><strong>Manthan Gupta</strong> · @manthanguptaa · 2026-09-17</p>
+<p>💬 34 &nbsp; 🔁 63 &nbsp; ♡ 697 &nbsp; 📊 71K</p>
+<p><a href="https://x.com/manthanguptaa/status/2100466984605417923">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hr98w/status/2100646513412292873"><img src="https://pbs.twimg.com/amplify_video_thumb/2100641762557714432/img/FMQcHyJNyCQCbaca.jpg" alt="Visual Edition Jev Released: Local Multimodal 4-bit Quantized Deployment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hr98w/status/2100646513412292873">Visual Edition Jev Released: Local Multimodal 4-bit Quantized Deployment</a></h3>
+<p>Visual Edition Jev is released, mapping candidate results to fixed labels per community ideas, direct sampling after prefill, limiting output tokens, and running smoothly locally on a 16G M4 MacBook Pro with multimodal qwen-3.5-0.8B 4-bit quantization.</p>
+<p><strong>中文摘要：</strong>Visual Edition Jev 发布，按社区思路将候选结果映射到固定标签，prefill 后直接采样并限制输出 token，采用多模态 qwen-3.5-0.8B 4bit 量化在 16G M4 MacBook Pro 本地流畅运行。</p>
+<p><strong>Haoran | 公众号：独立开发</strong> · @hr98w · 2026-09-17</p>
+<p>💬 31 &nbsp; 🔁 38 &nbsp; ♡ 303 &nbsp; 📊 35K</p>
+<p><a href="https://x.com/hr98w/status/2100646513412292873">在 X 查看原帖</a> · <a href="https://t.co/x0kzeE3hdx">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ctgptlb/status/2100120850754412967"><img src="https://pbs.twimg.com/media/HSUgsHBasAAgNcz?format=png&amp;name=medium" alt="ChatGPT Co-Inventor Unveils New AI Model Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ctgptlb/status/2100120850754412967">ChatGPT Co-Inventor Unveils New AI Model Jev</a></h3>
+<p>After two years of stealth development, ChatGPT&#39;s co-inventor unveils Jev, a new AI model claimed to be 20-200x faster and 40-400x cheaper than LLMs, with permanently free output tokens and typed judgments instead of strings.</p>
+<p><strong>中文摘要：</strong>ChatGPT 共同发明人经过两年秘密研发推出新 AI 模型 Jev，据称比 LLM 快 20-200 倍、便宜 40-400 倍，输出 token 永久免费，并返回类型化判断而非字符串。</p>
+<p><strong>AGIラボ</strong> · @ctgptlb · 2026-09-16</p>
+<p>💬 44 &nbsp; 🔁 1.4K &nbsp; ♡ 8.5K &nbsp; 📊 972K</p>
+<p><a href="https://x.com/ctgptlb/status/2100120850754412967">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kimmonismus/status/2100057080698950042"><img src="https://pbs.twimg.com/media/HSTl-nSbsAAyfDa?format=jpg&amp;name=medium" alt="Jev: A Decision-Focused AI Model Trained with RLCD · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kimmonismus/status/2100057080698950042">Jev: A Decision-Focused AI Model Trained with RLCD</a></h3>
+<p>Diogo Almeida introduces Jev, an AI model built for decisions rather than text generation, trained with a new method called RLCD. It is claimed to be 20–200× faster and 40–400× cheaper than comparable LLMs, at $0.042 per million input tokens.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 推出 Jev，一个专为决策而非文本生成打造的 AI 模型，采用 RLCD 新方法训练。据称比同类 LLM 快 20–200 倍、便宜 40–400 倍，输入成本为每百万 token 0.042 美元。</p>
+<p><strong>Chubby♨️</strong> · @kimmonismus · 2026-09-16</p>
+<p>💬 81 &nbsp; 🔁 107 &nbsp; ♡ 1.9K &nbsp; 📊 162K</p>
+<p><a href="https://x.com/kimmonismus/status/2100057080698950042">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pc_watch/status/2100327635998163015"><img src="https://pbs.twimg.com/media/HSXc2uPbkAAV0Mf?format=jpg&amp;name=medium" alt="ChatGPT Co-Researcher Releases &quot;Judgment-Only AI&quot; Jev, 193x Faster Than LLMs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pc_watch/status/2100327635998163015">ChatGPT Co-Researcher Releases &quot;Judgment-Only AI&quot; Jev, 193x Faster Than LLMs</a></h3>
+<p>PC Watch reports that a ChatGPT co-researcher developed a &quot;judgment-only AI&quot; called Jev, claimed to be 193 times faster than LLMs.</p>
+<p><strong>中文摘要：</strong>PC Watch报道，ChatGPT共同研究者开发了名为Jev的“判断专用AI”，据称速度比LLM快193倍。</p>
+<p><strong>PC Watch</strong> · @pc_watch · 2026-09-16</p>
+<p>💬 3 &nbsp; 🔁 142 &nbsp; ♡ 405 &nbsp; 📊 131K</p>
+<p><a href="https://x.com/pc_watch/status/2100327635998163015">在 X 查看原帖</a> · <a href="https://t.co/wvfFhgrYA5">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2100052880224874532"><img src="https://pbs.twimg.com/media/HSTi92fXMAA4V5c?format=jpg&amp;name=small" alt="ChatGPT Co-developer Releases Jev Model: Non-LLM Architecture, Low Cost and Ultra-fast · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2100052880224874532">ChatGPT Co-developer Releases Jev Model: Non-LLM Architecture, Low Cost and Ultra-fast</a></h3>
+<p>ChatGPT co-developer introduces Jev, a model that processes differently from LLMs, executing tasks at low cost and ultra-high speed with GPT-5.6 Terra-level performance.</p>
+<p><strong>中文摘要：</strong>ChatGPT 联合开发者推出 Jev 模型，采用不同于 LLM 的处理方式，能以低成本超高速执行任务，性能达到 GPT-5.6 Terra 级别。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-09-16</p>
+<p>💬 10 &nbsp; 🔁 166 &nbsp; ♡ 909 &nbsp; 📊 105K</p>
+<p><a href="https://x.com/gigazine/status/2100052880224874532">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dotey/status/2100109937237987823"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Releases System One Model Category and First Model Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dotey/status/2100109937237987823">TypeSafe AI Releases System One Model Category and First Model Jev</a></h3>
+<p>TypeSafe AI, founded by a co-inventor of ChatGPT, officially releases a new AI model category System One and its first model Jev, which completely abandons text generation capabilities.</p>
+<p><strong>中文摘要：</strong>由 ChatGPT 共同发明人创立的 TypeSafe AI 正式发布全新 AI 模型类别 System One 及首个模型 Jev，该模型完全放弃文本生成能力。</p>
+<p><strong>宝玉</strong> · @dotey · 2026-09-16</p>
+<p>💬 53 &nbsp; 🔁 58 &nbsp; ♡ 305 &nbsp; 📊 76K</p>
+<p><a href="https://x.com/dotey/status/2100109937237987823">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MLBear2/status/2100016512920887485"><img src="https://pbs.twimg.com/amplify_video_thumb/2100016034787016704/img/s5F6D6OYcluhfF8-.jpg" alt="TypeSafe Announces Jev, a New Architecture Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MLBear2/status/2100016512920887485">TypeSafe Announces Jev, a New Architecture Model</a></h3>
+<p>TypeSafe, founded by a ChatGPT co-developer, announced Jev, a new architecture model that abandons free-form text generation for parallel structured responses, achieving 40-200x speedup.</p>
+<p><strong>中文摘要：</strong>由 ChatGPT 联合开发者创立的 TypeSafe 发布新架构模型 Jev，放弃自由文本生成、并行输出结构化响应，实现 40-200 倍加速。</p>
+<p><strong>ML_Bear</strong> · @MLBear2 · 2026-09-16</p>
+<p>💬 0 &nbsp; 🔁 62 &nbsp; ♡ 367 &nbsp; 📊 71K</p>
+<p><a href="https://x.com/MLBear2/status/2100016512920887485">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FaztTech/status/2100021339134259710"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Announces Jev: A Non-Chatbot Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/FaztTech/status/2100021339134259710">TypeSafe AI Announces Jev: A Non-Chatbot Decision Model</a></h3>
+<p>TypeSafe AI introduces Jev, a model that doesn&#39;t converse but makes decisions your code can use directly, answering natural language questions including subjective ones.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 推出 Jev 模型，它不进行对话，而是直接为代码提供决策，用户可用自然语言提问，包括主观问题。</p>
+<p><strong>Fazt</strong> · @FaztTech · 2026-09-16</p>
+<p>💬 16 &nbsp; 🔁 76 &nbsp; ♡ 937 &nbsp; 📊 54K</p>
+<p><a href="https://x.com/FaztTech/status/2100021339134259710">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/erhanmeydan/status/2100192917528695035"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="New AI Model Jev Released: A Unique Approach Without Conversation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/erhanmeydan/status/2100192917528695035">New AI Model Jev Released: A Unique Approach Without Conversation</a></h3>
+<p>A new AI model Jev, developed over two years by a former OpenAI researcher, is released with a unique approach that doesn&#39;t involve conversation.</p>
+<p><strong>中文摘要：</strong>前 OpenAI 研究员历时两年开发的新 AI 模型 Jev 发布，采用不对话的独特方法。</p>
+<p><strong>Erhan Meydan</strong> · @erhanmeydan · 2026-09-16</p>
+<p>💬 10 &nbsp; 🔁 10 &nbsp; ♡ 155 &nbsp; 📊 36K</p>
+<p><a href="https://x.com/erhanmeydan/status/2100192917528695035">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ulusalomer/status/2100106530825646365"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev AI Model Announced: Structured Decisions with Probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ulusalomer/status/2100106530825646365">Jev AI Model Announced: Structured Decisions with Probabilities</a></h3>
+<p>Jev is a newly announced AI model that, unlike LLMs like ChatGPT/Claude, doesn&#39;t generate text but delivers structured decisions with probabilities based on a problem and possible outcomes.</p>
+<p><strong>中文摘要：</strong>Jev 是一个新发布的 AI 模型，不同于 ChatGPT/Claude 等 LLM，它不生成文本，而是根据问题和可能结果给出结构化决策及其概率。</p>
+<p><strong>Ömer</strong> · @ulusalomer · 2026-09-16</p>
+<p>💬 7 &nbsp; 🔁 7 &nbsp; ♡ 147 &nbsp; 📊 28K</p>
+<p><a href="https://x.com/ulusalomer/status/2100106530825646365">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AnatoliKopadze/status/2099936807743820134"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="ChatGPT Co-Inventor Launches Jev: An AI That Only Makes Decisions, Not Words · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AnatoliKopadze/status/2099936807743820134">ChatGPT Co-Inventor Launches Jev: An AI That Only Makes Decisions, Not Words</a></h3>
+<p>The co-inventor of ChatGPT has launched a new kind of AI called Jev, claimed to be 20-200x faster and 40-400x cheaper, with free output tokens forever, and it only makes decisions instead of writing text.</p>
+<p><strong>中文摘要：</strong>ChatGPT 共同发明人推出名为 Jev 的新型 AI，据称速度提升 20-200 倍、成本降低 40-400 倍，输出 token 永久免费，且只做决策不生成文字。</p>
+<p><strong>Anatoli Kopadze</strong> · @AnatoliKopadze · 2026-09-15</p>
+<p>💬 97 &nbsp; 🔁 294 &nbsp; ♡ 3.7K &nbsp; 📊 1.1M</p>
+<p><a href="https://x.com/AnatoliKopadze/status/2099936807743820134">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shiri_shh/status/2099971145458171906"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="ChatGPT and RLHF co-creator launches new model: ~150ms latency, free output · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shiri_shh/status/2099971145458171906">ChatGPT and RLHF co-creator launches new model: ~150ms latency, free output</a></h3>
+<p>The post says the person who co-created ChatGPT and RLHF at OpenAI has launched a new model with ~150ms latency, $0.042 per million input tokens, and free output.</p>
+<p><strong>中文摘要：</strong>据帖子称，OpenAI 时期共同创建 ChatGPT 和 RLHF 的人士发布新模型，延迟约 150ms，输入成本为每百万 token 0.042 美元，输出免费。</p>
+<p><strong>shirish</strong> · @shiri_shh · 2026-09-15</p>
+<p>💬 49 &nbsp; 🔁 155 &nbsp; ♡ 3.5K &nbsp; 📊 579K</p>
+<p><a href="https://x.com/shiri_shh/status/2099971145458171906">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/namcios/status/2100005813779607927"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Launches Jev, Its First System One Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/namcios/status/2100005813779607927">TypeSafe AI Launches Jev, Its First System One Model</a></h3>
+<p>TypeSafe AI founder Diogo Almeida spent about two years building and launched Jev, the company&#39;s first System One Model, which is not a chatbot.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 创始人 Diogo Almeida 历时约两年打造，发布公司首个 System One 模型 Jev，它不是聊天机器人。</p>
+<p><strong>Felipe Demartini</strong> · @namcios · 2026-09-15</p>
+<p>💬 22 &nbsp; 🔁 78 &nbsp; ♡ 1.1K &nbsp; 📊 231K</p>
+<p><a href="https://x.com/namcios/status/2100005813779607927">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dubidubabap/status/2100002279910998429"><img src="https://pbs.twimg.com/media/HSS08O5acAAWVuc?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev, Its First System One Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dubidubabap/status/2100002279910998429">TypeSafe AI Releases Jev, Its First System One Model</a></h3>
+<p>TypeSafe AI releases Jev, its first System One model, developed in secret for two years by Diogo Almeida, who worked on OpenAI&#39;s InstructGPT and RLHF research.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 发布首个 System One 模型 Jev，由曾参与 OpenAI InstructGPT 和 RLHF 研究的 Diogo Almeida 秘密开发两年。</p>
+<p><strong>ByungJun Ahn</strong> · @dubidubabap · 2026-09-15</p>
+<p>💬 2 &nbsp; 🔁 37 &nbsp; ♡ 123 &nbsp; 📊 12K</p>
+<p><a href="https://x.com/dubidubabap/status/2100002279910998429">在 X 查看原帖</a></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>

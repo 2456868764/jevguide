@@ -1,0 +1,252 @@
+# 数据分析
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 20 | 11 | 9 | 392K |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/serpinxbt/status/2101539616188776885"><img src="https://pbs.twimg.com/media/HSoq9QQX0AAbllV?format=jpg&amp;name=small" alt="Jev Released This Week, Used to Analyze ZKSnarks Supporters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/serpinxbt/status/2101539616188776885">Jev Released This Week, Used to Analyze ZKSnarks Supporters</a></h3>
+<p>A user used the newly released Jev to analyze accounts supporting ZKSnarks in the last ~48 hours, noting its sentiment analysis is only slightly better than Haiku.</p>
+<p><strong>中文摘要：</strong>用户使用本周发布的 Jev 分析过去约 48 小时内支持 ZKSnarks 的账户，并评价其情感分析表现仅略优于 Haiku。</p>
+<p><strong>Serpin Taxt</strong> · @serpinxbt · 2026-09-20</p>
+<p>💬 22 &nbsp; 🔁 3 &nbsp; ♡ 114 &nbsp; 📊 7.5K</p>
+<p><a href="https://x.com/serpinxbt/status/2101539616188776885">在 X 查看原帖</a> · <a href="https://t.co/JRtzIe9Au6">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eltokh7/status/2101793224062881918"><img src="https://pbs.twimg.com/media/HSsRKXaWkAAhbTq?format=jpg&amp;name=medium" alt="Ranking YC companies by sci-fi vibes with Jev&#39;s jsort · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eltokh7/status/2101793224062881918">Ranking YC companies by sci-fi vibes with Jev&#39;s jsort</a></h3>
+<p>A user shares ranking YC companies by sci-fi vibes using Jev&#39;s jsort, noting an interesting uptick at the start of the AI revolution.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 的 jsort 按科幻感对 YC 公司排名，并观察到 AI 革命初期排名上升的有趣现象。</p>
+<p><strong>khaled</strong> · @eltokh7 · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 95</p>
+<p><a href="https://x.com/eltokh7/status/2101793224062881918">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CyberWarlo/status/2101541920396755146"><img src="https://pbs.twimg.com/tweet_video_thumb/HSotPKlXgAAXTKQ.jpg" alt="The Bottleneck of Using Jev for Evals · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CyberWarlo/status/2101541920396755146">The Bottleneck of Using Jev for Evals</a></h3>
+<p>The post notes that using Jev for Evals is fine, but the real bottleneck is testing classifiers against human labels, not the evaluation method itself.</p>
+<p><strong>中文摘要：</strong>帖子指出使用 Jev 进行 Evals 没问题，但真正的瓶颈是将分类器与人工标签进行对比，而非评估方法本身。</p>
+<p><strong>Glyph</strong> · @CyberWarlo · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 79</p>
+<p><a href="https://x.com/CyberWarlo/status/2101541920396755146">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ajmeese7/status/2101786516758667265"><img src="https://pbs.twimg.com/amplify_video_thumb/2101668139171803137/img/s1oEfP8Ik6byKyOK.jpg" alt="Using Jev to search 6TB of old drives for $6 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ajmeese7/status/2101786516758667265">Using Jev to search 6TB of old drives for $6</a></h3>
+<p>The author shares a first hands-on Jev use case: searching 6TB of old drives to find the most valuable files, costing $6 to complete a task postponed for years, with an open-source repo.</p>
+<p><strong>中文摘要：</strong>作者分享首次实际使用 Jev 的案例：搜索 6TB 旧硬盘以找出最有价值的文件，花费 6 美元完成多年未做的任务，并附上开源仓库。</p>
+<p><strong>Aaron Meese</strong> · @ajmeese7 · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 71</p>
+<p><a href="https://x.com/ajmeese7/status/2101786516758667265">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/patrickdevivo/status/2101693266135539782"><img src="https://pbs.twimg.com/media/HSq14VVWYAAZKCc?format=jpg&amp;name=medium" alt="Using Jev to simplify embedding-based repo categorization · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/patrickdevivo/status/2101693266135539782">Using Jev to simplify embedding-based repo categorization</a></h3>
+<p>Patrick DeVivo shares running an LLM embedding pipeline on Powerset to categorize repos by README and website content, and suggests Jev could greatly simplify it.</p>
+<p><strong>中文摘要：</strong>Patrick DeVivo 分享在 Powerset 上用 LLM 嵌入管道按 README 和网站内容对仓库分类，并认为 Jev 可以大幅简化这一流程。</p>
+<p><strong>Patrick DeVivo</strong> · @patrickdevivo · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
+<p><a href="https://x.com/patrickdevivo/status/2101693266135539782">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/IanArawjo/status/2101697198098452480"><img src="https://pbs.twimg.com/media/HSq5tt8WMAIHUha?format=jpg&amp;name=medium" alt="Classifying TypeSafe and OpenRouter excerpts with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/IanArawjo/status/2101697198098452480">Classifying TypeSafe and OpenRouter excerpts with Jev</a></h3>
+<p>The author asked Jev to assign excerpts from TypeSafe and OpenRouter press releases and doc pages to one of 13 categories, with an inspectable ChainForge flow shared.</p>
+<p><strong>中文摘要：</strong>作者让 Jev 将来自 TypeSafe 和 OpenRouter 新闻稿及文档页面的摘录归入 13 个类别之一，并公开了可检查的 ChainForge 流程。</p>
+<p><strong>Ian Arawjo</strong> · @IanArawjo · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/IanArawjo/status/2101697198098452480">在 X 查看原帖</a> · <a href="https://t.co/dAoSFHtD07">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Csisc1994/status/2101694757613256746"><img src="https://pbs.twimg.com/media/HSq4FNqWUAAFD7s?format=jpg&amp;name=medium" alt="Early access to TypeSafe Jev used for MIMIC-CXR-DB data cleaning · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Csisc1994/status/2101694757613256746">Early access to TypeSafe Jev used for MIMIC-CXR-DB data cleaning</a></h3>
+<p>A researcher thanks TypeSafe AI for early access to Jev, used to clean the automatically extracted MIMIC-CXR-DB database for presentation at MICCAI 2026, with a full report coming soon.</p>
+<p><strong>中文摘要：</strong>研究者感谢 TypeSafe AI 提供 Jev 早期访问，并用于清洗自动提取的 MIMIC-CXR-DB 数据库，成果将在 MICCAI 2026 展示，完整报告即将发布。</p>
+<p><strong>Houcemeddine Turki</strong> · @Csisc1994 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Csisc1994/status/2101694757613256746">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/regalstreak/status/2101189571375493239"><img src="https://pbs.twimg.com/media/HSjtzqgaMAAdpuE.jpg" alt="Jev Predicts Churn from First 3 User Journeys · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/regalstreak/status/2101189571375493239">Jev Predicts Churn from First 3 User Journeys</a></h3>
+<p>Jev predicts who will churn, confidence, and where journeys went wrong in ~10s using only each user&#39;s first 3 journeys.</p>
+<p><strong>中文摘要：</strong>Jev 仅凭每位用户前3次旅程，在约10秒内预测谁将流失、置信度及问题起点。</p>
+<p><strong>Neil Agarwal</strong> · @regalstreak · 2026-09-19</p>
+<p>💬 65 &nbsp; 🔁 42 &nbsp; ♡ 862 &nbsp; 📊 82K</p>
+<p><a href="https://x.com/regalstreak/status/2101189571375493239">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xMovez/status/2101325703635435523"><img src="https://pbs.twimg.com/amplify_video_thumb/2101325508373868544/img/-8QbPo6wgSvhz9hf.jpg" alt="Jev Viral Post Analyser: 100K posts in 20.4s for $0.67 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xMovez/status/2101325703635435523">Jev Viral Post Analyser: 100K posts in 20.4s for $0.67</a></h3>
+<p>Analysing 100,000 viral X posts with Jev took 20.4 seconds and $0.67; Claude Opus 5 processed only 214 posts for $0.98, making Jev roughly 680x cheaper per post.</p>
+<p><strong>中文摘要：</strong>使用 Jev 分析 10 万条病毒式 X 帖子仅需 20.4 秒、花费 0.67 美元；对比 Claude Opus 5 仅处理 214 条就花费 0.98 美元，单条成本约便宜 680 倍。</p>
+<p><strong>Movez</strong> · @0xMovez · 2026-09-19</p>
+<p>💬 20 &nbsp; 🔁 33 &nbsp; ♡ 297 &nbsp; 📊 44K</p>
+<p><a href="https://x.com/0xMovez/status/2101325703635435523">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sengpt/status/2101231206801027398"><img src="https://pbs.twimg.com/amplify_video_thumb/2101230401540837376/img/SFKMeBgmV4Tmjs76.jpg" alt="Classifying a half-hour interview with JEV for emotional and controversial topics · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sengpt/status/2101231206801027398">Classifying a half-hour interview with JEV for emotional and controversial topics</a></h3>
+<p>Using JEV to classify T24&#39;s half-hour interview with Daron Acemoglu in just 3.7 seconds, identifying where emotional topics, controversial subjects, and anecdotes or humor appeared.</p>
+<p><strong>中文摘要：</strong>使用 JEV 对 T24 与 Daron Acemoglu 的半小时采访进行分类，仅用 3.7 秒，识别出情感话题、争议话题以及轶事或幽默内容的位置。</p>
+<p><strong>sengpt</strong> · @sengpt · 2026-09-19</p>
+<p>💬 21 &nbsp; 🔁 21 &nbsp; ♡ 385 &nbsp; 📊 43K</p>
+<p><a href="https://x.com/sengpt/status/2101231206801027398">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/karintomanjux/status/2101370772317258091"><img src="https://pbs.twimg.com/amplify_video_thumb/2101370527093018624/img/EchV1xkM8wchwfsV.jpg" alt="Processing Threads posts with Jev: 1,314 posts for $0.11 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/karintomanjux/status/2101370772317258091">Processing Threads posts with Jev: 1,314 posts for $0.11</a></h3>
+<p>User shares experience of processing Threads posts with Jev: 1,314 posts cost only $0.11, with 94% off-topic and 197 sales posts.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 处理 Threads 帖子的经验：1314 条帖子处理成本仅 0.11 美元，其中 94% 与兴趣主题无关，197 条为销售类内容。</p>
+<p><strong>카링또만쥬</strong> · @karintomanjux · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/karintomanjux/status/2101370772317258091">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usutaku_channel/status/2100829343954173965"><img src="https://pbs.twimg.com/amplify_video_thumb/2100829070514864128/img/V3ix1we5Euhs8DsY.jpg" alt="Classifying emails with Jev and comparing against top fast models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/usutaku_channel/status/2100829343954173965">Classifying emails with Jev and comparing against top fast models</a></h3>
+<p>The author tested Jev for email classification against fast models like Luna, Sonnet, and Flash, reporting Jev performed best.</p>
+<p><strong>中文摘要：</strong>作者试用Jev对邮件进行分类，并与Luna、Sonnet、Flash等高速模型对比，称Jev表现最佳。</p>
+<p><strong>usutaku</strong> · @usutaku_channel · 2026-09-18</p>
+<p>💬 23 &nbsp; 🔁 195 &nbsp; ♡ 2.1K &nbsp; 📊 392K</p>
+<p><a href="https://x.com/usutaku_channel/status/2100829343954173965">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dabit3/status/2100780008193020049"><img src="https://pbs.twimg.com/amplify_video_thumb/2100779722447667200/img/gvsEg2-3oD6FRZhc.jpg" alt="Jev Predictive Spreadsheets: Reading Intent, Not Just Numbers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dabit3/status/2100780008193020049">Jev Predictive Spreadsheets: Reading Intent, Not Just Numbers</a></h3>
+<p>Nader Dabit showcases a Jev predictive spreadsheet example: typing &quot;Urgency&quot; at the top of a column, Jev infers in ~100 ms that each row should be rated from &quot;no follow-up needed&quot; to &quot;urgent,&quot; demonstrating its ability to read intent.</p>
+<p><strong>中文摘要：</strong>Nader Dabit 展示 Jev 的预测性电子表格示例：在列顶部输入“Urgency”，Jev 在约 100 毫秒内推断出每行需要从“无需跟进”到“紧急”的评级，体现其读取意图的能力。</p>
+<p><strong>nader dabit</strong> · @dabit3 · 2026-09-18</p>
+<p>💬 38 &nbsp; 🔁 72 &nbsp; ♡ 1.2K &nbsp; 📊 270K</p>
+<p><a href="https://x.com/dabit3/status/2100780008193020049">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ytiskw/status/2100474943154827344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100474178457698304/img/DXGnHg-iUrEhsFgE.jpg" alt="Simulating Product Adoption Intent of 150 Fictional Personas via Jev API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ytiskw/status/2100474943154827344">Simulating Product Adoption Intent of 150 Fictional Personas via Jev API</a></h3>
+<p>The author built a system that sends 12 questions via the Jev API to each of 150 fictional personas to ask about their product adoption intent. The actual cost was 1.8 yen and it took about 5 seconds—fast enough, though latency is included.</p>
+<p><strong>中文摘要：</strong>作者构建了一个系统，通过 Jev API 向 150 个虚构人设各发送 12 个问题，询问其产品采用意向。实际成本 1.8 日元，耗时约 5 秒，速度足够快但包含延迟。</p>
+<p><strong>石川陽太 Yota Ishikawa</strong> · @ytiskw · 2026-09-17</p>
+<p>💬 9 &nbsp; 🔁 107 &nbsp; ♡ 1.1K &nbsp; 📊 241K</p>
+<p><a href="https://x.com/ytiskw/status/2100474943154827344">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/robj3d3/status/2100631889585606959"><img src="https://pbs.twimg.com/media/HSbxP15bMAA1LaU?format=jpg&amp;name=medium" alt="Building a Viral Post Classifier with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/robj3d3/status/2100631889585606959">Building a Viral Post Classifier with Jev</a></h3>
+<p>A developer spent 8 hours building a viral post classifier with Jev, claiming it outperforms them and matches Fable 5.1 but 100x faster.</p>
+<p><strong>中文摘要：</strong>开发者用 8 小时基于 Jev 构建病毒帖子分类器，称其识别能力超过自己，且与 Fable 5.1 相当但快 100 倍。</p>
+<p><strong>Rob Hallam</strong> · @robj3d3 · 2026-09-17</p>
+<p>💬 55 &nbsp; 🔁 15 &nbsp; ♡ 615 &nbsp; 📊 166K</p>
+<p><a href="https://x.com/robj3d3/status/2100631889585606959">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nutlope/status/2100426999546184123"><img src="https://pbs.twimg.com/amplify_video_thumb/2100425141947604992/img/AITyHwcOWq1jw-3Z.jpg" alt="Classifying 1,018 AI Papers with Jev for $0.08 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nutlope/status/2100426999546184123">Classifying 1,018 AI Papers with Jev for $0.08</a></h3>
+<p>The author summarized each paper with DeepSeek V4 Flash, then sent the title, summary, and 24 candidate topics to Jev for classification, processing 1,018 AI papers at $0.08 total cost and 256ms median end-to-end latency per paper.</p>
+<p><strong>中文摘要：</strong>作者用 DeepSeek V4 Flash 生成摘要，再将标题、摘要和 24 个候选主题交给 Jev 分类，完成 1018 篇 AI 论文的归类，总成本 0.08 美元，单篇中位端到端延迟 256 毫秒。</p>
+<p><strong>Hassan</strong> · @nutlope · 2026-09-17</p>
+<p>💬 118 &nbsp; 🔁 182 &nbsp; ♡ 2.0K &nbsp; 📊 164K</p>
+<p><a href="https://x.com/nutlope/status/2100426999546184123">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iannuttall/status/2100668908227162567"><img src="https://pbs.twimg.com/amplify_video_thumb/2100668725737213952/img/m210oIkCyuGX5Dqr.jpg" alt="Analyzing 3,282 X posts with Jev to find growth patterns · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iannuttall/status/2100668908227162567">Analyzing 3,282 X posts with Jev to find growth patterns</a></h3>
+<p>Ian Nuttall used Jev to analyze 3,282 X posts (100M views), consuming 4,252,330 tokens for $0.1282 in an 8m 34s run, with 8 questions per post on topic, hook, tone, etc., finding how-to posts got 150 median likes.</p>
+<p><strong>中文摘要：</strong>Ian Nuttall 用 Jev 分析了 3,282 条 X 帖子（总浏览量 1 亿），消耗 4,252,330 tokens、花费 $0.1282、耗时 8 分 34 秒，每帖回答 8 个关于主题、钩子、语气等问题，发现教程类帖子中位点赞数为 150。</p>
+<p><strong>Ian Nuttall</strong> · @iannuttall · 2026-09-17</p>
+<p>💬 54 &nbsp; 🔁 45 &nbsp; ♡ 745 &nbsp; 📊 87K</p>
+<p><a href="https://x.com/iannuttall/status/2100668908227162567">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Khazix0918/status/2100614133171552435"><img src="https://pbs.twimg.com/media/HSbgXI-agAAkxpB?format=png&amp;name=900x900" alt="Testing Jev&#39;s classification accuracy: solid for AIHOT pre-screening · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Khazix0918/status/2100614133171552435">Testing Jev&#39;s classification accuracy: solid for AIHOT pre-screening</a></h3>
+<p>The author tested Jev&#39;s classification accuracy for pre-screening AI-related content on AIHOT, finding it solid; GLM 5.3 Flash got everything right but was the slowest.</p>
+<p><strong>中文摘要：</strong>作者测试 Jev 的分类准确率，在 AIHOT 上用于判断内容是否与 AI 相关的预筛选任务，表现稳定；GLM 5.3 Flash 全部正确但速度最慢。</p>
+<p><strong>数字生命卡兹克</strong> · @Khazix0918 · 2026-09-17</p>
+<p>💬 58 &nbsp; 🔁 8 &nbsp; ♡ 196 &nbsp; 📊 45K</p>
+<p><a href="https://x.com/Khazix0918/status/2100614133171552435">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cramforce/status/2100269198727602468"><img src="https://pbs.twimg.com/media/HSWnmSYaIAAwrmA?format=jpg&amp;name=medium" alt="Jev beats Gemini 2.5 Flash Lite on classifier eval quality and speed · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cramforce/status/2100269198727602468">Jev beats Gemini 2.5 Flash Lite on classifier eval quality and speed</a></h3>
+<p>Malte Ubl ran TypeSafe AI&#39;s Jev against an existing classifier eval, where it saturated the eval on quality and was 6x faster than Gemini 2.5 Flash Lite.</p>
+<p><strong>中文摘要：</strong>Malte Ubl 将 TypeSafe AI 的 Jev 用于现有分类器评测，结果在质量上饱和评测集，速度比 Gemini 2.5 Flash Lite 快 6 倍。</p>
+<p><strong>Malte Ubl</strong> · @cramforce · 2026-09-16</p>
+<p>💬 40 &nbsp; 🔁 56 &nbsp; ♡ 1.1K &nbsp; 📊 213K</p>
+<p><a href="https://x.com/cramforce/status/2100269198727602468">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hamiltonulmer/status/2100370557405667768"><img src="https://pbs.twimg.com/media/HSYD5B1bsAAWqeg?format=jpg&amp;name=medium" alt="Fast row classification in DuckDB with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hamiltonulmer/status/2100370557405667768">Fast row classification in DuckDB with Jev</a></h3>
+<p>The author released a DuckDB extension that uses TypeSafe AI&#39;s Jev to quickly classify rows in CSV/Parquet files or DuckDB tables, taking about 10 seconds for 1k rows—faster than an LLM and more ergonomic than a classifier.</p>
+<p><strong>中文摘要：</strong>作者发布了一个 DuckDB 扩展，使用 TypeSafe AI 的 Jev 对 CSV/Parquet 文件或 DuckDB 表中的行进行快速分类，约 10 秒处理 1k 行，比 LLM 更快且比分类器更易用。</p>
+<p><strong>Hamilton Ulmer</strong> · @hamiltonulmer · 2026-09-16</p>
+<p>💬 37 &nbsp; 🔁 137 &nbsp; ♡ 1.4K &nbsp; 📊 130K</p>
+<p><a href="https://x.com/hamiltonulmer/status/2100370557405667768">在 X 查看原帖</a></p>
+</td>
+</tr>
+</table>

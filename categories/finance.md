@@ -1,0 +1,506 @@
+# 金融
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 41 | 31 | 11 | 1.2M |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RohOnChain/status/2101708948990767160"><img src="https://pbs.twimg.com/amplify_video_thumb/2101707612815568896/img/Qd9yTOChzkqo3Kjw.jpg" alt="Open-Sourced jev-trader: A 24/7 Trading Bot Built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RohOnChain/status/2101708948990767160">Open-Sourced jev-trader: A 24/7 Trading Bot Built with Jev</a></h3>
+<p>Someone open-sourced jev-trader, a fully working 24/7 trading bot built with Jev, along with a complete low-latency codebase, so users can clone instead of building from scratch.</p>
+<p><strong>中文摘要：</strong>有人开源了 jev-trader，一个基于 Jev 的全天候交易机器人，附带完整的低延迟代码库，用户无需从零构建即可克隆使用。</p>
+<p><strong>Roan</strong> · @RohOnChain · 2026-09-20</p>
+<p>💬 35 &nbsp; 🔁 28 &nbsp; ♡ 241 &nbsp; 📊 39K</p>
+<p><a href="https://x.com/RohOnChain/status/2101708948990767160">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/everestchris6/status/2101706320261128398"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706250090319872/img/h92BN1ENdExQGPy6.jpg" alt="Making Money with Jev on Autopilot: Use Cases for a Fast Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/everestchris6/status/2101706320261128398">Making Money with Jev on Autopilot: Use Cases for a Fast Decision Model</a></h3>
+<p>Explains how to make money with Jev on autopilot: it picks an answer in a fifth of a second with a confidence score, enabling instant pricing for businesses without it and selling the same thing to bigger businesses for more.</p>
+<p><strong>中文摘要：</strong>介绍如何用 Jev 自动赚钱：它能在五分之一秒内给出答案并附带置信度，可用于为无定价的业务提供即时定价、向更大企业高价销售同一产品等。</p>
+<p><strong>Chris</strong> · @everestchris6 · 2026-09-20</p>
+<p>💬 5 &nbsp; 🔁 23 &nbsp; ♡ 194 &nbsp; 📊 22K</p>
+<p><a href="https://x.com/everestchris6/status/2101706320261128398">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/wuliao_btc/status/2101513081524531671"><img src="https://pbs.twimg.com/media/HSoSu1-bIAAOidE?format=jpg&amp;name=medium" alt="Jev Model for Trading: Hype vs. Caution · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wuliao_btc/status/2101513081524531671">Jev Model for Trading: Hype vs. Caution</a></h3>
+<p>The post discusses feeding trading rules into the Jev model and letting it handle trades, warning against FOMO on new tech and suggesting waiting could save money.</p>
+<p><strong>中文摘要：</strong>帖子讨论将交易规则输入Jev模型并让模型处理交易，提醒不要因新技术而FOMO，等待可能更省钱。</p>
+<p><strong>无聊先生(爱炒币的懒羊羊)🩵🔶</strong> · @wuliao_btc · 2026-09-20</p>
+<p>💬 22 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 3.6K</p>
+<p><a href="https://x.com/wuliao_btc/status/2101513081524531671">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/obrainarc/status/2101535648549368227"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Using Jev to Build a Trading Bot and Train a Brain to Play Games · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/obrainarc/status/2101535648549368227">Using Jev to Build a Trading Bot and Train a Brain to Play Games</a></h3>
+<p>The post says someone uses Jev to create a trading bot and that they are training a brain to use JEV to play games, involving an on-chain bio-brain project.</p>
+<p><strong>中文摘要：</strong>帖子称有人使用 Jev 创建交易机器人，并正在训练大脑用 JEV 玩游戏，涉及链上生物大脑项目。</p>
+<p><strong>oBrain Arc</strong> · @obrainarc · 2026-09-20</p>
+<p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 22 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/obrainarc/status/2101535648549368227">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/follow_clues/status/2101680539791196400"><img src="https://pbs.twimg.com/media/HSqrLU7akAAh2WL?format=jpg&amp;name=medium" alt="Implementing Convergence Restrictions and Trailing Stop Loss for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/follow_clues/status/2101680539791196400">Implementing Convergence Restrictions and Trailing Stop Loss for Jev</a></h3>
+<p>The post describes adding transaction-amount filtering and trailing stop loss to #jev, removing close-position judgment in favor of reverse signals, and mentions result utilization and floating.</p>
+<p><strong>中文摘要：</strong>帖子介绍为 #jev 添加按交易金额过滤输入信号、移动止损，并移除平仓判断、改用反向信号平仓，同时提及结果利用与浮动。</p>
+<p><strong>Theclues</strong> · @follow_clues · 2026-09-20</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/follow_clues/status/2101680539791196400">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/simplifyinAI/status/2101696691657478550"><img src="https://pbs.twimg.com/amplify_video_thumb/2101693731493871616/img/JR6DDwsq7VNPrGz1.jpg" alt="Jev Model Connects to Hyperliquid for Live Crypto Trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/simplifyinAI/status/2101696691657478550">Jev Model Connects to Hyperliquid for Live Crypto Trading</a></h3>
+<p>jev-trade connects TypeSafe&#39;s Jev model directly to Hyperliquid, a crypto exchange. Jev decides long or short, open, close, or hold once per tick across five coins, each with its own wallet, enabling live orders with real money.</p>
+<p><strong>中文摘要：</strong>jev-trade 将 TypeSafe 的 Jev 模型直接连接到加密货币交易所 Hyperliquid，Jev 每个 tick 在五种币上独立决策做多、做空、开仓、平仓或持有，每种币使用独立钱包，实现真实资金实时下单。</p>
+<p><strong>Simplifying AI</strong> · @simplifyinAI · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 348</p>
+<p><a href="https://x.com/simplifyinAI/status/2101696691657478550">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OctoOnItsOwn/status/2101539272298057825"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101539233446203392/pu/img/DSByNC0utV-F4G-1.jpg" alt="Jev reads new coins on Robinhood Chain in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/OctoOnItsOwn/status/2101539272298057825">Jev reads new coins on Robinhood Chain in real time</a></h3>
+<p>A user shares how TypeSafe AI&#39;s Jev quickly identifies narrative types of new coins on Robinhood Chain, with yesterday&#39;s stats: 586 coins, 261 with no story, 106 animals, and 16 celebrity coins all vetoed.</p>
+<p><strong>中文摘要：</strong>用户分享使用 TypeSafe AI 的 Jev 在 Robinhood Chain 上快速识别新币叙事类型的体验，并给出昨日统计：586 个新币中 261 个无叙事、106 个动物类、16 个名人币全部被否决。</p>
+<p><strong>OctoOnItsOwn</strong> · @OctoOnItsOwn · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 145</p>
+<p><a href="https://x.com/OctoOnItsOwn/status/2101539272298057825">在 X 查看原帖</a> · <a href="https://t.co/I4qUoqLYT0">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/adzeb_/status/2101588968219590726"><img src="https://pbs.twimg.com/amplify_video_thumb/2101588911239938048/img/FDYA6M_BN0EaHGYF.jpg" alt="Early test of Jev action selection model for payment fraud detection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/adzeb_/status/2101588968219590726">Early test of Jev action selection model for payment fraud detection</a></h3>
+<p>The author tries the new Jev action selection model, noting it is unlikely to replace payment fraud detection since many features are tabular and it underperforms LightGBM, yet finds it impressive given this is probably not its intended use case.</p>
+<p><strong>中文摘要：</strong>作者试用新的 Jev 动作选择模型，认为其不太可能取代支付欺诈检测，因为许多特征为表格数据，表现不及 LightGBM，但考虑到该场景可能并非其目标用例，结果已令人印象深刻。</p>
+<p><strong>Adrien</strong> · @adzeb_ · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 57</p>
+<p><a href="https://x.com/adzeb_/status/2101588968219590726">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Alex_aic5/status/2101523309158343137"><img src="https://pbs.twimg.com/amplify_video_thumb/2101520826855993344/img/G5Po0XYCjTrtzGvo.jpg" alt="Early JEV Proof of Concept in Finance: Ranking 6K+ Companies in ~40 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Alex_aic5/status/2101523309158343137">Early JEV Proof of Concept in Finance: Ranking 6K+ Companies in ~40 Seconds</a></h3>
+<p>Alex C. shares a quick test of JEV in finance applications, using brute-force peer selection to rank 6K+ potential companies in ~40 seconds, with detailed criteria behind each score.</p>
+<p><strong>中文摘要：</strong>Alex C. 分享 JEV 在金融应用中的快速测试，采用暴力同行选择方法，在约 40 秒内对 6K+ 潜在公司进行排序，并给出每项评分背后的详细标准。</p>
+<p><strong>Alex C.</strong> · @Alex_aic5 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 53</p>
+<p><a href="https://x.com/Alex_aic5/status/2101523309158343137">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/juaxix/status/2101607949659484355"><img src="https://pbs.twimg.com/media/HSppHnQW0AAQszp?format=png&amp;name=small" alt="Testing Jev with an MQL5 Bot on BTCUSD CFDs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/juaxix/status/2101607949659484355">Testing Jev with an MQL5 Bot on BTCUSD CFDs</a></h3>
+<p>A developer shares testing Jev with an MQL5 bot on BTCUSD CFDs, noting it is fast but needs better decisions to profit.</p>
+<p><strong>中文摘要：</strong>开发者分享用 MQL5 机器人针对 BTCUSD CFD 测试 Jev，速度很快，但需要更好的决策才能盈利。</p>
+<p><strong>Juaxix</strong> · @juaxix · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/juaxix/status/2101607949659484355">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIShifuhk/status/2101469976930705493"><img src="https://pbs.twimg.com/amplify_video_thumb/2101469861855809536/img/PBIqr4vQC2tADRVC.jpg" alt="Using JEV to Track Shanghai Luxury Home Price Trends · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AIShifuhk/status/2101469976930705493">Using JEV to Track Shanghai Luxury Home Price Trends</a></h3>
+<p>The author shares a tool built with JEV to review and monitor price trends for Shanghai luxury homes priced above 20 million, praising its power.</p>
+<p><strong>中文摘要：</strong>作者分享用 JEV 制作了一个复盘和监测上海 2000 万以上豪宅价格趋势的工具，并称赞其强大。</p>
+<p><strong>AI狮傅🦁</strong> · @AIShifuhk · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/AIShifuhk/status/2101469976930705493">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aarjavshahhh/status/2101694757135347973"><img src="https://pbs.twimg.com/amplify_video_thumb/2101694718401007616/img/U6z-uDY2zyPJQ6su.jpg" alt="Classifying inbound deals with JEV vs. a self-training open model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aarjavshahhh/status/2101694757135347973">Classifying inbound deals with JEV vs. a self-training open model</a></h3>
+<p>A user shares using TypeSafe AI&#39;s JEV to classify hundreds of inbound deals, comparing it side-by-side with a small self-training open model, noting JEV is close in quality while cheaper and faster.</p>
+<p><strong>中文摘要：</strong>用户分享用 TypeSafe AI 的 JEV 对大量入站交易进行分类，并与自训练的小型开源模型对比，认为 JEV 在更便宜、更快的同时效果接近。</p>
+<p><strong>Aarjav shah</strong> · @aarjavshahhh · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 25</p>
+<p><a href="https://x.com/aarjavshahhh/status/2101694757135347973">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Trend0x_com/status/2101752917287915967"><img src="https://pbs.twimg.com/media/HSrtIeNWEAA_CXB?format=jpg&amp;name=medium" alt="Trend0x uses Jev to route AI requests, starting in shadow mode · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Trend0x_com/status/2101752917287915967">Trend0x uses Jev to route AI requests, starting in shadow mode</a></h3>
+<p>Trend0x explains that Jev sits in front of its reasoning model to route requests, cut unnecessary AI calls, and keep policy branching consistent; Jev does not trade or forecast returns, confidence scores are signals, and it runs in shadow mode first.</p>
+<p><strong>中文摘要：</strong>Trend0x 介绍 Jev 位于其推理模型前，负责路由请求、减少不必要的 AI 调用并保持策略分支一致；Jev 不交易也不预测收益，置信度分数只是信号，并先以影子模式运行。</p>
+<p><strong>Trend0x | Cognitive AI Trading</strong> · @Trend0x_com · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/Trend0x_com/status/2101752917287915967">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SandbaseAI/status/2101695244345765917"><img src="https://pbs.twimg.com/amplify_video_thumb/2101693558638198784/img/UPF5GzFjCrTJPHDc.jpg" alt="SandBase Launches Jev Trader for Simulated Market Trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SandbaseAI/status/2101695244345765917">SandBase Launches Jev Trader for Simulated Market Trading</a></h3>
+<p>Inspired by Jev, SandBase tried to recreate the experience around a fully simulated market and introduced SandBase Jev Trader.</p>
+<p><strong>中文摘要：</strong>SandBase 受 Jev 启发，尝试围绕完全模拟市场重建体验，并推出 SandBase Jev Trader。</p>
+<p><strong>SandBase</strong> · @SandbaseAI · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 20</p>
+<p><a href="https://x.com/SandbaseAI/status/2101695244345765917">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FMZQuant/status/2101642165843894696"><img src="https://pbs.twimg.com/media/HSqIZL0bIAArg33?format=jpg&amp;name=medium" alt="Jev Integrated into Live Quant Trading: Does the New AI Paradigm Work? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/FMZQuant/status/2101642165843894696">Jev Integrated into Live Quant Trading: Does the New AI Paradigm Work?</a></h3>
+<p>FMZ Quant shares a video testing the popular Jev model in live quantitative trading, exploring whether this new AI paradigm is viable.</p>
+<p><strong>中文摘要：</strong>FMZ Quant 发布视频，实测将爆火的 Jev 模型接入量化实盘，探讨这一 AI 模型新范式是否可行。</p>
+<p><strong>FMZ Quant</strong> · @FMZQuant · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/FMZQuant/status/2101642165843894696">在 X 查看原帖</a> · <a href="https://t.co/azWEvijIt4">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/de2pressed/status/2101696094782849185"><img src="https://pbs.twimg.com/media/HSq5b0lagAA70tF?format=jpg&amp;name=medium" alt="Analyzing Consistency Trade-offs in Payment Ledgers with Jev-GPT · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/de2pressed/status/2101696094782849185">Analyzing Consistency Trade-offs in Payment Ledgers with Jev-GPT</a></h3>
+<p>The post discusses strong vs eventual consistency trade-offs in payment ledgers and mentions using Jev-GPT for deterministic reasoning with zero hallucinations.</p>
+<p><strong>中文摘要：</strong>帖子讨论支付账本中强一致性与最终一致性的权衡，并提到使用 Jev-GPT 进行确定性推理、零幻觉分析。</p>
+<p><strong>Jayant</strong> · @de2pressed · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/de2pressed/status/2101696094782849185">在 X 查看原帖</a> · <a href="https://t.co/VDLCvLPCs9">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Uzbeko_07/status/2101801991227798006"><img src="https://pbs.twimg.com/media/HSsZmrrW0AAd4_S?format=jpg&amp;name=medium" alt="Testing robustness of a genetic-algorithm trading system with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Uzbeko_07/status/2101801991227798006">Testing robustness of a genetic-algorithm trading system with Jev</a></h3>
+<p>The author started testing TypeSafe AI&#39;s Jev on their genetic-algorithm-based trading system, finding it useful for robustness testing.</p>
+<p><strong>中文摘要：</strong>作者开始测试 TypeSafe AI 的 Jev，用于其基于遗传算法的交易系统，认为该工具适合做稳健性测试。</p>
+<p><strong>Juanma</strong> · @Uzbeko_07 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Uzbeko_07/status/2101801991227798006">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MoonGotchi/status/2101320141065609294"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Building an Autonomous Real-Time Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MoonGotchi/status/2101320141065609294">Building an Autonomous Real-Time Trading Bot with Jev</a></h3>
+<p>A developer shares a fully autonomous real-time trading bot built with Jev in an evening and morning, ingesting onchain and offchain data for rapid decisions, and notes it has lost $31,680 so far.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Jev 在一个晚上和一个上午构建的完全自主实时交易机器人，整合链上链下数据快速决策，并坦言目前亏损 31,680 美元。</p>
+<p><strong>Moon</strong> · @MoonGotchi · 2026-09-19</p>
+<p>💬 316 &nbsp; 🔁 842 &nbsp; ♡ 12K &nbsp; 📊 606K</p>
+<p><a href="https://x.com/MoonGotchi/status/2101320141065609294">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SUOHA_AI/status/2101275294451515740"><img src="https://pbs.twimg.com/amplify_video_thumb/2101274788513693696/img/Gj7UchuQIdpkqvAz.jpg" alt="JEV AI Quantitative Trading Demo Reverse Strategy Experiment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SUOHA_AI/status/2101275294451515740">JEV AI Quantitative Trading Demo Reverse Strategy Experiment</a></h3>
+<p>The author shares a JEV AI quantitative trading demo that ran for 57 hours with a -1370% floating loss, and hand-codes a fully reverse strategy to test if it guarantees profits.</p>
+<p><strong>中文摘要：</strong>作者分享了一个 JEV AI 量化交易 Demo，运行 57 小时浮亏 -1370%，并尝试手写完全反向策略来验证是否稳赚。</p>
+<p><strong>梭哈.AI</strong> · @SUOHA_AI · 2026-09-19</p>
+<p>💬 132 &nbsp; 🔁 35 &nbsp; ♡ 436 &nbsp; 📊 172K</p>
+<p><a href="https://x.com/SUOHA_AI/status/2101275294451515740">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RohOnChain/status/2101344481400508459"><img src="https://pbs.twimg.com/media/HSl5hClaoAA2_m7?format=jpg&amp;name=medium" alt="Building a 24/7 HFT Trading Bot with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RohOnChain/status/2101344481400508459">Building a 24/7 HFT Trading Bot with Jev</a></h3>
+<p>The author shares building a 24/7 HFT trading bot with Jev, and releases an 8-page research paper on building a millisecond-speed HFT system with complete codebase, highlighting splitting the system so deterministic code owns the math.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 构建 24/7 高频交易机器人的经验，并发布关于如何搭建毫秒级 HFT 系统的 8 页研究论文和完整代码库，强调将系统拆分为确定性代码负责数学计算。</p>
+<p><strong>Roan</strong> · @RohOnChain · 2026-09-19</p>
+<p>💬 35 &nbsp; 🔁 82 &nbsp; ♡ 706 &nbsp; 📊 93K</p>
+<p><a href="https://x.com/RohOnChain/status/2101344481400508459">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/oragnes/status/2101156068814667942"><img src="https://pbs.twimg.com/amplify_video_thumb/2101155580752891904/img/P0VoIBtyjQXUsTtF.jpg" alt="JEV Automated Intelligent Trading Test: 114 Trades with ~30% Win Rate · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oragnes/status/2101156068814667942">JEV Automated Intelligent Trading Test: 114 Trades with ~30% Win Rate</a></h3>
+<p>A user shares early results of using JEV for automated intelligent trading: 114 trades accumulated, ~30% win rate, excluding current position profits, and says it outperforms other agents.</p>
+<p><strong>中文摘要：</strong>用户分享使用 JEV 进行自动化智能交易的初步结果：累计 114 笔交易，胜率约 30%，且未计入当前持仓收益，并称其表现强于其他 Agent。</p>
+<p><strong>比特币橙子Trader</strong> · @oragnes · 2026-09-19</p>
+<p>💬 52 &nbsp; 🔁 31 &nbsp; ♡ 210 &nbsp; 📊 56K</p>
+<p><a href="https://x.com/oragnes/status/2101156068814667942">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_meaningless/status/2101242687055864088"><img src="https://pbs.twimg.com/media/HSkcEmYaQAA0iG_?format=jpg&amp;name=medium" alt="Automated ETH Leverage Trading Based on JEV Confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_meaningless/status/2101242687055864088">Automated ETH Leverage Trading Based on JEV Confidence</a></h3>
+<p>The author built an app with GPT-6 that automatically executes long and short ETH positions using JEV&#39;s confidence judgment, dynamically adjusting leverage by confidence bands (no entry below 85%, 2x at 85-90%, 3x at 90-95%, 4x at 95-99%, max above 99%).</p>
+<p><strong>中文摘要：</strong>作者用 GPT-6 构建了一个应用，利用 JEV 的置信度判断自动执行 ETH 多空仓位，并按置信度区间动态调整杠杆（85% 以下不入场，85-90% 2 倍，90-95% 3 倍，95-99% 4 倍，99% 以上最大杠杆）。</p>
+<p><strong>J-S---</strong> · @_meaningless · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 606</p>
+<p><a href="https://x.com/_meaningless/status/2101242687055864088">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/QuantDinger_EN/status/2101321539358453835"><img src="https://pbs.twimg.com/media/HSlky_lWcAAlUEJ?format=jpg&amp;name=medium" alt="Quantdinger Integrates TypeSafe JEV Comprehensive Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QuantDinger_EN/status/2101321539358453835">Quantdinger Integrates TypeSafe JEV Comprehensive Model</a></h3>
+<p>Quantdinger announces integration of the TypeSafe JEV comprehensive model to help users make more disciplined trading decisions.</p>
+<p><strong>中文摘要：</strong>Quantdinger 宣布集成 TypeSafe JEV 综合模型，帮助用户做出更有纪律的交易决策。</p>
+<p><strong>QuantDinger</strong> · @QuantDinger_EN · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 85</p>
+<p><a href="https://x.com/QuantDinger_EN/status/2101321539358453835">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nedwize/status/2100973868324417852"><img src="https://pbs.twimg.com/amplify_video_thumb/2100973360989773825/img/yMtL6CxrKMVXQEHV.jpg" alt="Building a Tax Document Classifier with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nedwize/status/2100973868324417852">Building a Tax Document Classifier with Jev</a></h3>
+<p>A developer shares building a tax document classifier with Jev, processing thousands of tax documents via an LLM pipeline, disproving claims that AI fails at tax classification.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Jev 构建税务文档分类器的经验，通过 LLM 管道处理数千份税务文件，反驳了 AI 在税务分类上失败的说法。</p>
+<p><strong>Nakshatra Saxena</strong> · @nedwize · 2026-09-18</p>
+<p>💬 115 &nbsp; 🔁 195 &nbsp; ♡ 3.3K &nbsp; 📊 231K</p>
+<p><a href="https://x.com/nedwize/status/2100973868324417852">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tommy_jepsen/status/2100939646653903063"><img src="https://pbs.twimg.com/amplify_video_thumb/2100938100272746496/img/8yisuerchTVTcFTn.jpg" alt="Jev Trades Danish Stock Market for All of 2025 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tommy_jepsen/status/2100939646653903063">Jev Trades Danish Stock Market for All of 2025</a></h3>
+<p>Jev traded the Danish stock market for all 239 trading days of 2025, using sentiment based on market data, news articles, Wikipedia and Google Trends, consuming 8.1 million tokens for $0.32.</p>
+<p><strong>中文摘要：</strong>Jev 基于市场数据、新闻文章、维基百科和谷歌趋势的情绪分析，在 2025 年全部 239 个交易日交易丹麦股市，消耗 810 万 token，成本仅 0.32 美元。</p>
+<p><strong>Tommy Jepsen</strong> · @tommy_jepsen · 2026-09-18</p>
+<p>💬 37 &nbsp; 🔁 31 &nbsp; ♡ 845 &nbsp; 📊 122K</p>
+<p><a href="https://x.com/tommy_jepsen/status/2100939646653903063">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/virattt/status/2100959848623899005"><img src="https://pbs.twimg.com/amplify_video_thumb/2100959729350561792/img/wc-JtyIBGa_9qgNL.jpg" alt="Jev Integrated into AI Hedge Fund for Fast Trading Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/virattt/status/2100959848623899005">Jev Integrated into AI Hedge Fund for Fast Trading Decisions</a></h3>
+<p>Virat Singh added Jev to the AI Hedge Fund, enabling frontier-level trading decisions 100x faster and cheaper than an LLM. Workflow: set strategy, pick tickers, backtest with Jev. System now runs in seconds, not minutes.</p>
+<p><strong>中文摘要：</strong>Virat Singh 将 Jev 添加到 AI Hedge Fund，实现比 LLM 快 100 倍且更便宜的前沿交易决策。流程：设定策略、选择股票代码、用 Jev 回测，系统运行时间从分钟级缩短到秒级。</p>
+<p><strong>Virat Singh</strong> · @virattt · 2026-09-18</p>
+<p>💬 32 &nbsp; 🔁 71 &nbsp; ♡ 1.0K &nbsp; 📊 85K</p>
+<p><a href="https://x.com/virattt/status/2100959848623899005">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/IndraVahan/status/2100929105382564113"><img src="https://pbs.twimg.com/amplify_video_thumb/2100928264831410176/img/VP6eszCSb95ePMo4.jpg" alt="Jev Trades Nifty Intraday with Real Money · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/IndraVahan/status/2100929105382564113">Jev Trades Nifty Intraday with Real Money</a></h3>
+<p>The author gave Jev ₹1,00,000 to trade Nifty intraday at 5x leverage on a real Kotak account; it hit the ₹1,000 hard stop today and the strategy will be tuned next week.</p>
+<p><strong>中文摘要：</strong>作者给 Jev 10 万卢比，在真实 Kotak 账户上以 5 倍杠杆交易 Nifty 日内，今日触及 1000 卢比硬止损，下周将继续调整策略。</p>
+<p><strong>Indra</strong> · @IndraVahan · 2026-09-18</p>
+<p>💬 37 &nbsp; 🔁 22 &nbsp; ♡ 881 &nbsp; 📊 69K</p>
+<p><a href="https://x.com/IndraVahan/status/2100929105382564113">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2101002481073586294"><img src="https://pbs.twimg.com/amplify_video_thumb/2100959729350561792/img/wc-JtyIBGa_9qgNL.jpg" alt="Jev Model Embedded in Hedge Fund for Trading Strategies · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2101002481073586294">Jev Model Embedded in Hedge Fund for Trading Strategies</a></h3>
+<p>The Jev model is used in a hedge fund to provide trading strategies, reportedly 100x faster than LLMs and an order of magnitude cheaper, with steps: set strategy, select stocks, backtest.</p>
+<p><strong>中文摘要：</strong>Jev 模型被用于对冲基金，提供交易策略，据称比 LLM 快 100 倍、成本低一个数量级，流程包括设定策略、选股和回测。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-18</p>
+<p>💬 14 &nbsp; 🔁 36 &nbsp; ♡ 237 &nbsp; 📊 50K</p>
+<p><a href="https://x.com/NFT_Chen/status/2101002481073586294">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/milbon_/status/2100770918809374779"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Jev AI Executes Real Trades Every 0.3 Seconds on Monad · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/milbon_/status/2100770918809374779">Jev AI Executes Real Trades Every 0.3 Seconds on Monad</a></h3>
+<p>Jev AI makes ultra-fast buy-or-sell judgments, placing orders every 300ms on the high-speed Monad chain, with inference costs lower than gas fees at an estimated $0.2 per hour.</p>
+<p><strong>中文摘要：</strong>Jev AI 仅对买卖做出超高速判断，每 300 毫秒在 Monad 高速链上下一单，推理成本低于 gas 费，估计每小时约 0.2 美元。</p>
+<p><strong>みるぼん@スモビジ</strong> · @milbon_ · 2026-09-18</p>
+<p>💬 3 &nbsp; 🔁 14 &nbsp; ♡ 185 &nbsp; 📊 39K</p>
+<p><a href="https://x.com/milbon_/status/2100770918809374779">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/abolbuild/status/2100523868913807410"><img src="https://pbs.twimg.com/amplify_video_thumb/2100523731923722240/img/b6b47us-K3FIDHDC.jpg" alt="Gave Jev $10,000 to Trade · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abolbuild/status/2100523868913807410">Gave Jev $10,000 to Trade</a></h3>
+<p>The author shares giving Jev $10,000 and letting it trade, showing Jev&#39;s real-world use in financial trading.</p>
+<p><strong>中文摘要：</strong>作者分享给 Jev 一万美元并让它进行交易的经历，展示 Jev 在金融交易场景中的实际应用。</p>
+<p><strong>Abol</strong> · @abolbuild · 2026-09-17</p>
+<p>💬 109 &nbsp; 🔁 86 &nbsp; ♡ 1.6K &nbsp; 📊 784K</p>
+<p><a href="https://x.com/abolbuild/status/2100523868913807410">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/oragnes/status/2100400215245377895"><img src="https://pbs.twimg.com/amplify_video_thumb/2100399356381896704/img/hCqqiZJebNGg9YRg.jpg" alt="JEV Used to Build an Automated Trading Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oragnes/status/2100400215245377895">JEV Used to Build an Automated Trading Bot</a></h3>
+<p>The post says that after JEV went viral in AI circles, a Monad engineer already built an automated trading bot with it, reading MON/USDC prices in real time, seen as a starting point for automated intelligent trading.</p>
+<p><strong>中文摘要：</strong>帖子称 JEV 在 AI 圈走红后，已有 Monad 工程师用它构建自动交易机器人，实时读取 MON/USDC 价格，被视为自动化智能交易的起点。</p>
+<p><strong>比特币橙子Trader</strong> · @oragnes · 2026-09-17</p>
+<p>💬 118 &nbsp; 🔁 286 &nbsp; ♡ 3.1K &nbsp; 📊 721K</p>
+<p><a href="https://x.com/oragnes/status/2100400215245377895">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/EGafni/status/2100386969092252038"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Suggestion to Donate Profits from Jev Trading to Charity · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/EGafni/status/2100386969092252038">Suggestion to Donate Profits from Jev Trading to Charity</a></h3>
+<p>Erik Spock Gafni suggests that those who make a lot of profit from Jev trading donate some of their profits to charity.</p>
+<p><strong>中文摘要：</strong>Erik Spock Gafni 发帖建议从 Jev 交易中获利丰厚的人将部分利润捐给慈善机构。</p>
+<p><strong>Erik Spock Gafni</strong> · @EGafni · 2026-09-17</p>
+<p>💬 36 &nbsp; 🔁 19 &nbsp; ♡ 1.4K &nbsp; 📊 301K</p>
+<p><a href="https://x.com/EGafni/status/2100386969092252038">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abolbuild/status/2100690370912805049"><img src="https://pbs.twimg.com/amplify_video_thumb/2100688652665806848/img/1aEeVftB38YD0AWr.jpg" alt="Jev Given $10,000 to Trade BTC with Multi-Dimensional Market Data · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abolbuild/status/2100690370912805049">Jev Given $10,000 to Trade BTC with Multi-Dimensional Market Data</a></h3>
+<p>Abol gave Jev $10,000 to trade BTC, providing all the information a trader would look at: market data, derivatives, macro, on-chain data, news and sentiment, over 30 days.</p>
+<p><strong>中文摘要：</strong>Abol 给 Jev 1 万美元并让它交易 BTC，提供市场数据、衍生品、宏观、链上数据、新闻和情绪等交易者关注的全部信息，为期 30 天。</p>
+<p><strong>Abol</strong> · @abolbuild · 2026-09-17</p>
+<p>💬 43 &nbsp; 🔁 19 &nbsp; ♡ 384 &nbsp; 📊 160K</p>
+<p><a href="https://x.com/abolbuild/status/2100690370912805049">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BrendanPlayford/status/2100485748533440990"><img src="https://pbs.twimg.com/amplify_video_thumb/2100483712672743424/img/nAxbyfjlXhe5xa3F.jpg" alt="Automating Technical Analysis with Jev for Crypto and Stocks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BrendanPlayford/status/2100485748533440990">Automating Technical Analysis with Jev for Crypto and Stocks</a></h3>
+<p>The author shares using Jev to automate technical analysis, forecasting price movements with an autoregressive model and making decisions over a feature space including time-series data and price forecasts to gain an edge in crypto and stock markets.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 自动化技术分析，通过自回归模型预测价格走势，并在包含时间序列和价格预测的特征空间上做决策，以在加密货币和股票市场获得优势。</p>
+<p><strong>Brendan Playford</strong> · @BrendanPlayford · 2026-09-17</p>
+<p>💬 70 &nbsp; 🔁 33 &nbsp; ♡ 464 &nbsp; 📊 125K</p>
+<p><a href="https://x.com/BrendanPlayford/status/2100485748533440990">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_trou3/status/2100481938016669917"><img src="https://pbs.twimg.com/amplify_video_thumb/2100479030940340224/img/kSmJhdWmRJjmtO97.jpg" alt="Jev Reads Trading Signals and Makes Intelligent Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_trou3/status/2100481938016669917">Jev Reads Trading Signals and Makes Intelligent Decisions</a></h3>
+<p>An example shows TypeSafe AI&#39;s Jev reading dozens of structured trading signals and producing intelligent decisions, making systems come alive.</p>
+<p><strong>中文摘要：</strong>示例展示 TypeSafe AI 的 Jev 能读取数十条结构化交易信号并给出智能决策，让系统真正活起来。</p>
+<p><strong>trou</strong> · @_trou3 · 2026-09-17</p>
+<p>💬 29 &nbsp; 🔁 53 &nbsp; ♡ 981 &nbsp; 📊 120K</p>
+<p><a href="https://x.com/_trou3/status/2100481938016669917">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/marcelpociot/status/2100595293402083448"><img src="https://pbs.twimg.com/amplify_video_thumb/2100595082734743552/img/sUkQL6iJL_GYvM96.jpg" alt="Running Paper Trades with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/marcelpociot/status/2100595293402083448">Running Paper Trades with Jev</a></h3>
+<p>Marcel Pociot uses TypeSafe AI&#39;s Jev to run paper trade decisions via Alpaca, testing if $10,000 can turn a profit.</p>
+<p><strong>中文摘要：</strong>Marcel Pociot 用 TypeSafe AI 的 Jev 通过 Alpaca 进行纸面交易决策，测试 1 万美元能否盈利。</p>
+<p><strong>Marcel Pociot 🧪</strong> · @marcelpociot · 2026-09-17</p>
+<p>💬 22 &nbsp; 🔁 15 &nbsp; ♡ 452 &nbsp; 📊 104K</p>
+<p><a href="https://x.com/marcelpociot/status/2100595293402083448">在 X 查看原帖</a> · <a href="https://t.co/28WVX50sv3">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BrendanPlayford/status/2100614031845539975"><img src="https://pbs.twimg.com/amplify_video_thumb/2100483712672743424/img/nAxbyfjlXhe5xa3F.jpg" alt="Early Paper Results for a Trading Engine Using Jev and a Fine-Tuned Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BrendanPlayford/status/2100614031845539975">Early Paper Results for a Trading Engine Using Jev and a Fine-Tuned Model</a></h3>
+<p>Shares early paper trading results for a trading engine built with Jev and a fine-tuned model: 375 completed paper trades, 41.1% win rate, 1.5:1 reward-to-risk, +63 units of risk-adjusted return, and a 1.38 profit factor.</p>
+<p><strong>中文摘要：</strong>分享使用 Jev 与微调模型构建的交易引擎的早期纸面交易结果：375 笔已完成纸面交易、41.1% 胜率、1.5:1 风险回报比、+63 单位风险调整回报、1.38 利润因子。</p>
+<p><strong>Brendan Playford</strong> · @BrendanPlayford · 2026-09-17</p>
+<p>💬 23 &nbsp; 🔁 25 &nbsp; ♡ 459 &nbsp; 📊 87K</p>
+<p><a href="https://x.com/BrendanPlayford/status/2100614031845539975">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nutlope/status/2100614659690713543"><img src="https://pbs.twimg.com/amplify_video_thumb/2100608348219478016/img/23vFEVMegwLrMa8g.jpg" alt="Jev + Kimi K3 for Fraud Detection Pipeline · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nutlope/status/2100614659690713543">Jev + Kimi K3 for Fraud Detection Pipeline</a></h3>
+<p>Jev classified 100 emails in 1.42 seconds, uncertain cases routed to Kimi K3, full pipeline achieved 96/100 accuracy for ~$0.07.</p>
+<p><strong>中文摘要：</strong>Jev 在 1.42 秒内分类 100 封邮件，不确定案例交由 Kimi K3 处理，完整流水线以约 0.07 美元成本达到 96/100 准确率。</p>
+<p><strong>Hassan</strong> · @nutlope · 2026-09-17</p>
+<p>💬 59 &nbsp; 🔁 64 &nbsp; ♡ 861 &nbsp; 📊 57K</p>
+<p><a href="https://x.com/nutlope/status/2100614659690713543">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/oragnes/status/2100484936679764250"><img src="https://pbs.twimg.com/amplify_video_thumb/2100399356381896704/img/hCqqiZJebNGg9YRg.jpg" alt="Jev Trader Demo Open-Sourced and Live · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oragnes/status/2100484936679764250">Jev Trader Demo Open-Sourced and Live</a></h3>
+<p>Shares the Jev Trader demo by @jarrodwatts, now open-sourced, with repo and live experience link.</p>
+<p><strong>中文摘要：</strong>分享由 @jarrodwatts 制作的 Jev Trader 交易演示，已开源，可直接访问仓库和体验链接。</p>
+<p><strong>比特币橙子Trader</strong> · @oragnes · 2026-09-17</p>
+<p>💬 22 &nbsp; 🔁 29 &nbsp; ♡ 177 &nbsp; 📊 35K</p>
+<p><a href="https://x.com/oragnes/status/2100484936679764250">在 X 查看原帖</a> · <a href="https://t.co/rB24nDZ9Ic">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ErickSky/status/2100652057229185294"><img src="https://pbs.twimg.com/amplify_video_thumb/2100633400717565952/img/KlytLNSLCQA-yY2E.jpg" alt="Jev&#39;s Use Cases in Trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ErickSky/status/2100652057229185294">Jev&#39;s Use Cases in Trading</a></h3>
+<p>The author says they are beginning to understand Jev&#39;s use cases and sees major potential in trading.</p>
+<p><strong>中文摘要：</strong>作者表示逐渐理解 Jev 的用例，认为其在交易领域可能带来巨大机会。</p>
+<p><strong>Erick</strong> · @ErickSky · 2026-09-17</p>
+<p>💬 25 &nbsp; 🔁 14 &nbsp; ♡ 212 &nbsp; 📊 17K</p>
+<p><a href="https://x.com/ErickSky/status/2100652057229185294">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jarrodwatts/status/2100356151468585346"><img src="https://pbs.twimg.com/amplify_video_thumb/2100355999064379392/img/BiAbeDjN57avf2VK.jpg" alt="Building an on-chain trading bot with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jarrodwatts/status/2100356151468585346">Building an on-chain trading bot with Jev</a></h3>
+<p>A developer uses Jev to decide buy or sell and executes real trades on Kuru&#39;s on-chain order book via Monad every 300ms block.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 判断买入或卖出，并借助 Monad 在 Kuru 链上订单簿每 300 毫秒区块执行真实交易。</p>
+<p><strong>Jarrod Watts</strong> · @jarrodwatts · 2026-09-16</p>
+<p>💬 291 &nbsp; 🔁 361 &nbsp; ♡ 5.0K &nbsp; 📊 1.2M</p>
+<p><a href="https://x.com/jarrodwatts/status/2100356151468585346">在 X 查看原帖</a> · <a href="https://t.co/vwl2SUu4jm">原文链接</a></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>

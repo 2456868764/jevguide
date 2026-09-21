@@ -1,0 +1,60 @@
+# 医疗
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 4 | 4 | 0 | 92K |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/montyspeaks/status/2101539726842863774"><img src="https://pbs.twimg.com/amplify_video_thumb/2101535572527374336/img/aIKrKnMpc7r1Xhqd.jpg" alt="Product Manager Tests TypeSafe Jev for Healthcare Workflows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/montyspeaks/status/2101539726842863774">Product Manager Tests TypeSafe Jev for Healthcare Workflows</a></h3>
+<p>A product manager shares their experience test-driving TypeSafe Jev to tackle classification- and routing-heavy healthcare workflows.</p>
+<p><strong>中文摘要：</strong>一位产品经理分享试用 TypeSafe Jev 的体验，探索用其解决医疗工作流中分类和路由密集型问题。</p>
+<p><strong>Maverick</strong> · @montyspeaks · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 198</p>
+<p><a href="https://x.com/montyspeaks/status/2101539726842863774">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/roiyaruRIZ/status/2101130711067431018"><img src="https://pbs.twimg.com/amplify_video_thumb/2101125501234630656/img/pxMddfrpMLTvBhaR.jpg" alt="Vital Deterioration Simulator Using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/roiyaruRIZ/status/2101130711067431018">Vital Deterioration Simulator Using Jev</a></h3>
+<p>The author proposes using Jev&#39;s probability calibration to build a vital deterioration simulator for critically ill patients, aiming to improve on mechanical alarms.</p>
+<p><strong>中文摘要：</strong>作者提出利用 Jev 的概率校准特性，为危重病人构建生命体征恶化模拟器，以改善机械报警的不足。</p>
+<p><strong>RIZ@VIBE CODER</strong> · @roiyaruRIZ · 2026-09-19</p>
+<p>💬 8 &nbsp; 🔁 178 &nbsp; ♡ 560 &nbsp; 📊 92K</p>
+<p><a href="https://x.com/roiyaruRIZ/status/2101130711067431018">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thekitze/status/2100857642566758849"><img src="https://pbs.twimg.com/amplify_video_thumb/2100857416984477696/img/RAMEV-YddA05BR1X.jpg" alt="Building an Instant Calorie Tracking App with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thekitze/status/2100857642566758849">Building an Instant Calorie Tracking App with Jev</a></h3>
+<p>A developer shares building a calorie tracking app with Jev, highlighting its instant experience.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Jev 构建卡路里追踪应用，强调其即时响应体验。</p>
+<p><strong>kitze 🛠️ tinkerer.club</strong> · @thekitze · 2026-09-18</p>
+<p>💬 56 &nbsp; 🔁 14 &nbsp; ♡ 786 &nbsp; 📊 71K</p>
+<p><a href="https://x.com/thekitze/status/2100857642566758849">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rheum_ai/status/2100454043361722798"><img src="https://pbs.twimg.com/amplify_video_thumb/2100452479016321024/img/nAyq81QFzA6UzPqM.jpg" alt="Jev Assists Real-Time Differential Diagnosis in Live Clinical Consultations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rheum_ai/status/2100454043361722798">Jev Assists Real-Time Differential Diagnosis in Live Clinical Consultations</a></h3>
+<p>During live clinical consultations, an ambient scribe periodically feeds transcripts to Jev, which traverses a medical ontology to classify symptoms, update the differential diagnosis, suggest treatments, and flag red flags in real time.</p>
+<p><strong>中文摘要：</strong>在实时临床问诊中，环境记录工具将转录文本周期性提供给 Jev，Jev 遍历医学本体，实时分类症状、更新鉴别诊断、建议治疗方案并识别危险信号。</p>
+<p><strong>Chris McMaster</strong> · @rheum_ai · 2026-09-17</p>
+<p>💬 27 &nbsp; 🔁 39 &nbsp; ♡ 429 &nbsp; 📊 56K</p>
+<p><a href="https://x.com/rheum_ai/status/2100454043361722798">在 X 查看原帖</a></p>
+</td>
+</tr>
+</table>

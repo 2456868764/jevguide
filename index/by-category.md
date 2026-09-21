@@ -1,0 +1,26 @@
+# Jev Showcases by Category
+
+- [Developer tools](../categories/developer-tools.md) — 106
+- [How it works](../categories/how-it-works.md) — 98
+- [Access updates](../categories/access-updates.md) — 97
+- [Gaming](../categories/gaming.md) — 73
+- [Launch news](../categories/launch-news.md) — 61
+- [Developer resources](../categories/developer-resources.md) — 59
+- [Agents](../categories/agents.md) — 53
+- [Community builds](../categories/community-builds.md) — 49
+- [Finance](../categories/finance.md) — 41
+- [Marketing](../categories/marketing.md) — 36
+- [Workflow automation](../categories/workflow-automation.md) — 31
+- [Knowledge & search](../categories/knowledge-search.md) — 24
+- [Content creation](../categories/content-creation.md) — 22
+- [Data analytics](../categories/data-analytics.md) — 20
+- [Robotics](../categories/robotics.md) — 12
+- [Customer support](../categories/customer-support.md) — 10
+- [Productivity](../categories/productivity.md) — 7
+- [Scientific research](../categories/scientific-research.md) — 6
+- [Cybersecurity](../categories/cybersecurity.md) — 6
+- [Software development](../categories/software-development.md) — 6
+- [Business operations](../categories/business-operations.md) — 5
+- [E-commerce](../categories/e-commerce.md) — 5
+- [Healthcare](../categories/healthcare.md) — 4
+- [Education](../categories/education.md) — 3

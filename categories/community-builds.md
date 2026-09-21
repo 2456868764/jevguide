@@ -1,0 +1,602 @@
+# 社区实践
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 49 | 20 | 30 | 3.0M |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mattdesl/status/2101710179444142298"><img src="https://pbs.twimg.com/amplify_video_thumb/2101710085718179840/img/8w6VL4P5ZYjyN4v1.jpg" alt="Asking Jev: Is It Kiki or Bouba · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mattdesl/status/2101710179444142298">Asking Jev: Is It Kiki or Bouba</a></h3>
+<p>Matt DesLauriers posts asking Jev about the kiki/bouba sound symbolism test.</p>
+<p><strong>中文摘要：</strong>Matt DesLauriers 发帖询问 Jev 对 kiki/bouba 语音象征测试的回答。</p>
+<p><strong>Matt DesLauriers</strong> · @mattdesl · 2026-09-20</p>
+<p>💬 4 &nbsp; 🔁 23 &nbsp; ♡ 555 &nbsp; 📊 34K</p>
+<p><a href="https://x.com/mattdesl/status/2101710179444142298">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dani_avila7/status/2101715724821463538"><img src="https://pbs.twimg.com/amplify_video_thumb/2101714593181556736/img/8as__FCbna0gzaI_.jpg" alt="Jev in Action: Community Examples and Integrations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dani_avila7/status/2101715724821463538">Jev in Action: Community Examples and Integrations</a></h3>
+<p>This repo showcases four Jev examples: email spam classifier, NVIDIA buy-or-sell, agent tool-call guardrail, and inbox triage, illustrating how the community integrates Jev into various workflows.</p>
+<p><strong>中文摘要：</strong>该仓库展示四个 Jev 应用示例：邮件垃圾邮件分类、NVIDIA 买卖判断、智能体工具调用护栏和收件箱分诊，帮助理解社区如何将 Jev 集成到不同工作流。</p>
+<p><strong>Daniel San</strong> · @dani_avila7 · 2026-09-20</p>
+<p>💬 7 &nbsp; 🔁 7 &nbsp; ♡ 91 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/dani_avila7/status/2101715724821463538">在 X 查看原帖</a> · <a href="https://t.co/5UF5rVhC83">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ibocodes/status/2101612450282111047"><img src="https://pbs.twimg.com/media/HSptX08aMAAXN2E?format=jpg&amp;name=medium" alt="Jev access holder asks about real daily use cases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ibocodes/status/2101612450282111047">Jev access holder asks about real daily use cases</a></h3>
+<p>A Jev access holder says they can&#39;t think of a daily use and asks the community how they use it in real work, not demos.</p>
+<p><strong>中文摘要：</strong>一位 Jev 访问权限持有者表示想不到日常用途，询问社区在真实工作中如何使用，而非演示场景。</p>
+<p><strong>ibo</strong> · @ibocodes · 2026-09-20</p>
+<p>💬 37 &nbsp; 🔁 3 &nbsp; ♡ 38 &nbsp; 📊 4.5K</p>
+<p><a href="https://x.com/ibocodes/status/2101612450282111047">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/omarsar0/status/2101696753749655863"><img src="https://pbs.twimg.com/amplify_video_thumb/2101692387160358912/img/2uCGZ2BKwoQEFC1k.jpg" alt="Awesome Jev Collection of Use Cases and Demos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/omarsar0/status/2101696753749655863">Awesome Jev Collection of Use Cases and Demos</a></h3>
+<p>An automatically updating collection of Jev use cases and demos pulled from trending X posts, curated by Jev itself.</p>
+<p><strong>中文摘要：</strong>一个自动更新的 Jev 用例与演示合集，内容来自 X 的热门帖子，并由 Jev 自身进行策展。</p>
+<p><strong>elvis</strong> · @omarsar0 · 2026-09-20</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 22 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/omarsar0/status/2101696753749655863">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/riba2534/status/2101565543686017270"><img src="https://pbs.twimg.com/media/HSpCmTrawAAr8SY?format=jpg&amp;name=medium" alt="Testing JEV&#39;s capabilities: stay rational, don&#39;t treat it as an oracle · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/riba2534/status/2101565543686017270">Testing JEV&#39;s capabilities: stay rational, don&#39;t treat it as an oracle</a></h3>
+<p>The author tested JEV&#39;s capabilities and reminds users to stay rational and not rely on JEV as an oracle.</p>
+<p><strong>中文摘要：</strong>作者测试了 JEV 的能力，并提醒用户保持理性，不要将 JEV 当作神谕来依赖。</p>
+<p><strong>riba2534</strong> · @riba2534 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/riba2534/status/2101565543686017270">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pdhaku0/status/2101516251101331815"><img src="https://pbs.twimg.com/media/HSoVieVaMAAhULt?format=jpg&amp;name=medium" alt="User Shares TypeSafe AI Jev Experience · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pdhaku0/status/2101516251101331815">User Shares TypeSafe AI Jev Experience</a></h3>
+<p>A tweet thanking TypeSafe AI with the #Jev hashtag, indicating Jev-related functionality is working.</p>
+<p><strong>中文摘要：</strong>一条推文感谢 TypeSafe AI，并带有 #Jev 标签，显示 Jev 相关功能正在运行。</p>
+<p><strong>Haku @Product Design</strong> · @pdhaku0 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 421</p>
+<p><a href="https://x.com/pdhaku0/status/2101516251101331815">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ustasoglu/status/2101798466598965511"><img src="https://pbs.twimg.com/media/HSsWg4IW8AAP4Ca?format=jpg&amp;name=medium" alt="TypeSafe Jev Turkish test and jev-mailroom project · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ustasoglu/status/2101798466598965511">TypeSafe Jev Turkish test and jev-mailroom project</a></h3>
+<p>The author shares TypeSafe Jev&#39;s performance in Turkish, noting it works well with clear questions and criteria, and releases a small experiment project jev-mailroom.</p>
+<p><strong>中文摘要：</strong>作者分享 TypeSafe Jev 在土耳其语中的表现，认为在问题和标准明确时效果不错，并公开了一个小实验项目 jev-mailroom。</p>
+<p><strong>Selçuk Usta</strong> · @ustasoglu · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 292</p>
+<p><a href="https://x.com/ustasoglu/status/2101798466598965511">在 X 查看原帖</a> · <a href="https://t.co/viiVAQ0lbN">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xpeas/status/2101640315363049546"><img src="https://pbs.twimg.com/media/HSqGsoibAAAVkP_?format=jpg&amp;name=medium" alt="Jev Turns &quot;What Does She Really Mean&quot; Into a Computable Problem · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xpeas/status/2101640315363049546">Jev Turns &quot;What Does She Really Mean&quot; Into a Computable Problem</a></h3>
+<p>The post says Jev turns &quot;what does she really mean&quot; into a computable problem, stressing that Jev is not a model but a lifestyle.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 将「她到底什么意思」变成可计算问题，并强调 Jev 不是模型而是一种生活方式。</p>
+<p><strong>虚拟豆</strong> · @0xpeas · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 252</p>
+<p><a href="https://x.com/0xpeas/status/2101640315363049546">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/wata_tsumu/status/2101687818972282889"><img src="https://pbs.twimg.com/amplify_video_thumb/2101687799217025024/img/gqVUPyLq3tBYKF1s.jpg" alt="Jev Hackathon: Turning Daily Tasks into Gamified Quests · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/wata_tsumu/status/2101687818972282889">Jev Hackathon: Turning Daily Tasks into Gamified Quests</a></h3>
+<p>The author joined the Jev Hackathon, using Jev to organize daily tasks and convert them into quests with rewards upon completion, aiming to turn &#39;have to do&#39; into &#39;want to do&#39;.</p>
+<p><strong>中文摘要：</strong>作者参加Jev黑客松，利用Jev将日常任务整理并转换为「任务」，完成后可获得奖励，旨在把「必须做」变成「想要做」。</p>
+<p><strong>わたつむ（株）</strong> · @wata_tsumu · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 176</p>
+<p><a href="https://x.com/wata_tsumu/status/2101687818972282889">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/suidouble/status/2101698132761280711"><img src="https://pbs.twimg.com/amplify_video_thumb/2101697498867793921/img/284RQCOUzSln-9cr.jpg" alt="Open-Sourced Let Jev Speak: Getting TypeSafe&#39;s Jev to Talk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/suidouble/status/2101698132761280711">Open-Sourced Let Jev Speak: Getting TypeSafe&#39;s Jev to Talk</a></h3>
+<p>The author open-sourced Let Jev Speak, an experiment to get TypeSafe&#39;s Jev—known as &quot;the language model that won&#39;t talk&quot;—to actually talk, with a Telegram bot available to try.</p>
+<p><strong>中文摘要：</strong>作者开源了实验项目 Let Jev Speak，尝试让 TypeSafe 的 Jev（被称为“不会说话的语言模型”）开口说话，并提供 Telegram 机器人供试用。</p>
+<p><strong>double</strong> · @suidouble · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 142</p>
+<p><a href="https://x.com/suidouble/status/2101698132761280711">在 X 查看原帖</a> · <a href="https://t.co/ZdtGGhF159">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/katai5plate/status/2101737200933392734"><img src="https://pbs.twimg.com/media/HSresDRbYAAXkBI?format=png&amp;name=medium" alt="Jev pain points: frontend prompt leakage and long Questions overhead · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/katai5plate/status/2101737200933392734">Jev pain points: frontend prompt leakage and long Questions overhead</a></h3>
+<p>The author raised feedback on the official Discord: building a frontend-only app with Jev leaks prompts via DevTools, and longer Questions with more requests cause growing overhead.</p>
+<p><strong>中文摘要：</strong>作者在官方 Discord 提出反馈：用 Jev 做纯前端应用时提示词会从 DevTools 泄露，且 Questions 越长、请求越多损耗越大。</p>
+<p><strong>HADHAD＠had2apps</strong> · @katai5plate · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 66</p>
+<p><a href="https://x.com/katai5plate/status/2101737200933392734">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/uist1idrju3i/status/2101496641777979853"><img src="https://pbs.twimg.com/amplify_video_thumb/2101496557296308224/img/U3P2w5r-6HbDUcaI.jpg" alt="VibeCoding a &#39;Baked Mochi Name Judge&#39; with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/uist1idrju3i/status/2101496641777979853">VibeCoding a &#39;Baked Mochi Name Judge&#39; with Jev</a></h3>
+<p>The author shares a VibeCoding project using Jev to build a &#39;baked mochi name judge&#39;, with a GitHub repo link.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 进行 VibeCoding，实现「烤年糕名称判定」功能，并附上 GitHub 仓库链接。</p>
+<p><strong>Y.Yamashiro</strong> · @uist1idrju3i · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 59</p>
+<p><a href="https://x.com/uist1idrju3i/status/2101496641777979853">在 X 查看原帖</a> · <a href="https://t.co/pHP5PrWRCT">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/uist1idrju3i/status/2101535487899103437"><img src="https://pbs.twimg.com/amplify_video_thumb/2101535460732649472/img/QCphyvXb_00W-ZBS.jpg" alt="Using Jev to Judge Whether You Can Live in Alpha Complex · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/uist1idrju3i/status/2101535487899103437">Using Jev to Judge Whether You Can Live in Alpha Complex</a></h3>
+<p>The author shares an experiment using Jev to judge whether one can live in Alpha Complex, with a link to the study-jev repository.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 君判定能否在 Alpha Complex 生活的实验，并附上 study-jev 仓库链接。</p>
+<p><strong>Y.Yamashiro</strong> · @uist1idrju3i · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 57</p>
+<p><a href="https://x.com/uist1idrju3i/status/2101535487899103437">在 X 查看原帖</a> · <a href="https://t.co/5VDJG3fFHC">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/elberacasa/status/2101640096579571804"><img src="https://pbs.twimg.com/media/HSqGhzMWEAAOb1j?format=jpg&amp;name=medium" alt="Experimenting with Jev: Usage Patterns · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/elberacasa/status/2101640096579571804">Experimenting with Jev: Usage Patterns</a></h3>
+<p>The author shares an experiment with Jev and links to usage ideas at jevtown.com/patterns.</p>
+<p><strong>中文摘要：</strong>作者分享了对 Jev 的实验，并提供了 jevtown.com/patterns 上的使用思路。</p>
+<p><strong>elberacasa</strong> · @elberacasa · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/elberacasa/status/2101640096579571804">在 X 查看原帖</a> · <a href="https://t.co/5icm81TCEZ">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/frizadiga/status/2101556328003219734"><img src="https://pbs.twimg.com/media/HSo6VgdaEAA1MT4?format=jpg&amp;name=medium" alt="Community discusses Jev&#39;s System One naming · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/frizadiga/status/2101556328003219734">Community discusses Jev&#39;s System One naming</a></h3>
+<p>A user finds the &#39;system one&#39; naming familiar and terminologically accurate, referencing Daniel Kahneman.</p>
+<p><strong>中文摘要：</strong>用户认为 &#39;system one&#39; 的命名既熟悉又术语准确，并关联到 Daniel Kahneman。</p>
+<p><strong>friz()</strong> · @frizadiga · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/frizadiga/status/2101556328003219734">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arpankernel/status/2101800955197149382"><img src="https://pbs.twimg.com/media/HSsY0wGaUAA7REz?format=jpg&amp;name=medium" alt="Developer Tries Jev and Teases Demo Video · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arpankernel/status/2101800955197149382">Developer Tries Jev and Teases Demo Video</a></h3>
+<p>A developer says they tried Jev, praises the TypeSafe AI team, and teases a demo video coming tomorrow.</p>
+<p><strong>中文摘要：</strong>一位开发者表示试用了 Jev 并称赞 TypeSafe AI 团队，同时预告明天发布自己的演示视频。</p>
+<p><strong>Arpan</strong> · @arpankernel · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/arpankernel/status/2101800955197149382">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ctechdiva/status/2101756122986422331"><img src="https://pbs.twimg.com/tweet_video_thumb/HSrwDQPbUAE1Afd.jpg" alt="User builds a project with Jev in TypeSafe AI Playground · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ctechdiva/status/2101756122986422331">User builds a project with Jev in TypeSafe AI Playground</a></h3>
+<p>A user shares their experience building project zero with Jev in the TypeSafe AI Playground, losing it after a browser refresh but saving part of the story in journal notes.</p>
+<p><strong>中文摘要：</strong>一位用户分享在 TypeSafe AI Playground 用 Jev 构建项目零的经历，因浏览器标签过多刷新丢失，但日志笔记保留了部分内容。</p>
+<p><strong>Cheryl A</strong> · @ctechdiva · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/ctechdiva/status/2101756122986422331">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/istekharkhan46/status/2101759274649280792"><img src="https://pbs.twimg.com/media/HSry6Rla8AAnihi?format=jpg&amp;name=medium" alt="Community explores Jev experiments in RAG and semantic search · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/istekharkhan46/status/2101759274649280792">Community explores Jev experiments in RAG and semantic search</a></h3>
+<p>A user shares plans to integrate Jev into RAG pipelines with semantic search, scoring, and ranking, and asks the community what else they are experimenting with beyond browser use.</p>
+<p><strong>中文摘要：</strong>用户分享计划将 Jev 集成到 RAG 流程中，涉及语义搜索、评分和排序，并询问社区除浏览器使用外的其他实验方向。</p>
+<p><strong>Istekhar khan</strong> · @istekharkhan46 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/istekharkhan46/status/2101759274649280792">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/agehito_ai/status/2101799242083995715"><img src="https://pbs.twimg.com/amplify_video_thumb/2101797347575672832/img/Tu_qI6ZXzBXGqHPQ.jpg" alt="Hyakunin Isshu Jev Battle: Coding Control vs Jev, Both Perfect, Speed 3-0 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/agehito_ai/status/2101799242083995715">Hyakunin Isshu Jev Battle: Coding Control vs Jev, Both Perfect, Speed 3-0</a></h3>
+<p>The author pitted coding control against Jev on Hyakunin Isshu questions; both answered all correctly, with coding control winning 3-0 on speed. The author notes that problems with limited patterns and clear decision steps are better handled by code.</p>
+<p><strong>中文摘要：</strong>作者用百人一首题目让编码控制与 Jev 对战，双方全问正确，编码控制在速度上以 3:0 获胜；作者指出模式有限、判定步骤明确的问题更适合用代码解决。</p>
+<p><strong>AGEHITO｜AI業務実装支援</strong> · @agehito_ai · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/agehito_ai/status/2101799242083995715">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NaomiLGBT/status/2101797517273059681"><img src="https://pbs.twimg.com/amplify_video_thumb/2101315968995848193/img/g18PyXnkAkvWDATY.jpg" alt="Call for Jev + DeepgramAI Builds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NaomiLGBT/status/2101797517273059681">Call for Jev + DeepgramAI Builds</a></h3>
+<p>Naomi Carrigan says she is seeing many cool TypeSafe AI builds and invites developers using both Jev and DeepgramAI to tag her and share their work.</p>
+<p><strong>中文摘要：</strong>Naomi Carrigan 表示看到许多精彩的 TypeSafe AI 构建，并邀请同时使用 Jev 和 DeepgramAI 的开发者标记她以展示作品。</p>
+<p><strong>Naomi Carrigan</strong> · @NaomiLGBT · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/NaomiLGBT/status/2101797517273059681">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/7KiRura/status/2101639231601008702"><img src="https://pbs.twimg.com/media/HSqFnU4bAAECJ0-?format=png&amp;name=small" alt="Building a Senryu Detection and Scoring Bot with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/7KiRura/status/2101639231601008702">Building a Senryu Detection and Scoring Bot with Jev</a></h3>
+<p>The author shares a bot built with Jev that detects or composes senryu and scores them, with code hosted on Codeberg.</p>
+<p><strong>中文摘要：</strong>作者分享了一个用 Jev 构建的 BOT，用于检测或创作川柳并对其进行查定，代码托管在 Codeberg。</p>
+<p><strong>KiRura</strong> · @7KiRura · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/7KiRura/status/2101639231601008702">在 X 查看原帖</a> · <a href="https://t.co/OvvHjQ3O3s">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/amn_baluni/status/2101681378698142191"><img src="https://pbs.twimg.com/amplify_video_thumb/2100901106054500352/img/mqke4HCih6WEjXaV.jpg" alt="Community Quickly Wires Jev into Verification Loops and Agent Judges · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/amn_baluni/status/2101681378698142191">Community Quickly Wires Jev into Verification Loops and Agent Judges</a></h3>
+<p>Users observe the community rapidly wiring Jev into verification loops and agent judges, arguing the expensive model was never meant to vote on every small choice, revealing where the real pain was.</p>
+<p><strong>中文摘要：</strong>用户观察到社区迅速将 Jev 接入验证循环和智能体评判，认为昂贵模型本不该为每个小决策投票，这揭示了真实痛点所在。</p>
+<p><strong>Aman</strong> · @amn_baluni · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/amn_baluni/status/2101681378698142191">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pyran19/status/2101698718353514910"><img src="https://pbs.twimg.com/media/HSq7I1TaQAAM4XA?format=png&amp;name=small" alt="Developer builds a Jev-like AI page, claims it runs extremely fast · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pyran19/status/2101698718353514910">Developer builds a Jev-like AI page, claims it runs extremely fast</a></h3>
+<p>Inspired by the Jev discussion, the author built a Jev-like AI page and says it runs extremely fast, sharing a link to it.</p>
+<p><strong>中文摘要：</strong>作者因 Jev 话题而自制了一个类似 Jev 的 AI 页面，并称其运行速度极快，附有页面链接。</p>
+<p><strong>ぴらん</strong> · @pyran19 · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/pyran19/status/2101698718353514910">在 X 查看原帖</a> · <a href="https://t.co/Kxx6EzqyeV">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/S_Shoaf/status/2101696046095114683"><img src="https://pbs.twimg.com/amplify_video_thumb/2101230507384250368/img/I9HpffhzHtE4-jA3.jpg" alt="Community commentary on Jev hype and larping · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/S_Shoaf/status/2101696046095114683">Community commentary on Jev hype and larping</a></h3>
+<p>The author notes an abundance of fake hype around Jev and jokes that a flashy dashboard claiming Jev is doing something is enough to go viral.</p>
+<p><strong>中文摘要：</strong>作者指出当前围绕 Jev 存在大量虚假炒作，并调侃只要做一个花哨的仪表盘并声称 Jev 在做某事就能走红。</p>
+<p><strong>Steven Shoaf</strong> · @S_Shoaf · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/S_Shoaf/status/2101696046095114683">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/joseherreraweb3/status/2101800731632345225"><img src="https://pbs.twimg.com/media/HSsYh8MakAAyrqO?format=jpg&amp;name=medium" alt="Ask Jev: A Quick Way to Get Started with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joseherreraweb3/status/2101800731632345225">Ask Jev: A Quick Way to Get Started with JEV</a></h3>
+<p>A community member recommends Ask Jev as a quick way to get started with JEV.</p>
+<p><strong>中文摘要：</strong>社区成员推荐使用 Ask Jev 作为快速了解和使用 JEV 的入门途径。</p>
+<p><strong>Jose Herrera</strong> · @joseherreraweb3 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/joseherreraweb3/status/2101800731632345225">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yorick945/status/2101640277962494293"><img src="https://pbs.twimg.com/media/HSqFcz7boAApwoI?format=jpg&amp;name=900x900" alt="Using Jev for Automatic Model Routing: Idea and Cache Pitfalls · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yorick945/status/2101640277962494293">Using Jev for Automatic Model Routing: Idea and Cache Pitfalls</a></h3>
+<p>Someone proposed using Jev for automatic model routing—advanced models for complex tasks, cheaper ones for simple tasks—to cut costs, but switching models breaks cache hits and may raise costs instead.</p>
+<p><strong>中文摘要：</strong>有人设想用 Jev 实现模型自动路由，复杂任务走高级模型、简单任务走低级模型以降本增效，但切换模型会导致缓存无法命中，反而可能增加成本。</p>
+<p><strong>Yorick</strong> · @yorick945 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/yorick945/status/2101640277962494293">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fagnersales25/status/2101640496242168284"><img src="https://pbs.twimg.com/media/HSqG4VBXcAAQYJK?format=png&amp;name=900x900" alt="User asks about Jev being only 3 days old · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fagnersales25/status/2101640496242168284">User asks about Jev being only 3 days old</a></h3>
+<p>User @typesafeai asks for an explanation about Jev being only 3 days old.</p>
+<p><strong>中文摘要：</strong>用户@typesafeai询问Jev仅3天大，请求解释。</p>
+<p><strong>Fagner Sales</strong> · @fagnersales25 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/fagnersales25/status/2101640496242168284">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mrdodoxstudio/status/2101800570470449560"><img src="https://pbs.twimg.com/media/HSrFu9ya0AATJq0?format=png&amp;name=900x900" alt="Community asks about Jev: cheap, fast, less hallucination? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mrdodoxstudio/status/2101800570470449560">Community asks about Jev: cheap, fast, less hallucination?</a></h3>
+<p>A user asks if anyone has actually tried Jev, noting it is cheap, fast, and reportedly does not hallucinate like typical LLMs, seeking community experience.</p>
+<p><strong>中文摘要：</strong>用户发帖询问是否有人实际使用过 Jev，提到其便宜、快速且不像常规 LLM 那样产生幻觉，寻求社区经验分享。</p>
+<p><strong>Mr.Dodox</strong> · @mrdodoxstudio · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/mrdodoxstudio/status/2101800570470449560">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zuttoWEB/status/2101642511156650269"><img src="https://pbs.twimg.com/media/HSqGf1TbQAAt-nf?format=jpg&amp;name=medium" alt="Testing Jev for Access Log Filtering Judgments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zuttoWEB/status/2101642511156650269">Testing Jev for Access Log Filtering Judgments</a></h3>
+<p>The author plans to compare access log filtering rules built from personal experience with Jev&#39;s judgments to see how closely they align.</p>
+<p><strong>中文摘要：</strong>作者计划用自身经验构建的访问日志过滤规则，与 Jev 的判定结果进行对比，观察两者的一致程度。</p>
+<p><strong>ずっとWEB勉強中</strong> · @zuttoWEB · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/zuttoWEB/status/2101642511156650269">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/theo/status/2101123833281569272"><img src="https://pbs.twimg.com/amplify_video_thumb/2101123471912685568/img/_Z5RkSTEj9Dp0jzY.jpg" alt="Theo says Jev has replaced ChatGPT, Cursor, and more · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/theo/status/2101123833281569272">Theo says Jev has replaced ChatGPT, Cursor, and more</a></h3>
+<p>Theo posts that Jev has completely replaced ChatGPT, Codex, Cursor, Claude Code, and more, calling it the everything model.</p>
+<p><strong>中文摘要：</strong>Theo 发帖称 Jev 已完全取代 ChatGPT、Codex、Cursor、Claude Code 等工具，并称其为全能模型。</p>
+<p><strong>Theo - t3.gg</strong> · @theo · 2026-09-19</p>
+<p>💬 164 &nbsp; 🔁 86 &nbsp; ♡ 2.3K &nbsp; 📊 357K</p>
+<p><a href="https://x.com/theo/status/2101123833281569272">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Steve8708/status/2101117066845831478"><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt="Community criticism of fake Jev demos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Steve8708/status/2101117066845831478">Community criticism of fake Jev demos</a></h3>
+<p>Steve from Builder.io says Jev is awesome but urges people to stop posting fake demos.</p>
+<p><strong>中文摘要：</strong>Builder.io 的 Steve 表示 Jev 很棒，但呼吁停止发布虚假演示。</p>
+<p><strong>Steve (Builder.io)</strong> · @Steve8708 · 2026-09-19</p>
+<p>💬 204 &nbsp; 🔁 340 &nbsp; ♡ 3.0K &nbsp; 📊 265K</p>
+<p><a href="https://x.com/Steve8708/status/2101117066845831478">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/flowersslop/status/2101364695596765613"><img src="https://pbs.twimg.com/media/HSmL3KgWkAA0vHr?format=png&amp;name=medium" alt="Idea: Building a Neural Network with Jev Instances as Neurons · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/flowersslop/status/2101364695596765613">Idea: Building a Neural Network with Jev Instances as Neurons</a></h3>
+<p>A community member floats an experimental idea: could Jev instances serve as neurons in a neural network, sparking discussion of Jev as a compute unit.</p>
+<p><strong>中文摘要：</strong>社区成员提出一个实验性设想：能否用 Jev 实例充当神经元来搭建神经网络，引发对 Jev 作为计算单元的讨论。</p>
+<p><strong>Flowers ☾</strong> · @flowersslop · 2026-09-19</p>
+<p>💬 121 &nbsp; 🔁 103 &nbsp; ♡ 3.2K &nbsp; 📊 131K</p>
+<p><a href="https://x.com/flowersslop/status/2101364695596765613">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ErenAILab/status/2101344469656244621"><img src="https://pbs.twimg.com/amplify_video_thumb/2101343752866426880/img/5EManhsMkFgT_4QQ.jpg" alt="Video Explaining What You Can Do with Jev and Real Project Examples · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ErenAILab/status/2101344469656244621">Video Explaining What You Can Do with Jev and Real Project Examples</a></h3>
+<p>The author shot a video explaining what you can do with Jev, compiling developed projects they like, covering what Jev is and isn&#39;t, where it&#39;s useful, and how to use it in your own projects with real examples.</p>
+<p><strong>中文摘要：</strong>作者拍摄视频讲解 Jev 的用途，汇总了已开发且喜欢的项目，说明 Jev 是什么、不是什么、在哪些场景有用，以及如何在自己的项目中使用，并配有真实示例。</p>
+<p><strong>Mehmet Eren Dikmen</strong> · @ErenAILab · 2026-09-19</p>
+<p>💬 16 &nbsp; 🔁 45 &nbsp; ♡ 591 &nbsp; 📊 104K</p>
+<p><a href="https://x.com/ErenAILab/status/2101344469656244621">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MMMusol/status/2101220803006312647"><img src="https://pbs.twimg.com/media/HSkJILLaYAAvmvf?format=jpg&amp;name=medium" alt="9 Real-World Use Cases for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MMMusol/status/2101220803006312647">9 Real-World Use Cases for Jev</a></h3>
+<p>The author compiled the 9 most useful real-world use cases for Jev seen recently, along with representative demo posts, for reference.</p>
+<p><strong>中文摘要：</strong>作者整理了近期看到的 Jev 最有用的 9 个真实用例及代表性演示帖，供大家收藏参考。</p>
+<p><strong>Musolsol.𝟎𝐱𝐔</strong> · @MMMusol · 2026-09-19</p>
+<p>💬 47 &nbsp; 🔁 29 &nbsp; ♡ 214 &nbsp; 📊 52K</p>
+<p><a href="https://x.com/MMMusol/status/2101220803006312647">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/glaucia_lemos86/status/2101460480606744991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101293440843591680/img/3BtdoFBd-JH1wJc6.jpg" alt="Community discussion: JEV&#39;s progress won&#39;t be forgotten even if absorbed by big corporations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/glaucia_lemos86/status/2101460480606744991">Community discussion: JEV&#39;s progress won&#39;t be forgotten even if absorbed by big corporations</a></h3>
+<p>Glaucia Lemos says that even if JEV is eventually swallowed by big corporations, the progress @typesafeai made here won&#39;t be forgotten—it will be replicated, because it makes using AI even cheaper.</p>
+<p><strong>中文摘要：</strong>Glaucia Lemos 表示，即使 JEV 最终被大公司吞并，@typesafeai 在此取得的进展也不会被遗忘，反而会被复制，因为这让 AI 的使用成本更低。</p>
+<p><strong>Glaucia Lemos 🌊🤿🐠</strong> · @glaucia_lemos86 · 2026-09-19</p>
+<p>💬 5 &nbsp; 🔁 4 &nbsp; ♡ 302 &nbsp; 📊 22K</p>
+<p><a href="https://x.com/glaucia_lemos86/status/2101460480606744991">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LufzzLiz/status/2101312410011521342"><img src="https://pbs.twimg.com/amplify_video_thumb/2101310635476959232/img/hzqRtjIOw4redINE.jpg" alt="Website Collects Over 200 JEV Case Studies · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LufzzLiz/status/2101312410011521342">Website Collects Over 200 JEV Case Studies</a></h3>
+<p>The website has collected over 200 JEV case studies, with tutorials, reviews, and creative experiments being most common (54 cases, about 27%), followed by games and real-time control.</p>
+<p><strong>中文摘要：</strong>该网站已收集超过200个JEV案例研究，最常见的是教程、评测和创意实验（54例，约27%），其次是游戏和实时控制。</p>
+<p><strong>岚叔</strong> · @LufzzLiz · 2026-09-19</p>
+<p>💬 10 &nbsp; 🔁 38 &nbsp; ♡ 257 &nbsp; 📊 21K</p>
+<p><a href="https://x.com/LufzzLiz/status/2101312410011521342">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/el_pachocamacho/status/2101428772331266088"><img src="https://pbs.twimg.com/media/HSnGAUoWIAAzuQ3?format=jpg&amp;name=medium" alt="Developer Pushes TypeSafe Jev and Fable in Hardcore Build Day · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/el_pachocamacho/status/2101428772331266088">Developer Pushes TypeSafe Jev and Fable in Hardcore Build Day</a></h3>
+<p>Francisco Camacho shares a weekend Build Day combining Anthropic&#39;s Fable with TypeSafe&#39;s Jev, pushing the models to the limit while building for AIBuilderSchool and a stealth project.</p>
+<p><strong>中文摘要：</strong>Francisco Camacho 分享周末 Build Day，结合 Anthropic 的 Fable 与 TypeSafe 的 Jev，将模型推向极限，为 AIBuilderSchool 和隐身项目构建新东西。</p>
+<p><strong>Francisco Camacho</strong> · @el_pachocamacho · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 118</p>
+<p><a href="https://x.com/el_pachocamacho/status/2101428772331266088">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thefofoshow/status/2101276479812227529"><img src="https://pbs.twimg.com/media/HSk70YfWMAAE1cU?format=jpg&amp;name=medium" alt="Developer jokes about seeing Jev more than his wife · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thefofoshow/status/2101276479812227529">Developer jokes about seeing Jev more than his wife</a></h3>
+<p>A tweet tagged #Jev #AI #BuildInPublic #IndieHacker where a developer humorously says they spend more time with Jev than with their wife, reflecting frequent daily use of Jev.</p>
+<p><strong>中文摘要：</strong>一条带 #Jev #AI #BuildInPublic #IndieHacker 标签的推文，开发者以幽默口吻表示自己与 Jev 相处的时间已超过妻子，反映 Jev 在开发者日常中的高频使用。</p>
+<p><strong>FOFO</strong> · @thefofoshow · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 54</p>
+<p><a href="https://x.com/thefofoshow/status/2101276479812227529">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/IGZO14/status/2101287794736005319"><img src="https://pbs.twimg.com/media/HSlGHICaEAAkp65?format=jpg&amp;name=medium" alt="User passes Jev exam and plans to start action verification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/IGZO14/status/2101287794736005319">User passes Jev exam and plans to start action verification</a></h3>
+<p>A user shares joy at passing the Jev exam and says they will start with action verification.</p>
+<p><strong>中文摘要：</strong>一位用户分享通过 Jev 考试的喜悦，并表示将从行动认证开始使用。</p>
+<p><strong>みんす</strong> · @IGZO14 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/IGZO14/status/2101287794736005319">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/f12dev/status/2101386476496015474"><img src="https://pbs.twimg.com/media/HSmf3EmbYAAvFlo?format=jpg&amp;name=medium" alt="User tests Jev on character counting: ~62% confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/f12dev/status/2101386476496015474">User tests Jev on character counting: ~62% confidence</a></h3>
+<p>A user asks whether they are using Jev incorrectly after it counted the r&#39;s in strawberry with only ~62% confidence, and seeks input from other users.</p>
+<p><strong>中文摘要：</strong>用户询问 Jev 在统计 strawberry 中 r 的数量时仅给出约 62% 置信度，是否使用方式有误，并寻求其他使用者的经验。</p>
+<p><strong>Aman Singh Rajput</strong> · @f12dev · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/f12dev/status/2101386476496015474">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ChrisBorisK/status/2101224976997052424"><img src="https://pbs.twimg.com/media/HSkM-r2WgAAZvww?format=jpg&amp;name=medium" alt="Community member plans to extend Abraxarion with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChrisBorisK/status/2101224976997052424">Community member plans to extend Abraxarion with Jev</a></h3>
+<p>Christian Koller says he will add new features to Abraxarion this month using Jev and has challenges for Jev.</p>
+<p><strong>中文摘要：</strong>Christian Koller 表示本月将使用 Jev 为 Abraxarion 添加新功能，并向 Jev 提出挑战。</p>
+<p><strong>Christian Koller</strong> · @ChrisBorisK · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/ChrisBorisK/status/2101224976997052424">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Max_XuY/status/2101454801653645487"><img src="https://pbs.twimg.com/media/HSneAEYaUAAFm8d?format=jpg&amp;name=medium" alt="Jev Application Approved in an Hour, Community Discusses First Project Ideas · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Max_XuY/status/2101454801653645487">Jev Application Approved in an Hour, Community Discusses First Project Ideas</a></h3>
+<p>A user shares that their Jev application was approved within an hour and asks the community for suggestions on what project to build next.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 申请一小时即通过，并向社区征求下一步项目方向的建议。</p>
+<p><strong>Max_Xu</strong> · @Max_XuY · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/Max_XuY/status/2101454801653645487">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Bioinfo_Kimura/status/2100868868197712225"><img src="https://pbs.twimg.com/media/HSfJA1baoAAZXQw?format=jpg&amp;name=medium" alt="Developer builds a Jev-powered site to quickly judge if A is B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Bioinfo_Kimura/status/2100868868197712225">Developer builds a Jev-powered site to quickly judge if A is B</a></h3>
+<p>Developer kimura512 built a site using Jev that lets users freely input A and B to quickly judge whether A is B, such as &quot;Is a banana a snack?&quot;, with a link to try it.</p>
+<p><strong>中文摘要：</strong>开发者 kimura512 使用 Jev 构建了一个网站，可自由输入 A 和 B 来快速判断 A 是否为 B，例如“香蕉是零食吗？”，并附上访问链接。</p>
+<p><strong>kimura512@開発者</strong> · @Bioinfo_Kimura · 2026-09-18</p>
+<p>💬 58 &nbsp; 🔁 1.1K &nbsp; ♡ 1.9K &nbsp; 📊 3.0M</p>
+<p><a href="https://x.com/Bioinfo_Kimura/status/2100868868197712225">在 X 查看原帖</a> · <a href="https://t.co/crM7b8ehd5">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/moritzkremb/status/2100895894287839255"><img src="https://pbs.twimg.com/media/HSfhrsxbMAEdHxj?format=png&amp;name=900x900" alt="Coolest Jev Projects Found on X Today · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/moritzkremb/status/2100895894287839255">Coolest Jev Projects Found on X Today</a></h3>
+<p>The author curates a thread of the coolest Jev projects discovered on X that day.</p>
+<p><strong>中文摘要：</strong>作者在 X 上汇总了当天发现的最酷 Jev 项目，以线程形式分享。</p>
+<p><strong>Moritz Kremb</strong> · @moritzkremb · 2026-09-18</p>
+<p>💬 111 &nbsp; 🔁 297 &nbsp; ♡ 4.4K &nbsp; 📊 489K</p>
+<p><a href="https://x.com/moritzkremb/status/2100895894287839255">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nikunj/status/2101077053567332618"><img src="https://pbs.twimg.com/amplify_video_thumb/2101052434009497600/img/idkSVGd6P9Z8gDNq.jpg" alt="Jevable: A Community Site Showcasing Jev Demos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nikunj/status/2101077053567332618">Jevable: A Community Site Showcasing Jev Demos</a></h3>
+<p>Nikunj Kothari launched Jevable, a site that collects fun Jev (Typeface AI) demos from X, filterable by category, and lets users submit their own projects.</p>
+<p><strong>中文摘要：</strong>Nikunj Kothari 推出了 Jevable 网站，汇集 X 上 Jev（Typeface AI）的有趣演示，支持按类别筛选，并允许用户提交自己的项目。</p>
+<p><strong>Nikunj Kothari</strong> · @nikunj · 2026-09-18</p>
+<p>💬 39 &nbsp; 🔁 64 &nbsp; ♡ 687 &nbsp; 📊 158K</p>
+<p><a href="https://x.com/nikunj/status/2101077053567332618">在 X 查看原帖</a> · <a href="https://t.co/ZdBwWUCR2J">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xLogicrw/status/2100861912590205411"><img src="https://pbs.twimg.com/media/HSfCl4ZW4AAVrKz?format=jpg&amp;name=medium" alt="Building a Jev project navigation site with Codex, featuring 130+ projects · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xLogicrw/status/2100861912590205411">Building a Jev project navigation site with Codex, featuring 130+ projects</a></h3>
+<p>After organizing 14 Jev projects, the author used Codex to build a Jev navigation site, now live with 130+ projects.</p>
+<p><strong>中文摘要：</strong>作者整理14个Jev项目后，用Codex搭建了Jev导航站，现已收录130+项目并上线。</p>
+<p><strong>思维怪怪</strong> · @0xLogicrw · 2026-09-18</p>
+<p>💬 23 &nbsp; 🔁 42 &nbsp; ♡ 203 &nbsp; 📊 84K</p>
+<p><a href="https://x.com/0xLogicrw/status/2100861912590205411">在 X 查看原帖</a> · <a href="https://t.co/zqte7CDGZr">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/leojrr/status/2100470174130250127"><img src="https://pbs.twimg.com/amplify_video_thumb/2100467692117295104/img/01ZWSKAA75eSiFlc.jpg" alt="Rebuilding the X Algorithm with Jev: Simulating Post Virality · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/leojrr/status/2100470174130250127">Rebuilding the X Algorithm with Jev: Simulating Post Virality</a></h3>
+<p>A developer rebuilt the X algorithm with Jev, using real weights to simulate post virality and a global feed, claiming high accuracy.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 重建了 X 算法，使用真实权重模拟帖子传播，并包含全局信息流，声称准确度极高。</p>
+<p><strong>leo</strong> · @leojrr · 2026-09-17</p>
+<p>💬 119 &nbsp; 🔁 83 &nbsp; ♡ 1.2K &nbsp; 📊 171K</p>
+<p><a href="https://x.com/leojrr/status/2100470174130250127">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oviniciuslana/status/2100457622407168509"><img src="https://pbs.twimg.com/media/HSZSqLGXwAA1jSL?format=jpg&amp;name=large" alt="Swapping an agent&#39;s tool-calling reasoning with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/oviniciuslana/status/2100457622407168509">Swapping an agent&#39;s tool-calling reasoning with Jev</a></h3>
+<p>The author shares replacing an agent&#39;s tool-calling reasoning with Jev, using Fable, Astra, and Opus; early results show drastic savings with very close results, with a demo video promised.</p>
+<p><strong>中文摘要：</strong>作者分享将智能体的工具调用推理替换为 Jev，使用 Fable、Astra、Opus，初步结果显示在结果接近的情况下大幅节省成本，并预告将发布演示视频。</p>
+<p><strong>Vini Lana</strong> · @oviniciuslana · 2026-09-17</p>
+<p>💬 49 &nbsp; 🔁 65 &nbsp; ♡ 1.2K &nbsp; 📊 98K</p>
+<p><a href="https://x.com/oviniciuslana/status/2100457622407168509">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/justALEXWORTEGA/status/2100341039986798930"><img src="https://pbs.twimg.com/amplify_video_thumb/2100341016142184448/img/Sf7MZ_riNKRdci3S.jpg" alt="Training an MLP on Qwen 4B to Replicate Jev Behavior · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/justALEXWORTEGA/status/2100341039986798930">Training an MLP on Qwen 4B to Replicate Jev Behavior</a></h3>
+<p>The author shares an open-source project openjev that trains an MLP on qwen 4b to work like Jev, with a Hugging Face link.</p>
+<p><strong>中文摘要：</strong>作者分享在 qwen 4b 上训练 MLP 并像 Jev 一样工作的开源项目 openjev，附带 Hugging Face 链接。</p>
+<p><strong>alex nikolic</strong> · @justALEXWORTEGA · 2026-09-16</p>
+<p>💬 34 &nbsp; 🔁 55 &nbsp; ♡ 774 &nbsp; 📊 104K</p>
+<p><a href="https://x.com/justALEXWORTEGA/status/2100341039986798930">在 X 查看原帖</a> · <a href="https://t.co/nb7dtGcSqS">原文链接</a></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>

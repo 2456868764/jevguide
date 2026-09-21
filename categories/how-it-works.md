@@ -1,0 +1,1188 @@
+# 工作原理
+
+本分类收录的 Jev showcase。格式参考网站卡片布局：先展示原帖媒体，再展示分类标签、标题、摘要、作者、互动数据和来源链接。
+
+| 已收录 | 原帖视频 | 含图片 | 最高浏览 |
+|---:|---:|---:|---:|
+| 98 | 60 | 38 | 1.6M |
+
+## Showcase 卡片
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neural_avb/status/2101736546391244854"><img src="https://pbs.twimg.com/media/HSrdh16boAA1q9i?format=jpg&amp;name=medium" alt="JEV&#39;s Non-Deterministic Behavior Raises Doubts About &#39;No-Hallucination&#39; Claim · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/neural_avb/status/2101736546391244854">JEV&#39;s Non-Deterministic Behavior Raises Doubts About &#39;No-Hallucination&#39; Claim</a></h3>
+<p>A user notes that JEV produces inconsistent probabilities for identical prompts and that choice order drastically alters outputs, questioning its &#39;no-hallucination&#39; claim.</p>
+<p><strong>中文摘要：</strong>用户指出 JEV 在相同提示下输出概率不一致，且选项顺序会显著改变结果，质疑其“无幻觉”声明。</p>
+<p><strong>AVB</strong> · @neural_avb · 2026-09-20</p>
+<p>💬 96 &nbsp; 🔁 61 &nbsp; ♡ 1.1K &nbsp; 📊 93K</p>
+<p><a href="https://x.com/neural_avb/status/2101736546391244854">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2101774897122881658"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Jev Engineering: Separating Reasoning from Decision-Making for Speed and Cost · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2101774897122881658">Jev Engineering: Separating Reasoning from Decision-Making for Speed and Cost</a></h3>
+<p>Explains how Jev Engineering separates reasoning from decision-making, moves the expensive model out of every decision loop, and routes requests through the cheapest capable model, running up to 193x faster and 444x cheaper in tests.</p>
+<p><strong>中文摘要：</strong>介绍 Jev Engineering 将推理与决策分离，把昂贵模型移出每个决策循环，并将请求路由到最便宜的可用模型，测试中最高快 193 倍、便宜 444 倍。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-20</p>
+<p>💬 11 &nbsp; 🔁 6 &nbsp; ♡ 46 &nbsp; 📊 36K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2101774897122881658">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aleabitoreddit/status/2101797616812269694"><img src="https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg" alt="Exploring Jev&#39;s Potential Implications and Applications · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aleabitoreddit/status/2101797616812269694">Exploring Jev&#39;s Potential Implications and Applications</a></h3>
+<p>Community member discusses Jev&#39;s potential implications and applications, asking if anyone has experience with open source decision model variants.</p>
+<p><strong>中文摘要：</strong>社区成员讨论 Jev 的潜在影响和应用，并询问是否有人使用过开源决策模型变体。</p>
+<p><strong>Serenity</strong> · @aleabitoreddit · 2026-09-20</p>
+<p>💬 19 &nbsp; 🔁 4 &nbsp; ♡ 85 &nbsp; 📊 36K</p>
+<p><a href="https://x.com/aleabitoreddit/status/2101797616812269694">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zodchiii/status/2101634257240371335"><img src="https://pbs.twimg.com/media/HSqAtOpbUAEqmYW?format=jpg&amp;name=medium" alt="Jev: The ChatGPT Moment for AI Infrastructure · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zodchiii/status/2101634257240371335">Jev: The ChatGPT Moment for AI Infrastructure</a></h3>
+<p>A two-page working note explains what Jev is, how its three primitives work, and how to start using it, citing up to 193x faster and 444x cheaper in tests.</p>
+<p><strong>中文摘要：</strong>一份两页工作笔记介绍 Jev 是什么、三个原语如何工作以及如何开始使用，并称测试中速度提升最高 193 倍、成本降低 444 倍。</p>
+<p><strong>darkzodchi</strong> · @zodchiii · 2026-09-20</p>
+<p>💬 6 &nbsp; 🔁 19 &nbsp; ♡ 199 &nbsp; 📊 21K</p>
+<p><a href="https://x.com/zodchiii/status/2101634257240371335">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/okkshitij/status/2101704186769404160"><img src="https://pbs.twimg.com/amplify_video_thumb/2101659104338915328/img/Hepv6FAinZCMj5wS.jpg" alt="Jev as an instant classifier: no more model picking · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/okkshitij/status/2101704186769404160">Jev as an instant classifier: no more model picking</a></h3>
+<p>The post notes that Jev is an instant classifier, so users no longer need to pick the right model—it just happens.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 是即时分类器，用户无需再挑选合适的模型，分类自动完成。</p>
+<p><strong>Kshitij</strong> · @okkshitij · 2026-09-20</p>
+<p>💬 10 &nbsp; 🔁 7 &nbsp; ♡ 266 &nbsp; 📊 20K</p>
+<p><a href="https://x.com/okkshitij/status/2101704186769404160">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/threeaus/status/2101552895498097035"><img src="https://pbs.twimg.com/amplify_video_thumb/2101548074799955968/img/qFZR9gruCFhq3t29.jpg" alt="Jev Founder Diogo Almeida on Automation and the RLHF Detour · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/threeaus/status/2101552895498097035">Jev Founder Diogo Almeida on Automation and the RLHF Detour</a></h3>
+<p>A recommendation to watch Jev founder Diogo Almeida&#39;s speech, where he long predicted everything about Jev: it aimed at automation from the start, and he argues current LLMs took an epic detour via RLHF.</p>
+<p><strong>中文摘要：</strong>推荐观看 Jev 创始人 Diogo Almeida 的演讲，他早已预言了 Jev 的一切：Jev 从一开始就瞄准自动化，并认为当前 LLM 因 RLHF 走了史诗级弯路。</p>
+<p><strong>陆三金</strong> · @threeaus · 2026-09-20</p>
+<p>💬 6 &nbsp; 🔁 26 &nbsp; ♡ 143 &nbsp; 📊 15K</p>
+<p><a href="https://x.com/threeaus/status/2101552895498097035">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ledevultime/status/2101726907037552744"><img src="https://pbs.twimg.com/amplify_video_thumb/2101726518879879168/img/R4TD_lEyEES1R2an.jpg" alt="Simplified Explanation of Jev and Use Cases · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ledevultime/status/2101726907037552744">Simplified Explanation of Jev and Use Cases</a></h3>
+<p>A simplified explanation of Jev with use cases, noting that demo impact comes mainly from model speed rather than intelligence.</p>
+<p><strong>中文摘要：</strong>对 Jev 进行简化解释并给出用例，指出演示效果主要来自模型速度而非智能。</p>
+<p><strong>Le Dev ULTIME 🍜</strong> · @ledevultime · 2026-09-20</p>
+<p>💬 7 &nbsp; 🔁 6 &nbsp; ♡ 127 &nbsp; 📊 13K</p>
+<p><a href="https://x.com/ledevultime/status/2101726907037552744">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/deliprao/status/2101732243848732895"><img src="https://pbs.twimg.com/media/HSraVnyXQAATChS?format=jpg&amp;name=medium" alt="Comparing Jev&#39;s Noul/Score/Choice abstraction with autorubric criterion types · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/deliprao/status/2101732243848732895">Comparing Jev&#39;s Noul/Score/Choice abstraction with autorubric criterion types</a></h3>
+<p>The author investigated TypeSafe AI&#39;s Jev and found it uses an abstraction similar to autorubric, released 8 months earlier, noting their criterion types map 1:1 to Jev&#39;s Noul/Score/Choice.</p>
+<p><strong>中文摘要：</strong>作者调查 TypeSafe AI 的 Jev 后发现其抽象与 8 个月前发布的 autorubric 相似，并指出其标准类型与 Jev 的 Noul/Score/Choice 一一对应。</p>
+<p><strong>Delip Rao e/σ</strong> · @deliprao · 2026-09-20</p>
+<p>💬 9 &nbsp; 🔁 11 &nbsp; ♡ 124 &nbsp; 📊 7.4K</p>
+<p><a href="https://x.com/deliprao/status/2101732243848732895">在 X 查看原帖</a> · <a href="https://t.co/jFPhTz1AzG">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MatinSenPai/status/2101572697163489569"><img src="https://pbs.twimg.com/amplify_video_thumb/2101309969044054016/img/33Ud7QFDU8aMgYlW.jpg" alt="Main Difference Between LLMs and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MatinSenPai/status/2101572697163489569">Main Difference Between LLMs and Jev</a></h3>
+<p>The video explains that a typical LLM generates text or JSON token by token, with each token depending on the previous one, requiring multiple sequential stages, while Jev works differently.</p>
+<p><strong>中文摘要：</strong>视频解释 LLM 逐 token 生成文本或 JSON，每个 token 依赖前一个，需多阶段顺序处理，而 Jev 采用不同方式。</p>
+<p><strong>Matin SenPai</strong> · @MatinSenPai · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 91 &nbsp; 📊 5.3K</p>
+<p><a href="https://x.com/MatinSenPai/status/2101572697163489569">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iSegar0/status/2101586386545713558"><img src="https://pbs.twimg.com/amplify_video_thumb/2101586096694099968/img/C5zFARaitHNrqj0-.jpg" alt="A Brief Introduction to the New JEV Model with Persian Subtitles · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iSegar0/status/2101586386545713558">A Brief Introduction to the New JEV Model with Persian Subtitles</a></h3>
+<p>The video introduces TypeSafe&#39;s new Jev model, explaining that unlike common text-generation models, it uses reinforcement learning to make decisions directly on code.</p>
+<p><strong>中文摘要：</strong>视频介绍 TypeSafe 推出的新 Jev 模型，说明其不同于常见文本生成模型，而是通过强化学习直接对代码进行决策。</p>
+<p><strong>iSegar0 || سگارو</strong> · @iSegar0 · 2026-09-20</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 118 &nbsp; 📊 4.2K</p>
+<p><a href="https://x.com/iSegar0/status/2101586386545713558">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neural_avb/status/2101594784490270785"><img src="https://pbs.twimg.com/amplify_video_thumb/2101592813372919808/img/v5ycfs1ly4P4DhGo.jpg" alt="JEV returns not just candidate probabilities but also a confidence score · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/neural_avb/status/2101594784490270785">JEV returns not just candidate probabilities but also a confidence score</a></h3>
+<p>The author noticed that JEV returns probabilities for candidate choices along with a confidence score for its prediction, and wondered whether TypeSafe AI brought back Bayesian Networks to learn uncertainty, only to find from their docs that it did not.</p>
+<p><strong>中文摘要：</strong>作者注意到 JEV 会为候选选择返回概率以及预测的置信度分数，并好奇 TypeSafe AI 是否引入了贝叶斯网络来学习不确定性，随后根据其文档发现并非如此。</p>
+<p><strong>AVB</strong> · @neural_avb · 2026-09-20</p>
+<p>💬 13 &nbsp; 🔁 5 &nbsp; ♡ 42 &nbsp; 📊 2.2K</p>
+<p><a href="https://x.com/neural_avb/status/2101594784490270785">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/blanknote/status/2101505950855336001"><img src="https://pbs.twimg.com/media/HSoMhbqbkAAm7Tb?format=jpg&amp;name=medium" alt="Discussing whether Jev uses a RAG-like mechanism and its accuracy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/blanknote/status/2101505950855336001">Discussing whether Jev uses a RAG-like mechanism and its accuracy</a></h3>
+<p>The author wonders how accurate Jev would be if it used something like RAG (though not exactly RAG), and shares a link to the Jev project.</p>
+<p><strong>中文摘要：</strong>作者好奇 Jev 若采用类似 RAG（但并非严格 RAG）的方式，准确性会如何，并附上 Jev 项目链接。</p>
+<p><strong>blanknote</strong> · @blanknote · 2026-09-20</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 2.1K</p>
+<p><a href="https://x.com/blanknote/status/2101505950855336001">在 X 查看原帖</a> · <a href="https://t.co/cZoWrWyJQF">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xBakeer/status/2101597047635705987"><img src="https://pbs.twimg.com/amplify_video_thumb/2101595701406830592/img/vyWO13rk4NJqEOjf.jpg" alt="Jev open source: answering typed questions in a single forward pass · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xBakeer/status/2101597047635705987">Jev open source: answering typed questions in a single forward pass</a></h3>
+<p>The author runs a second model alongside the LLM on a Spark. It does not write text; it takes a state and typed questions and answers each in a single forward pass with a probability. This is the open source version of Jev, installable on macOS and Nvidia hardware.</p>
+<p><strong>中文摘要：</strong>作者在 Spark 上于 LLM 旁部署第二个模型，它不生成文本，而是接收状态和类型化问题，在单次前向传播中给出每个问题的概率答案；这是 Jev 的开源版本，可安装在 macOS 及 Nvidia 设备上。</p>
+<p><strong>0xBakeer</strong> · @0xBakeer · 2026-09-20</p>
+<p>💬 6 &nbsp; 🔁 7 &nbsp; ♡ 35 &nbsp; 📊 1.8K</p>
+<p><a href="https://x.com/0xBakeer/status/2101597047635705987">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Shuton_leon/status/2101540288779202895"><img src="https://pbs.twimg.com/media/HSorIrubkAAI8Eq?format=jpg&amp;name=medium" alt="A Kanban View of How Jev API Decomposes Tasks and Makes Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Shuton_leon/status/2101540288779202895">A Kanban View of How Jev API Decomposes Tasks and Makes Decisions</a></h3>
+<p>The author uses a simple kanban to show how Jev API decomposes tasks and makes decisions, suggesting Jev plus ChatGPT can build a small agent workflow.</p>
+<p><strong>中文摘要：</strong>作者用简单看板展示 Jev API 拆解任务并作出判断的过程，并认为 Jev 结合 ChatGPT 可搭建小型 Agent Workflow。</p>
+<p><strong>书童</strong> · @Shuton_leon · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 466</p>
+<p><a href="https://x.com/Shuton_leon/status/2101540288779202895">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/YaleChen2020/status/2101552323445358648"><img src="https://pbs.twimg.com/media/HSoxQV3a4AEzEcp?format=png&amp;name=900x900" alt="Trade-offs Between JEV and Fast Classifiers: Designing Flows to Contain Errors · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YaleChen2020/status/2101552323445358648">Trade-offs Between JEV and Fast Classifiers: Designing Flows to Contain Errors</a></h3>
+<p>The author argues that programs that classify correctly need not use JEV; cheap fast classifiers make errors, and when errors are unacceptable, flows should add other components to contain them.</p>
+<p><strong>中文摘要：</strong>作者提出：能正确分类的程式无需使用 JEV，便宜快速的分类器会出错；若错误不可接受，应设计流程引入其他环节使错误收束。</p>
+<p><strong>冰山小企鵝</strong> · @YaleChen2020 · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 199</p>
+<p><a href="https://x.com/YaleChen2020/status/2101552323445358648">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xkonjin/status/2101698115044606107"><img src="https://pbs.twimg.com/amplify_video_thumb/2101398989514092544/img/s1BFTtRGitNykgwI.jpg" alt="Jev and System One Classifiers: A New Lower Abstraction for Enriching Existing Flows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/xkonjin/status/2101698115044606107">Jev and System One Classifiers: A New Lower Abstraction for Enriching Existing Flows</a></h3>
+<p>Discusses the potential Cambrian explosion of System One classifier-driven enrichment of existing flows, noting Jev offers a new lower abstraction outside existing test-time compute races.</p>
+<p><strong>中文摘要：</strong>讨论 System One 分类器驱动的现有流程增强可能带来的寒武纪大爆发，并指出 Jev 在现有测试时计算竞赛之外提供了新的更低抽象层。</p>
+<p><strong>xkonjin</strong> · @xkonjin · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 193</p>
+<p><a href="https://x.com/xkonjin/status/2101698115044606107">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BenjaminDEKR/status/2101800032018280910"><img src="https://pbs.twimg.com/amplify_video_thumb/2101799296156708864/img/Fz-kB1HHdXZ851Bo.jpg" alt="Using Braille Characters to Let Text-Only Jev Understand Shapes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BenjaminDEKR/status/2101800032018280910">Using Braille Characters to Let Text-Only Jev Understand Shapes</a></h3>
+<p>The author tries to get Jev, which is text-only with no image input, to understand basic shapes: render a shape to a 64×64 canvas, threshold it, and pack each 2×4 pixel block into a Unicode braille glyph, turning the image into 512 plain-text characters fed to Jev.</p>
+<p><strong>中文摘要：</strong>作者尝试让纯文本、无图像输入的 Jev 理解基本形状：将形状渲染到 64×64 画布、二值化，再把每 2×4 像素块打包成 Unicode 盲文字符，整张图变成 512 个纯文本字符输入 Jev。</p>
+<p><strong>Benjamin De Kraker</strong> · @BenjaminDEKR · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 187</p>
+<p><a href="https://x.com/BenjaminDEKR/status/2101800032018280910">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gaoqian2580/status/2101696559222296775"><img src="https://pbs.twimg.com/amplify_video_thumb/2101689988115226624/img/XcbozF99-xM46aFm.jpg" alt="Jev: Handing Judgment to Code, Not Chat · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gaoqian2580/status/2101696559222296775">Jev: Handing Judgment to Code, Not Chat</a></h3>
+<p>Jev doesn&#39;t generate text; it takes a state and typed questions (choices, scales, yes/no probabilities) and returns code-ready if values in tens to hundreds of milliseconds, in parallel.</p>
+<p><strong>中文摘要：</strong>Jev 不生成文字，而是接收状态和带类型的问题（选项、量表、是/否概率），在几十到几百毫秒内并行返回代码可直接 if 判断的值。</p>
+<p><strong>AI搞钱Hacker</strong> · @gaoqian2580 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 132</p>
+<p><a href="https://x.com/gaoqian2580/status/2101696559222296775">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/parthratra12/status/2101632002403250432"><img src="https://pbs.twimg.com/media/HSp_J9taoAA7s7n?format=jpg&amp;name=900x900" alt="Jev Model: Working with Choices and Probabilities Instead of Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/parthratra12/status/2101632002403250432">Jev Model: Working with Choices and Probabilities Instead of Text</a></h3>
+<p>Explains how Jev differs from traditional LLMs like Claude and OpenAI: instead of generating and reasoning through text, Jev works with choices and probabilities, designed for fewer tokens and faster responses, and can be combined with LLMs.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 与 Claude、OpenAI 等传统 LLM 的区别：Jev 不通过文本生成和推理，而是基于选择和概率，旨在减少 token 并加快响应，可与 LLM 结合使用。</p>
+<p><strong>parth ratra</strong> · @parthratra12 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
+<p><a href="https://x.com/parthratra12/status/2101632002403250432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LionelMiraton/status/2101551466284507228"><img src="https://pbs.twimg.com/media/HSo16_3WEAEqex4?format=jpg&amp;name=medium" alt="Jev and TypeScript: Typed Decisions in 70 ms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LionelMiraton/status/2101551466284507228">Jev and TypeScript: Typed Decisions in 70 ms</a></h3>
+<p>Explains how Jev uses TypeScript typed decisions to replace fragile prompts, delivering hallucination-free intent resolution in 70 ms.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 如何用 TypeScript 类型化决策替代脆弱的提示词，在 70 毫秒内完成无幻觉的意图判断。</p>
+<p><strong>Lionel MIRATON</strong> · @LionelMiraton · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
+<p><a href="https://x.com/LionelMiraton/status/2101551466284507228">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/parcadei/status/2101801605121094138"><img src="https://pbs.twimg.com/media/HSsWa0XWkAA2kOd?format=jpg&amp;name=medium" alt="JEV Tip 005: Ask JEV Whether the State Has Enough Evidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/parcadei/status/2101801605121094138">JEV Tip 005: Ask JEV Whether the State Has Enough Evidence</a></h3>
+<p>A JEV usage tip: instead of sending the question, ask JEV whether the provided state contains enough decision-relative evidence to answer it.</p>
+<p><strong>中文摘要：</strong>介绍一种 JEV 使用技巧：不直接发送问题，而是询问 JEV 所提供的状态是否包含足够的决策相关证据来回答问题。</p>
+<p><strong>dei</strong> · @parcadei · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 69</p>
+<p><a href="https://x.com/parcadei/status/2101801605121094138">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/angeworkCoLtd/status/2101578722000466317"><img src="https://pbs.twimg.com/amplify_video_thumb/2101310635476959232/img/hzqRtjIOw4redINE.jpg" alt="Jev Suits Domain Problem Solving: Better Combined with Logic and LLMs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/angeworkCoLtd/status/2101578722000466317">Jev Suits Domain Problem Solving: Better Combined with Logic and LLMs</a></h3>
+<p>The post shares many Jev ideas and notes that Jev suits domain problem solving, working better combined with logic-based approaches and LLMs than alone.</p>
+<p><strong>中文摘要：</strong>帖子分享大量 Jev 想法，并指出 Jev 适合解决领域问题，单独使用不如与逻辑基础、LLM 等组合发挥更大效果。</p>
+<p><strong>Angework公式アカウント</strong> · @angeworkCoLtd · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><a href="https://x.com/angeworkCoLtd/status/2101578722000466317">在 X 查看原帖</a> · <a href="https://t.co/yDmHUiPCjw">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/parthjain_1/status/2101797100208148839"><img src="https://pbs.twimg.com/media/HSsVEp9bUAAtndj?format=jpg&amp;name=medium" alt="Jev Is Not a Better LLM, It&#39;s a Different Category of System · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/parthjain_1/status/2101797100208148839">Jev Is Not a Better LLM, It&#39;s a Different Category of System</a></h3>
+<p>The post notes most AI teams run 80% of inference on a model costing 100x more than needed, and introduces TypeSafe AI&#39;s Jev as a different category of system.</p>
+<p><strong>中文摘要：</strong>帖子指出多数 AI 团队用成本高百倍的模型处理 80% 推理负载，并介绍 TypeSafe AI 的 Jev 作为不同类别的系统。</p>
+<p><strong>parth jain</strong> · @parthjain_1 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 47</p>
+<p><a href="https://x.com/parthjain_1/status/2101797100208148839">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eltokh7/status/2101693716024967535"><img src="https://pbs.twimg.com/media/HSmoi6pWkAEO8SY?format=jpg&amp;name=medium" alt="Scoring relevance with Jev and balancing token budget · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eltokh7/status/2101693716024967535">Scoring relevance with Jev and balancing token budget</a></h3>
+<p>The post describes using Jev to score how relevant each passage is to a question, then balancing relevance, novelty and cost to fill the token budget.</p>
+<p><strong>中文摘要：</strong>帖子介绍用 Jev 对每段内容与问题的相关性打分，再按相关性、新颖度和成本平衡 token 预算。</p>
+<p><strong>khaled</strong> · @eltokh7 · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/eltokh7/status/2101693716024967535">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WarlockTome/status/2101598938545733802"><img src="https://pbs.twimg.com/amplify_video_thumb/2101598157285249024/img/BV0f1WAxXnMqHTSr.jpg" alt="Unmasking Jev&#39;s Architecture with 10,000 API Calls · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/WarlockTome/status/2101598938545733802">Unmasking Jev&#39;s Architecture with 10,000 API Calls</a></h3>
+<p>An analysis of Archer Hume&#39;s experiment on how Jev outputs probabilities without generating text, covering shared state, isolated branches, and probability calibration, while distinguishing observations from speculation.</p>
+<p><strong>中文摘要：</strong>解读 Archer Hume 的实验，分析 Jev 如何不生成文字直接给出概率，探讨共享状态、隔离分支与概率校准，并区分观察与推测。</p>
+<p><strong>WTome</strong> · @WarlockTome · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/WarlockTome/status/2101598938545733802">在 X 查看原帖</a> · <a href="https://t.co/bdPxTXvoyR">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/skaiphd/status/2101489883898351937"><img src="https://pbs.twimg.com/media/HSn92JDW8AEPuKK?format=jpg&amp;name=medium" alt="JEV Engineering: Agent State to Feedback Decision Flow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/skaiphd/status/2101489883898351937">JEV Engineering: Agent State to Feedback Decision Flow</a></h3>
+<p>Introduces the JEV Engineering agent flow: Agent State → Decision Engine → Typed Decision → Orchestrator → Action → Feedback, with the key being to separate probabilistic intelligence from deterministic execution.</p>
+<p><strong>中文摘要：</strong>介绍 JEV Engineering 的智能体流程：Agent State → Decision Engine → Typed Decision → Orchestrator → Action → Feedback，核心是将概率智能与确定性执行分离。</p>
+<p><strong>Dr. Sanjay Kumar</strong> · @skaiphd · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 34</p>
+<p><a href="https://x.com/skaiphd/status/2101489883898351937">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Plearnery/status/2101538654011498537"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Excels at Judgment and Choice · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Plearnery/status/2101538654011498537">Jev Excels at Judgment and Choice</a></h3>
+<p>The video illustrates Jev&#39;s core strength: making judgments and choices.</p>
+<p><strong>中文摘要：</strong>该视频展示了 Jev 的核心优势：进行判断和做出选择。</p>
+<p><strong>Plena</strong> · @Plearnery · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><a href="https://x.com/Plearnery/status/2101538654011498537">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Arcveil_AI/status/2101698355449700814"><img src="https://pbs.twimg.com/media/HSq7f5oaQAAzazW?format=jpg&amp;name=medium" alt="Why Jev&#39;s Structured Output Resists Prompt Injection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Arcveil_AI/status/2101698355449700814">Why Jev&#39;s Structured Output Resists Prompt Injection</a></h3>
+<p>The post argues prompt injection works because a model can write the next instruction, whereas Jev&#39;s structured evaluation model only outputs a typed probability, label, or point on a scale—hijacking text can move the number but cannot become a command.</p>
+<p><strong>中文摘要：</strong>帖子指出，提示注入之所以有效，是因为模型能写出下一条指令；而 Jev 的结构化评估模型只输出类型化的概率、标签或刻度值，恶意文本只能影响数值，无法变成命令。</p>
+<p><strong>Arcveil</strong> · @Arcveil_AI · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/Arcveil_AI/status/2101698355449700814">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TinyRouterHQ/status/2101645444170371366"><img src="https://pbs.twimg.com/media/HSqLXu9WcAAAUD2?format=jpg&amp;name=medium" alt="TypeSafe Jev: State and Typed Questions In, Choice, Score and Probability Out · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TinyRouterHQ/status/2101645444170371366">TypeSafe Jev: State and Typed Questions In, Choice, Score and Probability Out</a></h3>
+<p>TinyRouter highlights TypeSafe&#39;s Jev model: state and typed questions go in, choice, score or probability come out, with no prose to parse. A sample call returns choice=billing (p=0.71) and score 0.8 via POST /v1/systemone, with 32K context and free output.</p>
+<p><strong>中文摘要：</strong>TinyRouter 介绍 TypeSafe 的 Jev 模型：输入状态与类型化问题，直接输出选择、分数或概率，无需解析文本。示例调用返回 choice=billing（p=0.71）、score 0.8，接口为 POST /v1/systemone，支持 32K 上下文，输出免费。</p>
+<p><strong>TinyRouter</strong> · @TinyRouterHQ · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/TinyRouterHQ/status/2101645444170371366">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nouchinho_csm/status/2101694848638316806"><img src="https://pbs.twimg.com/media/HSq4Q-8bkAAzBkU?format=jpg&amp;name=medium" alt="Jev returns fast judgments like selection and evaluation instead of generating text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nouchinho_csm/status/2101694848638316806">Jev returns fast judgments like selection and evaluation instead of generating text</a></h3>
+<p>Introduces Jev as a judgment-oriented technology that does not generate text but quickly performs selection and evaluation, applicable to inquiry routing, request prioritization, and human confirmation, with emphasis on validating accuracy, speed, and rework across industries.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 作为判断型技术的特点：不生成文章，而是快速完成选择与评估，可用于问询分流、请求优先级和人工确认，并强调跨行业验证精度、速度与返工情况。</p>
+<p><strong>ノウチーニョ｜現場のAI活用👩‍⚕️×⚽️</strong> · @nouchinho_csm · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/nouchinho_csm/status/2101694848638316806">在 X 查看原帖</a> · <a href="https://t.co/bLGsm1C6QU">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xnavarro/status/2101539940190318857"><img src="https://pbs.twimg.com/amplify_video_thumb/2101437764004716544/img/h_s_KmtT7A_arYrl.jpg" alt="Jev does not support image input · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xnavarro/status/2101539940190318857">Jev does not support image input</a></h3>
+<p>The post notes that Jev currently does not support images as input.</p>
+<p><strong>中文摘要：</strong>该帖指出 Jev 目前不支持将图片作为输入。</p>
+<p><strong>Carlos Navarro</strong> · @0xnavarro · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/0xnavarro/status/2101539940190318857">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NickLo641579/status/2101794549135716518"><img src="https://pbs.twimg.com/amplify_video_thumb/2101794532761149440/img/1XaRhKN-mu55-68e.jpg" alt="Kev-0.6B Jev-class decision model runs one forward pass on Apple Neural Engine · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NickLo641579/status/2101794549135716518">Kev-0.6B Jev-class decision model runs one forward pass on Apple Neural Engine</a></h3>
+<p>Kev-0.6B is a Jev-class decision model running on the Apple Neural Engine. One forward pass, no token generation, 7.18 ms per decision with p99 of 7.53 ms. Placement isn&#39;t asserted yet; it&#39;s measured three ways: CPU-only returns zeros, and Apple&#39;s xctrace Neural Engine instrument counts 303.</p>
+<p><strong>中文摘要：</strong>Kev-0.6B 是 Jev 级决策模型，在 Apple 神经引擎上运行，单次前向传播无需生成 token，每次决策 7.18 毫秒，p99 为 7.53 毫秒。放置位置尚未断言，通过三种方式测量：仅 CPU 返回零，Apple xctrace 神经引擎工具计数为 303。</p>
+<p><strong>Nick Lo</strong> · @NickLo641579 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/NickLo641579/status/2101794549135716518">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hotate_lab/status/2101676628711780546"><img src="https://pbs.twimg.com/media/HSqnvyXakAA3VQy?format=jpg&amp;name=medium" alt="Jev: An AI That Writes Nothing and Only Makes Judgments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hotate_lab/status/2101676628711780546">Jev: An AI That Writes Nothing and Only Makes Judgments</a></h3>
+<p>Introduces Jev&#39;s positioning: it generates no text, only selects from options, assigns scores, or returns Yes/No probabilities—fast, cheap, and directly usable by programs, essentially isolating the judgment part of an LLM.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 的定位：不生成文字，只从选项中选择、打分或返回 Yes/No 概率，特点是快、便宜、程序可直接使用，相当于把 LLM 的判断部分单独切出。</p>
+<p><strong>ホタテラボ</strong> · @hotate_lab · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/hotate_lab/status/2101676628711780546">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RajAGIs/status/2101700100313825429"><img src="https://pbs.twimg.com/amplify_video_thumb/2101699949197172736/img/GQ3ACCVJ6LoZs0lH.jpg" alt="Jev Explained for Beginners · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RajAGIs/status/2101700100313825429">Jev Explained for Beginners</a></h3>
+<p>A beginner-friendly explanation of the Jev model.</p>
+<p><strong>中文摘要：</strong>面向初学者的 Jev 模型入门讲解。</p>
+<p><strong>Raj Gupta</strong> · @RajAGIs · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/RajAGIs/status/2101700100313825429">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aaronbatilo/status/2101795933465772520"><img src="https://pbs.twimg.com/media/HSsTxFDXcAAFjTf?format=jpg&amp;name=medium" alt="Jev repeatedly fails FizzBuzz test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aaronbatilo/status/2101795933465772520">Jev repeatedly fails FizzBuzz test</a></h3>
+<p>A user ran Jev through FizzBuzz 10,000 times, finding a 77% failure rate, almost always on the same number, with Jev confidently treating 56 as divisible by 5 at 0.18-0.30 confidence.</p>
+<p><strong>中文摘要：</strong>用户对 Jev 进行 10,000 次 FizzBuzz 测试，发现 77% 的失败率，且几乎总是同一个数字，Jev 以 0.18-0.30 的置信度认为 56 能被 5 整除。</p>
+<p><strong>Aaron</strong> · @aaronbatilo · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/aaronbatilo/status/2101795933465772520">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeMindsXYZ/status/2101693243096478198"><img src="https://pbs.twimg.com/media/HSq2aOgb0AEVg7I?format=jpg&amp;name=medium" alt="Framing Jev as a Typed Judgment Layer for Routing, Compaction, and Safety · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DeMindsXYZ/status/2101693243096478198">Framing Jev as a Typed Judgment Layer for Routing, Compaction, and Safety</a></h3>
+<p>The post describes Jev as a cheap, typed judgment layer for routing, compaction, safety, and real-time loops, and turns the related article into an interactive view for easier scanning.</p>
+<p><strong>中文摘要：</strong>帖子将 Jev 描述为廉价的类型化判断层，用于路由、压缩、安全和实时循环，并将相关文章转为交互式视图以便浏览。</p>
+<p><strong>DeMinds</strong> · @DeMindsXYZ · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/DeMindsXYZ/status/2101693243096478198">在 X 查看原帖</a> · <a href="https://t.co/0uWDjWMM3x">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DexAust/status/2101799349298831701"><img src="https://pbs.twimg.com/amplify_video_thumb/2101684076424093696/img/OMr5OhnYjY6Zklct.jpg" alt="Jev&#39;s Scope: Structured Decisions, Not Deep Reasoning · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DexAust/status/2101799349298831701">Jev&#39;s Scope: Structured Decisions, Not Deep Reasoning</a></h3>
+<p>A user notes that Jev is optimized for fast, cheap, repeatable structured decisions, not for deep reasoning about market regime shifts, news events, or tail risk.</p>
+<p><strong>中文摘要：</strong>用户指出 Jev 针对快速、低成本、可重复的结构化决策进行优化，不适合对市场格局变化、新闻事件或尾部风险等进行深度推理。</p>
+<p><strong>Dex</strong> · @DexAust · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/DexAust/status/2101799349298831701">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/moidrk/status/2101639070376218964"><img src="https://pbs.twimg.com/media/HSqFkYMa4AAV4Xa?format=jpg&amp;name=medium" alt="Jev: Treating AI as a Decision Layer Inside Software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/moidrk/status/2101639070376218964">Jev: Treating AI as a Decision Layer Inside Software</a></h3>
+<p>The post frames Jev as a decision layer inside software rather than a chatbot: LLMs generate, Jev decides—routing requests, flagging actions, choosing the next tool, filtering bad RAG context, and more.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 将 AI 定位为软件内部的决策层而非聊天机器人：LLM 负责生成，Jev 负责决策，例如路由请求、标记操作、选择下一个工具、过滤不良 RAG 上下文等。</p>
+<p><strong>Moid</strong> · @moidrk · 2026-09-20</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/moidrk/status/2101639070376218964">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/buildWithJishan/status/2101696989603766446"><img src="https://pbs.twimg.com/amplify_video_thumb/2101696664205443073/img/UR3A9GxKmWbzLokO.jpg" alt="Jev Named After Economist Jevons: Making AI Decisions Cheap Enough · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/buildWithJishan/status/2101696989603766446">Jev Named After Economist Jevons: Making AI Decisions Cheap Enough</a></h3>
+<p>The post explains that Jev is named after economist Jevons and argues that when AI decisions become cheap enough, AI ends up inside everything.</p>
+<p><strong>中文摘要：</strong>帖子解释 Jev 名称源自经济学家杰文斯，并指出当 AI 决策成本足够低时，AI 将渗透到一切场景中。</p>
+<p><strong>Jishan</strong> · @buildWithJishan · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/buildWithJishan/status/2101696989603766446">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/commie3f7/status/2101752357038227664"><img src="https://pbs.twimg.com/media/HSrsoLdaoAAlGnl?format=png&amp;name=medium" alt="JEV Dual-Engine Architecture: Fast System-1 Routing with System-2 Reasoning · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/commie3f7/status/2101752357038227664">JEV Dual-Engine Architecture: Fast System-1 Routing with System-2 Reasoning</a></h3>
+<p>Describes the shift of the AI agent stack to a dual-engine architecture: JEV-powered System-1 handles sub-100ms classification and routing, while System-2 handles heavy LLM reasoning, claiming 100x faster and 400x cheaper.</p>
+<p><strong>中文摘要：</strong>介绍 AI 智能体栈向双引擎架构演进：JEV 驱动的 System-1 负责亚 100 毫秒分类与路由，System-2 负责重型 LLM 推理，宣称速度提升 100 倍、成本降低 400 倍。</p>
+<p><strong>Commisticholy</strong> · @commie3f7 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/commie3f7/status/2101752357038227664">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Zenith6864471/status/2101523959359439109"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev turns AI into an intelligent &#39;if&#39;: makes decisions and returns probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Zenith6864471/status/2101523959359439109">Jev turns AI into an intelligent &#39;if&#39;: makes decisions and returns probabilities</a></h3>
+<p>The post describes Jev as not generating text but making decisions and returning probabilities for classification or risk detection, claiming it may be faster and cheaper.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 不生成文本，而是做决策并返回概率，用于分类或风险检测，并称其可能更快更便宜。</p>
+<p><strong>LavanguardiaIA</strong> · @Zenith6864471 · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Zenith6864471/status/2101523959359439109">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/angeworkCoLtd/status/2101641965087629502"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Jev Overheating: Opaque Probability Calculation, Value Comes from Self-Provisioning · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/angeworkCoLtd/status/2101641965087629502">Jev Overheating: Opaque Probability Calculation, Value Comes from Self-Provisioning</a></h3>
+<p>The post notes Jev is overheating; users set questions, criteria, and adoption probability thresholds, but Jev does not disclose how probabilities are calculated, suggesting self-provisioning to unlock real value.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 使用过热，用户侧需设置问题、criteria 和采用概率阈值，但 Jev 内部不公开概率计算依据，建议自行准备数据以发挥真正价值。</p>
+<p><strong>Angework公式アカウント</strong> · @angeworkCoLtd · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/angeworkCoLtd/status/2101641965087629502">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dnzxlyfe/status/2101698685583409243"><img src="https://pbs.twimg.com/media/HSq70Dia4AA4gMm?format=jpg&amp;name=medium" alt="Jev&#39;s slot: inner-loop judgment, not a second brain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dnzxlyfe/status/2101698685583409243">Jev&#39;s slot: inner-loop judgment, not a second brain</a></h3>
+<p>Jev&#39;s slot is not a second brain but inner-loop judgment: state in, typed answers out, code owns the rest. LLM still writes, Jev branches; schema-closed does not mean correct—a wrong in-schema pick still ships if you skip the threshold.</p>
+<p><strong>中文摘要：</strong>Jev 的 slot 不是第二大脑，而是内循环判断：输入状态，输出类型化答案，其余交给代码。LLM 仍负责编写，Jev 负责分支；schema 闭合不等于正确，跳过阈值仍可能发布错误选择。</p>
+<p><strong>Jay Song</strong> · @dnzxlyfe · 2026-09-20</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/dnzxlyfe/status/2101698685583409243">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2101309986156712025"><img src="https://pbs.twimg.com/amplify_video_thumb/2101309969044054016/img/33Ud7QFDU8aMgYlW.jpg" alt="LLMs vs. Jev: The Key Difference Is Jev Doesn&#39;t Generate Text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2101309986156712025">LLMs vs. Jev: The Key Difference Is Jev Doesn&#39;t Generate Text</a></h3>
+<p>The post contrasts traditional LLMs with Jev, noting the key difference is not speed but that Jev does not generate text token by token.</p>
+<p><strong>中文摘要：</strong>帖子对比传统 LLM 与 Jev，指出关键区别不在于生成速度，而在于 Jev 根本不逐 token 生成文本。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-09-19</p>
+<p>💬 80 &nbsp; 🔁 259 &nbsp; ♡ 2.0K &nbsp; 📊 261K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2101309986156712025">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Teknium/status/2101398453578555898"><img src="https://pbs.twimg.com/media/HSmb61xbMAAsTQj?format=jpg&amp;name=medium" alt="Jev compaction has significant problems · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Teknium/status/2101398453578555898">Jev compaction has significant problems</a></h3>
+<p>The author points out many problems with Jev compaction, noting that on a public compaction eval it produced a programmatic rule that requires no Jev or other model.</p>
+<p><strong>中文摘要：</strong>作者指出 Jev 压缩存在诸多问题，并提到在公开压缩评测中，结果产生了一条无需任何 Jev 或其他模型的程序化规则。</p>
+<p><strong>Teknium 🪽</strong> · @Teknium · 2026-09-19</p>
+<p>💬 130 &nbsp; 🔁 124 &nbsp; ♡ 1.2K &nbsp; 📊 105K</p>
+<p><a href="https://x.com/Teknium/status/2101398453578555898">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/skeptrune/status/2101209390992994570"><img src="https://pbs.twimg.com/amplify_video_thumb/2101204678604455936/img/-Sg1h83wAYEc959c.jpg" alt="Making Open Source Models Behave Like Jev via Inference Engineering · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/skeptrune/status/2101209390992994570">Making Open Source Models Behave Like Jev via Inference Engineering</a></h3>
+<p>The author claims any open source model can be made to behave like Jev with a bit of inference engineering, demonstrating a new endpoint called deepseek-v4.1-flash-jev built with the sglang inference engine.</p>
+<p><strong>中文摘要：</strong>作者称只需少量推理工程即可让任何开源模型模仿 Jev，并演示了名为 deepseek-v4.1-flash-jev 的新端点，使用 sglang 推理引擎实现。</p>
+<p><strong>Nick Khami</strong> · @skeptrune · 2026-09-19</p>
+<p>💬 104 &nbsp; 🔁 115 &nbsp; ♡ 1.3K &nbsp; 📊 94K</p>
+<p><a href="https://x.com/skeptrune/status/2101209390992994570">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DavidOndrej1/status/2101430727757693227"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101430571142451200/pu/img/QIE7hcMdToQQEur1.jpg" alt="Jev: The Biggest AI Breakthrough of the Year, Explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DavidOndrej1/status/2101430727757693227">Jev: The Biggest AI Breakthrough of the Year, Explained</a></h3>
+<p>One video to understand Jev&#39;s completely new AI architecture better than 99% of people, unlike GPT or Claude.</p>
+<p><strong>中文摘要：</strong>一段视频让你比99%的人更了解Jev的全新AI架构，它不同于GPT或Claude。</p>
+<p><strong>David Ondrej</strong> · @DavidOndrej1 · 2026-09-19</p>
+<p>💬 44 &nbsp; 🔁 94 &nbsp; ♡ 1.1K &nbsp; 📊 56K</p>
+<p><a href="https://x.com/DavidOndrej1/status/2101430727757693227">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/richardartoul/status/2101360378047287645"><img src="https://pbs.twimg.com/amplify_video_thumb/2101357265253212160/img/yMWnsAPk5D4HinBv.jpg" alt="Tuning Jev to Your Decision Criteria with GEPA · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/richardartoul/status/2101360378047287645">Tuning Jev to Your Decision Criteria with GEPA</a></h3>
+<p>Richard Artoul shares a demo showing how to use GEPA to tune Jev, a model trained only on synthetic data, to your exact decision criteria by manipulating the prompt and labeling a few examples.</p>
+<p><strong>中文摘要：</strong>Richard Artoul 分享了一个演示，展示如何用 GEPA 将仅用合成数据训练的 Jev 模型，通过操纵提示和标注少量示例，调优到符合你的具体决策标准。</p>
+<p><strong>Richard Artoul</strong> · @richardartoul · 2026-09-19</p>
+<p>💬 5 &nbsp; 🔁 26 &nbsp; ♡ 414 &nbsp; 📊 53K</p>
+<p><a href="https://x.com/richardartoul/status/2101360378047287645">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MatijaSosic/status/2101333105193693652"><img src="https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg" alt="Jev vs Classifiers: No Training, Fast Inference · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MatijaSosic/status/2101333105193693652">Jev vs Classifiers: No Training, Fast Inference</a></h3>
+<p>Jev isn&#39;t a new concept but builds on decades-old classifier interfaces, yet works for any problem without training and offers fast inference.</p>
+<p><strong>中文摘要：</strong>Jev 并非新概念，而是基于数十年历史的分类器接口，但无需训练即可适用于任何问题，且推理速度快。</p>
+<p><strong>Matija Sosic</strong> · @MatijaSosic · 2026-09-19</p>
+<p>💬 24 &nbsp; 🔁 41 &nbsp; ♡ 327 &nbsp; 📊 46K</p>
+<p><a href="https://x.com/MatijaSosic/status/2101333105193693652">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fladdict/status/2101160813440684333"><img src="https://pbs.twimg.com/media/HSiM68Ga8AALS6m.jpg" alt="Understanding JEV as a Multi-Shot Decision Router · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fladdict/status/2101160813440684333">Understanding JEV as a Multi-Shot Decision Router</a></h3>
+<p>The post suggests viewing JEV as a multi-shot router that puts decision-making directly in your pocket, likening it to flowing thoughts rather than luggage.</p>
+<p><strong>中文摘要：</strong>帖子提出将 JEV 视为一种多镜头路由器，把决策直接放入口袋，并类比为流动的思维而非行李。</p>
+<p><strong>深津 貴之 / THE GUILD, note</strong> · @fladdict · 2026-09-19</p>
+<p>💬 5 &nbsp; 🔁 22 &nbsp; ♡ 208 &nbsp; 📊 46K</p>
+<p><a href="https://x.com/fladdict/status/2101160813440684333">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BenjDicken/status/2101419750597566684"><img src="https://pbs.twimg.com/amplify_video_thumb/2101413115795800064/img/7zVAVQPLlQf1Pk1V.jpg" alt="Jev and Its Open-Source Companion Laya · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BenjDicken/status/2101419750597566684">Jev and Its Open-Source Companion Laya</a></h3>
+<p>Introduces TypeSafe&#39;s Jev model and its open-source companion Laya, noting that Jev consumes input and produces output differently from chat models, and discusses its hype and comprehension gap.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe 的 Jev 模型及其开源配套 Laya，指出 Jev 的输入输出方式与聊天类模型不同，并讨论其热度与理解门槛。</p>
+<p><strong>Ben Dicken</strong> · @BenjDicken · 2026-09-19</p>
+<p>💬 22 &nbsp; 🔁 40 &nbsp; ♡ 485 &nbsp; 📊 24K</p>
+<p><a href="https://x.com/BenjDicken/status/2101419750597566684">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eptwts/status/2101396833247564054"><img src="https://pbs.twimg.com/amplify_video_thumb/2101393592065421313/img/nYIybMu1kFDVqATI.jpg" alt="Jev counting bottleneck: probabilistic output struggles with definite answers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eptwts/status/2101396833247564054">Jev counting bottleneck: probabilistic output struggles with definite answers</a></h3>
+<p>A developer built a counting app with Jev and found it returns probabilities instead of definite answers, often failing obvious questions, exposing a bottleneck in exact counting.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 构建计数应用，发现模型返回概率而非确定答案，简单问题也常出错，暴露了 Jev 在精确计数上的瓶颈。</p>
+<p><strong>EP</strong> · @eptwts · 2026-09-19</p>
+<p>💬 25 &nbsp; 🔁 3 &nbsp; ♡ 128 &nbsp; 📊 17K</p>
+<p><a href="https://x.com/eptwts/status/2101396833247564054">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jonymusky/status/2101453330861965672"><img src="https://pbs.twimg.com/amplify_video_thumb/2101453228302835712/img/PUVQoJCUgTZaUByL.jpg" alt="Spanish Video Explains Jev: What It Is, What It Doesn&#39;t Do, and Where to Place a Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jonymusky/status/2101453330861965672">Spanish Video Explains Jev: What It Is, What It Doesn&#39;t Do, and Where to Place a Model</a></h3>
+<p>The author shares a 4-minute Spanish-language video explaining what Jev is, what it doesn&#39;t do, and why it changes where you place a model.</p>
+<p><strong>中文摘要：</strong>作者发布一段 4 分钟西班牙语视频，介绍 Jev 是什么、它不做什么，以及为何会改变模型部署位置的考量。</p>
+<p><strong>Jony Musky</strong> · @jonymusky · 2026-09-19</p>
+<p>💬 13 &nbsp; 🔁 53 &nbsp; ♡ 433 &nbsp; 📊 16K</p>
+<p><a href="https://x.com/jonymusky/status/2101453330861965672">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/coffeebeans888/status/2101383335066976369"><img src="https://pbs.twimg.com/media/HSmcYc_XAAADelT?format=jpg&amp;name=large" alt="The AI That Doesn&#39;t Write: Why Jev Is 40-200x Faster Than Generative AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/coffeebeans888/status/2101383335066976369">The AI That Doesn&#39;t Write: Why Jev Is 40-200x Faster Than Generative AI</a></h3>
+<p>Introduces Jev, the &#39;AI that doesn&#39;t write&#39; released on September 15, 2026, explaining what it returns and why it&#39;s claimed to be 40-200x faster than generative AI.</p>
+<p><strong>中文摘要：</strong>介绍2026年9月15日发布的「不写文章的AI」Jev，说明它返回什么，以及为何比生成式AI快40-200倍。</p>
+<p><strong>cohimame</strong> · @coffeebeans888 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 489</p>
+<p><a href="https://x.com/coffeebeans888/status/2101383335066976369">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arith_rose/status/2101278824046682230"><img src="https://pbs.twimg.com/media/HSk93-gasAAbS2M?format=jpg&amp;name=medium" alt="Experimenting with TypeSafe AI&#39;s Jev in Playground: Testing Semantic Evaluation via HEX/RGB · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arith_rose/status/2101278824046682230">Experimenting with TypeSafe AI&#39;s Jev in Playground: Testing Semantic Evaluation via HEX/RGB</a></h3>
+<p>Testing Jev in Playground: hiding Choice candidate names as option_a etc. and providing only HEX/RGB values to see if the model evaluates them semantically as colors. When one of a candidate&#39;s HEX or RGB values is changed to red to create a contradiction, its probability drops to nearly 0%; no clear HEX-first or RGB-first bias observed so far.</p>
+<p><strong>中文摘要：</strong>在 Playground 中测试 Jev：将 Choice 候选名隐藏为 option_a 等，仅提供 HEX/RGB 值，观察模型是否按颜色语义评估。若某候选的 HEX 或 RGB 被改为红色造成矛盾，其概率几乎降为 0%；目前未见 HEX 或 RGB 优先的明显偏向。</p>
+<p><strong>みゆ🌹ฅ^•ω•^ฅ @X68KBBS / MSXBBS / FANKS</strong> · @arith_rose · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 368</p>
+<p><a href="https://x.com/arith_rose/status/2101278824046682230">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arjun_gupta95/status/2101319669055676845"><img src="https://pbs.twimg.com/media/HSljGUXasAA32Lj?format=jpg&amp;name=medium" alt="What is Jev: TypeSafe AI&#39;s decision model for software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arjun_gupta95/status/2101319669055676845">What is Jev: TypeSafe AI&#39;s decision model for software</a></h3>
+<p>Jev takes text plus defined questions and returns choices, scores and probabilities, built for routing and quick checks; a valid answer can still be wrong.</p>
+<p><strong>中文摘要：</strong>Jev 接收文本和定义好的问题，返回选择、分数和概率，面向路由与快速检查；有效答案仍可能出错。</p>
+<p><strong>Arjun Gupta</strong> · @arjun_gupta95 · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 99</p>
+<p><a href="https://x.com/arjun_gupta95/status/2101319669055676845">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ShaderKyle_/status/2101452880104333532"><img src="https://pbs.twimg.com/media/HSnb54aXgAAQOJ3?format=png&amp;name=240x240" alt="Jev Can Chat Too: A Naive Vocab Sampler Approach · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ShaderKyle_/status/2101452880104333532">Jev Can Chat Too: A Naive Vocab Sampler Approach</a></h3>
+<p>The author shows Jev can chat using a naive vocab sampler, with plans to improve it further.</p>
+<p><strong>中文摘要：</strong>作者展示 Jev 通过朴素词表采样器实现聊天功能，并计划持续改进。</p>
+<p><strong>KAP</strong> · @ShaderKyle_ · 2026-09-19</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 57</p>
+<p><a href="https://x.com/ShaderKyle_/status/2101452880104333532">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_pragmatic_dev/status/2101379123587522611"><img src="https://pbs.twimg.com/media/HSmZLEkaEAAnLrs?format=jpg&amp;name=medium" alt="Jev is a decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_pragmatic_dev/status/2101379123587522611">Jev is a decision model</a></h3>
+<p>The post describes Jev as a decision model, tagged with #jev.</p>
+<p><strong>中文摘要：</strong>该帖子将 Jev 描述为一个决策模型，并带有 #jev 标签。</p>
+<p><strong>Pragmatic Dev</strong> · @_pragmatic_dev · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><a href="https://x.com/_pragmatic_dev/status/2101379123587522611">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/liminalityworld/status/2101329567424360787"><img src="https://pbs.twimg.com/media/HSlsGjFbMAAzNCk?format=jpg&amp;name=medium" alt="Jev Is Not a Writing AI but an AI That Makes Decisions in Software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/liminalityworld/status/2101329567424360787">Jev Is Not a Writing AI but an AI That Makes Decisions in Software</a></h3>
+<p>The post uses a dialogue to explain how Jev differs from ChatGPT: Jev is more like an AI that makes decisions in software rather than one that just writes text.</p>
+<p><strong>中文摘要：</strong>帖子用对话解释 Jev 与 ChatGPT 的区别：Jev 更像是在软件中做判断的 AI，而非单纯写文章的 AI。</p>
+<p><strong>まだ管理人</strong> · @liminalityworld · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/liminalityworld/status/2101329567424360787">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yasirso9611047/status/2101356497775026180"><img src="https://pbs.twimg.com/media/HSmEgnaWYAAJBRw?format=jpg&amp;name=medium" alt="Exploring TypeSafe AI&#39;s Jev: From Text Generation to Software Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yasirso9611047/status/2101356497775026180">Exploring TypeSafe AI&#39;s Jev: From Text Generation to Software Decisions</a></h3>
+<p>The post introduces TypeSafe AI&#39;s Jev, highlighting that AI can make decisions for software rather than just generate text, outlining Input → Decision → Confidence → Action and Choice → Score → Automation.</p>
+<p><strong>中文摘要：</strong>帖子介绍 TypeSafe AI 的 Jev 模型，强调 AI 可为软件做决策而非仅生成文本，并给出输入→决策→置信度→行动及选择→评分→自动化的流程。</p>
+<p><strong>Muhammad Afzal Soomro</strong> · @yasirso9611047 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/yasirso9611047/status/2101356497775026180">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/narderio/status/2101406000536567927"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Doesn&#39;t Talk, It Decides: Parallel Single Step and Typed Responses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/narderio/status/2101406000536567927">Jev Doesn&#39;t Talk, It Decides: Parallel Single Step and Typed Responses</a></h3>
+<p>The post discusses Jev&#39;s core traits: it doesn&#39;t converse but decides in milliseconds via a parallel single step, typed responses, and calibrated confidence, asking the community for thoughts.</p>
+<p><strong>中文摘要：</strong>帖子讨论 Jev 模型的核心特性：不进行对话，而是通过并行单步、类型化响应和校准置信度在毫秒内做出决策，并询问社区看法。</p>
+<p><strong>Dario Nardella</strong> · @narderio · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/narderio/status/2101406000536567927">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/btc_great101/status/2101199300999164068"><img src="https://pbs.twimg.com/media/HSj1aFGaAAA0PV9?format=jpg&amp;name=medium" alt="Jev Decision Model Draws Attention · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/btc_great101/status/2101199300999164068">Jev Decision Model Draws Attention</a></h3>
+<p>A user shares a first impression of TypeSafe AI&#39;s Jev decision model, finding it intriguing.</p>
+<p><strong>中文摘要：</strong>用户分享对 TypeSafe AI 的 Jev 决策模型的初步印象，认为其颇具新意。</p>
+<p><strong>金星</strong> · @btc_great101 · 2026-09-19</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/btc_great101/status/2101199300999164068">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/googlegemma/status/2101069861598482817"><img src="https://pbs.twimg.com/tweet_video_thumb/HSh_2u5bkAAZpb7.jpg" alt="DiffusionGemma Running as Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/googlegemma/status/2101069861598482817">DiffusionGemma Running as Jev</a></h3>
+<p>Showcases non-autoregressive architectures by running DiffusionGemma in the Jev paradigm, using canvas diffusion to evaluate structured choices in a single parallel pass.</p>
+<p><strong>中文摘要：</strong>展示非自回归架构的潜力，将 DiffusionGemma 以 Jev 范式运行，利用画布扩散在单次并行传递中评估结构化选择。</p>
+<p><strong>Google Gemma</strong> · @googlegemma · 2026-09-18</p>
+<p>💬 49 &nbsp; 🔁 513 &nbsp; ♡ 3.7K &nbsp; 📊 507K</p>
+<p><a href="https://x.com/googlegemma/status/2101069861598482817">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xCodila/status/2101064040332054741"><img src="https://pbs.twimg.com/media/HSh15J1W8AAOjZX?format=jpg&amp;name=medium" alt="Jev: The &#39;Internet&#39; Moment for AI, Up to 193x Faster and 444x Cheaper · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xCodila/status/2101064040332054741">Jev: The &#39;Internet&#39; Moment for AI, Up to 193x Faster and 444x Cheaper</a></h3>
+<p>Introduces how Jev works: LLM writes, agents act, Jev chooses the next move, claiming up to 193x speedup and 444x cost reduction in tests.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 的工作方式：LLM 负责写、智能体负责行动、Jev 选择下一步，并声称在测试中实现最高 193 倍加速和 444 倍成本降低。</p>
+<p><strong>codila</strong> · @0xCodila · 2026-09-18</p>
+<p>💬 72 &nbsp; 🔁 566 &nbsp; ♡ 3.5K &nbsp; 📊 425K</p>
+<p><a href="https://x.com/0xCodila/status/2101064040332054741">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sandyluo459/status/2100760807856652768"><img src="https://pbs.twimg.com/amplify_video_thumb/2100399356381896704/img/hCqqiZJebNGg9YRg.jpg" alt="JEV Model Goes Viral: No Chat, Only Choices · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sandyluo459/status/2100760807856652768">JEV Model Goes Viral: No Chat, Only Choices</a></h3>
+<p>A model called JEV that can&#39;t chat has gone viral, giving only three kinds of choice-based responses instead of writing code or explaining itself.</p>
+<p><strong>中文摘要：</strong>一个不会聊天的模型 JEV 走红，它不写代码、不解释，只给出三种选择类响应，引发 AI 圈讨论。</p>
+<p><strong>Andy</strong> · @sandyluo459 · 2026-09-18</p>
+<p>💬 80 &nbsp; 🔁 77 &nbsp; ♡ 516 &nbsp; 📊 105K</p>
+<p><a href="https://x.com/sandyluo459/status/2100760807856652768">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2100818090733052363"><img src="https://pbs.twimg.com/amplify_video_thumb/2100816301677789184/img/Bo-jLZy4MTDgvWqP.jpg" alt="Visualizing Jev&#39;s Execution Structure with GPT-6 Astra, Contrasting LLM and JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2100818090733052363">Visualizing Jev&#39;s Execution Structure with GPT-6 Astra, Contrasting LLM and JEV</a></h3>
+<p>The post demonstrates visualizing Jev&#39;s execution structure with GPT-6 Astra, using a network disconnection request to contrast how LLM and JEV handle the same sentence.</p>
+<p><strong>中文摘要：</strong>帖子展示用GPT-6 Astra可视化Jev执行结构，并以网络断连求助为例，对比LLM与JEV在处理同一句话时的差异。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-18</p>
+<p>💬 9 &nbsp; 🔁 38 &nbsp; ♡ 228 &nbsp; 📊 99K</p>
+<p><a href="https://x.com/NFT_Chen/status/2100818090733052363">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thisiskp_/status/2100744412271665421"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Understanding Jev in Non-Technical Terms: Why LLMs Feel Slow in Apps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thisiskp_/status/2100744412271665421">Understanding Jev in Non-Technical Terms: Why LLMs Feel Slow in Apps</a></h3>
+<p>A non-technical explanation of Jev: LLMs often feel slow for app work because developers force them to &#39;write&#39; an answer every time, like asking someone to write a full paragraph just to say yes.</p>
+<p><strong>中文摘要：</strong>帖子用非技术友好的方式解释 Jev：LLM 在应用工作中常显得慢，因为开发者迫使它每次都“写”出答案，就像让人写一整段话只为说“是”。</p>
+<p><strong>KP</strong> · @thisiskp_ · 2026-09-18</p>
+<p>💬 36 &nbsp; 🔁 28 &nbsp; ♡ 308 &nbsp; 📊 80K</p>
+<p><a href="https://x.com/thisiskp_/status/2100744412271665421">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jiayuan_jy/status/2100876273061102006"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Skeptical Notes on TypeSafe AI&#39;s Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jiayuan_jy/status/2100876273061102006">Skeptical Notes on TypeSafe AI&#39;s Jev Model</a></h3>
+<p>After a day of research, the author argues Jev may just be a faster general classifier/decision-maker that LLMs can already handle, and notes the lack of parameter scale information.</p>
+<p><strong>中文摘要：</strong>作者花一天研究 Jev 后认为它可能只是更快的通用分类器/决策器，LLM 已能胜任，并指出缺乏参数规模信息。</p>
+<p><strong>Jiayuan (JY) Zhang</strong> · @jiayuan_jy · 2026-09-18</p>
+<p>💬 51 &nbsp; 🔁 46 &nbsp; ♡ 324 &nbsp; 📊 71K</p>
+<p><a href="https://x.com/jiayuan_jy/status/2100876273061102006">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shannholmberg/status/2101050494202634537"><img src="https://pbs.twimg.com/media/HShuSVpbwAAKf9a?format=jpg&amp;name=small" alt="How JEV Works, Simplified · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shannholmberg/status/2101050494202634537">How JEV Works, Simplified</a></h3>
+<p>A user shares initial experience with JEV, explaining how it makes decisions based on provided information, questions, and the type of answer needed.</p>
+<p><strong>中文摘要：</strong>用户分享对 JEV 的初步体验，说明其如何根据提供的信息、问题和所需答案类型做出决策。</p>
+<p><strong>Shann³</strong> · @shannholmberg · 2026-09-18</p>
+<p>💬 25 &nbsp; 🔁 118 &nbsp; ♡ 1.0K &nbsp; 📊 62K</p>
+<p><a href="https://x.com/shannholmberg/status/2101050494202634537">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/masahirochaen/status/2100929058829955418"><img src="https://pbs.twimg.com/amplify_video_thumb/2100929046737747968/img/pxamgPbixugY95UW.jpg" alt="TypeSafeAI&#39;s Jev Compresses Context Without Summarization · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/masahirochaen/status/2100929058829955418">TypeSafeAI&#39;s Jev Compresses Context Without Summarization</a></h3>
+<p>The post praises TypeSafeAI&#39;s Jev for compressing context by filtering history with scores instead of summarization, reducing 156,000 tokens to 62,000 in one shot, and hopes Claude Code and Codex adopt this approach.</p>
+<p><strong>中文摘要：</strong>该帖称赞 TypeSafeAI 的 Jev 通过评分过滤历史记录而非摘要来压缩上下文，可将 156,000 个 token 一次性减少到 62,000 个，并希望 Claude Code 和 Codex 也能采用这一思路。</p>
+<p><strong>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</strong> · @masahirochaen · 2026-09-18</p>
+<p>💬 7 &nbsp; 🔁 32 &nbsp; ♡ 399 &nbsp; 📊 59K</p>
+<p><a href="https://x.com/masahirochaen/status/2100929058829955418">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DeRonin_/status/2100968022110269841"><img src="https://pbs.twimg.com/amplify_video_thumb/2099924273905434624/img/vEtimYy5z2jMtjYy.jpg" alt="4 things to do when you get access to Jev: let Jev make the small choice first · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DeRonin_/status/2100968022110269841">4 things to do when you get access to Jev: let Jev make the small choice first</a></h3>
+<p>Advice: don&#39;t replace your model with Jev, put Jev in front of it. Jev makes the small choice first, and your expensive model only runs when really needed. One email tool swapped 2 AI calls per email for 1 Jev call and kept all their normal functionality.</p>
+<p><strong>中文摘要：</strong>建议不要把 Jev 当作替换模型，而是放在现有模型前面：Jev 先做小选择，昂贵模型只在真正需要时运行。举例称某邮件工具将每封邮件的 2 次 AI 调用换成 1 次 Jev 调用，并保持原有功能。</p>
+<p><strong>Ronin</strong> · @DeRonin_ · 2026-09-18</p>
+<p>💬 28 &nbsp; 🔁 25 &nbsp; ♡ 467 &nbsp; 📊 47K</p>
+<p><a href="https://x.com/DeRonin_/status/2100968022110269841">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/narphorium/status/2100985027093749764"><img src="https://pbs.twimg.com/amplify_video_thumb/2100984200820121600/img/dXya52zCSiVBJVaF.jpg" alt="Building a Natural-Language Reasoning Interpreter for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/narphorium/status/2100985027093749764">Building a Natural-Language Reasoning Interpreter for Jev</a></h3>
+<p>The author notes Jev can&#39;t reason, so they built an interpreter that reasons for it, running a logic language where facts and rules are plain English.</p>
+<p><strong>中文摘要：</strong>作者指出 Jev 无法推理，因此构建了一个解释器来替它推理，运行一种事实和规则均为普通英语的逻辑语言。</p>
+<p><strong>Shawn Simister</strong> · @narphorium · 2026-09-18</p>
+<p>💬 20 &nbsp; 🔁 33 &nbsp; ♡ 493 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/narphorium/status/2100985027093749764">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/masahirochaen/status/2101060047707295821"><img src="https://pbs.twimg.com/amplify_video_thumb/2101059081062752256/img/Ixk4HZTireNgs_E7.jpg" alt="3-Minute Breakdown of Jev: Not Surpassing LLMs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/masahirochaen/status/2101060047707295821">3-Minute Breakdown of Jev: Not Surpassing LLMs</a></h3>
+<p>This post gives a 3-minute breakdown of the Jev model trending on social media, clarifying it does not surpass LLMs but may outperform in specific fields while lacking versatility and intelligence.</p>
+<p><strong>中文摘要：</strong>该帖子用三分钟解读SNS热议的Jev模型，指出其并非超越LLM，而是在特定领域可能表现更好，但通用性和智能仍有不足。</p>
+<p><strong>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</strong> · @masahirochaen · 2026-09-18</p>
+<p>💬 2 &nbsp; 🔁 13 &nbsp; ♡ 194 &nbsp; 📊 24K</p>
+<p><a href="https://x.com/masahirochaen/status/2101060047707295821">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BolhaDevs/status/2101023449636311454"><img src="https://pbs.twimg.com/amplify_video_thumb/2100598828478947328/img/GxuolYN2hom6AXU6.jpg" alt="TypeSafe AI&#39;s Jev Model and RLCD Explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BolhaDevs/status/2101023449636311454">TypeSafe AI&#39;s Jev Model and RLCD Explained</a></h3>
+<p>Mentions TypeSafe AI&#39;s Jev model (Jevons paradox) with RLCD (reinforcement learning for calibrated decisions).</p>
+<p><strong>中文摘要：</strong>提及 TypeSafe AI 的 Jev 模型（Jevons 悖论）与 RLCD（用于校准决策的强化学习）。</p>
+<p><strong>Bolha Dev</strong> · @BolhaDevs · 2026-09-18</p>
+<p>💬 14 &nbsp; 🔁 46 &nbsp; ♡ 520 &nbsp; 📊 20K</p>
+<p><a href="https://x.com/BolhaDevs/status/2101023449636311454">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KinasRemek/status/2100909353163174043"><img src="https://pbs.twimg.com/amplify_video_thumb/2100908930956210176/img/05PNHBIUMOw9p4Pv.jpg" alt="JEV (System-1) called one of the freshest concepts in recent months · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KinasRemek/status/2100909353163174043">JEV (System-1) called one of the freshest concepts in recent months</a></h3>
+<p>The author argues JEV (System-1) will change a great deal, noting current LLMs simulate System-2, and calls the JEV implementation one of the freshest concepts of recent months—seemingly just a dynamic classifier yet surprising.</p>
+<p><strong>中文摘要：</strong>作者认为 JEV（System-1）将带来重大改变，当前 LLM 模拟的是 System-2，而 JEV 的实现是近期最新颖的概念之一，看似只是动态分类器却令人意外。</p>
+<p><strong>Remek Kinas</strong> · @KinasRemek · 2026-09-18</p>
+<p>💬 6 &nbsp; 🔁 8 &nbsp; ♡ 124 &nbsp; 📊 17K</p>
+<p><a href="https://x.com/KinasRemek/status/2100909353163174043">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hi_im_isaac_/status/2100408276949385668"><img src="https://pbs.twimg.com/amplify_video_thumb/2100407646226649088/img/qVPomAIwJ_lKpO2J.jpg" alt="Jev can&#39;t generate text, but it has a lot to say · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hi_im_isaac_/status/2100408276949385668">Jev can&#39;t generate text, but it has a lot to say</a></h3>
+<p>A user gives Jev a few hundred common English words and punctuation to choose from, showing Jev&#39;s selection-based expression beyond text generation.</p>
+<p><strong>中文摘要：</strong>用户给 Jev 提供数百个常用英语单词和标点符号，让它从中选择来表达内容，展示 Jev 在文本生成之外的选择式表达能力。</p>
+<p><strong>Isaac Tai 🧇</strong> · @hi_im_isaac_ · 2026-09-17</p>
+<p>💬 107 &nbsp; 🔁 276 &nbsp; ♡ 4.4K &nbsp; 📊 650K</p>
+<p><a href="https://x.com/hi_im_isaac_/status/2100408276949385668">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taroleo/status/2100697929526972874"><img src="https://pbs.twimg.com/amplify_video_thumb/2100696424019349504/img/FL1N5iURSNwGSB03.jpg" alt="Jev-style local LLM engine: judgment-only inference in 40ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/taroleo/status/2100697929526972874">Jev-style local LLM engine: judgment-only inference in 40ms</a></h3>
+<p>Taro L. Saito notes that, like Jev, a local LLM engine achieves 40ms inference by abandoning text/JSON generation and specializing in judgment, running on DGX Spark.</p>
+<p><strong>中文摘要：</strong>Taro L. Saito 指出，像 Jev 一样，本地 LLM 引擎通过放弃文本/JSON 生成、专注于判断，在 DGX Spark 上实现了 40ms 推理，速度极快。</p>
+<p><strong>Taro L. Saito</strong> · @taroleo · 2026-09-17</p>
+<p>💬 10 &nbsp; 🔁 189 &nbsp; ♡ 1.3K &nbsp; 📊 629K</p>
+<p><a href="https://x.com/taroleo/status/2100697929526972874">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Loran750/status/2100692527829369115"><img src="https://pbs.twimg.com/amplify_video_thumb/2100654321792684032/img/cXvU50KmCe6QFu86.jpg" alt="TypeSafe AI&#39;s Jev: A Different Type of Model That Doesn&#39;t Generate Text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Loran750/status/2100692527829369115">TypeSafe AI&#39;s Jev: A Different Type of Model That Doesn&#39;t Generate Text</a></h3>
+<p>Introduces TypeSafe AI&#39;s Jev model, involving RLHF co-creator Diogo Almeida, highlighting that it doesn&#39;t generate text but takes state inputs, making it a different type of model from ChatGPT.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 推出的 Jev 模型，由 RLHF 共同创建者 Diogo Almeida 参与，强调它不生成文本，而是接收状态输入，属于不同于 ChatGPT 的新类型模型。</p>
+<p><strong>Laurent</strong> · @Loran750 · 2026-09-17</p>
+<p>💬 18 &nbsp; 🔁 78 &nbsp; ♡ 772 &nbsp; 📊 149K</p>
+<p><a href="https://x.com/Loran750/status/2100692527829369115">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fladdict/status/2100552250812928400"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085174826647552/img/6YMRQKKZYBPsW2oo.jpg" alt="How Jev Passes Context and Memory · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fladdict/status/2100552250812928400">How Jev Passes Context and Memory</a></h3>
+<p>A discussion on how Jev passes the context and memory of Mario&#39;s operations when the map is given as structured data.</p>
+<p><strong>中文摘要：</strong>讨论 Jev 在结构化数据场景下如何传递马里奥操作的上下文与记忆。</p>
+<p><strong>深津 貴之 / THE GUILD, note</strong> · @fladdict · 2026-09-17</p>
+<p>💬 6 &nbsp; 🔁 30 &nbsp; ♡ 279 &nbsp; 📊 137K</p>
+<p><a href="https://x.com/fladdict/status/2100552250812928400">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anderslie/status/2100388704644919662"><img src="https://pbs.twimg.com/amplify_video_thumb/2100384704868601856/img/TSBG-jeFfuLlRSOS.jpg" alt="Why Jev Is Faster Than LLMs: Inference Technique Explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anderslie/status/2100388704644919662">Why Jev Is Faster Than LLMs: Inference Technique Explained</a></h3>
+<p>The post argues that Jev&#39;s speed advantage comes from the inference technique, not model training, and that an inference engine can be modified to give any open-weight LLM a performant Jev-like API.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 的速度优势源于推理技术而非模型训练，并说明可通过修改推理引擎，让任意开放权重 LLM 提供类似 Jev 的高性能 API。</p>
+<p><strong>Anders Lie</strong> · @anderslie · 2026-09-17</p>
+<p>💬 37 &nbsp; 🔁 75 &nbsp; ♡ 564 &nbsp; 📊 70K</p>
+<p><a href="https://x.com/anderslie/status/2100388704644919662">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/karminski3/status/2100717944565354595"><img src="https://pbs.twimg.com/media/HSc_s-zaYAAtiMM?format=jpg&amp;name=medium" alt="Intro to the Jev Model: Dropping Autoregression for Decision-Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/karminski3/status/2100717944565354595">Intro to the Jev Model: Dropping Autoregression for Decision-Making</a></h3>
+<p>A brief introduction to the Jev model: it abandons the traditional autoregressive architecture and cannot directly output plain text, but it can make decisions, making it worth special attention.</p>
+<p><strong>中文摘要：</strong>该帖简要介绍 Jev 模型：它不采用传统自回归架构，无法直接输出纯文本，但能够进行决策，值得特别关注。</p>
+<p><strong>karminski-牙医</strong> · @karminski3 · 2026-09-17</p>
+<p>💬 62 &nbsp; 🔁 32 &nbsp; ♡ 343 &nbsp; 📊 66K</p>
+<p><a href="https://x.com/karminski3/status/2100717944565354595">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hot_town/status/2100570516612382787"><img src="https://pbs.twimg.com/amplify_video_thumb/2100567435002724352/img/UurzjWvPkKxTnDkt.jpg" alt="What is Jev: Differences from LLMs, How It Works, and Real-World Examples · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hot_town/status/2100570516612382787">What is Jev: Differences from LLMs, How It Works, and Real-World Examples</a></h3>
+<p>Vinny introduces Jev and answers how it differs from an LLM, how it works under the hood, real-life examples, and when to use it.</p>
+<p><strong>中文摘要：</strong>Vinny 发帖介绍 Jev，并回答它和 LLM 有何不同、底层如何运作、有哪些真实案例以及何时该使用它。</p>
+<p><strong>Vinny</strong> · @hot_town · 2026-09-17</p>
+<p>💬 22 &nbsp; 🔁 89 &nbsp; ♡ 1.2K &nbsp; 📊 58K</p>
+<p><a href="https://x.com/hot_town/status/2100570516612382787">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LinearUncle/status/2100427187572834711"><img src="https://pbs.twimg.com/media/HSY2hD9bgAAVgUf?format=jpg&amp;name=medium" alt="Hands-on with TypeSafe AI&#39;s Jev Model API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LinearUncle/status/2100427187572834711">Hands-on with TypeSafe AI&#39;s Jev Model API</a></h3>
+<p>The author tries TypeSafe AI&#39;s recently popular Jev model, finding it easy to use; from an API perspective, it provides detailed context (state) and then poses a few questions with corresponding options.</p>
+<p><strong>中文摘要：</strong>作者体验了近期热门的 TypeSafe AI Jev 模型，认为其易于使用；从 API 角度看，它提供详细上下文（状态），再给出若干带选项的问题。</p>
+<p><strong>LinearUncle</strong> · @LinearUncle · 2026-09-17</p>
+<p>💬 27 &nbsp; 🔁 38 &nbsp; ♡ 295 &nbsp; 📊 50K</p>
+<p><a href="https://x.com/LinearUncle/status/2100427187572834711">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/koutarou_furuno/status/2100413430494798109"><img src="https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg" alt="Jev as an AI-native if statement: LLMs generate, Jev decides · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/koutarou_furuno/status/2100413430494798109">Jev as an AI-native if statement: LLMs generate, Jev decides</a></h3>
+<p>Koutarou Furuno shares an easy-to-understand explanation of Jev, calling it an if statement for AI natives, and notes that LLMs generate responses while Jev makes decisions.</p>
+<p><strong>中文摘要：</strong>古野光太朗分享了一个关于 Jev 的易懂解释，称其为 AI 原生的 if 语句，并指出 LLM 负责生成响应，而 Jev 负责做决策。</p>
+<p><strong>古野光太朗</strong> · @koutarou_furuno · 2026-09-17</p>
+<p>💬 1 &nbsp; 🔁 13 &nbsp; ♡ 175 &nbsp; 📊 33K</p>
+<p><a href="https://x.com/koutarou_furuno/status/2100413430494798109">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xcherry/status/2100529937488957924"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A High-Speed Model Built for Structured Data Generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xcherry/status/2100529937488957924">Jev: A High-Speed Model Built for Structured Data Generation</a></h3>
+<p>Jev is a high-speed model specialized for serving structured data generation, focusing on this just-need within the broad LLM landscape. Structured data is seen as the electricity, water, and gas of AI work.</p>
+<p><strong>中文摘要：</strong>Jev 是一款专为结构化数据生成服务的高速模型，在广泛的 LLM 需求中精准聚焦于这一刚需场景。结构化数据被视为 AI 工作的水电煤。</p>
+<p><strong>车厘子</strong> · @0xcherry · 2026-09-17</p>
+<p>💬 18 &nbsp; 🔁 18 &nbsp; ♡ 142 &nbsp; 📊 23K</p>
+<p><a href="https://x.com/0xcherry/status/2100529937488957924">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MatijaSosic/status/2100190746389135772"><img src="https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg" alt="Jev Core Idea in 45 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MatijaSosic/status/2100190746389135772">Jev Core Idea in 45 Seconds</a></h3>
+<p>The author shares a 45-second TL;DR video on Jev, finding the core idea simple but the original video hard to follow.</p>
+<p><strong>中文摘要：</strong>作者分享了一段 45 秒的 Jev 总结视频，认为其核心思想简洁，但原视频不易理解。</p>
+<p><strong>Matija Sosic</strong> · @MatijaSosic · 2026-09-16</p>
+<p>💬 220 &nbsp; 🔁 949 &nbsp; ♡ 9.4K &nbsp; 📊 1.6M</p>
+<p><a href="https://x.com/MatijaSosic/status/2100190746389135772">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NathanFlurry/status/2100036101809619314"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="A hype-free explanation of Jev: a really smart switch statement · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NathanFlurry/status/2100036101809619314">A hype-free explanation of Jev: a really smart switch statement</a></h3>
+<p>Nathan Flurry says Jev does not replace GPT or Claude; it is a really smart switch statement that can make many workloads insanely fast, cheap, and accurate.</p>
+<p><strong>中文摘要：</strong>Nathan Flurry 表示 Jev 不替代 GPT 或 Claude，而是一种极智能的 switch 语句，能让许多工作负载变得极快、便宜且准确。</p>
+<p><strong>Nathan Flurry 🔩</strong> · @NathanFlurry · 2026-09-16</p>
+<p>💬 231 &nbsp; 🔁 504 &nbsp; ♡ 7.5K &nbsp; 📊 660K</p>
+<p><a href="https://x.com/NathanFlurry/status/2100036101809619314">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oragnes/status/2100197700960694477"><img src="https://pbs.twimg.com/amplify_video_thumb/2100197222629670912/img/0YYy1JaYpxVOoDXP.jpg" alt="JEV Model: No Text Generation, Focused on Judgment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oragnes/status/2100197700960694477">JEV Model: No Text Generation, Focused on Judgment</a></h3>
+<p>The post notes JEV is today&#39;s hottest AI model, which doesn&#39;t generate text but specializes in judgments, contrasting with mainstream chat models.</p>
+<p><strong>中文摘要：</strong>帖子指出JEV是当前AI领域最热门的模型，它不生成文本，而是专门处理判断，与主流聊天模型形成鲜明对比。</p>
+<p><strong>比特币橙子Trader</strong> · @oragnes · 2026-09-16</p>
+<p>💬 16 &nbsp; 🔁 34 &nbsp; ♡ 267 &nbsp; 📊 553K</p>
+<p><a href="https://x.com/oragnes/status/2100197700960694477">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NielsRogge/status/2100239244501430438"><img src="https://pbs.twimg.com/media/HSWLYi3WcAAOPBs?format=jpg&amp;name=medium" alt="Visual explanation of how Jev works, based on Qwen2.5-RLCD · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NielsRogge/status/2100239244501430438">Visual explanation of how Jev works, based on Qwen2.5-RLCD</a></h3>
+<p>Niels Rogge created a visual explanation of how Jev works using Claude, based on the Qwen2.5-RLCD model released by Harsh Agundal on Hugging Face, replacing autoregressive LLM generation with a single Transformer decoder.</p>
+<p><strong>中文摘要：</strong>Niels Rogge 用 Claude 制作了 Jev 工作原理的可视化解释，基于 Harsh Agundal 在 Hugging Face 发布的 Qwen2.5-RLCD 模型，核心是用单个 Transformer 解码器替代自回归 LLM 生成。</p>
+<p><strong>Niels Rogge</strong> · @NielsRogge · 2026-09-16</p>
+<p>💬 76 &nbsp; 🔁 432 &nbsp; ♡ 3.8K &nbsp; 📊 399K</p>
+<p><a href="https://x.com/NielsRogge/status/2100239244501430438">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anshuc/status/2100246929611411501"><img src="https://pbs.twimg.com/amplify_video_thumb/2100245288183066624/img/ARkl8CTLZxp1KXSa.jpg" alt="Jev Draws by Predicting Pixels in Parallel · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anshuc/status/2100246929611411501">Jev Draws by Predicting Pixels in Parallel</a></h3>
+<p>Jev can generate images by predicting every pixel in parallel.</p>
+<p><strong>中文摘要：</strong>Jev 能够通过并行预测每个像素来生成图像。</p>
+<p><strong>Anshu</strong> · @anshuc · 2026-09-16</p>
+<p>💬 67 &nbsp; 🔁 80 &nbsp; ♡ 1.6K &nbsp; 📊 387K</p>
+<p><a href="https://x.com/anshuc/status/2100246929611411501">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/paarangatrai/status/2100113737097367896"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev vs LLMs: From Generating Answers to Making Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/paarangatrai/status/2100113737097367896">Jev vs LLMs: From Generating Answers to Making Decisions</a></h3>
+<p>The post sums up Jev in one line: LLMs generate answers, Jev makes decisions. The author argues this difference changes the entire use case, citing scenarios like user account history, payment behavior, and support chats.</p>
+<p><strong>中文摘要：</strong>帖子用一句话概括 Jev 的本质：LLM 生成答案，而 Jev 做出决策。作者指出这一差异改变了整个用例，并以用户账户历史、支付行为、支持聊天等场景为例说明。</p>
+<p><strong>Paarangat</strong> · @paarangatrai · 2026-09-16</p>
+<p>💬 82 &nbsp; 🔁 195 &nbsp; ♡ 2.3K &nbsp; 📊 323K</p>
+<p><a href="https://x.com/paarangatrai/status/2100113737097367896">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ryanvogel/status/2100218045549412499"><img src="https://pbs.twimg.com/amplify_video_thumb/2100217973000617984/img/AFareJummI08B_QB.jpg" alt="Building an LLM from First Principles with Jev: A Classifier-Driven Autoregressive Loop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ryanvogel/status/2100218045549412499">Building an LLM from First Principles with Jev: A Classifier-Driven Autoregressive Loop</a></h3>
+<p>The author built an LLM from first principles with Jev: 29 yes/no questions per character predict whether the next key is a–z, space, comma, or period; the highest probability is appended and fed back into the loop, forming an autoregressive process made from a classifier.</p>
+<p><strong>中文摘要：</strong>作者用 Jev 从第一性原理构建了一个 LLM：每个字符通过 29 个是/否问题预测下一个键是字母、空格、逗号还是句号，取最高概率追加后反馈回循环，形成一个由分类器构成的自回归生成过程。</p>
+<p><strong>vogel</strong> · @ryanvogel · 2026-09-16</p>
+<p>💬 71 &nbsp; 🔁 39 &nbsp; ♡ 884 &nbsp; 📊 166K</p>
+<p><a href="https://x.com/ryanvogel/status/2100218045549412499">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kenn/status/2100038567103987920"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A Specialized Model for Parallel Structured Output · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kenn/status/2100038567103987920">Jev: A Specialized Model for Parallel Structured Output</a></h3>
+<p>Introduces Jev as not a regular LLM but a model specialized in parallel structured output: parallel questions return instant 1:1 JSON-like structures with confidence scores.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 并非普通 LLM，而是专为并行结构化输出设计的模型：并行提问可即时返回 1:1 的类 JSON 结构，并附带置信度分数。</p>
+<p><strong>Kenn Ejima</strong> · @kenn · 2026-09-16</p>
+<p>💬 8 &nbsp; 🔁 124 &nbsp; ♡ 841 &nbsp; 📊 131K</p>
+<p><a href="https://x.com/kenn/status/2100038567103987920">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CompleteSkeptic/status/2100239063752257744"><img src="https://pbs.twimg.com/media/HSWMDvoboAAO7No?format=png&amp;name=medium" alt="Jev Model Praised for Intelligence, But Public Evals Are Not a Good Sign · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CompleteSkeptic/status/2100239063752257744">Jev Model Praised for Intelligence, But Public Evals Are Not a Good Sign</a></h3>
+<p>The author says it&#39;s good that people find the Jev model intelligent, but public evals reward bad actors, so they&#39;ve precommitted to de-emphasizing them.</p>
+<p><strong>中文摘要：</strong>作者表示人们认为 Jev 模型智能是好事，但公开评估会奖励不良行为者，因此已预先承诺降低其重要性。</p>
+<p><strong>Diogo Almeida</strong> · @CompleteSkeptic · 2026-09-16</p>
+<p>💬 41 &nbsp; 🔁 27 &nbsp; ♡ 522 &nbsp; 📊 86K</p>
+<p><a href="https://x.com/CompleteSkeptic/status/2100239063752257744">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KSimback/status/2100133074126381506"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Isn&#39;t a Typical LLM: Breaking Down How It Works with an Example · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KSimback/status/2100133074126381506">Jev Isn&#39;t a Typical LLM: Breaking Down How It Works with an Example</a></h3>
+<p>The author argues Jev is novel and useful rather than hype, noting it isn&#39;t a typical prompt-and-response LLM, and plans to break it down with a practical example.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 并非炒作，而是新颖实用的系统，并指出它不是通过提示返回文本的普通 LLM，将用实际例子拆解其工作方式。</p>
+<p><strong>Kevin Simback 🍷</strong> · @KSimback · 2026-09-16</p>
+<p>💬 38 &nbsp; 🔁 25 &nbsp; ♡ 317 &nbsp; 📊 68K</p>
+<p><a href="https://x.com/KSimback/status/2100133074126381506">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cocktailpeanut/status/2100277062309179521"><img src="https://pbs.twimg.com/media/HSWuqu7WYAEUwFS?format=jpg&amp;name=medium" alt="Jev Turns Arbitrary Classification into a Type-Safe Programmable Primitive · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cocktailpeanut/status/2100277062309179521">Jev Turns Arbitrary Classification into a Type-Safe Programmable Primitive</a></h3>
+<p>Jev&#39;s innovation is not reinventing classification, but turning arbitrary classification into a type-safe programmable primitive: a general-purpose zero-shot decision model whose native interface is runtime-defined typed decisions, optimized for that interface.</p>
+<p><strong>中文摘要：</strong>Jev 的创新不在于重新发明分类，而在于将任意分类转化为类型安全的可编程原语：一个通用零样本决策模型，其原生接口是运行时定义的 typed decisions，并针对该接口优化。</p>
+<p><strong>cocktail peanut</strong> · @cocktailpeanut · 2026-09-16</p>
+<p>💬 14 &nbsp; 🔁 51 &nbsp; ♡ 795 &nbsp; 📊 31K</p>
+<p><a href="https://x.com/cocktailpeanut/status/2100277062309179521">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/k_grajeda/status/2099952715430596710"><img src="https://pbs.twimg.com/media/HSSGbsVXAAEi9jw?format=png&amp;name=medium" alt="Jev Model: Decision-Making Probability Generation, 200× Faster and 400× Cheaper Than LLMs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/k_grajeda/status/2099952715430596710">Jev Model: Decision-Making Probability Generation, 200× Faster and 400× Cheaper Than LLMs</a></h3>
+<p>This model is built for decision-making rather than text generation, outputting probabilities for each option in parallel instead of token-by-token responses. The author shares a simplified comparison of normal LLMs versus this Jev model.</p>
+<p><strong>中文摘要：</strong>该模型专为决策而非文本生成设计，并行输出各选项概率，而非逐token生成回复。作者给出普通LLM与该Jev模型的简化对比示例。</p>
+<p><strong>Kevin Grajeda</strong> · @k_grajeda · 2026-09-15</p>
+<p>💬 107 &nbsp; 🔁 412 &nbsp; ♡ 5.7K &nbsp; 📊 645K</p>
+<p><a href="https://x.com/k_grajeda/status/2099952715430596710">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/EthereumThaila1/status/2100003245280399832"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Model Achieves $42 per Billion Tokens via Parallel Computation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/EthereumThaila1/status/2100003245280399832">Jev Model Achieves $42 per Billion Tokens via Parallel Computation</a></h3>
+<p>The post claims Jev uses non-transformer parallel computation at $42 per billion tokens, discusses potential impact on ChatGPT and Anthropic, and suggests a shift toward LLMs as interfaces with a harness backend.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 采用非 transformer 的并行计算方式，成本低至每十亿 token 42 美元，并讨论 ChatGPT 与 Anthropic 可能受到冲击，以及 LLM 作为接口、Harness 作为后端的架构变化。</p>
+<p><strong>Mahachai 🦇🔊</strong> · @EthereumThaila1 · 2026-09-15</p>
+<p>💬 7 &nbsp; 🔁 317 &nbsp; ♡ 439 &nbsp; 📊 49K</p>
+<p><a href="https://x.com/EthereumThaila1/status/2100003245280399832">在 X 查看原帖</a></p>
+</td>
+</tr>
+</table>

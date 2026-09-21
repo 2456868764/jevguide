@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 80 | 37 | 43 | 419K |
+| 82 | 38 | 44 | 419K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/4rcherhume/status/2101965358047596823">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/_evanmccall/status/2101930716108067052"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930183645339648/img/yoMU_n4YbJ-9rWLC.jpg" alt="One-shot complex 3D model with GPT Astra and custom harness, eyeing TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_evanmccall/status/2101930716108067052">One-shot complex 3D model with GPT Astra and custom harness, eyeing TypeSafe Jev</a></h3>
+<p>A developer shares a one-shot complex 3D model generated with GPT Astra and a custom harness, and looks forward to improving the harness with TypeSafe&#39;s new model.</p>
+<p><strong>中文摘要：</strong>开发者分享用 GPT Astra 和自建 harness 一次性生成复杂 3D 模型，并表示期待用 TypeSafe 的新模型改进 harness。</p>
+<p><strong>Evan McCall</strong> · @_evanmccall · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
+<p><a href="https://x.com/_evanmccall/status/2101930716108067052">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Ownerthoughts/status/2101900767397331114"><img src="https://pbs.twimg.com/amplify_video_thumb/2101900725450162176/img/hoW_DMv_5aLJu7cH.jpg" alt="Laya: An Open Local Alternative to Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 39</p>
 <p><a href="https://x.com/Ownerthoughts/status/2101900767397331114">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nanomix_chip/status/2101944158269350078"><img src="https://pbs.twimg.com/media/HSualNwaoAARFMG?format=jpg&amp;name=900x900" alt="Building an expression mapping table for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 37</p>
 <p><a href="https://x.com/nanomix_chip/status/2101944158269350078">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kishi27/status/2101952455177277748"><img src="https://pbs.twimg.com/media/HSuiDYobIAAQyur?format=jpg&amp;name=medium" alt="New Book &#39;Introduction to Jev&#39; Released: Receiving AI Judgments in Fixed Patterns · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/kishi27/status/2101952455177277748">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101897493088756175"><img src="https://pbs.twimg.com/media/HStwoQAWEAANCWo?format=jpg&amp;name=900x900" alt="Jev Use Cases and Demos Collection · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/kraayenJon/status/2101897493088756175">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arash_khajelou/status/2101895891494088713"><img src="https://pbs.twimg.com/media/HStvDxobMAA_E2d?format=png&amp;name=900x900" alt="Jev AI Quiz Entry Experience · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +164,17 @@
 <p><strong>Arash Khajelou</strong> · @arash_khajelou · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/arash_khajelou/status/2101895891494088713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NerdInTokyo/status/2101987586160083216"><img src="https://pbs.twimg.com/media/HSvCkKyboAARiWj?format=jpg&amp;name=medium" alt="JevTex: Checking TeX Equation Transformations with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NerdInTokyo/status/2101987586160083216">JevTex: Checking TeX Equation Transformations with Jev</a></h3>
+<p>JevTex visualizes Jev&#39;s verdicts on a PDF: error candidates in red and undecided cases in yellow, for checking TeX equation transformations.</p>
+<p><strong>中文摘要：</strong>JevTex 将 Jev 的判定结果可视化到 PDF 上：错误候选标红，判断保留标黄，用于检查 TeX 公式变形。</p>
+<p><strong>チベスナ</strong> · @NerdInTokyo · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/NerdInTokyo/status/2101987586160083216">在 X 查看原帖</a> · <a href="https://t.co/KI0Vjg5IpC">原文链接</a></p>
 </td>
 </tr>
 <tr>

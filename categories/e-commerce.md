@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 7 | 7 | 0 | 231K |
+| 8 | 8 | 0 | 231K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/okyanusi23/status/2101991099401474268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101990891821137920/pu/img/fsB_StJAjiFA5xVt.jpg" alt="Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/okyanusi23/status/2101991099401474268">Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds</a></h3>
+<p>The post positions Jev as a model for the second phase of AI: it decides rather than writes, citing an example of filtering 10 Amazon products in 3.71 seconds.</p>
+<p><strong>中文摘要：</strong>帖子将 Jev 定位为 AI 第二阶段的代表模型：不生成文本而是做决策，并举例在 3.71 秒内筛选 10 个亚马逊产品。</p>
+<p><strong>Akin Yilmaz</strong> · @okyanusi23 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/okyanusi23/status/2101991099401474268">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>电商</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 12 &nbsp; 🔁 10 &nbsp; ♡ 308 &nbsp; 📊 20K</p>
 <p><a href="https://x.com/dbillson/status/2101657637871837578">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101540945946968358"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Jev Enables Real-Time Virtual Fitting in 1 Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 101</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101540945946968358">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nailthy62/status/2101388186916454439"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Real-time virtual try-on with Jev: ~620ms and $0.0011 per decision · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 103 &nbsp; 🔁 204 &nbsp; ♡ 2.5K &nbsp; 📊 231K</p>
 <p><a href="https://x.com/nailthy62/status/2101388186916454439">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikunj/status/2101006585481073093"><img src="https://pbs.twimg.com/amplify_video_thumb/2101005796603809792/img/19SyyiWW5wotfFfW.jpg" alt="Jev scores 3,000 kid snacks in 28 seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 18 &nbsp; 🔁 36 &nbsp; ♡ 740 &nbsp; 📊 91K</p>
 <p><a href="https://x.com/nikunj/status/2101006585481073093">在 X 查看原帖</a> · <a href="https://t.co/KSiodPdZHT">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ego_agent/status/2100970015977804008"><img src="https://pbs.twimg.com/amplify_video_thumb/2100969567715790848/img/IXAgXZrtsLGyeYRA.jpg" alt="ego lite + Jev + DeepSeek Flash enables fast e-commerce decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,5 @@
 <p>💬 30 &nbsp; 🔁 62 &nbsp; ♡ 751 &nbsp; 📊 60K</p>
 <p><a href="https://x.com/ego_agent/status/2100970015977804008">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

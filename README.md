@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1393</strong><br>curated posts</td>
-<td align="center"><strong>816</strong><br>original videos</td>
+<td align="center"><strong>1429</strong><br>curated posts</td>
+<td align="center"><strong>840</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>173</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>178</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>167</strong> showcases · <strong>83</strong> videos</p>
+<p><strong>174</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>164</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>169</strong> showcases · <strong>90</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>152</strong> showcases · <strong>124</strong> videos</p>
+<p><strong>153</strong> showcases · <strong>125</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>91</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>93</strong> showcases · <strong>55</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>90</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>91</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>89</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>90</strong> showcases · <strong>50</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>78</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>82</strong> showcases · <strong>35</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>66</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>51</strong> showcases · <strong>45</strong> videos</p>
+<p><strong>53</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>50</strong> showcases · <strong>36</strong> videos</p>
+<p><strong>52</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>33</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>35</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>33</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>34</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>15</strong> showcases · <strong>10</strong> videos</p>
+<p><strong>16</strong> showcases · <strong>11</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>8</strong> showcases · <strong>4</strong> videos</p>
+<p><strong>9</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 </tr>
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2102008693126570269"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Jev Engineering: Turning an Agent Stack into a Real Control System · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2102008693126570269">Jev Engineering: Turning an Agent Stack into a Real Control System</a></h3>
+<p>Explains how Jev engineering turns an agent stack into a real control system, claiming up to 193x faster and 444x cheaper decisions, with a linked build guide.</p>
+<p><strong>22K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 20 &nbsp; 📊 22K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/karminski3/status/2101923782407639249"><img src="https://pbs.twimg.com/media/HSuIhVLa4AAtppC?format=png&amp;name=medium" alt="Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/karminski3/status/2101923782407639249">Fastest Quantum Jev Coming Soon: 0.12ms per Inference, 400x Performance</a></h3>
 <p>The author teases the fastest quantum Jev yet: 0.12ms per inference, 400x Jev&#39;s performance, free of charge, and capable of solving problems Jev cannot. Details and open-source release coming soon.</p>
 <p><strong>13K</strong> views · 💬 15 &nbsp; 🔁 4 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
 <p><strong>karminski-牙医</strong> · @karminski3</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
 <p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
 <p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/crypto_banter/status/2101943143331438780"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943060942786561/img/DmnACYGiCDyJTFE9.jpg" alt="Jev Goes Live on Venice&#39;s Private AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/crypto_banter/status/2101943143331438780">Jev Goes Live on Venice&#39;s Private AI</a></h3>
-<p>Jev is now live on Venice, adding an extra paid use to Venice&#39;s private AI.</p>
-<p><strong>3.9K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 3.9K</p>
-<p><strong>Crypto Banter</strong> · @crypto_banter</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2101902995331924145">Claude Code Mod Adds Jev Routing</a></h3>
+<p>The mod adds Jev routing to every request via the Typesafe AI API or Vercel AI Gateway, automatically classifying subagent model, main model, and effort level with a single install command.</p>
+<p><strong>12K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/crypto_banter/status/2101943143331438780"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943060942786561/img/DmnACYGiCDyJTFE9.jpg" alt="Jev Goes Live on Venice&#39;s Private AI · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/crypto_banter/status/2101943143331438780">Jev Goes Live on Venice&#39;s Private AI</a></h3>
 <p>Jev is now live on Venice, adding an extra paid use to Venice&#39;s private AI.</p>
 <p><strong>3.9K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 3.9K</p>
 <p><strong>Crypto Banter</strong> · @crypto_banter</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/ai_xiaomu/status/2101946636658442690"><img src="https://pbs.twimg.com/amplify_video_thumb/2101946443183562752/img/gMXG3RMID4SIyqC8.jpg" alt="If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ai_xiaomu/status/2101946636658442690">If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With?</a></h3>
-<p>Huang Xiaomu asks how much $10,000 given to Jev for stock trading would turn into, noting it is not investment advice.</p>
-<p><strong>2.5K</strong> views · 💬 7 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 2.5K</p>
-<p><strong>黄小木</strong> · @ai_xiaomu</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/JulianGoldieSEO/status/2101941004362264767"><img src="https://pbs.twimg.com/amplify_video_thumb/2101940010245345280/img/-1i23d8TDWFAcU2n.jpg" alt="Jev Browser Search Query Design: Word Slicing and Exact Copying · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JulianGoldieSEO/status/2101941004362264767">Jev Browser Search Query Design: Word Slicing and Exact Copying</a></h3>
-<p>The post describes the Jev browser&#39;s design for search queries: user words are sliced into options, Jev chooses the right slice, and code copies it exactly, with a mention of page actions.</p>
-<p><strong>1.3K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.3K</p>
-<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/MakeAI_CEO/status/2102010126043660645"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009913690222592/img/iRFsgYp8UZILddXa.jpg" alt="Generating slides with Codex and judging accuracy with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MakeAI_CEO/status/2102010126043660645">Generating slides with Codex and judging accuracy with Jev</a></h3>
+<p>A user shares a workflow of generating slides with Codex and using Jev to judge accuracy and content, saying no extra slide-generation skill is needed.</p>
+<p><strong>1.6K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.6K</p>
+<p><strong>mana｜株式会社MakeAI CEO</strong> · @MakeAI_CEO</p>
 </td>
 </tr>
 </table>

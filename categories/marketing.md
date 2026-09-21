@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 51 | 45 | 6 | 904K |
+| 53 | 47 | 6 | 904K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chesny/status/2102008701754409204"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008560356044801/img/9EM4dd1bDUSkylOi.jpg" alt="Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chesny/status/2102008701754409204">Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads</a></h3>
+<p>Jev simulated 30 distinct buyer profiles scrolling through 723 ads, making 21,690 stop-or-keep-scrolling decisions for 22 cents.</p>
+<p><strong>中文摘要：</strong>Jev 模拟 30 个不同买家画像浏览 723 条广告，做出 21,690 次停留或继续滚动决策，成本仅 22 美分。</p>
+<p><strong>Chesny</strong> · @chesny · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 15 &nbsp; 📊 515</p>
+<p><a href="https://x.com/chesny/status/2102008701754409204">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/chesny/status/2101938912423735654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937911113351168/img/HZzwSsZhAbcKs_ze.jpg" alt="Jev Analyzes 724 Ads in 40 Seconds for 9 Cents · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Chesny</strong> · @chesny · 2026-09-21</p>
 <p>💬 10 &nbsp; 🔁 6 &nbsp; ♡ 20 &nbsp; 📊 438</p>
 <p><a href="https://x.com/chesny/status/2101938912423735654">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zrebroia/status/2102010035262079476"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009710589476864/img/jBDI5jrKIkd6iL5H.jpg" alt="Jev Runs Ad Marketing Operations for Under $3 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zrebroia/status/2102010035262079476">Jev Runs Ad Marketing Operations for Under $3</a></h3>
+<p>Jev scans every active competitor ad, tagging by hook, format, and survival rate—430 ads per second at $0.6 spent.</p>
+<p><strong>中文摘要：</strong>Jev 扫描竞品所有活跃广告，按钩子、格式和存活率打标签，每秒读取 430 条广告，花费 0.6 美元。</p>
+<p><strong>zre</strong> · @zrebroia · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 417</p>
+<p><a href="https://x.com/zrebroia/status/2102010035262079476">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/laobaishare/status/2102011768818282773"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102011712014839808/pu/img/l1JzTwCxRQHV2JCD.jpg" alt="JEV Cuts SEO/GEO Agent Run Cost by 10x · 原帖视频截图" width="100%"></a>

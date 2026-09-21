@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 33 | 31 | 3 | 101K |
+| 35 | 33 | 3 | 101K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/SethCronin/status/2102008307128967435"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Models Collaborate for Live Improvisational Music · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SethCronin/status/2102008307128967435">Jev Models Collaborate for Live Improvisational Music</a></h3>
+<p>Seth Cronin shares a weekend project where Jev models choose every note played by every instrument in a live jam, showcasing speed and cost advantages for musical collaboration.</p>
+<p><strong>中文摘要：</strong>Seth Cronin 分享了一个周末项目，让 Jev 模型在实时即兴演奏中选择每个乐器的每个音符，展示其速度与成本优势在音乐协作中的应用。</p>
+<p><strong>Seth Cronin</strong> · @SethCronin · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/SethCronin/status/2102008307128967435">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/garrrikkotua/status/2102000382612295744"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997452370796544/img/mV0n2InAuESEfMB6.jpg" alt="Jev + Octolens: Score Your Posts Against Yourself · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>内容创作</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/garrrikkotua/status/2102000382612295744">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Dantelarroy/status/2102012648569069874"><img src="https://pbs.twimg.com/amplify_video_thumb/2102011102787731456/img/-ZL6OwGTdT33_w8k.jpg" alt="JEV Music Button: Describe a Feeling and It Plays · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Dantelarroy/status/2102012648569069874">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yz_chow/status/2102002798640714154"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002356921700352/img/Nvz0ZA6J_4EbUp7t.jpg" alt="Auto-editing Apple Event Clips with Codex, Jev, and Jianying · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/yz_chow/status/2102002798640714154">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LongChen8asr/status/2101904162447556648"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903869345501184/img/zkRooacuKzJ9sjsz.jpg" alt="Jev Creates Stunning Demo Video for VoiceCursor · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/LongChen8asr/status/2101904162447556648">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/techduckyyy/status/2101904456384454747"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Combining Jev with Meta SAM 3.1 for Video Editing · 原帖视频截图" width="100%"></a>
 <br>
@@ -151,6 +164,17 @@
 <p><strong>Tech Ducky</strong> · @techduckyyy · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/techduckyyy/status/2101904456384454747">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Citronetic/status/2102008256575259093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008222764986368/img/XjHezh5jS56a33C8.jpg" alt="JEV parses video into typed structure, copiecat.ai builds editable production plan · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Citronetic/status/2102008256575259093">JEV parses video into typed structure, copiecat.ai builds editable production plan</a></h3>
+<p>JEV parses a video link into a typed structure (shots, lines, cast, timing), and copiecat.ai turns it into an editable production plan—two layers, neither a prompt.</p>
+<p><strong>中文摘要：</strong>JEV 将视频链接解析为类型化结构（镜头、台词、演员、时间），copiecat.ai 据此生成可编辑的制作计划，两层均非提示词。</p>
+<p><strong>copiecat</strong> · @Citronetic · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/Citronetic/status/2102008256575259093">在 X 查看原帖</a> · <a href="https://t.co/wjuB0MavC3">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 50 | 36 | 14 | 595K |
+| 52 | 38 | 14 | 595K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/RoundtableSpace/status/2101940744202424479">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/MakeAI_CEO/status/2102010126043660645"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009913690222592/img/iRFsgYp8UZILddXa.jpg" alt="Generating slides with Codex and judging accuracy with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MakeAI_CEO/status/2102010126043660645">Generating slides with Codex and judging accuracy with Jev</a></h3>
+<p>A user shares a workflow of generating slides with Codex and using Jev to judge accuracy and content, saying no extra slide-generation skill is needed.</p>
+<p><strong>中文摘要：</strong>用户分享用 Codex 生成幻灯片、再用 Jev 判定精度和内容的流程，认为无需额外购买幻灯片生成技能。</p>
+<p><strong>mana｜株式会社MakeAI CEO</strong> · @MakeAI_CEO · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/MakeAI_CEO/status/2102010126043660645">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101941761694450078"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941540382023680/img/rWg1RQAfKO8Dbh0c.jpg" alt="First Jev AI Builds: A Decision-Only Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 608</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101941761694450078">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LufzzLiz/status/2101948034464805040"><img src="https://pbs.twimg.com/media/HSucc5rb0AAWNs2?format=jpg&amp;name=medium" alt="Jev for Computer Use: Experiments Paired with Grok Bot · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 482</p>
 <p><a href="https://x.com/LufzzLiz/status/2101948034464805040">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101914814322995557"><img src="https://pbs.twimg.com/media/HSuAYRdbcAARIJ5?format=png&amp;name=small" alt="Jev AI sorts your follow-up list so nothing slips through · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 469</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101914814322995557">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/alacheng/status/2102008377450590408"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937393964404736/img/Cn8OIz-K2jNGrCk9.jpg" alt="Jev for Browser Automation: Action Selection Prediction · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/alacheng/status/2102008377450590408">Jev for Browser Automation: Action Selection Prediction</a></h3>
+<p>Introduces a practical Jev use case in browser automation: predicting action selection from a closed list of browser actions, combining the previous action, task goal, and structured DOM.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 在浏览器自动化中的实用场景：在封闭的浏览器动作列表中，结合上次动作、任务目标和结构化 DOM 进行选择预测。</p>
+<p><strong>头雁</strong> · @alacheng · 2026-09-21</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 231</p>
+<p><a href="https://x.com/alacheng/status/2102008377450590408">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

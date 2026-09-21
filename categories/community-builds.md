@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 78 | 34 | 45 | 3.0M |
+| 82 | 35 | 48 | 3.0M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/kzkhykw/status/2101953053788377502">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/chumsdock/status/2102009875618496816"><img src="https://pbs.twimg.com/media/HSvWPsLa0AAqKTd?format=jpg&amp;name=medium" alt="Hands-on Feedback on Using Jev in Browser Use Scenarios · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/chumsdock/status/2102009875618496816">Hands-on Feedback on Using Jev in Browser Use Scenarios</a></h3>
+<p>After seriously using Jev in Browser Use scenarios, the author finds it neither unusable nor without benefit, but of limited necessity; for non-one-shot scenarios, switching to Jev may yield less than optimizing the LLM harness first.</p>
+<p><strong>中文摘要：</strong>作者在 Browser Use 场景中严肃使用 Jev 后认为，并非不能用也非无收益，但必要性有限；若场景不是单次调用，改用 Jev 的收益可能不如先优化 LLM Harness。</p>
+<p><strong>Cheng</strong> · @chumsdock · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 82</p>
+<p><a href="https://x.com/chumsdock/status/2102009875618496816">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/aad34210/status/2101837143576662211"><img src="https://pbs.twimg.com/media/HSs5HvybkAAgxSk?format=jpg&amp;name=medium" alt="User Tests TypeSafe Jev: State and Questions Drive Fast Evaluations · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
 <p><a href="https://x.com/aad34210/status/2101837143576662211">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101896366297329693"><img src="https://pbs.twimg.com/media/HStvmorXMAEVHBS?format=jpg&amp;name=medium" alt="Made With Jev Documents ~300 Creative Builds on Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 63</p>
 <p><a href="https://x.com/kraayenJon/status/2101896366297329693">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2101896621524914485"><img src="https://pbs.twimg.com/media/HStv1ivXYAACJw3?format=jpg&amp;name=medium" alt="Made With JEV Documents Over 300 Demos · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 56</p>
 <p><a href="https://x.com/kraayenJon/status/2101896621524914485">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/suna_gaku/status/2101912767922073870"><img src="https://pbs.twimg.com/media/HSt-Yv3bMAAoDqv?format=jpg&amp;name=small" alt="Building a &quot;Girlfriend Check&quot; App with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 55</p>
 <p><a href="https://x.com/suna_gaku/status/2101912767922073870">在 X 查看原帖</a> · <a href="https://t.co/e8uW11N0zP">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VaibhavSisinty/status/2101951603838525515"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Open-source Jev clone Laya-MLX runs locally on a MacBook · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Vaibhav Sisinty</strong> · @VaibhavSisinty · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
 <p><a href="https://x.com/VaibhavSisinty/status/2101951603838525515">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2102010071169245322"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009915829043201/img/wE4hlzH5LZt6tBHD.jpg" alt="Jev Use Case Directory Surpasses 300 Projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2102010071169245322">Jev Use Case Directory Surpasses 300 Projects</a></h3>
+<p>The author is building a directory of Jev use cases, already featuring 300+ projects, and invites others to submit their own.</p>
+<p><strong>中文摘要：</strong>作者正在构建 Jev 用例目录，目前已收录 300 多个项目，并开放提交自己的项目。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><a href="https://x.com/kraayenJon/status/2102010071169245322">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -199,6 +223,30 @@
 <p><strong>Prabahan Kalita</strong> · @prabahankalita · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/prabahankalita/status/2101901789398478955">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/caliafp/status/2102009818168820048"><img src="https://pbs.twimg.com/media/HSvWsE0WMAAdCZj?format=png&amp;name=small" alt="Community discussion: more proof Chinese open-source models were used to build Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/caliafp/status/2102009818168820048">Community discussion: more proof Chinese open-source models were used to build Jev</a></h3>
+<p>Francesco Calia posts that there is more proof Chinese open-source models were used to build Jev, sparking community discussion about Jev&#39;s technical origins.</p>
+<p><strong>中文摘要：</strong>Francesco Calia 发帖称有更多证据表明中国开源模型被用于构建 Jev，引发社区对 Jev 技术来源的讨论。</p>
+<p><strong>Francesco Calia</strong> · @caliafp · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/caliafp/status/2102009818168820048">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/svencreations/status/2102007851459748295"><img src="https://pbs.twimg.com/media/HSvU_0HakAAJXZt?format=jpg&amp;name=medium" alt="On &quot;Jev killers&quot; and retweeting without trying · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/svencreations/status/2102007851459748295">On &quot;Jev killers&quot; and retweeting without trying</a></h3>
+<p>The author notes that creators claiming their new tool &quot;killed&quot; a competitor is understandable marketing, but the worrying part is people retweeting without trying it; he has seen at least 10–20 so-called &quot;Jev killers&quot; (@typesafeai) on his timeline and tried a few himself.</p>
+<p><strong>中文摘要：</strong>作者指出，创作者宣称新工具“杀死”竞品属于营销手段，但更令人担忧的是人们未经试用就转发；他已在时间线上看到至少 10–20 个所谓“Jev 杀手”（@typesafeai），并亲自试用了其中几个。</p>
+<p><strong>Manoj Rajendiran</strong> · @svencreations · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/svencreations/status/2102007851459748295">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

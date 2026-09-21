@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 91 | 54 | 40 | 1.1M |
+| 93 | 55 | 41 | 1.1M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/sl1ma4/status/2102008698767904981"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008616169443328/img/AMz6swTuWKkOWr90.jpg" alt="Open-source alternative to Jev emerges: Laya, a 421M decision model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sl1ma4/status/2102008698767904981">Open-source alternative to Jev emerges: Laya, a 421M decision model</a></h3>
+<p>The post says an open-source alternative to Jev has appeared: Laya, a 421M-parameter model built for making decisions rather than generating text, running locally on a laptop or phone with under 1GB of memory and supporting structured decisions.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 出现了开源替代方案 Laya：一个 421M 参数、专为做决策而非生成文本设计的模型，可在笔记本或手机上本地运行，内存占用低于 1GB，并支持结构化决策。</p>
+<p><strong>Artem</strong> · @sl1ma4 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 132</p>
+<p><a href="https://x.com/sl1ma4/status/2102008698767904981">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/0xfuckpoverty/status/2101903372001403372"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902109364871168/img/6H5vZwIGw2dTaDW-.jpg" alt="Jev CEO on the End of the ChatGPT Era and What He&#39;s Building · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 67</p>
 <p><a href="https://x.com/0xfuckpoverty/status/2101903372001403372">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepthiConnects/status/2101854584507642073"><img src="https://pbs.twimg.com/media/HStJmXlbMAAfKXX?format=jpg&amp;name=medium" alt="Jev opens to everyone: no waitlist, $5 free credit · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Deepthi Connects</strong> · @DeepthiConnects · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/DeepthiConnects/status/2101854584507642073">在 X 查看原帖</a> · <a href="https://t.co/hyGRHTAQwY">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mushman1970/status/2102010451299111033"><img src="https://pbs.twimg.com/media/HSvXXdmWEAA6bKo?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: Typed Probabilistic Decisions Instead of Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mushman1970/status/2102010451299111033">TypeSafe AI Launches Jev: Typed Probabilistic Decisions Instead of Text</a></h3>
+<p>TypeSafe AI introduces Jev, which returns typed, probabilistic decisions instead of text. Launch demand briefly knocked out the API, and it raised a $40M seed led by DCVC.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 推出 Jev 模型，不返回文本，而是输出类型化、概率化的决策。发布时需求过高导致 API 短暂中断，并完成由 DCVC 领投的 4000 万美元种子轮融资。</p>
+<p><strong>버섯돌이(Taehyun Kim)</strong> · @mushman1970 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/mushman1970/status/2102010451299111033">在 X 查看原帖</a> · <a href="https://t.co/NMMTsSTeZi">原文链接</a></p>
 </td>
 </tr>
 <tr>

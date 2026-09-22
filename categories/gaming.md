@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 184 | 148 | 39 | 588K |
+| 186 | 148 | 41 | 588K |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/geeorgey/status/2102209700087636292"><img src="https://pbs.twimg.com/media/HSyMfelasAAIe4F?format=jpg&amp;name=medium" alt="26-Hour Minecraft Survival: Jev Handles Mining Decisions, Codex Handles Strategy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/geeorgey/status/2102209700087636292">26-Hour Minecraft Survival: Jev Handles Mining Decisions, Codex Handles Strategy</a></h3>
+<p>The author shares Minecraft survival progress: about 26 hours in, with 2 spare shields and 15 cooked food, and a diamond pickaxe crafted. Simple movement and instant stop are handled locally, Jev handles mining decisions, and Codex handles strategy and corrections.</p>
+<p><strong>中文摘要：</strong>作者分享Minecraft生存进展：已进行约26小时，备有2面盾牌和15份熟食，制作了钻石镐。简单移动和即时停止由本地处理，Jev负责采掘等判断，Codex负责策略与修正。</p>
+<p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 93</p>
+<p><a href="https://x.com/geeorgey/status/2102209700087636292">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/eng_ahmd/status/2102233195294920886"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231639996665856/img/ui52kTGQtdvpiHKl.jpg" alt="Laya (Jev-like model) plays Breakout locally in real time · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
 <p><a href="https://x.com/eng_ahmd/status/2102233195294920886">在 X 查看原帖</a> · <a href="https://t.co/8v0dnXCnQ1">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/paulocoutinhox/status/2102233895785710058"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local Laya model beats cloud-based Jev in Tetris · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/paulocoutinhox/status/2102233895785710058">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dodoaiaikk/status/2102216221085278620"><img src="https://pbs.twimg.com/media/HSySgpXacAAfPxq?format=jpg&amp;name=medium" alt="Jev-based lateral thinking quiz game &quot;Jev Turtle Soup&quot; · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
 <p><a href="https://x.com/dodoaiaikk/status/2102216221085278620">在 X 查看原帖</a> · <a href="https://t.co/IyqwsNdNnI">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eric_khun/status/2102221150323401209"><img src="https://pbs.twimg.com/media/HSyW_viWwAA-BDK?format=jpg&amp;name=medium" alt="JEV Model Powers Online Pong Match at Extremely Low Cost · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/eric_khun/status/2102221150323401209">在 X 查看原帖</a> · <a href="https://t.co/S4P1jVucdF">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/seanbauman/status/2102221565811396951"><img src="https://pbs.twimg.com/amplify_video_thumb/2102221538283880448/img/gUDgUOuddHh6EgRM.jpg" alt="Jev Plays Asteroids via Plain-English Descriptions · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/seanbauman/status/2102221565811396951">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/takaoken/status/2102218089383497730"><img src="https://pbs.twimg.com/media/HSyTwh0aYAAQGpx?format=jpg&amp;name=medium" alt="Building a Daifugo Game with Jev: Strategy and Cost Test · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/takaoken/status/2102218089383497730">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Icaro_333/status/2102242170191179948"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242076586844160/img/XGjQgpPdzzUyvFoG.jpg" alt="Building a Game for Jev to Play · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/Icaro_333/status/2102242170191179948">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/goutoberry/status/2102231550335320533"><img src="https://pbs.twimg.com/media/HSygarBWEAAIWDO?format=jpg&amp;name=medium" alt="Jev Plays Soccer: Jevball Experiment · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
 <p><a href="https://x.com/goutoberry/status/2102231550335320533">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GodName794/status/2102199799160475707"><img src="https://pbs.twimg.com/amplify_video_thumb/2102198809472425984/img/Xw6Vbyb4LLJV4Dff.jpg" alt="Playing Chess with the Jev Model: Algorithmic Prediction vs. Model Judgment · 原帖视频截图" width="100%"></a>
 <br>
@@ -188,6 +199,19 @@
 <p><strong>GOGOGO</strong> · @GodName794 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/GodName794/status/2102199799160475707">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ezeugo__/status/2102207212986724814"><img src="https://pbs.twimg.com/media/HSyKRfEXIAE-iqB?format=jpg&amp;name=medium" alt="Playing Chess with Jev: Board State and choice() Move Experiment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ezeugo__/status/2102207212986724814">Playing Chess with Jev: Board State and choice() Move Experiment</a></h3>
+<p>The author built a chess playground to play against Jev, feeding each position as board state with all legal moves as choice() inputs, and concludes the result is far from AGI.</p>
+<p><strong>中文摘要：</strong>作者构建了一个与 Jev 对弈国际象棋的 playground，每个局面把棋盘作为状态、所有合法走法作为 choice() 输入，并评价结果远未达到 AGI。</p>
+<p><strong>ezeugo</strong> · @ezeugo__ · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/ezeugo__/status/2102207212986724814">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/heyxviraj/status/2102048070649405592"><img src="https://pbs.twimg.com/amplify_video_thumb/2102047920615010304/img/QCMIJCwgr2kpZZ-S.jpg" alt="Jev and Laya Play the Chrome Dinosaur Game Against Each Other · 原帖视频截图" width="100%"></a>

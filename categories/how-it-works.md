@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 233 | 109 | 124 | 1.6M |
+| 239 | 113 | 127 | 1.6M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/0xCheshire/status/2102215796936319114">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/shreyshahi/status/2102211285605830744"><img src="https://pbs.twimg.com/media/HSyMpUlbIAA6Zyi?format=jpg&amp;name=medium" alt="User questions Jev model calibration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shreyshahi/status/2102211285605830744">User questions Jev model calibration</a></h3>
+<p>User @shreyshahi asks @typesafeai whether the Jev model is miscalibrated here, questioning if the result should be 50/50.</p>
+<p><strong>中文摘要：</strong>用户 @shreyshahi 向 @typesafeai 提问，认为 Jev 模型在此处可能校准有误，并询问结果是否应为 50/50。</p>
+<p><strong>shreyshahi</strong> · @shreyshahi · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 751</p>
+<p><a href="https://x.com/shreyshahi/status/2102211285605830744">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/e_opore/status/2102245534350430668"><img src="https://pbs.twimg.com/amplify_video_thumb/2102244438919553024/img/0-TNY8iPov1wWMRr.jpg" alt="LLMs vs Jev: TypeSafe&#39;s System One Decision Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 466</p>
 <p><a href="https://x.com/e_opore/status/2102245534350430668">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maheshnani122/status/2102239463028265387"><img src="https://pbs.twimg.com/media/HSw0lbLbQAAZNp8?format=jpg&amp;name=medium" alt="How JEV Makes Structured LLM Outputs Faster · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 9 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 408</p>
 <p><a href="https://x.com/maheshnani122/status/2102239463028265387">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Aditya_181105/status/2102238625199198500"><img src="https://pbs.twimg.com/media/HSym4s2aAAAfwpd?format=jpg&amp;name=small" alt="Jev doesn&#39;t code or chat—it just makes fast decisions for software · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Aditya</strong> · @Aditya_181105 · 2026-09-22</p>
 <p>💬 23 &nbsp; 🔁 1 &nbsp; ♡ 28 &nbsp; 📊 397</p>
 <p><a href="https://x.com/Aditya_181105/status/2102238625199198500">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nlycskn/status/2102210794993885593"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102180808039469056/pu/img/EzsaVfk6eF4pr-7K.jpg" alt="Video Explains How Jev&#39;s Token-by-Token Generation Changes Cost and Speed · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nlycskn/status/2102210794993885593">Video Explains How Jev&#39;s Token-by-Token Generation Changes Cost and Speed</a></h3>
+<p>Nilay Coskun shares a video noting token-by-token generation makes tokens cheaper and responses faster, reminding us to use the right model for the right task.</p>
+<p><strong>中文摘要：</strong>Nilay Coskun 分享视频，指出逐 token 生成让 token 更便宜、响应更快，并提醒为合适任务选择合适模型。</p>
+<p><strong>Nilay Coskun</strong> · @nlycskn · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 394</p>
+<p><a href="https://x.com/nlycskn/status/2102210794993885593">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -116,6 +140,30 @@
 <p><strong>Junko@生成AIを『安全に』使うエンジニア</strong> · @laravel_junko · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 178</p>
 <p><a href="https://x.com/laravel_junko/status/2102217215735189713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/karoukun_ai/status/2102205868339236999"><img src="https://pbs.twimg.com/amplify_video_thumb/2102205855420878848/img/eaJwTCqlLyGJJ3kv.jpg" alt="How Jev Chats: Understands Natural Language, Returns Options and Probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/karoukun_ai/status/2102205868339236999">How Jev Chats: Understands Natural Language, Returns Options and Probabilities</a></h3>
+<p>The post notes that chatting with Jev is 98% different, 96% understands natural language, and returns options and probabilities instead of prose.</p>
+<p><strong>中文摘要：</strong>帖子指出与 Jev 聊天有 98% 概率不同，96% 能理解自然语言，且返回的是选项和概率而非文章。</p>
+<p><strong>過労くん</strong> · @karoukun_ai · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 150</p>
+<p><a href="https://x.com/karoukun_ai/status/2102205868339236999">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/YM_AlphaNotes/status/2102210194088304662"><img src="https://pbs.twimg.com/amplify_video_thumb/2102210164812095488/img/F__iYL8VwHUyB8Va.jpg" alt="Jev vs LLM: How Inference Differs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/YM_AlphaNotes/status/2102210194088304662">Jev vs LLM: How Inference Differs</a></h3>
+<p>A demo compares Jev with traditional LLMs: LLMs generate tokens one by one, while Jev outputs all judgment probabilities in parallel instead of generating strings.</p>
+<p><strong>中文摘要：</strong>帖子用 Demo 对比 Jev 与传统 LLM：LLM 逐 Token 生成字符串，Jev 不生成字符串，而是并行输出所有判断的概率。</p>
+<p><strong>玉米_AlphaNotes</strong> · @YM_AlphaNotes · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 147</p>
+<p><a href="https://x.com/YM_AlphaNotes/status/2102210194088304662">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/33339999g/status/2102233926651560355"><img src="https://pbs.twimg.com/media/HSyfFZpaQAAwaPb?format=jpg&amp;name=medium" alt="Jev: An AI That Doesn&#39;t Write, Only Returns Classification Probabilities · 原帖图片" width="100%"></a>
@@ -190,6 +238,19 @@
 <p><a href="https://x.com/CharlieMoney5/status/2102195498392441161">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Avinash7986/status/2102208844529299509"><img src="https://pbs.twimg.com/media/HSyLxVRawAA_SWn?format=jpg&amp;name=medium" alt="What Is Jev: AI That Decides, Not Just Talks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Avinash7986/status/2102208844529299509">What Is Jev: AI That Decides, Not Just Talks</a></h3>
+<p>Using a simple payment-failure example, the post explains Jev as AI that makes decisions rather than a normal LLM that only generates conversation.</p>
+<p><strong>中文摘要：</strong>帖子用支付失败求助的简单例子，说明 Jev 是能做出决策的 AI，而不是只生成对话的普通大模型。</p>
+<p><strong>Avinash</strong> · @Avinash7986 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 36</p>
+<p><a href="https://x.com/Avinash7986/status/2102208844529299509">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/OceanQ333/status/2102218971617599662"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Discussion on Jev&#39;s Judgment Speed vs. Accuracy · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -200,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/OceanQ333/status/2102218971617599662">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jakedahn/status/2102251539469418708"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153758243495937/img/rYDhh2iFvXpWB9ZA.jpg" alt="Jev Visual Demos and Multimodal Outlook · 原帖视频截图" width="100%"></a>
 <br>
@@ -212,6 +271,19 @@
 <p><strong>Jake Dahn</strong> · @jakedahn · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/jakedahn/status/2102251539469418708">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hevmind/status/2102208214360305800"><img src="https://pbs.twimg.com/amplify_video_thumb/2102163907247030273/img/LwJKU89XT60svsdW.jpg" alt="Building a Reranker on Jev: Calibrated Confidence as a Prune-and-Gate Signal · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hevmind/status/2102208214360305800">Building a Reranker on Jev: Calibrated Confidence as a Prune-and-Gate Signal</a></h3>
+<p>Sharing experience building a reranker on Jev: a real probability turns the score into a prune-and-gate signal rather than just a rank, and discussing extending calibrated confidence to primitive types.</p>
+<p><strong>中文摘要：</strong>分享在 Jev 上构建重排序器的经验：真实概率可将分数转化为剪枝与门控信号，而不仅是排名，并探讨将校准置信度扩展到原始类型。</p>
+<p><strong>hev mind</strong> · @hevmind · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/hevmind/status/2102208214360305800">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/theanandprasad/status/2102199067057307900"><img src="https://pbs.twimg.com/amplify_video_thumb/2102114568788942848/img/hTq1WGAPavrr4Unf.jpg" alt="Turn Open-Source LLMs into Jev-like Fast Decision Models · 原帖视频截图" width="100%"></a>

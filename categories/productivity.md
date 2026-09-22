@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 14 | 12 | 2 | 237K |
+| 16 | 13 | 3 | 237K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/F8Q75WZwaibw/status/2102206944744493382"><img src="https://pbs.twimg.com/media/HSyJskFaoAAjRID?format=jpg&amp;name=medium" alt="Jev helps triage inbox urgency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>生产力</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/F8Q75WZwaibw/status/2102206944744493382">Jev helps triage inbox urgency</a></h3>
+<p>The post describes using Jev to judge whether 100 inbox emails are urgent, leaving sorting to the machine and thinking time to people.</p>
+<p><strong>中文摘要：</strong>帖子描述用 Jev 判断收件箱中100封邮件是否紧急，把分类交给机器，把思考时间留给人。</p>
+<p><strong>太郎｜ 残業ゼロへのAIマネジメント</strong> · @F8Q75WZwaibw · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 616</p>
+<p><a href="https://x.com/F8Q75WZwaibw/status/2102206944744493382">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/personaraisan/status/2102210461286760702"><img src="https://pbs.twimg.com/amplify_video_thumb/2102210439354732544/img/WLjPOTW7XhQzSCYr.jpg" alt="Cat task app built with Codex, using Jev for reaction choices · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>生产力</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/personaraisan/status/2102210461286760702">Cat task app built with Codex, using Jev for reaction choices</a></h3>
+<p>The author built a cat task app with Codex: completing tasks improves the cat&#39;s mood, and it dances at max mood. Reaction choices in conversations are powered by Jev and vary by content.</p>
+<p><strong>中文摘要：</strong>作者用 Codex 制作了一个猫咪任务应用，完成任务可提升猫咪心情，心情满格会跳舞；对话中的反应选择由 Jev 驱动，会根据内容变化。</p>
+<p><strong>ぺるいさん</strong> · @personaraisan · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 10 &nbsp; 📊 307</p>
+<p><a href="https://x.com/personaraisan/status/2102210461286760702">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/luisf_mc/status/2102237061822767171"><img src="https://pbs.twimg.com/amplify_video_thumb/2102233517237366784/img/Q43OBpHvrpnMDhEg.jpg" alt="Seen: A Mac Screen Memory Search Tool Built with Jev · 原帖视频截图" width="100%"></a>

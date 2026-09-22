@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 74 | 54 | 20 | 595K |
+| 76 | 56 | 20 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/patricklawsonai/status/2102205625514226174"><img src="https://pbs.twimg.com/amplify_video_thumb/2102205593394302976/img/GQLCKyQQEJmCp3QF.jpg" alt="Jev and sai_borg Enable Screen-Based Control Without Integrations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/patricklawsonai/status/2102205625514226174">Jev and sai_borg Enable Screen-Based Control Without Integrations</a></h3>
+<p>Jev and sai_borg demonstrate operating software without integrations, installations, or permissions: point at a window, read the screen, run the loop, and press keys.</p>
+<p><strong>中文摘要：</strong>Jev 与 sai_borg 展示了一种无需集成、安装或权限即可操作软件的方式：指向窗口，读取屏幕内容，运行循环并模拟按键。</p>
+<p><strong>Patrick Lawson</strong> · @patricklawsonai · 2026-09-22</p>
+<p>💬 17 &nbsp; 🔁 2 &nbsp; ♡ 76 &nbsp; 📊 21K</p>
+<p><a href="https://x.com/patricklawsonai/status/2102205625514226174">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mot0aki/status/2102210520870977745"><img src="https://pbs.twimg.com/amplify_video_thumb/2102210400997810176/img/tDJpGN_8GxcOGy9g.jpg" alt="Letting Jev decide which UI component renders a chat reply · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mot0aki/status/2102210520870977745">Letting Jev decide which UI component renders a chat reply</a></h3>
+<p>The author experiments with letting Jev decide which UI component should render a chat reply, exploring model-driven interface rendering decisions.</p>
+<p><strong>中文摘要：</strong>作者尝试让 Jev 决定聊天回复应由哪个 UI 组件呈现，探索将模型用于界面渲染决策。</p>
+<p><strong>もっくま(Mistletoe)</strong> · @mot0aki · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.8K</p>
+<p><a href="https://x.com/mot0aki/status/2102210520870977745">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tk_researcher/status/2102233127599108349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102232960242241537/img/IKdLMvtLHNo0Z_2k.jpg" alt="Trying Jev in Notion: Drawing the Line Between Automation and Human Judgment with Probabilities · 原帖视频截图" width="100%"></a>

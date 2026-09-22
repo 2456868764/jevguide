@@ -1,9 +1,10 @@
 # George リバネスCIO/リバネスナレッジ代表
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [26-Hour Minecraft Survival: Jev Handles Mining Decisions, Codex Handles Strategy](https://x.com/geeorgey/status/2102209700087636292) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 93 |
 | 2026-09-21 | [Jev Automates Log Gathering, Charcoal and Torch Crafting in Minecraft](https://x.com/geeorgey/status/2102173497074282688) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 100 |
 | 2026-09-21 | [Jev and Codex Team Up to Reach the Nether in Minecraft](https://x.com/geeorgey/status/2101895983202439248) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 60 |
 | 2026-09-21 | [Jev connection restored, game exploration continues](https://x.com/geeorgey/status/2101942787554091351) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 31 |

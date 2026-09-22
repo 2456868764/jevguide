@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 233
-- [Access updates](../categories/access-updates.md) — 232
-- [Developer tools](../categories/developer-tools.md) — 225
-- [Gaming](../categories/gaming.md) — 184
-- [Agents](../categories/agents.md) — 124
-- [Launch news](../categories/launch-news.md) — 123
-- [Developer resources](../categories/developer-resources.md) — 114
-- [Community builds](../categories/community-builds.md) — 109
-- [Finance](../categories/finance.md) — 90
-- [Workflow automation](../categories/workflow-automation.md) — 74
-- [Marketing](../categories/marketing.md) — 63
-- [Knowledge & search](../categories/knowledge-search.md) — 56
+- [How it works](../categories/how-it-works.md) — 239
+- [Access updates](../categories/access-updates.md) — 233
+- [Developer tools](../categories/developer-tools.md) — 230
+- [Gaming](../categories/gaming.md) — 186
+- [Agents](../categories/agents.md) — 127
+- [Launch news](../categories/launch-news.md) — 124
+- [Developer resources](../categories/developer-resources.md) — 117
+- [Community builds](../categories/community-builds.md) — 112
+- [Finance](../categories/finance.md) — 91
+- [Workflow automation](../categories/workflow-automation.md) — 76
+- [Marketing](../categories/marketing.md) — 64
+- [Knowledge & search](../categories/knowledge-search.md) — 57
 - [Data analytics](../categories/data-analytics.md) — 50
 - [Content creation](../categories/content-creation.md) — 45
-- [Robotics](../categories/robotics.md) — 24
+- [Robotics](../categories/robotics.md) — 27
 - [Customer support](../categories/customer-support.md) — 19
+- [Productivity](../categories/productivity.md) — 16
+- [Business operations](../categories/business-operations.md) — 15
 - [Scientific research](../categories/scientific-research.md) — 15
-- [Business operations](../categories/business-operations.md) — 14
-- [Productivity](../categories/productivity.md) — 14
 - [Healthcare](../categories/healthcare.md) — 13
 - [E-commerce](../categories/e-commerce.md) — 12
 - [Software development](../categories/software-development.md) — 12
-- [Education](../categories/education.md) — 10
+- [Education](../categories/education.md) — 11
 - [Cybersecurity](../categories/cybersecurity.md) — 10
 - [Legal & compliance](../categories/legal-compliance.md) — 8

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 219 | 119 | 101 | 3.6M |
+| 223 | 120 | 104 | 3.6M |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/AYi_AInotes/status/2102198099498135812">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nkgoutham/status/2102224170130223121"><img src="https://pbs.twimg.com/media/HSyZvKSbQAAArYv?format=jpg&amp;name=medium" alt="Jev Detects Model Hallucinations in Claude Code and More · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nkgoutham/status/2102224170130223121">Jev Detects Model Hallucinations in Claude Code and More</a></h3>
+<p>A user shares their experience with TypeSafe AI&#39;s Jev: it tells them if Claude, ChatGPT, or Grok models in Claude Code, Codex, or Grok Build have hallucinated or made confident guesses, calling it a good experience.</p>
+<p><strong>中文摘要：</strong>用户分享使用 TypeSafe AI 的 Jev 体验：Jev 能告知 Claude、ChatGPT、Grok 模型在 Claude Code、Codex、Grok Build 中是否产生幻觉或自信猜测，体验良好。</p>
+<p><strong>Krishna Goutham</strong> · @nkgoutham · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 353</p>
+<p><a href="https://x.com/nkgoutham/status/2102224170130223121">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/stableshaman/status/2102246101084680653"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="Why 90% of Jev Demos Are Useless · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 278</p>
 <p><a href="https://x.com/stableshaman/status/2102246101084680653">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pedronauck/status/2102186297817169976"><img src="https://pbs.twimg.com/media/HSx3O3bXoAAJGun?format=png&amp;name=medium" alt="User Feedback on Jev Usage Experience · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 263</p>
 <p><a href="https://x.com/pedronauck/status/2102186297817169976">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/waku_agent/status/2102239150607073649"><img src="https://pbs.twimg.com/amplify_video_thumb/2102216562342309888/img/30v3t9WGnQzugfFu.jpg" alt="Test Jev Against Claude, OpenAI, Grok, and Gemini · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 209</p>
 <p><a href="https://x.com/waku_agent/status/2102239150607073649">在 X 查看原帖</a> · <a href="https://t.co/HPN8ntHsXk">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SungKimUp/status/2102196460997816524"><img src="https://pbs.twimg.com/media/HSyAiEhbUAAAbkf?format=jpg&amp;name=medium" alt="Recommending SolarMini4Jev as an Alternative to the Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,32 @@
 <p>💬 0 &nbsp; 🔁 6 &nbsp; ♡ 9 &nbsp; 📊 143</p>
 <p><a href="https://x.com/SungKimUp/status/2102196460997816524">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abhijitwt/status/2102233348488024301"><img src="https://pbs.twimg.com/amplify_video_thumb/2102105406461915136/img/c7Ai0SD1EuZAal1B.jpg" alt="Jev + Vicaura Described as a Product Reverse Engineering Stack · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abhijitwt/status/2102233348488024301">Jev + Vicaura Described as a Product Reverse Engineering Stack</a></h3>
+<p>A tweet calls the combination of Jev and Vicaura a product reverse engineering stack, suggesting the two together can analyze and reproduce product capabilities.</p>
+<p><strong>中文摘要：</strong>一条推文将 Jev 与 Vicaura 的组合称为产品逆向工程栈，暗示二者结合可用于分析和复现产品能力。</p>
+<p><strong>Abhijit</strong> · @abhijitwt · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 143</p>
+<p><a href="https://x.com/abhijitwt/status/2102233348488024301">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zelin1107/status/2102223280216363108"><img src="https://pbs.twimg.com/media/HSyY6nfaEAAzUKC?format=jpg&amp;name=medium" alt="12 Runnable Jev Repos for Agent Loops · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zelin1107/status/2102223280216363108">12 Runnable Jev Repos for Agent Loops</a></h3>
+<p>A scenario-based roundup of 12 GitHub repos showing how Jev handles repetitive, narrow, stability-critical decisions in agent loops, such as control selection, log retention, model choice, and command gating.</p>
+<p><strong>中文摘要：</strong>按场景整理 12 个 GitHub 仓库，展示 Jev 如何用于 Agent 循环中重复、窄且需稳定的判断，如控件选择、日志保留、模型选择和命令放行。</p>
+<p><strong>慢走不宋</strong> · @zelin1107 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
+<p><a href="https://x.com/zelin1107/status/2102223280216363108">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/henrylove0/status/2102239256093794663"><img src="https://pbs.twimg.com/media/HSynVzubYAAgXmA?format=png&amp;name=small" alt="JEV vs LAYA head-to-head: speed vs judgment · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>Henry Love</strong> · @henrylove0 · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 55</p>
 <p><a href="https://x.com/henrylove0/status/2102239256093794663">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DaisyDiao2/status/2102232397375029452"><img src="https://pbs.twimg.com/media/HSyhBv_bQAAhMgv?format=jpg&amp;name=medium" alt="Using CODEX with JEV and Enabling GOAL Mode · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DaisyDiao2/status/2102232397375029452">Using CODEX with JEV and Enabling GOAL Mode</a></h3>
+<p>A user shares using CODEX together with JEV and enabling GOAL mode.</p>
+<p><strong>中文摘要：</strong>用户分享将 CODEX 与 JEV 搭配使用并开启 GOAL 模式的实践。</p>
+<p><strong>daisydiao.eth</strong> · @DaisyDiao2 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><a href="https://x.com/DaisyDiao2/status/2102232397375029452">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

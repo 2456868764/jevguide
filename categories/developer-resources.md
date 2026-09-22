@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 111 | 50 | 61 | 419K |
+| 113 | 50 | 63 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/geekbb/status/2102226879772332527"><img src="https://pbs.twimg.com/media/HSyOMkyasAE-cHJ?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Jev Resource List on GitHub · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/geekbb/status/2102226879772332527">Awesome Jev: A Curated Jev Resource List on GitHub</a></h3>
+<p>Shares an Awesome Jev resource list on GitHub, collecting projects and tools around the Jev model ecosystem.</p>
+<p><strong>中文摘要：</strong>分享 GitHub 上的 Awesome Jev 资源列表，汇集围绕 Jev 模型生态的各类项目与工具。</p>
+<p><strong>Geek</strong> · @geekbb · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 20 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
+<p><a href="https://x.com/geekbb/status/2102226879772332527">在 X 查看原帖</a> · <a href="https://t.co/566zOKjwCT">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2102194492606460011"><img src="https://pbs.twimg.com/media/HSx-v71W4AAzIi0?format=jpg&amp;name=medium" alt="JevBench v1.3.0 Released: Updated Jev Model Benchmark · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 465</p>
 <p><a href="https://x.com/airesearch12/status/2102194492606460011">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dorkitude/status/2102194028704092585"><img src="https://pbs.twimg.com/media/HSx-UqEaIAEjR4L?format=jpg&amp;name=medium" alt="Jev makes web search more context-efficient; author open-sources webctl · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 191</p>
 <p><a href="https://x.com/dorkitude/status/2102194028704092585">在 X 查看原帖</a> · <a href="https://t.co/AUMoMJ327G">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gigabit_million/status/2102200033307422821"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941990254632960/img/gx4NHU9mxvfHKA3y.jpg" alt="Using Jev for Intent-Based Search in a Chrome Extension · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
 <p><a href="https://x.com/gigabit_million/status/2102200033307422821">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clxymox/status/2102188598615240738"><img src="https://pbs.twimg.com/media/HSx5X4DXwAAOKNc?format=png&amp;name=medium" alt="awesome-jev-tools: Low-Latency Typed Routing and Classification Patterns · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>xymox</strong> · @clxymox · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/clxymox/status/2102188598615240738">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jasonjeske_ai/status/2102228587801686428"><img src="https://pbs.twimg.com/media/HSybRdhXMAARJf6?format=jpg&amp;name=medium" alt="Experimental JEV Context Engine for Hermes Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jasonjeske_ai/status/2102228587801686428">Experimental JEV Context Engine for Hermes Agent</a></h3>
+<p>An experimental JEV context engine for Hermes Agent that scores older search results for selective pruning at compaction, with local archives and native fallback. Savings are not yet proven; testers welcome.</p>
+<p><strong>中文摘要：</strong>为 Hermes Agent 发布的实验性 JEV 上下文引擎，对旧搜索结果评分以在压缩时选择性剪枝，支持本地归档与原生回退，节省效果尚未验证，欢迎测试者。</p>
+<p><strong>Jason Jeske</strong> · @jasonjeske_ai · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/jasonjeske_ai/status/2102228587801686428">在 X 查看原帖</a> · <a href="https://t.co/WHckRmUjll">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 61 | 53 | 8 | 904K |
+| 63 | 54 | 9 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ayami_marketing/status/2102224599538946520"><img src="https://pbs.twimg.com/media/HSyZ7FfaAAA32pt?format=jpg&amp;name=medium" alt="Analyzing Jev&#39;s Launch Marketing Strategy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ayami_marketing/status/2102224599538946520">Analyzing Jev&#39;s Launch Marketing Strategy</a></h3>
+<p>The post analyzes Jev&#39;s launch marketing strategy, including drawing interest with the founder&#39;s question and showing the product via a roughly three-minute demo video.</p>
+<p><strong>中文摘要：</strong>帖子分析 Jev 发布时的营销策略，包括以创始人提问引发兴趣、用约三分钟演示视频展示产品等做法。</p>
+<p><strong>あやみ｜マーケティング</strong> · @ayami_marketing · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/ayami_marketing/status/2102224599538946520">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/apoorav_vyas/status/2102233258159407502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Using Jev to Filter 200 Launch Targets from 10,000 LinkedIn Connections · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/apoorav_vyas/status/2102233258159407502">Using Jev to Filter 200 Launch Targets from 10,000 LinkedIn Connections</a></h3>
+<p>A Jev use case: give Jev 10,000 LinkedIn connections, define relevance criteria, and Jev classifies each person to produce a filtered launch outreach list.</p>
+<p><strong>中文摘要：</strong>分享一个 Jev 用例：把 1 万个 LinkedIn 联系人交给 Jev，定义相关性标准，Jev 对每个人分类，最终得到筛选后的发布目标名单。</p>
+<p><strong>Apoorav Vyas</strong> · @apoorav_vyas · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 592</p>
+<p><a href="https://x.com/apoorav_vyas/status/2102233258159407502">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ericosiu/status/2102186118494007316"><img src="https://pbs.twimg.com/amplify_video_thumb/2102155222680506368/img/UP5LmFuTuA87uujR.jpg" alt="Using Jev to Deduplicate SEO and AEO Ideas · 原帖视频截图" width="100%"></a>

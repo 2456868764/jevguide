@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 222 | 92 | 130 | 802K |
+| 226 | 93 | 133 | 802K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/RoundtableSpace/status/2102235184795935185">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/dgrid_ai/status/2102231668040040687"><img src="https://pbs.twimg.com/media/HSyghV2bQAAKh8Q?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.13 now available on DGrid · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dgrid_ai/status/2102231668040040687">TypeSafe Jev 1.13 now available on DGrid</a></h3>
+<p>TypeSafe&#39;s flagship System One model Jev 1.13 is now on DGrid, built for routing, classification, scoring, and real-time automation with multiple typed questions per request and structured outputs.</p>
+<p><strong>中文摘要：</strong>TypeSafe 旗舰 System One 模型 Jev 1.13 已在 DGrid 上线，面向路由、分类、评分和实时自动化，支持单次请求多个类型化问题并直接输出结构化结果。</p>
+<p><strong>DGrid AI</strong> · @dgrid_ai · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 7 &nbsp; ♡ 16 &nbsp; 📊 5.2K</p>
+<p><a href="https://x.com/dgrid_ai/status/2102231668040040687">在 X 查看原帖</a> · <a href="https://t.co/9qotF3bprl">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/TheIshanGoswami/status/2102195819013406960"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195395506094080/img/1ZXfs8V39reKFmZO.jpg" alt="Jev with Exa Web Search Boosts Accuracy · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖视频</code></sub>
@@ -31,6 +44,17 @@
 <p><strong>Ishan Goswami</strong> · @TheIshanGoswami · 2026-09-22</p>
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 23 &nbsp; 📊 1.6K</p>
 <p><a href="https://x.com/TheIshanGoswami/status/2102195819013406960">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/altryne/status/2102232238138270021"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231751594541056/img/a1SLNAca_nkZuYRm.jpg" alt="How JEV Got Started: Was Sam Altman Involved? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/altryne/status/2102232238138270021">How JEV Got Started: Was Sam Altman Involved?</a></h3>
+<p>Alex Volkov shares that @CompleteSkeptic tells the story of how JEV got started on @latentspacepod, mentioning Sam Altman&#39;s possible involvement.</p>
+<p><strong>中文摘要：</strong>Alex Volkov 分享 @CompleteSkeptic 在 @latentspacepod 上讲述 JEV 的起源故事，并提及 Sam Altman 可能参与其中。</p>
+<p><strong>Alex Volkov</strong> · @altryne · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/altryne/status/2102232238138270021">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -59,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Yarrow_ai/status/2102226848436645902"><img src="https://pbs.twimg.com/media/HSycKkzbUAAmpzR?format=jpg&amp;name=medium" alt="Yarrow tests Jev in a prediction workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Yarrow_ai/status/2102226848436645902">Yarrow tests Jev in a prediction workflow</a></h3>
+<p>Yarrow tested Jev on 48 real-world cases across 31 independent documents in a prediction workflow, with total model cost under $0.10, sharing what worked and what didn&#39;t.</p>
+<p><strong>中文摘要：</strong>Yarrow 使用 31 份独立文档中的 48 个真实案例测试 Jev 在预测工作流中的表现，总模型成本低于 0.10 美元，并分享有效与不足之处。</p>
+<p><strong>Yarrow</strong> · @Yarrow_ai · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 77</p>
+<p><a href="https://x.com/Yarrow_ai/status/2102226848436645902">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Tonebird_ai/status/2102190208498471368"><img src="https://pbs.twimg.com/amplify_video_thumb/2102189916071620608/img/G-iBvEdgIDnt-cai.jpg" alt="ToneBird + Jev for Fast Reply Matching · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖视频</code></sub>
@@ -69,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 41</p>
 <p><a href="https://x.com/Tonebird_ai/status/2102190208498471368">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ichigoooo015/status/2102240197576634791"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="User discusses Laya, an open-weight model faster than Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/ichigoooo015/status/2102240197576634791">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robherley/status/2102199555706024144"><img src="https://pbs.twimg.com/media/HSyAhVUWIAA7qQq?format=jpg&amp;name=large" alt="AskJev.net&#39;s first 24 hours: 50K visitors, 125K Jev API requests, 39M tokens, $0 cost · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/robherley/status/2102199555706024144">在 X 查看原帖</a> · <a href="https://t.co/9tGq42lv3d">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/InfiniteJulian0/status/2102199480628269114"><img src="https://pbs.twimg.com/media/HSyCc9fakAAwT0n?format=png&amp;name=medium" alt="New tech like Jev captivates imaginations · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
 <p><a href="https://x.com/InfiniteJulian0/status/2102199480628269114">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102187007367606684"><img src="https://pbs.twimg.com/media/HSx38X-WsAAOswh?format=jpg&amp;name=medium" alt="Non-Autoregressive Decision Model Laya Claims 6-8x Faster Inference Than Jev · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/VALVETONLINE/status/2102187007367606684">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sakizm97/status/2102237077928907031"><img src="https://pbs.twimg.com/media/HSylYSQaUAANNYQ?format=png&amp;name=900x900" alt="User signs up for Jev, flags security and data protection · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>あっき〜@中小企業ITコンサルタント🔥</strong> · @sakizm97 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/sakizm97/status/2102237077928907031">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/golem50_kabba/status/2102225531790102822"><img src="https://pbs.twimg.com/media/HSya-p3boAA6sMO?format=jpg&amp;name=medium" alt="Jev Now Open for Direct Sign-Up, No Waitlist Needed · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/golem50_kabba/status/2102225531790102822">Jev Now Open for Direct Sign-Up, No Waitlist Needed</a></h3>
+<p>A user noticed Jev buzzing on their timeline, tried to join the waitlist, and found direct sign-up is available.</p>
+<p><strong>中文摘要：</strong>用户注意到时间线上 Jev 讨论热烈，本想加入等待列表，却发现可以直接注册。</p>
+<p><strong>ゴーレム所長｜人生再構築スタジオ</strong> · @golem50_kabba · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/golem50_kabba/status/2102225531790102822">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

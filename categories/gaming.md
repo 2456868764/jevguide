@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 175 | 143 | 34 | 588K |
+| 179 | 146 | 36 | 588K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/shields_pikes/status/2102232350449135728"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231979970428928/img/jmCuAfKdzVzJn3A9.jpg" alt="Jev Real-Time Dialogue Expression System · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shields_pikes/status/2102232350449135728">Jev Real-Time Dialogue Expression System</a></h3>
+<p>A system in Jev parses dialogue text in real-time, swapping character facial expressions per phrase. It handles infusing emotion into spoken lines and reactions to the other character&#39;s lines, with added frame interpolation and bug fixes.</p>
+<p><strong>中文摘要：</strong>Jev 中的系统实时解析对话文本，为每句话切换角色面部表情，支持为台词注入情感并处理对方台词的反应，还加入了帧插值和错误修复。</p>
+<p><strong>岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人</strong> · @shields_pikes · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 455</p>
+<p><a href="https://x.com/shields_pikes/status/2102232350449135728">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/I_amShiti/status/2102246319058252176"><img src="https://pbs.twimg.com/amplify_video_thumb/2102246300473311232/img/28mVeGeHsm05xl9p.jpg" alt="Jev Powers Fighting Game Automation Without Integration · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 215</p>
 <p><a href="https://x.com/I_amShiti/status/2102246319058252176">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_3912657840/status/2102244865119850759"><img src="https://pbs.twimg.com/media/HSyqhroaoAA36qP?format=png&amp;name=900x900" alt="User shares experience using Jev for game development · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 155</p>
 <p><a href="https://x.com/_3912657840/status/2102244865119850759">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/eng_ahmd/status/2102233195294920886"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231639996665856/img/ui52kTGQtdvpiHKl.jpg" alt="Laya (Jev-like model) plays Breakout locally in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eng_ahmd/status/2102233195294920886">Laya (Jev-like model) plays Breakout locally in real time</a></h3>
+<p>A developer runs the 322M open System One model Laya locally on a Windows laptop with an RTX 5080, making ~70 live paddle decisions per second in Breakout with zero cloud cost.</p>
+<p><strong>中文摘要：</strong>开发者使用 322M 参数的 System One 开源模型 Laya，在 Windows 笔记本 RTX 5080 上本地运行，以约 70 次决策/秒实时控制 Breakout 挡板，零云端成本。</p>
+<p><strong> Ahmed</strong> · @eng_ahmd · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
+<p><a href="https://x.com/eng_ahmd/status/2102233195294920886">在 X 查看原帖</a> · <a href="https://t.co/8v0dnXCnQ1">原文链接</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/paulocoutinhox/status/2102233895785710058"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local Laya model beats cloud-based Jev in Tetris · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/paulocoutinhox/status/2102233895785710058">Local Laya model beats cloud-based Jev in Tetris</a></h3>
+<p>An open-weight System One model called Laya defeated the cloud-based Jev in Tetris, making decisions 11 times faster and running locally on a 16GB MacBook Air.</p>
+<p><strong>中文摘要：</strong>一个名为Laya的开源System One权重模型在俄罗斯方块游戏中击败了基于云端的Jev，决策速度快11倍，并在16GB MacBook Air上本地运行。</p>
+<p><strong>Paulo Coutinho  🇧🇷</strong> · @paulocoutinhox · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><a href="https://x.com/paulocoutinhox/status/2102233895785710058">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Icaro_333/status/2102242170191179948"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242076586844160/img/XGjQgpPdzzUyvFoG.jpg" alt="Building a Game for Jev to Play · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +103,19 @@
 <p><strong>Icaro</strong> · @Icaro_333 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/Icaro_333/status/2102242170191179948">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/goutoberry/status/2102231550335320533"><img src="https://pbs.twimg.com/media/HSygarBWEAAIWDO?format=jpg&amp;name=medium" alt="Jev Plays Soccer: Jevball Experiment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/goutoberry/status/2102231550335320533">Jev Plays Soccer: Jevball Experiment</a></h3>
+<p>Jev is playing soccer (Jevball), currently losing badly to a team using regular heuristics, but it will learn.</p>
+<p><strong>中文摘要：</strong>Jev 正在踢足球（Jevball），目前大比分落后于使用常规启发式的队伍，但预计会通过学习进步。</p>
+<p><strong>goubie</strong> · @goutoberry · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
+<p><a href="https://x.com/goutoberry/status/2102231550335320533">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/GodName794/status/2102199799160475707"><img src="https://pbs.twimg.com/amplify_video_thumb/2102198809472425984/img/Xw6Vbyb4LLJV4Dff.jpg" alt="Playing Chess with the Jev Model: Algorithmic Prediction vs. Model Judgment · 原帖视频截图" width="100%"></a>

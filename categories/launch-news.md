@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 118 | 72 | 49 | 1.1M |
+| 122 | 73 | 52 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ShenSeanChen/status/2102234040535494876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102216562342309888/img/30v3t9WGnQzugfFu.jpg" alt="Jev benchmarked against Claude Opus, Haiku 4.5, and GPT-5.4 Mini · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ShenSeanChen/status/2102234040535494876">Jev benchmarked against Claude Opus, Haiku 4.5, and GPT-5.4 Mini</a></h3>
+<p>Jev is TypeSafe AI&#39;s System One model. The author benchmarked it against Claude Opus, Haiku 4.5, and GPT-5.4 Mini, and built a judgment arena.</p>
+<p><strong>中文摘要：</strong>Jev 是 TypeSafe AI 的 System One 模型，作者将其与 Claude Opus、Haiku 4.5 和 GPT-5.4 Mini 进行对比，并构建了评判竞技场。</p>
+<p><strong>Shen Sean Chen</strong> · @ShenSeanChen · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 874</p>
+<p><a href="https://x.com/ShenSeanChen/status/2102234040535494876">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/null_decimal/status/2102230795419373770"><img src="https://pbs.twimg.com/media/HSyfV3NbkAAwR2d?format=jpg&amp;name=medium" alt="Jev Now Available to Everyone · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/null_decimal/status/2102230795419373770">Jev Now Available to Everyone</a></h3>
+<p>AI News No. 472 covers the arrival of Grok 4.7 and notes that Jev is now available to everyone, while watching for a possible OpenAI release at 19:00 Japan time.</p>
+<p><strong>中文摘要：</strong>AI 新闻第 472 期报道 Grok 4.7 到来，并提到 Jev 现已向所有人开放，同时关注 OpenAI 可能在日本时间 19:00 的发布。</p>
+<p><strong>decimaru｜AI音楽×エコティクノート</strong> · @null_decimal · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 22 &nbsp; 📊 387</p>
+<p><a href="https://x.com/null_decimal/status/2102230795419373770">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xF1ction/status/2102192519215812893"><img src="https://pbs.twimg.com/amplify_video_thumb/2102191375735263232/img/8MkgBlp8gcoA2r-n.jpg" alt="Jev Founder Diogo Almeida Releases 36-Minute Masterclass · 原帖视频截图" width="100%"></a>
@@ -68,6 +92,30 @@
 <p><strong>Arman</strong> · @itsArmanj · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
 <p><a href="https://x.com/itsArmanj/status/2102251103488454893">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iidaatcnt/status/2102226258499391832"><img src="https://pbs.twimg.com/media/HSybdRvagAALveP?format=png&amp;name=small" alt="What is Jev? A High-Speed AI Specialized in Judgment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iidaatcnt/status/2102226258499391832">What is Jev? A High-Speed AI Specialized in Judgment</a></h3>
+<p>Introduces Jev, an AI from a different company than ChatGPT, Claude, and Gemini, specialized in judgment with high speed and accuracy, e.g., checking a corporate website in 0.1 seconds.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 是由与 ChatGPT、Claude、Gemini 不同的公司发布的 AI，专精判定、速度快、精度高，例如检查企业官网仅需 0.1 秒。</p>
+<p><strong>サバ缶＠AIを活用する情シス</strong> · @iidaatcnt · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/iidaatcnt/status/2102226258499391832">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jiamixionger/status/2102229918168097206"><img src="https://pbs.twimg.com/media/HSyernwbQAALgU8?format=png&amp;name=small" alt="After JEV, LLMs Replaced by System One? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jiamixionger/status/2102229918168097206">After JEV, LLMs Replaced by System One?</a></h3>
+<p>Post claims LLMs are replaced by System One after JEV, emphasizing bigger SO rather than smaller LLMs, with a TypeSafe AI blog link.</p>
+<p><strong>中文摘要：</strong>帖子称 JEV 发布后 LLM 被 System One 取代，并强调是更大的 SO 而非更小的 LLM，附 TypeSafe AI 博客链接。</p>
+<p><strong>币安人</strong> · @jiamixionger · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/jiamixionger/status/2102229918168097206">在 X 查看原帖</a> · <a href="https://t.co/n0zlI2ptQv">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Sneaky2x/status/2102186632346730739"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="System One Model Jev Launch Sparks Industry Chain Reaction · 原帖视频截图" width="100%"></a>

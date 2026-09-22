@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 82 | 50 | 33 | 1.2M |
+| 84 | 52 | 33 | 1.2M |
 
 ## Showcase 卡片
 
@@ -116,6 +116,30 @@
 <p><strong>黄小木</strong> · @ai_xiaomu · 2026-09-21</p>
 <p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 2.5K</p>
 <p><a href="https://x.com/ai_xiaomu/status/2101946636658442690">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ArtyShatilov/status/2102170150149726507"><img src="https://pbs.twimg.com/amplify_video_thumb/2102169443732451328/img/pXebK9HNwuaOUTkl.jpg" alt="Jev Wired to Polymarket: ~80ms Decisions, $1,573 in One Hour · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ArtyShatilov/status/2102170150149726507">Jev Wired to Polymarket: ~80ms Decisions, $1,573 in One Hour</a></h3>
+<p>A user wired Jev into Polymarket; Jev decides SKIP/YES/NO in ~80ms, a sides agent fills within budget, reportedly making $1,573 in one hour.</p>
+<p><strong>中文摘要：</strong>用户将 Jev 接入 Polymarket 预测市场，Jev 在约80毫秒内做出 SKIP/YES/NO 决策，配合侧边智能体在预算内成交，一小时内获利1573美元。</p>
+<p><strong>arty.hl</strong> · @ArtyShatilov · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/ArtyShatilov/status/2102170150149726507">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/51bodila/status/2102168924217397381"><img src="https://pbs.twimg.com/amplify_video_thumb/2102163378651164672/img/T6eyIy0f_CDVziqJ.jpg" alt="Jev Replaces a Jane Street Quant · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/51bodila/status/2102168924217397381">Jev Replaces a Jane Street Quant</a></h3>
+<p>Jev scans 200+ HFT models to pick the best fit for a specific market setup, going from prompt to paper trade in 12 minutes.</p>
+<p><strong>中文摘要：</strong>Jev 扫描超过 200 个 HFT 模型，为特定市场设置选择最佳匹配，12 分钟完成从提示到模拟交易。</p>
+<p><strong>bodila</strong> · @51bodila · 2026-09-21</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/51bodila/status/2102168924217397381">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DailyAITracker/status/2101897628510494812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897601314603008/img/d-w8O0OPcC3JpIc9.jpg" alt="Building an Autonomous Trading Bot with Jev · 原帖视频截图" width="100%"></a>

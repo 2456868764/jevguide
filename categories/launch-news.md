@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 113 | 69 | 47 | 1.1M |
+| 115 | 70 | 48 | 1.1M |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/JulianGoldieSEO/status/2101939214799749370">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/architectizm/status/2102171020082008211"><img src="https://pbs.twimg.com/media/HSxguRdagAA2h_A?format=jpg&amp;name=medium" alt="Jev Brands Itself as a New &#39;System 1 Model&#39; Category · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/architectizm/status/2102171020082008211">Jev Brands Itself as a New &#39;System 1 Model&#39; Category</a></h3>
+<p>The post analyzes Jev&#39;s category branding: positioning itself as a &#39;System 1 model&#39; that returns fast, low-cost decisions software can directly use, rather than generating text.</p>
+<p><strong>中文摘要：</strong>帖子分析 Jev 的品类品牌策略：将自身定位为“系统1模型”，强调快速低成本返回软件可直接使用的判断，而非生成文本。</p>
+<p><strong>なんぼー｜南坊泰司</strong> · @architectizm · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 547</p>
+<p><a href="https://x.com/architectizm/status/2102171020082008211">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/arthantyo/status/2102173451825885354"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171779892424704/img/CBFbQBVWQ-qKFfG8.jpg" alt="Logral: AI Social Habit Tracker Using Jev Launches · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -151,6 +164,17 @@
 <p><strong>javanesium</strong> · @arthantyo · 2026-09-21</p>
 <p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 431</p>
 <p><a href="https://x.com/arthantyo/status/2102173451825885354">在 X 查看原帖</a> · <a href="https://t.co/VxQpPnXPT8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Akhila_988/status/2102171891410825520"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171833479118848/img/NYfr1OdB7FjuWm7B.jpg" alt="Jev-Omni Released: First Multimodal System One Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Akhila_988/status/2102171891410825520">Jev-Omni Released: First Multimodal System One Model</a></h3>
+<p>Jev-Omni is the first multimodal System One model, supporting text, images, audio and video, on par with Jev on Typed-benchmarks, scaled to 30k examples on 8xH200 with under 100ms latency on a single H100.</p>
+<p><strong>中文摘要：</strong>Jev-Omni 是首个多模态 System One 模型，支持文本、图像、音频和视频，在 Typed-benchmarks 上与 Jev 持平，基于 8xH200 扩展至 3 万样本，单张 H100 延迟低于 100ms。</p>
+<p><strong>akhila</strong> · @Akhila_988 · 2026-09-21</p>
+<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 3 &nbsp; 📊 419</p>
+<p><a href="https://x.com/Akhila_988/status/2102171891410825520">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

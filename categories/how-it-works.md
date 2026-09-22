@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 186 | 94 | 92 | 1.6M |
+| 190 | 96 | 94 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/typedfemale/status/2102195929218695601"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195791117062144/img/A16eIUezHtpAX6XC.jpg" alt="Jev Can Generate Text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/typedfemale/status/2102195929218695601">Jev Can Generate Text</a></h3>
+<p>A brief note stating that Jev is capable of generating text.</p>
+<p><strong>中文摘要：</strong>一条简短说明，指出 Jev 具备生成文本的能力。</p>
+<p><strong>typedfemale</strong> · @typedfemale · 2026-09-22</p>
+<p>💬 10 &nbsp; 🔁 3 &nbsp; ♡ 61 &nbsp; 📊 3.5K</p>
+<p><a href="https://x.com/typedfemale/status/2102195929218695601">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/GoSailGlobal/status/2102200456550498307"><img src="https://pbs.twimg.com/media/HSyEK4basAABlDz?format=jpg&amp;name=medium" alt="Jev: A Low-Latency Single-Token Output Point on the LLM Pareto Optimal Curve · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Jason Zhu</strong> · @GoSailGlobal · 2026-09-22</p>
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 306</p>
 <p><a href="https://x.com/GoSailGlobal/status/2102200456550498307">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CharlieMoney5/status/2102195498392441161"><img src="https://pbs.twimg.com/media/HSx_k28akAA5p6q?format=jpg&amp;name=medium" alt="Jev: AI Doesn&#39;t Always Need to Answer, Sometimes It Just Needs to Decide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CharlieMoney5/status/2102195498392441161">Jev: AI Doesn&#39;t Always Need to Answer, Sometimes It Just Needs to Decide</a></h3>
+<p>Introduces TypeSafe AI&#39;s Jev model, contrasting it with the traditional LLM automation flow of generating text, parsing JSON, validating, and then deciding, highlighting that Jev can decide directly.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 的 Jev 模型，对比传统 LLM 自动化流程中生成文字、解析 JSON、验证再决策的步骤，强调 Jev 可直接做决定。</p>
+<p><strong>CharlieMoney 🌊⛽</strong> · @CharlieMoney5 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
+<p><a href="https://x.com/CharlieMoney5/status/2102195498392441161">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/theanandprasad/status/2102199067057307900"><img src="https://pbs.twimg.com/amplify_video_thumb/2102114568788942848/img/hTq1WGAPavrr4Unf.jpg" alt="Turn Open-Source LLMs into Jev-like Fast Decision Models · 原帖视频截图" width="100%"></a>
@@ -35,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2102189098714779727"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161121511649280/img/zsrydFm72dYdZcpO.jpg" alt="Implementing Jev route thoughts in a model for cheaper, faster, smarter results · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2102189098714779727">Implementing Jev route thoughts in a model for cheaper, faster, smarter results</a></h3>
+<p>The author shares applying Jev route thoughts in their own model, making it cheaper, faster, and smarter.</p>
+<p><strong>中文摘要：</strong>作者分享在自建模型中应用 Jev 路由思路，使模型运行更便宜、更快且更智能。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2102189098714779727">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/toowitter/status/2102197694622319014"><img src="https://pbs.twimg.com/media/HSyBqQZaUAEXHbA?format=jpg&amp;name=medium" alt="Building unawair v3 rule engine after trying Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -44,6 +79,19 @@
 <p><strong>Tomohisa Ota</strong> · @toowitter · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/toowitter/status/2102197694622319014">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RussWonsley/status/2102193674285351210"><img src="https://pbs.twimg.com/media/HSx9jrnbIAAFx7S?format=jpg&amp;name=medium" alt="Keyword Rules vs TypeSafe&#39;s Jev: A Small Demo · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RussWonsley/status/2102193674285351210">Keyword Rules vs TypeSafe&#39;s Jev: A Small Demo</a></h3>
+<p>The author compares keyword rules with TypeSafe&#39;s Jev using the same messages and planner, changing wording to see what resolves, and invites suggestions for test cases.</p>
+<p><strong>中文摘要：</strong>作者用相同消息和规划器对比关键词规则与 TypeSafe Jev，通过改变措辞观察解析结果，并邀请用户提出测试用例。</p>
+<p><strong>Russ Wonsley</strong> · @RussWonsley · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/RussWonsley/status/2102193674285351210">在 X 查看原帖</a> · <a href="https://t.co/7z9F9aGpwK">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/latentspacepod/status/2102159548366881196"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev and the System One Model: RLCD, Intelligence/$ and Reliable AI · 原帖视频截图" width="100%"></a>

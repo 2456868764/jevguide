@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 77 | 47 | 31 | 1.2M |
+| 81 | 49 | 33 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
+<p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
+<p><strong>中文摘要：</strong>使用 Jev 和 JSort 对 90 年代中期以来 4005 篇 FOMC 公开演讲和声明进行重新评分，展示低成本智能的应用。</p>
+<p><strong>Joe Weisenthal</strong> · @TheStalwart · 2026-09-22</p>
+<p>💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/TheStalwart/status/2102190936780312800">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Michaelzsguo/status/2102190802160005277"><img src="https://pbs.twimg.com/amplify_video_thumb/2102190474467348480/img/vFluknVXq39C3hfO.jpg" alt="Jev Stock Trader Doubles $100K to Nearly $210K · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Michaelzsguo/status/2102190802160005277">Jev Stock Trader Doubles $100K to Nearly $210K</a></h3>
+<p>The author shares that their Jev stock trading agent grew $100,000 to nearly $210,000 since January 1, 2022, significantly outperforming the S&amp;P&#39;s roughly 60% gain over the same period.</p>
+<p><strong>中文摘要：</strong>作者分享其 Jev 股票交易智能体自2022年1月1日起管理10万美元，增长至近21万美元，显著跑赢同期标普约60%的涨幅。</p>
+<p><strong>Michael Guo</strong> · @Michaelzsguo · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 473</p>
+<p><a href="https://x.com/Michaelzsguo/status/2102190802160005277">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/clarkalphas/status/2102191050324574375"><img src="https://pbs.twimg.com/media/HSx4w-UbEAETdan?format=jpg&amp;name=medium" alt="JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/clarkalphas/status/2102191050324574375">JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap</a></h3>
+<p>User asked JEV to score MomoX3 trading signals from C to A+ based on five pillars—Trend, Price Action, Structure, Levels, Signals—and shows a B-grade entry result in the SPY 9/21 recap.</p>
+<p><strong>中文摘要：</strong>用户让 JEV 根据趋势、价格行为、结构、关键位和信号五个支柱对 MomoX3 交易信号进行 C 到 A+ 评分，并展示在 SPY 9/21 复盘中的 B 级入场结果。</p>
+<p><strong>Clark</strong> · @clarkalphas · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 190</p>
+<p><a href="https://x.com/clarkalphas/status/2102191050324574375">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/openclawby/status/2102199469970477555"><img src="https://pbs.twimg.com/media/HSyCys4a0AA62Sc?format=jpg&amp;name=large" alt="Clawby Update: Jev Model Powers Asset Rating · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>Clawby</strong> · @openclawby · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 125</p>
 <p><a href="https://x.com/openclawby/status/2102199469970477555">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sujal_gawas/status/2102188179940110731"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Idea to Build a Trading Bot with JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sujal_gawas/status/2102188179940110731">Idea to Build a Trading Bot with JEV</a></h3>
+<p>The user&#39;s first thought upon seeing JEV was to build a trading bot, noting TypeSafe offers $5 monthly credit.</p>
+<p><strong>中文摘要：</strong>用户看到 JEV 后首先想到构建交易机器人，并提到 typesafe 提供每月 5 美元额度。</p>
+<p><strong>Sujal gawas</strong> · @sujal_gawas · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/sujal_gawas/status/2102188179940110731">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/hridoy43/status/2102203200690606100"><img src="https://pbs.twimg.com/media/HSyGibEbYAAMfIR?format=jpg&amp;name=medium" alt="Building a Stock Scoring and Decision Engine with TypeSafe JEV · 原帖图片" width="100%"></a>

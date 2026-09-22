@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 11 | 7 | 4 | 136K |
+| 13 | 9 | 4 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sentdex/status/2102192643480678651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102191703671111680/img/g_0iPWMr4NvpL_Jz.jpg" alt="Comparing Jev Hybrid Model and OpenJev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sentdex/status/2102192643480678651">Comparing Jev Hybrid Model and OpenJev</a></h3>
+<p>Harrison Kinsley shares a small toy comparison of GLM 5.3 Flash with Jev versus OpenJev, noting the 4B OpenJev easily wins.</p>
+<p><strong>中文摘要：</strong>Harrison Kinsley 分享在小型玩具示例中对比 GLM 5.3 Flash 搭配 Jev 与 OpenJev 的效果，称 4B 的 OpenJev 轻松胜出。</p>
+<p><strong>Harrison Kinsley</strong> · @Sentdex · 2026-09-22</p>
+<p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 36 &nbsp; 📊 3.1K</p>
+<p><a href="https://x.com/Sentdex/status/2102192643480678651">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JiriNohejl/status/2102187840629063696"><img src="https://pbs.twimg.com/amplify_video_thumb/2102186476599418880/img/zGN-u495jc1CDgid.jpg" alt="Replicating Double-Auction Experiments with Jev Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JiriNohejl/status/2102187840629063696">Replicating Double-Auction Experiments with Jev Agents</a></h3>
+<p>Running TypeSafeAI in ABM models to replicate the Gode &amp; Sunder / Smith double-auction experiments with Jev agents: ZI-C agents reach equilibrium faster but with higher price variance, while Jev agents compress price variance and bid-ask spreads at the cost of slower equilibrium convergence.</p>
+<p><strong>中文摘要：</strong>在 ABM 模型中运行 TypeSafeAI，用 Jev 智能体复现 Gode &amp; Sunder / Smith 双向拍卖实验：ZI-C 智能体更快达到均衡但价格方差更高，Jev 智能体则压缩价格方差与买卖价差，但均衡收敛更慢。</p>
+<p><strong>Jiri Nohejl</strong> · @JiriNohejl · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/JiriNohejl/status/2102187840629063696">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Charles_Y_Wu/status/2102052230463381855"><img src="https://pbs.twimg.com/amplify_video_thumb/2102052132400848896/img/gIev-PCUHeyxkIIH.jpg" alt="Jev for Science: Fast Answers to Plant Biochemistry Questions · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 10 | 6 | 4 | 3.8M |
+| 12 | 6 | 6 | 3.8M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>zsh⚡️IT x 社労士</strong> · @sr_hackker · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/sr_hackker/status/2102197494704992312">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VenkataSub34/status/2102195443598025029"><img src="https://pbs.twimg.com/media/HSx_HsrbwAAr3jL?format=jpg&amp;name=medium" alt="Jev suits fast bounded decisions, but enterprise explainability still needs context and audit · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VenkataSub34/status/2102195443598025029">Jev suits fast bounded decisions, but enterprise explainability still needs context and audit</a></h3>
+<p>The post notes Jev fits fast bounded decisions like routing, triage and guardrails, but calibrated probabilities alone cannot deliver enterprise explainability; context, evidence, policy, lineage and an audit trail are still needed.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 适合路由、分诊和护栏等快速有界决策，但仅靠校准概率无法满足企业可解释性，仍需上下文、证据、策略、血缘和审计轨迹。</p>
+<p><strong>Venkata Subrahmanyam</strong> · @VenkataSub34 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/VenkataSub34/status/2102195443598025029">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/propjerry/status/2102190789547925560"><img src="https://pbs.twimg.com/media/HSx7W2fbEAA-lUB?format=jpg&amp;name=medium" alt="Jev/System One Model Falls Short Where Palantir Does: A Bridge360 Metatheory Lens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/propjerry/status/2102190789547925560">Jev/System One Model Falls Short Where Palantir Does: A Bridge360 Metatheory Lens</a></h3>
+<p>The article applies the Bridge360 metatheory model to analyze how the Jev/System One model shares limitations with Palantir, tying into AI governance and AI safety.</p>
+<p><strong>中文摘要：</strong>文章从 Bridge360 元理论模型出发，分析 Jev/System One 模型与 Palantir 相似的局限性，并关联 AI 治理与 AI 安全议题。</p>
+<p><strong>Agerico De Villa</strong> · @propjerry · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/propjerry/status/2102190789547925560">在 X 查看原帖</a> · <a href="https://t.co/gfAoz47U2j">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/AgroConceptos/status/2102014136112582933"><img src="https://pbs.twimg.com/media/HSvatp7XMAAZVvf?format=jpg&amp;name=medium" alt="JEV Joins AgroConceptos Management System · 原帖图片" width="100%"></a>

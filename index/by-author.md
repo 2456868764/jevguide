@@ -95,6 +95,7 @@
 - [Archer](../authors/archer.md) — 2
 - [atomic.chat](../authors/atomic-chat.md) — 2
 - [attrip](../authors/attrip.md) — 2
+- [backchannel](../authors/backchannel.md) — 2
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
 - [Ccgh Ggh](../authors/ccgh-ggh.md) — 2
 - [Charlie Hills](../authors/charlie-hills.md) — 2
@@ -117,6 +118,7 @@
 - [ericosiu](../authors/ericosiu.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Glyph](../authors/glyph.md) — 2
+- [Happycapy](../authors/happycapy.md) — 2
 - [Hassan](../authors/hassan.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Ian Arawjo](../authors/ian-arawjo.md) — 2
@@ -144,6 +146,7 @@
 - [Matthew Berman](../authors/matthew-berman.md) — 2
 - [Max Blade](../authors/max-blade.md) — 2
 - [Maziyar PANAHI](../authors/maziyar-panahi.md) — 2
+- [Midas 👑](../authors/midas.md) — 2
 - [mikaeru](../authors/mikaeru.md) — 2
 - [mizchi](../authors/mizchi.md) — 2
 - [Mossy](../authors/mossy.md) — 2
@@ -173,6 +176,7 @@
 - [Steven Tey](../authors/steven-tey.md) — 2
 - [Tanay](../authors/tanay.md) — 2
 - [Taras](../authors/taras.md) — 2
+- [The Startup Ideas Podcast (SIP) 🧃](../authors/the-startup-ideas-podcast-sip.md) — 2
 - [TinyRouter](../authors/tinyrouter.md) — 2
 - [urbansoul](../authors/urbansoul.md) — 2
 - [usutaku](../authors/usutaku.md) — 2
@@ -338,7 +342,6 @@
 - [Ayush](../authors/ayush.md) — 1
 - [Ayush Jain](../authors/ayush-jain.md) — 1
 - [Ayush Kushwaha](../authors/ayush-kushwaha.md) — 1
-- [backchannel](../authors/backchannel.md) — 1
 - [Bargava](../authors/bargava.md) — 1
 - [Baris Terzioglu](../authors/baris-terzioglu.md) — 1
 - [Barış Kısır](../authors/bar-s-k-s-r.md) — 1
@@ -580,7 +583,6 @@
 - [Hanako](../authors/hanako.md) — 1
 - [Hanish Keloth](../authors/hanish-keloth.md) — 1
 - [Haoran | 公众号：独立开发](../authors/haoran-公众号-独立开发.md) — 1
-- [Happycapy](../authors/happycapy.md) — 1
 - [Hari Krishna](../authors/hari-krishna.md) — 1
 - [Harnecient](../authors/harnecient.md) — 1
 - [HarnessRouter](../authors/harnessrouter.md) — 1
@@ -633,6 +635,7 @@
 - [Jack](../authors/jack.md) — 1
 - [JackZ·杰克周](../authors/jackz-杰克周.md) — 1
 - [james](../authors/james.md) — 1
+- [James Chambers](../authors/james-chambers.md) — 1
 - [James Long](../authors/james-long.md) — 1
 - [Jamie Watters](../authors/jamie-watters.md) — 1
 - [Jan-Hendrik Müller](../authors/jan-hendrik-muller.md) — 1
@@ -689,6 +692,7 @@
 - [Kasper](../authors/kasper.md) — 1
 - [Kasra](../authors/kasra.md) — 1
 - [kate](../authors/kate.md) — 1
+- [Kathan Desai](../authors/kathan-desai.md) — 1
 - [Kaveh](../authors/kaveh.md) — 1
 - [Kawa](../authors/kawa.md) — 1
 - [KC](../authors/kc.md) — 1
@@ -726,6 +730,7 @@
 - [Krzysztof Staroń](../authors/krzysztof-staron.md) — 1
 - [Kshitij](../authors/kshitij.md) — 1
 - [Kuanze Ma](../authors/kuanze-ma.md) — 1
+- [kuma](../authors/kuma.md) — 1
 - [Kunal](../authors/kunal.md) — 1
 - [kwindla](../authors/kwindla.md) — 1
 - [Kyle Jeong](../authors/kyle-jeong.md) — 1
@@ -799,7 +804,6 @@
 - [Michael Guo](../authors/michael-guo.md) — 1
 - [Michael Kaiser](../authors/michael-kaiser.md) — 1
 - [Michaël Ménard](../authors/michael-menard.md) — 1
-- [Midas 👑](../authors/midas.md) — 1
 - [Midhun K](../authors/midhun-k.md) — 1
 - [Miguel Ríos Berríos](../authors/miguel-rios-berrios.md) — 1
 - [Mika](../authors/mika.md) — 1
@@ -839,6 +843,7 @@
 - [Mustafa Ergisi](../authors/mustafa-ergisi.md) — 1
 - [Mystery Hat](../authors/mystery-hat.md) — 1
 - [Mαulik ✦](../authors/m-ulik.md) — 1
+- [N DIVIJ](../authors/n-divij.md) — 1
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 1
 - [Nailthy Tang](../authors/nailthy-tang.md) — 1
 - [Nairb](../authors/nairb.md) — 1
@@ -1053,6 +1058,7 @@
 - [sorinaji](../authors/sorinaji.md) — 1
 - [Srikanth.CashlessConsumer | ஸ்‌ரீகாந்த்](../authors/srikanth-cashlessconsumer.md) — 1
 - [Sriram](../authors/sriram.md) — 1
+- [sritam](../authors/sritam.md) — 1
 - [SSSS.CRYPTOMAN⚡️AI](../authors/ssss-cryptoman-ai.md) — 1
 - [starmex](../authors/starmex.md) — 1
 - [Stas Kulesh](../authors/stas-kulesh.md) — 1
@@ -1095,11 +1101,11 @@
 - [Tawfek Sraj](../authors/tawfek-sraj.md) — 1
 - [Tech Ducky](../authors/tech-ducky.md) — 1
 - [Techie Sapien](../authors/techie-sapien.md) — 1
+- [Technophile](../authors/technophile.md) — 1
 - [TechVerser](../authors/techverser.md) — 1
 - [Teknium 🪽](../authors/teknium.md) — 1
 - [Tesla_Optimus](../authors/tesla-optimus.md) — 1
 - [The SamurAI](../authors/the-samurai.md) — 1
-- [The Startup Ideas Podcast (SIP) 🧃](../authors/the-startup-ideas-podcast-sip.md) — 1
 - [Theclues](../authors/theclues.md) — 1
 - [Theo - t3.gg](../authors/theo-t3-gg.md) — 1
 - [Theo Otz](../authors/theo-otz.md) — 1

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 44 | 26 | 18 | 392K |
+| 45 | 26 | 19 | 392K |
 
 ## Showcase 卡片
 
@@ -430,6 +430,19 @@
 <p><a href="https://x.com/kun70706/status/2100850609805209753">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/jameschambers/status/2100887152217202719"><img src="https://pbs.twimg.com/media/HSfZmzoWwAAcGx0?format=jpg&amp;name=medium" alt="Using Jev to Analyze Family Shopping Habits · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jameschambers/status/2100887152217202719">Using Jev to Analyze Family Shopping Habits</a></h3>
+<p>A user shares using Jev to analyze family shopping habits, noting granola is accelerating.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 分析家庭购物习惯，并提到燕麦片消费在加速。</p>
+<p><strong>James Chambers</strong> · @jameschambers · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 245</p>
+<p><a href="https://x.com/jameschambers/status/2100887152217202719">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ytiskw/status/2100474943154827344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100474178457698304/img/DXGnHg-iUrEhsFgE.jpg" alt="Simulating Product Adoption Intent of 150 Fictional Personas via Jev API · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖视频</code></sub>
@@ -440,8 +453,6 @@
 <p>💬 9 &nbsp; 🔁 107 &nbsp; ♡ 1.1K &nbsp; 📊 241K</p>
 <p><a href="https://x.com/ytiskw/status/2100474943154827344">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robj3d3/status/2100631889585606959"><img src="https://pbs.twimg.com/media/HSbxP15bMAA1LaU?format=jpg&amp;name=medium" alt="Building a Viral Post Classifier with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 55 &nbsp; 🔁 15 &nbsp; ♡ 615 &nbsp; 📊 166K</p>
 <p><a href="https://x.com/robj3d3/status/2100631889585606959">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nutlope/status/2100426999546184123"><img src="https://pbs.twimg.com/amplify_video_thumb/2100425141947604992/img/AITyHwcOWq1jw-3Z.jpg" alt="Classifying 1,018 AI Papers with Jev for $0.08 · 原帖视频截图" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 118 &nbsp; 🔁 182 &nbsp; ♡ 2.0K &nbsp; 📊 164K</p>
 <p><a href="https://x.com/nutlope/status/2100426999546184123">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iannuttall/status/2100668908227162567"><img src="https://pbs.twimg.com/amplify_video_thumb/2100668725737213952/img/m210oIkCyuGX5Dqr.jpg" alt="Analyzing 3,282 X posts with Jev to find growth patterns · 原帖视频截图" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 54 &nbsp; 🔁 45 &nbsp; ♡ 745 &nbsp; 📊 87K</p>
 <p><a href="https://x.com/iannuttall/status/2100668908227162567">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Khazix0918/status/2100614133171552435"><img src="https://pbs.twimg.com/media/HSbgXI-agAAkxpB?format=png&amp;name=900x900" alt="Testing Jev&#39;s classification accuracy: solid for AIHOT pre-screening · 原帖图片" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 58 &nbsp; 🔁 8 &nbsp; ♡ 196 &nbsp; 📊 45K</p>
 <p><a href="https://x.com/Khazix0918/status/2100614133171552435">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rahulbuildsmore/status/2100581721515188451"><img src="https://pbs.twimg.com/amplify_video_thumb/2100581250469711872/img/ohCdCO1BURKHBdWA.jpg" alt="Jev vs Gemini 3.8 Flash benchmark on app review analysis · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +512,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 624</p>
 <p><a href="https://x.com/rahulbuildsmore/status/2100581721515188451">在 X 查看原帖</a> · <a href="https://t.co/XzVZ9SGcpO">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Archilinho/status/2100649727536640435"><img src="https://pbs.twimg.com/media/HSb_8hkXsAAq2jO?format=jpg&amp;name=medium" alt="Jev Shows Speed and Cost Advantages on Classification Task · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 598</p>
 <p><a href="https://x.com/Archilinho/status/2100649727536640435">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cramforce/status/2100269198727602468"><img src="https://pbs.twimg.com/media/HSWnmSYaIAAwrmA?format=jpg&amp;name=medium" alt="Jev beats Gemini 2.5 Flash Lite on classifier eval quality and speed · 原帖图片" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 40 &nbsp; 🔁 56 &nbsp; ♡ 1.1K &nbsp; 📊 213K</p>
 <p><a href="https://x.com/cramforce/status/2100269198727602468">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hamiltonulmer/status/2100370557405667768"><img src="https://pbs.twimg.com/media/HSYD5B1bsAAWqeg?format=jpg&amp;name=medium" alt="Fast row classification in DuckDB with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -536,5 +549,6 @@
 <p>💬 37 &nbsp; 🔁 137 &nbsp; ♡ 1.4K &nbsp; 📊 130K</p>
 <p><a href="https://x.com/hamiltonulmer/status/2100370557405667768">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

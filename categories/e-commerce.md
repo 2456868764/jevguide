@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 10 | 10 | 0 | 231K |
+| 13 | 13 | 0 | 231K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Technop54777070/status/2102107087438258477"><img src="https://pbs.twimg.com/amplify_video_thumb/2102105531879944192/img/XLGd-NJlu1oqL0ru.jpg" alt="Building an Auto Shopper with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Technop54777070/status/2102107087438258477">Building an Auto Shopper with Jev</a></h3>
+<p>A developer combined an OpenAI model with TypeSafe AI&#39;s Jev to build an auto shopper that generates grocery lists and fills the online cart for Giant Food.</p>
+<p><strong>中文摘要：</strong>开发者结合 OpenAI 模型与 TypeSafe AI 的 Jev，构建自动购物助手，可生成购物清单并自动填充 Giant Food 在线购物车。</p>
+<p><strong>Technophile</strong> · @Technop54777070 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/Technop54777070/status/2102107087438258477">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/hajimimt/status/2101953350837391685"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>电商</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/hajimimt/status/2101953350837391685">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/okyanusi23/status/2101991099401474268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101990891821137920/pu/img/fsB_StJAjiFA5xVt.jpg" alt="Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/okyanusi23/status/2101991099401474268">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shaihulud43/status/2102003362472583336"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002342136836096/img/PX8iEiDV2n_OFzqW.jpg" alt="Jev Applied to an Etsy Shop · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/shaihulud43/status/2102003362472583336">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 12 &nbsp; 🔁 10 &nbsp; ♡ 308 &nbsp; 📊 20K</p>
 <p><a href="https://x.com/dbillson/status/2101657637871837578">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101540945946968358"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Jev Enables Real-Time Virtual Fitting in 1 Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 101</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101540945946968358">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nailthy62/status/2101388186916454439"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Real-time virtual try-on with Jev: ~620ms and $0.0011 per decision · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Nailthy Tang</strong> · @nailthy62 · 2026-09-19</p>
 <p>💬 103 &nbsp; 🔁 204 &nbsp; ♡ 2.5K &nbsp; 📊 231K</p>
 <p><a href="https://x.com/nailthy62/status/2101388186916454439">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheMoonMidas/status/2101107072784011418"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Real-time shopping assistant combining Jev with gpt-live-1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheMoonMidas/status/2101107072784011418">Real-time shopping assistant combining Jev with gpt-live-1</a></h3>
+<p>The shopping assistant adjusts product recommendations while the user is still talking, with an avatar whose expression reacts to the conversation, powered by Jev and gpt-live-1.</p>
+<p><strong>中文摘要：</strong>该购物助手在用户说话时即可调整产品推荐，头像表情也会随对话变化，由 Jev 与 gpt-live-1 驱动。</p>
+<p><strong>Midas 👑</strong> · @TheMoonMidas · 2026-09-19</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 150</p>
+<p><a href="https://x.com/TheMoonMidas/status/2101107072784011418">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -128,5 +152,19 @@
 <p>💬 30 &nbsp; 🔁 62 &nbsp; ♡ 751 &nbsp; 📊 60K</p>
 <p><a href="https://x.com/ego_agent/status/2100970015977804008">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heybackchannel/status/2100880940881121565"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Combining GPT-Live-1 and Jev for a Real-Time Shopping Assistant · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/heybackchannel/status/2100880940881121565">Combining GPT-Live-1 and Jev for a Real-Time Shopping Assistant</a></h3>
+<p>The post showcases a real-time shopping assistant that combines GPT-Live-1 with Jev. As the user speaks, the interface surfaces matching products immediately, even before the turn ends, with Jev using dialogue state to drive the interaction.</p>
+<p><strong>中文摘要：</strong>该帖子展示了一个实时购物助手，将 GPT-Live-1 与 Jev 结合。用户说话时，界面能立即呈现相关商品，甚至可在对话轮次结束前完成，Jev 还能利用对话状态驱动交互。</p>
+<p><strong>backchannel</strong> · @heybackchannel · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 82</p>
+<p><a href="https://x.com/heybackchannel/status/2100880940881121565">在 X 查看原帖</a></p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>

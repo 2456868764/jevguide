@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 56 | 31 | 25 | 392K |
+| 58 | 32 | 26 | 392K |
 
 ## Showcase 卡片
 
@@ -55,6 +55,30 @@
 <p><strong>Jony Shaik</strong> · @JonyShaik · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/JonyShaik/status/2102239556791869913">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HoytEmerson/status/2102383803364720793"><img src="https://pbs.twimg.com/amplify_video_thumb/2102383635911335936/img/sEf3BZalpq25G41V.jpg" alt="Pairing the Jev Model with DuckDB for Analytical Q&amp;A · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HoytEmerson/status/2102383803364720793">Pairing the Jev Model with DuckDB for Analytical Q&amp;A</a></h3>
+<p>Pairing the new Jev model with DuckDB shows potential for answering one-off analytical questions and returning classifier-like probabilities.</p>
+<p><strong>中文摘要：</strong>将新的 Jev 模型与 DuckDB 配对展现出潜力，可用于回答一次性分析问题并输出类似分类器的概率。</p>
+<p><strong>Hoyt Emerson</strong> · @HoytEmerson · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/HoytEmerson/status/2102383803364720793">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DatabendLabs/status/2102384437581512836"><img src="https://pbs.twimg.com/media/HS0rcqEa4AESFz1?format=jpg&amp;name=medium" alt="Jev Connects to Databend: Filter and Classify in SQL with Model Probabilities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DatabendLabs/status/2102384437581512836">Jev Connects to Databend: Filter and Classify in SQL with Model Probabilities</a></h3>
+<p>Databend connected Jev to its Python UDF server so SQL can filter, classify, and rank customer feedback records using model probabilities: Databend runs the query, Jev makes the bounded decision.</p>
+<p><strong>中文摘要：</strong>Databend 将 Jev 接入其 Python UDF 服务器，让 SQL 能利用模型概率对客户反馈记录进行过滤、分类和排序：Databend 执行查询，Jev 做出有界决策。</p>
+<p><strong>Databend</strong> · @DatabendLabs · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 17</p>
+<p><a href="https://x.com/DatabendLabs/status/2102384437581512836">在 X 查看原帖</a> · <a href="https://t.co/sZ7R35pLLM">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 143 | 82 | 61 | 3.0M |
+| 147 | 84 | 63 | 3.0M |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/madkoding/status/2102246534129537066">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/de1lymoon/status/2102383892502044789"><img src="https://pbs.twimg.com/amplify_video_thumb/2102383639795314689/img/OqzqVJuGnspJ87Yf.jpg" alt="Adding JEV to an AI Agent: A Formula for Faster Loops · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/de1lymoon/status/2102383892502044789">Adding JEV to an AI Agent: A Formula for Faster Loops</a></h3>
+<p>The post notes that JEV alone does not speed up an agent loop; speed comes from identifying repeated decisions and routing them intentionally, with the formula: Faster Agent Loop = Trace + JEV Routing + Model Fallback + Verification.</p>
+<p><strong>中文摘要：</strong>帖子指出 JEV 不会自动加速智能体循环，速度来自识别重复决策并有意路由，并给出公式：更快智能体循环 = 追踪 + JEV 路由 + 模型回退 + 验证。</p>
+<p><strong>Alex</strong> · @de1lymoon · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 46</p>
+<p><a href="https://x.com/de1lymoon/status/2102383892502044789">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102249529021976887"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Jev-powered browser agent finds flights in 7 seconds · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/0xbelorix/status/2102249529021976887">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wharleyornelas/status/2102206567751774645"><img src="https://pbs.twimg.com/media/HSyIJbRXUAAbVJJ?format=jpg&amp;name=medium" alt="DCC Uses Jev for Decisions, Not Code Writing · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
 <p><a href="https://x.com/wharleyornelas/status/2102206567751774645">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nabendu82/status/2102238961293000892"><img src="https://pbs.twimg.com/media/HSvKkq6aEAAMz-c?format=jpg&amp;name=medium" alt="Hermes Agent and Trend Hunter Bot Powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/nabendu82/status/2102238961293000892">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dabusthebuilder/status/2102206983386620249"><img src="https://pbs.twimg.com/amplify_video_thumb/2100524309022167040/img/7QB7wTo-mMwCgfgB.jpg" alt="Add the Azzle Jev MCP bridge for agents to plug into Base taskmarkets · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/dabusthebuilder/status/2102206983386620249">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/binaryreality/status/2102251573627982243"><img src="https://pbs.twimg.com/amplify_video_thumb/2102250632195588096/img/zE4GaWjwuBG8saKo.jpg" alt="Jev Agents Collaborate in Real Time to Draw Art · 原帖视频截图" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Jacob Wellinghoff 🦞</strong> · @binaryreality · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 20</p>
 <p><a href="https://x.com/binaryreality/status/2102251573627982243">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/taiyop/status/2102385502263579026"><img src="https://pbs.twimg.com/amplify_video_thumb/2102383596615172096/img/bMqSg7F0feo7gubu.jpg" alt="Jev Powers Real-Time Facial Expressions and Voice for AI Characters · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/taiyop/status/2102385502263579026">Jev Powers Real-Time Facial Expressions and Voice for AI Characters</a></h3>
+<p>Chat with an AI character at the exhibition, where Jev changes facial expressions in real time based on the conversation and Irodori TTS adds emotional voice, creating a truly responsive AI character experience.</p>
+<p><strong>中文摘要：</strong>在展会上与 AI 角色对话，Jev 根据对话实时改变角色表情，并结合 Irodori TTS 提供情感丰富的语音，实现真正有反应的 AI 角色互动。</p>
+<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/taiyop/status/2102385502263579026">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -212,6 +236,30 @@
 <p><strong>Mann Patel</strong> · @MannPatel_6554 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/MannPatel_6554/status/2102236125427621951">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/drsukrut/status/2102383704618443234"><img src="https://pbs.twimg.com/media/HS0o5ODa8AArY3g?format=jpg&amp;name=medium" alt="User Shares Jev Experience: Fast Calls and Agent Responsiveness · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/drsukrut/status/2102383704618443234">User Shares Jev Experience: Fast Calls and Agent Responsiveness</a></h3>
+<p>The user reports using Jev for fast calls under pressure in sales decisions and ran Subway Surfers in the browser to feel how quickly an agent can move, noting it is getting famous for a reason.</p>
+<p><strong>中文摘要：</strong>用户表示使用 Jev 进行高压下的快速调用，用于销售决策，并在浏览器中运行 Subway Surfers 以感受智能体的响应速度，认为其走红有原因。</p>
+<p><strong>Deepak Rajpurohit</strong> · @drsukrut · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/drsukrut/status/2102383704618443234">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taiyop/status/2102385511432065188"><img src="https://pbs.twimg.com/media/HS0sR9Da4AEXVEI?format=jpg&amp;name=medium" alt="Jev × Irodori TTS: Interactive Demo for Chatting with AI Characters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/taiyop/status/2102385511432065188">Jev × Irodori TTS: Interactive Demo for Chatting with AI Characters</a></h3>
+<p>A demo of an AI character experience built with Jev and Irodori TTS: expressions change with conversation, voice carries emotion, and characters react in real time—experience what it feels like to really chat with an AI character.</p>
+<p><strong>中文摘要：</strong>展示使用 Jev 与 Irodori TTS 打造的 AI 角色互动体验：对话时表情变化、声音带情感、角色实时反应，可现场体验与 AI 角色真实交谈的感觉。</p>
+<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/taiyop/status/2102385511432065188">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/StingCloudLab/status/2102202720341934217"><img src="https://pbs.twimg.com/amplify_video_thumb/2101867409280049152/img/3kHkjCgJIRrY9dde.jpg" alt="Wake-word-free assistant demo built with Jev and GPT-6 Astra · 原帖视频截图" width="100%"></a>

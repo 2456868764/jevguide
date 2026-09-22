@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2140</strong><br>curated posts</td>
-<td align="center"><strong>1231</strong><br>original videos</td>
+<td align="center"><strong>2162</strong><br>curated posts</td>
+<td align="center"><strong>1244</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>265</strong> showcases · <strong>127</strong> videos</p>
+<p><strong>266</strong> showcases · <strong>128</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>258</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>259</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>249</strong> showcases · <strong>103</strong> videos</p>
+<p><strong>250</strong> showcases · <strong>104</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>221</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>223</strong> showcases · <strong>176</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>143</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>147</strong> showcases · <strong>84</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>129</strong> showcases · <strong>55</strong> videos</p>
+<p><strong>131</strong> showcases · <strong>57</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>126</strong> showcases · <strong>56</strong> videos</p>
+<p><strong>127</strong> showcases · <strong>56</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>102</strong> showcases · <strong>56</strong> videos</p>
+<p><strong>103</strong> showcases · <strong>57</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>85</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>87</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>71</strong> showcases · <strong>58</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>56</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>58</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>51</strong> showcases · <strong>47</strong> videos</p>
+<p><strong>52</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>16</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>17</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
@@ -152,24 +152,24 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>15</strong> showcases · <strong>13</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
 <p><strong>15</strong> showcases · <strong>7</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
 <p><strong>15</strong> showcases · <strong>7</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>14</strong> showcases · <strong>13</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/yoheinakajima/status/2102213665361690906"><img src="https://pbs.twimg.com/amplify_video_thumb/2102213606414921728/img/cLKQS-9p31mko41V.jpg" alt="Jev-style image decision model glance-qwen3-vl-4b released · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yoheinakajima/status/2102213665361690906">Jev-style image decision model glance-qwen3-vl-4b released</a></h3>
-<p>Yohei Nakajima released glance-qwen3-vl-4b, a Jev-style fast image decision model that answers &quot;hot dog or not?&quot; in 0.4 seconds, available on Hugging Face and Replicate.</p>
-<p><strong>6.6K</strong> views · 💬 11 &nbsp; 🔁 3 &nbsp; ♡ 29 &nbsp; 📊 6.6K</p>
-<p><strong>Yohei</strong> · @yoheinakajima</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/goan999999/status/2102214426548154649"><img src="https://pbs.twimg.com/amplify_video_thumb/2102159599017046017/img/RZiboK0K4fbqbu8P.jpg" alt="Jev Reviews Car Insurance Documents, Saving User $5,000 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/goan999999/status/2102214426548154649">Jev Reviews Car Insurance Documents, Saving User $5,000</a></h3>
+<p>A user handed car insurance documents to Jev for a full review; Jev spotted issues and saved him $5,000, showing its practical value in financial document review.</p>
+<p><strong>7.7K</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 22 &nbsp; 📊 7.7K</p>
+<p><strong>govin.eth | G哥</strong> · @goan999999</p>
 </td>
 </tr>
 </table>

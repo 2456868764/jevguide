@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 71 | 58 | 13 | 904K |
+| 73 | 60 | 13 | 904K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/MargiShah_18/status/2102235854810775730">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/cleeeeeeeeement/status/2102384248585924609"><img src="https://pbs.twimg.com/amplify_video_thumb/2102384175898636289/img/CKxEmjLWDihM46qx.jpg" alt="Build a Real-Time Competitor Monitoring System with JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cleeeeeeeeement/status/2102384248585924609">Build a Real-Time Competitor Monitoring System with JEV</a></h3>
+<p>The author shares a free system built with JEV that monitors competitors&#39; prices, products, content, and ads in real time and alerts on changes.</p>
+<p><strong>中文摘要：</strong>作者分享了一个使用 JEV 构建的免费系统，可实时监控竞争对手的价格、产品、内容和广告，并在变化时发出提醒。</p>
+<p><strong>Clément</strong> · @cleeeeeeeeement · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/cleeeeeeeeement/status/2102384248585924609">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Ysato_su04/status/2102199755250229334"><img src="https://pbs.twimg.com/amplify_video_thumb/2101692435147677696/img/sZhupWJFVaJIqoFA.jpg" alt="Jev Automates Meta Ad and Search Term Analysis for Low-Cost Marketing Optimization · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖视频</code></sub>
@@ -79,6 +92,17 @@
 <p><strong>佐藤 裕二／さいたまのWEB広告運用者</strong> · @Ysato_su04 · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
 <p><a href="https://x.com/Ysato_su04/status/2102199755250229334">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cleeeeeeeeement/status/2102385560102805971"><img src="https://pbs.twimg.com/amplify_video_thumb/2102385164575739904/img/847TBANdVf5wFF2U.jpg" alt="Build a Competitor Monitoring System with JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cleeeeeeeeement/status/2102385560102805971">Build a Competitor Monitoring System with JEV</a></h3>
+<p>User shares a JEV-built competitor monitoring system: input your business and rivals, it tracks prices, products, content, and ads, and alerts you. Offered for free.</p>
+<p><strong>中文摘要：</strong>用户分享用 JEV 搭建的竞品监控系统：输入业务和对手，自动追踪价格、产品、内容和广告并发出提醒，免费提供。</p>
+<p><strong>Clément</strong> · @cleeeeeeeeement · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 21</p>
+<p><a href="https://x.com/cleeeeeeeeement/status/2102385560102805971">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

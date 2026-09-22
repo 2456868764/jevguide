@@ -1,7 +1,7 @@
-# ルークス
+# わかめうどん🌸
 
 1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-22 | [Jev Experiment: Japanese Politeness Barely Affects Judgments, Clear Requests Matter More](https://x.com/araroux/status/2102236710713319751) | 社区实践 | ルークス | 16 |
+| 2026-09-22 | [Open-source, commercially usable Jev-like model runs on PC](https://x.com/WakameUdon730/status/2102385016319910066) | 开发资源 | わかめうどん🌸 | 4 |

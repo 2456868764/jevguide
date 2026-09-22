@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 129 | 55 | 74 | 419K |
+| 131 | 57 | 74 | 419K |
 
 ## Showcase 卡片
 
@@ -107,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Amank1412/status/2102384796949479742"><img src="https://pbs.twimg.com/amplify_video_thumb/2102384761562181632/img/sCCioOVCANj74SY6.jpg" alt="Idea Validation Tool Built on TypeSafe&#39;s Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Amank1412/status/2102384796949479742">Idea Validation Tool Built on TypeSafe&#39;s Jev Model</a></h3>
+<p>Enter your idea and it scores it across 10+ signals in parallel using TypeSafe&#39;s Jev model without a generative LLM, helping validate ideas before building.</p>
+<p><strong>中文摘要：</strong>该工具输入想法后，利用 TypeSafe Jev 模型并行评估 10 多个信号，无需生成式 LLM，帮助在开发前验证想法。</p>
+<p><strong>Aman</strong> · @Amank1412 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><a href="https://x.com/Amank1412/status/2102384796949479742">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/clxymox/status/2102188598615240738"><img src="https://pbs.twimg.com/media/HSx5X4DXwAAOKNc?format=png&amp;name=medium" alt="awesome-jev-tools: Low-Latency Typed Routing and Classification Patterns · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/clxymox/status/2102188598615240738">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonjeske_ai/status/2102228587801686428"><img src="https://pbs.twimg.com/media/HSybRdhXMAARJf6?format=jpg&amp;name=medium" alt="Experimental JEV Context Engine for Hermes Agent · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +140,17 @@
 <p><strong>Jason Jeske</strong> · @jasonjeske_ai · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/jasonjeske_ai/status/2102228587801686428">在 X 查看原帖</a> · <a href="https://t.co/WHckRmUjll">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WakameUdon730/status/2102385016319910066"><img src="https://pbs.twimg.com/tweet_video_thumb/HSh_2u5bkAAZpb7.jpg" alt="Open-source, commercially usable Jev-like model runs on PC · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/WakameUdon730/status/2102385016319910066">Open-source, commercially usable Jev-like model runs on PC</a></h3>
+<p>The post introduces an open-source, commercially usable Jev-like model such as &#39;DiffusionGemma as Jev&#39; running on PC, noting that practical Jev applications are becoming visible.</p>
+<p><strong>中文摘要：</strong>帖子介绍「DiffusionGemma as Jev」这类开源商用可的Jev系模型可在PC运行，并指出Jev系的实际应用已可见。</p>
+<p><strong>わかめうどん🌸</strong> · @WakameUdon730 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/WakameUdon730/status/2102385016319910066">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 221 | 175 | 50 | 588K |
+| 223 | 176 | 51 | 588K |
 
 ## Showcase 卡片
 
@@ -286,6 +286,19 @@
 <p><a href="https://x.com/goutoberry/status/2102231550335320533">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/abhikeabhii/status/2102384343196790837"><img src="https://pbs.twimg.com/media/HS0rZvHaAAAoqIk?format=jpg&amp;name=medium" alt="Understanding TypeSafe&#39;s Jev Model Through a Dungeon Game · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/abhikeabhii/status/2102384343196790837">Understanding TypeSafe&#39;s Jev Model Through a Dungeon Game</a></h3>
+<p>The post uses a dungeon game choice—attack, retreat, or grab a potion—to explain how TypeSafe&#39;s AI model Jev makes decisions.</p>
+<p><strong>中文摘要：</strong>帖子用地下城游戏中攻击、撤退或拾取药水的选择，类比解释 TypeSafe 的 AI 模型 Jev 的决策方式。</p>
+<p><strong>Abhi Waghela</strong> · @abhikeabhii · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/abhikeabhii/status/2102384343196790837">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/GodName794/status/2102199799160475707"><img src="https://pbs.twimg.com/amplify_video_thumb/2102198809472425984/img/Xw6Vbyb4LLJV4Dff.jpg" alt="Playing Chess with the Jev Model: Algorithmic Prediction vs. Model Judgment · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -295,6 +308,17 @@
 <p><strong>GOGOGO</strong> · @GodName794 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/GodName794/status/2102199799160475707">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LucasSotomayor3/status/2102384488957317438"><img src="https://pbs.twimg.com/amplify_video_thumb/2102383920670998529/img/6G8vLzbHbnYiHlWe.jpg" alt="Jev + Astra in Pac-Man · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LucasSotomayor3/status/2102384488957317438">Jev + Astra in Pac-Man</a></h3>
+<p>A demo of Jev and Astra playing Pac-Man, with a runnable web link.</p>
+<p><strong>中文摘要：</strong>演示 Jev 与 Astra 在吃豆人游戏中的表现，附可运行网页链接。</p>
+<p><strong>Lucas Sotomayor</strong> · @LucasSotomayor3 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/LucasSotomayor3/status/2102384488957317438">在 X 查看原帖</a> · <a href="https://t.co/nsFRilUyj2">原文链接</a></p>
 </td>
 </tr>
 <tr>

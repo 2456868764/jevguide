@@ -12,6 +12,7 @@
 | 2026-09-22 | [Jev and sai_borg Enable Screen-Based Control Without Integrations](https://x.com/patricklawsonai/status/2102205625514226174) | 自动化工作流 | Patrick Lawson | 21K |
 | 2026-09-22 | [Awesome Jev: A Curated Jev Resource List on GitHub](https://x.com/geekbb/status/2102226879772332527) | 开发资源 | Geek | 13K |
 | 2026-09-22 | [Building a site for questions that stump Jev](https://x.com/kensuu/status/2102218284825444362) | 社区实践 | けんすう | 13K |
+| 2026-09-22 | [Jev Reviews Car Insurance Documents, Saving User $5,000](https://x.com/goan999999/status/2102214426548154649) | 金融 | govin.eth \| G哥 | 7.7K |
 | 2026-09-22 | [Jev-style image decision model glance-qwen3-vl-4b released](https://x.com/yoheinakajima/status/2102213665361690906) | 产品发布 | Yohei | 6.6K |
 | 2026-09-22 | [TypeSafe Jev 1.13 now available on DGrid](https://x.com/dgrid_ai/status/2102231668040040687) | 接入动态 | DGrid AI | 5.2K |
 | 2026-09-22 | [Jev Model Expresses Dislike for Seaweed When Generating Text](https://x.com/_lyraaaa_/status/2102233484194725894) | 工作原理 | lyra bubbles | 4.6K |
@@ -101,4 +102,3 @@
 | 2026-09-22 | [Jev makes web search more context-efficient; author open-sources webctl](https://x.com/dorkitude/status/2102194028704092585) | 开发资源 | Kyle Wild | 191 |
 | 2026-09-22 | [JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap](https://x.com/clarkalphas/status/2102191050324574375) | 金融 | Clark | 190 |
 | 2026-09-22 | [Jev Founder Diogo Almeida Releases 36-Minute Masterclass](https://x.com/0xF1ction/status/2102192519215812893) | 产品发布 | Fiction | 181 |
-| 2026-09-22 | [Understanding how TypeSafe Jev picks colors for words via buildfirst.ai demo](https://x.com/bethanymarz/status/2102243184470294586) | 工作原理 | Bethany Crystal | 179 |

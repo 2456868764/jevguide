@@ -1,9 +1,10 @@
 # Aman
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Idea Validation Tool Built on TypeSafe's Jev Model](https://x.com/Amank1412/status/2102384796949479742) | 开发资源 | Aman | 54 |
 | 2026-09-22 | [Jev Model: Typed Questions Instead of Text Generation](https://x.com/amn_baluni/status/2102228274101506182) | 工作原理 | Aman | 25 |
 | 2026-09-20 | [Jev Replaces Brittle JSON Parsing with Option Scoring](https://x.com/amn_baluni/status/2101709218705297873) | 开发者工具 | Aman | 12 |
 | 2026-09-20 | [Community Quickly Wires Jev into Verification Loops and Agent Judges](https://x.com/amn_baluni/status/2101681378698142191) | 社区实践 | Aman | 11 |

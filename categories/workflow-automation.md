@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 85 | 60 | 25 | 595K |
+| 87 | 61 | 26 | 595K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/codingzx/status/2102240636745163237">在 X 查看原帖</a> · <a href="https://t.co/q78M6bqhXR">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/seltzer/status/2102384993720799732"><img src="https://pbs.twimg.com/media/HS0rUiuaYAEZFdT?format=jpg&amp;name=medium" alt="Implementing Pre-send Spam Filtering with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/seltzer/status/2102384993720799732">Implementing Pre-send Spam Filtering with Jev</a></h3>
+<p>The author experiments with building a spam filter using Jev, exploring filtering before sending rather than after.</p>
+<p><strong>中文摘要：</strong>作者尝试用 Jev 构建垃圾邮件过滤器，并探索在发送前而非发送后进行过滤的实现方式。</p>
+<p><strong>たにぐち まこと／ちゃんとWeb withAI</strong> · @seltzer · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
+<p><a href="https://x.com/seltzer/status/2102384993720799732">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kalenjordan/status/2102194463107866822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102194436105019392/img/eJ0ey_Wrx9dDrOkb.jpg" alt="Jev Use Case: Handling Edge Cases in Phone System Navigation · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
 <p><a href="https://x.com/kalenjordan/status/2102194463107866822">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taku_ai_case/status/2102251038715601052"><img src="https://pbs.twimg.com/media/HSyklY4a0AARFLg?format=jpg&amp;name=medium" alt="Jev as a middle layer in automation: machine → Jev → ChatGPT/Claude · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/taku_ai_case/status/2102251038715601052">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/VersunPan/status/2102201927178371280">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gemama0/status/2102198046201086356"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197556138684416/img/VOAFvXpPpUMtUKYH.jpg" alt="Building an Automatic Note Tagging System with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/gemama0/status/2102198046201086356">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102249844756951427"><img src="https://pbs.twimg.com/media/HSyxFcPbwAA6RA2?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
 <p><a href="https://x.com/notifykamalraj/status/2102249844756951427">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Divine_machine/status/2102222351102574609"><img src="https://pbs.twimg.com/media/HSyYETFXUAA6EK-?format=jpg&amp;name=medium" alt="Jev Desktop: A Verification and Automation Alternative to Computer Use · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Divine_machine/status/2102222351102574609">在 X 查看原帖</a> · <a href="https://t.co/9rFzo3IdcK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102250249914065194"><img src="https://pbs.twimg.com/media/HSyxZg0aAAAY_xK?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/notifykamalraj/status/2102250249914065194">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Divine_machine/status/2102222220403556762"><img src="https://pbs.twimg.com/media/HSyX6BGWAAE-i7i?format=jpg&amp;name=medium" alt="Jev Desktop: An Alternative for Verification Workflows and Automation Tasks · 原帖图片" width="100%"></a>
 <br>
@@ -188,6 +199,19 @@
 <p><strong>Divine 〽️achine</strong> · @Divine_machine · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/Divine_machine/status/2102222220403556762">在 X 查看原帖</a> · <a href="https://t.co/9rFzo3HFnc">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tgtanalytics/status/2102384921012785583"><img src="https://pbs.twimg.com/amplify_video_thumb/2102213209415389184/img/2yg07K-aUj2iihyF.jpg" alt="Jev Model Automates Part Sorting: 54 Parts for $0.0015 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tgtanalytics/status/2102384921012785583">Jev Model Automates Part Sorting: 54 Parts for $0.0015</a></h3>
+<p>TGT Analytics demonstrates a real-world use case of the Jev model for part sorting: 54 parts sensed, decided, and sorted at a total AI cost of $0.0015, with 150-200ms per part and 99.7% confidence. At scale, 10,000 parts/day costs $0.27, and 1M parts costs $27.</p>
+<p><strong>中文摘要：</strong>TGT Analytics 展示 Jev 模型在零件分拣中的实际应用：54 个零件被感知、决策和分拣，总 AI 成本仅 0.0015 美元，每个零件耗时 150-200 毫秒，置信度 99.7%。规模化后，每天 1 万个零件成本 0.27 美元，100 万个零件成本 27 美元。</p>
+<p><strong>TGT Analytics</strong> · @tgtanalytics · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/tgtanalytics/status/2102384921012785583">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonzhou1993/status/2101988970565603489"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987836719398912/img/mu7p8-nvTFQZ5hyg.jpg" alt="Jev + Treg Combo: Three Automation Workflows Save $8k/Month · 原帖视频截图" width="100%"></a>

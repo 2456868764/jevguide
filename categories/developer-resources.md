@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 134 | 57 | 77 | 419K |
+| 138 | 59 | 79 | 419K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/gdechichi/status/2102408884807942578"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112486837096449/img/-pAuYpFAhQmzM0uC.jpg" alt="Mutuals builds AI long-term memory system on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gdechichi/status/2102408884807942578">Mutuals builds AI long-term memory system on Jev</a></h3>
+<p>Mutuals is building a complete memory system on top of Jev to make AI long-term memory storage and retrieval ultra-fast and cheap.</p>
+<p><strong>中文摘要：</strong>Mutuals 正在 Jev 之上构建完整的记忆系统，旨在让 AI 长期记忆的存储与检索变得超快且低成本。</p>
+<p><strong>Gabriel Dechichi</strong> · @gdechichi · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 428</p>
+<p><a href="https://x.com/gdechichi/status/2102408884807942578">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ericjuta/status/2102394471467868253"><img src="https://pbs.twimg.com/media/HS00Iv-WsAEqeqU?format=jpg&amp;name=medium" alt="Building a Jev Plugin: Using omp-cua-jev to Find Best-Value Anniversary Tickets · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 244</p>
 <p><a href="https://x.com/ericjuta/status/2102394471467868253">在 X 查看原帖</a> · <a href="https://t.co/3cZz7mb7r2">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dorkitude/status/2102194028704092585"><img src="https://pbs.twimg.com/media/HSx-UqEaIAEjR4L?format=jpg&amp;name=medium" alt="Jev makes web search more context-efficient; author open-sources webctl · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 191</p>
 <p><a href="https://x.com/dorkitude/status/2102194028704092585">在 X 查看原帖</a> · <a href="https://t.co/AUMoMJ327G">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tjm8874/status/2102213706059051162"><img src="https://pbs.twimg.com/media/HSyM0fMbcAA3Q8h?format=jpg&amp;name=large" alt="Jev-ifying Qwen and LFM Models with LoRA · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 176</p>
 <p><a href="https://x.com/tjm8874/status/2102213706059051162">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rene05x/status/2102207628755738777"><img src="https://pbs.twimg.com/media/HSyKsWeaAAA39XU?format=jpg&amp;name=medium" alt="LAYA: An Open-Source Alternative to TypeSafe Jev · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Rene F Bernard</strong> · @rene05x · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 164</p>
 <p><a href="https://x.com/rene05x/status/2102207628755738777">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/so_ainsight/status/2102412366487146919"><img src="https://pbs.twimg.com/media/HS1E5gWbAAAu-2r?format=jpg&amp;name=medium" alt="19 Projects Using Jev, the Fast Decision-Focused AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/so_ainsight/status/2102412366487146919">19 Projects Using Jev, the Fast Decision-Focused AI</a></h3>
+<p>A roundup of 19 projects leveraging the TypeSafe Jev model, including jev-ultrafast browser agent that instantly decides the next action, with flight search in about 7 seconds.</p>
+<p><strong>中文摘要：</strong>汇总19个利用TypeSafe Jev模型的项目，如jev-ultrafast浏览器代理可即时判断下一步操作，航空券搜索约7秒。</p>
+<p><strong>そう｜Claude CodeのX運用で月800万インプ</strong> · @so_ainsight · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 99</p>
+<p><a href="https://x.com/so_ainsight/status/2102412366487146919">在 X 查看原帖</a> · <a href="https://t.co/RlxglPzb5B">原文链接</a></p>
 </td>
 </tr>
 <tr>
@@ -179,6 +203,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/sriysnav/status/2102412921016066068"><img src="https://pbs.twimg.com/amplify_video_thumb/2102412679113768960/img/0QBeSQ3IGlez2zIe.jpg" alt="Building demigods with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sriysnav/status/2102412921016066068">Building demigods with Jev</a></h3>
+<p>A developer shares an attempt to build a demigods app using Jev, noting limited TypeSafe AI account balance.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Jev 构建 demigods 应用的尝试，并提到 TypeSafe AI 账户余额有限。</p>
+<p><strong>Sri Vaishnav</strong> · @sriysnav · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/sriysnav/status/2102412921016066068">在 X 查看原帖</a> · <a href="https://t.co/fa8jn7fFxC">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/WakameUdon730/status/2102385016319910066"><img src="https://pbs.twimg.com/tweet_video_thumb/HSh_2u5bkAAZpb7.jpg" alt="Open-source, commercially usable Jev-like model runs on PC · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -188,6 +223,19 @@
 <p><strong>わかめうどん🌸</strong> · @WakameUdon730 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/WakameUdon730/status/2102385016319910066">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/synthoraihq/status/2102411462656536969"><img src="https://pbs.twimg.com/media/HS1EE1ub0AA9wIM?format=png&amp;name=medium" alt="TypeSafe Jev vs 5 Flash LLMs: Cost and Speed Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/synthoraihq/status/2102411462656536969">TypeSafe Jev vs 5 Flash LLMs: Cost and Speed Comparison</a></h3>
+<p>Measured results show TypeSafe&#39;s Jev was 5-37x cheaper and 11-27x faster than 5 flash LLMs with 12 questions per text; with one label per message, cost matched Qwen or GLM, but it was never the most accurate.</p>
+<p><strong>中文摘要：</strong>实测显示，每段文本 12 个问题时，TypeSafe 的 Jev 比 5 个 flash LLM 便宜 5-37 倍、快 11-27 倍；每条消息一个标签时成本与 Qwen 或 GLM 相当，但准确率从未最高。</p>
+<p><strong>synthorai</strong> · @synthoraihq · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/synthoraihq/status/2102411462656536969">在 X 查看原帖</a> · <a href="https://t.co/O1qlpOeZle">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/explainx_ai/status/2102241719505097093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102241538369839104/img/y9hcvLs-QuzjelDg.jpg" alt="Jev: Deciding with Three JSON Primitives, Not Chatting · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 91 | 62 | 29 | 595K |
+| 93 | 62 | 31 | 595K |
 
 ## Showcase 卡片
 
@@ -131,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/rarirureluis/status/2102409913544888727"><img src="https://pbs.twimg.com/media/HS1CnqXaQAABWRM?format=jpg&amp;name=medium" alt="Todoist-Driven Development with OpenCode2 + Jev + Todoist · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rarirureluis/status/2102409913544888727">Todoist-Driven Development with OpenCode2 + Jev + Todoist</a></h3>
+<p>Using Jev to call OpenCode2 API&#39;s fs.read/fs.find from Todoist information to generate candidates and determine the most suitable working directory, with high accuracy.</p>
+<p><strong>中文摘要：</strong>利用 Jev 从 Todoist 信息中调用 OpenCode2 API 的 fs.read/fs.find 生成候选项，并判断最合适的工作目录，精度很高。</p>
+<p><strong>るいす</strong> · @rarirureluis · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 34</p>
+<p><a href="https://x.com/rarirureluis/status/2102409913544888727">在 X 查看原帖</a> · <a href="https://t.co/henGTs4ZDE">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/taku_ai_case/status/2102251038715601052"><img src="https://pbs.twimg.com/media/HSyklY4a0AARFLg?format=jpg&amp;name=medium" alt="Jev as a middle layer in automation: machine → Jev → ChatGPT/Claude · 原帖图片" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖图片</code></sub>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/taku_ai_case/status/2102251038715601052">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/VersunPan/status/2102201927178371280">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gemama0/status/2102198046201086356"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197556138684416/img/VOAFvXpPpUMtUKYH.jpg" alt="Building an Automatic Note Tagging System with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/gemama0/status/2102198046201086356">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102249844756951427"><img src="https://pbs.twimg.com/media/HSyxFcPbwAA6RA2?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
 <p><a href="https://x.com/notifykamalraj/status/2102249844756951427">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shayahal1/status/2102392874394374584"><img src="https://pbs.twimg.com/media/HS0yvgiXsAAD5F8?format=jpg&amp;name=medium" alt="Multi-stage text matching architecture with Jev screener · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/shayahal1/status/2102392874394374584">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yara_david/status/2102394566812815805"><img src="https://pbs.twimg.com/media/HS00lkmXIAAQPDo?format=png&amp;name=medium" alt="10 Recommended Jev Use Cases: LLM Writes, Jev Decides · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/yara_david/status/2102394566812815805">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eyishazyer/status/2102398038555734356"><img src="https://pbs.twimg.com/amplify_video_thumb/2101161072447180800/img/sRIOALT11TUpdAdU.jpg" alt="Jev Controls City Traffic Grid at 412ms Latency · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/eyishazyer/status/2102398038555734356">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Divine_machine/status/2102222351102574609"><img src="https://pbs.twimg.com/media/HSyYETFXUAA6EK-?format=jpg&amp;name=medium" alt="Jev Desktop: A Verification and Automation Alternative to Computer Use · 原帖图片" width="100%"></a>
 <br>
@@ -223,6 +236,17 @@
 <p><strong>Divine 〽️achine</strong> · @Divine_machine · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Divine_machine/status/2102222351102574609">在 X 查看原帖</a> · <a href="https://t.co/9rFzo3IdcK">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TadatakaTakaha1/status/2102407951365423337"><img src="https://pbs.twimg.com/media/HS1ArEjaEAE43cx?format=jpg&amp;name=medium" alt="Using Jev with probabilistic decision trees for curry shop inquiries · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TadatakaTakaha1/status/2102407951365423337">Using Jev with probabilistic decision trees for curry shop inquiries</a></h3>
+<p>The author defines decision trees and business rules in code, delegates ambiguous judgments to Jev, and logs probabilities and confidence to validate a curry shop inquiry workflow.</p>
+<p><strong>中文摘要：</strong>作者用代码定义决策树和业务规则，把模糊判断交给 Jev，并记录概率与置信度，以验证咖喱店咨询处理流程。</p>
+<p><strong>Taka Tech</strong> · @TadatakaTakaha1 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/TadatakaTakaha1/status/2102407951365423337">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

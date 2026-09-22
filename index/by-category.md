@@ -1,23 +1,23 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 269
-- [Developer tools](../categories/developer-tools.md) — 262
-- [Access updates](../categories/access-updates.md) — 259
-- [Gaming](../categories/gaming.md) — 225
-- [Agents](../categories/agents.md) — 150
-- [Launch news](../categories/launch-news.md) — 141
-- [Developer resources](../categories/developer-resources.md) — 134
-- [Community builds](../categories/community-builds.md) — 131
-- [Finance](../categories/finance.md) — 104
-- [Workflow automation](../categories/workflow-automation.md) — 91
-- [Marketing](../categories/marketing.md) — 76
-- [Knowledge & search](../categories/knowledge-search.md) — 65
+- [How it works](../categories/how-it-works.md) — 276
+- [Developer tools](../categories/developer-tools.md) — 264
+- [Access updates](../categories/access-updates.md) — 261
+- [Gaming](../categories/gaming.md) — 227
+- [Agents](../categories/agents.md) — 151
+- [Launch news](../categories/launch-news.md) — 144
+- [Developer resources](../categories/developer-resources.md) — 138
+- [Community builds](../categories/community-builds.md) — 133
+- [Finance](../categories/finance.md) — 105
+- [Workflow automation](../categories/workflow-automation.md) — 93
+- [Marketing](../categories/marketing.md) — 77
+- [Knowledge & search](../categories/knowledge-search.md) — 67
 - [Data analytics](../categories/data-analytics.md) — 61
-- [Content creation](../categories/content-creation.md) — 53
+- [Content creation](../categories/content-creation.md) — 54
 - [Robotics](../categories/robotics.md) — 31
 - [Scientific research](../categories/scientific-research.md) — 22
-- [Customer support](../categories/customer-support.md) — 20
-- [Productivity](../categories/productivity.md) — 18
+- [Customer support](../categories/customer-support.md) — 21
+- [Productivity](../categories/productivity.md) — 19
 - [Business operations](../categories/business-operations.md) — 15
 - [Healthcare](../categories/healthcare.md) — 15
 - [Cybersecurity](../categories/cybersecurity.md) — 15

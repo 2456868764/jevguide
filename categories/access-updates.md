@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 259 | 106 | 153 | 802K |
+| 261 | 106 | 155 | 802K |
 
 ## Showcase 卡片
 
@@ -334,6 +334,19 @@
 <p><a href="https://x.com/hTrapVader/status/2102215023691256274">在 X 查看原帖</a> · <a href="https://t.co/fZwtGYycTA">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/PPQdotAI/status/2102412297742282752"><img src="https://pbs.twimg.com/media/HS1EbvvWgAA3tCR?format=jpg&amp;name=medium" alt="TypeSafe Jev Decision Model Now on PPQ Web App and API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PPQdotAI/status/2102412297742282752">TypeSafe Jev Decision Model Now on PPQ Web App and API</a></h3>
+<p>PPQ announces that TypeSafe AI&#39;s new Jev decision model is available in its web app and API; the web app serves as an introduction, while most users will find use cases via the API version.</p>
+<p><strong>中文摘要：</strong>PPQ 宣布 TypeSafe AI 的新 Jev 决策模型已在其网页应用和 API 上线，网页应用偏展示介绍，多数用户可通过 API 版本探索使用场景。</p>
+<p><strong>PayPerQ</strong> · @PPQdotAI · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 28</p>
+<p><a href="https://x.com/PPQdotAI/status/2102412297742282752">在 X 查看原帖</a> · <a href="https://t.co/ZUBOl5m994">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/mucho243/status/2102392938097745976"><img src="https://pbs.twimg.com/media/HS0ylWaawAAbHyW?format=jpg&amp;name=medium" alt="Connecting ServiceNow PDI with Jev via API · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/mucho243/status/2102392938097745976">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102187007367606684"><img src="https://pbs.twimg.com/media/HSx38X-WsAAOswh?format=jpg&amp;name=medium" alt="Non-Autoregressive Decision Model Laya Claims 6-8x Faster Inference Than Jev · 原帖图片" width="100%"></a>
 <br>
@@ -356,6 +367,19 @@
 <p><strong>Valvet Online</strong> · @VALVETONLINE · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/VALVETONLINE/status/2102187007367606684">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/getprasannav/status/2102409673110696422"><img src="https://pbs.twimg.com/media/HS1CMQAaEAAxRYM?format=jpg&amp;name=medium" alt="User reports spending only 5 cents on Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/getprasannav/status/2102409673110696422">User reports spending only 5 cents on Jev</a></h3>
+<p>A user says they have spent only 5 cents total on Jev, noting the pricing could last them several months.</p>
+<p><strong>中文摘要：</strong>一位用户表示在 Jev 上累计花费仅 5 美分，并称这样的定价可以支撑数月使用。</p>
+<p><strong>Prasanna Vaidya</strong> · @getprasannav · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/getprasannav/status/2102409673110696422">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/sakizm97/status/2102237077928907031"><img src="https://pbs.twimg.com/media/HSylYSQaUAANNYQ?format=png&amp;name=900x900" alt="User signs up for Jev, flags security and data protection · 原帖图片" width="100%"></a>

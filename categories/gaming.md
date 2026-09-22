@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 225 | 177 | 52 | 588K |
+| 227 | 178 | 53 | 588K |
 
 ## Showcase 卡片
 
@@ -310,6 +310,19 @@
 <p><a href="https://x.com/abhikeabhii/status/2102384343196790837">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Smallzero/status/2102408675071820142"><img src="https://pbs.twimg.com/amplify_video_thumb/2102280368682360832/img/r-xnMLmgUV76IN9-.jpg" alt="Developer Uses Jev as Hosted Intelligence for Game Boss Battles · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Smallzero/status/2102408675071820142">Developer Uses Jev as Hosted Intelligence for Game Boss Battles</a></h3>
+<p>A post says a developer used Jev as a fully hosted intelligence to power boss battles in a game, noting Jev&#39;s extremely low token cost makes it feasible.</p>
+<p><strong>中文摘要：</strong>一则帖子称，有开发者利用 Jev 作为完全托管的智能来驱动游戏中的 Boss 战，并指出 Jev 的 token 成本极低使这一做法可行。</p>
+<p><strong>smallzero</strong> · @Smallzero · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Smallzero/status/2102408675071820142">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/GodName794/status/2102199799160475707"><img src="https://pbs.twimg.com/amplify_video_thumb/2102198809472425984/img/Xw6Vbyb4LLJV4Dff.jpg" alt="Playing Chess with the Jev Model: Algorithmic Prediction vs. Model Judgment · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -320,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/GodName794/status/2102199799160475707">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LucasSotomayor3/status/2102384488957317438"><img src="https://pbs.twimg.com/amplify_video_thumb/2102383920670998529/img/6G8vLzbHbnYiHlWe.jpg" alt="Jev + Astra in Pac-Man · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/LucasSotomayor3/status/2102384488957317438">在 X 查看原帖</a> · <a href="https://t.co/nsFRilUyj2">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ezeugo__/status/2102207212986724814"><img src="https://pbs.twimg.com/media/HSyKRfEXIAE-iqB?format=jpg&amp;name=medium" alt="Playing Chess with Jev: Board State and choice() Move Experiment · 原帖图片" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/ezeugo__/status/2102207212986724814">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stevanuspangau/status/2102397989604188544"><img src="https://pbs.twimg.com/amplify_video_thumb/2102397935799685121/img/Xzux0u_qs10UA0bt.jpg" alt="Driving a Snake Game with TypeSafe&#39;s Jev Decision Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -356,6 +367,19 @@
 <p><strong>stevanus pangau</strong> · @stevanuspangau · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/stevanuspangau/status/2102397989604188544">在 X 查看原帖</a> · <a href="https://t.co/3Lyq8OZGk9">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/willkriski/status/2102411443576455225"><img src="https://pbs.twimg.com/media/HS1EDIrWsAACP_Z?format=jpg&amp;name=medium" alt="How to Get Low-Latency Jev Calls for Game Control · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/willkriski/status/2102411443576455225">How to Get Low-Latency Jev Calls for Game Control</a></h3>
+<p>A user asks how to achieve low-latency Jev API calls for controlling video games, noting their own calls are slow.</p>
+<p><strong>中文摘要：</strong>用户询问如何用 Jev 实现低延迟 API 调用以控制视频游戏，并提到自己的 API 调用较慢。</p>
+<p><strong>Will Kriski</strong> · @willkriski · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/willkriski/status/2102411443576455225">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/heyxviraj/status/2102048070649405592"><img src="https://pbs.twimg.com/amplify_video_thumb/2102047920615010304/img/QCMIJCwgr2kpZZ-S.jpg" alt="Jev and Laya Play the Chrome Dinosaur Game Against Each Other · 原帖视频截图" width="100%"></a>

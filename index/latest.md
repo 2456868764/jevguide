@@ -40,6 +40,7 @@
 | 2026-09-22 | [Jev Makes Windows CUA Gaming Scenarios More Practical](https://x.com/CMGS1988/status/2102214531955237244) | 游戏 | CMGS | 1.1K |
 | 2026-09-22 | [Jev Model Enables One-Person Agency for Debt Recovery](https://x.com/everestchris6/status/2102207511545930070) | 金融 | Chris | 1.1K |
 | 2026-09-22 | [Real-world Jev scenario: AI helps you save money](https://x.com/songsong/status/2102219636326690851) | 接入动态 | 宋宋 | 991 |
+| 2026-09-22 | [Build a self-improving AI employee with Jev](https://x.com/DataChaz/status/2102408552015163623) | 智能体 | Charly Wargnier ♨️ | 900 |
 | 2026-09-22 | [Jev benchmarked against Claude Opus, Haiku 4.5, and GPT-5.4 Mini](https://x.com/ShenSeanChen/status/2102234040535494876) | 产品发布 | Shen Sean Chen | 874 |
 | 2026-09-22 | [Creator Decision Engine Built on TypeSafe's Jev Model](https://x.com/defileo/status/2102190191419281826) | 开发者工具 | Defileo🔮 | 860 |
 | 2026-09-22 | [User questions Jev model calibration](https://x.com/shreyshahi/status/2102211285605830744) | 工作原理 | shreyshahi | 751 |
@@ -69,6 +70,7 @@
 | 2026-09-22 | [Jev Real-Time Dialogue Expression System](https://x.com/shields_pikes/status/2102232350449135728) | 游戏 | 岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人 | 455 |
 | 2026-09-22 | [User Has Jev Take MBTI Test, Result Is INTJ](https://x.com/nwnwnyo/status/2102216975275753865) | 社区实践 | ヨ | 452 |
 | 2026-09-22 | [Building Knowledge Graphs Fast with Jev](https://x.com/saivenna5/status/2102224856913748073) | 知识与搜索 | sai | 430 |
+| 2026-09-22 | [Mutuals builds AI long-term memory system on Jev](https://x.com/gdechichi/status/2102408884807942578) | 开发资源 | Gabriel Dechichi | 428 |
 | 2026-09-22 | [Jev Performs Well in Its Use Cases; Fine-Tuned Open Models May Be Better for Production](https://x.com/lyricwai/status/2102194730302062778) | 开发者工具 | Lyric🌀 | 419 |
 | 2026-09-22 | [How JEV Makes Structured LLM Outputs Faster](https://x.com/maheshnani122/status/2102239463028265387) | 工作原理 | Mahesh Nani | 408 |
 | 2026-09-22 | [Discussion on Jev for Real-World GUI Automation](https://x.com/codingzx/status/2102240636745163237) | 自动化工作流 | 晓 | 401 |
@@ -100,5 +102,3 @@
 | 2026-09-22 | [Beware of TypeSafe AI Impostor: Jev API Pricing One Digit Higher](https://x.com/Bioinfo_Kimura/status/2102208548558287074) | 接入动态 | kimura512@開発者 | 233 |
 | 2026-09-22 | [Jev Shows Better Performance in Japanese Spam Detection](https://x.com/rioriost/status/2102232086660993382) | 网络安全 | ただの養蜂家だ🐝🇺🇦 | 221 |
 | 2026-09-22 | [Jev Automatically Passes Alibaba Cloud AI Engineer Mock Exam in 21 Seconds](https://x.com/0xlangeai/status/2102205717210128649) | 教育 | 蓝哥AI | 220 |
-| 2026-09-22 | [Jev Powers Fighting Game Automation Without Integration](https://x.com/I_amShiti/status/2102246319058252176) | 游戏 | Kuria \| AI | 215 |
-| 2026-09-22 | [Test Jev Against Claude, OpenAI, Grok, and Gemini](https://x.com/waku_agent/status/2102239150607073649) | 开发者工具 | Waku Agent | 209 |

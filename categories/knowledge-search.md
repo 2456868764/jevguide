@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 65 | 38 | 27 | 235K |
+| 67 | 39 | 28 | 235K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/KobyleckiMarcin/status/2102408968345948640"><img src="https://pbs.twimg.com/media/HS1AaB5WYAAzvIR?format=jpg&amp;name=medium" alt="Quick JEV model benchmark on &#39;Lalka&#39; text data · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KobyleckiMarcin/status/2102408968345948640">Quick JEV model benchmark on &#39;Lalka&#39; text data</a></h3>
+<p>The author ran a low-cost quick benchmark of the JEV model on text related to the film &#39;Lalka&#39; and added a few exam questions about &#39;Lalka&#39;.</p>
+<p><strong>中文摘要：</strong>作者用 JEV 模型对与电影《玩偶》相关的文本做了一次低成本快速基准测试，并加入了几道《玩偶》的高考题目。</p>
+<p><strong>Marcin Kobylecki</strong> · @KobyleckiMarcin · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/KobyleckiMarcin/status/2102408968345948640">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/blockhubacademy/status/2102248522158424327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145771324014592/img/inCyNuF7DREKPo2F.jpg" alt="LLM vs Jev: What&#39;s the Difference? · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/blockhubacademy/status/2102248522158424327">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JackSk35800/status/2102243060189147353"><img src="https://pbs.twimg.com/amplify_video_thumb/2102241951819202561/img/KPY5AemnbtVqjNgV.jpg" alt="Jev Integrated into PaperDance: Better arXiv Paper Filtering · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Kelip</strong> · @JackSk35800 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/JackSk35800/status/2102243060189147353">在 X 查看原帖</a> · <a href="https://t.co/mpR41wIZd3">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cocoloba_/status/2102412487526396376"><img src="https://pbs.twimg.com/amplify_video_thumb/2102411993659453440/img/L2LoXa7Uq40SH_DR.jpg" alt="Infinite Movie Search with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cocoloba_/status/2102412487526396376">Infinite Movie Search with Jev</a></h3>
+<p>The author shares a demo site for infinite movie search built with Jev.</p>
+<p><strong>中文摘要：</strong>作者分享了一个使用 Jev 构建的无限电影搜索演示网站。</p>
+<p><strong>Josh Madeiros</strong> · @cocoloba_ · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/cocoloba_/status/2102412487526396376">在 X 查看原帖</a> · <a href="https://t.co/1fPdHBSWhR">原文链接</a></p>
 </td>
 </tr>
 <tr>

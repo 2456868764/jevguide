@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 131 | 57 | 76 | 3.0M |
+| 133 | 58 | 77 | 3.0M |
 
 ## Showcase 卡片
 
@@ -190,6 +190,19 @@
 <p><a href="https://x.com/MarcinAI81/status/2102226800596209825">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/seltzer/status/2102412245687001279"><img src="https://pbs.twimg.com/media/HS1El-ubUAAr_DV?format=jpg&amp;name=medium" alt="Building a Link Checker with Browser Automation and Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/seltzer/status/2102412245687001279">Building a Link Checker with Browser Automation and Jev</a></h3>
+<p>The author shares jev-ultrafast, a tool combining browser automation with Jev, and tries building a link checker, only to realize it only checks for 404s and doesn&#39;t actually use Jev.</p>
+<p><strong>中文摘要：</strong>作者分享将浏览器自动控制与Jev结合的工具jev-ultrafast，并尝试构建链接检查器，但发现仅判断404并未真正用到Jev。</p>
+<p><strong>たにぐち まこと／ちゃんとWeb withAI</strong> · @seltzer · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/seltzer/status/2102412245687001279">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/blanplan/status/2102199236263858578"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196234207600640/img/8leiNH5LJRYUvozk.jpg" alt="Testing Jev&#39;s browser control scenario on a cloud machine · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/blanplan/status/2102199236263858578">在 X 查看原帖</a> · <a href="https://t.co/feoEEQGRYv">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/misadroid/status/2102220661913743412"><img src="https://pbs.twimg.com/media/HSyWf8QagAE5oxr?format=png&amp;name=small" alt="User shares early impressions of trying Jev · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 48</p>
 <p><a href="https://x.com/misadroid/status/2102220661913743412">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masanoriobata/status/2102233568474976596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102233544588394496/img/rO_HjnpgMpvXbWJS.jpg" alt="New Series on Judgment AI &#39;Jev&#39;: Insights from the Vibe Coder Dojo · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/masanoriobata/status/2102233568474976596">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SatOnchain/status/2102248693240140285"><img src="https://pbs.twimg.com/media/HSywCLSa8AAHNIy?format=jpg&amp;name=medium" alt="Jev Handbook: 59-Page Workflow Guide · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 38</p>
 <p><a href="https://x.com/SatOnchain/status/2102248693240140285">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/no_ai_no_life/status/2102186179680739606"><img src="https://pbs.twimg.com/media/HSx0tIgaQAAgAQM?format=jpg&amp;name=medium" alt="Building a personal tool with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 35</p>
 <p><a href="https://x.com/no_ai_no_life/status/2102186179680739606">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/take19743299/status/2102230534860800450"><img src="https://pbs.twimg.com/amplify_video_thumb/2101924516859711488/img/8VMbEr29TnvI0ALV.jpg" alt="User Sees Great Potential in Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/take19743299/status/2102230534860800450">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polloai_creator/status/2102201218651287785"><img src="https://pbs.twimg.com/amplify_video_thumb/2101977832268382208/img/bJlf8wYWDqeue4uP.jpg" alt="PolloAI Creator Jokes About Creative Uses of TypeSafe JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -271,6 +284,17 @@
 <p><strong>PolloAI Creators</strong> · @polloai_creator · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/polloai_creator/status/2102201218651287785">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2102412002295738763"><img src="https://pbs.twimg.com/amplify_video_thumb/2102131502578290688/img/ygqNpGaKAhekXxH1.jpg" alt="New project built with Jev featured · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2102412002295738763">New project built with Jev featured</a></h3>
+<p>The author shares a project built with Jev and will feature it on madewithJEV.com.</p>
+<p><strong>中文摘要：</strong>作者分享了一个用 Jev 构建的项目，并将在 madewithJEV.com 上展示。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/kraayenJon/status/2102412002295738763">在 X 查看原帖</a> · <a href="https://t.co/jS7iFbuKMy">原文链接</a></p>
 </td>
 </tr>
 <tr>

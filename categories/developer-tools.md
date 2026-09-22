@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 262 | 143 | 120 | 3.6M |
+| 264 | 143 | 122 | 3.6M |
 
 ## Showcase 卡片
 
@@ -286,6 +286,19 @@
 <p><a href="https://x.com/brunovolpato/status/2102248379426144677">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/jerry543/status/2102408450747818228"><img src="https://pbs.twimg.com/media/HS1BIc1XEAA_W_t?format=jpg&amp;name=900x900" alt="User flags Jev instruction issue without web search · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jerry543/status/2102408450747818228">User flags Jev instruction issue without web search</a></h3>
+<p>The user notes Jev&#39;s instruction asks to use search results as evidence, but without web search no evidence is provided, often leading to poor answers.</p>
+<p><strong>中文摘要：</strong>用户指出 Jev 的指令要求以搜索结果作为证据，但在无联网搜索时无法提供证据，导致多数情况下回答不佳。</p>
+<p><strong>Jerry the Martian</strong> · @jerry543 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/jerry543/status/2102408450747818228">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/johnsandovaI/status/2102222760131101044"><img src="https://pbs.twimg.com/amplify_video_thumb/2102221699337125888/img/Sy_FjH6wJAdR2KZs.jpg" alt="Meaning Diff Flags AI Agent Test Tampering in 343ms Using Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/johnsandovaI/status/2102222760131101044">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davepoon/status/2102244409278636071"><img src="https://pbs.twimg.com/amplify_video_thumb/2102240061085650944/img/Q2-T97ofAtZpPafJ.jpg" alt="Using Jev for Generative UI Component Selection in Email · 原帖视频截图" width="100%"></a>
 <br>
@@ -308,6 +319,19 @@
 <p><strong>davepoon</strong> · @davepoon · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
 <p><a href="https://x.com/davepoon/status/2102244409278636071">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Calclavia/status/2102412603607912648"><img src="https://pbs.twimg.com/media/HS1FHtva0AAOLig?format=jpg&amp;name=medium" alt="Vybez: Weaving Jev Decisions into TypeScript · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Calclavia/status/2102412603607912648">Vybez: Weaving Jev Decisions into TypeScript</a></h3>
+<p>Vybez is a small TypeScript sugar that weaves Jev decisions ergonomically into existing code, making semantic decisions and deterministic rules strongly typed and seamless.</p>
+<p><strong>中文摘要：</strong>Vybez 是一个小型 TypeScript 语法糖，可将 Jev 决策以强类型、无缝的方式融入现有代码，混合语义决策与确定性规则。</p>
+<p><strong>Henry Mao</strong> · @Calclavia · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/Calclavia/status/2102412603607912648">在 X 查看原帖</a> · <a href="https://t.co/HdMU5crnWp">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/chaosengineerr/status/2102244378290864616"><img src="https://pbs.twimg.com/amplify_video_thumb/2102244320916983808/img/9jFGJILrh7rr_IPW.jpg" alt="Chrome Extension Built on Jev to Hide Low-Effort Replies · 原帖视频截图" width="100%"></a>

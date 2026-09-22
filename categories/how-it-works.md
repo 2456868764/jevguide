@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 214 | 105 | 109 | 1.6M |
+| 218 | 106 | 112 | 1.6M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Dhanian 🗯️</strong> · @e_opore · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 466</p>
 <p><a href="https://x.com/e_opore/status/2102245534350430668">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/maheshnani122/status/2102239463028265387"><img src="https://pbs.twimg.com/media/HSw0lbLbQAAZNp8?format=jpg&amp;name=medium" alt="How JEV Makes Structured LLM Outputs Faster · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/maheshnani122/status/2102239463028265387">How JEV Makes Structured LLM Outputs Faster</a></h3>
+<p>Lesson 14 of an AI/ML series explains how JEV speeds up structured JSON output compared to traditional token-by-token generation.</p>
+<p><strong>中文摘要：</strong>AI/ML 系列第 14 课介绍 JEV 如何加速结构化 JSON 输出，对比传统逐 token 生成方式。</p>
+<p><strong>Mahesh Nani</strong> · @maheshnani122 · 2026-09-22</p>
+<p>💬 9 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 408</p>
+<p><a href="https://x.com/maheshnani122/status/2102239463028265387">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Aditya_181105/status/2102238625199198500"><img src="https://pbs.twimg.com/media/HSym4s2aAAAfwpd?format=jpg&amp;name=small" alt="Jev doesn&#39;t code or chat—it just makes fast decisions for software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Aditya_181105/status/2102238625199198500">Jev doesn&#39;t code or chat—it just makes fast decisions for software</a></h3>
+<p>The post notes that Jev doesn&#39;t write code, chat, or generate essays—it just makes decisions for software extremely fast and cheap, sparking discussion about an era of AI models humans never talk to.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 不写代码、不聊天、不生成文章，而是以极快且低成本的方式为软件做决策，并引发关于人类不再直接对话的 AI 模型时代的讨论。</p>
+<p><strong>Aditya</strong> · @Aditya_181105 · 2026-09-22</p>
+<p>💬 23 &nbsp; 🔁 1 &nbsp; ♡ 28 &nbsp; 📊 397</p>
+<p><a href="https://x.com/Aditya_181105/status/2102238625199198500">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -118,6 +142,19 @@
 <p><a href="https://x.com/nitmonk/status/2102243868154658917">在 X 查看原帖</a> · <a href="https://t.co/B4iQOELuaQ">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/qbex_pr/status/2102238371737481299"><img src="https://pbs.twimg.com/media/HSymiqpasAAE69L?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: An AI Focused on Decisions, Not Sentence Generation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/qbex_pr/status/2102238371737481299">TypeSafe AI&#39;s Jev: An AI Focused on Decisions, Not Sentence Generation</a></h3>
+<p>Introduces TypeSafe AI&#39;s Jev model, which focuses on decisions rather than sentence generation, returning choices and probabilities to speed up classification, routing, and verification for AI agents, and explains how it differs from LLMs and where it can be used.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 发布的 Jev 模型，它不生成句子而专注于决策，通过返回选择值与概率来加速 AI Agent 的分类、路由与验证，并说明其与 LLM 的差异及适用场景。</p>
+<p><strong>큐벡스</strong> · @qbex_pr · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/qbex_pr/status/2102238371737481299">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/toowitter/status/2102197694622319014"><img src="https://pbs.twimg.com/media/HSyBqQZaUAEXHbA?format=jpg&amp;name=medium" alt="Building unawair v3 rule engine after trying Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/toowitter/status/2102197694622319014">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RussWonsley/status/2102193674285351210"><img src="https://pbs.twimg.com/media/HSx9jrnbIAAFx7S?format=jpg&amp;name=medium" alt="Keyword Rules vs TypeSafe&#39;s Jev: A Small Demo · 原帖图片" width="100%"></a>
 <br>
@@ -140,6 +175,19 @@
 <p><strong>Russ Wonsley</strong> · @RussWonsley · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/RussWonsley/status/2102193674285351210">在 X 查看原帖</a> · <a href="https://t.co/7z9F9aGpwK">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nexusai_techs/status/2102235219449512352"><img src="https://pbs.twimg.com/amplify_video_thumb/2102235108317204480/img/G8v-5oHrJ3-9OyvI.jpg" alt="TypeSafe Jev: A Composable Architecture That Puts Intelligence Inside the Stack · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nexusai_techs/status/2102235219449512352">TypeSafe Jev: A Composable Architecture That Puts Intelligence Inside the Stack</a></h3>
+<p>NexusAI analysis notes that TypeSafe&#39;s Jev lets deterministic software call intelligent components like any other service, enabling low-latency, composable machine-native AI.</p>
+<p><strong>中文摘要：</strong>NexusAI 分析指出，TypeSafe 的 Jev 让确定性软件像调用普通服务一样调用智能组件，实现低延迟、可组合的机器原生 AI。</p>
+<p><strong>NexusAi</strong> · @nexusai_techs · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 13</p>
+<p><a href="https://x.com/nexusai_techs/status/2102235219449512352">在 X 查看原帖</a> · <a href="https://t.co/uhbvxyzQmB">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/hackerlogs/status/2102251066582573337"><img src="https://pbs.twimg.com/media/HSyyIo6XMAAIruN?format=jpg&amp;name=medium" alt="Jev&#39;s typed System One gate: zero-hallucination means schema match, not correct deny · 原帖图片" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 53 | 33 | 20 | 235K |
+| 55 | 34 | 21 | 235K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/deliprao/status/2102238304062341148"><img src="https://pbs.twimg.com/media/HSykhg1WMAA40KM?format=jpg&amp;name=medium" alt="Discussion of Jev on GSM8K and MATH · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/deliprao/status/2102238304062341148">Discussion of Jev on GSM8K and MATH</a></h3>
+<p>Delip Rao notes that Jev may count only occasionally, yet can solve GSM8K and MATH problems, sparking discussion about its math abilities.</p>
+<p><strong>中文摘要：</strong>Delip Rao 指出 Jev 或许偶尔能计数，但能在 GSM8K 和 MATH 数学推理基准上解题，引发对其数学能力的讨论。</p>
+<p><strong>Delip Rao e/σ</strong> · @deliprao · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 507</p>
+<p><a href="https://x.com/deliprao/status/2102238304062341148">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/blockhubacademy/status/2102248522158424327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145771324014592/img/inCyNuF7DREKPo2F.jpg" alt="LLM vs Jev: What&#39;s the Difference? · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>BHA | NextGen Learning‧Earning‧Hiring</strong> · @blockhubacademy · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/blockhubacademy/status/2102248522158424327">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JackSk35800/status/2102243060189147353"><img src="https://pbs.twimg.com/amplify_video_thumb/2102241951819202561/img/KPY5AemnbtVqjNgV.jpg" alt="Jev Integrated into PaperDance: Better arXiv Paper Filtering · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JackSk35800/status/2102243060189147353">Jev Integrated into PaperDance: Better arXiv Paper Filtering</a></h3>
+<p>A user plugged TypeSafe&#39;s Jev into PaperDance to run one yes/no question per paper across 100 arXiv candidates, cutting off-topic cards on page 1 from 4, 9, and 7 to 0 at about 1 second and $0.0004 per page, based on real production data.</p>
+<p><strong>中文摘要：</strong>用户将 TypeSafe 的 Jev 接入 PaperDance，对 100 篇 arXiv 候选论文逐篇做是/否判断，首页无关卡片从 4、9、7 降至 0，每页约 1 秒、花费 0.0004 美元，基于真实生产数据。</p>
+<p><strong>Kelip</strong> · @JackSk35800 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/JackSk35800/status/2102243060189147353">在 X 查看原帖</a> · <a href="https://t.co/mpR41wIZd3">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/redp314/status/2101935665663328491"><img src="https://pbs.twimg.com/amplify_video_thumb/2101935623766491136/img/vcsSCKuqjMhhy3ed.jpg" alt="Testing Jev Model on Letter Counting Tasks · 原帖视频截图" width="100%"></a>

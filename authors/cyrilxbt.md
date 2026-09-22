@@ -1,9 +1,11 @@
 # CyrilXBT
 
-5 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Jev Doesn't Replace Your Model, It Replaces Your Gatekeeper](https://x.com/cyrilXBT/status/2102242735667511617) | 智能体 | CyrilXBT | 2.7K |
+| 2026-09-22 | [Jev Builds Tool to Rank X Creators by Real Impressions](https://x.com/cyrilXBT/status/2102240848050278550) | 数据分析 | CyrilXBT | 2.7K |
 | 2026-09-21 | [Jev Multi-Agent Design: Single Responsibility and Parallel Execution](https://x.com/cyrilXBT/status/2101906790355251278) | 智能体 | CyrilXBT | 1.3K |
 | 2026-09-20 | [Jev + Claude Code Parallel Agent Architecture](https://x.com/cyrilXBT/status/2101540625929970126) | 智能体 | CyrilXBT | 8.2K |
 | 2026-09-20 | [Combining Claude Code with Jev as an agent stack](https://x.com/cyrilXBT/status/2101608597801291966) | 智能体 | CyrilXBT | 4.9K |

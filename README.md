@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1765</strong><br>curated posts</td>
-<td align="center"><strong>1036</strong><br>original videos</td>
+<td align="center"><strong>1798</strong><br>curated posts</td>
+<td align="center"><strong>1051</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -26,21 +26,21 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
-<p><sub>开发者工具</sub></p>
-<p><strong>216</strong> showcases · <strong>117</strong> videos</p>
-<p><a href="categories/developer-tools.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>216</strong> showcases · <strong>90</strong> videos</p>
+<p><strong>222</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
+<p><sub>开发者工具</sub></p>
+<p><strong>219</strong> showcases · <strong>119</strong> videos</p>
+<p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>214</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>218</strong> showcases · <strong>106</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>174</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>175</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>120</strong> showcases · <strong>67</strong> videos</p>
+<p><strong>123</strong> showcases · <strong>68</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>117</strong> showcases · <strong>71</strong> videos</p>
+<p><strong>118</strong> showcases · <strong>72</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>110</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>111</strong> showcases · <strong>50</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>95</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>86</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>87</strong> showcases · <strong>52</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>70</strong> showcases · <strong>51</strong> videos</p>
+<p><strong>71</strong> showcases · <strong>52</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>60</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>61</strong> showcases · <strong>53</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>53</strong> showcases · <strong>33</strong> videos</p>
+<p><strong>55</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>46</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>49</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -146,16 +146,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>14</strong> showcases · <strong>12</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>13</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>13</strong> showcases · <strong>11</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
+<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
+<p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
 <p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
 <p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/__syumai/status/2102243119320453262"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242935828082688/img/tcpn-MpVpQA1INlB.jpg" alt="Building a CLI subcommand suggestion tool with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/__syumai/status/2102243119320453262">Building a CLI subcommand suggestion tool with Jev</a></h3>
+<p>The author built a CLI tool wrapper with Jev that semantically suggests &quot;Did you mean?&quot; corrections for mistyped subcommands, such as git record to git commit.</p>
+<p><strong>3.7K</strong> views · 💬 1 &nbsp; 🔁 7 &nbsp; ♡ 33 &nbsp; 📊 3.7K</p>
+<p><strong>syumai</strong> · @__syumai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/typedfemale/status/2102195929218695601"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195791117062144/img/A16eIUezHtpAX6XC.jpg" alt="Jev Can Generate Text · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/typedfemale/status/2102195929218695601">Jev Can Generate Text</a></h3>
 <p>A brief note stating that Jev is capable of generating text.</p>
 <p><strong>3.5K</strong> views · 💬 10 &nbsp; 🔁 3 &nbsp; ♡ 61 &nbsp; 📊 3.5K</p>
 <p><strong>typedfemale</strong> · @typedfemale</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/Sentdex/status/2102192643480678651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102191703671111680/img/g_0iPWMr4NvpL_Jz.jpg" alt="Comparing Jev Hybrid Model and OpenJev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Sentdex/status/2102192643480678651">Comparing Jev Hybrid Model and OpenJev</a></h3>
-<p>Harrison Kinsley shares a small toy comparison of GLM 5.3 Flash with Jev versus OpenJev, noting the 4B OpenJev easily wins.</p>
-<p><strong>3.1K</strong> views · 💬 5 &nbsp; 🔁 2 &nbsp; ♡ 36 &nbsp; 📊 3.1K</p>
-<p><strong>Harrison Kinsley</strong> · @Sentdex</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/whosfranki/status/2102195316829077686"><img src="https://pbs.twimg.com/amplify_video_thumb/2102187393717534721/img/FmGLzXqEYRdC2RGo.jpg" alt="matchcn: Semantic Component Search Powered by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/whosfranki/status/2102195316829077686">matchcn: Semantic Component Search Powered by Jev</a></h3>
-<p>matchcn is a semantic component search tool for coding agents, powered by Jev. Describe the UI you need and it finds the component and returns the install command, no component name or browsing multiple libraries required. It covers 1,783 components across 9 shadcn registries.</p>
-<p><strong>2.5K</strong> views · 💬 9 &nbsp; 🔁 3 &nbsp; ♡ 34 &nbsp; 📊 2.5K</p>
-<p><strong>whosfranki</strong> · @whosfranki</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
-<p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
-<p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
-<p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
+<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
+<p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/whosfranki/status/2102195316829077686"><img src="https://pbs.twimg.com/amplify_video_thumb/2102187393717534721/img/FmGLzXqEYRdC2RGo.jpg" alt="matchcn: Semantic Component Search Powered by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/whosfranki/status/2102195316829077686">matchcn: Semantic Component Search Powered by Jev</a></h3>
-<p>matchcn is a semantic component search tool for coding agents, powered by Jev. Describe the UI you need and it finds the component and returns the install command, no component name or browsing multiple libraries required. It covers 1,783 components across 9 shadcn registries.</p>
-<p><strong>2.5K</strong> views · 💬 9 &nbsp; 🔁 3 &nbsp; ♡ 34 &nbsp; 📊 2.5K</p>
-<p><strong>whosfranki</strong> · @whosfranki</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/typedfemale/status/2102195929218695601"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195791117062144/img/A16eIUezHtpAX6XC.jpg" alt="Jev Can Generate Text · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/typedfemale/status/2102195929218695601">Jev Can Generate Text</a></h3>
+<p>A brief note stating that Jev is capable of generating text.</p>
+<p><strong>3.5K</strong> views · 💬 10 &nbsp; 🔁 3 &nbsp; ♡ 61 &nbsp; 📊 3.5K</p>
+<p><strong>typedfemale</strong> · @typedfemale</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/TheIshanGoswami/status/2102195819013406960"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195395506094080/img/1ZXfs8V39reKFmZO.jpg" alt="Jev with Exa Web Search Boosts Accuracy · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/TheIshanGoswami/status/2102195819013406960">Jev with Exa Web Search Boosts Accuracy</a></h3>
-<p>The post notes Jev confidently gives wrong outputs without web search, but is much more accurate with Exa web search, and invites free trials.</p>
-<p><strong>1.6K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 23 &nbsp; 📊 1.6K</p>
-<p><strong>Ishan Goswami</strong> · @TheIshanGoswami</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/Sentdex/status/2102192643480678651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102191703671111680/img/g_0iPWMr4NvpL_Jz.jpg" alt="Comparing Jev Hybrid Model and OpenJev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Sentdex/status/2102192643480678651">Comparing Jev Hybrid Model and OpenJev</a></h3>
+<p>Harrison Kinsley shares a small toy comparison of GLM 5.3 Flash with Jev versus OpenJev, noting the 4B OpenJev easily wins.</p>
+<p><strong>3.1K</strong> views · 💬 5 &nbsp; 🔁 2 &nbsp; ♡ 36 &nbsp; 📊 3.1K</p>
+<p><strong>Harrison Kinsley</strong> · @Sentdex</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/airesearch12/status/2102194492606460011"><img src="https://pbs.twimg.com/media/HSx-v71W4AAzIi0?format=jpg&amp;name=medium" alt="JevBench v1.3.0 Released: Updated Jev Model Benchmark · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/airesearch12/status/2102194492606460011">JevBench v1.3.0 Released: Updated Jev Model Benchmark</a></h3>
-<p>JevBench v1.3.0 is now live. The original Jev model leads with 74.4, but faces challenges from 47 competitors, with some getting very close.</p>
-<p><strong>465</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 465</p>
-<p><strong>Florian S</strong> · @airesearch12</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/1bird_d/status/2102193908859981971"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Using Jev as a CS Virtual Coach via Screenshare · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/1bird_d/status/2102193908859981971">Using Jev as a CS Virtual Coach via Screenshare</a></h3>
+<p>The author envisions a virtual coach that watches your CS gameplay via screenshare and suggests better plays based on the information you receive, noting that those who know Jev know it&#39;s OP.</p>
+<p><strong>582</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 582</p>
+<p><strong>bird</strong> · @1bird_d</p>
 </td>
 </tr>
 </table>

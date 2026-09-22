@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 13 | 11 | 2 | 237K |
+| 14 | 12 | 2 | 237K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/luisf_mc/status/2102237061822767171"><img src="https://pbs.twimg.com/amplify_video_thumb/2102233517237366784/img/Q43OBpHvrpnMDhEg.jpg" alt="Seen: A Mac Screen Memory Search Tool Built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>生产力</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/luisf_mc/status/2102237061822767171">Seen: A Mac Screen Memory Search Tool Built with Jev</a></h3>
+<p>A developer built Seen with TypeSafe AI&#39;s Jev: press ⇧⌘Space, type what you remember, and open the saved screen across Mac apps and displays. Jev ranks results using your own TypeSafe or Vercel AI Gateway key.</p>
+<p><strong>中文摘要：</strong>开发者用 TypeSafe AI 的 Jev 构建了 Seen，通过 ⇧⌘Space 快捷键输入记忆内容即可搜索 Mac 应用和显示器上的屏幕记录，Jev 使用用户自己的 TypeSafe 或 Vercel AI Gateway 密钥对结果排序。</p>
+<p><strong>Luis</strong> · @luisf_mc · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/luisf_mc/status/2102237061822767171">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/arthantyo/status/2102202523184467993"><img src="https://pbs.twimg.com/amplify_video_thumb/2102201964318658562/img/Sld1E7WNgf3BKMGD.jpg" alt="JEV Use Case in a Diary App · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/arthantyo/status/2102202523184467993">在 X 查看原帖</a> · <a href="https://t.co/VxQpPnXPT8">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tr_mz_/status/2102073111495487639"><img src="https://pbs.twimg.com/amplify_video_thumb/2102072547005149184/img/hP8s0275PsbJAGGe.jpg" alt="jfocus: A Mac App That Uses Jev to Keep You Focused · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
 <p><a href="https://x.com/tr_mz_/status/2102073111495487639">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Atsumi_Kenji210/status/2102000309350658508"><img src="https://pbs.twimg.com/media/HSvMBX-boAAY1Hp?format=jpg&amp;name=medium" alt="Using Jev for self-checking business plan documents · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Atsumi_Kenji210/status/2102000309350658508">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/marcus_lowe/status/2101476399488160013"><img src="https://pbs.twimg.com/amplify_video_thumb/2101475440577880065/img/Ee0hhRA3B7Ibp_tK.jpg" alt="Smart Copy/Paste Powered by TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 151 &nbsp; 🔁 321 &nbsp; ♡ 3.6K &nbsp; 📊 237K</p>
 <p><a href="https://x.com/marcus_lowe/status/2101476399488160013">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2101717533346918478"><img src="https://pbs.twimg.com/amplify_video_thumb/2101293440843591680/img/3BtdoFBd-JH1wJc6.jpg" alt="Jev Founder Diogo Alemdia&#39;s Full Masterclass on Using Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 19 &nbsp; 🔁 162 &nbsp; ♡ 1.4K &nbsp; 📊 92K</p>
 <p><a href="https://x.com/aiedge_/status/2101717533346918478">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/suh_sunaneko/status/2101469071955128726"><img src="https://pbs.twimg.com/amplify_video_thumb/2101468326694457344/img/Ch7B0NaJT1maKw5N.jpg" alt="Using Jev to Batch-Judge Backlogged Tasks and Connect to Generative AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 4 &nbsp; 🔁 14 &nbsp; ♡ 195 &nbsp; 📊 18K</p>
 <p><a href="https://x.com/suh_sunaneko/status/2101469071955128726">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iannuttall/status/2101628223423438912"><img src="https://pbs.twimg.com/amplify_video_thumb/2101626914897027072/img/R7U_g_Iv6E_Pd-wL.jpg" alt="keep.md Priority Inbox Powered by TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 28 &nbsp; 📊 3.4K</p>
 <p><a href="https://x.com/iannuttall/status/2101628223423438912">在 X 查看原帖</a> · <a href="https://t.co/1fK8HbSmPm">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maulik_5/status/2101696417052103166"><img src="https://pbs.twimg.com/amplify_video_thumb/2101696111673217024/img/0UR2YZLNp2FA9Bz2.jpg" alt="Jev + Mailient: Automatically Extract and Track Promises from Meeting Transcripts · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 51</p>
 <p><a href="https://x.com/maulik_5/status/2101696417052103166">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rohan1chaudhari/status/2101706643251626482"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703797806338049/img/34m0BMCAg93NZ34L.jpg" alt="Jev replaces hunting for settings with natural-language descriptions · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/rohan1chaudhari/status/2101706643251626482">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mossy2026/status/2101687829680050438"><img src="https://pbs.twimg.com/amplify_video_thumb/2101644889230569472/img/zX15NLS40ttFaQ3p.jpg" alt="Jev Helps Me Find a File · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/mossy2026/status/2101687829680050438">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AYi_AInotes/status/2101323659608547819"><img src="https://pbs.twimg.com/media/HSlmtWgWUAEjH33?format=jpg&amp;name=medium" alt="Turning Jev into Real Productivity: 8 Representative Cases · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 42 &nbsp; 🔁 71 &nbsp; ♡ 291 &nbsp; 📊 55K</p>
 <p><a href="https://x.com/AYi_AInotes/status/2101323659608547819">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlanDaitch/status/2101090570110169547"><img src="https://pbs.twimg.com/amplify_video_thumb/2100809295809974272/img/_1rbvz04k6wjpcGW.jpg" alt="Jev seen as the missing piece for voice-controlled computing · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 19 &nbsp; 🔁 57 &nbsp; ♡ 755 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/AlanDaitch/status/2101090570110169547">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/takeshi_engr/status/2100898418860400928"><img src="https://pbs.twimg.com/amplify_video_thumb/2100898321753915392/img/FxpETVyP1Nft63_z.jpg" alt="Using Jev to weigh tasks and visualize them on an Eisenhower matrix · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,5 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 57</p>
 <p><a href="https://x.com/takeshi_engr/status/2100898418860400928">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

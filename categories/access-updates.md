@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 216 | 90 | 126 | 802K |
+| 222 | 92 | 130 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
+<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
+<p><strong>中文摘要：</strong>Jev 与 OpenRouter 已在 Monid 上线，提供 2000 种工具，智能体可按需选择，并在线索评分、病毒钩子扫描、融资研究和 SEO 审计中提速 30 倍。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2102235184795935185">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/TheIshanGoswami/status/2102195819013406960"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195395506094080/img/1ZXfs8V39reKFmZO.jpg" alt="Jev with Exa Web Search Boosts Accuracy · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Ishan Goswami</strong> · @TheIshanGoswami · 2026-09-22</p>
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 23 &nbsp; 📊 1.6K</p>
 <p><a href="https://x.com/TheIshanGoswami/status/2102195819013406960">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tonysimons_/status/2102240557351264760"><img src="https://pbs.twimg.com/media/HSyopVzXYAA9kVq?format=png&amp;name=900x900" alt="Jev is free on Vercel Gateway for a limited time · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tonysimons_/status/2102240557351264760">Jev is free on Vercel Gateway for a limited time</a></h3>
+<p>Tony Simons shares that Jev is free on Vercel Gateway until September 25th, and admits after installing and exploring, he still doesn&#39;t know what he&#39;d use it for, but is intrigued by the concept.</p>
+<p><strong>中文摘要：</strong>Tony Simons 分享 Jev 在 Vercel Gateway 上免费开放至9月25日，并坦言安装体验后仍不清楚具体用途，但对其概念感兴趣。</p>
+<p><strong>Tony Simons</strong> · @tonysimons_ · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 504</p>
+<p><a href="https://x.com/tonysimons_/status/2102240557351264760">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/HarmNao/status/2102189432216735834"><img src="https://pbs.twimg.com/media/HSx6DDlbUAA944w?format=png&amp;name=small" alt="Jev Arrives in Codex · 原帖图片" width="100%"></a>
@@ -46,6 +70,19 @@
 <p><a href="https://x.com/Tonebird_ai/status/2102190208498471368">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/ichigoooo015/status/2102240197576634791"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="User discusses Laya, an open-weight model faster than Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ichigoooo015/status/2102240197576634791">User discusses Laya, an open-weight model faster than Jev</a></h3>
+<p>A user notes that a model called Laya is faster than Jev and is open-weight, offering a comparison within the Jev ecosystem.</p>
+<p><strong>中文摘要：</strong>用户提到存在比 Jev 更快的 Laya 模型，并指出其为开放权重，属于对 Jev 生态的对比讨论。</p>
+<p><strong>いちご</strong> · @ichigoooo015 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/ichigoooo015/status/2102240197576634791">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/robherley/status/2102199555706024144"><img src="https://pbs.twimg.com/media/HSyAhVUWIAA7qQq?format=jpg&amp;name=large" alt="AskJev.net&#39;s first 24 hours: 50K visitors, 125K Jev API requests, 39M tokens, $0 cost · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/robherley/status/2102199555706024144">在 X 查看原帖</a> · <a href="https://t.co/9tGq42lv3d">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/InfiniteJulian0/status/2102199480628269114"><img src="https://pbs.twimg.com/media/HSyCc9fakAAwT0n?format=png&amp;name=medium" alt="New tech like Jev captivates imaginations · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
 <p><a href="https://x.com/InfiniteJulian0/status/2102199480628269114">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102187007367606684"><img src="https://pbs.twimg.com/media/HSx38X-WsAAOswh?format=jpg&amp;name=medium" alt="Non-Autoregressive Decision Model Laya Claims 6-8x Faster Inference Than Jev · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +116,17 @@
 <p><strong>Valvet Online</strong> · @VALVETONLINE · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/VALVETONLINE/status/2102187007367606684">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sakizm97/status/2102237077928907031"><img src="https://pbs.twimg.com/media/HSylYSQaUAANNYQ?format=png&amp;name=900x900" alt="User signs up for Jev, flags security and data protection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sakizm97/status/2102237077928907031">User signs up for Jev, flags security and data protection</a></h3>
+<p>An SME IT consultant says they are signing up for the trending Jev and checked it from a security and data protection angle, advising caution.</p>
+<p><strong>中文摘要：</strong>一位中小企业 IT 顾问表示正在注册使用热门 Jev，并从安全和数据保护角度做了检查，提醒使用时需多加注意。</p>
+<p><strong>あっき〜@中小企業ITコンサルタント🔥</strong> · @sakizm97 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/sakizm97/status/2102237077928907031">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -107,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/radinoregon/status/2102237610311864713"><img src="https://pbs.twimg.com/media/HSylkQsbwAAT3Ch?format=jpg&amp;name=medium" alt="User jokes about Jev token pricing costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/radinoregon/status/2102237610311864713">User jokes about Jev token pricing costs</a></h3>
+<p>User @radinoregon tells @typesafeai on X they may not be able to afford Jev, joking that 19 million tokens cost only 0.64 cents.</p>
+<p><strong>中文摘要：</strong>用户 @radinoregon 在 X 上向 @typesafeai 表示自己可能负担不起 Jev，并调侃 1900 万 token 仅花费 0.64 美分。</p>
+<p><strong>Ryan DesJardins</strong> · @radinoregon · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/radinoregon/status/2102237610311864713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/hatsu_tsukune/status/2102201673959829595"><img src="https://pbs.twimg.com/media/HSyFR8vacAA2NX_?format=jpg&amp;name=medium" alt="Using the Latest Jev to Find My Checkpoints · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/hatsu_tsukune/status/2102201673959829595">在 X 查看原帖</a> · <a href="https://t.co/tlCZNCRQ1S">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cruzex100/status/2102202098968666432"><img src="https://pbs.twimg.com/media/HSyFqylbgAAxJYA?format=jpg&amp;name=medium" alt="Jev vs Laya smoke test: accuracy, calibration, latency, and cost · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +188,17 @@
 <p><strong>amVT</strong> · @cruzex100 · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/cruzex100/status/2102202098968666432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yyut_tmdt/status/2102237384561824125"><img src="https://pbs.twimg.com/media/HSylHOFagAAxo5M?format=jpg&amp;name=medium" alt="Real-time translation chat tool for streamers uses Jev to cut costs in Japanese-to-Japanese · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yyut_tmdt/status/2102237384561824125">Real-time translation chat tool for streamers uses Jev to cut costs in Japanese-to-Japanese</a></h3>
+<p>The author built a real-time translation chat tool for streamers, backed by the OpenAI API for quality translations; for Japanese-to-Japanese it uses Jev to skip instantly, keeping OpenAI costs down.</p>
+<p><strong>中文摘要：</strong>作者开发了一款面向主播的实时翻译聊天工具，后端调用 OpenAI API 提供高质量翻译；在日语到日语的情况下使用 Jev 即时省略内容，从而尽量压低 OpenAI 费用。</p>
+<p><strong>ゆゆうたと友達になりたい</strong> · @yyut_tmdt · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/yyut_tmdt/status/2102237384561824125">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

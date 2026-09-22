@@ -1,25 +1,25 @@
 # Jev Showcases by Category
 
-- [Developer tools](../categories/developer-tools.md) — 216
-- [Access updates](../categories/access-updates.md) — 216
-- [How it works](../categories/how-it-works.md) — 214
-- [Gaming](../categories/gaming.md) — 174
-- [Agents](../categories/agents.md) — 120
-- [Launch news](../categories/launch-news.md) — 117
-- [Developer resources](../categories/developer-resources.md) — 110
-- [Community builds](../categories/community-builds.md) — 95
-- [Finance](../categories/finance.md) — 86
-- [Workflow automation](../categories/workflow-automation.md) — 70
-- [Marketing](../categories/marketing.md) — 60
-- [Knowledge & search](../categories/knowledge-search.md) — 53
-- [Data analytics](../categories/data-analytics.md) — 46
+- [Access updates](../categories/access-updates.md) — 222
+- [Developer tools](../categories/developer-tools.md) — 219
+- [How it works](../categories/how-it-works.md) — 218
+- [Gaming](../categories/gaming.md) — 175
+- [Agents](../categories/agents.md) — 123
+- [Launch news](../categories/launch-news.md) — 118
+- [Developer resources](../categories/developer-resources.md) — 111
+- [Community builds](../categories/community-builds.md) — 100
+- [Finance](../categories/finance.md) — 87
+- [Workflow automation](../categories/workflow-automation.md) — 71
+- [Marketing](../categories/marketing.md) — 61
+- [Knowledge & search](../categories/knowledge-search.md) — 55
+- [Data analytics](../categories/data-analytics.md) — 49
 - [Content creation](../categories/content-creation.md) — 43
 - [Robotics](../categories/robotics.md) — 24
 - [Customer support](../categories/customer-support.md) — 18
 - [Scientific research](../categories/scientific-research.md) — 15
 - [Business operations](../categories/business-operations.md) — 14
+- [Productivity](../categories/productivity.md) — 14
 - [Healthcare](../categories/healthcare.md) — 13
-- [Productivity](../categories/productivity.md) — 13
 - [E-commerce](../categories/e-commerce.md) — 12
 - [Software development](../categories/software-development.md) — 11
 - [Education](../categories/education.md) — 9

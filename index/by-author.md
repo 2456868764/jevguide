@@ -591,6 +591,7 @@
 - [Dr.はにまる｜院長のAI実験室](../authors/dr-院長-ai実験室.md) — 1
 - [DrAi](../authors/drai.md) — 1
 - [dreadnode](../authors/dreadnode.md) — 1
+- [dresh](../authors/dresh.md) — 1
 - [DryHoleCo](../authors/dryholeco.md) — 1
 - [Duncan](../authors/duncan.md) — 1
 - [Dunsin🎙️](../authors/dunsin.md) — 1
@@ -886,6 +887,7 @@
 - [kou](../authors/kou.md) — 1
 - [Koya Iwasa | Cloudbase](../authors/koya-iwasa-cloudbase.md) — 1
 - [KP](../authors/kp.md) — 1
+- [krishna](../authors/krishna.md) — 1
 - [Krishna Goutham](../authors/krishna-goutham.md) — 1
 - [krushi](../authors/krushi.md) — 1
 - [Krzysztof](../authors/krzysztof.md) — 1
@@ -1299,6 +1301,7 @@
 - [Suman Michael](../authors/suman-michael.md) — 1
 - [Sumplex](../authors/sumplex.md) — 1
 - [Sung Kim](../authors/sung-kim.md) — 1
+- [sunick](../authors/sunick.md) — 1
 - [Sunil Sadasivan](../authors/sunil-sadasivan.md) — 1
 - [Surajan Shrestha](../authors/surajan-shrestha.md) — 1
 - [Suzuki](../authors/suzuki.md) — 1

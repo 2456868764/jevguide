@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2100</strong><br>curated posts</td>
-<td align="center"><strong>1197</strong><br>original videos</td>
+<td align="center"><strong>2103</strong><br>curated posts</td>
+<td align="center"><strong>1199</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>139</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>140</strong> showcases · <strong>79</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>121</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>122</strong> showcases · <strong>53</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>55</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>56</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">

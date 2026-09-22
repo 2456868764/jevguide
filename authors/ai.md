@@ -1,7 +1,7 @@
-# AIトレンドログ
+# てらじ｜AIエンジニア
 
 1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-18 | [ChatGPT Co-Developer Unveils New AI "Jev": No Writing, Just Fast Judgments](https://x.com/aitrend_log/status/2101003062760690015) | 产品发布 | AIトレンドログ | 118 |
+| 2026-09-22 | [Open-weight model beats Jev at Tetris, runs on MacBook Air 16GB](https://x.com/nocode_teraji/status/2102222005059875065) | 游戏 | てらじ｜AIエンジニア | 30 |

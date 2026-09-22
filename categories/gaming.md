@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 217 | 172 | 49 | 588K |
+| 221 | 175 | 50 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sai_borg/status/2102221723454279710"><img src="https://pbs.twimg.com/media/HSyXbuzbcAAO65l?format=jpg&amp;name=medium" alt="AI Survives Minecraft Unsupervised — Live · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sai_borg/status/2102221723454279710">AI Survives Minecraft Unsupervised — Live</a></h3>
+<p>Sai and Jev agents survive Minecraft autonomously with no prompts or supervision, live on Twitch.</p>
+<p><strong>中文摘要：</strong>Sai 与 Jev 智能体在 Minecraft 中无提示、无监督自主生存，Twitch 直播。</p>
+<p><strong>Sai</strong> · @sai_borg · 2026-09-22</p>
+<p>💬 21 &nbsp; 🔁 22 &nbsp; ♡ 138 &nbsp; 📊 26K</p>
+<p><a href="https://x.com/sai_borg/status/2102221723454279710">在 X 查看原帖</a> · <a href="https://t.co/FLCMuhrzw6">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/interjc/status/2102234235847450689"><img src="https://pbs.twimg.com/media/HSyi4ZFasAAcX7F?format=png&amp;name=small" alt="Playing Gomoku Against Jev: Community Test · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.6K</p>
 <p><a href="https://x.com/interjc/status/2102234235847450689">在 X 查看原帖</a> · <a href="https://t.co/9ydKUkYKNr">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CMGS1988/status/2102214531955237244"><img src="https://pbs.twimg.com/amplify_video_thumb/2102139072508522497/img/rf6iDC7Y5RqvhDko.jpg" alt="Jev Makes Windows CUA Gaming Scenarios More Practical · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/CMGS1988/status/2102214531955237244">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1bird_d/status/2102193908859981971"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Using Jev as a CS Virtual Coach via Screenshare · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 582</p>
 <p><a href="https://x.com/1bird_d/status/2102193908859981971">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FiniYang/status/2102246440961724515"><img src="https://pbs.twimg.com/amplify_video_thumb/2102241529524105216/img/cwwbF2hwIDfahrvl.jpg" alt="Playing a Kitten Survival Game with Official Jev and Local Laya Models · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 511</p>
 <p><a href="https://x.com/FiniYang/status/2102246440961724515">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shields_pikes/status/2102232350449135728"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231979970428928/img/jmCuAfKdzVzJn3A9.jpg" alt="Jev Real-Time Dialogue Expression System · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 455</p>
 <p><a href="https://x.com/shields_pikes/status/2102232350449135728">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/road_ninjart/status/2102229395582902315"><img src="https://pbs.twimg.com/amplify_video_thumb/2102229330046971904/img/GjeC-jMoBjv3MGOR.jpg" alt="Building a CNP Card Recognition and Verification App with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 382</p>
 <p><a href="https://x.com/road_ninjart/status/2102229395582902315">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/I_amShiti/status/2102246319058252176"><img src="https://pbs.twimg.com/amplify_video_thumb/2102246300473311232/img/28mVeGeHsm05xl9p.jpg" alt="Jev Powers Fighting Game Automation Without Integration · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 215</p>
 <p><a href="https://x.com/I_amShiti/status/2102246319058252176">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_3912657840/status/2102244865119850759"><img src="https://pbs.twimg.com/media/HSyqhroaoAA36qP?format=png&amp;name=900x900" alt="User shares experience using Jev for game development · 原帖图片" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>角煮星丸</strong> · @_3912657840 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 155</p>
 <p><a href="https://x.com/_3912657840/status/2102244865119850759">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/geeorgey/status/2102225880659726494"><img src="https://pbs.twimg.com/amplify_video_thumb/2102225832328757248/img/5AtXHreUPvIVO2aS.jpg" alt="Jev Approaches and Defeats Skeleton with Four-Hit Combo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/geeorgey/status/2102225880659726494">Jev Approaches and Defeats Skeleton with Four-Hit Combo</a></h3>
+<p>Post records Jev approaching and defeating a skeleton with a four-hit combo, reducing enemy HP from 20 to 0 while maintaining its own at 20. Codex handles strategy, Jev handles approach and attack decisions, showing an 18-second clip from about 27 hours of progress.</p>
+<p><strong>中文摘要：</strong>帖子记录Jev在游戏中接近敌人并完成4连击击败骷髅，敌方HP从20降至0，自身保持20。Codex负责策略，Jev负责接近与攻击判断，展示约27小时进程中的18秒实战片段。</p>
+<p><strong>George リバネスCIO/リバネスナレッジ代表</strong> · @geeorgey · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 114</p>
+<p><a href="https://x.com/geeorgey/status/2102225880659726494">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -131,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Blueprint_Biz/status/2102222824215625751"><img src="https://pbs.twimg.com/amplify_video_thumb/2102222603217674240/img/H1a0C0yqJLPXYiEf.jpg" alt="Jev vs OpenAI Luna: Blackjack Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Blueprint_Biz/status/2102222824215625751">Jev vs OpenAI Luna: Blackjack Comparison</a></h3>
+<p>The author compared TypeSafe AI&#39;s Jev and OpenAI Luna playing blackjack.</p>
+<p><strong>中文摘要：</strong>作者对比了 TypeSafe AI 的 Jev 与 OpenAI Luna 在二十一点游戏中的表现。</p>
+<p><strong>Kevin</strong> · @Blueprint_Biz · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><a href="https://x.com/Blueprint_Biz/status/2102222824215625751">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/eng_ahmd/status/2102233195294920886"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231639996665856/img/ui52kTGQtdvpiHKl.jpg" alt="Laya (Jev-like model) plays Breakout locally in real time · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -141,6 +176,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
 <p><a href="https://x.com/eng_ahmd/status/2102233195294920886">在 X 查看原帖</a> · <a href="https://t.co/8v0dnXCnQ1">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/paulocoutinhox/status/2102233895785710058"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local Laya model beats cloud-based Jev in Tetris · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/paulocoutinhox/status/2102233895785710058">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dodoaiaikk/status/2102216221085278620"><img src="https://pbs.twimg.com/media/HSySgpXacAAfPxq?format=jpg&amp;name=medium" alt="Jev-based lateral thinking quiz game &quot;Jev Turtle Soup&quot; · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
 <p><a href="https://x.com/dodoaiaikk/status/2102216221085278620">在 X 查看原帖</a> · <a href="https://t.co/IyqwsNdNnI">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Nova_With_AI/status/2102231332873265231"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231222223327232/img/6ZpPhm_ViyTmKvt9.jpg" alt="Jev and sai_borg build a self-playing fighting game · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/Nova_With_AI/status/2102231332873265231">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eric_khun/status/2102221150323401209"><img src="https://pbs.twimg.com/media/HSyW_viWwAA-BDK?format=jpg&amp;name=medium" alt="JEV Model Powers Online Pong Match at Extremely Low Cost · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/eric_khun/status/2102221150323401209">在 X 查看原帖</a> · <a href="https://t.co/S4P1jVucdF">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/seanbauman/status/2102221565811396951"><img src="https://pbs.twimg.com/amplify_video_thumb/2102221538283880448/img/gUDgUOuddHh6EgRM.jpg" alt="Jev Plays Asteroids via Plain-English Descriptions · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/seanbauman/status/2102221565811396951">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/takaoken/status/2102218089383497730"><img src="https://pbs.twimg.com/media/HSyTwh0aYAAQGpx?format=jpg&amp;name=medium" alt="Building a Daifugo Game with Jev: Strategy and Cost Test · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +247,19 @@
 <p><strong>Takao Ken</strong> · @takaoken · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/takaoken/status/2102218089383497730">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nocode_teraji/status/2102222005059875065"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Open-weight model beats Jev at Tetris, runs on MacBook Air 16GB · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nocode_teraji/status/2102222005059875065">Open-weight model beats Jev at Tetris, runs on MacBook Air 16GB</a></h3>
+<p>A post claims an open-weight model beat Jev at Tetris and runs on a 16GB MacBook Air, with the author noting China&#39;s fast response to the Jev trend.</p>
+<p><strong>中文摘要：</strong>一则帖子称，一个开源权重模型在俄罗斯方块中击败了Jev，并可在16GB内存的MacBook Air上运行，作者感叹中国团队对Jev热点的响应速度。</p>
+<p><strong>てらじ｜AIエンジニア</strong> · @nocode_teraji · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/nocode_teraji/status/2102222005059875065">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Icaro_333/status/2102242170191179948"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242076586844160/img/XGjQgpPdzzUyvFoG.jpg" alt="Building a Game for Jev to Play · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 83 | 59 | 24 | 595K |
+| 85 | 60 | 25 | 595K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/varun_mathur/status/2102232629902819580">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/gagarotai200/status/2102223860649398470"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987764942340097/img/J81kwxA8_OiVTQyC.jpg" alt="Combining Codex and Jev for Automated Video Editing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gagarotai200/status/2102223860649398470">Combining Codex and Jev for Automated Video Editing</a></h3>
+<p>Explains how combining Codex and Jev to automate video editing can keep monthly costs at 3,000 yen and build an automated revenue structure.</p>
+<p><strong>中文摘要：</strong>介绍如何通过 Codex 与 Jev 结合自动化视频编辑，将月成本控制在 3000 日元并构建自动收益结构。</p>
+<p><strong>ウラロット</strong> · @gagarotai200 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 468</p>
+<p><a href="https://x.com/gagarotai200/status/2102223860649398470">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/codingzx/status/2102240636745163237"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Discussion on Jev for Real-World GUI Automation · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 401</p>
 <p><a href="https://x.com/codingzx/status/2102240636745163237">在 X 查看原帖</a> · <a href="https://t.co/q78M6bqhXR">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kalenjordan/status/2102194463107866822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102194436105019392/img/eJ0ey_Wrx9dDrOkb.jpg" alt="Jev Use Case: Handling Edge Cases in Phone System Navigation · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
 <p><a href="https://x.com/kalenjordan/status/2102194463107866822">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taku_ai_case/status/2102251038715601052"><img src="https://pbs.twimg.com/media/HSyklY4a0AARFLg?format=jpg&amp;name=medium" alt="Jev as a middle layer in automation: machine → Jev → ChatGPT/Claude · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/taku_ai_case/status/2102251038715601052">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/VersunPan/status/2102201927178371280">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gemama0/status/2102198046201086356"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197556138684416/img/VOAFvXpPpUMtUKYH.jpg" alt="Building an Automatic Note Tagging System with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/gemama0/status/2102198046201086356">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102249844756951427"><img src="https://pbs.twimg.com/media/HSyxFcPbwAA6RA2?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
 <p><a href="https://x.com/notifykamalraj/status/2102249844756951427">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Divine_machine/status/2102222351102574609"><img src="https://pbs.twimg.com/media/HSyYETFXUAA6EK-?format=jpg&amp;name=medium" alt="Jev Desktop: A Verification and Automation Alternative to Computer Use · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Divine_machine/status/2102222351102574609">在 X 查看原帖</a> · <a href="https://t.co/9rFzo3IdcK">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102250249914065194"><img src="https://pbs.twimg.com/media/HSyxZg0aAAAY_xK?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>Kamal Raj Sekar</strong> · @notifykamalraj · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/notifykamalraj/status/2102250249914065194">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Divine_machine/status/2102222220403556762"><img src="https://pbs.twimg.com/media/HSyX6BGWAAE-i7i?format=jpg&amp;name=medium" alt="Jev Desktop: An Alternative for Verification Workflows and Automation Tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Divine_machine/status/2102222220403556762">Jev Desktop: An Alternative for Verification Workflows and Automation Tasks</a></h3>
+<p>Recommends using Jev Desktop instead of computer use in verification workflows or automation tasks, with a link to the GitHub repository.</p>
+<p><strong>中文摘要：</strong>推荐在验证工作流或自动化任务中使用 Jev Desktop 替代 computer use，并附上 GitHub 仓库链接。</p>
+<p><strong>Divine 〽️achine</strong> · @Divine_machine · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/Divine_machine/status/2102222220403556762">在 X 查看原帖</a> · <a href="https://t.co/9rFzo3HFnc">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonzhou1993/status/2101988970565603489"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987836719398912/img/mu7p8-nvTFQZ5hyg.jpg" alt="Jev + Treg Combo: Three Automation Workflows Save $8k/Month · 原帖视频截图" width="100%"></a>

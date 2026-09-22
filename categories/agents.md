@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 141 | 80 | 61 | 3.0M |
+| 143 | 82 | 61 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/cyrilXBT/status/2102242735667511617">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/okkshitij/status/2102224278590554379"><img src="https://pbs.twimg.com/amplify_video_thumb/2102223430334533632/img/Y1u2q5y2O_xCE6ch.jpg" alt="Agent Maps App and Renders Jev Use Cases · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/okkshitij/status/2102224278590554379">Agent Maps App and Renders Jev Use Cases</a></h3>
+<p>Author shares an accidentally built agent that maps the entire app and renders every possible use case of Jev.</p>
+<p><strong>中文摘要：</strong>作者分享意外构建的智能体，可映射整个应用并渲染 Jev 的所有可能用例。</p>
+<p><strong>Kshitij</strong> · @okkshitij · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 21 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/okkshitij/status/2102224278590554379">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/roylee0x/status/2102219367245394020"><img src="https://pbs.twimg.com/tweet_video_thumb/HSyVXa_bAAAONK5.jpg" alt="Using Jev to pick sub-agent models and save orchestration tokens · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 742</p>
 <p><a href="https://x.com/roylee0x/status/2102219367245394020">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nlycskn/status/2102207493917343832"><img src="https://pbs.twimg.com/amplify_video_thumb/2101469882307203072/img/rr_kIjlBv4IEEzYj.jpg" alt="Jev aims to solve unstable agent outputs · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 473</p>
 <p><a href="https://x.com/nlycskn/status/2102207493917343832">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/amplifiedamp/status/2102195943471009971"><img src="https://pbs.twimg.com/media/HSyABFHb0AAHpkn?format=jpg&amp;name=medium" alt="Asking Jev Which AI Is Most Evil · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 361</p>
 <p><a href="https://x.com/amplifiedamp/status/2102195943471009971">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/denisyarats/status/2102252088067850507"><img src="https://pbs.twimg.com/amplify_video_thumb/2102251442182766593/img/aatTPMuYg8PK2Crq.jpg" alt="Autonomously Training a Jev-like Model with an Agent Swarm · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>Denis Yarats</strong> · @denisyarats · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 108</p>
 <p><a href="https://x.com/denisyarats/status/2102252088067850507">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aiseomastery/status/2102226376468148315"><img src="https://pbs.twimg.com/amplify_video_thumb/2102120212569157632/img/pVV3rvopxb78sIml.jpg" alt="JEV AI Handles Fast Decisions Giant Models Are Too Slow For · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aiseomastery/status/2102226376468148315">JEV AI Handles Fast Decisions Giant Models Are Too Slow For</a></h3>
+<p>JEV AI quickly judges hot leads, risky actions, and which tool to use so workflows keep moving.</p>
+<p><strong>中文摘要：</strong>JEV AI 快速判断热门线索、风险操作和工具选择，让工作流持续运转。</p>
+<p><strong>AI Mastery Guide</strong> · @aiseomastery · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 88</p>
+<p><a href="https://x.com/aiseomastery/status/2102226376468148315">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/TarikMoon/status/2102188789708050574"><img src="https://pbs.twimg.com/amplify_video_thumb/2102188008766406656/img/Uq3B6It7yN-8KZ_j.jpg" alt="SignalPilot Rev Rebuilds Agentic Decision Outer Loop on Jev System 1 Intelligence · 原帖视频截图" width="100%"></a>

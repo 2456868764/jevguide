@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 247 | 101 | 146 | 802K |
+| 249 | 103 | 146 | 802K |
 
 ## Showcase 卡片
 
@@ -166,6 +166,19 @@
 <p><a href="https://x.com/Yarrow_ai/status/2102226848436645902">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/ai_joryushi/status/2102224808499167507"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local decision model Laya takes on cloud Jev in Tetris, 11x faster decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_joryushi/status/2102224808499167507">Local decision model Laya takes on cloud Jev in Tetris, 11x faster decisions</a></h3>
+<p>A team building a local AI inference engine released Laya, an open-weight decision-specialized model, and pitted it against cloud Jev in Tetris, achieving 11x faster decisions while running locally on a 16GB MacBook Air.</p>
+<p><strong>中文摘要：</strong>开发本地AI推理引擎的团队发布了开放权重判断专用模型Laya，并与云端版Jev进行俄罗斯方块对决，判断速度快11倍，在16GB MacBook Air上本地运行。</p>
+<p><strong>AI蒸留氏</strong> · @ai_joryushi · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 70</p>
+<p><a href="https://x.com/ai_joryushi/status/2102224808499167507">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/myoshida2a/status/2102218051026636881"><img src="https://pbs.twimg.com/media/HSyUKWPbUAIksEJ?format=jpg&amp;name=medium" alt="Jev Trial Guide: Join the Wait List First, Get It Running in 5 Minutes · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -175,6 +188,17 @@
 <p><strong>マッサン (Masanori Yoshida)</strong> · @myoshida2a · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 68</p>
 <p><a href="https://x.com/myoshida2a/status/2102218051026636881">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zelin1107/status/2102223997245293029"><img src="https://pbs.twimg.com/amplify_video_thumb/2101924516859711488/img/8VMbEr29TnvI0ALV.jpg" alt="Codex Integrates Jev Skills: Fast Model Judges, Expensive Model Codes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zelin1107/status/2102223997245293029">Codex Integrates Jev Skills: Fast Model Judges, Expensive Model Codes</a></h3>
+<p>The post notes that with Jev Skills, Codex still writes code while Jev handles quick judgments like multiple choice, scoring, and allow/block, cutting latency from seconds to tens of milliseconds and illustrating a division of labor between expensive and fast models.</p>
+<p><strong>中文摘要：</strong>帖子指出 Codex 装上 Jev Skills 后，写代码仍由 Codex 负责，而单选、打分、放行/拦截等快速判断交给 Jev，耗时从数秒降到几十毫秒，体现贵模型与快模型的分工。</p>
+<p><strong>慢走不宋</strong> · @zelin1107 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/zelin1107/status/2102223997245293029">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2123</strong><br>curated posts</td>
-<td align="center"><strong>1216</strong><br>original videos</td>
+<td align="center"><strong>2140</strong><br>curated posts</td>
+<td align="center"><strong>1231</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,13 +34,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>256</strong> showcases · <strong>141</strong> videos</p>
+<p><strong>258</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>247</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>249</strong> showcases · <strong>103</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>217</strong> showcases · <strong>172</strong> videos</p>
+<p><strong>221</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>141</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>143</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>137</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>138</strong> showcases · <strong>83</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>124</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>126</strong> showcases · <strong>56</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>83</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>85</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>64</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>50</strong> showcases · <strong>46</strong> videos</p>
+<p><strong>51</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/dgrid_ai/status/2102231668040040687"><img src="https://pbs.twimg.com/media/HSyghV2bQAAKh8Q?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.13 now available on DGrid · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dgrid_ai/status/2102231668040040687">TypeSafe Jev 1.13 now available on DGrid</a></h3>
-<p>TypeSafe&#39;s flagship System One model Jev 1.13 is now on DGrid, built for routing, classification, scoring, and real-time automation with multiple typed questions per request and structured outputs.</p>
-<p><strong>5.2K</strong> views · 💬 3 &nbsp; 🔁 7 &nbsp; ♡ 16 &nbsp; 📊 5.2K</p>
-<p><strong>DGrid AI</strong> · @dgrid_ai</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/yoheinakajima/status/2102213665361690906"><img src="https://pbs.twimg.com/amplify_video_thumb/2102213606414921728/img/cLKQS-9p31mko41V.jpg" alt="Jev-style image decision model glance-qwen3-vl-4b released · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yoheinakajima/status/2102213665361690906">Jev-style image decision model glance-qwen3-vl-4b released</a></h3>
+<p>Yohei Nakajima released glance-qwen3-vl-4b, a Jev-style fast image decision model that answers &quot;hot dog or not?&quot; in 0.4 seconds, available on Hugging Face and Replicate.</p>
+<p><strong>6.6K</strong> views · 💬 11 &nbsp; 🔁 3 &nbsp; ♡ 29 &nbsp; 📊 6.6K</p>
+<p><strong>Yohei</strong> · @yoheinakajima</p>
 </td>
 </tr>
 </table>

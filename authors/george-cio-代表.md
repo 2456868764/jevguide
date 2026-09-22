@@ -1,9 +1,10 @@
 # George リバネスCIO/リバネスナレッジ代表
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Jev Approaches and Defeats Skeleton with Four-Hit Combo](https://x.com/geeorgey/status/2102225880659726494) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 114 |
 | 2026-09-22 | [26-Hour Minecraft Survival: Jev Handles Mining Decisions, Codex Handles Strategy](https://x.com/geeorgey/status/2102209700087636292) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 93 |
 | 2026-09-21 | [Codex and Jev Team Up in Minecraft: Supply, Mining, and Dragon Progress](https://x.com/geeorgey/status/2102161638040416410) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 105 |
 | 2026-09-21 | [Jev Automates Log Gathering, Charcoal and Torch Crafting in Minecraft](https://x.com/geeorgey/status/2102173497074282688) | 游戏 | George リバネスCIO/リバネスナレッジ代表 | 100 |

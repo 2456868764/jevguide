@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1909</strong><br>curated posts</td>
-<td align="center"><strong>1094</strong><br>original videos</td>
+<td align="center"><strong>1916</strong><br>curated posts</td>
+<td align="center"><strong>1099</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,7 +34,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>233</strong> showcases · <strong>95</strong> videos</p>
+<p><strong>234</strong> showcases · <strong>96</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>112</strong> showcases · <strong>46</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>91</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>92</strong> showcases · <strong>53</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>64</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>45</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>43</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -138,18 +138,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>15</strong> showcases · <strong>7</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>16</strong> showcases · <strong>10</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>15</strong> showcases · <strong>9</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>15</strong> showcases · <strong>7</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>10</strong> showcases · <strong>4</strong> videos</p>
+<p><strong>11</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 </tr>
@@ -231,12 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/patricklawsonai/status/2102205625514226174"><img src="https://pbs.twimg.com/amplify_video_thumb/2102205593394302976/img/GQLCKyQQEJmCp3QF.jpg" alt="Jev and sai_borg Enable Screen-Based Control Without Integrations · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/patricklawsonai/status/2102205625514226174">Jev and sai_borg Enable Screen-Based Control Without Integrations</a></h3>
-<p>Jev and sai_borg demonstrate operating software without integrations, installations, or permissions: point at a window, read the screen, run the loop, and press keys.</p>
-<p><strong>21K</strong> views · 💬 17 &nbsp; 🔁 2 &nbsp; ♡ 76 &nbsp; 📊 21K</p>
-<p><strong>Patrick Lawson</strong> · @patricklawsonai</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/FrankDa18249347/status/2102197241331290121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Building a BTC 5-Minute Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/FrankDa18249347/status/2102197241331290121">Building a BTC 5-Minute Trading Bot with Jev</a></h3>
+<p>A developer uses Jev&#39;s low-latency advantage to replace fair value calculation in a quant trading bot, referencing Binance BTC contract order book data to predict BTC 5-minute market movements.</p>
+<p><strong>25K</strong> views · 💬 26 &nbsp; 🔁 18 &nbsp; ♡ 112 &nbsp; 📊 25K</p>
+<p><strong>FrankD</strong> · @FrankDa18249347</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/FrankDa18249347/status/2102197241331290121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Building a BTC 5-Minute Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/FrankDa18249347/status/2102197241331290121">Building a BTC 5-Minute Trading Bot with Jev</a></h3>
+<p>A developer uses Jev&#39;s low-latency advantage to replace fair value calculation in a quant trading bot, referencing Binance BTC contract order book data to predict BTC 5-minute market movements.</p>
+<p><strong>25K</strong> views · 💬 26 &nbsp; 🔁 18 &nbsp; ♡ 112 &nbsp; 📊 25K</p>
+<p><strong>FrankD</strong> · @FrankDa18249347</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/patricklawsonai/status/2102205625514226174"><img src="https://pbs.twimg.com/amplify_video_thumb/2102205593394302976/img/GQLCKyQQEJmCp3QF.jpg" alt="Jev and sai_borg Enable Screen-Based Control Without Integrations · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/patricklawsonai/status/2102205625514226174">Jev and sai_borg Enable Screen-Based Control Without Integrations</a></h3>
 <p>Jev and sai_borg demonstrate operating software without integrations, installations, or permissions: point at a window, read the screen, run the loop, and press keys.</p>
 <p><strong>21K</strong> views · 💬 17 &nbsp; 🔁 2 &nbsp; ♡ 76 &nbsp; 📊 21K</p>
 <p><strong>Patrick Lawson</strong> · @patricklawsonai</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/geekbb/status/2102226879772332527"><img src="https://pbs.twimg.com/media/HSyOMkyasAE-cHJ?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Jev Resource List on GitHub · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/geekbb/status/2102226879772332527">Awesome Jev: A Curated Jev Resource List on GitHub</a></h3>
-<p>Shares an Awesome Jev resource list on GitHub, collecting projects and tools around the Jev model ecosystem.</p>
-<p><strong>13K</strong> views · 💬 1 &nbsp; 🔁 20 &nbsp; ♡ 116 &nbsp; 📊 13K</p>
-<p><strong>Geek</strong> · @geekbb</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/typedfemale/status/2102195929218695601"><img src="https://pbs.twimg.com/amplify_video_thumb/2102195791117062144/img/A16eIUezHtpAX6XC.jpg" alt="Jev Can Generate Text · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/typedfemale/status/2102195929218695601">Jev Can Generate Text</a></h3>
-<p>A brief note stating that Jev is capable of generating text.</p>
-<p><strong>3.5K</strong> views · 💬 10 &nbsp; 🔁 3 &nbsp; ♡ 61 &nbsp; 📊 3.5K</p>
-<p><strong>typedfemale</strong> · @typedfemale</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/__syumai/status/2102243119320453262"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242935828082688/img/tcpn-MpVpQA1INlB.jpg" alt="Building a CLI subcommand suggestion tool with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/__syumai/status/2102243119320453262">Building a CLI subcommand suggestion tool with Jev</a></h3>
+<p>The author built a CLI tool wrapper with Jev that semantically suggests &quot;Did you mean?&quot; corrections for mistyped subcommands, such as git record to git commit.</p>
+<p><strong>3.7K</strong> views · 💬 1 &nbsp; 🔁 7 &nbsp; ♡ 33 &nbsp; 📊 3.7K</p>
+<p><strong>syumai</strong> · @__syumai</p>
 </td>
 </tr>
 </table>

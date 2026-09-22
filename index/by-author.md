@@ -94,6 +94,7 @@
 - [Alex](../authors/alex.md) — 2
 - [alex nikolic](../authors/alex-nikolic.md) — 2
 - [Angework公式アカウント](../authors/angework公式.md) — 2
+- [Anicet](../authors/anicet.md) — 2
 - [Anshu](../authors/anshu.md) — 2
 - [ANURAG SINGH BHANDARI](../authors/anurag-singh-bhandari.md) — 2
 - [Archer](../authors/archer.md) — 2
@@ -203,6 +204,7 @@
 - [vogel](../authors/vogel.md) — 2
 - [Wyong · 产品增长](../authors/wyong-产品增长.md) — 2
 - [Xuan (Billy) Zhang](../authors/xuan-billy-zhang.md) — 2
+- [Yury Selivanov](../authors/yury-selivanov.md) — 2
 - [돼박](../authors/jev-showcase.md) — 2
 - [オカムラ | 株式会社ライトアップ フラクショナルCTO](../authors/株式会社-cto.md) — 2
 - [かねこつよし](../authors/jev-showcase.md) — 2
@@ -332,7 +334,6 @@
 - [Andy Gao](../authors/andy-gao.md) — 1
 - [Angel Galvis Caballero](../authors/angel-galvis-caballero.md) — 1
 - [Angus](../authors/angus.md) — 1
-- [Anicet](../authors/anicet.md) — 1
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
 - [Anjula Dwivedi](../authors/anjula-dwivedi.md) — 1
 - [Ankur Raina | SaaSpocalypse](../authors/ankur-raina-saaspocalypse.md) — 1
@@ -500,6 +501,7 @@
 - [David Ondrej](../authors/david-ondrej.md) — 1
 - [David Tao](../authors/david-tao.md) — 1
 - [David Villalón](../authors/david-villalon.md) — 1
+- [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
 - [decimaru｜AI音楽×エコティクノート](../authors/decimaru-ai音楽.md) — 1
 - [Declic IA](../authors/declic-ia.md) — 1
@@ -591,6 +593,7 @@
 - [Francesco Calia](../authors/francesco-calia.md) — 1
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 1
 - [Francisco Camacho](../authors/francisco-camacho.md) — 1
+- [FrankD](../authors/frankd.md) — 1
 - [friz()](../authors/friz.md) — 1
 - [frombit@エンジニア](../authors/frombit.md) — 1
 - [Frontiera Tech](../authors/frontiera-tech.md) — 1
@@ -970,6 +973,7 @@
 - [nocoo](../authors/nocoo.md) — 1
 - [notdevin](../authors/notdevin.md) — 1
 - [Notef / NEIGHBOR CEO](../authors/notef-neighbor-ceo.md) — 1
+- [Nova Tang](../authors/nova-tang.md) — 1
 - [Nox](../authors/nox.md) — 1
 - [Nuno Sousa](../authors/nuno-sousa.md) — 1
 - [nutanc](../authors/nutanc.md) — 1
@@ -1310,7 +1314,6 @@
 - [Yunn](../authors/yunn.md) — 1
 - [yunus](../authors/yunus.md) — 1
 - [yuri](../authors/yuri.md) — 1
-- [Yury Selivanov](../authors/yury-selivanov.md) — 1
 - [Yusuke Kawabata](../authors/yusuke-kawabata.md) — 1
 - [Yusuke Wada](../authors/yusuke-wada.md) — 1
 - [YZ | 立正](../authors/yz-立正.md) — 1
@@ -1452,6 +1455,8 @@
 - [古野光太朗](../authors/古野光太朗.md) — 1
 - [吉澤フェアリー](../authors/吉澤.md) — 1
 - [同語 Jackson](../authors/同語-jackson.md) — 1
+- [图喜](../authors/图喜.md) — 1
+- [大有](../authors/大有.md) — 1
 - [大田原正幸｜医療AIガバナンス｜Cursorvers](../authors/大田原正幸-医療ai-cursorvers.md) — 1
 - [太郎｜ 残業ゼロへのAIマネジメント](../authors/太郎-残業-ai.md) — 1
 - [头雁](../authors/头雁.md) — 1

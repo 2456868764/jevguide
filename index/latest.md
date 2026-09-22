@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Laya vs Jev: 45ms Local vs 300ms Cloud](https://x.com/NFT_Chen/status/2102277701415600236) | 开发者工具 | SuSu_酥酥👅 | 57K |
 | 2026-09-22 | [Jev Model Powers Lending Desk on Robinhood Chain](https://x.com/RobinhoodAlphas/status/2102221040944353377) | 金融 | Robinhood Alpha | 38K |
 | 2026-09-22 | [Jev and OpenRouter Go Live on Monid with 2,000 Tools](https://x.com/RoundtableSpace/status/2102235184795935185) | 接入动态 | 0xMarioNawfal | 38K |
 | 2026-09-22 | [Re-scoring the Fedlock Corpus with Jev and JSort](https://x.com/TheStalwart/status/2102190936780312800) | 金融 | Joe Weisenthal | 38K |
@@ -89,6 +90,7 @@
 | 2026-09-22 | [Jev makes web search more context-efficient; author open-sources webctl](https://x.com/dorkitude/status/2102194028704092585) | 开发资源 | Kyle Wild | 191 |
 | 2026-09-22 | [JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap](https://x.com/clarkalphas/status/2102191050324574375) | 金融 | Clark | 190 |
 | 2026-09-22 | [Jev Founder Diogo Almeida Releases 36-Minute Masterclass](https://x.com/0xF1ction/status/2102192519215812893) | 产品发布 | Fiction | 181 |
+| 2026-09-22 | [Understanding how TypeSafe Jev picks colors for words via buildfirst.ai demo](https://x.com/bethanymarz/status/2102243184470294586) | 工作原理 | Bethany Crystal | 179 |
 | 2026-09-22 | [Jev explainer video: judging whether AI answers follow premises](https://x.com/laravel_junko/status/2102217215735189713) | 工作原理 | Junko@生成AIを『安全に』使うエンジニア | 178 |
 | 2026-09-22 | [Jev-ifying Qwen and LFM Models with LoRA](https://x.com/tjm8874/status/2102213706059051162) | 开发资源 | おののき＠意識を低く持て！ | 176 |
 | 2026-09-22 | [LAYA: An Open-Source Alternative to TypeSafe Jev](https://x.com/rene05x/status/2102207628755738777) | 开发资源 | Rene F Bernard | 164 |
@@ -100,5 +102,3 @@
 | 2026-09-22 | [Recommending SolarMini4Jev as an Alternative to the Jev Decision Model](https://x.com/SungKimUp/status/2102196460997816524) | 开发者工具 | Sung Kim | 143 |
 | 2026-09-22 | [Jev + Vicaura Described as a Product Reverse Engineering Stack](https://x.com/abhijitwt/status/2102233348488024301) | 开发者工具 | Abhijit | 143 |
 | 2026-09-22 | [Explaining the features and use cases of Jev, the AI that doesn't write text](https://x.com/hanimaru_draix/status/2102216321333391539) | 知识与搜索 | Dr.はにまる｜院長のAI実験室 | 133 |
-| 2026-09-22 | [Clawby Update: Jev Model Powers Asset Rating](https://x.com/openclawby/status/2102199469970477555) | 金融 | Clawby | 125 |
-| 2026-09-22 | [Improving Story Generation with a Jev-Based Teacher](https://x.com/nutanc/status/2102229633664209048) | 教育 | nutanc | 124 |

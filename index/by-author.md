@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 18
+- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 19
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 12
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 11
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 11
@@ -439,6 +439,7 @@
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 1
 - [Beney de Saxonne](../authors/beney-de-saxonne.md) — 1
 - [BENZEMA ZHU](../authors/benzema-zhu.md) — 1
+- [Bethany Crystal](../authors/bethany-crystal.md) — 1
 - [BHA | NextGen Learning‧Earning‧Hiring](../authors/bha-nextgen-learning-earning-hiring.md) — 1
 - [BigEye](../authors/bigeye.md) — 1
 - [Bilu](../authors/bilu.md) — 1
@@ -651,6 +652,7 @@
 - [FLock.io](../authors/flock-io.md) — 1
 - [FLock.io Korea](../authors/flock-io-korea.md) — 1
 - [Flowers ☾](../authors/flowers.md) — 1
+- [Fluixo](../authors/fluixo.md) — 1
 - [FMZ Quant](../authors/fmz-quant.md) — 1
 - [FolyAI](../authors/folyai.md) — 1
 - [Fountai | refcat.app](../authors/fountai-refcat-app.md) — 1

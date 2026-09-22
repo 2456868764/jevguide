@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2103</strong><br>curated posts</td>
-<td align="center"><strong>1199</strong><br>original videos</td>
+<td align="center"><strong>2106</strong><br>curated posts</td>
+<td align="center"><strong>1202</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>259</strong> showcases · <strong>121</strong> videos</p>
+<p><strong>261</strong> showcases · <strong>123</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>255</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>256</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/NFT_Chen/status/2102277701415600236"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Laya vs Jev: 45ms Local vs 300ms Cloud · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NFT_Chen/status/2102277701415600236">Laya vs Jev: 45ms Local vs 300ms Cloud</a></h3>
+<p>Post compares Laya and Jev decision latency: local Laya about 45ms on a 16GB MacBook Air versus cloud Jev about 300ms, noting Laya is free while Jev charges per token.</p>
+<p><strong>57K</strong> views · 💬 16 &nbsp; 🔁 40 &nbsp; ♡ 264 &nbsp; 📊 57K</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">Jev Model Powers Lending Desk on Robinhood Chain</a></h3>
 <p>JevTrenches is a lending desk built on Robinhood Chain that uses Jev, TypeSafe&#39;s System One model, to determine the factor while code sizes the loan, focusing on lending infrastructure rather than taking deposits.</p>
 <p><strong>38K</strong> views · 💬 72 &nbsp; 🔁 101 &nbsp; ♡ 442 &nbsp; 📊 38K</p>
 <p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
 <p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
 <p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
 <p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
 <p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/FrankDa18249347/status/2102197241331290121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Building a BTC 5-Minute Trading Bot with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FrankDa18249347/status/2102197241331290121">Building a BTC 5-Minute Trading Bot with Jev</a></h3>
-<p>A developer uses Jev&#39;s low-latency advantage to replace fair value calculation in a quant trading bot, referencing Binance BTC contract order book data to predict BTC 5-minute market movements.</p>
-<p><strong>25K</strong> views · 💬 26 &nbsp; 🔁 18 &nbsp; ♡ 112 &nbsp; 📊 25K</p>
-<p><strong>FrankD</strong> · @FrankDa18249347</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">Jev Model Powers Lending Desk on Robinhood Chain</a></h3>
-<p>JevTrenches is a lending desk built on Robinhood Chain that uses Jev, TypeSafe&#39;s System One model, to determine the factor while code sizes the loan, focusing on lending infrastructure rather than taking deposits.</p>
-<p><strong>38K</strong> views · 💬 72 &nbsp; 🔁 101 &nbsp; ♡ 442 &nbsp; 📊 38K</p>
-<p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/NFT_Chen/status/2102277701415600236"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Laya vs Jev: 45ms Local vs 300ms Cloud · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NFT_Chen/status/2102277701415600236">Laya vs Jev: 45ms Local vs 300ms Cloud</a></h3>
+<p>Post compares Laya and Jev decision latency: local Laya about 45ms on a 16GB MacBook Air versus cloud Jev about 300ms, noting Laya is free while Jev charges per token.</p>
+<p><strong>57K</strong> views · 💬 16 &nbsp; 🔁 40 &nbsp; ♡ 264 &nbsp; 📊 57K</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
+<p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
+<p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
+<p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/FrankDa18249347/status/2102197241331290121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Building a BTC 5-Minute Trading Bot with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/FrankDa18249347/status/2102197241331290121">Building a BTC 5-Minute Trading Bot with Jev</a></h3>
 <p>A developer uses Jev&#39;s low-latency advantage to replace fair value calculation in a quant trading bot, referencing Binance BTC contract order book data to predict BTC 5-minute market movements.</p>
 <p><strong>25K</strong> views · 💬 26 &nbsp; 🔁 18 &nbsp; ♡ 112 &nbsp; 📊 25K</p>
 <p><strong>FrankD</strong> · @FrankDa18249347</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/patricklawsonai/status/2102205625514226174"><img src="https://pbs.twimg.com/amplify_video_thumb/2102205593394302976/img/GQLCKyQQEJmCp3QF.jpg" alt="Jev and sai_borg Enable Screen-Based Control Without Integrations · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/patricklawsonai/status/2102205625514226174">Jev and sai_borg Enable Screen-Based Control Without Integrations</a></h3>
-<p>Jev and sai_borg demonstrate operating software without integrations, installations, or permissions: point at a window, read the screen, run the loop, and press keys.</p>
-<p><strong>21K</strong> views · 💬 17 &nbsp; 🔁 2 &nbsp; ♡ 76 &nbsp; 📊 21K</p>
-<p><strong>Patrick Lawson</strong> · @patricklawsonai</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/__syumai/status/2102243119320453262"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242935828082688/img/tcpn-MpVpQA1INlB.jpg" alt="Building a CLI subcommand suggestion tool with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/__syumai/status/2102243119320453262">Building a CLI subcommand suggestion tool with Jev</a></h3>
-<p>The author built a CLI tool wrapper with Jev that semantically suggests &quot;Did you mean?&quot; corrections for mistyped subcommands, such as git record to git commit.</p>
-<p><strong>3.7K</strong> views · 💬 1 &nbsp; 🔁 7 &nbsp; ♡ 33 &nbsp; 📊 3.7K</p>
-<p><strong>syumai</strong> · @__syumai</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/_lyraaaa_/status/2102233484194725894"><img src="https://pbs.twimg.com/media/HSyhxINasAANvEX?format=jpg&amp;name=medium" alt="Jev Model Expresses Dislike for Seaweed When Generating Text · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/_lyraaaa_/status/2102233484194725894">Jev Model Expresses Dislike for Seaweed When Generating Text</a></h3>
+<p>A user observes that the Jev model repeatedly expresses dislike for seaweed/kelp when generating text, sometimes going out of its way to say &#39;hate kelp&#39;, which is amusing.</p>
+<p><strong>4.6K</strong> views · 💬 7 &nbsp; 🔁 14 &nbsp; ♡ 136 &nbsp; 📊 4.6K</p>
+<p><strong>lyra bubbles</strong> · @_lyraaaa_</p>
 </td>
 </tr>
 </table>

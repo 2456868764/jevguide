@@ -1,7 +1,7 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 259
-- [Developer tools](../categories/developer-tools.md) — 255
+- [How it works](../categories/how-it-works.md) — 261
+- [Developer tools](../categories/developer-tools.md) — 256
 - [Access updates](../categories/access-updates.md) — 247
 - [Gaming](../categories/gaming.md) — 213
 - [Agents](../categories/agents.md) — 140

@@ -1,9 +1,10 @@
 # SuSu_酥酥👅
 
-18 Jev showcases.
+19 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Laya vs Jev: 45ms Local vs 300ms Cloud](https://x.com/NFT_Chen/status/2102277701415600236) | 开发者工具 | SuSu_酥酥👅 | 57K |
 | 2026-09-21 | [Open Source Community Replicates Jev's System One Fast Thinking Paradigm](https://x.com/NFT_Chen/status/2101898318465187900) | 开发资源 | SuSu_酥酥👅 | 722 |
 | 2026-09-21 | [KaLM-Jev Open Source: Local Three-Mode Structured Judgment Service](https://x.com/NFT_Chen/status/2101915137116639354) | 开发资源 | SuSu_酥酥👅 | 0 |
 | 2026-09-20 | [Laya Local Model vs Jev Cloud API: Snake Game Speed Comparison](https://x.com/NFT_Chen/status/2101675124747338229) | 游戏 | SuSu_酥酥👅 | 257K |

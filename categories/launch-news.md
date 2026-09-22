@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 107 | 64 | 46 | 1.1M |
+| 111 | 68 | 46 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/ChrisShort/status/2102193834905964613">在 X 查看原帖</a> · <a href="https://t.co/J3lwoIB0e0">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Sneaky2x/status/2102186632346730739"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="System One Model Jev Launch Sparks Industry Chain Reaction · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sneaky2x/status/2102186632346730739">System One Model Jev Launch Sparks Industry Chain Reaction</a></h3>
+<p>The post notes that just the announcement and early access window of the System One model Jev changed the AI industry, spawning more Jev-like models and fine-tunes, marking a different path from the past five years of LLMs.</p>
+<p><strong>中文摘要：</strong>帖子指出，仅凭公告和早期访问窗口，System One 模型 Jev 的展示就改变了 AI 行业，并催生更多类似模型和微调尝试，标志着不同于过去五年 LLM 的发展路径。</p>
+<p><strong>Nuno Sousa</strong> · @Sneaky2x · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Sneaky2x/status/2102186632346730739">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/gigabit_million/status/2102203362724946213"><img src="https://pbs.twimg.com/amplify_video_thumb/2102202916417548288/img/Pydnu0ZXiMqYYlTu.jpg" alt="Jev Chat Adds English Support · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>ギガビット@ゲームつくるひと</strong> · @gigabit_million · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/gigabit_million/status/2102203362724946213">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Akhila_988/status/2102186308601086388"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171833479118848/img/NYfr1OdB7FjuWm7B.jpg" alt="Jev-Omni Open-Source Version Released · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Akhila_988/status/2102186308601086388">Jev-Omni Open-Source Version Released</a></h3>
+<p>The open-source Jev-Omni version is now available, trained on Gemma Unified 12B using 8xH200.</p>
+<p><strong>中文摘要：</strong>Jev-Omni 开源版本已发布，基于 Gemma Unified 12B 在 8xH200 上训练。</p>
+<p><strong>akhila</strong> · @Akhila_988 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/Akhila_988/status/2102186308601086388">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -395,6 +419,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Akhila_988/status/2102185996171575604"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171833479118848/img/NYfr1OdB7FjuWm7B.jpg" alt="OSS Jev-Omni Released: Trained on Gemma Unified 12B · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Akhila_988/status/2102185996171575604">OSS Jev-Omni Released: Trained on Gemma Unified 12B</a></h3>
+<p>OSS Jev-Omni is now available, trained on Gemma Unified 12B using 8xH200.</p>
+<p><strong>中文摘要：</strong>OSS Jev-Omni 现已发布，基于 Gemma Unified 12B 在 8xH200 上训练。</p>
+<p><strong>akhila</strong> · @Akhila_988 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Akhila_988/status/2102185996171575604">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Shadowfetch/status/2101972719214494146"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101972643419160576/pu/img/Fn9zpixP577pPPYH.jpg" alt="TypeSafe Launches Jev AI Choice Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -404,6 +439,19 @@
 <p><strong>Robert Corbin</strong> · @Shadowfetch · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/Shadowfetch/status/2101972719214494146">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Akhila_988/status/2102184755190218834"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171833479118848/img/NYfr1OdB7FjuWm7B.jpg" alt="OSS Jev-Omni Released, Supports All Modalities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Akhila_988/status/2102184755190218834">OSS Jev-Omni Released, Supports All Modalities</a></h3>
+<p>Jev-Omni is now open source and supports all modalities.</p>
+<p><strong>中文摘要：</strong>Jev-Omni 现已开源，支持所有模态。</p>
+<p><strong>akhila</strong> · @Akhila_988 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/Akhila_988/status/2102184755190218834">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/shirorakuki/status/2102002938529149373"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002744014053376/img/DNpeYw894z78Y4Oc.jpg" alt="Jev Removes Waitlist and Opens to All · 原帖视频截图" width="100%"></a>

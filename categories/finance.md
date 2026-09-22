@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 84 | 52 | 33 | 1.2M |
+| 86 | 52 | 35 | 1.2M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Michael Guo</strong> · @Michaelzsguo · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 473</p>
 <p><a href="https://x.com/Michaelzsguo/status/2102190802160005277">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MapleLeafCap/status/2102251136950649008"><img src="https://pbs.twimg.com/media/HSyyIpXb0AA59XQ?format=jpg&amp;name=medium" alt="BidClub AI Updates Pitch Aggregation with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MapleLeafCap/status/2102251136950649008">BidClub AI Updates Pitch Aggregation with Jev</a></h3>
+<p>Jason Kam says BidClub AI&#39;s pitch aggregation feature is getting an update thanks to Jev, and asks for recommendations of long-form pitch creators worth tracking.</p>
+<p><strong>中文摘要：</strong>Jason Kam 表示 BidClub AI 的推介聚合功能即将更新，并感谢 Jev，同时征集值得追踪的优质长文推介内容创作者。</p>
+<p><strong>Jason Kam</strong> · @MapleLeafCap · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 400</p>
+<p><a href="https://x.com/MapleLeafCap/status/2102251136950649008">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RitOnchain/status/2102246792800911640"><img src="https://pbs.twimg.com/media/HSyuSgjbcAAUUNh?format=jpg&amp;name=medium" alt="Jane Street quant shares how Jev is used across Wall Street hedge funds · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RitOnchain/status/2102246792800911640">Jane Street quant shares how Jev is used across Wall Street hedge funds</a></h3>
+<p>A Jane Street quant reportedly said Jev acts as a confirmation layer before AI in hedge funds, generating trading alpha, with a technical guide allegedly leaked to a Reddit quant forum.</p>
+<p><strong>中文摘要：</strong>据称 Jane Street 量化交易员公开表示 Jev 在对冲基金中充当 AI 之前的确认层，并带来交易 alpha，相关技术指南据称泄露到 Reddit 量化论坛。</p>
+<p><strong>venus</strong> · @RitOnchain · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 297</p>
+<p><a href="https://x.com/RitOnchain/status/2102246792800911640">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

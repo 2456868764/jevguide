@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 116 | 64 | 52 | 3.0M |
+| 120 | 67 | 53 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/amplifiedamp/status/2102195943471009971">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/denisyarats/status/2102252088067850507"><img src="https://pbs.twimg.com/amplify_video_thumb/2102251442182766593/img/aatTPMuYg8PK2Crq.jpg" alt="Autonomously Training a Jev-like Model with an Agent Swarm · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/denisyarats/status/2102252088067850507">Autonomously Training a Jev-like Model with an Agent Swarm</a></h3>
+<p>Denis Yarats shares AutoJev, a weekend project exploring whether a swarm of agents using an internal system can autonomously train a competitive Jev-like model on a devbox with an H200 GPU.</p>
+<p><strong>中文摘要：</strong>Denis Yarats 分享周末项目 AutoJev：尝试用内部系统的智能体集群，在配备 H200 GPU 的开发机上完全自主地训练出有竞争力的类 Jev 模型。</p>
+<p><strong>Denis Yarats</strong> · @denisyarats · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 108</p>
+<p><a href="https://x.com/denisyarats/status/2102252088067850507">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/TarikMoon/status/2102188789708050574"><img src="https://pbs.twimg.com/amplify_video_thumb/2102188008766406656/img/Uq3B6It7yN-8KZ_j.jpg" alt="SignalPilot Rev Rebuilds Agentic Decision Outer Loop on Jev System 1 Intelligence · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 84</p>
 <p><a href="https://x.com/TarikMoon/status/2102188789708050574">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/david1989_zhu/status/2102192693170618667"><img src="https://pbs.twimg.com/media/HSx8_CTaYAAq6En?format=jpg&amp;name=medium" alt="Production Risks of Jev-Style Judgment Models: Errors Get Amplified at Scale · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,43 @@
 <p><strong>大伟｜AI × Web3</strong> · @david1989_zhu · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 80</p>
 <p><a href="https://x.com/david1989_zhu/status/2102192693170618667">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/madkoding/status/2102246534129537066"><img src="https://pbs.twimg.com/media/HSytEysXEAAn2SB?format=jpg&amp;name=medium" alt="Beta AI agent inspired by Jev&#39;s ideas · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/madkoding/status/2102246534129537066">Beta AI agent inspired by Jev&#39;s ideas</a></h3>
+<p>A developer shares a beta AI agent project that runs on very old computers via APIs like Ollama and OpenAI-compatible services, noting it was trained drawing on Jev&#39;s ideas.</p>
+<p><strong>中文摘要：</strong>开发者分享一个测试版 AI 智能体项目，可在老旧电脑上通过 Ollama、OpenAI 兼容等 API 运行，并提到训练时参考了 Jev 的思路。</p>
+<p><strong>Uncle madKoding 👾</strong> · @madkoding · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 63</p>
+<p><a href="https://x.com/madkoding/status/2102246534129537066">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xbelorix/status/2102249529021976887"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Jev-powered browser agent finds flights in 7 seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xbelorix/status/2102249529021976887">Jev-powered browser agent finds flights in 7 seconds</a></h3>
+<p>The post shows how the Jev model enables a browser agent to find flights in 7 seconds for $0.0039, emphasizing Jev choosing the next click instead of generating long text.</p>
+<p><strong>中文摘要：</strong>该帖子展示 Jev 模型如何让浏览器智能体在 7 秒内以 0.0039 美元找到航班，强调 Jev 负责选择下一步点击而非生成冗长文本。</p>
+<p><strong>belorix</strong> · @0xbelorix · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/0xbelorix/status/2102249529021976887">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/binaryreality/status/2102251573627982243"><img src="https://pbs.twimg.com/amplify_video_thumb/2102250632195588096/img/zE4GaWjwuBG8saKo.jpg" alt="Jev Agents Collaborate in Real Time to Draw Art · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/binaryreality/status/2102251573627982243">Jev Agents Collaborate in Real Time to Draw Art</a></h3>
+<p>The author shares a method for agents to draw better art: Jev agents are assigned dedicated tasks like foreground, background, objects, boats, and polish, collaborating in real time at high speed.</p>
+<p><strong>中文摘要：</strong>作者分享让智能体绘制更好艺术画作的方法：Jev 智能体被分配前景、背景、物体、船只、润色等专门任务，在各自轨道上实时协作，速度极快。</p>
+<p><strong>Jacob Wellinghoff 🦞</strong> · @binaryreality · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 20</p>
+<p><a href="https://x.com/binaryreality/status/2102251573627982243">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/StingCloudLab/status/2102202720341934217"><img src="https://pbs.twimg.com/amplify_video_thumb/2101867409280049152/img/3kHkjCgJIRrY9dde.jpg" alt="Wake-word-free assistant demo built with Jev and GPT-6 Astra · 原帖视频截图" width="100%"></a>

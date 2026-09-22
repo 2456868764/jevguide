@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1730</strong><br>curated posts</td>
-<td align="center"><strong>1018</strong><br>original videos</td>
+<td align="center"><strong>1765</strong><br>curated posts</td>
+<td align="center"><strong>1036</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -26,21 +26,21 @@ From finance and gaming to security review. Every listed post is checked against
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/access-updates.md">Access updates</a></h3>
-<p><sub>接入动态</sub></p>
-<p><strong>215</strong> showcases · <strong>90</strong> videos</p>
-<p><a href="categories/access-updates.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>208</strong> showcases · <strong>110</strong> videos</p>
+<p><strong>216</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/access-updates.md">Access updates</a></h3>
+<p><sub>接入动态</sub></p>
+<p><strong>216</strong> showcases · <strong>90</strong> videos</p>
+<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>207</strong> showcases · <strong>102</strong> videos</p>
+<p><strong>214</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>171</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>174</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>116</strong> showcases · <strong>64</strong> videos</p>
+<p><strong>120</strong> showcases · <strong>67</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>115</strong> showcases · <strong>70</strong> videos</p>
+<p><strong>117</strong> showcases · <strong>71</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>93</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>95</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>84</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>86</strong> showcases · <strong>52</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>67</strong> showcases · <strong>51</strong> videos</p>
+<p><strong>70</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>52</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>53</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>45</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>26</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -132,16 +132,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>15</strong> showcases · <strong>9</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
 <p><strong>14</strong> showcases · <strong>7</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>14</strong> showcases · <strong>9</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>13</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>12</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>8</strong> showcases · <strong>3</strong> videos</p>
+<p><strong>9</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 </tr>
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>Ishan Goswami</strong> · @TheIshanGoswami</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/AYi_AInotes/status/2102198099498135812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101673555813453825/img/nfWWuk_nW1mtGBW2.jpg" alt="Developer Builds Bookmark Search Tool Margin with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AYi_AInotes/status/2102198099498135812">Developer Builds Bookmark Search Tool Margin with Jev</a></h3>
-<p>Developer Alex uses Jev to build Margin, a bookmark search tool that addresses the slow retrieval of traditional large models.</p>
-<p><strong>396</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 396</p>
-<p><strong>AYi</strong> · @AYi_AInotes</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/airesearch12/status/2102194492606460011"><img src="https://pbs.twimg.com/media/HSx-v71W4AAzIi0?format=jpg&amp;name=medium" alt="JevBench v1.3.0 Released: Updated Jev Model Benchmark · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/airesearch12/status/2102194492606460011">JevBench v1.3.0 Released: Updated Jev Model Benchmark</a></h3>
+<p>JevBench v1.3.0 is now live. The original Jev model leads with 74.4, but faces challenges from 47 competitors, with some getting very close.</p>
+<p><strong>465</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 465</p>
+<p><strong>Florian S</strong> · @airesearch12</p>
 </td>
 </tr>
 </table>

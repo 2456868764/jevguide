@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 215
-- [Developer tools](../categories/developer-tools.md) — 208
-- [How it works](../categories/how-it-works.md) — 207
-- [Gaming](../categories/gaming.md) — 171
-- [Agents](../categories/agents.md) — 116
-- [Launch news](../categories/launch-news.md) — 115
+- [Developer tools](../categories/developer-tools.md) — 216
+- [Access updates](../categories/access-updates.md) — 216
+- [How it works](../categories/how-it-works.md) — 214
+- [Gaming](../categories/gaming.md) — 174
+- [Agents](../categories/agents.md) — 120
+- [Launch news](../categories/launch-news.md) — 117
 - [Developer resources](../categories/developer-resources.md) — 110
-- [Community builds](../categories/community-builds.md) — 93
-- [Finance](../categories/finance.md) — 84
-- [Workflow automation](../categories/workflow-automation.md) — 67
+- [Community builds](../categories/community-builds.md) — 95
+- [Finance](../categories/finance.md) — 86
+- [Workflow automation](../categories/workflow-automation.md) — 70
 - [Marketing](../categories/marketing.md) — 60
-- [Knowledge & search](../categories/knowledge-search.md) — 52
-- [Data analytics](../categories/data-analytics.md) — 45
+- [Knowledge & search](../categories/knowledge-search.md) — 53
+- [Data analytics](../categories/data-analytics.md) — 46
 - [Content creation](../categories/content-creation.md) — 43
 - [Robotics](../categories/robotics.md) — 24
 - [Customer support](../categories/customer-support.md) — 18
+- [Scientific research](../categories/scientific-research.md) — 15
 - [Business operations](../categories/business-operations.md) — 14
-- [Scientific research](../categories/scientific-research.md) — 14
 - [Healthcare](../categories/healthcare.md) — 13
 - [Productivity](../categories/productivity.md) — 13
-- [E-commerce](../categories/e-commerce.md) — 13
+- [E-commerce](../categories/e-commerce.md) — 12
 - [Software development](../categories/software-development.md) — 11
 - [Education](../categories/education.md) — 9
-- [Cybersecurity](../categories/cybersecurity.md) — 8
+- [Cybersecurity](../categories/cybersecurity.md) — 9
 - [Legal & compliance](../categories/legal-compliance.md) — 7

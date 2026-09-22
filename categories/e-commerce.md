@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 13 | 13 | 0 | 231K |
+| 12 | 12 | 0 | 231K |
 
 ## Showcase 卡片
 
@@ -46,19 +46,6 @@
 <p><a href="https://x.com/Technop54777070/status/2102107087438258477">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://x.com/hajimimt/status/2101953350837391685"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>电商</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/hajimimt/status/2101953350837391685">Open-Source Jev-Based Shopping Tool for Weekend-Rest Companies</a></h3>
-<p>The author open-sourced a Jev-based shopping tool supporting Taobao and JD.com, using Jev to determine whether a product&#39;s company offers weekends off and filtering out those that don&#39;t.</p>
-<p><strong>中文摘要：</strong>作者开源了一个以 Jev 为核心的双休购物工具，支持淘宝和京东，通过 Jev 判断商品所属公司是否双休，不双休的商品直接过滤。</p>
-<p><strong>Ccgh Ggh</strong> · @hajimimt · 2026-09-21</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
-<p><a href="https://x.com/hajimimt/status/2101953350837391685">在 X 查看原帖</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://x.com/okyanusi23/status/2101991099401474268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101990891821137920/pu/img/fsB_StJAjiFA5xVt.jpg" alt="Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>电商</code> <code>原帖视频</code></sub>
@@ -69,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/okyanusi23/status/2101991099401474268">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shaihulud43/status/2102003362472583336"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002342136836096/img/PX8iEiDV2n_OFzqW.jpg" alt="Jev Applied to an Etsy Shop · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/shaihulud43/status/2102003362472583336">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +80,8 @@
 <p>💬 12 &nbsp; 🔁 10 &nbsp; ♡ 308 &nbsp; 📊 20K</p>
 <p><a href="https://x.com/dbillson/status/2101657637871837578">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101540945946968358"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Jev Enables Real-Time Virtual Fitting in 1 Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 101</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101540945946968358">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nailthy62/status/2101388186916454439"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Real-time virtual try-on with Jev: ~620ms and $0.0011 per decision · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +104,8 @@
 <p>💬 103 &nbsp; 🔁 204 &nbsp; ♡ 2.5K &nbsp; 📊 231K</p>
 <p><a href="https://x.com/nailthy62/status/2101388186916454439">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheMoonMidas/status/2101107072784011418"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Real-time shopping assistant combining Jev with gpt-live-1 · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 150</p>
 <p><a href="https://x.com/TheMoonMidas/status/2101107072784011418">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikunj/status/2101006585481073093"><img src="https://pbs.twimg.com/amplify_video_thumb/2101005796603809792/img/19SyyiWW5wotfFfW.jpg" alt="Jev scores 3,000 kid snacks in 28 seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +128,8 @@
 <p>💬 18 &nbsp; 🔁 36 &nbsp; ♡ 740 &nbsp; 📊 91K</p>
 <p><a href="https://x.com/nikunj/status/2101006585481073093">在 X 查看原帖</a> · <a href="https://t.co/KSiodPdZHT">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ego_agent/status/2100970015977804008"><img src="https://pbs.twimg.com/amplify_video_thumb/2100969567715790848/img/IXAgXZrtsLGyeYRA.jpg" alt="ego lite + Jev + DeepSeek Flash enables fast e-commerce decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +141,6 @@
 <p>💬 30 &nbsp; 🔁 62 &nbsp; ♡ 751 &nbsp; 📊 60K</p>
 <p><a href="https://x.com/ego_agent/status/2100970015977804008">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heybackchannel/status/2100880940881121565"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Combining GPT-Live-1 and Jev for a Real-Time Shopping Assistant · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +152,5 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 82</p>
 <p><a href="https://x.com/heybackchannel/status/2100880940881121565">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

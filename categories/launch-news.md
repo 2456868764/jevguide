@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 115 | 70 | 48 | 1.1M |
+| 117 | 71 | 49 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/ChrisShort/status/2102193834905964613">在 X 查看原帖</a> · <a href="https://t.co/J3lwoIB0e0">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/itsArmanj/status/2102251103488454893"><img src="https://pbs.twimg.com/media/HSys8w5XQAAsjOp?format=jpg&amp;name=large" alt="Jev Model Persian Benchmark and Price Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/itsArmanj/status/2102251103488454893">Jev Model Persian Benchmark and Price Comparison</a></h3>
+<p>User benchmarks the new Jev model in Persian, reporting good performance and much lower cost than gemma-4 31b, gpt-luna, deepseek flash 4.1, and claude haiku.</p>
+<p><strong>中文摘要：</strong>用户对新的 Jev 模型进行波斯语基准测试，称其表现良好且价格远低于 gemma-4 31b、gpt-luna、deepseek flash 4.1 和 claude haiku。</p>
+<p><strong>Arman</strong> · @itsArmanj · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><a href="https://x.com/itsArmanj/status/2102251103488454893">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Sneaky2x/status/2102186632346730739"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="System One Model Jev Launch Sparks Industry Chain Reaction · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>Nuno Sousa</strong> · @Sneaky2x · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Sneaky2x/status/2102186632346730739">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Aayush__Saini_/status/2102252720883421417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102252163238170624/img/XfLuqp4fou10qfXB.jpg" alt="Open-source Universal Decision Model Released as Open Version of Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Aayush__Saini_/status/2102252720883421417">Open-source Universal Decision Model Released as Open Version of Jev</a></h3>
+<p>The author released an open-source universal decision model as an open version of Jev, with a model collection and demo space, and plans native integration with vLLM-SR.</p>
+<p><strong>中文摘要：</strong>作者发布开源通用决策模型，作为 Jev 的开源版本，提供模型集合与演示空间，并计划与 vLLM-SR 原生集成。</p>
+<p><strong>Aayush</strong> · @Aayush__Saini_ · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/Aayush__Saini_/status/2102252720883421417">在 X 查看原帖</a> · <a href="https://t.co/KLa8QD8lNC">原文链接</a></p>
 </td>
 </tr>
 <tr>

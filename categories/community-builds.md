@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 93 | 40 | 55 | 3.0M |
+| 95 | 41 | 56 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/blanplan/status/2102199236263858578">在 X 查看原帖</a> · <a href="https://t.co/feoEEQGRYv">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/SatOnchain/status/2102248693240140285"><img src="https://pbs.twimg.com/media/HSywCLSa8AAHNIy?format=jpg&amp;name=medium" alt="Jev Handbook: 59-Page Workflow Guide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SatOnchain/status/2102248693240140285">Jev Handbook: 59-Page Workflow Guide</a></h3>
+<p>Someone created a 59-page Jev handbook on how to use Jev in almost all workflows, including a cheat sheet.</p>
+<p><strong>中文摘要：</strong>有人编写了一份 59 页的 Jev 手册，介绍如何在几乎所有工作流中使用 Jev，并附有速查表。</p>
+<p><strong>saturn</strong> · @SatOnchain · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 38</p>
+<p><a href="https://x.com/SatOnchain/status/2102248693240140285">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/no_ai_no_life/status/2102186179680739606"><img src="https://pbs.twimg.com/media/HSx0tIgaQAAgAQM?format=jpg&amp;name=medium" alt="Building a personal tool with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 35</p>
 <p><a href="https://x.com/no_ai_no_life/status/2102186179680739606">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polloai_creator/status/2102201218651287785"><img src="https://pbs.twimg.com/amplify_video_thumb/2101977832268382208/img/bJlf8wYWDqeue4uP.jpg" alt="PolloAI Creator Jokes About Creative Uses of TypeSafe JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/polloai_creator/status/2102201218651287785">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Richelle_Ji/status/2102201930525430123"><img src="https://pbs.twimg.com/amplify_video_thumb/2101062807123062784/img/EoRcAMkk7QTGCGha.jpg" alt="Open-Weights Jev Demo + Hack Night in SF · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Richelle🚢</strong> · @Richelle_Ji · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/Richelle_Ji/status/2102201930525430123">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/babyghostuk/status/2102247136507380103"><img src="https://pbs.twimg.com/amplify_video_thumb/2102246994454482944/img/MwuFjYUAa7fBLT4Q.jpg" alt="User Discusses Applying Jev and TinyFish Combination to Real Projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/babyghostuk/status/2102247136507380103">User Discusses Applying Jev and TinyFish Combination to Real Projects</a></h3>
+<p>The user notes Jev&#39;s recent popularity, is surprised TinyFish hasn&#39;t made a similar demo, says the result is good with only Jev costs, and is still considering how to use the combination in real projects.</p>
+<p><strong>中文摘要：</strong>用户表示 Jev 近期很受欢迎，对 TinyFish 未推出类似演示感到意外，并称结果不错、只需支付 Jev 成本，同时仍在思考如何将该组合用于实际项目。</p>
+<p><strong>Peter Leung</strong> · @babyghostuk · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/babyghostuk/status/2102247136507380103">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

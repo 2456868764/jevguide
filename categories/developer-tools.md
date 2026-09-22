@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 208 | 110 | 99 | 3.6M |
+| 216 | 117 | 100 | 3.6M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/stableshaman/status/2102246101084680653"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="Why 90% of Jev Demos Are Useless · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stableshaman/status/2102246101084680653">Why 90% of Jev Demos Are Useless</a></h3>
+<p>A discussion questioning the practical value of most Jev demos.</p>
+<p><strong>中文摘要：</strong>一则关于Jev演示实用性的讨论，质疑大多数演示缺乏实际价值。</p>
+<p><strong>shaman</strong> · @stableshaman · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 278</p>
+<p><a href="https://x.com/stableshaman/status/2102246101084680653">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/pedronauck/status/2102186297817169976"><img src="https://pbs.twimg.com/media/HSx3O3bXoAAJGun?format=png&amp;name=medium" alt="User Feedback on Jev Usage Experience · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 263</p>
 <p><a href="https://x.com/pedronauck/status/2102186297817169976">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SungKimUp/status/2102196460997816524"><img src="https://pbs.twimg.com/media/HSyAiEhbUAAAbkf?format=jpg&amp;name=medium" alt="Recommending SolarMini4Jev as an Alternative to the Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,78 @@
 <p>💬 0 &nbsp; 🔁 6 &nbsp; ♡ 9 &nbsp; 📊 143</p>
 <p><a href="https://x.com/SungKimUp/status/2102196460997816524">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/brunovolpato/status/2102248379426144677"><img src="https://pbs.twimg.com/amplify_video_thumb/2102245579703058432/img/EueTi_2jfJLyVTe4.jpg" alt="kevala: A Multimodal Framework for System 1 Models like Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/brunovolpato/status/2102248379426144677">kevala: A Multimodal Framework for System 1 Models like Jev</a></h3>
+<p>Bruno Volpato is building kevala, a multimodal framework for System 1 models like Jev, capable of running open weights such as Laya and Kev in real time in the browser via WebGPU or CPU.</p>
+<p><strong>中文摘要：</strong>Bruno Volpato 正在构建 kevala，一个面向 Jev 等 System 1 模型的多模态框架，可在浏览器中通过 WebGPU 或 CPU 实时运行 Laya、Kev 等开放权重模型。</p>
+<p><strong>Bruno Volpato</strong> · @brunovolpato · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 38</p>
+<p><a href="https://x.com/brunovolpato/status/2102248379426144677">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davepoon/status/2102244409278636071"><img src="https://pbs.twimg.com/amplify_video_thumb/2102240061085650944/img/Q2-T97ofAtZpPafJ.jpg" alt="Using Jev for Generative UI Component Selection in Email · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davepoon/status/2102244409278636071">Using Jev for Generative UI Component Selection in Email</a></h3>
+<p>Developer shares using Jev to have a model choose from pre-built UI components instead of generating new UI, with json-render validating choices, applied to generative UI for email.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Jev 让模型从已有 UI 组件中选择，而非生成新 UI，并用 json-render 验证选择，应用于邮件生成式 UI。</p>
+<p><strong>davepoon</strong> · @davepoon · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/davepoon/status/2102244409278636071">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chaosengineerr/status/2102244378290864616"><img src="https://pbs.twimg.com/amplify_video_thumb/2102244320916983808/img/9jFGJILrh7rr_IPW.jpg" alt="Chrome Extension Built on Jev to Hide Low-Effort Replies · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chaosengineerr/status/2102244378290864616">Chrome Extension Built on Jev to Hide Low-Effort Replies</a></h3>
+<p>A developer tired of low-effort replies built a Chrome extension using TypeSafe AI&#39;s Jev model to detect and hide them, and is considering open sourcing it.</p>
+<p><strong>中文摘要：</strong>开发者因厌倦低质量回复，利用 TypeSafe AI 的 Jev 模型构建 Chrome 扩展，自动识别并隐藏低努力回复，并考虑开源。</p>
+<p><strong>Wahab Khan</strong> · @chaosengineerr · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/chaosengineerr/status/2102244378290864616">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rubs_murga/status/2102244237592932538"><img src="https://pbs.twimg.com/media/HSyr_YnWoAA4eaI?format=jpg&amp;name=medium" alt="Developer teases new grammar feature using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rubs_murga/status/2102244237592932538">Developer teases new grammar feature using Jev</a></h3>
+<p>Developer Rubs tweets about working on a new grammar feature and reveals it uses Jev.</p>
+<p><strong>中文摘要：</strong>开发者 Rubs 在推文中表示正在开发一个语法相关的新功能，并透露该功能使用了 Jev。</p>
+<p><strong>Rubs</strong> · @rubs_murga · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/rubs_murga/status/2102244237592932538">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WBN_live/status/2102248928330793004"><img src="https://pbs.twimg.com/amplify_video_thumb/2102248319145963520/img/TAoyuKzIvNKsuPV7.jpg" alt="Jev: An AI Model That Returns Only Judgments and Probabilities, Plus Three Evaluation Points · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/WBN_live/status/2102248928330793004">Jev: An AI Model That Returns Only Judgments and Probabilities, Plus Three Evaluation Points</a></h3>
+<p>Introduces Jev, a new type of AI model that writes no text and returns only judgments and probabilities, summarizing three evaluation points: fast, cheap, and easy to connect to programs.</p>
+<p><strong>中文摘要：</strong>介绍Jev这一不写文章、只返回判断与概率的新型AI模型，并总结其快速、便宜、易接入程序三大评估要点。</p>
+<p><strong>WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&amp;インタビューショー🚨</strong> · @WBN_live · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/WBN_live/status/2102248928330793004">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davepoon/status/2102244425628078307"><img src="https://pbs.twimg.com/amplify_video_thumb/2102240722065973248/img/6lsjfUwawwnnV9QY.jpg" alt="Jev email build speed comparison: 46.3s vs 2.0s · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davepoon/status/2102244425628078307">Jev email build speed comparison: 46.3s vs 2.0s</a></h3>
+<p>Comparing email build speeds: Jev completes masthead, greeting, headline, intro, callout and footer in 4.2s, while the writing path has not placed a block. Medians of 3 runs: ours 46.3s, Jev at once 2.0s, Jev slot by slot 4.7s.</p>
+<p><strong>中文摘要：</strong>对比邮件构建速度：Jev 在 4.2 秒内完成页眉、问候语、标题、引言、标注和页脚，而传统路径尚未放置任何块。三次运行中位数：自研 46.3 秒，Jev 一次性 2.0 秒，Jev 逐槽 4.7 秒。</p>
+<p><strong>davepoon</strong> · @davepoon · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/davepoon/status/2102244425628078307">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/sandengocka/status/2102190301100364275"><img src="https://pbs.twimg.com/amplify_video_thumb/2102189995633283072/img/byRSpqTIFPyRptLE.jpg" alt="Tiny Icon UX Delighter with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -92,6 +175,19 @@
 <p><strong>Sanden Gocka</strong> · @sandengocka · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/sandengocka/status/2102190301100364275">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AshenOne38286/status/2102249350910939157"><img src="https://pbs.twimg.com/tweet_video_thumb/HSywonOXIAAWcnm.jpg" alt="Discussion on JEV and the TypeSafe AI Term · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AshenOne38286/status/2102249350910939157">Discussion on JEV and the TypeSafe AI Term</a></h3>
+<p>The user expresses appreciation for JEV performing only requested calculations without simulating human or natural language, but dislikes the term TypeSafe AI, seeing it as an analogy to TypeScript.</p>
+<p><strong>中文摘要：</strong>用户表示喜欢 JEV 只做计算而不模拟人类或自然语言，但对 TypeSafe AI 这一术语感到不适，认为它是对 TypeScript 的类比。</p>
+<p><strong>Daichi</strong> · @AshenOne38286 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/AshenOne38286/status/2102249350910939157">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/david1989_zhu/status/2102197879851077988"><img src="https://pbs.twimg.com/media/HSyBs8NaAAAltPd?format=jpg&amp;name=medium" alt="Jev judges rather than writes: coverage is not product value · 原帖图片" width="100%"></a>

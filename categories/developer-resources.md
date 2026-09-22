@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 107 | 48 | 59 | 419K |
+| 109 | 49 | 60 | 419K |
 
 ## Showcase 卡片
 
@@ -107,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/so_ainsight/status/2102173541135466976"><img src="https://pbs.twimg.com/media/HSxrsE6asAAYBA5?format=jpg&amp;name=medium" alt="8 Open-Source Projects Leveraging Ultra-High-Speed AI Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/so_ainsight/status/2102173541135466976">8 Open-Source Projects Leveraging Ultra-High-Speed AI Jev</a></h3>
+<p>Introduces 8 open-source projects leveraging ultra-high-speed AI Jev, including fast-jev-compaction and jev-browser, covering Claude Code summary optimization and browser integration.</p>
+<p><strong>中文摘要：</strong>介绍fast-jev-compaction、jev-browser等8个利用超高速AI Jev的开源项目，涵盖Claude Code摘要优化与浏览器集成等方向。</p>
+<p><strong>そう｜Claude CodeのX運用で月800万インプ</strong> · @so_ainsight · 2026-09-21</p>
+<p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 48 &nbsp; 📊 3.2K</p>
+<p><a href="https://x.com/so_ainsight/status/2102173541135466976">在 X 查看原帖</a> · <a href="https://t.co/FJ5CcJG81Z">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/dr_cintas/status/2102153763083432049"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153701351731200/img/IGq_K7ab2eKOi-rM.jpg" alt="Jev Model Router Comes to Claude Code · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -117,6 +128,8 @@
 <p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 28 &nbsp; 📊 3.0K</p>
 <p><a href="https://x.com/dr_cintas/status/2102153763083432049">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tubone24/status/2101895523674534374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101298908085542912/img/Ho45fT01CQhB3ljm.jpg" alt="Jev-based speed test app made public · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 1.9K</p>
 <p><a href="https://x.com/tubone24/status/2101895523674534374">在 X 查看原帖</a> · <a href="https://t.co/fu4QCt5amZ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101898318465187900"><img src="https://pbs.twimg.com/media/HStxX2kakAAisAD?format=jpg&amp;name=medium" alt="Open Source Community Replicates Jev&#39;s System One Fast Thinking Paradigm · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 4 &nbsp; 🔁 4 &nbsp; ♡ 13 &nbsp; 📊 722</p>
 <p><a href="https://x.com/NFT_Chen/status/2101898318465187900">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/botshelfvampire/status/2102009937971093647"><img src="https://pbs.twimg.com/media/HSvW5PtbEAAbRCQ?format=jpg&amp;name=medium" alt="Jev + Codex: What the TypeSafe Skill Actually Changes · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +164,17 @@
 <p><strong>BotShelf Vampire</strong> · @botshelfvampire · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 429</p>
 <p><a href="https://x.com/botshelfvampire/status/2102009937971093647">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/galfrevn/status/2102178561331449884"><img src="https://pbs.twimg.com/tweet_video_thumb/HSwofL8W0AAvQxd.jpg" alt="Jev Experiment: A Trick Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/galfrevn/status/2102178561331449884">Jev Experiment: A Trick Demo</a></h3>
+<p>The author shares a Jev-related trick demo with a link to the experiment.</p>
+<p><strong>中文摘要：</strong>作者分享了一个与 Jev 相关的技巧演示，并附上实验链接。</p>
+<p><strong>Valentín Galfré</strong> · @galfrevn · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 14 &nbsp; 📊 354</p>
+<p><a href="https://x.com/galfrevn/status/2102178561331449884">在 X 查看原帖</a> · <a href="https://t.co/FtBL2xaEUK">原文链接</a></p>
 </td>
 </tr>
 <tr>

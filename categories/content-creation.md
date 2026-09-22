@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 40 | 37 | 4 | 101K |
+| 42 | 39 | 4 | 101K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/RoundtableSpace/status/2101918094738223264">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/ai_security_CT/status/2102173029275230263"><img src="https://pbs.twimg.com/amplify_video_thumb/2102172943740751872/img/hEB8p3P337eA0TGV.jpg" alt="Full-text fact-checking of ChatGPT drafts with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_security_CT/status/2102173029275230263">Full-text fact-checking of ChatGPT drafts with Jev</a></h3>
+<p>The author generated a draft with ChatGPT and used Jev for a full-text check, finding that although the numbers were correct, explanations not present in the source material had been mixed in.</p>
+<p><strong>中文摘要：</strong>作者用 ChatGPT 生成原稿后，用 Jev 做全文检查，发现数字虽正确，却混入了资料中没有的说明。</p>
+<p><strong>茶木 孝晃｜AI × セキュリティ</strong> · @ai_security_CT · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 319</p>
+<p><a href="https://x.com/ai_security_CT/status/2102173029275230263">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/happycapyai/status/2101895709809352848"><img src="https://pbs.twimg.com/amplify_video_thumb/2101895670022238208/img/MUi-Zxlx3Z2zJ6qf.jpg" alt="Jev + Happycapy Power an AI Live-Stream Director · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>内容创作</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 268</p>
 <p><a href="https://x.com/happycapyai/status/2101895709809352848">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nicekate8888/status/2101908148110217220"><img src="https://pbs.twimg.com/amplify_video_thumb/2101904554111717376/img/nxp2IPENMaYZcql3.jpg" alt="Local Video Retrieval Tool Combining Jev and BaoCut · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 249</p>
 <p><a href="https://x.com/nicekate8888/status/2101908148110217220">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sidodtv/status/2101995122896654455"><img src="https://pbs.twimg.com/amplify_video_thumb/2101994941669163008/img/ZB4KafmG8LMq-fXU.jpg" alt="Auto-generating a Jev explainer video with DirecTune · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 109</p>
 <p><a href="https://x.com/sidodtv/status/2101995122896654455">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yurinakanishi33/status/2101946125385437622"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941849707761664/img/80vOcsRZ9JcYUlqC.jpg" alt="Jev Hackathon: Correction on Haiku Generation with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 88</p>
 <p><a href="https://x.com/yurinakanishi33/status/2101946125385437622">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wtry1102/status/2101995325145882707"><img src="https://pbs.twimg.com/amplify_video_thumb/2101993960004841472/img/8R5SAshOhQlu-vSj.jpg" alt="Making a Jev explainer short with Astra · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
 <p><a href="https://x.com/wtry1102/status/2101995325145882707">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JustinPerea/status/2101996047257972932"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995322113232896/img/kEWRwgX9al15rCKC.jpg" alt="Using Jev to pick from a JSON catalog and render scenes · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
 <p><a href="https://x.com/JustinPerea/status/2101996047257972932">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/huggingpuppy/status/2101898004529647951"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897948271427584/img/iVA5QQzUIfrwrRa1.jpg" alt="Jev Model: Turning Poets into Musicians, Talking to Your Piano · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Kasra</strong> · @huggingpuppy · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
 <p><a href="https://x.com/huggingpuppy/status/2101898004529647951">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chg80333/status/2102176073471725986"><img src="https://pbs.twimg.com/amplify_video_thumb/2102175988885102592/img/1-Sv8XtNAWEUs0gR.jpg" alt="Using Jev for 3D scene generation in under one second · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chg80333/status/2102176073471725986">Using Jev for 3D scene generation in under one second</a></h3>
+<p>User shares using Jev to generate 3D scenes, extremely fast, under one second.</p>
+<p><strong>中文摘要：</strong>用户分享使用 Jev 生成 3D 场景，速度极快，不到一秒。</p>
+<p><strong>cg33</strong> · @chg80333 · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/chg80333/status/2102176073471725986">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 111 | 68 | 46 | 1.1M |
+| 113 | 69 | 47 | 1.1M |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/JulianGoldieSEO/status/2101939214799749370">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/arthantyo/status/2102173451825885354"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171779892424704/img/CBFbQBVWQ-qKFfG8.jpg" alt="Logral: AI Social Habit Tracker Using Jev Launches · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arthantyo/status/2102173451825885354">Logral: AI Social Habit Tracker Using Jev Launches</a></h3>
+<p>Developer launches first SaaS, Logral, an AI social habit tracker that uses Jev to analyze habits and patterns, along with a first video ad.</p>
+<p><strong>中文摘要：</strong>开发者发布首个 SaaS 产品 Logral，一款利用 Jev 分析用户习惯和模式的 AI 社交习惯追踪器，并制作了首个视频广告。</p>
+<p><strong>javanesium</strong> · @arthantyo · 2026-09-21</p>
+<p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 431</p>
+<p><a href="https://x.com/arthantyo/status/2102173451825885354">在 X 查看原帖</a> · <a href="https://t.co/VxQpPnXPT8">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xvexran/status/2102046759040012796"><img src="https://pbs.twimg.com/amplify_video_thumb/2102046157820002304/img/Y650dR4NVNHVR7Yc.jpg" alt="Jev Founder: JEV Is the Next Step for LLMs · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -152,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 376</p>
 <p><a href="https://x.com/0xvexran/status/2102046759040012796">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ModularCrypto/status/2101994730913513910"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="TypeSafe AI Launches Jev: An AI That Decides Instead of Chats · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 320</p>
 <p><a href="https://x.com/ModularCrypto/status/2101994730913513910">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BuildFastWithAI/status/2101994641184944354"><img src="https://pbs.twimg.com/amplify_video_thumb/2101991977512525824/img/iuAaZRQhP4pD0338.jpg" alt="TypeSafe AI launches Jev: a model that picks options, not text · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 163</p>
 <p><a href="https://x.com/BuildFastWithAI/status/2101994641184944354">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/buildwithavis/status/2101887138010722669"><img src="https://pbs.twimg.com/amplify_video_thumb/2101886758304845824/img/ZMzTuaV6YHP6O5jU.jpg" alt="TypeSafe Introduces JEV: A System 1 AI Model for Fast Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 150</p>
 <p><a href="https://x.com/buildwithavis/status/2101887138010722669">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sl1ma4/status/2102008698767904981"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008616169443328/img/AMz6swTuWKkOWr90.jpg" alt="Open-source alternative to Jev emerges: Laya, a 421M decision model · 原帖视频截图" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Artem</strong> · @sl1ma4 · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 132</p>
 <p><a href="https://x.com/sl1ma4/status/2102008698767904981">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Emaasit/status/2102175255313686912"><img src="https://pbs.twimg.com/media/HSxoYgdWgAAKayq?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Its First Model, Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Emaasit/status/2102175255313686912">TypeSafe AI Releases Its First Model, Jev</a></h3>
+<p>Diogo Almeida, a primary creator of ChatGPT, has released the first AI model from his new company TypeSafe AI, called Jev.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 是 ChatGPT 的主要创造者之一，其新公司 TypeSafe AI 发布了首个 AI 模型 Jev。</p>
+<p><strong>Daniel Emaasit</strong> · @Emaasit · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 78</p>
+<p><a href="https://x.com/Emaasit/status/2102175255313686912">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

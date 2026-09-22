@@ -1,25 +1,25 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 204
-- [Developer tools](../categories/developer-tools.md) — 202
-- [How it works](../categories/how-it-works.md) — 191
-- [Gaming](../categories/gaming.md) — 166
-- [Launch news](../categories/launch-news.md) — 111
-- [Agents](../categories/agents.md) — 111
-- [Developer resources](../categories/developer-resources.md) — 107
-- [Community builds](../categories/community-builds.md) — 91
+- [Access updates](../categories/access-updates.md) — 205
+- [Developer tools](../categories/developer-tools.md) — 204
+- [How it works](../categories/how-it-works.md) — 197
+- [Gaming](../categories/gaming.md) — 171
+- [Launch news](../categories/launch-news.md) — 113
+- [Agents](../categories/agents.md) — 112
+- [Developer resources](../categories/developer-resources.md) — 109
+- [Community builds](../categories/community-builds.md) — 92
 - [Finance](../categories/finance.md) — 82
-- [Workflow automation](../categories/workflow-automation.md) — 63
-- [Marketing](../categories/marketing.md) — 59
+- [Workflow automation](../categories/workflow-automation.md) — 64
+- [Marketing](../categories/marketing.md) — 60
 - [Knowledge & search](../categories/knowledge-search.md) — 51
+- [Content creation](../categories/content-creation.md) — 42
 - [Data analytics](../categories/data-analytics.md) — 41
-- [Content creation](../categories/content-creation.md) — 40
 - [Robotics](../categories/robotics.md) — 24
 - [Customer support](../categories/customer-support.md) — 18
+- [Business operations](../categories/business-operations.md) — 14
+- [Scientific research](../categories/scientific-research.md) — 14
 - [Healthcare](../categories/healthcare.md) — 13
 - [Productivity](../categories/productivity.md) — 13
-- [Scientific research](../categories/scientific-research.md) — 13
-- [Business operations](../categories/business-operations.md) — 12
 - [Software development](../categories/software-development.md) — 11
 - [E-commerce](../categories/e-commerce.md) — 10
 - [Education](../categories/education.md) — 9

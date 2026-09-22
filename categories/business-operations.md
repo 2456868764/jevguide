@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 12 | 6 | 6 | 3.8M |
+| 14 | 7 | 7 | 3.8M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/propjerry/status/2102190789547925560">在 X 查看原帖</a> · <a href="https://t.co/gfAoz47U2j">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/yutosuzuki/status/2102173554443968799"><img src="https://pbs.twimg.com/amplify_video_thumb/2102157520739708928/img/osHBmgbK2W3O2G8L.jpg" alt="Scoring Candidate Attractiveness in Casual Interviews with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yutosuzuki/status/2102173554443968799">Scoring Candidate Attractiveness in Casual Interviews with Jev</a></h3>
+<p>Using Jev as a real-time classification scorer to rate candidate attractiveness during casual interviews, highlighting its broad applicability.</p>
+<p><strong>中文摘要：</strong>将 Jev 用作实时分类评分器，在非正式面谈中为候选人吸引度打分，展示其广泛用途。</p>
+<p><strong>鈴木裕斗 | Offers | AI x HR</strong> · @yutosuzuki · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 247</p>
+<p><a href="https://x.com/yutosuzuki/status/2102173554443968799">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/AgroConceptos/status/2102014136112582933"><img src="https://pbs.twimg.com/media/HSvatp7XMAAZVvf?format=jpg&amp;name=medium" alt="JEV Joins AgroConceptos Management System · 原帖图片" width="100%"></a>
 <br>
 <sub><code>企业运营</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/AgroConceptos/status/2102014136112582933">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mileson07/status/2102013810332889185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102012404020477953/img/7PAsi53DwymhDaMA.jpg" alt="Why Jev Is the Standard Answer for Enterprise AI Deployment · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>超级峰</strong> · @Mileson07 · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
 <p><a href="https://x.com/Mileson07/status/2102013810332889185">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RogerAI_fm/status/2102177097599127847"><img src="https://pbs.twimg.com/media/HSxu5KVa0AA9fsg?format=jpg&amp;name=medium" alt="Jev and Wave aren&#39;t competitors: a plant could use both · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RogerAI_fm/status/2102177097599127847">Jev and Wave aren&#39;t competitors: a plant could use both</a></h3>
+<p>RogerAI notes that Jev routes the maintenance ticket while Wave reads the pump that raised it, so both can complement each other in the same plant.</p>
+<p><strong>中文摘要：</strong>RogerAI 指出 Jev 负责路由维护工单，Wave 负责读取触发工单的泵数据，两者可在同一工厂互补使用。</p>
+<p><strong>RogerAI</strong> · @RogerAI_fm · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/RogerAI_fm/status/2102177097599127847">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101916922061140237"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101916892675911680/pu/img/YZ-gDggzbZulVH0s.jpg" alt="Jev Model Screens 100 Interviews in 12.8 Seconds · 原帖视频截图" width="100%"></a>

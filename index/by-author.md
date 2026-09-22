@@ -7,8 +7,8 @@
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
 - [CyrilXBT](../authors/cyrilxbt.md) — 7
+- [Florian S](../authors/florian-s.md) — 7
 - [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](../authors/ceo-重要ai-毎日最速-発信.md) — 7
-- [Florian S](../authors/florian-s.md) — 6
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 6
 - [akhila](../authors/akhila.md) — 5
 - [Artimind](../authors/artimind.md) — 5
@@ -114,6 +114,7 @@
 - [codila](../authors/codila.md) — 2
 - [Commisticholy](../authors/commisticholy.md) — 2
 - [Cuth](../authors/cuth.md) — 2
+- [Cyris](../authors/cyris.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
@@ -440,6 +441,7 @@
 - [CharlieMoney 🌊⛽](../authors/charliemoney.md) — 1
 - [Cheng](../authors/cheng.md) — 1
 - [Chetaslua](../authors/chetaslua.md) — 1
+- [Chirag](../authors/chirag.md) — 1
 - [chiral](../authors/chiral.md) — 1
 - [chokudai(高橋 直大)@AtCoder](../authors/chokudai-高橋-直大-atcoder.md) — 1
 - [Chris Dukes](../authors/chris-dukes.md) — 1
@@ -473,7 +475,6 @@
 - [Cure](../authors/cure.md) — 1
 - [CV.YH](../authors/cv-yh.md) — 1
 - [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 1
-- [Cyris](../authors/cyris.md) — 1
 - [DaBin.Binah](../authors/dabin-binah.md) — 1
 - [dabus.base.eth](../authors/dabus-base-eth.md) — 1
 - [Daichi](../authors/daichi.md) — 1
@@ -532,6 +533,7 @@
 - [Dr. Sanjay Kumar](../authors/dr-sanjay-kumar.md) — 1
 - [Dr.Arnut Ruttanatirakul](../authors/dr-arnut-ruttanatirakul.md) — 1
 - [Dr.はにまる｜院長のAI実験室](../authors/dr-院長-ai実験室.md) — 1
+- [DrAi](../authors/drai.md) — 1
 - [DryHoleCo](../authors/dryholeco.md) — 1
 - [Duncan](../authors/duncan.md) — 1
 - [Dunsin🎙️](../authors/dunsin.md) — 1
@@ -553,6 +555,7 @@
 - [Erhan Meydan](../authors/erhan-meydan.md) — 1
 - [Eri Dervishi](../authors/eri-dervishi.md) — 1
 - [Eric - add multiplayer to your game in 1 prompt](../authors/eric-add-multiplayer-to-your-game-in-1-prompt.md) — 1
+- [éric salinas 💜✝️](../authors/eric-salinas.md) — 1
 - [Eric Zhang](../authors/eric-zhang.md) — 1
 - [Erick](../authors/erick.md) — 1
 - [Erik Spock Gafni](../authors/erik-spock-gafni.md) — 1
@@ -1406,6 +1409,7 @@
 - [ノトフ（川本龍）／DreamCore](../authors/川本龍-dreamcore.md) — 1
 - [はたやま](../authors/jev-showcase.md) — 1
 - [はつもと 9/23 B-18](../authors/9-23-b-18.md) — 1
+- [ぴすけ｜仕事で即使えるAI効率化](../authors/仕事-即使-ai効率化.md) — 1
 - [ひととり](../authors/jev-showcase.md) — 1
 - [ぴらん](../authors/jev-showcase.md) — 1
 - [フーシャ@Unityエンジニア](../authors/unity.md) — 1

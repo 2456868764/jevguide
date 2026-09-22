@@ -2,12 +2,12 @@
 
 - [How it works](../categories/how-it-works.md) — 239
 - [Access updates](../categories/access-updates.md) — 234
-- [Developer tools](../categories/developer-tools.md) — 230
+- [Developer tools](../categories/developer-tools.md) — 233
 - [Gaming](../categories/gaming.md) — 186
 - [Agents](../categories/agents.md) — 127
-- [Launch news](../categories/launch-news.md) — 124
-- [Developer resources](../categories/developer-resources.md) — 117
-- [Community builds](../categories/community-builds.md) — 113
+- [Launch news](../categories/launch-news.md) — 125
+- [Developer resources](../categories/developer-resources.md) — 118
+- [Community builds](../categories/community-builds.md) — 114
 - [Finance](../categories/finance.md) — 92
 - [Workflow automation](../categories/workflow-automation.md) — 76
 - [Marketing](../categories/marketing.md) — 65

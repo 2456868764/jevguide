@@ -1,11 +1,12 @@
 # Florian S
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-09-22 | [JevBench v1.3.0 Released: Updated Jev Model Benchmark](https://x.com/airesearch12/status/2102194492606460011) | 开发资源 | Florian S | 465 |
 | 2026-09-21 | [JevBench v1.2.6 Released: Jev Model Rankings Updated](https://x.com/airesearch12/status/2101936404385161270) | 开发资源 | Florian S | 21K |
+| 2026-09-21 | [JevBench v1.3.0 Released: Jev Model Remains #1](https://x.com/airesearch12/status/2102180039521427735) | 开发资源 | Florian S | 1.8K |
 | 2026-09-21 | [JevBench v1.2.6 Leaderboard Update](https://x.com/airesearch12/status/2101914135151694185) | 知识与搜索 | Florian S | 16 |
 | 2026-09-19 | [JevBench Results: Jev Still in the Lead](https://x.com/airesearch12/status/2101311992984199580) | 知识与搜索 | Florian S | 153K |
 | 2026-09-19 | [JevBench: First Benchmark for Jev-Class Models Released](https://x.com/airesearch12/status/2101311769113178270) | 科研 | Florian S | 136K |

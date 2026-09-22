@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>1569</strong><br>curated posts</td>
-<td align="center"><strong>930</strong><br>original videos</td>
+<td align="center"><strong>1597</strong><br>curated posts</td>
+<td align="center"><strong>947</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>192</strong> showcases · <strong>81</strong> videos</p>
+<p><strong>198</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>188</strong> showcases · <strong>102</strong> videos</p>
+<p><strong>192</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>183</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>186</strong> showcases · <strong>94</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>163</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>164</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>104</strong> showcases · <strong>58</strong> videos</p>
+<p><strong>105</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>103</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>104</strong> showcases · <strong>62</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>102</strong> showcases · <strong>47</strong> videos</p>
+<p><strong>103</strong> showcases · <strong>48</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>85</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>88</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>75</strong> showcases · <strong>47</strong> videos</p>
+<p><strong>77</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>59</strong> showcases · <strong>44</strong> videos</p>
+<p><strong>61</strong> showcases · <strong>46</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>57</strong> showcases · <strong>50</strong> videos</p>
+<p><strong>58</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>39</strong> showcases · <strong>21</strong> videos</p>
+<p><strong>40</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>12</strong> showcases · <strong>10</strong> videos</p>
+<p><strong>13</strong> showcases · <strong>11</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
@@ -158,18 +158,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
-<p><sub>电商</sub></p>
-<p><strong>10</strong> showcases · <strong>10</strong> videos</p>
-<p><a href="categories/e-commerce.md">Open category →</a></p>
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>10</strong> showcases · <strong>6</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>9</strong> showcases · <strong>5</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
+<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
+<p><sub>电商</sub></p>
+<p><strong>10</strong> showcases · <strong>10</strong> videos</p>
+<p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/miu21590/status/2101857866378362926"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/miu21590/status/2101857866378362926">Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex</a></h3>
-<p>The author uses Jev to dynamically change GPT-6&#39;s reasoning effort during a Codex task: more thinking when stuck, less for routine steps, achieving 50% lower Astra costs in tests with faster runs and no broken prompt caching.</p>
-<p><strong>358K</strong> views · 💬 139 &nbsp; 🔁 125 &nbsp; ♡ 2.8K &nbsp; 📊 358K</p>
-<p><strong>vechen</strong> · @miu21590</p>
+<a href="https://x.com/AYi_AInotes/status/2102198099498135812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101673555813453825/img/nfWWuk_nW1mtGBW2.jpg" alt="Developer Builds Bookmark Search Tool Margin with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AYi_AInotes/status/2102198099498135812">Developer Builds Bookmark Search Tool Margin with Jev</a></h3>
+<p>Developer Alex uses Jev to build Margin, a bookmark search tool that addresses the slow retrieval of traditional large models.</p>
+<p><strong>396</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 396</p>
+<p><strong>AYi</strong> · @AYi_AInotes</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/npaka123/status/2101867946448736382"><img src="https://pbs.twimg.com/amplify_video_thumb/2101867409280049152/img/3kHkjCgJIRrY9dde.jpg" alt="Building a Wake-Word-Free AI Assistant Demo with Jev and GPT-6 Astra · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/npaka123/status/2101867946448736382">Building a Wake-Word-Free AI Assistant Demo with Jev and GPT-6 Astra</a></h3>
-<p>The demo showcases an AI assistant that understands conversation context without a wake word and responds only when necessary, built with Jev and GPT-6 Astra, with scenario creation and testing handled by AI.</p>
-<p><strong>110K</strong> views · 💬 2 &nbsp; 🔁 149 &nbsp; ♡ 622 &nbsp; 📊 110K</p>
-<p><strong>布留川英一 / Hidekazu Furukawa</strong> · @npaka123</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/GoSailGlobal/status/2102200456550498307"><img src="https://pbs.twimg.com/media/HSyEK4basAABlDz?format=jpg&amp;name=medium" alt="Jev: A Low-Latency Single-Token Output Point on the LLM Pareto Optimal Curve · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GoSailGlobal/status/2102200456550498307">Jev: A Low-Latency Single-Token Output Point on the LLM Pareto Optimal Curve</a></h3>
+<p>AJ describes Jev as a point on the LLM Pareto optimal curve, addressing latent demand for no thinking, single-token output, low latency, and sufficiently good intelligence; Diogo Almeida replies.</p>
+<p><strong>306</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 306</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/akshay_pachaar/status/2101937960925139417"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Open-Source Unified Interface Runs Multiple Agent Harnesses, Including Jev-Powered System One · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/akshay_pachaar/status/2101937960925139417">Open-Source Unified Interface Runs Multiple Agent Harnesses, Including Jev-Powered System One</a></h3>
-<p>Developers open-sourced a plug-and-play infrastructure layer that lets users run Codex, Hermes, Claude Code, DeepSeek Harness, and Jev-powered System One under a single interface.</p>
-<p><strong>110K</strong> views · 💬 67 &nbsp; 🔁 124 &nbsp; ♡ 872 &nbsp; 📊 110K</p>
-<p><strong>Akshay 🚀</strong> · @akshay_pachaar</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/openclawby/status/2102199469970477555"><img src="https://pbs.twimg.com/media/HSyCys4a0AA62Sc?format=jpg&amp;name=large" alt="Clawby Update: Jev Model Powers Asset Rating · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/openclawby/status/2102199469970477555">Clawby Update: Jev Model Powers Asset Rating</a></h3>
+<p>Clawby update: Jev (TypeSafe System One decision model) re-evaluates four fast-changing dimensions—technical, liquidity, sentiment, and risk—every 10 minutes based on the latest market prices and fund flows, with sub-second calibration and scoring.</p>
+<p><strong>125</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 125</p>
+<p><strong>Clawby</strong> · @openclawby</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/designgurra/status/2102083411191959841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="JEV Enables Near-Instant UI Features · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/designgurra/status/2102083411191959841">JEV Enables Near-Instant UI Features</a></h3>
-<p>Gustav Ekerot shares that JEV is magical for near-instant UI features, with the video not sped up.</p>
-<p><strong>100K</strong> views · 💬 13 &nbsp; 🔁 10 &nbsp; ♡ 591 &nbsp; 📊 100K</p>
-<p><strong>Gustav Ekerot</strong> · @designgurra</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/gigabit_million/status/2102200033307422821"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941990254632960/img/gx4NHU9mxvfHKA3y.jpg" alt="Using Jev for Intent-Based Search in a Chrome Extension · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gigabit_million/status/2102200033307422821">Using Jev for Intent-Based Search in a Chrome Extension</a></h3>
+<p>The author shares experience building a Chrome extension that uses Jev for intent-based search, noting Jev can outperform Google search in some cases and is a good use case for Jev.</p>
+<p><strong>76</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
+<p><strong>ギガビット@ゲームつくるひと</strong> · @gigabit_million</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/miu21590/status/2101857866378362926"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/miu21590/status/2101857866378362926">Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex</a></h3>
-<p>The author uses Jev to dynamically change GPT-6&#39;s reasoning effort during a Codex task: more thinking when stuck, less for routine steps, achieving 50% lower Astra costs in tests with faster runs and no broken prompt caching.</p>
-<p><strong>358K</strong> views · 💬 139 &nbsp; 🔁 125 &nbsp; ♡ 2.8K &nbsp; 📊 358K</p>
-<p><strong>vechen</strong> · @miu21590</p>
+<a href="https://x.com/AYi_AInotes/status/2102198099498135812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101673555813453825/img/nfWWuk_nW1mtGBW2.jpg" alt="Developer Builds Bookmark Search Tool Margin with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AYi_AInotes/status/2102198099498135812">Developer Builds Bookmark Search Tool Margin with Jev</a></h3>
+<p>Developer Alex uses Jev to build Margin, a bookmark search tool that addresses the slow retrieval of traditional large models.</p>
+<p><strong>396</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 396</p>
+<p><strong>AYi</strong> · @AYi_AInotes</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/designgurra/status/2102083411191959841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="JEV Enables Near-Instant UI Features · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/designgurra/status/2102083411191959841">JEV Enables Near-Instant UI Features</a></h3>
-<p>Gustav Ekerot shares that JEV is magical for near-instant UI features, with the video not sped up.</p>
-<p><strong>100K</strong> views · 💬 13 &nbsp; 🔁 10 &nbsp; ♡ 591 &nbsp; 📊 100K</p>
-<p><strong>Gustav Ekerot</strong> · @designgurra</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/gigabit_million/status/2102200033307422821"><img src="https://pbs.twimg.com/amplify_video_thumb/2101941990254632960/img/gx4NHU9mxvfHKA3y.jpg" alt="Using Jev for Intent-Based Search in a Chrome Extension · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gigabit_million/status/2102200033307422821">Using Jev for Intent-Based Search in a Chrome Extension</a></h3>
+<p>The author shares experience building a Chrome extension that uses Jev for intent-based search, noting Jev can outperform Google search in some cases and is a good use case for Jev.</p>
+<p><strong>76</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
+<p><strong>ギガビット@ゲームつくるひと</strong> · @gigabit_million</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/ethank_6/status/2102069493510090838"><img src="https://pbs.twimg.com/amplify_video_thumb/2102069481199816704/img/_i43ESHfZ_Ebu0lU.jpg" alt="Jev Predicts NFL Games for 44% Profit · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ethank_6/status/2102069493510090838">Jev Predicts NFL Games for 44% Profit</a></h3>
-<p>A user used Jev to predict Sunday NFL games, fed fresh context via p0 search, compared win estimates on Robinhood, and sized bets with the Kelly criterion, risking $67.14 for a $97 payout and 44% profit.</p>
-<p><strong>98K</strong> views · 💬 46 &nbsp; 🔁 17 &nbsp; ♡ 692 &nbsp; 📊 98K</p>
-<p><strong>Ethan Kam</strong> · @ethank_6</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/blanplan/status/2102199236263858578"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196234207600640/img/8leiNH5LJRYUvozk.jpg" alt="Testing Jev&#39;s browser control scenario on a cloud machine · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/blanplan/status/2102199236263858578">Testing Jev&#39;s browser control scenario on a cloud machine</a></h3>
+<p>The author ran Jev&#39;s popular browser control scenario on a cloud machine for AI employees, sharing a GitHub repo link and inviting readers to see the results.</p>
+<p><strong>49</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
+<p><strong>BlanPlan</strong> · @blanplan</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2101918094738223264"><img src="https://pbs.twimg.com/amplify_video_thumb/2101641468817338368/img/OTTt_P4JNL_duCAl.jpg" alt="Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2101918094738223264">Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02</a></h3>
-<p>Jev&#39;s video clipping capability: 90+ minute videos can be clipped in under 2 seconds for about $0.02, seen as a goldmine for content creators.</p>
-<p><strong>56K</strong> views · 💬 8 &nbsp; 🔁 13 &nbsp; ♡ 160 &nbsp; 📊 56K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/VersunPan/status/2102201927178371280">WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk</a></h3>
+<p>The author reviews a WeChat automation project using Jev + DeepSeek: it reads the app node tree via Android accessibility services, falls back to screenshots plus local OCR, keeps only the last 10 messages as context, and notes WeChat can detect it with a risk of account bans.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Versun</strong> · @VersunPan</p>
 </td>
 </tr>
 </table>

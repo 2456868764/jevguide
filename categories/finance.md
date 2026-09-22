@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 75 | 47 | 29 | 1.2M |
+| 77 | 47 | 31 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/openclawby/status/2102199469970477555"><img src="https://pbs.twimg.com/media/HSyCys4a0AA62Sc?format=jpg&amp;name=large" alt="Clawby Update: Jev Model Powers Asset Rating · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/openclawby/status/2102199469970477555">Clawby Update: Jev Model Powers Asset Rating</a></h3>
+<p>Clawby update: Jev (TypeSafe System One decision model) re-evaluates four fast-changing dimensions—technical, liquidity, sentiment, and risk—every 10 minutes based on the latest market prices and fund flows, with sub-second calibration and scoring.</p>
+<p><strong>中文摘要：</strong>Clawby 更新介绍：Jev（TypeSafe System One 决策模型）每10分钟根据最新市场价格和资金流重新评估技术、流动性、情绪和风险四个快速变化的维度，实现亚秒级校准与评分。</p>
+<p><strong>Clawby</strong> · @openclawby · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 125</p>
+<p><a href="https://x.com/openclawby/status/2102199469970477555">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hridoy43/status/2102203200690606100"><img src="https://pbs.twimg.com/media/HSyGibEbYAAMfIR?format=jpg&amp;name=medium" alt="Building a Stock Scoring and Decision Engine with TypeSafe JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hridoy43/status/2102203200690606100">Building a Stock Scoring and Decision Engine with TypeSafe JEV</a></h3>
+<p>A developer shares their first investment experience, using TypeSafe JEV for non-mathematical data analysis to build a stock market scoring and decision engine with portfolio-aware suggestions.</p>
+<p><strong>中文摘要：</strong>开发者分享首次投资经历，利用 TypeSafe JEV 进行非数学数据分析，构建了包含投资组合感知建议的股票市场评分与决策引擎。</p>
+<p><strong>Wahiduzzaman Hridoy</strong> · @hridoy43 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/hridoy43/status/2102203200690606100">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ethank_6/status/2102069493510090838"><img src="https://pbs.twimg.com/amplify_video_thumb/2102069481199816704/img/_i43ESHfZ_Ebu0lU.jpg" alt="Jev Predicts NFL Games for 44% Profit · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 9 | 5 | 4 | 3.8M |
+| 10 | 6 | 4 | 3.8M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sr_hackker/status/2102197494704992312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197424840421376/img/6pYe8xe9JwYgtmGz.jpg" alt="Using Jev to Determine Social Insurance Procedures from Ambiguous Onboarding Notices · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sr_hackker/status/2102197494704992312">Using Jev to Determine Social Insurance Procedures from Ambiguous Onboarding Notices</a></h3>
+<p>This demo shows how Jev parses ambiguous onboarding notices and determines the required social insurance procedures.</p>
+<p><strong>中文摘要：</strong>该演示展示如何用 Jev 解析模糊的入职通知，并判定需要办理的社会保险手续。</p>
+<p><strong>zsh⚡️IT x 社労士</strong> · @sr_hackker · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/sr_hackker/status/2102197494704992312">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/AgroConceptos/status/2102014136112582933"><img src="https://pbs.twimg.com/media/HSvatp7XMAAZVvf?format=jpg&amp;name=medium" alt="JEV Joins AgroConceptos Management System · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/AgroConceptos/status/2102014136112582933">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mileson07/status/2102013810332889185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102012404020477953/img/7PAsi53DwymhDaMA.jpg" alt="Why Jev Is the Standard Answer for Enterprise AI Deployment · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
 <p><a href="https://x.com/Mileson07/status/2102013810332889185">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101916922061140237"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101916892675911680/pu/img/YZ-gDggzbZulVH0s.jpg" alt="Jev Model Screens 100 Interviews in 12.8 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/1CMartinez/status/2101916922061140237">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masahirochaen/status/2101587412816380413"><img src="https://pbs.twimg.com/amplify_video_thumb/2101587381585682432/img/yzNol-uekjaYEFg9.jpg" alt="Real-time analysis of next moves in business discussions with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 4 &nbsp; 🔁 27 &nbsp; ♡ 241 &nbsp; 📊 26K</p>
 <p><a href="https://x.com/masahirochaen/status/2101587412816380413">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masa_okamura108/status/2101206603240477030"><img src="https://pbs.twimg.com/amplify_video_thumb/2101206578284380160/img/WUIj3LeQ4Nrch8yD.jpg" alt="JEV evaluates 100 interview minutes in 12.8 seconds for $0.005 · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 42 &nbsp; 🔁 366 &nbsp; ♡ 2.0K &nbsp; 📊 3.8M</p>
 <p><a href="https://x.com/masa_okamura108/status/2101206603240477030">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechNerdings/status/2101394442057875871"><img src="https://pbs.twimg.com/media/HSmmw9tXwAAKRlT?format=png&amp;name=900x900" alt="Jev for Resume Screening and Hiring Fraud Detection · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/TechNerdings/status/2101394442057875871">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/levie/status/2101007708044574906"><img src="https://pbs.twimg.com/amplify_video_thumb/2100999115949953024/img/6D1_NvmSfMLGDstw.jpg" alt="Box and Jev Demo: Fast Agent Decisions in the Enterprise · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 65 &nbsp; 🔁 87 &nbsp; ♡ 663 &nbsp; 📊 108K</p>
 <p><a href="https://x.com/levie/status/2101007708044574906">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yildiz/status/2101015963454095440"><img src="https://pbs.twimg.com/media/HShO312a4AEyjOt?format=jpg&amp;name=medium" alt="Jev tested for observability decision models · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/yildiz/status/2101015963454095440">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikhilmudholkar/status/2100604560335139083"><img src="https://pbs.twimg.com/media/HSbYODoWoAAKjJR?format=jpg&amp;name=medium" alt="Jev loses to Gemini on email classification benchmark, still considered for production · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,5 @@
 <p>💬 38 &nbsp; 🔁 33 &nbsp; ♡ 438 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/nikhilmudholkar/status/2100604560335139083">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

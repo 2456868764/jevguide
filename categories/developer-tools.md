@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 188 | 102 | 87 | 3.6M |
+| 192 | 105 | 88 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AYi_AInotes/status/2102198099498135812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101673555813453825/img/nfWWuk_nW1mtGBW2.jpg" alt="Developer Builds Bookmark Search Tool Margin with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AYi_AInotes/status/2102198099498135812">Developer Builds Bookmark Search Tool Margin with Jev</a></h3>
+<p>Developer Alex uses Jev to build Margin, a bookmark search tool that addresses the slow retrieval of traditional large models.</p>
+<p><strong>中文摘要：</strong>开发者 Alex 使用 Jev 构建书签检索工具 Margin，解决传统大模型检索书签速度慢的痛点。</p>
+<p><strong>AYi</strong> · @AYi_AInotes · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 396</p>
+<p><a href="https://x.com/AYi_AInotes/status/2102198099498135812">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/david1989_zhu/status/2102197879851077988"><img src="https://pbs.twimg.com/media/HSyBs8NaAAAltPd?format=jpg&amp;name=medium" alt="Jev judges rather than writes: coverage is not product value · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/david1989_zhu/status/2102197879851077988">Jev judges rather than writes: coverage is not product value</a></h3>
+<p>The post warns against equating Jev&#39;s coverage of Vercel paid teams with product value, noting Jev judges rather than writes and targets high-frequency, repetitive decision points in development workflows.</p>
+<p><strong>中文摘要：</strong>帖子提醒不要将 Jev 在 Vercel 付费团队中的覆盖率直接等同于产品价值，指出 Jev 不写文本、只做判断，切入的是开发流程中高频重复的决策节点。</p>
+<p><strong>大伟｜AI × Web3</strong> · @david1989_zhu · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/david1989_zhu/status/2102197879851077988">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MajoSayo/status/2102197584643444994"><img src="https://pbs.twimg.com/tweet_video_thumb/HSyBTSeagAA-GaY.jpg" alt="LogJev: Jev-style decisions with your own models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MajoSayo/status/2102197584643444994">LogJev: Jev-style decisions with your own models</a></h3>
+<p>LogJev is a Node + Python project that takes text, images or audio and produces choices/scores from logprobs, running in cloud or locally, with a 2048 demo.</p>
+<p><strong>中文摘要：</strong>LogJev 是一个 Node + Python 项目，支持文本、图像或音频输入，通过 logprobs 生成选择或评分，可在云端或本地运行，并附带 2048 演示。</p>
+<p><strong>さよ☆マギカ</strong> · @MajoSayo · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/MajoSayo/status/2102197584643444994">在 X 查看原帖</a> · <a href="https://t.co/O6Zr6a8rQf">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/waynenilsen/status/2102198580522242372"><img src="https://pbs.twimg.com/amplify_video_thumb/2101035354190995456/img/iUCGleJ76G92-Rax.jpg" alt="Jev for unslopping and slop linting · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/waynenilsen/status/2102198580522242372">Jev for unslopping and slop linting</a></h3>
+<p>Wayne Nilsen suggests using Jev to unslop and as a slop linter.</p>
+<p><strong>中文摘要：</strong>Wayne Nilsen 提出用 Jev 去 slop，并将 Jev 用作 slop 检查工具。</p>
+<p><strong>Wayne Nilsen</strong> · @waynenilsen · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/waynenilsen/status/2102198580522242372">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/miu21590/status/2101857866378362926"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex · 原帖视频截图" width="100%"></a>

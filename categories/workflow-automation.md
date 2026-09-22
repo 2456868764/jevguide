@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 59 | 44 | 15 | 595K |
+| 61 | 46 | 15 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VersunPan/status/2102201927178371280">WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk</a></h3>
+<p>The author reviews a WeChat automation project using Jev + DeepSeek: it reads the app node tree via Android accessibility services, falls back to screenshots plus local OCR, keeps only the last 10 messages as context, and notes WeChat can detect it with a risk of account bans.</p>
+<p><strong>中文摘要：</strong>作者查看了基于 Jev + DeepSeek 的微信自动化项目：通过 Android 无障碍服务读取 App 节点树，截图加本地 OCR 兜底，上下文仅保留最近 10 条消息，并指出微信可监测到该行为、存在封号风险。</p>
+<p><strong>Versun</strong> · @VersunPan · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/VersunPan/status/2102201927178371280">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gemama0/status/2102198046201086356"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197556138684416/img/VOAFvXpPpUMtUKYH.jpg" alt="Building an Automatic Note Tagging System with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gemama0/status/2102198046201086356">Building an Automatic Note Tagging System with Jev</a></h3>
+<p>A developer built an automatic note tagging system with Jev, recommended for Obsidian users.</p>
+<p><strong>中文摘要：</strong>开发者使用 Jev 构建了笔记自动标签系统，推荐 Obsidian 用户尝试。</p>
+<p><strong>げま｜個人開発</strong> · @gemama0 · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/gemama0/status/2102198046201086356">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonzhou1993/status/2101988970565603489"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987836719398912/img/mu7p8-nvTFQZ5hyg.jpg" alt="Jev + Treg Combo: Three Automation Workflows Save $8k/Month · 原帖视频截图" width="100%"></a>

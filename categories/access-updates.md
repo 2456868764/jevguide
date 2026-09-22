@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 192 | 81 | 111 | 802K |
+| 198 | 81 | 117 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/robherley/status/2102199555706024144"><img src="https://pbs.twimg.com/media/HSyAhVUWIAA7qQq?format=jpg&amp;name=large" alt="AskJev.net&#39;s first 24 hours: 50K visitors, 125K Jev API requests, 39M tokens, $0 cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/robherley/status/2102199555706024144">AskJev.net&#39;s first 24 hours: 50K visitors, 125K Jev API requests, 39M tokens, $0 cost</a></h3>
+<p>Rob Herley shares AskJev.net&#39;s first-day stats: over 50K visitors, 125K Jev API requests, 39M tokens, and $0 cost.</p>
+<p><strong>中文摘要：</strong>Rob Herley 分享 AskJev.net 上线首日数据：超5万访客、12.5万次Jev API请求、3900万token，且成本为0美元。</p>
+<p><strong>Rob Herley</strong> · @robherley · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/robherley/status/2102199555706024144">在 X 查看原帖</a> · <a href="https://t.co/9tGq42lv3d">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/InfiniteJulian0/status/2102199480628269114"><img src="https://pbs.twimg.com/media/HSyCc9fakAAwT0n?format=png&amp;name=medium" alt="New tech like Jev captivates imaginations · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/InfiniteJulian0/status/2102199480628269114">New tech like Jev captivates imaginations</a></h3>
+<p>The author enjoys seeing new tech like Jev and new apps like Muse and Instinct captivate people&#39;s imaginations, noting each new technology unlocks possibilities that weren&#39;t there before.</p>
+<p><strong>中文摘要：</strong>作者表示喜欢看到 Jev 这样的新技术以及 Muse、Instinct 等新应用激发人们的想象力，并认为每项新技术都会开启此前不可能的新可能。</p>
+<p><strong>Julian Alvarez</strong> · @InfiniteJulian0 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
+<p><a href="https://x.com/InfiniteJulian0/status/2102199480628269114">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/broadrangeAI/status/2102201178046009692"><img src="https://pbs.twimg.com/media/HSyE1F5WsAAAAn_?format=jpg&amp;name=medium" alt="Reviewing Jev: Fast, Structured Decisions for AI Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/broadrangeAI/status/2102201178046009692">Reviewing Jev: Fast, Structured Decisions for AI Workflows</a></h3>
+<p>The author reviews Jev, describing it as fast, structured decisions for AI workflows, citing vendor figures of 70–500 ms, $0.042/M input tokens and $0 output. The takeaway: pair low-cost decisions with clear controls and measurable outcomes.</p>
+<p><strong>中文摘要：</strong>作者评测 Jev，称其可为 AI 工作流提供快速结构化决策，并引用厂商数据：70–500 毫秒延迟、输入 0.042 美元/百万 token、输出免费。其结论是应将低成本决策与清晰控制和可衡量结果结合。</p>
+<p><strong>Ramarao Kadiyala</strong> · @broadrangeAI · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><a href="https://x.com/broadrangeAI/status/2102201178046009692">在 X 查看原帖</a> · <a href="https://t.co/v4hFhpahmd">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hatsu_tsukune/status/2102201673959829595"><img src="https://pbs.twimg.com/media/HSyFR8vacAA2NX_?format=jpg&amp;name=medium" alt="Using the Latest Jev to Find My Checkpoints · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hatsu_tsukune/status/2102201673959829595">Using the Latest Jev to Find My Checkpoints</a></h3>
+<p>User shares experience of using the latest Jev model to find personal checkpoints at a generative AI exhibition.</p>
+<p><strong>中文摘要：</strong>用户分享使用最新Jev模型在生成AI展览会上寻找个人检查点的体验。</p>
+<p><strong>はつもと 9/23 B-18</strong> · @hatsu_tsukune · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/hatsu_tsukune/status/2102201673959829595">在 X 查看原帖</a> · <a href="https://t.co/tlCZNCRQ1S">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cruzex100/status/2102202098968666432"><img src="https://pbs.twimg.com/media/HSyFqylbgAAxJYA?format=jpg&amp;name=medium" alt="Jev vs Laya smoke test: accuracy, calibration, latency, and cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cruzex100/status/2102202098968666432">Jev vs Laya smoke test: accuracy, calibration, latency, and cost</a></h3>
+<p>A user shares smoke-test results comparing Jev and Laya: Jev accuracy 0.727, soft accuracy 0.580, ECE 0.144, latency ~710ms, cost per decision ~$0.0004; Laya soft accuracy 0.471, ECE 0.213, latency ~30-40ms, self-hosted cost ~$0.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 与 Laya 的烟雾测试结果：Jev 准确率 0.727、软准确率 0.580、ECE 0.144、延迟约 710ms、每次决策成本约 $0.0004；Laya 软准确率 0.471、ECE 0.213、延迟约 30-40ms、自托管成本约 $0。</p>
+<p><strong>amVT</strong> · @cruzex100 · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/cruzex100/status/2102202098968666432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Tanishq_Jangir/status/2102199275698745698"><img src="https://pbs.twimg.com/media/HSyB44pakAEZCLX?format=jpg&amp;name=medium" alt="Developer plans to use JEV in Inboxian and other projects · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tanishq_Jangir/status/2102199275698745698">Developer plans to use JEV in Inboxian and other projects</a></h3>
+<p>Developer Tanishq says JEV is fast and interesting, and plans to use it in Inboxian and other projects.</p>
+<p><strong>中文摘要：</strong>开发者 Tanishq 表示 JEV 速度很快且有趣，计划将其用于 Inboxian 及其他项目。</p>
+<p><strong>Tanishq</strong> · @Tanishq_Jangir · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Tanishq_Jangir/status/2102199275698745698">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/santisiri/status/2102027045798625400"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="AI community buzzes over Jev as a China-made open source copy appears · 原帖视频截图" width="100%"></a>

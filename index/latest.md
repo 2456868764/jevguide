@@ -43,6 +43,7 @@
 | 2026-09-22 | [Jev benchmarked against Claude Opus, Haiku 4.5, and GPT-5.4 Mini](https://x.com/ShenSeanChen/status/2102234040535494876) | 产品发布 | Shen Sean Chen | 874 |
 | 2026-09-22 | [Creator Decision Engine Built on TypeSafe's Jev Model](https://x.com/defileo/status/2102190191419281826) | 开发者工具 | Defileo🔮 | 860 |
 | 2026-09-22 | [User questions Jev model calibration](https://x.com/shreyshahi/status/2102211285605830744) | 工作原理 | shreyshahi | 751 |
+| 2026-09-22 | [Autonomously Completing Claude Official Certification with JEV and Small Models](https://x.com/SUOHA_AI/status/2102393142456500329) | 社区实践 | 梭哈.AI | 748 |
 | 2026-09-22 | [Trying Jev in Notion: Drawing the Line Between Automation and Human Judgment with Probabilities](https://x.com/tk_researcher/status/2102233127599108349) | 自动化工作流 | TK｜Notion公式アンバサダー | 746 |
 | 2026-09-22 | [Using Jev to pick sub-agent models and save orchestration tokens](https://x.com/roylee0x/status/2102219367245394020) | 智能体 | 李 \| Roy \| roylee | 742 |
 | 2026-09-22 | [Ordering a book on Amazon with Jev and an agent](https://x.com/varun_mathur/status/2102232629902819580) | 自动化工作流 | Varun | 733 |
@@ -50,8 +51,11 @@
 | 2026-09-22 | [Quick one-off classification with TypeSafe Jev via jev-cli](https://x.com/QingQ77/status/2102211528263131322) | 开发者工具 | Geek Lite | 671 |
 | 2026-09-22 | [Asking Jev if Firecracker is a Good Security Boundary](https://x.com/AniC_dev/status/2102204042021863821) | 网络安全 | Anicet | 651 |
 | 2026-09-22 | [Jev helps triage inbox urgency](https://x.com/F8Q75WZwaibw/status/2102206944744493382) | 生产力 | 太郎｜ 残業ゼロへのAIマネジメント | 616 |
+| 2026-09-22 | [Jev Sparks Community Builds After a Year of Silence](https://x.com/eyishazyer/status/2102398013553431007) | 社区实践 | Eyisha Zyer | 613 |
 | 2026-09-22 | [Using Jev to Filter 200 Launch Targets from 10,000 LinkedIn Connections](https://x.com/apoorav_vyas/status/2102233258159407502) | 营销 | Apoorav Vyas | 592 |
 | 2026-09-22 | [Using Jev as a CS Virtual Coach via Screenshare](https://x.com/1bird_d/status/2102193908859981971) | 游戏 | bird | 582 |
+| 2026-09-22 | [$JEV Token Launching in 1 Hour: Built by Humans, Run by Agents](https://x.com/I_am_Jev_Dev/status/2102397506349138381) | 接入动态 | I am Jev Dev | 572 |
+| 2026-09-22 | [Three Free Ways to Use Jev AI](https://x.com/JulianGoldieSEO/status/2102398353095241833) | 接入动态 | Julian Goldie SEO | 517 |
 | 2026-09-22 | [Playing a Kitten Survival Game with Official Jev and Local Laya Models](https://x.com/FiniYang/status/2102246440961724515) | 游戏 | Fini.Yang | 511 |
 | 2026-09-22 | [Discussion of Jev on GSM8K and MATH](https://x.com/deliprao/status/2102238304062341148) | 知识与搜索 | Delip Rao e/σ | 507 |
 | 2026-09-22 | [Jev is free on Vercel Gateway for a limited time](https://x.com/tonysimons_/status/2102240557351264760) | 接入动态 | Tony Simons | 504 |
@@ -75,6 +79,7 @@
 | 2026-09-22 | [Developer Builds Bookmark Search Tool Margin with Jev](https://x.com/AYi_AInotes/status/2102198099498135812) | 开发者工具 | AYi | 396 |
 | 2026-09-22 | [Video Explains How Jev's Token-by-Token Generation Changes Cost and Speed](https://x.com/nlycskn/status/2102210794993885593) | 工作原理 | Nilay Coskun | 394 |
 | 2026-09-22 | [Jev Now Available to Everyone](https://x.com/null_decimal/status/2102230795419373770) | 产品发布 | decimaru｜AI音楽×エコティクノート | 387 |
+| 2026-09-22 | [Jev and Chinese Open-Source Models Unlikely to Cut Enterprise AI Spend](https://x.com/arakharazian/status/2102394707426803994) | 接入动态 | Ara Kharazian | 386 |
 | 2026-09-22 | [Jevussy: A Real-Time Piano Player Built with Jev](https://x.com/ArshanKhanifar/status/2102232365929996359) | 内容创作 | Arshan (❖,❖) | 382 |
 | 2026-09-22 | [Building a CNP Card Recognition and Verification App with Jev](https://x.com/road_ninjart/status/2102229395582902315) | 游戏 | road \| CNP/デジタル城下町 | 382 |
 | 2026-09-22 | [Asking Jev Which AI Is Most Evil](https://x.com/amplifiedamp/status/2102195943471009971) | 智能体 | &. | 361 |
@@ -88,6 +93,7 @@
 | 2026-09-22 | [Why 90% of Jev Demos Are Useless](https://x.com/stableshaman/status/2102246101084680653) | 开发者工具 | shaman | 278 |
 | 2026-09-22 | [Building a Polymarket BTC 5-Minute Up/Down Trading App with Jev](https://x.com/SatoshiWolf/status/2102217046503333960) | 金融 | Satoshi Wolf | 276 |
 | 2026-09-22 | [User Feedback on Jev Usage Experience](https://x.com/pedronauck/status/2102186297817169976) | 开发者工具 | Pedro Nauck ⌁ compozy.com | 263 |
+| 2026-09-22 | [Building a Jev Plugin: Using omp-cua-jev to Find Best-Value Anniversary Tickets](https://x.com/ericjuta/status/2102394471467868253) | 开发资源 | Ξric Juta | 244 |
 | 2026-09-22 | [Jev Usage Exceeds Charged Amount](https://x.com/nft_syou/status/2102206998393868556) | 社区实践 | syou.eth@AI壁紙KABERU配信中📱 | 242 |
 | 2026-09-22 | [Using Jev to Deduplicate SEO and AEO Ideas](https://x.com/ericosiu/status/2102186118494007316) | 营销 | ericosiu | 240 |
 | 2026-09-22 | [Using Jev to Speed Up Post Moderation for Community SaaS](https://x.com/soloninjakun/status/2102223859575599437) | 社区实践 | ソロ忍者くん＠伴走支援サービス「ニンジャ☆週報」をお届け | 239 |
@@ -96,9 +102,3 @@
 | 2026-09-22 | [Jev Automatically Passes Alibaba Cloud AI Engineer Mock Exam in 21 Seconds](https://x.com/0xlangeai/status/2102205717210128649) | 教育 | 蓝哥AI | 220 |
 | 2026-09-22 | [Jev Powers Fighting Game Automation Without Integration](https://x.com/I_amShiti/status/2102246319058252176) | 游戏 | Kuria \| AI | 215 |
 | 2026-09-22 | [Test Jev Against Claude, OpenAI, Grok, and Gemini](https://x.com/waku_agent/status/2102239150607073649) | 开发者工具 | Waku Agent | 209 |
-| 2026-09-22 | [Jev Is Not a Writing AI, but an AI for Selecting, Scoring, and Sorting](https://x.com/taku_ai_case/status/2102230680214392923) | 工作原理 | たく｜ガチのCopilot達人 | 209 |
-| 2026-09-22 | [Idea of using Jev for driving decisions](https://x.com/keisan/status/2102209317600637369) | 机器人 | Kei Nakayama (kexi) 🐷 | 193 |
-| 2026-09-22 | [Jev Arrives in Codex](https://x.com/HarmNao/status/2102189432216735834) | 接入动态 | Nao | 192 |
-| 2026-09-22 | [Jev makes web search more context-efficient; author open-sources webctl](https://x.com/dorkitude/status/2102194028704092585) | 开发资源 | Kyle Wild | 191 |
-| 2026-09-22 | [JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap](https://x.com/clarkalphas/status/2102191050324574375) | 金融 | Clark | 190 |
-| 2026-09-22 | [Jev Founder Diogo Almeida Releases 36-Minute Masterclass](https://x.com/0xF1ction/status/2102192519215812893) | 产品发布 | Fiction | 181 |

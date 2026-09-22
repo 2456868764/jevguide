@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 30 | 25 | 5 | 205K |
+| 31 | 25 | 6 | 205K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/MKhordoo/status/2102196607232139411">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/lele_chu/status/2102395868360200504"><img src="https://pbs.twimg.com/media/HS015baacAAoTsJ?format=jpg&amp;name=large" alt="Jev-Controlled Trash Robot Goes Viral · 原帖图片" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lele_chu/status/2102395868360200504">Jev-Controlled Trash Robot Goes Viral</a></h3>
+<p>A post showcasing a trash robot controlled by Jev, described as a Jev version of a robot duck, with a verification link.</p>
+<p><strong>中文摘要：</strong>帖子展示了一个由 Jev 控制的垃圾机器人，被称为 Jev 版本的机器鸭，并附有验证链接。</p>
+<p><strong>Crypto Veteran</strong> · @lele_chu · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/lele_chu/status/2102395868360200504">在 X 查看原帖</a> · <a href="https://t.co/uKyNAyL9pb">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/npceo_/status/2102154533971677481"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153758243495937/img/rYDhh2iFvXpWB9ZA.jpg" alt="Jev Attempts Autonomous Driving with World Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>机器人</code> <code>原帖视频</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 15 &nbsp; 🔁 13 &nbsp; ♡ 105 &nbsp; 📊 18K</p>
 <p><a href="https://x.com/npceo_/status/2102154533971677481">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rodenlab/status/2102154848053432443"><img src="https://pbs.twimg.com/amplify_video_thumb/2102154117082734592/img/McNrTg7kpZShzeiX.jpg" alt="Jev Powers Bio-Inspired Robot: Neural Activity to Rapid Decisions and Movement · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 10 &nbsp; 🔁 6 &nbsp; ♡ 16 &nbsp; 📊 1.9K</p>
 <p><a href="https://x.com/rodenlab/status/2102154848053432443">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rodenlab/status/2102182465439740227"><img src="https://pbs.twimg.com/amplify_video_thumb/2102154117082734592/img/McNrTg7kpZShzeiX.jpg" alt="Jev as the Decision Layer for a Bio-Robot Hybrid · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 242</p>
 <p><a href="https://x.com/rodenlab/status/2102182465439740227">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xzhang_billy/status/2101973715785580993"><img src="https://pbs.twimg.com/amplify_video_thumb/2101310940260270080/img/mCYBqjSwjUf4UV6d.jpg" alt="Can Jev Control Embodied Robots? VLA and Diffusion Policy Discussion · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 86</p>
 <p><a href="https://x.com/xzhang_billy/status/2101973715785580993">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/laura_llin/status/2101899469805736407"><img src="https://pbs.twimg.com/amplify_video_thumb/2101899449480208384/img/1FI6F1hmgr_XrwjV.jpg" alt="Building a Robotics Company Research and Capital Map with TypeSafe AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 75</p>
 <p><a href="https://x.com/laura_llin/status/2101899469805736407">在 X 查看原帖</a> · <a href="https://t.co/akm8V19xNR">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/laura_llin/status/2101939425668436384"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937376981655552/img/CX0USdY_R9ThkXyz.jpg" alt="Building a Real-Time Visual Evaluation Layer for Robotics Demos with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 73</p>
 <p><a href="https://x.com/laura_llin/status/2101939425668436384">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MingfeiGuo/status/2101938771386421319"><img src="https://pbs.twimg.com/amplify_video_thumb/2101938465508352000/img/XvF0xrK5qcwySzl6.jpg" alt="Jev Controls Simulated Robot Arm for Cleanup Task · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 31</p>
 <p><a href="https://x.com/MingfeiGuo/status/2101938771386421319">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/novintm/status/2101997060673192355"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev focuses on type-safe decisions, potentially boosting multi-sensor autonomous driving · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/novintm/status/2101997060673192355">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robotics_alphax/status/2101966406988279954"><img src="https://pbs.twimg.com/media/HSuvS1yXkAACaKw?format=jpg&amp;name=medium" alt="Strike Robot Integrates Jev into Its Physical AI Stack · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/robotics_alphax/status/2101966406988279954">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nerdytanay/status/2102069930636218794"><img src="https://pbs.twimg.com/media/HSwNdJ7aEAEBE0U?format=jpg&amp;name=medium" alt="Building Arm Control with Only JEV · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1</p>
 <p><a href="https://x.com/nerdytanay/status/2102069930636218794">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/neogoose_btw/status/2101556786528760050"><img src="https://pbs.twimg.com/amplify_video_thumb/2101556538381139968/img/ILH0mqDphFwHNSZw.jpg" alt="Integrating Jev into Keyboard Firmware for Key Prediction · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 17 &nbsp; 🔁 6 &nbsp; ♡ 135 &nbsp; 📊 12K</p>
 <p><a href="https://x.com/neogoose_btw/status/2101556786528760050">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101608965536968782"><img src="https://pbs.twimg.com/media/HSpqNJabYAAxOkD?format=jpg&amp;name=medium" alt="Jev Meets Embodied Intelligence: MuJoCo Robotic Arm Simulation in Browser · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 9 &nbsp; 🔁 8 &nbsp; ♡ 24 &nbsp; 📊 2.6K</p>
 <p><a href="https://x.com/NFT_Chen/status/2101608965536968782">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/uist1idrju3i/status/2101521346824134666"><img src="https://pbs.twimg.com/amplify_video_thumb/2101521333918253056/img/vJzzlhQE_rcWujzP.jpg" alt="Using Jev to Judge Whether a Robot May Execute Human Instructions · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 86</p>
 <p><a href="https://x.com/uist1idrju3i/status/2101521346824134666">在 X 查看原帖</a> · <a href="https://t.co/oFBCnpntUQ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jeffreallyaaron/status/2101724645598572628"><img src="https://pbs.twimg.com/amplify_video_thumb/2101724448852201472/img/Ymv3SZ1MAM5FG0Vx.jpg" alt="Jev Powers a Simulated Body: System One as the Nervous System · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
 <p><a href="https://x.com/jeffreallyaaron/status/2101724645598572628">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SimeonLi82/status/2101813425101791357"><img src="https://pbs.twimg.com/amplify_video_thumb/2101813283552448512/img/DXPPvOotMGGR8S1x.jpg" alt="Jev triages incidents for a 10K-robot warehouse fleet · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/SimeonLi82/status/2101813425101791357">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stboi1996/status/2101796464770838967"><img src="https://pbs.twimg.com/amplify_video_thumb/2101796228824526848/img/jgYhJ1byCd8Q2TaE.jpg" alt="ESP32 Robot Integrates Jev for Real-Time Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/stboi1996/status/2101796464770838967">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SimeonLi82/status/2101694996563026404"><img src="https://pbs.twimg.com/media/HSq4Y8BaQAAIO-4?format=jpg&amp;name=medium" alt="TypeSafe Jev Runs 300 Real API Calls on Warehouse Robot Fleet · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/SimeonLi82/status/2101694996563026404">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/btc_clint/status/2101641051991937038"><img src="https://pbs.twimg.com/amplify_video_thumb/2101640619945009152/img/wSfJS7JM4nLEYPpH.jpg" alt="Jev in a Real-Time Control Loop: 478 Decisions, Zero Crashes · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/btc_clint/status/2101641051991937038">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/openroboto/status/2101310974359941332"><img src="https://pbs.twimg.com/amplify_video_thumb/2101310940260270080/img/mCYBqjSwjUf4UV6d.jpg" alt="Jev Compared with GPT Models for Robot Control in MuJoCo · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 21 &nbsp; 🔁 49 &nbsp; ♡ 389 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/openroboto/status/2101310974359941332">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarianPogran/status/2101179679319241076"><img src="https://pbs.twimg.com/amplify_video_thumb/2101178753284014080/img/gtLhgbb1fSiGyTRY.jpg" alt="Jev vs. GPT-6 Astra on a real robotic task · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 19 &nbsp; 🔁 35 &nbsp; ♡ 274 &nbsp; 📊 26K</p>
 <p><a href="https://x.com/MarianPogran/status/2101179679319241076">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stash_pomichter/status/2101149600044224698"><img src="https://pbs.twimg.com/amplify_video_thumb/2101149070140014592/img/DdmO54VKkiBapiqs.jpg" alt="Benchmarking Jev on Robotics Tasks · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 19 &nbsp; 🔁 47 &nbsp; ♡ 417 &nbsp; 📊 25K</p>
 <p><a href="https://x.com/stash_pomichter/status/2101149600044224698">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dimentary/status/2101018760371171420"><img src="https://pbs.twimg.com/amplify_video_thumb/2101017646154366976/img/02bH3Hxy9l0qEffS.jpg" alt="Testing Jev as a real-time robotics policy in MuJoCo · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 20 &nbsp; 🔁 52 &nbsp; ♡ 583 &nbsp; 📊 38K</p>
 <p><a href="https://x.com/dimentary/status/2101018760371171420">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/redp314/status/2100489858951073858"><img src="https://pbs.twimg.com/amplify_video_thumb/2100479486382809088/img/r6daGpDnvsCr3LyL.jpg" alt="Using TypeSafe Jev to make a Rubik&#39;s Cube solve itself like a human · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 25 &nbsp; 🔁 67 &nbsp; ♡ 704 &nbsp; 📊 205K</p>
 <p><a href="https://x.com/redp314/status/2100489858951073858">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nerdytanay/status/2100575567737409989"><img src="https://pbs.twimg.com/media/HSa-UBfakAARS08?format=jpg&amp;name=medium" alt="Controlling a LeRobot Arm with JEV Decision-Making · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 173</p>
 <p><a href="https://x.com/nerdytanay/status/2100575567737409989">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SigGravitas/status/2100325221932958134"><img src="https://pbs.twimg.com/amplify_video_thumb/2100323655389474816/img/LLOAJ3wie1phk45K.jpg" alt="Jev Drives a Simulator in Real Time · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,5 +381,6 @@
 <p>💬 14 &nbsp; 🔁 24 &nbsp; ♡ 283 &nbsp; 📊 49K</p>
 <p><a href="https://x.com/SigGravitas/status/2100325221932958134">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

@@ -1,23 +1,23 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 266
-- [Developer tools](../categories/developer-tools.md) — 259
-- [Access updates](../categories/access-updates.md) — 250
-- [Gaming](../categories/gaming.md) — 223
-- [Agents](../categories/agents.md) — 147
-- [Launch news](../categories/launch-news.md) — 138
-- [Developer resources](../categories/developer-resources.md) — 131
-- [Community builds](../categories/community-builds.md) — 127
-- [Finance](../categories/finance.md) — 103
-- [Workflow automation](../categories/workflow-automation.md) — 87
-- [Marketing](../categories/marketing.md) — 73
+- [How it works](../categories/how-it-works.md) — 269
+- [Developer tools](../categories/developer-tools.md) — 262
+- [Access updates](../categories/access-updates.md) — 259
+- [Gaming](../categories/gaming.md) — 225
+- [Agents](../categories/agents.md) — 150
+- [Launch news](../categories/launch-news.md) — 141
+- [Developer resources](../categories/developer-resources.md) — 134
+- [Community builds](../categories/community-builds.md) — 131
+- [Finance](../categories/finance.md) — 104
+- [Workflow automation](../categories/workflow-automation.md) — 91
+- [Marketing](../categories/marketing.md) — 76
 - [Knowledge & search](../categories/knowledge-search.md) — 65
-- [Data analytics](../categories/data-analytics.md) — 58
-- [Content creation](../categories/content-creation.md) — 52
-- [Robotics](../categories/robotics.md) — 30
+- [Data analytics](../categories/data-analytics.md) — 61
+- [Content creation](../categories/content-creation.md) — 53
+- [Robotics](../categories/robotics.md) — 31
 - [Scientific research](../categories/scientific-research.md) — 22
 - [Customer support](../categories/customer-support.md) — 20
-- [Productivity](../categories/productivity.md) — 17
+- [Productivity](../categories/productivity.md) — 18
 - [Business operations](../categories/business-operations.md) — 15
 - [Healthcare](../categories/healthcare.md) — 15
 - [Cybersecurity](../categories/cybersecurity.md) — 15

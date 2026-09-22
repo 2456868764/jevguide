@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 87 | 61 | 26 | 595K |
+| 91 | 62 | 29 | 595K |
 
 ## Showcase 卡片
 
@@ -118,6 +118,19 @@
 <p><a href="https://x.com/kalenjordan/status/2102194463107866822">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/rotudam/status/2102394417784971505"><img src="https://pbs.twimg.com/media/HS00ge-WMAAnlW_?format=jpg&amp;name=medium" alt="Open-sourced gmail-jev: Automate Gmail with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rotudam/status/2102394417784971505">Open-sourced gmail-jev: Automate Gmail with Jev</a></h3>
+<p>The author open-sourced gmail-jev, a Jev-powered Gmail tool built for personal use. No coding needed—plain English setup—it makes quick, structured decisions about each email and returns results as data.</p>
+<p><strong>中文摘要：</strong>作者开源了自用的 Gmail 工具 gmail-jev，由 Jev 驱动，无需编程，用自然语言即可完成设置，能对每封邮件做出快速结构化决策并以数据形式返回结果。</p>
+<p><strong>Altay</strong> · @rotudam · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/rotudam/status/2102394417784971505">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/taku_ai_case/status/2102251038715601052"><img src="https://pbs.twimg.com/media/HSyklY4a0AARFLg?format=jpg&amp;name=medium" alt="Jev as a middle layer in automation: machine → Jev → ChatGPT/Claude · 原帖图片" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖图片</code></sub>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/taku_ai_case/status/2102251038715601052">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VersunPan/status/2102201927178371280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008845908471808/img/qY4WuyscFgItxZCQ.jpg" alt="WeChat automation project built on Jev + DeepSeek: accessibility reading and ban risk · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/VersunPan/status/2102201927178371280">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gemama0/status/2102198046201086356"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197556138684416/img/VOAFvXpPpUMtUKYH.jpg" alt="Building an Automatic Note Tagging System with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/gemama0/status/2102198046201086356">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notifykamalraj/status/2102249844756951427"><img src="https://pbs.twimg.com/media/HSyxFcPbwAA6RA2?format=jpg&amp;name=medium" alt="Jev Controls a Traffic Light with Near Real-Time Traffic Feeds · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +175,43 @@
 <p><strong>Kamal Raj Sekar</strong> · @notifykamalraj · 2026-09-22</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
 <p><a href="https://x.com/notifykamalraj/status/2102249844756951427">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shayahal1/status/2102392874394374584"><img src="https://pbs.twimg.com/media/HS0yvgiXsAAD5F8?format=jpg&amp;name=medium" alt="Multi-stage text matching architecture with Jev screener · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shayahal1/status/2102392874394374584">Multi-stage text matching architecture with Jev screener</a></h3>
+<p>The author shares a final architecture: a Jev model acts as a screener to judge similarity probabilities in parallel, uncertain pairs go to another Jev model with extra context, code merges relevant pairs, and a Sonnet/Opus model handles the rest.</p>
+<p><strong>中文摘要：</strong>作者分享其最终架构：先用Jev模型作为筛选器并行判断文本相似概率，对不确定项再用带上下文的Jev模型两两判断，最后用代码合并相关对并交由Sonnet/Opus模型处理。</p>
+<p><strong>shay yahal</strong> · @shayahal1 · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/shayahal1/status/2102392874394374584">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yara_david/status/2102394566812815805"><img src="https://pbs.twimg.com/media/HS00lkmXIAAQPDo?format=png&amp;name=medium" alt="10 Recommended Jev Use Cases: LLM Writes, Jev Decides · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yara_david/status/2102394566812815805">10 Recommended Jev Use Cases: LLM Writes, Jev Decides</a></h3>
+<p>Introduces 10 recommended Jev use cases, including support ticket triage and tool-call risk gating, where the LLM writes and Jev picks, scores, or decides, with code owning the cutoffs.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 的 10 个推荐用例，包括支持工单分类、工具调用风险门控等，LLM 负责生成，Jev 负责选择、评分或判断，代码控制阈值。</p>
+<p><strong>yara David</strong> · @yara_david · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/yara_david/status/2102394566812815805">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eyishazyer/status/2102398038555734356"><img src="https://pbs.twimg.com/amplify_video_thumb/2101161072447180800/img/sRIOALT11TUpdAdU.jpg" alt="Jev Controls City Traffic Grid at 412ms Latency · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eyishazyer/status/2102398038555734356">Jev Controls City Traffic Grid at 412ms Latency</a></h3>
+<p>Jev is used to control an entire city&#39;s traffic grid with 412ms latency, and wait times increase 600% when it&#39;s off.</p>
+<p><strong>中文摘要：</strong>Jev 被用于控制整个城市的交通网格，延迟为 412ms，关闭时等待时间增加 600%。</p>
+<p><strong>Eyisha Zyer</strong> · @eyishazyer · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/eyishazyer/status/2102398038555734356">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Divine_machine/status/2102222351102574609"><img src="https://pbs.twimg.com/media/HSyYETFXUAA6EK-?format=jpg&amp;name=medium" alt="Jev Desktop: A Verification and Automation Alternative to Computer Use · 原帖图片" width="100%"></a>

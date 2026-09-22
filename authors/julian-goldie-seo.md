@@ -1,9 +1,10 @@
 # Julian Goldie SEO
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Three Free Ways to Use Jev AI](https://x.com/JulianGoldieSEO/status/2102398353095241833) | 接入动态 | Julian Goldie SEO | 517 |
 | 2026-09-21 | [Jev Browser Search Query Design: Word Slicing and Exact Copying](https://x.com/JulianGoldieSEO/status/2101941004362264767) | 知识与搜索 | Julian Goldie SEO | 1.3K |
 | 2026-09-21 | [Jev: Voice-Controlled AI Browser](https://x.com/JulianGoldieSEO/status/2101939214799749370) | 产品发布 | Julian Goldie SEO | 1.3K |
 | 2026-09-21 | [7 live apps you could build with the same Jev AI pattern](https://x.com/JulianGoldieSEO/status/2101942821943173303) | 开发者工具 | Julian Goldie SEO | 1.1K |

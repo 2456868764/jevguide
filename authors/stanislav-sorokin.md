@@ -1,9 +1,10 @@
 # Stanislav Sorokin
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-21 | [JEV audits 300 web pages for $0.02](https://x.com/stas_sorokin_/status/2102148123590263094) | 数据分析 | Stanislav Sorokin | 2.6K |
 | 2026-09-21 | [Jev Open Access Test: 900 Decisions Graded by Opus 5](https://x.com/stas_sorokin_/status/2102158194235838589) | 数据分析 | Stanislav Sorokin | 400 |
 | 2026-09-21 | [Sorting 1,000 AI papers into 24 topics with Jev](https://x.com/stas_sorokin_/status/2101994942818115738) | 知识与搜索 | Stanislav Sorokin | 326 |
 | 2026-09-21 | [Jev hits 61 ms per page in web audit, far faster than Opus 5](https://x.com/stas_sorokin_/status/2102162036490633412) | 开发者工具 | Stanislav Sorokin | 252 |

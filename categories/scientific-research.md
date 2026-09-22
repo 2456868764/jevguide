@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 17 | 11 | 6 | 136K |
+| 20 | 11 | 9 | 136K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,30 @@
 <p><a href="https://x.com/Charles_Y_Wu/status/2102052230463381855">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/picocreator/status/2102149815102734768"><img src="https://pbs.twimg.com/media/HSxVncjb0AAf-Yd?format=jpg&amp;name=medium" alt="Teaser: Jev vs Open Model Vision Evals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/picocreator/status/2102149815102734768">Teaser: Jev vs Open Model Vision Evals</a></h3>
+<p>The author teases vision evals comparing Jev with open models, inviting community input on how to weigh vision benchmarks and what to evaluate.</p>
+<p><strong>中文摘要：</strong>作者回应社区请求，发布 Jev 与开放模型视觉评测的预告，并邀请社区讨论如何权衡视觉基准及评测方向。</p>
+<p><strong>Eugene Cheah - AI builder @ 🇸🇬|🇺🇸</strong> · @picocreator · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/picocreator/status/2102149815102734768">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2102147933273465264"><img src="https://pbs.twimg.com/media/HSxUQa8WYAET4lr?format=png&amp;name=small" alt="JevBench Updated to v1.2.16, Winnow-12B Enters Top Five · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2102147933273465264">JevBench Updated to v1.2.16, Winnow-12B Enters Top Five</a></h3>
+<p>JevBench releases v1.2.16, with Winnow-12B at #5 while Jev, SemIf, and djev remain the top three.</p>
+<p><strong>中文摘要：</strong>JevBench 发布 v1.2.16 版本，Winnow-12B 位列第五，前三名仍为 Jev、SemIf 和 djev。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 24 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/airesearch12/status/2102147933273465264">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/m_hatayama/status/2101946922370302456"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943718492479488/img/-NB4PZvkJtIg9llD.jpg" alt="A failed fish school simulation prototype with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>科研</code> <code>原帖视频</code></sub>
@@ -118,6 +142,19 @@
 <p><a href="https://x.com/homerosousa/status/2101865551798649142">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/W3_Btc/status/2102148366691958868"><img src="https://pbs.twimg.com/media/HSxUZJEWwAAKuZc?format=jpg&amp;name=medium" alt="Jev Tested in a Fictional Lunar Crisis Demo · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/W3_Btc/status/2102148366691958868">Jev Tested in a Fictional Lunar Crisis Demo</a></h3>
+<p>Jev was placed in a fictional lunar crisis demo with 5 simple scenarios in one call, ~91.8 ms model evaluation excluding network time; the author calls it a toy experiment, not a reliability benchmark.</p>
+<p><strong>中文摘要：</strong>将 Jev 放入虚构月球危机演示，5 个简单场景一次调用，模型评估约 91.8 毫秒（不含网络时间），作者称这是玩具实验而非可靠性基准。</p>
+<p><strong>King Coin</strong> · @W3_Btc · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/W3_Btc/status/2102148366691958868">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/FinanceYF5/status/2101545447773159650"><img src="https://pbs.twimg.com/amplify_video_thumb/2101545403753865217/img/iI7Ep7ZzcUMWm-GG.jpg" alt="Jev Completes 100 Consecutive Trolley Problems · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>科研</code> <code>原帖视频</code></sub>
@@ -128,8 +165,6 @@
 <p>💬 40 &nbsp; 🔁 8 &nbsp; ♡ 57 &nbsp; 📊 41K</p>
 <p><a href="https://x.com/FinanceYF5/status/2101545447773159650">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jnormore/status/2101641621850800457"><img src="https://pbs.twimg.com/amplify_video_thumb/2101640711842017280/img/97S88hTr4pgJYFeT.jpg" alt="Jev experiment: particle fluid simulation micro-scale physics decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 76</p>
 <p><a href="https://x.com/jnormore/status/2101641621850800457">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Csisc1994/status/2101707362247614853"><img src="https://pbs.twimg.com/media/HSrDNtoXcAI0hDu?format=jpg&amp;name=medium" alt="Jev for Automated Screening and Validation of Biomedical Datasets · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
 <p><a href="https://x.com/Csisc1994/status/2101707362247614853">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JinxiangTse/status/2101693517022302326"><img src="https://pbs.twimg.com/media/HSq3FlKbsAAPfi3?format=jpg&amp;name=medium" alt="Experimenting with Jev in a Retrosynthesis Agent: Fast Decisions vs. Full Reasoning · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/JinxiangTse/status/2101693517022302326">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AGTPinsights/status/2101802590564704274"><img src="https://pbs.twimg.com/media/HSsaTVCbYAAwCDB?format=jpg&amp;name=medium" alt="Researcher questions determinism of TypeSafe AI&#39;s Jev model · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/AGTPinsights/status/2101802590564704274">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shirshagh/status/2101698125266055200"><img src="https://pbs.twimg.com/media/HSq7TZCX0AAzNWM?format=jpg&amp;name=medium" alt="Testing TypeSafe AI&#39;s Jev on a pharma medical affairs problem · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/shirshagh/status/2101698125266055200">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2101311769113178270"><img src="https://pbs.twimg.com/amplify_video_thumb/2101311146871476224/img/7iObyfH5AUq_DC_q.jpg" alt="JevBench: First Benchmark for Jev-Class Models Released · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +237,6 @@
 <p>💬 17 &nbsp; 🔁 27 &nbsp; ♡ 188 &nbsp; 📊 136K</p>
 <p><a href="https://x.com/airesearch12/status/2101311769113178270">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarissaFamularo/status/2100585751398232539"><img src="https://pbs.twimg.com/amplify_video_thumb/2100585700890472448/img/_BaNzZ4KXWwgw-LR.jpg" alt="TypeSafe AI Added to Citation Checker Tool · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +248,5 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/MarissaFamularo/status/2100585751398232539">在 X 查看原帖</a> · <a href="https://t.co/Hl76VsvAei">原文链接</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

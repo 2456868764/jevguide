@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 14 | 7 | 7 | 88K |
+| 15 | 7 | 8 | 88K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/marcelpociot/status/2102147679459430503"><img src="https://pbs.twimg.com/media/HSxUG5cXsAA6zFH?format=jpg&amp;name=medium" alt="Using Jev for Semantic Test Assertions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/marcelpociot/status/2102147679459430503">Using Jev for Semantic Test Assertions</a></h3>
+<p>Marcel Pociot shares a project quality improvement idea: use Jev for semantic test assertions.</p>
+<p><strong>中文摘要：</strong>Marcel Pociot 分享了一个提升项目质量的思路：使用 Jev 进行语义测试断言。</p>
+<p><strong>Marcel Pociot 🧪</strong> · @marcelpociot · 2026-09-21</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 103 &nbsp; 📊 6.9K</p>
+<p><a href="https://x.com/marcelpociot/status/2102147679459430503">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/DeoArlo/status/2102155584560668777"><img src="https://pbs.twimg.com/media/HSxbRheXgAAEvfT?format=jpg&amp;name=medium" alt="Building a dream app with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>软件开发</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 79</p>
 <p><a href="https://x.com/DeoArlo/status/2102155584560668777">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ryo_grid/status/2101904352952889504"><img src="https://pbs.twimg.com/media/HSt2cxiacAAfCOM?format=png&amp;name=small" alt="Exploring Jev-like Models for Smart Test Case Selection · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 76</p>
 <p><a href="https://x.com/ryo_grid/status/2101904352952889504">在 X 查看原帖</a> · <a href="https://t.co/cZkGaZgF4Q">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarkShust/status/2102065093198364808"><img src="https://pbs.twimg.com/media/HSwJBxIXEAALyTo?format=jpg&amp;name=medium" alt="Jev Code Deployed to Production for a Real Use Case · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/MarkShust/status/2102065093198364808">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nik_hoelti/status/2102164141465079978"><img src="https://pbs.twimg.com/media/HSxi2VyXUAAgyz9?format=jpg&amp;name=large" alt="Classifying Open PRs in a Langdock Workflow Using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/nik_hoelti/status/2102164141465079978">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ronaldtebrake/status/2102009951015076029"><img src="https://pbs.twimg.com/tweet_video_thumb/HSvUXdhXgAAm8_P.jpg" alt="Experimenting with Jev for semantic test ranking · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/ronaldtebrake/status/2102009951015076029">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clairevo/status/2101757771553353832"><img src="https://pbs.twimg.com/media/HSrxELFaUAARE57?format=jpg&amp;name=medium" alt="Analyzing 1,750 PRs with Jev: Thematic Grouping for 9 Cents · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 13 &nbsp; 🔁 2 &nbsp; ♡ 51 &nbsp; 📊 8.8K</p>
 <p><a href="https://x.com/clairevo/status/2101757771553353832">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KrzysztofStaron/status/2101793556071321759"><img src="https://pbs.twimg.com/amplify_video_thumb/2101791707289288704/img/9RsT-5mfTUbiBGZJ.jpg" alt="Speeding Up Graph-Based UX Node Classification with TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/KrzysztofStaron/status/2101793556071321759">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_xiaomu/status/2101280897030893804"><img src="https://pbs.twimg.com/amplify_video_thumb/2101271600058572800/img/MQZeETX08649gcvE.jpg" alt="Jev commercialization case: analyzing 3M replay events and submitting 213 fix PRs · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 149 &nbsp; 🔁 39 &nbsp; ♡ 270 &nbsp; 📊 88K</p>
 <p><a href="https://x.com/ai_xiaomu/status/2101280897030893804">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/multilayer/status/2101306783109407221"><img src="https://pbs.twimg.com/media/HSlWrq7bMAAyv7Q?format=jpg&amp;name=medium" alt="Developer Explores Jev&#39;s Applicability in an App Under Development · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 130</p>
 <p><a href="https://x.com/multilayer/status/2101306783109407221">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ctechdiva/status/2101250598209556829"><img src="https://pbs.twimg.com/media/HSkkSKzbUAEYeV-?format=jpg&amp;name=medium" alt="Fascin: A Jev-Powered PR Triage Tool · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 83</p>
 <p><a href="https://x.com/ctechdiva/status/2101250598209556829">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/suthio_/status/2100741209035850095"><img src="https://pbs.twimg.com/amplify_video_thumb/2100585029533372416/img/ZcrsntW2yWgtB_HD.jpg" alt="Using Jev for Code Review · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 3 &nbsp; 🔁 31 &nbsp; ♡ 280 &nbsp; 📊 57K</p>
 <p><a href="https://x.com/suthio_/status/2100741209035850095">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iamAdityaAnjana/status/2100438907611660510"><img src="https://pbs.twimg.com/amplify_video_thumb/2100438870479568896/img/VQBKtHK7Zm-TR-GK.jpg" alt="Writing C++ with Jev by picking valid next tokens · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,5 +189,6 @@
 <p>💬 7 &nbsp; 🔁 3 &nbsp; ♡ 50 &nbsp; 📊 12K</p>
 <p><a href="https://x.com/iamAdityaAnjana/status/2100438907611660510">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

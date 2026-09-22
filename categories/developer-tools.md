@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 253 | 140 | 114 | 3.6M |
+| 255 | 140 | 116 | 3.6M |
 
 ## Showcase 卡片
 
@@ -598,6 +598,19 @@
 <p><a href="https://x.com/yugen_matuni/status/2101898801615401256">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/amodexbt/status/2102135755137020164"><img src="https://pbs.twimg.com/media/HSxJQywWwAAXmiw?format=jpg&amp;name=medium" alt="Jev Coding Agent Implementation Guide and Complete Codebase · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/amodexbt/status/2102135755137020164">Jev Coding Agent Implementation Guide and Complete Codebase</a></h3>
+<p>A 14-page guide on turning Jev into a production coding agent, with the complete codebase and shared runtime setup steps.</p>
+<p><strong>中文摘要：</strong>一份 14 页的指南，介绍如何将 Jev 转变为生产级编码智能体，并附带完整代码库和共享运行时安装步骤。</p>
+<p><strong>Amodex</strong> · @amodexbt · 2026-09-21</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 20 &nbsp; 📊 793</p>
+<p><a href="https://x.com/amodexbt/status/2102135755137020164">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/mizchi/status/2101951538545746311"><img src="https://pbs.twimg.com/media/HSuhKmPagAAecxE?format=png&amp;name=medium" alt="jev-test-filter Released: Smart Test Filtering with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -608,8 +621,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 660</p>
 <p><a href="https://x.com/mizchi/status/2101951538545746311">在 X 查看原帖</a> · <a href="https://t.co/2eLt7RAp2l">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fazlerocks/status/2102007472290685186"><img src="https://pbs.twimg.com/amplify_video_thumb/2101358490094878721/img/Uic_foz-V_Hyd5Vi.jpg" alt="Self-hosted email client built with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 613</p>
 <p><a href="https://x.com/fazlerocks/status/2102007472290685186">在 X 查看原帖</a> · <a href="https://t.co/KIwfHBCI3P">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kaskulikowski/status/2101995976781135883"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995732076990464/img/3xpu0y8FeqrMHG03.jpg" alt="Experimenting with Jev and WebMCP: Tool Selection and Input Filling · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 11 &nbsp; 📊 610</p>
 <p><a href="https://x.com/kaskulikowski/status/2101995976781135883">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/golangch/status/2101888872930329032"><img src="https://pbs.twimg.com/media/HStoyqYboAAEOh9?format=jpg&amp;name=medium" alt="Ax: Cross-Language DSPy-Style LLM Programming with Jev Support · 原帖图片" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 586</p>
 <p><a href="https://x.com/golangch/status/2101888872930329032">在 X 查看原帖</a> · <a href="https://t.co/xSklaX4GX5">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Chris_Wozniczek/status/2102155264195760352"><img src="https://pbs.twimg.com/amplify_video_thumb/2102151206814580736/img/-K8e6L15LWXjOqbm.jpg" alt="Developer builds Jev Voice and macOS control app with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -656,8 +669,6 @@
 <p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 584</p>
 <p><a href="https://x.com/Chris_Wozniczek/status/2102155264195760352">在 X 查看原帖</a> · <a href="https://t.co/8x9VsB5aQH">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ersinkoc/status/2101937853152256481"><img src="https://pbs.twimg.com/media/HSuUPBuWoAAaEiW?format=png&amp;name=small" alt="Evaluating TypeSafe Console Status via Jev · 原帖图片" width="100%"></a>
 <br>
@@ -669,6 +680,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 496</p>
 <p><a href="https://x.com/ersinkoc/status/2101937853152256481">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brandonjcarl/status/2102066041824104516"><img src="https://pbs.twimg.com/media/HSwJHsYWwAA3EhJ?format=jpg&amp;name=medium" alt="Jev tested across math, logic, text, structured data, and code · 原帖图片" width="100%"></a>
 <br>
@@ -680,8 +693,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 492</p>
 <p><a href="https://x.com/brandonjcarl/status/2102066041824104516">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chirag/status/2102180717405073575"><img src="https://pbs.twimg.com/media/HSxyMzzbkAAUlJX?format=jpg&amp;name=large" alt="verdict: Typed Decisions on Mac via a Jev-Compatible API · 原帖图片" width="100%"></a>
 <br>
@@ -693,6 +704,8 @@
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 486</p>
 <p><a href="https://x.com/chirag/status/2102180717405073575">在 X 查看原帖</a> · <a href="https://t.co/Wv4DjmF75d">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ersinkoc/status/2101940187475345584"><img src="https://pbs.twimg.com/media/HSuWryFXIAAKGzC?format=jpg&amp;name=medium" alt="Jev Benchmark Lab: Stress Testing with 200 Ground-Truth Cases · 原帖图片" width="100%"></a>
 <br>
@@ -704,8 +717,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 404</p>
 <p><a href="https://x.com/ersinkoc/status/2101940187475345584">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tenfingers/status/2102166895109853256"><img src="https://pbs.twimg.com/amplify_video_thumb/2102156970191167488/img/mn9nyKPwj5Apc9rX.jpg" alt="Voicebind: Open-Source Voice Control Plugin for Omarchy Using Whisper and Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -717,6 +728,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 354</p>
 <p><a href="https://x.com/tenfingers/status/2102166895109853256">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MejiasDev/status/2102159039886930374"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Open-source extension pi-jev-router enables Astra adaptive thinking · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +741,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 347</p>
 <p><a href="https://x.com/MejiasDev/status/2102159039886930374">在 X 查看原帖</a> · <a href="https://t.co/Z96DDCa2Pq">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/awlevin/status/2102137953023922186"><img src="https://pbs.twimg.com/media/HSxDtTwaYAAEwFi?format=jpg&amp;name=medium" alt="Combining the Jev API with an OCR Clicking Concept · 原帖图片" width="100%"></a>
 <br>
@@ -741,6 +752,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 333</p>
 <p><a href="https://x.com/awlevin/status/2102137953023922186">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jevbook/status/2101994751624884490"><img src="https://pbs.twimg.com/media/HSvJE64XYAAqWPH?format=jpg&amp;name=medium" alt="jevbook CLI launches: ask from your terminal, claims checked live · 原帖图片" width="100%"></a>
 <br>
@@ -752,8 +765,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 300</p>
 <p><a href="https://x.com/jevbook/status/2101994751624884490">在 X 查看原帖</a> · <a href="https://t.co/gT9igrkhJM">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sudo_overflow/status/2102179832973217966"><img src="https://pbs.twimg.com/media/HSxxZPsawAA299O?format=jpg&amp;name=medium" alt="VSCode Extension Uses JEV to Analyze Prompts and Route to the Right ChatGPT Model · 原帖图片" width="100%"></a>
 <br>
@@ -765,6 +776,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 281</p>
 <p><a href="https://x.com/sudo_overflow/status/2102179832973217966">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JLarky/status/2102185063089905901"><img src="https://pbs.twimg.com/media/HSx2FBwa8AALCmK?format=jpg&amp;name=medium" alt="If Jev Is So Cheap, Why Not Replace Regex with API Calls? · 原帖图片" width="100%"></a>
 <br>
@@ -776,8 +789,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 263</p>
 <p><a href="https://x.com/JLarky/status/2102185063089905901">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stas_sorokin_/status/2102162036490633412"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148073229074432/img/Z4d57i87ku5Nw-aj.jpg" alt="Jev hits 61 ms per page in web audit, far faster than Opus 5 · 原帖视频截图" width="100%"></a>
 <br>
@@ -789,6 +800,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 252</p>
 <p><a href="https://x.com/stas_sorokin_/status/2102162036490633412">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/christzolov/status/2102009563083870575"><img src="https://pbs.twimg.com/media/HSvVraQWUAEukT5?format=jpg&amp;name=medium" alt="Java SDK and Spring AI Integration for TypeSafe Jev · 原帖图片" width="100%"></a>
 <br>
@@ -800,8 +813,6 @@
 <p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 238</p>
 <p><a href="https://x.com/christzolov/status/2102009563083870575">在 X 查看原帖</a> · <a href="https://t.co/Nb4Mp9TLgO">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arjunkmrm/status/2102165487534899618"><img src="https://pbs.twimg.com/media/HSxj8CebIAAs35D?format=jpg&amp;name=medium" alt="Jev console look praised; Jev-powered tardigrade components coming soon · 原帖图片" width="100%"></a>
 <br>
@@ -813,6 +824,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 235</p>
 <p><a href="https://x.com/arjunkmrm/status/2102165487534899618">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/krishnakhanna/status/2101967688973344992"><img src="https://pbs.twimg.com/amplify_video_thumb/2101966800208715776/img/zqiYT4qTk8o4znbv.jpg" alt="Autonomous Self-Driving Simulation Built with OpenJev and Codiv · 原帖视频截图" width="100%"></a>
 <br>
@@ -824,8 +837,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 217</p>
 <p><a href="https://x.com/krishnakhanna/status/2101967688973344992">在 X 查看原帖</a> · <a href="https://t.co/X4aAbzRADY">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheAILadder/status/2102150038436938096"><img src="https://pbs.twimg.com/amplify_video_thumb/2102149963006578688/img/pB6-gXb23nEZ41oZ.jpg" alt="Andy Gao builds a voice-controlled Mac assistant with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -837,6 +848,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 209</p>
 <p><a href="https://x.com/TheAILadder/status/2102150038436938096">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/embw_l0x/status/2102182289287291029"><img src="https://pbs.twimg.com/media/HSxzlD1X0AA8eR1?format=jpg&amp;name=medium" alt="One Day Without Jev, Codex Tests So Hard It Crashes a MacBook Pro · 原帖图片" width="100%"></a>
 <br>
@@ -848,8 +861,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 198</p>
 <p><a href="https://x.com/embw_l0x/status/2102182289287291029">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xGenAi/status/2102163631710277698"><img src="https://pbs.twimg.com/amplify_video_thumb/2102162137682522112/img/ghj-eecJHC5UaMgL.jpg" alt="Jev Enables Instant Context Compaction · 原帖视频截图" width="100%"></a>
 <br>
@@ -861,6 +872,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 193</p>
 <p><a href="https://x.com/0xGenAi/status/2102163631710277698">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hahwul/status/2101895654209634588"><img src="https://pbs.twimg.com/media/HStu2apa4AASbzD?format=jpg&amp;name=medium" alt="GitHub Next Introduces Local Jev · 原帖图片" width="100%"></a>
 <br>
@@ -872,8 +885,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 180</p>
 <p><a href="https://x.com/hahwul/status/2101895654209634588">在 X 查看原帖</a> · <a href="https://t.co/P3IdRUfOGG">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RobertNowell1/status/2102156315028345319"><img src="https://pbs.twimg.com/amplify_video_thumb/2102155438796288000/img/Inkhr1Xp3Sik-hhK.jpg" alt="Building a Live Voice Agent with Jev and Pipecat to Manage Coding Agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -885,6 +896,8 @@
 <p>💬 6 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 177</p>
 <p><a href="https://x.com/RobertNowell1/status/2102156315028345319">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zkhorozian/status/2102152957374460148"><img src="https://pbs.twimg.com/amplify_video_thumb/2102151526705692672/img/q2KTsyWLm10KTSzw.jpg" alt="Speculative Programmatic Tool Calling with Jev as a Just-in-Time Approver · 原帖视频截图" width="100%"></a>
 <br>
@@ -895,6 +908,17 @@
 <p><strong>Zach Khorozian</strong> · @zkhorozian · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 174</p>
 <p><a href="https://x.com/zkhorozian/status/2102152957374460148">在 X 查看原帖</a> · <a href="https://t.co/HA8SksTrsB">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/leonardoballand/status/2102133936046444584"><img src="https://pbs.twimg.com/media/HSxHZykWoAAf3Eu?format=jpg&amp;name=medium" alt="Updating Qwen Image 2.1 Skills and Commands for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/leonardoballand/status/2102133936046444584">Updating Qwen Image 2.1 Skills and Commands for Jev</a></h3>
+<p>The author finished the Qwen Image 2.1 benchmark and is updating the related skills and commands for Jev.</p>
+<p><strong>中文摘要：</strong>作者完成 Qwen Image 2.1 基准测试，正在为 Jev 更新相关技能和命令。</p>
+<p><strong>Leonardo BALLAND</strong> · @leonardoballand · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 170</p>
+<p><a href="https://x.com/leonardoballand/status/2102133936046444584">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

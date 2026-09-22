@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 62 | 36 | 26 | 235K |
+| 64 | 37 | 27 | 235K |
 
 ## Showcase 卡片
 
@@ -286,6 +286,19 @@
 <p><a href="https://x.com/cossssmin/status/2102137516153283030">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/tallmadged/status/2102135215527440653"><img src="https://pbs.twimg.com/media/HSxI0aubcAA-Oru?format=jpg&amp;name=medium" alt="Jev won&#39;t pick iPhone when recommending phones · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tallmadged/status/2102135215527440653">Jev won&#39;t pick iPhone when recommending phones</a></h3>
+<p>A user notes that even when mentioning already having an iPhone, Jev won&#39;t select the iPhone duo when recommending phones.</p>
+<p><strong>中文摘要：</strong>用户指出，即使说明已有 iPhone，Jev 在推荐手机时也不会选择 iPhone 双机组合。</p>
+<p><strong>Doug Tallmadge</strong> · @tallmadged · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
+<p><a href="https://x.com/tallmadged/status/2102135215527440653">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/LeahW_2077/status/2101894926250168654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101890480606674944/img/JdPCHOnBidP_XbQN.jpg" alt="Ranking NYC Places with Jev Based on Google Maps History · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 52</p>
 <p><a href="https://x.com/LeahW_2077/status/2101894926250168654">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/piyush_yip/status/2101997596202152375"><img src="https://pbs.twimg.com/amplify_video_thumb/2101996736227270656/img/hovwK7Jy1Wd9RWXB.jpg" alt="Building a Retrieval Pipeline with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 52</p>
 <p><a href="https://x.com/piyush_yip/status/2101997596202152375">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101902991942930743"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a Knowledge Base with Jev: A Second Brain · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/Threeaio/status/2101902991942930743">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/snaga/status/2101901648184643707"><img src="https://pbs.twimg.com/media/HSt0LTabQAAACdr?format=jpg&amp;name=medium" alt="Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev) · 原帖图片" width="100%"></a>
 <br>
@@ -332,6 +343,19 @@
 <p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/snaga/status/2101901648184643707">在 X 查看原帖</a> · <a href="https://t.co/ndZVcLZOXJ">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kevbuildsapps/status/2102133939951280593"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102133754974048256/pu/img/3Z28rRPuCYwZzO5t.jpg" alt="Jev AI Accesses Apple Photos for Second-Level Video Search · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kevbuildsapps/status/2102133939951280593">Jev AI Accesses Apple Photos for Second-Level Video Search</a></h3>
+<p>Developer shows how to give Jev AI access to all photos and videos, combining a Claude tagging system and Obsidian knowledge graph to retrieve any clip in seconds.</p>
+<p><strong>中文摘要：</strong>开发者展示如何让 Jev AI 访问全部照片和视频，结合 Claude 标签系统与 Obsidian 知识图谱，实现秒级检索任意片段。</p>
+<p><strong>Kev Builds Apps</strong> · @kevbuildsapps · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/kevbuildsapps/status/2102133939951280593">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/milvusio/status/2102062798708900176"><img src="https://pbs.twimg.com/tweet_video_thumb/HSvUqy2aIAAjyKA.jpg" alt="Can Jev Replace a Reranker in RAG? · 原帖视频截图" width="100%"></a>

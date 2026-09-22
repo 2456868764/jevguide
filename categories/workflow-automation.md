@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 80 | 57 | 23 | 595K |
+| 82 | 58 | 24 | 595K |
 
 ## Showcase 卡片
 
@@ -227,6 +227,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/damianoredem/status/2102134727238938740"><img src="https://pbs.twimg.com/amplify_video_thumb/2102134385109499904/img/RkGhjO8xCWPkTm7t.jpg" alt="Control a Smart Home with Jev: Speculative Fan-Out Pattern Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/damianoredem/status/2102134727238938740">Control a Smart Home with Jev: Speculative Fan-Out Pattern Demo</a></h3>
+<p>A demo from the TypeSafe AI docs showing how to control smart home devices using Jev&#39;s speculative fan-out pattern.</p>
+<p><strong>中文摘要：</strong>来自 TypeSafe AI 文档的演示，展示如何使用 Jev 的推测性扇出模式控制智能家居设备。</p>
+<p><strong>Damiano Redemagni</strong> · @damianoredem · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 344</p>
+<p><a href="https://x.com/damianoredem/status/2102134727238938740">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/alacheng/status/2102008377450590408"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937393964404736/img/Cn8OIz-K2jNGrCk9.jpg" alt="Jev for Browser Automation: Action Selection Prediction · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -237,6 +248,8 @@
 <p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 231</p>
 <p><a href="https://x.com/alacheng/status/2102008377450590408">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gonlenidefi/status/2102143217944650073"><img src="https://pbs.twimg.com/amplify_video_thumb/2102132282450456576/img/hSltEk5KcXcJaDKG.jpg" alt="Jev Guide: Turning Inbox Triage into a Narrow Model Task · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 192</p>
 <p><a href="https://x.com/gonlenidefi/status/2102143217944650073">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xTreff/status/2101997289715773761"><img src="https://pbs.twimg.com/amplify_video_thumb/2101984820221915136/img/-F-JpnfTElsc7Dq0.jpg" alt="Jev ticket router: one model call with code deciding next steps · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 153</p>
 <p><a href="https://x.com/0xTreff/status/2101997289715773761">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Pluvio9yte/status/2101951934811066867"><img src="https://pbs.twimg.com/media/HSuiJWVbcAA4XFF?format=jpg&amp;name=medium" alt="Real-world delivery workflow combining Jev model with Kooko · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 143</p>
 <p><a href="https://x.com/Pluvio9yte/status/2101951934811066867">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yo_ta_n/status/2101885032881365222"><img src="https://pbs.twimg.com/media/HStlLahaQAAk0uG?format=jpg&amp;name=medium" alt="Building a Family LINE Bot with Dify and Jev to Control Smart Home · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 79</p>
 <p><a href="https://x.com/yo_ta_n/status/2101885032881365222">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AutomationAce_/status/2102163264688083405"><img src="https://pbs.twimg.com/media/HSxhzpuaAAA4ILa?format=jpg&amp;name=medium" alt="Jev as the Decision Layer for Automation Workflows · 原帖图片" width="100%"></a>
 <br>
@@ -295,6 +308,17 @@
 <p><strong>Troy Tessalone | Automation Ace ⚡️</strong> · @AutomationAce_ · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
 <p><a href="https://x.com/AutomationAce_/status/2102163264688083405">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WizZifnab/status/2102132754695766451"><img src="https://pbs.twimg.com/media/HSxFveXWgAEq1Dg?format=png&amp;name=medium" alt="User shares Jev project: bot automates morning email sorting · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WizZifnab/status/2102132754695766451">User shares Jev project: bot automates morning email sorting</a></h3>
+<p>A user reports their initial Jev project is running and a bot routine sorts morning emails, placing unclear items in an Unsorted folder and sending a notification.</p>
+<p><strong>中文摘要：</strong>一位用户表示其初始 Jev 项目已运行，并用机器人设置了早晨邮件分类例行任务，无法明确删除或分类的邮件会进入 Unsorted 文件夹并发送通知。</p>
+<p><strong>Larry Fuqua</strong> · @WizZifnab · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
+<p><a href="https://x.com/WizZifnab/status/2102132754695766451">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

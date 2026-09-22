@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 181 | 95 | 87 | 3.6M |
+| 188 | 102 | 87 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/miu21590/status/2101857866378362926"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/miu21590/status/2101857866378362926">Dynamically Adjusting GPT-6 Reasoning Effort Inside Codex</a></h3>
+<p>The author uses Jev to dynamically change GPT-6&#39;s reasoning effort during a Codex task: more thinking when stuck, less for routine steps, achieving 50% lower Astra costs in tests with faster runs and no broken prompt caching.</p>
+<p><strong>中文摘要：</strong>作者利用 Jev 在 Codex 任务执行过程中动态改变 GPT-6 的推理强度：遇到困难时增加思考，常规步骤减少思考，测试中 Astra 成本降低 50%，运行更快且不破坏提示缓存。</p>
+<p><strong>vechen</strong> · @miu21590 · 2026-09-21</p>
+<p>💬 139 &nbsp; 🔁 125 &nbsp; ♡ 2.8K &nbsp; 📊 358K</p>
+<p><a href="https://x.com/miu21590/status/2101857866378362926">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/akshay_pachaar/status/2101937960925139417"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Open-Source Unified Interface Runs Multiple Agent Harnesses, Including Jev-Powered System One · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,19 @@
 <p>💬 67 &nbsp; 🔁 124 &nbsp; ♡ 872 &nbsp; 📊 110K</p>
 <p><a href="https://x.com/akshay_pachaar/status/2101937960925139417">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/designgurra/status/2102083411191959841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="JEV Enables Near-Instant UI Features · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/designgurra/status/2102083411191959841">JEV Enables Near-Instant UI Features</a></h3>
+<p>Gustav Ekerot shares that JEV is magical for near-instant UI features, with the video not sped up.</p>
+<p><strong>中文摘要：</strong>Gustav Ekerot 分享 JEV 在近乎即时的 UI 功能方面表现出色，视频未加速。</p>
+<p><strong>Gustav Ekerot</strong> · @designgurra · 2026-09-21</p>
+<p>💬 13 &nbsp; 🔁 10 &nbsp; ♡ 591 &nbsp; 📊 100K</p>
+<p><a href="https://x.com/designgurra/status/2102083411191959841">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/charliejhills/status/2101957500669169711"><img src="https://pbs.twimg.com/media/HSunLUUa8AAwXAL?format=jpg&amp;name=900x900" alt="A List of Popular Projects Built with the Jev API · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +55,54 @@
 <p><strong>Charlie Hills</strong> · @charliejhills · 2026-09-21</p>
 <p>💬 33 &nbsp; 🔁 74 &nbsp; ♡ 531 &nbsp; 📊 52K</p>
 <p><a href="https://x.com/charliejhills/status/2101957500669169711">在 X 查看原帖</a> · <a href="https://t.co/583tfOit70">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sarah_edo/status/2102025642862600634"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102025557969862656/pu/img/TDga5vamGpk6CRqZ.jpg" alt="Chrome side panel extension that drives any site&#39;s WebMCP tools with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sarah_edo/status/2102025642862600634">Chrome side panel extension that drives any site&#39;s WebMCP tools with Jev</a></h3>
+<p>Sarah Drasner released a small Chrome extension whose side panel uses Jev to drive any site&#39;s WebMCP tools. On each keystroke it picks the relevant page tool, fills in arguments, and reports its confidence, demonstrated with grocery shopping.</p>
+<p><strong>中文摘要：</strong>Sarah Drasner 发布了一个小型 Chrome 扩展，侧边栏使用 Jev 驱动任意网站的 WebMCP 工具。输入时每次按键都会选择相关页面工具、填充参数并给出置信度，演示了购物场景。</p>
+<p><strong>Sarah Drasner</strong> · @sarah_edo · 2026-09-21</p>
+<p>💬 34 &nbsp; 🔁 53 &nbsp; ♡ 749 &nbsp; 📊 46K</p>
+<p><a href="https://x.com/sarah_edo/status/2102025642862600634">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2102182335999332526"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Using Jev to Adjust GPT-6 Reasoning Effort, Cutting Astra Costs by 50% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2102182335999332526">Using Jev to Adjust GPT-6 Reasoning Effort, Cutting Astra Costs by 50%</a></h3>
+<p>Someone used Jev to adjust GPT-6&#39;s reasoning effort mid-task in Codex: more thinking when stuck, less for routine steps, cutting Astra costs by 50% without breaking prompt caching.</p>
+<p><strong>中文摘要：</strong>有人在 Codex 任务中途用 Jev 调整 GPT-6 的推理强度：卡住时多思考，常规步骤少思考，在不破坏提示缓存的情况下将 Astra 成本降低 50%。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 7 &nbsp; 🔁 2 &nbsp; ♡ 35 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2102182335999332526">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/motiondotdev/status/2102018545668272382"><img src="https://pbs.twimg.com/amplify_video_thumb/2102016311932964864/img/DnpupNIkzPEPePb-.jpg" alt="Motion Studio launches Ultramotion animation agent powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/motiondotdev/status/2102018545668272382">Motion Studio launches Ultramotion animation agent powered by Jev</a></h3>
+<p>Motion introduces Motion Studio with a visual editor and Ultramotion, an animation editing agent powered by TypeSafe AI&#39;s Jev, claiming at least 10x faster edits than code LLMs. Inspection and visual editing are free.</p>
+<p><strong>中文摘要：</strong>Motion 发布 Motion Studio，提供可视化编辑器，并推出由 TypeSafe AI 的 Jev 驱动的 Ultramotion 动画编辑智能体，宣称编辑速度比代码 LLM 快至少 10 倍；检查和可视化编辑免费。</p>
+<p><strong>Motion</strong> · @motiondotdev · 2026-09-21</p>
+<p>💬 9 &nbsp; 🔁 10 &nbsp; ♡ 290 &nbsp; 📊 23K</p>
+<p><a href="https://x.com/motiondotdev/status/2102018545668272382">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ctnicholasdev/status/2102070640589279318"><img src="https://pbs.twimg.com/amplify_video_thumb/2102070615926771715/img/PueMU1HUq0WB86ZG.jpg" alt="Open-source workflow builder for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ctnicholasdev/status/2102070640589279318">Open-source workflow builder for Jev</a></h3>
+<p>An open-source workflow builder that lets you classify inputs via UI (choices, scores, booleans), wire results into other prompts, and return custom outputs, with a support system example.</p>
+<p><strong>中文摘要：</strong>一个开源工作流构建器，可通过 UI 对输入进行分类（选项、分数、布尔值），将结果连接到其他提示，并返回自定义输出，示例为支持系统。</p>
+<p><strong>Chris Nicholas</strong> · @ctnicholasdev · 2026-09-21</p>
+<p>💬 14 &nbsp; 🔁 16 &nbsp; ♡ 277 &nbsp; 📊 14K</p>
+<p><a href="https://x.com/ctnicholasdev/status/2102070640589279318">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -1846,6 +1918,19 @@
 <p><a href="https://x.com/thekitze/status/2100873520951808403">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/yulmu_coffee/status/2100758788592857501"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Instantly Compress Claude Code Context Using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yulmu_coffee/status/2100758788592857501">Instantly Compress Claude Code Context Using Jev</a></h3>
+<p>Introduces fast-jev-compaction, a tool that uses Jev to compress Claude Code context from 1M to 86K in one second by deleting only tool calls, preserving file paths, error messages, and constraints.</p>
+<p><strong>中文摘要：</strong>介绍 fast-jev-compaction 工具，利用 Jev 将 Claude Code 上下文从 1M 压缩到 86K，仅删除工具调用，保留文件路径、错误信息和约束条件。</p>
+<p><strong>율무커피 YulmuCoffee</strong> · @yulmu_coffee · 2026-09-18</p>
+<p>💬 1 &nbsp; 🔁 24 &nbsp; ♡ 92 &nbsp; 📊 13K</p>
+<p><a href="https://x.com/yulmu_coffee/status/2100758788592857501">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/alexhooketh/status/2101033289003798967"><img src="https://pbs.twimg.com/amplify_video_thumb/2101022081810911232/img/3tKdQ3Y2_ZGSg3Q7.jpg" alt="Exploring Jev&#39;s Real-Time Generated UI Use Case · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -1856,8 +1941,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 598</p>
 <p><a href="https://x.com/alexhooketh/status/2101033289003798967">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarisFilius/status/2100894797997523400"><img src="https://pbs.twimg.com/media/HSfewh5bEAAD-UA?format=jpg&amp;name=medium" alt="Turning messy requests into usable judgments with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -1869,6 +1952,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 200</p>
 <p><a href="https://x.com/MarisFilius/status/2100894797997523400">在 X 查看原帖</a> · <a href="https://t.co/pbK4PF4yqk">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tin_nqn_/status/2101030999945580598"><img src="https://pbs.twimg.com/media/HShbn7PXgAAq8lq?format=png&amp;name=small" alt="sqlite-jev: Typed Jev Queries from SQL · 原帖图片" width="100%"></a>
 <br>
@@ -1880,8 +1965,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 141</p>
 <p><a href="https://x.com/tin_nqn_/status/2101030999945580598">在 X 查看原帖</a> · <a href="https://t.co/OswIryeA0N">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/solodev_jp/status/2100864805590663280"><img src="https://pbs.twimg.com/media/HSfFZ-0aAAAVBe6?format=jpg&amp;name=medium" alt="Jev hands-on: fast branching, but cost and dataset concerns · 原帖图片" width="100%"></a>
 <br>
@@ -1893,6 +1976,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 135</p>
 <p><a href="https://x.com/solodev_jp/status/2100864805590663280">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/esansalari/status/2101028925069508777"><img src="https://pbs.twimg.com/media/HShan4pWcAIHBoE?format=png&amp;name=medium" alt="Adversarially testing Intellexity&#39;s learner UI with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -1904,8 +1989,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 66</p>
 <p><a href="https://x.com/esansalari/status/2101028925069508777">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clduab11/status/2101058901521182735"><img src="https://pbs.twimg.com/media/HSh1l72aUAAJFNo?format=jpg&amp;name=large" alt="Developer praises Jev classifier for multi-model inference routing · 原帖图片" width="100%"></a>
 <br>
@@ -1917,6 +2000,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
 <p><a href="https://x.com/clduab11/status/2101058901521182735">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tamarajtran/status/2100694549362553153"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Instant Context Compaction with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -1928,8 +2013,6 @@
 <p>💬 404 &nbsp; 🔁 967 &nbsp; ♡ 11K &nbsp; 📊 3.6M</p>
 <p><a href="https://x.com/tamarajtran/status/2100694549362553153">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/redp314/status/2100585126652481915"><img src="https://pbs.twimg.com/amplify_video_thumb/2100585029533372416/img/ZcrsntW2yWgtB_HD.jpg" alt="Reviewing PRs with Jev: one call returns 14 typed checks · 原帖视频截图" width="100%"></a>
 <br>
@@ -1941,6 +2024,8 @@
 <p>💬 98 &nbsp; 🔁 190 &nbsp; ♡ 2.8K &nbsp; 📊 352K</p>
 <p><a href="https://x.com/redp314/status/2100585126652481915">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SUOHA_AI/status/2100628846240264348"><img src="https://pbs.twimg.com/amplify_video_thumb/2100628538793533440/img/UjeWs0lexdjznvu9.jpg" alt="Browser Use with JEV Shows Striking Speed · 原帖视频截图" width="100%"></a>
 <br>
@@ -1952,8 +2037,6 @@
 <p>💬 234 &nbsp; 🔁 281 &nbsp; ♡ 1.8K &nbsp; 📊 337K</p>
 <p><a href="https://x.com/SUOHA_AI/status/2100628846240264348">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/riku720720/status/2100716449568596261"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Jev Use Case: Scoring Tool Calls to Compact Sessions · 原帖视频截图" width="100%"></a>
 <br>
@@ -1965,6 +2048,8 @@
 <p>💬 14 &nbsp; 🔁 207 &nbsp; ♡ 2.2K &nbsp; 📊 264K</p>
 <p><a href="https://x.com/riku720720/status/2100716449568596261">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wmoto_ai/status/2100454049359577516"><img src="https://pbs.twimg.com/amplify_video_thumb/2100453978958118912/img/yOW2Lupx9RoG03zB.jpg" alt="Room for Speed Improvements in Local TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -1976,8 +2061,6 @@
 <p>💬 5 &nbsp; 🔁 57 &nbsp; ♡ 387 &nbsp; 📊 122K</p>
 <p><a href="https://x.com/wmoto_ai/status/2100454049359577516">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eve/status/2100430918762832180"><img src="https://pbs.twimg.com/media/HSY6yf5a8AA8NJi?format=jpg&amp;name=medium" alt="Ultra-fast criteria-based model routing with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -1989,6 +2072,8 @@
 <p>💬 18 &nbsp; 🔁 53 &nbsp; ♡ 910 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/eve/status/2100430918762832180">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ephraimduncan/status/2100454070536351824"><img src="https://pbs.twimg.com/amplify_video_thumb/2100454021852954624/img/hqULLONlXw40573G.jpg" alt="Building a Model Router with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -2000,8 +2085,6 @@
 <p>💬 83 &nbsp; 🔁 93 &nbsp; ♡ 1.9K &nbsp; 📊 112K</p>
 <p><a href="https://x.com/ephraimduncan/status/2100454070536351824">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/reczko_konrad/status/2100646448324833512"><img src="https://pbs.twimg.com/amplify_video_thumb/2100644432211062784/img/iduKHYZdESQ5FBR7.jpg" alt="TypeGPU + ruNNtime + Jev combo enables realtime local inference and rendering · 原帖视频截图" width="100%"></a>
 <br>
@@ -2013,6 +2096,8 @@
 <p>💬 34 &nbsp; 🔁 81 &nbsp; ♡ 699 &nbsp; 📊 88K</p>
 <p><a href="https://x.com/reczko_konrad/status/2100646448324833512">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/marcelpociot/status/2100520134481735729"><img src="https://pbs.twimg.com/amplify_video_thumb/2100519256425140224/img/-A44e4qCo8mVP8ws.jpg" alt="Building a Browser Extension with Jev to Hide X Posts via Natural Language · 原帖视频截图" width="100%"></a>
 <br>
@@ -2024,8 +2109,6 @@
 <p>💬 62 &nbsp; 🔁 59 &nbsp; ♡ 1.1K &nbsp; 📊 78K</p>
 <p><a href="https://x.com/marcelpociot/status/2100520134481735729">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2100546332314193996"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Building an LLM Auto-Router with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -2037,6 +2120,8 @@
 <p>💬 37 &nbsp; 🔁 14 &nbsp; ♡ 445 &nbsp; 📊 69K</p>
 <p><a href="https://x.com/airesearch12/status/2100546332314193996">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JonPTaylor/status/2100736122502390211"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735915203137536/img/WZcElA5yjCZdLpQZ.jpg" alt="TypeSafe Jev for Voice-Driven UI: Snappy and Responsive · 原帖视频截图" width="100%"></a>
 <br>
@@ -2048,8 +2133,6 @@
 <p>💬 18 &nbsp; 🔁 50 &nbsp; ♡ 475 &nbsp; 📊 46K</p>
 <p><a href="https://x.com/JonPTaylor/status/2100736122502390211">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/niazmorshed_/status/2100465662867218857"><img src="https://pbs.twimg.com/amplify_video_thumb/2100465308519759872/img/2uIG43VFGvWzku0s.jpg" alt="jev-review: A Local-First MCP Quality Scoring Plugin for Coding Agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -2061,6 +2144,8 @@
 <p>💬 27 &nbsp; 🔁 39 &nbsp; ♡ 493 &nbsp; 📊 46K</p>
 <p><a href="https://x.com/niazmorshed_/status/2100465662867218857">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thekitze/status/2100595129874817340"><img src="https://pbs.twimg.com/amplify_video_thumb/2100595059041370112/img/cyfF5qMMKBPQTMAG.jpg" alt="Unclutter: A Smart Ad + Slop Blocker with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -2072,8 +2157,6 @@
 <p>💬 54 &nbsp; 🔁 34 &nbsp; ♡ 680 &nbsp; 📊 35K</p>
 <p><a href="https://x.com/thekitze/status/2100595129874817340">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moritzkremb/status/2100566009312940457"><img src="https://pbs.twimg.com/amplify_video_thumb/2100565973376061440/img/jeTib61RNpwXn853.jpg" alt="Using Jev to Improve a Custom Memory System · 原帖视频截图" width="100%"></a>
 <br>
@@ -2085,6 +2168,8 @@
 <p>💬 16 &nbsp; 🔁 41 &nbsp; ♡ 477 &nbsp; 📊 32K</p>
 <p><a href="https://x.com/moritzkremb/status/2100566009312940457">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/grazymen/status/2100562589256151363"><img src="https://pbs.twimg.com/media/HSayfDcXIAABQ5g?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev Classification and Routing Model · 原帖图片" width="100%"></a>
 <br>
@@ -2096,8 +2181,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 59</p>
 <p><a href="https://x.com/grazymen/status/2100562589256151363">在 X 查看原帖</a> · <a href="https://t.co/1nvAu7N0ce">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jpschroeder/status/2100347770867458384"><img src="https://pbs.twimg.com/amplify_video_thumb/2100347372844756992/img/CaExDBw3MTf0ia58.jpg" alt="Rebuilding Tesla Full Self Driving with Jev in Under an Hour · 原帖视频截图" width="100%"></a>
 <br>
@@ -2109,6 +2192,8 @@
 <p>💬 218 &nbsp; 🔁 391 &nbsp; ♡ 4.7K &nbsp; 📊 673K</p>
 <p><a href="https://x.com/jpschroeder/status/2100347770867458384">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Neriousy/status/2100287208166969746"><img src="https://pbs.twimg.com/amplify_video_thumb/2100286679386873857/img/vlw6EBlSVZ9uAoHc.jpg" alt="Testing apps with TypeSafe Jev &amp; OpenCode · 原帖视频截图" width="100%"></a>
 <br>
@@ -2120,8 +2205,6 @@
 <p>💬 53 &nbsp; 🔁 86 &nbsp; ♡ 1.3K &nbsp; 📊 540K</p>
 <p><a href="https://x.com/Neriousy/status/2100287208166969746">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Yuchenj_UW/status/2100073397741134258"><img src="https://pbs.twimg.com/media/HST1HxRbAAAERtS?format=jpg&amp;name=medium" alt="Jev Enables LLM-as-a-Judge at 20–200x Speed and 40–400x Lower Cost · 原帖图片" width="100%"></a>
 <br>
@@ -2133,6 +2216,8 @@
 <p>💬 94 &nbsp; 🔁 109 &nbsp; ♡ 2.1K &nbsp; 📊 394K</p>
 <p><a href="https://x.com/Yuchenj_UW/status/2100073397741134258">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thdxr/status/2100288951978164647"><img src="https://pbs.twimg.com/amplify_video_thumb/2100286679386873857/img/vlw6EBlSVZ9uAoHc.jpg" alt="Preview of Browser Use Speed Powered by TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -2144,8 +2229,6 @@
 <p>💬 95 &nbsp; 🔁 126 &nbsp; ♡ 3.7K &nbsp; 📊 361K</p>
 <p><a href="https://x.com/thdxr/status/2100288951978164647">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mdlahfir/status/2100314182201802811"><img src="https://pbs.twimg.com/amplify_video_thumb/2100314084990414848/img/iePXR9Edae7YVCT_.jpg" alt="Jev solves local harness and model routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -2157,6 +2240,8 @@
 <p>💬 34 &nbsp; 🔁 70 &nbsp; ♡ 836 &nbsp; 📊 127K</p>
 <p><a href="https://x.com/mdlahfir/status/2100314182201802811">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ryanvogel/status/2100068006592123055"><img src="https://pbs.twimg.com/amplify_video_thumb/2100067392223076352/img/BqXd-11SCr3_ff8q.jpg" alt="Building a Codebase Classifier with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -2168,8 +2253,6 @@
 <p>💬 52 &nbsp; 🔁 64 &nbsp; ♡ 1.2K &nbsp; 📊 97K</p>
 <p><a href="https://x.com/ryanvogel/status/2100068006592123055">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aisdk/status/2100371570871185745"><img src="https://pbs.twimg.com/media/HSYEz_XaAAAJKb7?format=jpg&amp;name=medium" alt="AI SDK Adds evaluate Method for TypeSafe&#39;s Latest Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -2181,6 +2264,5 @@
 <p>💬 15 &nbsp; 🔁 54 &nbsp; ♡ 788 &nbsp; 📊 73K</p>
 <p><a href="https://x.com/aisdk/status/2100371570871185745">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

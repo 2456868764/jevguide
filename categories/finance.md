@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 73 | 45 | 29 | 1.2M |
+| 75 | 47 | 29 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ethank_6/status/2102069493510090838"><img src="https://pbs.twimg.com/amplify_video_thumb/2102069481199816704/img/_i43ESHfZ_Ebu0lU.jpg" alt="Jev Predicts NFL Games for 44% Profit · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ethank_6/status/2102069493510090838">Jev Predicts NFL Games for 44% Profit</a></h3>
+<p>A user used Jev to predict Sunday NFL games, fed fresh context via p0 search, compared win estimates on Robinhood, and sized bets with the Kelly criterion, risking $67.14 for a $97 payout and 44% profit.</p>
+<p><strong>中文摘要：</strong>用户使用 Jev 预测周日 NFL 比赛，通过 p0 搜索获取最新信息，在 Robinhood 上比较胜率估计，并使用凯利准则确定投注规模，最终以 67.14 美元风险获得 97 美元回报，利润 44%。</p>
+<p><strong>Ethan Kam</strong> · @ethank_6 · 2026-09-21</p>
+<p>💬 46 &nbsp; 🔁 17 &nbsp; ♡ 692 &nbsp; 📊 98K</p>
+<p><a href="https://x.com/ethank_6/status/2102069493510090838">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2101850147378376897"><img src="https://pbs.twimg.com/amplify_video_thumb/2101810054655549441/img/HRpYCRY0cOR_O9Em.jpg" alt="Open-Source Jev Trading Bot jev-trader: Buy/Sell Signals in 81ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2101850147378376897">Open-Source Jev Trading Bot jev-trader: Buy/Sell Signals in 81ms</a></h3>
+<p>jev-trader is an open-source 24/7 trading bot built with Jev that answers buy or sell on every block with calibrated probabilities in 81 milliseconds, offering a low-latency codebase you can clone instead of building from scratch.</p>
+<p><strong>中文摘要：</strong>jev-trader 是一个基于 Jev 的全天候开源交易机器人，能在每个区块以 81 毫秒给出校准概率的买卖判断，并提供可直接克隆的低延迟代码库，无需从零构建。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 19 &nbsp; 🔁 33 &nbsp; ♡ 290 &nbsp; 📊 70K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2101850147378376897">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_xiaomu/status/2101946636658442690"><img src="https://pbs.twimg.com/amplify_video_thumb/2101946443183562752/img/gMXG3RMID4SIyqC8.jpg" alt="If Jev Gets $10,000 to Trade Stocks, How Much Will It End Up With? · 原帖视频截图" width="100%"></a>

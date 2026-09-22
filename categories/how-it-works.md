@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 181 | 91 | 90 | 1.6M |
+| 183 | 93 | 90 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/latentspacepod/status/2102159548366881196"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev and the System One Model: RLCD, Intelligence/$ and Reliable AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/latentspacepod/status/2102159548366881196">Jev and the System One Model: RLCD, Intelligence/$ and Reliable AI</a></h3>
+<p>Latent.Space podcast discusses Jev and the System One model, covering RLCD, intelligence/$, reliable AI, and the end of chat-first AI, with the TypeSafe AI CEO explaining why AI solves extraordinarily hard problems yet fails to automate basic work.</p>
+<p><strong>中文摘要：</strong>Latent.Space 播客讨论 Jev 与 System One 模型，涵盖 RLCD、智能/美元、可靠 AI 以及聊天优先 AI 的终结，TypeSafe AI CEO 解释为何 AI 能解决极难问题却无法自动化基础工作。</p>
+<p><strong>Latent.Space</strong> · @latentspacepod · 2026-09-21</p>
+<p>💬 16 &nbsp; 🔁 36 &nbsp; ♡ 127 &nbsp; 📊 57K</p>
+<p><a href="https://x.com/latentspacepod/status/2102159548366881196">在 X 查看原帖</a> · <a href="https://t.co/Ki4vHeOiQe">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/daniel_mac8/status/2102140412647321802"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Codex Adaptive Reasoning Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/daniel_mac8/status/2102140412647321802">Codex Adaptive Reasoning Powered by Jev</a></h3>
+<p>The post says Codex adaptive reasoning adjusts reasoning effort mid-chain-of-thought based on task difficulty, powered by Jev from @miu21590.</p>
+<p><strong>中文摘要：</strong>帖子称 Codex 的自适应推理能根据任务难度在思维链中途调整推理努力，并由 @miu21590 的 Jev 提供支持。</p>
+<p><strong>Dan McAteer</strong> · @daniel_mac8 · 2026-09-21</p>
+<p>💬 23 &nbsp; 🔁 12 &nbsp; ♡ 271 &nbsp; 📊 26K</p>
+<p><a href="https://x.com/daniel_mac8/status/2102140412647321802">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shi3z/status/2101895864163909779"><img src="https://pbs.twimg.com/media/HStvFVpbMAApk59?format=jpg&amp;name=medium" alt="Skepticism over DeepSeek V4.1&#39;s 48x speedup on Jev · 原帖图片" width="100%"></a>

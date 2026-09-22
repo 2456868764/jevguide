@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 8 | 3 | 5 | 4.3K |
+| 9 | 3 | 6 | 4.3K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/meneskeles/status/2102156897553948733"><img src="https://pbs.twimg.com/media/HSxcdOBWoAAkHbx?format=jpg&amp;name=medium" alt="Website Uses Jev Model to Analyze Whether Tweets Count as Insults · 原帖图片" width="100%"></a>
+<br>
+<sub><code>法律合规</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/meneskeles/status/2102156897553948733">Website Uses Jev Model to Analyze Whether Tweets Count as Insults</a></h3>
+<p>The author built hakaretolcer.com, which uses the Jev AI model to analyze whether tweet text could be considered an insult, helping users avoid risk before posting aggressive tweets.</p>
+<p><strong>中文摘要：</strong>作者搭建了 hakaretolcer.com，利用 Jev 人工智能模型分析推文文本是否可能被认定为侮辱，帮助用户在发布激进推文前规避风险。</p>
+<p><strong>enes</strong> · @meneskeles · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/meneskeles/status/2102156897553948733">在 X 查看原帖</a> · <a href="https://t.co/1AcdbCnMPJ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/kis/status/2101649840967168144"><img src="https://pbs.twimg.com/media/HSqO0gAaoAAQSID?format=png&amp;name=small" alt="TypeSafe AI Terms Prohibit Distillation, Caution Advised for Jev Use · 原帖图片" width="100%"></a>
 <br>
 <sub><code>法律合规</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 4.3K</p>
 <p><a href="https://x.com/kis/status/2101649840967168144">在 X 查看原帖</a> · <a href="https://t.co/Tr3z4D58Ky">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/orz99/status/2100794526575280274"><img src="https://pbs.twimg.com/media/HSeFdOPbgAAuQPD?format=jpg&amp;name=medium" alt="Jev completes Traditional Chinese traffic-accident legal analysis in one API call · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
 <p><a href="https://x.com/orz99/status/2100794526575280274">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/truevis/status/2100904915690471473"><img src="https://pbs.twimg.com/media/HSfoQ3sawAEBb_0?format=png&amp;name=medium" alt="Building a Legal Chatbot Database Router with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/truevis/status/2100904915690471473">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/____NanaKong/status/2100691683071443024"><img src="https://pbs.twimg.com/amplify_video_thumb/2100676124544290816/img/gglnVPdOvZOY65g_.jpg" alt="Jev Combined with Legal Workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,5 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/____NanaKong/status/2100691683071443024">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

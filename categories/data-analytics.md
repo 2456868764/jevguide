@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 50 | 27 | 23 | 392K |
+| 54 | 30 | 24 | 392K |
 
 ## Showcase 卡片
 
@@ -118,6 +118,19 @@
 <p><a href="https://x.com/verysmallwoods/status/2102183268137206157">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2102158194235838589"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148073229074432/img/Z4d57i87ku5Nw-aj.jpg" alt="Jev Open Access Test: 900 Decisions Graded by Opus 5 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2102158194235838589">Jev Open Access Test: 900 Decisions Graded by Opus 5</a></h3>
+<p>The author ran 9 decisions on each of 300 public web pages for 2 cents total, then had Opus 5 grade all 900: 85.8/100 overall agreement, rising to 98/100 when Jev is confident, with open source and a side-by-side video.</p>
+<p><strong>中文摘要：</strong>作者用开放访问对 300 个公开网页各做 9 个决策，总成本 2 美分，再由 Opus 5 对 900 条结果评分：整体 85.8/100 一致，Jev 确信时达 98/100，并附开源与并排视频。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 400</p>
+<p><a href="https://x.com/stas_sorokin_/status/2102158194235838589">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kinari_kuramoto/status/2101937847674835406"><img src="https://pbs.twimg.com/amplify_video_thumb/2101936852605571073/img/MU9IDAbDE7oNXAik.jpg" alt="Using Jev in Google Sheets for Form Survey Analysis · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖视频</code></sub>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 332</p>
 <p><a href="https://x.com/kinari_kuramoto/status/2101937847674835406">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OKtamajun/status/2102064393899188433"><img src="https://pbs.twimg.com/amplify_video_thumb/2102064357840707585/img/Bu_YefoSsiA5lfeZ.jpg" alt="Experiment: Using Jev Judgments to Compress Text and Cut LLM Redundancy · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 173</p>
 <p><a href="https://x.com/OKtamajun/status/2102064393899188433">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kunal_twts/status/2101896661773754458"><img src="https://pbs.twimg.com/media/HStv3uQa0AASNtH?format=jpg&amp;name=medium" alt="Using Jev to Analyze Thousands of SEO/GEO Signals · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
 <p><a href="https://x.com/kunal_twts/status/2101896661773754458">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Marc__Watkins/status/2102168418845593686"><img src="https://pbs.twimg.com/amplify_video_thumb/2102168226259992576/img/BKNcwnQ_fE4OPEiQ.jpg" alt="Structuring Consumer Complaint Data with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 124</p>
 <p><a href="https://x.com/Marc__Watkins/status/2102168418845593686">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/flock_io/status/2101942693618156026"><img src="https://pbs.twimg.com/media/HSuZuy4aoAEXDg-?format=jpg&amp;name=medium" alt="FLock Benchmark: THIS/THAT Model 94.1% vs Jev Hosted System One 76.5% · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 78</p>
 <p><a href="https://x.com/flock_io/status/2101942693618156026">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chokudai/status/2102001298858234291"><img src="https://pbs.twimg.com/media/HSvOkG8bsAA2m63?format=png&amp;name=medium" alt="Building an AtCoder Difficulty Predictor with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/chokudai/status/2102001298858234291">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/flock_io_korea/status/2102012316376285200"><img src="https://pbs.twimg.com/media/HSvZCUhbcAAkyQW?format=jpg&amp;name=medium" alt="Third-Party Test Compares FLock Models and Jev System One Accuracy · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/flock_io_korea/status/2102012316376285200">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/01Mukesh29/status/2101982843023020294"><img src="https://pbs.twimg.com/media/HSu-PDfbYAA129-?format=jpg&amp;name=medium" alt="Screening 1,000 Resumes with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
 <p><a href="https://x.com/01Mukesh29/status/2101982843023020294">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yonyoniz/status/2101943752759607459"><img src="https://pbs.twimg.com/media/HSuaN4cW0AACTSE?format=jpg&amp;name=medium" alt="Jev labeling and multi-model comparison practice · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/yonyoniz/status/2101943752759607459">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/USPraveenRaj1/status/2101901177151521063"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev Benchmarks: Accuracy vs. Calibration Evaluation · 原帖视频截图" width="100%"></a>
 <br>
@@ -236,6 +247,19 @@
 <p><strong>Praveen Sundar</strong> · @USPraveenRaj1 · 2026-09-21</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/USPraveenRaj1/status/2101901177151521063">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2102155296756146402"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148073229074432/img/Z4d57i87ku5Nw-aj.jpg" alt="Evaluating Jev Decision Confidence: Misses Cluster at Low Probability · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2102155296756146402">Evaluating Jev Decision Confidence: Misses Cluster at Low Probability</a></h3>
+<p>User shares Jev run data: 300 web pages, 9 decisions each, 2 cents; Opus 5 graded 900 decisions and nearly every miss occurred where Jev itself reported low probability, so only doubtful cases need review.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 运行数据：300 个网页、每个 9 个决策、成本 2 美分；Opus 5 对 900 个决策评分，失误几乎都出现在 Jev 自身报告低概率的位置，因此只需复核存疑部分。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/stas_sorokin_/status/2102155296756146402">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/itzKashan2912/status/2102169255341171132"><img src="https://pbs.twimg.com/amplify_video_thumb/2102169138940796928/img/r7CEu1B09R5BBNw_.jpg" alt="Realtime Event Dashboard Powered by Jev · 原帖视频截图" width="100%"></a>
@@ -262,6 +286,19 @@
 <p><a href="https://x.com/stas_sorokin_/status/2102169396634435677">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2102157244640960620"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148073229074432/img/Z4d57i87ku5Nw-aj.jpg" alt="Jev Web Page Classification: 300 Pages, 7 Types, 88% Match with Opus 5 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2102157244640960620">Jev Web Page Classification: 300 Pages, 7 Types, 88% Match with Opus 5</a></h3>
+<p>Jev classified 300 web pages into 7 page types, with 88 matching Opus 5 results, at 61 ms per page, and a side-by-side replay of both models is provided.</p>
+<p><strong>中文摘要：</strong>Jev 将 300 个网页分类为 7 种页面类型，其中 88 个与 Opus 5 结果匹配，每页耗时 61 毫秒，并提供了两个模型的并排回放。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/stas_sorokin_/status/2102157244640960620">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/umezawakanta13/status/2102008904842658002"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008859116388352/img/JPN-9Xe4xNX_ImcW.jpg" alt="Additional Jev HTTP Round-Trip Latency Measurements · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>数据分析</code> <code>原帖视频</code></sub>
@@ -271,6 +308,17 @@
 <p><strong>梅澤 寛太｜Web・業務システム開発</strong> · @umezawakanta13 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/umezawakanta13/status/2102008904842658002">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gaucho_booleano/status/2102158984996098512"><img src="https://pbs.twimg.com/media/HSxeRlJXEAABLRy?format=jpg&amp;name=medium" alt="Benchmarking TypeSafe AI&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gaucho_booleano/status/2102158984996098512">Benchmarking TypeSafe AI&#39;s Jev</a></h3>
+<p>The author benchmarks TypeSafe AI&#39;s Jev against the best cost-speed architecture they ever conceived and what they currently use in production.</p>
+<p><strong>中文摘要：</strong>作者对 TypeSafe AI 的 Jev 进行基准测试，并与团队有史以来最佳成本-速度架构及当前生产环境所用方案进行对比。</p>
+<p><strong>Martin</strong> · @gaucho_booleano · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/gaucho_booleano/status/2102158984996098512">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

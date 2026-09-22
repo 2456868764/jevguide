@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 238 | 98 | 140 | 802K |
+| 240 | 98 | 142 | 802K |
 
 ## Showcase 卡片
 
@@ -766,6 +766,19 @@
 <p><a href="https://x.com/BrainRevApp/status/2102175164561821941">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nik_hoelti/status/2102159169750978759"><img src="https://pbs.twimg.com/media/HSxdvuUXMAAFypm?format=jpg&amp;name=medium" alt="Adding Jev as a Tool Call to a Chat App · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nik_hoelti/status/2102159169750978759">Adding Jev as a Tool Call to a Chat App</a></h3>
+<p>A developer shares an initial attempt to integrate Jev as a tool call into a chat app.</p>
+<p><strong>中文摘要：</strong>开发者分享将 Jev 作为工具调用集成到聊天应用的初步尝试。</p>
+<p><strong>Niklas</strong> · @nik_hoelti · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
+<p><a href="https://x.com/nik_hoelti/status/2102159169750978759">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/SarthiB7/status/2102009257642090580"><img src="https://pbs.twimg.com/media/HSvWRkJXcAA6LMM?format=jpg&amp;name=medium" alt="Adding Jev 1.13 to Citadel Knowledge Base · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -776,8 +789,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 44</p>
 <p><a href="https://x.com/SarthiB7/status/2102009257642090580">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ipenywis/status/2102172123124928924"><img src="https://pbs.twimg.com/amplify_video_thumb/2102167028995960832/img/Hqf-c0Dkf63HGi76.jpg" alt="Jev Overtaken by Open-Source Rival Laya Six Days After Launch · 原帖视频截图" width="100%"></a>
 <br>
@@ -789,6 +800,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/Ipenywis/status/2102172123124928924">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hideki_climax/status/2102013894562906515"><img src="https://pbs.twimg.com/media/HSvabZqasAETqgS?format=jpg&amp;name=medium" alt="Jev offers $5 starting credit, usable via API · 原帖图片" width="100%"></a>
 <br>
@@ -800,8 +813,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/hideki_climax/status/2102013894562906515">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arashrabani/status/2101940808421122231"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Chinese JEV competitor claims 50x speed · 原帖视频截图" width="100%"></a>
 <br>
@@ -813,6 +824,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 37</p>
 <p><a href="https://x.com/arashrabani/status/2101940808421122231">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/semilirBayu/status/2101949904440684819"><img src="https://pbs.twimg.com/media/HSugSaWbYAA2pP-?format=png&amp;name=medium" alt="Users rush to try Jev, TypeSafe console hit errors · 原帖图片" width="100%"></a>
 <br>
@@ -824,8 +837,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/semilirBayu/status/2101949904440684819">在 X 查看原帖</a> · <a href="https://t.co/phl41Q1ozw">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MaxshotAI/status/2101947589537202495"><img src="https://pbs.twimg.com/media/HSuaNoIbQAA7ZRt?format=jpg&amp;name=medium" alt="Maxshot Tests TypeSafe&#39;s Jev Decision Model on Gateway: Over 5× Faster Than Others · 原帖图片" width="100%"></a>
 <br>
@@ -837,6 +848,8 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 33</p>
 <p><a href="https://x.com/MaxshotAI/status/2101947589537202495">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/traviscurnutte/status/2101997341595115850"><img src="https://pbs.twimg.com/media/HSvLcTQXIAAHF5l?format=jpg&amp;name=medium" alt="Travis to Spend the Day Exploring TypeSafe AI&#39;s Jev · 原帖图片" width="100%"></a>
 <br>
@@ -848,8 +861,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/traviscurnutte/status/2101997341595115850">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIForPeople/status/2102179407636971892"><img src="https://pbs.twimg.com/media/HSxxB44WkAE1tyd?format=jpg&amp;name=medium" alt="TypeSafe Jev sees rapid adoption by Vercel teams · 原帖图片" width="100%"></a>
 <br>
@@ -861,6 +872,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/AIForPeople/status/2102179407636971892">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gercorzo/status/2102184652198826016"><img src="https://pbs.twimg.com/media/HSx0J9tWIAAH30C?format=jpg&amp;name=medium" alt="Jev AI&#39;s System One Model Now in Made OS · 原帖图片" width="100%"></a>
 <br>
@@ -872,8 +885,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/gercorzo/status/2102184652198826016">在 X 查看原帖</a> · <a href="https://t.co/G6TEIsxfwv">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JustSurajan/status/2101897312230597065"><img src="https://pbs.twimg.com/media/HStwb0caoAA8W6C?format=jpg&amp;name=medium" alt="JEV&#39;s virality compared to OpenClaw · 原帖图片" width="100%"></a>
 <br>
@@ -885,6 +896,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/JustSurajan/status/2101897312230597065">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Road2Coder/status/2101946154602660073"><img src="https://pbs.twimg.com/amplify_video_thumb/2101782135715627008/img/8pElspXHeksEvHuZ.jpg" alt="Open-source alternative to Jev emerges, Laya seen as its generalization · 原帖视频截图" width="100%"></a>
 <br>
@@ -896,8 +909,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/Road2Coder/status/2101946154602660073">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GeekCatX/status/2101966647263445227"><img src="https://pbs.twimg.com/media/HSuvITga8AEGZ3V?format=jpg&amp;name=medium" alt="Jev Opens Access Without Queue, Server Load Spikes · 原帖图片" width="100%"></a>
 <br>
@@ -909,6 +920,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/GeekCatX/status/2101966647263445227">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anurag_s_b/status/2101937301626765796"><img src="https://pbs.twimg.com/media/HSuUp3EaoAAW41h?format=png&amp;name=small" alt="Jev Model Currently Closed-Source, Fine-Tuning May Come Later · 原帖图片" width="100%"></a>
 <br>
@@ -920,8 +933,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/anurag_s_b/status/2101937301626765796">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MichaelKaiserAI/status/2101952013185507490"><img src="https://pbs.twimg.com/media/HSuiMaFWYAAf6aL?format=jpg&amp;name=medium" alt="Jev API Console Is Down · 原帖图片" width="100%"></a>
 <br>
@@ -932,6 +943,19 @@
 <p><strong>Michael Kaiser</strong> · @MichaelKaiserAI · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/MichaelKaiserAI/status/2101952013185507490">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/xinqiyang/status/2102154816357376460"><img src="https://pbs.twimg.com/media/HSxaqhZbQAA0JxZ?format=jpg&amp;name=medium" alt="Jev API Pricing: $0.042 per Million Input Tokens, Output Free · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xinqiyang/status/2102154816357376460">Jev API Pricing: $0.042 per Million Input Tokens, Output Free</a></h3>
+<p>The post shares Jev&#39;s current official pricing: $0.042 per million input tokens with free output, notes that tokens measure model text usage and do not directly equal Chinese character counts, and calls the price affordable for quick-judgment niche use cases.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 官方当前定价：输入每百万 token 0.042 美元，输出免费，并说明 token 是模型计量文本用量的单位，不直接等于汉字数，认为价格亲民且适合快速判断类细分场景。</p>
+<p><strong>大楊Jonathan</strong> · @xinqiyang · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/xinqiyang/status/2102154816357376460">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/zeetakou/status/2101945022782284192"><img src="https://pbs.twimg.com/amplify_video_thumb/2101930224544104448/img/KJiNk6RfkI8mPRNs.jpg" alt="Integrating Jev into a GPT Live API Telemarketing AI · 原帖视频截图" width="100%"></a>

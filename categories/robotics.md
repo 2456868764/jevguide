@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 27 | 22 | 5 | 205K |
+| 29 | 24 | 5 | 205K |
 
 ## Showcase 卡片
 
@@ -55,6 +55,30 @@
 <p><strong>Mahmoud</strong> · @MKhordoo · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/MKhordoo/status/2102196607232139411">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/npceo_/status/2102154533971677481"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153758243495937/img/rYDhh2iFvXpWB9ZA.jpg" alt="Jev Attempts Autonomous Driving with World Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/npceo_/status/2102154533971677481">Jev Attempts Autonomous Driving with World Model</a></h3>
+<p>The author gave Jev access to an unreleased world model and a local segmentation model to test autonomous driving despite being unable to see, with results resembling Crazy Taxi but surprisingly functional.</p>
+<p><strong>中文摘要：</strong>作者让 Jev 接入未发布的世界模型和本地分割模型，测试其能否在无法看见的情况下自动驾驶，结果类似《疯狂出租车》但令人惊讶地可行。</p>
+<p><strong>Harvey Michael Pratt</strong> · @npceo_ · 2026-09-21</p>
+<p>💬 15 &nbsp; 🔁 13 &nbsp; ♡ 105 &nbsp; 📊 18K</p>
+<p><a href="https://x.com/npceo_/status/2102154533971677481">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rodenlab/status/2102154848053432443"><img src="https://pbs.twimg.com/amplify_video_thumb/2102154117082734592/img/McNrTg7kpZShzeiX.jpg" alt="Jev Powers Bio-Inspired Robot: Neural Activity to Rapid Decisions and Movement · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rodenlab/status/2102154848053432443">Jev Powers Bio-Inspired Robot: Neural Activity to Rapid Decisions and Movement</a></h3>
+<p>Robert connected Jev to a bio-inspired robot running on a simulated nervous system: neural activity feeds into Jev, Jev makes a rapid decision, and that decision becomes physical movement.</p>
+<p><strong>中文摘要：</strong>Robert 将 Jev 连接到运行模拟神经系统的仿生机器人：神经活动输入 Jev，Jev 快速决策，决策转化为物理运动。</p>
+<p><strong>Robert</strong> · @rodenlab · 2026-09-21</p>
+<p>💬 10 &nbsp; 🔁 6 &nbsp; ♡ 16 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/rodenlab/status/2102154848053432443">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

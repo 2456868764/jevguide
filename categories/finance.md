@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 95 | 53 | 43 | 1.2M |
+| 97 | 55 | 43 | 1.2M |
 
 ## Showcase 卡片
 
@@ -238,6 +238,19 @@
 <p><a href="https://x.com/51bodila/status/2102168924217397381">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nonepcbl/status/2102159881146949733"><img src="https://pbs.twimg.com/amplify_video_thumb/2102159693699289088/img/705DbHAL9RAQFRGY.jpg" alt="Jev-powered trading bot made $120k in a few days · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nonepcbl/status/2102159881146949733">Jev-powered trading bot made $120k in a few days</a></h3>
+<p>A post claims a Jev-powered trading bot made $120k in a few days, noting its decision-making AI can&#39;t write a single sentence, while people spend years preparing for seats at Jane Street, Citadel, and similar firms.</p>
+<p><strong>中文摘要：</strong>一则帖子称，由 Jev 驱动的交易机器人几天内盈利 12 万美元，并指出其决策 AI 甚至无法写出一个完整句子，同时提及人们为进入 Jane Street、Citadel 等公司多年准备。</p>
+<p><strong>nOnEpcbl.</strong> · @nonepcbl · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 416</p>
+<p><a href="https://x.com/nonepcbl/status/2102159881146949733">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/DailyAITracker/status/2101897628510494812"><img src="https://pbs.twimg.com/amplify_video_thumb/2101897601314603008/img/d-w8O0OPcC3JpIc9.jpg" alt="Building an Autonomous Trading Bot with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
 <p><a href="https://x.com/DailyAITracker/status/2101897628510494812">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BrendanPlayford/status/2101904912150098081"><img src="https://pbs.twimg.com/media/HSt1z_Ga0AAheJZ?format=jpg&amp;name=medium" alt="Testing 500+ Trading Strategies with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 290</p>
 <p><a href="https://x.com/BrendanPlayford/status/2101904912150098081">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2101907127543718196"><img src="https://pbs.twimg.com/media/HSt4ix5bcAA23CY?format=jpg&amp;name=medium" alt="Building a Trading Router with Jev and Polymarket · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 280</p>
 <p><a href="https://x.com/RitOnchain/status/2101907127543718196">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DegenAI_0x/status/2102161411895914621"><img src="https://pbs.twimg.com/media/HSxf1LVXAAAuu3G?format=png&amp;name=small" alt="Jev model trading comparison: 633 checks on Hyperliquid candles · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 201</p>
 <p><a href="https://x.com/DegenAI_0x/status/2102161411895914621">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alejandrofanjul/status/2101997196652548573"><img src="https://pbs.twimg.com/media/HSvLD94WwAAsyrE?format=jpg&amp;name=medium" alt="Jev wins 19 of 20 decision tasks in invoicing SaaS · 原帖图片" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 198</p>
 <p><a href="https://x.com/alejandrofanjul/status/2101997196652548573">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mk1quant/status/2101915116048355435"><img src="https://pbs.twimg.com/media/HSt-LoUWQAArGAx?format=jpg&amp;name=medium" alt="JevDex: Connecting JEV to a Token&#39;s Fee Flow for Real-Time Monitoring · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 163</p>
 <p><a href="https://x.com/mk1quant/status/2101915116048355435">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KanaWorks_AI/status/2101904819963498934"><img src="https://pbs.twimg.com/amplify_video_thumb/2101903828388106240/img/f7PqZNLe5KVUS9cG.jpg" alt="JEV Runs 2,015 FX Trades: Fast Decisions but Account Down 3.8% · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 135</p>
 <p><a href="https://x.com/KanaWorks_AI/status/2101904819963498934">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyberbulk911/status/2101966286670700995"><img src="https://pbs.twimg.com/amplify_video_thumb/2101018477087592448/img/9YlAHKLLo_h6rgtK.jpg" alt="ArbiStocks: TypeSafe AI&#39;s First Product Launches · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
 <p><a href="https://x.com/cyberbulk911/status/2101966286670700995">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polymorfaisal/status/2102164817251574089"><img src="https://pbs.twimg.com/media/HSxjOE9asAArJf2?format=jpg&amp;name=medium" alt="Questioning Jev&#39;s 16,000% Daily Return: Scam or Paper Trading? · 原帖图片" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
 <p><a href="https://x.com/polymorfaisal/status/2102164817251574089">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/suganthan/status/2101905249590239415"><img src="https://pbs.twimg.com/media/HSt3rpBbUAAM11r?format=jpg&amp;name=medium" alt="Putting $100 into a Jev account: a &#39;generational wealth&#39; joke · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
 <p><a href="https://x.com/suganthan/status/2101905249590239415">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/n8mirai/status/2102181854472261893"><img src="https://pbs.twimg.com/amplify_video_thumb/2102180684471177216/img/eT7nRSaoEYrrR2Pm.jpg" alt="TypeSafe Jev Simulates Money Management: 28 Days of Live Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 58</p>
 <p><a href="https://x.com/n8mirai/status/2102181854472261893">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VaibhavSisinty/status/2101951615767068900"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Autonomous trading bot built with Jev loses $31,680 in one evening · 原帖视频截图" width="100%"></a>
 <br>
@@ -380,6 +391,19 @@
 <p><strong>Vaibhav Sisinty</strong> · @VaibhavSisinty · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/VaibhavSisinty/status/2101951615767068900">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gaucho_booleano/status/2102158755672842291"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158577511071744/img/m7DG0Sqe0pxTHVdg.jpg" alt="TypeSafe Jev vs GPT-4o-mini on expense categorization · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gaucho_booleano/status/2102158755672842291">TypeSafe Jev vs GPT-4o-mini on expense categorization</a></h3>
+<p>A user reports that TypeSafe&#39;s Jev is faster than GPT-4o-mini on 250 real expense categorization tasks, and on 3,600 expenses cites higher accuracy, ~9x speed and ~7x cost advantage, noting they are testing it.</p>
+<p><strong>中文摘要：</strong>用户分享在 250 条真实费用分类任务中，TypeSafe 的 Jev 比 GPT-4o-mini 更快；在 3600 条费用上报告更高准确率、约 9 倍速度和约 7 倍成本优势，并表示正在试用。</p>
+<p><strong>Martin</strong> · @gaucho_booleano · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/gaucho_booleano/status/2102158755672842291">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/vwapster/status/2101899380907299259"><img src="https://pbs.twimg.com/media/HStyWHDW0AARHqk?format=jpg&amp;name=medium" alt="Jev and Laya Seen as Missing Pieces for Algorithmic Trading · 原帖图片" width="100%"></a>

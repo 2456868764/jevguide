@@ -102,6 +102,7 @@
 - [attrip](../authors/attrip.md) — 2
 - [backchannel](../authors/backchannel.md) — 2
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
+- [BLUECOW009](../authors/bluecow009.md) — 2
 - [Charlie Hills](../authors/charlie-hills.md) — 2
 - [Cheryl A](../authors/cheryl-a.md) — 2
 - [Chesny](../authors/chesny.md) — 2
@@ -277,6 +278,7 @@
 - [AGIラボ](../authors/agi.md) — 1
 - [Agroconceptos 🇦🇷](../authors/agroconceptos.md) — 1
 - [AGTP](../authors/agtp.md) — 1
+- [Agushoma](../authors/agushoma.md) — 1
 - [AI Builder Club](../authors/ai-builder-club.md) — 1
 - [AI Edge](../authors/ai-edge.md) — 1
 - [AI Insider](../authors/ai-insider.md) — 1
@@ -286,6 +288,7 @@
 - [AI TREND Café](../authors/ai-trend-cafe.md) — 1
 - [AI_GOAT](../authors/ai-goat.md) — 1
 - [AI/ML API](../authors/ai-ml-api.md) — 1
+- [AIForPeople](../authors/aiforpeople.md) — 1
 - [AINZX](../authors/ainzx.md) — 1
 - [AIPOCH](../authors/aipoch.md) — 1
 - [Aircle｜AIコミュニティ](../authors/aircle-ai.md) — 1
@@ -313,6 +316,7 @@
 - [Alex Hook](../authors/alex-hook.md) — 1
 - [Alexy B](../authors/alexy-b.md) — 1
 - [ali](../authors/ali.md) — 1
+- [Ali Rivera](../authors/ali-rivera.md) — 1
 - [Alisina](../authors/alisina.md) — 1
 - [Alisson](../authors/alisson.md) — 1
 - [Allie the Icon](../authors/allie-the-icon.md) — 1
@@ -352,6 +356,7 @@
 - [Argona](../authors/argona.md) — 1
 - [Arjun Gupta](../authors/arjun-gupta.md) — 1
 - [ArkYu](../authors/arkyu.md) — 1
+- [armaan](../authors/armaan.md) — 1
 - [Arman](../authors/arman.md) — 1
 - [Armin Ronacher ⇌](../authors/armin-ronacher.md) — 1
 - [Arnav Gupta](../authors/arnav-gupta.md) — 1
@@ -403,7 +408,6 @@
 - [bitzuist](../authors/bitzuist.md) — 1
 - [blanknote](../authors/blanknote.md) — 1
 - [BlanPlan](../authors/blanplan.md) — 1
-- [BLUECOW009](../authors/bluecow009.md) — 1
 - [bodila](../authors/bodila.md) — 1
 - [bodka (ぼっか)](../authors/bodka.md) — 1
 - [Bohu](../authors/bohu.md) — 1
@@ -1002,6 +1006,7 @@
 - [Osku](../authors/osku.md) — 1
 - [Paarangat](../authors/paarangat.md) — 1
 - [Pankaj Parkar 🇮🇳](../authors/pankaj-parkar.md) — 1
+- [Paolo JN](../authors/paolo-jn.md) — 1
 - [parth 🔥](../authors/parth.md) — 1
 - [parth ratra](../authors/parth-ratra.md) — 1
 - [Pate](../authors/pate.md) — 1
@@ -1371,6 +1376,7 @@
 - [コスギ＠Microsoft Clarity 研究所(U･ω･U)](../authors/microsoft-clarity-研究所-u-u.md) — 1
 - [こばやし 'にらたま' けんいち](../authors/jev-showcase.md) — 1
 - [こぴぺたん](../authors/jev-showcase.md) — 1
+- [こみん](../authors/jev-showcase.md) — 1
 - [ゴリラ＠AI社員64人で回す1人会社](../authors/ai社員64人-回-1人会社.md) — 1
 - [さっと](../authors/jev-showcase.md) — 1
 - [サバ缶＠AIを活用する情シス](../authors/缶-ai-活用-情.md) — 1

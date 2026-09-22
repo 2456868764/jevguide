@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 186 | 148 | 41 | 588K |
+| 188 | 150 | 41 | 588K |
 
 ## Showcase 卡片
 
@@ -467,6 +467,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/armaancc/status/2102172474842443809"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171693644918785/img/U5d4AqpgiCI7A1ck.jpg" alt="Jev Drives Real-Time Decisions in a three.js Shooter · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/armaancc/status/2102172474842443809">Jev Drives Real-Time Decisions in a three.js Shooter</a></h3>
+<p>The author shows playing against Jev in a three.js shooter arena: every 300 ms Jev receives the situation in words plus candidate positions from a search layer, and answers with a choice and odds, shown live in the right panel.</p>
+<p><strong>中文摘要：</strong>作者展示在 three.js 射击竞技场中与 Jev 对战：每 300 毫秒 Jev 接收文字情境和搜索层给出的候选位置，并返回选择及概率，右侧面板实时显示。</p>
+<p><strong>armaan</strong> · @armaancc · 2026-09-21</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 57</p>
+<p><a href="https://x.com/armaancc/status/2102172474842443809">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/notef_fn/status/2101949849273053335"><img src="https://pbs.twimg.com/amplify_video_thumb/2101949795422375936/img/0ROtyxvgLbc_8nvY.jpg" alt="Testing Automated Gameplay with Jev and Local SAM · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -477,6 +488,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/notef_fn/status/2101949849273053335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notf/status/2101915884663308796"><img src="https://pbs.twimg.com/amplify_video_thumb/2101915195270705152/img/kjIWIfyIlvpPCwRj.jpg" alt="Jev Speeds Up Parameter Tuning in DreamCore Game Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -487,6 +500,17 @@
 <p><strong>ノトフ（川本龍）／DreamCore</strong> · @notf · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
 <p><a href="https://x.com/notf/status/2101915884663308796">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CoMin_Sketch/status/2102172487576670262"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171697483038720/img/hakzjiNluVbCPpmL.jpg" alt="Speed comparison of Jev and Haiku in 3Way puzzle · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CoMin_Sketch/status/2102172487576670262">Speed comparison of Jev and Haiku in 3Way puzzle</a></h3>
+<p>The author compares the solving speed of Jev and Haiku in the 3Way puzzle, noting Haiku may score better over multiple runs and that Jev suits games with combinatorial explosion.</p>
+<p><strong>中文摘要：</strong>作者对比 Jev 与 Haiku 在 3Way 解谜游戏中的求解速度，指出 Haiku 多次运行得分可能更好，并认为 Jev 适合存在组合爆炸的游戏。</p>
+<p><strong>こみん</strong> · @CoMin_Sketch · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/CoMin_Sketch/status/2102172487576670262">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

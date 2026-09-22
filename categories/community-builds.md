@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 105 | 45 | 62 | 3.0M |
+| 109 | 46 | 65 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kensuu/status/2102218284825444362"><img src="https://pbs.twimg.com/media/HSyTrqBbsAAF9-X?format=jpg&amp;name=large" alt="Building a site for questions that stump Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kensuu/status/2102218284825444362">Building a site for questions that stump Jev</a></h3>
+<p>The author shares building a site that only accepts questions Jev cannot answer, finding it surprisingly hard to come up with questions that just barely stump it.</p>
+<p><strong>中文摘要：</strong>作者分享制作一个只接受 Jev 无法回答的问题的网站，发现想出刚好能难住 Jev 的问题出乎意料地困难。</p>
+<p><strong>けんすう</strong> · @kensuu · 2026-09-22</p>
+<p>💬 2 &nbsp; 🔁 8 &nbsp; ♡ 63 &nbsp; 📊 13K</p>
+<p><a href="https://x.com/kensuu/status/2102218284825444362">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dsqjaffa/status/2102216125324947550"><img src="https://pbs.twimg.com/media/HSySbDcXQAIZ0q1?format=jpg&amp;name=medium" alt="User asks Jev to get 100k views · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dsqjaffa/status/2102216125324947550">User asks Jev to get 100k views</a></h3>
+<p>A short exchange: the user tells Jev to get 100k views with no mistakes, and Jev replies &quot;aight bet.&quot;</p>
+<p><strong>中文摘要：</strong>一条简短对话：用户要求 Jev 获取 10 万浏览量且不许出错，Jev 回答“aight bet”。</p>
+<p><strong>jaffa</strong> · @dsqjaffa · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 685</p>
+<p><a href="https://x.com/dsqjaffa/status/2102216125324947550">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nwnwnyo/status/2102216975275753865"><img src="https://pbs.twimg.com/amplify_video_thumb/2102216952714584064/img/CpRak2BJQMmbRSix.jpg" alt="User Has Jev Take MBTI Test, Result Is INTJ · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nwnwnyo/status/2102216975275753865">User Has Jev Take MBTI Test, Result Is INTJ</a></h3>
+<p>A user shares having Jev take the MBTI personality test, which returned INTJ (Architect). The user is ENTP and considers their compatibility good, hoping to keep getting along well.</p>
+<p><strong>中文摘要：</strong>一位用户分享让 Jev 参加 MBTI 人格测试的经历，Jev 的结果是 INTJ（建筑师型），用户自己是 ENTP，认为两人性格契合，希望继续保持良好相处。</p>
+<p><strong>ヨ</strong> · @nwnwnyo · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 452</p>
+<p><a href="https://x.com/nwnwnyo/status/2102216975275753865">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/sheherenow_/status/2102242154399850662"><img src="https://pbs.twimg.com/amplify_video_thumb/2102242103661383680/img/oyYCiZz8f0ytoMQj.jpg" alt="Building a 1980s Expert System on Lisp + Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 288</p>
 <p><a href="https://x.com/sheherenow_/status/2102242154399850662">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/soloninjakun/status/2102223859575599437"><img src="https://pbs.twimg.com/media/HSx6Q3DaYAEX20W?format=jpg&amp;name=large" alt="Using Jev to Speed Up Post Moderation for Community SaaS · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 239</p>
 <p><a href="https://x.com/soloninjakun/status/2102223859575599437">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yhkjn/status/2102233782300602554"><img src="https://pbs.twimg.com/media/HSyie8DbMAA3SSr?format=jpg&amp;name=900x900" alt="Jev Used as an Oracle Machine · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><a href="https://x.com/yhkjn/status/2102233782300602554">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikasa231/status/2102236777885073867"><img src="https://pbs.twimg.com/media/HSylCAPboAAA4Pu?format=jpg&amp;name=medium" alt="Developer Tries Tuning Voice Tone with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 114</p>
 <p><a href="https://x.com/mikasa231/status/2102236777885073867">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Workflow_Lab_/status/2102234014409216348"><img src="https://pbs.twimg.com/amplify_video_thumb/2102232960242241537/img/IKdLMvtLHNo0Z_2k.jpg" alt="Continuing to Test Jev in Notion · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 84</p>
 <p><a href="https://x.com/Workflow_Lab_/status/2102234014409216348">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/blanplan/status/2102199236263858578"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196234207600640/img/8leiNH5LJRYUvozk.jpg" alt="Testing Jev&#39;s browser control scenario on a cloud machine · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +116,17 @@
 <p><strong>BlanPlan</strong> · @blanplan · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/blanplan/status/2102199236263858578">在 X 查看原帖</a> · <a href="https://t.co/feoEEQGRYv">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/misadroid/status/2102220661913743412"><img src="https://pbs.twimg.com/media/HSyWf8QagAE5oxr?format=png&amp;name=small" alt="User shares early impressions of trying Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/misadroid/status/2102220661913743412">User shares early impressions of trying Jev</a></h3>
+<p>A user says they are trying Jev, find it quite interesting, and feel it still has more to offer.</p>
+<p><strong>中文摘要：</strong>一位用户表示正在体验 Jev，觉得相当有趣，认为它还有更多潜力可挖掘。</p>
+<p><strong>🐱๓Ꭵʂαԃ𐑾σᎥԃ🐱</strong> · @misadroid · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 48</p>
+<p><a href="https://x.com/misadroid/status/2102220661913743412">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

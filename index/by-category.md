@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Access updates](../categories/access-updates.md) — 226
-- [How it works](../categories/how-it-works.md) — 225
-- [Developer tools](../categories/developer-tools.md) — 223
-- [Gaming](../categories/gaming.md) — 179
-- [Agents](../categories/agents.md) — 123
-- [Launch news](../categories/launch-news.md) — 122
-- [Developer resources](../categories/developer-resources.md) — 113
-- [Community builds](../categories/community-builds.md) — 105
-- [Finance](../categories/finance.md) — 88
+- [How it works](../categories/how-it-works.md) — 233
+- [Access updates](../categories/access-updates.md) — 232
+- [Developer tools](../categories/developer-tools.md) — 225
+- [Gaming](../categories/gaming.md) — 184
+- [Agents](../categories/agents.md) — 124
+- [Launch news](../categories/launch-news.md) — 123
+- [Developer resources](../categories/developer-resources.md) — 114
+- [Community builds](../categories/community-builds.md) — 109
+- [Finance](../categories/finance.md) — 90
 - [Workflow automation](../categories/workflow-automation.md) — 74
 - [Marketing](../categories/marketing.md) — 63
-- [Knowledge & search](../categories/knowledge-search.md) — 55
-- [Data analytics](../categories/data-analytics.md) — 49
-- [Content creation](../categories/content-creation.md) — 44
+- [Knowledge & search](../categories/knowledge-search.md) — 56
+- [Data analytics](../categories/data-analytics.md) — 50
+- [Content creation](../categories/content-creation.md) — 45
 - [Robotics](../categories/robotics.md) — 24
-- [Customer support](../categories/customer-support.md) — 18
+- [Customer support](../categories/customer-support.md) — 19
 - [Scientific research](../categories/scientific-research.md) — 15
 - [Business operations](../categories/business-operations.md) — 14
 - [Productivity](../categories/productivity.md) — 14
 - [Healthcare](../categories/healthcare.md) — 13
 - [E-commerce](../categories/e-commerce.md) — 12
-- [Software development](../categories/software-development.md) — 11
+- [Software development](../categories/software-development.md) — 12
 - [Education](../categories/education.md) — 10
 - [Cybersecurity](../categories/cybersecurity.md) — 10
-- [Legal & compliance](../categories/legal-compliance.md) — 7
+- [Legal & compliance](../categories/legal-compliance.md) — 8

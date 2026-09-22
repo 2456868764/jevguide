@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 223 | 120 | 104 | 3.6M |
+| 225 | 122 | 104 | 3.6M |
 
 ## Showcase 卡片
 
@@ -118,6 +118,19 @@
 <p><a href="https://x.com/waku_agent/status/2102239150607073649">在 X 查看原帖</a> · <a href="https://t.co/HPN8ntHsXk">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/somi_ai/status/2102220459962204635"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Jev tiny model dynamically adjusts reasoning effort in Codex, cutting Astra bill · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/somi_ai/status/2102220459962204635">Jev tiny model dynamically adjusts reasoning effort in Codex, cutting Astra bill</a></h3>
+<p>Somi shares: Jev, a tiny model, works alongside GPT-6 in Codex to dial reasoning effort per step, saving 50% on the Astra bill in vechen&#39;s tests while keeping prompt caching intact.</p>
+<p><strong>中文摘要：</strong>Somi 分享：Jev 小模型在 Codex 中与 GPT-6 协同，按步骤调节推理强度，在 vechen 测试中节省 50% Astra 账单，提示缓存保持完整。</p>
+<p><strong>Somi</strong> · @somi_ai · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 157</p>
+<p><a href="https://x.com/somi_ai/status/2102220459962204635">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/SungKimUp/status/2102196460997816524"><img src="https://pbs.twimg.com/media/HSyAiEhbUAAAbkf?format=jpg&amp;name=medium" alt="Recommending SolarMini4Jev as an Alternative to the Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 6 &nbsp; ♡ 9 &nbsp; 📊 143</p>
 <p><a href="https://x.com/SungKimUp/status/2102196460997816524">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abhijitwt/status/2102233348488024301"><img src="https://pbs.twimg.com/amplify_video_thumb/2102105406461915136/img/c7Ai0SD1EuZAal1B.jpg" alt="Jev + Vicaura Described as a Product Reverse Engineering Stack · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 143</p>
 <p><a href="https://x.com/abhijitwt/status/2102233348488024301">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zelin1107/status/2102223280216363108"><img src="https://pbs.twimg.com/media/HSyY6nfaEAAzUKC?format=jpg&amp;name=medium" alt="12 Runnable Jev Repos for Agent Loops · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
 <p><a href="https://x.com/zelin1107/status/2102223280216363108">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/henrylove0/status/2102239256093794663"><img src="https://pbs.twimg.com/media/HSynVzubYAAgXmA?format=png&amp;name=small" alt="JEV vs LAYA head-to-head: speed vs judgment · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 55</p>
 <p><a href="https://x.com/henrylove0/status/2102239256093794663">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DaisyDiao2/status/2102232397375029452"><img src="https://pbs.twimg.com/media/HSyhBv_bQAAhMgv?format=jpg&amp;name=medium" alt="Using CODEX with JEV and Enabling GOAL Mode · 原帖图片" width="100%"></a>
 <br>
@@ -175,6 +188,17 @@
 <p><strong>daisydiao.eth</strong> · @DaisyDiao2 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/DaisyDiao2/status/2102232397375029452">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MrSuperSecret/status/2102216950008951198"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161913723691008/img/elm99ez4yx84JJO2.jpg" alt="Community builds Mini-Jevs with fallback to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MrSuperSecret/status/2102216950008951198">Community builds Mini-Jevs with fallback to Jev</a></h3>
+<p>The community is building Mini-Jevs that offload missed requests back to Jev, with suggestions to route misses and Jev responses to a DLQ for future fine-tuning.</p>
+<p><strong>中文摘要：</strong>社区开始构建 Mini-Jev，将未捕获的请求回退给 Jev，并建议把未命中及 Jev 响应送入 DLQ 以便未来微调。</p>
+<p><strong>Sebastian Hindhede</strong> · @MrSuperSecret · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
+<p><a href="https://x.com/MrSuperSecret/status/2102216950008951198">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

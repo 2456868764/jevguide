@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 226 | 93 | 133 | 802K |
+| 232 | 95 | 137 | 802K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/songsong/status/2102219636326690851"><img src="https://pbs.twimg.com/amplify_video_thumb/2102159599017046017/img/RZiboK0K4fbqbu8P.jpg" alt="Real-world Jev scenario: AI helps you save money · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/songsong/status/2102219636326690851">Real-world Jev scenario: AI helps you save money</a></h3>
+<p>The post shares a real-world implementation scenario for Jev, noting that while it&#39;s uncertain whether AI can help you make money, it can definitely help you save money.</p>
+<p><strong>中文摘要：</strong>帖子分享 Jev 的真实世界实现场景，指出 AI 能否帮你赚钱尚不确定，但肯定能帮你省钱。</p>
+<p><strong>宋宋</strong> · @songsong · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 991</p>
+<p><a href="https://x.com/songsong/status/2102219636326690851">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/tonysimons_/status/2102240557351264760"><img src="https://pbs.twimg.com/media/HSyopVzXYAA9kVq?format=png&amp;name=900x900" alt="Jev is free on Vercel Gateway for a limited time · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -69,6 +80,32 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 504</p>
 <p><a href="https://x.com/tonysimons_/status/2102240557351264760">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/modaflows/status/2102215321872679012"><img src="https://pbs.twimg.com/amplify_video_thumb/2102215298267193344/img/Fi388JRxAm31167N.jpg" alt="Moda Weekly: Jev Helps Detect More Specific Signals · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/modaflows/status/2102215321872679012">Moda Weekly: Jev Helps Detect More Specific Signals</a></h3>
+<p>Moda&#39;s first weekly blog issue covers how Jev helps detect more specific signals, full conversation analysis catches issues a single scan can miss, and the dashboard and trace views were rebuilt.</p>
+<p><strong>中文摘要：</strong>Moda 博客首期周报介绍 Jev 帮助检测更具体的信号，完整对话分析可发现单次扫描遗漏的问题，并重建了仪表盘和追踪视图。</p>
+<p><strong>moda</strong> · @modaflows · 2026-09-22</p>
+<p>💬 3 &nbsp; 🔁 5 &nbsp; ♡ 16 &nbsp; 📊 467</p>
+<p><a href="https://x.com/modaflows/status/2102215321872679012">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/draginol/status/2102220655215382573"><img src="https://pbs.twimg.com/media/HSyWM2zW0AAzdub?format=jpg&amp;name=medium" alt="Clairvoyance Adds Jev Support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/draginol/status/2102220655215382573">Clairvoyance Adds Jev Support</a></h3>
+<p>Clairvoyance has been updated for Windows with Jev support integrated, saving an additional 5% to 10% in token usage, with a free Plus access invite link.</p>
+<p><strong>中文摘要：</strong>Clairvoyance 已为 Windows 更新并集成 Jev 支持，可额外节省 5% 至 10% 的 token 用量，并提供免费 Plus 访问邀请链接。</p>
+<p><strong>Brad Wardell</strong> · @draginol · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 399</p>
+<p><a href="https://x.com/draginol/status/2102220655215382573">在 X 查看原帖</a> · <a href="https://t.co/pk6jUM7tFd">原文链接</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HarmNao/status/2102189432216735834"><img src="https://pbs.twimg.com/media/HSx6DDlbUAA944w?format=png&amp;name=small" alt="Jev Arrives in Codex · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +116,17 @@
 <p><strong>Nao</strong> · @HarmNao · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 192</p>
 <p><a href="https://x.com/HarmNao/status/2102189432216735834">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sat0xshi/status/2102220716079018294"><img src="https://pbs.twimg.com/media/HSyWagAa4AAXbk0?format=png&amp;name=small" alt="Adding log output to Jev in Grokbot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sat0xshi/status/2102220716079018294">Adding log output to Jev in Grokbot</a></h3>
+<p>The author shares adding log output to the integrated Jev in Grokbot and expresses approval.</p>
+<p><strong>中文摘要：</strong>作者分享在 Grokbot 中为集成的 Jev 添加日志输出功能，并对此表示认可。</p>
+<p><strong>sat0xshi</strong> · @sat0xshi · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 152</p>
+<p><a href="https://x.com/sat0xshi/status/2102220716079018294">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +142,19 @@
 <p><a href="https://x.com/Yarrow_ai/status/2102226848436645902">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/myoshida2a/status/2102218051026636881"><img src="https://pbs.twimg.com/media/HSyUKWPbUAIksEJ?format=jpg&amp;name=medium" alt="Jev Trial Guide: Join the Wait List First, Get It Running in 5 Minutes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/myoshida2a/status/2102218051026636881">Jev Trial Guide: Join the Wait List First, Get It Running in 5 Minutes</a></h3>
+<p>The author shares a reference article for trying Jev, saying they got it running in 5 minutes, and notes you need to register on the Wait List in advance.</p>
+<p><strong>中文摘要：</strong>作者分享一篇 Jev 试用参考文章，称自己 5 分钟就运行成功，并提醒需提前注册 Wait List 等待开放。</p>
+<p><strong>マッサン (Masanori Yoshida)</strong> · @myoshida2a · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 68</p>
+<p><a href="https://x.com/myoshida2a/status/2102218051026636881">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Tonebird_ai/status/2102190208498471368"><img src="https://pbs.twimg.com/amplify_video_thumb/2102189916071620608/img/G-iBvEdgIDnt-cai.jpg" alt="ToneBird + Jev for Fast Reply Matching · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖视频</code></sub>
@@ -104,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 41</p>
 <p><a href="https://x.com/Tonebird_ai/status/2102190208498471368">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ichigoooo015/status/2102240197576634791"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="User discusses Laya, an open-weight model faster than Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/ichigoooo015/status/2102240197576634791">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robherley/status/2102199555706024144"><img src="https://pbs.twimg.com/media/HSyAhVUWIAA7qQq?format=jpg&amp;name=large" alt="AskJev.net&#39;s first 24 hours: 50K visitors, 125K Jev API requests, 39M tokens, $0 cost · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/robherley/status/2102199555706024144">在 X 查看原帖</a> · <a href="https://t.co/9tGq42lv3d">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/InfiniteJulian0/status/2102199480628269114"><img src="https://pbs.twimg.com/media/HSyCc9fakAAwT0n?format=png&amp;name=medium" alt="New tech like Jev captivates imaginations · 原帖图片" width="100%"></a>
 <br>
@@ -140,6 +199,19 @@
 <p><strong>Julian Alvarez</strong> · @InfiniteJulian0 · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
 <p><a href="https://x.com/InfiniteJulian0/status/2102199480628269114">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hTrapVader/status/2102215023691256274"><img src="https://pbs.twimg.com/media/HSyRX_YboAAW7vg?format=jpg&amp;name=medium" alt="TypeSafe JEV verifies three factory tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hTrapVader/status/2102215023691256274">TypeSafe JEV verifies three factory tasks</a></h3>
+<p>The post says Astra plans while TypeSafe AI&#39;s JEV picks and verifies factory tasks, with three completed so far, and invites viewers to spot the next bottleneck on Twitch.</p>
+<p><strong>中文摘要：</strong>帖子提到 Astra 负责规划，TypeSafe AI 的 JEV 挑选并验证工厂任务，目前已完成三项验证，并邀请观众到 Twitch 观看下一个瓶颈。</p>
+<p><strong>parth 🔥</strong> · @hTrapVader · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/hTrapVader/status/2102215023691256274">在 X 查看原帖</a> · <a href="https://t.co/fZwtGYycTA">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102187007367606684"><img src="https://pbs.twimg.com/media/HSx38X-WsAAOswh?format=jpg&amp;name=medium" alt="Non-Autoregressive Decision Model Laya Claims 6-8x Faster Inference Than Jev · 原帖图片" width="100%"></a>

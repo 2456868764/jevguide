@@ -1,7 +1,8 @@
 # Somi
 
-1 Jev showcases.
+2 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-22 | [Jev tiny model dynamically adjusts reasoning effort in Codex, cutting Astra bill](https://x.com/somi_ai/status/2102220459962204635) | 开发者工具 | Somi | 157 |
 | 2026-09-21 | [Jev trails Laya in Tetris benchmark](https://x.com/somi_ai/status/2102013281414357117) | 游戏 | Somi | 16 |

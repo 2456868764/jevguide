@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 88 | 52 | 37 | 1.2M |
+| 90 | 52 | 39 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">Jev Model Powers Lending Desk on Robinhood Chain</a></h3>
+<p>JevTrenches is a lending desk built on Robinhood Chain that uses Jev, TypeSafe&#39;s System One model, to determine the factor while code sizes the loan, focusing on lending infrastructure rather than taking deposits.</p>
+<p><strong>中文摘要：</strong>JevTrenches 是基于 Robinhood Chain 的借贷台，使用 TypeSafe 的 System One 模型 Jev 确定因子，由代码决定贷款规模，专注于借贷基础设施而非吸收存款。</p>
+<p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas · 2026-09-22</p>
+<p>💬 72 &nbsp; 🔁 101 &nbsp; ♡ 442 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
 <p><a href="https://x.com/TheStalwart/status/2102190936780312800">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Michaelzsguo/status/2102190802160005277"><img src="https://pbs.twimg.com/amplify_video_thumb/2102190474467348480/img/vFluknVXq39C3hfO.jpg" alt="Jev Stock Trader Doubles $100K to Nearly $210K · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 473</p>
 <p><a href="https://x.com/Michaelzsguo/status/2102190802160005277">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MapleLeafCap/status/2102251136950649008"><img src="https://pbs.twimg.com/media/HSyyIpXb0AA59XQ?format=jpg&amp;name=medium" alt="BidClub AI Updates Pitch Aggregation with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 400</p>
 <p><a href="https://x.com/MapleLeafCap/status/2102251136950649008">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Yunn260414/status/2102224564134850776"><img src="https://pbs.twimg.com/media/HSyaFf5akAAzght?format=jpg&amp;name=medium" alt="Building a BTC 5-Minute Price Prediction Program with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 350</p>
 <p><a href="https://x.com/Yunn260414/status/2102224564134850776">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2102246792800911640"><img src="https://pbs.twimg.com/media/HSyuSgjbcAAUUNh?format=jpg&amp;name=medium" alt="Jane Street quant shares how Jev is used across Wall Street hedge funds · 原帖图片" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>venus</strong> · @RitOnchain · 2026-09-22</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 297</p>
 <p><a href="https://x.com/RitOnchain/status/2102246792800911640">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SatoshiWolf/status/2102217046503333960"><img src="https://pbs.twimg.com/media/HSyTNiYasAEPvrm?format=jpg&amp;name=medium" alt="Building a Polymarket BTC 5-Minute Up/Down Trading App with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SatoshiWolf/status/2102217046503333960">Building a Polymarket BTC 5-Minute Up/Down Trading App with Jev</a></h3>
+<p>The author used Fable 5.1 and Jev to build an app that trades Polymarket&#39;s BTC 5-minute Up/Down markets, saying the results speak for themselves.</p>
+<p><strong>中文摘要：</strong>作者使用 Fable 5.1 和 Jev 构建了一个交易 Polymarket BTC 5分钟涨跌市场的应用，并称结果令人满意。</p>
+<p><strong>Satoshi Wolf</strong> · @SatoshiWolf · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 276</p>
+<p><a href="https://x.com/SatoshiWolf/status/2102217046503333960">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/clarkalphas/status/2102191050324574375"><img src="https://pbs.twimg.com/media/HSx4w-UbEAETdan?format=jpg&amp;name=medium" alt="JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap · 原帖图片" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2106</strong><br>curated posts</td>
-<td align="center"><strong>1202</strong><br>original videos</td>
+<td align="center"><strong>2123</strong><br>curated posts</td>
+<td align="center"><strong>1216</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>261</strong> showcases · <strong>123</strong> videos</p>
+<p><strong>265</strong> showcases · <strong>127</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>213</strong> showcases · <strong>169</strong> videos</p>
+<p><strong>217</strong> showcases · <strong>172</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>140</strong> showcases · <strong>79</strong> videos</p>
+<p><strong>141</strong> showcases · <strong>80</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>135</strong> showcases · <strong>81</strong> videos</p>
+<p><strong>137</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>122</strong> showcases · <strong>53</strong> videos</p>
+<p><strong>124</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>82</strong> showcases · <strong>58</strong> videos</p>
+<p><strong>83</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>49</strong> showcases · <strong>45</strong> videos</p>
+<p><strong>50</strong> showcases · <strong>46</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>29</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>30</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
-<p><strong>13</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>14</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2102227634730012753"><img src="https://pbs.twimg.com/amplify_video_thumb/2102212010670784512/img/jZ1wP1UXNSDLjXEY.jpg" alt="Jev Combined with Treg Saves $8K Monthly Across Three Workflows · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2102227634730012753">Jev Combined with Treg Saves $8K Monthly Across Three Workflows</a></h3>
+<p>Jev combined with Treg saves $8K a month across three workflows: fraud detection and signup screening, buying signal triage, and viral content monitoring, with automation costs driven to zero. Fully open source.</p>
+<p><strong>41K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 25 &nbsp; 📊 41K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">Jev Model Powers Lending Desk on Robinhood Chain</a></h3>
 <p>JevTrenches is a lending desk built on Robinhood Chain that uses Jev, TypeSafe&#39;s System One model, to determine the factor while code sizes the loan, focusing on lending infrastructure rather than taking deposits.</p>
 <p><strong>38K</strong> views · 💬 72 &nbsp; 🔁 101 &nbsp; ♡ 442 &nbsp; 📊 38K</p>
 <p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
 <p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
 <p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
-<p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
-<p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
-<p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
+<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
+<p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
 <p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
 <p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
 <p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/FrankDa18249347/status/2102197241331290121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Building a BTC 5-Minute Trading Bot with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FrankDa18249347/status/2102197241331290121">Building a BTC 5-Minute Trading Bot with Jev</a></h3>
-<p>A developer uses Jev&#39;s low-latency advantage to replace fair value calculation in a quant trading bot, referencing Binance BTC contract order book data to predict BTC 5-minute market movements.</p>
-<p><strong>25K</strong> views · 💬 26 &nbsp; 🔁 18 &nbsp; ♡ 112 &nbsp; 📊 25K</p>
-<p><strong>FrankD</strong> · @FrankDa18249347</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/_lyraaaa_/status/2102233484194725894"><img src="https://pbs.twimg.com/media/HSyhxINasAANvEX?format=jpg&amp;name=medium" alt="Jev Model Expresses Dislike for Seaweed When Generating Text · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/_lyraaaa_/status/2102233484194725894">Jev Model Expresses Dislike for Seaweed When Generating Text</a></h3>
-<p>A user observes that the Jev model repeatedly expresses dislike for seaweed/kelp when generating text, sometimes going out of its way to say &#39;hate kelp&#39;, which is amusing.</p>
-<p><strong>4.6K</strong> views · 💬 7 &nbsp; 🔁 14 &nbsp; ♡ 136 &nbsp; 📊 4.6K</p>
-<p><strong>lyra bubbles</strong> · @_lyraaaa_</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/dgrid_ai/status/2102231668040040687"><img src="https://pbs.twimg.com/media/HSyghV2bQAAKh8Q?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.13 now available on DGrid · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dgrid_ai/status/2102231668040040687">TypeSafe Jev 1.13 now available on DGrid</a></h3>
+<p>TypeSafe&#39;s flagship System One model Jev 1.13 is now on DGrid, built for routing, classification, scoring, and real-time automation with multiple typed questions per request and structured outputs.</p>
+<p><strong>5.2K</strong> views · 💬 3 &nbsp; 🔁 7 &nbsp; ♡ 16 &nbsp; 📊 5.2K</p>
+<p><strong>DGrid AI</strong> · @dgrid_ai</p>
 </td>
 </tr>
 </table>

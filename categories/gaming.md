@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 213 | 169 | 48 | 588K |
+| 217 | 172 | 49 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/interjc/status/2102234235847450689"><img src="https://pbs.twimg.com/media/HSyi4ZFasAAcX7F?format=png&amp;name=small" alt="Playing Gomoku Against Jev: Community Test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/interjc/status/2102234235847450689">Playing Gomoku Against Jev: Community Test</a></h3>
+<p>Justin shares a Gomoku game made by Erjian that lets you play against Jev; community members tested it and found it easy, with a link to try it.</p>
+<p><strong>中文摘要：</strong>Justin 分享 Erjian 制作的五子棋游戏，可与 Jev 对战，群友实测后认为难度不高，并附上游戏链接。</p>
+<p><strong>Justin</strong> · @interjc · 2026-09-22</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/interjc/status/2102234235847450689">在 X 查看原帖</a> · <a href="https://t.co/9ydKUkYKNr">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/CMGS1988/status/2102214531955237244"><img src="https://pbs.twimg.com/amplify_video_thumb/2102139072508522497/img/rf6iDC7Y5RqvhDko.jpg" alt="Jev Makes Windows CUA Gaming Scenarios More Practical · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/CMGS1988/status/2102214531955237244">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1bird_d/status/2102193908859981971"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Using Jev as a CS Virtual Coach via Screenshare · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 582</p>
 <p><a href="https://x.com/1bird_d/status/2102193908859981971">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FiniYang/status/2102246440961724515"><img src="https://pbs.twimg.com/amplify_video_thumb/2102241529524105216/img/cwwbF2hwIDfahrvl.jpg" alt="Playing a Kitten Survival Game with Official Jev and Local Laya Models · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 511</p>
 <p><a href="https://x.com/FiniYang/status/2102246440961724515">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shields_pikes/status/2102232350449135728"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231979970428928/img/jmCuAfKdzVzJn3A9.jpg" alt="Jev Real-Time Dialogue Expression System · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人</strong> · @shields_pikes · 2026-09-22</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 455</p>
 <p><a href="https://x.com/shields_pikes/status/2102232350449135728">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/road_ninjart/status/2102229395582902315"><img src="https://pbs.twimg.com/amplify_video_thumb/2102229330046971904/img/GjeC-jMoBjv3MGOR.jpg" alt="Building a CNP Card Recognition and Verification App with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/road_ninjart/status/2102229395582902315">Building a CNP Card Recognition and Verification App with Jev</a></h3>
+<p>The author shares an app built with Jev to identify CNP trading cards and verify their existence, claiming it is much faster than plain LLM image recognition and more robust to glare with higher accuracy.</p>
+<p><strong>中文摘要：</strong>作者分享用 Jev 开发的 CNP 集换式卡牌识别与存在验证应用，称其比单纯让 LLM 做图像识别更快，且对反光更鲁棒、精度更高。</p>
+<p><strong>road | CNP/デジタル城下町</strong> · @road_ninjart · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 382</p>
+<p><a href="https://x.com/road_ninjart/status/2102229395582902315">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +118,19 @@
 <p><a href="https://x.com/geeorgey/status/2102209700087636292">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/sreexts/status/2102230115245551867"><img src="https://pbs.twimg.com/amplify_video_thumb/2102230030147264512/img/jj6Sl7UfAViu8V6Y.jpg" alt="Jev and Laya Play a Live Arena Survival Game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sreexts/status/2102230115245551867">Jev and Laya Play a Live Arena Survival Game</a></h3>
+<p>Two AI models, Jev and Laya, make live enemy decisions in the same arena survival game, where each moment becomes a sentence and a typed question, returning probabilities instead of direct answers.</p>
+<p><strong>中文摘要：</strong>两个 AI 模型 Jev 和 Laya 在同一款竞技场生存游戏中实时做出敌人决策，游戏将每个时刻转化为一句话并询问一个类型化问题，返回概率而非直接答案。</p>
+<p><strong>Sree</strong> · @sreexts · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 71</p>
+<p><a href="https://x.com/sreexts/status/2102230115245551867">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/eng_ahmd/status/2102233195294920886"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231639996665856/img/ui52kTGQtdvpiHKl.jpg" alt="Laya (Jev-like model) plays Breakout locally in real time · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -104,8 +141,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
 <p><a href="https://x.com/eng_ahmd/status/2102233195294920886">在 X 查看原帖</a> · <a href="https://t.co/8v0dnXCnQ1">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/paulocoutinhox/status/2102233895785710058"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local Laya model beats cloud-based Jev in Tetris · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/paulocoutinhox/status/2102233895785710058">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dodoaiaikk/status/2102216221085278620"><img src="https://pbs.twimg.com/media/HSySgpXacAAfPxq?format=jpg&amp;name=medium" alt="Jev-based lateral thinking quiz game &quot;Jev Turtle Soup&quot; · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>DoAI</strong> · @dodoaiaikk · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
 <p><a href="https://x.com/dodoaiaikk/status/2102216221085278620">在 X 查看原帖</a> · <a href="https://t.co/IyqwsNdNnI">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Nova_With_AI/status/2102231332873265231"><img src="https://pbs.twimg.com/amplify_video_thumb/2102231222223327232/img/6ZpPhm_ViyTmKvt9.jpg" alt="Jev and sai_borg build a self-playing fighting game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Nova_With_AI/status/2102231332873265231">Jev and sai_borg build a self-playing fighting game</a></h3>
+<p>Jev combined with sai_borg creates a fighting game that plays itself, with special moves you might miss if you blink.</p>
+<p><strong>中文摘要：</strong>Jev 与 sai_borg 结合，生成一个能自动对战的格斗游戏，眨眼间就可能错过特殊招式。</p>
+<p><strong>Nova AI</strong> · @Nova_With_AI · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/Nova_With_AI/status/2102231332873265231">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

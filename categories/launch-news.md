@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 135 | 81 | 57 | 1.1M |
+| 137 | 82 | 58 | 1.1M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/naobit_/status/2102227640161845680"><img src="https://pbs.twimg.com/amplify_video_thumb/2102082052761821185/img/Nnl-FNbgj08UKwxA.jpg" alt="Replacing emoji suggestion AI in B2C apps with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/naobit_/status/2102227640161845680">Replacing emoji suggestion AI in B2C apps with Jev</a></h3>
+<p>The author suggests Jev could replace the AI feature in B2C apps that automatically sets relevant emojis from text, noting Jev is less environment-dependent than local LLMs.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 可替代 B2C 应用中根据文本自动设置相关表情符号的 AI 功能，并指出相比本地 LLM，Jev 不受环境限制。</p>
+<p><strong>Nao Hanamura</strong> · @naobit_ · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 401</p>
+<p><a href="https://x.com/naobit_/status/2102227640161845680">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/null_decimal/status/2102230795419373770"><img src="https://pbs.twimg.com/media/HSyfV3NbkAAwR2d?format=jpg&amp;name=medium" alt="Jev Now Available to Everyone · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 22 &nbsp; 📊 387</p>
 <p><a href="https://x.com/null_decimal/status/2102230795419373770">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xF1ction/status/2102192519215812893"><img src="https://pbs.twimg.com/amplify_video_thumb/2102191375735263232/img/8MkgBlp8gcoA2r-n.jpg" alt="Jev Founder Diogo Almeida Releases 36-Minute Masterclass · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 181</p>
 <p><a href="https://x.com/0xF1ction/status/2102192519215812893">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YM_AlphaNotes/status/2102187872757620822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102074536480976896/img/a1WRCh_AbKRt5MFH.jpg" alt="TypeSafe Releases Jev, Its First System One Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 103</p>
 <p><a href="https://x.com/YM_AlphaNotes/status/2102187872757620822">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ChrisShort/status/2102193834905964613"><img src="https://pbs.twimg.com/media/HSx-JzyXUAAdllk?format=jpg&amp;name=medium" alt="TypeSafe AI Introduces System One Models &amp; Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
 <p><a href="https://x.com/ChrisShort/status/2102193834905964613">在 X 查看原帖</a> · <a href="https://t.co/J3lwoIB0e0">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_trend_cafe/status/2102243003742224405"><img src="https://pbs.twimg.com/amplify_video_thumb/2102039399236304896/img/pmgSiklT43vsXIcn.jpg" alt="Jev&#39;s Potential Is Amazing: Fast, Cheap, Extraordinary · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
 <p><a href="https://x.com/ai_trend_cafe/status/2102243003742224405">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/itsArmanj/status/2102251103488454893"><img src="https://pbs.twimg.com/media/HSys8w5XQAAsjOp?format=jpg&amp;name=large" alt="Jev Model Persian Benchmark and Price Comparison · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
 <p><a href="https://x.com/itsArmanj/status/2102251103488454893">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DrAi404/status/2102187045896478977"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102187028855013376/pu/img/0PR2pII963ieZZ-1.jpg" alt="OpenAI quietly ships Jev, becomes the year&#39;s most-built-on model in 9 days · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/DrAi404/status/2102187045896478977">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iidaatcnt/status/2102226258499391832"><img src="https://pbs.twimg.com/media/HSybdRvagAALveP?format=png&amp;name=small" alt="What is Jev? A High-Speed AI Specialized in Judgment · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
 <p><a href="https://x.com/iidaatcnt/status/2102226258499391832">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abhi43210/status/2102220730414866480"><img src="https://pbs.twimg.com/media/HSyVgEsXwAAhDCd?format=jpg&amp;name=medium" alt="Open-Spark-Jev Releases spark-s1-v5 Model · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/abhi43210/status/2102220730414866480">在 X 查看原帖</a> · <a href="https://t.co/CejOpdOaPD">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jiamixionger/status/2102229918168097206"><img src="https://pbs.twimg.com/media/HSyernwbQAALgU8?format=png&amp;name=small" alt="After JEV, LLMs Replaced by System One? · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/jiamixionger/status/2102229918168097206">在 X 查看原帖</a> · <a href="https://t.co/n0zlI2ptQv">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sneaky2x/status/2102186632346730739"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="System One Model Jev Launch Sparks Industry Chain Reaction · 原帖视频截图" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>Nuno Sousa</strong> · @Sneaky2x · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Sneaky2x/status/2102186632346730739">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DarrylW68513052/status/2102234425794924799"><img src="https://pbs.twimg.com/media/HSyi8DGbMAAY7AQ?format=jpg&amp;name=medium" alt="New System One Model: Built for Decisions, Scoring &amp; Sorting · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DarrylW68513052/status/2102234425794924799">New System One Model: Built for Decisions, Scoring &amp; Sorting</a></h3>
+<p>Retro AI/ML group introduces System One, built by Jev and Laya, focused on faster, cleaner decisions, scoring, and sorting.</p>
+<p><strong>中文摘要：</strong>Retro AI/ML group 发布 System One 模型，由 Jev 和 Laya 构建，专注于更快、更清晰的决策、评分与排序。</p>
+<p><strong>Retro AI/ML group</strong> · @DarrylW68513052 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/DarrylW68513052/status/2102234425794924799">在 X 查看原帖</a> · <a href="https://t.co/3E4DMCUj7d">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Aayush__Saini_/status/2102252720883421417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102252163238170624/img/XfLuqp4fou10qfXB.jpg" alt="Open-source Universal Decision Model Released as Open Version of Jev · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 122 | 53 | 71 | 3.0M |
+| 124 | 54 | 72 | 3.0M |
 
 ## Showcase 卡片
 
@@ -203,6 +203,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/take19743299/status/2102230534860800450"><img src="https://pbs.twimg.com/amplify_video_thumb/2101924516859711488/img/8VMbEr29TnvI0ALV.jpg" alt="User Sees Great Potential in Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/take19743299/status/2102230534860800450">User Sees Great Potential in Jev</a></h3>
+<p>A user posts that they feel great potential in Jev.</p>
+<p><strong>中文摘要：</strong>一位用户发帖表示对 Jev 的潜力充满期待。</p>
+<p><strong>take</strong> · @take19743299 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/take19743299/status/2102230534860800450">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/polloai_creator/status/2102201218651287785"><img src="https://pbs.twimg.com/amplify_video_thumb/2101977832268382208/img/bJlf8wYWDqeue4uP.jpg" alt="PolloAI Creator Jokes About Creative Uses of TypeSafe JEV · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -212,6 +223,19 @@
 <p><strong>PolloAI Creators</strong> · @polloai_creator · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/polloai_creator/status/2102201218651287785">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ThomasKanze/status/2102234550277751194"><img src="https://pbs.twimg.com/media/HSyjE6rXAAA26Wz?format=jpg&amp;name=medium" alt="User claims to be TypeSafe AI&#39;s top spender, using lots of Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ThomasKanze/status/2102234550277751194">User claims to be TypeSafe AI&#39;s top spender, using lots of Jev</a></h3>
+<p>Thomas Kanze posts that he believes he is TypeSafe AI&#39;s top spender, adding &#39;So much Jev&#39; to express heavy usage of the Jev model.</p>
+<p><strong>中文摘要：</strong>Thomas Kanze 发帖称自己可能是 TypeSafe AI 的最大消费者，并配文“So much Jev”，表达对 Jev 模型的大量使用。</p>
+<p><strong>Thomas Kanze 🌴</strong> · @ThomasKanze · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/ThomasKanze/status/2102234550277751194">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ZazenCodes/status/2102237962213695781"><img src="https://pbs.twimg.com/media/HSymRmoW4AAtnJo?format=jpg&amp;name=medium" alt="AI Engineer Explains Jev in 30 Minutes · 原帖图片" width="100%"></a>

@@ -1,12 +1,13 @@
 # 0xMarioNawfal
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-09-22 | [Jev and OpenRouter Go Live on Monid with 2,000 Tools](https://x.com/RoundtableSpace/status/2102235184795935185) | 接入动态 | 0xMarioNawfal | 38K |
 | 2026-09-21 | [Open-Source Jev Trading Bot jev-trader: Buy/Sell Signals in 81ms](https://x.com/RoundtableSpace/status/2101850147378376897) | 金融 | 0xMarioNawfal | 70K |
 | 2026-09-21 | [Jev Can Clip 90+ Minute Videos in Under 2 Seconds for About $0.02](https://x.com/RoundtableSpace/status/2101918094738223264) | 内容创作 | 0xMarioNawfal | 56K |
+| 2026-09-21 | [HarnessRouter Open Sources Unified Interface for System One (Jev-powered) and More Agent Harnesses](https://x.com/RoundtableSpace/status/2102167236714574280) | 开发者工具 | 0xMarioNawfal | 52K |
 | 2026-09-21 | [Using Jev to Adjust GPT-6 Reasoning Effort, Cutting Astra Costs by 50%](https://x.com/RoundtableSpace/status/2102182335999332526) | 开发者工具 | 0xMarioNawfal | 38K |
 | 2026-09-21 | [Turn JEV into an Autopilot Business](https://x.com/RoundtableSpace/status/2101940744202424479) | 自动化工作流 | 0xMarioNawfal | 30K |
 | 2026-09-21 | [Jev Engineering: Turning an Agent Stack into a Real Control System](https://x.com/RoundtableSpace/status/2102008693126570269) | 智能体 | 0xMarioNawfal | 22K |

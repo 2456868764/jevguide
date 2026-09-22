@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 127 | 71 | 56 | 3.0M |
+| 129 | 71 | 58 | 3.0M |
 
 ## Showcase 卡片
 
@@ -539,6 +539,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Tyr_Nippon/status/2102163693178118534"><img src="https://pbs.twimg.com/media/HSxitWcbgAAl_tX?format=jpg&amp;name=medium" alt="jev-ultrafast: An Open-Source Project That Dramatically Speeds Up Browser Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tyr_Nippon/status/2102163693178118534">jev-ultrafast: An Open-Source Project That Dramatically Speeds Up Browser Agents</a></h3>
+<p>browser-use introduces jev-ultrafast, an open-source AI-powered agent for ultra-fast browser operations, reportedly completing a Google Flights search in about 7 seconds.</p>
+<p><strong>中文摘要：</strong>browser-use 推出 jev-ultrafast，一个利用 AI 实现超高速浏览器操作的智能体开源项目，据称 Google Flights 搜索约 7 秒完成。</p>
+<p><strong>CatsGPT</strong> · @Tyr_Nippon · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 50</p>
+<p><a href="https://x.com/Tyr_Nippon/status/2102163693178118534">在 X 查看原帖</a> · <a href="https://t.co/LKtaOmh9xX">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/vertr_ai/status/2101921554116592055"><img src="https://pbs.twimg.com/amplify_video_thumb/2101921504741265408/img/qMrak8AWPz3bkENO.jpg" alt="Jev Demo: Picking the Next Move in Minecraft and Browser Automation · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -549,6 +560,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/vertr_ai/status/2101921554116592055">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/s4yonnara/status/2102062800843477302"><img src="https://pbs.twimg.com/amplify_video_thumb/2102062410622263297/img/yNJ2P6ontAnwq7ZK.jpg" alt="Jev CEO on a Decision Brain for AI Agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
 <p><a href="https://x.com/s4yonnara/status/2102062800843477302">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arnutr/status/2101956431369122252"><img src="https://pbs.twimg.com/media/HSumOtpakAAK1UG?format=jpg&amp;name=medium" alt="Meet Jev: The Decision-Making Brain for AI Agents · 原帖图片" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 32</p>
 <p><a href="https://x.com/arnutr/status/2101956431369122252">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/s1rozha_/status/2101965712768082429"><img src="https://pbs.twimg.com/media/HSuudA9WQAI70Dn?format=jpg&amp;name=medium" alt="Jev Is About Decisions, Not Chat · 原帖图片" width="100%"></a>
 <br>
@@ -583,6 +596,17 @@
 <p><strong>s1rozha1</strong> · @s1rozha_ · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
 <p><a href="https://x.com/s1rozha_/status/2101965712768082429">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/commie3f7/status/2102163972627812468"><img src="https://pbs.twimg.com/media/HSxi_XPaAAAepqd?format=png&amp;name=medium" alt="Dual-Engine Agent Architecture: System-1 (JEV) Fast Routing + System-2 Heavy Reasoning · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/commie3f7/status/2102163972627812468">Dual-Engine Agent Architecture: System-1 (JEV) Fast Routing + System-2 Heavy Reasoning</a></h3>
+<p>Discusses a dual-engine setup using System-1 (JEV) for sub-100ms routing and System-2 for heavy LLM reasoning, avoiding costly LLM calls for every micro-task.</p>
+<p><strong>中文摘要：</strong>讨论用 System-1 (JEV) 做亚100毫秒路由、System-2 负责重型 LLM 推理的双引擎方案，避免每个微任务都调用大模型造成浪费。</p>
+<p><strong>Commisticholy</strong> · @commie3f7 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/commie3f7/status/2102163972627812468">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

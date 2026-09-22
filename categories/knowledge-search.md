@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 57 | 35 | 22 | 235K |
+| 59 | 36 | 23 | 235K |
 
 ## Showcase 卡片
 
@@ -131,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/michael_chomsky/status/2102164876579983621"><img src="https://pbs.twimg.com/media/HSxjcKMbUAA2f-q?format=png&amp;name=medium" alt="Jev Outperforms SOTA Rerankers on Classification and Reranking · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/michael_chomsky/status/2102164876579983621">Jev Outperforms SOTA Rerankers on Classification and Reranking</a></h3>
+<p>The post states that Jev outperforms SOTA rerankers and mixtures of rerankers on classification, and since reranking is essentially classification with extra steps, Jev is therefore SOTA at reranking.</p>
+<p><strong>中文摘要：</strong>该帖指出 Jev 在分类任务上优于 SOTA 重排序器及混合重排序器，并认为重排序本质上是分类的延伸，因此 Jev 在重排序方面也达到 SOTA。</p>
+<p><strong>Michael</strong> · @michael_chomsky · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 530</p>
+<p><a href="https://x.com/michael_chomsky/status/2102164876579983621">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/makaneko_AI/status/2101909643094380991"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Semantic In-Page Search with Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 514</p>
 <p><a href="https://x.com/makaneko_AI/status/2101909643094380991">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stas_sorokin_/status/2101994942818115738"><img src="https://pbs.twimg.com/media/HSvJOjSWEAEtkH7?format=jpg&amp;name=medium" alt="Sorting 1,000 AI papers into 24 topics with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 326</p>
 <p><a href="https://x.com/stas_sorokin_/status/2101994942818115738">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mossy2026/status/2101909618696052886"><img src="https://pbs.twimg.com/amplify_video_thumb/2101909512865374208/img/zFVAyHo_4QlovkgG.jpg" alt="Jev asks: How do you spot AI slop? · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 227</p>
 <p><a href="https://x.com/mossy2026/status/2101909618696052886">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoxanaCodes/status/2101993941805539382"><img src="https://pbs.twimg.com/media/HSvIV_IW4AAjthb?format=jpg&amp;name=medium" alt="Looking Forward to This Week&#39;s Jev Episode: LLM Model Rankings Discussion · 原帖图片" width="100%"></a>
 <br>
@@ -175,6 +188,17 @@
 <p><strong>Roxy Rodbeck</strong> · @RoxanaCodes · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 220</p>
 <p><a href="https://x.com/RoxanaCodes/status/2101993941805539382">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arni0x9053/status/2102166644877307960"><img src="https://pbs.twimg.com/amplify_video_thumb/2102166026280390656/img/ee5gnXEXEUmUbDPt.jpg" alt="Indexing the Katagami Art Style Library with Jev for MCP Interaction · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arni0x9053/status/2102166644877307960">Indexing the Katagami Art Style Library with Jev for MCP Interaction</a></h3>
+<p>The author used Jev to index the entire Katagami library of art styles and design languages, enabling interactive and intelligent queries for humans and agents via MCP, with trait parsing and fit scoring in about 1 second.</p>
+<p><strong>中文摘要：</strong>作者使用 Jev 索引整个 Katagami 艺术风格与设计语言库，让人类和智能体通过 MCP 进行交互式智能查询，约 1 秒内完成特征解析与匹配评分。</p>
+<p><strong>arni</strong> · @arni0x9053 · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 161</p>
+<p><a href="https://x.com/arni0x9053/status/2102166644877307960">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

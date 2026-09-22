@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 233 | 125 | 109 | 3.6M |
+| 241 | 132 | 110 | 3.6M |
 
 ## Showcase 卡片
 
@@ -430,6 +430,19 @@
 <p><a href="https://x.com/designgurra/status/2102083411191959841">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2102167236714574280"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148770343407616/img/-rVahOyOBdklAAqC.jpg" alt="HarnessRouter Open Sources Unified Interface for System One (Jev-powered) and More Agent Harnesses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2102167236714574280">HarnessRouter Open Sources Unified Interface for System One (Jev-powered) and More Agent Harnesses</a></h3>
+<p>HarnessRouter open sourced a plug-and-play infrastructure layer that runs Codex, Claude Code, Hermes, DeepSeek Harness, and Jev-powered System One among 9+ agent harnesses under one interface, with a Unified Harness Protocol and OpenAI Responses-compatible API.</p>
+<p><strong>中文摘要：</strong>HarnessRouter 开源了一个即插即用的基础设施层，可在统一接口下运行 Codex、Claude Code、Hermes、DeepSeek Harness 以及由 Jev 驱动的 System One 等十余种智能体框架，并提供统一 Harness 协议和兼容 OpenAI Responses 的 API。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-21</p>
+<p>💬 12 &nbsp; 🔁 11 &nbsp; ♡ 63 &nbsp; 📊 52K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2102167236714574280">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/charliejhills/status/2101957500669169711"><img src="https://pbs.twimg.com/media/HSunLUUa8AAwXAL?format=jpg&amp;name=900x900" alt="A List of Popular Projects Built with the Jev API · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -440,8 +453,6 @@
 <p>💬 33 &nbsp; 🔁 74 &nbsp; ♡ 531 &nbsp; 📊 52K</p>
 <p><a href="https://x.com/charliejhills/status/2101957500669169711">在 X 查看原帖</a> · <a href="https://t.co/583tfOit70">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sarah_edo/status/2102025642862600634"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102025557969862656/pu/img/TDga5vamGpk6CRqZ.jpg" alt="Chrome side panel extension that drives any site&#39;s WebMCP tools with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 34 &nbsp; 🔁 53 &nbsp; ♡ 749 &nbsp; 📊 46K</p>
 <p><a href="https://x.com/sarah_edo/status/2102025642862600634">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2102182335999332526"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Using Jev to Adjust GPT-6 Reasoning Effort, Cutting Astra Costs by 50% · 原帖视频截图" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 7 &nbsp; 🔁 2 &nbsp; ♡ 35 &nbsp; 📊 38K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2102182335999332526">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/motiondotdev/status/2102018545668272382"><img src="https://pbs.twimg.com/amplify_video_thumb/2102016311932964864/img/DnpupNIkzPEPePb-.jpg" alt="Motion Studio launches Ultramotion animation agent powered by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 9 &nbsp; 🔁 10 &nbsp; ♡ 290 &nbsp; 📊 23K</p>
 <p><a href="https://x.com/motiondotdev/status/2102018545668272382">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ctnicholasdev/status/2102070640589279318"><img src="https://pbs.twimg.com/amplify_video_thumb/2102070615926771715/img/PueMU1HUq0WB86ZG.jpg" alt="Open-source workflow builder for Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 14 &nbsp; 🔁 16 &nbsp; ♡ 277 &nbsp; 📊 14K</p>
 <p><a href="https://x.com/ctnicholasdev/status/2102070640589279318">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2101902995331924145"><img src="https://pbs.twimg.com/amplify_video_thumb/2101176234411425792/img/UgEWGdQPunczzXcv.jpg" alt="Claude Code Mod Adds Jev Routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +512,32 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 12K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2101902995331924145">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AndrewPrifer/status/2102162296739099126"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161913723691008/img/elm99ez4yx84JJO2.jpg" alt="Turn Jev Queries into Fast Task-Specific Classifiers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AndrewPrifer/status/2102162296739099126">Turn Jev Queries into Fast Task-Specific Classifiers</a></h3>
+<p>Shows how to save Jev results, run npx jimothy train, get a 15-45 MB model, run it server-side or in-browser, and fall back to Jev anytime.</p>
+<p><strong>中文摘要：</strong>介绍用 Jev 保存结果后通过 npx jimothy train 训练出 15-45 MB 的小型分类器，可服务端或浏览器运行，并随时回退到 Jev。</p>
+<p><strong>Andrew Prifer</strong> · @AndrewPrifer · 2026-09-21</p>
+<p>💬 11 &nbsp; 🔁 19 &nbsp; ♡ 185 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/AndrewPrifer/status/2102162296739099126">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Teddarific/status/2102162401257050384"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161990923997184/img/H970sYeuZalwR61j.jpg" alt="Jev-powered lint rule for duplicate component detection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Teddarific/status/2102162401257050384">Jev-powered lint rule for duplicate component detection</a></h3>
+<p>Introduces a Jev lint rule that detects if a new component is a potential duplicate of an existing file in under a second for less than $0.01, making it reasonable to run on every code change.</p>
+<p><strong>中文摘要：</strong>介绍一个 Jev lint 规则，能在不到一秒内以低于 0.01 美元的成本检测新组件是否与现有文件重复，让每次代码变更都运行检查变得合理。</p>
+<p><strong>Teddy Ni</strong> · @Teddarific · 2026-09-21</p>
+<p>💬 8 &nbsp; 🔁 5 &nbsp; ♡ 53 &nbsp; 📊 5.9K</p>
+<p><a href="https://x.com/Teddarific/status/2102162401257050384">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/braintrust/status/2102169188429353286"><img src="https://pbs.twimg.com/media/HSxnSDeaEAA0gcm?format=png&amp;name=medium" alt="Braintrust tests Jev as a judge model · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +549,6 @@
 <p>💬 6 &nbsp; 🔁 3 &nbsp; ♡ 26 &nbsp; 📊 2.6K</p>
 <p><a href="https://x.com/braintrust/status/2102169188429353286">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2101942821943173303"><img src="https://pbs.twimg.com/amplify_video_thumb/2101942656419110912/img/4Z_jnAZdupVOW63G.jpg" alt="7 live apps you could build with the same Jev AI pattern · 原帖视频截图" width="100%"></a>
 <br>
@@ -524,6 +559,19 @@
 <p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2101942821943173303">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2102162467207930333"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Save token costs in your coding agent using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2102162467207930333">Save token costs in your coding agent using Jev</a></h3>
+<p>The post notes that Jev can switch to a lower reasoning mode when it realizes a task isn&#39;t hard, saving token costs in coding agents, and calls it an excellent idea.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 能在识别任务较简单时切换到较低推理模式，从而在编码智能体中节省 token 成本，并认为这是一个出色的想法。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 923</p>
+<p><a href="https://x.com/airesearch12/status/2102162467207930333">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/yugen_matuni/status/2101898801615401256"><img src="https://pbs.twimg.com/amplify_video_thumb/2101473523734859776/img/j5AV90PrPcCnBilP.jpg" alt="Jev lowers the barrier for local AI use · 原帖视频截图" width="100%"></a>
@@ -635,6 +683,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/tenfingers/status/2102166895109853256"><img src="https://pbs.twimg.com/amplify_video_thumb/2102156970191167488/img/mn9nyKPwj5Apc9rX.jpg" alt="Voicebind: Open-Source Voice Control Plugin for Omarchy Using Whisper and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tenfingers/status/2102166895109853256">Voicebind: Open-Source Voice Control Plugin for Omarchy Using Whisper and Jev</a></h3>
+<p>The author built Voicebind, an open-source voice control plugin for Omarchy that combines Whisper with TypeSafe AI&#39;s Jev, enabling listening via a phrase as a second option alongside keybindings.</p>
+<p><strong>中文摘要：</strong>作者为 Omarchy 开发了开源语音控制插件 Voicebind，结合 Whisper 与 TypeSafe AI 的 Jev，可通过短语启用监听，作为快捷键之外的第二控制方式。</p>
+<p><strong>Kane Snyder</strong> · @tenfingers · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 354</p>
+<p><a href="https://x.com/tenfingers/status/2102166895109853256">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/jevbook/status/2101994751624884490"><img src="https://pbs.twimg.com/media/HSvJE64XYAAqWPH?format=jpg&amp;name=medium" alt="jevbook CLI launches: ask from your terminal, claims checked live · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -645,6 +704,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 300</p>
 <p><a href="https://x.com/jevbook/status/2101994751624884490">在 X 查看原帖</a> · <a href="https://t.co/gT9igrkhJM">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sudo_overflow/status/2102179832973217966"><img src="https://pbs.twimg.com/media/HSxxZPsawAA299O?format=jpg&amp;name=medium" alt="VSCode Extension Uses JEV to Analyze Prompts and Route to the Right ChatGPT Model · 原帖图片" width="100%"></a>
 <br>
@@ -656,8 +717,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 281</p>
 <p><a href="https://x.com/sudo_overflow/status/2102179832973217966">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JLarky/status/2102185063089905901"><img src="https://pbs.twimg.com/media/HSx2FBwa8AALCmK?format=jpg&amp;name=medium" alt="If Jev Is So Cheap, Why Not Replace Regex with API Calls? · 原帖图片" width="100%"></a>
 <br>
@@ -668,6 +727,19 @@
 <p><strong>JLarky</strong> · @JLarky · 2026-09-21</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 263</p>
 <p><a href="https://x.com/JLarky/status/2102185063089905901">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2102162036490633412"><img src="https://pbs.twimg.com/amplify_video_thumb/2102148073229074432/img/Z4d57i87ku5Nw-aj.jpg" alt="Jev hits 61 ms per page in web audit, far faster than Opus 5 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2102162036490633412">Jev hits 61 ms per page in web audit, far faster than Opus 5</a></h3>
+<p>Stanislav Sorokin benchmarked Jev at 61 ms per page in a web audit versus 2.8 seconds for Opus 5, noting local mode will be interesting, with a side-by-side replay.</p>
+<p><strong>中文摘要：</strong>Stanislav Sorokin 实测 Jev 在网页审计中每页仅需 61 毫秒，而 Opus 5 需 2.8 秒，并提到本地模式值得关注，附有两者并排回放。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 252</p>
+<p><a href="https://x.com/stas_sorokin_/status/2102162036490633412">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/christzolov/status/2102009563083870575"><img src="https://pbs.twimg.com/media/HSvVraQWUAEukT5?format=jpg&amp;name=medium" alt="Java SDK and Spring AI Integration for TypeSafe Jev · 原帖图片" width="100%"></a>
@@ -683,6 +755,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/arjunkmrm/status/2102165487534899618"><img src="https://pbs.twimg.com/media/HSxj8CebIAAs35D?format=jpg&amp;name=medium" alt="Jev console look praised; Jev-powered tardigrade components coming soon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arjunkmrm/status/2102165487534899618">Jev console look praised; Jev-powered tardigrade components coming soon</a></h3>
+<p>A user praises the whimsical look of Jev&#39;s console and teases upcoming Jev-powered tardigrade components featuring auto permissions, model routing, and dynamic context.</p>
+<p><strong>中文摘要：</strong>用户称赞 Jev 控制台的趣味外观，并预告基于 Jev 的 tardigrade 组件即将推出，涵盖自动权限、模型路由和动态上下文等功能。</p>
+<p><strong>june</strong> · @arjunkmrm · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 235</p>
+<p><a href="https://x.com/arjunkmrm/status/2102165487534899618">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/krishnakhanna/status/2101967688973344992"><img src="https://pbs.twimg.com/amplify_video_thumb/2101966800208715776/img/zqiYT4qTk8o4znbv.jpg" alt="Autonomous Self-Driving Simulation Built with OpenJev and Codiv · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -693,6 +776,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 217</p>
 <p><a href="https://x.com/krishnakhanna/status/2101967688973344992">在 X 查看原帖</a> · <a href="https://t.co/X4aAbzRADY">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/embw_l0x/status/2102182289287291029"><img src="https://pbs.twimg.com/media/HSxzlD1X0AA8eR1?format=jpg&amp;name=medium" alt="One Day Without Jev, Codex Tests So Hard It Crashes a MacBook Pro · 原帖图片" width="100%"></a>
 <br>
@@ -703,6 +788,17 @@
 <p><strong>embw_l0x</strong> · @embw_l0x · 2026-09-21</p>
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 198</p>
 <p><a href="https://x.com/embw_l0x/status/2102182289287291029">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGenAi/status/2102163631710277698"><img src="https://pbs.twimg.com/amplify_video_thumb/2102162137682522112/img/ghj-eecJHC5UaMgL.jpg" alt="Jev Enables Instant Context Compaction · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGenAi/status/2102163631710277698">Jev Enables Instant Context Compaction</a></h3>
+<p>A user notes that Jev can achieve instant context compaction by scoring every tool call and dropping irrelevant content, replacing traditional summarization prompts.</p>
+<p><strong>中文摘要：</strong>用户指出 Jev 可通过为每次工具调用评分并丢弃无关内容，实现即时上下文压缩，替代传统的摘要提示方式。</p>
+<p><strong>GenAI</strong> · @0xGenAi · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 193</p>
+<p><a href="https://x.com/0xGenAi/status/2102163631710277698">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

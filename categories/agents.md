@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 151 | 86 | 65 | 3.0M |
+| 153 | 86 | 67 | 3.0M |
 
 ## Showcase 卡片
 
@@ -262,6 +262,19 @@
 <p><a href="https://x.com/MannPatel_6554/status/2102236125427621951">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/sirshibaninja/status/2102426020037247311"><img src="https://pbs.twimg.com/media/HS1RNOIbAAALODw?format=png&amp;name=small" alt="Jev and coding agents: a typed decision layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sirshibaninja/status/2102426020037247311">Jev and coding agents: a typed decision layer</a></h3>
+<p>The post notes two emerging layers around coding agents: Orca coordinates multiple agents in parallel worktrees, while TypeSafe&#39;s Jev makes fast, typed decisions instead of generating chat text, potentially handling routing, scoring, and approvals.</p>
+<p><strong>中文摘要：</strong>帖子指出编码智能体生态正出现两个层面：Orca 协调并行工作树中的多个智能体，而 TypeSafe 的 Jev 做出快速、类型化的决策而非生成聊天文本，可负责路由、评分与审批。</p>
+<p><strong>Colbert</strong> · @sirshibaninja · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/sirshibaninja/status/2102426020037247311">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/drsukrut/status/2102383704618443234"><img src="https://pbs.twimg.com/media/HS0o5ODa8AArY3g?format=jpg&amp;name=medium" alt="User Shares Jev Experience: Fast Calls and Agent Responsiveness · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -272,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/drsukrut/status/2102383704618443234">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taiyop/status/2102385511432065188"><img src="https://pbs.twimg.com/media/HS0sR9Da4AEXVEI?format=jpg&amp;name=medium" alt="Jev × Irodori TTS: Interactive Demo for Chatting with AI Characters · 原帖图片" width="100%"></a>
 <br>
@@ -284,6 +295,19 @@
 <p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/taiyop/status/2102385511432065188">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/commie3f7/status/2102422404324831596"><img src="https://pbs.twimg.com/media/HS1OB8BbIAII2Jg?format=png&amp;name=medium" alt="Dual-Engine Agent Architecture: System-1 (JEV) Fast Routing with System-2 Heavy Reasoning · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/commie3f7/status/2102422404324831596">Dual-Engine Agent Architecture: System-1 (JEV) Fast Routing with System-2 Heavy Reasoning</a></h3>
+<p>Discusses a dual-engine setup using System-1 (JEV) for sub-100ms routing and System-2 for heavy LLM reasoning, avoiding costly heavy-model calls for every micro-task.</p>
+<p><strong>中文摘要：</strong>讨论用 System-1 (JEV) 做亚100毫秒路由、System-2 负责重型 LLM 推理的双引擎方案，避免每个微任务都调用大模型而浪费成本。</p>
+<p><strong>Commisticholy</strong> · @commie3f7 · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/commie3f7/status/2102422404324831596">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/StingCloudLab/status/2102202720341934217"><img src="https://pbs.twimg.com/amplify_video_thumb/2101867409280049152/img/3kHkjCgJIRrY9dde.jpg" alt="Wake-word-free assistant demo built with Jev and GPT-6 Astra · 原帖视频截图" width="100%"></a>

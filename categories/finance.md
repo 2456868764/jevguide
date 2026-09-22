@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 105 | 58 | 48 | 1.2M |
+| 107 | 59 | 49 | 1.2M |
 
 ## Showcase 卡片
 
@@ -107,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/lobsternft_lol/status/2102422109708566833"><img src="https://pbs.twimg.com/amplify_video_thumb/2102421228074221569/img/-4HL4tTeMffzzHmM.jpg" alt="Building a Lobster Trading Bot with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lobsternft_lol/status/2102422109708566833">Building a Lobster Trading Bot with Jev</a></h3>
+<p>The post shows building a Lobster trading bot with Jev, where Jev decides buy or sell in fast thinking mode based on an asset pair&#39;s price feed and executes real trades.</p>
+<p><strong>中文摘要：</strong>该帖子展示用 Jev 构建 Lobster 交易机器人，Jev 在快速思考模式下根据资产对价格数据决定买入或卖出并执行真实交易。</p>
+<p><strong>Project Lobster</strong> · @lobsternft_lol · 2026-09-22</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 323</p>
+<p><a href="https://x.com/lobsternft_lol/status/2102422109708566833">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2102246792800911640"><img src="https://pbs.twimg.com/media/HSyuSgjbcAAUUNh?format=jpg&amp;name=medium" alt="Jane Street quant shares how Jev is used across Wall Street hedge funds · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -117,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 297</p>
 <p><a href="https://x.com/RitOnchain/status/2102246792800911640">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SatoshiWolf/status/2102217046503333960"><img src="https://pbs.twimg.com/media/HSyTNiYasAEPvrm?format=jpg&amp;name=medium" alt="Building a Polymarket BTC 5-Minute Up/Down Trading App with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 276</p>
 <p><a href="https://x.com/SatoshiWolf/status/2102217046503333960">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clarkalphas/status/2102191050324574375"><img src="https://pbs.twimg.com/media/HSx4w-UbEAETdan?format=jpg&amp;name=medium" alt="JEV Scores MomoX3 Trading Signals: SPY 9/21 Recap · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 190</p>
 <p><a href="https://x.com/clarkalphas/status/2102191050324574375">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/openclawby/status/2102199469970477555"><img src="https://pbs.twimg.com/media/HSyCys4a0AA62Sc?format=jpg&amp;name=large" alt="Clawby Update: Jev Model Powers Asset Rating · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 125</p>
 <p><a href="https://x.com/openclawby/status/2102199469970477555">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MvBroken/status/2102409500359872879"><img src="https://pbs.twimg.com/amplify_video_thumb/2102403427150307330/img/GvQnt_MDibqkgnmr.jpg" alt="Onchain Credits for Jev Stock Decisions and Sub-50ms Gateway · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
 <p><a href="https://x.com/MvBroken/status/2102409500359872879">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/im_serPAI/status/2102238272743178510"><img src="https://pbs.twimg.com/media/HSymkMbW0AAekja?format=jpg&amp;name=medium" alt="Jev AI Tool Enhances Crypto Trading Risk Management · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 20</p>
 <p><a href="https://x.com/im_serPAI/status/2102238272743178510">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sujal_gawas/status/2102188179940110731"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Idea to Build a Trading Bot with JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/sujal_gawas/status/2102188179940110731">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SovaAlpha/status/2102394996070433094"><img src="https://pbs.twimg.com/media/HS01GnpWMAA4CsT?format=jpg&amp;name=medium" alt="Jev Powers a Live Trading Loop with Typed Results in ~90ms · 原帖图片" width="100%"></a>
 <br>
@@ -199,6 +212,17 @@
 <p><strong>Sova</strong> · @SovaAlpha · 2026-09-22</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/SovaAlpha/status/2102394996070433094">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lordsnowone/status/2102426753046069594"><img src="https://pbs.twimg.com/media/HS1R_KKXUAAeBj1?format=jpg&amp;name=medium" alt="HypeMeter: NFT Opportunity Screener Built with Jev + Minds in 4 Hours · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lordsnowone/status/2102426753046069594">HypeMeter: NFT Opportunity Screener Built with Jev + Minds in 4 Hours</a></h3>
+<p>The build uses AI to scan NFT listings and determine whether a cheap NFT is an opportunity or a trap. It covered 20 collections and 898 listings, screened 801, rejected 11 traps, and 1 passed.</p>
+<p><strong>中文摘要：</strong>该构建使用 AI 扫描 NFT 列表，判断低价 NFT 是机会还是陷阱。覆盖 20 个合集、898 条列表，筛选 801 条后拒绝 11 个陷阱，最终 1 个通过。</p>
+<p><strong>lordsnow</strong> · @lordsnowone · 2026-09-22</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/lordsnowone/status/2102426753046069594">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

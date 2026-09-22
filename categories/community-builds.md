@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 118 | 51 | 69 | 3.0M |
+| 120 | 51 | 71 | 3.0M |
 
 ## Showcase 卡片
 
@@ -310,6 +310,19 @@
 <p><a href="https://x.com/belalcodes/status/2102189677402853678">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/speyronnet/status/2102141680728080783"><img src="https://pbs.twimg.com/media/HSxMgJ-XoAAqmFs?format=jpg&amp;name=medium" alt="ArseneLupin: A Fast-Deciding Model Inspired by JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/speyronnet/status/2102141680728080783">ArseneLupin: A Fast-Deciding Model Inspired by JEV</a></h3>
+<p>Inspired by the JEV hype, the author trained an equivalent model called ArseneLupin for about 48 hours and released V1, with V2 coming this week.</p>
+<p><strong>中文摘要：</strong>作者受JEV热潮启发，训练约48小时后发布等效模型ArseneLupin V1，并预告V2本周推出。</p>
+<p><strong>Sylvain Peyronnet</strong> · @speyronnet · 2026-09-21</p>
+<p>💬 8 &nbsp; 🔁 9 &nbsp; ♡ 55 &nbsp; 📊 3.9K</p>
+<p><a href="https://x.com/speyronnet/status/2102141680728080783">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/GOROman/status/2101949997868855763"><img src="https://pbs.twimg.com/media/HSugXDybMAA6Flf?format=jpg&amp;name=medium" alt="Jev Shit Reply Detector Adds Crap and AI Thresholds · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -319,6 +332,17 @@
 <p><strong>NULL=RUN</strong> · @GOROman · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 31 &nbsp; 📊 1.2K</p>
 <p><a href="https://x.com/GOROman/status/2101949997868855763">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/coinathlete/status/2102143616852676957"><img src="https://pbs.twimg.com/media/HSxQeKQWcAAtgBP?format=jpg&amp;name=medium" alt="Organizing posts with JEV and generating classified icons · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/coinathlete/status/2102143616852676957">Organizing posts with JEV and generating classified icons</a></h3>
+<p>The author uses JEV to organize posts and created 1,001 individual icons based on classified context, finding the icons and labels effective but noting it&#39;s not as cheap as commonly claimed.</p>
+<p><strong>中文摘要：</strong>作者使用 JEV 整理帖子，并基于分类上下文制作了 1001 个独立图标，认为图标和标签效果不错，但成本并不像大家说的那么低。</p>
+<p><strong>coinathlete</strong> · @coinathlete · 2026-09-21</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 24 &nbsp; 📊 769</p>
+<p><a href="https://x.com/coinathlete/status/2102143616852676957">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

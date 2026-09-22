@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Developer tools](../categories/developer-tools.md) — 252
-- [How it works](../categories/how-it-works.md) — 250
-- [Access updates](../categories/access-updates.md) — 241
-- [Gaming](../categories/gaming.md) — 203
-- [Launch news](../categories/launch-news.md) — 131
-- [Agents](../categories/agents.md) — 131
-- [Developer resources](../categories/developer-resources.md) — 124
-- [Community builds](../categories/community-builds.md) — 118
-- [Finance](../categories/finance.md) — 98
-- [Workflow automation](../categories/workflow-automation.md) — 79
-- [Marketing](../categories/marketing.md) — 67
-- [Knowledge & search](../categories/knowledge-search.md) — 61
+- [How it works](../categories/how-it-works.md) — 255
+- [Developer tools](../categories/developer-tools.md) — 253
+- [Access updates](../categories/access-updates.md) — 244
+- [Gaming](../categories/gaming.md) — 208
+- [Launch news](../categories/launch-news.md) — 134
+- [Agents](../categories/agents.md) — 134
+- [Developer resources](../categories/developer-resources.md) — 126
+- [Community builds](../categories/community-builds.md) — 120
+- [Finance](../categories/finance.md) — 99
+- [Workflow automation](../categories/workflow-automation.md) — 80
+- [Marketing](../categories/marketing.md) — 69
+- [Knowledge & search](../categories/knowledge-search.md) — 62
 - [Data analytics](../categories/data-analytics.md) — 55
-- [Content creation](../categories/content-creation.md) — 47
+- [Content creation](../categories/content-creation.md) — 48
 - [Robotics](../categories/robotics.md) — 29
+- [Scientific research](../categories/scientific-research.md) — 22
 - [Customer support](../categories/customer-support.md) — 20
-- [Scientific research](../categories/scientific-research.md) — 20
 - [Productivity](../categories/productivity.md) — 16
 - [Business operations](../categories/business-operations.md) — 15
+- [Cybersecurity](../categories/cybersecurity.md) — 15
 - [Software development](../categories/software-development.md) — 15
 - [Healthcare](../categories/healthcare.md) — 13
-- [Cybersecurity](../categories/cybersecurity.md) — 13
 - [E-commerce](../categories/e-commerce.md) — 12
 - [Education](../categories/education.md) — 11
-- [Legal & compliance](../categories/legal-compliance.md) — 9
+- [Legal & compliance](../categories/legal-compliance.md) — 10

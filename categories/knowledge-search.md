@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 61 | 36 | 25 | 235K |
+| 62 | 36 | 26 | 235K |
 
 ## Showcase 卡片
 
@@ -275,6 +275,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/cossssmin/status/2102137516153283030"><img src="https://pbs.twimg.com/media/HSxKcGXWQAAqc44?format=jpg&amp;name=medium" alt="How to explain what Jev is · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cossssmin/status/2102137516153283030">How to explain what Jev is</a></h3>
+<p>A tweet asking how to explain what Jev is, reflecting community discussion on communicating the concept.</p>
+<p><strong>中文摘要：</strong>一条推文询问如何向他人解释 Jev 是什么，反映社区对 Jev 概念传播的讨论。</p>
+<p><strong>Cosmin Popovici</strong> · @cossssmin · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 56</p>
+<p><a href="https://x.com/cossssmin/status/2102137516153283030">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/LeahW_2077/status/2101894926250168654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101890480606674944/img/JdPCHOnBidP_XbQN.jpg" alt="Ranking NYC Places with Jev Based on Google Maps History · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -285,6 +296,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 52</p>
 <p><a href="https://x.com/LeahW_2077/status/2101894926250168654">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/piyush_yip/status/2101997596202152375"><img src="https://pbs.twimg.com/amplify_video_thumb/2101996736227270656/img/hovwK7Jy1Wd9RWXB.jpg" alt="Building a Retrieval Pipeline with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 52</p>
 <p><a href="https://x.com/piyush_yip/status/2101997596202152375">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101902991942930743"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a Knowledge Base with Jev: A Second Brain · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
 <p><a href="https://x.com/Threeaio/status/2101902991942930743">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/snaga/status/2101901648184643707"><img src="https://pbs.twimg.com/media/HSt0LTabQAAACdr?format=jpg&amp;name=medium" alt="Experimenting with Hacker News Personalized Recommendations Using TypeSafe System One (Jev) · 原帖图片" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/snaga/status/2101901648184643707">在 X 查看原帖</a> · <a href="https://t.co/ndZVcLZOXJ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/milvusio/status/2102062798708900176"><img src="https://pbs.twimg.com/tweet_video_thumb/HSvUqy2aIAAjyKA.jpg" alt="Can Jev Replace a Reranker in RAG? · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
 <p><a href="https://x.com/milvusio/status/2102062798708900176">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Threeaio/status/2101904594494181513"><img src="https://pbs.twimg.com/amplify_video_thumb/2101902797897699328/img/Bjn3nF8YyfdwQTcR.jpg" alt="Building a retrieval pipeline for a knowledge base with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/Threeaio/status/2101904594494181513">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2101914135151694185"><img src="https://pbs.twimg.com/media/HSt_wkRa4AADOA1?format=jpg&amp;name=medium" alt="JevBench v1.2.6 Leaderboard Update · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/airesearch12/status/2101914135151694185">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sunyuzheng/status/2101913251277848996"><img src="https://pbs.twimg.com/media/HSt-2qfagAAmuim?format=png&amp;name=medium" alt="Jev and the AI Narrative Trap: Getting Outside the Frame · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/sunyuzheng/status/2101913251277848996">在 X 查看原帖</a> · <a href="https://t.co/1bb9oZ34Yn">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vibes_output/status/2102169993354068161"><img src="https://pbs.twimg.com/media/HSxodtLbEAAohfC?format=jpg&amp;name=medium" alt="Jev intent-based search browser extension demo · 原帖图片" width="100%"></a>
 <br>
@@ -381,6 +392,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/vibes_output/status/2102169993354068161">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Deeprenuer/status/2101952697565872608"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Learn about Jev from the founder himself · 原帖视频截图" width="100%"></a>
 <br>
@@ -392,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Deeprenuer/status/2101952697565872608">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kamepee_7/status/2101915912698032535"><img src="https://pbs.twimg.com/media/HSuAAt8b0AEGHSu?format=jpg&amp;name=small" alt="AI Community Buzzing About Jev, Author Explores Its Applications via Learning Mode · 原帖图片" width="100%"></a>
 <br>
@@ -405,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/kamepee_7/status/2101915912698032535">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maker_jackie/status/2101945851824476559"><img src="https://pbs.twimg.com/amplify_video_thumb/2101944223159476224/img/q1ddJmZDbAWOOnzj.jpg" alt="Jev Explainer Animation Short · 原帖视频截图" width="100%"></a>
 <br>
@@ -416,8 +429,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/maker_jackie/status/2101945851824476559">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/servasyy_ai/status/2101634170267312239"><img src="https://pbs.twimg.com/media/HSqA-yqaYAE_W1j?format=jpg&amp;name=medium" alt="The Best Applications of the Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -429,6 +440,8 @@
 <p>💬 37 &nbsp; 🔁 43 &nbsp; ♡ 275 &nbsp; 📊 86K</p>
 <p><a href="https://x.com/servasyy_ai/status/2101634170267312239">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shridharathi/status/2101715395925184678"><img src="https://pbs.twimg.com/amplify_video_thumb/2101715285761814528/img/auP6axoQ7SKD423F.jpg" alt="Fast image search with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -440,8 +453,6 @@
 <p>💬 31 &nbsp; 🔁 24 &nbsp; ♡ 505 &nbsp; 📊 28K</p>
 <p><a href="https://x.com/shridharathi/status/2101715395925184678">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zhilinjerrywag/status/2101576651238711642"><img src="https://pbs.twimg.com/amplify_video_thumb/2101567872715657216/img/IKufEQdJX6HajpYj.jpg" alt="Building Rolewise: A Resume-to-Job Matching Demo with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 8 &nbsp; 🔁 6 &nbsp; ♡ 18 &nbsp; 📊 2.9K</p>
 <p><a href="https://x.com/zhilinjerrywag/status/2101576651238711642">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oikon48/status/2101795788938695127"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Jev Browser Extension: Intent-Based Search Experience · 原帖视频截图" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 1.0K</p>
 <p><a href="https://x.com/oikon48/status/2101795788938695127">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hosenurrh/status/2101796931718824057"><img src="https://pbs.twimg.com/amplify_video_thumb/2101796462581653506/img/2HyBeDznlBEpVoVf.jpg" alt="Jev digs up lost items from browser history · 原帖视频截图" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 711</p>
 <p><a href="https://x.com/hosenurrh/status/2101796931718824057">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIVENTURE808/status/2101493379318092213"><img src="https://pbs.twimg.com/amplify_video_thumb/2101491451003588608/img/kcxJIc0GvgtbyNeZ.jpg" alt="A Quick Introduction to the JEV Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 175</p>
 <p><a href="https://x.com/AIVENTURE808/status/2101493379318092213">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kzkhykw/status/2101641693653320075"><img src="https://pbs.twimg.com/amplify_video_thumb/2101576307352203264/img/THdpZUHOSRsSoTVr.jpg" alt="Fuzzy Search in Page Content with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +512,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
 <p><a href="https://x.com/kzkhykw/status/2101641693653320075">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/78135436n/status/2101490041851953158"><img src="https://pbs.twimg.com/media/HSn9eB3bQAEu1RV?format=png&amp;name=small" alt="Using Jev Browsing to Pull Hard-to-Fetch Articles · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 44</p>
 <p><a href="https://x.com/78135436n/status/2101490041851953158">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/intentplex/status/2101677299250704574"><img src="https://pbs.twimg.com/media/HSqnswFWIAAT_St?format=jpg&amp;name=medium" alt="Jev Directory Reaches 448 Projects, Searched with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/intentplex/status/2101677299250704574">在 X 查看原帖</a> · <a href="https://t.co/Azvnej5dkk">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thecodinguy/status/2101592404461867345"><img src="https://pbs.twimg.com/media/HSpbCxMacAAparY?format=jpg&amp;name=medium" alt="Exploring what, why, who, and where Jev is · 原帖图片" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/thecodinguy/status/2101592404461867345">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2101311992984199580"><img src="https://pbs.twimg.com/media/HSlcDnPXkAAHTH1?format=jpg&amp;name=medium" alt="JevBench Results: Jev Still in the Lead · 原帖图片" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 51 &nbsp; 🔁 111 &nbsp; ♡ 845 &nbsp; 📊 153K</p>
 <p><a href="https://x.com/airesearch12/status/2101311992984199580">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/venturetwins/status/2101341075684434245"><img src="https://pbs.twimg.com/amplify_video_thumb/2101339712464326656/img/A8yq5IoXQuhJAi32.jpg" alt="Jev for Natural Language Search on Websites: Scanning Zillow Listings · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 35 &nbsp; 🔁 36 &nbsp; ♡ 673 &nbsp; 📊 48K</p>
 <p><a href="https://x.com/venturetwins/status/2101341075684434245">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/XiaoYan13429139/status/2101213202264547729"><img src="https://pbs.twimg.com/media/HSkB4sBW0AA8Hsi?format=jpg&amp;name=medium" alt="Jev&#39;s intelligence said to match Qwen3.5-2B, with ultra-low latency as its edge · 原帖图片" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/XiaoYan13429139/status/2101213202264547729">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/saifcodes_exe/status/2101341881070391714"><img src="https://pbs.twimg.com/media/HSl3OLlacAAil3_?format=jpg&amp;name=medium" alt="Building FyleContext retrieval project with TypeSafe Jev · 原帖图片" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
 <p><a href="https://x.com/saifcodes_exe/status/2101341881070391714">在 X 查看原帖</a> · <a href="https://t.co/aFOXJ5J1je">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/penguin2716/status/2100862419203658066"><img src="https://pbs.twimg.com/media/HSfCv6naYAAsIaX?format=png&amp;name=small" alt="Jev&#39;s Answer on Senkaku Islands Varies by Language · 原帖图片" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 16 &nbsp; 🔁 242 &nbsp; ♡ 1.4K &nbsp; 📊 235K</p>
 <p><a href="https://x.com/penguin2716/status/2100862419203658066">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robj3d3/status/2101074194260000982"><img src="https://pbs.twimg.com/amplify_video_thumb/2101071392385236992/img/CEKcs7SuhRGA5TTV.jpg" alt="Jev solves doomscrolling in ~2s for $0.007 · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 76 &nbsp; 🔁 89 &nbsp; ♡ 1.6K &nbsp; 📊 158K</p>
 <p><a href="https://x.com/robj3d3/status/2101074194260000982">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sarvagya_kul/status/2100980770206879849"><img src="https://pbs.twimg.com/amplify_video_thumb/2100980671640645632/img/19dyomYRhfAONg7S.jpg" alt="JEV Predicts Job Matches Across 400 Companies in 12 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 199 &nbsp; 🔁 96 &nbsp; ♡ 1.7K &nbsp; 📊 145K</p>
 <p><a href="https://x.com/sarvagya_kul/status/2100980770206879849">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dabit3/status/2100960281769738433"><img src="https://pbs.twimg.com/amplify_video_thumb/2100959260616151040/img/nb1GFqB_cwNesugB.jpg" alt="Jev Excels at Intent-Based Search in Gmail · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 44 &nbsp; 🔁 40 &nbsp; ♡ 897 &nbsp; 📊 132K</p>
 <p><a href="https://x.com/dabit3/status/2100960281769738433">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usutaku_channel/status/2100893262890614944"><img src="https://pbs.twimg.com/amplify_video_thumb/2100893179394641920/img/aW8b-3zp0zH7Nbjp.jpg" alt="The AI &quot;Jev&quot; Trending on X: A 40-Second Beginner Explainer · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 7 &nbsp; 🔁 57 &nbsp; ♡ 841 &nbsp; 📊 79K</p>
 <p><a href="https://x.com/usutaku_channel/status/2100893262890614944">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GoSailGlobal/status/2100877682972258619"><img src="https://pbs.twimg.com/amplify_video_thumb/2100877620292583424/img/7Ztuku-R01C1GvlU.jpg" alt="Testing Jev for Search Reranking · 原帖视频截图" width="100%"></a>
 <br>
@@ -656,8 +669,6 @@
 <p>💬 6 &nbsp; 🔁 10 &nbsp; ♡ 70 &nbsp; 📊 18K</p>
 <p><a href="https://x.com/GoSailGlobal/status/2100877682972258619">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/libukai/status/2100984923926728920"><img src="https://pbs.twimg.com/amplify_video_thumb/2100977858718113792/img/1cfiUtsApbmw3_sp.jpg" alt="High Buzz Around the Jev Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -669,6 +680,8 @@
 <p>💬 25 &nbsp; 🔁 14 &nbsp; ♡ 160 &nbsp; 📊 17K</p>
 <p><a href="https://x.com/libukai/status/2100984923926728920">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dr_nikhilshah/status/2100810954674212969"><img src="https://pbs.twimg.com/media/HSeUbfRbUAACF0G?format=jpg&amp;name=medium" alt="Jev cuts AudioScholar curation time by ~25x · 原帖图片" width="100%"></a>
 <br>
@@ -680,8 +693,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 446</p>
 <p><a href="https://x.com/dr_nikhilshah/status/2100810954674212969">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Brantley_Brum/status/2100789817475051981"><img src="https://pbs.twimg.com/amplify_video_thumb/2100789578307420161/img/zK90Lvnf6zpvUfMd.jpg" alt="Learn about TypeSafe AI&#39;s Jev model · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +704,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 130</p>
 <p><a href="https://x.com/Brantley_Brum/status/2100789817475051981">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Imheyhomees/status/2100993776869154932"><img src="https://pbs.twimg.com/amplify_video_thumb/2100993020707434496/img/QIBqRCsWAwfqb0S7.jpg" alt="TypeSafe AI and Jev Share Video · 原帖视频截图" width="100%"></a>
 <br>
@@ -704,8 +717,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 43</p>
 <p><a href="https://x.com/Imheyhomees/status/2100993776869154932">在 X 查看原帖</a> · <a href="https://t.co/KsEBlhUObD">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chetaslua/status/2100473581251748216"><img src="https://pbs.twimg.com/amplify_video_thumb/2100473445868003328/img/1ukjahQYLgbIEmyI.jpg" alt="Building a live BS meter for the Trump vs Kamala debate with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -717,6 +728,8 @@
 <p>💬 71 &nbsp; 🔁 86 &nbsp; ♡ 1.4K &nbsp; 📊 180K</p>
 <p><a href="https://x.com/chetaslua/status/2100473581251748216">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Totzenberger/status/2100570643355852954"><img src="https://pbs.twimg.com/amplify_video_thumb/2100554427107028992/img/z9tWcqexQS9bTmjc.jpg" alt="Jev text classification: 6000x cheaper than Pangram · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +741,6 @@
 <p>💬 17 &nbsp; 🔁 5 &nbsp; ♡ 132 &nbsp; 📊 58K</p>
 <p><a href="https://x.com/Totzenberger/status/2100570643355852954">在 X 查看原帖</a> · <a href="https://t.co/v6JKFWq4YY">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dotpem/status/2100389272004198844"><img src="https://pbs.twimg.com/media/HSYUhVkbgAAmUiS?format=jpg&amp;name=medium" alt="Semantic Querying Use Case with Jev and TypeSafe AI · 原帖图片" width="100%"></a>
 <br>
@@ -741,6 +752,5 @@
 <p>💬 22 &nbsp; 🔁 43 &nbsp; ♡ 523 &nbsp; 📊 37K</p>
 <p><a href="https://x.com/dotpem/status/2100389272004198844">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

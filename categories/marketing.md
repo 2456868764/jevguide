@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 67 | 54 | 13 | 904K |
+| 69 | 56 | 13 | 904K |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/shengkunye/status/2102141680606724190">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/MonidHQ/status/2102143380025417966"><img src="https://pbs.twimg.com/amplify_video_thumb/2102138973145706496/img/V8Ypjv4EsGRu_OQa.jpg" alt="Jev Helps Monid Automatically Find TikTok Content Patterns · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MonidHQ/status/2102143380025417966">Jev Helps Monid Automatically Find TikTok Content Patterns</a></h3>
+<p>Monid supplies the data and tools while Jev automatically analyzes TikTok content to surface effective patterns, avoiding manual video review at 1.9 seconds and $0.0022.</p>
+<p><strong>中文摘要：</strong>Monid 提供数据与工具，Jev 自动分析 TikTok 内容并发现有效模式，无需人工逐个观看视频，耗时 1.9 秒、成本 $0.0022。</p>
+<p><strong>Monid</strong> · @MonidHQ · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 901</p>
+<p><a href="https://x.com/MonidHQ/status/2102143380025417966">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/chesny/status/2102008701754409204"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008560356044801/img/9EM4dd1bDUSkylOi.jpg" alt="Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖视频</code></sub>
@@ -152,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 15 &nbsp; 📊 515</p>
 <p><a href="https://x.com/chesny/status/2102008701754409204">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chesny/status/2101938912423735654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937911113351168/img/HZzwSsZhAbcKs_ze.jpg" alt="Jev Analyzes 724 Ads in 40 Seconds for 9 Cents · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 10 &nbsp; 🔁 6 &nbsp; ♡ 20 &nbsp; 📊 438</p>
 <p><a href="https://x.com/chesny/status/2101938912423735654">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zrebroia/status/2102010035262079476"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009710589476864/img/jBDI5jrKIkd6iL5H.jpg" alt="Jev Runs Ad Marketing Operations for Under $3 · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 417</p>
 <p><a href="https://x.com/zrebroia/status/2102010035262079476">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/laobaishare/status/2102011768818282773"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102011712014839808/pu/img/l1JzTwCxRQHV2JCD.jpg" alt="JEV Cuts SEO/GEO Agent Run Cost by 10x · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 328</p>
 <p><a href="https://x.com/laobaishare/status/2102011768818282773">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/timbuildwithai/status/2102167332172767392"><img src="https://pbs.twimg.com/media/HSxlNgsWMAAzwJr?format=jpg&amp;name=large" alt="Rebuilding an AI Lead Qualification Workflow with Jev as the Decision Layer · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 50</p>
 <p><a href="https://x.com/timbuildwithai/status/2102167332172767392">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/parthjain_1/status/2102178563512570027"><img src="https://pbs.twimg.com/media/HSsacada0AAReI9?format=jpg&amp;name=medium" alt="20 GTM Engineering Use Cases for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +223,19 @@
 <p><strong>parth jain</strong> · @parthjain_1 · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/parthjain_1/status/2102178563512570027">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shivilizationn/status/2102144095447883870"><img src="https://pbs.twimg.com/tweet_video_thumb/HSxQ4Mfa8AE81Wx.jpg" alt="Jev for Google Ads: Judging Ad Decisions One at a Time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shivilizationn/status/2102144095447883870">Jev for Google Ads: Judging Ad Decisions One at a Time</a></h3>
+<p>The post describes using Jev to judge Google Ads account decisions one at a time, with an example sorting 12,418 search terms, flagging 1,206 negatives and $3,912 of waste in 12 seconds.</p>
+<p><strong>中文摘要：</strong>帖子介绍用 Jev 逐条判断 Google Ads 账户决策，示例包括对 12,418 个搜索词分类，标记 1,206 个否定词和 3,912 美元浪费，耗时 12 秒。</p>
+<p><strong>Shivendra Rawat</strong> · @shivilizationn · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><a href="https://x.com/shivilizationn/status/2102144095447883870">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/akihiko_takai/status/2101952556058759450"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101952532105113600/pu/img/6n0QZYMogneL40ut.jpg" alt="Jev-powered AI service for pre-post risk detection launches in beta · 原帖视频截图" width="100%"></a>

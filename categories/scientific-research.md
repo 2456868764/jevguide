@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 20 | 11 | 9 | 136K |
+| 22 | 11 | 11 | 136K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/Charles_Y_Wu/status/2102052230463381855">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/chrisbest/status/2102143807991214334"><img src="https://pbs.twimg.com/media/HSxQY8facAASRTq?format=jpg&amp;name=medium" alt="Jev solves problems that stumped top humans · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/chrisbest/status/2102143807991214334">Jev solves problems that stumped top humans</a></h3>
+<p>Chris Best says Jev solves problems that stumped top humans.</p>
+<p><strong>中文摘要：</strong>Chris Best 表示 Jev 解决了难倒顶尖人类的问题。</p>
+<p><strong>Chris Best</strong> · @chrisbest · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 25 &nbsp; 📊 3.2K</p>
+<p><a href="https://x.com/chrisbest/status/2102143807991214334">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/picocreator/status/2102149815102734768"><img src="https://pbs.twimg.com/media/HSxVncjb0AAf-Yd?format=jpg&amp;name=medium" alt="Teaser: Jev vs Open Model Vision Evals · 原帖图片" width="100%"></a>
 <br>
 <sub><code>科研</code> <code>原帖图片</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 1.4K</p>
 <p><a href="https://x.com/picocreator/status/2102149815102734768">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2102147933273465264"><img src="https://pbs.twimg.com/media/HSxUQa8WYAET4lr?format=png&amp;name=small" alt="JevBench Updated to v1.2.16, Winnow-12B Enters Top Five · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 24 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/airesearch12/status/2102147933273465264">在 X 查看原帖</a> · <a href="https://t.co/hFQ5fX4JEb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/m_hatayama/status/2101946922370302456"><img src="https://pbs.twimg.com/amplify_video_thumb/2101943718492479488/img/-NB4PZvkJtIg9llD.jpg" alt="A failed fish school simulation prototype with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/m_hatayama/status/2101946922370302456">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ChineseLLM/status/2102173196166295879"><img src="https://pbs.twimg.com/media/HSxb_aNXYAAjRhi?format=png&amp;name=small" alt="Jev Solves a Long-Standing Open Problem in Mathematics · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 71 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/ChineseLLM/status/2102173196166295879">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rodenlab/status/2102161950700339525"><img src="https://pbs.twimg.com/amplify_video_thumb/2102154117082734592/img/McNrTg7kpZShzeiX.jpg" alt="Jev joins creation and further research with hybrid001 · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 12 &nbsp; 🔁 3 &nbsp; ♡ 23 &nbsp; 📊 689</p>
 <p><a href="https://x.com/rodenlab/status/2102161950700339525">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/homerosousa/status/2101865551798649142"><img src="https://pbs.twimg.com/amplify_video_thumb/2101864711625101312/img/VoJNsvYBX2KgVKdI.jpg" alt="Jev turns conference talk transcripts into GRADE evidence profiles · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,19 @@
 <p><strong>HS</strong> · @homerosousa · 2026-09-21</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/homerosousa/status/2101865551798649142">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bkodjao/status/2102145812591411451"><img src="https://pbs.twimg.com/media/HSxR7F6WQAAbbpf?format=jpg&amp;name=medium" alt="System Omega Outperforms Jev 1.13 API on SQuAD v2 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bkodjao/status/2102145812591411451">System Omega Outperforms Jev 1.13 API on SQuAD v2</a></h3>
+<p>System Omega achieves 87.71% decision accuracy on SQuAD v2 answerability, 15.0 points ahead of the Jev 1.13 API, in a single forward pass.</p>
+<p><strong>中文摘要：</strong>System Omega 在 SQuAD v2 可答性任务上达到 87.71% 决策准确率，比 Jev 1.13 API 高 15.0 个百分点，且仅需单次前向传播。</p>
+<p><strong>Bruno Kodjaoglanian</strong> · @bkodjao · 2026-09-21</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/bkodjao/status/2102145812591411451">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/W3_Btc/status/2102148366691958868"><img src="https://pbs.twimg.com/media/HSxUZJEWwAAKuZc?format=jpg&amp;name=medium" alt="Jev Tested in a Fictional Lunar Crisis Demo · 原帖图片" width="100%"></a>

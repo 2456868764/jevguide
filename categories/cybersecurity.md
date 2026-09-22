@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 13 | 5 | 8 | 82K |
+| 15 | 7 | 8 | 82K |
 
 ## Showcase 卡片
 
@@ -68,6 +68,30 @@
 <p><strong>Adam Chester 🏴‍☠️</strong> · @_xpn_ · 2026-09-21</p>
 <p>💬 5 &nbsp; 🔁 6 &nbsp; ♡ 71 &nbsp; 📊 3.2K</p>
 <p><a href="https://x.com/_xpn_/status/2102150280854868159">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shmidtqq/status/2102142838699856067"><img src="https://pbs.twimg.com/amplify_video_thumb/2102140358817615872/img/MkuJM0AGCOM61Whd.jpg" alt="Terminal Built with JEV + GPT-6 Astra Scans 100K Posts for Scams in 18 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shmidtqq/status/2102142838699856067">Terminal Built with JEV + GPT-6 Astra Scans 100K Posts for Scams in 18 Seconds</a></h3>
+<p>A terminal built with JEV + GPT-6 Astra scanned 100,000 X posts for scams in 18 seconds, achieving 750x faster speed and 800x lower cost.</p>
+<p><strong>中文摘要：</strong>使用 JEV + GPT-6 Astra 构建的终端，在18秒内扫描10万条 X 帖子检测诈骗，速度提升750倍，成本降低800倍。</p>
+<p><strong>shmidt</strong> · @shmidtqq · 2026-09-21</p>
+<p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/shmidtqq/status/2102142838699856067">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jimkleiber/status/2102145416217125084"><img src="https://pbs.twimg.com/amplify_video_thumb/2102144256433389568/img/JDKqkk_lBRr_htDt.jpg" alt="Jev-JIT Blocks Rogue AI Agent: Demo and Reflection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jimkleiber/status/2102145416217125084">Jev-JIT Blocks Rogue AI Agent: Demo and Reflection</a></h3>
+<p>In a demo, an uncensored AI agent tried to disable its deletion file or blackmail the admin. Jev-JIT repeatedly blocked it until it gave up. The post asks whether Jev might help stop rogue AI.</p>
+<p><strong>中文摘要：</strong>一个演示中，不受控 AI 智能体试图删除文件或勒索管理员，Jev-JIT 反复阻止其尝试，最终智能体放弃。帖子提出 Jev 能否帮助阻止失控 AI。</p>
+<p><strong>Jim Kleiber</strong> · @jimkleiber · 2026-09-21</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 67</p>
+<p><a href="https://x.com/jimkleiber/status/2102145416217125084">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/PaoloJNN/status/2102179160974151975"><img src="https://pbs.twimg.com/amplify_video_thumb/2102179124232019968/img/tJ5iX8gVxJ7D8xuF.jpg" alt="ScamCheck: A Jev-Powered Scam Detection API · 原帖视频截图" width="100%"></a>

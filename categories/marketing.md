@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 82 | 67 | 15 | 904K |
+| 86 | 70 | 16 | 904K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rewind02/status/2102739436060459414"><img src="https://pbs.twimg.com/amplify_video_thumb/2102739362735685632/img/C2bgrUCHE0_ysYqF.jpg" alt="Jev acts as router to optimize AI UGC ad rendering · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rewind02/status/2102739436060459414">Jev acts as router to optimize AI UGC ad rendering</a></h3>
+<p>Higgsfield wired Jev in as the router; Jev and DeepSeek filter 100 AI avatar candidates down to 20, then render product UGC videos for those candidates.</p>
+<p><strong>中文摘要：</strong>Higgsfield 将 Jev 集成为路由器，Jev 与 DeepSeek 将 100 个 AI 头像候选筛选至 20 个，再为这些候选渲染产品 UGC 视频。</p>
+<p><strong>rewind</strong> · @rewind02 · 2026-09-23</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 138</p>
+<p><a href="https://x.com/rewind02/status/2102739436060459414">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/LiorNsnd/status/2102643294765515144"><img src="https://pbs.twimg.com/media/HS4W5utbYAAHGj0?format=png&amp;name=medium" alt="Using Jev to prepare a lead qualification workflow · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 106</p>
 <p><a href="https://x.com/LiorNsnd/status/2102643294765515144">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DRudhamoy/status/2102657349760561191"><img src="https://pbs.twimg.com/media/HS4jCkdasAAuna-?format=jpg&amp;name=medium" alt="Testing TypeSafe Jev in BuildTraction to find the right potential users · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,30 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
 <p><a href="https://x.com/DRudhamoy/status/2102657349760561191">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/raph_guilhem/status/2102741177535430714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102740953345806336/img/CbrEJXgmfqKlSslk.jpg" alt="Opus 5.5 + Jev Automatically Scores Competitor Ads · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/raph_guilhem/status/2102741177535430714">Opus 5.5 + Jev Automatically Scores Competitor Ads</a></h3>
+<p>The author combines the recently released Claude Opus 5.5 and Jev for a marketing use case: automatically scoring 120 competitor ads, shortlisting 10 worth adapting, and creating versions of each.</p>
+<p><strong>中文摘要：</strong>作者将近期发布的 Claude Opus 5.5 与 Jev 组合，在营销场景中自动为 120 个竞品广告评分，筛选出 10 个值得改编的，并为每个生成多个版本。</p>
+<p><strong>Raph Guilhem</strong> · @raph_guilhem · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
+<p><a href="https://x.com/raph_guilhem/status/2102741177535430714">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FerdinandTerme/status/2102718719235371344"><img src="https://pbs.twimg.com/amplify_video_thumb/2102718652080340992/img/cMUI5CgPrgQ2tIHC.jpg" alt="JEV for Ad Creative Scoring: Analyze Competitor Ads Fast · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/FerdinandTerme/status/2102718719235371344">JEV for Ad Creative Scoring: Analyze Competitor Ads Fast</a></h3>
+<p>The author uses Claude and the Pletor_ai MCP to extract 100+ competitor ads and leverages JEV to score creatives in no time.</p>
+<p><strong>中文摘要：</strong>作者通过 Claude 和 Pletor_ai MCP 提取 100+ 竞品广告，使用 JEV 在短时间内完成创意评分。</p>
+<p><strong>Ferdinand Terme</strong> · @FerdinandTerme · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/FerdinandTerme/status/2102718719235371344">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/MeredithCheng22/status/2102589460794036340"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589390187057152/img/5QvqQn63YZ8rFG5y.jpg" alt="Jev × Tonebird: Check replies before sending · 原帖视频截图" width="100%"></a>
 <br>
@@ -44,6 +79,19 @@
 <p><strong>Monica Cheng</strong> · @MeredithCheng22 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/MeredithCheng22/status/2102589460794036340">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AronTomorrowLab/status/2102740314146341338"><img src="https://pbs.twimg.com/media/HS5u4TxWkAAnbaI?format=jpg&amp;name=medium" alt="Jev Screens Leads: Only 47% Fit ICP After 605M Tokens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AronTomorrowLab/status/2102740314146341338">Jev Screens Leads: Only 47% Fit ICP After 605M Tokens</a></h3>
+<p>Aron shares using TypeSafe Jev on 605M+ tokens for live campaigns, finding only 47% of leads fit the client ICP. Compared to reading 409 websites with Claude Code/Clay in 38 minutes, Jev is much faster.</p>
+<p><strong>中文摘要：</strong>Aron分享使用 TypeSafe Jev 处理超6亿 tokens，在实时广告活动中发现仅47%的线索符合客户ICP。对比此前用 Claude Code/Clay 阅读409个网站需要38分钟，Jev 大幅提升效率。</p>
+<p><strong>Aron | TomorrowLab</strong> · @AronTomorrowLab · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/AronTomorrowLab/status/2102740314146341338">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/TontonJars/status/2102664156176375986"><img src="https://pbs.twimg.com/tweet_video_thumb/HS4p58oWoAAJNnk.jpg" alt="First test of JEV for SEO: not an LLM, but a decision tool · 原帖视频截图" width="100%"></a>

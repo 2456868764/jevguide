@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 151 | 65 | 86 | 419K |
+| 153 | 65 | 88 | 419K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/SatOnchain/status/2102718038273597889"><img src="https://pbs.twimg.com/media/HS5adW2a0AAst6f?format=png&amp;name=900x900" alt="Handbook on Using Jev as Classifiers for Large-Scale Evals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SatOnchain/status/2102718038273597889">Handbook on Using Jev as Classifiers for Large-Scale Evals</a></h3>
+<p>This tweet shares a handbook on how Jev can be used as classifiers for large-scale evals, calling it gold and suggesting potential millions.</p>
+<p><strong>中文摘要：</strong>该推文分享了一本关于如何使用 Jev 进行大规模评估分类的手册，称其为‘金子’，并认为解决者可能赚取数百万。</p>
+<p><strong>saturn</strong> · @SatOnchain · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 59</p>
+<p><a href="https://x.com/SatOnchain/status/2102718038273597889">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/rlaope/status/2102719868978303034"><img src="https://pbs.twimg.com/media/HS5cPjWaQAAbDft?format=jpg&amp;name=medium" alt="Sharing open-source JEV evaluation and routing tools · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 54</p>
 <p><a href="https://x.com/rlaope/status/2102719868978303034">在 X 查看原帖</a> · <a href="https://t.co/c3x2R5g2iP">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/explosss1ve/status/2102720407572746565"><img src="https://pbs.twimg.com/media/HS5dDTbXIAAxdaE?format=jpg&amp;name=medium" alt="MIT Professor Drops Jev Cheat Sheet for Agent Builders · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 34</p>
 <p><a href="https://x.com/explosss1ve/status/2102720407572746565">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sorajate/status/2102590935074996290"><img src="https://pbs.twimg.com/amplify_video_thumb/2102536666179420160/img/tQ7_djKXnjA1P5Tw.jpg" alt="Running a personal Jev on Google Cloud Run · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
 <p><a href="https://x.com/sorajate/status/2102590935074996290">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thedelost/status/2102725886478803297"><img src="https://pbs.twimg.com/amplify_video_thumb/2102701517916545024/img/iCOZ1yPpRsyf2Yke.jpg" alt="Jev Quick-Start Checklist: From API to jev-browser · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>delost</strong> · @thedelost · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 27</p>
 <p><a href="https://x.com/thedelost/status/2102725886478803297">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/i_darshanjain/status/2102717739127488923"><img src="https://pbs.twimg.com/media/HS5aZRsaIAAVBrE?format=jpg&amp;name=medium" alt="Open-Source Model Laya Compared to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/i_darshanjain/status/2102717739127488923">Open-Source Model Laya Compared to Jev</a></h3>
+<p>The author discovers Laya, an open-source System 1 decision model, claiming it is 7.8× faster and 3× better calibrated than Jev, with 45/51 language support, self-hosting, and public weights.</p>
+<p><strong>中文摘要：</strong>博主发现开源System 1决策模型Laya，声称比Jev快7.8倍、校准好3倍，支持45/51种语言，可自托管且权重公开，引发关注。</p>
+<p><strong>Darshan Jain</strong> · @i_darshanjain · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/i_darshanjain/status/2102717739127488923">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

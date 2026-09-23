@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 319 | 145 | 175 | 1.6M |
+| 321 | 146 | 176 | 1.6M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/GoSailGlobal/status/2102738801378627925"><img src="https://pbs.twimg.com/media/HS5tymjaoAAB-hF?format=jpg&amp;name=900x900" alt="The Jev Moment: From State and Question to Calibrated Probability · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GoSailGlobal/status/2102738801378627925">The Jev Moment: From State and Question to Calibrated Probability</a></h3>
+<p>This post, aimed at beginners of CodeX and Claude, introduces the basic flow of the Jev model: input state and question, process through Jev, and output calibrated probability.</p>
+<p><strong>中文摘要：</strong>这篇帖子面向 CodeX 和 Claude 初学者，介绍了 Jev 模型的基本流程：输入为状态和问题，经过 Jev 处理，输出校准概率。</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
+<p><a href="https://x.com/GoSailGlobal/status/2102738801378627925">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/stretchcloud/status/2102676090066231705"><img src="https://pbs.twimg.com/amplify_video_thumb/2100951319108567040/img/AZ1jFv9ySdRV-JYE.jpg" alt="TypeSafe AI&#39;s Jev: Making the Reasoning/Classification Split Explicit · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 56</p>
 <p><a href="https://x.com/stretchcloud/status/2102676090066231705">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vicky_grok/status/2102604990573646109"><img src="https://pbs.twimg.com/amplify_video_thumb/2102269555381002240/img/0ZlEGy4Bg9en-qhh.jpg" alt="Jev Flips the Usual AI Workflow: Output Software Can Act On · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
 <p><a href="https://x.com/vicky_grok/status/2102604990573646109">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wayne_culbreth/status/2102573935086665949"><img src="https://pbs.twimg.com/media/HS3X2dZWsAEI1q6?format=jpg&amp;name=medium" alt="Jev Is Just a Classifier: A Conversation on Multi-Tool AI Apps · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
 <p><a href="https://x.com/wayne_culbreth/status/2102573935086665949">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RickyGrannisVu/status/2102600112417673657"><img src="https://pbs.twimg.com/media/HS3vNEBbkAANOOa?format=jpg&amp;name=medium" alt="Jev Probability Decision Thresholds · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 47</p>
 <p><a href="https://x.com/RickyGrannisVu/status/2102600112417673657">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ya_ronen/status/2102707035091452106"><img src="https://pbs.twimg.com/media/HS5Qxv1XcAA5E1o?format=png&amp;name=medium" alt="Discussion on the difference between Jev and regular LLMs · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
 <p><a href="https://x.com/ya_ronen/status/2102707035091452106">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/floor_per_area/status/2102593439401439492"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593010991001600/img/VHBGXzCMZAe-bA4z.jpg" alt="Speeding Up Chat Responses with Jev and Pre-structured SQL · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
 <p><a href="https://x.com/floor_per_area/status/2102593439401439492">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/henryzhang/status/2102576882546000188"><img src="https://pbs.twimg.com/media/HS3aiE1aIAAs81U?format=jpg&amp;name=medium" alt="Generating Sentences Step by Step with Jev Probabilities · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>Henry Zhang</strong> · @henryzhang · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/henryzhang/status/2102576882546000188">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/spectnfa/status/2102743364302963121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102738033980174336/img/WYSjWC2JNddgzKt1.jpg" alt="Jev founder explains how Jev works in 1-hour masterclass · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/spectnfa/status/2102743364302963121">Jev founder explains how Jev works in 1-hour masterclass</a></h3>
+<p>The founder of Jev released a 1-hour masterclass breaking down how Jev actually works: LLMs → Decisions → Verification → Coding Agents, covering why LLMs alone aren&#39;t enough, the three primitives behind Jev, and turning huge AI tasks into tiny reliable steps.</p>
+<p><strong>中文摘要：</strong>Jev创始人发布一小时大师课，解析Jev的实际工作流程：LLM→决策→验证→编码智能体，并讨论为何仅靠LLM不够、Jev背后的三大原语，以及如何将大型AI任务拆解为小而可靠的步骤。</p>
+<p><strong>spect</strong> · @spectnfa · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 38</p>
+<p><a href="https://x.com/spectnfa/status/2102743364302963121">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ItsCuthulhu/status/2102573734825447858"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161121511649280/img/zsrydFm72dYdZcpO.jpg" alt="Using System One models like Jev for multi-path reasoning · 原帖视频截图" width="100%"></a>

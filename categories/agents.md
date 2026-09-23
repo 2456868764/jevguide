@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 182 | 100 | 83 | 3.0M |
+| 184 | 101 | 84 | 3.0M |
 
 ## Showcase 卡片
 
@@ -190,6 +190,19 @@
 <p><a href="https://x.com/xgwei/status/2102603891758285050">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/0xBynode/status/2102716004660842523"><img src="https://pbs.twimg.com/amplify_video_thumb/2102715003501481984/img/dC5O4aZcFXmXU7Ck.jpg" alt="Jev Autopilot: How AI Agent Swarms Learn When to Stop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xBynode/status/2102716004660842523">Jev Autopilot: How AI Agent Swarms Learn When to Stop</a></h3>
+<p>Jev Engineering&#39;s Autopilot targets the gap where AI agent swarms execute well but don&#39;t know when to stop, as seen with agents running up to 4,000 steps.</p>
+<p><strong>中文摘要：</strong>Jev Engineering 的 Autopilot 旨在解决 AI 代理群（如 Kimi 运行多达 4,000 步）只知道执行、不知道何时停止的问题。</p>
+<p><strong>Bynode</strong> · @0xBynode · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 40</p>
+<p><a href="https://x.com/0xBynode/status/2102716004660842523">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2102619045577273361"><img src="https://pbs.twimg.com/amplify_video_thumb/2102619018070990848/img/CBRO80Vnwh424QIs.jpg" alt="Low-cost computer use with OCR and TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/somi_ai/status/2102619045577273361">在 X 查看原帖</a> · <a href="https://t.co/YUszYYXA5d">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/XDniwei/status/2102599762872811609"><img src="https://pbs.twimg.com/media/HS3vSghbMAEo-Mc?format=jpg&amp;name=medium" alt="Jev Helps You Understand Your Partner Instantly · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +223,19 @@
 <p><strong>Quincy</strong> · @XDniwei · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/XDniwei/status/2102599762872811609">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_itzadnan_/status/2102717206924870053"><img src="https://pbs.twimg.com/media/HS5aAimaAAABiyy?format=jpg&amp;name=medium" alt="Jev as a Smart Gatekeeper to Optimize Hybrid LLM Pipelines · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_itzadnan_/status/2102717206924870053">Jev as a Smart Gatekeeper to Optimize Hybrid LLM Pipelines</a></h3>
+<p>By having Jev act as a fast, intuitive gatekeeper before heavy LLM generation, the hybrid pipeline cuts token costs and latency while preserving high-quality memory extraction and knowledge graph construction.</p>
+<p><strong>中文摘要：</strong>通过让Jev在调用重型LLM前担任快速直观的门控，混合管道显著降低token成本和延迟，同时保留高质量的记忆提取与知识图谱构建能力。</p>
+<p><strong>Adnan</strong> · @_itzadnan_ · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 23</p>
+<p><a href="https://x.com/_itzadnan_/status/2102717206924870053">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/voratheexplora/status/2102595079697277113"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593627079716864/img/S9CRNXCcc1bwJsvl.jpg" alt="Jev-Powered Elevator Simulation: Jev Decides the Next Floor · 原帖视频截图" width="100%"></a>

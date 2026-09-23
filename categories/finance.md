@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 118 | 65 | 54 | 1.2M |
+| 120 | 66 | 55 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dopamynAI/status/2102740583684948338"><img src="https://pbs.twimg.com/amplify_video_thumb/2102740415342358528/img/GFHK7zmxKeSeHE6o.jpg" alt="Dopamyn + JEV: 20x Faster Crypto Tagging · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dopamynAI/status/2102740583684948338">Dopamyn + JEV: 20x Faster Crypto Tagging</a></h3>
+<p>Dopamyn&#39;s crypto account tagging job is ~20x faster and cheaper with JEV compared to without.</p>
+<p><strong>中文摘要：</strong>Dopamyn在加密货币账户标签任务中引入JEV，相比未使用JEV时速度提升约20倍，成本也更低。</p>
+<p><strong>dopamyn.ai</strong> · @dopamynAI · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 216</p>
+<p><a href="https://x.com/dopamynAI/status/2102740583684948338">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_300/status/2102578703666413804"><img src="https://pbs.twimg.com/amplify_video_thumb/2102409698201022464/img/Ivwi7m-5_YdnbXnO.jpg" alt="Jev Achieves 100% Tax Document Classification, Cheaper and Faster · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><a href="https://x.com/ai_300/status/2102578703666413804">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cryptofanatiix/status/2102642116438417733"><img src="https://pbs.twimg.com/media/HSqZXJkWoAAYN7X?format=png&amp;name=900x900" alt="Jev: A 200ms Fast Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Théo</strong> · @cryptofanatiix · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 69</p>
 <p><a href="https://x.com/cryptofanatiix/status/2102642116438417733">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CyberMonk0x/status/2102674084085821719"><img src="https://pbs.twimg.com/media/HS4y76SasAATTR9?format=jpg&amp;name=medium" alt="Jev: The Popularity and Risks of Minimalist AI Decision-Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CyberMonk0x/status/2102674084085821719">Jev: The Popularity and Risks of Minimalist AI Decision-Making</a></h3>
+<p>Discusses Jev&#39;s ability to output concise probabilistic judgments without chat, and shares a case where it was used in a trading bot resulting in a $31K loss, emphasizing that AI speed cannot replace risk control.</p>
+<p><strong>中文摘要：</strong>讨论Jev模型不做闲聊只输出概率化极简判断的特点，并分享其用于交易Bot导致亏损3.1万美元的案例，强调AI速度无法替代风控。</p>
+<p><strong>CyberMonk 赛博行者</strong> · @CyberMonk0x · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 67</p>
+<p><a href="https://x.com/CyberMonk0x/status/2102674084085821719">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 102 | 68 | 34 | 595K |
+| 104 | 69 | 35 | 595K |
 
 ## Showcase 卡片
 
@@ -79,6 +79,30 @@
 <p><strong>Darren Li</strong> · @DarrenTheLi · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/DarrenTheLi/status/2102576557906940274">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tomcasaburi/status/2102743632134521235"><img src="https://pbs.twimg.com/media/HS5x9ySWQAEB3EE?format=jpg&amp;name=medium" alt="Upgraded AI Moderation Triage: Jev Handles Easy Checks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tomcasaburi/status/2102743632134521235">Upgraded AI Moderation Triage: Jev Handles Easy Checks</a></h3>
+<p>The author upgraded AI moderation triage in Bitsocial communities from gpt-5.6-luna to gpt-6-luna, with 50% cheaper input, 58% cheaper output, yet smarter. Jev still handles easy checks, and uncertain ones go to grok-4.7.</p>
+<p><strong>中文摘要：</strong>作者将 Bitsocial 社区的 AI 审核分流从 gpt-5.6-luna 升级到 gpt-6-luna，输入成本降低 50%，输出成本降低 58%，且更智能。Jev 仍负责简单检查，不确定的内容交给 grok-4.7 处理。</p>
+<p><strong>Tommaso Casaburi</strong> · @tomcasaburi · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><a href="https://x.com/tomcasaburi/status/2102743632134521235">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/entropy1996/status/2102743716767346765"><img src="https://pbs.twimg.com/amplify_video_thumb/2102743609183506432/img/QptlJgxN5RPFcC2f.jpg" alt="Access Ticket Automation: Jev&#39;s Judgment Costs Under 1 Paisa · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/entropy1996/status/2102743716767346765">Access Ticket Automation: Jev&#39;s Judgment Costs Under 1 Paisa</a></h3>
+<p>Kaustav Banerjee shares a complete automated workflow for an access ticket: 4 of 20 steps involve judgment calls handled by TypeSafe AI&#39;s Jev, not an LLM. The LLM runs once, the whole ticket costs ₹0.16, and Jev&#39;s share is under 1 paisa.</p>
+<p><strong>中文摘要：</strong>Kaustav Banerjee 分享了一个访问票据的完整自动化工作流：20 个步骤中 4 个关键判断由 TypeSafe AI 的 Jev 完成，而非 LLM。LLM 仅运行一次，整个票据成本 ₹0.16，Jev 占比不到 1 派萨。</p>
+<p><strong>Kaustav Banerjee</strong> · @entropy1996 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/entropy1996/status/2102743716767346765">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

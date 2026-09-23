@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 288 | 158 | 132 | 3.6M |
+| 292 | 162 | 132 | 3.6M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/GitHub_Daily/status/2102578718824931766">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/merccante/status/2102719975676862555"><img src="https://pbs.twimg.com/amplify_video_thumb/2102719873516269568/img/2LaOVNNcgsLH_U0e.jpg" alt="Jev model integrates with Cursor: decides whether the model wakes up · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/merccante/status/2102719975676862555">Jev model integrates with Cursor: decides whether the model wakes up</a></h3>
+<p>The post shares Grok 4.7&#39;s price and benchmarks in Cursor, and explains how Jev uses a Noul/Choice/Score loop to decide whether to allow, ask, or skip model invocation.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Grok 4.7 在 Cursor 中的价格与基准成绩，并说明 Jev 通过 Noul/Choice/Score 循环判断是否允许、询问或跳过模型调用。</p>
+<p><strong>mercante</strong> · @merccante · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 178</p>
+<p><a href="https://x.com/merccante/status/2102719975676862555">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/Instance_VRC/status/2102602267199459650"><img src="https://pbs.twimg.com/media/HS3xYiza0AALw2-?format=png&amp;name=medium" alt="Creating a Token-Interpretation Language for Laya, Jev&#39;s Local Version · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/Instance_VRC/status/2102602267199459650">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/blockchainys/status/2102676184420991299"><img src="https://pbs.twimg.com/amplify_video_thumb/2102676063583117312/img/cL6x8sbT6HwEDaeY.jpg" alt="OpenJEV: Free API for the Jev Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
 <p><a href="https://x.com/blockchainys/status/2102676184420991299">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KevinKelbie/status/2102603408637124705"><img src="https://pbs.twimg.com/amplify_video_thumb/2102591383286550528/img/nsxgadE3A9eN--Z-.jpg" alt="Built a Jev tool that scores codebase relevance · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
 <p><a href="https://x.com/KevinKelbie/status/2102603408637124705">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/me_barnyx/status/2102708705372295459"><img src="https://pbs.twimg.com/amplify_video_thumb/2102688695740469248/img/iU1hx852I4Pvk8G3.jpg" alt="JEV Turns the Hardest Part of AI Engineering into a Multiple Choice Test · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 26</p>
 <p><a href="https://x.com/me_barnyx/status/2102708705372295459">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WesternCube/status/2102657507240120409"><img src="https://pbs.twimg.com/media/HS4j2zubAAAWxQq?format=jpg&amp;name=medium" alt="Using Jev for instant Claude Code compaction · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/WesternCube/status/2102657507240120409">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/justvugg/status/2102704920650744170"><img src="https://pbs.twimg.com/amplify_video_thumb/2102704900094173184/img/66r7Lv-uKSs9ELNZ.jpg" alt="Colibrì Introduces Brio Mode Inspired by Jev: Closed-Set Probability Prediction · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 25</p>
 <p><a href="https://x.com/justvugg/status/2102704920650744170">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/uehaj/status/2102605642443927759"><img src="https://pbs.twimg.com/media/HS30IqYbsAEQmiw?format=jpg&amp;name=medium" alt="Prototype GUI Dashboard Classifying Project Vitals with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +140,17 @@
 <p><strong>uehaj</strong> · @uehaj · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/uehaj/status/2102605642443927759">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2102725184511717579"><img src="https://pbs.twimg.com/amplify_video_thumb/2102725152584740865/img/jlQ2AhwkBKD64YSP.jpg" alt="JEV Audits AI Config Files of GitHub&#39;s Top 1,000 Repos for $0.02 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2102725184511717579">JEV Audits AI Config Files of GitHub&#39;s Top 1,000 Repos for $0.02</a></h3>
+<p>JEV audited CLAUDE.md and AGENTS.md files across the 1,000 most-starred GitHub repos for just $0.02. The same task costs $0.81 with Claude Opus 5.5 and runs 10x slower.</p>
+<p><strong>中文摘要：</strong>JEV 审计了 GitHub 最热门 1000 个仓库的 CLAUDE.md 和 AGENTS.md 文件，仅花费 0.02 美元；相同任务 Claude Opus 5.5 需 0.81 美元且慢 10 倍。凸显 JEV 在真实代码库分析中的高效低成本。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><a href="https://x.com/stas_sorokin_/status/2102725184511717579">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -175,6 +199,30 @@
 <p><strong>Harukoxd</strong> · @surveys347 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/surveys347/status/2102575348609142871">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fahmifan_id/status/2102723812995534980"><img src="https://pbs.twimg.com/amplify_video_thumb/2102327255301332992/img/AED30ZYfrQphjqv9.jpg" alt="Generating UI with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fahmifan_id/status/2102723812995534980">Generating UI with Jev</a></h3>
+<p>A tweet about generating a UI with Jev.</p>
+<p><strong>中文摘要：</strong>一条关于使用 Jev 生成用户界面的推文。</p>
+<p><strong>fahmi irfan</strong> · @fahmifan_id · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/fahmifan_id/status/2102723812995534980">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MajdAICode/status/2102725255756501060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102720518973526016/img/f2nimlTCextP2X-X.jpg" alt="Optimizing Coding-Agent Workflows with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MajdAICode/status/2102725255756501060">Optimizing Coding-Agent Workflows with Jev</a></h3>
+<p>The author shares a coding-agent workflow they&#39;re exploring: Cursor, a separate worktree per feature, and using Jev for narrow decisions.</p>
+<p><strong>中文摘要：</strong>作者分享其探索的编码代理工作流：使用Cursor、每个功能一个独立工作树，并利用Jev进行窄决策。</p>
+<p><strong>MajdAICode</strong> · @MajdAICode · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/MajdAICode/status/2102725255756501060">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

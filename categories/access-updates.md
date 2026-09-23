@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 289 | 116 | 173 | 802K |
+| 291 | 116 | 175 | 802K |
 
 ## Showcase 卡片
 
@@ -166,6 +166,19 @@
 <p><a href="https://x.com/codex_aca/status/2102593813348835405">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Basil_dom/status/2102723261343642067"><img src="https://pbs.twimg.com/media/HS5fqEpWQAASvYf?format=jpg&amp;name=900x900" alt="Jev is now available via the B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Basil_dom/status/2102723261343642067">Jev is now available via the B.AI API</a></h3>
+<p>TypeSafe AI&#39;s Jev model is now integrated with the B.AI API, offering a different approach to structured decisions by incorporating application state, rather than just generating a block of text for developers to extract answers from.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型已集成至 B.AI API，采用结合应用状态的方式处理结构化决策，而非仅生成文本块供开发者提取答案。</p>
+<p><strong>BASIL DE MAGNUS</strong> · @Basil_dom · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/Basil_dom/status/2102723261343642067">在 X 查看原帖</a> · <a href="https://t.co/fXipRTBkvu">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/azailuhca/status/2102581717609652522"><img src="https://pbs.twimg.com/media/HS3eLc7a4AARR4Z?format=jpg&amp;name=medium" alt="After Jev&#39;s typesafe-sdk, trying curl command calls · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
 <p><a href="https://x.com/azailuhca/status/2102581717609652522">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/o_product/status/2102593809364467897"><img src="https://pbs.twimg.com/media/HS3p7W3aAAAjArH?format=jpg&amp;name=medium" alt="GPTBots.ai Integrates Judgment Model Jev to Strengthen Classification and Model Selection · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/o_product/status/2102593809364467897">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ItsCuthulhu/status/2102610109323198872"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Discussion on Jev Token Burn and No-Login Access · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/ItsCuthulhu/status/2102610109323198872">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TamaoT81581/status/2102681350650421266"><img src="https://pbs.twimg.com/amplify_video_thumb/2102681337593565184/img/i0cbz14XIKYjRz27.jpg" alt="How to Use Jev for Free · 原帖视频截图" width="100%"></a>
 <br>
@@ -212,6 +223,19 @@
 <p><strong>たまおのAI研究所</strong> · @TamaoT81581 · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
 <p><a href="https://x.com/TamaoT81581/status/2102681350650421266">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cesaremuszka/status/2102722003958378706"><img src="https://pbs.twimg.com/media/HS5eNNNXkAANm6h?format=png&amp;name=900x900" alt="Integrating Jev into CodexRouter to Optimize Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cesaremuszka/status/2102722003958378706">Integrating Jev into CodexRouter to Optimize Workflows</a></h3>
+<p>The author added Jev to CodexRouter, feels the workflow is more optimized, plans to create a custom harness, and notes Jev currently has limited functionality on CodexRouter.</p>
+<p><strong>中文摘要：</strong>作者将 Jev 添加到 CodexRouter，感觉工作流更优化，计划创建自定义 harness，并指出目前 Jev 在 CodexRouter 上功能有限。</p>
+<p><strong>Cesar Favero</strong> · @cesaremuszka · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/cesaremuszka/status/2102722003958378706">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/kcbigring/status/2102604706677985508"><img src="https://pbs.twimg.com/media/HS3zYeVWkAA4O4J?format=jpg&amp;name=medium" alt="Jev vs Claude Haiku: ~3x faster and ~25x cheaper · 原帖图片" width="100%"></a>

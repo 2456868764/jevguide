@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 100 | 67 | 33 | 595K |
+| 102 | 68 | 34 | 595K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2102726296291680275"><img src="https://pbs.twimg.com/amplify_video_thumb/2102726242633973760/img/DQdRlIofLeTUO4WB.jpg" alt="Jev + Picsart: A Creative System That Decides Before It Spends · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gippp69/status/2102726296291680275">Jev + Picsart: A Creative System That Decides Before It Spends</a></h3>
+<p>A practical workflow example: Jev handles low-cost decisions while Picsart handles actual generation, avoiding expensive models guessing through every step and enabling a decide-first, spend-later pipeline.</p>
+<p><strong>中文摘要：</strong>一个实际工作流示例：用 Jev 处理低成本决策，Picsart 负责实际图像生成，避免昂贵模型在每一步盲目猜测，实现先决策再消耗资源的生成流程。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/gippp69/status/2102726296291680275">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/keyengtee/status/2102589188206215420"><img src="https://pbs.twimg.com/media/HS3lt6pbcAAx_9-?format=jpg&amp;name=medium" alt="How Jev Fits into Real Business Workflows: CAN vs SHOULD · 原帖图片" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖图片</code></sub>
@@ -44,6 +55,19 @@
 <p><strong>keyeng</strong> · @keyengtee · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/keyengtee/status/2102589188206215420">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/golenull/status/2102703302366376122"><img src="https://pbs.twimg.com/media/HS5MJBXXUAAAXcC?format=jpg&amp;name=medium" alt="Jev + Playwright: Skip the setup, test what matters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/golenull/status/2102703302366376122">Jev + Playwright: Skip the setup, test what matters</a></h3>
+<p>Use Jev to navigate to the target page, then let Playwright test the important parts. A practical example of combining Jev with Playwright for focused testing.</p>
+<p><strong>中文摘要：</strong>使用Jev导航到目标页面，再用Playwright测试关键功能。这是Jev与Playwright结合进行聚焦测试的实用示例。</p>
+<p><strong>Goran Gajić</strong> · @golenull · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/golenull/status/2102703302366376122">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DarrenTheLi/status/2102576557906940274"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575988676943873/img/7EYlpK-kYZcH3EJu.jpg" alt="Jev-Powered Resume Screening Tool · 原帖视频截图" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2524</strong><br>curated posts</td>
-<td align="center"><strong>1393</strong><br>original videos</td>
+<td align="center"><strong>2561</strong><br>curated posts</td>
+<td align="center"><strong>1411</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,39 +28,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>316</strong> showcases · <strong>144</strong> videos</p>
+<p><strong>319</strong> showcases · <strong>145</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/access-updates.md">Access updates</a></h3>
-<p><sub>接入动态</sub></p>
-<p><strong>289</strong> showcases · <strong>116</strong> videos</p>
-<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>288</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>292</strong> showcases · <strong>162</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/access-updates.md">Access updates</a></h3>
+<p><sub>接入动态</sub></p>
+<p><strong>291</strong> showcases · <strong>116</strong> videos</p>
+<p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>251</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>254</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>191</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>198</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>177</strong> showcases · <strong>97</strong> videos</p>
+<p><strong>182</strong> showcases · <strong>100</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>157</strong> showcases · <strong>88</strong> videos</p>
+<p><strong>160</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>148</strong> showcases · <strong>64</strong> videos</p>
+<p><strong>151</strong> showcases · <strong>65</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>117</strong> showcases · <strong>65</strong> videos</p>
+<p><strong>118</strong> showcases · <strong>65</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>100</strong> showcases · <strong>67</strong> videos</p>
+<p><strong>102</strong> showcases · <strong>68</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>66</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>61</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>62</strong> showcases · <strong>52</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,20 +128,20 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>27</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>28</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>24</strong> showcases · <strong>18</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
 <p><strong>23</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>23</strong> showcases · <strong>17</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -231,12 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2102680641649480094"><img src="https://pbs.twimg.com/media/HS444yzagAAykUs?format=jpg&amp;name=900x900" alt="Everything you need to know about Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102680641649480094">Everything you need to know about Jev</a></h3>
-<p>A community post claiming to compile all key information about Jev, likely related to the TypeSafe Jev model.</p>
-<p><strong>1.6K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.6K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/BAI_AGI/status/2102720633226572098"><img src="https://pbs.twimg.com/media/HS5U7YQaQAEhq9T?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Now Available on B.AI API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/BAI_AGI/status/2102720633226572098">TypeSafe AI&#39;s Jev Model Now Available on B.AI API</a></h3>
+<p>TypeSafe AI&#39;s first System One model, Jev, is now available on the B.AI API. Designed for high-speed structured decision-making inside software, Jev does not generate text. Instead, it takes application state and typed questions as input and directly returns decisions with probabilities and confidence scores, supporting Choice, Score, Noul, and more.</p>
+<p><strong>1.7K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.7K</p>
+<p><strong>B.AI</strong> · @BAI_AGI</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Ricky Grannis-Vu</strong> · @RickyGrannisVu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/BAI_AGI/status/2102720633226572098"><img src="https://pbs.twimg.com/media/HS5U7YQaQAEhq9T?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Now Available on B.AI API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/BAI_AGI/status/2102720633226572098">TypeSafe AI&#39;s Jev Model Now Available on B.AI API</a></h3>
+<p>TypeSafe AI&#39;s first System One model, Jev, is now available on the B.AI API. Designed for high-speed structured decision-making inside software, Jev does not generate text. Instead, it takes application state and typed questions as input and directly returns decisions with probabilities and confidence scores, supporting Choice, Score, Noul, and more.</p>
+<p><strong>1.7K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.7K</p>
+<p><strong>B.AI</strong> · @BAI_AGI</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/cyrilXBT/status/2102680641649480094"><img src="https://pbs.twimg.com/media/HS444yzagAAykUs?format=jpg&amp;name=900x900" alt="Everything you need to know about Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/cyrilXBT/status/2102680641649480094">Everything you need to know about Jev</a></h3>
 <p>A community post claiming to compile all key information about Jev, likely related to the TypeSafe Jev model.</p>
 <p><strong>1.6K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.6K</p>
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/nahid_pro09/status/2102599237804687509"><img src="https://pbs.twimg.com/media/HS3uw-dawAAIzcg?format=jpg&amp;name=medium" alt="From Jev to pi-system-one: announcing a single System One · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nahid_pro09/status/2102599237804687509">From Jev to pi-system-one: announcing a single System One</a></h3>
-<p>The author initially wired Pi to Jev as its decision engine, but community feedback pointed to open alternatives. Realizing hard-wiring to one provider was a mistake, they removed it and announced pi-system-one as a standalone single System One.</p>
-<p><strong>1.5K</strong> views · 💬 7 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 1.5K</p>
-<p><strong>Nahid</strong> · @nahid_pro09</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/hirazi_illust/status/2102641901849788618"><img src="https://pbs.twimg.com/amplify_video_thumb/2102612357453320192/img/yA9Q0EuTvdUybbB-.jpg" alt="Using JEV to infer stage performances from lyrics? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/hirazi_illust/status/2102641901849788618">Using JEV to infer stage performances from lyrics?</a></h3>
-<p>The post author muses about using JEV to infer and guess stage performances that might match lyrics, showing potential creative use of the model.</p>
-<p><strong>581</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 581</p>
-<p><strong>ひらじ</strong> · @hirazi_illust</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102610658240135195">Jev Decision Model Skill Pack and 108 Scenarios</a></h3>
+<p>A curated guide to using the Jev decision model, offering 5 skills ready for coding agents and 108 reproducible scenarios, letting agents delegate classification, ranking, scoring and similar judgment tasks to Jev.</p>
+<p><strong>837</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 </tr>
 </table>

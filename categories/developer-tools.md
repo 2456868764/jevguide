@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 286 | 156 | 132 | 3.6M |
+| 288 | 158 | 132 | 3.6M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/me_barnyx/status/2102708705372295459"><img src="https://pbs.twimg.com/amplify_video_thumb/2102688695740469248/img/iU1hx852I4Pvk8G3.jpg" alt="JEV Turns the Hardest Part of AI Engineering into a Multiple Choice Test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/me_barnyx/status/2102708705372295459">JEV Turns the Hardest Part of AI Engineering into a Multiple Choice Test</a></h3>
+<p>A post about JEV claims a model that cannot write code, prose, or reason is exactly why it wins. Six days ago someone shipped 139,000 lines of Rust that does nothing but ask it one question.</p>
+<p><strong>中文摘要：</strong>一条关于JEV的帖子称，一个不会写代码、不会写文章、不会推理的模型反而获胜。六天前有人发布了139,000行Rust代码，只问它一个问题。</p>
+<p><strong>barnyx</strong> · @me_barnyx · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 26</p>
+<p><a href="https://x.com/me_barnyx/status/2102708705372295459">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/WesternCube/status/2102657507240120409"><img src="https://pbs.twimg.com/media/HS4j2zubAAAWxQq?format=jpg&amp;name=medium" alt="Using Jev for instant Claude Code compaction · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -92,6 +103,19 @@
 <p><strong>Ishwar</strong> · @WesternCube · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/WesternCube/status/2102657507240120409">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/justvugg/status/2102704920650744170"><img src="https://pbs.twimg.com/amplify_video_thumb/2102704900094173184/img/66r7Lv-uKSs9ELNZ.jpg" alt="Colibrì Introduces Brio Mode Inspired by Jev: Closed-Set Probability Prediction · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/justvugg/status/2102704920650744170">Colibrì Introduces Brio Mode Inspired by Jev: Closed-Set Probability Prediction</a></h3>
+<p>Colibrì&#39;s Brio mode, inspired by TypeSafe&#39;s Jev, takes context and a closed list of answers, returning probabilities and entropy for each choice without generating any tokens. It runs on 9 open model families on your own hardware.</p>
+<p><strong>中文摘要：</strong>Colibrì 的 Brio 模式受 TypeSafe 的 Jev 启发，接受上下文和封闭答案列表，返回每个选项的概率及熵，无需生成任何 token。该模式可在 9 个开放模型家族上运行，并部署在自有硬件上。</p>
+<p><strong>JustVugg</strong> · @justvugg · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 25</p>
+<p><a href="https://x.com/justvugg/status/2102704920650744170">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/uehaj/status/2102605642443927759"><img src="https://pbs.twimg.com/media/HS30IqYbsAEQmiw?format=jpg&amp;name=medium" alt="Prototype GUI Dashboard Classifying Project Vitals with Jev · 原帖图片" width="100%"></a>

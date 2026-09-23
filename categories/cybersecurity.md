@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 17 | 8 | 9 | 82K |
+| 19 | 8 | 11 | 82K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Marco Franzon</strong> · @mfranz_on · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 123</p>
 <p><a href="https://x.com/mfranz_on/status/2102677254727733702">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ManiarViral/status/2102674315657478326"><img src="https://pbs.twimg.com/media/HS4zJOabgAA4bGH?format=jpg&amp;name=medium" alt="JEV vs LLM: Intent beats inference, 200x faster threat detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ManiarViral/status/2102674315657478326">JEV vs LLM: Intent beats inference, 200x faster threat detection</a></h3>
+<p>JEV blocks threats in 12ms on-endpoint via syscall intent graph, 200x faster than LLM paths, with zero cloud cost.</p>
+<p><strong>中文摘要：</strong>JEV通过系统调用和意图图在端侧12毫秒内阻断威胁，比LLM路径快200倍，且零云成本。</p>
+<p><strong>Viral Maniar</strong> · @ManiarViral · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/ManiarViral/status/2102674315657478326">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/agentalpha_xyz/status/2102710075303358731"><img src="https://pbs.twimg.com/media/HS5TprVX0AA_4_A?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: Pre-Signature Policy Enforcement Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/agentalpha_xyz/status/2102710075303358731">TypeSafe&#39;s Jev: Pre-Signature Policy Enforcement Agent</a></h3>
+<p>Jev sits as a 2-of-2 counterparty inside Safe on Base, running full transaction simulation and risk checks before signing, not after.</p>
+<p><strong>中文摘要：</strong>Jev 作为 2-of-2 对手方内置于 Base 上的 Safe 钱包，在签名前执行完整交易模拟和风险检查，而不是事后警告。</p>
+<p><strong>Agent Alpha</strong> · @agentalpha_xyz · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/agentalpha_xyz/status/2102710075303358731">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 173 | 94 | 80 | 3.0M |
+| 177 | 97 | 81 | 3.0M |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/AYi_AInotes/status/2102605821456814286">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/starmexxx/status/2102674537280061683"><img src="https://pbs.twimg.com/amplify_video_thumb/2102673940149669888/img/_7mSocxmu4ga1-HO.jpg" alt="JEV Hits 18K Stars in a Week, Breaks Browser Automation Speed Records · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/starmexxx/status/2102674537280061683">JEV Hits 18K Stars in a Week, Breaks Browser Automation Speed Records</a></h3>
+<p>JEV surpassed 18K stars in a week. jev-ultrafast splits every browser decision into operation, click target, and typed text, so one LLM request replaces five. It books Zurich to London on Google Flights in 7.1 seconds, while ChatGPT Operator takes 3 minutes at $200/month.</p>
+<p><strong>中文摘要：</strong>JEV 一周内突破 18K Stars。jev-ultrafast 将每个浏览器决策拆分为操作、点击目标和输入文本，一次 LLM 请求替代五次，7.1 秒完成 Google Flights 从苏黎世到伦敦的预订，而 ChatGPT Operator 需 3 分钟且月费 200 美元。</p>
+<p><strong>starmex</strong> · @starmexxx · 2026-09-23</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 241</p>
+<p><a href="https://x.com/starmexxx/status/2102674537280061683">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xKiyoro/status/2102586877446390162"><img src="https://pbs.twimg.com/amplify_video_thumb/2102586760609841152/img/vUcEaQ3cSG99DJR_.jpg" alt="Jev Catches Opus 5.5 Default Effort Drop · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 185</p>
 <p><a href="https://x.com/0xKiyoro/status/2102586877446390162">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
 <p><a href="https://x.com/79yuuki/status/2102577684232749096">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heyorvian/status/2102710192848732203"><img src="https://pbs.twimg.com/amplify_video_thumb/2102710147193696256/img/0yrPqB96OekA84yI.jpg" alt="Jev autonomously operates a phone to book an Uber · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/heyorvian/status/2102710192848732203">Jev autonomously operates a phone to book an Uber</a></h3>
+<p>A user used Jev to control an Android phone, autonomously opening the Uber app, entering the trip, and reaching the payment screen in 9 actions within about 21 seconds.</p>
+<p><strong>中文摘要：</strong>用户使用Jev控制安卓手机，自主打开Uber应用、输入行程并进入支付界面，共9个操作，耗时约21秒。</p>
+<p><strong>orvian</strong> · @heyorvian · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 126</p>
+<p><a href="https://x.com/heyorvian/status/2102710192848732203">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/hank_aibtc/status/2102600956512993675"><img src="https://pbs.twimg.com/media/HS3wPOBaEAAtfdM?format=jpg&amp;name=medium" alt="Jev Chat Jarvis: Your Chat Copilot to Become a Conversational Pro · 原帖图片" width="100%"></a>
@@ -214,6 +238,19 @@
 <p><a href="https://x.com/sanskaricoder/status/2102651374551113840">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/robot_yz/status/2102705520234901723"><img src="https://pbs.twimg.com/amplify_video_thumb/2102705137806630915/img/sXwDthEhSAfnyvaL.jpg" alt="Demo: Auto-filling external link info with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/robot_yz/status/2102705520234901723">Demo: Auto-filling external link info with Jev</a></h3>
+<p>The author shows how Jev quickly finds the entry and accurately fills in external link info, and plans to switch the previous Submit Agent to JEV mode.</p>
+<p><strong>中文摘要：</strong>作者展示使用 Jev 快速定位入口并准确填写外链信息，并计划将之前的 Submit Agent 改用 JEV 模式。</p>
+<p><strong>YZ</strong> · @robot_yz · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/robot_yz/status/2102705520234901723">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/himanshu_tomar4/status/2102644378615562461"><img src="https://pbs.twimg.com/media/HS4X6MebEAAAPbu?format=jpg&amp;name=medium" alt="Hooking Jev to Claude: Mapping an Angular Module via MCP · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -224,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/himanshu_tomar4/status/2102644378615562461">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432"><img src="https://pbs.twimg.com/media/HS4Eelea4AA18oK?format=jpg&amp;name=medium" alt="TypeSafe Jev Accelerates Agent Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +272,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shwetabjaj/status/2102646974734553242"><img src="https://pbs.twimg.com/amplify_video_thumb/2102646932380565504/img/yT2TTZiqs3V1phxK.jpg" alt="Jev Decides, Grok Acts: A Cleaner Agent Architecture · 原帖视频截图" width="100%"></a>
 <br>
@@ -247,6 +284,17 @@
 <p><strong>Coach Shweta Bajaj</strong> · @shwetabjaj · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/shwetabjaj/status/2102646974734553242">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Rishabh_SJ/status/2102704737254826395"><img src="https://pbs.twimg.com/media/HS5Ozy4b0AALu5i?format=jpg&amp;name=medium" alt="Adding Coach Luna for Jev: Tips When Stuck on Repeated Moves · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Rishabh_SJ/status/2102704737254826395">Adding Coach Luna for Jev: Tips When Stuck on Repeated Moves</a></h3>
+<p>Luna stays quiet until Jev repeats the same move three times without progress, then gives a short tip. Jev still makes every move; Luna only points.</p>
+<p><strong>中文摘要：</strong>Luna保持安静，直到Jev连续三次同样的动作没有进展，然后给出简短提示。Jev仍执行每个动作，Luna只负责指正。</p>
+<p><strong>Rishabh singh</strong> · @Rishabh_SJ · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/Rishabh_SJ/status/2102704737254826395">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

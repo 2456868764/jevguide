@@ -27,10 +27,13 @@
 | 2026-09-23 | [Jev filter screens 40k wallets before TGE](https://x.com/burstingbagel/status/2102592197476626486) | 接入动态 | BurstingBagel 🥯 | 290 |
 | 2026-09-23 | [Using Jev to predict the next letter makes Jev speak](https://x.com/0xcherry/status/2102642447205687517) | 工作原理 | 车厘子 | 262 |
 | 2026-09-23 | [TypeSafe's Jev decision model joins MindsHub's free tier](https://x.com/MindsHub/status/2102592607784411402) | 接入动态 | mindshub | 245 |
+| 2026-09-23 | [JEV Hits 18K Stars in a Week, Breaks Browser Automation Speed Records](https://x.com/starmexxx/status/2102674537280061683) | 智能体 | starmex | 241 |
 | 2026-09-23 | [Play One-Person Werewolf with Jev-AI](https://x.com/aixaipr/status/2102652091286393172) | 游戏 | A x A-AI時代の生き残り戦略💎 | 216 |
 | 2026-09-23 | [Jev Catches Opus 5.5 Default Effort Drop](https://x.com/0xKiyoro/status/2102586877446390162) | 智能体 | Kiyoro | 185 |
 | 2026-09-23 | [Jev Suited for Choosing Models per Task](https://x.com/79yuuki/status/2102577684232749096) | 智能体 | 紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC | 166 |
+| 2026-09-23 | [JevTree Greatly Boosts Long-Horizon Task Performance](https://x.com/NFT_Chen/status/2102708995614216405) | 社区实践 | SuSu_酥酥👅 | 157 |
 | 2026-09-23 | [How is Jev different from an LLM? Explained simply](https://x.com/stfu_aayushiii/status/2102644749165613482) | 工作原理 | Aayushiii | 154 |
+| 2026-09-23 | [Jev Model Multilingual Translation Stability Evaluation](https://x.com/7shi/status/2102678047770210556) | 社区实践 | 七誌 | 147 |
 | 2026-09-23 | [Jev Prompt Injection Test Demo](https://x.com/francchen/status/2102588731559735389) | 网络安全 | Frank Chen | 146 |
 | 2026-09-23 | [Jev criticized as useless gay checker](https://x.com/NikuYork/status/2102603100687368554) | 社区实践 | セクシー炭水化物 | 140 |
 | 2026-09-23 | [shipwithjev: 540 Publicly Indexed Builds with Jev](https://x.com/Motion_Viz/status/2102605557601603617) | 社区实践 | MotionViz | 138 |
@@ -38,6 +41,7 @@
 | 2026-09-23 | [AI Character with Jev-Driven Facial Expressions](https://x.com/taiyop/status/2102577805053829613) | 社区实践 | たいよっぷ \| Harness Engineer | 133 |
 | 2026-09-23 | [Pydantic AI Adds Day-One Support for TypeSafe's Jev Model](https://x.com/pydantic/status/2102593806872801527) | 接入动态 | Pydantic | 130 |
 | 2026-09-23 | [Real-time AI Agent Routing Demo with Jev](https://x.com/hellonehha/status/2102617956417192272) | 社区实践 | Neha Sharma | 126 |
+| 2026-09-23 | [Jev autonomously operates a phone to book an Uber](https://x.com/heyorvian/status/2102710192848732203) | 智能体 | orvian | 126 |
 | 2026-09-23 | [Jev in 25 lines of Python: spam and phishing classification concept](https://x.com/mfranz_on/status/2102677254727733702) | 网络安全 | Marco Franzon | 123 |
 | 2026-09-23 | [Jev Achieves 100% Tax Document Classification, Cheaper and Faster](https://x.com/ai_300/status/2102578703666413804) | 金融 | 鈴木@アナログ営業会社を100日後にAIで売上を300％にする人 | 115 |
 | 2026-09-23 | [Using Jev to prepare a lead qualification workflow](https://x.com/LiorNsnd/status/2102643294765515144) | 营销 | Loutchone | 106 |
@@ -66,11 +70,14 @@
 | 2026-09-23 | [Progress on using Jev for Klondike](https://x.com/iori_ama/status/2102641762141626651) | 游戏 | 伊織 | 49 |
 | 2026-09-23 | [Jev's rise sparks interest in AI and CUA](https://x.com/MangZGW_WEB3/status/2102587657964679388) | 接入动态 | 🔝芒种金狗👑 | 48 |
 | 2026-09-23 | [Jev Probability Decision Thresholds](https://x.com/RickyGrannisVu/status/2102600112417673657) | 工作原理 | Ricky Grannis-Vu | 47 |
+| 2026-09-23 | [Discussion on the difference between Jev and regular LLMs](https://x.com/ya_ronen/status/2102707035091452106) | 工作原理 | Yaironen | 47 |
 | 2026-09-23 | [Speeding Up Chat Responses with Jev and Pre-structured SQL](https://x.com/floor_per_area/status/2102593439401439492) | 工作原理 | Chris Goldammer | 45 |
 | 2026-09-23 | [Can Jev-style models be used for dynamic control systems?](https://x.com/ccorcos/status/2102603479999189315) | 机器人 | Chet | 45 |
 | 2026-09-23 | [Laya Local Benchmark: 630ms Decisions on Pure CPU](https://x.com/Farhan60291312/status/2102642749757637005) | 社区实践 | MalluCuler | 45 |
 | 2026-09-23 | [Generating Sentences Step by Step with Jev Probabilities](https://x.com/henryzhang/status/2102576882546000188) | 工作原理 | Henry Zhang | 44 |
 | 2026-09-23 | [AI Cost Optimization: Don't Use Expensive Models for Every Decision](https://x.com/bonduelleioat/status/2102680389823160583) | 自动化工作流 | bonduelle | 43 |
+| 2026-09-23 | [Developer Shares Experience Using Jev for App Moderation](https://x.com/amos_gyamfi/status/2102706649551212780) | 社区实践 | Amos Gyamfi | 43 |
+| 2026-09-23 | [Jev's arrival polarizes AI side businesses](https://x.com/osamucap/status/2102706424354914524) | 生产力 | おさじ｜AIじっちゃん｜FIREからの再起動 | 42 |
 | 2026-09-23 | [Check your X account for AI slop with Jev](https://x.com/denpoint1/status/2102643707799646543) | 社区实践 | Daniil | 41 |
 | 2026-09-23 | [Jev helps you match AI engineering jobs](https://x.com/Kilo_Loco/status/2102676330613809558) | 生产力 | Kyle Lee \| Kilo Loco | 39 |
 | 2026-09-23 | [Trading bots with Jev: $1,000 turns into $3,833.92](https://x.com/unidoshernan/status/2102643635099402595) | 金融 | CryptoJay | 38 |
@@ -95,10 +102,3 @@
 | 2026-09-23 | [Jev local 4B model praised by user](https://x.com/llqoli/status/2102662690238071224) | 社区实践 | Ronnie W. | 31 |
 | 2026-09-23 | [Doujin Game Creator Shares First-Night Jev Usage Data](https://x.com/Sheep_boy_game/status/2102588052262797580) | 游戏 | シープボーイ | 30 |
 | 2026-09-23 | [Developer Walkthrough: Jev and teai Integration](https://x.com/yukihamada/status/2102606174604632161) | 接入动态 | 濱田優貴 | 30 |
-| 2026-09-23 | [Built a Jev tool that scores codebase relevance](https://x.com/KevinKelbie/status/2102603408637124705) | 开发者工具 | Kelbie \| Sovran | 30 |
-| 2026-09-23 | [How Jev Judges Repeated User Feedback in Game Support](https://x.com/Nashisan9/status/2102579354060632423) | 客户支持 | Nashi3@デザイン担当（nil） | 28 |
-| 2026-09-23 | [Jev scoring of identical diffs shifts with argument order and labels](https://x.com/RamV2003/status/2102575529312256373) | 工作原理 | Ram Vinjamuri | 28 |
-| 2026-09-23 | [Switch models with teai, let Jev decide and connect images and voice](https://x.com/yukihamada/status/2102606130027561057) | 接入动态 | 濱田優貴 | 27 |
-| 2026-09-23 | [My First JEV AI Integration: PostMine](https://x.com/yerkeRakhimov/status/2102641015438152140) | 接入动态 | Yerkebulan Rakhimov | 27 |
-| 2026-09-23 | [Scoreboar v8 released: a smaller, faster, more accurate X post prediction tool](https://x.com/siimh/status/2102678735946383498) | 产品发布 | Siim Haugas | 27 |
-| 2026-09-23 | [Jev vs Claude Opus 5: 390x Cost Gap in News Classification](https://x.com/codex_aca/status/2102593813348835405) | 接入动态 | 【公式】Codexアカデミア | 26 |

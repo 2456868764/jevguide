@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 283 | 155 | 129 | 3.6M |
+| 285 | 155 | 131 | 3.6M |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/KevinKelbie/status/2102603408637124705">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/WesternCube/status/2102657507240120409"><img src="https://pbs.twimg.com/media/HS4j2zubAAAWxQq?format=jpg&amp;name=medium" alt="Using Jev for instant Claude Code compaction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WesternCube/status/2102657507240120409">Using Jev for instant Claude Code compaction</a></h3>
+<p>The author shares their favorite use of Jev so far: instant Claude Code context compaction, triggered by a complex server redeploy after Oracle terminated their free VPS.</p>
+<p><strong>中文摘要：</strong>作者分享Jev目前最喜欢的用途：即时压缩Claude Code上下文。起因是Oracle终止免费VPS后，服务器重新部署任务复杂，上下文变得很长。</p>
+<p><strong>Ishwar</strong> · @WesternCube · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/WesternCube/status/2102657507240120409">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/uehaj/status/2102605642443927759"><img src="https://pbs.twimg.com/media/HS30IqYbsAEQmiw?format=jpg&amp;name=medium" alt="Prototype GUI Dashboard Classifying Project Vitals with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/uehaj/status/2102605642443927759">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyze_dev/status/2102573720292249886"><img src="https://pbs.twimg.com/media/HS3XTehXcAAkDFZ?format=png&amp;name=900x900" alt="Using Jev to Find Keywords in LLM Thinking · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/cyze_dev/status/2102573720292249886">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0imalan/status/2102605382875332787"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471162714595328/img/ZzuoM5NHzR1TiMKz.jpg" alt="Jev Called a Classifier, Not a Coding Agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/0imalan/status/2102605382875332787">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/esnx_xyz/status/2102612663578841471"><img src="https://pbs.twimg.com/media/HS36mgZbsAAtqzI?format=png&amp;name=small" alt="Jev filter userscript · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/esnx_xyz/status/2102612663578841471">在 X 查看原帖</a> · <a href="https://t.co/dXqfU2UWO6">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/surveys347/status/2102575348609142871"><img src="https://pbs.twimg.com/media/HS3ZHMQX0AA46I-?format=png&amp;name=medium" alt="Model orchestration plugin using Jev for task difficulty classification · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/surveys347/status/2102575348609142871">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mrdaniel_ai/status/2102608091632025872"><img src="https://pbs.twimg.com/amplify_video_thumb/2102608063991619584/img/X6xAIwYLieluDFpu.jpg" alt="Using Jev to Regulate GPT-6 Astra Thinking Effort · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,19 @@
 <p><strong>MR.DANIEL</strong> · @mrdaniel_ai · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/mrdaniel_ai/status/2102608091632025872">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/code_saksham/status/2102661867374346751"><img src="https://pbs.twimg.com/media/HS4njjfbUAAcfCd?format=jpg&amp;name=medium" alt="Developer says crazy idea with JEV hit a wall, asks TypeSafe to fix it · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/code_saksham/status/2102661867374346751">Developer says crazy idea with JEV hit a wall, asks TypeSafe to fix it</a></h3>
+<p>Saksham Sharma says he just had a crazy idea to build and open-source with JEV, but then ran into an issue, urging @typesafeai to fix it ASAP.</p>
+<p><strong>中文摘要：</strong>Saksham Sharma 表示刚想到一个用 JEV 构建并开源的疯狂创意，却遇到了问题，呼吁 @typesafeai 尽快修复。</p>
+<p><strong>Saksham Sharma</strong> · @code_saksham · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/code_saksham/status/2102661867374346751">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/akshatnerella/status/2102606562657530229"><img src="https://pbs.twimg.com/amplify_video_thumb/2102604695135272960/img/EkA_rxExMZ0AKCtD.jpg" alt="Developer builds fun apps with TypeSafe AI Jev backend · 原帖视频截图" width="100%"></a>

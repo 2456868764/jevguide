@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 58 | 51 | 10 | 101K |
+| 60 | 52 | 11 | 101K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>ようへい@表現者の才能を事業化する中の人</strong> · @40jobseeking · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 34</p>
 <p><a href="https://x.com/40jobseeking/status/2102577673591775347">在 X 查看原帖</a> · <a href="https://t.co/4XgzwOChS5">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/29meat_ai/status/2102664261466308790"><img src="https://pbs.twimg.com/amplify_video_thumb/2102659153496092672/img/tt1vMGI9Qgg4tqVk.jpg" alt="Made a fictional beauty EC brand movie with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/29meat_ai/status/2102664261466308790">Made a fictional beauty EC brand movie with Jev</a></h3>
+<p>A creator made a brand video for a fictional beauty e-commerce site using TypeSafe&#39;s Jev model (with GPT6 Sol and HyperFrames), noting that credit consumption was surprisingly low even at high settings.</p>
+<p><strong>中文摘要：</strong>创作者用TypeSafe的Jev模型（结合GPT6 Sol和HyperFrames）制作了一部虚构美容电商网站的品牌宣传片，并感叹高参数设置下信用点消耗很少。</p>
+<p><strong>にく</strong> · @29meat_ai · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/29meat_ai/status/2102664261466308790">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alongrocket/status/2102654540604637587"><img src="https://pbs.twimg.com/media/HS4e9ywbMAAhpI5?format=jpg&amp;name=4096x4096" alt="Jev clips a 90-min video into 30 clips in 19 seconds · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alongrocket/status/2102654540604637587">Jev clips a 90-min video into 30 clips in 19 seconds</a></h3>
+<p>The author says fastlane is overrated, showcasing fully auto-generated clips via Vello and Jev, editing a 90+ min video into 30 clips in 19 seconds, with a free trial link.</p>
+<p><strong>中文摘要：</strong>作者称赞fastlane被高估，展示用Vello和Jev自动生成并发布剪辑，90多分钟视频在19秒内被编辑成30个片段，并附免费试用链接。</p>
+<p><strong>Along Rocket</strong> · @alongrocket · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/alongrocket/status/2102654540604637587">在 X 查看原帖</a> · <a href="https://t.co/02atNfqMCY">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/UtsavChindalia/status/2102605289564618816"><img src="https://pbs.twimg.com/media/HS30XRMa0AAfht3?format=jpg&amp;name=medium" alt="A writing loop where Jev scores Claude&#39;s candidate lines · 原帖图片" width="100%"></a>

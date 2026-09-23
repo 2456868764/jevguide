@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 242 | 188 | 58 | 588K |
+| 244 | 190 | 58 | 588K |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/iori_ama/status/2102641762141626651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102641382875971584/img/pSOdL-B-I5APFs56.jpg" alt="Progress on using Jev for Klondike · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iori_ama/status/2102641762141626651">Progress on using Jev for Klondike</a></h3>
+<p>The author treats visual recognition as System One and switched to an OpenCV→cognition→decision→mouse pipeline, stabilizing Klondike play somewhat while still not fully grasping the game&#39;s algorithm.</p>
+<p><strong>中文摘要：</strong>作者将视觉识别视为System One，改用OpenCV→认知→判断→鼠标操作的流程，已让Klondike玩法稳定了一些，但仍未完全掌握其算法。</p>
+<p><strong>伊織</strong> · @iori_ama · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/iori_ama/status/2102641762141626651">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Sheep_boy_game/status/2102588052262797580"><img src="https://pbs.twimg.com/media/HS3kIGka8AAFCLq?format=jpg&amp;name=medium" alt="Doujin Game Creator Shares First-Night Jev Usage Data · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/Sheep_boy_game/status/2102588052262797580">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/djannias/status/2102605405033492714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102280368682360832/img/r-xnMLmgUV76IN9-.jpg" alt="Izkimar&#39;s bosses are now using Jev for game development · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 26</p>
 <p><a href="https://x.com/djannias/status/2102605405033492714">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abxda/status/2102588150266663138"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587957009846272/img/YEME1564sp4B2ehB.jpg" alt="Comparing Local Models for Real-Time Decisions in a JEV Clone · 原帖视频截图" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Abel Coronado, Ph.D.</strong> · @abxda · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/abxda/status/2102588150266663138">在 X 查看原帖</a> · <a href="https://t.co/P6GQRQZvS5">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2102640969573335071"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Jev Yes/No Game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2102640969573335071">Jev Yes/No Game</a></h3>
+<p>See if you can burn all my Jevbucks tonight</p>
+<p><strong>中文摘要：</strong>试试看我今晚的 Jevbucks 能不能被你烧光</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2102640969573335071">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/airiaiai8/status/2102609468257448299"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Driving All San Francisco Agents in Unreal Engine with Jev · 原帖视频截图" width="100%"></a>

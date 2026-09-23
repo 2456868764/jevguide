@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 300 | 140 | 161 | 1.6M |
+| 302 | 140 | 163 | 1.6M |
 
 ## Showcase 卡片
 
@@ -203,6 +203,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/mrdaniel_ai/status/2102622428790653109"><img src="https://pbs.twimg.com/media/HS4D8-1XUAAmArm?format=jpg&amp;name=medium" alt="Inside Jev: TypeSafe&#39;s System One Model That Doesn&#39;t Generate Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mrdaniel_ai/status/2102622428790653109">Inside Jev: TypeSafe&#39;s System One Model That Doesn&#39;t Generate Text</a></h3>
+<p>The author takes a deep look at TypeSafe&#39;s Jev model. As a System One model, it completely abandons text generation: given app state and a question, it returns typed decisions and probabilities, thus fundamentally avoiding hallucinations.</p>
+<p><strong>中文摘要：</strong>作者深入评测 TypeSafe 的 Jev 模型。该模型属于 System One 类型，完全放弃文本生成：输入应用状态和问题，返回类型化决策和概率，因此从根本上避免了幻觉。</p>
+<p><strong>MR.DANIEL</strong> · @mrdaniel_ai · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/mrdaniel_ai/status/2102622428790653109">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/TheArthiAI/status/2102590430692966739"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102590270285963264/pu/img/i6GPMvVDNb-SvJvO.jpg" alt="Why Jev&#39;s decision-making stands out · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -212,6 +223,19 @@
 <p><strong>The Arthi AI Collective</strong> · @TheArthiAI · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/TheArthiAI/status/2102590430692966739">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Shubair313/status/2102622121327554969"><img src="https://pbs.twimg.com/media/HS4DpVEa8AA8tWo?format=jpg&amp;name=medium" alt="How JEV Classification Model Routes Emails · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Shubair313/status/2102622121327554969">How JEV Classification Model Routes Emails</a></h3>
+<p>JEV is a classification model that doesn&#39;t write replies but assigns department scores, e.g., Billing 90%, Support 10%, for smart routing.</p>
+<p><strong>中文摘要：</strong>JEV是一个分类模型，不生成回复，而是为邮件分配部门分数，例如账单90%、技术支持10%，用于智能路由。</p>
+<p><strong>Mohd shubair 🌱</strong> · @Shubair313 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/Shubair313/status/2102622121327554969">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/moltar81435/status/2102582532349006053"><img src="https://pbs.twimg.com/amplify_video_thumb/2102582157873143808/img/qk8b21iJz0Anqie4.jpg" alt="Explaining Augustus and Its Relation to Jev and System One Models with Claude Opus 5.5 · 原帖视频截图" width="100%"></a>

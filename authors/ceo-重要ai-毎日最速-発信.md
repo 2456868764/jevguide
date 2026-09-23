@@ -1,9 +1,10 @@
 # チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-23 | [Jev-Omni Multimodal AI: One Model for Four Modalities](https://x.com/masahirochaen/status/2102623041356476863) | 产品发布 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 772 |
 | 2026-09-20 | [TypeSafe Releases DJev, Fully Open Version of Judgment Model Jev](https://x.com/masahirochaen/status/2101808911028466130) | 产品发布 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 65K |
 | 2026-09-20 | [Real-time analysis of next moves in business discussions with Jev](https://x.com/masahirochaen/status/2101587412816380413) | 企业运营 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 26K |
 | 2026-09-20 | [Google Says Jev Judgment Model Can Be Reproduced as Open Model](https://x.com/masahirochaen/status/2101792528785948700) | 开发资源 | チャエン \| デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 | 2.9K |

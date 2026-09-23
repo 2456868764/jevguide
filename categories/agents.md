@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 162 | 91 | 72 | 3.0M |
+| 166 | 92 | 75 | 3.0M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2102610658240135195">Jev Decision Model Skill Pack and 108 Scenarios</a></h3>
+<p>A curated guide to using the Jev decision model, offering 5 skills ready for coding agents and 108 reproducible scenarios, letting agents delegate classification, ranking, scoring and similar judgment tasks to Jev.</p>
+<p><strong>中文摘要：</strong>整理Jev判断模型的使用方式，提供5个可直接用于编码agent的技能和108个可复制改写的场景，让agent将分类、排序、打分等判断题交给Jev。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
+<p><a href="https://x.com/QingQ77/status/2102610658240135195">在 X 查看原帖</a> · <a href="https://t.co/JEAANOemue">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/AYi_AInotes/status/2102605821456814286"><img src="https://pbs.twimg.com/amplify_video_thumb/2102605626727907328/img/2BaQY-Aay_YRmXcl.jpg" alt="Idle Android Phone Becomes Jev Chat Copilot, Scoring WeChat Message Risk in One Second · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 475</p>
 <p><a href="https://x.com/AYi_AInotes/status/2102605821456814286">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xKiyoro/status/2102586877446390162"><img src="https://pbs.twimg.com/amplify_video_thumb/2102586760609841152/img/vUcEaQ3cSG99DJR_.jpg" alt="Jev Catches Opus 5.5 Default Effort Drop · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 185</p>
 <p><a href="https://x.com/0xKiyoro/status/2102586877446390162">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
 <p><a href="https://x.com/79yuuki/status/2102577684232749096">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hank_aibtc/status/2102600956512993675"><img src="https://pbs.twimg.com/media/HS3wPOBaEAAtfdM?format=jpg&amp;name=medium" alt="Jev Chat Jarvis: Your Chat Copilot to Become a Conversational Pro · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hank_aibtc/status/2102600956512993675">Jev Chat Jarvis: Your Chat Copilot to Become a Conversational Pro</a></h3>
+<p>Introducing jev-chat-jarvis, a conversational assistant that helps you craft better replies and avoid awkward moments in chat.</p>
+<p><strong>中文摘要：</strong>推荐一个名为jev-chat-jarvis的对话辅助工具，帮助用户在聊天时更好地回复，避免回复失当。</p>
+<p><strong>HankAI</strong> · @hank_aibtc · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 92</p>
+<p><a href="https://x.com/hank_aibtc/status/2102600956512993675">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/SciFi/status/2102589942622797854"><img src="https://pbs.twimg.com/media/HS3maTBW8AAIRCI?format=png&amp;name=medium" alt="Jev-Mem: System-One-Controlled Agentic Memory · 原帖图片" width="100%"></a>
@@ -107,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/somi_ai/status/2102619045577273361"><img src="https://pbs.twimg.com/amplify_video_thumb/2102619018070990848/img/CBRO80Vnwh424QIs.jpg" alt="Low-cost computer use with OCR and TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/somi_ai/status/2102619045577273361">Low-cost computer use with OCR and TypeSafe Jev</a></h3>
+<p>The post describes @awlevin&#39;s trick: OCR the screen, then let TypeSafe&#39;s Jev pick the next click. It compares costs with Opus 5 and suggests writing a handcrafted date parser for better value.</p>
+<p><strong>中文摘要：</strong>帖子介绍 @awlevin 的技巧：先用 OCR 识别屏幕，再让 TypeSafe 的 Jev 选择下一步点击操作。文中对比了 Opus 5 的成本，并建议手写日期解析器以提升性价比。</p>
+<p><strong>Somi</strong> · @somi_ai · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/somi_ai/status/2102619045577273361">在 X 查看原帖</a> · <a href="https://t.co/YUszYYXA5d">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/voratheexplora/status/2102595079697277113"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593627079716864/img/S9CRNXCcc1bwJsvl.jpg" alt="Jev-Powered Elevator Simulation: Jev Decides the Next Floor · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -116,6 +151,19 @@
 <p><strong>voruhh</strong> · @voratheexplora · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
 <p><a href="https://x.com/voratheexplora/status/2102595079697277113">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432"><img src="https://pbs.twimg.com/media/HS4Eelea4AA18oK?format=jpg&amp;name=medium" alt="TypeSafe Jev Accelerates Agent Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432">TypeSafe Jev Accelerates Agent Decisions</a></h3>
+<p>Developers are rethinking agent architecture, moving away from routing every micro-decision to heavy reasoning models. TypeSafe Jev handles bounded decisions in about 50ms using typed primitives like Choice, Score, and Noul, at a fraction of the cost.</p>
+<p><strong>中文摘要：</strong>开发者正重新思考智能体架构，不再将每个微决策都交给重型推理模型。TypeSafe Jev使用Choice、Score、Noul等类型化原语，在约50ms内处理有界决策，成本大幅降低。</p>
+<p><strong>VoidLight_현</strong> · @VoidLight_Hyeon · 2026-09-23</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2102242735667511617"><img src="https://pbs.twimg.com/amplify_video_thumb/2099924273905434624/img/vEtimYy5z2jMtjYy.jpg" alt="Jev Doesn&#39;t Replace Your Model, It Replaces Your Gatekeeper · 原帖视频截图" width="100%"></a>

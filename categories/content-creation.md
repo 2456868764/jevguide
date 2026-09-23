@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 56 | 49 | 9 | 101K |
+| 58 | 51 | 10 | 101K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Utsav Chindalia</strong> · @UtsavChindalia · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/UtsavChindalia/status/2102605289564618816">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sayu_nomu_/status/2102623428880789504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102622250965069824/img/yEyVnYxFAlGScwx_.jpg" alt="Jev VJ Is Getting Fun: Updates and Opus 5.5 Modeling Experience · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sayu_nomu_/status/2102623428880789504">Jev VJ Is Getting Fun: Updates and Opus 5.5 Modeling Experience</a></h3>
+<p>The author shares the joy of using Jev for VJ creation, introducing updates such as switching aggressiveness settings, manual switching with number/Q-P keys, seasonal event materials, ISF/Shadertoy/GLSL additional features, and praises Opus 5.5&#39;s unique modeling results.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 进行 VJ 创作的乐趣，介绍了包括切换积极性设置、数字/Q-P 键手动切换、年中活动素材、ISF/Shadertoy/GLSL 附加功能等更新，并称赞 Opus 5.5 生成的独特建模效果。</p>
+<p><strong>白湯飲む</strong> · @sayu_nomu_ · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/sayu_nomu_/status/2102623428880789504">在 X 查看原帖</a> · <a href="https://t.co/YEHd1xzUjC">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/niwanotorico/status/2102624056172519750"><img src="https://pbs.twimg.com/amplify_video_thumb/2102623998907674624/img/m_g68Ypoet9n9mex.jpg" alt="Use Jev to Smartly Allocate Tasks and Save on 3D Production Costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/niwanotorico/status/2102624056172519750">Use Jev to Smartly Allocate Tasks and Save on 3D Production Costs</a></h3>
+<p>The author shares how using Jev for task allocation in 3D production, in collaboration with Astra, effectively saved costs. Also shows the pudding result and the son learning Blender.</p>
+<p><strong>中文摘要：</strong>作者分享在 3D 制作中引入 Jev 进行任务分配，与 Astra 分工协作，有效节省了成本。还展示了布丁成果和儿子学习 Blender 的日常。</p>
+<p><strong>にわのとりこ🍗</strong> · @niwanotorico · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/niwanotorico/status/2102624056172519750">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

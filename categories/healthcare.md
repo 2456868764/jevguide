@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 15 | 13 | 2 | 92K |
+| 17 | 13 | 4 | 92K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gynecolo_obgyn/status/2102610832043765927"><img src="https://pbs.twimg.com/media/HS35WTPbYAETCSS?format=jpg&amp;name=medium" alt="Community Test: Jev Performs Strongly on Medical QA · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gynecolo_obgyn/status/2102610832043765927">Community Test: Jev Performs Strongly on Medical QA</a></h3>
+<p>A user tested Jev on the medical QA benchmark igakuQA: 2,000 questions solved in about 80 seconds for $0.04; text-only accuracy was 88.6%, comparable to GPT-4o; using confidence cutoffs further improved accuracy.</p>
+<p><strong>中文摘要：</strong>用户用医学QA基准igakuQA测试Jev：2000题约80秒完成，花费0.04美元；文本限定正解率88.6%，与GPT-4o相当；使用confidence截断可进一步提升正确率。</p>
+<p><strong>ギネコロ🤱</strong> · @gynecolo_obgyn · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
+<p><a href="https://x.com/gynecolo_obgyn/status/2102610832043765927">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cxbln/status/2102622087181676958"><img src="https://pbs.twimg.com/media/HS4Dji_bkAAyo0W?format=jpg&amp;name=medium" alt="Jev reads CT scans · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cxbln/status/2102622087181676958">Jev reads CT scans</a></h3>
+<p>Jev model demonstrates reading CT scans, potentially for medical imaging analysis.</p>
+<p><strong>中文摘要：</strong>Jev 模型展示读取 CT 扫描的应用，可能用于医疗影像分析。</p>
+<p><strong>Christian Bluethgen</strong> · @cxbln · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/cxbln/status/2102622087181676958">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JunMa_AI4Health/status/2102230939111702659"><img src="https://pbs.twimg.com/amplify_video_thumb/2102226559851544576/img/Sjw0dxTS-uU7b1zu.jpg" alt="MedJev, inspired by Jev: structuring clinical notes on consumer GPUs · 原帖视频截图" width="100%"></a>

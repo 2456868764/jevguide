@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2376</strong><br>curated posts</td>
-<td align="center"><strong>1340</strong><br>original videos</td>
+<td align="center"><strong>2405</strong><br>curated posts</td>
+<td align="center"><strong>1346</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>300</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>302</strong> showcases · <strong>140</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>285</strong> showcases · <strong>114</strong> videos</p>
+<p><strong>286</strong> showcases · <strong>114</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>279</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>282</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,23 +48,29 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>240</strong> showcases · <strong>187</strong> videos</p>
+<p><strong>241</strong> showcases · <strong>187</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>162</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>166</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/launch-news.md">Launch news</a></h3>
-<p><sub>产品发布</sub></p>
-<p><strong>148</strong> showcases · <strong>86</strong> videos</p>
-<p><a href="categories/launch-news.md">Open category →</a></p>
+<h3><a href="categories/community-builds.md">Community builds</a></h3>
+<p><sub>社区实践</sub></p>
+<p><strong>150</strong> showcases · <strong>60</strong> videos</p>
+<p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/launch-news.md">Launch news</a></h3>
+<p><sub>产品发布</sub></p>
+<p><strong>149</strong> showcases · <strong>87</strong> videos</p>
+<p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
@@ -72,15 +78,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/community-builds.md">Community builds</a></h3>
-<p><sub>社区实践</sub></p>
-<p><strong>139</strong> showcases · <strong>59</strong> videos</p>
-<p><a href="categories/community-builds.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>112</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>56</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>58</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>19</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>20</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>17</strong> showcases · <strong>13</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
 <p><strong>16</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>15</strong> showcases · <strong>13</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/miyagawa/status/2102607147628720365"><img src="https://pbs.twimg.com/media/HS31w4WbIAAuLRD?format=jpg&amp;name=medium" alt="Using Jev to locate topic timestamps in podcast transcripts · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/miyagawa/status/2102607147628720365">Using Jev to locate topic timestamps in podcast transcripts</a></h3>
-<p>Feeding transcripts and show notes to Jev to determine at which minute and second a linked topic appears; a 3-hour episode takes 0.5s and costs $0.003.</p>
-<p><strong>575</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 12 &nbsp; 📊 575</p>
-<p><strong>Tatsuhiko Miyagawa</strong> · @miyagawa</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/venturetwins/status/2102603228047442127"><img src="https://pbs.twimg.com/media/HS3yGJgaIAACkuV?format=jpg&amp;name=medium" alt="r/jev Subreddit Flooded with Computer Use Demos · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/venturetwins/status/2102603228047442127">r/jev Subreddit Flooded with Computer Use Demos</a></h3>
+<p>The subreddit originally for esports streamer Jev is now flooded with nerds sharing computer use demos, creating an unexpected culture collision.</p>
+<p><strong>1.2K</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.2K</p>
+<p><strong>Justine Moore</strong> · @venturetwins</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/nya3_neko2/status/2102588500420022651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588453007630336/img/tjI2FPQM1KQxf1nM.jpg" alt="Stateless Japanese IME Prototype Built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nya3_neko2/status/2102588500420022651">Stateless Japanese IME Prototype Built with Jev</a></h3>
-<p>The author prototyped a language-mode-free Japanese IME using Jev and the LLM-powered azooKey, allowing mixed Japanese-English typing with a single confirmation at the end of the sentence.</p>
-<p><strong>526</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 526</p>
-<p><strong>電電猫猫/ Naoki</strong> · @nya3_neko2</p>
+<p><strong>04</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/keitowebai/status/2102612729634898233"><img src="https://pbs.twimg.com/media/HS36_3aaEAEOQPv?format=jpg&amp;name=large" alt="Smart clipboard tool built with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/keitowebai/status/2102612729634898233">Smart clipboard tool built with Jev</a></h3>
+<p>A developer shares a clipboard app built with Jev. Copied text is automatically formatted to fit the paste destination context, while basic clipboard functions are also included. Currently in preparation.</p>
+<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
+<p><strong>KEITO💻AIディレクター</strong> · @keitowebai</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/nya3_neko2/status/2102588500420022651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588453007630336/img/tjI2FPQM1KQxf1nM.jpg" alt="Stateless Japanese IME Prototype Built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nya3_neko2/status/2102588500420022651">Stateless Japanese IME Prototype Built with Jev</a></h3>
-<p>The author prototyped a language-mode-free Japanese IME using Jev and the LLM-powered azooKey, allowing mixed Japanese-English typing with a single confirmation at the end of the sentence.</p>
-<p><strong>526</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 526</p>
-<p><strong>電電猫猫/ Naoki</strong> · @nya3_neko2</p>
+<p><strong>02</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/keitowebai/status/2102612729634898233"><img src="https://pbs.twimg.com/media/HS36_3aaEAEOQPv?format=jpg&amp;name=large" alt="Smart clipboard tool built with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/keitowebai/status/2102612729634898233">Smart clipboard tool built with Jev</a></h3>
+<p>A developer shares a clipboard app built with Jev. Copied text is automatically formatted to fit the paste destination context, while basic clipboard functions are also included. Currently in preparation.</p>
+<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
+<p><strong>KEITO💻AIディレクター</strong> · @keitowebai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/punk2898/status/2102607684554158581"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607435743760384/img/NDMjGwaefOzctobT.jpg" alt="JEV Open-Source Project Feed: 788 Projects Curated with Online Testing · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/punk2898/status/2102607684554158581">JEV Open-Source Project Feed: 788 Projects Curated with Online Testing</a></h3>
-<p>The author curated 788 JEV open-source projects on GitHub and offers coin selection tests, an online playground, and a report to close the information gap.</p>
-<p><strong>509</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 509</p>
-<p><strong>Punk（2898 🙌💎）</strong> · @punk2898</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102610658240135195">Jev Decision Model Skill Pack and 108 Scenarios</a></h3>
+<p>A curated guide to using the Jev decision model, offering 5 skills ready for coding agents and 108 reproducible scenarios, letting agents delegate classification, ranking, scoring and similar judgment tasks to Jev.</p>
+<p><strong>837</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/MindsHub/status/2102592607784411402"><img src="https://pbs.twimg.com/media/HS3mbksaoAApaBP?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MindsHub/status/2102592607784411402">TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier</a></h3>
-<p>MindsHub announces that TypeSafe&#39;s decision model Jev is now available in its free tier, with a link to API docs.</p>
-<p><strong>245</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 245</p>
-<p><strong>mindshub</strong> · @MindsHub</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/GitHub_Daily/status/2102578718824931766"><img src="https://pbs.twimg.com/media/HS3cMnqa0AA2roL?format=jpg&amp;name=medium" alt="Using the Jev Model for Fish-Style zsh History Completion · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GitHub_Daily/status/2102578718824931766">Using the Jev Model for Fish-Style zsh History Completion</a></h3>
+<p>Introduces jev-shell-history: on each keystroke it sends the last 100 unique history commands to the Jev model, which picks the most likely one and shows it as a gray suggestion, accepted with the right arrow key, with fuzzy matching support.</p>
+<p><strong>436</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 436</p>
+<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
 </td>
 </tr>
 </table>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 137 | 59 | 80 | 3.0M |
+| 139 | 59 | 82 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Motion_Viz/status/2102605557601603617"><img src="https://pbs.twimg.com/media/HS3z2uwaMAA6mt0?format=jpg&amp;name=medium" alt="shipwithjev: 540 Publicly Indexed Builds with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Motion_Viz/status/2102605557601603617">shipwithjev: 540 Publicly Indexed Builds with Jev</a></h3>
+<p>X user MotionViz highlights shipwithjev, a publicly indexed library of 540 use cases built with Jev, including 177 X posts, 273 GitHub repositories, 27 Reddit threads, and 46 resources, described as a working build library rather than a prompt library.</p>
+<p><strong>中文摘要：</strong>X 用户 MotionViz 推荐 shipwithjev，称其为用 Jev 构建的 540 个公开索引用例库，包含 177 条 X 帖子、273 个 GitHub 仓库、27 个 Reddit 帖子和 46 个资源，强调这是一个可运行的构建库而非提示词库。</p>
+<p><strong>MotionViz</strong> · @Motion_Viz · 2026-09-23</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 138</p>
+<p><a href="https://x.com/Motion_Viz/status/2102605557601603617">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/taiyop/status/2102577805053829613"><img src="https://pbs.twimg.com/media/HS3bXlZbMAARSoV?format=jpg&amp;name=900x900" alt="AI Character with Jev-Driven Facial Expressions · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 133</p>
 <p><a href="https://x.com/taiyop/status/2102577805053829613">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/youens/status/2102579362365137175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Example: Emogee Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Justin Youens</strong> · @youens · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/youens/status/2102579362365137175">在 X 查看原帖</a> · <a href="https://t.co/OYBJoHBW9f">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/edplese/status/2102606290753114439"><img src="https://pbs.twimg.com/media/HS31EPMXYAAdTbR?format=jpg&amp;name=medium" alt="Building a Jev-style local model for images · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/edplese/status/2102606290753114439">Building a Jev-style local model for images</a></h3>
+<p>The author applies the Jev idea to images with a local model, achieving 63ms for a 512x384 image and 15fps video, with confidence scores for a birthday cake scene.</p>
+<p><strong>中文摘要：</strong>作者尝试将 Jev 思路用于图像，构建本地模型，512x384 图像耗时 63ms，可支持 15fps 视频，并给出生日蛋糕场景的标签置信度。</p>
+<p><strong>Ed Plese</strong> · @edplese · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/edplese/status/2102606290753114439">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

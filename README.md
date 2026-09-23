@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2342</strong><br>curated posts</td>
-<td align="center"><strong>1320</strong><br>original videos</td>
+<td align="center"><strong>2376</strong><br>curated posts</td>
+<td align="center"><strong>1340</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>297</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>300</strong> showcases · <strong>140</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>278</strong> showcases · <strong>111</strong> videos</p>
+<p><strong>285</strong> showcases · <strong>114</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>274</strong> showcases · <strong>150</strong> videos</p>
+<p><strong>279</strong> showcases · <strong>154</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>235</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>240</strong> showcases · <strong>187</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>159</strong> showcases · <strong>89</strong> videos</p>
+<p><strong>162</strong> showcases · <strong>91</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>147</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>148</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>144</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>145</strong> showcases · <strong>64</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>137</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>139</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>110</strong> showcases · <strong>62</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>69</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>71</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>55</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>56</strong> showcases · <strong>49</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>32</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>33</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>22</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>23</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
+<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
+<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
 <p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
 <p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
 <p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/miyagawa/status/2102607147628720365"><img src="https://pbs.twimg.com/media/HS31w4WbIAAuLRD?format=jpg&amp;name=medium" alt="Using Jev to locate topic timestamps in podcast transcripts · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/miyagawa/status/2102607147628720365">Using Jev to locate topic timestamps in podcast transcripts</a></h3>
+<p>Feeding transcripts and show notes to Jev to determine at which minute and second a linked topic appears; a 3-hour episode takes 0.5s and costs $0.003.</p>
+<p><strong>575</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 12 &nbsp; 📊 575</p>
+<p><strong>Tatsuhiko Miyagawa</strong> · @miyagawa</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/nya3_neko2/status/2102588500420022651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588453007630336/img/tjI2FPQM1KQxf1nM.jpg" alt="Stateless Japanese IME Prototype Built with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/nya3_neko2/status/2102588500420022651">Stateless Japanese IME Prototype Built with Jev</a></h3>
 <p>The author prototyped a language-mode-free Japanese IME using Jev and the LLM-powered azooKey, allowing mixed Japanese-English typing with a single confirmation at the end of the sentence.</p>
 <p><strong>526</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 526</p>
 <p><strong>電電猫猫/ Naoki</strong> · @nya3_neko2</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/GitHub_Daily/status/2102578718824931766"><img src="https://pbs.twimg.com/media/HS3cMnqa0AA2roL?format=jpg&amp;name=medium" alt="Using the Jev Model for Fish-Style zsh History Completion · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GitHub_Daily/status/2102578718824931766">Using the Jev Model for Fish-Style zsh History Completion</a></h3>
-<p>Introduces jev-shell-history: on each keystroke it sends the last 100 unique history commands to the Jev model, which picks the most likely one and shows it as a gray suggestion, accepted with the right arrow key, with fuzzy matching support.</p>
-<p><strong>436</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 436</p>
-<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/HuggingModels/status/2102592544924446976"><img src="https://pbs.twimg.com/media/HS3oxutaUAAc-vE?format=jpg&amp;name=medium" alt="Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HuggingModels/status/2102592544924446976">Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions</a></h3>
-<p>Introducing Open JEV DeBERTa V3 Large, a text classification model that doesn&#39;t just label but makes typed decisions, calibrated, open, and built for real-world trust.</p>
-<p><strong>429</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 429</p>
-<p><strong>Hugging Models</strong> · @HuggingModels</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
-<p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
-<p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
-<p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
+<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
+<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
+<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/HuggingModels/status/2102592544924446976"><img src="https://pbs.twimg.com/media/HS3oxutaUAAc-vE?format=jpg&amp;name=medium" alt="Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HuggingModels/status/2102592544924446976">Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions</a></h3>
-<p>Introducing Open JEV DeBERTa V3 Large, a text classification model that doesn&#39;t just label but makes typed decisions, calibrated, open, and built for real-world trust.</p>
-<p><strong>429</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 429</p>
-<p><strong>Hugging Models</strong> · @HuggingModels</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/nya3_neko2/status/2102588500420022651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588453007630336/img/tjI2FPQM1KQxf1nM.jpg" alt="Stateless Japanese IME Prototype Built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/nya3_neko2/status/2102588500420022651">Stateless Japanese IME Prototype Built with Jev</a></h3>
+<p>The author prototyped a language-mode-free Japanese IME using Jev and the LLM-powered azooKey, allowing mixed Japanese-English typing with a single confirmation at the end of the sentence.</p>
+<p><strong>526</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 526</p>
+<p><strong>電電猫猫/ Naoki</strong> · @nya3_neko2</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/burstingbagel/status/2102592197476626486"><img src="https://pbs.twimg.com/media/HS3oBIbXUAEPG3Z?format=jpg&amp;name=medium" alt="Jev filter screens 40k wallets before TGE · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/burstingbagel/status/2102592197476626486">Jev filter screens 40k wallets before TGE</a></h3>
-<p>User built a Jev filter to screen 40k wallets in 4 seconds before TGE, targeting mercenary farmers.</p>
-<p><strong>290</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 290</p>
-<p><strong>BurstingBagel 🥯</strong> · @burstingbagel</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/punk2898/status/2102607684554158581"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607435743760384/img/NDMjGwaefOzctobT.jpg" alt="JEV Open-Source Project Feed: 788 Projects Curated with Online Testing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/punk2898/status/2102607684554158581">JEV Open-Source Project Feed: 788 Projects Curated with Online Testing</a></h3>
+<p>The author curated 788 JEV open-source projects on GitHub and offers coin selection tests, an online playground, and a report to close the information gap.</p>
+<p><strong>509</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 509</p>
+<p><strong>Punk（2898 🙌💎）</strong> · @punk2898</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/taiyop/status/2102577805053829613"><img src="https://pbs.twimg.com/media/HS3bXlZbMAARSoV?format=jpg&amp;name=900x900" alt="AI Character with Jev-Driven Facial Expressions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/taiyop/status/2102577805053829613">AI Character with Jev-Driven Facial Expressions</a></h3>
-<p>Showcasing an AI character at a generative AI exhibition that uses Jev for facial expressions and Irodori TTS for emotional speech.</p>
-<p><strong>133</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 133</p>
-<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/MindsHub/status/2102592607784411402"><img src="https://pbs.twimg.com/media/HS3mbksaoAApaBP?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MindsHub/status/2102592607784411402">TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier</a></h3>
+<p>MindsHub announces that TypeSafe&#39;s decision model Jev is now available in its free tier, with a link to API docs.</p>
+<p><strong>245</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 245</p>
+<p><strong>mindshub</strong> · @MindsHub</p>
 </td>
 </tr>
 </table>

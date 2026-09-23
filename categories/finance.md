@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 110 | 62 | 49 | 1.2M |
+| 112 | 63 | 50 | 1.2M |
 
 ## Showcase 卡片
 
@@ -44,6 +44,30 @@
 <p><strong>Shiva Khemka</strong> · @shivak_01 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/shivak_01/status/2102575435892863423">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/FrankDa18249347/status/2102609646989332550"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Using Remaining Jev Credits to Fade a Trading Bot Live on Polymarket · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/FrankDa18249347/status/2102609646989332550">Using Remaining Jev Credits to Fade a Trading Bot Live on Polymarket</a></h3>
+<p>The author says the Jev account backing a trading bot is running low, and plans to shut it down and use the remaining Jev credits to fade it live on Polymarket, since the bot loses so consistently that a small live test seems worthwhile.</p>
+<p><strong>中文摘要：</strong>作者称支撑交易机器人的Jev账户即将耗尽，计划关停机器人后用剩余Jev额度在Polymarket实盘反买，因为机器人亏损稳定，想直接小金额实盘验证结果。</p>
+<p><strong>FrankD</strong> · @FrankDa18249347 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/FrankDa18249347/status/2102609646989332550">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ergod_dev/status/2102608971999875122"><img src="https://pbs.twimg.com/media/HS33rC4WAAAvKpu?format=jpg&amp;name=medium" alt="Jev Trader Bot Completes First Paper Trades · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ergod_dev/status/2102608971999875122">Jev Trader Bot Completes First Paper Trades</a></h3>
+<p>Developer shares that their Jev trader bot completed its first two successful paper trades, showing progress in a Jev-based financial trading application.</p>
+<p><strong>中文摘要：</strong>开发者分享其 Jev 交易机器人完成首批两笔成功模拟交易，展示基于 Jev 模型的金融交易应用进展。</p>
+<p><strong>Ergod</strong> · @ergod_dev · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/ergod_dev/status/2102608971999875122">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>

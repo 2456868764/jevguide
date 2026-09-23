@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 69 | 40 | 29 | 235K |
+| 71 | 40 | 31 | 235K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/miyagawa/status/2102607147628720365"><img src="https://pbs.twimg.com/media/HS31w4WbIAAuLRD?format=jpg&amp;name=medium" alt="Using Jev to locate topic timestamps in podcast transcripts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/miyagawa/status/2102607147628720365">Using Jev to locate topic timestamps in podcast transcripts</a></h3>
+<p>Feeding transcripts and show notes to Jev to determine at which minute and second a linked topic appears; a 3-hour episode takes 0.5s and costs $0.003.</p>
+<p><strong>中文摘要：</strong>将转录文本和节目笔记交给 Jev，判断链接话题出现在转录的几分几秒；3 小时节目耗时 0.5 秒、成本 0.003 美元。</p>
+<p><strong>Tatsuhiko Miyagawa</strong> · @miyagawa · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 12 &nbsp; 📊 575</p>
+<p><a href="https://x.com/miyagawa/status/2102607147628720365">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/stoicastics/status/2102587231106211927"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587048422993921/img/0oXRXCUNavjCtHPa.jpg" alt="Using Jev to auto-classify an Obsidian vault · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>CWEY-O 🐰</strong> · @stoicastics · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/stoicastics/status/2102587231106211927">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_kayato/status/2102610222653321666"><img src="https://pbs.twimg.com/media/HS34yGaboAAMz4k?format=jpg&amp;name=large" alt="Jev Catch-up Notes for Non-Engineers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_kayato/status/2102610222653321666">Jev Catch-up Notes for Non-Engineers</a></h3>
+<p>Introductory notes on Jev for non-engineers, helping readers quickly grasp the basics.</p>
+<p><strong>中文摘要：</strong>面向非技术人员的 Jev 入门笔记，帮助快速了解 Jev 的基本概念。</p>
+<p><strong>kayato</strong> · @_kayato · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 3</p>
+<p><a href="https://x.com/_kayato/status/2102610222653321666">在 X 查看原帖</a> · <a href="https://t.co/dAXMlJkWOj">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/deliprao/status/2102238304062341148"><img src="https://pbs.twimg.com/media/HSykhg1WMAA40KM?format=jpg&amp;name=medium" alt="Discussion of Jev on GSM8K and MATH · 原帖图片" width="100%"></a>

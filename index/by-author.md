@@ -76,6 +76,7 @@
 - [Kun Chen](../authors/kun-chen.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
 - [Mahmoud](../authors/mahmoud.md) — 3
+- [MajdAICode](../authors/majdaicode.md) — 3
 - [Matija Sosic](../authors/matija-sosic.md) — 3
 - [Matt Mastracci](../authors/matt-mastracci.md) — 3
 - [Matthew Berman](../authors/matthew-berman.md) — 3
@@ -213,7 +214,6 @@
 - [LinearUncle](../authors/linearuncle.md) — 2
 - [Lonely](../authors/lonely.md) — 2
 - [Mahi](../authors/mahi.md) — 2
-- [MajdAICode](../authors/majdaicode.md) — 2
 - [mana｜株式会社MakeAI CEO](../authors/mana-株式会社makeai-ceo.md) — 2
 - [Marcus Lowe](../authors/marcus-lowe.md) — 2
 - [Maris](../authors/maris.md) — 2
@@ -292,6 +292,7 @@
 - [Vikas gupta](../authors/vikas-gupta.md) — 2
 - [Viral Maniar](../authors/viral-maniar.md) — 2
 - [vogel](../authors/vogel.md) — 2
+- [Wizard Glacier](../authors/wizard-glacier.md) — 2
 - [Wyong · 产品增长](../authors/wyong-产品增长.md) — 2
 - [Xuan (Billy) Zhang](../authors/xuan-billy-zhang.md) — 2
 - [yasu｜在宅ワーク準備中の派遣社員](../authors/yasu-在宅-準備中-派遣社員.md) — 2
@@ -677,6 +678,7 @@
 - [Daisy Nguyen](../authors/daisy-nguyen.md) — 1
 - [daisydiao.eth](../authors/daisydiao-eth.md) — 1
 - [Dan Billson](../authors/dan-billson.md) — 1
+- [Dan Kornas](../authors/dan-kornas.md) — 1
 - [Dan Robinson](../authors/dan-robinson.md) — 1
 - [Dani Zhu](../authors/dani-zhu.md) — 1
 - [Daniel Amitay](../authors/daniel-amitay.md) — 1
@@ -883,6 +885,7 @@
 - [Hamed Nilforoshan](../authors/hamed-nilforoshan.md) — 1
 - [Hamel Husain](../authors/hamel-husain.md) — 1
 - [Hamilton Ulmer](../authors/hamilton-ulmer.md) — 1
+- [Hamza Khalid](../authors/hamza-khalid.md) — 1
 - [Hanish Keloth](../authors/hanish-keloth.md) — 1
 - [HankAI](../authors/hankai.md) — 1
 - [Haoran | 公众号：独立开发](../authors/haoran-公众号-独立开发.md) — 1
@@ -892,6 +895,8 @@
 - [Harold](../authors/harold.md) — 1
 - [Harrison Chase](../authors/harrison-chase.md) — 1
 - [Harrison Kinsley](../authors/harrison-kinsley.md) — 1
+- [Harsh Singh](../authors/harsh-singh.md) — 1
+- [Harsh Todi](../authors/harsh-todi.md) — 1
 - [haruka_apps](../authors/haruka-apps.md) — 1
 - [Harukoxd](../authors/harukoxd.md) — 1
 - [Harvey Michael Pratt](../authors/harvey-michael-pratt.md) — 1
@@ -1192,11 +1197,13 @@
 - [Marissa Famularo](../authors/marissa-famularo.md) — 1
 - [MARK RODEL VALDEZ](../authors/mark-rodel-valdez.md) — 1
 - [Mark Shust](../authors/mark-shust.md) — 1
+- [Marlene Mhangami](../authors/marlene-mhangami.md) — 1
 - [Martín Gaitán ⭐⭐⭐](../authors/martin-gaitan.md) — 1
 - [Martin Szerment | Practical AI](../authors/martin-szerment-practical-ai.md) — 1
 - [massan](../authors/massan.md) — 1
 - [MASSO](../authors/masso.md) — 1
 - [Matheus D. Santos](../authors/matheus-d-santos.md) — 1
+- [Matilda](../authors/matilda.md) — 1
 - [Matin SenPai](../authors/matin-senpai.md) — 1
 - [mattn](../authors/mattn.md) — 1
 - [Mau Baron](../authors/mau-baron.md) — 1
@@ -1304,6 +1311,7 @@
 - [Niaz Morshed](../authors/niaz-morshed.md) — 1
 - [nicekate](../authors/nicekate.md) — 1
 - [Nicholas Charriere](../authors/nicholas-charriere.md) — 1
+- [Nick Horob](../authors/nick-horob.md) — 1
 - [Nick Khami](../authors/nick-khami.md) — 1
 - [Nicolas//YDCA](../authors/nicolas-ydca.md) — 1
 - [Nidhi Singh](../authors/nidhi-singh.md) — 1
@@ -1575,6 +1583,7 @@
 - [Sirin](../authors/sirin.md) — 1
 - [sk builds](../authors/sk-builds.md) — 1
 - [Skewbed](../authors/skewbed.md) — 1
+- [Skrilla](../authors/skrilla.md) — 1
 - [smallzero](../authors/smallzero.md) — 1
 - [Sodeh Abadi](../authors/sodeh-abadi.md) — 1
 - [Sofiia Shvets](../authors/sofiia-shvets.md) — 1
@@ -1753,7 +1762,6 @@
 - [Wilf Lin](../authors/wilf-lin.md) — 1
 - [Will (Exploring AI)](../authors/will-exploring-ai.md) — 1
 - [Will Kriski](../authors/will-kriski.md) — 1
-- [Wizard Glacier](../authors/wizard-glacier.md) — 1
 - [Workflow Lab](../authors/workflow-lab.md) — 1
 - [Worza](../authors/worza.md) — 1
 - [WTR](../authors/wtr.md) — 1
@@ -1772,6 +1780,7 @@
 - [Yajat Gulati](../authors/yajat-gulati.md) — 1
 - [yara David](../authors/yara-david.md) — 1
 - [Yarrow](../authors/yarrow.md) — 1
+- [YeahJack](../authors/yeahjack.md) — 1
 - [Yerkebulan Rakhimov](../authors/yerkebulan-rakhimov.md) — 1
 - [Yingcheng Charles Wu](../authors/yingcheng-charles-wu.md) — 1
 - [yjtr](../authors/yjtr.md) — 1
@@ -1860,6 +1869,7 @@
 - [ゴーレム所長｜人生再構築スタジオ](../authors/所長-人生再構築.md) — 1
 - [こいけや@転生したら100km歩いてポテチ食べてた件](../authors/転生-100km歩-食-件.md) — 1
 - [こぎそ](../authors/jev-showcase.md) — 1
+- [コクリコ](../authors/jev-showcase.md) — 1
 - [コスギ＠Microsoft Clarity 研究所(U･ω･U)](../authors/microsoft-clarity-研究所-u-u.md) — 1
 - [こばやし 'にらたま' けんいち](../authors/jev-showcase.md) — 1
 - [こぴぺたん](../authors/jev-showcase.md) — 1
@@ -1998,6 +2008,7 @@
 - [残念院さん 貴方のファンアートを糧にすくすく育つ怪物系教祖](../authors/残念院-貴方-糧-育-怪物系教祖.md) — 1
 - [毒猫猫 | 量化摸鱼师](../authors/毒猫猫-量化摸鱼师.md) — 1
 - [氪学家](../authors/氪学家.md) — 1
+- [永田](../authors/永田.md) — 1
 - [海總理](../authors/海總理.md) — 1
 - [渥美研司｜中小企業診断士](../authors/渥美研司-中小企業診断士.md) — 1
 - [热点挖掘机🔶BNB](../authors/热点挖掘机-bnb.md) — 1

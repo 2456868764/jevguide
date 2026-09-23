@@ -1,21 +1,21 @@
 # Jev Showcases by Category
 
 - [How it works](../categories/how-it-works.md) — 325
-- [Developer tools](../categories/developer-tools.md) — 298
+- [Developer tools](../categories/developer-tools.md) — 299
 - [Access updates](../categories/access-updates.md) — 292
 - [Gaming](../categories/gaming.md) — 261
-- [Community builds](../categories/community-builds.md) — 220
+- [Community builds](../categories/community-builds.md) — 227
 - [Agents](../categories/agents.md) — 188
-- [Launch news](../categories/launch-news.md) — 163
-- [Developer resources](../categories/developer-resources.md) — 156
+- [Launch news](../categories/launch-news.md) — 164
+- [Developer resources](../categories/developer-resources.md) — 157
 - [Finance](../categories/finance.md) — 122
 - [Workflow automation](../categories/workflow-automation.md) — 104
 - [Marketing](../categories/marketing.md) — 87
 - [Knowledge & search](../categories/knowledge-search.md) — 71
-- [Data analytics](../categories/data-analytics.md) — 67
-- [Content creation](../categories/content-creation.md) — 62
+- [Data analytics](../categories/data-analytics.md) — 68
+- [Content creation](../categories/content-creation.md) — 63
 - [Robotics](../categories/robotics.md) — 33
-- [Scientific research](../categories/scientific-research.md) — 28
+- [Scientific research](../categories/scientific-research.md) — 29
 - [Customer support](../categories/customer-support.md) — 24
 - [Productivity](../categories/productivity.md) — 24
 - [Cybersecurity](../categories/cybersecurity.md) — 20

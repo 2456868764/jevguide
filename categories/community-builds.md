@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 135 | 58 | 79 | 3.0M |
+| 137 | 59 | 80 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taiyop/status/2102577805053829613"><img src="https://pbs.twimg.com/media/HS3bXlZbMAARSoV?format=jpg&amp;name=900x900" alt="AI Character with Jev-Driven Facial Expressions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/taiyop/status/2102577805053829613">AI Character with Jev-Driven Facial Expressions</a></h3>
+<p>Showcasing an AI character at a generative AI exhibition that uses Jev for facial expressions and Irodori TTS for emotional speech.</p>
+<p><strong>中文摘要：</strong>在生成AI展示会上展示使用Jev驱动表情变化、结合Irodori TTS实现情感语音的AI角色。</p>
+<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 133</p>
+<p><a href="https://x.com/taiyop/status/2102577805053829613">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/youens/status/2102579362365137175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Example: Emogee Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/youens/status/2102579362365137175">Jev Example: Emogee Demo</a></h3>
+<p>The author calls this the neatest Jev example they&#39;ve seen and adds a demo link.</p>
+<p><strong>中文摘要：</strong>作者称这是见过最简洁的 Jev 示例，并补充了演示链接。</p>
+<p><strong>Justin Youens</strong> · @youens · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/youens/status/2102579362365137175">在 X 查看原帖</a> · <a href="https://t.co/OYBJoHBW9f">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kensuu/status/2102218284825444362"><img src="https://pbs.twimg.com/media/HSyTrqBbsAAF9-X?format=jpg&amp;name=large" alt="Building a site for questions that stump Jev · 原帖图片" width="100%"></a>

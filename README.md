@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2276</strong><br>curated posts</td>
-<td align="center"><strong>1289</strong><br>original videos</td>
+<td align="center"><strong>2307</strong><br>curated posts</td>
+<td align="center"><strong>1301</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>282</strong> showcases · <strong>130</strong> videos</p>
+<p><strong>291</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>270</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>273</strong> showcases · <strong>149</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>268</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>270</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>230</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>232</strong> showcases · <strong>180</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>153</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>155</strong> showcases · <strong>87</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>145</strong> showcases · <strong>85</strong> videos</p>
+<p><strong>146</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>139</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>140</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>135</strong> showcases · <strong>58</strong> videos</p>
+<p><strong>137</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>107</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>109</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>96</strong> showcases · <strong>65</strong> videos</p>
+<p><strong>97</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>77</strong> showcases · <strong>64</strong> videos</p>
+<p><strong>78</strong> showcases · <strong>65</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>62</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>63</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>54</strong> showcases · <strong>48</strong> videos</p>
+<p><strong>55</strong> showcases · <strong>49</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>22</strong> showcases · <strong>11</strong> videos</p>
+<p><strong>23</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>21</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>22</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>16</strong> showcases · <strong>8</strong> videos</p>
+<p><strong>17</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/NFT_Chen/status/2102277701415600236"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Laya vs Jev: 45ms Local vs 300ms Cloud · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2102277701415600236">Laya vs Jev: 45ms Local vs 300ms Cloud</a></h3>
-<p>Post compares Laya and Jev decision latency: local Laya about 45ms on a 16GB MacBook Air versus cloud Jev about 300ms, noting Laya is free while Jev charges per token.</p>
-<p><strong>57K</strong> views · 💬 16 &nbsp; 🔁 40 &nbsp; ♡ 264 &nbsp; 📊 57K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
+<p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
+<p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
+<p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2102227634730012753"><img src="https://pbs.twimg.com/amplify_video_thumb/2102212010670784512/img/jZ1wP1UXNSDLjXEY.jpg" alt="Jev Combined with Treg Saves $8K Monthly Across Three Workflows · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2102227634730012753">Jev Combined with Treg Saves $8K Monthly Across Three Workflows</a></h3>
-<p>Jev combined with Treg saves $8K a month across three workflows: fraud detection and signup screening, buying signal triage, and viral content monitoring, with automation costs driven to zero. Fully open source.</p>
-<p><strong>41K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 25 &nbsp; 📊 41K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/GitHub_Daily/status/2102578718824931766"><img src="https://pbs.twimg.com/media/HS3cMnqa0AA2roL?format=jpg&amp;name=medium" alt="Using the Jev Model for Fish-Style zsh History Completion · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GitHub_Daily/status/2102578718824931766">Using the Jev Model for Fish-Style zsh History Completion</a></h3>
+<p>Introduces jev-shell-history: on each keystroke it sends the last 100 unique history commands to the Jev model, which picks the most likely one and shows it as a gray suggestion, accepted with the right arrow key, with fuzzy matching support.</p>
+<p><strong>436</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 436</p>
+<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RobinhoodAlphas/status/2102221040944353377">Jev Model Powers Lending Desk on Robinhood Chain</a></h3>
-<p>JevTrenches is a lending desk built on Robinhood Chain that uses Jev, TypeSafe&#39;s System One model, to determine the factor while code sizes the loan, focusing on lending infrastructure rather than taking deposits.</p>
-<p><strong>38K</strong> views · 💬 72 &nbsp; 🔁 101 &nbsp; ♡ 442 &nbsp; 📊 38K</p>
-<p><strong>Robinhood Alpha</strong> · @RobinhoodAlphas</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/79yuuki/status/2102577684232749096">Jev Suited for Choosing Models per Task</a></h3>
+<p>The author thinks Jev is well suited to deciding when and which model to use for a given task.</p>
+<p><strong>166</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
+<p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
-<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
-<p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2102579956324990992"><img src="https://pbs.twimg.com/media/HSyhV6fbwAAxRsQ?format=jpg&amp;name=medium" alt="Rizzo Flow Replicates Jev API Locally with llama.cpp · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102579956324990992">Rizzo Flow Replicates Jev API Locally with llama.cpp</a></h3>
+<p>Jev is a hosted closed-source service, making it hard to get the same state-in, probabilistic-decision-out interface locally. Rizzo Flow fills this gap with open weights and llama.cpp, letting you run against localhost by changing a base URL.</p>
+<p><strong>135</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/NFT_Chen/status/2102277701415600236"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Laya vs Jev: 45ms Local vs 300ms Cloud · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2102277701415600236">Laya vs Jev: 45ms Local vs 300ms Cloud</a></h3>
-<p>Post compares Laya and Jev decision latency: local Laya about 45ms on a 16GB MacBook Air versus cloud Jev about 300ms, noting Laya is free while Jev charges per token.</p>
-<p><strong>57K</strong> views · 💬 16 &nbsp; 🔁 40 &nbsp; ♡ 264 &nbsp; 📊 57K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
+<p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
+<p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
+<p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RoundtableSpace/status/2102235184795935185">Jev and OpenRouter Go Live on Monid with 2,000 Tools</a></h3>
-<p>Jev and OpenRouter are now live on Monid with 2,000 tools, letting agents pick what they need and speeding up lead scoring, viral hook scanning, fundraising research and SEO audits by 30x.</p>
-<p><strong>38K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 38K</p>
-<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2102579956324990992"><img src="https://pbs.twimg.com/media/HSyhV6fbwAAxRsQ?format=jpg&amp;name=medium" alt="Rizzo Flow Replicates Jev API Locally with llama.cpp · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102579956324990992">Rizzo Flow Replicates Jev API Locally with llama.cpp</a></h3>
+<p>Jev is a hosted closed-source service, making it hard to get the same state-in, probabilistic-decision-out interface locally. Rizzo Flow fills this gap with open weights and llama.cpp, letting you run against localhost by changing a base URL.</p>
+<p><strong>135</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheStalwart/status/2102190936780312800"><img src="https://pbs.twimg.com/media/HSx6636XsAA6n9B?format=jpg&amp;name=900x900" alt="Re-scoring the Fedlock Corpus with Jev and JSort · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheStalwart/status/2102190936780312800">Re-scoring the Fedlock Corpus with Jev and JSort</a></h3>
-<p>Using Jev and JSort to re-score 4,005 FOMC public speeches and statements since the mid-90s, showcasing low-cost intelligence in action.</p>
-<p><strong>38K</strong> views · 💬 8 &nbsp; 🔁 10 &nbsp; ♡ 121 &nbsp; 📊 38K</p>
-<p><strong>Joe Weisenthal</strong> · @TheStalwart</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/taiyop/status/2102577805053829613"><img src="https://pbs.twimg.com/media/HS3bXlZbMAARSoV?format=jpg&amp;name=900x900" alt="AI Character with Jev-Driven Facial Expressions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/taiyop/status/2102577805053829613">AI Character with Jev-Driven Facial Expressions</a></h3>
+<p>Showcasing an AI character at a generative AI exhibition that uses Jev for facial expressions and Irodori TTS for emotional speech.</p>
+<p><strong>133</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 133</p>
+<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/goan999999/status/2102214426548154649"><img src="https://pbs.twimg.com/amplify_video_thumb/2102159599017046017/img/RZiboK0K4fbqbu8P.jpg" alt="Jev Reviews Car Insurance Documents, Saving User $5,000 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goan999999/status/2102214426548154649">Jev Reviews Car Insurance Documents, Saving User $5,000</a></h3>
-<p>A user handed car insurance documents to Jev for a full review; Jev spotted issues and saved him $5,000, showing its practical value in financial document review.</p>
-<p><strong>7.7K</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 22 &nbsp; 📊 7.7K</p>
-<p><strong>govin.eth | G哥</strong> · @goan999999</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/youens/status/2102579362365137175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Example: Emogee Demo · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/youens/status/2102579362365137175">Jev Example: Emogee Demo</a></h3>
+<p>The author calls this the neatest Jev example they&#39;ve seen and adds a demo link.</p>
+<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><strong>Justin Youens</strong> · @youens</p>
 </td>
 </tr>
 </table>

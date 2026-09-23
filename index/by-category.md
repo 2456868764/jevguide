@@ -1,24 +1,24 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 282
-- [Developer tools](../categories/developer-tools.md) — 270
-- [Access updates](../categories/access-updates.md) — 268
-- [Gaming](../categories/gaming.md) — 230
-- [Agents](../categories/agents.md) — 153
-- [Launch news](../categories/launch-news.md) — 145
-- [Developer resources](../categories/developer-resources.md) — 139
-- [Community builds](../categories/community-builds.md) — 135
-- [Finance](../categories/finance.md) — 107
-- [Workflow automation](../categories/workflow-automation.md) — 96
-- [Marketing](../categories/marketing.md) — 77
+- [How it works](../categories/how-it-works.md) — 291
+- [Developer tools](../categories/developer-tools.md) — 273
+- [Access updates](../categories/access-updates.md) — 270
+- [Gaming](../categories/gaming.md) — 232
+- [Agents](../categories/agents.md) — 155
+- [Launch news](../categories/launch-news.md) — 146
+- [Developer resources](../categories/developer-resources.md) — 140
+- [Community builds](../categories/community-builds.md) — 137
+- [Finance](../categories/finance.md) — 109
+- [Workflow automation](../categories/workflow-automation.md) — 97
+- [Marketing](../categories/marketing.md) — 78
 - [Knowledge & search](../categories/knowledge-search.md) — 68
-- [Data analytics](../categories/data-analytics.md) — 62
-- [Content creation](../categories/content-creation.md) — 54
+- [Data analytics](../categories/data-analytics.md) — 63
+- [Content creation](../categories/content-creation.md) — 55
 - [Robotics](../categories/robotics.md) — 32
-- [Scientific research](../categories/scientific-research.md) — 22
-- [Customer support](../categories/customer-support.md) — 21
+- [Scientific research](../categories/scientific-research.md) — 23
+- [Customer support](../categories/customer-support.md) — 22
 - [Productivity](../categories/productivity.md) — 19
-- [Business operations](../categories/business-operations.md) — 16
+- [Business operations](../categories/business-operations.md) — 17
 - [Healthcare](../categories/healthcare.md) — 15
 - [Cybersecurity](../categories/cybersecurity.md) — 15
 - [Software development](../categories/software-development.md) — 15

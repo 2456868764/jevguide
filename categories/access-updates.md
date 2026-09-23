@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 268 | 109 | 159 | 802K |
+| 270 | 109 | 161 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RamV2003/status/2102574797272068431"><img src="https://pbs.twimg.com/media/HS3VfMiWYAEbIDC?format=jpg&amp;name=medium" alt="Jev latency and accuracy compared with Llama and DeepSeek · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RamV2003/status/2102574797272068431">Jev latency and accuracy compared with Llama and DeepSeek</a></h3>
+<p>A user shares early results from trying Jev: with the same labeled inputs, Jev shows 235ms median latency and 82% accuracy, versus Llama 3.1 8b at 497ms/68% and DeepSeek v4 flash at about 2s.</p>
+<p><strong>中文摘要：</strong>用户分享试用 Jev 的初步结果：相同标注输入下，Jev 中位延迟 235ms、准确率 82%，对比 Llama 3.1 8b 的 497ms/68% 和 DeepSeek v4 flash 约 2s。</p>
+<p><strong>Ram Vinjamuri</strong> · @RamV2003 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 49</p>
+<p><a href="https://x.com/RamV2003/status/2102574797272068431">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/azailuhca/status/2102581717609652522"><img src="https://pbs.twimg.com/media/HS3eLc7a4AARR4Z?format=jpg&amp;name=medium" alt="After Jev&#39;s typesafe-sdk, trying curl command calls · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/azailuhca/status/2102581717609652522">After Jev&#39;s typesafe-sdk, trying curl command calls</a></h3>
+<p>The author says Jev&#39;s typesafe-sdk for Python worked, and this time tried calling via curl, seeing it as usable even in environments with dependency constraints.</p>
+<p><strong>中文摘要：</strong>作者表示 Jev 的 Python 用 typesafe-sdk 已能运行，这次改用 curl 命令调用，认为在依赖受限的环境中也能使用。</p>
+<p><strong>あざいるぅか🔁AITuber</strong> · @azailuhca · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/azailuhca/status/2102581717609652522">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2102235184795935185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102112249112604672/img/3lR6gxILRYKTiMF_.jpg" alt="Jev and OpenRouter Go Live on Monid with 2,000 Tools · 原帖视频截图" width="100%"></a>

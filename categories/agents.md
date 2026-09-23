@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 153 | 86 | 67 | 3.0M |
+| 155 | 87 | 68 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
+<p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
+<p><strong>中文摘要：</strong>Jev 聊天助手无需 hook 或改包，可读取微信、QQ、飞书、X 等屏幕对话，帮助判断对方真实意图和危险等级。</p>
+<p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS · 2026-09-23</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/NFTCPS/status/2102573338908594567">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/79yuuki/status/2102577684232749096">Jev Suited for Choosing Models per Task</a></h3>
+<p>The author thinks Jev is well suited to deciding when and which model to use for a given task.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 很适合处理“何时、用哪个模型做哪种作业”的选择问题。</p>
+<p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
+<p><a href="https://x.com/79yuuki/status/2102577684232749096">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2102242735667511617"><img src="https://pbs.twimg.com/amplify_video_thumb/2099924273905434624/img/vEtimYy5z2jMtjYy.jpg" alt="Jev Doesn&#39;t Replace Your Model, It Replaces Your Gatekeeper · 原帖视频截图" width="100%"></a>

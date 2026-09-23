@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 230 | 180 | 54 | 588K |
+| 232 | 180 | 56 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mitochon_9/status/2102574515268247961"><img src="https://pbs.twimg.com/media/HS3YYE8bwAAUAEl?format=jpg&amp;name=medium" alt="Building a Turtle Soup Host App with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mitochon_9/status/2102574515268247961">Building a Turtle Soup Host App with Jev</a></h3>
+<p>The author built a Turtle Soup app with Jev, letting it not only answer yes/no but also read the room, time hints, and react to near-miss answers, fully replacing the host.</p>
+<p><strong>中文摘要：</strong>作者用Jev制作海龟汤应用，让Jev不仅回答是/否，还能把握氛围、在合适时机给提示并对接近的答案接话，完全替代主持人。</p>
+<p><strong>たかはし</strong> · @mitochon_9 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 74</p>
+<p><a href="https://x.com/mitochon_9/status/2102574515268247961">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dennis_huangbei/status/2102577229498925210"><img src="https://pbs.twimg.com/media/HS3aQvzaMAALb5u?format=jpg&amp;name=medium" alt="After Snake and Tank with JEV, someone built a Monument Valley-style 3D game with astra · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dennis_huangbei/status/2102577229498925210">After Snake and Tank with JEV, someone built a Monument Valley-style 3D game with astra</a></h3>
+<p>The author says playing Snake and Tank with JEV is too easy, so they built a Monument Valley-style 3D level with astra and invites others to try a 3D game with no DOM to find; at posting time, 15 minutes in, the first mechanism still hadn&#39;t been triggered.</p>
+<p><strong>中文摘要：</strong>作者称用 JEV 玩贪吃蛇、打坦克太简单，于是用 astra 写了一个纪念碑谷风格的 3D 关卡，并邀请大家挑战找不到 DOM 的 3D 游戏，发帖时已玩了 15 分钟仍未打开第一个机关。</p>
+<p><strong>bays wong</strong> · @dennis_huangbei · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/dennis_huangbei/status/2102577229498925210">在 X 查看原帖</a> · <a href="https://t.co/JIJCUOQBMy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sai_borg/status/2102221723454279710"><img src="https://pbs.twimg.com/media/HSyXbuzbcAAO65l?format=jpg&amp;name=medium" alt="AI Survives Minecraft Unsupervised — Live · 原帖图片" width="100%"></a>

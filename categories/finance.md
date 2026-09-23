@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 107 | 59 | 49 | 1.2M |
+| 109 | 61 | 49 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_300/status/2102578703666413804"><img src="https://pbs.twimg.com/amplify_video_thumb/2102409698201022464/img/Ivwi7m-5_YdnbXnO.jpg" alt="Jev Achieves 100% Tax Document Classification, Cheaper and Faster · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_300/status/2102578703666413804">Jev Achieves 100% Tax Document Classification, Cheaper and Faster</a></h3>
+<p>The post claims Jev classifies tax documents with 100% accuracy, 34x cheaper and 6x faster than LLMs, challenging the notion that AI struggles with tax classification.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 能 100% 分类税务文件，且比 LLM 便宜 34 倍、快 6 倍，打破 AI 不擅长税务分类的成见。</p>
+<p><strong>鈴木@アナログ営業会社を100日後にAIで売上を300％にする人</strong> · @ai_300 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
+<p><a href="https://x.com/ai_300/status/2102578703666413804">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shivak_01/status/2102575435892863423"><img src="https://pbs.twimg.com/amplify_video_thumb/2102574574328225792/img/7cWs17wP04S-zWc0.jpg" alt="Jev optimizes a personal stock analyser · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shivak_01/status/2102575435892863423">Jev optimizes a personal stock analyser</a></h3>
+<p>A user shares that Jev optimized their personal stock analyser, calling it one of Jev&#39;s best use cases.</p>
+<p><strong>中文摘要：</strong>用户分享用 Jev 优化自建股票分析工具，称其为 Jev 的最佳用例之一。</p>
+<p><strong>Shiva Khemka</strong> · @shivak_01 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/shivak_01/status/2102575435892863423">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>

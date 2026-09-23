@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 150 | 60 | 92 | 3.0M |
+| 162 | 66 | 98 | 3.0M |
 
 ## Showcase 卡片
 
@@ -70,6 +70,43 @@
 <p><a href="https://x.com/hellonehha/status/2102617956417192272">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/_kayato/status/2102643279141666977"><img src="https://pbs.twimg.com/amplify_video_thumb/2102642572267327488/img/b2StOyn7TY037xik.jpg" alt="A Chrome extension to prevent spoilers built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_kayato/status/2102643279141666977">A Chrome extension to prevent spoilers built with Jev</a></h3>
+<p>The author demonstrates a Chrome extension built with Jev that hides spoilers for specific works (e.g., Hathaway&#39;s Flash) when browsing Gundam-related posts, noting it helps avoid unexpected spoilers.</p>
+<p><strong>中文摘要：</strong>作者演示了用Jev构建的Chrome扩展，能在浏览高达相关帖子时隐藏指定作品（如《闪光的哈萨维》）的剧透内容，并表示这可以避免意外被剧透。</p>
+<p><strong>kayato</strong> · @_kayato · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 2 &nbsp; 📊 82</p>
+<p><a href="https://x.com/_kayato/status/2102643279141666977">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Farhan60291312/status/2102642749757637005"><img src="https://pbs.twimg.com/media/HS4WR1caUAAWzkJ?format=jpg&amp;name=900x900" alt="Laya Local Benchmark: 630ms Decisions on Pure CPU · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Farhan60291312/status/2102642749757637005">Laya Local Benchmark: 630ms Decisions on Pure CPU</a></h3>
+<p>Benchmarked Laya on an old laptop (i5-5200U, 12GB RAM, HDD). It achieved sub-second (~630ms) decisions on CPU alone, no GPU or cloud LLM needed. An open-weight release suitable for fast routing.</p>
+<p><strong>中文摘要：</strong>在老旧笔记本（i5-5200U、12GB内存、HDD）上对Laya进行基准测试，纯CPU环境下实现了约630ms的决策，无需GPU或云端LLM，适用于快速路由。</p>
+<p><strong>MalluCuler</strong> · @Farhan60291312 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
+<p><a href="https://x.com/Farhan60291312/status/2102642749757637005">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/denpoint1/status/2102643707799646543"><img src="https://pbs.twimg.com/media/HS4XTHlXQAAOQbZ?format=jpg&amp;name=medium" alt="Check your X account for AI slop with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/denpoint1/status/2102643707799646543">Check your X account for AI slop with Jev</a></h3>
+<p>The author posts that they used Jev to check their X account and found that 60% of the content is AI-generated slop, demonstrating Jev&#39;s use in identifying AI content.</p>
+<p><strong>中文摘要：</strong>作者发帖表示使用 Jev 检查了自己的 X 账号，发现其中 60% 的内容属于 AI 生成的垃圾内容，展示了 Jev 在识别 AI 内容方面的应用。</p>
+<p><strong>Daniil</strong> · @denpoint1 · 2026-09-23</p>
+<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 41</p>
+<p><a href="https://x.com/denpoint1/status/2102643707799646543">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/youens/status/2102579362365137175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Example: Emogee Demo · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/youens/status/2102579362365137175">在 X 查看原帖</a> · <a href="https://t.co/OYBJoHBW9f">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/adithatipalli/status/2102619597421904378"><img src="https://pbs.twimg.com/media/HS4BQCyakAARQpI?format=jpg&amp;name=medium" alt="From Jev to Laya: A Developer&#39;s Decision Model Switch · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +127,43 @@
 <p><strong>Adithya Thatipalli</strong> · @adithatipalli · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/adithatipalli/status/2102619597421904378">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cyberandy/status/2102646074267574319"><img src="https://pbs.twimg.com/amplify_video_thumb/2102536666179420160/img/tQ7_djKXnjA1P5Tw.jpg" alt="Jev runs frictionless on DiffusionGemma · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cyberandy/status/2102646074267574319">Jev runs frictionless on DiffusionGemma</a></h3>
+<p>Andrea Volpini praises Jev running seamlessly on DiffusionGemma, noting that when semantics are explicit, the same pattern is reproducible with any other model. The moat isn&#39;t the decision engine but the ontology behind the typed decision.</p>
+<p><strong>中文摘要：</strong>Andrea Volpini 称赞 Jev 在 DiffusionGemma 上流畅运行，并指出当语义显式时，同一模式可复用于任何其他模型。护城河不是决策引擎，而是类型化决策背后的本体论。</p>
+<p><strong>Andrea Volpini</strong> · @cyberandy · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/cyberandy/status/2102646074267574319">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TadatakaTakaha1/status/2102643659267248244"><img src="https://pbs.twimg.com/amplify_video_thumb/2102536666179420160/img/tQ7_djKXnjA1P5Tw.jpg" alt="Jev Use Case: AI Triage in Public Services and Restaurant Guidance · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TadatakaTakaha1/status/2102643659267248244">Jev Use Case: AI Triage in Public Services and Restaurant Guidance</a></h3>
+<p>The author imagines Jev quickly triaging inquiries at government counters or guiding next steps on restaurant tablets, while humans handle complex or important decisions.</p>
+<p><strong>中文摘要：</strong>作者设想Jev能快速完成政府窗口的咨询分流，或引导餐饮店平板的下一步操作，待人工处理复杂和重要判断。</p>
+<p><strong>Taka Tech</strong> · @TadatakaTakaha1 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 31</p>
+<p><a href="https://x.com/TadatakaTakaha1/status/2102643659267248244">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_kayato/status/2102644703284093044"><img src="https://pbs.twimg.com/amplify_video_thumb/2102642572267327488/img/b2StOyn7TY037xik.jpg" alt="Discussing valid Jev use cases · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_kayato/status/2102644703284093044">Discussing valid Jev use cases</a></h3>
+<p>The author lists three effective use cases for Jev: bounded answers (choices, stages, yes/no), multiple judgment steps, and non-fatal errors, noting stricter scoring can mitigate fatal mistakes.</p>
+<p><strong>中文摘要：</strong>作者列举Jev的三种有效用例：答案有界（如选项、阶段、是/否）、需要多次判断、出错不致命，并提到严格评分可降低偶然出错的致命风险。</p>
+<p><strong>kayato</strong> · @_kayato · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/_kayato/status/2102644703284093044">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/IngoElfering/status/2102617528287596906"><img src="https://pbs.twimg.com/media/HS3_f13W0AAbxnA?format=png&amp;name=medium" alt="Claude Calls Jev Model to Rank Hacker News · 原帖图片" width="100%"></a>
@@ -107,6 +179,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/AHSeslami/status/2102644203687723139"><img src="https://pbs.twimg.com/media/HS4Xv0TW4AA4eG_?format=jpg&amp;name=medium" alt="My First JEV Experience: Getting Token from OpenRouter and Plugging into Grok Bot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AHSeslami/status/2102644203687723139">My First JEV Experience: Getting Token from OpenRouter and Plugging into Grok Bot</a></h3>
+<p>The author shares their first experience with JEV from three days ago, when it was still on the waiting list. They got a JEV token from OpenRouter and gave it to Grok Bot, mentioning they had many videos from GITEX but didn&#39;t know what to do next.</p>
+<p><strong>中文摘要：</strong>作者分享三天前在JEV尚处等待名单时通过OpenRouter获取token并接入Grok Bot的首次使用经历，提及从GITEX拍摄了大量视频但未说明后续处理。</p>
+<p><strong>امیرحسین ثقه الاسلامی</strong> · @AHSeslami · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/AHSeslami/status/2102644203687723139">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/esnx_xyz/status/2102612659954946259"><img src="https://pbs.twimg.com/media/HS36e5laYAAG4nI?format=png&amp;name=small" alt="Filtering X Feed with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -117,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/esnx_xyz/status/2102612659954946259">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bangbuilds/status/2102621899482407282"><img src="https://pbs.twimg.com/amplify_video_thumb/2102621796579282944/img/xfTEGk834ij3IQdw.jpg" alt="User Asks Jev Which AI Membership to Cancel · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/bangbuilds/status/2102621899482407282">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eboppu/status/2102621399844294786"><img src="https://pbs.twimg.com/media/HS4Cv6BX0AA9Lvd?format=jpg&amp;name=medium" alt="Experimenting with Jev for runtime tool injection · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +224,19 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/eboppu/status/2102621399844294786">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Fairy_Yoshizawa/status/2102648076213293364"><img src="https://pbs.twimg.com/media/HS4bR9YaAAMreud?format=jpg&amp;name=medium" alt="Using Jev to Plan Your AI Exhibition Visit · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Fairy_Yoshizawa/status/2102648076213293364">Using Jev to Plan Your AI Exhibition Visit</a></h3>
+<p>A user shares using Jev before a generative AI exhibition to get recommended exhibits and a venue map based on preferences and stay time, planning to consult Jev first.</p>
+<p><strong>中文摘要：</strong>用户分享在生成AI综合展会前使用Jev，根据个人喜好和停留时间获得推荐展示与会场地图，并计划事先咨询Jev制定参展策略。</p>
+<p><strong>吉澤フェアリー🇯🇵</strong> · @Fairy_Yoshizawa · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Fairy_Yoshizawa/status/2102648076213293364">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/edplese/status/2102606290753114439"><img src="https://pbs.twimg.com/media/HS31EPMXYAAdTbR?format=jpg&amp;name=medium" alt="Building a Jev-style local model for images · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +247,30 @@
 <p><strong>Ed Plese</strong> · @edplese · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/edplese/status/2102606290753114439">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Qing_Yang_/status/2102647238870905252"><img src="https://pbs.twimg.com/amplify_video_thumb/2102646252328685568/img/Lm-ZlSJPIlqkWCiD.jpg" alt="Recreating a Music Player with Codex, Planning to Integrate Jev for Mood-Based Recommendations · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Qing_Yang_/status/2102647238870905252">Recreating a Music Player with Codex, Planning to Integrate Jev for Mood-Based Recommendations</a></h3>
+<p>A blogger recreates a creative music player using Codex, inspired by a post on X, and plans to tag songs and use Jev to recommend tracks based on user mood.</p>
+<p><strong>中文摘要：</strong>一位博主参考X上的创意，用Codex复刻了有创意的音乐播放器，并计划后续为歌曲打标签，使用Jev根据用户心情推荐歌曲。</p>
+<p><strong>Phil的AI实验室</strong> · @Qing_Yang_ · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/Qing_Yang_/status/2102647238870905252">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yu_torii/status/2102647076224126989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102530010020245504/img/hSriqJwpUWNzQ1rt.jpg" alt="Warning about risky Jev UI usage · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yu_torii/status/2102647076224126989">Warning about risky Jev UI usage</a></h3>
+<p>A user comments that Jev&#39;s UI is interesting but risky as a usage method, reminding the community to be cautious.</p>
+<p><strong>中文摘要：</strong>用户评论指出Jev的UI虽然有趣，但作为使用方法存在危险，提醒社区注意使用风险。</p>
+<p><strong>yjtr</strong> · @yu_torii · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/yu_torii/status/2102647076224126989">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -179,6 +299,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/utkarshgsuv/status/2102647554437415036"><img src="https://pbs.twimg.com/media/HS4azZzXIAA1r6A?format=jpg&amp;name=medium" alt="Testing Jev on a movie recommendation engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/utkarshgsuv/status/2102647554437415036">Testing Jev on a movie recommendation engine</a></h3>
+<p>The author tested Jev on a movie recommendation engine, used open-source alternative Laya, but found Quen performed better.</p>
+<p><strong>中文摘要：</strong>作者在电影推荐引擎上测试Jev，使用了开源替代Laya，但发现Quen表现更好。</p>
+<p><strong>Utkarsh Maheshwari</strong> · @utkarshgsuv · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/utkarshgsuv/status/2102647554437415036">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ArthurLabMRP/status/2102622720085405736"><img src="https://pbs.twimg.com/media/HS4ENqlWwAAFKEz?format=jpg&amp;name=medium" alt="Jev vs Laya Chess Experiment · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -188,6 +319,19 @@
 <p><strong>Arthur Marques</strong> · @ArthurLabMRP · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/ArthurLabMRP/status/2102622720085405736">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yasu_aiwork/status/2102647584250876343"><img src="https://pbs.twimg.com/media/HS4adtJasAAPeYB?format=jpg&amp;name=medium" alt="AI &#39;Jev&#39; That Only Returns &#39;Judgments&#39;: 4 Key Points for Delegating Classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yasu_aiwork/status/2102647584250876343">AI &#39;Jev&#39; That Only Returns &#39;Judgments&#39;: 4 Key Points for Delegating Classification</a></h3>
+<p>This blog post summarizes 4 approaches when using the AI &#39;Jev&#39; that only returns judgments for business sorting: write out candidate answers first, add a &#39;cannot determine&#39; option, have humans verify calculations and dates, and confirm internal rules and use fictitious text when testing.</p>
+<p><strong>中文摘要：</strong>这篇博客总结了使用只返回“判定”的AI Jev进行业务分类时的4个思考方法：预先写出候选答案、加入“无法判断”选项、计算和日期由人确认、测试时先确认公司规则并使用虚构文本。</p>
+<p><strong>yasu｜在宅ワーク準備中の派遣社員</strong> · @yasu_aiwork · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/yasu_aiwork/status/2102647584250876343">在 X 查看原帖</a> · <a href="https://t.co/SahF30Fd8b">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/kensuu/status/2102218284825444362"><img src="https://pbs.twimg.com/media/HSyTrqBbsAAF9-X?format=jpg&amp;name=large" alt="Building a site for questions that stump Jev · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 166 | 92 | 75 | 3.0M |
+| 170 | 93 | 78 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/cyrilXBT/status/2102605138125111367">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nahid_pro09/status/2102599237804687509"><img src="https://pbs.twimg.com/media/HS3uw-dawAAIzcg?format=jpg&amp;name=medium" alt="From Jev to pi-system-one: announcing a single System One · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nahid_pro09/status/2102599237804687509">From Jev to pi-system-one: announcing a single System One</a></h3>
+<p>The author initially wired Pi to Jev as its decision engine, but community feedback pointed to open alternatives. Realizing hard-wiring to one provider was a mistake, they removed it and announced pi-system-one as a standalone single System One.</p>
+<p><strong>中文摘要：</strong>作者最初将 Pi 接入 Jev 作为决策引擎，但社区反馈指出了开放的替代方案。作者意识到硬编码绑定单一供应商是错误的，于是移除了该集成，并宣布 pi-system-one 作为独立的单一 System One。</p>
+<p><strong>Nahid</strong> · @nahid_pro09 · 2026-09-23</p>
+<p>💬 7 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/nahid_pro09/status/2102599237804687509">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
 <p><a href="https://x.com/NFTCPS/status/2102573338908594567">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
 <p><a href="https://x.com/QingQ77/status/2102610658240135195">在 X 查看原帖</a> · <a href="https://t.co/JEAANOemue">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AYi_AInotes/status/2102605821456814286"><img src="https://pbs.twimg.com/amplify_video_thumb/2102605626727907328/img/2BaQY-Aay_YRmXcl.jpg" alt="Idle Android Phone Becomes Jev Chat Copilot, Scoring WeChat Message Risk in One Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 475</p>
 <p><a href="https://x.com/AYi_AInotes/status/2102605821456814286">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xKiyoro/status/2102586877446390162"><img src="https://pbs.twimg.com/amplify_video_thumb/2102586760609841152/img/vUcEaQ3cSG99DJR_.jpg" alt="Jev Catches Opus 5.5 Default Effort Drop · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 185</p>
 <p><a href="https://x.com/0xKiyoro/status/2102586877446390162">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
 <p><a href="https://x.com/79yuuki/status/2102577684232749096">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hank_aibtc/status/2102600956512993675"><img src="https://pbs.twimg.com/media/HS3wPOBaEAAtfdM?format=jpg&amp;name=medium" alt="Jev Chat Jarvis: Your Chat Copilot to Become a Conversational Pro · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 92</p>
 <p><a href="https://x.com/hank_aibtc/status/2102600956512993675">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SciFi/status/2102589942622797854"><img src="https://pbs.twimg.com/media/HS3maTBW8AAIRCI?format=png&amp;name=medium" alt="Jev-Mem: System-One-Controlled Agentic Memory · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/SciFi/status/2102589942622797854">在 X 查看原帖</a> · <a href="https://t.co/DrFv28yV5y">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ouchi/status/2102592040106414335"><img src="https://pbs.twimg.com/media/HS3nSUKagAAs6n-?format=jpg&amp;name=medium" alt="Jev to Replace Judgment-Type LLM Tasks · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
 <p><a href="https://x.com/ouchi/status/2102592040106414335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xgwei/status/2102603891758285050"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603797973643264/img/z1EQ3AN1xQA4QJ-A.jpg" alt="Jev multi-agent simulation: driving pedestrians and concurrency limits · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 55</p>
 <p><a href="https://x.com/xgwei/status/2102603891758285050">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2102619045577273361"><img src="https://pbs.twimg.com/amplify_video_thumb/2102619018070990848/img/CBRO80Vnwh424QIs.jpg" alt="Low-cost computer use with OCR and TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,19 @@
 <p><strong>Somi</strong> · @somi_ai · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/somi_ai/status/2102619045577273361">在 X 查看原帖</a> · <a href="https://t.co/YUszYYXA5d">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/XDniwei/status/2102599762872811609"><img src="https://pbs.twimg.com/media/HS3vSghbMAEo-Mc?format=jpg&amp;name=medium" alt="Jev Helps You Understand Your Partner Instantly · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/XDniwei/status/2102599762872811609">Jev Helps You Understand Your Partner Instantly</a></h3>
+<p>A boon for straight men: send your partner&#39;s words to Jev, get an instant analysis and reply suggestions—just follow them.</p>
+<p><strong>中文摘要：</strong>直男福音：把对方的话发给Jev，秒出分析报告和回复建议，照着做就行。</p>
+<p><strong>Quincy</strong> · @XDniwei · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/XDniwei/status/2102599762872811609">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/voratheexplora/status/2102595079697277113"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593627079716864/img/S9CRNXCcc1bwJsvl.jpg" alt="Jev-Powered Elevator Simulation: Jev Decides the Next Floor · 原帖视频截图" width="100%"></a>
@@ -155,6 +179,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/himanshu_tomar4/status/2102644378615562461"><img src="https://pbs.twimg.com/media/HS4X6MebEAAAPbu?format=jpg&amp;name=medium" alt="Hooking Jev to Claude: Mapping an Angular Module via MCP · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/himanshu_tomar4/status/2102644378615562461">Hooking Jev to Claude: Mapping an Angular Module via MCP</a></h3>
+<p>A developer hooked Jev to Claude via MCP. While mapping an Angular base module (8 classes, 6.7k lines), Claude routed the decision across 4 paths using jev_route_task. Outcome: proceed_fast (0.34) edged out block (0.26) — pure visibility, zero guesswork.</p>
+<p><strong>中文摘要：</strong>开发者通过MCP将Jev接入Claude，在映射Angular基础模块（8个类、6.7k行代码）时，让Claude调用jev_route_task在4条路径中路由决策。最终proceed_fast（0.34）以微弱优势胜过block（0.26），实现纯可见性、零猜测。</p>
+<p><strong>Himanshu Singh Tomar</strong> · @himanshu_tomar4 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/himanshu_tomar4/status/2102644378615562461">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432"><img src="https://pbs.twimg.com/media/HS4Eelea4AA18oK?format=jpg&amp;name=medium" alt="TypeSafe Jev Accelerates Agent Decisions · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -164,6 +199,19 @@
 <p><strong>VoidLight_현</strong> · @VoidLight_Hyeon · 2026-09-23</p>
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shwetabjaj/status/2102646974734553242"><img src="https://pbs.twimg.com/amplify_video_thumb/2102646932380565504/img/yT2TTZiqs3V1phxK.jpg" alt="Jev Decides, Grok Acts: A Cleaner Agent Architecture · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shwetabjaj/status/2102646974734553242">Jev Decides, Grok Acts: A Cleaner Agent Architecture</a></h3>
+<p>Discusses the division of labor between Jev and Grok Bot: Jev decides, Grok acts, while humans control irreversible operations, resulting in a cheaper, faster, and more reasoned agent system.</p>
+<p><strong>中文摘要：</strong>讨论Jev与Grok Bot的分工：Jev负责决策，Grok执行，人类掌控不可逆操作，以此构建更便宜、更快、更易推理的智能体系统。</p>
+<p><strong>Coach Shweta Bajaj</strong> · @shwetabjaj · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/shwetabjaj/status/2102646974734553242">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2102242735667511617"><img src="https://pbs.twimg.com/amplify_video_thumb/2099924273905434624/img/vEtimYy5z2jMtjYy.jpg" alt="Jev Doesn&#39;t Replace Your Model, It Replaces Your Gatekeeper · 原帖视频截图" width="100%"></a>

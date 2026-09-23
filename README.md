@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2405</strong><br>curated posts</td>
-<td align="center"><strong>1346</strong><br>original videos</td>
+<td align="center"><strong>2432</strong><br>curated posts</td>
+<td align="center"><strong>1356</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>302</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>305</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>282</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>283</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>241</strong> showcases · <strong>187</strong> videos</p>
+<p><strong>242</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>166</strong> showcases · <strong>92</strong> videos</p>
+<p><strong>170</strong> showcases · <strong>93</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>150</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>162</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>149</strong> showcases · <strong>87</strong> videos</p>
+<p><strong>152</strong> showcases · <strong>87</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>113</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>64</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>79</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>80</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/RickyGrannisVu/status/2102597280494965040"><img src="https://pbs.twimg.com/media/HS3sGvtbMAEHquB?format=jpg&amp;name=medium" alt="Rewrite if statements with Jev: natural language conditions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RickyGrannisVu/status/2102597280494965040">Rewrite if statements with Jev: natural language conditions</a></h3>
+<p>A developer shows how Jev replaces deeply nested boolean expressions with a single natural language sentence, simplifying code logic.</p>
+<p><strong>4.0K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 4.0K</p>
+<p><strong>Ricky Grannis-Vu</strong> · @RickyGrannisVu</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
 <p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
 <p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/nahid_pro09/status/2102599237804687509"><img src="https://pbs.twimg.com/media/HS3uw-dawAAIzcg?format=jpg&amp;name=medium" alt="From Jev to pi-system-one: announcing a single System One · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nahid_pro09/status/2102599237804687509">From Jev to pi-system-one: announcing a single System One</a></h3>
+<p>The author initially wired Pi to Jev as its decision engine, but community feedback pointed to open alternatives. Realizing hard-wiring to one provider was a mistake, they removed it and announced pi-system-one as a standalone single System One.</p>
+<p><strong>1.5K</strong> views · 💬 7 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 1.5K</p>
+<p><strong>Nahid</strong> · @nahid_pro09</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
 <p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
 <p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
 <p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/venturetwins/status/2102603228047442127"><img src="https://pbs.twimg.com/media/HS3yGJgaIAACkuV?format=jpg&amp;name=medium" alt="r/jev Subreddit Flooded with Computer Use Demos · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/venturetwins/status/2102603228047442127">r/jev Subreddit Flooded with Computer Use Demos</a></h3>
-<p>The subreddit originally for esports streamer Jev is now flooded with nerds sharing computer use demos, creating an unexpected culture collision.</p>
-<p><strong>1.2K</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.2K</p>
-<p><strong>Justine Moore</strong> · @venturetwins</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/keitowebai/status/2102612729634898233"><img src="https://pbs.twimg.com/media/HS36_3aaEAEOQPv?format=jpg&amp;name=large" alt="Smart clipboard tool built with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/keitowebai/status/2102612729634898233">Smart clipboard tool built with Jev</a></h3>
-<p>A developer shares a clipboard app built with Jev. Copied text is automatically formatted to fit the paste destination context, while basic clipboard functions are also included. Currently in preparation.</p>
-<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
-<p><strong>KEITO💻AIディレクター</strong> · @keitowebai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
-<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
-<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/RickyGrannisVu/status/2102597280494965040"><img src="https://pbs.twimg.com/media/HS3sGvtbMAEHquB?format=jpg&amp;name=medium" alt="Rewrite if statements with Jev: natural language conditions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RickyGrannisVu/status/2102597280494965040">Rewrite if statements with Jev: natural language conditions</a></h3>
+<p>A developer shows how Jev replaces deeply nested boolean expressions with a single natural language sentence, simplifying code logic.</p>
+<p><strong>4.0K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 4.0K</p>
+<p><strong>Ricky Grannis-Vu</strong> · @RickyGrannisVu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/keitowebai/status/2102612729634898233"><img src="https://pbs.twimg.com/media/HS36_3aaEAEOQPv?format=jpg&amp;name=large" alt="Smart clipboard tool built with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/keitowebai/status/2102612729634898233">Smart clipboard tool built with Jev</a></h3>
-<p>A developer shares a clipboard app built with Jev. Copied text is automatically formatted to fit the paste destination context, while basic clipboard functions are also included. Currently in preparation.</p>
-<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
-<p><strong>KEITO💻AIディレクター</strong> · @keitowebai</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/NFTCPS/status/2102573338908594567"><img src="https://pbs.twimg.com/media/HS3XTXcboAACRXv?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen to Judge Intent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NFTCPS/status/2102573338908594567">Jev Chat Assistant: Reads Screen to Judge Intent</a></h3>
+<p>Jev chat assistant requires no hooking or repackaging, reads on-screen conversations from WeChat, QQ, Feishu, X, and helps judge the other party&#39;s true intent and risk level.</p>
+<p><strong>1.5K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 1.5K</p>
+<p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102610658240135195">Jev Decision Model Skill Pack and 108 Scenarios</a></h3>
-<p>A curated guide to using the Jev decision model, offering 5 skills ready for coding agents and 108 reproducible scenarios, letting agents delegate classification, ranking, scoring and similar judgment tasks to Jev.</p>
-<p><strong>837</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/venturetwins/status/2102603228047442127"><img src="https://pbs.twimg.com/media/HS3yGJgaIAACkuV?format=jpg&amp;name=medium" alt="r/jev Subreddit Flooded with Computer Use Demos · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/venturetwins/status/2102603228047442127">r/jev Subreddit Flooded with Computer Use Demos</a></h3>
+<p>The subreddit originally for esports streamer Jev is now flooded with nerds sharing computer use demos, creating an unexpected culture collision.</p>
+<p><strong>1.2K</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.2K</p>
+<p><strong>Justine Moore</strong> · @venturetwins</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/GitHub_Daily/status/2102578718824931766"><img src="https://pbs.twimg.com/media/HS3cMnqa0AA2roL?format=jpg&amp;name=medium" alt="Using the Jev Model for Fish-Style zsh History Completion · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GitHub_Daily/status/2102578718824931766">Using the Jev Model for Fish-Style zsh History Completion</a></h3>
-<p>Introduces jev-shell-history: on each keystroke it sends the last 100 unique history commands to the Jev model, which picks the most likely one and shows it as a gray suggestion, accepted with the right arrow key, with fuzzy matching support.</p>
-<p><strong>436</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 436</p>
-<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/punk2898/status/2102607684554158581"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607435743760384/img/NDMjGwaefOzctobT.jpg" alt="JEV Open-Source Project Feed: 788 Projects Curated with Online Testing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/punk2898/status/2102607684554158581">JEV Open-Source Project Feed: 788 Projects Curated with Online Testing</a></h3>
+<p>The author curated 788 JEV open-source projects on GitHub and offers coin selection tests, an online playground, and a report to close the information gap.</p>
+<p><strong>509</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 509</p>
+<p><strong>Punk（2898 🙌💎）</strong> · @punk2898</p>
 </td>
 </tr>
 </table>

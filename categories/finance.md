@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 113 | 63 | 51 | 1.2M |
+| 115 | 64 | 52 | 1.2M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>鈴木@アナログ営業会社を100日後にAIで売上を300％にする人</strong> · @ai_300 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><a href="https://x.com/ai_300/status/2102578703666413804">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cryptofanatiix/status/2102642116438417733"><img src="https://pbs.twimg.com/media/HSqZXJkWoAAYN7X?format=png&amp;name=900x900" alt="Jev: A 200ms Fast Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cryptofanatiix/status/2102642116438417733">Jev: A 200ms Fast Decision Model</a></h3>
+<p>This post introduces Jev as a model that makes fast choices, not a simple AI-labeled button. Given a situation, it returns a buy, sell, or wait decision with a probability in about 200 milliseconds.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 模型，称其并非简单贴上AI标签的按钮，而是能根据情境快速做出买、卖或等待决策并给出概率，耗时约200毫秒。</p>
+<p><strong>Théo</strong> · @cryptofanatiix · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 69</p>
+<p><a href="https://x.com/cryptofanatiix/status/2102642116438417733">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/unidoshernan/status/2102643635099402595"><img src="https://pbs.twimg.com/amplify_video_thumb/2102643504291966976/img/y2fUfFvDUJwAfMWO.jpg" alt="Trading bots with Jev: $1,000 turns into $3,833.92 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/unidoshernan/status/2102643635099402595">Trading bots with Jev: $1,000 turns into $3,833.92</a></h3>
+<p>The author connected six Grok bots to Jev for $0.04 and woke up to see $1,000 become $3,833.92. Jev quickly turns data into conclusions in 0.1 seconds.</p>
+<p><strong>中文摘要：</strong>作者为六个 Grok 机器人接入 Jev，花费 0.04 美元，一觉醒来 1000 美元变成 3833.92 美元。Jev 能快速把一堆数据变成结论，只需 0.1 秒。</p>
+<p><strong>CryptoJay</strong> · @unidoshernan · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
+<p><a href="https://x.com/unidoshernan/status/2102643635099402595">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/openclawby/status/2102617962037625120"><img src="https://pbs.twimg.com/media/HS3_jMZaEAA5nIc?format=jpg&amp;name=medium" alt="Fully Automated Trading Bots with the Jev Model · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 184 | 101 | 84 | 3.0M |
+| 188 | 104 | 85 | 3.0M |
 
 ## Showcase 卡片
 
@@ -142,6 +142,19 @@
 <p><a href="https://x.com/heyorvian/status/2102710192848732203">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/AnatoliKopadze/status/2102736959991161183"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Jev Powers San Francisco Rebuild in Unreal Engine · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AnatoliKopadze/status/2102736959991161183">Jev Powers San Francisco Rebuild in Unreal Engine</a></h3>
+<p>Opus 5.5 rebuilt San Francisco in Unreal Engine, with every person, pet, and car powered by Jev, showcasing Jev&#39;s agent capabilities in simulated environments.</p>
+<p><strong>中文摘要：</strong>Opus 5.5 在 Unreal Engine 中重建了旧金山，其中每个人、宠物和汽车均由 Jev 驱动，展示了 Jev 在模拟环境中的智能体应用。</p>
+<p><strong>Anatoli Kopadze</strong> · @AnatoliKopadze · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 122</p>
+<p><a href="https://x.com/AnatoliKopadze/status/2102736959991161183">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/hank_aibtc/status/2102600956512993675"><img src="https://pbs.twimg.com/media/HS3wPOBaEAAtfdM?format=jpg&amp;name=medium" alt="Jev Chat Jarvis: Your Chat Copilot to Become a Conversational Pro · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 92</p>
 <p><a href="https://x.com/hank_aibtc/status/2102600956512993675">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SciFi/status/2102589942622797854"><img src="https://pbs.twimg.com/media/HS3maTBW8AAIRCI?format=png&amp;name=medium" alt="Jev-Mem: System-One-Controlled Agentic Memory · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
 <p><a href="https://x.com/SciFi/status/2102589942622797854">在 X 查看原帖</a> · <a href="https://t.co/DrFv28yV5y">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ouchi/status/2102592040106414335"><img src="https://pbs.twimg.com/media/HS3nSUKagAAs6n-?format=jpg&amp;name=medium" alt="Jev to Replace Judgment-Type LLM Tasks · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
 <p><a href="https://x.com/ouchi/status/2102592040106414335">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xgwei/status/2102603891758285050"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603797973643264/img/z1EQ3AN1xQA4QJ-A.jpg" alt="Jev multi-agent simulation: driving pedestrians and concurrency limits · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 55</p>
 <p><a href="https://x.com/xgwei/status/2102603891758285050">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xBynode/status/2102716004660842523"><img src="https://pbs.twimg.com/amplify_video_thumb/2102715003501481984/img/dC5O4aZcFXmXU7Ck.jpg" alt="Jev Autopilot: How AI Agent Swarms Learn When to Stop · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 40</p>
 <p><a href="https://x.com/0xBynode/status/2102716004660842523">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2102619045577273361"><img src="https://pbs.twimg.com/amplify_video_thumb/2102619018070990848/img/CBRO80Vnwh424QIs.jpg" alt="Low-cost computer use with OCR and TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/somi_ai/status/2102619045577273361">在 X 查看原帖</a> · <a href="https://t.co/YUszYYXA5d">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/XDniwei/status/2102599762872811609"><img src="https://pbs.twimg.com/media/HS3vSghbMAEo-Mc?format=jpg&amp;name=medium" alt="Jev Helps You Understand Your Partner Instantly · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/XDniwei/status/2102599762872811609">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_itzadnan_/status/2102717206924870053"><img src="https://pbs.twimg.com/media/HS5aAimaAAABiyy?format=jpg&amp;name=medium" alt="Jev as a Smart Gatekeeper to Optimize Hybrid LLM Pipelines · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 23</p>
 <p><a href="https://x.com/_itzadnan_/status/2102717206924870053">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/voratheexplora/status/2102595079697277113"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593627079716864/img/S9CRNXCcc1bwJsvl.jpg" alt="Jev-Powered Elevator Simulation: Jev Decides the Next Floor · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
 <p><a href="https://x.com/voratheexplora/status/2102595079697277113">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jaunatis_q/status/2102719714258792948"><img src="https://pbs.twimg.com/amplify_video_thumb/2102719620113465344/img/uZYcAuY2hWnWNu63.jpg" alt="Jev-Powered Stanford Town: AI Residents Live on Their Own · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/jaunatis_q/status/2102719714258792948">在 X 查看原帖</a> · <a href="https://t.co/ALhJGpOlpl">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sanskaricoder/status/2102651374551113840"><img src="https://pbs.twimg.com/media/HS4eFnRbgAA6q9k?format=jpg&amp;name=medium" alt="Jev isn&#39;t 200x faster than ChatGPT—it&#39;s built for different jobs · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/sanskaricoder/status/2102651374551113840">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/web5_kol/status/2102722760116175172"><img src="https://pbs.twimg.com/media/HS5fMxhaIAAPCl3?format=jpg&amp;name=medium" alt="Jev WeChat Assistant Open-Sourced · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/web5_kol/status/2102722760116175172">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robot_yz/status/2102705520234901723"><img src="https://pbs.twimg.com/amplify_video_thumb/2102705137806630915/img/sXwDthEhSAfnyvaL.jpg" alt="Demo: Auto-filling external link info with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/robot_yz/status/2102705520234901723">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/himanshu_tomar4/status/2102644378615562461"><img src="https://pbs.twimg.com/media/HS4X6MebEAAAPbu?format=jpg&amp;name=medium" alt="Hooking Jev to Claude: Mapping an Angular Module via MCP · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/himanshu_tomar4/status/2102644378615562461">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MajdAICode/status/2102723670275977258"><img src="https://pbs.twimg.com/amplify_video_thumb/2102720518973526016/img/f2nimlTCextP2X-X.jpg" alt="Exploring a coding-agent pattern with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/MajdAICode/status/2102723670275977258">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheAIJournal1/status/2102737255936741808"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102736047763251200/pu/img/NwaupKjlE9_W3VCl.jpg" alt="Jev-powered Mac assistant opens apps before users finish speaking · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheAIJournal1/status/2102737255936741808">Jev-powered Mac assistant opens apps before users finish speaking</a></h3>
+<p>Discusses the benefits of a Jev-powered assistant anticipating low-risk actions and the need for confirmation in high-risk scenarios like messages, payments, or deleted files, prompting reflection on AI safety boundaries.</p>
+<p><strong>中文摘要：</strong>讨论 Jev 驱动的助手预测低风险操作的好处，以及在高风险场景（消息、支付、删除文件）中需要确认的必要性，引发对 AI 安全边界的思考。</p>
+<p><strong>The AI Journal</strong> · @TheAIJournal1 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/TheAIJournal1/status/2102737255936741808">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/saisantosh_ssk/status/2102760012036628930"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102759931141029888/pu/img/vjP5DROBtIv2mrwM.jpg" alt="Jev: A Millisecond Decision Model for Agent Routing and Risk Control · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/saisantosh_ssk/status/2102760012036628930">Jev: A Millisecond Decision Model for Agent Routing and Risk Control</a></h3>
+<p>The post explains that Jev is not an LLM but a decision model: give it options and it picks one, ask yes/no and it returns odds in milliseconds. While your main model writes, Jev decides what happens next, prompting discussion on model routing vs blocking risky agent commands.</p>
+<p><strong>中文摘要：</strong>帖子指出Jev不是LLM，而是决策模型：提供选项它会选一个，问是否则返回概率，耗时毫秒级。主模型负责生成，Jev决定下一步行动，并引发关于模型路由或阻止高风险代理命令的讨论。</p>
+<p><strong>sai santosh kumar</strong> · @saisantosh_ssk · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/saisantosh_ssk/status/2102760012036628930">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432"><img src="https://pbs.twimg.com/media/HS4Eelea4AA18oK?format=jpg&amp;name=medium" alt="TypeSafe Jev Accelerates Agent Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -333,6 +368,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/VoidLight_Hyeon/status/2102623074281517432">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shwetabjaj/status/2102646974734553242"><img src="https://pbs.twimg.com/amplify_video_thumb/2102646932380565504/img/yT2TTZiqs3V1phxK.jpg" alt="Jev Decides, Grok Acts: A Cleaner Agent Architecture · 原帖视频截图" width="100%"></a>
 <br>
@@ -343,6 +380,17 @@
 <p><strong>Coach Shweta Bajaj</strong> · @shwetabjaj · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/shwetabjaj/status/2102646974734553242">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2102760658794414107"><img src="https://pbs.twimg.com/media/HS6BrANbIAAeJjh?format=jpg&amp;name=large" alt="Third Hand: Jev-powered macOS computer-use tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2102760658794414107">Third Hand: Jev-powered macOS computer-use tool</a></h3>
+<p>Third Hand is a macOS menu bar tool invoked with Control Space. It uses Apple Vision for on-device screen text recognition, while Jev picks actions from descriptions to type, click, and read back results. Screen text stays on-device, but requests, control labels, and action history are sent.</p>
+<p><strong>中文摘要：</strong>Third Hand 是一个macOS菜单栏工具，通过Control Space唤起，利用Apple Vision本地识别界面文字，Jev根据描述选择动作，实现打字、点击和回读结果。屏幕文字不出本机，但请求、控件标签和动作历史会发送。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/vintcessun/status/2102760658794414107">在 X 查看原帖</a> · <a href="https://t.co/J2XG67Unod">原文链接</a></p>
 </td>
 </tr>
 <tr>

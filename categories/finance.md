@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 120 | 66 | 55 | 1.2M |
+| 122 | 68 | 55 | 1.2M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/1kleos1/status/2102738512889954372"><img src="https://pbs.twimg.com/amplify_video_thumb/2102736683930112001/img/JVx83AB8wP-iNuEY.jpg" alt="Japanese Student Builds Jev Polymarket Bot, Earns $17,831 in First Night · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/1kleos1/status/2102738512889954372">Japanese Student Builds Jev Polymarket Bot, Earns $17,831 in First Night</a></h3>
+<p>A 20-year-old Japanese student built a Polymarket trading bot with Jev over the weekend. Starting with $148, it earned $17,831 in the first night and has totaled $276,000 in profit. Core loop: Polymarket data in → Jev processes.</p>
+<p><strong>中文摘要：</strong>一名20岁日本学生在周末用Jev构建了一个Polymarket交易机器人，起始资金148美元，首晚盈利17,831美元，目前总利润达276,000美元。核心是一个简单循环：Polymarket数据输入Jev处理。</p>
+<p><strong>1kleos1</strong> · @1kleos1 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/1kleos1/status/2102738512889954372">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/openclawby/status/2102617962037625120"><img src="https://pbs.twimg.com/media/HS3_jMZaEAA5nIc?format=jpg&amp;name=medium" alt="Fully Automated Trading Bots with the Jev Model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/openclawby/status/2102617962037625120">在 X 查看原帖</a> · <a href="https://t.co/HDP4kh8nAv">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thefvkngphoenix/status/2102589274382123124"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="HypeMeter Built in 4 Hours with Jev and Minds to Flag Underpriced Hype · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/thefvkngphoenix/status/2102589274382123124">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shivak_01/status/2102575435892863423"><img src="https://pbs.twimg.com/amplify_video_thumb/2102574574328225792/img/7cWs17wP04S-zWc0.jpg" alt="Jev optimizes a personal stock analyser · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/shivak_01/status/2102575435892863423">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FrankDa18249347/status/2102609646989332550"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Using Remaining Jev Credits to Fade a Trading Bot Live on Polymarket · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/FrankDa18249347/status/2102609646989332550">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ergod_dev/status/2102608971999875122"><img src="https://pbs.twimg.com/media/HS33rC4WAAAvKpu?format=jpg&amp;name=medium" alt="Jev Trader Bot Completes First Paper Trades · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/ergod_dev/status/2102608971999875122">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YLX9394/status/2102726341468512537"><img src="https://pbs.twimg.com/media/HS5iAFta0AAU2ln?format=jpg&amp;name=medium" alt="Jev AI&#39;s BTC Trading Experiment · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/YLX9394/status/2102726341468512537">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maxlibin/status/2102710099546702207"><img src="https://pbs.twimg.com/media/HS5QkZRbEAAuNip?format=jpg&amp;name=medium" alt="Trying to beat Singapore TOTO with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>maxli</strong> · @maxlibin · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/maxlibin/status/2102710099546702207">在 X 查看原帖</a> · <a href="https://t.co/Lw4cAUYA4g">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Mnilax/status/2102760642872508510"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760003165679616/img/WH3oNSjlsIbdc4MB.jpg" alt="Jev + Grok Copy Trading Bot Is Now Open · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mnilax/status/2102760642872508510">Jev + Grok Copy Trading Bot Is Now Open</a></h3>
+<p>The author open-sources a copy trading bot built with Jev and Grok, claiming it earned over $2,000 and lets you watch only selected wallets and match their moves.</p>
+<p><strong>中文摘要：</strong>作者公开其基于Jev和Grok构建的复制交易机器人，称通过该工具赚取超2000美元，支持只监控选定钱包并跟随其交易动向。</p>
+<p><strong>Mnimiy</strong> · @Mnilax · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/Mnilax/status/2102760642872508510">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/RobinhoodAlphas/status/2102221040944353377"><img src="https://pbs.twimg.com/media/HSyW5GoXUAAprVe?format=jpg&amp;name=medium" alt="Jev Model Powers Lending Desk on Robinhood Chain · 原帖图片" width="100%"></a>

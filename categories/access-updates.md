@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 287 | 115 | 172 | 802K |
+| 289 | 116 | 173 | 802K |
 
 ## Showcase 卡片
 
@@ -203,6 +203,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/TamaoT81581/status/2102681350650421266"><img src="https://pbs.twimg.com/amplify_video_thumb/2102681337593565184/img/i0cbz14XIKYjRz27.jpg" alt="How to Use Jev for Free · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TamaoT81581/status/2102681350650421266">How to Use Jev for Free</a></h3>
+<p>Use the high-speed AI &#39;Jev&#39; specialized in judgment for free via the Lolipop! AI Gateway. Until Thursday 9/24, both input and output are free, with no application or coupon required.</p>
+<p><strong>中文摘要：</strong>通过Lolipop! AI Gateway免费使用判定专用高速AI“Jev”。截止9/24（周四），输入和输出均为0日元，无需申请或优惠券。</p>
+<p><strong>たまおのAI研究所</strong> · @TamaoT81581 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
+<p><a href="https://x.com/TamaoT81581/status/2102681350650421266">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/kcbigring/status/2102604706677985508"><img src="https://pbs.twimg.com/media/HS3zYeVWkAA4O4J?format=jpg&amp;name=medium" alt="Jev vs Claude Haiku: ~3x faster and ~25x cheaper · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -212,6 +223,19 @@
 <p><strong>KC</strong> · @kcbigring · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
 <p><a href="https://x.com/kcbigring/status/2102604706677985508">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/xnautdev/status/2102678209305485537"><img src="https://pbs.twimg.com/media/HS42qnFWkAAtaNl?format=jpg&amp;name=medium" alt="NautGate to Support TypeSafe AI with Jev for Decision Routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xnautdev/status/2102678209305485537">NautGate to Support TypeSafe AI with Jev for Decision Routing</a></h3>
+<p>xnaut.dev announces NautGate will integrate TypeSafe AI in the next release, with Jev as the first model for dedicated decision model routing and general reporting.</p>
+<p><strong>中文摘要：</strong>xnaut.dev 宣布 NautGate 将在下一版本中集成 TypeSafe AI，Jev 成为首个用于专用决策模型路由及通用报告的模型。</p>
+<p><strong>xnaut.dev</strong> · @xnautdev · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/xnautdev/status/2102678209305485537">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/kumarukutkarsh/status/2102607967740989668"><img src="https://pbs.twimg.com/media/HS32IqSasAALuAZ?format=png&amp;name=900x900" alt="Developer Plans to Integrate TypeSafe Jev into Guardrail Layer · 原帖图片" width="100%"></a>

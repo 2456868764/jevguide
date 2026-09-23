@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 244 | 190 | 58 | 588K |
+| 248 | 192 | 60 | 588K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>FHILY👑</strong> · @Oluwaphilemon1 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 2 &nbsp; 📊 397</p>
 <p><a href="https://x.com/Oluwaphilemon1/status/2102586728552845631">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aixaipr/status/2102652091286393172"><img src="https://pbs.twimg.com/media/HS4ei8rbcAA0XjS?format=jpg&amp;name=large" alt="Play One-Person Werewolf with Jev-AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aixaipr/status/2102652091286393172">Play One-Person Werewolf with Jev-AI</a></h3>
+<p>This game lets you play Werewolf alone, with the other nine roles played by the latest Jev-AI. No app download needed, play free right now.</p>
+<p><strong>中文摘要：</strong>这款游戏让你独自游玩狼人杀，其余9名角色由最新Jev-AI扮演。无需下载应用，即刻免费畅玩。</p>
+<p><strong>A x A-AI時代の生き残り戦略💎</strong> · @aixaipr · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 216</p>
+<p><a href="https://x.com/aixaipr/status/2102652091286393172">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/takku_4331/status/2102649099044725031"><img src="https://pbs.twimg.com/media/HS4cNZzbsAADles?format=jpg&amp;name=medium" alt="Jev-like Laya powers Flappy Bird game demo · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/takku_4331/status/2102649099044725031">Jev-like Laya powers Flappy Bird game demo</a></h3>
+<p>At the generative AI exhibition, a demo shows Jev-like Laya controlling a Flappy Bird-style game, with response issues resolved.</p>
+<p><strong>中文摘要：</strong>在生成AI展示会上，演示了使用类似Jev的Laya模型操控Flappy Bird风格游戏，并已解决响应问题。</p>
+<p><strong>やみち</strong> · @takku_4331 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 86</p>
+<p><a href="https://x.com/takku_4331/status/2102649099044725031">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/mitochon_9/status/2102574515268247961"><img src="https://pbs.twimg.com/media/HS3YYE8bwAAUAEl?format=jpg&amp;name=medium" alt="Building a Turtle Soup Host App with Jev · 原帖图片" width="100%"></a>
@@ -131,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2102676861813653679"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Yes/No Jev Game is Live · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2102676861813653679">Yes/No Jev Game is Live</a></h3>
+<p>User Cuth launched a yes/no trivia game based on Jev, with Jevbucks at stake.</p>
+<p><strong>中文摘要：</strong>用户 Cuth 推出了一款基于 Jev 的 yes/no 问答游戏，并设置了 Jevbucks 奖励。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2102676861813653679">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/dennis_huangbei/status/2102577229498925210"><img src="https://pbs.twimg.com/media/HS3aQvzaMAALb5u?format=jpg&amp;name=medium" alt="After Snake and Tank with JEV, someone built a Monument Valley-style 3D game with astra · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -140,6 +175,19 @@
 <p><strong>bays wong</strong> · @dennis_huangbei · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/dennis_huangbei/status/2102577229498925210">在 X 查看原帖</a> · <a href="https://t.co/JIJCUOQBMy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2102680630366482524"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Play a yes/no game with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2102680630366482524">Play a yes/no game with Jev</a></h3>
+<p>Come try to burn Jevbucks in a yes/no game with Jev.</p>
+<p><strong>中文摘要：</strong>快来和 Jev 玩是非问答游戏，尝试烧掉你的 Jevbucks。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2102680630366482524">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ItsCuthulhu/status/2102643666481451134"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Come play my yes/no Jev game · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 140 | 60 | 80 | 419K |
+| 144 | 63 | 81 | 419K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,54 @@
 <p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
 <p><a href="https://x.com/QingQ77/status/2102579956324990992">在 X 查看原帖</a> · <a href="https://t.co/JBwQhZpn1S">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/javasparrows_/status/2102588262921748596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102297708744904704/img/ljWgd81Y8zXsdVMK.jpg" alt="Jev&#39;s practical use: generating training data for lightweight NLP models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/javasparrows_/status/2102588262921748596">Jev&#39;s practical use: generating training data for lightweight NLP models</a></h3>
+<p>The author suggests Jev, despite the buzz, may settle into the ordinary practice of using general LLMs to generate training data for lightweight task-specific NLP models, and its value lies in spreading this option to those who only know LLMs.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 虽引发讨论，但最终可能回归到用通用 LLM 为固定任务专用轻量 NLP 模型生成训练数据的常规开发方式，其意义在于向只了解 LLM 的人普及这一选择。</p>
+<p><strong>YK</strong> · @javasparrows_ · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 61</p>
+<p><a href="https://x.com/javasparrows_/status/2102588262921748596">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sorajate/status/2102590935074996290"><img src="https://pbs.twimg.com/amplify_video_thumb/2102536666179420160/img/tQ7_djKXnjA1P5Tw.jpg" alt="Running a personal Jev on Google Cloud Run · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sorajate/status/2102590935074996290">Running a personal Jev on Google Cloud Run</a></h3>
+<p>The author shares running a personal Jev on Google Cloud Run and notes that most Jev alternatives perform worse than the original on difficult tasks.</p>
+<p><strong>中文摘要：</strong>作者分享在 Google Cloud Run 上运行个人版 Jev 的体验，并指出在困难任务上多数 Jev 替代方案表现不如原版 Jev。</p>
+<p><strong>sorajate</strong> · @sorajate · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
+<p><a href="https://x.com/sorajate/status/2102590935074996290">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/b_nezlobin/status/2102593972250247557"><img src="https://pbs.twimg.com/amplify_video_thumb/2102590269044740096/img/XHNjH1-ctwPcKFol.jpg" alt="Using Jev to pick nouns and descriptions in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/b_nezlobin/status/2102593972250247557">Using Jev to pick nouns and descriptions in real time</a></h3>
+<p>A developer shares using Jev to pick nouns and descriptions from user input in real time, noting it is very cheap and hoping to use it for more things.</p>
+<p><strong>中文摘要：</strong>开发者分享用 Jev 根据用户输入实时选择名词和描述，并提到成本很低，计划用于更多场景。</p>
+<p><strong>Boris N</strong> · @b_nezlobin · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/b_nezlobin/status/2102593972250247557">在 X 查看原帖</a> · <a href="https://t.co/nXyzglOMEx">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/collectivecperu/status/2102595812517703935"><img src="https://pbs.twimg.com/media/HS3rvUeWkAAz_zL?format=jpg&amp;name=medium" alt="Jev AI Explained Simply · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/collectivecperu/status/2102595812517703935">Jev AI Explained Simply</a></h3>
+<p>A simple introduction to Jev AI for developers, with a Spanish version link.</p>
+<p><strong>中文摘要：</strong>面向开发者的 Jev AI 简明介绍，附西班牙语版本链接。</p>
+<p><strong>Nube Colectiva</strong> · @collectivecperu · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/collectivecperu/status/2102595812517703935">在 X 查看原帖</a> · <a href="https://t.co/Ot5XUscC4m">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/geekbb/status/2102226879772332527"><img src="https://pbs.twimg.com/media/HSyOMkyasAE-cHJ?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Jev Resource List on GitHub · 原帖图片" width="100%"></a>

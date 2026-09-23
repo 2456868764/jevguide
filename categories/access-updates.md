@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 270 | 109 | 161 | 802K |
+| 278 | 111 | 167 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/burstingbagel/status/2102592197476626486"><img src="https://pbs.twimg.com/media/HS3oBIbXUAEPG3Z?format=jpg&amp;name=medium" alt="Jev filter screens 40k wallets before TGE · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/burstingbagel/status/2102592197476626486">Jev filter screens 40k wallets before TGE</a></h3>
+<p>User built a Jev filter to screen 40k wallets in 4 seconds before TGE, targeting mercenary farmers.</p>
+<p><strong>中文摘要：</strong>用户构建了一个 Jev 过滤器，在 TGE 前筛查 4 万个钱包，4 秒内完成，用于识别雇佣农民。</p>
+<p><strong>BurstingBagel 🥯</strong> · @burstingbagel · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 290</p>
+<p><a href="https://x.com/burstingbagel/status/2102592197476626486">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MindsHub/status/2102592607784411402"><img src="https://pbs.twimg.com/media/HS3mbksaoAApaBP?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MindsHub/status/2102592607784411402">TypeSafe&#39;s Jev decision model joins MindsHub&#39;s free tier</a></h3>
+<p>MindsHub announces that TypeSafe&#39;s decision model Jev is now available in its free tier, with a link to API docs.</p>
+<p><strong>中文摘要：</strong>MindsHub 宣布 TypeSafe 的决策模型 Jev 现已加入其免费层，并提供了 API 文档链接。</p>
+<p><strong>mindshub</strong> · @MindsHub · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 245</p>
+<p><a href="https://x.com/MindsHub/status/2102592607784411402">在 X 查看原帖</a> · <a href="https://t.co/3a6bovWB3a">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pydantic/status/2102593806872801527"><img src="https://pbs.twimg.com/media/HS3p7MKXgAAuS4G?format=jpg&amp;name=medium" alt="Pydantic AI Adds Day-One Support for TypeSafe&#39;s Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pydantic/status/2102593806872801527">Pydantic AI Adds Day-One Support for TypeSafe&#39;s Jev Model</a></h3>
+<p>Pydantic AI v2.48.0 supports TypeSafe&#39;s Jev model on launch day, letting users upgrade and switch with just one string change.</p>
+<p><strong>中文摘要：</strong>Pydantic AI v2.48.0 在发布当天即支持 TypeSafe 的 Jev 模型，用户升级后只需更改一个字符串即可接入。</p>
+<p><strong>Pydantic</strong> · @pydantic · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 130</p>
+<p><a href="https://x.com/pydantic/status/2102593806872801527">在 X 查看原帖</a> · <a href="https://t.co/2a0639Zgh0">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Oluwaphilemon1/status/2102589059835080880"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local Laya vs Cloud Jev Decision Latency Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Oluwaphilemon1/status/2102589059835080880">Local Laya vs Cloud Jev Decision Latency Comparison</a></h3>
+<p>The post reports local Laya making decisions in about 45ms on a 16GB MacBook Air, versus cloud Jev at about 300ms, roughly 7 to 11x faster in a Tetris setup.</p>
+<p><strong>中文摘要：</strong>帖子称在 16GB MacBook Air 上本地 Laya 决策约 45ms，而云端 Jev 约 300ms，在俄罗斯方块场景中快约 7 到 11 倍。</p>
+<p><strong>FHILY👑</strong> · @Oluwaphilemon1 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 90</p>
+<p><a href="https://x.com/Oluwaphilemon1/status/2102589059835080880">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2102595307393716600"><img src="https://pbs.twimg.com/media/HSyhphTbkAAKIKe?format=jpg&amp;name=large" alt="Jev Chat Assistant: Screen-Reading Reply Suggestions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2102595307393716600">Jev Chat Assistant: Screen-Reading Reply Suggestions</a></h3>
+<p>While chatting on a phone, the system accessibility service reads the on-screen conversation, a model infers the other party&#39;s intent and offers 3 candidate replies that can be filled into the input box with one tap; the user decides whether to send.</p>
+<p><strong>中文摘要：</strong>在手机上聊天时，通过系统无障碍服务只读屏幕对话，交给模型判断对方意图并给出 3 条候选回复，一键填入输入框，是否发送由用户决定。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
+<p><a href="https://x.com/QingQ77/status/2102595307393716600">在 X 查看原帖</a> · <a href="https://t.co/MgrUjjPTXQ">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/RamV2003/status/2102574797272068431"><img src="https://pbs.twimg.com/media/HS3VfMiWYAEbIDC?format=jpg&amp;name=medium" alt="Jev latency and accuracy compared with Llama and DeepSeek · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +80,32 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 49</p>
 <p><a href="https://x.com/RamV2003/status/2102574797272068431">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MangZGW_WEB3/status/2102587657964679388"><img src="https://pbs.twimg.com/media/HS3kICQbcAAVMAv?format=jpg&amp;name=medium" alt="Jev&#39;s rise sparks interest in AI and CUA · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MangZGW_WEB3/status/2102587657964679388">Jev&#39;s rise sparks interest in AI and CUA</a></h3>
+<p>The post notes that as Jev gains traction, similar AI and CUA directions are also drawing attention, with a linked article.</p>
+<p><strong>中文摘要：</strong>帖子指出随着 Jev 爆火，类似的 AI 与 CUA 方向也受到关注，并附有相关文章链接。</p>
+<p><strong>🔝芒种金狗👑</strong> · @MangZGW_WEB3 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><a href="https://x.com/MangZGW_WEB3/status/2102587657964679388">在 X 查看原帖</a> · <a href="https://t.co/oNueHx9U7m">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/codex_aca/status/2102593813348835405"><img src="https://pbs.twimg.com/amplify_video_thumb/2101640627473854466/img/eHd_7J_pzPaKci-n.jpg" alt="Jev vs Claude Opus 5: 390x Cost Gap in News Classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/codex_aca/status/2102593813348835405">Jev vs Claude Opus 5: 390x Cost Gap in News Classification</a></h3>
+<p>Classifying 384 news headlines across 15 companies with Jev and Claude Opus 5 revealed a 390x cost gap, showing that relying entirely on high-performance models increases spending and latency.</p>
+<p><strong>中文摘要：</strong>将384条新闻标题按15家企业分类，对比判定AI「Jev」与Claude Opus 5的成本，结果显示390倍差距，说明全用高性能模型会增加开支与等待时间。</p>
+<p><strong>【公式】Codexアカデミア</strong> · @codex_aca · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/codex_aca/status/2102593813348835405">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/azailuhca/status/2102581717609652522"><img src="https://pbs.twimg.com/media/HS3eLc7a4AARR4Z?format=jpg&amp;name=medium" alt="After Jev&#39;s typesafe-sdk, trying curl command calls · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +116,17 @@
 <p><strong>あざいるぅか🔁AITuber</strong> · @azailuhca · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
 <p><a href="https://x.com/azailuhca/status/2102581717609652522">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/o_product/status/2102593809364467897"><img src="https://pbs.twimg.com/media/HS3p7W3aAAAjArH?format=jpg&amp;name=medium" alt="GPTBots.ai Integrates Judgment Model Jev to Strengthen Classification and Model Selection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/o_product/status/2102593809364467897">GPTBots.ai Integrates Judgment Model Jev to Strengthen Classification and Model Selection</a></h3>
+<p>GPTBots.ai integrates the judgment AI model Jev, splitting judgment to Jev and text generation to LLMs, strengthening model selection and search result filtering, with per-business confidence thresholds planned.</p>
+<p><strong>中文摘要：</strong>GPTBots.ai 集成判断用 AI 模型 Jev，将判断处理交给 Jev、文本生成交给 LLM，并强化模型选择与搜索结果筛选，业务别置信度阈值设置计划后续推出。</p>
+<p><strong>O!Product｜AI・IT・DXサービスの最新トレンド</strong> · @o_product · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/o_product/status/2102593809364467897">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

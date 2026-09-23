@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2307</strong><br>curated posts</td>
-<td align="center"><strong>1301</strong><br>original videos</td>
+<td align="center"><strong>2342</strong><br>curated posts</td>
+<td align="center"><strong>1320</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,39 +28,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>291</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>297</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
-<p><sub>开发者工具</sub></p>
-<p><strong>273</strong> showcases · <strong>149</strong> videos</p>
-<p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>270</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>278</strong> showcases · <strong>111</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/developer-tools.md">Developer tools</a></h3>
+<p><sub>开发者工具</sub></p>
+<p><strong>274</strong> showcases · <strong>150</strong> videos</p>
+<p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>232</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>235</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>155</strong> showcases · <strong>87</strong> videos</p>
+<p><strong>159</strong> showcases · <strong>89</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>146</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>147</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>140</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>144</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>109</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>110</strong> showcases · <strong>62</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>97</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>98</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>78</strong> showcases · <strong>65</strong> videos</p>
+<p><strong>79</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>68</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>69</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>63</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>64</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>23</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
+<p><sub>网络安全</sub></p>
+<p><strong>16</strong> showcases · <strong>8</strong> videos</p>
+<p><a href="categories/cybersecurity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>15</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
-<p><sub>网络安全</sub></p>
-<p><strong>15</strong> showcases · <strong>7</strong> videos</p>
-<p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -172,24 +172,24 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>12</strong> showcases · <strong>5</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
 <p><strong>12</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
 <p><strong>12</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>11</strong> showcases · <strong>5</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/nya3_neko2/status/2102588500420022651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588453007630336/img/tjI2FPQM1KQxf1nM.jpg" alt="Stateless Japanese IME Prototype Built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/nya3_neko2/status/2102588500420022651">Stateless Japanese IME Prototype Built with Jev</a></h3>
+<p>The author prototyped a language-mode-free Japanese IME using Jev and the LLM-powered azooKey, allowing mixed Japanese-English typing with a single confirmation at the end of the sentence.</p>
+<p><strong>526</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 526</p>
+<p><strong>電電猫猫/ Naoki</strong> · @nya3_neko2</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
 <a href="https://x.com/GitHub_Daily/status/2102578718824931766"><img src="https://pbs.twimg.com/media/HS3cMnqa0AA2roL?format=jpg&amp;name=medium" alt="Using the Jev Model for Fish-Style zsh History Completion · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/GitHub_Daily/status/2102578718824931766">Using the Jev Model for Fish-Style zsh History Completion</a></h3>
 <p>Introduces jev-shell-history: on each keystroke it sends the last 100 unique history commands to the Jev model, which picks the most likely one and shows it as a gray suggestion, accepted with the right arrow key, with fuzzy matching support.</p>
 <p><strong>436</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 436</p>
 <p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/79yuuki/status/2102577684232749096">Jev Suited for Choosing Models per Task</a></h3>
-<p>The author thinks Jev is well suited to deciding when and which model to use for a given task.</p>
-<p><strong>166</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
-<p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102579956324990992"><img src="https://pbs.twimg.com/media/HSyhV6fbwAAxRsQ?format=jpg&amp;name=medium" alt="Rizzo Flow Replicates Jev API Locally with llama.cpp · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102579956324990992">Rizzo Flow Replicates Jev API Locally with llama.cpp</a></h3>
-<p>Jev is a hosted closed-source service, making it hard to get the same state-in, probabilistic-decision-out interface locally. Rizzo Flow fills this gap with open weights and llama.cpp, letting you run against localhost by changing a base URL.</p>
-<p><strong>135</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/HuggingModels/status/2102592544924446976"><img src="https://pbs.twimg.com/media/HS3oxutaUAAc-vE?format=jpg&amp;name=medium" alt="Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HuggingModels/status/2102592544924446976">Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions</a></h3>
+<p>Introducing Open JEV DeBERTa V3 Large, a text classification model that doesn&#39;t just label but makes typed decisions, calibrated, open, and built for real-world trust.</p>
+<p><strong>429</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 429</p>
+<p><strong>Hugging Models</strong> · @HuggingModels</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>鸟哥 | 蓝鸟会🕊️</strong> · @NFTCPS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102579956324990992"><img src="https://pbs.twimg.com/media/HSyhV6fbwAAxRsQ?format=jpg&amp;name=medium" alt="Rizzo Flow Replicates Jev API Locally with llama.cpp · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102579956324990992">Rizzo Flow Replicates Jev API Locally with llama.cpp</a></h3>
-<p>Jev is a hosted closed-source service, making it hard to get the same state-in, probabilistic-decision-out interface locally. Rizzo Flow fills this gap with open weights and llama.cpp, letting you run against localhost by changing a base URL.</p>
-<p><strong>135</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/HuggingModels/status/2102592544924446976"><img src="https://pbs.twimg.com/media/HS3oxutaUAAc-vE?format=jpg&amp;name=medium" alt="Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HuggingModels/status/2102592544924446976">Open JEV DeBERTa V3 Large: A Text Classification Model That Makes Typed Decisions</a></h3>
+<p>Introducing Open JEV DeBERTa V3 Large, a text classification model that doesn&#39;t just label but makes typed decisions, calibrated, open, and built for real-world trust.</p>
+<p><strong>429</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 429</p>
+<p><strong>Hugging Models</strong> · @HuggingModels</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/burstingbagel/status/2102592197476626486"><img src="https://pbs.twimg.com/media/HS3oBIbXUAEPG3Z?format=jpg&amp;name=medium" alt="Jev filter screens 40k wallets before TGE · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/burstingbagel/status/2102592197476626486">Jev filter screens 40k wallets before TGE</a></h3>
+<p>User built a Jev filter to screen 40k wallets in 4 seconds before TGE, targeting mercenary farmers.</p>
+<p><strong>290</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 290</p>
+<p><strong>BurstingBagel 🥯</strong> · @burstingbagel</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/taiyop/status/2102577805053829613"><img src="https://pbs.twimg.com/media/HS3bXlZbMAARSoV?format=jpg&amp;name=900x900" alt="AI Character with Jev-Driven Facial Expressions · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/taiyop/status/2102577805053829613">AI Character with Jev-Driven Facial Expressions</a></h3>
 <p>Showcasing an AI character at a generative AI exhibition that uses Jev for facial expressions and Irodori TTS for emotional speech.</p>
 <p><strong>133</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 133</p>
 <p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/youens/status/2102579362365137175"><img src="https://pbs.twimg.com/amplify_video_thumb/2101367981486051328/img/POjBvV3P9O7LKDGZ.jpg" alt="Jev Example: Emogee Demo · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/youens/status/2102579362365137175">Jev Example: Emogee Demo</a></h3>
-<p>The author calls this the neatest Jev example they&#39;ve seen and adds a demo link.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
-<p><strong>Justin Youens</strong> · @youens</p>
 </td>
 </tr>
 </table>

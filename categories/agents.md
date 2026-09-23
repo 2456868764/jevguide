@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 155 | 87 | 68 | 3.0M |
+| 159 | 89 | 70 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/NFTCPS/status/2102573338908594567">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/0xKiyoro/status/2102586877446390162"><img src="https://pbs.twimg.com/amplify_video_thumb/2102586760609841152/img/vUcEaQ3cSG99DJR_.jpg" alt="Jev Catches Opus 5.5 Default Effort Drop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xKiyoro/status/2102586877446390162">Jev Catches Opus 5.5 Default Effort Drop</a></h3>
+<p>Jev detected that Opus 5.5&#39;s default effort dropped from high to medium, so agents without explicit effort settings may now reason at a lower level with no error shown.</p>
+<p><strong>中文摘要：</strong>Jev 检测到 Opus 5.5 默认推理强度从 high 降至 medium，未显式设置 effort 的智能体可能在更低推理水平下运行，且无报错提示。</p>
+<p><strong>Kiyoro</strong> · @0xKiyoro · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 185</p>
+<p><a href="https://x.com/0xKiyoro/status/2102586877446390162">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/79yuuki/status/2102577684232749096"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937937986535424/img/dp9A1XJc2lAshYu4.jpg" alt="Jev Suited for Choosing Models per Task · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -31,6 +44,41 @@
 <p><strong>紫竹佑騎 Yuki SHICHIKU🧖‍♂️暗号屋LLC</strong> · @79yuuki · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 166</p>
 <p><a href="https://x.com/79yuuki/status/2102577684232749096">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SciFi/status/2102589942622797854"><img src="https://pbs.twimg.com/media/HS3maTBW8AAIRCI?format=png&amp;name=medium" alt="Jev-Mem: System-One-Controlled Agentic Memory · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SciFi/status/2102589942622797854">Jev-Mem: System-One-Controlled Agentic Memory</a></h3>
+<p>The paper introduces Jev-Mem, a System-One-controlled agentic memory mechanism aimed at improving the efficiency of AI agents.</p>
+<p><strong>中文摘要：</strong>论文提出 Jev-Mem，一种由 System-One 控制的智能体记忆机制，旨在提升 AI 智能体的效率。</p>
+<p><strong>Artificial Intelligence Papers</strong> · @SciFi · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
+<p><a href="https://x.com/SciFi/status/2102589942622797854">在 X 查看原帖</a> · <a href="https://t.co/DrFv28yV5y">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ouchi/status/2102592040106414335"><img src="https://pbs.twimg.com/media/HS3nSUKagAAs6n-?format=jpg&amp;name=medium" alt="Jev to Replace Judgment-Type LLM Tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ouchi/status/2102592040106414335">Jev to Replace Judgment-Type LLM Tasks</a></h3>
+<p>A user notes GPT-Luna is cheap and easy to use for agent scheduled processing and preprocessing, and expects judgment tasks to be gradually replaced by Jev.</p>
+<p><strong>中文摘要：</strong>用户讨论 GPT-Luna 在智能体定期处理和预处理中成本低、易用，并预期判断类任务将逐步被 Jev 取代。</p>
+<p><strong>ノウチ</strong> · @ouchi · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
+<p><a href="https://x.com/ouchi/status/2102592040106414335">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/voratheexplora/status/2102595079697277113"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593627079716864/img/S9CRNXCcc1bwJsvl.jpg" alt="Jev-Powered Elevator Simulation: Jev Decides the Next Floor · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/voratheexplora/status/2102595079697277113">Jev-Powered Elevator Simulation: Jev Decides the Next Floor</a></h3>
+<p>Jev-elator is a live elevator simulation where Jev, not a traditional dispatch algorithm, decides the next floor, balancing its duty as an elevator operator with prioritizing someone in need.</p>
+<p><strong>中文摘要：</strong>Jev-elator 是一个实时电梯模拟，由 Jev 而非传统调度算法决定下一层，并需在电梯操作员职责与优先服务有需要的人之间取得平衡。</p>
+<p><strong>voruhh</strong> · @voratheexplora · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
+<p><a href="https://x.com/voratheexplora/status/2102595079697277113">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

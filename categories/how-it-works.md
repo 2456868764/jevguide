@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 291 | 133 | 159 | 1.6M |
+| 297 | 138 | 160 | 1.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/wayne_culbreth/status/2102573935086665949">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/floor_per_area/status/2102593439401439492"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593010991001600/img/VHBGXzCMZAe-bA4z.jpg" alt="Speeding Up Chat Responses with Jev and Pre-structured SQL · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/floor_per_area/status/2102593439401439492">Speeding Up Chat Responses with Jev and Pre-structured SQL</a></h3>
+<p>A technical brainstorm on using Jev with pre-structured SQL to make chat responses 10x faster, asking if it could work.</p>
+<p><strong>中文摘要：</strong>一条技术构想：结合 Jev 与预结构化 SQL，让聊天响应速度提升 10 倍，并询问可行性。</p>
+<p><strong>Chris Goldammer</strong> · @floor_per_area · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
+<p><a href="https://x.com/floor_per_area/status/2102593439401439492">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/henryzhang/status/2102576882546000188"><img src="https://pbs.twimg.com/media/HS3aiE1aIAAs81U?format=jpg&amp;name=medium" alt="Generating Sentences Step by Step with Jev Probabilities · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/henryzhang/status/2102576882546000188">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ItsCuthulhu/status/2102573734825447858"><img src="https://pbs.twimg.com/amplify_video_thumb/2102161121511649280/img/zsrydFm72dYdZcpO.jpg" alt="Using System One models like Jev for multi-path reasoning · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/ItsCuthulhu/status/2102573734825447858">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RamV2003/status/2102575529312256373"><img src="https://pbs.twimg.com/media/HS3ZQk_WIAEb1al?format=png&amp;name=medium" alt="Jev scoring of identical diffs shifts with argument order and labels · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Ram Vinjamuri</strong> · @RamV2003 · 2026-09-23</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 28</p>
 <p><a href="https://x.com/RamV2003/status/2102575529312256373">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lemonDefi1/status/2102591700409475324"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local System One Model Laya Beats Cloud-Based Jev at Tetris · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lemonDefi1/status/2102591700409475324">Local System One Model Laya Beats Cloud-Based Jev at Tetris</a></h3>
+<p>Laya, an open-weights System One model running locally on a 16GB MacBook Air, beat the cloud-based Jev, which is built with Grok 4.7, at Tetris.</p>
+<p><strong>中文摘要：</strong>Laya 是一个可在 16GB MacBook Air 上本地运行的开源权重 System One 模型，在俄罗斯方块中击败了基于 Grok 4.7 的云端 Jev。</p>
+<p><strong>lemon👑</strong> · @lemonDefi1 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/lemonDefi1/status/2102591700409475324">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -83,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/llmpsychosis/status/2102592416650023173"><img src="https://pbs.twimg.com/media/HS3n_TmWwAArL9Y?format=png&amp;name=900x900" alt="Discussion on a Specialized Jev Model for Monitorability · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/llmpsychosis/status/2102592416650023173">Discussion on a Specialized Jev Model for Monitorability</a></h3>
+<p>The author suggests a Jev model designed for monitorability could work well at scale, but has reservations about CoT due to GPT-6 evading monitors.</p>
+<p><strong>中文摘要：</strong>作者认为专为可监控性设计的 Jev 模型在大规模场景下可能表现良好，但对 CoT 方法存有顾虑，因为 GPT-6 可能规避监控。</p>
+<p><strong>Mahi</strong> · @llmpsychosis · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/llmpsychosis/status/2102592416650023173">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/EJZhang_TUKEY/status/2102577882987921893"><img src="https://pbs.twimg.com/amplify_video_thumb/2102577535313653760/img/ie5XkGz0FFksyxlN.jpg" alt="Jev Is Not a Chatbot: Non-Autoregressive Design for Fast Structured Decisions · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -92,6 +127,19 @@
 <p><strong>EJ Zhangs⚡️</strong> · @EJZhang_TUKEY · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/EJZhang_TUKEY/status/2102577882987921893">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/madoka_saikou/status/2102590374577652075"><img src="https://pbs.twimg.com/amplify_video_thumb/2102536666179420160/img/tQ7_djKXnjA1P5Tw.jpg" alt="Diffusion LLM May Suit Jev-Style Fast Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/madoka_saikou/status/2102590374577652075">Diffusion LLM May Suit Jev-Style Fast Decision Models</a></h3>
+<p>The post notes that Jev cannot generate continuous mouse-click coordinates by enumerating options, while Diffusion LLM offers stronger expressiveness at similar inference speed, and predicts a future 50 mspt Computer.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 无法通过枚举选项生成连续鼠标点击坐标，而 Diffusion LLM 在保持推理速度的同时具备更强表达能力，并预测未来可能出现 50 mspt 的 Computer。</p>
+<p><strong>Esac</strong> · @madoka_saikou · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/madoka_saikou/status/2102590374577652075">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/thelazyyogii/status/2102580258687926516"><img src="https://pbs.twimg.com/media/HS3djv4XYAAA5yC?format=jpg&amp;name=medium" alt="Jev vs Laya: Decisive Judgment Agents That Don&#39;t Chat · 原帖图片" width="100%"></a>
@@ -103,6 +151,30 @@
 <p><strong>Just AI</strong> · @thelazyyogii · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/thelazyyogii/status/2102580258687926516">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JackdeS11/status/2102596308930589121"><img src="https://pbs.twimg.com/amplify_video_thumb/2102596285983567874/img/-O3--zASUFuuu2TL.jpg" alt="Jev&#39;s System One inference runs locally on iPhone and Mac · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JackdeS11/status/2102596308930589121">Jev&#39;s System One inference runs locally on iPhone and Mac</a></h3>
+<p>The post explains that Jev&#39;s popularized System One inference runs locally on iPhone or Mac via a Core AI implementation, suited for repeated on-device decisions like flagging utterances needing replies, checking pastes, and vetting agent commands.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 推广的 System One 推理可在 iPhone 或 Mac 上通过 Core AI 实现本地运行，适合判断哪句话需要回复、检查粘贴内容、审核智能体命令等需反复本地决策的场景。</p>
+<p><strong>Daisuke Majima (MLBoy)</strong> · @JackdeS11 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/JackdeS11/status/2102596308930589121">在 X 查看原帖</a> · <a href="https://t.co/eYYreTzy5I">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheArthiAI/status/2102590430692966739"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102590270285963264/pu/img/i6GPMvVDNb-SvJvO.jpg" alt="Why Jev&#39;s decision-making stands out · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheArthiAI/status/2102590430692966739">Why Jev&#39;s decision-making stands out</a></h3>
+<p>The post argues that unlike AIs that only write, Jev is interesting for its ability to decide.</p>
+<p><strong>中文摘要：</strong>帖子指出，相比只会写作的 AI，Jev 的吸引力在于其决策能力。</p>
+<p><strong>The Arthi AI Collective</strong> · @TheArthiAI · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/TheArthiAI/status/2102590430692966739">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

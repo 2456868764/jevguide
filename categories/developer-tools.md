@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 304 | 169 | 137 | 3.6M |
+| 306 | 170 | 138 | 3.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/dealerdefi/status/2102962979960758349">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/oliviscusAI/status/2102982556966945100"><img src="https://pbs.twimg.com/amplify_video_thumb/2102982449915629568/img/4lkG2yAearXysm3H.jpg" alt="Grok-Jev Reflex: Open-Source Router Combining Grok 4.7 and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oliviscusAI/status/2102982556966945100">Grok-Jev Reflex: Open-Source Router Combining Grok 4.7 and Jev</a></h3>
+<p>A free, open-source router that pairs Grok 4.7 for planning and acting with Jev for cheap yes/no calls in between, at $0.042.</p>
+<p><strong>中文摘要：</strong>免费开源路由器，将Grok 4.7的规划行动与Jev的低成本快速判断结合，以$0.042实现每次行动的二次思考。</p>
+<p><strong>Oliver Prompts</strong> · @oliviscusAI · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 291</p>
+<p><a href="https://x.com/oliviscusAI/status/2102982556966945100">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
 <p><a href="https://x.com/QingQ77/status/2102969271613526232">在 X 查看原帖</a> · <a href="https://t.co/b4SIObq2c1">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102991417392218335"><img src="https://pbs.twimg.com/amplify_video_thumb/2102115729432522752/img/YA1bKtf3SghRN5qp.jpg" alt="Jev: $0.042 per 1M input tokens, output free · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/0xbelorix/status/2102991417392218335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stephonomon/status/2102965397469245480"><img src="https://pbs.twimg.com/media/HS87to1WgAAhVtK?format=jpg&amp;name=medium" alt="Using Jev to Identify Potential Errors in AI Drafts · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Stephon Proctor, PhD</strong> · @stephonomon · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/stephonomon/status/2102965397469245480">在 X 查看原帖</a> · <a href="https://t.co/3yntXGyKAc">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Likitd_/status/2102983213455175740"><img src="https://pbs.twimg.com/media/HS9L6qTaQAAMOJQ?format=jpg&amp;name=medium" alt="jev-ranker: Jev-Powered Reranking for RAG · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Likitd_/status/2102983213455175740">jev-ranker: Jev-Powered Reranking for RAG</a></h3>
+<p>jev-ranker is an npm package that uses Jev for reranking and relevance filtering in RAG pipelines, aiming to improve retrieval relevance.</p>
+<p><strong>中文摘要：</strong>jev-ranker 是一个 npm 包，利用 Jev 模型为 RAG 管道提供重排序和相关性过滤，旨在提升检索结果的相关性。</p>
+<p><strong>Likit D</strong> · @Likitd_ · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/Likitd_/status/2102983213455175740">在 X 查看原帖</a> · <a href="https://t.co/bVS4imBxhP">原文链接</a></p>
 </td>
 </tr>
 <tr>

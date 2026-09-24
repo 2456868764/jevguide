@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 105 | 70 | 35 | 595K |
+| 107 | 71 | 36 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SyunBorderless/status/2102982534133055603"><img src="https://pbs.twimg.com/media/HS9LWIjbMAAdigj?format=jpg&amp;name=medium" alt="Hands-on with JEV: Clear Answers and Probabilities Could Reshape Automation Backends · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SyunBorderless/status/2102982534133055603">Hands-on with JEV: Clear Answers and Probabilities Could Reshape Automation Backends</a></h3>
+<p>A user shares their first impression of TypeSafe&#39;s JEV after successful registration, noting it returns clear answers and probabilities rather than text, potentially becoming the standard for backend automation, and discusses how it will coexist with AI agents.</p>
+<p><strong>中文摘要：</strong>用户分享成功注册TypeSafe JEV后的初步印象，认为其返回明确答案与概率而非整段文字，可能成为未来自动化系统后端处理的主流，并探讨与AI Agent的协同分工。</p>
+<p><strong>市川 俊介 Shun📍Chiang Mai 🇹🇭</strong> · @SyunBorderless · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/SyunBorderless/status/2102982534133055603">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MilkMendy/status/2102983218022527315"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102983041857597440/pu/img/zxRLD993lAL7_DyX.jpg" alt="Jev: A Faster, Cheaper Alternative for Business Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MilkMendy/status/2102983218022527315">Jev: A Faster, Cheaper Alternative for Business Models</a></h3>
+<p>A user recommends Jev as a replacement for heavier models, highlighting its strength in classification and yes/no decisions, claiming it could be 200x faster and much cheaper than frontier models.</p>
+<p><strong>中文摘要：</strong>有用户推荐 Jev 作为重型模型的替代品，称其在分类和是非判断任务上表现出色，可能比前沿模型快 200 倍且成本更低。</p>
+<p><strong>Mendy</strong> · @MilkMendy · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/MilkMendy/status/2102983218022527315">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bonduelleioat/status/2102680389823160583"><img src="https://pbs.twimg.com/amplify_video_thumb/2102680348903510016/img/xvKjkAr6-ZI2mYL-.jpg" alt="AI Cost Optimization: Don&#39;t Use Expensive Models for Every Decision · 原帖视频截图" width="100%"></a>

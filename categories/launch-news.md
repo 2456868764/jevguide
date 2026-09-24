@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 173 | 92 | 84 | 1.1M |
+| 175 | 92 | 86 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/ASIHubHQ/status/2102973444140712331">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/AIGuideNote/status/2102985338025095552"><img src="https://pbs.twimg.com/media/HS9OBRFWYAAE_Na?format=jpg&amp;name=medium" alt="Browser Use Releases Autonomous Operation Version with Jev Fast-Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIGuideNote/status/2102985338025095552">Browser Use Releases Autonomous Operation Version with Jev Fast-Decision Model</a></h3>
+<p>Browser Use unveiled jev-ultrafast, integrating TypeSafe Jev as System 1 to make instant decisions for clicks and scrolling within 70–500 ms.</p>
+<p><strong>中文摘要：</strong>Browser Use公开了集成TypeSafe Jev作为System 1的jev-ultrafast版本，可在70至500毫秒内完成点击、滚动等浏览器操作的即时决策。</p>
+<p><strong>AI Guide-Note - 実務で使えるAI活用メディア</strong> · @AIGuideNote · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/AIGuideNote/status/2102985338025095552">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/packapun/status/2102958929294540818"><img src="https://pbs.twimg.com/media/HS815QMWUAA5wO8?format=png&amp;name=900x900" alt="TypeSafe Introduces System One Models and Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/packapun/status/2102958929294540818">在 X 查看原帖</a> · <a href="https://t.co/6b27qd1Raw">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cryptofanz12/status/2102989803033604162"><img src="https://pbs.twimg.com/media/HS9SE0wa0AAfz2h?format=jpg&amp;name=medium" alt="Jev: Turning AI into a Structured Decision Layer · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/cryptofanz12/status/2102989803033604162">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ABNewswire/status/2102960210612809840"><img src="https://pbs.twimg.com/media/HS83Km8aoAANr0p?format=jpg&amp;name=medium" alt="Jev Brings Fast, Structured Decision-Making to AI Workflows · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>ABNewswire</strong> · @ABNewswire · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/ABNewswire/status/2102960210612809840">在 X 查看原帖</a> · <a href="https://t.co/QpU506z58L">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/acenik10/status/2102986508739182890"><img src="https://pbs.twimg.com/media/HS9PFflWgAAm3Js?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev: Millisecond-Level Low-Cost Agent Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/acenik10/status/2102986508739182890">TypeSafe Launches Jev: Millisecond-Level Low-Cost Agent Decision Model</a></h3>
+<p>TypeSafe&#39;s new model Jev targets common tiny agent decisions (urgent or not, which queue, yes/no), claiming millisecond-level speed at a fraction of the cost of frontier models.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的新模型 Jev 面向智能体常见的小型决策（紧急与否、选择队列、是/否等），宣称在毫秒级完成，且成本远低于前沿模型。</p>
+<p><strong>Nikkhil Narang</strong> · @acenik10 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/acenik10/status/2102986508739182890">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

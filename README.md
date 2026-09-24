@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2732</strong><br>curated posts</td>
-<td align="center"><strong>1492</strong><br>original videos</td>
+<td align="center"><strong>2750</strong><br>curated posts</td>
+<td align="center"><strong>1499</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>331</strong> showcases · <strong>150</strong> videos</p>
+<p><strong>332</strong> showcases · <strong>151</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>304</strong> showcases · <strong>169</strong> videos</p>
+<p><strong>306</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>252</strong> showcases · <strong>106</strong> videos</p>
+<p><strong>257</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>194</strong> showcases · <strong>108</strong> videos</p>
+<p><strong>197</strong> showcases · <strong>108</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>173</strong> showcases · <strong>92</strong> videos</p>
+<p><strong>175</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>124</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>126</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>105</strong> showcases · <strong>70</strong> videos</p>
+<p><strong>107</strong> showcases · <strong>71</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>69</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>70</strong> showcases · <strong>39</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/tetumemo/status/2102964330547568706"><img src="https://pbs.twimg.com/media/HS865n5bEAAjdyw?format=jpg&amp;name=medium" alt="Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tetumemo/status/2102964330547568706">Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs</a></h3>
+<p>Learn how Jev acts as the decision core for AI agents, specializing in selections, numerical values, and yes/no judgments, with insights on cost trade-offs when designed well.</p>
+<p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
+<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/AlchainHust/status/2102965661219856700"><img src="https://pbs.twimg.com/media/HS88G4YbsAAXHKS?format=jpg&amp;name=medium" alt="Training a Jev-like local model with image understanding · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/AlchainHust/status/2102965661219856700">Training a Jev-like local model with image understanding</a></h3>
 <p>Huashu shares that they are post-training a Jev-like model capable of judgment and image understanding, running locally on an ordinary Mac, based on Qwen small models.</p>
 <p><strong>706</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 706</p>
 <p><strong>花叔</strong> · @AlchainHust</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/dealerdefi/status/2102962979960758349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902808106131456/img/GqL560Pop00x-8PM.jpg" alt="Leaked: The JEV Stack I Run My Agents On · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dealerdefi/status/2102962979960758349">Leaked: The JEV Stack I Run My Agents On</a></h3>
-<p>dealer.eth leaked the JEV stack he runs his agents on, noting agents don&#39;t fail at writing code but at deciding which file to open, which hunk matters, whether to run a command, and whether they&#39;re actually done.</p>
-<p><strong>542</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 542</p>
-<p><strong>dealer.eth</strong> · @dealerdefi</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlchainHust/status/2102965661219856700"><img src="https://pbs.twimg.com/media/HS88G4YbsAAXHKS?format=jpg&amp;name=medium" alt="Training a Jev-like local model with image understanding · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlchainHust/status/2102965661219856700">Training a Jev-like local model with image understanding</a></h3>
+<p>Huashu shares that they are post-training a Jev-like model capable of judgment and image understanding, running locally on an ordinary Mac, based on Qwen small models.</p>
+<p><strong>706</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 706</p>
+<p><strong>花叔</strong> · @AlchainHust</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/dealerdefi/status/2102962979960758349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902808106131456/img/GqL560Pop00x-8PM.jpg" alt="Leaked: The JEV Stack I Run My Agents On · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/dealerdefi/status/2102962979960758349">Leaked: The JEV Stack I Run My Agents On</a></h3>
 <p>dealer.eth leaked the JEV stack he runs his agents on, noting agents don&#39;t fail at writing code but at deciding which file to open, which hunk matters, whether to run a command, and whether they&#39;re actually done.</p>
 <p><strong>542</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 542</p>
 <p><strong>dealer.eth</strong> · @dealerdefi</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexanderTw33ts/status/2102960863678497219"><img src="https://pbs.twimg.com/media/HS83v-da4AAV23J?format=jpg&amp;name=medium" alt="Jev&#39;s question API has 16 paying customers · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexanderTw33ts/status/2102960863678497219">Jev&#39;s question API has 16 paying customers</a></h3>
-<p>During a 10-hour livestream, Jev reveals his question API has gained 16 paying customers.</p>
-<p><strong>423</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 423</p>
-<p><strong>Alex</strong> · @AlexanderTw33ts</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/dsmiley411/status/2102969386978234550"><img src="https://pbs.twimg.com/media/HS88Q7OaYAA15HV?format=jpg&amp;name=medium" alt="Testing Jev&#39;s Accuracy for Next Best Action Prediction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dsmiley411/status/2102969386978234550">Testing Jev&#39;s Accuracy for Next Best Action Prediction</a></h3>
-<p>Dorian Smiley tested Jev&#39;s accuracy for next best action prediction. Results: canonical accuracy 98.6%, generalization accuracy 41.5%. Jev predicted the next state in a program from the current partial program. Suite: 25 cases, run 20 times; seven cases...</p>
-<p><strong>138</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
-<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/plotarmordev/status/2102987205413388560"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Jev Competitor CLM-8B Released · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plotarmordev/status/2102987205413388560">New Jev Competitor CLM-8B Released</a></h3>
+<p>The post says the Stanford/NVIDIA team released CLM-8B (Apache 2.0), with performance comparable to Jev and up to 9x faster inference.</p>
+<p><strong>281</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 281</p>
+<p><strong>netrunner</strong> · @plotarmordev</p>
 </td>
 </tr>
 </table>

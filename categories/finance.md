@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 124 | 69 | 56 | 1.2M |
+| 126 | 69 | 58 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FXWOLF2/status/2102982189457768485"><img src="https://pbs.twimg.com/media/HS9J799bkAAP3gN?format=jpg&amp;name=medium" alt="Jev Backtest: Fewer Inputs Improve Performance · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/FXWOLF2/status/2102982189457768485">Jev Backtest: Fewer Inputs Improve Performance</a></h3>
+<p>A user shares their experience backtesting Jev, finding that omitting time information and using only one or two technical indicators yields better results; passing previous trade wins/losses made no difference, and they plan to use up the initial $5.</p>
+<p><strong>中文摘要：</strong>用户分享使用Jev进行回测时发现，不传时间信息、只保留一两个技术指标，成绩更好；传递之前交易胜负没有效果，计划用完初始赠送的$5。</p>
+<p><strong>WOLF</strong> · @FXWOLF2 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 408</p>
+<p><a href="https://x.com/FXWOLF2/status/2102982189457768485">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vwapster/status/2102983567345119332"><img src="https://pbs.twimg.com/media/HS9MKlnWcAA0dnv?format=jpg&amp;name=medium" alt="Kalshi BTC 15-Minute Trading Bot Built with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vwapster/status/2102983567345119332">Kalshi BTC 15-Minute Trading Bot Built with Jev</a></h3>
+<p>A developer says they built a 15-minute BTC trading bot for Kalshi using OPUS 5.5 + Jev, making real-time decisions in volatile short-term markets. Join the waitlist to track real-time PnL; hosted subscriptions are planned.</p>
+<p><strong>中文摘要：</strong>开发者声称使用 OPUS 5.5 + Jev 构建了 Kalshi 比特币 15 分钟交易机器人，面向波动剧烈的短线市场进行实时决策，并开放候补名单以查看实时盈亏，计划推出托管订阅。</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/vwapster/status/2102983567345119332">在 X 查看原帖</a> · <a href="https://t.co/s87iQYua6Q">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dopamynAI/status/2102740583684948338"><img src="https://pbs.twimg.com/amplify_video_thumb/2102740415342358528/img/GFHK7zmxKeSeHE6o.jpg" alt="Dopamyn + JEV: 20x Faster Crypto Tagging · 原帖视频截图" width="100%"></a>

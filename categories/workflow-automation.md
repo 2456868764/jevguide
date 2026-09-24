@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 112 | 73 | 39 | 595K |
+| 114 | 74 | 40 | 595K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2103080756784558273"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794596556410880/img/fJC3rEvN_qiqEvwv.jpg" alt="Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2103080756784558273">Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team</a></h3>
+<p>This setup uses Hermes, Claude Opus 5.5, and Jev to automatically identify where businesses lose customers, calculate the cost of those gaps, respond to leads 24/7, follow up until they reply, and then pass interested leads to the owner. Full setup guide below.</p>
+<p><strong>中文摘要：</strong>该方案利用 Hermes、Claude Opus 5.5 和 Jev 自动发现客户流失点、计算损失、24/7 响应线索并持续跟进，最后将有意向的客户交给负责人。下方附有完整设置指南。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 18 &nbsp; 📊 17K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2103080756784558273">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SyunBorderless/status/2102982534133055603"><img src="https://pbs.twimg.com/media/HS9LWIjbMAAdigj?format=jpg&amp;name=medium" alt="Hands-on with JEV: Clear Answers and Probabilities Could Reshape Automation Backends · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/SyunBorderless/status/2102982534133055603">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Skrilla_git/status/2103022267575734431"><img src="https://pbs.twimg.com/amplify_video_thumb/2103022224177250304/img/uwdTtjam2JqkhoIs.jpg" alt="JEV: New AI Model Built for Fast Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
 <p><a href="https://x.com/Skrilla_git/status/2103022267575734431">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonzhou1993/status/2103012229268529523"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987836719398912/img/mu7p8-nvTFQZ5hyg.jpg" alt="On Jev-based automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/jasonzhou1993/status/2103012229268529523">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/project_oka/status/2103025493457215990"><img src="https://pbs.twimg.com/media/HS9yftnbYAAJXzW?format=jpg&amp;name=medium" alt="Diagram of JEV and AI API Collaboration · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/project_oka/status/2103025493457215990">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MilkMendy/status/2102983218022527315"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102983041857597440/pu/img/zxRLD993lAL7_DyX.jpg" alt="Jev: A Faster, Cheaper Alternative for Business Models · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/MilkMendy/status/2102983218022527315">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SignalLedgerX/status/2103054337031209229"><img src="https://pbs.twimg.com/media/HS9dM5RXsAA7zfH?format=jpg&amp;name=medium" alt="Jev Gives OK, Qwen Deep-Dives into Companies · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/SignalLedgerX/status/2103054337031209229">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Webenable_nl/status/2103046847191253423"><img src="https://pbs.twimg.com/media/HS-F9j_XQAAPduz?format=jpg&amp;name=medium" alt="Classify emails with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Webenable</strong> · @Webenable_nl · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Webenable_nl/status/2103046847191253423">在 X 查看原帖</a> · <a href="https://t.co/xT01nqOTC6">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NeilBDE/status/2103080993750168038"><img src="https://pbs.twimg.com/media/HS-k_5KacAAfaQM?format=jpg&amp;name=medium" alt="Jev: Typed decisions for automation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NeilBDE/status/2103080993750168038">Jev: Typed decisions for automation</a></h3>
+<p>Not every step in automation needs a chatbot. Jev gives your software a typed decision to act on. Use it to route enquiries, choose a model, check risky actions, verify sources, or sort documents.</p>
+<p><strong>中文摘要：</strong>在自动化流程中，并非每一步都需要聊天机器人。Jev 为你的软件提供类型化决策，让代码执行后续步骤。可用于路由咨询、选择模型、检查风险操作、验证来源或整理文档。</p>
+<p><strong>Nripendra (Neil) Pathak</strong> · @NeilBDE · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/NeilBDE/status/2103080993750168038">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/bonduelleioat/status/2102680389823160583"><img src="https://pbs.twimg.com/amplify_video_thumb/2102680348903510016/img/xvKjkAr6-ZI2mYL-.jpg" alt="AI Cost Optimization: Don&#39;t Use Expensive Models for Every Decision · 原帖视频截图" width="100%"></a>

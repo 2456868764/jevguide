@@ -1,9 +1,10 @@
 # 0xMarioNawfal
 
-13 Jev showcases.
+14 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-24 | [Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team](https://x.com/RoundtableSpace/status/2103080756784558273) | 自动化工作流 | 0xMarioNawfal | 17K |
 | 2026-09-22 | [Jev Combined with Treg Saves $8K Monthly Across Three Workflows](https://x.com/RoundtableSpace/status/2102227634730012753) | 自动化工作流 | 0xMarioNawfal | 41K |
 | 2026-09-22 | [Jev and OpenRouter Go Live on Monid with 2,000 Tools](https://x.com/RoundtableSpace/status/2102235184795935185) | 接入动态 | 0xMarioNawfal | 38K |
 | 2026-09-21 | [Open-Source Jev Trading Bot jev-trader: Buy/Sell Signals in 81ms](https://x.com/RoundtableSpace/status/2101850147378376897) | 金融 | 0xMarioNawfal | 70K |

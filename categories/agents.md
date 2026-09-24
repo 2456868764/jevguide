@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 208 | 115 | 94 | 3.0M |
+| 214 | 117 | 98 | 3.0M |
 
 ## Showcase 卡片
 
@@ -44,6 +44,30 @@
 <p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
 <p><a href="https://x.com/tetumemo/status/2102964330547568706">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/1920web1080/status/2103081147315957769"><img src="https://pbs.twimg.com/media/HS-lJM9XsAAm6u_?format=jpg&amp;name=medium" alt="Jev as the checkpoint in agent pipelines · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/1920web1080/status/2103081147315957769">Jev as the checkpoint in agent pipelines</a></h3>
+<p>The post contrasts typical agent stacks with a setup where Grok Bot handles execution and Jev decides next steps, breaking the output into checkpoints to avoid weak claims propagating end-to-end.</p>
+<p><strong>中文摘要：</strong>帖子对比常见智能体栈，指出通常由同一个模型从研究一路做到完成；而这种做法让 Grok Bot 负责执行、Jev 决定下一步，通过检查点避免一个薄弱结论贯穿最终输出。</p>
+<p><strong>cat.png</strong> · @1920web1080 · 2026-09-24</p>
+<p>💬 3 &nbsp; 🔁 3 &nbsp; ♡ 17 &nbsp; 📊 533</p>
+<p><a href="https://x.com/1920web1080/status/2103081147315957769">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neil_xbt/status/2103066159784644611"><img src="https://pbs.twimg.com/amplify_video_thumb/2102816168629223424/img/-rRQHmhAKZyVHhFP.jpg" alt="Jev handles routing calls at ultra-low cost · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/neil_xbt/status/2103066159784644611">Jev handles routing calls at ultra-low cost</a></h3>
+<p>The post notes that agent bills are actually paying for each yes/no decision. Jev beats Grok 4.7 at $0.00013 per call vs $0.0069 and $0.0375, suggesting replacing routing calls with Jev and keeping Grok 4.7 for writing to slash costs.</p>
+<p><strong>中文摘要：</strong>帖子指出智能体账单实际是在为每个yes/no决策付费。Jev以每次调用0.00013美元的成本优于Grok 4.7的0.0069美元和前沿模型的0.0375美元，建议用Jev替换所有路由调用，让Grok 4.7专注写作以大幅降低费用。</p>
+<p><strong>NeilXbt</strong> · @neil_xbt · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 279</p>
+<p><a href="https://x.com/neil_xbt/status/2103066159784644611">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ikuberan/status/2102978995235299506"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Jev Browser Automation Experience · 原帖视频截图" width="100%"></a>
@@ -107,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/kevindubois/status/2103082072726446496"><img src="https://pbs.twimg.com/media/HS-l_hgWkAAny7c?format=jpg&amp;name=medium" alt="Routing Agents with Jev and Laya in LangChain4j · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kevindubois/status/2103082072726446496">Routing Agents with Jev and Laya in LangChain4j</a></h3>
+<p>Amid the hype around Jev and open-source derivatives like Laya, Kevin Dubois explores how such decision models work in agentic workflows built with LangChain4j, linking to his detailed blog post.</p>
+<p><strong>中文摘要：</strong>Kevin Dubois在Jev及开源衍生品Laya火热之际，探索如何将这类决策模型用于基于LangChain4j的Agentic工作流中，并附上详细博客链接。</p>
+<p><strong>Kevin Dubois</strong> · @kevindubois · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/kevindubois/status/2103082072726446496">在 X 查看原帖</a> · <a href="https://t.co/kpOqUTidoI">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/briandonatiello/status/2103052171373957542"><img src="https://pbs.twimg.com/media/HS-KxqmXwAAX5og?format=jpg&amp;name=medium" alt="Testing JEV for AI agent routing: matching big models with a different prompt at one-third latency · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -117,6 +152,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/briandonatiello/status/2103052171373957542">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PaliwalMuskan19/status/2103020089180299386"><img src="https://pbs.twimg.com/amplify_video_thumb/2103019455400079360/img/aEWbhS6FPOZaCoTc.jpg" alt="Ranking agent skills with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>Muskan Paliwal</strong> · @PaliwalMuskan19 · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/PaliwalMuskan19/status/2103020089180299386">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tjsiingh/status/2103080622155583572"><img src="https://pbs.twimg.com/media/HS-krUxWcAAHcFn?format=jpg&amp;name=medium" alt="Discussion on future applications of Jev-like algorithms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tjsiingh/status/2103080622155583572">Discussion on future applications of Jev-like algorithms</a></h3>
+<p>The author mentions reading an old paper on computational markets and agents, and after watching Diogo Almeida&#39;s interview on Latent Space Podcast, highlights his emphasis on futuristic use cases of deeply embedding Jev-like algorithms.</p>
+<p><strong>中文摘要：</strong>作者称正在阅读关于计算市场与代理的旧论文，并结合 Diogo Almeida 在 Latent Space 播客的访谈，提到其对 Jev 类似算法深度嵌入的未来用例的看法。</p>
+<p><strong>TJ Singh</strong> · @tjsiingh · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/tjsiingh/status/2103080622155583572">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -164,6 +212,30 @@
 <p><strong>Wizard Glacier</strong> · @icerdesign · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/icerdesign/status/2103052985878339855">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_freddy/status/2103083854860898592"><img src="https://pbs.twimg.com/media/HS-mLdoWMAAZ9lh?format=jpg&amp;name=medium" alt="Add a Decision Layer to Grok Bots with Jev to Act Like a Company · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0x_freddy/status/2103083854860898592">Add a Decision Layer to Grok Bots with Jev to Act Like a Company</a></h3>
+<p>The post explains how to talk to a single project manager bot, use Jev as a decision layer, and organize multiple Grok bots into a collaborative system, referencing a full 12-step blueprint.</p>
+<p><strong>中文摘要：</strong>帖子介绍了如何仅与一个项目经理机器人对话，利用Jev作为决策层，将多个Grok机器人组织成一个可协作的系统，并提到了完整的12步蓝图。</p>
+<p><strong>Freddy</strong> · @0x_freddy · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/0x_freddy/status/2103083854860898592">在 X 查看原帖</a> · <a href="https://grok.com/imagine/post/ecc7049a-10b8-4204-afb2-b81242b301e6">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/holidaynotes/status/2103081820011262418"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081795424235520/img/CGAHVvPDVdKp9isO.jpg" alt="Jev-powered wallet sandbox: permission control before AI agent transactions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/holidaynotes/status/2103081820011262418">Jev-powered wallet sandbox: permission control before AI agent transactions</a></h3>
+<p>Example of using the Jev model to set a permission sandbox before AI agents send transactions: $18 domain renewal auto-allowed, $500 unknown bridge blocked, $65 new vendor requires human approval. Code sets limits, Jev judges task fit and counterparty risk.</p>
+<p><strong>中文摘要：</strong>示例展示如何用Jev模型在AI代理发送交易前设置权限沙盒：18美元域名续费自动允许，500美元未知桥接阻止，65美元新供应商需人工确认。代码设定限额，Jev判断任务匹配和交易对手风险。</p>
+<p><strong>0xHoliday | AI × Onchain</strong> · @holidaynotes · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/holidaynotes/status/2103081820011262418">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052983768666306"><img src="https://pbs.twimg.com/amplify_video_thumb/2102261082186452992/img/onvkqjshInVA3UcW.jpg" alt="Autonomous Persona Simulator with Jev (System-1) + GPT (System-2) · 原帖视频截图" width="100%"></a>

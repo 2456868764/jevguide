@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 173 | 69 | 104 | 419K |
+| 175 | 69 | 106 | 419K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/0xSpikez/status/2103054584474206511">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/PolyaxonAI/status/2103063604308451494"><img src="https://pbs.twimg.com/media/HS-VFd2WMAAjvDi?format=jpg&amp;name=medium" alt="Train a Jev-style Decision Classifier on Polyaxon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PolyaxonAI/status/2103063604308451494">Train a Jev-style Decision Classifier on Polyaxon</a></h3>
+<p>This tutorial demonstrates training a Qwen LoRA adapter as a Jev-like decision classifier in a Polyaxon GPU job, logging its lineage, validating held-out routing cases, and serving it with vLLM.</p>
+<p><strong>中文摘要：</strong>本教程演示如何在Polyaxon GPU任务中将Qwen LoRA适配器训练为类似Jev的决策分类器，记录血缘，验证留出路由案例，并使用vLLM进行服务。</p>
+<p><strong>polyaxon</strong> · @PolyaxonAI · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 26</p>
+<p><a href="https://x.com/PolyaxonAI/status/2103063604308451494">在 X 查看原帖</a> · <a href="https://t.co/KoJaQ9QTFN">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/jerrycxu/status/2102963513039683840"><img src="https://pbs.twimg.com/tweet_video_thumb/HS858-NXoAAQxCX.jpg" alt="tab-jev: A Jev-like Model Combined with a Tabular Foundation Model for In-Context Learning · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/jerrycxu/status/2102963513039683840">在 X 查看原帖</a> · <a href="https://t.co/4NtasEtLeB">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/picocreator/status/2102973326226546956"><img src="https://pbs.twimg.com/media/HS9C8Q_a0AAG9QO?format=jpg&amp;name=medium" alt="Jev model prompt format and inference code guide · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/picocreator/status/2102973326226546956">在 X 查看原帖</a> · <a href="https://t.co/NQBQv6tyGs">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/intentplex/status/2103019292186874187"><img src="https://pbs.twimg.com/media/HS9sx2hXsAAvhMD?format=jpg&amp;name=medium" alt="Risetive: The Best Jev Project Directory · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/intentplex/status/2103019292186874187">在 X 查看原帖</a> · <a href="https://t.co/pBs3t2ye0z">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/webbobpaco/status/2103007800842756496"><img src="https://pbs.twimg.com/media/HS9iFZjaoAAj6a4?format=jpg&amp;name=medium" alt="Jev Research Index Launched · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>webbob</strong> · @webbobpaco · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/webbobpaco/status/2103007800842756496">在 X 查看原帖</a> · <a href="https://t.co/DN0bnpnwq7">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/buildAgoat/status/2103082014966476994"><img src="https://pbs.twimg.com/media/HS68Hc5bYAAwDw5?format=jpg&amp;name=medium" alt="Jev core in ~25 lines of Python: small local GGUF and logit-based decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/buildAgoat/status/2103082014966476994">Jev core in ~25 lines of Python: small local GGUF and logit-based decisions</a></h3>
+<p>Build A Goat shares NobodyWho&#39;s post demonstrating the core idea of Jev in about 25 lines of Python: loading a small local GGUF, giving labeled choices, reading next-token logits, and converting them into probabilities for typed decisions.</p>
+<p><strong>中文摘要：</strong>Build A Goat 转发 NobodyWho 的示例，展示如何用约25行 Python 实现 Jev 的核心思想：加载小型本地 GGUF，提供标签选项，读取 next-token logits 并转为概率，从而实现类型化 AI 决策。</p>
+<p><strong>Build A Goat</strong> · @buildAgoat · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/buildAgoat/status/2103082014966476994">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/plastikelectrik/status/2102985979082797226"><img src="https://pbs.twimg.com/media/HS9OTkyXAAAnMF0?format=jpg&amp;name=medium" alt="JEV Quickstart Kit: Start Shipping in 15 Minutes · 原帖图片" width="100%"></a>

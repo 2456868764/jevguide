@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2886</strong><br>curated posts</td>
-<td align="center"><strong>1552</strong><br>original videos</td>
+<td align="center"><strong>2916</strong><br>curated posts</td>
+<td align="center"><strong>1566</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,39 +28,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>343</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>346</strong> showcases · <strong>154</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>321</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>324</strong> showcases · <strong>177</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
+<td width="33%" valign="top">
+<h3><a href="categories/community-builds.md">Community builds</a></h3>
+<p><sub>社区实践</sub></p>
+<p><strong>305</strong> showcases · <strong>126</strong> videos</p>
+<p><a href="categories/community-builds.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
 <p><strong>298</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/community-builds.md">Community builds</a></h3>
-<p><sub>社区实践</sub></p>
-<p><strong>296</strong> showcases · <strong>122</strong> videos</p>
-<p><a href="categories/community-builds.md">Open category →</a></p>
-</td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>268</strong> showcases · <strong>206</strong> videos</p>
+<p><strong>269</strong> showcases · <strong>207</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>208</strong> showcases · <strong>115</strong> videos</p>
+<p><strong>214</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>189</strong> showcases · <strong>100</strong> videos</p>
+<p><strong>191</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>173</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>175</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>112</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>114</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>72</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>17</strong> showcases · <strong>8</strong> videos</p>
+<p><strong>18</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2103080756784558273"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794596556410880/img/fJC3rEvN_qiqEvwv.jpg" alt="Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2103080756784558273">Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team</a></h3>
+<p>This setup uses Hermes, Claude Opus 5.5, and Jev to automatically identify where businesses lose customers, calculate the cost of those gaps, respond to leads 24/7, follow up until they reply, and then pass interested leads to the owner. Full setup guide below.</p>
+<p><strong>17K</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 18 &nbsp; 📊 17K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/skel/status/2103080626698207572"><img src="https://pbs.twimg.com/amplify_video_thumb/2103079940308766720/img/CVQtHatD5ARyfilc.jpg" alt="Developer praises JEV&#39;s quick wit in arena · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/skel/status/2103080626698207572">Developer praises JEV&#39;s quick wit in arena</a></h3>
+<p>SKEL shows a win over Claude on tournament.com and thanks TypeSafe AI&#39;s JEV for bringing quick wit to the stack.</p>
+<p><strong>7.1K</strong> views · 💬 72 &nbsp; 🔁 42 &nbsp; ♡ 198 &nbsp; 📊 7.1K</p>
+<p><strong>SKEL</strong> · @skel</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
 <a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
 <p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
@@ -213,29 +231,11 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/cyrilXBT/status/2102963791973749060">Beacon on Jev fixes coding agents&#39; memory</a></h3>
 <p>Coding agents forget every fix and lesson when a session ends. Beacon, an open-source solution running on Jev, addresses this.</p>
 <p><strong>2.8K</strong> views · 💬 6 &nbsp; 🔁 10 &nbsp; ♡ 47 &nbsp; 📊 2.8K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/shota7180/status/2103001636230799564"><img src="https://pbs.twimg.com/media/HS83_cObQAA8CWz?format=jpg&amp;name=medium" alt="30 Easy Initial Judgments to Entrust to Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shota7180/status/2103001636230799564">30 Easy Initial Judgments to Entrust to Jev</a></h3>
-<p>For those who want to leave decisions to AI but don&#39;t know where to start, here are 30 initial judgments suitable for Jev, organized into three patterns: choose, measure, and verify.</p>
-<p><strong>2.5K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 2.5K</p>
-<p><strong>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</strong> · @shota7180</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2103054360406368487"><img src="https://pbs.twimg.com/amplify_video_thumb/2103054343494885376/img/LN5uoMVFJgSrqJ4Z.jpg" alt="Jev isolates faulty nodes, avoiding full agent restarts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2103054360406368487">Jev isolates faulty nodes, avoiding full agent restarts</a></h3>
-<p>Jev patches only the broken part while the rest of the workflow keeps moving, saving compute and improving speed.</p>
-<p><strong>1.8K</strong> views · 💬 2 &nbsp; 🔁 8 &nbsp; ♡ 31 &nbsp; 📊 1.8K</p>
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
-<p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
-<p><strong>5.7K</strong> views · 💬 11 &nbsp; 🔁 19 &nbsp; ♡ 208 &nbsp; 📊 5.7K</p>
-<p><strong>TypeSafe AI</strong> · @typesafeai</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/RoundtableSpace/status/2103080756784558273"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794596556410880/img/fJC3rEvN_qiqEvwv.jpg" alt="Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RoundtableSpace/status/2103080756784558273">Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team</a></h3>
+<p>This setup uses Hermes, Claude Opus 5.5, and Jev to automatically identify where businesses lose customers, calculate the cost of those gaps, respond to leads 24/7, follow up until they reply, and then pass interested leads to the owner. Full setup guide below.</p>
+<p><strong>17K</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 18 &nbsp; 📊 17K</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2103054360406368487"><img src="https://pbs.twimg.com/amplify_video_thumb/2103054343494885376/img/LN5uoMVFJgSrqJ4Z.jpg" alt="Jev isolates faulty nodes, avoiding full agent restarts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2103054360406368487">Jev isolates faulty nodes, avoiding full agent restarts</a></h3>
-<p>Jev patches only the broken part while the rest of the workflow keeps moving, saving compute and improving speed.</p>
-<p><strong>1.8K</strong> views · 💬 2 &nbsp; 🔁 8 &nbsp; ♡ 31 &nbsp; 📊 1.8K</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2102963791973749060">Beacon on Jev fixes coding agents&#39; memory</a></h3>
+<p>Coding agents forget every fix and lesson when a session ends. Beacon, an open-source solution running on Jev, addresses this.</p>
+<p><strong>2.8K</strong> views · 💬 6 &nbsp; 🔁 10 &nbsp; ♡ 47 &nbsp; 📊 2.8K</p>
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/DataChaz/status/2103019099051753870"><img src="https://pbs.twimg.com/amplify_video_thumb/2103018978763313152/img/MO140qWeDyoQDcNF.jpg" alt="Train your own Jev in minutes for $17 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DataChaz/status/2103019099051753870">Train your own Jev in minutes for $17</a></h3>
-<p>This post introduces training your own Jev model in minutes for $17.</p>
-<p><strong>1.4K</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 13 &nbsp; 📊 1.4K</p>
-<p><strong>Charly Wargnier ♨️</strong> · @DataChaz</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/shota7180/status/2103001636230799564"><img src="https://pbs.twimg.com/media/HS83_cObQAA8CWz?format=jpg&amp;name=medium" alt="30 Easy Initial Judgments to Entrust to Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shota7180/status/2103001636230799564">30 Easy Initial Judgments to Entrust to Jev</a></h3>
+<p>For those who want to leave decisions to AI but don&#39;t know where to start, here are 30 initial judgments suitable for Jev, organized into three patterns: choose, measure, and verify.</p>
+<p><strong>2.5K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 2.5K</p>
+<p><strong>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</strong> · @shota7180</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/jasonzhou1993/status/2102980957934645635"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev for Ads Analysis · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jasonzhou1993/status/2102980957934645635">Jev for Ads Analysis</a></h3>
-<p>The user notes that combining @treg_ai with Jev works well for ads analysis.</p>
-<p><strong>714</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 714</p>
-<p><strong>Jason Zhou</strong> · @jasonzhou1993</p>
+<a href="https://x.com/chrisbrownridge/status/2102977990921789714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev Demo: Quickly Analyze Meta Ads and Landing Pages · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/chrisbrownridge/status/2102977990921789714">Jev Demo: Quickly Analyze Meta Ads and Landing Pages</a></h3>
+<p>Fetch Meta ads with treg, then use Jev to tear down landing pages fast — categorizing page types, offers, and sales copy to understand where brands send traffic.</p>
+<p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.1K</p>
+<p><strong>Chris Brownridge</strong> · @chrisbrownridge</p>
 </td>
 </tr>
 </table>

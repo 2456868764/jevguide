@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 109 | 73 | 36 | 595K |
+| 111 | 73 | 38 | 595K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/jasonzhou1993/status/2103012229268529523">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/project_oka/status/2103025493457215990"><img src="https://pbs.twimg.com/media/HS9yftnbYAAJXzW?format=jpg&amp;name=medium" alt="Diagram of JEV and AI API Collaboration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/project_oka/status/2103025493457215990">Diagram of JEV and AI API Collaboration</a></h3>
+<p>The author oka illustrates a concept combining JEV with AI APIs: JEV decides what to do, and calls AI APIs only when needed for text generation, summarization, or answers, making it more practical for AI agents and business automation.</p>
+<p><strong>中文摘要：</strong>作者oka展示了JEV与AI API组合的构想：JEV判断任务方向，仅在必要时调用AI API生成文本、摘要或回答，从而在AI代理和业务自动化中更实用。</p>
+<p><strong>oka@個人開発</strong> · @project_oka · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/project_oka/status/2103025493457215990">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/MilkMendy/status/2102983218022527315"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102983041857597440/pu/img/zxRLD993lAL7_DyX.jpg" alt="Jev: A Faster, Cheaper Alternative for Business Models · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>Mendy</strong> · @MilkMendy · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/MilkMendy/status/2102983218022527315">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SignalLedgerX/status/2103054337031209229"><img src="https://pbs.twimg.com/media/HS9dM5RXsAA7zfH?format=jpg&amp;name=medium" alt="Jev Gives OK, Qwen Deep-Dives into Companies · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SignalLedgerX/status/2103054337031209229">Jev Gives OK, Qwen Deep-Dives into Companies</a></h3>
+<p>When Jev approves, Qwen takes over to analyze companies in depth—context, signals, pain points, buyers, sales angle, discovery questions, and opportunity framing.</p>
+<p><strong>中文摘要：</strong>当 Jev 确认后，Qwen 介入并深入研究企业：背景、信号、痛点、买家、销售角度、发现问题和机会构建。</p>
+<p><strong>Signal Ledger</strong> · @SignalLedgerX · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/SignalLedgerX/status/2103054337031209229">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

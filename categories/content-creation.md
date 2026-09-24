@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 63 | 52 | 14 | 101K |
+| 65 | 54 | 14 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/monospodcast/status/2103019099542704432"><img src="https://pbs.twimg.com/amplify_video_thumb/2103009842411487232/img/tAMeuM4txe5rMy8l.jpg" alt="Today&#39;s Podcast: AI Agents and Jev Classification Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/monospodcast/status/2103019099542704432">Today&#39;s Podcast: AI Agents and Jev Classification Model</a></h3>
+<p>The full episode discusses the rise of personal AI agents like Instinct, Grok Bot, and Muse, Jev as a classification AI model, early vibes of Opus 5.5 and GPT-6 Sol, plus the sad story of Kalise&#39;s Uruguayan polvito ice cream.</p>
+<p><strong>中文摘要：</strong>完整节目探讨个人AI代理的兴起（如Instinct、Grok Bot和Muse）、Jev分类AI模型，以及Opus 5.5和GPT-6 Sol的初步印象，还提到乌拉圭Kalise冰淇淋粉的悲伤故事。</p>
+<p><strong>monos estocásticos</strong> · @monospodcast · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 385</p>
+<p><a href="https://x.com/monospodcast/status/2103019099542704432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yachimat_manga/status/2103055053531627712"><img src="https://pbs.twimg.com/amplify_video_thumb/2102343578282336256/img/9sh-z9QkKvYhSphb.jpg" alt="Jev Anime Production Tutorial to Be Held on TapNow Discord · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yachimat_manga/status/2103055053531627712">Jev Anime Production Tutorial to Be Held on TapNow Discord</a></h3>
+<p>A tutorial on using Jev for anime production will be held on the TapNow Discord, covering Jev&#39;s current capabilities, their impact on anime production, and a recap of TapNow&#39;s new features.</p>
+<p><strong>中文摘要：</strong>在 TapNow Discord 举办使用 Jev 进行动画制作的教程，讲解 Jev 目前的能力及对动画制作现场的影响，并回顾 TapNow 的新功能。</p>
+<p><strong>yachimat - AI Short Anime</strong> · @yachimat_manga · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 240</p>
+<p><a href="https://x.com/yachimat_manga/status/2103055053531627712">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Coquelicots_WoT/status/2102755343227060391"><img src="https://pbs.twimg.com/media/HS58qtwaIAEjzZs?format=jpg&amp;name=medium" alt="Creating AI Characters with Jev? · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 180 | 95 | 88 | 1.1M |
+| 184 | 96 | 91 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/snkrs_hack/status/2102971121700421908">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/urdav3/status/2103052358054035475"><img src="https://pbs.twimg.com/media/HS-K71faoAAysZO?format=png&amp;name=small" alt="Jev is now available via the B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/urdav3/status/2103052358054035475">Jev is now available via the B.AI API</a></h3>
+<p>Jev, TypeSafe AI&#39;s System One model, is now available through the B.AI API, bringing fast, structured, typed decisions to software.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 System One 模型 Jev 现已通过 B.AI API 提供，为软件带来快速、结构化、类型化的决策能力。</p>
+<p><strong>Dav3 (Ø,G)</strong> · @urdav3 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 99</p>
+<p><a href="https://x.com/urdav3/status/2103052358054035475">在 X 查看原帖</a> · <a href="https://t.co/RuPihQifZy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/redhotcyber/status/2103001916926046693"><img src="https://pbs.twimg.com/media/HS9dGXYWcAAhMuc?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: AI Moves from Talking to Deciding · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
 <p><a href="https://x.com/redhotcyber/status/2103001916926046693">在 X 查看原帖</a> · <a href="https://t.co/cyFE4uTHSC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ASIHubHQ/status/2102973444140712331"><img src="https://pbs.twimg.com/media/HS9CS0pX0AA-V8o?format=png&amp;name=medium" alt="TypeSafe AI Launches Jev: Sub-100ms System 1 Decision Engine · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
 <p><a href="https://x.com/ASIHubHQ/status/2102973444140712331">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aigeeknews/status/2103020752585072982"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Model CLM Claims Up to 9x Faster Inference Than Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>AI 极客新闻</strong> · @aigeeknews · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/aigeeknews/status/2103020752585072982">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PlayerYN03/status/2103019856346128484"><img src="https://pbs.twimg.com/media/HS9taOpbsAAt_hx?format=jpg&amp;name=medium" alt="Open-source CLM challenges closed Jev: 4-13x faster, 75MB finetunable · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PlayerYN03/status/2103019856346128484">Open-source CLM challenges closed Jev: 4-13x faster, 75MB finetunable</a></h3>
+<p>Open-source CLM is a drop-in replacement for TypeSafe Jev, implementing the same Choice, Noul, and Score primitives. Existing Jev clients can point to clm-serve directly. It&#39;s 4-13x faster, only 75MB, and finetunable.</p>
+<p><strong>中文摘要：</strong>开源CLM作为TypeSafe Jev的替代品，实现相同的Choice、Noul、Score决策原语，现有Jev客户端可直接指向clm-serve端点，速度提升4-13倍，体积仅75MB且可微调。</p>
+<p><strong>0xYN｜Web3 x Ai</strong> · @PlayerYN03 · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
+<p><a href="https://x.com/PlayerYN03/status/2103019856346128484">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -127,6 +151,30 @@
 <p><strong>Ernest</strong> · @Starwatcher_vc · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/Starwatcher_vc/status/2103024787895271495">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alejmaestre/status/2103019216840564815"><img src="https://pbs.twimg.com/media/HS9sdtAXIAEGBjH?format=jpg&amp;name=medium" alt="Bonsai-Llama-Jev is now open source · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alejmaestre/status/2103019216840564815">Bonsai-Llama-Jev is now open source</a></h3>
+<p>Open source Bonsai-Llama-Jev brings typed decisions and runs locally on RTX 3090, achieving 76% accuracy across 22,000 cases, outperforming Von-1.1 and Laya, nearly as good as Jev but free and local.</p>
+<p><strong>中文摘要：</strong>开源模型Bonsai-Llama-Jev发布，支持类型化决策，可在RTX 3090上本地运行，在22,000个案例中达到76%准确率，优于Von-1.1和Laya，接近Jev但免费且本地化。</p>
+<p><strong>Alejandro Maestre | AI</strong> · @alejmaestre · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/alejmaestre/status/2103019216840564815">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aiassistantstor/status/2103054853383536798"><img src="https://pbs.twimg.com/amplify_video_thumb/2103054676333608960/img/QVqUidjgPzznOPXf.jpg" alt="CLM-8B Released: Claims to Be Up to 9× Faster Than Jev for Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aiassistantstor/status/2103054853383536798">CLM-8B Released: Claims to Be Up to 9× Faster Than Jev for Agents</a></h3>
+<p>A new open AI model, CLM-8B, has been released, claiming to be up to 9× faster than Jev for agent tasks.</p>
+<p><strong>中文摘要：</strong>新开源 AI 模型 CLM-8B 发布，宣称在智能体任务上，速度比 Jev 快最多 9 倍。</p>
+<p><strong>aiasssistantstore</strong> · @aiassistantstor · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><a href="https://x.com/aiassistantstor/status/2103054853383536798">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

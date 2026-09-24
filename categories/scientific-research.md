@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 41 | 17 | 25 | 136K |
+| 43 | 17 | 27 | 136K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Dorian Smiley</strong> · @dsmiley411 · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
 <p><a href="https://x.com/dsmiley411/status/2102969386978234550">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HEI/status/2103052792147456510"><img src="https://pbs.twimg.com/media/HS-LXrtWgAADxj0?format=png&amp;name=medium" alt="Jev Model Used for Probabilistic Analysis of Police Crash Narratives · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HEI/status/2103052792147456510">Jev Model Used for Probabilistic Analysis of Police Crash Narratives</a></h3>
+<p>This paper demonstrates how to use TypeSafe&#39;s System One model (Jev) to convert police crash narratives into probabilistic crash variables for calibrated decisions at scale.</p>
+<p><strong>中文摘要：</strong>该论文展示如何使用 TypeSafe 的 System One 模型（Jev）将警方事故叙述转换为概率性事故变量，实现大规模校准决策。</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/HEI/status/2103052792147456510">在 X 查看原帖</a> · <a href="https://t.co/I8GRp1w1oi">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/benchmarkheaven/status/2103052349866455294"><img src="https://pbs.twimg.com/media/HS-K75AXsAAvFVi?format=jpg&amp;name=medium" alt="Jev-Omni edges Jev 1.13.0 on benchmark hard tier · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/benchmarkheaven/status/2103052349866455294">Jev-Omni edges Jev 1.13.0 on benchmark hard tier</a></h3>
+<p>Benchmark Heaven reports Jev-Omni in v1.4.1 scores 75.0% in hard tier vs 74.1% for Jev 1.13.0; however, it trails on sealed set (32.1% vs 36.7%), calibration (64.1 vs 76.3), and overall score (51.34, #7 vs 63.29, #1). Close answers, but not confidence.</p>
+<p><strong>中文摘要：</strong>Benchmark Heaven 测试显示，v1.4.1 的 Jev-Omni 在 hard tier 准确率 75.0%，高于 Jev 1.13.0 的 74.1%；但在 sealed set、校准和综合评分上均落后，评分 51.34（第 7）对 63.29（第 1）。答案接近，但置信度差距明显。</p>
+<p><strong>Benchmark Heaven</strong> · @benchmarkheaven · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/benchmarkheaven/status/2103052349866455294">在 X 查看原帖</a> · <a href="https://t.co/hMmtVvfQOw">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/AbdelStark/status/2102675806027755724"><img src="https://pbs.twimg.com/media/HS40OL1XkAE6pNj?format=jpg&amp;name=medium" alt="LeJudge: JEPA x Jev World-Model Planning Experiment · 原帖图片" width="100%"></a>

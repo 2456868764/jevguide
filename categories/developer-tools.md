@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 312 | 172 | 142 | 3.6M |
+| 316 | 173 | 145 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DataChaz/status/2103019099051753870"><img src="https://pbs.twimg.com/amplify_video_thumb/2103018978763313152/img/MO140qWeDyoQDcNF.jpg" alt="Train your own Jev in minutes for $17 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DataChaz/status/2103019099051753870">Train your own Jev in minutes for $17</a></h3>
+<p>This post introduces training your own Jev model in minutes for $17.</p>
+<p><strong>中文摘要：</strong>该帖子介绍以17美元的价格，在几分钟内训练自己的Jev模型。</p>
+<p><strong>Charly Wargnier ♨️</strong> · @DataChaz · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 13 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/DataChaz/status/2103019099051753870">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/dealerdefi/status/2102962979960758349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902808106131456/img/GqL560Pop00x-8PM.jpg" alt="Leaked: The JEV Stack I Run My Agents On · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 542</p>
 <p><a href="https://x.com/dealerdefi/status/2102962979960758349">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oliviscusAI/status/2102982556966945100"><img src="https://pbs.twimg.com/amplify_video_thumb/2102982449915629568/img/4lkG2yAearXysm3H.jpg" alt="Grok-Jev Reflex: Open-Source Router Combining Grok 4.7 and Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 291</p>
 <p><a href="https://x.com/oliviscusAI/status/2102982556966945100">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
 <p><a href="https://x.com/QingQ77/status/2102969271613526232">在 X 查看原帖</a> · <a href="https://t.co/b4SIObq2c1">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ersinkoc/status/2103018230696575296"><img src="https://pbs.twimg.com/media/HS9r7peXkAADMm7?format=jpg&amp;name=medium" alt="Integrating TypeSage Jev Models into WrongStack · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ersinkoc/status/2103018230696575296">Integrating TypeSage Jev Models into WrongStack</a></h3>
+<p>The author added a tool named jev in WrongStack to query TypeSage Jev models when needed and proceed based on the answers, working very well.</p>
+<p><strong>中文摘要：</strong>作者在WrongStack中添加了名为jev的工具，可在需要时向TypeSage Jev模型提问并根据回答推进，效果很好。</p>
+<p><strong>Ersin KOÇ</strong> · @ersinkoc · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 183</p>
+<p><a href="https://x.com/ersinkoc/status/2103018230696575296">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2103030172542783546"><img src="https://pbs.twimg.com/media/HS9PNjRaMAA3P2C?format=jpg&amp;name=medium" alt="Jev browser tool and Codex: trade-offs of a low-cost click proxy · 原帖图片" width="100%"></a>
@@ -83,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/CartwrightApp/status/2103019324093161722"><img src="https://pbs.twimg.com/media/HS9skgeXsAAOQ9F?format=jpg&amp;name=medium" alt="Cortex: A Local MCP Server Cuts Computer Use from 23s to 0.8s · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CartwrightApp/status/2103019324093161722">Cortex: A Local MCP Server Cuts Computer Use from 23s to 0.8s</a></h3>
+<p>Cartwright built Cortex, a local MCP server: Claude plans, a fast layer does the clicking. Same Mac-app task: computer use 23 s → Cortex 0.8 s; one action ~5 s Claude round → 0.25 s without a model. 24 tools: browser, Mac apps, GitHub search, safety gate. Linked to @typesafeai #JEV.</p>
+<p><strong>中文摘要：</strong>Cartwright 构建了 Cortex，一个本地 MCP 服务器：Claude 负责规划，快速层执行点击。实测同一 Mac 应用任务从 23 秒降至 0.8 秒；单次操作约 5 秒的 Claude 往返缩短到 0.25 秒且不依赖模型。内置 24 个工具（浏览器、Mac 应用、GitHub 搜索等）和安全闸门。帖子关联 @typesafeai #JEV。</p>
+<p><strong>Cartwright</strong> · @CartwrightApp · 2026-09-24</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 37</p>
+<p><a href="https://x.com/CartwrightApp/status/2103019324093161722">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/weidatan0/status/2103023533400191368"><img src="https://pbs.twimg.com/amplify_video_thumb/2103023479004237824/img/ROZw3PQovt2Arx3i.jpg" alt="Fixing Codex and Claude Code Search with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
 <p><a href="https://x.com/weidatan0/status/2103023533400191368">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TypeLLM/status/2103007504494108949"><img src="https://pbs.twimg.com/media/HS9h_SGbkAAC-VQ?format=jpg&amp;name=medium" alt="TypeLLM Supports Native Numerical Outputs, Filling Jev Model Gap · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/TypeLLM/status/2103007504494108949">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JackdeS11/status/2103027532241175014"><img src="https://pbs.twimg.com/amplify_video_thumb/2103027470207422464/img/BWgnDEPnvQU9EfHO.jpg" alt="Local Models vs Jev: Accuracy Comparison Experiment · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/JackdeS11/status/2103027532241175014">在 X 查看原帖</a> · <a href="https://t.co/hOlnJVLfwJ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102991417392218335"><img src="https://pbs.twimg.com/amplify_video_thumb/2102115729432522752/img/YA1bKtf3SghRN5qp.jpg" alt="Jev: $0.042 per 1M input tokens, output free · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>belorix</strong> · @0xbelorix · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/0xbelorix/status/2102991417392218335">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/khaskydev/status/2103016868772811169"><img src="https://pbs.twimg.com/media/HS9qsQ2akAAHeP4?format=jpg&amp;name=medium" alt="Jev Skill Suggestion Mod: Pick One Skill per Prompt · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/khaskydev/status/2103016868772811169">Jev Skill Suggestion Mod: Pick One Skill per Prompt</a></h3>
+<p>Khasky shares a new Claude Code mod, Jev Skill Suggestion, which lets TypeSafe&#39;s Jev pick at most one skill per prompt instead of listing all skills. The author counted 5,496 fewer input tokens with 40 skills.</p>
+<p><strong>中文摘要：</strong>Khasky 分享了一款新的 Claude Code 模组 Jev Skill Suggestion，它让 TypeSafe 的 Jev 在每次提示中最多选择一个技能，而不是列出所有技能。作者统计在 40 个技能下，输入令牌减少了 5,496 个。</p>
+<p><strong>Khasky</strong> · @khaskydev · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/khaskydev/status/2103016868772811169">在 X 查看原帖</a> · <a href="https://t.co/PjQbBMqMIT">原文链接</a></p>
 </td>
 </tr>
 <tr>

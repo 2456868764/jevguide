@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 199 | 109 | 91 | 3.0M |
+| 203 | 112 | 92 | 3.0M |
 
 ## Showcase 卡片
 
@@ -94,6 +94,30 @@
 <p><a href="https://x.com/LilysAI_/status/2102963245837606995">在 X 查看原帖</a> · <a href="https://t.co/aP9imHPFHX">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/briandonatiello/status/2103052171373957542"><img src="https://pbs.twimg.com/media/HS-KxqmXwAAX5og?format=jpg&amp;name=medium" alt="Testing JEV for AI agent routing: matching big models with a different prompt at one-third latency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/briandonatiello/status/2103052171373957542">Testing JEV for AI agent routing: matching big models with a different prompt at one-third latency</a></h3>
+<p>The author spent a day testing whether JEV could route AI agents better than major models. Initial results lost, but after changing the question format it tied them, at one-third the latency and a fraction of the cost. Includes full measurements and where it fails.</p>
+<p><strong>中文摘要：</strong>作者花了一天时间测试 JEV 是否能比主流大模型更好地路由 AI 代理。初期结果不如对方，但改变提问方式后打成平手，延迟降至三分之一，成本也大幅降低。帖中还分享了完整测量数据和失败场景。</p>
+<p><strong>Brian Donatiello</strong> · @briandonatiello · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/briandonatiello/status/2103052171373957542">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PaliwalMuskan19/status/2103020089180299386"><img src="https://pbs.twimg.com/amplify_video_thumb/2103019455400079360/img/aEWbhS6FPOZaCoTc.jpg" alt="Ranking agent skills with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PaliwalMuskan19/status/2103020089180299386">Ranking agent skills with Jev</a></h3>
+<p>A developer shares a self-built skill picker that uses Jev to rank 30+ agent skills for a task, quickly identifying useful ones.</p>
+<p><strong>中文摘要：</strong>开发者分享自建技能选择器，利用 Jev 对 30+ 智能体技能按任务排序，快速找到值得使用的技能。</p>
+<p><strong>Muskan Paliwal</strong> · @PaliwalMuskan19 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/PaliwalMuskan19/status/2103020089180299386">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/edwinfmesa/status/2102968654048715261"><img src="https://pbs.twimg.com/media/HS883fkXUAAzxxB?format=jpg&amp;name=medium" alt="Jev vs Laya: Different Choices in Security Queries · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -116,6 +140,30 @@
 <p><strong>echild</strong> · @eboppu · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 15</p>
 <p><a href="https://x.com/eboppu/status/2102982330998816874">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/icerdesign/status/2103052985878339855"><img src="https://pbs.twimg.com/amplify_video_thumb/2101934131974471680/img/s0MWmg55pdp3TS1l.jpg" alt="Jev-powered House Hunting Agent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/icerdesign/status/2103052985878339855">Jev-powered House Hunting Agent</a></h3>
+<p>One prompt lets Jev drive a real browser to scrape and filter listings across 4 rental platforms, returning 21 verified homes in 1m16s for $0.045.</p>
+<p><strong>中文摘要：</strong>一个提示词即可让Jev驱动真实浏览器，在4个租赁平台抓取并过滤房源，1分16秒内以0.045美元成本返回21条已验证的准确房源。</p>
+<p><strong>Wizard Glacier</strong> · @icerdesign · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/icerdesign/status/2103052985878339855">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/icerdesign/status/2103052983768666306"><img src="https://pbs.twimg.com/amplify_video_thumb/2102261082186452992/img/onvkqjshInVA3UcW.jpg" alt="Autonomous Persona Simulator with Jev (System-1) + GPT (System-2) · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/icerdesign/status/2103052983768666306">Autonomous Persona Simulator with Jev (System-1) + GPT (System-2)</a></h3>
+<p>Real-world figures (Marc Andreessen, Ilya, Peter Thiel) simulated as autonomous agents. System-1 (Jev) + System-2 (GPT) produce emergent personalities, authentic debates, and shared 3D graph updates.</p>
+<p><strong>中文摘要：</strong>真实世界人物（Marc Andreessen、Ilya、Peter Thiel）被模拟为自主代理。System-1 (Jev) 与 System-2 (GPT) 结合，产生涌现人格、真实辩论和共享 3D 图更新。</p>
+<p><strong>Wizard Glacier</strong> · @icerdesign · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/icerdesign/status/2103052983768666306">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/KeoGrowth/status/2102986389004620055"><img src="https://pbs.twimg.com/media/HS7lVBOWIAAAERd?format=jpg&amp;name=medium" alt="Jev: A Candidate for Agent Brains? · 原帖图片" width="100%"></a>

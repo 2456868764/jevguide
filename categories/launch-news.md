@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 169 | 91 | 81 | 1.1M |
+| 173 | 92 | 84 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/plotarmordev/status/2102987205413388560"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Jev Competitor CLM-8B Released · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/plotarmordev/status/2102987205413388560">New Jev Competitor CLM-8B Released</a></h3>
+<p>The post says the Stanford/NVIDIA team released CLM-8B (Apache 2.0), with performance comparable to Jev and up to 9x faster inference.</p>
+<p><strong>中文摘要：</strong>帖子称 Stanford/NVIDIA 团队发布开源模型 CLM-8B（Apache 2.0），性能可比 Jev，推理速度最快可达 9 倍。</p>
+<p><strong>netrunner</strong> · @plotarmordev · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 281</p>
+<p><a href="https://x.com/plotarmordev/status/2102987205413388560">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/snkrs_hack/status/2102971121700421908"><img src="https://pbs.twimg.com/media/HS9BFsdb0AARk5T?format=jpg&amp;name=large" alt="note Trend Radar (tentative) beta tester recruitment · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
 <p><a href="https://x.com/snkrs_hack/status/2102971121700421908">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ASIHubHQ/status/2102973444140712331"><img src="https://pbs.twimg.com/media/HS9CS0pX0AA-V8o?format=png&amp;name=medium" alt="TypeSafe AI Launches Jev: Sub-100ms System 1 Decision Engine · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,41 @@
 <p><strong>ASI Hub</strong> · @ASIHubHQ · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
 <p><a href="https://x.com/ASIHubHQ/status/2102973444140712331">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/packapun/status/2102958929294540818"><img src="https://pbs.twimg.com/media/HS815QMWUAA5wO8?format=png&amp;name=900x900" alt="TypeSafe Introduces System One Models and Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/packapun/status/2102958929294540818">TypeSafe Introduces System One Models and Jev</a></h3>
+<p>TypeSafe&#39;s new blog introduces System One models and Jev, adding a new member to its AI model family.</p>
+<p><strong>中文摘要：</strong>TypeSafe发布新博客，介绍了System One模型和Jev，标志其AI模型家族的新成员。</p>
+<p><strong>Packapun</strong> · @packapun · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/packapun/status/2102958929294540818">在 X 查看原帖</a> · <a href="https://t.co/6b27qd1Raw">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cryptofanz12/status/2102989803033604162"><img src="https://pbs.twimg.com/media/HS9SE0wa0AAfz2h?format=jpg&amp;name=medium" alt="Jev: Turning AI into a Structured Decision Layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cryptofanz12/status/2102989803033604162">Jev: Turning AI into a Structured Decision Layer</a></h3>
+<p>As the first System One model launched by @typesafeai, Jev is designed for software that needs fast, structured decisions—not text generation.</p>
+<p><strong>中文摘要：</strong>由 @typesafeai 推出的首个 System One 模型，Jev 专为需要快速、结构化决策的软件设计，而非生成大段文本。</p>
+<p><strong>CRYPTOFANZ💜💎</strong> · @cryptofanz12 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/cryptofanz12/status/2102989803033604162">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ABNewswire/status/2102960210612809840"><img src="https://pbs.twimg.com/media/HS83Km8aoAANr0p?format=jpg&amp;name=medium" alt="Jev Brings Fast, Structured Decision-Making to AI Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ABNewswire/status/2102960210612809840">Jev Brings Fast, Structured Decision-Making to AI Workflows</a></h3>
+<p>Press release: Jev delivers fast, structured decision-making for AI workflows.</p>
+<p><strong>中文摘要：</strong>新闻稿称Jev可为AI工作流提供快速且结构化的决策支持。</p>
+<p><strong>ABNewswire</strong> · @ABNewswire · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/ABNewswire/status/2102960210612809840">在 X 查看原帖</a> · <a href="https://t.co/QpU506z58L">原文链接</a></p>
 </td>
 </tr>
 <tr>

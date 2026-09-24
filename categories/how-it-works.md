@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 327 | 149 | 179 | 1.6M |
+| 331 | 150 | 182 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
+<p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
+<p><strong>中文摘要：</strong>该推文来自 TypeSafe AI，内容为“LLMs distilling Jev like”，可能涉及 Jev 模型的蒸馏技术。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-09-24</p>
+<p>💬 11 &nbsp; 🔁 19 &nbsp; ♡ 208 &nbsp; 📊 5.7K</p>
+<p><a href="https://x.com/typesafeai/status/2102965218720756045">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/adam_x_mentis/status/2102966691072180373"><img src="https://pbs.twimg.com/media/HS89DwnXsAABZuN?format=jpg&amp;name=medium" alt="Agentic Pipeline Architecture with Jev at the Core · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/adam_x_mentis/status/2102966691072180373">Agentic Pipeline Architecture with Jev at the Core</a></h3>
+<p>The post showcases an agentic pipeline architecture centered on TypeSafe AI&#39;s Jev super-fast decision engine, calling it &#39;Massive!&#39;</p>
+<p><strong>中文摘要：</strong>该帖子展示了以TypeSafe AI的Jev超快决策引擎为核心的代理管道架构，并称其将‘十分庞大’。</p>
+<p><strong>Mentis 🇦🇺</strong> · @adam_x_mentis · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 80</p>
+<p><a href="https://x.com/adam_x_mentis/status/2102966691072180373">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/benkyo7772/status/2102989962799181829"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="CLM as a More Generalized System One Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/benkyo7772/status/2102989962799181829">CLM as a More Generalized System One Model</a></h3>
+<p>The author suggests CLM is not the next generation of Jev, but rather a more generalized System One model for agents; its core is not just returning Noul/Choice/Score, but goes further (text truncated).</p>
+<p><strong>中文摘要：</strong>作者认为CLM并非Jev的下一代，而是面向智能体的更通用System One模型；其核心不只是返回Noul/Choice/Score，而是更进一步（原文未完整展示）。</p>
+<p><strong>AIと対話する愚者</strong> · @benkyo7772 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
+<p><a href="https://x.com/benkyo7772/status/2102989962799181829">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GeethanTech/status/2102965161426600445"><img src="https://pbs.twimg.com/media/HS87osGaUAAdkiJ?format=jpg&amp;name=medium" alt="Jev returns bounded choices instead of prose · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GeethanTech/status/2102965161426600445">Jev returns bounded choices instead of prose</a></h3>
+<p>GeethanTech analyzes TypeSafe&#39;s Jev model: it outputs bounded choices, scores, and probabilities to limit out-of-schema output, while noting speed and cost claims still require independent testing.</p>
+<p><strong>中文摘要：</strong>GeethanTech 分析 TypeSafe 的 Jev 模型：输出有界选择、分数和概率，减少越界输出，但声称的速度和成本优势仍需独立验证。</p>
+<p><strong>GeethanTech</strong> · @GeethanTech · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/GeethanTech/status/2102965161426600445">在 X 查看原帖</a> · <a href="https://t.co/1yHo3tQaSD">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xchromium/status/2102777619838075200"><img src="https://pbs.twimg.com/amplify_video_thumb/2102776598277586944/img/lw97d8udFifVPXGN.jpg" alt="TypeSafe AI CEO on Jev task design · 原帖视频截图" width="100%"></a>

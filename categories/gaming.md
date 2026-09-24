@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 261 | 200 | 65 | 588K |
+| 263 | 202 | 65 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shotatykr/status/2102959775864778841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102377370439348224/img/9nFlUY1m8KL2e8Ak.jpg" alt="Building an AI Game Opponent with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shotatykr/status/2102959775864778841">Building an AI Game Opponent with Jev</a></h3>
+<p>A developer uses Codex to create a game, passing the current game state and available actions to Jev, which plays the opponent role.</p>
+<p><strong>中文摘要：</strong>开发者使用Codex制作游戏，将当前游戏状态和可选行动传给Jev，由Jev扮演游戏中的对手。</p>
+<p><strong>豊藏 翔太@ThinkMove Inc.</strong> · @shotatykr · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 364</p>
+<p><a href="https://x.com/shotatykr/status/2102959775864778841">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Pitofuii/status/2102967721042547007"><img src="https://pbs.twimg.com/amplify_video_thumb/2102967057650429952/img/B_OkN7E5QzkS4JBE.jpg" alt="Using Jev for Real-Time Agent Battles in Games · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Pitofuii/status/2102967721042547007">Using Jev for Real-Time Agent Battles in Games</a></h3>
+<p>A developer integrated TypeSafe&#39;s Jev into a game and ran it with Sonnet Fast, addressing the issue of slow AI agent response times in real-time battles.</p>
+<p><strong>中文摘要：</strong>开发者将 TypeSafe 的 Jev 接入游戏，并用 Sonnet Fast 运行，解决了以往 AI Agent 实时对战响应慢的问题。</p>
+<p><strong>Pitofui</strong> · @Pitofuii · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Pitofuii/status/2102967721042547007">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Oluwaphilemon1/status/2102586728552845631"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local System One model Laya beats cloud-based Jev at Tetris · 原帖视频截图" width="100%"></a>

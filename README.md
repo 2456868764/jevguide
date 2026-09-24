@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2696</strong><br>curated posts</td>
-<td align="center"><strong>1476</strong><br>original videos</td>
+<td align="center"><strong>2732</strong><br>curated posts</td>
+<td align="center"><strong>1492</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>327</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>331</strong> showcases · <strong>150</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>301</strong> showcases · <strong>167</strong> videos</p>
+<p><strong>304</strong> showcases · <strong>169</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>293</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>295</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>261</strong> showcases · <strong>200</strong> videos</p>
+<p><strong>263</strong> showcases · <strong>202</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>243</strong> showcases · <strong>102</strong> videos</p>
+<p><strong>252</strong> showcases · <strong>106</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>189</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>194</strong> showcases · <strong>108</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>169</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>173</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>160</strong> showcases · <strong>67</strong> videos</p>
+<p><strong>163</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>24</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -168,13 +168,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>16</strong> showcases · <strong>8</strong> videos</p>
+<p><strong>17</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>13</strong> showcases · <strong>6</strong> videos</p>
+<p><strong>14</strong> showcases · <strong>7</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102969271613526232">Project lets Jev dynamically choose reasoning level before generation</a></h3>
-<p>Introduces an open-source project that solves the issue where Codex&#39;s reasoning level is locked during execution, causing high token consumption even when reading files. It allows Jev to reselect the appropriate reasoning level before each generation.</p>
-<p><strong>196</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
+<p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
+<p><strong>5.7K</strong> views · 💬 11 &nbsp; 🔁 19 &nbsp; ♡ 208 &nbsp; 📊 5.7K</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/dsmiley411/status/2102970671383134572"><img src="https://pbs.twimg.com/media/HS9Ao1BacAAw0Ri?format=png&amp;name=small" alt="Jev free credits exhausted: $5 for 123M tokens, user amazed at the low cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dsmiley411/status/2102970671383134572">Jev free credits exhausted: $5 for 123M tokens, user amazed at the low cost</a></h3>
-<p>User Dorian Smiley says he has used up Jev&#39;s $5 free credit, processing 123M tokens, and marvels at how cheap it is.</p>
-<p><strong>150</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 150</p>
-<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2102963791973749060">Beacon on Jev fixes coding agents&#39; memory</a></h3>
+<p>Coding agents forget every fix and lesson when a session ends. Beacon, an open-source solution running on Jev, addresses this.</p>
+<p><strong>2.8K</strong> views · 💬 6 &nbsp; 🔁 10 &nbsp; ♡ 47 &nbsp; 📊 2.8K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/dsmiley411/status/2102969386978234550"><img src="https://pbs.twimg.com/media/HS88Q7OaYAA15HV?format=jpg&amp;name=medium" alt="Testing Jev&#39;s Accuracy for Next Best Action Prediction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dsmiley411/status/2102969386978234550">Testing Jev&#39;s Accuracy for Next Best Action Prediction</a></h3>
-<p>Dorian Smiley tested Jev&#39;s accuracy for next best action prediction. Results: canonical accuracy 98.6%, generalization accuracy 41.5%. Jev predicted the next state in a program from the current partial program. Suite: 25 cases, run 20 times; seven cases...</p>
-<p><strong>138</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
-<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlchainHust/status/2102965661219856700"><img src="https://pbs.twimg.com/media/HS88G4YbsAAXHKS?format=jpg&amp;name=medium" alt="Training a Jev-like local model with image understanding · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlchainHust/status/2102965661219856700">Training a Jev-like local model with image understanding</a></h3>
+<p>Huashu shares that they are post-training a Jev-like model capable of judgment and image understanding, running locally on an ordinary Mac, based on Qwen small models.</p>
+<p><strong>706</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 706</p>
+<p><strong>花叔</strong> · @AlchainHust</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/s_tat1204/status/2102969993780756822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="Observation on Jev Apps and Confidence Usage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/s_tat1204/status/2102969993780756822">Observation on Jev Apps and Confidence Usage</a></h3>
-<p>The author observes that applications using Jev and its derivatives seem to rely less on confidence, and suggests that embedding-based methods are often sufficient as long as identification is achieved.</p>
-<p><strong>124</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 124</p>
-<p><strong>Tatsuya Shirakawa</strong> · @s_tat1204</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/dealerdefi/status/2102962979960758349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902808106131456/img/GqL560Pop00x-8PM.jpg" alt="Leaked: The JEV Stack I Run My Agents On · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dealerdefi/status/2102962979960758349">Leaked: The JEV Stack I Run My Agents On</a></h3>
+<p>dealer.eth leaked the JEV stack he runs his agents on, noting agents don&#39;t fail at writing code but at deciding which file to open, which hunk matters, whether to run a command, and whether they&#39;re actually done.</p>
+<p><strong>542</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 542</p>
+<p><strong>dealer.eth</strong> · @dealerdefi</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102969271613526232">Project lets Jev dynamically choose reasoning level before generation</a></h3>
-<p>Introduces an open-source project that solves the issue where Codex&#39;s reasoning level is locked during execution, causing high token consumption even when reading files. It allows Jev to reselect the appropriate reasoning level before each generation.</p>
-<p><strong>196</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
+<p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
+<p><strong>5.7K</strong> views · 💬 11 &nbsp; 🔁 19 &nbsp; ♡ 208 &nbsp; 📊 5.7K</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/s_tat1204/status/2102969993780756822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="Observation on Jev Apps and Confidence Usage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/s_tat1204/status/2102969993780756822">Observation on Jev Apps and Confidence Usage</a></h3>
-<p>The author observes that applications using Jev and its derivatives seem to rely less on confidence, and suggests that embedding-based methods are often sufficient as long as identification is achieved.</p>
-<p><strong>124</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 124</p>
-<p><strong>Tatsuya Shirakawa</strong> · @s_tat1204</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/dealerdefi/status/2102962979960758349"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902808106131456/img/GqL560Pop00x-8PM.jpg" alt="Leaked: The JEV Stack I Run My Agents On · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dealerdefi/status/2102962979960758349">Leaked: The JEV Stack I Run My Agents On</a></h3>
+<p>dealer.eth leaked the JEV stack he runs his agents on, noting agents don&#39;t fail at writing code but at deciding which file to open, which hunk matters, whether to run a command, and whether they&#39;re actually done.</p>
+<p><strong>542</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 542</p>
+<p><strong>dealer.eth</strong> · @dealerdefi</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/snkrs_hack/status/2102971121700421908"><img src="https://pbs.twimg.com/media/HS9BFsdb0AARk5T?format=jpg&amp;name=large" alt="note Trend Radar (tentative) beta tester recruitment · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/snkrs_hack/status/2102971121700421908">note Trend Radar (tentative) beta tester recruitment</a></h3>
-<p>The website &quot;note Trend Radar (tentative)&quot; uses JEV to analyze trends on the note platform. Features title assessment, trending themes, and map display of daily changing themes. Beta testers are being recruited.</p>
-<p><strong>118</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
-<p><strong>りょ@AIの発信・元SNKRSガレージ</strong> · @snkrs_hack</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlexanderTw33ts/status/2102960863678497219"><img src="https://pbs.twimg.com/media/HS83v-da4AAV23J?format=jpg&amp;name=medium" alt="Jev&#39;s question API has 16 paying customers · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlexanderTw33ts/status/2102960863678497219">Jev&#39;s question API has 16 paying customers</a></h3>
+<p>During a 10-hour livestream, Jev reveals his question API has gained 16 paying customers.</p>
+<p><strong>423</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 423</p>
+<p><strong>Alex</strong> · @AlexanderTw33ts</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
-<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
-<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/dsmiley411/status/2102969386978234550"><img src="https://pbs.twimg.com/media/HS88Q7OaYAA15HV?format=jpg&amp;name=medium" alt="Testing Jev&#39;s Accuracy for Next Best Action Prediction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dsmiley411/status/2102969386978234550">Testing Jev&#39;s Accuracy for Next Best Action Prediction</a></h3>
+<p>Dorian Smiley tested Jev&#39;s accuracy for next best action prediction. Results: canonical accuracy 98.6%, generalization accuracy 41.5%. Jev predicted the next state in a program from the current partial program. Suite: 25 cases, run 20 times; seven cases...</p>
+<p><strong>138</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
+<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
 </td>
 </tr>
 </table>

@@ -1,9 +1,10 @@
 # CyrilXBT
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-24 | [Beacon on Jev fixes coding agents' memory](https://x.com/cyrilXBT/status/2102963791973749060) | 智能体 | CyrilXBT | 2.8K |
 | 2026-09-23 | [Jev + Claude Code Stack for Faster, Cheaper AI Agents](https://x.com/cyrilXBT/status/2102605138125111367) | 智能体 | CyrilXBT | 2.2K |
 | 2026-09-23 | [Agents Powered by Jev: 200x Faster and 400x Cheaper Than Standard Claude Code Loop](https://x.com/cyrilXBT/status/2102646684027371754) | 智能体 | CyrilXBT | 1.8K |
 | 2026-09-23 | [Everything you need to know about Jev](https://x.com/cyrilXBT/status/2102680641649480094) | 社区实践 | CyrilXBT | 1.6K |

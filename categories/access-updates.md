@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 293 | 117 | 176 | 802K |
+| 295 | 117 | 178 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AlexanderTw33ts/status/2102960863678497219"><img src="https://pbs.twimg.com/media/HS83v-da4AAV23J?format=jpg&amp;name=medium" alt="Jev&#39;s question API has 16 paying customers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlexanderTw33ts/status/2102960863678497219">Jev&#39;s question API has 16 paying customers</a></h3>
+<p>During a 10-hour livestream, Jev reveals his question API has gained 16 paying customers.</p>
+<p><strong>中文摘要：</strong>Jev在10小时直播中透露其问题API已获得16位付费用户。</p>
+<p><strong>Alex</strong> · @AlexanderTw33ts · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 423</p>
+<p><a href="https://x.com/AlexanderTw33ts/status/2102960863678497219">在 X 查看原帖</a> · <a href="https://t.co/wOE9a8V4gN">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yasuhito_morimo/status/2102967451000705279"><img src="https://pbs.twimg.com/media/HS89vjjasAAuaFI?format=jpg&amp;name=medium" alt="Japan AI Agent News: GPTBots.ai Integrates Jev for Two-Layer AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yasuhito_morimo/status/2102967451000705279">Japan AI Agent News: GPTBots.ai Integrates Jev for Two-Layer AI</a></h3>
+<p>This daily roundup mentions GPTBots.ai building a two-layer AI architecture by integrating Jev, and highlights dynamic switching between automatic execution, manual confirmation, and higher-level judgment based on trust scores.</p>
+<p><strong>中文摘要：</strong>该日刊汇总提及GPTBots.ai通过集成Jev构建双层AI架构，并介绍了根据信任度评分在自动执行、人工确认和上级判断之间动态切换等要点。</p>
+<p><strong>Yasuhito Morimoto</strong> · @yasuhito_morimo · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/yasuhito_morimo/status/2102967451000705279">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/burstingbagel/status/2102592197476626486"><img src="https://pbs.twimg.com/media/HS3oBIbXUAEPG3Z?format=jpg&amp;name=medium" alt="Jev filter screens 40k wallets before TGE · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 24 | 17 | 7 | 639K |
+| 26 | 17 | 9 | 639K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/edwinfmesa/status/2102968647081759064"><img src="https://pbs.twimg.com/media/HS87KweWQAAj0vm?format=jpg&amp;name=medium" alt="Exploring How Jev and Laya Help Support Agents Prepare Context · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/edwinfmesa/status/2102968647081759064">Exploring How Jev and Laya Help Support Agents Prepare Context</a></h3>
+<p>The author explores whether Jev and Laya models can help support agents prepare context while the user is typing, using a fictional startup with 7 documents.</p>
+<p><strong>中文摘要：</strong>作者探究 Jev 和 Laya 模型能否在用户输入消息时帮助客服代理准备上下文，并通过一个虚构初创公司的 7 个文档进行实验。</p>
+<p><strong>Edwin Mesa</strong> · @edwinfmesa · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/edwinfmesa/status/2102968647081759064">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VALVETONLINE/status/2102959547375657093"><img src="https://pbs.twimg.com/media/HS82kIlW4AANsxJ?format=jpg&amp;name=medium" alt="Running a Jev-style decision model on a laptop · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VALVETONLINE/status/2102959547375657093">Running a Jev-style decision model on a laptop</a></h3>
+<p>The author demonstrates compact Jev-style models built on Qwen3.5 (0.8B–9B), with 4B/9B fitting a 32GB Mac, supporting CUDA and ROCm, and answering a support ticket in 495ms with probabilities.</p>
+<p><strong>中文摘要：</strong>作者展示了在笔记本上运行的基于 Qwen3.5 的 Jev 风格小型模型（0.8B–9B），4B/9B 可适配 32GB Mac，支持 CUDA 和 ROCm，并以 495ms 的速度和概率回答支持工单。</p>
+<p><strong>Valvet Online</strong> · @VALVETONLINE · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/VALVETONLINE/status/2102959547375657093">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Nashisan9/status/2102579354060632423"><img src="https://pbs.twimg.com/media/HS3cx15bAAAwqWR?format=jpg&amp;name=4096x4096" alt="How Jev Judges Repeated User Feedback in Game Support · 原帖图片" width="100%"></a>

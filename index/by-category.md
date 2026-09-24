@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 325
-- [Developer tools](../categories/developer-tools.md) — 299
-- [Access updates](../categories/access-updates.md) — 292
+- [How it works](../categories/how-it-works.md) — 326
+- [Developer tools](../categories/developer-tools.md) — 300
+- [Access updates](../categories/access-updates.md) — 293
 - [Gaming](../categories/gaming.md) — 261
-- [Community builds](../categories/community-builds.md) — 227
-- [Agents](../categories/agents.md) — 188
-- [Launch news](../categories/launch-news.md) — 164
-- [Developer resources](../categories/developer-resources.md) — 157
-- [Finance](../categories/finance.md) — 122
-- [Workflow automation](../categories/workflow-automation.md) — 104
+- [Community builds](../categories/community-builds.md) — 238
+- [Agents](../categories/agents.md) — 189
+- [Launch news](../categories/launch-news.md) — 166
+- [Developer resources](../categories/developer-resources.md) — 159
+- [Finance](../categories/finance.md) — 124
+- [Workflow automation](../categories/workflow-automation.md) — 105
 - [Marketing](../categories/marketing.md) — 87
 - [Knowledge & search](../categories/knowledge-search.md) — 71
-- [Data analytics](../categories/data-analytics.md) — 68
+- [Data analytics](../categories/data-analytics.md) — 69
 - [Content creation](../categories/content-creation.md) — 63
+- [Scientific research](../categories/scientific-research.md) — 38
 - [Robotics](../categories/robotics.md) — 33
-- [Scientific research](../categories/scientific-research.md) — 29
 - [Customer support](../categories/customer-support.md) — 24
 - [Productivity](../categories/productivity.md) — 24
-- [Cybersecurity](../categories/cybersecurity.md) — 20
-- [Business operations](../categories/business-operations.md) — 17
-- [Healthcare](../categories/healthcare.md) — 17
-- [Software development](../categories/software-development.md) — 15
+- [Cybersecurity](../categories/cybersecurity.md) — 21
+- [Business operations](../categories/business-operations.md) — 18
+- [Healthcare](../categories/healthcare.md) — 18
+- [Software development](../categories/software-development.md) — 16
+- [Education](../categories/education.md) — 13
 - [E-commerce](../categories/e-commerce.md) — 13
-- [Education](../categories/education.md) — 12
 - [Legal & compliance](../categories/legal-compliance.md) — 12

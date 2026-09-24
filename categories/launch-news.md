@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 164 | 90 | 77 | 1.1M |
+| 166 | 90 | 79 | 1.1M |
 
 ## Showcase 卡片
 
@@ -214,6 +214,19 @@
 <p><a href="https://x.com/technocraticum/status/2102716362393366677">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/nexos_ai/status/2102778658364559672"><img src="https://pbs.twimg.com/media/HS6SCtJWgAA9I8i?format=jpg&amp;name=medium" alt="Jev is now live on nexos.ai · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nexos_ai/status/2102778658364559672">Jev is now live on nexos.ai</a></h3>
+<p>TypeSafe AI&#39;s Jev model focuses on decisions rather than text. Give it your app&#39;s state and a yes/no, multiple-choice or scale question, and it returns a typed answer with a calibrated probability, ready for your code to use with nothing to parse.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型专注于决策而非生成文本。提供应用状态与是非、多选或量表问题，返回带校准概率的类型化答案，直接供代码使用，无需解析。</p>
+<p><strong>nexos.ai</strong> · @nexos_ai · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/nexos_ai/status/2102778658364559672">在 X 查看原帖</a> · <a href="https://t.co/DZ1K3JIHUc">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/gvmuthu/status/2102606256016151005"><img src="https://pbs.twimg.com/media/HS31PjpaAAA9rvx?format=jpg&amp;name=medium" alt="TypeSafe Releases Jev: The First System One Decision Model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/gvmuthu/status/2102606256016151005">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lexsalvator/status/2102644880359002144"><img src="https://pbs.twimg.com/media/HS4YEYBXEAADu-m?format=jpg&amp;name=medium" alt="Open JEV is now available on Ollama · 原帖图片" width="100%"></a>
 <br>
@@ -236,6 +247,19 @@
 <p><strong>Alexandre Salvatore</strong> · @lexsalvator · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/lexsalvator/status/2102644880359002144">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xChaseTM/status/2102781187437600993"><img src="https://pbs.twimg.com/media/HS6UHbLWYAAoQZ1?format=jpg&amp;name=medium" alt="Jev Released: State In, Auditable Decisions Out · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xChaseTM/status/2102781187437600993">Jev Released: State In, Auditable Decisions Out</a></h3>
+<p>Jev Engineers released Jev with a simple architecture: state goes in, auditable decisions come out. The post maps the decision layer into a field blueprint, showing what Jev reads, what it returns, and how an agent uses these answers in a real loop.</p>
+<p><strong>中文摘要：</strong>Jev 工程师发布了 Jev，其架构简单：输入状态，输出可审计的决策。文章将决策层映射为字段蓝图，说明 Jev 读取什么、返回什么，以及智能体如何在真实循环中利用这些答案。</p>
+<p><strong>Chase</strong> · @0xChaseTM · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/0xChaseTM/status/2102781187437600993">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/yoheinakajima/status/2102213665361690906"><img src="https://pbs.twimg.com/amplify_video_thumb/2102213606414921728/img/cLKQS-9p31mko41V.jpg" alt="Jev-style image decision model glance-qwen3-vl-4b released · 原帖视频截图" width="100%"></a>

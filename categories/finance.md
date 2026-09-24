@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 122 | 68 | 55 | 1.2M |
+| 124 | 69 | 56 | 1.2M |
 
 ## Showcase 卡片
 
@@ -107,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/nerlfield/status/2102779245756112950"><img src="https://pbs.twimg.com/media/HS6REUMXsAAPtX4?format=jpg&amp;name=medium" alt="User Tests Jev&#39;s Calibration on 5-Minute BTC Prediction Markets · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nerlfield/status/2102779245756112950">User Tests Jev&#39;s Calibration on 5-Minute BTC Prediction Markets</a></h3>
+<p>Daniel Kovalenko shared how Jev (@typesafeai) performs on 5-minute BTC prediction markets: it&#39;s not well calibrated and leans down—when it says 45% Up, Up happens 61% of the time.</p>
+<p><strong>中文摘要：</strong>Daniel Kovalenko 分享了 Jev（@typesafeai）在 5 分钟比特币预测市场上的表现：模型校准并不完美，存在看跌倾向，例如当它给出 45% 上涨概率时，实际上涨概率为 61%。</p>
+<p><strong>Daniel Kovalenko</strong> · @nerlfield · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/nerlfield/status/2102779245756112950">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/thefvkngphoenix/status/2102589274382123124"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="HypeMeter Built in 4 Hours with Jev and Minds to Flag Underpriced Hype · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/thefvkngphoenix/status/2102589274382123124">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shivak_01/status/2102575435892863423"><img src="https://pbs.twimg.com/amplify_video_thumb/2102574574328225792/img/7cWs17wP04S-zWc0.jpg" alt="Jev optimizes a personal stock analyser · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/shivak_01/status/2102575435892863423">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FrankDa18249347/status/2102609646989332550"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Using Remaining Jev Credits to Fade a Trading Bot Live on Polymarket · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +151,19 @@
 <p><strong>FrankD</strong> · @FrankDa18249347 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/FrankDa18249347/status/2102609646989332550">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Phoenix1364/status/2102781299731636463"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="Jev knows when to say no · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Phoenix1364/status/2102781299731636463">Jev knows when to say no</a></h3>
+<p>This post highlights that while most AI tools tell you to buy, Jev can recognize when to decline. The author is interested in the HypeMeter + Minds combo.</p>
+<p><strong>中文摘要：</strong>该帖指出大多数 AI 工具只会建议买入，而 Jev 能判断何时该拒绝。作者对 HypeMeter 与 Minds 的组合表示兴趣。</p>
+<p><strong>phoenix1364 π²</strong> · @Phoenix1364 · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/Phoenix1364/status/2102781299731636463">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ergod_dev/status/2102608971999875122"><img src="https://pbs.twimg.com/media/HS33rC4WAAAvKpu?format=jpg&amp;name=medium" alt="Jev Trader Bot Completes First Paper Trades · 原帖图片" width="100%"></a>

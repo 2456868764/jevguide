@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 17 | 13 | 4 | 92K |
+| 18 | 13 | 5 | 92K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/gynecolo_obgyn/status/2102610832043765927">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/amadad/status/2102780200350261654"><img src="https://pbs.twimg.com/media/HS6TcSxagAAY2oo?format=jpg&amp;name=medium" alt="InvisibleBench Built with Jev Showcased at Caregiving Conference · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/amadad/status/2102780200350261654">InvisibleBench Built with Jev Showcased at Caregiving Conference</a></h3>
+<p>Ali Madad presented givecareapp&#39;s InvisibleBench, rebuilt with TypeSafe AI&#39;s Jev, at a caregiving research conference in Utah.</p>
+<p><strong>中文摘要：</strong>Ali Madad在犹他州护理研究会议上展示了使用 TypeSafe AI 的 Jev 重建的 givecareapp InvisibleBench，应用于照护研究。</p>
+<p><strong>Ali Madad</strong> · @amadad · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/amadad/status/2102780200350261654">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/cxbln/status/2102622087181676958"><img src="https://pbs.twimg.com/media/HS4Dji_bkAAyo0W?format=jpg&amp;name=medium" alt="Jev reads CT scans · 原帖图片" width="100%"></a>
 <br>
 <sub><code>医疗</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/cxbln/status/2102622087181676958">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JunMa_AI4Health/status/2102230939111702659"><img src="https://pbs.twimg.com/amplify_video_thumb/2102226559851544576/img/Sjw0dxTS-uU7b1zu.jpg" alt="MedJev, inspired by Jev: structuring clinical notes on consumer GPUs · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 136</p>
 <p><a href="https://x.com/JunMa_AI4Health/status/2102230939111702659">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JoinMedicalBlvd/status/2102214108942840023"><img src="https://pbs.twimg.com/media/HSyQg8nakAACHfK?format=jpg&amp;name=medium" alt="Jev and LLMs in the Clinic: Choosing, Scoring, Routing · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/JoinMedicalBlvd/status/2102214108942840023">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OpenMed_AI/status/2102060895425757433"><img src="https://pbs.twimg.com/amplify_video_thumb/2102060609240018944/img/rFXiswCYhKd4OGmh.jpg" alt="OpenMed evaluates Jev for medical AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 520</p>
 <p><a href="https://x.com/OpenMed_AI/status/2102060895425757433">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MaziyarPanahi/status/2102012469808087405"><img src="https://pbs.twimg.com/amplify_video_thumb/2101995117707919360/img/2luG0wLlb02R0KmC.jpg" alt="Jev Enables Fail-Closed Conflict Blocking in Clinical Workflow · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 116</p>
 <p><a href="https://x.com/MaziyarPanahi/status/2102012469808087405">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bhatsy/status/2102038708379603404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102038556860391424/img/SsNp7sknXwjW4x24.jpg" alt="JEV-powered healthcare voice agent: chest pain intent routing and safe handoff · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
 <p><a href="https://x.com/bhatsy/status/2102038708379603404">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lemonDefi1/status/2102027809514307736"><img src="https://pbs.twimg.com/amplify_video_thumb/2101888208267304960/img/DNkX3gl-4MCBbpEA.jpg" alt="Solomon 27B: An Open-Weight Healthcare Alternative to JEV Built on Qwen3.8-27B · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 42</p>
 <p><a href="https://x.com/lemonDefi1/status/2102027809514307736">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/montyspeaks/status/2101539726842863774"><img src="https://pbs.twimg.com/amplify_video_thumb/2101535572527374336/img/aIKrKnMpc7r1Xhqd.jpg" alt="Product Manager Tests TypeSafe Jev for Healthcare Workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 198</p>
 <p><a href="https://x.com/montyspeaks/status/2101539726842863774">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bargava/status/2101733225282630103"><img src="https://pbs.twimg.com/amplify_video_thumb/2101392947573055488/img/1IvpnAZhTgntGqTI.jpg" alt="Discussion on Jev&#39;s PII Masking Usability in Healthcare · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 169</p>
 <p><a href="https://x.com/bargava/status/2101733225282630103">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/adiun/status/2101747621836853371"><img src="https://pbs.twimg.com/amplify_video_thumb/2101747311890296832/img/0wO71RFdzDyypBbg.jpg" alt="Jev&#39;s Potential for Healthcare Unstructured Data Processing · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 80</p>
 <p><a href="https://x.com/adiun/status/2101747621836853371">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/the_real_ridwan/status/2101514085850374411"><img src="https://pbs.twimg.com/amplify_video_thumb/2101293440843591680/img/3BtdoFBd-JH1wJc6.jpg" alt="Jev and System One in Clinical AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/the_real_ridwan/status/2101514085850374411">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/roiyaruRIZ/status/2101130711067431018"><img src="https://pbs.twimg.com/amplify_video_thumb/2101125501234630656/img/pxMddfrpMLTvBhaR.jpg" alt="Vital Deterioration Simulator Using Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 8 &nbsp; 🔁 178 &nbsp; ♡ 560 &nbsp; 📊 92K</p>
 <p><a href="https://x.com/roiyaruRIZ/status/2101130711067431018">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thekitze/status/2100857642566758849"><img src="https://pbs.twimg.com/amplify_video_thumb/2100857416984477696/img/RAMEV-YddA05BR1X.jpg" alt="Building an Instant Calorie Tracking App with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 56 &nbsp; 🔁 14 &nbsp; ♡ 786 &nbsp; 📊 71K</p>
 <p><a href="https://x.com/thekitze/status/2100857642566758849">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Rmzlb/status/2100928340236366217"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2100928319172517888/pu/img/MmADng-1sQxVJpIj.jpg" alt="Moving healthcare triage decisions to Jev: 25 typed questions, 0.29s, $0.00015 · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 152</p>
 <p><a href="https://x.com/Rmzlb/status/2100928340236366217">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rheum_ai/status/2100454043361722798"><img src="https://pbs.twimg.com/amplify_video_thumb/2100452479016321024/img/nAyq81QFzA6UzPqM.jpg" alt="Jev Assists Real-Time Differential Diagnosis in Live Clinical Consultations · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 27 &nbsp; 🔁 39 &nbsp; ♡ 429 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/rheum_ai/status/2100454043361722798">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EczekMarcin/status/2100524381361365170"><img src="https://pbs.twimg.com/media/HSaAFi2W0AEKBhZ?format=jpg&amp;name=medium" alt="Example of patient triage using the Jev model · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,5 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 119</p>
 <p><a href="https://x.com/EczekMarcin/status/2100524381361365170">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

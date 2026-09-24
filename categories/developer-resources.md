@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 157 | 66 | 91 | 419K |
+| 159 | 67 | 92 | 419K |
 
 ## Showcase 卡片
 
@@ -155,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/happy20250912/status/2102754844780204476"><img src="https://pbs.twimg.com/amplify_video_thumb/2102697879215505408/img/pON_gxltWKjUWBSd.jpg" alt="Open-source Jev alternative claims 10x speed, runs locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/happy20250912/status/2102754844780204476">Open-source Jev alternative claims 10x speed, runs locally</a></h3>
+<p>The post highlights an open-source AI model positioned as a faster Jev alternative, claiming 10x speed and local laptop execution. It is designed for classification, routing, tool selection, and risk assessment, directly providing results and probabilities without unnecessary text.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一个开源AI模型，作为Jev的替代品，号称速度快10倍，可在笔记本本地运行。该模型专门用于分类、路由、工具选择和风险判断，直接输出结果和概率，不生成多余内容。</p>
+<p><strong>硅谷AI玩家</strong> · @happy20250912 · 2026-09-23</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 32</p>
+<p><a href="https://x.com/happy20250912/status/2102754844780204476">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/thedelost/status/2102725886478803297"><img src="https://pbs.twimg.com/amplify_video_thumb/2102701517916545024/img/iCOZ1yPpRsyf2Yke.jpg" alt="Jev Quick-Start Checklist: From API to jev-browser · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 27</p>
 <p><a href="https://x.com/thedelost/status/2102725886478803297">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/i_darshanjain/status/2102717739127488923"><img src="https://pbs.twimg.com/media/HS5aZRsaIAAVBrE?format=jpg&amp;name=medium" alt="Open-Source Model Laya Compared to Jev · 原帖图片" width="100%"></a>
 <br>
@@ -175,6 +188,17 @@
 <p><strong>Darshan Jain</strong> · @i_darshanjain · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/i_darshanjain/status/2102717739127488923">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xSpikez/status/2102781031564914828"><img src="https://pbs.twimg.com/media/HS1mMpObIAAYsfa?format=jpg&amp;name=medium" alt="Jev Founder Releases 12-Page PDF on Building a Jev Harness · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xSpikez/status/2102781031564914828">Jev Founder Releases 12-Page PDF on Building a Jev Harness</a></h3>
+<p>Spikez shares a 12-page PDF released by Jev founder Diogo Amogo, featuring a 10-step blueprint claiming to make coding agents 200× faster and 400× cheaper.</p>
+<p><strong>中文摘要：</strong>Spikez 分享了 Jev 创始人 Diogo Amogo 发布的 12 页 PDF，其中包含 10 步蓝图，声称可让编码代理速度提升 200 倍、成本降低 400 倍。</p>
+<p><strong>Spikez 99.9%</strong> · @0xSpikez · 2026-09-23</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/0xSpikez/status/2102781031564914828">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

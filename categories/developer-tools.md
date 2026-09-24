@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 306 | 170 | 138 | 3.6M |
+| 308 | 170 | 140 | 3.6M |
 
 ## Showcase 卡片
 
@@ -44,6 +44,30 @@
 <p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
 <p><a href="https://x.com/QingQ77/status/2102969271613526232">在 X 查看原帖</a> · <a href="https://t.co/b4SIObq2c1">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sysevolai/status/2102979401025806732"><img src="https://pbs.twimg.com/media/HS9IC14agAAwECe?format=jpg&amp;name=medium" alt="TypeSafe Jev Outperforms Qwen3-Reranker in Code Reranking Test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sysevolai/status/2102979401025806732">TypeSafe Jev Outperforms Qwen3-Reranker in Code Reranking Test</a></h3>
+<p>TypeSafe&#39;s Jev returns typed scores and was tested as a code reranker on 100 real GitHub issues, achieving 71.4% Recall@5 vs 63.4% for dense retrieval plus Qwen3-Reranker-4B, at about the same median latency (4.6s).</p>
+<p><strong>中文摘要：</strong>TypeSafe 的 Jev 模型返回类型化分数，在 100 个真实 GitHub issue 上作为代码重排序器测试，Recall@5 达 71.4%，优于稠密检索加 Qwen3-Reranker-4B 的 63.4%，中位延迟相近（4.6 秒）。</p>
+<p><strong>sysevol-ai</strong> · @sysevolai · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 57</p>
+<p><a href="https://x.com/sysevolai/status/2102979401025806732">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TypeLLM/status/2103007504494108949"><img src="https://pbs.twimg.com/media/HS9h_SGbkAAC-VQ?format=jpg&amp;name=medium" alt="TypeLLM Supports Native Numerical Outputs, Filling Jev Model Gap · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TypeLLM/status/2103007504494108949">TypeLLM Supports Native Numerical Outputs, Filling Jev Model Gap</a></h3>
+<p>TypeLLM can directly generate constrained integers and floats while remaining type-safe, a capability that TypeSafe&#39;s Jev and similar fine-tuned models struggle with.</p>
+<p><strong>中文摘要：</strong>TypeLLM 可比 TypeSafe 的 Jev 模型更轻松地生成受约束的整数和浮点数，同时保持类型安全。</p>
+<p><strong>TypeLLM</strong> · @TypeLLM · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/TypeLLM/status/2103007504494108949">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102991417392218335"><img src="https://pbs.twimg.com/amplify_video_thumb/2102115729432522752/img/YA1bKtf3SghRN5qp.jpg" alt="Jev: $0.042 per 1M input tokens, output free · 原帖视频截图" width="100%"></a>

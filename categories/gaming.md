@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 263 | 202 | 65 | 588K |
+| 265 | 203 | 66 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/browser_use/status/2102980499614658580"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Luna plans, Jev acts: AI agent wins at poker · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/browser_use/status/2102980499614658580">Luna plans, Jev acts: AI agent wins at poker</a></h3>
+<p>Browser Use showcases an AI agent system where Luna acts as planner and Jev as actor, winning at poker.</p>
+<p><strong>中文摘要：</strong>Browser Use 展示了 Luna 作为规划者、Jev 作为执行者的 AI 智能体系统，在扑克游戏中获胜。</p>
+<p><strong>Browser Use</strong> · @browser_use · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 979</p>
+<p><a href="https://x.com/browser_use/status/2102980499614658580">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/shotatykr/status/2102959775864778841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102377370439348224/img/9nFlUY1m8KL2e8Ak.jpg" alt="Building an AI Game Opponent with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>豊藏 翔太@ThinkMove Inc.</strong> · @shotatykr · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 364</p>
 <p><a href="https://x.com/shotatykr/status/2102959775864778841">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kirin3335228/status/2103004035297227056"><img src="https://pbs.twimg.com/media/HS9fBftaoAA6qlX?format=jpg&amp;name=medium" alt="Building a TRPG Voxel Map Generator with jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kirin3335228/status/2103004035297227056">Building a TRPG Voxel Map Generator with jev</a></h3>
+<p>A developer is building a grid map generator for TRPGs, likely using jev to turn scene descriptions into voxel maps.</p>
+<p><strong>中文摘要：</strong>开发者正在制作面向TRPG的网格地图生成器，预计用jev将情景描写转换为体素地图，并表示挑战和期待。</p>
+<p><strong>むらまさ</strong> · @kirin3335228 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/kirin3335228/status/2103004035297227056">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Pitofuii/status/2102967721042547007"><img src="https://pbs.twimg.com/amplify_video_thumb/2102967057650429952/img/B_OkN7E5QzkS4JBE.jpg" alt="Using Jev for Real-Time Agent Battles in Games · 原帖视频截图" width="100%"></a>

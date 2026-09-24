@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 87 | 70 | 17 | 904K |
+| 89 | 72 | 17 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chrisbrownridge/status/2102977990921789714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev Demo: Quickly Analyze Meta Ads and Landing Pages · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chrisbrownridge/status/2102977990921789714">Jev Demo: Quickly Analyze Meta Ads and Landing Pages</a></h3>
+<p>Fetch Meta ads with treg, then use Jev to tear down landing pages fast — categorizing page types, offers, and sales copy to understand where brands send traffic.</p>
+<p><strong>中文摘要：</strong>使用 treg 提取 Meta 广告，再用 Jev 快速拆解落地页，自动归类页面类型、优惠方式及销售文案，帮助理解品牌流量去向。</p>
+<p><strong>Chris Brownridge</strong> · @chrisbrownridge · 2026-09-24</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/chrisbrownridge/status/2102977990921789714">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jasonzhou1993/status/2102980957934645635"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev for Ads Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jasonzhou1993/status/2102980957934645635">Jev for Ads Analysis</a></h3>
+<p>The user notes that combining @treg_ai with Jev works well for ads analysis.</p>
+<p><strong>中文摘要：</strong>用户表示将@treg_ai与Jev结合使用，在广告分析方面效果很好。</p>
+<p><strong>Jason Zhou</strong> · @jasonzhou1993 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 714</p>
+<p><a href="https://x.com/jasonzhou1993/status/2102980957934645635">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rewind02/status/2102739436060459414"><img src="https://pbs.twimg.com/amplify_video_thumb/2102739362735685632/img/C2bgrUCHE0_ysYqF.jpg" alt="Jev acts as router to optimize AI UGC ad rendering · 原帖视频截图" width="100%"></a>

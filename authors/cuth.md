@@ -1,9 +1,10 @@
 # Cuth
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-24 | [Challenging Jev on DGX Spark: Open-Source System One Model Experiment](https://x.com/ItsCuthulhu/status/2102980902959636759) | 社区实践 | Cuth | 65 |
 | 2026-09-23 | [Using System One models like Jev for multi-path reasoning](https://x.com/ItsCuthulhu/status/2102573734825447858) | 工作原理 | Cuth | 31 |
 | 2026-09-23 | [Jev Yes/No Game](https://x.com/ItsCuthulhu/status/2102640969573335071) | 游戏 | Cuth | 16 |
 | 2026-09-23 | [Yes/No Jev Game is Live](https://x.com/ItsCuthulhu/status/2102676861813653679) | 游戏 | Cuth | 12 |

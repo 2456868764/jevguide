@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 295 | 117 | 178 | 802K |
+| 297 | 117 | 180 | 802K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Yasuhito Morimoto</strong> · @yasuhito_morimo · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/yasuhito_morimo/status/2102967451000705279">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mewcp_ai/status/2103003577086271537"><img src="https://pbs.twimg.com/media/HS9eZOYbYAAZK5E?format=jpg&amp;name=medium" alt="Jev is now on MewCP · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mewcp_ai/status/2103003577086271537">Jev is now on MewCP</a></h3>
+<p>Jev has been put on MewCP, giving it a gateway to the tools your agent needs. One URL, connected MCP servers, less integration overhead.</p>
+<p><strong>中文摘要：</strong>Jev 已上线 MewCP，为 AI 代理提供通往所需工具的网关，通过统一 URL 连接 MCP 服务器，降低集成开销。</p>
+<p><strong>MewCP</strong> · @mewcp_ai · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/mewcp_ai/status/2103003577086271537">在 X 查看原帖</a> · <a href="https://t.co/rpK53Zia1B">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lazygem/status/2102980278566404348"><img src="https://pbs.twimg.com/media/HS9JUnrbAAAqJh1?format=jpg&amp;name=large" alt="Jev is now free on opencode · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lazygem/status/2102980278566404348">Jev is now free on opencode</a></h3>
+<p>Announcement that Jev is now freely available on the opencode platform for developers.</p>
+<p><strong>中文摘要：</strong>消息称 Jev 已在 opencode 平台上免费开放，开发者可直接使用。</p>
+<p><strong>LazyGem</strong> · @lazygem · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/lazygem/status/2102980278566404348">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

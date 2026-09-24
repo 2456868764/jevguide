@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 332 | 151 | 182 | 1.6M |
+| 336 | 151 | 186 | 1.6M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,30 @@
 <p><a href="https://x.com/benkyo7772/status/2102989962799181829">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/daamitt/status/2103005756010234355"><img src="https://pbs.twimg.com/media/HS9glj3aEAAiGVm?format=jpg&amp;name=medium" alt="Understanding Jev: Calibration Is the Product · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/daamitt/status/2103005756010234355">Understanding Jev: Calibration Is the Product</a></h3>
+<p>The author points out that many haven&#39;t truly understood Jev, emphasizing that calibration is the core value, and illustrates its importance with a simple coin toss probability example where wrong decisions lack cost.</p>
+<p><strong>中文摘要：</strong>作者指出很多人尚未真正理解Jev，强调校准才是Jev的核心价值，并通过硬币概率的简单例子说明错误决策缺乏成本时校准的重要性。</p>
+<p><strong>Amit B</strong> · @daamitt · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/daamitt/status/2103005756010234355">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/satvikps/status/2103005486744531065"><img src="https://pbs.twimg.com/media/HS9gKCCbMAAaS4A?format=jpg&amp;name=medium" alt="Jev replaces RAG with a fast decision tree · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/satvikps/status/2103005486744531065">Jev replaces RAG with a fast decision tree</a></h3>
+<p>Jev identifies relevant documents directly from user queries using a fast decision tree, eliminating embeddings and vector search for precise LLM context.</p>
+<p><strong>中文摘要：</strong>Jev通过快速决策树直接识别用户查询的相关文档，无需嵌入和向量搜索，为LLM提供精准上下文。</p>
+<p><strong>Satvik Paramkusham</strong> · @satvikps · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/satvikps/status/2103005486744531065">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/JamesPardoe/status/2102983906664521795"><img src="https://pbs.twimg.com/amplify_video_thumb/2102983807318335488/img/9xnqYIbVUNOnmgHG.jpg" alt="The best explanation of Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -59,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/FanofAITech/status/2103003286853087489"><img src="https://pbs.twimg.com/media/HS9eSKRbQAABB17?format=jpg&amp;name=medium" alt="Jev Model Explained: Choice, Score, Noul · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/FanofAITech/status/2103003286853087489">Jev Model Explained: Choice, Score, Noul</a></h3>
+<p>An overview of TypeSafe AI&#39;s Jev, covering its three core components—Choice (select from a defined set), Score (rate against ordered levels), and Noul (evaluate yes/no statements)—and how it compares with a typical LLM tokenizer approach.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 的 Jev 模型：Choice 从定义集合中选择，Score 按有序等级评分，Noul 对是非陈述进行判断，并对比传统 LLM 的 Tokenizer 处理方式。</p>
+<p><strong>Sathish</strong> · @FanofAITech · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/FanofAITech/status/2103003286853087489">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/GeethanTech/status/2102965161426600445"><img src="https://pbs.twimg.com/media/HS87osGaUAAdkiJ?format=jpg&amp;name=medium" alt="Jev returns bounded choices instead of prose · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -68,6 +103,19 @@
 <p><strong>GeethanTech</strong> · @GeethanTech · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/GeethanTech/status/2102965161426600445">在 X 查看原帖</a> · <a href="https://t.co/1yHo3tQaSD">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bluntwallflower/status/2103012496114340276"><img src="https://pbs.twimg.com/media/HS9mtdgacAApBBH?format=jpg&amp;name=medium" alt="Jev and System 1 Models: A Different Direction Beyond Generation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bluntwallflower/status/2103012496114340276">Jev and System 1 Models: A Different Direction Beyond Generation</a></h3>
+<p>In this thread, the author suggests that the problem may not lie in text generation itself, and highlights Jev from TypeSafe AI as an example of a System 1 model designed for a different job.</p>
+<p><strong>中文摘要：</strong>作者在推文中提出，问题可能不在文本生成本身，并引出TypeSafe AI的Jev作为System 1模型的例子，说明其是为不同任务而设计的。</p>
+<p><strong>NG</strong> · @bluntwallflower · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/bluntwallflower/status/2103012496114340276">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xchromium/status/2102777619838075200"><img src="https://pbs.twimg.com/amplify_video_thumb/2102776598277586944/img/lw97d8udFifVPXGN.jpg" alt="TypeSafe AI CEO on Jev task design · 原帖视频截图" width="100%"></a>

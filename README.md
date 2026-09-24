@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2783</strong><br>curated posts</td>
-<td align="center"><strong>1511</strong><br>original videos</td>
+<td align="center"><strong>2810</strong><br>curated posts</td>
+<td align="center"><strong>1522</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>336</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>337</strong> showcases · <strong>151</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>308</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>312</strong> showcases · <strong>172</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>297</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>298</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>268</strong> showcases · <strong>113</strong> videos</p>
+<p><strong>280</strong> showcases · <strong>118</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>265</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>266</strong> showcases · <strong>204</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>198</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>199</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>176</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>180</strong> showcases · <strong>95</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>166</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>167</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>129</strong> showcases · <strong>71</strong> videos</p>
+<p><strong>130</strong> showcases · <strong>71</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>108</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>109</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/shota7180/status/2103001636230799564"><img src="https://pbs.twimg.com/media/HS83_cObQAA8CWz?format=jpg&amp;name=medium" alt="30 Easy Initial Judgments to Entrust to Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shota7180/status/2103001636230799564">30 Easy Initial Judgments to Entrust to Jev</a></h3>
+<p>For those who want to leave decisions to AI but don&#39;t know where to start, here are 30 initial judgments suitable for Jev, organized into three patterns: choose, measure, and verify.</p>
+<p><strong>2.5K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 2.5K</p>
+<p><strong>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</strong> · @shota7180</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/tetumemo/status/2102964330547568706"><img src="https://pbs.twimg.com/media/HS865n5bEAAjdyw?format=jpg&amp;name=medium" alt="Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/tetumemo/status/2102964330547568706">Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs</a></h3>
 <p>Learn how Jev acts as the decision core for AI agents, specializing in selections, numerical values, and yes/no judgments, with insights on cost trade-offs when designed well.</p>
 <p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
 <p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/chrisbrownridge/status/2102977990921789714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev Demo: Quickly Analyze Meta Ads and Landing Pages · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/chrisbrownridge/status/2102977990921789714">Jev Demo: Quickly Analyze Meta Ads and Landing Pages</a></h3>
-<p>Fetch Meta ads with treg, then use Jev to tear down landing pages fast — categorizing page types, offers, and sales copy to understand where brands send traffic.</p>
-<p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.1K</p>
-<p><strong>Chris Brownridge</strong> · @chrisbrownridge</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/tetumemo/status/2102964330547568706"><img src="https://pbs.twimg.com/media/HS865n5bEAAjdyw?format=jpg&amp;name=medium" alt="Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tetumemo/status/2102964330547568706">Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs</a></h3>
+<p>Learn how Jev acts as the decision core for AI agents, specializing in selections, numerical values, and yes/no judgments, with insights on cost trade-offs when designed well.</p>
+<p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
+<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
 <a href="https://x.com/chrisbrownridge/status/2102977990921789714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev Demo: Quickly Analyze Meta Ads and Landing Pages · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/chrisbrownridge/status/2102977990921789714">Jev Demo: Quickly Analyze Meta Ads and Landing Pages</a></h3>
 <p>Fetch Meta ads with treg, then use Jev to tear down landing pages fast — categorizing page types, offers, and sales copy to understand where brands send traffic.</p>
 <p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.1K</p>
 <p><strong>Chris Brownridge</strong> · @chrisbrownridge</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/browser_use/status/2102980499614658580"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Luna plans, Jev acts: AI agent wins at poker · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/browser_use/status/2102980499614658580">Luna plans, Jev acts: AI agent wins at poker</a></h3>
-<p>Browser Use showcases an AI agent system where Luna acts as planner and Jev as actor, winning at poker.</p>
-<p><strong>979</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 979</p>
-<p><strong>Browser Use</strong> · @browser_use</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/FXWOLF2/status/2102982189457768485"><img src="https://pbs.twimg.com/media/HS9J799bkAAP3gN?format=jpg&amp;name=medium" alt="Jev Backtest: Fewer Inputs Improve Performance · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/FXWOLF2/status/2102982189457768485">Jev Backtest: Fewer Inputs Improve Performance</a></h3>
-<p>A user shares their experience backtesting Jev, finding that omitting time information and using only one or two technical indicators yields better results; passing previous trade wins/losses made no difference, and they plan to use up the initial $5.</p>
-<p><strong>408</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 408</p>
-<p><strong>WOLF</strong> · @FXWOLF2</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/imjustnewatai/status/2103001193228415179"><img src="https://pbs.twimg.com/amplify_video_thumb/2103000963552366592/img/QAj3ee9lYM2B-_SH.jpg" alt="Jev plays Left 4 Dead 2 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/imjustnewatai/status/2103001193228415179">Jev plays Left 4 Dead 2</a></h3>
+<p>75 seconds of Jev playing Left 4 Dead 2, first run through Dead Center, with GPT-6 Astra handling planning and loop checks.</p>
+<p><strong>444</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 444</p>
+<p><strong>imjustnewatai</strong> · @imjustnewatai</p>
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 176 | 93 | 86 | 1.1M |
+| 180 | 95 | 88 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/snkrs_hack/status/2102971121700421908">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/redhotcyber/status/2103001916926046693"><img src="https://pbs.twimg.com/media/HS9dGXYWcAAhMuc?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: AI Moves from Talking to Deciding · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/redhotcyber/status/2103001916926046693">TypeSafe AI Launches Jev: AI Moves from Talking to Deciding</a></h3>
+<p>Red Hot Cyber covers TypeSafe AI&#39;s Jev model, marking its shift from conversational AI to decision-making intelligence.</p>
+<p><strong>中文摘要：</strong>Red Hot Cyber 报道了 TypeSafe AI 的 Jev 模型，标志其从对话式 AI 转向主动决策型智能。</p>
+<p><strong>Red Hot Cyber</strong> · @redhotcyber · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
+<p><a href="https://x.com/redhotcyber/status/2103001916926046693">在 X 查看原帖</a> · <a href="https://t.co/cyFE4uTHSC">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ASIHubHQ/status/2102973444140712331"><img src="https://pbs.twimg.com/media/HS9CS0pX0AA-V8o?format=png&amp;name=medium" alt="TypeSafe AI Launches Jev: Sub-100ms System 1 Decision Engine · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>ASI Hub</strong> · @ASIHubHQ · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
 <p><a href="https://x.com/ASIHubHQ/status/2102973444140712331">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aigeeknews/status/2103020752585072982"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Model CLM Claims Up to 9x Faster Inference Than Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aigeeknews/status/2103020752585072982">New Model CLM Claims Up to 9x Faster Inference Than Jev</a></h3>
+<p>A Contrastive Language Model (CLM) has been released, positioned as an ultra-fast System One model that connects states and actions via contrastive learning. CLM-8B is pretrained on internet-scale data, with officials claiming up to 9x faster inference than Jev with comparable accuracy.</p>
+<p><strong>中文摘要：</strong>有人发布对比语言模型 CLM（Contrastive Language Model），定位为超快 System One 模型，用对比学习连接状态和动作。CLM-8B 在互联网规模数据上预训练，官方称推理速度比 Jev 快最多 9 倍，准确率相当。</p>
+<p><strong>AI 极客新闻</strong> · @aigeeknews · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/aigeeknews/status/2103020752585072982">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +118,19 @@
 <p><a href="https://x.com/cryptofanz12/status/2102989803033604162">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Starwatcher_vc/status/2103024787895271495"><img src="https://pbs.twimg.com/media/HS9wk3vWcAAZAVm?format=jpg&amp;name=medium" alt="Jev Coming with Probability/Decision Approach · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Starwatcher_vc/status/2103024787895271495">Jev Coming with Probability/Decision Approach</a></h3>
+<p>The post criticizes the &#39;slow down AI development&#39; narrative, noting that the industry overfocuses on frontier models while open-weight models are catching up, and teases Jev&#39;s upcoming probability/decision approach that will impact the industry.</p>
+<p><strong>中文摘要：</strong>该帖子批评了放缓AI发展的论调，指出行业过度聚焦前沿模型，开放权重模型正在追赶，并预告Jev将以概率/决策方法亮相，对行业产生影响。</p>
+<p><strong>Ernest</strong> · @Starwatcher_vc · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/Starwatcher_vc/status/2103024787895271495">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ABNewswire/status/2102960210612809840"><img src="https://pbs.twimg.com/media/HS83Km8aoAANr0p?format=jpg&amp;name=medium" alt="Jev Brings Fast, Structured Decision-Making to AI Workflows · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/ABNewswire/status/2102960210612809840">在 X 查看原帖</a> · <a href="https://t.co/QpU506z58L">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/acenik10/status/2102986508739182890"><img src="https://pbs.twimg.com/media/HS9PFflWgAAm3Js?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev: Millisecond-Level Low-Cost Agent Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +151,19 @@
 <p><strong>Nikkhil Narang</strong> · @acenik10 · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/acenik10/status/2102986508739182890">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vamonke/status/2103031304782835992"><img src="https://pbs.twimg.com/amplify_video_thumb/2102898356775534593/img/yqMdyQ6nXW4O9uQM.jpg" alt="Jev for images: sub-200ms general-purpose classifier · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/vamonke/status/2103031304782835992">Jev for images: sub-200ms general-purpose classifier</a></h3>
+<p>Jev now provides a general-purpose image classifier with sub-200ms latency.</p>
+<p><strong>中文摘要：</strong>Jev 推出通用图像分类器，支持图像分类，延迟低于 200 毫秒。</p>
+<p><strong>varick lim</strong> · @vamonke · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/vamonke/status/2103031304782835992">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/BAI_AGI/status/2102720633226572098"><img src="https://pbs.twimg.com/media/HS5U7YQaQAEhq9T?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Now Available on B.AI API · 原帖图片" width="100%"></a>

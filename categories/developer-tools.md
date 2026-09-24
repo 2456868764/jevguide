@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 308 | 170 | 140 | 3.6M |
+| 312 | 172 | 142 | 3.6M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/QingQ77/status/2102969271613526232">在 X 查看原帖</a> · <a href="https://t.co/b4SIObq2c1">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2103030172542783546"><img src="https://pbs.twimg.com/media/HS9PNjRaMAA3P2C?format=jpg&amp;name=medium" alt="Jev browser tool and Codex: trade-offs of a low-cost click proxy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2103030172542783546">Jev browser tool and Codex: trade-offs of a low-cost click proxy</a></h3>
+<p>The post analyzes a division of labor where click operations are delegated to a low-cost model ($0.042 per million input tokens) while Codex handles typing and acceptance, reducing main model call costs. However, the tool only consumes the accessibility tree; canvas, iframe, drag-and-drop, and uploads must be handled manually, and debugging costs depend on how many page elements can be clicked by name.</p>
+<p><strong>中文摘要：</strong>帖子分析了将点击操作交给低成本模型（每百万输入token $0.042）、Codex负责打字和验收的分工方式，可减少主模型调用成本；但工具仅支持无障碍树，canvas、iframe、拖拽和上传需自行处理，调试成本取决于页面元素的可用性。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 83</p>
+<p><a href="https://x.com/QingQ77/status/2103030172542783546">在 X 查看原帖</a> · <a href="https://t.co/tAFgU9eEHC">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/sysevolai/status/2102979401025806732"><img src="https://pbs.twimg.com/media/HS9IC14agAAwECe?format=jpg&amp;name=medium" alt="TypeSafe Jev Outperforms Qwen3-Reranker in Code Reranking Test · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -56,8 +69,30 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 57</p>
 <p><a href="https://x.com/sysevolai/status/2102979401025806732">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/th3nolo/status/2103024142165357016"><img src="https://pbs.twimg.com/media/HS9xQHsW8AAfYHC?format=png&amp;name=medium" alt="Building an agent-agnostic permission gate with Jev (TypeSafe) · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/th3nolo/status/2103024142165357016">Building an agent-agnostic permission gate with Jev (TypeSafe)</a></h3>
+<p>The author shares building an agent-agnostic permission gate using Jev (TypeSafe) and hooks. In YOLO mode, dangerous commands like chmod -R are blocked; the agent asks the user, and each run needs re-confirmation.</p>
+<p><strong>中文摘要：</strong>作者分享了他构建的一个代理无关的权限门，使用Jev (TypeSafe)和hooks。在YOLO模式下，chmod -R等危险命令会被阻止，代理会请求用户确认，每次执行都需要重新授权。</p>
+<p><strong>ImRobot</strong> · @th3nolo · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 44</p>
+<p><a href="https://x.com/th3nolo/status/2103024142165357016">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/weidatan0/status/2103023533400191368"><img src="https://pbs.twimg.com/amplify_video_thumb/2103023479004237824/img/ROZw3PQovt2Arx3i.jpg" alt="Fixing Codex and Claude Code Search with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/weidatan0/status/2103023533400191368">Fixing Codex and Claude Code Search with Opus 5.5 + Jev</a></h3>
+<p>This post demonstrates how to fix the poor search functionality in Codex and Claude Code using Opus 5.5, Jev, and a small tool, showing the result at 1x speed.</p>
+<p><strong>中文摘要：</strong>该帖子展示了如何使用Opus 5.5、Jev以及一个小工具，修复Codex和Claude Code中糟糕的搜索功能，并以1倍速演示效果。</p>
+<p><strong>Weida Tan</strong> · @weidatan0 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/weidatan0/status/2103023533400191368">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/TypeLLM/status/2103007504494108949"><img src="https://pbs.twimg.com/media/HS9h_SGbkAAC-VQ?format=jpg&amp;name=medium" alt="TypeLLM Supports Native Numerical Outputs, Filling Jev Model Gap · 原帖图片" width="100%"></a>
 <br>
@@ -68,6 +103,19 @@
 <p><strong>TypeLLM</strong> · @TypeLLM · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/TypeLLM/status/2103007504494108949">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JackdeS11/status/2103027532241175014"><img src="https://pbs.twimg.com/amplify_video_thumb/2103027470207422464/img/BWgnDEPnvQU9EfHO.jpg" alt="Local Models vs Jev: Accuracy Comparison Experiment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JackdeS11/status/2103027532241175014">Local Models vs Jev: Accuracy Comparison Experiment</a></h3>
+<p>The author ran 8 local models on a Mac using the same JevBench questions. A 4B model matched Jev on short texts, but on complex ones all were 17+ points behind.</p>
+<p><strong>中文摘要：</strong>作者在Mac上运行8个本地模型，使用相同的JevBench问题测试。结果显示，4B模型在短文本上可匹配Jev，但复杂文本上所有本地模型均落后17分以上。</p>
+<p><strong>Daisuke Majima (MLBoy)</strong> · @JackdeS11 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/JackdeS11/status/2103027532241175014">在 X 查看原帖</a> · <a href="https://t.co/hOlnJVLfwJ">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102991417392218335"><img src="https://pbs.twimg.com/amplify_video_thumb/2102115729432522752/img/YA1bKtf3SghRN5qp.jpg" alt="Jev: $0.042 per 1M input tokens, output free · 原帖视频截图" width="100%"></a>

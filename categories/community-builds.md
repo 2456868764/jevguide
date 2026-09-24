@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 268 | 113 | 158 | 3.0M |
+| 280 | 118 | 165 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shota7180/status/2103001636230799564"><img src="https://pbs.twimg.com/media/HS83_cObQAA8CWz?format=jpg&amp;name=medium" alt="30 Easy Initial Judgments to Entrust to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shota7180/status/2103001636230799564">30 Easy Initial Judgments to Entrust to Jev</a></h3>
+<p>For those who want to leave decisions to AI but don&#39;t know where to start, here are 30 initial judgments suitable for Jev, organized into three patterns: choose, measure, and verify.</p>
+<p><strong>中文摘要：</strong>针对想委托AI却不知从何入手的人，总结了30个适合Jev的初步判断，分为“选择、测量、验证”三种模式。</p>
+<p><strong>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</strong> · @shota7180 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 2.5K</p>
+<p><a href="https://x.com/shota7180/status/2103001636230799564">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/AlchainHust/status/2102965661219856700"><img src="https://pbs.twimg.com/media/HS88G4YbsAAXHKS?format=jpg&amp;name=medium" alt="Training a Jev-like local model with image understanding · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 706</p>
 <p><a href="https://x.com/AlchainHust/status/2102965661219856700">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/allietheicon/status/2102960906569470092"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev Use Cases for Real-Time Speech · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,30 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 286</p>
 <p><a href="https://x.com/allietheicon/status/2102960906569470092">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/Numankhannnnn/status/2103020559651246237"><img src="https://pbs.twimg.com/media/HS9uBT4acAAoE9R?format=jpg&amp;name=medium" alt="A Fun Little Experiment with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Numankhannnnn/status/2103020559651246237">A Fun Little Experiment with Jev</a></h3>
+<p>The author shares a playful experiment using Jev to analyze a reply, scoring it 65% passive-aggressive.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 分析回复的趣味实验，结果显示65%被动攻击性。</p>
+<p><strong>Numan</strong> · @Numankhannnnn · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 270</p>
+<p><a href="https://x.com/Numankhannnnn/status/2103020559651246237">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/niveditjain/status/2103022006438641806"><img src="https://pbs.twimg.com/media/HS9uphCbAAA-biK?format=jpg&amp;name=medium" alt="Jev Buildathon: Rewarding Reliable High-Risk Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/niveditjain/status/2103022006438641806">Jev Buildathon: Rewarding Reliable High-Risk Agents</a></h3>
+<p>On Sunday, Sep 27, Jev Buildathon takes place at Failproof House, HSR Layout. It rewards high-risk use cases that still run reliably, requiring an agent that does real work—every move it makes will be judged.</p>
+<p><strong>中文摘要：</strong>9月27日周日，Jev Buildathon将在HSR Layout的Failproof House举行。活动奖励那些在最不可靠场景下仍能稳定运行的高风险用例，要求提交能实际工作的Agent，并逐一评判其每一步操作。</p>
+<p><strong>Nivedit Jain</strong> · @niveditjain · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 14 &nbsp; 📊 214</p>
+<p><a href="https://x.com/niveditjain/status/2103022006438641806">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SterlingCooley/status/2103004785150685563"><img src="https://pbs.twimg.com/media/HS9fktQb0AAKbRx?format=jpg&amp;name=medium" alt="Tricking Jev with the Strawberry r&#39;s question · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 174</p>
 <p><a href="https://x.com/SterlingCooley/status/2103004785150685563">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Vettan0/status/2102977655532335370"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976784014704640/img/ZRCoKwUroSvoBaqA.jpg" alt="Jev classifies 1,018 research papers across 24 topics for $0.08 · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +92,17 @@
 <p><strong>Vettan</strong> · @Vettan0 · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 173</p>
 <p><a href="https://x.com/Vettan0/status/2102977655532335370">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AGTPinsights/status/2103000500165890204"><img src="https://pbs.twimg.com/media/HS9bymjbAAAv57q?format=jpg&amp;name=medium" alt="Jev Goes Viral: Rick and Morty Explains TypeSafe AI&#39;s Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AGTPinsights/status/2103000500165890204">Jev Goes Viral: Rick and Morty Explains TypeSafe AI&#39;s Model</a></h3>
+<p>TypeSafe AI&#39;s Jev went viral today as a Rick and Morty-style clip explaining Jev racked up over 1 million views, with viewers saying the cartoon explained it better than tech demos or whitepapers.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 今日在社交媒体走红，一段由 Rick and Morty 风格解释 Jev 的片段获得超百万观看，网友称动画比技术演示或白皮书解释得更好。</p>
+<p><strong>AGTP</strong> · @AGTPinsights · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 0 &nbsp; 📊 154</p>
+<p><a href="https://x.com/AGTPinsights/status/2103000500165890204">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -83,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/mimu_ai1/status/2103025743135654271"><img src="https://pbs.twimg.com/media/HS9yxCdaEAA9B4-?format=jpg&amp;name=medium" alt="Testing the Jev Model: Emoji Grid Reasoning Challenge · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mimu_ai1/status/2103025743135654271">Testing the Jev Model: Emoji Grid Reasoning Challenge</a></h3>
+<p>The author tested EnterProAI&#39;s new Jev model with an emoji grid and a simple rule, letting the model figure out which ones belong. No manual picking, just prompt to result.</p>
+<p><strong>中文摘要：</strong>作者测试了 EnterProAI 的新 Jev 模型，给出了一个表情符号网格和一条简单规则，让模型判断哪些属于该规则。无需手动挑选，直接提示即可得到结果。</p>
+<p><strong>Mimu | AI Tools &amp; News</strong> · @mimu_ai1 · 2026-09-24</p>
+<p>💬 4 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 107</p>
+<p><a href="https://x.com/mimu_ai1/status/2103025743135654271">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Weinbach/status/2103008034931032378"><img src="https://pbs.twimg.com/media/HS9immoWsAA2mci?format=png&amp;name=small" alt="The Road to 1 Trillion Tokens on Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -93,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 105</p>
 <p><a href="https://x.com/Weinbach/status/2103008034931032378">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/osamalamaaa/status/2102969786338558220"><img src="https://pbs.twimg.com/amplify_video_thumb/2102968294877605888/img/u9UwRSL9A6r9gL9B.jpg" alt="Community discussion on Jev use cases · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 85</p>
 <p><a href="https://x.com/osamalamaaa/status/2102969786338558220">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AradhyeAgarwal/status/2102984613056671969"><img src="https://pbs.twimg.com/media/HS9L7XcaIAAqJxQ?format=jpg&amp;name=medium" alt="A Skeptical Take on Jev: Modeling Choices Lead to Real Failure Modes · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
 <p><a href="https://x.com/AradhyeAgarwal/status/2102984613056671969">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ItsCuthulhu/status/2102980902959636759"><img src="https://pbs.twimg.com/media/HS9JuuOWMAAD8Bk?format=jpg&amp;name=medium" alt="Challenging Jev on DGX Spark: Open-Source System One Model Experiment · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 65</p>
 <p><a href="https://x.com/ItsCuthulhu/status/2102980902959636759">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tokenbytoken_ai/status/2103006424859046346"><img src="https://pbs.twimg.com/media/HS9hBfeXQAA5rTw?format=jpg&amp;name=medium" alt="Jev AI Practical Guide &amp; LLM System Design Digest · 原帖图片" width="100%"></a>
 <br>
@@ -140,6 +199,19 @@
 <p><strong>token by token</strong> · @tokenbytoken_ai · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 59</p>
 <p><a href="https://x.com/tokenbytoken_ai/status/2103006424859046346">在 X 查看原帖</a> · <a href="https://t.co/bPZfV6wPD9">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SoCalJayF/status/2103002322175668313"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001983380758529/img/po6H7kWnrFZO0d9E.jpg" alt="Jev as Semantic VAD for Real-Time Voice AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SoCalJayF/status/2103002322175668313">Jev as Semantic VAD for Real-Time Voice AI</a></h3>
+<p>A developer explores using Jev in AgoraIO ConvoAI to decide if a user has finished speaking, based on live transcript and recent conversation context.</p>
+<p><strong>中文摘要：</strong>开发者分享将 Jev 集成到 AgoraIO ConvoAI，利用实时转录和对话上下文判断用户是否说完，为语音 AI 提供语义级语音活动检测。</p>
+<p><strong>Jay F</strong> · @SoCalJayF · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><a href="https://x.com/SoCalJayF/status/2103002322175668313">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/alisadiq_ai/status/2102989403924660528"><img src="https://pbs.twimg.com/amplify_video_thumb/2102870162567258112/img/TjctDdGxpZpF_DOj.jpg" alt="Building a real-time LinkedIn filter with Jev · 原帖视频截图" width="100%"></a>
@@ -203,6 +275,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/williswee/status/2103028022358204876"><img src="https://pbs.twimg.com/amplify_video_thumb/2103027775171149824/img/RJWc2xg-KsHJhyCv.jpg" alt="A small frontend experiment with Jev as a router · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/williswee/status/2103028022358204876">A small frontend experiment with Jev as a router</a></h3>
+<p>The author shares experience using TypeSafe&#39;s Jev as a router in a project, and tries extending it to the frontend, combining with ShapeShift for a fluid UI visualization experiment.</p>
+<p><strong>中文摘要：</strong>作者分享在项目中使用 TypeSafe 的 Jev 作为路由器的体验，并尝试将它扩展到前端，结合 ShapeShift 做流体 UI 可视化实验。</p>
+<p><strong>Willis Wee</strong> · @williswee · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 26</p>
+<p><a href="https://x.com/williswee/status/2103028022358204876">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Bee_Bombshell/status/2103009065047867393"><img src="https://pbs.twimg.com/amplify_video_thumb/2103009057128976384/img/gEUWwHUEKvb6kWjP.jpg" alt="Jev: A new option for high-volume classification tasks? · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -212,6 +295,19 @@
 <p><strong>BeeBombshell 🐝</strong> · @Bee_Bombshell · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Bee_Bombshell/status/2103009065047867393">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abbas_kazmi066/status/2103001408354369937"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001205118992384/img/mfG_e0IFnKlczbNe.jpg" alt="JEV Use Case: Hover Explanations at ~$0.006 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abbas_kazmi066/status/2103001408354369937">JEV Use Case: Hover Explanations at ~$0.006</a></h3>
+<p>User shares a use case for JEV, e.g., Hover Explanations. The demo test cost about $0.006, described as very cheap and fast.</p>
+<p><strong>中文摘要：</strong>用户分享JEV的应用场景，例如悬浮解释功能。演示测试成本约0.006美元，非常便宜且快速。</p>
+<p><strong>Awais.</strong> · @abbas_kazmi066 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/abbas_kazmi066/status/2103001408354369937">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/sermakarevich/status/2102987391547879856"><img src="https://pbs.twimg.com/media/HS9P4U3XAAA_T3J?format=jpg&amp;name=medium" alt="JEV use case for AI coding interview prep · 原帖图片" width="100%"></a>
@@ -251,6 +347,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/project_oka/status/2103025349932331186"><img src="https://pbs.twimg.com/media/HS9sAbAbgAAzL3h?format=jpg&amp;name=medium" alt="What is Jev? Not a writing AI, but a decision AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/project_oka/status/2103025349932331186">What is Jev? Not a writing AI, but a decision AI</a></h3>
+<p>A solo developer used ChatGPT to diagram Jev, noting it excels at classification, judgment, and prioritization, unlike text-generation AI.</p>
+<p><strong>中文摘要：</strong>个人开发者用 ChatGPT 画出图解，指出 Jev 擅长分类、判定和优先级排序，与文本生成型 AI 不同。</p>
+<p><strong>oka@個人開発</strong> · @project_oka · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><a href="https://x.com/project_oka/status/2103025349932331186">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ericjingyang/status/2102981687110160769"><img src="https://pbs.twimg.com/amplify_video_thumb/2102981132811931648/img/T6ekwuEUDmIeeEjJ.jpg" alt="The Not Slop extension, powered by Jev, detects LinkedIn and X slop as you scroll · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -261,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
 <p><a href="https://x.com/ericjingyang/status/2102981687110160769">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gochaberulava/status/2103011455301747024"><img src="https://pbs.twimg.com/media/HS9lqjkW4AAe4-n?format=jpg&amp;name=medium" alt="A humorous post about building a Jev alternative · 原帖图片" width="100%"></a>
 <br>
@@ -271,6 +380,17 @@
 <p><strong>Gocha</strong> · @gochaberulava · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/gochaberulava/status/2103011455301747024">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nuel_ikwuoma/status/2102999820378005949"><img src="https://pbs.twimg.com/amplify_video_thumb/2102719057627951104/img/XgPK-xoSSlbIWvUX.jpg" alt="Use Jev for LLM-as-a-judge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nuel_ikwuoma/status/2102999820378005949">Use Jev for LLM-as-a-judge</a></h3>
+<p>The post suggests using Jev for LLM-as-a-judge scenarios.</p>
+<p><strong>中文摘要：</strong>帖子建议在 LLM-as-a-judge 场景中使用 Jev。</p>
+<p><strong>nuel</strong> · @nuel_ikwuoma · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/nuel_ikwuoma/status/2102999820378005949">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -284,6 +404,30 @@
 <p><strong>幻想的新月🇨🇳The pure moon of fantaisie🌟</strong> · @Fantasality · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/Fantasality/status/2102961023435395448">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fsgeek_pl/status/2103001742690721954"><img src="https://pbs.twimg.com/media/HS9c8MHbEAAPja7?format=png&amp;name=medium" alt="Fullstack Pulse: Thoughts on Jev and Where It Fits · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fsgeek_pl/status/2103001742690721954">Fullstack Pulse: Thoughts on Jev and Where It Fits</a></h3>
+<p>In Monday&#39;s Fullstack Pulse, Aleksander Patschek shares his take on Jev and where it can be useful, along with AI engineering in legacy code, git worktree pitfalls, Copilot&#39;s Rust migration, the OpenAI breach, and metrics to watch in the AI era.</p>
+<p><strong>中文摘要：</strong>Aleksander Patschek 在周一的 Fullstack Pulse 中分享了他对 Jev 的看法和适用场景，并讨论了旧代码中的 AI 工程、git worktree 陷阱、Copilot 迁移到 Rust、OpenAI 被入侵事件以及 AI 时代该关注哪些指标。</p>
+<p><strong>Aleksander Patschek - FSGeek</strong> · @fsgeek_pl · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/fsgeek_pl/status/2103001742690721954">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/paul_asjes/status/2103029515546939761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Built with Scribe v2 Realtime &amp; Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/paul_asjes/status/2103029515546939761">Built with Scribe v2 Realtime &amp; Jev</a></h3>
+<p>Paul Asjes shows what he built with Scribe v2 Realtime and Jev, asking if the community wants to know more about how it was built.</p>
+<p><strong>中文摘要：</strong>Paul Asjes 展示了用 Scribe v2 Realtime 和 Jev 构建的项目，并询问社区是否希望了解更多构建细节。</p>
+<p><strong>Paul Asjes</strong> · @paul_asjes · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/paul_asjes/status/2103029515546939761">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/crespodario/status/2102982605364773271"><img src="https://pbs.twimg.com/media/HS9LiHVWMAAk2-i?format=jpg&amp;name=medium" alt="Try Jev in a chat with no installation · 原帖图片" width="100%"></a>

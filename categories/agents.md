@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 217 | 118 | 100 | 3.0M |
+| 221 | 121 | 101 | 3.0M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/spectnfa/status/2103099127429030044"><img src="https://pbs.twimg.com/media/HS-1XdGWUAAH1su?format=jpg&amp;name=medium" alt="Leaked internal architecture doc for Grok Bot + Jev: 8 agents with one decision layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/spectnfa/status/2103099127429030044">Leaked internal architecture doc for Grok Bot + Jev: 8 agents with one decision layer</a></h3>
+<p>A leaked diagram reveals the internal architecture of Grok Bot and Jev, featuring 8 agents handling research, writing, code, design, SEO, all orchestrated by a single decision layer.</p>
+<p><strong>中文摘要：</strong>据爆料，Grok Bot 与 Jev 的内部架构图被泄露，展示了由研究、写作、代码、设计、SEO等组成的8个智能体，以及一个共享决策层。</p>
+<p><strong>spect</strong> · @spectnfa · 2026-09-24</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 244</p>
+<p><a href="https://x.com/spectnfa/status/2103099127429030044">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ikuberan/status/2102978995235299506"><img src="https://pbs.twimg.com/amplify_video_thumb/2100410607807918080/img/lNfcykqoOvLoZHWa.jpg" alt="Jev Browser Automation Experience · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 220</p>
 <p><a href="https://x.com/ikuberan/status/2102978995235299506">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/asahi_ai_x/status/2103001485885784532"><img src="https://pbs.twimg.com/media/HS5b0bCaEAAYaRc?format=jpg&amp;name=medium" alt="Jev: An AI that selects, not writes · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 163</p>
 <p><a href="https://x.com/asahi_ai_x/status/2103001485885784532">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dr_chrisjones/status/2102987450184532004"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987320953917440/img/RhuGdJ72MRCL5jfb.jpg" alt="Building a Data Center Optimizer with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
 <p><a href="https://x.com/dr_chrisjones/status/2102987450184532004">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/phil_dressler/status/2102960183404368202"><img src="https://pbs.twimg.com/amplify_video_thumb/2102960133945122816/img/KDoRAI1EQilcjbSB.jpg" alt="Jev-powered AI agents compete in GTA-style fighter jet contest · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 45</p>
 <p><a href="https://x.com/phil_dressler/status/2102960183404368202">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LilysAI_/status/2102963245837606995"><img src="https://pbs.twimg.com/media/HS857TFa8AEFKE4?format=jpg&amp;name=medium" alt="Jev: The Decision-Making Brain for AI Agents · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/LilysAI_/status/2102963245837606995">在 X 查看原帖</a> · <a href="https://t.co/aP9imHPFHX">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kevindubois/status/2103082072726446496"><img src="https://pbs.twimg.com/media/HS-l_hgWkAAny7c?format=jpg&amp;name=medium" alt="Routing Agents with Jev and Laya in LangChain4j · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
 <p><a href="https://x.com/kevindubois/status/2103082072726446496">在 X 查看原帖</a> · <a href="https://t.co/kpOqUTidoI">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/briandonatiello/status/2103052171373957542"><img src="https://pbs.twimg.com/media/HS-KxqmXwAAX5og?format=jpg&amp;name=medium" alt="Testing JEV for AI agent routing: matching big models with a different prompt at one-third latency · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/briandonatiello/status/2103052171373957542">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PaliwalMuskan19/status/2103020089180299386"><img src="https://pbs.twimg.com/amplify_video_thumb/2103019455400079360/img/aEWbhS6FPOZaCoTc.jpg" alt="Ranking agent skills with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/PaliwalMuskan19/status/2103020089180299386">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tjsiingh/status/2103080622155583572"><img src="https://pbs.twimg.com/media/HS-krUxWcAAHcFn?format=jpg&amp;name=medium" alt="Discussion on future applications of Jev-like algorithms · 原帖图片" width="100%"></a>
 <br>
@@ -188,6 +199,19 @@
 <p><strong>TJ Singh</strong> · @tjsiingh · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/tjsiingh/status/2103080622155583572">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Shashikant86/status/2103121005015085234"><img src="https://pbs.twimg.com/amplify_video_thumb/2103119821168603136/img/Aqs3x_VmNr2ltJlD.jpg" alt="Jev Tool Router and Codex Experiment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Shashikant86/status/2103121005015085234">Jev Tool Router and Codex Experiment</a></h3>
+<p>The author is running experiments with Codex and SuperQode, and plans to test the Jev Tool Router to prevent Codex from using unwanted skills like browser.</p>
+<p><strong>中文摘要：</strong>作者正在用 Codex 和 SuperQode 进行实验，并计划测试 Jev Tool Router，以避免 Codex 使用浏览器等不想要的技能。</p>
+<p><strong>Shashi</strong> · @Shashikant86 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/Shashikant86/status/2103121005015085234">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/edwinfmesa/status/2102968654048715261"><img src="https://pbs.twimg.com/media/HS883fkXUAAzxxB?format=jpg&amp;name=medium" alt="Jev vs Laya: Different Choices in Security Queries · 原帖图片" width="100%"></a>
@@ -238,6 +262,19 @@
 <p><a href="https://x.com/0x_freddy/status/2103083854860898592">在 X 查看原帖</a> · <a href="https://grok.com/imagine/post/ecc7049a-10b8-4204-afb2-b81242b301e6">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/gigalester/status/2103100001735827959"><img src="https://pbs.twimg.com/amplify_video_thumb/2103099739495432192/img/DsomP-mI6sH7hTMo.jpg" alt="Jev Engineering: Turning Agent Chains into Self-Routing Decision Graphs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gigalester/status/2103100001735827959">Jev Engineering: Turning Agent Chains into Self-Routing Decision Graphs</a></h3>
+<p>Jev engineering converts a single agent chain into a decision graph that can reroute itself, removing expensive models from every loop and claiming up to 193x gains.</p>
+<p><strong>中文摘要：</strong>Jev 工程将单一代理链转化为可自路由的决策图，使执行不再沿固定路径，并将昂贵模型移出每个决策循环，声称可带来高达 193 倍的提升。</p>
+<p><strong>Lester</strong> · @gigalester · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 14</p>
+<p><a href="https://x.com/gigalester/status/2103100001735827959">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/jgreen_us/status/2103078764150133112"><img src="https://pbs.twimg.com/amplify_video_thumb/2102486637041315840/img/FzZ0g52-3ocut6K2.jpg" alt="Jev for offloading skill and tool-call decisions · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -248,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/jgreen_us/status/2103078764150133112">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/holidaynotes/status/2103081820011262418"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081795424235520/img/CGAHVvPDVdKp9isO.jpg" alt="Jev-powered wallet sandbox: permission control before AI agent transactions · 原帖视频截图" width="100%"></a>
 <br>
@@ -260,6 +295,19 @@
 <p><strong>0xHoliday | AI × Onchain</strong> · @holidaynotes · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/holidaynotes/status/2103081820011262418">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/InfoLBsocial/status/2103122290577993865"><img src="https://pbs.twimg.com/amplify_video_thumb/2102955947521937408/img/6jiDXTFEuXpiECrk.jpg" alt="JEV&#39;s Decision Role in AI Agent Workflows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/InfoLBsocial/status/2103122290577993865">JEV&#39;s Decision Role in AI Agent Workflows</a></h3>
+<p>LLMs generate, JEV decides. In an AI agent workflow, JEV handles fast structured decisions while an LLM takes on more complex reasoning and generation. Different jobs, one workflow.</p>
+<p><strong>中文摘要：</strong>LLM负责生成，JEV负责决策。在AI代理工作流中，JEV处理快速结构化决策，LLM处理更复杂的推理和生成。不同任务，同一工作流。</p>
+<p><strong>LBSocial</strong> · @InfoLBsocial · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/InfoLBsocial/status/2103122290577993865">在 X 查看原帖</a> · <a href="https://t.co/UcQ7GgItTA">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052983768666306"><img src="https://pbs.twimg.com/amplify_video_thumb/2102261082186452992/img/onvkqjshInVA3UcW.jpg" alt="Autonomous Persona Simulator with Jev (System-1) + GPT (System-2) · 原帖视频截图" width="100%"></a>

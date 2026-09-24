@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 182 | 71 | 111 | 419K |
+| 184 | 71 | 113 | 419K |
 
 ## Showcase 卡片
 
@@ -131,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/DanRaeder/status/2103096626168369232"><img src="https://pbs.twimg.com/media/HS-y-5SWIAAvpvr?format=jpg&amp;name=medium" alt="Vej: A Local Clone of Jev Built with Claude · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DanRaeder/status/2103096626168369232">Vej: A Local Clone of Jev Built with Claude</a></h3>
+<p>While new Jev invites are paused, Daniel Raeder built Vej, a local Jev clone, with Claude. It&#39;s nearly 1:1 for noul and choice but weakest on score types, letting you build and experiment with Jev-based apps before getting official access. Repo on GitHub.</p>
+<p><strong>中文摘要：</strong>Jev 新邀请暂停期间，Daniel Raeder 与 Claude 合作构建了本地运行的 Vej，作为 Jev 的克隆版。其 noul 和 choice 表现接近原版，但 score 类型最弱，可用于在获得官方访问权限前构建和体验基于 Jev 的应用。仓库见 GitHub。</p>
+<p><strong>Daniel Raeder</strong> · @DanRaeder · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/DanRaeder/status/2103096626168369232">在 X 查看原帖</a> · <a href="https://t.co/w7BSc4kGbt">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/0x_Leonn/status/2103084223087169926"><img src="https://pbs.twimg.com/amplify_video_thumb/2103082288984584193/img/Tc_VYz3FUZsLN8G3.jpg" alt="Jev Projects on GitHub Worth Stealing · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
 <p><a href="https://x.com/0x_Leonn/status/2103084223087169926">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jerrycxu/status/2102963513039683840"><img src="https://pbs.twimg.com/tweet_video_thumb/HS858-NXoAAQxCX.jpg" alt="tab-jev: A Jev-like Model Combined with a Tabular Foundation Model for In-Context Learning · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/jerrycxu/status/2102963513039683840">在 X 查看原帖</a> · <a href="https://t.co/4NtasEtLeB">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/picocreator/status/2102973326226546956"><img src="https://pbs.twimg.com/media/HS9C8Q_a0AAG9QO?format=jpg&amp;name=medium" alt="Jev model prompt format and inference code guide · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/picocreator/status/2102973326226546956">在 X 查看原帖</a> · <a href="https://t.co/NQBQv6tyGs">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2103077570778636475"><img src="https://pbs.twimg.com/media/HS-h4Q6X0AAWo-_?format=jpg&amp;name=medium" alt="JevBench Adds Context Length Evaluation · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/benchmarkheaven/status/2103077570778636475">在 X 查看原帖</a> · <a href="https://t.co/8qFEDUuLno">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/intentplex/status/2103019292186874187"><img src="https://pbs.twimg.com/media/HS9sx2hXsAAvhMD?format=jpg&amp;name=medium" alt="Risetive: The Best Jev Project Directory · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/intentplex/status/2103019292186874187">在 X 查看原帖</a> · <a href="https://t.co/pBs3t2ye0z">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/webbobpaco/status/2103007800842756496"><img src="https://pbs.twimg.com/media/HS9iFZjaoAAj6a4?format=jpg&amp;name=medium" alt="Jev Research Index Launched · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/webbobpaco/status/2103007800842756496">在 X 查看原帖</a> · <a href="https://t.co/DN0bnpnwq7">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/buildAgoat/status/2103082014966476994"><img src="https://pbs.twimg.com/media/HS68Hc5bYAAwDw5?format=jpg&amp;name=medium" alt="Jev core in ~25 lines of Python: small local GGUF and logit-based decisions · 原帖图片" width="100%"></a>
 <br>
@@ -212,6 +223,19 @@
 <p><strong>Build A Goat</strong> · @buildAgoat · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/buildAgoat/status/2103082014966476994">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/poteminr/status/2103103609474785404"><img src="https://pbs.twimg.com/media/HS-4qgLWoAA4n3n?format=jpg&amp;name=large" alt="Question on Optimizing Jev Model Input · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/poteminr/status/2103103609474785404">Question on Optimizing Jev Model Input</a></h3>
+<p>Asks whether model prompts were optimized with test data and whether Jev input was also optimized.</p>
+<p><strong>中文摘要：</strong>询问是否利用测试数据优化模型提示，以及是否也对Jev输入进行了优化。</p>
+<p><strong>potemin</strong> · @poteminr · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/poteminr/status/2103103609474785404">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/plastikelectrik/status/2102985979082797226"><img src="https://pbs.twimg.com/media/HS9OTkyXAAAnMF0?format=jpg&amp;name=medium" alt="JEV Quickstart Kit: Start Shipping in 15 Minutes · 原帖图片" width="100%"></a>

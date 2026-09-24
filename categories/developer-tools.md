@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 325 | 177 | 150 | 3.6M |
+| 327 | 177 | 152 | 3.6M |
 
 ## Showcase 卡片
 
@@ -155,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/codegirl007/status/2103122285183803642"><img src="https://pbs.twimg.com/media/HS-AVmfaAAA--oo?format=jpg&amp;name=medium" alt="Developer Builds Linter Using Jev to Encode Code Taste · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/codegirl007/status/2103122285183803642">Developer Builds Linter Using Jev to Encode Code Taste</a></h3>
+<p>A developer created a linter that leverages Jev to codify code style preferences into JSON rules. It supports common programming languages and could help streamline PR reviews and constrain AI agents.</p>
+<p><strong>中文摘要：</strong>一位开发者利用 Jev 将代码品味规范为 JSON 规则，构建了一个支持多数常见编程语言的 linter，可提升 PR 审查效率并帮助约束 AI agent。</p>
+<p><strong>codegirl007</strong> · @codegirl007 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
+<p><a href="https://x.com/codegirl007/status/2103122285183803642">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/SinghalPratul/status/2103069214638817432"><img src="https://pbs.twimg.com/amplify_video_thumb/2100454021852954624/img/hqULLONlXw40573G.jpg" alt="Jev Model Router Demo · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/SinghalPratul/status/2103069214638817432">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TypeLLM/status/2103007504494108949"><img src="https://pbs.twimg.com/media/HS9h_SGbkAAC-VQ?format=jpg&amp;name=medium" alt="TypeLLM Supports Native Numerical Outputs, Filling Jev Model Gap · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/TypeLLM/status/2103007504494108949">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JackdeS11/status/2103027532241175014"><img src="https://pbs.twimg.com/amplify_video_thumb/2103027470207422464/img/BWgnDEPnvQU9EfHO.jpg" alt="Local Models vs Jev: Accuracy Comparison Experiment · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/JackdeS11/status/2103027532241175014">在 X 查看原帖</a> · <a href="https://t.co/hOlnJVLfwJ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbelorix/status/2102991417392218335"><img src="https://pbs.twimg.com/amplify_video_thumb/2102115729432522752/img/YA1bKtf3SghRN5qp.jpg" alt="Jev: $0.042 per 1M input tokens, output free · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/0xbelorix/status/2102991417392218335">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/khaskydev/status/2103016868772811169"><img src="https://pbs.twimg.com/media/HS9qsQ2akAAHeP4?format=jpg&amp;name=medium" alt="Jev Skill Suggestion Mod: Pick One Skill per Prompt · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/khaskydev/status/2103016868772811169">在 X 查看原帖</a> · <a href="https://t.co/PjQbBMqMIT">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jetwaniavinash/status/2103088357077328290"><img src="https://pbs.twimg.com/amplify_video_thumb/2103088252538232834/img/QWjK_w205nRkSWwv.jpg" alt="Building a memory gate for Claude Code on Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/jetwaniavinash/status/2103088357077328290">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stephonomon/status/2102965397469245480"><img src="https://pbs.twimg.com/media/HS87to1WgAAhVtK?format=jpg&amp;name=medium" alt="Using Jev to Identify Potential Errors in AI Drafts · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/stephonomon/status/2102965397469245480">在 X 查看原帖</a> · <a href="https://t.co/3yntXGyKAc">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SinghalPratul/status/2103068996719579247"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Instant compaction: replacing summarization with Jev scoring · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/SinghalPratul/status/2103068996719579247">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2103067158427345240"><img src="https://pbs.twimg.com/media/HS-YaJXW4AAQ8h9?format=jpg&amp;name=medium" alt="Jev 1.13.0 Benchmark: Close to Winnow-12B · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/benchmarkheaven/status/2103067158427345240">在 X 查看原帖</a> · <a href="https://t.co/z0d2ffoTCG">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Likitd_/status/2102983213455175740"><img src="https://pbs.twimg.com/media/HS9L6qTaQAAMOJQ?format=jpg&amp;name=medium" alt="jev-ranker: Jev-Powered Reranking for RAG · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/Likitd_/status/2102983213455175740">在 X 查看原帖</a> · <a href="https://t.co/bVS4imBxhP">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarisCodes/status/2103073432477044778"><img src="https://pbs.twimg.com/media/HS-dm6BasAA3G9L?format=png&amp;name=900x900" alt="Jev vs LLMs: Type-safe AI function calls · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
 <p><a href="https://x.com/WarisCodes/status/2103073432477044778">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuriODev/status/2103069257307509111"><img src="https://pbs.twimg.com/media/HS-aWEqbQAAPL53?format=jpg&amp;name=medium" alt="Jev catches 6/7 defects at 25x the speed · 原帖图片" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/YuriODev/status/2103069257307509111">在 X 查看原帖</a> · <a href="https://t.co/xWVhnutV0p">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuriODev/status/2103069181906497881"><img src="https://pbs.twimg.com/media/HS-aRrwbIAAxrSK?format=jpg&amp;name=medium" alt="LangChain Ships Jev as a Tool-Call Gate and Model Router · 原帖图片" width="100%"></a>
 <br>
@@ -308,6 +319,19 @@
 <p><strong>Yurii Oksamytnyi</strong> · @YuriODev · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/YuriODev/status/2103069181906497881">在 X 查看原帖</a> · <a href="https://t.co/KvDWPlhE1N">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/devAidan0/status/2103123528539337199"><img src="https://pbs.twimg.com/media/HS_Ls-BWcAAlqXz?format=jpg&amp;name=medium" alt="Jev Test Ranking: 96% of Failing Tests in Top 10% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/devAidan0/status/2103123528539337199">Jev Test Ranking: 96% of Failing Tests in Top 10%</a></h3>
+<p>On 113 Defects4J bugs, the Jev model ranks test suites so that 96% of failing tests appear in the top 10%, outperforming BM25 and GPT-5.4 nano to fail builds faster.</p>
+<p><strong>中文摘要：</strong>在Defects4J的113个bug上，Jev模型对测试套件排序，使96%的失败测试出现在前10%，超过BM25和GPT-5.4 nano，帮助更快定位失败构建。</p>
+<p><strong>Aidan</strong> · @devAidan0 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/devAidan0/status/2103123528539337199">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/RickyGrannisVu/status/2102597280494965040"><img src="https://pbs.twimg.com/media/HS3sGvtbMAEHquB?format=jpg&amp;name=medium" alt="Rewrite if statements with Jev: natural language conditions · 原帖图片" width="100%"></a>

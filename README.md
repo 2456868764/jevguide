@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2916</strong><br>curated posts</td>
-<td align="center"><strong>1566</strong><br>original videos</td>
+<td align="center"><strong>2948</strong><br>curated posts</td>
+<td align="center"><strong>1581</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>346</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>347</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>324</strong> showcases · <strong>177</strong> videos</p>
+<p><strong>325</strong> showcases · <strong>177</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>305</strong> showcases · <strong>126</strong> videos</p>
+<p><strong>311</strong> showcases · <strong>129</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>298</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>299</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>269</strong> showcases · <strong>207</strong> videos</p>
+<p><strong>270</strong> showcases · <strong>207</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>214</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>217</strong> showcases · <strong>118</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>191</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>193</strong> showcases · <strong>102</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>175</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>182</strong> showcases · <strong>71</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>133</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>136</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>114</strong> showcases · <strong>74</strong> videos</p>
+<p><strong>117</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>90</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>92</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>66</strong> showcases · <strong>55</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>56</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>44</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>45</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -231,12 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102963791973749060">Beacon on Jev fixes coding agents&#39; memory</a></h3>
-<p>Coding agents forget every fix and lesson when a session ends. Beacon, an open-source solution running on Jev, addresses this.</p>
-<p><strong>2.8K</strong> views · 💬 6 &nbsp; 🔁 10 &nbsp; ♡ 47 &nbsp; 📊 2.8K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/miasbuildlog/status/2103077962732216579"><img src="https://pbs.twimg.com/amplify_video_thumb/2103061826200330240/img/hJ0EoAR7WFdHeDEm.jpg" alt="Jev faces off against GPT-6 Sol and Claude Opus 5.5 in a Pac-Man maze · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/miasbuildlog/status/2103077962732216579">Jev faces off against GPT-6 Sol and Claude Opus 5.5 in a Pac-Man maze</a></h3>
+<p>Mia Bulids uses Enter Pro to place Jev, GPT-6 Sol, and Claude Opus 5.5 in the same Pac-Man maze, observing their decisions at every junction and sharing her commentary.</p>
+<p><strong>3.8K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 3.8K</p>
+<p><strong>Mia Bulids</strong> · @miasbuildlog</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/miasbuildlog/status/2103077962732216579"><img src="https://pbs.twimg.com/amplify_video_thumb/2103061826200330240/img/hJ0EoAR7WFdHeDEm.jpg" alt="Jev faces off against GPT-6 Sol and Claude Opus 5.5 in a Pac-Man maze · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/miasbuildlog/status/2103077962732216579">Jev faces off against GPT-6 Sol and Claude Opus 5.5 in a Pac-Man maze</a></h3>
+<p>Mia Bulids uses Enter Pro to place Jev, GPT-6 Sol, and Claude Opus 5.5 in the same Pac-Man maze, observing their decisions at every junction and sharing her commentary.</p>
+<p><strong>3.8K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 3.8K</p>
+<p><strong>Mia Bulids</strong> · @miasbuildlog</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/cyrilXBT/status/2102963791973749060">Beacon on Jev fixes coding agents&#39; memory</a></h3>
 <p>Coding agents forget every fix and lesson when a session ends. Beacon, an open-source solution running on Jev, addresses this.</p>
 <p><strong>2.8K</strong> views · 💬 6 &nbsp; 🔁 10 &nbsp; ♡ 47 &nbsp; 📊 2.8K</p>
 <p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/shota7180/status/2103001636230799564"><img src="https://pbs.twimg.com/media/HS83_cObQAA8CWz?format=jpg&amp;name=medium" alt="30 Easy Initial Judgments to Entrust to Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shota7180/status/2103001636230799564">30 Easy Initial Judgments to Entrust to Jev</a></h3>
-<p>For those who want to leave decisions to AI but don&#39;t know where to start, here are 30 initial judgments suitable for Jev, organized into three patterns: choose, measure, and verify.</p>
-<p><strong>2.5K</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 2.5K</p>
-<p><strong>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</strong> · @shota7180</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/chrisbrownridge/status/2102977990921789714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev Demo: Quickly Analyze Meta Ads and Landing Pages · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/chrisbrownridge/status/2102977990921789714">Jev Demo: Quickly Analyze Meta Ads and Landing Pages</a></h3>
-<p>Fetch Meta ads with treg, then use Jev to tear down landing pages fast — categorizing page types, offers, and sales copy to understand where brands send traffic.</p>
-<p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.1K</p>
-<p><strong>Chris Brownridge</strong> · @chrisbrownridge</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/tetumemo/status/2102964330547568706"><img src="https://pbs.twimg.com/media/HS865n5bEAAjdyw?format=jpg&amp;name=medium" alt="Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tetumemo/status/2102964330547568706">Practical Guide to Jev: Decision Brain for AI Agents and Cost Trade-offs</a></h3>
+<p>Learn how Jev acts as the decision core for AI agents, specializing in selections, numerical values, and yes/no judgments, with insights on cost trade-offs when designed well.</p>
+<p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
+<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
 </td>
 </tr>
 </table>

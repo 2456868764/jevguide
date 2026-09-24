@@ -1,7 +1,7 @@
-# leo
+# Leo
 
 1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-17 | [Rebuilding the X Algorithm with Jev: Simulating Post Virality](https://x.com/leojrr/status/2100470174130250127) | 社区实践 | leo | 171K |
+| 2026-09-24 | [Jev Produces Visual References in 1 Second](https://x.com/LeowenAI/status/2103101374628257802) | 内容创作 | Leo | 59 |

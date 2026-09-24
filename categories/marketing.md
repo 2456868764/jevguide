@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 90 | 72 | 18 | 904K |
+| 92 | 74 | 18 | 904K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/TheAIInsiderN/status/2103102769238352023"><img src="https://pbs.twimg.com/amplify_video_thumb/2103102652644995072/img/MSqUq1JnXOkHOZVM.jpg" alt="JEV + OPUS 5.5: Build an AI Virality Scoring System with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheAIInsiderN/status/2103102769238352023">JEV + OPUS 5.5: Build an AI Virality Scoring System with Jev</a></h3>
+<p>A developer used TypeSafe&#39;s Jev model with Opus 5.5 to build an AI system that analyzes the viral potential of X posts before publishing. Paste a link, get a virality score. The entire production version was built in 9 minutes.</p>
+<p><strong>中文摘要：</strong>一位开发者使用 TypeSafe 的 Jev 模型与 Opus 5.5 构建了一个 AI 系统，可在发布前分析 X 帖子的病毒式评分，粘贴链接即可获取分数，整个生产版本在 9 分钟内完成。</p>
+<p><strong>AI Insider</strong> · @TheAIInsiderN · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 16</p>
+<p><a href="https://x.com/TheAIInsiderN/status/2103102769238352023">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/SignalLedgerX/status/2103054336636952655"><img src="https://pbs.twimg.com/media/HS9c786XgAAN69M?format=jpg&amp;name=medium" alt="Testing Jev as the First Filter in Sales Prospecting · 原帖图片" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖图片</code></sub>
@@ -44,6 +55,19 @@
 <p><strong>Signal Ledger</strong> · @SignalLedgerX · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
 <p><a href="https://x.com/SignalLedgerX/status/2103054336636952655">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gabrielaxyeth/status/2103105334974062756"><img src="https://pbs.twimg.com/amplify_video_thumb/2103103381409783810/img/clSMU_IqpmAPvvaK.jpg" alt="StrehlAI Creates Viral Marketing Videos with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gabrielaxyeth/status/2103105334974062756">StrehlAI Creates Viral Marketing Videos with Jev</a></h3>
+<p>The author says StrehlAI studied 10,000+ viral videos and used Claude Opus 5.5, Jev, and the Higgsfield API to generate and edit this marketing video.</p>
+<p><strong>中文摘要：</strong>帖主称 StrehlAI 研究了 10,000+ 病毒视频，并用 Claude Opus 5.5、Jev 和 Higgsfield API 自动生成和编辑这支营销视频。</p>
+<p><strong>gabriel</strong> · @gabrielaxyeth · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/gabrielaxyeth/status/2103105334974062756">在 X 查看原帖</a> · <a href="https://t.co/KRaqKZKyT7">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/rewind02/status/2102739436060459414"><img src="https://pbs.twimg.com/amplify_video_thumb/2102739362735685632/img/C2bgrUCHE0_ysYqF.jpg" alt="Jev acts as router to optimize AI UGC ad rendering · 原帖视频截图" width="100%"></a>

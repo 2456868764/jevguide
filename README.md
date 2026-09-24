@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2681</strong><br>curated posts</td>
-<td align="center"><strong>1471</strong><br>original videos</td>
+<td align="center"><strong>2696</strong><br>curated posts</td>
+<td align="center"><strong>1476</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>326</strong> showcases · <strong>148</strong> videos</p>
+<p><strong>327</strong> showcases · <strong>149</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>300</strong> showcases · <strong>167</strong> videos</p>
+<p><strong>301</strong> showcases · <strong>167</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>238</strong> showcases · <strong>99</strong> videos</p>
+<p><strong>243</strong> showcases · <strong>102</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>166</strong> showcases · <strong>90</strong> videos</p>
+<p><strong>169</strong> showcases · <strong>91</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>159</strong> showcases · <strong>67</strong> videos</p>
+<p><strong>160</strong> showcases · <strong>67</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>38</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>41</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>21</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>22</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/RickyGrannisVu/status/2102597280494965040"><img src="https://pbs.twimg.com/media/HS3sGvtbMAEHquB?format=jpg&amp;name=medium" alt="Rewrite if statements with Jev: natural language conditions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RickyGrannisVu/status/2102597280494965040">Rewrite if statements with Jev: natural language conditions</a></h3>
-<p>A developer shows how Jev replaces deeply nested boolean expressions with a single natural language sentence, simplifying code logic.</p>
-<p><strong>4.0K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 4.0K</p>
-<p><strong>Ricky Grannis-Vu</strong> · @RickyGrannisVu</p>
+<a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102969271613526232">Project lets Jev dynamically choose reasoning level before generation</a></h3>
+<p>Introduces an open-source project that solves the issue where Codex&#39;s reasoning level is locked during execution, causing high token consumption even when reading files. It allows Jev to reselect the appropriate reasoning level before each generation.</p>
+<p><strong>196</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
-<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
-<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/dsmiley411/status/2102970671383134572"><img src="https://pbs.twimg.com/media/HS9Ao1BacAAw0Ri?format=png&amp;name=small" alt="Jev free credits exhausted: $5 for 123M tokens, user amazed at the low cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dsmiley411/status/2102970671383134572">Jev free credits exhausted: $5 for 123M tokens, user amazed at the low cost</a></h3>
+<p>User Dorian Smiley says he has used up Jev&#39;s $5 free credit, processing 123M tokens, and marvels at how cheap it is.</p>
+<p><strong>150</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 150</p>
+<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2102646684027371754"><img src="https://pbs.twimg.com/amplify_video_thumb/2102646658333110272/img/wGZSW9yEROcO_foS.jpg" alt="Agents Powered by Jev: 200x Faster and 400x Cheaper Than Standard Claude Code Loop · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102646684027371754">Agents Powered by Jev: 200x Faster and 400x Cheaper Than Standard Claude Code Loop</a></h3>
-<p>A developer shares an agent approach that splits reasoning from decision-making: let Claude Code write, let Jev decide, achieving major speed and cost improvements.</p>
-<p><strong>1.8K</strong> views · 💬 1 &nbsp; 🔁 8 &nbsp; ♡ 36 &nbsp; 📊 1.8K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/dsmiley411/status/2102969386978234550"><img src="https://pbs.twimg.com/media/HS88Q7OaYAA15HV?format=jpg&amp;name=medium" alt="Testing Jev&#39;s Accuracy for Next Best Action Prediction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dsmiley411/status/2102969386978234550">Testing Jev&#39;s Accuracy for Next Best Action Prediction</a></h3>
+<p>Dorian Smiley tested Jev&#39;s accuracy for next best action prediction. Results: canonical accuracy 98.6%, generalization accuracy 41.5%. Jev predicted the next state in a program from the current partial program. Suite: 25 cases, run 20 times; seven cases...</p>
+<p><strong>138</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
+<p><strong>Dorian Smiley</strong> · @dsmiley411</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/BAI_AGI/status/2102720633226572098"><img src="https://pbs.twimg.com/media/HS5U7YQaQAEhq9T?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Now Available on B.AI API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BAI_AGI/status/2102720633226572098">TypeSafe AI&#39;s Jev Model Now Available on B.AI API</a></h3>
-<p>TypeSafe AI&#39;s first System One model, Jev, is now available on the B.AI API. Designed for high-speed structured decision-making inside software, Jev does not generate text. Instead, it takes application state and typed questions as input and directly returns decisions with probabilities and confidence scores, supporting Choice, Score, Noul, and more.</p>
-<p><strong>1.7K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.7K</p>
-<p><strong>B.AI</strong> · @BAI_AGI</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/s_tat1204/status/2102969993780756822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="Observation on Jev Apps and Confidence Usage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/s_tat1204/status/2102969993780756822">Observation on Jev Apps and Confidence Usage</a></h3>
+<p>The author observes that applications using Jev and its derivatives seem to rely less on confidence, and suggests that embedding-based methods are often sufficient as long as identification is achieved.</p>
+<p><strong>124</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 124</p>
+<p><strong>Tatsuya Shirakawa</strong> · @s_tat1204</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/RickyGrannisVu/status/2102597280494965040"><img src="https://pbs.twimg.com/media/HS3sGvtbMAEHquB?format=jpg&amp;name=medium" alt="Rewrite if statements with Jev: natural language conditions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RickyGrannisVu/status/2102597280494965040">Rewrite if statements with Jev: natural language conditions</a></h3>
-<p>A developer shows how Jev replaces deeply nested boolean expressions with a single natural language sentence, simplifying code logic.</p>
-<p><strong>4.0K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 4.0K</p>
-<p><strong>Ricky Grannis-Vu</strong> · @RickyGrannisVu</p>
+<a href="https://x.com/QingQ77/status/2102969271613526232"><img src="https://pbs.twimg.com/media/HS8x0qEbgAA-8lr?format=png&amp;name=medium" alt="Project lets Jev dynamically choose reasoning level before generation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2102969271613526232">Project lets Jev dynamically choose reasoning level before generation</a></h3>
+<p>Introduces an open-source project that solves the issue where Codex&#39;s reasoning level is locked during execution, causing high token consumption even when reading files. It allows Jev to reselect the appropriate reasoning level before each generation.</p>
+<p><strong>196</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 196</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/BAI_AGI/status/2102720633226572098"><img src="https://pbs.twimg.com/media/HS5U7YQaQAEhq9T?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Now Available on B.AI API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BAI_AGI/status/2102720633226572098">TypeSafe AI&#39;s Jev Model Now Available on B.AI API</a></h3>
-<p>TypeSafe AI&#39;s first System One model, Jev, is now available on the B.AI API. Designed for high-speed structured decision-making inside software, Jev does not generate text. Instead, it takes application state and typed questions as input and directly returns decisions with probabilities and confidence scores, supporting Choice, Score, Noul, and more.</p>
-<p><strong>1.7K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.7K</p>
-<p><strong>B.AI</strong> · @BAI_AGI</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/s_tat1204/status/2102969993780756822"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="Observation on Jev Apps and Confidence Usage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/s_tat1204/status/2102969993780756822">Observation on Jev Apps and Confidence Usage</a></h3>
+<p>The author observes that applications using Jev and its derivatives seem to rely less on confidence, and suggests that embedding-based methods are often sufficient as long as identification is achieved.</p>
+<p><strong>124</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 124</p>
+<p><strong>Tatsuya Shirakawa</strong> · @s_tat1204</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2102680641649480094"><img src="https://pbs.twimg.com/media/HS444yzagAAykUs?format=jpg&amp;name=900x900" alt="Everything you need to know about Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2102680641649480094">Everything you need to know about Jev</a></h3>
-<p>A community post claiming to compile all key information about Jev, likely related to the TypeSafe Jev model.</p>
-<p><strong>1.6K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.6K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/snkrs_hack/status/2102971121700421908"><img src="https://pbs.twimg.com/media/HS9BFsdb0AARk5T?format=jpg&amp;name=large" alt="note Trend Radar (tentative) beta tester recruitment · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/snkrs_hack/status/2102971121700421908">note Trend Radar (tentative) beta tester recruitment</a></h3>
+<p>The website &quot;note Trend Radar (tentative)&quot; uses JEV to analyze trends on the note platform. Features title assessment, trending themes, and map display of daily changing themes. Beta testers are being recruited.</p>
+<p><strong>118</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
+<p><strong>りょ@AIの発信・元SNKRSガレージ</strong> · @snkrs_hack</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2102610658240135195"><img src="https://pbs.twimg.com/media/HSyh51MaUAAsvBp?format=png&amp;name=900x900" alt="Jev Decision Model Skill Pack and 108 Scenarios · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2102610658240135195">Jev Decision Model Skill Pack and 108 Scenarios</a></h3>
-<p>A curated guide to using the Jev decision model, offering 5 skills ready for coding agents and 108 reproducible scenarios, letting agents delegate classification, ranking, scoring and similar judgment tasks to Jev.</p>
-<p><strong>837</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 837</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<a href="https://x.com/cyrilXBT/status/2102605138125111367"><img src="https://pbs.twimg.com/media/HS30OPYbYAAEL69?format=jpg&amp;name=medium" alt="Jev + Claude Code Stack for Faster, Cheaper AI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2102605138125111367">Jev + Claude Code Stack for Faster, Cheaper AI Agents</a></h3>
+<p>Explains how a single prompt with the Jev + Claude Code stack lets AI agents run wide instead of long, improving speed and cutting costs, with three visuals breaking down the system.</p>
+<p><strong>2.2K</strong> views · 💬 1 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 2.2K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 </table>

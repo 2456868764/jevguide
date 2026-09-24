@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 22 | 9 | 13 | 82K |
+| 24 | 10 | 14 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jarekceborski/status/2103071312323158512"><img src="https://pbs.twimg.com/amplify_video_thumb/2103070346039439360/img/BKC0OZrUc3GgQ_SV.jpg" alt="Rebuilding CAPTCHA with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jarekceborski/status/2103071312323158512">Rebuilding CAPTCHA with Jev</a></h3>
+<p>The author rebuilt CAPTCHA using Jev: the browser measures how you fill in the form, the server turns it into a few plain sentences, and Jev decides if it&#39;s a person or a bot. Blog post and source code in the comments.</p>
+<p><strong>中文摘要：</strong>作者使用 Jev 重建了 CAPTCHA：浏览器测量表单填写行为，服务器将其转换为简洁的描述，由 Jev 判断是真人还是机器人。博客文章和源码见评论区。</p>
+<p><strong>Jarek</strong> · @jarekceborski · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 75</p>
+<p><a href="https://x.com/jarekceborski/status/2103071312323158512">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/YuriODev/status/2103069242270921186"><img src="https://pbs.twimg.com/media/HS-aVMZaIAAghBO?format=jpg&amp;name=medium" alt="Jev model evaluation on BANKING77 and adversarial injection analysis · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YuriODev/status/2103069242270921186">Jev model evaluation on BANKING77 and adversarial injection analysis</a></h3>
+<p>The referenced blog reports Jev zero-shot accuracy of 81.2% on BANKING77, below MiniLM+linear head&#39;s 89.9%; injected text moved prediction probability from 0.76 to 0.48, suggesting a potential security risk.</p>
+<p><strong>中文摘要：</strong>帖子引用的博客指出，Jev 在 BANKING77 上的 zero-shot 准确率为 81.2%，低于 MiniLM+线性头的 89.9%；注入文本可将预测概率从 0.76 降至 0.48，提示潜在安全风险。</p>
+<p><strong>Yurii Oksamytnyi</strong> · @YuriODev · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/YuriODev/status/2103069242270921186">在 X 查看原帖</a> · <a href="https://t.co/YpxLqRhaoC">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_xpn_/status/2102739497829961734"><img src="https://pbs.twimg.com/media/HS5uThHW4AAEsOk?format=png&amp;name=medium" alt="Jev quickly identifies sensitive files in file shares · 原帖图片" width="100%"></a>

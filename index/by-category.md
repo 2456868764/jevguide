@@ -1,24 +1,24 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 341
-- [Developer tools](../categories/developer-tools.md) — 316
+- [How it works](../categories/how-it-works.md) — 343
+- [Developer tools](../categories/developer-tools.md) — 321
 - [Access updates](../categories/access-updates.md) — 298
-- [Community builds](../categories/community-builds.md) — 287
-- [Gaming](../categories/gaming.md) — 267
-- [Agents](../categories/agents.md) — 203
-- [Launch news](../categories/launch-news.md) — 184
-- [Developer resources](../categories/developer-resources.md) — 170
-- [Finance](../categories/finance.md) — 130
-- [Workflow automation](../categories/workflow-automation.md) — 111
+- [Community builds](../categories/community-builds.md) — 296
+- [Gaming](../categories/gaming.md) — 268
+- [Agents](../categories/agents.md) — 208
+- [Launch news](../categories/launch-news.md) — 189
+- [Developer resources](../categories/developer-resources.md) — 173
+- [Finance](../categories/finance.md) — 133
+- [Workflow automation](../categories/workflow-automation.md) — 112
 - [Marketing](../categories/marketing.md) — 90
-- [Data analytics](../categories/data-analytics.md) — 71
+- [Data analytics](../categories/data-analytics.md) — 72
 - [Knowledge & search](../categories/knowledge-search.md) — 71
-- [Content creation](../categories/content-creation.md) — 65
-- [Scientific research](../categories/scientific-research.md) — 43
+- [Content creation](../categories/content-creation.md) — 66
+- [Scientific research](../categories/scientific-research.md) — 44
 - [Robotics](../categories/robotics.md) — 34
 - [Customer support](../categories/customer-support.md) — 27
 - [Productivity](../categories/productivity.md) — 25
-- [Cybersecurity](../categories/cybersecurity.md) — 22
+- [Cybersecurity](../categories/cybersecurity.md) — 24
 - [Business operations](../categories/business-operations.md) — 18
 - [Healthcare](../categories/healthcare.md) — 18
 - [Software development](../categories/software-development.md) — 17

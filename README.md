@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>2847</strong><br>curated posts</td>
-<td align="center"><strong>1536</strong><br>original videos</td>
+<td align="center"><strong>2886</strong><br>curated posts</td>
+<td align="center"><strong>1552</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>341</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>343</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>316</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>321</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>287</strong> showcases · <strong>120</strong> videos</p>
+<p><strong>296</strong> showcases · <strong>122</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>267</strong> showcases · <strong>205</strong> videos</p>
+<p><strong>268</strong> showcases · <strong>206</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>203</strong> showcases · <strong>112</strong> videos</p>
+<p><strong>208</strong> showcases · <strong>115</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>184</strong> showcases · <strong>96</strong> videos</p>
+<p><strong>189</strong> showcases · <strong>100</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>170</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>173</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>130</strong> showcases · <strong>71</strong> videos</p>
+<p><strong>133</strong> showcases · <strong>72</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>111</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>71</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>72</strong> showcases · <strong>39</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>65</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>66</strong> showcases · <strong>55</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>43</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>44</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>22</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>10</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>Charly Wargnier ♨️</strong> · @DataChaz</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/simplifyinAI/status/2102980316906610804"><img src="https://pbs.twimg.com/media/HS9FvTObwAAL-Gs?format=jpg&amp;name=medium" alt="Jev Founder Releases PDF on Building a Jev Harness for Coding Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/simplifyinAI/status/2102980316906610804">Jev Founder Releases PDF on Building a Jev Harness for Coding Agents</a></h3>
-<p>A 12-page PDF by Jev founder Diogo Almeida offers a blueprint for building a Jev harness for coding agents, claiming up to 200× faster and 400× cheaper performance.</p>
-<p><strong>562</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 562</p>
-<p><strong>Simplifying AI</strong> · @simplifyinAI</p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/jasonzhou1993/status/2102980957934645635"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976107092049920/img/PaU5jup2NnyZHhUj.jpg" alt="Jev for Ads Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jasonzhou1993/status/2102980957934645635">Jev for Ads Analysis</a></h3>
+<p>The user notes that combining @treg_ai with Jev works well for ads analysis.</p>
+<p><strong>714</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 714</p>
+<p><strong>Jason Zhou</strong> · @jasonzhou1993</p>
 </td>
 </tr>
 </table>

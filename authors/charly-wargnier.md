@@ -1,10 +1,11 @@
 # Charly Wargnier ♨️
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-09-24 | [Train your own Jev in minutes for $17](https://x.com/DataChaz/status/2103019099051753870) | 开发者工具 | Charly Wargnier ♨️ | 1.4K |
+| 2026-09-24 | [What Jev Is and How It Processes a Single Call](https://x.com/DataChaz/status/2103041903365394906) | 工作原理 | Charly Wargnier ♨️ | 942 |
 | 2026-09-22 | [Build a self-improving AI employee with Jev](https://x.com/DataChaz/status/2102408552015163623) | 智能体 | Charly Wargnier ♨️ | 900 |
 | 2026-09-20 | [Former OpenAI Researcher Spent 2 Years Building Jev, Open-Source Model Surpasses It in 3 Days](https://x.com/DataChaz/status/2101584363356037281) | 接入动态 | Charly Wargnier ♨️ | 9.7K |
 | 2026-09-20 | [Jev is API-only and closed-source; open alternative Nimble built in one day](https://x.com/DataChaz/status/2101787241165267425) | 接入动态 | Charly Wargnier ♨️ | 3.2K |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 124 | 80 | 44 | 595K |
+| 126 | 82 | 44 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
+<p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
+<p><strong>中文摘要：</strong>Jack Cheng 分享了一个实验，在邮件分类系统的两端使用 Jev，根据睡眠质量和当前心情决定哪些邮件值得关注。</p>
+<p><strong>Jack Cheng</strong> · @jackcheng · 2026-09-25</p>
+<p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
+<p><a href="https://x.com/jackcheng/status/2103281698305937693">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BkashJosi/status/2103290701522043087"><img src="https://pbs.twimg.com/amplify_video_thumb/2100136353539465216/img/1tuXDujN-2wDysw_.jpg" alt="Automate unfinished agent work every morning with Hermes, Jev, and Omarchy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BkashJosi/status/2103290701522043087">Automate unfinished agent work every morning with Hermes, Jev, and Omarchy</a></h3>
+<p>Hermes finds unfinished agent work, Jev sorts priorities, the right skill handles each task, and Omarchy brings it all to one screen for a daily automated workflow.</p>
+<p><strong>中文摘要：</strong>Hermes 查找未完成的智能体工作，Jev 排序优先级，匹配技能处理每项任务，Omarchy 在同一屏幕呈现，实现每日自动化工作流。</p>
+<p><strong>Hermes Agent Super-Intel</strong> · @BkashJosi · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 129</p>
+<p><a href="https://x.com/BkashJosi/status/2103290701522043087">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2103080756784558273"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794596556410880/img/fJC3rEvN_qiqEvwv.jpg" alt="Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team · 原帖视频截图" width="100%"></a>

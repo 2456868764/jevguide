@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3090</strong><br>curated posts</td>
-<td align="center"><strong>1641</strong><br>original videos</td>
+<td align="center"><strong>3120</strong><br>curated posts</td>
+<td align="center"><strong>1656</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>359</strong> showcases · <strong>161</strong> videos</p>
+<p><strong>362</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>351</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>359</strong> showcases · <strong>146</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>335</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>337</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>305</strong> showcases · <strong>120</strong> videos</p>
+<p><strong>309</strong> showcases · <strong>121</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>226</strong> showcases · <strong>122</strong> videos</p>
+<p><strong>227</strong> showcases · <strong>123</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>200</strong> showcases · <strong>103</strong> videos</p>
+<p><strong>202</strong> showcases · <strong>103</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>193</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>195</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>142</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>145</strong> showcases · <strong>77</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>124</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>126</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>98</strong> showcases · <strong>79</strong> videos</p>
+<p><strong>99</strong> showcases · <strong>80</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>71</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>72</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>32</strong> showcases · <strong>21</strong> videos</p>
+<p><strong>33</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
+<p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
+<p><strong>3.2K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
+<p><strong>Jack Cheng</strong> · @jackcheng</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/Rana_kamran43/status/2103290155050405906"><img src="https://pbs.twimg.com/tweet_video_thumb/HTBjO_IX0AA9jhK.jpg" alt="JEV Analyzes 1,000 Leads in 9 Seconds · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Rana_kamran43/status/2103290155050405906">JEV Analyzes 1,000 Leads in 9 Seconds</a></h3>
+<p>Kamran Hassan notes JEV analyzes 1,000 leads in 9 seconds, highlighting message mismatch detection.</p>
+<p><strong>768</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 768</p>
+<p><strong>kamran Hassan</strong> · @Rana_kamran43</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jjacky/status/2103281899699327107"><img src="https://pbs.twimg.com/media/HTBbvF8X0AAseF7?format=jpg&amp;name=medium" alt="Jev&#39;s First East Coast Meetup Recap · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jjacky/status/2103281899699327107">Jev&#39;s First East Coast Meetup Recap</a></h3>
+<p>At a betaworks event, jacky thanked the host and shared discussions about OpenRouter and TypeSafe Jev, marking Jev&#39;s first East Coast community gathering.</p>
+<p><strong>397</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 397</p>
+<p><strong>jacky</strong> · @jjacky</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/MinLiBuilds/status/2103276171484131716"><img src="https://pbs.twimg.com/amplify_video_thumb/2103276099786637312/img/tPhFTWZ8m89lb_LA.jpg" alt="Jev route starting to cluster · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/MinLiBuilds/status/2103276171484131716">Jev route starting to cluster</a></h3>
 <p>Day 5 update: everything needed has been released; Deepseek, GLM, M3 chances are slim. Notable is the System One / Jev route starting to cluster, e.g. CLM-8B + Alibaba decision model.</p>
 <p><strong>208</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 208</p>
 <p><strong>实践哥 Li</strong> · @MinLiBuilds</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/clawddevs/status/2103292844060340635"><img src="https://pbs.twimg.com/media/HTBlsWqXoAAvds-?format=jpg&amp;name=medium" alt="JEV Trader Preview Released · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/clawddevs/status/2103292844060340635">JEV Trader Preview Released</a></h3>
-<p>Clawd shipped a preview of the JEV trader: one Jev request per cycle picks the move, CoinGecko regime gates every call with fail-closed on uncertainty; dry-run mode requires human approval for execution. Next integrations include Jupiter, DFlow, and Imperial.</p>
-<p><strong>75</strong> views · 💬 4 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 75</p>
-<p><strong>Clawd🦞</strong> · @clawddevs</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/rohit3a/status/2103274682371998006"><img src="https://pbs.twimg.com/amplify_video_thumb/2103274252371939328/img/5LUuOBdmxtXab9fn.jpg" alt="Running an AI simulation soap opera with Jev and Luna · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rohit3a/status/2103274682371998006">Running an AI simulation soap opera with Jev and Luna</a></h3>
-<p>The author plans to put 6 AIs in a closed environment, use Luna and Jev as &#39;humans&#39;, and live-stream the simulation as a soap opera on KRNLStudio.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
-<p><strong>rohit</strong> · @rohit3a</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/OpenRelayInc/status/2103276098478100981"><img src="https://pbs.twimg.com/media/HTBUPyRbIAAZTnC?format=png&amp;name=medium" alt="TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/OpenRelayInc/status/2103276098478100981">TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay</a></h3>
-<p>OpenRelay announced support for TypeSafe&#39;s newly launched Jev decision models, with the open-source version Laya. These models return typed answers with probabilities instead of plain text. The API endpoint POST /v1/decisions costs only $0.02 per 1M input tokens with no other charges.</p>
-<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>OpenRelayInc</strong> · @OpenRelayInc</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
+<p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
+<p><strong>3.2K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
+<p><strong>Jack Cheng</strong> · @jackcheng</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/MinLiBuilds/status/2103276171484131716"><img src="https://pbs.twimg.com/amplify_video_thumb/2103276099786637312/img/tPhFTWZ8m89lb_LA.jpg" alt="Jev route starting to cluster · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/MinLiBuilds/status/2103276171484131716">Jev route starting to cluster</a></h3>
 <p>Day 5 update: everything needed has been released; Deepseek, GLM, M3 chances are slim. Notable is the System One / Jev route starting to cluster, e.g. CLM-8B + Alibaba decision model.</p>
 <p><strong>208</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 208</p>
 <p><strong>实践哥 Li</strong> · @MinLiBuilds</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/OpenRelayInc/status/2103276098478100981"><img src="https://pbs.twimg.com/media/HTBUPyRbIAAZTnC?format=png&amp;name=medium" alt="TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/OpenRelayInc/status/2103276098478100981">TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay</a></h3>
-<p>OpenRelay announced support for TypeSafe&#39;s newly launched Jev decision models, with the open-source version Laya. These models return typed answers with probabilities instead of plain text. The API endpoint POST /v1/decisions costs only $0.02 per 1M input tokens with no other charges.</p>
-<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>OpenRelayInc</strong> · @OpenRelayInc</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/carlaiau/status/2103294164700148130"><img src="https://pbs.twimg.com/media/HTBmz7FaIAAlNEI?format=jpg&amp;name=medium" alt="Jev Eval: Comparable to monoBert on MS Macro · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/carlaiau/status/2103294164700148130">Jev Eval: Comparable to monoBert on MS Macro</a></h3>
-<p>The author evals Jev on the MS Macro IR benchmark and finds it comparable to trained monoBert, depending on whether you care more about MAP or nDCG.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>Carl Aiau</strong> · @carlaiau</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2103285668093030574"><img src="https://pbs.twimg.com/media/HTBfKoYWwAA_5iZ?format=jpg&amp;name=medium" alt="Dev ports Jev into Clawd inside @muse · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2103285668093030574">Dev ports Jev into Clawd inside @muse</a></h3>
+<p>8Bit says they&#39;ve begun fully porting Jev into Clawd inside @muse, adding that super intelligence is upon us.</p>
+<p><strong>208</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 208</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/typesafeai/status/2102965218720756045">TypeSafe AI mentions LLM distilling Jev</a></h3>
-<p>This tweet from TypeSafe AI reads &quot;LLMs distilling Jev like&quot;, possibly related to distilling the Jev model.</p>
-<p><strong>5.7K</strong> views · 💬 11 &nbsp; 🔁 19 &nbsp; ♡ 208 &nbsp; 📊 5.7K</p>
-<p><strong>TypeSafe AI</strong> · @typesafeai</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/clawddevs/status/2103287093703127451"><img src="https://pbs.twimg.com/media/HTBgdpwbkAA1nUQ?format=jpg&amp;name=medium" alt="JEV-Powered Solana Trader Preview · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/clawddevs/status/2103287093703127451">JEV-Powered Solana Trader Preview</a></h3>
+<p>Clawd is building a Solana trader on Musebook that uses JEV preview to generate typed AI judgments (bullish/bearish/chop, momentum odds), gating every SOL-USDC quote on Phoenix using CoinGecko data. It runs as a dry-run: code executes, but humans must approve.</p>
+<p><strong>82</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 82</p>
+<p><strong>Clawd🦞</strong> · @clawddevs</p>
 </td>
 </tr>
 </table>

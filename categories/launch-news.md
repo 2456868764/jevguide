@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 200 | 103 | 100 | 1.1M |
+| 202 | 103 | 102 | 1.1M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>OpenRelayInc</strong> · @OpenRelayInc · 2026-09-25</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/OpenRelayInc/status/2103276098478100981">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OrcaRouterJP/status/2103287332623528432"><img src="https://pbs.twimg.com/media/HTBgrhOaEAAa1mv?format=jpg&amp;name=medium" alt="Jev 1.13 Released on OrcaRouter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OrcaRouterJP/status/2103287332623528432">Jev 1.13 Released on OrcaRouter</a></h3>
+<p>Jev 1.13 is now available on OrcaRouter. Instead of generating long answers, it returns fast, typed judgments for routing, validation, classification, control, and next-action decisions in agent loops.</p>
+<p><strong>中文摘要：</strong>Jev 1.13 现已通过 OrcaRouter 提供。它不生成冗长回答，而是返回快速、类型化的判断，可在代理循环中用于路由、验证、分类、控制以及决定下一步行动。</p>
+<p><strong>OrcaRouter Japan 🐳</strong> · @OrcaRouterJP · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/OrcaRouterJP/status/2103287332623528432">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Tonytifao/status/2103312347037122630"><img src="https://pbs.twimg.com/media/HTB3bKXXEAAuLnX?format=jpg&amp;name=900x900" alt="TypeSafe AI releases Jev System One model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tonytifao/status/2103312347037122630">TypeSafe AI releases Jev System One model</a></h3>
+<p>Jev, released by TypeSafe AI on September 24, 2026, is a &quot;System One&quot; model. It never writes text; instead, it answers typed questions with three response types.</p>
+<p><strong>中文摘要：</strong>Jev由TypeSafe AI于2026年9月24日发布，是一款“System One”模型。它不生成文本，而是根据数据与问题提供三类回答。</p>
+<p><strong>Tony Schaffert</strong> · @Tonytifao · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/Tonytifao/status/2103312347037122630">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/manyways_rh/status/2103096000487334272"><img src="https://pbs.twimg.com/media/HS-x-DiWAAABtQZ?format=jpg&amp;name=medium" alt="Jev on Manyways: From Generation to Decision · 原帖图片" width="100%"></a>

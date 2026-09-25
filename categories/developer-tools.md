@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 335 | 181 | 156 | 3.6M |
+| 337 | 182 | 157 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MishaAi333/status/2103291502617120794"><img src="https://pbs.twimg.com/amplify_video_thumb/2103291464528629760/img/OU0G4VLtL3Zykjee.jpg" alt="Jev is exploding on GitHub — start with these projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MishaAi333/status/2103291502617120794">Jev is exploding on GitHub — start with these projects</a></h3>
+<p>Jev has been rapidly gaining traction on GitHub since launch. If you already have API access, consider starting with projects like jev-trader (a live trading bot placing limit orders on Monad every 300ms, judged by Jev alone) and jev-ultrafast (browser-related).</p>
+<p><strong>中文摘要：</strong>Jev 发布后在 GitHub 上迅速走红。已有 API 访问权限的话，可参考 jev-trader（在 Monad 上每 300ms 下实盘限价单的交易机器人，仅由 Jev 判断）和 jev-ultrafast（浏览器相关）等项目开始。</p>
+<p><strong>Misha_Cripto</strong> · @MishaAi333 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/MishaAi333/status/2103291502617120794">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OrionAdept/status/2103311934502441008"><img src="https://pbs.twimg.com/media/HTB3DnWbYAA9wiF?format=jpg&amp;name=medium" alt="JEV as a model router praised · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OrionAdept/status/2103311934502441008">JEV as a model router praised</a></h3>
+<p>A user posts that JEV works well as a model router.</p>
+<p><strong>中文摘要：</strong>用户发帖表示 JEV 作为模型路由器表现出色。</p>
+<p><strong>ORION</strong> · @OrionAdept · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/OrionAdept/status/2103311934502441008">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EvanLuthra/status/2103087718519718373"><img src="https://pbs.twimg.com/media/HS-rITFa4AAdl2z?format=jpg&amp;name=900x900" alt="JEV: An AI That Doesn&#39;t Chat or Write Hits 18K+ Stars · 原帖图片" width="100%"></a>

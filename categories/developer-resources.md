@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 193 | 73 | 120 | 419K |
+| 195 | 74 | 121 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BrainRevApp/status/2103282600307806227"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153701351731200/img/IGq_K7ab2eKOi-rM.jpg" alt="jev-model-router: Jev task router for Claude Code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BrainRevApp/status/2103282600307806227">jev-model-router: Jev task router for Claude Code</a></h3>
+<p>This early-access module for Claude Code uses new function hooks to query Jev each turn, assessing whether a task is more mechanical or reasoning-intensive—helpful for individual developers building custom workflows.</p>
+<p><strong>中文摘要：</strong>这是一个面向 Claude Code 的早期访问模块，利用新的函数钩子每轮向 Jev 发起查询，评估当前任务更偏向机械操作还是需要推理，方便个人开发者构建自定义工作流。</p>
+<p><strong>かなめ｜個人開発</strong> · @BrainRevApp · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/BrainRevApp/status/2103282600307806227">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bengkelkodecom/status/2103311201036030235"><img src="https://pbs.twimg.com/media/HTB2Y1baAAEB-gy?format=jpg&amp;name=medium" alt="Train your own Jev-style decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bengkelkodecom/status/2103311201036030235">Train your own Jev-style decision model</a></h3>
+<p>This post shares a GitHub resource for training and running a Jev-like decision model on Qwen3.5/3.8.</p>
+<p><strong>中文摘要：</strong>该帖子分享了在 Qwen3.5/3.8 上训练和运行类似 Jev 的决策模型的 GitHub 资源。</p>
+<p><strong>BengkelKode</strong> · @bengkelkodecom · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/bengkelkodecom/status/2103311201036030235">在 X 查看原帖</a> · <a href="https://t.co/B1ba0x1npE">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ataiiam/status/2103150523281023393"><img src="https://pbs.twimg.com/media/HS_iimJWwAABlFc?format=jpg&amp;name=medium" alt="OpenMuse hits 2,000 GitHub stars in two days, teasing new features like Jev · 原帖图片" width="100%"></a>

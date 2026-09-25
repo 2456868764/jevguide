@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 351 | 143 | 211 | 3.0M |
+| 359 | 146 | 216 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jjacky/status/2103281899699327107"><img src="https://pbs.twimg.com/media/HTBbvF8X0AAseF7?format=jpg&amp;name=medium" alt="Jev&#39;s First East Coast Meetup Recap · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jjacky/status/2103281899699327107">Jev&#39;s First East Coast Meetup Recap</a></h3>
+<p>At a betaworks event, jacky thanked the host and shared discussions about OpenRouter and TypeSafe Jev, marking Jev&#39;s first East Coast community gathering.</p>
+<p><strong>中文摘要：</strong>jacky在betaworks活动中感谢主办方，并分享了关于OpenRouter和TypeSafe Jev的讨论，标志着Jev首次东海岸社区聚会。</p>
+<p><strong>jacky</strong> · @jjacky · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 397</p>
+<p><a href="https://x.com/jjacky/status/2103281899699327107">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/MinLiBuilds/status/2103276171484131716"><img src="https://pbs.twimg.com/amplify_video_thumb/2103276099786637312/img/tPhFTWZ8m89lb_LA.jpg" alt="Jev route starting to cluster · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,56 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 208</p>
 <p><a href="https://x.com/MinLiBuilds/status/2103276171484131716">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lukeharries/status/2103292312768188838"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Fun Fact About Jev Public Demo Usage · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lukeharries/status/2103292312768188838">Fun Fact About Jev Public Demo Usage</a></h3>
+<p>The public demo has used 79 million Jev tokens, costing only about $3.</p>
+<p><strong>中文摘要：</strong>公共演示已使用7900万Jev tokens，成本仅约3美元。</p>
+<p><strong>Luke Harries</strong> · @lukeharries · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 189</p>
+<p><a href="https://x.com/lukeharries/status/2103292312768188838">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kishi27/status/2103283241302270271"><img src="https://pbs.twimg.com/media/HTBcHcXboAAoJIv?format=png&amp;name=900x900" alt="Discussion on Using Jev with Antigravity and Credits · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kishi27/status/2103283241302270271">Discussion on Using Jev with Antigravity and Credits</a></h3>
+<p>The author shares experience integrating Jev into Antigravity, noting that current usage would not consume $5 in 3 years, and the $5 monthly credit expires on October 20, 2026.</p>
+<p><strong>中文摘要：</strong>作者分享了将 Jev 集成到 Antigravity 的经验，提到按当前使用量 3 年用不到 $5，而 $5 月度信用额度有效期至 2026 年 10 月 20 日。</p>
+<p><strong>kishi27 ＠ 実践AIエージェント</strong> · @kishi27 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/kishi27/status/2103283241302270271">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/miltonisblurrd/status/2103282001893879967"><img src="https://pbs.twimg.com/amplify_video_thumb/2103278331844272128/img/leXwmZa1jFjQeRRi.jpg" alt="Testing Afterwave and TypeSafe AI on iOS project SafeFaces · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/miltonisblurrd/status/2103282001893879967">Testing Afterwave and TypeSafe AI on iOS project SafeFaces</a></h3>
+<p>A developer shares experience testing Afterwave and TypeSafe AI&#39;s Jev model on the iOS project SafeFaces. AfterWave traces an existing save function, and Jev judged the report.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Afterwave 和 TypeSafe AI 的 Jev 模型测试 iOS 项目 SafeFaces 的经验。AfterWave 追踪现有的保存函数，Jev 对报告进行了判断。</p>
+<p><strong>blurrd.eth🛹</strong> · @miltonisblurrd · 2026-09-25</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/miltonisblurrd/status/2103282001893879967">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bprintco/status/2103312573781144058"><img src="https://pbs.twimg.com/media/HTB2p-XWsAA-QVc?format=jpg&amp;name=medium" alt="Using Jev to Measure Sentiment Every 30 Minutes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bprintco/status/2103312573781144058">Using Jev to Measure Sentiment Every 30 Minutes</a></h3>
+<p>The author shares using Jev to measure sentiment every 30 minutes, mentioning response speed score as the reason for building the platform.</p>
+<p><strong>中文摘要：</strong>作者分享使用Jev每30分钟测量情绪，并提到响应速度评分是构建平台的原因。</p>
+<p><strong>Alex B</strong> · @bprintco · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/bprintco/status/2103312573781144058">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/carlaiau/status/2103294164700148130"><img src="https://pbs.twimg.com/media/HTBmz7FaIAAlNEI?format=jpg&amp;name=medium" alt="Jev Eval: Comparable to monoBert on MS Macro · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +92,17 @@
 <p><strong>Carl Aiau</strong> · @carlaiau · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/carlaiau/status/2103294164700148130">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CinemaFlix5/status/2103285511561383973"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="JEV + Minds agents: A First Public Use Case · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CinemaFlix5/status/2103285511561383973">JEV + Minds agents: A First Public Use Case</a></h3>
+<p>A user shares what they believe is the first public use case combining JEV with Minds agents, calling the combination EPiC.</p>
+<p><strong>中文摘要：</strong>用户分享了他们认为第一个公开结合 JEV 和 Minds agents 的使用案例，称这一组合非常棒。</p>
+<p><strong>_Hadi_</strong> · @CinemaFlix5 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/CinemaFlix5/status/2103285511561383973">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -44,6 +116,30 @@
 <p><strong>elberacasa</strong> · @elberacasa · 2026-09-25</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/elberacasa/status/2103277323856544207">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/humansandaiboss/status/2103287696374612191"><img src="https://pbs.twimg.com/media/HTBg2y7XEAAD7Jq?format=png&amp;name=360x360" alt="That feeling when you had too much Jev last night · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/humansandaiboss/status/2103287696374612191">That feeling when you had too much Jev last night</a></h3>
+<p>A humorous reply to @typesafeai, joking about the &#39;hangover&#39; feeling after using Jev, showing lighthearted community engagement.</p>
+<p><strong>中文摘要：</strong>社区用户对 @typesafeai 的幽默回复，调侃使用 Jev 后可能出现的“宿醉”感，展现轻松互动。</p>
+<p><strong>patrick mcqueeny</strong> · @humansandaiboss · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/humansandaiboss/status/2103287696374612191">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nicolasvillah/status/2103282290600157296"><img src="https://pbs.twimg.com/media/HTBcEzjWwAArv7L?format=png&amp;name=medium" alt="Recommended JEV Explainers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nicolasvillah/status/2103282290600157296">Recommended JEV Explainers</a></h3>
+<p>Nícolas Villarreal H recommends three creators who clearly explain TypeSafe AI&#39;s JEV in Spanish: @midudev, @powerhdeleon, and @FaztTech.</p>
+<p><strong>中文摘要：</strong>Nícolas Villarreal H 推荐了三位以西班牙语清晰解释 TypeSafe AI 的 JEV 的创作者：@midudev、@powerhdeleon 和 @FaztTech。</p>
+<p><strong>Nícolas Villarreal H</strong> · @nicolasvillah · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/nicolasvillah/status/2103282290600157296">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/StephenOkita/status/2103278089157652602"><img src="https://pbs.twimg.com/media/HTBYPHoaQAA2bUz?format=jpg&amp;name=medium" alt="Full Jev alternatives benchmarks on RTX A5000 · 原帖图片" width="100%"></a>

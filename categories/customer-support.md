@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 32 | 21 | 11 | 639K |
+| 33 | 22 | 11 | 639K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ajainvivek/status/2103282991799972047"><img src="https://pbs.twimg.com/amplify_video_thumb/2103282736278732800/img/kEYvJR8OgwqPNskp.jpg" alt="Jev vs Claude for Support: 46x Cheaper · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ajainvivek/status/2103282991799972047">Jev vs Claude for Support: 46x Cheaper</a></h3>
+<p>In Ballet&#39;s evaluation agent test on 1,998 complex support messages, Jev cost $0.095 and 110 seconds vs Claude Sonnet 5&#39;s $4.34 and 220 seconds. Sonnet was about 1 point more accurate, but Jev was 46x cheaper.</p>
+<p><strong>中文摘要：</strong>Ballet 的评估代理基于 1,998 条复杂支持消息实测：Jev 花费 $0.095、110 秒，Claude Sonnet 5 花费 $4.34、220 秒；后者的准确率仅高约 1 分，而 Jev 便宜 46 倍。</p>
+<p><strong>Ajain Vivek</strong> · @ajainvivek · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/ajainvivek/status/2103282991799972047">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ElevenlabsJapan/status/2103262731113832747"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev and ElevenLabs Integration Visualizes Emotions in Call Centers · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 191</p>
 <p><a href="https://x.com/ElevenlabsJapan/status/2103262731113832747">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/QibazX/status/2103150930090656050"><img src="https://pbs.twimg.com/amplify_video_thumb/2103150853318201344/img/b-P_krcERC-E0CIm.jpg" alt="TypeSafe Jev Handles 100K Support Tickets for $2.11 · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 21</p>
 <p><a href="https://x.com/QibazX/status/2103150930090656050">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052996364128605"><img src="https://pbs.twimg.com/amplify_video_thumb/2102338032158314497/img/wnWkVCwBQ7qI2DaY.jpg" alt="Jev resolves 13 support tickets in parallel · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/icerdesign/status/2103052996364128605">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/edwinfmesa/status/2102968647081759064"><img src="https://pbs.twimg.com/media/HS87KweWQAAj0vm?format=jpg&amp;name=medium" alt="Exploring How Jev and Laya Help Support Agents Prepare Context · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/edwinfmesa/status/2102968647081759064">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BULLCOM_co/status/2103265724978577888"><img src="https://pbs.twimg.com/media/HS73COda8AAHvdt?format=jpg&amp;name=medium" alt="Jev: Decision AI That Returns Judgments in ~0.1s · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/BULLCOM_co/status/2103265724978577888">在 X 查看原帖</a> · <a href="https://t.co/zZ54PuohnD">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102959547375657093"><img src="https://pbs.twimg.com/media/HS82kIlW4AANsxJ?format=jpg&amp;name=medium" alt="Running a Jev-style decision model on a laptop · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/VALVETONLINE/status/2102959547375657093">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xCiseMone/status/2103154868651254255"><img src="https://pbs.twimg.com/amplify_video_thumb/2103154832219508736/img/JVRpECiksbazXr0j.jpg" alt="Jev Processes 2M Support Tickets for $0.21 · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 10</p>
 <p><a href="https://x.com/0xCiseMone/status/2103154868651254255">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RogerioFiesta/status/2103154612522111005"><img src="https://pbs.twimg.com/media/HS_mlXlXkAAOY01?format=jpg&amp;name=medium" alt="JEV for omnichannel customer service triage · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/RogerioFiesta/status/2103154612522111005">在 X 查看原帖</a> · <a href="https://t.co/LXdwPq47Vj">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Nashisan9/status/2102579354060632423"><img src="https://pbs.twimg.com/media/HS3cx15bAAAwqWR?format=jpg&amp;name=4096x4096" alt="How Jev Judges Repeated User Feedback in Game Support · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/Nashisan9/status/2102579354060632423">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2102736916961710528"><img src="https://pbs.twimg.com/amplify_video_thumb/2102338032158314497/img/wnWkVCwBQ7qI2DaY.jpg" alt="Jev Handles 13 Support Tickets in Parallel · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/icerdesign/status/2102736916961710528">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2102607746893848934"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607712731238400/img/AZhUe33B3eyjeYHx.jpg" alt="Decision Desk: A Jev-based Ticket Decision App · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 22</p>
 <p><a href="https://x.com/airesearch12/status/2102607746893848934">在 X 查看原帖</a> · <a href="https://t.co/SH0XpZYT6u">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abhegd/status/2102195682257854602"><img src="https://pbs.twimg.com/amplify_video_thumb/2102194961856798720/img/WhzCgL1LVnYAq-R9.jpg" alt="In-app feedback that sorts itself with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/abhegd/status/2102195682257854602">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WangErxi/status/2102216923824169019"><img src="https://pbs.twimg.com/media/HSyRtQjbgAAFJcZ?format=jpg&amp;name=medium" alt="Introducing Jev into after-sales support audio processing to improve judgment accuracy · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
 <p><a href="https://x.com/WangErxi/status/2102216923824169019">在 X 查看原帖</a> · <a href="https://t.co/GJ7OpZVnup">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/peterramsing/status/2102413095037808667"><img src="https://pbs.twimg.com/tweet_video_thumb/HS1FYA_asAA12WJ.jpg" alt="Using Jev to prompt follow-up questions while tickets are created · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><a href="https://x.com/peterramsing/status/2102413095037808667">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/blueb/status/2101951431402291638"><img src="https://pbs.twimg.com/media/HSuhr5PagAAfmgu?format=jpg&amp;name=medium" alt="Hands-on with Jev, the judgment-focused AI: speed and accuracy in customer support · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 48</p>
 <p><a href="https://x.com/blueb/status/2101951431402291638">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hitotori_365/status/2102012437608423433"><img src="https://pbs.twimg.com/media/HSvZK23aoAAp9t0?format=jpg&amp;name=medium" alt="Building AI Customer Support with Jev: Dynamically Selecting the Next Question · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/hitotori_365/status/2102012437608423433">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zhayujie/status/2102009189765881894"><img src="https://pbs.twimg.com/amplify_video_thumb/2102007612569190400/img/Yv_-w6zdmBlVS5Mu.jpg" alt="Building a Batch Ticket Analysis Tool on Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/zhayujie/status/2102009189765881894">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechieSapien/status/2101998302476788057"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997999220289536/img/JAoZJBszS5G0UihT.jpg" alt="Building a Support Ticket Triage Tool with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/TechieSapien/status/2101998302476788057">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ninjaswebcom/status/2102172944898142711"><img src="https://pbs.twimg.com/amplify_video_thumb/2102172152761843712/img/EqKFBAE8dSKH1Pln.jpg" alt="Building a Real-Time Chat Moderator with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 13</p>
 <p><a href="https://x.com/ninjaswebcom/status/2102172944898142711">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Olli0103/status/2101942856092942518"><img src="https://pbs.twimg.com/media/HSuZ37dWwAAqu3V?format=jpg&amp;name=medium" alt="Jev Outperforms Laya on Synthetic Support Ticket Routing · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/Olli0103/status/2101942856092942518">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sam1siam/status/2102063007643627856"><img src="https://pbs.twimg.com/amplify_video_thumb/2102061842709278720/img/pYFhf9zMCagJOHNO.jpg" alt="Jev for Product Onboarding: Describe Your Need and the Next Click Gets Highlighted · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/sam1siam/status/2102063007643627856">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/developedbyed/status/2101628206478512341"><img src="https://pbs.twimg.com/amplify_video_thumb/2101628010369622016/img/6rUvq7yBwgE7BpL2.jpg" alt="Running Jev to quickly remove negative comments from chat · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 116 &nbsp; 🔁 111 &nbsp; ♡ 3.3K &nbsp; 📊 162K</p>
 <p><a href="https://x.com/developedbyed/status/2101628206478512341">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kidehen/status/2101795427225878906"><img src="https://pbs.twimg.com/amplify_video_thumb/2101061589038477312/img/Jrat3MGWY4vtlsjL.jpg" alt="Jev Demonstrates AI Agent Value in Customer Support · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 80</p>
 <p><a href="https://x.com/kidehen/status/2101795427225878906">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jimmy_dj_c/status/2101601061836566550"><img src="https://pbs.twimg.com/media/HSpiQ9JaMAAgqeS?format=jpg&amp;name=medium" alt="Integrating Jev Model to Find Related Support Requests · 原帖图片" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 52</p>
 <p><a href="https://x.com/jimmy_dj_c/status/2101601061836566550">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Foly_AI/status/2101723129089335574"><img src="https://pbs.twimg.com/amplify_video_thumb/2101723095941664768/img/ZiDO4VUCGzy8M5vI.jpg" alt="Issue triage with Jev: flag impact and route decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/Foly_AI/status/2101723129089335574">在 X 查看原帖</a> · <a href="https://t.co/gPgf8rxvI8">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2101253568774697099"><img src="https://pbs.twimg.com/amplify_video_thumb/2101252015779373056/img/an3uKosWqfYtwDq9.jpg" alt="Jev vs DeepSeek: 500 E-commerce Support Tickets · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 14 &nbsp; 🔁 18 &nbsp; ♡ 164 &nbsp; 📊 79K</p>
 <p><a href="https://x.com/NFT_Chen/status/2101253568774697099">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kgsi/status/2100740717454954548"><img src="https://pbs.twimg.com/amplify_video_thumb/2100740154877169664/img/TL5ADRkf7p6l4Dha.jpg" alt="Demo: Sorting Live Comments with TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 6 &nbsp; 🔁 187 &nbsp; ♡ 1.1K &nbsp; 📊 141K</p>
 <p><a href="https://x.com/kgsi/status/2100740717454954548">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FarokhNotes/status/2100999674639327501"><img src="https://pbs.twimg.com/amplify_video_thumb/2100891566340501504/img/agvkcRfNWmnGbRI5.jpg" alt="Jev and RLCD: Drastically Cutting Decision Costs for Real Automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 17 &nbsp; 🔁 16 &nbsp; ♡ 416 &nbsp; 📊 30K</p>
 <p><a href="https://x.com/FarokhNotes/status/2100999674639327501">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0913_marco/status/2100844795921076235"><img src="https://pbs.twimg.com/media/HSex1VNbkAAymGD?format=png&amp;name=900x900" alt="Jev Use Cases: Customer Support, Model Routing, and LLM Guardrails · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
 <p><a href="https://x.com/0913_marco/status/2100844795921076235">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rinte0321/status/2100736454850908344"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="E-commerce Real-time Customer Service Demo Built with Jev and gpt-live-1 · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 15 &nbsp; 🔁 363 &nbsp; ♡ 1.9K &nbsp; 📊 639K</p>
 <p><a href="https://x.com/rinte0321/status/2100736454850908344">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186"><img src="https://pbs.twimg.com/amplify_video_thumb/2100713609756389376/img/9Sdopo46pXonLyBK.jpg" alt="Real-Time Customer Service Prototype by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -381,6 +392,8 @@
 <p>💬 17 &nbsp; 🔁 375 &nbsp; ♡ 2.4K &nbsp; 📊 442K</p>
 <p><a href="https://x.com/tsuyoshi_osiire/status/2100714613381960186">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tetumemo/status/2100541516834029707"><img src="https://pbs.twimg.com/amplify_video_thumb/2100541074859253760/img/lO5Rn_75drf1cMmT.jpg" alt="Jev Usage Insight: Don&#39;t Let AI Write Text for Clearer Inquiry Handling · 原帖视频截图" width="100%"></a>
 <br>
@@ -392,5 +405,6 @@
 <p>💬 9 &nbsp; 🔁 15 &nbsp; ♡ 88 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/tetumemo/status/2100541516834029707">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

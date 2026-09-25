@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 305 | 120 | 185 | 802K |
+| 309 | 121 | 188 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2103285668093030574"><img src="https://pbs.twimg.com/media/HTBfKoYWwAA_5iZ?format=jpg&amp;name=medium" alt="Dev ports Jev into Clawd inside @muse · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2103285668093030574">Dev ports Jev into Clawd inside @muse</a></h3>
+<p>8Bit says they&#39;ve begun fully porting Jev into Clawd inside @muse, adding that super intelligence is upon us.</p>
+<p><strong>中文摘要：</strong>8Bit 表示已开始将 Jev 完整移植到 @muse 内的 Clawd，并称超级智能即将到来。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 208</p>
+<p><a href="https://x.com/0rdlibrary/status/2103285668093030574">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AlexanderXQ_/status/2103290819348168765"><img src="https://pbs.twimg.com/media/HTBj1-0WgAA7FI1?format=jpg&amp;name=medium" alt="Jev Is Now Live on B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlexanderXQ_/status/2103290819348168765">Jev Is Now Live on B.AI API</a></h3>
+<p>Jev, TypeSafe&#39;s first System One model, is now available on B.AI API, delivering structured AI decisions without the overhead.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的首个 System One 模型 Jev 已在 B.AI API 推出，提供结构化 AI 决策，降低开销。</p>
+<p><strong>AlexanderXQ HTX SmartEarn 13% APY 💎</strong> · @AlexanderXQ_ · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 34</p>
+<p><a href="https://x.com/AlexanderXQ_/status/2103290819348168765">在 X 查看原帖</a> · <a href="https://t.co/KfWjKmdfqZ">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/VisiveAI/status/2103286884109807707"><img src="https://pbs.twimg.com/amplify_video_thumb/2103286799942778881/img/-PHfEoLgrEPGmVca.jpg" alt="Deploy Open Jev-style Decision Models on Databricks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VisiveAI/status/2103286884109807707">Deploy Open Jev-style Decision Models on Databricks</a></h3>
+<p>This resource shows how to serve SemIf-OpenJev (open Jev-style typed decision models) on governed data via Serverless GPU and Model Serving on Databricks, then use ai_query from SQL/Lakeflow for structured classifications and probability scores. Includes one importable notebook.</p>
+<p><strong>中文摘要：</strong>本资源介绍如何在 Databricks 上通过 Serverless GPU 和模型服务，在受管数据上提供 SemIf-OpenJev（开放 Jev 风格类型化决策模型），并从 SQL/Lakeflow 调用 ai_query 获得结构化分类和概率分数，附带一个可导入的笔记本。</p>
+<p><strong>VisiveAI</strong> · @VisiveAI · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/VisiveAI/status/2103286884109807707">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/gakonst/status/2103127486062330277"><img src="https://pbs.twimg.com/media/HS_MdvRbsAEqnT6?format=jpg&amp;name=medium" alt="Mercator Integrates Jev to Turbocharge Its Pipeline · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 470</p>
 <p><a href="https://x.com/gakonst/status/2103127486062330277">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlexanderTw33ts/status/2102960863678497219"><img src="https://pbs.twimg.com/media/HS83v-da4AAV23J?format=jpg&amp;name=medium" alt="Jev&#39;s question API has 16 paying customers · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 423</p>
 <p><a href="https://x.com/AlexanderTw33ts/status/2102960863678497219">在 X 查看原帖</a> · <a href="https://t.co/wOE9a8V4gN">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vabmarimo__/status/2103024972239409276"><img src="https://pbs.twimg.com/media/HS9yEN-bwAA_w8z?format=jpg&amp;name=medium" alt="Jev is temporarily unavailable; use via Vercel or OpenRouter · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/vabmarimo__/status/2103024972239409276">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yasuhito_morimo/status/2102967451000705279"><img src="https://pbs.twimg.com/media/HS89vjjasAAuaFI?format=jpg&amp;name=medium" alt="Japan AI Agent News: GPTBots.ai Integrates Jev for Two-Layer AI · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/yasuhito_morimo/status/2102967451000705279">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/voiskey/status/2103137396573499897"><img src="https://pbs.twimg.com/media/HS_WkwebsAAQRbv?format=jpg&amp;name=medium" alt="Voiskey now works with Jev on Mac · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 19</p>
 <p><a href="https://x.com/voiskey/status/2103137396573499897">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Avra_b/status/2103105366317740073"><img src="https://pbs.twimg.com/media/HS-7GlRWQAAqHrp?format=jpg&amp;name=medium" alt="Jev Integrated into Dagny Tool Routing, Picks Tool in 75% of Turns · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Avra_b/status/2103105366317740073">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NomadAnalyst/status/2103271144094871709"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev Used for Real-Time Sentiment Analysis · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/NomadAnalyst/status/2103271144094871709">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mewcp_ai/status/2103003577086271537"><img src="https://pbs.twimg.com/media/HS9eZOYbYAAZK5E?format=jpg&amp;name=medium" alt="Jev is now on MewCP · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/mewcp_ai/status/2103003577086271537">在 X 查看原帖</a> · <a href="https://t.co/rpK53Zia1B">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BolterApp/status/2103097061637853689"><img src="https://pbs.twimg.com/amplify_video_thumb/2103096656832942080/img/CsWgwHWK7R9jWuR9.jpg" alt="Bolter tests TypeSafe&#39;s Jev: 99% accuracy, 0.3s response · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +151,19 @@
 <p><strong>Bolter</strong> · @BolterApp · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/BolterApp/status/2103097061637853689">在 X 查看原帖</a> · <a href="https://t.co/1OoXY8233E">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/baptjan/status/2103257064101298505"><img src="https://pbs.twimg.com/media/HTBEXx4XIAAxPUk?format=jpg&amp;name=medium" alt="Jev Integrated into ATS Rejects Application Instantly · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/baptjan/status/2103257064101298505">Jev Integrated into ATS Rejects Application Instantly</a></h3>
+<p>A user mentions applying to a Silicon Valley AI company this morning and receiving &#39;No (0.88)&#39; within a second, noting they have plugged Jev into their ATS.</p>
+<p><strong>中文摘要：</strong>一位用户提到今早申请硅谷AI公司时，一秒钟内收到回复“No (0.88)”，并称对方已将Jev接入ATS用于筛选。</p>
+<p><strong>Baptiste JAN</strong> · @baptjan · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/baptjan/status/2103257064101298505">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/lazygem/status/2102980278566404348"><img src="https://pbs.twimg.com/media/HS9JUnrbAAAqJh1?format=jpg&amp;name=large" alt="Jev is now free on opencode · 原帖图片" width="100%"></a>

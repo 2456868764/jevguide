@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3004</strong><br>curated posts</td>
-<td align="center"><strong>1611</strong><br>original videos</td>
+<td align="center"><strong>3022</strong><br>curated posts</td>
+<td align="center"><strong>1613</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,8 +28,14 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>352</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>355</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/community-builds.md">Community builds</a></h3>
+<p><sub>社区实践</sub></p>
+<p><strong>334</strong> showcases · <strong>136</strong> videos</p>
+<p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
@@ -37,30 +43,24 @@ From finance and gaming to security review. Every listed post is checked against
 <p><strong>328</strong> showcases · <strong>178</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="categories/community-builds.md">Community builds</a></h3>
-<p><sub>社区实践</sub></p>
-<p><strong>328</strong> showcases · <strong>136</strong> videos</p>
-<p><a href="categories/community-builds.md">Open category →</a></p>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>300</strong> showcases · <strong>118</strong> videos</p>
+<p><strong>303</strong> showcases · <strong>118</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>272</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>273</strong> showcases · <strong>210</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>222</strong> showcases · <strong>122</strong> videos</p>
+<p><strong>223</strong> showcases · <strong>122</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>140</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>141</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -106,21 +106,21 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>71</strong> showcases · <strong>58</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
 <p><strong>71</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>70</strong> showcases · <strong>58</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>45</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>

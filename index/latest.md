@@ -26,11 +26,13 @@
 | 2026-09-24 | [Maximize GPT-6 Luna usage with Jev config](https://x.com/sairahul1/status/2103088305671975311) | 开发者工具 | Rahul | 619 |
 | 2026-09-24 | [Jev Turkish Benchmark Results](https://x.com/surucudev/status/2103119452954865755) | 社区实践 | Said Sürücü | 615 |
 | 2026-09-24 | [JEV-Powered Parametric Particle Animation](https://x.com/0xzynex/status/2103117709797974404) | 内容创作 | Zynex | 608 |
+| 2026-09-24 | [Jev ranks #1 for 1k-10k context on OpenRouter](https://x.com/CompleteSkeptic/status/2103156606318108892) | 社区实践 | Diogo Almeida | 600 |
 | 2026-09-24 | [Jev Founder Releases PDF on Building a Jev Harness for Coding Agents](https://x.com/simplifyinAI/status/2102980316906610804) | 开发资源 | Simplifying AI | 562 |
 | 2026-09-24 | [Leaked: The JEV Stack I Run My Agents On](https://x.com/dealerdefi/status/2102962979960758349) | 开发者工具 | dealer.eth | 542 |
 | 2026-09-24 | [Jev as the checkpoint in agent pipelines](https://x.com/1920web1080/status/2103081147315957769) | 智能体 | cat.png | 533 |
 | 2026-09-24 | [How Jev Safely Picks an Action](https://x.com/leopardracer/status/2103077714815070427) | 工作原理 | leopardracer | 522 |
 | 2026-09-24 | [Building an AI Trading System with Jev and GPT-6 Astra](https://x.com/Av1dlive/status/2103101321209597981) | 金融 | Avid | 500 |
+| 2026-09-24 | [Mercator Integrates Jev to Turbocharge Its Pipeline](https://x.com/gakonst/status/2103127486062330277) | 接入动态 | Georgios Konstantopoulos | 470 |
 | 2026-09-24 | [TanStack AI ships subagents with Jev-powered model selection](https://x.com/orcdev/status/2103065845190849020) | 产品发布 | OrcDev | 462 |
 | 2026-09-24 | [Jev plays Left 4 Dead 2](https://x.com/imjustnewatai/status/2103001193228415179) | 游戏 | imjustnewatai | 444 |
 | 2026-09-24 | [Laya Goes Viral: A 33ms Jev Alternative](https://x.com/wquguru/status/2103044332790194242) | 社区实践 | WquGuru | 427 |
@@ -100,5 +102,3 @@
 | 2026-09-24 | [JEV Speeds Up Agent Loops](https://x.com/de1lymoon/status/2103121576551944349) | 工作原理 | Alex | 69 |
 | 2026-09-24 | [A Skeptical Take on Jev: Modeling Choices Lead to Real Failure Modes](https://x.com/AradhyeAgarwal/status/2102984613056671969) | 社区实践 | Aradhye Agarwal | 68 |
 | 2026-09-24 | [Challenging Jev on DGX Spark: Open-Source System One Model Experiment](https://x.com/ItsCuthulhu/status/2102980902959636759) | 社区实践 | Cuth | 65 |
-| 2026-09-24 | [TypeSafe AI Launches Jev: Sub-100ms System 1 Decision Engine](https://x.com/ASIHubHQ/status/2102973444140712331) | 产品发布 | ASI Hub | 64 |
-| 2026-09-24 | [Opus 5.5 Lost $10K, But Jev Made +6.2% on Same Trades](https://x.com/0chob/status/2103099517830590654) | 金融 | Ochob | 64 |

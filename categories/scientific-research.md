@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 45 | 18 | 28 | 136K |
+| 47 | 18 | 30 | 136K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/Damir_Akaza/status/2103070941932610021">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/LargitData1/status/2103132363748209067"><img src="https://pbs.twimg.com/media/HS_TvIXbsAEKDla?format=png&amp;name=small" alt="New Contrastive Language Model (CLM) Emerges as a Rival to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LargitData1/status/2103132363748209067">New Contrastive Language Model (CLM) Emerges as a Rival to Jev</a></h3>
+<p>The post introduces a new training model called Contrastive Language Model (CLM), positioned as a rival to Jev. Its idea is to first understand the current situation, then match the best action from candidate actions; during training, correct state-action pairs are pulled closer and incorrect ones are pushed apart, and at inference it does not need to generate like a typical LLM.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一个名为Contrastive Language Model（CLM）的新训练模型，宣称对标Jev。其核心思路是先理解当前状态，再从候选动作中匹配最优解；训练时拉近正确状态-动作组合，拉远错误组合，推理时无需像常规LLM那样生成。</p>
+<p><strong>大數軟體LargitData</strong> · @LargitData1 · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/LargitData1/status/2103132363748209067">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/HEI/status/2103052792147456510"><img src="https://pbs.twimg.com/media/HS-LXrtWgAADxj0?format=png&amp;name=medium" alt="Jev Model Used for Probabilistic Analysis of Police Crash Narratives · 原帖图片" width="100%"></a>
 <br>
 <sub><code>科研</code> <code>原帖图片</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>Natural Language Processing Papers</strong> · @HEI · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/HEI/status/2103052792147456510">在 X 查看原帖</a> · <a href="https://t.co/I8GRp1w1oi">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TimothyKassis/status/2103156410947428712"><img src="https://pbs.twimg.com/media/HS_pZdRagAEHviO?format=jpg&amp;name=medium" alt="Free tool to assess academic paper rigor · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TimothyKassis/status/2103156410947428712">Free tool to assess academic paper rigor</a></h3>
+<p>We built a free tool on TypeSafe Jev to evaluate how rigorous an academic paper is.</p>
+<p><strong>中文摘要：</strong>我们基于TypeSafe Jev构建了一个免费工具，用于评估学术论文的严谨性。</p>
+<p><strong>Timothy Kassis</strong> · @TimothyKassis · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/TimothyKassis/status/2103156410947428712">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

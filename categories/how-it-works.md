@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 362 | 163 | 200 | 1.6M |
+| 364 | 164 | 201 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_300/status/2103303477715984532"><img src="https://pbs.twimg.com/media/HTBJE56aMAATxJ_?format=jpg&amp;name=900x900" alt="Jev: Revolutionizing AI Agent Decision-Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ai_300/status/2103303477715984532">Jev: Revolutionizing AI Agent Decision-Making</a></h3>
+<p>Introduces the Jev architecture: instead of leaving everything to the LLM, Jev handles judgment only, standardizing decisions via Choice, Score, and Noul, with a four-step onboarding process.</p>
+<p><strong>中文摘要：</strong>介绍Jev架构：AI代理不再让LLM包办一切，而是由Jev专门负责判断，通过Choice、Score、Noul将决策流程标准化，并可用四步快速导入。</p>
+<p><strong>鈴木@アナログ営業会社を100日後にAIで売上を300％にする人</strong> · @ai_300 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 241</p>
+<p><a href="https://x.com/ai_300/status/2103303477715984532">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/archodeveloper/status/2103283570521649520"><img src="https://pbs.twimg.com/amplify_video_thumb/2101857791967178752/img/MiCcd9s5hrptUHqe.jpg" alt="Jev&#39;s Advantageous Use Case in Prompt Caching · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 161</p>
 <p><a href="https://x.com/archodeveloper/status/2103283570521649520">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mllkwalkee/status/2103310998614818890"><img src="https://pbs.twimg.com/amplify_video_thumb/2103143852421136384/img/eELR0QiURk3nXwO_.jpg" alt="How does Jev make judgments without speech recognition? · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
 <p><a href="https://x.com/Mllkwalkee/status/2103310998614818890">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hatebu100/status/2103280958795649181"><img src="https://pbs.twimg.com/media/HTBa4d7awAEO573?format=jpg&amp;name=medium" alt="Everyone&#39;s Talking About Jev: Introduction to System One Model · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>はてブ人気エントリー</strong> · @hatebu100 · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/hatebu100/status/2103280958795649181">在 X 查看原帖</a> · <a href="https://t.co/Yx3Z61vkbW">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jkevintu/status/2103291094352142672"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001983380758529/img/po6H7kWnrFZO0d9E.jpg" alt="Jev&#39;s text-based VAD sparks discussion · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jkevintu/status/2103291094352142672">Jev&#39;s text-based VAD sparks discussion</a></h3>
+<p>Tweet finds text-based voice activity detection interesting and exclusive to Jev.</p>
+<p><strong>中文摘要：</strong>推文认为基于文本的语音活动检测很有趣，且只有 Jev 能提供。</p>
+<p><strong>Kevin Tu</strong> · @jkevintu · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/jkevintu/status/2103291094352142672">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/typesafeai/status/2102965218720756045"><img src="https://pbs.twimg.com/media/HS87ouKboAAUoAB?format=jpg&amp;name=medium" alt="TypeSafe AI mentions LLM distilling Jev · 原帖图片" width="100%"></a>

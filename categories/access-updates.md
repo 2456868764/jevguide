@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 309 | 121 | 188 | 802K |
+| 311 | 121 | 190 | 802K |
 
 ## Showcase 卡片
 
@@ -44,6 +44,30 @@
 <p><strong>VisiveAI</strong> · @VisiveAI · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/VisiveAI/status/2103286884109807707">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mdspro/status/2103330604360364125"><img src="https://pbs.twimg.com/media/HTCICJdacAABT1w?format=jpg&amp;name=medium" alt="Trending JEV integrated into Codex saves credits · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mdspro/status/2103330604360364125">Trending JEV integrated into Codex saves credits</a></h3>
+<p>User shares that integrating the trending JEV into Codex significantly reduced credit consumption and made experiments smoother.</p>
+<p><strong>中文摘要：</strong>用户分享将热门JEV引入Codex后，信用额度消耗大幅降低，实验进展更顺利。</p>
+<p><strong>Motion Design Studio</strong> · @mdspro · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/mdspro/status/2103330604360364125">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davidyhlee/status/2103330343184920917"><img src="https://pbs.twimg.com/media/HTCHhUAWoAAETy5?format=jpg&amp;name=medium" alt="TypeSafe AI signup now open, users can start experimenting with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/davidyhlee/status/2103330343184920917">TypeSafe AI signup now open, users can start experimenting with Jev</a></h3>
+<p>A user discovered that TypeSafe AI now allows signup via the Sign In button, enabling hands-on experimentation with Jev.</p>
+<p><strong>中文摘要：</strong>用户发现TypeSafe AI官网已开放注册，点击右上角Sign In即可创建账户，开始使用Jev。</p>
+<p><strong>David Lee</strong> · @davidyhlee · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/davidyhlee/status/2103330343184920917">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/gakonst/status/2103127486062330277"><img src="https://pbs.twimg.com/media/HS_MdvRbsAEqnT6?format=jpg&amp;name=medium" alt="Mercator Integrates Jev to Turbocharge Its Pipeline · 原帖图片" width="100%"></a>

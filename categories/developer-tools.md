@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 337 | 182 | 157 | 3.6M |
+| 339 | 184 | 157 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jimmykoppel/status/2103308940947960203"><img src="https://pbs.twimg.com/amplify_video_thumb/2103308906252607488/img/bUVbm0omBZ0aTIhR.jpg" alt="Jev proves 140 theorems for under $1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jimmykoppel/status/2103308940947960203">Jev proves 140 theorems for under $1</a></h3>
+<p>Jimmy Koppel notes that Jev proved 140 Software Foundations theorems for under a dollar, while Astra achieved a higher solve rate but at 130x the cost. Verification is often many small proofs, where Jev shines.</p>
+<p><strong>中文摘要：</strong>Jimmy Koppel 指出，Jev 以不到1美元的成本证明了140个 Software Foundations 定理，而 Astra 虽然求解率更高，但价格是 Jev 的130倍。验证通常由大量小证明组成，这正是 Jev 的优势所在。</p>
+<p><strong>Jimmy Koppel</strong> · @jimmykoppel · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/jimmykoppel/status/2103308940947960203">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ling65697_z/status/2103309060556902460"><img src="https://pbs.twimg.com/amplify_video_thumb/2103177482845229056/img/r5Epi1OiPsx2Q_il.jpg" alt="JEV + Opus Real-time Website Redesigner Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ling65697_z/status/2103309060556902460">JEV + Opus Real-time Website Redesigner Demo</a></h3>
+<p>A developer demo combining JEV with Claude Opus 5.5 to create a real-time website redesigner. Paste a link, and a 2015-era page with 8 blocks is redesigned in about 20 seconds, switching styles as you scroll.</p>
+<p><strong>中文摘要：</strong>开发者展示了一个结合JEV与Claude Opus 5.5的实时网站重设计器。输入链接后，约20秒即可将8个区块的旧版页面改出新风格，支持滚动位置实时更新三种风格渲染。</p>
+<p><strong>戒色吧吧主</strong> · @ling65697_z · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/ling65697_z/status/2103309060556902460">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MishaAi333/status/2103291502617120794"><img src="https://pbs.twimg.com/amplify_video_thumb/2103291464528629760/img/OU0G4VLtL3Zykjee.jpg" alt="Jev is exploding on GitHub — start with these projects · 原帖视频截图" width="100%"></a>

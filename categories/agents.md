@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 227 | 123 | 105 | 3.0M |
+| 229 | 124 | 106 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neil_xbt/status/2103306493357609101"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976884002689024/img/ruWutgKmqdOIYPh5.jpg" alt="New agent setup using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/neil_xbt/status/2103306493357609101">New agent setup using Jev</a></h3>
+<p>The post shares an agent architecture: Grok 4.7 for writing, Jev for routing, judging and gating, with plain code as the shell, all in one loop.</p>
+<p><strong>中文摘要：</strong>原帖分享了一种智能体构建方式：Grok 4.7负责写作，Jev负责路由、判断和门控，普通代码作为框架，全部在一个循环中运行。</p>
+<p><strong>NeilXbt</strong> · @neil_xbt · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 237</p>
+<p><a href="https://x.com/neil_xbt/status/2103306493357609101">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xcato_/status/2103281096028795019"><img src="https://pbs.twimg.com/amplify_video_thumb/2103280779975405568/img/Brd0pSMzYTZ8_w2-.jpg" alt="Jev, a decide-only model: a low-cost agent setup with Opus · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>cato</strong> · @0xcato_ · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 127</p>
 <p><a href="https://x.com/0xcato_/status/2103281096028795019">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nabendu82/status/2103327702459842998"><img src="https://pbs.twimg.com/media/HTCEqbUbkAAsc8m?format=jpg&amp;name=medium" alt="Developer shares: Hermes agent uses Jev for daily research · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nabendu82/status/2103327702459842998">Developer shares: Hermes agent uses Jev for daily research</a></h3>
+<p>Nabendu Biswas says his Hermes agent uses Jev from TypeSafe AI, combined with DeepSeek V4 Flash, to handle most research on YouTube, X, and LinkedIn. It runs three times a day and consumes very few OpenRouter credits.</p>
+<p><strong>中文摘要：</strong>Nabendu Biswas 表示，他的 Hermes 智能体使用 TypeSafe AI 的 Jev 模型，结合 DeepSeek V4 Flash，在 YouTube、X 和 LinkedIn 上完成大部分研究工作，每天运行三次，且消耗较少的 OpenRouter 积分。</p>
+<p><strong>Nabendu Biswas</strong> · @nabendu82 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/nabendu82/status/2103327702459842998">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2102963791973749060"><img src="https://pbs.twimg.com/amplify_video_thumb/2102963754392858624/img/AUjWlge0D1QSiIXc.jpg" alt="Beacon on Jev fixes coding agents&#39; memory · 原帖视频截图" width="100%"></a>

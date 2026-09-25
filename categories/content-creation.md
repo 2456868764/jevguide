@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 71 | 58 | 16 | 101K |
+| 75 | 60 | 18 | 101K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rohit3a/status/2103274682371998006"><img src="https://pbs.twimg.com/amplify_video_thumb/2103274252371939328/img/5LUuOBdmxtXab9fn.jpg" alt="Running an AI simulation soap opera with Jev and Luna · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rohit3a/status/2103274682371998006">Running an AI simulation soap opera with Jev and Luna</a></h3>
+<p>The author plans to put 6 AIs in a closed environment, use Luna and Jev as &#39;humans&#39;, and live-stream the simulation as a soap opera on KRNLStudio.</p>
+<p><strong>中文摘要：</strong>作者计划在封闭环境中放置 6 个 AI，使用 Luna 和 Jev 作为“人类”，并将模拟过程作为肥皂剧在 KRNLStudio 上直播。</p>
+<p><strong>rohit</strong> · @rohit3a · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/rohit3a/status/2103274682371998006">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2103095855905468848"><img src="https://pbs.twimg.com/amplify_video_thumb/2102852886325493760/img/eg0JGD7_d3rYN2Kn.jpg" alt="JEV and OPUS 5.5 Build a Viral Post Predictor in 9 Minutes · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 28K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2103095855905468848">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xzynex/status/2103117709797974404"><img src="https://pbs.twimg.com/media/HS_GKfSXcAAZbes?format=jpg&amp;name=large" alt="JEV-Powered Parametric Particle Animation · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 8 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 608</p>
 <p><a href="https://x.com/0xzynex/status/2103117709797974404">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/monospodcast/status/2103019099542704432"><img src="https://pbs.twimg.com/amplify_video_thumb/2103009842411487232/img/tAMeuM4txe5rMy8l.jpg" alt="Today&#39;s Podcast: AI Agents and Jev Classification Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 385</p>
 <p><a href="https://x.com/monospodcast/status/2103019099542704432">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yachimat_manga/status/2103055053531627712"><img src="https://pbs.twimg.com/amplify_video_thumb/2102343578282336256/img/9sh-z9QkKvYhSphb.jpg" alt="Jev Anime Production Tutorial to Be Held on TapNow Discord · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 240</p>
 <p><a href="https://x.com/yachimat_manga/status/2103055053531627712">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/nakamurahiroki/status/2103260782540820962"><img src="https://pbs.twimg.com/media/HTBIiUpaoAAX5hE?format=jpg&amp;name=medium" alt="The Jev model buzz: how speed and low cost reshape creativity · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nakamurahiroki/status/2103260782540820962">The Jev model buzz: how speed and low cost reshape creativity</a></h3>
+<p>The author notes that Jev&#39;s model has excited developers for being &#39;fast and cheap,&#39; arguing that this increases trial-and-error in creative work and reduces the weight of one-shot attempts, while the time for deep deliberation is what gets cut most.</p>
+<p><strong>中文摘要：</strong>作者观察到Jev模型因“快速且便宜”引发开发者热情，并指出这会增加创作中的试错次数、降低“一决胜负”的压力，但最容易被削减的是深思熟虑的时间。</p>
+<p><strong>中村洋基 PARTY FUND</strong> · @nakamurahiroki · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 186</p>
+<p><a href="https://x.com/nakamurahiroki/status/2103260782540820962">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nakamurahiroki/status/2103272376234598492"><img src="https://pbs.twimg.com/media/HTBTFLDbsAA3xyC?format=jpg&amp;name=medium" alt="Jev Model Buzz: The Impact of &#39;Fast and Cheap&#39; on Creative Production · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nakamurahiroki/status/2103272376234598492">Jev Model Buzz: The Impact of &#39;Fast and Cheap&#39; on Creative Production</a></h3>
+<p>The post discusses the Jev model, reportedly from the ChatGPT inventor, which excites developers for being &#39;fast and cheap.&#39; The author notes that while such models increase trial-and-error in creative work and reduce the weight of one-shot success, the time for deep thinking is most squeezed.</p>
+<p><strong>中文摘要：</strong>帖子讨论ChatGPT发明者发布的Jev模型因‘快速且便宜’而令开发者兴奋，并指出这类模型虽能提升创意试错次数、降低一次性成败的重要性，但最受挤压的是深度思考的时间。</p>
+<p><strong>中村洋基 PARTY FUND</strong> · @nakamurahiroki · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 107</p>
+<p><a href="https://x.com/nakamurahiroki/status/2103272376234598492">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/LeowenAI/status/2103101374628257802"><img src="https://pbs.twimg.com/amplify_video_thumb/2103100965381693440/img/wPeoOrVKPl6p5FKk.jpg" alt="Jev Produces Visual References in 1 Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 59</p>
 <p><a href="https://x.com/LeowenAI/status/2103101374628257802">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kontentsukpi/status/2103068574197706826"><img src="https://pbs.twimg.com/amplify_video_thumb/2103068507743178752/img/6hlZl8M5iowOvnDp.jpg" alt="Jev + Opus 5.5: Turning Virality Scores into an Evidence Trail · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +116,17 @@
 <p><strong>Kontentsu kurieta</strong> · @Kontentsukpi · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 43</p>
 <p><a href="https://x.com/Kontentsukpi/status/2103068574197706826">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AICookedcom/status/2103267203303018906"><img src="https://pbs.twimg.com/amplify_video_thumb/2103260171862695936/img/lWQvmNdKmElRyb6Y.jpg" alt="Audience-Driven Interactive Movie Platform Built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AICookedcom/status/2103267203303018906">Audience-Driven Interactive Movie Platform Built with Jev</a></h3>
+<p>AI Cooked showcases an audience-directed choose-your-own-adventure movie platform by @henloitsjoyce, built with Jev, GPT-6, and Claude Opus 5.5, letting viewers shape the story.</p>
+<p><strong>中文摘要：</strong>AI Cooked 展示了由 @henloitsjoyce 制作的观众导向选择冒险电影平台，利用 Jev、GPT-6 和 Claude Opus 5.5 打造，观众可左右剧情发展。</p>
+<p><strong>AI Cooked</strong> · @AICookedcom · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/AICookedcom/status/2103267203303018906">在 X 查看原帖</a> · <a href="https://t.co/J4GUK22rF3">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 303 | 118 | 185 | 802K |
+| 305 | 120 | 185 | 802K |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/NomadAnalyst/status/2103271144094871709"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev Used for Real-Time Sentiment Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NomadAnalyst/status/2103271144094871709">Jev Used for Real-Time Sentiment Analysis</a></h3>
+<p>The post asks if you noticed Elleven Labs using Jev for real-time sentiment analysis, showcasing Jev in a real-world application.</p>
+<p><strong>中文摘要：</strong>该帖子询问是否注意到Elleven Labs将Jev用于实时情感分析，展示了Jev在实际场景中的应用。</p>
+<p><strong>Nomad Analyst</strong> · @NomadAnalyst · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/NomadAnalyst/status/2103271144094871709">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/mewcp_ai/status/2103003577086271537"><img src="https://pbs.twimg.com/media/HS9eZOYbYAAZK5E?format=jpg&amp;name=medium" alt="Jev is now on MewCP · 原帖图片" width="100%"></a>
 <br>
 <sub><code>接入动态</code> <code>原帖图片</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/mewcp_ai/status/2103003577086271537">在 X 查看原帖</a> · <a href="https://t.co/rpK53Zia1B">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BolterApp/status/2103097061637853689"><img src="https://pbs.twimg.com/amplify_video_thumb/2103096656832942080/img/CsWgwHWK7R9jWuR9.jpg" alt="Bolter tests TypeSafe&#39;s Jev: 99% accuracy, 0.3s response · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/BolterApp/status/2103097061637853689">在 X 查看原帖</a> · <a href="https://t.co/1OoXY8233E">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lazygem/status/2102980278566404348"><img src="https://pbs.twimg.com/media/HS9JUnrbAAAqJh1?format=jpg&amp;name=large" alt="Jev is now free on opencode · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>LazyGem</strong> · @lazygem · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/lazygem/status/2102980278566404348">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/x1knet/status/2103271034703183894"><img src="https://pbs.twimg.com/amplify_video_thumb/2103179146834710528/img/Sv65pdJhTtJFB4vs.jpg" alt="When will private JEV be on AskVenice? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/x1knet/status/2103271034703183894">When will private JEV be on AskVenice?</a></h3>
+<p>User asks when TypeSafe&#39;s Jev model will be available privately on AskVenice.</p>
+<p><strong>中文摘要：</strong>用户询问TypeSafe的Jev模型何时在AskVenice平台以私有形式推出。</p>
+<p><strong>x1k</strong> · @x1knet · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/x1knet/status/2103271034703183894">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/SorenStarck/status/2103132369679179983"><img src="https://pbs.twimg.com/media/HS_TlsSX0AAaNWA?format=png&amp;name=900x900" alt="SessionWatcher.com now supports JEV from TypeSafe AI · 原帖图片" width="100%"></a>

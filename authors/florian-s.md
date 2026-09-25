@@ -1,9 +1,11 @@
 # Florian S
 
-10 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-24 | [JevBench v1.4.2 Released: decider-4b v2 Takes the Top Spot](https://x.com/airesearch12/status/2103267811480993858) | 开发资源 | Florian S | 363 |
+| 2026-09-24 | [4B model challenges Jev: less smart but faster and cheaper](https://x.com/airesearch12/status/2103267815373574573) | 科研 | Florian S | 70 |
 | 2026-09-23 | [Decision Desk: A Jev-based Ticket Decision App](https://x.com/airesearch12/status/2102607746893848934) | 客户支持 | Florian S | 22 |
 | 2026-09-22 | [JevBench v1.3.0 Released: Updated Jev Model Benchmark](https://x.com/airesearch12/status/2102194492606460011) | 开发资源 | Florian S | 465 |
 | 2026-09-21 | [JevBench v1.2.6 Released: Jev Model Rankings Updated](https://x.com/airesearch12/status/2101936404385161270) | 开发资源 | Florian S | 21K |

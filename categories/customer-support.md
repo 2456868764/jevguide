@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 30 | 20 | 10 | 639K |
+| 32 | 21 | 11 | 639K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ElevenlabsJapan/status/2103262731113832747"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev and ElevenLabs Integration Visualizes Emotions in Call Centers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ElevenlabsJapan/status/2103262731113832747">Jev and ElevenLabs Integration Visualizes Emotions in Call Centers</a></h3>
+<p>In Japanese call centers, the Jev and ElevenLabs integration visualizes emotions during calls with colors and six meters, helping to quickly spot dissatisfaction or hesitation hard to detect from words alone.</p>
+<p><strong>中文摘要：</strong>日本呼叫中心场景中，Jev 与 ElevenLabs 的集采用颜色和六个仪表盘实时可视化通话情绪，帮助快速发现言语中难以捕捉的不满或犹豫。</p>
+<p><strong>ElevenLabs Japan</strong> · @ElevenlabsJapan · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 191</p>
+<p><a href="https://x.com/ElevenlabsJapan/status/2103262731113832747">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/QibazX/status/2103150930090656050"><img src="https://pbs.twimg.com/amplify_video_thumb/2103150853318201344/img/b-P_krcERC-E0CIm.jpg" alt="TypeSafe Jev Handles 100K Support Tickets for $2.11 · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 21</p>
 <p><a href="https://x.com/QibazX/status/2103150930090656050">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052996364128605"><img src="https://pbs.twimg.com/amplify_video_thumb/2102338032158314497/img/wnWkVCwBQ7qI2DaY.jpg" alt="Jev resolves 13 support tickets in parallel · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/icerdesign/status/2103052996364128605">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/edwinfmesa/status/2102968647081759064"><img src="https://pbs.twimg.com/media/HS87KweWQAAj0vm?format=jpg&amp;name=medium" alt="Exploring How Jev and Laya Help Support Agents Prepare Context · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>Edwin Mesa</strong> · @edwinfmesa · 2026-09-24</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/edwinfmesa/status/2102968647081759064">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BULLCOM_co/status/2103265724978577888"><img src="https://pbs.twimg.com/media/HS73COda8AAHvdt?format=jpg&amp;name=medium" alt="Jev: Decision AI That Returns Judgments in ~0.1s · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BULLCOM_co/status/2103265724978577888">Jev: Decision AI That Returns Judgments in ~0.1s</a></h3>
+<p>Introducing Jev, a new AI that doesn&#39;t generate text but returns decisions in about 0.1 seconds. It excels at selection tasks like inquiry routing, with a comparison to ChatGPT and use cases for SMEs.</p>
+<p><strong>中文摘要：</strong>介绍新型AI“Jev”，它不生成文章，仅以约0.1秒的速度返回判断，擅长问询分类等选择型工作，并比较了与ChatGPT的差异及中小企业应用场景。</p>
+<p><strong>BULLCOM</strong> · @BULLCOM_co · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/BULLCOM_co/status/2103265724978577888">在 X 查看原帖</a> · <a href="https://t.co/zZ54PuohnD">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2102959547375657093"><img src="https://pbs.twimg.com/media/HS82kIlW4AANsxJ?format=jpg&amp;name=medium" alt="Running a Jev-style decision model on a laptop · 原帖图片" width="100%"></a>

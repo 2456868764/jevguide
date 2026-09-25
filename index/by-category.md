@@ -1,26 +1,26 @@
 # Jev Showcases by Category
 
-- [How it works](../categories/how-it-works.md) — 356
-- [Community builds](../categories/community-builds.md) — 342
-- [Developer tools](../categories/developer-tools.md) — 332
-- [Access updates](../categories/access-updates.md) — 303
+- [How it works](../categories/how-it-works.md) — 359
+- [Community builds](../categories/community-builds.md) — 351
+- [Developer tools](../categories/developer-tools.md) — 335
+- [Access updates](../categories/access-updates.md) — 305
 - [Gaming](../categories/gaming.md) — 273
-- [Agents](../categories/agents.md) — 225
-- [Launch news](../categories/launch-news.md) — 199
-- [Developer resources](../categories/developer-resources.md) — 190
-- [Finance](../categories/finance.md) — 141
-- [Workflow automation](../categories/workflow-automation.md) — 123
-- [Marketing](../categories/marketing.md) — 97
+- [Agents](../categories/agents.md) — 226
+- [Launch news](../categories/launch-news.md) — 200
+- [Developer resources](../categories/developer-resources.md) — 193
+- [Finance](../categories/finance.md) — 142
+- [Workflow automation](../categories/workflow-automation.md) — 124
+- [Marketing](../categories/marketing.md) — 98
+- [Content creation](../categories/content-creation.md) — 75
 - [Data analytics](../categories/data-analytics.md) — 75
-- [Content creation](../categories/content-creation.md) — 71
 - [Knowledge & search](../categories/knowledge-search.md) — 71
-- [Scientific research](../categories/scientific-research.md) — 47
+- [Scientific research](../categories/scientific-research.md) — 48
 - [Robotics](../categories/robotics.md) — 34
-- [Customer support](../categories/customer-support.md) — 30
+- [Customer support](../categories/customer-support.md) — 32
 - [Productivity](../categories/productivity.md) — 27
 - [Cybersecurity](../categories/cybersecurity.md) — 24
+- [Software development](../categories/software-development.md) — 21
 - [Healthcare](../categories/healthcare.md) — 19
-- [Software development](../categories/software-development.md) — 19
 - [Business operations](../categories/business-operations.md) — 18
 - [Education](../categories/education.md) — 15
 - [E-commerce](../categories/e-commerce.md) — 13

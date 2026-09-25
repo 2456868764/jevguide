@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 19 | 8 | 11 | 88K |
+| 21 | 9 | 12 | 88K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dsmiley411/status/2103262150202663263"><img src="https://pbs.twimg.com/media/HTBIwGobAAAzKp5?format=jpg&amp;name=medium" alt="Jev benchmarked on state machine programming · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dsmiley411/status/2103262150202663263">Jev benchmarked on state machine programming</a></h3>
+<p>Dorian Smiley shares a state machine programming benchmark: Gemini Flash Lite 3.1 scores 75.6% overall, while Jev reaches 72.2% overall, 100% on canonical tasks, and runs ~6× faster, with misses mostly in novel compositions.</p>
+<p><strong>中文摘要：</strong>Dorian Smiley 发布了状态机编程基准：Gemini Flash Lite 3.1 总体 75.6%，Jev 总体 72.2%，但在典型任务上达 100%，速度快约 6 倍，失误主要集中在新的组合场景。</p>
+<p><strong>Dorian Smiley</strong> · @dsmiley411 · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 361</p>
+<p><a href="https://x.com/dsmiley411/status/2103262150202663263">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/k2sbhai/status/2103270018360516635"><img src="https://pbs.twimg.com/amplify_video_thumb/2103269767557922816/img/MybLsNRx2wsTWoBP.jpg" alt="Jev + Agent Memory: Turning Coding Sessions into Reusable Knowledge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/k2sbhai/status/2103270018360516635">Jev + Agent Memory: Turning Coding Sessions into Reusable Knowledge</a></h3>
+<p>Jev combined with agent memory, Beacon turns coding-agent sessions (Claude Code, Codex, Cursor, OpenCode, and 20+ more) into reusable knowledge. Jev helps find the runs worth learning from, turning useful fixes and workflows into reusable skills.</p>
+<p><strong>中文摘要：</strong>Jev与代理记忆结合，通过Beacon将Claude Code、Codex、Cursor等编码代理的会话转化为可复用知识。Jev帮助识别值得学习的运行记录，让有用的修复和工作流成为可复用的技能。</p>
+<p><strong>K2S</strong> · @k2sbhai · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 166</p>
+<p><a href="https://x.com/k2sbhai/status/2103270018360516635">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiiro29/status/2103080268324376956"><img src="https://pbs.twimg.com/media/HS-htW4boAI6b7x?format=jpg&amp;name=large" alt="Combining Jev with Playwright for E2E Testing · 原帖图片" width="100%"></a>

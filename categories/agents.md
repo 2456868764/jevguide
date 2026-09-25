@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 230 | 125 | 106 | 3.0M |
+| 234 | 128 | 107 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/itsjdraven/status/2103360153865367828"><img src="https://pbs.twimg.com/amplify_video_thumb/2103327309550014464/img/LZtv08JJjZFiPlF0.jpg" alt="10 ways Jev makes AI agents more capable · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/itsjdraven/status/2103360153865367828">10 ways Jev makes AI agents more capable</a></h3>
+<p>This post highlights how Jev enhances AI agents, covering code review, browser control, web search, and model routing.</p>
+<p><strong>中文摘要：</strong>该帖子介绍 Jev 如何让 AI 代理更具能力，包括代码审查、浏览器控制、网络搜索和模型路由等应用。</p>
+<p><strong>J.𝙳𝚛𝚊𝚟𝚎𝚗</strong> · @itsjdraven · 2026-09-25</p>
+<p>💬 11 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 527</p>
+<p><a href="https://x.com/itsjdraven/status/2103360153865367828">在 X 查看原帖</a> · <a href="https://t.co/KZceo251wT">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/neil_xbt/status/2103306493357609101"><img src="https://pbs.twimg.com/amplify_video_thumb/2102976884002689024/img/ruWutgKmqdOIYPh5.jpg" alt="New agent setup using Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 237</p>
 <p><a href="https://x.com/neil_xbt/status/2103306493357609101">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xcato_/status/2103281096028795019"><img src="https://pbs.twimg.com/amplify_video_thumb/2103280779975405568/img/Brd0pSMzYTZ8_w2-.jpg" alt="Jev, a decide-only model: a low-cost agent setup with Opus · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>cato</strong> · @0xcato_ · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 127</p>
 <p><a href="https://x.com/0xcato_/status/2103281096028795019">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ellfyy_/status/2103427105715302420"><img src="https://pbs.twimg.com/amplify_video_thumb/2103426345078292480/img/BqYPP6o0v2zEieji.jpg" alt="Jev handles 83% of agent work in 70ms for $0.042 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ellfyy_/status/2103427105715302420">Jev handles 83% of agent work in 70ms for $0.042</a></h3>
+<p>A live dashboard shows the split in real time: bounded questions go to Jev, generation goes to Claude, with the router deciding on the fly.</p>
+<p><strong>中文摘要：</strong>实时仪表盘展示Jev与Claude的任务分配：有界问题交给Jev，生成任务交给Claude，动态路由清晰可见。</p>
+<p><strong>Elf</strong> · @ellfyy_ · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/ellfyy_/status/2103427105715302420">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -55,6 +79,30 @@
 <p><strong>ParlonsIA sans compromis</strong> · @ParlonsIAx · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/ParlonsIAx/status/2103364076181094526">在 X 查看原帖</a> · <a href="https://t.co/IsH0be7re1">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Nitinnennn/status/2103354139526979988"><img src="https://pbs.twimg.com/media/HTCdPqtbgAAZXLz?format=png&amp;name=900x900" alt="Jev optimizes agent session: 992k→379k tokens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Nitinnennn/status/2103354139526979988">Jev optimizes agent session: 992k→379k tokens</a></h3>
+<p>An agent session got stuck at 992k tokens. The user had Jev from TypeSafe AI judge every old tool call while keeping every message verbatim, reducing it to 379k tokens and resuming where it left off.</p>
+<p><strong>中文摘要：</strong>一个代理会话卡在992k tokens，用户让TypeSafe AI的Jev模型评判每个旧工具调用，同时保留每条消息原文，将token降至379k，并使会话从断点继续。</p>
+<p><strong>alexxx</strong> · @Nitinnennn · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Nitinnennn/status/2103354139526979988">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/wizzerdx/status/2103428734174875685"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="JEV + Minds agents integration · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/wizzerdx/status/2103428734174875685">JEV + Minds agents integration</a></h3>
+<p>The post mentions combining JEV with Minds agents to form EPiC, likely relating to TypeSafe&#39;s Jev model and agent collaboration.</p>
+<p><strong>中文摘要：</strong>帖子提及 JEV 与 Minds agents 结合，构成 EPiC，可能关联 TypeSafe 的 Jev 模型与智能体协作。</p>
+<p><strong>wiz (Ø,G)</strong> · @wizzerdx · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/wizzerdx/status/2103428734174875685">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

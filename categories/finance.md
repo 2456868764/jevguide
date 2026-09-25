@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 148 | 78 | 71 | 1.2M |
+| 154 | 82 | 73 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/codewithimanshu/status/2103425824728969410"><img src="https://pbs.twimg.com/amplify_video_thumb/2103425799303086080/img/Q4T0ypAfwLrQDfcV.jpg" alt="JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/codewithimanshu/status/2103425824728969410">JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot</a></h3>
+<p>The post claims JEV is gaining traction in AI circles, with a Monad engineer already building a fully automated trading bot that reads MON/USDC price in real time.</p>
+<p><strong>中文摘要：</strong>帖子称JEV在AI圈子引发关注，已有Monad工程师基于JEV构建了全自动交易机器人，实时读取MON/USDC价格。</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu · 2026-09-25</p>
+<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 679</p>
+<p><a href="https://x.com/codewithimanshu/status/2103425824728969410">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/qkl2058/status/2103421503526125878"><img src="https://pbs.twimg.com/amplify_video_thumb/2103094061825732609/img/r-mvzbrBPum3dgf7.jpg" alt="Jev + Grok on Polymarket earned $1,930 overnight · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/qkl2058/status/2103421503526125878">Jev + Grok on Polymarket earned $1,930 overnight</a></h3>
+<p>A user connected Jev to Grok and ran a one-night test on Polymarket, adding $1,930 to the account. Grok doesn&#39;t give direct calls but estimates true probabilities for each market; Jev waits for price to move toward the estimated probability before acting.</p>
+<p><strong>中文摘要：</strong>用户将 Jev 接入 Grok 在 Polymarket 上测试一晚，账户增加了 1930 美元。Grok 不直接喊单，而是估算每个市场的真实概率；Jev 等待价格朝估算概率方向变化后才行动。</p>
+<p><strong>区块链行情研究</strong> · @qkl2058 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 444</p>
+<p><a href="https://x.com/qkl2058/status/2103421503526125878">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/openjevai/status/2103428120166740098"><img src="https://pbs.twimg.com/amplify_video_thumb/2103137497375215616/img/ovRd-aBAaRURk3-2.jpg" alt="CoinGecko explores real-time market data with Jev intelligence · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/openjevai/status/2103428120166740098">CoinGecko explores real-time market data with Jev intelligence</a></h3>
+<p>OpenJEV highlights CoinGecko&#39;s exploration of combining real-time market data with Jev intelligence for new possibilities in financial data.</p>
+<p><strong>中文摘要：</strong>OpenJEV 表示 CoinGecko 正在将实时市场数据与 Jev 智能结合，探索金融数据领域的新可能。</p>
+<p><strong>OpenJEV</strong> · @openjevai · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 92</p>
+<p><a href="https://x.com/openjevai/status/2103428120166740098">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/clawddevs/status/2103310162815533091"><img src="https://pbs.twimg.com/media/HTB1cb2WEAABRWj?format=jpg&amp;name=medium" alt="Open Source JEV Preview Trader Released for Solana Dry-Run · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 4 &nbsp; 📊 87</p>
 <p><a href="https://x.com/clawddevs/status/2103310162815533091">在 X 查看原帖</a> · <a href="https://t.co/Af0ZDMQVHH">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clawddevs/status/2103287093703127451"><img src="https://pbs.twimg.com/media/HTBgdpwbkAA1nUQ?format=jpg&amp;name=medium" alt="JEV-Powered Solana Trader Preview · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 82</p>
 <p><a href="https://x.com/clawddevs/status/2103287093703127451">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clawddevs/status/2103292844060340635"><img src="https://pbs.twimg.com/media/HTBlsWqXoAAvds-?format=jpg&amp;name=medium" alt="JEV Trader Preview Released · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 75</p>
 <p><a href="https://x.com/clawddevs/status/2103292844060340635">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yuru2_Kurage/status/2103365319037501939"><img src="https://pbs.twimg.com/media/HTCnBdPaoAArGn6?format=jpg&amp;name=medium" alt="Double-checking journal entries with Jev caught a missed rule! · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
 <p><a href="https://x.com/yuru2_Kurage/status/2103365319037501939">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CasaVerilla/status/2103309487230591341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103309367399395328/img/X6LN6aJ1NI4pUBVs.jpg" alt="User Profits from Meme Coin Trading with Jev and Grok Bots · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,19 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/CasaVerilla/status/2103309487230591341">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/explosss1ve/status/2103430089358659746"><img src="https://pbs.twimg.com/media/HTDieLKWAAA_BRo?format=jpg&amp;name=medium" alt="One prompt turns Claude Opus 5.5 into a 24/7 hedge fund · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/explosss1ve/status/2103430089358659746">One prompt turns Claude Opus 5.5 into a 24/7 hedge fund</a></h3>
+<p>The post shows a prompt that builds a 24/7 hedge fund: Claude Opus 5.5 handles reasoning, Jev decides in milliseconds, code enforces risk limits and rejects breaking trades, and it must explain how the fund could blow up before trading.</p>
+<p><strong>中文摘要：</strong>帖子展示用一条提示词搭建 24/7 对冲基金：Claude Opus 5.5 负责思考，Jev 毫秒级决策，代码执行风控并拒绝超限交易，且交易前必须说明基金可能如何崩盘。</p>
+<p><strong>explos1ve</strong> · @explosss1ve · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/explosss1ve/status/2103430089358659746">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/willyjrdnn/status/2103307371787460754"><img src="https://pbs.twimg.com/media/HTByVwLawAAe-9b?format=jpg&amp;name=medium" alt="Building a Perps Trading Ghost with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +127,30 @@
 <p><strong>just welly.</strong> · @willyjrdnn · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/willyjrdnn/status/2103307371787460754">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tqx_trade/status/2103358408527073583"><img src="https://pbs.twimg.com/amplify_video_thumb/2103357101426839552/img/HAeI1GAUfDNg9ptB.jpg" alt="Jev provides directional insight for trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tqx_trade/status/2103358408527073583">Jev provides directional insight for trading</a></h3>
+<p>The post notes that most AI models only give buy/sell directions, while Jev provides direction and emphasizes survival, making it suitable for building trading systems.</p>
+<p><strong>中文摘要：</strong>原帖指出大多数AI模型只给出买卖建议，而Jev不仅能提供方向，还关注交易者的生存能力，适合构建交易系统。</p>
+<p><strong>TQX</strong> · @tqx_trade · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/tqx_trade/status/2103358408527073583">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Kaushaly4s5s7/status/2103367904700047860"><img src="https://pbs.twimg.com/media/HTCp7ETbAAAN4om?format=jpg&amp;name=medium" alt="Jev-powered Fraud Investigation Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Kaushaly4s5s7/status/2103367904700047860">Jev-powered Fraud Investigation Agent</a></h3>
+<p>The author shares a workflow for building a fraud investigation agent with Jev and TigerGraph: after an alert, graph evidence, Bayesian updates, and pattern recognition are used, Jev performs an extra lookup, and a policy-based verdict is made before human approval. Jev acts as the control layer, orchestrating the decision process.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 和 TigerGraph 构建欺诈调查代理的流程：警报触发后，通过图证据、贝叶斯更新和模式识别，再由 Jev 进行额外查找，最终结合策略做出裁决并提交人工审批。Jev 充当控制层，负责协调决策流程。</p>
+<p><strong>Kaushal Chaudhari</strong> · @Kaushaly4s5s7 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/Kaushaly4s5s7/status/2103367904700047860">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

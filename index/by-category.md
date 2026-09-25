@@ -1,19 +1,19 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 377
-- [How it works](../categories/how-it-works.md) — 367
-- [Developer tools](../categories/developer-tools.md) — 340
+- [Community builds](../categories/community-builds.md) — 387
+- [How it works](../categories/how-it-works.md) — 370
+- [Developer tools](../categories/developer-tools.md) — 341
 - [Access updates](../categories/access-updates.md) — 312
-- [Gaming](../categories/gaming.md) — 275
-- [Agents](../categories/agents.md) — 230
-- [Launch news](../categories/launch-news.md) — 208
+- [Gaming](../categories/gaming.md) — 276
+- [Agents](../categories/agents.md) — 234
+- [Launch news](../categories/launch-news.md) — 213
 - [Developer resources](../categories/developer-resources.md) — 199
-- [Finance](../categories/finance.md) — 148
+- [Finance](../categories/finance.md) — 154
 - [Workflow automation](../categories/workflow-automation.md) — 128
-- [Marketing](../categories/marketing.md) — 100
-- [Content creation](../categories/content-creation.md) — 76
-- [Data analytics](../categories/data-analytics.md) — 75
-- [Knowledge & search](../categories/knowledge-search.md) — 74
+- [Marketing](../categories/marketing.md) — 101
+- [Content creation](../categories/content-creation.md) — 77
+- [Data analytics](../categories/data-analytics.md) — 76
+- [Knowledge & search](../categories/knowledge-search.md) — 75
 - [Scientific research](../categories/scientific-research.md) — 49
 - [Robotics](../categories/robotics.md) — 35
 - [Customer support](../categories/customer-support.md) — 34
@@ -22,6 +22,6 @@
 - [Software development](../categories/software-development.md) — 21
 - [Healthcare](../categories/healthcare.md) — 19
 - [Business operations](../categories/business-operations.md) — 18
-- [Education](../categories/education.md) — 15
-- [E-commerce](../categories/e-commerce.md) — 13
+- [Education](../categories/education.md) — 16
+- [E-commerce](../categories/e-commerce.md) — 14
 - [Legal & compliance](../categories/legal-compliance.md) — 12

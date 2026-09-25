@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 377 | 153 | 227 | 3.0M |
+| 387 | 158 | 232 | 3.0M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/godofprompt/status/2103424350997348408"><img src="https://pbs.twimg.com/media/HTDdTK_acAAVZzC?format=png&amp;name=900x900" alt="Jev founder&#39;s paper turned into a system prompt for LLM decision layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/godofprompt/status/2103424350997348408">Jev founder&#39;s paper turned into a system prompt for LLM decision layer</a></h3>
+<p>Diogo Almeida, founder of Jev, released a 12-page paper on using Jev with Claude, Codex or Grok. This post turns it into a system prompt that designs a decision layer around your LLM, so you don&#39;t pay a big model for small calls.</p>
+<p><strong>中文摘要：</strong>Jev 创始人 Diogo Almeida 发布了一篇 12 页论文，介绍如何在 Claude、Codex 或 Grok 中使用 Jev。该帖子将其转化为系统提示词，为你的 LLM 设计决策层，避免为大模型的琐碎判断付费。</p>
+<p><strong>God of Prompt</strong> · @godofprompt · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 228</p>
+<p><a href="https://x.com/godofprompt/status/2103424350997348408">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/MinLiBuilds/status/2103276171484131716"><img src="https://pbs.twimg.com/amplify_video_thumb/2103276099786637312/img/tPhFTWZ8m89lb_LA.jpg" alt="Jev route starting to cluster · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 208</p>
 <p><a href="https://x.com/MinLiBuilds/status/2103276171484131716">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lukeharries/status/2103292312768188838"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Fun Fact About Jev Public Demo Usage · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 189</p>
 <p><a href="https://x.com/lukeharries/status/2103292312768188838">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ryoma_nakajima/status/2103372392538206344"><img src="https://pbs.twimg.com/amplify_video_thumb/2103143852421136384/img/eELR0QiURk3nXwO_.jpg" alt="Discussion on the necessity of Jev in speaker separation · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 142</p>
 <p><a href="https://x.com/ryoma_nakajima/status/2103372392538206344">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/danielmckinn0n/status/2103303398972170404"><img src="https://pbs.twimg.com/media/HTBtulXaAAAT6q4?format=png&amp;name=small" alt="Discussion on Whether Jev Is Just LLM · 原帖图片" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Daniel McKinnon</strong> · @danielmckinn0n · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 102</p>
 <p><a href="https://x.com/danielmckinn0n/status/2103303398972170404">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/katapad/status/2103424897087386004"><img src="https://pbs.twimg.com/amplify_video_thumb/2103424843568033792/img/pMuRUFxyIGyA7LzT.jpg" alt="Short sleeper detection app built with ultra-fast AI Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/katapad/status/2103424897087386004">Short sleeper detection app built with ultra-fast AI Jev</a></h3>
+<p>Judges mainly by the eyelids, but if the head tilts forward or sideways, it is also treated as a long sleeper.</p>
+<p><strong>中文摘要：</strong>主要根据眼睑判断，但头部前倾或侧倾也会被判定为长睡眠者。</p>
+<p><strong>桟よしお@特級𝕏Rエンジニア</strong> · @katapad · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 82</p>
+<p><a href="https://x.com/katapad/status/2103424897087386004">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -142,6 +166,19 @@
 <p><a href="https://x.com/miltonisblurrd/status/2103282001893879967">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/zawa_curve/status/2103427562890526986"><img src="https://pbs.twimg.com/media/HTDfaOia0AAz2hn?format=jpg&amp;name=medium" alt="TypeSafe AI unveils Jev; user discusses &#39;not being learned = safe?&#39; and terms of use · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zawa_curve/status/2103427562890526986">TypeSafe AI unveils Jev; user discusses &#39;not being learned = safe?&#39; and terms of use</a></h3>
+<p>An AI marketing and development support professional acknowledges TypeSafe AI&#39;s Jev launch, discusses whether &#39;AI not learning&#39; means safety, and checks terms before internal use.</p>
+<p><strong>中文摘要：</strong>一位AI营销与开发支持从业者确认TypeSafe AI发布Jev的消息，探讨“AI不学习是否意味着安全”，并分享企业内部使用前的条款确认。</p>
+<p><strong>ザワ | AIマーケティング × AI開発・内製化支援</strong> · @zawa_curve · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/zawa_curve/status/2103427562890526986">在 X 查看原帖</a> · <a href="https://t.co/RnfgltdE0n">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/nao23s/status/2103299481269878956"><img src="https://pbs.twimg.com/media/HTBru3yaMAAZQwC?format=jpg&amp;name=medium" alt="Jev founder&#39;s deck goes viral: don&#39;t leave all judgment and execution to LLMs · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -152,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/nao23s/status/2103299481269878956">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bprintco/status/2103312573781144058"><img src="https://pbs.twimg.com/media/HTB2p-XWsAA-QVc?format=jpg&amp;name=medium" alt="Using Jev to Measure Sentiment Every 30 Minutes · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/bprintco/status/2103312573781144058">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_300/status/2103378980803944874"><img src="https://pbs.twimg.com/amplify_video_thumb/2103261793468760064/img/_NG--cpOgl37aiAC.jpg" alt="Local open-source model vastly outpaces Jev in speed test · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/ai_300/status/2103378980803944874">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/leaf_sanren/status/2103373673201889474"><img src="https://pbs.twimg.com/media/HTCuqt2bMAAa9eB?format=jpg&amp;name=900x900" alt="Accepted to Jev Hackathon, Feeling Nervous · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/leaf_sanren/status/2103373673201889474">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brandonjcarl/status/2103330732676640986"><img src="https://pbs.twimg.com/media/HTCH-uvXQAAQZgJ?format=jpg&amp;name=medium" alt="User compares Jev-powered classifier to Decoder · 原帖图片" width="100%"></a>
 <br>
@@ -199,6 +236,17 @@
 <p><strong>Brandon Carl</strong> · @brandonjcarl · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/brandonjcarl/status/2103330732676640986">在 X 查看原帖</a> · <a href="https://t.co/aGQVcXrcyu">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tk_ai_create/status/2103356322205106343"><img src="https://pbs.twimg.com/media/HTBWGu9bwAAE_FA?format=jpg&amp;name=medium" alt="Pre-deployment checks for the Jev judgment AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tk_ai_create/status/2103356322205106343">Pre-deployment checks for the Jev judgment AI</a></h3>
+<p>TK shares 5 pre-deployment steps for Jev, an AI that doesn&#39;t write articles but makes judgments and returns fixed formats like Choice, Score, Yes/No: test with 20 right-answer samples, narrow judgments to one, compare probability with the correct answer, route low-confidence results to humans, and never delegate sending, deletion, or billing to it—emphasizing escape routes first.</p>
+<p><strong>中文摘要：</strong>TK分享让不写文章、只做判断的AI“Jev”以Choice、Score、Yes/No等固定格式输出时，导入前应执行的5个步骤：用带正确答案的20个样本测试、把判断收敛为1个、比对概率与正确答案、低置信度退回人工、不让它负责发送/删除/扣费等操作，强调先留好退路。</p>
+<p><strong>TK｜非エンジニアのAI制作・自動化</strong> · @tk_ai_create · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/tk_ai_create/status/2103356322205106343">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -214,6 +262,19 @@
 <p><a href="https://x.com/carlaiau/status/2103294164700148130">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/mustafaergisi/status/2103368082768929163"><img src="https://pbs.twimg.com/amplify_video_thumb/2103233862515953664/img/X2RJaep8ERWG1APZ.jpg" alt="Jev picks tables, LLM writes SQL: 56 tables to top 4 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mustafaergisi/status/2103368082768929163">Jev picks tables, LLM writes SQL: 56 tables to top 4</a></h3>
+<p>A concrete example from the guide: Jev selects the relevant tables from 56, then the LLM writes the SQL in one call.</p>
+<p><strong>中文摘要：</strong>原帖展示了一个具体案例：Jev从56个表中选择最重要的4个表，再由LLM编写SQL查询，一次调用完成。</p>
+<p><strong>Mustafa Ergisi</strong> · @mustafaergisi · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/mustafaergisi/status/2103368082768929163">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/code_hiyouga/status/2103375934527271047"><img src="https://pbs.twimg.com/media/HTCwz5cbIAApX0l?format=jpg&amp;name=large" alt="Questioning whether Jev demos are false advertising · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -224,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/code_hiyouga/status/2103375934527271047">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nullsoft_app/status/2103376470014128160"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="CLM-8B vs Jev vs Kev-4B vs Qwen3.5 Benchmark · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +296,8 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/nullsoft_app/status/2103376470014128160">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KevinMagnan/status/2103322874434158874"><img src="https://pbs.twimg.com/media/HTCA6n3WEAALvpx?format=png&amp;name=900x900" alt="Jev tool call compaction praised by user · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/KevinMagnan/status/2103322874434158874">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VizuaraAI/status/2103367447114092920"><img src="https://pbs.twimg.com/tweet_video_thumb/HTCpiDHasAADdPu.jpg" alt="Jev vs Gemini 2.5 Flash: Vizuara&#39;s 111-pod benchmark · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/VizuaraAI/status/2103367447114092920">在 X 查看原帖</a> · <a href="https://t.co/Dr2a8jNtnD">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CinemaFlix5/status/2103285511561383973"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="JEV + Minds agents: A First Public Use Case · 原帖视频截图" width="100%"></a>
 <br>
@@ -271,6 +332,17 @@
 <p><strong>_Hadi_</strong> · @CinemaFlix5 · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/CinemaFlix5/status/2103285511561383973">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AHSeslami/status/2103431095286972431"><img src="https://pbs.twimg.com/amplify_video_thumb/2103430518708514816/img/MZh0M456ms47rI5U.jpg" alt="User shares: Jev + Opus 5.5 cut workflow costs by ~80% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AHSeslami/status/2103431095286972431">User shares: Jev + Opus 5.5 cut workflow costs by ~80%</a></h3>
+<p>A user shares that combining Jev with Opus 5.5 cut their workflow execution cost and time by about 80%. Opus handles the hard reasoning, while Jev decides what information is needed, delegates each task to faster engines, and determines how to continue if a tool fails.</p>
+<p><strong>中文摘要：</strong>一位用户分享，将 Jev 与 Opus 5.5 结合使用，使其工作流的执行成本和时间下降约 80%。据称 Opus 负责复杂推理，而 Jev 负责判断需要哪些信息、将任务分配给更快的引擎，并在工具出错时决定如何继续。</p>
+<p><strong>امیرحسین اسلامی</strong> · @AHSeslami · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/AHSeslami/status/2103431095286972431">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -286,6 +358,19 @@
 <p><a href="https://x.com/elberacasa/status/2103277323856544207">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/PandeyKart27234/status/2103354485385118085"><img src="https://pbs.twimg.com/amplify_video_thumb/2103353535857659904/img/B2_ktC5SzfEw0q0Q.jpg" alt="Painting a Bob Ross landscape with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PandeyKart27234/status/2103354485385118085">Painting a Bob Ross landscape with Jev</a></h3>
+<p>Kartikey Pandey demonstrates an experiment: the code generates the canvas, and TypeSafe&#39;s Jev model decides each paint by answering multiple-choice questions. With 37,856 decisions, it painted a Bob Ross-style landscape in 35 seconds at a cost of 24 cents. Video shown at 4x speed.</p>
+<p><strong>中文摘要：</strong>Kartikey Pandey 展示了一个实验：代码生成画布，TypeSafe 的 Jev 模型通过回答多项选择题来决定每一笔颜料，共 37,856 次决策，在 35 秒内以 24 美分的成本绘制出一幅 Bob Ross 风格风景画，视频以 4 倍速播放。</p>
+<p><strong>Kartikey Pandey</strong> · @PandeyKart27234 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/PandeyKart27234/status/2103354485385118085">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/humansandaiboss/status/2103287696374612191"><img src="https://pbs.twimg.com/media/HTBg2y7XEAAD7Jq?format=png&amp;name=360x360" alt="That feeling when you had too much Jev last night · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -296,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/humansandaiboss/status/2103287696374612191">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nicolasvillah/status/2103282290600157296"><img src="https://pbs.twimg.com/media/HTBcEzjWwAArv7L?format=png&amp;name=medium" alt="Recommended JEV Explainers · 原帖图片" width="100%"></a>
 <br>
@@ -308,6 +391,19 @@
 <p><strong>Nícolas Villarreal H</strong> · @nicolasvillah · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/nicolasvillah/status/2103282290600157296">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TanzilTaqi/status/2103426512494162115"><img src="https://pbs.twimg.com/media/HTDfQbhakAA_Aeh?format=jpg&amp;name=medium" alt="Using Jev to Verify App Reviews · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TanzilTaqi/status/2103426512494162115">Using Jev to Verify App Reviews</a></h3>
+<p>In the example, after rewriting the review as a verifiable statement, Jev gives 98% true. Tip: write it as a statement that can be true or false, not &quot;what&#39;s wrong?&quot;</p>
+<p><strong>中文摘要：</strong>示例中，将评论改写成可验证陈述后，Jev给出98%真实性判断。提示：把问题写成可判断真伪的陈述句，而非“有什么问题？”。</p>
+<p><strong>Taqi T| Tech consultant &amp; Sr.Engineer</strong> · @TanzilTaqi · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/TanzilTaqi/status/2103426512494162115">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/alepom/status/2103366829401849866"><img src="https://pbs.twimg.com/media/HTCo-2aWsAEGu8L?format=jpg&amp;name=medium" alt="Jev Hype: Separating Facts from Fiction · 原帖图片" width="100%"></a>
@@ -358,6 +454,19 @@
 <p><a href="https://x.com/kartmehra/status/2103374967387640072">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/TanzilTaqi/status/2103427687973110208"><img src="https://pbs.twimg.com/media/HTDgVDBbkAAfLtV?format=jpg&amp;name=medium" alt="Don&#39;t use Jev to write replies or summaries · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TanzilTaqi/status/2103427687973110208">Don&#39;t use Jev to write replies or summaries</a></h3>
+<p>Jev shouldn&#39;t be used to write replies or summaries; use an LLM for that. Use Jev to decide when to call the LLM, which one, and whether to trust the result.</p>
+<p><strong>中文摘要：</strong>Jev 不应用于撰写回复或摘要，而应使用 LLM 完成。Jev 的职责是决定何时调用 LLM、调用哪个 LLM，以及是否信任其结果。</p>
+<p><strong>Taqi T| Tech consultant &amp; Sr.Engineer</strong> · @TanzilTaqi · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/TanzilTaqi/status/2103427687973110208">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/StephenOkita/status/2103278089157652602"><img src="https://pbs.twimg.com/media/HTBYPHoaQAA2bUz?format=jpg&amp;name=medium" alt="Full Jev alternatives benchmarks on RTX A5000 · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -367,6 +476,17 @@
 <p><strong>Stephen Okita</strong> · @StephenOkita · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/StephenOkita/status/2103278089157652602">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/barnoTD/status/2103431013590331497"><img src="https://pbs.twimg.com/tweet_video_thumb/HTDjWrbWYAA5a60.jpg" alt="Jev by TypeSafeAI mocked as Talking Ben · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/barnoTD/status/2103431013590331497">Jev by TypeSafeAI mocked as Talking Ben</a></h3>
+<p>The tweet quotes &quot;Jev by TypeSafeAI&quot; and then jokes about Talking Ben, implying what&#39;s inside doesn&#39;t match expectations—a lighthearted community take.</p>
+<p><strong>中文摘要：</strong>推文引用“Jev by TypeSafeAI”，随后用“Talking Ben”梗调侃，暗示打开后发现内容与预期不符，属于社区对产品的趣味评论。</p>
+<p><strong>Firas Amara</strong> · @barnoTD · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/barnoTD/status/2103431013590331497">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

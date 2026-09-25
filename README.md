@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3179</strong><br>curated posts</td>
-<td align="center"><strong>1680</strong><br>original videos</td>
+<td align="center"><strong>3215</strong><br>curated posts</td>
+<td align="center"><strong>1701</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>377</strong> showcases · <strong>153</strong> videos</p>
+<p><strong>387</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>367</strong> showcases · <strong>165</strong> videos</p>
+<p><strong>370</strong> showcases · <strong>165</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>340</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>341</strong> showcases · <strong>184</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>275</strong> showcases · <strong>211</strong> videos</p>
+<p><strong>276</strong> showcases · <strong>212</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>230</strong> showcases · <strong>125</strong> videos</p>
+<p><strong>234</strong> showcases · <strong>128</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>208</strong> showcases · <strong>107</strong> videos</p>
+<p><strong>213</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>148</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>154</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>100</strong> showcases · <strong>81</strong> videos</p>
+<p><strong>101</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>76</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>77</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>75</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>76</strong> showcases · <strong>43</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>74</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>75</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -174,13 +174,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>15</strong> showcases · <strong>8</strong> videos</p>
+<p><strong>16</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>13</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>14</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/FT/status/2103368302089191869"><img src="https://pbs.twimg.com/media/HTCqUN4W0AAp9wV?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/FT/status/2103368302089191869">TypeSafe AI Releases Jev Model</a></h3>
+<p>TypeSafe AI released its Jev model last week, positioning it as a cheaper alternative to traditional large language models for certain tasks. The startup was recently valued at $200 million.</p>
+<p><strong>11K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 11K</p>
+<p><strong>Financial Times</strong> · @FT</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
 <p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
 <p><strong>3.2K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
 <p><strong>Jack Cheng</strong> · @jackcheng</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/takashikiso/status/2103283252350124406"><img src="https://pbs.twimg.com/amplify_video_thumb/2102790070831042560/img/UvbpwlC4sazqc8Wo.jpg" alt="Sharing misreading correction with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/takashikiso/status/2103283252350124406">Sharing misreading correction with Jev</a></h3>
 <p>A user mentions that Jev can be used for misreading correction, says it seems ready to use, and expresses gratitude.</p>
 <p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.2K</p>
 <p><strong>木曽崇／Takashi Kiso</strong> · @takashikiso</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
 <a href="https://x.com/Rana_kamran43/status/2103290155050405906"><img src="https://pbs.twimg.com/tweet_video_thumb/HTBjO_IX0AA9jhK.jpg" alt="JEV Analyzes 1,000 Leads in 9 Seconds · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Rana_kamran43/status/2103290155050405906">JEV Analyzes 1,000 Leads in 9 Seconds</a></h3>
 <p>Kamran Hassan notes JEV analyzes 1,000 leads in 9 seconds, highlighting message mismatch detection.</p>
 <p><strong>768</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 768</p>
 <p><strong>kamran Hassan</strong> · @Rana_kamran43</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/BoBrainerd/status/2103299351749484910"><img src="https://pbs.twimg.com/media/HTBrd95XIAAH7pv?format=jpg&amp;name=900x900" alt="TypeSafe AI Hosts First Jev Night in NYC · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BoBrainerd/status/2103299351749484910">TypeSafe AI Hosts First Jev Night in NYC</a></h3>
-<p>Bo Brainerd shares highlights from TypeSafe AI&#39;s first Jev Night in NYC, featuring live demos, community connections, and developer credits.</p>
-<p><strong>448</strong> views · 💬 4 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 448</p>
-<p><strong>Bo Brainerd</strong> · @BoBrainerd</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
-<p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
-<p><strong>3.2K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
-<p><strong>Jack Cheng</strong> · @jackcheng</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/FT/status/2103368302089191869"><img src="https://pbs.twimg.com/media/HTCqUN4W0AAp9wV?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/FT/status/2103368302089191869">TypeSafe AI Releases Jev Model</a></h3>
+<p>TypeSafe AI released its Jev model last week, positioning it as a cheaper alternative to traditional large language models for certain tasks. The startup was recently valued at $200 million.</p>
+<p><strong>11K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 11K</p>
+<p><strong>Financial Times</strong> · @FT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/BoBrainerd/status/2103299351749484910"><img src="https://pbs.twimg.com/media/HTBrd95XIAAH7pv?format=jpg&amp;name=900x900" alt="TypeSafe AI Hosts First Jev Night in NYC · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BoBrainerd/status/2103299351749484910">TypeSafe AI Hosts First Jev Night in NYC</a></h3>
-<p>Bo Brainerd shares highlights from TypeSafe AI&#39;s first Jev Night in NYC, featuring live demos, community connections, and developer credits.</p>
-<p><strong>448</strong> views · 💬 4 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 448</p>
-<p><strong>Bo Brainerd</strong> · @BoBrainerd</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/Rana_kamran43/status/2103290155050405906"><img src="https://pbs.twimg.com/tweet_video_thumb/HTBjO_IX0AA9jhK.jpg" alt="JEV Analyzes 1,000 Leads in 9 Seconds · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Rana_kamran43/status/2103290155050405906">JEV Analyzes 1,000 Leads in 9 Seconds</a></h3>
+<p>Kamran Hassan notes JEV analyzes 1,000 leads in 9 seconds, highlighting message mismatch detection.</p>
+<p><strong>768</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 768</p>
+<p><strong>kamran Hassan</strong> · @Rana_kamran43</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/jjacky/status/2103281899699327107"><img src="https://pbs.twimg.com/media/HTBbvF8X0AAseF7?format=jpg&amp;name=medium" alt="Jev&#39;s First East Coast Meetup Recap · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jjacky/status/2103281899699327107">Jev&#39;s First East Coast Meetup Recap</a></h3>
-<p>At a betaworks event, jacky thanked the host and shared discussions about OpenRouter and TypeSafe Jev, marking Jev&#39;s first East Coast community gathering.</p>
-<p><strong>397</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 397</p>
-<p><strong>jacky</strong> · @jjacky</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2103425824728969410"><img src="https://pbs.twimg.com/amplify_video_thumb/2103425799303086080/img/Q4T0ypAfwLrQDfcV.jpg" alt="JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2103425824728969410">JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot</a></h3>
+<p>The post claims JEV is gaining traction in AI circles, with a Monad engineer already building a fully automated trading bot that reads MON/USDC price in real time.</p>
+<p><strong>679</strong> views · 💬 4 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 679</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/NaceAI/status/2103324876694335692"><img src="https://pbs.twimg.com/amplify_video_thumb/2103321208238600192/img/qdDKRZ8laSoWk6nL.jpg" alt="Introducing Drex: A Fast Decision Model Rivaling Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NaceAI/status/2103324876694335692">Introducing Drex: A Fast Decision Model Rivaling Jev</a></h3>
-<p>Nace AI introduces Drex, a lightning-fast decision model positioned against Jev. It claims #1 on the Decision Index (official scores pending), winning 23 out of 40 benchmarks. Architecture uses a small diffusion model with RLAF, priced at $0.04 per 1M input tokens with sub-second latency.</p>
-<p><strong>224</strong> views · 💬 3 &nbsp; 🔁 6 &nbsp; ♡ 7 &nbsp; 📊 224</p>
-<p><strong>Nace AI</strong> · @NaceAI</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2103299950247367003"><img src="https://pbs.twimg.com/media/HTBe64WaUAAkVRr?format=jpg&amp;name=medium" alt="Using Jev as a decision layer with evidence audit outside the LLM · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2103299950247367003">Using Jev as a decision layer with evidence audit outside the LLM</a></h3>
+<p>A developer shares adding a Jev decision layer outside the LLM to filter out repetitive, off-track, and low-return plans, then audit evidence each round to reduce time and token waste from agents heading in wrong directions, with a GitHub link.</p>
+<p><strong>287</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 287</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 </tr>
 </table>

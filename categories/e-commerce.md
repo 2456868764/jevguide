@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 13 | 12 | 1 | 231K |
+| 14 | 13 | 1 | 231K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ghosstty_/status/2103428855688028601"><img src="https://pbs.twimg.com/amplify_video_thumb/2103428752441028608/img/aBQEIQ7OvYvThkBt.jpg" alt="JEV + Higgsfield + Shopify: Real-World Combo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>电商</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ghosstty_/status/2103428855688028601">JEV + Higgsfield + Shopify: Real-World Combo</a></h3>
+<p>The author shares a workflow built with JEV, Higgsfield, and Shopify, calling it highly effective, and admits hesitation in posting due to possible competition.</p>
+<p><strong>中文摘要：</strong>作者分享了一套使用 JEV、Higgsfield 和 Shopify 搭建的工作流，称其效果显著，并坦言因担心竞争激烈曾多次犹豫是否公开。</p>
+<p><strong>GHOST 🌙</strong> · @ghosstty_ · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 75</p>
+<p><a href="https://x.com/ghosstty_/status/2103428855688028601">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/s5ststtt/status/2102757656851329443"><img src="https://pbs.twimg.com/media/HS5-PLpaEAAJK5Q?format=jpg&amp;name=medium" alt="Building a shopping concierge with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/s5ststtt/status/2102757656851329443">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hajimimt/status/2101940709796536365"><img src="https://pbs.twimg.com/amplify_video_thumb/2101933018323795968/img/-O_aR9ze4akpPqrA.jpg" alt="Building a Chrome Extension with Jev: Flagging Non-Double-Weekend Products on E-commerce Sites · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
 <p><a href="https://x.com/hajimimt/status/2101940709796536365">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PentaclesOrg/status/2102000160784130148"><img src="https://pbs.twimg.com/amplify_video_thumb/2101997142282010624/img/GVnNZGSG3SazSgVo.jpg" alt="JPYC Virtual Liquor Store Payment Demo Integrates Jev Recommendations · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
 <p><a href="https://x.com/PentaclesOrg/status/2102000160784130148">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Technop54777070/status/2102107087438258477"><img src="https://pbs.twimg.com/amplify_video_thumb/2102105531879944192/img/XLGd-NJlu1oqL0ru.jpg" alt="Building an Auto Shopper with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/Technop54777070/status/2102107087438258477">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/okyanusi23/status/2101991099401474268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101990891821137920/pu/img/fsB_StJAjiFA5xVt.jpg" alt="Jev Model: Decides Without Writing, Filters 10 Amazon Products in 3.71 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/okyanusi23/status/2101991099401474268">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shaihulud43/status/2102003362472583336"><img src="https://pbs.twimg.com/amplify_video_thumb/2102002342136836096/img/PX8iEiDV2n_OFzqW.jpg" alt="Jev Applied to an Etsy Shop · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/shaihulud43/status/2102003362472583336">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dbillson/status/2101657637871837578"><img src="https://pbs.twimg.com/amplify_video_thumb/2101584795985657856/img/3rj_CibWrEAx-3va.jpg" alt="Using Jev to Find Outfits by Occasion · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 12 &nbsp; 🔁 10 &nbsp; ♡ 308 &nbsp; 📊 20K</p>
 <p><a href="https://x.com/dbillson/status/2101657637871837578">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DAEBAK_100/status/2101540945946968358"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Jev Enables Real-Time Virtual Fitting in 1 Second · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 101</p>
 <p><a href="https://x.com/DAEBAK_100/status/2101540945946968358">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nailthy62/status/2101388186916454439"><img src="https://pbs.twimg.com/amplify_video_thumb/2101384523124740096/img/1Q6moTMdLcZ-mJ3r.jpg" alt="Real-time virtual try-on with Jev: ~620ms and $0.0011 per decision · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 103 &nbsp; 🔁 204 &nbsp; ♡ 2.5K &nbsp; 📊 231K</p>
 <p><a href="https://x.com/nailthy62/status/2101388186916454439">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheMoonMidas/status/2101107072784011418"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Real-time shopping assistant combining Jev with gpt-live-1 · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 150</p>
 <p><a href="https://x.com/TheMoonMidas/status/2101107072784011418">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikunj/status/2101006585481073093"><img src="https://pbs.twimg.com/amplify_video_thumb/2101005796603809792/img/19SyyiWW5wotfFfW.jpg" alt="Jev scores 3,000 kid snacks in 28 seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 18 &nbsp; 🔁 36 &nbsp; ♡ 740 &nbsp; 📊 91K</p>
 <p><a href="https://x.com/nikunj/status/2101006585481073093">在 X 查看原帖</a> · <a href="https://t.co/KSiodPdZHT">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ego_agent/status/2100970015977804008"><img src="https://pbs.twimg.com/amplify_video_thumb/2100969567715790848/img/IXAgXZrtsLGyeYRA.jpg" alt="ego lite + Jev + DeepSeek Flash enables fast e-commerce decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 30 &nbsp; 🔁 62 &nbsp; ♡ 751 &nbsp; 📊 60K</p>
 <p><a href="https://x.com/ego_agent/status/2100970015977804008">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heybackchannel/status/2100880940881121565"><img src="https://pbs.twimg.com/amplify_video_thumb/2100735518963355648/img/o0S0IxXnxWjnlNOG.jpg" alt="Combining GPT-Live-1 and Jev for a Real-Time Shopping Assistant · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,5 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 82</p>
 <p><a href="https://x.com/heybackchannel/status/2100880940881121565">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

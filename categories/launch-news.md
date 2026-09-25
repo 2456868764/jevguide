@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 197 | 102 | 98 | 1.1M |
+| 199 | 103 | 99 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenRelayInc/status/2103276098478100981"><img src="https://pbs.twimg.com/media/HTBUPyRbIAAZTnC?format=png&amp;name=medium" alt="TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OpenRelayInc/status/2103276098478100981">TypeSafe&#39;s Jev Decision Models Now Live on OpenRelay</a></h3>
+<p>OpenRelay announced support for TypeSafe&#39;s newly launched Jev decision models, with the open-source version Laya. These models return typed answers with probabilities instead of plain text. The API endpoint POST /v1/decisions costs only $0.02 per 1M input tokens with no other charges.</p>
+<p><strong>中文摘要：</strong>OpenRelay 宣布支持 TypeSafe 新发布的 Jev 决策模型（开源版本为 Laya），提供带概率的结构化答案，替代纯文本输出。API 端点 POST /v1/decisions，输入价格仅 $0.02/百万 tokens，无其他费用。</p>
+<p><strong>OpenRelayInc</strong> · @OpenRelayInc · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/OpenRelayInc/status/2103276098478100981">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/manyways_rh/status/2103096000487334272"><img src="https://pbs.twimg.com/media/HS-x-DiWAAABtQZ?format=jpg&amp;name=medium" alt="Jev on Manyways: From Generation to Decision · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 13 &nbsp; 🔁 9 &nbsp; ♡ 36 &nbsp; 📊 749</p>
 <p><a href="https://x.com/manyways_rh/status/2103096000487334272">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/orcdev/status/2103065845190849020"><img src="https://pbs.twimg.com/amplify_video_thumb/2103045427486507009/img/WmZgHFRrgK-3oVpx.jpg" alt="TanStack AI ships subagents with Jev-powered model selection · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 462</p>
 <p><a href="https://x.com/orcdev/status/2103065845190849020">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/plotarmordev/status/2102987205413388560"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Jev Competitor CLM-8B Released · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 281</p>
 <p><a href="https://x.com/plotarmordev/status/2102987205413388560">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/humzaakhalid/status/2103010874160222624"><img src="https://pbs.twimg.com/amplify_video_thumb/2103010022162915328/img/9Q2ceLmjLC0-JVqh.jpg" alt="Jev founder introduces a decision-only model · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 272</p>
 <p><a href="https://x.com/humzaakhalid/status/2103010874160222624">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sumanth_077/status/2103106349731340324"><img src="https://pbs.twimg.com/tweet_video_thumb/HS-7NU3aoAAWqCO.jpg" alt="Jev: TypeSafe AI&#39;s First System One Model for Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 211</p>
 <p><a href="https://x.com/Sumanth_077/status/2103106349731340324">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/snkrs_hack/status/2102971121700421908"><img src="https://pbs.twimg.com/media/HS9BFsdb0AARk5T?format=jpg&amp;name=large" alt="note Trend Radar (tentative) beta tester recruitment · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
 <p><a href="https://x.com/snkrs_hack/status/2102971121700421908">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/urdav3/status/2103052358054035475"><img src="https://pbs.twimg.com/media/HS-K71faoAAysZO?format=png&amp;name=small" alt="Jev is now available via the B.AI API · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 99</p>
 <p><a href="https://x.com/urdav3/status/2103052358054035475">在 X 查看原帖</a> · <a href="https://t.co/RuPihQifZy">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/redhotcyber/status/2103001916926046693"><img src="https://pbs.twimg.com/media/HS9dGXYWcAAhMuc?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: AI Moves from Talking to Deciding · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
 <p><a href="https://x.com/redhotcyber/status/2103001916926046693">在 X 查看原帖</a> · <a href="https://t.co/cyFE4uTHSC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ASIHubHQ/status/2102973444140712331"><img src="https://pbs.twimg.com/media/HS9CS0pX0AA-V8o?format=png&amp;name=medium" alt="TypeSafe AI Launches Jev: Sub-100ms System 1 Decision Engine · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
 <p><a href="https://x.com/ASIHubHQ/status/2102973444140712331">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2103040262385889362"><img src="https://pbs.twimg.com/media/HS9_2SgWkAAUhaQ?format=jpg&amp;name=medium" alt="JevBench v1.4.1 Released, Jev 1.13.0 Still on Top · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/benchmarkheaven/status/2103040262385889362">在 X 查看原帖</a> · <a href="https://t.co/8qFEDUuLno">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aigeeknews/status/2103020752585072982"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="New Model CLM Claims Up to 9x Faster Inference Than Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/aigeeknews/status/2103020752585072982">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PlayerYN03/status/2103019856346128484"><img src="https://pbs.twimg.com/media/HS9taOpbsAAt_hx?format=jpg&amp;name=medium" alt="Open-source CLM challenges closed Jev: 4-13x faster, 75MB finetunable · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
 <p><a href="https://x.com/PlayerYN03/status/2103019856346128484">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bussyjd/status/2103054339296403850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="TypeSafe AI Releases Open Weights Version of Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/bussyjd/status/2103054339296403850">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hazemomier/status/2103069221139669367"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="CLM-8B launched, claims up to 9x faster than Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/hazemomier/status/2103069221139669367">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIGuideNote/status/2102985338025095552"><img src="https://pbs.twimg.com/media/HS9OBRFWYAAE_Na?format=jpg&amp;name=medium" alt="Browser Use Releases Autonomous Operation Version with Jev Fast-Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/AIGuideNote/status/2102985338025095552">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/packapun/status/2102958929294540818"><img src="https://pbs.twimg.com/media/HS815QMWUAA5wO8?format=png&amp;name=900x900" alt="TypeSafe Introduces System One Models and Jev · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/packapun/status/2102958929294540818">在 X 查看原帖</a> · <a href="https://t.co/6b27qd1Raw">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ShonanMwLabo/status/2103087658046242953"><img src="https://pbs.twimg.com/media/HS-q_agbEAAD09m?format=jpg&amp;name=medium" alt="TypeSafe AI announces Jev: a game-changer for AI orchestration · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/ShonanMwLabo/status/2103087658046242953">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cryptofanz12/status/2102989803033604162"><img src="https://pbs.twimg.com/media/HS9SE0wa0AAfz2h?format=jpg&amp;name=medium" alt="Jev: Turning AI into a Structured Decision Layer · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/cryptofanz12/status/2102989803033604162">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/codepawl/status/2103120205543301308"><img src="https://pbs.twimg.com/media/HS_G1NxaQAA8M9p?format=png&amp;name=medium" alt="Tacet is out: ~41% cheaper than Jev, faster than Laya · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/codepawl/status/2103120205543301308">在 X 查看原帖</a> · <a href="https://t.co/ehIR8U8ZYh">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Starwatcher_vc/status/2103024787895271495"><img src="https://pbs.twimg.com/media/HS9wk3vWcAAZAVm?format=jpg&amp;name=medium" alt="Jev Coming with Probability/Decision Approach · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/Starwatcher_vc/status/2103024787895271495">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidetedaldi/status/2103071961719144839"><img src="https://pbs.twimg.com/amplify_video_thumb/2103071800372400128/img/njAqN1azm6UxwypC.jpg" alt="Team reacts to Jev&#39;s launch day · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/davidetedaldi/status/2103071961719144839">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alejmaestre/status/2103019216840564815"><img src="https://pbs.twimg.com/media/HS9sdtAXIAEGBjH?format=jpg&amp;name=medium" alt="Bonsai-Llama-Jev is now open source · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/alejmaestre/status/2103019216840564815">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiassistantstor/status/2103054853383536798"><img src="https://pbs.twimg.com/amplify_video_thumb/2103054676333608960/img/QVqUidjgPzznOPXf.jpg" alt="CLM-8B Released: Claims to Be Up to 9× Faster Than Jev for Agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/aiassistantstor/status/2103054853383536798">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thek10here/status/2103105065862959588"><img src="https://pbs.twimg.com/media/HS-654-bEAASf5s?format=png&amp;name=360x360" alt="Jev: TypeSafe&#39;s New System One Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/thek10here/status/2103105065862959588">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ABNewswire/status/2102960210612809840"><img src="https://pbs.twimg.com/media/HS83Km8aoAANr0p?format=jpg&amp;name=medium" alt="Jev Brings Fast, Structured Decision-Making to AI Workflows · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/ABNewswire/status/2102960210612809840">在 X 查看原帖</a> · <a href="https://t.co/QpU506z58L">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hazemomier/status/2103069075236663664"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="CLM-8B released: A new System One-style model compared to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/hazemomier/status/2103069075236663664">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/acenik10/status/2102986508739182890"><img src="https://pbs.twimg.com/media/HS9PFflWgAAm3Js?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev: Millisecond-Level Low-Cost Agent Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/acenik10/status/2102986508739182890">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ShinjiNamura/status/2103121782538723771"><img src="https://pbs.twimg.com/media/HS_GspQbEAE4ZSI?format=jpg&amp;name=medium" alt="Jev-Omni: Real-time multimodal reasoning for spatial computing · 原帖图片" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/ShinjiNamura/status/2103121782538723771">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vamonke/status/2103031304782835992"><img src="https://pbs.twimg.com/amplify_video_thumb/2102898356775534593/img/yqMdyQ6nXW4O9uQM.jpg" alt="Jev for images: sub-200ms general-purpose classifier · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/vamonke/status/2103031304782835992">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GameBotGlobal/status/2103122288543686657"><img src="https://pbs.twimg.com/media/HSysvYPbIAATWvG?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model for Structured Output · 原帖图片" width="100%"></a>
 <br>
@@ -367,6 +380,17 @@
 <p><strong>GameBot</strong> · @GameBotGlobal · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/GameBotGlobal/status/2103122288543686657">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/F7qgdCmSerGGZb7/status/2103151696562344392"><img src="https://pbs.twimg.com/amplify_video_thumb/2102171833479118848/img/NYfr1OdB7FjuWm7B.jpg" alt="Jev-Omni Multimodal Decision Model Expansion · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/F7qgdCmSerGGZb7/status/2103151696562344392">Jev-Omni Multimodal Decision Model Expansion</a></h3>
+<p>Jev (text input) is extended to a multimodal decision model supporting text, image, audio, and video inputs.</p>
+<p><strong>中文摘要：</strong>Jev（输入为文本）被扩展为支持文本、图像、音频和视频输入的多模态决策模型。</p>
+<p><strong>toku_prv</strong> · @F7qgdCmSerGGZb7 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/F7qgdCmSerGGZb7/status/2103151696562344392">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

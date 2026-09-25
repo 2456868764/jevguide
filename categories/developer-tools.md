@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 328 | 178 | 152 | 3.6M |
+| 332 | 179 | 155 | 3.6M |
 
 ## Showcase 卡片
 
@@ -131,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/prajhub/status/2103150993848312307"><img src="https://pbs.twimg.com/media/HS_krrYW8AA0GE6?format=jpg&amp;name=medium" alt="Jev: A Shift in How AI Systems Are Built · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/prajhub/status/2103150993848312307">Jev: A Shift in How AI Systems Are Built</a></h3>
+<p>The tweet comments on Jev as a decision and orchestration layer in AI systems, suggesting it could make AI apps faster, cheaper, and more reliable.</p>
+<p><strong>中文摘要：</strong>推文评论 Jev 作为 AI 系统中的决策与编排层，认为其可能使 AI 应用更快、更便宜、更可靠。</p>
+<p><strong>Praj Vaggu</strong> · @prajhub · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 41</p>
+<p><a href="https://x.com/prajhub/status/2103150993848312307">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/francescoinweb3/status/2103119568206008474"><img src="https://pbs.twimg.com/amplify_video_thumb/2103119479790096384/img/enzjpvxxsZtqNgtu.jpg" alt="Jev: A System One Model That Returns Decisions in ~80ms · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -141,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 40</p>
 <p><a href="https://x.com/francescoinweb3/status/2103119568206008474">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CartwrightApp/status/2103019324093161722"><img src="https://pbs.twimg.com/media/HS9skgeXsAAOQ9F?format=jpg&amp;name=medium" alt="Cortex: A Local MCP Server Cuts Computer Use from 23s to 0.8s · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +164,17 @@
 <p><strong>Cartwright</strong> · @CartwrightApp · 2026-09-24</p>
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 37</p>
 <p><a href="https://x.com/CartwrightApp/status/2103019324093161722">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/n0tduck1e/status/2103151347675893828"><img src="https://pbs.twimg.com/amplify_video_thumb/2103150740344868864/img/6Vr3GRnRIHggCh9q.jpg" alt="Using Jev to generate labels in reverse engineering · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/n0tduck1e/status/2103151347675893828">Using Jev to generate labels in reverse engineering</a></h3>
+<p>Developer duckie experiments with Jev on reverser space, asking Jev to generate labels for a stripped binary and comparing them with real function names. Duckie praises the speed and finds using multiple models for different tasks makes the reverse engineering process much easier.</p>
+<p><strong>中文摘要：</strong>开发者 duckie 在 reverser space 中尝试使用 Jev 为 stripped binary 生成标签，并与真实函数名对比，称赞其速度和多模型协作让逆向流程更顺畅。</p>
+<p><strong>duckie</strong> · @n0tduck1e · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 27</p>
+<p><a href="https://x.com/n0tduck1e/status/2103151347675893828">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -275,6 +299,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/automater_ai/status/2103154032730640629"><img src="https://pbs.twimg.com/media/HS_naX3XoAAAbc7?format=jpg&amp;name=medium" alt="Claude Code Jev: Use PreToolUse Hook, Not MCP · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/automater_ai/status/2103154032730640629">Claude Code Jev: Use PreToolUse Hook, Not MCP</a></h3>
+<p>Automater advises that using Jev as MCP tools in Claude Code can be skipped by the agent, so it is not a gate. Instead, put it in a PreToolUse hook that fails closed, with deny rules behind it.</p>
+<p><strong>中文摘要：</strong>Automater 指出，在 Claude Code 中将 Jev 作为 MCP 工具时，代理可以跳过，因此不是真正的门。应将其放入失败关闭的 PreToolUse Hook 中，并在其后设置拒绝规则。</p>
+<p><strong>Automater</strong> · @automater_ai · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/automater_ai/status/2103154032730640629">在 X 查看原帖</a> · <a href="https://t.co/PIyTnc1c2b">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2103067158427345240"><img src="https://pbs.twimg.com/media/HS-YaJXW4AAQ8h9?format=jpg&amp;name=medium" alt="Jev 1.13.0 Benchmark: Close to Winnow-12B · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -284,6 +319,19 @@
 <p><strong>Benchmark Heaven</strong> · @benchmarkheaven · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/benchmarkheaven/status/2103067158427345240">在 X 查看原帖</a> · <a href="https://t.co/z0d2ffoTCG">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/automater_ai/status/2103151853751996602"><img src="https://pbs.twimg.com/media/HS_lb8tXYAAH-al?format=png&amp;name=medium" alt="Jev Model Routing as Code: Measure by Cost per Merged PR · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/automater_ai/status/2103151853751996602">Jev Model Routing as Code: Measure by Cost per Merged PR</a></h3>
+<p>Automater shares how to implement Jev model routing as code: define tier criteria, set clear exit conditions, and use frontier models as a floor for uncertain work. Validate with cost per merged PR, not vibes.</p>
+<p><strong>中文摘要：</strong>Automater 介绍将 Jev 模型路由写成代码的实践：定义分级标准、明确退出条件，并用前沿模型作为不确定工作的兜底。强调用每次合并 PR 的成本来验证效果，而不是凭感觉。</p>
+<p><strong>Automater</strong> · @automater_ai · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/automater_ai/status/2103151853751996602">在 X 查看原帖</a> · <a href="https://t.co/OSJRM9vsHq">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Likitd_/status/2102983213455175740"><img src="https://pbs.twimg.com/media/HS9L6qTaQAAMOJQ?format=jpg&amp;name=medium" alt="jev-ranker: Jev-Powered Reranking for RAG · 原帖图片" width="100%"></a>

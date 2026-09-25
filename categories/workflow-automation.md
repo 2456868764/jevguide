@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 119 | 78 | 41 | 595K |
+| 123 | 80 | 43 | 595K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-24</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 18 &nbsp; 📊 17K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2103080756784558273">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/notf/status/2103132285579276798"><img src="https://pbs.twimg.com/media/HS_TaFZbMAAl7GW?format=jpg&amp;name=medium" alt="The right way to use Jev!? DreamCore assets × LLM motion search · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/notf/status/2103132285579276798">The right way to use Jev!? DreamCore assets × LLM motion search</a></h3>
+<p>Register a large number of motions in DreamCore, enter &#39;I want to make soccer&#39;, the LLM writes out the required motions, and Jev searches for usable ones from the vast motion library. A workflow example combining LLM and Jev.</p>
+<p><strong>中文摘要：</strong>在DreamCore中注册大量动作，输入“想做足球”，LLM列出所需动作，Jev从大动作库中找出可用动作。这是LLM与Jev结合的工作流示例。</p>
+<p><strong>ノトフ（川本龍）／DreamCore</strong> · @notf · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 215</p>
+<p><a href="https://x.com/notf/status/2103132285579276798">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xRicker/status/2103154495265845528"><img src="https://pbs.twimg.com/amplify_video_thumb/2103153935145918465/img/bcHLBKu4BA7IwIPU.jpg" alt="Jev Engineering: Turning Static Agent Workflows into Self-Rewriting Graphs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xRicker/status/2103154495265845528">Jev Engineering: Turning Static Agent Workflows into Self-Rewriting Graphs</a></h3>
+<p>The post highlights a video of Jev Engineering showing how it turns a static agent workflow into a graph that can rewrite itself while running, with a large-scale example of hundreds of routes, thousands of crossings, different agents, tools, and confidence levels.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev Engineering 的视频，展示其如何将静态代理工作流转化为可自改写的图。视频以大规模场景为例：数百条路由、数千种交叉、不同代理、不同工具和置信度级别。</p>
+<p><strong>Ricker</strong> · @0xRicker · 2026-09-24</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 157</p>
+<p><a href="https://x.com/0xRicker/status/2103154495265845528">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ericosiu/status/2103122289822711995"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794999306096641/img/-crb_Cdp42CEk-P5.jpg" alt="Jev Workflows: Every Queue Needs a Clear Next Step · 原帖视频截图" width="100%"></a>
@@ -46,6 +70,19 @@
 <p><a href="https://x.com/jinbaflow_JP/status/2103101296329003348">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Dain0x/status/2103153307023749363"><img src="https://pbs.twimg.com/amplify_video_thumb/2103153025707634690/img/H8GXJ_iKmaI5ZDUp.jpg" alt="A JEV × Opus 5.5 Workflow to Test: Separating Signal from Noise · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Dain0x/status/2103153307023749363">A JEV × Opus 5.5 Workflow to Test: Separating Signal from Noise</a></h3>
+<p>A data pipeline identifies candidate signals, JEV selects which to investigate, and Opus explores explanations. A beautiful pattern can still be noise—structured investigation helps tell them apart.</p>
+<p><strong>中文摘要：</strong>数据管道识别候选信号，JEV 按标准筛选，Opus 探索解释。美丽的模式也可能是噪声，通过结构化调查来区分。</p>
+<p><strong>Dain</strong> · @Dain0x · 2026-09-24</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 46</p>
+<p><a href="https://x.com/Dain0x/status/2103153307023749363">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/SyunBorderless/status/2102982534133055603"><img src="https://pbs.twimg.com/media/HS9LWIjbMAAdigj?format=jpg&amp;name=medium" alt="Hands-on with JEV: Clear Answers and Probabilities Could Reshape Automation Backends · 原帖图片" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖图片</code></sub>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/SyunBorderless/status/2102982534133055603">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Skrilla_git/status/2103022267575734431"><img src="https://pbs.twimg.com/amplify_video_thumb/2103022224177250304/img/uwdTtjam2JqkhoIs.jpg" alt="JEV: New AI Model Built for Fast Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
 <p><a href="https://x.com/Skrilla_git/status/2103022267575734431">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jasonzhou1993/status/2103012229268529523"><img src="https://pbs.twimg.com/amplify_video_thumb/2101987836719398912/img/mu7p8-nvTFQZ5hyg.jpg" alt="On Jev-based automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/jasonzhou1993/status/2103012229268529523">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Niko2cats/status/2103104676229165079"><img src="https://pbs.twimg.com/media/HS-6gdAasAA43Ge?format=jpg&amp;name=medium" alt="Jev Skill Enables Automated Expense Reimbursement Workflow · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Niko2cats/status/2103104676229165079">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/project_oka/status/2103025493457215990"><img src="https://pbs.twimg.com/media/HS9yftnbYAAJXzW?format=jpg&amp;name=medium" alt="Diagram of JEV and AI API Collaboration · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/project_oka/status/2103025493457215990">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MilkMendy/status/2102983218022527315"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102983041857597440/pu/img/zxRLD993lAL7_DyX.jpg" alt="Jev: A Faster, Cheaper Alternative for Business Models · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/MilkMendy/status/2102983218022527315">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SignalLedgerX/status/2103054337031209229"><img src="https://pbs.twimg.com/media/HS9dM5RXsAA7zfH?format=jpg&amp;name=medium" alt="Jev Gives OK, Qwen Deep-Dives into Companies · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/SignalLedgerX/status/2103054337031209229">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xChonsy/status/2103120671228227788"><img src="https://pbs.twimg.com/amplify_video_thumb/2102881459438510080/img/_sL9PTcR7ycmllGy.jpg" alt="Jev CEO on automation: models need to do tasks correctly, not just give preferred answers · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 14</p>
 <p><a href="https://x.com/0xChonsy/status/2103120671228227788">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Webenable_nl/status/2103046847191253423"><img src="https://pbs.twimg.com/media/HS-F9j_XQAAPduz?format=jpg&amp;name=medium" alt="Classify emails with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Webenable_nl/status/2103046847191253423">在 X 查看原帖</a> · <a href="https://t.co/xT01nqOTC6">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NeilBDE/status/2103080993750168038"><img src="https://pbs.twimg.com/media/HS-k_5KacAAfaQM?format=jpg&amp;name=medium" alt="Jev: Typed decisions for automation · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +199,19 @@
 <p><strong>Nripendra (Neil) Pathak</strong> · @NeilBDE · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/NeilBDE/status/2103080993750168038">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/automater_ai/status/2103153482551407018"><img src="https://pbs.twimg.com/media/HS_m6ZFWYAA1Hsp?format=jpg&amp;name=medium" alt="TypeSafe Jev: A Decision Seat, Not a Reply Seat · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/automater_ai/status/2103153482551407018">TypeSafe Jev: A Decision Seat, Not a Reply Seat</a></h3>
+<p>Automater explains that TypeSafe Jev belongs in a decision role, using four tests to sort fleet decisions while keeping judges and compactors off it.</p>
+<p><strong>中文摘要：</strong>Automater 介绍 TypeSafe Jev 应承担决策角色，并用四项测试来筛选车队决策，将评判者与压缩器排除在外。</p>
+<p><strong>Automater</strong> · @automater_ai · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/automater_ai/status/2103153482551407018">在 X 查看原帖</a> · <a href="https://t.co/igVA8IpChW">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/nick__price__/status/2103105658685960213"><img src="https://pbs.twimg.com/amplify_video_thumb/2103105461608140800/img/wRuNKKZwcDOkdciP.jpg" alt="Free Jev-powered browser use · 原帖视频截图" width="100%"></a>

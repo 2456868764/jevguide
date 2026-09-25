@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 348 | 156 | 193 | 1.6M |
+| 352 | 159 | 194 | 1.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/typesafeai/status/2102965218720756045">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2103120680485282009"><img src="https://pbs.twimg.com/media/HS_JHNRbUAAwuHy?format=jpg&amp;name=medium" alt="Jev vs. LLM as Judge, clearly explained · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2103120680485282009">Jev vs. LLM as Judge, clearly explained</a></h3>
+<p>Using a support refund example, compares Jev and LLM as evaluators to judge whether AI answers are grounded, honest, and useful.</p>
+<p><strong>中文摘要：</strong>通过客服退款示例，比较Jev和LLM作为评估者的区别，判断AI回答是否基于事实、诚实且有用。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-09-24</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 13 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2103120680485282009">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2103054360406368487"><img src="https://pbs.twimg.com/amplify_video_thumb/2103054343494885376/img/LN5uoMVFJgSrqJ4Z.jpg" alt="Jev isolates faulty nodes, avoiding full agent restarts · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 2 &nbsp; 🔁 8 &nbsp; ♡ 31 &nbsp; 📊 1.8K</p>
 <p><a href="https://x.com/cyrilXBT/status/2103054360406368487">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DataChaz/status/2103041903365394906"><img src="https://pbs.twimg.com/media/HS-Bd0eaUAA2RUx?format=jpg&amp;name=medium" alt="What Jev Is and How It Processes a Single Call · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 942</p>
 <p><a href="https://x.com/DataChaz/status/2103041903365394906">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/leopardracer/status/2103077714815070427"><img src="https://pbs.twimg.com/amplify_video_thumb/2103072664633933824/img/sPKQbO0TCp3JWAhU.jpg" alt="How Jev Safely Picks an Action · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 522</p>
 <p><a href="https://x.com/leopardracer/status/2103077714815070427">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KacperTrzepiec1/status/2103081286155870393"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081118018707456/img/NW-ObCSVnQ169SZR.jpg" alt="Jev AI Explained: Ultra-Fast, Ultra-Cheap Decision-Making AI · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 347</p>
 <p><a href="https://x.com/KacperTrzepiec1/status/2103081286155870393">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/senthazalravi/status/2103051990372683925"><img src="https://pbs.twimg.com/media/HS-KowAXoAA9noq?format=jpg&amp;name=medium" alt="Jev by TypeSafe AI: The &#39;System 1&#39; Revolution in AI · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,30 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 301</p>
 <p><a href="https://x.com/senthazalravi/status/2103051990372683925">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/PrajwalTomar_/status/2103122309053899053"><img src="https://pbs.twimg.com/amplify_video_thumb/2103122290892566528/img/9Tw_RbMP9OnkRCxI.jpg" alt="Jev: The Opposite of ChatGPT · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PrajwalTomar_/status/2103122309053899053">Jev: The Opposite of ChatGPT</a></h3>
+<p>A model built by the ChatGPT co-inventor over two years, that can&#39;t write a word, can&#39;t explain itself, can&#39;t hallucinate, and answers in 100 milliseconds.</p>
+<p><strong>中文摘要：</strong>ChatGPT联合创始人耗时两年打造的模型，不能写一个字、不能解释自己、不会产生幻觉，回答仅需100毫秒。</p>
+<p><strong>Prajwal Tomar</strong> · @PrajwalTomar_ · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 202</p>
+<p><a href="https://x.com/PrajwalTomar_/status/2103122309053899053">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheKathAI/status/2103117338362937527"><img src="https://pbs.twimg.com/amplify_video_thumb/2103117316808388608/img/Y8U-JQXxgHAmITrS.jpg" alt="Jev Engineering: Turning Agent Chains into Self-Routing Decision Graphs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheKathAI/status/2103117338362937527">Jev Engineering: Turning Agent Chains into Self-Routing Decision Graphs</a></h3>
+<p>According to the post, Jev Engineering turns a single agent chain into a decision graph that reroutes itself, removing the expensive model from every decision loop. Tests show up to 193x faster and 444x cheaper.</p>
+<p><strong>中文摘要：</strong>据帖子介绍，Jev Engineering 将单一代理链转化为可自我重路由的决策图，并将昂贵模型从每个决策循环中移除。测试显示最高可提速193倍、成本降低444倍。</p>
+<p><strong>Kathia</strong> · @TheKathAI · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 84</p>
+<p><a href="https://x.com/TheKathAI/status/2103117338362937527">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/adam_x_mentis/status/2102966691072180373"><img src="https://pbs.twimg.com/media/HS89DwnXsAABZuN?format=jpg&amp;name=medium" alt="Agentic Pipeline Architecture with Jev at the Core · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +127,19 @@
 <p><strong>Mentis 🇦🇺</strong> · @adam_x_mentis · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 80</p>
 <p><a href="https://x.com/adam_x_mentis/status/2102966691072180373">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/de1lymoon/status/2103121576551944349"><img src="https://pbs.twimg.com/amplify_video_thumb/2103121334817488896/img/K-AJazLegzIrWJ0r.jpg" alt="JEV Speeds Up Agent Loops · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/de1lymoon/status/2103121576551944349">JEV Speeds Up Agent Loops</a></h3>
+<p>Most AI agents are slow because they keep sending tiny routing decisions to a large model. JEV moves repeated decisions into a faster layer and keeps the heavy model for parts that need reasoning. Roadmap: Faster Agent Loop = Structured State + JEV.</p>
+<p><strong>中文摘要：</strong>大多数AI代理因反复向大模型发送路由决策而缓慢。JEV将这些重复决策移至更快的层，保留重型模型处理真正需要推理的部分。路线图：更快的代理循环 = 结构化状态 + JEV。</p>
+<p><strong>Alex</strong> · @de1lymoon · 2026-09-24</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 69</p>
+<p><a href="https://x.com/de1lymoon/status/2103121576551944349">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/COCOA83421111/status/2103048440863436871"><img src="https://pbs.twimg.com/media/HS-HaICaoAA-HNo?format=jpg&amp;name=medium" alt="Summary of New AI &#39;Jev&#39; That Only Makes Judgments · 原帖图片" width="100%"></a>

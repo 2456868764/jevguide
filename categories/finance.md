@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 136 | 74 | 63 | 1.2M |
+| 140 | 76 | 65 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/proliquid_xyz/status/2103096287671251339"><img src="https://pbs.twimg.com/media/HS-y68XXQAA--gp?format=png&amp;name=small" alt="Jev AI delivers news sentiment to catch crypto moves · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/proliquid_xyz/status/2103096287671251339">Jev AI delivers news sentiment to catch crypto moves</a></h3>
+<p>Proliquid integrates TypeSafe AI&#39;s Jev model to analyze news sentiment in real time, letting users long bullish news with one click on the terminal and not miss moves like ONDO.</p>
+<p><strong>中文摘要：</strong>Proliquid 平台集成 TypeSafe AI 的 Jev 模型，实时分析新闻情绪，用户可在终端一键做多利好新闻，避免错过类似 ONDO 的行情机会。</p>
+<p><strong>Proliquid</strong> · @proliquid_xyz · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 960</p>
+<p><a href="https://x.com/proliquid_xyz/status/2103096287671251339">在 X 查看原帖</a> · <a href="https://t.co/BXSxaDGMCD">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Av1dlive/status/2103101321209597981"><img src="https://pbs.twimg.com/amplify_video_thumb/2103099868491522048/img/gKfv4-DVrDfBnwNM.jpg" alt="Building an AI Trading System with Jev and GPT-6 Astra · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 8 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 500</p>
 <p><a href="https://x.com/Av1dlive/status/2103101321209597981">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FXWOLF2/status/2102982189457768485"><img src="https://pbs.twimg.com/media/HS9J799bkAAP3gN?format=jpg&amp;name=medium" alt="Jev Backtest: Fewer Inputs Improve Performance · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>WOLF</strong> · @FXWOLF2 · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 408</p>
 <p><a href="https://x.com/FXWOLF2/status/2102982189457768485">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aigc3YeHe/status/2103119884678987876"><img src="https://pbs.twimg.com/media/HS_HhNiaIAABfgd?format=jpg&amp;name=medium" alt="Jev Judgements Prove Accurate in Noesis · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aigc3YeHe/status/2103119884678987876">Jev Judgements Prove Accurate in Noesis</a></h3>
+<p>The post mentions that Jev judgements in Noesis are surprisingly accurate, picking signals from Discover, with two highly rated theses whose tokens are up since detection and scoring.</p>
+<p><strong>中文摘要：</strong>帖子提到 Jev 模型在 Noesis 中的判断令人惊讶地准确，从 Discover 中挑选信号，两个高评分论点对应的代币在检测和评分后上涨。</p>
+<p><strong>YeHe (🦾,🧠)</strong> · @aigc3YeHe · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 167</p>
+<p><a href="https://x.com/aigc3YeHe/status/2103119884678987876">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -46,6 +70,19 @@
 <p><a href="https://x.com/Abdullah_Ops1/status/2103103286756729125">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/0chob/status/2103099517830590654"><img src="https://pbs.twimg.com/amplify_video_thumb/2103094760944615424/img/ZT4adLuYTPXwtBIU.jpg" alt="Opus 5.5 Lost $10K, But Jev Made +6.2% on Same Trades · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0chob/status/2103099517830590654">Opus 5.5 Lost $10K, But Jev Made +6.2% on Same Trades</a></h3>
+<p>A trader compared Opus 5.5 alone vs. with Jev: Opus 5.5 blew a $10,000 account in 17 hours, while Opus + Jev made +6.2% on the same trades. Opus then revealed its reasoning: raising leverage to 15x to recover drawdown.</p>
+<p><strong>中文摘要：</strong>交易者对比了单独使用 Opus 5.5 与结合 Jev 的效果：Opus 5.5 在 17 小时内爆掉 1 万美元账户，而 Opus + Jev 在同一批交易中盈利 6.2%。Opus 随后解释了亏损原因——为挽回回撤将杠杆提高至 15 倍。</p>
+<p><strong>Ochob</strong> · @0chob · 2026-09-24</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 64</p>
+<p><a href="https://x.com/0chob/status/2103099517830590654">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/JKEIEI/status/2102979045554299159"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102978974704160768/pu/img/nR_GNp6weQBPoCCx.jpg" alt="AI &#39;Jev&#39; That Only Returns Judgments Gains Attention Among Accountants · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
 <p><a href="https://x.com/JKEIEI/status/2102979045554299159">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SinghalPratul/status/2103068931112210708"><img src="https://pbs.twimg.com/amplify_video_thumb/2101320107947401216/img/4Uj1jx6q_1O7MusA.jpg" alt="Jev Bot Loses $31,680 Trading MON/USDC · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 8 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/SinghalPratul/status/2103068931112210708">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xmyttle/status/2103009788703519048"><img src="https://pbs.twimg.com/amplify_video_thumb/2102149171763425280/img/JF0pPDowDKLV4pR7.jpg" alt="Multi-Agent DOGE Trade Simulation: JEV Router Rejects Due to Stale Feed · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/xmyttle/status/2103009788703519048">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vwapster/status/2102983567345119332"><img src="https://pbs.twimg.com/media/HS9MKlnWcAA0dnv?format=jpg&amp;name=medium" alt="Kalshi BTC 15-Minute Trading Bot Built with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/vwapster/status/2102983567345119332">在 X 查看原帖</a> · <a href="https://t.co/s87iQYua6Q">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Cygnus_DEX/status/2103011076052840862"><img src="https://pbs.twimg.com/media/HS9ksICWgAAvDCZ?format=jpg&amp;name=medium" alt="Jev-powered AutoScalper Passes Testnet with 82% Win Rate · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 23</p>
 <p><a href="https://x.com/Cygnus_DEX/status/2103011076052840862">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yudeewxy/status/2103041468772253844"><img src="https://pbs.twimg.com/media/HS-A1BQbkAA3D3s?format=jpg&amp;name=medium" alt="JEV-powered crypto trading signal tool · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/yudeewxy/status/2103041468772253844">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vwapster/status/2103103897334399487"><img src="https://pbs.twimg.com/media/HS-52MIXwAA_wUk?format=jpg&amp;name=medium" alt="Kalshi BTC 15-minute trading bot built with OPUS 5.5 + Jev · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +164,17 @@
 <p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/vwapster/status/2103103897334399487">在 X 查看原帖</a> · <a href="https://t.co/s87iQYuHWo">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GabiDev98/status/2103139199155064921"><img src="https://pbs.twimg.com/amplify_video_thumb/2103137704846168064/img/TWjxR6iO7HtyaVlc.jpg" alt="Jev scores Morpho vault risk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GabiDev98/status/2103139199155064921">Jev scores Morpho vault risk</a></h3>
+<p>Developer GabiDev shows a DeFi use case: pulling risk signals from 50 Morpho vaults on Base and asking Jev to score each one.</p>
+<p><strong>中文摘要：</strong>开发者 GabiDev 展示了 Jev 在 DeFi 中的用例：从 Base 上的 50 个 Morpho Vault 提取风险信号，并让 Jev 对每个 Vault 进行风险评分。</p>
+<p><strong>gabidev</strong> · @GabiDev98 · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/GabiDev98/status/2103139199155064921">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

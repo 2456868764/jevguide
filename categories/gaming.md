@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 270 | 207 | 67 | 588K |
+| 272 | 209 | 67 | 588K |
 
 ## Showcase 卡片
 
@@ -70,6 +70,19 @@
 <p><a href="https://x.com/Gbahdeyboh/status/2103101439597805806">在 X 查看原帖</a> · <a href="https://t.co/RfZwFu6qoX">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/geseiyouakaunto/status/2103099782902550640"><img src="https://pbs.twimg.com/amplify_video_thumb/2103098933769854976/img/Ze4yxb90EhSCwDTb.jpg" alt="Real-time NPC reaction classification using Jev in games · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/geseiyouakaunto/status/2103099782902550640">Real-time NPC reaction classification using Jev in games</a></h3>
+<p>A developer connected WOLF RPG Editor (ウディタ) with Ollama, using the Jev format (probability judgment without text generation) to instantly classify player free input as liking, confusion, or anger, and automatically branch NPC reactions without breaking the game tempo.</p>
+<p><strong>中文摘要：</strong>开发者将 WOLF RPG Editor（ウディタ）与 Ollama 连接，用 Jev 形式（无文本生成的概率判定）瞬间将玩家自由输入分类为好感、困惑、愤怒，并自动分支 NPC 反应，避免生成延迟破坏游戏节奏。</p>
+<p><strong>ゲ製用アカウント@個人開発</strong> · @geseiyouakaunto · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 34</p>
+<p><a href="https://x.com/geseiyouakaunto/status/2103099782902550640">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kirin3335228/status/2103004035297227056"><img src="https://pbs.twimg.com/media/HS9fBftaoAA6qlX?format=jpg&amp;name=medium" alt="Building a TRPG Voxel Map Generator with jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/kirin3335228/status/2103004035297227056">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052989980446909"><img src="https://pbs.twimg.com/amplify_video_thumb/2102174571457581056/img/xy4IKEDEWsagY3x-.jpg" alt="Jev Tested in Clash Royale Live Gameplay · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/icerdesign/status/2103052989980446909">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Pitofuii/status/2102967721042547007"><img src="https://pbs.twimg.com/amplify_video_thumb/2102967057650429952/img/B_OkN7E5QzkS4JBE.jpg" alt="Using Jev for Real-Time Agent Battles in Games · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Pitofui</strong> · @Pitofuii · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/Pitofuii/status/2102967721042547007">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/itsrohanm/status/2103118501280141682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103117806749593600/img/-SWYn_Sw_b_mRGPl.jpg" alt="Build a word-guessing game with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/itsrohanm/status/2103118501280141682">Build a word-guessing game with Jev</a></h3>
+<p>A developer built a charades-like game using Jev, where players describe words and Jev guesses them, showcasing Jev&#39;s speed.</p>
+<p><strong>中文摘要：</strong>开发者用 Jev 构建了一个类似猜词和禁忌的游戏，玩家描述单词而 Jev 负责猜，展示了 Jev 的快速响应能力。</p>
+<p><strong>Rohan Mahtani</strong> · @itsrohanm · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/itsrohanm/status/2103118501280141682">在 X 查看原帖</a> · <a href="https://t.co/bfBHbe5d8a">原文链接</a></p>
 </td>
 </tr>
 <tr>

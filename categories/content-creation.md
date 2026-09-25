@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 68 | 57 | 14 | 101K |
+| 70 | 58 | 15 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2103095855905468848"><img src="https://pbs.twimg.com/amplify_video_thumb/2102852886325493760/img/eg0JGD7_d3rYN2Kn.jpg" alt="JEV and OPUS 5.5 Build a Viral Post Predictor in 9 Minutes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2103095855905468848">JEV and OPUS 5.5 Build a Viral Post Predictor in 9 Minutes</a></h3>
+<p>A community member demonstrates building a viral post predictor with JEV and OPUS 5.5 in 9 minutes.</p>
+<p><strong>中文摘要：</strong>社区成员展示使用JEV和OPUS 5.5在9分钟内构建病毒式帖子预测器的示例。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-24</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 28K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2103095855905468848">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xzynex/status/2103117709797974404"><img src="https://pbs.twimg.com/media/HS_GKfSXcAAZbes?format=jpg&amp;name=large" alt="JEV-Powered Parametric Particle Animation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xzynex/status/2103117709797974404">JEV-Powered Parametric Particle Animation</a></h3>
+<p>This post showcases pure parametric code built with Opus 5.5 + JEV, generating a visual with 12,000 particles, 6 orbital layers, and 1,080 frames without physics or fluid simulation.</p>
+<p><strong>中文摘要：</strong>帖子展示用Opus 5.5 + JEV编写的纯参数化代码，生成包含12,000个粒子、6个轨道层、1,080帧的视觉效果，强调无需物理引擎或流体模拟。</p>
+<p><strong>Zynex</strong> · @0xzynex · 2026-09-24</p>
+<p>💬 8 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 608</p>
+<p><a href="https://x.com/0xzynex/status/2103117709797974404">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/monospodcast/status/2103019099542704432"><img src="https://pbs.twimg.com/amplify_video_thumb/2103009842411487232/img/tAMeuM4txe5rMy8l.jpg" alt="Today&#39;s Podcast: AI Agents and Jev Classification Model · 原帖视频截图" width="100%"></a>

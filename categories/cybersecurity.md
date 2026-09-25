@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 25 | 10 | 15 | 82K |
+| 27 | 10 | 17 | 82K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Automater</strong> · @automater_ai · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/automater_ai/status/2103307261451878656">在 X 查看原帖</a> · <a href="https://t.co/NfFdTgI5wt">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/josefandre_/status/2103370533232583054"><img src="https://pbs.twimg.com/media/HTCrupjbsAIoQ3h?format=png&amp;name=medium" alt="Jev Prompt Injection Lab · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/josefandre_/status/2103370533232583054">Jev Prompt Injection Lab</a></h3>
+<p>Jev judges whether an input message or instruction looks like a prompt injection, and flags, blocks, or allows it based on your threshold. Jev assesses the risk; your software decides what to do.</p>
+<p><strong>中文摘要：</strong>Jev会判断输入消息或指令是否像提示注入，并根据预设阈值决定标记、阻止或允许。Jev评估风险，你的软件决定行动。</p>
+<p><strong>Josef Andre</strong> · @josefandre_ · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><a href="https://x.com/josefandre_/status/2103370533232583054">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kevinbolger/status/2103377547589521830"><img src="https://pbs.twimg.com/media/HTCyrIwbkAA0f-6?format=jpg&amp;name=medium" alt="Hackers have unrestricted access to Jev API key · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kevinbolger/status/2103377547589521830">Hackers have unrestricted access to Jev API key</a></h3>
+<p>This post highlights that hackers could have unrestricted access to TypeSafe AI&#39;s Jev API key, implying potential security risks and urging attention to key protection.</p>
+<p><strong>中文摘要：</strong>此帖子指出黑客能够无限制访问 TypeSafe AI 的 Jev API 密钥，暗示潜在的安全风险，提醒用户关注密钥保护。</p>
+<p><strong>Kevin Bolger</strong> · @kevinbolger · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/kevinbolger/status/2103377547589521830">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/jarekceborski/status/2103071312323158512"><img src="https://pbs.twimg.com/amplify_video_thumb/2103070346039439360/img/BKC0OZrUc3GgQ_SV.jpg" alt="Rebuilding CAPTCHA with Jev · 原帖视频截图" width="100%"></a>

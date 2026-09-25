@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 273 | 210 | 67 | 588K |
+| 275 | 211 | 68 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/intro_app__/status/2103364645818179894"><img src="https://pbs.twimg.com/media/HTCm_iUbgAA0O2j?format=jpg&amp;name=medium" alt="Jev AI powers correct-answer checks in Intro Quiz app · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/intro_app__/status/2103364645818179894">Jev AI powers correct-answer checks in Intro Quiz app</a></h3>
+<p>The music intro quiz app has released a new feature using the latest AI &#39;Jev&#39; to judge correct and incorrect answers. It can now accept katakana-transliterated English song titles that were previously not recognized, improving accuracy from 29% with rule-based checks to 100%.</p>
+<p><strong>中文摘要：</strong>音乐前奏猜谜应用发布新功能，使用最新AI“Jev”判定答案正误。此前无法正确识别的英文歌曲片假名写法现在也能判定为正确，准确率由基于规则的29%提升至100%。</p>
+<p><strong>intro - イントロクイズ</strong> · @intro_app__ · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 113</p>
+<p><a href="https://x.com/intro_app__/status/2103364645818179894">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oguressive/status/2103364981697966381"><img src="https://pbs.twimg.com/amplify_video_thumb/2103360155547308032/img/Z7eZNnsXZCJOhuXi.jpg" alt="Made an Othello game with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oguressive/status/2103364981697966381">Made an Othello game with Jev</a></h3>
+<p>A developer built an Othello (Reversi) game using Jev. Jev was responsible for AI move selection, part of the evaluation logic for the player&#39;s turn, and post-game review of the closest-to-winning move. The author notes it still makes occasional mistakes but has become reasonably strong.</p>
+<p><strong>中文摘要：</strong>开发者使用Jev构建奥赛罗（黑白棋）游戏，交由Jev完成AI落子选择、己方回合评价值计算以及赛后复盘最遗憾的一手。作者称虽然偶尔会出错，但棋力已有一定水平。</p>
+<p><strong>Oguressive | エンジニア</strong> · @oguressive · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 16</p>
+<p><a href="https://x.com/oguressive/status/2103364981697966381">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/browser_use/status/2102980499614658580"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Luna plans, Jev acts: AI agent wins at poker · 原帖视频截图" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3147</strong><br>curated posts</td>
-<td align="center"><strong>1665</strong><br>original videos</td>
+<td align="center"><strong>3179</strong><br>curated posts</td>
+<td align="center"><strong>1680</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>369</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>377</strong> showcases · <strong>153</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>364</strong> showcases · <strong>164</strong> videos</p>
+<p><strong>367</strong> showcases · <strong>165</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>339</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>340</strong> showcases · <strong>184</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>311</strong> showcases · <strong>121</strong> videos</p>
+<p><strong>312</strong> showcases · <strong>122</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>273</strong> showcases · <strong>210</strong> videos</p>
+<p><strong>275</strong> showcases · <strong>211</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>229</strong> showcases · <strong>124</strong> videos</p>
+<p><strong>230</strong> showcases · <strong>125</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>205</strong> showcases · <strong>104</strong> videos</p>
+<p><strong>208</strong> showcases · <strong>107</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>196</strong> showcases · <strong>74</strong> videos</p>
+<p><strong>199</strong> showcases · <strong>75</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>146</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>148</strong> showcases · <strong>78</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>126</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>128</strong> showcases · <strong>84</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>99</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>75</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>76</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>73</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>74</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -126,16 +126,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/robotics.md">Robotics</a></h3>
+<p><sub>机器人</sub></p>
+<p><strong>35</strong> showcases · <strong>28</strong> videos</p>
+<p><a href="categories/robotics.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
 <p><strong>34</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/robotics.md">Robotics</a></h3>
-<p><sub>机器人</sub></p>
-<p><strong>34</strong> showcases · <strong>28</strong> videos</p>
-<p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>25</strong> showcases · <strong>10</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>10</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>jacky</strong> · @jjacky</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/MinLiBuilds/status/2103276171484131716"><img src="https://pbs.twimg.com/amplify_video_thumb/2103276099786637312/img/tPhFTWZ8m89lb_LA.jpg" alt="Jev route starting to cluster · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MinLiBuilds/status/2103276171484131716">Jev route starting to cluster</a></h3>
-<p>Day 5 update: everything needed has been released; Deepseek, GLM, M3 chances are slim. Notable is the System One / Jev route starting to cluster, e.g. CLM-8B + Alibaba decision model.</p>
-<p><strong>208</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 208</p>
-<p><strong>实践哥 Li</strong> · @MinLiBuilds</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/NaceAI/status/2103324876694335692"><img src="https://pbs.twimg.com/amplify_video_thumb/2103321208238600192/img/qdDKRZ8laSoWk6nL.jpg" alt="Introducing Drex: A Fast Decision Model Rivaling Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NaceAI/status/2103324876694335692">Introducing Drex: A Fast Decision Model Rivaling Jev</a></h3>
+<p>Nace AI introduces Drex, a lightning-fast decision model positioned against Jev. It claims #1 on the Decision Index (official scores pending), winning 23 out of 40 benchmarks. Architecture uses a small diffusion model with RLAF, priced at $0.04 per 1M input tokens with sub-second latency.</p>
+<p><strong>224</strong> views · 💬 3 &nbsp; 🔁 6 &nbsp; ♡ 7 &nbsp; 📊 224</p>
+<p><strong>Nace AI</strong> · @NaceAI</p>
 </td>
 </tr>
 </table>

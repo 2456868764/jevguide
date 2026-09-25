@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 126 | 82 | 44 | 595K |
+| 128 | 84 | 44 | 595K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Hermes Agent Super-Intel</strong> · @BkashJosi · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 129</p>
 <p><a href="https://x.com/BkashJosi/status/2103290701522043087">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/wowinsight_rina/status/2103375994346447079"><img src="https://pbs.twimg.com/amplify_video_thumb/2103375520171978752/img/WpSpDYjlabmvL1_M.jpg" alt="Jev helps maintain Jev Atlas · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/wowinsight_rina/status/2103375994346447079">Jev helps maintain Jev Atlas</a></h3>
+<p>Rina W built a maintenance loop on an M1 Mac mini with Omarchy, with Jev involved, reducing Codex deep reads from 13 to 1.</p>
+<p><strong>中文摘要：</strong>Rina W 在 M1 Mac mini 上使用 Omarchy 搭建维护循环，Jev 参与其中，使 Codex 深度读取次数从 13 次降至 1 次。</p>
+<p><strong>Rina W</strong> · @wowinsight_rina · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/wowinsight_rina/status/2103375994346447079">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yahvingali/status/2103379236828623257"><img src="https://pbs.twimg.com/amplify_video_thumb/2103379042603077632/img/DWKr0W3-bUBdYEWW.jpg" alt="Jev with Opus 5.5 Powers Phone Use Automation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yahvingali/status/2103379236828623257">Jev with Opus 5.5 Powers Phone Use Automation</a></h3>
+<p>A user demonstrates a use case where typing to CC on Mac lets Jev with Opus 5.5 control a phone to complete a task, showing real-world phone use automation.</p>
+<p><strong>中文摘要：</strong>用户演示了在Mac上通过CC输入，Jev与Opus 5.5协作控制手机完成任务的用例，展示了手机使用自动化的实际应用。</p>
+<p><strong>Yahvin G</strong> · @yahvingali · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/yahvingali/status/2103379236828623257">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

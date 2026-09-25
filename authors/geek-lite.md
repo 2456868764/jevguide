@@ -1,10 +1,11 @@
 # Geek Lite
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-09-25 | [Using Jev as a decision layer with evidence audit outside the LLM](https://x.com/QingQ77/status/2103299950247367003) | 社区实践 | Geek Lite | 287 |
+| 2026-09-25 | [laya-server: Package Laya's structured judgment into a Docker API](https://x.com/QingQ77/status/2103374944570912931) | 开发资源 | Geek Lite | 153 |
 | 2026-09-24 | [Cloud Run Deployment Script for DiffusionGemma-Jev Model](https://x.com/QingQ77/status/2103267486388908138) | 开发者工具 | Geek Lite | 323 |
 | 2026-09-24 | [Project lets Jev dynamically choose reasoning level before generation](https://x.com/QingQ77/status/2102969271613526232) | 开发者工具 | Geek Lite | 196 |
 | 2026-09-24 | [Jev browser tool and Codex: trade-offs of a low-cost click proxy](https://x.com/QingQ77/status/2103030172542783546) | 开发者工具 | Geek Lite | 83 |

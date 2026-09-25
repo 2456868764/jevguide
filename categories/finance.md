@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 146 | 78 | 69 | 1.2M |
+| 148 | 78 | 71 | 1.2M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/clawddevs/status/2103292844060340635">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/yuru2_Kurage/status/2103365319037501939"><img src="https://pbs.twimg.com/media/HTCnBdPaoAArGn6?format=jpg&amp;name=medium" alt="Double-checking journal entries with Jev caught a missed rule! · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yuru2_Kurage/status/2103365319037501939">Double-checking journal entries with Jev caught a missed rule!</a></h3>
+<p>A finance user shares how they used Jev to recheck accounting entries, catching a rule that was overlooked, and plans to use Jev as their &#39;killersharp reviewer&#39;.</p>
+<p><strong>中文摘要：</strong>财务人员分享使用Jev对记账凭证进行双重检查，成功发现规则遗漏，称其为『必杀复核人』。</p>
+<p><strong>くらげ｜NoggleChanger®代表/AIアニメ制作</strong> · @yuru2_Kurage · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/yuru2_Kurage/status/2103365319037501939">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/CasaVerilla/status/2103309487230591341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103309367399395328/img/X6LN6aJ1NI4pUBVs.jpg" alt="User Profits from Meme Coin Trading with Jev and Grok Bots · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -55,6 +68,17 @@
 <p><strong>Verilla.eth</strong> · @CasaVerilla · 2026-09-25</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
 <p><a href="https://x.com/CasaVerilla/status/2103309487230591341">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/willyjrdnn/status/2103307371787460754"><img src="https://pbs.twimg.com/media/HTByVwLawAAe-9b?format=jpg&amp;name=medium" alt="Building a Perps Trading Ghost with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/willyjrdnn/status/2103307371787460754">Building a Perps Trading Ghost with Jev</a></h3>
+<p>A developer with early access to Jev from TypeSafe AI built lil Jerps, a little ghost that trades perpetual futures via Jupiter Exchange, still in paper trading.</p>
+<p><strong>中文摘要：</strong>开发者获得 TypeSafe AI 的 Jev 早期访问权限，基于 Jupiter Exchange 构建了名为 lil Jerps 的永续合约交易小幽灵，目前处于纸面交易阶段。</p>
+<p><strong>just welly.</strong> · @willyjrdnn · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/willyjrdnn/status/2103307371787460754">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

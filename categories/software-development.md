@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 22 | 9 | 13 | 88K |
+| 24 | 10 | 14 | 88K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/santifer/status/2104069476165791844"><img src="https://pbs.twimg.com/media/HTMoCRFXUAA9zUO?format=jpg&amp;name=900x900" alt="Best Jev Use: Ultra-Fast Parallel Semantic Classification of Pull Requests · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/santifer/status/2104069476165791844">Best Jev Use: Ultra-Fast Parallel Semantic Classification of Pull Requests</a></h3>
+<p>A user shares that using Jev for ultra-fast parallel semantic dimension classification of pull requests is one of the best uses so far.</p>
+<p><strong>中文摘要：</strong>用户分享，利用 Jev 对拉取请求进行超快速并行语义维度分类，是当前发现的最佳应用之一。</p>
+<p><strong>santifer</strong> · @santifer · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
+<p><a href="https://x.com/santifer/status/2104069476165791844">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jonathanhawkins/status/2104067527643148701"><img src="https://pbs.twimg.com/amplify_video_thumb/2104067463621341184/img/OZcX3BpMmf5kjisK.jpg" alt="Integrating Jev into AlignedTools cuts sprint planning from 22s to 0.3s · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jonathanhawkins/status/2104067527643148701">Integrating Jev into AlignedTools cuts sprint planning from 22s to 0.3s</a></h3>
+<p>A user integrated TypeSafe AI&#39;s Jev into AlignedTools, cutting sprint planning time from 22 seconds with an LLM to just 0.3 seconds, demonstrating Jev&#39;s efficiency in a real workflow.</p>
+<p><strong>中文摘要：</strong>一位用户将TypeSafe AI的Jev模型集成到AlignedTools中，在sprint规划场景中，处理时间从使用LLM时的22秒大幅缩短至0.3秒，展示了Jev在真实工作流中的高效性能。</p>
+<p><strong>jonathanhawkins</strong> · @jonathanhawkins · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
+<p><a href="https://x.com/jonathanhawkins/status/2104067527643148701">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Unemployed0x/status/2103413783670763985"><img src="https://pbs.twimg.com/media/HTDTr57aAAA27RP?format=jpg&amp;name=medium" alt="Jev + Opus 5.5 Coding Pattern Shows Big Gains · 原帖图片" width="100%"></a>

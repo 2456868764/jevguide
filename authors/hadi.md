@@ -1,7 +1,7 @@
-# _Hadi_
+# Hadi
 
 1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-25 | [JEV + Minds agents: A First Public Use Case](https://x.com/CinemaFlix5/status/2103285511561383973) | 社区实践 | _Hadi_ | 8 |
+| 2026-09-27 | [Community Discussion on Jev Model Misuse](https://x.com/hadi_hz_13/status/2104063495314563313) | 社区实践 | Hadi | 5 |

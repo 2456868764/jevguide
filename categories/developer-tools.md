@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 355 | 195 | 162 | 3.6M |
+| 357 | 196 | 163 | 3.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/bloxstack/status/2104003429240803497">在 X 查看原帖</a> · <a href="https://t.co/W1iPlgP8xd">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/dani_avila7/status/2103982234147360797"><img src="https://pbs.twimg.com/media/HTLYEo6XQAAkhp3?format=jpg&amp;name=medium" alt="Jev Skill Suggestion passes 1.2k downloads · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dani_avila7/status/2103982234147360797">Jev Skill Suggestion passes 1.2k downloads</a></h3>
+<p>Jev Skill Suggestion has surpassed 1.2k downloads. It lets Jev decide which skill Claude Code should use, cleaning up the context window to optimize workflows, and is gaining traction in the community.</p>
+<p><strong>中文摘要：</strong>Jev Skill Suggestion 下载量已超过1.2k，该功能让Jev决定Claude Code应使用哪个技能，通过清理上下文窗口来优化工作流，正受到社区关注。</p>
+<p><strong>Daniel San</strong> · @dani_avila7 · 2026-09-26</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/dani_avila7/status/2103982234147360797">在 X 查看原帖</a> · <a href="https://t.co/DSboib0i90">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/cleofasrocha_/status/2103982315311690142"><img src="https://pbs.twimg.com/media/HTLYrCvaIAAq2-i?format=jpg&amp;name=medium" alt="Ollaya: Run TypeSafe Decision Models Locally · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -31,6 +44,17 @@
 <p><strong>cleofas pereira rocha</strong> · @cleofasrocha_ · 2026-09-26</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/cleofasrocha_/status/2103982315311690142">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/robvjourney/status/2103967877644603708"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153701351731200/img/IGq_K7ab2eKOi-rM.jpg" alt="jev-model-router: A Jev Decision Router for Claude Code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/robvjourney/status/2103967877644603708">jev-model-router: A Jev Decision Router for Claude Code</a></h3>
+<p>A mod by @dr_cintas that routes calls via Jev decision checks inside Claude Code, installable via npx.</p>
+<p><strong>中文摘要：</strong>来自 @dr_cintas 的插件，可在 Claude Code 中通过 Jev 决策检查路由调用，并可用 npx 安装。</p>
+<p><strong>iamrobinvv</strong> · @robvjourney · 2026-09-26</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/robvjourney/status/2103967877644603708">在 X 查看原帖</a> · <a href="https://t.co/HPymQXd9Iq">原文链接</a></p>
 </td>
 </tr>
 <tr>

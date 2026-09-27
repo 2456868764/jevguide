@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 159 | 86 | 75 | 1.2M |
+| 161 | 88 | 75 | 1.2M |
 
 ## Showcase 卡片
 
@@ -430,6 +430,19 @@
 <p><a href="https://x.com/wanerfu/status/2103031359564562690">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/imryven/status/2102833122198843579"><img src="https://pbs.twimg.com/amplify_video_thumb/2102833053101940736/img/ju_6OSISX2Vqjr29.jpg" alt="Jev on GitHub: Trading Bot Example · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/imryven/status/2102833122198843579">Jev on GitHub: Trading Bot Example</a></h3>
+<p>Jev has exploded across GitHub since launch. The post highlights jev-trader, a real trading bot placing live limit orders on Monad every 300ms, judged by Jev alone, with 1,911 stars.</p>
+<p><strong>中文摘要：</strong>Jev自发布以来在GitHub上爆火，帖子介绍了一个名为jev-trader的实时交易机器人，它在Monad上每300毫秒下市价单，仅由Jev判断，已获1911星。</p>
+<p><strong>Ryven</strong> · @imryven · 2026-09-23</p>
+<p>💬 32 &nbsp; 🔁 180 &nbsp; ♡ 1.4K &nbsp; 📊 238K</p>
+<p><a href="https://x.com/imryven/status/2102833122198843579">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/dopamynAI/status/2102740583684948338"><img src="https://pbs.twimg.com/amplify_video_thumb/2102740415342358528/img/GFHK7zmxKeSeHE6o.jpg" alt="Dopamyn + JEV: 20x Faster Crypto Tagging · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖视频</code></sub>
@@ -440,8 +453,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 216</p>
 <p><a href="https://x.com/dopamynAI/status/2102740583684948338">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_300/status/2102578703666413804"><img src="https://pbs.twimg.com/amplify_video_thumb/2102409698201022464/img/Ivwi7m-5_YdnbXnO.jpg" alt="Jev Achieves 100% Tax Document Classification, Cheaper and Faster · 原帖视频截图" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><a href="https://x.com/ai_300/status/2102578703666413804">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cryptofanatiix/status/2102642116438417733"><img src="https://pbs.twimg.com/media/HSqZXJkWoAAYN7X?format=png&amp;name=900x900" alt="Jev: A 200ms Fast Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 69</p>
 <p><a href="https://x.com/cryptofanatiix/status/2102642116438417733">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CyberMonk0x/status/2102674084085821719"><img src="https://pbs.twimg.com/media/HS4y76SasAATTR9?format=jpg&amp;name=medium" alt="Jev: The Popularity and Risks of Minimalist AI Decision-Making · 原帖图片" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 67</p>
 <p><a href="https://x.com/CyberMonk0x/status/2102674084085821719">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fluixoo/status/2102680895425503354"><img src="https://pbs.twimg.com/amplify_video_thumb/2102680809626886144/img/K-Tz9cBTvW82ktQE.jpg" alt="JEV Blocks $50,000 High-Risk Transfer · 原帖视频截图" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 59</p>
 <p><a href="https://x.com/fluixoo/status/2102680895425503354">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/unidoshernan/status/2102643635099402595"><img src="https://pbs.twimg.com/amplify_video_thumb/2102643504291966976/img/y2fUfFvDUJwAfMWO.jpg" alt="Trading bots with Jev: $1,000 turns into $3,833.92 · 原帖视频截图" width="100%"></a>
 <br>
@@ -501,6 +512,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
 <p><a href="https://x.com/unidoshernan/status/2102643635099402595">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1kleos1/status/2102738512889954372"><img src="https://pbs.twimg.com/amplify_video_thumb/2102736683930112001/img/JVx83AB8wP-iNuEY.jpg" alt="Japanese Student Builds Jev Polymarket Bot, Earns $17,831 in First Night · 原帖视频截图" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/1kleos1/status/2102738512889954372">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/openclawby/status/2102617962037625120"><img src="https://pbs.twimg.com/media/HS3_jMZaEAA5nIc?format=jpg&amp;name=medium" alt="Fully Automated Trading Bots with the Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/openclawby/status/2102617962037625120">在 X 查看原帖</a> · <a href="https://t.co/HDP4kh8nAv">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nerlfield/status/2102779245756112950"><img src="https://pbs.twimg.com/media/HS6REUMXsAAPtX4?format=jpg&amp;name=medium" alt="User Tests Jev&#39;s Calibration on 5-Minute BTC Prediction Markets · 原帖图片" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
 <p><a href="https://x.com/nerlfield/status/2102779245756112950">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thefvkngphoenix/status/2102589274382123124"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="HypeMeter Built in 4 Hours with Jev and Minds to Flag Underpriced Hype · 原帖视频截图" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/thefvkngphoenix/status/2102589274382123124">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shivak_01/status/2102575435892863423"><img src="https://pbs.twimg.com/amplify_video_thumb/2102574574328225792/img/7cWs17wP04S-zWc0.jpg" alt="Jev optimizes a personal stock analyser · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/shivak_01/status/2102575435892863423">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FrankDa18249347/status/2102609646989332550"><img src="https://pbs.twimg.com/amplify_video_thumb/2102196000005963776/img/J_7eFuDjznhJL_6l.jpg" alt="Using Remaining Jev Credits to Fade a Trading Bot Live on Polymarket · 原帖视频截图" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/FrankDa18249347/status/2102609646989332550">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Phoenix1364/status/2102781299731636463"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="Jev knows when to say no · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Phoenix1364/status/2102781299731636463">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ergod_dev/status/2102608971999875122"><img src="https://pbs.twimg.com/media/HS33rC4WAAAvKpu?format=jpg&amp;name=medium" alt="Jev Trader Bot Completes First Paper Trades · 原帖图片" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/ergod_dev/status/2102608971999875122">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YLX9394/status/2102726341468512537"><img src="https://pbs.twimg.com/media/HS5iAFta0AAU2ln?format=jpg&amp;name=medium" alt="Jev AI&#39;s BTC Trading Experiment · 原帖图片" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/YLX9394/status/2102726341468512537">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/maxlibin/status/2102710099546702207"><img src="https://pbs.twimg.com/media/HS5QkZRbEAAuNip?format=jpg&amp;name=medium" alt="Trying to beat Singapore TOTO with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/maxlibin/status/2102710099546702207">在 X 查看原帖</a> · <a href="https://t.co/Lw4cAUYA4g">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mnilax/status/2102760642872508510"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760003165679616/img/WH3oNSjlsIbdc4MB.jpg" alt="Jev + Grok Copy Trading Bot Is Now Open · 原帖视频截图" width="100%"></a>
 <br>
@@ -631,6 +644,17 @@
 <p><strong>Mnimiy</strong> · @Mnilax · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><a href="https://x.com/Mnilax/status/2102760642872508510">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/andywang/status/2102265179543400907"><img src="https://pbs.twimg.com/amplify_video_thumb/2102265160358653952/img/XPVcbzD3z_lQu-Ch.jpg" alt="Jev completes 34 months of bookkeeping in 20 seconds for $0.32 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/andywang/status/2102265179543400907">Jev completes 34 months of bookkeeping in 20 seconds for $0.32</a></h3>
+<p>A developer used TypeSafe AI&#39;s Jev to build a bookkeeping solution, processing 34 months of work that a firm charged over $20,000 for. Jev did it better in 20 seconds for just $0.32.</p>
+<p><strong>中文摘要：</strong>开发者用TypeSafe AI的Jev构建记账解决方案，处理了一家事务所收费2万美元的34个月工作，Jev在20秒内完成且表现更佳，成本仅0.32美元。</p>
+<p><strong>Andy</strong> · @andywang · 2026-09-22</p>
+<p>💬 39 &nbsp; 🔁 40 &nbsp; ♡ 933 &nbsp; 📊 115K</p>
+<p><a href="https://x.com/andywang/status/2102265179543400907">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

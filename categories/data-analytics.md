@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 77 | 44 | 33 | 392K |
+| 79 | 46 | 33 | 392K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/takimunk/status/2103996455925227746"><img src="https://pbs.twimg.com/amplify_video_thumb/2103989977386196992/img/_7HCbSa_ZlhwYisl.jpg" alt="Embedding 100 Greatest Books with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/takimunk/status/2103996455925227746">Embedding 100 Greatest Books with Jev</a></h3>
+<p>The author fed Jev (@typesafeai) every page of the 100 greatest books for $8.51, generated 85-dim embeddings, then used Claude and Codex to build a PCA visualization UI and perform EDA, sharing the repo and insights.</p>
+<p><strong>中文摘要：</strong>作者使用 Jev（@typesafeai）处理 100 本最伟大书籍的每一页，花费 $8.51 生成 85 维嵌入，并借助 Claude 与 Codex 构建 PCA 可视化界面及进行探索性数据分析，分享相关仓库和见解。</p>
+<p><strong>central dogma specialist</strong> · @takimunk · 2026-09-26</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 211</p>
+<p><a href="https://x.com/takimunk/status/2103996455925227746">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/fluixoo/status/2103422636579582131"><img src="https://pbs.twimg.com/amplify_video_thumb/2103422009124229120/img/jX4HaUCPEHlSXUPz.jpg" alt="Jev turns 2,000 wine reviews into 67 numeric columns and a basic ML model cuts error nearly in half · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 151</p>
 <p><a href="https://x.com/fluixoo/status/2103422636579582131">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hamzahc1/status/2103451866193412559"><img src="https://pbs.twimg.com/amplify_video_thumb/2103451645405286401/img/hP_RT9jVgVB5dyyO.jpg" alt="Jev in Lightdash data agents: 78% time reduction · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 65</p>
 <p><a href="https://x.com/hamzahc1/status/2103451866193412559">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/melvindvivas/status/2102984358621782272"><img src="https://pbs.twimg.com/amplify_video_thumb/2102883928738611200/img/K-0DsY1cOinkWNg8.jpg" alt="Jev + ElevenLabs for real-time sentiment analysis · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 153</p>
 <p><a href="https://x.com/melvindvivas/status/2102984358621782272">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/leiroops/status/2103151010717810900"><img src="https://pbs.twimg.com/amplify_video_thumb/2103150864084910080/img/K91hNMY-7iPCs5pd.jpg" alt="Jev system processes 12M updates for $200 · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 77</p>
 <p><a href="https://x.com/leiroops/status/2103151010717810900">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/murggu/status/2103080012836389281"><img src="https://pbs.twimg.com/tweet_video_thumb/HS-kHmKXsAAEgdy.jpg" alt="What will Jev do to data engineering? · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 63</p>
 <p><a href="https://x.com/murggu/status/2103080012836389281">在 X 查看原帖</a> · <a href="https://t.co/bgFfhOYvUS">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/drimalka/status/2103009377451933792"><img src="https://pbs.twimg.com/media/HS9jTnRWEAAv0Y-?format=jpg&amp;name=medium" alt="JEV Model in Action: 20K LinkedIn Contacts Processed in Minutes · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 60</p>
 <p><a href="https://x.com/drimalka/status/2103009377451933792">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/benchmarkheaven/status/2103070629478256957"><img src="https://pbs.twimg.com/media/HS-bkNLWIAAf1NJ?format=jpg&amp;name=medium" alt="Jev 1.13.0 vs GPT-6 Luna: JevBench Benchmark Comparison · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/benchmarkheaven/status/2103070629478256957">在 X 查看原帖</a> · <a href="https://t.co/5cGyGQNoJV">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/magicaster_k/status/2103100934192820668"><img src="https://pbs.twimg.com/amplify_video_thumb/2103100325188284416/img/WT9jRBxPY17LQ0Gj.jpg" alt="Predicting Keyword Mention Probabilities in Live Speeches with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Caster Kay</strong> · @magicaster_k · 2026-09-24</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/magicaster_k/status/2103100934192820668">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_brylee10/status/2102861447294587246"><img src="https://pbs.twimg.com/amplify_video_thumb/2102858120800468992/img/VHcjI8gBvbXYX7me.jpg" alt="Automated Failure Mode Clustering with Jev for RL Training · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_brylee10/status/2102861447294587246">Automated Failure Mode Clustering with Jev for RL Training</a></h3>
+<p>Bryan Lee implemented automated failure mode clustering on appliedcompute&#39;s platform, using Jev to surface errors at a larger scale from billions of token traces in RL training, reducing manual review.</p>
+<p><strong>中文摘要：</strong>Bryan Lee在appliedcompute平台上实现了自动化失败模式聚类，利用Jev以更大规模揭示RL训练中数十亿token痕迹中的错误，减少人工阅读负担。</p>
+<p><strong>Bryan Lee</strong> · @_brylee10 · 2026-09-23</p>
+<p>💬 25 &nbsp; 🔁 21 &nbsp; ♡ 256 &nbsp; 📊 68K</p>
+<p><a href="https://x.com/_brylee10/status/2102861447294587246">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

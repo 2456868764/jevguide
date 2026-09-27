@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 219 | 112 | 110 | 1.1M |
+| 221 | 113 | 111 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MR_0FFICIALL/status/2104004273562415250"><img src="https://pbs.twimg.com/media/HTLsul_WwAA6u8M?format=jpg&amp;name=medium" alt="Jev Is Now Live on B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MR_0FFICIALL/status/2104004273562415250">Jev Is Now Live on B.AI API</a></h3>
+<p>Jev, a System One model from TypeSafe AI focused on software decisions, is now available via the B.AI API.</p>
+<p><strong>中文摘要：</strong>来自 TypeSafe AI 的 Jev 是一个 System One 模型，专注于软件决策，现已通过 B.AI API 提供。</p>
+<p><strong>MR OFFICIAL</strong> · @MR_0FFICIALL · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/MR_0FFICIALL/status/2104004273562415250">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jared_watson1/status/2103978289895260516"><img src="https://pbs.twimg.com/amplify_video_thumb/2103978124165758976/img/dt-ivsb6eefrGxwX.jpg" alt="Onestar launches, an app review analysis product built on the Jev model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jared_watson1/status/2103978289895260516">Onestar launches, an app review analysis product built on the Jev model</a></h3>
+<p>Solo developer Jared launched onestar.sh, built with TypeSafe&#39;s Jev model. It reads thousands of app reviews to show what users love, why they leave, and what they request. Free to start and view public reports.</p>
+<p><strong>中文摘要：</strong>独立开发者 Jared 发布了新项目 onestar.sh，使用 TypeSafe 的 Jev 模型构建，可读取数千条应用评论，展示用户喜爱点、离开原因及功能请求。免费即可开始使用并查看公开报告。</p>
+<p><strong>Jared</strong> · @jared_watson1 · 2026-09-26</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 88</p>
+<p><a href="https://x.com/jared_watson1/status/2103978289895260516">在 X 查看原帖</a> · <a href="https://t.co/mCzHUHd3NX">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FT/status/2103368302089191869"><img src="https://pbs.twimg.com/media/HTCqUN4W0AAp9wV?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model · 原帖图片" width="100%"></a>

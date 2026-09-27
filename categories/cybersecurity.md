@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 27 | 10 | 17 | 82K |
+| 29 | 10 | 19 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lucasrotelavila/status/2104008900806861207"><img src="https://pbs.twimg.com/media/HTLummaWsAAoQxm?format=png&amp;name=small" alt="Build a Phishing Email Detection Extension with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lucasrotelavila/status/2104008900806861207">Build a Phishing Email Detection Extension with JEV</a></h3>
+<p>A small extension that uses JEV to try to detect whether an email is phishing.</p>
+<p><strong>中文摘要：</strong>一个用于尝试检测电子邮件是否为钓鱼邮件的小型扩展，基于JEV模型开发。</p>
+<p><strong>Lucas 💫</strong> · @lucasrotelavila · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/lucasrotelavila/status/2104008900806861207">在 X 查看原帖</a> · <a href="https://t.co/H21Qcpvm8q">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zrrrr_cn/status/2104003596375425117"><img src="https://pbs.twimg.com/media/HTLsHsxbEAANiZD?format=jpg&amp;name=medium" alt="Red-Teaming Jev 1.13 Reveals Safety Gaps · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zrrrr_cn/status/2104003596375425117">Red-Teaming Jev 1.13 Reveals Safety Gaps</a></h3>
+<p>Researchers red-teamed Jev 1.13 on the DTap platform and found a 70.1% attack success rate under direct misuse and 43.5% under indirect prompt injection, highlighting serious safety concerns.</p>
+<p><strong>中文摘要：</strong>研究者通过DTap平台对Jev 1.13进行红队测试，发现直接滥用场景下攻击成功率达70.1%，间接提示注入场景下为43.5%，提示该模型存在严重安全风险。</p>
+<p><strong>Zhaorun Chen</strong> · @zrrrr_cn · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
+<p><a href="https://x.com/zrrrr_cn/status/2104003596375425117">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/automater_ai/status/2103307261451878656"><img src="https://pbs.twimg.com/media/HTBywAvXUAAy1_g?format=jpg&amp;name=medium" alt="TypeSafe Jev Prompt Injection Security Tips · 原帖图片" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3330</strong><br>curated posts</td>
-<td align="center"><strong>1767</strong><br>original videos</td>
+<td align="center"><strong>3388</strong><br>curated posts</td>
+<td align="center"><strong>1799</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>419</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>441</strong> showcases · <strong>184</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>377</strong> showcases · <strong>167</strong> videos</p>
+<p><strong>380</strong> showcases · <strong>168</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>351</strong> showcases · <strong>192</strong> videos</p>
+<p><strong>355</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>317</strong> showcases · <strong>125</strong> videos</p>
+<p><strong>320</strong> showcases · <strong>126</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>280</strong> showcases · <strong>215</strong> videos</p>
+<p><strong>285</strong> showcases · <strong>218</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>241</strong> showcases · <strong>131</strong> videos</p>
+<p><strong>243</strong> showcases · <strong>132</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>219</strong> showcases · <strong>112</strong> videos</p>
+<p><strong>221</strong> showcases · <strong>113</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>207</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>212</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>159</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>161</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>138</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>141</strong> showcases · <strong>94</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,11 +100,17 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>82</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>83</strong> showcases · <strong>67</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>79</strong> showcases · <strong>46</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
@@ -112,15 +118,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>77</strong> showcases · <strong>44</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>51</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>52</strong> showcases · <strong>19</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -138,18 +138,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>27</strong> showcases · <strong>20</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
+<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
+<p><sub>网络安全</sub></p>
+<p><strong>29</strong> showcases · <strong>10</strong> videos</p>
+<p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
-<p><sub>网络安全</sub></p>
-<p><strong>27</strong> showcases · <strong>10</strong> videos</p>
-<p><a href="categories/cybersecurity.md">Open category →</a></p>
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>27</strong> showcases · <strong>20</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>14</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>15</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/FT/status/2103368302089191869"><img src="https://pbs.twimg.com/media/HTCqUN4W0AAp9wV?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/FT/status/2103368302089191869">TypeSafe AI Releases Jev Model</a></h3>
-<p>TypeSafe AI released its Jev model last week, positioning it as a cheaper alternative to traditional large language models for certain tasks. The startup was recently valued at $200 million.</p>
-<p><strong>11K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 11K</p>
-<p><strong>Financial Times</strong> · @FT</p>
+<p><strong>01</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/wtry1102/status/2104008824420241747"><img src="https://pbs.twimg.com/amplify_video_thumb/2104003162839699456/img/VLhxs1NL-vJB5NBs.jpg" alt="Jev-Driven Music Video Creation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/wtry1102/status/2104008824420241747">Jev-Driven Music Video Creation</a></h3>
+<p>The creator used Jev as an MV Director, connecting the JIZURA character with motion storyboards, and used Opus5.5 to produce a lyric animation MV for the song &quot;Magnetica&quot;.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><strong>WTR</strong> · @wtry1102</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/jackcheng/status/2103281698305937693"><img src="https://pbs.twimg.com/amplify_video_thumb/2103281067180351488/img/Jr9MN0FAFCCB8Uwf.jpg" alt="Experimenting with Jev for Email Triage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jackcheng/status/2103281698305937693">Experimenting with Jev for Email Triage</a></h3>
-<p>Jack Cheng shares an experiment using Jev at both ends of an email classification system to decide what&#39;s worth attention based on sleep quality and current vibes.</p>
-<p><strong>3.2K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 3.2K</p>
-<p><strong>Jack Cheng</strong> · @jackcheng</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/bloxstack/status/2104003429240803497"><img src="https://pbs.twimg.com/amplify_video_thumb/2104001903361241089/img/hovAcsqe_4QyL-W6.jpg" alt="BloxStack Talent Finder: Semantic search for Roblox devs, powered by Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/bloxstack/status/2104003429240803497">BloxStack Talent Finder: Semantic search for Roblox devs, powered by Jev</a></h3>
+<p>Describe the developer you need and find matching candidates via semantic search, powered by Jev.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 10</p>
+<p><strong>BloxStack</strong> · @bloxstack</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/rubenhassid/status/2103439381818409125"><img src="https://pbs.twimg.com/amplify_video_thumb/2103428243219197952/img/8CP7dpuiNM4G6m2X.jpg" alt="Jev helps you filter contacts from tens of thousands of LinkedIn connections · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rubenhassid/status/2103439381818409125">Jev helps you filter contacts from tens of thousands of LinkedIn connections</a></h3>
-<p>The author needs to screen hundreds of people from 38,000 LinkedIn connections, showing Jev in action and comparing with Claude/ChatGPT.</p>
-<p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.2K</p>
-<p><strong>Ruben Hassid</strong> · @rubenhassid</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/tx_smitht/status/2104000242160939110"><img src="https://pbs.twimg.com/media/HTLn-nqX0AArkif?format=jpg&amp;name=medium" alt="Developer on Jev Hype: Wants Hyperscaler Support and Shares Ad Blocker · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tx_smitht/status/2104000242160939110">Developer on Jev Hype: Wants Hyperscaler Support and Shares Ad Blocker</a></h3>
+<p>Tom Smith notes Jev from TypeSafe AI isn&#39;t the only model of its kind, but its hype will push companies toward more reliable AI automation. He hopes it becomes available on hyperscalers soon and shares an ad blocker that calls Jev on page load.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Tom Smith</strong> · @tx_smitht</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/takashikiso/status/2103283252350124406"><img src="https://pbs.twimg.com/amplify_video_thumb/2102790070831042560/img/UvbpwlC4sazqc8Wo.jpg" alt="Sharing misreading correction with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/takashikiso/status/2103283252350124406">Sharing misreading correction with Jev</a></h3>
-<p>A user mentions that Jev can be used for misreading correction, says it seems ready to use, and expresses gratitude.</p>
-<p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.2K</p>
-<p><strong>木曽崇／Takashi Kiso</strong> · @takashikiso</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/lucasrotelavila/status/2104008900806861207"><img src="https://pbs.twimg.com/media/HTLummaWsAAoQxm?format=png&amp;name=small" alt="Build a Phishing Email Detection Extension with JEV · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/lucasrotelavila/status/2104008900806861207">Build a Phishing Email Detection Extension with JEV</a></h3>
+<p>A small extension that uses JEV to try to detect whether an email is phishing.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Lucas 💫</strong> · @lucasrotelavila</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/FT/status/2103368302089191869"><img src="https://pbs.twimg.com/media/HTCqUN4W0AAp9wV?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/FT/status/2103368302089191869">TypeSafe AI Releases Jev Model</a></h3>
-<p>TypeSafe AI released its Jev model last week, positioning it as a cheaper alternative to traditional large language models for certain tasks. The startup was recently valued at $200 million.</p>
-<p><strong>11K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 11K</p>
-<p><strong>Financial Times</strong> · @FT</p>
+<p><strong>01</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/wtry1102/status/2104008824420241747"><img src="https://pbs.twimg.com/amplify_video_thumb/2104003162839699456/img/VLhxs1NL-vJB5NBs.jpg" alt="Jev-Driven Music Video Creation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/wtry1102/status/2104008824420241747">Jev-Driven Music Video Creation</a></h3>
+<p>The creator used Jev as an MV Director, connecting the JIZURA character with motion storyboards, and used Opus5.5 to produce a lyric animation MV for the song &quot;Magnetica&quot;.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><strong>WTR</strong> · @wtry1102</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/takashikiso/status/2103283252350124406"><img src="https://pbs.twimg.com/amplify_video_thumb/2102790070831042560/img/UvbpwlC4sazqc8Wo.jpg" alt="Sharing misreading correction with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/takashikiso/status/2103283252350124406">Sharing misreading correction with Jev</a></h3>
-<p>A user mentions that Jev can be used for misreading correction, says it seems ready to use, and expresses gratitude.</p>
-<p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.2K</p>
-<p><strong>木曽崇／Takashi Kiso</strong> · @takashikiso</p>
+<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/lucasrotelavila/status/2104008900806861207"><img src="https://pbs.twimg.com/media/HTLummaWsAAoQxm?format=png&amp;name=small" alt="Build a Phishing Email Detection Extension with JEV · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/lucasrotelavila/status/2104008900806861207">Build a Phishing Email Detection Extension with JEV</a></h3>
+<p>A small extension that uses JEV to try to detect whether an email is phishing.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Lucas 💫</strong> · @lucasrotelavila</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/sakatayasha/status/2103450194234789968"><img src="https://pbs.twimg.com/media/HTD0zNVbUAA62Eh?format=jpg&amp;name=medium" alt="Top 20 JEV projects to check out · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sakatayasha/status/2103450194234789968">Top 20 JEV projects to check out</a></h3>
-<p>This post lists 20 open-source projects built on the JEV model, covering browser agents, context compression, and more.</p>
-<p><strong>994</strong> views · 💬 6 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 994</p>
-<p><strong>Sakata</strong> · @sakatayasha</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/ziyacivan/status/2104008318616211880"><img src="https://pbs.twimg.com/media/HTLwaDbWsAAmIUt?format=jpg&amp;name=medium" alt="Write Gmail filters in plain English · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ziyacivan/status/2104008318616211880">Write Gmail filters in plain English</a></h3>
+<p>Define rules in plain English; Jev matches new emails and labels, stars, or archives them, and can turn phrases like &#39;by Friday&#39; into Google Tasks.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>ziya</strong> · @ziyacivan</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/codewithimanshu/status/2103425824728969410"><img src="https://pbs.twimg.com/amplify_video_thumb/2103425799303086080/img/Q4T0ypAfwLrQDfcV.jpg" alt="JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/codewithimanshu/status/2103425824728969410">JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot</a></h3>
-<p>The post claims JEV is gaining traction in AI circles, with a Monad engineer already building a fully automated trading bot that reads MON/USDC price in real time.</p>
-<p><strong>679</strong> views · 💬 4 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 679</p>
-<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xCodila/status/2104010935690019237"><img src="https://pbs.twimg.com/media/HTLygQiWwAAXKHM?format=jpg&amp;name=medium" alt="Share Jev prompt: screenshot to design video and speed up Opus 5.5 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xCodila/status/2104010935690019237">Share Jev prompt: screenshot to design video and speed up Opus 5.5</a></h3>
+<p>The author shares a Jev prompt that can be sent to Opus 5.5 with any screenshot to set up Jev, turning a product screenshot into a 15-second design motion video while making future Opus 5.5 work faster and cheaper.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>codila</strong> · @0xCodila</p>
 </td>
 </tr>
 </table>

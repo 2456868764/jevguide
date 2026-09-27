@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 241 | 131 | 111 | 3.0M |
+| 243 | 132 | 112 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MikeyJNicholls/status/2104010330670018632"><img src="https://pbs.twimg.com/media/HTLyPyYWcAADsx5?format=png&amp;name=900x900" alt="CLM-8B caches agent actions, claims 9x speedup over Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MikeyJNicholls/status/2104010330670018632">CLM-8B caches agent actions, claims 9x speedup over Jev</a></h3>
+<p>Michael Nicholls shares Stanford and Nvidia&#39;s open-source CLM-8B, which scores cached agent actions instead of generating tokens. It reaches 95.2% on BFCL v4 vs Jev&#39;s 99.2%, while reportedly running up to 9x faster.</p>
+<p><strong>中文摘要：</strong>Michael Nicholls 分享 Stanford 和 Nvidia 的开源 CLM-8B 模型，通过缓存可复用的代理动作而非逐 token 生成，在 BFCL v4 上达到 95.2% 准确率，相比 Jev 的 99.2% 略低，但速度据称提升达 9 倍。</p>
+<p><strong>Michael Nicholls</strong> · @MikeyJNicholls · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/MikeyJNicholls/status/2104010330670018632">在 X 查看原帖</a> · <a href="https://t.co/jlGe63Gqix">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/tom_doerr/status/2103447700859445680"><img src="https://pbs.twimg.com/media/HTDyiYOXAAA4uaI?format=jpg&amp;name=medium" alt="Jev Ultrafast: High-Performance Browser Agent · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 938</p>
 <p><a href="https://x.com/tom_doerr/status/2103447700859445680">在 X 查看原帖</a> · <a href="https://t.co/W4wku1vliQ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/itsjdraven/status/2103360153865367828"><img src="https://pbs.twimg.com/amplify_video_thumb/2103327309550014464/img/LZtv08JJjZFiPlF0.jpg" alt="10 ways Jev makes AI agents more capable · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>J.𝙳𝚛𝚊𝚟𝚎𝚗</strong> · @itsjdraven · 2026-09-25</p>
 <p>💬 11 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 527</p>
 <p><a href="https://x.com/itsjdraven/status/2103360153865367828">在 X 查看原帖</a> · <a href="https://t.co/KZceo251wT">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chesny/status/2103458625939234816"><img src="https://pbs.twimg.com/amplify_video_thumb/2103458398154940417/img/x9MFYHfTMxH8KeFn.jpg" alt="Jev Engineering: Turning Agent Workflows into Self-Rewriting Graphs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chesny/status/2103458625939234816">Jev Engineering: Turning Agent Workflows into Self-Rewriting Graphs</a></h3>
+<p>This post explains how Jev Engineering converts static agent workflows into self-rewriting graphs at runtime, addressing complex scales with hundreds of routes, thousands of intersections, and multiple agents/tools.</p>
+<p><strong>中文摘要：</strong>该帖子介绍 Jev Engineering 如何将静态代理工作流转化为运行时自改写图，以应对数百条路径、上千交叉点及多代理多工具协作的复杂规模问题。</p>
+<p><strong>Chesny</strong> · @chesny · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 256</p>
+<p><a href="https://x.com/chesny/status/2103458625939234816">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

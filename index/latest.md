@@ -4,8 +4,10 @@
 |---|---|---|---|---|
 | 2026-09-27 | [Jev is fast and cheap, but not proof of a profitable trading strategy](https://x.com/MooninPapa/status/2104005602078798220) | 金融 | Aaron Dishner | 720 |
 | 2026-09-27 | [Building the Best ~2B Jev-Class Model](https://x.com/MarcJBrooker/status/2104066523447091535) | 社区实践 | Marc Brooker | 596 |
+| 2026-09-27 | [What Is Jev: The System One Model That Doesn't Chat](https://x.com/e_opore/status/2104053983299969227) | 工作原理 | Dhanian 🗯️ | 582 |
 | 2026-09-27 | [The Reality of Using the Jev AI Model](https://x.com/e_opore/status/2104063322257801342) | 社区实践 | Dhanian 🗯️ | 577 |
 | 2026-09-27 | [Summary: Building a Harness with Jev](https://x.com/_moto___/status/2104056921980538911) | 开发资源 | 新井 元気@ITエンジニア | 188 |
+| 2026-09-27 | [laya-mlx: An Open-Source Local Classification System Similar to Jev](https://x.com/dkare1009/status/2104066082420015400) | 开发资源 | Dhairya Karekar | 139 |
 | 2026-09-27 | [Practical use of Jev for initial judgment to save tokens](https://x.com/honnago/status/2104055997883150831) | 社区实践 | 혼나고랩 | 64 |
 | 2026-09-27 | [Jev in Action: A Drift Alert Plugin for Pi Agent](https://x.com/verysmallwoods/status/2104005515013451934) | 社区实践 | VerySmallWoods | 56 |
 | 2026-09-27 | [Best Jev Use: Ultra-Fast Parallel Semantic Classification of Pull Requests](https://x.com/santifer/status/2104069476165791844) | 软件开发 | santifer | 52 |
@@ -100,5 +102,3 @@
 | 2026-09-25 | [Life as a marketer after earning $3.1k in a day with Jev + Claude](https://x.com/dsqjaffa/status/2103437254844977300) | 营销 | jaffa | 298 |
 | 2026-09-25 | [Opus 5.5 + JEV dual-core particle collision demo](https://x.com/0xzynex/status/2103459250911543569) | 社区实践 | Zynex | 296 |
 | 2026-09-25 | [Jev: Splitting Deciding from Generating](https://x.com/silentguyy66/status/2103458520804798566) | 工作原理 | silentguy | 295 |
-| 2026-09-25 | [20 open-source repos being built on Jev](https://x.com/polydao/status/2103362362015199286) | 开发资源 | Mr. Buzzoni | 290 |
-| 2026-09-25 | [Jev founder releases 12-page PDF: 10-step guide to cut LLM costs](https://x.com/SolSt1ne/status/2103457540830888132) | 开发资源 | st1ne | 289 |

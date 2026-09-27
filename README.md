@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3422</strong><br>curated posts</td>
-<td align="center"><strong>1814</strong><br>original videos</td>
+<td align="center"><strong>3424</strong><br>curated posts</td>
+<td align="center"><strong>1815</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,7 +34,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>380</strong> showcases · <strong>168</strong> videos</p>
+<p><strong>381</strong> showcases · <strong>168</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>215</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>216</strong> showcases · <strong>83</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2104053983299969227"><img src="https://pbs.twimg.com/media/HTMZttOWgAAvLCs?format=jpg&amp;name=medium" alt="What Is Jev: The System One Model That Doesn&#39;t Chat · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2104053983299969227">What Is Jev: The System One Model That Doesn&#39;t Chat</a></h3>
+<p>Introduces Jev&#39;s System One model, highlighting its non-chat interaction approach.</p>
+<p><strong>582</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 13 &nbsp; 📊 582</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/e_opore/status/2104063322257801342"><img src="https://pbs.twimg.com/media/HTMiGIuXoAAfnDC?format=jpg&amp;name=medium" alt="The Reality of Using the Jev AI Model · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/e_opore/status/2104063322257801342">The Reality of Using the Jev AI Model</a></h3>
 <p>The post shares the real-world usage of the Jev AI model, discussing the actual experience and observations from using it.</p>
 <p><strong>577</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 577</p>
 <p><strong>Dhanian 🗯️</strong> · @e_opore</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/_moto___/status/2104056921980538911"><img src="https://pbs.twimg.com/media/HTMcnR8aMAAgkCo?format=png&amp;name=900x900" alt="Summary: Building a Harness with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/_moto___/status/2104056921980538911">Summary: Building a Harness with Jev</a></h3>
-<p>This post summarizes the LangChain official page on building a harness with Jev. Jev assists with small classification tasks within LLM decision loops, costing 200x to 400x less than traditional LLMs.</p>
-<p><strong>188</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 188</p>
-<p><strong>新井 元気@ITエンジニア</strong> · @_moto___</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Aaron Dishner</strong> · @MooninPapa</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2104063322257801342"><img src="https://pbs.twimg.com/media/HTMiGIuXoAAfnDC?format=jpg&amp;name=medium" alt="The Reality of Using the Jev AI Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2104063322257801342">The Reality of Using the Jev AI Model</a></h3>
+<p>The post shares the real-world usage of the Jev AI model, discussing the actual experience and observations from using it.</p>
+<p><strong>577</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 577</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/_moto___/status/2104056921980538911"><img src="https://pbs.twimg.com/media/HTMcnR8aMAAgkCo?format=png&amp;name=900x900" alt="Summary: Building a Harness with Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/_moto___/status/2104056921980538911">Summary: Building a Harness with Jev</a></h3>
 <p>This post summarizes the LangChain official page on building a harness with Jev. Jev assists with small classification tasks within LLM decision loops, costing 200x to 400x less than traditional LLMs.</p>
 <p><strong>188</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 188</p>
 <p><strong>新井 元気@ITエンジニア</strong> · @_moto___</p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/honnago/status/2104055997883150831"><img src="https://pbs.twimg.com/media/HTMawR4bQAAKyIC?format=jpg&amp;name=medium" alt="Practical use of Jev for initial judgment to save tokens · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/honnago/status/2104055997883150831">Practical use of Jev for initial judgment to save tokens</a></h3>
-<p>The user shares that when using Jev prompts, they first ask a conclusion-oriented question, then pass it to Jev running on RTX 3090 with Qwen 3.5 for initial processing, which notably reduces token consumption.</p>
-<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>혼나고랩</strong> · @honnago</p>
-</td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/AdamyaNagpal/status/2104056930062745743"><img src="https://pbs.twimg.com/amplify_video_thumb/2104056897384972288/img/B22jCXWxxKI-bKRt.jpg" alt="Training a Snake AI with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AdamyaNagpal/status/2104056930062745743">Training a Snake AI with Jev</a></h3>
-<p>A developer used TypeSafe&#39;s Jev System 1 model to train a tiny Snake player, agreeing with Jev 93% of the time, running 800× faster on a laptop at zero cost per call, and scoring 5× higher than the model it learned from by looking ahead.</p>
-<p><strong>36</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 36</p>
-<p><strong>Adamya</strong> · @AdamyaNagpal</p>
+<a href="https://x.com/spillai/status/2104007859512213699"><img src="https://pbs.twimg.com/amplify_video_thumb/2104006920826920960/img/yIiSdiTP8-8azriW.jpg" alt="Jev fails to get high score in 2048 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/spillai/status/2104007859512213699">Jev fails to get high score in 2048</a></h3>
+<p>Sudeep Pillai shares that DiffusionGemma can play 2048 from pixels, but notes TypeSafe&#39;s Jev also can&#39;t get a high score, sparking discussion.</p>
+<p><strong>41</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><strong>Sudeep Pillai</strong> · @spillai</p>
 </td>
 </tr>
 </table>

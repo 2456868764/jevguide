@@ -88,6 +88,7 @@
 - [Daniil](../authors/daniil.md) — 3
 - [Dario Crespo](../authors/dario-crespo.md) — 3
 - [davepoon](../authors/davepoon.md) — 3
+- [Dhanian 🗯️](../authors/dhanian.md) — 3
 - [Diogo Almeida](../authors/diogo-almeida.md) — 3
 - [Dmitriy Kovalenko](../authors/dmitriy-kovalenko.md) — 3
 - [Dorian Smiley](../authors/dorian-smiley.md) — 3
@@ -214,7 +215,6 @@
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
 - [Derya Unutmaz, MD](../authors/derya-unutmaz-md.md) — 2
-- [Dhanian 🗯️](../authors/dhanian.md) — 2
 - [Divine 〽️achine](../authors/divine-achine.md) — 2
 - [Doug Tallmadge](../authors/doug-tallmadge.md) — 2
 - [each::labs](../authors/each-labs.md) — 2
@@ -944,6 +944,7 @@
 - [devrev](../authors/devrev.md) — 1
 - [Dex](../authors/dex.md) — 1
 - [DGrid AI](../authors/dgrid-ai.md) — 1
+- [Dhairya Karekar](../authors/dhairya-karekar.md) — 1
 - [Diam](../authors/diam.md) — 1
 - [Dibya.shree](../authors/dibya-shree.md) — 1
 - [diegotorres.eth](../authors/diegotorres-eth.md) — 1

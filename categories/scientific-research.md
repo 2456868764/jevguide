@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 49 | 18 | 32 | 136K |
+| 51 | 18 | 34 | 136K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Ash Paul</strong> · @pash22 · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/pash22/status/2103367100198765048">在 X 查看原帖</a> · <a href="https://t.co/qaHbiC6Zkz">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RyanAlynPorter/status/2103442896485568857"><img src="https://pbs.twimg.com/media/HTDuKF4WMAA2wvu?format=jpg&amp;name=medium" alt="Jev model found to have racial and nationality bias · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RyanAlynPorter/status/2103442896485568857">Jev model found to have racial and nationality bias</a></h3>
+<p>According to Ryan Porter&#39;s tests, the Jev model shows more bias on race and nationality than other decision models, topping the leaderboard as the most-biased model tested so far. The tests also compare Laya and Kev&#39;s biases on gender and religion.</p>
+<p><strong>中文摘要：</strong>Ryan Porter的测试显示，Jev模型在种族和国籍方面的偏见超过其他决策模型，成为迄今测试中最有偏见的模型。测试还比较了Laya和Kev在性别与宗教方面的偏见表现。</p>
+<p><strong>Ryan Porter</strong> · @RyanAlynPorter · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/RyanAlynPorter/status/2103442896485568857">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kabgaspard/status/2103451387036356931"><img src="https://pbs.twimg.com/media/HTD1YZbWoAAmrCu?format=jpg&amp;name=small" alt="Discussion and Research on Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kabgaspard/status/2103451387036356931">Discussion and Research on Jev Model</a></h3>
+<p>The author notes that while everyone is talking about Jev now, they have been using LLMs as classifiers in production workflows before it was cool, and believes Jev is both overhyped and underhyped, with mainstream labs still having a golden opportunity to win.</p>
+<p><strong>中文摘要：</strong>作者表示虽然现在大家都在谈论Jev，但他们早已在生产工作流中使用LLM作为分类器，并认为Jev既被过度炒作也被低估，主流实验室仍有获胜机会。</p>
+<p><strong>Kabalan Gaspard</strong> · @kabgaspard · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/kabgaspard/status/2103451387036356931">在 X 查看原帖</a> · <a href="https://t.co/hEmWz9Ca2P">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/dsmiley411/status/2102969386978234550"><img src="https://pbs.twimg.com/media/HS88Q7OaYAA15HV?format=jpg&amp;name=medium" alt="Testing Jev&#39;s Accuracy for Next Best Action Prediction · 原帖图片" width="100%"></a>

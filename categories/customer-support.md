@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 34 | 22 | 12 | 639K |
+| 36 | 23 | 13 | 639K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Rahatcodes/status/2103457737501733314"><img src="https://pbs.twimg.com/amplify_video_thumb/2103350676604547072/img/O9TaAKYhPc1xzXIp.jpg" alt="Jev Routes Live Call Center Inquiries · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Rahatcodes/status/2103457737501733314">Jev Routes Live Call Center Inquiries</a></h3>
+<p>A demo of a voice AI project built with LiveKit, showing how Jev quickly routes customer inquiries on a live call and applies real-time AI judgment to everything the caller says.</p>
+<p><strong>中文摘要：</strong>一个基于 LiveKit 构建的语音 AI 项目演示，展示 Jev 如何在实时通话中快速路由客户咨询，并对来电者所说的内容提供实时 AI 判断。</p>
+<p><strong>rahat</strong> · @Rahatcodes · 2026-09-25</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 267</p>
+<p><a href="https://x.com/Rahatcodes/status/2103457737501733314">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/WEBMARKS2/status/2103325568733417959"><img src="https://pbs.twimg.com/media/HTCDahSbMAAFiRy?format=jpg&amp;name=medium" alt="Jev by TypeSafe AI: Not a Writing AI, but a Sorter · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
 <p><a href="https://x.com/WEBMARKS2/status/2103325568733417959">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ajainvivek/status/2103282991799972047"><img src="https://pbs.twimg.com/amplify_video_thumb/2103282736278732800/img/kEYvJR8OgwqPNskp.jpg" alt="Jev vs Claude for Support: 46x Cheaper · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Ajain Vivek</strong> · @ajainvivek · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/ajainvivek/status/2103282991799972047">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/strickvl/status/2103477748442472559"><img src="https://pbs.twimg.com/media/HTEN3W0aQAAynV_?format=jpg&amp;name=medium" alt="Labeling Banking77 with Open-Jev 27B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/strickvl/status/2103477748442472559">Labeling Banking77 with Open-Jev 27B</a></h3>
+<p>The author used the Open-Jev 27B model to label 7,999 messages in the Banking77 dataset once, two student models learn from these labels, and 1,000 human answers are held out for evaluation.</p>
+<p><strong>中文摘要：</strong>作者使用Open-Jev 27B模型一次性标注了Banking77数据集中的7,999条消息，两个学生模型从这些标签中学习，并保留1,000条人工答案作为评估基准。</p>
+<p><strong>Alex Strick van Linschoten</strong> · @strickvl · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/strickvl/status/2103477748442472559">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

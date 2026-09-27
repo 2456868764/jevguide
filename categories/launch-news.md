@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 213 | 109 | 107 | 1.1M |
+| 219 | 112 | 110 | 1.1M |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/diamai_/status/2103422095245910198">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/whyweru/status/2103416727035916682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103232889487843328/img/A7InQpYQLsdHBSHw.jpg" alt="Jev-powered Magic 8 Ball · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/whyweru/status/2103416727035916682">Jev-powered Magic 8 Ball</a></h3>
+<p>This app lets you link a GitHub repo and ask any question, powered by Jev.</p>
+<p><strong>中文摘要：</strong>这个应用允许你链接GitHub仓库并提问，由Jev提供支持。</p>
+<p><strong>Felix Waweru</strong> · @whyweru · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 118</p>
+<p><a href="https://x.com/whyweru/status/2103416727035916682">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/kigyo_rirekisho/status/2103374264254734390"><img src="https://pbs.twimg.com/amplify_video_thumb/2103373988760371200/img/DiqKuKz3ajeObwJP.jpg" alt="TypeSafe AI Unveils Fast-Intuition Model Jev · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
 <p><a href="https://x.com/kigyo_rirekisho/status/2103374264254734390">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/melvindvivas/status/2103363962062635341"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2103332603973476352/pu/img/S0dBAw77TkiYU4DS.jpg" alt="NeoHorse-Jev-4B Released: A New Jev Alternative · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>Melvin Vivas</strong> · @melvindvivas · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 51</p>
 <p><a href="https://x.com/melvindvivas/status/2103363962062635341">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/papa_couch/status/2103439570402672874"><img src="https://pbs.twimg.com/amplify_video_thumb/2103434359982501888/img/LW8wTOvblPgZ_r4K.jpg" alt="Jev: The AI model that only decides, never writes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/papa_couch/status/2103439570402672874">Jev: The AI model that only decides, never writes</a></h3>
+<p>The person who helped build instruction-following models at OpenAI now runs TypeSafe, the lab behind Jev. Jev is a model that never writes a word—it only decides. He spent over two hours explaining why.</p>
+<p><strong>中文摘要：</strong>曾在OpenAI构建指令遵循模型的人现在运营TypeSafe实验室，推出Jev模型。该模型不生成任何文字，只做决策。他在发布后花了两个多小时解释原因。</p>
+<p><strong>Couch</strong> · @papa_couch · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><a href="https://x.com/papa_couch/status/2103439570402672874">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/getRecallAI/status/2103375741500973432"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2103375714393214976/pu/img/dH9s-neph5N-AGi6.jpg" alt="Jev: A Narrow AI Model for Fast, Structured Decisions in Apps · 原帖视频截图" width="100%"></a>
@@ -107,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/Tesla_Optimus_K/status/2103446558322917391"><img src="https://pbs.twimg.com/media/HTDxfUWaQAEAERg?format=jpg&amp;name=medium" alt="TypeSafe Jev: Built by Ex-OpenAI Researcher, Eliminates Hallucinations, Up to 200x Faster · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tesla_Optimus_K/status/2103446558322917391">TypeSafe Jev: Built by Ex-OpenAI Researcher, Eliminates Hallucinations, Up to 200x Faster</a></h3>
+<p>Introducing TypeSafe&#39;s Jev model, developed by a former OpenAI researcher, focused on eliminating hallucinations and delivering up to 200x speed improvements.</p>
+<p><strong>中文摘要：</strong>介绍TypeSafe的Jev模型，强调它由前OpenAI研究者开发，主打消除幻觉并将速度提升最高200倍。</p>
+<p><strong>Tesla_Optimus</strong> · @Tesla_Optimus_K · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/Tesla_Optimus_K/status/2103446558322917391">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Felix_Josemon/status/2103326464259355102"><img src="https://pbs.twimg.com/media/HTBwYpVaMAAHteu?format=png&amp;name=900x900" alt="Former OpenAI Researcher Launches TypeSafe AI with Jev Model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -117,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Felix_Josemon/status/2103326464259355102">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AxSaucedo/status/2103364095948787977"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2103364069348503552/pu/img/wsZCPxNJC3ceqVeE.jpg" alt="Jev: Taming Structured Outputs from LLMs · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +165,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/AxSaucedo/status/2103364095948787977">在 X 查看原帖</a> · <a href="https://t.co/10JlDYLMcp">原文链接</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/cleofasrocha_/status/2103453564572143829"><img src="https://pbs.twimg.com/media/HTD3y1xaYAEJTcv?format=jpg&amp;name=medium" alt="Open Source Jev-class Decision Engine System One Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cleofasrocha_/status/2103453564572143829">Open Source Jev-class Decision Engine System One Released</a></h3>
+<p>System One is an open-source Jev-class decision engine supporting choice/score/yes-no, with a single forward pass of ~33ms, 100+ languages, and a built-in router. No text generation, nothing to parse, nothing to hallucinate.</p>
+<p><strong>中文摘要：</strong>System One是一个开源的Jev级决策引擎，支持选择/评分/是非判断，单次前向传播约33毫秒，覆盖100多种语言，并内置路由器。不生成文本，无需解析，不会产生幻觉。</p>
+<p><strong>cleofas pereira rocha</strong> · @cleofasrocha_ · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/cleofasrocha_/status/2103453564572143829">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/memolithapp/status/2103467284316733865"><img src="https://pbs.twimg.com/media/HTEEWNmasAA9fY_?format=jpg&amp;name=medium" alt="Jev Early Access Launches: AI That Classifies Without Writing Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/memolithapp/status/2103467284316733865">Jev Early Access Launches: AI That Classifies Without Writing Text</a></h3>
+<p>Developed by former OpenAI researchers, Jev doesn&#39;t generate text. Instead, it returns one of the given options with a probability. For tasks like classification, it claims to be up to 200x faster than major AI. Early access has begun.</p>
+<p><strong>中文摘要：</strong>由前OpenAI研究者开发的Jev，不生成文本，而是从给定选项中以概率形式返回一个结果。据称在分类等任务上比主流AI快最多200倍。现已开始早期访问。</p>
+<p><strong>メモリス｜AIボイスメモ</strong> · @memolithapp · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/memolithapp/status/2103467284316733865">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/shib2_inu/status/2103429582288572686"><img src="https://pbs.twimg.com/media/HTDh-yMaYAAL4wW?format=jpg&amp;name=900x900" alt="A non-writing AI: Jev arrives next week, Kev follows · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/shib2_inu/status/2103429582288572686">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/albz_marocchino/status/2103366143759069228"><img src="https://pbs.twimg.com/media/HTCoXJRWQAAufCo?format=jpg&amp;name=medium" alt="Jev: TypeSafe&#39;s AI decision model · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +212,17 @@
 <p><strong>Alberto Marocchino</strong> · @albz_marocchino · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
 <p><a href="https://x.com/albz_marocchino/status/2103366143759069228">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/72FelipeBarreto/status/2103479915152589098"><img src="https://pbs.twimg.com/amplify_video_thumb/2103479621828120577/img/VZU3Z3CAAGdNbPjM.jpg" alt="JEV-Powered AI News Radar · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/72FelipeBarreto/status/2103479915152589098">JEV-Powered AI News Radar</a></h3>
+<p>Felipe Barreto ran 30,000+ news items, launches, and events through ~200,000 JEV calls to build a live radar for AI, models, agents, and tech, filtering noise and connecting what matters.</p>
+<p><strong>中文摘要：</strong>Felipe Barreto 通过约20万次JEV调用处理了3万+新闻、发布和事件，构建了一个针对AI、模型、智能体和科技的实时雷达，旨在过滤噪音、连接关键动态。</p>
+<p><strong>Felipe Barreto</strong> · @72FelipeBarreto · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/72FelipeBarreto/status/2103479915152589098">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

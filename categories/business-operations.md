@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 18 | 8 | 10 | 3.8M |
+| 20 | 9 | 11 | 3.8M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheLatentCo/status/2103415618087293118"><img src="https://pbs.twimg.com/media/HTDVWtAbUAAGEtX?format=jpg&amp;name=small" alt="TypeSafe AI in Talks to Raise Over $1B at $10B+ Valuation; Jev Model Developer Raised $40M Seed · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheLatentCo/status/2103415618087293118">TypeSafe AI in Talks to Raise Over $1B at $10B+ Valuation; Jev Model Developer Raised $40M Seed</a></h3>
+<p>According to The Information, TypeSafe AI is in talks to raise over $1 billion at a valuation exceeding $10 billion. The developer of the Jev model emerged from stealth last week with $40 million in seed financing, valuing it at $200 million.</p>
+<p><strong>中文摘要：</strong>据The Information报道，TypeSafe AI正洽谈以超过100亿美元估值筹集逾10亿美元资金。Jev模型开发者上周以4000万美元种子融资走出隐身，估值达2亿美元。</p>
+<p><strong>The Latent</strong> · @TheLatentCo · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 205</p>
+<p><a href="https://x.com/TheLatentCo/status/2103415618087293118">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VizuaraAI/status/2103440869517082938"><img src="https://pbs.twimg.com/tweet_video_thumb/HTDsTyVaQAA8R1B.jpg" alt="Jev and Safe ERP Execution in Vizuara’s Enterprise AI Agents Bootcamp · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VizuaraAI/status/2103440869517082938">Jev and Safe ERP Execution in Vizuara’s Enterprise AI Agents Bootcamp</a></h3>
+<p>The post highlights Vizuara’s enterprise AI agents bootcamp, where Dr. Rajat Dandekar explores Jev, LangGraph, permissions, human review, and safe ERP execution.</p>
+<p><strong>中文摘要：</strong>帖子介绍了Vizuara的企业AI智能体训练营，Rajat Dandekar博士在其中探讨Jev、LangGraph、权限、人工审核和安全ERP执行。</p>
+<p><strong>Vizuara</strong> · @VizuaraAI · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/VizuaraAI/status/2103440869517082938">在 X 查看原帖</a> · <a href="https://t.co/4Mi9ucSrul">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ojisan_aibaka/status/2102577791015510131"><img src="https://pbs.twimg.com/media/HS3a5aRaEAARhKJ?format=jpg&amp;name=medium" alt="LLM vs Jev: Model Selection for Factory Operations · 原帖图片" width="100%"></a>

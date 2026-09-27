@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 128 | 84 | 44 | 595K |
+| 138 | 93 | 45 | 595K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,54 @@
 <p><a href="https://x.com/jackcheng/status/2103281698305937693">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/rubenhassid/status/2103439381818409125"><img src="https://pbs.twimg.com/amplify_video_thumb/2103428243219197952/img/8CP7dpuiNM4G6m2X.jpg" alt="Jev helps you filter contacts from tens of thousands of LinkedIn connections · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rubenhassid/status/2103439381818409125">Jev helps you filter contacts from tens of thousands of LinkedIn connections</a></h3>
+<p>The author needs to screen hundreds of people from 38,000 LinkedIn connections, showing Jev in action and comparing with Claude/ChatGPT.</p>
+<p><strong>中文摘要：</strong>作者需要从 38000 个 LinkedIn 连接中筛选出数百人，展示了 Jev 在此场景下的应用，并提及与 Claude/ChatGPT 的对比。</p>
+<p><strong>Ruben Hassid</strong> · @rubenhassid · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.2K</p>
+<p><a href="https://x.com/rubenhassid/status/2103439381818409125">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/prasad_pilla/status/2103414563337289911"><img src="https://pbs.twimg.com/amplify_video_thumb/2102427217460592640/img/7xf4Suko5NTkpFVH.jpg" alt="Building a Recruitment Review Console with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/prasad_pilla/status/2103414563337289911">Building a Recruitment Review Console with Jev</a></h3>
+<p>The team built an internal review console using Jev to manage a massive pool of 4,000+ candidates at scale. Instead of generating another wall of text, Jev is designed for fast, structured output.</p>
+<p><strong>中文摘要：</strong>团队利用 Jev 构建内部审查控制台，在 4000+ 候选人的大规模人才库中高效筛选。Jev 不会生成新的文本墙，而是旨在提供快速、结构化的结果。</p>
+<p><strong>Prasad Pilla</strong> · @prasad_pilla · 2026-09-25</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 235</p>
+<p><a href="https://x.com/prasad_pilla/status/2103414563337289911">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xMorlex/status/2103476201268326705"><img src="https://pbs.twimg.com/media/HTEI6VWXQAE9_MA?format=jpg&amp;name=medium" alt="Wire Jev into the Opus Workflow for Faster Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xMorlex/status/2103476201268326705">Wire Jev into the Opus Workflow for Faster Decisions</a></h3>
+<p>Opus 5.5 feels slow. The author wired Jev into the loop so it stops wasting expensive reasoning on millisecond decisions, making the whole workflow feel 5x faster, with step 1 mapping where the model wastes effort.</p>
+<p><strong>中文摘要：</strong>Opus 5.5 运行缓慢，作者将 Jev 接入循环，避免在毫秒级决策上浪费昂贵推理，使整个工作流提速 5 倍，并给出了映射模型耗力环节的第一步。</p>
+<p><strong>Morlex</strong> · @0xMorlex · 2026-09-25</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 217</p>
+<p><a href="https://x.com/0xMorlex/status/2103476201268326705">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2103462791684178272"><img src="https://pbs.twimg.com/amplify_video_thumb/2103462734553583616/img/uqBFpA7lmeodzRPQ.jpg" alt="Jev + Grok Bot Powers a 24/7 Agent Desk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gippp69/status/2103462791684178272">Jev + Grok Bot Powers a 24/7 Agent Desk</a></h3>
+<p>Jev handles decisions, Grok Bot writes when needed, and humans see only critical items. Routes every event in 60–140ms across ignore, log, draft, or human.</p>
+<p><strong>中文摘要：</strong>Jev 负责决策，Grok Bot 按需写作，仅人工处理关键事项。每秒可在 60–140ms 内将事件路由至忽略、记录、草稿或人工。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-25</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 177</p>
+<p><a href="https://x.com/gippp69/status/2103462791684178272">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/BkashJosi/status/2103290701522043087"><img src="https://pbs.twimg.com/amplify_video_thumb/2100136353539465216/img/1tuXDujN-2wDysw_.jpg" alt="Automate unfinished agent work every morning with Hermes, Jev, and Omarchy · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -31,6 +79,54 @@
 <p><strong>Hermes Agent Super-Intel</strong> · @BkashJosi · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 129</p>
 <p><a href="https://x.com/BkashJosi/status/2103290701522043087">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arle0x/status/2103474664919978494"><img src="https://pbs.twimg.com/amplify_video_thumb/2103473637172928512/img/LxigAP0NEze7ERwI.jpg" alt="Jev + Opus 5.5 Workflow Optimization · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arle0x/status/2103474664919978494">Jev + Opus 5.5 Workflow Optimization</a></h3>
+<p>The author shares a workflow combining Jev with Opus 5.5, claiming ~80% reduction in cost and execution time, with tips like selecting relevant project notes and routing simple tasks.</p>
+<p><strong>中文摘要：</strong>作者分享将 Jev 与 Opus 5.5 结合使用的工作流，称可降低约 80% 成本和执行时间，并给出选择项目笔记、路由简单任务等技巧。</p>
+<p><strong>arle</strong> · @arle0x · 2026-09-25</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 102</p>
+<p><a href="https://x.com/arle0x/status/2103474664919978494">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yam2357/status/2103420578829140436"><img src="https://pbs.twimg.com/amplify_video_thumb/2103420544716775424/img/jztm2fI01b5kbHDd.jpg" alt="Copy-paste feature using Jev to determine formats · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yam2357/status/2103420578829140436">Copy-paste feature using Jev to determine formats</a></h3>
+<p>Based on the original post idea, Jev is used to judge the format of each item, realizing the copy-paste feature Japanese people want.</p>
+<p><strong>中文摘要：</strong>基于原帖思路，用Jev对每个项目进行格式判断，实现日本人想要的复制粘贴功能。</p>
+<p><strong>YAMADAI🌐AI×DXコンサル</strong> · @yam2357 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
+<p><a href="https://x.com/yam2357/status/2103420578829140436">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/victoor/status/2103414443069899151"><img src="https://pbs.twimg.com/amplify_video_thumb/2101475440577880065/img/Ee0hhRA3B7Ibp_tK.jpg" alt="Jev Makes Pasting Smart · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/victoor/status/2103414443069899151">Jev Makes Pasting Smart</a></h3>
+<p>A demo of Jev extracting resume content from the clipboard and automatically filling fields like name, email, and experience in an application form.</p>
+<p><strong>中文摘要：</strong>演示 Jev 从剪贴板中提取简历内容，并自动将姓名、电子邮件、经验等填入申请表对应字段。</p>
+<p><strong>Víctor Falcón</strong> · @victoor · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/victoor/status/2103414443069899151">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/altory_y/status/2103477992173297941"><img src="https://pbs.twimg.com/amplify_video_thumb/2103477917623660544/img/Ks-28oORbgV0thZm.jpg" alt="JEV + Opus 5.5 Cuts AI Workload by 80% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/altory_y/status/2103477992173297941">JEV + Opus 5.5 Cuts AI Workload by 80%</a></h3>
+<p>The author shares a workflow split: JEV handles quick decisions while Opus handles complex tasks, cutting AI workload by 80%.</p>
+<p><strong>中文摘要：</strong>作者分享使用 JEV 和 Opus 5.5 分工：Jev 处理快速决策，Opus 处理复杂任务，使 AI 工作量减少 80%。</p>
+<p><strong>ALTORY</strong> · @altory_y · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/altory_y/status/2103477992173297941">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -46,6 +142,19 @@
 <p><a href="https://x.com/wowinsight_rina/status/2103375994346447079">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/appodeepa/status/2103475447384375480"><img src="https://pbs.twimg.com/amplify_video_thumb/2103455832042332161/img/5Zg3BcsLwJ_j3s87.jpg" alt="Using Jev to Quickly Locate Web Elements · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/appodeepa/status/2103475447384375480">Using Jev to Quickly Locate Web Elements</a></h3>
+<p>A developer uses the Jev model to solve tricky web element selection, returning the correct target from DOM candidates in about 100ms, replacing fragile regexes and endless edge-case handling.</p>
+<p><strong>中文摘要：</strong>开发者利用Jev模型快速解决网页元素定位难题，100毫秒内从DOM候选中返回正确目标，替代复杂正则和大量边缘情况处理。</p>
+<p><strong>Mike</strong> · @appodeepa · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/appodeepa/status/2103475447384375480">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/yahvingali/status/2103379236828623257"><img src="https://pbs.twimg.com/amplify_video_thumb/2103379042603077632/img/DWKr0W3-bUBdYEWW.jpg" alt="Jev with Opus 5.5 Powers Phone Use Automation · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -55,6 +164,17 @@
 <p><strong>Yahvin G</strong> · @yahvingali · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/yahvingali/status/2103379236828623257">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BullseyeAiQc/status/2103447458269257840"><img src="https://pbs.twimg.com/amplify_video_thumb/2103447224113852416/img/wYttAG6guFXoQF36.jpg" alt="Jev Decision AI Shows High-Speed Form Processing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BullseyeAiQc/status/2103447458269257840">Jev Decision AI Shows High-Speed Form Processing</a></h3>
+<p>David Proulx demonstrates to Benoît Dutrizac how Jev decision AI handles forms at very high speed and improves public services.</p>
+<p><strong>中文摘要：</strong>David Proulx 向 Benoît Dutrizac 展示 Jev 决策 AI 如何高速处理表格，并改善公共服务效率。</p>
+<p><strong>Bullseye Ai - Qc</strong> · @BullseyeAiQc · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/BullseyeAiQc/status/2103447458269257840">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

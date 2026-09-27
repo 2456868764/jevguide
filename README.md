@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3215</strong><br>curated posts</td>
-<td align="center"><strong>1701</strong><br>original videos</td>
+<td align="center"><strong>3330</strong><br>curated posts</td>
+<td align="center"><strong>1767</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>387</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>419</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>370</strong> showcases · <strong>165</strong> videos</p>
+<p><strong>377</strong> showcases · <strong>167</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>341</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>351</strong> showcases · <strong>192</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>312</strong> showcases · <strong>122</strong> videos</p>
+<p><strong>317</strong> showcases · <strong>125</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>276</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>280</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>234</strong> showcases · <strong>128</strong> videos</p>
+<p><strong>241</strong> showcases · <strong>131</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>213</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>219</strong> showcases · <strong>112</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>199</strong> showcases · <strong>75</strong> videos</p>
+<p><strong>207</strong> showcases · <strong>78</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>154</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>159</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,54 +88,54 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>128</strong> showcases · <strong>84</strong> videos</p>
+<p><strong>138</strong> showcases · <strong>93</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>101</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>104</strong> showcases · <strong>84</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>77</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>82</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>76</strong> showcases · <strong>43</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>75</strong> showcases · <strong>42</strong> videos</p>
+<p><strong>78</strong> showcases · <strong>44</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>77</strong> showcases · <strong>44</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>49</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>51</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/customer-support.md">Customer support</a></h3>
+<p><sub>客户支持</sub></p>
+<p><strong>36</strong> showcases · <strong>23</strong> videos</p>
+<p><a href="categories/customer-support.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
 <p><strong>35</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/customer-support.md">Customer support</a></h3>
-<p><sub>客户支持</sub></p>
-<p><strong>34</strong> showcases · <strong>22</strong> videos</p>
-<p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
@@ -154,22 +154,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>21</strong> showcases · <strong>9</strong> videos</p>
+<p><strong>22</strong> showcases · <strong>9</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>19</strong> showcases · <strong>13</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>20</strong> showcases · <strong>9</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>18</strong> showcases · <strong>8</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>20</strong> showcases · <strong>14</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>12</strong> showcases · <strong>4</strong> videos</p>
+<p><strong>13</strong> showcases · <strong>4</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/rubenhassid/status/2103439381818409125"><img src="https://pbs.twimg.com/amplify_video_thumb/2103428243219197952/img/8CP7dpuiNM4G6m2X.jpg" alt="Jev helps you filter contacts from tens of thousands of LinkedIn connections · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rubenhassid/status/2103439381818409125">Jev helps you filter contacts from tens of thousands of LinkedIn connections</a></h3>
+<p>The author needs to screen hundreds of people from 38,000 LinkedIn connections, showing Jev in action and comparing with Claude/ChatGPT.</p>
+<p><strong>1.2K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.2K</p>
+<p><strong>Ruben Hassid</strong> · @rubenhassid</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/takashikiso/status/2103283252350124406"><img src="https://pbs.twimg.com/amplify_video_thumb/2102790070831042560/img/UvbpwlC4sazqc8Wo.jpg" alt="Sharing misreading correction with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/takashikiso/status/2103283252350124406">Sharing misreading correction with Jev</a></h3>
 <p>A user mentions that Jev can be used for misreading correction, says it seems ready to use, and expresses gratitude.</p>
 <p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.2K</p>
 <p><strong>木曽崇／Takashi Kiso</strong> · @takashikiso</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/Rana_kamran43/status/2103290155050405906"><img src="https://pbs.twimg.com/tweet_video_thumb/HTBjO_IX0AA9jhK.jpg" alt="JEV Analyzes 1,000 Leads in 9 Seconds · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Rana_kamran43/status/2103290155050405906">JEV Analyzes 1,000 Leads in 9 Seconds</a></h3>
-<p>Kamran Hassan notes JEV analyzes 1,000 leads in 9 seconds, highlighting message mismatch detection.</p>
-<p><strong>768</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 768</p>
-<p><strong>kamran Hassan</strong> · @Rana_kamran43</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Financial Times</strong> · @FT</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/Rana_kamran43/status/2103290155050405906"><img src="https://pbs.twimg.com/tweet_video_thumb/HTBjO_IX0AA9jhK.jpg" alt="JEV Analyzes 1,000 Leads in 9 Seconds · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Rana_kamran43/status/2103290155050405906">JEV Analyzes 1,000 Leads in 9 Seconds</a></h3>
-<p>Kamran Hassan notes JEV analyzes 1,000 leads in 9 seconds, highlighting message mismatch detection.</p>
-<p><strong>768</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 768</p>
-<p><strong>kamran Hassan</strong> · @Rana_kamran43</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/takashikiso/status/2103283252350124406"><img src="https://pbs.twimg.com/amplify_video_thumb/2102790070831042560/img/UvbpwlC4sazqc8Wo.jpg" alt="Sharing misreading correction with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/takashikiso/status/2103283252350124406">Sharing misreading correction with Jev</a></h3>
+<p>A user mentions that Jev can be used for misreading correction, says it seems ready to use, and expresses gratitude.</p>
+<p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.2K</p>
+<p><strong>木曽崇／Takashi Kiso</strong> · @takashikiso</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/sakatayasha/status/2103450194234789968"><img src="https://pbs.twimg.com/media/HTD0zNVbUAA62Eh?format=jpg&amp;name=medium" alt="Top 20 JEV projects to check out · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sakatayasha/status/2103450194234789968">Top 20 JEV projects to check out</a></h3>
+<p>This post lists 20 open-source projects built on the JEV model, covering browser agents, context compression, and more.</p>
+<p><strong>994</strong> views · 💬 6 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 994</p>
+<p><strong>Sakata</strong> · @sakatayasha</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/codewithimanshu/status/2103425824728969410"><img src="https://pbs.twimg.com/amplify_video_thumb/2103425799303086080/img/Q4T0ypAfwLrQDfcV.jpg" alt="JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/codewithimanshu/status/2103425824728969410">JEV Goes Viral in AI Trading, Developer Builds Automated Trading Bot</a></h3>
 <p>The post claims JEV is gaining traction in AI circles, with a Monad engineer already building a fully automated trading bot that reads MON/USDC price in real time.</p>
 <p><strong>679</strong> views · 💬 4 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 679</p>
 <p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2103299950247367003"><img src="https://pbs.twimg.com/media/HTBe64WaUAAkVRr?format=jpg&amp;name=medium" alt="Using Jev as a decision layer with evidence audit outside the LLM · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2103299950247367003">Using Jev as a decision layer with evidence audit outside the LLM</a></h3>
-<p>A developer shares adding a Jev decision layer outside the LLM to filter out repetitive, off-track, and low-return plans, then audit evidence each round to reduce time and token waste from agents heading in wrong directions, with a GitHub link.</p>
-<p><strong>287</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 287</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 </tr>
 </table>

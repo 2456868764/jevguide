@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 341 | 184 | 159 | 3.6M |
+| 351 | 192 | 161 | 3.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/QingQ77/status/2103426786017312838">在 X 查看原帖</a> · <a href="https://t.co/n8yxia7SMO">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/filip_hric/status/2103450014143947164"><img src="https://pbs.twimg.com/amplify_video_thumb/2103449793053732864/img/i4orsG4coZ7kX-7Z.jpg" alt="Jev + Playwright CLI is 98% cheaper and 2x faster than Playwright MCP · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/filip_hric/status/2103450014143947164">Jev + Playwright CLI is 98% cheaper and 2x faster than Playwright MCP</a></h3>
+<p>The author tests TypeSafe AI&#39;s Jev integrated with Playwright CLI, comparing it to Playwright MCP. For a fuzzy instruction like &#39;Create new board, list...&#39;, the Jev workflow is 98% cheaper and twice as fast.</p>
+<p><strong>中文摘要：</strong>作者测试了 TypeSafe AI 的 Jev 与 Playwright CLI 集成，并与 Playwright MCP 对比。在使用模糊指令（如“创建新看板，列出…”）时，Jev 方案成本降低98%，速度提升两倍。</p>
+<p><strong>Filip Hric</strong> · @filip_hric · 2026-09-25</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 114</p>
+<p><a href="https://x.com/filip_hric/status/2103450014143947164">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/jimmykoppel/status/2103308940947960203"><img src="https://pbs.twimg.com/amplify_video_thumb/2103308906252607488/img/bUVbm0omBZ0aTIhR.jpg" alt="Jev proves 140 theorems for under $1 · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -32,8 +45,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
 <p><a href="https://x.com/jimmykoppel/status/2103308940947960203">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/sector_sol/status/2103444866122293334"><img src="https://pbs.twimg.com/amplify_video_thumb/2103444747050168320/img/DoSgQ6_q_pvZp-MT.jpg" alt="HarnessRouter: Run Jev, Claude Code, and Codex from One API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sector_sol/status/2103444866122293334">HarnessRouter: Run Jev, Claude Code, and Codex from One API</a></h3>
+<p>HarnessRouter is a free, Apache-2.0 repo with 2.6K stars that lets you run 15 agent harnesses—including Jev, Claude Code, and Codex—behind a single endpoint. No account, cloud, or platform fee; run it locally with one Docker command. Supports System One powered by Jev.</p>
+<p><strong>中文摘要：</strong>HarnessRouter 是一个免费的开源仓库（Apache-2.0，2.6K stars），让你通过单个端点在本地运行 15 种 agent harness，包括 Jev、Claude Code 和 Codex。无需账户、云服务或平台费用，只需一条 Docker 命令。支持由 Jev 驱动的 System One。</p>
+<p><strong>SECTOR</strong> · @sector_sol · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 39</p>
+<p><a href="https://x.com/sector_sol/status/2103444866122293334">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sanemavcil/status/2103417861972566215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103177482845229056/img/r5Epi1OiPsx2Q_il.jpg" alt="JEV + Opus 5.5 Live Website Redesign Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sanemavcil/status/2103417861972566215">JEV + Opus 5.5 Live Website Redesign Demo</a></h3>
+<p>Demonstrates AI-powered live website redesign: paste a link, JEV makes layout/style decisions in ~0.1s, Opus 5.5 writes TSX and CSS, sections swap instantly, covering 8 sections of a 2015 hosting site.</p>
+<p><strong>中文摘要：</strong>演示AI驱动的网站实时重设计：粘贴链接后，JEV在约0.1秒内做出布局/样式决策，Opus 5.5编写TSX和CSS，分区即时替换，实例覆盖2015年托管网站的8个区块。</p>
+<p><strong>Sanem Avcil 🚀 Blockchain</strong> · @Sanemavcil · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/Sanemavcil/status/2103417861972566215">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ling65697_z/status/2103309060556902460"><img src="https://pbs.twimg.com/amplify_video_thumb/2103177482845229056/img/r5Epi1OiPsx2Q_il.jpg" alt="JEV + Opus Real-time Website Redesigner Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +80,32 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/ling65697_z/status/2103309060556902460">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/victoor/status/2103414467317133396"><img src="https://pbs.twimg.com/amplify_video_thumb/2101022081810911232/img/3tKdQ3Y2_ZGSg3Q7.jpg" alt="Jev makes generative UI 4x faster · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/victoor/status/2103414467317133396">Jev makes generative UI 4x faster</a></h3>
+<p>Víctor Falcón shows ctatedev combining json-render with Jev. With the same train ticket UI, the default model takes 3.68s vs Jev&#39;s 0.88s—about 4x faster, making generative UI practical.</p>
+<p><strong>中文摘要：</strong>Víctor Falcón展示ctatedev将json-render与Jev结合，在相同火车票UI上，默认模型耗时3.68秒，Jev仅0.88秒，提速约4倍，使生成式UI不再只是演示。</p>
+<p><strong>Víctor Falcón</strong> · @victoor · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/victoor/status/2103414467317133396">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xAIGOAT/status/2103469580807184713"><img src="https://pbs.twimg.com/amplify_video_thumb/2103427509316366336/img/De1hQEIYiiTB_xev.jpg" alt="Jev API simplifies AI output handling · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xAIGOAT/status/2103469580807184713">Jev API simplifies AI output handling</a></h3>
+<p>A single Jev call replaces hundreds of lines of JSON parsing, retry logic, and markdown-fence handlers, with claimed latency of 70ms and cost of $0.0004.</p>
+<p><strong>中文摘要：</strong>一次 Jev 调用即可替代数百行 JSON 解析、重试逻辑和 markdown 分隔符处理，官方称延迟低至 70ms，成本仅 0.0004 美元。</p>
+<p><strong>AI_GOAT</strong> · @0xAIGOAT · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/0xAIGOAT/status/2103469580807184713">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MishaAi333/status/2103291502617120794"><img src="https://pbs.twimg.com/amplify_video_thumb/2103291464528629760/img/OU0G4VLtL3Zykjee.jpg" alt="Jev is exploding on GitHub — start with these projects · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +116,41 @@
 <p><strong>Misha_Cripto</strong> · @MishaAi333 · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/MishaAi333/status/2103291502617120794">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jetwaniavinash/status/2103414618546655681"><img src="https://pbs.twimg.com/amplify_video_thumb/2103414509847097344/img/2yKTYR0OUyUHEo74.jpg" alt="Managing Coding Agent Memory with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jetwaniavinash/status/2103414618546655681">Managing Coding Agent Memory with Jev</a></h3>
+<p>The author runs Jev (about 0.3s per call) on every Claude Code message to decide what to remember, saving key decisions and bugs to JEVMEM.md, which is more efficient than using an LLM (about 3s).</p>
+<p><strong>中文摘要：</strong>作者在每次Claude Code消息中运行Jev（约0.3秒/次），用于判断值得记住的决策、bug等信息，并将结果保存到JEVMEM.md，比使用LLM（约3秒）更高效。</p>
+<p><strong>Jetwani Avinash</strong> · @jetwaniavinash · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/jetwaniavinash/status/2103414618546655681">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LuizGustavoWT/status/2103469651330207957"><img src="https://pbs.twimg.com/media/HTEGgGyawAAJtMv?format=jpg&amp;name=medium" alt="jev-gateway: Stop Wasting Tokens on Tool Selection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LuizGustavoWT/status/2103469651330207957">jev-gateway: Stop Wasting Tokens on Tool Selection</a></h3>
+<p>Developer @oviniciuslana built jev-gateway to efficiently select tools with Jev, avoiding the need to pass massive tool definitions to Claude or GPT on every request and cutting costs.</p>
+<p><strong>中文摘要：</strong>开发者 @oviniciuslana 创建了 jev-gateway，通过 Jev 高效选择工具，避免每次请求都向 Claude 或 GPT 传递大量工具定义，从而降低成本。</p>
+<p><strong>Luiz Gustavo | Ruralway</strong> · @LuizGustavoWT · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 13</p>
+<p><a href="https://x.com/LuizGustavoWT/status/2103469651330207957">在 X 查看原帖</a> · <a href="https://t.co/CjxwUf0SQF">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/qcfaya/status/2103435588817072431"><img src="https://pbs.twimg.com/media/HTDnUeIbcAAJ2zo?format=png&amp;name=900x900" alt="Quickly Build X Filter Chrome Extension with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/qcfaya/status/2103435588817072431">Quickly Build X Filter Chrome Extension with JEV</a></h3>
+<p>The author used JEV with vibe coding to instantly complete an X filter Chrome extension.</p>
+<p><strong>中文摘要：</strong>作者使用JEV通过vibe coding瞬间完成了X过滤器Chrome扩展的开发。</p>
+<p><strong>Qcfaya</strong> · @qcfaya · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/qcfaya/status/2103435588817072431">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -70,6 +166,19 @@
 <p><a href="https://x.com/media_aimatters/status/2103364636666192219">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/prIo_Ol/status/2103479500394967062"><img src="https://pbs.twimg.com/amplify_video_thumb/2103479476470325248/img/LM2DdMThfIhfSTkc.jpg" alt="jev-digest: Open-source MCP tool built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/prIo_Ol/status/2103479500394967062">jev-digest: Open-source MCP tool built on Jev</a></h3>
+<p>The author introduces jev-digest, an open-source MCP tool built on TypeSafe AI&#39;s Jev. It selects only the source passages that directly answer the question and returns them verbatim with sources. The author reports a 67% reduction in input tokens and half the tool rounds for a Codex research agent.</p>
+<p><strong>中文摘要：</strong>作者介绍了 jev-digest，一个基于 TypeSafe AI Jev 的开源 MCP 工具。它从文档中抽取与问题直接相关的原文段落并附上来源，作者称在 Codex 研究代理中减少了 67% 的输入 tokens 和一半的工具轮次。</p>
+<p><strong>gatorp</strong> · @prIo_Ol · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/prIo_Ol/status/2103479500394967062">在 X 查看原帖</a> · <a href="https://t.co/JcySRdELK7">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/OrionAdept/status/2103311934502441008"><img src="https://pbs.twimg.com/media/HTB3DnWbYAA9wiF?format=jpg&amp;name=medium" alt="JEV as a model router praised · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -79,6 +188,17 @@
 <p><strong>ORION</strong> · @OrionAdept · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/OrionAdept/status/2103311934502441008">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheRealDkat/status/2103479952892907812"><img src="https://pbs.twimg.com/amplify_video_thumb/2103479937365651456/img/if63NpADx0gYZmc9.jpg" alt="Use PromptQL with Jev model for tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheRealDkat/status/2103479952892907812">Use PromptQL with Jev model for tasks</a></h3>
+<p>A comment suggests using PromptQL directly, allowing tasks to run across multiple models including the cost-efficient Jev.</p>
+<p><strong>中文摘要：</strong>评论建议直接使用PromptQL，无需绑定单一模型，可通过调用包括高性价比Jev在内的多个模型完成任务。</p>
+<p><strong>David Kats</strong> · @TheRealDkat · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/TheRealDkat/status/2103479952892907812">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 199 | 75 | 124 | 419K |
+| 207 | 78 | 129 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sakatayasha/status/2103450194234789968"><img src="https://pbs.twimg.com/media/HTD0zNVbUAA62Eh?format=jpg&amp;name=medium" alt="Top 20 JEV projects to check out · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sakatayasha/status/2103450194234789968">Top 20 JEV projects to check out</a></h3>
+<p>This post lists 20 open-source projects built on the JEV model, covering browser agents, context compression, and more.</p>
+<p><strong>中文摘要：</strong>该帖子汇总了基于 JEV 模型的20个开源项目，包括浏览器智能体、上下文压缩等应用方向。</p>
+<p><strong>Sakata</strong> · @sakatayasha · 2026-09-25</p>
+<p>💬 6 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 994</p>
+<p><a href="https://x.com/sakatayasha/status/2103450194234789968">在 X 查看原帖</a> · <a href="https://t.co/fqpISTj0WT">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sankalpdomore/status/2103452363206033484"><img src="https://pbs.twimg.com/amplify_video_thumb/2103450213583396864/img/h1024U4emBgYwhFH.jpg" alt="Jev.Store: A Curated Hub of High-Quality Jev Projects and Resources · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sankalpdomore/status/2103452363206033484">Jev.Store: A Curated Hub of High-Quality Jev Projects and Resources</a></h3>
+<p>The author spent 48 hours building Jev.Store, a curated collection of genuinely high-quality projects and resources in the TypeSafe AI Jev ecosystem, aiming to inspire developers.</p>
+<p><strong>中文摘要：</strong>作者耗时48小时构建 Jev.Store，旨在汇总 TypeSafe AI 的 Jev 生态中真正高质量的项目与资源，为开发者提供灵感。</p>
+<p><strong>Sankalp Sinha (Left $15K+ MRR job to indiehack)</strong> · @sankalpdomore · 2026-09-25</p>
+<p>💬 3 &nbsp; 🔁 6 &nbsp; ♡ 18 &nbsp; 📊 721</p>
+<p><a href="https://x.com/sankalpdomore/status/2103452363206033484">在 X 查看原帖</a> · <a href="https://t.co/6rvbCXTB3W">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xwhrrari/status/2103469579095736803"><img src="https://pbs.twimg.com/media/HTD4hp2W0AAqwCz?format=png&amp;name=medium" alt="Jev Founder Releases PDF Guide on Building an LLM Routing Layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xwhrrari/status/2103469579095736803">Jev Founder Releases PDF Guide on Building an LLM Routing Layer</a></h3>
+<p>Jev founder Diogo Almeida released a 12-page PDF with a 10-step blueprint for building an LLM routing layer with Jev, aimed at optimizing model selection and cost without sacrificing quality on difficult tasks.</p>
+<p><strong>中文摘要：</strong>Jev创始人Diogo Almeida发布了一份12页PDF，提供使用Jev构建LLM路由层的10步蓝图，帮助在保证难任务质量的同时优化模型选择与成本。</p>
+<p><strong>rari</strong> · @0xwhrrari · 2026-09-25</p>
+<p>💬 8 &nbsp; 🔁 0 &nbsp; ♡ 29 &nbsp; 📊 392</p>
+<p><a href="https://x.com/0xwhrrari/status/2103469579095736803">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2103362362015199286"><img src="https://pbs.twimg.com/amplify_video_thumb/2103309542545031168/img/hYML6bYbWy4zcMAd.jpg" alt="20 open-source repos being built on Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>Mr. Buzzoni</strong> · @polydao · 2026-09-25</p>
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 290</p>
 <p><a href="https://x.com/polydao/status/2103362362015199286">在 X 查看原帖</a> · <a href="https://t.co/Zok9rkiZVx">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SolSt1ne/status/2103457540830888132"><img src="https://pbs.twimg.com/media/HTD7LrbW0AAffLj?format=jpg&amp;name=medium" alt="Jev founder releases 12-page PDF: 10-step guide to cut LLM costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SolSt1ne/status/2103457540830888132">Jev founder releases 12-page PDF: 10-step guide to cut LLM costs</a></h3>
+<p>Written by Jev founder Diogo Almeida, this guide offers a 10-step blueprint to make Claude, Codex, Grok or any other LLM 10x cheaper without losing quality.</p>
+<p><strong>中文摘要：</strong>该指南由Jev创始人Diogo Almeida撰写，提供10步蓝图，帮助开发者在不损失质量的前提下，让Claude、Codex、Grok或其他LLM的成本降低10倍。</p>
+<p><strong>st1ne</strong> · @SolSt1ne · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 289</p>
+<p><a href="https://x.com/SolSt1ne/status/2103457540830888132">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/taka_aki/status/2103297156472025304"><img src="https://pbs.twimg.com/media/HTBpnUUaYAAMtWo?format=jpg&amp;name=medium" alt="Testing Jev as an LLM Judge · 原帖图片" width="100%"></a>
@@ -35,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/hackernoon/status/2103474445213983083"><img src="https://pbs.twimg.com/media/HTEK3CFX0AAIMmb?format=jpg&amp;name=medium" alt="Build a Reply Co-Pilot on TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hackernoon/status/2103474445213983083">Build a Reply Co-Pilot on TypeSafe&#39;s Jev</a></h3>
+<p>Learn how to build a reply co-pilot using TypeSafe&#39;s Jev and deploy it on Cloudways Velocity.</p>
+<p><strong>中文摘要：</strong>学习如何使用 TypeSafe 的 Jev 构建回复 co-pilot，并将其部署在 Cloudways Velocity 上。</p>
+<p><strong>HackerNoon | Learn Any Technology</strong> · @hackernoon · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 245</p>
+<p><a href="https://x.com/hackernoon/status/2103474445213983083">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2103374944570912931"><img src="https://pbs.twimg.com/media/HTBnghoagAAjirt?format=jpg&amp;name=medium" alt="laya-server: Package Laya&#39;s structured judgment into a Docker API · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -45,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 153</p>
 <p><a href="https://x.com/QingQ77/status/2103374944570912931">在 X 查看原帖</a> · <a href="https://t.co/YHavILmOT1">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/josefandre_/status/2103370519580143858"><img src="https://pbs.twimg.com/media/HTCq5iEbwAA7GZZ?format=png&amp;name=medium" alt="What Can You Build with Jev, the Model That Doesn&#39;t Generate Text? · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,30 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 109</p>
 <p><a href="https://x.com/josefandre_/status/2103370519580143858">在 X 查看原帖</a> · <a href="https://t.co/ncXMcTvmMk">原文链接</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/kalyan_kpl/status/2103455972111143141"><img src="https://pbs.twimg.com/amplify_video_thumb/2103455938141388801/img/xrC6m8C6pGuDe2LX.jpg" alt="AnyJev: Turn any LLM into a Jev-style decision model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kalyan_kpl/status/2103455972111143141">AnyJev: Turn any LLM into a Jev-style decision model</a></h3>
+<p>An open-source project from Nokia Applied Research that turns any large language model into a Jev-style decision model, suitable for developers to explore and customize.</p>
+<p><strong>中文摘要：</strong>诺基亚应用研究发布的开源项目，可将任意大语言模型转换为Jev风格的决策模型，适合开发者探索与定制。</p>
+<p><strong>Kalyan KS</strong> · @kalyan_kpl · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
+<p><a href="https://x.com/kalyan_kpl/status/2103455972111143141">在 X 查看原帖</a> · <a href="https://t.co/Rd1cFPM7et">原文链接</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2103419263746744361"><img src="https://pbs.twimg.com/amplify_video_thumb/2103393386699063296/img/RfOW3dWNm9U8UR12.jpg" alt="Open-Source Jev Alternatives Collection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2103419263746744361">Open-Source Jev Alternatives Collection</a></h3>
+<p>The author is collecting open-source Jev alternatives appearing daily, curated on the open-source category page at madewithjev.com.</p>
+<p><strong>中文摘要：</strong>作者正在收集每日涌现的开源 Jev 替代方案，并整理在 madewithjev.com 的开源分类页面中。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/kraayenJon/status/2103419263746744361">在 X 查看原帖</a> · <a href="https://t.co/dn0CKHHC3V">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/BrainRevApp/status/2103282600307806227"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153701351731200/img/IGq_K7ab2eKOi-rM.jpg" alt="jev-model-router: Jev task router for Claude Code · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +151,19 @@
 <p><strong>かなめ｜個人開発</strong> · @BrainRevApp · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/BrainRevApp/status/2103282600307806227">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Machinelearrn/status/2103451322779615384"><img src="https://pbs.twimg.com/media/HTD1xx9W8AIZ57U?format=jpg&amp;name=medium" alt="Five Jev builds: cloud calls, local MacBook, 13ms encoder, browser agent, and calibration log · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Machinelearrn/status/2103451322779615384">Five Jev builds: cloud calls, local MacBook, 13ms encoder, browser agent, and calibration log</a></h3>
+<p>A rundown of five Jev builds with commands: cloud invocation, running Kev locally on a MacBook, the Laya encoder delivering results in 13 ms, a browser agent that searches for tickets in 7 seconds for $0.0039, and a log for calibration checks—all for under $1.</p>
+<p><strong>中文摘要：</strong>介绍五个 Jev 构建方案并附命令：包含云端调用、在 MacBook 上本地运行 Kev、13 毫秒得出结果的 Laya 编码器、7 秒内搜索到车票且花费 0.0039 美元的浏览器代理，以及用于校准检查的日志；全部总成本不到 1 美元。</p>
+<p><strong>Machine Learning</strong> · @Machinelearrn · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/Machinelearrn/status/2103451322779615384">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/bengkelkodecom/status/2103311201036030235"><img src="https://pbs.twimg.com/media/HTB2Y1baAAEB-gy?format=jpg&amp;name=medium" alt="Train your own Jev-style decision model · 原帖图片" width="100%"></a>

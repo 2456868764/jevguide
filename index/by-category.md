@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 387
-- [How it works](../categories/how-it-works.md) — 370
-- [Developer tools](../categories/developer-tools.md) — 341
-- [Access updates](../categories/access-updates.md) — 312
-- [Gaming](../categories/gaming.md) — 276
-- [Agents](../categories/agents.md) — 234
-- [Launch news](../categories/launch-news.md) — 213
-- [Developer resources](../categories/developer-resources.md) — 199
-- [Finance](../categories/finance.md) — 154
-- [Workflow automation](../categories/workflow-automation.md) — 128
-- [Marketing](../categories/marketing.md) — 101
-- [Content creation](../categories/content-creation.md) — 77
-- [Data analytics](../categories/data-analytics.md) — 76
-- [Knowledge & search](../categories/knowledge-search.md) — 75
-- [Scientific research](../categories/scientific-research.md) — 49
+- [Community builds](../categories/community-builds.md) — 419
+- [How it works](../categories/how-it-works.md) — 377
+- [Developer tools](../categories/developer-tools.md) — 351
+- [Access updates](../categories/access-updates.md) — 317
+- [Gaming](../categories/gaming.md) — 280
+- [Agents](../categories/agents.md) — 241
+- [Launch news](../categories/launch-news.md) — 219
+- [Developer resources](../categories/developer-resources.md) — 207
+- [Finance](../categories/finance.md) — 159
+- [Workflow automation](../categories/workflow-automation.md) — 138
+- [Marketing](../categories/marketing.md) — 104
+- [Content creation](../categories/content-creation.md) — 82
+- [Knowledge & search](../categories/knowledge-search.md) — 78
+- [Data analytics](../categories/data-analytics.md) — 77
+- [Scientific research](../categories/scientific-research.md) — 51
+- [Customer support](../categories/customer-support.md) — 36
 - [Robotics](../categories/robotics.md) — 35
-- [Customer support](../categories/customer-support.md) — 34
 - [Productivity](../categories/productivity.md) — 27
 - [Cybersecurity](../categories/cybersecurity.md) — 27
-- [Software development](../categories/software-development.md) — 21
-- [Healthcare](../categories/healthcare.md) — 19
-- [Business operations](../categories/business-operations.md) — 18
+- [Software development](../categories/software-development.md) — 22
+- [Business operations](../categories/business-operations.md) — 20
+- [Healthcare](../categories/healthcare.md) — 20
 - [Education](../categories/education.md) — 16
 - [E-commerce](../categories/e-commerce.md) — 14
-- [Legal & compliance](../categories/legal-compliance.md) — 12
+- [Legal & compliance](../categories/legal-compliance.md) — 13

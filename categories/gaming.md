@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 276 | 212 | 68 | 588K |
+| 280 | 215 | 69 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/izumisatoshi05/status/2103438227885703299"><img src="https://pbs.twimg.com/amplify_video_thumb/2103434761696165888/img/iJ1c7pAH3zZsXxzp.jpg" alt="Jev Magic FPS Evolves with Opus 5.5 and Procedural Magic · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/izumisatoshi05/status/2103438227885703299">Jev Magic FPS Evolves with Opus 5.5 and Procedural Magic</a></h3>
+<p>A magic FPS built on Jev. Opus 5.5 and procedural spell generation produce impressive toon-rendered graphics via self-improvement loops. Playable at the link; Edge recommended for voice recognition.</p>
+<p><strong>中文摘要：</strong>基于 Jev 的魔法 FPS。通过 Opus 5.5 和程序化魔法生成，配合自我改进循环，产出风格化卡通渲染画面。可在线游玩（语音识别建议使用 Edge 浏览器）。</p>
+<p><strong>Izumi Satoshi</strong> · @izumisatoshi05 · 2026-09-25</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 173</p>
+<p><a href="https://x.com/izumisatoshi05/status/2103438227885703299">在 X 查看原帖</a> · <a href="https://t.co/K2svsg4m08">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/intro_app__/status/2103364645818179894"><img src="https://pbs.twimg.com/media/HTCm_iUbgAA0O2j?format=jpg&amp;name=medium" alt="Jev AI powers correct-answer checks in Intro Quiz app · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>intro - イントロクイズ</strong> · @intro_app__ · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 113</p>
 <p><a href="https://x.com/intro_app__/status/2103364645818179894">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CodesSound/status/2103451269226725688"><img src="https://pbs.twimg.com/amplify_video_thumb/2103423432969072640/img/a1vtEhSdzQe8tOA6.jpg" alt="Colony Zero: A Survival Sim Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CodesSound/status/2103451269226725688">Colony Zero: A Survival Sim Powered by Jev</a></h3>
+<p>The developer shares Colony Zero, a survival sim where Jev powers each colonist&#39;s judgment calls in critical moments, with unique personality agents filling the map.</p>
+<p><strong>中文摘要：</strong>开发者分享了使用 Jev 作为核心判断组件的生存模拟游戏 Colony Zero，每个殖民者都由独特的个性智能体驱动，在危急时刻做出决策。</p>
+<p><strong>Shantanav mukherjee</strong> · @CodesSound · 2026-09-25</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 67</p>
+<p><a href="https://x.com/CodesSound/status/2103451269226725688">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/oguressive/status/2103364981697966381"><img src="https://pbs.twimg.com/amplify_video_thumb/2103360155547308032/img/Z7eZNnsXZCJOhuXi.jpg" alt="Made an Othello game with Jev · 原帖视频截图" width="100%"></a>
@@ -44,6 +68,30 @@
 <p><strong>n0geegee</strong> · @Liquid_Hwite · 2026-09-25</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Liquid_Hwite/status/2103357742916178078">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PandeyKart27234/status/2103414203604422985"><img src="https://pbs.twimg.com/media/HTCdFdQbkAENfZv?format=jpg&amp;name=medium" alt="Jev beats Laya at Snake: 6ms vs 161ms latency, 100% accuracy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PandeyKart27234/status/2103414203604422985">Jev beats Laya at Snake: 6ms vs 161ms latency, 100% accuracy</a></h3>
+<p>In a Snake game benchmark, TypeSafe&#39;s Jev model outperforms Laya with 6ms latency and 100% accuracy on 1,536 bulk decisions, being 4-11x faster, while Laya achieves only 82%.</p>
+<p><strong>中文摘要：</strong>在贪吃蛇游戏基准测试中，TypeSafe的Jev模型以6ms延迟和100%准确率完成1536次批量决策，速度是Laya的4-11倍，而Laya准确率仅为82%。</p>
+<p><strong>Kartikey Pandey</strong> · @PandeyKart27234 · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/PandeyKart27234/status/2103414203604422985">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Tugrul_Guner/status/2103481396027142162"><img src="https://pbs.twimg.com/amplify_video_thumb/2103481012231479296/img/_QZZJnnH8_l_IqUA.jpg" alt="Building LifePot: An Ecosystem Game Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Tugrul_Guner/status/2103481396027142162">Building LifePot: An Ecosystem Game Powered by Jev</a></h3>
+<p>Describe an ecosystem in plain English; Jev turns your input into species, feeding relationships, and environmental rules, simulating feeding, reproduction, inherited traits, and death.</p>
+<p><strong>中文摘要：</strong>用简单英语描述一个生态系统，Jev 将输入转化为物种、捕食关系和环境规则，模拟进食、繁殖、遗传与死亡。</p>
+<p><strong>Tugrul Guner</strong> · @Tugrul_Guner · 2026-09-25</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Tugrul_Guner/status/2103481396027142162">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/browser_use/status/2102980499614658580"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Luna plans, Jev acts: AI agent wins at poker · 原帖视频截图" width="100%"></a>

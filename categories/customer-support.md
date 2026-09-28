@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 39 | 25 | 14 | 639K |
+| 41 | 25 | 16 | 639K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>【公式】Jinba | AIエージェント開発</strong> · @jinbaflow_JP · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
 <p><a href="https://x.com/jinbaflow_JP/status/2104450409960296535">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AKadry99/status/2104504466103767527"><img src="https://pbs.twimg.com/media/HTSzEgIWYAA7lee?format=jpg&amp;name=medium" alt="Jev model: sorting 100K support tickets costs ~$2 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AKadry99/status/2104504466103767527">Jev model: sorting 100K support tickets costs ~$2</a></h3>
+<p>TypeSafe&#39;s Jev doesn&#39;t write text; it reads a ticket and returns typed answers: team, urgency, anger level, each with a probability, in one call.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的 Jev 模型不生成文本，而是读取工单并返回结构化结果：所属团队、是否紧急、用户情绪及其概率，单次调用即可完成分类。</p>
+<p><strong>Ahmed Mohammed</strong> · @AKadry99 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/AKadry99/status/2104504466103767527">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rahulsyncs/status/2104505454877720680"><img src="https://pbs.twimg.com/media/HTS0jRmagAAwMFs?format=jpg&amp;name=medium" alt="Jev powers support bots with fast decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rahulsyncs/status/2104505454877720680">Jev powers support bots with fast decisions</a></h3>
+<p>The post notes support bots can use Jev to return fast, structured decisions—such as whether a customer wants a human—so the backend can act on the first request and queue an agent on the second, instead of repeatedly apologising.</p>
+<p><strong>中文摘要：</strong>帖子指出支持机器人可利用 Jev 快速输出结构化决策（如客户是否需要人工），后端可在首次请求时尝试自助解决，第二次再排队转接人工，从而取代反复道歉。</p>
+<p><strong>Rahul Ranjan</strong> · @rahulsyncs · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/rahulsyncs/status/2104505454877720680">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Pritamchak001/status/2104522809108230346"><img src="https://pbs.twimg.com/media/HTTD8ydaAAE7MZw?format=jpg&amp;name=900x900" alt="JEV session shows support ticket classification 14x faster than GPT-5 · 原帖图片" width="100%"></a>

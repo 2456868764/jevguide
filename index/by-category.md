@@ -1,26 +1,26 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 514
-- [How it works](../categories/how-it-works.md) — 399
-- [Developer tools](../categories/developer-tools.md) — 375
-- [Access updates](../categories/access-updates.md) — 329
-- [Gaming](../categories/gaming.md) — 298
-- [Agents](../categories/agents.md) — 269
-- [Launch news](../categories/launch-news.md) — 248
+- [Community builds](../categories/community-builds.md) — 521
+- [How it works](../categories/how-it-works.md) — 400
+- [Developer tools](../categories/developer-tools.md) — 381
+- [Access updates](../categories/access-updates.md) — 331
+- [Gaming](../categories/gaming.md) — 300
+- [Agents](../categories/agents.md) — 270
+- [Launch news](../categories/launch-news.md) — 252
 - [Developer resources](../categories/developer-resources.md) — 237
-- [Finance](../categories/finance.md) — 179
-- [Workflow automation](../categories/workflow-automation.md) — 159
+- [Finance](../categories/finance.md) — 181
+- [Workflow automation](../categories/workflow-automation.md) — 160
 - [Marketing](../categories/marketing.md) — 108
 - [Content creation](../categories/content-creation.md) — 89
+- [Knowledge & search](../categories/knowledge-search.md) — 83
 - [Data analytics](../categories/data-analytics.md) — 82
-- [Knowledge & search](../categories/knowledge-search.md) — 80
 - [Scientific research](../categories/scientific-research.md) — 57
-- [Customer support](../categories/customer-support.md) — 39
+- [Customer support](../categories/customer-support.md) — 41
 - [Robotics](../categories/robotics.md) — 36
 - [Cybersecurity](../categories/cybersecurity.md) — 34
 - [Productivity](../categories/productivity.md) — 28
 - [Software development](../categories/software-development.md) — 27
-- [Business operations](../categories/business-operations.md) — 22
+- [Business operations](../categories/business-operations.md) — 23
 - [Healthcare](../categories/healthcare.md) — 20
 - [Education](../categories/education.md) — 17
 - [E-commerce](../categories/e-commerce.md) — 16

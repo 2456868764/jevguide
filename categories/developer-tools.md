@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 375 | 205 | 172 | 3.6M |
+| 381 | 208 | 175 | 3.6M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/humancoders/status/2104531577023701464"><img src="https://pbs.twimg.com/media/HTTMUELWcAAw0Sh?format=png&amp;name=medium" alt="Laya vs TypeSafe Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/humancoders/status/2104531577023701464">Laya vs TypeSafe Jev</a></h3>
+<p>Human Coders published a benchmark of the Laya decision model against TypeSafe Jev across 51 languages, comparing accuracy, calibration, speed, and routing cost.</p>
+<p><strong>中文摘要：</strong>Human Coders发布了Laya决策模型的评测，将其与TypeSafe Jev在51种语言上对比精度、校准、速度和路由成本。</p>
+<p><strong>Human Coders</strong> · @humancoders · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 65</p>
+<p><a href="https://x.com/humancoders/status/2104531577023701464">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ziyacivan/status/2104511155423105396"><img src="https://pbs.twimg.com/media/HTS5u8_XwAAzOa5?format=jpg&amp;name=medium" alt="Jev Model Dynamically Assesses Task Complexity · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ziyacivan/status/2104511155423105396">Jev Model Dynamically Assesses Task Complexity</a></h3>
+<p>The post notes that Claude Code&#39;s session-level effort setting is inflexible, and introduces reflex-router using Jev to score at the start of each task for appropriate thinking effort.</p>
+<p><strong>中文摘要：</strong>帖子指出 Claude Code 的会话级单一 effort 设置不够灵活，并介绍 reflex-router 使用 Jev 在每个任务开始时评分，以分配合适的思考量。</p>
+<p><strong>ziya</strong> · @ziyacivan · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/ziyacivan/status/2104511155423105396">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xLogicrw/status/2104522137549828527"><img src="https://pbs.twimg.com/media/HTTDt9ybMAAG6mP?format=jpg&amp;name=medium" alt="Jevgrep: An Open-Source Research Tool for Coding Agents to Locate Code · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -59,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/bendikdev/status/2104536468626493914"><img src="https://pbs.twimg.com/amplify_video_thumb/2104535519392587776/img/cC0bYHHe4d7Ta3QR.jpg" alt="Open-sourced code search built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bendikdev/status/2104536468626493914">Open-sourced code search built on Jev</a></h3>
+<p>The author shares benchmarking experience with TypeSafe&#39;s Jev model and announces open-sourcing their code search tool, built on Jev, which performs well on large real-world codebases.</p>
+<p><strong>中文摘要：</strong>作者分享了使用TypeSafe Jev模型进行基准测试的经历，并宣布开源他们的代码搜索工具，该工具基于Jev构建，在大型真实代码库上表现良好。</p>
+<p><strong>Bendik Nyheim</strong> · @bendikdev · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 15</p>
+<p><a href="https://x.com/bendikdev/status/2104536468626493914">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/aigeeknews/status/2104411903976186070"><img src="https://pbs.twimg.com/amplify_video_thumb/2104411812779503616/img/0Lk2eHi5xFvYhQfS.jpg" alt="OpenJev-Fast: 6x Faster Inference for Open-Jev-27B · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -69,6 +104,32 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/aigeeknews/status/2104411903976186070">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bendikdev/status/2104537487804678214"><img src="https://pbs.twimg.com/amplify_video_thumb/2104536821023580160/img/VslgzDQFb8It3cAm.jpg" alt="Open-sourced code search optimization built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bendikdev/status/2104537487804678214">Open-sourced code search optimization built on Jev</a></h3>
+<p>The author shares a code search optimization built on TypeSafe AI&#39;s Jev, making their agent ~7% cheaper and ~10% faster on real questions about a large codebase while maintaining answer quality, now open-sourced.</p>
+<p><strong>中文摘要：</strong>作者分享基于 TypeSafe AI 的 Jev 构建的代码搜索优化，使 agent 成本降低约7%，速度提升约10%，同时保持答案质量，并已开源。</p>
+<p><strong>Bendik Nyheim</strong> · @bendikdev · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/bendikdev/status/2104537487804678214">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fayjason69/status/2104532369021796845"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501611842965504/img/Au5IkYoAdEvlSAPZ.jpg" alt="Jevulon VII Saves Token Costs and Speeds Up Work for Jev Users · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fayjason69/status/2104532369021796845">Jevulon VII Saves Token Costs and Speeds Up Work for Jev Users</a></h3>
+<p>Promotes Jevulon VII, claiming it saves users of system-1 models like Jev and Drex about $10,000 per week on tokens and speeds up their work.</p>
+<p><strong>中文摘要：</strong>宣传 Jevulon VII，称可为使用 system-1 模型（如 Jev、Drex）的用户每周节省约 10,000 美元的 token 费用，并提升工作效率。</p>
+<p><strong>Jason Fay</strong> · @fayjason69 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/fayjason69/status/2104532369021796845">在 X 查看原帖</a> · <a href="https://t.co/Ji0vcv0w64">原文链接</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HarryTandy/status/2104190663126401315"><img src="https://pbs.twimg.com/amplify_video_thumb/2104161326490693632/img/xiSmVn81ctxN4o1h.jpg" alt="Demonstrating Gated Decision Points in Jev Agent Flows · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 281</p>
 <p><a href="https://x.com/HarryTandy/status/2104190663126401315">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hahwul/status/2104053715753959889"><img src="https://pbs.twimg.com/media/HTMZMk7agAAPdHy?format=jpg&amp;name=medium" alt="Ollaya: A Local Alternative to Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 163</p>
 <p><a href="https://x.com/hahwul/status/2104053715753959889">在 X 查看原帖</a> · <a href="https://t.co/Dtw15wrQGo">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iluciddreaming/status/2104124387683385471"><img src="https://pbs.twimg.com/media/HTNZ-v8bUAAoiei?format=jpg&amp;name=medium" alt="Jev Model Pricing and Free Gateway Discussion · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
 <p><a href="https://x.com/iluciddreaming/status/2104124387683385471">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/adriancortexbt/status/2104239550184738997"><img src="https://pbs.twimg.com/amplify_video_thumb/2104238565274034176/img/Hd7du9fOY34oRJUa.jpg" alt="TypeSafe Jev: 1,000 Decisions for $0.42 · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 75</p>
 <p><a href="https://x.com/adriancortexbt/status/2104239550184738997">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jimmy_longbow_/status/2104077960945017309"><img src="https://pbs.twimg.com/amplify_video_thumb/2103914409747996674/img/_bKCc6sOaf8jDIXp.jpg" alt="jevgrep: Repository Q&amp;A Tool for Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
 <p><a href="https://x.com/jimmy_longbow_/status/2104077960945017309">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SHO_A/status/2104037057249095966"><img src="https://pbs.twimg.com/amplify_video_thumb/2103610863605465088/img/lK7ZN1DaY0BqErJw.jpg" alt="OpenRouter launches Jev Router: Smart routing of AI models and reasoning effort · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 44</p>
 <p><a href="https://x.com/SHO_A/status/2104037057249095966">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rlaope/status/2104098591308431450"><img src="https://pbs.twimg.com/tweet_video_thumb/HTNB3FhbsAAgOfT.jpg" alt="jeval: Confidence Evaluation and Model Drift Detection from Jev Logs · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 30</p>
 <p><a href="https://x.com/rlaope/status/2104098591308431450">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kia_kkk2004/status/2104094957988372856"><img src="https://pbs.twimg.com/media/HTM_M-xWEAAGaoT?format=jpg&amp;name=medium" alt="A local runner for Jev-style decision models · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +223,19 @@
 <p><strong>nokia</strong> · @Kia_kkk2004 · 2026-09-27</p>
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 29</p>
 <p><a href="https://x.com/Kia_kkk2004/status/2104094957988372856">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ChrisEmmanuelK1/status/2104121299681337635"><img src="https://pbs.twimg.com/media/HTLnFjlWgAARARG?format=jpg&amp;name=medium" alt="Jev as an AI model router · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChrisEmmanuelK1/status/2104121299681337635">Jev as an AI model router</a></h3>
+<p>The post notes that the team already uses Jev inside unhardcoded as a router that automatically picks the cheapest frontier model based on the task type, replacing manually hardcoding the best model each month.</p>
+<p><strong>中文摘要：</strong>该帖指出团队已在unhardcoded产品中集成Jev，用于根据任务类型自动选择最经济的前沿模型，替代每月手动指定最佳模型的方式。</p>
+<p><strong>CREEIS</strong> · @ChrisEmmanuelK1 · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/ChrisEmmanuelK1/status/2104121299681337635">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/aximox_cc/status/2104120591083307128"><img src="https://pbs.twimg.com/media/HTNWaC7asAA6wEA?format=png&amp;name=medium" alt="Running Jev experiments with Cloudflare AI Gateway, focusing on costs · 原帖图片" width="100%"></a>

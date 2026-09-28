@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 298 | 228 | 74 | 588K |
+| 300 | 229 | 75 | 588K |
 
 ## Showcase 卡片
 
@@ -68,6 +68,30 @@
 <p><strong>Blake Edwards</strong> · @bitstream_blake · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/bitstream_blake/status/2104365664052101608">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ghtght_7/status/2104504002906116331"><img src="https://pbs.twimg.com/amplify_video_thumb/2104454169449164801/img/A8EPth03gIEjeE_Z.jpg" alt="Jev survives ~10 moves in chess game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ghtght_7/status/2104504002906116331">Jev survives ~10 moves in chess game</a></h3>
+<p>The post says Jev picks one legal move per turn and survived about 10 moves against Pikafish in chess.</p>
+<p><strong>中文摘要：</strong>原帖称 Jev 下棋时每回合从所有合法走法中选一步，在与 Pikafish 的对局中存活了约10步。</p>
+<p><strong>ghtght</strong> · @ghtght_7 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/ghtght_7/status/2104504002906116331">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/furoku/status/2104529248136368358"><img src="https://pbs.twimg.com/media/HTTKIjcbgAA1P3q?format=jpg&amp;name=large" alt="Dark Labyrinth Game &#39;The Only Way Out&#39; Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/furoku/status/2104529248136368358">Dark Labyrinth Game &#39;The Only Way Out&#39; Powered by Jev</a></h3>
+<p>Mojofull showcases a dark labyrinth game &#39;The Only Way Out&#39; powered by Jev, with new BYOK support letting users plug in their own TypeSafe API key stored locally in the browser, never in the database.</p>
+<p><strong>中文摘要：</strong>Mojofull展示了使用Jev构建的暗黑迷宫游戏《The Only Way Out》，并新增BYOK支持，用户可在浏览器本地输入自己的TypeSafe API密钥，不会存入数据库。</p>
+<p><strong>Mojofull</strong> · @furoku · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/furoku/status/2104529248136368358">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="Jev clears Pokémon Red · 原帖视频截图" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 248 | 123 | 128 | 1.1M |
+| 252 | 125 | 130 | 1.1M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 9 &nbsp; ♡ 12 &nbsp; 📊 5.1K</p>
 <p><a href="https://x.com/gigazine/status/2104426195479650507">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rvaniaaaa/status/2104503946962174356"><img src="https://pbs.twimg.com/amplify_video_thumb/2104503905245691904/img/ewCV5f_jcG7E0slF.jpg" alt="TypeSafe AI launches Jev: a model that can&#39;t write, only outputs probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rvaniaaaa/status/2104503946962174356">TypeSafe AI launches Jev: a model that can&#39;t write, only outputs probabilities</a></h3>
+<p>The post questions why we pay a language model for yes/no answers, and mentions TypeSafe AI launched Jev on September 15, 2026: it can&#39;t write a word, takes state and typed questions, and outputs a probability for every valid answer.</p>
+<p><strong>中文摘要：</strong>原帖质疑为何要用语言模型回答是否类问题，并提到 TypeSafe AI 于 2026 年 9 月 15 日发布 Jev：它不能生成文字，输入状态和类型化问题后，会为每个有效答案输出概率。</p>
+<p><strong>rvaniaaa</strong> · @rvaniaaaa · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 18 &nbsp; 📊 430</p>
+<p><a href="https://x.com/rvaniaaaa/status/2104503946962174356">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Synxneuos/status/2104509033051013425"><img src="https://pbs.twimg.com/amplify_video_thumb/2104506720294973440/img/Bwx4dCs_HmhkQXUK.jpg" alt="Jev Brain Launch Window Opens Tomorrow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Synxneuos/status/2104509033051013425">Jev Brain Launch Window Opens Tomorrow</a></h3>
+<p>Jev Brain announces launch window: hold the token to earn hourly inference credits, unused credits can be traded on P2P market.</p>
+<p><strong>中文摘要：</strong>Jev Brain 公布发布窗口：持有指定代币获取推理积分，未使用的积分可在 P2P 市场交易。</p>
+<p><strong>Syn (spirit/acc)</strong> · @Synxneuos · 2026-09-28</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 198</p>
+<p><a href="https://x.com/Synxneuos/status/2104509033051013425">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/niaoshu/status/2104520489867919382"><img src="https://pbs.twimg.com/media/HTTCJ6NacAAPgMN?format=jpg&amp;name=medium" alt="JEV Model Registration Reopens · 原帖图片" width="100%"></a>
@@ -94,6 +118,19 @@
 <p><a href="https://x.com/AIFrontPage_Com/status/2104517609475739731">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/joseleonserna/status/2104510061875794115"><img src="https://pbs.twimg.com/media/HTS4DCyWUAAbrP6?format=jpg&amp;name=medium" alt="Completa Studio for Jira and JSM submitted to Atlassian Marketplace · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joseleonserna/status/2104510061875794115">Completa Studio for Jira and JSM submitted to Atlassian Marketplace</a></h3>
+<p>José León Serna announces the submission of Completa Studio to the Atlassian Marketplace. The plugin uses Jev from TypeSafe to require complete ticket details before submission, reducing workflow disruption caused by incomplete tickets.</p>
+<p><strong>中文摘要：</strong>José León Serna宣布将Completa Studio提交至Atlassian Marketplace，该插件利用TypeSafe的Jev模型确保每个工单细节在提交前完整，减少不完整工单对支持与开发流程的干扰。</p>
+<p><strong>José León Serna</strong> · @joseleonserna · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/joseleonserna/status/2104510061875794115">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/KevinLourd/status/2104518217373003844"><img src="https://pbs.twimg.com/amplify_video_thumb/2104518158283591680/img/TopZmQ2mSwWVgEr0.jpg" alt="Jev AI Model Gets First Field Test · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -103,6 +140,17 @@
 <p><strong>Kevin Lourd</strong> · @KevinLourd · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/KevinLourd/status/2104518217373003844">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/o_product/status/2104511546047234385"><img src="https://pbs.twimg.com/media/HTS6GVhaUAAtEAV?format=jpg&amp;name=medium" alt="FlashLabs Begins Offering TypeSafe Decision Model Jev 1.13 via OrcaRouter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/o_product/status/2104511546047234385">FlashLabs Begins Offering TypeSafe Decision Model Jev 1.13 via OrcaRouter</a></h3>
+<p>FlashLabs announced that it will provide the decision-specialized AI model Jev 1.13 via OrcaRouter starting September 24. The model returns JSON results for three types of questions; 175 ms is a limited p50 measurement cited by the announcer.</p>
+<p><strong>中文摘要：</strong>FlashLabs宣布从9月24日起通过OrcaRouter提供判断特化AI模型Jev 1.13。该模型针对3类问题返回JSON结果，175毫秒为发布方限定的p50测量值。</p>
+<p><strong>O!Product｜AI・IT・DXサービスの最新トレンド</strong> · @o_product · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/o_product/status/2104511546047234385">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 329 | 129 | 200 | 802K |
+| 331 | 131 | 200 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RequestyAI/status/2104511430531686555"><img src="https://pbs.twimg.com/amplify_video_thumb/2104511199324909568/img/Vqp-kxxpwGYq8zau.jpg" alt="Jev model adoption growing on Requesty · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RequestyAI/status/2104511430531686555">Jev model adoption growing on Requesty</a></h3>
+<p>Requesty reports that TypeSafe&#39;s Jev decision model adoption among active orgs rose from 1.2% on Sep 18 to 4.0% on Sep 28, roughly 1 in 25 orgs, with integration just one model string away.</p>
+<p><strong>中文摘要：</strong>Requesty公布数据，TypeSafe的Jev决策模型在活跃组织中的采用率从9月18日的1.2%上升至28日的4.0%，约每25个组织中就有1个使用，接入仅需一行模型字符串。</p>
+<p><strong>Requesty</strong> · @RequestyAI · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 54</p>
+<p><a href="https://x.com/RequestyAI/status/2104511430531686555">在 X 查看原帖</a> · <a href="https://t.co/Ln4FC4Pgd9">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/boyang_xie/status/2104365185419137316"><img src="https://pbs.twimg.com/amplify_video_thumb/2104364961216757760/img/0CDvA8eXeRfhTRvP.jpg" alt="Reqoto integrates Jev to judge tweets worth replying to · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/boyang_xie/status/2104365185419137316">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LifeGit/status/2104434259301994541"><img src="https://pbs.twimg.com/media/HTRzsORboAE30cB?format=png&amp;name=900x900" alt="Using Jev via Cloudflare AI Gateway · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>熊掌｜AI 出海增长</strong> · @LifeGit · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/LifeGit/status/2104434259301994541">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pandannzo/status/2104536842033127884"><img src="https://pbs.twimg.com/amplify_video_thumb/2104536787783974912/img/ctRIsaA8bPGMpC9V.jpg" alt="Quick Decision: An OpenClip Extension Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pandannzo/status/2104536842033127884">Quick Decision: An OpenClip Extension Powered by Jev</a></h3>
+<p>Ganesh M built Quick Decision, an OpenClip extension powered by Jev from TypeSafe AI. It gives you one-click confidence to &quot;send&quot; or &quot;rethink&quot; before you hit send in Slack, Mail, and anywhere on your Mac.</p>
+<p><strong>中文摘要：</strong>Ganesh M 构建了 Quick Decision，一个由 TypeSafe AI 的 Jev 模型驱动的 OpenClip 扩展。它可以在 Slack、Mail 等 Mac 应用发送前，一键提示“发送”或“重新考虑”的置信度。</p>
+<p><strong>Ganesh M</strong> · @pandannzo · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/pandannzo/status/2104536842033127884">在 X 查看原帖</a> · <a href="https://t.co/gIMgNN0tUl">原文链接</a></p>
 </td>
 </tr>
 <tr>

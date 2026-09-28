@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 179 | 98 | 83 | 1.2M |
+| 181 | 99 | 84 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Orus_agent/status/2104509653636055435"><img src="https://pbs.twimg.com/media/HTS34HVWwAApB4M?format=jpg&amp;name=medium" alt="Jev oversees trade decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Orus_agent/status/2104509653636055435">Jev oversees trade decisions</a></h3>
+<p>Rules decide when a trade is possible; Jev decides whether it still makes sense. Before entry, Jev reviews the proposed strategy: approve, refuse, or wait one more observation. Add your own conditions in plain words. Live in paper trading for Premium holders.</p>
+<p><strong>中文摘要：</strong>规则决定交易是否可行，Jev进一步判断是否仍合理。入场前，Jev会审核策略提议：批准、拒绝或等待下一次观察。用户可用自然语言添加自定义条件。Premium用户现可在模拟交易中使用。</p>
+<p><strong>Orus Agent</strong> · @Orus_agent · 2026-09-28</p>
+<p>💬 6 &nbsp; 🔁 6 &nbsp; ♡ 13 &nbsp; 📊 206</p>
+<p><a href="https://x.com/Orus_agent/status/2104509653636055435">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/explosss1ve/status/2104537033024717054"><img src="https://pbs.twimg.com/amplify_video_thumb/2104534666581540864/img/zuXmyTrp9q9PWDkt.jpg" alt="Quant Desk Combines Jev and Claude for Millions of Daily Trading Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/explosss1ve/status/2104537033024717054">Quant Desk Combines Jev and Claude for Millions of Daily Trading Decisions</a></h3>
+<p>The post describes a quant team putting Jev in front of Claude, analyzing 50 perps every tick 24/7, making about 50 decisions per second (4.3 million per day), with each frontier model call costing about one cent, projecting $43,000 per day.</p>
+<p><strong>中文摘要：</strong>该帖描述量化交易团队将Jev置于Claude前端，对50种永续合约每tick进行24/7分析，每秒约50次决策，日决策量达430万次，调用前沿模型的成本约每次1美分，估算每日费用4.3万美元。</p>
+<p><strong>explos1ve</strong> · @explosss1ve · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/explosss1ve/status/2104537033024717054">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EfrainnE62740/status/2104448253823758661"><img src="https://pbs.twimg.com/amplify_video_thumb/2104448197053775872/img/MewULivui5mYCakU.jpg" alt="Jev Model with Grok Bots: $1,000 to $44,198 · 原帖视频截图" width="100%"></a>

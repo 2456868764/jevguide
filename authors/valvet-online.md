@@ -1,8 +1,9 @@
 # Valvet Online
 
-2 Jev showcases.
+3 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-28 | [Jev-style models now run on your own hardware](https://x.com/VALVETONLINE/status/2104409180794728911) | 开发资源 | Valvet Online | 10 |
 | 2026-09-24 | [Running a Jev-style decision model on a laptop](https://x.com/VALVETONLINE/status/2102959547375657093) | 客户支持 | Valvet Online | 11 |
 | 2026-09-22 | [Non-Autoregressive Decision Model Laya Claims 6-8x Faster Inference Than Jev](https://x.com/VALVETONLINE/status/2102187007367606684) | 接入动态 | Valvet Online | 17 |

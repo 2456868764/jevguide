@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 288 | 220 | 72 | 588K |
+| 298 | 228 | 74 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kozei/status/2104515263383175581"><img src="https://pbs.twimg.com/amplify_video_thumb/2104500255223951360/img/xCt0MGcEFv-wQfIh.jpg" alt="JEVPLAY: An open game board for humans to play against JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kozei/status/2104515263383175581">JEVPLAY: An open game board for humans to play against JEV</a></h3>
+<p>Kozei argues the bull case for JEVPLAY isn&#39;t just AI—it&#39;s making AI fun. It offers an open game board where humans play against JEV in chess, blackjack, and more, highlighting JEV&#39;s fast, structured nature.</p>
+<p><strong>中文摘要：</strong>Kozei 认为 JEVPLAY 的核心不只是 AI，而是让 AI 有趣。它提供一个人类与 JEV 对弈的开放游戏板，支持国际象棋、二十一点等，强调 JEV 的快速结构化特性。</p>
+<p><strong>Kozei</strong> · @kozei · 2026-09-28</p>
+<p>💬 31 &nbsp; 🔁 6 &nbsp; ♡ 37 &nbsp; 📊 538</p>
+<p><a href="https://x.com/kozei/status/2104515263383175581">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gosrum/status/2104519096049995994"><img src="https://pbs.twimg.com/media/HTS9489aIAAOwq7?format=jpg&amp;name=medium" alt="Jev Model Family Takes on Super Mario Bros 1-1 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gosrum/status/2104519096049995994">Jev Model Family Takes on Super Mario Bros 1-1</a></h3>
+<p>The author repeatedly challenged Super Mario Bros 1-1 using three models: jev (text-only), djev (text-only), and djev-air (with image input), summarizing latency and clear rate data. Local djev (text-only) showed the best latency.</p>
+<p><strong>中文摘要：</strong>作者使用jev（仅文本）、djev（仅文本）和djev-air（带图像输入）三种模型反复挑战《超级马里奥兄弟》1-1，并总结延迟与通关率数据。结果显示本地djev（仅文本）在延迟上表现最佳。</p>
+<p><strong>金のニワトリ</strong> · @gosrum · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 488</p>
+<p><a href="https://x.com/gosrum/status/2104519096049995994">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kiyoshi_shin/status/2104375961672462394"><img src="https://pbs.twimg.com/amplify_video_thumb/2104375646915112961/img/jR26eFZXXPyG-sKc.jpg" alt="Trying the Buzzworthy AI &quot;Jev&quot;: It Plays Games Like a Human · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kiyoshi_shin/status/2104375961672462394">Trying the Buzzworthy AI &quot;Jev&quot;: It Plays Games Like a Human</a></h3>
+<p>TypeSafeAI released a new AI technology, &quot;Jev,&quot; on September 15. With a novel approach, it acts as a model handling selection, scoring, and judgment within apps. This article explores how it plays games like a human.</p>
+<p><strong>中文摘要：</strong>TypeSafeAI于9月15日发布新AI技术「Jev」，采用全新方法，作为应用内部负责“选择、评分、判定”的模型。文章以游戏为例，介绍其像人类一样玩游戏的能力。</p>
+<p><strong>新清士@AIコンテンツ開発者</strong> · @kiyoshi_shin · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 177</p>
+<p><a href="https://x.com/kiyoshi_shin/status/2104375961672462394">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0z_Dustin136/status/2104409492381479293"><img src="https://pbs.twimg.com/media/HTRdRMrbQAAAeDx?format=jpg&amp;name=medium" alt="Jev FC Buddy: AI Plays NES With You, Inputs Fully Observable · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0z_Dustin136/status/2104409492381479293">Jev FC Buddy: AI Plays NES With You, Inputs Fully Observable</a></h3>
+<p>A detail from the Jev FC Buddy experience on Termix_ai: an AI agent can play a classic NES game with you, while controller inputs are visible during the session, making agent behavior inspectable.</p>
+<p><strong>中文摘要：</strong>Termix_ai 上的 Jev FC Buddy 体验揭示一个细节：AI 代理不仅能陪你玩经典 NES 游戏，还能在会话中实时显示控制器输入，让代理行为变得可检查。</p>
+<p><strong>T_Khanh2026.eth</strong> · @0z_Dustin136 · 2026-09-28</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 41</p>
+<p><a href="https://x.com/0z_Dustin136/status/2104409492381479293">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bitstream_blake/status/2104365664052101608"><img src="https://pbs.twimg.com/amplify_video_thumb/2104365575690416128/img/Q6yL3eonGcn0r5-v.jpg" alt="Jev Plays Doom, Developer Considers Open Source · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bitstream_blake/status/2104365664052101608">Jev Plays Doom, Developer Considers Open Source</a></h3>
+<p>Blake Edwards says he got Jev to play Doom like the video example on their website, and asks whether the code should be open sourced.</p>
+<p><strong>中文摘要：</strong>Blake Edwards 表示已让 Jev 像官网视频示例一样玩 Doom，并询问是否应该开源相关代码。</p>
+<p><strong>Blake Edwards</strong> · @bitstream_blake · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/bitstream_blake/status/2104365664052101608">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="Jev clears Pokémon Red · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529">Jev clears Pokémon Red</a></h3>
+<p>A user shares that Jev successfully cleared Pokémon Red and speculates about future robot control applications.</p>
+<p><strong>中文摘要：</strong>有用户分享Jev成功通关《宝可梦 红》的消息，并畅想未来可将其用于机器人操控。</p>
+<p><strong>えいほー@Hide-Infa</strong> · @eiho_tsukuyomi · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/joho_no_todai/status/2104192923407687684"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="TypeSafe AI&#39;s Jev model cleared Pokémon Red in one week without generating text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/joho_no_todai/status/2104192923407687684">TypeSafe AI&#39;s Jev model cleared Pokémon Red in one week without generating text</a></h3>
+<p>TypeSafe AI&#39;s decision model Jev simply picks one option probabilistically from given choices, without looking at the screen or explaining any strategy, yet cleared Pokémon Red in one week.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的决策模型 Jev 无需生成文本，也不查看屏幕或解释策略，仅从给定选项中进行概率性选择，却在一周内通关了宝可梦红。</p>
+<p><strong>情報の灯台</strong> · @joho_no_todai · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 13 &nbsp; 📊 941</p>
+<p><a href="https://x.com/joho_no_todai/status/2104192923407687684">在 X 查看原帖</a> · <a href="https://t.co/GpP8YTWvDL">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/didier_lopes/status/2104203064257228820"><img src="https://pbs.twimg.com/amplify_video_thumb/2104201044133625856/img/o0DCxyRwygS7OHkT.jpg" alt="Real-time Pokémon voice control with Jev for his baby · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/didier_lopes/status/2104203064257228820">Real-time Pokémon voice control with Jev for his baby</a></h3>
+<p>A dad built a demo for his 3-month-old daughter: based on Pokémon Emerald Arena, using on-device Whisper (~250ms) for speech recognition, and @typesafeai&#39;s Jev to pick the move (~250ms). When she grows up, she&#39;ll be able to call out attacks to her Pokémon like Misty in real time.</p>
+<p><strong>中文摘要：</strong>一位父亲为三个月大的女儿制作了演示：基于《宝可梦 绿宝石竞技场》，使用 Whisper 设备端语音识别（约250ms），并由 @typesafeai 的 Jev 实时选择攻击招式（约250ms）。她长大后就能像小霞一样直接喊出宝可梦攻击指令。</p>
+<p><strong>Didier Lopes</strong> · @didier_lopes · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 42</p>
+<p><a href="https://x.com/didier_lopes/status/2104203064257228820">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/spillai/status/2104007859512213699"><img src="https://pbs.twimg.com/amplify_video_thumb/2104006920826920960/img/yIiSdiTP8-8azriW.jpg" alt="Jev fails to get high score in 2048 · 原帖视频截图" width="100%"></a>
@@ -31,6 +127,30 @@
 <p><strong>Adamya</strong> · @AdamyaNagpal · 2026-09-27</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 36</p>
 <p><a href="https://x.com/AdamyaNagpal/status/2104056930062745743">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fdy/status/2104233926118060390"><img src="https://pbs.twimg.com/amplify_video_thumb/2104231063958507520/img/WWGM6Buz3noEtJEL.jpg" alt="Running Laya model on llama.cpp to test Snake game · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fdy/status/2104233926118060390">Running Laya model on llama.cpp to test Snake game</a></h3>
+<p>Author fudingyu ran the Laya model on llama.cpp to test the Snake game, with excellent results. It was fast and ran smoothly even on a laptop with AMD Radeon 780M Graphics. Thanks to @chenchengpro for the game code. Tags include #Jev #Laya #TypeSafe #llamacpp #LocalLLM.</p>
+<p><strong>中文摘要：</strong>作者 fudingyu 在 llama.cpp 上运行 Laya 模型测试贪吃蛇游戏，结果表现优秀。速度很快，即使在配备 AMD Radeon 780M 显卡的笔记本上也能流畅运行。感谢 @chenchengpro 提供的游戏代码。标签包括 #Jev #Laya #TypeSafe #llamacpp #LocalLLM。</p>
+<p><strong>fudingyu</strong> · @fdy · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/fdy/status/2104233926118060390">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Kiratchi0328/status/2104242683539833314"><img src="https://pbs.twimg.com/amplify_video_thumb/2104242653621866496/img/j88Ksa9QZdP2c1Gd.jpg" alt="AI Playing Minecraft: Autonomous Control and Live Commentary with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Kiratchi0328/status/2104242683539833314">AI Playing Minecraft: Autonomous Control and Live Commentary with Jev</a></h3>
+<p>Using OpenAI API and Jev, the AI fully autonomously operates Minecraft, thinks, acts, and provides live commentary, while growing through reinforcement learning from failures.</p>
+<p><strong>中文摘要：</strong>利用OpenAI API和Jev，AI完全自主地操作我的世界，自己思考、行动并实时解说，还通过强化学习从失败中不断成长。</p>
+<p><strong>きらっち</strong> · @Kiratchi0328 · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/Kiratchi0328/status/2104242683539833314">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,11 +4,179 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 357 | 196 | 163 | 3.6M |
+| 375 | 205 | 172 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/golangch/status/2104435951078678932"><img src="https://pbs.twimg.com/media/HTR1WGlaAAA784E?format=jpg&amp;name=medium" alt="Unofficial Unix Client for Jev (Go) · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/golangch/status/2104435951078678932">Unofficial Unix Client for Jev (Go)</a></h3>
+<p>This post announces an unofficial, provider-neutral Unix client for Jev from TypeSafe AI, written in Go, with a link to the GitHub repository.</p>
+<p><strong>中文摘要：</strong>该帖子发布了一个由 TypeSafe AI 的 Jev 驱动的非官方、提供商中立的 Unix 客户端，代码以 Go 编写，并提供 GitHub 仓库链接。</p>
+<p><strong>Golang News &amp; Libs &amp; Jobs - human 🗣️ , no 🤖</strong> · @golangch · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 773</p>
+<p><a href="https://x.com/golangch/status/2104435951078678932">在 X 查看原帖</a> · <a href="https://t.co/QG6ae3LQdp">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DanKornas/status/2104424356197568534"><img src="https://pbs.twimg.com/media/HTRqy4TWMAAztCF?format=jpg&amp;name=medium" alt="Jev Social: Open-Source Agent Skill for Source-Linked Social Research · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DanKornas/status/2104424356197568534">Jev Social: Open-Source Agent Skill for Source-Linked Social Research</a></h3>
+<p>Jev Social is an open-source Agent Skill and local demo built on the Jev model, enabling browser-grounded research across Instagram, TikTok, and LinkedIn. It turns social-media questions into source-linked findings with traceability.</p>
+<p><strong>中文摘要：</strong>Jev Social 是一个基于 Jev 模型的开源 Agent Skill 和本地演示，支持在 Instagram、TikTok 和 LinkedIn 上进行浏览器级研究。它可将社交媒体问题转化为带来源链接的发现结果，强调可追溯性。</p>
+<p><strong>Dan Kornas</strong> · @DanKornas · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 648</p>
+<p><a href="https://x.com/DanKornas/status/2104424356197568534">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xLogicrw/status/2104522137549828527"><img src="https://pbs.twimg.com/media/HTTDt9ybMAAG6mP?format=jpg&amp;name=medium" alt="Jevgrep: An Open-Source Research Tool for Coding Agents to Locate Code · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xLogicrw/status/2104522137549828527">Jevgrep: An Open-Source Research Tool for Coding Agents to Locate Code</a></h3>
+<p>Developer David open-sourced Jevgrep, based on TypeSafe&#39;s Jev model. Users ask natural language questions like &#39;Where is the login validation written?&#39; Jevgrep searches the codebase layer by layer, finds relevant files and snippets, then hands them to agents like Claude Code and Codex for modification and testing, aiming to reduce token usage.</p>
+<p><strong>中文摘要：</strong>开发者David基于TypeSafe的Jev模型开源了Jevgrep，用户用自然语言提问如“登录校验写在哪里”，Jevgrep逐层搜索代码库，找到相关文件和源码片段，再交给Claude Code、Codex等Agent修改测试，旨在减少token消耗。</p>
+<p><strong>思维怪怪</strong> · @0xLogicrw · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/0xLogicrw/status/2104522137549828527">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CleaneraMade/status/2104369392859697485"><img src="https://pbs.twimg.com/amplify_video_thumb/2104368700895678464/img/p0fxi7INiWk86E4I.jpg" alt="Jev-Based Code Block Matching Skill · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CleaneraMade/status/2104369392859697485">Jev-Based Code Block Matching Skill</a></h3>
+<p>The author shares a skill built on Graphify that turns every prompt into questions for Jev to identify matching code blocks, planning to explore SWE-bench.</p>
+<p><strong>中文摘要：</strong>作者分享了在Graphify上构建的技能，将每个prompt转化为问题，由Jev识别匹配的代码块，并计划研究SWE-bench。</p>
+<p><strong>Cleanera Made</strong> · @CleaneraMade · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/CleaneraMade/status/2104369392859697485">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aigeeknews/status/2104411903976186070"><img src="https://pbs.twimg.com/amplify_video_thumb/2104411812779503616/img/0Lk2eHi5xFvYhQfS.jpg" alt="OpenJev-Fast: 6x Faster Inference for Open-Jev-27B · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aigeeknews/status/2104411903976186070">OpenJev-Fast: 6x Faster Inference for Open-Jev-27B</a></h3>
+<p>A faster inference backend for Open-Jev-27B, delivering 6x speedup via specialized CUDA kernels, prefix trees, and CUDA Graphs (B300, bf16).</p>
+<p><strong>中文摘要：</strong>面向 Open-Jev-27B 的更快推理后端，通过专用 CUDA 内核、前缀树和 CUDA Graphs 实现 6 倍加速（B300，bf16）。</p>
+<p><strong>AI 极客新闻</strong> · @aigeeknews · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/aigeeknews/status/2104411903976186070">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HarryTandy/status/2104190663126401315"><img src="https://pbs.twimg.com/amplify_video_thumb/2104161326490693632/img/xiSmVn81ctxN4o1h.jpg" alt="Demonstrating Gated Decision Points in Jev Agent Flows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HarryTandy/status/2104190663126401315">Demonstrating Gated Decision Points in Jev Agent Flows</a></h3>
+<p>AWS Developer Advocate Mike Chambers shows how to add gated decision points within agent flows, using Jev to block risky tool calls before they run, and recommends the article on Claude Code safety gates and stop hooks.</p>
+<p><strong>中文摘要：</strong>AWS开发者倡导者Mike Chambers展示了如何在代理流程中加入门控决策点，利用Jev在工具调用前阻止风险操作，并推荐阅读关于Claude Code安全门和停止钩子的文章。</p>
+<p><strong>Harry Tandy</strong> · @HarryTandy · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 281</p>
+<p><a href="https://x.com/HarryTandy/status/2104190663126401315">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hahwul/status/2104053715753959889"><img src="https://pbs.twimg.com/media/HTMZMk7agAAPdHy?format=jpg&amp;name=medium" alt="Ollaya: A Local Alternative to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hahwul/status/2104053715753959889">Ollaya: A Local Alternative to Jev</a></h3>
+<p>HAHWUL shares Ollaya as one of the local alternatives to Jev, linking to ollaya.dev.</p>
+<p><strong>中文摘要：</strong>HAHWUL分享Ollaya作为Jev的本地替代品之一，并提供ollaya.dev链接。</p>
+<p><strong>HAHWUL</strong> · @hahwul · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 163</p>
+<p><a href="https://x.com/hahwul/status/2104053715753959889">在 X 查看原帖</a> · <a href="https://t.co/Dtw15wrQGo">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iluciddreaming/status/2104124387683385471"><img src="https://pbs.twimg.com/media/HTNZ-v8bUAAoiei?format=jpg&amp;name=medium" alt="Jev Model Pricing and Free Gateway Discussion · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iluciddreaming/status/2104124387683385471">Jev Model Pricing and Free Gateway Discussion</a></h3>
+<p>The post mentions Vercel is currently free, lists typesafe/jev input pricing ($0.042 per million), zero cost for output and cache, and zero data retention, while noting that if the free tier is from another gateway it may be a separate bill; the author has not yet tested it personally.</p>
+<p><strong>中文摘要：</strong>帖子提到 Vercel 目前免费，并列出 typesafe/jev 的输入价格（每百万0.042美元）、输出和缓存为零、零数据保留，同时指出免费若来自其他网关则可能产生额外账单，作者表示尚未亲自验证。</p>
+<p><strong>mousepotato</strong> · @iluciddreaming · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
+<p><a href="https://x.com/iluciddreaming/status/2104124387683385471">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/adriancortexbt/status/2104239550184738997"><img src="https://pbs.twimg.com/amplify_video_thumb/2104238565274034176/img/Hd7du9fOY34oRJUa.jpg" alt="TypeSafe Jev: 1,000 Decisions for $0.42 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/adriancortexbt/status/2104239550184738997">TypeSafe Jev: 1,000 Decisions for $0.42</a></h3>
+<p>The post discusses TypeSafe&#39;s Jev model, noting it is not a chatbot but only returns decisions (a choice, a score, or a probability), mentions its docs warn it can&#39;t be trusted to count, and shows the code→jev→code→llm→code integration path.</p>
+<p><strong>中文摘要：</strong>帖子介绍TypeSafe的Jev模型，强调它不是聊天机器人，只返回决策结果（选项、分数或概率），并提到其文档警告不能可靠计数，展示了code→jev→code→llm→code的集成方式。</p>
+<p><strong>Adrian Cortex</strong> · @adriancortexbt · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 75</p>
+<p><a href="https://x.com/adriancortexbt/status/2104239550184738997">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jimmy_longbow_/status/2104077960945017309"><img src="https://pbs.twimg.com/amplify_video_thumb/2103914409747996674/img/_bKCc6sOaf8jDIXp.jpg" alt="jevgrep: Repository Q&amp;A Tool for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jimmy_longbow_/status/2104077960945017309">jevgrep: Repository Q&amp;A Tool for Jev</a></h3>
+<p>This tool answers repository questions with file paths and line-numbered source excerpts, works with Claude Code, Codex, and OpenCode, and sends eligible source to Jev. The README notes that part of its benchmark data comes from a single 10-task SWE-bench repeat, with Jev costs excluded.</p>
+<p><strong>中文摘要：</strong>该工具回答仓库问题并提供文件路径及带行号的源代码摘录，可与 Claude Code、Codex、OpenCode 配合使用，并将符合条件的源代码发送给 Jev。README 指出其评测数据部分来自一次 10 任务 SWE-bench 重复，且未包含 Jev 成本。</p>
+<p><strong>JimiLonbo</strong> · @jimmy_longbow_ · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
+<p><a href="https://x.com/jimmy_longbow_/status/2104077960945017309">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SHO_A/status/2104037057249095966"><img src="https://pbs.twimg.com/amplify_video_thumb/2103610863605465088/img/lK7ZN1DaY0BqErJw.jpg" alt="OpenRouter launches Jev Router: Smart routing of AI models and reasoning effort · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SHO_A/status/2104037057249095966">OpenRouter launches Jev Router: Smart routing of AI models and reasoning effort</a></h3>
+<p>For those who struggle to choose which AI model to use each time, OpenRouter has released Jev Router. It allocates models based on quality, speed, and cost, and considers saved information, helping avoid paying for expensive AI on simple requests.</p>
+<p><strong>中文摘要：</strong>针对每次使用AI时纠结选哪款模型的人，OpenRouter公开了Jev Router。它会根据任务品质、速度、成本分配模型，并考虑已保存的信息，帮助避免为简单请求支付高价AI费用。</p>
+<p><strong>しょう | AX</strong> · @SHO_A · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 44</p>
+<p><a href="https://x.com/SHO_A/status/2104037057249095966">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rlaope/status/2104098591308431450"><img src="https://pbs.twimg.com/tweet_video_thumb/HTNB3FhbsAAgOfT.jpg" alt="jeval: Confidence Evaluation and Model Drift Detection from Jev Logs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rlaope/status/2104098591308431450">jeval: Confidence Evaluation and Model Drift Detection from Jev Logs</a></h3>
+<p>Introducing jeval, a tool that generates HTML reports from your Jev logs, validates confidence accuracy, and detects shifts in the model behind jev-latest in CI.</p>
+<p><strong>中文摘要：</strong>介绍 jeval，一个用 Jev 日志生成 HTML 报告、验证置信度准确性并在 CI 中检测 jev-latest 模型变化的工具。</p>
+<p><strong>HOPE | Engineer.</strong> · @rlaope · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 30</p>
+<p><a href="https://x.com/rlaope/status/2104098591308431450">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Kia_kkk2004/status/2104094957988372856"><img src="https://pbs.twimg.com/media/HTM_M-xWEAAGaoT?format=jpg&amp;name=medium" alt="A local runner for Jev-style decision models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Kia_kkk2004/status/2104094957988372856">A local runner for Jev-style decision models</a></h3>
+<p>The post introduces an Ollama-like local tool for running Jev-style decision models: it takes text or JSON input, returns typed decisions, and avoids token-by-token generation; about 8–10 ms for 5 questions on an RTX 4090.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一款类似 Ollama 的本地工具，用于运行 Jev 风格决策模型：支持文本或 JSON 输入，输出类型化决策，不依赖逐 token 生成；在 RTX 4090 上处理 5 个问题约需 8–10 毫秒。</p>
+<p><strong>nokia</strong> · @Kia_kkk2004 · 2026-09-27</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 29</p>
+<p><a href="https://x.com/Kia_kkk2004/status/2104094957988372856">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aximox_cc/status/2104120591083307128"><img src="https://pbs.twimg.com/media/HTNWaC7asAA6wEA?format=png&amp;name=medium" alt="Running Jev experiments with Cloudflare AI Gateway, focusing on costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aximox_cc/status/2104120591083307128">Running Jev experiments with Cloudflare AI Gateway, focusing on costs</a></h3>
+<p>The author shares that they are running several Jev experiments using Cloudflare AI Gateway, noting good costs and questioning how much overall cost can be reduced, with a view that all kinds of intelligence should become dirt cheap over time.</p>
+<p><strong>中文摘要：</strong>作者分享正在进行多项Jev实验，利用Cloudflare AI Gateway节省成本，并探讨整体成本能降低多少。他认为未来各类AI智能成本将变得非常低廉。</p>
+<p><strong>Mohit</strong> · @aximox_cc · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/aximox_cc/status/2104120591083307128">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bloxstack/status/2104003429240803497"><img src="https://pbs.twimg.com/amplify_video_thumb/2104001903361241089/img/hovAcsqe_4QyL-W6.jpg" alt="BloxStack Talent Finder: Semantic search for Roblox devs, powered by Jev · 原帖视频截图" width="100%"></a>
@@ -20,6 +188,54 @@
 <p><strong>BloxStack</strong> · @bloxstack · 2026-09-27</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 10</p>
 <p><a href="https://x.com/bloxstack/status/2104003429240803497">在 X 查看原帖</a> · <a href="https://t.co/W1iPlgP8xd">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/developerpranab/status/2104049774374879679"><img src="https://pbs.twimg.com/media/HTMWHh8W0AEK1E2?format=jpg&amp;name=medium" alt="Added Jev to the development loop for slicing stories and prioritizing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/developerpranab/status/2104049774374879679">Added Jev to the development loop for slicing stories and prioritizing</a></h3>
+<p>Developer Pranab Sarkar mentions integrating Jev into the development loop to slice user stories and set priorities, improving development workflow efficiency.</p>
+<p><strong>中文摘要：</strong>开发者Pranab Sarkar表示已将Jev纳入开发循环，用于切分用户故事并确定优先级，提升开发流程效率。</p>
+<p><strong>Pranab Sarkar | YantrikDB | YantrikOS</strong> · @developerpranab · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/developerpranab/status/2104049774374879679">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Soumyapx/status/2104203359473504766"><img src="https://pbs.twimg.com/amplify_video_thumb/2104201592350347264/img/vemymGKbnuTDowlE.jpg" alt="Jev vs Laya Classifier Battleground · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Soumyapx/status/2104203359473504766">Jev vs Laya Classifier Battleground</a></h3>
+<p>The author built a test environment where two AI classifiers, TypeSafe&#39;s hosted Jev and open-source Laya, compete head-to-head using the same protocol and requests.</p>
+<p><strong>中文摘要：</strong>作者构建了一个测试环境，让TypeSafe托管的Jev与开源的Laya两个AI分类器使用相同协议和请求进行一对一比较。</p>
+<p><strong>Soumyaranjan Panda</strong> · @Soumyapx · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Soumyapx/status/2104203359473504766">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Kyma_API/status/2104241656228671526"><img src="https://pbs.twimg.com/media/HTOAFGIbkAE3rTS?format=jpg&amp;name=medium" alt="Kyma API Integrates Jev for Unified Access to 100+ Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Kyma_API/status/2104241656228671526">Kyma API Integrates Jev for Unified Access to 100+ Models</a></h3>
+<p>Kyma API announces that with one API key, Jev decides and routes to 100+ models including DeepSeek V4 Flash, GLM 5.3 Flash, and Grok 4.7, with real bill comparison ($0.150 vs $0.119) for 30 prompts.</p>
+<p><strong>中文摘要：</strong>Kyma API 宣布使用一个 API 密钥，由 Jev 决策路由至 DeepSeek V4 Flash、GLM 5.3 Flash、Grok 4.7 等 100 多个模型，并给出 30 次提示的真实账单对比（$0.150 对比 $0.119）。</p>
+<p><strong>Kyma API</strong> · @Kyma_API · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/Kyma_API/status/2104241656228671526">在 X 查看原帖</a> · <a href="https://t.co/LF44nGEbnr">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/biroi8/status/2104103754576302107"><img src="https://pbs.twimg.com/amplify_video_thumb/2103393386699063296/img/RfOW3dWNm9U8UR12.jpg" alt="Convert LLM Outputs into Decision Data with AnyJev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/biroi8/status/2104103754576302107">Convert LLM Outputs into Decision Data with AnyJev</a></h3>
+<p>Shows how to use AnyJev, Python, and existing causal LLMs to handle typed choices and probabilities, extending beyond Yes/No to score-based outputs and multi-level labels for decision-making.</p>
+<p><strong>中文摘要：</strong>介绍如何使用AnyJev、Python和现有causal LLM处理typed choices与概率，支持从Yes/No扩展到分数输出及多级标签，适用于决策场景。</p>
+<p><strong>Suzuki</strong> · @biroi8 · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/biroi8/status/2104103754576302107">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/dani_avila7/status/2103982234147360797"><img src="https://pbs.twimg.com/media/HTLYEo6XQAAkhp3?format=jpg&amp;name=medium" alt="Jev Skill Suggestion passes 1.2k downloads · 原帖图片" width="100%"></a>

@@ -1,9 +1,11 @@
 # ericosiu
 
-5 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-28 | [How to Use Jev and Grok Bot to Sort a Lead List](https://x.com/ericosiu/status/2104360444421194064) | 营销 | ericosiu | 297 |
+| 2026-09-27 | [How I'd Use Jev and Grok Bot to Sort a Lead List](https://x.com/ericosiu/status/2104239644103606748) | 自动化工作流 | ericosiu | 139 |
 | 2026-09-24 | [Jev for Marketing: Finding Clips That Deliver a Complete Point](https://x.com/ericosiu/status/2103152482771701877) | 营销 | ericosiu | 135 |
 | 2026-09-24 | [Jev Workflows: Every Queue Needs a Clear Next Step](https://x.com/ericosiu/status/2103122289822711995) | 自动化工作流 | ericosiu | 87 |
 | 2026-09-22 | [Using Jev to Deduplicate SEO and AEO Ideas](https://x.com/ericosiu/status/2102186118494007316) | 营销 | ericosiu | 240 |

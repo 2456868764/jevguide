@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 78 | 44 | 34 | 235K |
+| 80 | 44 | 36 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/michabbb/status/2104373857054527508"><img src="https://pbs.twimg.com/media/HTQ83w7akAAlNng?format=jpg&amp;name=medium" alt="Using Jev to Judge Knowledge Graph Connections · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/michabbb/status/2104373857054527508">Using Jev to Judge Knowledge Graph Connections</a></h3>
+<p>A user shares experience using #jev as a judge for connecting information in knowledge graphs, finding it extremely effective in AI and RAG contexts.</p>
+<p><strong>中文摘要：</strong>用户分享使用 #jev 作为知识图谱中信息连接判据的经验，认为其非常有效，涉及 AI 和 RAG 场景。</p>
+<p><strong>Micha(el) Bladowski 🇩🇪 🇺🇦</strong> · @michabbb · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/michabbb/status/2104373857054527508">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2104193097764933695"><img src="https://pbs.twimg.com/media/HTOYdxdbAAExSX3?format=jpg&amp;name=large" alt="Jev Search: Describe What You Want Instead of Keywords · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2104193097764933695">Jev Search: Describe What You Want Instead of Keywords</a></h3>
+<p>Jev determines sources, time ranges, and queries, then searches concurrently and ranks by relevance.</p>
+<p><strong>中文摘要：</strong>Jev会先判断来源、时间范围和查询词，然后并发搜索并按相关性排序。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><a href="https://x.com/vintcessun/status/2104193097764933695">在 X 查看原帖</a> · <a href="https://t.co/S5hthb6iYC">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LeoCreaIA/status/2103474728774357020"><img src="https://pbs.twimg.com/amplify_video_thumb/2103474708901462017/img/9hlqMRpeQlBc52LN.jpg" alt="JEV Could Reshape Recommendation and Search Systems · 原帖视频截图" width="100%"></a>

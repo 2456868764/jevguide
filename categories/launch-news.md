@@ -4,11 +4,299 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 222 | 113 | 112 | 1.1M |
+| 248 | 123 | 128 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2104426195479650507"><img src="https://pbs.twimg.com/media/HTRseRVWIAAM5Eq?format=jpg&amp;name=medium" alt="Jev Router Launches: Automatically Selects AI Based on Task Difficulty · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2104426195479650507">Jev Router Launches: Automatically Selects AI Based on Task Difficulty</a></h3>
+<p>Jev Router automatically selects which AI to use on Jev, instantly determining the appropriate model based on task difficulty, offering higher precision than OpenRouter&#39;s existing routers.</p>
+<p><strong>中文摘要：</strong>Jev Router 可在 Jev 上自动选择使用哪个 AI，根据任务难度即时确定合适模型，声称比 OpenRouter 现有路由器精度更高。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 9 &nbsp; ♡ 12 &nbsp; 📊 5.1K</p>
+<p><a href="https://x.com/gigazine/status/2104426195479650507">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/niaoshu/status/2104520489867919382"><img src="https://pbs.twimg.com/media/HTTCJ6NacAAPgMN?format=jpg&amp;name=medium" alt="JEV Model Registration Reopens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/niaoshu/status/2104520489867919382">JEV Model Registration Reopens</a></h3>
+<p>The JEV decision model by TypeSafe AI has reopened registration after being closed due to high demand. Official link: typesafe.ai.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI推出的JEV决策模型因注册人数过多关闭后，现已重新开放注册，官方链接见typesafe.ai。</p>
+<p><strong>鸟叔本鸟</strong> · @niaoshu · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><a href="https://x.com/niaoshu/status/2104520489867919382">在 X 查看原帖</a> · <a href="https://t.co/PpQgezusrX">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KaiWaehner/status/2104438597487390759"><img src="https://pbs.twimg.com/media/HTR3l00XEAAZNw4?format=png&amp;name=medium" alt="Jev: TypeSafe AI&#39;s System One Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KaiWaehner/status/2104438597487390759">Jev: TypeSafe AI&#39;s System One Model</a></h3>
+<p>Introduces Jev by TypeSafe AI, a new category of AI models: System One models. Unlike an LLM, it writes no text; instead, it returns typed answers with calibrated probability in a few hundred milliseconds. Discusses implications for enterprise AI architecture and when not to use it.</p>
+<p><strong>中文摘要：</strong>介绍 TypeSafe AI 的 Jev 模型，属于全新的 System One 模型类别。与 LLM 不同，Jev 不生成文本，而是在数百毫秒内返回带校准概率的类型化答案，并探讨对企业 AI 架构的影响及不适用场景。</p>
+<p><strong>Kai Wähner</strong> · @KaiWaehner · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><a href="https://x.com/KaiWaehner/status/2104438597487390759">在 X 查看原帖</a> · <a href="https://t.co/xKgJTBCOHm">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeepInsightLabs/status/2104405594124001492"><img src="https://pbs.twimg.com/amplify_video_thumb/2104405493393620992/img/KZLzbDNG07LD28ju.jpg" alt="Jev Launch: AI&#39;s Core Is Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DeepInsightLabs/status/2104405594124001492">Jev Launch: AI&#39;s Core Is Decisions</a></h3>
+<p>Deep Insight Labs says Jev going viral helps their launch this week. Their film highlights that most AI work is not generation but decisions. Jev lets you rewrite your app by swapping one call, while Seldon only watches.</p>
+<p><strong>中文摘要：</strong>Deep Insight Labs 表示 Jev 走红对他们本周发布很有帮助。他们制作的影片指出，大多数 AI 工作不是生成而是决策。Jev 允许你重写应用替换一个调用，而 Seldon 只是观察。</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 32</p>
+<p><a href="https://x.com/DeepInsightLabs/status/2104405594124001492">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sanjaykalra/status/2104409406989553696"><img src="https://pbs.twimg.com/media/HTRdMm_aQAAOT0s?format=jpg&amp;name=medium" alt="TypeSafe AI launches Jev model, catching CIO attention · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sanjaykalra/status/2104409406989553696">TypeSafe AI launches Jev model, catching CIO attention</a></h3>
+<p>Jev from TypeSafe AI launched on September 15. The author considers it the most useful model release of the quarter for CIOs, but advises using it for the narrow job it was built for.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型于9月15日发布，作者认为这是本季度对 CIO 最有用的模型发布，但需用于其擅长的特定任务。</p>
+<p><strong>Sanjay Kalra, AI Transformation Sherpa™️</strong> · @sanjaykalra · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 31</p>
+<p><a href="https://x.com/sanjaykalra/status/2104409406989553696">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Rational_Answer/status/2104444512521044126"><img src="https://pbs.twimg.com/media/HTR9HPTXsAAKfB-?format=png&amp;name=small" alt="Jev: A New Kind of AI Model Beyond LLMs? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Rational_Answer/status/2104444512521044126">Jev: A New Kind of AI Model Beyond LLMs?</a></h3>
+<p>A new AI model called Jev, developed by a former OpenAI researcher, doesn&#39;t generate text, taking a completely different approach. This post shares the innovation.</p>
+<p><strong>中文摘要：</strong>一位前OpenAI研究员开发的新型AI模型Jev，不生成文本，而是采用完全不同的方式。帖子分享这一创新。</p>
+<p><strong>Павел Комаровский</strong> · @Rational_Answer · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/Rational_Answer/status/2104444512521044126">在 X 查看原帖</a> · <a href="https://t.co/VgWK6CjETF">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIFrontPage_Com/status/2104517609475739731"><img src="https://pbs.twimg.com/media/HTS_YmObwAADSRz?format=jpg&amp;name=medium" alt="TypeSafe AI reopens Jev model sign-ups · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIFrontPage_Com/status/2104517609475739731">TypeSafe AI reopens Jev model sign-ups</a></h3>
+<p>TypeSafe AI has reopened sign-ups for its System One model Jev after a surge in demand, but new users will no longer receive the previously offered $5 in free credits (~120M tokens).</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 在需求激增后重新开放其 System One 模型 Jev 的注册，但新用户不再享有此前提供的 $5 免费额度（约1.2亿代币）。</p>
+<p><strong>AI FrontPage</strong> · @AIFrontPage_Com · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/AIFrontPage_Com/status/2104517609475739731">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KevinLourd/status/2104518217373003844"><img src="https://pbs.twimg.com/amplify_video_thumb/2104518158283591680/img/TopZmQ2mSwWVgEr0.jpg" alt="Jev AI Model Gets First Field Test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KevinLourd/status/2104518217373003844">Jev AI Model Gets First Field Test</a></h3>
+<p>Kevin Lourd mentions Jev, an AI model that only picks answers, getting its first field test.</p>
+<p><strong>中文摘要：</strong>Kevin Lourd 提到 Jev 这个只挑选答案的 AI 模型开始首次现场测试。</p>
+<p><strong>Kevin Lourd</strong> · @KevinLourd · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/KevinLourd/status/2104518217373003844">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xA1ejandro/status/2104444508582937077"><img src="https://pbs.twimg.com/amplify_video_thumb/2104443589547921408/img/opkhiDW0RBt5lYUl.jpg" alt="Brailly: Read the Web in Braille with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xA1ejandro/status/2104444508582937077">Brailly: Read the Web in Braille with Jev</a></h3>
+<p>At the TypeSafe AI and AICollective hackathon, the team built Brailly using the Jev model to read web content in braille, showcasing Jev&#39;s potential in accessibility applications.</p>
+<p><strong>中文摘要：</strong>在TypeSafe AI与AICollective黑客松中，团队利用Jev模型构建了Brailly，通过盲文形式阅读网页内容，展示Jev在可访问性应用中的潜力。</p>
+<p><strong>Alejandro Gonzalez</strong> · @0xA1ejandro · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/0xA1ejandro/status/2104444508582937077">在 X 查看原帖</a> · <a href="https://t.co/WHVgTKluLc">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/wai__tung/status/2104453712353849737"><img src="https://pbs.twimg.com/media/HTSFXEzaAAAWPBC?format=jpg&amp;name=medium" alt="Jev Is Now Available · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wai__tung/status/2104453712353849737">Jev Is Now Available</a></h3>
+<p>The user announces that the long-awaited Jev has finally arrived, linked to TypeSafeAI.</p>
+<p><strong>中文摘要：</strong>用户宣布期待已久的Jev终于到来，并与TypeSafeAI相关联。</p>
+<p><strong>惠通</strong> · @wai__tung · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/wai__tung/status/2104453712353849737">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MahmudRafid2/status/2104455142238278053"><img src="https://pbs.twimg.com/media/HTSGp2SbQAAuz_h?format=jpg&amp;name=medium" alt="Jev no longer on waitlist · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MahmudRafid2/status/2104455142238278053">Jev no longer on waitlist</a></h3>
+<p>User thanks TypeSafe AI, announcing that Jev is now available without a waitlist.</p>
+<p><strong>中文摘要：</strong>用户感谢TypeSafe AI，宣布Jev已无需等待名单，现在可以直接使用。</p>
+<p><strong>Mahmud Rafid</strong> · @MahmudRafid2 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/MahmudRafid2/status/2104455142238278053">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/plutos_eth/status/2104201959477555278"><img src="https://pbs.twimg.com/amplify_video_thumb/2104201744397836288/img/P8w1W7c71TloZvvd.jpg" alt="Jev: Built for Quick Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/plutos_eth/status/2104201959477555278">Jev: Built for Quick Decisions</a></h3>
+<p>Traditional AI often makes simple decisions expensive. Jev changes that by targeting lightweight, everyday judgments like urgency, ownership, and safety checks.</p>
+<p><strong>中文摘要：</strong>传统AI处理简单判断往往代价高昂，Jev改变了这一局面。它专门面向紧急程度判断、任务分派、安全确认等小型决策场景，提供更高效轻量的路径。</p>
+<p><strong>plutos</strong> · @plutos_eth · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 624</p>
+<p><a href="https://x.com/plutos_eth/status/2104201959477555278">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LufzzLiz/status/2104195455508959302"><img src="https://pbs.twimg.com/media/HTOZPvMaQAA6kbW?format=jpg&amp;name=medium" alt="Alibaba Cloud Bailian Launches Decision Model with TypeSafe System One Compatibility · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LufzzLiz/status/2104195455508959302">Alibaba Cloud Bailian Launches Decision Model with TypeSafe System One Compatibility</a></h3>
+<p>Alibaba Cloud Bailian released a free decision model before the holiday, targeting high-frequency judgments such as classification, filtering, and routing, and returning structured results directly usable by programs. The API is explicitly compatible with the TypeSafe System One protocol, supporting choice/noul/score question types, and can be called via the TypeSafe SDK.</p>
+<p><strong>中文摘要：</strong>阿里云百炼在假期前上线了免费的决策模型，面向分类、筛选、路由等高频率判断场景，返回程序可直接使用的结构化结果。接口明确兼容TypeSafe System One协议，支持choice/noul/score三类问题，并可直接使用TypeSafe SDK调用百炼。</p>
+<p><strong>岚叔</strong> · @LufzzLiz · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 265</p>
+<p><a href="https://x.com/LufzzLiz/status/2104195455508959302">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kigyo_rirekisho/status/2104043357911523618"><img src="https://pbs.twimg.com/amplify_video_thumb/2103431689901129729/img/AgnLetxSYhD3XuY7.jpg" alt="Jev: A Judgment-Specialized AI by Former OpenAI Researcher · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kigyo_rirekisho/status/2104043357911523618">Jev: A Judgment-Specialized AI by Former OpenAI Researcher</a></h3>
+<p>Introducing Jev by TypeSafe AI, developed by Diogo Almeida, a former OpenAI researcher involved in InstructGPT, who founded TypeSafe AI to build a judgment-specialized AI.</p>
+<p><strong>中文摘要：</strong>介绍TypeSafe AI的Jev模型，其开发者迪奥戈·阿尔梅达曾参与InstructGPT研究，并创立TypeSafe AI，旨在打造判断特化的人工智能。</p>
+<p><strong>起業の履歴書</strong> · @kigyo_rirekisho · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 184</p>
+<p><a href="https://x.com/kigyo_rirekisho/status/2104043357911523618">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mn0g0znalll/status/2104125097678098437"><img src="https://pbs.twimg.com/amplify_video_thumb/2104123695727788032/img/Z616ZU2ktz8tqLk7.jpg" alt="Jev Token Economics Published: 4.2 Cents per Million Input Tokens · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mn0g0znalll/status/2104125097678098437">Jev Token Economics Published: 4.2 Cents per Million Input Tokens</a></h3>
+<p>The post criticizes chaining sequential LLM calls for business triage as the most expensive architectural scam in software engineering, and says the author abandoned multi-step prompt chains after TypeSafe published Jev token economics. Jev is priced at 4.2 cents per million input tokens.</p>
+<p><strong>中文摘要：</strong>帖子批评将串行LLM调用用于业务分诊是软件工程中最昂贵的架构骗局，并称在TypeSafe发布Jev token经济学后，作者放弃了多步提示链。Jev定价为每百万输入tokens 4.2美分。</p>
+<p><strong>mnogoznalll</strong> · @mn0g0znalll · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 43</p>
+<p><a href="https://x.com/mn0g0znalll/status/2104125097678098437">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Bobo_hashtag/status/2104232500780536127"><img src="https://pbs.twimg.com/media/HTO7XsRbwAAL7uO?format=png&amp;name=medium" alt="OneJev Released: Open Multimodal System One Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Bobo_hashtag/status/2104232500780536127">OneJev Released: Open Multimodal System One Decision Model</a></h3>
+<p>Bobo Li announced the release of OneJev, an open multimodal System One decision model. OneJev-27B scores 89.3 on TypeSafe, matching official Jev&#39;s 89.0, while OneJev-0.8B outperforms Jev-Omni 12B (70.0 vs 60.8).</p>
+<p><strong>中文摘要：</strong>Bobo Li 宣布发布 OneJev，一个开放的多模态 System One 决策模型。OneJev-27B 在 TypeSafe 上达到 89.3，媲美官方 Jev 的 89.0；OneJev-0.8B 以 70.0 超越 Jev-Omni 12B 的 60.8。</p>
+<p><strong>Bobo Li</strong> · @Bobo_hashtag · 2026-09-27</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 40</p>
+<p><a href="https://x.com/Bobo_hashtag/status/2104232500780536127">在 X 查看原帖</a> · <a href="https://t.co/Drt4yG3PXb">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WMQ_23/status/2104126024435073353"><img src="https://pbs.twimg.com/media/HTNbcjzbEAAR-Oy?format=jpg&amp;name=medium" alt="Jev: The &quot;Mute AI&quot; That Answers in 0.114 Seconds · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WMQ_23/status/2104126024435073353">Jev: The &quot;Mute AI&quot; That Answers in 0.114 Seconds</a></h3>
+<p>Jev is a classification model that doesn&#39;t generate text—it only outputs numeric probabilities. For example, it classifies an email as inquiry or complaint by returning 0.03 / 0.25 / 0.72. In a demo, it processed 27 tasks in 0.114 seconds at extremely low cost.</p>
+<p><strong>中文摘要：</strong>Jev 是一个不生成文本、只输出数字概率的分类模型。例如判断邮件是询价还是客诉时，会返回 0.03 / 0.25 / 0.72。演示中它用 0.114 秒处理了 27 道题，成本极低。</p>
+<p><strong>AI六边形玩家</strong> · @WMQ_23 · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/WMQ_23/status/2104126024435073353">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vvedantb/status/2104124955839570355"><img src="https://pbs.twimg.com/media/HTNaXefbMAAzITE?format=jpg&amp;name=medium" alt="Jev adds emoji reaction picking for comments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vvedantb/status/2104124955839570355">Jev adds emoji reaction picking for comments</a></h3>
+<p>Jev can now automatically pick emoji reactions for comments, with a hover strip offering six one-tap picks, intent search in the picker for quick switching, and defaults kept when unsure.</p>
+<p><strong>中文摘要：</strong>Jev 现在可以为评论自动挑选表情反应，悬停条提供六个一键选择，支持输入意图搜索快速切换，无把握时保持默认选项。</p>
+<p><strong>vedant</strong> · @vvedantb · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/vvedantb/status/2104124955839570355">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ChrisEmmanuelK1/status/2104121293406642379"><img src="https://pbs.twimg.com/media/HTLgrctXEAAZq-T?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev: A Fast, Low-Cost Scoring Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChrisEmmanuelK1/status/2104121293406642379">TypeSafe Launches Jev: A Fast, Low-Cost Scoring Model</a></h3>
+<p>TypeSafe has launched Jev, a model that doesn&#39;t chat but quickly provides choices or scores at near-zero cost. LangChain has tested it as a judge for agents, and demand was so high that signups were paused.</p>
+<p><strong>中文摘要：</strong>TypeSafe 已推出 Jev 模型，不提供对话功能，而是快速给出选择或评分，成本接近零。LangChain 已将其用作 agent 的评估器，因需求过大注册一度暂停。</p>
+<p><strong>CREEIS</strong> · @ChrisEmmanuelK1 · 2026-09-27</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/ChrisEmmanuelK1/status/2104121293406642379">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Shivamds99/status/2104040884178125241"><img src="https://pbs.twimg.com/amplify_video_thumb/2104040642812796928/img/NJ03XTx1dRwUUq8R.jpg" alt="ProbablyThisWay: Trail Search &amp; Recommendations Powered by Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Shivamds99/status/2104040884178125241">ProbablyThisWay: Trail Search &amp; Recommendations Powered by Jev Model</a></h3>
+<p>ProbablyThisWay is an app built with TypeSafe&#39;s Jev Model. It lets you search trails anywhere on Earth and uses Jev to recommend the best route based on current temperature, wind, and route metadata such as distance and estimated time.</p>
+<p><strong>中文摘要：</strong>ProbablyThisWay 是一款基于 TypeSafe Jev 模型的应用，支持搜索全球任意地区的步道，并结合当前温度、风力以及路线距离、预计时间等元数据，为用户推荐最适合的徒步路线。</p>
+<p><strong>Shivam</strong> · @Shivamds99 · 2026-09-27</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
+<p><a href="https://x.com/Shivamds99/status/2104040884178125241">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/k0ba_eth/status/2104197829795131543"><img src="https://pbs.twimg.com/amplify_video_thumb/2104197747565867008/img/aZ2TgMcOGhS1laL9.jpg" alt="JEV Real-Time Generation Experience Launched · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/k0ba_eth/status/2104197829795131543">JEV Real-Time Generation Experience Launched</a></h3>
+<p>The video demonstrates how @typesafeai (JEV) and LAYA turn how a word feels into a 3D form, a palette, and a soundtrack in real time in the browser—nothing is prerendered, and you can type your own word.</p>
+<p><strong>中文摘要：</strong>视频演示了 @typesafeai（JEV）与 LAYA 如何根据单词的语义感受，在浏览器中实时生成 3D 形态、配色和配乐，所有内容均非预渲染，用户可自行输入单词体验。</p>
+<p><strong>k0ba</strong> · @k0ba_eth · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/k0ba_eth/status/2104197829795131543">在 X 查看原帖</a> · <a href="https://t.co/dZjMgTdifg">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sumjitg/status/2104088664615878785"><img src="https://pbs.twimg.com/media/HTM5e7DbkAAH7Uh?format=jpg&amp;name=900x900" alt="Jev Pricing and Positioning on TypeSafe · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sumjitg/status/2104088664615878785">Jev Pricing and Positioning on TypeSafe</a></h3>
+<p>TypeSafe currently lists Jev at $0.042 per million input tokens, i.e. $42 per billion input tokens. The idea isn&#39;t to replace GPT or Claude, but to stop using them for decisions that don&#39;t need them: LLM for reasoning, Jev for deciding, code for execution.</p>
+<p><strong>中文摘要：</strong>TypeSafe 当前将 Jev 列为每百万输入 tokens 0.042 美元（每十亿输入 tokens 42 美元）。该模型并非要取代 GPT 或 Claude，而是用于不需要大模型推理的决策场景：LLM 负责推理，Jev 负责决策，代码负责执行。</p>
+<p><strong>Sumjit</strong> · @sumjitg · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/sumjitg/status/2104088664615878785">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ppmmzzcn/status/2104133505500524661"><img src="https://pbs.twimg.com/media/HTNiHZ0agAAlUoj?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev: A Type-Oriented Decision Transformer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ppmmzzcn/status/2104133505500524661">TypeSafe AI Releases Jev: A Type-Oriented Decision Transformer</a></h3>
+<p>The GitHub trending project dzhng/jev has drawn attention. TypeSafe AI released Jev, a model that does not generate text but only performs typed decision-making.</p>
+<p><strong>中文摘要：</strong>GitHub 热榜项目 dzhng/jev 引发关注。TypeSafe AI 发布 Jev，该模型不做文本生成，只做类型化决策。</p>
+<p><strong>AI观察者 | 平行世界</strong> · @ppmmzzcn · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/ppmmzzcn/status/2104133505500524661">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AutoTrustAI/status/2104088528342942174"><img src="https://pbs.twimg.com/amplify_video_thumb/2104088484927741952/img/lqqxQFDQafzALZgq.jpg" alt="JEV-27B Model Demo Now Live · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AutoTrustAI/status/2104088528342942174">JEV-27B Model Demo Now Live</a></h3>
+<p>AutoTrust released JEV-27B, an open model pairing System 1 and System 2 that combines calibrated, structured decisions with deliberate reasoning in one set of weights. A live demo is available on Hugging Face.</p>
+<p><strong>中文摘要：</strong>AutoTrust 发布 JEV-27B，一个结合 System 1 与 System 2 的开源模型，在单一权重集内同时提供校准的结构化决策与深思熟虑的推理。已开放 Hugging Face 在线演示。</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 8</p>
+<p><a href="https://x.com/AutoTrustAI/status/2104088528342942174">在 X 查看原帖</a> · <a href="https://t.co/K0ERg4nD1T">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MR_0FFICIALL/status/2104004273562415250"><img src="https://pbs.twimg.com/media/HTLsul_WwAA6u8M?format=jpg&amp;name=medium" alt="Jev Is Now Live on B.AI API · 原帖图片" width="100%"></a>
@@ -20,6 +308,30 @@
 <p><strong>MR OFFICIAL</strong> · @MR_0FFICIALL · 2026-09-27</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/MR_0FFICIALL/status/2104004273562415250">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TongZhu197/status/2104137762387480660"><img src="https://pbs.twimg.com/media/HTNmEklXUAA-gV5?format=png&amp;name=medium" alt="Intern-Decision Multimodal Models Released, Claiming to Outperform Jev 1.13.0 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TongZhu197/status/2104137762387480660">Intern-Decision Multimodal Models Released, Claiming to Outperform Jev 1.13.0</a></h3>
+<p>The InternLM team released the Intern-Decision multimodal model family (0.8B, 2B, 4B), claiming the 4B model outperforms Jev 1.13.0. Code and models are open-sourced on Hugging Face and GitHub.</p>
+<p><strong>中文摘要：</strong>InternLM团队发布了Intern-Decision多模态模型家族（0.8B、2B、4B），称4B模型在性能上超越了Jev 1.13.0，相关代码和模型已在Hugging Face和GitHub上开源。</p>
+<p><strong>Tong Zhu</strong> · @TongZhu197 · 2026-09-27</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/TongZhu197/status/2104137762387480660">在 X 查看原帖</a> · <a href="https://t.co/DtpHJQkatG">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Skrilla_git/status/2104203715859161326"><img src="https://pbs.twimg.com/amplify_video_thumb/2104203642395856897/img/rHnneMdUVyu2lc8D.jpg" alt="TypeSafe AI Unveils New Model Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Skrilla_git/status/2104203715859161326">TypeSafe AI Unveils New Model Jev</a></h3>
+<p>Jev is a new model from TypeSafe AI, shipped on September 15 by Diogo Almeida, one of the people behind ChatGPT. Described as a System 1 model, Jev works like intuition rather than token-by-token reasoning.</p>
+<p><strong>中文摘要：</strong>Jev是TypeSafe AI推出的新模型，由ChatGPT背后团队成员之一Diogo Almeida于9月15日发布，被称为System 1模型。与普通LLM逐token思考不同，Jev以直觉式方式工作。</p>
+<p><strong>Skrilla</strong> · @Skrilla_git · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/Skrilla_git/status/2104203715859161326">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/jared_watson1/status/2103978289895260516"><img src="https://pbs.twimg.com/amplify_video_thumb/2103978124165758976/img/dt-ivsb6eefrGxwX.jpg" alt="Onestar launches, an app review analysis product built on the Jev model · 原帖视频截图" width="100%"></a>

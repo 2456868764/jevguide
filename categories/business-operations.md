@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 20 | 9 | 11 | 3.8M |
+| 22 | 11 | 11 | 3.8M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/polydao/status/2104448518966432240"><img src="https://pbs.twimg.com/amplify_video_thumb/2104413316630073344/img/4Lc05FbWdquwO25B.jpg" alt="JEV + Opus 5.5: Ten Steps to Build a Company Brain · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/polydao/status/2104448518966432240">JEV + Opus 5.5: Ten Steps to Build a Company Brain</a></h3>
+<p>The author condenses TypeSafe and Anthropic docs into a 14-page PDF, sharing 10 steps for combining JEV and Opus 5.5 to build a company brain.</p>
+<p><strong>中文摘要：</strong>作者将 TypeSafe 和 Anthropic 文档中的架构整合成 14 页 PDF，分享 JEV 与 Opus 5.5 协同构建公司大脑的 10 个步骤。</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 474</p>
+<p><a href="https://x.com/polydao/status/2104448518966432240">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jules_granier/status/2104426864500711682"><img src="https://pbs.twimg.com/amplify_video_thumb/2104426804522135552/img/lly3hNPe2ElS8tFq.jpg" alt="Jev + Opus 5.5 Powers AI Recruiter · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jules_granier/status/2104426864500711682">Jev + Opus 5.5 Powers AI Recruiter</a></h3>
+<p>The author demonstrates building an AI recruiting system with Jev and Opus 5.5, scanning the market for top candidates and integrating with Claude or custom tools.</p>
+<p><strong>中文摘要：</strong>作者展示了如何利用Jev和Opus 5.5构建AI招聘系统，可扫描人才市场、筛选最佳候选人，并集成到Claude或自有工具中。</p>
+<p><strong>Jules Granier</strong> · @jules_granier · 2026-09-28</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 123</p>
+<p><a href="https://x.com/jules_granier/status/2104426864500711682">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheLatentCo/status/2103415618087293118"><img src="https://pbs.twimg.com/media/HTDVWtAbUAAGEtX?format=jpg&amp;name=small" alt="TypeSafe AI in Talks to Raise Over $1B at $10B+ Valuation; Jev Model Developer Raised $40M Seed · 原帖图片" width="100%"></a>

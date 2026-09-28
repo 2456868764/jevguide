@@ -1,9 +1,10 @@
 # CyrilXBT
 
-13 Jev showcases.
+14 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-27 | [Open Source Jev: Open Jev Runs in Your Browser](https://x.com/cyrilXBT/status/2104130177467076761) | 开发资源 | CyrilXBT | 3.1K |
 | 2026-09-24 | [Beacon on Jev fixes coding agents' memory](https://x.com/cyrilXBT/status/2102963791973749060) | 智能体 | CyrilXBT | 2.8K |
 | 2026-09-24 | [Jev isolates faulty nodes, avoiding full agent restarts](https://x.com/cyrilXBT/status/2103054360406368487) | 工作原理 | CyrilXBT | 1.8K |
 | 2026-09-24 | [Jev makes AI agents scale efficiently](https://x.com/cyrilXBT/status/2103073227061002272) | 智能体 | CyrilXBT | 1.2K |

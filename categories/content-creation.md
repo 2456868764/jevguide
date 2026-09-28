@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 83 | 67 | 19 | 101K |
+| 89 | 71 | 21 | 101K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/H__Wakabayashi/status/2104518243557982667"><img src="https://pbs.twimg.com/amplify_video_thumb/2104517513669492736/img/XA9O2scCd8bYCLDI.jpg" alt="A Speaking Program That Filters Word Sounds with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/H__Wakabayashi/status/2104518243557982667">A Speaking Program That Filters Word Sounds with Jev</a></h3>
+<p>The author used the trending Jev model to select word sounds from pre-linguistic fragments based on nuance, building a speaking program called Onomatoi for others to try.</p>
+<p><strong>中文摘要：</strong>作者使用流行的Jev模型，从尚无明确语义的语音片段中根据语感进行筛选，构建了一个会说话的程序“Onomatoi”，并邀请大家试玩。</p>
+<p><strong>Iceface 🤯</strong> · @H__Wakabayashi · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 209</p>
+<p><a href="https://x.com/H__Wakabayashi/status/2104518243557982667">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/penpen_dev/status/2104372688559198502"><img src="https://pbs.twimg.com/amplify_video_thumb/2104372014379413504/img/zkT3szOHAAKAt6hI.jpg" alt="Building a Custom Emoji Web App with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/penpen_dev/status/2104372688559198502">Building a Custom Emoji Web App with Jev</a></h3>
+<p>A developer built a web app using Jev to create custom emoji and shares that it feels quite useful.</p>
+<p><strong>中文摘要：</strong>一位开发者使用jev创建了一个能生成自定义表情符号的Web应用，并分享说它非常方便。</p>
+<p><strong>penpen@ソフトウェアエンジニア</strong> · @penpen_dev · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/penpen_dev/status/2104372688559198502">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/faisalthumbnail/status/2104455227806298235"><img src="https://pbs.twimg.com/media/HTSGtynaUAA7Bq7?format=jpg&amp;name=medium" alt="Fooling around with TypeSafe Jev, this is nuts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/faisalthumbnail/status/2104455227806298235">Fooling around with TypeSafe Jev, this is nuts</a></h3>
+<p>The author shares their experience messing around with TypeSafe Jev and asks for opinions on the packaging style.</p>
+<p><strong>中文摘要：</strong>作者分享了使用 TypeSafe Jev 的体验，并询问对这种包装风格的看法。</p>
+<p><strong>Faisal - Thumbnail Designer</strong> · @faisalthumbnail · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/faisalthumbnail/status/2104455227806298235">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/s1rozha_/status/2104118094834651389"><img src="https://pbs.twimg.com/amplify_video_thumb/2104117966795055104/img/GUu3VScWcvOYHtuU.jpg" alt="Made a viral video with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/s1rozha_/status/2104118094834651389">Made a viral video with Jev</a></h3>
+<p>A user used Jev to generate a 10-second silent AI video, edited it with Picsart, and it gained 1.3 million likes on Instagram.</p>
+<p><strong>中文摘要：</strong>用户使用Jev生成一段10秒的无声音AI视频，并用Picsart进行后期处理，在Instagram上获得130万点赞。</p>
+<p><strong>s1rozha1</strong> · @s1rozha_ · 2026-09-27</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 530</p>
+<p><a href="https://x.com/s1rozha_/status/2104118094834651389">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tetutetu214/status/2104359769834426462"><img src="https://pbs.twimg.com/media/HTQwDmBaoAAgP8d?format=jpg&amp;name=medium" alt="Using Jev for Blog Translation and Human Review Workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tetutetu214/status/2104359769834426462">Using Jev for Blog Translation and Human Review Workflow</a></h3>
+<p>The author uses Jev to translate their personal blog into English paragraph by paragraph, has AI evaluate each section, routes ambiguous results to human review, then produces the final English version.</p>
+<p><strong>中文摘要：</strong>作者使用 Jev 将个人博客分段翻译为英文，并由 AI 逐段评估，评价模糊的部分转人工确认，最终生成英文版博客。</p>
+<p><strong>てつてつ(いなむら てっぺい)</strong> · @tetutetu214 · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 179</p>
+<p><a href="https://x.com/tetutetu214/status/2104359769834426462">在 X 查看原帖</a> · <a href="https://t.co/YBeaf7jnMV">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/wtry1102/status/2104008824420241747"><img src="https://pbs.twimg.com/amplify_video_thumb/2104003162839699456/img/VLhxs1NL-vJB5NBs.jpg" alt="Jev-Driven Music Video Creation · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +79,19 @@
 <p><strong>WTR</strong> · @wtry1102 · 2026-09-27</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
 <p><a href="https://x.com/wtry1102/status/2104008824420241747">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EmilioCharless/status/2104139337516687754"><img src="https://pbs.twimg.com/amplify_video_thumb/2104138718961438720/img/_t3rVH8AtPrHrGVK.jpg" alt="Understanding JEV via AI Explainer Videos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/EmilioCharless/status/2104139337516687754">Understanding JEV via AI Explainer Videos</a></h3>
+<p>The tweet states that explainer videos have improved thanks to Anthropic&#39;s new model, and that they can be used to understand the JEV concept from TypeSafe.</p>
+<p><strong>中文摘要：</strong>该推文称，得益于 Anthropic 的新模型，解释视频质量提升，可借助此类视频理解 TypeSafe 的 JEV 概念。</p>
+<p><strong>Emilio Charles</strong> · @EmilioCharless · 2026-09-27</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 2</p>
+<p><a href="https://x.com/EmilioCharless/status/2104139337516687754">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2103471626742628788"><img src="https://pbs.twimg.com/amplify_video_thumb/2103471508203180032/img/g8aSfYwGXKZE2h1-.jpg" alt="Jev + Grok Bot: Fully Automated Content Queue Agent · 原帖视频截图" width="100%"></a>

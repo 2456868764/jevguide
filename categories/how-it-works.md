@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 404 | 176 | 229 | 1.6M |
+| 406 | 177 | 230 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sarah_edo/status/2104561809084567843"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2104561776016658432/pu/img/NAIJ-eBvgLgcYazJ.jpg" alt="A Site Explaining System One Thinking · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sarah_edo/status/2104561809084567843">A Site Explaining System One Thinking</a></h3>
+<p>Sarah Drasner built a site that uses interactive animations to explain System One thinking, with Jev as an example, showing how to leverage quick judgments in software.</p>
+<p><strong>中文摘要：</strong>Sarah Drasner 创建了一个网站，通过交互式动画解释 System One 思考，并以 Jev 作为示例，说明如何在软件中应用快速判断。</p>
+<p><strong>Sarah Drasner</strong> · @sarah_edo · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 23 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/sarah_edo/status/2104561809084567843">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ZentrixHQ/status/2104436477580996760"><img src="https://pbs.twimg.com/amplify_video_thumb/2104273564819980289/img/QLRo6NE4LGQZJuwP.jpg" alt="Jev: A Decision Model, Not a Chat Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 395</p>
 <p><a href="https://x.com/ZentrixHQ/status/2104436477580996760">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xmeetrick/status/2104384096831144192"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A Modern Deep-Learning Take on Fuzzy Logic · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 194</p>
 <p><a href="https://x.com/0xmeetrick/status/2104384096831144192">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bubosees/status/2104526075346788389"><img src="https://pbs.twimg.com/amplify_video_thumb/2104516523813371904/img/noLRewcA0JtoSXyG.jpg" alt="Jev vs LLM Agent: Act Without Writing · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 174</p>
 <p><a href="https://x.com/bubosees/status/2104526075346788389">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/__solo69__/status/2104427170261303696"><img src="https://pbs.twimg.com/media/HTRtWqVaYAEjy-h?format=jpg&amp;name=medium" alt="JEV vs Normal LLM Architecture Comparison · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 167</p>
 <p><a href="https://x.com/__solo69__/status/2104427170261303696">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/danielscrivner/status/2104427765168759239"><img src="https://pbs.twimg.com/amplify_video_thumb/2103956529074585600/img/erUdqFvJlCIkjS1M.jpg" alt="How Jev Works: A Custom Programming Language That Returns Percentages · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 127</p>
 <p><a href="https://x.com/danielscrivner/status/2104427765168759239">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yoshimana/status/2104508284569026966"><img src="https://pbs.twimg.com/amplify_video_thumb/2104372014379413504/img/zkT3szOHAAKAt6hI.jpg" alt="Jev&#39;s semantic understanding and recommendation selection? · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
 <p><a href="https://x.com/yoshimana/status/2104508284569026966">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zway_ai/status/2104517182621401228"><img src="https://pbs.twimg.com/media/HTS9Ri9aYAAnnEv?format=jpg&amp;name=medium" alt="Why TypeSafe Trains Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/zway_ai/status/2104517182621401228">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KarnikShreyas/status/2104373813903593745"><img src="https://pbs.twimg.com/media/HTQ5oRJaYAAXRb8?format=jpg&amp;name=medium" alt="How Option Descriptions Affect System One Models · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/KarnikShreyas/status/2104373813903593745">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JackSk35800/status/2104427632175501751"><img src="https://pbs.twimg.com/amplify_video_thumb/2104423286486781952/img/pYk786i1WZ-AaMQt.jpg" alt="How Jev Decision Models Work · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/JackSk35800/status/2104427632175501751">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarlockTome/status/2104526553296109870"><img src="https://pbs.twimg.com/media/HTNIDIUbgAAcMlB?format=jpg&amp;name=medium" alt="Analysis of Jev Experiment Limitations · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/WarlockTome/status/2104526553296109870">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/readinbrief/status/2104411673704759338"><img src="https://pbs.twimg.com/media/HTRfQPJaoAAQG_n?format=jpg&amp;name=medium" alt="Jev: The Decision Layer for Agentic Workflows · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/readinbrief/status/2104411673704759338">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarlockTome/status/2104526551865856052"><img src="https://pbs.twimg.com/media/HTNIDIHbAAAB9Oe?format=jpg&amp;name=medium" alt="Jev Architecture Speculation: MoE Backbone and Prefill Performance · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/WarlockTome/status/2104526551865856052">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarlockTome/status/2104526543582048397"><img src="https://pbs.twimg.com/media/HTNIDIAbYAAz34c?format=jpg&amp;name=medium" alt="Reverse Engineering Jev: 10K API Calls Unpacked · 原帖图片" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>WTome</strong> · @WarlockTome · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/WarlockTome/status/2104526543582048397">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DejisHQ/status/2104567246895112414"><img src="https://pbs.twimg.com/media/HTTswNIXUAEPRyd?format=jpg&amp;name=medium" alt="Transparent explanation of Jev&#39;s output rules · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DejisHQ/status/2104567246895112414">Transparent explanation of Jev&#39;s output rules</a></h3>
+<p>Deji explains how Jev decides its output based on simple rules: closed content is hidden, inapplicable from the founder country is hidden, researcher-only is hidden, and uncertain cases are human-checked first, ensuring the reasons behind hidden outputs remain traceable.</p>
+<p><strong>中文摘要：</strong>Deji 解释了 Jev 如何根据简单规则决定输出：已关闭的内容隐藏，创始人所在国家不可申请则隐藏，仅限研究人员则隐藏，不确定时由人工先检查，确保背后原因可追溯。</p>
+<p><strong>Deji</strong> · @DejisHQ · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/DejisHQ/status/2104567246895112414">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/e_opore/status/2104053983299969227"><img src="https://pbs.twimg.com/media/HTMZttOWgAAvLCs?format=jpg&amp;name=medium" alt="What Is Jev: The System One Model That Doesn&#39;t Chat · 原帖图片" width="100%"></a>

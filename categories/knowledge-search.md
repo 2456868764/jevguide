@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 83 | 46 | 37 | 235K |
+| 85 | 46 | 39 | 235K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/assaf_elovic/status/2104562754774303203"><img src="https://pbs.twimg.com/media/HTToN0KWsAAiiBE?format=png&amp;name=medium" alt="Jev Outperforms Embeddings in RAG · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/assaf_elovic/status/2104562754774303203">Jev Outperforms Embeddings in RAG</a></h3>
+<p>Community tests show that replacing embeddings with Jev in GPT Researcher&#39;s RAG pipeline yields 59% more relevant context (73% vs 46%) across 28 research tasks, with reports preferred by users.</p>
+<p><strong>中文摘要：</strong>社区测试显示，在GPT Researcher的RAG管道中，Jev替代embeddings后，在28个研究任务上相关上下文提升59%（73%对比46%），且生成的报告更受偏好。</p>
+<p><strong>Assaf Elovic</strong> · @assaf_elovic · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 232</p>
+<p><a href="https://x.com/assaf_elovic/status/2104562754774303203">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ahab_developer/status/2104506942630883823"><img src="https://pbs.twimg.com/amplify_video_thumb/2104506292450820096/img/wdAUc1zZvParLIDv.jpg" alt="Smart search powered by Jev is now available on supernotch.pro · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
 <p><a href="https://x.com/ahab_developer/status/2104506942630883823">在 X 查看原帖</a> · <a href="https://t.co/T8VQEzRDDZ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ahab_developer/status/2104533181722710325"><img src="https://pbs.twimg.com/amplify_video_thumb/2104506292450820096/img/wdAUc1zZvParLIDv.jpg" alt="Build Fast Smart Search with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
 <p><a href="https://x.com/ahab_developer/status/2104533181722710325">在 X 查看原帖</a> · <a href="https://t.co/3yDfLE1sOo">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mpijierro/status/2104533026076024975"><img src="https://pbs.twimg.com/media/HTTJP0JXcAAjSzI?format=png&amp;name=small" alt="TramitEX: A government procedures search pilot built with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/mpijierro/status/2104533026076024975">在 X 查看原帖</a> · <a href="https://t.co/mwfw8iNSeP">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/michabbb/status/2104373857054527508"><img src="https://pbs.twimg.com/media/HTQ83w7akAAlNng?format=jpg&amp;name=medium" alt="Using Jev to Judge Knowledge Graph Connections · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Micha(el) Bladowski 🇩🇪 🇺🇦</strong> · @michabbb · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/michabbb/status/2104373857054527508">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/blumbuilds/status/2104568099160690885"><img src="https://pbs.twimg.com/media/HTTtd75XsAATCz-?format=jpg&amp;name=medium" alt="JEV Set to Transform AI Memory Architectures · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/blumbuilds/status/2104568099160690885">JEV Set to Transform AI Memory Architectures</a></h3>
+<p>The post claims JEV makes RAG obsolete, enabling JEV searches over huge databases to return ranked relevant outputs, with @orbitagents as the most advanced Agent OS memory architecture thanks to JEV.</p>
+<p><strong>中文摘要：</strong>文章声称JEV使RAG过时，能对大型数据库进行JEV搜索并返回排名最相关的结果，@orbitagents借助JEV成为最先进的Agent OS记忆架构。</p>
+<p><strong>Blumi | Orbitagents</strong> · @blumbuilds · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/blumbuilds/status/2104568099160690885">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

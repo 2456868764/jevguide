@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 388 | 209 | 181 | 3.6M |
+| 390 | 210 | 182 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoundtableSpace/status/2104568056538095815"><img src="https://pbs.twimg.com/amplify_video_thumb/2103914409747996674/img/_bKCc6sOaf8jDIXp.jpg" alt="Jevgrep: A CLI research agent powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RoundtableSpace/status/2104568056538095815">Jevgrep: A CLI research agent powered by Jev</a></h3>
+<p>Jevgrep is a CLI tool powered by Jev from TypeSafe AI for research agents, claiming a 40% cost reduction for coding agents and verified on SWE-bench.</p>
+<p><strong>中文摘要：</strong>Jevgrep是一个基于TypeSafe AI的Jev的CLI工具，用于研究代理，声称可将编码代理成本降低40%，并已在SWE-bench上验证。</p>
+<p><strong>0xMarioNawfal</strong> · @RoundtableSpace · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2.3K</p>
+<p><a href="https://x.com/RoundtableSpace/status/2104568056538095815">在 X 查看原帖</a> · <a href="https://t.co/SoggytSWxV">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/golangch/status/2104435951078678932"><img src="https://pbs.twimg.com/media/HTR1WGlaAAA784E?format=jpg&amp;name=medium" alt="Unofficial Unix Client for Jev (Go) · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 773</p>
 <p><a href="https://x.com/golangch/status/2104435951078678932">在 X 查看原帖</a> · <a href="https://t.co/QG6ae3LQdp">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DanKornas/status/2104424356197568534"><img src="https://pbs.twimg.com/media/HTRqy4TWMAAztCF?format=jpg&amp;name=medium" alt="Jev Social: Open-Source Agent Skill for Source-Linked Social Research · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 648</p>
 <p><a href="https://x.com/DanKornas/status/2104424356197568534">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/idoubicc/status/2104545729918451816"><img src="https://pbs.twimg.com/media/HTTXfGNasAAFjyC?format=jpg&amp;name=medium" alt="autojev.ai: Open-source model router powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>idoubi</strong> · @idoubicc · 2026-09-28</p>
 <p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 584</p>
 <p><a href="https://x.com/idoubicc/status/2104545729918451816">在 X 查看原帖</a> · <a href="https://t.co/2y8vSWTqHx">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2104559500133069205"><img src="https://pbs.twimg.com/media/HTSEACibIAAmruX?format=jpg&amp;name=medium" alt="Plugin integrating the Jev decision model with Harness · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2104559500133069205">Plugin integrating the Jev decision model with Harness</a></h3>
+<p>This plugin integrates TypeSafe&#39;s Jev decision model into Harness to select tools, Skills, and owners before taking action, and scores outputs against given criteria.</p>
+<p><strong>中文摘要：</strong>该插件将 TypeSafe 的 Jev 决策模型接入 Harness，在动手前先选择工具、Skill 和负责人，并按给定标准对产出打分。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 261</p>
+<p><a href="https://x.com/QingQ77/status/2104559500133069205">在 X 查看原帖</a> · <a href="https://t.co/0GN8GXaJpZ">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/idoubicc/status/2104547249326051689"><img src="https://pbs.twimg.com/media/HTTad67bwAAUmjY?format=jpg&amp;name=medium" alt="Jev Router Routing Strategy Support · 原帖图片" width="100%"></a>

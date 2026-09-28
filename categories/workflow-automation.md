@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 161 | 108 | 53 | 595K |
+| 165 | 111 | 54 | 595K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2104540710812692914"><img src="https://pbs.twimg.com/amplify_video_thumb/2104540683537117184/img/dU95HSyJo5ASKaBB.jpg" alt="Jev + Grok Builds a Controlled Agent Workflow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gippp69/status/2104540710812692914">Jev + Grok Builds a Controlled Agent Workflow</a></h3>
+<p>The post shows how Jev plus Grok turns a noisy agent workflow into a control stack, triggering expensive generation only when worthwhile and separating decisions, writing, and human review.</p>
+<p><strong>中文摘要：</strong>该帖子介绍 Jev 与 Grok 结合，将嘈杂的代理工作流转变为控制栈，仅在值得时进行昂贵生成，并分离决策、写作与人工审查。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-28</p>
+<p>💬 16 &nbsp; 🔁 0 &nbsp; ♡ 35 &nbsp; 📊 950</p>
+<p><a href="https://x.com/gippp69/status/2104540710812692914">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/twentycrm/status/2104526686372991464"><img src="https://pbs.twimg.com/amplify_video_thumb/2104525474542100480/img/lmMlzGkQmkxoaBuN.jpg" alt="Twenty&#39;s New Workflow Step Powered by Jev for Smart Classification · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 460</p>
 <p><a href="https://x.com/twentycrm/status/2104526686372991464">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/leopardracer/status/2104532508217893093"><img src="https://pbs.twimg.com/amplify_video_thumb/2104532262934999041/img/3fujuqxUrLWxlkcQ.jpg" alt="Jev + Claude Code: Cheaper and Faster Autonomous Loops · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 387</p>
 <p><a href="https://x.com/leopardracer/status/2104532508217893093">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/seltzer/status/2104366270334620156"><img src="https://pbs.twimg.com/media/HTQ1rdxaMAAYKHL?format=png&amp;name=small" alt="Jev Spam Filter in Practice: 58% Slipped Past Threshold · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 340</p>
 <p><a href="https://x.com/seltzer/status/2104366270334620156">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hata_AI_master/status/2104443974371115372"><img src="https://pbs.twimg.com/amplify_video_thumb/2104345089212628992/img/FxHAuv5SUr3Ts-2G.jpg" alt="Jev will truly transform blue-collar work · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 145</p>
 <p><a href="https://x.com/hata_AI_master/status/2104443974371115372">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TakeshiYonese/status/2104365900208173480"><img src="https://pbs.twimg.com/amplify_video_thumb/2104345089212628992/img/FxHAuv5SUr3Ts-2G.jpg" alt="Envisioning Jev for Factory Inspection · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 80</p>
 <p><a href="https://x.com/TakeshiYonese/status/2104365900208173480">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/boyang_xie/status/2104362912051769409"><img src="https://pbs.twimg.com/amplify_video_thumb/2104362805944344576/img/FDqI78DWMMiMlVaP.jpg" alt="Using Jev to Decide If an X Post Is Worth Replying · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,30 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 44</p>
 <p><a href="https://x.com/boyang_xie/status/2104362912051769409">在 X 查看原帖</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://x.com/1kleos1/status/2104563405616996626"><img src="https://pbs.twimg.com/amplify_video_thumb/2104563240508203009/img/5AMXPLmJDxBUnVow.jpg" alt="Jev-powered overnight automated research desk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/1kleos1/status/2104563405616996626">Jev-powered overnight automated research desk</a></h3>
+<p>A research desk that works all night for 51 cents, reading arXiv, GitHub, and X while you sleep. Jev decides every fork; the LLM only reads and writes. Last night: 302 sources screened, 154 kept, 105 notes written, 12 duplicates killed, 11 sent.</p>
+<p><strong>中文摘要：</strong>一个成本仅51美分的研究台，在你睡觉时读取arxiv、GitHub和X，Jev决定每个分支，LLM只负责读写。昨晚处理了302个来源，保留154个，写出105条笔记，清除12个重复项，向11处发送结果。</p>
+<p><strong>1kleos1</strong> · @1kleos1 · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/1kleos1/status/2104563405616996626">在 X 查看原帖</a></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DejisHQ/status/2104567176288174147"><img src="https://pbs.twimg.com/media/HTTssA2XgAAVxnN?format=jpg&amp;name=medium" alt="Lessons from letting Jev handle 100 funding opportunities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DejisHQ/status/2104567176288174147">Lessons from letting Jev handle 100 funding opportunities</a></h3>
+<p>The author had Jev process 100 funding opportunities, evaluated its answers against their own, discovered a personal mistake, and shared insights.</p>
+<p><strong>中文摘要：</strong>作者让Jev处理100个资助机会，对照自己的答案评估其表现，发现了一个自身错误，并分享了心得。</p>
+<p><strong>Deji</strong> · @DejisHQ · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 23</p>
+<p><a href="https://x.com/DejisHQ/status/2104567176288174147">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/smsehy/status/2104448400884425033"><img src="https://pbs.twimg.com/amplify_video_thumb/2104448101239156736/img/RIeBfOWNUfMKwbbz.jpg" alt="Jev Only Decides: Millisecond Confidence Responses · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/smsehy/status/2104448400884425033">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarBornePhoenix/status/2104446253367169317"><img src="https://pbs.twimg.com/media/HTKiyj0bIAAlibE?format=jpg&amp;name=medium" alt="Jev Used for Candidate Scoring: Ranked #2 Out of 3518 Applications · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/WarBornePhoenix/status/2104446253367169317">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/workato_jp/status/2104521731792887813"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2104521714453618688/pu/img/mFJx1jddQrpxber0.jpg" alt="Workato Integrates External Judgment AI &#39;Jev&#39; to Auto-Classify Slack Requests · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
 <p><a href="https://x.com/workato_jp/status/2104521731792887813">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Echosphere8f/status/2104376547247599801"><img src="https://pbs.twimg.com/media/HTQ_SsvbAAAYPbU?format=jpg&amp;name=medium" alt="Browser Automation Implementation with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Echosphere8f/status/2104376547247599801">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/workato_jp/status/2104521756019184038"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2104521739439136768/pu/img/8tfrrerqia0LFmFc.jpg" alt="Workato Integrates Jev for Slack Content Judgment and Auto-Reply · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +175,19 @@
 <p><strong>Workato Japan 🤖</strong> · @workato_jp · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/workato_jp/status/2104521756019184038">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ma_fish_unv/status/2104568247677067698"><img src="https://pbs.twimg.com/amplify_video_thumb/2104568203284512768/img/LIcd7UPRIbMiKHvD.jpg" alt="Real-time Keigo Detection App Using Whisper and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ma_fish_unv/status/2104568247677067698">Real-time Keigo Detection App Using Whisper and Jev</a></h3>
+<p>The author built an app that combines whisper speech recognition with the Jev reasoning model to determine in real time whether spoken words use keigo, with results changing based on the situation.</p>
+<p><strong>中文摘要：</strong>作者开发了一个结合whisper语音识别与Jev推理模型的实时敬语判断应用，切换情形时判断结果也会随之变化。</p>
+<p><strong>まっつん</strong> · @ma_fish_unv · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/ma_fish_unv/status/2104568247677067698">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Faazsh/status/2104233703144824925"><img src="https://pbs.twimg.com/amplify_video_thumb/2104233683473596416/img/48N1QrVKOQxan6gf.jpg" alt="Jev Engineering: Cut Costs by Splitting Model Tasks · 原帖视频截图" width="100%"></a>

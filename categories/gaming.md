@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 300 | 229 | 75 | 588K |
+| 302 | 229 | 77 | 588K |
 
 ## Showcase 卡片
 
@@ -46,6 +46,19 @@
 <p><a href="https://x.com/kiyoshi_shin/status/2104375961672462394">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/MLarchanka/status/2104559764931776756"><img src="https://pbs.twimg.com/media/HTTl0B-XEAAH9wk?format=jpg&amp;name=medium" alt="Tried Laya (open-source Jev alternative): built two games with AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MLarchanka/status/2104559764931776756">Tried Laya (open-source Jev alternative): built two games with AI</a></h3>
+<p>The author tried Laya, an open-source analog of Jev, and vibe-coded two games: a snake game played by AI itself and Pong against AI. Everything works and runs locally on MacBook Air M3; the author loses at Pong. GitHub link included.</p>
+<p><strong>中文摘要：</strong>作者尝试了 Laya（Jev 的开源类似物），通过 AI 辅助编程制作了两个游戏：AI 自己玩的贪吃蛇和玩家与 AI 对战的乒乓球。游戏在 MacBook Air M3 上运行正常，作者在乒乓球中输给了电脑。附 GitHub 链接。</p>
+<p><strong>Миша Ларченко</strong> · @MLarchanka · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
+<p><a href="https://x.com/MLarchanka/status/2104559764931776756">在 X 查看原帖</a> · <a href="https://t.co/ZEBTcuRhru">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0z_Dustin136/status/2104409492381479293"><img src="https://pbs.twimg.com/media/HTRdRMrbQAAAeDx?format=jpg&amp;name=medium" alt="Jev FC Buddy: AI Plays NES With You, Inputs Fully Observable · 原帖图片" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖图片</code></sub>
@@ -56,8 +69,6 @@
 <p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 41</p>
 <p><a href="https://x.com/0z_Dustin136/status/2104409492381479293">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bitstream_blake/status/2104365664052101608"><img src="https://pbs.twimg.com/amplify_video_thumb/2104365575690416128/img/Q6yL3eonGcn0r5-v.jpg" alt="Jev Plays Doom, Developer Considers Open Source · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/bitstream_blake/status/2104365664052101608">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ghtght_7/status/2104504002906116331"><img src="https://pbs.twimg.com/amplify_video_thumb/2104454169449164801/img/A8EPth03gIEjeE_Z.jpg" alt="Jev survives ~10 moves in chess game · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/ghtght_7/status/2104504002906116331">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/furoku/status/2104529248136368358"><img src="https://pbs.twimg.com/media/HTTKIjcbgAA1P3q?format=jpg&amp;name=large" alt="Dark Labyrinth Game &#39;The Only Way Out&#39; Powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Mojofull</strong> · @furoku · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/furoku/status/2104529248136368358">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/the___incident/status/2104563439435960801"><img src="https://pbs.twimg.com/media/HTTpSXcXoAAMyri?format=jpg&amp;name=medium" alt="Jev Incident Challenge: Musify Music Streaming App · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/the___incident/status/2104563439435960801">Jev Incident Challenge: Musify Music Streaming App</a></h3>
+<p>The Incident Challenge invites Jev fans to diagnose and fix a problem in the royalty system of the music streaming app Musify, using Laya (Jev alt). Fastest correct answer wins.</p>
+<p><strong>中文摘要：</strong>The Incident Challenge 发起了一项针对 Jev 粉丝的挑战，使用 Jev 的替代模型 Laya 对音乐流媒体应用 Musify 的版税系统故障进行排查和修复，最快答对者获胜。</p>
+<p><strong>The Incident Challenge</strong> · @the___incident · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/the___incident/status/2104563439435960801">在 X 查看原帖</a> · <a href="https://t.co/dsCHzV6Nlk">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="Jev clears Pokémon Red · 原帖视频截图" width="100%"></a>

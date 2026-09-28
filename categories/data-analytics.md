@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 83 | 49 | 35 | 392K |
+| 85 | 49 | 37 | 392K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/spenserskates/status/2104698114510852523"><img src="https://pbs.twimg.com/media/HTVhba4akAAonQ7?format=jpg&amp;name=medium" alt="Jev&#39;s performance in AI analytics benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/spenserskates/status/2104698114510852523">Jev&#39;s performance in AI analytics benchmarks</a></h3>
+<p>Spenser Skates mentions testing Jev in their own AI analytics benchmarks for chart anomaly detection and deeper dives. It is significantly faster and cheaper but overly sensitive with low precision, escalating more often than the best general-purpose models.</p>
+<p><strong>中文摘要：</strong>Spenser Skates 提到在自有 AI 分析基准中测试 Jev，用于图表异常检测和深度分析。结果：速度和成本优势明显，但过于敏感，精度较低，比通用模型更容易升级告警。</p>
+<p><strong>Spenser Skates</strong> · @spenserskates · 2026-09-28</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/spenserskates/status/2104698114510852523">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/chimaki_iot/status/2104433516402581976"><img src="https://pbs.twimg.com/media/HTRxkGAacAACmky?format=jpg&amp;name=medium" alt="Jev for Google Map List Classification · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 308</p>
 <p><a href="https://x.com/chimaki_iot/status/2104433516402581976">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ai_YashAgrawal/status/2104409972222410893"><img src="https://pbs.twimg.com/amplify_video_thumb/2104409919105761280/img/x8RafHx4Urj6r0Zm.jpg" alt="JEV joins Claude Code to sort 100+ billion data points · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 31</p>
 <p><a href="https://x.com/Ai_YashAgrawal/status/2104409972222410893">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thsnkhn/status/2104541775398617505"><img src="https://pbs.twimg.com/amplify_video_thumb/2104541526139580416/img/Gl9mIDO-AnP9XbH0.jpg" alt="User classified 25K+ reviews with Jev for just $2 · 原帖视频截图" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>thsnkhn</strong> · @thsnkhn · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
 <p><a href="https://x.com/thsnkhn/status/2104541775398617505">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rizzn/status/2104688022684078295"><img src="https://pbs.twimg.com/media/HTVamW1W4AEZkQE?format=jpg&amp;name=medium" alt="Benchmark comparison discussion involving Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rizzn/status/2104688022684078295">Benchmark comparison discussion involving Jev</a></h3>
+<p>User Mark Rizzn Hopkins shares scoring results on news headline tasks, noting Julia scored 85% on the full 7,600 samples (last place), and mentions that their lead over Jev shrinks on the full 2,000.</p>
+<p><strong>中文摘要：</strong>用户Mark Rizzn Hopkins分享了一些模型在新闻标题任务上的评分结果，指出Julia在完整7600个样本上得分为85%，垫底，并提到与Jev的领先差距在完整2000个样本上缩小。</p>
+<p><strong>Mark Rizzn Hopkins</strong> · @rizzn · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/rizzn/status/2104688022684078295">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/rutinelabo/status/2104519023413367045"><img src="https://pbs.twimg.com/amplify_video_thumb/2104518987891806208/img/qcoLaGG2NBkckDqd.jpg" alt="Using Jev AI to Assess Calories for 30 Meals · 原帖视频截图" width="100%"></a>

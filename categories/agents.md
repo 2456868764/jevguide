@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 278 | 159 | 120 | 3.0M |
+| 280 | 159 | 122 | 3.0M |
 
 ## Showcase 卡片
 
@@ -131,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/ianlapham/status/2104690455258575326"><img src="https://pbs.twimg.com/media/HTVaiGyXkAA8M_7?format=jpg&amp;name=medium" alt="Intent Check: Using Jev to Score Changes Against Requirements · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ianlapham/status/2104690455258575326">Intent Check: Using Jev to Score Changes Against Requirements</a></h3>
+<p>The post describes a dedicated intent check step: a fresh context-free agent reviews screenshots and videos from the previous step and uses jev to score whether the change meets the original requirements.</p>
+<p><strong>中文摘要：</strong>该帖介绍了专用意图检查步骤：由一个全新上下文的代理查看上一步的截图和视频，并使用 jev 评估变更是否满足原始需求。</p>
+<p><strong>Ian Lapham</strong> · @ianlapham · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 48</p>
+<p><a href="https://x.com/ianlapham/status/2104690455258575326">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/0xCodio/status/2104519620753273176"><img src="https://pbs.twimg.com/media/HTTBbCaWUAAHIpE?format=jpg&amp;name=medium" alt="Jev engineering with Opus 5.5 for autonomous agents · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 42</p>
 <p><a href="https://x.com/0xCodio/status/2104519620753273176">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/IvanShero/status/2104444913219727469"><img src="https://pbs.twimg.com/amplify_video_thumb/2104444888200740864/img/hLhLpYaXOqFizIu8.jpg" alt="Jev for Real-Time Decision Correction · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
 <p><a href="https://x.com/IvanShero/status/2104444913219727469">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/julianlaxman/status/2104413926502899795"><img src="https://pbs.twimg.com/amplify_video_thumb/2104411797612544000/img/yN_iJTtX2XKKoXd3.jpg" alt="Jev-Powered Agents Simulate Yorkdale Shopping Centre · 原帖视频截图" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>julian</strong> · @julianlaxman · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 30</p>
 <p><a href="https://x.com/julianlaxman/status/2104413926502899795">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rizzn/status/2104692185493016667"><img src="https://pbs.twimg.com/media/HTVeY3qXcAA-73-?format=jpg&amp;name=medium" alt="Jev hits 99% on phone intent tests · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rizzn/status/2104692185493016667">Jev hits 99% on phone intent tests</a></h3>
+<p>The author compares Julia and Jev on the same public tests: Julia scored 57% on movie-review sentiment and 56% on ten everyday phone intents, while Jev hit 99%.</p>
+<p><strong>中文摘要：</strong>作者对比了Julia与Jev在同一组公开测试上的表现：电影评论情感测试中Julia得57%，十个日常手机意图测试中Julia得56%，而Jev达到99%。</p>
+<p><strong>Mark Rizzn Hopkins</strong> · @rizzn · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><a href="https://x.com/rizzn/status/2104692185493016667">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ContextoBoy/status/2104407233220030875"><img src="https://pbs.twimg.com/amplify_video_thumb/2104407175615393792/img/rl5YdHc5uVcaGpa-.jpg" alt="JEV Model for Agent Memory Gating · 原帖视频截图" width="100%"></a>

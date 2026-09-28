@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3811</strong><br>curated posts</td>
-<td align="center"><strong>2007</strong><br>original videos</td>
+<td align="center"><strong>3838</strong><br>curated posts</td>
+<td align="center"><strong>2019</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>543</strong> showcases · <strong>217</strong> videos</p>
+<p><strong>554</strong> showcases · <strong>223</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>393</strong> showcases · <strong>211</strong> videos</p>
+<p><strong>395</strong> showcases · <strong>213</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>334</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>335</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>278</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>280</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>241</strong> showcases · <strong>95</strong> videos</p>
+<p><strong>245</strong> showcases · <strong>95</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>187</strong> showcases · <strong>104</strong> videos</p>
+<p><strong>188</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>165</strong> showcases · <strong>111</strong> videos</p>
+<p><strong>166</strong> showcases · <strong>111</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>110</strong> showcases · <strong>87</strong> videos</p>
+<p><strong>111</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>93</strong> showcases · <strong>74</strong> videos</p>
+<p><strong>94</strong> showcases · <strong>74</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>83</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>85</strong> showcases · <strong>49</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>23</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -321,12 +321,12 @@ Start with verified Jev posts.
 <p><strong>Uri Eliabayev</strong> · @urieli17</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/golangch/status/2104435951078678932"><img src="https://pbs.twimg.com/media/HTR1WGlaAAA784E?format=jpg&amp;name=medium" alt="Unofficial Unix Client for Jev (Go) · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/golangch/status/2104435951078678932">Unofficial Unix Client for Jev (Go)</a></h3>
-<p>This post announces an unofficial, provider-neutral Unix client for Jev from TypeSafe AI, written in Go, with a link to the GitHub repository.</p>
-<p><strong>773</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 773</p>
-<p><strong>Golang News &amp; Libs &amp; Jobs - human 🗣️ , no 🤖</strong> · @golangch</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/gippp69/status/2104540710812692914"><img src="https://pbs.twimg.com/amplify_video_thumb/2104540683537117184/img/dU95HSyJo5ASKaBB.jpg" alt="Jev + Grok Builds a Controlled Agent Workflow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gippp69/status/2104540710812692914">Jev + Grok Builds a Controlled Agent Workflow</a></h3>
+<p>The post shows how Jev plus Grok turns a noisy agent workflow into a control stack, triggering expensive generation only when worthwhile and separating decisions, writing, and human review.</p>
+<p><strong>950</strong> views · 💬 16 &nbsp; 🔁 0 &nbsp; ♡ 35 &nbsp; 📊 950</p>
+<p><strong>Gipp 🦅</strong> · @gippp69</p>
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 241 | 95 | 146 | 419K |
+| 245 | 95 | 150 | 419K |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/imryven/status/2104688281648533797"><img src="https://pbs.twimg.com/media/HTVaprjXMAEwh6X?format=jpg&amp;name=medium" alt="Jev Audit Prompt: Cut Coding Agent Token Costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/imryven/status/2104688281648533797">Jev Audit Prompt: Cut Coding Agent Token Costs</a></h3>
+<p>Share a Jev audit prompt that, when sent to your coding agent, can significantly reduce token usage, potentially cutting your bill by about 80%.</p>
+<p><strong>中文摘要：</strong>分享一个 Jev 审计提示词，发送给编码代理可显著降低 token 消耗，最高可减少约 80% 的账单。</p>
+<p><strong>Ryven</strong> · @imryven · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 270</p>
+<p><a href="https://x.com/imryven/status/2104688281648533797">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/e_opore/status/2104416347442835543"><img src="https://pbs.twimg.com/media/HTRjbg-WUAExlwq?format=jpg&amp;name=medium" alt="Jev API Developer Cheat Sheet · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 237</p>
 <p><a href="https://x.com/e_opore/status/2104416347442835543">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/unbefallen/status/2104526382252322823"><img src="https://pbs.twimg.com/media/HTTHeTSXEAAz09F?format=jpg&amp;name=medium" alt="Jev Decision Model Roadmap: Testing, Playground, and UNB 0.1 · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 115</p>
 <p><a href="https://x.com/unbefallen/status/2104526382252322823">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/N01ennn/status/2104581041360925159"><img src="https://pbs.twimg.com/amplify_video_thumb/2104581001930268672/img/m2AghwJqks46v4rc.jpg" alt="20 GitHub Repos to Level Up Your JEV Workflow · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>NO1ennn</strong> · @N01ennn · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 102</p>
 <p><a href="https://x.com/N01ennn/status/2104581041360925159">在 X 查看原帖</a> · <a href="https://t.co/xh2Lb7iiW2">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Tyr_Nippon/status/2104696442816434246"><img src="https://pbs.twimg.com/media/HTViMg0aoAAIRVp?format=jpg&amp;name=medium" alt="fast-jev-compaction: Compress Jev Model State for Faster AI Agent Inference · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tyr_Nippon/status/2104696442816434246">fast-jev-compaction: Compress Jev Model State for Faster AI Agent Inference</a></h3>
+<p>An open-source tool that efficiently compresses KV cache and execution state bloated by long-running TypeSafe Jev models, cutting inference memory while maintaining ultra-low latency — ideal for long-context and complex agent workloads.</p>
+<p><strong>中文摘要：</strong>开源工具，针对 TypeSafe Jev 模型长时间运行导致的 KV 缓存和执行状态膨胀问题进行高效压缩，在显著降低推理内存的同时维持超低延迟，适合长上下文和复杂代理场景。</p>
+<p><strong>CatsGPT</strong> · @Tyr_Nippon · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/Tyr_Nippon/status/2104696442816434246">在 X 查看原帖</a> · <a href="https://t.co/1eYL61mYIh">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/chatgpt1499/status/2104392159155949869"><img src="https://pbs.twimg.com/media/HTRNTRObAAA48Xu?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated List for Engineering AI Judgments · 原帖图片" width="100%"></a>
@@ -131,6 +155,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/automater_ai/status/2104570659208864070"><img src="https://pbs.twimg.com/media/HTTvYG9WwAAM6N0?format=jpg&amp;name=medium" alt="Jev Decision Log Records and Version Pinning Guide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/automater_ai/status/2104570659208864070">Jev Decision Log Records and Version Pinning Guide</a></h3>
+<p>Introduces the practice of recording one Jev decision log per call, including state ref, versioned questions, answers, model, and policy, and recommends pinning jev-1.13.0 instead of jev-latest.</p>
+<p><strong>中文摘要：</strong>介绍每次调用记录一条 Jev 决策日志的实践，包括状态引用、版本化问题、答案、模型和策略，并建议固定使用 jev-1.13.0 而非 jev-latest。</p>
+<p><strong>Automater</strong> · @automater_ai · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/automater_ai/status/2104570659208864070">在 X 查看原帖</a> · <a href="https://t.co/JQcqv9yDui">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/ParlonsIAx/status/2104451307687866740"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2104451245612089344/pu/img/iSvPCJZT-Hnu4L6u.jpg" alt="Master Jev: A Guide to Building Autonomous Agents · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖视频</code></sub>
@@ -141,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/ParlonsIAx/status/2104451307687866740">在 X 查看原帖</a> · <a href="https://t.co/IsH0be7re1">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VALVETONLINE/status/2104409180794728911"><img src="https://pbs.twimg.com/media/HTRc_25XoAAJQM8?format=jpg&amp;name=medium" alt="Jev-style models now run on your own hardware · 原帖图片" width="100%"></a>
 <br>
@@ -151,6 +188,17 @@
 <p><strong>Valvet Online</strong> · @VALVETONLINE · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/VALVETONLINE/status/2104409180794728911">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rizzn/status/2104692367408443455"><img src="https://pbs.twimg.com/media/HTVejWgWQAE1Y-3?format=jpg&amp;name=medium" alt="Jev recommended in model selection tips · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rizzn/status/2104692367408443455">Jev recommended in model selection tips</a></h3>
+<p>The author notes that Jev suits scenarios requiring high accuracy, a short menu, and cloud usage.</p>
+<p><strong>中文摘要：</strong>作者在测试后表示：Jev适合追求高准确率、简洁菜单和云端使用的场景。</p>
+<p><strong>Mark Rizzn Hopkins</strong> · @rizzn · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/rizzn/status/2104692367408443455">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

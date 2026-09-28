@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 393 | 211 | 184 | 3.6M |
+| 395 | 213 | 184 | 3.6M |
 
 ## Showcase 卡片
 
@@ -166,6 +166,19 @@
 <p><a href="https://x.com/newmediums/status/2104559315843535359">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/DeepInsightLabs/status/2104571831193612291"><img src="https://pbs.twimg.com/amplify_video_thumb/2104405737430802432/img/DcigSc2el0BEdWSV.jpg" alt="Jev &amp; Seldon: Stop Paying the Generation Tax for Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DeepInsightLabs/status/2104571831193612291">Jev &amp; Seldon: Stop Paying the Generation Tax for Decisions</a></h3>
+<p>Jev going viral validates the core pitch: many calls can be computed directly, but are billed at frontier generation prices. Swap one call by hand with Jev, and let Seldon automatically compile every call that never needed generation—on the same API.</p>
+<p><strong>中文摘要：</strong>Jev模型走红验证了核心理念：许多调用本可直接计算，却按前沿模型生成计费。用Jev替换单次人工调用，用Seldon自动编译所有无需生成的调用，且保持同一API。</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/DeepInsightLabs/status/2104571831193612291">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/st_dev0/status/2104528001778262247"><img src="https://pbs.twimg.com/media/HTTJEHNasAE89FQ?format=jpg&amp;name=medium" alt="fast-jev-compaction: A Claude Code plugin using Jev for context compaction · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -175,6 +188,17 @@
 <p><strong>田嶋正吾</strong> · @st_dev0 · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/st_dev0/status/2104528001778262247">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/robvjourney/status/2104692630630076888"><img src="https://pbs.twimg.com/amplify_video_thumb/2101966502954196992/img/rcMJFO9c3DV8wU5d.jpg" alt="Beacon: Open-Source Memory Layer Using Jev for Reusable Skills · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/robvjourney/status/2104692630630076888">Beacon: Open-Source Memory Layer Using Jev for Reusable Skills</a></h3>
+<p>Beacon, shared by @_avichawla, captures agent runs and uses Jev to surface reusable skills across harnesses like Claude Code, Codex, and Cursor. Repo and demo included.</p>
+<p><strong>中文摘要：</strong>由 @_avichawla 分享的 Beacon 捕获 agent 运行记录，并使用 Jev 在 Claude Code、Codex、Cursor 等工具之间展示可复用技能，附有仓库和演示。</p>
+<p><strong>iamrobinvv</strong> · @robvjourney · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/robvjourney/status/2104692630630076888">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

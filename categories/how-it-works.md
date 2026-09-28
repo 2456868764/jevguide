@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 400 | 175 | 226 | 1.6M |
+| 404 | 176 | 229 | 1.6M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/bubosees/status/2104526075346788389"><img src="https://pbs.twimg.com/amplify_video_thumb/2104516523813371904/img/noLRewcA0JtoSXyG.jpg" alt="Jev vs LLM Agent: Act Without Writing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bubosees/status/2104526075346788389">Jev vs LLM Agent: Act Without Writing</a></h3>
+<p>The post uses two AI flies to compare Jev and LLM agents: the LLM agent thinks in words and writes before acting, while Jev returns directly without writing.</p>
+<p><strong>中文摘要：</strong>帖子以两只AI苍蝇比喻，对比Jev与LLM Agent的行为方式：LLM Agent需要先以文字思考再行动，而Jev无需书写直接返回结果。</p>
+<p><strong>Bubo</strong> · @bubosees · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 174</p>
+<p><a href="https://x.com/bubosees/status/2104526075346788389">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/__solo69__/status/2104427170261303696"><img src="https://pbs.twimg.com/media/HTRtWqVaYAEjy-h?format=jpg&amp;name=medium" alt="JEV vs Normal LLM Architecture Comparison · 原帖图片" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 167</p>
 <p><a href="https://x.com/__solo69__/status/2104427170261303696">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/danielscrivner/status/2104427765168759239"><img src="https://pbs.twimg.com/amplify_video_thumb/2103956529074585600/img/erUdqFvJlCIkjS1M.jpg" alt="How Jev Works: A Custom Programming Language That Returns Percentages · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 127</p>
 <p><a href="https://x.com/danielscrivner/status/2104427765168759239">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yoshimana/status/2104508284569026966"><img src="https://pbs.twimg.com/amplify_video_thumb/2104372014379413504/img/zkT3szOHAAKAt6hI.jpg" alt="Jev&#39;s semantic understanding and recommendation selection? · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
 <p><a href="https://x.com/yoshimana/status/2104508284569026966">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zway_ai/status/2104517182621401228"><img src="https://pbs.twimg.com/media/HTS9Ri9aYAAnnEv?format=jpg&amp;name=medium" alt="Why TypeSafe Trains Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/zway_ai/status/2104517182621401228">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KarnikShreyas/status/2104373813903593745"><img src="https://pbs.twimg.com/media/HTQ5oRJaYAAXRb8?format=jpg&amp;name=medium" alt="How Option Descriptions Affect System One Models · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/KarnikShreyas/status/2104373813903593745">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JackSk35800/status/2104427632175501751"><img src="https://pbs.twimg.com/amplify_video_thumb/2104423286486781952/img/pYk786i1WZ-AaMQt.jpg" alt="How Jev Decision Models Work · 原帖视频截图" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Kelip</strong> · @JackSk35800 · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/JackSk35800/status/2104427632175501751">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WarlockTome/status/2104526553296109870"><img src="https://pbs.twimg.com/media/HTNIDIUbgAAcMlB?format=jpg&amp;name=medium" alt="Analysis of Jev Experiment Limitations · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WarlockTome/status/2104526553296109870">Analysis of Jev Experiment Limitations</a></h3>
+<p>The post points out that experiments on jev-1.13.0 cannot prove definitive conclusions: output probabilities are influenced by multiple factors, some mechanisms are speculative, and the base model is unknown.</p>
+<p><strong>中文摘要：</strong>帖子指出针对 jev-1.13.0 的实验无法证明确定性结论：输出概率受多种因素影响，部分机制属于推测，且基座模型不明。</p>
+<p><strong>WTome</strong> · @WarlockTome · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/WarlockTome/status/2104526553296109870">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -116,6 +140,30 @@
 <p><strong>Read In Brief</strong> · @readinbrief · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/readinbrief/status/2104411673704759338">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WarlockTome/status/2104526551865856052"><img src="https://pbs.twimg.com/media/HTNIDIHbAAAB9Oe?format=jpg&amp;name=medium" alt="Jev Architecture Speculation: MoE Backbone and Prefill Performance · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WarlockTome/status/2104526551865856052">Jev Architecture Speculation: MoE Backbone and Prefill Performance</a></h3>
+<p>The author speculates Jev may use an MoE backbone, given its prefill-only and compute-bound nature, comparing with dense 70B performance on 8×H100.</p>
+<p><strong>中文摘要：</strong>作者推测Jev可能采用MoE骨干，因为其仅处理prefill且对计算敏感，并对比了dense 70B在8×H100上的性能。</p>
+<p><strong>WTome</strong> · @WarlockTome · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/WarlockTome/status/2104526551865856052">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WarlockTome/status/2104526543582048397"><img src="https://pbs.twimg.com/media/HTNIDIAbYAAz34c?format=jpg&amp;name=medium" alt="Reverse Engineering Jev: 10K API Calls Unpacked · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WarlockTome/status/2104526543582048397">Reverse Engineering Jev: 10K API Calls Unpacked</a></h3>
+<p>Archer Hume probed Jev&#39;s architecture externally with ~10K API calls. The author turned these findings into a 13-minute explainer video and summarized them in a thread.</p>
+<p><strong>中文摘要：</strong>Archer Hume 通过约1万次API调用从外部探测Jev架构，作者将发现制作为13分钟讲解视频，并以线程形式逐条说明。</p>
+<p><strong>WTome</strong> · @WarlockTome · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/WarlockTome/status/2104526543582048397">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/e_opore/status/2104053983299969227"><img src="https://pbs.twimg.com/media/HTMZttOWgAAvLCs?format=jpg&amp;name=medium" alt="What Is Jev: The System One Model That Doesn&#39;t Chat · 原帖图片" width="100%"></a>

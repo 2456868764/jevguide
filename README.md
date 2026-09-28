@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3708</strong><br>curated posts</td>
-<td align="center"><strong>1960</strong><br>original videos</td>
+<td align="center"><strong>3743</strong><br>curated posts</td>
+<td align="center"><strong>1979</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>521</strong> showcases · <strong>214</strong> videos</p>
+<p><strong>524</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>400</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>404</strong> showcases · <strong>176</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>381</strong> showcases · <strong>208</strong> videos</p>
+<p><strong>388</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>331</strong> showcases · <strong>131</strong> videos</p>
+<p><strong>333</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>270</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>273</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>252</strong> showcases · <strong>125</strong> videos</p>
+<p><strong>257</strong> showcases · <strong>129</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>237</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>240</strong> showcases · <strong>94</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>181</strong> showcases · <strong>99</strong> videos</p>
+<p><strong>183</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>160</strong> showcases · <strong>107</strong> videos</p>
+<p><strong>161</strong> showcases · <strong>108</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,11 +100,17 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>89</strong> showcases · <strong>71</strong> videos</p>
+<p><strong>91</strong> showcases · <strong>72</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>83</strong> showcases · <strong>49</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
@@ -112,15 +118,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>82</strong> showcases · <strong>48</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>57</strong> showcases · <strong>21</strong> videos</p>
+<p><strong>58</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>34</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>35</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 </tr>
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/urieli17/status/2104542300881707173"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="NVIDIA and Stanford release open-source model CLM: similar to Jev but faster · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/urieli17/status/2104542300881707173">NVIDIA and Stanford release open-source model CLM: similar to Jev but faster</a></h3>
+<p>The post introduces a new model CLM from NVIDIA and Stanford, trained on 60M question-answer pairs based on Nemotron. It is described as an open-source alternative similar to Jev, reportedly faster. The model was just released, so feedback is limited.</p>
+<p><strong>2.4K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.4K</p>
+<p><strong>Uri Eliabayev</strong> · @urieli17</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/kiyoshi_shin/status/2104385555291341241"><img src="https://pbs.twimg.com/amplify_video_thumb/2104385261769736194/img/h5bv4Lu2nBSKHfRT.jpg" alt="Jev-Controlled Interactive Demo Playable Now · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/kiyoshi_shin/status/2104385555291341241">Jev-Controlled Interactive Demo Playable Now</a></h3>
 <p>Kiyoshi Shin released a playable demo controlled by Jev, allowing users to try interacting with existing AIs and Jev (requires an API key).</p>
 <p><strong>868</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 868</p>
 <p><strong>新清士@AIコンテンツ開発者</strong> · @kiyoshi_shin</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/zhaoran_wang/status/2104364228501238064"><img src="https://pbs.twimg.com/tweet_video_thumb/HTQz5jPXQAAF6ZG.jpg" alt="Open-Jev-27B Acceleration Project · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zhaoran_wang/status/2104364228501238064">Open-Jev-27B Acceleration Project</a></h3>
-<p>An open-source acceleration solution for the Jev model, built in one day, achieving 18.6ms server-side P50 on a B300 with BF16 precision.</p>
-<p><strong>857</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 857</p>
-<p><strong>Zhaoran Wang</strong> · @zhaoran_wang</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>GIGAZINE(ギガジン)</strong> · @gigazine</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/kiyoshi_shin/status/2104385555291341241"><img src="https://pbs.twimg.com/amplify_video_thumb/2104385261769736194/img/h5bv4Lu2nBSKHfRT.jpg" alt="Jev-Controlled Interactive Demo Playable Now · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kiyoshi_shin/status/2104385555291341241">Jev-Controlled Interactive Demo Playable Now</a></h3>
+<p>Kiyoshi Shin released a playable demo controlled by Jev, allowing users to try interacting with existing AIs and Jev (requires an API key).</p>
+<p><strong>868</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 868</p>
+<p><strong>新清士@AIコンテンツ開発者</strong> · @kiyoshi_shin</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
 <a href="https://x.com/zhaoran_wang/status/2104364228501238064"><img src="https://pbs.twimg.com/tweet_video_thumb/HTQz5jPXQAAF6ZG.jpg" alt="Open-Jev-27B Acceleration Project · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/zhaoran_wang/status/2104364228501238064">Open-Jev-27B Acceleration Project</a></h3>
 <p>An open-source acceleration solution for the Jev model, built in one day, achieving 18.6ms server-side P50 on a B300 with BF16 precision.</p>
 <p><strong>857</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 857</p>
 <p><strong>Zhaoran Wang</strong> · @zhaoran_wang</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/golangch/status/2104435951078678932"><img src="https://pbs.twimg.com/media/HTR1WGlaAAA784E?format=jpg&amp;name=medium" alt="Unofficial Unix Client for Jev (Go) · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/golangch/status/2104435951078678932">Unofficial Unix Client for Jev (Go)</a></h3>
-<p>This post announces an unofficial, provider-neutral Unix client for Jev from TypeSafe AI, written in Go, with a link to the GitHub repository.</p>
-<p><strong>773</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 773</p>
-<p><strong>Golang News &amp; Libs &amp; Jobs - human 🗣️ , no 🤖</strong> · @golangch</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>企业运营</code> <code>原帖视频</code></p>
-<a href="https://x.com/polydao/status/2104448518966432240"><img src="https://pbs.twimg.com/amplify_video_thumb/2104413316630073344/img/4Lc05FbWdquwO25B.jpg" alt="JEV + Opus 5.5: Ten Steps to Build a Company Brain · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/polydao/status/2104448518966432240">JEV + Opus 5.5: Ten Steps to Build a Company Brain</a></h3>
-<p>The author condenses TypeSafe and Anthropic docs into a 14-page PDF, sharing 10 steps for combining JEV and Opus 5.5 to build a company brain.</p>
-<p><strong>474</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 474</p>
-<p><strong>Mr. Buzzoni</strong> · @polydao</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/kozei/status/2104515263383175581"><img src="https://pbs.twimg.com/amplify_video_thumb/2104500255223951360/img/xCt0MGcEFv-wQfIh.jpg" alt="JEVPLAY: An open game board for humans to play against JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kozei/status/2104515263383175581">JEVPLAY: An open game board for humans to play against JEV</a></h3>
+<p>Kozei argues the bull case for JEVPLAY isn&#39;t just AI—it&#39;s making AI fun. It offers an open game board where humans play against JEV in chess, blackjack, and more, highlighting JEV&#39;s fast, structured nature.</p>
+<p><strong>538</strong> views · 💬 31 &nbsp; 🔁 6 &nbsp; ♡ 37 &nbsp; 📊 538</p>
+<p><strong>Kozei</strong> · @kozei</p>
 </td>
 </tr>
 </table>

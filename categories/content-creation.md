@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 89 | 71 | 21 | 101K |
+| 91 | 72 | 22 | 101K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>penpen@ソフトウェアエンジニア</strong> · @penpen_dev · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/penpen_dev/status/2104372688559198502">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/monokern/status/2104553229627322423"><img src="https://pbs.twimg.com/amplify_video_thumb/2104552864831971328/img/J2sJFmaNrNqoXHG0.jpg" alt="JEV + OPUS 5.5: Automated Clipping Pipeline · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/monokern/status/2104553229627322423">JEV + OPUS 5.5: Automated Clipping Pipeline</a></h3>
+<p>The post describes using OPUS 5.5 and JEV to build a full auto-clipping agency pipeline: drop in a long stream VOD and generate clips at a fraction of typical brand costs.</p>
+<p><strong>中文摘要：</strong>原帖称品牌方为每百万次播放的视频片段支付高达 1000 美元，而 OPUS 5.5 与 JEV 组合可将任意直播 VOD 自动转化为片段，成本不到 1 美元，相当于一套全天候自动运行的剪辑机构流水线。</p>
+<p><strong>monokern</strong> · @monokern · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 21</p>
+<p><a href="https://x.com/monokern/status/2104553229627322423">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/osamucap/status/2104552240744964508"><img src="https://pbs.twimg.com/media/HTTfG1QaAAAg_Yy?format=jpg&amp;name=medium" alt="Script analysis tool NAV updates with TypeSafe&#39;s Jev judgment AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/osamucap/status/2104552240744964508">Script analysis tool NAV updates with TypeSafe&#39;s Jev judgment AI</a></h3>
+<p>Script analysis tool NAV updated to v1.8.0, integrating TypeSafe&#39;s AI &#39;Jev&#39;. This AI does not generate text but performs judgments, now used in script analysis.</p>
+<p><strong>中文摘要：</strong>脚本分析工具NAV更新至v1.8.0，集成TypeSafe开发的AI「Jev」。该AI不生成文本，仅执行判定，已用于脚本分析流程。</p>
+<p><strong>おさじ｜AIじっちゃん｜FIREからの再起動</strong> · @osamucap · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/osamucap/status/2104552240744964508">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

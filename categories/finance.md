@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 181 | 99 | 84 | 1.2M |
+| 183 | 101 | 84 | 1.2M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Orus Agent</strong> · @Orus_agent · 2026-09-28</p>
 <p>💬 6 &nbsp; 🔁 6 &nbsp; ♡ 13 &nbsp; 📊 206</p>
 <p><a href="https://x.com/Orus_agent/status/2104509653636055435">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lostinazeroy/status/2104550224823714021"><img src="https://pbs.twimg.com/amplify_video_thumb/2104550032363970560/img/B8G8-9WD68IzDUx-.jpg" alt="Blueprint for Building a Jev Decision Harness for BTC · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lostinazeroy/status/2104550224823714021">Blueprint for Building a Jev Decision Harness for BTC</a></h3>
+<p>The author shares a complete blueprint for structuring a Jev decision harness for Bitcoin trading, featuring a 50-node lightweight sensor mesh, instant buy/sell/hold judgment, and deterministic code for multi-agent setups.</p>
+<p><strong>中文摘要：</strong>作者分享了为比特币交易设计 Jev 决策框架的完整蓝图，核心架构包括 50 节点轻量级传感器网格、即时买卖持有判断以及确定性代码，适用于多智能体设置。</p>
+<p><strong>lostinazeroy</strong> · @lostinazeroy · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 36</p>
+<p><a href="https://x.com/lostinazeroy/status/2104550224823714021">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Teka1900/status/2104550832649933102"><img src="https://pbs.twimg.com/amplify_video_thumb/2104550397100875776/img/170GZ_BEjUUcgyuf.jpg" alt="Jev + Opus 5.5 Powers a One-Person Finance Department for Invoices and Reconciliation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Teka1900/status/2104550832649933102">Jev + Opus 5.5 Powers a One-Person Finance Department for Invoices and Reconciliation</a></h3>
+<p>A former Anthropic employee shared a single-file setup combining Jev with Opus 5.5 to judge each invoice, receipt, and statement line — including PO matching, expense category, and anomaly flags. The post claims savings of $6,320 per month.</p>
+<p><strong>中文摘要：</strong>前 Anthropic 员工分享的单文件方案，将 Jev 与 Opus 5.5 结合，为每张发票、收据和账单生成判断，如是否匹配采购订单、费用类别、异常标记等。原帖称每月可节省 6,320 美元。</p>
+<p><strong>tekario</strong> · @Teka1900 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 27</p>
+<p><a href="https://x.com/Teka1900/status/2104550832649933102">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/explosss1ve/status/2104537033024717054"><img src="https://pbs.twimg.com/amplify_video_thumb/2104534666581540864/img/zuXmyTrp9q9PWDkt.jpg" alt="Quant Desk Combines Jev and Claude for Millions of Daily Trading Decisions · 原帖视频截图" width="100%"></a>

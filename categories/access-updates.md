@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 331 | 131 | 200 | 802K |
+| 333 | 133 | 200 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sally_A1c/status/2104545888408657949"><img src="https://pbs.twimg.com/amplify_video_thumb/2104545562137858048/img/2wkuBBx70_ooMW3R.jpg" alt="Sally AI Builds Around TypeSafe&#39;s Jev for Dual-Model Pipeline · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sally_A1c/status/2104545888408657949">Sally AI Builds Around TypeSafe&#39;s Jev for Dual-Model Pipeline</a></h3>
+<p>Sally AI notes the industry is moving toward dual-model pipelines, citing TypeSafe&#39;s Jev: fast System 1 outputs from a fixed set backed by a slower System 2 model for detailed reasoning. Sally says it has already built its product around this approach.</p>
+<p><strong>中文摘要：</strong>Sally AI 表示行业正转向双模型管线，并以 TypeSafe 推出的 Jev 为例：固定集合上的快速 System 1 输出，搭配用于详细推理的较慢 System 2 模型。Sally 称已围绕这一架构构建。</p>
+<p><strong>Sally AI (a1c.base.eth)</strong> · @Sally_A1c · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 138</p>
+<p><a href="https://x.com/Sally_A1c/status/2104545888408657949">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/RequestyAI/status/2104511430531686555"><img src="https://pbs.twimg.com/amplify_video_thumb/2104511199324909568/img/Vqp-kxxpwGYq8zau.jpg" alt="Jev model adoption growing on Requesty · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 54</p>
 <p><a href="https://x.com/RequestyAI/status/2104511430531686555">在 X 查看原帖</a> · <a href="https://t.co/Ln4FC4Pgd9">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/boyang_xie/status/2104365185419137316"><img src="https://pbs.twimg.com/amplify_video_thumb/2104364961216757760/img/0CDvA8eXeRfhTRvP.jpg" alt="Reqoto integrates Jev to judge tweets worth replying to · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/boyang_xie/status/2104365185419137316">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LifeGit/status/2104434259301994541"><img src="https://pbs.twimg.com/media/HTRzsORboAE30cB?format=png&amp;name=900x900" alt="Using Jev via Cloudflare AI Gateway · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>熊掌｜AI 出海增长</strong> · @LifeGit · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/LifeGit/status/2104434259301994541">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iideaman_com/status/2104550666819772647"><img src="https://pbs.twimg.com/amplify_video_thumb/2104550629368864768/img/dezmm8S75s4zoCtU.jpg" alt="Developer Pleads for TypeSafe Jev API Access · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iideaman_com/status/2104550666819772647">Developer Pleads for TypeSafe Jev API Access</a></h3>
+<p>A developer requests temporary access to the TypeSafe Jev API on social media, stating that Vercel is not working and they want to try the API.</p>
+<p><strong>中文摘要：</strong>一位开发者在社交媒体上请求TypeSafe Jev API的临时访问权限，称已有Vercel但无法使用，希望试用该API。</p>
+<p><strong>iideaman</strong> · @iideaman_com · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/iideaman_com/status/2104550666819772647">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/pandannzo/status/2104536842033127884"><img src="https://pbs.twimg.com/amplify_video_thumb/2104536787783974912/img/ctRIsaA8bPGMpC9V.jpg" alt="Quick Decision: An OpenClip Extension Powered by Jev · 原帖视频截图" width="100%"></a>

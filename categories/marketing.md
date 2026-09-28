@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 108 | 86 | 22 | 904K |
+| 110 | 87 | 23 | 904K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>ericosiu</strong> · @ericosiu · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 297</p>
 <p><a href="https://x.com/ericosiu/status/2104360444421194064">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chriswflannery/status/2104580758182744074"><img src="https://pbs.twimg.com/amplify_video_thumb/2104580315318554624/img/h3MViBQ7lRc_z8mp.jpg" alt="How TypeSafe AI Got Attention for Its Jev Launch · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chriswflannery/status/2104580758182744074">How TypeSafe AI Got Attention for Its Jev Launch</a></h3>
+<p>Explores how TypeSafe AI leveraged the convergence of software and content creation—cheaper assets for more expensive access—to generate attention for its Jev model launch.</p>
+<p><strong>中文摘要：</strong>分析TypeSafe AI如何借助软件与内容创作趋同的趋势（更便宜的内容资产换取更昂贵的分发访问）为其Jev模型发布造势。</p>
+<p><strong>Chris</strong> · @chriswflannery · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/chriswflannery/status/2104580758182744074">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Anand_naraya/status/2104579724651688241"><img src="https://pbs.twimg.com/media/HTT4BNza0AADuc6?format=jpg&amp;name=medium" alt="Scoring Messy Leads with Jev API at Minimal Cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Anand_naraya/status/2104579724651688241">Scoring Messy Leads with Jev API at Minimal Cost</a></h3>
+<p>Using the Jev API, generated 28 messy leads in 3.5 seconds for $0.00076 — under 18,090 tokens. Each lead is scored automatically with two questions (hot/warm/cold and recent buying signal), sorted best first, with no cleanup or regex.</p>
+<p><strong>中文摘要：</strong>通过 Jev API 仅花费 0.00076 美元、消耗 18,090 个 token，在 3.5 秒内获取 28 条杂乱线索。每个线索通过两个问题（冷热程度、近期购买信号）自动评分并排序，无需清洗或正则表达式。</p>
+<p><strong>Aurum 😼</strong> · @Anand_naraya · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Anand_naraya/status/2104579724651688241">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/KylianEcom/status/2104101295158153529"><img src="https://pbs.twimg.com/media/HTNEsKPXwAAI7cc?format=png&amp;name=900x900" alt="Integrating JEV into SEO Workflow: A User&#39;s Queuing Experience · 原帖图片" width="100%"></a>

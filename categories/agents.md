@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 276 | 157 | 120 | 3.0M |
+| 278 | 159 | 120 | 3.0M |
 
 ## Showcase 卡片
 
@@ -118,6 +118,19 @@
 <p><a href="https://x.com/lorden_eth/status/2104551699243253831">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/francescoinweb3/status/2104577670235168930"><img src="https://pbs.twimg.com/amplify_video_thumb/2104577360460681216/img/-lEZWNANsig6xscV.jpg" alt="Jev: The Missing Piece for AI Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/francescoinweb3/status/2104577670235168930">Jev: The Missing Piece for AI Agents</a></h3>
+<p>Francesco suggests Jev is the part most AI agents are missing. Agents make small decisions all day—which tool, which worker, retry or stop, safe or not. Jev by typesafeai does only that job: you give it the state and the allowed options.</p>
+<p><strong>中文摘要：</strong>Francesco 认为 Jev 是大多数 AI 智能体缺少的部分。智能体整天都在做小决策——用哪个工具、哪个 worker、重试或停止、安全与否。Jev by typesafeai 专注于这项工作，你只需提供状态和允许的选项。</p>
+<p><strong>Francesco</strong> · @francescoinweb3 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 69</p>
+<p><a href="https://x.com/francescoinweb3/status/2104577670235168930">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xCodio/status/2104519620753273176"><img src="https://pbs.twimg.com/media/HTTBbCaWUAAHIpE?format=jpg&amp;name=medium" alt="Jev engineering with Opus 5.5 for autonomous agents · 原帖图片" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖图片</code></sub>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 42</p>
 <p><a href="https://x.com/0xCodio/status/2104519620753273176">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/IvanShero/status/2104444913219727469"><img src="https://pbs.twimg.com/amplify_video_thumb/2104444888200740864/img/hLhLpYaXOqFizIu8.jpg" alt="Jev for Real-Time Decision Correction · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
 <p><a href="https://x.com/IvanShero/status/2104444913219727469">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/julianlaxman/status/2104413926502899795"><img src="https://pbs.twimg.com/amplify_video_thumb/2104411797612544000/img/yN_iJTtX2XKKoXd3.jpg" alt="Jev-Powered Agents Simulate Yorkdale Shopping Centre · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 30</p>
 <p><a href="https://x.com/julianlaxman/status/2104413926502899795">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ContextoBoy/status/2104407233220030875"><img src="https://pbs.twimg.com/amplify_video_thumb/2104407175615393792/img/rl5YdHc5uVcaGpa-.jpg" alt="JEV Model for Agent Memory Gating · 原帖视频截图" width="100%"></a>
 <br>
@@ -164,6 +175,19 @@
 <p><strong>ContextBoy</strong> · @ContextoBoy · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/ContextoBoy/status/2104407233220030875">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_rody/status/2104582876100444463"><img src="https://pbs.twimg.com/amplify_video_thumb/2104579365501579264/img/fd_j0--cF6S_BXa-.jpg" alt="Top 9 agentic use cases for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x_rody/status/2104582876100444463">Top 9 agentic use cases for Jev</a></h3>
+<p>Jev handles semantic decisions that ordinary code cannot express reliably, returning typed answers and probabilities while code covers the workflow. This post lists 9 practical agentic use cases for Jev — bookmark it.</p>
+<p><strong>中文摘要：</strong>Jev 能处理普通代码无法可靠表达的语义决策，返回类型化答案和概率，同时由代码覆盖工作流。本帖子整理了 Jev 的 9 个实用 agentic 用例，值得收藏。</p>
+<p><strong>rody</strong> · @0x_rody · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/0x_rody/status/2104582876100444463">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Anbeeld/status/2104566351381561356"><img src="https://pbs.twimg.com/amplify_video_thumb/2104298328989347840/img/5z7xzBAkeF_Hor1j.jpg" alt="Removing Jev cuts reaction time to 1 ms · 原帖视频截图" width="100%"></a>

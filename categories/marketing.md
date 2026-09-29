@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 120 | 91 | 29 | 904K |
+| 122 | 93 | 29 | 904K |
 
 ## Showcase 卡片
 
@@ -94,6 +94,19 @@
 <p><a href="https://x.com/felipe_rohde/status/2104914714773868762">在 X 查看原帖</a> · <a href="https://t.co/sdDsDlrXz5">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/billmurphy/status/2104966337932222748"><img src="https://pbs.twimg.com/tweet_video_thumb/HTZXdbbWYAEwTjD.jpg" alt="Jev Typesafe in GTM: Real-World Use Cases · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/billmurphy/status/2104966337932222748">Jev Typesafe in GTM: Real-World Use Cases</a></h3>
+<p>The author notes that most demos of Jev Typesafe jump straight to the LLM, missing its real impact on GTM, and created a walkthrough of different use cases.</p>
+<p><strong>中文摘要：</strong>作者指出多数人演示 Jev Typesafe 时直接跳到 LLM，而忽略了它对 GTM 的实际影响，并创建了不同用例的演示。</p>
+<p><strong>Bill Murphy</strong> · @billmurphy · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/billmurphy/status/2104966337932222748">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/AlessandroLavis/status/2104926749884842296"><img src="https://pbs.twimg.com/media/HTYzuPQaIAInJOG?format=jpg&amp;name=small" alt="Automating Pixar-Style Ad Scripts with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖图片</code></sub>
@@ -103,6 +116,17 @@
 <p><strong>Alessandro</strong> · @AlessandroLavis · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/AlessandroLavis/status/2104926749884842296">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cris_vels/status/2104969735473705068"><img src="https://pbs.twimg.com/amplify_video_thumb/2104967219067195393/img/mwM0ywLtnnWLj73B.jpg" alt="Jev AI Helps SEO/GEO Agencies Check AI Search Visibility · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cris_vels/status/2104969735473705068">Jev AI Helps SEO/GEO Agencies Check AI Search Visibility</a></h3>
+<p>The post notes that SEO/GEO agencies can use Jev AI to quickly check thousands of web pages and see how well they show up in AI search tools.</p>
+<p><strong>中文摘要：</strong>该帖子指出，SEO/GEO机构可使用Jev AI快速检查数千个网页，评估它们在AI搜索工具中的表现。</p>
+<p><strong>Cris Vels</strong> · @cris_vels · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/cris_vels/status/2104969735473705068">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

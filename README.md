@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4132</strong><br>curated posts</td>
-<td align="center"><strong>2151</strong><br>original videos</td>
+<td align="center"><strong>4160</strong><br>curated posts</td>
+<td align="center"><strong>2169</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>625</strong> showcases · <strong>256</strong> videos</p>
+<p><strong>635</strong> showcases · <strong>263</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>429</strong> showcases · <strong>185</strong> videos</p>
+<p><strong>430</strong> showcases · <strong>186</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>312</strong> showcases · <strong>236</strong> videos</p>
+<p><strong>315</strong> showcases · <strong>238</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>302</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>304</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>288</strong> showcases · <strong>141</strong> videos</p>
+<p><strong>290</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>208</strong> showcases · <strong>114</strong> videos</p>
+<p><strong>212</strong> showcases · <strong>115</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>180</strong> showcases · <strong>121</strong> videos</p>
+<p><strong>181</strong> showcases · <strong>122</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>120</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>122</strong> showcases · <strong>93</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>43</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>44</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>42</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>43</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>32</strong> showcases · <strong>22</strong> videos</p>
+<p><strong>33</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/muratcan/status/2104959648482701686"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="Jev&#39;s Turn-Level Prediction Experiment on Real Calls · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/muratcan/status/2104959648482701686">Jev&#39;s Turn-Level Prediction Experiment on Real Calls</a></h3>
+<p>Muratcan gave Jev 2,029 real phone calls in pure structured form (turns, tool calls, workflow stages, and timing). Jev made 38,012 turn-level forecasts at a median of 118 ms.</p>
+<p><strong>4.7K</strong> views · 💬 6 &nbsp; 🔁 8 &nbsp; ♡ 79 &nbsp; 📊 4.7K</p>
+<p><strong>Muratcan Koylan</strong> · @muratcan</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/gigazine/status/2104919205686452578"><img src="https://pbs.twimg.com/media/HTYs3PHW0AAhWhg?format=jpg&amp;name=medium" alt="Jeff: A Free, Jev-Compatible High-Speed Decision-Making Model · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/gigazine/status/2104919205686452578">Jeff: A Free, Jev-Compatible High-Speed Decision-Making Model</a></h3>
 <p>GIGAZINE introduces a model called Jeff, which is free, Jev-compatible, and extremely fast in a local environment, at about 22-28 milliseconds.</p>
 <p><strong>3.5K</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 3.5K</p>
 <p><strong>GIGAZINE(ギガジン)</strong> · @gigazine</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/N01ennn/status/2104876056893104461"><img src="https://pbs.twimg.com/amplify_video_thumb/2104866254146203648/img/J8LnvuFvwbGYaJ7N.jpg" alt="Jev as LangChain Agent Middleware Cuts Enterprise AI Costs · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/N01ennn/status/2104876056893104461">Jev as LangChain Agent Middleware Cuts Enterprise AI Costs</a></h3>
 <p>The post praises the Jev middleware layer integrated with LangChain by TypeSafe AI, tackling the high cost of full LLM calls at every loop branch and making agents affordable at company scale.</p>
 <p><strong>3.2K</strong> views · 💬 13 &nbsp; 🔁 5 &nbsp; ♡ 51 &nbsp; 📊 3.2K</p>
 <p><strong>NO1ennn</strong> · @N01ennn</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/polydao/status/2104882880753324248"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786343616237568/img/to53byCU6dF8KheE.jpg" alt="Paste this Jev prompt into Claude to audit and rebuild your workflow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/polydao/status/2104882880753324248">Paste this Jev prompt into Claude to audit and rebuild your workflow</a></h3>
-<p>A shared Jev prompt: paste it into Claude, and Jev installs, studies how you actually work, shows where hours and money slip away, then rebuilds your setup around the leaks it finds.</p>
-<p><strong>2.6K</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.6K</p>
-<p><strong>Mr. Buzzoni</strong> · @polydao</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/N01ennn/status/2104876056893104461"><img src="https://pbs.twimg.com/amplify_video_thumb/2104866254146203648/img/J8LnvuFvwbGYaJ7N.jpg" alt="Jev as LangChain Agent Middleware Cuts Enterprise AI Costs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/N01ennn/status/2104876056893104461">Jev as LangChain Agent Middleware Cuts Enterprise AI Costs</a></h3>
+<p>The post praises the Jev middleware layer integrated with LangChain by TypeSafe AI, tackling the high cost of full LLM calls at every loop branch and making agents affordable at company scale.</p>
+<p><strong>3.2K</strong> views · 💬 13 &nbsp; 🔁 5 &nbsp; ♡ 51 &nbsp; 📊 3.2K</p>
+<p><strong>NO1ennn</strong> · @N01ennn</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/polydao/status/2104882880753324248"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786343616237568/img/to53byCU6dF8KheE.jpg" alt="Paste this Jev prompt into Claude to audit and rebuild your workflow · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/polydao/status/2104882880753324248">Paste this Jev prompt into Claude to audit and rebuild your workflow</a></h3>
 <p>A shared Jev prompt: paste it into Claude, and Jev installs, studies how you actually work, shows where hours and money slip away, then rebuilds your setup around the leaks it finds.</p>
 <p><strong>2.6K</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.6K</p>
 <p><strong>Mr. Buzzoni</strong> · @polydao</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/alex_prompter/status/2104949581863887336"><img src="https://pbs.twimg.com/media/HTZIfWma0AAc5cX?format=jpg&amp;name=medium" alt="TypeSafe releases official Claude Code skill for Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/alex_prompter/status/2104949581863887336">TypeSafe releases official Claude Code skill for Jev</a></h3>
-<p>TypeSafe released an official ~1,300-word skill that instructs Claude Code to read Jev&#39;s live docs before coding, preventing the agent from guessing.</p>
-<p><strong>2.2K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 2.2K</p>
-<p><strong>Alex Prompter</strong> · @alex_prompter</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/starmexxx/status/2104891333886271622"><img src="https://pbs.twimg.com/amplify_video_thumb/2104890699166498816/img/u0-OHmsutqA9QTOa.jpg" alt="JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/starmexxx/status/2104891333886271622">JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint</a></h3>
-<p>The post proposes a concept where Grok reads the rider&#39;s complaint, JEV checks the actual locations of the car and phone, and Uber refunds only if the map agrees with the story.</p>
-<p><strong>960</strong> views · 💬 9 &nbsp; 🔁 1 &nbsp; ♡ 19 &nbsp; 📊 960</p>
-<p><strong>starmex</strong> · @starmexxx</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/platzi/status/2104726851138605477"><img src="https://pbs.twimg.com/media/HTV96dWWEAAkTOp?format=jpg&amp;name=medium" alt="TypeSafe AI Launches New Model Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/platzi/status/2104726851138605477">TypeSafe AI Launches New Model Jev</a></h3>
+<p>Jev doesn&#39;t write text; it takes information and returns decisions with probabilities. It can be used to review other AI agents&#39; actions before they act. Launched on September 15 by Diogo Almeida.</p>
+<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
+<p><strong>Platzi</strong> · @platzi</p>
 </td>
 </tr>
 </table>

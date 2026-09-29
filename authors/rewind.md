@@ -1,9 +1,10 @@
 # rewind
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-29 | [Build a Business Second Brain with Jev](https://x.com/rewind02/status/2104963418281095263) | 生产力 | rewind | 420 |
 | 2026-09-29 | [Community practice for building a second brain with Jev](https://x.com/rewind02/status/2104919156097217002) | 社区实践 | rewind | 267 |
 | 2026-09-25 | [Jev: It doesn't write, it decides — an AI model for content research](https://x.com/rewind02/status/2103426923946807689) | 营销 | rewind | 137 |
 | 2026-09-24 | [Built a Production App with Opus 5.5 and Jev](https://x.com/rewind02/status/2103063641045995812) | 社区实践 | rewind | 205 |

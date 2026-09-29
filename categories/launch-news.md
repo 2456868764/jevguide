@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 288 | 141 | 150 | 1.1M |
+| 290 | 142 | 151 | 1.1M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/designertom/status/2104957471919907227"><img src="https://pbs.twimg.com/amplify_video_thumb/2104957391850635264/img/yEPywoaCnjd5QSYe.jpg" alt="TypesafeAI&#39;s Jev Model Gains Traction Among Designers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/designertom/status/2104957471919907227">TypesafeAI&#39;s Jev Model Gains Traction Among Designers</a></h3>
+<p>TypesafeAI&#39;s Jev model is making waves for its speed as a &#39;decider&#39;, and designers are starting to explore practical applications, hinting at just-in-time workflows.</p>
+<p><strong>中文摘要：</strong>TypesafeAI 发布的 Jev 模型因极快的决策速度引发关注，设计师们开始将其用于实际工作，探索“即时”应用的可能性。</p>
+<p><strong>Tommy Geoco 🇺🇸</strong> · @designertom · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 835</p>
+<p><a href="https://x.com/designertom/status/2104957471919907227">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/zenoVision_/status/2104883393183756372"><img src="https://pbs.twimg.com/media/HTYKlxOX0AAIxrv?format=jpg&amp;name=medium" alt="Major Upgrade Deployed to Jev Model Pipeline · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 4 &nbsp; 🔁 15 &nbsp; ♡ 22 &nbsp; 📊 359</p>
 <p><a href="https://x.com/zenoVision_/status/2104883393183756372">在 X 查看原帖</a> · <a href="https://t.co/8gB8vsCT99">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TypeLLM/status/2104934225480708133"><img src="https://pbs.twimg.com/amplify_video_thumb/2104923521629757440/img/pzj6ABViwlCQnucv.jpg" alt="TypeLLM launches type-safe generation with open Playground · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 191</p>
 <p><a href="https://x.com/TypeLLM/status/2104934225480708133">在 X 查看原帖</a> · <a href="https://t.co/Zp8PzzwynW">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AISystems_hq/status/2104849410261709180"><img src="https://pbs.twimg.com/media/HTUfj1QW8AAxzyf?format=jpg&amp;name=medium" alt="TypeSafe Jev: $42 per billion input tokens, built for decisions · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 158</p>
 <p><a href="https://x.com/AISystems_hq/status/2104849410261709180">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/2020_hira/status/2104770291260117094"><img src="https://pbs.twimg.com/amplify_video_thumb/2104767723842789376/img/zpVoz1TEjM7RcMmI.jpg" alt="Developer Releases Jev-Powered Translation Chrome Extension · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 76</p>
 <p><a href="https://x.com/2020_hira/status/2104770291260117094">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shao__meng/status/2104757437958107338"><img src="https://pbs.twimg.com/media/HTWZuVWa4AA3_XI?format=jpg&amp;name=medium" alt="Jev API seamlessly replaces Unsloth for local deployment of Laya decision model · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>meng shao</strong> · @shao__meng · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 65</p>
 <p><a href="https://x.com/shao__meng/status/2104757437958107338">在 X 查看原帖</a> · <a href="https://t.co/ecZERDi185">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/petrusenko_max/status/2104949424061636818"><img src="https://pbs.twimg.com/media/HTZIVxHWgAA7UCN?format=jpg&amp;name=medium" alt="PostHog Unveils Jeeves: A 9B Jev-like Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/petrusenko_max/status/2104949424061636818">PostHog Unveils Jeeves: A 9B Jev-like Decision Model</a></h3>
+<p>PostHog&#39;s Jeeves is a Jev-like decision model built on Qwen3.5-9B with LoRA and a pointer head, featuring a block-4 diffusion drafter. Trained with SFT and CISPO, it scores 0.889 on held-out test data versus 0.822 for Kev-9B and 0.857 for Jev, and 0.935 vs 0.866 on JevBench public tiers.</p>
+<p><strong>中文摘要：</strong>PostHog的Jeeves是一个基于Qwen3.5-9B的Jev类决策模型，采用LoRA和指针头，配备block-4扩散草稿模型，通过SFT和CISPO训练。在留出测试集上得分0.889，超过Kev-9B和Jev，并在JevBench公共层级上达到0.935。</p>
+<p><strong>Max Petrusenko</strong> · @petrusenko_max · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
+<p><a href="https://x.com/petrusenko_max/status/2104949424061636818">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Chinazhidx/status/2104854563262169576"><img src="https://pbs.twimg.com/media/HTXyCqhboAA1ERD?format=jpg&amp;name=medium" alt="Nokia and Tencent Hunyuan Open-Source AnyJev: Turns Any LLM into a Jev-Style Decision Model · 原帖图片" width="100%"></a>

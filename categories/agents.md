@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 302 | 171 | 132 | 3.0M |
+| 304 | 173 | 132 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/muratcan/status/2104959648482701686"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="Jev&#39;s Turn-Level Prediction Experiment on Real Calls · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/muratcan/status/2104959648482701686">Jev&#39;s Turn-Level Prediction Experiment on Real Calls</a></h3>
+<p>Muratcan gave Jev 2,029 real phone calls in pure structured form (turns, tool calls, workflow stages, and timing). Jev made 38,012 turn-level forecasts at a median of 118 ms.</p>
+<p><strong>中文摘要：</strong>Muratcan 将 2,029 通真实电话仅以结构形式（回合、工具调用、工作流阶段和时序）交给 Jev，期间 Jev 进行了 38,012 次回合级预测，中位延迟 118 毫秒。</p>
+<p><strong>Muratcan Koylan</strong> · @muratcan · 2026-09-29</p>
+<p>💬 6 &nbsp; 🔁 8 &nbsp; ♡ 79 &nbsp; 📊 4.7K</p>
+<p><a href="https://x.com/muratcan/status/2104959648482701686">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/N01ennn/status/2104876056893104461"><img src="https://pbs.twimg.com/amplify_video_thumb/2104866254146203648/img/J8LnvuFvwbGYaJ7N.jpg" alt="Jev as LangChain Agent Middleware Cuts Enterprise AI Costs · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 13 &nbsp; 🔁 5 &nbsp; ♡ 51 &nbsp; 📊 3.2K</p>
 <p><a href="https://x.com/N01ennn/status/2104876056893104461">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GitHub_Daily/status/2104783256415854712"><img src="https://pbs.twimg.com/media/HTWxND6aIAATSO7?format=jpg&amp;name=medium" alt="Fast Browser Use: A Local Browser Agent Based on Open-Source Models · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/GitHub_Daily/status/2104783256415854712">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/starmexxx/status/2104891333886271622"><img src="https://pbs.twimg.com/amplify_video_thumb/2104890699166498816/img/u0-OHmsutqA9QTOa.jpg" alt="JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 9 &nbsp; 🔁 1 &nbsp; ♡ 19 &nbsp; 📊 960</p>
 <p><a href="https://x.com/starmexxx/status/2104891333886271622">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fleyta88/status/2104872333387129139"><img src="https://pbs.twimg.com/media/HTYCNrHWEAAmLl6?format=jpg&amp;name=medium" alt="Jev + Grok Agent Routing Stack · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 28 &nbsp; 📊 648</p>
 <p><a href="https://x.com/fleyta88/status/2104872333387129139">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xwhrrari/status/2104934259995668812"><img src="https://pbs.twimg.com/media/HTY1NrhWcAATltl?format=jpg&amp;name=medium" alt="Jev + Opus 5.5 Turns Claude into a Self-Optimizing AI Agent · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 13 &nbsp; 🔁 0 &nbsp; ♡ 34 &nbsp; 📊 633</p>
 <p><a href="https://x.com/0xwhrrari/status/2104934259995668812">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tmiyatake1/status/2104724335890170203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104668344892960768/img/yi8gTD32sr0imlkP.jpg" alt="The Burning Question When Pitching Jev: Where&#39;s the Automation? · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
 <p><a href="https://x.com/tmiyatake1/status/2104724335890170203">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gippp69/status/2104894644278497751"><img src="https://pbs.twimg.com/amplify_video_thumb/2104894603556003840/img/i3Ld0EPUjUlH2Rva.jpg" alt="Jev + Grok bot: deciding whether an event deserves generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-29</p>
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 227</p>
 <p><a href="https://x.com/gippp69/status/2104894644278497751">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cryptowluha/status/2104964363182276702"><img src="https://pbs.twimg.com/amplify_video_thumb/2104964283289198592/img/UW66pe4nXEUfh6VW.jpg" alt="Jev Engineering: Memory System Cuts Token Use by 90% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cryptowluha/status/2104964363182276702">Jev Engineering: Memory System Cuts Token Use by 90%</a></h3>
+<p>A developer built a memory system for agents that uses 90% fewer tokens while still finding all symbols. The Jev engineering approach suggests not making your agent re-read the entire repo just to remember one decision.</p>
+<p><strong>中文摘要：</strong>开发者构建了一个智能体记忆系统，使用减少 90% 的 token 仍能找到所有符号。Jev 工程方法建议不要让智能体为了记住一个决定而重读整个代码库。</p>
+<p><strong>wluha</strong> · @cryptowluha · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 86</p>
+<p><a href="https://x.com/cryptowluha/status/2104964363182276702">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Daniel_Bernath_/status/2104733075406254225"><img src="https://pbs.twimg.com/amplify_video_thumb/2104733041436631040/img/DLURB1kCn4Imn0GL.jpg" alt="Jev Monitors 900 Live Flights in the Bay Area · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 208 | 114 | 97 | 1.2M |
+| 212 | 115 | 100 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RohOnChain/status/2104960910318280841"><img src="https://pbs.twimg.com/media/HTYmS85aMAATXcE?format=jpg&amp;name=medium" alt="Building a 24/7 Automated Order Flow Trading Desk with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RohOnChain/status/2104960910318280841">Building a 24/7 Automated Order Flow Trading Desk with Jev</a></h3>
+<p>The author shares how they used the free OpenMarket alternative to TradingView and integrated it with the Opus 5.5 + Jev stack to build an autonomously running order flow trading system.</p>
+<p><strong>中文摘要：</strong>作者分享了如何利用免费的 OpenMarket 替代 TradingView，并将其接入 Opus 5.5 与 Jev 技术栈，构建出自主运行的订单流交易系统。</p>
+<p><strong>Roan</strong> · @RohOnChain · 2026-09-29</p>
+<p>💬 15 &nbsp; 🔁 3 &nbsp; ♡ 23 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/RohOnChain/status/2104960910318280841">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/withchiay/status/2104921280143069350"><img src="https://pbs.twimg.com/amplify_video_thumb/2104919775860187136/img/SRTytV3hoI168dIM.jpg" alt="Jev + Treg as a Portfolio Management Flow · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 7 &nbsp; 🔁 8 &nbsp; ♡ 8 &nbsp; 📊 753</p>
 <p><a href="https://x.com/withchiay/status/2104921280143069350">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2104950596348625383"><img src="https://pbs.twimg.com/amplify_video_thumb/2104950467709251585/img/s8jmp1QwK-u8682m.jpg" alt="Jev Bot Autonomous Trading Agent Generates Gains · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 344</p>
 <p><a href="https://x.com/bl888m_eth/status/2104950596348625383">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AKKY33157665/status/2104835892707840321"><img src="https://pbs.twimg.com/amplify_video_thumb/2104832616021000192/img/xpoMtMPNdAVNsJ-0.jpg" alt="JEV + Claude Opus 5.5 Sports Betting Profits Over $3.4M · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 297</p>
 <p><a href="https://x.com/AKKY33157665/status/2104835892707840321">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/explosss1ve/status/2104889330208591965"><img src="https://pbs.twimg.com/amplify_video_thumb/2104889194942189568/img/qWRhFSVRNMpbyf95.jpg" alt="Jev + One Formula for Bitcoin Window Pricing Trades · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>explos1ve</strong> · @explosss1ve · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 253</p>
 <p><a href="https://x.com/explosss1ve/status/2104889330208591965">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/clawddevs/status/2104928379040362712"><img src="https://pbs.twimg.com/media/HTY1NHOXYAALvzL?format=jpg&amp;name=medium" alt="Clawd integrates Jev into Solana AI trading stack · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/clawddevs/status/2104928379040362712">Clawd integrates Jev into Solana AI trading stack</a></h3>
+<p>The post highlights Musebook&#39;s growing Solana AI stack, featuring voice trading, autonomous ORE mining, Backpack trading, Jev-powered decisions, Muse and Clawd agents, stablecoin cards, x402 payments, agent sandboxes, and live trading.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了 Musebook 中不断扩展的 Solana AI 堆栈，包括语音交易、自主 ORE 挖矿、Backpack 交易、Jev 驱动的决策、Muse 与 Clawd 智能体、稳定币卡片、x402 支付、智能体沙盒和实时交易。</p>
+<p><strong>Clawd🦞</strong> · @clawddevs · 2026-09-29</p>
+<p>💬 4 &nbsp; 🔁 5 &nbsp; ♡ 8 &nbsp; 📊 252</p>
+<p><a href="https://x.com/clawddevs/status/2104928379040362712">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +118,19 @@
 <p><a href="https://x.com/ggwplabs/status/2104834429533254117">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/Davidariasfin/status/2104927833998975088"><img src="https://pbs.twimg.com/tweet_video_thumb/HTY0pzXWQAAIwMd.jpg" alt="Open-sourced Jev for Finance: Efficient RAG for SEC Filings · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Davidariasfin/status/2104927833998975088">Open-sourced Jev for Finance: Efficient RAG for SEC Filings</a></h3>
+<p>The post announces open-sourcing Jev for Finance. Agentic RAG lets an LLM search EDGAR and read full 10-Ks, while Jev RAG uses code to find filings, keeps 30 passages, and Jev selects the one that answers, so the LLM reads just two. Demonstrates Jev&#39;s real application in financial document analysis.</p>
+<p><strong>中文摘要：</strong>推文宣布开源 Jev 在金融领域的应用。Agentic RAG 让 LLM 搜索 EDGAR 并阅读完整 10-K 文件，而 Jev RAG 通过代码定位文件、保留 30 个段落并由 Jev 筛选最佳答案，LLM 只需阅读两条。展示 Jev 在金融文档分析中的实际用例。</p>
+<p><strong>David Arias, CFA</strong> · @Davidariasfin · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 90</p>
+<p><a href="https://x.com/Davidariasfin/status/2104927833998975088">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/DaveWangMIA/status/2104933723452178567"><img src="https://pbs.twimg.com/media/HTY6EQabAAAuOVm?format=jpg&amp;name=medium" alt="Jev: TypeSafe&#39;s AI Model for Fast Decisions in Real-Time Trading · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
 <p><a href="https://x.com/DaveWangMIA/status/2104933723452178567">在 X 查看原帖</a> · <a href="https://t.co/pTyBzGv4M8">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2104896072938364971"><img src="https://pbs.twimg.com/media/HTYXnz5aIAAsISn?format=jpg&amp;name=medium" alt="A Quant Built a Real-Time Trading System with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 40</p>
 <p><a href="https://x.com/RitOnchain/status/2104896072938364971">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robvjourney/status/2104828525102452749"><img src="https://pbs.twimg.com/amplify_video_thumb/2104251970894909440/img/AiRePWDmJvbIgYBp.jpg" alt="Jev Trading Stack: Opus 5.5 with Live Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/robvjourney/status/2104828525102452749">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MohsenRpn/status/2104832463797432535"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="Built HypeMeter with Jev: Spot Real Hype and Avoid Rugs · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
 <p><a href="https://x.com/MohsenRpn/status/2104832463797432535">在 X 查看原帖</a> · <a href="https://t.co/eJ3IFdOlYL">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/phillyharper/status/2104939711550607768"><img src="https://pbs.twimg.com/media/HTY--XwWEAASvRs?format=jpg&amp;name=medium" alt="A bank powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/phillyharper/status/2104939711550607768">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oumi_ai/status/2104920828852699564"><img src="https://pbs.twimg.com/media/HTYuVuXXcAAAGEx?format=jpg&amp;name=medium" alt="Oumi: Financial Classification Model Beats Jev in 30 Minutes · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 13</p>
 <p><a href="https://x.com/oumi_ai/status/2104920828852699564">在 X 查看原帖</a> · <a href="https://t.co/4gfbRyXe5V">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tammy35bz8/status/2104842666236338607"><img src="https://pbs.twimg.com/media/HTXnPJHbQAAJ4md?format=png&amp;name=small" alt="Jev&#39;s TypeSafe rumored to raise $1B at $10B valuation · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/tammy35bz8/status/2104842666236338607">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/soly_nex/status/2104923149485969625"><img src="https://pbs.twimg.com/media/HTYwck5XgAAYfiQ?format=jpg&amp;name=medium" alt="AI Crypto Trading: Testing Strategies with Opus and Jev · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/soly_nex/status/2104923149485969625">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/me_barnyx/status/2104895934299537642"><img src="https://pbs.twimg.com/amplify_video_thumb/2104895706217496576/img/L1kT3FBuREIA6_6s.jpg" alt="JEV + OPUS Builds a Quant Options Desk · 原帖视频截图" width="100%"></a>
 <br>
@@ -199,6 +236,17 @@
 <p><strong>barnyx</strong> · @me_barnyx · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/me_barnyx/status/2104895934299537642">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/atkosX/status/2104956535315255691"><img src="https://pbs.twimg.com/media/HTZOy3cawAAIGno?format=jpg&amp;name=medium" alt="Built a Uniswap v4 hook powered by fine-tuned Jev, won bounty · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/atkosX/status/2104956535315255691">Built a Uniswap v4 hook powered by fine-tuned Jev, won bounty</a></h3>
+<p>At ETHGlobal Tokyo, a developer used a fine-tuned open-source Jev model to build a Uniswap v4 hook that charges arbitrageurs dynamic fees for liquidity providers, winning a Uniswap bounty.</p>
+<p><strong>中文摘要：</strong>在 ETHGlobal Tokyo 上，开发者使用 Jev 的开源微调版本构建 Uniswap v4 hook，动态向套利者收费并惠及流动性提供者，最终赢得 Uniswap 奖金。</p>
+<p><strong>Akshat</strong> · @atkosX · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/atkosX/status/2104956535315255691">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

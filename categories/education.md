@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 19 | 11 | 10 | 29K |
+| 20 | 11 | 11 | 29K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/platzi/status/2104932133479301193"><img src="https://pbs.twimg.com/media/HTY4nDWWsAAIdv9?format=jpg&amp;name=900x900" alt="Jev: 200x Faster, 400x Cheaper Decision Model Course · 原帖图片" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/platzi/status/2104932133479301193">Jev: 200x Faster, 400x Cheaper Decision Model Course</a></h3>
+<p>Platzi launches a Jev model course with Freddy Vega and Juan Pablo Rojas, covering TypeSafe&#39;s Jev — an AI model that can&#39;t chat but makes fast decisions.</p>
+<p><strong>中文摘要：</strong>Platzi 推出 Jev 模型课程，由 Freddy Vega 和 Juan Pablo Rojas 主讲，介绍 TypeSafe 的 Jev——一个不能对话但能快速决策的 AI 模型。</p>
+<p><strong>Platzi</strong> · @platzi · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 902</p>
+<p><a href="https://x.com/platzi/status/2104932133479301193">在 X 查看原帖</a> · <a href="https://t.co/Ur8rF67oM9">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/BenjaminHouy/status/2104883560788492298"><img src="https://pbs.twimg.com/media/HTYMcQJW0AAj4Ey?format=jpg&amp;name=medium" alt="Jev Used for Lesson Suggestions and Dialogue Practice · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
 <p><a href="https://x.com/BenjaminHouy/status/2104883560788492298">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Marc__Watkins/status/2104896182820483283"><img src="https://pbs.twimg.com/amplify_video_thumb/2104894143029723136/img/StWKC3eDA50OdNMV.jpg" alt="Teacher recreates SimCity disasters with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Marc__Watkins/status/2104896182820483283">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ukkaripon/status/2104193462979719366"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192990550151168/img/tBiMghAm1hfFm2vL.jpg" alt="DOPA English: A Jev-powered Word Learning App · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 14 &nbsp; 📊 630</p>
 <p><a href="https://x.com/ukkaripon/status/2104193462979719366">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rsensui/status/2103425740394139686"><img src="https://pbs.twimg.com/amplify_video_thumb/2103425506981076992/img/hNC7CAGyF6jhb0Or.jpg" alt="What is Jev? · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 51</p>
 <p><a href="https://x.com/rsensui/status/2103425740394139686">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LaLa_Pitch/status/2103121526790963221"><img src="https://pbs.twimg.com/amplify_video_thumb/2103121463834468352/img/OFtRxRANcih9W6L3.jpg" alt="Built a personal quiz app with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 53</p>
 <p><a href="https://x.com/LaLa_Pitch/status/2103121526790963221">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ziggyzonty/status/2102991432026100032"><img src="https://pbs.twimg.com/amplify_video_thumb/2102991407753674752/img/HdeDFeyOluKqIne8.jpg" alt="JEV Scores Educational Video Segments · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/Ziggyzonty/status/2102991432026100032">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shuga_vibes/status/2102778858185642238"><img src="https://pbs.twimg.com/amplify_video_thumb/2102778377086119936/img/LXfyW87c375h9e2l.jpg" alt="A mini game explaining what JEV is · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 103</p>
 <p><a href="https://x.com/shuga_vibes/status/2102778858185642238">在 X 查看原帖</a> · <a href="https://t.co/3XVuAeYpP7">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikhilrado/status/2102595430236229640"><img src="https://pbs.twimg.com/media/HS3rLH5WUAA2qmP?format=jpg&amp;name=medium" alt="Jev could save hours for professors and TAs · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/nikhilrado/status/2102595430236229640">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xlangeai/status/2102205717210128649"><img src="https://pbs.twimg.com/amplify_video_thumb/2102088489231609856/img/AJle7-1PDPdXWJ6d.jpg" alt="Jev Automatically Passes Alibaba Cloud AI Engineer Mock Exam in 21 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 220</p>
 <p><a href="https://x.com/0xlangeai/status/2102205717210128649">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nutanc/status/2102229633664209048"><img src="https://pbs.twimg.com/media/HSyeNd6aQAEwcav?format=jpg&amp;name=medium" alt="Improving Story Generation with a Jev-Based Teacher · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 124</p>
 <p><a href="https://x.com/nutanc/status/2102229633664209048">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clarityLabo/status/2102189185910341977"><img src="https://pbs.twimg.com/media/HSx52aEbEAAuk2z?format=jpg&amp;name=medium" alt="Jev Playground Settles Questions Japanese Elementary Students Always Ask · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 108</p>
 <p><a href="https://x.com/clarityLabo/status/2102189185910341977">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Austin_Way/status/2102131624921968704"><img src="https://pbs.twimg.com/amplify_video_thumb/2101035354190995456/img/iUCGleJ76G92-Rax.jpg" alt="Jev Accelerates Personalized Education Content Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 8 &nbsp; ♡ 140 &nbsp; 📊 6.9K</p>
 <p><a href="https://x.com/Austin_Way/status/2102131624921968704">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/riyu__li/status/2101895097344561196"><img src="https://pbs.twimg.com/amplify_video_thumb/2101893753292365824/img/ELrTpl9rAOuleTEO.jpg" alt="Building a Prototype with TypeSafe AI Jev and Dify to Classify Preschool Teachers&#39; Verbal Cues · 原帖视频截图" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 96</p>
 <p><a href="https://x.com/riyu__li/status/2101895097344561196">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIxEdu_news/status/2101965901469786341"><img src="https://pbs.twimg.com/media/HSuu198bkAEJqvh?format=jpg&amp;name=large" alt="Jev Judgment AI in Education: Applications and Data Compliance · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/AIxEdu_news/status/2101965901469786341">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916"><img src="https://pbs.twimg.com/amplify_video_thumb/2101630019420450816/img/tNWor6QkfAlKtRXS.jpg" alt="Jev Hackathon: Solving the School Handout Problem with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 784</p>
 <p><a href="https://x.com/Fairy_Yoshizawa/status/2101630047987920916">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/khkreddy/status/2101734993454387581"><img src="https://pbs.twimg.com/media/HSrcffGaYAAOyzp?format=jpg&amp;name=medium" alt="Building Pedagogical DAGs for Grades 6-12 Science and Math with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 232</p>
 <p><a href="https://x.com/khkreddy/status/2101734993454387581">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/debianmaster/status/2101501810917658763"><img src="https://pbs.twimg.com/media/HSoIq7EXsAAkvju?format=jpg&amp;name=medium" alt="Experiment with Jev and Chirp-3 for Kids · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 153</p>
 <p><a href="https://x.com/debianmaster/status/2101501810917658763">在 X 查看原帖</a> · <a href="https://t.co/7dUCUBDtxK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuInada2/status/2101451019284820098"><img src="https://pbs.twimg.com/amplify_video_thumb/2101450572503425024/img/Xlrzew9HYjBzoWJr.jpg" alt="Building a Real-Time Class Opinion Classifier with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 5 &nbsp; 🔁 34 &nbsp; ♡ 246 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/YuInada2/status/2101451019284820098">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robpenner/status/2100790139123274188"><img src="https://pbs.twimg.com/media/HSeAb-DXEAErCLG?format=jpg&amp;name=medium" alt="Jev AI described as a non-verbal savant focused on exams · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,5 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 395</p>
 <p><a href="https://x.com/robpenner/status/2100790139123274188">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

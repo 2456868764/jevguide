@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 205 | 113 | 95 | 1.2M |
+| 207 | 113 | 97 | 1.2M |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/DaveWangMIA/status/2104933723452178567"><img src="https://pbs.twimg.com/media/HTY6EQabAAAuOVm?format=jpg&amp;name=medium" alt="Jev: TypeSafe&#39;s AI Model for Fast Decisions in Real-Time Trading · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DaveWangMIA/status/2104933723452178567">Jev: TypeSafe&#39;s AI Model for Fast Decisions in Real-Time Trading</a></h3>
+<p>The post introduces Jev as a new TypeSafe AI model designed for quick decisions, stating it makes real-time trading on news and earnings possible, and includes a resource download link.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 是 TypeSafe 新推出的 AI 模型，专为快速决策设计，并说明它让基于新闻和财报的实时交易成为可能，还附带了资源下载链接。</p>
+<p><strong>Dave Wang</strong> · @DaveWangMIA · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><a href="https://x.com/DaveWangMIA/status/2104933723452178567">在 X 查看原帖</a> · <a href="https://t.co/pTyBzGv4M8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2104896072938364971"><img src="https://pbs.twimg.com/media/HTYXnz5aIAAsISn?format=jpg&amp;name=medium" alt="A Quant Built a Real-Time Trading System with JEV · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 40</p>
 <p><a href="https://x.com/RitOnchain/status/2104896072938364971">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robvjourney/status/2104828525102452749"><img src="https://pbs.twimg.com/amplify_video_thumb/2104251970894909440/img/AiRePWDmJvbIgYBp.jpg" alt="Jev Trading Stack: Opus 5.5 with Live Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/robvjourney/status/2104828525102452749">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MohsenRpn/status/2104832463797432535"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="Built HypeMeter with Jev: Spot Real Hype and Avoid Rugs · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>Mohsen Rastegar .base.eth .ink 🍚 ⛓ 🚢</strong> · @MohsenRpn · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
 <p><a href="https://x.com/MohsenRpn/status/2104832463797432535">在 X 查看原帖</a> · <a href="https://t.co/eJ3IFdOlYL">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/phillyharper/status/2104939711550607768"><img src="https://pbs.twimg.com/media/HTY--XwWEAASvRs?format=jpg&amp;name=medium" alt="A bank powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/phillyharper/status/2104939711550607768">A bank powered by Jev</a></h3>
+<p>Phil Harper built a bank powered by Jev. Users describe their project and submit, and Jev ranks economic benefit and independence for humanity to instantly decide funding.</p>
+<p><strong>中文摘要：</strong>Phil Harper构建了一个由Jev驱动的银行，用户描述项目并提交，Jev根据经济收益和人类独立性自动决定资助。</p>
+<p><strong>Phil Harper</strong> · @phillyharper · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/phillyharper/status/2104939711550607768">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/oumi_ai/status/2104920828852699564"><img src="https://pbs.twimg.com/media/HTYuVuXXcAAAGEx?format=jpg&amp;name=medium" alt="Oumi: Financial Classification Model Beats Jev in 30 Minutes · 原帖图片" width="100%"></a>

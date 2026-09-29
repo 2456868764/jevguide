@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 299 | 170 | 130 | 3.0M |
+| 301 | 171 | 131 | 3.0M |
 
 ## Showcase 卡片
 
@@ -59,6 +59,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/0xwhrrari/status/2104934259995668812"><img src="https://pbs.twimg.com/media/HTY1NrhWcAATltl?format=jpg&amp;name=medium" alt="Jev + Opus 5.5 Turns Claude into a Self-Optimizing AI Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xwhrrari/status/2104934259995668812">Jev + Opus 5.5 Turns Claude into a Self-Optimizing AI Agent</a></h3>
+<p>A single prompt installs Jev, audits where Opus wastes context, tokens, and money, and moves routing, scoring, and verification into a fast decision layer to build a self-optimizing agent system.</p>
+<p><strong>中文摘要：</strong>通过单个提示词安装Jev，审计Opus浪费上下文、令牌和成本的部分，并将路由、评分和验证移至快速决策层，从而构建自我优化代理系统。</p>
+<p><strong>rari</strong> · @0xwhrrari · 2026-09-29</p>
+<p>💬 13 &nbsp; 🔁 0 &nbsp; ♡ 34 &nbsp; 📊 633</p>
+<p><a href="https://x.com/0xwhrrari/status/2104934259995668812">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/tmiyatake1/status/2104724335890170203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104668344892960768/img/yi8gTD32sr0imlkP.jpg" alt="The Burning Question When Pitching Jev: Where&#39;s the Automation? · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
 <p><a href="https://x.com/tmiyatake1/status/2104724335890170203">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gippp69/status/2104894644278497751"><img src="https://pbs.twimg.com/amplify_video_thumb/2104894603556003840/img/i3Ld0EPUjUlH2Rva.jpg" alt="Jev + Grok bot: deciding whether an event deserves generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 227</p>
 <p><a href="https://x.com/gippp69/status/2104894644278497751">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Daniel_Bernath_/status/2104733075406254225"><img src="https://pbs.twimg.com/amplify_video_thumb/2104733041436631040/img/DLURB1kCn4Imn0GL.jpg" alt="Jev Monitors 900 Live Flights in the Bay Area · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 62</p>
 <p><a href="https://x.com/Daniel_Bernath_/status/2104733075406254225">在 X 查看原帖</a> · <a href="https://t.co/QlU8bfOup6">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xfanwu/status/2104837531921797192"><img src="https://pbs.twimg.com/amplify_video_thumb/2104622503221972993/img/tvIWbSCCtHUf-1zE.jpg" alt="Jev routing&#39;s key role in multi-model sessions · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
 <p><a href="https://x.com/xfanwu/status/2104837531921797192">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/laurent_zw/status/2104903672757100837"><img src="https://pbs.twimg.com/amplify_video_thumb/2104902848374788096/img/-XDTxCKWifxVMR-K.jpg" alt="JEV vs Qwen 27B playing Tetris on Cerebras · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/laurent_zw/status/2104903672757100837">在 X 查看原帖</a> · <a href="https://t.co/Pd1divhSEL">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/andresvilarino/status/2104847522615189797"><img src="https://pbs.twimg.com/media/HTS75WCW4AE1o84?format=jpg&amp;name=medium" alt="20 Agentic Use Cases of TypeSafe AI&#39;s Jev · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/andresvilarino/status/2104847522615189797">在 X 查看原帖</a> · <a href="https://t.co/pWMPWN5dO6">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/whyweru/status/2104834064108617898"><img src="https://pbs.twimg.com/media/HTXfbG8WkAAesf5?format=jpg&amp;name=900x900" alt="Got Jev running on a multi-agent harness · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/whyweru/status/2104834064108617898">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/violoop/status/2104879336507822472"><img src="https://pbs.twimg.com/media/HTYIg6vaQAArWCp?format=jpg&amp;name=medium" alt="Violoop + Jev: Significant performance gains in computer use tests · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/violoop/status/2104879336507822472">在 X 查看原帖</a> · <a href="https://t.co/KqMEJFhR9z">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BugLukas/status/2104902297889218995"><img src="https://pbs.twimg.com/media/HTYdeRDWUAA725c?format=jpg&amp;name=medium" alt="Using Jev for agent skill decisions · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/BugLukas/status/2104902297889218995">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oLaragnoit/status/2104919714795299077"><img src="https://pbs.twimg.com/amplify_video_thumb/2104919650718912512/img/N0SOdeWV1s9ww2Mu.jpg" alt="Developer Builds Live Interview Assistant with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
 <p><a href="https://x.com/oLaragnoit/status/2104919714795299077">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xL1C10G/status/2104787742643437765"><img src="https://pbs.twimg.com/media/HTW0PAxaMAE95jq?format=jpg&amp;name=medium" alt="Jev tested: about 19x faster than Gemini 3.8 Flash for agent tool routing · 原帖图片" width="100%"></a>
 <br>
@@ -188,6 +199,19 @@
 <p><strong>0xL1C10G | CAD × AI Agent</strong> · @0xL1C10G · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><a href="https://x.com/0xL1C10G/status/2104787742643437765">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Rodon111/status/2104913909677261300"><img src="https://pbs.twimg.com/amplify_video_thumb/2104913838978060288/img/v9y57Mb1Vf8VirEV.jpg" alt="Jev + Opus 5.5: Agent Selectively Loads Context · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Rodon111/status/2104913909677261300">Jev + Opus 5.5: Agent Selectively Loads Context</a></h3>
+<p>User shares experience combining Jev model with Opus 5.5: the agent skipped 8 of 9 project notes and still wrote correct code. The key is loading only relevant notes before context fills up, routing simple tasks to a faster worker, and choosing a recovery strategy. Highlights Jev&#39;s value in agent context management.</p>
+<p><strong>中文摘要：</strong>用户分享将Jev模型与Opus 5.5结合使用的体验：智能体跳过9条项目笔记中的8条仍能写出正确代码。关键在于只加载相关笔记，避免上下文填满，并将简单任务路由给更快的worker，以及选择合适的恢复策略。体现Jev模型在智能体上下文管理中的价值。</p>
+<p><strong>rodon</strong> · @Rodon111 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Rodon111/status/2104913909677261300">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ikramrana/status/2104847977915552097"><img src="https://pbs.twimg.com/amplify_video_thumb/2104847779004882945/img/koyCldtFpqZkyEaZ.jpg" alt="Jev UltraFast: DOM-First Browser Agent · 原帖视频截图" width="100%"></a>

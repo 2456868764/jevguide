@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 100 | 76 | 27 | 101K |
+| 102 | 78 | 27 | 101K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 783</p>
 <p><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ogme01/status/2104934219327914041"><img src="https://pbs.twimg.com/amplify_video_thumb/2104931686450339841/img/E-qcoC-fn0Wjsm1I.jpg" alt="Making LinkedIn get to the point with TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ogme01/status/2104934219327914041">Making LinkedIn get to the point with TypeSafe Jev</a></h3>
+<p>Owen Greenhalgh posts that he used @typesafeai&#39;s Jev to make LinkedIn content get to the point.</p>
+<p><strong>中文摘要：</strong>Owen Greenhalgh 发帖表示，使用 @typesafeai 的 Jev 模型，让 LinkedIn 的内容变得直接、切中要点。</p>
+<p><strong>Owen Greenhalgh</strong> · @ogme01 · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 173</p>
+<p><a href="https://x.com/ogme01/status/2104934219327914041">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/teropa/status/2104935474695741619"><img src="https://pbs.twimg.com/amplify_video_thumb/2104934454032539648/img/De5knE_bGhOZlTZ3.jpg" alt="Jev real-time drum sequencer experiment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/teropa/status/2104935474695741619">Jev real-time drum sequencer experiment</a></h3>
+<p>Tero Parviainen shares jevseq, a multiplayer drum sequencer powered by Jev. Users paint a world that Jev walks through in real time, trying to hit the snare on beats 2 and 4, showcasing System 1-style instant AI decision-making.</p>
+<p><strong>中文摘要：</strong>Tero Parviainen 分享了 jevseq，一个由 Jev 驱动的多人鼓音序器。用户绘制世界，Jev 在其中实时移动，并尝试在第二和第四拍上击打军鼓，体现了 System 1 式的即时 AI 决策。</p>
+<p><strong>Tero Parviainen</strong> · @teropa · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 127</p>
+<p><a href="https://x.com/teropa/status/2104935474695741619">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/osamucap/status/2104845149335654867"><img src="https://pbs.twimg.com/media/HTXoqmlaEAELbLl?format=jpg&amp;name=medium" alt="NAV: A Scenario Analysis Tool Built with Gemini and Jev · 原帖图片" width="100%"></a>

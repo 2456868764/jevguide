@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 117 | 88 | 29 | 904K |
+| 119 | 90 | 29 | 904K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/typesafeai/status/2104768408890003807">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/kurisinaa/status/2104932324546584593"><img src="https://pbs.twimg.com/amplify_video_thumb/2104929486588334080/img/LDOMIfg6-Ec3OvNd.jpg" alt="Jev founder: JEV is the next era after LLM assistants · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kurisinaa/status/2104932324546584593">Jev founder: JEV is the next era after LLM assistants</a></h3>
+<p>Jev founder and ex-OpenAI member Diogo Almeida says Claude Code and Codex still belong to the assistant era with a human in the loop. JEV is positioned as the next era for LLMs, claiming 200x faster, 400x cheaper, zero hallucination, and no human in the loop.</p>
+<p><strong>中文摘要：</strong>Jev 创始人、前 OpenAI 成员 Diogo Almeida 称，Claude Code 和 Codex 仍属于人类参与的助手时代；JEV 则以速度快 200 倍、成本降低 400 倍、零幻觉且无需人类介入，定位为 LLM 的下一代方案。</p>
+<p><strong>kurisina</strong> · @kurisinaa · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 442</p>
+<p><a href="https://x.com/kurisinaa/status/2104932324546584593">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/uncle_moon_x/status/2104753477528490491"><img src="https://pbs.twimg.com/media/HTWWGnRa4AAEMwg?format=jpg&amp;name=medium" alt="Uncle Moon Comments on Jev&#39;s Marketing Strategy · 原帖图片" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 284</p>
 <p><a href="https://x.com/uncle_moon_x/status/2104753477528490491">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OkaTakuma1/status/2104888925001339206"><img src="https://pbs.twimg.com/media/HSs67fYaEAAK2zF?format=jpg&amp;name=medium" alt="Using Jev for Bulk URL Screening in SEO · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 145</p>
 <p><a href="https://x.com/OkaTakuma1/status/2104888925001339206">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AI_Caffeine/status/2104873569801187534"><img src="https://pbs.twimg.com/media/HTC8-dXa0AAXnca?format=jpg&amp;name=medium" alt="Jev SEO: Generate an SEO diagnostic report in about 1 minute · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>AI 카페인 ☕️</strong> · @AI_Caffeine · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 81</p>
 <p><a href="https://x.com/AI_Caffeine/status/2104873569801187534">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/felipe_rohde/status/2104914714773868762"><img src="https://pbs.twimg.com/amplify_video_thumb/2104912410947563520/img/zpfbW-SYjcIL1g-G.jpg" alt="Jev AI generates ad variations in seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/felipe_rohde/status/2104914714773868762">Jev AI generates ad variations in seconds</a></h3>
+<p>Rohde Builder shows Jev AI creating ad after ad, variation after variation, all in seconds, with a trial link.</p>
+<p><strong>中文摘要：</strong>Rohde Builder 展示了 Jev AI 在几秒钟内生成一个又一个广告变体，并提供了试用链接。</p>
+<p><strong>Rohde Builder</strong> · @felipe_rohde · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 27</p>
+<p><a href="https://x.com/felipe_rohde/status/2104914714773868762">在 X 查看原帖</a> · <a href="https://t.co/sdDsDlrXz5">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 304 | 231 | 77 | 588K |
+| 306 | 232 | 78 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/en3sis/status/2104764425702105226"><img src="https://pbs.twimg.com/amplify_video_thumb/2104757815218974720/img/gE5KhHoqu7-kLMH3.jpg" alt="Jev-Powered Challenge Mode: You vs AI Bots · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/en3sis/status/2104764425702105226">Jev-Powered Challenge Mode: You vs AI Bots</a></h3>
+<p>A developer added a challenge mode where two bots are run by TypeSafe AI&#39;s Jev, which observes your play and assigns each bot a plan: collect, steal, hunt, block, or guard.</p>
+<p><strong>中文摘要：</strong>开发者在游戏中加入挑战模式，由TypeSafe AI的Jev控制两个机器人，Jev会根据玩家的玩法为每个机器人制定收集、偷窃、狩猎、阻挡或守卫等策略。</p>
+<p><strong>Sorin Curescu</strong> · @en3sis · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/en3sis/status/2104764425702105226">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/joshdbirdwell/status/2104771497155867087"><img src="https://pbs.twimg.com/media/HTWk0PmXcAEAjVF?format=jpg&amp;name=medium" alt="Building a Fantasy Football Assistant with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joshdbirdwell/status/2104771497155867087">Building a Fantasy Football Assistant with Jev</a></h3>
+<p>The author, managing too many fantasy football leagues, built an app with Jev to read articles and ask Jev for roster and free-agent insights across 145 articles and 7 leagues in seconds.</p>
+<p><strong>中文摘要：</strong>作者因参与过多梦幻足球联赛，使用 Jev 开发了一款应用，自动阅读文章并询问 Jev 对阵容和自由球员的影响，快速处理 145 篇文章和 7 个联赛。</p>
+<p><strong>Josh Birdwell</strong> · @joshdbirdwell · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 21</p>
+<p><a href="https://x.com/joshdbirdwell/status/2104771497155867087">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kozei/status/2104515263383175581"><img src="https://pbs.twimg.com/amplify_video_thumb/2104500255223951360/img/xCt0MGcEFv-wQfIh.jpg" alt="JEVPLAY: An open game board for humans to play against JEV · 原帖视频截图" width="100%"></a>

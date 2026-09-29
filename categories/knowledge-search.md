@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 89 | 49 | 40 | 235K |
+| 91 | 50 | 41 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KShivendu_/status/2104740971644874954"><img src="https://pbs.twimg.com/media/HTWKwaia4AA53BT?format=jpg&amp;name=small" alt="Jev can be used like a cross encoder for relevance · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KShivendu_/status/2104740971644874954">Jev can be used like a cross encoder for relevance</a></h3>
+<p>The post notes that Jev can take both query and document pairs to assess relevance, functioning like a cross encoder/re-ranker in practice, which often yields better quality than embedding models since both are seen together.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 能同时接收查询和文档对并评估相关性，实际应用中类似交叉编码器/重排序器，相比嵌入模型质量更优，因为模型能同时看到查询和文档。</p>
+<p><strong>KShivendu 🌁</strong> · @KShivendu_ · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 280</p>
+<p><a href="https://x.com/KShivendu_/status/2104740971644874954">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/haginota/status/2104764349604897183"><img src="https://pbs.twimg.com/amplify_video_thumb/2104745121858420737/img/D5vGW_0k2Lce8Udr.jpg" alt="Does Jev boost RAG accuracy? Perfect score in a 240-item test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/haginota/status/2104764349604897183">Does Jev boost RAG accuracy? Perfect score in a 240-item test</a></h3>
+<p>In this post, Takanori Hagino looks at prior work and shares a 240-item retrieval experiment: Jev selecting directly from all candidates was correct on all 20 questions, at the cost of input tokens growing from 52k to 511k as the number of items increased.</p>
+<p><strong>中文摘要：</strong>萩野貴拓在帖子中整理先行研究并做了一个 240 条检索实验：Jev 直接从全部候选中选择的方式在 20 道题上全部正确，但输入 token 会随候选数量增加，从 52k 增至 511k。</p>
+<p><strong>萩野貴拓</strong> · @haginota · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/haginota/status/2104764349604897183">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/haginota/status/2104727859163971750"><img src="https://pbs.twimg.com/amplify_video_thumb/2104633540646428672/img/I6rzwwJhCIoCiI-5.jpg" alt="How Does Jev Impact RAG/GraphRAG? · 原帖视频截图" width="100%"></a>

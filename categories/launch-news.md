@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 270 | 134 | 139 | 1.1M |
+| 272 | 136 | 139 | 1.1M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/platzi/status/2104726851138605477">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/2020_hira/status/2104770291260117094"><img src="https://pbs.twimg.com/amplify_video_thumb/2104767723842789376/img/zpVoz1TEjM7RcMmI.jpg" alt="Developer Releases Jev-Powered Translation Chrome Extension · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/2020_hira/status/2104770291260117094">Developer Releases Jev-Powered Translation Chrome Extension</a></h3>
+<p>The author published a Chrome translation extension using Jev after passing review. It remains roughly usable with Jev off, designed to help engineers with English reading.</p>
+<p><strong>中文摘要：</strong>作者发布了使用 Jev 的翻译 Chrome 扩展，已通过商店审核。即使关闭 Jev 也能基本使用，适合希望提高英语阅读效率的开发者。</p>
+<p><strong>hiraoku</strong> · @2020_hira · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 76</p>
+<p><a href="https://x.com/2020_hira/status/2104770291260117094">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/shao__meng/status/2104757437958107338"><img src="https://pbs.twimg.com/media/HTWZuVWa4AA3_XI?format=jpg&amp;name=medium" alt="Jev API seamlessly replaces Unsloth for local deployment of Laya decision model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 65</p>
 <p><a href="https://x.com/shao__meng/status/2104757437958107338">在 X 查看原帖</a> · <a href="https://t.co/ecZERDi185">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIForPeople/status/2104725830320476285"><img src="https://pbs.twimg.com/media/HTV8_QkXQAAFD0o?format=jpg&amp;name=medium" alt="AutoTrust Releases JEV-27B Open-Weight Model · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>AIForPeople</strong> · @AIForPeople · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/AIForPeople/status/2104725830320476285">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_rishikhesh_/status/2104773908343984629"><img src="https://pbs.twimg.com/amplify_video_thumb/2104772968547287040/img/E6pDQjeN6ZMrZoQB.jpg" alt="HyperDraft Beta Launch: Using TypeSafe&#39;s JEV Model to Speed Up AI UI Building · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_rishikhesh_/status/2104773908343984629">HyperDraft Beta Launch: Using TypeSafe&#39;s JEV Model to Speed Up AI UI Building</a></h3>
+<p>HyperDraft uses TypeSafe&#39;s JEV model to understand user intent in under 1 second, decide the required components, and have the LLM build in seconds rather than minutes — unlike most AI UI builders that rewrite the whole page on every edit. Beta is now live.</p>
+<p><strong>中文摘要：</strong>HyperDraft利用TypeSafe的JEV模型，在不到1秒内理解用户意图，决定所需组件并让LLM在几秒内完成构建，而非像多数AI UI构建器那样每次编辑都重写整个页面。Beta现已上线。</p>
+<p><strong>rixhy</strong> · @_rishikhesh_ · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/_rishikhesh_/status/2104773908343984629">在 X 查看原帖</a> · <a href="https://t.co/7qgUzhYtDU">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/a16z/status/2104580361254810080"><img src="https://pbs.twimg.com/amplify_video_thumb/2104579379615641600/img/-lxssJS9sPlj4th0.jpg" alt="TypeSafe AI&#39;s Jev: The Model Built to Live Inside Software · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 402 | 218 | 186 | 3.6M |
+| 404 | 219 | 187 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/brandonjcarl/status/2104758740868280524"><img src="https://pbs.twimg.com/media/HTWaVz3W4AE-4bI?format=jpg&amp;name=medium" alt="Jev stands out in budget LLM benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/brandonjcarl/status/2104758740868280524">Jev stands out in budget LLM benchmark</a></h3>
+<p>The author benchmarked budget LLMs and found Luna dominates overall, but Jev performs just as well on text tasks, with 30x faster speed and 30x lower cost.</p>
+<p><strong>中文摘要：</strong>作者对预算LLM进行基准测试，发现Luna整体领先，但Jev在文本任务上性能相当，且速度快30倍、成本低至三十分之一。</p>
+<p><strong>Brandon Carl</strong> · @brandonjcarl · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 581</p>
+<p><a href="https://x.com/brandonjcarl/status/2104758740868280524">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MarshallsFolly/status/2104758914822832487"><img src="https://pbs.twimg.com/amplify_video_thumb/2104658834719662081/img/Q25blEs_Eg4-GDxB.jpg" alt="jevbar: A TypeScript Library Leveraging Jev to Build UI Dynamically · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MarshallsFolly/status/2104758914822832487">jevbar: A TypeScript Library Leveraging Jev to Build UI Dynamically</a></h3>
+<p>The author shares jevbar, an open-source TypeScript library that uses TypeSafe&#39;s Jev to understand user requests and automatically build fitting UI components like forms, confirmations, and charts.</p>
+<p><strong>中文摘要：</strong>作者介绍了开源TypeScript库jevbar，它通过TypeSafe的Jev理解用户请求，并自动生成表单、确认对话框、图表等适配的UI组件。</p>
+<p><strong>⚡ Marshall ⚡</strong> · @MarshallsFolly · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 423</p>
+<p><a href="https://x.com/MarshallsFolly/status/2104758914822832487">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0x0SojalSec/status/2104745093806837770"><img src="https://pbs.twimg.com/media/HTWOYmqa4AA5Vq7?format=jpg&amp;name=900x900" alt="Unsloth Adds Layaan, an Open Jev Alternative · 原帖图片" width="100%"></a>

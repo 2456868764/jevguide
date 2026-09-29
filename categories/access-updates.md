@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 335 | 134 | 201 | 802K |
+| 337 | 135 | 202 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/grivn_eth/status/2104768786918195403"><img src="https://pbs.twimg.com/amplify_video_thumb/2104768536618934272/img/rxkrDUgQ769IQhqJ.jpg" alt="Mnemon Adopts TypeSafe Jev as System 1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/grivn_eth/status/2104768786918195403">Mnemon Adopts TypeSafe Jev as System 1</a></h3>
+<p>Mnemon&#39;s memory system integrates TypeSafe&#39;s Jev model as System 1 to judge raw records more efficiently. Jev is 3–11× faster than LLMs, scores 91.7% on LoCoMo, and ranks first among 15 systems answering with gpt-4.1-mini, with very high token efficiency.</p>
+<p><strong>中文摘要：</strong>Mnemon的记忆系统引入TypeSafe的Jev模型作为System 1，用于更高效地判断原始记录。相比LLM，Jev速度快3-11倍，并在LoCoMo上取得91.7%的成绩，在15个使用gpt-4.1-mini回答的系统中位列第一，同时保持极高的token效率。</p>
+<p><strong>𝗚𝗥𝗜𝗩𝗡.𝗛𝗟 🌎-&#39;</strong> · @grivn_eth · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 53</p>
+<p><a href="https://x.com/grivn_eth/status/2104768786918195403">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Jakrey/status/2104760122614677625"><img src="https://pbs.twimg.com/media/HTWboGIb0AEFGKc?format=png&amp;name=medium" alt="Testing Jev API in a Research Workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Jakrey/status/2104760122614677625">Testing Jev API in a Research Workflow</a></h3>
+<p>Jak Myers tested Jev on deciding whether a public post asks for a working agent example, getting a 0.94 yes probability. Code flags it for source review and never writes or sends a reply, focusing on the API path rather than accuracy.</p>
+<p><strong>中文摘要：</strong>Jak Myers 在研究中测试 Jev 判断帖子是否索要工作代理示例，得到 0.94 的“是”概率。代码仅标记源审查，不撰写或发送回复，重点验证 API 路径而非准确性。</p>
+<p><strong>Jak Myers</strong> · @Jakrey · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/Jakrey/status/2104760122614677625">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Meijin_garden/status/2104571449604444179"><img src="https://pbs.twimg.com/amplify_video_thumb/2104571295166078976/img/cG0AwoQPJwgRhO0_.jpg" alt="Test Maker Integrates Jev for Real-Time AI Test Generation Suggestions · 原帖视频截图" width="100%"></a>

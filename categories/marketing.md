@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 112 | 88 | 24 | 904K |
+| 114 | 88 | 26 | 904K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2104768408890003807"><img src="https://pbs.twimg.com/media/HTWjfPhaUAALWwX?format=png&amp;name=small" alt="Jev: Built for Composability · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2104768408890003807">Jev: Built for Composability</a></h3>
+<p>TypeSafe AI emphasizes that Jev is built for composability and encourages more Jev usage.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 强调 Jev 专为可组合性构建，并鼓励更多使用 Jev。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 42 &nbsp; 📊 7.8K</p>
+<p><a href="https://x.com/typesafeai/status/2104768408890003807">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/uncle_moon_x/status/2104753477528490491"><img src="https://pbs.twimg.com/media/HTWWGnRa4AAEMwg?format=jpg&amp;name=medium" alt="Uncle Moon Comments on Jev&#39;s Marketing Strategy · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>月球大叔</strong> · @uncle_moon_x · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 284</p>
 <p><a href="https://x.com/uncle_moon_x/status/2104753477528490491">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/weevee_jp/status/2104773534220537881"><img src="https://pbs.twimg.com/media/HTWoXzVbMAAIRP1?format=jpg&amp;name=medium" alt="weevee Launches 10 AI Sales Agents Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/weevee_jp/status/2104773534220537881">weevee Launches 10 AI Sales Agents Powered by Jev</a></h3>
+<p>Japanese company weevee announced an &#39;AI sales team of 10&#39; starting October 1, using the TypeSafe Jev model for sales decisions. Jev does not write text but returns probabilities, while SFA entry is automated so humans focus on judgment.</p>
+<p><strong>中文摘要：</strong>日本公司weevee宣布自10月1日起启动“AI营业10人”体制，采用TypeSafe的Jev模型进行销售判断。Jev不生成文本，仅返回概率，SFA输入由AI自动化，人员专注决策。</p>
+<p><strong>weevee</strong> · @weevee_jp · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/weevee_jp/status/2104773534220537881">在 X 查看原帖</a> · <a href="https://t.co/M1tSrMpdub">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ericosiu/status/2104360444421194064"><img src="https://pbs.twimg.com/amplify_video_thumb/2103620850121662464/img/L2Ri1HMmHtfvf94O.jpg" alt="How to Use Jev and Grok Bot to Sort a Lead List · 原帖视频截图" width="100%"></a>

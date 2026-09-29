@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 413 | 180 | 234 | 1.6M |
+| 415 | 180 | 236 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heyzhuhry/status/2104737929281323147"><img src="https://pbs.twimg.com/media/HTT-FxhbIAAm7Cv?format=jpg&amp;name=medium" alt="How Jev Answers in Parallel · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/heyzhuhry/status/2104737929281323147">How Jev Answers in Parallel</a></h3>
+<p>Under the hood, Jev skips writing entirely. Send text plus typed questions, get all answers in one parallel pass—each with a probability—so your code decides what to trust.</p>
+<p><strong>中文摘要：</strong>Jev 跳过写作过程：你发送文本和类型化问题，它一次并行回答所有问题，并给每个答案附带概率，最终由你的代码决定信任哪些结果。</p>
+<p><strong>Zhuhry</strong> · @heyzhuhry · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 14</p>
+<p><a href="https://x.com/heyzhuhry/status/2104737929281323147">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/smsehy/status/2104750358430175410"><img src="https://pbs.twimg.com/media/HTWTPgKbgAA5MNT?format=jpg&amp;name=medium" alt="Jev: An AI Model That Returns Typed Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/smsehy/status/2104750358430175410">Jev: An AI Model That Returns Typed Decisions</a></h3>
+<p>The post points out that most AI models predict tokens, while Jev quickly returns a typed decision in 70–500 ms, a critical distinction for evaluating program state in automotive and manufacturing.</p>
+<p><strong>中文摘要：</strong>帖子指出大多数AI模型预测token，而Jev在70至500毫秒内快速返回类型化决策，这是面向汽车和制造业程序状态评估的关键区别。</p>
+<p><strong>Shawn</strong> · @smsehy · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/smsehy/status/2104750358430175410">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sarah_edo/status/2104561809084567843"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2104561776016658432/pu/img/NAIJ-eBvgLgcYazJ.jpg" alt="A Site Explaining System One Thinking · 原帖视频截图" width="100%"></a>

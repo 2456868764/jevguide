@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 246 | 95 | 151 | 419K |
+| 248 | 96 | 152 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/realpython/status/2104742966682071390"><img src="https://pbs.twimg.com/media/HTWMkw8XcAA4Ard?format=jpg&amp;name=medium" alt="How to Get Started With Jev in Python · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/realpython/status/2104742966682071390">How to Get Started With Jev in Python</a></h3>
+<p>Learn how to connect a Python script to the Jev model with the TypeSafe SDK and OpenRouter, and replace brittle input checks with Noul, Score, and Choice answers.</p>
+<p><strong>中文摘要：</strong>了解如何通过 TypeSafe SDK 和 OpenRouter 将 Python 脚本连接到 Jev 模型，并用 Noul、Score 和 Choice 答案替代脆弱的输入检查。</p>
+<p><strong>Real Python</strong> · @realpython · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 622</p>
+<p><a href="https://x.com/realpython/status/2104742966682071390">在 X 查看原帖</a> · <a href="https://t.co/idjH1kBGEI">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/meng_shengyu/status/2104722830147334585"><img src="https://pbs.twimg.com/media/HTOAh7aaEAApGhO?format=jpg&amp;name=large" alt="Zev: An Open Remake of Jev, Finetunable from 0.8B to 27B · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Simon Meng</strong> · @meng_shengyu · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/meng_shengyu/status/2104722830147334585">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MarshallsFolly/status/2104757747057299929"><img src="https://pbs.twimg.com/amplify_video_thumb/2104658834719662081/img/Q25blEs_Eg4-GDxB.jpg" alt="jevbar: Open-source library building UI dynamically with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MarshallsFolly/status/2104757747057299929">jevbar: Open-source library building UI dynamically with Jev</a></h3>
+<p>Marshall introduces jevbar, an open-source library that uses TypeSafe&#39;s Jev to understand user requests and build the most suitable UI on the fly—forms, confirmations, charts, and more.</p>
+<p><strong>中文摘要：</strong>Marshall 介绍了 jevbar，一个开源库，利用 TypeSafe 的 Jev 理解用户请求，并实时生成适合的界面（表单、确认、图表等）。</p>
+<p><strong>⚡ Marshall ⚡</strong> · @MarshallsFolly · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/MarshallsFolly/status/2104757747057299929">在 X 查看原帖</a> · <a href="https://t.co/MYItf11CNY">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2104423935496556743"><img src="https://pbs.twimg.com/media/HTRqaLuaUAAvFV1?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev · 原帖图片" width="100%"></a>

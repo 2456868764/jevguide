@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 170 | 115 | 55 | 595K |
+| 172 | 116 | 56 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/postman00112/status/2104751865384898628"><img src="https://pbs.twimg.com/media/HTWUKHTbwAAk-kD?format=jpg&amp;name=900x900" alt="Adding Jev judgment to receipt auto-ledger skill · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/postman00112/status/2104751865384898628">Adding Jev judgment to receipt auto-ledger skill</a></h3>
+<p>The user added Jev judgment to their receipt auto-ledger skill, combining it with Gemini predictions. It is still being tested and may be kept or removed based on usage.</p>
+<p><strong>中文摘要：</strong>用户在自己的收据自动记账技能中加入了 Jev 的判定，并与 Gemini 预测结合使用。目前仍在测试中，可能会根据使用情况决定是否保留。</p>
+<p><strong>さとう</strong> · @postman00112 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
+<p><a href="https://x.com/postman00112/status/2104751865384898628">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nthaiapp/status/2104738516815225214"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Nth AI Tests Jev in Enterprise Workflows · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nthaiapp/status/2104738516815225214">Nth AI Tests Jev in Enterprise Workflows</a></h3>
+<p>Nth AI announces it has started testing Jev in enterprise workflows, noting that much of enterprise work isn&#39;t generation but classification, routing, scoring, and deciding what happens next.</p>
+<p><strong>中文摘要：</strong>Nth AI 宣布已开始在企业工作流中测试 Jev，强调企业任务中大量工作并非生成，而是分类、路由、评分和决定下一步行动。</p>
+<p><strong>Nth AI</strong> · @nthaiapp · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/nthaiapp/status/2104738516815225214">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mathias_gilson/status/2104727942995857432"><img src="https://pbs.twimg.com/amplify_video_thumb/2104727737797615616/img/Y5bWGO4BFPeMDCFl.jpg" alt="Automating QA Tests with TypeSafe JEV · 原帖视频截图" width="100%"></a>

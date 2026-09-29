@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3883</strong><br>curated posts</td>
-<td align="center"><strong>2044</strong><br>original videos</td>
+<td align="center"><strong>3900</strong><br>curated posts</td>
+<td align="center"><strong>2050</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>566</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>569</strong> showcases · <strong>228</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>413</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>415</strong> showcases · <strong>180</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>399</strong> showcases · <strong>216</strong> videos</p>
+<p><strong>402</strong> showcases · <strong>218</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>269</strong> showcases · <strong>134</strong> videos</p>
+<p><strong>270</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>246</strong> showcases · <strong>95</strong> videos</p>
+<p><strong>248</strong> showcases · <strong>96</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>190</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>191</strong> showcases · <strong>106</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>170</strong> showcases · <strong>115</strong> videos</p>
+<p><strong>172</strong> showcases · <strong>116</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>111</strong> showcases · <strong>88</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>97</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>98</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>29</strong> showcases · <strong>21</strong> videos</p>
+<p><strong>30</strong> showcases · <strong>21</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -223,19 +223,19 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>企业运营</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/realpython/status/2104742966682071390"><img src="https://pbs.twimg.com/media/HTWMkw8XcAA4Ard?format=jpg&amp;name=medium" alt="How to Get Started With Jev in Python · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/realpython/status/2104742966682071390">How to Get Started With Jev in Python</a></h3>
+<p>Learn how to connect a Python script to the Jev model with the TypeSafe SDK and OpenRouter, and replace brittle input checks with Noul, Score, and Choice answers.</p>
+<p><strong>622</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 622</p>
+<p><strong>Real Python</strong> · @realpython</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>企业运营</code> <code>原帖视频</code></p>
 <a href="https://x.com/tmiyatake1/status/2104724084487840203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104669088626982912/img/51twi9gp6fXNQ38I.jpg" alt="Why SaaS Companies Are Delighted with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/tmiyatake1/status/2104724084487840203">Why SaaS Companies Are Delighted with Jev</a></h3>
 <p>TypeSafe AI founder Diogo Almeida says SaaS companies will join the winners in the AI era.</p>
 <p><strong>454</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 454</p>
-<p><strong>Tetsuro Miyatake</strong> · @tmiyatake1</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/tmiyatake1/status/2104724335890170203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104668344892960768/img/yi8gTD32sr0imlkP.jpg" alt="The Burning Question When Pitching Jev: Where&#39;s the Automation? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tmiyatake1/status/2104724335890170203">The Burning Question When Pitching Jev: Where&#39;s the Automation?</a></h3>
-<p>When TypeSafe AI&#39;s Diogo Almeida pitches Jev, he often hears &quot;Where&#39;s the automation?&quot; The post highlights TypeSafe&#39;s goal of expanding software capabilities with AI.</p>
-<p><strong>440</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
 <p><strong>Tetsuro Miyatake</strong> · @tmiyatake1</p>
 </td>
 </tr>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>Platzi</strong> · @platzi</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>企业运营</code> <code>原帖视频</code></p>
+<a href="https://x.com/tmiyatake1/status/2104724084487840203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104669088626982912/img/51twi9gp6fXNQ38I.jpg" alt="Why SaaS Companies Are Delighted with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tmiyatake1/status/2104724084487840203">Why SaaS Companies Are Delighted with Jev</a></h3>
+<p>TypeSafe AI founder Diogo Almeida says SaaS companies will join the winners in the AI era.</p>
+<p><strong>454</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 454</p>
+<p><strong>Tetsuro Miyatake</strong> · @tmiyatake1</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/tmiyatake1/status/2104724335890170203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104668344892960768/img/yi8gTD32sr0imlkP.jpg" alt="The Burning Question When Pitching Jev: Where&#39;s the Automation? · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/tmiyatake1/status/2104724335890170203">The Burning Question When Pitching Jev: Where&#39;s the Automation?</a></h3>
 <p>When TypeSafe AI&#39;s Diogo Almeida pitches Jev, he often hears &quot;Where&#39;s the automation?&quot; The post highlights TypeSafe&#39;s goal of expanding software capabilities with AI.</p>
 <p><strong>440</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
 <p><strong>Tetsuro Miyatake</strong> · @tmiyatake1</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/him0net/status/2104722827785949213"><img src="https://pbs.twimg.com/amplify_video_thumb/2104612223218003968/img/-k5UjBrlByxNDOJa.jpg" alt="A site comparing Doraemon gadgets vs Kobayashi Pharmaceutical products in real time · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/him0net/status/2104722827785949213">A site comparing Doraemon gadgets vs Kobayashi Pharmaceutical products in real time</a></h3>
-<p>A developer created a website to compare Doraemon&#39;s secret gadgets with Kobayashi Pharmaceutical products in real time, featuring Jev&#39;s response speed.</p>
-<p><strong>230</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 230</p>
-<p><strong>ひも</strong> · @him0net</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/haginota/status/2104727859163971750"><img src="https://pbs.twimg.com/amplify_video_thumb/2104633540646428672/img/I6rzwwJhCIoCiI-5.jpg" alt="How Does Jev Impact RAG/GraphRAG? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/haginota/status/2104727859163971750">How Does Jev Impact RAG/GraphRAG?</a></h3>
-<p>Takahiro Hagino investigates the impact of Jev&#39;s emergence on RAG and GraphRAG and shares findings.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
-<p><strong>萩野貴拓</strong> · @haginota</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/engineerrprompt/status/2104724683254051026"><img src="https://pbs.twimg.com/amplify_video_thumb/2104721025741344768/img/8PWC0mm0qJQr4Z3U.jpg" alt="Building a Harness Around Jev for Agent Loops · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/engineerrprompt/status/2104724683254051026">Building a Harness Around Jev for Agent Loops</a></h3>
+<p>The author shares experience building a harness around Jev from TypeSafe, delegating key decision points in the agent loop (model router, context picker, decision gate, verifier) to Jev, with interesting but unexpected results.</p>
+<p><strong>75</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
+<p><strong>Prompt</strong> · @engineerrprompt</p>
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 279 | 137 | 145 | 1.1M |
+| 281 | 137 | 147 | 1.1M |
 
 ## Showcase 卡片
 
@@ -107,6 +107,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/vlkodotnet/status/2104900895724990771"><img src="https://pbs.twimg.com/media/HTYcModWgAAPLu6?format=jpg&amp;name=medium" alt="Developer Weekly Mentions Jev as New AI Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vlkodotnet/status/2104900895724990771">Developer Weekly Mentions Jev as New AI Model</a></h3>
+<p>In his weekly digest, vlko highlights Jev as a new type of AI model to watch.</p>
+<p><strong>中文摘要：</strong>vlko的周报汇总了AI领域动态，其中重点提到Jev是一种新型AI模型，值得关注。</p>
+<p><strong>vlko</strong> · @vlkodotnet · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/vlkodotnet/status/2104900895724990771">在 X 查看原帖</a> · <a href="https://t.co/bLKQRdqWit">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/AIForPeople/status/2104725830320476285"><img src="https://pbs.twimg.com/media/HTV8_QkXQAAFD0o?format=jpg&amp;name=medium" alt="AutoTrust Releases JEV-27B Open-Weight Model · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/AIForPeople/status/2104725830320476285">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_rishikhesh_/status/2104773908343984629"><img src="https://pbs.twimg.com/amplify_video_thumb/2104772968547287040/img/E6pDQjeN6ZMrZoQB.jpg" alt="HyperDraft Beta Launch: Using TypeSafe&#39;s JEV Model to Speed Up AI UI Building · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +140,17 @@
 <p><strong>rixhy</strong> · @_rishikhesh_ · 2026-09-29</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
 <p><a href="https://x.com/_rishikhesh_/status/2104773908343984629">在 X 查看原帖</a> · <a href="https://t.co/7qgUzhYtDU">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/alberto_arena/status/2104903147324109024"><img src="https://pbs.twimg.com/media/HTYd-NhXYAE6NaX?format=png&amp;name=medium" alt="Jev signups reopen, demo works without an account · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alberto_arena/status/2104903147324109024">Jev signups reopen, demo works without an account</a></h3>
+<p>Jev has reopened signups with more capacity and no free credits for new accounts. The author notes that the demo still runs without an account.</p>
+<p><strong>中文摘要：</strong>Jev 已重新开放注册，新增更大容量，且新账户不再提供免费额度。作者表示其演示仍无需账户即可使用。</p>
+<p><strong>Alberto Arena</strong> · @alberto_arena · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/alberto_arena/status/2104903147324109024">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

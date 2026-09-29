@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 410 | 221 | 191 | 3.6M |
+| 416 | 221 | 197 | 3.6M |
 
 ## Showcase 卡片
 
@@ -107,6 +107,41 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/nibzard/status/2104873429962727629"><img src="https://pbs.twimg.com/media/HTYDJT6XkAAEGZB?format=jpg&amp;name=medium" alt="Exploring TypeSafe Jev: Typed Decisions for Software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nibzard/status/2104873429962727629">Exploring TypeSafe Jev: Typed Decisions for Software</a></h3>
+<p>The author shares hands-on experience with TypeSafe AI&#39;s Jev, highlighting typed decisions that software can directly consume for classification, routing, grading, and more.</p>
+<p><strong>中文摘要：</strong>作者分享使用 TypeSafe AI 的 Jev 模型的体验，强调其“类型化决策”可供软件直接消费，适用于分类、路由、评分等场景。</p>
+<p><strong>Niko(la)</strong> · @nibzard · 2026-09-29</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 120</p>
+<p><a href="https://x.com/nibzard/status/2104873429962727629">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/melvindvivas/status/2104907917560521090"><img src="https://pbs.twimg.com/media/HTYiJ5ua4AAdWvo?format=jpg&amp;name=medium" alt="Building a Jev Session History and Experiment Tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/melvindvivas/status/2104907917560521090">Building a Jev Session History and Experiment Tool</a></h3>
+<p>A developer is building a Jev tool to track session history and run experiments, asking the community if they need it.</p>
+<p><strong>中文摘要：</strong>开发者正在构建一个Jev工具，用于记录会话历史并运行实验，并询问社区是否需要该工具。</p>
+<p><strong>Melvin Vivas</strong> · @melvindvivas · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 87</p>
+<p><a href="https://x.com/melvindvivas/status/2104907917560521090">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nibzard/status/2104874370183368714"><img src="https://pbs.twimg.com/media/HTYEEq5WgAAV8H6?format=jpg&amp;name=medium" alt="Jev Linter: A Rough But Useful Code Checking Tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nibzard/status/2104874370183368714">Jev Linter: A Rough But Useful Code Checking Tool</a></h3>
+<p>Developer Niko(la) released a Jev linter called jevditor, used to check Jev code. It&#39;s rough but open-sourced on GitHub.</p>
+<p><strong>中文摘要：</strong>开发者Niko(la)发布了一款名为jevditor的Jev linter，用于检查Jev代码，虽粗糙但已开源在GitHub上。</p>
+<p><strong>Niko(la)</strong> · @nibzard · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/nibzard/status/2104874370183368714">在 X 查看原帖</a> · <a href="https://t.co/9pdx2nWV9f">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/aigeeknews/status/2104744321333493876"><img src="https://pbs.twimg.com/amplify_video_thumb/2104744106081898496/img/ozm21W8LyTw0vIpA.jpg" alt="Deploy Laya + Jev API decision model on a 4GB RAM machine · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖视频</code></sub>
@@ -117,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/aigeeknews/status/2104744321333493876">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/punk_zk/status/2104785842283950116"><img src="https://pbs.twimg.com/amplify_video_thumb/2104639452224098305/img/jKDcG0jT2a8W4j2m.jpg" alt="Developer experiments with Jev for model routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +164,41 @@
 <p><strong>Apurva M</strong> · @punk_zk · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/punk_zk/status/2104785842283950116">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nibzard/status/2104875037916586232"><img src="https://pbs.twimg.com/media/HTYEbjkWYAAOxIa?format=jpg&amp;name=medium" alt="measuretwice: AI Judgment Inspection Tool Using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nibzard/status/2104875037916586232">measuretwice: AI Judgment Inspection Tool Using Jev</a></h3>
+<p>measuretwice is an open-source tool that helps you define, inspect, and revise AI judgments with evidence. Its initial semantic adapter is built on Jev.</p>
+<p><strong>中文摘要：</strong>measuretwice 是一个开源工具，帮助您定义、检查和修订带证据的 AI 判断。其初始语义适配器基于 Jev 构建。</p>
+<p><strong>Niko(la)</strong> · @nibzard · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/nibzard/status/2104875037916586232">在 X 查看原帖</a> · <a href="https://t.co/T1yrEUqnjr">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheDJBC/status/2104904102929105021"><img src="https://pbs.twimg.com/media/HTYfIIsbEAEsb1g?format=png&amp;name=900x900" alt="Build a drift guard for Claude Code with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheDJBC/status/2104904102929105021">Build a drift guard for Claude Code with Jev</a></h3>
+<p>The author uses TypeSafe AI&#39;s Jev model to build a drift guard in Claude Code, checking every prompt and agent response against the original goal, with responses under 300ms in tests.</p>
+<p><strong>中文摘要：</strong>作者使用TypeSafe AI的Jev模型，在Claude Code中构建漂移防护机制，每次提示和智能体响应都会对照原始目标进行判断，测试中响应时间低于300毫秒。</p>
+<p><strong>Ben Chandler</strong> · @TheDJBC · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/TheDJBC/status/2104904102929105021">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/diegoaraos/status/2104902610155368741"><img src="https://pbs.twimg.com/media/HTYdNRDXgAAmeIb?format=jpg&amp;name=medium" alt="Launched multi-model tool integrating Jev, adding task boards and workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/diegoaraos/status/2104902610155368741">Launched multi-model tool integrating Jev, adding task boards and workflows</a></h3>
+<p>This tool integrates Jev with Claude, Codex, and Grok, supporting voice or text chat. Task boards were released yesterday, and workflows released today to automate agent pipeline orchestration.</p>
+<p><strong>中文摘要：</strong>该工具将Jev与Claude、Codex、Grok集成，支持语音或文字聊天。昨日发布任务板，今日发布工作流，用于自动化智能体任务编排。</p>
+<p><strong>Diego Araos</strong> · @diegoaraos · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/diegoaraos/status/2104902610155368741">在 X 查看原帖</a> · <a href="https://t.co/IFYWN3sIGO">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 200 | 111 | 92 | 1.2M |
+| 202 | 112 | 93 | 1.2M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/AKKY33157665/status/2104835892707840321">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/explosss1ve/status/2104889330208591965"><img src="https://pbs.twimg.com/amplify_video_thumb/2104889194942189568/img/qWRhFSVRNMpbyf95.jpg" alt="Jev + One Formula for Bitcoin Window Pricing Trades · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/explosss1ve/status/2104889330208591965">Jev + One Formula for Bitcoin Window Pricing Trades</a></h3>
+<p>This post shows results of using the Jev model with one formula for 15-minute Bitcoin window trading: $149,387 profit over 84 days (~$1,780/day), 18,466 trades, 61.4% win rate, and a 3.8% max drawdown. Six agents and one book operate around pricing the window like an option.</p>
+<p><strong>中文摘要：</strong>帖子展示了Jev模型配合单一公式进行比特币15分钟窗口交易的成果：84天盈利149,387美元，日均约1,780美元，共18,466笔交易，胜率61.4%，最大回撤3.8%。系统由六个代理和一个账本组成，核心是将该时间窗口视作期权进行定价。</p>
+<p><strong>explos1ve</strong> · @explosss1ve · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 253</p>
+<p><a href="https://x.com/explosss1ve/status/2104889330208591965">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/morpphhhaw/status/2104890981157892255"><img src="https://pbs.twimg.com/media/HTYTL9QXcAALAgG?format=jpg&amp;name=medium" alt="Build 24/7 AI Trading Bots with Opus 5.5 + Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 190</p>
 <p><a href="https://x.com/morpphhhaw/status/2104890981157892255">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/linda6248130564/status/2104740560754094418"><img src="https://pbs.twimg.com/amplify_video_thumb/2104740512016355328/img/FEFtKYMmmPJvb_2p.jpg" alt="JEV Used in AI Trading Bots, 67% Overnight Return · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 170</p>
 <p><a href="https://x.com/linda6248130564/status/2104740560754094418">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ggwplabs/status/2104834429533254117"><img src="https://pbs.twimg.com/amplify_video_thumb/2104834309693526016/img/yRx-XonHaPNOhfxR.jpg" alt="Quant hedge fund code released, Jev builds profitable trading agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 119</p>
 <p><a href="https://x.com/ggwplabs/status/2104834429533254117">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RitOnchain/status/2104896072938364971"><img src="https://pbs.twimg.com/media/HTYXnz5aIAAsISn?format=jpg&amp;name=medium" alt="A Quant Built a Real-Time Trading System with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 40</p>
 <p><a href="https://x.com/RitOnchain/status/2104896072938364971">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/robvjourney/status/2104828525102452749"><img src="https://pbs.twimg.com/amplify_video_thumb/2104251970894909440/img/AiRePWDmJvbIgYBp.jpg" alt="Jev Trading Stack: Opus 5.5 with Live Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/robvjourney/status/2104828525102452749">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MohsenRpn/status/2104832463797432535"><img src="https://pbs.twimg.com/amplify_video_thumb/2102410701985964032/img/XK55QxQDsJFbUxC-.jpg" alt="Built HypeMeter with Jev: Spot Real Hype and Avoid Rugs · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
 <p><a href="https://x.com/MohsenRpn/status/2104832463797432535">在 X 查看原帖</a> · <a href="https://t.co/eJ3IFdOlYL">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tammy35bz8/status/2104842666236338607"><img src="https://pbs.twimg.com/media/HTXnPJHbQAAJ4md?format=png&amp;name=small" alt="Jev&#39;s TypeSafe rumored to raise $1B at $10B valuation · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/tammy35bz8/status/2104842666236338607">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/me_barnyx/status/2104895934299537642"><img src="https://pbs.twimg.com/amplify_video_thumb/2104895706217496576/img/L1kT3FBuREIA6_6s.jpg" alt="JEV + OPUS Builds a Quant Options Desk · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>barnyx</strong> · @me_barnyx · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/me_barnyx/status/2104895934299537642">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/roh1/status/2104907802410119270"><img src="https://pbs.twimg.com/media/HTYifeEaYAA5FKT?format=png&amp;name=medium" alt="Jev: The AI model that decides, not chats, and what it means for the CFO · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/roh1/status/2104907802410119270">Jev: The AI model that decides, not chats, and what it means for the CFO</a></h3>
+<p>A quick note on Jev, the much-discussed AI model that can&#39;t write a sentence but makes decisions, and its implications for the Office of the CFO.</p>
+<p><strong>中文摘要：</strong>本文讨论最近热议的AI模型Jev，它无法生成句子，而是专注于决策，并分析其对首席财务官办公室的潜在影响。</p>
+<p><strong>Rohit Gupta</strong> · @roh1 · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/roh1/status/2104907802410119270">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xhannibal42/status/2104771491162423733"><img src="https://pbs.twimg.com/media/HTWmgQibgAAYFvz?format=jpg&amp;name=medium" alt="Testing Jev for Candlestick Direction Prediction: Fast but Questionable Accuracy · 原帖图片" width="100%"></a>

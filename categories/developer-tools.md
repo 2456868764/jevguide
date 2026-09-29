@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 407 | 220 | 189 | 3.6M |
+| 409 | 221 | 190 | 3.6M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Simplifying AI</strong> · @simplifyinAI · 2026-09-29</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/simplifyinAI/status/2104777780206698697">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dzhng/status/2104787922583228754"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786525854810112/img/632sLMH9fhYrXPTQ.jpg" alt="jevgrep 0.5 released: Jev cost down 59% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dzhng/status/2104787922583228754">jevgrep 0.5 released: Jev cost down 59%</a></h3>
+<p>jevgrep 0.5 is released with efficiency optimizations, reducing Jev cost per task by 59%. It returns less data, allowing the agent to do more.</p>
+<p><strong>中文摘要：</strong>jevgrep 0.5 发布，优化效率，每次任务的 Jev 成本降低 59%。虽然返回更少数据，但代理能执行更多操作。</p>
+<p><strong>David</strong> · @dzhng · 2026-09-29</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/dzhng/status/2104787922583228754">在 X 查看原帖</a> · <a href="https://t.co/VxOOXLoXQz">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2104849241294475418"><img src="https://pbs.twimg.com/media/HTXtOcKbIAAkhbQ?format=jpg&amp;name=medium" alt="vllm-jev Cuts System One Inference from 600ms to ~50ms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2104849241294475418">vllm-jev Cuts System One Inference from 600ms to ~50ms</a></h3>
+<p>The open-source engine vllm-jev compresses System One inference from ~600ms to ~50ms per run, with official benchmarks showing common 5x–50x speedups, up to ~43x.</p>
+<p><strong>中文摘要：</strong>开源引擎 vllm-jev 将 System One 单次推理从约 600ms 压缩至约 50ms，官方基准显示常见 5 倍至 50 倍加速，最高约 43 倍。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-09-29</p>
+<p>💬 4 &nbsp; 🔁 5 &nbsp; ♡ 12 &nbsp; 📊 871</p>
+<p><a href="https://x.com/NFT_Chen/status/2104849241294475418">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DanKornas/status/2104786730540831191"><img src="https://pbs.twimg.com/media/HTW0X3TWkAAvR5K?format=jpg&amp;name=medium" alt="Jev Ultrafast: Python Browser-Agent Repository for Builders · 原帖图片" width="100%"></a>

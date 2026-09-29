@@ -1,7 +1,8 @@
 # Kurt
 
-1 Jev showcases.
+2 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-29 | [JEV's Real Role in Processing 65B Data Points](https://x.com/0xkurt/status/2104832370515878118) | 数据分析 | Kurt | 70 |
 | 2026-09-27 | [Jev Sparks Cross-Platform Community Experiments](https://x.com/0xkurt/status/2104123008046465092) | 社区实践 | Kurt | 55 |

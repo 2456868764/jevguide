@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 580 | 234 | 350 | 3.0M |
+| 590 | 241 | 353 | 3.0M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,43 @@
 <p><a href="https://x.com/BenLesh/status/2104742996399030404">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/robhope/status/2104833187062915394"><img src="https://pbs.twimg.com/amplify_video_thumb/2104832204107128832/img/7eokfWlea37YgDb3.jpg" alt="How are JEV integrations going? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/robhope/status/2104833187062915394">How are JEV integrations going?</a></h3>
+<p>Rob Hope chatted with Rachel behind the TypeSafe AI website launch, asking about JEV integration progress and mentioning Easter eggs.</p>
+<p><strong>中文摘要：</strong>Rob Hope 与负责 TypeSafe AI 网站发布的 Rachel 交流，并询问大家 JEV 集成进展，同时提及网站彩蛋。</p>
+<p><strong>Rob Hope</strong> · @robhope · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 586</p>
+<p><a href="https://x.com/robhope/status/2104833187062915394">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2104839621641179643"><img src="https://pbs.twimg.com/amplify_video_thumb/2104693319309922304/img/hk_OtZclYUP7EX2o.jpg" alt="JevBench Creator Questions Choosing System One Models by Vibes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2104839621641179643">JevBench Creator Questions Choosing System One Models by Vibes</a></h3>
+<p>The creator of JevBench admires Jev&#39;s contribution but argues that choosing a System One model based on &#39;vibes and trust&#39; is unreasonable, implying a need for more solid evaluation.</p>
+<p><strong>中文摘要：</strong>JevBench 的创建者表示敬佩 Jev 的贡献，但认为仅凭“感觉和信任”选择 System One 模型并不合理，暗示应有更可靠的评估依据。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 347</p>
+<p><a href="https://x.com/airesearch12/status/2104839621641179643">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lemcosmos/status/2104837518088925216"><img src="https://pbs.twimg.com/media/HTXikTSa8AApgp7?format=jpg&amp;name=small" alt="Jev for Inspection: Can It Spot Defects Instantly? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lemcosmos/status/2104837518088925216">Jev for Inspection: Can It Spot Defects Instantly?</a></h3>
+<p>A community discussion about Jev&#39;s potential use in product inspection, with rumors that it can quickly distinguish defective items, sparking speculation about future applications.</p>
+<p><strong>中文摘要：</strong>一条关于Jev在产品质量检测中应用的社区讨论，传闻称其能快速区分缺陷品，并引发对技术未来用途的想象。</p>
+<p><strong>レム⚛️Cosmos🥷</strong> · @lemcosmos · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 291</p>
+<p><a href="https://x.com/lemcosmos/status/2104837518088925216">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/him0net/status/2104722827785949213"><img src="https://pbs.twimg.com/amplify_video_thumb/2104612223218003968/img/-k5UjBrlByxNDOJa.jpg" alt="A site comparing Doraemon gadgets vs Kobayashi Pharmaceutical products in real time · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖视频</code></sub>
@@ -32,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 230</p>
 <p><a href="https://x.com/him0net/status/2104722827785949213">在 X 查看原帖</a> · <a href="https://t.co/43XmzOhxwu">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moriyan0626/status/2104785135535280401"><img src="https://pbs.twimg.com/amplify_video_thumb/2102958524544512000/img/34WEHCsAeA_Gv6Eb.jpg" alt="Embedding Jev in a landing page for question-based slide navigation · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 150</p>
 <p><a href="https://x.com/moriyan0626/status/2104785135535280401">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ai_300/status/2104753027492069380"><img src="https://pbs.twimg.com/media/HTTy8-OakAAXGdt?format=jpg&amp;name=medium" alt="Audit your workflow with Jev to optimize AI environments · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 132</p>
 <p><a href="https://x.com/ai_300/status/2104753027492069380">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taiyop/status/2104778510565069149"><img src="https://pbs.twimg.com/amplify_video_thumb/2104778134277234688/img/YXIDgvhnD0KACXWW.jpg" alt="Using Jev for high-speed classification of AI character conversation states · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +103,19 @@
 <p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 118</p>
 <p><a href="https://x.com/taiyop/status/2104778510565069149">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/biroi8/status/2104828525446357301"><img src="https://pbs.twimg.com/amplify_video_thumb/2104345089212628992/img/FxHAuv5SUr3Ts-2G.jpg" alt="Jev for Lemon AI Inspection: Checking Mold and Scratches One by One · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/biroi8/status/2104828525446357301">Jev for Lemon AI Inspection: Checking Mold and Scratches One by One</a></h3>
+<p>Suzuki shares a case of using Jev for local processing on a MacBook to inspect lemons. The system checks each lemon as it passes, detects mold and scratches, and determines pass/fail from 3 evaluation results.</p>
+<p><strong>中文摘要：</strong>Suzuki分享了利用Jev在MacBook上进行本地处理的柠檬检测案例。系统对每个流过的柠檬进行检测，识别霉菌和伤痕，并通过3次判定结果决定合格与否。</p>
+<p><strong>Suzuki</strong> · @biroi8 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 83</p>
+<p><a href="https://x.com/biroi8/status/2104828525446357301">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/engineerrprompt/status/2104724683254051026"><img src="https://pbs.twimg.com/amplify_video_thumb/2104721025741344768/img/8PWC0mm0qJQr4Z3U.jpg" alt="Building a Harness Around Jev for Agent Loops · 原帖视频截图" width="100%"></a>
@@ -83,6 +131,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/varunPbhardwaj/status/2104845612986564816"><img src="https://pbs.twimg.com/tweet_video_thumb/HTXo0yybEAA02yd.jpg" alt="Jev and Laya experiments rapidly emerging in the community · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/varunPbhardwaj/status/2104845612986564816">Jev and Laya experiments rapidly emerging in the community</a></h3>
+<p>The author observes a surge of Jev and Laya experiments on GitHub and X over the past few weeks, with people showcasing routing, token reduction, local inference, and fast typed decisions.</p>
+<p><strong>中文摘要：</strong>作者观察到过去几周 GitHub 和 X 上出现大量 Jev 与 Laya 实验，人们正在展示路由、token 减少、本地推理和快速类型化决策等能力。</p>
+<p><strong>varun bhardwaj</strong> · @varunPbhardwaj · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 59</p>
+<p><a href="https://x.com/varunPbhardwaj/status/2104845612986564816">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/KissonL/status/2104726600747213235"><img src="https://pbs.twimg.com/media/HTTyjyYbIAAoFWI?format=jpg&amp;name=medium" alt="Found CLM: Another Fast System One Decision Model, Claims Up to 9x Faster than Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -93,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 55</p>
 <p><a href="https://x.com/KissonL/status/2104726600747213235">在 X 查看原帖</a> · <a href="https://t.co/b0y5sVDjvO">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rutinelabo/status/2104760609418207372"><img src="https://pbs.twimg.com/amplify_video_thumb/2104760577902137344/img/7uY0krcHFsaA1l2H.jpg" alt="Jev AI in a 4-Model Sorting Race · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
 <p><a href="https://x.com/rutinelabo/status/2104760609418207372">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AgoraIO/status/2104797527350575554"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001983380758529/img/po6H7kWnrFZO0d9E.jpg" alt="Developer Demo: Jev + Agora ConvoAI for Voice AI Turn-Taking · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +175,19 @@
 <p><strong>Agora</strong> · @AgoraIO · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
 <p><a href="https://x.com/AgoraIO/status/2104797527350575554">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/maudevme/status/2104833562134433971"><img src="https://pbs.twimg.com/media/HTXeqhaWoAEXqiG?format=jpg&amp;name=medium" alt="Discussing JEV Alternatives and Local Replication · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/maudevme/status/2104833562134433971">Discussing JEV Alternatives and Local Replication</a></h3>
+<p>The user asks about accuracy comparisons between JEV and alternatives, shares initial results from replicating JEV with Bonsai 27B, and inquires about performance on low-RAM setups.</p>
+<p><strong>中文摘要：</strong>用户询问JEV与替代模型的准确性对比，并分享使用Bonsai 27B复现JEV的初步结果，同时关注低内存环境下的运行表现。</p>
+<p><strong>maudev</strong> · @maudevme · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/maudevme/status/2104833562134433971">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/tenbin_ai/status/2104778844817506380"><img src="https://pbs.twimg.com/media/HTWsv3IawAA2VRQ?format=png&amp;name=900x900" alt="Free Trial Environment for Jev Now Available · 原帖图片" width="100%"></a>
@@ -179,6 +251,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/ethanwalkerman/status/2104845060248592849"><img src="https://pbs.twimg.com/amplify_video_thumb/2104693319309922304/img/hk_OtZclYUP7EX2o.jpg" alt="Jev Exceeds Benchmarks in Real-World Use · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ethanwalkerman/status/2104845060248592849">Jev Exceeds Benchmarks in Real-World Use</a></h3>
+<p>A user shares recent experience with Jev, saying it goes beyond benchmarks, while noting limitations of Laya&#39;s context window and Winnow&#39;s performance in dining probes.</p>
+<p><strong>中文摘要：</strong>用户分享近期使用 Jev 的体验，认为它超越了基准测试。同时提到 Laya 模型的上下文限制和 Winnow 在餐饮测试中的不足。</p>
+<p><strong>Ethan Walkrman</strong> · @ethanwalkerman · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/ethanwalkerman/status/2104845060248592849">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/piquopiquo/status/2104758570981937624"><img src="https://pbs.twimg.com/media/HTWagikWIAAae0e?format=png&amp;name=small" alt="TypeSafe JEV Speed Amazes Users · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -189,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/piquopiquo/status/2104758570981937624">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/klyap_/status/2104732255415681227"><img src="https://pbs.twimg.com/media/HTWBQ6La0AAeXU_?format=jpg&amp;name=medium" alt="Observations on Jev Group Judge Training Time and Normalization · 原帖图片" width="100%"></a>
 <br>
@@ -199,6 +284,41 @@
 <p><strong>Ker Lee Yap</strong> · @klyap_ · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/klyap_/status/2104732255415681227">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oxfrancesco_/status/2104855788372066789"><img src="https://pbs.twimg.com/amplify_video_thumb/2104855750623342592/img/L4k-zvzbQWiMKxkm.jpg" alt="Categorizing exercises with Jev from text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oxfrancesco_/status/2104855788372066789">Categorizing exercises with Jev from text</a></h3>
+<p>A user shares how TypeSafe AI&#39;s Jev categorizes all their exercises just from text.</p>
+<p><strong>中文摘要：</strong>用户分享TypeSafe AI的Jev模型如何仅从文本就对其所有练习进行分类。</p>
+<p><strong>Francesco Oddo | AI Arc</strong> · @oxfrancesco_ · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/oxfrancesco_/status/2104855788372066789">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aakashreddy/status/2104855142143299828"><img src="https://pbs.twimg.com/amplify_video_thumb/2104854964741021696/img/pqshW9EtSmYNtmej.jpg" alt="Two AIs Battle in Pokémon with Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aakashreddy/status/2104855142143299828">Two AIs Battle in Pokémon with Jev Model</a></h3>
+<p>The author created a room, took the spectator seat, and added Codex and Jev, a hosted player powered by TypeSafe&#39;s Jev model, showing how it was set up.</p>
+<p><strong>中文摘要：</strong>作者创建房间，以观众身份加入，并添加了Codex和由TypeSafe Jev模型驱动的Jev托管玩家，展示了设置过程。</p>
+<p><strong>Aakash Reddy</strong> · @aakashreddy · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/aakashreddy/status/2104855142143299828">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lumen_rot/status/2104845745207787821"><img src="https://pbs.twimg.com/media/HTXp812bYAA2uVy?format=jpg&amp;name=medium" alt="Can Jev be used like an LLM? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lumen_rot/status/2104845745207787821">Can Jev be used like an LLM?</a></h3>
+<p>A user questions the claim that Jev cannot be used like an LLM and tags @typesafeai, sparking discussion about Jev&#39;s actual usage.</p>
+<p><strong>中文摘要：</strong>用户质疑“Jev不能像LLM一样使用”的说法，并直接标记TypeSafe AI，引发关于Jev实际用法的讨论。</p>
+<p><strong>lumen rot</strong> · @lumen_rot · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/lumen_rot/status/2104845745207787821">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

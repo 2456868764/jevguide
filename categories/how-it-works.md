@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 419 | 181 | 239 | 1.6M |
+| 421 | 182 | 240 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/testmuai/status/2104828522749386824"><img src="https://pbs.twimg.com/amplify_video_thumb/2104528126386847744/img/dg2LPBjiETAuGXPj.jpg" alt="Jev AI Confidence Explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/testmuai/status/2104828522749386824">Jev AI Confidence Explained</a></h3>
+<p>A video explaining how Jev confidence scores and probabilities work, and why 95% confidence does not mean the model is correct 95% of the time.</p>
+<p><strong>中文摘要：</strong>视频讲解Jev置信度分数的运作方式，说明95%置信度并不等于模型有95%的正确率。</p>
+<p><strong>TestMu AI</strong> · @testmuai · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
+<p><a href="https://x.com/testmuai/status/2104828522749386824">在 X 查看原帖</a> · <a href="https://t.co/GUfkHKaprx">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/rsensui/status/2104789656961524144"><img src="https://pbs.twimg.com/media/HTW3CZFaAAEMgxM?format=jpg&amp;name=medium" alt="Jev&#39;s Confidence Score and Contextual Differences · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/rsensui/status/2104789656961524144">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlbertW24045555/status/2104791909348868411"><img src="https://pbs.twimg.com/media/HTW3eifbUAA2cu6?format=png&amp;name=medium" alt="Jev-LDE Training Mechanism Explained · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
 <p><a href="https://x.com/AlbertW24045555/status/2104791909348868411">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heyzhuhry/status/2104737929281323147"><img src="https://pbs.twimg.com/media/HTT-FxhbIAAm7Cv?format=jpg&amp;name=medium" alt="How Jev Answers in Parallel · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 14</p>
 <p><a href="https://x.com/heyzhuhry/status/2104737929281323147">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/smsehy/status/2104750358430175410"><img src="https://pbs.twimg.com/media/HTWTPgKbgAA5MNT?format=jpg&amp;name=medium" alt="Jev: An AI Model That Returns Typed Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
 <p><a href="https://x.com/smsehy/status/2104750358430175410">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tomo_ai_agent/status/2104797562381259185"><img src="https://pbs.twimg.com/media/HTW-OmnXEAAaKBq?format=jpg&amp;name=medium" alt="Jev: An AI That Returns Only Judgments · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/tomo_ai_agent/status/2104797562381259185">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/coindotgo/status/2104794296897683814"><img src="https://pbs.twimg.com/amplify_video_thumb/2103610863605465088/img/lK7ZN1DaY0BqErJw.jpg" alt="Jev on OpenRouter: State Construction Is Key to Routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>coindotgo</strong> · @coindotgo · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/coindotgo/status/2104794296897683814">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vishal_9912/status/2104855687323111686"><img src="https://pbs.twimg.com/media/HTXzFsebMAAJjwD?format=jpg&amp;name=medium" alt="What Jev Solves: Turning Language into Reliable Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vishal_9912/status/2104855687323111686">What Jev Solves: Turning Language into Reliable Decisions</a></h3>
+<p>The post explains how Jev bridges large language models and reliable software decisions by turning model responses into structured, validated decisions that code can safely branch on, summarized as Language → Parse → Validate → Recover → Decision.</p>
+<p><strong>中文摘要：</strong>该帖介绍 Jev 如何弥合大语言模型与软件可靠决策之间的鸿沟，将模型响应转换为代码可安全分支的结构化、已验证决策，并概括为 Language → Parse → Validate → Recover → Decision 的流程。</p>
+<p><strong>Vishal Kushwaha</strong> · @vishal_9912 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/vishal_9912/status/2104855687323111686">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

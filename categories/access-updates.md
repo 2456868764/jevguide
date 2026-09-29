@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 337 | 135 | 202 | 802K |
+| 339 | 135 | 204 | 802K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>𝗚𝗥𝗜𝗩𝗡.𝗛𝗟 🌎-&#39;</strong> · @grivn_eth · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 53</p>
 <p><a href="https://x.com/grivn_eth/status/2104768786918195403">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yibie/status/2104853538614521873"><img src="https://pbs.twimg.com/media/HTXxGmBXYAAvmkc?format=jpg&amp;name=medium" alt="GPT Researcher sets Jev as default context filter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yibie/status/2104853538614521873">GPT Researcher sets Jev as default context filter</a></h3>
+<p>GPT Researcher (30k stars) integrates Jev as a default context filter, using a 4-level scoring (0-3) to assess text block relevance, keeping blocks with scores ≥1.5 in a reproduction experiment.</p>
+<p><strong>中文摘要：</strong>GPT Researcher（3万星）将Jev作为默认上下文过滤器，通过四级评分（0-3）判断文本块对回答问题的相关性，保留得分≥1.5的内容进行复现实验。</p>
+<p><strong>yibie</strong> · @yibie · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/yibie/status/2104853538614521873">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ifourth/status/2104838939509227845"><img src="https://pbs.twimg.com/media/HTXjw_aaIAAzA7G?format=png&amp;name=small" alt="Using Jev as the decision layer in Claude Code · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ifourth/status/2104838939509227845">Using Jev as the decision layer in Claude Code</a></h3>
+<p>The author is designing a new SaaS for PODtomatic users and tells them to use Jev as the decision layer inside Claude Code, prompting Claude to ask what Jev is.</p>
+<p><strong>中文摘要：</strong>作者为PODtomatic用户设计新的SaaS，并在Claude Code中告知使用Jev作为决策层，引发Claude对Jev的好奇。</p>
+<p><strong>ifourth</strong> · @ifourth · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/ifourth/status/2104838939509227845">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Jakrey/status/2104760122614677625"><img src="https://pbs.twimg.com/media/HTWboGIb0AEFGKc?format=png&amp;name=medium" alt="Testing Jev API in a Research Workflow · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 272 | 136 | 139 | 1.1M |
+| 276 | 136 | 143 | 1.1M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/platzi/status/2104726851138605477">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/AISystems_hq/status/2104849410261709180"><img src="https://pbs.twimg.com/media/HTUfj1QW8AAxzyf?format=jpg&amp;name=medium" alt="TypeSafe Jev: $42 per billion input tokens, built for decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AISystems_hq/status/2104849410261709180">TypeSafe Jev: $42 per billion input tokens, built for decisions</a></h3>
+<p>TypeSafe charges $42 per billion input tokens for Jev, a model that doesn&#39;t generate text but outputs a decision and confidence score, suitable for processing large volumes of email for small businesses.</p>
+<p><strong>中文摘要：</strong>TypeSafe 为 Jev 模型定价为每十亿输入 token 42 美元。该模型不生成文字，而是直接输出决策和置信度，适合处理大量邮件等小企业场景。</p>
+<p><strong>Mr. Systems</strong> · @AISystems_hq · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 158</p>
+<p><a href="https://x.com/AISystems_hq/status/2104849410261709180">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/2020_hira/status/2104770291260117094"><img src="https://pbs.twimg.com/amplify_video_thumb/2104767723842789376/img/zpVoz1TEjM7RcMmI.jpg" alt="Developer Releases Jev-Powered Translation Chrome Extension · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 76</p>
 <p><a href="https://x.com/2020_hira/status/2104770291260117094">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shao__meng/status/2104757437958107338"><img src="https://pbs.twimg.com/media/HTWZuVWa4AA3_XI?format=jpg&amp;name=medium" alt="Jev API seamlessly replaces Unsloth for local deployment of Laya decision model · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,43 @@
 <p><strong>meng shao</strong> · @shao__meng · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 65</p>
 <p><a href="https://x.com/shao__meng/status/2104757437958107338">在 X 查看原帖</a> · <a href="https://t.co/ecZERDi185">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Chinazhidx/status/2104854563262169576"><img src="https://pbs.twimg.com/media/HTXyCqhboAA1ERD?format=jpg&amp;name=medium" alt="Nokia and Tencent Hunyuan Open-Source AnyJev: Turns Any LLM into a Jev-Style Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Chinazhidx/status/2104854563262169576">Nokia and Tencent Hunyuan Open-Source AnyJev: Turns Any LLM into a Jev-Style Decision Model</a></h3>
+<p>AnyJev converts any LLM into a Jev-style decision model without fine-tuning or weight changes. Users can ask typed questions—choices, yes/no, scores—and receive decisions with thresholdable probabilities.</p>
+<p><strong>中文摘要：</strong>AnyJev无需微调或修改权重，即可把任意LLM转换为Jev风格决策模型。用户提出类型化问题（选择、是非、评分），即可获得带概率的决策结果，并可通过阈值进行控制。</p>
+<p><strong>智东西China AI News</strong> · @Chinazhidx · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
+<p><a href="https://x.com/Chinazhidx/status/2104854563262169576">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ORACLE_OKLA/status/2104833949646336456"><img src="https://pbs.twimg.com/media/HTXfQgCaQAAxwnx?format=png&amp;name=small" alt="TypeSafe AI&#39;s Jev is now live on the B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ORACLE_OKLA/status/2104833949646336456">TypeSafe AI&#39;s Jev is now live on the B.AI API</a></h3>
+<p>TypeSafe AI&#39;s Jev model is now available on the B.AI API. Instead of generating text, it makes fast, structured decisions directly inside software.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型现已在 B.AI API 上线。它不生成文本，而是在软件内部快速做出结构化决策。</p>
+<p><strong>ORACLE</strong> · @ORACLE_OKLA · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/ORACLE_OKLA/status/2104833949646336456">在 X 查看原帖</a> · <a href="https://t.co/fEDs0n3D2S">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ORACLE_OKLA/status/2104834127254126772"><img src="https://pbs.twimg.com/media/HTXfc9vaMAADsrw?format=png&amp;name=small" alt="TypeSafe AI&#39;s Jev Model Is Now Live on the B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ORACLE_OKLA/status/2104834127254126772">TypeSafe AI&#39;s Jev Model Is Now Live on the B.AI API</a></h3>
+<p>TypeSafe AI has released Jev, its first System One model, designed for high-speed, structured decisions inside software, now available via the B.AI API.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 发布首个 System One 模型 Jev，专为软件内高速、结构化决策设计，现可通过 B.AI API 使用。</p>
+<p><strong>ORACLE</strong> · @ORACLE_OKLA · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><a href="https://x.com/ORACLE_OKLA/status/2104834127254126772">在 X 查看原帖</a> · <a href="https://t.co/fEDs0n3D2S">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/AIForPeople/status/2104725830320476285"><img src="https://pbs.twimg.com/media/HTV8_QkXQAAFD0o?format=jpg&amp;name=medium" alt="AutoTrust Releases JEV-27B Open-Weight Model · 原帖图片" width="100%"></a>

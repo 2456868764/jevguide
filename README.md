@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3944</strong><br>curated posts</td>
-<td align="center"><strong>2067</strong><br>original videos</td>
+<td align="center"><strong>3978</strong><br>curated posts</td>
+<td align="center"><strong>2083</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>580</strong> showcases · <strong>234</strong> videos</p>
+<p><strong>590</strong> showcases · <strong>241</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>419</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>407</strong> showcases · <strong>220</strong> videos</p>
+<p><strong>409</strong> showcases · <strong>221</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>337</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>339</strong> showcases · <strong>135</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>307</strong> showcases · <strong>232</strong> videos</p>
+<p><strong>308</strong> showcases · <strong>232</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>286</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>289</strong> showcases · <strong>164</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>272</strong> showcases · <strong>136</strong> videos</p>
+<p><strong>276</strong> showcases · <strong>136</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>192</strong> showcases · <strong>106</strong> videos</p>
+<p><strong>197</strong> showcases · <strong>110</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>99</strong> showcases · <strong>76</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>76</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>85</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>86</strong> showcases · <strong>50</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>62</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>63</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>42</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>43</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>25</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -313,20 +313,20 @@ Start with verified Jev posts.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/JulianGoldieSEO/status/2104722825953394895"><img src="https://pbs.twimg.com/amplify_video_thumb/2104588819274285056/img/GLSbmNvS7XMDPyXS.jpg" alt="Automate AI Content Checks with Jev: Review Only Weak Drafts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">Automate AI Content Checks with Jev: Review Only Weak Drafts</a></h3>
-<p>Jev can run yes/no checks including search intent, missing sources, bad internal links, and rule breaks. High-confidence drafts move on, while weak ones go to review. This post introduces the workflow with an optional SOP.</p>
-<p><strong>783</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 783</p>
-<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/dzhng/status/2104787922583228754"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786525854810112/img/632sLMH9fhYrXPTQ.jpg" alt="jevgrep 0.5 released: Jev cost down 59% · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dzhng/status/2104787922583228754">jevgrep 0.5 released: Jev cost down 59%</a></h3>
+<p>jevgrep 0.5 is released with efficiency optimizations, reducing Jev cost per task by 59%. It returns less data, allowing the agent to do more.</p>
+<p><strong>1.0K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.0K</p>
+<p><strong>David</strong> · @dzhng</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/brandonjcarl/status/2104758740868280524"><img src="https://pbs.twimg.com/media/HTWaVz3W4AE-4bI?format=jpg&amp;name=medium" alt="Jev stands out in budget LLM benchmark · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/brandonjcarl/status/2104758740868280524">Jev stands out in budget LLM benchmark</a></h3>
-<p>The author benchmarked budget LLMs and found Luna dominates overall, but Jev performs just as well on text tasks, with 30x faster speed and 30x lower cost.</p>
-<p><strong>581</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 581</p>
-<p><strong>Brandon Carl</strong> · @brandonjcarl</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/ryanflorence/status/2104778207161409656"><img src="https://pbs.twimg.com/media/HTWsn5paIAAgEMv?format=jpg&amp;name=medium" alt="Recreating the FFXI Dunes Experience with Jev-Powered Bots · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ryanflorence/status/2104778207161409656">Recreating the FFXI Dunes Experience with Jev-Powered Bots</a></h3>
+<p>Ryan Florence installs a private FFXI server on his VPS and plans to recreate the classic Dunes multiplayer experience with an alliance of Jev-powered bots.</p>
+<p><strong>610</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 610</p>
+<p><strong>Ryan Florence</strong> · @ryanflorence</p>
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 188 | 105 | 85 | 1.2M |
+| 190 | 105 | 87 | 1.2M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/clawddevs/status/2104715209738756374"><img src="https://pbs.twimg.com/media/HTVzUwfXoAAFtuz?format=jpg&amp;name=medium" alt="CLAwD is online: MUSEbook upgrades with Jev-powered trading and mining decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/clawddevs/status/2104715209738756374">CLAwD is online: MUSEbook upgrades with Jev-powered trading and mining decisions</a></h3>
+<p>MUSEbook now features voice trading (speak → research → trade intent → you sign), @Backpack agentic trading, live @pumpfun markets and execution flows, autonomous @ORE mining agents, with Jev-powered trading and mining decisions.</p>
+<p><strong>中文摘要：</strong>MUSEbook 新增语音交易（说话→研究→表达交易意图→签名）、Backpack 智能体交易、Pump.fun 实时市场与执行流、ORE 自主挖矿代理，并由 Jev 模型辅助交易和挖矿决策。</p>
+<p><strong>Clawd🦞</strong> · @clawddevs · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 5 &nbsp; ♡ 8 &nbsp; 📊 137</p>
+<p><a href="https://x.com/clawddevs/status/2104715209738756374">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/clawddevs/status/2104573972863963313"><img src="https://pbs.twimg.com/media/HTTy38bWYAAHf0K?format=jpg&amp;name=medium" alt="Clawd Launches Autonomous Mining Rig Powered by Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>金融</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 5 &nbsp; 📊 119</p>
 <p><a href="https://x.com/clawddevs/status/2104573972863963313">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/whaleyxbt/status/2104571833244635206"><img src="https://pbs.twimg.com/amplify_video_thumb/2104438880678096896/img/iZYjPYJsEdSSHZYw.jpg" alt="Building a Cross-Venue Arbitrage Bot with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 51</p>
 <p><a href="https://x.com/whaleyxbt/status/2104571833244635206">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xMoysei/status/2104574762873696758"><img src="https://pbs.twimg.com/amplify_video_thumb/2104572721195585536/img/1_19vtRhekbdOPu5.jpg" alt="Jev Agents in Real-World Trading · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
 <p><a href="https://x.com/0xMoysei/status/2104574762873696758">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lostinazeroy/status/2104550224823714021"><img src="https://pbs.twimg.com/amplify_video_thumb/2104550032363970560/img/B8G8-9WD68IzDUx-.jpg" alt="Blueprint for Building a Jev Decision Harness for BTC · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 36</p>
 <p><a href="https://x.com/lostinazeroy/status/2104550224823714021">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xwhippa/status/2104558782642561097"><img src="https://pbs.twimg.com/amplify_video_thumb/2104556792210440192/img/z9Zd1xyGM3KX9i1L.jpg" alt="Building a Memecoin Scanner with JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/0xwhippa/status/2104558782642561097">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Teka1900/status/2104550832649933102"><img src="https://pbs.twimg.com/amplify_video_thumb/2104550397100875776/img/170GZ_BEjUUcgyuf.jpg" alt="Jev + Opus 5.5 Powers a One-Person Finance Department for Invoices and Reconciliation · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 27</p>
 <p><a href="https://x.com/Teka1900/status/2104550832649933102">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/explosss1ve/status/2104537033024717054"><img src="https://pbs.twimg.com/amplify_video_thumb/2104534666581540864/img/zuXmyTrp9q9PWDkt.jpg" alt="Quant Desk Combines Jev and Claude for Millions of Daily Trading Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/explosss1ve/status/2104537033024717054">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EfrainnE62740/status/2104448253823758661"><img src="https://pbs.twimg.com/amplify_video_thumb/2104448197053775872/img/MewULivui5mYCakU.jpg" alt="Jev Model with Grok Bots: $1,000 to $44,198 · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +140,17 @@
 <p><strong>有奶有币（互fo）</strong> · @EfrainnE62740 · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
 <p><a href="https://x.com/EfrainnE62740/status/2104448253823758661">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vwapster/status/2104721725434818613"><img src="https://pbs.twimg.com/media/HTV4viEWoAAxbzP?format=jpg&amp;name=medium" alt="Jev gates used in BTC trading bot comparison test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vwapster/status/2104721725434818613">Jev gates used in BTC trading bot comparison test</a></h3>
+<p>The author uses a fine-tuned BTC 15M bot built with Jev gates, then lets GPT6-Astra and OPUS 5.5 create, test, and deploy their own Kalshi trading bots. They run for 24 hours to compare performance, and then each model can make changes.</p>
+<p><strong>中文摘要：</strong>作者使用基于Jev gates的微调版BTC 15M机器人，并让GPT6-Astra和OPUS 5.5各自创建、测试和部署Kalshi交易机器人，运行24小时比较性能，之后允许各模型自行修改。</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/vwapster/status/2104721725434818613">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

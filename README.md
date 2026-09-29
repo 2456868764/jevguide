@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3838</strong><br>curated posts</td>
-<td align="center"><strong>2019</strong><br>original videos</td>
+<td align="center"><strong>3863</strong><br>curated posts</td>
+<td align="center"><strong>2031</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>554</strong> showcases · <strong>223</strong> videos</p>
+<p><strong>561</strong> showcases · <strong>224</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>411</strong> showcases · <strong>179</strong> videos</p>
+<p><strong>413</strong> showcases · <strong>180</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>395</strong> showcases · <strong>213</strong> videos</p>
+<p><strong>398</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>303</strong> showcases · <strong>230</strong> videos</p>
+<p><strong>304</strong> showcases · <strong>231</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>280</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>283</strong> showcases · <strong>161</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>264</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>267</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>188</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>190</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>166</strong> showcases · <strong>111</strong> videos</p>
+<p><strong>168</strong> showcases · <strong>113</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>94</strong> showcases · <strong>74</strong> videos</p>
+<p><strong>95</strong> showcases · <strong>75</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>86</strong> showcases · <strong>46</strong> videos</p>
+<p><strong>87</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -223,20 +223,20 @@ Recently added Jev posts, ordered by source publish date.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/pc_watch/status/2104679564370907310"><img src="https://pbs.twimg.com/media/HTVS6SVbIAAClsZ?format=jpg&amp;name=medium" alt="PC Watch Column Tries AI &#39;Jev&#39; That Only Returns Judgments · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pc_watch/status/2104679564370907310">PC Watch Column Tries AI &#39;Jev&#39; That Only Returns Judgments</a></h3>
+<p>This article introduces AI &#39;Jev&#39;, which returns judgments directly instead of engaging in lengthy LLM-style conversation and parsing, showcasing its unique approach.</p>
+<p><strong>4.3K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 4.3K</p>
+<p><strong>PC Watch</strong> · @pc_watch</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
 <a href="https://x.com/svpino/status/2104559386001871276"><img src="https://pbs.twimg.com/amplify_video_thumb/2104559250769166336/img/lYtW_6UamvzfipNu.jpg" alt="Jev: A System One Model Optimized for Decision-Making · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/svpino/status/2104559386001871276">Jev: A System One Model Optimized for Decision-Making</a></h3>
 <p>Jev is a new System One model that takes a set of possible choices, classifies the input text accordingly, and provides a confidence score for each option — built for fast decision-making and classification tasks.</p>
 <p><strong>3.7K</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 29 &nbsp; 📊 3.7K</p>
 <p><strong>Santiago</strong> · @svpino</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/NFT_Chen/status/2104423935496556743"><img src="https://pbs.twimg.com/media/HTRqaLuaUAAvFV1?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2104423935496556743">TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev</a></h3>
-<p>Experience 13 questions merged into 1 call, bill slashed to 1/12.2, and time cut from 2.71s to 0.27s. TypeSafe&#39;s official skill restructures the flow: Read docs → Write behavior.</p>
-<p><strong>2.6K</strong> views · 💬 8 &nbsp; 🔁 7 &nbsp; ♡ 18 &nbsp; 📊 2.6K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>a16z</strong> · @a16z</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/svpino/status/2104559386001871276"><img src="https://pbs.twimg.com/amplify_video_thumb/2104559250769166336/img/lYtW_6UamvzfipNu.jpg" alt="Jev: A System One Model Optimized for Decision-Making · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/svpino/status/2104559386001871276">Jev: A System One Model Optimized for Decision-Making</a></h3>
+<p>Jev is a new System One model that takes a set of possible choices, classifies the input text accordingly, and provides a confidence score for each option — built for fast decision-making and classification tasks.</p>
+<p><strong>3.7K</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 29 &nbsp; 📊 3.7K</p>
+<p><strong>Santiago</strong> · @svpino</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/NFT_Chen/status/2104423935496556743"><img src="https://pbs.twimg.com/media/HTRqaLuaUAAvFV1?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/NFT_Chen/status/2104423935496556743">TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev</a></h3>
 <p>Experience 13 questions merged into 1 call, bill slashed to 1/12.2, and time cut from 2.71s to 0.27s. TypeSafe&#39;s official skill restructures the flow: Read docs → Write behavior.</p>
 <p><strong>2.6K</strong> views · 💬 8 &nbsp; 🔁 7 &nbsp; ♡ 18 &nbsp; 📊 2.6K</p>
 <p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/urieli17/status/2104542300881707173"><img src="https://pbs.twimg.com/amplify_video_thumb/2102904945213358080/img/ar3CkjNREO6ATW-Q.jpg" alt="NVIDIA and Stanford release open-source model CLM: similar to Jev but faster · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/urieli17/status/2104542300881707173">NVIDIA and Stanford release open-source model CLM: similar to Jev but faster</a></h3>
-<p>The post introduces a new model CLM from NVIDIA and Stanford, trained on 60M question-answer pairs based on Nemotron. It is described as an open-source alternative similar to Jev, reportedly faster. The model was just released, so feedback is limited.</p>
-<p><strong>2.4K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.4K</p>
-<p><strong>Uri Eliabayev</strong> · @urieli17</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/gippp69/status/2104540710812692914"><img src="https://pbs.twimg.com/amplify_video_thumb/2104540683537117184/img/dU95HSyJo5ASKaBB.jpg" alt="Jev + Grok Builds a Controlled Agent Workflow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gippp69/status/2104540710812692914">Jev + Grok Builds a Controlled Agent Workflow</a></h3>
-<p>The post shows how Jev plus Grok turns a noisy agent workflow into a control stack, triggering expensive generation only when worthwhile and separating decisions, writing, and human review.</p>
-<p><strong>950</strong> views · 💬 16 &nbsp; 🔁 0 &nbsp; ♡ 35 &nbsp; 📊 950</p>
-<p><strong>Gipp 🦅</strong> · @gippp69</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/Av1dlive/status/2104688418659987802"><img src="https://pbs.twimg.com/amplify_video_thumb/2104686860132069376/img/EuV7WsTzzofuSiY_.jpg" alt="Jev + Claude Integration Speeds Up Workflow 4x · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Av1dlive/status/2104688418659987802">Jev + Claude Integration Speeds Up Workflow 4x</a></h3>
+<p>User shares how adding 6 lines to CLAUDE.md integrates Jev with Claude Sonnet 5.5, making the entire workflow 4x faster.</p>
+<p><strong>1.4K</strong> views · 💬 5 &nbsp; 🔁 3 &nbsp; ♡ 13 &nbsp; 📊 1.4K</p>
+<p><strong>Avid</strong> · @Av1dlive</p>
 </td>
 </tr>
 </table>

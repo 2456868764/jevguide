@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 411 | 179 | 233 | 1.6M |
+| 413 | 180 | 234 | 1.6M |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/sarah_edo/status/2104561809084567843">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/defileo/status/2104679338373439994"><img src="https://pbs.twimg.com/amplify_video_thumb/2104679291011428352/img/oZ43svgaf4I79695.jpg" alt="Jev&#39;s Efficient Responses in a Mixed Model Stack · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/defileo/status/2104679338373439994">Jev&#39;s Efficient Responses in a Mixed Model Stack</a></h3>
+<p>The post showcases a stack with Jev, Astra, and Opus 5.5, where Jev handles most responses. Unlike frontier models that require full generation and context loading, Jev answers more directly.</p>
+<p><strong>中文摘要：</strong>帖子展示了一个由 Jev、Astra 和 Opus 5.5 组成的模型堆栈，其中 Jev 承担了大部分回答。对比前沿模型需要完整生成和上下文加载，Jev 的回应更直接。</p>
+<p><strong>Defileo🔮</strong> · @defileo · 2026-09-28</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 909</p>
+<p><a href="https://x.com/defileo/status/2104679338373439994">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ZentrixHQ/status/2104436477580996760"><img src="https://pbs.twimg.com/amplify_video_thumb/2104273564819980289/img/QLRo6NE4LGQZJuwP.jpg" alt="Jev: A Decision Model, Not a Chat Model · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>工作原理</code> <code>原帖视频</code></sub>
@@ -31,6 +44,17 @@
 <p><strong>Zentrix⌚️</strong> · @ZentrixHQ · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 395</p>
 <p><a href="https://x.com/ZentrixHQ/status/2104436477580996760">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dsmiley411/status/2104687146967961954"><img src="https://pbs.twimg.com/media/HTVYZZsaQAA7aRd?format=jpg&amp;name=medium" alt="Jev achieves zero generalization gap with automated failure mode identification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dsmiley411/status/2104687146967961954">Jev achieves zero generalization gap with automated failure mode identification</a></h3>
+<p>Dorian Smiley reports that by building an automated pipeline to identify failure modes and using an LLM to refine prompts, Jev passed all 600 test cases (240 canonical and 360 generalization cases), achieving a zero generalization gap.</p>
+<p><strong>中文摘要：</strong>Dorian Smiley分享称，通过构建自动化识别故障模式的流程，并使用LLM优化提示，Jev在600个测试案例中全部通过，包括240个标准案例和360个泛化案例，泛化差距为零。</p>
+<p><strong>Dorian Smiley</strong> · @dsmiley411 · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 334</p>
+<p><a href="https://x.com/dsmiley411/status/2104687146967961954">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

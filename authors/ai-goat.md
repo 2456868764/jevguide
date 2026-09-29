@@ -1,9 +1,10 @@
 # AI_GOAT
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-28 | [551 ways to use Jev](https://x.com/0xAIGOAT/status/2104710616124473626) | 社区实践 | AI_GOAT | 156 |
 | 2026-09-28 | [Jev Ticket Routing: From Ownership to Root Cause](https://x.com/0xAIGOAT/status/2104539116222263501) | 客户支持 | AI_GOAT | 108 |
 | 2026-09-27 | [Developers' Real Reactions to Jev](https://x.com/0xAIGOAT/status/2104194595647377506) | 社区实践 | AI_GOAT | 13 |
 | 2026-09-25 | [Jev API simplifies AI output handling](https://x.com/0xAIGOAT/status/2103469580807184713) | 开发者工具 | AI_GOAT | 23 |

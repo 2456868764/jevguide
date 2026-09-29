@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 166 | 111 | 55 | 595K |
+| 168 | 113 | 55 | 595K |
 
 ## Showcase 卡片
 
@@ -83,6 +83,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/LukasMinkov/status/2104679351279140945"><img src="https://pbs.twimg.com/amplify_video_thumb/2104678603329884161/img/tb07ElrEuJTu512h.jpg" alt="Automate receipts with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LukasMinkov/status/2104679351279140945">Automate receipts with Jev</a></h3>
+<p>Luke built a receipt automation tool that extracts receipts from Gmail, matches them to expenses, and files them—even handling Uber tips separately—powered by Jev.</p>
+<p><strong>中文摘要：</strong>Luke 开发了一个收据自动化工具：从 Gmail 提取收据，匹配到对应费用并归档，甚至处理 Uber 单独的小费，由 Jev 驱动。</p>
+<p><strong>Luke</strong> · @LukasMinkov · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 74</p>
+<p><a href="https://x.com/LukasMinkov/status/2104679351279140945">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/boyang_xie/status/2104362912051769409"><img src="https://pbs.twimg.com/amplify_video_thumb/2104362805944344576/img/FDqI78DWMMiMlVaP.jpg" alt="Using Jev to Decide If an X Post Is Worth Replying · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>自动化工作流</code> <code>原帖视频</code></sub>
@@ -93,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 44</p>
 <p><a href="https://x.com/boyang_xie/status/2104362912051769409">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/expemillyweb3/status/2104698027206209727"><img src="https://pbs.twimg.com/media/HTVjWotW0AAMHiQ?format=jpg&amp;name=medium" alt="Stop paying for “are we done yet?” — Use Sonnet 5.5 + Jev for overnight coding decisions · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 43</p>
 <p><a href="https://x.com/expemillyweb3/status/2104698027206209727">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1kleos1/status/2104563405616996626"><img src="https://pbs.twimg.com/amplify_video_thumb/2104563240508203009/img/5AMXPLmJDxBUnVow.jpg" alt="Jev-powered overnight automated research desk · 原帖视频截图" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>1kleos1</strong> · @1kleos1 · 2026-09-28</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
 <p><a href="https://x.com/1kleos1/status/2104563405616996626">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NikChainAi/status/2104685006857658586"><img src="https://pbs.twimg.com/amplify_video_thumb/2104684896459350016/img/XFUMo6jg0Nj9MdVb.jpg" alt="Jev sorts emails 400x cheaper than Claude Opus · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NikChainAi/status/2104685006857658586">Jev sorts emails 400x cheaper than Claude Opus</a></h3>
+<p>Jev sorted 216 emails for one cent, while Claude Opus charged $4.73 for the same job. Charlie runs it every morning, with both models side by side on a collab inbox and four questions per email.</p>
+<p><strong>中文摘要：</strong>Jev以1美分成本排序216封邮件，而Claude Opus需要4.73美元。Charlie每天早晨运行该流程，并将两个模型并排放在协作收件箱中，每封邮件回答四个问题。</p>
+<p><strong>Nik</strong> · @NikChainAi · 2026-09-28</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/NikChainAi/status/2104685006857658586">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DejisHQ/status/2104567176288174147"><img src="https://pbs.twimg.com/media/HTTssA2XgAAVxnN?format=jpg&amp;name=medium" alt="Lessons from letting Jev handle 100 funding opportunities · 原帖图片" width="100%"></a>

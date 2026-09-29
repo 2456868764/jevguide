@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4048</strong><br>curated posts</td>
-<td align="center"><strong>2108</strong><br>original videos</td>
+<td align="center"><strong>4078</strong><br>curated posts</td>
+<td align="center"><strong>2124</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>607</strong> showcases · <strong>246</strong> videos</p>
+<p><strong>615</strong> showcases · <strong>252</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>426</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>427</strong> showcases · <strong>184</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>416</strong> showcases · <strong>221</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>223</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>342</strong> showcases · <strong>136</strong> videos</p>
+<p><strong>343</strong> showcases · <strong>137</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>310</strong> showcases · <strong>234</strong> videos</p>
+<p><strong>311</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>296</strong> showcases · <strong>168</strong> videos</p>
+<p><strong>299</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>281</strong> showcases · <strong>137</strong> videos</p>
+<p><strong>284</strong> showcases · <strong>139</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>253</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>254</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>202</strong> showcases · <strong>112</strong> videos</p>
+<p><strong>205</strong> showcases · <strong>113</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>175</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>176</strong> showcases · <strong>118</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>116</strong> showcases · <strong>88</strong> videos</p>
+<p><strong>117</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -106,16 +106,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
+<p><sub>数据分析</sub></p>
+<p><strong>92</strong> showcases · <strong>51</strong> videos</p>
+<p><a href="categories/data-analytics.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
 <p><strong>92</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/data-analytics.md">Data analytics</a></h3>
-<p><sub>数据分析</sub></p>
-<p><strong>91</strong> showcases · <strong>51</strong> videos</p>
-<p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>40</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>41</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/gigazine/status/2104919205686452578"><img src="https://pbs.twimg.com/media/HTYs3PHW0AAhWhg?format=jpg&amp;name=medium" alt="Jeff: A Free, Jev-Compatible High-Speed Decision-Making Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gigazine/status/2104919205686452578">Jeff: A Free, Jev-Compatible High-Speed Decision-Making Model</a></h3>
+<p>GIGAZINE introduces a model called Jeff, which is free, Jev-compatible, and extremely fast in a local environment, at about 22-28 milliseconds.</p>
+<p><strong>3.5K</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 3.5K</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/N01ennn/status/2104876056893104461"><img src="https://pbs.twimg.com/amplify_video_thumb/2104866254146203648/img/J8LnvuFvwbGYaJ7N.jpg" alt="Jev as LangChain Agent Middleware Cuts Enterprise AI Costs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/N01ennn/status/2104876056893104461">Jev as LangChain Agent Middleware Cuts Enterprise AI Costs</a></h3>
+<p>The post praises the Jev middleware layer integrated with LangChain by TypeSafe AI, tackling the high cost of full LLM calls at every loop branch and making agents affordable at company scale.</p>
+<p><strong>3.2K</strong> views · 💬 13 &nbsp; 🔁 5 &nbsp; ♡ 51 &nbsp; 📊 3.2K</p>
+<p><strong>NO1ennn</strong> · @N01ennn</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/polydao/status/2104882880753324248"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786343616237568/img/to53byCU6dF8KheE.jpg" alt="Paste this Jev prompt into Claude to audit and rebuild your workflow · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/polydao/status/2104882880753324248">Paste this Jev prompt into Claude to audit and rebuild your workflow</a></h3>
 <p>A shared Jev prompt: paste it into Claude, and Jev installs, studies how you actually work, shows where hours and money slip away, then rebuilds your setup around the leaks it finds.</p>
 <p><strong>2.6K</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.6K</p>
 <p><strong>Mr. Buzzoni</strong> · @polydao</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/GitHub_Daily/status/2104783256415854712"><img src="https://pbs.twimg.com/media/HTWxND6aIAATSO7?format=jpg&amp;name=medium" alt="Fast Browser Use: A Local Browser Agent Based on Open-Source Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GitHub_Daily/status/2104783256415854712">Fast Browser Use: A Local Browser Agent Based on Open-Source Models</a></h3>
-<p>Browser Use previously integrated Jev to enable agents to operate browsers. Now the APUS team has brought this approach locally using the open-source Qwen3.5. The project, called Fast Browser Use, first scans the page.</p>
-<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.1K</p>
-<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/simplifyinAI/status/2104777780206698697"><img src="https://pbs.twimg.com/media/HTWsNc7bQAALPoZ?format=jpg&amp;name=medium" alt="Prompt to Install Jev into Coding Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/simplifyinAI/status/2104777780206698697">Prompt to Install Jev into Coding Agents</a></h3>
-<p>Send this Jev prompt to any coding agent you already use to install Jev, audit your workflow, and identify where tokens are wasted on unnecessary decisions.</p>
-<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
-<p><strong>Simplifying AI</strong> · @simplifyinAI</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/simplifyinAI/status/2104777780206698697"><img src="https://pbs.twimg.com/media/HTWsNc7bQAALPoZ?format=jpg&amp;name=medium" alt="Prompt to Install Jev into Coding Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/simplifyinAI/status/2104777780206698697">Prompt to Install Jev into Coding Agents</a></h3>
-<p>Send this Jev prompt to any coding agent you already use to install Jev, audit your workflow, and identify where tokens are wasted on unnecessary decisions.</p>
-<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
-<p><strong>Simplifying AI</strong> · @simplifyinAI</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/polydao/status/2104882880753324248"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786343616237568/img/to53byCU6dF8KheE.jpg" alt="Paste this Jev prompt into Claude to audit and rebuild your workflow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/polydao/status/2104882880753324248">Paste this Jev prompt into Claude to audit and rebuild your workflow</a></h3>
+<p>A shared Jev prompt: paste it into Claude, and Jev installs, studies how you actually work, shows where hours and money slip away, then rebuilds your setup around the leaks it finds.</p>
+<p><strong>2.6K</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 2.6K</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/championswimmer/status/2104879441272869248"><img src="https://pbs.twimg.com/media/HTYHPD9WUAA0d5e?format=jpg&amp;name=medium" alt="Building a Skill Picker with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/championswimmer/status/2104879441272869248">Building a Skill Picker with Jev</a></h3>
-<p>The author built a skill picker using Jev, with local Kev support on MacBook. The demo repo includes 20 skills, saving ~1k tokens by excluding unnecessary ones; on a 250+ skill repo it saves ~10k tokens.</p>
-<p><strong>1.0K</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 16 &nbsp; 📊 1.0K</p>
-<p><strong>Arnav Gupta</strong> · @championswimmer</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/GitHub_Daily/status/2104783256415854712"><img src="https://pbs.twimg.com/media/HTWxND6aIAATSO7?format=jpg&amp;name=medium" alt="Fast Browser Use: A Local Browser Agent Based on Open-Source Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GitHub_Daily/status/2104783256415854712">Fast Browser Use: A Local Browser Agent Based on Open-Source Models</a></h3>
+<p>Browser Use previously integrated Jev to enable agents to operate browsers. Now the APUS team has brought this approach locally using the open-source Qwen3.5. The project, called Fast Browser Use, first scans the page.</p>
+<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.1K</p>
+<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
-<a href="https://x.com/RNR_0/status/2104772418967367882"><img src="https://pbs.twimg.com/media/HTWmI7bXsAEk7hZ?format=png&amp;name=medium" alt="Developer uses Jev to normalize code comments · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RNR_0/status/2104772418967367882">Developer uses Jev to normalize code comments</a></h3>
-<p>A developer calls Jev the most overhyped model of the week, yet uses it to rewrite code comments into short, jargon-free telegraphic style, noting that no lint rule exists yet.</p>
-<p><strong>762</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 762</p>
-<p><strong>Romano</strong> · @RNR_0</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/NFT_Chen/status/2104849241294475418"><img src="https://pbs.twimg.com/media/HTXtOcKbIAAkhbQ?format=jpg&amp;name=medium" alt="vllm-jev Cuts System One Inference from 600ms to ~50ms · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NFT_Chen/status/2104849241294475418">vllm-jev Cuts System One Inference from 600ms to ~50ms</a></h3>
+<p>The open-source engine vllm-jev compresses System One inference from ~600ms to ~50ms per run, with official benchmarks showing common 5x–50x speedups, up to ~43x.</p>
+<p><strong>871</strong> views · 💬 4 &nbsp; 🔁 5 &nbsp; ♡ 12 &nbsp; 📊 871</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
 </td>
 </tr>
 </table>

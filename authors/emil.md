@@ -1,8 +1,7 @@
-# emil
+# Emil
 
-2 Jev showcases.
+1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-23 | [Filtering X Feed with Jev](https://x.com/esnx_xyz/status/2102612659954946259) | 社区实践 | emil | 16 |
-| 2026-09-23 | [Jev filter userscript](https://x.com/esnx_xyz/status/2102612663578841471) | 开发者工具 | emil | 12 |
+| 2026-09-29 | [Using Jev to Strip Signatures from Landlord Emails](https://x.com/EmilHovv/status/2104918386060984581) | 自动化工作流 | Emil | 15 |

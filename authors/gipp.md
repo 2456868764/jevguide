@@ -1,9 +1,10 @@
 # Gipp 🦅
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-29 | [Jev + Grok Bot: Building a Decision Firewall for Agent Loops](https://x.com/gippp69/status/2104945820076294569) | 自动化工作流 | Gipp 🦅 | 814 |
 | 2026-09-29 | [Jev + Grok bot: deciding whether an event deserves generation](https://x.com/gippp69/status/2104894644278497751) | 智能体 | Gipp 🦅 | 227 |
 | 2026-09-28 | [Jev + Grok Builds a Controlled Agent Workflow](https://x.com/gippp69/status/2104540710812692914) | 自动化工作流 | Gipp 🦅 | 950 |
 | 2026-09-27 | [Jev Simplifies Agent Decision Loop](https://x.com/gippp69/status/2104237895385071670) | 智能体 | Gipp 🦅 | 648 |

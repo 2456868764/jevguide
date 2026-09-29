@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 424 | 225 | 201 | 3.6M |
+| 428 | 226 | 204 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alex_prompter/status/2104949581863887336"><img src="https://pbs.twimg.com/media/HTZIfWma0AAc5cX?format=jpg&amp;name=medium" alt="TypeSafe releases official Claude Code skill for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alex_prompter/status/2104949581863887336">TypeSafe releases official Claude Code skill for Jev</a></h3>
+<p>TypeSafe released an official ~1,300-word skill that instructs Claude Code to read Jev&#39;s live docs before coding, preventing the agent from guessing.</p>
+<p><strong>中文摘要：</strong>TypeSafe推出了一款约1300词的官方技能，指导Claude Code在编码前先阅读Jev的实时文档，以防止智能体盲目猜测。</p>
+<p><strong>Alex Prompter</strong> · @alex_prompter · 2026-09-29</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 2.2K</p>
+<p><a href="https://x.com/alex_prompter/status/2104949581863887336">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/simplifyinAI/status/2104777780206698697"><img src="https://pbs.twimg.com/media/HTWsNc7bQAALPoZ?format=jpg&amp;name=medium" alt="Prompt to Install Jev into Coding Agents · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/simplifyinAI/status/2104777780206698697">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/championswimmer/status/2104879441272869248"><img src="https://pbs.twimg.com/media/HTYHPD9WUAA0d5e?format=jpg&amp;name=medium" alt="Building a Skill Picker with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 16 &nbsp; 📊 1.0K</p>
 <p><a href="https://x.com/championswimmer/status/2104879441272869248">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dzhng/status/2104787922583228754"><img src="https://pbs.twimg.com/amplify_video_thumb/2104786525854810112/img/632sLMH9fhYrXPTQ.jpg" alt="jevgrep 0.5 released: Jev cost down 59% · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 1.0K</p>
 <p><a href="https://x.com/dzhng/status/2104787922583228754">在 X 查看原帖</a> · <a href="https://t.co/VxOOXLoXQz">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2104849241294475418"><img src="https://pbs.twimg.com/media/HTXtOcKbIAAkhbQ?format=jpg&amp;name=medium" alt="vllm-jev Cuts System One Inference from 600ms to ~50ms · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 4 &nbsp; 🔁 5 &nbsp; ♡ 12 &nbsp; 📊 871</p>
 <p><a href="https://x.com/NFT_Chen/status/2104849241294475418">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DanKornas/status/2104786730540831191"><img src="https://pbs.twimg.com/media/HTW0X3TWkAAvR5K?format=jpg&amp;name=medium" alt="Jev Ultrafast: Python Browser-Agent Repository for Builders · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 587</p>
 <p><a href="https://x.com/DanKornas/status/2104786730540831191">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brandonjcarl/status/2104758740868280524"><img src="https://pbs.twimg.com/media/HTWaVz3W4AE-4bI?format=jpg&amp;name=medium" alt="Jev stands out in budget LLM benchmark · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 581</p>
 <p><a href="https://x.com/brandonjcarl/status/2104758740868280524">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brankopetric00/status/2104921922509177285"><img src="https://pbs.twimg.com/media/HTYvG4tXEAA-OFL?format=jpg&amp;name=medium" alt="Jev AI Refuses Simple Tasks to Save the Environment · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 548</p>
 <p><a href="https://x.com/brankopetric00/status/2104921922509177285">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarshallsFolly/status/2104758914822832487"><img src="https://pbs.twimg.com/amplify_video_thumb/2104658834719662081/img/Q25blEs_Eg4-GDxB.jpg" alt="jevbar: A TypeScript Library Leveraging Jev to Build UI Dynamically · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 423</p>
 <p><a href="https://x.com/MarshallsFolly/status/2104758914822832487">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0x0SojalSec/status/2104745093806837770"><img src="https://pbs.twimg.com/media/HTWOYmqa4AA5Vq7?format=jpg&amp;name=900x900" alt="Unsloth Adds Layaan, an Open Jev Alternative · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,19 @@
 <p><strong>Md Ismail Šojal 🕷️</strong> · @0x0SojalSec · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 305</p>
 <p><a href="https://x.com/0x0SojalSec/status/2104745093806837770">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/matsonj/status/2104946665144930376"><img src="https://pbs.twimg.com/media/HTZFxNDbgAARUA7?format=jpg&amp;name=medium" alt="How it feels to use Jev inside your database · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/matsonj/status/2104946665144930376">How it feels to use Jev inside your database</a></h3>
+<p>The original post describes the subjective feeling of using the Jev model within a database environment, drawing attention from the developer community.</p>
+<p><strong>中文摘要：</strong>原帖描述了在数据库环境中使用Jev模型的主观感受，引发开发者社区关注。</p>
+<p><strong>Jacob Matson</strong> · @matsonj · 2026-09-29</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 291</p>
+<p><a href="https://x.com/matsonj/status/2104946665144930376">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/championswimmer/status/2104879449149964674"><img src="https://pbs.twimg.com/tweet_video_thumb/HTYH2SXXsAA61aq.jpg" alt="Jev Skill Picker Performance Demo · 原帖视频截图" width="100%"></a>
@@ -190,6 +214,19 @@
 <p><a href="https://x.com/realtatendazhou/status/2104919131585695932">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/qltysh/status/2104947053776564544"><img src="https://pbs.twimg.com/tweet_video_thumb/HTYMY4TWkAAD0Jv.jpg" alt="Qlty Releases SlopOne: Code Quality Scoring with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/qltysh/status/2104947053776564544">Qlty Releases SlopOne: Code Quality Scoring with Jev</a></h3>
+<p>SlopOne, a free research preview in the Qlty CLI, scores maintainability using static analysis plus Jev, the new System One model from TypeSafe.</p>
+<p><strong>中文摘要：</strong>Qlty CLI免费研究预览版SlopOne，结合静态分析与TypeSafe的System One模型Jev，评估软件可维护性。</p>
+<p><strong>Qltysh</strong> · @qltysh · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 41</p>
+<p><a href="https://x.com/qltysh/status/2104947053776564544">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/nibzard/status/2104874370183368714"><img src="https://pbs.twimg.com/media/HTYEEq5WgAAV8H6?format=jpg&amp;name=medium" alt="Jev Linter: A Rough But Useful Code Checking Tool · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发者工具</code> <code>原帖图片</code></sub>
@@ -200,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/nibzard/status/2104874370183368714">在 X 查看原帖</a> · <a href="https://t.co/9pdx2nWV9f">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aigeeknews/status/2104744321333493876"><img src="https://pbs.twimg.com/amplify_video_thumb/2104744106081898496/img/ozm21W8LyTw0vIpA.jpg" alt="Deploy Laya + Jev API decision model on a 4GB RAM machine · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +248,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/aigeeknews/status/2104744321333493876">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/punk_zk/status/2104785842283950116"><img src="https://pbs.twimg.com/amplify_video_thumb/2104639452224098305/img/jKDcG0jT2a8W4j2m.jpg" alt="Developer experiments with Jev for model routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/punk_zk/status/2104785842283950116">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nibzard/status/2104875037916586232"><img src="https://pbs.twimg.com/media/HTYEbjkWYAAOxIa?format=jpg&amp;name=medium" alt="measuretwice: AI Judgment Inspection Tool Using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/nibzard/status/2104875037916586232">在 X 查看原帖</a> · <a href="https://t.co/T1yrEUqnjr">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheDJBC/status/2104904102929105021"><img src="https://pbs.twimg.com/media/HTYfIIsbEAEsb1g?format=png&amp;name=900x900" alt="Build a drift guard for Claude Code with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/TheDJBC/status/2104904102929105021">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/diegoaraos/status/2104902610155368741"><img src="https://pbs.twimg.com/media/HTYdNRDXgAAmeIb?format=jpg&amp;name=medium" alt="Launched multi-model tool integrating Jev, adding task boards and workflows · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +296,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/diegoaraos/status/2104902610155368741">在 X 查看原帖</a> · <a href="https://t.co/IFYWN3sIGO">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepInsightLabs/status/2104753027135791455"><img src="https://pbs.twimg.com/amplify_video_thumb/2104405961805103104/img/1jNaI7zRS3dmMMr3.jpg" alt="Jev said to require code rewrites; Seldon claims app-wide fix compilation · 原帖视频截图" width="100%"></a>
 <br>
@@ -271,6 +308,17 @@
 <p><strong>Deep Insight Labs</strong> · @DeepInsightLabs · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/DeepInsightLabs/status/2104753027135791455">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tschlic/status/2104931109603525044"><img src="https://pbs.twimg.com/media/HTY3rcdXUAAZIki?format=jpg&amp;name=medium" alt="Jev console usage cost higher than expected · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tschlic/status/2104931109603525044">Jev console usage cost higher than expected</a></h3>
+<p>The author logged into the Jev console expecting only about 5 cents in credits, but the actual usage was an order of magnitude higher.</p>
+<p><strong>中文摘要：</strong>作者登录 Jev 控制台，原以为只产生约5美分费用，实际用量高出一个数量级。</p>
+<p><strong>Ty</strong> · @tschlic · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/tschlic/status/2104931109603525044">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

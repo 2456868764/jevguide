@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 92 | 51 | 41 | 235K |
+| 94 | 51 | 43 | 235K |
 
 ## Showcase 卡片
 
@@ -22,6 +22,19 @@
 <p><a href="https://x.com/KShivendu_/status/2104740971644874954">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/stas_slu/status/2104948270933979140"><img src="https://pbs.twimg.com/media/HTZBKxrWIAA81H0?format=jpg&amp;name=medium" alt="Integrating Jev into Website Smart Search · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/stas_slu/status/2104948270933979140">Integrating Jev into Website Smart Search</a></h3>
+<p>The author added Jev to the website&#39;s smart search, using pgvector for vector search over embeddings. A small model classifies each question, and the system decides to stop, redirect, or answer based on probabilities. 97% of stops are correct, saving System-2 tokens.</p>
+<p><strong>中文摘要：</strong>作者将Jev添加到网站的智能搜索中，使用pgvector进行向量搜索。小模型对每个问题进行分类，系统根据概率决定停止、重定向或回答。97%的停止是正确的，节省了System-2的令牌。</p>
+<p><strong>Stas Slutsker</strong> · @stas_slu · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 63</p>
+<p><a href="https://x.com/stas_slu/status/2104948270933979140">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/haginota/status/2104764349604897183"><img src="https://pbs.twimg.com/amplify_video_thumb/2104745121858420737/img/D5vGW_0k2Lce8Udr.jpg" alt="Does Jev boost RAG accuracy? Perfect score in a 240-item test · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>知识与搜索</code> <code>原帖视频</code></sub>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/haginota/status/2104764349604897183">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/haginota/status/2104727859163971750"><img src="https://pbs.twimg.com/amplify_video_thumb/2104633540646428672/img/I6rzwwJhCIoCiI-5.jpg" alt="How Does Jev Impact RAG/GraphRAG? · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/haginota/status/2104727859163971750">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/haginota/status/2104767044755595581"><img src="https://pbs.twimg.com/amplify_video_thumb/2104766930330800128/img/6rV-YlNq9J9snVIi.jpg" alt="Effectiveness of Switching RAG Retrieval to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>萩野貴拓</strong> · @haginota · 2026-09-29</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/haginota/status/2104767044755595581">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_slu/status/2104948587839012906"><img src="https://pbs.twimg.com/media/HTZHj9vWcAALB30?format=jpg&amp;name=medium" alt="Integrating Jev into Smart Site Search: Query Classification and Response Optimization · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/stas_slu/status/2104948587839012906">Integrating Jev into Smart Site Search: Query Classification and Response Optimization</a></h3>
+<p>The author added Jev to the site&#39;s smart search, using vector search over content embeddings with pgvector. Each question is first classified by a small model outputting probabilities for predefined questions, and the code then decides whether to stop, redirect to an internal page, or answer. 97% of the stops are reportedly correct, saving tokens for system-2.</p>
+<p><strong>中文摘要：</strong>作者在网站智能搜索中加入了Jev，基于pgvector对内容嵌入做向量搜索。每个问题先由小模型分类为定义好的问题并输出概率，代码据此决定停止、跳转内部页面或直接回答。据称97%的停止决策是正确的，显著节省system-2的token消耗。</p>
+<p><strong>Stas Slutsker</strong> · @stas_slu · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/stas_slu/status/2104948587839012906">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -6,6 +6,7 @@
 | 2026-09-29 | [Jeff: A Free, Jev-Compatible High-Speed Decision-Making Model](https://x.com/gigazine/status/2104919205686452578) | 产品发布 | GIGAZINE(ギガジン) | 3.5K |
 | 2026-09-29 | [Jev as LangChain Agent Middleware Cuts Enterprise AI Costs](https://x.com/N01ennn/status/2104876056893104461) | 智能体 | NO1ennn | 3.2K |
 | 2026-09-29 | [Paste this Jev prompt into Claude to audit and rebuild your workflow](https://x.com/polydao/status/2104882880753324248) | 自动化工作流 | Mr. Buzzoni | 2.6K |
+| 2026-09-29 | [TypeSafe releases official Claude Code skill for Jev](https://x.com/alex_prompter/status/2104949581863887336) | 开发者工具 | Alex Prompter | 2.2K |
 | 2026-09-29 | [Fast Browser Use: A Local Browser Agent Based on Open-Source Models](https://x.com/GitHub_Daily/status/2104783256415854712) | 智能体 | GitHubDaily | 1.1K |
 | 2026-09-29 | [Prompt to Install Jev into Coding Agents](https://x.com/simplifyinAI/status/2104777780206698697) | 开发者工具 | Simplifying AI | 1.1K |
 | 2026-09-29 | [Building a Skill Picker with Jev](https://x.com/championswimmer/status/2104879441272869248) | 开发者工具 | Arnav Gupta | 1.0K |
@@ -14,6 +15,7 @@
 | 2026-09-29 | [JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint](https://x.com/starmexxx/status/2104891333886271622) | 智能体 | starmex | 960 |
 | 2026-09-29 | [Jev: 200x Faster, 400x Cheaper Decision Model Course](https://x.com/platzi/status/2104932133479301193) | 教育 | Platzi | 902 |
 | 2026-09-29 | [vllm-jev Cuts System One Inference from 600ms to ~50ms](https://x.com/NFT_Chen/status/2104849241294475418) | 开发者工具 | SuSu_酥酥👅 | 871 |
+| 2026-09-29 | [Jev + Grok Bot: Building a Decision Firewall for Agent Loops](https://x.com/gippp69/status/2104945820076294569) | 自动化工作流 | Gipp 🦅 | 814 |
 | 2026-09-29 | [Automate AI Content Checks with Jev: Review Only Weak Drafts](https://x.com/JulianGoldieSEO/status/2104722825953394895) | 内容创作 | Julian Goldie SEO | 783 |
 | 2026-09-29 | [Developer uses Jev to normalize code comments](https://x.com/RNR_0/status/2104772418967367882) | 软件开发 | Romano | 762 |
 | 2026-09-29 | [Jev + Treg as a Portfolio Management Flow](https://x.com/withchiay/status/2104921280143069350) | 金融 | Chia Y | 753 |
@@ -39,21 +41,27 @@
 | 2026-09-29 | [Jev open-source versions arrive in 2 days, 18ms local decisions](https://x.com/Asteri_eth/status/2104918542063681810) | 社区实践 | Asteri | 372 |
 | 2026-09-29 | [Major Upgrade Deployed to Jev Model Pipeline](https://x.com/zenoVision_/status/2104883393183756372) | 产品发布 | Zeno Divergent | 359 |
 | 2026-09-29 | [JevBench Creator Questions Choosing System One Models by Vibes](https://x.com/airesearch12/status/2104839621641179643) | 社区实践 | Florian S | 347 |
+| 2026-09-29 | [Jev Bot Autonomous Trading Agent Generates Gains](https://x.com/bl888m_eth/status/2104950596348625383) | 金融 | bl888m | 344 |
 | 2026-09-29 | [Live Jev Engineering Desk Visualization](https://x.com/magsimich/status/2104887158943437297) | 社区实践 | magsimich | 336 |
 | 2026-09-29 | [Unsloth Adds Layaan, an Open Jev Alternative](https://x.com/0x0SojalSec/status/2104745093806837770) | 开发者工具 | Md Ismail Šojal 🕷️ | 305 |
 | 2026-09-29 | [JEV + Claude Opus 5.5 Sports Betting Profits Over $3.4M](https://x.com/AKKY33157665/status/2104835892707840321) | 金融 | 0xAkky | 297 |
 | 2026-09-29 | [Jev for Inspection: Can It Spot Defects Instantly?](https://x.com/lemcosmos/status/2104837518088925216) | 社区实践 | レム⚛️Cosmos🥷 | 291 |
+| 2026-09-29 | [How it feels to use Jev inside your database](https://x.com/matsonj/status/2104946665144930376) | 开发者工具 | Jacob Matson | 291 |
 | 2026-09-29 | [I wired Jev into my support desk](https://x.com/magsimich/status/2104841370481353181) | 客户支持 | magsimich | 288 |
 | 2026-09-29 | [Uncle Moon Comments on Jev's Marketing Strategy](https://x.com/uncle_moon_x/status/2104753477528490491) | 营销 | 月球大叔 | 284 |
 | 2026-09-29 | [Jev can be used like a cross encoder for relevance](https://x.com/KShivendu_/status/2104740971644874954) | 知识与搜索 | KShivendu 🌁 | 280 |
 | 2026-09-29 | [Community practice for building a second brain with Jev](https://x.com/rewind02/status/2104919156097217002) | 社区实践 | rewind | 267 |
 | 2026-09-29 | [TypeSafe's Early Pitch and Reflections on ChatGPT Training](https://x.com/0xchromium/status/2104910121151451283) | 工作原理 | Chrome | 266 |
+| 2026-09-29 | [Jev API Build Ideas List](https://x.com/ch3nweiii/status/2104946245982978461) | 社区实践 | Chen | 262 |
 | 2026-09-29 | [Jev FC Buddy: Agent Takes Controller 2](https://x.com/kane_tdt/status/2104833555738005844) | 游戏 | Kane | 261 |
+| 2026-09-29 | [Jev model matches all in buyer intent test](https://x.com/yusukelp/status/2104942865931726924) | 营销 | Yusuke | 257 |
 | 2026-09-29 | [Jev-based decision API coming to Kronk this week](https://x.com/Kronk_AI/status/2104914067571802281) | 接入动态 | Kronk AI | 256 |
 | 2026-09-29 | [Jev + One Formula for Bitcoin Window Pricing Trades](https://x.com/explosss1ve/status/2104889330208591965) | 金融 | explos1ve | 253 |
 | 2026-09-29 | [20 Production Jev Repositories That End Agent Context Rot](https://x.com/marfinxx/status/2104904113901232206) | 开发资源 | marfin | 246 |
+| 2026-09-29 | [Build a Second Brain for Your Business with Jev + GPT-6 Astra](https://x.com/doublenickk/status/2104950538567664079) | 生产力 | Shadow Nick | 243 |
 | 2026-09-29 | [A site comparing Doraemon gadgets vs Kobayashi Pharmaceutical products in real time](https://x.com/him0net/status/2104722827785949213) | 社区实践 | ひも | 230 |
 | 2026-09-29 | [Jev + Grok bot: deciding whether an event deserves generation](https://x.com/gippp69/status/2104894644278497751) | 智能体 | Gipp 🦅 | 227 |
+| 2026-09-29 | [Releasing 180K Jev-format Tool-Calling Decisions Dataset](https://x.com/MaziyarPanahi/status/2104954190199968001) | 开发资源 | Maziyar PANAHI | 227 |
 | 2026-09-29 | [Local AI app to control your Mac with voice and eyes](https://x.com/AxelMtbr/status/2104936368119943469) | 生产力 | Antidote | 218 |
 | 2026-09-29 | [JevBench tops search results for comparing decision models](https://x.com/airesearch12/status/2104897340440035823) | 社区实践 | Florian S | 205 |
 | 2026-09-29 | [JEV + Claude Code: Tiered Processing of 200+ Billion Data Points](https://x.com/Beaver_0x/status/2104936484608319489) | 自动化工作流 | Beaver | 201 |
@@ -77,6 +85,7 @@
 | 2026-09-29 | [Exploring TypeSafe Jev: Typed Decisions for Software](https://x.com/nibzard/status/2104873429962727629) | 开发者工具 | Niko(la) | 120 |
 | 2026-09-29 | [Quant hedge fund code released, Jev builds profitable trading agent](https://x.com/ggwplabs/status/2104834429533254117) | 金融 | ggwp | 119 |
 | 2026-09-29 | [Using Jev for high-speed classification of AI character conversation states](https://x.com/taiyop/status/2104778510565069149) | 社区实践 | たいよっぷ \| Harness Engineer | 118 |
+| 2026-09-29 | [Tip: Use Jev as the decision layer for your note vault](https://x.com/fleyta88/status/2104953160112414971) | 社区实践 | fleyta | 110 |
 | 2026-09-29 | [Jev PowerShell Module Enables Natural Language Conditionals](https://x.com/dfinke/status/2104937063682576548) | 开发者工具 | Doug Finke | 93 |
 | 2026-09-29 | [CarrerLift upgrades job matching engine with Jev](https://x.com/PRAKHARPANDEY31/status/2104936261396127810) | 接入动态 | Prakhar Pandey | 92 |
 | 2026-09-29 | [Testing Jev as a Creative Operator for Ecom Ads](https://x.com/NahFlo2n/status/2104907849910677565) | 电商 | Florin | 90 |
@@ -93,12 +102,3 @@
 | 2026-09-29 | [JEV's Real Role in Processing 65B Data Points](https://x.com/0xkurt/status/2104832370515878118) | 数据分析 | Kurt | 70 |
 | 2026-09-29 | [Jev AI Confidence Explained](https://x.com/testmuai/status/2104828522749386824) | 工作原理 | TestMu AI | 68 |
 | 2026-09-29 | [Jev Goes Live on Replenish Page](https://x.com/demirhanaydin/status/2104892154719912334) | 电商 | Demirhan Aydın | 68 |
-| 2026-09-29 | [Jev-LDE: Incentivizing In-Context Capability of LLMs via Local Demonstration Refinement](https://x.com/AlbertW24045555/status/2104791900406632946) | 科研 | Dr. Cheems Wang 🏡 | 67 |
-| 2026-09-29 | [Jev API seamlessly replaces Unsloth for local deployment of Laya decision model](https://x.com/shao__meng/status/2104757437958107338) | 产品发布 | meng shao | 65 |
-| 2026-09-29 | [JevRad: An Educational Radiology Tool Built on Jev](https://x.com/AbdullahNorain/status/2104725531430436870) | 医疗 | Abdullah Norain, MD | 63 |
-| 2026-09-29 | [Jev Monitors 900 Live Flights in the Bay Area](https://x.com/Daniel_Bernath_/status/2104733075406254225) | 智能体 | Daniel Liao | 62 |
-| 2026-09-29 | [Jev's Second Use: Expense Sorting for Settlement Cut from 1 Day to 1.5 Hours](https://x.com/rsensui/status/2104789632328388840) | 自动化工作流 | 泉水亮介 │ 大学でVibe Codingを教えてます。 | 59 |
-| 2026-09-29 | [Jev and Laya experiments rapidly emerging in the community](https://x.com/varunPbhardwaj/status/2104845612986564816) | 社区实践 | varun bhardwaj | 59 |
-| 2026-09-29 | [daily.dev harnesses Jev for real-time spam protection](https://x.com/idoshamun/status/2104920049836294352) | 接入动态 | Ido Shamun | 59 |
-| 2026-09-29 | [Found CLM: Another Fast System One Decision Model, Claims Up to 9x Faster than Jev](https://x.com/KissonL/status/2104726600747213235) | 社区实践 | Kisson | 55 |
-| 2026-09-29 | [Rise of the Jev-Clones: Threat Report for Typesafe AI Users](https://x.com/rst_cloud/status/2104900718612169020) | 网络安全 | RST Cloud | 55 |

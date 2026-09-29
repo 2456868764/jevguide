@@ -1,24 +1,24 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 622
-- [How it works](../categories/how-it-works.md) — 428
-- [Developer tools](../categories/developer-tools.md) — 424
-- [Access updates](../categories/access-updates.md) — 346
+- [Community builds](../categories/community-builds.md) — 625
+- [How it works](../categories/how-it-works.md) — 429
+- [Developer tools](../categories/developer-tools.md) — 428
+- [Access updates](../categories/access-updates.md) — 347
 - [Gaming](../categories/gaming.md) — 312
-- [Agents](../categories/agents.md) — 301
-- [Launch news](../categories/launch-news.md) — 287
-- [Developer resources](../categories/developer-resources.md) — 254
-- [Finance](../categories/finance.md) — 207
-- [Workflow automation](../categories/workflow-automation.md) — 177
-- [Marketing](../categories/marketing.md) — 119
-- [Content creation](../categories/content-creation.md) — 102
+- [Agents](../categories/agents.md) — 302
+- [Launch news](../categories/launch-news.md) — 288
+- [Developer resources](../categories/developer-resources.md) — 255
+- [Finance](../categories/finance.md) — 208
+- [Workflow automation](../categories/workflow-automation.md) — 180
+- [Marketing](../categories/marketing.md) — 120
+- [Content creation](../categories/content-creation.md) — 103
+- [Knowledge & search](../categories/knowledge-search.md) — 94
 - [Data analytics](../categories/data-analytics.md) — 92
-- [Knowledge & search](../categories/knowledge-search.md) — 92
-- [Scientific research](../categories/scientific-research.md) — 64
+- [Scientific research](../categories/scientific-research.md) — 65
 - [Customer support](../categories/customer-support.md) — 43
 - [Cybersecurity](../categories/cybersecurity.md) — 42
-- [Robotics](../categories/robotics.md) — 37
-- [Productivity](../categories/productivity.md) — 31
+- [Robotics](../categories/robotics.md) — 38
+- [Productivity](../categories/productivity.md) — 32
 - [Software development](../categories/software-development.md) — 28
 - [Business operations](../categories/business-operations.md) — 26
 - [Healthcare](../categories/healthcare.md) — 22

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4109</strong><br>curated posts</td>
-<td align="center"><strong>2140</strong><br>original videos</td>
+<td align="center"><strong>4132</strong><br>curated posts</td>
+<td align="center"><strong>2151</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>622</strong> showcases · <strong>254</strong> videos</p>
+<p><strong>625</strong> showcases · <strong>256</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>428</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>429</strong> showcases · <strong>185</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>424</strong> showcases · <strong>225</strong> videos</p>
+<p><strong>428</strong> showcases · <strong>226</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>346</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>347</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>301</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>302</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>287</strong> showcases · <strong>141</strong> videos</p>
+<p><strong>288</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>254</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>255</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>207</strong> showcases · <strong>113</strong> videos</p>
+<p><strong>208</strong> showcases · <strong>114</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,23 +88,29 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>177</strong> showcases · <strong>119</strong> videos</p>
+<p><strong>180</strong> showcases · <strong>121</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>119</strong> showcases · <strong>90</strong> videos</p>
+<p><strong>120</strong> showcases · <strong>91</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>102</strong> showcases · <strong>78</strong> videos</p>
+<p><strong>103</strong> showcases · <strong>79</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
+<p><sub>知识与搜索</sub></p>
+<p><strong>94</strong> showcases · <strong>51</strong> videos</p>
+<p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
@@ -112,15 +118,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
-<p><sub>知识与搜索</sub></p>
-<p><strong>92</strong> showcases · <strong>51</strong> videos</p>
-<p><a href="categories/knowledge-search.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>64</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>37</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>38</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>31</strong> showcases · <strong>22</strong> videos</p>
+<p><strong>32</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -313,20 +313,20 @@ Start with verified Jev posts.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/GitHub_Daily/status/2104783256415854712"><img src="https://pbs.twimg.com/media/HTWxND6aIAATSO7?format=jpg&amp;name=medium" alt="Fast Browser Use: A Local Browser Agent Based on Open-Source Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GitHub_Daily/status/2104783256415854712">Fast Browser Use: A Local Browser Agent Based on Open-Source Models</a></h3>
-<p>Browser Use previously integrated Jev to enable agents to operate browsers. Now the APUS team has brought this approach locally using the open-source Qwen3.5. The project, called Fast Browser Use, first scans the page.</p>
-<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.1K</p>
-<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/alex_prompter/status/2104949581863887336"><img src="https://pbs.twimg.com/media/HTZIfWma0AAc5cX?format=jpg&amp;name=medium" alt="TypeSafe releases official Claude Code skill for Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/alex_prompter/status/2104949581863887336">TypeSafe releases official Claude Code skill for Jev</a></h3>
+<p>TypeSafe released an official ~1,300-word skill that instructs Claude Code to read Jev&#39;s live docs before coding, preventing the agent from guessing.</p>
+<p><strong>2.2K</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 2.2K</p>
+<p><strong>Alex Prompter</strong> · @alex_prompter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/platzi/status/2104932133479301193"><img src="https://pbs.twimg.com/media/HTY4nDWWsAAIdv9?format=jpg&amp;name=900x900" alt="Jev: 200x Faster, 400x Cheaper Decision Model Course · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/platzi/status/2104932133479301193">Jev: 200x Faster, 400x Cheaper Decision Model Course</a></h3>
-<p>Platzi launches a Jev model course with Freddy Vega and Juan Pablo Rojas, covering TypeSafe&#39;s Jev — an AI model that can&#39;t chat but makes fast decisions.</p>
-<p><strong>902</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 902</p>
-<p><strong>Platzi</strong> · @platzi</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/starmexxx/status/2104891333886271622"><img src="https://pbs.twimg.com/amplify_video_thumb/2104890699166498816/img/u0-OHmsutqA9QTOa.jpg" alt="JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/starmexxx/status/2104891333886271622">JEV + Grok + Uber: A Ride Agent That Checks GPS Before Believing the Complaint</a></h3>
+<p>The post proposes a concept where Grok reads the rider&#39;s complaint, JEV checks the actual locations of the car and phone, and Uber refunds only if the map agrees with the story.</p>
+<p><strong>960</strong> views · 💬 9 &nbsp; 🔁 1 &nbsp; ♡ 19 &nbsp; 📊 960</p>
+<p><strong>starmex</strong> · @starmexxx</p>
 </td>
 </tr>
 </table>

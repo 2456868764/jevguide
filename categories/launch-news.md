@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 267 | 134 | 136 | 1.1M |
+| 269 | 134 | 138 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/platzi/status/2104726851138605477"><img src="https://pbs.twimg.com/media/HTV96dWWEAAkTOp?format=jpg&amp;name=medium" alt="TypeSafe AI Launches New Model Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/platzi/status/2104726851138605477">TypeSafe AI Launches New Model Jev</a></h3>
+<p>Jev doesn&#39;t write text; it takes information and returns decisions with probabilities. It can be used to review other AI agents&#39; actions before they act. Launched on September 15 by Diogo Almeida.</p>
+<p><strong>中文摘要：</strong>Jev 不生成文本，而是接收信息并返回带概率的决策。它的关键用途之一是审查其他 AI 智能体的行动。该模型于 9 月 15 日由 Diogo Almeida 发布。</p>
+<p><strong>Platzi</strong> · @platzi · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/platzi/status/2104726851138605477">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AIForPeople/status/2104725830320476285"><img src="https://pbs.twimg.com/media/HTV8_QkXQAAFD0o?format=jpg&amp;name=medium" alt="AutoTrust Releases JEV-27B Open-Weight Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIForPeople/status/2104725830320476285">AutoTrust Releases JEV-27B Open-Weight Model</a></h3>
+<p>JEV-27B adds a 108.9M-parameter decision block to frozen Qwen3.8-27B, enabling fast structured choices while preserving the base model&#39;s reasoning path. Apache-2.0 licensed.</p>
+<p><strong>中文摘要：</strong>JEV-27B基于冻结的Qwen3.8-27B，新增1.089亿参数决策块，实现快速结构化选择并保留基础模型推理能力，采用Apache-2.0许可。</p>
+<p><strong>AIForPeople</strong> · @AIForPeople · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/AIForPeople/status/2104725830320476285">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/a16z/status/2104580361254810080"><img src="https://pbs.twimg.com/amplify_video_thumb/2104579379615641600/img/-lxssJS9sPlj4th0.jpg" alt="TypeSafe AI&#39;s Jev: The Model Built to Live Inside Software · 原帖视频截图" width="100%"></a>

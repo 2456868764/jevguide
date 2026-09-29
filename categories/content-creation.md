@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 95 | 75 | 23 | 101K |
+| 97 | 76 | 24 | 101K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JulianGoldieSEO/status/2104722825953394895"><img src="https://pbs.twimg.com/amplify_video_thumb/2104588819274285056/img/GLSbmNvS7XMDPyXS.jpg" alt="Automate AI Content Checks with Jev: Review Only Weak Drafts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">Automate AI Content Checks with Jev: Review Only Weak Drafts</a></h3>
+<p>Jev can run yes/no checks including search intent, missing sources, bad internal links, and rule breaks. High-confidence drafts move on, while weak ones go to review. This post introduces the workflow with an optional SOP.</p>
+<p><strong>中文摘要：</strong>Jev可以执行是/否检查，包括搜索意图、缺失来源、不良内链和规则违规。高置信度草稿直接通过，薄弱草稿进入人工审核。该帖介绍了这一工作流，并附有SOP获取方式。</p>
+<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 783</p>
+<p><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Sanjayyb7/status/2104681975802179660"><img src="https://pbs.twimg.com/amplify_video_thumb/2104681492765171712/img/-VWQH9CKYmFQ4kn-.jpg" alt="Building Beethoven with Jev&#39;s AI Band · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 358</p>
 <p><a href="https://x.com/Sanjayyb7/status/2104681975802179660">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2104571462677921981"><img src="https://pbs.twimg.com/media/HTTwQTtWoAAEb4d?format=png&amp;name=medium" alt="Automating content farms with Picsart and Jev · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 270</p>
 <p><a href="https://x.com/bl888m_eth/status/2104571462677921981">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/H__Wakabayashi/status/2104518243557982667"><img src="https://pbs.twimg.com/amplify_video_thumb/2104517513669492736/img/XA9O2scCd8bYCLDI.jpg" alt="A Speaking Program That Filters Word Sounds with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 209</p>
 <p><a href="https://x.com/H__Wakabayashi/status/2104518243557982667">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TanLuAI/status/2104572991854276713"><img src="https://pbs.twimg.com/amplify_video_thumb/2104572834601373696/img/ggEOoKB2o4mhAVtn.jpg" alt="Creating a Jev Science Video Autonomously with Opus 5.5 · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>探路AI</strong> · @TanLuAI · 2026-09-28</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 139</p>
 <p><a href="https://x.com/TanLuAI/status/2104572991854276713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/doubleemt/status/2104683329962525105"><img src="https://pbs.twimg.com/media/HTVUQ1NbUAAGlwi?format=jpg&amp;name=medium" alt="Real-time AI Writing Detection with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/doubleemt/status/2104683329962525105">Real-time AI Writing Detection with Jev</a></h3>
+<p>Emmett Chen-Ran shares a real-time AI writing detection tool built by his team using Jev, which highlights phrases most likely to signal AI writing as text is typed.</p>
+<p><strong>中文摘要：</strong>Emmett Chen-Ran 分享其团队用 Jev 构建的实时 AI 写作检测工具，能在文本输入时高亮最可能由 AI 生成的短语。</p>
+<p><strong>Emmett Chen-Ran</strong> · @doubleemt · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 119</p>
+<p><a href="https://x.com/doubleemt/status/2104683329962525105">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

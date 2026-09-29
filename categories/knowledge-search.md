@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 87 | 47 | 40 | 235K |
+| 89 | 49 | 40 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/haginota/status/2104727859163971750"><img src="https://pbs.twimg.com/amplify_video_thumb/2104633540646428672/img/I6rzwwJhCIoCiI-5.jpg" alt="How Does Jev Impact RAG/GraphRAG? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/haginota/status/2104727859163971750">How Does Jev Impact RAG/GraphRAG?</a></h3>
+<p>Takahiro Hagino investigates the impact of Jev&#39;s emergence on RAG and GraphRAG and shares findings.</p>
+<p><strong>中文摘要：</strong>萩野貴拓调查了Jev的出现对RAG和GraphRAG的影响，并分享了相关发现。</p>
+<p><strong>萩野貴拓</strong> · @haginota · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/haginota/status/2104727859163971750">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/haginota/status/2104735409003696464"><img src="https://pbs.twimg.com/amplify_video_thumb/2104651670483533824/img/A19PHT21-b_WtA1S.jpg" alt="How Does Jev Transform RAG and GraphRAG? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/haginota/status/2104735409003696464">How Does Jev Transform RAG and GraphRAG?</a></h3>
+<p>Takahiro Hagino analyzes Jev&#39;s application in RAG/GraphRAG, highlighting its strong performance as a reranker: on NanoHotpotQA (50 questions, 100 candidates), removing 92% of weakly relevant documents still retains all 97 correct answers, and nDCG@10 improves from 0.833 to 0.975.</p>
+<p><strong>中文摘要：</strong>萩野貴拓对 Jev 在 RAG/GraphRAG 中的应用进行了分析，特别指出其作为重排序器的强势表现：在 NanoHotpotQA 的 50 道题、100 个候选中，即使移除 92% 的相关性薄弱文档，仍保留全部 97 个正确答案，nDCG@10 从 0.833 提升至 0.975。</p>
+<p><strong>萩野貴拓</strong> · @haginota · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/haginota/status/2104735409003696464">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/assaf_elovic/status/2104562754774303203"><img src="https://pbs.twimg.com/media/HTToN0KWsAAiiBE?format=png&amp;name=medium" alt="Jev Outperforms Embeddings in RAG · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 283 | 161 | 123 | 3.0M |
+| 285 | 163 | 123 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tmiyatake1/status/2104724335890170203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104668344892960768/img/yi8gTD32sr0imlkP.jpg" alt="The Burning Question When Pitching Jev: Where&#39;s the Automation? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tmiyatake1/status/2104724335890170203">The Burning Question When Pitching Jev: Where&#39;s the Automation?</a></h3>
+<p>When TypeSafe AI&#39;s Diogo Almeida pitches Jev, he often hears &quot;Where&#39;s the automation?&quot; The post highlights TypeSafe&#39;s goal of expanding software capabilities with AI.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI的开发者Diogo Almeida在介绍Jev时，经常被问到“自动化在哪里”。帖子点出TypeSafe希望通过AI扩展软件能力的愿景。</p>
+<p><strong>Tetsuro Miyatake</strong> · @tmiyatake1 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
+<p><a href="https://x.com/tmiyatake1/status/2104724335890170203">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Daniel_Bernath_/status/2104733075406254225"><img src="https://pbs.twimg.com/amplify_video_thumb/2104733041436631040/img/DLURB1kCn4Imn0GL.jpg" alt="Jev Monitors 900 Live Flights in the Bay Area · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Daniel_Bernath_/status/2104733075406254225">Jev Monitors 900 Live Flights in the Bay Area</a></h3>
+<p>The user put the Jev model (@typesafeai) in charge of Bay Area air traffic risk assessment inside an e2b sandbox. Among 900 live flights, each risky pair was judged in 103ms with zero missed conflicts; GPT-4o missed 56 and Opus 5.5 took 12 seconds. Code is open-sourced on GitHub.</p>
+<p><strong>中文摘要：</strong>用户将Jev模型（@typesafeai）部署在e2b沙盒中，负责湾区空中交通风险判断。900个实时航班中，每对风险判断仅需103毫秒，零冲突遗漏；对比GPT-4o漏掉56个，Opus 5.5需12秒。代码已开源在GitHub。</p>
+<p><strong>Daniel Liao</strong> · @Daniel_Bernath_ · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 62</p>
+<p><a href="https://x.com/Daniel_Bernath_/status/2104733075406254225">在 X 查看原帖</a> · <a href="https://t.co/QlU8bfOup6">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kiyoshi_shin/status/2104385555291341241"><img src="https://pbs.twimg.com/amplify_video_thumb/2104385261769736194/img/h5bv4Lu2nBSKHfRT.jpg" alt="Jev-Controlled Interactive Demo Playable Now · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 168 | 113 | 55 | 595K |
+| 170 | 115 | 55 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mathias_gilson/status/2104727942995857432"><img src="https://pbs.twimg.com/amplify_video_thumb/2104727737797615616/img/Y5bWGO4BFPeMDCFl.jpg" alt="Automating QA Tests with TypeSafe JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mathias_gilson/status/2104727942995857432">Automating QA Tests with TypeSafe JEV</a></h3>
+<p>Mathias shares his experience using TypeSafe AI&#39;s JEV to automate app QA testing, calling it insane.</p>
+<p><strong>中文摘要：</strong>Mathias分享使用TypeSafe AI的JEV自动化应用QA测试的体验，认为效果惊人。</p>
+<p><strong>Mathias</strong> · @mathias_gilson · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/mathias_gilson/status/2104727942995857432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/firesidealpha/status/2104722581882634543"><img src="https://pbs.twimg.com/amplify_video_thumb/2104721954838372352/img/vQbTH4l12TTR3-B2.jpg" alt="Jev creator predicts SaaS companies will become AI&#39;s biggest winners · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/firesidealpha/status/2104722581882634543">Jev creator predicts SaaS companies will become AI&#39;s biggest winners</a></h3>
+<p>Diogo Almeida believes SaaS companies already know which workflows customers need automated, making them the primary beneficiaries of AI.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida认为SaaS公司已经了解客户需要自动化的工作流，因此将成为AI领域的主要受益者。</p>
+<p><strong>Fireside Alpha</strong> · @firesidealpha · 2026-09-28</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/firesidealpha/status/2104722581882634543">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gippp69/status/2104540710812692914"><img src="https://pbs.twimg.com/amplify_video_thumb/2104540683537117184/img/dU95HSyJo5ASKaBB.jpg" alt="Jev + Grok Builds a Controlled Agent Workflow · 原帖视频截图" width="100%"></a>

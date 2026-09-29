@@ -1,9 +1,13 @@
 # WTome
 
-7 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-29 | [Jev vs Laya: SQL Logic Benchmark and Fine-tuning](https://x.com/WarlockTome/status/2104888930663284757) | 社区实践 | WTome | 11 |
+| 2026-09-29 | [Jev Model Tier Selection Test Results](https://x.com/WarlockTome/status/2104888936300487153) | 社区实践 | WTome | 9 |
+| 2026-09-29 | [Evaluation of Jev Model on SQL Bug Detection](https://x.com/WarlockTome/status/2104888940729716782) | 网络安全 | WTome | 4 |
+| 2026-09-29 | [Laya vs Jev: Community Benchmark](https://x.com/WarlockTome/status/2104888931808338083) | 社区实践 | WTome | 4 |
 | 2026-09-28 | [Analysis of Jev Experiment Limitations](https://x.com/WarlockTome/status/2104526553296109870) | 工作原理 | WTome | 10 |
 | 2026-09-28 | [Jev Architecture Speculation: MoE Backbone and Prefill Performance](https://x.com/WarlockTome/status/2104526551865856052) | 工作原理 | WTome | 9 |
 | 2026-09-28 | [Reverse Engineering Jev: 10K API Calls Unpacked](https://x.com/WarlockTome/status/2104526543582048397) | 工作原理 | WTome | 8 |

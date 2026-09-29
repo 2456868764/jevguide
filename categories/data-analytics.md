@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 86 | 50 | 37 | 392K |
+| 88 | 50 | 39 | 392K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Kurt</strong> · @0xkurt · 2026-09-29</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 70</p>
 <p><a href="https://x.com/0xkurt/status/2104832370515878118">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thor574/status/2104884009742561678"><img src="https://pbs.twimg.com/media/HTYM2TLWwAAERKt?format=jpg&amp;name=900x900" alt="Mapping Linux Creator&#39;s Mood Swings with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thor574/status/2104884009742561678">Mapping Linux Creator&#39;s Mood Swings with Jev</a></h3>
+<p>This post demonstrates an example of mapping the Linux creator&#39;s mood swings using TypeSafe&#39;s Jev on mailing list archives.</p>
+<p><strong>中文摘要：</strong>该帖子展示了使用 TypeSafe 的 Jev 基于邮件列表存档分析 Linux 创建者情绪波动的示例。</p>
+<p><strong>Thor Hovden 🇳🇴❤️🇺🇦</strong> · @thor574 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/thor574/status/2104884009742561678">在 X 查看原帖</a> · <a href="https://t.co/KvUDVq1N5H">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thor574/status/2104883564198150172"><img src="https://pbs.twimg.com/media/HTYMcdtXgAArBGK?format=jpg&amp;name=900x900" alt="Mapping the Linux Creator&#39;s Mood Swings with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thor574/status/2104883564198150172">Mapping the Linux Creator&#39;s Mood Swings with Jev</a></h3>
+<p>This post demonstrates an application example of using Jev to visualize and analyze the mood swings of the Linux founder.</p>
+<p><strong>中文摘要：</strong>该帖子展示了利用Jev对Linux创始人情绪波动进行可视化分析的应用实例。</p>
+<p><strong>Thor Hovden 🇳🇴❤️🇺🇦</strong> · @thor574 · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/thor574/status/2104883564198150172">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/spenserskates/status/2104698114510852523"><img src="https://pbs.twimg.com/media/HTVhba4akAAonQ7?format=jpg&amp;name=medium" alt="Jev&#39;s performance in AI analytics benchmarks · 原帖图片" width="100%"></a>

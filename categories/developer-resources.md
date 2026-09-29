@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 250 | 96 | 154 | 419K |
+| 252 | 97 | 155 | 419K |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/humancoders/status/2104894105503363520"><img src="https://pbs.twimg.com/tweet_video_thumb/HTYWBzwXsAAs5ZE.jpg" alt="Awesome Jev: Curated List for TypeSafe Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/humancoders/status/2104894105503363520">Awesome Jev: Curated List for TypeSafe Model</a></h3>
+<p>A curated list about the TypeSafe Jev model, covering 33 projects with demos, skills, agent integrations, and source code, to understand typed decisions instead of free text generation.</p>
+<p><strong>中文摘要：</strong>这是一个关于 TypeSafe Jev 模型的精选列表，涵盖 33 个项目的演示、技能、代理集成及源代码，帮助理解类型化决策而非自由文本生成。</p>
+<p><strong>Human Coders</strong> · @humancoders · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/humancoders/status/2104894105503363520">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/jiemeshuai/status/2104795148312043814"><img src="https://pbs.twimg.com/media/HTW8B0EbwAAvJ-l?format=jpg&amp;name=medium" alt="TypeSafe AI Official GitHub Repository · 原帖图片" width="100%"></a>
 <br>
 <sub><code>开发资源</code> <code>原帖图片</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/jiemeshuai/status/2104795148312043814">在 X 查看原帖</a> · <a href="https://t.co/71hJK8SCT4">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Gael_DDOS/status/2104771974560145722"><img src="https://pbs.twimg.com/media/HTWm80YXkAAmLB9?format=png&amp;name=medium" alt="Open-source Jev-format judge model fine-tuning recipe · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/Gael_DDOS/status/2104771974560145722">在 X 查看原帖</a> · <a href="https://t.co/NsJQEn4jjZ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarshallsFolly/status/2104757747057299929"><img src="https://pbs.twimg.com/amplify_video_thumb/2104658834719662081/img/Q25blEs_Eg4-GDxB.jpg" alt="jevbar: Open-source library building UI dynamically with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>⚡ Marshall ⚡</strong> · @MarshallsFolly · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/MarshallsFolly/status/2104757747057299929">在 X 查看原帖</a> · <a href="https://t.co/MYItf11CNY">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/i_am_logger/status/2104888168663392648"><img src="https://pbs.twimg.com/media/HTYQUkHawAA3q_I?format=jpg&amp;name=medium" alt="pr4xis vs #JEV: Open-source local reasoning engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/i_am_logger/status/2104888168663392648">pr4xis vs #JEV: Open-source local reasoning engine</a></h3>
+<p>The post compares pr4xis with #JEV, highlighting free open source, non-commercial, local in-browser WebAssembly operation, a reasoning engine, and claims of deterministic behavior.</p>
+<p><strong>中文摘要：</strong>帖子对比 pr4xis 与 #JEV，强调免费开源、非商业、可在浏览器/WebAssembly 本地运行，定位为推理引擎，并宣称具有确定性。</p>
+<p><strong>Logger (😙🤧) 🇺🇸</strong> · @i_am_logger · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/i_am_logger/status/2104888168663392648">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2104423935496556743"><img src="https://pbs.twimg.com/media/HTRqaLuaUAAvFV1?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Official Skill Teaches Claude Code to Build on Jev · 原帖图片" width="100%"></a>

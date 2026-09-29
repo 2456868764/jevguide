@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 289 | 164 | 126 | 3.0M |
+| 293 | 166 | 128 | 3.0M |
 
 ## Showcase 卡片
 
@@ -35,6 +35,17 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2104894644278497751"><img src="https://pbs.twimg.com/amplify_video_thumb/2104894603556003840/img/i3Ld0EPUjUlH2Rva.jpg" alt="Jev + Grok bot: deciding whether an event deserves generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gippp69/status/2104894644278497751">Jev + Grok bot: deciding whether an event deserves generation</a></h3>
+<p>The post highlights using jev with a Grok bot, arguing the key is deciding whether an event deserves generation, with Jev returning lane, urgency, and evidence in parallel in ~100ms, plus code.</p>
+<p><strong>中文摘要：</strong>该帖子介绍 jev 与 grok bot 的组合，认为关键在于判断事件是否需要生成，而非单纯选择模型；jev 可在约 100ms 内并行返回车道、紧急程度和证据，并附代码。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-29</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 227</p>
+<p><a href="https://x.com/gippp69/status/2104894644278497751">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/Daniel_Bernath_/status/2104733075406254225"><img src="https://pbs.twimg.com/amplify_video_thumb/2104733041436631040/img/DLURB1kCn4Imn0GL.jpg" alt="Jev Monitors 900 Live Flights in the Bay Area · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>智能体</code> <code>原帖视频</code></sub>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 62</p>
 <p><a href="https://x.com/Daniel_Bernath_/status/2104733075406254225">在 X 查看原帖</a> · <a href="https://t.co/QlU8bfOup6">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xfanwu/status/2104837531921797192"><img src="https://pbs.twimg.com/amplify_video_thumb/2104622503221972993/img/tvIWbSCCtHUf-1zE.jpg" alt="Jev routing&#39;s key role in multi-model sessions · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
 <p><a href="https://x.com/xfanwu/status/2104837531921797192">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/andresvilarino/status/2104847522615189797"><img src="https://pbs.twimg.com/media/HTS75WCW4AE1o84?format=jpg&amp;name=medium" alt="20 Agentic Use Cases of TypeSafe AI&#39;s Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/andresvilarino/status/2104847522615189797">在 X 查看原帖</a> · <a href="https://t.co/pWMPWN5dO6">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/whyweru/status/2104834064108617898"><img src="https://pbs.twimg.com/media/HTXfbG8WkAAesf5?format=jpg&amp;name=900x900" alt="Got Jev running on a multi-agent harness · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,41 @@
 <p><strong>Felix Waweru</strong> · @whyweru · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><a href="https://x.com/whyweru/status/2104834064108617898">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/violoop/status/2104879336507822472"><img src="https://pbs.twimg.com/media/HTYIg6vaQAArWCp?format=jpg&amp;name=medium" alt="Violoop + Jev: Significant performance gains in computer use tests · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/violoop/status/2104879336507822472">Violoop + Jev: Significant performance gains in computer use tests</a></h3>
+<p>VIOLOOP shares computer use tests with the Jev model: their harness narrows screen state to valid actions, and Jev picks the next one. In a QuickBooks run vs Opus 5.5, it was ~7.7x faster and ~500x lower estimated model cost. The blog includes four live tests.</p>
+<p><strong>中文摘要：</strong>VIOLOOP分享了结合Jev模型的计算机使用测试：其harness将屏幕状态缩小为有效操作，由Jev选择下一步。在QuickBooks运行中与Opus 5.5相比，速度约快7.7倍，预估模型成本约低500倍。博客包含四个现场测试。</p>
+<p><strong>VIOLOOP</strong> · @violoop · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/violoop/status/2104879336507822472">在 X 查看原帖</a> · <a href="https://t.co/KqMEJFhR9z">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xL1C10G/status/2104787742643437765"><img src="https://pbs.twimg.com/media/HTW0PAxaMAE95jq?format=jpg&amp;name=medium" alt="Jev tested: about 19x faster than Gemini 3.8 Flash for agent tool routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xL1C10G/status/2104787742643437765">Jev tested: about 19x faster than Gemini 3.8 Flash for agent tool routing</a></h3>
+<p>A user shares hands-on experience with Jev, measuring about 19x faster than Gemini 3.8 Flash when determining which of 150 tools is needed for an input task. They find Jev well-suited for agent tool routing, but note that managing the Jev API separately adds operational overhead.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 试用体验，在 150 个工具中选择输入任务所需工具时，实测速度比 Gemini 3.8 Flash 快约 19 倍。认为 Jev 很适合代理工具路由，但需额外管理 Jev API，运维成本增加。</p>
+<p><strong>0xL1C10G | CAD × AI Agent</strong> · @0xL1C10G · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/0xL1C10G/status/2104787742643437765">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ikramrana/status/2104847977915552097"><img src="https://pbs.twimg.com/amplify_video_thumb/2104847779004882945/img/koyCldtFpqZkyEaZ.jpg" alt="Jev UltraFast: DOM-First Browser Agent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ikramrana/status/2104847977915552097">Jev UltraFast: DOM-First Browser Agent</a></h3>
+<p>Jev UltraFast reads the DOM directly, enabling faster browser automation in one network round trip—DOM-first, no vision model.</p>
+<p><strong>中文摘要：</strong>Jev UltraFast 直接读取 DOM，无需等待截图，一个网络往返即可完成浏览器自动化，强调 DOM-first 与无视觉模型。</p>
+<p><strong>Ikram Rana | AI Automations</strong> · @ikramrana · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/ikramrana/status/2104847977915552097">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

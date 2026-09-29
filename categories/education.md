@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 17 | 10 | 9 | 29K |
+| 19 | 11 | 10 | 29K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BenjaminHouy/status/2104883560788492298"><img src="https://pbs.twimg.com/media/HTYMcQJW0AAj4Ey?format=jpg&amp;name=medium" alt="Jev Used for Lesson Suggestions and Dialogue Practice · 原帖图片" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BenjaminHouy/status/2104883560788492298">Jev Used for Lesson Suggestions and Dialogue Practice</a></h3>
+<p>The author found a practical Jev use case: suggesting relevant lessons to users and helping them find suitable dialogues to practice.</p>
+<p><strong>中文摘要：</strong>作者发现了一个Jev的实用场景：向用户推荐合适的课程，并帮助他们找到适合练习的对话内容。</p>
+<p><strong>Benjamin Houy</strong> · @BenjaminHouy · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 143</p>
+<p><a href="https://x.com/BenjaminHouy/status/2104883560788492298">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Marc__Watkins/status/2104896182820483283"><img src="https://pbs.twimg.com/amplify_video_thumb/2104894143029723136/img/StWKC3eDA50OdNMV.jpg" alt="Teacher recreates SimCity disasters with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>教育</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Marc__Watkins/status/2104896182820483283">Teacher recreates SimCity disasters with Jev</a></h3>
+<p>Marc Watkins used Sonnet 5.5 and Jev to recreate SimCity disaster events (UFOs, Godzilla, blob). Each character makes fight, flight, or freeze decisions based on group responses, and students can use the free tier to create.</p>
+<p><strong>中文摘要：</strong>Marc Watkins 使用 Sonnet 5.5 和 Jev 重现模拟城市的灾难事件（UFO、哥斯拉、怪物）。每个角色会根据群体反应做出战斗、逃跑或僵住的决定，学生可使用免费层进行创作。</p>
+<p><strong>Marc Watkins</strong> · @Marc__Watkins · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/Marc__Watkins/status/2104896182820483283">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ukkaripon/status/2104193462979719366"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192990550151168/img/tBiMghAm1hfFm2vL.jpg" alt="DOPA English: A Jev-powered Word Learning App · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 37 | 13 | 24 | 82K |
+| 39 | 13 | 26 | 82K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CDerinbogaz/status/2104826795270783228"><img src="https://pbs.twimg.com/media/HTXYWTAWsAEBc9-?format=jpg&amp;name=medium" alt="Jev vs laya-cybersec: Stronger performance vs on-prem deployment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CDerinbogaz/status/2104826795270783228">Jev vs laya-cybersec: Stronger performance vs on-prem deployment</a></h3>
+<p>The post compares TypeSafe&#39;s hosted Jev with laya-cybersec: Jev has higher AUROC (0.98 vs 0.93), but laya-cybersec runs on your own hardware, costs nothing per call, and keeps data within your infrastructure.</p>
+<p><strong>中文摘要：</strong>帖子比较了TypeSafe托管的Jev与laya-cybersec：Jev的AUROC更高（0.98对0.93），但laya-cybersec可运行在自有硬件上，无每次调用成本且数据不离开基础设施。</p>
+<p><strong>Jay Derinbogaz</strong> · @CDerinbogaz · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/CDerinbogaz/status/2104826795270783228">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/hotjeffbezos/status/2104731483407819127"><img src="https://pbs.twimg.com/media/HTWCIPMaYAAOUwG?format=jpg&amp;name=medium" alt="Jev vs. Claude vs. GPT: CVSS Benchmark &amp; Time Savings Calculator · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>eleanor</strong> · @hotjeffbezos · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/hotjeffbezos/status/2104731483407819127">在 X 查看原帖</a> · <a href="https://t.co/nvb2WDInlo">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WarlockTome/status/2104888940729716782"><img src="https://pbs.twimg.com/media/HTNIGINaMAEb8PF?format=jpg&amp;name=medium" alt="Evaluation of Jev Model on SQL Bug Detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WarlockTome/status/2104888940729716782">Evaluation of Jev Model on SQL Bug Detection</a></h3>
+<p>The author tests Jev with handwritten samples and finds it confidently misjudges untrained SQL bugs (e.g., CROSS JOIN, missing CONCURRENTLY), with signs of overfitting.</p>
+<p><strong>中文摘要：</strong>作者通过手写样本测试 Jev，发现其对未训练过的 SQL 漏洞（如 CROSS JOIN、缺少 CONCURRENTLY）给出高置信度但错误的判断，并存在过拟合现象。</p>
+<p><strong>WTome</strong> · @WarlockTome · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/WarlockTome/status/2104888940729716782">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/brainstormity/status/2104441847162487183"><img src="https://pbs.twimg.com/media/HTR4qkVXIAAhGKn?format=jpg&amp;name=medium" alt="Real-Time Packet Analyzer Open-Sourced with TypeSafe JEV Integration · 原帖图片" width="100%"></a>

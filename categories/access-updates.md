@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 339 | 135 | 204 | 802K |
+| 341 | 135 | 206 | 802K |
 
 ## Showcase 卡片
 
@@ -55,6 +55,30 @@
 <p><strong>Jak Myers</strong> · @Jakrey · 2026-09-29</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/Jakrey/status/2104760122614677625">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EmilianSiemsia/status/2104886233440907289"><img src="https://pbs.twimg.com/media/HTYOnSdXkAAR2jH?format=png&amp;name=medium" alt="Onky AI Gets Access to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EmilianSiemsia/status/2104886233440907289">Onky AI Gets Access to Jev</a></h3>
+<p>Emilian Siemsia announces that @onkyai finally has access to Jev and promises to share results very soon.</p>
+<p><strong>中文摘要：</strong>Emilian Siemsia 宣布 @onkyai 终于可以使用 Jev，并承诺很快分享测试结果，值得期待。</p>
+<p><strong>Emilian Siemsia</strong> · @EmilianSiemsia · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/EmilianSiemsia/status/2104886233440907289">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MOulitzky/status/2104895354546049115"><img src="https://pbs.twimg.com/media/HTYXK8LXEAAuWsg?format=jpg&amp;name=medium" alt="5 New Jev Alternatives Appear on OpenRouter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MOulitzky/status/2104895354546049115">5 New Jev Alternatives Appear on OpenRouter</a></h3>
+<p>According to Maxim Oulitzky, after a few days away from AI news, 5 additional Jev alternatives have appeared on OpenRouter, showing the rapid growth of the Jev model ecosystem.</p>
+<p><strong>中文摘要：</strong>根据Maxim Oulitzky的帖子，离开AI新闻数天后，OpenRouter上已出现另外5个Jev的替代模型，显示Jev模型生态正在快速扩展。</p>
+<p><strong>Maxim Oulitzky</strong> · @MOulitzky · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/MOulitzky/status/2104895354546049115">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

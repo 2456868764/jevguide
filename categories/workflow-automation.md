@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 172 | 116 | 56 | 595K |
+| 174 | 116 | 58 | 595K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rsensui/status/2104789632328388840"><img src="https://pbs.twimg.com/media/HTW3A8saUAA2Xe5?format=jpg&amp;name=medium" alt="Jev&#39;s Second Use: Expense Sorting for Settlement Cut from 1 Day to 1.5 Hours · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rsensui/status/2104789632328388840">Jev&#39;s Second Use: Expense Sorting for Settlement Cut from 1 Day to 1.5 Hours</a></h3>
+<p>The author previously wrote that Jev wasn&#39;t needed in most places, but found a second real use: automated sorting of settlement expense requests. What used to take a full day of manual work each year was completed in about 1.5 hours this quarter.</p>
+<p><strong>中文摘要：</strong>作者曾在Jev相关文章中表示多数场景不需要，但发现第二个实际用途：决算经费申请的自动分类。以前每年花一天手工操作，本季度仅用约1.5小时完成。</p>
+<p><strong>泉水亮介 │ 大学でVibe Codingを教えてます。</strong> · @rsensui · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/rsensui/status/2104789632328388840">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/postman00112/status/2104751865384898628"><img src="https://pbs.twimg.com/media/HTWUKHTbwAAk-kD?format=jpg&amp;name=900x900" alt="Adding Jev judgment to receipt auto-ledger skill · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/postman00112/status/2104751865384898628">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nthaiapp/status/2104738516815225214"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Nth AI Tests Jev in Enterprise Workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Nth AI</strong> · @nthaiapp · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/nthaiapp/status/2104738516815225214">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rsensui/status/2104789651076894985"><img src="https://pbs.twimg.com/media/HTW3CAWacAEzK3D?format=jpg&amp;name=medium" alt="Jev Takes on the Selection Role in AI Workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rsensui/status/2104789651076894985">Jev Takes on the Selection Role in AI Workflow</a></h3>
+<p>The author had Claude Opus generate criteria in Markdown from 5 years of registration data, while Jev handles selection in the same task, illustrating a division between heavy and lightweight AI.</p>
+<p><strong>中文摘要：</strong>作者让Claude Opus基于5年注册数据用Markdown生成判断标准，并在同一工作中由Jev负责选择，展示了重AI与轻AI的分工。</p>
+<p><strong>泉水亮介 │ 大学でVibe Codingを教えてます。</strong> · @rsensui · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/rsensui/status/2104789651076894985">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

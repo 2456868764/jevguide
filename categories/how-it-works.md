@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 415 | 180 | 236 | 1.6M |
+| 419 | 181 | 239 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rsensui/status/2104789656961524144"><img src="https://pbs.twimg.com/media/HTW3CZFaAAEMgxM?format=jpg&amp;name=medium" alt="Jev&#39;s Confidence Score and Contextual Differences · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rsensui/status/2104789656961524144">Jev&#39;s Confidence Score and Contextual Differences</a></h3>
+<p>The user discusses that confidence below 80-90 in Jev indicates hesitation and returns the task to the user, noting that this is not a true probability but a judgment based on given context, which differs from the user&#39;s own context.</p>
+<p><strong>中文摘要：</strong>用户讨论Jev中80-90以下的置信度表示犹豫并将任务返回给用户，同时指出该置信度并非真实概率，而是基于所给上下文的判断，与用户自身的上下文不同。</p>
+<p><strong>泉水亮介 │ 大学でVibe Codingを教えてます。</strong> · @rsensui · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/rsensui/status/2104789656961524144">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AlbertW24045555/status/2104791909348868411"><img src="https://pbs.twimg.com/media/HTW3eifbUAA2cu6?format=png&amp;name=medium" alt="Jev-LDE Training Mechanism Explained · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlbertW24045555/status/2104791909348868411">Jev-LDE Training Mechanism Explained</a></h3>
+<p>Describes how Jev-LDE is trained via RL with the target LLM as judge, using GRPO and no edit labels, improving 1-shot TREC from 31.2 to 65.6.</p>
+<p><strong>中文摘要：</strong>介绍Jev-LDE通过RL训练，以目标LLM作为评判者，无需编辑标签，使用GRPO奖励正确性，将1-shot TREC性能从31.2提升至65.6。</p>
+<p><strong>Dr. Cheems Wang 🏡</strong> · @AlbertW24045555 · 2026-09-29</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
+<p><a href="https://x.com/AlbertW24045555/status/2104791909348868411">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heyzhuhry/status/2104737929281323147"><img src="https://pbs.twimg.com/media/HTT-FxhbIAAm7Cv?format=jpg&amp;name=medium" alt="How Jev Answers in Parallel · 原帖图片" width="100%"></a>
@@ -31,6 +55,30 @@
 <p><strong>Shawn</strong> · @smsehy · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
 <p><a href="https://x.com/smsehy/status/2104750358430175410">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tomo_ai_agent/status/2104797562381259185"><img src="https://pbs.twimg.com/media/HTW-OmnXEAAaKBq?format=jpg&amp;name=medium" alt="Jev: An AI That Returns Only Judgments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tomo_ai_agent/status/2104797562381259185">Jev: An AI That Returns Only Judgments</a></h3>
+<p>The post notes that Jev differs from traditional LLMs by not generating text but only returning judgments, drawing an analogy to how we instruct LLMs.</p>
+<p><strong>中文摘要：</strong>该帖指出Jev与传统的LLM不同，不生成文本，仅返回判断结果，并类比了LLM的指令模式。</p>
+<p><strong>Tomo｜AIエージェント実装</strong> · @tomo_ai_agent · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/tomo_ai_agent/status/2104797562381259185">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/coindotgo/status/2104794296897683814"><img src="https://pbs.twimg.com/amplify_video_thumb/2103610863605465088/img/lK7ZN1DaY0BqErJw.jpg" alt="Jev on OpenRouter: State Construction Is Key to Routing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/coindotgo/status/2104794296897683814">Jev on OpenRouter: State Construction Is Key to Routing</a></h3>
+<p>Discusses routing challenges for the Jev model on OpenRouter, noting prompts hide codebases, tools, and constraints. The real difficulty lies in state construction, quoting @theo: state construction is part of routing.</p>
+<p><strong>中文摘要：</strong>讨论OpenRouter上Jev模型的路由难点，指出提示词隐藏了代码库、工具和约束，真正的挑战在于状态构建，并引用@theo的观点：状态构建本身就是路由的一部分。</p>
+<p><strong>coindotgo</strong> · @coindotgo · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/coindotgo/status/2104794296897683814">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

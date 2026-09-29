@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 248 | 96 | 152 | 419K |
+| 250 | 96 | 154 | 419K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Simon Meng</strong> · @meng_shengyu · 2026-09-29</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/meng_shengyu/status/2104722830147334585">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jiemeshuai/status/2104795148312043814"><img src="https://pbs.twimg.com/media/HTW8B0EbwAAvJ-l?format=jpg&amp;name=medium" alt="TypeSafe AI Official GitHub Repository · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jiemeshuai/status/2104795148312043814">TypeSafe AI Official GitHub Repository</a></h3>
+<p>This is the official GitHub repository for TypeSafe AI, suitable for developers building with Jev.</p>
+<p><strong>中文摘要：</strong>这是TypeSafe AI的官方GitHub仓库，适合使用Jev进行开发构建的开发者。</p>
+<p><strong>Aaron</strong> · @jiemeshuai · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/jiemeshuai/status/2104795148312043814">在 X 查看原帖</a> · <a href="https://t.co/71hJK8SCT4">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Gael_DDOS/status/2104771974560145722"><img src="https://pbs.twimg.com/media/HTWm80YXkAAmLB9?format=png&amp;name=medium" alt="Open-source Jev-format judge model fine-tuning recipe · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Gael_DDOS/status/2104771974560145722">Open-source Jev-format judge model fine-tuning recipe</a></h3>
+<p>The Jeff project offers 0.8B/2B/Gemma4-E2B models under Apache-2.0 to train your own Jev-format judge in one pass; plain-words options give calibrated odds in ~22 ms; the fine-tuning recipe lifts held-out accuracy from 31.7% to 95.8% in 30 minutes.</p>
+<p><strong>中文摘要：</strong>Jeff 项目提供 0.8B/2B/Gemma4-E2B（Apache-2.0）模型，可在一次前向传播中训练自定义 Jev 格式评判器；支持 plain-words 选项获得校准概率，约 22 毫秒；微调配方在 30 分钟内将 held-out 准确率从 31.7% 提升到 95.8%。</p>
+<p><strong>Gaël Caporale</strong> · @Gael_DDOS · 2026-09-29</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Gael_DDOS/status/2104771974560145722">在 X 查看原帖</a> · <a href="https://t.co/NsJQEn4jjZ">原文链接</a></p>
 </td>
 </tr>
 <tr>

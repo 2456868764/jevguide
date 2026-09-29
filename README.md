@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>3921</strong><br>curated posts</td>
-<td align="center"><strong>2060</strong><br>original videos</td>
+<td align="center"><strong>3944</strong><br>curated posts</td>
+<td align="center"><strong>2067</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>574</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>580</strong> showcases · <strong>234</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>415</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>419</strong> showcases · <strong>181</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>404</strong> showcases · <strong>219</strong> videos</p>
+<p><strong>407</strong> showcases · <strong>220</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>306</strong> showcases · <strong>232</strong> videos</p>
+<p><strong>307</strong> showcases · <strong>232</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>285</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>286</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>248</strong> showcases · <strong>96</strong> videos</p>
+<p><strong>250</strong> showcases · <strong>96</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>172</strong> showcases · <strong>116</strong> videos</p>
+<p><strong>174</strong> showcases · <strong>116</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>91</strong> showcases · <strong>50</strong> videos</p>
+<p><strong>92</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>59</strong> showcases · <strong>22</strong> videos</p>
+<p><strong>62</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -213,30 +213,30 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/GitHub_Daily/status/2104783256415854712"><img src="https://pbs.twimg.com/media/HTWxND6aIAATSO7?format=jpg&amp;name=medium" alt="Fast Browser Use: A Local Browser Agent Based on Open-Source Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GitHub_Daily/status/2104783256415854712">Fast Browser Use: A Local Browser Agent Based on Open-Source Models</a></h3>
+<p>Browser Use previously integrated Jev to enable agents to operate browsers. Now the APUS team has brought this approach locally using the open-source Qwen3.5. The project, called Fast Browser Use, first scans the page.</p>
+<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.1K</p>
+<p><strong>GitHubDaily</strong> · @GitHub_Daily</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/simplifyinAI/status/2104777780206698697"><img src="https://pbs.twimg.com/media/HTWsNc7bQAALPoZ?format=jpg&amp;name=medium" alt="Prompt to Install Jev into Coding Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/simplifyinAI/status/2104777780206698697">Prompt to Install Jev into Coding Agents</a></h3>
+<p>Send this Jev prompt to any coding agent you already use to install Jev, audit your workflow, and identify where tokens are wasted on unnecessary decisions.</p>
+<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
+<p><strong>Simplifying AI</strong> · @simplifyinAI</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/platzi/status/2104726851138605477"><img src="https://pbs.twimg.com/media/HTV96dWWEAAkTOp?format=jpg&amp;name=medium" alt="TypeSafe AI Launches New Model Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/platzi/status/2104726851138605477">TypeSafe AI Launches New Model Jev</a></h3>
 <p>Jev doesn&#39;t write text; it takes information and returns decisions with probabilities. It can be used to review other AI agents&#39; actions before they act. Launched on September 15 by Diogo Almeida.</p>
 <p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
 <p><strong>Platzi</strong> · @platzi</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/JulianGoldieSEO/status/2104722825953394895"><img src="https://pbs.twimg.com/amplify_video_thumb/2104588819274285056/img/GLSbmNvS7XMDPyXS.jpg" alt="Automate AI Content Checks with Jev: Review Only Weak Drafts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">Automate AI Content Checks with Jev: Review Only Weak Drafts</a></h3>
-<p>Jev can run yes/no checks including search intent, missing sources, bad internal links, and rule breaks. High-confidence drafts move on, while weak ones go to review. This post introduces the workflow with an optional SOP.</p>
-<p><strong>783</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 783</p>
-<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
-<a href="https://x.com/RNR_0/status/2104772418967367882"><img src="https://pbs.twimg.com/media/HTWmI7bXsAEk7hZ?format=png&amp;name=medium" alt="Developer uses Jev to normalize code comments · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RNR_0/status/2104772418967367882">Developer uses Jev to normalize code comments</a></h3>
-<p>A developer calls Jev the most overhyped model of the week, yet uses it to rewrite code comments into short, jargon-free telegraphic style, noting that no lint rule exists yet.</p>
-<p><strong>762</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 762</p>
-<p><strong>Romano</strong> · @RNR_0</p>
 </td>
 </tr>
 </table>
@@ -303,30 +303,30 @@ Start with verified Jev posts.
 <p><strong>TypeSafe AI</strong> · @typesafeai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
-<a href="https://x.com/RNR_0/status/2104772418967367882"><img src="https://pbs.twimg.com/media/HTWmI7bXsAEk7hZ?format=png&amp;name=medium" alt="Developer uses Jev to normalize code comments · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RNR_0/status/2104772418967367882">Developer uses Jev to normalize code comments</a></h3>
-<p>A developer calls Jev the most overhyped model of the week, yet uses it to rewrite code comments into short, jargon-free telegraphic style, noting that no lint rule exists yet.</p>
-<p><strong>762</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 762</p>
-<p><strong>Romano</strong> · @RNR_0</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/platzi/status/2104726851138605477"><img src="https://pbs.twimg.com/media/HTV96dWWEAAkTOp?format=jpg&amp;name=medium" alt="TypeSafe AI Launches New Model Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/platzi/status/2104726851138605477">TypeSafe AI Launches New Model Jev</a></h3>
+<p>Jev doesn&#39;t write text; it takes information and returns decisions with probabilities. It can be used to review other AI agents&#39; actions before they act. Launched on September 15 by Diogo Almeida.</p>
+<p><strong>1.0K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.0K</p>
+<p><strong>Platzi</strong> · @platzi</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/BenLesh/status/2104742996399030404"><img src="https://pbs.twimg.com/tweet_video_thumb/HTWMmPtbMAAfsPT.jpg" alt="Ben Lesh jokes about typesafe/jev-router usage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/BenLesh/status/2104742996399030404">Ben Lesh jokes about typesafe/jev-router usage</a></h3>
-<p>The post says typesafe/jev-router is basically &#39;Use Astra at high reasoning 99% of the time&#39; with laughing emojis, a lighthearted take on the Jev-related router tool.</p>
-<p><strong>706</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 706</p>
-<p><strong>Ben Lesh</strong> · @BenLesh</p>
+<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/JulianGoldieSEO/status/2104722825953394895"><img src="https://pbs.twimg.com/amplify_video_thumb/2104588819274285056/img/GLSbmNvS7XMDPyXS.jpg" alt="Automate AI Content Checks with Jev: Review Only Weak Drafts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/JulianGoldieSEO/status/2104722825953394895">Automate AI Content Checks with Jev: Review Only Weak Drafts</a></h3>
+<p>Jev can run yes/no checks including search intent, missing sources, bad internal links, and rule breaks. High-confidence drafts move on, while weak ones go to review. This post introduces the workflow with an optional SOP.</p>
+<p><strong>783</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 783</p>
+<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/0x0SojalSec/status/2104745093806837770"><img src="https://pbs.twimg.com/media/HTWOYmqa4AA5Vq7?format=jpg&amp;name=900x900" alt="Unsloth Adds Layaan, an Open Jev Alternative · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0x0SojalSec/status/2104745093806837770">Unsloth Adds Layaan, an Open Jev Alternative</a></h3>
-<p>The post introduces Unsloth&#39;s integration of Layaan, an open alternative to the Jev model. This decision model converts text into yes/no, choices, or scores with probabilities. The multilingual model is only 678MB, runs locally with 4GB RAM, and supports CPU, Mac, Windows, Linux, and GPU.</p>
-<p><strong>305</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 305</p>
-<p><strong>Md Ismail Šojal 🕷️</strong> · @0x0SojalSec</p>
+<a href="https://x.com/brandonjcarl/status/2104758740868280524"><img src="https://pbs.twimg.com/media/HTWaVz3W4AE-4bI?format=jpg&amp;name=medium" alt="Jev stands out in budget LLM benchmark · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/brandonjcarl/status/2104758740868280524">Jev stands out in budget LLM benchmark</a></h3>
+<p>The author benchmarked budget LLMs and found Luna dominates overall, but Jev performs just as well on text tasks, with 30x faster speed and 30x lower cost.</p>
+<p><strong>581</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 581</p>
+<p><strong>Brandon Carl</strong> · @brandonjcarl</p>
 </td>
 </tr>
 </table>

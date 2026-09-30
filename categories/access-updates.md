@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 344 | 135 | 209 | 802K |
+| 346 | 137 | 209 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DooByte/status/2105148722787360979"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev is now available as an API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DooByte/status/2105148722787360979">Jev is now available as an API</a></h3>
+<p>The post notes that Jev is now just an API, indicating its integration is focused on API form.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 现在只是一个 API，表明其接入方式已聚焦于 API 形态。</p>
+<p><strong>DooByte</strong> · @DooByte · 2026-09-30T04:12:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/DooByte/status/2105148722787360979">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tuzuminami/status/2105135589024780594"><img src="https://pbs.twimg.com/amplify_video_thumb/2105102784895102976/img/ZBNqW7EsQEMM-exQ.jpg" alt="Good news for those who missed Jev: Decisions API coming to Azure · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tuzuminami/status/2105135589024780594">Good news for those who missed Jev: Decisions API coming to Azure</a></h3>
+<p>The author, who was unable to register for Jev, looks forward to the rollout of the Decisions API on Azure.</p>
+<p><strong>中文摘要：</strong>作者作为 Jev 注册未通过的开发者，对 Azure 上 Decisions API 的推出表示期待。</p>
+<p><strong>Minami Tuzumi</strong> · @tuzuminami · 2026-09-30T03:20:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><a href="https://x.com/tuzuminami/status/2105135589024780594">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kronk_AI/status/2104914067571802281"><img src="https://pbs.twimg.com/media/HTYoJw4WUAElNbB?format=jpg&amp;name=medium" alt="Jev-based decision API coming to Kronk this week · 原帖图片" width="100%"></a>

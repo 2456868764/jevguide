@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 291 | 142 | 152 | 1.1M |
+| 295 | 143 | 155 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_abe_shunya/status/2105146968146096637"><img src="https://pbs.twimg.com/media/HTb8Ar9W8AEeslk?format=jpg&amp;name=medium" alt="OpenAI announces Decisions API as a Jev alternative · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ai_abe_shunya/status/2105146968146096637">OpenAI announces Decisions API as a Jev alternative</a></h3>
+<p>A tweet by Hayata Abe summarizes today&#39;s OpenAI DevDay announcements: Dots personal AI assistant, a $500/month plan (Astra Ultrafast), GPT-6.1 Sol, and Decisions API — an image-recognition-capable product positioned as a Jev alternative.</p>
+<p><strong>中文摘要：</strong>阿部隼也的推文总结了今日OpenAI DevDay的发布：Dots个人AI助手、月费500美元计划（Astra Ultrafast）、GPT-6.1 Sol，以及Decisions API——支持图像识别、被视为Jev替代的产品。</p>
+<p><strong>阿部 隼也</strong> · @ai_abe_shunya · 2026-09-30T04:05:23.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/ai_abe_shunya/status/2105146968146096637">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/illulachy_/status/2105141190345850937"><img src="https://pbs.twimg.com/media/HTb2t4la8AAkocY?format=jpg&amp;name=medium" alt="OpenAI DevDay Recap Mentions Jev Clone · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/illulachy_/status/2105141190345850937">OpenAI DevDay Recap Mentions Jev Clone</a></h3>
+<p>This post is Lachy&#39;s recap of OpenAI DevDay, listing announcements and explicitly mentioning &quot;a clone of Jev,&quot; directly linking to TypeSafe&#39;s Jev model ecosystem.</p>
+<p><strong>中文摘要：</strong>帖文是Lachy对OpenAI DevDay的总结，列举多项发布内容，其中明确提到「a clone of Jev」，直接关联TypeSafe Jev模型生态。</p>
+<p><strong>Lachy</strong> · @illulachy_ · 2026-09-30T03:42:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 45</p>
+<p><a href="https://x.com/illulachy_/status/2105141190345850937">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Secretof_forest/status/2105136265549218270"><img src="https://pbs.twimg.com/media/HTbxtaPaEAACnrj?format=jpg&amp;name=medium" alt="Liquid AI releases d1, claims it outperforms Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Secretof_forest/status/2105136265549218270">Liquid AI releases d1, claims it outperforms Jev</a></h3>
+<p>Liquid AI released d1, its first decision model with calibrated probabilities and zero generated output tokens. Vendor reports it is the first to outperform Jev on Hugging Face&#39;s Decision Index. d1 is free in Liquid&#39;s API, with OpenRouter next.</p>
+<p><strong>中文摘要：</strong>Liquid AI 发布了其首款决策模型 d1，采用校准概率输出且不生成输出 token。厂商称其在 Hugging Face Decision Index 上首次超越 Jev。d1 已在 Liquid API 中免费开放，接下来将上线 OpenRouter。</p>
+<p><strong>AI_Pioneer</strong> · @Secretof_forest · 2026-09-30T03:22:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/Secretof_forest/status/2105136265549218270">在 X 查看原帖</a> · <a href="https://t.co/yocOFZclVL">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Scobleizer/status/2105117116789911743"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="OpenAI Launches Competitor to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Scobleizer/status/2105117116789911743">OpenAI Launches Competitor to Jev</a></h3>
+<p>Robert Scoble reports that OpenAI launched a product competing with Jev today.</p>
+<p><strong>中文摘要：</strong>据Robert Scoble发文，OpenAI今日发布了一款与Jev竞争的产品。</p>
+<p><strong>Robert Scoble</strong> · @Scobleizer · 2026-09-30</p>
+<p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 30 &nbsp; 📊 9.7K</p>
+<p><a href="https://x.com/Scobleizer/status/2105117116789911743">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/osarupolice/status/2105123274862874988"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev for ChatGPT Released · 原帖视频截图" width="100%"></a>

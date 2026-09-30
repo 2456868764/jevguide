@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 302 | 170 | 133 | 3.0M |
+| 304 | 171 | 134 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rickwong888/status/2105137152350949501"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="Jev: A Near Real-Time, Training-Free Intelligence Primitive · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rickwong888/status/2105137152350949501">Jev: A Near Real-Time, Training-Free Intelligence Primitive</a></h3>
+<p>Rick Wong praises Jev as an amazing primitive that delivers meaningful, near real-time, and cheap intelligence without training.</p>
+<p><strong>中文摘要：</strong>Rick Wong称赞Jev是一个了不起的原语，能提供有意义、近实时、低成本的智能，而且无需训练。</p>
+<p><strong>Rick Wong</strong> · @rickwong888 · 2026-09-30T03:26:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/rickwong888/status/2105137152350949501">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/wquguru/status/2105123302973030776"><img src="https://pbs.twimg.com/amplify_video_thumb/2105122402296541184/img/l5RhHiGLojau8e5G.jpg" alt="OpenAI Decisions API Sparks Discussion, Jev Compared · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 271</p>
 <p><a href="https://x.com/wquguru/status/2105123302973030776">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cortexist/status/2105128501019877872"><img src="https://pbs.twimg.com/media/HTbpBxZWYAAQEHA?format=jpg&amp;name=medium" alt="Jev vs d1: Multi-Speaker Turn-Taking Evaluation · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Cortexist</strong> · @cortexist · 2026-09-30</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/cortexist/status/2105128501019877872">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/myuan95/status/2105126287799132310"><img src="https://pbs.twimg.com/media/HTbpA1kakAAmEt9?format=png&amp;name=small" alt="Jev&#39;s Promise in Table Navigation and Context Challenges · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/myuan95/status/2105126287799132310">Jev&#39;s Promise in Table Navigation and Context Challenges</a></h3>
+<p>User feedback: Jev is quite good at identifying relevant columns and rows, but still needs work on selecting the exact context to avoid missing key information that forces the agent to re-read the whole spreadsheet.</p>
+<p><strong>中文摘要：</strong>用户反馈 Jev 能较好定位相关列和行，但在选取精确上下文上仍有不足，需避免遗漏关键信息导致 Agent 重新读取整个表格。</p>
+<p><strong>Michael Yuan</strong> · @myuan95 · 2026-09-30</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/myuan95/status/2105126287799132310">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

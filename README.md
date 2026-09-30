@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4143</strong><br>curated posts</td>
-<td align="center"><strong>2138</strong><br>original videos</td>
+<td align="center"><strong>4162</strong><br>curated posts</td>
+<td align="center"><strong>2150</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>639</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>643</strong> showcases · <strong>263</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>430</strong> showcases · <strong>185</strong> videos</p>
+<p><strong>433</strong> showcases · <strong>187</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>344</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>346</strong> showcases · <strong>137</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>313</strong> showcases · <strong>236</strong> videos</p>
+<p><strong>316</strong> showcases · <strong>239</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>302</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>304</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>291</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>295</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>91</strong> showcases · <strong>50</strong> videos</p>
+<p><strong>92</strong> showcases · <strong>50</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/jerryjliu0/status/2105130496921628882"><img src="https://pbs.twimg.com/amplify_video_thumb/2105130459256721409/img/q_IvCOyMVO4hjNpL.jpg" alt="Benchmarking Jev on Document Tasks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jerryjliu0/status/2105130496921628882">Benchmarking Jev on Document Tasks</a></h3>
-<p>Jerry Liu explains System One models&#39; usefulness for fast document decisions (orientation detection, language detection, classification, splitting) and mentions benchmarking Jev against other OSS models.</p>
-<p><strong>471</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 471</p>
-<p><strong>Jerry Liu</strong> · @jerryjliu0</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/DooByte/status/2105148722787360979"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev is now available as an API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DooByte/status/2105148722787360979">Jev is now available as an API</a></h3>
+<p>The post notes that Jev is now just an API, indicating its integration is focused on API form.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>DooByte</strong> · @DooByte</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/wquguru/status/2105123302973030776"><img src="https://pbs.twimg.com/amplify_video_thumb/2105122402296541184/img/l5RhHiGLojau8e5G.jpg" alt="OpenAI Decisions API Sparks Discussion, Jev Compared · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/wquguru/status/2105123302973030776">OpenAI Decisions API Sparks Discussion, Jev Compared</a></h3>
-<p>A netizen comments that OpenAI&#39;s Decisions API makes 13 decisions in 10 seconds with vision capabilities, putting pressure on Jev.</p>
-<p><strong>271</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 271</p>
-<p><strong>WquGuru</strong> · @wquguru</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ai_abe_shunya/status/2105146968146096637"><img src="https://pbs.twimg.com/media/HTb8Ar9W8AEeslk?format=jpg&amp;name=medium" alt="OpenAI announces Decisions API as a Jev alternative · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ai_abe_shunya/status/2105146968146096637">OpenAI announces Decisions API as a Jev alternative</a></h3>
+<p>A tweet by Hayata Abe summarizes today&#39;s OpenAI DevDay announcements: Dots personal AI assistant, a $500/month plan (Astra Ultrafast), GPT-6.1 Sol, and Decisions API — an image-recognition-capable product positioned as a Jev alternative.</p>
+<p><strong>36</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><strong>阿部 隼也</strong> · @ai_abe_shunya</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/oliviscusAI/status/2105129565844918647"><img src="https://pbs.twimg.com/media/HTbqp1ZbgAAEDQn?format=jpg&amp;name=medium" alt="Jev ties larger models on science benchmark · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/oliviscusAI/status/2105129565844918647">Jev ties larger models on science benchmark</a></h3>
-<p>According to a community post, Jev scored a perfect 100 on a real scientific benchmark, matching much larger models while being the cheapest and fastest option by a wide margin.</p>
-<p><strong>241</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 241</p>
-<p><strong>Oliver Prompts</strong> · @oliviscusAI</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/taziku_co/status/2105143395798929409"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI Decisions API Said to Resemble Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/taziku_co/status/2105143395798929409">OpenAI Decisions API Said to Resemble Jev</a></h3>
+<p>Tanaka Yoshihiro comments on OpenAI&#39;s new Decisions API, which uses predefined question-answer candidates for real-time decisions, aligning with the path Jev pioneered—not generation but judgment—signaling OpenAI&#39;s entry into this domain.</p>
+<p><strong>320</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 320</p>
+<p><strong>田中義弘 | taziku CEO / AI × Creative</strong> · @taziku_co</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/SakuSaku23TOP8/status/2105124351658070252"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI version of Jev sparks speed discussion · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SakuSaku23TOP8/status/2105124351658070252">OpenAI version of Jev sparks speed discussion</a></h3>
-<p>A middle school student notes Jev is optimized for rapid decisions and wonders if LLM-based models can be faster.</p>
-<p><strong>231</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 231</p>
-<p><strong>サクサク@中学3年生</strong> · @SakuSaku23TOP8</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/troygentic/status/2105143150050246869"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Custom Jev-style model playing Diablo II at 20Hz · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/troygentic/status/2105143150050246869">Custom Jev-style model playing Diablo II at 20Hz</a></h3>
+<p>Troy shares his custom fine-tuned local Jev-style decision model running Diablo II with 20Hz decision making, saying possibilities are endless.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Troy</strong> · @troygentic</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/jerryjliu0/status/2105130496921628882"><img src="https://pbs.twimg.com/amplify_video_thumb/2105130459256721409/img/q_IvCOyMVO4hjNpL.jpg" alt="Benchmarking Jev on Document Tasks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jerryjliu0/status/2105130496921628882">Benchmarking Jev on Document Tasks</a></h3>
-<p>Jerry Liu explains System One models&#39; usefulness for fast document decisions (orientation detection, language detection, classification, splitting) and mentions benchmarking Jev against other OSS models.</p>
-<p><strong>471</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 471</p>
-<p><strong>Jerry Liu</strong> · @jerryjliu0</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/DooByte/status/2105148722787360979"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev is now available as an API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DooByte/status/2105148722787360979">Jev is now available as an API</a></h3>
+<p>The post notes that Jev is now just an API, indicating its integration is focused on API form.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>DooByte</strong> · @DooByte</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/SakuSaku23TOP8/status/2105124351658070252"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI version of Jev sparks speed discussion · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SakuSaku23TOP8/status/2105124351658070252">OpenAI version of Jev sparks speed discussion</a></h3>
-<p>A middle school student notes Jev is optimized for rapid decisions and wonders if LLM-based models can be faster.</p>
-<p><strong>231</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 231</p>
-<p><strong>サクサク@中学3年生</strong> · @SakuSaku23TOP8</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/troygentic/status/2105143150050246869"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Custom Jev-style model playing Diablo II at 20Hz · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/troygentic/status/2105143150050246869">Custom Jev-style model playing Diablo II at 20Hz</a></h3>
+<p>Troy shares his custom fine-tuned local Jev-style decision model running Diablo II with 20Hz decision making, saying possibilities are endless.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Troy</strong> · @troygentic</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/SemiAnalysis_/status/2105130564214731206"><img src="https://pbs.twimg.com/media/HTbtFwXWgAAp3SH?format=jpg&amp;name=medium" alt="Five days after Jev&#39;s launch, a benchmarking preprint appeared; nine days later, a claimed ICLR 2027 submission · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/SemiAnalysis_/status/2105130564214731206">Five days after Jev&#39;s launch, a benchmarking preprint appeared; nine days later, a claimed ICLR 2027 submission</a></h3>
-<p>SemiAnalysis cites Jev: launched Sep 15, benchmarked in a preprint by Sep 20, with more papers on Sep 21, 22 and 24. The Sep 24 PDF says it is under review at ICLR 2027. Research is moving on product time.</p>
-<p><strong>230</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 230</p>
-<p><strong>SemiAnalysis</strong> · @SemiAnalysis_</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/troygentic/status/2105143044848943512"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Custom fine-tuned Jev-style decision model plays Diablo II · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/troygentic/status/2105143044848943512">Custom fine-tuned Jev-style decision model plays Diablo II</a></h3>
+<p>Troy shares his locally fine-tuned Jev-style decision model playing Diablo II at 20Hz decision-making, with a paper planned.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Troy</strong> · @troygentic</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/troygentic/status/2105121709213037028"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Jev-style decision model playing Diablo II in real time · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/troygentic/status/2105121709213037028">Jev-style decision model playing Diablo II in real time</a></h3>
-<p>The author built a custom Jev-style decision model applied in real time to Diablo II, and plans to release a paper on it soon.</p>
-<p><strong>49</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
-<p><strong>Troy</strong> · @troygentic</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/rickwong888/status/2105137152350949501"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="Jev: A Near Real-Time, Training-Free Intelligence Primitive · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rickwong888/status/2105137152350949501">Jev: A Near Real-Time, Training-Free Intelligence Primitive</a></h3>
+<p>Rick Wong praises Jev as an amazing primitive that delivers meaningful, near real-time, and cheap intelligence without training.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><strong>Rick Wong</strong> · @rickwong888</p>
 </td>
 </tr>
 </table>

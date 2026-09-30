@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 639 | 260 | 383 | 3.0M |
+| 643 | 263 | 384 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taziku_co/status/2105143395798929409"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI Decisions API Said to Resemble Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/taziku_co/status/2105143395798929409">OpenAI Decisions API Said to Resemble Jev</a></h3>
+<p>Tanaka Yoshihiro comments on OpenAI&#39;s new Decisions API, which uses predefined question-answer candidates for real-time decisions, aligning with the path Jev pioneered—not generation but judgment—signaling OpenAI&#39;s entry into this domain.</p>
+<p><strong>中文摘要：</strong>田中義弘评论OpenAI新发布的Decisions API，认为其采用预定义问答候选进行实时判断，与Jev开创的‘生成而非判断’路径一致，标志OpenAI正式进入该领域。</p>
+<p><strong>田中義弘 | taziku CEO / AI × Creative</strong> · @taziku_co · 2026-09-30T03:51:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 320</p>
+<p><a href="https://x.com/taziku_co/status/2105143395798929409">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sabopapapa/status/2105138558311059699"><img src="https://pbs.twimg.com/amplify_video_thumb/2104923521629757440/img/pzj6ABViwlCQnucv.jpg" alt="Jev Brings TypeSafe Concept into the ChatGPT World · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sabopapapa/status/2105138558311059699">Jev Brings TypeSafe Concept into the ChatGPT World</a></h3>
+<p>The post notes that bringing the TypeSafe concept into the ChatGPT domain is Jev&#39;s game-changer, highlighting it as a feature long desired by developers, with continued evolution expected.</p>
+<p><strong>中文摘要：</strong>该帖指出，将TypeSafe概念引入ChatGPT领域是Jev的变革性亮点，并认为这是开发工程师一直渴望的功能，未来将持续演进。</p>
+<p><strong>sabopapa@AIと副業</strong> · @sabopapapa · 2026-09-30T03:31:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 73</p>
+<p><a href="https://x.com/sabopapapa/status/2105138558311059699">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bt_sofia_ai/status/2105138055338410160"><img src="https://pbs.twimg.com/amplify_video_thumb/2105094315110436864/img/jvGmwboMQNyf3ZCu.jpg" alt="Community Take: JEV Was Nothing Special, but Marketing Gave Cheap Open Models a Place · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bt_sofia_ai/status/2105138055338410160">Community Take: JEV Was Nothing Special, but Marketing Gave Cheap Open Models a Place</a></h3>
+<p>A community remark about the JEV model, claiming it is not particularly special while acknowledging that its marketing helped low-cost open models gain attention.</p>
+<p><strong>中文摘要：</strong>一条关于JEV模型的社区反馈，认为其本身并无突出之处，但感谢相关营销让低成本开源模型获得关注。</p>
+<p><strong>wyswyswys</strong> · @bt_sofia_ai · 2026-09-30T03:29:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/bt_sofia_ai/status/2105138055338410160">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/oliviscusAI/status/2105129565844918647"><img src="https://pbs.twimg.com/media/HTbqp1ZbgAAEDQn?format=jpg&amp;name=medium" alt="Jev ties larger models on science benchmark · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 241</p>
 <p><a href="https://x.com/oliviscusAI/status/2105129565844918647">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pipix1121/status/2105121752426893692"><img src="https://pbs.twimg.com/media/HTbktM9bcAAkFBk?format=png&amp;name=small" alt="Self-made Jev clone ERABI surpasses Laya after training · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 109</p>
 <p><a href="https://x.com/pipix1121/status/2105121752426893692">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hotchpotch/status/2105129736322375939"><img src="https://pbs.twimg.com/media/HTbsTbCbYAAMTt4?format=jpg&amp;name=medium" alt="An Ultra-Small System One Decision Model That Runs in Your Browser · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +79,19 @@
 <p><strong>セコン</strong> · @hotchpotch · 2026-09-30</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 94</p>
 <p><a href="https://x.com/hotchpotch/status/2105129736322375939">在 X 查看原帖</a> · <a href="https://t.co/wLENP7RCfr">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/childlandlord/status/2105117647675473934"><img src="https://pbs.twimg.com/media/HTbdzuDbUAAWMxZ?format=jpg&amp;name=900x900" alt="Jev-like service appears from TypeLLM.ai, enabling instant decisions from images · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/childlandlord/status/2105117647675473934">Jev-like service appears from TypeLLM.ai, enabling instant decisions from images</a></h3>
+<p>A user discovers a Jev-like service from TypeLLM.ai, which compensates for Jev&#39;s lack of vision support by making typed instant decisions directly from images, with broad use cases such as shift scheduling.</p>
+<p><strong>中文摘要：</strong>用户发现TypeLLM.ai推出类似Jev的服务，弥补了Jev不支持视觉的遗憾，可直接从图像进行类型化即时决策，用例广泛，如排班等。</p>
+<p><strong>こども大家</strong> · @childlandlord · 2026-09-30</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 51</p>
+<p><a href="https://x.com/childlandlord/status/2105117647675473934">在 X 查看原帖</a> · <a href="https://t.co/CviH9asJeb">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/AyaanBuild/status/2105121841807577358"><img src="https://pbs.twimg.com/media/HTblJ3ibQAAOpiF?format=jpg&amp;name=medium" alt="Jev Costs $0.84 for 22M Tokens? User Compares with OpenAI · 原帖图片" width="100%"></a>

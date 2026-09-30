@@ -1,9 +1,10 @@
 # Geek Lite
 
-12 Jev showcases.
+13 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T07:27:00.000Z | [Ten Levels of Jev Example Repository](https://x.com/QingQ77/status/2105197705114812493) | 开发资源 | Geek Lite | 147 |
 | 2026-09-28 | [Plugin integrating the Jev decision model with Harness](https://x.com/QingQ77/status/2104559500133069205) | 开发者工具 | Geek Lite | 261 |
 | 2026-09-25 | [Using Jev as a decision layer with evidence audit outside the LLM](https://x.com/QingQ77/status/2103299950247367003) | 社区实践 | Geek Lite | 287 |
 | 2026-09-25 | [Local CLI SEO audit tool powered by Jev](https://x.com/QingQ77/status/2103426786017312838) | 开发者工具 | Geek Lite | 244 |

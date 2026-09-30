@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4207</strong><br>curated posts</td>
-<td align="center"><strong>2173</strong><br>original videos</td>
+<td align="center"><strong>4230</strong><br>curated posts</td>
+<td align="center"><strong>2188</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>655</strong> showcases · <strong>268</strong> videos</p>
+<p><strong>662</strong> showcases · <strong>271</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>439</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>441</strong> showcases · <strong>191</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>428</strong> showcases · <strong>224</strong> videos</p>
+<p><strong>432</strong> showcases · <strong>228</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>316</strong> showcases · <strong>239</strong> videos</p>
+<p><strong>317</strong> showcases · <strong>240</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>306</strong> showcases · <strong>172</strong> videos</p>
+<p><strong>309</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>302</strong> showcases · <strong>147</strong> videos</p>
+<p><strong>303</strong> showcases · <strong>147</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>255</strong> showcases · <strong>97</strong> videos</p>
+<p><strong>257</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>121</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>122</strong> showcases · <strong>91</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>101</strong> showcases · <strong>77</strong> videos</p>
+<p><strong>102</strong> showcases · <strong>78</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>92</strong> showcases · <strong>50</strong> videos</p>
+<p><strong>93</strong> showcases · <strong>51</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/drbetulay/status/2105184161287823409"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/drbetulay/status/2105184161287823409">Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation</a></h3>
-<p>A general-purpose LLM doesn&#39;t need to make every small decision; specific narrow tasks can be handled by small decision models running locally.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
-<p><strong>Betül Ay</strong> · @drbetulay</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KyrieBlunders/status/2105201267119374809">Deciphering Jev: TypeSafe&#39;s Mysterious Model</a></h3>
+<p>The post quotes TypeSafe saying Jev is not an LLM, and recommends an in-depth article that decodes Jev to help readers understand what it truly is.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><strong>Vishal</strong> · @KyrieBlunders</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/Roheetbuilds/status/2105183994296111482"><img src="https://pbs.twimg.com/amplify_video_thumb/2105183363506282496/img/HmGVBBF9k0je-AQ4.jpg" alt="Chrome extension built with Jev to filter YouTube topics · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Roheetbuilds/status/2105183994296111482">Chrome extension built with Jev to filter YouTube topics</a></h3>
-<p>Developer Rohit shares a Chrome extension that uses TypeSafe AI&#39;s Jev model to hide or show specific YouTube topics, with a bring-your-own-API approach and an open-source repository.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Rohit</strong> · @Roheetbuilds</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/MathisHammel/status/2105200102587449444"><img src="https://pbs.twimg.com/media/HTcpuBOXMAAf4BC?format=png&amp;name=medium" alt="Evaluating Jev AI model for tweet classification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MathisHammel/status/2105200102587449444">Evaluating Jev AI model for tweet classification</a></h3>
+<p>Mathis Hammel ran a hands-on comparison of the new AI model Jev against LLMs, focusing on tweet classification. He calls the results remarkable and shares the full evaluation.</p>
+<p><strong>183</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 183</p>
+<p><strong>Mathis Hammel-Brylinski</strong> · @MathisHammel</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/WPReadingClub/status/2105183382896521314"><img src="https://pbs.twimg.com/media/HTcdIAQakAEYz2o?format=jpg&amp;name=large" alt="Jev Meetup Recap in Bangalore · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WPReadingClub/status/2105183382896521314">Jev Meetup Recap in Bangalore</a></h3>
-<p>Whitepaper Reading Club held a meetup in Bangalore, India, on &#39;Beyond Autoregression and Backprop&#39;, featuring TypeSafe AI&#39;s Jev answering typed questions in a single forward pass.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 32</p>
-<p><strong>Whitepaper Reading Club</strong> · @WPReadingClub</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
+<a href="https://x.com/o_ddoong/status/2105199689801064780"><img src="https://pbs.twimg.com/media/HTcr8oRakAAljGa?format=png&amp;name=medium" alt="Jev for Marketing Keyword Filtering: Low Cost, High Efficiency · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/o_ddoong/status/2105199689801064780">Jev for Marketing Keyword Filtering: Low Cost, High Efficiency</a></h3>
+<p>A user found that Jev can be used in marketing for broad keyword extraction and secondary classification, with an agent that knows user criteria filtering out off-topic keywords. Compared to DeepSeek, combining Jev reduces cost from a few hundred won to tens of won, with better speed.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>오뚱</strong> · @o_ddoong</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/xlei123/status/2105181515223339341"><img src="https://pbs.twimg.com/media/HTcbZjHbQAAkGTv?format=jpg&amp;name=medium" alt="Decision Models Like JEV Unlock New Possibilities for Enterprise Agent Products · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xlei123/status/2105181515223339341">Decision Models Like JEV Unlock New Possibilities for Enterprise Agent Products</a></h3>
-<p>Cloud desktops are becoming &#39;workstations&#39; for agents, shifting human-AI interaction from Q&amp;A to continuous collaboration; decision models such as Decisions API and JEV open up new opportunities for enterprise agent products.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>xlei</strong> · @xlei123</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DWisenhoff/status/2105199295557255198"><img src="https://pbs.twimg.com/amplify_video_thumb/2105199072734810112/img/ypas_CnNU6oxWP9U.jpg" alt="Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DWisenhoff/status/2105199295557255198">Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview</a></h3>
+<p>Daniel Wisenhoff announces the recording of the first episode of &quot;Automation ASMR&quot; titled &quot;My Name Is Jev&quot;. The episode discusses the new LLM model Jev, market reactions, and features a demo by Simon Kihlberg Wallström.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Daniel Wisenhoff</strong> · @DWisenhoff</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/drbetulay/status/2105184161287823409"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/drbetulay/status/2105184161287823409">Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation</a></h3>
-<p>A general-purpose LLM doesn&#39;t need to make every small decision; specific narrow tasks can be handled by small decision models running locally.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
-<p><strong>Betül Ay</strong> · @drbetulay</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KyrieBlunders/status/2105201267119374809">Deciphering Jev: TypeSafe&#39;s Mysterious Model</a></h3>
+<p>The post quotes TypeSafe saying Jev is not an LLM, and recommends an in-depth article that decodes Jev to help readers understand what it truly is.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><strong>Vishal</strong> · @KyrieBlunders</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/xlei123/status/2105181515223339341"><img src="https://pbs.twimg.com/media/HTcbZjHbQAAkGTv?format=jpg&amp;name=medium" alt="Decision Models Like JEV Unlock New Possibilities for Enterprise Agent Products · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xlei123/status/2105181515223339341">Decision Models Like JEV Unlock New Possibilities for Enterprise Agent Products</a></h3>
-<p>Cloud desktops are becoming &#39;workstations&#39; for agents, shifting human-AI interaction from Q&amp;A to continuous collaboration; decision models such as Decisions API and JEV open up new opportunities for enterprise agent products.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>xlei</strong> · @xlei123</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DWisenhoff/status/2105199295557255198"><img src="https://pbs.twimg.com/amplify_video_thumb/2105199072734810112/img/ypas_CnNU6oxWP9U.jpg" alt="Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DWisenhoff/status/2105199295557255198">Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview</a></h3>
+<p>Daniel Wisenhoff announces the recording of the first episode of &quot;Automation ASMR&quot; titled &quot;My Name Is Jev&quot;. The episode discusses the new LLM model Jev, market reactions, and features a demo by Simon Kihlberg Wallström.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Daniel Wisenhoff</strong> · @DWisenhoff</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/sidodtv/status/2105180387723141159"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Discussion on Nimble, a local model similar to Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sidodtv/status/2105180387723141159">Discussion on Nimble, a local model similar to Jev</a></h3>
-<p>The author shares a local model Nimble similar to Jev and asks whether it can run on WebGPU.</p>
-<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
-<p><strong>内田勉 DirecTune.app β公開中</strong> · @sidodtv</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/Pakgowithai/status/2105198791968068041"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama 0.35 now runs Jev-style decision models locally · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Pakgowithai/status/2105198791968068041">Ollama 0.35 now runs Jev-style decision models locally</a></h3>
+<p>Ollama 0.35 adds a /v1/systemone endpoint, letting you pull Nimble or other decision models and get typed outputs for ticket triage, model routing, or moderation—fully local with no cloud round trip.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Fahad Saleem</strong> · @Pakgowithai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/aparanjape/status/2105175329413398971"><img src="https://pbs.twimg.com/media/HTcVxThbwAA7dQ0?format=png&amp;name=medium" alt="Should You Be Using Jev, Laya, or Other &#39;System One Models&#39;? · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aparanjape/status/2105175329413398971">Should You Be Using Jev, Laya, or Other &#39;System One Models&#39;?</a></h3>
-<p>This article discusses whether Jev, Laya, and other &#39;System One Models&#39; are worth using for fast, low-cost decisions in various contexts.</p>
-<p><strong>175</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 175</p>
-<p><strong>Amit Paranjape</strong> · @aparanjape</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/biroi8/status/2105190914289262707"><img src="https://pbs.twimg.com/amplify_video_thumb/2104625562794745856/img/VHwfVVofq28SLr5Y.jpg" alt="AI Task Delegation: Jev Routes Between Claude and GPT · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/biroi8/status/2105190914289262707">AI Task Delegation: Jev Routes Between Claude and GPT</a></h3>
+<p>This setup lets users submit a request once via GrokBot. Jev selects the best model (Claude or GPT) and assigns tasks by role, while GrokBot connects the flow, avoiding reliance on a single AI.</p>
+<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
+<p><strong>Suzuki</strong> · @biroi8</p>
 </td>
 </tr>
 </table>

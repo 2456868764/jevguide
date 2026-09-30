@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 439 | 190 | 250 | 1.6M |
+| 441 | 191 | 251 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KyrieBlunders/status/2105201267119374809">Deciphering Jev: TypeSafe&#39;s Mysterious Model</a></h3>
+<p>The post quotes TypeSafe saying Jev is not an LLM, and recommends an in-depth article that decodes Jev to help readers understand what it truly is.</p>
+<p><strong>中文摘要：</strong>帖子引用 TypeSafe 称 Jev 不是 LLM，并推荐一篇深入解读 Jev 的文章，帮助读者理解其本质。</p>
+<p><strong>Vishal</strong> · @KyrieBlunders · 2026-09-30T07:41:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/KyrieBlunders/status/2105201267119374809">在 X 查看原帖</a> · <a href="https://t.co/v1KKihZIC5">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/He1s_Sammy/status/2105190583690011019"><img src="https://pbs.twimg.com/amplify_video_thumb/2105190542195699712/img/7eYZBb3YkBIPowwr.jpg" alt="Jev Founder: JEV Is the Biggest Breakthrough, Beating Everything · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/He1s_Sammy/status/2105190583690011019">Jev Founder: JEV Is the Biggest Breakthrough, Beating Everything</a></h3>
+<p>The Jev founder (ex-OpenAI) claims JEV is the biggest breakthrough and will explain in 5 minutes why older LLMs were good at talking but terrible at deciding and building.</p>
+<p><strong>中文摘要：</strong>Jev创始人（前OpenAI）声称JEV是最大突破，并将在5分钟内解释为何旧LLM擅长对话却不擅长决策与构建。</p>
+<p><strong>S ᜰ</strong> · @He1s_Sammy · 2026-09-30T06:58:42.000Z</p>
+<p>💬 6 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 797</p>
+<p><a href="https://x.com/He1s_Sammy/status/2105190583690011019">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/drbetulay/status/2105184161287823409"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation · 原帖视频截图" width="100%"></a>

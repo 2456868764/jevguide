@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 255 | 97 | 158 | 419K |
+| 257 | 98 | 159 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2105197705114812493"><img src="https://pbs.twimg.com/media/HTbX2ujbAAA5Ukn?format=jpg&amp;name=medium" alt="Ten Levels of Jev Example Repository · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2105197705114812493">Ten Levels of Jev Example Repository</a></h3>
+<p>This repository uses ten levels and thirty runnable examples to show how to integrate Jev services into different layers of an application, helping engineers locate where to use them and get started quickly.</p>
+<p><strong>中文摘要：</strong>该仓库通过十个级别、三十个可运行示例，展示如何将 Jev 服务集成到应用的不同层级，帮助工程师定位使用位置并快速上手。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-09-30T07:27:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 147</p>
+<p><a href="https://x.com/QingQ77/status/2105197705114812493">在 X 查看原帖</a> · <a href="https://t.co/MrM99RRY62">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/analogalok/status/2105186385334563062"><img src="https://pbs.twimg.com/amplify_video_thumb/2105094315110436864/img/jvGmwboMQNyf3ZCu.jpg" alt="SGLang and Ollama now support Jev-like decision models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/analogalok/status/2105186385334563062">SGLang and Ollama now support Jev-like decision models</a></h3>
+<p>SGLang&#39;s native /v1/decisions endpoint turns LLMs and VLMs into classification and scoring models, and Ollama now supports Jev-like decision models locally.</p>
+<p><strong>中文摘要：</strong>SGLang 的原生 /v1/decisions 接口可将 LLM 和 VLM 转化为分类与评分模型，Ollama 也开始支持本地化的 Jev 决策模型。</p>
+<p><strong>Alok</strong> · @analogalok · 2026-09-30T06:42:01.000Z</p>
+<p>💬 3 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 564</p>
+<p><a href="https://x.com/analogalok/status/2105186385334563062">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nos_ult/status/2105168542048153701"><img src="https://pbs.twimg.com/media/HTcOMwAaUAEjbba?format=jpg&amp;name=medium" alt="Manchego v2.1 Ranks 11 on jevBench 1.5 · 原帖图片" width="100%"></a>

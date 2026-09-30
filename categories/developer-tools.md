@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 428 | 224 | 206 | 3.6M |
+| 432 | 228 | 206 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Pakgowithai/status/2105198791968068041"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama 0.35 now runs Jev-style decision models locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Pakgowithai/status/2105198791968068041">Ollama 0.35 now runs Jev-style decision models locally</a></h3>
+<p>Ollama 0.35 adds a /v1/systemone endpoint, letting you pull Nimble or other decision models and get typed outputs for ticket triage, model routing, or moderation—fully local with no cloud round trip.</p>
+<p><strong>中文摘要：</strong>Ollama 0.35 新增 /v1/systemone 端点，可本地拉取 Nimble 等决策模型，为工单分类、模型路由或内容审核等场景提供类型化输出，无需云端往返。</p>
+<p><strong>Fahad Saleem</strong> · @Pakgowithai · 2026-09-30T07:31:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Pakgowithai/status/2105198791968068041">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/parkerbrowndev/status/2105193251280183474"><img src="https://pbs.twimg.com/amplify_video_thumb/2105191590058934272/img/xaEhURqcVPrf61kM.jpg" alt="Frame Engineering: Independent Verification with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/parkerbrowndev/status/2105193251280183474">Frame Engineering: Independent Verification with Jev</a></h3>
+<p>Discusses frame engineering, using Jev for independent verification, and how the facts Jev sees in the state influence outcomes.</p>
+<p><strong>中文摘要：</strong>讨论框架工程中如何依赖Jev进行独立验证，以及Jev所见状态事实对结果的影响。</p>
+<p><strong>Parker Brown</strong> · @parkerbrowndev · 2026-09-30T07:09:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/parkerbrowndev/status/2105193251280183474">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/realfxw/status/2105191760594915525"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama Adds Local Support for Jev-style Decision Models and SystemOne API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/realfxw/status/2105191760594915525">Ollama Adds Local Support for Jev-style Decision Models and SystemOne API</a></h3>
+<p>Major Ollama update: local support for Jev-like decision models and a new /v1/systemone API, enabling low-latency handling of high-frequency real-time discrete decisions.</p>
+<p><strong>中文摘要：</strong>Ollama 重大更新：本地支持类 Jev 决策模型，并推出 /v1/systemone API，可低延迟处理高频实时离散决策任务。</p>
+<p><strong>TechVerser</strong> · @realfxw · 2026-09-30T07:03:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/realfxw/status/2105191760594915525">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/keenthinker/status/2105185782235292059"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama Adds System One Endpoint for Jev-like Queries · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/keenthinker/status/2105185782235292059">Ollama Adds System One Endpoint for Jev-like Queries</a></h3>
+<p>Ollama API introduces a /systemone endpoint for Jev-like model queries, with official documentation linked.</p>
+<p><strong>中文摘要：</strong>Ollama API 引入 /systemone 端点，用于运行类似 Jev 的模型查询，并提供了官方文档链接。</p>
+<p><strong>Pavel ✨ keenthinker</strong> · @keenthinker · 2026-09-30T06:39:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/keenthinker/status/2105185782235292059">在 X 查看原帖</a> · <a href="https://t.co/K1pS96Ujuw">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Roheetbuilds/status/2105183994296111482"><img src="https://pbs.twimg.com/amplify_video_thumb/2105183363506282496/img/HmGVBBF9k0je-AQ4.jpg" alt="Chrome extension built with Jev to filter YouTube topics · 原帖视频截图" width="100%"></a>

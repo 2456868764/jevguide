@@ -1,9 +1,10 @@
 # mikaeru
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T04:15:42.000Z | [Jev Reaches 5,000+ GitHub Repos in 6 Days, Manufacturing Use Cases Explored](https://x.com/mikaeru676523/status/2105149565804621952) | 社区实践 | mikaeru | 13 |
 | 2026-09-29 | [Using the Jev Model for Employee Survey Classification: Key Points and Testing Ideas](https://x.com/mikaeru676523/status/2104832476921438597) | 企业运营 | mikaeru | 17 |
 | 2026-09-29 | [Jev model: A middle-ground solution to the problem of LLMs being too heavy for classification tasks](https://x.com/mikaeru676523/status/2104923075011903777) | 开发者工具 | mikaeru | 2 |
 | 2026-09-22 | [TypeSafe AI's Jev: Judgment and Probability Without Generation](https://x.com/mikaeru676523/status/2102220269251437049) | 工作原理 | mikaeru | 18 |

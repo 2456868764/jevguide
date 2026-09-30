@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 433 | 187 | 247 | 1.6M |
+| 435 | 187 | 249 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/repsiace/status/2105162032861552665"><img src="https://pbs.twimg.com/media/HTcJtN7bIAA-BvO?format=jpg&amp;name=medium" alt="Observations on Jev Model Scale and Data Quality · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/repsiace/status/2105162032861552665">Observations on Jev Model Scale and Data Quality</a></h3>
+<p>The article notes that as a discriminative model, sufficient world knowledge is required, and models competing with Jev are mostly 4B or larger, also mentioning Dohnuts evaluation and data quality impact.</p>
+<p><strong>中文摘要：</strong>文章指出，作为判别模型需要充足的世界知识，能与Jev竞争的模型规模多在4B以上，并提及Dohnuts评估及数据质量的影响。</p>
+<p><strong>PsiACE</strong> · @repsiace · 2026-09-30T05:05:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 81</p>
+<p><a href="https://x.com/repsiace/status/2105162032861552665">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MewIC/status/2105143687672222181"><img src="https://pbs.twimg.com/media/HTb4_ssbsAAeGGx?format=jpg&amp;name=medium" alt="How Jev Works: Outputs Decisions, Not Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MewIC/status/2105143687672222181">How Jev Works: Outputs Decisions, Not Text</a></h3>
+<p>Jev doesn&#39;t write replies; it produces decisions that software can act on. Built by a former OpenAI researcher credited on GPT-4 and ChatGPT, it&#39;s designed as the opposite of ChatGPT, with a warning against letting AI make business bets with real money.</p>
+<p><strong>中文摘要：</strong>Jev并不编写回复，而是输出可直接供软件执行的决策。由曾参与GPT-4和ChatGPT的前OpenAI研究员打造，理念与ChatGPT相反，并警示企业勿将金钱押注交由AI自主决策。</p>
+<p><strong>Mew Social</strong> · @MewIC · 2026-09-30T03:52:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/MewIC/status/2105143687672222181">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masayan_ai_hack/status/2105142233813201211"><img src="https://pbs.twimg.com/amplify_video_thumb/2105140371592519681/img/9DbFBpaDLIHwkg2X.jpg" alt="Jev vs OpenAI Decisions API: 5 Differences · 原帖视频截图" width="100%"></a>

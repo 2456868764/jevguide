@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4290</strong><br>curated posts</td>
-<td align="center"><strong>2218</strong><br>original videos</td>
+<td align="center"><strong>4302</strong><br>curated posts</td>
+<td align="center"><strong>2221</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>679</strong> showcases · <strong>276</strong> videos</p>
+<p><strong>686</strong> showcases · <strong>277</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>312</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>313</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>260</strong> showcases · <strong>100</strong> videos</p>
+<p><strong>261</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>211</strong> showcases · <strong>114</strong> videos</p>
+<p><strong>212</strong> showcases · <strong>114</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>187</strong> showcases · <strong>124</strong> videos</p>
+<p><strong>188</strong> showcases · <strong>124</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>15</strong> showcases · <strong>5</strong> videos</p>
+<p><strong>16</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/mahler83/status/2105274281999622241"><img src="https://pbs.twimg.com/media/HTdvek2akAAJMn8?format=png&amp;name=900x900" alt="Jev experiment shows mismatch between choice and probabilities · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mahler83/status/2105274281999622241">Jev experiment shows mismatch between choice and probabilities</a></h3>
+<p>A user reports that when the Jev model answers a multiple-choice question, the choice is C but the probabilities show A as more likely, possibly due to an unusual rounding error.</p>
+<p><strong>60</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
+<p><strong>말러팔삼</strong> · @mahler83</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xpikee/status/2105273624613564563"><img src="https://pbs.twimg.com/media/HTdvA0HXsAAgrbn?format=jpg&amp;name=medium" alt="GitHub Follow Recommendation: TypeSafe AI&#39;s Jev Tools · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xpikee/status/2105273624613564563">GitHub Follow Recommendation: TypeSafe AI&#39;s Jev Tools</a></h3>
+<p>This post recommends teams to follow on GitHub, including TypeSafe AI, highlighting its Jev tools, skills, and system-level agent tooling.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
+<p><strong>Pikee</strong> · @0xpikee</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/unicodeveloper/status/2105272510371557500"><img src="https://pbs.twimg.com/media/HTdtwMGXQAA8RP2?format=jpg&amp;name=medium" alt="A Stock Terminal That Decides in Under a Second with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/unicodeveloper/status/2105272510371557500">A Stock Terminal That Decides in Under a Second with Jev</a></h3>
+<p>The author shares JEVINIK, a stock terminal built with the Jev model (no LLM) and Valyu&#39;s rich financial data, capable of making decisions in under a second.</p>
+<p><strong>281</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 281</p>
+<p><strong>Odogwu Machalla</strong> · @unicodeveloper</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/merccante/status/2105253825904853252"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253203776282624/img/ZhQiqn4zeMMgPzzY.jpg" alt="Building a smart routing stack with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/merccante/status/2105253825904853252">Building a smart routing stack with Jev</a></h3>
 <p>Community practice: using TypeSafe&#39;s Jev as a System One model alongside Claude Opus 5.5, routing simple requests to cheap models and invoking the expensive one only when necessary — Jev itself cannot write a sentence.</p>
 <p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><strong>mercante</strong> · @merccante</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/akira_papa_IT/status/2105253696653468038"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253416402595840/img/9KyO43se4PhvsMV4.jpg" alt="How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/akira_papa_IT/status/2105253696653468038">How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released</a></h3>
-<p>A group of four discusses the differences between OpenAI Decisions API and Jev by watching official demos, in an 8-minute comparison video.</p>
-<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
-<p><strong>あきらパパ【生成AI活用エンジニア&amp;３児のパパ】</strong> · @akira_papa_IT</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Seanku/status/2105252639848145120"><img src="https://pbs.twimg.com/media/HTdcHBtawAAIQPp?format=jpg&amp;name=medium" alt="Meet Jev System One Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Seanku/status/2105252639848145120">Meet Jev System One Model</a></h3>
-<p>This post shares a video link introducing the Jev System One model.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/gippp69/status/2105252389196382701"><img src="https://pbs.twimg.com/amplify_video_thumb/2105252353444110336/img/RU7CXreMtVw93LEv.jpg" alt="JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gippp69/status/2105252389196382701">JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42</a></h3>
-<p>JEV quickly sorts emails first, escalating only 10% of uncertain cases to Kimi K3 for closer review, drastically cutting agent costs.</p>
-<p><strong>94</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 94</p>
-<p><strong>Gipp 🦅</strong> · @gippp69</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/mahler83/status/2105274281999622241"><img src="https://pbs.twimg.com/media/HTdvek2akAAJMn8?format=png&amp;name=900x900" alt="Jev experiment shows mismatch between choice and probabilities · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mahler83/status/2105274281999622241">Jev experiment shows mismatch between choice and probabilities</a></h3>
+<p>A user reports that when the Jev model answers a multiple-choice question, the choice is C but the probabilities show A as more likely, possibly due to an unusual rounding error.</p>
+<p><strong>60</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
+<p><strong>말러팔삼</strong> · @mahler83</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/merccante/status/2105253825904853252"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253203776282624/img/ZhQiqn4zeMMgPzzY.jpg" alt="Building a smart routing stack with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/merccante/status/2105253825904853252">Building a smart routing stack with Jev</a></h3>
 <p>Community practice: using TypeSafe&#39;s Jev as a System One model alongside Claude Opus 5.5, routing simple requests to cheap models and invoking the expensive one only when necessary — Jev itself cannot write a sentence.</p>
 <p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><strong>mercante</strong> · @merccante</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/gippp69/status/2105252389196382701"><img src="https://pbs.twimg.com/amplify_video_thumb/2105252353444110336/img/RU7CXreMtVw93LEv.jpg" alt="JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gippp69/status/2105252389196382701">JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42</a></h3>
-<p>JEV quickly sorts emails first, escalating only 10% of uncertain cases to Kimi K3 for closer review, drastically cutting agent costs.</p>
-<p><strong>94</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 94</p>
-<p><strong>Gipp 🦅</strong> · @gippp69</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/mayutyler/status/2105251530521891302"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Is Jev already obsolete? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/mayutyler/status/2105251530521891302">Is Jev already obsolete?</a></h3>
-<p>Mayu quotes a post from the OpenAI developer account, asking, “Is Jev already obsolete?”</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Mayu</strong> · @mayutyler</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/akira_papa_IT/status/2105253696653468038"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253416402595840/img/9KyO43se4PhvsMV4.jpg" alt="How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/akira_papa_IT/status/2105253696653468038">How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released</a></h3>
+<p>A group of four discusses the differences between OpenAI Decisions API and Jev by watching official demos, in an 8-minute comparison video.</p>
+<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><strong>あきらパパ【生成AI活用エンジニア&amp;３児のパパ】</strong> · @akira_papa_IT</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/AntoineMinoux/status/2105246902035882347"><img src="https://pbs.twimg.com/media/HTdVm9CWcAAIvH0?format=jpg&amp;name=medium" alt="Fernand ships a new feature powered by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AntoineMinoux/status/2105246902035882347">Fernand ships a new feature powered by Jev</a></h3>
-<p>Antoine Minoux says cold emails are useless and mentions Fernand&#39;s potentially best feature is powered by Jev.</p>
-<p><strong>80</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 80</p>
-<p><strong>Antoine Minoux</strong> · @AntoineMinoux</p>
+<a href="https://x.com/melvindvivas/status/2105248080882987131"><img src="https://pbs.twimg.com/media/HTdXqbzagAADdAX?format=jpg&amp;name=medium" alt="How to Use Jev for Email Classification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/melvindvivas/status/2105248080882987131">How to Use Jev for Email Classification</a></h3>
+<p>A blog post explaining how to use TypeSafe AI&#39;s Jev model as a decision model for email classification, with a tutorial link.</p>
+<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
+<p><strong>Melvin Vivas</strong> · @melvindvivas</p>
 </td>
 </tr>
 </table>

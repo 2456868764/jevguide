@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 298 | 144 | 157 | 1.1M |
+| 302 | 147 | 158 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/scharnetzki/status/2105174446180835531"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI Announces Its Jev Competitor · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/scharnetzki/status/2105174446180835531">OpenAI Announces Its Jev Competitor</a></h3>
+<p>The post notes that OpenAI announced a competitor to Jev within two weeks, reflecting market movements around TypeSafe&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>帖子指出OpenAI在两周内宣布了其与Jev竞争的产品，涉及TypeSafe Jev模型的市场动态。</p>
+<p><strong>Ralf Scharnetzki</strong> · @scharnetzki · 2026-09-30T05:54:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/scharnetzki/status/2105174446180835531">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oska7941/status/2105174291050270870"><img src="https://pbs.twimg.com/media/HTcU2VVXgAE7wt6?format=jpg&amp;name=medium" alt="JEV: TypeSafe AI&#39;s System One Model Now Available via API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/oska7941/status/2105174291050270870">JEV: TypeSafe AI&#39;s System One Model Now Available via API</a></h3>
+<p>Jev is TypeSafe AI&#39;s System One model for structured decisions, now available through the B.AI Decisions API.</p>
+<p><strong>中文摘要：</strong>Jev是TypeSafe AI的System One模型，专注于结构化决策，现已通过B.AI Decisions API提供。</p>
+<p><strong>Oska Crypto 🔶</strong> · @oska7941 · 2026-09-30T05:53:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/oska7941/status/2105174291050270870">在 X 查看原帖</a> · <a href="https://t.co/4W48EnjPxP">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chikathreesix/status/2105172049773932880"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI and Anthropic Launch Jev Competitors · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chikathreesix/status/2105172049773932880">OpenAI and Anthropic Launch Jev Competitors</a></h3>
+<p>Ryo Chikazawa says OpenAI and Anthropic released Jev rivals this week as expected. While Jev only takes text input, competitors support images, making a big difference.</p>
+<p><strong>中文摘要：</strong>近澤良表示，本周OpenAI和Anthropic果然发布Jev的对标产品。Jev仅支持文本输入，竞品则支持图像输入，差异很大。</p>
+<p><strong>近澤 良 | Autify CEO</strong> · @chikathreesix · 2026-09-30T05:45:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 131</p>
+<p><a href="https://x.com/chikathreesix/status/2105172049773932880">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ChiragAsarpota/status/2105156470866386996"><img src="https://pbs.twimg.com/amplify_video_thumb/2105153643830001665/img/nl0hk5S5iGC3_EQv.jpg" alt="TypeSafe Jev Model-Powered Site Rebuild · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>Chirag Asarpota</strong> · @ChiragAsarpota · 2026-09-30T04:43:09.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/ChiragAsarpota/status/2105156470866386996">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ollama/status/2105152056382345544"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama Now Supports Jev-Like Decision Models Locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ollama/status/2105152056382345544">Ollama Now Supports Jev-Like Decision Models Locally</a></h3>
+<p>Ollama announces local support for Jev-like decision models, enabling tasks like ticket triaging, model routing, and content moderation with models such as Nimble, plus a new local /v1/systemone API.</p>
+<p><strong>中文摘要：</strong>Ollama宣布本地支持Jev类决策模型，可通过如Nimble等决策模型处理工单分类、模型路由和内容审核，并开放新的本地/v1/systemone API。</p>
+<p><strong>ollama</strong> · @ollama · 2026-09-30T04:25:36.000Z</p>
+<p>💬 13 &nbsp; 🔁 33 &nbsp; ♡ 188 &nbsp; 📊 21K</p>
+<p><a href="https://x.com/ollama/status/2105152056382345544">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/davidarngar/status/2105149492357976295"><img src="https://pbs.twimg.com/media/HTb-TYdWkAAX63i?format=jpg&amp;name=medium" alt="OpenAI DevDay Introduces Decisions API, Called a Jev Clone · 原帖图片" width="100%"></a>

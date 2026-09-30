@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 648
-- [How it works](../categories/how-it-works.md) — 435
-- [Developer tools](../categories/developer-tools.md) — 426
-- [Access updates](../categories/access-updates.md) — 346
+- [Community builds](../categories/community-builds.md) — 655
+- [How it works](../categories/how-it-works.md) — 439
+- [Developer tools](../categories/developer-tools.md) — 428
+- [Access updates](../categories/access-updates.md) — 350
 - [Gaming](../categories/gaming.md) — 316
-- [Agents](../categories/agents.md) — 305
-- [Launch news](../categories/launch-news.md) — 298
-- [Developer resources](../categories/developer-resources.md) — 254
+- [Agents](../categories/agents.md) — 306
+- [Launch news](../categories/launch-news.md) — 302
+- [Developer resources](../categories/developer-resources.md) — 255
 - [Finance](../categories/finance.md) — 210
-- [Workflow automation](../categories/workflow-automation.md) — 181
-- [Marketing](../categories/marketing.md) — 120
+- [Workflow automation](../categories/workflow-automation.md) — 182
+- [Marketing](../categories/marketing.md) — 121
 - [Content creation](../categories/content-creation.md) — 101
-- [Knowledge & search](../categories/knowledge-search.md) — 93
+- [Knowledge & search](../categories/knowledge-search.md) — 94
 - [Data analytics](../categories/data-analytics.md) — 92
 - [Scientific research](../categories/scientific-research.md) — 66
+- [Customer support](../categories/customer-support.md) — 45
 - [Cybersecurity](../categories/cybersecurity.md) — 45
-- [Customer support](../categories/customer-support.md) — 44
-- [Robotics](../categories/robotics.md) — 39
+- [Robotics](../categories/robotics.md) — 40
 - [Productivity](../categories/productivity.md) — 33
 - [Software development](../categories/software-development.md) — 27
 - [Business operations](../categories/business-operations.md) — 25
 - [Healthcare](../categories/healthcare.md) — 22
-- [Education](../categories/education.md) — 19
+- [Education](../categories/education.md) — 20
 - [E-commerce](../categories/e-commerce.md) — 19
 - [Legal & compliance](../categories/legal-compliance.md) — 14

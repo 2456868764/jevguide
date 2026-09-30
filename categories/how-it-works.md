@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 435 | 187 | 249 | 1.6M |
+| 439 | 190 | 250 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/drbetulay/status/2105184161287823409"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/drbetulay/status/2105184161287823409">Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation</a></h3>
+<p>A general-purpose LLM doesn&#39;t need to make every small decision; specific narrow tasks can be handled by small decision models running locally.</p>
+<p><strong>中文摘要：</strong>通用大模型不必处理每个小决策；特定窄任务可由本地运行的小型决策模型承担。</p>
+<p><strong>Betül Ay</strong> · @drbetulay · 2026-09-30T06:33:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><a href="https://x.com/drbetulay/status/2105184161287823409">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ChristianWijnia/status/2105175607311249509"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105175584972341248/pu/img/1Noz8_fZSrcbozlK.jpg" alt="Jev: TypeSafe&#39;s System One Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ChristianWijnia/status/2105175607311249509">Jev: TypeSafe&#39;s System One Model</a></h3>
+<p>Jev is TypeSafe&#39;s System One model. After each stroke, it picks from typed options which emoji goes next to yours and where. Source: GitHub link.</p>
+<p><strong>中文摘要：</strong>Jev 是 TypeSafe 的 System One 模型。每次输入一笔后，它会从候选选项中挑选下一个表情符号及其出现位置。来源：GitHub 链接。</p>
+<p><strong>ChrisWijnia</strong> · @ChristianWijnia · 2026-09-30T05:59:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/ChristianWijnia/status/2105175607311249509">在 X 查看原帖</a> · <a href="https://t.co/hvisHntlgX">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eliana_usa/status/2105165922545905685"><img src="https://pbs.twimg.com/tweet_video_thumb/HTcNO_4a0AE5ypT.jpg" alt="JEV 101: How JEV Works · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eliana_usa/status/2105165922545905685">JEV 101: How JEV Works</a></h3>
+<p>JEV is not another LLM—it is a decision model that takes structured inputs, answers typed questions, and returns calibrated probabilities your code can actually use. The simplest way to understand it: give JEV the situation as text as State.</p>
+<p><strong>中文摘要：</strong>JEV 不是又一个 LLM，而是一个决策模型：接收结构化输入、回答类型化问题，并返回代码可实际使用的校准概率。本文以最简单的方式解释：将情境以文本形式作为状态提供给 JEV。</p>
+<p><strong>Eliana 🇺🇸</strong> · @eliana_usa · 2026-09-30T05:20:42.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 99</p>
+<p><a href="https://x.com/eliana_usa/status/2105165922545905685">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/parkerbrowndev/status/2105165780686086585"><img src="https://pbs.twimg.com/media/HTcMvZbbcAAutI4?format=png&amp;name=900x900" alt="Jev confidence explained · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/parkerbrowndev/status/2105165780686086585">Jev confidence explained</a></h3>
+<p>The post clarifies that Jev confidence is a derivative score based on the shape of probabilities, not the likelihood of an outcome, with a link to the docs.</p>
+<p><strong>中文摘要：</strong>帖子澄清 Jev 置信度是基于概率形状的衍生分数，而非结果可能性，并附文档链接。</p>
+<p><strong>Parker Brown</strong> · @parkerbrowndev · 2026-09-30T05:20:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/parkerbrowndev/status/2105165780686086585">在 X 查看原帖</a> · <a href="https://t.co/wVEjsuJPXY">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/repsiace/status/2105162032861552665"><img src="https://pbs.twimg.com/media/HTcJtN7bIAA-BvO?format=jpg&amp;name=medium" alt="Observations on Jev Model Scale and Data Quality · 原帖图片" width="100%"></a>

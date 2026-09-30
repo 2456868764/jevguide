@@ -1,9 +1,10 @@
 # Michael
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T04:30:05.000Z | [Ollama Now Supports Running Jev Models Locally](https://x.com/mchiang0610/status/2105153181814849777) | 接入动态 | Michael | 221 |
 | 2026-09-21 | [Benchmarking Cross-Encoders vs Jev for Reranking](https://x.com/michael_chomsky/status/2102158215849091229) | 知识与搜索 | Michael | 1.7K |
 | 2026-09-21 | [Jev Outperforms SOTA Rerankers on Classification and Reranking](https://x.com/michael_chomsky/status/2102164876579983621) | 知识与搜索 | Michael | 530 |
 | 2026-09-20 | [Tempo Jev demo code now on GitHub](https://x.com/michaeltefula/status/2101791658337620426) | 开发资源 | Michael | 71 |

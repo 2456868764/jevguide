@@ -1,9 +1,10 @@
 # Julian Goldie SEO
 
-15 Jev showcases.
+16 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T05:39:22.000Z | [Jev AI: Sorting 20,000 SEO Keywords with a Decision Model](https://x.com/JulianGoldieSEO/status/2105170621403717840) | 营销 | Julian Goldie SEO | 920 |
 | 2026-09-29 | [Automate AI Content Checks with Jev: Review Only Weak Drafts](https://x.com/JulianGoldieSEO/status/2104722825953394895) | 内容创作 | Julian Goldie SEO | 783 |
 | 2026-09-22 | [OpenJev: Open-Source Jev-Style Decision Systems Running Locally](https://x.com/JulianGoldieSEO/status/2102424845049033158) | 开发资源 | Julian Goldie SEO | 1.1K |
 | 2026-09-22 | [OpenJev: Open-source local Jev AI alternative for building self-rebuilding games](https://x.com/JulianGoldieSEO/status/2102424461014368707) | 游戏 | Julian Goldie SEO | 1.0K |

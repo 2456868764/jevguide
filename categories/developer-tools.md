@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 426 | 222 | 206 | 3.6M |
+| 428 | 224 | 206 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Roheetbuilds/status/2105183994296111482"><img src="https://pbs.twimg.com/amplify_video_thumb/2105183363506282496/img/HmGVBBF9k0je-AQ4.jpg" alt="Chrome extension built with Jev to filter YouTube topics · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Roheetbuilds/status/2105183994296111482">Chrome extension built with Jev to filter YouTube topics</a></h3>
+<p>Developer Rohit shares a Chrome extension that uses TypeSafe AI&#39;s Jev model to hide or show specific YouTube topics, with a bring-your-own-API approach and an open-source repository.</p>
+<p><strong>中文摘要：</strong>开发者 Rohit 发布了一个 Chrome 扩展，使用 TypeSafe AI 的 Jev 模型隐藏或显示 YouTube 上的特定话题，用户可配置自己的 API，并附有 GitHub 仓库。</p>
+<p><strong>Rohit</strong> · @Roheetbuilds · 2026-09-30T06:32:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Roheetbuilds/status/2105183994296111482">在 X 查看原帖</a> · <a href="https://t.co/Kn88DNvVJk">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/polydao/status/2105177069730615556"><img src="https://pbs.twimg.com/amplify_video_thumb/2105058001027538945/img/f-LXqNbgL97hl-pI.jpg" alt="Claude + Jev Engineering: The Harness Skill That Gets AI Engineers Promoted in 2026 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/polydao/status/2105177069730615556">Claude + Jev Engineering: The Harness Skill That Gets AI Engineers Promoted in 2026</a></h3>
+<p>Introduces a harness workflow: Claude proposes, Jev answers, and code decides, with a receipt at every step. Example shows 1,000 decisions on a cold frontier model cost $605, while the same through this harness costs $0.17.</p>
+<p><strong>中文摘要：</strong>介绍一种 Harness 工作流：Claude 提出方案，Jev 负责回答，代码做最终决策，每一步留下可审计记录。示例显示冷启动模型 1000 次决策需 $605，而通过该 Harness 仅需 $0.17。</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao · 2026-09-30T06:05:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 567</p>
+<p><a href="https://x.com/polydao/status/2105177069730615556">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VisiveAI/status/2105162105855090691"><img src="https://pbs.twimg.com/amplify_video_thumb/2104254027739615233/img/pIyR2Mdxs5MpEqAs.jpg" alt="Fast System with Jev as Fuzzy Linter · 原帖视频截图" width="100%"></a>

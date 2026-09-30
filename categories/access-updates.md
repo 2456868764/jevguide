@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 346 | 137 | 209 | 802K |
+| 350 | 140 | 210 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WebNavigator_/status/2105169436919595471"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama Now Supports Jev-like Deterministic Models Locally with System One API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/WebNavigator_/status/2105169436919595471">Ollama Now Supports Jev-like Deterministic Models Locally with System One API</a></h3>
+<p>Ollama now supports deterministic models like Jev entirely locally, enabling tasks such as ticket classification, model routing, and content moderation via Nimble, along with a new local /v1/systemone API.</p>
+<p><strong>中文摘要：</strong>Ollama 宣布本地支持类似 Jev 的确定性模型，可用 Nimble 执行工单分类、模型路由、内容审核等任务，并提供新的本地 /v1/systemone API。</p>
+<p><strong>WEBさん@WordPress復旧・保守・AI活用開発</strong> · @WebNavigator_ · 2026-09-30T05:34:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><a href="https://x.com/WebNavigator_/status/2105169436919595471">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thomas_rehmer/status/2105168786173129075"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama /v1/systemone Follows TypeSafe&#39;s Jev API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thomas_rehmer/status/2105168786173129075">Ollama /v1/systemone Follows TypeSafe&#39;s Jev API</a></h3>
+<p>Ollama&#39;s /v1/systemone endpoint adopts TypeSafe&#39;s Jev API interface, giving users who already use Jev for text classification or scoring a local option to test with the same interface and compare on real workflow decisions.</p>
+<p><strong>中文摘要：</strong>Ollama的/v1/systemone端点采用TypeSafe的Jev API接口，为已在工作中使用Jev进行文本分类或评分的用户提供了本地测试的选项，并可在实际工作流中对比效果。</p>
+<p><strong>thomas_R</strong> · @thomas_rehmer · 2026-09-30T05:32:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/thomas_rehmer/status/2105168786173129075">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Michael47242613/status/2105167889846210789"><img src="https://pbs.twimg.com/media/HTcO6uEXwAAtfbO?format=jpg&amp;name=medium" alt="Ollama 0.35+ Supports TypeSafe Jev Decision Model API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Michael47242613/status/2105167889846210789">Ollama 0.35+ Supports TypeSafe Jev Decision Model API</a></h3>
+<p>Ollama&#39;s latest release adds a /v1/systemone endpoint, enabling decision models based on TypeSafe&#39;s Jev API.</p>
+<p><strong>中文摘要：</strong>Ollama 新版本引入 /v1/systemone 端点，支持基于 TypeSafe Jev API 的决策模型。</p>
+<p><strong>Michael Kramarenko</strong> · @Michael47242613 · 2026-09-30T05:28:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/Michael47242613/status/2105167889846210789">在 X 查看原帖</a> · <a href="https://t.co/CF11VGklbI">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mchiang0610/status/2105153181814849777"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama Now Supports Running Jev Models Locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mchiang0610/status/2105153181814849777">Ollama Now Supports Running Jev Models Locally</a></h3>
+<p>TypeSafe’s Jev-style decision models can now run locally via Ollama. The author mentions enjoying in-house demos and links to Ollama’s official announcement.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的 Jev 风格决策模型现已通过 Ollama 实现本地运行。作者提到内部构建的演示令人着迷，并附有 Ollama 官方公告链接。</p>
+<p><strong>Michael</strong> · @mchiang0610 · 2026-09-30T04:30:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 221</p>
+<p><a href="https://x.com/mchiang0610/status/2105153181814849777">在 X 查看原帖</a> · <a href="https://t.co/aUqL69evWr">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DooByte/status/2105148722787360979"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev is now available as an API · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 303 | 147 | 159 | 1.1M |
+| 309 | 150 | 162 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MaincodeAU/status/2105230308132225289"><img src="https://pbs.twimg.com/media/HTdHRq0acAAlI-J?format=jpg&amp;name=medium" alt="Matilda Jev: Australia&#39;s First Open-Sourced Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MaincodeAU/status/2105230308132225289">Matilda Jev: Australia&#39;s First Open-Sourced Decision Model</a></h3>
+<p>Maincode announces the open-sourcing of Matilda Jev, Australia&#39;s first decision model, conditioned for Australian deployment and post-trained with a specialized recipe. Instead of generating text, it answers typed questions with calibrated probabilities.</p>
+<p><strong>中文摘要：</strong>Maincode宣布开源Matilda Jev，这是澳大利亚首个决策模型，针对澳大利亚部署进行了调整，并使用专用配方进行后训练。该模型不生成文本，而是针对输入问题给出校准概率回应。</p>
+<p><strong>Maincode</strong> · @MaincodeAU · 2026-09-30T09:36:33.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 151</p>
+<p><a href="https://x.com/MaincodeAU/status/2105230308132225289">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RumiMirage/status/2105229690743001387"><img src="https://pbs.twimg.com/amplify_video_thumb/2105228724727660544/img/w5WoyLsPEv9iZKVf.jpg" alt="Jev: $0.001 per workflow, outperforms models costing 100x more · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RumiMirage/status/2105229690743001387">Jev: $0.001 per workflow, outperforms models costing 100x more</a></h3>
+<p>Diogo Almeida (co-inventor of RLHF and contributor to ChatGPT at OpenAI) charted a comparison showing Jev&#39;s accuracy-to-cost advantage, beating many major models at a fraction of the price.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida（RLHF共同发明者、OpenAI ChatGPT构建者）亲自制图对比显示，Jev在准确性与成本上均表现出色，以极低价格击败众多主流模型。</p>
+<p><strong>Rumi</strong> · @RumiMirage · 2026-09-30T09:34:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 44</p>
+<p><a href="https://x.com/RumiMirage/status/2105229690743001387">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kota20111226/status/2105225539959296417"><img src="https://pbs.twimg.com/media/HTdDdDIa0AEzGIB?format=jpg&amp;name=medium" alt="LiquidAI&#39;s new AI D1 claims to outperform Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kota20111226/status/2105225539959296417">LiquidAI&#39;s new AI D1 claims to outperform Jev</a></h3>
+<p>According to community reports, LiquidAI has released a new model D1, scoring higher than Jev on the LFM2.5 benchmark.</p>
+<p><strong>中文摘要：</strong>据社区爆料，LiquidAI 发布了新模型 D1，并在 LFM2.5 基准测试中取得高于 Jev 的分数。</p>
+<p><strong>某GPU弱者</strong> · @kota20111226 · 2026-09-30T09:17:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><a href="https://x.com/kota20111226/status/2105225539959296417">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WBN_live/status/2105223703239832052"><img src="https://pbs.twimg.com/amplify_video_thumb/2105223206441529344/img/bL-4YidF_-jDlKXO.jpg" alt="OpenAI Enters Same Space Just 14 Days After Jev Launch · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/WBN_live/status/2105223703239832052">OpenAI Enters Same Space Just 14 Days After Jev Launch</a></h3>
+<p>TypeSafe released decision-focused AI &#39;Jev&#39; on 9/15, and OpenAI announced the Decisions API limited preview on 9/29. Both target returning decisions from predefined options and automating classification and routing.</p>
+<p><strong>中文摘要：</strong>TypeSafe于9/15公开判断特化AI「Jev」，9/29 OpenAI发布Decisions API限定预览。两者都聚焦从预设选项返回判断并自动化分类、分拣等领域。</p>
+<p><strong>WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&amp;インタビューショー🚨</strong> · @WBN_live · 2026-09-30T09:10:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/WBN_live/status/2105223703239832052">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AroraBhavyam/status/2105222871840620725"><img src="https://pbs.twimg.com/amplify_video_thumb/2103610863605465088/img/lK7ZN1DaY0BqErJw.jpg" alt="OpenRouter Launches Jev Router to Cut LLM Costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AroraBhavyam/status/2105222871840620725">OpenRouter Launches Jev Router to Cut LLM Costs</a></h3>
+<p>OpenRouter launched jev-router, which picks the right model and reasoning effort per request, so simple prompts no longer burn frontier tokens.</p>
+<p><strong>中文摘要：</strong>OpenRouter 发布 jev-router，可根据请求智能选择模型和推理力度，避免简单提示消耗前沿 Token。</p>
+<p><strong>Bhavyam Arora</strong> · @AroraBhavyam · 2026-09-30T09:07:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/AroraBhavyam/status/2105222871840620725">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2105219422663102837"><img src="https://pbs.twimg.com/media/HTc96MCW0AAcAL6?format=jpg&amp;name=small" alt="New decision-making model d1 emerges, surpassing Jev in benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2105219422663102837">New decision-making model d1 emerges, surpassing Jev in benchmarks</a></h3>
+<p>A new decision-making model called d1 has been reported to outperform Jev in benchmark tests.</p>
+<p><strong>中文摘要：</strong>据报道，名为 d1 的新决策模型在基准测试中超越了 Jev。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-09-30T08:53:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 3.3K</p>
+<p><a href="https://x.com/gigazine/status/2105219422663102837">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sourcestrongai/status/2105185618867494957"><img src="https://pbs.twimg.com/media/HTcfKTCawAALVt6?format=jpg&amp;name=medium" alt="OpenAI Dev Day Recap: Decisions API Called Jev Killer · 原帖图片" width="100%"></a>

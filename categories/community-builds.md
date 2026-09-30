@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 662 | 271 | 395 | 3.0M |
+| 666 | 274 | 396 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hi_scaperow/status/2105232071811797057"><img src="https://pbs.twimg.com/amplify_video_thumb/2105231651869782016/img/d2hg4eBimMaJvcqV.jpg" alt="Using the Jev model for Xianyu crawler auto-push · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hi_scaperow/status/2105232071811797057">Using the Jev model for Xianyu crawler auto-push</a></h3>
+<p>A user deploys the Jev model locally with a Xianyu crawler to automatically push collected results, aiming for passive income.</p>
+<p><strong>中文摘要：</strong>用户将Jev模型本地部署，结合闲鱼爬虫实现采集结果自动推送，追求被动收入。</p>
+<p><strong>scapeman</strong> · @hi_scaperow · 2026-09-30T09:43:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/hi_scaperow/status/2105232071811797057">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_junaidkhalid1/status/2105228619350233184"><img src="https://pbs.twimg.com/tweet_video_thumb/HTdGQ-CaMAEkCAC.jpg" alt="User bought Jev Credits, then OpenAI released Decision API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_junaidkhalid1/status/2105228619350233184">User bought Jev Credits, then OpenAI released Decision API</a></h3>
+<p>The author shares that they bought lifetime Jev Credits for $25 two days ago, just as OpenAI released its Decision API, highlighting both developments.</p>
+<p><strong>中文摘要：</strong>帖主分享两天前花 25 美元购买了终身 Jev Credits，而 OpenAI 恰好在此时发布了 Decision API，表达了对这两项动态的关注和对比。</p>
+<p><strong>JK</strong> · @_junaidkhalid1 · 2026-09-30T09:29:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/_junaidkhalid1/status/2105228619350233184">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/scsherm_/status/2105220158448926812"><img src="https://pbs.twimg.com/amplify_video_thumb/2104955362977693696/img/pCmKFyeFbhl1Rm3R.jpg" alt="Critique of a Single Use Case for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/scsherm_/status/2105220158448926812">Critique of a Single Use Case for Jev</a></h3>
+<p>The post ironically points out that using Jev for some scenario to produce only an AUC metric, without comparing against any baseline, will likely yield a bad result.</p>
+<p><strong>中文摘要：</strong>帖子讽刺地指出，将Jev用于某个场景时只生成一个AUC指标，且没有与任何基线进行比较，结果可能很差。</p>
+<p><strong>scsherm</strong> · @scsherm_ · 2026-09-30T08:56:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/scsherm_/status/2105220158448926812">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WellerOlaf/status/2105219689970319410"><img src="https://pbs.twimg.com/media/HTc9fQpX0AAvYee?format=jpg&amp;name=medium" alt="Hide Dutch politics with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WellerOlaf/status/2105219689970319410">Hide Dutch politics with Jev</a></h3>
+<p>A developer used TypeSafe Jev to build a Brave extension that automatically classifies and hides Dutch political posts and YouTube videos.</p>
+<p><strong>中文摘要：</strong>开发者使用TypeSafe Jev为Brave浏览器构建扩展，自动识别并隐藏荷兰政治帖子和YouTube视频。</p>
+<p><strong>Olaf Weller</strong> · @WellerOlaf · 2026-09-30T08:54:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 108</p>
+<p><a href="https://x.com/WellerOlaf/status/2105219689970319410">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MathisHammel/status/2105200102587449444"><img src="https://pbs.twimg.com/media/HTcpuBOXMAAf4BC?format=png&amp;name=medium" alt="Evaluating Jev AI model for tweet classification · 原帖图片" width="100%"></a>

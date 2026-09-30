@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 441 | 191 | 251 | 1.6M |
+| 443 | 193 | 251 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ziziran2/status/2105225633039012134"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev 1.13 Interface and Performance Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ziziran2/status/2105225633039012134">Jev 1.13 Interface and Performance Comparison</a></h3>
+<p>The post compares TypeSafe&#39;s Jev with OpenAI, noting Jev 1.13 accepts text only, cites a 150ms delay from an official support routing demo, and mentions Every trial step accuracy of 73/78 for Jev versus 76/78 for Decisions.</p>
+<p><strong>中文摘要：</strong>帖子将 TypeSafe 的 Jev 与 OpenAI 对比，指出 Jev 1.13 仅支持文本输入，并引用官方客服路由演示的 150ms 延迟，以及 Every 试用中 Jev 73/78 对比 Decisions 76/78 的步数准确率。</p>
+<p><strong>ziziran</strong> · @ziziran2 · 2026-09-30T09:17:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/ziziran2/status/2105225633039012134">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fluixoo/status/2105217511222366576"><img src="https://pbs.twimg.com/amplify_video_thumb/2105213342302212097/img/I92HViT41BOCTFv3.jpg" alt="JEV API Reveals 6 Production Patterns · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fluixoo/status/2105217511222366576">JEV API Reveals 6 Production Patterns</a></h3>
+<p>The post notes that the JEV API contains 6 production patterns without needing another chatbot. Patterns include semantic SQL (text to scored columns to normal queries), tool routing (request to shortlisted skills), and more, showing how probabilistic decisions become useful data.</p>
+<p><strong>中文摘要：</strong>该帖子指出JEV API内置6种生产模式，无需额外聊天机器人。模式包括语义SQL（文本到加权列到普通查询）、工具路由（请求到技能短名单）等，展示概率决策如何成为有用数据。</p>
+<p><strong>Fluixo</strong> · @fluixoo · 2026-09-30T08:45:42.000Z</p>
+<p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 28 &nbsp; 📊 551</p>
+<p><a href="https://x.com/fluixoo/status/2105217511222366576">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>

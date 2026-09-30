@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 122 | 91 | 31 | 904K |
+| 124 | 92 | 32 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aiRobertDaily/status/2105224433728454800"><img src="https://pbs.twimg.com/media/HTdAj5ha4AAIE1K?format=jpg&amp;name=medium" alt="Open-Source SEO/GEO Marketing Tool Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aiRobertDaily/status/2105224433728454800">Open-Source SEO/GEO Marketing Tool Powered by Jev</a></h3>
+<p>This app uses the Jev model to perform SEO audits from just a homepage URL and generates reports in PDF, XLSX, and Markdown formats. The project is open sourced, and the author highlights Jev&#39;s low cost and high speed, making it suitable for customer acquisition and marketing.</p>
+<p><strong>中文摘要：</strong>该应用只需提供网页 URL，即可利用 Jev 模型执行 SEO 审核，并生成 PDF、XLSX 和 Markdown 格式的报告。项目已开源，作者强调 Jev 模型成本低且速度快，适合用于获客和营销场景。</p>
+<p><strong>AIRobert</strong> · @aiRobertDaily · 2026-09-30T09:13:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/aiRobertDaily/status/2105224433728454800">在 X 查看原帖</a> · <a href="https://t.co/LO7paQhDLH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AroraBhavyam/status/2105222873480597555"><img src="https://pbs.twimg.com/amplify_video_thumb/2100891566340501504/img/agvkcRfNWmnGbRI5.jpg" alt="Score every lead with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AroraBhavyam/status/2105222873480597555">Score every lead with Jev</a></h3>
+<p>@romanbuildsaas ran 700 leads and outreach messages through Jev in 40 seconds for $0.09, flagging every lead-message mismatch to help teams prioritize before outreach.</p>
+<p><strong>中文摘要：</strong>@romanbuildsaas 通过Jev处理了700条线索和外联消息，40秒、0.09美元即标记出所有不匹配的线索-消息组合，帮助团队在接触前就筛出最佳潜在客户。</p>
+<p><strong>Bhavyam Arora</strong> · @AroraBhavyam · 2026-09-30T09:07:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/AroraBhavyam/status/2105222873480597555">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/o_ddoong/status/2105199689801064780"><img src="https://pbs.twimg.com/media/HTcr8oRakAAljGa?format=png&amp;name=medium" alt="Jev for Marketing Keyword Filtering: Low Cost, High Efficiency · 原帖图片" width="100%"></a>

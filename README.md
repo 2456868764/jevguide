@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4230</strong><br>curated posts</td>
-<td align="center"><strong>2188</strong><br>original videos</td>
+<td align="center"><strong>4255</strong><br>curated posts</td>
+<td align="center"><strong>2203</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>662</strong> showcases · <strong>271</strong> videos</p>
+<p><strong>666</strong> showcases · <strong>274</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>441</strong> showcases · <strong>191</strong> videos</p>
+<p><strong>443</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>432</strong> showcases · <strong>228</strong> videos</p>
+<p><strong>436</strong> showcases · <strong>228</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>350</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>351</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>317</strong> showcases · <strong>240</strong> videos</p>
+<p><strong>318</strong> showcases · <strong>241</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>309</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>310</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>303</strong> showcases · <strong>147</strong> videos</p>
+<p><strong>309</strong> showcases · <strong>150</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>257</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>258</strong> showcases · <strong>99</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>182</strong> showcases · <strong>122</strong> videos</p>
+<p><strong>183</strong> showcases · <strong>123</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>122</strong> showcases · <strong>91</strong> videos</p>
+<p><strong>124</strong> showcases · <strong>92</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -126,16 +126,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
+<p><sub>网络安全</sub></p>
+<p><strong>46</strong> showcases · <strong>14</strong> videos</p>
+<p><a href="categories/cybersecurity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
 <p><strong>45</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
-<p><sub>网络安全</sub></p>
-<p><strong>45</strong> showcases · <strong>13</strong> videos</p>
-<p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>14</strong> showcases · <strong>4</strong> videos</p>
+<p><strong>15</strong> showcases · <strong>5</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KyrieBlunders/status/2105201267119374809">Deciphering Jev: TypeSafe&#39;s Mysterious Model</a></h3>
-<p>The post quotes TypeSafe saying Jev is not an LLM, and recommends an in-depth article that decodes Jev to help readers understand what it truly is.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>Vishal</strong> · @KyrieBlunders</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/boraerdincozer/status/2105233327577837834"><img src="https://pbs.twimg.com/amplify_video_thumb/2105233256362700800/img/IF5PrqhF-lmLQX1l.jpg" alt="Pipeline turning real visuals into game assets with Jev taking over when offline · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/boraerdincozer/status/2105233327577837834">Pipeline turning real visuals into game assets with Jev taking over when offline</a></h3>
+<p>The author built a pipeline that imports characters, items, and animals from real-world visuals into the game, and lets Jev take over to keep playing when the player is away.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Bora</strong> · @boraerdincozer</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/MathisHammel/status/2105200102587449444"><img src="https://pbs.twimg.com/media/HTcpuBOXMAAf4BC?format=png&amp;name=medium" alt="Evaluating Jev AI model for tweet classification · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MathisHammel/status/2105200102587449444">Evaluating Jev AI model for tweet classification</a></h3>
-<p>Mathis Hammel ran a hands-on comparison of the new AI model Jev against LLMs, focusing on tweet classification. He calls the results remarkable and shares the full evaluation.</p>
-<p><strong>183</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 183</p>
-<p><strong>Mathis Hammel-Brylinski</strong> · @MathisHammel</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/hi_scaperow/status/2105232071811797057"><img src="https://pbs.twimg.com/amplify_video_thumb/2105231651869782016/img/d2hg4eBimMaJvcqV.jpg" alt="Using the Jev model for Xianyu crawler auto-push · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/hi_scaperow/status/2105232071811797057">Using the Jev model for Xianyu crawler auto-push</a></h3>
+<p>A user deploys the Jev model locally with a Xianyu crawler to automatically push collected results, aiming for passive income.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>scapeman</strong> · @hi_scaperow</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
-<a href="https://x.com/o_ddoong/status/2105199689801064780"><img src="https://pbs.twimg.com/media/HTcr8oRakAAljGa?format=png&amp;name=medium" alt="Jev for Marketing Keyword Filtering: Low Cost, High Efficiency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/o_ddoong/status/2105199689801064780">Jev for Marketing Keyword Filtering: Low Cost, High Efficiency</a></h3>
-<p>A user found that Jev can be used in marketing for broad keyword extraction and secondary classification, with an agent that knows user criteria filtering out off-topic keywords. Compared to DeepSeek, combining Jev reduces cost from a few hundred won to tens of won, with better speed.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>오뚱</strong> · @o_ddoong</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/davidlem/status/2105230332614361280"><img src="https://pbs.twimg.com/media/HTdEJyPa4AEVzVf?format=jpg&amp;name=medium" alt="Australia tops Jev spot · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/davidlem/status/2105230332614361280">Australia tops Jev spot</a></h3>
+<p>Dave Lemphers notes Australia currently holds the top Jev spot and shares a link to Maincode&#39;s matilda-jev-v1 model.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 23</p>
+<p><strong>Dave Lemphers</strong> · @davidlem</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/DWisenhoff/status/2105199295557255198"><img src="https://pbs.twimg.com/amplify_video_thumb/2105199072734810112/img/ypas_CnNU6oxWP9U.jpg" alt="Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DWisenhoff/status/2105199295557255198">Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview</a></h3>
-<p>Daniel Wisenhoff announces the recording of the first episode of &quot;Automation ASMR&quot; titled &quot;My Name Is Jev&quot;. The episode discusses the new LLM model Jev, market reactions, and features a demo by Simon Kihlberg Wallström.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Daniel Wisenhoff</strong> · @DWisenhoff</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/MaincodeAU/status/2105230308132225289"><img src="https://pbs.twimg.com/media/HTdHRq0acAAlI-J?format=jpg&amp;name=medium" alt="Matilda Jev: Australia&#39;s First Open-Sourced Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MaincodeAU/status/2105230308132225289">Matilda Jev: Australia&#39;s First Open-Sourced Decision Model</a></h3>
+<p>Maincode announces the open-sourcing of Matilda Jev, Australia&#39;s first decision model, conditioned for Australian deployment and post-trained with a specialized recipe. Instead of generating text, it answers typed questions with calibrated probabilities.</p>
+<p><strong>151</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 151</p>
+<p><strong>Maincode</strong> · @MaincodeAU</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/KyrieBlunders/status/2105201267119374809"><img src="https://pbs.twimg.com/media/HTctGRMbYAAM2s6?format=jpg&amp;name=medium" alt="Deciphering Jev: TypeSafe&#39;s Mysterious Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KyrieBlunders/status/2105201267119374809">Deciphering Jev: TypeSafe&#39;s Mysterious Model</a></h3>
-<p>The post quotes TypeSafe saying Jev is not an LLM, and recommends an in-depth article that decodes Jev to help readers understand what it truly is.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>Vishal</strong> · @KyrieBlunders</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/boraerdincozer/status/2105233327577837834"><img src="https://pbs.twimg.com/amplify_video_thumb/2105233256362700800/img/IF5PrqhF-lmLQX1l.jpg" alt="Pipeline turning real visuals into game assets with Jev taking over when offline · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/boraerdincozer/status/2105233327577837834">Pipeline turning real visuals into game assets with Jev taking over when offline</a></h3>
+<p>The author built a pipeline that imports characters, items, and animals from real-world visuals into the game, and lets Jev take over to keep playing when the player is away.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Bora</strong> · @boraerdincozer</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/DWisenhoff/status/2105199295557255198"><img src="https://pbs.twimg.com/amplify_video_thumb/2105199072734810112/img/ypas_CnNU6oxWP9U.jpg" alt="Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DWisenhoff/status/2105199295557255198">Automation ASMR First Episode &#39;My Name Is Jev&#39; Preview</a></h3>
-<p>Daniel Wisenhoff announces the recording of the first episode of &quot;Automation ASMR&quot; titled &quot;My Name Is Jev&quot;. The episode discusses the new LLM model Jev, market reactions, and features a demo by Simon Kihlberg Wallström.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Daniel Wisenhoff</strong> · @DWisenhoff</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/MaincodeAU/status/2105230308132225289"><img src="https://pbs.twimg.com/media/HTdHRq0acAAlI-J?format=jpg&amp;name=medium" alt="Matilda Jev: Australia&#39;s First Open-Sourced Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MaincodeAU/status/2105230308132225289">Matilda Jev: Australia&#39;s First Open-Sourced Decision Model</a></h3>
+<p>Maincode announces the open-sourcing of Matilda Jev, Australia&#39;s first decision model, conditioned for Australian deployment and post-trained with a specialized recipe. Instead of generating text, it answers typed questions with calibrated probabilities.</p>
+<p><strong>151</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 151</p>
+<p><strong>Maincode</strong> · @MaincodeAU</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/Pakgowithai/status/2105198791968068041"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama 0.35 now runs Jev-style decision models locally · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Pakgowithai/status/2105198791968068041">Ollama 0.35 now runs Jev-style decision models locally</a></h3>
-<p>Ollama 0.35 adds a /v1/systemone endpoint, letting you pull Nimble or other decision models and get typed outputs for ticket triage, model routing, or moderation—fully local with no cloud round trip.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Fahad Saleem</strong> · @Pakgowithai</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/RumiMirage/status/2105229690743001387"><img src="https://pbs.twimg.com/amplify_video_thumb/2105228724727660544/img/w5WoyLsPEv9iZKVf.jpg" alt="Jev: $0.001 per workflow, outperforms models costing 100x more · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RumiMirage/status/2105229690743001387">Jev: $0.001 per workflow, outperforms models costing 100x more</a></h3>
+<p>Diogo Almeida (co-inventor of RLHF and contributor to ChatGPT at OpenAI) charted a comparison showing Jev&#39;s accuracy-to-cost advantage, beating many major models at a fraction of the price.</p>
+<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 44</p>
+<p><strong>Rumi</strong> · @RumiMirage</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/biroi8/status/2105190914289262707"><img src="https://pbs.twimg.com/amplify_video_thumb/2104625562794745856/img/VHwfVVofq28SLr5Y.jpg" alt="AI Task Delegation: Jev Routes Between Claude and GPT · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/biroi8/status/2105190914289262707">AI Task Delegation: Jev Routes Between Claude and GPT</a></h3>
-<p>This setup lets users submit a request once via GrokBot. Jev selects the best model (Claude or GPT) and assigns tasks by role, while GrokBot connects the flow, avoiding reliance on a single AI.</p>
-<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
-<p><strong>Suzuki</strong> · @biroi8</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/kota20111226/status/2105225539959296417"><img src="https://pbs.twimg.com/media/HTdDdDIa0AEzGIB?format=jpg&amp;name=medium" alt="LiquidAI&#39;s new AI D1 claims to outperform Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kota20111226/status/2105225539959296417">LiquidAI&#39;s new AI D1 claims to outperform Jev</a></h3>
+<p>According to community reports, LiquidAI has released a new model D1, scoring higher than Jev on the LFM2.5 benchmark.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><strong>某GPU弱者</strong> · @kota20111226</p>
 </td>
 </tr>
 </table>

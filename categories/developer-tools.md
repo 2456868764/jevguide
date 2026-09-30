@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 432 | 228 | 206 | 3.6M |
+| 436 | 228 | 210 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davidlem/status/2105230332614361280"><img src="https://pbs.twimg.com/media/HTdEJyPa4AEVzVf?format=jpg&amp;name=medium" alt="Australia tops Jev spot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/davidlem/status/2105230332614361280">Australia tops Jev spot</a></h3>
+<p>Dave Lemphers notes Australia currently holds the top Jev spot and shares a link to Maincode&#39;s matilda-jev-v1 model.</p>
+<p><strong>中文摘要：</strong>Dave Lemphers 称澳大利亚当前在 Jev 模型中排名第一，并分享了 Maincode 的 matilda-jev-v1 模型链接。</p>
+<p><strong>Dave Lemphers</strong> · @davidlem · 2026-09-30T09:36:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 23</p>
+<p><a href="https://x.com/davidlem/status/2105230332614361280">在 X 查看原帖</a> · <a href="https://t.co/xbWitGWzcN">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/melih_cat/status/2105220370802381123"><img src="https://pbs.twimg.com/media/HTcqiBxWoAARrTv?format=jpg&amp;name=360x360" alt="Building a Coding AI with JEV Decision Intelligence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/melih_cat/status/2105220370802381123">Building a Coding AI with JEV Decision Intelligence</a></h3>
+<p>The author shares an attempt to build a personal coding AI by using JEV decision intelligence to combine models like Claude and Gemini at a lower cost.</p>
+<p><strong>中文摘要：</strong>作者分享了使用JEV决策智能组合Claude和Gemini等模型，以低成本构建个人编码AI的尝试。</p>
+<p><strong>Melih Çat</strong> · @melih_cat · 2026-09-30T08:57:04.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 2.0K</p>
+<p><a href="https://x.com/melih_cat/status/2105220370802381123">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Dinosn/status/2105219203179639278"><img src="https://pbs.twimg.com/media/HTc9Ek8XUAA_fAC?format=jpg&amp;name=4096x4096" alt="Testing Jev in Raptor with Claude · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Dinosn/status/2105219203179639278">Testing Jev in Raptor with Claude</a></h3>
+<p>This post shares a technical practice of testing the Jev model with Claude in the Raptor environment.</p>
+<p><strong>中文摘要：</strong>该帖子分享了在Raptor环境中测试Jev模型与Claude配合使用的技术实践。</p>
+<p><strong>Nicolas Krassas</strong> · @Dinosn · 2026-09-30T08:52:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 934</p>
+<p><a href="https://x.com/Dinosn/status/2105219203179639278">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TomySpagnoletti/status/2105216687888855056"><img src="https://pbs.twimg.com/media/HTc5i-VXQAAd8Ad?format=jpg&amp;name=medium" alt="SpeedRead: Open-source tool using Jev to flag Claude Code output · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TomySpagnoletti/status/2105216687888855056">SpeedRead: Open-source tool using Jev to flag Claude Code output</a></h3>
+<p>SpeedRead is an open-source macOS app that pastes Claude Code output, while TypeSafe&#39;s Jev flags every decision and action in about 0.4 seconds. The rest fades out or disappears with one keystroke, helping developers quickly focus on key points.</p>
+<p><strong>中文摘要：</strong>SpeedRead 是一款 macOS 开源应用，可将 Claude Code 的输出粘贴进去，由 TypeSafe 的 Jev 在约 0.4 秒内标出每个决策和动作，其余内容淡出或一键隐藏，帮助开发者快速抓住重点。</p>
+<p><strong>Tomy</strong> · @TomySpagnoletti · 2026-09-30T08:42:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/TomySpagnoletti/status/2105216687888855056">在 X 查看原帖</a> · <a href="https://t.co/WAiYG4hbRx">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Pakgowithai/status/2105198791968068041"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama 0.35 now runs Jev-style decision models locally · 原帖视频截图" width="100%"></a>

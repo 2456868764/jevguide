@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 267 | 104 | 163 | 419K |
+| 271 | 104 | 167 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kapiltwt/status/2105325701557878937"><img src="https://pbs.twimg.com/media/HTeehHHawAAPlhC?format=jpg&amp;name=small" alt="User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kapiltwt/status/2105325701557878937">User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day</a></h3>
+<p>A user says Jev isn&#39;t cheap after being charged $5.80 for roughly 150 million tokens, calling it a rip-off.</p>
+<p><strong>中文摘要：</strong>一位用户表示 Jev 并不便宜，仅使用约 1.5 亿 token 就被收取 5.80 美元，认为费用过高。</p>
+<p><strong>Kapil Sareen</strong> · @kapiltwt · 2026-09-30T15:55:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/kapiltwt/status/2105325701557878937">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xchromium/status/2105325435714486777"><img src="https://pbs.twimg.com/media/HTeeU44bAAEy6wj?format=jpg&amp;name=medium" alt="Prompt that generates Jev criteria for any LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xchromium/status/2105325435714486777">Prompt that generates Jev criteria for any LLM</a></h3>
+<p>Paste this prompt into any LLM or agent and it writes your Jev criteria for you. Give it one task you still judge by hand; it returns the questions, thresholds, and what your code does on either side of the line. Vague words like &#39;good&#39; and &#39;strong&#39; get rejected.</p>
+<p><strong>中文摘要：</strong>将此提示词粘贴到任意LLM或agent中，它会为你编写Jev标准。你只需给出一个仍由人工判断的任务，它会返回具体问题、各项阈值，以及代码在阈值两侧的行为；模糊词汇如“good”“strong”会被拒绝。</p>
+<p><strong>Chrome</strong> · @0xchromium · 2026-09-30T15:54:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 204</p>
+<p><a href="https://x.com/0xchromium/status/2105325435714486777">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/itsvlady/status/2105320991924564394"><img src="https://pbs.twimg.com/media/HTeaBEyWMAAxMbC?format=jpg&amp;name=medium" alt="Open-Source Jev Alternative Laya Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/itsvlady/status/2105320991924564394">Open-Source Jev Alternative Laya Released</a></h3>
+<p>Someone open-sourced Laya, a free classifier that runs locally and answers in about 30 milliseconds, while Jev takes around 200 milliseconds, reportedly doing the exact same job as Jev.</p>
+<p><strong>中文摘要：</strong>有人开源了一款名为Laya的免费分类器，可在本地运行，响应约30毫秒，而Jev约需200毫秒，据称可完成与Jev相同的工作。</p>
+<p><strong>Vlady</strong> · @itsvlady · 2026-09-30T15:36:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
+<p><a href="https://x.com/itsvlady/status/2105320991924564394">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MathSorcerer/status/2105314577907060832"><img src="https://pbs.twimg.com/media/HTeUNUEaoAA0Ol8?format=jpg&amp;name=medium" alt="Julia implementation of Jev-compatible Jeff model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MathSorcerer/status/2105314577907060832">Julia implementation of Jev-compatible Jeff model</a></h3>
+<p>This post introduces a Julia implementation of the Jev-compatible small high-speed decision-making model Jeff, noting a slight speed improvement.</p>
+<p><strong>中文摘要：</strong>该帖介绍将Jev兼容的小型高速决策模型Jeff用Julia实现，并称运行速度略有提升。</p>
+<p><strong>ごまふあざらし(GomahuAzarashi)</strong> · @MathSorcerer · 2026-09-30T15:11:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 98</p>
+<p><a href="https://x.com/MathSorcerer/status/2105314577907060832">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/defaiscope/status/2105307932711592346"><img src="https://pbs.twimg.com/media/HTeAy2HWYAAlBGw?format=jpg&amp;name=medium" alt="AutoTrust Distills TypeSafe&#39;s Jev 1.13 into Open Model JEV-27B · 原帖图片" width="100%"></a>

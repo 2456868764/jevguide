@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 451 | 199 | 253 | 1.6M |
+| 453 | 199 | 255 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/GianPaJ/status/2105325849306075547"><img src="https://pbs.twimg.com/media/HTees4dW4AAkQoq?format=jpg&amp;name=medium" alt="Question on Jev&#39;s practical use for voice calls · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GianPaJ/status/2105325849306075547">Question on Jev&#39;s practical use for voice calls</a></h3>
+<p>The tweet asks whether Jev is used to analyze voice call LLM traces and predict/classify them, or used during calls for something called &#39;booked&#39;.</p>
+<p><strong>中文摘要：</strong>该推文询问 Jev 是否用于分析语音通话的 LLM 痕迹，并对其进行预测/分类，或在通话过程中用于&#39;booked&#39;操作。</p>
+<p><strong>Gianfranco P.</strong> · @GianPaJ · 2026-09-30T15:56:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/GianPaJ/status/2105325849306075547">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/crystalcleardev/status/2105308232944128456"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105308173208834048/pu/img/woTdIvGxgpwDyViQ.jpg" alt="Building a Tunable, Explainable Jev Spam Filter · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/crystalcleardev/status/2105308232944128456">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LaurentSigg/status/2105305426866966688"><img src="https://pbs.twimg.com/amplify_video_thumb/2105281557393244160/img/Sd-2iZZlKF4WJ-Wg.jpg" alt="Jev&#39;s Role Between Retrieval and Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/LaurentSigg/status/2105305426866966688">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lucian__03/status/2105304912502353969"><img src="https://pbs.twimg.com/media/HTdwT6BbIAA5cWx?format=jpg&amp;name=medium" alt="Jev vs OpenAI Decisions API: The difference in judgment models · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 175</p>
 <p><a href="https://x.com/lucian__03/status/2105304912502353969">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xAIGOAT/status/2105298693389779007"><img src="https://pbs.twimg.com/amplify_video_thumb/2105298417685536768/img/gx5bzTd3xBlYJXwG.jpg" alt="How JEV Works Inside an Agent Loop · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 149</p>
 <p><a href="https://x.com/0xAIGOAT/status/2105298693389779007">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Teka1900/status/2105298350669271368"><img src="https://pbs.twimg.com/amplify_video_thumb/2105297894685487104/img/URDwUPD9QH0iUD2n.jpg" alt="Jev + Opus 5.5: A Second Brain Through Division of Labor · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 13 &nbsp; 📊 209</p>
 <p><a href="https://x.com/Teka1900/status/2105298350669271368">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/luc_allain_/status/2105293084821221714"><img src="https://pbs.twimg.com/amplify_video_thumb/2105277603779067904/img/jOJCrFBGsLSeJV1K.jpg" alt="Jev: A Revolution for Building Reactive AI Interfaces · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/luc_allain_/status/2105293084821221714">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/610birth/status/2105280925999480861"><img src="https://pbs.twimg.com/media/HTd10ECaYAADpmQ?format=jpg&amp;name=medium" alt="What is Jev? A Simple Guide to the System One Model · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>ろくい・ちまる・バース@生成AIプロデューサー</strong> · @610birth · 2026-09-30T12:57:41.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/610birth/status/2105280925999480861">在 X 查看原帖</a> · <a href="https://t.co/Q9quWD3e2R">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/erhanmeydan/status/2105280678384287908"><img src="https://pbs.twimg.com/media/HTd1mo9XQAAYC8P?format=jpg&amp;name=medium" alt="Jev Defines a New Category: Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/erhanmeydan/status/2105280678384287908">Jev Defines a New Category: Decision Model</a></h3>
+<p>Since TypeSafe released Jev, others are chasing the same kind of output. Jev does not generate text; it takes text and questions, then returns probabilities for each option.</p>
+<p><strong>中文摘要：</strong>TypeSafe 发布 Jev 后，业界开始追逐同类输出。Jev 不生成文本，而是接收文本和问题，为每个选项返回概率。</p>
+<p><strong>Erhan Meydan</strong> · @erhanmeydan · 2026-09-30T12:56:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/erhanmeydan/status/2105280678384287908">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/usmancognify/status/2105245046765429161"><img src="https://pbs.twimg.com/amplify_video_thumb/2105243294674690048/img/U9KiizpYPH3Cle6j.jpg" alt="Jev: Scores Answers, Doesn&#39;t Generate Them · 原帖视频截图" width="100%"></a>

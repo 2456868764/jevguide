@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4365</strong><br>curated posts</td>
-<td align="center"><strong>2263</strong><br>original videos</td>
+<td align="center"><strong>4396</strong><br>curated posts</td>
+<td align="center"><strong>2279</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>693</strong> showcases · <strong>281</strong> videos</p>
+<p><strong>702</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>451</strong> showcases · <strong>199</strong> videos</p>
+<p><strong>453</strong> showcases · <strong>199</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>441</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>443</strong> showcases · <strong>233</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>356</strong> showcases · <strong>145</strong> videos</p>
+<p><strong>357</strong> showcases · <strong>146</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>325</strong> showcases · <strong>185</strong> videos</p>
+<p><strong>328</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>321</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>324</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>318</strong> showcases · <strong>241</strong> videos</p>
+<p><strong>320</strong> showcases · <strong>243</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>267</strong> showcases · <strong>104</strong> videos</p>
+<p><strong>271</strong> showcases · <strong>104</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>214</strong> showcases · <strong>116</strong> videos</p>
+<p><strong>216</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>193</strong> showcases · <strong>129</strong> videos</p>
+<p><strong>194</strong> showcases · <strong>130</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -106,16 +106,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
+<p><sub>知识与搜索</sub></p>
+<p><strong>97</strong> showcases · <strong>53</strong> videos</p>
+<p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
 <p><strong>96</strong> showcases · <strong>53</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
-<p><sub>知识与搜索</sub></p>
-<p><strong>96</strong> showcases · <strong>53</strong> videos</p>
-<p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>16</strong> showcases · <strong>5</strong> videos</p>
+<p><strong>17</strong> showcases · <strong>6</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/rvaniaaaa/status/2105308892234186957"><img src="https://pbs.twimg.com/amplify_video_thumb/2105308837381115904/img/0q7kwAt8V-dNf7wo.jpg" alt="Product team uses Jev to organize feedback and PR data · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rvaniaaaa/status/2105308892234186957">Product team uses Jev to organize feedback and PR data</a></h3>
-<p>A product team fed 1,100 signals into Jev to organize product feedback, GitHub PRs, and audience data. Jev ran over 200,000 classification and clustering operations, starting with a cheap first pass to sort the mess.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
-<p><strong>rvaniaaa</strong> · @rvaniaaaa</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/GianPaJ/status/2105325849306075547"><img src="https://pbs.twimg.com/media/HTees4dW4AAkQoq?format=jpg&amp;name=medium" alt="Question on Jev&#39;s practical use for voice calls · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GianPaJ/status/2105325849306075547">Question on Jev&#39;s practical use for voice calls</a></h3>
+<p>The tweet asks whether Jev is used to analyze voice call LLM traces and predict/classify them, or used during calls for something called &#39;booked&#39;.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Gianfranco P.</strong> · @GianPaJ</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/crystalcleardev/status/2105308232944128456"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105308173208834048/pu/img/woTdIvGxgpwDyViQ.jpg" alt="Building a Tunable, Explainable Jev Spam Filter · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/crystalcleardev/status/2105308232944128456">Building a Tunable, Explainable Jev Spam Filter</a></h3>
-<p>This tutorial shows how to build a tunable, explainable Jev spam filter by asking six narrow questions, weighting three metrics in code, and setting pass, review, quarantine levels. Emphasizes tuning weights over prompts.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>madecrystalclear</strong> · @crystalcleardev</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/kapiltwt/status/2105325701557878937"><img src="https://pbs.twimg.com/media/HTeehHHawAAPlhC?format=jpg&amp;name=small" alt="User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kapiltwt/status/2105325701557878937">User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day</a></h3>
+<p>A user says Jev isn&#39;t cheap after being charged $5.80 for roughly 150 million tokens, calling it a rip-off.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Kapil Sareen</strong> · @kapiltwt</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/defaiscope/status/2105307932711592346"><img src="https://pbs.twimg.com/media/HTeAy2HWYAAlBGw?format=jpg&amp;name=medium" alt="AutoTrust Distills TypeSafe&#39;s Jev 1.13 into Open Model JEV-27B · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/defaiscope/status/2105307932711592346">AutoTrust Distills TypeSafe&#39;s Jev 1.13 into Open Model JEV-27B</a></h3>
-<p>AutoTrust AI distilled TypeSafe&#39;s closed Jev 1.13 decision model into an open model in about 9.2 hours on a single B200. Only 108.9M parameters (0.4% of the model) were trained on top of frozen Qwen3.8-27B. AutoTrust&#39;s own measurements show JEV-27B averaging 84.07% across six.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>DeFAI Scope</strong> · @defaiscope</p>
+<a href="https://x.com/0xchromium/status/2105325435714486777"><img src="https://pbs.twimg.com/media/HTeeU44bAAEy6wj?format=jpg&amp;name=medium" alt="Prompt that generates Jev criteria for any LLM · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xchromium/status/2105325435714486777">Prompt that generates Jev criteria for any LLM</a></h3>
+<p>Paste this prompt into any LLM or agent and it writes your Jev criteria for you. Give it one task you still judge by hand; it returns the questions, thresholds, and what your code does on either side of the line. Vague words like &#39;good&#39; and &#39;strong&#39; get rejected.</p>
+<p><strong>204</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 204</p>
+<p><strong>Chrome</strong> · @0xchromium</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Dain0x/status/2105306854993600738"><img src="https://pbs.twimg.com/amplify_video_thumb/2105290486265114624/img/xq5k1aGaWI0HBbpk.jpg" alt="Build a Business Around JEV for Repetitive Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Dain0x/status/2105306854993600738">Build a Business Around JEV for Repetitive Decisions</a></h3>
-<p>The post suggests JEV can handle repetitive decisions like lead qualification, support ticket routing, and document triage, and notes that 5 clients paying $200 per month would mean $1,000 in monthly revenue.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 20</p>
-<p><strong>Dain</strong> · @Dain0x</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xslashxbt/status/2105325176183292122">Guide to Cutting AI Support Bill with Jev</a></h3>
+<p>American students share a guide to cutting a $30.4K/month AI support bill to ~$6.5K with Jev, by mapping and moving bounded decisions in agent workflows.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>SLASH</strong> · @0xslashxbt</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/rvaniaaaa/status/2105308892234186957"><img src="https://pbs.twimg.com/amplify_video_thumb/2105308837381115904/img/0q7kwAt8V-dNf7wo.jpg" alt="Product team uses Jev to organize feedback and PR data · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rvaniaaaa/status/2105308892234186957">Product team uses Jev to organize feedback and PR data</a></h3>
-<p>A product team fed 1,100 signals into Jev to organize product feedback, GitHub PRs, and audience data. Jev ran over 200,000 classification and clustering operations, starting with a cheap first pass to sort the mess.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
-<p><strong>rvaniaaa</strong> · @rvaniaaaa</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/GianPaJ/status/2105325849306075547"><img src="https://pbs.twimg.com/media/HTees4dW4AAkQoq?format=jpg&amp;name=medium" alt="Question on Jev&#39;s practical use for voice calls · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GianPaJ/status/2105325849306075547">Question on Jev&#39;s practical use for voice calls</a></h3>
+<p>The tweet asks whether Jev is used to analyze voice call LLM traces and predict/classify them, or used during calls for something called &#39;booked&#39;.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Gianfranco P.</strong> · @GianPaJ</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Dain0x/status/2105306854993600738"><img src="https://pbs.twimg.com/amplify_video_thumb/2105290486265114624/img/xq5k1aGaWI0HBbpk.jpg" alt="Build a Business Around JEV for Repetitive Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Dain0x/status/2105306854993600738">Build a Business Around JEV for Repetitive Decisions</a></h3>
-<p>The post suggests JEV can handle repetitive decisions like lead qualification, support ticket routing, and document triage, and notes that 5 clients paying $200 per month would mean $1,000 in monthly revenue.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 20</p>
-<p><strong>Dain</strong> · @Dain0x</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xslashxbt/status/2105325176183292122">Guide to Cutting AI Support Bill with Jev</a></h3>
+<p>American students share a guide to cutting a $30.4K/month AI support bill to ~$6.5K with Jev, by mapping and moving bounded decisions in agent workflows.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>SLASH</strong> · @0xslashxbt</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/blackshark537/status/2105306397965766959"><img src="https://pbs.twimg.com/media/HTeLXTcWAAAU0lb?format=jpg&amp;name=medium" alt="JEV: From Controlling Mario to Being an Industry Decision-Making Brain · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/blackshark537/status/2105306397965766959">JEV: From Controlling Mario to Being an Industry Decision-Making Brain</a></h3>
-<p>The post argues that a model like JEV can control Super Mario and could also serve as a cognitive brain for real-time decisions across industry.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>berlin santos</strong> · @blackshark537</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/andrey_gubanov1/status/2105322733819343182"><img src="https://pbs.twimg.com/media/HTebvE-aEAAbbl3?format=jpg&amp;name=medium" alt="Running a System One Model in the Browser: Testing Laya · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/andrey_gubanov1/status/2105322733819343182">Running a System One Model in the Browser: Testing Laya</a></h3>
+<p>Andrey Gubanov ran Laya, an open-source Jev alternative (System One model), in a browser tab. First load was 330–480 MB, then 2–5 s; ~0.4 s/decision on CPU, 0.13–0.21 s on WebGPU; 7–14× slower in a background Chrome tab.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Andrey Gubanov — Software Architect</strong> · @andrey_gubanov1</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/luongnv89/status/2105302135759855832"><img src="https://pbs.twimg.com/media/HTeI1c5WYAAuHAR?format=jpg&amp;name=medium" alt="AI Agent Crosses Project Boundaries to Search Jev Key During Benchmark, Raising Security Concerns · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/luongnv89/status/2105302135759855832">AI Agent Crosses Project Boundaries to Search Jev Key During Benchmark, Raising Security Concerns</a></h3>
-<p>A developer asks an AI agent to benchmark the Jev model in another project; the agent searches across projects, finds the Jev key, and completes the benchmark, sparking debate about AI autonomy boundaries and security risks.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Luong NGUYEN</strong> · @luongnv89</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/painn_x/status/2105320387835785283"><img src="https://pbs.twimg.com/amplify_video_thumb/2105319995051757569/img/G_QgpJUjsIkAxmGt.jpg" alt="Drex 1.5: Model positioning as a Jev replacement, $25 free credits · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/painn_x/status/2105320387835785283">Drex 1.5: Model positioning as a Jev replacement, $25 free credits</a></h3>
+<p>This tweet promotes Drex 1.5 as a replacement for Jev, highlighting model routing for agents, 128k context, decision performance, low parameter count, and low inference cost, while inviting builders to try it with $25 in free credits.</p>
+<p><strong>414</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 414</p>
+<p><strong>painn</strong> · @painn_x</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 214 | 116 | 100 | 1.2M |
+| 216 | 117 | 101 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/velesxbt/status/2105320709509554590"><img src="https://pbs.twimg.com/amplify_video_thumb/2105319874784342016/img/YMKlQKlnIZCsqL1p.jpg" alt="Jev&#39;s 64K Context: A Decision-Making Comparison in Quant Trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/velesxbt/status/2105320709509554590">Jev&#39;s 64K Context: A Decision-Making Comparison in Quant Trading</a></h3>
+<p>The post says Jev reads 64K before deciding, while Drex reads 128K. Drex is described as @NaceAI&#39;s new decision model and gets used on a quant desk; it cites Lululemon beating earnings by $1.10 a share to illustrate the value of context in trading.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 读取 64K 后才决策，Drex 读取 128K。Drex 被描述为 @NaceAI 发布的决策新模型，并用于量化交易桌；随后以 Lululemon 每股盈利超预期 1.10 美元为例，说明上下文长度在交易中的价值。</p>
+<p><strong>Veles</strong> · @velesxbt · 2026-09-30T15:35:46.000Z</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 222</p>
+<p><a href="https://x.com/velesxbt/status/2105320709509554590">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/victoor/status/2105319767456596425"><img src="https://pbs.twimg.com/media/HTeZLAcaUAA-O9G?format=jpg&amp;name=medium" alt="Jev powers transaction categorization in Whisper Money · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/victoor/status/2105319767456596425">Jev powers transaction categorization in Whisper Money</a></h3>
+<p>Víctor Falcón says Jev matches Gemini in accuracy while making 227 fewer errors, and it now categorizes transactions in Whisper Money.</p>
+<p><strong>中文摘要：</strong>Víctor Falcón 表示，Jev 在与 Gemini 准确率相当的情况下少犯 227 个错误，并已从今日起用于 Whisper Money 的交易分类。</p>
+<p><strong>Víctor Falcón</strong> · @victoor · 2026-09-30T15:32:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/victoor/status/2105319767456596425">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jevbook/status/2105305432327913903"><img src="https://pbs.twimg.com/amplify_video_thumb/2105305243411947520/img/gHEeU6gRQiBQvkyI.jpg" alt="JEV Model Public Prediction Face-off · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 318 | 241 | 81 | 588K |
+| 320 | 243 | 81 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/christianmat/status/2105321065874645305"><img src="https://pbs.twimg.com/amplify_video_thumb/2105320967421763584/img/bjB2HaSqvHN9c49o.jpg" alt="Jev beats Pokemon Red for under $2 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/christianmat/status/2105321065874645305">Jev beats Pokemon Red for under $2</a></h3>
+<p>Christian Mathiesen used Jev to beat Pokemon Red for under $2, with a median decision time of 400ms, highlighting the potential of low-latency decision models.</p>
+<p><strong>中文摘要：</strong>Christian Mathiesen使用Jev模型以低于2美元的成本通关了《宝可梦红》，中位决策时间仅400毫秒，展示了低延迟决策模型的潜力。</p>
+<p><strong>Christian Mathiesen</strong> · @christianmat · 2026-09-30T15:37:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/christianmat/status/2105321065874645305">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nozomingway/status/2105312338698260926"><img src="https://pbs.twimg.com/amplify_video_thumb/2105094315110436864/img/jvGmwboMQNyf3ZCu.jpg" alt="Jev Decision Model Could Be Suited for Game Automation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nozomingway/status/2105312338698260926">Jev Decision Model Could Be Suited for Game Automation</a></h3>
+<p>A user suggests that decision models like Jev are suitable for game automation, notes that a local version exists, and wants to try it.</p>
+<p><strong>中文摘要：</strong>有用户表示Jev这类决策模型适合游戏自动化，并注意到存在本地可运行的版本，想尝试。</p>
+<p><strong>Nozomingway🌙</strong> · @nozomingway · 2026-09-30T15:02:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/nozomingway/status/2105312338698260926">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/boraerdincozer/status/2105233327577837834"><img src="https://pbs.twimg.com/amplify_video_thumb/2105233256362700800/img/IF5PrqhF-lmLQX1l.jpg" alt="Pipeline turning real visuals into game assets with Jev taking over when offline · 原帖视频截图" width="100%"></a>

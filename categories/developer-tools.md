@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 441 | 231 | 212 | 3.6M |
+| 443 | 233 | 212 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/He1s_Sammy/status/2105320930448674967"><img src="https://pbs.twimg.com/amplify_video_thumb/2105320861506932736/img/3d1q4jfRnPj2PL0n.jpg" alt="An OpenRouter for Agent Harnesses Has Been Open-Sourced · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/He1s_Sammy/status/2105320930448674967">An OpenRouter for Agent Harnesses Has Been Open-Sourced</a></h3>
+<p>Developers have open-sourced a plug-and-play infrastructure layer that lets you run multiple agent harnesses through one interface, including Codex, Claude Code, Hermes, DeepSeek Harness, and System One powered by JEV.</p>
+<p><strong>中文摘要：</strong>开发者开源了一个即插即用的基础设施层，让你通过统一接口运行多种智能体框架，包括 Codex、Claude Code、Hermes、DeepSeek Harness，以及由 JEV 驱动的 System One 等。</p>
+<p><strong>S ᜰ</strong> · @He1s_Sammy · 2026-09-30T15:36:39.000Z</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 461</p>
+<p><a href="https://x.com/He1s_Sammy/status/2105320930448674967">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DanVitorPH/status/2105316750384349373"><img src="https://pbs.twimg.com/amplify_video_thumb/2105316711448674304/img/Sl49Xk77txr4BYLU.jpg" alt="Where can Jev replace LLM? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DanVitorPH/status/2105316750384349373">Where can Jev replace LLM?</a></h3>
+<p>The post asks in which application scenarios the Jev model can replace large language models (LLMs), sparking discussion on its applicable scope.</p>
+<p><strong>中文摘要：</strong>该帖提问Jev模型在哪些应用场景中能够替代大型语言模型（LLM），引发关于其适用范围的讨论。</p>
+<p><strong>Dan</strong> · @DanVitorPH · 2026-09-30T15:20:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 152</p>
+<p><a href="https://x.com/DanVitorPH/status/2105316750384349373">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vintcessun/status/2105296370030854431"><img src="https://pbs.twimg.com/media/HTeD4kQa0AADwui?format=jpg&amp;name=large" alt="jevgrep: Locate Files by Code Intent with Jev · 原帖图片" width="100%"></a>

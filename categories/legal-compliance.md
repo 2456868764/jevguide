@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 16 | 5 | 11 | 4.3K |
+| 17 | 6 | 11 | 4.3K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hammertime_one/status/2105316757237842079"><img src="https://pbs.twimg.com/amplify_video_thumb/2105316573850259456/img/VORF0s7GKErn_gX6.jpg" alt="JEV: Fast and Cheap AI Document Reader · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>法律合规</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hammertime_one/status/2105316757237842079">JEV: Fast and Cheap AI Document Reader</a></h3>
+<p>User shares how to solve high AI bills, recommending JEV, saying it&#39;s fast, cheap, and reads everything, e.g., a law firm can review 5,000 contracts before Friday.</p>
+<p><strong>中文摘要：</strong>用户分享如何解决AI账单过高问题，推荐JEV，称其快速便宜且能读取所有内容，例如律所可在周五前审查5000份合同。</p>
+<p><strong>hammertime</strong> · @hammertime_one · 2026-09-30T15:20:04.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 12 &nbsp; 📊 206</p>
+<p><a href="https://x.com/hammertime_one/status/2105316757237842079">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/_svs_/status/2105238458910515655"><img src="https://pbs.twimg.com/media/HTdPFSKaIAAE6AA?format=jpg&amp;name=medium" alt="Jev-powered PII redaction · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 538</p>
 <p><a href="https://x.com/_svs_/status/2105238458910515655">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/starmexxx/status/2105186338697884049"><img src="https://pbs.twimg.com/amplify_video_thumb/2105185869074173952/img/kBN9UMlBjNBzBerj.jpg" alt="JEV+Gemini+YouTube: A timestamp-based copyright agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 432</p>
 <p><a href="https://x.com/starmexxx/status/2105186338697884049">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akshay_lawlens/status/2104202383387734123"><img src="https://pbs.twimg.com/media/HTOgw7CbQAAunDz?format=jpg&amp;name=medium" alt="Jev&#39;s intelligence in legal case classification · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/akshay_lawlens/status/2104202383387734123">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/predict_addict/status/2103463203279970701"><img src="https://pbs.twimg.com/media/HTEAohpXwAAKMJ4?format=jpg&amp;name=medium" alt="Preserving Evidence on Jev Calibration Claims · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 161</p>
 <p><a href="https://x.com/predict_addict/status/2103463203279970701">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JayBuidl/status/2102217266255269936"><img src="https://pbs.twimg.com/media/HSyK-8zXQAAk22Z?format=jpg&amp;name=medium" alt="Testing Jev as a Kleros Juror in the ClawBank Dispute · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 103</p>
 <p><a href="https://x.com/JayBuidl/status/2102217266255269936">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jozef_gherman/status/2102424217798996420"><img src="https://pbs.twimg.com/amplify_video_thumb/2102422400348323840/img/g53WQ7aTJU5vOWc7.jpg" alt="LegalJev: Fast Legal Citation Verification with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 62</p>
 <p><a href="https://x.com/jozef_gherman/status/2102424217798996420">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mika_systems/status/2102137404660306022"><img src="https://pbs.twimg.com/media/HSxKWKtWsAATRfb?format=jpg&amp;name=medium" alt="TypeSafe Jev handles 13 GDPR questions in one call · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 14 &nbsp; 🔁 8 &nbsp; ♡ 40 &nbsp; 📊 1.0K</p>
 <p><a href="https://x.com/mika_systems/status/2102137404660306022">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jitbit/status/2102134946882027550"><img src="https://pbs.twimg.com/media/HSxIh06XMAA6kl7?format=jpg&amp;name=medium" alt="Jev Updates Customer Agreement · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 154</p>
 <p><a href="https://x.com/jitbit/status/2102134946882027550">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/matu79go/status/2101878714917429488"><img src="https://pbs.twimg.com/amplify_video_thumb/2101877976375939072/img/1PPCZ99yIK8mBlq9.jpg" alt="Jev benchmarked on legal contract review: 820 decisions in 8.3s · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/matu79go/status/2101878714917429488">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/issun_studio_jp/status/2101938398642766005"><img src="https://pbs.twimg.com/media/HSuVtUHacAAFO2f?format=jpg&amp;name=medium" alt="Building a Power Harassment Checker with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/issun_studio_jp/status/2101938398642766005">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xfanwu/status/2101850900356649247"><img src="https://pbs.twimg.com/amplify_video_thumb/2101831753363259392/img/0FZG8mGApbMEfRIY.jpg" alt="Jev&#39;s disagreement log on 13% of court rulings: a classifier can&#39;t just be vibes with JSON · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/xfanwu/status/2101850900356649247">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/meneskeles/status/2102156897553948733"><img src="https://pbs.twimg.com/media/HSxcdOBWoAAkHbx?format=jpg&amp;name=medium" alt="Website Uses Jev Model to Analyze Whether Tweets Count as Insults · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/meneskeles/status/2102156897553948733">在 X 查看原帖</a> · <a href="https://t.co/1AcdbCnMPJ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kis/status/2101649840967168144"><img src="https://pbs.twimg.com/media/HSqO0gAaoAAQSID?format=png&amp;name=small" alt="TypeSafe AI Terms Prohibit Distillation, Caution Advised for Jev Use · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 9 &nbsp; ♡ 48 &nbsp; 📊 4.3K</p>
 <p><a href="https://x.com/kis/status/2101649840967168144">在 X 查看原帖</a> · <a href="https://t.co/Tr3z4D58Ky">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/orz99/status/2100794526575280274"><img src="https://pbs.twimg.com/media/HSeFdOPbgAAuQPD?format=jpg&amp;name=medium" alt="Jev completes Traditional Chinese traffic-accident legal analysis in one API call · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
 <p><a href="https://x.com/orz99/status/2100794526575280274">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/truevis/status/2100904915690471473"><img src="https://pbs.twimg.com/media/HSfoQ3sawAEBb_0?format=png&amp;name=medium" alt="Building a Legal Chatbot Database Router with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/truevis/status/2100904915690471473">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/____NanaKong/status/2100691683071443024"><img src="https://pbs.twimg.com/amplify_video_thumb/2100676124544290816/img/gglnVPdOvZOY65g_.jpg" alt="Jev Combined with Legal Workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,5 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/____NanaKong/status/2100691683071443024">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 271 | 104 | 167 | 419K |
+| 273 | 105 | 168 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DistillAI1/status/2105372174525878376"><img src="https://pbs.twimg.com/media/HTfI1e7bYAEqr9v?format=jpg&amp;name=medium" alt="awesome-jev resource list · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DistillAI1/status/2105372174525878376">awesome-jev resource list</a></h3>
+<p>A community resource list aggregating papers, project repos, and evaluation write-ups related to Jev in research and robotics.</p>
+<p><strong>中文摘要：</strong>整合 Jev 在科研、机器人等领域的相关论文、项目仓库和评估报告的社区资源列表。</p>
+<p><strong>Distill AI</strong> · @DistillAI1 · 2026-09-30T19:00:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/DistillAI1/status/2105372174525878376">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/kapiltwt/status/2105325701557878937"><img src="https://pbs.twimg.com/media/HTeehHHawAAPlhC?format=jpg&amp;name=small" alt="User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/kapiltwt/status/2105325701557878937">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xchromium/status/2105325435714486777"><img src="https://pbs.twimg.com/media/HTeeU44bAAEy6wj?format=jpg&amp;name=medium" alt="Prompt that generates Jev criteria for any LLM · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Chrome</strong> · @0xchromium · 2026-09-30T15:54:33.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 204</p>
 <p><a href="https://x.com/0xchromium/status/2105325435714486777">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zer0point_eth/status/2105324196838457425"><img src="https://pbs.twimg.com/amplify_video_thumb/2105324164449972224/img/9cn5S-v5LkkXAucL.jpg" alt="Production Jev &amp; Claude Skills Collection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zer0point_eth/status/2105324196838457425">Production Jev &amp; Claude Skills Collection</a></h3>
+<p>This post highlights a video with 50 production-ready Jev and Claude skills you can drop into your workspace, letting builders run the entire engineering stack from a single prompt—like turning Figma designs into frontend code and spinning up databases on Neon and Supabase.</p>
+<p><strong>中文摘要：</strong>介绍一段视频，其中包含 50 个可立即用于工作区的生产级 Jev 与 Claude 技能，支持从单一提示词驱动完整工程栈，例如将 Figma 设计转换为前端代码，并在 Neon 和 Supabase 上快速创建数据库。</p>
+<p><strong>Zero</strong> · @zer0point_eth · 2026-09-30T15:49:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><a href="https://x.com/zer0point_eth/status/2105324196838457425">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

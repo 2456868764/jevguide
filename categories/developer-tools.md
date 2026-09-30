@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 443 | 233 | 212 | 3.6M |
+| 445 | 234 | 213 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AkshaySubr42403/status/2105373678925926537"><img src="https://pbs.twimg.com/amplify_video_thumb/2105373362356703233/img/65updGhydFZmJiag.jpg" alt="Jev-guided massively parallel UI testing: 16 bugs in 3 minutes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AkshaySubr42403/status/2105373678925926537">Jev-guided massively parallel UI testing: 16 bugs in 3 minutes</a></h3>
+<p>The author turned an Excalidraw PR into a massive UI state space and deployed 200 machines to explore it in parallel, with Luna guiding the search and Jev adjusting it in real time, finding 16 bugs in 3 minutes.</p>
+<p><strong>中文摘要：</strong>作者将 Excalidraw PR 转变为巨大的 UI 状态空间，派出 200 台机器并行探索，由 Luna 引导搜索、Jev 实时调整，最终在 3 分钟内发现 16 个 bug。</p>
+<p><strong>Akshay Subramaniam</strong> · @AkshaySubr42403 · 2026-09-30T19:06:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/AkshaySubr42403/status/2105373678925926537">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/He1s_Sammy/status/2105320930448674967"><img src="https://pbs.twimg.com/amplify_video_thumb/2105320861506932736/img/3d1q4jfRnPj2PL0n.jpg" alt="An OpenRouter for Agent Harnesses Has Been Open-Sourced · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 461</p>
 <p><a href="https://x.com/He1s_Sammy/status/2105320930448674967">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DanVitorPH/status/2105316750384349373"><img src="https://pbs.twimg.com/amplify_video_thumb/2105316711448674304/img/Sl49Xk77txr4BYLU.jpg" alt="Where can Jev replace LLM? · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Dan</strong> · @DanVitorPH · 2026-09-30T15:20:02.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 152</p>
 <p><a href="https://x.com/DanVitorPH/status/2105316750384349373">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JulianGoldieSEO/status/2105311391343337881"><img src="https://pbs.twimg.com/media/HTeRF3-a0AAqf9v?format=jpg&amp;name=medium" alt="Jev AI: An AI That Makes Choices · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JulianGoldieSEO/status/2105311391343337881">Jev AI: An AI That Makes Choices</a></h3>
+<p>The post introduces Jev AI, which doesn&#39;t write paragraphs but makes choices from options you provide. The author walks through speed demos and practical uses, then unpacks the reported 80% workflow time saving with Opus 5.5.</p>
+<p><strong>中文摘要：</strong>帖子介绍Jev AI，其特点是不生成段落，而是从用户提供的选项中进行选择。作者演示了速度和使用案例，并提到使用Opus 5.5可节省80%的工作流程时间。</p>
+<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO · 2026-09-30T14:58:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.2K</p>
+<p><a href="https://x.com/JulianGoldieSEO/status/2105311391343337881">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

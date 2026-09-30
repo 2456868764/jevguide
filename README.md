@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4396</strong><br>curated posts</td>
-<td align="center"><strong>2279</strong><br>original videos</td>
+<td align="center"><strong>4406</strong><br>curated posts</td>
+<td align="center"><strong>2286</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>702</strong> showcases · <strong>283</strong> videos</p>
+<p><strong>703</strong> showcases · <strong>284</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>453</strong> showcases · <strong>199</strong> videos</p>
+<p><strong>454</strong> showcases · <strong>200</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>443</strong> showcases · <strong>233</strong> videos</p>
+<p><strong>445</strong> showcases · <strong>234</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>328</strong> showcases · <strong>188</strong> videos</p>
+<p><strong>329</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>324</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>325</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>271</strong> showcases · <strong>104</strong> videos</p>
+<p><strong>273</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>216</strong> showcases · <strong>117</strong> videos</p>
+<p><strong>217</strong> showcases · <strong>118</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>97</strong> showcases · <strong>53</strong> videos</p>
+<p><strong>98</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/GianPaJ/status/2105325849306075547"><img src="https://pbs.twimg.com/media/HTees4dW4AAkQoq?format=jpg&amp;name=medium" alt="Question on Jev&#39;s practical use for voice calls · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GianPaJ/status/2105325849306075547">Question on Jev&#39;s practical use for voice calls</a></h3>
-<p>The tweet asks whether Jev is used to analyze voice call LLM traces and predict/classify them, or used during calls for something called &#39;booked&#39;.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Gianfranco P.</strong> · @GianPaJ</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/stas_sorokin_/status/2105374822104469811"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Moving 52% of Jev API calls in a trading bot to a local 322M model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/stas_sorokin_/status/2105374822104469811">Moving 52% of Jev API calls in a trading bot to a local 322M model</a></h3>
+<p>The author shares experience using the paid Jev API in a trading bot: each call takes about 1.16s, and 52% of calls have been moved to a 322M model on a Mac mini. The key is identifying which stock-picking decisions can be made alone; paper trading is suggested first.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/kapiltwt/status/2105325701557878937"><img src="https://pbs.twimg.com/media/HTeehHHawAAPlhC?format=jpg&amp;name=small" alt="User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kapiltwt/status/2105325701557878937">User Complains Jev API Isn&#39;t Cheap: $5.80 in One Day</a></h3>
-<p>A user says Jev isn&#39;t cheap after being charged $5.80 for roughly 150 million tokens, calling it a rip-off.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Kapil Sareen</strong> · @kapiltwt</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xNexqor/status/2105373866176790816"><img src="https://pbs.twimg.com/amplify_video_thumb/2105350768853176320/img/h6DA1k6Jq_38-DrF.jpg" alt="Jev: An AI Model That Refuses to Write · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xNexqor/status/2105373866176790816">Jev: An AI Model That Refuses to Write</a></h3>
+<p>The post cites Miles Deutscher, arguing that the most important AI model of 2026 is not GPT-6 or Claude-style generative models, but Jev. Jev does not generate text; you send a state and a typed question, and get back a decision.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Nexqor</strong> · @0xNexqor</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/0xchromium/status/2105325435714486777"><img src="https://pbs.twimg.com/media/HTeeU44bAAEy6wj?format=jpg&amp;name=medium" alt="Prompt that generates Jev criteria for any LLM · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0xchromium/status/2105325435714486777">Prompt that generates Jev criteria for any LLM</a></h3>
-<p>Paste this prompt into any LLM or agent and it writes your Jev criteria for you. Give it one task you still judge by hand; it returns the questions, thresholds, and what your code does on either side of the line. Vague words like &#39;good&#39; and &#39;strong&#39; get rejected.</p>
-<p><strong>204</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 204</p>
-<p><strong>Chrome</strong> · @0xchromium</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/AkshaySubr42403/status/2105373678925926537"><img src="https://pbs.twimg.com/amplify_video_thumb/2105373362356703233/img/65updGhydFZmJiag.jpg" alt="Jev-guided massively parallel UI testing: 16 bugs in 3 minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AkshaySubr42403/status/2105373678925926537">Jev-guided massively parallel UI testing: 16 bugs in 3 minutes</a></h3>
+<p>The author turned an Excalidraw PR into a massive UI state space and deployed 200 machines to explore it in parallel, with Luna guiding the search and Jev adjusting it in real time, finding 16 bugs in 3 minutes.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Akshay Subramaniam</strong> · @AkshaySubr42403</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0xslashxbt/status/2105325176183292122">Guide to Cutting AI Support Bill with Jev</a></h3>
-<p>American students share a guide to cutting a $30.4K/month AI support bill to ~$6.5K with Jev, by mapping and moving bounded decisions in agent workflows.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>SLASH</strong> · @0xslashxbt</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/newsglobeorg/status/2105372728509223148"><img src="https://pbs.twimg.com/media/HTfJVvVXwAAjVLy?format=jpg&amp;name=medium" alt="OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/newsglobeorg/status/2105372728509223148">OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents</a></h3>
+<p>Breaking reports say OpenAI has introduced the Decisions API, described as a Jev clone to manage its swarming agents, underscoring the importance of fast, cheap intelligence.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Globenews</strong> · @newsglobeorg</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/GianPaJ/status/2105325849306075547"><img src="https://pbs.twimg.com/media/HTees4dW4AAkQoq?format=jpg&amp;name=medium" alt="Question on Jev&#39;s practical use for voice calls · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GianPaJ/status/2105325849306075547">Question on Jev&#39;s practical use for voice calls</a></h3>
-<p>The tweet asks whether Jev is used to analyze voice call LLM traces and predict/classify them, or used during calls for something called &#39;booked&#39;.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Gianfranco P.</strong> · @GianPaJ</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/stas_sorokin_/status/2105374822104469811"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Moving 52% of Jev API calls in a trading bot to a local 322M model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/stas_sorokin_/status/2105374822104469811">Moving 52% of Jev API calls in a trading bot to a local 322M model</a></h3>
+<p>The author shares experience using the paid Jev API in a trading bot: each call takes about 1.16s, and 52% of calls have been moved to a 322M model on a Mac mini. The key is identifying which stock-picking decisions can be made alone; paper trading is suggested first.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/newsglobeorg/status/2105372728509223148"><img src="https://pbs.twimg.com/media/HTfJVvVXwAAjVLy?format=jpg&amp;name=medium" alt="OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/newsglobeorg/status/2105372728509223148">OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents</a></h3>
+<p>Breaking reports say OpenAI has introduced the Decisions API, described as a Jev clone to manage its swarming agents, underscoring the importance of fast, cheap intelligence.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Globenews</strong> · @newsglobeorg</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/DistillAI1/status/2105372174525878376"><img src="https://pbs.twimg.com/media/HTfI1e7bYAEqr9v?format=jpg&amp;name=medium" alt="awesome-jev resource list · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DistillAI1/status/2105372174525878376">awesome-jev resource list</a></h3>
+<p>A community resource list aggregating papers, project repos, and evaluation write-ups related to Jev in research and robotics.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Distill AI</strong> · @DistillAI1</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/0xslashxbt/status/2105325176183292122">Guide to Cutting AI Support Bill with Jev</a></h3>
 <p>American students share a guide to cutting a $30.4K/month AI support bill to ~$6.5K with Jev, by mapping and moving bounded decisions in agent workflows.</p>
 <p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><strong>SLASH</strong> · @0xslashxbt</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/andrey_gubanov1/status/2105322733819343182"><img src="https://pbs.twimg.com/media/HTebvE-aEAAbbl3?format=jpg&amp;name=medium" alt="Running a System One Model in the Browser: Testing Laya · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/andrey_gubanov1/status/2105322733819343182">Running a System One Model in the Browser: Testing Laya</a></h3>
-<p>Andrey Gubanov ran Laya, an open-source Jev alternative (System One model), in a browser tab. First load was 330–480 MB, then 2–5 s; ~0.4 s/decision on CPU, 0.13–0.21 s on WebGPU; 7–14× slower in a background Chrome tab.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Andrey Gubanov — Software Architect</strong> · @andrey_gubanov1</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/painn_x/status/2105320387835785283"><img src="https://pbs.twimg.com/amplify_video_thumb/2105319995051757569/img/G_QgpJUjsIkAxmGt.jpg" alt="Drex 1.5: Model positioning as a Jev replacement, $25 free credits · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/painn_x/status/2105320387835785283">Drex 1.5: Model positioning as a Jev replacement, $25 free credits</a></h3>
-<p>This tweet promotes Drex 1.5 as a replacement for Jev, highlighting model routing for agents, 128k context, decision performance, low parameter count, and low inference cost, while inviting builders to try it with $25 in free credits.</p>
-<p><strong>414</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 414</p>
-<p><strong>painn</strong> · @painn_x</p>
 </td>
 </tr>
 </table>

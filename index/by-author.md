@@ -1,12 +1,12 @@
 # Jev Showcases by Author
 
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 28
-- [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 18
+- [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 19
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 16
 - [CyrilXBT](../authors/cyrilxbt.md) — 15
 - [Florian S](../authors/florian-s.md) — 14
+- [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 14
 - [Geek Lite](../authors/geek-lite.md) — 13
-- [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 13
 - [WTome](../authors/wtome.md) — 12
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
@@ -603,6 +603,7 @@
 - [🐖 ソロでぶ（solo.dev）｜開発牧場の家畜](../authors/solo-dev-開発牧場-家畜.md) — 1
 - [🐱๓Ꭵʂαԃ𐑾σᎥԃ🐱](../authors/jev-showcase.md) — 1
 - [💥](../authors/jev-showcase.md) — 1
+- [📺 archie^^🪄](../authors/archie.md) — 1
 - [🔝芒种金狗👑](../authors/芒种金狗.md) — 1
 - [🤷 Nico Martin](../authors/nico-martin.md) — 1
 - [0x_arjunghosh_ai](../authors/0x-arjunghosh-ai.md) — 1
@@ -742,6 +743,7 @@
 - [Akramovic 🦅](../authors/akramovic.md) — 1
 - [Akshay](../authors/akshay.md) — 1
 - [Akshay (lawlens.in)](../authors/akshay-lawlens-in.md) — 1
+- [Akshay Subramaniam](../authors/akshay-subramaniam.md) — 1
 - [Akzhan Kalimatov](../authors/akzhan-kalimatov.md) — 1
 - [Alain Ngongang](../authors/alain-ngongang.md) — 1
 - [Alan](../authors/alan.md) — 1
@@ -1200,6 +1202,7 @@
 - [diegotorres.eth](../authors/diegotorres-eth.md) — 1
 - [Digiato | دیجیاتو](../authors/digiato.md) — 1
 - [digital ghost](../authors/digital-ghost.md) — 1
+- [Distill AI](../authors/distill-ai.md) — 1
 - [djelal e5z](../authors/djelal-e5z.md) — 1
 - [Dmitry Korzhov](../authors/dmitry-korzhov.md) — 1
 - [Dmytro](../authors/dmytro.md) — 1
@@ -1386,6 +1389,7 @@
 - [Giorgio Tech](../authors/giorgio-tech.md) — 1
 - [Glasser](../authors/glasser.md) — 1
 - [Glaucia Lemos 🌊🤿🐠](../authors/glaucia-lemos.md) — 1
+- [Globenews](../authors/globenews.md) — 1
 - [Gocha](../authors/gocha.md) — 1
 - [God of Prompt](../authors/god-of-prompt.md) — 1
 - [GoFly](../authors/gofly.md) — 1
@@ -2061,6 +2065,7 @@
 - [Nett0](../authors/nett0.md) — 1
 - [neural nets.](../authors/neural-nets.md) — 1
 - [nexos.ai](../authors/nexos-ai.md) — 1
+- [Nexqor](../authors/nexqor.md) — 1
 - [NexusAi](../authors/nexusai.md) — 1
 - [NG](../authors/ng.md) — 1
 - [Niaz Morshed](../authors/niaz-morshed.md) — 1
@@ -2352,6 +2357,7 @@
 - [ROUT_DEV/AIなんでもC14](../authors/rout-dev-ai-c14.md) — 1
 - [Roxx](../authors/roxx.md) — 1
 - [Roxy Rodbeck](../authors/roxy-rodbeck.md) — 1
+- [roy mann](../authors/roy-mann.md) — 1
 - [RST Cloud](../authors/rst-cloud.md) — 1
 - [Ruben Hassid](../authors/ruben-hassid.md) — 1
 - [Rubs](../authors/rubs.md) — 1
@@ -2373,6 +2379,7 @@
 - [Sachin](../authors/sachin.md) — 1
 - [Sachin Jain](../authors/sachin-jain.md) — 1
 - [Sachin Mohan](../authors/sachin-mohan.md) — 1
+- [Sagar jethi](../authors/sagar-jethi.md) — 1
 - [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 1
 - [sai](../authors/sai.md) — 1
 - [Sai](../authors/sai.md) — 1
@@ -2875,6 +2882,7 @@
 - [Zeno Divergent](../authors/zeno-divergent.md) — 1
 - [Zentrix⌚️](../authors/zentrix.md) — 1
 - [Zerion](../authors/zerion.md) — 1
+- [Zero](../authors/zero.md) — 1
 - [Zhaoran Wang](../authors/zhaoran-wang.md) — 1
 - [Zhaorun Chen](../authors/zhaorun-chen.md) — 1
 - [Zhe](../authors/zhe.md) — 1

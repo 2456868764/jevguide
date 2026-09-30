@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 315 | 238 | 81 | 588K |
+| 313 | 236 | 81 | 588K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/troygentic/status/2105121709213037028"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Jev-style decision model playing Diablo II in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/troygentic/status/2105121709213037028">Jev-style decision model playing Diablo II in real time</a></h3>
+<p>The author built a custom Jev-style decision model applied in real time to Diablo II, and plans to release a paper on it soon.</p>
+<p><strong>中文摘要：</strong>作者构建了自定义的Jev风格决策模型，并实时应用于暗黑破坏神2，称即将发表相关论文。</p>
+<p><strong>Troy</strong> · @troygentic · 2026-09-30</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/troygentic/status/2105121709213037028">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/troygentic/status/2105122127192219706"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Local fine-tuned Jev-style decision model plays Diablo II in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/troygentic/status/2105122127192219706">Local fine-tuned Jev-style decision model plays Diablo II in real time</a></h3>
+<p>The author says they fine-tuned a local Jev-style decision model and got it playing Diablo II in real time, calling the possibilities endless.</p>
+<p><strong>中文摘要：</strong>作者表示本地微调了一个 Jev 风格的决策模型，并让其实时运行《暗黑破坏神 II》，认为未来可能性无穷。</p>
+<p><strong>Troy</strong> · @troygentic · 2026-09-30</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/troygentic/status/2105122127192219706">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/troygentic/status/2105121341703647481"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Jev-style decision model playing Diablo II in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/troygentic/status/2105121341703647481">Jev-style decision model playing Diablo II in real time</a></h3>
+<p>Troy shares his locally fine-tuned decision model (Jev style) playing Diablo II in real time, with plans to publish a paper soon.</p>
+<p><strong>中文摘要：</strong>Troy分享其本地微调决策模型（Jev风格）在暗黑破坏神II中的实时游戏表现，并计划发表相关论文。</p>
+<p><strong>Troy</strong> · @troygentic · 2026-09-30</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/troygentic/status/2105121341703647481">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/troygentic/status/2105121008969457684"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Jev-style decision model playing Diablo II in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/troygentic/status/2105121008969457684">Jev-style decision model playing Diablo II in real time</a></h3>
+<p>Author Troy shares that his locally fine-tuned decision model (Jev style) is playing Diablo II in real time, with a paper planned for release soon.</p>
+<p><strong>中文摘要：</strong>作者Troy表示，其本地微调的决策模型（Jev风格）正在实时游玩《暗黑破坏神II》，并计划很快发布相关论文。</p>
+<p><strong>Troy</strong> · @troygentic · 2026-09-30</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/troygentic/status/2105121008969457684">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/troygentic/status/2105121999907418202"><img src="https://pbs.twimg.com/amplify_video_thumb/2105110191062597632/img/zSbuJXeIAdVn3vaR.jpg" alt="Jev-style model plays Diablo II in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/troygentic/status/2105121999907418202">Jev-style model plays Diablo II in real time</a></h3>
+<p>The author fine-tuned a local Jev-style model and demonstrates it playing Diablo II in real time, while teasing an upcoming paper on the architecture.</p>
+<p><strong>中文摘要：</strong>作者在本地微调了一个Jev风格模型，并展示其实时游玩《暗黑破坏神2》的能力，同时透露即将发布描述架构的论文。</p>
+<p><strong>Troy</strong> · @troygentic · 2026-09-30</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/troygentic/status/2105121999907418202">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2104892182431993965"><img src="https://pbs.twimg.com/amplify_video_thumb/2104891385958825984/img/ya9GLQ8E5bkNELZR.jpg" alt="Training &quot;Super Jev&quot; on a MacBook? Crushing Laya · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 6 &nbsp; 🔁 4 &nbsp; ♡ 9 &nbsp; 📊 690</p>
 <p><a href="https://x.com/NFT_Chen/status/2104892182431993965">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ryanflorence/status/2104778207161409656"><img src="https://pbs.twimg.com/media/HTWsn5paIAAgEMv?format=jpg&amp;name=medium" alt="Recreating the FFXI Dunes Experience with Jev-Powered Bots · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 610</p>
 <p><a href="https://x.com/ryanflorence/status/2104778207161409656">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/crislenta/status/2104959891832283331"><img src="https://pbs.twimg.com/amplify_video_thumb/2104959743685251073/img/4nI_m2Ict965u_xR.jpg" alt="Fine-tuning Julia 1, an open-source Jev competitor, for game AI agents · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 13 &nbsp; 📊 404</p>
 <p><a href="https://x.com/crislenta/status/2104959891832283331">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kane_tdt/status/2104833555738005844"><img src="https://pbs.twimg.com/media/HTURLfvboAATV51?format=jpg&amp;name=medium" alt="Jev FC Buddy: Agent Takes Controller 2 · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 28 &nbsp; 🔁 0 &nbsp; ♡ 23 &nbsp; 📊 261</p>
 <p><a href="https://x.com/kane_tdt/status/2104833555738005844">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sidahuj/status/2104934230145094118"><img src="https://pbs.twimg.com/amplify_video_thumb/2104920528842858496/img/HeUKbk4-ucdyxKyr.jpg" alt="Using Jev to Make Smarter NPCs in Morrowind · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 155</p>
 <p><a href="https://x.com/sidahuj/status/2104934230145094118">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/en3sis/status/2104764425702105226"><img src="https://pbs.twimg.com/amplify_video_thumb/2104757815218974720/img/gE5KhHoqu7-kLMH3.jpg" alt="Jev-Powered Challenge Mode: You vs AI Bots · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/en3sis/status/2104764425702105226">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/joshdbirdwell/status/2104771497155867087"><img src="https://pbs.twimg.com/media/HTWk0PmXcAEAjVF?format=jpg&amp;name=medium" alt="Building a Fantasy Football Assistant with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 21</p>
 <p><a href="https://x.com/joshdbirdwell/status/2104771497155867087">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/avynsrc/status/2104902862258024491"><img src="https://pbs.twimg.com/amplify_video_thumb/2104891385958825984/img/ya9GLQ8E5bkNELZR.jpg" alt="Rumor: Locally Trained Super Jev Beats Cloud Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/avynsrc/status/2104902862258024491">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EvolvingDoorZG/status/2104931541357064599"><img src="https://pbs.twimg.com/media/HTY24-CbgAAQIHT?format=jpg&amp;name=medium" alt="Jev-powered Multiplanar Game Beta Live Session · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
 <p><a href="https://x.com/EvolvingDoorZG/status/2104931541357064599">在 X 查看原帖</a> · <a href="https://t.co/MPBPby3uNK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KemoAIDev/status/2104924656566194547"><img src="https://pbs.twimg.com/amplify_video_thumb/2104723532945272833/img/LJj9iWBJtCxOeLs0.jpg" alt="Developer plays own game with Jev, achieving TAS-level movements · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 13</p>
 <p><a href="https://x.com/KemoAIDev/status/2104924656566194547">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aakashreddy/status/2104959649154035731"><img src="https://pbs.twimg.com/amplify_video_thumb/2104855986767048704/img/WDfOeuBz7YZCt_wW.jpg" alt="Experience Jev on llmgames · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/aakashreddy/status/2104959649154035731">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kozei/status/2104515263383175581"><img src="https://pbs.twimg.com/amplify_video_thumb/2104500255223951360/img/xCt0MGcEFv-wQfIh.jpg" alt="JEVPLAY: An open game board for humans to play against JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +213,6 @@
 <p>💬 31 &nbsp; 🔁 6 &nbsp; ♡ 37 &nbsp; 📊 538</p>
 <p><a href="https://x.com/kozei/status/2104515263383175581">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gosrum/status/2104519096049995994"><img src="https://pbs.twimg.com/media/HTS9489aIAAOwq7?format=jpg&amp;name=medium" alt="Jev Model Family Takes on Super Mario Bros 1-1 · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 488</p>
 <p><a href="https://x.com/gosrum/status/2104519096049995994">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kiyoshi_shin/status/2104375961672462394"><img src="https://pbs.twimg.com/amplify_video_thumb/2104375646915112961/img/jR26eFZXXPyG-sKc.jpg" alt="Trying the Buzzworthy AI &quot;Jev&quot;: It Plays Games Like a Human · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +237,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 177</p>
 <p><a href="https://x.com/kiyoshi_shin/status/2104375961672462394">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MLarchanka/status/2104559764931776756"><img src="https://pbs.twimg.com/media/HTTl0B-XEAAH9wk?format=jpg&amp;name=medium" alt="Tried Laya (open-source Jev alternative): built two games with AI · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
 <p><a href="https://x.com/MLarchanka/status/2104559764931776756">在 X 查看原帖</a> · <a href="https://t.co/ZEBTcuRhru">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0z_Dustin136/status/2104409492381479293"><img src="https://pbs.twimg.com/media/HTRdRMrbQAAAeDx?format=jpg&amp;name=medium" alt="Jev FC Buddy: AI Plays NES With You, Inputs Fully Observable · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +261,6 @@
 <p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 41</p>
 <p><a href="https://x.com/0z_Dustin136/status/2104409492381479293">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bitstream_blake/status/2104365664052101608"><img src="https://pbs.twimg.com/amplify_video_thumb/2104365575690416128/img/Q6yL3eonGcn0r5-v.jpg" alt="Jev Plays Doom, Developer Considers Open Source · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +272,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/bitstream_blake/status/2104365664052101608">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YVanitou/status/2104570203652890860"><img src="https://pbs.twimg.com/amplify_video_thumb/2104570125227642880/img/CxSK75Gm90XbYYm1.jpg" alt="Inspired by Jev: A browser FPS powered by a 0.8B model · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +285,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 23</p>
 <p><a href="https://x.com/YVanitou/status/2104570203652890860">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ghtght_7/status/2104504002906116331"><img src="https://pbs.twimg.com/amplify_video_thumb/2104454169449164801/img/A8EPth03gIEjeE_Z.jpg" alt="Jev survives ~10 moves in chess game · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/ghtght_7/status/2104504002906116331">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/furoku/status/2104529248136368358"><img src="https://pbs.twimg.com/media/HTTKIjcbgAA1P3q?format=jpg&amp;name=large" alt="Dark Labyrinth Game &#39;The Only Way Out&#39; Powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/furoku/status/2104529248136368358">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/the___incident/status/2104563439435960801"><img src="https://pbs.twimg.com/media/HTTpSXcXoAAMyri?format=jpg&amp;name=medium" alt="Jev Incident Challenge: Musify Music Streaming App · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/the___incident/status/2104563439435960801">在 X 查看原帖</a> · <a href="https://t.co/dsCHzV6Nlk">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="Jev clears Pokémon Red · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/eiho_tsukuyomi/status/2104371734807994529">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jonlebensold/status/2104583439047348554"><img src="https://pbs.twimg.com/amplify_video_thumb/2104583325587275776/img/9wZGUR3pXgeyPwA4.jpg" alt="Can Jev play Red Alert against Claude Sonnet 5? · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><a href="https://x.com/jonlebensold/status/2104583439047348554">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/joho_no_todai/status/2104192923407687684"><img src="https://pbs.twimg.com/amplify_video_thumb/2104192849202106368/img/xhRKu-fcZ_TrNV8i.jpg" alt="TypeSafe AI&#39;s Jev model cleared Pokémon Red in one week without generating text · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 13 &nbsp; 📊 941</p>
 <p><a href="https://x.com/joho_no_todai/status/2104192923407687684">在 X 查看原帖</a> · <a href="https://t.co/GpP8YTWvDL">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/didier_lopes/status/2104203064257228820"><img src="https://pbs.twimg.com/amplify_video_thumb/2104201044133625856/img/o0DCxyRwygS7OHkT.jpg" alt="Real-time Pokémon voice control with Jev for his baby · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 42</p>
 <p><a href="https://x.com/didier_lopes/status/2104203064257228820">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/spillai/status/2104007859512213699"><img src="https://pbs.twimg.com/amplify_video_thumb/2104006920826920960/img/yIiSdiTP8-8azriW.jpg" alt="Jev fails to get high score in 2048 · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 41</p>
 <p><a href="https://x.com/spillai/status/2104007859512213699">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AdamyaNagpal/status/2104056930062745743"><img src="https://pbs.twimg.com/amplify_video_thumb/2104056897384972288/img/B22jCXWxxKI-bKRt.jpg" alt="Training a Snake AI with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +392,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 36</p>
 <p><a href="https://x.com/AdamyaNagpal/status/2104056930062745743">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fdy/status/2104233926118060390"><img src="https://pbs.twimg.com/amplify_video_thumb/2104231063958507520/img/WWGM6Buz3noEtJEL.jpg" alt="Running Laya model on llama.cpp to test Snake game · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +405,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/fdy/status/2104233926118060390">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kiratchi0328/status/2104242683539833314"><img src="https://pbs.twimg.com/amplify_video_thumb/2104242653621866496/img/j88Ksa9QZdP2c1Gd.jpg" alt="AI Playing Minecraft: Autonomous Control and Live Commentary with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/Kiratchi0328/status/2104242683539833314">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/haiattoC/status/2104061150854062499"><img src="https://pbs.twimg.com/media/HTMf_zIbQAAOKAB?format=png&amp;name=900x900" alt="Trying NPC-style game dev with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +429,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/haiattoC/status/2104061150854062499">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xCVYH/status/2103970136365449335"><img src="https://pbs.twimg.com/amplify_video_thumb/2103969472281219072/img/Cwgy1_nLsW4OShho.jpg" alt="Jev vs Eikos in Tetris: Eikos wins 5-0 · 原帖视频截图" width="100%"></a>
 <br>
@@ -381,6 +440,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 30 &nbsp; 📊 1.4K</p>
 <p><a href="https://x.com/0xCVYH/status/2103970136365449335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dani_avila7/status/2103996879071752557"><img src="https://pbs.twimg.com/media/HTLlHOUWgAACJH-?format=jpg&amp;name=medium" alt="Play Chess with Jev in Claude Code · 原帖图片" width="100%"></a>
 <br>
@@ -392,8 +453,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 615</p>
 <p><a href="https://x.com/dani_avila7/status/2103996879071752557">在 X 查看原帖</a> · <a href="https://t.co/3yJ92pkY6T">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Zen_with_AI/status/2103987055701463092"><img src="https://pbs.twimg.com/media/HTLc789aAAAayw-?format=jpg&amp;name=small" alt="AI Live-Streams Pokémon Red · 原帖图片" width="100%"></a>
 <br>
@@ -405,6 +464,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 234</p>
 <p><a href="https://x.com/Zen_with_AI/status/2103987055701463092">在 X 查看原帖</a> · <a href="https://t.co/IcJCJKIceI">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iamazan8/status/2103982108775747832"><img src="https://pbs.twimg.com/amplify_video_thumb/2103980476251926528/img/YsIjU7c54x8rkIIE.jpg" alt="3D Chess Game Built with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -416,8 +477,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/iamazan8/status/2103982108775747832">在 X 查看原帖</a> · <a href="https://t.co/pAzDN1GyWB">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sirironpalm/status/2103982463588462740"><img src="https://pbs.twimg.com/amplify_video_thumb/2103981022341660672/img/vdyJmPriMFke9pkZ.jpg" alt="Building a game for two with Jev as the decision engine · 原帖视频截图" width="100%"></a>
 <br>
@@ -429,6 +488,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
 <p><a href="https://x.com/sirironpalm/status/2103982463588462740">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/izumisatoshi05/status/2103438227885703299"><img src="https://pbs.twimg.com/amplify_video_thumb/2103434761696165888/img/iJ1c7pAH3zZsXxzp.jpg" alt="Jev Magic FPS Evolves with Opus 5.5 and Procedural Magic · 原帖视频截图" width="100%"></a>
 <br>
@@ -440,8 +501,6 @@
 <p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 173</p>
 <p><a href="https://x.com/izumisatoshi05/status/2103438227885703299">在 X 查看原帖</a> · <a href="https://t.co/K2svsg4m08">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/intro_app__/status/2103364645818179894"><img src="https://pbs.twimg.com/media/HTCm_iUbgAA0O2j?format=jpg&amp;name=medium" alt="Jev AI powers correct-answer checks in Intro Quiz app · 原帖图片" width="100%"></a>
 <br>
@@ -453,6 +512,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 113</p>
 <p><a href="https://x.com/intro_app__/status/2103364645818179894">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CodesSound/status/2103451269226725688"><img src="https://pbs.twimg.com/amplify_video_thumb/2103423432969072640/img/a1vtEhSdzQe8tOA6.jpg" alt="Colony Zero: A Survival Sim Powered by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -464,8 +525,6 @@
 <p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 67</p>
 <p><a href="https://x.com/CodesSound/status/2103451269226725688">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oguressive/status/2103364981697966381"><img src="https://pbs.twimg.com/amplify_video_thumb/2103360155547308032/img/Z7eZNnsXZCJOhuXi.jpg" alt="Made an Othello game with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -477,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 16</p>
 <p><a href="https://x.com/oguressive/status/2103364981697966381">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Liquid_Hwite/status/2103357742916178078"><img src="https://pbs.twimg.com/amplify_video_thumb/2102392836502999040/img/SzgrXe9Q9ydbx9tT.jpg" alt="AI vs AI: Playing StarCraft 2 with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -488,8 +549,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Liquid_Hwite/status/2103357742916178078">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PandeyKart27234/status/2103414203604422985"><img src="https://pbs.twimg.com/media/HTCdFdQbkAENfZv?format=jpg&amp;name=medium" alt="Jev beats Laya at Snake: 6ms vs 161ms latency, 100% accuracy · 原帖图片" width="100%"></a>
 <br>
@@ -501,6 +560,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
 <p><a href="https://x.com/PandeyKart27234/status/2103414203604422985">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Tugrul_Guner/status/2103481396027142162"><img src="https://pbs.twimg.com/amplify_video_thumb/2103481012231479296/img/_QZZJnnH8_l_IqUA.jpg" alt="Building LifePot: An Ecosystem Game Powered by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -512,8 +573,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/Tugrul_Guner/status/2103481396027142162">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/browser_use/status/2102980499614658580"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Luna plans, Jev acts: AI agent wins at poker · 原帖视频截图" width="100%"></a>
 <br>
@@ -525,6 +584,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 979</p>
 <p><a href="https://x.com/browser_use/status/2102980499614658580">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/imjustnewatai/status/2103001193228415179"><img src="https://pbs.twimg.com/amplify_video_thumb/2103000963552366592/img/QAj3ee9lYM2B-_SH.jpg" alt="Jev plays Left 4 Dead 2 · 原帖视频截图" width="100%"></a>
 <br>
@@ -536,8 +597,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 444</p>
 <p><a href="https://x.com/imjustnewatai/status/2103001193228415179">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shotatykr/status/2102959775864778841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102377370439348224/img/9nFlUY1m8KL2e8Ak.jpg" alt="Building an AI Game Opponent with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -549,6 +608,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 364</p>
 <p><a href="https://x.com/shotatykr/status/2102959775864778841">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/openjevai/status/2103081199128522988"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980394174029824/img/9orD5H9A2KRa9uab.jpg" alt="Jev plays poker · 原帖视频截图" width="100%"></a>
 <br>
@@ -560,8 +621,6 @@
 <p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 138</p>
 <p><a href="https://x.com/openjevai/status/2103081199128522988">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Gbahdeyboh/status/2103101439597805806"><img src="https://pbs.twimg.com/media/HS-3md2XQAA1J9W?format=jpg&amp;name=medium" alt="JevPong: Watch Jev Make Decisions in Real Time · 原帖图片" width="100%"></a>
 <br>
@@ -573,6 +632,8 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 2 &nbsp; 📊 83</p>
 <p><a href="https://x.com/Gbahdeyboh/status/2103101439597805806">在 X 查看原帖</a> · <a href="https://t.co/RfZwFu6qoX">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geseiyouakaunto/status/2103099782902550640"><img src="https://pbs.twimg.com/amplify_video_thumb/2103098933769854976/img/Ze4yxb90EhSCwDTb.jpg" alt="Real-time NPC reaction classification using Jev in games · 原帖视频截图" width="100%"></a>
 <br>
@@ -584,8 +645,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 34</p>
 <p><a href="https://x.com/geseiyouakaunto/status/2103099782902550640">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kirin3335228/status/2103004035297227056"><img src="https://pbs.twimg.com/media/HS9fBftaoAA6qlX?format=jpg&amp;name=medium" alt="Building a TRPG Voxel Map Generator with jev · 原帖图片" width="100%"></a>
 <br>
@@ -597,6 +656,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/kirin3335228/status/2103004035297227056">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/icerdesign/status/2103052989980446909"><img src="https://pbs.twimg.com/amplify_video_thumb/2102174571457581056/img/xy4IKEDEWsagY3x-.jpg" alt="Jev Tested in Clash Royale Live Gameplay · 原帖视频截图" width="100%"></a>
 <br>
@@ -608,8 +669,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/icerdesign/status/2103052989980446909">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Pitofuii/status/2102967721042547007"><img src="https://pbs.twimg.com/amplify_video_thumb/2102967057650429952/img/B_OkN7E5QzkS4JBE.jpg" alt="Using Jev for Real-Time Agent Battles in Games · 原帖视频截图" width="100%"></a>
 <br>
@@ -621,6 +680,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/Pitofuii/status/2102967721042547007">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/itsrohanm/status/2103118501280141682"><img src="https://pbs.twimg.com/amplify_video_thumb/2103117806749593600/img/-SWYn_Sw_b_mRGPl.jpg" alt="Build a word-guessing game with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -632,32 +693,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/itsrohanm/status/2103118501280141682">在 X 查看原帖</a> · <a href="https://t.co/bfBHbe5d8a">原文链接</a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/SinghalPratul/status/2103069081981329426"><img src="https://pbs.twimg.com/amplify_video_thumb/2100085174826647552/img/6YMRQKKZYBPsW2oo.jpg" alt="Jev plays Super Mario by reading RAM · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/SinghalPratul/status/2103069081981329426">Jev plays Super Mario by reading RAM</a></h3>
-<p>Pratul Singhal shows a Jev application: Jev doesn&#39;t use pixels or a vision model. It reads the emulator&#39;s RAM to pick run, jump, and dodge actions in Super Mario Bros., illustrating that platformers are fundamentally choice problems.</p>
-<p><strong>中文摘要：</strong>Pratul Singhal展示了一个Jev应用：Jev不依赖像素或视觉模型，直接读取模拟器RAM，为《超级马里奥兄弟》选择跑、跳、闪避动作，说明平台游戏本质上是选择问题。</p>
-<p><strong>Pratul Singhal</strong> · @SinghalPratul · 2026-09-24</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><a href="https://x.com/SinghalPratul/status/2103069081981329426">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/Viggle_PINOC/status/2103157191200874841"><img src="https://pbs.twimg.com/amplify_video_thumb/2103156988515323904/img/M053gpu6ZsuhEq9S.jpg" alt="Using Jev to Voice-Command a Tiny Fighter · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/Viggle_PINOC/status/2103157191200874841">Using Jev to Voice-Command a Tiny Fighter</a></h3>
-<p>A demo where moves are pre-generated with Pinoc MCP&#39;s text-to-animation, and Jev from TypeSafe picks the right move as you speak, enabling near-instant in-game voice control.</p>
-<p><strong>中文摘要：</strong>演示了用 Pinoc MCP 的文本转动画生成动作，由 TypeSafe 的 Jev 在说话时实时选择对应动作，实现近乎即时的游戏内语音控制。</p>
-<p><strong>PINOC</strong> · @Viggle_PINOC · 2026-09-24</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><a href="https://x.com/Viggle_PINOC/status/2103157191200874841">在 X 查看原帖</a></p>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Oluwaphilemon1/status/2102586728552845631"><img src="https://pbs.twimg.com/amplify_video_thumb/2102158998103363584/img/AStT6MxzhJzruHIE.jpg" alt="Local System One model Laya beats cloud-based Jev at Tetris · 原帖视频截图" width="100%"></a>
 <br>
@@ -669,6 +704,8 @@
 <p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 2 &nbsp; 📊 397</p>
 <p><a href="https://x.com/Oluwaphilemon1/status/2102586728552845631">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aixaipr/status/2102652091286393172"><img src="https://pbs.twimg.com/media/HS4ei8rbcAA0XjS?format=jpg&amp;name=large" alt="Play One-Person Werewolf with Jev-AI · 原帖图片" width="100%"></a>
 <br>
@@ -680,8 +717,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 216</p>
 <p><a href="https://x.com/aixaipr/status/2102652091286393172">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_vmlops/status/2102742291194790156"><img src="https://pbs.twimg.com/tweet_video_thumb/HS5w8uQbgAA-uG6.jpg" alt="Jev on Cloud Run: Impressive performance and classic games · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +728,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 107</p>
 <p><a href="https://x.com/_vmlops/status/2102742291194790156">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/takku_4331/status/2102649099044725031"><img src="https://pbs.twimg.com/media/HS4cNZzbsAADles?format=jpg&amp;name=medium" alt="Jev-like Laya powers Flappy Bird game demo · 原帖图片" width="100%"></a>
 <br>
@@ -704,8 +741,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 86</p>
 <p><a href="https://x.com/takku_4331/status/2102649099044725031">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mitochon_9/status/2102574515268247961"><img src="https://pbs.twimg.com/media/HS3YYE8bwAAUAEl?format=jpg&amp;name=medium" alt="Building a Turtle Soup Host App with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -717,6 +752,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 74</p>
 <p><a href="https://x.com/mitochon_9/status/2102574515268247961">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jurlycat/status/2102593454903832652"><img src="https://pbs.twimg.com/amplify_video_thumb/2102593422850924544/img/5MfMNey5mZVL9fSl.jpg" alt="Open-source Jev-like model Laya plays Flappy Bird in real time on CPU · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +765,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 57</p>
 <p><a href="https://x.com/jurlycat/status/2102593454903832652">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rishi_raj_jain_/status/2102613357404770499"><img src="https://pbs.twimg.com/media/HS367BTawAAbxFV?format=jpg&amp;name=medium" alt="Flappy Jev Leaderboard Challenge · 原帖图片" width="100%"></a>
 <br>
@@ -741,6 +776,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 56</p>
 <p><a href="https://x.com/rishi_raj_jain_/status/2102613357404770499">在 X 查看原帖</a> · <a href="https://t.co/ktQrUYvPHb">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iori_ama/status/2102641762141626651"><img src="https://pbs.twimg.com/amplify_video_thumb/2102641382875971584/img/pSOdL-B-I5APFs56.jpg" alt="Progress on using Jev for Klondike · 原帖视频截图" width="100%"></a>
 <br>
@@ -752,8 +789,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
 <p><a href="https://x.com/iori_ama/status/2102641762141626651">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sheep_boy_game/status/2102588052262797580"><img src="https://pbs.twimg.com/media/HS3kIGka8AAFCLq?format=jpg&amp;name=medium" alt="Doujin Game Creator Shares First-Night Jev Usage Data · 原帖图片" width="100%"></a>
 <br>
@@ -765,6 +800,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/Sheep_boy_game/status/2102588052262797580">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/djannias/status/2102605405033492714"><img src="https://pbs.twimg.com/amplify_video_thumb/2102280368682360832/img/r-xnMLmgUV76IN9-.jpg" alt="Izkimar&#39;s bosses are now using Jev for game development · 原帖视频截图" width="100%"></a>
 <br>
@@ -776,8 +813,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 26</p>
 <p><a href="https://x.com/djannias/status/2102605405033492714">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abxda/status/2102588150266663138"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587957009846272/img/YEME1564sp4B2ehB.jpg" alt="Comparing Local Models for Real-Time Decisions in a JEV Clone · 原帖视频截图" width="100%"></a>
 <br>
@@ -789,6 +824,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/abxda/status/2102588150266663138">在 X 查看原帖</a> · <a href="https://t.co/P6GQRQZvS5">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/erik_kokalj/status/2102758519908811133"><img src="https://pbs.twimg.com/amplify_video_thumb/2102758162801524736/img/f0htADWHXZNwNZrr.jpg" alt="Jev-Omni locally runs Chrome Dino on M4 Max · 原帖视频截图" width="100%"></a>
 <br>
@@ -800,8 +837,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/erik_kokalj/status/2102758519908811133">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abderrahmen_g/status/2102703688120992055"><img src="https://pbs.twimg.com/amplify_video_thumb/2102702608611708928/img/x3A3NSKkzk31qRWP.jpg" alt="How good is Jev at Tetris? · 原帖视频截图" width="100%"></a>
 <br>
@@ -812,17 +847,6 @@
 <p><strong>Abderrahmen Gharsallah</strong> · @abderrahmen_g · 2026-09-23</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><a href="https://x.com/abderrahmen_g/status/2102703688120992055">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/ItsCuthulhu/status/2102640969573335071"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Jev Yes/No Game · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/ItsCuthulhu/status/2102640969573335071">Jev Yes/No Game</a></h3>
-<p>See if you can burn all my Jevbucks tonight</p>
-<p><strong>中文摘要：</strong>试试看我今晚的 Jevbucks 能不能被你烧光</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><a href="https://x.com/ItsCuthulhu/status/2102640969573335071">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -851,17 +875,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://x.com/ItsCuthulhu/status/2102676861813653679"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Yes/No Jev Game is Live · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/ItsCuthulhu/status/2102676861813653679">Yes/No Jev Game is Live</a></h3>
-<p>User Cuth launched a yes/no trivia game based on Jev, with Jevbucks at stake.</p>
-<p><strong>中文摘要：</strong>用户 Cuth 推出了一款基于 Jev 的 yes/no 问答游戏，并设置了 Jevbucks 奖励。</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><a href="https://x.com/ItsCuthulhu/status/2102676861813653679">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
 <a href="https://x.com/ashthepeasant/status/2102758684837462022"><img src="https://pbs.twimg.com/amplify_video_thumb/2102757528451129345/img/LN6HiguDw9pCLMkj.jpg" alt="Opus 5.5 Successfully Builds Jev-Powered Game CITY LADY · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>游戏</code> <code>原帖视频</code></sub>
@@ -872,8 +885,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/ashthepeasant/status/2102758684837462022">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dennis_huangbei/status/2102577229498925210"><img src="https://pbs.twimg.com/media/HS3aQvzaMAALb5u?format=jpg&amp;name=medium" alt="After Snake and Tank with JEV, someone built a Monument Valley-style 3D game with astra · 原帖图片" width="100%"></a>
 <br>
@@ -885,6 +896,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/dennis_huangbei/status/2102577229498925210">在 X 查看原帖</a> · <a href="https://t.co/JIJCUOQBMy">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rfitzpatrick_io/status/2102740840418353629"><img src="https://pbs.twimg.com/amplify_video_thumb/2102739263506792448/img/CoI21B3XJF4_hVM1.jpg" alt="Jev Loses to Stockfish in Chess, Developer Explores Game AI Uses · 原帖视频截图" width="100%"></a>
 <br>
@@ -896,8 +909,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/rfitzpatrick_io/status/2102740840418353629">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gkvoelkl/status/2102719563573989397"><img src="https://pbs.twimg.com/media/HS5cTHJXAAAnygA?format=jpg&amp;name=medium" alt="Ant colony driven by Jev: built with Rust and Bevy · 原帖图片" width="100%"></a>
 <br>
@@ -908,17 +919,6 @@
 <p><strong>Gerhard Völkl 🐘 @gkvoelkl@sueden.social</strong> · @gkvoelkl · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/gkvoelkl/status/2102719563573989397">在 X 查看原帖</a> · <a href="https://t.co/QngchahoSR">原文链接</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/ItsCuthulhu/status/2102680630366482524"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Play a yes/no game with Jev · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/ItsCuthulhu/status/2102680630366482524">Play a yes/no game with Jev</a></h3>
-<p>Come try to burn Jevbucks in a yes/no game with Jev.</p>
-<p><strong>中文摘要：</strong>快来和 Jev 玩是非问答游戏，尝试烧掉你的 Jevbucks。</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><a href="https://x.com/ItsCuthulhu/status/2102680630366482524">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -932,30 +932,6 @@
 <p><strong>たかし</strong> · @shimesaba_type0 · 2026-09-23</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/shimesaba_type0/status/2102743101043581387">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/ItsCuthulhu/status/2102643666481451134"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Come play my yes/no Jev game · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/ItsCuthulhu/status/2102643666481451134">Come play my yes/no Jev game</a></h3>
-<p>The author invites users to play a Jev-themed yes/no game and burn Jevbucks before morning.</p>
-<p><strong>中文摘要：</strong>作者邀请用户参与其创作的Jev主题问答游戏，并在早晨前烧掉Jevbucks。</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><a href="https://x.com/ItsCuthulhu/status/2102643666481451134">在 X 查看原帖</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/ItsCuthulhu/status/2102674167569219857"><img src="https://pbs.twimg.com/amplify_video_thumb/2102603803535044608/img/sfsKIz3QwNbzIkeP.jpg" alt="Jev Yes/No Game Challenge · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>游戏</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/ItsCuthulhu/status/2102674167569219857">Jev Yes/No Game Challenge</a></h3>
-<p>The author invites you to try a yes/no game and burn Jevbucks before morning.</p>
-<p><strong>中文摘要：</strong>作者邀请你玩一个 yes/no 游戏，并在早晨前消耗掉 Jevbucks。</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-09-23</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><a href="https://x.com/ItsCuthulhu/status/2102674167569219857">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/djannias/status/2102609809505677732"><img src="https://pbs.twimg.com/amplify_video_thumb/2102605504409178112/img/VprYcBFXN5921632.jpg" alt="JEV-Powered Casino Game NPCs · 原帖视频截图" width="100%"></a>

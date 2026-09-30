@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 26 | 14 | 12 | 3.8M |
+| 25 | 13 | 12 | 115K |
 
 ## Showcase 卡片
 
@@ -262,19 +262,6 @@
 <p><a href="https://x.com/masahirochaen/status/2101587412816380413">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://x.com/masa_okamura108/status/2101206603240477030"><img src="https://pbs.twimg.com/amplify_video_thumb/2101206578284380160/img/WUIj3LeQ4Nrch8yD.jpg" alt="JEV evaluates 100 interview minutes in 12.8 seconds for $0.005 · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>企业运营</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/masa_okamura108/status/2101206603240477030">JEV evaluates 100 interview minutes in 12.8 seconds for $0.005</a></h3>
-<p>A user shares JEV processing 100 fictional interview minutes: sorting Pass/Hold/Pass, scoring skills, communication and motivation, and flagging major concerns in 12.8 seconds for $0.005 total.</p>
-<p><strong>中文摘要：</strong>用户分享 JEV 处理 100 分钟虚构面试数据：12.8 秒内完成 Pass/Hold/Pass 分类、专业技能与沟通动机打分，并检测出存在重大顾虑的片段，总成本 0.005 美元。</p>
-<p><strong>オカムラ | 株式会社ライトアップ フラクショナルCTO</strong> · @masa_okamura108 · 2026-09-19</p>
-<p>💬 42 &nbsp; 🔁 366 &nbsp; ♡ 2.0K &nbsp; 📊 3.8M</p>
-<p><a href="https://x.com/masa_okamura108/status/2101206603240477030">在 X 查看原帖</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://x.com/TechNerdings/status/2101394442057875871"><img src="https://pbs.twimg.com/media/HSmmw9tXwAAKRlT?format=png&amp;name=900x900" alt="Jev for Resume Screening and Hiring Fraud Detection · 原帖图片" width="100%"></a>
 <br>
 <sub><code>企业运营</code> <code>原帖图片</code></sub>
@@ -285,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/TechNerdings/status/2101394442057875871">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/levie/status/2101007708044574906"><img src="https://pbs.twimg.com/amplify_video_thumb/2100999115949953024/img/6D1_NvmSfMLGDstw.jpg" alt="Box and Jev Demo: Fast Agent Decisions in the Enterprise · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +285,6 @@
 <p>💬 65 &nbsp; 🔁 87 &nbsp; ♡ 663 &nbsp; 📊 108K</p>
 <p><a href="https://x.com/levie/status/2101007708044574906">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yildiz/status/2101015963454095440"><img src="https://pbs.twimg.com/media/HShO312a4AEyjOt?format=jpg&amp;name=medium" alt="Jev tested for observability decision models · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +296,8 @@
 <p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/yildiz/status/2101015963454095440">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikhilmudholkar/status/2100604560335139083"><img src="https://pbs.twimg.com/media/HSbYODoWoAAKjJR?format=jpg&amp;name=medium" alt="Jev loses to Gemini on email classification benchmark, still considered for production · 原帖图片" width="100%"></a>
 <br>
@@ -320,5 +309,6 @@
 <p>💬 38 &nbsp; 🔁 33 &nbsp; ♡ 438 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/nikhilmudholkar/status/2100604560335139083">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

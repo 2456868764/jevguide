@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 122 | 93 | 29 | 904K |
+| 120 | 91 | 29 | 904K |
 
 ## Showcase 卡片
 
@@ -611,17 +611,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://x.com/cleeeeeeeeement/status/2102384248585924609"><img src="https://pbs.twimg.com/amplify_video_thumb/2102384175898636289/img/CKxEmjLWDihM46qx.jpg" alt="Build a Real-Time Competitor Monitoring System with JEV · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>营销</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/cleeeeeeeeement/status/2102384248585924609">Build a Real-Time Competitor Monitoring System with JEV</a></h3>
-<p>The author shares a free system built with JEV that monitors competitors&#39; prices, products, content, and ads in real time and alerts on changes.</p>
-<p><strong>中文摘要：</strong>作者分享了一个使用 JEV 构建的免费系统，可实时监控竞争对手的价格、产品、内容和广告，并在变化时发出提醒。</p>
-<p><strong>Clément</strong> · @cleeeeeeeeement · 2026-09-22</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
-<p><a href="https://x.com/cleeeeeeeeement/status/2102384248585924609">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
 <a href="https://x.com/TheMattBerman/status/2102412604702343189"><img src="https://pbs.twimg.com/amplify_video_thumb/2102412363957747712/img/My9duG-PjleYGcmT.jpg" alt="Jev Makes Instagram Content Breakdown Possible · 原帖视频截图" width="100%"></a>
 <br>
 <sub><code>营销</code> <code>原帖视频</code></sub>
@@ -632,8 +621,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/TheMattBerman/status/2102412604702343189">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ysato_su04/status/2102199755250229334"><img src="https://pbs.twimg.com/amplify_video_thumb/2101692435147677696/img/sZhupWJFVaJIqoFA.jpg" alt="Jev Automates Meta Ad and Search Term Analysis for Low-Cost Marketing Optimization · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +632,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
 <p><a href="https://x.com/Ysato_su04/status/2102199755250229334">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cleeeeeeeeement/status/2102385560102805971"><img src="https://pbs.twimg.com/amplify_video_thumb/2102385164575739904/img/847TBANdVf5wFF2U.jpg" alt="Build a Competitor Monitoring System with JEV · 原帖视频截图" width="100%"></a>
 <br>
@@ -656,8 +645,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 21</p>
 <p><a href="https://x.com/cleeeeeeeeement/status/2102385560102805971">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Dayou_555/status/2102197172582437227"><img src="https://pbs.twimg.com/media/HSyBLvAawAAYMU0?format=jpg&amp;name=medium" alt="Jev Use Cases: Dating Expert and Sales Scripts · 原帖图片" width="100%"></a>
 <br>
@@ -669,6 +656,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Dayou_555/status/2102197172582437227">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eyishazyer/status/2102398019588997538"><img src="https://pbs.twimg.com/amplify_video_thumb/2100891566340501504/img/agvkcRfNWmnGbRI5.jpg" alt="Jev Analyzes 700 High-Intent Leads in 40 Seconds for 9 Cents · 原帖视频截图" width="100%"></a>
 <br>
@@ -680,8 +669,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/eyishazyer/status/2102398019588997538">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NAndriievskyi/status/2102398457046601985"><img src="https://pbs.twimg.com/amplify_video_thumb/2100403183533125632/img/54ZFO-CHvDeC-rw-.jpg" alt="Using Jev to Speed Up Agency QA · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +680,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
 <p><a href="https://x.com/NAndriievskyi/status/2102398457046601985">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/onjas_6/status/2102398538168811546"><img src="https://pbs.twimg.com/amplify_video_thumb/2102398513774764034/img/dWfN6Wht46aiceA6.jpg" alt="Jev Analyzes 8,502 Reddit Posts in 67 Seconds to Find Media Buyers&#39; Top Pain Point · 原帖视频截图" width="100%"></a>
 <br>
@@ -704,8 +693,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/onjas_6/status/2102398538168811546">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pengchujin/status/2101936029825716556"><img src="https://pbs.twimg.com/media/HSuTkQtbgAArfBP?format=jpg&amp;name=large" alt="Browser Plugin Built on Jev Model to Detect Ads on Xiaohongshu and Weibo · 原帖图片" width="100%"></a>
 <br>
@@ -717,6 +704,8 @@
 <p>💬 23 &nbsp; 🔁 8 &nbsp; ♡ 157 &nbsp; 📊 56K</p>
 <p><a href="https://x.com/pengchujin/status/2101936029825716556">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheCoolestCool/status/2102131767809564882"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="8 SEO Workflows You Can Automate with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +717,6 @@
 <p>💬 13 &nbsp; 🔁 4 &nbsp; ♡ 198 &nbsp; 📊 29K</p>
 <p><a href="https://x.com/TheCoolestCool/status/2102131767809564882">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DanielMuvdiYT/status/2101890282388087230"><img src="https://pbs.twimg.com/amplify_video_thumb/2101437764004716544/img/h_s_KmtT7A_arYrl.jpg" alt="Jev Runs a Full Marketing Campaign for Under $3, 30x Faster Than an LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -741,6 +728,8 @@
 <p>💬 4 &nbsp; 🔁 19 &nbsp; ♡ 251 &nbsp; 📊 21K</p>
 <p><a href="https://x.com/DanielMuvdiYT/status/2101890282388087230">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Jasperli0122/status/2102140451763749077"><img src="https://pbs.twimg.com/amplify_video_thumb/2102138973145706496/img/V8Ypjv4EsGRu_OQa.jpg" alt="Jev + monid for finding viral UGC fast · 原帖视频截图" width="100%"></a>
 <br>
@@ -752,8 +741,6 @@
 <p>💬 6 &nbsp; 🔁 5 &nbsp; ♡ 54 &nbsp; 📊 9.6K</p>
 <p><a href="https://x.com/Jasperli0122/status/2102140451763749077">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shengkunye/status/2102141680606724190"><img src="https://pbs.twimg.com/amplify_video_thumb/2102138973145706496/img/V8Ypjv4EsGRu_OQa.jpg" alt="Jev × Monid: 60 TikToks analyzed in 1.9s for $0.0022 · 原帖视频截图" width="100%"></a>
 <br>
@@ -765,6 +752,8 @@
 <p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 50 &nbsp; 📊 6.0K</p>
 <p><a href="https://x.com/shengkunye/status/2102141680606724190">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MonidHQ/status/2102143380025417966"><img src="https://pbs.twimg.com/amplify_video_thumb/2102138973145706496/img/V8Ypjv4EsGRu_OQa.jpg" alt="Jev Helps Monid Automatically Find TikTok Content Patterns · 原帖视频截图" width="100%"></a>
 <br>
@@ -776,8 +765,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 901</p>
 <p><a href="https://x.com/MonidHQ/status/2102143380025417966">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chesny/status/2102008701754409204"><img src="https://pbs.twimg.com/amplify_video_thumb/2102008560356044801/img/9EM4dd1bDUSkylOi.jpg" alt="Jev Kills the Focus Group: Simulated Buyer Profiles Scroll Ads · 原帖视频截图" width="100%"></a>
 <br>
@@ -789,6 +776,8 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 15 &nbsp; 📊 515</p>
 <p><a href="https://x.com/chesny/status/2102008701754409204">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chesny/status/2101938912423735654"><img src="https://pbs.twimg.com/amplify_video_thumb/2101937911113351168/img/HZzwSsZhAbcKs_ze.jpg" alt="Jev Analyzes 724 Ads in 40 Seconds for 9 Cents · 原帖视频截图" width="100%"></a>
 <br>
@@ -800,8 +789,6 @@
 <p>💬 10 &nbsp; 🔁 6 &nbsp; ♡ 20 &nbsp; 📊 438</p>
 <p><a href="https://x.com/chesny/status/2101938912423735654">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zrebroia/status/2102010035262079476"><img src="https://pbs.twimg.com/amplify_video_thumb/2102009710589476864/img/jBDI5jrKIkd6iL5H.jpg" alt="Jev Runs Ad Marketing Operations for Under $3 · 原帖视频截图" width="100%"></a>
 <br>
@@ -813,6 +800,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 417</p>
 <p><a href="https://x.com/zrebroia/status/2102010035262079476">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/laobaishare/status/2102011768818282773"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2102011712014839808/pu/img/l1JzTwCxRQHV2JCD.jpg" alt="JEV Cuts SEO/GEO Agent Run Cost by 10x · 原帖视频截图" width="100%"></a>
 <br>
@@ -824,8 +813,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 328</p>
 <p><a href="https://x.com/laobaishare/status/2102011768818282773">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/timbuildwithai/status/2102167332172767392"><img src="https://pbs.twimg.com/media/HSxlNgsWMAAzwJr?format=jpg&amp;name=large" alt="Rebuilding an AI Lead Qualification Workflow with Jev as the Decision Layer · 原帖图片" width="100%"></a>
 <br>
@@ -837,6 +824,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 50</p>
 <p><a href="https://x.com/timbuildwithai/status/2102167332172767392">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/parthjain_1/status/2102178563512570027"><img src="https://pbs.twimg.com/media/HSsacada0AAReI9?format=jpg&amp;name=medium" alt="20 GTM Engineering Use Cases for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -848,8 +837,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><a href="https://x.com/parthjain_1/status/2102178563512570027">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shivilizationn/status/2102144095447883870"><img src="https://pbs.twimg.com/tweet_video_thumb/HSxQ4Mfa8AE81Wx.jpg" alt="Jev for Google Ads: Judging Ad Decisions One at a Time · 原帖视频截图" width="100%"></a>
 <br>
@@ -861,6 +848,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
 <p><a href="https://x.com/shivilizationn/status/2102144095447883870">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cahitkucuk_/status/2102133321333391456"><img src="https://pbs.twimg.com/amplify_video_thumb/2101503277913591809/img/M3-q30vmCge7FrO0.jpg" alt="Using Jev to Auto-Generate Social Accounts and Viral Videos for Marketing · 原帖视频截图" width="100%"></a>
 <br>
@@ -872,8 +861,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
 <p><a href="https://x.com/cahitkucuk_/status/2102133321333391456">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akihiko_takai/status/2101952556058759450"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101952532105113600/pu/img/6n0QZYMogneL40ut.jpg" alt="Jev-powered AI service for pre-post risk detection launches in beta · 原帖视频截图" width="100%"></a>
 <br>
@@ -885,6 +872,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><a href="https://x.com/akihiko_takai/status/2101952556058759450">在 X 查看原帖</a> · <a href="https://t.co/YW6jlPr1cT">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/scrapsonsolana/status/2102014330241716342"><img src="https://pbs.twimg.com/media/HSva4J1XcAALCC1?format=png&amp;name=900x900" alt="Marketing experiment with JEV: 178M+ tokens burned testing ideas · 原帖图片" width="100%"></a>
 <br>
@@ -896,8 +885,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/scrapsonsolana/status/2102014330241716342">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gregoryovis/status/2101913439400554852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101912908342951936/img/z8SseM9PUx9pndZI.jpg" alt="Building a Real-Time LinkedIn Slop Detector with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -909,6 +896,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/gregoryovis/status/2101913439400554852">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/charles__seo/status/2102001356886176123"><img src="https://pbs.twimg.com/media/HSvO0HAWgAAkKd7?format=jpg&amp;name=medium" alt="Lead Qualification Scoring with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -920,8 +909,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/charles__seo/status/2102001356886176123">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VaibhavSurge/status/2101909522914918852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101907930497036288/img/nm9MTw_W4ppSFs6s.jpg" alt="Jev in Action: Analyze Competitor Ads in Under a Minute · 原帖视频截图" width="100%"></a>
 <br>
@@ -933,6 +920,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/VaibhavSurge/status/2101909522914918852">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/W3_Btc/status/2102150375658676669"><img src="https://pbs.twimg.com/media/HSxWgmDW4AAZS6J?format=jpg&amp;name=medium" alt="Jev Prototype: Three-Path Routing for Sales Requests · 原帖图片" width="100%"></a>
 <br>
@@ -944,8 +933,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/W3_Btc/status/2102150375658676669">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AshwiniNK21/status/2101913935805063443"><img src="https://pbs.twimg.com/amplify_video_thumb/2101913911943737344/img/5Ne3YkbLqyVKzVlR.jpg" alt="Cold Email Grader Built on Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -957,6 +944,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/AshwiniNK21/status/2101913935805063443">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nihatipekci/status/2102014461502521791"><img src="https://pbs.twimg.com/amplify_video_thumb/2102014445178273792/img/4kr4pS4Hx7v9c-KZ.jpg" alt="Jev × OrbitVibe Feature: Find Brand Influencers Among Millions of Creators · 原帖视频截图" width="100%"></a>
 <br>
@@ -968,8 +957,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/nihatipekci/status/2102014461502521791">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/piyushnp/status/2101895078356869627"><img src="https://pbs.twimg.com/amplify_video_thumb/2101525120410083328/img/XQQLWw-MKYt5yvQ1.jpg" alt="Jev for GTM Engineers: Identifying Target Accounts · 原帖视频截图" width="100%"></a>
 <br>
@@ -981,6 +968,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/piyushnp/status/2101895078356869627">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Minsi_AI/status/2101851724000743852"><img src="https://pbs.twimg.com/amplify_video_thumb/2101851338137276416/img/lIgeAbRLpVFUU5O4.jpg" alt="Jev analyzes 724 ads in 40 seconds with structured judgments · 原帖视频截图" width="100%"></a>
 <br>
@@ -992,8 +981,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
 <p><a href="https://x.com/Minsi_AI/status/2101851724000743852">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/StudyingPython/status/2101946011325489425"><img src="https://pbs.twimg.com/media/HSucwLYaAAARGPg?format=jpg&amp;name=medium" alt="Testing TypeSafe Jev on Complex Ad Judgments · 原帖图片" width="100%"></a>
 <br>
@@ -1005,6 +992,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/StudyingPython/status/2101946011325489425">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/UseFastlane/status/2101504381682340332"><img src="https://pbs.twimg.com/amplify_video_thumb/2101503277913591809/img/M3-q30vmCge7FrO0.jpg" alt="Fastlane Launches Jev for Marketing: Enter Your URL to Auto-Create Social Accounts and Promo Videos · 原帖视频截图" width="100%"></a>
 <br>
@@ -1016,8 +1005,6 @@
 <p>💬 10 &nbsp; 🔁 14 &nbsp; ♡ 298 &nbsp; 📊 99K</p>
 <p><a href="https://x.com/UseFastlane/status/2101504381682340332">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RoundtableSpace/status/2101668953978237335"><img src="https://pbs.twimg.com/amplify_video_thumb/2101437764004716544/img/h_s_KmtT7A_arYrl.jpg" alt="Jev runs ad marketing operations for under $3 · 原帖视频截图" width="100%"></a>
 <br>
@@ -1029,6 +1016,8 @@
 <p>💬 15 &nbsp; 🔁 20 &nbsp; ♡ 243 &nbsp; 📊 62K</p>
 <p><a href="https://x.com/RoundtableSpace/status/2101668953978237335">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vibeeval/status/2101646465412026850"><img src="https://pbs.twimg.com/media/HSqLrdzXEAAJZTu?format=jpg&amp;name=medium" alt="Jev Model: Content Production Is a Decision Problem, Not a Writing Problem · 原帖图片" width="100%"></a>
 <br>
@@ -1040,8 +1029,6 @@
 <p>💬 8 &nbsp; 🔁 10 &nbsp; ♡ 108 &nbsp; 📊 42K</p>
 <p><a href="https://x.com/vibeeval/status/2101646465412026850">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taira_daishiro/status/2101516075586462021"><img src="https://pbs.twimg.com/amplify_video_thumb/2101515982124765184/img/UQEy5sgPBUx3fDGS.jpg" alt="Using the Jev Model for SEO Search Query Classification · 原帖视频截图" width="100%"></a>
 <br>
@@ -1053,6 +1040,8 @@
 <p>💬 0 &nbsp; 🔁 6 &nbsp; ♡ 119 &nbsp; 📊 10.0K</p>
 <p><a href="https://x.com/taira_daishiro/status/2101516075586462021">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bryantchou/status/2101485995669770522"><img src="https://pbs.twimg.com/amplify_video_thumb/2101481189676818432/img/IJXnlwi2Ds8g1bJr.jpg" alt="Experimenting with the first Jev-powered websites: Ploy analyzes conversions and drop-offs · 原帖视频截图" width="100%"></a>
 <br>
@@ -1064,8 +1053,6 @@
 <p>💬 14 &nbsp; 🔁 2 &nbsp; ♡ 118 &nbsp; 📊 9.4K</p>
 <p><a href="https://x.com/bryantchou/status/2101485995669770522">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FinanceYF5/status/2101585391140905034"><img src="https://pbs.twimg.com/amplify_video_thumb/2101585334819835904/img/WmG8reNn3TUp0LsT.jpg" alt="Jev Analyzes 724 Ads in 40 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -1076,17 +1063,6 @@
 <p><strong>AI Will</strong> · @FinanceYF5 · 2026-09-20</p>
 <p>💬 5 &nbsp; 🔁 15 &nbsp; ♡ 41 &nbsp; 📊 7.0K</p>
 <p><a href="https://x.com/FinanceYF5/status/2101585391140905034">在 X 查看原帖</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/aadityansha_06/status/2101680888455246253"><img src="https://pbs.twimg.com/amplify_video_thumb/2101680464549576705/img/a_IKx7lbjtjurrhl.jpg" alt="Building an Ads Decisioning Tool with Early Access to Jev · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>营销</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/aadityansha_06/status/2101680888455246253">Building an Ads Decisioning Tool with Early Access to Jev</a></h3>
-<p>A developer with early access to Jev built an ads decisioning tool that can integrate with websites or streaming platforms, using its classification capabilities and simulating a demo based on multi-axis session telemetry.</p>
-<p><strong>中文摘要：</strong>开发者获得 Jev 早期访问权限，利用其分类能力构建可集成网站或流媒体平台的广告决策工具，并基于多轴会话遥测进行演示模拟。</p>
-<p><strong>AADITYANSHA</strong> · @aadityansha_06 · 2026-09-20</p>
-<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 10 &nbsp; 📊 339</p>
-<p><a href="https://x.com/aadityansha_06/status/2101680888455246253">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

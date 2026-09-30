@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 94 | 52 | 43 | 392K |
+| 96 | 53 | 44 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lightdash_devs/status/2105293283790385220"><img src="https://pbs.twimg.com/tweet_video_thumb/HTeBC78XcAE-rdM.jpg" alt="Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lightdash_devs/status/2105293283790385220">Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups</a></h3>
+<p>Lightdash demonstrates a Jev-powered fast mode: six chart follow-ups take 5.5s with Fast mode vs 59.8s without. Author Joao Viana shares how he built it and what broke in the accompanying blog post.</p>
+<p><strong>中文摘要：</strong>Lightdash 展示了 Jev 驱动的快速模式：六个图表后续查询耗时 5.5 秒，而普通模式需要 59.8 秒。作者 Joao Viana 在博客中分享了实现细节和踩坑经历。</p>
+<p><strong>Lightdash</strong> · @lightdash_devs · 2026-09-30T13:46:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/lightdash_devs/status/2105293283790385220">在 X 查看原帖</a> · <a href="https://t.co/1ls7fxDNu8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anjanps5/status/2105292817979560099"><img src="https://pbs.twimg.com/media/HTeAlKoWwAAr3eq?format=jpg&amp;name=small" alt="Using Jev to Slice Through Emergency Response Data · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anjanps5/status/2105292817979560099">Using Jev to Slice Through Emergency Response Data</a></h3>
+<p>The author shares a great experience using Jev from TypeSafe AI to classify and group years of emergency response center data signals, mentioning how happy their Data Analyst agents are.</p>
+<p><strong>中文摘要：</strong>作者分享使用TypeSafe AI的Jev对多年紧急响应中心数据信号进行分类和分组的愉快体验，并提及自己的数据分析智能体。</p>
+<p><strong>Anjan</strong> · @anjanps5 · 2026-09-30T13:44:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/anjanps5/status/2105292817979560099">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/me_barnyx/status/2105241919810875428"><img src="https://pbs.twimg.com/amplify_video_thumb/2105241772158750720/img/t8m1OYZiKi5mUmMb.jpg" alt="JEV end-to-end data science problem solving report · 原帖视频截图" width="100%"></a>

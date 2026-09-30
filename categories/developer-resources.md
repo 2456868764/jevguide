@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 261 | 101 | 160 | 419K |
+| 263 | 102 | 161 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/XueshiQiao/status/2105290076842573982"><img src="https://pbs.twimg.com/media/HTd98mUaYAECseJ?format=jpg&amp;name=medium" alt="Jev is suited for on-device inference · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/XueshiQiao/status/2105290076842573982">Jev is suited for on-device inference</a></h3>
+<p>Jev or OpenAI Decisions API is ideal for on-device desktop/mobile execution due to its small size and speed; network RTT far exceeds inference time.</p>
+<p><strong>中文摘要：</strong>Jev或OpenAI Decisions API因其小而快的特点，非常适合在桌面端/移动端本地运行；网络往返延迟远超推理时长。</p>
+<p><strong>Xueshi</strong> · @XueshiQiao · 2026-09-30T13:34:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/XueshiQiao/status/2105290076842573982">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Smartpigai/status/2105285739454017728"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev&#39;s Direction Validated by OpenAI Decisions API? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Smartpigai/status/2105285739454017728">Jev&#39;s Direction Validated by OpenAI Decisions API?</a></h3>
+<p>The author comments on OpenAI&#39;s Decisions API release, suggesting Jev&#39;s earlier idea that AI does not have to generate full content is being validated by a major player, and calls Jev&#39;s perspective noteworthy.</p>
+<p><strong>中文摘要：</strong>作者评论OpenAI发布的Decisions API，认为Jev此前提出的AI不一定要生成完整内容的方向开始被巨头验证，并提到Jev的观点值得关注。</p>
+<p><strong>Smartpig</strong> · @Smartpigai · 2026-09-30T13:16:49.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 356</p>
+<p><a href="https://x.com/Smartpigai/status/2105285739454017728">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/akira_papa_IT/status/2105253696653468038"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253416402595840/img/9KyO43se4PhvsMV4.jpg" alt="How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released · 原帖视频截图" width="100%"></a>

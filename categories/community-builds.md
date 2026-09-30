@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 686 | 277 | 413 | 3.0M |
+| 688 | 278 | 414 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Dalat_Ventures/status/2105285296329801743"><img src="https://pbs.twimg.com/media/HTd5z7kacAAAIZN?format=jpg&amp;name=medium" alt="Discussion on Jev&#39;s Design vs. B.AI API Upgrade · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Dalat_Ventures/status/2105285296329801743">Discussion on Jev&#39;s Design vs. B.AI API Upgrade</a></h3>
+<p>This post notes B.AI&#39;s API upgrade claims to flexibly meet a wide range of needs, and suggests comparing this with Jev&#39;s genuinely narrow, non-generative design.</p>
+<p><strong>中文摘要：</strong>本推文指出B.AI响应API升级宣称灵活满足广泛需求，并建议将其与Jev真正狭窄、非生成式的设计进行对比。</p>
+<p><strong>DALAT VENTURES</strong> · @Dalat_Ventures · 2026-09-30T13:15:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8.8K</p>
+<p><a href="https://x.com/Dalat_Ventures/status/2105285296329801743">在 X 查看原帖</a> · <a href="https://t.co/RbflwNwuWQ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kraayenJon/status/2105284527472226410"><img src="https://pbs.twimg.com/amplify_video_thumb/2105210133257109504/img/4xuxq2vezHUC27f1.jpg" alt="Jev makes LinkedIn saved posts searchable · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kraayenJon/status/2105284527472226410">Jev makes LinkedIn saved posts searchable</a></h3>
+<p>Use Jev to automatically tag LinkedIn saved posts with topic, hook, and format. 479 posts classified in just 225 seconds for $0.0195, making it easy to find that saved post.</p>
+<p><strong>中文摘要：</strong>用 Jev 自动为 LinkedIn 收藏帖子打上主题、钩子和格式标签。479 个帖子仅用 225 秒完成分类，成本仅 0.0195 美元，终于能快速找到收藏过的内容。</p>
+<p><strong>Jon Kraayenbrink</strong> · @kraayenJon · 2026-09-30T13:12:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><a href="https://x.com/kraayenJon/status/2105284527472226410">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mahler83/status/2105274281999622241"><img src="https://pbs.twimg.com/media/HTdvek2akAAJMn8?format=png&amp;name=900x900" alt="Jev experiment shows mismatch between choice and probabilities · 原帖图片" width="100%"></a>

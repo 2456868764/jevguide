@@ -1,8 +1,9 @@
 # VisiveAI
 
-2 Jev showcases.
+3 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T13:34:37.000Z | [Jev as System1 fuzzy-linter layer for confidence routing](https://x.com/VisiveAI/status/2105290221231460362) | 智能体 | VisiveAI | 12 |
 | 2026-09-30T05:05:32.000Z | [Fast System with Jev as Fuzzy Linter](https://x.com/VisiveAI/status/2105162105855090691) | 开发者工具 | VisiveAI | 8 |
 | 2026-09-25 | [Deploy Open Jev-style Decision Models on Databricks](https://x.com/VisiveAI/status/2103286884109807707) | 接入动态 | VisiveAI | 30 |

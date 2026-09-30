@@ -2,8 +2,35 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T13:46:47.000Z | [Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups](https://x.com/lightdash_devs/status/2105293283790385220) | 数据分析 | Lightdash | 7 |
+| 2026-09-30T13:46:00.000Z | [Jev: A Revolution for Building Reactive AI Interfaces](https://x.com/luc_allain_/status/2105293084821221714) | 工作原理 | Luc Allain | 13 |
+| 2026-09-30T13:44:56.000Z | [Using Jev to Slice Through Emergency Response Data](https://x.com/anjanps5/status/2105292817979560099) | 数据分析 | Anjan | 4 |
+| 2026-09-30T13:41:43.000Z | [Casper: A Chrome automation extension built on Jev](https://x.com/raffyfatlly/status/2105292004716691710) | 智能体 | Raffy Fatlly | 5 |
+| 2026-09-30T13:41:14.000Z | [Open-source JEV-27B nearly matches TypeSafe Jev](https://x.com/phillipisbackk/status/2105291886940561783) | 产品发布 | Philip | 11 |
+| 2026-09-30T13:40:46.000Z | [AutoTrust releases JEV-27B with typed-decision outputs and calibrated probabilities](https://x.com/phillipisbackk/status/2105291769751720319) | 产品发布 | Philip | 8 |
+| 2026-09-30T13:34:37.000Z | [Jev as System1 fuzzy-linter layer for confidence routing](https://x.com/VisiveAI/status/2105290221231460362) | 智能体 | VisiveAI | 12 |
+| 2026-09-30T13:34:03.000Z | [Jev is suited for on-device inference](https://x.com/XueshiQiao/status/2105290076842573982) | 开发资源 | Xueshi | 11 |
+| 2026-09-30T13:22:34.000Z | [Jev Decision API: Real Phone Control Accuracy From 13% to 85.5%](https://x.com/stas_sorokin_/status/2105287188887839145) | 智能体 | Stanislav Sorokin | 44 |
+| 2026-09-30T13:19:46.000Z | [Jev: TypeSafe AI's decision model quickly adopted on Vercel AI Gateway](https://x.com/cynthiazhang17/status/2105286483209003014) | 产品发布 | Cynthia Zhang - FutureX | 22 |
+| 2026-09-30T13:19:19.000Z | [Jev Drops LLM Token Usage in Agent Workflows to Save Costs](https://x.com/GeekyGadgets/status/2105286370101215475) | 产品发布 | Geeky Gadgets | 29 |
+| 2026-09-30T13:18:11.000Z | [Jev and Laya: System One Models for Enterprise Decisions](https://x.com/vericence/status/2105286085509062839) | 产品发布 | Vericence | 8 |
+| 2026-09-30T13:16:49.000Z | [Jev's Direction Validated by OpenAI Decisions API?](https://x.com/Smartpigai/status/2105285739454017728) | 开发资源 | Smartpig | 356 |
+| 2026-09-30T13:15:03.000Z | [Discussion on Jev's Design vs. B.AI API Upgrade](https://x.com/Dalat_Ventures/status/2105285296329801743) | 社区实践 | DALAT VENTURES | 8.8K |
+| 2026-09-30T13:12:21.000Z | [OpenAI DevDay Summary: Decisions API is Jev](https://x.com/ErenAILab/status/2105284614579265921) | 产品发布 | Mehmet Eren Dikmen | 417 |
+| 2026-09-30T13:12:05.000Z | [Ollama now supports Jev-style decision models locally](https://x.com/markfenner/status/2105284548619645370) | 接入动态 | Hybrid 🏃🏾 | 114 |
+| 2026-09-30T13:12:00.000Z | [Jev makes LinkedIn saved posts searchable](https://x.com/kraayenJon/status/2105284527472226410) | 社区实践 | Jon Kraayenbrink | 26 |
+| 2026-09-30T13:11:09.000Z | [Jev reads a situation and returns a number](https://x.com/plutos_eth/status/2105284314216776012) | 客户支持 | plutos | 731 |
+| 2026-09-30T13:10:37.000Z | [Upgrading Workflows with Jev](https://x.com/svpino/status/2105284180242559167) | 自动化工作流 | Santiago | 2.7K |
+| 2026-09-30T13:08:17.000Z | [Ranking on Google Page 1 Within 24 Hours of Jev Launch](https://x.com/JulianGoldieSEO/status/2105283591186030792) | 营销 | Julian Goldie SEO | 858 |
+| 2026-09-30T13:01:50.000Z | [Jev Model Blocks Phishing Emails](https://x.com/somi_ai/status/2105281967793246600) | 网络安全 | Somi | 43 |
+| 2026-09-30T13:00:15.000Z | [Jev for RAG, clearly explained](https://x.com/akshay_pachaar/status/2105281570898849903) | 知识与搜索 | Akshay 🚀 | 4.5K |
+| 2026-09-30T13:00:06.000Z | [Jev + GPT-6.1 Sol: Why Long-Horizon Agents Die After Turn 25](https://x.com/marfinxx/status/2105281533372215323) | 智能体 | marfin | 493 |
+| 2026-09-30T13:00:03.000Z | [jev-lint: An Experimental Linter Powered by Jev](https://x.com/sota0805/status/2105281520491430240) | 开发者工具 | Sam @ Autify | 63 |
+| 2026-09-30T12:59:56.000Z | [Jev Enables Real-Time Actions for Voice Agents](https://x.com/offskiies/status/2105281491395850673) | 智能体 | Ahmed Mukhtar | 16 |
+| 2026-09-30T12:57:41.000Z | [What is Jev? A Simple Guide to the System One Model](https://x.com/610birth/status/2105280925999480861) | 工作原理 | ろくい・ちまる・バース@生成AIプロデューサー | 6 |
 | 2026-09-30T12:31:17.000Z | [Jev experiment shows mismatch between choice and probabilities](https://x.com/mahler83/status/2105274281999622241) | 社区实践 | 말러팔삼 | 60 |
 | 2026-09-30T12:28:40.000Z | [GitHub Follow Recommendation: TypeSafe AI's Jev Tools](https://x.com/0xpikee/status/2105273624613564563) | 社区实践 | Pikee | 38 |
+| 2026-09-30T12:28:27.000Z | [Jev + Picsart: AI Rebuilds Creator Videos at 5x Lower Cost](https://x.com/bl888m_eth/status/2105273568552796442) | 内容创作 | bl888m | 126 |
 | 2026-09-30T12:24:15.000Z | [A Stock Terminal That Decides in Under a Second with Jev](https://x.com/unicodeveloper/status/2105272510371557500) | 金融 | Odogwu Machalla | 281 |
 | 2026-09-30T11:10:00.000Z | [Building a smart routing stack with Jev](https://x.com/merccante/status/2105253825904853252) | 智能体 | mercante | 0 |
 | 2026-09-30T11:09:29.000Z | [How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released](https://x.com/akira_papa_IT/status/2105253696653468038) | 开发资源 | あきらパパ【生成AI活用エンジニア&３児のパパ】 | 41 |
@@ -75,30 +102,3 @@
 | 2026-09-30T08:27:10.000Z | [Launching a Jev-based Search Product](https://x.com/ahab_developer/status/2105212847118770214) | 产品发布 | Ahab | 152 |
 | 2026-09-30T07:41:09.000Z | [Deciphering Jev: TypeSafe's Mysterious Model](https://x.com/KyrieBlunders/status/2105201267119374809) | 工作原理 | Vishal | 7 |
 | 2026-09-30T07:36:31.000Z | [Evaluating Jev AI model for tweet classification](https://x.com/MathisHammel/status/2105200102587449444) | 社区实践 | Mathis Hammel-Brylinski | 183 |
-| 2026-09-30T07:34:53.000Z | [Jev for Marketing Keyword Filtering: Low Cost, High Efficiency](https://x.com/o_ddoong/status/2105199689801064780) | 营销 | 오뚱 | 6 |
-| 2026-09-30T07:33:19.000Z | [Automation ASMR First Episode 'My Name Is Jev' Preview](https://x.com/DWisenhoff/status/2105199295557255198) | 社区实践 | Daniel Wisenhoff | 13 |
-| 2026-09-30T07:31:19.000Z | [Ollama 0.35 now runs Jev-style decision models locally](https://x.com/Pakgowithai/status/2105198791968068041) | 开发者工具 | Fahad Saleem | 2 |
-| 2026-09-30T07:27:00.000Z | [Ten Levels of Jev Example Repository](https://x.com/QingQ77/status/2105197705114812493) | 开发资源 | Geek Lite | 147 |
-| 2026-09-30T07:16:55.000Z | [Jev Usage Example: Generating a Rocket Launch Video](https://x.com/Biz_zatukora/status/2105195167838052821) | 内容创作 | BKLZ〜雰囲気投資家の矜持〜 | 3.0K |
-| 2026-09-30T07:13:56.000Z | [Using Jev to Classify DSPy Signatures](https://x.com/lotusfracture/status/2105194419230224722) | 社区实践 | flâneur | 12 |
-| 2026-09-30T07:09:18.000Z | [Frame Engineering: Independent Verification with Jev](https://x.com/parkerbrowndev/status/2105193251280183474) | 开发者工具 | Parker Brown | 6 |
-| 2026-09-30T07:03:22.000Z | [Ollama Adds Local Support for Jev-style Decision Models and SystemOne API](https://x.com/realfxw/status/2105191760594915525) | 开发者工具 | TechVerser | 32 |
-| 2026-09-30T07:00:01.000Z | [AI Task Delegation: Jev Routes Between Claude and GPT](https://x.com/biroi8/status/2105190914289262707) | 智能体 | Suzuki | 53 |
-| 2026-09-30T06:58:42.000Z | [Jev Founder: JEV Is the Biggest Breakthrough, Beating Everything](https://x.com/He1s_Sammy/status/2105190583690011019) | 工作原理 | S ᜰ | 797 |
-| 2026-09-30T06:57:55.000Z | [No Jev tutorial? This prompt lets Claude read the docs and build an agent](https://x.com/mikenevermiss/status/2105190386100572533) | 社区实践 | MIKE | 836 |
-| 2026-09-30T06:56:46.000Z | [Exploring Jev's Value as a Decision Layer for PhysicalAI](https://x.com/nathannam/status/2105190096693875093) | 社区实践 | Nathan Daehyun Nam | 14 |
-| 2026-09-30T06:55:59.000Z | [JEV Benchmark Eval: 135ms Latency with 57.8% Accuracy](https://x.com/msrktt/status/2105189901482529196) | 数据分析 | MiSteR Kitti | 45 |
-| 2026-09-30T06:55:54.000Z | [JEV Decision Latency vs GPT-4.1-mini](https://x.com/KaushikSiv38529/status/2105189879751835925) | 智能体 | Kaushik Sivakumar | 8 |
-| 2026-09-30T06:53:09.000Z | [Jev-like decision models: small local models for clear decisions](https://x.com/drbetulay/status/2105189186978427122) | 智能体 | Betül Ay | 309 |
-| 2026-09-30T06:48:30.000Z | [Jev Competing in Space Invaders AI Benchmark](https://x.com/13rac1/status/2105188017656959318) | 游戏 | Bradley Erickson | 31 |
-| 2026-09-30T06:42:01.000Z | [SGLang and Ollama now support Jev-like decision models](https://x.com/analogalok/status/2105186385334563062) | 开发资源 | Alok | 564 |
-| 2026-09-30T06:41:50.000Z | [JEV+Gemini+YouTube: A timestamp-based copyright agent](https://x.com/starmexxx/status/2105186338697884049) | 法律合规 | starmex | 432 |
-| 2026-09-30T06:39:47.000Z | [Jev Image Support Analysis: Speed vs. Cost Trade-off](https://x.com/connect24h/status/2105185824090521794) | 社区实践 | connect24h | 2.0K |
-| 2026-09-30T06:39:37.000Z | [Ollama Adds System One Endpoint for Jev-like Queries](https://x.com/keenthinker/status/2105185782235292059) | 开发者工具 | Pavel ✨ keenthinker | 13 |
-| 2026-09-30T06:38:58.000Z | [OpenAI Dev Day Recap: Decisions API Called Jev Killer](https://x.com/sourcestrongai/status/2105185618867494957) | 产品发布 | Source Strong AI | 46 |
-| 2026-09-30T06:38:57.000Z | [Watch for the rise of Jev-like AI](https://x.com/Mr_Mope/status/2105185615260406110) | 社区实践 | 激ヵゎおもぺ師ﾃｬﾝ✨️💞【公式】🌐𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞 | 151 |
-| 2026-09-30T06:33:11.000Z | [Jev-like Decision Models: Focused on Clear Decisions, Not Long Text Generation](https://x.com/drbetulay/status/2105184161287823409) | 工作原理 | Betül Ay | 12 |
-| 2026-09-30T06:32:31.000Z | [Chrome extension built with Jev to filter YouTube topics](https://x.com/Roheetbuilds/status/2105183994296111482) | 开发者工具 | Rohit | 2 |
-| 2026-09-30T06:30:05.000Z | [Jev Meetup Recap in Bangalore](https://x.com/WPReadingClub/status/2105183382896521314) | 社区实践 | Whitepaper Reading Club | 32 |
-| 2026-09-30T06:22:40.000Z | [Decision Models Like JEV Unlock New Possibilities for Enterprise Agent Products](https://x.com/xlei123/status/2105181515223339341) | 智能体 | xlei | 12 |
-| 2026-09-30T06:18:11.000Z | [Discussion on Nimble, a local model similar to Jev](https://x.com/sidodtv/status/2105180387723141159) | 社区实践 | 内田勉 DirecTune.app β公開中 | 27 |

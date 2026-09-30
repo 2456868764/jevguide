@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4302</strong><br>curated posts</td>
-<td align="center"><strong>2221</strong><br>original videos</td>
+<td align="center"><strong>4329</strong><br>curated posts</td>
+<td align="center"><strong>2239</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>686</strong> showcases · <strong>277</strong> videos</p>
+<p><strong>688</strong> showcases · <strong>278</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>444</strong> showcases · <strong>194</strong> videos</p>
+<p><strong>446</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>439</strong> showcases · <strong>230</strong> videos</p>
+<p><strong>440</strong> showcases · <strong>231</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,9 +48,23 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>352</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>353</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
+<td width="33%" valign="top">
+<h3><a href="categories/launch-news.md">Launch news</a></h3>
+<p><sub>产品发布</sub></p>
+<p><strong>319</strong> showcases · <strong>153</strong> videos</p>
+<p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>319</strong> showcases · <strong>182</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
@@ -58,23 +72,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>314</strong> showcases · <strong>177</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/launch-news.md">Launch news</a></h3>
-<p><sub>产品发布</sub></p>
-<p><strong>313</strong> showcases · <strong>152</strong> videos</p>
-<p><a href="categories/launch-news.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>261</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>263</strong> showcases · <strong>102</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>188</strong> showcases · <strong>124</strong> videos</p>
+<p><strong>189</strong> showcases · <strong>125</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>125</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>126</strong> showcases · <strong>94</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>103</strong> showcases · <strong>79</strong> videos</p>
+<p><strong>104</strong> showcases · <strong>80</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>94</strong> showcases · <strong>52</strong> videos</p>
+<p><strong>96</strong> showcases · <strong>53</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>94</strong> showcases · <strong>51</strong> videos</p>
+<p><strong>95</strong> showcases · <strong>52</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>46</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>45</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/mahler83/status/2105274281999622241"><img src="https://pbs.twimg.com/media/HTdvek2akAAJMn8?format=png&amp;name=900x900" alt="Jev experiment shows mismatch between choice and probabilities · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mahler83/status/2105274281999622241">Jev experiment shows mismatch between choice and probabilities</a></h3>
-<p>A user reports that when the Jev model answers a multiple-choice question, the choice is C but the probabilities show A as more likely, possibly due to an unusual rounding error.</p>
-<p><strong>60</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
-<p><strong>말러팔삼</strong> · @mahler83</p>
+<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/lightdash_devs/status/2105293283790385220"><img src="https://pbs.twimg.com/tweet_video_thumb/HTeBC78XcAE-rdM.jpg" alt="Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lightdash_devs/status/2105293283790385220">Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups</a></h3>
+<p>Lightdash demonstrates a Jev-powered fast mode: six chart follow-ups take 5.5s with Fast mode vs 59.8s without. Author Joao Viana shares how he built it and what broke in the accompanying blog post.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Lightdash</strong> · @lightdash_devs</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/0xpikee/status/2105273624613564563"><img src="https://pbs.twimg.com/media/HTdvA0HXsAAgrbn?format=jpg&amp;name=medium" alt="GitHub Follow Recommendation: TypeSafe AI&#39;s Jev Tools · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0xpikee/status/2105273624613564563">GitHub Follow Recommendation: TypeSafe AI&#39;s Jev Tools</a></h3>
-<p>This post recommends teams to follow on GitHub, including TypeSafe AI, highlighting its Jev tools, skills, and system-level agent tooling.</p>
-<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
-<p><strong>Pikee</strong> · @0xpikee</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/luc_allain_/status/2105293084821221714"><img src="https://pbs.twimg.com/amplify_video_thumb/2105277603779067904/img/jOJCrFBGsLSeJV1K.jpg" alt="Jev: A Revolution for Building Reactive AI Interfaces · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/luc_allain_/status/2105293084821221714">Jev: A Revolution for Building Reactive AI Interfaces</a></h3>
+<p>Introduces how Jev aims to shift from prompt-response to letting software understand context, enabling more reactive AI interfaces.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Luc Allain</strong> · @luc_allain_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/unicodeveloper/status/2105272510371557500"><img src="https://pbs.twimg.com/media/HTdtwMGXQAA8RP2?format=jpg&amp;name=medium" alt="A Stock Terminal That Decides in Under a Second with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/unicodeveloper/status/2105272510371557500">A Stock Terminal That Decides in Under a Second with Jev</a></h3>
-<p>The author shares JEVINIK, a stock terminal built with the Jev model (no LLM) and Valyu&#39;s rich financial data, capable of making decisions in under a second.</p>
-<p><strong>281</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 281</p>
-<p><strong>Odogwu Machalla</strong> · @unicodeveloper</p>
+<p><strong>03</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<a href="https://x.com/anjanps5/status/2105292817979560099"><img src="https://pbs.twimg.com/media/HTeAlKoWwAAr3eq?format=jpg&amp;name=small" alt="Using Jev to Slice Through Emergency Response Data · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/anjanps5/status/2105292817979560099">Using Jev to Slice Through Emergency Response Data</a></h3>
+<p>The author shares a great experience using Jev from TypeSafe AI to classify and group years of emergency response center data signals, mentioning how happy their Data Analyst agents are.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Anjan</strong> · @anjanps5</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/merccante/status/2105253825904853252"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253203776282624/img/ZhQiqn4zeMMgPzzY.jpg" alt="Building a smart routing stack with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/merccante/status/2105253825904853252">Building a smart routing stack with Jev</a></h3>
-<p>Community practice: using TypeSafe&#39;s Jev as a System One model alongside Claude Opus 5.5, routing simple requests to cheap models and invoking the expensive one only when necessary — Jev itself cannot write a sentence.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>mercante</strong> · @merccante</p>
+<a href="https://x.com/raffyfatlly/status/2105292004716691710"><img src="https://pbs.twimg.com/amplify_video_thumb/2105288629405048833/img/Cj4XB2Yuv2SYL3BS.jpg" alt="Casper: A Chrome automation extension built on Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/raffyfatlly/status/2105292004716691710">Casper: A Chrome automation extension built on Jev</a></h3>
+<p>Casper is a Chrome extension built on Jev by TypeSafe AI. It can click, type, and scroll in Chrome based on typed or spoken commands. The author shares this side project, noting it&#39;s free on the Chrome Web Store.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Raffy Fatlly</strong> · @raffyfatlly</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/mahler83/status/2105274281999622241"><img src="https://pbs.twimg.com/media/HTdvek2akAAJMn8?format=png&amp;name=900x900" alt="Jev experiment shows mismatch between choice and probabilities · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mahler83/status/2105274281999622241">Jev experiment shows mismatch between choice and probabilities</a></h3>
-<p>A user reports that when the Jev model answers a multiple-choice question, the choice is C but the probabilities show A as more likely, possibly due to an unusual rounding error.</p>
-<p><strong>60</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
-<p><strong>말러팔삼</strong> · @mahler83</p>
+<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/lightdash_devs/status/2105293283790385220"><img src="https://pbs.twimg.com/tweet_video_thumb/HTeBC78XcAE-rdM.jpg" alt="Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lightdash_devs/status/2105293283790385220">Lightdash Uses Jev-Powered Fast Path to Speed Up Chart Follow-ups</a></h3>
+<p>Lightdash demonstrates a Jev-powered fast mode: six chart follow-ups take 5.5s with Fast mode vs 59.8s without. Author Joao Viana shares how he built it and what broke in the accompanying blog post.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Lightdash</strong> · @lightdash_devs</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/merccante/status/2105253825904853252"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253203776282624/img/ZhQiqn4zeMMgPzzY.jpg" alt="Building a smart routing stack with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/merccante/status/2105253825904853252">Building a smart routing stack with Jev</a></h3>
-<p>Community practice: using TypeSafe&#39;s Jev as a System One model alongside Claude Opus 5.5, routing simple requests to cheap models and invoking the expensive one only when necessary — Jev itself cannot write a sentence.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>mercante</strong> · @merccante</p>
+<a href="https://x.com/raffyfatlly/status/2105292004716691710"><img src="https://pbs.twimg.com/amplify_video_thumb/2105288629405048833/img/Cj4XB2Yuv2SYL3BS.jpg" alt="Casper: A Chrome automation extension built on Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/raffyfatlly/status/2105292004716691710">Casper: A Chrome automation extension built on Jev</a></h3>
+<p>Casper is a Chrome extension built on Jev by TypeSafe AI. It can click, type, and scroll in Chrome based on typed or spoken commands. The author shares this side project, noting it&#39;s free on the Chrome Web Store.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Raffy Fatlly</strong> · @raffyfatlly</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/akira_papa_IT/status/2105253696653468038"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253416402595840/img/9KyO43se4PhvsMV4.jpg" alt="How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/akira_papa_IT/status/2105253696653468038">How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released</a></h3>
-<p>A group of four discusses the differences between OpenAI Decisions API and Jev by watching official demos, in an 8-minute comparison video.</p>
-<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
-<p><strong>あきらパパ【生成AI活用エンジニア&amp;３児のパパ】</strong> · @akira_papa_IT</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/phillipisbackk/status/2105291886940561783"><img src="https://pbs.twimg.com/media/HTd_y31awAE7hui?format=jpg&amp;name=medium" alt="Open-source JEV-27B nearly matches TypeSafe Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/phillipisbackk/status/2105291886940561783">Open-source JEV-27B nearly matches TypeSafe Jev</a></h3>
+<p>JEV-27B averages 84.07 on six public decision benchmarks, slightly outperforming TypeSafe Jev 1.13 (83.85). It is open and self-hosted, basically matching the teacher model. HumanEval stays at 78.0% with all 164 completions byte-identical to the base model.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Philip</strong> · @phillipisbackk</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/melvindvivas/status/2105248080882987131"><img src="https://pbs.twimg.com/media/HTdXqbzagAADdAX?format=jpg&amp;name=medium" alt="How to Use Jev for Email Classification · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/melvindvivas/status/2105248080882987131">How to Use Jev for Email Classification</a></h3>
-<p>A blog post explaining how to use TypeSafe AI&#39;s Jev model as a decision model for email classification, with a tutorial link.</p>
-<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
-<p><strong>Melvin Vivas</strong> · @melvindvivas</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/GeekyGadgets/status/2105286370101215475"><img src="https://pbs.twimg.com/media/HTd6y_HbgAAma2_?format=jpg&amp;name=medium" alt="Jev Drops LLM Token Usage in Agent Workflows to Save Costs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GeekyGadgets/status/2105286370101215475">Jev Drops LLM Token Usage in Agent Workflows to Save Costs</a></h3>
+<p>Jev introduces optimizations for agent workflows that significantly reduce LLM token consumption, helping businesses lower operational costs.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>Geeky Gadgets</strong> · @GeekyGadgets</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 444 | 194 | 251 | 1.6M |
+| 446 | 195 | 252 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/luc_allain_/status/2105293084821221714"><img src="https://pbs.twimg.com/amplify_video_thumb/2105277603779067904/img/jOJCrFBGsLSeJV1K.jpg" alt="Jev: A Revolution for Building Reactive AI Interfaces · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/luc_allain_/status/2105293084821221714">Jev: A Revolution for Building Reactive AI Interfaces</a></h3>
+<p>Introduces how Jev aims to shift from prompt-response to letting software understand context, enabling more reactive AI interfaces.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 如何改变传统提示-响应模式，让软件具备理解能力，以构建更实时的 AI 交互界面。</p>
+<p><strong>Luc Allain</strong> · @luc_allain_ · 2026-09-30T13:46:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/luc_allain_/status/2105293084821221714">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/610birth/status/2105280925999480861"><img src="https://pbs.twimg.com/media/HTd10ECaYAADpmQ?format=jpg&amp;name=medium" alt="What is Jev? A Simple Guide to the System One Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/610birth/status/2105280925999480861">What is Jev? A Simple Guide to the System One Model</a></h3>
+<p>A plain-language introduction to the System One of the TypeSafe Jev model, helping readers grasp its core concept.</p>
+<p><strong>中文摘要：</strong>本文以通俗易懂的方式介绍 TypeSafe Jev 模型的 System One，帮助理解其核心概念。</p>
+<p><strong>ろくい・ちまる・バース@生成AIプロデューサー</strong> · @610birth · 2026-09-30T12:57:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/610birth/status/2105280925999480861">在 X 查看原帖</a> · <a href="https://t.co/Q9quWD3e2R">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usmancognify/status/2105245046765429161"><img src="https://pbs.twimg.com/amplify_video_thumb/2105243294674690048/img/U9KiizpYPH3Cle6j.jpg" alt="Jev: Scores Answers, Doesn&#39;t Generate Them · 原帖视频截图" width="100%"></a>

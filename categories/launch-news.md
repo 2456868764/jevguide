@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 313 | 152 | 164 | 1.1M |
+| 319 | 153 | 169 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/phillipisbackk/status/2105291886940561783"><img src="https://pbs.twimg.com/media/HTd_y31awAE7hui?format=jpg&amp;name=medium" alt="Open-source JEV-27B nearly matches TypeSafe Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/phillipisbackk/status/2105291886940561783">Open-source JEV-27B nearly matches TypeSafe Jev</a></h3>
+<p>JEV-27B averages 84.07 on six public decision benchmarks, slightly outperforming TypeSafe Jev 1.13 (83.85). It is open and self-hosted, basically matching the teacher model. HumanEval stays at 78.0% with all 164 completions byte-identical to the base model.</p>
+<p><strong>中文摘要：</strong>JEV-27B在六个公共决策基准上平均得分84.07，略高于TypeSafe Jev 1.13（83.85）。该模型开放且可自托管，几乎与教师模型持平。HumanEval保持78.0%，所有164个补全与基础模型逐字节一致。</p>
+<p><strong>Philip</strong> · @phillipisbackk · 2026-09-30T13:41:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/phillipisbackk/status/2105291886940561783">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/phillipisbackk/status/2105291769751720319"><img src="https://pbs.twimg.com/media/HTd_sXHa4AAMSHj?format=jpg&amp;name=medium" alt="AutoTrust releases JEV-27B with typed-decision outputs and calibrated probabilities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/phillipisbackk/status/2105291769751720319">AutoTrust releases JEV-27B with typed-decision outputs and calibrated probabilities</a></h3>
+<p>JEV-27B (Apache-2.0) handles true/false, 2–16 option picks, and 0–5 ratings in one forward pass, returning calibrated probabilities instead of paragraphs; the same weights still support full Qwen3.8-27B reasoning.</p>
+<p><strong>中文摘要：</strong>JEV-27B（Apache-2.0）在一次前向传播中完成判断题、2–16 选项选择和 0–5 评分，返回校准概率而非段落文本；同一权重仍可执行完整 Qwen3.8-27B 推理。</p>
+<p><strong>Philip</strong> · @phillipisbackk · 2026-09-30T13:40:46.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/phillipisbackk/status/2105291769751720319">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cynthiazhang17/status/2105286483209003014"><img src="https://pbs.twimg.com/media/HTd60iNaUAARzlZ?format=jpg&amp;name=medium" alt="Jev: TypeSafe AI&#39;s decision model quickly adopted on Vercel AI Gateway · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cynthiazhang17/status/2105286483209003014">Jev: TypeSafe AI&#39;s decision model quickly adopted on Vercel AI Gateway</a></h3>
+<p>Earlier this month, the fastest-adopted model in Vercel AI Gateway&#39;s history turned out to be Jev from TypeSafe AI. It doesn&#39;t chat or draft; it takes a program&#39;s current state and a set of options, and returns a choice.</p>
+<p><strong>中文摘要：</strong>本月早些时候，Vercel AI Gateway 史上采用最快的模型竟是 TypeSafe AI 的 Jev。它不会聊天或起草内容，而是根据程序当前状态和一组选项返回一个选择。</p>
+<p><strong>Cynthia Zhang - FutureX</strong> · @cynthiazhang17 · 2026-09-30T13:19:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/cynthiazhang17/status/2105286483209003014">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GeekyGadgets/status/2105286370101215475"><img src="https://pbs.twimg.com/media/HTd6y_HbgAAma2_?format=jpg&amp;name=medium" alt="Jev Drops LLM Token Usage in Agent Workflows to Save Costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GeekyGadgets/status/2105286370101215475">Jev Drops LLM Token Usage in Agent Workflows to Save Costs</a></h3>
+<p>Jev introduces optimizations for agent workflows that significantly reduce LLM token consumption, helping businesses lower operational costs.</p>
+<p><strong>中文摘要：</strong>Jev 针对智能体工作流推出优化，大幅减少 LLM Token 消耗，帮助企业降低运营成本。</p>
+<p><strong>Geeky Gadgets</strong> · @GeekyGadgets · 2026-09-30T13:19:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/GeekyGadgets/status/2105286370101215475">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vericence/status/2105286085509062839"><img src="https://pbs.twimg.com/media/HTd6a2JXAAAp3vQ?format=jpg&amp;name=medium" alt="Jev and Laya: System One Models for Enterprise Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vericence/status/2105286085509062839">Jev and Laya: System One Models for Enterprise Decisions</a></h3>
+<p>The Vericence blog highlights System One models like Jev and Laya, focusing on decisions rather than text generation for enterprise routing, triage, and approvals.</p>
+<p><strong>中文摘要：</strong>Vericence 博客介绍了 System One 模型（如 Jev 和 Laya），强调在需要决策时无需生成文本，而是用于企业路由、分诊和审批。</p>
+<p><strong>Vericence</strong> · @vericence · 2026-09-30T13:18:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/vericence/status/2105286085509062839">在 X 查看原帖</a> · <a href="https://t.co/EZB6cNRGlk">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ErenAILab/status/2105284614579265921"><img src="https://pbs.twimg.com/amplify_video_thumb/2105282381233979393/img/56w5FwUmWpFpzZfb.jpg" alt="OpenAI DevDay Summary: Decisions API is Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ErenAILab/status/2105284614579265921">OpenAI DevDay Summary: Decisions API is Jev</a></h3>
+<p>The author summarizes OpenAI DevDay 2026, noting few new things and pointing out that the Decisions API is essentially Jev.</p>
+<p><strong>中文摘要：</strong>作者总结 OpenAI DevDay 2026，认为没有太多新内容，并指出 Decisions API 其实就是大家熟知的 Jev。</p>
+<p><strong>Mehmet Eren Dikmen</strong> · @ErenAILab · 2026-09-30T13:12:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 417</p>
+<p><a href="https://x.com/ErenAILab/status/2105284614579265921">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Seanku/status/2105252639848145120"><img src="https://pbs.twimg.com/media/HTdcHBtawAAIQPp?format=jpg&amp;name=medium" alt="Meet Jev System One Model · 原帖图片" width="100%"></a>

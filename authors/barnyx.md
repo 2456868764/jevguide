@@ -1,9 +1,10 @@
 # barnyx
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T10:22:41.000Z | [JEV end-to-end data science problem solving report](https://x.com/me_barnyx/status/2105241919810875428) | 数据分析 | barnyx | 302 |
 | 2026-09-29 | [JEV + OPUS Builds a Quant Options Desk](https://x.com/me_barnyx/status/2104895934299537642) | 金融 | barnyx | 6 |
 | 2026-09-28 | [JEV + OPUS 5.5: The Same Agent at One-Tenth the Cost](https://x.com/me_barnyx/status/2104513216491430318) | 智能体 | barnyx | 191 |
 | 2026-09-23 | [JEV Turns the Hardest Part of AI Engineering into a Multiple Choice Test](https://x.com/me_barnyx/status/2102708705372295459) | 开发者工具 | barnyx | 26 |

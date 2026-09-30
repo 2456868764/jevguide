@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 183 | 123 | 60 | 595K |
+| 187 | 124 | 63 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2105252389196382701"><img src="https://pbs.twimg.com/amplify_video_thumb/2105252353444110336/img/RU7CXreMtVw93LEv.jpg" alt="JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gippp69/status/2105252389196382701">JEV + KIMI K3 Cut Email Agent Cost from $300 to $9.42</a></h3>
+<p>JEV quickly sorts emails first, escalating only 10% of uncertain cases to Kimi K3 for closer review, drastically cutting agent costs.</p>
+<p><strong>中文摘要：</strong>JEV先对邮件进行快速分类，仅将10%不确定的邮件升级给Kimi K3深度处理，从而大幅降低代理费用。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-09-30T11:04:17.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 94</p>
+<p><a href="https://x.com/gippp69/status/2105252389196382701">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/melvindvivas/status/2105248080882987131"><img src="https://pbs.twimg.com/media/HTdXqbzagAADdAX?format=jpg&amp;name=medium" alt="How to Use Jev for Email Classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/melvindvivas/status/2105248080882987131">How to Use Jev for Email Classification</a></h3>
+<p>A blog post explaining how to use TypeSafe AI&#39;s Jev model as a decision model for email classification, with a tutorial link.</p>
+<p><strong>中文摘要：</strong>一篇博客文章，介绍如何将 TypeSafe AI 的 Jev 模型作为决策模型应用于邮件分类，并附带详细教程链接。</p>
+<p><strong>Melvin Vivas</strong> · @melvindvivas · 2026-09-30T10:47:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
+<p><a href="https://x.com/melvindvivas/status/2105248080882987131">在 X 查看原帖</a> · <a href="https://t.co/2IH6Hxz8Qn">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AntoineMinoux/status/2105246902035882347"><img src="https://pbs.twimg.com/media/HTdVm9CWcAAIvH0?format=jpg&amp;name=medium" alt="Fernand ships a new feature powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AntoineMinoux/status/2105246902035882347">Fernand ships a new feature powered by Jev</a></h3>
+<p>Antoine Minoux says cold emails are useless and mentions Fernand&#39;s potentially best feature is powered by Jev.</p>
+<p><strong>中文摘要：</strong>Antoine Minoux 表示冷邮件已无效，并提到 Fernand 可能最棒的功能由 Jev 驱动。</p>
+<p><strong>Antoine Minoux</strong> · @AntoineMinoux · 2026-09-30T10:42:29.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 80</p>
+<p><a href="https://x.com/AntoineMinoux/status/2105246902035882347">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/firefish/status/2105242729097937386"><img src="https://pbs.twimg.com/media/HTdS5lVbEAAvKPk?format=jpg&amp;name=medium" alt="SiftSafe: Gmail Cleanup Tool Using Jev to Categorize Emails · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/firefish/status/2105242729097937386">SiftSafe: Gmail Cleanup Tool Using Jev to Categorize Emails</a></h3>
+<p>The author shares a first-version workflow: scans the inbox and uses Jev to classify emails into delete, confirmation-needed, and protected categories.</p>
+<p><strong>中文摘要：</strong>作者展示了 SiftSafe 的第一版流程：扫描收件箱，通过 Jev 将邮件分为删除、待确认和需保护三类。</p>
+<p><strong>firefish</strong> · @firefish · 2026-09-30T10:25:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 31</p>
+<p><a href="https://x.com/firefish/status/2105242729097937386">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/petrzela123/status/2105214097000378584"><img src="https://pbs.twimg.com/amplify_video_thumb/2105213356323807233/img/IxbM35pbZcA2mQl8.jpg" alt="Built a command-line email client with Claude and Jev in one day · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 310 | 175 | 136 | 3.0M |
+| 314 | 177 | 138 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/merccante/status/2105253825904853252"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253203776282624/img/ZhQiqn4zeMMgPzzY.jpg" alt="Building a smart routing stack with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/merccante/status/2105253825904853252">Building a smart routing stack with Jev</a></h3>
+<p>Community practice: using TypeSafe&#39;s Jev as a System One model alongside Claude Opus 5.5, routing simple requests to cheap models and invoking the expensive one only when necessary — Jev itself cannot write a sentence.</p>
+<p><strong>中文摘要：</strong>报道社区实践：将TypeSafe的Jev作为System One模型，与Claude Opus 5.5配合，让简单请求由廉价模型处理，仅在必要时调用昂贵模型，Jev本身不生成文本。</p>
+<p><strong>mercante</strong> · @merccante · 2026-09-30T11:10:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/merccante/status/2105253825904853252">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ByteMohit/status/2105246477216063777"><img src="https://pbs.twimg.com/media/HTdWYRkbAAAxJNC?format=jpg&amp;name=medium" alt="Jev as an LLM Judge for Agent Evals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ByteMohit/status/2105246477216063777">Jev as an LLM Judge for Agent Evals</a></h3>
+<p>The author shares using Jev as an LLM judge for agent evals, calling it cost-effective and fast, and uses it in their own intelligence harness to simplify building.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 作为 LLM 评判器进行智能体评估，称其成本效益高且速度快，并用于自己的智能 harness，简化了构建流程。</p>
+<p><strong>Mohit Goyal (Harness arc)</strong> · @ByteMohit · 2026-09-30T10:40:48.000Z</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 125</p>
+<p><a href="https://x.com/ByteMohit/status/2105246477216063777">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/N01ennn/status/2105241246054711764"><img src="https://pbs.twimg.com/amplify_video_thumb/2105240336419192832/img/wmiPUzkC1MDGqiqy.jpg" alt="9 Jev Agent Patterns from TypeSafeAI Docs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/N01ennn/status/2105241246054711764">9 Jev Agent Patterns from TypeSafeAI Docs</a></h3>
+<p>A summary of how Jev fits inside agents according to TypeSafeAI docs, with the core rule: the LLM thinks, Jev decides, and code acts, mapped into 9 patterns.</p>
+<p><strong>中文摘要：</strong>整理 TypeSafeAI 文档中 Jev 在智能体中的运作方式，核心原则是：LLM 负责思考，Jev 负责决策，代码负责执行，并归纳为 9 种模式。</p>
+<p><strong>NO1ennn</strong> · @N01ennn · 2026-09-30T10:20:01.000Z</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 959</p>
+<p><a href="https://x.com/N01ennn/status/2105241246054711764">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cyrilXBT/status/2105239994545946849"><img src="https://pbs.twimg.com/media/HTdQnkbbEAAhYOx?format=jpg&amp;name=medium" alt="Configure an AI agent team with Opus 5.5, Jev handles routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cyrilXBT/status/2105239994545946849">Configure an AI agent team with Opus 5.5, Jev handles routing</a></h3>
+<p>A config that makes Opus 5.5 build a small AI agent team (research, code, writing, review); Jev reads every incoming task and picks the right agent.</p>
+<p><strong>中文摘要：</strong>分享一个配置方案：向Opus 5.5发送该配置，即可生成一支小型AI代理团队，包括研究、编码、写作和审阅角色；Jev负责读取每个任务并选择合适代理处理。</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT · 2026-09-30T10:15:02.000Z</p>
+<p>💬 5 &nbsp; 🔁 10 &nbsp; ♡ 58 &nbsp; 📊 3.4K</p>
+<p><a href="https://x.com/cyrilXBT/status/2105239994545946849">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fleyta88/status/2105226962142650804"><img src="https://pbs.twimg.com/media/HTdElzpXIAAl0cT?format=png&amp;name=medium" alt="Jev Engine: Don&#39;t Let Your Best AI Model Make Every Decision · 原帖图片" width="100%"></a>

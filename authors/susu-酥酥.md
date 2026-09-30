@@ -1,9 +1,10 @@
 # SuSu_酥酥👅
 
-27 Jev showcases.
+28 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-09-30T10:37:23.000Z | [Jev vs OpenAI Decisions: 8-Dimension Showdown](https://x.com/NFT_Chen/status/2105245616683233787) | 社区实践 | SuSu_酥酥👅 | 1.1K |
 | 2026-09-29 | [vllm-jev Cuts System One Inference from 600ms to ~50ms](https://x.com/NFT_Chen/status/2104849241294475418) | 开发者工具 | SuSu_酥酥👅 | 871 |
 | 2026-09-29 | [Training "Super Jev" on a MacBook? Crushing Laya](https://x.com/NFT_Chen/status/2104892182431993965) | 游戏 | SuSu_酥酥👅 | 690 |
 | 2026-09-28 | [TypeSafe's Official Skill Teaches Claude Code to Build on Jev](https://x.com/NFT_Chen/status/2104423935496556743) | 开发资源 | SuSu_酥酥👅 | 2.6K |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 258 | 99 | 159 | 419K |
+| 260 | 100 | 160 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/akira_papa_IT/status/2105253696653468038"><img src="https://pbs.twimg.com/amplify_video_thumb/2105253416402595840/img/9KyO43se4PhvsMV4.jpg" alt="How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akira_papa_IT/status/2105253696653468038">How to Choose Between Decisions API and Jev? 8-Minute Comparison Video Released</a></h3>
+<p>A group of four discusses the differences between OpenAI Decisions API and Jev by watching official demos, in an 8-minute comparison video.</p>
+<p><strong>中文摘要：</strong>4人一同观看官方演示和说明，讨论OpenAI Decisions API与Jev的适用场景差异，并发布了约8分钟的对比视频。</p>
+<p><strong>あきらパパ【生成AI活用エンジニア&amp;３児のパパ】</strong> · @akira_papa_IT · 2026-09-30T11:09:29.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/akira_papa_IT/status/2105253696653468038">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/noma_door/status/2105244780385223068"><img src="https://pbs.twimg.com/media/HTdSzS0bgAAgxij?format=jpg&amp;name=medium" alt="Custom Node imajev for Running Jev Locally in ComfyUI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/noma_door/status/2105244780385223068">Custom Node imajev for Running Jev Locally in ComfyUI</a></h3>
+<p>The author implemented the imajev custom node in ComfyUI, which supports image input and runs Jev locally for tasks such as determining whether two images show the same person and automatically selecting resolution from prompts, highlighting its speed.</p>
+<p><strong>中文摘要：</strong>作者在ComfyUI中实现了支持图像输入的imajev自定义节点，可本地运行Jev，用于判断两张图像是否为同一人、根据提示自动选择分辨率等任务，并强调其速度优势。</p>
+<p><strong>ノマ扉 | nomadoor</strong> · @noma_door · 2026-09-30T10:34:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/noma_door/status/2105244780385223068">在 X 查看原帖</a> · <a href="https://t.co/92oBBJWMuS">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2105229163401756842"><img src="https://pbs.twimg.com/amplify_video_thumb/2105056869320450048/img/LW-EpkQutx8aT3aJ.jpg" alt="20 Open-Source Projects Built on Jev · 原帖视频截图" width="100%"></a>

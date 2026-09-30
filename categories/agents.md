@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 319 | 182 | 138 | 3.0M |
+| 325 | 185 | 141 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/blackshark537/status/2105306397965766959"><img src="https://pbs.twimg.com/media/HTeLXTcWAAAU0lb?format=jpg&amp;name=medium" alt="JEV: From Controlling Mario to Being an Industry Decision-Making Brain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/blackshark537/status/2105306397965766959">JEV: From Controlling Mario to Being an Industry Decision-Making Brain</a></h3>
+<p>The post argues that a model like JEV can control Super Mario and could also serve as a cognitive brain for real-time decisions across industry.</p>
+<p><strong>中文摘要：</strong>该帖认为，像 JEV 这样的模型既能控制《超级马里奥》，也能作为认知大脑在产业中实时决策。</p>
+<p><strong>berlin santos</strong> · @blackshark537 · 2026-09-30T14:38:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/blackshark537/status/2105306397965766959">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Mahaximus_/status/2105306249805848815"><img src="https://pbs.twimg.com/amplify_video_thumb/2105306014958440449/img/8_YLzIAonWvj0Xzk.jpg" alt="Jev Cuts Agent Decision Costs ~100x · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mahaximus_/status/2105306249805848815">Jev Cuts Agent Decision Costs ~100x</a></h3>
+<p>The post highlights that Jev makes each agent decision ~100x cheaper and enables endless loops to run at minimal cost, a benefit often overlooked by those sharing modest cost-saving screenshots.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 让智能体每次决策成本约降百倍，并让无退出的循环也能以极低成本持续运行，强调这一优势常被只晒少量降本截图的人忽视。</p>
+<p><strong>Mahax</strong> · @Mahaximus_ · 2026-09-30T14:38:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 125</p>
+<p><a href="https://x.com/Mahaximus_/status/2105306249805848815">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/richmondalake/status/2105301197708013973"><img src="https://pbs.twimg.com/media/HTeHkbBWwAAq3f6?format=jpg&amp;name=medium" alt="Jev mentioned in advanced agent harness class · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/richmondalake/status/2105301197708013973">Jev mentioned in advanced agent harness class</a></h3>
+<p>Richmond Alake says he is teaching an advanced class on agent harness to external developers and Oracle&#39;s internal AI teams, mentioning the introduction of Jev. The original post is truncated.</p>
+<p><strong>中文摘要：</strong>Richmond Alake 表示正在向外部开发者和 Oracle 内部 AI 团队教授 agent harness 高级课程，并提到引入 Jev。原文截断，具体内容不完整。</p>
+<p><strong>Richmond Alake</strong> · @richmondalake · 2026-09-30T14:18:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/richmondalake/status/2105301197708013973">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Yuvelir_22/status/2105298903960531194"><img src="https://pbs.twimg.com/amplify_video_thumb/2105298874508132352/img/nNkCJj1r6hbCdlVM.jpg" alt="Jev agent&#39;s decision paths · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Yuvelir_22/status/2105298903960531194">Jev agent&#39;s decision paths</a></h3>
+<p>How a Jev agent routes tasks: cheap worker for simple safe jobs, frontier model for hard problems, or wait for user when actions are irreversible.</p>
+<p><strong>中文摘要：</strong>探讨 Jev agent 在接到任务后如何分类处理：简单任务交给廉价 worker，困难任务调用前沿模型，不可逆操作等待用户确认。</p>
+<p><strong>Yuvelir</strong> · @Yuvelir_22 · 2026-09-30T14:09:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 37</p>
+<p><a href="https://x.com/Yuvelir_22/status/2105298903960531194">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aad34210/status/2105298233128030718"><img src="https://pbs.twimg.com/media/HTeFaFSbAAA7-LT?format=png&amp;name=small" alt="Creating Tools for Jev AI Agent with Custom Python Plugin · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aad34210/status/2105298233128030718">Creating Tools for Jev AI Agent with Custom Python Plugin</a></h3>
+<p>The author successfully created tools for Jev&#39;s AI Agent using a custom Python plugin and wonders if it will work properly.</p>
+<p><strong>中文摘要：</strong>作者用自定义Python插件成功为Jev的AI Agent创建了工具，并期待其正常运行。</p>
+<p><strong>Takashi Minoda</strong> · @aad34210 · 2026-09-30T14:06:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><a href="https://x.com/aad34210/status/2105298233128030718">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/raffyfatlly/status/2105297440454922550"><img src="https://pbs.twimg.com/amplify_video_thumb/2105297378815410177/img/ckm66aOiJTZ0r5_k.jpg" alt="Casper: A Jev-powered Browser Automation Side Project · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/raffyfatlly/status/2105297440454922550">Casper: A Jev-powered Browser Automation Side Project</a></h3>
+<p>Raffy Fatlly shares Casper, a small Chrome extension built on Jev by TypeSafe, an AI that makes quick decisions instead of chatting. Casper clicks, types, and scrolls in Chrome for you, controlled by text or voice, and is available free on the Chrome Web Store.</p>
+<p><strong>中文摘要：</strong>Raffy Fatlly分享了一个基于TypeSafe的Jev构建的小型Chrome扩展Casper。Jev是一个不闲聊、直接做快速决策的AI。Casper能在Chrome中替你点击、输入和滚动，支持打字或语音控制，并已免费上架Chrome网上应用店。</p>
+<p><strong>Raffy Fatlly</strong> · @raffyfatlly · 2026-09-30T14:03:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
+<p><a href="https://x.com/raffyfatlly/status/2105297440454922550">在 X 查看原帖</a> · <a href="https://t.co/k6oeTFrBui">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/raffyfatlly/status/2105292004716691710"><img src="https://pbs.twimg.com/amplify_video_thumb/2105288629405048833/img/Cj4XB2Yuv2SYL3BS.jpg" alt="Casper: A Chrome automation extension built on Jev · 原帖视频截图" width="100%"></a>

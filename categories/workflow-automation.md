@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 189 | 125 | 64 | 595K |
+| 193 | 129 | 64 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rvaniaaaa/status/2105308892234186957"><img src="https://pbs.twimg.com/amplify_video_thumb/2105308837381115904/img/0q7kwAt8V-dNf7wo.jpg" alt="Product team uses Jev to organize feedback and PR data · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rvaniaaaa/status/2105308892234186957">Product team uses Jev to organize feedback and PR data</a></h3>
+<p>A product team fed 1,100 signals into Jev to organize product feedback, GitHub PRs, and audience data. Jev ran over 200,000 classification and clustering operations, starting with a cheap first pass to sort the mess.</p>
+<p><strong>中文摘要：</strong>一个产品团队将 1,100 条信号输入 Jev，用于整理产品反馈、GitHub PR 和受众数据。Jev 执行了超过 20 万次分类和聚类操作，先从低成本初筛开始处理混乱信息。</p>
+<p><strong>rvaniaaa</strong> · @rvaniaaaa · 2026-09-30T14:48:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/rvaniaaaa/status/2105308892234186957">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Dain0x/status/2105306854993600738"><img src="https://pbs.twimg.com/amplify_video_thumb/2105290486265114624/img/xq5k1aGaWI0HBbpk.jpg" alt="Build a Business Around JEV for Repetitive Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Dain0x/status/2105306854993600738">Build a Business Around JEV for Repetitive Decisions</a></h3>
+<p>The post suggests JEV can handle repetitive decisions like lead qualification, support ticket routing, and document triage, and notes that 5 clients paying $200 per month would mean $1,000 in monthly revenue.</p>
+<p><strong>中文摘要：</strong>帖子提出JEV可以用于线索筛选、支持工单路由、文档分检等重复性决策场景，并举例5个客户每月支付200美元即可带来1000美元月收入，展示其商业潜力。</p>
+<p><strong>Dain</strong> · @Dain0x · 2026-09-30T14:40:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Dain0x/status/2105306854993600738">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Yanir_/status/2105299237860757797"><img src="https://pbs.twimg.com/amplify_video_thumb/2105297146664660993/img/BF05itF1bir3kppD.jpg" alt="Building a Generic Web Automation Tool with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Yanir_/status/2105299237860757797">Building a Generic Web Automation Tool with Jev</a></h3>
+<p>The post demonstrates using Jev to build a generic web automation tool, claiming it is faster and cheaper than LLM-based approaches and can handle any task, while noting Sonnet 5.5 is more efficient than Haiku 4.5 due to fewer tool calls.</p>
+<p><strong>中文摘要：</strong>该帖展示了使用Jev开发通用网页自动化工具的实践，认为其比直接使用LLM更快、成本更低，可适用于任意任务，并提到Sonnet 5.5因减少工具调用而比Haiku 4.5更高效。</p>
+<p><strong>Yanir Tsarimi</strong> · @Yanir_ · 2026-09-30T14:10:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 416</p>
+<p><a href="https://x.com/Yanir_/status/2105299237860757797">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NilsEdison/status/2105296747807297642"><img src="https://pbs.twimg.com/amplify_video_thumb/2105296646410022914/img/EVuYTo5HDeOY9bG8.jpg" alt="Exploring a Workflow to Filter Procedurally Generated Content with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NilsEdison/status/2105296747807297642">Exploring a Workflow to Filter Procedurally Generated Content with Jev</a></h3>
+<p>The author proposes a workflow: procedurally generate many combinations with randomness using a wavefunction algorithm, then filter them using TypeSafe AI&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>作者提出一种工作流：使用波函数算法程序化生成大量带随机变化的组合，再利用 TypeSafe AI 的 Jev 模型进行筛选过滤。</p>
+<p><strong>RM 🖤</strong> · @NilsEdison · 2026-09-30T14:00:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 134</p>
+<p><a href="https://x.com/NilsEdison/status/2105296747807297642">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/svpino/status/2105284180242559167"><img src="https://pbs.twimg.com/amplify_video_thumb/2105284026634522624/img/E-lC_vqL6-8uk_4J.jpg" alt="Upgrading Workflows with Jev · 原帖视频截图" width="100%"></a>

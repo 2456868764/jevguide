@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 212 | 114 | 100 | 1.2M |
+| 214 | 116 | 100 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jevbook/status/2105305432327913903"><img src="https://pbs.twimg.com/amplify_video_thumb/2105305243411947520/img/gHEeU6gRQiBQvkyI.jpg" alt="JEV Model Public Prediction Face-off · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jevbook/status/2105305432327913903">JEV Model Public Prediction Face-off</a></h3>
+<p>Jevbook presents JEV vs Polymarket: 12 calls frozen before resolution, scored with Brier score, all predictions public.</p>
+<p><strong>中文摘要：</strong>Jevbook发布JEV模型与Polymarket的比赛：12个预测在结果揭晓前冻结，采用Brier评分，所有预测公开。</p>
+<p><strong>Jevbook</strong> · @jevbook · 2026-09-30T14:35:04.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 89</p>
+<p><a href="https://x.com/jevbook/status/2105305432327913903">在 X 查看原帖</a> · <a href="https://t.co/eI4DsaVS8e">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jesusislord/status/2105296634951393774"><img src="https://pbs.twimg.com/amplify_video_thumb/2104613919054778368/img/nyaII7lcWkSZ6rfb.jpg" alt="Crypto KOL call tracking powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jesusislord/status/2105296634951393774">Crypto KOL call tracking powered by Jev</a></h3>
+<p>Using TypeSafe AI Jev, analyzes market calls from 100+ crypto KOLs. Enter any handle to see their track record. Powered by hellominds and TypeSafe AI Jev.</p>
+<p><strong>中文摘要：</strong>基于 TypeSafe AI Jev 模型，分析100多位加密KOL的历史行情判断，输入用户名即可查看其表现记录。由 hellominds 与 TypeSafe AI Jev 提供支持。</p>
+<p><strong>Jesus is Lord | Chev</strong> · @jesusislord · 2026-09-30T14:00:06.000Z</p>
+<p>💬 48 &nbsp; 🔁 63 &nbsp; ♡ 80 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/jesusislord/status/2105296634951393774">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/unicodeveloper/status/2105272510371557500"><img src="https://pbs.twimg.com/media/HTdtwMGXQAA8RP2?format=jpg&amp;name=medium" alt="A Stock Terminal That Decides in Under a Second with Jev · 原帖图片" width="100%"></a>

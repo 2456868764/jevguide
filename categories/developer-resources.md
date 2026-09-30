@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 263 | 102 | 161 | 419K |
+| 267 | 104 | 163 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/defaiscope/status/2105307932711592346"><img src="https://pbs.twimg.com/media/HTeAy2HWYAAlBGw?format=jpg&amp;name=medium" alt="AutoTrust Distills TypeSafe&#39;s Jev 1.13 into Open Model JEV-27B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/defaiscope/status/2105307932711592346">AutoTrust Distills TypeSafe&#39;s Jev 1.13 into Open Model JEV-27B</a></h3>
+<p>AutoTrust AI distilled TypeSafe&#39;s closed Jev 1.13 decision model into an open model in about 9.2 hours on a single B200. Only 108.9M parameters (0.4% of the model) were trained on top of frozen Qwen3.8-27B. AutoTrust&#39;s own measurements show JEV-27B averaging 84.07% across six.</p>
+<p><strong>中文摘要：</strong>AutoTrust AI 在单块 B200 上耗时约 9.2 小时，将 TypeSafe 闭源的 Jev 1.13 决策模型蒸馏为开放模型。仅微调 1.089 亿参数（占模型的 0.4%），基于冻结的 Qwen3.8-27B。AutoTrust 自测显示 JEV-27B 在六项上平均得分 84.07%。</p>
+<p><strong>DeFAI Scope</strong> · @defaiscope · 2026-09-30T14:45:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/defaiscope/status/2105307932711592346">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/realpython/status/2105301684645658761"><img src="https://pbs.twimg.com/media/HTeIs45WgAEo9a6?format=jpg&amp;name=medium" alt="Getting Started with Jev in Python · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/realpython/status/2105301684645658761">Getting Started with Jev in Python</a></h3>
+<p>Real Python published an introductory tutorial on using Jev in Python, read more at the link.</p>
+<p><strong>中文摘要：</strong>Real Python发布了关于在Python中使用Jev的入门教程，可点击链接阅读更多。</p>
+<p><strong>Real Python</strong> · @realpython · 2026-09-30T14:20:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 192</p>
+<p><a href="https://x.com/realpython/status/2105301684645658761">在 X 查看原帖</a> · <a href="https://t.co/idjH1kBGEI">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xKiyoro/status/2105295319571263607"><img src="https://pbs.twimg.com/amplify_video_thumb/2105295216890519552/img/xZcq7E569_KFBic6.jpg" alt="Jev Decision Layer: 3 Primitives for Open-Source Tools · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xKiyoro/status/2105295319571263607">Jev Decision Layer: 3 Primitives for Open-Source Tools</a></h3>
+<p>Jev provides three primitives—Choice, Score, Noul—as a single decision layer, letting code enforce rules while other tools do the work, and routes tasks across 20 open-source tools.</p>
+<p><strong>中文摘要：</strong>Jev提供Choice、Score、Noul三个原语，构成单一决策层，让代码执行规则、其他工具执行工作，并与20个开源工具组合路由任务。</p>
+<p><strong>Kiyoro</strong> · @0xKiyoro · 2026-09-30T13:54:53.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 388</p>
+<p><a href="https://x.com/0xKiyoro/status/2105295319571263607">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/XueshiQiao/status/2105290076842573982"><img src="https://pbs.twimg.com/media/HTd98mUaYAECseJ?format=jpg&amp;name=medium" alt="Jev is suited for on-device inference · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>Xueshi</strong> · @XueshiQiao · 2026-09-30T13:34:03.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/XueshiQiao/status/2105290076842573982">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/helicerat0x/status/2105289451681222907"><img src="https://pbs.twimg.com/amplify_video_thumb/2105282885208928256/img/qA7SEAqXqSwlELB3.jpg" alt="TypeSafe Releases Official Skill for Building Claude Code Agents on JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/helicerat0x/status/2105289451681222907">TypeSafe Releases Official Skill for Building Claude Code Agents on JEV</a></h3>
+<p>TypeSafe released an official skill that teaches Claude Code to build agents on JEV. The approach: Opus 5.5 handles planning, while JEV makes every yes/no call. The author notes the method is simple yet widely overlooked.</p>
+<p><strong>中文摘要：</strong>TypeSafe发布了官方技能，教Claude Code在JEV上构建代理。核心思路是让Opus 5.5负责规划，JEV处理所有是/否决策调用。作者认为这一方案简单却未被广泛使用。</p>
+<p><strong>helicerat</strong> · @helicerat0x · 2026-09-30T13:31:34.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 110</p>
+<p><a href="https://x.com/helicerat0x/status/2105289451681222907">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Smartpigai/status/2105285739454017728"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="Jev&#39;s Direction Validated by OpenAI Decisions API? · 原帖视频截图" width="100%"></a>

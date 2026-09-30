@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 319 | 153 | 169 | 1.1M |
+| 321 | 154 | 170 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_maxdshaw/status/2105301594178765110"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105301566303387649/pu/img/G0rrG_F7dDP2G-B0.jpg" alt="Windmill Pulse launches full engagement surveys with insights powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_maxdshaw/status/2105301594178765110">Windmill Pulse launches full engagement surveys with insights powered by Jev</a></h3>
+<p>Windmill Pulse announces its biggest upgrade yet: full engagement surveys with structured questions, four response modes, and new insights powered by Jev from TypeSafe AI, automating everything from weekly check-ins to annual engagement surveys.</p>
+<p><strong>中文摘要：</strong>Windmill Pulse 发布迄今最大升级：完整敬业度调查，支持结构化问题、四种填写方式，并利用 TypeSafe AI 的 Jev 生成新洞察，可自动化从每周签到到年度敬业度调查的流程。</p>
+<p><strong>Max Shaw</strong> · @_maxdshaw · 2026-09-30T14:19:49.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 104</p>
+<p><a href="https://x.com/_maxdshaw/status/2105301594178765110">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/phillipisbackk/status/2105291886940561783"><img src="https://pbs.twimg.com/media/HTd_y31awAE7hui?format=jpg&amp;name=medium" alt="Open-source JEV-27B nearly matches TypeSafe Jev · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/phillipisbackk/status/2105291886940561783">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/phillipisbackk/status/2105291769751720319"><img src="https://pbs.twimg.com/media/HTd_sXHa4AAMSHj?format=jpg&amp;name=medium" alt="AutoTrust releases JEV-27B with typed-decision outputs and calibrated probabilities · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/phillipisbackk/status/2105291769751720319">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cynthiazhang17/status/2105286483209003014"><img src="https://pbs.twimg.com/media/HTd60iNaUAARzlZ?format=jpg&amp;name=medium" alt="Jev: TypeSafe AI&#39;s decision model quickly adopted on Vercel AI Gateway · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/cynthiazhang17/status/2105286483209003014">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GeekyGadgets/status/2105286370101215475"><img src="https://pbs.twimg.com/media/HTd6y_HbgAAma2_?format=jpg&amp;name=medium" alt="Jev Drops LLM Token Usage in Agent Workflows to Save Costs · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/GeekyGadgets/status/2105286370101215475">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vericence/status/2105286085509062839"><img src="https://pbs.twimg.com/media/HTd6a2JXAAAp3vQ?format=jpg&amp;name=medium" alt="Jev and Laya: System One Models for Enterprise Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -68,6 +79,19 @@
 <p><strong>Vericence</strong> · @vericence · 2026-09-30T13:18:11.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/vericence/status/2105286085509062839">在 X 查看原帖</a> · <a href="https://t.co/EZB6cNRGlk">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Dalat_Ventures/status/2105286023156813874"><img src="https://pbs.twimg.com/media/HTd6eXsa8AAEL9X?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s JEV Is Now Live on B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Dalat_Ventures/status/2105286023156813874">TypeSafe AI&#39;s JEV Is Now Live on B.AI API</a></h3>
+<p>TypeSafe AI announces its first System One model, JEV, is now available on the B.AI API, noting the name may signal fast intuitive decision-making versus slower deliberate reasoning.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 宣布其首个 System One 模型 JEV 已正式上线 B.AI API，并指出命名可能暗示与慢速深思相对的快节奏直觉决策。</p>
+<p><strong>DALAT VENTURES</strong> · @Dalat_Ventures · 2026-09-30T13:17:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9.9K</p>
+<p><a href="https://x.com/Dalat_Ventures/status/2105286023156813874">在 X 查看原帖</a> · <a href="https://t.co/RbflwNx2Mo">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ErenAILab/status/2105284614579265921"><img src="https://pbs.twimg.com/amplify_video_thumb/2105282381233979393/img/56w5FwUmWpFpzZfb.jpg" alt="OpenAI DevDay Summary: Decisions API is Jev · 原帖视频截图" width="100%"></a>

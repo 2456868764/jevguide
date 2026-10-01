@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 747 | 310 | 441 | 3.0M |
+| 753 | 312 | 445 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/YahavFuchs/status/2105682085910368546"><img src="https://pbs.twimg.com/media/HTjiavVXQAEKCuM?format=jpg&amp;name=medium" alt="Using Jev to Build a Context-Aware Business Data Brain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YahavFuchs/status/2105682085910368546">Using Jev to Build a Context-Aware Business Data Brain</a></h3>
+<p>The user shares how they categorized every data point their business creates or consumes into a self-built organizational brain with Jev, enabling tasks to be read with context and leading to dramatic improvements.</p>
+<p><strong>中文摘要：</strong>用户分享通过Jev将业务产生的所有数据点分类到自建的组织大脑中，从而让任务读取时具备上下文，并取得显著改进。</p>
+<p><strong>Yahav Fuchs</strong> · @YahavFuchs · 2026-10-01T15:31:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/YahavFuchs/status/2105682085910368546">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HKrackDev/status/2105676520169881682"><img src="https://pbs.twimg.com/amplify_video_thumb/2105667299919237121/img/ziYrzAUlgEWMZJEf.jpg" alt="Jev Model Ushers in New AI Category · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HKrackDev/status/2105676520169881682">Jev Model Ushers in New AI Category</a></h3>
+<p>Hendrik Krack tweets praise for TypeSafe&#39;s Jev model, calling it a new category of AI that will change how we work, and shares insights from his chat with @allietheicon.</p>
+<p><strong>中文摘要：</strong>Hendrik Krack 在推特上称赞 TypeSafe 的 Jev 模型，称其开创了全新的 AI 类别，将改变工作方式，并分享了他与 @allietheicon 交流后获得的见解。</p>
+<p><strong>Hendrik Krack</strong> · @HKrackDev · 2026-10-01T15:09:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 79</p>
+<p><a href="https://x.com/HKrackDev/status/2105676520169881682">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/badguyty/status/2105675513612415159"><img src="https://pbs.twimg.com/media/HTjcrwHbUAAcAu2?format=jpg&amp;name=medium" alt="Using Jev to Analyze MTG Card Interactions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/badguyty/status/2105675513612415159">Using Jev to Analyze MTG Card Interactions</a></h3>
+<p>User shares experience using TypeSafe AI&#39;s Jev model to analyze MTG card interactions, mentioning 120M tokens used and considering moving to a local model.</p>
+<p><strong>中文摘要：</strong>用户分享使用 TypeSafe AI 的 Jev 模型分析万智牌卡牌交互的经历，提到消耗了120M tokens，并考虑转向本地模型。</p>
+<p><strong>BadGuyTy 🅁🅅🄽 (Tyler Hess)</strong> · @badguyty · 2026-10-01T15:05:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/badguyty/status/2105675513612415159">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/procoder/status/2105672616732500149"><img src="https://pbs.twimg.com/media/HTjaFZrbMAEhxWG?format=jpg&amp;name=medium" alt="Building a Gmail Email Classifier: One Jev Call per Email · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/procoder/status/2105672616732500149">Building a Gmail Email Classifier: One Jev Call per Email</a></h3>
+<p>After running a classifier on 200 emails and finding none needed a reply, the author built a Chrome extension that calls Jev once per email in Gmail to determine action, topic, urgency, and whether a human is needed, then applies Gmail labels without deleting anything.</p>
+<p><strong>中文摘要：</strong>作者用分类器检查200封邮件后发现均无需回复，于是开发了一个Chrome扩展，在Gmail中为每封邮件调用一次Jev以判断动作、主题、紧急度和是否需人工处理，并自动打上Gmail标签，不删除任何内容。</p>
+<p><strong>Mohammed Moyeen</strong> · @procoder · 2026-10-01T14:54:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><a href="https://x.com/procoder/status/2105672616732500149">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2105669763586240719"><img src="https://pbs.twimg.com/media/HTjXfYIWMAAEexQ?format=jpg&amp;name=medium" alt="Mine Ore with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2105669763586240719">Mine Ore with JEV</a></h3>
+<p>This tweet introduces JEV miners for mining Ore, powered by TypeSafe AI and Solana decision engine, with links provided.</p>
+<p><strong>中文摘要：</strong>该推文介绍了使用 JEV 矿工挖掘 Ore，服务由 TypeSafe AI 与 Solana 决策引擎驱动，并附有相关链接。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-10-01T14:42:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 6 &nbsp; 📊 322</p>
+<p><a href="https://x.com/0rdlibrary/status/2105669763586240719">在 X 查看原帖</a> · <a href="https://t.co/HdYzyvM3bd">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/yuki_wtz/status/2105641063407124606"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640606026608640/img/LJBo8xa_xmbGCsce.jpg" alt="Real-time Video Analysis with djev-run and Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 37</p>
 <p><a href="https://x.com/yuki_wtz/status/2105641063407124606">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oodleai/status/2105638101276307736"><img src="https://pbs.twimg.com/media/HTi57wcbIAAgO5V?format=jpg&amp;name=medium" alt="Oodle AI Tests Jev Against GPT-5.4-mini, Claude Haiku 4.5, and Gemini 3.5 Flash · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/oodleai/status/2105638101276307736">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/awesamarth_/status/2105635239725039645"><img src="https://pbs.twimg.com/amplify_video_thumb/2105630074448048130/img/YUOXSShejo4QfE57.jpg" alt="Jev scores founder&#39;s X profile 55/100 · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/awesamarth_/status/2105635239725039645">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xGky/status/2105633829394239694"><img src="https://pbs.twimg.com/media/HThyTu1aUAA5wKy?format=jpg&amp;name=medium" alt="Jev Chat Assistant: Reads Screen Conversations to Help You Read Between the Lines · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 185</p>
 <p><a href="https://x.com/0xGky/status/2105633829394239694">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xAIlabs/status/2105633417702346754"><img src="https://pbs.twimg.com/amplify_video_thumb/2105633312668594176/img/Y6jKOjGqBQLo3xTe.jpg" alt="Jev vs GPT-6 Luna: Higher Score Isn&#39;t the Part That Makes an Agent Safe · 原帖视频截图" width="100%"></a>
 <br>
@@ -68,6 +127,19 @@
 <p><strong>Lyren_o</strong> · @0xAIlabs · 2026-10-01T12:18:22.000Z</p>
 <p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 172</p>
 <p><a href="https://x.com/0xAIlabs/status/2105633417702346754">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mutoene/status/2105632766276894880"><img src="https://pbs.twimg.com/tweet_video_thumb/HTi1ayJbAAAsif4.jpg" alt="Building an NG Word Blocker with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mutoene/status/2105632766276894880">Building an NG Word Blocker with Jev</a></h3>
+<p>Tired of normal sentences being wrongly censored in games, the author built a context-aware NG word blocker using Jev. No list maintenance needed, fast and cheap, with a demo page.</p>
+<p><strong>中文摘要：</strong>针对游戏等场景中普通语句被莫名屏蔽的问题，作者用Jev实现了基于语境判断的NG词屏蔽器。无需维护列表，速度快、成本低，并提供了在线演示页面。</p>
+<p><strong>むと＠Liminaltiy</strong> · @mutoene · 2026-10-01T12:15:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 184</p>
+<p><a href="https://x.com/mutoene/status/2105632766276894880">在 X 查看原帖</a> · <a href="https://t.co/PNyKM4Nlh2">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NilsEdison/status/2105619410895372503"><img src="https://pbs.twimg.com/amplify_video_thumb/2105618687352803328/img/dynUCwIEWVNKP3qC.jpg" alt="Exploring Two-Tier Judging with Jev and Claude · 原帖视频截图" width="100%"></a>

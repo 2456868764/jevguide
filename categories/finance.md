@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 225 | 124 | 103 | 1.2M |
+| 229 | 126 | 105 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/andreysuperior/status/2105682239589597365"><img src="https://pbs.twimg.com/amplify_video_thumb/2105676441371222016/img/u_AN8gVDw6kDCNHD.jpg" alt="Jev outperforms chat LLMs in trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/andreysuperior/status/2105682239589597365">Jev outperforms chat LLMs in trading</a></h3>
+<p>The author notes that Jev trades circles around any chat LLM, running side by side on the same MON-USDC order book, and warns that trading bots still relying on chat models will become someone else&#39;s exit liquidity.</p>
+<p><strong>中文摘要：</strong>作者指出Jev在交易中远超任何聊天LLM，并在同一MON-USDC订单簿上并排运行，认为仍在使用聊天模型的交易机器人将成为他人的退出流动性。</p>
+<p><strong>Superior</strong> · @andreysuperior · 2026-10-01T15:32:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 189</p>
+<p><a href="https://x.com/andreysuperior/status/2105682239589597365">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xMoysei/status/2105673649818595554"><img src="https://pbs.twimg.com/amplify_video_thumb/2105673217872412672/img/qQk7xvjPxvmVpGdw.jpg" alt="JEV Agent Survives 26 Market Shocks in a Week · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xMoysei/status/2105673649818595554">JEV Agent Survives 26 Market Shocks in a Week</a></h3>
+<p>The post shares how a JEV trading agent handled 26 market shocks in 7 days: 9 trading halts, max slippage of 6.2 pips, stop threshold of 4, with CPI and Fed events hitting hardest.</p>
+<p><strong>中文摘要：</strong>该帖分享了一个JEV交易代理在7天内应对26次市场冲击的表现：9次触发交易暂停，最大滑点6.2点，止损阈值4点，CPI与美联储事件冲击最大。</p>
+<p><strong>Moysei</strong> · @0xMoysei · 2026-10-01T14:58:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 142</p>
+<p><a href="https://x.com/0xMoysei/status/2105673649818595554">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/edithgalpin/status/2105667750714630495"><img src="https://pbs.twimg.com/media/HTjVnYzWQAEgo6f?format=jpg&amp;name=medium" alt="Plug CoinGecko Data into Jev for Real-Time Crypto Verdicts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/edithgalpin/status/2105667750714630495">Plug CoinGecko Data into Jev for Real-Time Crypto Verdicts</a></h3>
+<p>The author shares an open-source on-chain desk tool released by CoinGecko that turns raw market data into typed verdicts in real time, and plugged CoinGecko&#39;s API into Jev, getting 6 live crypto results.</p>
+<p><strong>中文摘要：</strong>作者分享了一个由CoinGecko发布的开源链上桌面工具，可将原始市场数据实时转换为类型化判定，并将CoinGecko API接入Jev，获得了6个实时加密货币结果。</p>
+<p><strong>Laeffy</strong> · @edithgalpin · 2026-10-01T14:34:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 323</p>
+<p><a href="https://x.com/edithgalpin/status/2105667750714630495">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RitOnchain/status/2105637357051609374"><img src="https://pbs.twimg.com/media/HTi43AjbQAAEjLp?format=jpg&amp;name=medium" alt="Quant Trader Uses Jev for Regime Detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RitOnchain/status/2105637357051609374">Quant Trader Uses Jev for Regime Detection</a></h3>
+<p>A solo quant shares how they built a &#39;toxic-flow-aware market maker&#39; using Opus 5.5 and Jev for regime detection and retraining, with deterministic code handling risk limits and execution, noting the stack saved about a year of research time.</p>
+<p><strong>中文摘要：</strong>一位独立量化交易员分享其构建的“毒性流动性感知做市商”策略，使用Opus 5.5和Jev模型处理市场制度检测与重训练，确定性代码负责风险控制和执行，称该技术栈大幅缩短了研究时间。</p>
+<p><strong>venus</strong> · @RitOnchain · 2026-10-01T12:34:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 153</p>
+<p><a href="https://x.com/RitOnchain/status/2105637357051609374">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xPascual/status/2105619133664579653"><img src="https://pbs.twimg.com/amplify_video_thumb/2105619112168755200/img/rdI8-3R35WS36Z52.jpg" alt="Dev Builds News-Trading Agent on Jev Running on a Laptop · 原帖视频截图" width="100%"></a>

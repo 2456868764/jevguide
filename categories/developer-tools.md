@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 460 | 237 | 225 | 3.6M |
+| 464 | 238 | 228 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/guilleflorvs/status/2105681040442286418"><img src="https://pbs.twimg.com/media/HTjhv2uXcAAxk6m?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev vs OpenAI&#39;s Decisions API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/guilleflorvs/status/2105681040442286418">TypeSafe AI&#39;s Jev vs OpenAI&#39;s Decisions API</a></h3>
+<p>The post notes that TypeSafe AI shipped Jev, a fast, cheap LLM-based classifier that gives developers structured choices at high speed, and claims OpenAI&#39;s new Decisions API does the same.</p>
+<p><strong>中文摘要：</strong>帖子指出 TypeSafe AI 本月推出的 Jev 是快速、廉价的基于 LLM 的分类器，为开发者提供高速结构化选择，而 OpenAI 在 Dev Day 上发布了类似功能的 Decisions API。</p>
+<p><strong>Guillermo Flor</strong> · @guilleflorvs · 2026-10-01T15:27:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 77</p>
+<p><a href="https://x.com/guilleflorvs/status/2105681040442286418">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xbnd/status/2105673782203470184"><img src="https://pbs.twimg.com/media/HTjbJHWXYAAHHEy?format=png&amp;name=large" alt="OpenAI Scala Client v1.4.0 Released with Jev as Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xbnd/status/2105673782203470184">OpenAI Scala Client v1.4.0 Released with Jev as Decision Model</a></h3>
+<p>This release adds OpenAI Agents API as a chat completion, human approval mid-stream, and liquidai d1 as a second decision model alongside Jev. More details on the GitHub release page.</p>
+<p><strong>中文摘要：</strong>该版本新增 OpenAI Agents API 作为聊天补全、流中人工审批，并将 liquidai d1 作为继 Jev 之后的第二个决策模型。更多信息见 GitHub 发布页。</p>
+<p><strong>Peter Banda</strong> · @0xbnd · 2026-10-01T14:58:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><a href="https://x.com/0xbnd/status/2105673782203470184">在 X 查看原帖</a> · <a href="https://t.co/Iyfm6NIRZj">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Arindam_1729/status/2105670831313686691"><img src="https://pbs.twimg.com/amplify_video_thumb/2105670808983265280/img/xLIf1TGsMzVTiDEQ.jpg" alt="Building a Faster Natural-Language Codebase Search with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Arindam_1729/status/2105670831313686691">Building a Faster Natural-Language Codebase Search with Jev</a></h3>
+<p>The author discovered a cool Jev use case: built `fr`, a much faster way to search codebases in natural language. No LLMs, no embeddings, just Jev figuring out which files matter.</p>
+<p><strong>中文摘要：</strong>作者发现 Jev 的一个有趣用例：构建了 `fr`，一种用自然语言搜索代码库的更快方式。无需 LLM 和嵌入，仅靠 Jev 识别相关文件。</p>
+<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729 · 2026-10-01T14:47:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 219</p>
+<p><a href="https://x.com/Arindam_1729/status/2105670831313686691">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2105666986915074405"><img src="https://pbs.twimg.com/media/HTjS9FUXQAAN48z?format=png&amp;name=900x900" alt="JevBench v1.5.4 Update: Capability Score Replaces Composite, Original Jev Back on Top · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2105666986915074405">JevBench v1.5.4 Update: Capability Score Replaces Composite, Original Jev Back on Top</a></h3>
+<p>JevBench v1.5.4 is out, changing the headline metric from Composite Score to Capability Score, putting Original Jev back at the top of the leaderboard, followed by Winnow, Cygnet, and Surogate Rune.</p>
+<p><strong>中文摘要：</strong>JevBench v1.5.4 发布，头条指标从 Composite Score 改为 Capability Score，使得 Original Jev 登上排行榜首位，紧跟其后的是 Winnow、Cygnet 和 Surogate Rune。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-10-01T14:31:45.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 22 &nbsp; 📊 889</p>
+<p><a href="https://x.com/airesearch12/status/2105666986915074405">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EthanCastr/status/2105630809810211160"><img src="https://pbs.twimg.com/media/HTi0D7FXsAANALh?format=jpg&amp;name=medium" alt="Try Free Open Source Models: Jev Cloud/Local Routing · 原帖图片" width="100%"></a>

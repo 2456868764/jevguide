@@ -1,7 +1,8 @@
 # 8Bit🦞
 
-1 Jev showcases.
+2 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T14:42:47.000Z | [Mine Ore with JEV](https://x.com/0rdlibrary/status/2105669763586240719) | 社区实践 | 8Bit🦞 | 322 |
 | 2026-09-25 | [Dev ports Jev into Clawd inside @muse](https://x.com/0rdlibrary/status/2103285668093030574) | 接入动态 | 8Bit🦞 | 208 |

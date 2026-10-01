@@ -1,7 +1,7 @@
-# Ethan
+# ethan
 
 1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-10-01T12:08:00.000Z | [Try Free Open Source Models: Jev Cloud/Local Routing](https://x.com/EthanCastr/status/2105630809810211160) | 开发者工具 | Ethan | 16 |
+| 2026-09-24 | [2nd Place in Jev Workshop Demo](https://x.com/buzzb0x/status/2103272443444154845) | 社区实践 | ethan | 11 |

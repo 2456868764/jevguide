@@ -1,9 +1,10 @@
 # Julian Goldie SEO
 
-19 Jev showcases.
+20 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T15:10:00.000Z | [Ranking for Keywords Ahead of the Curve with Jev AI Launch](https://x.com/JulianGoldieSEO/status/2105676613580898788) | 营销 | Julian Goldie SEO | 1.3K |
 | 2026-09-30T15:01:04.000Z | [Developer says Jev cuts workflow time by ~80%](https://x.com/JulianGoldieSEO/status/2105311976113295728) | 自动化工作流 | Julian Goldie SEO | 1.4K |
 | 2026-09-30T14:58:45.000Z | [Jev AI: An AI That Makes Choices](https://x.com/JulianGoldieSEO/status/2105311391343337881) | 开发者工具 | Julian Goldie SEO | 1.2K |
 | 2026-09-30T13:08:17.000Z | [Ranking on Google Page 1 Within 24 Hours of Jev Launch](https://x.com/JulianGoldieSEO/status/2105283591186030792) | 营销 | Julian Goldie SEO | 858 |

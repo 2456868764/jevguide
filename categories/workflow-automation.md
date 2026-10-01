@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 198 | 133 | 65 | 595K |
+| 200 | 134 | 66 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KaiWaehner/status/2105684438038557134"><img src="https://pbs.twimg.com/media/HTjkwwYawAAQFof?format=png&amp;name=medium" alt="Jev-Powered Confidence Gates for Workflow Orchestration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KaiWaehner/status/2105684438038557134">Jev-Powered Confidence Gates for Workflow Orchestration</a></h3>
+<p>Kai Wähner explains how TypeSafe AI&#39;s Jev turns calibrated probabilities into confidence gates: high confidence proceeds, medium goes to an LLM, low goes to a human, and every decision is logged for process mining.</p>
+<p><strong>中文摘要：</strong>Kai Wähner 介绍 TypeSafe AI 的 Jev 如何将校准概率转化为置信度门：高置信度直接通过，中等转给 LLM，低置信度转给人处理，所有决策记录在日志中供流程挖掘使用。</p>
+<p><strong>Kai Wähner</strong> · @KaiWaehner · 2026-10-01T15:41:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/KaiWaehner/status/2105684438038557134">在 X 查看原帖</a> · <a href="https://t.co/Wx3Xe68WMc">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kv1nsiii/status/2105683327566942329"><img src="https://pbs.twimg.com/amplify_video_thumb/2105683174806126592/img/fvs73fdia4ummx7j.jpg" alt="Jev-Powered Alert Filtering Workflow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kv1nsiii/status/2105683327566942329">Jev-Powered Alert Filtering Workflow</a></h3>
+<p>In high-volume alert environments, every alert is first screened by Jev for authenticity, and the writer model only runs when a brief is needed — avoiding heavyweight model calls on every ping.</p>
+<p><strong>中文摘要：</strong>在大型告警环境中，每条告警先经 Jev 判断是否真实，仅在需要时触发 writer 模型生成简报，避免对每个 ping 都运行重度模型。</p>
+<p><strong>kvinsi</strong> · @kv1nsiii · 2026-10-01T15:36:41.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
+<p><a href="https://x.com/kv1nsiii/status/2105683327566942329">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gippp69/status/2105629068330709120"><img src="https://pbs.twimg.com/amplify_video_thumb/2105629013372764160/img/ftr2uPQHUPGb_Cu1.jpg" alt="Jev Cost Optimization: Route Before Calling the Model · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 343 | 167 | 179 | 1.1M |
+| 347 | 170 | 180 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Gorden_Sun/status/2105680223547310284"><img src="https://pbs.twimg.com/amplify_video_thumb/2105680172255227904/img/9PwP3lVGSgKUh5PL.jpg" alt="JEV-27B-VL: Open-Source Multimodal Version of Jev Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Gorden_Sun/status/2105680223547310284">JEV-27B-VL: Open-Source Multimodal Version of Jev Model</a></h3>
+<p>JEV-27B-VL is the open-source multimodal version of the Jev model, supporting two thinking modes akin to human cognition.</p>
+<p><strong>中文摘要：</strong>JEV-27B-VL 是 Jev 模型的开源多模态版本，支持像人类一样的两种思考模式。</p>
+<p><strong>Gorden Sun</strong> · @Gorden_Sun · 2026-10-01T15:24:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 336</p>
+<p><a href="https://x.com/Gorden_Sun/status/2105680223547310284">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2105677420024205312"><img src="https://pbs.twimg.com/amplify_video_thumb/2105667299919237121/img/ziYrzAUlgEWMZJEf.jpg" alt="Jev Developer Discusses &#39;Primitives&#39; and Launch · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2105677420024205312">Jev Developer Discusses &#39;Primitives&#39; and Launch</a></h3>
+<p>Allie the Icon shares her discussion with @coderabbitai about why Jev questions are called &#39;primitives&#39;, how this unlocks a new category of software, and her love of building Jev along with its launch.</p>
+<p><strong>中文摘要：</strong>Allie the Icon在分享她与@coderabbitai的讨论，谈及为何将Jev问题称为“原语”，以及这一理念如何开启全新软件类别，并介绍其发布与对构建Jev的热情。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-10-01T15:13:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 158</p>
+<p><a href="https://x.com/allietheicon/status/2105677420024205312">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/celesteanglm/status/2105667469381861430"><img src="https://pbs.twimg.com/media/HTjSn6dawAA3B7y?format=jpg&amp;name=medium" alt="OpenAI DevDay unveils Decisions API, joining TypeSafe Jev and others in small decision model trend · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/celesteanglm/status/2105667469381861430">OpenAI DevDay unveils Decisions API, joining TypeSafe Jev and others in small decision model trend</a></h3>
+<p>The post highlights OpenAI&#39;s Decisions API announcement at DevDay, noting the release of Levanto Labs&#39; Sage and TypeSafe AI&#39;s Jev as part of a growing trend in small decision models.</p>
+<p><strong>中文摘要：</strong>帖子讨论 OpenAI DevDay 上发布的 Decisions API，并指出 Levanto Labs 的 Sage、TypeSafe AI 的 Jev 以及 OpenAI 的小型决策模型形成了新趋势。</p>
+<p><strong>Celeste Ang</strong> · @celesteanglm · 2026-10-01T14:33:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 425</p>
+<p><a href="https://x.com/celesteanglm/status/2105667469381861430">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yurshevv/status/2105639807753826789"><img src="https://pbs.twimg.com/amplify_video_thumb/2105639145154514944/img/JL7lvanPsUQ-8SmI.jpg" alt="Jev Model: Reads 37 Documents in 0.7 Seconds for a Fraction of a Cent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yurshevv/status/2105639807753826789">Jev Model: Reads 37 Documents in 0.7 Seconds for a Fraction of a Cent</a></h3>
+<p>TypeSafe AI&#39;s Jev model is showcased as reading documents and answering questions at ultra-low cost and high speed, but it missed one error in the test.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI的Jev模型被展示为能以极低成本和极快速度读取文档并回答问题，但测试中漏掉了一个错误。</p>
+<p><strong>yurshev</strong> · @yurshevv · 2026-10-01T12:43:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 59</p>
+<p><a href="https://x.com/yurshevv/status/2105639807753826789">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Cloudways/status/2105626388074049810"><img src="https://pbs.twimg.com/media/HTiwBksWwAAqAbJ.jpg" alt="Jev AI: Millisecond Responses, Up to 10x Faster · 原帖视频截图" width="100%"></a>

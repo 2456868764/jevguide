@@ -1,23 +1,23 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 733
-- [How it works](../categories/how-it-works.md) — 465
-- [Developer tools](../categories/developer-tools.md) — 454
+- [Community builds](../categories/community-builds.md) — 739
+- [How it works](../categories/how-it-works.md) — 466
+- [Developer tools](../categories/developer-tools.md) — 457
 - [Access updates](../categories/access-updates.md) — 362
-- [Agents](../categories/agents.md) — 341
-- [Launch news](../categories/launch-news.md) — 335
+- [Agents](../categories/agents.md) — 342
+- [Launch news](../categories/launch-news.md) — 338
 - [Gaming](../categories/gaming.md) — 328
-- [Developer resources](../categories/developer-resources.md) — 279
-- [Finance](../categories/finance.md) — 222
-- [Workflow automation](../categories/workflow-automation.md) — 196
-- [Marketing](../categories/marketing.md) — 127
-- [Content creation](../categories/content-creation.md) — 105
-- [Knowledge & search](../categories/knowledge-search.md) — 98
-- [Data analytics](../categories/data-analytics.md) — 96
+- [Developer resources](../categories/developer-resources.md) — 283
+- [Finance](../categories/finance.md) — 224
+- [Workflow automation](../categories/workflow-automation.md) — 197
+- [Marketing](../categories/marketing.md) — 128
+- [Content creation](../categories/content-creation.md) — 106
+- [Knowledge & search](../categories/knowledge-search.md) — 99
+- [Data analytics](../categories/data-analytics.md) — 97
 - [Scientific research](../categories/scientific-research.md) — 66
-- [Cybersecurity](../categories/cybersecurity.md) — 51
+- [Cybersecurity](../categories/cybersecurity.md) — 52
 - [Customer support](../categories/customer-support.md) — 48
-- [Robotics](../categories/robotics.md) — 41
+- [Robotics](../categories/robotics.md) — 40
 - [Productivity](../categories/productivity.md) — 34
 - [Software development](../categories/software-development.md) — 27
 - [Business operations](../categories/business-operations.md) — 26

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 279 | 109 | 170 | 419K |
+| 283 | 111 | 172 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/me_barnyx/status/2105604471908692189"><img src="https://pbs.twimg.com/amplify_video_thumb/2105603948476276736/img/-Aip7QtfJOyPIr80.jpg" alt="TypeSafe engineer shares 10 GitHub repos that make Jev your second brain · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/me_barnyx/status/2105604471908692189">TypeSafe engineer shares 10 GitHub repos that make Jev your second brain</a></h3>
+<p>A TypeSafe (Jev parent company) engineer shared 10 GitHub repos that make Jev your second brain. Highlights include openhuman, an agent harness where Jev picks the right tool out of 1,200+, and yao, which manages all your agents and tasks.</p>
+<p><strong>中文摘要：</strong>一位 TypeSafe（Jev 母公司）工程师分享了 10 个 GitHub 仓库，让 Jev 成为你的第二大脑。其中包括 openhuman（一个代理框架，Jev 可从 1200+ 工具中选择合适的）和 yao（管理所有代理和任务）。</p>
+<p><strong>barnyx</strong> · @me_barnyx · 2026-10-01T10:23:20.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 146</p>
+<p><a href="https://x.com/me_barnyx/status/2105604471908692189">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rolex_devv/status/2105599924817518651"><img src="https://pbs.twimg.com/media/HTiX95ZWcAA8eIr?format=jpg&amp;name=medium" alt="Deep Dive into TypeSafe AI&#39;s Jev: Origins, Examples, and Use Cases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rolex_devv/status/2105599924817518651">Deep Dive into TypeSafe AI&#39;s Jev: Origins, Examples, and Use Cases</a></h3>
+<p>The author explains how Jev differs from traditional LLMs like Opus, with code examples and practical use cases.</p>
+<p><strong>中文摘要：</strong>作者解析 Jev 与传统 LLM（如 Opus）的区别，涵盖代码示例和实际应用场景。</p>
+<p><strong>rolex.dev</strong> · @rolex_devv · 2026-10-01T10:05:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/rolex_devv/status/2105599924817518651">在 X 查看原帖</a> · <a href="https://t.co/OeYGLQ3rwg">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xrux/status/2105592002263805958"><img src="https://pbs.twimg.com/amplify_video_thumb/2104444739038724096/img/ctD13F5-ycuV6I7r.jpg" alt="Open-sourced Jev agent skills: a function-call model making decisions in 70-500ms · 原帖视频截图" width="100%"></a>
@@ -31,6 +55,30 @@
 <p><strong>田中義弘 | taziku CEO / AI × Creative</strong> · @taziku_co · 2026-10-01T09:25:18.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 428</p>
 <p><a href="https://x.com/taziku_co/status/2105589866604171364">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/whyweru/status/2105570362964709619"><img src="https://pbs.twimg.com/amplify_video_thumb/2105569813888106496/img/cYninS258EWMttvX.jpg" alt="Free Blueprint of the Jev Magic 8 Ball Codebase · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/whyweru/status/2105570362964709619">Free Blueprint of the Jev Magic 8 Ball Codebase</a></h3>
+<p>In response to many requests, the author has released a free blueprint of the Jev magic 8 ball codebase, helping developers understand how it works.</p>
+<p><strong>中文摘要：</strong>作者应众多请求，免费发布了Jev魔术8球应用的代码库蓝图，帮助开发者理解其工作原理。</p>
+<p><strong>Felix Waweru</strong> · @whyweru · 2026-10-01T08:07:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 392</p>
+<p><a href="https://x.com/whyweru/status/2105570362964709619">在 X 查看原帖</a> · <a href="https://t.co/MtGVDkQKlZ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DanKornas/status/2105568136766374245"><img src="https://pbs.twimg.com/media/HTh7DsIWwAAsQO-?format=jpg&amp;name=medium" alt="Awesome Jev Live: A Resource Index for Jev System One · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DanKornas/status/2105568136766374245">Awesome Jev Live: A Resource Index for Jev System One</a></h3>
+<p>An evidence-graded GitHub index of SDKs, MCP tools, agents, apps, open models, and related resources around TypeSafe AI&#39;s Jev System One model, helping you find a starting point faster.</p>
+<p><strong>中文摘要：</strong>一个证据分级的GitHub索引，汇集了围绕TypeSafe AI的Jev System One模型的SDK、MCP工具、智能体、应用、开放模型等相关资源，帮助您更快找到起点。</p>
+<p><strong>Dan Kornas</strong> · @DanKornas · 2026-10-01T07:58:58.000Z</p>
+<p>💬 2 &nbsp; 🔁 7 &nbsp; ♡ 16 &nbsp; 📊 887</p>
+<p><a href="https://x.com/DanKornas/status/2105568136766374245">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

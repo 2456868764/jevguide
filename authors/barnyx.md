@@ -1,9 +1,10 @@
 # barnyx
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T10:23:20.000Z | [TypeSafe engineer shares 10 GitHub repos that make Jev your second brain](https://x.com/me_barnyx/status/2105604471908692189) | 开发资源 | barnyx | 146 |
 | 2026-09-30T10:22:41.000Z | [JEV end-to-end data science problem solving report](https://x.com/me_barnyx/status/2105241919810875428) | 数据分析 | barnyx | 302 |
 | 2026-09-29 | [JEV + OPUS Builds a Quant Options Desk](https://x.com/me_barnyx/status/2104895934299537642) | 金融 | barnyx | 6 |
 | 2026-09-28 | [JEV + OPUS 5.5: The Same Agent at One-Tenth the Cost](https://x.com/me_barnyx/status/2104513216491430318) | 智能体 | barnyx | 191 |

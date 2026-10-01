@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 733 | 301 | 436 | 3.0M |
+| 739 | 304 | 439 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PentaclesOrg/status/2105612014395830684"><img src="https://pbs.twimg.com/amplify_video_thumb/2105610069933228032/img/Ni0fHnHtNwudddVx.jpg" alt="Building an AI Shopkeeper&#39;s Sake Recommendation with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PentaclesOrg/status/2105612014395830684">Building an AI Shopkeeper&#39;s Sake Recommendation with Jev</a></h3>
+<p>Pentacles experimentally added a sake recommendation feature using Jev in a virtual liquor store, where an AI shopkeeper suggests drinks based on customer preferences and budget.</p>
+<p><strong>中文摘要：</strong>Pentacles在虚拟酒屋中实验性地使用Jev添加了酒类推荐功能，AI店长会根据顾客喜好和预算推荐合适的酒品。</p>
+<p><strong>Pentacles（ペンタクルス）🐧✨</strong> · @PentaclesOrg · 2026-10-01T10:53:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/PentaclesOrg/status/2105612014395830684">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tibor_tee/status/2105609258423439470"><img src="https://pbs.twimg.com/media/HTigbYPW0AAaWHU?format=jpg&amp;name=medium" alt="Friday evenings with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tibor_tee/status/2105609258423439470">Friday evenings with Jev</a></h3>
+<p>The author shares a personal experience of using Jev, the TypeSafe AI model, on Friday evenings.</p>
+<p><strong>中文摘要：</strong>作者分享了在周五晚上使用 TypeSafe AI 的 Jev 模型的个人体验。</p>
+<p><strong>Tibor (Tee)</strong> · @tibor_tee · 2026-10-01T10:42:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 118</p>
+<p><a href="https://x.com/tibor_tee/status/2105609258423439470">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/UIasOntology/status/2105604965159039447"><img src="https://pbs.twimg.com/amplify_video_thumb/2105601918819282944/img/xw3yGhU3imrm5Mxe.jpg" alt="Jev for Non-Engineers #1: DIY Document Viewer · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/UIasOntology/status/2105604965159039447">Jev for Non-Engineers #1: DIY Document Viewer</a></h3>
+<p>A non-engineer shares using Jev for OCR text interpretation and fuzzy search to digitize Kindle and PDF data for finding citations when writing articles. OCR itself uses Mac&#39;s built-in features.</p>
+<p><strong>中文摘要：</strong>非工程师分享使用Jev进行OCR文字解释和模糊搜索，将Kindle和PDF数据文字化，以便在撰写文章时检索引用来源。OCR本体使用Mac标准功能。</p>
+<p><strong>K</strong> · @UIasOntology · 2026-10-01T10:25:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/UIasOntology/status/2105604965159039447">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/divyanshudhruv/status/2105601615931859067"><img src="https://pbs.twimg.com/media/HTiZgWXaQAAEPU3?format=png&amp;name=medium" alt="Developer builds 184M-param OEV model, beats Jev and Laya · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/divyanshudhruv/status/2105601615931859067">Developer builds 184M-param OEV model, beats Jev and Laya</a></h3>
+<p>After Jev and Laya, the author built OEV with only 184M parameters — 43× smaller than Jev — yet it beats both on Typed-Decisions and DAIR-EM benchmarks.</p>
+<p><strong>中文摘要：</strong>作者在Jev和Laya之后构建了仅184M参数的OEV模型，比Jev小43倍，但在Typed-Decisions和DAIR-EM两项基准上均超越了它们，展示了小模型的潜力。</p>
+<p><strong>div</strong> · @divyanshudhruv · 2026-10-01T10:12:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/divyanshudhruv/status/2105601615931859067">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rewind02/status/2105598446937776348"><img src="https://pbs.twimg.com/media/HTiWjH3WAAAQc2z?format=png&amp;name=medium" alt="The Cheapest Second Brain Stack: GPT Sol 6.1 + Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rewind02/status/2105598446937776348">The Cheapest Second Brain Stack: GPT Sol 6.1 + Jev</a></h3>
+<p>The author shares the cheapest second brain setup right now: using GPT Sol 6.1 and Jev. The key trick is separating writing from deciding, with a folder structure (raw/ for sources, wiki/ for pages, and CLAUDE.md or AGENTS.md as the rulebook).</p>
+<p><strong>中文摘要：</strong>作者分享当前最便宜的“第二大脑”搭建方案：使用 GPT Sol 6.1 和 Jev，核心技巧是将“书写”与“决策”分离，并介绍了文件夹结构（raw/ 存原始资料、wiki/ 存页面、用 CLAUDE.md 或 AGENTS.md 作为规则书）。</p>
+<p><strong>rewind</strong> · @rewind02 · 2026-10-01T09:59:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 359</p>
+<p><a href="https://x.com/rewind02/status/2105598446937776348">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/juliechoi/status/2105595351881359496"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev gains community traction, regularly trending on Hacker News · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/juliechoi/status/2105595351881359496">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/therceman/status/2105590410102132974"><img src="https://pbs.twimg.com/media/HTiPUIsWcAADt1u?format=jpg&amp;name=medium" alt="Jev Still Leads in Fast Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 236</p>
 <p><a href="https://x.com/therceman/status/2105590410102132974">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jian_jye/status/2105589427095658785"><img src="https://pbs.twimg.com/media/HTiN-akawAAWr5W?format=jpg&amp;name=medium" alt="Jev used for traffic update account · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/jian_jye/status/2105589427095658785">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/boyang_xie/status/2105579700785738012"><img src="https://pbs.twimg.com/amplify_video_thumb/2105257321912057857/img/BYOKPXfseNrT_Fog.jpg" alt="Comment on Jev&#39;s Multilingual Performance · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 115</p>
 <p><a href="https://x.com/boyang_xie/status/2105579700785738012">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MongkolchaiTue/status/2105576731767865375"><img src="https://pbs.twimg.com/media/HTiCvwabEAAW1_s?format=jpg&amp;name=medium" alt="Fix Prompt Format to Follow Jev Guidelines · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/MongkolchaiTue/status/2105576731767865375">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anmol_053/status/2105573485670203401"><img src="https://pbs.twimg.com/media/HTh_xHJboAAgppR?format=jpg&amp;name=medium" alt="User adds Jev for classification · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/anmol_053/status/2105573485670203401">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/muthulakshman/status/2105573293508248011"><img src="https://pbs.twimg.com/media/HTh-_ssa0AAf0vh?format=jpg&amp;name=medium" alt="Jev vs Haiku classification comparison · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/muthulakshman/status/2105573293508248011">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/muthulakshman/status/2105573277108449783"><img src="https://pbs.twimg.com/media/HTh93TSbAAA9HuM?format=jpg&amp;name=medium" alt="A real production use of Jev decision model with an LLM · 原帖图片" width="100%"></a>
 <br>
@@ -103,6 +164,17 @@
 <p><strong>M Lakshmanan</strong> · @muthulakshman · 2026-10-01T08:19:23.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/muthulakshman/status/2105573277108449783">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ggwplabs/status/2105565450599817305"><img src="https://pbs.twimg.com/amplify_video_thumb/2105564996071481344/img/RA51Oc-TB6XIu_pJ.jpg" alt="Jev + GrokBot: The Best AI Agent Setup? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ggwplabs/status/2105565450599817305">Jev + GrokBot: The Best AI Agent Setup?</a></h3>
+<p>A user shares that pairing Jev with GrokBot is the best AI agent setup they&#39;ve come across, because Jev makes a small routing decision before expensive work starts, avoiding unnecessary searches, unneeded browser calls, and repeated failed attempts, helping control costs.</p>
+<p><strong>中文摘要：</strong>有用户分享称，Jev与GrokBot的组合是目前遇到的最佳AI代理设置，因为Jev能在昂贵工作开始前做出小规模路由决策，避免不必要的搜索、多余浏览器调用和重复尝试，从而有效控制预算。</p>
+<p><strong>ggwp</strong> · @ggwplabs · 2026-10-01T07:48:17.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 478</p>
+<p><a href="https://x.com/ggwplabs/status/2105565450599817305">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -1,13 +1,12 @@
 # Stanislav Sorokin
 
-16 Jev showcases.
+15 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-09-30T23:12:18.000Z | [Discussion on model confidence and handoff to Jev](https://x.com/stas_sorokin_/status/2105435598047629410) | 工作原理 | Stanislav Sorokin | 21 |
 | 2026-09-30T19:10:48.000Z | [Moving 52% of Jev API calls in a trading bot to a local 322M model](https://x.com/stas_sorokin_/status/2105374822104469811) | 金融 | Stanislav Sorokin | 6 |
 | 2026-09-30T14:53:56.000Z | [Training Laya on Jev's Decisions: 13% to 85.5% Accuracy](https://x.com/stas_sorokin_/status/2105310178723668293) | 社区实践 | Stanislav Sorokin | 130 |
-| 2026-09-30T13:22:34.000Z | [Jev Decision API: Real Phone Control Accuracy From 13% to 85.5%](https://x.com/stas_sorokin_/status/2105287188887839145) | 智能体 | Stanislav Sorokin | 44 |
 | 2026-09-23 | [JEV Audits AI Config Files of GitHub's Top 1,000 Repos for $0.02](https://x.com/stas_sorokin_/status/2102725184511717579) | 开发者工具 | Stanislav Sorokin | 18 |
 | 2026-09-21 | [JEV audits 300 web pages for $0.02](https://x.com/stas_sorokin_/status/2102148123590263094) | 数据分析 | Stanislav Sorokin | 2.6K |
 | 2026-09-21 | [Jev Open Access Test: 900 Decisions Graded by Opus 5](https://x.com/stas_sorokin_/status/2102158194235838589) | 数据分析 | Stanislav Sorokin | 400 |

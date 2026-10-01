@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 222 | 122 | 102 | 1.2M |
+| 224 | 123 | 103 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Shinmaboroshi/status/2105611331194020143"><img src="https://pbs.twimg.com/amplify_video_thumb/2105611249325326336/img/TBNfXBxdv2narkM8.jpg" alt="Jev Bot Trading: From $6 to $8,220 in 18 Hours · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Shinmaboroshi/status/2105611331194020143">Jev Bot Trading: From $6 to $8,220 in 18 Hours</a></h3>
+<p>User shares performance of their Jev trading bot: started with $50, rule was to earn enough to cover its own costs or shut down. It dropped to $6 mid-run, then recovered to $8,220 by hour 18. The bot checks all open markets every 12 minutes to compare opportunities.</p>
+<p><strong>中文摘要：</strong>用户分享其 Jev 交易机器人的表现：初始资金50美元，设定规则为赚取足够覆盖自身成本或关闭。盘中一度跌至6美元，但18小时后回升至8,220美元。机器人每12分钟检查所有开放市场并比较交易机会。</p>
+<p><strong>Shinmaboroshi</strong> · @Shinmaboroshi · 2026-10-01T10:50:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Shinmaboroshi/status/2105611331194020143">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tomchris/status/2105598353832862079"><img src="https://pbs.twimg.com/media/HTiWivobYAAA1QK?format=jpg&amp;name=medium" alt="Jev-Powered Bookkeeping Automation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tomchris/status/2105598353832862079">Jev-Powered Bookkeeping Automation</a></h3>
+<p>User shares how Jev reads new emails every 15 minutes, identifies receipts or invoices, and forwards them to an agent to streamline bookkeeping.</p>
+<p><strong>中文摘要：</strong>用户分享如何用Jev每15分钟读取新邮件，判断是否为收据或发票，并转发给代理，从而简化记账。</p>
+<p><strong>Thomas Christensen</strong> · @tomchris · 2026-10-01T09:59:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
+<p><a href="https://x.com/tomchris/status/2105598353832862079">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Yel0_22G/status/2105595917457883506"><img src="https://pbs.twimg.com/amplify_video_thumb/2105595806321700864/img/b5fDEfWo5XbkHlmY.jpg" alt="Jev-powered Grok bots achieve 100x returns in 10 nights · 原帖视频截图" width="100%"></a>

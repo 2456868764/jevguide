@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 742
-- [How it works](../categories/how-it-works.md) — 469
-- [Developer tools](../categories/developer-tools.md) — 458
+- [Community builds](../categories/community-builds.md) — 747
+- [How it works](../categories/how-it-works.md) — 471
+- [Developer tools](../categories/developer-tools.md) — 460
 - [Access updates](../categories/access-updates.md) — 362
+- [Agents](../categories/agents.md) — 344
 - [Launch news](../categories/launch-news.md) — 343
-- [Agents](../categories/agents.md) — 343
 - [Gaming](../categories/gaming.md) — 329
-- [Developer resources](../categories/developer-resources.md) — 286
+- [Developer resources](../categories/developer-resources.md) — 288
 - [Finance](../categories/finance.md) — 225
-- [Workflow automation](../categories/workflow-automation.md) — 197
+- [Workflow automation](../categories/workflow-automation.md) — 198
 - [Marketing](../categories/marketing.md) — 128
-- [Content creation](../categories/content-creation.md) — 107
+- [Content creation](../categories/content-creation.md) — 108
 - [Knowledge & search](../categories/knowledge-search.md) — 99
 - [Data analytics](../categories/data-analytics.md) — 97
 - [Scientific research](../categories/scientific-research.md) — 66
-- [Cybersecurity](../categories/cybersecurity.md) — 52
+- [Cybersecurity](../categories/cybersecurity.md) — 53
 - [Customer support](../categories/customer-support.md) — 48
 - [Robotics](../categories/robotics.md) — 40
-- [Productivity](../categories/productivity.md) — 34
+- [Productivity](../categories/productivity.md) — 35
 - [Software development](../categories/software-development.md) — 27
 - [Business operations](../categories/business-operations.md) — 26
 - [Healthcare](../categories/healthcare.md) — 22
-- [Education](../categories/education.md) — 20
+- [Education](../categories/education.md) — 21
 - [E-commerce](../categories/e-commerce.md) — 20
 - [Legal & compliance](../categories/legal-compliance.md) — 18

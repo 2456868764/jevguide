@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 286 | 112 | 174 | 419K |
+| 288 | 112 | 176 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iiiichigo_chan/status/2105639758034608563"><img src="https://pbs.twimg.com/media/HTi8J6QWQAAU1Mt?format=jpg&amp;name=medium" alt="Jev Founder Releases &#39;Jev with LLMs&#39; PDF Guide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iiiichigo_chan/status/2105639758034608563">Jev Founder Releases &#39;Jev with LLMs&#39; PDF Guide</a></h3>
+<p>Diogo Almeida published a 12-page PDF with a 10-step guide to building faster, cheaper, and more controllable AI systems around LLMs like Claude, Codex, and Grok.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 发布 12 页 PDF，提供 10 步指南，帮助开发者构建更快速、更便宜、更可控的 AI 系统，适用于 Claude、Codex、Grok 等 LLM。</p>
+<p><strong>Ichigo</strong> · @iiiichigo_chan · 2026-10-01T12:43:33.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 125</p>
+<p><a href="https://x.com/iiiichigo_chan/status/2105639758034608563">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/freeCodeCamp/status/2105629884655501668"><img src="https://pbs.twimg.com/media/HTizOLiXsAA9niE?format=jpg&amp;name=medium" alt="Build an AI Résumé Screener with Next.js, Supabase, and TypeSafe Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/freeCodeCamp/status/2105629884655501668">Build an AI Résumé Screener with Next.js, Supabase, and TypeSafe Jev</a></h3>
+<p>This handbook guides you through building an AI résumé screener with Next.js, Supabase, and TypeSafe Jev, covering calibrated scoring, human review, and app development.</p>
+<p><strong>中文摘要：</strong>本手册教你如何使用Next.js、Supabase和TypeSafe Jev构建AI简历筛选器，涵盖校准评分、人工审核及应用开发要点。</p>
+<p><strong>freeCodeCamp.org</strong> · @freeCodeCamp · 2026-10-01T12:04:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 8 &nbsp; ♡ 32 &nbsp; 📊 4.7K</p>
+<p><a href="https://x.com/freeCodeCamp/status/2105629884655501668">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/peterfriese/status/2105621312182051073"><img src="https://pbs.twimg.com/media/HTirbG8acAASrS9?format=jpg&amp;name=medium" alt="SystemOneFoundationModels: A Swift Package for Jev · 原帖图片" width="100%"></a>

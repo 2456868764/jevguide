@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 469 | 206 | 264 | 1.6M |
+| 471 | 208 | 264 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_katanai/status/2105642333932859564"><img src="https://pbs.twimg.com/amplify_video_thumb/2105641701943414784/img/vR0_9-ysEE-sYkYL.jpg" alt="Riley Brown Explains Jev&#39;s Model Routing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_katanai/status/2105642333932859564">Riley Brown Explains Jev&#39;s Model Routing</a></h3>
+<p>Riley Brown opens his Jev breakdown with a model router: each request is sent to the cheapest capable model, and Jev makes that call in one fast pass instead of another LLM prompt.</p>
+<p><strong>中文摘要：</strong>Riley Brown在视频中首先展示了Jev的模型路由器：系统将每个请求发送给能处理它的最便宜模型，Jev通过一次快速判断完成选择，而非依赖另一个LLM提示。</p>
+<p><strong>Katanai</strong> · @ai_katanai · 2026-10-01T12:53:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/ai_katanai/status/2105642333932859564">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/He1s_Sammy/status/2105640968741347360"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640943835627520/img/0CBE_eNEbyMOYNr6.jpg" alt="Jev input is 238x cheaper than Astra · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/He1s_Sammy/status/2105640968741347360">Jev input is 238x cheaper than Astra</a></h3>
+<p>The post compares Jev and Astra costs, noting Jev&#39;s input is far cheaper, output is free, and explains how a one-call-per-question architecture keeps costs extremely low.</p>
+<p><strong>中文摘要：</strong>帖子比较了Jev与Astra的成本，指出Jev的输入成本远低于Astra，输出免费，并解释了一次调用处理多个决策的架构如何实现极低成本。</p>
+<p><strong>S ᜰ</strong> · @He1s_Sammy · 2026-10-01T12:48:22.000Z</p>
+<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 261</p>
+<p><a href="https://x.com/He1s_Sammy/status/2105640968741347360">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MaximeRivest/status/2105615163931942962"><img src="https://pbs.twimg.com/amplify_video_thumb/2105335581668724736/img/LiyS8pprV7h3MBIU.jpg" alt="Jev: The Fine-Tuning Tradeoff for Generalists · 原帖视频截图" width="100%"></a>

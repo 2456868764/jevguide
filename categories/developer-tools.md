@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 458 | 237 | 223 | 3.6M |
+| 460 | 237 | 225 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EthanCastr/status/2105630809810211160"><img src="https://pbs.twimg.com/media/HTi0D7FXsAANALh?format=jpg&amp;name=medium" alt="Try Free Open Source Models: Jev Cloud/Local Routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EthanCastr/status/2105630809810211160">Try Free Open Source Models: Jev Cloud/Local Routing</a></h3>
+<p>Try free open source models with Jev-powered model routing, no login required, supporting cloud and local deployment.</p>
+<p><strong>中文摘要：</strong>无需登录即可通过Jev模型路由试用免费开源模型，支持云端与本地部署方式。</p>
+<p><strong>Ethan</strong> · @EthanCastr · 2026-10-01T12:08:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/EthanCastr/status/2105630809810211160">在 X 查看原帖</a> · <a href="https://t.co/csdhMcZ8BB">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2105628877636722999"><img src="https://pbs.twimg.com/media/HTiyTmQWEAALbku?format=jpg&amp;name=medium" alt="Ollaya: An Ollama-style App to Run Jev-like Decision Models Locally · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2105628877636722999">Ollaya: An Ollama-style App to Run Jev-like Decision Models Locally</a></h3>
+<p>GIGAZINE reports on Ollaya, an app that lets users run Jev-like decision models locally in an Ollama-style manner.</p>
+<p><strong>中文摘要：</strong>GIGAZINE报道了应用Ollaya，它采用类似Ollama的方式，让用户能够在本地运行Jev风格的决策模型。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-10-01T12:00:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4.4K</p>
+<p><a href="https://x.com/gigazine/status/2105628877636722999">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tom_knockk/status/2105628229117583373"><img src="https://pbs.twimg.com/media/HTixsuCbcAApPph?format=jpg&amp;name=medium" alt="OpenAI Decisions API vs Jev: 150ms decision comparison · 原帖图片" width="100%"></a>

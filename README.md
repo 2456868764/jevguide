@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4558</strong><br>curated posts</td>
-<td align="center"><strong>2366</strong><br>original videos</td>
+<td align="center"><strong>4575</strong><br>curated posts</td>
+<td align="center"><strong>2377</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>742</strong> showcases · <strong>307</strong> videos</p>
+<p><strong>747</strong> showcases · <strong>310</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>469</strong> showcases · <strong>206</strong> videos</p>
+<p><strong>471</strong> showcases · <strong>208</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>458</strong> showcases · <strong>237</strong> videos</p>
+<p><strong>460</strong> showcases · <strong>237</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -52,16 +52,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>344</strong> showcases · <strong>198</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
 <p><strong>343</strong> showcases · <strong>167</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>343</strong> showcases · <strong>197</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>286</strong> showcases · <strong>112</strong> videos</p>
+<p><strong>288</strong> showcases · <strong>112</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>197</strong> showcases · <strong>132</strong> videos</p>
+<p><strong>198</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>107</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>108</strong> showcases · <strong>81</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>52</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>53</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>34</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>35</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>20</strong> showcases · <strong>10</strong> videos</p>
+<p><strong>21</strong> showcases · <strong>11</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/tom_knockk/status/2105628229117583373"><img src="https://pbs.twimg.com/media/HTixsuCbcAApPph?format=jpg&amp;name=medium" alt="OpenAI Decisions API vs Jev: 150ms decision comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/tom_knockk/status/2105628229117583373">OpenAI Decisions API vs Jev: 150ms decision comparison</a></h3>
-<p>The post compares OpenAI&#39;s Decisions API with Jev, noting Jev is built on the Luna base, offering limited answers with confidence, around 150ms latency (10x faster than chat), suitable for content classification, request routing, and agent next-action, currently limited.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>tom_knock</strong> · @tom_knockk</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_katanai/status/2105642333932859564"><img src="https://pbs.twimg.com/amplify_video_thumb/2105641701943414784/img/vR0_9-ysEE-sYkYL.jpg" alt="Riley Brown Explains Jev&#39;s Model Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_katanai/status/2105642333932859564">Riley Brown Explains Jev&#39;s Model Routing</a></h3>
+<p>Riley Brown opens his Jev breakdown with a model router: each request is sent to the cheapest capable model, and Jev makes that call in one fast pass instead of another LLM prompt.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Katanai</strong> · @ai_katanai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/Cloudways/status/2105626388074049810"><img src="https://pbs.twimg.com/media/HTiwBksWwAAqAbJ.jpg" alt="Jev AI: Millisecond Responses, Up to 10x Faster · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Cloudways/status/2105626388074049810">Jev AI: Millisecond Responses, Up to 10x Faster</a></h3>
-<p>Cloudways introduces Jev, an AI model that skips the &#39;thinking out loud&#39; and delivers a score in milliseconds, up to 10x faster than typical AI models. Paired with Cloudways Velocity&#39;s always-on Node.js hosting, cold starts won&#39;t slow it down.</p>
-<p><strong>40</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
-<p><strong>Cloudways</strong> · @Cloudways</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/yuki_wtz/status/2105641063407124606"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640606026608640/img/LJBo8xa_xmbGCsce.jpg" alt="Real-time Video Analysis with djev-run and Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yuki_wtz/status/2105641063407124606">Real-time Video Analysis with djev-run and Jev</a></h3>
+<p>The user streams video via MoQ to djev-run for real-time analysis, asks questions like whether a black-haired man or headphones appear in the frame, and quickly gets decent answers, praising Jev&#39;s performance.</p>
+<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><strong>ucchy / Yuki Uchida</strong> · @yuki_wtz</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/JamesPSandoval/status/2105625966521303098"><img src="https://pbs.twimg.com/media/HTivf7kWQAAmuxO?format=jpg&amp;name=medium" alt="Jev Helps Determine News Writing Format in Suru.cc · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/JamesPSandoval/status/2105625966521303098">Jev Helps Determine News Writing Format in Suru.cc</a></h3>
-<p>When journalists use Suru to generate stories, Jev analyzes a sample of the writing to determine the format (e.g., Q&amp;A/Interview, News Story), demonstrating a practical application of TypeSafe AI&#39;s Jev in content workflows.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>James Sandoval</strong> · @JamesPSandoval</p>
+<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
+<a href="https://x.com/AI__Brain/status/2105640989956112726"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640787362930688/img/pfNQtjgTAfOHte8B.jpg" alt="Jev Guards the Second Brain, Stops Rotten Notes from Saving · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AI__Brain/status/2105640989956112726">Jev Guards the Second Brain, Stops Rotten Notes from Saving</a></h3>
+<p>GPT-6 Astra writes the notes, while Jev checks and blocks potential errors before saving, working together to keep the knowledge base clean.</p>
+<p><strong>26</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 26</p>
+<p><strong>BrainAI</strong> · @AI__Brain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/HeyAnjula/status/2105624854389248289"><img src="https://pbs.twimg.com/media/HTiuo3rasAA38y8?format=jpg&amp;name=medium" alt="Jev: An AI That Can&#39;t Write a Single Word, Built by a ChatGPT Co-Creator · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HeyAnjula/status/2105624854389248289">Jev: An AI That Can&#39;t Write a Single Word, Built by a ChatGPT Co-Creator</a></h3>
-<p>This post introduces Jev, an AI that can&#39;t write a single word, built by Diogo Almeida, who co-invented RLHF, the training behind ChatGPT. After two years in stealth, developers are talking about it.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
-<p><strong>Anjula Dwivedi</strong> · @HeyAnjula</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/He1s_Sammy/status/2105640968741347360"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640943835627520/img/0CBE_eNEbyMOYNr6.jpg" alt="Jev input is 238x cheaper than Astra · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/He1s_Sammy/status/2105640968741347360">Jev input is 238x cheaper than Astra</a></h3>
+<p>The post compares Jev and Astra costs, noting Jev&#39;s input is far cheaper, output is free, and explains how a one-call-per-question architecture keeps costs extremely low.</p>
+<p><strong>261</strong> views · 💬 4 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 261</p>
+<p><strong>S ᜰ</strong> · @He1s_Sammy</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/tom_knockk/status/2105628229117583373"><img src="https://pbs.twimg.com/media/HTixsuCbcAApPph?format=jpg&amp;name=medium" alt="OpenAI Decisions API vs Jev: 150ms decision comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/tom_knockk/status/2105628229117583373">OpenAI Decisions API vs Jev: 150ms decision comparison</a></h3>
-<p>The post compares OpenAI&#39;s Decisions API with Jev, noting Jev is built on the Luna base, offering limited answers with confidence, around 150ms latency (10x faster than chat), suitable for content classification, request routing, and agent next-action, currently limited.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>tom_knock</strong> · @tom_knockk</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_katanai/status/2105642333932859564"><img src="https://pbs.twimg.com/amplify_video_thumb/2105641701943414784/img/vR0_9-ysEE-sYkYL.jpg" alt="Riley Brown Explains Jev&#39;s Model Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_katanai/status/2105642333932859564">Riley Brown Explains Jev&#39;s Model Routing</a></h3>
+<p>Riley Brown opens his Jev breakdown with a model router: each request is sent to the cheapest capable model, and Jev makes that call in one fast pass instead of another LLM prompt.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Katanai</strong> · @ai_katanai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/HeyAnjula/status/2105624854389248289"><img src="https://pbs.twimg.com/media/HTiuo3rasAA38y8?format=jpg&amp;name=medium" alt="Jev: An AI That Can&#39;t Write a Single Word, Built by a ChatGPT Co-Creator · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HeyAnjula/status/2105624854389248289">Jev: An AI That Can&#39;t Write a Single Word, Built by a ChatGPT Co-Creator</a></h3>
-<p>This post introduces Jev, an AI that can&#39;t write a single word, built by Diogo Almeida, who co-invented RLHF, the training behind ChatGPT. After two years in stealth, developers are talking about it.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
-<p><strong>Anjula Dwivedi</strong> · @HeyAnjula</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/He1s_Sammy/status/2105640968741347360"><img src="https://pbs.twimg.com/amplify_video_thumb/2105640943835627520/img/0CBE_eNEbyMOYNr6.jpg" alt="Jev input is 238x cheaper than Astra · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/He1s_Sammy/status/2105640968741347360">Jev input is 238x cheaper than Astra</a></h3>
+<p>The post compares Jev and Astra costs, noting Jev&#39;s input is far cheaper, output is free, and explains how a one-call-per-question architecture keeps costs extremely low.</p>
+<p><strong>261</strong> views · 💬 4 &nbsp; 🔁 3 &nbsp; ♡ 15 &nbsp; 📊 261</p>
+<p><strong>S ᜰ</strong> · @He1s_Sammy</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/8fundraising/status/2105623014100373889"><img src="https://pbs.twimg.com/media/HTis-P9XUAEbpth?format=jpg&amp;name=medium" alt="TypeSafe Releases Jev: Prose-Free Model with Low-Cost Typed Q&amp;A · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/8fundraising/status/2105623014100373889">TypeSafe Releases Jev: Prose-Free Model with Low-Cost Typed Q&amp;A</a></h3>
-<p>TypeSafe released its Jev model on September 15. It answers typed questions with a confidence number and no prose. Processing 5,000 rows with five questions each now costs well under a dollar and returns in minutes. The post also explains how to find investors using Jev.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
-<p><strong>8 Fundraising</strong> · @8fundraising</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/iiiichigo_chan/status/2105639758034608563"><img src="https://pbs.twimg.com/media/HTi8J6QWQAAU1Mt?format=jpg&amp;name=medium" alt="Jev Founder Releases &#39;Jev with LLMs&#39; PDF Guide · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/iiiichigo_chan/status/2105639758034608563">Jev Founder Releases &#39;Jev with LLMs&#39; PDF Guide</a></h3>
+<p>Diogo Almeida published a 12-page PDF with a 10-step guide to building faster, cheaper, and more controllable AI systems around LLMs like Claude, Codex, and Grok.</p>
+<p><strong>125</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 125</p>
+<p><strong>Ichigo</strong> · @iiiichigo_chan</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/NilsEdison/status/2105619410895372503"><img src="https://pbs.twimg.com/amplify_video_thumb/2105618687352803328/img/dynUCwIEWVNKP3qC.jpg" alt="Exploring Two-Tier Judging with Jev and Claude · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NilsEdison/status/2105619410895372503">Exploring Two-Tier Judging with Jev and Claude</a></h3>
-<p>The author wonders about combining procedural generation with a wavefunction algorithm, using Jev as a rapid first-round judge and Claude for a second judgment, to explore new ideas.</p>
-<p><strong>72</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 72</p>
-<p><strong>RM 🖤</strong> · @NilsEdison</p>
+<a href="https://x.com/0xAIlabs/status/2105633417702346754"><img src="https://pbs.twimg.com/amplify_video_thumb/2105633312668594176/img/Y6jKOjGqBQLo3xTe.jpg" alt="Jev vs GPT-6 Luna: Higher Score Isn&#39;t the Part That Makes an Agent Safe · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xAIlabs/status/2105633417702346754">Jev vs GPT-6 Luna: Higher Score Isn&#39;t the Part That Makes an Agent Safe</a></h3>
+<p>A tester ran the same 113 decisions through Jev and GPT-6 Luna. Luna got more right (81% vs 67%), and with more thinking reached 99%. When only high-confidence answers were kept, Jev&#39;s accuracy jumped notably, sparking discussion about safety and confidence mechanisms.</p>
+<p><strong>172</strong> views · 💬 5 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 172</p>
+<p><strong>Lyren_o</strong> · @0xAIlabs</p>
 </td>
 </tr>
 </table>

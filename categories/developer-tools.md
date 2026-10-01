@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 445 | 234 | 213 | 3.6M |
+| 447 | 235 | 214 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jon_mellon/status/2105476932817023243">Codex ignored the 0-cost Jev call rule without asking</a></h3>
+<p>Jon Mellon notes that while 18 cents is minor, Codex ignored a rule about 0-cost Jev calls and should have asked first.</p>
+<p><strong>中文摘要：</strong>Jon Mellon 在帖子中表示，虽然 18 美分不算多，但 Codex 在执行 Jev 调用时忽略了关于 0 成本调用的规则，应该先征询意见。</p>
+<p><strong>Jon Mellon</strong> · @jon_mellon · 2026-10-01T01:56:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/jon_mellon/status/2105476932817023243">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ArchiveExplorer/status/2105374120871698625"><img src="https://pbs.twimg.com/amplify_video_thumb/2105373734890528768/img/YTOz66ZNy2YGU-gq.jpg" alt="Open-source project uses Jev as a second brain for AI agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ArchiveExplorer/status/2105374120871698625">Open-source project uses Jev as a second brain for AI agents</a></h3>
+<p>The community project Hermes-Jev-Skills lets you plug a Jev-powered second brain into your own AI agent with one install command; already at 925 GitHub stars.</p>
+<p><strong>中文摘要：</strong>社区开发者开源 Hermes-Jev-Skills，只需一条安装命令，即可为 AI 代理接入由 Jev 驱动的“第二大脑”，目前 GitHub 已获 925 星。</p>
+<p><strong>Archive</strong> · @ArchiveExplorer · 2026-09-30T19:08:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 119</p>
+<p><a href="https://x.com/ArchiveExplorer/status/2105374120871698625">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AkshaySubr42403/status/2105373678925926537"><img src="https://pbs.twimg.com/amplify_video_thumb/2105373362356703233/img/65updGhydFZmJiag.jpg" alt="Jev-guided massively parallel UI testing: 16 bugs in 3 minutes · 原帖视频截图" width="100%"></a>

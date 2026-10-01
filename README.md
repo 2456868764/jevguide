@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4406</strong><br>curated posts</td>
-<td align="center"><strong>2286</strong><br>original videos</td>
+<td align="center"><strong>4444</strong><br>curated posts</td>
+<td align="center"><strong>2306</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>703</strong> showcases · <strong>284</strong> videos</p>
+<p><strong>715</strong> showcases · <strong>290</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>454</strong> showcases · <strong>200</strong> videos</p>
+<p><strong>457</strong> showcases · <strong>201</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>445</strong> showcases · <strong>234</strong> videos</p>
+<p><strong>447</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>357</strong> showcases · <strong>146</strong> videos</p>
+<p><strong>360</strong> showcases · <strong>148</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>329</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>335</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>325</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>326</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>320</strong> showcases · <strong>243</strong> videos</p>
+<p><strong>323</strong> showcases · <strong>246</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>273</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>276</strong> showcases · <strong>106</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>217</strong> showcases · <strong>118</strong> videos</p>
+<p><strong>219</strong> showcases · <strong>119</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>48</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>49</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>40</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>41</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>19</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>20</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/stas_sorokin_/status/2105374822104469811"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Moving 52% of Jev API calls in a trading bot to a local 322M model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/stas_sorokin_/status/2105374822104469811">Moving 52% of Jev API calls in a trading bot to a local 322M model</a></h3>
-<p>The author shares experience using the paid Jev API in a trading bot: each call takes about 1.16s, and 52% of calls have been moved to a 322M model on a Mac mini. The key is identifying which stock-picking decisions can be made alone; paper trading is suggested first.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/AutoTrustAI/status/2105478378581372970"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV: AutoTrust AI&#39;s System 1 Family for Agents · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AutoTrustAI/status/2105478378581372970">JEV: AutoTrust AI&#39;s System 1 Family for Agents</a></h3>
+<p>AutoTrust AI presents JEV, a System 1 family for agents. Instead of generating a paragraph before every small action, JEV outputs calibrated probabilities for yes/no, 2–16-way choice, and 0–5 scoring, enabling fast decisions.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xNexqor/status/2105373866176790816"><img src="https://pbs.twimg.com/amplify_video_thumb/2105350768853176320/img/h6DA1k6Jq_38-DrF.jpg" alt="Jev: An AI Model That Refuses to Write · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xNexqor/status/2105373866176790816">Jev: An AI Model That Refuses to Write</a></h3>
-<p>The post cites Miles Deutscher, arguing that the most important AI model of 2026 is not GPT-6 or Claude-style generative models, but Jev. Jev does not generate text; you send a state and a typed question, and get back a decision.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Nexqor</strong> · @0xNexqor</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/TeksEdge/status/2105477808474476999"><img src="https://pbs.twimg.com/media/HTfAhjdbMAA_hkk?format=png&amp;name=small" alt="Jev Faces New Competitor: Liquid d1 Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TeksEdge/status/2105477808474476999">Jev Faces New Competitor: Liquid d1 Decision Model</a></h3>
+<p>Liquid&#39;s new d1 decision model reportedly scores 58.9 on their reproduction of Hugging Face&#39;s Decision Index, surpassing Jev 1.13&#39;s 57.9, and generates 0 output tokens like Jev. However, Localmaxxers can&#39;t download it yet.</p>
+<p><strong>92</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 92</p>
+<p><strong>David Hendrickson</strong> · @TeksEdge</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/AkshaySubr42403/status/2105373678925926537"><img src="https://pbs.twimg.com/amplify_video_thumb/2105373362356703233/img/65updGhydFZmJiag.jpg" alt="Jev-guided massively parallel UI testing: 16 bugs in 3 minutes · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AkshaySubr42403/status/2105373678925926537">Jev-guided massively parallel UI testing: 16 bugs in 3 minutes</a></h3>
-<p>The author turned an Excalidraw PR into a massive UI state space and deployed 200 machines to explore it in parallel, with Luna guiding the search and Jev adjusting it in real time, finding 16 bugs in 3 minutes.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Akshay Subramaniam</strong> · @AkshaySubr42403</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/faisalahammadwp/status/2105477807165816952"><img src="https://pbs.twimg.com/media/HTfqv97bgAAQ63F?format=jpg&amp;name=medium" alt="Drex 1.5: A Free JEV Alternative Launched · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/faisalahammadwp/status/2105477807165816952">Drex 1.5: A Free JEV Alternative Launched</a></h3>
+<p>Drex 1.5 is a fast decision model with a 128K context window, sub-second speed, and 250M free tokens for new users as a JEV alternative.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Faisal Ahammad</strong> · @faisalahammadwp</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/newsglobeorg/status/2105372728509223148"><img src="https://pbs.twimg.com/media/HTfJVvVXwAAjVLy?format=jpg&amp;name=medium" alt="OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/newsglobeorg/status/2105372728509223148">OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents</a></h3>
-<p>Breaking reports say OpenAI has introduced the Decisions API, described as a Jev clone to manage its swarming agents, underscoring the importance of fast, cheap intelligence.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Globenews</strong> · @newsglobeorg</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jon_mellon/status/2105476932817023243">Codex ignored the 0-cost Jev call rule without asking</a></h3>
+<p>Jon Mellon notes that while 18 cents is minor, Codex ignored a rule about 0-cost Jev calls and should have asked first.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Jon Mellon</strong> · @jon_mellon</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/stas_sorokin_/status/2105374822104469811"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Moving 52% of Jev API calls in a trading bot to a local 322M model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/stas_sorokin_/status/2105374822104469811">Moving 52% of Jev API calls in a trading bot to a local 322M model</a></h3>
-<p>The author shares experience using the paid Jev API in a trading bot: each call takes about 1.16s, and 52% of calls have been moved to a 322M model on a Mac mini. The key is identifying which stock-picking decisions can be made alone; paper trading is suggested first.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/AutoTrustAI/status/2105478378581372970"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV: AutoTrust AI&#39;s System 1 Family for Agents · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AutoTrustAI/status/2105478378581372970">JEV: AutoTrust AI&#39;s System 1 Family for Agents</a></h3>
+<p>AutoTrust AI presents JEV, a System 1 family for agents. Instead of generating a paragraph before every small action, JEV outputs calibrated probabilities for yes/no, 2–16-way choice, and 0–5 scoring, enabling fast decisions.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/newsglobeorg/status/2105372728509223148"><img src="https://pbs.twimg.com/media/HTfJVvVXwAAjVLy?format=jpg&amp;name=medium" alt="OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/newsglobeorg/status/2105372728509223148">OpenAI Unveils Decisions API: A Jev Clone for Managing Swarming Agents</a></h3>
-<p>Breaking reports say OpenAI has introduced the Decisions API, described as a Jev clone to manage its swarming agents, underscoring the importance of fast, cheap intelligence.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Globenews</strong> · @newsglobeorg</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jon_mellon/status/2105476932817023243">Codex ignored the 0-cost Jev call rule without asking</a></h3>
+<p>Jon Mellon notes that while 18 cents is minor, Codex ignored a rule about 0-cost Jev calls and should have asked first.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Jon Mellon</strong> · @jon_mellon</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/DistillAI1/status/2105372174525878376"><img src="https://pbs.twimg.com/media/HTfI1e7bYAEqr9v?format=jpg&amp;name=medium" alt="awesome-jev resource list · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DistillAI1/status/2105372174525878376">awesome-jev resource list</a></h3>
-<p>A community resource list aggregating papers, project repos, and evaluation write-ups related to Jev in research and robotics.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Distill AI</strong> · @DistillAI1</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/AutoTrustAI/status/2105476755796754470"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475932287037440/img/ryK0FxWudofX84Sg.jpg" alt="JEV-27B-VL Real-Time Tetris Decision Demo · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AutoTrustAI/status/2105476755796754470">JEV-27B-VL Real-Time Tetris Decision Demo</a></h3>
+<p>JEV-27B-VL reads the board, evaluates candidate placements and orientations, assigns probabilities to each action, and chooses the next move as the game accelerates, clearing 20/20 lines.</p>
+<p><strong>18</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 18</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0xslashxbt/status/2105325176183292122">Guide to Cutting AI Support Bill with Jev</a></h3>
-<p>American students share a guide to cutting a $30.4K/month AI support bill to ~$6.5K with Jev, by mapping and moving bounded decisions in agent workflows.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>SLASH</strong> · @0xslashxbt</p>
+<p><strong>04</strong> &nbsp; <code>电商</code> <code>原帖图片</code></p>
+<a href="https://x.com/ResearchTamasan/status/2105471220221432059"><img src="https://pbs.twimg.com/media/HTgitjIaoAALH-a?format=jpg&amp;name=medium" alt="Tried ordering on Amazon using Codex and Jev&#39;s browser operation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ResearchTamasan/status/2105471220221432059">Tried ordering on Amazon using Codex and Jev&#39;s browser operation</a></h3>
+<p>A user shares their first experience using Codex and Jev&#39;s browser operation feature to place an order on Amazon, describing it as fast and accurate.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>小串珠美(たま｜AI活用コーチ)</strong> · @ResearchTamasan</p>
 </td>
 </tr>
 </table>

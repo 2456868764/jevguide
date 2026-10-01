@@ -4,11 +4,131 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 703 | 284 | 423 | 3.0M |
+| 715 | 290 | 429 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abas_Ekanem/status/2105465858042568892"><img src="https://pbs.twimg.com/media/HTgeCL_XMAAUUag?format=jpg&amp;name=medium" alt="Practicing routing logic similar to Jev in AI agent development · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/abas_Ekanem/status/2105465858042568892">Practicing routing logic similar to Jev in AI agent development</a></h3>
+<p>The author shares that while building the Google Meet AI agent Layla, they handed routing logic to LangGraph code, referencing TypeSafe AI - Jev.</p>
+<p><strong>中文摘要：</strong>作者分享在构建Google Meet AI agent Layla时，将路由逻辑交给LangGraph代码，并提及TypeSafe AI - Jev。</p>
+<p><strong>Ekanem, Abasi-ikpongke</strong> · @abas_Ekanem · 2026-10-01T01:12:32.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/abas_Ekanem/status/2105465858042568892">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/som_dutt_/status/2105465815189561791"><img src="https://pbs.twimg.com/media/HTgd-6EakAAAAjv?format=jpg&amp;name=medium" alt="Liquid AI d1 edges out Jev 1.13 by 1 point on Decision Index · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/som_dutt_/status/2105465815189561791">Liquid AI d1 edges out Jev 1.13 by 1 point on Decision Index</a></h3>
+<p>The post compares Liquid AI d1 with Jev 1.13: d1 beats Jev by 1 point on the Decision Index (58.9 vs 57.9), but trails by 8 points on Knowledge. It emphasizes that d1 is a decision model that picks rather than writes text.</p>
+<p><strong>中文摘要：</strong>帖子比较 Liquid AI d1 与 Jev 1.13：d1 在决策指数上以 58.9 对 57.9 超过 Jev 1 分，但在知识维度落后 8 分。帖子还强调 d1 是决策模型，不生成文本，而是做选择。</p>
+<p><strong>Som Dutt | AI/ML Analyst</strong> · @som_dutt_ · 2026-10-01T01:12:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/som_dutt_/status/2105465815189561791">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PromptQL/status/2105461704301707376"><img src="https://pbs.twimg.com/media/HTgaQ10XIAA0fOv?format=jpg&amp;name=900x900" alt="Refactoring with Jev Hackathon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PromptQL/status/2105461704301707376">Refactoring with Jev Hackathon</a></h3>
+<p>Join the &#39;Refactoring with Jev&#39; hackathon on October 2, 1–4 p.m. PT at PromptQL in SF. Bring an AI workflow to tinker with; coffee and pastries provided. RSVP via the link.</p>
+<p><strong>中文摘要：</strong>10月2日下午1-4点（PT），在旧金山 PromptQL 举办 &#39;Refactoring with Jev&#39; 黑客松，欢迎携带 AI 工作流参与，现场提供咖啡和点心，需通过链接报名。</p>
+<p><strong>PromptQL</strong> · @PromptQL · 2026-10-01T00:56:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 116</p>
+<p><a href="https://x.com/PromptQL/status/2105461704301707376">在 X 查看原帖</a> · <a href="https://t.co/2JxJpWuI6z">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GameUndertaker9/status/2105454917276283325"><img src="https://pbs.twimg.com/tweet_video_thumb/HTgUBFYacAATiua.jpg" alt="Experience sharing on adopting Jev-like mica · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GameUndertaker9/status/2105454917276283325">Experience sharing on adopting Jev-like mica</a></h3>
+<p>The author is trying mica, which is similar to Jev. Parts that previously relied on LLM judgment are processed faster, though imperfectly—like suddenly wearing glasses or doing web searches—which makes it more fun.</p>
+<p><strong>中文摘要：</strong>作者在试用类似Jev的mica，原本依赖LLM判断的部分处理速度明显提升，但仍有不完美之处，例如会突然戴眼镜或进行网页搜索，反而显得更有趣。</p>
+<p><strong>게임장의사</strong> · @GameUndertaker9 · 2026-10-01T00:29:04.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 188</p>
+<p><a href="https://x.com/GameUndertaker9/status/2105454917276283325">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/techblog883/status/2105454638996861184"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105454541932236801/pu/img/qlyKCCzjAoKzQAgm.jpg" alt="Quantifying Conversation Attraction with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/techblog883/status/2105454638996861184">Quantifying Conversation Attraction with Jev</a></h3>
+<p>Use TypeSafe&#39;s Jev model to judge each message, with Claude replying, to quickly output an attractiveness score.</p>
+<p><strong>中文摘要：</strong>使用TypeSafe的Jev模型逐句判定脉象，Claude模拟对方回复，快速输出吸引力评分。</p>
+<p><strong>ねお | 1000万への道</strong> · @techblog883 · 2026-10-01T00:27:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/techblog883/status/2105454638996861184">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dillon_mulroy/status/2105453668266873091"><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt="Demo of codemode + Jev in pi · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dillon_mulroy/status/2105453668266873091">Demo of codemode + Jev in pi</a></h3>
+<p>Dillon Mulroy praises the integration demo of codemode and Jev in pi, showcasing the power of codemode and general classification models, and thanks the team members.</p>
+<p><strong>中文摘要：</strong>Dillon Mulroy称赞了codemode与Jev在pi中的集成演示，展示了codemode和通用分类模型的强大能力，并感谢相关团队成员。</p>
+<p><strong>Dillon Mulroy</strong> · @dillon_mulroy · 2026-10-01T00:24:06.000Z</p>
+<p>💬 10 &nbsp; 🔁 14 &nbsp; ♡ 213 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/dillon_mulroy/status/2105453668266873091">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arjunghosh/status/2105452406750535794"><img src="https://pbs.twimg.com/amplify_video_thumb/2103191254599360512/img/trOHsiE8gQgJbWZd.jpg" alt="Jev and other System-1 AI models challenge RL dominance · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arjunghosh/status/2105452406750535794">Jev and other System-1 AI models challenge RL dominance</a></h3>
+<p>The author praises System-1 AI models like Jev, Laya, GLiNER 2.5, and CLM-8B for dropping at once and challenging the traditional RL approach led by OpenAI/Anthropic, noting that @typesafeai took the lead.</p>
+<p><strong>中文摘要：</strong>作者赞赏Jev、Laya、GLiNER 2.5和CLM-8B等System-1 AI模型同时问世，挑战OpenAI/Anthropic主导的传统RL路线，并指出@typesafeai率先推动了这一变革。</p>
+<p><strong>0x_arjunghosh_ai</strong> · @arjunghosh · 2026-10-01T00:19:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/arjunghosh/status/2105452406750535794">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/punit_arani/status/2105448859384295555"><img src="https://pbs.twimg.com/media/HTgM5SqagAAz5Bj?format=jpg&amp;name=medium" alt="Jev vs Span-01 Hands-On Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/punit_arani/status/2105448859384295555">Jev vs Span-01 Hands-On Comparison</a></h3>
+<p>The author compared TypeSafe Jev with RespanAI Span-01, finding Jev is 2x faster, Span-01 is 40% cheaper but slightly worse in performance, and harder to integrate with missing types and features.</p>
+<p><strong>中文摘要：</strong>作者对比了 TypeSafe Jev 与 RespanAI Span-01，发现 Jev 速度快一倍，但 Span-01 便宜 40% 且性能略逊；Span-01 集成更难，缺少部分类型和功能。</p>
+<p><strong>Punit Arani</strong> · @punit_arani · 2026-10-01T00:05:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 270</p>
+<p><a href="https://x.com/punit_arani/status/2105448859384295555">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arturbossdev/status/2105448353668456895"><img src="https://pbs.twimg.com/media/HTgN27oXEAAkxaE?format=jpg&amp;name=medium" alt="Developer Tests Jev: An LLM Alternative for Decision Tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arturbossdev/status/2105448353668456895">Developer Tests Jev: An LLM Alternative for Decision Tasks</a></h3>
+<p>Artur Boss shares his experience with TypeSafe AI&#39;s Jev model, noting it excels at tasks that require decisions rather than text generation, such as classification, scoring, routing, and moderation, with structured outputs and probabilities, while being faster and cheaper.</p>
+<p><strong>中文摘要：</strong>Artur Boss 分享了使用 TypeSafe AI 的 Jev 模型的体验，指出它在不需要文本生成、只需做出决策的任务（如分类、评分、路由、审核）中表现出色，支持结构化输出和概率，并且更快更便宜。</p>
+<p><strong>Artur Boss</strong> · @arturbossdev · 2026-10-01T00:02:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/arturbossdev/status/2105448353668456895">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/denchu_unagi/status/2105373355507622222"><img src="https://pbs.twimg.com/media/HTfInOTawAAE5oJ?format=png&amp;name=small" alt="Community Evaluation of Jev Model on Low VRAM Devices · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/denchu_unagi/status/2105373355507622222">Community Evaluation of Jev Model on Low VRAM Devices</a></h3>
+<p>User shares test results of Kev-4B (possibly a Jev variant) within 4GB VRAM, finds it decent, suggests original Jev&#39;s low accuracy may be due to flawed tests, and recommends it for GPUs like RTX 3050.</p>
+<p><strong>中文摘要：</strong>用户分享Kev-4B（可能指Jev变体）在4GB VRAM下的测试结果，认为其表现不错，并指出本家Jev正答率低可能源于测试本身问题，推荐RTX3050等低VRAM显卡使用。</p>
+<p><strong>電柱</strong> · @denchu_unagi · 2026-09-30T19:04:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/denchu_unagi/status/2105373355507622222">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sagarbjethi/status/2105371800825917529"><img src="https://pbs.twimg.com/amplify_video_thumb/2105369068043919360/img/qkQALHdQtswVcHd8.jpg" alt="Jev CoLearn Community Event Held in Ahmedabad · 原帖视频截图" width="100%"></a>
@@ -22,6 +142,19 @@
 <p><a href="https://x.com/sagarbjethi/status/2105371800825917529">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/clairevo/status/2105371519140663583"><img src="https://pbs.twimg.com/amplify_video_thumb/2105371411019956224/img/W0AzFvyeIa5h1ixU.jpg" alt="Jev Model in Action: Community Showcase · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/clairevo/status/2105371519140663583">Jev Model in Action: Community Showcase</a></h3>
+<p>During Jev week by TypeSafe AI, John Lindquist demonstrates over a dozen applications built with the Jev decision model, including multi-step routing, messy data deduplication, model-vs-model blitz chess, and real-time scenarios.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 周活动中，John Lindquist 展示了利用 Jev 决策模型构建的十余种应用，包括多步路由、脏数据去重、模型对弈快棋和实时场景等。</p>
+<p><strong>claire vo 🖤</strong> · @clairevo · 2026-09-30T18:57:40.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 2.3K</p>
+<p><a href="https://x.com/clairevo/status/2105371519140663583">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/0xslashxbt/status/2105325176183292122"><img src="https://pbs.twimg.com/media/HTed-oYXIAAlY0_?format=jpg&amp;name=medium" alt="Guide to Cutting AI Support Bill with Jev · 原帖图片" width="100%"></a>
 <br>
 <sub><code>社区实践</code> <code>原帖图片</code></sub>
@@ -32,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/0xslashxbt/status/2105325176183292122">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/andrey_gubanov1/status/2105322733819343182"><img src="https://pbs.twimg.com/media/HTebvE-aEAAbbl3?format=jpg&amp;name=medium" alt="Running a System One Model in the Browser: Testing Laya · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/andrey_gubanov1/status/2105322733819343182">在 X 查看原帖</a> · <a href="https://t.co/3qvTTwZkmJ">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FoolaFroos/status/2105318698412351967"><img src="https://pbs.twimg.com/tweet_video_thumb/HTeYMjIXkAAWO_K.jpg" alt="Discussion on Jev as a Zero-Shot Classifier · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/FoolaFroos/status/2105318698412351967">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Brianeedsleep/status/2105318031073419302"><img src="https://pbs.twimg.com/media/HTeW_XwaAAAcg0Y?format=jpg&amp;name=medium" alt="MengAI: A Free Agent Orchestration Project Integrated with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +200,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 783</p>
 <p><a href="https://x.com/Brianeedsleep/status/2105318031073419302">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vamshinenu/status/2105317218925858850"><img src="https://pbs.twimg.com/media/HTeTLUGXsAEdd1h?format=jpg&amp;name=medium" alt="Using JEV to Make Error Messages Feel Alive · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/vamshinenu/status/2105317218925858850">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/s2terminal_tech/status/2105313757228679675"><img src="https://pbs.twimg.com/media/HTeTT7qaoAAmEPI?format=jpg&amp;name=large" alt="Jev Performance Not Yet Production-Ready · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/s2terminal_tech/status/2105313757228679675">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ericmacdougall/status/2105312459271680183"><img src="https://pbs.twimg.com/media/HTeShk7XYAEBngF?format=jpg&amp;name=medium" alt="Jev Choice Confidence: Limitations and Advice · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
 <p><a href="https://x.com/ericmacdougall/status/2105312459271680183">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TanakaTsikira/status/2105311960287912260"><img src="https://pbs.twimg.com/amplify_video_thumb/2105216962758365184/img/u2UXKjK1sVZJcNxu.jpg" alt="Jev Cloned? OpenAI Decisions API Sparks Discussion · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/TanakaTsikira/status/2105311960287912260">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/muratcan/status/2105311369650147726"><img src="https://pbs.twimg.com/media/HTeRdzfXAAAhCjH?format=jpg&amp;name=medium" alt="Sharing Jev Research at the Gym with Devin Mobile · 原帖图片" width="100%"></a>
 <br>
@@ -127,6 +260,17 @@
 <p><strong>Muratcan Koylan</strong> · @muratcan · 2026-09-30T14:58:39.000Z</p>
 <p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 13 &nbsp; 📊 1.5K</p>
 <p><a href="https://x.com/muratcan/status/2105311369650147726">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2105310178723668293"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Training Laya on Jev&#39;s Decisions: 13% to 85.5% Accuracy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2105310178723668293">Training Laya on Jev&#39;s Decisions: 13% to 85.5% Accuracy</a></h3>
+<p>Using a 322M open model on a Mac mini, the author trained Laya on 7,396 real decisions from the Jev decision API, improving accuracy from 13% to 85.5% over three training rounds.</p>
+<p><strong>中文摘要：</strong>在 Mac mini 上使用 322M 开源模型，用 Jev 决策 API 的 7,396 条真实决策训练 Laya，三轮后将准确率从 13% 提升至 85.5%。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-09-30T14:53:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 130</p>
+<p><a href="https://x.com/stas_sorokin_/status/2105310178723668293">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

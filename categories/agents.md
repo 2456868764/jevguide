@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 329 | 189 | 141 | 3.0M |
+| 335 | 193 | 143 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AutoTrustAI/status/2105478378581372970"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV: AutoTrust AI&#39;s System 1 Family for Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AutoTrustAI/status/2105478378581372970">JEV: AutoTrust AI&#39;s System 1 Family for Agents</a></h3>
+<p>AutoTrust AI presents JEV, a System 1 family for agents. Instead of generating a paragraph before every small action, JEV outputs calibrated probabilities for yes/no, 2–16-way choice, and 0–5 scoring, enabling fast decisions.</p>
+<p><strong>中文摘要：</strong>AutoTrust AI 介绍其 JEV 系列——为智能体设计的 System 1 模型。JEV 不是为每个小动作生成文本段落，而是直接输出校准概率，支持是/否、2-16 路选择及 0-5 评分，实现快速决策。</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI · 2026-10-01T02:02:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><a href="https://x.com/AutoTrustAI/status/2105478378581372970">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AutoTrustAI/status/2105476758879564172"><img src="https://pbs.twimg.com/amplify_video_thumb/2105476178081615872/img/ygQ-nOVGxrlaPsED.jpg" alt="JEV-27B-VL Solves Rubik&#39;s Cube with Visual Decision-Making · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AutoTrustAI/status/2105476758879564172">JEV-27B-VL Solves Rubik&#39;s Cube with Visual Decision-Making</a></h3>
+<p>Starting from a 25-turn scramble, JEV-27B-VL aligns all six faces through 54 visual decisions, demonstrating an agent loop of perception, scoring, action, and observation in a real-world task.</p>
+<p><strong>中文摘要：</strong>从25步打乱状态开始，JEV-27B-VL通过54次视觉决策逐步对齐魔方六个面，展示了智能体在真实场景中的感知-决策-执行循环能力。</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI · 2026-10-01T01:55:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 14</p>
+<p><a href="https://x.com/AutoTrustAI/status/2105476758879564172">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DesignCntrl/status/2105475057825010042"><img src="https://pbs.twimg.com/amplify_video_thumb/2105473946480963584/img/Pz-1Pm-Otr2eC4_z.jpg" alt="Jev vs. Pulse Decision Speed · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DesignCntrl/status/2105475057825010042">Jev vs. Pulse Decision Speed</a></h3>
+<p>DesignCntrl claims Pulse is faster than Jev, with decisions in ~10-30ms, a performance comparison involving the Jev model.</p>
+<p><strong>中文摘要：</strong>DesignCntrl称Pulse比Jev更快，决策时间约10-30毫秒，涉及Jev模型性能对比。</p>
+<p><strong>DesignCntrl Inc. / Destrozado</strong> · @DesignCntrl · 2026-10-01T01:49:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/DesignCntrl/status/2105475057825010042">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/championswimmer/status/2105473930412634328"><img src="https://pbs.twimg.com/amplify_video_thumb/2105473611985244160/img/PuPD8mMwmHxDhh2S.jpg" alt="Using Jev Classifier API to Dynamically Enable Context Skills · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/championswimmer/status/2105473930412634328">Using Jev Classifier API to Dynamically Enable Context Skills</a></h3>
+<p>A developer shares using TypeSafe AI&#39;s Jev classifier API to identify and enable skills useful for the current task, optimizing AI context management.</p>
+<p><strong>中文摘要：</strong>开发者分享利用 TypeSafe AI 的 Jev 分类器 API，判断并启用在当前任务中有用的技能，以优化 AI 上下文管理。</p>
+<p><strong>Arnav Gupta</strong> · @championswimmer · 2026-10-01T01:44:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 395</p>
+<p><a href="https://x.com/championswimmer/status/2105473930412634328">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PAP_Research_AI/status/2105458903253471410"><img src="https://pbs.twimg.com/media/HTgXtpDaQAAZYu1?format=jpg&amp;name=medium" alt="Reflections on Jev and OpenAI&#39;s Decisions API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PAP_Research_AI/status/2105458903253471410">Reflections on Jev and OpenAI&#39;s Decisions API</a></h3>
+<p>The author notes that OpenAI&#39;s Decisions API is moving toward returning actionable judgments from predefined Q&amp;A pairs, overlapping with the idea inspired by Jev of using AI as a business decision component, and prompting reconsideration of simply rolling out ChatGPT to all employees.</p>
+<p><strong>中文摘要：</strong>作者认为OpenAI的Decisions API正朝着从预定义问答中返回软件可用的判断的方向发展，这与Jev所启发的“将AI作为业务判断部件”的理念重叠，引发了对全员普及ChatGPT局限性的反思。</p>
+<p><strong>さかっぺ｜PAP Research</strong> · @PAP_Research_AI · 2026-10-01T00:44:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/PAP_Research_AI/status/2105458903253471410">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RandyHamilton/status/2105372449227575551"><img src="https://pbs.twimg.com/media/HTfJFgTakAA-z9d?format=jpg&amp;name=medium" alt="OpenAI&#39;s Jev Clone Could Help Stop Swarming Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RandyHamilton/status/2105372449227575551">OpenAI&#39;s Jev Clone Could Help Stop Swarming Agents</a></h3>
+<p>This tweet suggests OpenAI&#39;s Jev clone could help frontier labs address their swarming agent issues.</p>
+<p><strong>中文摘要：</strong>该推文称OpenAI的Jev克隆可能帮助前沿实验室应对其群体代理问题。</p>
+<p><strong>Randy Hamilton</strong> · @RandyHamilton · 2026-09-30T19:01:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/RandyHamilton/status/2105372449227575551">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/roy_man/status/2105371673847316628"><img src="https://pbs.twimg.com/tweet_video_thumb/HTfH0W9XcAEhY2f.jpg" alt="Making the JEV Model &quot;Talk&quot;: Keyboard and Autocomplete Experiment · 原帖视频截图" width="100%"></a>

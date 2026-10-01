@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 217 | 118 | 101 | 1.2M |
+| 219 | 119 | 102 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Scratcherrrr/status/2105467108117090740"><img src="https://pbs.twimg.com/amplify_video_thumb/2105464169239633920/img/tQPyxijJho0XBZUS.jpg" alt="Analyzing a Polymarket bot&#39;s real P&amp;L with a Jev stack · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Scratcherrrr/status/2105467108117090740">Analyzing a Polymarket bot&#39;s real P&amp;L with a Jev stack</a></h3>
+<p>The post notes a Polymarket bot earned $252,234 in 130 days with only a 49.9% win rate. The author ran its real daily P&amp;L through Opus 5.5 and a Jev stack, showing 83 green days and more.</p>
+<p><strong>中文摘要：</strong>帖子提到一个 Polymarket 机器人在 130 天内赚取 25 万美元，胜率仅 49.9%。作者用 Opus 5.5 和 jev stack 复盘其每日盈亏，展示 83 个盈利日等结果。</p>
+<p><strong>Catcher of your mind</strong> · @Scratcherrrr · 2026-10-01T01:17:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 34</p>
+<p><a href="https://x.com/Scratcherrrr/status/2105467108117090740">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ForexDog1968/status/2105449595216314411"><img src="https://pbs.twimg.com/media/HTgOkmKagAEaWdO?format=jpg&amp;name=large" alt="Using Jev to Predict Forex Markets and Build a Profitable System · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForexDog1968/status/2105449595216314411">Using Jev to Predict Forex Markets and Build a Profitable System</a></h3>
+<p>The author starts using Jev and directs an AI agent to summarize its capabilities and check current learning status, aiming to verify if it can predict forex market movements and generate real profits.</p>
+<p><strong>中文摘要：</strong>作者开始使用Jev，并指示AI代理整理其功能、确认学习状况，以验证能否实现外汇市场涨跌预测和实际盈利。</p>
+<p><strong>フォレックス・ドッグ | AIノーコードEA量産 × 相場解説</strong> · @ForexDog1968 · 2026-10-01T00:07:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 316</p>
+<p><a href="https://x.com/ForexDog1968/status/2105449595216314411">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stas_sorokin_/status/2105374822104469811"><img src="https://pbs.twimg.com/amplify_video_thumb/2105310141453119488/img/B_1sjZ1Z6n6rza28.jpg" alt="Moving 52% of Jev API calls in a trading bot to a local 322M model · 原帖视频截图" width="100%"></a>

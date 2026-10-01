@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 49 | 15 | 34 | 82K |
+| 51 | 15 | 36 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RohanArun/status/2105492191703367711"><img src="https://pbs.twimg.com/media/HTgwf16WcAAWNrE?format=jpg&amp;name=medium" alt="Automate Blocking iMessage Spam &amp; Phishing with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RohanArun/status/2105492191703367711">Automate Blocking iMessage Spam &amp; Phishing with Jev</a></h3>
+<p>This post shows how to use a TypeSafe AI Jev or OpenRouter key to automatically block spam and phishing in iMessage, highlighting the open-source nature and recommending it for elderly parents.</p>
+<p><strong>中文摘要：</strong>该帖子介绍使用TypeSafe AI的Jev或OpenRouter密钥，在iMessage中自动阻止垃圾邮件和钓鱼信息，并强调开源，建议为年长父母安装。</p>
+<p><strong>Rohan Arun</strong> · @RohanArun · 2026-10-01T02:57:11.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 128</p>
+<p><a href="https://x.com/RohanArun/status/2105492191703367711">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/shapor/status/2105492173638742501"><img src="https://pbs.twimg.com/media/HTg1ugyaMAAb0Q8?format=jpg&amp;name=medium" alt="Jev Sentinel Project: Detecting Hugging Face Incident Payloads · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shapor/status/2105492173638742501">Jev Sentinel Project: Detecting Hugging Face Incident Payloads</a></h3>
+<p>A hackathon project Jev Sentinel sharing result data from 53,870 Hugging Face incident payloads (98.3% flagged). Note: not production code.</p>
+<p><strong>中文摘要：</strong>分享一个黑客松项目Jev Sentinel，包含53,870个Hugging Face incident payloads的检测结果数据（98.3%被标记）。注意这是演示项目，非生产代码。</p>
+<p><strong>Shapor Naghibzadeh</strong> · @shapor · 2026-10-01T02:57:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/shapor/status/2105492173638742501">在 X 查看原帖</a> · <a href="https://t.co/0tNXNzLhcv">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FSFG/status/2105458933980684677"><img src="https://pbs.twimg.com/media/HTgXvk0XMAA28fZ?format=png&amp;name=medium" alt="JEV as a Judge for Agent Trace Security: Empirical Comparison with Generative LLM Judges · 原帖图片" width="100%"></a>

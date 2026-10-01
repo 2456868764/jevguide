@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 447 | 235 | 214 | 3.6M |
+| 451 | 236 | 217 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Olli0103/status/2105491557671403690"><img src="https://pbs.twimg.com/media/HTg1aYdXsAIFMPa?format=jpg&amp;name=small" alt="Jev extension for Raycast is live · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Olli0103/status/2105491557671403690">Jev extension for Raycast is live</a></h3>
+<p>Run TypeSafe preset checks on selected text, handle file documents with undo protection, and search bookmarks by meaning.</p>
+<p><strong>中文摘要：</strong>在 Raycast 中运行 TypeSafe 预设检查、处理文件文档并支持按语义搜索书签。</p>
+<p><strong>Olli</strong> · @Olli0103 · 2026-10-01T02:54:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/Olli0103/status/2105491557671403690">在 X 查看原帖</a> · <a href="https://t.co/MRFk3aQd0h">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2105486617792430082"><img src="https://pbs.twimg.com/media/HTgw6ukbkAEhYvq?format=jpg&amp;name=large" alt="jev-mcp: Regex Prescreening + Model Selection for Field Extraction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2105486617792430082">jev-mcp: Regex Prescreening + Model Selection for Field Extraction</a></h3>
+<p>Introduces jev-mcp&#39;s field extraction approach: first use regex to identify candidates from the source text, then let the model choose among them, avoiding arbitrary plausible-looking values.</p>
+<p><strong>中文摘要：</strong>介绍 jev-mcp 的抽取字段思路：先通过正则圈出原文候选，再让模型从候选中选择，避免模型随意生成看似合理的值。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-10-01T02:35:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><a href="https://x.com/vintcessun/status/2105486617792430082">在 X 查看原帖</a> · <a href="https://t.co/XgoTGUNYw9">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/senamakel/status/2105486235007681009"><img src="https://pbs.twimg.com/amplify_video_thumb/2105485847596580864/img/4MzRL4n0-IWTvjpq.jpg" alt="OpenHuman Built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/senamakel/status/2105486235007681009">OpenHuman Built with Jev</a></h3>
+<p>A tweet comparing implementations, stating OpenHuman is built on Rust, has a smaller system prompt, uses Jev, and keeps costs low via token compression.</p>
+<p><strong>中文摘要：</strong>推文回应对比，称 OpenHuman 基于 Rust、系统提示更小，使用 Jev 并通过 token 压缩控制成本。</p>
+<p><strong>Steven Enamakel 🐥</strong> · @senamakel · 2026-10-01T02:33:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/senamakel/status/2105486235007681009">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Marcia_Ong/status/2105485750850695570"><img src="https://pbs.twimg.com/media/HTgwC5UaQAA4TlX?format=jpg&amp;name=medium" alt="Adding Jev to AI Bot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Marcia_Ong/status/2105485750850695570">Adding Jev to AI Bot</a></h3>
+<p>This user posted a short tweet indicating they are adding TypeSafe AI&#39;s Jev to their AI bot, demonstrating real-world integration of Jev.</p>
+<p><strong>中文摘要：</strong>该用户发布简短推文，表示正在将 TypeSafe AI 的 Jev 添加到自己的 AI 机器人中，展现了 Jev 在实际项目中的集成应用。</p>
+<p><strong>Marcia Ong</strong> · @Marcia_Ong · 2026-10-01T02:31:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Marcia_Ong/status/2105485750850695570">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4444</strong><br>curated posts</td>
-<td align="center"><strong>2306</strong><br>original videos</td>
+<td align="center"><strong>4471</strong><br>curated posts</td>
+<td align="center"><strong>2321</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>715</strong> showcases · <strong>290</strong> videos</p>
+<p><strong>722</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>457</strong> showcases · <strong>201</strong> videos</p>
+<p><strong>460</strong> showcases · <strong>202</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>447</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>451</strong> showcases · <strong>236</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>335</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>336</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>326</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>331</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>323</strong> showcases · <strong>246</strong> videos</p>
+<p><strong>324</strong> showcases · <strong>247</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>276</strong> showcases · <strong>106</strong> videos</p>
+<p><strong>277</strong> showcases · <strong>107</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>219</strong> showcases · <strong>119</strong> videos</p>
+<p><strong>221</strong> showcases · <strong>121</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>104</strong> showcases · <strong>80</strong> videos</p>
+<p><strong>105</strong> showcases · <strong>80</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>49</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>51</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/AutoTrustAI/status/2105478378581372970"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV: AutoTrust AI&#39;s System 1 Family for Agents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AutoTrustAI/status/2105478378581372970">JEV: AutoTrust AI&#39;s System 1 Family for Agents</a></h3>
-<p>AutoTrust AI presents JEV, a System 1 family for agents. Instead of generating a paragraph before every small action, JEV outputs calibrated probabilities for yes/no, 2–16-way choice, and 0–5 scoring, enabling fast decisions.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
-<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/KarnikShreyas/status/2105495230938243353"><img src="https://pbs.twimg.com/media/HTg3hDFa4AA1Agf?format=jpg&amp;name=medium" alt="OneJev-0.8B: Open System One-style Model Running in Browser · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KarnikShreyas/status/2105495230938243353">OneJev-0.8B: Open System One-style Model Running in Browser</a></h3>
+<p>Shreyas Karnik demonstrates OneJev-0.8B, an open System One-style model that reads images and runs locally in your browser via WebGPU, making decisions like whether an invoice is paid (98% confidence).</p>
+<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Shreyas Karnik</strong> · @KarnikShreyas</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/TeksEdge/status/2105477808474476999"><img src="https://pbs.twimg.com/media/HTfAhjdbMAA_hkk?format=png&amp;name=small" alt="Jev Faces New Competitor: Liquid d1 Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TeksEdge/status/2105477808474476999">Jev Faces New Competitor: Liquid d1 Decision Model</a></h3>
-<p>Liquid&#39;s new d1 decision model reportedly scores 58.9 on their reproduction of Hugging Face&#39;s Decision Index, surpassing Jev 1.13&#39;s 57.9, and generates 0 output tokens like Jev. However, Localmaxxers can&#39;t download it yet.</p>
-<p><strong>92</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 92</p>
-<p><strong>David Hendrickson</strong> · @TeksEdge</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/dan_pro_man/status/2105494360309841985"><img src="https://pbs.twimg.com/amplify_video_thumb/2105494193397518336/img/-X70Nus1tIfCpF25.jpg" alt="Practical Jev Guide: 10 Examples + Claude Code Prompts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dan_pro_man/status/2105494360309841985">Practical Jev Guide: 10 Examples + Claude Code Prompts</a></h3>
+<p>The author shares an article on practically using Jev, with 10 division examples and a ready-to-paste prompt for Claude Code to help users get started quickly.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>だん｜AI×クラウドエンジニア</strong> · @dan_pro_man</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/faisalahammadwp/status/2105477807165816952"><img src="https://pbs.twimg.com/media/HTfqv97bgAAQ63F?format=jpg&amp;name=medium" alt="Drex 1.5: A Free JEV Alternative Launched · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/faisalahammadwp/status/2105477807165816952">Drex 1.5: A Free JEV Alternative Launched</a></h3>
-<p>Drex 1.5 is a fast decision model with a 128K context window, sub-second speed, and 250M free tokens for new users as a JEV alternative.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Faisal Ahammad</strong> · @faisalahammadwp</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/kur/status/2105493043965202862"><img src="https://pbs.twimg.com/amplify_video_thumb/2105492914197741568/img/8YurY6j5hmILGMxZ.jpg" alt="Prototype: Inferring Website User Context with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kur/status/2105493043965202862">Prototype: Inferring Website User Context with Jev</a></h3>
+<p>The post describes a prototype that collects user behavior on a website and uses the Jev model to infer the user&#39;s current context, demonstrating a practical application of Jev.</p>
+<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
+<p><strong>木浦 幹雄 / KIURA Mikio @ANKR DESIGN</strong> · @kur</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jon_mellon/status/2105476932817023243">Codex ignored the 0-cost Jev call rule without asking</a></h3>
-<p>Jon Mellon notes that while 18 cents is minor, Codex ignored a rule about 0-cost Jev calls and should have asked first.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>Jon Mellon</strong> · @jon_mellon</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/sahilvermaai/status/2105492732235931664"><img src="https://pbs.twimg.com/amplify_video_thumb/2104298328989347840/img/5z7xzBAkeF_Hor1j.jpg" alt="TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sahilvermaai/status/2105492732235931664">TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision</a></h3>
+<p>TypeSafe&#39;s Jev model plays Minecraft at roughly 24ms per decision, achieving up to 40 decisions per second on a single NVIDIA B200.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Sahil Verma</strong> · @sahilvermaai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/AutoTrustAI/status/2105478378581372970"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV: AutoTrust AI&#39;s System 1 Family for Agents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AutoTrustAI/status/2105478378581372970">JEV: AutoTrust AI&#39;s System 1 Family for Agents</a></h3>
-<p>AutoTrust AI presents JEV, a System 1 family for agents. Instead of generating a paragraph before every small action, JEV outputs calibrated probabilities for yes/no, 2–16-way choice, and 0–5 scoring, enabling fast decisions.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
-<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/KarnikShreyas/status/2105495230938243353"><img src="https://pbs.twimg.com/media/HTg3hDFa4AA1Agf?format=jpg&amp;name=medium" alt="OneJev-0.8B: Open System One-style Model Running in Browser · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KarnikShreyas/status/2105495230938243353">OneJev-0.8B: Open System One-style Model Running in Browser</a></h3>
+<p>Shreyas Karnik demonstrates OneJev-0.8B, an open System One-style model that reads images and runs locally in your browser via WebGPU, making decisions like whether an invoice is paid (98% confidence).</p>
+<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Shreyas Karnik</strong> · @KarnikShreyas</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/jon_mellon/status/2105476932817023243"><img src="https://pbs.twimg.com/media/HTgoHIsXEAEfOx6?format=jpg&amp;name=medium" alt="Codex ignored the 0-cost Jev call rule without asking · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jon_mellon/status/2105476932817023243">Codex ignored the 0-cost Jev call rule without asking</a></h3>
-<p>Jon Mellon notes that while 18 cents is minor, Codex ignored a rule about 0-cost Jev calls and should have asked first.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>Jon Mellon</strong> · @jon_mellon</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/sahilvermaai/status/2105492732235931664"><img src="https://pbs.twimg.com/amplify_video_thumb/2104298328989347840/img/5z7xzBAkeF_Hor1j.jpg" alt="TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sahilvermaai/status/2105492732235931664">TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision</a></h3>
+<p>TypeSafe&#39;s Jev model plays Minecraft at roughly 24ms per decision, achieving up to 40 decisions per second on a single NVIDIA B200.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Sahil Verma</strong> · @sahilvermaai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/AutoTrustAI/status/2105476755796754470"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475932287037440/img/ryK0FxWudofX84Sg.jpg" alt="JEV-27B-VL Real-Time Tetris Decision Demo · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AutoTrustAI/status/2105476755796754470">JEV-27B-VL Real-Time Tetris Decision Demo</a></h3>
-<p>JEV-27B-VL reads the board, evaluates candidate placements and orientations, assigns probabilities to each action, and chooses the next move as the game accelerates, clearing 20/20 lines.</p>
-<p><strong>18</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 18</p>
-<p><strong>AutoTrust</strong> · @AutoTrustAI</p>
+<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/RohanArun/status/2105492191703367711"><img src="https://pbs.twimg.com/media/HTgwf16WcAAWNrE?format=jpg&amp;name=medium" alt="Automate Blocking iMessage Spam &amp; Phishing with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RohanArun/status/2105492191703367711">Automate Blocking iMessage Spam &amp; Phishing with Jev</a></h3>
+<p>This post shows how to use a TypeSafe AI Jev or OpenRouter key to automatically block spam and phishing in iMessage, highlighting the open-source nature and recommending it for elderly parents.</p>
+<p><strong>128</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 128</p>
+<p><strong>Rohan Arun</strong> · @RohanArun</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>电商</code> <code>原帖图片</code></p>
-<a href="https://x.com/ResearchTamasan/status/2105471220221432059"><img src="https://pbs.twimg.com/media/HTgitjIaoAALH-a?format=jpg&amp;name=medium" alt="Tried ordering on Amazon using Codex and Jev&#39;s browser operation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ResearchTamasan/status/2105471220221432059">Tried ordering on Amazon using Codex and Jev&#39;s browser operation</a></h3>
-<p>A user shares their first experience using Codex and Jev&#39;s browser operation feature to place an order on Amazon, describing it as fast and accurate.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>小串珠美(たま｜AI活用コーチ)</strong> · @ResearchTamasan</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/vintcessun/status/2105486617792430082"><img src="https://pbs.twimg.com/media/HTgw6ukbkAEhYvq?format=jpg&amp;name=large" alt="jev-mcp: Regex Prescreening + Model Selection for Field Extraction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vintcessun/status/2105486617792430082">jev-mcp: Regex Prescreening + Model Selection for Field Extraction</a></h3>
+<p>Introduces jev-mcp&#39;s field extraction approach: first use regex to identify candidates from the source text, then let the model choose among them, avoiding arbitrary plausible-looking values.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><strong>恒星sun</strong> · @vintcessun</p>
 </td>
 </tr>
 </table>

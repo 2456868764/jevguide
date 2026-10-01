@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 219 | 119 | 102 | 1.2M |
+| 221 | 121 | 102 | 1.2M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>フォレックス・ドッグ | AIノーコードEA量産 × 相場解説</strong> · @ForexDog1968 · 2026-10-01T00:07:55.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 316</p>
 <p><a href="https://x.com/ForexDog1968/status/2105449595216314411">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/milesdeutscher/status/2105434784139014552"><img src="https://pbs.twimg.com/amplify_video_thumb/2105434769328889856/img/eGcKplRZki394hno.jpg" alt="Trading with a Jev-Powered Newsroom · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/milesdeutscher/status/2105434784139014552">Trading with a Jev-Powered Newsroom</a></h3>
+<p>The author showcases a Jev-based &quot;newsroom&quot; use case: it monitors breaking headlines in real time, lets Jev classify them as bullish or bearish, and assigns a trade confidence score to extract a market edge from news trading.</p>
+<p><strong>中文摘要：</strong>作者展示了一个基于Jev的“新闻编辑室”用例：实时监控突发头条，由Jev判断消息偏多或偏空，并给出交易置信度评分，用于从新闻交易中提取市场优势。</p>
+<p><strong>Miles Deutscher</strong> · @milesdeutscher · 2026-09-30T23:09:04.000Z</p>
+<p>💬 11 &nbsp; 🔁 5 &nbsp; ♡ 53 &nbsp; 📊 20K</p>
+<p><a href="https://x.com/milesdeutscher/status/2105434784139014552">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DaDw26/status/2105431707843461454"><img src="https://pbs.twimg.com/amplify_video_thumb/2105431623395061760/img/nycrXfYwGAhsGV54.jpg" alt="Testing trading strategies with Jev on OANDA and Coinbase sandbox · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DaDw26/status/2105431707843461454">Testing trading strategies with Jev on OANDA and Coinbase sandbox</a></h3>
+<p>A developer uses Claude Opus 5.5 and TypeSafe&#39;s Jev model to test multiple trading strategies with a swarm of 100+ bots in OANDA and Coinbase sandbox environments.</p>
+<p><strong>中文摘要：</strong>开发者使用Claude Opus 5.5和TypeSafe的Jev模型，在OANDA和Coinbase沙盒环境中，通过由100多个机器人组成的群体测试多种交易策略。</p>
+<p><strong>DaLlama</strong> · @DaDw26 · 2026-09-30T22:56:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/DaDw26/status/2105431707843461454">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

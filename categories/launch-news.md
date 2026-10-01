@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 331 | 160 | 174 | 1.1M |
+| 333 | 162 | 174 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RealSTAuthor/status/2105504450114941029"><img src="https://pbs.twimg.com/amplify_video_thumb/2105503989135761408/img/7d7S5pn9iqKcLNNd.jpg" alt="Jev 1.13 Release: Local CPU vs Hosted API Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RealSTAuthor/status/2105504450114941029">Jev 1.13 Release: Local CPU vs Hosted API Benchmark</a></h3>
+<p>Official X post announces Jev 1.13 is available on the Microsoft Store. Includes Tetris Bench measurements comparing a local CPU classifier with Jev 1.13 hosted API (network included) under the same seed in real time, with specific IQ scores and source details.</p>
+<p><strong>中文摘要：</strong>官方X帖子宣布Jev 1.13在Microsoft Store上可用。提供了Tetris Bench测量的结果，展示了同类分类器（本地CPU）与Jev 1.13（托管API，含网络）在同一随机种子下的实时对比性能，并附有具体IQ分数和详情来源。</p>
+<p><strong>Shawn Taylor 🇺🇸🇦🇺</strong> · @RealSTAuthor · 2026-10-01T03:45:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
+<p><a href="https://x.com/RealSTAuthor/status/2105504450114941029">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iam4x/status/2105498847908917306"><img src="https://pbs.twimg.com/amplify_video_thumb/2105498017906270209/img/CQbO3moN5mSWmcpQ.jpg" alt="TypeSafe Jev Next Steps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iam4x/status/2105498847908917306">TypeSafe Jev Next Steps</a></h3>
+<p>Next steps for TypeSafe Jev include further refining macro ranking and enabling automated strategies.</p>
+<p><strong>中文摘要：</strong>TypeSafe Jev 的下一步计划包括进一步优化宏观排名和启用自动化策略。</p>
+<p><strong>iam4x ~ proliquid.xyz</strong> · @iam4x · 2026-10-01T03:23:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 529</p>
+<p><a href="https://x.com/iam4x/status/2105498847908917306">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KarnikShreyas/status/2105495230938243353"><img src="https://pbs.twimg.com/media/HTg3hDFa4AA1Agf?format=jpg&amp;name=medium" alt="OneJev-0.8B: Open System One-style Model Running in Browser · 原帖图片" width="100%"></a>

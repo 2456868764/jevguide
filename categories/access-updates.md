@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 360 | 148 | 212 | 802K |
+| 362 | 149 | 213 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Garyumaru/status/2105508749515645285"><img src="https://pbs.twimg.com/media/HThE2JgasAAn5ir?format=jpg&amp;name=medium" alt="RudisFlow is testing Jev support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Garyumaru/status/2105508749515645285">RudisFlow is testing Jev support</a></h3>
+<p>Garyumaru shares RudisFlow progress: test functionality was significantly revised and now passes as expected, currently testing with models like codex, claude, and agy, with a hint that Jev support may be secretly included.</p>
+<p><strong>中文摘要：</strong>牙龍丸分享 RudisFlow 的进展：大幅改进测试功能并已通过预期测试，正在切换 codex、claude、agy 等模型进行测试，还暗示可能偷偷支持了 Jev。</p>
+<p><strong>牙龍丸（がりゅうまる）</strong> · @Garyumaru · 2026-10-01T04:02:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/Garyumaru/status/2105508749515645285">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SinghalPratul/status/2105499875106525564"><img src="https://pbs.twimg.com/amplify_video_thumb/2105148364274995200/img/JeWi_6c-GQgEeM9e.jpg" alt="Ollama now runs Jev-like decision models locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SinghalPratul/status/2105499875106525564">Ollama now runs Jev-like decision models locally</a></h3>
+<p>The post states that Ollama now supports running Jev-like decision models locally via `ollama pull nimble` for ticket triage and content moderation, emphasizing that the router, not the chatbot, is moving on-device first.</p>
+<p><strong>中文摘要：</strong>帖子称 Ollama 现已支持本地运行类似 Jev 的决策模型，通过 `ollama pull nimble` 实现工单分类与内容审核，并强调率先本地化的是路由模型而非聊天机器人。</p>
+<p><strong>Pratul Singhal</strong> · @SinghalPratul · 2026-10-01T03:27:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/SinghalPratul/status/2105499875106525564">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DataArchitectHK/status/2105471398680654107"><img src="https://pbs.twimg.com/tweet_video_thumb/HTftk62aAAA_3By.jpg" alt="Jev-like AI Function Now Available in Databricks · 原帖视频截图" width="100%"></a>

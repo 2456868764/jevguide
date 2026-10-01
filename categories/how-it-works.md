@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 460 | 202 | 259 | 1.6M |
+| 462 | 203 | 260 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HSendible/status/2105503652458762366"><img src="https://pbs.twimg.com/media/HThAagvWUAAcG5G?format=jpg&amp;name=medium" alt="OpenAI&#39;s Jev clone confirms the importance of fast, cheap intelligence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HSendible/status/2105503652458762366">OpenAI&#39;s Jev clone confirms the importance of fast, cheap intelligence</a></h3>
+<p>The post observes that OpenAI&#39;s Decisions API is a Jev clone, validating the importance of the fast, low-cost intelligence approach represented by Jev.</p>
+<p><strong>中文摘要：</strong>帖子指出OpenAI的Decisions API是Jev模型的克隆，这验证了Jev所代表的快速、低成本智能方向的重要性。</p>
+<p><strong>hkc_sendible</strong> · @HSendible · 2026-10-01T03:42:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/HSendible/status/2105503652458762366">在 X 查看原帖</a> · <a href="https://t.co/oboVTNWIu6">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/flyuniqueee/status/2105498314066243850"><img src="https://pbs.twimg.com/amplify_video_thumb/2105492404409409536/img/JpFi1v1KWGr1lD-9.jpg" alt="How Jev Smartly Switches Conversation Topics · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/flyuniqueee/status/2105498314066243850">How Jev Smartly Switches Conversation Topics</a></h3>
+<p>A user observes Jev deciding in real time as you type: stay on the current topic, jump back to an earlier one, or start a new one—using only the outline and current context, not the full history.</p>
+<p><strong>中文摘要：</strong>用户观察到 Jev 在输入时实时判断：继续当前话题、跳回早前话题或开始新话题，无需完整历史，仅需大纲与当前上下文。</p>
+<p><strong>Mike Que</strong> · @flyuniqueee · 2026-10-01T03:21:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/flyuniqueee/status/2105498314066243850">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Akki_AI7/status/2105490791091339526"><img src="https://pbs.twimg.com/media/HTg0trsboAAuFHK?format=png&amp;name=medium" alt="OpenAI Decisions API vs Jev: A Comparison of Decision-Making AI · 原帖图片" width="100%"></a>

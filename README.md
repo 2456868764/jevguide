@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4471</strong><br>curated posts</td>
-<td align="center"><strong>2321</strong><br>original videos</td>
+<td align="center"><strong>4486</strong><br>curated posts</td>
+<td align="center"><strong>2332</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>722</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>725</strong> showcases · <strong>299</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>460</strong> showcases · <strong>202</strong> videos</p>
+<p><strong>462</strong> showcases · <strong>203</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>360</strong> showcases · <strong>148</strong> videos</p>
+<p><strong>362</strong> showcases · <strong>149</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>336</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>339</strong> showcases · <strong>194</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>331</strong> showcases · <strong>160</strong> videos</p>
+<p><strong>333</strong> showcases · <strong>162</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>324</strong> showcases · <strong>247</strong> videos</p>
+<p><strong>327</strong> showcases · <strong>250</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/KarnikShreyas/status/2105495230938243353"><img src="https://pbs.twimg.com/media/HTg3hDFa4AA1Agf?format=jpg&amp;name=medium" alt="OneJev-0.8B: Open System One-style Model Running in Browser · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KarnikShreyas/status/2105495230938243353">OneJev-0.8B: Open System One-style Model Running in Browser</a></h3>
-<p>Shreyas Karnik demonstrates OneJev-0.8B, an open System One-style model that reads images and runs locally in your browser via WebGPU, making decisions like whether an invoice is paid (98% confidence).</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Shreyas Karnik</strong> · @KarnikShreyas</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/Garyumaru/status/2105508749515645285"><img src="https://pbs.twimg.com/media/HThE2JgasAAn5ir?format=jpg&amp;name=medium" alt="RudisFlow is testing Jev support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Garyumaru/status/2105508749515645285">RudisFlow is testing Jev support</a></h3>
+<p>Garyumaru shares RudisFlow progress: test functionality was significantly revised and now passes as expected, currently testing with models like codex, claude, and agy, with a hint that Jev support may be secretly included.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>牙龍丸（がりゅうまる）</strong> · @Garyumaru</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/dan_pro_man/status/2105494360309841985"><img src="https://pbs.twimg.com/amplify_video_thumb/2105494193397518336/img/-X70Nus1tIfCpF25.jpg" alt="Practical Jev Guide: 10 Examples + Claude Code Prompts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dan_pro_man/status/2105494360309841985">Practical Jev Guide: 10 Examples + Claude Code Prompts</a></h3>
-<p>The author shares an article on practically using Jev, with 10 division examples and a ready-to-paste prompt for Claude Code to help users get started quickly.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>だん｜AI×クラウドエンジニア</strong> · @dan_pro_man</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/RealSTAuthor/status/2105507835912331273"><img src="https://pbs.twimg.com/amplify_video_thumb/2105507779368849408/img/IPjUxQYmSFcfKITi.jpg" alt="Jev 1.13 Speed Comparison on Tetris · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RealSTAuthor/status/2105507835912331273">Jev 1.13 Speed Comparison on Tetris</a></h3>
+<p>The author compares Jev 1.13 against another classifier on the same Tetris seed, measuring end-to-end performance across local CPU (numbers mode) and hosted API, emphasizing inference speed.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Shawn Taylor 🇺🇸🇦🇺</strong> · @RealSTAuthor</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/kur/status/2105493043965202862"><img src="https://pbs.twimg.com/amplify_video_thumb/2105492914197741568/img/8YurY6j5hmILGMxZ.jpg" alt="Prototype: Inferring Website User Context with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kur/status/2105493043965202862">Prototype: Inferring Website User Context with Jev</a></h3>
-<p>The post describes a prototype that collects user behavior on a website and uses the Jev model to infer the user&#39;s current context, demonstrating a practical application of Jev.</p>
-<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
-<p><strong>木浦 幹雄 / KIURA Mikio @ANKR DESIGN</strong> · @kur</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/kaki_oyaji/status/2105507436153237842"><img src="https://pbs.twimg.com/amplify_video_thumb/2105507285187600384/img/FwOj9uMUFmGYf3Fe.jpg" alt="Managing session context with Jev to reduce token usage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kaki_oyaji/status/2105507436153237842">Managing session context with Jev to reduce token usage</a></h3>
+<p>A user shares how they use Jev to keep per-session records, self-compact sessions before they get heavy, and reuse context, greatly reducing token consumption and avoiding session sprawl while making each session an efficient working persona.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>中川 悟 | 5卓の牡蠣屋🦪</strong> · @kaki_oyaji</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/sahilvermaai/status/2105492732235931664"><img src="https://pbs.twimg.com/amplify_video_thumb/2104298328989347840/img/5z7xzBAkeF_Hor1j.jpg" alt="TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sahilvermaai/status/2105492732235931664">TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision</a></h3>
-<p>TypeSafe&#39;s Jev model plays Minecraft at roughly 24ms per decision, achieving up to 40 decisions per second on a single NVIDIA B200.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Sahil Verma</strong> · @sahilvermaai</p>
+<a href="https://x.com/somkiat/status/2105506779044147625"><img src="https://pbs.twimg.com/amplify_video_thumb/2105506711952052224/img/klCET423l-5bPQeN.jpg" alt="Play Chrome Dino Game with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/somkiat/status/2105506779044147625">Play Chrome Dino Game with Jev</a></h3>
+<p>This post shows an example of using Jev with NodeJS and Chrome DevTools Protocol to automatically play the Chrome dinosaur game.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>UP1</strong> · @somkiat</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/KarnikShreyas/status/2105495230938243353"><img src="https://pbs.twimg.com/media/HTg3hDFa4AA1Agf?format=jpg&amp;name=medium" alt="OneJev-0.8B: Open System One-style Model Running in Browser · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KarnikShreyas/status/2105495230938243353">OneJev-0.8B: Open System One-style Model Running in Browser</a></h3>
-<p>Shreyas Karnik demonstrates OneJev-0.8B, an open System One-style model that reads images and runs locally in your browser via WebGPU, making decisions like whether an invoice is paid (98% confidence).</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Shreyas Karnik</strong> · @KarnikShreyas</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/Garyumaru/status/2105508749515645285"><img src="https://pbs.twimg.com/media/HThE2JgasAAn5ir?format=jpg&amp;name=medium" alt="RudisFlow is testing Jev support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Garyumaru/status/2105508749515645285">RudisFlow is testing Jev support</a></h3>
+<p>Garyumaru shares RudisFlow progress: test functionality was significantly revised and now passes as expected, currently testing with models like codex, claude, and agy, with a hint that Jev support may be secretly included.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>牙龍丸（がりゅうまる）</strong> · @Garyumaru</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/sahilvermaai/status/2105492732235931664"><img src="https://pbs.twimg.com/amplify_video_thumb/2104298328989347840/img/5z7xzBAkeF_Hor1j.jpg" alt="TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sahilvermaai/status/2105492732235931664">TypeSafe&#39;s Jev model plays Minecraft at ~24ms per decision</a></h3>
-<p>TypeSafe&#39;s Jev model plays Minecraft at roughly 24ms per decision, achieving up to 40 decisions per second on a single NVIDIA B200.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Sahil Verma</strong> · @sahilvermaai</p>
+<a href="https://x.com/somkiat/status/2105506779044147625"><img src="https://pbs.twimg.com/amplify_video_thumb/2105506711952052224/img/klCET423l-5bPQeN.jpg" alt="Play Chrome Dino Game with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/somkiat/status/2105506779044147625">Play Chrome Dino Game with Jev</a></h3>
+<p>This post shows an example of using Jev with NodeJS and Chrome DevTools Protocol to automatically play the Chrome dinosaur game.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>UP1</strong> · @somkiat</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/RohanArun/status/2105492191703367711"><img src="https://pbs.twimg.com/media/HTgwf16WcAAWNrE?format=jpg&amp;name=medium" alt="Automate Blocking iMessage Spam &amp; Phishing with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RohanArun/status/2105492191703367711">Automate Blocking iMessage Spam &amp; Phishing with Jev</a></h3>
-<p>This post shows how to use a TypeSafe AI Jev or OpenRouter key to automatically block spam and phishing in iMessage, highlighting the open-source nature and recommending it for elderly parents.</p>
-<p><strong>128</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 128</p>
-<p><strong>Rohan Arun</strong> · @RohanArun</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/tinyhumansai/status/2105504751417020505"><img src="https://pbs.twimg.com/amplify_video_thumb/2105504625491410944/img/nFJdtLefzwF3-blL.jpg" alt="OpenHuman uses Jev to cut costs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tinyhumansai/status/2105504751417020505">OpenHuman uses Jev to cut costs</a></h3>
+<p>TinyHumans AI shares openhuman: built on Rust, using a smaller system prompt, leveraging Jev (TypeSafe AI) and smart token compression to keep costs low.</p>
+<p><strong>177</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 177</p>
+<p><strong>TinyHumans AI</strong> · @tinyhumansai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/vintcessun/status/2105486617792430082"><img src="https://pbs.twimg.com/media/HTgw6ukbkAEhYvq?format=jpg&amp;name=large" alt="jev-mcp: Regex Prescreening + Model Selection for Field Extraction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vintcessun/status/2105486617792430082">jev-mcp: Regex Prescreening + Model Selection for Field Extraction</a></h3>
-<p>Introduces jev-mcp&#39;s field extraction approach: first use regex to identify candidates from the source text, then let the model choose among them, avoiding arbitrary plausible-looking values.</p>
-<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
-<p><strong>恒星sun</strong> · @vintcessun</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/gmathis1995/status/2105499777005666769"><img src="https://pbs.twimg.com/media/HTg7RiHXUAAaeu4?format=jpg&amp;name=medium" alt="Building a Jarvis assistant with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gmathis1995/status/2105499777005666769">Building a Jarvis assistant with Jev</a></h3>
+<p>Gary Mathis shares his work on a real-life Jarvis assistant that combines Jev, ChatGPT, Claude, and DeepSeek, leveraging each model&#39;s strengths, with built-in fully automated capabilities similar to GrokBot.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>Gary Mathis</strong> · @gmathis1995</p>
 </td>
 </tr>
 </table>

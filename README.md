@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4486</strong><br>curated posts</td>
-<td align="center"><strong>2332</strong><br>original videos</td>
+<td align="center"><strong>4514</strong><br>curated posts</td>
+<td align="center"><strong>2348</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>725</strong> showcases · <strong>299</strong> videos</p>
+<p><strong>733</strong> showcases · <strong>301</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>462</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>465</strong> showcases · <strong>205</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>451</strong> showcases · <strong>236</strong> videos</p>
+<p><strong>454</strong> showcases · <strong>236</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>339</strong> showcases · <strong>194</strong> videos</p>
+<p><strong>341</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>333</strong> showcases · <strong>162</strong> videos</p>
+<p><strong>335</strong> showcases · <strong>164</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>327</strong> showcases · <strong>250</strong> videos</p>
+<p><strong>328</strong> showcases · <strong>251</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>277</strong> showcases · <strong>107</strong> videos</p>
+<p><strong>279</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>221</strong> showcases · <strong>121</strong> videos</p>
+<p><strong>222</strong> showcases · <strong>122</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>194</strong> showcases · <strong>130</strong> videos</p>
+<p><strong>196</strong> showcases · <strong>132</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>126</strong> showcases · <strong>94</strong> videos</p>
+<p><strong>127</strong> showcases · <strong>95</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>47</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>48</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>33</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>34</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>17</strong> showcases · <strong>6</strong> videos</p>
+<p><strong>18</strong> showcases · <strong>6</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/Garyumaru/status/2105508749515645285"><img src="https://pbs.twimg.com/media/HThE2JgasAAn5ir?format=jpg&amp;name=medium" alt="RudisFlow is testing Jev support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Garyumaru/status/2105508749515645285">RudisFlow is testing Jev support</a></h3>
-<p>Garyumaru shares RudisFlow progress: test functionality was significantly revised and now passes as expected, currently testing with models like codex, claude, and agy, with a hint that Jev support may be secretly included.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>牙龍丸（がりゅうまる）</strong> · @Garyumaru</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/scriptable/status/2105596729588408718"><img src="https://pbs.twimg.com/media/HTiVESGWcAAsBYP?format=jpg&amp;name=900x900" alt="Jev System vs Speech Recognition Grammars · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/scriptable/status/2105596729588408718">Jev System vs Speech Recognition Grammars</a></h3>
+<p>The post compares speech recognition grammars for context menu items with System One (Jev/Laya) models, exploring Jev&#39;s performance in similar scenarios.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>scriptable</strong> · @scriptable</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/RealSTAuthor/status/2105507835912331273"><img src="https://pbs.twimg.com/amplify_video_thumb/2105507779368849408/img/IPjUxQYmSFcfKITi.jpg" alt="Jev 1.13 Speed Comparison on Tetris · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RealSTAuthor/status/2105507835912331273">Jev 1.13 Speed Comparison on Tetris</a></h3>
-<p>The author compares Jev 1.13 against another classifier on the same Tetris seed, measuring end-to-end performance across local CPU (numbers mode) and hosted API, emphasizing inference speed.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Shawn Taylor 🇺🇸🇦🇺</strong> · @RealSTAuthor</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/polydao/status/2105596331934785999"><img src="https://pbs.twimg.com/amplify_video_thumb/2105468660118646785/img/70Av3tBfn7w4c6Qn.jpg" alt="9 Jobs Where Jev Engineering Replaces Pricey LLM Calls · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/polydao/status/2105596331934785999">9 Jobs Where Jev Engineering Replaces Pricey LLM Calls</a></h3>
+<p>Jev, TypeSafe AI&#39;s first System One model, is 100x faster and cheaper, replacing expensive LLM calls like Claude across 9 job functions.</p>
+<p><strong>75</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 75</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/kaki_oyaji/status/2105507436153237842"><img src="https://pbs.twimg.com/amplify_video_thumb/2105507285187600384/img/FwOj9uMUFmGYf3Fe.jpg" alt="Managing session context with Jev to reduce token usage · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kaki_oyaji/status/2105507436153237842">Managing session context with Jev to reduce token usage</a></h3>
-<p>A user shares how they use Jev to keep per-session records, self-compact sessions before they get heavy, and reuse context, greatly reducing token consumption and avoiding session sprawl while making each session an efficient working persona.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>中川 悟 | 5卓の牡蠣屋🦪</strong> · @kaki_oyaji</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/Yel0_22G/status/2105595917457883506"><img src="https://pbs.twimg.com/amplify_video_thumb/2105595806321700864/img/b5fDEfWo5XbkHlmY.jpg" alt="Jev-powered Grok bots achieve 100x returns in 10 nights · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Yel0_22G/status/2105595917457883506">Jev-powered Grok bots achieve 100x returns in 10 nights</a></h3>
+<p>User shares experience of using Jev for coin selection and Grok bots for automated trading, turning $1,000 into $101,607 in 10 nights.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>0xToji</strong> · @Yel0_22G</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/somkiat/status/2105506779044147625"><img src="https://pbs.twimg.com/amplify_video_thumb/2105506711952052224/img/klCET423l-5bPQeN.jpg" alt="Play Chrome Dino Game with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/somkiat/status/2105506779044147625">Play Chrome Dino Game with Jev</a></h3>
-<p>This post shows an example of using Jev with NodeJS and Chrome DevTools Protocol to automatically play the Chrome dinosaur game.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
-<p><strong>UP1</strong> · @somkiat</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/juliechoi/status/2105595351881359496"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev gains community traction, regularly trending on Hacker News · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/juliechoi/status/2105595351881359496">Jev gains community traction, regularly trending on Hacker News</a></h3>
+<p>Julie Shin Choi says Jev is legit, her favorite nerds use it daily, and it trends regularly on Hacker News. She also mentions creator @CompleteSkeptic and points to @latentspacepod and @swyx.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Julie Shin Choi (she/her)</strong> · @juliechoi</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/Garyumaru/status/2105508749515645285"><img src="https://pbs.twimg.com/media/HThE2JgasAAn5ir?format=jpg&amp;name=medium" alt="RudisFlow is testing Jev support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Garyumaru/status/2105508749515645285">RudisFlow is testing Jev support</a></h3>
-<p>Garyumaru shares RudisFlow progress: test functionality was significantly revised and now passes as expected, currently testing with models like codex, claude, and agy, with a hint that Jev support may be secretly included.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>牙龍丸（がりゅうまる）</strong> · @Garyumaru</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/scriptable/status/2105596729588408718"><img src="https://pbs.twimg.com/media/HTiVESGWcAAsBYP?format=jpg&amp;name=900x900" alt="Jev System vs Speech Recognition Grammars · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/scriptable/status/2105596729588408718">Jev System vs Speech Recognition Grammars</a></h3>
+<p>The post compares speech recognition grammars for context menu items with System One (Jev/Laya) models, exploring Jev&#39;s performance in similar scenarios.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>scriptable</strong> · @scriptable</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/somkiat/status/2105506779044147625"><img src="https://pbs.twimg.com/amplify_video_thumb/2105506711952052224/img/klCET423l-5bPQeN.jpg" alt="Play Chrome Dino Game with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/somkiat/status/2105506779044147625">Play Chrome Dino Game with Jev</a></h3>
-<p>This post shows an example of using Jev with NodeJS and Chrome DevTools Protocol to automatically play the Chrome dinosaur game.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
-<p><strong>UP1</strong> · @somkiat</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/juliechoi/status/2105595351881359496"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev gains community traction, regularly trending on Hacker News · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/juliechoi/status/2105595351881359496">Jev gains community traction, regularly trending on Hacker News</a></h3>
+<p>Julie Shin Choi says Jev is legit, her favorite nerds use it daily, and it trends regularly on Hacker News. She also mentions creator @CompleteSkeptic and points to @latentspacepod and @swyx.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Julie Shin Choi (she/her)</strong> · @juliechoi</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/tinyhumansai/status/2105504751417020505"><img src="https://pbs.twimg.com/amplify_video_thumb/2105504625491410944/img/nFJdtLefzwF3-blL.jpg" alt="OpenHuman uses Jev to cut costs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tinyhumansai/status/2105504751417020505">OpenHuman uses Jev to cut costs</a></h3>
-<p>TinyHumans AI shares openhuman: built on Rust, using a smaller system prompt, leveraging Jev (TypeSafe AI) and smart token compression to keep costs low.</p>
-<p><strong>177</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 177</p>
-<p><strong>TinyHumans AI</strong> · @tinyhumansai</p>
+<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
+<a href="https://x.com/p_trawka/status/2105595173887750404"><img src="https://pbs.twimg.com/amplify_video_thumb/2105594548051136512/img/olg7EVWhiK8hcww2.jpg" alt="Trying Jev Extension for Quick Article Screening · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/p_trawka/status/2105595173887750404">Trying Jev Extension for Quick Article Screening</a></h3>
+<p>Peter Trawka shares his experience trying Jev from TypeSafe AI, using an upgraded Chrome extension to instantly determine if a long article is worth reading.</p>
+<p><strong>10</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Peter Trawka</strong> · @p_trawka</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/gmathis1995/status/2105499777005666769"><img src="https://pbs.twimg.com/media/HTg7RiHXUAAaeu4?format=jpg&amp;name=medium" alt="Building a Jarvis assistant with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gmathis1995/status/2105499777005666769">Building a Jarvis assistant with Jev</a></h3>
-<p>Gary Mathis shares his work on a real-life Jarvis assistant that combines Jev, ChatGPT, Claude, and DeepSeek, leveraging each model&#39;s strengths, with built-in fully automated capabilities similar to GrokBot.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>Gary Mathis</strong> · @gmathis1995</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/therceman/status/2105590410102132974"><img src="https://pbs.twimg.com/media/HTiPUIsWcAADt1u?format=jpg&amp;name=medium" alt="Jev Still Leads in Fast Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/therceman/status/2105590410102132974">Jev Still Leads in Fast Decisions</a></h3>
+<p>A user posts that Jev remains ahead in fast decision-making, reflecting community discussion about Jev&#39;s capability.</p>
+<p><strong>236</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 236</p>
+<p><strong>Anton</strong> · @therceman</p>
 </td>
 </tr>
 </table>

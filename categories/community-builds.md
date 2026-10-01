@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 725 | 299 | 430 | 3.0M |
+| 733 | 301 | 436 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/juliechoi/status/2105595351881359496"><img src="https://pbs.twimg.com/amplify_video_thumb/2102145639408922624/img/L_QSEXe5fH8EkDkt.jpg" alt="Jev gains community traction, regularly trending on Hacker News · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/juliechoi/status/2105595351881359496">Jev gains community traction, regularly trending on Hacker News</a></h3>
+<p>Julie Shin Choi says Jev is legit, her favorite nerds use it daily, and it trends regularly on Hacker News. She also mentions creator @CompleteSkeptic and points to @latentspacepod and @swyx.</p>
+<p><strong>中文摘要：</strong>Julie Shin Choi 表示 Jev 是靠谱的，她喜欢的极客们每天使用，且经常在 Hacker News 上 trending，还提到创作者 @CompleteSkeptic 以及相关播客 @latentspacepod 和 @swyx。</p>
+<p><strong>Julie Shin Choi (she/her)</strong> · @juliechoi · 2026-10-01T09:47:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/juliechoi/status/2105595351881359496">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/therceman/status/2105590410102132974"><img src="https://pbs.twimg.com/media/HTiPUIsWcAADt1u?format=jpg&amp;name=medium" alt="Jev Still Leads in Fast Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/therceman/status/2105590410102132974">Jev Still Leads in Fast Decisions</a></h3>
+<p>A user posts that Jev remains ahead in fast decision-making, reflecting community discussion about Jev&#39;s capability.</p>
+<p><strong>中文摘要：</strong>用户发帖表示Jev在快速决策方面仍处于领先地位，属于对Jev能力的社区讨论。</p>
+<p><strong>Anton</strong> · @therceman · 2026-10-01T09:27:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 236</p>
+<p><a href="https://x.com/therceman/status/2105590410102132974">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jian_jye/status/2105589427095658785"><img src="https://pbs.twimg.com/media/HTiN-akawAAWr5W?format=jpg&amp;name=medium" alt="Jev used for traffic update account · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jian_jye/status/2105589427095658785">Jev used for traffic update account</a></h3>
+<p>The author integrated Jev into @kltrafficupdate to understand Bahasa and revive the old account, showing Jev&#39;s practical multilingual understanding.</p>
+<p><strong>中文摘要：</strong>作者将Jev接入@kltrafficupdate，以理解马来语并恢复旧账号功能，效果良好，展示了Jev在多语言理解上的实际应用。</p>
+<p><strong>Jian Jye</strong> · @jian_jye · 2026-10-01T09:23:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/jian_jye/status/2105589427095658785">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/boyang_xie/status/2105579700785738012"><img src="https://pbs.twimg.com/amplify_video_thumb/2105257321912057857/img/BYOKPXfseNrT_Fog.jpg" alt="Comment on Jev&#39;s Multilingual Performance · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/boyang_xie/status/2105579700785738012">Comment on Jev&#39;s Multilingual Performance</a></h3>
+<p>The author notes that d1 performs better than Jev in multilingual use cases.</p>
+<p><strong>中文摘要：</strong>作者指出多语言用例下d1表现优于Jev。</p>
+<p><strong>Boyang &amp; YUP</strong> · @boyang_xie · 2026-10-01T08:44:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 115</p>
+<p><a href="https://x.com/boyang_xie/status/2105579700785738012">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MongkolchaiTue/status/2105576731767865375"><img src="https://pbs.twimg.com/media/HTiCvwabEAAW1_s?format=jpg&amp;name=medium" alt="Fix Prompt Format to Follow Jev Guidelines · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MongkolchaiTue/status/2105576731767865375">Fix Prompt Format to Follow Jev Guidelines</a></h3>
+<p>User reports that after editing the prompt, the question format deviated from Jev guidelines, so no answer was returned, highlighting the importance of following official prompt specifications.</p>
+<p><strong>中文摘要：</strong>用户反馈修改提示后问题格式偏离Jev指南，导致模型未输出答案，强调遵循官方提示规范的重要性。</p>
+<p><strong>มะตู่</strong> · @MongkolchaiTue · 2026-10-01T08:33:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/MongkolchaiTue/status/2105576731767865375">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anmol_053/status/2105573485670203401"><img src="https://pbs.twimg.com/media/HTh_xHJboAAgppR?format=jpg&amp;name=medium" alt="User adds Jev for classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anmol_053/status/2105573485670203401">User adds Jev for classification</a></h3>
+<p>Anmol mentions adding Jev for classification at Steerosai, showcasing community usage of Jev in real-world tasks.</p>
+<p><strong>中文摘要：</strong>博主 Anmol 在 Steerosai 相关场景中表示已将 Jev 用于分类，展示了 Jev 模型在社区中的实际使用。</p>
+<p><strong>Anmol</strong> · @anmol_053 · 2026-10-01T08:20:13.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/anmol_053/status/2105573485670203401">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/muthulakshman/status/2105573293508248011"><img src="https://pbs.twimg.com/media/HTh-_ssa0AAf0vh?format=jpg&amp;name=medium" alt="Jev vs Haiku classification comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/muthulakshman/status/2105573293508248011">Jev vs Haiku classification comparison</a></h3>
+<p>User shares a comparison: Haiku reads/writes, while Jev processes files and states confidence. For classification, Jev picks from a fixed list, while Haiku produces JSON from a prompt.</p>
+<p><strong>中文摘要：</strong>用户分享了一项对比实验：Haiku负责读写，Jev负责文件处理并输出置信度，分类时Jev从固定列表选择，而Haiku通过提示生成JSON。</p>
+<p><strong>M Lakshmanan</strong> · @muthulakshman · 2026-10-01T08:19:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/muthulakshman/status/2105573293508248011">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/muthulakshman/status/2105573277108449783"><img src="https://pbs.twimg.com/media/HTh93TSbAAA9HuM?format=jpg&amp;name=medium" alt="A real production use of Jev decision model with an LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/muthulakshman/status/2105573277108449783">A real production use of Jev decision model with an LLM</a></h3>
+<p>The author shows a real daily production use of the decision-only model Jev running together with an LLM, instead of the typical demo.</p>
+<p><strong>中文摘要：</strong>作者展示了一个决策专用模型Jev与LLM协同运行在生产环境中的日常实际应用，而非典型演示。</p>
+<p><strong>M Lakshmanan</strong> · @muthulakshman · 2026-10-01T08:19:23.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/muthulakshman/status/2105573277108449783">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kaki_oyaji/status/2105507436153237842"><img src="https://pbs.twimg.com/amplify_video_thumb/2105507285187600384/img/FwOj9uMUFmGYf3Fe.jpg" alt="Managing session context with Jev to reduce token usage · 原帖视频截图" width="100%"></a>

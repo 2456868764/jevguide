@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 277 | 107 | 170 | 419K |
+| 279 | 109 | 170 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xrux/status/2105592002263805958"><img src="https://pbs.twimg.com/amplify_video_thumb/2104444739038724096/img/ctD13F5-ycuV6I7r.jpg" alt="Open-sourced Jev agent skills: a function-call model making decisions in 70-500ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xrux/status/2105592002263805958">Open-sourced Jev agent skills: a function-call model making decisions in 70-500ms</a></h3>
+<p>Someone has open-sourced agent skills for the Jev model. Jev is not a chatbot but a function call that makes decisions in 70-500 ms, ingesting messy text and producing typed answers. Its flagship skill, jev-fanout, enables asking many questions about one input in a single call.</p>
+<p><strong>中文摘要：</strong>有人为 Jev 模型开源了 Agent 技能。Jev 不是聊天机器人，而是一个函数调用，能在 70-500 毫秒内做决策，输入杂乱文本并输出类型化答案。其旗舰技能 jev-fanout 支持一次调用对同一输入提出并回答多个问题。</p>
+<p><strong>RUX</strong> · @0xrux · 2026-10-01T09:33:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 185</p>
+<p><a href="https://x.com/0xrux/status/2105592002263805958">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/taziku_co/status/2105589866604171364"><img src="https://pbs.twimg.com/amplify_video_thumb/2105335581668724736/img/LiyS8pprV7h3MBIU.jpg" alt="Open-source: Learn a personalized compact Jev-type judge model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/taziku_co/status/2105589866604171364">Open-source: Learn a personalized compact Jev-type judge model</a></h3>
+<p>Introduces an OSS that generates training data from traces of agent judgments, tool calls, and results, and trains a personalized compact Jev-type judge model via LoRA on Qwen3.5-4B.</p>
+<p><strong>中文摘要：</strong>介绍一款开源软件，可从代理判断、工具调用及结果的痕迹中生成学习数据，并通过LoRA在Qwen3.5-4B上训练出个性化的紧凑Jev型判断模型。</p>
+<p><strong>田中義弘 | taziku CEO / AI × Creative</strong> · @taziku_co · 2026-10-01T09:25:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 428</p>
+<p><a href="https://x.com/taziku_co/status/2105589866604171364">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kur/status/2105493043965202862"><img src="https://pbs.twimg.com/amplify_video_thumb/2105492914197741568/img/8YurY6j5hmILGMxZ.jpg" alt="Prototype: Inferring Website User Context with Jev · 原帖视频截图" width="100%"></a>

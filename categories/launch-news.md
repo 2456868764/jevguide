@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 333 | 162 | 174 | 1.1M |
+| 335 | 164 | 174 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ziyacivan/status/2105591599568736643"><img src="https://pbs.twimg.com/tweet_video_thumb/HTiQXiDW8AAoSDx.jpg" alt="reflex 0.10 Released: Quality First with Jev as Judge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ziyacivan/status/2105591599568736643">reflex 0.10 Released: Quality First with Jev as Judge</a></h3>
+<p>reflex 0.10 is out with a quality-first theme. It sits between Claude Code and the Anthropic API, selects the model and effort for each task, and uses TypeSafe&#39;s Jev as the judge.</p>
+<p><strong>中文摘要：</strong>reflex 0.10 版本发布，主题为质量优先。reflex 位于 Claude Code 与 Anthropic API 之间，为每个任务选择模型和工作量，并由 TypeSafe 的 Jev 担任评判。</p>
+<p><strong>ziya</strong> · @ziyacivan · 2026-10-01T09:32:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/ziyacivan/status/2105591599568736643">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Rahmanbarik/status/2105573073000997155"><img src="https://pbs.twimg.com/amplify_video_thumb/2105572996597612544/img/yv0OwMcpkpTUJGXV.jpg" alt="Intern-Decision appears as a free rival to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Rahmanbarik/status/2105573073000997155">Intern-Decision appears as a free rival to Jev</a></h3>
+<p>According to the post, a big AI lab quietly released Intern-Decision, a free model positioned as a rival to Jev. It offers three non-chat AI models that pick from given options, useful for choosing between options, ranking ideas, and picking the best reply.</p>
+<p><strong>中文摘要：</strong>据帖子介绍，一家大型 AI 实验室悄然发布了免费模型 Intern-Decision，号称是 Jev 的竞品。它包含三个不聊天、只做选择的 AI 模型，用户给选项模型来选，可用于选项抉择、想法排序和最佳回复挑选。</p>
+<p><strong>BARIK</strong> · @Rahmanbarik · 2026-10-01T08:18:34.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 218</p>
+<p><a href="https://x.com/Rahmanbarik/status/2105573073000997155">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RealSTAuthor/status/2105504450114941029"><img src="https://pbs.twimg.com/amplify_video_thumb/2105503989135761408/img/7d7S5pn9iqKcLNNd.jpg" alt="Jev 1.13 Release: Local CPU vs Hosted API Benchmark · 原帖视频截图" width="100%"></a>

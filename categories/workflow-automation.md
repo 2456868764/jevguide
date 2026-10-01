@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 194 | 130 | 64 | 595K |
+| 196 | 132 | 64 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/polydao/status/2105596331934785999"><img src="https://pbs.twimg.com/amplify_video_thumb/2105468660118646785/img/70Av3tBfn7w4c6Qn.jpg" alt="9 Jobs Where Jev Engineering Replaces Pricey LLM Calls · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/polydao/status/2105596331934785999">9 Jobs Where Jev Engineering Replaces Pricey LLM Calls</a></h3>
+<p>Jev, TypeSafe AI&#39;s first System One model, is 100x faster and cheaper, replacing expensive LLM calls like Claude across 9 job functions.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI的System One模型Jev，速度提升100倍且更便宜，可替代Claude等昂贵LLM在9个工作场景中的调用。</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao · 2026-10-01T09:51:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 75</p>
+<p><a href="https://x.com/polydao/status/2105596331934785999">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NilsEdison/status/2105587126033158382"><img src="https://pbs.twimg.com/amplify_video_thumb/2105586796713181184/img/U88LJ1A7kEAwPcm8.jpg" alt="Using Jev for the First Round of Value Judgement in an Automated Workflow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NilsEdison/status/2105587126033158382">Using Jev for the First Round of Value Judgement in an Automated Workflow</a></h3>
+<p>Integrates Jev into a multi-step evaluation pipeline where it performs the initial value judgement, followed by a second round from another model and human review.</p>
+<p><strong>中文摘要：</strong>将 Jev 集成到多步骤评估流程中，负责生成初始价值判断，后续再由其他模型进行第二轮判断和人工审核。</p>
+<p><strong>RM 🖤</strong> · @NilsEdison · 2026-10-01T09:14:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 49</p>
+<p><a href="https://x.com/NilsEdison/status/2105587126033158382">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JulianGoldieSEO/status/2105311976113295728"><img src="https://pbs.twimg.com/amplify_video_thumb/2105311650735964160/img/e7Xs0yGWbjGmorZ1.jpg" alt="Developer says Jev cuts workflow time by ~80% · 原帖视频截图" width="100%"></a>

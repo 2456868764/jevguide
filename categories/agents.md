@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 339 | 194 | 146 | 3.0M |
+| 341 | 195 | 147 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xLogicrw/status/2105585805104234673"><img src="https://pbs.twimg.com/amplify_video_thumb/2105364143155052544/img/_oJyVy5EfWmFWsWP.jpg" alt="Mercury Decide: A Decision Model Similar to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xLogicrw/status/2105585805104234673">Mercury Decide: A Decision Model Similar to Jev</a></h3>
+<p>Inception has released the decision-making model Mercury Decide, similar to Jev. It does not generate long text but directly makes choices, judgments, and scores, returning probabilities for each answer to help Agents select tools.</p>
+<p><strong>中文摘要：</strong>Inception发布了决策模型Mercury Decide，与Jev类似，不生成长文本，而是直接进行选择、判断和评分，并为每个答案返回概率，可帮助Agents选择工具。</p>
+<p><strong>思维怪怪</strong> · @0xLogicrw · 2026-10-01T09:09:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 239</p>
+<p><a href="https://x.com/0xLogicrw/status/2105585805104234673">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Asteri_eth/status/2105584994538160441"><img src="https://pbs.twimg.com/media/HTiKTHGXYAAueIm?format=jpg&amp;name=medium" alt="Run Agent Decision Layer Locally on Mac, Compare Costs with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Asteri_eth/status/2105584994538160441">Run Agent Decision Layer Locally on Mac, Compare Costs with Jev</a></h3>
+<p>The author explains how to set up a 1.5GB local model as an agent decision layer on Mac, with ~18ms per call and zero token cost, while noting Jev would cost about $3.02/month for the same loop. The article covers the gate, model router, and setup details.</p>
+<p><strong>中文摘要：</strong>作者介绍如何在Mac上设置1.5GB本地模型作为代理决策层，每次调用约18毫秒，零token成本，并提及同样的循环Jev每月约需3.02美元。文章涵盖gate、模型路由等设置细节。</p>
+<p><strong>Asteri</strong> · @Asteri_eth · 2026-10-01T09:05:57.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 216</p>
+<p><a href="https://x.com/Asteri_eth/status/2105584994538160441">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cpi_co_jp/status/2105504727819809028"><img src="https://pbs.twimg.com/media/HThBX4ZbkAAIPrK?format=jpg&amp;name=medium" alt="LLM vs Jev: Writing by LLM, Decisions by Jev · 原帖图片" width="100%"></a>

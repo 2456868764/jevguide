@@ -1,9 +1,10 @@
 # Mr. Buzzoni
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T09:51:00.000Z | [9 Jobs Where Jev Engineering Replaces Pricey LLM Calls](https://x.com/polydao/status/2105596331934785999) | 自动化工作流 | Mr. Buzzoni | 75 |
 | 2026-09-30T09:32:00.000Z | [20 Open-Source Projects Built on Jev](https://x.com/polydao/status/2105229163401756842) | 开发资源 | Mr. Buzzoni | 274 |
 | 2026-09-30T06:05:00.000Z | [Claude + Jev Engineering: The Harness Skill That Gets AI Engineers Promoted in 2026](https://x.com/polydao/status/2105177069730615556) | 开发者工具 | Mr. Buzzoni | 567 |
 | 2026-09-29 | [Paste this Jev prompt into Claude to audit and rebuild your workflow](https://x.com/polydao/status/2104882880753324248) | 自动化工作流 | Mr. Buzzoni | 2.6K |

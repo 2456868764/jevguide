@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 357 | 171 | 189 | 1.1M |
+| 361 | 173 | 191 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fullctx/status/2105907949034225689"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105323994828136448/pu/img/mgs506KRa65PJqCx.jpg" alt="Laya Model Released: No More JEV Needed · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/fullctx/status/2105907949034225689">Laya Model Released: No More JEV Needed</a></h3>
+<p>Full Context introduces Laya, an open-source local model that runs on 4GB devices. It demonstrates sorting 600+ desktop files into folders, claiming to replace JEV.</p>
+<p><strong>中文摘要：</strong>Full Context 推出 Laya，一个可在 4GB 设备上运行的开源本地模型。演示了将 600 多个桌面文件分类到文件夹的能力，声称可替代 JEV。</p>
+<p><strong>Full Context</strong> · @fullctx · 2026-10-02T06:29:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/fullctx/status/2105907949034225689">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/melvindvivas/status/2105892783018135826"><img src="https://pbs.twimg.com/amplify_video_thumb/2105689425888108544/img/OKn5dF1WLujUpcR6.jpg" alt="fastinoAI unveils decision model similar to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/melvindvivas/status/2105892783018135826">fastinoAI unveils decision model similar to Jev</a></h3>
+<p>Melvin Vivas tweets about @fastinoAI&#39;s new decision model, similar to Jev but allowing post-training.</p>
+<p><strong>中文摘要：</strong>Melvin Vivas 发推介绍 @fastinoAI 的新决策模型，与 Jev 相似但支持后训练。</p>
+<p><strong>Melvin Vivas</strong> · @melvindvivas · 2026-10-02T05:28:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><a href="https://x.com/melvindvivas/status/2105892783018135826">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/devua_official/status/2105891150263456117"><img src="https://pbs.twimg.com/media/HTmg1kmWYAEu59G?format=jpg&amp;name=medium" alt="Amazon launches Strands Decider 2B, an open-source decision model inspired by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/devua_official/status/2105891150263456117">Amazon launches Strands Decider 2B, an open-source decision model inspired by Jev</a></h3>
+<p>AWS released an open-source decision model Strands Decider 2B, reportedly inspired by TypeSafe&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>AWS发布了开源决策模型Strands Decider 2B，据称灵感来自TypeSafe的Jev模型。</p>
+<p><strong>dev.ua</strong> · @devua_official · 2026-10-02T05:22:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><a href="https://x.com/devua_official/status/2105891150263456117">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_damienf/status/2105881932537974808"><img src="https://pbs.twimg.com/media/HTmYdWgW4AAJmoU?format=jpg&amp;name=360x360" alt="TypeSafe AI debuts Jev: a model that makes decisions for software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_damienf/status/2105881932537974808">TypeSafe AI debuts Jev: a model that makes decisions for software</a></h3>
+<p>Jev is built for software, returning structured answers with probabilities. Beyond the Doom demo, it may be more useful for support routing and automated workflows.</p>
+<p><strong>中文摘要：</strong>Jev 专为软件构建，可返回带概率的结构化决策结果。除了 Doom 演示，它在支持路由和自动化工作流方面可能更有实用价值。</p>
+<p><strong>Damien Filiatrault</strong> · @_damienf · 2026-10-02T04:45:52.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/_damienf/status/2105881932537974808">在 X 查看原帖</a> · <a href="https://t.co/1tJeO2zruA">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>

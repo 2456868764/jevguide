@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 488 | 213 | 276 | 1.6M |
+| 494 | 216 | 279 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shimafuri_d/status/2105910303909454269"><img src="https://pbs.twimg.com/media/HTmyQRTbgAAXcau?format=png&amp;name=900x900" alt="Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shimafuri_d/status/2105910303909454269">Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface</a></h3>
+<p>A point is made that the key innovation of the Jev series is using encoder-like one-shot inference as the final interface of a large-scale general-purpose model, rather than as a preprocessing step for embedding generation.</p>
+<p><strong>中文摘要：</strong>有观点指出，Jev 系列的关键创新在于将类似 Encoder 的单次推理用作大规模通用模型的最终接口，而不是将其作为生成嵌入的预处理步骤。</p>
+<p><strong>ブリーチ</strong> · @shimafuri_d · 2026-10-02T06:38:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/shimafuri_d/status/2105910303909454269">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/garumoso/status/2105910226264445371"><img src="https://pbs.twimg.com/media/HTmxgDUaAAAQtqw?format=jpg&amp;name=medium" alt="Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/garumoso/status/2105910226264445371">Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics</a></h3>
+<p>The user connects the Jev (decision model) to a video by Toshio Okada, realizes after a hint that its essence relates to artificial rationality and ethics, and decides to note it down.</p>
+<p><strong>中文摘要：</strong>用户将Jev（决策模型）与冈田斗司夫的视频内容联系起来，经他人指点意识到其本质涉及人工理性与人工伦理，感到豁然开朗并决定记录下来。</p>
+<p><strong>ゴロ助</strong> · @garumoso · 2026-10-02T06:38:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/garumoso/status/2105910226264445371">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/avynsrc/status/2105904948068397321"><img src="https://pbs.twimg.com/amplify_video_thumb/2105899855302537216/img/yz5nUniw21pLNnqO.jpg" alt="Jev: Smart Model Routing Scheduler · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/avynsrc/status/2105904948068397321">Jev: Smart Model Routing Scheduler</a></h3>
+<p>Avyn shares a scheduling dashboard built by susu where Jev inspects the task first, then routes by cost and model strengths, skipping the big-model tax on easy tasks.</p>
+<p><strong>中文摘要：</strong>Avyn分享了susu构建的调度仪表板，让Jev先查看任务，再根据成本和模型优势进行路由，避免在简单任务上使用大模型的开销。</p>
+<p><strong>Avyn 👾</strong> · @avynsrc · 2026-10-02T06:17:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/avynsrc/status/2105904948068397321">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/luc_allain_/status/2105903606499016903"><img src="https://pbs.twimg.com/amplify_video_thumb/2105745484027453440/img/k5FPX0gO1x5QQwjC.jpg" alt="Jev: Making Software “Magical” · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/luc_allain_/status/2105903606499016903">Jev: Making Software “Magical”</a></h3>
+<p>Luc Allain says that in the future, using software won&#39;t require clicking through dozens of menus. With Jev, the interface can understand what the user wants, analyze context, and directly trigger the right action.</p>
+<p><strong>中文摘要：</strong>Luc Allain 表示，未来使用软件时无需再点击数十个菜单。Jev 的界面能够理解用户想要做什么、分析上下文，并直接触发正确的操作。</p>
+<p><strong>Luc Allain</strong> · @luc_allain_ · 2026-10-02T06:12:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 139</p>
+<p><a href="https://x.com/luc_allain_/status/2105903606499016903">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/marcoberlin_1/status/2105901986151334060"><img src="https://pbs.twimg.com/media/HTmqsbWWoAAdJv9?format=jpg&amp;name=medium" alt="Jev: TypeSafe&#39;s AI Model That Only Outputs Values and Probabilities · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/marcoberlin_1/status/2105901986151334060">Jev: TypeSafe&#39;s AI Model That Only Outputs Values and Probabilities</a></h3>
+<p>TypeSafe&#39;s Jev model does not generate text; it only returns values and probabilities (e.g., 92% yes, 87% accounting) with 70–500 ms latency and roughly $0.042 per million tokens. It can handle mail sorting and ticket routing, while writing remains with language models.</p>
+<p><strong>中文摘要：</strong>TypeSafe的Jev模型不生成文本，仅返回数值和概率（如92%是、87%会计），响应时间70–500毫秒，每百万token约4.2美分，可用于邮件分类和工单分派，文本生成仍交由语言模型处理。</p>
+<p><strong>Marco Berlin</strong> · @marcoberlin_1 · 2026-10-02T06:05:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/marcoberlin_1/status/2105901986151334060">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PageIndexAI/status/2105896672635335118"><img src="https://pbs.twimg.com/tweet_video_thumb/HTmjST_aEAAse4y.jpg" alt="Jev enables efficient document navigation via hierarchical choices · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PageIndexAI/status/2105896672635335118">Jev enables efficient document navigation via hierarchical choices</a></h3>
+<p>PageIndex turns a document into a tree of sections with titles and summaries, and Jev makes one small choice per level among a handful of options, however long the document is.</p>
+<p><strong>中文摘要：</strong>PageIndex 将文档转换为带标题和摘要的章节树，Jev 在每个层级仅从少量选项中做一个小选择，从而处理任意长度的文档。</p>
+<p><strong>PageIndex</strong> · @PageIndexAI · 2026-10-02T05:44:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/PageIndexAI/status/2105896672635335118">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297"><img src="https://pbs.twimg.com/media/HTmTIHfW4AAOHQ0?format=png&amp;name=medium" alt="Is Jev Secretly Learning a Value Function? · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 299 | 116 | 183 | 419K |
+| 301 | 117 | 184 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/polydao/status/2105904864614363605"><img src="https://pbs.twimg.com/amplify_video_thumb/2105867365346897920/img/j-JU2Xz3PyCvxkmm.jpg" alt="Build Your First AI Agent: Full Guide with a Jev Decision Layer · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/polydao/status/2105904864614363605">Build Your First AI Agent: Full Guide with a Jev Decision Layer</a></h3>
+<p>A free full guide on building your first AI agent, including a Jev decision layer, so you can ship in an afternoon.</p>
+<p><strong>中文摘要：</strong>一份免费完整指南，教你如何构建第一个 AI 代理，并集成 Jev 决策层，帮助你在一个下午内完成开发。</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao · 2026-10-02T06:17:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 231</p>
+<p><a href="https://x.com/polydao/status/2105904864614363605">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/redcord_okumura/status/2105902852917051763"><img src="https://pbs.twimg.com/media/HTmq7LjaoAAnPvR?format=png&amp;name=small" alt="Building a Chrome Extension with Jev for Probability · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/redcord_okumura/status/2105902852917051763">Building a Chrome Extension with Jev for Probability</a></h3>
+<p>The author shares a Chrome extension that converts reset time to Japan time, and tries to use Jev for probability calculation, currently being refined.</p>
+<p><strong>中文摘要：</strong>作者分享开发一个将重置时间转换为日本时间显示的Chrome扩展，并尝试使用Jev模型来计算概率，目前正在调整中。</p>
+<p><strong>奥村 龍晃@AI整体師</strong> · @redcord_okumura · 2026-10-02T06:09:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 103</p>
+<p><a href="https://x.com/redcord_okumura/status/2105902852917051763">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eyalestrin/status/2105866570190954818"><img src="https://pbs.twimg.com/media/HTmKfCCbQAA8WH7?format=png&amp;name=medium" alt="From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius · 原帖图片" width="100%"></a>

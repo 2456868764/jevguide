@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4688</strong><br>curated posts</td>
-<td align="center"><strong>2426</strong><br>original videos</td>
+<td align="center"><strong>4712</strong><br>curated posts</td>
+<td align="center"><strong>2434</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>776</strong> showcases · <strong>323</strong> videos</p>
+<p><strong>783</strong> showcases · <strong>324</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>488</strong> showcases · <strong>213</strong> videos</p>
+<p><strong>494</strong> showcases · <strong>216</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>470</strong> showcases · <strong>241</strong> videos</p>
+<p><strong>471</strong> showcases · <strong>242</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>364</strong> showcases · <strong>150</strong> videos</p>
+<p><strong>365</strong> showcases · <strong>150</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>357</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>361</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>353</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>354</strong> showcases · <strong>203</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>299</strong> showcases · <strong>116</strong> videos</p>
+<p><strong>301</strong> showcases · <strong>117</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>200</strong> showcases · <strong>134</strong> videos</p>
+<p><strong>201</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>99</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MaxForAI/status/2105881503226098094">Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen</a></h3>
-<p>Cloudflare has fine-tuned and open-sourced two Jev models: Clef, a decision model post-trained on Qwen3.8-27B, and Clef-flash based on Qwen3.5-9B.</p>
-<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
-<p><strong>Max For AI</strong> · @MaxForAI</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/christzolov/status/2105912296837095795"><img src="https://pbs.twimg.com/media/HTlSlwwWEAAa8RZ?format=jpg&amp;name=medium" alt="Spring AI Modular RAG with TypeSafe AI Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/christzolov/status/2105912296837095795">Spring AI Modular RAG with TypeSafe AI Jev</a></h3>
+<p>Shows how Jev re-ranks vector search results, keeping only the chunks that actually answer the query. Includes a blog post and Devoxx talk.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><strong>Christian Tzolov🇧🇬🇪🇺🇺🇦 🦋@tzolov.bsky.social</strong> · @christzolov</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/schultetrevor/status/2105881118939771264"><img src="https://pbs.twimg.com/media/HTmXtpNa8AA3VOX?format=jpg&amp;name=medium" alt="Generative UI Night with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/schultetrevor/status/2105881118939771264">Generative UI Night with Jev</a></h3>
-<p>The community is leveraging Jev for UI, design system decisions, autocomplete, and feed comment scoring. A great vibe at generative UI night.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Trevor Schulte</strong> · @schultetrevor</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/vintcessun/status/2105910914436542501"><img src="https://pbs.twimg.com/media/HTmy0A0bYAAMOsj?format=png&amp;name=900x900" alt="jev-skill: Integrating Jev into Agent Workflows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vintcessun/status/2105910914436542501">jev-skill: Integrating Jev into Agent Workflows</a></h3>
+<p>A collection of use cases, workflows, and agent patterns for integrating Jev’s judgment capabilities into agent systems.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>恒星sun</strong> · @vintcessun</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297"><img src="https://pbs.twimg.com/media/HTmTIHfW4AAOHQ0?format=png&amp;name=medium" alt="Is Jev Secretly Learning a Value Function? · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297">Is Jev Secretly Learning a Value Function?</a></h3>
-<p>Explores how Jev distinguishes fast choices from deeper reasoning and how it fits into System One.</p>
-<p><strong>55</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
-<p><strong>Souradip Chakraborty</strong> · @SOURADIPCHAKR18</p>
+<a href="https://x.com/shimafuri_d/status/2105910303909454269"><img src="https://pbs.twimg.com/media/HTmyQRTbgAAXcau?format=png&amp;name=900x900" alt="Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shimafuri_d/status/2105910303909454269">Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface</a></h3>
+<p>A point is made that the key innovation of the Jev series is using encoder-like one-shot inference as the final interface of a large-scale general-purpose model, rather than as a preprocessing step for embedding generation.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>ブリーチ</strong> · @shimafuri_d</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/joinlearn_com/status/2105877686904111310"><img src="https://pbs.twimg.com/amplify_video_thumb/2105877620244066304/img/AfqHFwFUqYiDVX43.jpg" alt="Jev Trader Outperforms Local Baseline in Stock Backtest · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/joinlearn_com/status/2105877686904111310">Jev Trader Outperforms Local Baseline in Stock Backtest</a></h3>
-<p>In the same stock backtest, the Jev trader grew $100K to nearly $210K (almost doubled) while the S&amp;P rose about 60%; AWS-local Strands Decider 2B earned only ~$40K (~39%). The local model is faster and token-free, but the return gap is significant.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>dfkai</strong> · @joinlearn_com</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/garumoso/status/2105910226264445371"><img src="https://pbs.twimg.com/media/HTmxgDUaAAAQtqw?format=jpg&amp;name=medium" alt="Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/garumoso/status/2105910226264445371">Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics</a></h3>
+<p>The user connects the Jev (decision model) to a video by Toshio Okada, realizes after a hint that its essence relates to artificial rationality and ethics, and decides to note it down.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>ゴロ助</strong> · @garumoso</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MaxForAI/status/2105881503226098094">Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen</a></h3>
-<p>Cloudflare has fine-tuned and open-sourced two Jev models: Clef, a decision model post-trained on Qwen3.8-27B, and Clef-flash based on Qwen3.5-9B.</p>
-<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
-<p><strong>Max For AI</strong> · @MaxForAI</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/christzolov/status/2105912296837095795"><img src="https://pbs.twimg.com/media/HTlSlwwWEAAa8RZ?format=jpg&amp;name=medium" alt="Spring AI Modular RAG with TypeSafe AI Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/christzolov/status/2105912296837095795">Spring AI Modular RAG with TypeSafe AI Jev</a></h3>
+<p>Shows how Jev re-ranks vector search results, keeping only the chunks that actually answer the query. Includes a blog post and Devoxx talk.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><strong>Christian Tzolov🇧🇬🇪🇺🇺🇦 🦋@tzolov.bsky.social</strong> · @christzolov</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/joinlearn_com/status/2105877686904111310"><img src="https://pbs.twimg.com/amplify_video_thumb/2105877620244066304/img/AfqHFwFUqYiDVX43.jpg" alt="Jev Trader Outperforms Local Baseline in Stock Backtest · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/joinlearn_com/status/2105877686904111310">Jev Trader Outperforms Local Baseline in Stock Backtest</a></h3>
-<p>In the same stock backtest, the Jev trader grew $100K to nearly $210K (almost doubled) while the S&amp;P rose about 60%; AWS-local Strands Decider 2B earned only ~$40K (~39%). The local model is faster and token-free, but the return gap is significant.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>dfkai</strong> · @joinlearn_com</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/garumoso/status/2105910226264445371"><img src="https://pbs.twimg.com/media/HTmxgDUaAAAQtqw?format=jpg&amp;name=medium" alt="Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/garumoso/status/2105910226264445371">Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics</a></h3>
+<p>The user connects the Jev (decision model) to a video by Toshio Okada, realizes after a hint that its essence relates to artificial rationality and ethics, and decides to note it down.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>ゴロ助</strong> · @garumoso</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/nlevnaut/status/2105873739082596723"><img src="https://pbs.twimg.com/media/HTmQlRLWoAA_q0i?format=png&amp;name=small" alt="Jev-ified Moondream vs New Model on Doom Performance · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nlevnaut/status/2105873739082596723">Jev-ified Moondream vs New Model on Doom Performance</a></h3>
-<p>The post mentions a model that is almost as good at playing Doom as the Jev-ified Moondream, better at some other tasks and almost as fast, showcasing real-world use of the Jev model.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>nlev</strong> · @nlevnaut</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/djcroman/status/2105908881511879063"><img src="https://pbs.twimg.com/amplify_video_thumb/2105908488883093504/img/gCAitN1LXoGtDSlK.jpg" alt="Clef vs Jev: Decision Model Latency Comparison Sparks Discussion · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/djcroman/status/2105908881511879063">Clef vs Jev: Decision Model Latency Comparison Sparks Discussion</a></h3>
+<p>Cloudflare open-sourced Clef, a decision model for agent hot paths. The author compares Clef-flash&#39;s ~39 ms median latency with Jev&#39;s 524 ms, arguing that typed decisions beat waiting for a full LLM when agents need to act now.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>djcroman</strong> · @djcroman</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/eyalestrin/status/2105866570190954818"><img src="https://pbs.twimg.com/media/HTmKfCCbQAA8WH7?format=png&amp;name=medium" alt="From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/eyalestrin/status/2105866570190954818">From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius</a></h3>
-<p>Learn how to build &quot;System One&quot; decision models from Jev, convert them to ONNX, and run them locally with Mobius.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Eyal Estrin ☁️</strong> · @eyalestrin</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/luc_allain_/status/2105903606499016903"><img src="https://pbs.twimg.com/amplify_video_thumb/2105745484027453440/img/k5FPX0gO1x5QQwjC.jpg" alt="Jev: Making Software “Magical” · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/luc_allain_/status/2105903606499016903">Jev: Making Software “Magical”</a></h3>
+<p>Luc Allain says that in the future, using software won&#39;t require clicking through dozens of menus. With Jev, the interface can understand what the user wants, analyze context, and directly trigger the right action.</p>
+<p><strong>139</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 139</p>
+<p><strong>Luc Allain</strong> · @luc_allain_</p>
 </td>
 </tr>
 </table>

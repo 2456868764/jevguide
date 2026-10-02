@@ -1,9 +1,10 @@
 # せなお| AIとITを使った仕事術
 
-3 Jev showcases.
+4 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T22:30:08.000Z | [Jev AI Performance Comparison: Speed and Cost Advantage](https://x.com/rutinelabo/status/2105787376576639134) | 数据分析 | せなお\| AIとITを使った仕事術 | 33 |
 | 2026-09-29 | [Jev AI in a 4-Model Sorting Race](https://x.com/rutinelabo/status/2104760609418207372) | 社区实践 | せなお\| AIとITを使った仕事術 | 51 |
 | 2026-09-28 | [Comparing Jev AI and GPT-6 Astra for Email Sorting](https://x.com/rutinelabo/status/2104700215047631321) | 社区实践 | せなお\| AIとITを使った仕事術 | 11 |
 | 2026-09-28 | [Using Jev AI to Assess Calories for 30 Meals](https://x.com/rutinelabo/status/2104519023413367045) | 数据分析 | せなお\| AIとITを使った仕事術 | 7 |

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 479 | 211 | 269 | 1.6M |
+| 481 | 211 | 271 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bedeabza/status/2105832930643976433"><img src="https://pbs.twimg.com/media/HTlrGvIW0AAfTmX?format=png&amp;name=900x900" alt="Jev outperforms Clef on long-text embedding-reranking · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bedeabza/status/2105832930643976433">Jev outperforms Clef on long-text embedding-reranking</a></h3>
+<p>Dragos Badea reports that Clef scored much worse than Jev on their hardest embedding-reranking passages, suggesting Clef needs denser context while Jev holds up better with longer text.</p>
+<p><strong>中文摘要：</strong>Dragos Badea分享测试结果：在最具挑战性的嵌入重排序文本上，Clef得分远低于Jev，推测Clef需要更密集的上下文，而Jev在长文本上更稳定。</p>
+<p><strong>Dragos Badea</strong> · @bedeabza · 2026-10-02T01:31:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/bedeabza/status/2105832930643976433">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/yulmu_coffee/status/2105818174205956316"><img src="https://pbs.twimg.com/media/HTled8YaIAAJk6U?format=jpg&amp;name=medium" alt="Jev-like reasoning model released · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 74</p>
 <p><a href="https://x.com/yulmu_coffee/status/2105818174205956316">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yupi996/status/2105817791148261391"><img src="https://pbs.twimg.com/media/HTld2PPa4AAbnBO?format=jpg&amp;name=medium" alt="Cloudflare Open-Sources Decision Model Clef-flash, Compared with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 119</p>
 <p><a href="https://x.com/yupi996/status/2105817791148261391">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shintre_saurabh/status/2105816059311952232"><img src="https://pbs.twimg.com/media/HTlcAP8aEAAy5--?format=jpg&amp;name=medium" alt="Causal limitations of Jev System One thinking · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
 <p><a href="https://x.com/shintre_saurabh/status/2105816059311952232">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Irene_the_one/status/2105797886692995553"><img src="https://pbs.twimg.com/amplify_video_thumb/2105281557393244160/img/Sd-2iZZlKF4WJ-Wg.jpg" alt="Jev vs LLM · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Irene - Fountain of Ideas</strong> · @Irene_the_one · 2026-10-01T23:11:54.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/Irene_the_one/status/2105797886692995553">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ArizePhoenix/status/2105793055886549102"><img src="https://pbs.twimg.com/media/HTlHn8ZbAAAprUR?format=jpg&amp;name=medium" alt="Jev as Fast Thinking, LLMs as Slow Thinking · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ArizePhoenix/status/2105793055886549102">Jev as Fast Thinking, LLMs as Slow Thinking</a></h3>
+<p>Arize Phoenix references Kahneman&#39;s &#39;Thinking, Fast and Slow&#39;, likening Jev to fast, cheap, almost automatic System One and LLMs to slow, deliberate, analytical System Two for building agents that can think both quickly and slowly.</p>
+<p><strong>中文摘要：</strong>Arize Phoenix引用Kahneman的《思考，快与慢》，将Jev比作快速、低成本的系统一，将LLM比作慢速、深思熟虑的系统二，用于构建能快慢结合的智能体。</p>
+<p><strong>arize-phoenix</strong> · @ArizePhoenix · 2026-10-01T22:52:42.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 124</p>
+<p><a href="https://x.com/ArizePhoenix/status/2105793055886549102">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

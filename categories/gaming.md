@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 333 | 254 | 83 | 588K |
+| 335 | 255 | 84 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/buddypia/status/2105996640704426249"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995798546919424/img/u1foYKB8vW15KASh.jpg" alt="Jev-like Model Clef Plays Doom in Real Time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/buddypia/status/2105996640704426249">Jev-like Model Clef Plays Doom in Real Time</a></h3>
+<p>The author tested Clef, a Jev-like decision model announced by Cloudflare, on Doom and cleared level one easily. Unlike traditional VLMs that take hundreds of milliseconds to seconds for text generation and JSON parsing, Clef returns next-action probabilities in a single forward pass, enabling tens-of-milliseconds loops.</p>
+<p><strong>中文摘要：</strong>作者让Cloudflare发布的类似Jev的决策模型Clef试玩Doom，成功通关第一关。相比传统VLM需数百毫秒到数秒的文本生成与解析，Clef通过单次前向传播直接输出下一动作概率，循环延迟仅数十毫秒。</p>
+<p><strong>じゅん@AI駆動開発</strong> · @buddypia · 2026-10-02T12:21:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/buddypia/status/2105996640704426249">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TinyPanda168/status/2105921219707245012"><img src="https://pbs.twimg.com/media/HTm7UUhbQAA6qJ-?format=jpg&amp;name=medium" alt="JevLaya GameTest: Open-Source Tool for Testing Casual Unity Games with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TinyPanda168/status/2105921219707245012">JevLaya GameTest: Open-Source Tool for Testing Casual Unity Games with Jev</a></h3>
+<p>An open-source Skill for testing casual Unity games with choices and reasoning. Choose Jev, Laya, or OmniJev. Independent checks, preserved failures and evidence. Experimental v0.0.2, MIT license, more platforms &amp; game types planned.</p>
+<p><strong>中文摘要：</strong>开源技能，用于测试带选择和推理的休闲Unity游戏。可选择Jev、Laya或OmniJev，支持独立检查、保留失败和证据。实验性v0.0.2，MIT许可，计划支持更多平台和游戏类型。</p>
+<p><strong>Tiny Panda | Game Producer</strong> · @TinyPanda168 · 2026-10-02T07:21:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/TinyPanda168/status/2105921219707245012">在 X 查看原帖</a> · <a href="https://t.co/aJ6Yr5kKha">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nlevnaut/status/2105873739082596723"><img src="https://pbs.twimg.com/media/HTmQlRLWoAA_q0i?format=png&amp;name=small" alt="Jev-ified Moondream vs New Model on Doom Performance · 原帖图片" width="100%"></a>

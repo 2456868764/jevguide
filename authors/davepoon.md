@@ -1,9 +1,10 @@
 # davepoon
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-02T12:18:13.000Z | [Jev model performance on phishing detection](https://x.com/davepoon/status/2105995769337778526) | 网络安全 | davepoon | 8 |
 | 2026-10-01T11:36:57.000Z | [Building a Real-time Email Phishing Radar with Jev](https://x.com/davepoon/status/2105622995448566111) | 网络安全 | davepoon | 8 |
 | 2026-09-22 | [Using Jev for Generative UI Component Selection in Email](https://x.com/davepoon/status/2102244409278636071) | 开发者工具 | davepoon | 22 |
 | 2026-09-22 | [Jev email build speed comparison: 46.3s vs 2.0s](https://x.com/davepoon/status/2102244425628078307) | 开发者工具 | davepoon | 17 |

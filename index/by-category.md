@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 785
-- [How it works](../categories/how-it-works.md) — 496
-- [Developer tools](../categories/developer-tools.md) — 473
-- [Access updates](../categories/access-updates.md) — 365
+- [Community builds](../categories/community-builds.md) — 792
+- [How it works](../categories/how-it-works.md) — 497
+- [Developer tools](../categories/developer-tools.md) — 480
+- [Access updates](../categories/access-updates.md) — 367
 - [Launch news](../categories/launch-news.md) — 364
-- [Agents](../categories/agents.md) — 356
-- [Gaming](../categories/gaming.md) — 333
-- [Developer resources](../categories/developer-resources.md) — 301
-- [Finance](../categories/finance.md) — 232
-- [Workflow automation](../categories/workflow-automation.md) — 201
+- [Agents](../categories/agents.md) — 357
+- [Gaming](../categories/gaming.md) — 335
+- [Developer resources](../categories/developer-resources.md) — 302
+- [Finance](../categories/finance.md) — 234
+- [Workflow automation](../categories/workflow-automation.md) — 202
 - [Marketing](../categories/marketing.md) — 132
 - [Content creation](../categories/content-creation.md) — 108
 - [Knowledge & search](../categories/knowledge-search.md) — 101
 - [Data analytics](../categories/data-analytics.md) — 98
 - [Scientific research](../categories/scientific-research.md) — 67
-- [Cybersecurity](../categories/cybersecurity.md) — 54
+- [Cybersecurity](../categories/cybersecurity.md) — 55
 - [Customer support](../categories/customer-support.md) — 48
-- [Robotics](../categories/robotics.md) — 40
+- [Robotics](../categories/robotics.md) — 41
 - [Productivity](../categories/productivity.md) — 35
 - [Software development](../categories/software-development.md) — 28
 - [Business operations](../categories/business-operations.md) — 27
 - [Healthcare](../categories/healthcare.md) — 22
 - [Education](../categories/education.md) — 22
+- [Legal & compliance](../categories/legal-compliance.md) — 20
 - [E-commerce](../categories/e-commerce.md) — 20
-- [Legal & compliance](../categories/legal-compliance.md) — 19

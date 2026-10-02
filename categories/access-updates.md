@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 365 | 150 | 215 | 802K |
+| 367 | 151 | 216 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/soundinspire9/status/2105995578882851152"><img src="https://pbs.twimg.com/media/HTn-GOcbUAAI_ZE?format=jpg&amp;name=medium" alt="Connecting Jev to Claude Code and Codex · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soundinspire9/status/2105995578882851152">Connecting Jev to Claude Code and Codex</a></h3>
+<p>The author attempts to integrate Jev AI, which returns only probabilities and options, into Claude Code and Codex, noting a cost of about 0.003 yen per judgment, and shares 3 issues encountered during the integration.</p>
+<p><strong>中文摘要：</strong>作者尝试将只返回概率和选项的Jev AI接入Claude Code和Codex，单次判断成本约0.003日元，并分享了连接过程中遇到的3个问题。</p>
+<p><strong>Sound Inspire</strong> · @soundinspire9 · 2026-10-02T12:17:28.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/soundinspire9/status/2105995578882851152">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/karanC_12/status/2105995299370287265"><img src="https://pbs.twimg.com/amplify_video_thumb/2105949115796668417/img/xXSG0X2zJ8hzaXao.jpg" alt="Jev + treg_ai: One API Key to 3,000+ Endpoints · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/karanC_12/status/2105995299370287265">Jev + treg_ai: One API Key to 3,000+ Endpoints</a></h3>
+<p>Jev handles decisions, while treg_ai gives agents one API key to access 3,000+ data and tool endpoints — pay per call, with an open-source integration.</p>
+<p><strong>中文摘要：</strong>Jev 负责决策，treg_ai 为智能体提供单一 API 密钥以访问 3000+ 数据和工具端点，按调用付费，且集成开源。</p>
+<p><strong>KC</strong> · @karanC_12 · 2026-10-02T12:16:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><a href="https://x.com/karanC_12/status/2105995299370287265">在 X 查看原帖</a> · <a href="https://t.co/VUGqxvZrXL">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JustJorshin/status/2105904501358227921"><img src="https://pbs.twimg.com/media/HTms4X1XMAAsmRS?format=jpg&amp;name=medium" alt="Ollama 0.35 Adds Jev-Style Decision Models · 原帖图片" width="100%"></a>

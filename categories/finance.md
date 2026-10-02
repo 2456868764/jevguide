@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 232 | 129 | 105 | 1.2M |
+| 234 | 131 | 105 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dromarr/status/2105985072381727134"><img src="https://pbs.twimg.com/amplify_video_thumb/2105985057433309184/img/ZBdpM-O0178nKdT5.jpg" alt="Jev plugged into trading system, making decisions every 300ms · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dromarr/status/2105985072381727134">Jev plugged into trading system, making decisions every 300ms</a></h3>
+<p>A user plugged Jev into a trading system, enabling a new decision roughly every 300ms (buy, sell, hold). The post highlights the setup behind it rather than the bot itself.</p>
+<p><strong>中文摘要：</strong>一个用户将Jev接入交易系统，使其能够每300毫秒做出买入、卖出或持有决策。帖子强调背后的设置而非机器人本身。</p>
+<p><strong>Roman</strong> · @dromarr · 2026-10-02T11:35:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 14</p>
+<p><a href="https://x.com/dromarr/status/2105985072381727134">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Sprytixl/status/2105982276752327105"><img src="https://pbs.twimg.com/amplify_video_thumb/2105982087635275776/img/o28tQpOImyjkFPjM.jpg" alt="OPUS 5.5 + DOTS + JEV Build an Armed Trading Bot in 60 Minutes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sprytixl/status/2105982276752327105">OPUS 5.5 + DOTS + JEV Build an Armed Trading Bot in 60 Minutes</a></h3>
+<p>Sprytix demonstrates building a trading bot with three agents and 1.45M tokens in 60 minutes for $6.80, including cap, stop, and kill switch. The workflow: rules → data → backtest → armed.</p>
+<p><strong>中文摘要：</strong>Sprytix展示了如何使用三个代理和1.45M tokens，通过规则、数据、回测流程，快速搭建具备上限、止损和紧急停止功能的交易机器人，成本仅6.80美元。</p>
+<p><strong>Sprytix</strong> · @Sprytixl · 2026-10-02T11:24:36.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 519</p>
+<p><a href="https://x.com/Sprytixl/status/2105982276752327105">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/joinlearn_com/status/2105877686904111310"><img src="https://pbs.twimg.com/amplify_video_thumb/2105877620244066304/img/AfqHFwFUqYiDVX43.jpg" alt="Jev Trader Outperforms Local Baseline in Stock Backtest · 原帖视频截图" width="100%"></a>

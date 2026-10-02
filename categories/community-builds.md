@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 805 | 334 | 475 | 3.0M |
+| 813 | 336 | 481 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tomsmialowski/status/2106036475129200858"><img src="https://pbs.twimg.com/media/HTokY0QWEAAcqjm?format=jpg&amp;name=medium" alt="Jev vs Clef: Food Classification Test Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tomsmialowski/status/2106036475129200858">Jev vs Clef: Food Classification Test Comparison</a></h3>
+<p>The author compared Cloudflare&#39;s Clef and TypeSafe&#39;s Jev on 145 food products. Clef classified 138 correctly, Jev 136, but the author found Jev more convincing for automation.</p>
+<p><strong>中文摘要：</strong>作者在145个食品产品上比较了Cloudflare的Clef和TypeSafe的Jev模型，Clef正确分类138个，Jev正确136个，但作者认为Jev更适合自动化任务。</p>
+<p><strong>Tom Smialowski</strong> · @tomsmialowski · 2026-10-02T14:59:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/tomsmialowski/status/2106036475129200858">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2106031938481926301"><img src="https://pbs.twimg.com/tweet_video_thumb/HTn2DtvXUAI-zsL.jpg" alt="Experimenting with Jev and clef model on an ore miner · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2106031938481926301">Experimenting with Jev and clef model on an ore miner</a></h3>
+<p>In this tweet, 8Bit🦞 discusses an interesting take — if certain assumptions hold, ore&#39;s mining model could do much more than expected. He plans to experiment live using his new @ore computer miner, combining @typesafeai Jev with his own clef model to see if they can build something powerful.</p>
+<p><strong>中文摘要：</strong>推文中8Bit🦞讨论了一个新观点：如果某些假设成立，ore的挖矿模型可能比预期更强大。他计划在直播中用新的@ore computer miner，搭配@typesafeai Jev和自己的clef模型进行实验，看看能否打造出强大的组合。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-10-02T14:41:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 166</p>
+<p><a href="https://x.com/0rdlibrary/status/2106031938481926301">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/georgfranz/status/2106031219444179213"><img src="https://pbs.twimg.com/media/HTogOzVXUAAMy5A?format=png&amp;name=900x900" alt="Humorous take on Jev&#39;s statistics · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/georgfranz/status/2106031219444179213">Humorous take on Jev&#39;s statistics</a></h3>
+<p>The author jokes about Jev&#39;s statistics: death is not 100% guaranteed, and there is a 39% chance of a sequel, deciding not to question the methodology.</p>
+<p><strong>中文摘要：</strong>作者调侃 Jev 给出的统计结果：死亡并非 100% 确定，而且还有 39% 的续集概率，并决定不追问方法论。</p>
+<p><strong>Georg Franz</strong> · @georgfranz · 2026-10-02T14:39:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/georgfranz/status/2106031219444179213">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TaishiYamada99/status/2106029817942651048"><img src="https://pbs.twimg.com/media/HToemMAaMAAc6AS?format=jpg&amp;name=medium" alt="Trying Cloudflare Clef, mentioning something like Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TaishiYamada99/status/2106029817942651048">Trying Cloudflare Clef, mentioning something like Jev</a></h3>
+<p>The author is trying the newly released Cloudflare Clef (compared to something like Jev), worrying that the daily free quota of Workers AI will be used up quickly, and noting it depends on usage.</p>
+<p><strong>中文摘要：</strong>作者试用刚发布的Cloudflare Clef（被比作类似Jev的工具），担心Workers AI的每日免费额度很快被消耗完，并表示取决于使用方法。</p>
+<p><strong>Taishi Yamada</strong> · @TaishiYamada99 · 2026-10-02T14:33:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/TaishiYamada99/status/2106029817942651048">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_rody/status/2106029798531186719"><img src="https://pbs.twimg.com/amplify_video_thumb/2106029616490074113/img/bG6dx27T_QfL8X36.jpg" alt="Jev + Claude Opus 5.5: A Cost-Slashing Combo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x_rody/status/2106029798531186719">Jev + Claude Opus 5.5: A Cost-Slashing Combo</a></h3>
+<p>A user shares experience wiring Jev into Claude Opus 5.5: fork costs drop from ~$96/day to $3, and explains how Jev takes over scoring project notes.</p>
+<p><strong>中文摘要：</strong>用户分享将 Jev 接入 Claude Opus 5.5 的经验：fork 成本从每天约96美元降至3美元，并介绍 Jev 接管后如何为项目笔记评分。</p>
+<p><strong>rody</strong> · @0x_rody · 2026-10-02T14:33:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 433</p>
+<p><a href="https://x.com/0x_rody/status/2106029798531186719">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106021593105457305"><img src="https://pbs.twimg.com/media/HToXem9boAALGKf?format=jpg&amp;name=medium" alt="Ship with Jev: A Live Directory of 550+ Builds · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
 <p><a href="https://x.com/aiedge_/status/2106021593105457305">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106021568606572723"><img src="https://pbs.twimg.com/amplify_video_thumb/2106021537879056384/img/RoJ0NnO6yPay3B58.jpg" alt="Jev Productivity Hacks: 7 Best Open-Source Builds · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 784</p>
 <p><a href="https://x.com/aiedge_/status/2106021568606572723">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/danielmorris/status/2106020270578254080"><img src="https://pbs.twimg.com/media/HToWDtJWsAAToMI?format=png&amp;name=360x360" alt="System One Architecture Will Change Everything · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/danielmorris/status/2106020270578254080">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mad_Dog97/status/2106020151846117446"><img src="https://pbs.twimg.com/media/HToWJd_WkAAwYKJ?format=png&amp;name=medium" alt="User shares test results with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Mad_Dog97/status/2106020151846117446">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ageshah/status/2106016436154188234"><img src="https://pbs.twimg.com/media/HToShR1bwAAyFcV?format=jpg&amp;name=large" alt="Building a Claude decision-prompt mod with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/ageshah/status/2106016436154188234">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/o_devvy/status/2106015842987127091"><img src="https://pbs.twimg.com/media/HToR5rdXoAAgqdy?format=png&amp;name=medium" alt="Discussion: Fastino vs Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/o_devvy/status/2106015842987127091">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/geekylax/status/2106011442629783734"><img src="https://pbs.twimg.com/amplify_video_thumb/2106011303899009024/img/fEEPLhsEG72AqdMG.jpg" alt="Jev determines email urgency in under a second · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/geekylax/status/2106011442629783734">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kkgollu/status/2106010611608174860"><img src="https://pbs.twimg.com/media/HToNU6oaQAAO_6I?format=jpg&amp;name=medium" alt="Hands-on Jev Test: Comparing Against Mainstream Models · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/kkgollu/status/2106010611608174860">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TrainOfError/status/2106009576797601978"><img src="https://pbs.twimg.com/media/HToMi5_XMAAuz3V?format=png&amp;name=900x900" alt="Jev Results Threshold Tuning: 0.7 Sweet Spot · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
 <p><a href="https://x.com/TrainOfError/status/2106009576797601978">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/guille_cafe/status/2106009201164361877"><img src="https://pbs.twimg.com/amplify_video_thumb/2106006709147734016/img/gWQeol3RKtUNsZn8.jpg" alt="Classify 20,000 Hacker News hiring posts with Jev for only $1.30 · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/guille_cafe/status/2106009201164361877">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xchromium/status/2106008076767690898"><img src="https://pbs.twimg.com/amplify_video_thumb/2106006267139428352/img/rBqodzq85lQTMIU_.jpg" alt="TypeSafe DevRel lead explains how to ask Jev the right way · 原帖视频截图" width="100%"></a>
 <br>
@@ -140,6 +199,43 @@
 <p><strong>Chrome</strong> · @0xchromium · 2026-10-02T13:07:07.000Z</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 679</p>
 <p><a href="https://x.com/0xchromium/status/2106008076767690898">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nicoloboschi/status/2106006522232783196"><img src="https://pbs.twimg.com/media/HToJxEJWkAAC3No?format=jpg&amp;name=medium" alt="JEV Beats BGE-M3 in Reranking Benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nicoloboschi/status/2106006522232783196">JEV Beats BGE-M3 in Reranking Benchmark</a></h3>
+<p>TypeSafe AI&#39;s JEV was benchmarked as the reranker in Hindsight against production bge-reranker-v2-m3, improving nDCG@1 by 4.4% and MRR by 5.5% on NFCorpus.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 JEV 在 Hindsight 中作为重排序器，与生产级 bge-reranker-v2-m3 对比，在 NFCorpus 数据集上 nDCG@1 提升 4.4%，MRR 提升 5.5%。</p>
+<p><strong>Nicolò Boschi</strong> · @nicoloboschi · 2026-10-02T13:00:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 309</p>
+<p><a href="https://x.com/nicoloboschi/status/2106006522232783196">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MaziyarPanahi/status/2106006293320544341"><img src="https://pbs.twimg.com/media/HToHmpCW8AAZRdV?format=jpg&amp;name=medium" alt="Jev scores perfect on clinical decision test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MaziyarPanahi/status/2106006293320544341">Jev scores perfect on clinical decision test</a></h3>
+<p>The author tested multiple models on 48 synthetic clinical decisions (allergies, meds, family history, doses). Jev answered all correctly (48/48), while GLiNER2.5-Decide scored 36/48 and the author&#39;s internal intern model only 15/48. The author notes the model learned tool routing, not clinical judgment, and plans a single prompt to improve.</p>
+<p><strong>中文摘要：</strong>原帖作者用48个合成医疗决策（过敏、药物、家族史、剂量）测试多个模型，Jev 全部答对（48/48），而 GLiNER2.5-Decide 为36/48，内部实习模型仅15/48。作者还指出该模型学会了工具路由而非临床判断，计划下一步用提示词改进。</p>
+<p><strong>Maziyar PANAHI</strong> · @MaziyarPanahi · 2026-10-02T13:00:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 596</p>
+<p><a href="https://x.com/MaziyarPanahi/status/2106006293320544341">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/viraltikpost/status/2106005998548750802"><img src="https://pbs.twimg.com/media/HToJSbaXYAAN5-B?format=jpg&amp;name=medium" alt="Rezi AI Case Study Made with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/viraltikpost/status/2106005998548750802">Rezi AI Case Study Made with Jev</a></h3>
+<p>Gregory Perl shares a Rezi AI case study built with Jev, with a link to sobyai.xyz.</p>
+<p><strong>中文摘要：</strong>Gregory Perl 分享了使用 Jev 制作的 Rezi AI 案例研究，并附带了 sobyai.xyz 链接。</p>
+<p><strong>Gregory Perl</strong> · @viraltikpost · 2026-10-02T12:58:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/viraltikpost/status/2106005998548750802">在 X 查看原帖</a> · <a href="https://t.co/aGRlzKWyr1">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/ashishtipstat/status/2105995456459558944"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995345117483008/img/CRX4mV4EYLXnKeAv.jpg" alt="Trained a tiny model on a laptop — see where Jev fits · 原帖视频截图" width="100%"></a>

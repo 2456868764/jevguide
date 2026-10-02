@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 368 | 175 | 196 | 1.1M |
+| 370 | 176 | 197 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MLflow/status/2106038472779710951"><img src="https://pbs.twimg.com/media/HTomE0CW8AAdAwd?format=jpg&amp;name=medium" alt="Jev Performance on LLM Judge Dataset · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MLflow/status/2106038472779710951">Jev Performance on LLM Judge Dataset</a></h3>
+<p>Jev achieved 64/72 human labels on a harder LLM-judge dataset, while GPT-OSS-120B scored 72/72. Jev&#39;s median latency is 0.20s vs 1.44s, with an estimated cost of $0.020 per 1,000 judgments. Retrospective analysis shows routing uncertain judgments to a second model corrected observed misses.</p>
+<p><strong>中文摘要：</strong>Jev 在更难的 LLM 评估数据集上取得 64/72 的人类标签分数，而 GPT-OSS-120B 为 72/72。Jev 的中位延迟为 0.20 秒（对比 1.44 秒），估计每千次判断成本仅 $0.020。回顾性分析表明，将不确定的判断路由至第二模型可修正观察到的遗漏。</p>
+<p><strong>MLflow</strong> · @MLflow · 2026-10-02T15:07:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/MLflow/status/2106038472779710951">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/serenedata/status/2106036925312172472"><img src="https://pbs.twimg.com/amplify_video_thumb/2106036874703708160/img/cYKf2Zymlh134WF4.jpg" alt="SereneDB adds native support for Jev decision models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/serenedata/status/2106036925312172472">SereneDB adds native support for Jev decision models</a></h3>
+<p>In its Friday drop, SereneDB announces native support for Jev decision models by TypeSafe AI. Since Jev has been trending lately, SereneDB shipped the integration and let Jev decide whether this post was urgent — it scored it critical.</p>
+<p><strong>中文摘要：</strong>SereneDB 在周五更新中宣布，新增对 TypeSafe AI 开发的 Jev 决策模型的原生支持。Jev 近期广受关注，SereneDB 选择直接集成，并用 Jev 判断该更新帖的紧急程度，结果显示为“严重”。</p>
+<p><strong>SereneDB</strong> · @serenedata · 2026-10-02T15:01:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/serenedata/status/2106036925312172472">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/johnbhiggins/status/2106022853208592582"><img src="https://pbs.twimg.com/media/HToYKCfXoAApJjt?format=jpg&amp;name=medium" alt="Cloudflare claims its decision model beats Jev in speed and quality · 原帖图片" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 370 | 154 | 216 | 802K |
+| 372 | 155 | 217 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Mimir_Markets/status/2106031731195175255"><img src="https://pbs.twimg.com/amplify_video_thumb/2106031251547115520/img/5o22vNd5q72yeZZR.jpg" alt="Mimir to Integrate TypeSafe&#39;s Jev Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mimir_Markets/status/2106031731195175255">Mimir to Integrate TypeSafe&#39;s Jev Decision Model</a></h3>
+<p>Mimir is about to integrate Jev, TypeSafe AI&#39;s decision model. Jev offers typed choices with probabilities instead of free text, intended for oracle second opinions, council stakes, and claim quality. The goal is faster, cheaper, and better-calibrated verdicts, as measured on /calibration.</p>
+<p><strong>中文摘要：</strong>Mimir 即将集成 TypeSafe AI 的决策模型 Jev。Jev 提供带概率的类型化选项而非自由文本，用于预言机第二意见、委员会质押和声明质量。目标是在 /calibration 上衡量更快、更便宜、校准更佳的裁决。</p>
+<p><strong>Mimir</strong> · @Mimir_Markets · 2026-10-02T14:41:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 114</p>
+<p><a href="https://x.com/Mimir_Markets/status/2106031731195175255">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/msdkim0424/status/2106016350925901939"><img src="https://pbs.twimg.com/amplify_video_thumb/2106012087474364416/img/vY2LHEQgS_NEYxIR.jpg" alt="Jev lands on Replit · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/msdkim0424/status/2106016350925901939">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikhilx22/status/2106012440882516056"><img src="https://pbs.twimg.com/amplify_video_thumb/2105949115796668417/img/xXSG0X2zJ8hzaXao.jpg" alt="Jev integrated into treg_ai team workflows · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 74</p>
 <p><a href="https://x.com/nikhilx22/status/2106012440882516056">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MannyBernabe/status/2106012416471392363"><img src="https://pbs.twimg.com/amplify_video_thumb/2106012087474364416/img/vY2LHEQgS_NEYxIR.jpg" alt="Jev is now available in Replit · 原帖视频截图" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>Manny Bernabe</strong> · @MannyBernabe · 2026-10-02T13:24:22.000Z</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 147</p>
 <p><a href="https://x.com/MannyBernabe/status/2106012416471392363">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hemran_7282/status/2106006638645662150"><img src="https://pbs.twimg.com/media/HToJ3DxbcAAmNla?format=jpg&amp;name=large" alt="Cloudflare Clef is Jev-API compatible and claims lower latency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hemran_7282/status/2106006638645662150">Cloudflare Clef is Jev-API compatible and claims lower latency</a></h3>
+<p>The post mentions Cloudflare&#39;s Clef model offers a similar interface, supports multimodal, and posts lower median latency in tests (flash 39 ms). It is Jev-API compatible, currently leading the decision-model index, with a 9B flash variant on Workers AI.</p>
+<p><strong>中文摘要：</strong>帖子提到 Cloudflare 的 Clef 模型提供类似界面、支持多模态，并且测试中位延迟更低（flash 39 ms），同时兼容 Jev API，目前在决策模型指数中领先，还有 9B flash 变体运行在 Workers AI 上。</p>
+<p><strong>MD Emran Hossain</strong> · @hemran_7282 · 2026-10-02T13:01:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/hemran_7282/status/2106006638645662150">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/soundinspire9/status/2105995578882851152"><img src="https://pbs.twimg.com/media/HTn-GOcbUAAI_ZE?format=jpg&amp;name=medium" alt="Connecting Jev to Claude Code and Codex · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 502 | 221 | 282 | 1.6M |
+| 504 | 221 | 284 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EM360Tech/status/2106038065617895542"><img src="https://pbs.twimg.com/media/HTomPffX0AAkzeQ?format=jpg&amp;name=medium" alt="What Is Jev AI? Understanding Structured Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EM360Tech/status/2106038065617895542">What Is Jev AI? Understanding Structured Decision Models</a></h3>
+<p>EM360Tech explains how Jev AI makes structured decisions, how it differs from an LLM, and where decision models could fit into enterprise AI.</p>
+<p><strong>中文摘要：</strong>EM360Tech 发文解析 Jev AI 如何做出结构化决策，对比其与 LLM 的区别，并探讨决策模型在企业 AI 中的潜在应用位置。</p>
+<p><strong>EM360Tech</strong> · @EM360Tech · 2026-10-02T15:06:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/EM360Tech/status/2106038065617895542">在 X 查看原帖</a> · <a href="https://t.co/LLAmbeMfNZ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/agenteer/status/2106037987762958393"><img src="https://pbs.twimg.com/media/HTodAFIWIAEyhSB?format=jpg&amp;name=medium" alt="Jev AI Explained: Decision Model vs Chat Model and How to Use It · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/agenteer/status/2106037987762958393">Jev AI Explained: Decision Model vs Chat Model and How to Use It</a></h3>
+<p>Jev, from TypeSafe, is a decision model that picks a category, answers yes/no, or scores against a scale. This post provides a hands-on explanation of what a decision model is, why it differs from a chat model, and how to use it to build your own tools.</p>
+<p><strong>中文摘要：</strong>来自TypeSafe的Jev模型，是一种决策模型，能够选择类别、回答是/否或按量表评分。本内容通过实际操作演示Jev与聊天模型的不同，并展示如何基于Jev构建自己的工具。</p>
+<p><strong>Charles Shen</strong> · @agenteer · 2026-10-02T15:05:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/agenteer/status/2106037987762958393">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clixlogix/status/2106022140483154056"><img src="https://pbs.twimg.com/media/HToX-d4a8AEBart?format=jpg&amp;name=medium" alt="OpenAI Decisions API vs Jev 1.13: Public Comparison · 原帖图片" width="100%"></a>

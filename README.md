@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4788</strong><br>curated posts</td>
-<td align="center"><strong>2473</strong><br>original videos</td>
+<td align="center"><strong>4814</strong><br>curated posts</td>
+<td align="center"><strong>2483</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>805</strong> showcases · <strong>334</strong> videos</p>
+<p><strong>813</strong> showcases · <strong>336</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>502</strong> showcases · <strong>221</strong> videos</p>
+<p><strong>504</strong> showcases · <strong>221</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>482</strong> showcases · <strong>247</strong> videos</p>
+<p><strong>486</strong> showcases · <strong>247</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>370</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>372</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>368</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>370</strong> showcases · <strong>176</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>358</strong> showcases · <strong>205</strong> videos</p>
+<p><strong>359</strong> showcases · <strong>206</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>304</strong> showcases · <strong>119</strong> videos</p>
+<p><strong>307</strong> showcases · <strong>121</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>236</strong> showcases · <strong>132</strong> videos</p>
+<p><strong>238</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>202</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>203</strong> showcases · <strong>136</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>132</strong> showcases · <strong>99</strong> videos</p>
+<p><strong>133</strong> showcases · <strong>100</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/johnbhiggins/status/2106022853208592582"><img src="https://pbs.twimg.com/media/HToYKCfXoAApJjt?format=jpg&amp;name=medium" alt="Cloudflare claims its decision model beats Jev in speed and quality · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/johnbhiggins/status/2106022853208592582">Cloudflare claims its decision model beats Jev in speed and quality</a></h3>
-<p>The post cites John&#39;s tweet claiming Cloudflare&#39;s released decision model outperforms Jev in both speed and quality, without specifics or benchmarks.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>John</strong> · @johnbhiggins</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/thegreatest_sv/status/2106038747485855844"><img src="https://pbs.twimg.com/amplify_video_thumb/2105999476120797184/img/hRRwxPX6tPezxLLA.jpg" alt="Building an Automated Newsroom with Grok and JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/thegreatest_sv/status/2106038747485855844">Building an Automated Newsroom with Grok and JEV</a></h3>
+<p>The author uses Grok to hunt viral X posts, JEV to decide what deserves attention, and only shows up to approve.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>kiosa</strong> · @thegreatest_sv</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/clixlogix/status/2106022140483154056"><img src="https://pbs.twimg.com/media/HToX-d4a8AEBart?format=jpg&amp;name=medium" alt="OpenAI Decisions API vs Jev 1.13: Public Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/clixlogix/status/2106022140483154056">OpenAI Decisions API vs Jev 1.13: Public Comparison</a></h3>
-<p>The post references a comparison between OpenAI Decisions API and Jev 1.13, based on currently public information, highlighting developments in decision models and AI engineering.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Clixlogix</strong> · @clixlogix</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/MLflow/status/2106038472779710951"><img src="https://pbs.twimg.com/media/HTomE0CW8AAdAwd?format=jpg&amp;name=medium" alt="Jev Performance on LLM Judge Dataset · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MLflow/status/2106038472779710951">Jev Performance on LLM Judge Dataset</a></h3>
+<p>Jev achieved 64/72 human labels on a harder LLM-judge dataset, while GPT-OSS-120B scored 72/72. Jev&#39;s median latency is 0.20s vs 1.44s, with an estimated cost of $0.020 per 1,000 judgments. Retrospective analysis shows routing uncertain judgments to a second model corrected observed misses.</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>MLflow</strong> · @MLflow</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiedge_/status/2106021673879367884"><img src="https://pbs.twimg.com/media/HToXjVja8AAPOoK?format=png&amp;name=medium" alt="Jev Voice Browser · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2106021673879367884">Jev Voice Browser</a></h3>
-<p>Use Jev to act on behalf of your real browser using voice: speech in browser, ask Jev, decide/take action.</p>
-<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/EM360Tech/status/2106038065617895542"><img src="https://pbs.twimg.com/media/HTomPffX0AAkzeQ?format=jpg&amp;name=medium" alt="What Is Jev AI? Understanding Structured Decision Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/EM360Tech/status/2106038065617895542">What Is Jev AI? Understanding Structured Decision Models</a></h3>
+<p>EM360Tech explains how Jev AI makes structured decisions, how it differs from an LLM, and where decision models could fit into enterprise AI.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>EM360Tech</strong> · @EM360Tech</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiedge_/status/2106021641872605394"><img src="https://pbs.twimg.com/media/HToXhcUbkAA-hnS?format=jpg&amp;name=medium" alt="Jev Adblock: No Filter Lists Needed · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2106021641872605394">Jev Adblock: No Filter Lists Needed</a></h3>
-<p>Introducing an ad blocker powered by the Jev model that ditches traditional filter lists. It describes each page element structurally and asks Jev a single question: &#39;Is this an ad?&#39; — enabling dynamic, adaptive ad detection.</p>
-<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<a href="https://x.com/agenteer/status/2106037987762958393"><img src="https://pbs.twimg.com/media/HTodAFIWIAEyhSB?format=jpg&amp;name=medium" alt="Jev AI Explained: Decision Model vs Chat Model and How to Use It · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/agenteer/status/2106037987762958393">Jev AI Explained: Decision Model vs Chat Model and How to Use It</a></h3>
+<p>Jev, from TypeSafe, is a decision model that picks a category, answers yes/no, or scores against a scale. This post provides a hands-on explanation of what a decision model is, why it differs from a chat model, and how to use it to build your own tools.</p>
+<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Charles Shen</strong> · @agenteer</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/johnbhiggins/status/2106022853208592582"><img src="https://pbs.twimg.com/media/HToYKCfXoAApJjt?format=jpg&amp;name=medium" alt="Cloudflare claims its decision model beats Jev in speed and quality · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/johnbhiggins/status/2106022853208592582">Cloudflare claims its decision model beats Jev in speed and quality</a></h3>
-<p>The post cites John&#39;s tweet claiming Cloudflare&#39;s released decision model outperforms Jev in both speed and quality, without specifics or benchmarks.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>John</strong> · @johnbhiggins</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/thegreatest_sv/status/2106038747485855844"><img src="https://pbs.twimg.com/amplify_video_thumb/2105999476120797184/img/hRRwxPX6tPezxLLA.jpg" alt="Building an Automated Newsroom with Grok and JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/thegreatest_sv/status/2106038747485855844">Building an Automated Newsroom with Grok and JEV</a></h3>
+<p>The author uses Grok to hunt viral X posts, JEV to decide what deserves attention, and only shows up to approve.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>kiosa</strong> · @thegreatest_sv</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiedge_/status/2106021641872605394"><img src="https://pbs.twimg.com/media/HToXhcUbkAA-hnS?format=jpg&amp;name=medium" alt="Jev Adblock: No Filter Lists Needed · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2106021641872605394">Jev Adblock: No Filter Lists Needed</a></h3>
-<p>Introducing an ad blocker powered by the Jev model that ditches traditional filter lists. It describes each page element structurally and asks Jev a single question: &#39;Is this an ad?&#39; — enabling dynamic, adaptive ad detection.</p>
-<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<a href="https://x.com/agenteer/status/2106037987762958393"><img src="https://pbs.twimg.com/media/HTodAFIWIAEyhSB?format=jpg&amp;name=medium" alt="Jev AI Explained: Decision Model vs Chat Model and How to Use It · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/agenteer/status/2106037987762958393">Jev AI Explained: Decision Model vs Chat Model and How to Use It</a></h3>
+<p>Jev, from TypeSafe, is a decision model that picks a category, answers yes/no, or scores against a scale. This post provides a hands-on explanation of what a decision model is, why it differs from a chat model, and how to use it to build your own tools.</p>
+<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Charles Shen</strong> · @agenteer</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiedge_/status/2106021625934311541"><img src="https://pbs.twimg.com/media/HToXggnaEAAJ-_Q?format=jpg&amp;name=medium" alt="Jev MCP: 11 judgment tools for Claude Code and Codex · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2106021625934311541">Jev MCP: 11 judgment tools for Claude Code and Codex</a></h3>
-<p>Introducing Jev MCP, 11 judgment tools you can drop into Claude Code or Codex to enhance decision-making in AI-assisted development.</p>
-<p><strong>32</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/mertdurmazer/status/2106037266649166261"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106036937433972736/pu/img/5CgaipoSIn4h3P6T.jpg" alt="Analyzing 7 Creators&#39; Top Posts with Jev Reveals What Works · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/mertdurmazer/status/2106037266649166261">Analyzing 7 Creators&#39; Top Posts with Jev Reveals What Works</a></h3>
+<p>The author had Jev analyze 221 top posts from 7 creators in 51 seconds for just $0.032, making 1,547 decisions. Findings: how-to hooks save 3.2x the median, real numbers as proof 2.1x, and text-only posts only 0.5x.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Mert Durmazer</strong> · @mertdurmazer</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/_duyet/status/2106018677384683826"><img src="https://pbs.twimg.com/media/HToUi-jbgAA1eMU?format=jpg&amp;name=medium" alt="AnyRouter Now Routes Across 9 Decision Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/_duyet/status/2106018677384683826">AnyRouter Now Routes Across 9 Decision Models</a></h3>
-<p>Decision models like Jev keep growing; AnyRouter now integrates 9 of them and can route automatically via anyrouter/decision.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>duyet</strong> · @_duyet</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/0rdlibrary/status/2106031938481926301"><img src="https://pbs.twimg.com/tweet_video_thumb/HTn2DtvXUAI-zsL.jpg" alt="Experimenting with Jev and clef model on an ore miner · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2106031938481926301">Experimenting with Jev and clef model on an ore miner</a></h3>
+<p>In this tweet, 8Bit🦞 discusses an interesting take — if certain assumptions hold, ore&#39;s mining model could do much more than expected. He plans to experiment live using his new @ore computer miner, combining @typesafeai Jev with his own clef model to see if they can build something powerful.</p>
+<p><strong>166</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 166</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 </tr>
 </table>

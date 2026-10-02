@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 236 | 132 | 106 | 1.2M |
+| 238 | 133 | 107 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tobiadonadon_/status/2106030693818261649"><img src="https://pbs.twimg.com/media/HToMGJQWUAA4mNQ?format=jpg&amp;name=medium" alt="Build a Prediction Market Trading Agent with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tobiadonadon_/status/2106030693818261649">Build a Prediction Market Trading Agent with Jev</a></h3>
+<p>A user shares a prompt to paste into Claude Code, using Opus 5.5 and Jev to build a fully automated prediction market trading agent, claiming $800 profit in 10 days.</p>
+<p><strong>中文摘要：</strong>用户分享将提示词粘贴到 Claude Code，借助 Opus 5.5 和 Jev 构建全自动预测市场交易代理，并声称10天赚了800美元。</p>
+<p><strong>Tobi</strong> · @tobiadonadon_ · 2026-10-02T14:37:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/tobiadonadon_/status/2106030693818261649">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGretche/status/2106027084908822853"><img src="https://pbs.twimg.com/amplify_video_thumb/2106026283175919616/img/JsoLA8BmiDzt8qfK.jpg" alt="Use Jev to Review Trade Setups, Not Predict Price · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGretche/status/2106027084908822853">Use Jev to Review Trade Setups, Not Predict Price</a></h3>
+<p>The author shares how to use AI in trading without turning it into a price-prediction machine: using Jev to review existing trade setups rather than asking where price goes next.</p>
+<p><strong>中文摘要：</strong>作者分享了如何将AI用于交易而不沦为预测价格的机器：使用Jev来审查已有的交易设置，而非询问价格走势。</p>
+<p><strong>Certif Gretche</strong> · @0xGretche · 2026-10-02T14:22:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/0xGretche/status/2106027084908822853">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xDeniAi/status/2106012990189207940"><img src="https://pbs.twimg.com/amplify_video_thumb/2106012858169356288/img/W9fcbQ_5rbHh-MaW.jpg" alt="Jev-Powered Trading Setup Profits in Simulation · 原帖视频截图" width="100%"></a>

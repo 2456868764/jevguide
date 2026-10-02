@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 482 | 247 | 237 | 3.6M |
+| 486 | 247 | 241 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/joseairosa/status/2106037146649767940"><img src="https://pbs.twimg.com/media/HToln8PXoAAb-R_?format=jpg&amp;name=medium" alt="Jev vs Cloudflare Clef Models: Real-World QA Benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joseairosa/status/2106037146649767940">Jev vs Cloudflare Clef Models: Real-World QA Benchmark</a></h3>
+<p>An independent developer shares benchmark results of Jev vs Cloudflare Clef-flash and Clef in QAJev, an open-source QA tool: Jev matches Clef in decision consistency and is faster on local hardware.</p>
+<p><strong>中文摘要：</strong>独立开发者分享在 QAJev 开源 QA 工具中对 Jev 与 Cloudflare Clef-flash、Clef 模型的测试结果：Jev 在决策一致性上与 Clef 持平，且本地运行速度更快。</p>
+<p><strong>José Airosa</strong> · @joseairosa · 2026-10-02T15:02:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/joseairosa/status/2106037146649767940">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/p0lybender/status/2106032559624687737"><img src="https://pbs.twimg.com/media/HTohcjZXkAAdKyS?format=png&amp;name=900x900" alt="Jev placed above Codex in coding agent comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/p0lybender/status/2106032559624687737">Jev placed above Codex in coding agent comparison</a></h3>
+<p>The post notes that someone placed Jev above Codex to watch it work, then criticizes a core flaw in current coding agents: a stuck model cannot reliably tell you it&#39;s stuck. It introduces Foreman, which fixes this with two concurrent mechanisms.</p>
+<p><strong>中文摘要：</strong>帖子指出有人将 Jev 置于 Codex 之上进行观察，随后批评当前编码智能体的根本问题：模型在卡住时无法准确判断并报告自身状态。帖子提出 Foreman 通过两个并发机制来解决此缺陷。</p>
+<p><strong>PolyBender</strong> · @p0lybender · 2026-10-02T14:44:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/p0lybender/status/2106032559624687737">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jetwaniavinash/status/2106030576557850835"><img src="https://pbs.twimg.com/media/HTofnc5W4AA9SgB?format=jpg&amp;name=medium" alt="jevmem: Using Jev to Keep Project Memory for Claude Code · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jetwaniavinash/status/2106030576557850835">jevmem: Using Jev to Keep Project Memory for Claude Code</a></h3>
+<p>Developer Avinash Jetwani introduces jevmem, a tool that uses TypeSafe&#39;s Jev model to pick key context from each Claude Code message and write it to JEVMEM.md. In 72 real sessions, Claude followed project decisions 66 times with it, versus 28 without.</p>
+<p><strong>中文摘要：</strong>开发者 Avinash Jetwani 推出 jevmem，一个利用 TypeSafe 的 Jev 模型从每条 Claude Code 消息中精选关键上下文并写入 JEVMEM.md 的工具。在 72 次实际会话中，Claude 遵循项目决策的次数从 28 次提升至 66 次。</p>
+<p><strong>Jetwani Avinash</strong> · @jetwaniavinash · 2026-10-02T14:36:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/jetwaniavinash/status/2106030576557850835">在 X 查看原帖</a> · <a href="https://t.co/rxxOf6CIxi">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iamericpereira/status/2106030499600662687"><img src="https://pbs.twimg.com/media/HTofknNWcAAG4uh?format=jpg&amp;name=medium" alt="Jev vs Clef-flash: 13x Latency Gap · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iamericpereira/status/2106030499600662687">Jev vs Clef-flash: 13x Latency Gap</a></h3>
+<p>Compares Cloudflare Clef-flash and TypeSafe Jev latency and cost, recommending routing routine calls to the cheap fast model and saving the expensive brain for hard ones.</p>
+<p><strong>中文摘要：</strong>对比 Cloudflare Clef-flash 与 TypeSafe Jev 的延迟和成本，建议将常规调用路由到廉价快速模型，保留昂贵模型处理难题。</p>
+<p><strong>Eric Pereira</strong> · @iamericpereira · 2026-10-02T14:36:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/iamericpereira/status/2106030499600662687">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106021625934311541"><img src="https://pbs.twimg.com/media/HToXggnaEAAJ-_Q?format=jpg&amp;name=medium" alt="Jev MCP: 11 judgment tools for Claude Code and Codex · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 468 | 240 | 230 | 3.6M |
+| 470 | 241 | 231 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MaxForAI/status/2105881503226098094">Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen</a></h3>
+<p>Cloudflare has fine-tuned and open-sourced two Jev models: Clef, a decision model post-trained on Qwen3.8-27B, and Clef-flash based on Qwen3.5-9B.</p>
+<p><strong>中文摘要：</strong>Cloudflare微调并开源了两个Jev模型：基于Qwen3.8-27B的Clef决策模型，以及基于Qwen3.5-9B的Clef-flash。</p>
+<p><strong>Max For AI</strong> · @MaxForAI · 2026-10-02T04:44:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><a href="https://x.com/MaxForAI/status/2105881503226098094">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/willwhitedc/status/2105870856497078671"><img src="https://pbs.twimg.com/amplify_video_thumb/2105744187656134656/img/tbFYs1PiRGqcxAUK.jpg" alt="Model Routing with TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/willwhitedc/status/2105870856497078671">Model Routing with TypeSafe Jev</a></h3>
+<p>Will White posts about model routing across Desert Ant Labs with TypeSafe AI&#39;s Jev, highlighting Jev&#39;s role in AI model distribution.</p>
+<p><strong>中文摘要：</strong>Will White 发帖提到使用 TypeSafe AI 的 Jev 模型与 Desert Ant Labs 进行模型路由，展示了 Jev 在模型分发和调用方面的应用。</p>
+<p><strong>Will White</strong> · @willwhitedc · 2026-10-02T04:01:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/willwhitedc/status/2105870856497078671">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Aj_bucketshow/status/2105864993074032766"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864232868945920/img/bMSwtjYzzId2FHPM.jpg" alt="Jev, but yours — your own decision model · 原帖视频截图" width="100%"></a>

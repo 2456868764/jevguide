@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 774 | 322 | 456 | 3.0M |
+| 776 | 323 | 457 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/schultetrevor/status/2105881118939771264"><img src="https://pbs.twimg.com/media/HTmXtpNa8AA3VOX?format=jpg&amp;name=medium" alt="Generative UI Night with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/schultetrevor/status/2105881118939771264">Generative UI Night with Jev</a></h3>
+<p>The community is leveraging Jev for UI, design system decisions, autocomplete, and feed comment scoring. A great vibe at generative UI night.</p>
+<p><strong>中文摘要：</strong>社区正在使用 Jev 处理界面设计、设计系统决策、自动补全和评论评分等任务，生成式 UI 之夜气氛热烈。</p>
+<p><strong>Trevor Schulte</strong> · @schultetrevor · 2026-10-02T04:42:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/schultetrevor/status/2105881118939771264">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Don12262/status/2105862968470872280"><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg" alt="Discussion on TypeSafe AI Jev Model vs OpenAI · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>techie_trader</strong> · @Don12262 · 2026-10-02T03:30:31.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Don12262/status/2105862968470872280">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thursdai_pod/status/2105858910615896086"><img src="https://pbs.twimg.com/amplify_video_thumb/2105094315110436864/img/jvGmwboMQNyf3ZCu.jpg" alt="The Jev effect continues: community turns any model into a Jev-style decision model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thursdai_pod/status/2105858910615896086">The Jev effect continues: community turns any model into a Jev-style decision model</a></h3>
+<p>ThursdAI podcast notes the Jev effect keeps spreading: community projects like sgl_project are turning models such as Qwen into Jev-style decision models, with talk of running Jev cores on iPhone.</p>
+<p><strong>中文摘要：</strong>ThursdAI 播客提到 Jev 效应持续扩散，社区项目如 sgl_project 正将 Qwen 等模型转为 Jev 风格决策模型，并讨论在 iPhone 上运行 Jev 核心。</p>
+<p><strong>📅 ThursdAI - live 8:30am every Thu</strong> · @thursdai_pod · 2026-10-02T03:14:23.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/thursdai_pod/status/2105858910615896086">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/eichiyorozu/status/2105858053862277363"><img src="https://pbs.twimg.com/media/HTmCieFaEAA_6q1?format=jpg&amp;name=medium" alt="Cloudflare Clef Seen as Strong Candidate for Jev-style Decision Model · 原帖图片" width="100%"></a>

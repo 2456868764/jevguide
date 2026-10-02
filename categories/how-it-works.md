@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 486 | 213 | 274 | 1.6M |
+| 488 | 213 | 276 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297"><img src="https://pbs.twimg.com/media/HTmTIHfW4AAOHQ0?format=png&amp;name=medium" alt="Is Jev Secretly Learning a Value Function? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297">Is Jev Secretly Learning a Value Function?</a></h3>
+<p>Explores how Jev distinguishes fast choices from deeper reasoning and how it fits into System One.</p>
+<p><strong>中文摘要：</strong>探讨Jev模型如何区分快速选择与深度推理，以及其与System One的整合方式。</p>
+<p><strong>Souradip Chakraborty</strong> · @SOURADIPCHAKR18 · 2026-10-02T04:37:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aigeeknews/status/2105870474127544444"><img src="https://pbs.twimg.com/media/HTmOATcbEAAULdo?format=jpg&amp;name=medium" alt="Open-Source Decision Model vs Jev and New RL Fine-Tuning Platform · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aigeeknews/status/2105870474127544444">Open-Source Decision Model vs Jev and New RL Fine-Tuning Platform</a></h3>
+<p>Cloudflare open-sourced edge-runnable decision models that output structured judgments instead of free text; the article compares them with Jev and introduces a new RL fine-tuning service.</p>
+<p><strong>中文摘要：</strong>Cloudflare开源可在边缘运行的决策模型，输出结构化判断而非自由文本，文章对比其与Jev的差异，并介绍新的强化学习微调服务。</p>
+<p><strong>AI 极客新闻</strong> · @aigeeknews · 2026-10-02T04:00:20.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/aigeeknews/status/2105870474127544444">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/memonoid/status/2105862839986430058"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105142442856976384/pu/img/diyaYpeOjbtQzyY3.jpg" alt="JEV: Hype or Type-Safe Next-Token Classifier? · 原帖视频截图" width="100%"></a>

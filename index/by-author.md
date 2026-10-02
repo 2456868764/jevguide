@@ -7,8 +7,8 @@
 - [Florian S](../authors/florian-s.md) — 15
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 15
 - [Geek Lite](../authors/geek-lite.md) — 13
+- [AI 极客新闻](../authors/ai-极客新闻.md) — 12
 - [WTome](../authors/wtome.md) — 12
-- [AI 极客新闻](../authors/ai-极客新闻.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
@@ -434,6 +434,7 @@
 - [Martin](../authors/martin.md) — 2
 - [Matt DesLauriers](../authors/matt-deslauriers.md) — 2
 - [Max Blade](../authors/max-blade.md) — 2
+- [Max For AI](../authors/max-for-ai.md) — 2
 - [Mehmet Eren Dikmen](../authors/mehmet-eren-dikmen.md) — 2
 - [Mentis 🇦🇺](../authors/mentis.md) — 2
 - [Michael Guo](../authors/michael-guo.md) — 2
@@ -647,6 +648,7 @@
 - [🐖 ソロでぶ（solo.dev）｜開発牧場の家畜](../authors/solo-dev-開発牧場-家畜.md) — 1
 - [🐱๓Ꭵʂαԃ𐑾σᎥԃ🐱](../authors/jev-showcase.md) — 1
 - [💥](../authors/jev-showcase.md) — 1
+- [📅 ThursdAI - live 8:30am every Thu](../authors/thursdai-live-8-30am-every-thu.md) — 1
 - [📺 archie^^🪄](../authors/archie.md) — 1
 - [🔝芒种金狗👑](../authors/芒种金狗.md) — 1
 - [🤷 Nico Martin](../authors/nico-martin.md) — 1
@@ -1262,6 +1264,7 @@
 - [Devoxx](../authors/devoxx.md) — 1
 - [devrev](../authors/devrev.md) — 1
 - [Dex](../authors/dex.md) — 1
+- [dfkai](../authors/dfkai.md) — 1
 - [DGrid AI](../authors/dgrid-ai.md) — 1
 - [Dhairya Karekar](../authors/dhairya-karekar.md) — 1
 - [Dhanji Bhagat](../authors/dhanji-bhagat.md) — 1
@@ -1880,6 +1883,7 @@
 - [Krzysztof Staroń](../authors/krzysztof-staron.md) — 1
 - [KShivendu 🌁](../authors/kshivendu.md) — 1
 - [ku 空](../authors/ku-空.md) — 1
+- [Kuan Yi Wang](../authors/kuan-yi-wang.md) — 1
 - [Kuanze Ma](../authors/kuanze-ma.md) — 1
 - [Kuberan Marimuthu (Kube)](../authors/kuberan-marimuthu-kube.md) — 1
 - [KuCoin](../authors/kucoin.md) — 1
@@ -2036,7 +2040,6 @@
 - [Mau Baron](../authors/mau-baron.md) — 1
 - [maudev](../authors/maudev.md) — 1
 - [Maverick](../authors/maverick.md) — 1
-- [Max For AI](../authors/max-for-ai.md) — 1
 - [Max Petrusenko](../authors/max-petrusenko.md) — 1
 - [Max Shaw](../authors/max-shaw.md) — 1
 - [Max_Xu](../authors/max-xu.md) — 1
@@ -2220,6 +2223,7 @@
 - [Nitor](../authors/nitor.md) — 1
 - [Nivedit Jain](../authors/nivedit-jain.md) — 1
 - [niwacis](../authors/niwacis.md) — 1
+- [nlev](../authors/nlev.md) — 1
 - [Noah](../authors/noah.md) — 1
 - [nocoo](../authors/nocoo.md) — 1
 - [Noisy](../authors/noisy.md) — 1
@@ -2446,6 +2450,7 @@
 - [Richmond Alake](../authors/richmond-alake.md) — 1
 - [Rick Manelius](../authors/rick-manelius.md) — 1
 - [Rick Wong](../authors/rick-wong.md) — 1
+- [Rikin Shah](../authors/rikin-shah.md) — 1
 - [Riley Coyote](../authors/riley-coyote.md) — 1
 - [Rina W](../authors/rina-w.md) — 1
 - [𝐑𝐢𝐫𝐢👾](../authors/riri.md) — 1
@@ -2671,6 +2676,7 @@
 - [SOS](../authors/sos.md) — 1
 - [Soumya](../authors/soumya.md) — 1
 - [Soumyaranjan Panda](../authors/soumyaranjan-panda.md) — 1
+- [Souradip Chakraborty](../authors/souradip-chakraborty.md) — 1
 - [Source Strong AI](../authors/source-strong-ai.md) — 1
 - [Sova](../authors/sova.md) — 1
 - [spark* (uni)](../authors/spark-uni.md) — 1
@@ -2842,6 +2848,7 @@
 - [Treff](../authors/treff.md) — 1
 - [Treg](../authors/treg.md) — 1
 - [Trend0x | Cognitive AI Trading](../authors/trend0x-cognitive-ai-trading.md) — 1
+- [Trevor Schulte](../authors/trevor-schulte.md) — 1
 - [Tristan Lee](../authors/tristan-lee.md) — 1
 - [trou](../authors/trou.md) — 1
 - [tshmieldev](../authors/tshmieldev.md) — 1
@@ -2957,6 +2964,7 @@
 - [Will (Exploring AI)](../authors/will-exploring-ai.md) — 1
 - [Will Kriski](../authors/will-kriski.md) — 1
 - [Will Weinbach](../authors/will-weinbach.md) — 1
+- [Will White](../authors/will-white.md) — 1
 - [William Namen](../authors/william-namen.md) — 1
 - [WilliamZhu](../authors/williamzhu.md) — 1
 - [Willis Wee](../authors/willis-wee.md) — 1

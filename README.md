@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4678</strong><br>curated posts</td>
-<td align="center"><strong>2421</strong><br>original videos</td>
+<td align="center"><strong>4688</strong><br>curated posts</td>
+<td align="center"><strong>2426</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>774</strong> showcases · <strong>322</strong> videos</p>
+<p><strong>776</strong> showcases · <strong>323</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>486</strong> showcases · <strong>213</strong> videos</p>
+<p><strong>488</strong> showcases · <strong>213</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>468</strong> showcases · <strong>240</strong> videos</p>
+<p><strong>470</strong> showcases · <strong>241</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>352</strong> showcases · <strong>202</strong> videos</p>
+<p><strong>353</strong> showcases · <strong>203</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>332</strong> showcases · <strong>254</strong> videos</p>
+<p><strong>333</strong> showcases · <strong>254</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>231</strong> showcases · <strong>128</strong> videos</p>
+<p><strong>232</strong> showcases · <strong>129</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>27</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>28</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/fatwang2ai/status/2105866964929536351">Jev Search adds Clef and Clef-flash model options</a></h3>
-<p>Jev Search now offers Clef and Clef-flash models powered by Cloudflare.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>fatwang2</strong> · @fatwang2ai</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MaxForAI/status/2105881503226098094">Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen</a></h3>
+<p>Cloudflare has fine-tuned and open-sourced two Jev models: Clef, a decision model post-trained on Qwen3.8-27B, and Clef-flash based on Qwen3.5-9B.</p>
+<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><strong>Max For AI</strong> · @MaxForAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/eyalestrin/status/2105866570190954818"><img src="https://pbs.twimg.com/media/HTmKfCCbQAA8WH7?format=png&amp;name=medium" alt="From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/eyalestrin/status/2105866570190954818">From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius</a></h3>
-<p>Learn how to build &quot;System One&quot; decision models from Jev, convert them to ONNX, and run them locally with Mobius.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Eyal Estrin ☁️</strong> · @eyalestrin</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/schultetrevor/status/2105881118939771264"><img src="https://pbs.twimg.com/media/HTmXtpNa8AA3VOX?format=jpg&amp;name=medium" alt="Generative UI Night with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/schultetrevor/status/2105881118939771264">Generative UI Night with Jev</a></h3>
+<p>The community is leveraging Jev for UI, design system decisions, autocomplete, and feed comment scoring. A great vibe at generative UI night.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Trevor Schulte</strong> · @schultetrevor</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/PrimeAnalytix/status/2105866109270254014"><img src="https://pbs.twimg.com/media/HTl66ICW4AAt6EA?format=jpg&amp;name=small" alt="OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PrimeAnalytix/status/2105866109270254014">OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost</a></h3>
-<p>It is reported that OpenAI&#39;s Decisions API is seen as a clone of Jev, offering faster and cheaper AI agent monitoring. The post states Jev costs $2.94 per action versus $372 for frontier LLMs.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Prime Analytix</strong> · @PrimeAnalytix</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297"><img src="https://pbs.twimg.com/media/HTmTIHfW4AAOHQ0?format=png&amp;name=medium" alt="Is Jev Secretly Learning a Value Function? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/SOURADIPCHAKR18/status/2105879836375892297">Is Jev Secretly Learning a Value Function?</a></h3>
+<p>Explores how Jev distinguishes fast choices from deeper reasoning and how it fits into System One.</p>
+<p><strong>55</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><strong>Souradip Chakraborty</strong> · @SOURADIPCHAKR18</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/gaaiza1/status/2105865502551855342"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864239504330752/img/Qt9wtgIj-eFoEZLM.jpg" alt="JEV Reviews Hundreds of Prospect Messages in Seconds · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gaaiza1/status/2105865502551855342">JEV Reviews Hundreds of Prospect Messages in Seconds</a></h3>
-<p>The user praises JEV&#39;s speed: with over 700 prospects each having a tailored outreach message, JEV scans every profile, cross-checks content, and flags which messages fit and which miss the customer&#39;s needs.</p>
-<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 38</p>
-<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/joinlearn_com/status/2105877686904111310"><img src="https://pbs.twimg.com/amplify_video_thumb/2105877620244066304/img/AfqHFwFUqYiDVX43.jpg" alt="Jev Trader Outperforms Local Baseline in Stock Backtest · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/joinlearn_com/status/2105877686904111310">Jev Trader Outperforms Local Baseline in Stock Backtest</a></h3>
+<p>In the same stock backtest, the Jev trader grew $100K to nearly $210K (almost doubled) while the S&amp;P rose about 60%; AWS-local Strands Decider 2B earned only ~$40K (~39%). The local model is faster and token-free, but the return gap is significant.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>dfkai</strong> · @joinlearn_com</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/fatwang2ai/status/2105866964929536351">Jev Search adds Clef and Clef-flash model options</a></h3>
-<p>Jev Search now offers Clef and Clef-flash models powered by Cloudflare.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>fatwang2</strong> · @fatwang2ai</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MaxForAI/status/2105881503226098094">Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen</a></h3>
+<p>Cloudflare has fine-tuned and open-sourced two Jev models: Clef, a decision model post-trained on Qwen3.8-27B, and Clef-flash based on Qwen3.5-9B.</p>
+<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
+<p><strong>Max For AI</strong> · @MaxForAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/gaaiza1/status/2105865502551855342"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864239504330752/img/Qt9wtgIj-eFoEZLM.jpg" alt="JEV Reviews Hundreds of Prospect Messages in Seconds · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gaaiza1/status/2105865502551855342">JEV Reviews Hundreds of Prospect Messages in Seconds</a></h3>
-<p>The user praises JEV&#39;s speed: with over 700 prospects each having a tailored outreach message, JEV scans every profile, cross-checks content, and flags which messages fit and which miss the customer&#39;s needs.</p>
-<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 38</p>
-<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/joinlearn_com/status/2105877686904111310"><img src="https://pbs.twimg.com/amplify_video_thumb/2105877620244066304/img/AfqHFwFUqYiDVX43.jpg" alt="Jev Trader Outperforms Local Baseline in Stock Backtest · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/joinlearn_com/status/2105877686904111310">Jev Trader Outperforms Local Baseline in Stock Backtest</a></h3>
+<p>In the same stock backtest, the Jev trader grew $100K to nearly $210K (almost doubled) while the S&amp;P rose about 60%; AWS-local Strands Decider 2B earned only ~$40K (~39%). The local model is faster and token-free, but the return gap is significant.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>dfkai</strong> · @joinlearn_com</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/Aj_bucketshow/status/2105864993074032766"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864232868945920/img/bMSwtjYzzId2FHPM.jpg" alt="Jev, but yours — your own decision model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Aj_bucketshow/status/2105864993074032766">Jev, but yours — your own decision model</a></h3>
-<p>Create your own decision model from Jev&#39;s JSON in minutes, hosted or on your machine (under 1 MB for games), and retrain on mistakes quickly. It claims to beat Jev at Doom (45 kills to 39) and on support tickets (91.7% vs 86.6%).</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Alexander Seldon</strong> · @Aj_bucketshow</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/nlevnaut/status/2105873739082596723"><img src="https://pbs.twimg.com/media/HTmQlRLWoAA_q0i?format=png&amp;name=small" alt="Jev-ified Moondream vs New Model on Doom Performance · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nlevnaut/status/2105873739082596723">Jev-ified Moondream vs New Model on Doom Performance</a></h3>
+<p>The post mentions a model that is almost as good at playing Doom as the Jev-ified Moondream, better at some other tasks and almost as fast, showcasing real-world use of the Jev model.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>nlev</strong> · @nlevnaut</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/commte/status/2105855831543845334"><img src="https://pbs.twimg.com/media/HTmAtzSbQAA1rZJ?format=jpg&amp;name=medium" alt="Jev costs 1/100 of Opus: Article check experiment comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/commte/status/2105855831543845334">Jev costs 1/100 of Opus: Article check experiment comparison</a></h3>
-<p>A user tested Jev, Sonnet, and Opus for article checking (63 items × 27 questions). For clear-cut questions, Jev gave almost the same answers as Opus at 1/100 the cost, suggesting only difficult cases need to be sent to Sonnet.</p>
-<p><strong>365</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 365</p>
-<p><strong>コムテ</strong> · @commte</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/eyalestrin/status/2105866570190954818"><img src="https://pbs.twimg.com/media/HTmKfCCbQAA8WH7?format=png&amp;name=medium" alt="From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/eyalestrin/status/2105866570190954818">From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius</a></h3>
+<p>Learn how to build &quot;System One&quot; decision models from Jev, convert them to ONNX, and run them locally with Mobius.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Eyal Estrin ☁️</strong> · @eyalestrin</p>
 </td>
 </tr>
 </table>

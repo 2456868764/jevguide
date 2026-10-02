@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 353 | 171 | 185 | 1.1M |
+| 355 | 171 | 187 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/naumowf/status/2105851938612912503"><img src="https://pbs.twimg.com/media/HTl9JFdWoAAiySZ?format=jpg&amp;name=medium" alt="Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/naumowf/status/2105851938612912503">Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks</a></h3>
+<p>Perplexity announced its open-source decision model pplx-decider-v1-27b, scoring 85.71% overall on 11 decision benchmarks (lab-reported), slightly edging Jev&#39;s 84.51%. Fine-tuned from Qwen3.8-27B, Apache 2.0 licensed, multimodal, with up to 262k input tokens. Priced at $0.04/M input tokens, output free.</p>
+<p><strong>中文摘要：</strong>Perplexity宣布开源决策模型pplx-decider-v1-27b，在11个决策基准上平均得分85.71%（实验室报告），略高于Jev的84.51%。该模型基于Qwen3.8-27B微调，采用Apache 2.0许可，支持多模态输入，上下文窗口可达262k token。定价为每百万输入token $0.04，输出免费。</p>
+<p><strong>Franco Naumow.</strong> · @naumowf · 2026-10-02T02:46:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/naumowf/status/2105851938612912503">在 X 查看原帖</a> · <a href="https://t.co/vxJMulXscS">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/agent_republic/status/2105843451744928225"><img src="https://pbs.twimg.com/media/HTl1ddgXsAA4gri?format=jpg&amp;name=medium" alt="Cloudflare Open-Sources Clef and Clef-flash Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/agent_republic/status/2105843451744928225">Cloudflare Open-Sources Clef and Clef-flash Decision Models</a></h3>
+<p>Cloudflare released open-weight Clef (27B) and Clef-flash (9B) decision models that return typed probabilities instead of text. They are Jev-API compatible, support image input, and achieve 209.3 ms (Clef) and 38.8 ms (Clef-flash) median latency on Workers AI.</p>
+<p><strong>中文摘要：</strong>Cloudflare发布了开源的Clef（27B）和Clef-flash（9B）决策模型，返回类型化概率而非文本。模型兼容Jev-API，支持图像输入，在Workers AI上Clef中位延迟209.3毫秒，Clef-flash为38.8毫秒。</p>
+<p><strong>AR | Build Notes</strong> · @agent_republic · 2026-10-02T02:12:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/agent_republic/status/2105843451744928225">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fun000001/status/2105833978624360802"><img src="https://pbs.twimg.com/media/HTls1cza4AAdYHf?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev Decision Model · 原帖图片" width="100%"></a>

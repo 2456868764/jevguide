@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 765 | 317 | 452 | 3.0M |
+| 771 | 321 | 454 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2105846590573256856"><img src="https://pbs.twimg.com/media/HTl4UB5WAAAoAP6?format=jpg&amp;name=medium" alt="Jev as a Judge on Celeris-1: AIME Up but Higher Cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2105846590573256856">Jev as a Judge on Celeris-1: AIME Up but Higher Cost</a></h3>
+<p>A user tested MetaCog + Jev on Celeris_ai and found it not very useful for this use case. Adding Jev as a judge to Celeris-1 raised AIME from 23% to 53% (+30%) and MATH-500 by 4.6 points, at the cost of ~3.5x latency and $0.04 per run, with no benefit on multiple-choice questions.</p>
+<p><strong>中文摘要：</strong>用户尝试在 Celeris_ai 上结合 MetaCog 和 Jev，发现对当前场景帮助有限。给 Celeris-1 加上 Jev 评判器后，AIME 分数从 23% 提升至 53%（+30%），MATH-500 提升 4.6 分；代价是约 3.5 倍延迟和 4 美分成本，且多选题场景无增益。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-10-02T02:25:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2105846590573256856">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2105845887809278271"><img src="https://pbs.twimg.com/media/HTl3rHWWYAAUWmP?format=jpg&amp;name=medium" alt="Small Jev Models Ranking Update on S1Bench · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2105845887809278271">Small Jev Models Ranking Update on S1Bench</a></h3>
+<p>Community benchmark shows the 9B model outperforms the 27B. Cloudflare&#39;s Clef-flash tops the small-model board at 0.757, ahead of its 27B sibling at 0.747 and 3x faster. Jev still leads at 0.775.</p>
+<p><strong>中文摘要：</strong>社区评测指出，9B模型表现优于27B，Cloudflare的Clef-flash以0.757分登顶小型模型榜，而其27B姊妹模型为0.747分，速度更快。Jev仍以0.775分领先。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-10-02T02:22:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2105845887809278271">在 X 查看原帖</a> · <a href="https://t.co/usUtcKyS4j">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/asopitech_iot/status/2105841314734780442"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="OpenAI&#39;s Decisions API and Jev: A Two-Week Gap · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/asopitech_iot/status/2105841314734780442">OpenAI&#39;s Decisions API and Jev: A Two-Week Gap</a></h3>
+<p>The post notes that OpenAI announced the Decisions API, while Jev was released on September 15, two weeks earlier. It&#39;s currently in limited preview and will eventually be built into ChatGPT and Codex. The author concludes that features filling a gap eventually get absorbed by the platform.</p>
+<p><strong>中文摘要：</strong>帖子指出 OpenAI 宣布的 Decisions API 已在开发，而 Jev 于 9 月 15 日发布，早了两周。该 API 目前限量预览，未来会融入 ChatGPT 和 Codex。作者认为填补空白的功能最终会被大平台吸收。</p>
+<p><strong>あそぴテック｜アーキテクトの見方</strong> · @asopitech_iot · 2026-10-02T02:04:28.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
+<p><a href="https://x.com/asopitech_iot/status/2105841314734780442">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/singularity_bly/status/2105832376798777355"><img src="https://pbs.twimg.com/amplify_video_thumb/2105689425888108544/img/OKn5dF1WLujUpcR6.jpg" alt="Discussion on Jev Model Performance Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/singularity_bly/status/2105832376798777355">Discussion on Jev Model Performance Comparison</a></h3>
+<p>User states that Jev is a weaker model and claims the fastino one is actually superior to Jev without cherry picking.</p>
+<p><strong>中文摘要：</strong>用户表示Jev模型较弱，并称fastino模型在无挑选的情况下优于Jev。</p>
+<p><strong>Sahibzada Allahyar</strong> · @singularity_bly · 2026-10-02T01:28:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/singularity_bly/status/2105832376798777355">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ishgineering/status/2105829358367813810"><img src="https://pbs.twimg.com/media/HTlook1WgAAn0gF?format=jpg&amp;name=medium" alt="Jev vs Claude 5.5 vs GPT 5.5 arithmetic test · 原帖图片" width="100%"></a>
@@ -44,6 +92,30 @@
 <p><strong>fooh</strong> · @ogfooh · 2026-10-02T00:57:01.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
 <p><a href="https://x.com/ogfooh/status/2105824337538187318">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Layton_Gott/status/2105824001197244483"><img src="https://pbs.twimg.com/amplify_video_thumb/2105718499234693121/img/Q9dFvgbOG4e1ZxIc.jpg" alt="Idea for integrating Jev-like code review into Claude Code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Layton_Gott/status/2105824001197244483">Idea for integrating Jev-like code review into Claude Code</a></h3>
+<p>Anthropic made Claude Code moddable; the author suggests adding a System One code-review layer like Jev to scan for architecture violations, bugs, spec drift, and risks.</p>
+<p><strong>中文摘要：</strong>Anthropic使Claude Code可定制，作者提出了加入类似Jev的System One代码审查层来扫描架构违规、缺陷、规格偏差等想法。</p>
+<p><strong>Layton Gott</strong> · @Layton_Gott · 2026-10-02T00:55:40.000Z</p>
+<p>💬 7 &nbsp; 🔁 2 &nbsp; ♡ 60 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/Layton_Gott/status/2105824001197244483">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sebasti54919704/status/2105823290795446473"><img src="https://pbs.twimg.com/amplify_video_thumb/2105823055716962304/img/O8mgLZO2rAsyCGSw.jpg" alt="Jev&#39;s outcome on context delegation was disappointing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sebasti54919704/status/2105823290795446473">Jev&#39;s outcome on context delegation was disappointing</a></h3>
+<p>The user thought Jev was built for handling gpt-live-1 context delegation, but the actual outcome was disappointing.</p>
+<p><strong>中文摘要：</strong>用户原本认为Jev适合处理gpt-live-1的上下文委托问题，但实际效果令人失望。</p>
+<p><strong>Sebastian Sosa</strong> · @Sebasti54919704 · 2026-10-02T00:52:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/Sebasti54919704/status/2105823290795446473">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/davejsdev/status/2105814195241640024"><img src="https://pbs.twimg.com/amplify_video_thumb/2105718499234693121/img/Q9dFvgbOG4e1ZxIc.jpg" alt="Modding Jev · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 481 | 211 | 271 | 1.6M |
+| 483 | 212 | 272 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aigeeknews/status/2105839467353489480"><img src="https://pbs.twimg.com/amplify_video_thumb/2105839435803963392/img/u1oj-T-I7ivGT3bR.jpg" alt="JEV: Real-Time Visual Decision Making with Eyes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aigeeknews/status/2105839467353489480">JEV: Real-Time Visual Decision Making with Eyes</a></h3>
+<p>AI Geek News highlights the JEV model, which leverages visual input from RGB, video, and RGB-D cameras for real-time decision-making, emphasizing vision as the sole input source.</p>
+<p><strong>中文摘要：</strong>AI极客新闻介绍了JEV模型，它利用RGB、视频和RGB-D相机的视觉输入进行实时决策，强调视觉作为唯一输入来源。</p>
+<p><strong>AI 极客新闻</strong> · @aigeeknews · 2026-10-02T01:57:08.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/aigeeknews/status/2105839467353489480">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/bedeabza/status/2105832930643976433"><img src="https://pbs.twimg.com/media/HTlrGvIW0AAfTmX?format=png&amp;name=900x900" alt="Jev outperforms Clef on long-text embedding-reranking · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Dragos Badea</strong> · @bedeabza · 2026-10-02T01:31:09.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/bedeabza/status/2105832930643976433">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zaru/status/2105818312664134061"><img src="https://pbs.twimg.com/media/HTleT0xbkAAP2yy?format=jpg&amp;name=medium" alt="Jev latency measured: now around 100ms, Clef-flash slightly faster but unstable · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zaru/status/2105818312664134061">Jev latency measured: now around 100ms, Clef-flash slightly faster but unstable</a></h3>
+<p>The author measured the latency of Jev and Clef-flash. Jev ranged from 300-500ms at launch, now around 100ms; Clef-flash is slightly faster but occasionally very slow.</p>
+<p><strong>中文摘要：</strong>作者测量了Jev与Clef-flash的延迟。Jev发布初期为300-500ms，现在已降至100ms级别；Clef-flash略快但偶尔出现严重延迟。</p>
+<p><strong>zaru</strong> · @zaru · 2026-10-02T00:33:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 141</p>
+<p><a href="https://x.com/zaru/status/2105818312664134061">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/yulmu_coffee/status/2105818174205956316"><img src="https://pbs.twimg.com/media/HTled8YaIAAJk6U?format=jpg&amp;name=medium" alt="Jev-like reasoning model released · 原帖图片" width="100%"></a>

@@ -3,7 +3,7 @@
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 28
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
-- [CyrilXBT](../authors/cyrilxbt.md) — 15
+- [CyrilXBT](../authors/cyrilxbt.md) — 16
 - [Florian S](../authors/florian-s.md) — 15
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 15
 - [Geek Lite](../authors/geek-lite.md) — 13
@@ -11,8 +11,9 @@
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
+- [AI 极客新闻](../authors/ai-极客新闻.md) — 10
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 10
-- [AI 极客新闻](../authors/ai-极客新闻.md) — 9
+- [Cuth](../authors/cuth.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 8
@@ -25,7 +26,6 @@
 - [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](../authors/ceo-重要ai-毎日最速-発信.md) — 8
 - [Alex](../authors/alex.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
-- [Cuth](../authors/cuth.md) — 7
 - [ericosiu](../authors/ericosiu.md) — 7
 - [Fluixo](../authors/fluixo.md) — 7
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
@@ -355,6 +355,7 @@
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
+- [Franco Naumow.](../authors/franco-naumow.md) — 2
 - [Frank Chiarulli Jr.](../authors/frank-chiarulli-jr.md) — 2
 - [FrankD](../authors/frankd.md) — 2
 - [gabidev](../authors/gabidev.md) — 2
@@ -512,6 +513,7 @@
 - [Ryoko┃AIエージェントクリエイター](../authors/ryoko-ai.md) — 2
 - [Ryven](../authors/ryven.md) — 2
 - [s1rozha1](../authors/s1rozha1.md) — 2
+- [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 2
 - [Salih Avcıoğlu](../authors/salih-avc-oglu.md) — 2
 - [Sam Gutentag | Voice AI](../authors/sam-gutentag-voice-ai.md) — 2
 - [Samrat Dutta](../authors/samrat-dutta.md) — 2
@@ -805,6 +807,7 @@
 - [Alex B](../authors/alex-b.md) — 1
 - [Alex Builds](../authors/alex-builds.md) — 1
 - [Alex C.](../authors/alex-c.md) — 1
+- [Alex Hancock](../authors/alex-hancock.md) — 1
 - [Alex Hook](../authors/alex-hook.md) — 1
 - [Alex Lee](../authors/alex-lee.md) — 1
 - [Alex Prompter](../authors/alex-prompter.md) — 1
@@ -886,6 +889,7 @@
 - [Apoorav Vyas](../authors/apoorav-vyas.md) — 1
 - [Apurva M](../authors/apurva-m.md) — 1
 - [aq](../authors/aq.md) — 1
+- [AR | Build Notes](../authors/ar-build-notes.md) — 1
 - [Ara Kharazian](../authors/ara-kharazian.md) — 1
 - [Aradhye Agarwal](../authors/aradhye-agarwal.md) — 1
 - [Arash Khajelou](../authors/arash-khajelou.md) — 1
@@ -1898,6 +1902,7 @@
 - [Laurent Zuijdwijk](../authors/laurent-zuijdwijk.md) — 1
 - [LavanguardiaIA](../authors/lavanguardiaia.md) — 1
 - [Lawton Learns](../authors/lawton-learns.md) — 1
+- [Layton Gott](../authors/layton-gott.md) — 1
 - [LazyGem](../authors/lazygem.md) — 1
 - [LBSocial](../authors/lbsocial.md) — 1
 - [Le Dev ULTIME 🍜](../authors/le-dev-ultime.md) — 1
@@ -2501,7 +2506,6 @@
 - [Sachin Jain](../authors/sachin-jain.md) — 1
 - [Sachin Mohan](../authors/sachin-mohan.md) — 1
 - [Sagar jethi](../authors/sagar-jethi.md) — 1
-- [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 1
 - [Sahil Verma](../authors/sahil-verma.md) — 1
 - [sai](../authors/sai.md) — 1
 - [Sai](../authors/sai.md) — 1
@@ -2571,6 +2575,7 @@
 - [Seb](../authors/seb.md) — 1
 - [Sebastian Bennis](../authors/sebastian-bennis.md) — 1
 - [Sebastian Hindhede](../authors/sebastian-hindhede.md) — 1
+- [Sebastian Sosa](../authors/sebastian-sosa.md) — 1
 - [Sefa Bey](../authors/sefa-bey.md) — 1
 - [Selçuk Usta](../authors/selcuk-usta.md) — 1
 - [Selfy](../authors/selfy.md) — 1
@@ -3018,6 +3023,7 @@
 - [Zach Dunn](../authors/zach-dunn.md) — 1
 - [Zachi](../authors/zachi.md) — 1
 - [Zain](../authors/zain.md) — 1
+- [zaru](../authors/zaru.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
 - [Zenko | NeuralFrame Labs](../authors/zenko-neuralframe-labs.md) — 1
@@ -3063,6 +3069,7 @@
 - [あいり｜海外AIニュースを毎日届ける人](../authors/海外ai-毎日届-人.md) — 1
 - [あざいるぅか🔁AITuber](../authors/aituber.md) — 1
 - [あざらし@kintone](../authors/kintone.md) — 1
+- [あそぴテック｜アーキテクトの見方](../authors/見方.md) — 1
 - [あっき〜@中小企業ITコンサルタント🔥](../authors/中小企業it.md) — 1
 - [あっきー｜AIを現場に落とす人](../authors/ai-現場-落-人.md) — 1
 - [あやみ｜マーケティング](../authors/jev-showcase.md) — 1
@@ -3370,6 +3377,7 @@
 - [近藤](../authors/近藤.md) — 1
 - [過労くん](../authors/過労.md) — 1
 - [邦法](../authors/邦法.md) — 1
+- [野々下 俊｜ノンズ株式会社 代表](../authors/野-下-俊-株式会社-代表.md) — 1
 - [野中健吾](../authors/野中健吾.md) — 1
 - [金星](../authors/金星.md) — 1
 - [鈴木裕斗 | Offers | AI x HR](../authors/鈴木裕斗-offers-ai-x-hr.md) — 1

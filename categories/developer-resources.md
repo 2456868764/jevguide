@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 302 | 118 | 184 | 419K |
+| 304 | 119 | 185 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2106017561913536949"><img src="https://pbs.twimg.com/media/HToP1srW0AAgfsF?format=png&amp;name=large" alt="JevBench v1.5.5 Released: Jev Still #1 in Capability · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2106017561913536949">JevBench v1.5.5 Released: Jev Still #1 in Capability</a></h3>
+<p>JevBench v1.5.5 is out. Jev still tops the Capability Score, but open competitors are close behind; in Composite Score Jev is 3rd. The new version adds a radar chart comparing capabilities on typical Jev use cases.</p>
+<p><strong>中文摘要：</strong>JevBench v1.5.5 已发布。Jev 在能力得分上仍居榜首，但开放竞争对手紧追其后；综合得分中 Jev 位列第三。新版新增了基于典型 Jev 用例的雷达图对比。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-10-02T13:44:49.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 274</p>
+<p><a href="https://x.com/airesearch12/status/2106017561913536949">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Asteri_eth/status/2106014727595807105"><img src="https://pbs.twimg.com/amplify_video_thumb/2106014575594176512/img/vindlMdXlCKRiQg8.jpg" alt="Jev Ecosystem: 10 Community-Built Repos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Asteri_eth/status/2106014727595807105">Jev Ecosystem: 10 Community-Built Repos</a></h3>
+<p>The community has built tools like a browser agent, a Claude Code bridge, and a LangGraph router on Jev. This post lists all 10 repos, noting that jev-browser offers MCP, CLI, and library access.</p>
+<p><strong>中文摘要：</strong>社区基于 Jev 构建了浏览器代理、Claude Code 桥接和 LangGraph 路由器等工具，本文汇总了全部 10 个仓库，并提示拥有 API 访问权限的用户可从 jev-browser 入手。</p>
+<p><strong>Asteri</strong> · @Asteri_eth · 2026-10-02T13:33:33.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 21 &nbsp; 📊 467</p>
+<p><a href="https://x.com/Asteri_eth/status/2106014727595807105">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yonyoniz/status/2105987695356923987"><img src="https://pbs.twimg.com/media/HTZ6Dv2bAAAEavG.jpg" alt="TypeSafe Jev Resource Links · 原帖视频截图" width="100%"></a>

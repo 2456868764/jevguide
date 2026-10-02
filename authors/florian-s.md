@@ -1,9 +1,10 @@
 # Florian S
 
-15 Jev showcases.
+16 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-02T13:44:49.000Z | [JevBench v1.5.5 Released: Jev Still #1 in Capability](https://x.com/airesearch12/status/2106017561913536949) | 开发资源 | Florian S | 274 |
 | 2026-10-01T14:31:45.000Z | [JevBench v1.5.4 Update: Capability Score Replaces Composite, Original Jev Back on Top](https://x.com/airesearch12/status/2105666986915074405) | 开发者工具 | Florian S | 889 |
 | 2026-09-29 | [JevBench Creator Questions Choosing System One Models by Vibes](https://x.com/airesearch12/status/2104839621641179643) | 社区实践 | Florian S | 347 |
 | 2026-09-29 | [JevBench tops search results for comparing decision models](https://x.com/airesearch12/status/2104897340440035823) | 社区实践 | Florian S | 205 |

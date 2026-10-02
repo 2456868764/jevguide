@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 364 | 174 | 193 | 1.1M |
+| 368 | 175 | 196 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/johnbhiggins/status/2106022853208592582"><img src="https://pbs.twimg.com/media/HToYKCfXoAApJjt?format=jpg&amp;name=medium" alt="Cloudflare claims its decision model beats Jev in speed and quality · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/johnbhiggins/status/2106022853208592582">Cloudflare claims its decision model beats Jev in speed and quality</a></h3>
+<p>The post cites John&#39;s tweet claiming Cloudflare&#39;s released decision model outperforms Jev in both speed and quality, without specifics or benchmarks.</p>
+<p><strong>中文摘要：</strong>帖子引用John的推文，称Cloudflare发布的决策模型在速度和品质上均优于Jev，未提供具体细节或基准。</p>
+<p><strong>John</strong> · @johnbhiggins · 2026-10-02T14:05:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/johnbhiggins/status/2106022853208592582">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LargitData1/status/2106016015628861814"><img src="https://pbs.twimg.com/media/HToSZidbQAA4UWs?format=jpg&amp;name=medium" alt="Cloudflare Releases Jev-like Open-Source Model Clef into Its AI Ecosystem · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LargitData1/status/2106016015628861814">Cloudflare Releases Jev-like Open-Source Model Clef into Its AI Ecosystem</a></h3>
+<p>Cloudflare integrates its self-developed Jev-like open-source model Clef into its AI ecosystem. Clef is based on Qwen3.8-27B, with a flash version using Qwen3.5-9B. After freezing the main model, it trains a judgment layer and LoRA; during inference, it reads the entire input and directly scores predefined options instead of generating token by token.</p>
+<p><strong>中文摘要：</strong>Cloudflare将其自研的Jev-like开源模型Clef直接集成进AI生态。Clef基于Qwen3.8-27B，flash版采用Qwen3.5-9B，冻结主模型后训练判断层与LoRA，推理时读取完整输入后直接对预设选项计算分数，而非逐字生成。</p>
+<p><strong>大數軟體LargitData</strong> · @LargitData1 · 2026-10-02T13:38:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/LargitData1/status/2106016015628861814">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WhisprNews/status/2106014418131959952"><img src="https://pbs.twimg.com/media/HToQ7x0XsAAv05N?format=jpg&amp;name=medium" alt="Cloudflare launches Clef models, claims to surpass TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WhisprNews/status/2106014418131959952">Cloudflare launches Clef models, claims to surpass TypeSafe&#39;s Jev</a></h3>
+<p>Cloudflare introduces open-weight decision models Clef and Clef-flash, claiming they surpass TypeSafe&#39;s Jev in 3 of 4 evaluated areas, though the official index has not yet reproduced these results.</p>
+<p><strong>中文摘要：</strong>Cloudflare 推出开放权重的决策模型 Clef 和 Clef-flash，称在 4 个评估领域中有 3 个超过 TypeSafe 的 Jev，但官方指数尚未复现该结果。</p>
+<p><strong>WHISPR</strong> · @WhisprNews · 2026-10-02T13:32:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
+<p><a href="https://x.com/WhisprNews/status/2106014418131959952">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Cosmosynth/status/2106009964292592009"><img src="https://pbs.twimg.com/amplify_video_thumb/2106009939026010112/img/VQcLgzJjC1Qdc6tT.jpg" alt="Jev: An AI That Can&#39;t Write a Sentence — But Returns Decisions with Probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Cosmosynth/status/2106009964292592009">Jev: An AI That Can&#39;t Write a Sentence — But Returns Decisions with Probabilities</a></h3>
+<p>The person who helped build ChatGPT released Jev from TypeSafe AI. No text, no chat. You feed it data and questions, and it instantly returns decisions with probabilities — like whether an email is urgent or which team should handle it.</p>
+<p><strong>中文摘要：</strong>参与构建 ChatGPT 的人发布了 TypeSafe AI 的 Jev。它不聊天、不输出文本，只根据输入数据和问题即时返回带概率的决策，例如判断邮件是否紧急、应由哪个团队处理。</p>
+<p><strong>CosmosynthAi</strong> · @Cosmosynth · 2026-10-02T13:14:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><a href="https://x.com/Cosmosynth/status/2106009964292592009">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ainewssmoothie/status/2105923286529892798"><img src="https://pbs.twimg.com/media/HTm-EavWwAAuzkR?format=jpg&amp;name=medium" alt="TypeSafe Releases New Jev Model for Millisecond-Fast Decisions · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 480 | 247 | 235 | 3.6M |
+| 482 | 247 | 237 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aiedge_/status/2106021625934311541"><img src="https://pbs.twimg.com/media/HToXggnaEAAJ-_Q?format=jpg&amp;name=medium" alt="Jev MCP: 11 judgment tools for Claude Code and Codex · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aiedge_/status/2106021625934311541">Jev MCP: 11 judgment tools for Claude Code and Codex</a></h3>
+<p>Introducing Jev MCP, 11 judgment tools you can drop into Claude Code or Codex to enhance decision-making in AI-assisted development.</p>
+<p><strong>中文摘要：</strong>介绍Jev MCP，可轻松集成到Claude Code或Codex的11个判断工具，旨在提升AI辅助开发中的决策质量。</p>
+<p><strong>AI Edge</strong> · @aiedge_ · 2026-10-02T14:00:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/aiedge_/status/2106021625934311541">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_duyet/status/2106018677384683826"><img src="https://pbs.twimg.com/media/HToUi-jbgAA1eMU?format=jpg&amp;name=medium" alt="AnyRouter Now Routes Across 9 Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_duyet/status/2106018677384683826">AnyRouter Now Routes Across 9 Decision Models</a></h3>
+<p>Decision models like Jev keep growing; AnyRouter now integrates 9 of them and can route automatically via anyrouter/decision.</p>
+<p><strong>中文摘要：</strong>Jev 等决策模型数量持续增加，AnyRouter 已集成 9 个，可通过 anyrouter/decision 自动选择路由。</p>
+<p><strong>duyet</strong> · @_duyet · 2026-10-02T13:49:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/_duyet/status/2106018677384683826">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/twicemoemoe/status/2105997323323269569"><img src="https://pbs.twimg.com/media/HToALuLbYAAWADl?format=jpg&amp;name=medium" alt="JEV API support added to llama.cpp · 原帖图片" width="100%"></a>

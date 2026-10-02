@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 234 | 131 | 105 | 1.2M |
+| 236 | 132 | 106 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xDeniAi/status/2106012990189207940"><img src="https://pbs.twimg.com/amplify_video_thumb/2106012858169356288/img/W9fcbQ_5rbHh-MaW.jpg" alt="Jev-Powered Trading Setup Profits in Simulation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xDeniAi/status/2106012990189207940">Jev-Powered Trading Setup Profits in Simulation</a></h3>
+<p>A user showcased a trading setup using Opus 5.5, Jev, and OpenAI Dots, growing $1,000 to $1,109 in a simulated session across BTC, SOL, ETH, and BNB markets, with all 4 trades profitable.</p>
+<p><strong>中文摘要：</strong>一位用户展示了使用Opus 5.5、Jev和OpenAI Dots的交易设置，在模拟环境中将$1,000增至$1,109，涉及BTC、SOL、ETH、BNB等市场，4笔交易全部盈利。</p>
+<p><strong>Deni</strong> · @0xDeniAi · 2026-10-02T13:26:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 77</p>
+<p><a href="https://x.com/0xDeniAi/status/2106012990189207940">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/dromarr/status/2105985072381727134"><img src="https://pbs.twimg.com/amplify_video_thumb/2105985057433309184/img/ZBdpM-O0178nKdT5.jpg" alt="Jev plugged into trading system, making decisions every 300ms · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 14</p>
 <p><a href="https://x.com/dromarr/status/2105985072381727134">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sprytixl/status/2105982276752327105"><img src="https://pbs.twimg.com/amplify_video_thumb/2105982087635275776/img/o28tQpOImyjkFPjM.jpg" alt="OPUS 5.5 + DOTS + JEV Build an Armed Trading Bot in 60 Minutes · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Sprytix</strong> · @Sprytixl · 2026-10-02T11:24:36.000Z</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 519</p>
 <p><a href="https://x.com/Sprytixl/status/2105982276752327105">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2105981925454417957"><img src="https://pbs.twimg.com/media/HTnzZlVXoAAgtHM?format=jpg&amp;name=medium" alt="Jev Automates Buys for CLAWD Holders · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2105981925454417957">Jev Automates Buys for CLAWD Holders</a></h3>
+<p>A user is using TypeSafe AI&#39;s Jev to automate purchases, and announces Jev decisions will be available exclusively to $CLAWD holders this weekend.</p>
+<p><strong>中文摘要：</strong>用户使用 TypeSafe AI 的 Jev 来自动化购买，并宣布本周末将面向 $CLAWD 持有者提供 Jev 决策。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-10-02T11:23:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 248</p>
+<p><a href="https://x.com/0rdlibrary/status/2105981925454417957">在 X 查看原帖</a> · <a href="https://t.co/HdYzyvMB0L">原文链接</a></p>
 </td>
 </tr>
 <tr>

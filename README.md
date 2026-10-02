@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4606</strong><br>curated posts</td>
-<td align="center"><strong>2392</strong><br>original videos</td>
+<td align="center"><strong>4632</strong><br>curated posts</td>
+<td align="center"><strong>2404</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>753</strong> showcases · <strong>312</strong> videos</p>
+<p><strong>760</strong> showcases · <strong>316</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>474</strong> showcases · <strong>210</strong> videos</p>
+<p><strong>479</strong> showcases · <strong>211</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>464</strong> showcases · <strong>238</strong> videos</p>
+<p><strong>465</strong> showcases · <strong>239</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>362</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>363</strong> showcases · <strong>150</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>347</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>350</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>344</strong> showcases · <strong>198</strong> videos</p>
+<p><strong>346</strong> showcases · <strong>200</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>330</strong> showcases · <strong>252</strong> videos</p>
+<p><strong>331</strong> showcases · <strong>253</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>293</strong> showcases · <strong>114</strong> videos</p>
+<p><strong>296</strong> showcases · <strong>114</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>229</strong> showcases · <strong>126</strong> videos</p>
+<p><strong>230</strong> showcases · <strong>127</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>129</strong> showcases · <strong>97</strong> videos</p>
+<p><strong>130</strong> showcases · <strong>97</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>53</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>54</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/KaiWaehner/status/2105684438038557134"><img src="https://pbs.twimg.com/media/HTjkwwYawAAQFof?format=png&amp;name=medium" alt="Jev-Powered Confidence Gates for Workflow Orchestration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KaiWaehner/status/2105684438038557134">Jev-Powered Confidence Gates for Workflow Orchestration</a></h3>
-<p>Kai Wähner explains how TypeSafe AI&#39;s Jev turns calibrated probabilities into confidence gates: high confidence proceeds, medium goes to an LLM, low goes to a human, and every decision is logged for process mining.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>Kai Wähner</strong> · @KaiWaehner</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/yulmu_coffee/status/2105818174205956316"><img src="https://pbs.twimg.com/media/HTled8YaIAAJk6U?format=jpg&amp;name=medium" alt="Jev-like reasoning model released · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yulmu_coffee/status/2105818174205956316">Jev-like reasoning model released</a></h3>
+<p>Jev is a non-reasoning model, but reasoning can be enabled with trade-offs in speed and cost, or by increasing parameters.</p>
+<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 74</p>
+<p><strong>율무커피 YulmuCoffee</strong> · @yulmu_coffee</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/kv1nsiii/status/2105683327566942329"><img src="https://pbs.twimg.com/amplify_video_thumb/2105683174806126592/img/fvs73fdia4ummx7j.jpg" alt="Jev-Powered Alert Filtering Workflow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kv1nsiii/status/2105683327566942329">Jev-Powered Alert Filtering Workflow</a></h3>
-<p>In high-volume alert environments, every alert is first screened by Jev for authenticity, and the writer model only runs when a brief is needed — avoiding heavyweight model calls on every ping.</p>
-<p><strong>21</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 21</p>
-<p><strong>kvinsi</strong> · @kv1nsiii</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/yupi996/status/2105817791148261391"><img src="https://pbs.twimg.com/media/HTld2PPa4AAbnBO?format=jpg&amp;name=medium" alt="Cloudflare Open-Sources Decision Model Clef-flash, Compared with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yupi996/status/2105817791148261391">Cloudflare Open-Sources Decision Model Clef-flash, Compared with Jev</a></h3>
+<p>The post notes that Cloudflare&#39;s newly open-sourced decision model Clef-flash is officially benchmarked 13x faster than Jev, yet costs over 2x as much, and mentions that the decision model refers to Jev, which went viral in September.</p>
+<p><strong>119</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 119</p>
+<p><strong>程序员鱼皮</strong> · @yupi996</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/KumarDAjay1/status/2105683092770058364"><img src="https://pbs.twimg.com/media/HTjjnH6aUAAMKoe?format=jpg&amp;name=900x900" alt="Jev-alternative Laya running on CPU with ONNX · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KumarDAjay1/status/2105683092770058364">Jev-alternative Laya running on CPU with ONNX</a></h3>
-<p>Developer shares experience running Jev-alternative model Laya with ONNX on a CPU-only machine, promising results vs PyTorch, benchmarks to come.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
-<p><strong>Kumar D Ajay</strong> · @KumarDAjay1</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/shintre_saurabh/status/2105816059311952232"><img src="https://pbs.twimg.com/media/HTlcAP8aEAAy5--?format=jpg&amp;name=medium" alt="Causal limitations of Jev System One thinking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shintre_saurabh/status/2105816059311952232">Causal limitations of Jev System One thinking</a></h3>
+<p>The author notes that System One thinking models like Jev rely on causal models, but issues arise when the model doesn&#39;t see the right context at the right time, citing PII classification (e.g., classifying a number as SSN or…).</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>Saurabh Shintre</strong> · @shintre_saurabh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/andreysuperior/status/2105682239589597365"><img src="https://pbs.twimg.com/amplify_video_thumb/2105676441371222016/img/u_AN8gVDw6kDCNHD.jpg" alt="Jev outperforms chat LLMs in trading · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/andreysuperior/status/2105682239589597365">Jev outperforms chat LLMs in trading</a></h3>
-<p>The author notes that Jev trades circles around any chat LLM, running side by side on the same MON-USDC order book, and warns that trading bots still relying on chat models will become someone else&#39;s exit liquidity.</p>
-<p><strong>189</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 189</p>
-<p><strong>Superior</strong> · @andreysuperior</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/mt_pb_ai/status/2105814519381643474"><img src="https://pbs.twimg.com/media/HTlWHFIbUAAwjka?format=jpg&amp;name=large" alt="Cloudflare Releases Open-Source Jev, Community Awaits Local LLM Use · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mt_pb_ai/status/2105814519381643474">Cloudflare Releases Open-Source Jev, Community Awaits Local LLM Use</a></h3>
+<p>The author praises Cloudflare&#39;s release of the open-source Jev, noting Jev-family models fit local LLM deployment, potentially addressing cost efficiency and API latency issues.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>宮本 達朗@中小企業向けのAI活用・DX伴走</strong> · @mt_pb_ai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/KaiWaehner/status/2105684438038557134"><img src="https://pbs.twimg.com/media/HTjkwwYawAAQFof?format=png&amp;name=medium" alt="Jev-Powered Confidence Gates for Workflow Orchestration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KaiWaehner/status/2105684438038557134">Jev-Powered Confidence Gates for Workflow Orchestration</a></h3>
-<p>Kai Wähner explains how TypeSafe AI&#39;s Jev turns calibrated probabilities into confidence gates: high confidence proceeds, medium goes to an LLM, low goes to a human, and every decision is logged for process mining.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>Kai Wähner</strong> · @KaiWaehner</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/yulmu_coffee/status/2105818174205956316"><img src="https://pbs.twimg.com/media/HTled8YaIAAJk6U?format=jpg&amp;name=medium" alt="Jev-like reasoning model released · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yulmu_coffee/status/2105818174205956316">Jev-like reasoning model released</a></h3>
+<p>Jev is a non-reasoning model, but reasoning can be enabled with trade-offs in speed and cost, or by increasing parameters.</p>
+<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 74</p>
+<p><strong>율무커피 YulmuCoffee</strong> · @yulmu_coffee</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/andreysuperior/status/2105682239589597365"><img src="https://pbs.twimg.com/amplify_video_thumb/2105676441371222016/img/u_AN8gVDw6kDCNHD.jpg" alt="Jev outperforms chat LLMs in trading · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/andreysuperior/status/2105682239589597365">Jev outperforms chat LLMs in trading</a></h3>
-<p>The author notes that Jev trades circles around any chat LLM, running side by side on the same MON-USDC order book, and warns that trading bots still relying on chat models will become someone else&#39;s exit liquidity.</p>
-<p><strong>189</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 189</p>
-<p><strong>Superior</strong> · @andreysuperior</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/mt_pb_ai/status/2105814519381643474"><img src="https://pbs.twimg.com/media/HTlWHFIbUAAwjka?format=jpg&amp;name=large" alt="Cloudflare Releases Open-Source Jev, Community Awaits Local LLM Use · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mt_pb_ai/status/2105814519381643474">Cloudflare Releases Open-Source Jev, Community Awaits Local LLM Use</a></h3>
+<p>The author praises Cloudflare&#39;s release of the open-source Jev, noting Jev-family models fit local LLM deployment, potentially addressing cost efficiency and API latency issues.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>宮本 達朗@中小企業向けのAI活用・DX伴走</strong> · @mt_pb_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/YahavFuchs/status/2105682085910368546"><img src="https://pbs.twimg.com/media/HTjiavVXQAEKCuM?format=jpg&amp;name=medium" alt="Using Jev to Build a Context-Aware Business Data Brain · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/YahavFuchs/status/2105682085910368546">Using Jev to Build a Context-Aware Business Data Brain</a></h3>
-<p>The user shares how they categorized every data point their business creates or consumes into a self-built organizational brain with Jev, enabling tasks to be read with context and leading to dramatic improvements.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
-<p><strong>Yahav Fuchs</strong> · @YahavFuchs</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/davejsdev/status/2105814195241640024"><img src="https://pbs.twimg.com/amplify_video_thumb/2105718499234693121/img/Q9dFvgbOG4e1ZxIc.jpg" alt="Modding Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/davejsdev/status/2105814195241640024">Modding Jev</a></h3>
+<p>Developer dave.js says it&#39;s time to vibe up some Jev mods for @typesafeai.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>dave.js</strong> · @davejsdev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/JulianGoldieSEO/status/2105676613580898788"><img src="https://pbs.twimg.com/amplify_video_thumb/2105676356386435072/img/w3ztgchQnSb33Su2.jpg" alt="Ranking for Keywords Ahead of the Curve with Jev AI Launch · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JulianGoldieSEO/status/2105676613580898788">Ranking for Keywords Ahead of the Curve with Jev AI Launch</a></h3>
-<p>SEO expert Julian Goldie shares how to quickly spot keyword opportunities around the emerging AI product Jev by monitoring X, Google Trends, and related searches.</p>
-<p><strong>1.3K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1.3K</p>
-<p><strong>Julian Goldie SEO</strong> · @JulianGoldieSEO</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ankitpansari_/status/2105808004348363068"><img src="https://pbs.twimg.com/media/HTlVN1zbwAARMOX?format=jpg&amp;name=medium" alt="Live Jev Test: 30x Cheaper for Some Queries · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ankitpansari_/status/2105808004348363068">Live Jev Test: 30x Cheaper for Some Queries</a></h3>
+<p>User shares live testing of Jev through a talk with @CompleteSkeptic at @modal, reporting it is 30x cheaper than their existing setup for some queries.</p>
+<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><strong>Ankit Pansari</strong> · @ankitpansari_</p>
 </td>
 </tr>
 </table>

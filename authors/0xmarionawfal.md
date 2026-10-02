@@ -1,9 +1,10 @@
 # 0xMarioNawfal
 
-16 Jev showcases.
+17 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-01T23:15:00.000Z | [Jev founder: JEV is our biggest breakthrough](https://x.com/RoundtableSpace/status/2105798664861950113) | 产品发布 | 0xMarioNawfal | 42K |
 | 2026-09-28 | [Jevgrep: A CLI research agent powered by Jev](https://x.com/RoundtableSpace/status/2104568056538095815) | 开发者工具 | 0xMarioNawfal | 2.3K |
 | 2026-09-24 | [JEV and OPUS 5.5 Build a Viral Post Predictor in 9 Minutes](https://x.com/RoundtableSpace/status/2103095855905468848) | 内容创作 | 0xMarioNawfal | 28K |
 | 2026-09-24 | [Hermes + Claude Opus 5.5 + Jev Builds an Automated Sales Team](https://x.com/RoundtableSpace/status/2103080756784558273) | 自动化工作流 | 0xMarioNawfal | 17K |

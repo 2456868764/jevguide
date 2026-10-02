@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 344 | 198 | 147 | 3.0M |
+| 346 | 200 | 147 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2105809232738283853"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001983380758529/img/po6H7kWnrFZO0d9E.jpg" alt="Jev makes AI bots truly listen · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2105809232738283853">Jev makes AI bots truly listen</a></h3>
+<p>TypeSafe AI suggests AI bots lack true listening because they don&#39;t have a little Jev helping them yet.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 表示，AI 机器人之所以不够贴心，是因为缺少 Jev 的帮助。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-10-01T23:56:59.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 21 &nbsp; 📊 4.1K</p>
+<p><a href="https://x.com/typesafeai/status/2105809232738283853">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Irene_the_one/status/2105798429347815806"><img src="https://pbs.twimg.com/amplify_video_thumb/2105240336419192832/img/wmiPUzkC1MDGqiqy.jpg" alt="Jev in Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Irene_the_one/status/2105798429347815806">Jev in Agents</a></h3>
+<p>The post says &#39;Jev in Agents&#39;, possibly about Jev model in agent applications.</p>
+<p><strong>中文摘要：</strong>原帖内容为‘Jev in Agents’，可能涉及Jev模型在智能体中的应用。</p>
+<p><strong>Irene - Fountain of Ideas</strong> · @Irene_the_one · 2026-10-01T23:14:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Irene_the_one/status/2105798429347815806">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Bober_smart/status/2105637981344215281"><img src="https://pbs.twimg.com/amplify_video_thumb/2105637952990642176/img/OOZXdfGj7o6KX--0.jpg" alt="The ultimate combo: Codex + GPT-6.1 + Jev · 原帖视频截图" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4712</strong><br>curated posts</td>
-<td align="center"><strong>2434</strong><br>original videos</td>
+<td align="center"><strong>4727</strong><br>curated posts</td>
+<td align="center"><strong>2443</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>783</strong> showcases · <strong>324</strong> videos</p>
+<p><strong>785</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>494</strong> showcases · <strong>216</strong> videos</p>
+<p><strong>496</strong> showcases · <strong>218</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>471</strong> showcases · <strong>242</strong> videos</p>
+<p><strong>473</strong> showcases · <strong>244</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>361</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>364</strong> showcases · <strong>174</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>354</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>356</strong> showcases · <strong>205</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>131</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>132</strong> showcases · <strong>99</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>100</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>101</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>26</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>18</strong> showcases · <strong>6</strong> videos</p>
+<p><strong>19</strong> showcases · <strong>6</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/christzolov/status/2105912296837095795"><img src="https://pbs.twimg.com/media/HTlSlwwWEAAa8RZ?format=jpg&amp;name=medium" alt="Spring AI Modular RAG with TypeSafe AI Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/christzolov/status/2105912296837095795">Spring AI Modular RAG with TypeSafe AI Jev</a></h3>
-<p>Shows how Jev re-ranks vector search results, keeping only the chunks that actually answer the query. Includes a blog post and Devoxx talk.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
-<p><strong>Christian Tzolov🇧🇬🇪🇺🇺🇦 🦋@tzolov.bsky.social</strong> · @christzolov</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/smooth_tim_/status/2105928059761430569"><img src="https://pbs.twimg.com/tweet_video_thumb/HTnBX5PXAAAbzcw.jpg" alt="Use Jev to Automatically Judge When Model Needs a Nudge · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/smooth_tim_/status/2105928059761430569">Use Jev to Automatically Judge When Model Needs a Nudge</a></h3>
+<p>Jev can judge when the model needs a nudge, eliminating the need for users to repeatedly type &quot;continue&quot;.</p>
+<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Tim B</strong> · @smooth_tim_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/vintcessun/status/2105910914436542501"><img src="https://pbs.twimg.com/media/HTmy0A0bYAAMOsj?format=png&amp;name=900x900" alt="jev-skill: Integrating Jev into Agent Workflows · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vintcessun/status/2105910914436542501">jev-skill: Integrating Jev into Agent Workflows</a></h3>
-<p>A collection of use cases, workflows, and agent patterns for integrating Jev’s judgment capabilities into agent systems.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>恒星sun</strong> · @vintcessun</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/smooth_tim_/status/2105928055730438626"><img src="https://pbs.twimg.com/tweet_video_thumb/HTnAPKqWgAAnpj-.jpg" alt="Jev enables parallel implementation in coding harnesses · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/smooth_tim_/status/2105928055730438626">Jev enables parallel implementation in coding harnesses</a></h3>
+<p>Most coding harnesses are built as a classic for-loop over LLM responses, but with TypeSafe AI&#39;s Jev at the core, you can do radical things like parallel implementation when it&#39;s judged safe to do so.</p>
+<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Tim B</strong> · @smooth_tim_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/shimafuri_d/status/2105910303909454269"><img src="https://pbs.twimg.com/media/HTmyQRTbgAAXcau?format=png&amp;name=900x900" alt="Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shimafuri_d/status/2105910303909454269">Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface</a></h3>
-<p>A point is made that the key innovation of the Jev series is using encoder-like one-shot inference as the final interface of a large-scale general-purpose model, rather than as a preprocessing step for embedding generation.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>ブリーチ</strong> · @shimafuri_d</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/gaaiza1/status/2105926037343465790"><img src="https://pbs.twimg.com/amplify_video_thumb/2105924116352237568/img/pwKujbClSLgdA9Dq.jpg" alt="JEV as a Decision Filter in Front of LLMs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gaaiza1/status/2105926037343465790">JEV as a Decision Filter in Front of LLMs</a></h3>
+<p>A new research direction shows JEV can act as a &quot;decision filter&quot; in front of an LLM, letting an AI system run continuously without feeding every piece of data into a large model. Instead of making the LLM read hundreds of sources, JEV handles the small decisions up front, judging what&#39;s worth……</p>
+<p><strong>42</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 42</p>
+<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/garumoso/status/2105910226264445371"><img src="https://pbs.twimg.com/media/HTmxgDUaAAAQtqw?format=jpg&amp;name=medium" alt="Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/garumoso/status/2105910226264445371">Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics</a></h3>
-<p>The user connects the Jev (decision model) to a video by Toshio Okada, realizes after a hint that its essence relates to artificial rationality and ethics, and decides to note it down.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>ゴロ助</strong> · @garumoso</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ainewssmoothie/status/2105923286529892798"><img src="https://pbs.twimg.com/media/HTm-EavWwAAuzkR?format=jpg&amp;name=medium" alt="TypeSafe Releases New Jev Model for Millisecond-Fast Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ainewssmoothie/status/2105923286529892798">TypeSafe Releases New Jev Model for Millisecond-Fast Decisions</a></h3>
+<p>AI News Smoothie reports that TypeSafe&#39;s new Jev model skips lengthy reasoning for cheap, millisecond-fast decisions, with real-world adoption sparking talks of a $1 billion funding round.</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>AI News Smoothie</strong> · @ainewssmoothie</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/christzolov/status/2105912296837095795"><img src="https://pbs.twimg.com/media/HTlSlwwWEAAa8RZ?format=jpg&amp;name=medium" alt="Spring AI Modular RAG with TypeSafe AI Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/christzolov/status/2105912296837095795">Spring AI Modular RAG with TypeSafe AI Jev</a></h3>
-<p>Shows how Jev re-ranks vector search results, keeping only the chunks that actually answer the query. Includes a blog post and Devoxx talk.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
-<p><strong>Christian Tzolov🇧🇬🇪🇺🇺🇦 🦋@tzolov.bsky.social</strong> · @christzolov</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/smooth_tim_/status/2105928059761430569"><img src="https://pbs.twimg.com/tweet_video_thumb/HTnBX5PXAAAbzcw.jpg" alt="Use Jev to Automatically Judge When Model Needs a Nudge · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/smooth_tim_/status/2105928059761430569">Use Jev to Automatically Judge When Model Needs a Nudge</a></h3>
+<p>Jev can judge when the model needs a nudge, eliminating the need for users to repeatedly type &quot;continue&quot;.</p>
+<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Tim B</strong> · @smooth_tim_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/garumoso/status/2105910226264445371"><img src="https://pbs.twimg.com/media/HTmxgDUaAAAQtqw?format=jpg&amp;name=medium" alt="Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/garumoso/status/2105910226264445371">Reflection on the Jev Decision Model: Artificial Rationality and Artificial Ethics</a></h3>
-<p>The user connects the Jev (decision model) to a video by Toshio Okada, realizes after a hint that its essence relates to artificial rationality and ethics, and decides to note it down.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>ゴロ助</strong> · @garumoso</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ainewssmoothie/status/2105923286529892798"><img src="https://pbs.twimg.com/media/HTm-EavWwAAuzkR?format=jpg&amp;name=medium" alt="TypeSafe Releases New Jev Model for Millisecond-Fast Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ainewssmoothie/status/2105923286529892798">TypeSafe Releases New Jev Model for Millisecond-Fast Decisions</a></h3>
+<p>AI News Smoothie reports that TypeSafe&#39;s new Jev model skips lengthy reasoning for cheap, millisecond-fast decisions, with real-world adoption sparking talks of a $1 billion funding round.</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>AI News Smoothie</strong> · @ainewssmoothie</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/djcroman/status/2105908881511879063"><img src="https://pbs.twimg.com/amplify_video_thumb/2105908488883093504/img/gCAitN1LXoGtDSlK.jpg" alt="Clef vs Jev: Decision Model Latency Comparison Sparks Discussion · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/djcroman/status/2105908881511879063">Clef vs Jev: Decision Model Latency Comparison Sparks Discussion</a></h3>
-<p>Cloudflare open-sourced Clef, a decision model for agent hot paths. The author compares Clef-flash&#39;s ~39 ms median latency with Jev&#39;s 524 ms, arguing that typed decisions beat waiting for a full LLM when agents need to act now.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>djcroman</strong> · @djcroman</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/petrzela123/status/2105923133702373402"><img src="https://pbs.twimg.com/tweet_video_thumb/HTm9saXXAAA7suh.jpg" alt="Mail for Omarchy Launches: Jev-Powered Terminal Gmail Client · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/petrzela123/status/2105923133702373402">Mail for Omarchy Launches: Jev-Powered Terminal Gmail Client</a></h3>
+<p>Mail for Omarchy is now available in the plugin marketplace—a light and fast terminal Gmail client. Jev (TypeSafe AI) sorts your inbox into Gmail labels and checks your reply before sending.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Pavel Petržela</strong> · @petrzela123</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/luc_allain_/status/2105903606499016903"><img src="https://pbs.twimg.com/amplify_video_thumb/2105745484027453440/img/k5FPX0gO1x5QQwjC.jpg" alt="Jev: Making Software “Magical” · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/luc_allain_/status/2105903606499016903">Jev: Making Software “Magical”</a></h3>
-<p>Luc Allain says that in the future, using software won&#39;t require clicking through dozens of menus. With Jev, the interface can understand what the user wants, analyze context, and directly trigger the right action.</p>
-<p><strong>139</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 139</p>
-<p><strong>Luc Allain</strong> · @luc_allain_</p>
+<p><strong>04</strong> &nbsp; <code>法律合规</code> <code>原帖图片</code></p>
+<a href="https://x.com/haqq_ai/status/2105915873835790777"><img src="https://pbs.twimg.com/media/HTm3U8vWwAAD6Gt?format=jpg&amp;name=medium" alt="HAQQ runs TypeSafe&#39;s Jev across legal AI stack for under $0.20 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/haqq_ai/status/2105915873835790777">HAQQ runs TypeSafe&#39;s Jev across legal AI stack for under $0.20</a></h3>
+<p>HAQQ announced it ran TypeSafe&#39;s Jev across its legal AI stack for under $0.20, with a linked blog post on legal AI hallucination detection.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><strong>HAQQ</strong> · @haqq_ai</p>
 </td>
 </tr>
 </table>

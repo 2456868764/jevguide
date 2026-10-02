@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 28
+- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 29
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [CyrilXBT](../authors/cyrilxbt.md) — 16
@@ -246,6 +246,7 @@
 - [Yusuke](../authors/yusuke.md) — 3
 - [Zhilin Wang](../authors/zhilin-wang.md) — 3
 - [ziya](../authors/ziya.md) — 3
+- [Ԟ𝕚╬𝕥ⅇ𝕟](../authors/i-ten.md) — 3
 - [そう｜Claude CodeのX運用で月800万インプ](../authors/claude-code-x運用-月800万.md) — 3
 - [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 3
 - [たく｜ガチのCopilot達人](../authors/copilot達人.md) — 3
@@ -295,6 +296,7 @@
 - [Aurum 😼](../authors/aurum.md) — 2
 - [Ayush](../authors/ayush.md) — 2
 - [B.AI](../authors/b-ai.md) — 2
+- [bakigul](../authors/bakigul.md) — 2
 - [Barış Kısır](../authors/bar-s-k-s-r.md) — 2
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
 - [beamnxw ./](../authors/beamnxw.md) — 2
@@ -492,6 +494,7 @@
 - [parth jain](../authors/parth-jain.md) — 2
 - [Patrick](../authors/patrick.md) — 2
 - [Paulo Coutinho  🇧🇷](../authors/paulo-coutinho.md) — 2
+- [Pavel Petržela](../authors/pavel-petrzela.md) — 2
 - [PC Watch](../authors/pc-watch.md) — 2
 - [pcherkashin.x](../authors/pcherkashin-x.md) — 2
 - [Pentacles（ペンタクルス）🐧✨](../authors/pentacles.md) — 2
@@ -557,6 +560,7 @@
 - [Tetsuro Miyatake](../authors/tetsuro-miyatake.md) — 2
 - [The Startup Ideas Podcast (SIP) 🧃](../authors/the-startup-ideas-podcast-sip.md) — 2
 - [Thor Hovden 🇳🇴❤️🇺🇦](../authors/thor-hovden.md) — 2
+- [Tim B](../authors/tim-b.md) — 2
 - [TinyRouter](../authors/tinyrouter.md) — 2
 - [Tong Zhu](../authors/tong-zhu.md) — 2
 - [Tony Simons](../authors/tony-simons.md) — 2
@@ -592,7 +596,6 @@
 - [Zhuhry](../authors/zhuhry.md) — 2
 - [Zynex](../authors/zynex.md) — 2
 - [Ξric Juta](../authors/ric-juta.md) — 2
-- [Ԟ𝕚╬𝕥ⅇ𝕟](../authors/i-ten.md) — 2
 - [امیرحسین اسلامی](../authors/jev-showcase.md) — 2
 - [돼박](../authors/jev-showcase.md) — 2
 - [율무커피 YulmuCoffee](../authors/yulmucoffee.md) — 2
@@ -621,6 +624,7 @@
 - [宋宋](../authors/宋宋.md) — 2
 - [岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人](../authors/岡安-社長-chatgpt-gemini-claude-llm-作-人.md) — 2
 - [币安人](../authors/币安人.md) — 2
+- [平大志朗](../authors/平大志朗.md) — 2
 - [慢走不宋](../authors/慢走不宋.md) — 2
 - [新井 元気@ITエンジニア](../authors/新井-元気-it.md) — 2
 - [新清士@AIコンテンツ開発者](../authors/新清士-ai-開発者.md) — 2
@@ -748,6 +752,7 @@
 - [AI Ladder](../authors/ai-ladder.md) — 1
 - [AI Mastery Guide](../authors/ai-mastery-guide.md) — 1
 - [AI Native Foundation](../authors/ai-native-foundation.md) — 1
+- [AI News Smoothie](../authors/ai-news-smoothie.md) — 1
 - [AI SDK](../authors/ai-sdk.md) — 1
 - [AI Search](../authors/ai-search.md) — 1
 - [AI Surplus](../authors/ai-surplus.md) — 1
@@ -971,7 +976,6 @@
 - [Ayush Pandey](../authors/ayush-pandey.md) — 1
 - [Azan](../authors/azan.md) — 1
 - [BadGuyTy 🅁🅅🄽 (Tyler Hess)](../authors/badguyty-rvn-tyler-hess.md) — 1
-- [bakigul](../authors/bakigul.md) — 1
 - [Banandre](../authors/banandre.md) — 1
 - [banzaan](../authors/banzaan.md) — 1
 - [Baptiste JAN](../authors/baptiste-jan.md) — 1
@@ -1153,6 +1157,7 @@
 - [coindotgo](../authors/coindotgo.md) — 1
 - [Colbert](../authors/colbert.md) — 1
 - [Colton Garner](../authors/colton-garner.md) — 1
+- [Commencis](../authors/commencis.md) — 1
 - [connect24h](../authors/connect24h.md) — 1
 - [ContextBoy](../authors/contextboy.md) — 1
 - [ContractorKeith](../authors/contractorkeith.md) — 1
@@ -1547,6 +1552,7 @@
 - [hannibal](../authors/hannibal.md) — 1
 - [Hansel](../authors/hansel.md) — 1
 - [Haoran | 公众号：独立开发](../authors/haoran-公众号-独立开发.md) — 1
+- [HAQQ](../authors/haqq.md) — 1
 - [Hardeep](../authors/hardeep.md) — 1
 - [Hari Krishna](../authors/hari-krishna.md) — 1
 - [Hari ॐ Vashishtha 🤘](../authors/hari-vashishtha.md) — 1
@@ -2204,6 +2210,7 @@
 - [nicekate](../authors/nicekate.md) — 1
 - [Nicholas Charriere](../authors/nicholas-charriere.md) — 1
 - [nick (ник)](../authors/nick.md) — 1
+- [Nick Emb](../authors/nick-emb.md) — 1
 - [Nick Horob](../authors/nick-horob.md) — 1
 - [Nick Khami](../authors/nick-khami.md) — 1
 - [nicolas](../authors/nicolas.md) — 1
@@ -2320,7 +2327,6 @@
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
 - [Pavel Hegler 🫆](../authors/pavel-hegler.md) — 1
-- [Pavel Petržela](../authors/pavel-petrzela.md) — 1
 - [PayPerQ](../authors/payperq.md) — 1
 - [Pedro Nauck ⌁ compozy.com](../authors/pedro-nauck-compozy-com.md) — 1
 - [PEEP](../authors/peep.md) — 1
@@ -2486,6 +2492,7 @@
 - [Robinhood Alpha](../authors/robinhood-alpha.md) — 1
 - [Robotics Alpha](../authors/robotics-alpha.md) — 1
 - [Rodo](../authors/rodo.md) — 1
+- [Rodolfo Bernal](../authors/rodolfo-bernal.md) — 1
 - [rodon](../authors/rodon.md) — 1
 - [Rogerio Fiesta](../authors/rogerio-fiesta.md) — 1
 - [Rohan Arun](../authors/rohan-arun.md) — 1
@@ -2745,6 +2752,7 @@
 - [svs 🇮🇳](../authors/svs.md) — 1
 - [Swapnil Mitra](../authors/swapnil-mitra.md) — 1
 - [Swapnil Sarkar](../authors/swapnil-sarkar.md) — 1
+- [SWARM Team](../authors/swarm-team.md) — 1
 - [Sydney Runkle](../authors/sydney-runkle.md) — 1
 - [Sylvain Charbit](../authors/sylvain-charbit.md) — 1
 - [Sylvain Deauré](../authors/sylvain-deaure.md) — 1
@@ -2831,6 +2839,7 @@
 - [Todd Dailey](../authors/todd-dailey.md) — 1
 - [token by token](../authors/token-by-token.md) — 1
 - [toku_prv](../authors/toku-prv.md) — 1
+- [Tom](../authors/tom.md) — 1
 - [TOM 🦋🔶🅿️](../authors/tom.md) — 1
 - [Tom Bielecki](../authors/tom-bielecki.md) — 1
 - [Tom Dörr](../authors/tom-dorr.md) — 1
@@ -3233,6 +3242,7 @@
 - [ポケカアプリ開発中_pockkyuura](../authors/開発中-pockkyuura.md) — 1
 - [ほし | FDE](../authors/fde.md) — 1
 - [ホタテラボ](../authors/jev-showcase.md) — 1
+- [ボンド｜AIで最高月収7800万](../authors/ai-最高月収7800万.md) — 1
 - [まえだかずひこ](../authors/jev-showcase.md) — 1
 - [まかねこ| AIに働かせる技術](../authors/ai-働-技術.md) — 1
 - [まさやん【AIギルドch運営】- AIでクリエイティブと開発を効率化・自動化](../authors/ai-ch運営-ai-開発-効率化-自動化.md) — 1
@@ -3332,7 +3342,6 @@
 - [岡 拓馬(Takuma Oka)｜AI検索×SEO・SEGO開発](../authors/岡-拓馬-takuma-oka-ai検索-seo-sego開発.md) — 1
 - [市川 俊介 Shun📍Chiang Mai 🇹🇭](../authors/市川-俊介-shun-chiang-mai.md) — 1
 - [布留川英一 / Hidekazu Furukawa](../authors/布留川英一-hidekazu-furukawa.md) — 1
-- [平大志朗](../authors/平大志朗.md) — 1
 - [幻想的新月🇨🇳The pure moon of fantaisie🌟](../authors/幻想的新月-the-pure-moon-of-fantaisie.md) — 1
 - [情報の灯台](../authors/情報-灯台.md) — 1
 - [惠通](../authors/惠通.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 783 | 324 | 463 | 3.0M |
+| 785 | 325 | 464 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tmoll_/status/2105922841061532105"><img src="https://pbs.twimg.com/media/HTm9lhjXoAAxB9n?format=png&amp;name=900x900" alt="Asking Jev to plot a Mandelbrot fractal · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tmoll_/status/2105922841061532105">Asking Jev to plot a Mandelbrot fractal</a></h3>
+<p>A community user shares that Jev can be asked to plot a Mandelbrot fractal in a similar way, though the result is not particularly good.</p>
+<p><strong>中文摘要：</strong>社区用户分享可用类似方式让 Jev 绘制曼德博集合分形，但效果并不理想。</p>
+<p><strong>Tom</strong> · @tmoll_ · 2026-10-02T07:28:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 37</p>
+<p><a href="https://x.com/tmoll_/status/2105922841061532105">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nicolasembleton/status/2105920201128894819"><img src="https://pbs.twimg.com/amplify_video_thumb/2105689425888108544/img/OKn5dF1WLujUpcR6.jpg" alt="Jev Makes Classifiers Cool Again, Open Source Follows Fast · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nicolasembleton/status/2105920201128894819">Jev Makes Classifiers Cool Again, Open Source Follows Fast</a></h3>
+<p>Nick Emb marvels at how fast things evolve. Jev sparked a mini revolution by making classifiers cool again, and the open source world quickly produced VL-classifiers, thinking-classifiers, and near-real-time online classifiers.</p>
+<p><strong>中文摘要：</strong>Nick Emb 感叹技术演进之快，Jev 带来了一场小革命，让分类器重新受到关注，随后开源世界涌现出 VL-分类器、思考型分类器、在线分类器等新进展。</p>
+<p><strong>Nick Emb</strong> · @nicolasembleton · 2026-10-02T07:17:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/nicolasembleton/status/2105920201128894819">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yapramie/status/2105899567674016001"><img src="https://pbs.twimg.com/amplify_video_thumb/2105899507577970688/img/ye2VhbjLh7fdURSJ.jpg" alt="Jev adopted by 25% of Fortune 500 · 原帖视频截图" width="100%"></a>

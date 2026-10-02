@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 471 | 242 | 231 | 3.6M |
+| 473 | 244 | 231 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/smooth_tim_/status/2105928055730438626"><img src="https://pbs.twimg.com/tweet_video_thumb/HTnAPKqWgAAnpj-.jpg" alt="Jev enables parallel implementation in coding harnesses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/smooth_tim_/status/2105928055730438626">Jev enables parallel implementation in coding harnesses</a></h3>
+<p>Most coding harnesses are built as a classic for-loop over LLM responses, but with TypeSafe AI&#39;s Jev at the core, you can do radical things like parallel implementation when it&#39;s judged safe to do so.</p>
+<p><strong>中文摘要：</strong>大多数编码工具只是对 LLM 响应进行简单循环，而将 TypeSafe AI 的 Jev 置于核心后，可以在判定安全时实现并行实施等激进做法。</p>
+<p><strong>Tim B</strong> · @smooth_tim_ · 2026-10-02T07:49:09.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/smooth_tim_/status/2105928055730438626">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/djcroman/status/2105908881511879063"><img src="https://pbs.twimg.com/amplify_video_thumb/2105908488883093504/img/gCAitN1LXoGtDSlK.jpg" alt="Clef vs Jev: Decision Model Latency Comparison Sparks Discussion · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>djcroman</strong> · @djcroman · 2026-10-02T06:32:57.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/djcroman/status/2105908881511879063">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2105900823570243597"><img src="https://pbs.twimg.com/amplify_video_thumb/2105899855302537216/img/yz5nUniw21pLNnqO.jpg" alt="JEV Visualization Agent Scheduling Dashboard · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2105900823570243597">JEV Visualization Agent Scheduling Dashboard</a></h3>
+<p>Designing a JEV visualization agent scheduling dashboard: let JEV quickly decide assignments, automatically routing based on use case, cost, and model strengths, and executing directly when confidence is high.</p>
+<p><strong>中文摘要：</strong>设计一个JEV可视化Agent调度仪表盘：先让JEV快速判断分配对象，基于用例、成本和模型优势自动路由，置信度足够高时直接执行。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-10-02T06:00:56.000Z</p>
+<p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 9 &nbsp; 📊 962</p>
+<p><a href="https://x.com/NFT_Chen/status/2105900823570243597">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/MaxForAI/status/2105881503226098094"><img src="https://pbs.twimg.com/media/HTmXtUqbwAAjaW7?format=jpg&amp;name=large" alt="Cloudflare Open-Sources Jev Decision Models Clef Based on Qwen · 原帖图片" width="100%"></a>

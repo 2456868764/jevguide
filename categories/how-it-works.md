@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 494 | 216 | 279 | 1.6M |
+| 496 | 218 | 279 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gaaiza1/status/2105926037343465790"><img src="https://pbs.twimg.com/amplify_video_thumb/2105924116352237568/img/pwKujbClSLgdA9Dq.jpg" alt="JEV as a Decision Filter in Front of LLMs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gaaiza1/status/2105926037343465790">JEV as a Decision Filter in Front of LLMs</a></h3>
+<p>A new research direction shows JEV can act as a &quot;decision filter&quot; in front of an LLM, letting an AI system run continuously without feeding every piece of data into a large model. Instead of making the LLM read hundreds of sources, JEV handles the small decisions up front, judging what&#39;s worth……</p>
+<p><strong>中文摘要：</strong>新研究方向显示，JEV可在大型语言模型前充当&quot;决策过滤器&quot;，让AI系统无需将每条数据都送入大模型即可持续运行。与其让LLM阅读数百个来源，JEV先在前端处理小型决策，判断信息是否值得……</p>
+<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1 · 2026-10-02T07:41:08.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 42</p>
+<p><a href="https://x.com/gaaiza1/status/2105926037343465790">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/5WARM_AI/status/2105914437429326185"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105914356160446464/pu/img/8xQl5w869TN0JzBB.jpg" alt="Jev Model: Decision and Confidence · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/5WARM_AI/status/2105914437429326185">Jev Model: Decision and Confidence</a></h3>
+<p>Introducing the Jev model: given a question and allowed answers, Jev picks one and gives a confidence score. Above the threshold it acts automatically, below it a human reviews.</p>
+<p><strong>中文摘要：</strong>介绍Jev模型：给定问题和允许的答案，Jev选择并给出置信度。超过阈值自动执行，低于则人工复核。</p>
+<p><strong>SWARM Team</strong> · @5WARM_AI · 2026-10-02T06:55:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/5WARM_AI/status/2105914437429326185">在 X 查看原帖</a> · <a href="https://t.co/QmmDQ210Ue">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shimafuri_d/status/2105910303909454269"><img src="https://pbs.twimg.com/media/HTmyQRTbgAAXcau?format=png&amp;name=900x900" alt="Jev&#39;s New Architecture: Encoder-style One-shot Inference as the Final Interface · 原帖图片" width="100%"></a>

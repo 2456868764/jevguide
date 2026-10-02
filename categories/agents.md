@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 354 | 203 | 152 | 3.0M |
+| 356 | 205 | 152 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/smooth_tim_/status/2105928059761430569"><img src="https://pbs.twimg.com/tweet_video_thumb/HTnBX5PXAAAbzcw.jpg" alt="Use Jev to Automatically Judge When Model Needs a Nudge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/smooth_tim_/status/2105928059761430569">Use Jev to Automatically Judge When Model Needs a Nudge</a></h3>
+<p>Jev can judge when the model needs a nudge, eliminating the need for users to repeatedly type &quot;continue&quot;.</p>
+<p><strong>中文摘要：</strong>Jev可以帮您判断模型何时需要额外的提示，省去用户反复输入“继续”的繁琐操作。</p>
+<p><strong>Tim B</strong> · @smooth_tim_ · 2026-10-02T07:49:10.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/smooth_tim_/status/2105928059761430569">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/commencis/status/2105915688238109061"><img src="https://pbs.twimg.com/amplify_video_thumb/2105618554741501952/img/RatfbLArh7BhW00W.jpg" alt="Jev helps voice agent reach 95.1% decision accuracy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/commencis/status/2105915688238109061">Jev helps voice agent reach 95.1% decision accuracy</a></h3>
+<p>In a new blog, Commencis shares how Jev helped voice agent Phoebe achieve 95.1% decision accuracy while cutting decision time by 65%, exploring hybrid voice AI in practice.</p>
+<p><strong>中文摘要：</strong>Commencis最新博客介绍了Jev如何帮助语音代理Phoebe实现95.1%的决策准确率，并将决策时间缩短65%，探讨混合语音AI的实践。</p>
+<p><strong>Commencis</strong> · @commencis · 2026-10-02T07:00:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 73</p>
+<p><a href="https://x.com/commencis/status/2105915688238109061">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vintcessun/status/2105910914436542501"><img src="https://pbs.twimg.com/media/HTmy0A0bYAAMOsj?format=png&amp;name=900x900" alt="jev-skill: Integrating Jev into Agent Workflows · 原帖图片" width="100%"></a>

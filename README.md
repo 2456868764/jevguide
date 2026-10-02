@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4665</strong><br>curated posts</td>
-<td align="center"><strong>2415</strong><br>original videos</td>
+<td align="center"><strong>4678</strong><br>curated posts</td>
+<td align="center"><strong>2421</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>771</strong> showcases · <strong>321</strong> videos</p>
+<p><strong>774</strong> showcases · <strong>322</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>483</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>486</strong> showcases · <strong>213</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>467</strong> showcases · <strong>239</strong> videos</p>
+<p><strong>468</strong> showcases · <strong>240</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>355</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>357</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>350</strong> showcases · <strong>200</strong> videos</p>
+<p><strong>352</strong> showcases · <strong>202</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>298</strong> showcases · <strong>116</strong> videos</p>
+<p><strong>299</strong> showcases · <strong>116</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>130</strong> showcases · <strong>97</strong> videos</p>
+<p><strong>131</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/naumowf/status/2105851938612912503"><img src="https://pbs.twimg.com/media/HTl9JFdWoAAiySZ?format=jpg&amp;name=medium" alt="Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/naumowf/status/2105851938612912503">Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks</a></h3>
-<p>Perplexity announced its open-source decision model pplx-decider-v1-27b, scoring 85.71% overall on 11 decision benchmarks (lab-reported), slightly edging Jev&#39;s 84.51%. Fine-tuned from Qwen3.8-27B, Apache 2.0 licensed, multimodal, with up to 262k input tokens. Priced at $0.04/M input tokens, output free.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Franco Naumow.</strong> · @naumowf</p>
+<a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fatwang2ai/status/2105866964929536351">Jev Search adds Clef and Clef-flash model options</a></h3>
+<p>Jev Search now offers Clef and Clef-flash models powered by Cloudflare.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>fatwang2</strong> · @fatwang2ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/cyrilXBT/status/2105847748893536468"><img src="https://pbs.twimg.com/media/HTl5XgcbgAASjga?format=jpg&amp;name=medium" alt="Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2105847748893536468">Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team</a></h3>
-<p>This post shows how to combine Claude with Jev to turn Opus 5.5 into a collaborative team: a planner breaks goals into tasks, a researcher gathers what&#39;s needed, a builder ships the work, and Dots keeps running in the background—no need to type one prompt at a time.</p>
-<p><strong>1.9K</strong> views · 💬 0 &nbsp; 🔁 9 &nbsp; ♡ 25 &nbsp; 📊 1.9K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/eyalestrin/status/2105866570190954818"><img src="https://pbs.twimg.com/media/HTmKfCCbQAA8WH7?format=png&amp;name=medium" alt="From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/eyalestrin/status/2105866570190954818">From Jev to Your Laptop: Building &quot;System One&quot; Decision Models in ONNX with Mobius</a></h3>
+<p>Learn how to build &quot;System One&quot; decision models from Jev, convert them to ONNX, and run them locally with Mobius.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Eyal Estrin ☁️</strong> · @eyalestrin</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ItsCuthulhu/status/2105846590573256856"><img src="https://pbs.twimg.com/media/HTl4UB5WAAAoAP6?format=jpg&amp;name=medium" alt="Jev as a Judge on Celeris-1: AIME Up but Higher Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ItsCuthulhu/status/2105846590573256856">Jev as a Judge on Celeris-1: AIME Up but Higher Cost</a></h3>
-<p>A user tested MetaCog + Jev on Celeris_ai and found it not very useful for this use case. Adding Jev as a judge to Celeris-1 raised AIME from 23% to 53% (+30%) and MATH-500 by 4.6 points, at the cost of ~3.5x latency and $0.04 per run, with no benefit on multiple-choice questions.</p>
-<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/PrimeAnalytix/status/2105866109270254014"><img src="https://pbs.twimg.com/media/HTl66ICW4AAt6EA?format=jpg&amp;name=small" alt="OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PrimeAnalytix/status/2105866109270254014">OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost</a></h3>
+<p>It is reported that OpenAI&#39;s Decisions API is seen as a clone of Jev, offering faster and cheaper AI agent monitoring. The post states Jev costs $2.94 per action versus $372 for frontier LLMs.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Prime Analytix</strong> · @PrimeAnalytix</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ItsCuthulhu/status/2105845887809278271"><img src="https://pbs.twimg.com/media/HTl3rHWWYAAUWmP?format=jpg&amp;name=medium" alt="Small Jev Models Ranking Update on S1Bench · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ItsCuthulhu/status/2105845887809278271">Small Jev Models Ranking Update on S1Bench</a></h3>
-<p>Community benchmark shows the 9B model outperforms the 27B. Cloudflare&#39;s Clef-flash tops the small-model board at 0.757, ahead of its 27B sibling at 0.747 and 3x faster. Jev still leads at 0.775.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu</p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/gaaiza1/status/2105865502551855342"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864239504330752/img/Qt9wtgIj-eFoEZLM.jpg" alt="JEV Reviews Hundreds of Prospect Messages in Seconds · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gaaiza1/status/2105865502551855342">JEV Reviews Hundreds of Prospect Messages in Seconds</a></h3>
+<p>The user praises JEV&#39;s speed: with over 700 prospects each having a tailored outreach message, JEV scans every profile, cross-checks content, and flags which messages fit and which miss the customer&#39;s needs.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 38</p>
+<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/naumowf/status/2105851938612912503"><img src="https://pbs.twimg.com/media/HTl9JFdWoAAiySZ?format=jpg&amp;name=medium" alt="Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/naumowf/status/2105851938612912503">Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks</a></h3>
-<p>Perplexity announced its open-source decision model pplx-decider-v1-27b, scoring 85.71% overall on 11 decision benchmarks (lab-reported), slightly edging Jev&#39;s 84.51%. Fine-tuned from Qwen3.8-27B, Apache 2.0 licensed, multimodal, with up to 262k input tokens. Priced at $0.04/M input tokens, output free.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Franco Naumow.</strong> · @naumowf</p>
+<a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fatwang2ai/status/2105866964929536351">Jev Search adds Clef and Clef-flash model options</a></h3>
+<p>Jev Search now offers Clef and Clef-flash models powered by Cloudflare.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>fatwang2</strong> · @fatwang2ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ItsCuthulhu/status/2105845887809278271"><img src="https://pbs.twimg.com/media/HTl3rHWWYAAUWmP?format=jpg&amp;name=medium" alt="Small Jev Models Ranking Update on S1Bench · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ItsCuthulhu/status/2105845887809278271">Small Jev Models Ranking Update on S1Bench</a></h3>
-<p>Community benchmark shows the 9B model outperforms the 27B. Cloudflare&#39;s Clef-flash tops the small-model board at 0.757, ahead of its 27B sibling at 0.747 and 3x faster. Jev still leads at 0.775.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/gaaiza1/status/2105865502551855342"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864239504330752/img/Qt9wtgIj-eFoEZLM.jpg" alt="JEV Reviews Hundreds of Prospect Messages in Seconds · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gaaiza1/status/2105865502551855342">JEV Reviews Hundreds of Prospect Messages in Seconds</a></h3>
+<p>The user praises JEV&#39;s speed: with over 700 prospects each having a tailored outreach message, JEV scans every profile, cross-checks content, and flags which messages fit and which miss the customer&#39;s needs.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 38</p>
+<p><strong>Ԟ𝕚╬𝕥ⅇ𝕟</strong> · @gaaiza1</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/naumowf/status/2105844827355312227"><img src="https://pbs.twimg.com/media/HTl2QRYW4AAZPuO?format=jpg&amp;name=medium" alt="Clef-flash vs Jev: Latency Benchmark Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/naumowf/status/2105844827355312227">Clef-flash vs Jev: Latency Benchmark Comparison</a></h3>
-<p>The post compares decision latency between Cloudflare&#39;s Clef-flash and Jev models, citing the Jev Decision Index: Clef-flash at 38.8 ms vs Jev at 524 ms. It also lists model specs (Apache 2.0, 9B/27B, 64k context) and per-M input pricing.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Franco Naumow.</strong> · @naumowf</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/Aj_bucketshow/status/2105864993074032766"><img src="https://pbs.twimg.com/amplify_video_thumb/2105864232868945920/img/bMSwtjYzzId2FHPM.jpg" alt="Jev, but yours — your own decision model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Aj_bucketshow/status/2105864993074032766">Jev, but yours — your own decision model</a></h3>
+<p>Create your own decision model from Jev&#39;s JSON in minutes, hosted or on your machine (under 1 MB for games), and retrain on mistakes quickly. It claims to beat Jev at Doom (45 kills to 39) and on support tickets (91.7% vs 86.6%).</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Alexander Seldon</strong> · @Aj_bucketshow</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/fun000001/status/2105833978624360802"><img src="https://pbs.twimg.com/media/HTls1cza4AAdYHf?format=jpg&amp;name=medium" alt="TypeSafe Launches Jev Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/fun000001/status/2105833978624360802">TypeSafe Launches Jev Decision Model</a></h3>
-<p>According to the post, TypeSafe launched Jev on September 15, followed by OpenAI and others entering the decision model space, with Perplexity and Cloudflare open-sourcing model weights.</p>
-<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
-<p><strong>fisherdaddy</strong> · @fun000001</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/commte/status/2105855831543845334"><img src="https://pbs.twimg.com/media/HTmAtzSbQAA1rZJ?format=jpg&amp;name=medium" alt="Jev costs 1/100 of Opus: Article check experiment comparison · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/commte/status/2105855831543845334">Jev costs 1/100 of Opus: Article check experiment comparison</a></h3>
+<p>A user tested Jev, Sonnet, and Opus for article checking (63 items × 27 questions). For clear-cut questions, Jev gave almost the same answers as Opus at 1/100 the cost, suggesting only difficult cases need to be sent to Sonnet.</p>
+<p><strong>365</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 365</p>
+<p><strong>コムテ</strong> · @commte</p>
 </td>
 </tr>
 </table>

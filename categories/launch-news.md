@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 355 | 171 | 187 | 1.1M |
+| 357 | 171 | 189 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/fatwang2ai/status/2105866964929536351"><img src="https://pbs.twimg.com/media/HTmKY8_asAE-iU2?format=jpg&amp;name=medium" alt="Jev Search adds Clef and Clef-flash model options · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fatwang2ai/status/2105866964929536351">Jev Search adds Clef and Clef-flash model options</a></h3>
+<p>Jev Search now offers Clef and Clef-flash models powered by Cloudflare.</p>
+<p><strong>中文摘要：</strong>Jev Search 现在可以选择由 Cloudflare 提供的 Clef 和 Clef-flash 模型。</p>
+<p><strong>fatwang2</strong> · @fatwang2ai · 2026-10-02T03:46:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/fatwang2ai/status/2105866964929536351">在 X 查看原帖</a> · <a href="https://t.co/Y0qsGjceql">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PrimeAnalytix/status/2105866109270254014"><img src="https://pbs.twimg.com/media/HTl66ICW4AAt6EA?format=jpg&amp;name=small" alt="OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PrimeAnalytix/status/2105866109270254014">OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost</a></h3>
+<p>It is reported that OpenAI&#39;s Decisions API is seen as a clone of Jev, offering faster and cheaper AI agent monitoring. The post states Jev costs $2.94 per action versus $372 for frontier LLMs.</p>
+<p><strong>中文摘要：</strong>据报道，OpenAI 的 Decisions API 被视为 Jev 的克隆，用于更快、更便宜的 AI 代理监控。文中提到 Jev 每次操作成本为 2.94 美元，而前沿大模型为 372 美元。</p>
+<p><strong>Prime Analytix</strong> · @PrimeAnalytix · 2026-10-02T03:43:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/PrimeAnalytix/status/2105866109270254014">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/naumowf/status/2105851938612912503"><img src="https://pbs.twimg.com/media/HTl9JFdWoAAiySZ?format=jpg&amp;name=medium" alt="Perplexity&#39;s open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks · 原帖图片" width="100%"></a>

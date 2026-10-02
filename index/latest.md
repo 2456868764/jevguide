@@ -2,6 +2,19 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-02T03:46:24.000Z | [Jev Search adds Clef and Clef-flash model options](https://x.com/fatwang2ai/status/2105866964929536351) | 产品发布 | fatwang2 | 8 |
+| 2026-10-02T03:44:50.000Z | [From Jev to Your Laptop: Building "System One" Decision Models in ONNX with Mobius](https://x.com/eyalestrin/status/2105866570190954818) | 开发资源 | Eyal Estrin ☁️ | 6 |
+| 2026-10-02T03:43:00.000Z | [OpenAI Introduces Decisions API, a Jev Clone, at Lower Cost](https://x.com/PrimeAnalytix/status/2105866109270254014) | 产品发布 | Prime Analytix | 3 |
+| 2026-10-02T03:40:35.000Z | [JEV Reviews Hundreds of Prospect Messages in Seconds](https://x.com/gaaiza1/status/2105865502551855342) | 营销 | Ԟ𝕚╬𝕥ⅇ𝕟 | 38 |
+| 2026-10-02T03:38:34.000Z | [Jev, but yours — your own decision model](https://x.com/Aj_bucketshow/status/2105864993074032766) | 开发者工具 | Alexander Seldon | 5 |
+| 2026-10-02T03:30:31.000Z | [Discussion on TypeSafe AI Jev Model vs OpenAI](https://x.com/Don12262/status/2105862968470872280) | 社区实践 | techie_trader | 11 |
+| 2026-10-02T03:30:00.000Z | [JEV: Hype or Type-Safe Next-Token Classifier?](https://x.com/memonoid/status/2105862839986430058) | 工作原理 | Ali Imran Memon | 6 |
+| 2026-10-02T03:23:12.000Z | [Will JEV Reinvent Complex UI Interaction?](https://x.com/estebs/status/2105861127959876079) | 智能体 | Esteban | 9 |
+| 2026-10-02T03:20:00.000Z | [Bekko System One: Tiny Decision Models in the Same Category as TypeSafe AI's Jev](https://x.com/aigeeknews/status/2105860323748315263) | 工作原理 | AI 极客新闻 | 37 |
+| 2026-10-02T03:10:59.000Z | [Cloudflare Clef Seen as Strong Candidate for Jev-style Decision Model](https://x.com/eichiyorozu/status/2105858053862277363) | 社区实践 | eichi \| AI Frontier | 19 |
+| 2026-10-02T03:02:09.000Z | [Jev costs 1/100 of Opus: Article check experiment comparison](https://x.com/commte/status/2105855831543845334) | 社区实践 | コムテ | 365 |
+| 2026-10-02T03:00:55.000Z | [Jev: An AI That Provides Choice Options and Probabilities](https://x.com/CareersAccount/status/2105855520905285661) | 工作原理 | インターン採用チーム | 10 |
+| 2026-10-02T02:47:05.000Z | [Jev already has 10 buildable projects](https://x.com/ggwplabs/status/2105852039209058514) | 智能体 | ggwp | 14 |
 | 2026-10-02T02:46:41.000Z | [Perplexity's open pplx-decider-v1-27b slightly beats Jev with 85.71% on decision benchmarks](https://x.com/naumowf/status/2105851938612912503) | 产品发布 | Franco Naumow. | 5 |
 | 2026-10-02T02:30:02.000Z | [Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team](https://x.com/cyrilXBT/status/2105847748893536468) | 智能体 | CyrilXBT | 1.9K |
 | 2026-10-02T02:25:26.000Z | [Jev as a Judge on Celeris-1: AIME Up but Higher Cost](https://x.com/ItsCuthulhu/status/2105846590573256856) | 社区实践 | Cuth | 15 |
@@ -89,16 +102,3 @@
 | 2026-10-01T14:30:56.000Z | [What is Jev Engineering?](https://x.com/KirkDBorne/status/2105666781155033599) | 工作原理 | Kirk Borne | 262 |
 | 2026-10-01T14:30:30.000Z | [Jev Rating Challenge: Average Score Only 38.5](https://x.com/awesamarth_/status/2105666672275394860) | 游戏 | Samarth | 161 |
 | 2026-10-01T12:53:48.000Z | [Riley Brown Explains Jev's Model Routing](https://x.com/ai_katanai/status/2105642333932859564) | 工作原理 | Katanai | 7 |
-| 2026-10-01T12:48:45.000Z | [Real-time Video Analysis with djev-run and Jev](https://x.com/yuki_wtz/status/2105641063407124606) | 社区实践 | ucchy / Yuki Uchida | 37 |
-| 2026-10-01T12:48:27.000Z | [Jev Guards the Second Brain, Stops Rotten Notes from Saving](https://x.com/AI__Brain/status/2105640989956112726) | 生产力 | BrainAI | 26 |
-| 2026-10-01T12:48:22.000Z | [Jev input is 238x cheaper than Astra](https://x.com/He1s_Sammy/status/2105640968741347360) | 工作原理 | S ᜰ | 261 |
-| 2026-10-01T12:43:45.000Z | [Jev Model: Reads 37 Documents in 0.7 Seconds for a Fraction of a Cent](https://x.com/yurshevv/status/2105639807753826789) | 产品发布 | yurshev | 59 |
-| 2026-10-01T12:43:33.000Z | [Jev Founder Releases 'Jev with LLMs' PDF Guide](https://x.com/iiiichigo_chan/status/2105639758034608563) | 开发资源 | Ichigo | 125 |
-| 2026-10-01T12:36:58.000Z | [Oodle AI Tests Jev Against GPT-5.4-mini, Claude Haiku 4.5, and Gemini 3.5 Flash](https://x.com/oodleai/status/2105638101276307736) | 社区实践 | Oodle AI | 14 |
-| 2026-10-01T12:36:30.000Z | [The ultimate combo: Codex + GPT-6.1 + Jev](https://x.com/Bober_smart/status/2105637981344215281) | 智能体 | Bober_smart | 674 |
-| 2026-10-01T12:34:01.000Z | [Quant Trader Uses Jev for Regime Detection](https://x.com/RitOnchain/status/2105637357051609374) | 金融 | venus | 153 |
-| 2026-10-01T12:25:36.000Z | [Jev scores founder's X profile 55/100](https://x.com/awesamarth_/status/2105635239725039645) | 社区实践 | Samarth | 52 |
-| 2026-10-01T12:25:18.000Z | [An English conversation app built with Jev via vibe coding](https://x.com/peter_0123/status/2105635165787856969) | 教育 | Notty | 61 |
-| 2026-10-01T12:20:00.000Z | [Jev Chat Assistant: Reads Screen Conversations to Help You Read Between the Lines](https://x.com/0xGky/status/2105633829394239694) | 社区实践 | Gk | 185 |
-| 2026-10-01T12:18:22.000Z | [Jev vs GPT-6 Luna: Higher Score Isn't the Part That Makes an Agent Safe](https://x.com/0xAIlabs/status/2105633417702346754) | 社区实践 | Lyren_o | 172 |
-| 2026-10-01T12:15:46.000Z | [Building an NG Word Blocker with Jev](https://x.com/mutoene/status/2105632766276894880) | 社区实践 | むと＠Liminaltiy | 184 |

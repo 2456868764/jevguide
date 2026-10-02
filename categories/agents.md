@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 350 | 200 | 151 | 3.0M |
+| 352 | 202 | 151 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/estebs/status/2105861127959876079"><img src="https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg" alt="Will JEV Reinvent Complex UI Interaction? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/estebs/status/2105861127959876079">Will JEV Reinvent Complex UI Interaction?</a></h3>
+<p>Esteban wonders whether JEV can surpass current LLM-based approaches on complex UIs like macOS, Windows, and Ubuntu. He believes it will take off.</p>
+<p><strong>中文摘要：</strong>Esteban 提出疑问：JEV 能否在 macOS、Windows 等复杂 UI 上超越现有 LLM 方案？他认为它将大有可为。</p>
+<p><strong>Esteban</strong> · @estebs · 2026-10-02T03:23:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/estebs/status/2105861127959876079">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ggwplabs/status/2105852039209058514"><img src="https://pbs.twimg.com/amplify_video_thumb/2105851891275997184/img/XDcPj2QyblN91zpH.jpg" alt="Jev already has 10 buildable projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ggwplabs/status/2105852039209058514">Jev already has 10 buildable projects</a></h3>
+<p>Jev offers 10 buildable projects, including desktop agents, trading experiments, and a model playing Mario directly from emulator state. The common thread: Jev chooses the next action.</p>
+<p><strong>中文摘要：</strong>Jev提供10个可构建的项目，包括桌面代理、交易实验和直接从模拟器状态玩马里奥的模型。这些项目的共同点是：Jev负责选择下一个行动。</p>
+<p><strong>ggwp</strong> · @ggwplabs · 2026-10-02T02:47:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/ggwplabs/status/2105852039209058514">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cyrilXBT/status/2105847748893536468"><img src="https://pbs.twimg.com/media/HTl5XgcbgAASjga?format=jpg&amp;name=medium" alt="Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team · 原帖图片" width="100%"></a>

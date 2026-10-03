@@ -2,6 +2,15 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T07:00:10.000Z | [TypeSafe Released Official Documentation for Jev](https://x.com/aiedge_/status/2106278115995721987) | 开发资源 | AI Edge | 350 |
+| 2026-10-03T06:59:29.000Z | [Jev-powered AI news desk: 96% cost and 73% time reduction](https://x.com/bcoelhopt/status/2106277944108953669) | 内容创作 | Bruno Coelho | 1 |
+| 2026-10-03T06:57:39.000Z | [Many Jev-like Models Available via API](https://x.com/gota_bara/status/2106277484715188445) | 开发者工具 | Gota | 28 |
+| 2026-10-03T06:49:30.000Z | [A Jev-like decision system](https://x.com/wreckmyshit/status/2106275433616699590) | 工作原理 | Calliope | 13 |
+| 2026-10-03T06:41:12.000Z | [Amazon Launches Strands Decider 2B, a Jev Clone](https://x.com/Tekticia/status/2106273342315508105) | 产品发布 | Tekticia | 10 |
+| 2026-10-03T06:39:55.000Z | [Play Classic Games with Jev AI](https://x.com/bliss_rh/status/2106273020184838248) | 游戏 | RORO | 21 |
+| 2026-10-03T06:24:31.000Z | [User tests Jev for sarcasm classification](https://x.com/eightcoolguy/status/2106269145486741617) | 社区实践 | coolguy | 6 |
+| 2026-10-03T06:16:46.000Z | [Get AI to Recommend Your Brand with Jev and Posthog](https://x.com/Coop_dawg11/status/2106267193432215964) | 营销 | Cooper Simson \| Actionable AI \| Agents, AI Content | 15 |
+| 2026-10-03T06:12:40.000Z | [Building the Rein Harness to Integrate Multiple AI Tools](https://x.com/gmathis1995/status/2106266163021828337) | 开发者工具 | Gary Mathis | 23 |
 | 2026-10-03T06:00:04.000Z | [Deep Dive: TypeSafe Jev's Decision Behavior Under Uncertainty](https://x.com/CalatheaAI/status/2106262993914962019) | 工作原理 | Calathea | 6 |
 | 2026-10-03T05:56:47.000Z | [Chinese-Jev: Bringing System One Model to Chinese-Language Tasks](https://x.com/HEI/status/2106262165468434620) | 科研 | Natural Language Processing Papers | 16 |
 | 2026-10-03T05:56:00.000Z | [Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper](https://x.com/polydao/status/2106261967975391339) | 开发者工具 | Mr. Buzzoni | 111 |
@@ -93,12 +102,3 @@
 | 2026-10-02T21:45:00.000Z | [Jev FC Buddy Breaks the Traditional Agent Marketplace Model](https://x.com/Naa_Crypt0/status/2106138403590803827) | 智能体 | NaK(✱,✱) | 239 |
 | 2026-10-02T15:09:00.000Z | [Building an Automated Newsroom with Grok and JEV](https://x.com/thegreatest_sv/status/2106038747485855844) | 自动化工作流 | kiosa | 0 |
 | 2026-10-02T15:07:54.000Z | [Jev Performance on LLM Judge Dataset](https://x.com/MLflow/status/2106038472779710951) | 产品发布 | MLflow | 27 |
-| 2026-10-02T15:06:17.000Z | [What Is Jev AI? Understanding Structured Decision Models](https://x.com/EM360Tech/status/2106038065617895542) | 工作原理 | EM360Tech | 8 |
-| 2026-10-02T15:05:59.000Z | [Jev AI Explained: Decision Model vs Chat Model and How to Use It](https://x.com/agenteer/status/2106037987762958393) | 工作原理 | Charles Shen | 10 |
-| 2026-10-02T15:03:07.000Z | [Analyzing 7 Creators' Top Posts with Jev Reveals What Works](https://x.com/mertdurmazer/status/2106037266649166261) | 营销 | Mert Durmazer | 4 |
-| 2026-10-02T15:02:38.000Z | [Jev vs Cloudflare Clef Models: Real-World QA Benchmark](https://x.com/joseairosa/status/2106037146649767940) | 开发者工具 | José Airosa | 4 |
-| 2026-10-02T15:01:45.000Z | [SereneDB adds native support for Jev decision models](https://x.com/serenedata/status/2106036925312172472) | 产品发布 | SereneDB | 26 |
-| 2026-10-02T15:00:51.000Z | [Community Jev-Omni vs decider-4b sorting performance](https://x.com/LuckyAILabo/status/2106036695531749484) | 社区实践 | Lucky AI Labo | 4 |
-| 2026-10-02T14:59:58.000Z | [Jev vs Clef: Food Classification Test Comparison](https://x.com/tomsmialowski/status/2106036475129200858) | 社区实践 | Tom Smialowski | 10 |
-| 2026-10-02T14:59:52.000Z | [Run Jev Open Alternatives via llama.cpp](https://x.com/calebfahlgren/status/2106036451150536895) | 开发资源 | Caleb | 31 |
-| 2026-10-02T14:50:32.000Z | [SELAT Integrates Jev Model for API Service Selection](https://x.com/selat_aiCN/status/2106034100582932654) | 接入动态 | SELAT AI 中文频道 | 17 |

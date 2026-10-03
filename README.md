@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4905</strong><br>curated posts</td>
-<td align="center"><strong>2529</strong><br>original videos</td>
+<td align="center"><strong>4914</strong><br>curated posts</td>
+<td align="center"><strong>2533</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>844</strong> showcases · <strong>350</strong> videos</p>
+<p><strong>845</strong> showcases · <strong>350</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>514</strong> showcases · <strong>224</strong> videos</p>
+<p><strong>515</strong> showcases · <strong>225</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>492</strong> showcases · <strong>253</strong> videos</p>
+<p><strong>494</strong> showcases · <strong>253</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>378</strong> showcases · <strong>179</strong> videos</p>
+<p><strong>379</strong> showcases · <strong>179</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>342</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>343</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>316</strong> showcases · <strong>126</strong> videos</p>
+<p><strong>317</strong> showcases · <strong>127</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>133</strong> showcases · <strong>100</strong> videos</p>
+<p><strong>134</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>109</strong> showcases · <strong>82</strong> videos</p>
+<p><strong>110</strong> showcases · <strong>83</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/CalatheaAI/status/2106262993914962019"><img src="https://pbs.twimg.com/media/HTrzB_GboAEsspz?format=png&amp;name=900x900" alt="Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CalatheaAI/status/2106262993914962019">Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty</a></h3>
-<p>Calathea shares a deep dive on TypeSafe&#39;s Jev model. Dylan Black tested Jev on 1,000 physics scenarios and found it often favored one answer when the outcome was genuinely uncertain. Jev returns fixed-choice answers and probabilities for software decisions.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Calathea</strong> · @CalatheaAI</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/aiedge_/status/2106278115995721987"><img src="https://pbs.twimg.com/amplify_video_thumb/2106278085574488064/img/6XFCsk6n66txU532.jpg" alt="TypeSafe Released Official Documentation for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aiedge_/status/2106278115995721987">TypeSafe Released Official Documentation for Jev</a></h3>
+<p>The post says that when TypeSafe released Jev, they also released dozens of documents covering the proper way to use Jev, including engineering practices, use cases, quick start, and more.</p>
+<p><strong>350</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 350</p>
+<p><strong>AI Edge</strong> · @aiedge_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/HEI/status/2106262165468434620"><img src="https://pbs.twimg.com/media/HTryR0LXgAAhlZ4?format=png&amp;name=medium" alt="Chinese-Jev: Bringing System One Model to Chinese-Language Tasks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HEI/status/2106262165468434620">Chinese-Jev: Bringing System One Model to Chinese-Language Tasks</a></h3>
-<p>Introduces a paper on Chinese-Jev, aiming to extend TypeSafe&#39;s System One model to Chinese-language tasks, covering natural language processing and computer vision.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Natural Language Processing Papers</strong> · @HEI</p>
+<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/bcoelhopt/status/2106277944108953669"><img src="https://pbs.twimg.com/amplify_video_thumb/2106277537022431232/img/uy6BQR1HFoEoV6XX.jpg" alt="Jev-powered AI news desk: 96% cost and 73% time reduction · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/bcoelhopt/status/2106277944108953669">Jev-powered AI news desk: 96% cost and 73% time reduction</a></h3>
+<p>An editor runs an AI news desk with Jev every morning at 6:40 Tokyo time, cutting costs by 96% and time by 73% versus the first version. AI agents he built draft the items following his editorial guidelines; he reviews, edits, and approves.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Bruno Coelho</strong> · @bcoelhopt</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/polydao/status/2106261967975391339"><img src="https://pbs.twimg.com/amplify_video_thumb/2106180843504898048/img/9ywYMCSJczyl0z6B.jpg" alt="Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/polydao/status/2106261967975391339">Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper</a></h3>
-<p>Jev founder Diogo Amogo released a 12-page PDF with 10 steps to apply Jev architecture to coding agents, drastically improving speed and reducing cost.</p>
-<p><strong>111</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 111</p>
-<p><strong>Mr. Buzzoni</strong> · @polydao</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/gota_bara/status/2106277484715188445"><img src="https://pbs.twimg.com/media/HTr81HDbIAAt4m1?format=jpg&amp;name=medium" alt="Many Jev-like Models Available via API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gota_bara/status/2106277484715188445">Many Jev-like Models Available via API</a></h3>
+<p>The post marvels at the large number of Jev-like models already accessible via API, reflecting ecosystem growth.</p>
+<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><strong>Gota</strong> · @gota_bara</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiwithaman/status/2106259823558115822"><img src="https://pbs.twimg.com/media/HTrwIe9bIAAUkYR?format=jpg&amp;name=small" alt="20 Must-Use JEV Skills for Your Agent Setup · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiwithaman/status/2106259823558115822">20 Must-Use JEV Skills for Your Agent Setup</a></h3>
-<p>This post lists 20 JEV skills to enhance AI agent performance, including ultrafast browser agent, context compaction, generative UI, and more, with GitHub links.</p>
-<p><strong>406</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 406</p>
-<p><strong>Aman</strong> · @aiwithaman</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/wreckmyshit/status/2106275433616699590"><img src="https://pbs.twimg.com/amplify_video_thumb/2086947262119505920/img/mB6z4ksQgpjJ2zKe.jpg" alt="A Jev-like decision system · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/wreckmyshit/status/2106275433616699590">A Jev-like decision system</a></h3>
+<p>The author says they built a similar decision system before Jev&#39;s launch, without an LLM, only decisions, and discusses tokens as averaged bits with deterministic computation, claiming 192,000 tok/s on a $200 phone.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Calliope</strong> · @wreckmyshit</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/CalatheaAI/status/2106262993914962019"><img src="https://pbs.twimg.com/media/HTrzB_GboAEsspz?format=png&amp;name=900x900" alt="Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CalatheaAI/status/2106262993914962019">Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty</a></h3>
-<p>Calathea shares a deep dive on TypeSafe&#39;s Jev model. Dylan Black tested Jev on 1,000 physics scenarios and found it often favored one answer when the outcome was genuinely uncertain. Jev returns fixed-choice answers and probabilities for software decisions.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Calathea</strong> · @CalatheaAI</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/aiedge_/status/2106278115995721987"><img src="https://pbs.twimg.com/amplify_video_thumb/2106278085574488064/img/6XFCsk6n66txU532.jpg" alt="TypeSafe Released Official Documentation for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aiedge_/status/2106278115995721987">TypeSafe Released Official Documentation for Jev</a></h3>
+<p>The post says that when TypeSafe released Jev, they also released dozens of documents covering the proper way to use Jev, including engineering practices, use cases, quick start, and more.</p>
+<p><strong>350</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 350</p>
+<p><strong>AI Edge</strong> · @aiedge_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiwithaman/status/2106259823558115822"><img src="https://pbs.twimg.com/media/HTrwIe9bIAAUkYR?format=jpg&amp;name=small" alt="20 Must-Use JEV Skills for Your Agent Setup · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiwithaman/status/2106259823558115822">20 Must-Use JEV Skills for Your Agent Setup</a></h3>
-<p>This post lists 20 JEV skills to enhance AI agent performance, including ultrafast browser agent, context compaction, generative UI, and more, with GitHub links.</p>
-<p><strong>406</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 406</p>
-<p><strong>Aman</strong> · @aiwithaman</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/wreckmyshit/status/2106275433616699590"><img src="https://pbs.twimg.com/amplify_video_thumb/2086947262119505920/img/mB6z4ksQgpjJ2zKe.jpg" alt="A Jev-like decision system · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/wreckmyshit/status/2106275433616699590">A Jev-like decision system</a></h3>
+<p>The author says they built a similar decision system before Jev&#39;s launch, without an LLM, only decisions, and discusses tokens as averaged bits with deterministic computation, claiming 192,000 tok/s on a $200 phone.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Calliope</strong> · @wreckmyshit</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/HeyShobhan/status/2106259826661904602"><img src="https://pbs.twimg.com/amplify_video_thumb/2106259347521273856/img/_Yb_CUMJjoJ-HBMZ.jpg" alt="Jev Founder Says JEV Ushers in the Next Era of LLMs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HeyShobhan/status/2106259826661904602">Jev Founder Says JEV Ushers in the Next Era of LLMs</a></h3>
-<p>Jev founder Diogo Almeida (ex-OpenAI) says the next era is not the Claude Code or Codex era, which still belong to the assistance era with humans in the loop. JEV is 200x faster, 400x cheaper, has zero hallucination, and requires no human in the loop.</p>
-<p><strong>49</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
-<p><strong>shobhanai</strong> · @HeyShobhan</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Tekticia/status/2106273342315508105"><img src="https://pbs.twimg.com/media/HTr8cZEWAAAS_2e?format=jpg&amp;name=medium" alt="Amazon Launches Strands Decider 2B, a Jev Clone · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Tekticia/status/2106273342315508105">Amazon Launches Strands Decider 2B, a Jev Clone</a></h3>
+<p>Amazon released Strands Decider 2B, an open-source decision model considered a clone of Jev, designed for automation rather than conversation.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Tekticia</strong> · @Tekticia</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/tugot17/status/2106251663434760673"><img src="https://pbs.twimg.com/media/HTrokHsaoAA4Wen?format=jpg&amp;name=medium" alt="Making CUDA Graphs Work for Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/tugot17/status/2106251663434760673">Making CUDA Graphs Work for Jev</a></h3>
-<p>A developer shares progress on making CUDA Graphs work with Jev.</p>
-<p><strong>458</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 458</p>
-<p><strong>Piotr Mazurek (in SF 🇺🇸 at last 🤗)</strong> · @tugot17</p>
+<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/HEI/status/2106262165468434620"><img src="https://pbs.twimg.com/media/HTryR0LXgAAhlZ4?format=png&amp;name=medium" alt="Chinese-Jev: Bringing System One Model to Chinese-Language Tasks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HEI/status/2106262165468434620">Chinese-Jev: Bringing System One Model to Chinese-Language Tasks</a></h3>
+<p>Introduces a paper on Chinese-Jev, aiming to extend TypeSafe&#39;s System One model to Chinese-language tasks, covering natural language processing and computer vision.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI</p>
 </td>
 </tr>
 </table>

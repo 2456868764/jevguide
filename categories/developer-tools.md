@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 492 | 253 | 241 | 3.6M |
+| 494 | 253 | 243 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gota_bara/status/2106277484715188445"><img src="https://pbs.twimg.com/media/HTr81HDbIAAt4m1?format=jpg&amp;name=medium" alt="Many Jev-like Models Available via API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gota_bara/status/2106277484715188445">Many Jev-like Models Available via API</a></h3>
+<p>The post marvels at the large number of Jev-like models already accessible via API, reflecting ecosystem growth.</p>
+<p><strong>中文摘要：</strong>原帖感叹类似Jev的模型通过API可用的数量已很多，反映相关生态的扩展。</p>
+<p><strong>Gota</strong> · @gota_bara · 2026-10-03T06:57:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/gota_bara/status/2106277484715188445">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gmathis1995/status/2106266163021828337"><img src="https://pbs.twimg.com/media/HTr15h7XEAAmiQ2?format=jpg&amp;name=medium" alt="Building the Rein Harness to Integrate Multiple AI Tools · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gmathis1995/status/2106266163021828337">Building the Rein Harness to Integrate Multiple AI Tools</a></h3>
+<p>The author is building the Rein Harness to help users more cleanly use multiple AI subscriptions, including Jev, Codex, and Claude, and invites community involvement.</p>
+<p><strong>中文摘要：</strong>作者正在构建 Rein Harness，以帮助用户更整洁地使用多个 AI 订阅（包括 Jev、Codex 和 Claude），并欢迎社区参与。</p>
+<p><strong>Gary Mathis</strong> · @gmathis1995 · 2026-10-03T06:12:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/gmathis1995/status/2106266163021828337">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2106261967975391339"><img src="https://pbs.twimg.com/amplify_video_thumb/2106180843504898048/img/9ywYMCSJczyl0z6B.jpg" alt="Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper · 原帖视频截图" width="100%"></a>

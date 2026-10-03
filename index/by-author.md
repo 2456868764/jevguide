@@ -18,6 +18,7 @@
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
+- [AI Edge](../authors/ai-edge.md) — 8
 - [AI_GOAT](../authors/ai-goat.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
@@ -25,7 +26,6 @@
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
 - [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](../authors/ceo-重要ai-毎日最速-発信.md) — 8
-- [AI Edge](../authors/ai-edge.md) — 7
 - [Alex](../authors/alex.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
 - [ericosiu](../authors/ericosiu.md) — 7
@@ -389,6 +389,7 @@
 - [FrankD](../authors/frankd.md) — 2
 - [gabidev](../authors/gabidev.md) — 2
 - [Gabriel Dechichi](../authors/gabriel-dechichi.md) — 2
+- [Gary Mathis](../authors/gary-mathis.md) — 2
 - [Gennaro](../authors/gennaro.md) — 2
 - [ghtght](../authors/ghtght.md) — 2
 - [GitHubDaily](../authors/githubdaily.md) — 2
@@ -1090,6 +1091,7 @@
 - [brryant](../authors/brryant.md) — 1
 - [BruceBlue 🌊](../authors/bruceblue.md) — 1
 - [Brucky](../authors/brucky.md) — 1
+- [Bruno Coelho](../authors/bruno-coelho.md) — 1
 - [Bruno Fondevila](../authors/bruno-fondevila.md) — 1
 - [Bruno Volpato](../authors/bruno-volpato.md) — 1
 - [Bryan Lee](../authors/bryan-lee.md) — 1
@@ -1107,6 +1109,7 @@
 - [Cahit Küçük](../authors/cahit-kucuk.md) — 1
 - [Calathea](../authors/calathea.md) — 1
 - [Caleb](../authors/caleb.md) — 1
+- [Calliope](../authors/calliope.md) — 1
 - [Camille Roux](../authors/camille-roux.md) — 1
 - [camsoft2000](../authors/camsoft2000.md) — 1
 - [Capatina](../authors/capatina.md) — 1
@@ -1200,6 +1203,8 @@
 - [ContextBoy](../authors/contextboy.md) — 1
 - [ContractorKeith](../authors/contractorkeith.md) — 1
 - [Cooking life hack](../authors/cooking-life-hack.md) — 1
+- [coolguy](../authors/coolguy.md) — 1
+- [Cooper Simson | Actionable AI | Agents, AI Content](../authors/cooper-simson-actionable-ai-agents-ai-content.md) — 1
 - [copiecat](../authors/copiecat.md) — 1
 - [CopilotKit🪁](../authors/copilotkit.md) — 1
 - [Corgito 🇦🇷☀️](../authors/corgito.md) — 1
@@ -1518,7 +1523,6 @@
 - [Ganesh M](../authors/ganesh-m.md) — 1
 - [Ganesh Shanmugam](../authors/ganesh-shanmugam.md) — 1
 - [Gareth ⌥ Agentik {OS}](../authors/gareth-agentik-os.md) — 1
-- [Gary Mathis](../authors/gary-mathis.md) — 1
 - [gatorp](../authors/gatorp.md) — 1
 - [Gaurav Goyal](../authors/gaurav-goyal.md) — 1
 - [Gaurav Shrivastav](../authors/gaurav-shrivastav.md) — 1
@@ -1557,6 +1561,7 @@
 - [Goran Gajić](../authors/goran-gajic.md) — 1
 - [Gorden Sun](../authors/gorden-sun.md) — 1
 - [Gosuke Suzuki｜Suzuki Soten](../authors/gosuke-suzuki-suzuki-soten.md) — 1
+- [Gota](../authors/gota.md) — 1
 - [goubie](../authors/goubie.md) — 1
 - [Gowoon Choi](../authors/gowoon-choi.md) — 1
 - [Gowtham](../authors/gowtham.md) — 1
@@ -2587,6 +2592,7 @@
 - [Ronald te Brake](../authors/ronald-te-brake.md) — 1
 - [roncho](../authors/roncho.md) — 1
 - [Ronnie W.](../authors/ronnie-w.md) — 1
+- [RORO](../authors/roro.md) — 1
 - [Ross Simmonds](../authors/ross-simmonds.md) — 1
 - [ROUT_DEV/AIなんでもC14](../authors/rout-dev-ai-c14.md) — 1
 - [Roxx](../authors/roxx.md) — 1
@@ -2882,6 +2888,7 @@
 - [Technophile](../authors/technophile.md) — 1
 - [Teddy Ni](../authors/teddy-ni.md) — 1
 - [Teknium 🪽](../authors/teknium.md) — 1
+- [Tekticia](../authors/tekticia.md) — 1
 - [Telemetry](../authors/telemetry.md) — 1
 - [Tero Parviainen](../authors/tero-parviainen.md) — 1
 - [TestMu AI](../authors/testmu-ai.md) — 1

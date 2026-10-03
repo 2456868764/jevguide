@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 240 | 134 | 108 | 1.2M |
+| 242 | 136 | 108 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cyberbulk911/status/2106258579842056534"><img src="https://pbs.twimg.com/amplify_video_thumb/2106252494787751936/img/djzuIrwewIIzXKPG.jpg" alt="Financial Project Built on TypeSafeAI&#39;s Jev Engine Launches · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cyberbulk911/status/2106258579842056534">Financial Project Built on TypeSafeAI&#39;s Jev Engine Launches</a></h3>
+<p>The project claims to be powered by TypeSafeAI&#39;s Jev engine, offering financial services via jevstocks.io, and includes a contract address, possibly related to token or stock trading.</p>
+<p><strong>中文摘要：</strong>该项目宣称由 TypeSafeAI 的 Jev 引擎驱动，提供金融相关服务（链接 jevstocks.io），并附有合约地址，可能涉及代币或股票交易。</p>
+<p><strong>Cy𝕭er₿ULK</strong> · @cyberbulk911 · 2026-10-03T05:42:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 111</p>
+<p><a href="https://x.com/cyberbulk911/status/2106258579842056534">在 X 查看原帖</a> · <a href="https://t.co/GjLcAs5jmx">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sector_sol/status/2106251119752089989"><img src="https://pbs.twimg.com/amplify_video_thumb/2106251051263299584/img/nKrmDbOwrFskEDUQ.jpg" alt="Jev bot simulated DEX run turns $1,000 into $3,847 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sector_sol/status/2106251119752089989">Jev bot simulated DEX run turns $1,000 into $3,847</a></h3>
+<p>The post says a Jev bot turned $1,000 into $3,847 in a simulated DEX run with a 47% win rate and $13 average trade. It mentions Claude handles strategy and deeper analysis while Jev handles the rest. This is simulated, not live money.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 机器人以 47% 胜率、平均 13 美元交易额在模拟 DEX 中将 1,000 美元增至 3,847 美元，并提及 Claude 负责策略与深度分析，Jev 负责其余部分。需注意并非真实资金。</p>
+<p><strong>SECTOR</strong> · @sector_sol · 2026-10-03T05:12:53.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 139</p>
+<p><a href="https://x.com/sector_sol/status/2106251119752089989">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/slashui/status/2106204253593427973"><img src="https://pbs.twimg.com/amplify_video_thumb/2106204092981035008/img/CGvR9zBZctsSfLuK.jpg" alt="Jev&#39;s First Week: Traders&#39; AI Trading Tools · 原帖视频截图" width="100%"></a>

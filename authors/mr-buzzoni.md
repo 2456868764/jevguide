@@ -1,9 +1,10 @@
 # Mr. Buzzoni
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T05:56:00.000Z | [Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper](https://x.com/polydao/status/2106261967975391339) | 开发者工具 | Mr. Buzzoni | 111 |
 | 2026-10-02T06:17:00.000Z | [Build Your First AI Agent: Full Guide with a Jev Decision Layer](https://x.com/polydao/status/2105904864614363605) | 开发资源 | Mr. Buzzoni | 231 |
 | 2026-10-01T09:51:00.000Z | [9 Jobs Where Jev Engineering Replaces Pricey LLM Calls](https://x.com/polydao/status/2105596331934785999) | 自动化工作流 | Mr. Buzzoni | 75 |
 | 2026-09-30T09:32:00.000Z | [20 Open-Source Projects Built on Jev](https://x.com/polydao/status/2105229163401756842) | 开发资源 | Mr. Buzzoni | 274 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 512 | 224 | 289 | 1.6M |
+| 514 | 224 | 291 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CalatheaAI/status/2106262993914962019"><img src="https://pbs.twimg.com/media/HTrzB_GboAEsspz?format=png&amp;name=900x900" alt="Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CalatheaAI/status/2106262993914962019">Deep Dive: TypeSafe Jev&#39;s Decision Behavior Under Uncertainty</a></h3>
+<p>Calathea shares a deep dive on TypeSafe&#39;s Jev model. Dylan Black tested Jev on 1,000 physics scenarios and found it often favored one answer when the outcome was genuinely uncertain. Jev returns fixed-choice answers and probabilities for software decisions.</p>
+<p><strong>中文摘要：</strong>Calathea 分享了对 TypeSafe 的 Jev 模型的深入分析。Dylan Black 在 1000 个物理场景中测试了 Jev，发现当结果真正不确定时，Jev 常常偏向某个答案。Jev 为软件决策提供固定选项答案和概率。</p>
+<p><strong>Calathea</strong> · @CalatheaAI · 2026-10-03T06:00:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/CalatheaAI/status/2106262993914962019">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anoopjoes/status/2106250979075375106"><img src="https://pbs.twimg.com/media/HTroGM0aAAALzLM?format=jpg&amp;name=medium" alt="Jev, Clearly Explained · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anoopjoes/status/2106250979075375106">Jev, Clearly Explained</a></h3>
+<p>The author points out that LLMs are often used as a hammer for every AI problem, while Jev handles simple decisions in milliseconds at a fraction of the cost, explaining how it works and where it fits.</p>
+<p><strong>中文摘要：</strong>作者指出我们常把LLM当锤子解决所有AI问题，Jev能在毫秒内以极低成本处理简单决策，并解释其工作原理和适用场景。</p>
+<p><strong>Anoop George Joseph</strong> · @anoopjoes · 2026-10-03T05:12:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/anoopjoes/status/2106250979075375106">在 X 查看原帖</a> · <a href="https://t.co/zcuHRXdhdr">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ethan_walker_ai/status/2106248072087130506"><img src="https://pbs.twimg.com/media/HTrlc83agAA1OVL?format=jpg&amp;name=medium" alt="Jev: A Model Built for Structured Decisions in Software · 原帖图片" width="100%"></a>

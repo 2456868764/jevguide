@@ -1,9 +1,10 @@
 # Aman
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T05:47:29.000Z | [20 Must-Use JEV Skills for Your Agent Setup](https://x.com/aiwithaman/status/2106259823558115822) | 开发资源 | Aman | 406 |
 | 2026-09-28 | [Building a Voice-Controlled AI Computer Use System with Jev](https://x.com/mdaman010/status/2104684939195359303) | 智能体 | Aman | 239 |
 | 2026-09-22 | [Jev Model: Typed Questions Instead of Text Generation](https://x.com/amn_baluni/status/2102228274101506182) | 工作原理 | Aman | 25 |
 | 2026-09-20 | [Jev Replaces Brittle JSON Parsing with Option Scoring](https://x.com/amn_baluni/status/2101709218705297873) | 开发者工具 | Aman | 12 |

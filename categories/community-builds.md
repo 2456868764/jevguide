@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 840 | 349 | 495 | 3.0M |
+| 844 | 350 | 498 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/joshliusg/status/2106258980200943713"><img src="https://pbs.twimg.com/amplify_video_thumb/2106255151464075264/img/ME_RpKVC9rVTbqkg.jpg" alt="AutoTrustAI Claims to Beat JEV by a Large Margin in Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/joshliusg/status/2106258980200943713">AutoTrustAI Claims to Beat JEV by a Large Margin in Benchmark</a></h3>
+<p>Josh Liu tweeted that AutoTrustAI achieves another SOTA, tops Decision Index, ties Cloudflare Chef, and beats TypeSafe&#39;s JEV by a large margin.</p>
+<p><strong>中文摘要：</strong>Josh Liu 发布推文称 AutoTrustAI 再次达到 SOTA，在 Decision Index 中领先，与 Cloudflare Chef 持平，并大幅击败 TypeSafe 的 JEV 模型。</p>
+<p><strong>Josh Liu</strong> · @joshliusg · 2026-10-03T05:44:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 29</p>
+<p><a href="https://x.com/joshliusg/status/2106258980200943713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GoSailGlobal/status/2106258487579730365"><img src="https://pbs.twimg.com/media/HTrubSDWwAAKhe5?format=jpg&amp;name=medium" alt="Discussion on Jev Model Evaluation Controversy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GoSailGlobal/status/2106258487579730365">Discussion on Jev Model Evaluation Controversy</a></h3>
+<p>The author criticizes a Machine Intelligence article as possibly sponsored content, noting that evaluations lack consistent benchmarks, the official parameter count is undisclosed, results can be easily faked, and mentions China&#39;s open-source ranking first.</p>
+<p><strong>中文摘要：</strong>作者批评机器之心文章可能是软文，指出评测缺乏相同基准、官方未公开参数量且结果易造假，并提及中国开源冲上第一的话题。</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal · 2026-10-03T05:42:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 144</p>
+<p><a href="https://x.com/GoSailGlobal/status/2106258487579730365">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_luckyj888/status/2106252558847316067"><img src="https://pbs.twimg.com/media/HTroWhrboAAjnGr?format=jpg&amp;name=medium" alt="Open-source Jev replication Laya hits 20K stars in a week · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_luckyj888/status/2106252558847316067">Open-source Jev replication Laya hits 20K stars in a week</a></h3>
+<p>TypeSafe AI&#39;s Jev decision model has been replicated as open-source Laya, gaining nearly 20K GitHub stars within a week. The model focuses on fast structured judgments, not chat or code generation.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI的Jev决策模型被开源复刻为Laya，几周内在GitHub上接近2万Star。该模型专注于快速结构化判断，不用于聊天或代码生成。</p>
+<p><strong>Lucky J</strong> · @_luckyj888 · 2026-10-03T05:18:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 74</p>
+<p><a href="https://x.com/_luckyj888/status/2106252558847316067">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tugot17/status/2106251663434760673"><img src="https://pbs.twimg.com/media/HTrokHsaoAA4Wen?format=jpg&amp;name=medium" alt="Making CUDA Graphs Work for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tugot17/status/2106251663434760673">Making CUDA Graphs Work for Jev</a></h3>
+<p>A developer shares progress on making CUDA Graphs work with Jev.</p>
+<p><strong>中文摘要：</strong>开发者分享了让 CUDA Graph 与 Jev 配合工作的进展。</p>
+<p><strong>Piotr Mazurek (in SF 🇺🇸 at last 🤗)</strong> · @tugot17 · 2026-10-03T05:15:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 458</p>
+<p><a href="https://x.com/tugot17/status/2106251663434760673">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AutoTrustAI/status/2106244121883263132"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV-27B-VL Q&amp;A: Computer Use and 3D · 原帖视频截图" width="100%"></a>

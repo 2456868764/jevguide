@@ -25,6 +25,7 @@
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
 - [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](../authors/ceo-重要ai-毎日最速-発信.md) — 8
+- [AI Edge](../authors/ai-edge.md) — 7
 - [Alex](../authors/alex.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
 - [ericosiu](../authors/ericosiu.md) — 7
@@ -32,7 +33,6 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
-- [AI Edge](../authors/ai-edge.md) — 6
 - [akhila](../authors/akhila.md) — 6
 - [Automater](../authors/automater.md) — 6
 - [AVB](../authors/avb.md) — 6
@@ -48,6 +48,7 @@
 - [WquGuru](../authors/wquguru.md) — 6
 - [恒星sun](../authors/恒星sun.md) — 6
 - [Aman](../authors/aman.md) — 5
+- [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 5
 - [Artimind](../authors/artimind.md) — 5
 - [Asteri](../authors/asteri.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
@@ -75,7 +76,6 @@
 - [8Bit🦞](../authors/8bit.md) — 4
 - [Abdullah](../authors/abdullah.md) — 4
 - [Akshay 🚀](../authors/akshay.md) — 4
-- [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 4
 - [Arnav Gupta](../authors/arnav-gupta.md) — 4
 - [AutoTrust](../authors/autotrust.md) — 4
 - [AYi](../authors/ayi.md) — 4
@@ -271,6 +271,7 @@
 - [れん学長｜AIツール実験室](../authors/学長-ai-実験室.md) — 3
 - [大數軟體LargitData](../authors/大數軟體largitdata.md) — 3
 - [岚叔](../authors/岚叔.md) — 3
+- [新井 元気@ITエンジニア](../authors/新井-元気-it.md) — 3
 - [梅澤 寛太｜Web・業務システム開発](../authors/梅澤-寛太-web-業務-開発.md) — 3
 - [玉米_AlphaNotes](../authors/玉米-alphanotes.md) — 3
 - [田中義弘 | taziku CEO / AI × Creative](../authors/田中義弘-taziku-ceo-ai-creative.md) — 3
@@ -358,6 +359,7 @@
 - [Daniel Liao](../authors/daniel-liao.md) — 2
 - [David Arias, CFA](../authors/david-arias-cfa.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
+- [David Hendrickson](../authors/david-hendrickson.md) — 2
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
 - [Demirhan Aydın](../authors/demirhan-ayd-n.md) — 2
@@ -642,7 +644,6 @@
 - [币安人](../authors/币安人.md) — 2
 - [平大志朗](../authors/平大志朗.md) — 2
 - [慢走不宋](../authors/慢走不宋.md) — 2
-- [新井 元気@ITエンジニア](../authors/新井-元気-it.md) — 2
 - [新清士@AIコンテンツ開発者](../authors/新清士-ai-開発者.md) — 2
 - [智东西China AI News](../authors/智东西china-ai-news.md) — 2
 - [村井隆紘 - CloudPartnersGroup 代表税理士・公認会計士](../authors/村井隆紘-cloudpartnersgroup-代表税理士-公認会計士.md) — 2
@@ -910,6 +911,7 @@
 - [Annatar.md](../authors/annatar-md.md) — 1
 - [Anoop George Joseph](../authors/anoop-george-joseph.md) — 1
 - [Ansh Nanda](../authors/ansh-nanda.md) — 1
+- [Anshu Pandey](../authors/anshu-pandey.md) — 1
 - [Ante ◉](../authors/ante.md) — 1
 - [AnthonyGarcia.eth](../authors/anthonygarcia-eth.md) — 1
 - [Antidote](../authors/antidote.md) — 1
@@ -956,6 +958,7 @@
 - [arty.hl](../authors/arty-hl.md) — 1
 - [Arx](../authors/arx.md) — 1
 - [ARおじさん / MESON CEO](../authors/ar-meson-ceo.md) — 1
+- [asanjinez](../authors/asanjinez.md) — 1
 - [Asfar Sadewa](../authors/asfar-sadewa.md) — 1
 - [Ash Paul](../authors/ash-paul.md) — 1
 - [Ashish Bhatia](../authors/ashish-bhatia.md) — 1
@@ -1165,6 +1168,7 @@
 - [Citizen Oscar](../authors/citizen-oscar.md) — 1
 - [CJ (Coding Garden)](../authors/cj-coding-garden.md) — 1
 - [Clark](../authors/clark.md) — 1
+- [Claude Code Research Lab](../authors/claude-code-research-lab.md) — 1
 - [Clawdrey Hepburn](../authors/clawdrey-hepburn.md) — 1
 - [Cleanera Made](../authors/cleanera-made.md) — 1
 - [clem 🤗](../authors/clem.md) — 1
@@ -1268,7 +1272,6 @@
 - [David Arnal](../authors/david-arnal.md) — 1
 - [david fant](../authors/david-fant.md) — 1
 - [david he](../authors/david-he.md) — 1
-- [David Hendrickson](../authors/david-hendrickson.md) — 1
 - [David Kats](../authors/david-kats.md) — 1
 - [David Lee](../authors/david-lee.md) — 1
 - [David Ondrej](../authors/david-ondrej.md) — 1
@@ -3265,6 +3268,7 @@
 - [せい](../authors/jev-showcase.md) — 1
 - [せいぶつ](../authors/jev-showcase.md) — 1
 - [セカヤサ@AI×Web制作💻小林 秀樹](../authors/ai-web制作-小林-秀樹.md) — 1
+- [せきのです](../authors/jev-showcase.md) — 1
 - [セクシー炭水化物](../authors/炭水化物.md) — 1
 - [セコン](../authors/jev-showcase.md) — 1
 - [そねっち](../authors/jev-showcase.md) — 1

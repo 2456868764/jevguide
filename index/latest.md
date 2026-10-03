@@ -2,6 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T04:12:27.000Z | [Build Your First AI Agent with a Jev Decision Layer](https://x.com/Arindam_1729/status/2106235910350360793) | 开发资源 | Arindam Majumder 𝕏 | 13 |
+| 2026-10-03T04:06:30.000Z | [Building a Voice-Coding VSCode Extension with Jev](https://x.com/sekiemon_gb350/status/2106234412409225673) | 开发者工具 | せきのです | 4 |
+| 2026-10-03T04:00:08.000Z | [Awesome Public Jev Projects](https://x.com/aiedge_/status/2106232809258119328) | 社区实践 | AI Edge | 661 |
+| 2026-10-03T04:00:01.000Z | [Perplexity Open-Sources 27B Decision Model; Jev Benchmarks at 84.51%](https://x.com/TeksEdge/status/2106232780736631103) | 产品发布 | David Hendrickson | 112 |
+| 2026-10-03T03:45:12.000Z | [Jev Model: Decisions, Not Writing](https://x.com/anshuspandey/status/2106229053170598020) | 社区实践 | Anshu Pandey | 5 |
+| 2026-10-03T03:32:29.000Z | [Building a real-time scam call detector with Jev](https://x.com/improdev/status/2106225852245479433) | 社区实践 | asanjinez | 24 |
+| 2026-10-03T03:16:10.000Z | [Step-by-step guide to setting up Jev for Claude Code Mods](https://x.com/claudecode84/status/2106221745401364513) | 开发资源 | Claude Code Research Lab | 1.0K |
+| 2026-10-03T03:14:58.000Z | [Jev Engineering in Practice: Cut Agent Costs by 90% with Cheap Judgment Models](https://x.com/_moto___/status/2106221444564951224) | 社区实践 | 新井 元気@ITエンジニア | 923 |
 | 2026-10-03T03:09:48.000Z | [Jev ranked best in OpenRouter decision model test](https://x.com/AlexSlobodnik/status/2106220141503468027) | 社区实践 | Slobo | 6 |
 | 2026-10-03T03:00:55.000Z | [Learning from Jev: AI that returns options and probabilities, not just text](https://x.com/qRFvoQjoMm31420/status/2106217906266894424) | 社区实践 | ヒロシ＠サウナとAIが好きな営業マン | 1 |
 | 2026-10-03T03:00:01.000Z | [Jev: An AI that Returns Typed Judgments](https://x.com/deskrex/status/2106217681883947250) | 工作原理 | Deskrex.AI - 市場調査のAIデスクリサーチエージェント | 3 |
@@ -94,11 +102,3 @@
 | 2026-10-02T13:55:06.000Z | [User shares test results with Jev](https://x.com/Mad_Dog97/status/2106020151846117446) | 社区实践 | Will Cassell | 6 |
 | 2026-10-02T13:49:15.000Z | [AnyRouter Now Routes Across 9 Decision Models](https://x.com/_duyet/status/2106018677384683826) | 开发者工具 | duyet | 8 |
 | 2026-10-02T13:44:49.000Z | [JevBench v1.5.5 Released: Jev Still #1 in Capability](https://x.com/airesearch12/status/2106017561913536949) | 开发资源 | Florian S | 274 |
-| 2026-10-02T13:40:20.000Z | [Building a Claude decision-prompt mod with Jev](https://x.com/ageshah/status/2106016436154188234) | 社区实践 | Ajay Shah | 12 |
-| 2026-10-02T13:40:00.000Z | [Jev lands on Replit](https://x.com/msdkim0424/status/2106016350925901939) | 接入动态 | Minsang Daniel Kim | 20 |
-| 2026-10-02T13:38:40.000Z | [Cloudflare Releases Jev-like Open-Source Model Clef into Its AI Ecosystem](https://x.com/LargitData1/status/2106016015628861814) | 产品发布 | 大數軟體LargitData | 44 |
-| 2026-10-02T13:37:59.000Z | [Discussion: Fastino vs Jev](https://x.com/o_devvy/status/2106015842987127091) | 社区实践 | o_devvy | 6 |
-| 2026-10-02T13:33:33.000Z | [Jev Ecosystem: 10 Community-Built Repos](https://x.com/Asteri_eth/status/2106014727595807105) | 开发资源 | Asteri | 467 |
-| 2026-10-02T13:32:19.000Z | [Cloudflare launches Clef models, claims to surpass TypeSafe's Jev](https://x.com/WhisprNews/status/2106014418131959952) | 产品发布 | WHISPR | 38 |
-| 2026-10-02T13:26:39.000Z | [Jev-Powered Trading Setup Profits in Simulation](https://x.com/0xDeniAi/status/2106012990189207940) | 金融 | Deni | 77 |
-| 2026-10-02T13:24:56.000Z | [LinkGuard: Hover to Check Link Safety with Jev](https://x.com/jetwaniavinash/status/2106012560067580283) | 网络安全 | Jetwani Avinash | 15 |

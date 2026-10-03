@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 311 | 124 | 187 | 419K |
+| 313 | 126 | 187 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Arindam_1729/status/2106235910350360793"><img src="https://pbs.twimg.com/amplify_video_thumb/2105867365346897920/img/j-JU2Xz3PyCvxkmm.jpg" alt="Build Your First AI Agent with a Jev Decision Layer · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Arindam_1729/status/2106235910350360793">Build Your First AI Agent with a Jev Decision Layer</a></h3>
+<p>A practical guide to building a working AI agent from scratch, covering the core agent loop, tools and memory integration, and using Jev as the decision layer.</p>
+<p><strong>中文摘要：</strong>一份从零到可运行AI智能体的实战指南，涵盖核心循环构建、工具与记忆集成，以及如何使用Jev作为决策层。</p>
+<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729 · 2026-10-03T04:12:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Arindam_1729/status/2106235910350360793">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/claudecode84/status/2106221745401364513"><img src="https://pbs.twimg.com/amplify_video_thumb/2106091130039492608/img/jGjqZcDsVYbxs5So.jpg" alt="Step-by-step guide to setting up Jev for Claude Code Mods · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/claudecode84/status/2106221745401364513">Step-by-step guide to setting up Jev for Claude Code Mods</a></h3>
+<p>This tweet provides a step-by-step guide on how to set up Jev and connect it to your desired AI model to make full use of Claude Code Mods.</p>
+<p><strong>中文摘要：</strong>本推文介绍如何设置 Jev 并将其连接到你想使用的 AI 模型，以充分利用 Claude Code Mods。</p>
+<p><strong>Claude Code Research Lab</strong> · @claudecode84 · 2026-10-03T03:16:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/claudecode84/status/2106221745401364513">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eandualem/status/2106150622395527388"><img src="https://pbs.twimg.com/amplify_video_thumb/2106150008697266176/img/9oGgK5unqDFq-J0L.jpg" alt="Entune: Dictation + Jev · 原帖视频截图" width="100%"></a>

@@ -1,9 +1,10 @@
 # AI Edge
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T04:00:08.000Z | [Awesome Public Jev Projects](https://x.com/aiedge_/status/2106232809258119328) | 社区实践 | AI Edge | 661 |
 | 2026-10-02T14:01:09.000Z | [Jev Voice Browser](https://x.com/aiedge_/status/2106021673879367884) | 智能体 | AI Edge | 27 |
 | 2026-10-02T14:01:02.000Z | [Jev Adblock: No Filter Lists Needed](https://x.com/aiedge_/status/2106021641872605394) | 工作原理 | AI Edge | 28 |
 | 2026-10-02T14:00:58.000Z | [Jev MCP: 11 judgment tools for Claude Code and Codex](https://x.com/aiedge_/status/2106021625934311541) | 开发者工具 | AI Edge | 32 |

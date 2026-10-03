@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 834 | 346 | 492 | 3.0M |
+| 838 | 348 | 494 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aiedge_/status/2106232809258119328"><img src="https://pbs.twimg.com/amplify_video_thumb/2106232780980154368/img/8bnFDSOF285pbSmv.jpg" alt="Awesome Public Jev Projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aiedge_/status/2106232809258119328">Awesome Public Jev Projects</a></h3>
+<p>A curated list of awesome public Jev projects, including agent harnesses, skill routers, and Jev for decision-making. Share the link with your agent to digest all workflows instantly.</p>
+<p><strong>中文摘要：</strong>一个精选的公开 Jev 项目列表，涵盖 Agent 工具、技能路由、决策支持等。分享链接给智能体即可快速吸收这些工作流。</p>
+<p><strong>AI Edge</strong> · @aiedge_ · 2026-10-03T04:00:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 661</p>
+<p><a href="https://x.com/aiedge_/status/2106232809258119328">在 X 查看原帖</a> · <a href="https://t.co/bcnBUf8v59">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anshuspandey/status/2106229053170598020"><img src="https://pbs.twimg.com/media/HTrUKaEXYAI_y2e?format=png&amp;name=medium" alt="Jev Model: Decisions, Not Writing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anshuspandey/status/2106229053170598020">Jev Model: Decisions, Not Writing</a></h3>
+<p>A developer notes that after reading about the Jev model, it doesn&#39;t write text—it decides which tool to use, continue or stop, and whether to escalate. While it can&#39;t replace LLMs everywhere, most agent steps are decisions rather than writing, which is worth rethinking.</p>
+<p><strong>中文摘要：</strong>开发者阅读Jev模型后指出，它并不生成文本，而是决定使用哪个工具、继续或停止、是否升级。虽然不能全面替代LLM，但大多数智能体步骤本质上是决策而非写作，值得重新思考。</p>
+<p><strong>Anshu Pandey</strong> · @anshuspandey · 2026-10-03T03:45:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/anshuspandey/status/2106229053170598020">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/improdev/status/2106225852245479433"><img src="https://pbs.twimg.com/amplify_video_thumb/2106219641697689601/img/6m1SAuDO5ydvc6-z.jpg" alt="Building a real-time scam call detector with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/improdev/status/2106225852245479433">Building a real-time scam call detector with Jev</a></h3>
+<p>The author shares a detector built with Jev that analyzes calls in real time and flags potential scam signals, noting the huge number of use cases they&#39;ve seen.</p>
+<p><strong>中文摘要：</strong>作者分享了用 Jev 构建的检测器，可实时分析电话并标记可能的诈骗迹象，并感慨看到了大量用例。</p>
+<p><strong>asanjinez</strong> · @improdev · 2026-10-03T03:32:29.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/improdev/status/2106225852245479433">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_moto___/status/2106221444564951224"><img src="https://pbs.twimg.com/media/HTrIEnCbAAAVU33?format=jpg&amp;name=medium" alt="Jev Engineering in Practice: Cut Agent Costs by 90% with Cheap Judgment Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/_moto___/status/2106221444564951224">Jev Engineering in Practice: Cut Agent Costs by 90% with Cheap Judgment Models</a></h3>
+<p>The author summarizes an article on Jev engineering and Kimi K3, explaining how delegating judgment to cheaper models can drastically reduce AI agent costs, with background knowledge included.</p>
+<p><strong>中文摘要：</strong>作者整理了关于Jev工程与Kimi K3的文章，核心思路是将判断任务交给便宜模型，从而大幅降低AI代理成本，并附有前置知识说明。</p>
+<p><strong>新井 元気@ITエンジニア</strong> · @_moto___ · 2026-10-03T03:14:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 923</p>
+<p><a href="https://x.com/_moto___/status/2106221444564951224">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlexSlobodnik/status/2106220141503468027"><img src="https://pbs.twimg.com/media/HTrLnMEWoAARlEG?format=jpg&amp;name=medium" alt="Jev ranked best in OpenRouter decision model test · 原帖图片" width="100%"></a>

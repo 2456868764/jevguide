@@ -39,6 +39,7 @@
 - [Avid](../authors/avid.md) — 6
 - [barnyx](../authors/barnyx.md) — 6
 - [Chrome](../authors/chrome.md) — 6
+- [Dhanian 🗯️](../authors/dhanian.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [Melvin Vivas](../authors/melvin-vivas.md) — 6
 - [Michael](../authors/michael.md) — 6
@@ -51,9 +52,9 @@
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 5
 - [Artimind](../authors/artimind.md) — 5
 - [Asteri](../authors/asteri.md) — 5
+- [AutoTrust](../authors/autotrust.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
 - [davepoon](../authors/davepoon.md) — 5
-- [Dhanian 🗯️](../authors/dhanian.md) — 5
 - [Dr. Cheems Wang 🏡](../authors/dr-cheems-wang.md) — 5
 - [Eyisha Zyer](../authors/eyisha-zyer.md) — 5
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 5
@@ -77,7 +78,6 @@
 - [Abdullah](../authors/abdullah.md) — 4
 - [Akshay 🚀](../authors/akshay.md) — 4
 - [Arnav Gupta](../authors/arnav-gupta.md) — 4
-- [AutoTrust](../authors/autotrust.md) — 4
 - [AYi](../authors/ayi.md) — 4
 - [Benjamin De Kraker](../authors/benjamin-de-kraker.md) — 4
 - [Bhavyam Arora](../authors/bhavyam-arora.md) — 4
@@ -377,6 +377,7 @@
 - [Erhan Meydan](../authors/erhan-meydan.md) — 2
 - [Eric Yang](../authors/eric-yang.md) — 2
 - [Ethan](../authors/ethan.md) — 2
+- [Ethan Walker](../authors/ethan-walker.md) — 2
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
@@ -434,6 +435,7 @@
 - [kimura512@開発者](../authors/kimura512-開発者.md) — 2
 - [Kirk Borne](../authors/kirk-borne.md) — 2
 - [kishi27 ＠ 実践AIエージェント](../authors/kishi27-実践ai.md) — 2
+- [Kisson](../authors/kisson.md) — 2
 - [KK.aWSB](../authors/kk-awsb.md) — 2
 - [Kshitij](../authors/kshitij.md) — 2
 - [Kurt](../authors/kurt.md) — 2
@@ -549,6 +551,7 @@
 - [santifer](../authors/santifer.md) — 2
 - [Sarah Drasner](../authors/sarah-drasner.md) — 2
 - [Satoshi Kume｜AI × Science](../authors/satoshi-kume-ai-science.md) — 2
+- [Satoshi Nagayasu 🧠🤖](../authors/satoshi-nagayasu.md) — 2
 - [saturn](../authors/saturn.md) — 2
 - [SECTOR](../authors/sector.md) — 2
 - [sengpt](../authors/sengpt.md) — 2
@@ -634,6 +637,7 @@
 - [ノトフ（川本龍）／DreamCore](../authors/川本龍-dreamcore.md) — 2
 - [ハル｜最小労力のAI活用](../authors/最小労力-ai活用.md) — 2
 - [ピペ👾🐙](../authors/jev-showcase.md) — 2
+- [ポケカアプリ開発中_pockkyuura](../authors/開発中-pockkyuura.md) — 2
 - [みゆ🌹ฅ^•ω•^ฅ @X68KBBS / MSXBBS / FANKS](../authors/x68kbbs-msxbbs-fanks.md) — 2
 - [图喜](../authors/图喜.md) — 2
 - [大伟｜AI × Web3](../authors/大伟-ai-web3.md) — 2
@@ -1929,7 +1933,6 @@
 - [Kingsley Uyi Idehen](../authors/kingsley-uyi-idehen.md) — 1
 - [Kiran Gollu](../authors/kiran-gollu.md) — 1
 - [KiRura](../authors/kirura.md) — 1
-- [Kisson](../authors/kisson.md) — 1
 - [kitscho.eth](../authors/kitscho-eth.md) — 1
 - [KK](../authors/kk.md) — 1
 - [kkonline.org](../authors/kkonline-org.md) — 1
@@ -2094,6 +2097,7 @@
 - [Mark Phelps](../authors/mark-phelps.md) — 1
 - [MARK RODEL VALDEZ](../authors/mark-rodel-valdez.md) — 1
 - [Mark Shust](../authors/mark-shust.md) — 1
+- [Marktechpost AI](../authors/marktechpost-ai.md) — 1
 - [Marlene Mhangami](../authors/marlene-mhangami.md) — 1
 - [Martijn Verbove](../authors/martijn-verbove.md) — 1
 - [Martín Gaitán ⭐⭐⭐](../authors/martin-gaitan.md) — 1
@@ -2641,6 +2645,7 @@
 - [Sanjoy Ghosh](../authors/sanjoy-ghosh.md) — 1
 - [Sankalp Sinha (Left $15K+ MRR job to indiehack)](../authors/sankalp-sinha-left-15k-mrr-job-to-indiehack.md) — 1
 - [Santhosh Gandhi](../authors/santhosh-gandhi.md) — 1
+- [Santosh](../authors/santosh.md) — 1
 - [Sanyam Satia](../authors/sanyam-satia.md) — 1
 - [Sara Mo](../authors/sara-mo.md) — 1
 - [Sarcastic Badger](../authors/sarcastic-badger.md) — 1
@@ -2650,7 +2655,6 @@
 - [Sarvagya Kulshreshtha](../authors/sarvagya-kulshreshtha.md) — 1
 - [sat0xshi](../authors/sat0xshi.md) — 1
 - [Sathish](../authors/sathish.md) — 1
-- [Satoshi Nagayasu 🧠🤖](../authors/satoshi-nagayasu.md) — 1
 - [Satoshi Wolf](../authors/satoshi-wolf.md) — 1
 - [Sattyam Jain](../authors/sattyam-jain.md) — 1
 - [Satvik Paramkusham](../authors/satvik-paramkusham.md) — 1
@@ -2938,6 +2942,7 @@
 - [Tonebird (formerly OKEight)](../authors/tonebird-formerly-okeight.md) — 1
 - [Tonino Catapano (tonnoz)](../authors/tonino-catapano-tonnoz.md) — 1
 - [Tony Schaffert](../authors/tony-schaffert.md) — 1
+- [tonyng.eth](../authors/tonyng-eth.md) — 1
 - [Toran Bruce Richards](../authors/toran-bruce-richards.md) — 1
 - [Tornike Gomareli](../authors/tornike-gomareli.md) — 1
 - [towninthesky](../authors/towninthesky.md) — 1
@@ -3046,6 +3051,7 @@
 - [Wayne Culbreth](../authors/wayne-culbreth.md) — 1
 - [Wayne Nilsen](../authors/wayne-nilsen.md) — 1
 - [Wayne Sutton](../authors/wayne-sutton.md) — 1
+- [WBIT](../authors/wbit.md) — 1
 - [wca.dev](../authors/wca-dev.md) — 1
 - [web5kol](../authors/web5kol.md) — 1
 - [webbob](../authors/webbob.md) — 1
@@ -3330,7 +3336,6 @@
 - [ぺんぎんさん@C108新刊BOOTH販売中](../authors/c108新刊booth販売中.md) — 1
 - [ほーきー(Hawkie) | AI× |||||||||||||||||||||||||||||](../authors/hawkie-ai.md) — 1
 - [ぽーん/551](../authors/551.md) — 1
-- [ポケカアプリ開発中_pockkyuura](../authors/開発中-pockkyuura.md) — 1
 - [ほし | FDE](../authors/fde.md) — 1
 - [ホタテラボ](../authors/jev-showcase.md) — 1
 - [ボンド｜AIで最高月収7800万](../authors/ai-最高月収7800万.md) — 1

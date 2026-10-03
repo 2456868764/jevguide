@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 838 | 348 | 494 | 3.0M |
+| 840 | 349 | 495 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AutoTrustAI/status/2106244121883263132"><img src="https://pbs.twimg.com/amplify_video_thumb/2105475786841178112/img/G6Z6ls7v4Uha9eSl.jpg" alt="JEV-27B-VL Q&amp;A: Computer Use and 3D · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AutoTrustAI/status/2106244121883263132">JEV-27B-VL Q&amp;A: Computer Use and 3D</a></h3>
+<p>AutoTrust, in a community Q&amp;A, confirms that JEV-27B-VL&#39;s core direction includes a computer-use loop from screen state to calibrated actions (click/type/scroll), and mentions a 3D direction.</p>
+<p><strong>中文摘要：</strong>AutoTrust 在社区问答中确认，JEV-27B-VL 的核心方向包括从屏幕状态到校准动作再到点击/输入/滚动的计算机使用循环，并提及3D相关方向。</p>
+<p><strong>AutoTrust</strong> · @AutoTrustAI · 2026-10-03T04:45:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 90</p>
+<p><a href="https://x.com/AutoTrustAI/status/2106244121883263132">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/snaga/status/2106238415209726386"><img src="https://pbs.twimg.com/media/HTrcjjTaEAA6y_B?format=jpg&amp;name=medium" alt="Adopting TypeSafe Jev for Cascading Auto-Tagging · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/snaga/status/2106238415209726386">Adopting TypeSafe Jev for Cascading Auto-Tagging</a></h3>
+<p>The author shares experience switching tag generation for their self-built bookmark app from Gemini to TypeSafe Jev, introducing a cascading auto-tagging architecture. The switch improved cost-effectiveness and may resume periodic batch refreshes.</p>
+<p><strong>中文摘要：</strong>作者分享了将其自建书签应用的标签生成从Gemini切换到TypeSafe Jev的经验，并引入级联自动标注架构。切换后成本效益提升，定期批量刷新可能恢复。</p>
+<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga · 2026-10-03T04:22:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 59</p>
+<p><a href="https://x.com/snaga/status/2106238415209726386">在 X 查看原帖</a> · <a href="https://t.co/EOi66PI547">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106232809258119328"><img src="https://pbs.twimg.com/amplify_video_thumb/2106232780980154368/img/8bnFDSOF285pbSmv.jpg" alt="Awesome Public Jev Projects · 原帖视频截图" width="100%"></a>

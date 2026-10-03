@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4881</strong><br>curated posts</td>
-<td align="center"><strong>2518</strong><br>original videos</td>
+<td align="center"><strong>4892</strong><br>curated posts</td>
+<td align="center"><strong>2523</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,34 +28,34 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>838</strong> showcases · <strong>348</strong> videos</p>
+<p><strong>840</strong> showcases · <strong>349</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>509</strong> showcases · <strong>222</strong> videos</p>
+<p><strong>512</strong> showcases · <strong>224</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>490</strong> showcases · <strong>251</strong> videos</p>
+<p><strong>491</strong> showcases · <strong>252</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/launch-news.md">Launch news</a></h3>
+<p><sub>产品发布</sub></p>
+<p><strong>377</strong> showcases · <strong>178</strong> videos</p>
+<p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
 <p><strong>377</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/launch-news.md">Launch news</a></h3>
-<p><sub>产品发布</sub></p>
-<p><strong>376</strong> showcases · <strong>178</strong> videos</p>
-<p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>341</strong> showcases · <strong>259</strong> videos</p>
+<p><strong>342</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>313</strong> showcases · <strong>126</strong> videos</p>
+<p><strong>315</strong> showcases · <strong>126</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>101</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>102</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/Arindam_1729/status/2106235910350360793"><img src="https://pbs.twimg.com/amplify_video_thumb/2105867365346897920/img/j-JU2Xz3PyCvxkmm.jpg" alt="Build Your First AI Agent with a Jev Decision Layer · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Arindam_1729/status/2106235910350360793">Build Your First AI Agent with a Jev Decision Layer</a></h3>
-<p>A practical guide to building a working AI agent from scratch, covering the core agent loop, tools and memory integration, and using Jev as the decision layer.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2106249530664767702"><img src="https://pbs.twimg.com/media/HTrml-hWQAAXES4?format=jpg&amp;name=medium" alt="Fine-Tuning Jev for Your Domain · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2106249530664767702">Fine-Tuning Jev for Your Domain</a></h3>
+<p>This post discusses fine-tuning the Jev model for a specific domain.</p>
+<p><strong>275</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 275</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/sekiemon_gb350/status/2106234412409225673"><img src="https://pbs.twimg.com/amplify_video_thumb/2106233397769347072/img/lMtusjd93HUZFq_7.jpg" alt="Building a Voice-Coding VSCode Extension with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sekiemon_gb350/status/2106234412409225673">Building a Voice-Coding VSCode Extension with Jev</a></h3>
-<p>The author is having an AI build a VSCode extension that uses Jev and regex to anticipate what users want and generate code, aiming for a voice-coding workflow that can be reviewed as it is built.</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ethan_walker_ai/status/2106248112687947854"><img src="https://pbs.twimg.com/media/HTrlernaAAArxw_?format=jpg&amp;name=medium" alt="Jev: TypeSafe AI&#39;s First System One Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ethan_walker_ai/status/2106248112687947854">Jev: TypeSafe AI&#39;s First System One Model</a></h3>
+<p>Jev is TypeSafe AI&#39;s first System One model. Unlike traditional LLMs that generate text, it takes context and a focused question and returns a structured decision, such as a choice, score, or yes/no probability.</p>
 <p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>せきのです</strong> · @sekiemon_gb350</p>
+<p><strong>Ethan Walker</strong> · @ethan_walker_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/aiedge_/status/2106232809258119328"><img src="https://pbs.twimg.com/amplify_video_thumb/2106232780980154368/img/8bnFDSOF285pbSmv.jpg" alt="Awesome Public Jev Projects · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2106232809258119328">Awesome Public Jev Projects</a></h3>
-<p>A curated list of awesome public Jev projects, including agent harnesses, skill routers, and Jev for decision-making. Share the link with your agent to digest all workflows instantly.</p>
-<p><strong>661</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 661</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/ethan_walker_ai/status/2106248072087130506"><img src="https://pbs.twimg.com/media/HTrlc83agAA1OVL?format=jpg&amp;name=medium" alt="Jev: A Model Built for Structured Decisions in Software · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ethan_walker_ai/status/2106248072087130506">Jev: A Model Built for Structured Decisions in Software</a></h3>
+<p>TypeSafe AI is pushing a different direction with Jev, a model designed not to chat but to produce structured decisions that software can directly act on. This thread explains why this approach matters.</p>
+<p><strong>21</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>Ethan Walker</strong> · @ethan_walker_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/TeksEdge/status/2106232780736631103"><img src="https://pbs.twimg.com/media/HTp6rktbcAAzA76?format=jpg&amp;name=medium" alt="Perplexity Open-Sources 27B Decision Model; Jev Benchmarks at 84.51% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TeksEdge/status/2106232780736631103">Perplexity Open-Sources 27B Decision Model; Jev Benchmarks at 84.51%</a></h3>
-<p>The post reports that Perplexity released an open-source decision model, pplx-decider-v1-27b, with an 11-benchmark score of 85.71%, compared to Jev at 84.51% and base Qwen at 74.76%, indicating Jev&#39;s strong performance among similar models.</p>
-<p><strong>112</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 112</p>
-<p><strong>David Hendrickson</strong> · @TeksEdge</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/tonedknees/status/2106246251549442423"><img src="https://pbs.twimg.com/media/HTrjDf5a0AAOFxT?format=png&amp;name=large" alt="Recursive Document Search with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tonedknees/status/2106246251549442423">Recursive Document Search with Jev</a></h3>
+<p>Introducing jev-doc-search, which uses Jev to condense long docs into compact tables and recursively answer to pinpoint the answer, enabling search over 1000-page documents.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>tonyng.eth</strong> · @tonedknees</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/Arindam_1729/status/2106235910350360793"><img src="https://pbs.twimg.com/amplify_video_thumb/2105867365346897920/img/j-JU2Xz3PyCvxkmm.jpg" alt="Build Your First AI Agent with a Jev Decision Layer · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Arindam_1729/status/2106235910350360793">Build Your First AI Agent with a Jev Decision Layer</a></h3>
-<p>A practical guide to building a working AI agent from scratch, covering the core agent loop, tools and memory integration, and using Jev as the decision layer.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2106249530664767702"><img src="https://pbs.twimg.com/media/HTrml-hWQAAXES4?format=jpg&amp;name=medium" alt="Fine-Tuning Jev for Your Domain · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2106249530664767702">Fine-Tuning Jev for Your Domain</a></h3>
+<p>This post discusses fine-tuning the Jev model for a specific domain.</p>
+<p><strong>275</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 275</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/TeksEdge/status/2106232780736631103"><img src="https://pbs.twimg.com/media/HTp6rktbcAAzA76?format=jpg&amp;name=medium" alt="Perplexity Open-Sources 27B Decision Model; Jev Benchmarks at 84.51% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TeksEdge/status/2106232780736631103">Perplexity Open-Sources 27B Decision Model; Jev Benchmarks at 84.51%</a></h3>
-<p>The post reports that Perplexity released an open-source decision model, pplx-decider-v1-27b, with an 11-benchmark score of 85.71%, compared to Jev at 84.51% and base Qwen at 74.76%, indicating Jev&#39;s strong performance among similar models.</p>
-<p><strong>112</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 112</p>
-<p><strong>David Hendrickson</strong> · @TeksEdge</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/tonedknees/status/2106246251549442423"><img src="https://pbs.twimg.com/media/HTrjDf5a0AAOFxT?format=png&amp;name=large" alt="Recursive Document Search with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tonedknees/status/2106246251549442423">Recursive Document Search with Jev</a></h3>
+<p>Introducing jev-doc-search, which uses Jev to condense long docs into compact tables and recursively answer to pinpoint the answer, enabling search over 1000-page documents.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>tonyng.eth</strong> · @tonedknees</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/anshuspandey/status/2106229053170598020"><img src="https://pbs.twimg.com/media/HTrUKaEXYAI_y2e?format=png&amp;name=medium" alt="Jev Model: Decisions, Not Writing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/anshuspandey/status/2106229053170598020">Jev Model: Decisions, Not Writing</a></h3>
-<p>A developer notes that after reading about the Jev model, it doesn&#39;t write text—it decides which tool to use, continue or stop, and whether to escalate. While it can&#39;t replace LLMs everywhere, most agent steps are decisions rather than writing, which is worth rethinking.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Anshu Pandey</strong> · @anshuspandey</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/pocketkyuura/status/2106244859480998023"><img src="https://pbs.twimg.com/amplify_video_thumb/2106244801717018624/img/GN_44uQzkERddhsN.jpg" alt="Pokemon card app with AI Jev price prediction · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/pocketkyuura/status/2106244859480998023">Pokemon card app with AI Jev price prediction</a></h3>
+<p>This app lets users search Pokémon cards, check prices, and quietly collect them. It frequently updates 30th-anniversary card prices and runs AI Jev market price predictions.</p>
+<p><strong>34</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
+<p><strong>ポケカアプリ開発中_pockkyuura</strong> · @pocketkyuura</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/deskrex/status/2106217681883947250"><img src="https://pbs.twimg.com/media/HTqarULboAAj7he?format=jpg&amp;name=medium" alt="Jev: An AI that Returns Typed Judgments · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/deskrex/status/2106217681883947250">Jev: An AI that Returns Typed Judgments</a></h3>
-<p>This post discusses whether AI outputs must always be text, introducing Jev as an AI specialized in returning typed judgments such as options, scores, and truth values for input states, with a design distinct from post-processing free text.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Deskrex.AI - 市場調査のAIデスクリサーチエージェント</strong> · @deskrex</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/snaga/status/2106238415209726386"><img src="https://pbs.twimg.com/media/HTrcjjTaEAA6y_B?format=jpg&amp;name=medium" alt="Adopting TypeSafe Jev for Cascading Auto-Tagging · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/snaga/status/2106238415209726386">Adopting TypeSafe Jev for Cascading Auto-Tagging</a></h3>
+<p>The author shares experience switching tag generation for their self-built bookmark app from Gemini to TypeSafe Jev, introducing a cascading auto-tagging architecture. The switch improved cost-effectiveness and may resume periodic batch refreshes.</p>
+<p><strong>59</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 59</p>
+<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga</p>
 </td>
 </tr>
 </table>

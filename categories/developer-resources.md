@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 313 | 126 | 187 | 419K |
+| 315 | 126 | 189 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/e_opore/status/2106249530664767702"><img src="https://pbs.twimg.com/media/HTrml-hWQAAXES4?format=jpg&amp;name=medium" alt="Fine-Tuning Jev for Your Domain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/e_opore/status/2106249530664767702">Fine-Tuning Jev for Your Domain</a></h3>
+<p>This post discusses fine-tuning the Jev model for a specific domain.</p>
+<p><strong>中文摘要：</strong>该帖子讨论了针对特定领域微调 Jev 模型的方法。</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore · 2026-10-03T05:06:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 275</p>
+<p><a href="https://x.com/e_opore/status/2106249530664767702">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KissonL/status/2106240327296098339"><img src="https://pbs.twimg.com/media/HToaQGhagAAKjsH?format=jpg&amp;name=medium" alt="Discovered fast-jev-compaction: A new Jev context compaction approach · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KissonL/status/2106240327296098339">Discovered fast-jev-compaction: A new Jev context compaction approach</a></h3>
+<p>The author found fast-jev-compaction in repos, which skips summarization by deleting tool calls/results scored as no longer needed, keeping the rest verbatim. Still early.</p>
+<p><strong>中文摘要：</strong>作者在仓库中发现了 fast-jev-compaction，它跳过摘要，直接删除不再需要的工具调用和结果，其余内容保留原样，尚处于早期阶段。</p>
+<p><strong>Kisson</strong> · @KissonL · 2026-10-03T04:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 48</p>
+<p><a href="https://x.com/KissonL/status/2106240327296098339">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Arindam_1729/status/2106235910350360793"><img src="https://pbs.twimg.com/amplify_video_thumb/2105867365346897920/img/j-JU2Xz3PyCvxkmm.jpg" alt="Build Your First AI Agent with a Jev Decision Layer · 原帖视频截图" width="100%"></a>

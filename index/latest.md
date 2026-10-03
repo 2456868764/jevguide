@@ -2,6 +2,17 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-03T05:06:34.000Z | [Fine-Tuning Jev for Your Domain](https://x.com/e_opore/status/2106249530664767702) | 开发资源 | Dhanian 🗯️ | 275 |
+| 2026-10-03T05:00:56.000Z | [Jev: TypeSafe AI's First System One Model](https://x.com/ethan_walker_ai/status/2106248112687947854) | 产品发布 | Ethan Walker | 4 |
+| 2026-10-03T05:00:47.000Z | [Jev: A Model Built for Structured Decisions in Software](https://x.com/ethan_walker_ai/status/2106248072087130506) | 工作原理 | Ethan Walker | 21 |
+| 2026-10-03T04:53:33.000Z | [Recursive Document Search with Jev](https://x.com/tonedknees/status/2106246251549442423) | 知识与搜索 | tonyng.eth | 5 |
+| 2026-10-03T04:48:01.000Z | [Pokemon card app with AI Jev price prediction](https://x.com/pocketkyuura/status/2106244859480998023) | 游戏 | ポケカアプリ開発中_pockkyuura | 34 |
+| 2026-10-03T04:45:05.000Z | [JEV-27B-VL Q&A: Computer Use and 3D](https://x.com/AutoTrustAI/status/2106244121883263132) | 社区实践 | AutoTrust | 90 |
+| 2026-10-03T04:44:59.000Z | [Decision AI Models Explained: TypeSafe Jev vs Competitors](https://x.com/Marktechpost/status/2106244097765941374) | 工作原理 | Marktechpost AI | 211 |
+| 2026-10-03T04:30:00.000Z | [Discovered fast-jev-compaction: A new Jev context compaction approach](https://x.com/KissonL/status/2106240327296098339) | 开发资源 | Kisson | 48 |
+| 2026-10-03T04:25:58.000Z | [Jev: A Useful LLM Assistant for System Integration](https://x.com/WSKamgar/status/2106239312522338663) | 开发者工具 | WBIT | 10 |
+| 2026-10-03T04:25:08.000Z | [What is Jev AI?](https://x.com/yatrideveloper/status/2106239103142617518) | 工作原理 | Santosh | 7 |
+| 2026-10-03T04:22:24.000Z | [Adopting TypeSafe Jev for Cascading Auto-Tagging](https://x.com/snaga/status/2106238415209726386) | 社区实践 | Satoshi Nagayasu 🧠🤖 | 59 |
 | 2026-10-03T04:12:27.000Z | [Build Your First AI Agent with a Jev Decision Layer](https://x.com/Arindam_1729/status/2106235910350360793) | 开发资源 | Arindam Majumder 𝕏 | 13 |
 | 2026-10-03T04:06:30.000Z | [Building a Voice-Coding VSCode Extension with Jev](https://x.com/sekiemon_gb350/status/2106234412409225673) | 开发者工具 | せきのです | 4 |
 | 2026-10-03T04:00:08.000Z | [Awesome Public Jev Projects](https://x.com/aiedge_/status/2106232809258119328) | 社区实践 | AI Edge | 661 |
@@ -91,14 +102,3 @@
 | 2026-10-02T14:30:00.000Z | [JEV-27B-VL: A Jev-like Open-Source Multimodal Model](https://x.com/SadraMajidi04/status/2106028935272370441) | 开发资源 | Sadra Majidi | 6 |
 | 2026-10-02T14:22:39.000Z | [Use Jev to Review Trade Setups, Not Predict Price](https://x.com/0xGretche/status/2106027084908822853) | 金融 | Certif Gretche | 5 |
 | 2026-10-02T14:05:50.000Z | [Cloudflare claims its decision model beats Jev in speed and quality](https://x.com/johnbhiggins/status/2106022853208592582) | 产品发布 | John | 10 |
-| 2026-10-02T14:03:00.000Z | [OpenAI Decisions API vs Jev 1.13: Public Comparison](https://x.com/clixlogix/status/2106022140483154056) | 工作原理 | Clixlogix | 7 |
-| 2026-10-02T14:01:09.000Z | [Jev Voice Browser](https://x.com/aiedge_/status/2106021673879367884) | 智能体 | AI Edge | 27 |
-| 2026-10-02T14:01:02.000Z | [Jev Adblock: No Filter Lists Needed](https://x.com/aiedge_/status/2106021641872605394) | 工作原理 | AI Edge | 28 |
-| 2026-10-02T14:00:58.000Z | [Jev MCP: 11 judgment tools for Claude Code and Codex](https://x.com/aiedge_/status/2106021625934311541) | 开发者工具 | AI Edge | 32 |
-| 2026-10-02T14:00:50.000Z | [Ship with Jev: A Live Directory of 550+ Builds](https://x.com/aiedge_/status/2106021593105457305) | 社区实践 | AI Edge | 54 |
-| 2026-10-02T14:00:44.000Z | [Jev Productivity Hacks: 7 Best Open-Source Builds](https://x.com/aiedge_/status/2106021568606572723) | 社区实践 | AI Edge | 784 |
-| 2026-10-02T13:59:31.000Z | [Model Routing with Jev](https://x.com/QCTCH/status/2106021262883459506) | 工作原理 | 祈蚕 | 20 |
-| 2026-10-02T13:55:35.000Z | [System One Architecture Will Change Everything](https://x.com/danielmorris/status/2106020270578254080) | 社区实践 | Daniel Morris | 7 |
-| 2026-10-02T13:55:06.000Z | [User shares test results with Jev](https://x.com/Mad_Dog97/status/2106020151846117446) | 社区实践 | Will Cassell | 6 |
-| 2026-10-02T13:49:15.000Z | [AnyRouter Now Routes Across 9 Decision Models](https://x.com/_duyet/status/2106018677384683826) | 开发者工具 | duyet | 8 |
-| 2026-10-02T13:44:49.000Z | [JevBench v1.5.5 Released: Jev Still #1 in Capability](https://x.com/airesearch12/status/2106017561913536949) | 开发资源 | Florian S | 274 |

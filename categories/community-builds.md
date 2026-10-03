@@ -4,11 +4,155 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 813 | 336 | 481 | 3.0M |
+| 825 | 343 | 486 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ShikaseY/status/2106192517985386725"><img src="https://pbs.twimg.com/amplify_video_thumb/2106191903251460096/img/wwn4UPJb9wdxzSM_.jpg" alt="Playing Breakout with JEV-CPU · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ShikaseY/status/2106192517985386725">Playing Breakout with JEV-CPU</a></h3>
+<p>The author shares their experience of using JEV-CPU to control a Breakout game, noting that the game is load-heavy due to frequent decision-making.</p>
+<p><strong>中文摘要：</strong>作者分享了使用JEV-CPU操作打砖块游戏的体验，指出该游戏因需要频繁判断而负荷较高。</p>
+<p><strong>Yoshimi Shikase</strong> · @ShikaseY · 2026-10-03T01:20:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/ShikaseY/status/2106192517985386725">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vandenbog_art/status/2106183870689218755"><img src="https://pbs.twimg.com/amplify_video_thumb/2106183825294299136/img/eSmeC7cJDkDKCumM.jpg" alt="Building an AI Auto Chess with Jev: LLMs Coordinate in WoW Dungeons · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/vandenbog_art/status/2106183870689218755">Building an AI Auto Chess with Jev: LLMs Coordinate in WoW Dungeons</a></h3>
+<p>A developer showcases building a WoW-like auto chess with Benilla and Jev, where AI parties set goals via LLMs and execute with Jev, delighting in their coordination.</p>
+<p><strong>中文摘要：</strong>开发者展示了利用 Benilla 和 Jev 构建类似魔兽世界的自走棋玩法，AI 队伍由 LLM 设定目标并通过 Jev 执行，观察其协作过程令人满足。</p>
+<p><strong>Eric</strong> · @vandenbog_art · 2026-10-03T00:45:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 162</p>
+<p><a href="https://x.com/vandenbog_art/status/2106183870689218755">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eandualem/status/2106179334163595677"><img src="https://pbs.twimg.com/amplify_video_thumb/2106178983561756672/img/GLYwPM_sIZMEIXkm.jpg" alt="Entune: Dictation + Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eandualem/status/2106179334163595677">Entune: Dictation + Jev</a></h3>
+<p>Entune is an open-source project that combines dictation with Jev, showcasing a community practice of integrating TypeSafe&#39;s Jev model into real applications.</p>
+<p><strong>中文摘要：</strong>Entune 是一个将听写功能与 Jev 结合的开源项目，展示了在实际应用中整合 TypeSafe Jev 模型的社区实践。</p>
+<p><strong>Elias Andualem</strong> · @eandualem · 2026-10-03T00:27:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/eandualem/status/2106179334163595677">在 X 查看原帖</a> · <a href="https://t.co/gQzfCJTwhH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nakamurahiroki/status/2106178580124516467"><img src="https://pbs.twimg.com/media/HTqmQhPbYAACWnA?format=png&amp;name=medium" alt="Reflections on Jev Model Speed · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nakamurahiroki/status/2106178580124516467">Reflections on Jev Model Speed</a></h3>
+<p>The author observes that Jev&#39;s 22-28ms response time matters less than its cost reduction, which can lower decision-making costs and quietly automate production workflow decisions.</p>
+<p><strong>中文摘要：</strong>作者从Jev模型22-28毫秒的响应速度出发，指出相比速度，成本降低更可能改变现场工作流程，并推动AI决策自动化的普及。</p>
+<p><strong>中村洋基 PARTY FUND</strong> · @nakamurahiroki · 2026-10-03T00:24:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 239</p>
+<p><a href="https://x.com/nakamurahiroki/status/2106178580124516467">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/itskaran047/status/2106171048626417944"><img src="https://pbs.twimg.com/amplify_video_thumb/2106170959614889984/img/EUTOkMCTLLS1DUir.jpg" alt="Building AI Agents with Jev at Cloudflare Hackathon · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/itskaran047/status/2106171048626417944">Building AI Agents with Jev at Cloudflare Hackathon</a></h3>
+<p>A hackathon with 100 builders gathered to build AI agents on Cloudflare overnight. They experimented with Jev, code review agents, Web QA agents, and Workers AI, then demoed their work at Rootly Toronto HQ. The post includes the full recap and open source labs.</p>
+<p><strong>中文摘要：</strong>一场汇集100名开发者的黑客松在Cloudflare举行，参与者在Room中整夜构建AI代理，尝试了Jev、代码审查代理、Web QA代理以及Workers AI等技术，并在多伦多Rootly总部展示了成果。帖子还分享了完整活动回顾和开源实验室资源。</p>
+<p><strong>Karan</strong> · @itskaran047 · 2026-10-02T23:54:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/itskaran047/status/2106171048626417944">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dhruvamin/status/2106170816903663731"><img src="https://pbs.twimg.com/amplify_video_thumb/2106100739596746752/img/StGfUCl5EVw221M4.jpg" alt="Want to try Jev on your own data? Here&#39;s the fastest way · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dhruvamin/status/2106170816903663731">Want to try Jev on your own data? Here&#39;s the fastest way</a></h3>
+<p>Create a Skydive agent (1 min), connect it to 600+ integrations (1 min), tell it to use Jev to sort or filter data (~2 mins), then schedule it daily. Works for email classification, lead filtering, and more.</p>
+<p><strong>中文摘要：</strong>通过 Skydive 创建 agent（1分钟），连接600+集成（1分钟），让其使用 Jev 排序或过滤数据（约2分钟），然后设置每日自动执行。适用于邮件分类、线索过滤等场景。</p>
+<p><strong>Dhruv</strong> · @dhruvamin · 2026-10-02T23:53:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 521</p>
+<p><a href="https://x.com/dhruvamin/status/2106170816903663731">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/singularity_bly/status/2106170080778133991"><img src="https://pbs.twimg.com/media/HTqbBJkWoAEIGPz?format=jpg&amp;name=medium" alt="Jev vs GLiDE vs Perplexity: Decision Benchmark Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/singularity_bly/status/2106170080778133991">Jev vs GLiDE vs Perplexity: Decision Benchmark Comparison</a></h3>
+<p>A community user benchmarks Jev, GLiDE, and Perplexity on a key decision benchmark, criticizing Perplexity for cherry-picking benchmarks to appear better than Jev.</p>
+<p><strong>中文摘要：</strong>社区用户对比了Jev、GLiDE和Perplexity在重要决策基准上的表现，并批评Perplexity选择性挑选基准来美化自身表现。</p>
+<p><strong>Sahibzada Allahyar</strong> · @singularity_bly · 2026-10-02T23:50:52.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 481</p>
+<p><a href="https://x.com/singularity_bly/status/2106170080778133991">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/michaelkolkov/status/2106169361144946781"><img src="https://pbs.twimg.com/amplify_video_thumb/2104329660607668224/img/2ME-415E9Ce-K25o.jpg" alt="Trying a Jev-powered Generative UI Composer · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/michaelkolkov/status/2106169361144946781">Trying a Jev-powered Generative UI Composer</a></h3>
+<p>The author shares trying a generative UI composer that uses Jev for decision-making, noting it could be a huge unlock if some parts run on-device.</p>
+<p><strong>中文摘要：</strong>作者分享尝试将 Jev 用于决策的生成式 UI 组合器，认为若部分功能实现设备端运行，可能带来巨大潜力。</p>
+<p><strong>Michael Kolkov</strong> · @michaelkolkov · 2026-10-02T23:48:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
+<p><a href="https://x.com/michaelkolkov/status/2106169361144946781">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AlexBoniske/status/2106163411612545265"><img src="https://pbs.twimg.com/media/HTqYLPfXIAElNbi?format=jpg&amp;name=medium" alt="Video to ASCII as a Jev Vision Encoder · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlexBoniske/status/2106163411612545265">Video to ASCII as a Jev Vision Encoder</a></h3>
+<p>This tweet praises the idea of using video-to-ASCII as a Jev vision encoder, calling it genius.</p>
+<p><strong>中文摘要：</strong>该推文称赞将视频转换为ASCII作为Jev视觉编码器的想法是天才的。</p>
+<p><strong>Alex Boniske</strong> · @AlexBoniske · 2026-10-02T23:24:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 858</p>
+<p><a href="https://x.com/AlexBoniske/status/2106163411612545265">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/park_danie36173/status/2106156940904808907"><img src="https://pbs.twimg.com/media/HTqShx2bsAAb2x7?format=jpg&amp;name=medium" alt="Three practical uses for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/park_danie36173/status/2106156940904808907">Three practical uses for Jev</a></h3>
+<p>Reedo.dev shares three practical uses for Jev: routing documents to topics, checking whether a source supports a claim, and scoring instructions against defined levels, with a recommendation to separate publishing and deletion checks.</p>
+<p><strong>中文摘要：</strong>Reedo.dev 介绍 Jev 的三种实用场景：将文档路由到话题、验证来源是否支持声明、按定义等级对指令评分，并建议将发布和删除操作分开审查。</p>
+<p><strong>Reedo.dev</strong> · @park_danie36173 · 2026-10-02T22:58:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/park_danie36173/status/2106156940904808907">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/renkon40/status/2106153603841118451"><img src="https://pbs.twimg.com/media/HTqPhj3bgAA1v4h?format=jpg&amp;name=medium" alt="Simple workflow using Jev AI to classify business inquiries · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/renkon40/status/2106153603841118451">Simple workflow using Jev AI to classify business inquiries</a></h3>
+<p>Explains how the dedicated AI Jev scores &#39;is this a business inquiry&#39; from 0 to 1, splits results into three buckets by threshold, sends ambiguous cases to Claude Opus 5.5 for review, and batches 100 items at a time.</p>
+<p><strong>中文摘要：</strong>介绍用判断专用AI Jev对“是否案件委托”以0-1概率打分，按阈值分为三个箱子，中间模糊地带交给Claude Opus 5.5复核，每次批量发送100件。</p>
+<p><strong>れん学長｜AIツール実験室</strong> · @renkon40 · 2026-10-02T22:45:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 93</p>
+<p><a href="https://x.com/renkon40/status/2106153603841118451">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LuckyAILabo/status/2106036695531749484"><img src="https://pbs.twimg.com/amplify_video_thumb/2106036367205765120/img/fhDtIs1J8FElooJP.jpg" alt="Community Jev-Omni vs decider-4b sorting performance · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LuckyAILabo/status/2106036695531749484">Community Jev-Omni vs decider-4b sorting performance</a></h3>
+<p>Test shows Jev-Omni is perfect at slow speed, but misses under fast flow, while decider-4b overtakes at speed.</p>
+<p><strong>中文摘要：</strong>测试显示：慢速时 Jev-Omni 全对，快速时判断跟不上，而 decider-4b 在高速下反超。</p>
+<p><strong>Lucky AI Labo</strong> · @LuckyAILabo · 2026-10-02T15:00:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/LuckyAILabo/status/2106036695531749484">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tomsmialowski/status/2106036475129200858"><img src="https://pbs.twimg.com/media/HTokY0QWEAAcqjm?format=jpg&amp;name=medium" alt="Jev vs Clef: Food Classification Test Comparison · 原帖图片" width="100%"></a>

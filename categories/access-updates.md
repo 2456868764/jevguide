@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 372 | 155 | 217 | 802K |
+| 376 | 158 | 218 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vikati/status/2106155839505703112"><img src="https://pbs.twimg.com/media/HTqQr1naQAAYd_u?format=png&amp;name=medium" alt="Jev Decision Model Adoption and Competition · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vikati/status/2106155839505703112">Jev Decision Model Adoption and Competition</a></h3>
+<p>Citing a WSJ report, the post notes TypeSafe AI&#39;s Jev decision model is used by 25% of Fortune 500 companies and has sparked imitators, while pointing to alternatives from Cloudflare, AWS, and Databricks.</p>
+<p><strong>中文摘要：</strong>原帖引用 WSJ 报道称 TypeSafe AI 的 Jev 决策模型已被 25% 的财富 500 强使用并引发模仿，同时指出 Cloudflare、AWS、Databricks 等已提供多种替代方案。</p>
+<p><strong>Alex Vikati</strong> · @vikati · 2026-10-02T22:54:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
+<p><a href="https://x.com/vikati/status/2106155839505703112">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MannyBernabe/status/2106150785452998937"><img src="https://pbs.twimg.com/amplify_video_thumb/2106148081632714752/img/TQ2Z4PMpTHHW1pJm.jpg" alt="Jev Integration Now Available on Replit · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MannyBernabe/status/2106150785452998937">Jev Integration Now Available on Replit</a></h3>
+<p>Replit announces new features to create beautiful data visuals, build with GPT-6.1 and Claude Sonnet 5.5, and add Jev to your apps without requiring API keys.</p>
+<p><strong>中文摘要：</strong>Replit 发布新功能，支持创建数据可视化，使用 GPT-6.1 和 Claude Sonnet 5.5 构建应用，并可将 Jev 集成到应用中，无需 API 密钥。</p>
+<p><strong>Manny Bernabe</strong> · @MannyBernabe · 2026-10-02T22:34:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 181</p>
+<p><a href="https://x.com/MannyBernabe/status/2106150785452998937">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alphabatcher/status/2106150689915478065"><img src="https://pbs.twimg.com/amplify_video_thumb/2106144593825730560/img/p3heYaL2PCQyw5i4.jpg" alt="Jev signups paused, open copy Kev runs on laptop GPU · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/alphabatcher/status/2106150689915478065">Jev signups paused, open copy Kev runs on laptop GPU</a></h3>
+<p>NVIDIA and Arcee explained at AI Engineer World&#39;s Fair why companies moved to open models, noting that Jev signups are paused while open copies like Kev already run on a laptop GPU.</p>
+<p><strong>中文摘要：</strong>NVIDIA和Arcee在AI Engineer World&#39;s Fair上解释了企业转向开放模型的原因，并提到Jev注册已暂停，而开放副本Kev已能在笔记本GPU上运行。</p>
+<p><strong>Alpha Batcher</strong> · @alphabatcher · 2026-10-02T22:33:49.000Z</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/alphabatcher/status/2106150689915478065">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/selat_aiCN/status/2106034100582932654"><img src="https://pbs.twimg.com/amplify_video_thumb/2105857248677470208/img/4IJcztSwlh4aKRQL.jpg" alt="SELAT Integrates Jev Model for API Service Selection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/selat_aiCN/status/2106034100582932654">SELAT Integrates Jev Model for API Service Selection</a></h3>
+<p>SELAT AI Chinese channel announces the integration of TypeSafe&#39;s Jev (System One) model to select the most intent-matching API service from thousands of options, addressing intent-service mismatch issues.</p>
+<p><strong>中文摘要：</strong>SELAT AI 中文频道宣布引入 TypeSafe 的 Jev（System One）模型，从数千个 API 服务中筛选最符合 Agent 意图的服务，以解决意图与服务错配的问题。</p>
+<p><strong>SELAT AI 中文频道</strong> · @selat_aiCN · 2026-10-02T14:50:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/selat_aiCN/status/2106034100582932654">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mimir_Markets/status/2106031731195175255"><img src="https://pbs.twimg.com/amplify_video_thumb/2106031251547115520/img/5o22vNd5q72yeZZR.jpg" alt="Mimir to Integrate TypeSafe&#39;s Jev Decision Model · 原帖视频截图" width="100%"></a>

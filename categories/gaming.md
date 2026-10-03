@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 335 | 255 | 84 | 588K |
+| 337 | 256 | 85 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lvn_crypto/status/2106178605567127770"><img src="https://pbs.twimg.com/media/HTqmRdWbkAAzlLt?format=jpg&amp;name=medium" alt="Jev FC Buddy: Real-Time Gaming Agent Service · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lvn_crypto/status/2106178605567127770">Jev FC Buddy: Real-Time Gaming Agent Service</a></h3>
+<p>Jev FC Buddy on Termix AI is a different kind of service: instead of asking an agent to return a file, you hire it to play alongside you in real time, where timing, presence and interaction become the deliverable.</p>
+<p><strong>中文摘要：</strong>在 Termix AI 上的 Jev FC Buddy 提供一种全新服务：不是让智能体返回文件，而是在实时交互中陪伴用户，时机、在场感和互动本身成为交付物。</p>
+<p><strong>lvnbbs_bnb</strong> · @lvn_crypto · 2026-10-03T00:24:45.000Z</p>
+<p>💬 8 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 145</p>
+<p><a href="https://x.com/lvn_crypto/status/2106178605567127770">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ShikaseY/status/2106177134674993357"><img src="https://pbs.twimg.com/amplify_video_thumb/2106173747346735105/img/9oCQM2vwqpGm6Gbw.jpg" alt="Using JEV-CPU for Automated Tetris Play · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ShikaseY/status/2106177134674993357">Using JEV-CPU for Automated Tetris Play</a></h3>
+<p>The author tested JEV-CPU on an i5-12th-gen CPU, adding code to receive a 4-choice result from the current piece and board state in Tetris to execute automated moves. Switching to JEV-CPU after deliberately dropping a piece also worked fine.</p>
+<p><strong>中文摘要：</strong>作者在搭载i5-12代CPU的环境下尝试了JEV-CPU，通过在俄罗斯方块中获取当前方块与局面的四选一结果，实现了类自动操作。即使先故意落下方块再切换到JEV-CPU，也能正常应对。</p>
+<p><strong>Yoshimi Shikase</strong> · @ShikaseY · 2026-10-03T00:18:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/ShikaseY/status/2106177134674993357">在 X 查看原帖</a> · <a href="https://t.co/5AL9zjT2Li">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/buddypia/status/2105996640704426249"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995798546919424/img/u1foYKB8vW15KASh.jpg" alt="Jev-like Model Clef Plays Doom in Real Time · 原帖视频截图" width="100%"></a>

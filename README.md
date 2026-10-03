@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4814</strong><br>curated posts</td>
-<td align="center"><strong>2483</strong><br>original videos</td>
+<td align="center"><strong>4847</strong><br>curated posts</td>
+<td align="center"><strong>2501</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>813</strong> showcases · <strong>336</strong> videos</p>
+<p><strong>825</strong> showcases · <strong>343</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>504</strong> showcases · <strong>221</strong> videos</p>
+<p><strong>507</strong> showcases · <strong>222</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>486</strong> showcases · <strong>247</strong> videos</p>
+<p><strong>487</strong> showcases · <strong>248</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>372</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>376</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>370</strong> showcases · <strong>176</strong> videos</p>
+<p><strong>375</strong> showcases · <strong>178</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>359</strong> showcases · <strong>206</strong> videos</p>
+<p><strong>360</strong> showcases · <strong>206</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>335</strong> showcases · <strong>255</strong> videos</p>
+<p><strong>337</strong> showcases · <strong>256</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>238</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>240</strong> showcases · <strong>134</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>108</strong> showcases · <strong>81</strong> videos</p>
+<p><strong>109</strong> showcases · <strong>82</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>56</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>57</strong> showcases · <strong>19</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -178,18 +178,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
-<p><sub>法律合规</sub></p>
-<p><strong>20</strong> showcases · <strong>6</strong> videos</p>
-<p><a href="categories/legal-compliance.md">Open category →</a></p>
+<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
+<p><sub>电商</sub></p>
+<p><strong>21</strong> showcases · <strong>18</strong> videos</p>
+<p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
-<p><sub>电商</sub></p>
-<p><strong>20</strong> showcases · <strong>18</strong> videos</p>
-<p><a href="categories/e-commerce.md">Open category →</a></p>
+<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
+<p><sub>法律合规</sub></p>
+<p><strong>20</strong> showcases · <strong>6</strong> videos</p>
+<p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/thegreatest_sv/status/2106038747485855844"><img src="https://pbs.twimg.com/amplify_video_thumb/2105999476120797184/img/hRRwxPX6tPezxLLA.jpg" alt="Building an Automated Newsroom with Grok and JEV · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/thegreatest_sv/status/2106038747485855844">Building an Automated Newsroom with Grok and JEV</a></h3>
-<p>The author uses Grok to hunt viral X posts, JEV to decide what deserves attention, and only shows up to approve.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>kiosa</strong> · @thegreatest_sv</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/slashui/status/2106204253593427973"><img src="https://pbs.twimg.com/amplify_video_thumb/2106204092981035008/img/CGvR9zBZctsSfLuK.jpg" alt="Jev&#39;s First Week: Traders&#39; AI Trading Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/slashui/status/2106204253593427973">Jev&#39;s First Week: Traders&#39; AI Trading Tools</a></h3>
+<p>The post describes that within a week of Jev&#39;s launch, traders have developed real-time order books, signals, trading bots, and even entire AI hedge funds. Notable open-source projects include jev-trader, which asks Jev for buy/sell decisions about every 0.3 seconds and executes on Monad, and jev-trade, which reads Hyperliquid order books and lets Jev decide.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><strong>洛克船长</strong> · @slashui</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/MLflow/status/2106038472779710951"><img src="https://pbs.twimg.com/media/HTomE0CW8AAdAwd?format=jpg&amp;name=medium" alt="Jev Performance on LLM Judge Dataset · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MLflow/status/2106038472779710951">Jev Performance on LLM Judge Dataset</a></h3>
-<p>Jev achieved 64/72 human labels on a harder LLM-judge dataset, while GPT-OSS-120B scored 72/72. Jev&#39;s median latency is 0.20s vs 1.44s, with an estimated cost of $0.020 per 1,000 judgments. Retrospective analysis shows routing uncertain judgments to a second model corrected observed misses.</p>
-<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
-<p><strong>MLflow</strong> · @MLflow</p>
+<a href="https://x.com/hangyver/status/2106199654069305467"><img src="https://pbs.twimg.com/media/HTq5a04bEAAWy6P?format=jpg&amp;name=medium" alt="Upstage launches Solar Decision, aiming to beat Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hangyver/status/2106199654069305467">Upstage launches Solar Decision, aiming to beat Jev</a></h3>
+<p>Upstage has unveiled Solar Decision, a decision-focused model claiming 87.0% accuracy on JevBench (ranked #1), 0.14s response time (2x faster than Jev), 512k context, and $0.05 per million tokens.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Gyver</strong> · @hangyver</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/EM360Tech/status/2106038065617895542"><img src="https://pbs.twimg.com/media/HTomPffX0AAkzeQ?format=jpg&amp;name=medium" alt="What Is Jev AI? Understanding Structured Decision Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/EM360Tech/status/2106038065617895542">What Is Jev AI? Understanding Structured Decision Models</a></h3>
-<p>EM360Tech explains how Jev AI makes structured decisions, how it differs from an LLM, and where decision models could fit into enterprise AI.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>EM360Tech</strong> · @EM360Tech</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/BuildByLuna/status/2106197075029610584"><img src="https://pbs.twimg.com/media/HTq3EvvbUAAzsBM?format=jpg&amp;name=medium" alt="Jev 3 Weeks In: ~25% of Fortune 500 Using It, 1T Tokens Daily · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/BuildByLuna/status/2106197075029610584">Jev 3 Weeks In: ~25% of Fortune 500 Using It, 1T Tokens Daily</a></h3>
+<p>TypeSafe&#39;s CEO says Jev has been adopted by about 25% of Fortune 500 companies within roughly three weeks of launch, processing about 1 trillion tokens daily. Jev is not for writing or chatting; it handles classification, scoring, and structured decisions. These figures are currently self-disclosed by TypeSafe.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>Luna</strong> · @BuildByLuna</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/agenteer/status/2106037987762958393"><img src="https://pbs.twimg.com/media/HTodAFIWIAEyhSB?format=jpg&amp;name=medium" alt="Jev AI Explained: Decision Model vs Chat Model and How to Use It · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/agenteer/status/2106037987762958393">Jev AI Explained: Decision Model vs Chat Model and How to Use It</a></h3>
-<p>Jev, from TypeSafe, is a decision model that picks a category, answers yes/no, or scores against a scale. This post provides a hands-on explanation of what a decision model is, why it differs from a chat model, and how to use it to build your own tools.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Charles Shen</strong> · @agenteer</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ShikaseY/status/2106192517985386725"><img src="https://pbs.twimg.com/amplify_video_thumb/2106191903251460096/img/wwn4UPJb9wdxzSM_.jpg" alt="Playing Breakout with JEV-CPU · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ShikaseY/status/2106192517985386725">Playing Breakout with JEV-CPU</a></h3>
+<p>The author shares their experience of using JEV-CPU to control a Breakout game, noting that the game is load-heavy due to frequent decision-making.</p>
+<p><strong>26</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>Yoshimi Shikase</strong> · @ShikaseY</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/thegreatest_sv/status/2106038747485855844"><img src="https://pbs.twimg.com/amplify_video_thumb/2105999476120797184/img/hRRwxPX6tPezxLLA.jpg" alt="Building an Automated Newsroom with Grok and JEV · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/thegreatest_sv/status/2106038747485855844">Building an Automated Newsroom with Grok and JEV</a></h3>
-<p>The author uses Grok to hunt viral X posts, JEV to decide what deserves attention, and only shows up to approve.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>kiosa</strong> · @thegreatest_sv</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/slashui/status/2106204253593427973"><img src="https://pbs.twimg.com/amplify_video_thumb/2106204092981035008/img/CGvR9zBZctsSfLuK.jpg" alt="Jev&#39;s First Week: Traders&#39; AI Trading Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/slashui/status/2106204253593427973">Jev&#39;s First Week: Traders&#39; AI Trading Tools</a></h3>
+<p>The post describes that within a week of Jev&#39;s launch, traders have developed real-time order books, signals, trading bots, and even entire AI hedge funds. Notable open-source projects include jev-trader, which asks Jev for buy/sell decisions about every 0.3 seconds and executes on Monad, and jev-trade, which reads Hyperliquid order books and lets Jev decide.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><strong>洛克船长</strong> · @slashui</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/agenteer/status/2106037987762958393"><img src="https://pbs.twimg.com/media/HTodAFIWIAEyhSB?format=jpg&amp;name=medium" alt="Jev AI Explained: Decision Model vs Chat Model and How to Use It · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/agenteer/status/2106037987762958393">Jev AI Explained: Decision Model vs Chat Model and How to Use It</a></h3>
-<p>Jev, from TypeSafe, is a decision model that picks a category, answers yes/no, or scores against a scale. This post provides a hands-on explanation of what a decision model is, why it differs from a chat model, and how to use it to build your own tools.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Charles Shen</strong> · @agenteer</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ShikaseY/status/2106192517985386725"><img src="https://pbs.twimg.com/amplify_video_thumb/2106191903251460096/img/wwn4UPJb9wdxzSM_.jpg" alt="Playing Breakout with JEV-CPU · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ShikaseY/status/2106192517985386725">Playing Breakout with JEV-CPU</a></h3>
+<p>The author shares their experience of using JEV-CPU to control a Breakout game, noting that the game is load-heavy due to frequent decision-making.</p>
+<p><strong>26</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>Yoshimi Shikase</strong> · @ShikaseY</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/mertdurmazer/status/2106037266649166261"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106036937433972736/pu/img/5CgaipoSIn4h3P6T.jpg" alt="Analyzing 7 Creators&#39; Top Posts with Jev Reveals What Works · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/mertdurmazer/status/2106037266649166261">Analyzing 7 Creators&#39; Top Posts with Jev Reveals What Works</a></h3>
-<p>The author had Jev analyze 221 top posts from 7 creators in 51 seconds for just $0.032, making 1,547 decisions. Findings: how-to hooks save 3.2x the median, real numbers as proof 2.1x, and text-only posts only 0.5x.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Mert Durmazer</strong> · @mertdurmazer</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/GenAISpotlight/status/2106189496811229310"><img src="https://pbs.twimg.com/media/HTqwL2FXoAAICla?format=jpg&amp;name=medium" alt="TypeSafe Jev Model Sparks Clone Wave and Decision APIs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GenAISpotlight/status/2106189496811229310">TypeSafe Jev Model Sparks Clone Wave and Decision APIs</a></h3>
+<p>According to Gen AI Spotlight, two weeks after TypeSafe AI&#39;s millisecond Jev model debuted, it triggered a wave of copycats and open-source clones, with Cloudflare releasing an open-weight version.</p>
+<p><strong>90</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 90</p>
+<p><strong>Gen AI Spotlight</strong> · @GenAISpotlight</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/0rdlibrary/status/2106031938481926301"><img src="https://pbs.twimg.com/tweet_video_thumb/HTn2DtvXUAI-zsL.jpg" alt="Experimenting with Jev and clef model on an ore miner · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2106031938481926301">Experimenting with Jev and clef model on an ore miner</a></h3>
-<p>In this tweet, 8Bit🦞 discusses an interesting take — if certain assumptions hold, ore&#39;s mining model could do much more than expected. He plans to experiment live using his new @ore computer miner, combining @typesafeai Jev with his own clef model to see if they can build something powerful.</p>
-<p><strong>166</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 166</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/7uanF/status/2106180095102824594"><img src="https://pbs.twimg.com/media/HTqnmjiXEAAIJr4?format=jpg&amp;name=medium" alt="Jev-ultrafast Browser Agent Demo: Natural Language Flight Search · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/7uanF/status/2106180095102824594">Jev-ultrafast Browser Agent Demo: Natural Language Flight Search</a></h3>
+<p>This post demonstrates Jev-ultrafast&#39;s browser-use agent, which completes a Google Flights search from Zurich to London in 7.1 seconds. The user provides a natural language goal, and the agent selects operations and elements automatically, with a small LLM only writing text when TYPETEXT is needed.</p>
+<p><strong>223</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 223</p>
+<p><strong>Juan</strong> · @7uanF</p>
 </td>
 </tr>
 </table>

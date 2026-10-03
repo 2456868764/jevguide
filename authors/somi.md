@@ -1,9 +1,10 @@
 # Somi
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-02T23:34:27.000Z | [Jev Efficiently Catches Phishing Emails](https://x.com/somi_ai/status/2106165949699338531) | 网络安全 | Somi | 278 |
 | 2026-09-30T13:01:50.000Z | [Jev Model Blocks Phishing Emails](https://x.com/somi_ai/status/2105281967793246600) | 网络安全 | Somi | 43 |
 | 2026-09-23 | [Low-cost computer use with OCR and TypeSafe Jev](https://x.com/somi_ai/status/2102619045577273361) | 智能体 | Somi | 33 |
 | 2026-09-22 | [Jev tiny model dynamically adjusts reasoning effort in Codex, cutting Astra bill](https://x.com/somi_ai/status/2102220459962204635) | 开发者工具 | Somi | 157 |

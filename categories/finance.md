@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 238 | 133 | 107 | 1.2M |
+| 240 | 134 | 108 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/slashui/status/2106204253593427973"><img src="https://pbs.twimg.com/amplify_video_thumb/2106204092981035008/img/CGvR9zBZctsSfLuK.jpg" alt="Jev&#39;s First Week: Traders&#39; AI Trading Tools · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/slashui/status/2106204253593427973">Jev&#39;s First Week: Traders&#39; AI Trading Tools</a></h3>
+<p>The post describes that within a week of Jev&#39;s launch, traders have developed real-time order books, signals, trading bots, and even entire AI hedge funds. Notable open-source projects include jev-trader, which asks Jev for buy/sell decisions about every 0.3 seconds and executes on Monad, and jev-trade, which reads Hyperliquid order books and lets Jev decide.</p>
+<p><strong>中文摘要：</strong>帖子介绍Jev上线不到一周，交易员们纷纷开发实时盘口、信号、交易机器人甚至AI对冲基金。其中包括jev-trader约每0.3秒询问Jev买卖决策并在Monad上执行，以及jev-trade读取Hyperliquid订单簿后由Jev决策等开源项目。</p>
+<p><strong>洛克船长</strong> · @slashui · 2026-10-03T02:06:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/slashui/status/2106204253593427973">在 X 查看原帖</a> · <a href="https://t.co/lq9te4TdfM">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/51bodila/status/2106183466551300505"><img src="https://pbs.twimg.com/media/HTqqg1EXoAACXZb?format=jpg&amp;name=medium" alt="Building a 24/7 AI Trading Bot with GrokBot + Opus 5.5 + Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/51bodila/status/2106183466551300505">Building a 24/7 AI Trading Bot with GrokBot + Opus 5.5 + Jev</a></h3>
+<p>The author shares experience using GrokBot, Opus 5.5, and Jev to build powerful AI trading bots, and mentions an 8-page course PDF showing how to research profitable strategies 24/7 with this combination.</p>
+<p><strong>中文摘要：</strong>作者分享使用GrokBot、Opus 5.5和Jev组合构建强大AI交易机器人的经验，并提到其课程PDF中展示了如何利用该组合24/7研究盈利策略。</p>
+<p><strong>bodila</strong> · @51bodila · 2026-10-03T00:44:04.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 537</p>
+<p><a href="https://x.com/51bodila/status/2106183466551300505">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tobiadonadon_/status/2106030693818261649"><img src="https://pbs.twimg.com/media/HToMGJQWUAA4mNQ?format=jpg&amp;name=medium" alt="Build a Prediction Market Trading Agent with Jev · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 337 | 256 | 85 | 588K |
+| 341 | 259 | 86 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JungleSilicon/status/2106214524475060334"><img src="https://pbs.twimg.com/amplify_video_thumb/2106214374696534016/img/MvOqBJ9hQtbw5h8z.jpg" alt="3D Retro Fantasy Character Creator Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JungleSilicon/status/2106214524475060334">3D Retro Fantasy Character Creator Powered by Jev</a></h3>
+<p>A creator shows how to build a 3D retro-style character creator using the Jev model, turning Baldur&#39;s Gate II into an AI-powered Zelda-like experience.</p>
+<p><strong>中文摘要：</strong>创作者展示如何借助 Jev 模型制作 3D 复古风格的角色创建器，并以此将《博德之门 II》改造成 AI 驱动的类似《塞尔达》的游戏体验。</p>
+<p><strong>Silicon Jungle</strong> · @JungleSilicon · 2026-10-03T02:47:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 257</p>
+<p><a href="https://x.com/JungleSilicon/status/2106214524475060334">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nariyuki_osf/status/2106213736818364668"><img src="https://pbs.twimg.com/media/HTrF55BboAAK0UU?format=jpg&amp;name=medium" alt="Automating visual novel direction with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nariyuki_osf/status/2106213736818364668">Automating visual novel direction with Jev</a></h3>
+<p>A creator uses Jev to automatically generate direction candidates from scripts, applying them as they write to boost visual novel production efficiency.</p>
+<p><strong>中文摘要：</strong>创作者利用Jev从剧本自动生成演出候选，边写边应用，提升视觉小说制作效率。</p>
+<p><strong>なりゆき｜OSCILLATION FUTURES</strong> · @nariyuki_osf · 2026-10-03T02:44:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/nariyuki_osf/status/2106213736818364668">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lvn_crypto/status/2106178605567127770"><img src="https://pbs.twimg.com/media/HTqmRdWbkAAzlLt?format=jpg&amp;name=medium" alt="Jev FC Buddy: Real-Time Gaming Agent Service · 原帖图片" width="100%"></a>
@@ -31,6 +55,30 @@
 <p><strong>Yoshimi Shikase</strong> · @ShikaseY · 2026-10-03T00:18:54.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/ShikaseY/status/2106177134674993357">在 X 查看原帖</a> · <a href="https://t.co/5AL9zjT2Li">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dani_avila7/status/2106146151594344774"><img src="https://pbs.twimg.com/amplify_video_thumb/2106145466652020736/img/2fTPgP9ebyopLELa.jpg" alt="Play Against Jev with Claude Chess Mod on Desktop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dani_avila7/status/2106146151594344774">Play Against Jev with Claude Chess Mod on Desktop</a></h3>
+<p>Install the Claude Chess Mod via npx claude-code-templates@latest --mod games/chess, add your @typesafeai API key to settings.json, and enjoy playing against Jev on desktop.</p>
+<p><strong>中文摘要：</strong>使用 npx claude-code-templates@latest --mod games/chess 安装 Claude Chess Mod，并在 settings.json 中配置 @typesafeai API key，即可在桌面端正常游玩并与 Jev 对战。</p>
+<p><strong>Daniel San</strong> · @dani_avila7 · 2026-10-02T22:15:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/dani_avila7/status/2106146151594344774">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zaddyfi/status/2106145953417711766"><img src="https://pbs.twimg.com/amplify_video_thumb/2106130632812163072/img/Vg8pHJiN8cKVaqpN.jpg" alt="Testing the New JEV Model&#39;s Quick Decision-Making in Crossy Road · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zaddyfi/status/2106145953417711766">Testing the New JEV Model&#39;s Quick Decision-Making in Crossy Road</a></h3>
+<p>Zaddy shares a test of the new JEV model playing Crossy Road in the browser, showcasing its quick reactions, and asks for game suggestions to test next.</p>
+<p><strong>中文摘要：</strong>Zaddy 分享了新 JEV 模型在浏览器中玩 Crossy Road 的测试，展示了其快速反应能力，并邀请推荐更多游戏进行测试。</p>
+<p><strong>Zaddy</strong> · @zaddyfi · 2026-10-02T22:15:00.000Z</p>
+<p>💬 9 &nbsp; 🔁 1 &nbsp; ♡ 31 &nbsp; 📊 939</p>
+<p><a href="https://x.com/zaddyfi/status/2106145953417711766">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

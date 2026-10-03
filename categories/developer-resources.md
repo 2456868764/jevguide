@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 307 | 121 | 186 | 419K |
+| 311 | 124 | 187 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eandualem/status/2106150622395527388"><img src="https://pbs.twimg.com/amplify_video_thumb/2106150008697266176/img/9oGgK5unqDFq-J0L.jpg" alt="Entune: Dictation + Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eandualem/status/2106150622395527388">Entune: Dictation + Jev</a></h3>
+<p>The author shares an open-source project combining Jev with dictation, demonstrating how Jev can be integrated into real-world applications.</p>
+<p><strong>中文摘要：</strong>作者分享了一个将Jev与听写功能结合的开源项目，展示Jev在实际应用中的集成方式。</p>
+<p><strong>Elias Andualem</strong> · @eandualem · 2026-10-02T22:33:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/eandualem/status/2106150622395527388">在 X 查看原帖</a> · <a href="https://t.co/gQzfCJU47f">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenRouter/status/2106144438389280848"><img src="https://pbs.twimg.com/media/HTqHNJOasAAQUE0?format=jpg&amp;name=medium" alt="OpenRouter Launches Model Router Benchmarks, Including Jev Router · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OpenRouter/status/2106144438389280848">OpenRouter Launches Model Router Benchmarks, Including Jev Router</a></h3>
+<p>OpenRouter introduces Model Router Benchmarks, comparing 7 routers side by side on quality, speed, and cost across 6 benchmarks. Jev Router, Unbiased Pareto, NVIDIA Switchyard, and more are available to use now.</p>
+<p><strong>中文摘要：</strong>OpenRouter推出模型路由器基准测试，可在6个基准上并排比较7个路由器的质量、速度和成本，现已可试用Jev Router、Unbiased Pareto、NVIDIA Switchyard等。</p>
+<p><strong>OpenRouter</strong> · @OpenRouter · 2026-10-02T22:08:59.000Z</p>
+<p>💬 9 &nbsp; 🔁 13 &nbsp; ♡ 105 &nbsp; 📊 13K</p>
+<p><a href="https://x.com/OpenRouter/status/2106144438389280848">在 X 查看原帖</a> · <a href="https://t.co/mboQRoDX4J">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eandualem/status/2106143661096362166"><img src="https://pbs.twimg.com/amplify_video_thumb/2106143115732000769/img/zQnrNyOS_CxZl419.jpg" alt="Entune: A project combining Dictation and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eandualem/status/2106143661096362166">Entune: A project combining Dictation and Jev</a></h3>
+<p>Entune is a project that combines dictation with the Jev model, hosted on GitHub.</p>
+<p><strong>中文摘要：</strong>Entune 是一个将听写功能与 Jev 模型结合的项目，代码托管在 GitHub 上。</p>
+<p><strong>Elias Andualem</strong> · @eandualem · 2026-10-02T22:05:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 84</p>
+<p><a href="https://x.com/eandualem/status/2106143661096362166">在 X 查看原帖</a> · <a href="https://t.co/gQzfCJTwhH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rauchg/status/2106139305131569178"><img src="https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg" alt="A Wonderful Writeup on Jev and Python · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rauchg/status/2106139305131569178">A Wonderful Writeup on Jev and Python</a></h3>
+<p>Guillermo Rauch recommends a writeup on Jev and Python, worth attention from developers.</p>
+<p><strong>中文摘要：</strong>Guillermo Rauch 推荐了一篇关于 Jev 与 Python 的文章，值得开发者关注。</p>
+<p><strong>Guillermo Rauch</strong> · @rauchg · 2026-10-02T21:48:35.000Z</p>
+<p>💬 12 &nbsp; 🔁 5 &nbsp; ♡ 119 &nbsp; 📊 16K</p>
+<p><a href="https://x.com/rauchg/status/2106139305131569178">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/calebfahlgren/status/2106036451150536895"><img src="https://pbs.twimg.com/media/HTok5XRWEAA74J1?format=png&amp;name=medium" alt="Run Jev Open Alternatives via llama.cpp · 原帖图片" width="100%"></a>

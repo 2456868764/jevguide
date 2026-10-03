@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 360 | 206 | 155 | 3.0M |
+| 362 | 206 | 157 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jscoderKing/status/2106211096931516810"><img src="https://pbs.twimg.com/media/HTrDtOOXkAAy41Z?format=jpg&amp;name=medium" alt="Integrating Jev for Routing in a Multi-Agent Codex Setup · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jscoderKing/status/2106211096931516810">Integrating Jev for Routing in a Multi-Agent Codex Setup</a></h3>
+<p>A user shares experience configuring multi-agent roles for Codex, where Jev is integrated across projects for low-impact routing and falls back to the main agent when uncertain, noting that role config alone doesn&#39;t enable auto-triggering.</p>
+<p><strong>中文摘要：</strong>用户分享为 Codex 配置多智能体分工的经验，其中 Jev 接入所有项目，处理低影响路由并在不确定时回退到主代理，同时强调角色配置不等于自动触发，需分开验证。</p>
+<p><strong>Fly哥</strong> · @jscoderKing · 2026-10-03T02:33:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/jscoderKing/status/2106211096931516810">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/7uanF/status/2106180095102824594"><img src="https://pbs.twimg.com/media/HTqnmjiXEAAIJr4?format=jpg&amp;name=medium" alt="Jev-ultrafast Browser Agent Demo: Natural Language Flight Search · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Juan</strong> · @7uanF · 2026-10-03T00:30:40.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 223</p>
 <p><a href="https://x.com/7uanF/status/2106180095102824594">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Naa_Crypt0/status/2106138403590803827"><img src="https://pbs.twimg.com/media/HToYfN5akAAJvEo?format=jpg&amp;name=medium" alt="Jev FC Buddy Breaks the Traditional Agent Marketplace Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Naa_Crypt0/status/2106138403590803827">Jev FC Buddy Breaks the Traditional Agent Marketplace Model</a></h3>
+<p>Most agent marketplaces still assume a &#39;give task → wait → receive file&#39; model, but Jev FC Buddy has agents participate with you in real time. Its value lies not in deliverables but in presence, state, and timing.</p>
+<p><strong>中文摘要：</strong>大多数智能体市场仍假设“给任务→等待→收文件”的模式，而 Jev FC Buddy 让智能体与你实时协同参与，价值不在于交付物，而在于存在、状态与时机的把握。</p>
+<p><strong>NaK(✱,✱)</strong> · @Naa_Crypt0 · 2026-10-02T21:45:00.000Z</p>
+<p>💬 28 &nbsp; 🔁 0 &nbsp; ♡ 26 &nbsp; 📊 239</p>
+<p><a href="https://x.com/Naa_Crypt0/status/2106138403590803827">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106021673879367884"><img src="https://pbs.twimg.com/media/HToXjVja8AAPOoK?format=png&amp;name=medium" alt="Jev Voice Browser · 原帖图片" width="100%"></a>

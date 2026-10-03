@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 507 | 222 | 286 | 1.6M |
+| 509 | 222 | 288 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/deskrex/status/2106217681883947250"><img src="https://pbs.twimg.com/media/HTqarULboAAj7he?format=jpg&amp;name=medium" alt="Jev: An AI that Returns Typed Judgments · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/deskrex/status/2106217681883947250">Jev: An AI that Returns Typed Judgments</a></h3>
+<p>This post discusses whether AI outputs must always be text, introducing Jev as an AI specialized in returning typed judgments such as options, scores, and truth values for input states, with a design distinct from post-processing free text.</p>
+<p><strong>中文摘要：</strong>该帖子讨论AI输出是否必须为文本，介绍Jev是专注于针对输入状态返回选项、分数、真伪等类型化判断的AI，其设计与自由文本整理不同。</p>
+<p><strong>Deskrex.AI - 市場調査のAIデスクリサーチエージェント</strong> · @deskrex · 2026-10-03T03:00:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/deskrex/status/2106217681883947250">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/randrade/status/2106216101214667112"><img src="https://pbs.twimg.com/media/HTrIXmBX0AEcXLw?format=jpg&amp;name=medium" alt="How does Jev choose which model responds? From assumption to measurable pilot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/randrade/status/2106216101214667112">How does Jev choose which model responds? From assumption to measurable pilot</a></h3>
+<p>This Substack article explores Jev&#39;s model selection mechanism, starting from the initial hypothesis and introducing how to build a measurable pilot to verify whether Jev can autonomously choose the best response model, covering working principles and implementation details.</p>
+<p><strong>中文摘要：</strong>这篇Substack文章探讨Jev的模型选择机制，从最初假设出发，介绍如何构建可测量的试点来验证Jev是否能自主选择最佳响应模型，涉及工作原理与实现细节。</p>
+<p><strong>Roberto Andrade F.</strong> · @randrade · 2026-10-03T02:53:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/randrade/status/2106216101214667112">在 X 查看原帖</a> · <a href="https://t.co/qHSClP0q83">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zetic_ai/status/2106181659653718052"><img src="https://pbs.twimg.com/amplify_video_thumb/2106181266291003392/img/AhdMrlwyJpOl7sgW.jpg" alt="Jev-like decision model inference cut to 17ms · 原帖视频截图" width="100%"></a>

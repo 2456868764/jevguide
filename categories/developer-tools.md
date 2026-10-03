@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 487 | 248 | 241 | 3.6M |
+| 489 | 250 | 241 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/marcbenedet/status/2106207880861159467"><img src="https://pbs.twimg.com/amplify_video_thumb/2103279798059491328/img/CZtEA5ZcsrXMCtfM.jpg" alt="Senior dev uses Jev to fix production bug · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/marcbenedet/status/2106207880861159467">Senior dev uses Jev to fix production bug</a></h3>
+<p>The post mentions a senior developer using Jev (TypeSafe&#39;s AI model) in practice to fix a bug in production, demonstrating Jev&#39;s application in real-world debugging.</p>
+<p><strong>中文摘要：</strong>该帖子提到高级开发人员在实际工作中使用Jev（TypeSafe的AI模型）来修复生产环境中的bug，展示了Jev在真实代码调试场景中的应用。</p>
+<p><strong>Gringo Marc Benedet de Promptopia</strong> · @marcbenedet · 2026-10-03T02:21:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/marcbenedet/status/2106207880861159467">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/BenENewton/status/2106185721929187523"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106185709602193408/pu/img/OmrkXcfYKa8cRQBL.jpg" alt="Replacing chat models with Jev for yes/no calls · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-03T00:53:01.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/BenENewton/status/2106185721929187523">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vercel/status/2106139101422567748"><img src="https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg" alt="Jev is now in the AI SDK for Python · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/vercel/status/2106139101422567748">Jev is now in the AI SDK for Python</a></h3>
+<p>Vercel announces Jev is now integrated into the AI SDK for Python, with two experiments demonstrating its capabilities in text detection and code generation.</p>
+<p><strong>中文摘要：</strong>Vercel宣布Jev已集成至AI SDK for Python，并通过两个实验演示了其在文本识别和代码生成中的能力。</p>
+<p><strong>Vercel</strong> · @vercel · 2026-10-02T21:47:46.000Z</p>
+<p>💬 15 &nbsp; 🔁 10 &nbsp; ♡ 109 &nbsp; 📊 26K</p>
+<p><a href="https://x.com/vercel/status/2106139101422567748">在 X 查看原帖</a> · <a href="https://t.co/fWPx6k3Gw3">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/joseairosa/status/2106037146649767940"><img src="https://pbs.twimg.com/media/HToln8PXoAAb-R_?format=jpg&amp;name=medium" alt="Jev vs Cloudflare Clef Models: Real-World QA Benchmark · 原帖图片" width="100%"></a>

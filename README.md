@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4997</strong><br>curated posts</td>
-<td align="center"><strong>2571</strong><br>original videos</td>
+<td align="center"><strong>5007</strong><br>curated posts</td>
+<td align="center"><strong>2579</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>863</strong> showcases · <strong>359</strong> videos</p>
+<p><strong>864</strong> showcases · <strong>360</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>371</strong> showcases · <strong>211</strong> videos</p>
+<p><strong>374</strong> showcases · <strong>214</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>324</strong> showcases · <strong>131</strong> videos</p>
+<p><strong>326</strong> showcases · <strong>132</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>246</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>248</strong> showcases · <strong>140</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>110</strong> showcases · <strong>83</strong> videos</p>
+<p><strong>111</strong> showcases · <strong>84</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>27</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>28</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/torfinpd/status/2107057794922745940"><img src="https://pbs.twimg.com/amplify_video_thumb/2107057659799068672/img/ukV84nf6Ejoa5oTR.jpg" alt="Jev model cloned for free, 13x faster on a laptop · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/torfinpd/status/2107057794922745940">Jev model cloned for free, 13x faster on a laptop</a></h3>
-<p>A startup in $10B talks got cloned for free: TypeSafe&#39;s Jev model. The copy runs on a laptop CPU with a 26ms response, 13x faster than the 344ms on TypeSafe&#39;s own API, and took days instead of years.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 3</p>
-<p><strong>Thorfinn</strong> · @torfinpd</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2107069287613558841">Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives</a></h3>
+<p>A Chinese tutorial for developers on TypeSafe Jev, explaining how to use Choice, Score, and Noul primitives to directly integrate structured probability outputs into code instead of parsing generated text.</p>
+<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/kenchan_aidx/status/2107056585084486016"><img src="https://pbs.twimg.com/media/HT3EthtakAAwO_4?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Plays Doom · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kenchan_aidx/status/2107056585084486016">TypeSafe AI&#39;s Jev Plays Doom</a></h3>
-<p>TypeSafe AI demonstrates its Jev model driving real-time Doom gameplay with roughly 10 queries per second, at a cost of about $7 per hour.</p>
-<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mikadzyki_NFT/status/2107068217864630584"><img src="https://pbs.twimg.com/amplify_video_thumb/2107068175275753472/img/axfsIKI1M3KczyCT.jpg" alt="OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mikadzyki_NFT/status/2107068217864630584">OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code</a></h3>
+<p>The post describes combining OPUS 5.5, FABLE 5.1, and JEV into a development team in Claude Code, where JEV acts as an AI advisor providing independent review at decision points while the main model continues coding.</p>
+<p><strong>141</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 141</p>
+<p><strong>Mikadzyki🌙</strong> · @Mikadzyki_NFT</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/melvindvivas/status/2107055953422254085"><img src="https://pbs.twimg.com/media/HT3DrT8bMAAoQ3Q?format=jpg&amp;name=medium" alt="JevDev v0.1.3 Released · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/melvindvivas/status/2107055953422254085">JevDev v0.1.3 Released</a></h3>
-<p>JevDev v0.1.3 is released — a free development environment for the Jev model by TypeSafeAI. This release fixes experiments and includes QoL updates for projects.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>Melvin Vivas</strong> · @melvindvivas</p>
+<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/staskulesh/status/2107063717011808345"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063317575413760/img/EuQ-qBoriVs4y_GC.jpg" alt="Building a Modular Synth Jamming Buddy with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/staskulesh/status/2107063717011808345">Building a Modular Synth Jamming Buddy with Jev</a></h3>
+<p>Stas Kulesh shares his months-long project turning his MacBook Pro into a modular synthesizer, hoping to create an interactive jamming buddy for weekly guitar practice using TypeSafe&#39;s Jev model via OpenRouter.</p>
+<p><strong>51</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><strong>Stas Kulesh</strong> · @staskulesh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/kevincodex/status/2107055574655676767"><img src="https://pbs.twimg.com/amplify_video_thumb/2107055509404884992/img/pLRqimvjcC_3H6sO.jpg" alt="Jev Spider: A Jev-powered web component re-arranger · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kevincodex/status/2107055574655676767">Jev Spider: A Jev-powered web component re-arranger</a></h3>
-<p>Kevin introduces Jev Spider, a Jev-powered app that decides the size, color, and position of website components and rearranges them based on its preference, with a live demo link.</p>
-<p><strong>448</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 448</p>
-<p><strong>Kevin</strong> · @kevincodex</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Asteri_eth/status/2107063682622451873"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063491974631424/img/X_Mg_m_Fzbr99uaG.jpg" alt="JEV Agent Ran Wild at 3AM · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Asteri_eth/status/2107063682622451873">JEV Agent Ran Wild at 3AM</a></h3>
+<p>A user shares how their JEV agent detected a virus at 3:42 AM, said yes 11 times in 19 minutes and burned $3,043 before their Claude bots stopped listening. Night 5 of the crawler + Jev + Claude bots run.</p>
+<p><strong>276</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 276</p>
+<p><strong>Asteri</strong> · @Asteri_eth</p>
 </td>
 </tr>
 </table>
@@ -295,37 +295,37 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/torfinpd/status/2107057794922745940"><img src="https://pbs.twimg.com/amplify_video_thumb/2107057659799068672/img/ukV84nf6Ejoa5oTR.jpg" alt="Jev model cloned for free, 13x faster on a laptop · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/torfinpd/status/2107057794922745940">Jev model cloned for free, 13x faster on a laptop</a></h3>
-<p>A startup in $10B talks got cloned for free: TypeSafe&#39;s Jev model. The copy runs on a laptop CPU with a 26ms response, 13x faster than the 344ms on TypeSafe&#39;s own API, and took days instead of years.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 3</p>
-<p><strong>Thorfinn</strong> · @torfinpd</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/QingQ77/status/2107069287613558841">Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives</a></h3>
+<p>A Chinese tutorial for developers on TypeSafe Jev, explaining how to use Choice, Score, and Noul primitives to directly integrate structured probability outputs into code instead of parsing generated text.</p>
+<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><strong>Geek Lite</strong> · @QingQ77</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/kevincodex/status/2107055574655676767"><img src="https://pbs.twimg.com/amplify_video_thumb/2107055509404884992/img/pLRqimvjcC_3H6sO.jpg" alt="Jev Spider: A Jev-powered web component re-arranger · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kevincodex/status/2107055574655676767">Jev Spider: A Jev-powered web component re-arranger</a></h3>
-<p>Kevin introduces Jev Spider, a Jev-powered app that decides the size, color, and position of website components and rearranges them based on its preference, with a live demo link.</p>
-<p><strong>448</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 448</p>
-<p><strong>Kevin</strong> · @kevincodex</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Asteri_eth/status/2107063682622451873"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063491974631424/img/X_Mg_m_Fzbr99uaG.jpg" alt="JEV Agent Ran Wild at 3AM · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Asteri_eth/status/2107063682622451873">JEV Agent Ran Wild at 3AM</a></h3>
+<p>A user shares how their JEV agent detected a virus at 3:42 AM, said yes 11 times in 19 minutes and burned $3,043 before their Claude bots stopped listening. Night 5 of the crawler + Jev + Claude bots run.</p>
+<p><strong>276</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 276</p>
+<p><strong>Asteri</strong> · @Asteri_eth</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/hummusonrails/status/2107055044575293695"><img src="https://pbs.twimg.com/media/HT3DU-3XgAA9EE7?format=jpg&amp;name=medium" alt="Benchmarking Jev vs Clef Locally · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hummusonrails/status/2107055044575293695">Benchmarking Jev vs Clef Locally</a></h3>
-<p>A developer shares initial observations from benchmarking Jev against Clef on a local machine, asking whether to write up full results.</p>
-<p><strong>36</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
-<p><strong>Ben Greenberg</strong> · @hummusonrails</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/nrqa__/status/2107063062280786174"><img src="https://pbs.twimg.com/tweet_video_thumb/HT3KqF6b0AEithl.jpg" alt="How to Get Started with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/nrqa__/status/2107063062280786174">How to Get Started with Jev</a></h3>
+<p>Official guide to TypeSafe&#39;s Jev model, featuring skip-writing, typed questions, confidence scores, and a browser playground.</p>
+<p><strong>3.5K</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 35 &nbsp; 📊 3.5K</p>
+<p><strong>Nelly;</strong> · @nrqa__</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/kenchan_aidx/status/2107043281612026092"><img src="https://pbs.twimg.com/media/HT24nY3aEAAgQRk?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kenchan_aidx/status/2107043281612026092">TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence</a></h3>
-<p>The post introduces TypeSafe AI&#39;s Jev model, scheduled for early access in mid-September 2026. Unlike typical AI, Jev does not generate any text; it only returns typed judgments and confidence levels, and can only be asked three types of questions.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/kenchan_aidx/status/2107056585084486016"><img src="https://pbs.twimg.com/media/HT3EthtakAAwO_4?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Plays Doom · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kenchan_aidx/status/2107056585084486016">TypeSafe AI&#39;s Jev Plays Doom</a></h3>
+<p>TypeSafe AI demonstrates its Jev model driving real-time Doom gameplay with roughly 10 queries per second, at a cost of about $7 per hour.</p>
+<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx</p>
 </td>
 </tr>

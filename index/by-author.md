@@ -5,8 +5,8 @@
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [CyrilXBT](../authors/cyrilxbt.md) — 16
 - [Florian S](../authors/florian-s.md) — 16
+- [Geek Lite](../authors/geek-lite.md) — 15
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 15
-- [Geek Lite](../authors/geek-lite.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 12
 - [WTome](../authors/wtome.md) — 12
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
@@ -37,6 +37,7 @@
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
+- [Asteri](../authors/asteri.md) — 6
 - [Automater](../authors/automater.md) — 6
 - [AVB](../authors/avb.md) — 6
 - [Avid](../authors/avid.md) — 6
@@ -52,7 +53,6 @@
 - [恒星sun](../authors/恒星sun.md) — 6
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 5
 - [Artimind](../authors/artimind.md) — 5
-- [Asteri](../authors/asteri.md) — 5
 - [AutoTrust](../authors/autotrust.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
 - [davepoon](../authors/davepoon.md) — 5
@@ -122,6 +122,7 @@
 - [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 4
 - [Ricker](../authors/ricker.md) — 4
 - [RM 🖤](../authors/rm.md) — 4
+- [Ryven](../authors/ryven.md) — 4
 - [Sac](../authors/sac.md) — 4
 - [Skrilla](../authors/skrilla.md) — 4
 - [starmex](../authors/starmex.md) — 4
@@ -245,7 +246,6 @@
 - [rody](../authors/rody.md) — 3
 - [RogerAI](../authors/rogerai.md) — 3
 - [rvaniaaa](../authors/rvaniaaa.md) — 3
-- [Ryven](../authors/ryven.md) — 3
 - [Samarth](../authors/samarth.md) — 3
 - [SECTOR](../authors/sector.md) — 3
 - [Shann³](../authors/shann3.md) — 3
@@ -420,6 +420,7 @@
 - [Irene - Fountain of Ideas](../authors/irene-fountain-of-ideas.md) — 2
 - [Isaac](../authors/isaac.md) — 2
 - [Issun Studio Japan](../authors/issun-studio-japan.md) — 2
+- [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 2
 - [Izumi Satoshi](../authors/izumi-satoshi.md) — 2
 - [J.𝙳𝚛𝚊𝚟𝚎𝚗](../authors/j-draven.md) — 2
 - [jaceyang](../authors/jaceyang.md) — 2
@@ -582,6 +583,7 @@
 - [Simeon Li](../authors/simeon-li.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [spect](../authors/spect.md) — 2
+- [Stas Kulesh](../authors/stas-kulesh.md) — 2
 - [Stas Slutsker](../authors/stas-slutsker.md) — 2
 - [stash](../authors/stash.md) — 2
 - [Steven Tey](../authors/steven-tey.md) — 2
@@ -890,6 +892,7 @@
 - [Alok](../authors/alok.md) — 1
 - [Along Rocket](../authors/along-rocket.md) — 1
 - [Alpha Batcher](../authors/alpha-batcher.md) — 1
+- [alpha404](../authors/alpha404.md) — 1
 - [Altay](../authors/altay.md) — 1
 - [Alter vortex](../authors/alter-vortex.md) — 1
 - [Alti](../authors/alti.md) — 1
@@ -1739,7 +1742,6 @@
 - [Istekhar khan](../authors/istekhar-khan.md) — 1
 - [it’s rivian](../authors/it-s-rivian.md) — 1
 - [IVAN | IA](../authors/ivan-ia.md) — 1
-- [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 1
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
@@ -2198,6 +2200,7 @@
 - [Miguel Ángel Durán](../authors/miguel-angel-duran.md) — 1
 - [Miguel Ángel Sabio | Negocios Reales](../authors/miguel-angel-sabio-negocios-reales.md) — 1
 - [Miguel Ríos Berríos](../authors/miguel-rios-berrios.md) — 1
+- [Mikadzyki🌙](../authors/mikadzyki.md) — 1
 - [Mike](../authors/mike.md) — 1
 - [Mike Kelly](../authors/mike-kelly.md) — 1
 - [Mike Moore](../authors/mike-moore.md) — 1
@@ -2305,6 +2308,7 @@
 - [Navin Kabra](../authors/navin-kabra.md) — 1
 - [Neeraj](../authors/neeraj.md) — 1
 - [Neil Agarwal](../authors/neil-agarwal.md) — 1
+- [Nelly;](../authors/nelly.md) — 1
 - [Neqyve](../authors/neqyve.md) — 1
 - [Nerd Snipe](../authors/nerd-snipe.md) — 1
 - [nerea](../authors/nerea.md) — 1
@@ -2399,6 +2403,7 @@
 - [OneWave AI](../authors/onewave-ai.md) — 1
 - [Onur Oztaskiran](../authors/onur-oztaskiran.md) — 1
 - [Oodle AI](../authors/oodle-ai.md) — 1
+- [oor.sol](../authors/oor-sol.md) — 1
 - [OpenRelayInc](../authors/openrelayinc.md) — 1
 - [OpenRoboto](../authors/openroboto.md) — 1
 - [opTrade AI](../authors/optrade-ai.md) — 1
@@ -2840,9 +2845,9 @@
 - [Sriram](../authors/sriram.md) — 1
 - [sritam](../authors/sritam.md) — 1
 - [SSSS.CRYPTOMAN⚡️AI](../authors/ssss-cryptoman-ai.md) — 1
-- [Stas Kulesh](../authors/stas-kulesh.md) — 1
 - [Stav Zilbershtein](../authors/stav-zilbershtein.md) — 1
 - [STEAV](../authors/steav.md) — 1
+- [Stein H Ludvigsen - Bitcoinˢᵛ](../authors/stein-h-ludvigsen-bitcoinsv.md) — 1
 - [Stephen Okita](../authors/stephen-okita.md) — 1
 - [Stephen W. Thomas](../authors/stephen-w-thomas.md) — 1
 - [Stephon Proctor, PhD](../authors/stephon-proctor-phd.md) — 1

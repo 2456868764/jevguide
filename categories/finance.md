@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 246 | 138 | 110 | 1.2M |
+| 248 | 140 | 110 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/imryven/status/2107061102391538084"><img src="https://pbs.twimg.com/amplify_video_thumb/2107061042714984448/img/BlKF-rNfJh7anc3i.jpg" alt="Jev Trading Bot Now Available · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/imryven/status/2107061102391538084">Jev Trading Bot Now Available</a></h3>
+<p>Jev, the weirdest model of 2026, is already trading, playing Doom, and piloting simulated drones. This project shows a trading bot: Jev reads the order book, answers buy or sell every 300ms block, and the bot posts the limit order itself.</p>
+<p><strong>中文摘要：</strong>2026年最奇特的模型 Jev 已用于交易、玩《毁灭战士》和驾驶模拟无人机。该项目展示了一个交易机器人：Jev 获取订单簿，每300毫秒给出买卖决定，机器人自动提交限价单。</p>
+<p><strong>Ryven</strong> · @imryven · 2026-10-05T10:51:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 211</p>
+<p><a href="https://x.com/imryven/status/2107061102391538084">在 X 查看原帖</a> · <a href="https://t.co/hT9kEEjYT4">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/alpha404ai/status/2107060228088869025"><img src="https://pbs.twimg.com/amplify_video_thumb/2106701669807403008/img/5ylQCLQUaF5SAEkD.jpg" alt="JEV powers automated hedge fund trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/alpha404ai/status/2107060228088869025">JEV powers automated hedge fund trading</a></h3>
+<p>The post claims JEV combined with OpenAI and OPUS 5.5 replaced a hedge fund&#39;s gatekeeper, analyst team and PM, processing ETH 1-minute candles for cents in API costs.</p>
+<p><strong>中文摘要：</strong>帖子称JEV与OpenAI、OPUS 5.5组合取代了对冲基金的守门人、分析师团队和投资组合经理，ETH每1分钟K线交易仅需数美分API费用。</p>
+<p><strong>alpha404</strong> · @alpha404ai · 2026-10-05T10:48:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/alpha404ai/status/2107060228088869025">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/codewithimanshu/status/2107041958959198617"><img src="https://pbs.twimg.com/amplify_video_thumb/2107041920665161728/img/QicJZW4iQAEJrbVj.jpg" alt="Trader builds Polymarket quant bot with JEV &amp; Claude · 原帖视频截图" width="100%"></a>

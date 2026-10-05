@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 324 | 131 | 193 | 419K |
+| 326 | 132 | 194 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QingQ77/status/2107069287613558841">Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives</a></h3>
+<p>A Chinese tutorial for developers on TypeSafe Jev, explaining how to use Choice, Score, and Noul primitives to directly integrate structured probability outputs into code instead of parsing generated text.</p>
+<p><strong>中文摘要：</strong>面向开发者的 TypeSafe Jev 中文教程，讲解如何使用 Choice、Score、Noul 三种原语将结构化概率输出直接接入代码，替代解析模型生成的文本。</p>
+<p><strong>Geek Lite</strong> · @QingQ77 · 2026-10-05T11:24:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><a href="https://x.com/QingQ77/status/2107069287613558841">在 X 查看原帖</a> · <a href="https://t.co/aHAoX0zjyl">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nrqa__/status/2107063062280786174"><img src="https://pbs.twimg.com/tweet_video_thumb/HT3KqF6b0AEithl.jpg" alt="How to Get Started with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nrqa__/status/2107063062280786174">How to Get Started with Jev</a></h3>
+<p>Official guide to TypeSafe&#39;s Jev model, featuring skip-writing, typed questions, confidence scores, and a browser playground.</p>
+<p><strong>中文摘要：</strong>介绍TypeSafe的Jev模型官方指南，包含功能概述（跳过写作，回答类型化问题，带有置信度分数）和浏览器playground。</p>
+<p><strong>Nelly;</strong> · @nrqa__ · 2026-10-05T10:59:16.000Z</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 35 &nbsp; 📊 3.5K</p>
+<p><a href="https://x.com/nrqa__/status/2107063062280786174">在 X 查看原帖</a> · <a href="https://t.co/2E7yINuHxO">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2107024429335351691"><img src="https://pbs.twimg.com/media/HT2nhjOa8AA6FVA?format=jpg&amp;name=900x900" alt="Jev Chinese Tutorial and Optimization Recipes · 原帖图片" width="100%"></a>

@@ -1,9 +1,10 @@
 # Geek Lite
 
-14 Jev showcases.
+15 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-05T11:24:00.000Z | [Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives](https://x.com/QingQ77/status/2107069287613558841) | 开发资源 | Geek Lite | 64 |
 | 2026-10-02T11:27:00.000Z | [Jevstiller: Reducing Jev Classification Calls with Local Small Models](https://x.com/QingQ77/status/2105982878685552879) | 开发者工具 | Geek Lite | 239 |
 | 2026-09-30T07:27:00.000Z | [Ten Levels of Jev Example Repository](https://x.com/QingQ77/status/2105197705114812493) | 开发资源 | Geek Lite | 147 |
 | 2026-09-28 | [Plugin integrating the Jev decision model with Harness](https://x.com/QingQ77/status/2104559500133069205) | 开发者工具 | Geek Lite | 261 |

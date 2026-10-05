@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 864
-- [How it works](../categories/how-it-works.md) — 523
-- [Developer tools](../categories/developer-tools.md) — 506
+- [Community builds](../categories/community-builds.md) — 868
+- [How it works](../categories/how-it-works.md) — 525
+- [Developer tools](../categories/developer-tools.md) — 507
 - [Launch news](../categories/launch-news.md) — 384
 - [Access updates](../categories/access-updates.md) — 377
-- [Agents](../categories/agents.md) — 374
+- [Agents](../categories/agents.md) — 376
 - [Gaming](../categories/gaming.md) — 347
-- [Developer resources](../categories/developer-resources.md) — 326
+- [Developer resources](../categories/developer-resources.md) — 328
 - [Finance](../categories/finance.md) — 248
-- [Workflow automation](../categories/workflow-automation.md) — 206
+- [Workflow automation](../categories/workflow-automation.md) — 207
 - [Marketing](../categories/marketing.md) — 135
 - [Content creation](../categories/content-creation.md) — 111
 - [Knowledge & search](../categories/knowledge-search.md) — 103
 - [Data analytics](../categories/data-analytics.md) — 100
 - [Scientific research](../categories/scientific-research.md) — 72
 - [Cybersecurity](../categories/cybersecurity.md) — 60
-- [Customer support](../categories/customer-support.md) — 49
+- [Customer support](../categories/customer-support.md) — 50
 - [Robotics](../categories/robotics.md) — 41
 - [Productivity](../categories/productivity.md) — 35
 - [Software development](../categories/software-development.md) — 32
 - [Business operations](../categories/business-operations.md) — 28
 - [Education](../categories/education.md) — 23
 - [Healthcare](../categories/healthcare.md) — 22
-- [E-commerce](../categories/e-commerce.md) — 21
-- [Legal & compliance](../categories/legal-compliance.md) — 20
+- [E-commerce](../categories/e-commerce.md) — 22
+- [Legal & compliance](../categories/legal-compliance.md) — 21

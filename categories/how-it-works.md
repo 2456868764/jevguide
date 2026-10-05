@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 523 | 227 | 297 | 1.6M |
+| 525 | 227 | 299 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NitorInfotech/status/2107080737237430376"><img src="https://pbs.twimg.com/media/HT3at-uawAAVWfF?format=jpg&amp;name=900x900" alt="Jev and LLM Collaboration: Decision Layer Routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NitorInfotech/status/2107080737237430376">Jev and LLM Collaboration: Decision Layer Routing</a></h3>
+<p>Nitor Infotech shares that Jev and LLMs don&#39;t have to compete; a decision layer can route requests to the right model while the LLM handles complex generation.</p>
+<p><strong>中文摘要：</strong>Nitor Infotech分享Jev和LLM不必竞争，决策层可将请求路由至合适模型，而LLM负责复杂生成。阅读文章了解更多。</p>
+<p><strong>Nitor Infotech</strong> · @NitorInfotech · 2026-10-05T12:09:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/NitorInfotech/status/2107080737237430376">在 X 查看原帖</a> · <a href="https://t.co/vvfZZmqla7">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nocodehackers/status/2107079362633724207"><img src="https://pbs.twimg.com/media/HT3ZYh1XAAAilUh?format=jpg&amp;name=medium" alt="Jev AI: The AI that alerts when uncertain · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nocodehackers/status/2107079362633724207">Jev AI: The AI that alerts when uncertain</a></h3>
+<p>NocodeHackers posts about Jev AI, an AI that alerts users when it is uncertain, with a blog link explaining how it works.</p>
+<p><strong>中文摘要：</strong>NocodeHackers 发帖介绍 Jev AI，该 AI 在不确定时会给用户发出提示，并附上博客链接详细说明其工作原理。</p>
+<p><strong>NocodeHackers</strong> · @nocodehackers · 2026-10-05T12:04:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 104</p>
+<p><a href="https://x.com/nocodehackers/status/2107079362633724207">在 X 查看原帖</a> · <a href="https://t.co/zMcZsdWcpO">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kenchan_aidx/status/2107043281612026092"><img src="https://pbs.twimg.com/media/HT24nY3aEAAgQRk?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence · 原帖图片" width="100%"></a>

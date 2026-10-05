@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 864 | 360 | 508 | 3.0M |
+| 868 | 361 | 511 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Gorden_Sun/status/2107085863385731451"><img src="https://pbs.twimg.com/media/HT3faY2bAAAcgcC?format=jpg&amp;name=medium" alt="Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Gorden_Sun/status/2107085863385731451">Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification</a></h3>
+<p>Introducing Jev-Mem, a solution that integrates Jev&#39;s memory system and leverages Jev&#39;s fast classification ability to address the issues of slow response, high cost, and misplaced focus when traditional AI assistants read, summarize, and retrieve history verbatim for long-term tasks.</p>
+<p><strong>中文摘要：</strong>介绍Jev-Mem，一种结合Jev记忆系统的方案，充分利用Jev的快速分类能力，解决传统AI助手在长期任务中逐字阅读、归纳和检索历史时反应慢、成本高、易找错重点的问题。</p>
+<p><strong>Gorden Sun</strong> · @Gorden_Sun · 2026-10-05T12:29:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 106</p>
+<p><a href="https://x.com/Gorden_Sun/status/2107085863385731451">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/repopad_rh/status/2107082122460893690"><img src="https://pbs.twimg.com/amplify_video_thumb/2106885960180846592/img/GCuqykORerunK799.jpg" alt="See what builders are making with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/repopad_rh/status/2107082122460893690">See what builders are making with Jev</a></h3>
+<p>Explore games, agents, developer tools, and creative projects powered by Jev in Repopad, and dive into the code to see Jev&#39;s decisions.</p>
+<p><strong>中文摘要：</strong>探索Repopad上基于Jev的游戏、智能体、开发者工具和创意项目，深入代码了解Jev的决策过程。</p>
+<p><strong>Repopad</strong> · @repopad_rh · 2026-10-05T12:15:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/repopad_rh/status/2107082122460893690">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/moru3/status/2107079941884150231"><img src="https://pbs.twimg.com/media/HT3aCTXa0AE_fJi?format=jpg&amp;name=medium" alt="User Migrates Haiku Workload to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/moru3/status/2107079941884150231">User Migrates Haiku Workload to Jev</a></h3>
+<p>Developer IwaKen shares that since yesterday they have been migrating the portion previously using Haiku to Jev, feeling that the more they use Jev, the more they benefit.</p>
+<p><strong>中文摘要：</strong>开发者IwaKen分享从昨天开始将原本使用Haiku的部分迁移到Jev，并表示越用Jev越觉得划算。</p>
+<p><strong>IwaKen</strong> · @moru3 · 2026-10-05T12:06:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/moru3/status/2107079941884150231">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/3057oor/status/2107061262303801823"><img src="https://pbs.twimg.com/amplify_video_thumb/2106948641206513664/img/qPdCqE9UQpm6FeJP.jpg" alt="Testing the Jev FC Buddy agentic integration · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>oor.sol</strong> · @3057oor · 2026-10-05T10:52:06.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/3057oor/status/2107061262303801823">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Connex01/status/2107061041775411385"><img src="https://pbs.twimg.com/media/HT3I2Q7WoAAPCML?format=jpg&amp;name=medium" alt="Discussion on Jev Model Hype · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Connex01/status/2107061041775411385">Discussion on Jev Model Hype</a></h3>
+<p>User asks what happened to TypeSafeAI&#39;s Jev model and whether the hype has faded.</p>
+<p><strong>中文摘要：</strong>用户询问 TypeSafeAI 的 Jev 模型发生了什么，以及其热度是否已消退。</p>
+<p><strong>Connex</strong> · @Connex01 · 2026-10-05T10:51:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
+<p><a href="https://x.com/Connex01/status/2107061041775411385">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/torfinpd/status/2107057794922745940"><img src="https://pbs.twimg.com/amplify_video_thumb/2107057659799068672/img/ukV84nf6Ejoa5oTR.jpg" alt="Jev model cloned for free, 13x faster on a laptop · 原帖视频截图" width="100%"></a>

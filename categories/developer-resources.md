@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 326 | 132 | 194 | 419K |
+| 328 | 133 | 195 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SadraMajidi04/status/2107078358379192435"><img src="https://pbs.twimg.com/media/HT2fuduXMAE3-lo?format=jpg&amp;name=medium" alt="pg-jev: Postgres extension for using Jev via SQL · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SadraMajidi04/status/2107078358379192435">pg-jev: Postgres extension for using Jev via SQL</a></h3>
+<p>pg-jev is an open-source Postgres extension that exposes Jev through SQL functions (jev, jev_prob, jev_choice, jev_score) directly inside the database, with no vector column needed.</p>
+<p><strong>中文摘要：</strong>pg-jev是一个开源的Postgres扩展，通过SQL函数（jev、jev_prob、jev_choice、jev_score）在数据库内直接调用Jev，无需向量列。</p>
+<p><strong>Sadra Majidi</strong> · @SadraMajidi04 · 2026-10-05T12:00:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/SadraMajidi04/status/2107078358379192435">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Mnilax/status/2107074545794289839"><img src="https://pbs.twimg.com/amplify_video_thumb/2107074031451062272/img/ZYrtabqASEtYNSJS.jpg" alt="Go from Zero to Your First Jev Build for Free · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mnilax/status/2107074545794289839">Go from Zero to Your First Jev Build for Free</a></h3>
+<p>Hands-on guides for Python and JS/TS with copy-paste code, plus context picking and agent next steps with allow, review, and more. All best Jev projects in one place.</p>
+<p><strong>中文摘要：</strong>提供 Python 和 JS/TS 的实操指南、复制粘贴代码，以及上下文选择与代理下一步操作（允许、审查等），汇集最佳 Jev 项目。</p>
+<p><strong>Mnimiy</strong> · @Mnilax · 2026-10-05T11:44:53.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 21 &nbsp; 📊 472</p>
+<p><a href="https://x.com/Mnilax/status/2107074545794289839">在 X 查看原帖</a> · <a href="https://t.co/6md1Gr4Iho">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>

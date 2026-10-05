@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5007</strong><br>curated posts</td>
-<td align="center"><strong>2579</strong><br>original videos</td>
+<td align="center"><strong>5022</strong><br>curated posts</td>
+<td align="center"><strong>2584</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>864</strong> showcases · <strong>360</strong> videos</p>
+<p><strong>868</strong> showcases · <strong>361</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>523</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>525</strong> showcases · <strong>227</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>506</strong> showcases · <strong>259</strong> videos</p>
+<p><strong>507</strong> showcases · <strong>259</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>374</strong> showcases · <strong>214</strong> videos</p>
+<p><strong>376</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>326</strong> showcases · <strong>132</strong> videos</p>
+<p><strong>328</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>206</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>207</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>49</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>50</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>21</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>22</strong> showcases · <strong>19</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>20</strong> showcases · <strong>6</strong> videos</p>
+<p><strong>21</strong> showcases · <strong>7</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2107069287613558841">Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives</a></h3>
-<p>A Chinese tutorial for developers on TypeSafe Jev, explaining how to use Choice, Score, and Noul primitives to directly integrate structured probability outputs into code instead of parsing generated text.</p>
-<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/kinderlayer/status/2107086182848872650"><img src="https://pbs.twimg.com/media/HT3fqKoXEAA8e6H?format=png&amp;name=medium" alt="A cheap typed layer (JEV) for your agent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kinderlayer/status/2107086182848872650">A cheap typed layer (JEV) for your agent</a></h3>
+<p>The author shares how their agent used to spend $180 a night asking the smartest model to answer questions it had already answered. Adding a cheap typed JEV layer cut it to $19—with no smaller brain and no quality drop.</p>
+<p><strong>57</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 57</p>
+<p><strong>Kinder</strong> · @kinderlayer</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mikadzyki_NFT/status/2107068217864630584"><img src="https://pbs.twimg.com/amplify_video_thumb/2107068175275753472/img/axfsIKI1M3KczyCT.jpg" alt="OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mikadzyki_NFT/status/2107068217864630584">OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code</a></h3>
-<p>The post describes combining OPUS 5.5, FABLE 5.1, and JEV into a development team in Claude Code, where JEV acts as an AI advisor providing independent review at decision points while the main model continues coding.</p>
-<p><strong>141</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 141</p>
-<p><strong>Mikadzyki🌙</strong> · @Mikadzyki_NFT</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/almnc_ai/status/2107085904259039291"><img src="https://pbs.twimg.com/media/HT26eCdXsAAEBwb?format=png&amp;name=small" alt="Alma Dev Update: Jev Integration Boosts Accuracy · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/almnc_ai/status/2107085904259039291">Alma Dev Update: Jev Integration Boosts Accuracy</a></h3>
+<p>Alma&#39;s weekly dev update: Jev integration delivers measurable accuracy gains, determinism crosses a meaningful threshold, and a new multi-month tournament has started.</p>
+<p><strong>51</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><strong>Almanac</strong> · @almnc_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/staskulesh/status/2107063717011808345"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063317575413760/img/EuQ-qBoriVs4y_GC.jpg" alt="Building a Modular Synth Jamming Buddy with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/staskulesh/status/2107063717011808345">Building a Modular Synth Jamming Buddy with Jev</a></h3>
-<p>Stas Kulesh shares his months-long project turning his MacBook Pro into a modular synthesizer, hoping to create an interactive jamming buddy for weekly guitar practice using TypeSafe&#39;s Jev model via OpenRouter.</p>
-<p><strong>51</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
-<p><strong>Stas Kulesh</strong> · @staskulesh</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Gorden_Sun/status/2107085863385731451"><img src="https://pbs.twimg.com/media/HT3faY2bAAAcgcC?format=jpg&amp;name=medium" alt="Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Gorden_Sun/status/2107085863385731451">Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification</a></h3>
+<p>Introducing Jev-Mem, a solution that integrates Jev&#39;s memory system and leverages Jev&#39;s fast classification ability to address the issues of slow response, high cost, and misplaced focus when traditional AI assistants read, summarize, and retrieve history verbatim for long-term tasks.</p>
+<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 106</p>
+<p><strong>Gorden Sun</strong> · @Gorden_Sun</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Asteri_eth/status/2107063682622451873"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063491974631424/img/X_Mg_m_Fzbr99uaG.jpg" alt="JEV Agent Ran Wild at 3AM · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Asteri_eth/status/2107063682622451873">JEV Agent Ran Wild at 3AM</a></h3>
-<p>A user shares how their JEV agent detected a virus at 3:42 AM, said yes 11 times in 19 minutes and burned $3,043 before their Claude bots stopped listening. Night 5 of the crawler + Jev + Claude bots run.</p>
-<p><strong>276</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 276</p>
-<p><strong>Asteri</strong> · @Asteri_eth</p>
+<a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xAlhimik/status/2107084733402513475">Jev for High-Frequency Micro-Decisions in Agent Loops</a></h3>
+<p>The author argues that a paragraph is an expensive way to pick one button. Jev fits the small decisions that keep repeating inside an agent loop: let a frontier model draft the plan, explore a hard question, or write the candidate, then feed the relevant state to the decision layer.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><strong>Alhimik</strong> · @0xAlhimik</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/QingQ77/status/2107069287613558841"><img src="https://pbs.twimg.com/media/HT1dW6NbQAAEO7m?format=jpg&amp;name=medium" alt="Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QingQ77/status/2107069287613558841">Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives</a></h3>
-<p>A Chinese tutorial for developers on TypeSafe Jev, explaining how to use Choice, Score, and Noul primitives to directly integrate structured probability outputs into code instead of parsing generated text.</p>
-<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>Geek Lite</strong> · @QingQ77</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/kinderlayer/status/2107086182848872650"><img src="https://pbs.twimg.com/media/HT3fqKoXEAA8e6H?format=png&amp;name=medium" alt="A cheap typed layer (JEV) for your agent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kinderlayer/status/2107086182848872650">A cheap typed layer (JEV) for your agent</a></h3>
+<p>The author shares how their agent used to spend $180 a night asking the smartest model to answer questions it had already answered. Adding a cheap typed JEV layer cut it to $19—with no smaller brain and no quality drop.</p>
+<p><strong>57</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 57</p>
+<p><strong>Kinder</strong> · @kinderlayer</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Asteri_eth/status/2107063682622451873"><img src="https://pbs.twimg.com/amplify_video_thumb/2107063491974631424/img/X_Mg_m_Fzbr99uaG.jpg" alt="JEV Agent Ran Wild at 3AM · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Asteri_eth/status/2107063682622451873">JEV Agent Ran Wild at 3AM</a></h3>
-<p>A user shares how their JEV agent detected a virus at 3:42 AM, said yes 11 times in 19 minutes and burned $3,043 before their Claude bots stopped listening. Night 5 of the crawler + Jev + Claude bots run.</p>
-<p><strong>276</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 276</p>
-<p><strong>Asteri</strong> · @Asteri_eth</p>
+<a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xAlhimik/status/2107084733402513475">Jev for High-Frequency Micro-Decisions in Agent Loops</a></h3>
+<p>The author argues that a paragraph is an expensive way to pick one button. Jev fits the small decisions that keep repeating inside an agent loop: let a frontier model draft the plan, explore a hard question, or write the candidate, then feed the relevant state to the decision layer.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><strong>Alhimik</strong> · @0xAlhimik</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/nrqa__/status/2107063062280786174"><img src="https://pbs.twimg.com/tweet_video_thumb/HT3KqF6b0AEithl.jpg" alt="How to Get Started with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nrqa__/status/2107063062280786174">How to Get Started with Jev</a></h3>
-<p>Official guide to TypeSafe&#39;s Jev model, featuring skip-writing, typed questions, confidence scores, and a browser playground.</p>
-<p><strong>3.5K</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 35 &nbsp; 📊 3.5K</p>
-<p><strong>Nelly;</strong> · @nrqa__</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/repopad_rh/status/2107082122460893690"><img src="https://pbs.twimg.com/amplify_video_thumb/2106885960180846592/img/GCuqykORerunK799.jpg" alt="See what builders are making with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/repopad_rh/status/2107082122460893690">See what builders are making with Jev</a></h3>
+<p>Explore games, agents, developer tools, and creative projects powered by Jev in Repopad, and dive into the code to see Jev&#39;s decisions.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>Repopad</strong> · @repopad_rh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/kenchan_aidx/status/2107056585084486016"><img src="https://pbs.twimg.com/media/HT3EthtakAAwO_4?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Plays Doom · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kenchan_aidx/status/2107056585084486016">TypeSafe AI&#39;s Jev Plays Doom</a></h3>
-<p>TypeSafe AI demonstrates its Jev model driving real-time Doom gameplay with roughly 10 queries per second, at a cost of about $7 per hour.</p>
-<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/SadraMajidi04/status/2107078358379192435"><img src="https://pbs.twimg.com/media/HT2fuduXMAE3-lo?format=jpg&amp;name=medium" alt="pg-jev: Postgres extension for using Jev via SQL · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/SadraMajidi04/status/2107078358379192435">pg-jev: Postgres extension for using Jev via SQL</a></h3>
+<p>pg-jev is an open-source Postgres extension that exposes Jev through SQL functions (jev, jev_prob, jev_choice, jev_score) directly inside the database, with no vector column needed.</p>
+<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Sadra Majidi</strong> · @SadraMajidi04</p>
 </td>
 </tr>
 </table>

@@ -49,6 +49,7 @@
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
 - [rewind](../authors/rewind.md) — 6
+- [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
 - [恒星sun](../authors/恒星sun.md) — 6
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 5
@@ -67,7 +68,6 @@
 - [NO1ennn](../authors/no1ennn.md) — 5
 - [Rob Hallam](../authors/rob-hallam.md) — 5
 - [S ᜰ](../authors/s.md) — 5
-- [Sadra Majidi](../authors/sadra-majidi.md) — 5
 - [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 5
 - [Simplifying AI](../authors/simplifying-ai.md) — 5
 - [Somi](../authors/somi.md) — 5
@@ -225,6 +225,7 @@
 - [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 3
 - [Mika Heinonen](../authors/mika-heinonen.md) — 3
 - [Milind S](../authors/milind-s.md) — 3
+- [Mnimiy](../authors/mnimiy.md) — 3
 - [Mojofull](../authors/mojofull.md) — 3
 - [Morty](../authors/morty.md) — 3
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
@@ -396,6 +397,7 @@
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
 - [Frank Chiarulli Jr.](../authors/frank-chiarulli-jr.md) — 2
 - [FrankD](../authors/frankd.md) — 2
+- [freeCodeCamp.org](../authors/freecodecamp-org.md) — 2
 - [gabidev](../authors/gabidev.md) — 2
 - [Gabriel Dechichi](../authors/gabriel-dechichi.md) — 2
 - [Gary Mathis](../authors/gary-mathis.md) — 2
@@ -404,6 +406,7 @@
 - [GitHubDaily](../authors/githubdaily.md) — 2
 - [Glyph](../authors/glyph.md) — 2
 - [Golang News & Libs & Jobs - human 🗣️ , no 🤖](../authors/golang-news-libs-jobs-human-no.md) — 2
+- [Gorden Sun](../authors/gorden-sun.md) — 2
 - [Gota](../authors/gota.md) — 2
 - [Guillermo Rauch](../authors/guillermo-rauch.md) — 2
 - [HAHWUL](../authors/hahwul.md) — 2
@@ -490,7 +493,6 @@
 - [Min Choi](../authors/min-choi.md) — 2
 - [Misha_Cripto](../authors/misha-cripto.md) — 2
 - [mizchi](../authors/mizchi.md) — 2
-- [Mnimiy](../authors/mnimiy.md) — 2
 - [mnogoznalll](../authors/mnogoznalll.md) — 2
 - [Mohammed Ainan](../authors/mohammed-ainan.md) — 2
 - [Mohit](../authors/mohit.md) — 2
@@ -880,6 +882,7 @@
 - [Alexandru Donea](../authors/alexandru-donea.md) — 1
 - [alexxx](../authors/alexxx.md) — 1
 - [Alexy B](../authors/alexy-b.md) — 1
+- [Alhimik](../authors/alhimik.md) — 1
 - [ali](../authors/ali.md) — 1
 - [Ali](../authors/ali.md) — 1
 - [Ali Imran Memon](../authors/ali-imran-memon.md) — 1
@@ -889,6 +892,7 @@
 - [Alisina](../authors/alisina.md) — 1
 - [Alisson](../authors/alisson.md) — 1
 - [Allie Harris](../authors/allie-harris.md) — 1
+- [Almanac](../authors/almanac.md) — 1
 - [Alok](../authors/alok.md) — 1
 - [Along Rocket](../authors/along-rocket.md) — 1
 - [Alpha Batcher](../authors/alpha-batcher.md) — 1
@@ -1220,6 +1224,7 @@
 - [Colton Garner](../authors/colton-garner.md) — 1
 - [Commencis](../authors/commencis.md) — 1
 - [connect24h](../authors/connect24h.md) — 1
+- [Connex](../authors/connex.md) — 1
 - [ContextBoy](../authors/contextboy.md) — 1
 - [ContractorKeith](../authors/contractorkeith.md) — 1
 - [Cooking life hack](../authors/cooking-life-hack.md) — 1
@@ -1529,7 +1534,6 @@
 - [Frank Chen](../authors/frank-chen.md) — 1
 - [Fred](../authors/fred.md) — 1
 - [Freddy](../authors/freddy.md) — 1
-- [freeCodeCamp.org](../authors/freecodecamp-org.md) — 1
 - [frevana](../authors/frevana.md) — 1
 - [friz()](../authors/friz.md) — 1
 - [frombit@エンジニア](../authors/frombit.md) — 1
@@ -1584,7 +1588,6 @@
 - [GOMOOT](../authors/gomoot.md) — 1
 - [Google Gemma](../authors/google-gemma.md) — 1
 - [Goran Gajić](../authors/goran-gajic.md) — 1
-- [Gorden Sun](../authors/gorden-sun.md) — 1
 - [Gosuke Suzuki｜Suzuki Soten](../authors/gosuke-suzuki-suzuki-soten.md) — 1
 - [goubie](../authors/goubie.md) — 1
 - [Gowoon Choi](../authors/gowoon-choi.md) — 1
@@ -1745,6 +1748,7 @@
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
+- [IwaKen](../authors/iwaken.md) — 1
 - [J-S---](../authors/j-s.md) — 1
 - [J.B.](../authors/j-b.md) — 1
 - [j.i](../authors/j-i.md) — 1
@@ -1970,6 +1974,7 @@
 - [Kilian Khalif](../authors/kilian-khalif.md) — 1
 - [Kin](../authors/kin.md) — 1
 - [Kinari Kuramoto / キナリ](../authors/kinari-kuramoto.md) — 1
+- [Kinder](../authors/kinder.md) — 1
 - [Kingsley Uyi Idehen](../authors/kingsley-uyi-idehen.md) — 1
 - [Kiran Gollu](../authors/kiran-gollu.md) — 1
 - [KiRura](../authors/kirura.md) — 1
@@ -1978,6 +1983,7 @@
 - [kkonline.org](../authors/kkonline-org.md) — 1
 - [kobayashi](../authors/kobayashi.md) — 1
 - [kocer](../authors/kocer.md) — 1
+- [Koichi Nishizuka](../authors/koichi-nishizuka.md) — 1
 - [Koimiao🐈](../authors/koimiao.md) — 1
 - [Koji Ohno](../authors/koji-ohno.md) — 1
 - [Konrad Reczko](../authors/konrad-reczko.md) — 1
@@ -2354,10 +2360,12 @@
 - [Nitesh Sharma 🛠️](../authors/nitesh-sharma.md) — 1
 - [Nitin.nn](../authors/nitin-nn.md) — 1
 - [Nitor](../authors/nitor.md) — 1
+- [Nitor Infotech](../authors/nitor-infotech.md) — 1
 - [Nivedit Jain](../authors/nivedit-jain.md) — 1
 - [niwacis](../authors/niwacis.md) — 1
 - [nlev](../authors/nlev.md) — 1
 - [Noah](../authors/noah.md) — 1
+- [NocodeHackers](../authors/nocodehackers.md) — 1
 - [nocoo](../authors/nocoo.md) — 1
 - [nokia](../authors/nokia.md) — 1
 - [Nomad Analyst](../authors/nomad-analyst.md) — 1
@@ -2578,6 +2586,7 @@
 - [Renchu Song](../authors/renchu-song.md) — 1
 - [Rene F Bernard](../authors/rene-f-bernard.md) — 1
 - [Renjit Philip 🔭💡](../authors/renjit-philip.md) — 1
+- [Repopad](../authors/repopad.md) — 1
 - [Requesty](../authors/requesty.md) — 1
 - [Respan](../authors/respan.md) — 1
 - [Retro AI/ML group](../authors/retro-ai-ml-group.md) — 1
@@ -3070,6 +3079,7 @@
 - [Vettan](../authors/vettan.md) — 1
 - [Vi iD](../authors/vi-id.md) — 1
 - [Vibe](../authors/vibe.md) — 1
+- [victor](../authors/victor.md) — 1
 - [Victor](../authors/victor.md) — 1
 - [VIctor Janni](../authors/victor-janni.md) — 1
 - [Víctor Mollá](../authors/victor-molla.md) — 1
@@ -3221,6 +3231,7 @@
 - [zaru](../authors/zaru.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
+- [Zed](../authors/zed.md) — 1
 - [zeeman](../authors/zeeman.md) — 1
 - [Zenko | NeuralFrame Labs](../authors/zenko-neuralframe-labs.md) — 1
 - [Zeno Divergent](../authors/zeno-divergent.md) — 1

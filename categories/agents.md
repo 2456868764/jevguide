@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 374 | 214 | 161 | 3.0M |
+| 376 | 215 | 162 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xAlhimik/status/2107084733402513475">Jev for High-Frequency Micro-Decisions in Agent Loops</a></h3>
+<p>The author argues that a paragraph is an expensive way to pick one button. Jev fits the small decisions that keep repeating inside an agent loop: let a frontier model draft the plan, explore a hard question, or write the candidate, then feed the relevant state to the decision layer.</p>
+<p><strong>中文摘要：</strong>作者指出，用一段冗长文字来选择单个按钮成本过高。Jev 适合处理智能体循环中不断重复的小决策：可让前沿模型起草计划、探索难题或生成候选方案，再将相关状态交给决策层。</p>
+<p><strong>Alhimik</strong> · @0xAlhimik · 2026-10-05T12:25:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><a href="https://x.com/0xAlhimik/status/2107084733402513475">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KoichiNishizuka/status/2107074482431262937"><img src="https://pbs.twimg.com/media/HT3VEotacAAhTEo?format=jpg&amp;name=medium" alt="Mentions TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KoichiNishizuka/status/2107074482431262937">Mentions TypeSafe&#39;s Jev</a></h3>
+<p>The post lists Cloudflare&#39;s Clef/Clef-flash, TypeSafe&#39;s Jev, and OpenAI&#39;s Decisions without additional details.</p>
+<p><strong>中文摘要：</strong>帖子列举了Cloudflare的Clef/Clef-flash、TypeSafe的Jev和OpenAI的Decisions，未提供额外细节。</p>
+<p><strong>Koichi Nishizuka</strong> · @KoichiNishizuka · 2026-10-05T11:44:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 174</p>
+<p><a href="https://x.com/KoichiNishizuka/status/2107074482431262937">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mikadzyki_NFT/status/2107068217864630584"><img src="https://pbs.twimg.com/amplify_video_thumb/2107068175275753472/img/axfsIKI1M3KczyCT.jpg" alt="OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code · 原帖视频截图" width="100%"></a>

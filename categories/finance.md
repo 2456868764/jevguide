@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 248 | 140 | 110 | 1.2M |
+| 250 | 142 | 110 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Scratcherrrr/status/2107101557569278394"><img src="https://pbs.twimg.com/amplify_video_thumb/2107101314077306881/img/98w5jAuyInEDCKjm.jpg" alt="JEV included in live Polymarket bot monitoring · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Scratcherrrr/status/2107101557569278394">JEV included in live Polymarket bot monitoring</a></h3>
+<p>The author connected a live Polymarket trading bot to a heart monitor, showing Opus 5.5 and JEV reading the chart. The strategy trades BTC up/down on 5/15-minute windows, up +$56,326 since October 2025. JEV is the reflex channel, beating once per fill, with an up-buy spiking upward.</p>
+<p><strong>中文摘要：</strong>作者把真实 Polymarket 交易机器人接入心脏监控器，展示 Opus 5.5 与 JEV 读取图表。策略交易 BTC 涨跌，5/15 分钟窗口，2025 年 10 月以来盈利 +$56,326。JEV 作为反射通道，每笔成交跳动一次，向上买入则波峰向上。</p>
+<p><strong>Catcher of your mind</strong> · @Scratcherrrr · 2026-10-05T13:32:14.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 91</p>
+<p><a href="https://x.com/Scratcherrrr/status/2107101557569278394">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RetroChainer/status/2107099238245011702"><img src="https://pbs.twimg.com/amplify_video_thumb/2107099077368221696/img/JEH0rKhJq3f-wC3n.jpg" alt="JEV and Dots Trading Power the Desk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RetroChainer/status/2107099238245011702">JEV and Dots Trading Power the Desk</a></h3>
+<p>The post introduces an automated trading system combining Dots Trading and JEV: four dots, six strategies, one desk covering US equities, FX, and futures, and mentions a new component called the Squid that reads every panel.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Dots Trading 与 JEV 组成的自动交易系统：四个 Dots、六种策略、一个交易台，覆盖美股、外汇和期货，并提及新组件 Squid 可读取所有面板。</p>
+<p><strong>RetroChainer</strong> · @RetroChainer · 2026-10-05T13:23:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 21 &nbsp; 📊 438</p>
+<p><a href="https://x.com/RetroChainer/status/2107099238245011702">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/imryven/status/2107061102391538084"><img src="https://pbs.twimg.com/amplify_video_thumb/2107061042714984448/img/BlKF-rNfJh7anc3i.jpg" alt="Jev Trading Bot Now Available · 原帖视频截图" width="100%"></a>

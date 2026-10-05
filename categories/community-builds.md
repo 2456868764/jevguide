@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 868 | 361 | 511 | 3.0M |
+| 874 | 364 | 514 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RoniBandini/status/2107109182520414285"><img src="https://pbs.twimg.com/media/HT3xVQdW4AA90yq?format=jpg&amp;name=large" alt="Jev-powered WiFi analyzer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RoniBandini/status/2107109182520414285">Jev-powered WiFi analyzer</a></h3>
+<p>Roni Bandini shares a Jev-based WiFi analyzer that hops between channels logging beacons/RSSI/clients. The AI evaluates coverage, congestion, and solutions. Built on ZimaBoard, Ubuntu, and Python, with tutorial and code coming soon.</p>
+<p><strong>中文摘要：</strong>Roni Bandini 分享了一个基于 Jev 的 WiFi 分析器：在信道间跳跃记录 beacon/RSSI/客户端，利用 AI 评估覆盖、拥塞并给出解决方案。基于 ZimaBoard、Ubuntu 和 Python，教程和代码即将发布。</p>
+<p><strong>Roni Bandini</strong> · @RoniBandini · 2026-10-05T14:02:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 227</p>
+<p><a href="https://x.com/RoniBandini/status/2107109182520414285">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stas_sorokin_/status/2107103372713013436"><img src="https://pbs.twimg.com/amplify_video_thumb/2107103343499677696/img/N5qlIWfdI6mkq8B9.jpg" alt="Clef vs Jev: Faster but Costlier · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stas_sorokin_/status/2107103372713013436">Clef vs Jev: Faster but Costlier</a></h3>
+<p>The author notes that on 45,782 real decisions, Cloudflare Clef is 13x faster than Jev but would cost 5.7x more, sharing pricing evaluation across 31 Jev decision systems in production and the switching debate.</p>
+<p><strong>中文摘要：</strong>作者基于45,782个真实决策，指出Cloudflare Clef比Jev快13倍，但成本高出5.7倍，并分享了在31个Jev生产决策系统上的定价评估与切换讨论。</p>
+<p><strong>Stanislav Sorokin</strong> · @stas_sorokin_ · 2026-10-05T13:39:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 16 &nbsp; ♡ 0 &nbsp; 📊 94</p>
+<p><a href="https://x.com/stas_sorokin_/status/2107103372713013436">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xverdao/status/2107102003394732160"><img src="https://pbs.twimg.com/amplify_video_thumb/2107062992365813760/img/qbfGTBgY_6c42CZr.jpg" alt="JEV: 10 Builds in One Afternoon · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xverdao/status/2107102003394732160">JEV: 10 Builds in One Afternoon</a></h3>
+<p>JEV does not write anything; you hand it state and a fixed set of questions, and it returns a label, score, or probability. This example shows 10 builds shipped quickly at negligible cost.</p>
+<p><strong>中文摘要：</strong>JEV不编写任何内容，你提供状态和固定问题，它返回标签、分数或概率。该示例展示了以极低成本快速构建并已由他人部署的10个应用。</p>
+<p><strong>Verdao</strong> · @0xverdao · 2026-10-05T13:34:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
+<p><a href="https://x.com/0xverdao/status/2107102003394732160">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TahaJemmali/status/2107094474102874551"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107093894827483136/pu/img/ETVNPdvqR-Qp0EvM.jpg" alt="Handling Address Alias Matching with Jev for Under a Cent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TahaJemmali/status/2107094474102874551">Handling Address Alias Matching with Jev for Under a Cent</a></h3>
+<p>A junior employee&#39;s first ticket: a customer 10 km away marked as &quot;out of delivery zone&quot;. Google shows &quot;The Pearl-Qatar&quot; while their list says &quot;the pearl&quot;. After trimming, lowercasing, and comparing, they realized it&#39;s the same place. They added an alias, and the author ran the math on Jev: a month of orders costs under one cent.</p>
+<p><strong>中文摘要：</strong>一位初级员工处理首个工单：客户实际距离10公里，但系统显示“超出配送区域”。地址在Google上是“The Pearl-Qatar”，而列表中是“the pearl”，通过修剪、小写化和比较发现是同一地点。添加别名后，作者用Jev计算了一个月订单的匹配成本，不到一美分。</p>
+<p><strong>Taha</strong> · @TahaJemmali · 2026-10-05T13:04:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/TahaJemmali/status/2107094474102874551">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EngNadeau/status/2107093914616303836"><img src="https://pbs.twimg.com/media/HT3mv8qXgAAmoGs?format=jpg&amp;name=medium" alt="Tiny Labs Hiring SLM Research Intern and Hosting Jev Building Workshop · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EngNadeau/status/2107093914616303836">Tiny Labs Hiring SLM Research Intern and Hosting Jev Building Workshop</a></h3>
+<p>Tiny Labs is hiring an SLM research intern and inviting participants to build a Jev on Oct 15: a fast model that returns typed decisions with probabilities. Bring a laptop and RSVP.</p>
+<p><strong>中文摘要：</strong>Tiny Labs 正在招聘 SLM 研究实习生，并邀请参与者在10月15日动手构建一个快速模型 Jev，该模型返回带概率的类型化决策。活动需自带笔记本电脑并 RSVP。</p>
+<p><strong>Nicholas Nadeau</strong> · @EngNadeau · 2026-10-05T13:01:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/EngNadeau/status/2107093914616303836">在 X 查看原帖</a> · <a href="https://t.co/6LqSGzSiTj">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Lize_san_suki/status/2107088908211401202"><img src="https://pbs.twimg.com/media/HT3h3eCa8AEtHK2?format=png&amp;name=900x900" alt="Using Jev for SAIVerse Memory Recall · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Lize_san_suki/status/2107088908211401202">Using Jev for SAIVerse Memory Recall</a></h3>
+<p>A user shares that they use Jev for memory recall in SAIVerse, noting that the usage has not decreased.</p>
+<p><strong>中文摘要：</strong>用户分享称，使用 Jev 进行 SAIVerse 的记忆回想，并提到相关使用量一直没有减少。</p>
+<p><strong>まはー👑</strong> · @Lize_san_suki · 2026-10-05T12:41:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 286</p>
+<p><a href="https://x.com/Lize_san_suki/status/2107088908211401202">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Gorden_Sun/status/2107085863385731451"><img src="https://pbs.twimg.com/media/HT3faY2bAAAcgcC?format=jpg&amp;name=medium" alt="Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification · 原帖图片" width="100%"></a>

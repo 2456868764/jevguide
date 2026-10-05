@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5022</strong><br>curated posts</td>
-<td align="center"><strong>2584</strong><br>original videos</td>
+<td align="center"><strong>5055</strong><br>curated posts</td>
+<td align="center"><strong>2602</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>868</strong> showcases · <strong>361</strong> videos</p>
+<p><strong>874</strong> showcases · <strong>364</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>525</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>528</strong> showcases · <strong>229</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>507</strong> showcases · <strong>259</strong> videos</p>
+<p><strong>514</strong> showcases · <strong>262</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,8 +48,14 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>384</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>389</strong> showcases · <strong>183</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>378</strong> showcases · <strong>217</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
@@ -57,30 +63,24 @@ From finance and gaming to security review. Every listed post is checked against
 <p><strong>377</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>376</strong> showcases · <strong>215</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>347</strong> showcases · <strong>263</strong> videos</p>
+<p><strong>348</strong> showcases · <strong>264</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>328</strong> showcases · <strong>133</strong> videos</p>
+<p><strong>331</strong> showcases · <strong>135</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>248</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>250</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>207</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>210</strong> showcases · <strong>140</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>72</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/kinderlayer/status/2107086182848872650"><img src="https://pbs.twimg.com/media/HT3fqKoXEAA8e6H?format=png&amp;name=medium" alt="A cheap typed layer (JEV) for your agent · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kinderlayer/status/2107086182848872650">A cheap typed layer (JEV) for your agent</a></h3>
-<p>The author shares how their agent used to spend $180 a night asking the smartest model to answer questions it had already answered. Adding a cheap typed JEV layer cut it to $19—with no smaller brain and no quality drop.</p>
-<p><strong>57</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 57</p>
-<p><strong>Kinder</strong> · @kinderlayer</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/happy_tennto/status/2107111341500846151"><img src="https://pbs.twimg.com/amplify_video_thumb/2107111292096094208/img/UMdshQsw5KZP_sIZ.jpg" alt="With Jev, it takes 0.5 seconds instead of 20s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/happy_tennto/status/2107111341500846151">With Jev, it takes 0.5 seconds instead of 20s</a></h3>
+<p>A post about TypeSafe AI&#39;s Jev model delivering a significant performance improvement, reducing processing time from 20 seconds to 0.5 seconds.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 23</p>
+<p><strong>Tennto</strong> · @happy_tennto</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/almnc_ai/status/2107085904259039291"><img src="https://pbs.twimg.com/media/HT26eCdXsAAEBwb?format=png&amp;name=small" alt="Alma Dev Update: Jev Integration Boosts Accuracy · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/almnc_ai/status/2107085904259039291">Alma Dev Update: Jev Integration Boosts Accuracy</a></h3>
-<p>Alma&#39;s weekly dev update: Jev integration delivers measurable accuracy gains, determinism crosses a meaningful threshold, and a new multi-month tournament has started.</p>
-<p><strong>51</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
-<p><strong>Almanac</strong> · @almnc_ai</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/fireandstart/status/2107109845979759000"><img src="https://pbs.twimg.com/amplify_video_thumb/2107092066136109056/img/IinGB3vstLKRdPno.jpg" alt="Analysis of Jev as a Task Router · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/fireandstart/status/2107109845979759000">Analysis of Jev as a Task Router</a></h3>
+<p>This discussion points out that Jev&#39;s core value lies not in single-model output, but in how it acts as a task routing layer to judge difficulty, filter context, and invoke appropriate models. Its cost optimization and reliability depend on the quality of routing decisions and the safety net of human review.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>星星之火可以燎原</strong> · @fireandstart</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Gorden_Sun/status/2107085863385731451"><img src="https://pbs.twimg.com/media/HT3faY2bAAAcgcC?format=jpg&amp;name=medium" alt="Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Gorden_Sun/status/2107085863385731451">Jev-Mem: Building a Memory System with Jev&#39;s Fast Classification</a></h3>
-<p>Introducing Jev-Mem, a solution that integrates Jev&#39;s memory system and leverages Jev&#39;s fast classification ability to address the issues of slow response, high cost, and misplaced focus when traditional AI assistants read, summarize, and retrieve history verbatim for long-term tasks.</p>
-<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 106</p>
-<p><strong>Gorden Sun</strong> · @Gorden_Sun</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/hamachi_ttr/status/2107109315169652874"><img src="https://pbs.twimg.com/media/HT30qSrbMAAMlpI?format=jpg&amp;name=medium" alt="Hypothesis: Jev internally uses Decisions API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hamachi_ttr/status/2107109315169652874">Hypothesis: Jev internally uses Decisions API</a></h3>
+<p>A tweet proposes the hypothesis that Jev&#39;s competitor, Decisions API, might be used internally by Jev. This idea stems from long-standing curiosity, without providing concrete evidence.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>はまち</strong> · @hamachi_ttr</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xAlhimik/status/2107084733402513475">Jev for High-Frequency Micro-Decisions in Agent Loops</a></h3>
-<p>The author argues that a paragraph is an expensive way to pick one button. Jev fits the small decisions that keep repeating inside an agent loop: let a frontier model draft the plan, explore a hard question, or write the candidate, then feed the relevant state to the decision layer.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
-<p><strong>Alhimik</strong> · @0xAlhimik</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/RoniBandini/status/2107109182520414285"><img src="https://pbs.twimg.com/media/HT3xVQdW4AA90yq?format=jpg&amp;name=large" alt="Jev-powered WiFi analyzer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RoniBandini/status/2107109182520414285">Jev-powered WiFi analyzer</a></h3>
+<p>Roni Bandini shares a Jev-based WiFi analyzer that hops between channels logging beacons/RSSI/clients. The AI evaluates coverage, congestion, and solutions. Built on ZimaBoard, Ubuntu, and Python, with tutorial and code coming soon.</p>
+<p><strong>227</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 227</p>
+<p><strong>Roni Bandini</strong> · @RoniBandini</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/kinderlayer/status/2107086182848872650"><img src="https://pbs.twimg.com/media/HT3fqKoXEAA8e6H?format=png&amp;name=medium" alt="A cheap typed layer (JEV) for your agent · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kinderlayer/status/2107086182848872650">A cheap typed layer (JEV) for your agent</a></h3>
-<p>The author shares how their agent used to spend $180 a night asking the smartest model to answer questions it had already answered. Adding a cheap typed JEV layer cut it to $19—with no smaller brain and no quality drop.</p>
-<p><strong>57</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 57</p>
-<p><strong>Kinder</strong> · @kinderlayer</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/happy_tennto/status/2107111341500846151"><img src="https://pbs.twimg.com/amplify_video_thumb/2107111292096094208/img/UMdshQsw5KZP_sIZ.jpg" alt="With Jev, it takes 0.5 seconds instead of 20s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/happy_tennto/status/2107111341500846151">With Jev, it takes 0.5 seconds instead of 20s</a></h3>
+<p>A post about TypeSafe AI&#39;s Jev model delivering a significant performance improvement, reducing processing time from 20 seconds to 0.5 seconds.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 23</p>
+<p><strong>Tennto</strong> · @happy_tennto</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xAlhimik/status/2107084733402513475">Jev for High-Frequency Micro-Decisions in Agent Loops</a></h3>
-<p>The author argues that a paragraph is an expensive way to pick one button. Jev fits the small decisions that keep repeating inside an agent loop: let a frontier model draft the plan, explore a hard question, or write the candidate, then feed the relevant state to the decision layer.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
-<p><strong>Alhimik</strong> · @0xAlhimik</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/RoniBandini/status/2107109182520414285"><img src="https://pbs.twimg.com/media/HT3xVQdW4AA90yq?format=jpg&amp;name=large" alt="Jev-powered WiFi analyzer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RoniBandini/status/2107109182520414285">Jev-powered WiFi analyzer</a></h3>
+<p>Roni Bandini shares a Jev-based WiFi analyzer that hops between channels logging beacons/RSSI/clients. The AI evaluates coverage, congestion, and solutions. Built on ZimaBoard, Ubuntu, and Python, with tutorial and code coming soon.</p>
+<p><strong>227</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 227</p>
+<p><strong>Roni Bandini</strong> · @RoniBandini</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/repopad_rh/status/2107082122460893690"><img src="https://pbs.twimg.com/amplify_video_thumb/2106885960180846592/img/GCuqykORerunK799.jpg" alt="See what builders are making with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/repopad_rh/status/2107082122460893690">See what builders are making with Jev</a></h3>
-<p>Explore games, agents, developer tools, and creative projects powered by Jev in Repopad, and dive into the code to see Jev&#39;s decisions.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>Repopad</strong> · @repopad_rh</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/Beaver_0x/status/2107109050362282206"><img src="https://pbs.twimg.com/amplify_video_thumb/2107091476869947392/img/6QtLg6j8g_qmnalR.jpg" alt="Jev API Getting Started and Desktop Automation Checklist · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Beaver_0x/status/2107109050362282206">Jev API Getting Started and Desktop Automation Checklist</a></h3>
+<p>A checklist for users who already have Jev API access to start experimenting, starting with agent-desktop to read the system accessibility tree and judge UI elements.</p>
+<p><strong>76</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 76</p>
+<p><strong>Beaver</strong> · @Beaver_0x</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/SadraMajidi04/status/2107078358379192435"><img src="https://pbs.twimg.com/media/HT2fuduXMAE3-lo?format=jpg&amp;name=medium" alt="pg-jev: Postgres extension for using Jev via SQL · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/SadraMajidi04/status/2107078358379192435">pg-jev: Postgres extension for using Jev via SQL</a></h3>
-<p>pg-jev is an open-source Postgres extension that exposes Jev through SQL functions (jev, jev_prob, jev_choice, jev_score) directly inside the database, with no vector column needed.</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Sadra Majidi</strong> · @SadraMajidi04</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_katanai/status/2107101993818873955"><img src="https://pbs.twimg.com/amplify_video_thumb/2107101927515234305/img/Qgx6nJmAuMsUETUr.jpg" alt="pi-jev: Open-Source Decision Layer for Coding Agents · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_katanai/status/2107101993818873955">pi-jev: Open-Source Decision Layer for Coding Agents</a></h3>
+<p>The post introduces pi-jev as the most complete open-source decision layer for coding agents, using four questions to judge every bash, write, and edit call in about 300 ms, with a second pass reading command output, starting in shadow mode without blocking anything.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Katanai</strong> · @ai_katanai</p>
 </td>
 </tr>
 </table>

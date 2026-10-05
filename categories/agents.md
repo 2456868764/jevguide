@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 376 | 215 | 162 | 3.0M |
+| 378 | 217 | 162 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/p0lybender/status/2107101362487951730"><img src="https://pbs.twimg.com/amplify_video_thumb/2107101334079975426/img/9NuRSWweqat9TVCx.jpg" alt="Jev Picks the Tool vs LLM Picks the Tool: A Community Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/p0lybender/status/2107101362487951730">Jev Picks the Tool vs LLM Picks the Tool: A Community Benchmark</a></h3>
+<p>Someone built a benchmark to answer what happens when Jev picks the tool instead of the LLM. It covers 100 tools, 6 tasks, 8 models, and 2 modes, with every result logged and visualized. The setup shown here is llm-direct mode: the LLM sees all 100 tools at every step and picks one.</p>
+<p><strong>中文摘要：</strong>有人构建了一个基准测试，用于回答“当 Jev 代替 LLM 选择工具时会发生什么”。测试包含 100 个工具、6 个任务、8 个模型和 2 种模式，所有结果已记录并可视化。目前展示的设置是 llm-direct 模式：LLM 在每一步都会看到全部 100 个工具并选择一个。</p>
+<p><strong>PolyBender</strong> · @p0lybender · 2026-10-05T13:31:27.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 66</p>
+<p><a href="https://x.com/p0lybender/status/2107101362487951730">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BenENewton/status/2107093656943350169"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107093637695680512/pu/img/cYeuBj1d_Odns4Q2.jpg" alt="A Claude Code mod that lets Jev pick agents and models per call · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BenENewton/status/2107093656943350169">A Claude Code mod that lets Jev pick agents and models per call</a></h3>
+<p>The author shares a mod that uses Jev to choose the agent and model for every call in about 0.3 seconds, cutting lookup costs by 51% while keeping all facts verified—plus three rounds of rule iteration.</p>
+<p><strong>中文摘要：</strong>作者分享了一个Claude Code模组，让Jev在每次调用前约0.3秒内选择代理和模型，查找类请求成本降低51%，并且答案事实核查全部通过。文中还讲述了构建过程中三轮迭代规则的经验。</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-05T13:00:50.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 129</p>
+<p><a href="https://x.com/BenENewton/status/2107093656943350169">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xAlhimik/status/2107084733402513475"><img src="https://pbs.twimg.com/amplify_video_thumb/2107084663131090944/img/QorwvFzCKmodAzKk.jpg" alt="Jev for High-Frequency Micro-Decisions in Agent Loops · 原帖视频截图" width="100%"></a>

@@ -1,9 +1,10 @@
 # Skrilla
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-05T13:27:07.000Z | [Why Type Safe Jev Blew Up: Behavior, Not Benchmarks](https://x.com/Skrilla_git/status/2107100270907830435) | 工作原理 | Skrilla | 17 |
 | 2026-09-29 | [TypeSafe AI Launches Jev Decision Model](https://x.com/Skrilla_git/status/2104878490562490380) | 产品发布 | Skrilla | 21 |
 | 2026-09-27 | [TypeSafe AI Unveils New Model Jev](https://x.com/Skrilla_git/status/2104203715859161326) | 产品发布 | Skrilla | 6 |
 | 2026-09-24 | [JEV: New AI Model Built for Fast Decisions](https://x.com/Skrilla_git/status/2103022267575734431) | 自动化工作流 | Skrilla | 27 |

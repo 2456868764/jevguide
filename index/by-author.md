@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 29
+- [SuSu_酥酥👅](../authors/susu-酥酥.md) — 30
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [CyrilXBT](../authors/cyrilxbt.md) — 16
@@ -336,6 +336,7 @@
 - [bodila](../authors/bodila.md) — 2
 - [brainstormity](../authors/brainstormity.md) — 2
 - [Branko](../authors/branko.md) — 2
+- [Bruno Coelho](../authors/bruno-coelho.md) — 2
 - [Bruno Kodjaoglanian](../authors/bruno-kodjaoglanian.md) — 2
 - [Bubo](../authors/bubo.md) — 2
 - [Carl Aiau](../authors/carl-aiau.md) — 2
@@ -1101,7 +1102,6 @@
 - [brryant](../authors/brryant.md) — 1
 - [BruceBlue 🌊](../authors/bruceblue.md) — 1
 - [Brucky](../authors/brucky.md) — 1
-- [Bruno Coelho](../authors/bruno-coelho.md) — 1
 - [Bruno Fondevila](../authors/bruno-fondevila.md) — 1
 - [Bruno Volpato](../authors/bruno-volpato.md) — 1
 - [Bryan Lee](../authors/bryan-lee.md) — 1
@@ -1139,6 +1139,7 @@
 - [Cecilia HB🌞 Mallorca, Spain](../authors/cecilia-hb-mallorca-spain.md) — 1
 - [Celeste Ang](../authors/celeste-ang.md) — 1
 - [CellCog](../authors/cellcog.md) — 1
+- [Cem B.](../authors/cem-b.md) — 1
 - [Certif Gretche](../authors/certif-gretche.md) — 1
 - [Cesar Favero](../authors/cesar-favero.md) — 1
 - [cg33](../authors/cg33.md) — 1
@@ -1537,6 +1538,7 @@
 - [gatorp](../authors/gatorp.md) — 1
 - [Gaurav Goyal](../authors/gaurav-goyal.md) — 1
 - [Gaurav Shrivastav](../authors/gaurav-shrivastav.md) — 1
+- [Gautam Kishore](../authors/gautam-kishore.md) — 1
 - [Gbadebo Bello](../authors/gbadebo-bello.md) — 1
 - [Geek](../authors/geek.md) — 1
 - [Geeky Gadgets](../authors/geeky-gadgets.md) — 1
@@ -1902,6 +1904,7 @@
 - [kapio](../authors/kapio.md) — 1
 - [Karina Q](../authors/karina-q.md) — 1
 - [Karl Weinmeister](../authors/karl-weinmeister.md) — 1
+- [Karo (Product with Attitude)](../authors/karo-product-with-attitude.md) — 1
 - [karthik vetrivel](../authors/karthik-vetrivel.md) — 1
 - [Kartik Mehra](../authors/kartik-mehra.md) — 1
 - [Kasper](../authors/kasper.md) — 1
@@ -3432,6 +3435,7 @@
 - [わかめうどん🌸](../authors/jev-showcase.md) — 1
 - [わたつむ（株）](../authors/株.md) — 1
 - [ワニ](../authors/jev-showcase.md) — 1
+- [一地鸡毛](../authors/一地鸡毛.md) — 1
 - [七誌](../authors/七誌.md) — 1
 - [东方蜘蛛🕷️](../authors/东方蜘蛛.md) — 1
 - [中川 悟 | 5卓の牡蠣屋🦪](../authors/中川-悟-5卓-牡蠣屋.md) — 1

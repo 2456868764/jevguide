@@ -2,8 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-05T08:25:45.000Z | [Jev Chinese Tutorial and Optimization Recipes](https://x.com/NFT_Chen/status/2107024429335351691) | 开发资源 | SuSu_酥酥👅 | 494 |
+| 2026-10-05T08:23:10.000Z | [Open-source explainer for Jev's confidence scores](https://x.com/bcoelhopt/status/2107023780342280435) | 开发资源 | Bruno Coelho | 3 |
+| 2026-10-05T08:02:51.000Z | [Jev Security Agenda: Control Points Before AI Agents Act](https://x.com/ProductAttitude/status/2107018666495672774) | 智能体 | Karo (Product with Attitude) | 10 |
+| 2026-10-05T07:45:31.000Z | [Jev Plays Classic Game Sonny 2](https://x.com/Varro1320876/status/2107014306336260149) | 游戏 | Cem B. | 160 |
 | 2026-10-05T07:37:34.000Z | [Jev Integration with Claude Code: Open-Source Tool for Effort Selection](https://x.com/SupersocksIntel/status/2107012305196097793) | 开发资源 | Supersocks Intelligent | 6 |
 | 2026-10-05T07:27:15.000Z | [Automated trading practice with crawler, Jev judgment, and Grok order execution](https://x.com/erica_mae_2000/status/2107009709362557342) | 金融 | 金马 | 18 |
+| 2026-10-05T07:14:31.000Z | [450M Open Model Beats Jev](https://x.com/gautamkishore/status/2107006502385127780) | 社区实践 | Gautam Kishore | 3 |
 | 2026-10-05T07:06:00.000Z | [20-Step Mastering Plan for Jev](https://x.com/justrehen/status/2107004361553682605) | 开发资源 | rehen | 14 |
 | 2026-10-05T07:04:00.000Z | [10 blueprints for Jev API are now public on GitHub](https://x.com/syahu_poyo_ai/status/2107003856911519790) | 开发资源 | 社不ぽよ / AI creator😺 | 71 |
 | 2026-10-05T06:56:11.000Z | [A New Service for Running System 1 Models Locally](https://x.com/tigranbs/status/2107001889602859328) | 开发者工具 | Tigran | 12 |
@@ -51,6 +56,7 @@
 | 2026-10-05T02:44:00.000Z | [Jev AI Stack Development Resources](https://x.com/0xSheepy/status/2106938425509093491) | 开发资源 | Sheepy | 51 |
 | 2026-10-05T02:42:59.000Z | [Small benchmark: Jev vs Clef/Clef-flash, lower price](https://x.com/AIzunA_izumo/status/2106938172081057933) | 社区实践 | AIzunA 出雲から、AIをもっとやさしく。 | 12 |
 | 2026-10-05T02:29:58.000Z | [Jev 'Can't Hallucinate': A Schema Guarantee, Not a Measurement](https://x.com/vcarpenterdev/status/2106934896736514281) | 工作原理 | Vinny Carpenter | 25 |
+| 2026-10-05T02:15:03.000Z | [Jev Official Agent Skills: Integration Guide](https://x.com/zhang_baoqing/status/2106931140166926595) | 开发资源 | 一地鸡毛 | 99 |
 | 2026-10-05T02:00:01.000Z | [Event: Why doesn't Jev write? – Using judgment-specialized AI](https://x.com/GameEventGM/status/2106927357206696142) | 社区实践 | ゲーム制作者向けイベント情報@ゲームメーカーズ | 125 |
 | 2026-10-05T01:53:39.000Z | [ShipOrFlop: Jev Adjudicates Product Launches](https://x.com/JonahDevs/status/2106925756823797913) | 社区实践 | Jonah | 834 |
 | 2026-10-05T01:09:25.000Z | [Jev Stack: Rust native runtime is only 28.7MB, zero Python tax](https://x.com/katopz/status/2106914624910299266) | 开发者工具 | katopz | 79 |
@@ -96,9 +102,3 @@
 | 2026-10-03T03:45:12.000Z | [Jev Model: Decisions, Not Writing](https://x.com/anshuspandey/status/2106229053170598020) | 社区实践 | Anshu Pandey | 5 |
 | 2026-10-03T03:32:29.000Z | [Building a real-time scam call detector with Jev](https://x.com/improdev/status/2106225852245479433) | 社区实践 | asanjinez | 24 |
 | 2026-10-03T03:16:10.000Z | [Step-by-step guide to setting up Jev for Claude Code Mods](https://x.com/claudecode84/status/2106221745401364513) | 开发资源 | Claude Code Research Lab | 1.0K |
-| 2026-10-03T03:14:58.000Z | [Jev Engineering in Practice: Cut Agent Costs by 90% with Cheap Judgment Models](https://x.com/_moto___/status/2106221444564951224) | 社区实践 | 新井 元気@ITエンジニア | 923 |
-| 2026-10-03T03:09:48.000Z | [Jev ranked best in OpenRouter decision model test](https://x.com/AlexSlobodnik/status/2106220141503468027) | 社区实践 | Slobo | 6 |
-| 2026-10-03T03:00:55.000Z | [Learning from Jev: AI that returns options and probabilities, not just text](https://x.com/qRFvoQjoMm31420/status/2106217906266894424) | 社区实践 | ヒロシ＠サウナとAIが好きな営業マン | 1 |
-| 2026-10-03T03:00:01.000Z | [Jev: An AI that Returns Typed Judgments](https://x.com/deskrex/status/2106217681883947250) | 工作原理 | Deskrex.AI - 市場調査のAIデスクリサーチエージェント | 3 |
-| 2026-10-03T02:53:44.000Z | [How does Jev choose which model responds? From assumption to measurable pilot](https://x.com/randrade/status/2106216101214667112) | 工作原理 | Roberto Andrade F. | 10 |
-| 2026-10-03T02:47:28.000Z | [3D Retro Fantasy Character Creator Powered by Jev](https://x.com/JungleSilicon/status/2106214524475060334) | 游戏 | Silicon Jungle | 257 |

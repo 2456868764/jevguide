@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4974</strong><br>curated posts</td>
-<td align="center"><strong>2560</strong><br>original videos</td>
+<td align="center"><strong>4987</strong><br>curated posts</td>
+<td align="center"><strong>2566</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>859</strong> showcases · <strong>357</strong> videos</p>
+<p><strong>860</strong> showcases · <strong>357</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>521</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>523</strong> showcases · <strong>227</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>503</strong> showcases · <strong>258</strong> videos</p>
+<p><strong>504</strong> showcases · <strong>258</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>383</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>384</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>366</strong> showcases · <strong>208</strong> videos</p>
+<p><strong>369</strong> showcases · <strong>210</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>245</strong> showcases · <strong>137</strong> videos</p>
+<p><strong>246</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>134</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>135</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>99</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>55</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>71</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>72</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>31</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>32</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/NFT_Chen/status/2107024429335351691"><img src="https://pbs.twimg.com/media/HT2nhjOa8AA6FVA?format=jpg&amp;name=900x900" alt="Jev Chinese Tutorial and Optimization Recipes · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2107024429335351691">Jev Chinese Tutorial and Optimization Recipes</a></h3>
-<p>A comprehensive Jev Chinese tutorial featuring 11 runnable Notebook chapters, covering writing three types of problem primitives, 18 practical recipes, voice-driven 3D smart home, and a Laya vs Jev four-dimensional comparison.</p>
-<p><strong>494</strong> views · 💬 4 &nbsp; 🔁 4 &nbsp; ♡ 11 &nbsp; 📊 494</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/mani_koppala/status/2107043381398454327"><img src="https://pbs.twimg.com/media/HT24dUQW0AAx3iL?format=png&amp;name=900x900" alt="Jev Decision API Agent Architecture Sparks Discussion · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mani_koppala/status/2107043381398454327">Jev Decision API Agent Architecture Sparks Discussion</a></h3>
+<p>The post comments on Jev&#39;s decision API agent architecture, suggesting it will be interesting.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Mani</strong> · @mani_koppala</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/bcoelhopt/status/2107023780342280435"><img src="https://pbs.twimg.com/amplify_video_thumb/2107023279089422336/img/rDPvwIIH0sGzzrrl.jpg" alt="Open-source explainer for Jev&#39;s confidence scores · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/bcoelhopt/status/2107023780342280435">Open-source explainer for Jev&#39;s confidence scores</a></h3>
-<p>Bruno Coelho built an open-source explainer to help understand Jev&#39;s decision model confidence outputs, including edge cases, and noted it is not affiliated with TypeSafe AI.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Bruno Coelho</strong> · @bcoelhopt</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/kenchan_aidx/status/2107043281612026092"><img src="https://pbs.twimg.com/media/HT24nY3aEAAgQRk?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kenchan_aidx/status/2107043281612026092">TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence</a></h3>
+<p>The post introduces TypeSafe AI&#39;s Jev model, scheduled for early access in mid-September 2026. Unlike typical AI, Jev does not generate any text; it only returns typed judgments and confidence levels, and can only be asked three types of questions.</p>
+<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ProductAttitude/status/2107018666495672774"><img src="https://pbs.twimg.com/media/HT2iLaXXYAE27B0?format=png&amp;name=medium" alt="Jev Security Agenda: Control Points Before AI Agents Act · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ProductAttitude/status/2107018666495672774">Jev Security Agenda: Control Points Before AI Agents Act</a></h3>
-<p>The Jev security agenda highlights the importance of naming who can stop an AI agent before it acts, covering cheap checks, valid but wrong, judgment vs authorization, security controls, confidence and review, adversarial inputs, deployment patterns, and human accountability. A useful workflow review checklist.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Karo (Product with Attitude)</strong> · @ProductAttitude</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
+<a href="https://x.com/agtmengineer/status/2107042856795840885"><img src="https://pbs.twimg.com/media/HT24AArWsAAGKz_?format=jpg&amp;name=medium" alt="GTM Engineer Shares: Using JEV to Classify 8K Rows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/agtmengineer/status/2107042856795840885">GTM Engineer Shares: Using JEV to Classify 8K Rows</a></h3>
+<p>Ivan Escobar shares how Claude Code runs 8 parallel GTM agents, using JEV for classification, processing 8K rows, syncing with Oxygen, at a cost of only 0.002 JEV.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Ivan Escobar | GTM Engineer</strong> · @agtmengineer</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/Varro1320876/status/2107014306336260149"><img src="https://pbs.twimg.com/amplify_video_thumb/2107013219847966721/img/jTzd5NXpgGnJVth4.jpg" alt="Jev Plays Classic Game Sonny 2 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Varro1320876/status/2107014306336260149">Jev Plays Classic Game Sonny 2</a></h3>
-<p>Jev from TypeSafe AI was seen playing the classic ArmorGames title Sonny 2, performing decently yet behaving like a Markov chain.</p>
-<p><strong>160</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 160</p>
-<p><strong>Cem B.</strong> · @Varro1320876</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2107041958959198617"><img src="https://pbs.twimg.com/amplify_video_thumb/2107041920665161728/img/QicJZW4iQAEJrbVj.jpg" alt="Trader builds Polymarket quant bot with JEV &amp; Claude · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2107041958959198617">Trader builds Polymarket quant bot with JEV &amp; Claude</a></h3>
+<p>The post says a trader used JEV and Claude to build a quant trading bot on Polymarket, making 33,043 predictions in 144 days with a 51% win rate and about $1,945 per day, focusing on short-term crypto up/down markets.</p>
+<p><strong>375</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 375</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/mani_koppala/status/2107043381398454327"><img src="https://pbs.twimg.com/media/HT24dUQW0AAx3iL?format=png&amp;name=900x900" alt="Jev Decision API Agent Architecture Sparks Discussion · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mani_koppala/status/2107043381398454327">Jev Decision API Agent Architecture Sparks Discussion</a></h3>
+<p>The post comments on Jev&#39;s decision API agent architecture, suggesting it will be interesting.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Mani</strong> · @mani_koppala</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2107041958959198617"><img src="https://pbs.twimg.com/amplify_video_thumb/2107041920665161728/img/QicJZW4iQAEJrbVj.jpg" alt="Trader builds Polymarket quant bot with JEV &amp; Claude · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2107041958959198617">Trader builds Polymarket quant bot with JEV &amp; Claude</a></h3>
+<p>The post says a trader used JEV and Claude to build a quant trading bot on Polymarket, making 33,043 predictions in 144 days with a 51% win rate and about $1,945 per day, focusing on short-term crypto up/down markets.</p>
+<p><strong>375</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 375</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/deezzex/status/2107041157662278113"><img src="https://pbs.twimg.com/amplify_video_thumb/2107040900278870017/img/1LJHdD-c4ul3oLT2.jpg" alt="Monitoring 6,000 Experiments with JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/deezzex/status/2107041157662278113">Monitoring 6,000 Experiments with JEV</a></h3>
+<p>The author deployed TypeSafe&#39;s JEV among other models on a spider and watched 6,000 experiments overnight, waking Opus only once, demonstrating JEV&#39;s potential in automated experiment monitoring.</p>
+<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 20</p>
+<p><strong>deezzex</strong> · @deezzex</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/NFT_Chen/status/2107024429335351691"><img src="https://pbs.twimg.com/media/HT2nhjOa8AA6FVA?format=jpg&amp;name=900x900" alt="Jev Chinese Tutorial and Optimization Recipes · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/NFT_Chen/status/2107024429335351691">Jev Chinese Tutorial and Optimization Recipes</a></h3>
 <p>A comprehensive Jev Chinese tutorial featuring 11 runnable Notebook chapters, covering writing three types of problem primitives, 18 practical recipes, voice-driven 3D smart home, and a Laya vs Jev four-dimensional comparison.</p>
 <p><strong>494</strong> views · 💬 4 &nbsp; 🔁 4 &nbsp; ♡ 11 &nbsp; 📊 494</p>
 <p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/Varro1320876/status/2107014306336260149"><img src="https://pbs.twimg.com/amplify_video_thumb/2107013219847966721/img/jTzd5NXpgGnJVth4.jpg" alt="Jev Plays Classic Game Sonny 2 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Varro1320876/status/2107014306336260149">Jev Plays Classic Game Sonny 2</a></h3>
-<p>Jev from TypeSafe AI was seen playing the classic ArmorGames title Sonny 2, performing decently yet behaving like a Markov chain.</p>
-<p><strong>160</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 160</p>
-<p><strong>Cem B.</strong> · @Varro1320876</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/SupersocksIntel/status/2107012305196097793"><img src="https://pbs.twimg.com/amplify_video_thumb/2106821622996905985/img/X7UEKgXqeeHQG0ds.jpg" alt="Jev Integration with Claude Code: Open-Source Tool for Effort Selection · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SupersocksIntel/status/2107012305196097793">Jev Integration with Claude Code: Open-Source Tool for Effort Selection</a></h3>
-<p>This post shares the spending-effort-with-jev repo, demonstrating how Jev picks /effort per Claude Code message, and mentions SuperQode 2.5 aligned to Jev Engineering for coding agents.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Supersocks Intelligent</strong> · @SupersocksIntel</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/kevin980606/status/2107001029816635770"><img src="https://pbs.twimg.com/media/HT2SQa5aIAEDvsX?format=jpg&amp;name=medium" alt="Jev by Typeface AI: A Fast Classification Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kevin980606/status/2107001029816635770">Jev by Typeface AI: A Fast Classification Model</a></h3>
-<p>Jev is a specialized classification model that only outputs yes/no or strict choices in 0.1 seconds. It cannot chat or do math, and costs $0.042 per million input tokens.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>KEVIN</strong> · @kevin980606</p>
 </td>
 </tr>
 </table>

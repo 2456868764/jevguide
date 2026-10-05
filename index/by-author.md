@@ -188,6 +188,7 @@
 - [HackerNewsTop5](../authors/hackernewstop5.md) — 3
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
+- [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
 - [Jason Zhou](../authors/jason-zhou.md) — 3
@@ -208,6 +209,7 @@
 - [kitze 🛠️ tinkerer.club](../authors/kitze-tinkerer-club.md) — 3
 - [Kiyoro](../authors/kiyoro.md) — 3
 - [Kun Chen](../authors/kun-chen.md) — 3
+- [Kurt](../authors/kurt.md) — 3
 - [leopardracer](../authors/leopardracer.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
 - [magsimich](../authors/magsimich.md) — 3
@@ -370,6 +372,7 @@
 - [David Ch](../authors/david-ch.md) — 2
 - [David Hendrickson](../authors/david-hendrickson.md) — 2
 - [dax](../authors/dax.md) — 2
+- [deezzex](../authors/deezzex.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
 - [Demirhan Aydın](../authors/demirhan-ayd-n.md) — 2
 - [Derya Unutmaz, MD](../authors/derya-unutmaz-md.md) — 2
@@ -401,13 +404,13 @@
 - [GitHubDaily](../authors/githubdaily.md) — 2
 - [Glyph](../authors/glyph.md) — 2
 - [Golang News & Libs & Jobs - human 🗣️ , no 🤖](../authors/golang-news-libs-jobs-human-no.md) — 2
+- [Gota](../authors/gota.md) — 2
 - [Guillermo Rauch](../authors/guillermo-rauch.md) — 2
 - [HAHWUL](../authors/hahwul.md) — 2
 - [Happycapy](../authors/happycapy.md) — 2
 - [Hassan](../authors/hassan.md) — 2
 - [Hemant](../authors/hemant.md) — 2
 - [Hendrik Krack](../authors/hendrik-krack.md) — 2
-- [Himanshu Kumar](../authors/himanshu-kumar.md) — 2
 - [hiraoku](../authors/hiraoku.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
@@ -447,7 +450,6 @@
 - [Kisson](../authors/kisson.md) — 2
 - [KK.aWSB](../authors/kk-awsb.md) — 2
 - [Kshitij](../authors/kshitij.md) — 2
-- [Kurt](../authors/kurt.md) — 2
 - [Kushal Patil](../authors/kushal-patil.md) — 2
 - [kwindla](../authors/kwindla.md) — 2
 - [Lahfir](../authors/lahfir.md) — 2
@@ -547,6 +549,7 @@
 - [RepoGems](../authors/repogems.md) — 2
 - [Ricky Grannis-Vu](../authors/ricky-grannis-vu.md) — 2
 - [Riley Brown](../authors/riley-brown.md) — 2
+- [Riley Coyote](../authors/riley-coyote.md) — 2
 - [Rinte](../authors/rinte.md) — 2
 - [rodon](../authors/rodon.md) — 2
 - [Ronin](../authors/ronin.md) — 2
@@ -1303,6 +1306,7 @@
 - [David Tao](../authors/david-tao.md) — 1
 - [David Villalón](../authors/david-villalon.md) — 1
 - [Davide Tedaldi](../authors/davide-tedaldi.md) — 1
+- [Davin YC Dong](../authors/davin-yc-dong.md) — 1
 - [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
 - [dealer.eth](../authors/dealer-eth.md) — 1
@@ -1315,7 +1319,6 @@
 - [Deepak Rajpurohit](../authors/deepak-rajpurohit.md) — 1
 - [DeepDive](../authors/deepdive.md) — 1
 - [Deepthi Connects](../authors/deepthi-connects.md) — 1
-- [deezzex](../authors/deezzex.md) — 1
 - [DeFAI Scope](../authors/defai-scope.md) — 1
 - [DegenAI](../authors/degenai.md) — 1
 - [dei](../authors/dei.md) — 1
@@ -1455,6 +1458,7 @@
 - [Eyal Estrin ☁️](../authors/eyal-estrin.md) — 1
 - [Eze Vidra](../authors/eze-vidra.md) — 1
 - [ezeugo](../authors/ezeugo.md) — 1
+- [Ezra Black](../authors/ezra-black.md) — 1
 - [Faadil Shaik](../authors/faadil-shaik.md) — 1
 - [Fabio Angela](../authors/fabio-angela.md) — 1
 - [Fabrício Carraro](../authors/fabricio-carraro.md) — 1
@@ -1575,7 +1579,6 @@
 - [Goran Gajić](../authors/goran-gajic.md) — 1
 - [Gorden Sun](../authors/gorden-sun.md) — 1
 - [Gosuke Suzuki｜Suzuki Soten](../authors/gosuke-suzuki-suzuki-soten.md) — 1
-- [Gota](../authors/gota.md) — 1
 - [goubie](../authors/goubie.md) — 1
 - [Gowoon Choi](../authors/gowoon-choi.md) — 1
 - [Gowtham](../authors/gowtham.md) — 1
@@ -1732,6 +1735,7 @@
 - [Istekhar khan](../authors/istekhar-khan.md) — 1
 - [it’s rivian](../authors/it-s-rivian.md) — 1
 - [IVAN | IA](../authors/ivan-ia.md) — 1
+- [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 1
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
@@ -1761,6 +1765,7 @@
 - [Jarod Reyes](../authors/jarod-reyes.md) — 1
 - [Jarrod Watts](../authors/jarrod-watts.md) — 1
 - [Jars](../authors/jars.md) — 1
+- [Jasmeet Singh](../authors/jasmeet-singh.md) — 1
 - [Jason ✨👾SaaStr.Ai✨ Lemkin](../authors/jason-saastr-ai-lemkin.md) — 1
 - [Jason Alco](../authors/jason-alco.md) — 1
 - [Jason Green](../authors/jason-green.md) — 1
@@ -2096,6 +2101,7 @@
 - [MalluCuler](../authors/malluculer.md) — 1
 - [Malte Ubl](../authors/malte-ubl.md) — 1
 - [Manfred Steyer](../authors/manfred-steyer.md) — 1
+- [Mani](../authors/mani.md) — 1
 - [Mani Brar](../authors/mani-brar.md) — 1
 - [Manideep Patibandla](../authors/manideep-patibandla.md) — 1
 - [Mann Patel](../authors/mann-patel.md) — 1
@@ -2478,6 +2484,7 @@
 - [Prajwal Tomar](../authors/prajwal-tomar.md) — 1
 - [Prakash Kagitha](../authors/prakash-kagitha.md) — 1
 - [Prakhar Pandey](../authors/prakhar-pandey.md) — 1
+- [Prakhar Saxena](../authors/prakhar-saxena.md) — 1
 - [Pranab Sarkar | YantrikDB | YantrikOS](../authors/pranab-sarkar-yantrikdb-yantrikos.md) — 1
 - [Prasanna Vaidya](../authors/prasanna-vaidya.md) — 1
 - [Prashant Lakhera](../authors/prashant-lakhera.md) — 1
@@ -2574,7 +2581,6 @@
 - [Rick Manelius](../authors/rick-manelius.md) — 1
 - [Rick Wong](../authors/rick-wong.md) — 1
 - [Rikin Shah](../authors/rikin-shah.md) — 1
-- [Riley Coyote](../authors/riley-coyote.md) — 1
 - [Rina W](../authors/rina-w.md) — 1
 - [𝐑𝐢𝐫𝐢👾](../authors/riri.md) — 1
 - [Rishi Raj Jain](../authors/rishi-raj-jain.md) — 1
@@ -3124,6 +3130,7 @@
 - [WilliamZhu](../authors/williamzhu.md) — 1
 - [Willis Wee](../authors/willis-wee.md) — 1
 - [Winston B.](../authors/winston-b.md) — 1
+- [Witold Wydmański](../authors/witold-wydmanski.md) — 1
 - [wiz (Ø,G)](../authors/wiz-g.md) — 1
 - [Wlad](../authors/wlad.md) — 1
 - [wluha](../authors/wluha.md) — 1
@@ -3289,6 +3296,7 @@
 - [ゲーム制作者向けイベント情報@ゲームメーカーズ](../authors/制作者向-情報.md) — 1
 - [げま｜個人開発](../authors/個人開発.md) — 1
 - [けんすう](../authors/jev-showcase.md) — 1
+- [ケンちゃん_AIDX](../authors/aidx.md) — 1
 - [けんと＠設計構築チャンネル](../authors/設計構築.md) — 1
 - [ゲ製用アカウント@個人開発](../authors/製用-個人開発.md) — 1
 - [ゴーレム所長｜人生再構築スタジオ](../authors/所長-人生再構築.md) — 1

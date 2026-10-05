@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 521 | 227 | 295 | 1.6M |
+| 523 | 227 | 297 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kenchan_aidx/status/2107043281612026092"><img src="https://pbs.twimg.com/media/HT24nY3aEAAgQRk?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kenchan_aidx/status/2107043281612026092">TypeSafe AI&#39;s Jev: No Text Generation, Only Typed Judgments and Confidence</a></h3>
+<p>The post introduces TypeSafe AI&#39;s Jev model, scheduled for early access in mid-September 2026. Unlike typical AI, Jev does not generate any text; it only returns typed judgments and confidence levels, and can only be asked three types of questions.</p>
+<p><strong>中文摘要：</strong>该帖子介绍 TypeSafe AI 的 Jev 模型，预计2026年9月中旬开启早期访问。与常见 AI 不同，Jev 不生成任何文字，而是返回带类型的判断和确信度，且只能询问三种类型的问题。</p>
+<p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx · 2026-10-05T09:40:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/kenchan_aidx/status/2107043281612026092">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/wwydmanski/status/2107018127884144673"><img src="https://pbs.twimg.com/media/HT2fk9JXcAAjaOY?format=jpg&amp;name=medium" alt="Evaluation of Basal 1.5 on Decision Benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wwydmanski/status/2107018127884144673">Evaluation of Basal 1.5 on Decision Benchmarks</a></h3>
+<p>Discusses the performance of Basal 1.5 models on decision benchmarks, including Clef-RL (Clef Flash fine-tuned on graph traversal) and Jev-Minitron (7B trained on specific tasks), evaluated on GB10. RAG benchmarks pending.</p>
+<p><strong>中文摘要：</strong>讨论 Basal 1.5 模型在决策基准上的表现，包括 Clef-RL（基于图遍历微调的 Clef Flash）和 Jev-Minitron（7B 参数，针对特定任务训练），评估在 GB10 上进行，RAG 基准待定。</p>
+<p><strong>Witold Wydmański</strong> · @wwydmanski · 2026-10-05T08:00:42.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 89</p>
+<p><a href="https://x.com/wwydmanski/status/2107018127884144673">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hongseyanqiu/status/2106988565901246769"><img src="https://pbs.twimg.com/amplify_video_thumb/2106987915675123712/img/cxx6e8KXCXOpChkO.jpg" alt="Lemon Quality Detection System Powered by Jev-Omni · 原帖视频截图" width="100%"></a>

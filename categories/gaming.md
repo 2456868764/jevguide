@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 345 | 262 | 87 | 588K |
+| 347 | 263 | 88 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kenchan_aidx/status/2107056585084486016"><img src="https://pbs.twimg.com/media/HT3EthtakAAwO_4?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Plays Doom · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kenchan_aidx/status/2107056585084486016">TypeSafe AI&#39;s Jev Plays Doom</a></h3>
+<p>TypeSafe AI demonstrates its Jev model driving real-time Doom gameplay with roughly 10 queries per second, at a cost of about $7 per hour.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 公开演示了其 Jev 模型以每秒约10次的频率查询，驱动 AI 实时玩 Doom，运营成本约每小时7美元。</p>
+<p><strong>ケンちゃん_AIDX</strong> · @kenchan_aidx · 2026-10-05T10:33:31.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/kenchan_aidx/status/2107056585084486016">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/paul__ml/status/2107045848823861733"><img src="https://pbs.twimg.com/amplify_video_thumb/2107045559466962944/img/K1BakfWgEOsfcbPP.jpg" alt="Jev-like Model Plays Minecraft · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/paul__ml/status/2107045848823861733">Jev-like Model Plays Minecraft</a></h3>
+<p>The author trained a 0.8B multimodal decision model that generates keyboard and mouse actions from screen input, running locally on a MacBook at 5 FPS to play Minecraft.</p>
+<p><strong>中文摘要：</strong>作者训练了一个0.8B的多模态决策模型，只通过屏幕画面即可生成键盘鼠标操作，在MacBook本地以5 FPS运行玩Minecraft。</p>
+<p><strong>Paul Lemaistre</strong> · @paul__ml · 2026-10-05T09:50:52.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 107</p>
+<p><a href="https://x.com/paul__ml/status/2107045848823861733">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Varro1320876/status/2107014306336260149"><img src="https://pbs.twimg.com/amplify_video_thumb/2107013219847966721/img/jTzd5NXpgGnJVth4.jpg" alt="Jev Plays Classic Game Sonny 2 · 原帖视频截图" width="100%"></a>

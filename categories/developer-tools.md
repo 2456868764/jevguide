@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 504 | 258 | 248 | 3.6M |
+| 506 | 259 | 249 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/melvindvivas/status/2107055953422254085"><img src="https://pbs.twimg.com/media/HT3DrT8bMAAoQ3Q?format=jpg&amp;name=medium" alt="JevDev v0.1.3 Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/melvindvivas/status/2107055953422254085">JevDev v0.1.3 Released</a></h3>
+<p>JevDev v0.1.3 is released — a free development environment for the Jev model by TypeSafeAI. This release fixes experiments and includes QoL updates for projects.</p>
+<p><strong>中文摘要：</strong>JevDev v0.1.3 已发布，这是 TypeSafeAI 的 Jev 模型免费开发环境。本次修复了实验功能并进行了项目相关体验优化。</p>
+<p><strong>Melvin Vivas</strong> · @melvindvivas · 2026-10-05T10:31:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/melvindvivas/status/2107055953422254085">在 X 查看原帖</a> · <a href="https://t.co/PoRWterXSX">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Ezra_Black_/status/2107039638087197068"><img src="https://pbs.twimg.com/media/HT21Ynla4AAWWpn?format=jpg&amp;name=900x900" alt="Jev + Bend Create a Blazing-Fast Benchmark Pipeline · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Ezra Black</strong> · @Ezra_Black_ · 2026-10-05T09:26:11.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Ezra_Black_/status/2107039638087197068">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eliron_giny/status/2107029842210255218"><img src="https://pbs.twimg.com/amplify_video_thumb/2107023207886647296/img/YJGkwZOs567QS1Bm.jpg" alt="Jev Demo: Generate UI from Free Text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eliron_giny/status/2107029842210255218">Jev Demo: Generate UI from Free Text</a></h3>
+<p>The author shares their experience with Jev, compares it to Claude and ChatGPT, and shows a demo built with Jev that generates UI from free text.</p>
+<p><strong>中文摘要：</strong>作者分享了对 Jev 的体验：它与 Claude 和 ChatGPT 有何不同，并展示了一个用 Jev 构建的演示，可根据自由文本生成界面。</p>
+<p><strong>Eliron Giny</strong> · @eliron_giny · 2026-10-05T08:47:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 64</p>
+<p><a href="https://x.com/eliron_giny/status/2107029842210255218">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/tigranbs/status/2107001889602859328"><img src="https://pbs.twimg.com/amplify_video_thumb/2107001560295428096/img/r8gfnx_vDA1mU26Z.jpg" alt="A New Service for Running System 1 Models Locally · 原帖视频截图" width="100%"></a>

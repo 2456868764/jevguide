@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 369 | 210 | 160 | 3.0M |
+| 371 | 211 | 161 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/noisyb0y1/status/2107053602749530507"><img src="https://pbs.twimg.com/amplify_video_thumb/2107053054075736064/img/nZ_WXJFEcojjgaEO.jpg" alt="Jev in a Multi-Model 24/7 Agent System · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/noisyb0y1/status/2107053602749530507">Jev in a Multi-Model 24/7 Agent System</a></h3>
+<p>The post describes a creative system merging Opus 5.5, Sonnet 5.5, Jev, and OpenAI Dots into a continuously running workflow, with Jev handling decisions in 81 ms, illustrating a real application scenario for the Jev model.</p>
+<p><strong>中文摘要：</strong>帖子描述了一个将Opus 5.5、Sonnet 5.5、Jev和OpenAI Dots整合为持续运行系统的创意场景，其中Jev负责以81毫秒完成决策，体现了Jev模型在实际自动化工作流中的应用。</p>
+<p><strong>Noisy</strong> · @noisyb0y1 · 2026-10-05T10:21:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 303</p>
+<p><a href="https://x.com/noisyb0y1/status/2107053602749530507">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kgmyatthu/status/2107046128130867456"><img src="https://pbs.twimg.com/media/HT27SFga4AAHQYo?format=png&amp;name=medium" alt="Experience pairing Jev with Xiaomi Mimo · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kgmyatthu/status/2107046128130867456">Experience pairing Jev with Xiaomi Mimo</a></h3>
+<p>The author reviews Xiaomi Mimo v2.6pro as affordable for low-complexity tasks but slow, requiring Jev for quick decisions, and notes concurrency synchronization issues and hallucination loops.</p>
+<p><strong>中文摘要：</strong>作者评价Xiaomi Mimo v2.6pro价格实惠，适合低复杂度任务，但速度慢，需与Jev配合实现快速决策，并指出Mimo存在并发同步问题及幻觉循环。</p>
+<p><strong>Kaung Myatthu</strong> · @kgmyatthu · 2026-10-05T09:51:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/kgmyatthu/status/2107046128130867456">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mani_koppala/status/2107043381398454327"><img src="https://pbs.twimg.com/media/HT24dUQW0AAx3iL?format=png&amp;name=900x900" alt="Jev Decision API Agent Architecture Sparks Discussion · 原帖图片" width="100%"></a>

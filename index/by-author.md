@@ -32,6 +32,7 @@
 - [ericosiu](../authors/ericosiu.md) — 7
 - [Fluixo](../authors/fluixo.md) — 7
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
+- [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
@@ -43,7 +44,6 @@
 - [Chrome](../authors/chrome.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 6
-- [Melvin Vivas](../authors/melvin-vivas.md) — 6
 - [Michael](../authors/michael.md) — 6
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
@@ -105,6 +105,7 @@
 - [jaffa](../authors/jaffa.md) — 4
 - [Josef Andre](../authors/josef-andre.md) — 4
 - [Justin Schroeder](../authors/justin-schroeder.md) — 4
+- [Kevin](../authors/kevin.md) — 4
 - [King Coin](../authors/king-coin.md) — 4
 - [kiosa](../authors/kiosa.md) — 4
 - [Maki@Sunwood AI Labs.](../authors/maki-sunwood-ai-labs.md) — 4
@@ -204,7 +205,6 @@
 - [kazuki🄽Notion](../authors/kazukinnotion.md) — 3
 - [KC](../authors/kc.md) — 3
 - [Kelip](../authors/kelip.md) — 3
-- [Kevin](../authors/kevin.md) — 3
 - [Khairallah AL-Awady](../authors/khairallah-al-awady.md) — 3
 - [kitze 🛠️ tinkerer.club](../authors/kitze-tinkerer-club.md) — 3
 - [Kiyoro](../authors/kiyoro.md) — 3
@@ -515,6 +515,7 @@
 - [Nikolaj Sokolowski](../authors/nikolaj-sokolowski.md) — 2
 - [Nikunj Kothari](../authors/nikunj-kothari.md) — 2
 - [Nilay Coskun](../authors/nilay-coskun.md) — 2
+- [Noisy](../authors/noisy.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
 - [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 2
 - [Ochob](../authors/ochob.md) — 2
@@ -642,6 +643,7 @@
 - [かなめ｜個人開発](../authors/個人開発.md) — 2
 - [かねこつよし](../authors/jev-showcase.md) — 2
 - [クオ⭐︎個人開発｜kitepon.dev](../authors/個人開発-kitepon-dev.md) — 2
+- [ケンちゃん_AIDX](../authors/aidx.md) — 2
 - [じゅん@AI駆動開発](../authors/ai駆動開発.md) — 2
 - [しょう | AX](../authors/ax.md) — 2
 - [たか｜０→１応援](../authors/0-1応援.md) — 2
@@ -1041,6 +1043,7 @@
 - [Ben Chandler](../authors/ben-chandler.md) — 1
 - [Ben Dicken](../authors/ben-dicken.md) — 1
 - [Ben Dickson](../authors/ben-dickson.md) — 1
+- [Ben Greenberg](../authors/ben-greenberg.md) — 1
 - [Ben Lesh](../authors/ben-lesh.md) — 1
 - [ben.](../authors/ben.md) — 1
 - [BenchRouter](../authors/benchrouter.md) — 1
@@ -1407,6 +1410,7 @@
 - [Eli Swed](../authors/eli-swed.md) — 1
 - [Eliana 🇺🇸](../authors/eliana.md) — 1
 - [Elio](../authors/elio.md) — 1
+- [Eliron Giny](../authors/eliron-giny.md) — 1
 - [Ellis](../authors/ellis.md) — 1
 - [Elvis](../authors/elvis.md) — 1
 - [EM360Tech](../authors/em360tech.md) — 1
@@ -1920,6 +1924,7 @@
 - [Kathia](../authors/kathia.md) — 1
 - [katopz](../authors/katopz.md) — 1
 - [Katungi Dev ⚡️](../authors/katungi-dev.md) — 1
+- [Kaung Myatthu](../authors/kaung-myatthu.md) — 1
 - [Kaushal Chaudhari](../authors/kaushal-chaudhari.md) — 1
 - [Kaushalendra](../authors/kaushalendra.md) — 1
 - [Kaushik Sivakumar](../authors/kaushik-sivakumar.md) — 1
@@ -2294,6 +2299,7 @@
 - [Nathan ✨](../authors/nathan.md) — 1
 - [Nathan Daehyun Nam](../authors/nathan-daehyun-nam.md) — 1
 - [Nathan Flurry 🔩](../authors/nathan-flurry.md) — 1
+- [Nav](../authors/nav.md) — 1
 - [Naveen Chandupatla](../authors/naveen-chandupatla.md) — 1
 - [Naveen Guru](../authors/naveen-guru.md) — 1
 - [Navin Kabra](../authors/navin-kabra.md) — 1
@@ -2349,7 +2355,6 @@
 - [nlev](../authors/nlev.md) — 1
 - [Noah](../authors/noah.md) — 1
 - [nocoo](../authors/nocoo.md) — 1
-- [Noisy](../authors/noisy.md) — 1
 - [nokia](../authors/nokia.md) — 1
 - [Nomad Analyst](../authors/nomad-analyst.md) — 1
 - [nOnEpcbl.](../authors/nonepcbl.md) — 1
@@ -2431,6 +2436,7 @@
 - [Patronus Ben](../authors/patronus-ben.md) — 1
 - [Paul Asjes](../authors/paul-asjes.md) — 1
 - [Paul Crossland](../authors/paul-crossland.md) — 1
+- [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
 - [Paul-Marie](../authors/paul-marie.md) — 1
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
@@ -2948,6 +2954,7 @@
 - [Thomas Kanze 🌴](../authors/thomas-kanze.md) — 1
 - [Thomas Rossi 👤🦹‍♂️👨‍💻](../authors/thomas-rossi.md) — 1
 - [thomas_R](../authors/thomas-r.md) — 1
+- [Thorfinn](../authors/thorfinn.md) — 1
 - [thsnkhn](../authors/thsnkhn.md) — 1
 - [Tianyin Xu](../authors/tianyin-xu.md) — 1
 - [Tibor (Tee)](../authors/tibor-tee.md) — 1
@@ -3296,7 +3303,6 @@
 - [ゲーム制作者向けイベント情報@ゲームメーカーズ](../authors/制作者向-情報.md) — 1
 - [げま｜個人開発](../authors/個人開発.md) — 1
 - [けんすう](../authors/jev-showcase.md) — 1
-- [ケンちゃん_AIDX](../authors/aidx.md) — 1
 - [けんと＠設計構築チャンネル](../authors/設計構築.md) — 1
 - [ゲ製用アカウント@個人開発](../authors/製用-個人開発.md) — 1
 - [ゴーレム所長｜人生再構築スタジオ](../authors/所長-人生再構築.md) — 1

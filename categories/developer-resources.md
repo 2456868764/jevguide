@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 317 | 127 | 190 | 419K |
+| 321 | 130 | 191 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SupersocksIntel/status/2107012305196097793"><img src="https://pbs.twimg.com/amplify_video_thumb/2106821622996905985/img/X7UEKgXqeeHQG0ds.jpg" alt="Jev Integration with Claude Code: Open-Source Tool for Effort Selection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SupersocksIntel/status/2107012305196097793">Jev Integration with Claude Code: Open-Source Tool for Effort Selection</a></h3>
+<p>This post shares the spending-effort-with-jev repo, demonstrating how Jev picks /effort per Claude Code message, and mentions SuperQode 2.5 aligned to Jev Engineering for coding agents.</p>
+<p><strong>中文摘要：</strong>该帖子分享了 spending-effort-with-jev 仓库，演示 Jev 如何为每条 Claude Code 消息选择 /effort，并提及与 Jev Engineering 对齐的 SuperQode 2.5 编码代理指南。</p>
+<p><strong>Supersocks Intelligent</strong> · @SupersocksIntel · 2026-10-05T07:37:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/SupersocksIntel/status/2107012305196097793">在 X 查看原帖</a> · <a href="https://t.co/4lLSi7CIoj">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/justrehen/status/2107004361553682605"><img src="https://pbs.twimg.com/media/HT2VQ92bsAA0NVi?format=jpg&amp;name=medium" alt="20-Step Mastering Plan for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/justrehen/status/2107004361553682605">20-Step Mastering Plan for Jev</a></h3>
+<p>Dhanian released a 20-step mastering plan for Jev, covering decision models from Choice and Score questions all the way to production systems and AI agents. The underlying assumption is that not every task belongs inside a generative LLM; Jev handles routing and classification.</p>
+<p><strong>中文摘要：</strong>Dhanian发布了一份Jev的20步掌握计划，涵盖从Choice和Score问题等决策模型到生产系统和AI代理。其隐含假设是并非每个任务都适合生成式LLM，Jev负责路由和分类。</p>
+<p><strong>rehen</strong> · @justrehen · 2026-10-05T07:06:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/justrehen/status/2107004361553682605">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/syahu_poyo_ai/status/2107003856911519790"><img src="https://pbs.twimg.com/amplify_video_thumb/2106413070872363008/img/nmvJQw_yKW4yD0mP.jpg" alt="10 blueprints for Jev API are now public on GitHub · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/syahu_poyo_ai/status/2107003856911519790">10 blueprints for Jev API are now public on GitHub</a></h3>
+<p>Introduces 10 blueprints for Jev API published on GitHub, each assigning only one task to Jev, suitable for developers who don&#39;t know where to start.</p>
+<p><strong>中文摘要：</strong>介绍GitHub上公开的Jev API相关10个设计图，每个设计图只让Jev执行一个任务，适合不知道从何入手的开发者参考。</p>
+<p><strong>社不ぽよ / AI creator😺</strong> · @syahu_poyo_ai · 2026-10-05T07:04:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 71</p>
+<p><a href="https://x.com/syahu_poyo_ai/status/2107003856911519790">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xSheepy/status/2106938425509093491"><img src="https://pbs.twimg.com/amplify_video_thumb/2106851540967518208/img/lPowllxOmbPmp75Z.jpg" alt="Jev AI Stack Development Resources · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xSheepy/status/2106938425509093491">Jev AI Stack Development Resources</a></h3>
+<p>The post mentions Opus 5.5 + Jev making the AI stack powerful, and lists 9 GitHub repos for building apps, including langchain.</p>
+<p><strong>中文摘要：</strong>帖子提到 Opus 5.5 + Jev 让 AI 技术栈非常强大，并列出了 9 个用于构建相关应用的 GitHub 仓库，包括 langchain 等。</p>
+<p><strong>Sheepy</strong> · @0xSheepy · 2026-10-05T02:44:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><a href="https://x.com/0xSheepy/status/2106938425509093491">在 X 查看原帖</a> · <a href="https://t.co/odFOoQblgt">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2106278115995721987"><img src="https://pbs.twimg.com/amplify_video_thumb/2106278085574488064/img/6XFCsk6n66txU532.jpg" alt="TypeSafe Released Official Documentation for Jev · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 852 | 352 | 504 | 3.0M |
+| 858 | 357 | 505 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NikhilLamba6/status/2107000092381294864"><img src="https://pbs.twimg.com/amplify_video_thumb/2106328891736588288/img/YfZCWehQuGmW9Vtx.jpg" alt="Pg-JEV: Using JEV for Semantic Database Queries · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NikhilLamba6/status/2107000092381294864">Pg-JEV: Using JEV for Semantic Database Queries</a></h3>
+<p>This post shares a new use case for JEV: semantic database queries, demonstrating JEV&#39;s expanded application in agentic scenarios.</p>
+<p><strong>中文摘要：</strong>该帖子分享了 JEV 的一个新用例：用于语义数据库查询，展示了 JEV 在智能体场景中的扩展应用。</p>
+<p><strong>Nikhil Lamba</strong> · @NikhilLamba6 · 2026-10-05T06:49:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/NikhilLamba6/status/2107000092381294864">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/nateberkopec/status/2106996184900604319"><img src="https://pbs.twimg.com/amplify_video_thumb/2106996107180122112/img/euz32H44W2gAbGvl.jpg" alt="Make Pi sessions essentially free with Jev + Luna · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
 <p><a href="https://x.com/nateberkopec/status/2106996184900604319">在 X 查看原帖</a> · <a href="https://t.co/2nitLbuze9">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MartinSzerment/status/2106974493470073238"><img src="https://pbs.twimg.com/media/HT16GRNXkAA9Wnz?format=jpg&amp;name=medium" alt="basal-1.0 Beats Jev API on Polish Decisions · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
 <p><a href="https://x.com/MartinSzerment/status/2106974493470073238">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ma_cyan555/status/2106970865099546861"><img src="https://pbs.twimg.com/media/HT12zaRacAEqKbE?format=jpg&amp;name=medium" alt="User wants to share an interesting Jev reply but is limited by platform features · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/ma_cyan555/status/2106970865099546861">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIzunA_izumo/status/2106962888460271776"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106962854704459777/pu/img/NsJ6fz0REpJ7AzeI.jpg" alt="Benchmarking Jev Alternatives · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>AIzunA 出雲から、AIをもっとやさしく。</strong> · @AIzunA_izumo · 2026-10-05T04:21:12.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/AIzunA_izumo/status/2106962888460271776">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kwindla/status/2106956074184261991"><img src="https://pbs.twimg.com/amplify_video_thumb/2106954463231791104/img/hEuJEqPf8pJNJVYM.jpg" alt="Self-organizing voice conversations with Jev and Pipecat · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kwindla/status/2106956074184261991">Self-organizing voice conversations with Jev and Pipecat</a></h3>
+<p>A voice conversation system built with Jev and Pipecat, using six workers as characters with individual system prompts and TTS.</p>
+<p><strong>中文摘要：</strong>Jev 和 Pipecat 实现了一个包含六个 worker 的语音对话系统，每个 worker 作为独立角色拥有各自的系统提示和 TTS。</p>
+<p><strong>kwindla</strong> · @kwindla · 2026-10-05T03:54:08.000Z</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 29 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/kwindla/status/2106956074184261991">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>
@@ -92,6 +116,54 @@
 <p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-05T03:16:18.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
 <p><a href="https://x.com/BenENewton/status/2106946553516593578">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AIzunA_izumo/status/2106938172081057933"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106938138556055552/pu/img/A1FyFsy4RJqdg2Uw.jpg" alt="Small benchmark: Jev vs Clef/Clef-flash, lower price · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AIzunA_izumo/status/2106938172081057933">Small benchmark: Jev vs Clef/Clef-flash, lower price</a></h3>
+<p>AIzunA tested Jev (jev-1.13.0) against Workers AI&#39;s Clef/Clef-flash on 44 Japanese samples. Accuracy was close, but Flash cost 1–1.9x Jev and Clef cost 2.7–5x; Clef failed 4 out of 176 calls (resend succeeded).</p>
+<p><strong>中文摘要：</strong>AIzunA以44条日语样本测试了Jev（jev-1.13.0）与Workers AI的Clef/Clef-flash。正解数接近，但Flash价格为Jev的1~1.9倍，Clef为2.7~5倍；Clef在176次中失败4次（重发成功）。</p>
+<p><strong>AIzunA 出雲から、AIをもっとやさしく。</strong> · @AIzunA_izumo · 2026-10-05T02:42:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/AIzunA_izumo/status/2106938172081057933">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/GameEventGM/status/2106927357206696142"><img src="https://pbs.twimg.com/media/HT1IERQaUAA-O99?format=jpg&amp;name=small" alt="Event: Why doesn&#39;t Jev write? – Using judgment-specialized AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GameEventGM/status/2106927357206696142">Event: Why doesn&#39;t Jev write? – Using judgment-specialized AI</a></h3>
+<p>Added to the event calendar: on October 8, 2026 (Thu) 19:00–19:45, an online session hosted by Asia Quest discusses how to use Jev, a judgment-specialized AI, and why it does not generate text.</p>
+<p><strong>中文摘要：</strong>游戏制作者活动日历新增内容：2026年10月8日（周四）19:00-19:45，亚洲探索主办线上讲座，讨论判断特化AI Jev 的用途，以及它为什么不像生成式AI那样写文章。</p>
+<p><strong>ゲーム制作者向けイベント情報@ゲームメーカーズ</strong> · @GameEventGM · 2026-10-05T02:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 125</p>
+<p><a href="https://x.com/GameEventGM/status/2106927357206696142">在 X 查看原帖</a> · <a href="https://t.co/iUWTWfWKK4">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JonahDevs/status/2106925756823797913"><img src="https://pbs.twimg.com/amplify_video_thumb/2106925717426753536/img/JegdfmGcuq60TAeA.jpg" alt="ShipOrFlop: Jev Adjudicates Product Launches · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JonahDevs/status/2106925756823797913">ShipOrFlop: Jev Adjudicates Product Launches</a></h3>
+<p>Jonah built ShipOrFlop using Jev to adjudicate, with the baseline set to the median of OpenAI&#39;s last 50 release announcements. Further tuning is planned.</p>
+<p><strong>中文摘要：</strong>Jonah使用Jev构建了ShipOrFlop，以OpenAI最近50条发布公告的中位数作为基线来裁决产品发布，后续还会进一步调整。</p>
+<p><strong>Jonah</strong> · @JonahDevs · 2026-10-05T01:53:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 834</p>
+<p><a href="https://x.com/JonahDevs/status/2106925756823797913">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iwasrobbed/status/2106913657582244036"><img src="https://pbs.twimg.com/amplify_video_thumb/2106788505506426881/img/biEqLrOQOZNzB9hW.jpg" alt="Discussion on Jev&#39;s sentience · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iwasrobbed/status/2106913657582244036">Discussion on Jev&#39;s sentience</a></h3>
+<p>The author argues that LLMs should not be trained as if they are human or sentient, and points out that while Jev is a form of intelligence, calling it sentient would be absurd.</p>
+<p><strong>中文摘要：</strong>作者认为无需像对待人类或有感知能力那样训练LLM，并指出Jev虽是一种智能形式，但断言其有感知是荒谬的。</p>
+<p><strong>Rob Phillips</strong> · @iwasrobbed · 2026-10-05T01:05:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 127</p>
+<p><a href="https://x.com/iwasrobbed/status/2106913657582244036">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/eightcoolguy/status/2106269145486741617"><img src="https://pbs.twimg.com/media/HTr3bHlbEAARThC?format=png&amp;name=900x900" alt="User tests Jev for sarcasm classification · 原帖图片" width="100%"></a>

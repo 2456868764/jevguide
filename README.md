@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>4945</strong><br>curated posts</td>
-<td align="center"><strong>2548</strong><br>original videos</td>
+<td align="center"><strong>4968</strong><br>curated posts</td>
+<td align="center"><strong>2558</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>852</strong> showcases · <strong>352</strong> videos</p>
+<p><strong>858</strong> showcases · <strong>357</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>519</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>521</strong> showcases · <strong>227</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>498</strong> showcases · <strong>257</strong> videos</p>
+<p><strong>503</strong> showcases · <strong>258</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>317</strong> showcases · <strong>127</strong> videos</p>
+<p><strong>321</strong> showcases · <strong>130</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>243</strong> showcases · <strong>136</strong> videos</p>
+<p><strong>245</strong> showcases · <strong>137</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>102</strong> showcases · <strong>54</strong> videos</p>
+<p><strong>103</strong> showcases · <strong>54</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>59</strong> showcases · <strong>19</strong> videos</p>
+<p><strong>60</strong> showcases · <strong>19</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>48</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>49</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -166,16 +166,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>23</strong> showcases · <strong>11</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>22</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>22</strong> showcases · <strong>11</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/nateberkopec/status/2106996184900604319"><img src="https://pbs.twimg.com/amplify_video_thumb/2106996107180122112/img/euz32H44W2gAbGvl.jpg" alt="Make Pi sessions essentially free with Jev + Luna · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nateberkopec/status/2106996184900604319">Make Pi sessions essentially free with Jev + Luna</a></h3>
-<p>Nate Berkopec built his own version of an idea using Jev and Luna to make any Pi session basically free, sharing a GitHub PR link.</p>
-<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
-<p><strong>Nate Berkopec</strong> · @nateberkopec</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/SupersocksIntel/status/2107012305196097793"><img src="https://pbs.twimg.com/amplify_video_thumb/2106821622996905985/img/X7UEKgXqeeHQG0ds.jpg" alt="Jev Integration with Claude Code: Open-Source Tool for Effort Selection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SupersocksIntel/status/2107012305196097793">Jev Integration with Claude Code: Open-Source Tool for Effort Selection</a></h3>
+<p>This post shares the spending-effort-with-jev repo, demonstrating how Jev picks /effort per Claude Code message, and mentions SuperQode 2.5 aligned to Jev Engineering for coding agents.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Supersocks Intelligent</strong> · @SupersocksIntel</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/ormkaa/status/2106991904416039101"><img src="https://pbs.twimg.com/amplify_video_thumb/2106991785872347136/img/bKFYknxeqfZR420M.jpg" alt="Jev: 10,000 decisions for 42 cents? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ormkaa/status/2106991904416039101">Jev: 10,000 decisions for 42 cents?</a></h3>
-<p>The post highlights Jev&#39;s pricing: $0.042 per million input tokens, with free output. At 1,000 tokens per decision, 10,000 decisions cost $0.42. The core idea is that agents spend most of their time picking, not writing.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>RO1</strong> · @ormkaa</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/erica_mae_2000/status/2107009709362557342"><img src="https://pbs.twimg.com/amplify_video_thumb/2107009556849238016/img/FthTEM7TCWN5wVCJ.jpg" alt="Automated trading practice with crawler, Jev judgment, and Grok order execution · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/erica_mae_2000/status/2107009709362557342">Automated trading practice with crawler, Jev judgment, and Grok order execution</a></h3>
+<p>The post says a crawler was connected to an existing system: the crawler reads web content, Jev handles the judgment, and a Grok bot places orders; it shows a result going from $100 to $12,161 over three nights.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>金马</strong> · @erica_mae_2000</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mohd_Ainan17/status/2106991179556618261"><img src="https://pbs.twimg.com/amplify_video_thumb/2106991006185041920/img/mxcJg3mokTTbY2JJ.jpg" alt="Filtering 15,000 GitHub Issues with Jev Before Claude · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mohd_Ainan17/status/2106991179556618261">Filtering 15,000 GitHub Issues with Jev Before Claude</a></h3>
-<p>The user ran 15,000 GitHub issues through Jev, which checked four criteria (reproduction steps, clear failure, bounded scope, whether reading code was needed), resulting in 360 issues passed to Claude Sonnet 5.5.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Mohammed Ainan</strong> · @Mohd_Ainan17</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/justrehen/status/2107004361553682605"><img src="https://pbs.twimg.com/media/HT2VQ92bsAA0NVi?format=jpg&amp;name=medium" alt="20-Step Mastering Plan for Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/justrehen/status/2107004361553682605">20-Step Mastering Plan for Jev</a></h3>
+<p>Dhanian released a 20-step mastering plan for Jev, covering decision models from Choice and Score questions all the way to production systems and AI agents. The underlying assumption is that not every task belongs inside a generative LLM; Jev handles routing and classification.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>rehen</strong> · @justrehen</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/hongseyanqiu/status/2106988565901246769"><img src="https://pbs.twimg.com/amplify_video_thumb/2106987915675123712/img/cxx6e8KXCXOpChkO.jpg" alt="Lemon Quality Detection System Powered by Jev-Omni · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/hongseyanqiu/status/2106988565901246769">Lemon Quality Detection System Powered by Jev-Omni</a></h3>
-<p>A lemon sorting detection system running on a local MacBook, using Roboflow&#39;s RF-DETR instance segmentation model and Tracker for continuous tracking, with multiple detections to cover different lemon surfaces, tagged as Jev-Omni.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>极客开源</strong> · @hongseyanqiu</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/syahu_poyo_ai/status/2107003856911519790"><img src="https://pbs.twimg.com/amplify_video_thumb/2106413070872363008/img/nmvJQw_yKW4yD0mP.jpg" alt="10 blueprints for Jev API are now public on GitHub · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/syahu_poyo_ai/status/2107003856911519790">10 blueprints for Jev API are now public on GitHub</a></h3>
+<p>Introduces 10 blueprints for Jev API published on GitHub, each assigning only one task to Jev, suitable for developers who don&#39;t know where to start.</p>
+<p><strong>71</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 71</p>
+<p><strong>社不ぽよ / AI creator😺</strong> · @syahu_poyo_ai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/nateberkopec/status/2106996184900604319"><img src="https://pbs.twimg.com/amplify_video_thumb/2106996107180122112/img/euz32H44W2gAbGvl.jpg" alt="Make Pi sessions essentially free with Jev + Luna · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nateberkopec/status/2106996184900604319">Make Pi sessions essentially free with Jev + Luna</a></h3>
-<p>Nate Berkopec built his own version of an idea using Jev and Luna to make any Pi session basically free, sharing a GitHub PR link.</p>
-<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
-<p><strong>Nate Berkopec</strong> · @nateberkopec</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/SupersocksIntel/status/2107012305196097793"><img src="https://pbs.twimg.com/amplify_video_thumb/2106821622996905985/img/X7UEKgXqeeHQG0ds.jpg" alt="Jev Integration with Claude Code: Open-Source Tool for Effort Selection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SupersocksIntel/status/2107012305196097793">Jev Integration with Claude Code: Open-Source Tool for Effort Selection</a></h3>
+<p>This post shares the spending-effort-with-jev repo, demonstrating how Jev picks /effort per Claude Code message, and mentions SuperQode 2.5 aligned to Jev Engineering for coding agents.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Supersocks Intelligent</strong> · @SupersocksIntel</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/hongseyanqiu/status/2106988565901246769"><img src="https://pbs.twimg.com/amplify_video_thumb/2106987915675123712/img/cxx6e8KXCXOpChkO.jpg" alt="Lemon Quality Detection System Powered by Jev-Omni · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/hongseyanqiu/status/2106988565901246769">Lemon Quality Detection System Powered by Jev-Omni</a></h3>
-<p>A lemon sorting detection system running on a local MacBook, using Roboflow&#39;s RF-DETR instance segmentation model and Tracker for continuous tracking, with multiple detections to cover different lemon surfaces, tagged as Jev-Omni.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>极客开源</strong> · @hongseyanqiu</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/syahu_poyo_ai/status/2107003856911519790"><img src="https://pbs.twimg.com/amplify_video_thumb/2106413070872363008/img/nmvJQw_yKW4yD0mP.jpg" alt="10 blueprints for Jev API are now public on GitHub · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/syahu_poyo_ai/status/2107003856911519790">10 blueprints for Jev API are now public on GitHub</a></h3>
+<p>Introduces 10 blueprints for Jev API published on GitHub, each assigning only one task to Jev, suitable for developers who don&#39;t know where to start.</p>
+<p><strong>71</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 71</p>
+<p><strong>社不ぽよ / AI creator😺</strong> · @syahu_poyo_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/hackernoon/status/2106987762406596682"><img src="https://pbs.twimg.com/media/HT2GNBSWoAA9fYJ?format=jpg&amp;name=medium" alt="ChatRail Uses Jev as a Production Decision Layer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hackernoon/status/2106987762406596682">ChatRail Uses Jev as a Production Decision Layer</a></h3>
-<p>ChatRail benchmarked TypeSafe&#39;s Jev against Gemini and GPT for matching WhatsApp replies to alerts, then deployed Jev as a low-latency decision layer in production, demonstrating real-world agent decision use.</p>
-<p><strong>224</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 224</p>
-<p><strong>HackerNoon | Learn Any Technology</strong> · @hackernoon</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/tigranbs/status/2107001889602859328"><img src="https://pbs.twimg.com/amplify_video_thumb/2107001560295428096/img/r8gfnx_vDA1mU26Z.jpg" alt="A New Service for Running System 1 Models Locally · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tigranbs/status/2107001889602859328">A New Service for Running System 1 Models Locally</a></h3>
+<p>Tigran built a small service to run System 1 models locally on GPU, CPU, or even in the browser via WASM, supporting nearly any LLM model or specialized cut-out models.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Tigran</strong> · @tigranbs</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mohd_Ainan17/status/2106977170937778471"><img src="https://pbs.twimg.com/amplify_video_thumb/2106977140394934272/img/LFPuJKZHqqj3jYqO.jpg" alt="Building a Zero-Employee Company with JEV, Saving $45k a Month · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mohd_Ainan17/status/2106977170937778471">Building a Zero-Employee Company with JEV, Saving $45k a Month</a></h3>
-<p>The post describes an automated company built with JEV + DOTS: one brain, five AI roles (research, sales, builder, creator, growth), requiring only human approval clicks, saving $45k per month.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Mohammed Ainan</strong> · @Mohd_Ainan17</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/ManiarViral/status/2106998771624341933"><img src="https://pbs.twimg.com/media/HT2QNh3bQAAn-i1?format=jpg&amp;name=medium" alt="Jev-IDS: System One Model for Network Intrusion Detection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ManiarViral/status/2106998771624341933">Jev-IDS: System One Model for Network Intrusion Detection</a></h3>
+<p>Jev-IDS applies TypeSafe&#39;s System One model to NIDS, avoiding huge labeled datasets and expensive LLMs. It serializes one flow per request and asks two questions (attack + category), claiming to be 22x cheaper than Gemini 3.6 Flash.</p>
+<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 52</p>
+<p><strong>Viral Maniar</strong> · @ManiarViral</p>
 </td>
 </tr>
 </table>

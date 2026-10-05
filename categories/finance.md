@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 243 | 136 | 109 | 1.2M |
+| 245 | 137 | 110 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/erica_mae_2000/status/2107009709362557342"><img src="https://pbs.twimg.com/amplify_video_thumb/2107009556849238016/img/FthTEM7TCWN5wVCJ.jpg" alt="Automated trading practice with crawler, Jev judgment, and Grok order execution · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/erica_mae_2000/status/2107009709362557342">Automated trading practice with crawler, Jev judgment, and Grok order execution</a></h3>
+<p>The post says a crawler was connected to an existing system: the crawler reads web content, Jev handles the judgment, and a Grok bot places orders; it shows a result going from $100 to $12,161 over three nights.</p>
+<p><strong>中文摘要：</strong>帖子称将爬虫接入已有系统：爬虫读取网页内容，Jev 负责判断，Grok 机器人下单；并展示了从 100 美元起始、3 晚后变为 12161 美元的结果。</p>
+<p><strong>金马</strong> · @erica_mae_2000 · 2026-10-05T07:27:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/erica_mae_2000/status/2107009709362557342">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/vmrmax/status/2106988926938353996"><img src="https://pbs.twimg.com/media/HT2HNBoXoAAhjFh?format=jpg&amp;name=medium" alt="Overnight Crypto Trading Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vmrmax/status/2106988926938353996">Overnight Crypto Trading Powered by Jev</a></h3>
+<p>The post describes an overnight crypto trading setup: Jev sends every order while Opus 5.5 writes the thesis, automatically trading BTC, ETH, and SOL. It reflects Jev used in a real trading workflow.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一套夜间自动交易加密资产的方案：用 Jev 发送每笔订单，由 Opus 5.5 撰写交易分析，实现在睡眠期间自动交易 BTC、ETH、SOL。属于 Jev 在真实交易场景中的应用。</p>
+<p><strong>Max Vmr</strong> · @vmrmax · 2026-10-05T06:04:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/vmrmax/status/2106988926938353996">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Vbeselin/status/2106969718146101598"><img src="https://pbs.twimg.com/media/HT11xWMWoAA5PCz?format=jpg&amp;name=medium" alt="Jev-Powered Fully Autonomous Crypto Trading System · 原帖图片" width="100%"></a>

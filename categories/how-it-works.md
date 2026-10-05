@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 519 | 227 | 293 | 1.6M |
+| 521 | 227 | 295 | 1.6M |
 
 ## Showcase 卡片
 
@@ -55,6 +55,30 @@
 <p><strong>λL-D1 | AI for Buzzer 🍉</strong> · @F2aldi · 2026-10-05T03:03:03.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 435</p>
 <p><a href="https://x.com/F2aldi/status/2106943221247160443">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vcarpenterdev/status/2106934896736514281"><img src="https://pbs.twimg.com/media/HT1WHpUWAAAnG5m?format=jpg&amp;name=medium" alt="Jev &#39;Can&#39;t Hallucinate&#39;: A Schema Guarantee, Not a Measurement · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vcarpenterdev/status/2106934896736514281">Jev &#39;Can&#39;t Hallucinate&#39;: A Schema Guarantee, Not a Measurement</a></h3>
+<p>A commentary on TypeSafe&#39;s claim that Jev &#39;can&#39;t hallucinate&#39;: it means outputs conform to a schema, but doesn&#39;t guarantee correctness. Jev returns structured decisions rather than text, at $0.042 per million tokens.</p>
+<p><strong>中文摘要：</strong>评论 TypeSafe 声称 Jev 无法幻觉的说法：这表示输出受 schema 约束，但不保证答案正确。Jev 返回结构化决策而非文本，价格为每百万 token 0.042 美元。</p>
+<p><strong>Vinny Carpenter</strong> · @vcarpenterdev · 2026-10-05T02:29:58.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
+<p><a href="https://x.com/vcarpenterdev/status/2106934896736514281">在 X 查看原帖</a> · <a href="https://t.co/CgmzWZtTkn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/spirits0514/status/2106912410489753750"><img src="https://pbs.twimg.com/media/HT1Bpm4bkAA_8qN?format=jpg&amp;name=medium" alt="What is Jev: an AI focused on classification, scoring, and judgment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/spirits0514/status/2106912410489753750">What is Jev: an AI focused on classification, scoring, and judgment</a></h3>
+<p>Recently discussed Jev is not an AI that generates text like ChatGPT, but rather reads information to classify, score, and judge. Examples include routing inquiries to the right staff, assessing project–talent fit, prioritizing sales leads, and deciding whether an AI agent can execute.</p>
+<p><strong>中文摘要：</strong>最近热门话题的Jev并非像ChatGPT那样生成文章，而是读取信息进行“分类、评分、判断”。示例包括：按负责人分配咨询、判断项目与人才匹配度、为销售线索排序、决定AI智能体是否可以执行。</p>
+<p><strong>アキナ＠AIでSES営業の生産性を爆上げ</strong> · @spirits0514 · 2026-10-05T01:00:37.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 71</p>
+<p><a href="https://x.com/spirits0514/status/2106912410489753750">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

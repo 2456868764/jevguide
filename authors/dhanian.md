@@ -1,9 +1,10 @@
 # Dhanian 🗯️
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-05T05:57:28.000Z | [Mastering Jev: Step 1 Understand the Fundamentals](https://x.com/e_opore/status/2106987115632300344) | 教育 | Dhanian 🗯️ | 729 |
 | 2026-10-03T05:06:34.000Z | [Fine-Tuning Jev for Your Domain](https://x.com/e_opore/status/2106249530664767702) | 开发资源 | Dhanian 🗯️ | 275 |
 | 2026-09-28 | [Jev Decision Types and Output Formats](https://x.com/e_opore/status/2104412783114695166) | 开发资源 | Dhanian 🗯️ | 420 |
 | 2026-09-28 | [Jev API Developer Cheat Sheet](https://x.com/e_opore/status/2104416347442835543) | 开发资源 | Dhanian 🗯️ | 237 |

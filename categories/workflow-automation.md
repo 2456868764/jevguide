@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 203 | 136 | 67 | 595K |
+| 205 | 138 | 67 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Mohd_Ainan17/status/2106977170937778471"><img src="https://pbs.twimg.com/amplify_video_thumb/2106977140394934272/img/LFPuJKZHqqj3jYqO.jpg" alt="Building a Zero-Employee Company with JEV, Saving $45k a Month · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mohd_Ainan17/status/2106977170937778471">Building a Zero-Employee Company with JEV, Saving $45k a Month</a></h3>
+<p>The post describes an automated company built with JEV + DOTS: one brain, five AI roles (research, sales, builder, creator, growth), requiring only human approval clicks, saving $45k per month.</p>
+<p><strong>中文摘要：</strong>原帖介绍了用 JEV + DOTS 搭建的自动化公司：一个大脑、五个 AI 角色（研究、销售、构建、创作、增长），仅需人类点击批准，每月可节省 4.5 万美元。</p>
+<p><strong>Mohammed Ainan</strong> · @Mohd_Ainan17 · 2026-10-05T05:17:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Mohd_Ainan17/status/2106977170937778471">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xverdao/status/2106953776523317635"><img src="https://pbs.twimg.com/amplify_video_thumb/2106842580600188930/img/ecr0HzLSnLG7uopD.jpg" alt="Using Jev to Automate Startup Rebuild Planning · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xverdao/status/2106953776523317635">Using Jev to Automate Startup Rebuild Planning</a></h3>
+<p>A user asked Jev to pick a billion-dollar startup and map how to rebuild its core product overnight. By 08:30, a brief was waiting in Slack with 2 decisions for the user and 0 things sent without approval. The whole night ran on one chain: pick target → read public docs → ...</p>
+<p><strong>中文摘要：</strong>用户让 Jev 在夜间选择一家十亿美元级初创公司并规划如何重建其核心产品，第二天早上在 Slack 收到简报，包含两个需要用户决策的事项，且没有任何内容未经用户批准就被发送。整个过程由一条链式工作流驱动：选择目标→阅读公开文档→……</p>
+<p><strong>Verdao</strong> · @0xverdao · 2026-10-05T03:45:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/0xverdao/status/2106953776523317635">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thegreatest_sv/status/2106038747485855844"><img src="https://pbs.twimg.com/amplify_video_thumb/2105999476120797184/img/hRRwxPX6tPezxLLA.jpg" alt="Building an Automated Newsroom with Grok and JEV · 原帖视频截图" width="100%"></a>

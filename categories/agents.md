@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 363 | 207 | 157 | 3.0M |
+| 365 | 208 | 158 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hackernoon/status/2106987762406596682"><img src="https://pbs.twimg.com/media/HT2GNBSWoAA9fYJ?format=jpg&amp;name=medium" alt="ChatRail Uses Jev as a Production Decision Layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hackernoon/status/2106987762406596682">ChatRail Uses Jev as a Production Decision Layer</a></h3>
+<p>ChatRail benchmarked TypeSafe&#39;s Jev against Gemini and GPT for matching WhatsApp replies to alerts, then deployed Jev as a low-latency decision layer in production, demonstrating real-world agent decision use.</p>
+<p><strong>中文摘要：</strong>ChatRail 测试了 TypeSafe 的 Jev 模型与 Gemini、GPT 在将 WhatsApp 回复与警报匹配方面的表现，并将 Jev 作为低延迟决策层集成到生产环境中，展示了 Jev 在智能体决策场景中的实际应用。</p>
+<p><strong>HackerNoon | Learn Any Technology</strong> · @hackernoon · 2026-10-05T06:00:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 224</p>
+<p><a href="https://x.com/hackernoon/status/2106987762406596682">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ZeemanTech/status/2106961487990518211"><img src="https://pbs.twimg.com/amplify_video_thumb/2106952885145649152/img/vk8ERlDiEot3yiMl.jpg" alt="Jev Tested in Space Station Docking Simulation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ZeemanTech/status/2106961487990518211">Jev Tested in Space Station Docking Simulation</a></h3>
+<p>A user tests TypeSafe AI&#39;s Jev inside a space station docking simulation. Jev successfully docks while controlling the chaser, but the author notes this is not what Jev was designed for.</p>
+<p><strong>中文摘要：</strong>用户测试了 TypeSafe AI 的 Jev 模型，在空间站对接模拟中控制追踪飞行器并成功完成对接，同时指出这并非 Jev 的设计用途。</p>
+<p><strong>zeeman</strong> · @ZeemanTech · 2026-10-05T04:15:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/ZeemanTech/status/2106961487990518211">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ggwplabs/status/2106256356294426973"><img src="https://pbs.twimg.com/amplify_video_thumb/2106255025710194688/img/yqlBVUlIPH3mGLaN.jpg" alt="Jev Routes 20K Agent Events to Just 800 Writing Jobs · 原帖视频截图" width="100%"></a>

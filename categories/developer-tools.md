@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 494 | 253 | 243 | 3.6M |
+| 498 | 257 | 243 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/buddypia/status/2106983417913262382"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995798546919424/img/u1foYKB8vW15KASh.jpg" alt="Jev vs Clef: Cost Comparison for Judgments · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/buddypia/status/2106983417913262382">Jev vs Clef: Cost Comparison for Judgments</a></h3>
+<p>The post compares Jev and Clef costs for 1 million judgments ($84 vs $480), noting that Clef&#39;s unit input price is 5.71x higher (2.14x for Clef-flash), and while the schema is compatible, the confidence calculation formula differs.</p>
+<p><strong>中文摘要：</strong>原帖比较了 Jev 与 Clef 在 100 万次判定中的费用（Jev $84, Clef $480），指出输入单价 Clef 比 Jev 高 5.71 倍（Clef-flash 高 2.14 倍），并提到虽然模式相容，但置信度计算公式不同。</p>
+<p><strong>じゅん@AI駆動開発</strong> · @buddypia · 2026-10-05T05:42:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
+<p><a href="https://x.com/buddypia/status/2106983417913262382">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nvkudva/status/2106969248254001632"><img src="https://pbs.twimg.com/amplify_video_thumb/2106969221016289280/img/5JrpqKtgpEuSsPIs.jpg" alt="Ollajev: A decision-model tool for Jev-style models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nvkudva/status/2106969248254001632">Ollajev: A decision-model tool for Jev-style models</a></h3>
+<p>Ollajev provides a unified API for Jev-style decision models, featuring search, download, serving, a TUI, and a /v1/systemone endpoint.</p>
+<p><strong>中文摘要：</strong>Ollajev 为 Jev 风格的决策模型提供统一 API，包括搜索、下载、服务、TUI 以及 /v1/systemone 端点。</p>
+<p><strong>Vijaykrishna</strong> · @nvkudva · 2026-10-05T04:46:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/nvkudva/status/2106969248254001632">在 X 查看原帖</a> · <a href="https://t.co/jHExhFrrY8">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Geosley/status/2106957556421894221"><img src="https://pbs.twimg.com/amplify_video_thumb/2106158447226191872/img/cHJDAc4sHXZEFfWs.jpg" alt="Run AI Evals with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Geosley/status/2106957556421894221">Run AI Evals with Jev</a></h3>
+<p>A medical diagnostics app gave confident but wrong advice for diabetes symptoms. The author shows how to run AI evals with TypeSafe AI&#39;s Jev to catch such errors.</p>
+<p><strong>中文摘要：</strong>一个医疗诊断应用对糖尿病症状给出了自信但错误的建议。作者展示如何使用TypeSafe AI的Jev运行AI评估来捕获此类错误。</p>
+<p><strong>Geosley Andrades #DF26</strong> · @Geosley · 2026-10-05T04:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 72</p>
+<p><a href="https://x.com/Geosley/status/2106957556421894221">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BenENewton/status/2106946540174492158"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106946508465606656/pu/img/P_E7xAJt4hi8CawY.jpg" alt="Using Jev to Optimize Claude Code Subagent Model Selection, Cutting Costs by 51% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BenENewton/status/2106946540174492158">Using Jev to Optimize Claude Code Subagent Model Selection, Cutting Costs by 51%</a></h3>
+<p>Ben Newton built a mod that uses Jev to pick the agent and model for every Claude Code subagent call. Lookups cut costs by 51% while facts remained accurate.</p>
+<p><strong>中文摘要：</strong>Ben Newton 构建了一个mod，让Jev为每次Claude Code子代理调用选择代理和模型。在查找任务中成本降低51%，且所有事实依然准确。</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-05T03:16:15.000Z</p>
+<p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 573</p>
+<p><a href="https://x.com/BenENewton/status/2106946540174492158">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gota_bara/status/2106277484715188445"><img src="https://pbs.twimg.com/media/HTr81HDbIAAt4m1?format=jpg&amp;name=medium" alt="Many Jev-like Models Available via API · 原帖图片" width="100%"></a>

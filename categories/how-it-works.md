@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 515 | 225 | 291 | 1.6M |
+| 519 | 227 | 293 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hongseyanqiu/status/2106988565901246769"><img src="https://pbs.twimg.com/amplify_video_thumb/2106987915675123712/img/cxx6e8KXCXOpChkO.jpg" alt="Lemon Quality Detection System Powered by Jev-Omni · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hongseyanqiu/status/2106988565901246769">Lemon Quality Detection System Powered by Jev-Omni</a></h3>
+<p>A lemon sorting detection system running on a local MacBook, using Roboflow&#39;s RF-DETR instance segmentation model and Tracker for continuous tracking, with multiple detections to cover different lemon surfaces, tagged as Jev-Omni.</p>
+<p><strong>中文摘要：</strong>在本地 MacBook 上运行的柠檬分拣检测系统，使用 Roboflow 的 RF-DETR 实例分割模型和 Tracker 持续跟踪，以多次检测覆盖柠檬不同表面，并标记为 Jev-Omni。</p>
+<p><strong>极客开源</strong> · @hongseyanqiu · 2026-10-05T06:03:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/hongseyanqiu/status/2106988565901246769">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Dshyam03/status/2106949496689271035"><img src="https://pbs.twimg.com/amplify_video_thumb/2106949155709128704/img/bfocAwHVLPofCt8s.jpg" alt="Jev: An AI that doesn&#39;t chat—outputs typed answers and probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Dshyam03/status/2106949496689271035">Jev: An AI that doesn&#39;t chat—outputs typed answers and probabilities</a></h3>
+<p>Jev by TypeSafe AI doesn&#39;t chat; it returns a typed answer and a probability for code to branch on. The post also teases a QA demo.</p>
+<p><strong>中文摘要：</strong>Jev 由 TypeSafe AI 推出，不进行对话，而是返回带类型的答案和概率，供代码进行分支判断。帖子还提及后续可展示 QA 场景。</p>
+<p><strong>RDS</strong> · @Dshyam03 · 2026-10-05T03:27:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/Dshyam03/status/2106949496689271035">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/F2aldi/status/2106943244735246780"><img src="https://pbs.twimg.com/media/HT1dtUobIAAOBaO?format=jpg&amp;name=large" alt="Jev Model Explained: Confidence, Accuracy, and Workflow Integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/F2aldi/status/2106943244735246780">Jev Model Explained: Confidence, Accuracy, and Workflow Integration</a></h3>
+<p>Based on Caleb Writes Code&#39;s video and TypeSafe&#39;s official docs, this breakdown analyzes Jev&#39;s confidence and accuracy, and shows how to integrate Jev into real workflows.</p>
+<p><strong>中文摘要：</strong>本内容基于Caleb Writes Code的视频和TypeSafe官方文档，解析Jev模型在置信度、准确度方面的表现，并展示如何将Jev融入实际工作流。</p>
+<p><strong>λL-D1 | AI for Buzzer 🍉</strong> · @F2aldi · 2026-10-05T03:03:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 100</p>
+<p><a href="https://x.com/F2aldi/status/2106943244735246780">在 X 查看原帖</a> · <a href="https://t.co/Fr6uX7nRoM">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/F2aldi/status/2106943221247160443"><img src="https://pbs.twimg.com/media/HT1dr6Da0AA3nqY?format=jpg&amp;name=large" alt="Jev, Explained Simply · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/F2aldi/status/2106943221247160443">Jev, Explained Simply</a></h3>
+<p>8 slides briefly explaining key points of the Jev model: small decisions can use a focused model, typed answers still need accuracy checks.</p>
+<p><strong>中文摘要：</strong>用8张幻灯片简要说明Jev模型的核心要点：小决策可用聚焦模型，类型化答案仍需准确性检查。</p>
+<p><strong>λL-D1 | AI for Buzzer 🍉</strong> · @F2aldi · 2026-10-05T03:03:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 435</p>
+<p><a href="https://x.com/F2aldi/status/2106943221247160443">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wreckmyshit/status/2106275433616699590"><img src="https://pbs.twimg.com/amplify_video_thumb/2086947262119505920/img/mB6z4ksQgpjJ2zKe.jpg" alt="A Jev-like decision system · 原帖视频截图" width="100%"></a>

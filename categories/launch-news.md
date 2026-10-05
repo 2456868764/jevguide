@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 379 | 179 | 203 | 1.1M |
+| 383 | 181 | 205 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ormkaa/status/2106991904416039101"><img src="https://pbs.twimg.com/amplify_video_thumb/2106991785872347136/img/bKFYknxeqfZR420M.jpg" alt="Jev: 10,000 decisions for 42 cents? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ormkaa/status/2106991904416039101">Jev: 10,000 decisions for 42 cents?</a></h3>
+<p>The post highlights Jev&#39;s pricing: $0.042 per million input tokens, with free output. At 1,000 tokens per decision, 10,000 decisions cost $0.42. The core idea is that agents spend most of their time picking, not writing.</p>
+<p><strong>中文摘要：</strong>帖子介绍Jev的定价：每百万输入token仅需0.042美元，输出免费。以每次决策消耗1000 token计算，1万次决策总成本为0.42美元。核心观点是Agent日常大部分工作并非生成文本，而是做决策。</p>
+<p><strong>RO1</strong> · @ormkaa · 2026-10-05T06:16:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/ormkaa/status/2106991904416039101">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stretchcloud/status/2106987247027577070"><img src="https://pbs.twimg.com/amplify_video_thumb/2106849389851652098/img/tun7IvyOaEtD8syJ.jpg" alt="Jev Open Source Tool Week: Small Model Pre-check Mechanism · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stretchcloud/status/2106987247027577070">Jev Open Source Tool Week: Small Model Pre-check Mechanism</a></h3>
+<p>Ten open source tools shipped in the same week, each doing the same unglamorous thing: asking a tiny model yes or no before letting the expensive model move. jev-belay prevents Claude Code from claiming completion without checking the diff, and jev-skill-router picks the right skill.</p>
+<p><strong>中文摘要：</strong>同一个星期发布了十个开源工具，每个都做同样不引人注目的事：在让昂贵模型行动之前，用一个小模型判断是否可行。其中 jev-belay 防止 Claude Code 在未检查 diff 时声称完成，jev-skill-router 用于选择合适技能。</p>
+<p><strong>Prasenjit Sarkar</strong> · @stretchcloud · 2026-10-05T05:58:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/stretchcloud/status/2106987247027577070">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/leoai_build/status/2106985617582149825"><img src="https://pbs.twimg.com/media/HT2EPInWIAAwCwR?format=jpg&amp;name=medium" alt="TypeSafe Jev: A New Model That Only Makes Choices · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/leoai_build/status/2106985617582149825">TypeSafe Jev: A New Model That Only Makes Choices</a></h3>
+<p>The post introduces TypeSafe&#39;s Jev model: released three weeks ago, reportedly processing 1 trillion tokens per day, specializing in simple decision tasks like yes/no, scoring, or choosing from a list. It also mentions OpenAI, Databricks, and Cloudflare launching similar APIs.</p>
+<p><strong>中文摘要：</strong>帖子介绍TypeSafe的Jev模型：三周前发布，据称日处理量达一万亿token，专用于是/否、打分、从列表中选择等简单决策任务。文中还提到OpenAI、Databricks、Cloudflare等推出同类API。</p>
+<p><strong>Leo｜老站长·AI出海实战</strong> · @leoai_build · 2026-10-05T05:51:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/leoai_build/status/2106985617582149825">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2106959135904256034"><img src="https://pbs.twimg.com/media/HT1sKzwWwAEym57?format=jpg&amp;name=medium" alt="Cloudflare unveils Clef, a Jev-like decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2106959135904256034">Cloudflare unveils Clef, a Jev-like decision model</a></h3>
+<p>Cloudflare has released Clef, a decision model that supports image input and outperforms Jev in benchmarks, though Jev&#39;s author is skeptical of the benchmarks themselves.</p>
+<p><strong>中文摘要：</strong>Cloudflare公开了名为Clef的决策模型，支持图像输入，在基准测试中超过Jev，但Jev作者对基准本身表示怀疑。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-10-05T04:06:18.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 4.9K</p>
+<p><a href="https://x.com/gigazine/status/2106959135904256034">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Tekticia/status/2106273342315508105"><img src="https://pbs.twimg.com/media/HTr8cZEWAAAS_2e?format=jpg&amp;name=medium" alt="Amazon Launches Strands Decider 2B, a Jev Clone · 原帖图片" width="100%"></a>

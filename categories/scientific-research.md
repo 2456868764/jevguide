@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 69 | 25 | 46 | 136K |
+| 71 | 25 | 48 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NewsTongueX/status/2106963486748135542"><img src="https://pbs.twimg.com/media/HT1wHbRWUAADF3r?format=jpg&amp;name=medium" alt="Study: Hosted Jev Model Outperforms Open-Weight Rival on Agent Tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NewsTongueX/status/2106963486748135542">Study: Hosted Jev Model Outperforms Open-Weight Rival on Agent Tasks</a></h3>
+<p>Researchers evaluated two System-1 decision models—open-weight Laya and hosted Jev—across 11 agent decision points using 7,283 base cases plus 6,640 robustness variants. Jev came out ahead.</p>
+<p><strong>中文摘要：</strong>研究人员评估了两个 System-1 决策模型——开源 Laya 和托管式 Jev——在 11 个智能体决策点上的表现，使用 7,283 个基础用例及 6,640 个鲁棒性变体。结果显示 Jev 胜出。</p>
+<p><strong>NewsTongue</strong> · @NewsTongueX · 2026-10-05T04:23:35.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/NewsTongueX/status/2106963486748135542">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sista05/status/2106946369567035432"><img src="https://pbs.twimg.com/media/HT1gjr3WQAAoTqb?format=jpg&amp;name=medium" alt="Jev Model Integrated into SQL Processing Research · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sista05/status/2106946369567035432">Jev Model Integrated into SQL Processing Research</a></h3>
+<p>This research proposes incorporating the Jev model into Semantic SQL, using LLMs to judge text semantics for SQL filtering and JOIN conditions, addressing the time and cost of per-row evaluation.</p>
+<p><strong>中文摘要：</strong>该研究提出将Jev模型引入Semantic SQL，利用LLM等模型判断文本语义，用于SQL的筛选和JOIN条件，以解决逐行判断带来的时间和费用开销问题。</p>
+<p><strong>akira @ DataMarket 💹</strong> · @sista05 · 2026-10-05T03:15:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 559</p>
+<p><a href="https://x.com/sista05/status/2106946369567035432">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HEI/status/2106262165468434620"><img src="https://pbs.twimg.com/media/HTryR0LXgAAhlZ4?format=png&amp;name=medium" alt="Chinese-Jev: Bringing System One Model to Chinese-Language Tasks · 原帖图片" width="100%"></a>

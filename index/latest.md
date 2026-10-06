@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T05:48:44.000Z | [Australia's open-source AI Matilda claims to outpace Jev in decision-making](https://x.com/badboyfoxy/status/2107347302310408462) | 社区实践 | badboyfoxy | 275 |
+| 2026-10-06T05:45:09.000Z | [TypeSafe AI Releases Jev Decision Model](https://x.com/AGTPinsights/status/2107346400640127382) | 产品发布 | AGTP | 64 |
+| 2026-10-06T05:44:49.000Z | [Jev Has an Open Competitor from an Actual Lab: Matilda Jev](https://x.com/marcthecreatorr/status/2107346317588533446) | 产品发布 | Marcel | 108 |
+| 2026-10-06T05:33:43.000Z | [Minecraft Metaphor: How Jev Stops AI Nonsense](https://x.com/gogu_name/status/2107343523091480779) | 工作原理 | gogu | 75 |
+| 2026-10-06T05:28:08.000Z | [Matilda Tops Jev Decision Index Ahead of Jev](https://x.com/vikktorrrre/status/2107342121602584966) | 智能体 | Veee | 781 |
 | 2026-10-06T05:05:35.000Z | [Jev decision AI arrives on Alarm Monster, now callable via /jev](https://x.com/yilmazmehmethc/status/2107336444582727836) | 接入动态 | Mehmet YILMAZ | 0 |
 | 2026-10-06T05:02:55.000Z | [Jev-Driven Dev Workflow: 70 Hours of Senior Dev Work for $5.01](https://x.com/vmrmax/status/2107335771933856082) | 软件开发 | Max Vmr | 4 |
 | 2026-10-06T05:01:23.000Z | [Jev microsecond decisions, powered by Rust](https://x.com/katopz/status/2107335389338055024) | 开发资源 | katopz | 1 |
@@ -97,8 +102,3 @@
 | 2026-10-05T09:32:13.000Z | [Monitoring 6,000 Experiments with JEV](https://x.com/deezzex/status/2107041157662278113) | 数据分析 | deezzex | 20 |
 | 2026-10-05T09:27:55.000Z | [I used my own Jev API key in prod, here's the cost](https://x.com/jassydev/status/2107040074395525595) | 社区实践 | Jasmeet Singh | 4 |
 | 2026-10-05T09:26:11.000Z | [Jev + Bend Create a Blazing-Fast Benchmark Pipeline](https://x.com/Ezra_Black_/status/2107039638087197068) | 开发者工具 | Ezra Black | 11 |
-| 2026-10-05T09:25:58.000Z | [Jev's Speaker Routing Challenge in Multi-Character Conversations](https://x.com/DavinYCD/status/2107039584165237058) | 智能体 | Davin YC Dong | 3 |
-| 2026-10-05T09:19:32.000Z | [An ambient intelligence agent powered by Jev vision](https://x.com/RileyRalmuto/status/2107037965721473521) | 智能体 | Riley Coyote | 261 |
-| 2026-10-05T09:13:46.000Z | [TypeSafe AI Unveils Jev Decision Model](https://x.com/FutureTech_AI1/status/2107036516082184628) | 产品发布 | Prakhar Saxena | 14 |
-| 2026-10-05T08:47:15.000Z | [Jev Demo: Generate UI from Free Text](https://x.com/eliron_giny/status/2107029842210255218) | 开发者工具 | Eliron Giny | 64 |
-| 2026-10-05T08:25:45.000Z | [Jev Chinese Tutorial and Optimization Recipes](https://x.com/NFT_Chen/status/2107024429335351691) | 开发资源 | SuSu_酥酥👅 | 494 |

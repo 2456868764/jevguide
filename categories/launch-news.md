@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 390 | 183 | 210 | 1.1M |
+| 392 | 183 | 212 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AGTPinsights/status/2107346400640127382"><img src="https://pbs.twimg.com/media/HT7MXnYbgAA0mPG?format=jpg&amp;name=medium" alt="TypeSafe AI Releases Jev Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AGTPinsights/status/2107346400640127382">TypeSafe AI Releases Jev Decision Model</a></h3>
+<p>Decision models emerge as a fast, cheap alternative for AI judgment. Jev returns typed, probabilistic decisions that software can act on directly, now in limited early release.</p>
+<p><strong>中文摘要：</strong>决策模型作为AI判断的快速低成本替代方案出现。Jev不生成文本，而是返回软件可直接执行的类型化概率决策，目前处于有限早期发布阶段。</p>
+<p><strong>AGTP</strong> · @AGTPinsights · 2026-10-06T05:45:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><a href="https://x.com/AGTPinsights/status/2107346400640127382">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/marcthecreatorr/status/2107346317588533446"><img src="https://pbs.twimg.com/media/HT7MTKxWcAA3nax?format=jpg&amp;name=medium" alt="Jev Has an Open Competitor from an Actual Lab: Matilda Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/marcthecreatorr/status/2107346317588533446">Jev Has an Open Competitor from an Actual Lab: Matilda Jev</a></h3>
+<p>Maincode released Matilda Jev, a 26B decision model trained on their own infrastructure in Australia. It does not generate text; given a decision, it returns probabilities for every option in one pass.</p>
+<p><strong>中文摘要：</strong>Maincode发布了Matilda Jev，一个26B参数的决策模型，在澳大利亚自有基础设施上训练。它不生成文本，而是输入决策后一次性返回每个选项的概率。</p>
+<p><strong>Marcel</strong> · @marcthecreatorr · 2026-10-06T05:44:49.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 108</p>
+<p><a href="https://x.com/marcthecreatorr/status/2107346317588533446">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ncchinh/status/2107105599037268273"><img src="https://pbs.twimg.com/media/HT3xSrDaEAA6tWL?format=png&amp;name=900x900" alt="Quyet 1.0 Tops JevBench · 原帖图片" width="100%"></a>

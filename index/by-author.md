@@ -150,6 +150,7 @@
 - [黄小木](../authors/黄小木.md) — 4
 - [A x A-AI時代の生き残り戦略💎](../authors/a-x-a-ai時代-生-残-戦略.md) — 3
 - [Aaron](../authors/aaron.md) — 3
+- [AGTP](../authors/agtp.md) — 3
 - [Ahab](../authors/ahab.md) — 3
 - [AI Insider](../authors/ai-insider.md) — 3
 - [AI Will](../authors/ai-will.md) — 3
@@ -301,7 +302,6 @@
 - [Abol](../authors/abol.md) — 2
 - [Adam Chester 🏴‍☠️](../authors/adam-chester.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
-- [AGTP](../authors/agtp.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
 - [AIzunA 出雲から、AIをもっとやさしく。](../authors/aizuna-出雲-ai.md) — 2
 - [Ajay Shah](../authors/ajay-shah.md) — 2
@@ -622,6 +622,7 @@
 - [Vaibhav Sisinty](../authors/vaibhav-sisinty.md) — 2
 - [Valeriy M., PhD, MBA, CQF](../authors/valeriy-m-phd-mba-cqf.md) — 2
 - [vedant](../authors/vedant.md) — 2
+- [Veee](../authors/veee.md) — 2
 - [Venice](../authors/venice.md) — 2
 - [Venkata Subrahmanyam](../authors/venkata-subrahmanyam.md) — 2
 - [Vercel](../authors/vercel.md) — 2
@@ -1039,6 +1040,7 @@
 - [Ayush Kushwaha](../authors/ayush-kushwaha.md) — 1
 - [Ayush Pandey](../authors/ayush-pandey.md) — 1
 - [Azan](../authors/azan.md) — 1
+- [badboyfoxy](../authors/badboyfoxy.md) — 1
 - [BadGuyTy 🅁🅅🄽 (Tyler Hess)](../authors/badguyty-rvn-tyler-hess.md) — 1
 - [Banandre](../authors/banandre.md) — 1
 - [banzaan](../authors/banzaan.md) — 1
@@ -1595,6 +1597,7 @@
 - [God of Prompt](../authors/god-of-prompt.md) — 1
 - [GoFly](../authors/gofly.md) — 1
 - [GOGOGO](../authors/gogogo.md) — 1
+- [gogu](../authors/gogu.md) — 1
 - [Gokhulnath](../authors/gokhulnath.md) — 1
 - [gold meir מאיר גולד](../authors/gold-meir.md) — 1
 - [Golem Cloud](../authors/golem-cloud.md) — 1
@@ -2140,6 +2143,7 @@
 - [Manyways](../authors/manyways.md) — 1
 - [mappy](../authors/mappy.md) — 1
 - [Marc Brooker](../authors/marc-brooker.md) — 1
+- [Marcel](../authors/marcel.md) — 1
 - [Marcelo Lebre](../authors/marcelo-lebre.md) — 1
 - [Marcia Ong](../authors/marcia-ong.md) — 1
 - [Marcin](../authors/marcin.md) — 1
@@ -3093,7 +3097,6 @@
 - [Vasusen](../authors/vasusen.md) — 1
 - [Vbeselin](../authors/vbeselin.md) — 1
 - [vechen](../authors/vechen.md) — 1
-- [Veee](../authors/veee.md) — 1
 - [Vel Yanchina](../authors/vel-yanchina.md) — 1
 - [Veles](../authors/veles.md) — 1
 - [Ven 🎒 ai explorer](../authors/ven-ai-explorer.md) — 1

@@ -199,6 +199,7 @@
 - [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
+- [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 3
 - [Jason Zhou](../authors/jason-zhou.md) — 3
 - [Jay Song](../authors/jay-song.md) — 3
 - [Jayant](../authors/jayant.md) — 3
@@ -239,6 +240,7 @@
 - [NeilXbt](../authors/neilxbt.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
 - [Niko(la)](../authors/niko-la.md) — 3
+- [Noisy](../authors/noisy.md) — 3
 - [Numan](../authors/numan.md) — 3
 - [o_devvy](../authors/o-devvy.md) — 3
 - [Paolo Rosson](../authors/paolo-rosson.md) — 3
@@ -433,7 +435,6 @@
 - [Irene - Fountain of Ideas](../authors/irene-fountain-of-ideas.md) — 2
 - [Isaac](../authors/isaac.md) — 2
 - [Issun Studio Japan](../authors/issun-studio-japan.md) — 2
-- [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 2
 - [Izumi Satoshi](../authors/izumi-satoshi.md) — 2
 - [J.𝙳𝚛𝚊𝚟𝚎𝚗](../authors/j-draven.md) — 2
 - [jaceyang](../authors/jaceyang.md) — 2
@@ -531,7 +532,6 @@
 - [Nikolaj Sokolowski](../authors/nikolaj-sokolowski.md) — 2
 - [Nikunj Kothari](../authors/nikunj-kothari.md) — 2
 - [Nilay Coskun](../authors/nilay-coskun.md) — 2
-- [Noisy](../authors/noisy.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
 - [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 2
 - [Ochob](../authors/ochob.md) — 2
@@ -567,6 +567,7 @@
 - [Riley Brown](../authors/riley-brown.md) — 2
 - [Riley Coyote](../authors/riley-coyote.md) — 2
 - [Rinte](../authors/rinte.md) — 2
+- [Rishi](../authors/rishi.md) — 2
 - [rodon](../authors/rodon.md) — 2
 - [Ronin](../authors/ronin.md) — 2
 - [Rudhamoy Debbarma](../authors/rudhamoy-debbarma.md) — 2
@@ -989,6 +990,7 @@
 - [ArkYu](../authors/arkyu.md) — 1
 - [arle](../authors/arle.md) — 1
 - [armaan](../authors/armaan.md) — 1
+- [Armin Ayat](../authors/armin-ayat.md) — 1
 - [Armin Ronacher ⇌](../authors/armin-ronacher.md) — 1
 - [arni](../authors/arni.md) — 1
 - [Aron | TomorrowLab](../authors/aron-tomorrowlab.md) — 1
@@ -2155,6 +2157,7 @@
 - [marco | AI x Web3 | ⚔️ Develop Manager](../authors/marco-ai-x-web3-develop-manager.md) — 1
 - [Marco Bambini](../authors/marco-bambini.md) — 1
 - [Marco Berlin](../authors/marco-berlin.md) — 1
+- [Marco De Rossi](../authors/marco-de-rossi.md) — 1
 - [Marco Franzon](../authors/marco-franzon.md) — 1
 - [Marcus | AI](../authors/marcus-ai.md) — 1
 - [Margi Shah](../authors/margi-shah.md) — 1
@@ -2209,6 +2212,7 @@
 - [meng shao](../authors/meng-shao.md) — 1
 - [Mengdi Chen](../authors/mengdi-chen.md) — 1
 - [Mert Durmazer](../authors/mert-durmazer.md) — 1
+- [Metagrapher](../authors/metagrapher.md) — 1
 - [Mew Social](../authors/mew-social.md) — 1
 - [mewc](../authors/mewc.md) — 1
 - [MewCP](../authors/mewcp.md) — 1
@@ -2436,6 +2440,7 @@
 - [Onur Oztaskiran](../authors/onur-oztaskiran.md) — 1
 - [Oodle AI](../authors/oodle-ai.md) — 1
 - [oor.sol](../authors/oor-sol.md) — 1
+- [OpenModel](../authors/openmodel.md) — 1
 - [OpenRelayInc](../authors/openrelayinc.md) — 1
 - [OpenRoboto](../authors/openroboto.md) — 1
 - [opTrade AI](../authors/optrade-ai.md) — 1
@@ -2631,7 +2636,6 @@
 - [Rikin Shah](../authors/rikin-shah.md) — 1
 - [Rina W](../authors/rina-w.md) — 1
 - [𝐑𝐢𝐫𝐢👾](../authors/riri.md) — 1
-- [Rishi](../authors/rishi.md) — 1
 - [Rishi Raj Jain](../authors/rishi-raj-jain.md) — 1
 - [Ritesh Biswas](../authors/ritesh-biswas.md) — 1
 - [rixhy](../authors/rixhy.md) — 1
@@ -2995,6 +2999,7 @@
 - [The Daily Tech Feed](../authors/the-daily-tech-feed.md) — 1
 - [The Latent](../authors/the-latent.md) — 1
 - [The SamurAI](../authors/the-samurai.md) — 1
+- [The Year of the Graph](../authors/the-year-of-the-graph.md) — 1
 - [Theclues](../authors/theclues.md) — 1
 - [TheDj](../authors/thedj.md) — 1
 - [Théo](../authors/theo.md) — 1

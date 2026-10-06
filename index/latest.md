@@ -2,6 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T10:48:06.000Z | [Building a Gmail Sorter with Jev](https://x.com/arminayat/status/2107422639849664864) | 生产力 | Armin Ayat | 6 |
+| 2026-10-06T10:36:07.000Z | [TypeSafe AI releases Jev 'System One' model to accelerate graph construction](https://x.com/TheYotg/status/2107419625977749899) | 产品发布 | The Year of the Graph | 47 |
+| 2026-10-06T10:32:28.000Z | [Testing Jev AI in a Nairobi Matatu Simulation Game](https://x.com/0x3Matt/status/2107418708243022202) | 游戏 | Metagrapher | 87 |
+| 2026-10-06T10:31:07.000Z | [Resolve Account Hierarchies with Jev: TAM Mapping for €2.2](https://x.com/agtmengineer/status/2107418368886366345) | 自动化工作流 | Ivan Escobar \| GTM Engineer | 11 |
+| 2026-10-06T10:30:39.000Z | [Sage Claims Decision Model Surpassing Jev](https://x.com/marco_derossi/status/2107418249843380397) | 产品发布 | Marco De Rossi | 212 |
+| 2026-10-06T10:28:13.000Z | [Spider Merges Multiple AI Models into a Business System](https://x.com/noisyb0y1/status/2107417638703870082) | 智能体 | Noisy | 242 |
+| 2026-10-06T10:14:53.000Z | [Bud Decision Studio: Run Jev-like Decision Models Locally](https://x.com/RishiUvaach/status/2107414282837324004) | 开发者工具 | Rishi | 107 |
+| 2026-10-06T10:12:12.000Z | [jev-latest 50% OFF on OpenModel](https://x.com/openmodel_/status/2107413608166764889) | 产品发布 | OpenModel | 39 |
 | 2026-10-06T08:35:02.000Z | [Build a DuckDB extension for row classification with Jev](https://x.com/HOTHEAD01TH/status/2107389153293852685) | 数据分析 | 𝕏AID ADIL 👨‍💻 | 2 |
 | 2026-10-06T08:31:28.000Z | [TinyDecide: A 6.2MB Jev-style Zero-Shot Decision Model](https://x.com/raminaol9ykas/status/2107388256052527121) | 产品发布 | ShadowBob | 26 |
 | 2026-10-06T08:23:00.000Z | [Build a Jev-style decision model: beginner's guide](https://x.com/CouponsFreeDis1/status/2107386124964663743) | 开发资源 | Coupons Free Discounts | 14 |
@@ -94,11 +102,3 @@
 | 2026-10-05T11:54:00.000Z | [Jev Legal Demos](https://x.com/theviclaw/status/2107076837289689502) | 法律合规 | victor | 35 |
 | 2026-10-05T11:44:53.000Z | [Go from Zero to Your First Jev Build for Free](https://x.com/Mnilax/status/2107074545794289839) | 开发资源 | Mnimiy | 472 |
 | 2026-10-05T11:44:38.000Z | [Mentions TypeSafe's Jev](https://x.com/KoichiNishizuka/status/2107074482431262937) | 智能体 | Koichi Nishizuka | 174 |
-| 2026-10-05T11:24:00.000Z | [Jev Chinese Tutorial: Integrating Structured Probability Outputs with Choice/Score/Noul Primitives](https://x.com/QingQ77/status/2107069287613558841) | 开发资源 | Geek Lite | 64 |
-| 2026-10-05T11:19:45.000Z | [OPUS 5.5 + FABLE 5.1 + JEV: An AI Advisor in Claude Code](https://x.com/Mikadzyki_NFT/status/2107068217864630584) | 智能体 | Mikadzyki🌙 | 141 |
-| 2026-10-05T11:01:52.000Z | [Building a Modular Synth Jamming Buddy with Jev](https://x.com/staskulesh/status/2107063717011808345) | 内容创作 | Stas Kulesh | 51 |
-| 2026-10-05T11:01:43.000Z | [JEV Agent Ran Wild at 3AM](https://x.com/Asteri_eth/status/2107063682622451873) | 智能体 | Asteri | 276 |
-| 2026-10-05T10:59:16.000Z | [How to Get Started with Jev](https://x.com/nrqa__/status/2107063062280786174) | 开发资源 | Nelly; | 3.5K |
-| 2026-10-05T10:54:09.000Z | [Jev's Role in Agent Decision Loops](https://x.com/SteinL_btc/status/2107061776508760153) | 智能体 | Stein H Ludvigsen - Bitcoinˢᵛ | 14 |
-| 2026-10-05T10:52:06.000Z | [Testing the Jev FC Buddy agentic integration](https://x.com/3057oor/status/2107061262303801823) | 社区实践 | oor.sol | 29 |
-| 2026-10-05T10:51:28.000Z | [Jev Trading Bot Now Available](https://x.com/imryven/status/2107061102391538084) | 金融 | Ryven | 211 |

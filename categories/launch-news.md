@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 397 | 183 | 217 | 1.1M |
+| 399 | 185 | 217 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/goodailabs/status/2107429300706394615">Reflex-1: A Jev-Inspired Local Decision Model</a></h3>
+<p>Reflex-1 is a 421M decision model with weights available on Hugging Face. Given a situation and a question with possible answers, it picks from those choices in a single forward pass, and runs locally on a MacBook Air&#39;s CPU.</p>
+<p><strong>中文摘要：</strong>Reflex-1 是一个 421M 参数的决策模型，权重已在 Hugging Face 上提供。给定情境和带有选项的问题，它能在单次前向传播中选出答案，并且可在 MacBook Air 的 CPU 上本地运行。</p>
+<p><strong>Good AI Labs</strong> · @goodailabs · 2026-10-06T11:14:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/goodailabs/status/2107429300706394615">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cesargomz29/status/2107428497354314077"><img src="https://pbs.twimg.com/amplify_video_thumb/2107428403242467328/img/bwg9jXF6dw2fMeTu.jpg" alt="JEV Hailed as Year&#39;s Biggest AI Breakthrough · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cesargomz29/status/2107428497354314077">JEV Hailed as Year&#39;s Biggest AI Breakthrough</a></h3>
+<p>The post promotes JEV as the biggest AI breakthrough of the year, claiming a new architecture distinct from GPT and Claude, and recommends watching a video explaining it.</p>
+<p><strong>中文摘要：</strong>帖子宣传 JEV 是今年最大的 AI 突破，声称其采用全新架构，不同于 GPT 和 Claude，并推荐观看相关视频。</p>
+<p><strong>CesarAG</strong> · @cesargomz29 · 2026-10-06T11:11:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 311</p>
+<p><a href="https://x.com/cesargomz29/status/2107428497354314077">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheYotg/status/2107419625977749899"><img src="https://pbs.twimg.com/media/HT8O-vwWUAAUmid?format=jpg&amp;name=medium" alt="TypeSafe AI releases Jev &#39;System One&#39; model to accelerate graph construction · 原帖图片" width="100%"></a>

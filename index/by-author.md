@@ -26,6 +26,7 @@
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
 - [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](../authors/ceo-重要ai-毎日最速-発信.md) — 8
+- [恒星sun](../authors/恒星sun.md) — 8
 - [Alex](../authors/alex.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
 - [Dhanian 🗯️](../authors/dhanian.md) — 7
@@ -34,7 +35,6 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
-- [恒星sun](../authors/恒星sun.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -639,6 +639,7 @@
 - [Whippa](../authors/whippa.md) — 2
 - [Workato Japan 🤖](../authors/workato-japan.md) — 2
 - [WTR](../authors/wtr.md) — 2
+- [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 2
 - [Xiaofan Wu](../authors/xiaofan-wu.md) — 2
 - [Xuan (Billy) Zhang](../authors/xuan-billy-zhang.md) — 2
 - [yasu｜在宅ワーク準備中の派遣社員](../authors/yasu-在宅-準備中-派遣社員.md) — 2
@@ -1171,6 +1172,7 @@
 - [Cem B.](../authors/cem-b.md) — 1
 - [Certif Gretche](../authors/certif-gretche.md) — 1
 - [Cesar Favero](../authors/cesar-favero.md) — 1
+- [CesarAG](../authors/cesarag.md) — 1
 - [cg33](../authors/cg33.md) — 1
 - [Chahat Sharma](../authors/chahat-sharma.md) — 1
 - [chakra](../authors/chakra.md) — 1
@@ -1606,6 +1608,7 @@
 - [gold meir מאיר גולד](../authors/gold-meir.md) — 1
 - [Golem Cloud](../authors/golem-cloud.md) — 1
 - [GOMOOT](../authors/gomoot.md) — 1
+- [Good AI Labs](../authors/good-ai-labs.md) — 1
 - [Google Gemma](../authors/google-gemma.md) — 1
 - [Goran Gajić](../authors/goran-gajic.md) — 1
 - [Gosuke Suzuki｜Suzuki Soten](../authors/gosuke-suzuki-suzuki-soten.md) — 1
@@ -2746,6 +2749,7 @@
 - [Sankalp Sinha (Left $15K+ MRR job to indiehack)](../authors/sankalp-sinha-left-15k-mrr-job-to-indiehack.md) — 1
 - [Santhosh Gandhi](../authors/santhosh-gandhi.md) — 1
 - [Santosh](../authors/santosh.md) — 1
+- [Sanyam Jain (sanyam-ai.in)](../authors/sanyam-jain-sanyam-ai-in.md) — 1
 - [Sanyam Satia](../authors/sanyam-satia.md) — 1
 - [Sara Mo](../authors/sara-mo.md) — 1
 - [Sarcastic Badger](../authors/sarcastic-badger.md) — 1
@@ -3171,6 +3175,7 @@
 - [Wayne Sutton](../authors/wayne-sutton.md) — 1
 - [WBIT](../authors/wbit.md) — 1
 - [wca.dev](../authors/wca-dev.md) — 1
+- [Web Developer Hyper](../authors/web-developer-hyper.md) — 1
 - [web5kol](../authors/web5kol.md) — 1
 - [webbob](../authors/webbob.md) — 1
 - [Webenable](../authors/webenable.md) — 1
@@ -3205,7 +3210,6 @@
 - [Wuyang Zhou](../authors/wuyang-zhou.md) — 1
 - [wyswyswys](../authors/wyswyswys.md) — 1
 - [x1k](../authors/x1k.md) — 1
-- [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 1
 - [Xenova](../authors/xenova.md) — 1
 - [Xiang Wei](../authors/xiang-wei.md) — 1
 - [xiax｜AI & Agents](../authors/xiax-ai-agents.md) — 1

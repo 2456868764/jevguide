@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T11:39:04.000Z | [Community Evaluation of TypeSafe's jev Model](https://x.com/Sanyam0605/status/2107435468136792531) | 社区实践 | Sanyam Jain (sanyam-ai.in) | 20 |
+| 2026-10-06T11:35:55.000Z | [AI Avatar v23 adds Jev emotion analysis and activity logs](https://x.com/WebDevHyper/status/2107434673702113453) | 游戏 | Web Developer Hyper | 33 |
+| 2026-10-06T11:15:28.000Z | [DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile](https://x.com/HOTHEAD01TH/status/2107429527848624476) | 社区实践 | 𝕏AID ADIL 👨‍💻 | 7 |
+| 2026-10-06T11:14:34.000Z | [Reflex-1: A Jev-Inspired Local Decision Model](https://x.com/goodailabs/status/2107429300706394615) | 产品发布 | Good AI Labs | 19 |
+| 2026-10-06T11:11:22.000Z | [JEV Hailed as Year's Biggest AI Breakthrough](https://x.com/cesargomz29/status/2107428497354314077) | 产品发布 | CesarAG | 311 |
+| 2026-10-06T11:11:03.000Z | [TypeSafe Jev Model Resource Collection](https://x.com/vintcessun/status/2107428417499234333) | 开发资源 | 恒星sun | 61 |
 | 2026-10-06T10:48:06.000Z | [Building a Gmail Sorter with Jev](https://x.com/arminayat/status/2107422639849664864) | 生产力 | Armin Ayat | 6 |
 | 2026-10-06T10:36:07.000Z | [TypeSafe AI releases Jev 'System One' model to accelerate graph construction](https://x.com/TheYotg/status/2107419625977749899) | 产品发布 | The Year of the Graph | 47 |
 | 2026-10-06T10:32:28.000Z | [Testing Jev AI in a Nairobi Matatu Simulation Game](https://x.com/0x3Matt/status/2107418708243022202) | 游戏 | Metagrapher | 87 |
@@ -96,9 +102,3 @@
 | 2026-10-05T12:09:30.000Z | [Jev and LLM Collaboration: Decision Layer Routing](https://x.com/NitorInfotech/status/2107080737237430376) | 工作原理 | Nitor Infotech | 7 |
 | 2026-10-05T12:06:20.000Z | [User Migrates Haiku Workload to Jev](https://x.com/moru3/status/2107079941884150231) | 社区实践 | IwaKen | 11 |
 | 2026-10-05T12:04:02.000Z | [Jev AI: The AI that alerts when uncertain](https://x.com/nocodehackers/status/2107079362633724207) | 工作原理 | NocodeHackers | 104 |
-| 2026-10-05T12:03:16.000Z | [Build an AI-Assisted Support System with Next.js and Jev](https://x.com/freeCodeCamp/status/2107079170505187678) | 客户支持 | freeCodeCamp.org | 4.1K |
-| 2026-10-05T12:02:07.000Z | [Jev Connects Ecommerce Data into One Brain](https://x.com/ZedNilm1/status/2107078880645235114) | 电商 | Zed | 61 |
-| 2026-10-05T12:00:02.000Z | [pg-jev: Postgres extension for using Jev via SQL](https://x.com/SadraMajidi04/status/2107078358379192435) | 开发资源 | Sadra Majidi | 4 |
-| 2026-10-05T11:54:00.000Z | [Jev Legal Demos](https://x.com/theviclaw/status/2107076837289689502) | 法律合规 | victor | 35 |
-| 2026-10-05T11:44:53.000Z | [Go from Zero to Your First Jev Build for Free](https://x.com/Mnilax/status/2107074545794289839) | 开发资源 | Mnimiy | 472 |
-| 2026-10-05T11:44:38.000Z | [Mentions TypeSafe's Jev](https://x.com/KoichiNishizuka/status/2107074482431262937) | 智能体 | Koichi Nishizuka | 174 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 882 | 368 | 518 | 3.0M |
+| 884 | 369 | 519 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Sanyam0605/status/2107435468136792531">Community Evaluation of TypeSafe&#39;s jev Model</a></h3>
+<p>Developer Sanyam ran Clef models from Cloudflare, TypeSafe&#39;s jev, kev models, plus Qwen and rerankers from HuggingFace, highlighting the lack of common benchmarks for engineering communities.</p>
+<p><strong>中文摘要：</strong>开发者Sanyam测试了Cloudflare Clef、TypeSafe jev、kev模型及HuggingFace的Qwen和重排序器，指出工程社区缺乏共同基准来评估它们的能力。</p>
+<p><strong>Sanyam Jain (sanyam-ai.in)</strong> · @Sanyam0605 · 2026-10-06T11:39:04.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Sanyam0605/status/2107435468136792531">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HOTHEAD01TH/status/2107429527848624476"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107429462136549376/pu/img/zrozED-MbrcyFpb4.jpg" alt="DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HOTHEAD01TH/status/2107429527848624476">DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile</a></h3>
+<p>The post shows djev running near-real-time vision detection on a mobile phone using its native vision tower, along with a safety reminder.</p>
+<p><strong>中文摘要：</strong>该帖子展示了 djev 在手机上使用原生视觉塔进行近实时视觉检测的实例，并提醒注意安全。</p>
+<p><strong>𝕏AID ADIL 👨‍💻</strong> · @HOTHEAD01TH · 2026-10-06T11:15:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/HOTHEAD01TH/status/2107429527848624476">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/codeitlikemiley/status/2107374634358485408"><img src="https://pbs.twimg.com/media/HT7lYnUaMAAm8wy?format=jpg&amp;name=medium" alt="Jev&#39;s Ultra-Fast Performance Sparks Discussion · 原帖图片" width="100%"></a>

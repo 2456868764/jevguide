@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5108</strong><br>curated posts</td>
-<td align="center"><strong>2622</strong><br>original videos</td>
+<td align="center"><strong>5114</strong><br>curated posts</td>
+<td align="center"><strong>2626</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>882</strong> showcases · <strong>368</strong> videos</p>
+<p><strong>884</strong> showcases · <strong>369</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>397</strong> showcases · <strong>183</strong> videos</p>
+<p><strong>399</strong> showcases · <strong>185</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>350</strong> showcases · <strong>266</strong> videos</p>
+<p><strong>351</strong> showcases · <strong>267</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>335</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>336</strong> showcases · <strong>135</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
-<a href="https://x.com/arminayat/status/2107422639849664864"><img src="https://pbs.twimg.com/amplify_video_thumb/2107422617502466049/img/nhTiabqPS-szeX7b.jpg" alt="Building a Gmail Sorter with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/arminayat/status/2107422639849664864">Building a Gmail Sorter with Jev</a></h3>
-<p>The author shares building Mable with Jev to automatically sort Gmail and keep inboxes clean.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Armin Ayat</strong> · @arminayat</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Sanyam0605/status/2107435468136792531">Community Evaluation of TypeSafe&#39;s jev Model</a></h3>
+<p>Developer Sanyam ran Clef models from Cloudflare, TypeSafe&#39;s jev, kev models, plus Qwen and rerankers from HuggingFace, highlighting the lack of common benchmarks for engineering communities.</p>
+<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><strong>Sanyam Jain (sanyam-ai.in)</strong> · @Sanyam0605</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheYotg/status/2107419625977749899"><img src="https://pbs.twimg.com/media/HT8O-vwWUAAUmid?format=jpg&amp;name=medium" alt="TypeSafe AI releases Jev &#39;System One&#39; model to accelerate graph construction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheYotg/status/2107419625977749899">TypeSafe AI releases Jev &#39;System One&#39; model to accelerate graph construction</a></h3>
-<p>Jev, a new &#39;System One&#39; model from TypeSafe AI, doesn&#39;t generate text. Instead, it evaluates a state and returns typed, calibrated answers and probabilities, targeting entity resolution, triple validation, and node typing in graph construction.</p>
-<p><strong>47</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
-<p><strong>The Year of the Graph</strong> · @TheYotg</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/WebDevHyper/status/2107434673702113453"><img src="https://pbs.twimg.com/amplify_video_thumb/2107433978265489408/img/kA5qT6naRJNxvbrm.jpg" alt="AI Avatar v23 adds Jev emotion analysis and activity logs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/WebDevHyper/status/2107434673702113453">AI Avatar v23 adds Jev emotion analysis and activity logs</a></h3>
+<p>The developer shares AI Avatar v23, which uses Jev for emotion analysis and adds Claude Code/Codex activity logs; the idle game (Voxel Avatar) also adds hamsters, mushrooms, and clouds.</p>
+<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><strong>Web Developer Hyper</strong> · @WebDevHyper</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/0x3Matt/status/2107418708243022202"><img src="https://pbs.twimg.com/amplify_video_thumb/2107418509676335104/img/xP0P1cl_7hHMpTQm.jpg" alt="Testing Jev AI in a Nairobi Matatu Simulation Game · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0x3Matt/status/2107418708243022202">Testing Jev AI in a Nairobi Matatu Simulation Game</a></h3>
-<p>A developer is building a Nairobi Matatu simulation game for tourists and people unfamiliar with the streets, exploring Jev AI&#39;s fast real-time decision-making. The project is still a work in progress.</p>
-<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 87</p>
-<p><strong>Metagrapher</strong> · @0x3Matt</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/HOTHEAD01TH/status/2107429527848624476"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107429462136549376/pu/img/zrozED-MbrcyFpb4.jpg" alt="DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HOTHEAD01TH/status/2107429527848624476">DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile</a></h3>
+<p>The post shows djev running near-real-time vision detection on a mobile phone using its native vision tower, along with a safety reminder.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>𝕏AID ADIL 👨‍💻</strong> · @HOTHEAD01TH</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/agtmengineer/status/2107418368886366345"><img src="https://pbs.twimg.com/media/HT8NivRXMAAyord?format=jpg&amp;name=medium" alt="Resolve Account Hierarchies with Jev: TAM Mapping for €2.2 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/agtmengineer/status/2107418368886366345">Resolve Account Hierarchies with Jev: TAM Mapping for €2.2</a></h3>
-<p>A GTM engineer shows how Jev + Exa + Oxygen automate enterprise account hierarchy resolution, delivering TAM mapping on a tiny fraction of the original budget.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Ivan Escobar | GTM Engineer</strong> · @agtmengineer</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/goodailabs/status/2107429300706394615">Reflex-1: A Jev-Inspired Local Decision Model</a></h3>
+<p>Reflex-1 is a 421M decision model with weights available on Hugging Face. Given a situation and a question with possible answers, it picks from those choices in a single forward pass, and runs locally on a MacBook Air&#39;s CPU.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Good AI Labs</strong> · @goodailabs</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
-<a href="https://x.com/arminayat/status/2107422639849664864"><img src="https://pbs.twimg.com/amplify_video_thumb/2107422617502466049/img/nhTiabqPS-szeX7b.jpg" alt="Building a Gmail Sorter with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/arminayat/status/2107422639849664864">Building a Gmail Sorter with Jev</a></h3>
-<p>The author shares building Mable with Jev to automatically sort Gmail and keep inboxes clean.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Armin Ayat</strong> · @arminayat</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Sanyam0605/status/2107435468136792531">Community Evaluation of TypeSafe&#39;s jev Model</a></h3>
+<p>Developer Sanyam ran Clef models from Cloudflare, TypeSafe&#39;s jev, kev models, plus Qwen and rerankers from HuggingFace, highlighting the lack of common benchmarks for engineering communities.</p>
+<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><strong>Sanyam Jain (sanyam-ai.in)</strong> · @Sanyam0605</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/agtmengineer/status/2107418368886366345"><img src="https://pbs.twimg.com/media/HT8NivRXMAAyord?format=jpg&amp;name=medium" alt="Resolve Account Hierarchies with Jev: TAM Mapping for €2.2 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/agtmengineer/status/2107418368886366345">Resolve Account Hierarchies with Jev: TAM Mapping for €2.2</a></h3>
-<p>A GTM engineer shows how Jev + Exa + Oxygen automate enterprise account hierarchy resolution, delivering TAM mapping on a tiny fraction of the original budget.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Ivan Escobar | GTM Engineer</strong> · @agtmengineer</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/goodailabs/status/2107429300706394615">Reflex-1: A Jev-Inspired Local Decision Model</a></h3>
+<p>Reflex-1 is a 421M decision model with weights available on Hugging Face. Given a situation and a question with possible answers, it picks from those choices in a single forward pass, and runs locally on a MacBook Air&#39;s CPU.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Good AI Labs</strong> · @goodailabs</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/cesargomz29/status/2107428497354314077"><img src="https://pbs.twimg.com/amplify_video_thumb/2107428403242467328/img/bwg9jXF6dw2fMeTu.jpg" alt="JEV Hailed as Year&#39;s Biggest AI Breakthrough · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cesargomz29/status/2107428497354314077">JEV Hailed as Year&#39;s Biggest AI Breakthrough</a></h3>
+<p>The post promotes JEV as the biggest AI breakthrough of the year, claiming a new architecture distinct from GPT and Claude, and recommends watching a video explaining it.</p>
+<p><strong>311</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 311</p>
+<p><strong>CesarAG</strong> · @cesargomz29</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/marco_derossi/status/2107418249843380397"><img src="https://pbs.twimg.com/media/HT8NJLrWEAAP-2F?format=jpg&amp;name=medium" alt="Sage Claims Decision Model Surpassing Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/marco_derossi/status/2107418249843380397">Sage Claims Decision Model Surpassing Jev</a></h3>
 <p>LevantoLabs&#39; Sage claims to be the first decision model, launched in July, and tops JevBench, beating Jev and Google&#39;s models on all dimensions.</p>
 <p><strong>212</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 212</p>
 <p><strong>Marco De Rossi</strong> · @marco_derossi</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/CouponsFreeDis1/status/2107386124964663743"><img src="https://pbs.twimg.com/media/HT65tm7bEAAz_oL?format=jpg&amp;name=small" alt="Build a Jev-style decision model: beginner&#39;s guide · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CouponsFreeDis1/status/2107386124964663743">Build a Jev-style decision model: beginner&#39;s guide</a></h3>
-<p>This guide shows how to make better decisions under uncertainty and build a Jev-style decision model from scratch, applicable to decision analysis, data science, and business strategy.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Coupons Free Discounts</strong> · @CouponsFreeDis1</p>
 </td>
 </tr>
 </table>

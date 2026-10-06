@@ -34,6 +34,7 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
+- [恒星sun](../authors/恒星sun.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -53,7 +54,6 @@
 - [rewind](../authors/rewind.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
-- [恒星sun](../authors/恒星sun.md) — 6
 - [Artimind](../authors/artimind.md) — 5
 - [AutoTrust](../authors/autotrust.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
@@ -76,6 +76,7 @@
 - [Suzuki](../authors/suzuki.md) — 5
 - [venus](../authors/venus.md) — 5
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
+- [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 5
 - [萩野貴拓](../authors/萩野貴拓.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [8Bit🦞](../authors/8bit.md) — 4
@@ -278,7 +279,6 @@
 - [Ԟ𝕚╬𝕥ⅇ𝕟](../authors/i-ten.md) — 3
 - [くらげ｜NoggleChanger®代表/AIアニメ制作](../authors/nogglechanger-代表-ai-制作.md) — 3
 - [そう｜Claude CodeのX運用で月800万インプ](../authors/claude-code-x運用-月800万.md) — 3
-- [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 3
 - [たく｜ガチのCopilot達人](../authors/copilot達人.md) — 3
 - [たにぐち まこと／ちゃんとWeb withAI](../authors/web-withai.md) — 3
 - [れん学長｜AIツール実験室](../authors/学長-ai-実験室.md) — 3
@@ -1592,6 +1592,7 @@
 - [Gk](../authors/gk.md) — 1
 - [Glasser](../authors/glasser.md) — 1
 - [Glaucia Lemos 🌊🤿🐠](../authors/glaucia-lemos.md) — 1
+- [Glaze](../authors/glaze.md) — 1
 - [Globenews](../authors/globenews.md) — 1
 - [Gocha](../authors/gocha.md) — 1
 - [God of Prompt](../authors/god-of-prompt.md) — 1
@@ -2513,6 +2514,7 @@
 - [Pitofui](../authors/pitofui.md) — 1
 - [Piyush Choudhari ⋰⋰](../authors/piyush-choudhari.md) — 1
 - [Plena](../authors/plena.md) — 1
+- [plusminushalf.eth 🐾](../authors/plusminushalf-eth.md) — 1
 - [PolloAI Creators](../authors/polloai-creators.md) — 1
 - [polyaxon](../authors/polyaxon.md) — 1
 - [polymaddy](../authors/polymaddy.md) — 1
@@ -3081,6 +3083,7 @@
 - [unsu](../authors/unsu.md) — 1
 - [UP1](../authors/up1.md) — 1
 - [Uri Eliabayev](../authors/uri-eliabayev.md) — 1
+- [Uriah](../authors/uriah.md) — 1
 - [Usman Abbas](../authors/usman-abbas.md) — 1
 - [Utkarsh Kumar](../authors/utkarsh-kumar.md) — 1
 - [Utkarsh Maheshwari](../authors/utkarsh-maheshwari.md) — 1
@@ -3619,6 +3622,7 @@
 - [茶木 孝晃｜AI × セキュリティ](../authors/茶木-孝晃-ai.md) — 1
 - [菅原のびすけ](../authors/菅原.md) — 1
 - [菅野智洋CPA🇯🇵×ベトナム進出支援🇻🇳×生成AI🤖](../authors/菅野智洋cpa-進出支援-生成ai.md) — 1
+- [董币哥](../authors/董币哥.md) — 1
 - [蓝哥AI](../authors/蓝哥ai.md) — 1
 - [薩約 (Zai-* )](../authors/薩約-zai.md) — 1
 - [虚拟豆](../authors/虚拟豆.md) — 1

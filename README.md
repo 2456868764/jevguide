@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5086</strong><br>curated posts</td>
-<td align="center"><strong>2614</strong><br>original videos</td>
+<td align="center"><strong>5093</strong><br>curated posts</td>
+<td align="center"><strong>2616</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>881</strong> showcases · <strong>368</strong> videos</p>
+<p><strong>882</strong> showcases · <strong>368</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>383</strong> showcases · <strong>218</strong> videos</p>
+<p><strong>384</strong> showcases · <strong>218</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>332</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>334</strong> showcases · <strong>135</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>250</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>251</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>210</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>212</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/soni_rudra81979/status/2107363263885549708"><img src="https://pbs.twimg.com/media/HT7btnlakAA7Kcc?format=png&amp;name=medium" alt="Developer Builds Resume Analyzer Engine with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/soni_rudra81979/status/2107363263885549708">Developer Builds Resume Analyzer Engine with Jev</a></h3>
-<p>The post shares the author&#39;s work on refactoring an existing resume analysis project with Jev, including a live deployment link, demonstrating Jev in text analysis applications.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1</p>
-<p><strong>Rudrakshh</strong> · @soni_rudra81979</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/NextBullReady/status/2107376875723169920"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107376814247301120/pu/img/-MDXcqW9kDcZVMtG.jpg" alt="Jev in Crypto Trading: A Real-World Application · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NextBullReady/status/2107376875723169920">Jev in Crypto Trading: A Real-World Application</a></h3>
+<p>A user integrated Jev into a trading bot for rapid buy/sell signals, paired with Grok for automated execution, demonstrating Jev&#39;s efficient decision-making in finance.</p>
+<p><strong>34</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
+<p><strong>董币哥</strong> · @NextBullReady</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/jamescalam/status/2107362956082385220"><img src="https://pbs.twimg.com/amplify_video_thumb/2107346676382146560/img/dPaqhbNPiJIC4u0p.jpg" alt="Jev vs Open Source: GLiNER Beats Jev at Doom · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jamescalam/status/2107362956082385220">Jev vs Open Source: GLiNER Beats Jev at Doom</a></h3>
-<p>James Briggs breaks down TypeSafe AI&#39;s Jev model and compares it with OpenJev (Von) and tiny GLiNER models, finding that GLiNER with only 74M params performs phenomenally, even beating Jev on Doom.</p>
-<p><strong>49</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 49</p>
-<p><strong>James Briggs</strong> · @jamescalam</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/vintcessun/status/2107374812423401711"><img src="https://pbs.twimg.com/media/HT7mN-BbwAAW2OW?format=jpg&amp;name=large" alt="Jev Decision Model Resource Directory and Failure Cases · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vintcessun/status/2107374812423401711">Jev Decision Model Resource Directory and Failure Cases</a></h3>
+<p>Introduces awesome-jev, which archives Jev public resources by decision patterns such as tool selection, intent routing, and context compression, highlighting negative evaluations, sources, and invocation evidence.</p>
+<p><strong>23</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>恒星sun</strong> · @vintcessun</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/xiax0603/status/2107360460026843632"><img src="https://pbs.twimg.com/media/HT7ZJ6NaYAAaq3u?format=jpg&amp;name=small" alt="Cloudflare Open-Sources Decision Model Clef, Outperforming Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xiax0603/status/2107360460026843632">Cloudflare Open-Sources Decision Model Clef, Outperforming Jev</a></h3>
-<p>According to the post, Jev remains closed-source via API, while Cloudflare open-sourced decision model Clef. Benchmarks show Clef decision index 61.2 vs Jev&#39;s 57.9; Clef-Flash at 57.1 with significant latency advantage. The model outputs probabilities in a single forward pass without text generation or JSON parsing, suitable for high-concurrency routing, content moderation, and scoring tasks. Clef is 27B / Clef-Flash 9B, Apache2.0, based on Qwen.</p>
-<p><strong>44</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 44</p>
-<p><strong>xiax｜AI &amp; Agents</strong> · @xiax0603</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/codeitlikemiley/status/2107374634358485408"><img src="https://pbs.twimg.com/media/HT7lYnUaMAAm8wy?format=jpg&amp;name=medium" alt="Jev&#39;s Ultra-Fast Performance Sparks Discussion · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/codeitlikemiley/status/2107374634358485408">Jev&#39;s Ultra-Fast Performance Sparks Discussion</a></h3>
+<p>A user jokingly expresses surprise at Jev&#39;s speed, suggesting only Rust deserves the word &#39;blazingly fast&#39;. They also mention using it with Browser Use and exclaim &#39;ULTRA INSTINCT!&#39; in excitement.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Uriah</strong> · @codeitlikemiley</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/HKrackDev/status/2107348210448765242"><img src="https://pbs.twimg.com/amplify_video_thumb/2107347172404674560/img/aYAy3rgRW8dObGmW.jpg" alt="Jev: An Intelligence-Infused Logic Gate · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HKrackDev/status/2107348210448765242">Jev: An Intelligence-Infused Logic Gate</a></h3>
-<p>Hendrik Krack shares @allietheicon&#39;s explanation of Jev as an intelligence-infused logic gate, and how it opens up code paths that were previously too difficult to build.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Hendrik Krack</strong> · @HKrackDev</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/glazecl/status/2107372110670962788"><img src="https://pbs.twimg.com/media/HT7jPsjbMAE-y32?format=jpg&amp;name=small" alt="TOKEN2049 Social Matching App Powered by Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/glazecl/status/2107372110670962788">TOKEN2049 Social Matching App Powered by Jev</a></h3>
+<p>Glaze built Somewhere using TypeSafe&#39;s Jev to help users find worthwhile TOKEN2049 event rooms based on who they are and who they want to meet. Free to use.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
+<p><strong>Glaze</strong> · @glazecl</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/soni_rudra81979/status/2107363263885549708"><img src="https://pbs.twimg.com/media/HT7btnlakAA7Kcc?format=png&amp;name=medium" alt="Developer Builds Resume Analyzer Engine with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/soni_rudra81979/status/2107363263885549708">Developer Builds Resume Analyzer Engine with Jev</a></h3>
-<p>The post shares the author&#39;s work on refactoring an existing resume analysis project with Jev, including a live deployment link, demonstrating Jev in text analysis applications.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 1</p>
-<p><strong>Rudrakshh</strong> · @soni_rudra81979</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/NextBullReady/status/2107376875723169920"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107376814247301120/pu/img/-MDXcqW9kDcZVMtG.jpg" alt="Jev in Crypto Trading: A Real-World Application · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NextBullReady/status/2107376875723169920">Jev in Crypto Trading: A Real-World Application</a></h3>
+<p>A user integrated Jev into a trading bot for rapid buy/sell signals, paired with Grok for automated execution, demonstrating Jev&#39;s efficient decision-making in finance.</p>
+<p><strong>34</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
+<p><strong>董币哥</strong> · @NextBullReady</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/glazecl/status/2107372110670962788"><img src="https://pbs.twimg.com/media/HT7jPsjbMAE-y32?format=jpg&amp;name=small" alt="TOKEN2049 Social Matching App Powered by Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/glazecl/status/2107372110670962788">TOKEN2049 Social Matching App Powered by Jev</a></h3>
+<p>Glaze built Somewhere using TypeSafe&#39;s Jev to help users find worthwhile TOKEN2049 event rooms based on who they are and who they want to meet. Free to use.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 38</p>
+<p><strong>Glaze</strong> · @glazecl</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/plusminushalf/status/2107371373874266577"><img src="https://pbs.twimg.com/media/HT7jABFXkAAcO3H?format=jpg&amp;name=medium" alt="Rot guard featured in the Awesome Jev list · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/plusminushalf/status/2107371373874266577">Rot guard featured in the Awesome Jev list</a></h3>
+<p>The post announces that the Rot guard project has been added to the Awesome Jev list on GitHub, serving as a resource within the Jev ecosystem.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>plusminushalf.eth 🐾</strong> · @plusminushalf</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/HKrackDev/status/2107348210448765242"><img src="https://pbs.twimg.com/amplify_video_thumb/2107347172404674560/img/aYAy3rgRW8dObGmW.jpg" alt="Jev: An Intelligence-Infused Logic Gate · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/HKrackDev/status/2107348210448765242">Jev: An Intelligence-Infused Logic Gate</a></h3>
 <p>Hendrik Krack shares @allietheicon&#39;s explanation of Jev as an intelligence-infused logic gate, and how it opens up code paths that were previously too difficult to build.</p>
 <p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><strong>Hendrik Krack</strong> · @HKrackDev</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/badboyfoxy/status/2107347302310408462"><img src="https://pbs.twimg.com/amplify_video_thumb/2107347242696822784/img/qLtEuy2jZFVpWJqK.jpg" alt="Australia&#39;s open-source AI Matilda claims to outpace Jev in decision-making · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/badboyfoxy/status/2107347302310408462">Australia&#39;s open-source AI Matilda claims to outpace Jev in decision-making</a></h3>
-<p>The post says Australia joins the AI race with open-source Matilda, claiming it is faster than Jev in decision-making.</p>
-<p><strong>275</strong> views · 💬 7 &nbsp; 🔁 2 &nbsp; ♡ 17 &nbsp; 📊 275</p>
-<p><strong>badboyfoxy</strong> · @badboyfoxy</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/yilmazmehmethc/status/2107336444582727836"><img src="https://pbs.twimg.com/media/HT7DSxZXcAEk_ON?format=jpg&amp;name=large" alt="Jev decision AI arrives on Alarm Monster, now callable via /jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/yilmazmehmethc/status/2107336444582727836">Jev decision AI arrives on Alarm Monster, now callable via /jev</a></h3>
-<p>Jev is not a chatbot but a decision AI that provides probabilities. It has now been integrated into Alarm Monster, allowing users to simply type /jev in the bot without writing API code. In a test example, Jev assessed the chance of NMR replicating QNT&#39;s 5x move at 40%, with a cost of about $0.00004 per answer.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Mehmet YILMAZ</strong> · @yilmazmehmethc</p>
 </td>
 </tr>
 </table>

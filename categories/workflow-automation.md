@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 210 | 140 | 70 | 595K |
+| 212 | 141 | 71 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sora19ai/status/2107370118988853577"><img src="https://pbs.twimg.com/amplify_video_thumb/2107328854486614016/img/YVAvAN5L-likp0Yi.jpg" alt="Jev Auto-fill Form Entry · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sora19ai/status/2107370118988853577">Jev Auto-fill Form Entry</a></h3>
+<p>This post describes how Jev reads memo text, automatically detects name, email, and address, and fills them into form fields with human confirmation, excluding password fields to reduce copy-paste work.</p>
+<p><strong>中文摘要：</strong>帖子介绍Jev读取备注文本，自动识别姓名、邮箱、地址并分配到表单输入框，支持人工确认且排除密码字段，可减少复制粘贴操作。</p>
+<p><strong>そら ☁️ AgentSwarm 自動化オタク📱</strong> · @sora19ai · 2026-10-06T07:19:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 197</p>
+<p><a href="https://x.com/sora19ai/status/2107370118988853577">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sora19ai/status/2107370121387991413"><img src="https://pbs.twimg.com/media/HT7htWTbEAAcEQ1?format=jpg&amp;name=medium" alt="JevFill: Using Jev to Auto-Fill Forms from Quick Notes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sora19ai/status/2107370121387991413">JevFill: Using Jev to Auto-Fill Forms from Quick Notes</a></h3>
+<p>The post highlights JevFill’s approach of starting from rough notes instead of fixed templates; Jev picks the best-matching name, email, address, etc., and fills the form fields on the page.</p>
+<p><strong>中文摘要：</strong>帖主指出 JevFill 的特点是不用固定模板，而是把“杂乱笔记”作为入口；Jev 会从纯文本中选出最匹配的名字、邮箱、地址等，填入页面表单字段。</p>
+<p><strong>そら ☁️ AgentSwarm 自動化オタク📱</strong> · @sora19ai · 2026-10-06T07:19:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/sora19ai/status/2107370121387991413">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/paonx_eth/status/2107101851590041631"><img src="https://pbs.twimg.com/amplify_video_thumb/2107098694164021248/img/OhMGQQAIHH7lKkID.jpg" alt="JEV + Crawler + GPT Agent: Finding Online Money Niches · 原帖视频截图" width="100%"></a>

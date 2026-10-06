@@ -1,9 +1,10 @@
 # 恒星sun
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T07:38:03.000Z | [Jev Decision Model Resource Directory and Failure Cases](https://x.com/vintcessun/status/2107374812423401711) | 开发资源 | 恒星sun | 23 |
 | 2026-10-02T06:41:02.000Z | [jev-skill: Integrating Jev into Agent Workflows](https://x.com/vintcessun/status/2105910914436542501) | 智能体 | 恒星sun | 12 |
 | 2026-10-01T02:35:02.000Z | [jev-mcp: Regex Prescreening + Model Selection for Field Extraction](https://x.com/vintcessun/status/2105486617792430082) | 开发者工具 | 恒星sun | 39 |
 | 2026-09-30T13:59:03.000Z | [jevgrep: Locate Files by Code Intent with Jev](https://x.com/vintcessun/status/2105296370030854431) | 开发者工具 | 恒星sun | 60 |

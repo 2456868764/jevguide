@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T07:46:14.000Z | [Jev in Crypto Trading: A Real-World Application](https://x.com/NextBullReady/status/2107376875723169920) | 金融 | 董币哥 | 34 |
+| 2026-10-06T07:38:03.000Z | [Jev Decision Model Resource Directory and Failure Cases](https://x.com/vintcessun/status/2107374812423401711) | 开发资源 | 恒星sun | 23 |
+| 2026-10-06T07:37:20.000Z | [Jev's Ultra-Fast Performance Sparks Discussion](https://x.com/codeitlikemiley/status/2107374634358485408) | 社区实践 | Uriah | 9 |
+| 2026-10-06T07:27:18.000Z | [TOKEN2049 Social Matching App Powered by Jev](https://x.com/glazecl/status/2107372110670962788) | 智能体 | Glaze | 38 |
+| 2026-10-06T07:24:23.000Z | [Rot guard featured in the Awesome Jev list](https://x.com/plusminushalf/status/2107371373874266577) | 开发资源 | plusminushalf.eth 🐾 | 9 |
+| 2026-10-06T07:19:24.000Z | [Jev Auto-fill Form Entry](https://x.com/sora19ai/status/2107370118988853577) | 自动化工作流 | そら ☁️ AgentSwarm 自動化オタク📱 | 197 |
+| 2026-10-06T07:19:24.000Z | [JevFill: Using Jev to Auto-Fill Forms from Quick Notes](https://x.com/sora19ai/status/2107370121387991413) | 自动化工作流 | そら ☁️ AgentSwarm 自動化オタク📱 | 31 |
 | 2026-10-06T06:52:09.000Z | [Developer Builds Resume Analyzer Engine with Jev](https://x.com/soni_rudra81979/status/2107363263885549708) | 数据分析 | Rudrakshh | 1 |
 | 2026-10-06T06:50:56.000Z | [Jev vs Open Source: GLiNER Beats Jev at Doom](https://x.com/jamescalam/status/2107362956082385220) | 科研 | James Briggs | 49 |
 | 2026-10-06T06:41:01.000Z | [Cloudflare Open-Sources Decision Model Clef, Outperforming Jev](https://x.com/xiax0603/status/2107360460026843632) | 开发者工具 | xiax｜AI & Agents | 44 |
@@ -95,10 +102,3 @@
 | 2026-10-05T10:31:01.000Z | [JevDev v0.1.3 Released](https://x.com/melvindvivas/status/2107055953422254085) | 开发者工具 | Melvin Vivas | 28 |
 | 2026-10-05T10:29:30.000Z | [Jev Spider: A Jev-powered web component re-arranger](https://x.com/kevincodex/status/2107055574655676767) | 社区实践 | Kevin | 448 |
 | 2026-10-05T10:27:24.000Z | [Benchmarking Jev vs Clef Locally](https://x.com/hummusonrails/status/2107055044575293695) | 社区实践 | Ben Greenberg | 36 |
-| 2026-10-05T10:21:40.000Z | [Jev in a Multi-Model 24/7 Agent System](https://x.com/noisyb0y1/status/2107053602749530507) | 智能体 | Noisy | 303 |
-| 2026-10-05T10:11:13.000Z | [Using Jev Model to Evaluate TAM Data Sources at Low Cost](https://x.com/agtmengineer/status/2107050971331207654) | 企业运营 | Ivan Escobar \| GTM Engineer | 4 |
-| 2026-10-05T10:07:43.000Z | [Building a personal action scanner app with Jev](https://x.com/NavRoudsari/status/2107050092070830549) | 自动化工作流 | Nav | 13 |
-| 2026-10-05T09:51:58.000Z | [Experience pairing Jev with Xiaomi Mimo](https://x.com/kgmyatthu/status/2107046128130867456) | 智能体 | Kaung Myatthu | 9 |
-| 2026-10-05T09:50:52.000Z | [Jev-like Model Plays Minecraft](https://x.com/paul__ml/status/2107045848823861733) | 游戏 | Paul Lemaistre | 107 |
-| 2026-10-05T09:41:03.000Z | [Jev Decision API Agent Architecture Sparks Discussion](https://x.com/mani_koppala/status/2107043381398454327) | 智能体 | Mani | 1 |
-| 2026-10-05T09:40:39.000Z | [TypeSafe AI's Jev: No Text Generation, Only Typed Judgments and Confidence](https://x.com/kenchan_aidx/status/2107043281612026092) | 工作原理 | ケンちゃん_AIDX | 2 |

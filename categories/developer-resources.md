@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 332 | 135 | 197 | 419K |
+| 334 | 135 | 199 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2107374812423401711"><img src="https://pbs.twimg.com/media/HT7mN-BbwAAW2OW?format=jpg&amp;name=large" alt="Jev Decision Model Resource Directory and Failure Cases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2107374812423401711">Jev Decision Model Resource Directory and Failure Cases</a></h3>
+<p>Introduces awesome-jev, which archives Jev public resources by decision patterns such as tool selection, intent routing, and context compression, highlighting negative evaluations, sources, and invocation evidence.</p>
+<p><strong>中文摘要：</strong>介绍 awesome-jev，将 Jev 公开资源按工具选择、意图路由、上下文压缩等决策模式归档，并突出负面评测、来源与调用点证据。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-10-06T07:38:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/vintcessun/status/2107374812423401711">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/plusminushalf/status/2107371373874266577"><img src="https://pbs.twimg.com/media/HT7jABFXkAAcO3H?format=jpg&amp;name=medium" alt="Rot guard featured in the Awesome Jev list · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/plusminushalf/status/2107371373874266577">Rot guard featured in the Awesome Jev list</a></h3>
+<p>The post announces that the Rot guard project has been added to the Awesome Jev list on GitHub, serving as a resource within the Jev ecosystem.</p>
+<p><strong>中文摘要：</strong>该帖子宣布Rot guard项目已被收录到GitHub上的Awesome Jev列表中，作为Jev生态系统中的资源之一。</p>
+<p><strong>plusminushalf.eth 🐾</strong> · @plusminushalf · 2026-10-06T07:24:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/plusminushalf/status/2107371373874266577">在 X 查看原帖</a> · <a href="https://t.co/36xIZy4rA7">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/katopz/status/2107335389338055024"><img src="https://pbs.twimg.com/media/HT7BzazbsAAq227?format=jpg&amp;name=medium" alt="Jev microsecond decisions, powered by Rust · 原帖图片" width="100%"></a>

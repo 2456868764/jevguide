@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5069</strong><br>curated posts</td>
-<td align="center"><strong>2605</strong><br>original videos</td>
+<td align="center"><strong>5076</strong><br>curated posts</td>
+<td align="center"><strong>2610</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>878</strong> showcases · <strong>365</strong> videos</p>
+<p><strong>880</strong> showcases · <strong>367</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>516</strong> showcases · <strong>262</strong> videos</p>
+<p><strong>517</strong> showcases · <strong>263</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>377</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>378</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>331</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>332</strong> showcases · <strong>135</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>73</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>74</strong> showcases · <strong>26</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>32</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>33</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ai_super_niko/status/2107319965783073185"><img src="https://pbs.twimg.com/media/HT60V2fXUAA4P-N?format=jpg&amp;name=medium" alt="Jev: A Decision-Calibration Model Processing 1 Trillion Tokens Daily · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ai_super_niko/status/2107319965783073185">Jev: A Decision-Calibration Model Processing 1 Trillion Tokens Daily</a></h3>
-<p>Jev, developed by TypeSafe AI, does not perform text generation but outputs yes/no, scores, and predefined options to support decision-making. It is embedded in automation software and used by about 25% of Fortune 500 companies.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Niko爱学习</strong> · @ai_super_niko</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/yilmazmehmethc/status/2107336444582727836"><img src="https://pbs.twimg.com/media/HT7DSxZXcAEk_ON?format=jpg&amp;name=large" alt="Jev decision AI arrives on Alarm Monster, now callable via /jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yilmazmehmethc/status/2107336444582727836">Jev decision AI arrives on Alarm Monster, now callable via /jev</a></h3>
+<p>Jev is not a chatbot but a decision AI that provides probabilities. It has now been integrated into Alarm Monster, allowing users to simply type /jev in the bot without writing API code. In a test example, Jev assessed the chance of NMR replicating QNT&#39;s 5x move at 40%, with a cost of about $0.00004 per answer.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Mehmet YILMAZ</strong> · @yilmazmehmethc</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ageshah/status/2107317887614718154"><img src="https://pbs.twimg.com/media/HT6yQ8PaMAEAf7x?format=jpg&amp;name=medium" alt="Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ageshah/status/2107317887614718154">Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon</a></h3>
-<p>The author reports that Clef is the first model to outperform Jev in his 61-test bakeoff, with better results but slower overall. Jev performed strongly on Amazon yesterday.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Ajay Shah</strong> · @ageshah</p>
+<p><strong>02</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
+<a href="https://x.com/vmrmax/status/2107335771933856082"><img src="https://pbs.twimg.com/amplify_video_thumb/2107335668170895363/img/767tK-bCI7ZI3Yla.jpg" alt="Jev-Driven Dev Workflow: 70 Hours of Senior Dev Work for $5.01 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/vmrmax/status/2107335771933856082">Jev-Driven Dev Workflow: 70 Hours of Senior Dev Work for $5.01</a></h3>
+<p>The author combined Jev with Claude Opus 5.5 and Sonnet 5.5, running three comparison experiments across 47 tickets in one repo, showing that a Jev-involved pipeline can complete substantial development work at a very low cost.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Max Vmr</strong> · @vmrmax</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/haginota/status/2107316722118398012"><img src="https://pbs.twimg.com/media/HT6xUmpawAAtV_T?format=jpg&amp;name=medium" alt="Comparing Jev with Cloudflare Clef: Observations on Hallucination Detection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/haginota/status/2107316722118398012">Comparing Jev with Cloudflare Clef: Observations on Hallucination Detection</a></h3>
-<p>Takahiro Hagino wrote a blog post comparing Cloudflare&#39;s Clef/Clef-Flash with TypeSafe&#39;s Jev, focusing on hallucination detection. He notes that Flash returns a higher average &#39;hallucination&#39; probability for correct content.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 26</p>
-<p><strong>萩野貴拓</strong> · @haginota</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/katopz/status/2107335389338055024"><img src="https://pbs.twimg.com/media/HT7BzazbsAAq227?format=jpg&amp;name=medium" alt="Jev microsecond decisions, powered by Rust · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/katopz/status/2107335389338055024">Jev microsecond decisions, powered by Rust</a></h3>
+<p>katopz shares that Jev delivers typical decisions in microseconds, powered by Rust, with a link to reflex.gist.rs.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>katopz</strong> · @katopz</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/nekorobi_aws/status/2107308806569156655"><img src="https://pbs.twimg.com/amplify_video_thumb/2107306118276100096/img/vTyc-hJDJhXr_Ir9.jpg" alt="Trying GraphRAG without vector search using Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nekorobi_aws/status/2107308806569156655">Trying GraphRAG without vector search using Jev</a></h3>
-<p>An AWS enthusiast is experimenting with a GraphRAG approach combining lightweight ontology and Jev, emphasizing no vector search dependency.</p>
-<p><strong>599</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 599</p>
-<p><strong>山ちゃん@AWS好きすぎて滅</strong> · @nekorobi_aws</p>
+<a href="https://x.com/danieljvdm/status/2107334033151795432"><img src="https://pbs.twimg.com/amplify_video_thumb/2107333768180867072/img/PBCq12lnpqeYKO6x.jpg" alt="Making browser use blazing fast with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/danieljvdm/status/2107334033151795432">Making browser use blazing fast with Jev</a></h3>
+<p>The author shares experience optimizing browser use in a yielded agent, achieving 5 seconds from the Transformer wiki article to Real Madrid with Jev.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Dan van der Merwe</strong> · @danieljvdm</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ai_super_niko/status/2107319965783073185"><img src="https://pbs.twimg.com/media/HT60V2fXUAA4P-N?format=jpg&amp;name=medium" alt="Jev: A Decision-Calibration Model Processing 1 Trillion Tokens Daily · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ai_super_niko/status/2107319965783073185">Jev: A Decision-Calibration Model Processing 1 Trillion Tokens Daily</a></h3>
-<p>Jev, developed by TypeSafe AI, does not perform text generation but outputs yes/no, scores, and predefined options to support decision-making. It is embedded in automation software and used by about 25% of Fortune 500 companies.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Niko爱学习</strong> · @ai_super_niko</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/yilmazmehmethc/status/2107336444582727836"><img src="https://pbs.twimg.com/media/HT7DSxZXcAEk_ON?format=jpg&amp;name=large" alt="Jev decision AI arrives on Alarm Monster, now callable via /jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yilmazmehmethc/status/2107336444582727836">Jev decision AI arrives on Alarm Monster, now callable via /jev</a></h3>
+<p>Jev is not a chatbot but a decision AI that provides probabilities. It has now been integrated into Alarm Monster, allowing users to simply type /jev in the bot without writing API code. In a test example, Jev assessed the chance of NMR replicating QNT&#39;s 5x move at 40%, with a cost of about $0.00004 per answer.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Mehmet YILMAZ</strong> · @yilmazmehmethc</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/danieljvdm/status/2107334033151795432"><img src="https://pbs.twimg.com/amplify_video_thumb/2107333768180867072/img/PBCq12lnpqeYKO6x.jpg" alt="Making browser use blazing fast with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/danieljvdm/status/2107334033151795432">Making browser use blazing fast with Jev</a></h3>
+<p>The author shares experience optimizing browser use in a yielded agent, achieving 5 seconds from the Transformer wiki article to Real Madrid with Jev.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Dan van der Merwe</strong> · @danieljvdm</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/danialhasan/status/2107330159166783929"><img src="https://pbs.twimg.com/amplify_video_thumb/2107149336803217412/img/gMiKi9aZNhJ7XCUC.jpg" alt="Using Jev-style Decision Models for Computer Use · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/danialhasan/status/2107330159166783929">Using Jev-style Decision Models for Computer Use</a></h3>
+<p>A user comments on using Jev-style decision models for computer use, highlighting potential community practice with TypeSafe&#39;s Jev model in agentic or automation settings.</p>
+<p><strong>48</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><strong>danialhasan</strong> · @danialhasan</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/nekorobi_aws/status/2107308806569156655"><img src="https://pbs.twimg.com/amplify_video_thumb/2107306118276100096/img/vTyc-hJDJhXr_Ir9.jpg" alt="Trying GraphRAG without vector search using Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/nekorobi_aws/status/2107308806569156655">Trying GraphRAG without vector search using Jev</a></h3>
 <p>An AWS enthusiast is experimenting with a GraphRAG approach combining lightweight ontology and Jev, emphasizing no vector search dependency.</p>
 <p><strong>599</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 599</p>
 <p><strong>山ちゃん@AWS好きすぎて滅</strong> · @nekorobi_aws</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/shashanksinxx/status/2107264698773274805"><img src="https://pbs.twimg.com/amplify_video_thumb/2107262885114355712/img/GAutUnwoiY2JJUFs.jpg" alt="JEV-Powered Personalized Alarm Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/shashanksinxx/status/2107264698773274805">JEV-Powered Personalized Alarm Decisions</a></h3>
-<p>The user uses the JEV model to score urgency based on waking purpose (e.g., gym or meeting) and decide alarm strictness and snooze count, showcasing context-aware agent application.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Shashank Singh</strong> · @shashanksinxx</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/RoniBandini/status/2107109182520414285"><img src="https://pbs.twimg.com/media/HT3xVQdW4AA90yq?format=jpg&amp;name=large" alt="Jev-powered WiFi analyzer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RoniBandini/status/2107109182520414285">Jev-powered WiFi analyzer</a></h3>
-<p>Roni Bandini shares a Jev-based WiFi analyzer that hops between channels logging beacons/RSSI/clients. The AI evaluates coverage, congestion, and solutions. Built on ZimaBoard, Ubuntu, and Python, with tutorial and code coming soon.</p>
-<p><strong>227</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 227</p>
-<p><strong>Roni Bandini</strong> · @RoniBandini</p>
 </td>
 </tr>
 </table>

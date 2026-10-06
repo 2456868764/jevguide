@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 878 | 365 | 517 | 3.0M |
+| 880 | 367 | 517 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/danieljvdm/status/2107334033151795432"><img src="https://pbs.twimg.com/amplify_video_thumb/2107333768180867072/img/PBCq12lnpqeYKO6x.jpg" alt="Making browser use blazing fast with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/danieljvdm/status/2107334033151795432">Making browser use blazing fast with Jev</a></h3>
+<p>The author shares experience optimizing browser use in a yielded agent, achieving 5 seconds from the Transformer wiki article to Real Madrid with Jev.</p>
+<p><strong>中文摘要：</strong>作者分享在yielded agent中优化浏览器使用的经验，借助Jev实现从Transformer维基页面到Real Madrid仅需5秒。</p>
+<p><strong>Dan van der Merwe</strong> · @danieljvdm · 2026-10-06T04:56:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/danieljvdm/status/2107334033151795432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/danialhasan/status/2107330159166783929"><img src="https://pbs.twimg.com/amplify_video_thumb/2107149336803217412/img/gMiKi9aZNhJ7XCUC.jpg" alt="Using Jev-style Decision Models for Computer Use · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/danialhasan/status/2107330159166783929">Using Jev-style Decision Models for Computer Use</a></h3>
+<p>A user comments on using Jev-style decision models for computer use, highlighting potential community practice with TypeSafe&#39;s Jev model in agentic or automation settings.</p>
+<p><strong>中文摘要：</strong>用户评论称赞将 Jev 风格决策模型应用于计算机操作，可能涉及 TypeSafe 的 Jev 模型在智能体或自动化场景中的实践。</p>
+<p><strong>danialhasan</strong> · @danialhasan · 2026-10-06T04:40:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><a href="https://x.com/danialhasan/status/2107330159166783929">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ageshah/status/2107317887614718154"><img src="https://pbs.twimg.com/media/HT6yQ8PaMAEAf7x?format=jpg&amp;name=medium" alt="Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon · 原帖图片" width="100%"></a>

@@ -454,6 +454,7 @@
 - [Karan](../authors/karan.md) — 2
 - [Kartikey Pandey](../authors/kartikey-pandey.md) — 2
 - [Katanai](../authors/katanai.md) — 2
+- [katopz](../authors/katopz.md) — 2
 - [Kaya Jones](../authors/kaya-jones.md) — 2
 - [keno](../authors/keno.md) — 2
 - [Kevin Dubois](../authors/kevin-dubois.md) — 2
@@ -490,6 +491,7 @@
 - [Martin Szerment | Practical AI](../authors/martin-szerment-practical-ai.md) — 2
 - [Matt DesLauriers](../authors/matt-deslauriers.md) — 2
 - [Max Blade](../authors/max-blade.md) — 2
+- [Max Vmr](../authors/max-vmr.md) — 2
 - [MD Emran Hossain](../authors/md-emran-hossain.md) — 2
 - [Mehmet Eren Dikmen](../authors/mehmet-eren-dikmen.md) — 2
 - [Mentis 🇦🇺](../authors/mentis.md) — 2
@@ -641,6 +643,7 @@
 - [Yoshimi Shikase](../authors/yoshimi-shikase.md) — 2
 - [Yury Selivanov](../authors/yury-selivanov.md) — 2
 - [Zach Khorozian](../authors/zach-khorozian.md) — 2
+- [zaru](../authors/zaru.md) — 2
 - [Zeki Works](../authors/zeki-works.md) — 2
 - [Zen Superman](../authors/zen-superman.md) — 2
 - [zhouluobo](../authors/zhouluobo.md) — 2
@@ -1280,8 +1283,10 @@
 - [Dan Billson](../authors/dan-billson.md) — 1
 - [Dan Robinson](../authors/dan-robinson.md) — 1
 - [Dan Shamir](../authors/dan-shamir.md) — 1
+- [Dan van der Merwe](../authors/dan-van-der-merwe.md) — 1
 - [Dani Vázquez](../authors/dani-vazquez.md) — 1
 - [Dani Zhu](../authors/dani-zhu.md) — 1
+- [danialhasan](../authors/danialhasan.md) — 1
 - [Daniel](../authors/daniel.md) — 1
 - [Daniel Amitay](../authors/daniel-amitay.md) — 1
 - [Daniel Ch](../authors/daniel-ch.md) — 1
@@ -1937,7 +1942,6 @@
 - [kate](../authors/kate.md) — 1
 - [Kathan Desai](../authors/kathan-desai.md) — 1
 - [Kathia](../authors/kathia.md) — 1
-- [katopz](../authors/katopz.md) — 1
 - [Katungi Dev ⚡️](../authors/katungi-dev.md) — 1
 - [Kaung Myatthu](../authors/kaung-myatthu.md) — 1
 - [Kaushal Chaudhari](../authors/kaushal-chaudhari.md) — 1
@@ -2175,7 +2179,6 @@
 - [Maverick](../authors/maverick.md) — 1
 - [Max Petrusenko](../authors/max-petrusenko.md) — 1
 - [Max Shaw](../authors/max-shaw.md) — 1
-- [Max Vmr](../authors/max-vmr.md) — 1
 - [Max_Xu](../authors/max-xu.md) — 1
 - [Maxim Oulitzky](../authors/maxim-oulitzky.md) — 1
 - [Maxime Rivest 🧙‍♂️🦙🐧](../authors/maxime-rivest.md) — 1
@@ -2189,6 +2192,7 @@
 - [Medical Boulevard](../authors/medical-boulevard.md) — 1
 - [Meghavi Rao](../authors/meghavi-rao.md) — 1
 - [Mehdi Ouazza](../authors/mehdi-ouazza.md) — 1
+- [Mehmet YILMAZ](../authors/mehmet-yilmaz.md) — 1
 - [Melih Çat](../authors/melih-cat.md) — 1
 - [Mello](../authors/mello.md) — 1
 - [Melvyn • Builder](../authors/melvyn-builder.md) — 1
@@ -2756,6 +2760,7 @@
 - [scsherm](../authors/scsherm.md) — 1
 - [SDLC Corp](../authors/sdlc-corp.md) — 1
 - [Sean Bauman](../authors/sean-bauman.md) — 1
+- [Sean McClure](../authors/sean-mcclure.md) — 1
 - [Sean Young](../authors/sean-young.md) — 1
 - [Seattle Sysop](../authors/seattle-sysop.md) — 1
 - [Seb](../authors/seb.md) — 1
@@ -3250,7 +3255,6 @@
 - [Zachi](../authors/zachi.md) — 1
 - [Zaddy](../authors/zaddy.md) — 1
 - [Zain](../authors/zain.md) — 1
-- [zaru](../authors/zaru.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
 - [Zed](../authors/zed.md) — 1

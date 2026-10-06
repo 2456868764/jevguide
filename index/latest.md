@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T12:42:09.000Z | [Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching](https://x.com/BohuTANG/status/2107451343644602375) | 软件开发 | Bohu | 6 |
+| 2026-10-06T12:35:59.000Z | [Community discussion on CPU-based Jev models](https://x.com/theonlyglitch_/status/2107449792469332232) | 社区实践 | ShivanjanChakravorty | 9 |
+| 2026-10-06T12:30:01.000Z | [6 Places to Use Jev in a Production AI System](https://x.com/pauliusztin_/status/2107448288270324217) | 社区实践 | Paul Iusztin | 40 |
+| 2026-10-06T12:29:33.000Z | [Jev: Can't write a sentence, but faster](https://x.com/plutos_eth/status/2107448173773906244) | 智能体 | plutos | 648 |
+| 2026-10-06T12:17:26.000Z | [Video and Article Explaining What Jev Can and Cannot Do](https://x.com/ai_bites/status/2107445122568781875) | 社区实践 | AI Bites \| YouTube Channel | 36 |
+| 2026-10-06T12:12:34.000Z | [User shares LLM auto-routing case: model appears to beat Jev and is 9x faster](https://x.com/airesearch12/status/2107443897886491013) | 社区实践 | Florian S | 14 |
 | 2026-10-06T11:39:04.000Z | [Community Evaluation of TypeSafe's jev Model](https://x.com/Sanyam0605/status/2107435468136792531) | 社区实践 | Sanyam Jain (sanyam-ai.in) | 20 |
 | 2026-10-06T11:35:55.000Z | [AI Avatar v23 adds Jev emotion analysis and activity logs](https://x.com/WebDevHyper/status/2107434673702113453) | 游戏 | Web Developer Hyper | 33 |
 | 2026-10-06T11:15:28.000Z | [DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile](https://x.com/HOTHEAD01TH/status/2107429527848624476) | 社区实践 | 𝕏AID ADIL 👨‍💻 | 7 |
@@ -96,9 +102,3 @@
 | 2026-10-05T12:34:01.000Z | [More uses for Jev: Semantic database filtering](https://x.com/Arindam_1729/status/2107086910447661384) | 社区实践 | Arindam Majumder 𝕏 | 1.3K |
 | 2026-10-05T12:31:08.000Z | [A cheap typed layer (JEV) for your agent](https://x.com/kinderlayer/status/2107086182848872650) | 自动化工作流 | Kinder | 57 |
 | 2026-10-05T12:30:01.000Z | [Alma Dev Update: Jev Integration Boosts Accuracy](https://x.com/almnc_ai/status/2107085904259039291) | 开发者工具 | Almanac | 51 |
-| 2026-10-05T12:29:52.000Z | [Jev-Mem: Building a Memory System with Jev's Fast Classification](https://x.com/Gorden_Sun/status/2107085863385731451) | 社区实践 | Gorden Sun | 106 |
-| 2026-10-05T12:25:22.000Z | [Jev for High-Frequency Micro-Decisions in Agent Loops](https://x.com/0xAlhimik/status/2107084733402513475) | 智能体 | Alhimik | 5 |
-| 2026-10-05T12:15:00.000Z | [See what builders are making with Jev](https://x.com/repopad_rh/status/2107082122460893690) | 社区实践 | Repopad | 29 |
-| 2026-10-05T12:09:30.000Z | [Jev and LLM Collaboration: Decision Layer Routing](https://x.com/NitorInfotech/status/2107080737237430376) | 工作原理 | Nitor Infotech | 7 |
-| 2026-10-05T12:06:20.000Z | [User Migrates Haiku Workload to Jev](https://x.com/moru3/status/2107079941884150231) | 社区实践 | IwaKen | 11 |
-| 2026-10-05T12:04:02.000Z | [Jev AI: The AI that alerts when uncertain](https://x.com/nocodehackers/status/2107079362633724207) | 工作原理 | NocodeHackers | 104 |

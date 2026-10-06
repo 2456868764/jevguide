@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5114</strong><br>curated posts</td>
-<td align="center"><strong>2626</strong><br>original videos</td>
+<td align="center"><strong>5120</strong><br>curated posts</td>
+<td align="center"><strong>2629</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>884</strong> showcases · <strong>369</strong> videos</p>
+<p><strong>888</strong> showcases · <strong>370</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>386</strong> showcases · <strong>219</strong> videos</p>
+<p><strong>387</strong> showcases · <strong>220</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>33</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>34</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Sanyam0605/status/2107435468136792531">Community Evaluation of TypeSafe&#39;s jev Model</a></h3>
-<p>Developer Sanyam ran Clef models from Cloudflare, TypeSafe&#39;s jev, kev models, plus Qwen and rerankers from HuggingFace, highlighting the lack of common benchmarks for engineering communities.</p>
-<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
-<p><strong>Sanyam Jain (sanyam-ai.in)</strong> · @Sanyam0605</p>
+<p><strong>01</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
+<a href="https://x.com/BohuTANG/status/2107451343644602375"><img src="https://pbs.twimg.com/amplify_video_thumb/2107448505145139200/img/vQKKwo7AVgHo4N2M.jpg" alt="Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/BohuTANG/status/2107451343644602375">Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching</a></h3>
+<p>The author shares how they use Jev to identify which HTML DOM elements need translation, process only visible areas, batch requests, and load on scroll for a smooth, token-efficient experience with an evot model.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Bohu</strong> · @BohuTANG</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/WebDevHyper/status/2107434673702113453"><img src="https://pbs.twimg.com/amplify_video_thumb/2107433978265489408/img/kA5qT6naRJNxvbrm.jpg" alt="AI Avatar v23 adds Jev emotion analysis and activity logs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/WebDevHyper/status/2107434673702113453">AI Avatar v23 adds Jev emotion analysis and activity logs</a></h3>
-<p>The developer shares AI Avatar v23, which uses Jev for emotion analysis and adds Claude Code/Codex activity logs; the idle game (Voxel Avatar) also adds hamsters, mushrooms, and clouds.</p>
-<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
-<p><strong>Web Developer Hyper</strong> · @WebDevHyper</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/theonlyglitch_/status/2107449792469332232"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Community discussion on CPU-based Jev models · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/theonlyglitch_/status/2107449792469332232">Community discussion on CPU-based Jev models</a></h3>
+<p>The post argues that CPU-based Jev models are more practical for broader adoption of the decision model family, as many people lack expensive hardware, and calls this a promising direction.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>ShivanjanChakravorty</strong> · @theonlyglitch_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/HOTHEAD01TH/status/2107429527848624476"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107429462136549376/pu/img/zrozED-MbrcyFpb4.jpg" alt="DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HOTHEAD01TH/status/2107429527848624476">DiffusionGemma-as-Jev (djev) Running Real-Time Vision Detection on Mobile</a></h3>
-<p>The post shows djev running near-real-time vision detection on a mobile phone using its native vision tower, along with a safety reminder.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>𝕏AID ADIL 👨‍💻</strong> · @HOTHEAD01TH</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/pauliusztin_/status/2107448288270324217"><img src="https://pbs.twimg.com/media/HT5fWWqXoAA5nVQ?format=jpg&amp;name=medium" alt="6 Places to Use Jev in a Production AI System · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pauliusztin_/status/2107448288270324217">6 Places to Use Jev in a Production AI System</a></h3>
+<p>Paul Iusztin shares 6 places he would use Jev in a production AI system, highlighting Jev as TypeSafe AI&#39;s zero-shot frontier classifier (a decision model) for fast decisions rather than replacing LLM generation.</p>
+<p><strong>40</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
+<p><strong>Paul Iusztin</strong> · @pauliusztin_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goodailabs/status/2107429300706394615">Reflex-1: A Jev-Inspired Local Decision Model</a></h3>
-<p>Reflex-1 is a 421M decision model with weights available on Hugging Face. Given a situation and a question with possible answers, it picks from those choices in a single forward pass, and runs locally on a MacBook Air&#39;s CPU.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Good AI Labs</strong> · @goodailabs</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2107448173773906244"><img src="https://pbs.twimg.com/amplify_video_thumb/2107447454849236992/img/jgPEdbuxiSYk_BRB.jpg" alt="Jev: Can&#39;t write a sentence, but faster · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2107448173773906244">Jev: Can&#39;t write a sentence, but faster</a></h3>
+<p>The post discusses Jev&#39;s positioning: AI apps need fast answers and numbers, not paragraphs. Jev provides exactly that, suitable for search answers and ticket routing.</p>
+<p><strong>648</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 648</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Sanyam0605/status/2107435468136792531">Community Evaluation of TypeSafe&#39;s jev Model</a></h3>
-<p>Developer Sanyam ran Clef models from Cloudflare, TypeSafe&#39;s jev, kev models, plus Qwen and rerankers from HuggingFace, highlighting the lack of common benchmarks for engineering communities.</p>
-<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
-<p><strong>Sanyam Jain (sanyam-ai.in)</strong> · @Sanyam0605</p>
+<p><strong>01</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
+<a href="https://x.com/BohuTANG/status/2107451343644602375"><img src="https://pbs.twimg.com/amplify_video_thumb/2107448505145139200/img/vQKKwo7AVgHo4N2M.jpg" alt="Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/BohuTANG/status/2107451343644602375">Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching</a></h3>
+<p>The author shares how they use Jev to identify which HTML DOM elements need translation, process only visible areas, batch requests, and load on scroll for a smooth, token-efficient experience with an evot model.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Bohu</strong> · @BohuTANG</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goodailabs/status/2107429300706394615">Reflex-1: A Jev-Inspired Local Decision Model</a></h3>
-<p>Reflex-1 is a 421M decision model with weights available on Hugging Face. Given a situation and a question with possible answers, it picks from those choices in a single forward pass, and runs locally on a MacBook Air&#39;s CPU.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Good AI Labs</strong> · @goodailabs</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2107448173773906244"><img src="https://pbs.twimg.com/amplify_video_thumb/2107447454849236992/img/jgPEdbuxiSYk_BRB.jpg" alt="Jev: Can&#39;t write a sentence, but faster · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2107448173773906244">Jev: Can&#39;t write a sentence, but faster</a></h3>
+<p>The post discusses Jev&#39;s positioning: AI apps need fast answers and numbers, not paragraphs. Jev provides exactly that, suitable for search answers and ticket routing.</p>
+<p><strong>648</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 648</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ai_bites/status/2107445122568781875"><img src="https://pbs.twimg.com/media/HT8mFspXYAA-pGi?format=jpg&amp;name=medium" alt="Video and Article Explaining What Jev Can and Cannot Do · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ai_bites/status/2107445122568781875">Video and Article Explaining What Jev Can and Cannot Do</a></h3>
+<p>AI Bites published a video and article about Jev, discussing whether to switch from LLMs to Jev and what tasks Jev can handle, helping users understand Jev&#39;s practical positioning.</p>
+<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><strong>AI Bites | YouTube Channel</strong> · @ai_bites</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
 <a href="https://x.com/cesargomz29/status/2107428497354314077"><img src="https://pbs.twimg.com/amplify_video_thumb/2107428403242467328/img/bwg9jXF6dw2fMeTu.jpg" alt="JEV Hailed as Year&#39;s Biggest AI Breakthrough · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/cesargomz29/status/2107428497354314077">JEV Hailed as Year&#39;s Biggest AI Breakthrough</a></h3>
 <p>The post promotes JEV as the biggest AI breakthrough of the year, claiming a new architecture distinct from GPT and Claude, and recommends watching a video explaining it.</p>
 <p><strong>311</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 311</p>
 <p><strong>CesarAG</strong> · @cesargomz29</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/marco_derossi/status/2107418249843380397"><img src="https://pbs.twimg.com/media/HT8NJLrWEAAP-2F?format=jpg&amp;name=medium" alt="Sage Claims Decision Model Surpassing Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/marco_derossi/status/2107418249843380397">Sage Claims Decision Model Surpassing Jev</a></h3>
-<p>LevantoLabs&#39; Sage claims to be the first decision model, launched in July, and tops JevBench, beating Jev and Google&#39;s models on all dimensions.</p>
-<p><strong>212</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 212</p>
-<p><strong>Marco De Rossi</strong> · @marco_derossi</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 884 | 369 | 519 | 3.0M |
+| 888 | 370 | 522 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/theonlyglitch_/status/2107449792469332232"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Community discussion on CPU-based Jev models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/theonlyglitch_/status/2107449792469332232">Community discussion on CPU-based Jev models</a></h3>
+<p>The post argues that CPU-based Jev models are more practical for broader adoption of the decision model family, as many people lack expensive hardware, and calls this a promising direction.</p>
+<p><strong>中文摘要：</strong>该帖认为CPU上的Jev模型更适合决策模型家族的广泛应用，因为多数人没有昂贵硬件，并称这是值得追求的方向。</p>
+<p><strong>ShivanjanChakravorty</strong> · @theonlyglitch_ · 2026-10-06T12:35:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/theonlyglitch_/status/2107449792469332232">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pauliusztin_/status/2107448288270324217"><img src="https://pbs.twimg.com/media/HT5fWWqXoAA5nVQ?format=jpg&amp;name=medium" alt="6 Places to Use Jev in a Production AI System · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pauliusztin_/status/2107448288270324217">6 Places to Use Jev in a Production AI System</a></h3>
+<p>Paul Iusztin shares 6 places he would use Jev in a production AI system, highlighting Jev as TypeSafe AI&#39;s zero-shot frontier classifier (a decision model) for fast decisions rather than replacing LLM generation.</p>
+<p><strong>中文摘要：</strong>Paul Iusztin 分享了他会在生产 AI 系统中使用 Jev 的 6 个场景，强调 Jev 是 TypeSafe AI 的 zero-shot 前沿分类器（决策模型），用于快速决策而非替代 LLM 的生成能力。</p>
+<p><strong>Paul Iusztin</strong> · @pauliusztin_ · 2026-10-06T12:30:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
+<p><a href="https://x.com/pauliusztin_/status/2107448288270324217">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_bites/status/2107445122568781875"><img src="https://pbs.twimg.com/media/HT8mFspXYAA-pGi?format=jpg&amp;name=medium" alt="Video and Article Explaining What Jev Can and Cannot Do · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ai_bites/status/2107445122568781875">Video and Article Explaining What Jev Can and Cannot Do</a></h3>
+<p>AI Bites published a video and article about Jev, discussing whether to switch from LLMs to Jev and what tasks Jev can handle, helping users understand Jev&#39;s practical positioning.</p>
+<p><strong>中文摘要：</strong>AI Bites频道发布了关于Jev的视频和文章，详细讨论了是否应从LLM切换到Jev，以及Jev能胜任哪些任务，帮助用户理解Jev的实际定位。</p>
+<p><strong>AI Bites | YouTube Channel</strong> · @ai_bites · 2026-10-06T12:17:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
+<p><a href="https://x.com/ai_bites/status/2107445122568781875">在 X 查看原帖</a> · <a href="https://t.co/F9XFTuP1PF">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2107443897886491013"><img src="https://pbs.twimg.com/media/HT8klVfW8AAYi4z?format=jpg&amp;name=medium" alt="User shares LLM auto-routing case: model appears to beat Jev and is 9x faster · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2107443897886491013">User shares LLM auto-routing case: model appears to beat Jev and is 9x faster</a></h3>
+<p>Florian S congratulates &#39;cat&#39; on its launch, and notes that in his most used LLM auto-routing scenario, a certain model appears to outperform Jev, is 9x faster, and can run on CPU.</p>
+<p><strong>中文摘要：</strong>Florian S 祝贺&#39;cat&#39;的成功发布，并提到在他最常用的LLM自动路由场景中，某个模型似乎比Jev表现更好，速度快9倍，而且可在CPU上运行。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-10-06T12:12:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/airesearch12/status/2107443897886491013">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sanyam0605/status/2107435468136792531"><img src="https://pbs.twimg.com/media/HT8dBtyakAAkzHO?format=jpg&amp;name=medium" alt="Community Evaluation of TypeSafe&#39;s jev Model · 原帖图片" width="100%"></a>

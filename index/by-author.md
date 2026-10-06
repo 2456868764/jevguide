@@ -3,8 +3,8 @@
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 30
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
+- [Florian S](../authors/florian-s.md) — 17
 - [CyrilXBT](../authors/cyrilxbt.md) — 16
-- [Florian S](../authors/florian-s.md) — 16
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 16
 - [Geek Lite](../authors/geek-lite.md) — 15
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
@@ -247,6 +247,7 @@
 - [ParlonsIA sans compromis](../authors/parlonsia-sans-compromis.md) — 3
 - [Peter Banda](../authors/peter-banda.md) — 3
 - [Platzi](../authors/platzi.md) — 3
+- [plutos](../authors/plutos.md) — 3
 - [PolyBender](../authors/polybender.md) — 3
 - [rari](../authors/rari.md) — 3
 - [Real Python](../authors/real-python.md) — 3
@@ -306,6 +307,7 @@
 - [Abol](../authors/abol.md) — 2
 - [Adam Chester 🏴‍☠️](../authors/adam-chester.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
+- [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
 - [AIzunA 出雲から、AIをもっとやさしく。](../authors/aizuna-出雲-ai.md) — 2
 - [Ajay Shah](../authors/ajay-shah.md) — 2
@@ -347,6 +349,7 @@
 - [Blumi | Orbitagents](../authors/blumi-orbitagents.md) — 2
 - [Bober_smart](../authors/bober-smart.md) — 2
 - [bodila](../authors/bodila.md) — 2
+- [Bohu](../authors/bohu.md) — 2
 - [brainstormity](../authors/brainstormity.md) — 2
 - [Branko](../authors/branko.md) — 2
 - [Bruno Coelho](../authors/bruno-coelho.md) — 2
@@ -555,7 +558,6 @@
 - [Philip](../authors/philip.md) — 2
 - [Piyush Patel](../authors/piyush-patel.md) — 2
 - [plastik electrik](../authors/plastik-electrik.md) — 2
-- [plutos](../authors/plutos.md) — 2
 - [Prasad Pilla](../authors/prasad-pilla.md) — 2
 - [qibaz](../authors/qibaz.md) — 2
 - [QuantizedDen](../authors/quantizedden.md) — 2
@@ -801,7 +803,6 @@
 - [Ahmed Mohammed](../authors/ahmed-mohammed.md) — 1
 - [Ahmed Mukhtar](../authors/ahmed-mukhtar.md) — 1
 - [ai & weekends](../authors/ai-weekends.md) — 1
-- [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 1
 - [AI Builder Club](../authors/ai-builder-club.md) — 1
 - [AI Cooked](../authors/ai-cooked.md) — 1
 - [AI FrontPage](../authors/ai-frontpage.md) — 1
@@ -1106,7 +1107,6 @@
 - [Bo Brainerd](../authors/bo-brainerd.md) — 1
 - [Bobo Li](../authors/bobo-li.md) — 1
 - [bodka (ぼっか)](../authors/bodka.md) — 1
-- [Bohu](../authors/bohu.md) — 1
 - [Bokiko](../authors/bokiko.md) — 1
 - [Bolha Dev](../authors/bolha-dev.md) — 1
 - [Bolter](../authors/bolter.md) — 1
@@ -2482,6 +2482,7 @@
 - [Patronus Ben](../authors/patronus-ben.md) — 1
 - [Paul Asjes](../authors/paul-asjes.md) — 1
 - [Paul Crossland](../authors/paul-crossland.md) — 1
+- [Paul Iusztin](../authors/paul-iusztin.md) — 1
 - [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
 - [Paul-Marie](../authors/paul-marie.md) — 1
 - [paulwei](../authors/paulwei.md) — 1
@@ -2831,6 +2832,7 @@
 - [Shivam](../authors/shivam.md) — 1
 - [Shivam Gupta](../authors/shivam-gupta.md) — 1
 - [Shivang Gupta](../authors/shivang-gupta.md) — 1
+- [ShivanjanChakravorty](../authors/shivanjanchakravorty.md) — 1
 - [Shivendra Rawat](../authors/shivendra-rawat.md) — 1
 - [shmidt](../authors/shmidt.md) — 1
 - [Shmulik Cohen](../authors/shmulik-cohen.md) — 1

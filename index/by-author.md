@@ -193,6 +193,7 @@
 - [HackerNewsTop5](../authors/hackernewstop5.md) — 3
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
+- [Hendrik Krack](../authors/hendrik-krack.md) — 3
 - [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
@@ -422,7 +423,6 @@
 - [Happycapy](../authors/happycapy.md) — 2
 - [Hassan](../authors/hassan.md) — 2
 - [Hemant](../authors/hemant.md) — 2
-- [Hendrik Krack](../authors/hendrik-krack.md) — 2
 - [hiraoku](../authors/hiraoku.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
@@ -1780,6 +1780,7 @@
 - [Jake Cusack](../authors/jake-cusack.md) — 1
 - [Jake Dahn](../authors/jake-dahn.md) — 1
 - [james](../authors/james.md) — 1
+- [James Briggs](../authors/james-briggs.md) — 1
 - [James Chambers](../authors/james-chambers.md) — 1
 - [James Long](../authors/james-long.md) — 1
 - [James Odebiyi](../authors/james-odebiyi.md) — 1
@@ -2530,6 +2531,7 @@
 - [Prasanna Vaidya](../authors/prasanna-vaidya.md) — 1
 - [Prashant Lakhera](../authors/prashant-lakhera.md) — 1
 - [Prateek](../authors/prateek.md) — 1
+- [Prateek Jain](../authors/prateek-jain.md) — 1
 - [Pratik Karki](../authors/pratik-karki.md) — 1
 - [Pratim Bhosale](../authors/pratim-bhosale.md) — 1
 - [Pratul Singhal](../authors/pratul-singhal.md) — 1
@@ -2682,6 +2684,7 @@
 - [Rubs](../authors/rubs.md) — 1
 - [Rudra Satani](../authors/rudra-satani.md) — 1
 - [Rudraksh gulatii](../authors/rudraksh-gulatii.md) — 1
+- [Rudrakshh](../authors/rudrakshh.md) — 1
 - [Rumi](../authors/rumi.md) — 1
 - [Russ Rogers](../authors/russ-rogers.md) — 1
 - [Russ Wonsley](../authors/russ-wonsley.md) — 1
@@ -3194,6 +3197,7 @@
 - [x1k](../authors/x1k.md) — 1
 - [Xenova](../authors/xenova.md) — 1
 - [Xiang Wei](../authors/xiang-wei.md) — 1
+- [xiax｜AI & Agents](../authors/xiax-ai-agents.md) — 1
 - [Xin Eric Wang](../authors/xin-eric-wang.md) — 1
 - [Xirfadlay](../authors/xirfadlay.md) — 1
 - [xkonjin](../authors/xkonjin.md) — 1

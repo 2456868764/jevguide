@@ -2,7 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T06:52:09.000Z | [Developer Builds Resume Analyzer Engine with Jev](https://x.com/soni_rudra81979/status/2107363263885549708) | 数据分析 | Rudrakshh | 1 |
+| 2026-10-06T06:50:56.000Z | [Jev vs Open Source: GLiNER Beats Jev at Doom](https://x.com/jamescalam/status/2107362956082385220) | 科研 | James Briggs | 49 |
+| 2026-10-06T06:41:01.000Z | [Cloudflare Open-Sources Decision Model Clef, Outperforming Jev](https://x.com/xiax0603/status/2107360460026843632) | 开发者工具 | xiax｜AI & Agents | 44 |
+| 2026-10-06T05:52:20.000Z | [Jev: An Intelligence-Infused Logic Gate](https://x.com/HKrackDev/status/2107348210448765242) | 工作原理 | Hendrik Krack | 4 |
 | 2026-10-06T05:48:44.000Z | [Australia's open-source AI Matilda claims to outpace Jev in decision-making](https://x.com/badboyfoxy/status/2107347302310408462) | 社区实践 | badboyfoxy | 275 |
+| 2026-10-06T05:47:01.000Z | [Cloudflare open-sources Clef decision model, taking on TypeSafe AI's Jev](https://x.com/PrateekJainDev/status/2107346873153360276) | 产品发布 | Prateek Jain | 52 |
 | 2026-10-06T05:45:09.000Z | [TypeSafe AI Releases Jev Decision Model](https://x.com/AGTPinsights/status/2107346400640127382) | 产品发布 | AGTP | 64 |
 | 2026-10-06T05:44:49.000Z | [Jev Has an Open Competitor from an Actual Lab: Matilda Jev](https://x.com/marcthecreatorr/status/2107346317588533446) | 产品发布 | Marcel | 108 |
 | 2026-10-06T05:33:43.000Z | [Minecraft Metaphor: How Jev Stops AI Nonsense](https://x.com/gogu_name/status/2107343523091480779) | 工作原理 | gogu | 75 |
@@ -97,8 +102,3 @@
 | 2026-10-05T09:50:52.000Z | [Jev-like Model Plays Minecraft](https://x.com/paul__ml/status/2107045848823861733) | 游戏 | Paul Lemaistre | 107 |
 | 2026-10-05T09:41:03.000Z | [Jev Decision API Agent Architecture Sparks Discussion](https://x.com/mani_koppala/status/2107043381398454327) | 智能体 | Mani | 1 |
 | 2026-10-05T09:40:39.000Z | [TypeSafe AI's Jev: No Text Generation, Only Typed Judgments and Confidence](https://x.com/kenchan_aidx/status/2107043281612026092) | 工作原理 | ケンちゃん_AIDX | 2 |
-| 2026-10-05T09:38:58.000Z | [GTM Engineer Shares: Using JEV to Classify 8K Rows](https://x.com/agtmengineer/status/2107042856795840885) | 营销 | Ivan Escobar \| GTM Engineer | 3 |
-| 2026-10-05T09:35:24.000Z | [Trader builds Polymarket quant bot with JEV & Claude](https://x.com/codewithimanshu/status/2107041958959198617) | 金融 | Himanshu Kumar | 375 |
-| 2026-10-05T09:32:13.000Z | [Monitoring 6,000 Experiments with JEV](https://x.com/deezzex/status/2107041157662278113) | 数据分析 | deezzex | 20 |
-| 2026-10-05T09:27:55.000Z | [I used my own Jev API key in prod, here's the cost](https://x.com/jassydev/status/2107040074395525595) | 社区实践 | Jasmeet Singh | 4 |
-| 2026-10-05T09:26:11.000Z | [Jev + Bend Create a Blazing-Fast Benchmark Pipeline](https://x.com/Ezra_Black_/status/2107039638087197068) | 开发者工具 | Ezra Black | 11 |

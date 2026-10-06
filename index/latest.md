@@ -2,7 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T08:35:02.000Z | [Build a DuckDB extension for row classification with Jev](https://x.com/HOTHEAD01TH/status/2107389153293852685) | 数据分析 | 𝕏AID ADIL 👨‍💻 | 2 |
+| 2026-10-06T08:31:28.000Z | [TinyDecide: A 6.2MB Jev-style Zero-Shot Decision Model](https://x.com/raminaol9ykas/status/2107388256052527121) | 产品发布 | ShadowBob | 26 |
+| 2026-10-06T08:23:00.000Z | [Build a Jev-style decision model: beginner's guide](https://x.com/CouponsFreeDis1/status/2107386124964663743) | 开发资源 | Coupons Free Discounts | 14 |
+| 2026-10-06T08:01:47.000Z | [Build an AI-Powered Support System with Next.js and Jev](https://x.com/freeCodeCamp/status/2107380785158185454) | 客户支持 | freeCodeCamp.org | 3.9K |
+| 2026-10-06T07:59:01.000Z | [0.6B NanoJev beats Jev in Doom](https://x.com/aigeeknews/status/2107380089411473866) | 游戏 | AI 极客新闻 | 19 |
+| 2026-10-06T07:47:48.000Z | [Jev and AI tools replace five hires, slashing costs](https://x.com/starmexxx/status/2107377267164819848) | 自动化工作流 | starmex | 32 |
 | 2026-10-06T07:46:14.000Z | [Jev in Crypto Trading: A Real-World Application](https://x.com/NextBullReady/status/2107376875723169920) | 金融 | 董币哥 | 34 |
+| 2026-10-06T07:45:14.000Z | [Jev for non-generative decisions in agent calls](https://x.com/anilkalm/status/2107376621774627089) | 智能体 | anil kalm | 3 |
 | 2026-10-06T07:38:03.000Z | [Jev Decision Model Resource Directory and Failure Cases](https://x.com/vintcessun/status/2107374812423401711) | 开发资源 | 恒星sun | 23 |
 | 2026-10-06T07:37:20.000Z | [Jev's Ultra-Fast Performance Sparks Discussion](https://x.com/codeitlikemiley/status/2107374634358485408) | 社区实践 | Uriah | 9 |
 | 2026-10-06T07:27:18.000Z | [TOKEN2049 Social Matching App Powered by Jev](https://x.com/glazecl/status/2107372110670962788) | 智能体 | Glaze | 38 |
@@ -95,10 +102,3 @@
 | 2026-10-05T10:54:09.000Z | [Jev's Role in Agent Decision Loops](https://x.com/SteinL_btc/status/2107061776508760153) | 智能体 | Stein H Ludvigsen - Bitcoinˢᵛ | 14 |
 | 2026-10-05T10:52:06.000Z | [Testing the Jev FC Buddy agentic integration](https://x.com/3057oor/status/2107061262303801823) | 社区实践 | oor.sol | 29 |
 | 2026-10-05T10:51:28.000Z | [Jev Trading Bot Now Available](https://x.com/imryven/status/2107061102391538084) | 金融 | Ryven | 211 |
-| 2026-10-05T10:51:14.000Z | [Discussion on Jev Model Hype](https://x.com/Connex01/status/2107061041775411385) | 社区实践 | Connex | 8 |
-| 2026-10-05T10:48:00.000Z | [JEV powers automated hedge fund trading](https://x.com/alpha404ai/status/2107060228088869025) | 金融 | alpha404 | 22 |
-| 2026-10-05T10:38:20.000Z | [Jev model cloned for free, 13x faster on a laptop](https://x.com/torfinpd/status/2107057794922745940) | 社区实践 | Thorfinn | 3 |
-| 2026-10-05T10:33:31.000Z | [TypeSafe AI's Jev Plays Doom](https://x.com/kenchan_aidx/status/2107056585084486016) | 游戏 | ケンちゃん_AIDX | 1 |
-| 2026-10-05T10:31:01.000Z | [JevDev v0.1.3 Released](https://x.com/melvindvivas/status/2107055953422254085) | 开发者工具 | Melvin Vivas | 28 |
-| 2026-10-05T10:29:30.000Z | [Jev Spider: A Jev-powered web component re-arranger](https://x.com/kevincodex/status/2107055574655676767) | 社区实践 | Kevin | 448 |
-| 2026-10-05T10:27:24.000Z | [Benchmarking Jev vs Clef Locally](https://x.com/hummusonrails/status/2107055044575293695) | 社区实践 | Ben Greenberg | 36 |

@@ -7,7 +7,7 @@
 - [Florian S](../authors/florian-s.md) — 16
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 16
 - [Geek Lite](../authors/geek-lite.md) — 15
-- [AI 极客新闻](../authors/ai-极客新闻.md) — 12
+- [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [WTome](../authors/wtome.md) — 12
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
@@ -73,6 +73,7 @@
 - [Simplifying AI](../authors/simplifying-ai.md) — 5
 - [Skrilla](../authors/skrilla.md) — 5
 - [Somi](../authors/somi.md) — 5
+- [starmex](../authors/starmex.md) — 5
 - [Suzuki](../authors/suzuki.md) — 5
 - [venus](../authors/venus.md) — 5
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
@@ -129,7 +130,6 @@
 - [rody](../authors/rody.md) — 4
 - [Ryven](../authors/ryven.md) — 4
 - [Sac](../authors/sac.md) — 4
-- [starmex](../authors/starmex.md) — 4
 - [Taqi T| Tech consultant & Sr.Engineer](../authors/taqi-t-tech-consultant-sr-engineer.md) — 4
 - [uehaj](../authors/uehaj.md) — 4
 - [Valvet Online](../authors/valvet-online.md) — 4
@@ -190,6 +190,7 @@
 - [Felix Waweru](../authors/felix-waweru.md) — 3
 - [FHILY👑](../authors/fhily.md) — 3
 - [Francesco](../authors/francesco.md) — 3
+- [freeCodeCamp.org](../authors/freecodecamp-org.md) — 3
 - [Guido Frigieri](../authors/guido-frigieri.md) — 3
 - [HackerNewsTop5](../authors/hackernewstop5.md) — 3
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
@@ -368,6 +369,7 @@
 - [Cloudways](../authors/cloudways.md) — 2
 - [cocktail peanut](../authors/cocktail-peanut.md) — 2
 - [Codio](../authors/codio.md) — 2
+- [Coupons Free Discounts](../authors/coupons-free-discounts.md) — 2
 - [Cris Lenta](../authors/cris-lenta.md) — 2
 - [Cua](../authors/cua.md) — 2
 - [CXO-Community.com](../authors/cxo-community-com.md) — 2
@@ -407,7 +409,6 @@
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
 - [Frank Chiarulli Jr.](../authors/frank-chiarulli-jr.md) — 2
 - [FrankD](../authors/frankd.md) — 2
-- [freeCodeCamp.org](../authors/freecodecamp-org.md) — 2
 - [gabidev](../authors/gabidev.md) — 2
 - [Gabriel Dechichi](../authors/gabriel-dechichi.md) — 2
 - [Gary Mathis](../authors/gary-mathis.md) — 2
@@ -947,6 +948,7 @@
 - [Angel Galvis Caballero](../authors/angel-galvis-caballero.md) — 1
 - [Angus](../authors/angus.md) — 1
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
+- [anil kalm](../authors/anil-kalm.md) — 1
 - [Anirudh](../authors/anirudh.md) — 1
 - [anish.](../authors/anish.md) — 1
 - [Anjan](../authors/anjan.md) — 1
@@ -1252,7 +1254,6 @@
 - [Cosmin Popovici](../authors/cosmin-popovici.md) — 1
 - [CosmosynthAi](../authors/cosmosynthai.md) — 1
 - [Couch](../authors/couch.md) — 1
-- [Coupons Free Discounts](../authors/coupons-free-discounts.md) — 1
 - [CPPAlien](../authors/cppalien.md) — 1
 - [crackalamoo](../authors/crackalamoo.md) — 1
 - [Creators' AI](../authors/creators-ai.md) — 1
@@ -2791,6 +2792,7 @@
 - [Serpin Taxt](../authors/serpin-taxt.md) — 1
 - [Seth Kimmel](../authors/seth-kimmel.md) — 1
 - [Shadow Nick](../authors/shadow-nick.md) — 1
+- [ShadowBob](../authors/shadowbob.md) — 1
 - [Shahir](../authors/shahir.md) — 1
 - [Shahriar](../authors/shahriar.md) — 1
 - [shaman](../authors/shaman.md) — 1
@@ -3198,6 +3200,7 @@
 - [Wuyang Zhou](../authors/wuyang-zhou.md) — 1
 - [wyswyswys](../authors/wyswyswys.md) — 1
 - [x1k](../authors/x1k.md) — 1
+- [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 1
 - [Xenova](../authors/xenova.md) — 1
 - [Xiang Wei](../authors/xiang-wei.md) — 1
 - [xiax｜AI & Agents](../authors/xiax-ai-agents.md) — 1

@@ -1,9 +1,10 @@
 # AI 极客新闻
 
-12 Jev showcases.
+13 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T07:59:01.000Z | [0.6B NanoJev beats Jev in Doom](https://x.com/aigeeknews/status/2107380089411473866) | 游戏 | AI 极客新闻 | 19 |
 | 2026-10-02T04:00:20.000Z | [Open-Source Decision Model vs Jev and New RL Fine-Tuning Platform](https://x.com/aigeeknews/status/2105870474127544444) | 工作原理 | AI 极客新闻 | 23 |
 | 2026-10-02T03:20:00.000Z | [Bekko System One: Tiny Decision Models in the Same Category as TypeSafe AI's Jev](https://x.com/aigeeknews/status/2105860323748315263) | 工作原理 | AI 极客新闻 | 37 |
 | 2026-10-02T01:57:08.000Z | [JEV: Real-Time Visual Decision Making with Eyes](https://x.com/aigeeknews/status/2105839467353489480) | 工作原理 | AI 极客新闻 | 16 |

@@ -62,6 +62,7 @@
 - [Eyisha Zyer](../authors/eyisha-zyer.md) — 5
 - [govin.eth | G哥](../authors/govin-eth-g哥.md) — 5
 - [Hazem Omier](../authors/hazem-omier.md) — 5
+- [hev mind](../authors/hev-mind.md) — 5
 - [Jason Zhu](../authors/jason-zhu.md) — 5
 - [Jetwani Avinash](../authors/jetwani-avinash.md) — 5
 - [Leaf Yeah!](../authors/leaf-yeah.md) — 5
@@ -93,6 +94,7 @@
 - [Commisticholy](../authors/commisticholy.md) — 4
 - [Dan Kornas](../authors/dan-kornas.md) — 4
 - [Deep Insight Labs](../authors/deep-insight-labs.md) — 4
+- [Defileo🔮](../authors/defileo.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
 - [Erik Kokalj](../authors/erik-kokalj.md) — 4
 - [Ersin KOÇ](../authors/ersin-koc.md) — 4
@@ -102,7 +104,6 @@
 - [ggwp](../authors/ggwp.md) — 4
 - [Hanako](../authors/hanako.md) — 4
 - [Harry Tandy](../authors/harry-tandy.md) — 4
-- [hev mind](../authors/hev-mind.md) — 4
 - [Higgsfield AI 🧩](../authors/higgsfield-ai.md) — 4
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
@@ -160,6 +161,7 @@
 - [Anatoli Kopadze](../authors/anatoli-kopadze.md) — 3
 - [Andy](../authors/andy.md) — 3
 - [Angework公式アカウント](../authors/angework公式.md) — 3
+- [apolinario (poli)](../authors/apolinario-poli.md) — 3
 - [Arthur Marques](../authors/arthur-marques.md) — 3
 - [Avyn 👾](../authors/avyn.md) — 3
 - [backchannel](../authors/backchannel.md) — 3
@@ -178,7 +180,6 @@
 - [Dan McAteer](../authors/dan-mcateer.md) — 3
 - [Daniil](../authors/daniil.md) — 3
 - [Dario Crespo](../authors/dario-crespo.md) — 3
-- [Defileo🔮](../authors/defileo.md) — 3
 - [Deji](../authors/deji.md) — 3
 - [Diogo Almeida](../authors/diogo-almeida.md) — 3
 - [Divine 〽️achine](../authors/divine-achine.md) — 3
@@ -326,7 +327,6 @@
 - [Anshu](../authors/anshu.md) — 2
 - [ANURAG SINGH BHANDARI](../authors/anurag-singh-bhandari.md) — 2
 - [Apify](../authors/apify.md) — 2
-- [apolinario (poli)](../authors/apolinario-poli.md) — 2
 - [Archer](../authors/archer.md) — 2
 - [Arman](../authors/arman.md) — 2
 - [Artem](../authors/artem.md) — 2
@@ -1768,6 +1768,7 @@
 - [Israel Vicars](../authors/israel-vicars.md) — 1
 - [Istekhar khan](../authors/istekhar-khan.md) — 1
 - [it’s rivian](../authors/it-s-rivian.md) — 1
+- [Itamar Apel 💻 🥃 🏍️](../authors/itamar-apel.md) — 1
 - [IVAN | IA](../authors/ivan-ia.md) — 1
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
@@ -2145,6 +2146,7 @@
 - [MaNNi KoPF](../authors/manni-kopf.md) — 1
 - [Manoj Rajendiran](../authors/manoj-rajendiran.md) — 1
 - [Manthan Gupta](../authors/manthan-gupta.md) — 1
+- [ManuAGI 🤖 - ( ManuIn )](../authors/manuagi-manuin.md) — 1
 - [manudev.jsx](../authors/manudev-jsx.md) — 1
 - [Manuel Herrera](../authors/manuel-herrera.md) — 1
 - [Manuel Pijierro Sa](../authors/manuel-pijierro-sa.md) — 1
@@ -2494,6 +2496,7 @@
 - [Peng](../authors/peng.md) — 1
 - [penpen@ソフトウェアエンジニア](../authors/penpen.md) — 1
 - [Per0x1d3](../authors/per0x1d3.md) — 1
+- [Perplexity Developers](../authors/perplexity-developers.md) — 1
 - [ᴾᵉʳʷᵉᶻ⁹¹](../authors/perwez91.md) — 1
 - [Pete Soderling](../authors/pete-soderling.md) — 1
 - [Peter Dedene](../authors/peter-dedene.md) — 1
@@ -2730,6 +2733,7 @@
 - [Saksham Sharma](../authors/saksham-sharma.md) — 1
 - [Sally AI (a1c.base.eth)](../authors/sally-ai-a1c-base-eth.md) — 1
 - [Sam @ Autify](../authors/sam-autify.md) — 1
+- [Sam Keen](../authors/sam-keen.md) — 1
 - [Sama](../authors/sama.md) — 1
 - [Saman Pandey](../authors/saman-pandey.md) — 1
 - [samharsh](../authors/samharsh.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 399 | 185 | 217 | 1.1M |
+| 401 | 186 | 218 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ManuAGI01/status/2107523404001870283"><img src="https://pbs.twimg.com/amplify_video_thumb/2107523351308881920/img/O30eoDzYqAOXosx9.jpg" alt="System One Decision Model Hosted in EU Announced · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ManuAGI01/status/2107523404001870283">System One Decision Model Hosted in EU Announced</a></h3>
+<p>Project Number 9 (eu/jev) announces System One decision model hosted in the EU, focusing on AI agents and automation workflows.</p>
+<p><strong>中文摘要：</strong>项目Number 9（eu/jev）宣布推出托管在欧盟的System One决策模型，聚焦AI代理与自动化工作流。</p>
+<p><strong>ManuAGI 🤖 - ( ManuIn )</strong> · @ManuAGI01 · 2026-10-06T17:28:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/ManuAGI01/status/2107523404001870283">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/perplexitydevs/status/2107519531711418597"><img src="https://pbs.twimg.com/media/HT9p2GBbQAANYzk?format=jpg&amp;name=medium" alt="Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/perplexitydevs/status/2107519531711418597">Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3</a></h3>
+<p>Perplexity Developers announced the updated open-weight multimodal decision model pplx-decider-v1.1-27b is now available. It scores highest on the Jev Decision Index 0.3 benchmark from Hugging Face, and input costs drop to $0.02 per million tokens, half the price of v1.</p>
+<p><strong>中文摘要：</strong>Perplexity Developers 宣布更新版开放权重多模态决策模型 pplx-decider-v1.1-27b 现已可用。该模型在 Hugging Face 的 Jev Decision Index 0.3 基准上得分最高，输入价格降至每百万 token 0.02 美元，为 v1 的一半。</p>
+<p><strong>Perplexity Developers</strong> · @perplexitydevs · 2026-10-06T17:13:06.000Z</p>
+<p>💬 5 &nbsp; 🔁 10 &nbsp; ♡ 52 &nbsp; 📊 4.0K</p>
+<p><a href="https://x.com/perplexitydevs/status/2107519531711418597">在 X 查看原帖</a> · <a href="https://t.co/S6mjFL7Ws8">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/goodailabs/status/2107429300706394615"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Reflex-1: A Jev-Inspired Local Decision Model · 原帖视频截图" width="100%"></a>

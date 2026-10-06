@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T17:28:30.000Z | [System One Decision Model Hosted in EU Announced](https://x.com/ManuAGI01/status/2107523404001870283) | 产品发布 | ManuAGI 🤖 - ( ManuIn ) | 4 |
+| 2026-10-06T17:15:17.000Z | [Jev checks duplicate webhook keys in 0.44s](https://x.com/defileo/status/2107520081471447127) | 金融 | Defileo🔮 | 438 |
+| 2026-10-06T17:14:41.000Z | [Jev Benchmark: Keeping Private Data to Measure Real Skill](https://x.com/hevmind/status/2107519930208006642) | 工作原理 | hev mind | 9 |
+| 2026-10-06T17:13:06.000Z | [Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3](https://x.com/perplexitydevs/status/2107519531711418597) | 产品发布 | Perplexity Developers | 4.0K |
+| 2026-10-06T17:12:52.000Z | [Contracts and Structured Returns](https://x.com/ita_apel/status/2107519470478488006) | 软件开发 | Itamar Apel 💻 🥃 🏍️ | 10 |
+| 2026-10-06T17:08:13.000Z | [OpenJev vs Typesafe Jev Dungeon Crawl Test](https://x.com/samkeen/status/2107518302956523903) | 社区实践 | Sam Keen | 10 |
+| 2026-10-06T17:03:23.000Z | [Jev Decision Index v0.3 Released](https://x.com/multimodalart/status/2107517084834189389) | 开发资源 | apolinario (poli) | 347 |
 | 2026-10-06T12:42:09.000Z | [Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching](https://x.com/BohuTANG/status/2107451343644602375) | 软件开发 | Bohu | 6 |
 | 2026-10-06T12:35:59.000Z | [Community discussion on CPU-based Jev models](https://x.com/theonlyglitch_/status/2107449792469332232) | 社区实践 | ShivanjanChakravorty | 9 |
 | 2026-10-06T12:30:01.000Z | [6 Places to Use Jev in a Production AI System](https://x.com/pauliusztin_/status/2107448288270324217) | 社区实践 | Paul Iusztin | 40 |
@@ -95,10 +102,3 @@
 | 2026-10-05T12:56:10.000Z | [Jev Model: System 1 Inference in a Single Parallel Pass](https://x.com/vtguy65/status/2107092482890903649) | 产品发布 | Phil Greene | 6 |
 | 2026-10-05T12:56:02.000Z | [TypeSafe AI Launches Jev: Reducing AI Agent Decision Costs](https://x.com/vtguy65/status/2107092449575477414) | 产品发布 | Phil Greene | 18 |
 | 2026-10-05T12:49:00.000Z | [TypeSafe Jev: A Millisecond-Level Deterministic AI Judge Inside Code](https://x.com/evander2021/status/2107090678534537566) | 开发者工具 | 钟老 | 37 |
-| 2026-10-05T12:48:04.000Z | [Turn your MBP into a modular synth with Jev](https://x.com/staskulesh/status/2107090444681449668) | 内容创作 | Stas Kulesh | 95 |
-| 2026-10-05T12:45:07.000Z | [Jev Map Tool: Color Every Country by Any Factor](https://x.com/eph5xx/status/2107089700666163343) | 数据分析 | Aleksandr Sarantsev | 27 |
-| 2026-10-05T12:41:58.000Z | [Using Jev for SAIVerse Memory Recall](https://x.com/Lize_san_suki/status/2107088908211401202) | 社区实践 | まはー👑 | 286 |
-| 2026-10-05T12:36:35.000Z | [Could Jev help cut LLM costs by reusing cached answers?](https://x.com/AgbedeSamuelD/status/2107087556156305487) | 开发者工具 | Samuel Agbede | 37 |
-| 2026-10-05T12:34:01.000Z | [More uses for Jev: Semantic database filtering](https://x.com/Arindam_1729/status/2107086910447661384) | 社区实践 | Arindam Majumder 𝕏 | 1.3K |
-| 2026-10-05T12:31:08.000Z | [A cheap typed layer (JEV) for your agent](https://x.com/kinderlayer/status/2107086182848872650) | 自动化工作流 | Kinder | 57 |
-| 2026-10-05T12:30:01.000Z | [Alma Dev Update: Jev Integration Boosts Accuracy](https://x.com/almnc_ai/status/2107085904259039291) | 开发者工具 | Almanac | 51 |

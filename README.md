@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5120</strong><br>curated posts</td>
-<td align="center"><strong>2629</strong><br>original videos</td>
+<td align="center"><strong>5127</strong><br>curated posts</td>
+<td align="center"><strong>2633</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>888</strong> showcases · <strong>370</strong> videos</p>
+<p><strong>889</strong> showcases · <strong>370</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>531</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>532</strong> showcases · <strong>232</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>399</strong> showcases · <strong>185</strong> videos</p>
+<p><strong>401</strong> showcases · <strong>186</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>336</strong> showcases · <strong>135</strong> videos</p>
+<p><strong>337</strong> showcases · <strong>136</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>251</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>252</strong> showcases · <strong>144</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>34</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>35</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/BohuTANG/status/2107451343644602375"><img src="https://pbs.twimg.com/amplify_video_thumb/2107448505145139200/img/vQKKwo7AVgHo4N2M.jpg" alt="Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/BohuTANG/status/2107451343644602375">Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching</a></h3>
-<p>The author shares how they use Jev to identify which HTML DOM elements need translation, process only visible areas, batch requests, and load on scroll for a smooth, token-efficient experience with an evot model.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Bohu</strong> · @BohuTANG</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/ManuAGI01/status/2107523404001870283"><img src="https://pbs.twimg.com/amplify_video_thumb/2107523351308881920/img/O30eoDzYqAOXosx9.jpg" alt="System One Decision Model Hosted in EU Announced · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ManuAGI01/status/2107523404001870283">System One Decision Model Hosted in EU Announced</a></h3>
+<p>Project Number 9 (eu/jev) announces System One decision model hosted in the EU, focusing on AI agents and automation workflows.</p>
+<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>ManuAGI 🤖 - ( ManuIn )</strong> · @ManuAGI01</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/theonlyglitch_/status/2107449792469332232"><img src="https://pbs.twimg.com/amplify_video_thumb/2107429085551251456/img/LCTASqh9wO1nW-1x.jpg" alt="Community discussion on CPU-based Jev models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/theonlyglitch_/status/2107449792469332232">Community discussion on CPU-based Jev models</a></h3>
-<p>The post argues that CPU-based Jev models are more practical for broader adoption of the decision model family, as many people lack expensive hardware, and calls this a promising direction.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>ShivanjanChakravorty</strong> · @theonlyglitch_</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/defileo/status/2107520081471447127"><img src="https://pbs.twimg.com/amplify_video_thumb/2107520011262963712/img/-hvSM99U-jSVkH8b.jpg" alt="Jev checks duplicate webhook keys in 0.44s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/defileo/status/2107520081471447127">Jev checks duplicate webhook keys in 0.44s</a></h3>
+<p>The post complains about a “spider” agent rejecting most tasks, using a payment webhook duplicate trigger as an example of Jev quickly and cheaply checking the relevant keys.</p>
+<p><strong>438</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 438</p>
+<p><strong>Defileo🔮</strong> · @defileo</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/pauliusztin_/status/2107448288270324217"><img src="https://pbs.twimg.com/media/HT5fWWqXoAA5nVQ?format=jpg&amp;name=medium" alt="6 Places to Use Jev in a Production AI System · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pauliusztin_/status/2107448288270324217">6 Places to Use Jev in a Production AI System</a></h3>
-<p>Paul Iusztin shares 6 places he would use Jev in a production AI system, highlighting Jev as TypeSafe AI&#39;s zero-shot frontier classifier (a decision model) for fast decisions rather than replacing LLM generation.</p>
-<p><strong>40</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 40</p>
-<p><strong>Paul Iusztin</strong> · @pauliusztin_</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/hevmind/status/2107519930208006642"><img src="https://pbs.twimg.com/amplify_video_thumb/2107517034925895680/img/wkGJiC9ZcVYaTnxl.jpg" alt="Jev Benchmark: Keeping Private Data to Measure Real Skill · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/hevmind/status/2107519930208006642">Jev Benchmark: Keeping Private Data to Measure Real Skill</a></h3>
+<p>hev mind argues that keeping half the benchmark private ensures rankings reflect real skills rather than memorized answers, calling it the right call.</p>
+<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><strong>hev mind</strong> · @hevmind</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2107448173773906244"><img src="https://pbs.twimg.com/amplify_video_thumb/2107447454849236992/img/jgPEdbuxiSYk_BRB.jpg" alt="Jev: Can&#39;t write a sentence, but faster · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2107448173773906244">Jev: Can&#39;t write a sentence, but faster</a></h3>
-<p>The post discusses Jev&#39;s positioning: AI apps need fast answers and numbers, not paragraphs. Jev provides exactly that, suitable for search answers and ticket routing.</p>
-<p><strong>648</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 648</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/perplexitydevs/status/2107519531711418597"><img src="https://pbs.twimg.com/media/HT9p2GBbQAANYzk?format=jpg&amp;name=medium" alt="Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/perplexitydevs/status/2107519531711418597">Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3</a></h3>
+<p>Perplexity Developers announced the updated open-weight multimodal decision model pplx-decider-v1.1-27b is now available. It scores highest on the Jev Decision Index 0.3 benchmark from Hugging Face, and input costs drop to $0.02 per million tokens, half the price of v1.</p>
+<p><strong>4.0K</strong> views · 💬 5 &nbsp; 🔁 10 &nbsp; ♡ 52 &nbsp; 📊 4.0K</p>
+<p><strong>Perplexity Developers</strong> · @perplexitydevs</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/BohuTANG/status/2107451343644602375"><img src="https://pbs.twimg.com/amplify_video_thumb/2107448505145139200/img/vQKKwo7AVgHo4N2M.jpg" alt="Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/BohuTANG/status/2107451343644602375">Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching</a></h3>
-<p>The author shares how they use Jev to identify which HTML DOM elements need translation, process only visible areas, batch requests, and load on scroll for a smooth, token-efficient experience with an evot model.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Bohu</strong> · @BohuTANG</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/ManuAGI01/status/2107523404001870283"><img src="https://pbs.twimg.com/amplify_video_thumb/2107523351308881920/img/O30eoDzYqAOXosx9.jpg" alt="System One Decision Model Hosted in EU Announced · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ManuAGI01/status/2107523404001870283">System One Decision Model Hosted in EU Announced</a></h3>
+<p>Project Number 9 (eu/jev) announces System One decision model hosted in the EU, focusing on AI agents and automation workflows.</p>
+<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>ManuAGI 🤖 - ( ManuIn )</strong> · @ManuAGI01</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/perplexitydevs/status/2107519531711418597"><img src="https://pbs.twimg.com/media/HT9p2GBbQAANYzk?format=jpg&amp;name=medium" alt="Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/perplexitydevs/status/2107519531711418597">Perplexity releases pplx-decider-v1.1-27b, top scores on Jev Decision Index 0.3</a></h3>
+<p>Perplexity Developers announced the updated open-weight multimodal decision model pplx-decider-v1.1-27b is now available. It scores highest on the Jev Decision Index 0.3 benchmark from Hugging Face, and input costs drop to $0.02 per million tokens, half the price of v1.</p>
+<p><strong>4.0K</strong> views · 💬 5 &nbsp; 🔁 10 &nbsp; ♡ 52 &nbsp; 📊 4.0K</p>
+<p><strong>Perplexity Developers</strong> · @perplexitydevs</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
+<a href="https://x.com/ita_apel/status/2107519470478488006"><img src="https://pbs.twimg.com/media/HT9pv3yXwAA9Z8y?format=jpg&amp;name=medium" alt="Contracts and Structured Returns · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ita_apel/status/2107519470478488006">Contracts and Structured Returns</a></h3>
+<p>The author discusses module contracts and structured returns, noting that free text forces interpretation, tools like Jev help, but the real point is to require structured schemas in your own flows.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><strong>Itamar Apel 💻 🥃 🏍️</strong> · @ita_apel</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/plutos_eth/status/2107448173773906244"><img src="https://pbs.twimg.com/amplify_video_thumb/2107447454849236992/img/jgPEdbuxiSYk_BRB.jpg" alt="Jev: Can&#39;t write a sentence, but faster · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/plutos_eth/status/2107448173773906244">Jev: Can&#39;t write a sentence, but faster</a></h3>
 <p>The post discusses Jev&#39;s positioning: AI apps need fast answers and numbers, not paragraphs. Jev provides exactly that, suitable for search answers and ticket routing.</p>
 <p><strong>648</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 648</p>
 <p><strong>plutos</strong> · @plutos_eth</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ai_bites/status/2107445122568781875"><img src="https://pbs.twimg.com/media/HT8mFspXYAA-pGi?format=jpg&amp;name=medium" alt="Video and Article Explaining What Jev Can and Cannot Do · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ai_bites/status/2107445122568781875">Video and Article Explaining What Jev Can and Cannot Do</a></h3>
-<p>AI Bites published a video and article about Jev, discussing whether to switch from LLMs to Jev and what tasks Jev can handle, helping users understand Jev&#39;s practical positioning.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 36</p>
-<p><strong>AI Bites | YouTube Channel</strong> · @ai_bites</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/cesargomz29/status/2107428497354314077"><img src="https://pbs.twimg.com/amplify_video_thumb/2107428403242467328/img/bwg9jXF6dw2fMeTu.jpg" alt="JEV Hailed as Year&#39;s Biggest AI Breakthrough · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cesargomz29/status/2107428497354314077">JEV Hailed as Year&#39;s Biggest AI Breakthrough</a></h3>
-<p>The post promotes JEV as the biggest AI breakthrough of the year, claiming a new architecture distinct from GPT and Claude, and recommends watching a video explaining it.</p>
-<p><strong>311</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 311</p>
-<p><strong>CesarAG</strong> · @cesargomz29</p>
 </td>
 </tr>
 </table>

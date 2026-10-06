@@ -2,12 +2,16 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T00:20:29.000Z | [JEV-Powered Personalized Alarm Decisions](https://x.com/shashanksinxx/status/2107264698773274805) | 智能体 | Shashank Singh | 3 |
+| 2026-10-06T00:00:00.000Z | [Jev Hack/Demo Night in SF Showcases Multiple Jev Applications](https://x.com/FeatherlessAI/status/2107259541767229915) | 社区实践 | Featherless AI | 91 |
+| 2026-10-05T23:23:48.000Z | [Agents can hand small decisions to TypeSafe AI's Jev](https://x.com/AIWGio/status/2107250432838168664) | 智能体 | AIWG | 24 |
 | 2026-10-05T14:11:06.000Z | [With Jev, it takes 0.5 seconds instead of 20s](https://x.com/happy_tennto/status/2107111341500846151) | 开发者工具 | Tennto | 23 |
 | 2026-10-05T14:05:10.000Z | [Analysis of Jev as a Task Router](https://x.com/fireandstart/status/2107109845979759000) | 工作原理 | 星星之火可以燎原 | 8 |
 | 2026-10-05T14:03:03.000Z | [Hypothesis: Jev internally uses Decisions API](https://x.com/hamachi_ttr/status/2107109315169652874) | 工作原理 | はまち | 9 |
 | 2026-10-05T14:02:31.000Z | [Jev-powered WiFi analyzer](https://x.com/RoniBandini/status/2107109182520414285) | 社区实践 | Roni Bandini | 227 |
 | 2026-10-05T14:02:00.000Z | [Jev API Getting Started and Desktop Automation Checklist](https://x.com/Beaver_0x/status/2107109050362282206) | 开发资源 | Beaver | 76 |
 | 2026-10-05T14:00:02.000Z | [Jev for AI Engineers: Guide to Reliable Engineering](https://x.com/CouponsFreeDis1/status/2107108556122321364) | 开发资源 | Coupons Free Discounts | 9 |
+| 2026-10-05T13:59:20.000Z | [Building a Browser Agent with Jev: One Classifier Call per Step](https://x.com/serkan_ozal/status/2107108379059519556) | 智能体 | Serkan Özal | 49 |
 | 2026-10-05T13:55:28.000Z | [AI Social Deduction Game Gets JEV Brain: 134x Cheaper, 40x Faster than Gemini](https://x.com/Kahl_Sada/status/2107107405486002214) | 游戏 | Kahl Sada | 6 |
 | 2026-10-05T13:48:17.000Z | [Quyet 1.0 Tops JevBench](https://x.com/ncchinh/status/2107105599037268273) | 产品发布 | Chinh | 31 |
 | 2026-10-05T13:39:26.000Z | [Clef vs Jev: Faster but Costlier](https://x.com/stas_sorokin_/status/2107103372713013436) | 社区实践 | Stanislav Sorokin | 94 |
@@ -32,9 +36,15 @@
 | 2026-10-05T13:00:02.000Z | [7 AI tools run my agency](https://x.com/Skynetjoe1/status/2107093455407038852) | 自动化工作流 | Muhammad Waseem Nasir | 32 |
 | 2026-10-05T12:57:16.000Z | [pgjev: Natural Language Queries Directly in PostgreSQL](https://x.com/MilwadDev/status/2107092760557973603) | 开发者工具 | Milwad Khosravi ⚡️ | 13 |
 | 2026-10-05T12:56:22.000Z | [The Cascade: Put Jev at the Front Door to Handle 80% of Requests](https://x.com/vtguy65/status/2107092532262002698) | 自动化工作流 | Phil Greene | 6 |
+| 2026-10-05T12:56:18.000Z | [Jev's Calibrated Confidence Feature](https://x.com/vtguy65/status/2107092515627364859) | 工作原理 | Phil Greene | 4 |
 | 2026-10-05T12:56:10.000Z | [Jev Model: System 1 Inference in a Single Parallel Pass](https://x.com/vtguy65/status/2107092482890903649) | 产品发布 | Phil Greene | 6 |
+| 2026-10-05T12:56:02.000Z | [TypeSafe AI Launches Jev: Reducing AI Agent Decision Costs](https://x.com/vtguy65/status/2107092449575477414) | 产品发布 | Phil Greene | 18 |
 | 2026-10-05T12:49:00.000Z | [TypeSafe Jev: A Millisecond-Level Deterministic AI Judge Inside Code](https://x.com/evander2021/status/2107090678534537566) | 开发者工具 | 钟老 | 37 |
+| 2026-10-05T12:48:04.000Z | [Turn your MBP into a modular synth with Jev](https://x.com/staskulesh/status/2107090444681449668) | 内容创作 | Stas Kulesh | 95 |
+| 2026-10-05T12:45:07.000Z | [Jev Map Tool: Color Every Country by Any Factor](https://x.com/eph5xx/status/2107089700666163343) | 数据分析 | Aleksandr Sarantsev | 27 |
 | 2026-10-05T12:41:58.000Z | [Using Jev for SAIVerse Memory Recall](https://x.com/Lize_san_suki/status/2107088908211401202) | 社区实践 | まはー👑 | 286 |
+| 2026-10-05T12:36:35.000Z | [Could Jev help cut LLM costs by reusing cached answers?](https://x.com/AgbedeSamuelD/status/2107087556156305487) | 开发者工具 | Samuel Agbede | 37 |
+| 2026-10-05T12:34:01.000Z | [More uses for Jev: Semantic database filtering](https://x.com/Arindam_1729/status/2107086910447661384) | 社区实践 | Arindam Majumder 𝕏 | 1.3K |
 | 2026-10-05T12:31:08.000Z | [A cheap typed layer (JEV) for your agent](https://x.com/kinderlayer/status/2107086182848872650) | 自动化工作流 | Kinder | 57 |
 | 2026-10-05T12:30:01.000Z | [Alma Dev Update: Jev Integration Boosts Accuracy](https://x.com/almnc_ai/status/2107085904259039291) | 开发者工具 | Almanac | 51 |
 | 2026-10-05T12:29:52.000Z | [Jev-Mem: Building a Memory System with Jev's Fast Classification](https://x.com/Gorden_Sun/status/2107085863385731451) | 社区实践 | Gorden Sun | 106 |
@@ -92,13 +102,3 @@
 | 2026-10-05T07:14:31.000Z | [450M Open Model Beats Jev](https://x.com/gautamkishore/status/2107006502385127780) | 社区实践 | Gautam Kishore | 3 |
 | 2026-10-05T07:06:00.000Z | [20-Step Mastering Plan for Jev](https://x.com/justrehen/status/2107004361553682605) | 开发资源 | rehen | 14 |
 | 2026-10-05T07:04:00.000Z | [10 blueprints for Jev API are now public on GitHub](https://x.com/syahu_poyo_ai/status/2107003856911519790) | 开发资源 | 社不ぽよ / AI creator😺 | 71 |
-| 2026-10-05T06:56:11.000Z | [A New Service for Running System 1 Models Locally](https://x.com/tigranbs/status/2107001889602859328) | 开发者工具 | Tigran | 12 |
-| 2026-10-05T06:52:46.000Z | [Jev by Typeface AI: A Fast Classification Model](https://x.com/kevin980606/status/2107001029816635770) | 开发者工具 | KEVIN | 11 |
-| 2026-10-05T06:50:45.000Z | [User Reports Spam Check Issue Topping Up Jev](https://x.com/Greg_GL_87/status/2107000522742059314) | 客户支持 | Greg Glazewski | 10 |
-| 2026-10-05T06:50:44.000Z | [Building a used domain search tool with Jev](https://x.com/jmworks_/status/2107000518157709481) | 开发者工具 | Joe Mio ミオジョウ | 70 |
-| 2026-10-05T06:49:02.000Z | [Pg-JEV: Using JEV for Semantic Database Queries](https://x.com/NikhilLamba6/status/2107000092381294864) | 社区实践 | Nikhil Lamba | 11 |
-| 2026-10-05T06:48:21.000Z | [Why Has the Non-Conversational AI 'Jev' Attracted Attention?](https://x.com/vTcc8NxcIg51977/status/2106999918082797579) | 知识与搜索 | 吉田亮太｜KADODE取締役CTO・DX/AI事業責任者 | 14 |
-| 2026-10-05T06:43:47.000Z | [Jev-IDS: System One Model for Network Intrusion Detection](https://x.com/ManiarViral/status/2106998771624341933) | 网络安全 | Viral Maniar | 52 |
-| 2026-10-05T06:33:31.000Z | [Make Pi sessions essentially free with Jev + Luna](https://x.com/nateberkopec/status/2106996184900604319) | 社区实践 | Nate Berkopec | 104 |
-| 2026-10-05T06:16:30.000Z | [Jev: 10,000 decisions for 42 cents?](https://x.com/ormkaa/status/2106991904416039101) | 产品发布 | RO1 | 19 |
-| 2026-10-05T06:13:37.000Z | [Filtering 15,000 GitHub Issues with Jev Before Claude](https://x.com/Mohd_Ainan17/status/2106991179556618261) | 软件开发 | Mohammed Ainan | 9 |

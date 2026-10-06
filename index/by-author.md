@@ -37,6 +37,7 @@
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
+- [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 6
 - [Asteri](../authors/asteri.md) — 6
 - [Automater](../authors/automater.md) — 6
 - [AVB](../authors/avb.md) — 6
@@ -53,7 +54,6 @@
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
 - [恒星sun](../authors/恒星sun.md) — 6
-- [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 5
 - [Artimind](../authors/artimind.md) — 5
 - [AutoTrust](../authors/autotrust.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
@@ -120,6 +120,7 @@
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 4
 - [nikhil mudholkar](../authors/nikhil-mudholkar.md) — 4
 - [OpenRouter](../authors/openrouter.md) — 4
+- [Phil Greene](../authors/phil-greene.md) — 4
 - [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 4
 - [Ricker](../authors/ricker.md) — 4
 - [RM 🖤](../authors/rm.md) — 4
@@ -256,6 +257,7 @@
 - [Signal Ledger](../authors/signal-ledger.md) — 3
 - [Spikez 99.9%](../authors/spikez-99-9.md) — 3
 - [st1ne](../authors/st1ne.md) — 3
+- [Stas Kulesh](../authors/stas-kulesh.md) — 3
 - [Sumjit](../authors/sumjit.md) — 3
 - [Sunil Mehta](../authors/sunil-mehta.md) — 3
 - [Takashi Minoda](../authors/takashi-minoda.md) — 3
@@ -397,6 +399,7 @@
 - [Ethan](../authors/ethan.md) — 2
 - [Ethan Walker](../authors/ethan-walker.md) — 2
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
+- [Featherless AI](../authors/featherless-ai.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
@@ -545,7 +548,6 @@
 - [pcherkashin.x](../authors/pcherkashin-x.md) — 2
 - [Pentacles（ペンタクルス）🐧✨](../authors/pentacles.md) — 2
 - [Peter Friese](../authors/peter-friese.md) — 2
-- [Phil Greene](../authors/phil-greene.md) — 2
 - [Philip](../authors/philip.md) — 2
 - [Piyush Patel](../authors/piyush-patel.md) — 2
 - [plastik electrik](../authors/plastik-electrik.md) — 2
@@ -591,7 +593,6 @@
 - [Simeon Li](../authors/simeon-li.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [spect](../authors/spect.md) — 2
-- [Stas Kulesh](../authors/stas-kulesh.md) — 2
 - [Stas Slutsker](../authors/stas-slutsker.md) — 2
 - [stash](../authors/stash.md) — 2
 - [Steven Tey](../authors/steven-tey.md) — 2
@@ -822,6 +823,7 @@
 - [Aircle｜AIコミュニティ](../authors/aircle-ai.md) — 1
 - [AIRobert](../authors/airobert.md) — 1
 - [Aitor Murguzur](../authors/aitor-murguzur.md) — 1
+- [AIWG](../authors/aiwg.md) — 1
 - [AIセラ｜Obsidian✖️クライアントワークを極めるエンジニア](../authors/ai-obsidian-極.md) — 1
 - [AIツールBox｜使って試した正直レビュー](../authors/ai-box-使-試-正直.md) — 1
 - [AIトレンドログ](../authors/ai.md) — 1
@@ -863,6 +865,7 @@
 - [Alejandro Maestre | AI](../authors/alejandro-maestre-ai.md) — 1
 - [Alejandro Saucedo | KubeCon 2025 AI Day Keynote](../authors/alejandro-saucedo-kubecon-2025-ai-day-keynote.md) — 1
 - [Aleksander Patschek - FSGeek](../authors/aleksander-patschek-fsgeek.md) — 1
+- [Aleksandr Sarantsev](../authors/aleksandr-sarantsev.md) — 1
 - [Alessandro](../authors/alessandro.md) — 1
 - [Alessio Pomaro](../authors/alessio-pomaro.md) — 1
 - [Alex | AI Trends | AI Games](../authors/alex-ai-trends-ai-games.md) — 1
@@ -1496,7 +1499,6 @@
 - [fauzan a](../authors/fauzan-a.md) — 1
 - [Fazle Rahman](../authors/fazle-rahman.md) — 1
 - [Fazt](../authors/fazt.md) — 1
-- [Featherless AI](../authors/featherless-ai.md) — 1
 - [feddiwhip](../authors/feddiwhip.md) — 1
 - [Federico Elia](../authors/federico-elia.md) — 1
 - [Fedor Pak](../authors/fedor-pak.md) — 1
@@ -2710,6 +2712,7 @@
 - [samharsh](../authors/samharsh.md) — 1
 - [Samridh Srivastava](../authors/samridh-srivastava.md) — 1
 - [Samuel](../authors/samuel.md) — 1
+- [Samuel Agbede](../authors/samuel-agbede.md) — 1
 - [Samyak Jain](../authors/samyak-jain.md) — 1
 - [Sanchit](../authors/sanchit.md) — 1
 - [Sanctity](../authors/sanctity.md) — 1
@@ -2768,6 +2771,7 @@
 - [SereneDB](../authors/serenedb.md) — 1
 - [Serenity](../authors/serenity.md) — 1
 - [Sergii Makarevych](../authors/sergii-makarevych.md) — 1
+- [Serkan Özal](../authors/serkan-ozal.md) — 1
 - [SerPAI](../authors/serpai.md) — 1
 - [Serpin Taxt](../authors/serpin-taxt.md) — 1
 - [Seth Kimmel](../authors/seth-kimmel.md) — 1
@@ -2782,6 +2786,7 @@
 - [Shapor Naghibzadeh](../authors/shapor-naghibzadeh.md) — 1
 - [Shariff Raffi](../authors/shariff-raffi.md) — 1
 - [Shashank Jha](../authors/shashank-jha.md) — 1
+- [Shashank Singh](../authors/shashank-singh.md) — 1
 - [Shawn Simister](../authors/shawn-simister.md) — 1
 - [Sheepy](../authors/sheepy.md) — 1
 - [Sheldon](../authors/sheldon.md) — 1

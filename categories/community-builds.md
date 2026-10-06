@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 874 | 364 | 514 | 3.0M |
+| 876 | 364 | 516 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/FeatherlessAI/status/2107259541767229915"><img src="https://pbs.twimg.com/media/HT5bvjiXgAAw-SN?format=jpg&amp;name=medium" alt="Jev Hack/Demo Night in SF Showcases Multiple Jev Applications · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/FeatherlessAI/status/2107259541767229915">Jev Hack/Demo Night in SF Showcases Multiple Jev Applications</a></h3>
+<p>Featherless AI hosted a Jev Hack/Demo Night in SF, featuring a ranking of ~2,000 SF Tech Week events using Simple Jev on open models, a web agent running on Jev-style decisions, and Lev, an open 4B model.</p>
+<p><strong>中文摘要：</strong>Featherless AI在旧金山举办Jev黑客/演示之夜，现场展示了用Simple Jev在开放模型上排名约2000个SF科技周活动、基于Jev风格决策的web agent，以及名为Lev的开放4B模型等。</p>
+<p><strong>Featherless AI</strong> · @FeatherlessAI · 2026-10-06T00:00:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 91</p>
+<p><a href="https://x.com/FeatherlessAI/status/2107259541767229915">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/RoniBandini/status/2107109182520414285"><img src="https://pbs.twimg.com/media/HT3xVQdW4AA90yq?format=jpg&amp;name=large" alt="Jev-powered WiFi analyzer · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 227</p>
 <p><a href="https://x.com/RoniBandini/status/2107109182520414285">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stas_sorokin_/status/2107103372713013436"><img src="https://pbs.twimg.com/amplify_video_thumb/2107103343499677696/img/N5qlIWfdI6mkq8B9.jpg" alt="Clef vs Jev: Faster but Costlier · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 1 &nbsp; 🔁 16 &nbsp; ♡ 0 &nbsp; 📊 94</p>
 <p><a href="https://x.com/stas_sorokin_/status/2107103372713013436">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xverdao/status/2107102003394732160"><img src="https://pbs.twimg.com/amplify_video_thumb/2107062992365813760/img/qbfGTBgY_6c42CZr.jpg" alt="JEV: 10 Builds in One Afternoon · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><a href="https://x.com/0xverdao/status/2107102003394732160">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TahaJemmali/status/2107094474102874551"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107093894827483136/pu/img/ETVNPdvqR-Qp0EvM.jpg" alt="Handling Address Alias Matching with Jev for Under a Cent · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/TahaJemmali/status/2107094474102874551">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/EngNadeau/status/2107093914616303836"><img src="https://pbs.twimg.com/media/HT3mv8qXgAAmoGs?format=jpg&amp;name=medium" alt="Tiny Labs Hiring SLM Research Intern and Hosting Jev Building Workshop · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/EngNadeau/status/2107093914616303836">在 X 查看原帖</a> · <a href="https://t.co/6LqSGzSiTj">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Lize_san_suki/status/2107088908211401202"><img src="https://pbs.twimg.com/media/HT3h3eCa8AEtHK2?format=png&amp;name=900x900" alt="Using Jev for SAIVerse Memory Recall · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>まはー👑</strong> · @Lize_san_suki · 2026-10-05T12:41:58.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 286</p>
 <p><a href="https://x.com/Lize_san_suki/status/2107088908211401202">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Arindam_1729/status/2107086910447661384"><img src="https://pbs.twimg.com/media/HT3gYNsbgAAGZpO?format=jpg&amp;name=medium" alt="More uses for Jev: Semantic database filtering · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Arindam_1729/status/2107086910447661384">More uses for Jev: Semantic database filtering</a></h3>
+<p>The tweet notes that Jev is useful beyond AI agents, handling database filters where exact conditions can&#39;t be predefined, such as judging article topics, relevance, and technical depth.</p>
+<p><strong>中文摘要：</strong>推文指出Jev不仅适用于AI代理，还能在数据库过滤中处理无法预先定义精确条件的场景，比如判断文章主题、相关性和技术深度。</p>
+<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729 · 2026-10-05T12:34:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/Arindam_1729/status/2107086910447661384">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

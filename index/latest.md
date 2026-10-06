@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-06T04:00:06.000Z | [Jev: A Decision-Calibration Model Processing 1 Trillion Tokens Daily](https://x.com/ai_super_niko/status/2107319965783073185) | 智能体 | Niko爱学习 | 12 |
+| 2026-10-06T03:51:51.000Z | [Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon](https://x.com/ageshah/status/2107317887614718154) | 社区实践 | Ajay Shah | 7 |
+| 2026-10-06T03:47:13.000Z | [Comparing Jev with Cloudflare Clef: Observations on Hallucination Detection](https://x.com/haginota/status/2107316722118398012) | 开发者工具 | 萩野貴拓 | 26 |
+| 2026-10-06T03:15:46.000Z | [Trying GraphRAG without vector search using Jev](https://x.com/nekorobi_aws/status/2107308806569156655) | 社区实践 | 山ちゃん@AWS好きすぎて滅 | 599 |
 | 2026-10-06T00:20:29.000Z | [JEV-Powered Personalized Alarm Decisions](https://x.com/shashanksinxx/status/2107264698773274805) | 智能体 | Shashank Singh | 3 |
 | 2026-10-06T00:00:00.000Z | [Jev Hack/Demo Night in SF Showcases Multiple Jev Applications](https://x.com/FeatherlessAI/status/2107259541767229915) | 社区实践 | Featherless AI | 91 |
 | 2026-10-05T23:23:48.000Z | [Agents can hand small decisions to TypeSafe AI's Jev](https://x.com/AIWGio/status/2107250432838168664) | 智能体 | AIWG | 24 |
@@ -98,7 +102,3 @@
 | 2026-10-05T07:45:46.000Z | [JEV Use Case: Let the Coding Model Focus on Writing Code, Not Scheduling](https://x.com/0xkurt/status/2107014368898486773) | 软件开发 | Kurt | 22 |
 | 2026-10-05T07:45:31.000Z | [Jev Plays Classic Game Sonny 2](https://x.com/Varro1320876/status/2107014306336260149) | 游戏 | Cem B. | 160 |
 | 2026-10-05T07:37:34.000Z | [Jev Integration with Claude Code: Open-Source Tool for Effort Selection](https://x.com/SupersocksIntel/status/2107012305196097793) | 开发资源 | Supersocks Intelligent | 6 |
-| 2026-10-05T07:27:15.000Z | [Automated trading practice with crawler, Jev judgment, and Grok order execution](https://x.com/erica_mae_2000/status/2107009709362557342) | 金融 | 金马 | 18 |
-| 2026-10-05T07:14:31.000Z | [450M Open Model Beats Jev](https://x.com/gautamkishore/status/2107006502385127780) | 社区实践 | Gautam Kishore | 3 |
-| 2026-10-05T07:06:00.000Z | [20-Step Mastering Plan for Jev](https://x.com/justrehen/status/2107004361553682605) | 开发资源 | rehen | 14 |
-| 2026-10-05T07:04:00.000Z | [10 blueprints for Jev API are now public on GitHub](https://x.com/syahu_poyo_ai/status/2107003856911519790) | 开发资源 | 社不ぽよ / AI creator😺 | 71 |

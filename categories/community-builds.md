@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 876 | 364 | 516 | 3.0M |
+| 878 | 365 | 517 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ageshah/status/2107317887614718154"><img src="https://pbs.twimg.com/media/HT6yQ8PaMAEAf7x?format=jpg&amp;name=medium" alt="Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ageshah/status/2107317887614718154">Clef surpasses Jev in 61-test bakeoff, but Jev crushed Amazon</a></h3>
+<p>The author reports that Clef is the first model to outperform Jev in his 61-test bakeoff, with better results but slower overall. Jev performed strongly on Amazon yesterday.</p>
+<p><strong>中文摘要：</strong>作者表示，Clef 是第一个在 61 项测试中超越 Jev 的模型，结果更好但速度更慢。Jev 昨天在 Amazon 上表现优异。</p>
+<p><strong>Ajay Shah</strong> · @ageshah · 2026-10-06T03:51:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/ageshah/status/2107317887614718154">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nekorobi_aws/status/2107308806569156655"><img src="https://pbs.twimg.com/amplify_video_thumb/2107306118276100096/img/vTyc-hJDJhXr_Ir9.jpg" alt="Trying GraphRAG without vector search using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nekorobi_aws/status/2107308806569156655">Trying GraphRAG without vector search using Jev</a></h3>
+<p>An AWS enthusiast is experimenting with a GraphRAG approach combining lightweight ontology and Jev, emphasizing no vector search dependency.</p>
+<p><strong>中文摘要：</strong>一位AWS爱好者正在试用结合轻量本体与Jev的GraphRAG方案，强调不依赖向量检索。</p>
+<p><strong>山ちゃん@AWS好きすぎて滅</strong> · @nekorobi_aws · 2026-10-06T03:15:46.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 599</p>
+<p><a href="https://x.com/nekorobi_aws/status/2107308806569156655">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FeatherlessAI/status/2107259541767229915"><img src="https://pbs.twimg.com/media/HT5bvjiXgAAw-SN?format=jpg&amp;name=medium" alt="Jev Hack/Demo Night in SF Showcases Multiple Jev Applications · 原帖图片" width="100%"></a>

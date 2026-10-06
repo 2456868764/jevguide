@@ -76,6 +76,7 @@
 - [Suzuki](../authors/suzuki.md) — 5
 - [venus](../authors/venus.md) — 5
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
+- [萩野貴拓](../authors/萩野貴拓.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [8Bit🦞](../authors/8bit.md) — 4
 - [Abdullah](../authors/abdullah.md) — 4
@@ -145,7 +146,6 @@
 - [思维怪怪](../authors/思维怪怪.md) — 4
 - [比特币橙子Trader](../authors/比特币橙子trader.md) — 4
 - [知识猫AI实验室](../authors/知识猫ai实验室.md) — 4
-- [萩野貴拓](../authors/萩野貴拓.md) — 4
 - [長田英幸 | AWS Community Builder AI Engineering](../authors/長田英幸-aws-community-builder-ai-engineering.md) — 4
 - [黄小木](../authors/黄小木.md) — 4
 - [A x A-AI時代の生き残り戦略💎](../authors/a-x-a-ai時代-生-残-戦略.md) — 3
@@ -304,6 +304,7 @@
 - [AGTP](../authors/agtp.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
 - [AIzunA 出雲から、AIをもっとやさしく。](../authors/aizuna-出雲-ai.md) — 2
+- [Ajay Shah](../authors/ajay-shah.md) — 2
 - [Akın](../authors/ak-n.md) — 2
 - [Akshat](../authors/akshat.md) — 2
 - [Alan Daitch](../authors/alan-daitch.md) — 2
@@ -840,7 +841,6 @@
 - [AI速報【AI&ChatGPT最新情報】](../authors/ai速報-ai-chatgpt最新情報.md) — 1
 - [AJ Asver](../authors/aj-asver.md) — 1
 - [Ajain Vivek](../authors/ajain-vivek.md) — 1
-- [Ajay Shah](../authors/ajay-shah.md) — 1
 - [Akash Jain](../authors/akash-jain.md) — 1
 - [Akbar Ali](../authors/akbar-ali.md) — 1
 - [Akbar Farooq 🇵🇰](../authors/akbar-farooq.md) — 1
@@ -2366,6 +2366,7 @@
 - [Niklas Hölterhoff](../authors/niklas-holterhoff.md) — 1
 - [Niko2cats](../authors/niko2cats.md) — 1
 - [Nikolai Yakovenko](../authors/nikolai-yakovenko.md) — 1
+- [Niko爱学习](../authors/niko爱学习.md) — 1
 - [Nilou Salehi](../authors/nilou-salehi.md) — 1
 - [Nima Hamdi](../authors/nima-hamdi.md) — 1
 - [NISHIO Hirokazu](../authors/nishio-hirokazu.md) — 1
@@ -3538,6 +3539,7 @@
 - [小峰太一 AI×旅行「AVA Travel」](../authors/小峰太一-ai-旅行-ava-travel.md) — 1
 - [小畑タカユキ｜AI×Web制作@大阪](../authors/小畑-ai-web制作-大阪.md) — 1
 - [小金鱼](../authors/小金鱼.md) — 1
+- [山ちゃん@AWS好きすぎて滅](../authors/山-aws好-滅.md) — 1
 - [山中伸也|株式会社Layer Security](../authors/山中伸也-株式会社layer-security.md) — 1
 - [山景城小路](../authors/山景城小路.md) — 1
 - [岡 拓馬(Takuma Oka)｜AI検索×SEO・SEGO開発](../authors/岡-拓馬-takuma-oka-ai検索-seo-sego開発.md) — 1

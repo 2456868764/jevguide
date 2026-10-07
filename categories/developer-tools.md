@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 531 | 272 | 261 | 3.6M |
+| 537 | 276 | 263 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/imohitmayank/status/2107840126663676411"><img src="https://pbs.twimg.com/media/HUCNbAZasAACSi_?format=jpg&amp;name=large" alt="Jev vs OpenAI Decisions API: A Benchmark Test · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/imohitmayank/status/2107840126663676411">Jev vs OpenAI Decisions API: A Benchmark Test</a></h3>
+<p>Mohit tested OpenAI&#39;s Decisions API (gpt-6-luna) on his 1,500-pair Quora duplicate holdout, scoring 80.2%, nearly tied with his fine-tuned GLiNER Decide at 80.3%. He notes it&#39;s the same yes/no/pick-from-a-list idea as Jev.</p>
+<p><strong>中文摘要：</strong>Mohit 在 1500 对 Quora 重复问题上测试了 OpenAI 的 Decisions API（gpt-6-luna），准确率 80.2%，与其微调的 GLiNER Decide 的 80.3% 基本持平，并指出这是与 Jev 相同的 yes/no/pick-from-a-list 思路。</p>
+<p><strong>Mohit</strong> · @imohitmayank · 2026-10-07T14:27:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/imohitmayank/status/2107840126663676411">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Ethan_Abimelech/status/2107839368345915786"><img src="https://pbs.twimg.com/media/HUCMUv0WIAAVtMV?format=jpg&amp;name=medium" alt="Jev vs OpenAI Decisions API Benchmark Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Ethan_Abimelech/status/2107839368345915786">Jev vs OpenAI Decisions API Benchmark Comparison</a></h3>
+<p>OpenAI has opened its Decisions API in public beta; after checking benchmarks, the author thinks it&#39;s not yet worth switching from Jev.</p>
+<p><strong>中文摘要：</strong>OpenAI 开放 Decisions API 公开测试版，作者对比基准后认为目前还不值得从 Jev 切换。</p>
+<p><strong>Ethan Abimelech</strong> · @Ethan_Abimelech · 2026-10-07T14:24:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/Ethan_Abimelech/status/2107839368345915786">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mr_easonyang/status/2107835863610921067"><img src="https://pbs.twimg.com/amplify_video_thumb/2107825477188743169/img/cy59Z0MRkAihKZdG.jpg" alt="J-Jump: A Jev-based Terminal Jump Tool · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mr_easonyang/status/2107835863610921067">J-Jump: A Jev-based Terminal Jump Tool</a></h3>
+<p>Developer Eason Yang built J-Jump, a terminal navigation tool based on Jev. It supports fast local matching similar to zoxide, and can call Jev, Clef-Flash, or the local Tev1 4B for semantic directory search, enabling cross-language jumps between Chinese and English.</p>
+<p><strong>中文摘要：</strong>作者 Eason Yang 开发了 J-Jump，一款基于 Jev 的终端跳转工具。除支持类似 zoxide 的本地极速匹配外，还可调用 Jev、Clef-Flash 或本地 Tev1 4B 进行语义目录搜索，支持中英文跨语言跳转。</p>
+<p><strong>Eason Yang</strong> · @mr_easonyang · 2026-10-07T14:10:06.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/mr_easonyang/status/2107835863610921067">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Dshyam03/status/2107833324144144736"><img src="https://pbs.twimg.com/amplify_video_thumb/2107706190595764224/img/MjLIoHtcrRQwrxxT.jpg" alt="Jev-powered test automation with Playwright · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Dshyam03/status/2107833324144144736">Jev-powered test automation with Playwright</a></h3>
+<p>The post describes how TypeSafe&#39;s Jev decides actions, elements, and data from Excel test cases, executed by Playwright in a real browser, with low confidence flagged for review and runs under 1 cent.</p>
+<p><strong>中文摘要：</strong>帖子介绍TypeSafe的Jev如何从Excel测试用例中决定动作、元素和数据，由Playwright在真实浏览器中执行，低置信度时标记审查，成本低于1美分。</p>
+<p><strong>RDS</strong> · @Dshyam03 · 2026-10-07T14:00:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><a href="https://x.com/Dshyam03/status/2107833324144144736">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_katanai/status/2107830938348441624"><img src="https://pbs.twimg.com/amplify_video_thumb/2107830861399793664/img/J9D4sMwWTGOKgFWr.jpg" alt="jev-router: Smart Model Routing for Claude Code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_katanai/status/2107830938348441624">jev-router: Smart Model Routing for Claude Code</a></h3>
+<p>The open-source tool jev-router, with 513 stars on GitHub, automatically selects a model for each new turn: simple tasks go to a fast tier, hard tasks to a strong model, seamlessly integrating with Claude Code to avoid wasting powerful models on easy problems.</p>
+<p><strong>中文摘要：</strong>开源工具jev-router在GitHub获得513颗星，为每个新回合自动选择模型：简单任务走快速层，困难任务走强模型，与Claude Code无缝结合，避免在简单问题上浪费最强模型。</p>
+<p><strong>Katanai</strong> · @ai_katanai · 2026-10-07T13:50:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/ai_katanai/status/2107830938348441624">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/buddypia/status/2107827512445464911"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995798546919424/img/u1foYKB8vW15KASh.jpg" alt="Jev vs Cloudflare Clef · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/buddypia/status/2107827512445464911">Jev vs Cloudflare Clef</a></h3>
+<p>The post introduces Cloudflare&#39;s Clef, similar to Jev, and mentions that you can compare judgment speed and accuracy.</p>
+<p><strong>中文摘要：</strong>帖子介绍了类似 Jev 的 Cloudflare 的 Clef，并提到可以比较判定速度和准确度。</p>
+<p><strong>じゅん@AI駆動開発</strong> · @buddypia · 2026-10-07T13:36:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/buddypia/status/2107827512445464911">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/phartenfeller/status/2107799773361172879"><img src="https://pbs.twimg.com/amplify_video_thumb/2107799728679165952/img/aGqeSLfsDWMGaWtA.jpg" alt="UC AI 26.5 Adds uc_ai.decide for TypeSafe Jev and OpenAI Decisions API · 原帖视频截图" width="100%"></a>

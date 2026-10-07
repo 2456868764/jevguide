@@ -1,9 +1,10 @@
 # Florian S
 
-17 Jev showcases.
+18 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-07T13:52:27.000Z | [Discussion on Jev's performance in JevBench comparison](https://x.com/airesearch12/status/2107831420903133623) | 社区实践 | Florian S | 190 |
 | 2026-10-06T12:12:34.000Z | [User shares LLM auto-routing case: model appears to beat Jev and is 9x faster](https://x.com/airesearch12/status/2107443897886491013) | 社区实践 | Florian S | 14 |
 | 2026-10-02T13:44:49.000Z | [JevBench v1.5.5 Released: Jev Still #1 in Capability](https://x.com/airesearch12/status/2106017561913536949) | 开发资源 | Florian S | 274 |
 | 2026-10-01T14:31:45.000Z | [JevBench v1.5.4 Update: Capability Score Replaces Composite, Original Jev Back on Top](https://x.com/airesearch12/status/2105666986915074405) | 开发者工具 | Florian S | 889 |

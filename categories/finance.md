@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 259 | 148 | 113 | 1.2M |
+| 261 | 150 | 113 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xOrionVega/status/2107836849683157254"><img src="https://pbs.twimg.com/amplify_video_thumb/2107834266725838848/img/R_knKya2rU9_Bu4N.jpg" alt="Jev verifies news sources one by one, so traders only read one · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xOrionVega/status/2107836849683157254">Jev verifies news sources one by one, so traders only read one</a></h3>
+<p>The post describes a trader&#39;s info filtering pipeline: price ticks are tracked by an always-on watcher, every headline is checked against its source by Jev, fake posts like &#39;SEC halts ETF&#39; are blocked here, X posts go to Sonnet 5.5, and the human only reads one merged result.</p>
+<p><strong>中文摘要：</strong>帖子介绍了交易者的信息筛选流程：价格 tick 由常驻监视器跟踪，所有新闻标题由 Jev 对照来源核验，伪造的“SEC 暂停 ETF”类消息在此被拦截，X 帖子交给 Sonnet 5.5 处理，最终人工只需看一条综合结果。</p>
+<p><strong>Orion</strong> · @0xOrionVega · 2026-10-07T14:14:01.000Z</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 186</p>
+<p><a href="https://x.com/0xOrionVega/status/2107836849683157254">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGrimmer_/status/2107827889458561243"><img src="https://pbs.twimg.com/amplify_video_thumb/2107826041104257024/img/6Lg6TC_WSBNvpuZ0.jpg" alt="Jev-Powered BTC Perps Trading Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGrimmer_/status/2107827889458561243">Jev-Powered BTC Perps Trading Bot</a></h3>
+<p>This trading bot combines Jev with Grok agents and a crawler, focusing on BTC perps. After the price dropped, it went long four times in a row, turning $3,184 into $9,742. Showcasing Jev in real-world trading.</p>
+<p><strong>中文摘要：</strong>该交易机器人结合 Jev 与 Grok 智能体和爬虫，专注 BTC 永续合约。在价格下跌后，连续四次做多，从 $3,184 获得 $9,742 的回报。展示了 Jev 在真实交易中的应用。</p>
+<p><strong>Grimmer</strong> · @0xGrimmer_ · 2026-10-07T13:38:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 247</p>
+<p><a href="https://x.com/0xGrimmer_/status/2107827889458561243">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/powlymoli/status/2107805819781955918"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107805642635558912/pu/img/rSziXdauRY2xPrIA.jpg" alt="Using Jev to Analyze Stock Recommendations from Transcripts · 原帖视频截图" width="100%"></a>

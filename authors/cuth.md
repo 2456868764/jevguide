@@ -1,9 +1,10 @@
 # Cuth
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-07T14:21:20.000Z | [Autojev vs Jev: A Personal Benchmark](https://x.com/ItsCuthulhu/status/2107838690340856146) | 社区实践 | Cuth | 10 |
 | 2026-10-02T02:25:26.000Z | [Jev as a Judge on Celeris-1: AIME Up but Higher Cost](https://x.com/ItsCuthulhu/status/2105846590573256856) | 社区实践 | Cuth | 15 |
 | 2026-10-02T02:22:39.000Z | [Small Jev Models Ranking Update on S1Bench](https://x.com/ItsCuthulhu/status/2105845887809278271) | 社区实践 | Cuth | 16 |
 | 2026-09-24 | [Challenging Jev on DGX Spark: Open-Source System One Model Experiment](https://x.com/ItsCuthulhu/status/2102980902959636759) | 社区实践 | Cuth | 65 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 533 | 232 | 302 | 1.6M |
+| 535 | 233 | 303 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ZockerAlt/status/2107777982236365061"><img src="https://pbs.twimg.com/media/HUBU5OJXMAADZwh?format=jpg&amp;name=medium" alt="Jev 1.13: A model for judging, not writing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ZockerAlt/status/2107777982236365061">Jev 1.13: A model for judging, not writing</a></h3>
+<p>TypeSafe&#39;s Jev 1.13 takes context and typed questions, returns probabilities—no paragraphs to clean up, no JSON to coax.</p>
+<p><strong>中文摘要：</strong>TypeSafe 构建的 Jev 1.13 接受上下文和类型化问题，返回概率，无需清理段落或调整 JSON 输出。</p>
+<p><strong>Zocker</strong> · @ZockerAlt · 2026-10-07T10:20:06.000Z</p>
+<p>💬 9 &nbsp; 🔁 2 &nbsp; ♡ 25 &nbsp; 📊 761</p>
+<p><a href="https://x.com/ZockerAlt/status/2107777982236365061">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Tonytifao/status/2107773495656505634"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107773478917091328/pu/img/3nbn5CHMVbw0wccb.jpg" alt="Jev AI: Low-Cost Routing and Selection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Tonytifao/status/2107773495656505634">Jev AI: Low-Cost Routing and Selection</a></h3>
+<p>Jev routes requests in a laptop Jarvis, reads a million tokens for 4.2 cents, outputs free, and picks an answer from your list.</p>
+<p><strong>中文摘要：</strong>Jev在笔记本Jarvis环境中路由请求，读取百万token仅需4.2美分，输出免费，只从用户提供的列表中选择答案。</p>
+<p><strong>Tony Schaffert</strong> · @Tonytifao · 2026-10-07T10:02:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/Tonytifao/status/2107773495656505634">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Fabian13Kerj/status/2107761462609690700"><img src="https://pbs.twimg.com/media/HUBE3v1XYAACxap?format=jpg&amp;name=medium" alt="Jev lets 93% skip human checks · 原帖图片" width="100%"></a>

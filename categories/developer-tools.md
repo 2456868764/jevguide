@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 522 | 264 | 260 | 3.6M |
+| 530 | 271 | 261 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vishnu_aniyan/status/2107782534654546075"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Is Jev Being Outdated by Platform Routing? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/vishnu_aniyan/status/2107782534654546075">Is Jev Being Outdated by Platform Routing?</a></h3>
+<p>The post argues Jev routing may be overtaken by Cloudflare Clef, Decisions API, and Claude&#39;s upcoming features, as model routing becomes a platform-level load balancer.</p>
+<p><strong>中文摘要：</strong>帖子认为 Jev 路由方案可能被 Cloudflare Clef、Decisions API 及 Claude 的同类功能追上，讨论模型路由正在平台化，变成负载均衡器。</p>
+<p><strong>Vishnu Aniyan</strong> · @vishnu_aniyan · 2026-10-07T10:38:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/vishnu_aniyan/status/2107782534654546075">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_gachi_oji/status/2107775535413911678"><img src="https://pbs.twimg.com/amplify_video_thumb/2102153701351731200/img/IGq_K7ab2eKOi-rM.jpg" alt="Jev mod for Claude Code: Auto-routing models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_gachi_oji/status/2107775535413911678">Jev mod for Claude Code: Auto-routing models</a></h3>
+<p>A trending mod for Claude Code: before each turn, Jev assesses whether the task is mechanical, reasoning-heavy, or risky, and routes it to Haiku (light), Sonnet (normal), or Opus (hard).</p>
+<p><strong>中文摘要：</strong>海外热议的Claude Code mod：每回合前由Jev判断任务是机械性、需推理还是危险，并自动分派给Haiku（轻量）、Sonnet（常规）或Opus（高难度）。</p>
+<p><strong>AIガチ勢オジ｜40代×Claude Code</strong> · @ai_gachi_oji · 2026-10-07T10:10:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/ai_gachi_oji/status/2107775535413911678">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mrtanviir/status/2107773220489191793"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107773198737510400/pu/img/veeJjbZCXZCLcwR4.jpg" alt="Jev: Structured Data AI for Software Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mrtanviir/status/2107773220489191793">Jev: Structured Data AI for Software Decisions</a></h3>
+<p>Tanvir Hossain&#39;s post introduces TypeSafe AI&#39;s Jev, highlighting that it gives software structured data rather than text, claiming faster and cheaper performance with zero output token cost and confidence routing.</p>
+<p><strong>中文摘要：</strong>Tanvir Hossain的帖子介绍TypeSafe AI的Jev，强调其向软件提供结构化数据而非文本，声称比聊天AI更快更便宜，并提及零输出token成本和置信度路由。</p>
+<p><strong>Tanvir Hossain</strong> · @mrtanviir · 2026-10-07T10:01:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/mrtanviir/status/2107773220489191793">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/achammah1/status/2107764132728500480"><img src="https://pbs.twimg.com/media/HUBITq7XwAAm5SL?format=jpg&amp;name=medium" alt="Jev Benchmark: Slower and 2x Costlier · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +56,32 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/achammah1/status/2107764132728500480">在 X 查看原帖</a> · <a href="https://t.co/n3i62xgDip">原文链接</a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/haginota/status/2107756797893447794"><img src="https://pbs.twimg.com/media/HUBBmC_bMAA6KNP?format=jpg&amp;name=medium" alt="Jev vs OpenAI Decisions API Benchmark Article · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/haginota/status/2107756797893447794">Jev vs OpenAI Decisions API Benchmark Article</a></h3>
+<p>Takahiro Hagino published a comparison of Jev and the OpenAI Decisions API on the Canly tech blog, claiming a 7-0 sweep victory.</p>
+<p><strong>中文摘要：</strong>萩野貴拓在Canly技术博客发布了Jev与OpenAI Decisions API的对比，宣称7胜0败的完胜结果。</p>
+<p><strong>萩野貴拓</strong> · @haginota · 2026-10-07T08:55:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><a href="https://x.com/haginota/status/2107756797893447794">在 X 查看原帖</a> · <a href="https://t.co/b4BFp2tMgu">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xingyue1/status/2107755665162928435"><img src="https://pbs.twimg.com/amplify_video_thumb/2107754994162413568/img/zKUr0TFNibqg8C6D.jpg" alt="Run OpenAI&#39;s Decisions API Locally, Serving Jev&#39;s SystemOne · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/xingyue1/status/2107755665162928435">Run OpenAI&#39;s Decisions API Locally, Serving Jev&#39;s SystemOne</a></h3>
+<p>Run OpenAI&#39;s Decisions API locally on Mac Studio with Swama + Qwen3.5-35B-A3B, comparing to gpt-6-luna from Tokyo: 2.2x faster on 30 tickets, 1.2x faster on 30 photos. Open source (Swift + MLX), no per-token fees, data stays local, and it serves the SystemOne API used by Jev.</p>
+<p><strong>中文摘要：</strong>基于Swama与Qwen3.5-35B-A3B在Mac Studio上本地运行OpenAI Decisions API，对比东京的gpt-6-luna：30张工单快2.2倍，30张图片快1.2倍。开源（Swift + MLX），无按token费用，数据保留本地，同时为Jev使用的SystemOne API提供服务。</p>
+<p><strong>xingyue</strong> · @xingyue1 · 2026-10-07T08:51:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 76</p>
+<p><a href="https://x.com/xingyue1/status/2107755665162928435">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/surendra_pandar/status/2107755056024154615"><img src="https://pbs.twimg.com/media/HUAZTBfbwAAXmhL?format=jpg&amp;name=medium" alt="OpenAI Releases Decisions API, Similar to Jev AI · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 61</p>
 <p><a href="https://x.com/surendra_pandar/status/2107755056024154615">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dfinke/status/2107752041825374318"><img src="https://pbs.twimg.com/media/HUA9UAvaYAEAj6m?format=png&amp;name=900x900" alt="PSAIOpenAIDecisions PowerShell Module Released · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +103,43 @@
 <p><strong>Doug Finke</strong> · @dfinke · 2026-10-07T08:37:01.000Z</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 146</p>
 <p><a href="https://x.com/dfinke/status/2107752041825374318">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/devdiary0x/status/2107735448126964088"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Jev vs Luna Model Comparison Discussion · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/devdiary0x/status/2107735448126964088">Jev vs Luna Model Comparison Discussion</a></h3>
+<p>A developer comments that Luna may be smarter than Jev and supports image input, but it costs more (Luna 0.1/M vs Jev 0.042/M).</p>
+<p><strong>中文摘要：</strong>开发者转发评论称，Luna可能比Jev更智能且支持图像输入，但定价更高（Luna 0.1/百万 vs Jev 0.042/百万）。</p>
+<p><strong>DevDiary</strong> · @devdiary0x · 2026-10-07T07:31:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/devdiary0x/status/2107735448126964088">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/argbeknwn/status/2107734411915440265"><img src="https://pbs.twimg.com/amplify_video_thumb/2107734283888545792/img/LttPMFs_s1aFBeuT.jpg" alt="GPT-6 Luna vs Jev 1.13 Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/argbeknwn/status/2107734411915440265">GPT-6 Luna vs Jev 1.13 Benchmark</a></h3>
+<p>In a public beta test, OpenAI GPT-6 Luna Decisions API was compared against Jev 1.13 on 500 synthetic cases: 98.0% vs 97.0% accuracy, 329ms vs 321ms latency, at a slightly higher cost.</p>
+<p><strong>中文摘要：</strong>公开测试中，OpenAI GPT-6 Luna Decisions API 在 500 个合成案例上对比 Jev 1.13：准确率 98.0% 对 97.0%，延迟 329 毫秒对 321 毫秒，成本略高。</p>
+<p><strong>Alex</strong> · @argbeknwn · 2026-10-07T07:26:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/argbeknwn/status/2107734411915440265">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sudhamjayanthi/status/2107730156202975622"><img src="https://pbs.twimg.com/amplify_video_thumb/2107728439595937792/img/1bj-7GEbAO_hOCBe.jpg" alt="Building a Chrome Focus Extension with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sudhamjayanthi/status/2107730156202975622">Building a Chrome Focus Extension with Jev</a></h3>
+<p>The author shares using Sonnet 5.5 for video creation and vibecoding a focus browser extension with Jev, currently under review on the Chrome Web Store.</p>
+<p><strong>中文摘要：</strong>作者分享使用Sonnet 5.5制作视频，并用Jev开发了一款专注浏览器扩展，目前正在Chrome商店审核。</p>
+<p><strong>sdm</strong> · @sudhamjayanthi · 2026-10-07T07:10:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 312</p>
+<p><a href="https://x.com/sudhamjayanthi/status/2107730156202975622">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/RishiUvaach/status/2107414282837324004"><img src="https://pbs.twimg.com/tweet_video_thumb/HT8KF8bbEAAzhrS.jpg" alt="Bud Decision Studio: Run Jev-like Decision Models Locally · 原帖视频截图" width="100%"></a>

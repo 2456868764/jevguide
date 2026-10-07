@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 389 | 220 | 170 | 3.0M |
+| 391 | 221 | 171 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Seanku/status/2107783667062104504"><img src="https://pbs.twimg.com/media/HUBaEjPaoAAJ5Vs?format=jpg&amp;name=medium" alt="Kai Model vs TypeSafe Jev: Decision-Making Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Seanku/status/2107783667062104504">Kai Model vs TypeSafe Jev: Decision-Making Comparison</a></h3>
+<p>The post claims that the vLLM Kai model beats Jev decision-making by 0.1, with a video comparing it to TypeSafe Jev-style alternatives.</p>
+<p><strong>中文摘要：</strong>原帖称 vLLM Kai 模型在决策任务上以 0.1 的优势超过 Jev，并公开了与 TypeSafe Jev 风格替代方案的对比视频。</p>
+<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku · 2026-10-07T10:42:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/Seanku/status/2107783667062104504">在 X 查看原帖</a> · <a href="https://t.co/7LrqjPSfCe">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Sprytixl/status/2107773652850610505"><img src="https://pbs.twimg.com/amplify_video_thumb/2107763399824220160/img/gtTHUQPuRohqJBKK.jpg" alt="JEV in Agent Optimization: 10x Faster and 90% Cheaper · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sprytixl/status/2107773652850610505">JEV in Agent Optimization: 10x Faster and 90% Cheaper</a></h3>
+<p>The post says Sonnet 5.5 + JEV + OpenAI Dots made one agent 10x faster and 90% cheaper using changes like swap, trim, cap, and fan out, cutting a task from 60s/$0.30 to 6s/$0.03, with the agent running on Sonnet 5.5 and calling ten tools.</p>
+<p><strong>中文摘要：</strong>帖子称 Sonnet 5.5 + JEV + OpenAI Dots 通过 swap、trim、cap、fan out 等改动，让一个任务从 60 秒/$0.30 降至 6 秒/$0.03，智能体本身运行在 Sonnet 5.5 上并调用十个工具。</p>
+<p><strong>Sprytix</strong> · @Sprytixl · 2026-10-07T10:02:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 154</p>
+<p><a href="https://x.com/Sprytixl/status/2107773652850610505">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JAMINE_NFT/status/2107753184856776921"><img src="https://pbs.twimg.com/media/HUA-VwRWQAAxMuD?format=jpg&amp;name=medium" alt="Jev: Built for High-Frequency Software Decisions · 原帖图片" width="100%"></a>

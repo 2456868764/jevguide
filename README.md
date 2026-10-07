@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5156</strong><br>curated posts</td>
-<td align="center"><strong>2639</strong><br>original videos</td>
+<td align="center"><strong>5185</strong><br>curated posts</td>
+<td align="center"><strong>2653</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>898</strong> showcases · <strong>373</strong> videos</p>
+<p><strong>905</strong> showcases · <strong>374</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>533</strong> showcases · <strong>232</strong> videos</p>
+<p><strong>535</strong> showcases · <strong>233</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>522</strong> showcases · <strong>264</strong> videos</p>
+<p><strong>530</strong> showcases · <strong>271</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>405</strong> showcases · <strong>186</strong> videos</p>
+<p><strong>406</strong> showcases · <strong>186</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>389</strong> showcases · <strong>220</strong> videos</p>
+<p><strong>391</strong> showcases · <strong>221</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>337</strong> showcases · <strong>136</strong> videos</p>
+<p><strong>340</strong> showcases · <strong>137</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>254</strong> showcases · <strong>144</strong> videos</p>
+<p><strong>255</strong> showcases · <strong>145</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>216</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>217</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>135</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>136</strong> showcases · <strong>102</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>104</strong> showcases · <strong>55</strong> videos</p>
+<p><strong>105</strong> showcases · <strong>55</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>35</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>36</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>23</strong> showcases · <strong>11</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/_avichawla/status/2107767245917368751"><img src="https://pbs.twimg.com/tweet_video_thumb/HUBLIphbQAA_8qr.jpg" alt="RAG vs. Jev+RAG Explained · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/_avichawla/status/2107767245917368751">RAG vs. Jev+RAG Explained</a></h3>
-<p>The post clearly explains RAG vs. Jev+RAG, walking through the standard RAG pipeline: documents are chunked, embedded, stored in a vector DB, and top-k closest chunks are retrieved for a query.</p>
-<p><strong>331</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 331</p>
-<p><strong>Avi Chawla</strong> · @_avichawla</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/Seanku/status/2107783667062104504"><img src="https://pbs.twimg.com/media/HUBaEjPaoAAJ5Vs?format=jpg&amp;name=medium" alt="Kai Model vs TypeSafe Jev: Decision-Making Comparison · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Seanku/status/2107783667062104504">Kai Model vs TypeSafe Jev: Decision-Making Comparison</a></h3>
+<p>The post claims that the vLLM Kai model beats Jev decision-making by 0.1, with a video comparing it to TypeSafe Jev-style alternatives.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/meghrajai/status/2107767235867725891"><img src="https://pbs.twimg.com/media/HUBLH5laUAEVOzi?format=jpg&amp;name=medium" alt="Reply to skeptics: Jev may fade, but decision models remain · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/meghrajai/status/2107767235867725891">Reply to skeptics: Jev may fade, but decision models remain</a></h3>
-<p>The author responds to claims that Jev is dead, suggesting that even if Jev may disappear in the future, decision models are here to stay.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
-<p><strong>Meghraj</strong> · @meghrajai</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/mertcobanov/status/2107782976134119652"><img src="https://pbs.twimg.com/media/HUBXd0oXAAAqPKc?format=jpg&amp;name=900x900" alt="Hosting Jev-style models with Ollama · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mertcobanov/status/2107782976134119652">Hosting Jev-style models with Ollama</a></h3>
+<p>The author reflects on their internet footprint and mentions developing an Ollama-based approach to host Jev-style models, sharing related practices and encounters.</p>
+<p><strong>389</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 389</p>
+<p><strong>Mert Cobanov</strong> · @mertcobanov</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Joedycore053/status/2107764397040939450"><img src="https://pbs.twimg.com/media/HUBIirGXEAE1lQq?format=jpg&amp;name=medium" alt="Jev is Now Live on B.AI API: A New Way to Make Software Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Joedycore053/status/2107764397040939450">Jev is Now Live on B.AI API: A New Way to Make Software Decisions</a></h3>
-<p>Jev, a System One model from TypeSafe AI, is now available on the B.AI API. Unlike most generative AI APIs, Jev focuses on software decisions rather than generating text, code, or JSON.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>Joedycore053|| Trade Gold 24/7 on Vantage</strong> · @Joedycore053</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/vishnu_aniyan/status/2107782534654546075"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Is Jev Being Outdated by Platform Routing? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/vishnu_aniyan/status/2107782534654546075">Is Jev Being Outdated by Platform Routing?</a></h3>
+<p>The post argues Jev routing may be overtaken by Cloudflare Clef, Decisions API, and Claude&#39;s upcoming features, as model routing becomes a platform-level load balancer.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Vishnu Aniyan</strong> · @vishnu_aniyan</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/achammah1/status/2107764132728500480"><img src="https://pbs.twimg.com/media/HUBITq7XwAAm5SL?format=jpg&amp;name=medium" alt="Jev Benchmark: Slower and 2x Costlier · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/achammah1/status/2107764132728500480">Jev Benchmark: Slower and 2x Costlier</a></h3>
-<p>The author benchmarked Jev, finding it slower, about 2x more expensive, and no more accurate. Full analysis at the attached link.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Assem</strong> · @achammah1</p>
+<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/MrSanders/status/2107781451580137586"><img src="https://pbs.twimg.com/amplify_video_thumb/2107780752288919553/img/k5sFPPptd3YsxWGM.jpg" alt="Building an Active Recall Study App with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MrSanders/status/2107781451580137586">Building an Active Recall Study App with Jev</a></h3>
+<p>A developer builds a personal study app that uses the Jev model to classify and grade answers, incorporating neuroscience methods like active recall and spaced repetition for better learning.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Luis Sanchez</strong> · @MrSanders</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/_avichawla/status/2107767245917368751"><img src="https://pbs.twimg.com/tweet_video_thumb/HUBLIphbQAA_8qr.jpg" alt="RAG vs. Jev+RAG Explained · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/_avichawla/status/2107767245917368751">RAG vs. Jev+RAG Explained</a></h3>
-<p>The post clearly explains RAG vs. Jev+RAG, walking through the standard RAG pipeline: documents are chunked, embedded, stored in a vector DB, and top-k closest chunks are retrieved for a query.</p>
-<p><strong>331</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 331</p>
-<p><strong>Avi Chawla</strong> · @_avichawla</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/Seanku/status/2107783667062104504"><img src="https://pbs.twimg.com/media/HUBaEjPaoAAJ5Vs?format=jpg&amp;name=medium" alt="Kai Model vs TypeSafe Jev: Decision-Making Comparison · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Seanku/status/2107783667062104504">Kai Model vs TypeSafe Jev: Decision-Making Comparison</a></h3>
+<p>The post claims that the vLLM Kai model beats Jev decision-making by 0.1, with a video comparing it to TypeSafe Jev-style alternatives.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/achammah1/status/2107764132728500480"><img src="https://pbs.twimg.com/media/HUBITq7XwAAm5SL?format=jpg&amp;name=medium" alt="Jev Benchmark: Slower and 2x Costlier · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/achammah1/status/2107764132728500480">Jev Benchmark: Slower and 2x Costlier</a></h3>
-<p>The author benchmarked Jev, finding it slower, about 2x more expensive, and no more accurate. Full analysis at the attached link.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Assem</strong> · @achammah1</p>
+<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/MrSanders/status/2107781451580137586"><img src="https://pbs.twimg.com/amplify_video_thumb/2107780752288919553/img/k5sFPPptd3YsxWGM.jpg" alt="Building an Active Recall Study App with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MrSanders/status/2107781451580137586">Building an Active Recall Study App with Jev</a></h3>
+<p>A developer builds a personal study app that uses the Jev model to classify and grade answers, incorporating neuroscience methods like active recall and spaced repetition for better learning.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Luis Sanchez</strong> · @MrSanders</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/7shi/status/2107762089427386545"><img src="https://pbs.twimg.com/media/HUBFzfCbsAAt_fa?format=png&amp;name=900x900" alt="Jev vs Luna: Reading Comprehension Test Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/7shi/status/2107762089427386545">Jev vs Luna: Reading Comprehension Test Comparison</a></h3>
-<p>The author tested reading comprehension with OpenAI Decisions API, comparing Jev and Luna: Jev hesitates between correct/partial, making 96 points the practical ceiling; Luna gives clearer rulings. Compared with Jev, Luna took about 10% longer and cost 60% more.</p>
-<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 170</p>
-<p><strong>七誌</strong> · @7shi</p>
+<a href="https://x.com/HariShanbhog/status/2107780159306936584"><img src="https://pbs.twimg.com/media/HUBVDEBa4AAek8C?format=jpg&amp;name=medium" alt="A Different Take on Jev and Decision Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HariShanbhog/status/2107780159306936584">A Different Take on Jev and Decision Models</a></h3>
+<p>Discusses whether AI systems need a dedicated routing decision model, arguing that well-modeled domains make the structure settle where things go.</p>
+<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Hari Prakash S</strong> · @HariShanbhog</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/alilibx/status/2107754386390970570"><img src="https://pbs.twimg.com/media/HUA_b6ubYAAu9JP?format=jpg&amp;name=medium" alt="TypeSafe Jev ranks among the fastest API models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/alilibx/status/2107754386390970570">TypeSafe Jev ranks among the fastest API models</a></h3>
-<p>Benchmark data shows TypeSafe Jev and OpenAI GPT-6 Luna Decisions have a median latency of about 370 ms, making them among the fastest API models.</p>
-<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>AA Li</strong> · @alilibx</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/rehan_shei/status/2107776318532464702"><img src="https://pbs.twimg.com/amplify_video_thumb/2107774419108274176/img/BdKOSd1a-C6PgsJ1.jpg" alt="open-annie: Open-source real-time motion capture with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rehan_shei/status/2107776318532464702">open-annie: Open-source real-time motion capture with Jev</a></h3>
+<p>The open-source project open-annie enables GPT-Live conversations in the browser, using Jev to capture faces, gestures, and dances in about 120 ms, all rendered in real time. Code is publicly available.</p>
+<p><strong>256</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 256</p>
+<p><strong>Rehan Sheikh</strong> · @rehan_shei</p>
 </td>
 </tr>
 </table>

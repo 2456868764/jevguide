@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 252 | 144 | 110 | 1.2M |
+| 254 | 144 | 112 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LUNNTHEDEV/status/2107751111813664903"><img src="https://pbs.twimg.com/media/HUA8dgFW4AAeOmy?format=jpg&amp;name=medium" alt="Made a Crypto Coin Analyzer with Claude and Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LUNNTHEDEV/status/2107751111813664903">Made a Crypto Coin Analyzer with Claude and Jev</a></h3>
+<p>A developer built a coin analyzer using Claude and Jev to identify cryptocurrencies with better probabilities, and will share the results.</p>
+<p><strong>中文摘要：</strong>开发者利用 Claude 和 Jev 构建了一个硬币分析器，用于筛选概率较高的加密币，并计划分享测试结果。</p>
+<p><strong>LUNN</strong> · @LUNNTHEDEV · 2026-10-07T08:33:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 36</p>
+<p><a href="https://x.com/LUNNTHEDEV/status/2107751111813664903">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Mimir_Markets/status/2107746156281299023"><img src="https://pbs.twimg.com/media/HUA3J0gWkAAAt7S?format=jpg&amp;name=medium" alt="Mimir announces Jev integration for refined market decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Mimir_Markets/status/2107746156281299023">Mimir announces Jev integration for refined market decisions</a></h3>
+<p>Mimir&#39;s monthly update: the $MIMIR CLI is live, bringing markets, house council, and agents to your shell. It also teases a Mimir × Jev partnership to deliver typed, calibrated decisions for the oracle, council, and claim quality.</p>
+<p><strong>中文摘要：</strong>Mimir 发布本月更新：$MIMIR CLI 已上线，可在终端使用市场和代理功能；同时预告 Mimir × Jev 合作，旨在为 oracle、council 和 claim quality 提供类型化、校准的决策。</p>
+<p><strong>Mimir</strong> · @Mimir_Markets · 2026-10-07T08:13:38.000Z</p>
+<p>💬 13 &nbsp; 🔁 8 &nbsp; ♡ 11 &nbsp; 📊 249</p>
+<p><a href="https://x.com/Mimir_Markets/status/2107746156281299023">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/defileo/status/2107520081471447127"><img src="https://pbs.twimg.com/amplify_video_thumb/2107520011262963712/img/-hvSM99U-jSVkH8b.jpg" alt="Jev checks duplicate webhook keys in 0.44s · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 401 | 186 | 218 | 1.1M |
+| 405 | 186 | 222 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Joedycore053/status/2107764397040939450"><img src="https://pbs.twimg.com/media/HUBIirGXEAE1lQq?format=jpg&amp;name=medium" alt="Jev is Now Live on B.AI API: A New Way to Make Software Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Joedycore053/status/2107764397040939450">Jev is Now Live on B.AI API: A New Way to Make Software Decisions</a></h3>
+<p>Jev, a System One model from TypeSafe AI, is now available on the B.AI API. Unlike most generative AI APIs, Jev focuses on software decisions rather than generating text, code, or JSON.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 是 System One 模型，现已上线 B.AI API。与大多数生成型 AI API 不同，Jev 专注于软件决策而非生成文本、代码或 JSON。</p>
+<p><strong>Joedycore053|| Trade Gold 24/7 on Vantage</strong> · @Joedycore053 · 2026-10-07T09:26:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/Joedycore053/status/2107764397040939450">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JAMINE_NFT/status/2107752757981573352"><img src="https://pbs.twimg.com/media/HUA99B8WYAAbNT1?format=jpg&amp;name=medium" alt="Jev Now Available via B.AI API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JAMINE_NFT/status/2107752757981573352">Jev Now Available via B.AI API</a></h3>
+<p>Jev, a System One model from TypeSafe AI, is designed to bring AI beyond chat and act as a reliable decision layer inside software. It is now available through the B.AI API.</p>
+<p><strong>中文摘要：</strong>Jev 是 TypeSafe AI 推出的 System One 模型，专注于让 AI 成为软件中的可靠决策层，现已通过 B.AI API 提供。</p>
+<p><strong>𝑱𝑨𝑴𝑰𝑵𝑶</strong> · @JAMINE_NFT · 2026-10-07T08:39:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/JAMINE_NFT/status/2107752757981573352">在 X 查看原帖</a> · <a href="https://t.co/lLR02boom8">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JAMINE_NFT/status/2107752668793876788"><img src="https://pbs.twimg.com/media/HUA93u1W4AAbC1x?format=jpg&amp;name=medium" alt="Jev is now available: AI that makes decisions for your software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JAMINE_NFT/status/2107752668793876788">Jev is now available: AI that makes decisions for your software</a></h3>
+<p>The post introduces the idea behind Jev: instead of generating a paragraph, AI could simply make the decision your application needs, and notes that Jev is now available.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Jev 的理念：AI 无需生成段落，而是直接为应用程序做出所需决策，并指出 Jev 现已可用。</p>
+<p><strong>𝑱𝑨𝑴𝑰𝑵𝑶</strong> · @JAMINE_NFT · 2026-10-07T08:39:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/JAMINE_NFT/status/2107752668793876788">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VaraadDurgaay/status/2107742969986167066"><img src="https://pbs.twimg.com/media/HUA1DlDbQAAVGgc?format=jpg&amp;name=medium" alt="OpenAI Launches Decision API, Called a JEV Competitor · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VaraadDurgaay/status/2107742969986167066">OpenAI Launches Decision API, Called a JEV Competitor</a></h3>
+<p>The post notes that OpenAI launched the Decision API and views it as another competitor to JEV, relating to TypeSafe&#39;s Jev model landscape.</p>
+<p><strong>中文摘要：</strong>该帖指出OpenAI发布Decision API，并认为这构成了JEV的另一个竞争对手，涉及TypeSafe的Jev模型相关竞争格局。</p>
+<p><strong>Varaad Durgaay ⚡️</strong> · @VaraadDurgaay · 2026-10-07T08:00:58.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 59</p>
+<p><a href="https://x.com/VaraadDurgaay/status/2107742969986167066">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManuAGI01/status/2107523404001870283"><img src="https://pbs.twimg.com/amplify_video_thumb/2107523351308881920/img/O30eoDzYqAOXosx9.jpg" alt="System One Decision Model Hosted in EU Announced · 原帖视频截图" width="100%"></a>

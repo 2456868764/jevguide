@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 214 | 142 | 72 | 595K |
+| 216 | 143 | 73 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yessicaxbt/status/2107761893670568245"><img src="https://pbs.twimg.com/amplify_video_thumb/2107748254590918656/img/_AkxeKWZI-Ut4KyV.jpg" alt="Jev as the decision gate for alert floods · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yessicaxbt/status/2107761893670568245">Jev as the decision gate for alert floods</a></h3>
+<p>Yessica describes 20k alerts a day overwhelming attention; Signal Desk adds a decision gate before the final alert, with Jev performing the check.</p>
+<p><strong>中文摘要：</strong>Yessica指出每天2万条警报如同DDoS攻击，重复内容不断推送；Signal Desk在最终警报前设置决策门，由Jev执行检查。</p>
+<p><strong>Yessica</strong> · @yessicaxbt · 2026-10-07T09:16:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 11</p>
+<p><a href="https://x.com/yessicaxbt/status/2107761893670568245">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/koreabuldak/status/2107753698646462791"><img src="https://pbs.twimg.com/media/HUA-0K5awAEFpR4?format=jpg&amp;name=medium" alt="System 1 models emerge in AI: TypeSafe Jev, Cloudflare Clef, Ollama Nimble · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/koreabuldak/status/2107753698646462791">System 1 models emerge in AI: TypeSafe Jev, Cloudflare Clef, Ollama Nimble</a></h3>
+<p>The author notes that TypeSafe&#39;s Jev, Cloudflare&#39;s Clef, and Ollama&#39;s Nimble have been released within three weeks, and welcomes this trend from the perspective of an accountant using a Mac mini for work automation.</p>
+<p><strong>中文摘要：</strong>作者观察到三周内 TypeSafe 的 Jev、Cloudflare 的 Clef、Ollama 的 Nimble 相继发布，并结合自身从事会计工作、用 Mac mini 做业务自动化的经验，对这一趋势表示欢迎。</p>
+<p><strong>크롱</strong> · @koreabuldak · 2026-10-07T08:43:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 31</p>
+<p><a href="https://x.com/koreabuldak/status/2107753698646462791">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/agtmengineer/status/2107418368886366345"><img src="https://pbs.twimg.com/media/HT8NivRXMAAyord?format=jpg&amp;name=medium" alt="Resolve Account Hierarchies with Jev: TAM Mapping for €2.2 · 原帖图片" width="100%"></a>

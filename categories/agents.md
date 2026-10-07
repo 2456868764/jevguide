@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 387 | 220 | 168 | 3.0M |
+| 389 | 220 | 170 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JAMINE_NFT/status/2107753184856776921"><img src="https://pbs.twimg.com/media/HUA-VwRWQAAxMuD?format=jpg&amp;name=medium" alt="Jev: Built for High-Frequency Software Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JAMINE_NFT/status/2107753184856776921">Jev: Built for High-Frequency Software Decisions</a></h3>
+<p>Jev is designed for software decisions that happen thousands of times a day, where latency, cost, and structured output are critical. Now available.</p>
+<p><strong>中文摘要：</strong>Jev 专为每天发生数千次的软件决策而设计，在这些场景中，延迟、成本和结构化输出至关重要。现已可用。</p>
+<p><strong>𝑱𝑨𝑴𝑰𝑵𝑶</strong> · @JAMINE_NFT · 2026-10-07T08:41:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/JAMINE_NFT/status/2107753184856776921">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/stefan_webb/status/2107518475430490292"><img src="https://pbs.twimg.com/media/HT9o4nYaUAAHW02?format=jpg&amp;name=medium" alt="Stefan Webb curates Awesome Jev lists, highlighting Jev decision models in AI coding tools · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/stefan_webb/status/2107518475430490292">Stefan Webb curates Awesome Jev lists, highlighting Jev decision models in AI coding tools</a></h3>
+<p>In a weekly roundup, Stefan Webb shares curated Awesome Jev lists and observes that Jev decision models are most widely applied in AI coding harnesses like Claude Code and OpenCode, including challenging tasks such as detecting Observation Prompts.</p>
+<p><strong>中文摘要：</strong>Stefan Webb 发布每周汇总，整理了多个 Awesome Jev 资源列表，并观察到 Jev 决策模型在 Claude Code、OpenCode 等 AI 编码 harness 中应用最多；例如编码智能体需要检测 Observation Prompt 等挑战。</p>
+<p><strong>Stefan Webb</strong> · @stefan_webb · 2026-10-06T17:08:54.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 170</p>
+<p><a href="https://x.com/stefan_webb/status/2107518475430490292">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/plutos_eth/status/2107448173773906244"><img src="https://pbs.twimg.com/amplify_video_thumb/2107447454849236992/img/jgPEdbuxiSYk_BRB.jpg" alt="Jev: Can&#39;t write a sentence, but faster · 原帖视频截图" width="100%"></a>

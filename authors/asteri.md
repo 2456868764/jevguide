@@ -1,9 +1,10 @@
 # Asteri
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-07T11:33:33.000Z | [1,142 GitHub Repos Built Around Jev Within a Week](https://x.com/Asteri_eth/status/2107796465976320033) | 社区实践 | Asteri | 512 |
 | 2026-10-05T11:01:43.000Z | [JEV Agent Ran Wild at 3AM](https://x.com/Asteri_eth/status/2107063682622451873) | 智能体 | Asteri | 276 |
 | 2026-10-02T13:33:33.000Z | [Jev Ecosystem: 10 Community-Built Repos](https://x.com/Asteri_eth/status/2106014727595807105) | 开发资源 | Asteri | 467 |
 | 2026-10-01T09:05:57.000Z | [Run Agent Decision Layer Locally on Mac, Compare Costs with Jev](https://x.com/Asteri_eth/status/2105584994538160441) | 智能体 | Asteri | 216 |

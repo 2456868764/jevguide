@@ -1,9 +1,10 @@
 # venus
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-07T11:31:19.000Z | [Jev-Powered Low-Latency HFT System](https://x.com/RitOnchain/status/2107795906385088755) | 金融 | venus | 598 |
 | 2026-10-01T12:34:01.000Z | [Quant Trader Uses Jev for Regime Detection](https://x.com/RitOnchain/status/2105637357051609374) | 金融 | venus | 153 |
 | 2026-09-29 | [A Quant Built a Real-Time Trading System with JEV](https://x.com/RitOnchain/status/2104896072938364971) | 金融 | venus | 40 |
 | 2026-09-27 | [Building a One-Person Hedge Fund with Opus 5.5 and Jev?](https://x.com/RitOnchain/status/2104241329098367485) | 金融 | venus | 146 |

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 255 | 145 | 112 | 1.2M |
+| 259 | 148 | 113 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/powlymoli/status/2107805819781955918"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107805642635558912/pu/img/rSziXdauRY2xPrIA.jpg" alt="Using Jev to Analyze Stock Recommendations from Transcripts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/powlymoli/status/2107805819781955918">Using Jev to Analyze Stock Recommendations from Transcripts</a></h3>
+<p>Paul Jasper demonstrates how to use Jev to extract company names from earnings call transcripts and determine whether someone is recommending buying stock or discussing products like an Apple Watch.</p>
+<p><strong>中文摘要：</strong>Paul Jasper展示了如何使用Jev从公司财报电话会议记录中提取公司名称，并判断某人是否在建议购买股票还是谈论苹果手表等产品。</p>
+<p><strong>Paul Jasper</strong> · @powlymoli · 2026-10-07T12:10:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/powlymoli/status/2107805819781955918">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/qkl2058/status/2107798094129627564"><img src="https://pbs.twimg.com/amplify_video_thumb/2107632226712317952/img/RYC88NgaVk-Gg1NX.jpg" alt="Jev-Powered Crypto Trading Desk: SiDian Strategies Integrated with OKX · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/qkl2058/status/2107798094129627564">Jev-Powered Crypto Trading Desk: SiDian Strategies Integrated with OKX</a></h3>
+<p>A user runs a crypto trading desk with Jev and SiDian, managing six strategies across spot and perpetuals, executing 24/7 on OKX, with every trade requiring approval.</p>
+<p><strong>中文摘要：</strong>用户使用Jev和SiDian运行加密货币交易台，管理六种策略，覆盖现货和永续合约，全天候在OKX上执行，每笔交易需用户审批。</p>
+<p><strong>区块链行情研究</strong> · @qkl2058 · 2026-10-07T11:40:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 507</p>
+<p><a href="https://x.com/qkl2058/status/2107798094129627564">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RitOnchain/status/2107795906385088755"><img src="https://pbs.twimg.com/media/HUBlCbJbgAAZXl8?format=jpg&amp;name=medium" alt="Jev-Powered Low-Latency HFT System · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RitOnchain/status/2107795906385088755">Jev-Powered Low-Latency HFT System</a></h3>
+<p>A single prompt builds a Jane Street-style low-latency HFT system where the Jev model judges order-flow toxicity without sitting in the order path, and hftbacktest replays tick data.</p>
+<p><strong>中文摘要：</strong>一段提示词可构建类似 Jane Street 风格的低延迟高频交易系统，其中 Jev 模型在不干扰订单路径的情况下判断订单流毒性，并通过 hftbacktest 回放 tick 数据。</p>
+<p><strong>venus</strong> · @RitOnchain · 2026-10-07T11:31:19.000Z</p>
+<p>💬 6 &nbsp; 🔁 2 &nbsp; ♡ 10 &nbsp; 📊 598</p>
+<p><a href="https://x.com/RitOnchain/status/2107795906385088755">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RetroChainer/status/2107790860607742136"><img src="https://pbs.twimg.com/amplify_video_thumb/2107789863302868992/img/Asg40oAiF2QlEDiv.jpg" alt="Jev-Powered Crypto Trading Desk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RetroChainer/status/2107790860607742136">Jev-Powered Crypto Trading Desk</a></h3>
+<p>The post showcases a crypto trading system where Jev makes decisions and four trading agents execute six strategies across spot and perps, reporting inflow and outflow figures.</p>
+<p><strong>中文摘要：</strong>帖子展示了由Jev决策、四个交易代理执行的多策略加密货币交易系统，涵盖现货和永续合约，并报告了出入金数据。</p>
+<p><strong>RetroChainer</strong> · @RetroChainer · 2026-10-07T11:11:16.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 581</p>
+<p><a href="https://x.com/RetroChainer/status/2107790860607742136">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alpha404ai/status/2107776699198750855"><img src="https://pbs.twimg.com/amplify_video_thumb/2107550358750797825/img/NMRuO92d3SfhYl2S.jpg" alt="JEV-Powered Triple-Confirmation Trading Bot · 原帖视频截图" width="100%"></a>

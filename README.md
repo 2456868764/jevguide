@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5185</strong><br>curated posts</td>
-<td align="center"><strong>2653</strong><br>original videos</td>
+<td align="center"><strong>5208</strong><br>curated posts</td>
+<td align="center"><strong>2667</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>905</strong> showcases · <strong>374</strong> videos</p>
+<p><strong>910</strong> showcases · <strong>377</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>530</strong> showcases · <strong>271</strong> videos</p>
+<p><strong>531</strong> showcases · <strong>272</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>406</strong> showcases · <strong>186</strong> videos</p>
+<p><strong>407</strong> showcases · <strong>187</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>391</strong> showcases · <strong>221</strong> videos</p>
+<p><strong>392</strong> showcases · <strong>221</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>379</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>381</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>340</strong> showcases · <strong>137</strong> videos</p>
+<p><strong>341</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>255</strong> showcases · <strong>145</strong> videos</p>
+<p><strong>259</strong> showcases · <strong>148</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>217</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>218</strong> showcases · <strong>144</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>136</strong> showcases · <strong>102</strong> videos</p>
+<p><strong>137</strong> showcases · <strong>103</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>105</strong> showcases · <strong>55</strong> videos</p>
+<p><strong>106</strong> showcases · <strong>55</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>76</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>77</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>60</strong> showcases · <strong>19</strong> videos</p>
+<p><strong>61</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,13 +148,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>36</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>37</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>36</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>37</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
-<p><strong>22</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>23</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/Seanku/status/2107783667062104504"><img src="https://pbs.twimg.com/media/HUBaEjPaoAAJ5Vs?format=jpg&amp;name=medium" alt="Kai Model vs TypeSafe Jev: Decision-Making Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Seanku/status/2107783667062104504">Kai Model vs TypeSafe Jev: Decision-Making Comparison</a></h3>
-<p>The post claims that the vLLM Kai model beats Jev decision-making by 0.1, with a video comparing it to TypeSafe Jev-style alternatives.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/iSegar0/status/2107815232366112948"><img src="https://pbs.twimg.com/amplify_video_thumb/2107814856803880960/img/KmBYMPseXzMamDkB.jpg" alt="OpenAI Launches Decisions API, Apparently Responding to Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/iSegar0/status/2107815232366112948">OpenAI Launches Decisions API, Apparently Responding to Jev</a></h3>
+<p>OpenAI reportedly announced Decisions API for instant decisions among options, seen as a response to the Jev model.</p>
+<p><strong>274</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 274</p>
+<p><strong>iSegar0 || سگارو</strong> · @iSegar0</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/mertcobanov/status/2107782976134119652"><img src="https://pbs.twimg.com/media/HUBXd0oXAAAqPKc?format=jpg&amp;name=900x900" alt="Hosting Jev-style models with Ollama · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mertcobanov/status/2107782976134119652">Hosting Jev-style models with Ollama</a></h3>
-<p>The author reflects on their internet footprint and mentions developing an Ollama-based approach to host Jev-style models, sharing related practices and encounters.</p>
-<p><strong>389</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 389</p>
-<p><strong>Mert Cobanov</strong> · @mertcobanov</p>
+<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/XLNC_CO/status/2107813033800241546"><img src="https://pbs.twimg.com/media/HUB0xNCakAEKFbd?format=png&amp;name=medium" alt="Bias Issues of Jev-as-Judge in High-Stakes AI Evals · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/XLNC_CO/status/2107813033800241546">Bias Issues of Jev-as-Judge in High-Stakes AI Evals</a></h3>
+<p>The user points out that Jev-as-Judge has severity and leniency biases that must be removed to be useful for high-stakes AI evaluations.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>XLNC</strong> · @XLNC_CO</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/vishnu_aniyan/status/2107782534654546075"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Is Jev Being Outdated by Platform Routing? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/vishnu_aniyan/status/2107782534654546075">Is Jev Being Outdated by Platform Routing?</a></h3>
-<p>The post argues Jev routing may be overtaken by Cloudflare Clef, Decisions API, and Claude&#39;s upcoming features, as model routing becomes a platform-level load balancer.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Vishnu Aniyan</strong> · @vishnu_aniyan</p>
+<p><strong>03</strong> &nbsp; <code>医疗</code> <code>原帖图片</code></p>
+<a href="https://x.com/MaziyarPanahi/status/2107810672910508527"><img src="https://pbs.twimg.com/media/HUBb4ByXsAAQ6EL?format=jpg&amp;name=medium" alt="Jev and pplx-decider handle 669 clinical decisions for about 3 cents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MaziyarPanahi/status/2107810672910508527">Jev and pplx-decider handle 669 clinical decisions for about 3 cents</a></h3>
+<p>This post shares cost and speed data for Jev and other models on clinical decision tasks, comparing total cost across 9 APIs and noting the fastest 3GB local model responds in 284 ms.</p>
+<p><strong>302</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 302</p>
+<p><strong>Maziyar PANAHI</strong> · @MaziyarPanahi</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
-<a href="https://x.com/MrSanders/status/2107781451580137586"><img src="https://pbs.twimg.com/amplify_video_thumb/2107780752288919553/img/k5sFPPptd3YsxWGM.jpg" alt="Building an Active Recall Study App with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MrSanders/status/2107781451580137586">Building an Active Recall Study App with Jev</a></h3>
-<p>A developer builds a personal study app that uses the Jev model to classify and grade answers, incorporating neuroscience methods like active recall and spaced repetition for better learning.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Luis Sanchez</strong> · @MrSanders</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/yilgenisalfonzo/status/2107807348651651338"><img src="https://pbs.twimg.com/media/HUBvjCpX0AAA33S?format=jpg&amp;name=medium" alt="GPT Researcher Integrates Jev for Better Source Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yilgenisalfonzo/status/2107807348651651338">GPT Researcher Integrates Jev for Better Source Selection</a></h3>
+<p>According to the post, Jev is used to judge source relevance. In a 28-task comparison, relevant information increased while costs remained controlled, reflecting an improvement in post-retrieval filtering.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>夢桜@りふぃるらばーず⭐</strong> · @yilgenisalfonzo</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/Seanku/status/2107783667062104504"><img src="https://pbs.twimg.com/media/HUBaEjPaoAAJ5Vs?format=jpg&amp;name=medium" alt="Kai Model vs TypeSafe Jev: Decision-Making Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Seanku/status/2107783667062104504">Kai Model vs TypeSafe Jev: Decision-Making Comparison</a></h3>
-<p>The post claims that the vLLM Kai model beats Jev decision-making by 0.1, with a video comparing it to TypeSafe Jev-style alternatives.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Pinaki Dasgupta ,MBA ✨</strong> · @Seanku</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/iSegar0/status/2107815232366112948"><img src="https://pbs.twimg.com/amplify_video_thumb/2107814856803880960/img/KmBYMPseXzMamDkB.jpg" alt="OpenAI Launches Decisions API, Apparently Responding to Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/iSegar0/status/2107815232366112948">OpenAI Launches Decisions API, Apparently Responding to Jev</a></h3>
+<p>OpenAI reportedly announced Decisions API for instant decisions among options, seen as a response to the Jev model.</p>
+<p><strong>274</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 274</p>
+<p><strong>iSegar0 || سگارو</strong> · @iSegar0</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
-<a href="https://x.com/MrSanders/status/2107781451580137586"><img src="https://pbs.twimg.com/amplify_video_thumb/2107780752288919553/img/k5sFPPptd3YsxWGM.jpg" alt="Building an Active Recall Study App with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MrSanders/status/2107781451580137586">Building an Active Recall Study App with Jev</a></h3>
-<p>A developer builds a personal study app that uses the Jev model to classify and grade answers, incorporating neuroscience methods like active recall and spaced repetition for better learning.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Luis Sanchez</strong> · @MrSanders</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/yilgenisalfonzo/status/2107807348651651338"><img src="https://pbs.twimg.com/media/HUBvjCpX0AAA33S?format=jpg&amp;name=medium" alt="GPT Researcher Integrates Jev for Better Source Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yilgenisalfonzo/status/2107807348651651338">GPT Researcher Integrates Jev for Better Source Selection</a></h3>
+<p>According to the post, Jev is used to judge source relevance. In a 28-task comparison, relevant information increased while costs remained controlled, reflecting an improvement in post-retrieval filtering.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>夢桜@りふぃるらばーず⭐</strong> · @yilgenisalfonzo</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/HariShanbhog/status/2107780159306936584"><img src="https://pbs.twimg.com/media/HUBVDEBa4AAek8C?format=jpg&amp;name=medium" alt="A Different Take on Jev and Decision Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/HariShanbhog/status/2107780159306936584">A Different Take on Jev and Decision Models</a></h3>
-<p>Discusses whether AI systems need a dedicated routing decision model, arguing that well-modeled domains make the structure settle where things go.</p>
-<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Hari Prakash S</strong> · @HariShanbhog</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/powlymoli/status/2107805819781955918"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107805642635558912/pu/img/rSziXdauRY2xPrIA.jpg" alt="Using Jev to Analyze Stock Recommendations from Transcripts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/powlymoli/status/2107805819781955918">Using Jev to Analyze Stock Recommendations from Transcripts</a></h3>
+<p>Paul Jasper demonstrates how to use Jev to extract company names from earnings call transcripts and determine whether someone is recommending buying stock or discussing products like an Apple Watch.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Paul Jasper</strong> · @powlymoli</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/rehan_shei/status/2107776318532464702"><img src="https://pbs.twimg.com/amplify_video_thumb/2107774419108274176/img/BdKOSd1a-C6PgsJ1.jpg" alt="open-annie: Open-source real-time motion capture with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rehan_shei/status/2107776318532464702">open-annie: Open-source real-time motion capture with Jev</a></h3>
-<p>The open-source project open-annie enables GPT-Live conversations in the browser, using Jev to capture faces, gestures, and dances in about 120 ms, all rendered in real time. Code is publicly available.</p>
-<p><strong>256</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 256</p>
-<p><strong>Rehan Sheikh</strong> · @rehan_shei</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/fuzzyxbt/status/2107799333789696152"><img src="https://pbs.twimg.com/amplify_video_thumb/2107799248683048960/img/-66yLWSn1Y9ZuVe5.jpg" alt="Jev filters real messages from X DMs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/fuzzyxbt/status/2107799333789696152">Jev filters real messages from X DMs</a></h3>
+<p>The author processed 6,214 DMs with three agents: OpenAI Dots read the inbox, Jev decided what was worth an answer, and Opus 5.5 wrote replies. Jev filtered out 2,907 bots, 1,388 scams, and 1,316 spam messages before Opus saw a single one.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>fuzzy</strong> · @fuzzyxbt</p>
 </td>
 </tr>
 </table>

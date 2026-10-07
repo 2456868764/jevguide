@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 379 | 159 | 220 | 802K |
+| 381 | 160 | 221 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yilgenisalfonzo/status/2107807348651651338"><img src="https://pbs.twimg.com/media/HUBvjCpX0AAA33S?format=jpg&amp;name=medium" alt="GPT Researcher Integrates Jev for Better Source Selection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yilgenisalfonzo/status/2107807348651651338">GPT Researcher Integrates Jev for Better Source Selection</a></h3>
+<p>According to the post, Jev is used to judge source relevance. In a 28-task comparison, relevant information increased while costs remained controlled, reflecting an improvement in post-retrieval filtering.</p>
+<p><strong>中文摘要：</strong>据帖文，Jev被用于判断资料相关性。在28项任务对比中，保持成本的同时，相关信息有所增加，体现检索后筛选环节的改进。</p>
+<p><strong>夢桜@りふぃるらばーず⭐</strong> · @yilgenisalfonzo · 2026-10-07T12:16:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/yilgenisalfonzo/status/2107807348651651338">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LShivkumarreddy/status/2107794149126836395"><img src="https://pbs.twimg.com/amplify_video_thumb/2107793848948973568/img/7g1bj3UoBfngKup2.jpg" alt="OpenAI Decisions API Could Be a Jev Killer? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LShivkumarreddy/status/2107794149126836395">OpenAI Decisions API Could Be a Jev Killer?</a></h3>
+<p>Someone predicts OpenAI Decisions API might be an instant hit thanks to image support, posing a threat to Jev.</p>
+<p><strong>中文摘要：</strong>有人预测 OpenAI Decisions API 凭借图像支持可能迅速走红，并对 Jev 构成威胁。</p>
+<p><strong>Shiva</strong> · @LShivkumarreddy · 2026-10-07T11:24:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
+<p><a href="https://x.com/LShivkumarreddy/status/2107794149126836395">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/marco_derossi/status/2107744336456663292"><img src="https://pbs.twimg.com/media/HUA2NRNXkAAfwOb?format=png&amp;name=900x900" alt="OpenAI Welcomed to the Jev Models Board · 原帖图片" width="100%"></a>

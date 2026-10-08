@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 410 | 229 | 182 | 3.0M |
+| 414 | 231 | 184 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenRouter/status/2108206463755944219"><img src="https://pbs.twimg.com/media/HUHamtlWYAA4rTd?format=jpg&amp;name=medium" alt="OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OpenRouter/status/2108206463755944219">OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows</a></h3>
+<p>OpenRouter released a model performance comparison, stating GPT-6 Luna is the fastest decision model today (180ms on global requests), followed by Jev and Perplexity Decider.</p>
+<p><strong>中文摘要：</strong>OpenRouter发布模型性能对比，称GPT-6 Luna为当前最快决策模型（全球请求延迟180ms），Jev和Perplexity Decider分列其后。</p>
+<p><strong>OpenRouter</strong> · @OpenRouter · 2026-10-08T14:42:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 791</p>
+<p><a href="https://x.com/OpenRouter/status/2108206463755944219">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/birdomens/status/2108201591069155471"><img src="https://pbs.twimg.com/amplify_video_thumb/2108199846855200768/img/MJhgM4cFy96pRPeX.jpg" alt="Functionality unlock: proactive agents with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/birdomens/status/2108201591069155471">Functionality unlock: proactive agents with Jev</a></h3>
+<p>Kalle notes that agents used to wait to be asked, but classification APIs like OpenAI&#39;s Decisions API and Jev from TypeSafe make it cheap to run always-on proactive agents that watch for opportunities and threats.</p>
+<p><strong>中文摘要：</strong>Kalle 提到，过去代理大多等待被调用，而现在借助 OpenAI Decisions API 和 TypeSafe 的 Jev 等分类 API，可以低成本构建始终在线的主动代理，实时监控机会与威胁。</p>
+<p><strong>Kalle</strong> · @birdomens · 2026-10-08T14:23:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/birdomens/status/2108201591069155471">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/blast1337305/status/2108195746138972449"><img src="https://pbs.twimg.com/media/HUHQzlHaQAEHsJa?format=jpg&amp;name=medium" alt="JEV: AI Model Exclusively for Decision-Making Without Text Generation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/blast1337305/status/2108195746138972449">JEV: AI Model Exclusively for Decision-Making Without Text Generation</a></h3>
+<p>The post mentions JEV as an AI model applying System 1 and System 2 concepts, focusing on judgment/decision while not generating text, and notes that such a concept already exists.</p>
+<p><strong>中文摘要：</strong>帖子提到JEV是应用系统1和系统2概念、不生成文本而专注于判断与决策的AI模型，并感叹这种概念已经出现。</p>
+<p><strong>blast</strong> · @blast1337305 · 2026-10-08T14:00:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/blast1337305/status/2108195746138972449">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tezzarc/status/2108193194101928223"><img src="https://pbs.twimg.com/amplify_video_thumb/2107998365535309824/img/FlSWS9JRHWMneJGm.jpg" alt="Jev Dynamically Controls Reasoning Effort: Half the Cost on Coding Tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tezzarc/status/2108193194101928223">Jev Dynamically Controls Reasoning Effort: Half the Cost on Coding Tasks</a></h3>
+<p>On the same 6 coding tasks, using Jev to pick reasoning effort step by step reduced thinking tokens from 64,899 to 954, time from 913s to 387s, and cost from $3.76 to $1.70, while still passing 12/12 hidden checks.</p>
+<p><strong>中文摘要：</strong>在相同6个编码任务上，使用 Jev 逐步选择推理强度，相比最大推理，思考token从64,899降至954，耗时从913秒降至387秒，成本从$3.76降至$1.70，同时保持12/12隐藏检查全部通过。</p>
+<p><strong>tezarc</strong> · @tezzarc · 2026-10-08T13:50:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><a href="https://x.com/tezzarc/status/2108193194101928223">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OpenBMB/status/2108188162677944478"><img src="https://pbs.twimg.com/media/HUGrM1_b0AAKrvA?format=jpg&amp;name=medium" alt="Jev sparks a question: why generate a paragraph when an agent needs to decide? · 原帖图片" width="100%"></a>

@@ -4,12 +4,95 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 950 | 389 | 565 | 3.0M |
+| 958 | 394 | 568 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/annabellschfr/status/2108206670916800574">Racing Jev on sentiment classification</a></h3>
+<p>The user races TypeSafe AI&#39;s Jev against OpenAI&#39;s decision API and 5.6 Luna on sentiment classification, showcasing Jev&#39;s real-world usage.</p>
+<p><strong>中文摘要：</strong>用户将TypeSafe AI的Jev与OpenAI decision API及5.6 Luna在情感分类任务上进行对比测试，展示Jev的实际应用表现。</p>
+<p><strong>Annabell</strong> · @annabellschfr · 2026-10-08T14:43:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/annabellschfr/status/2108206670916800574">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kenonews/status/2108203869490528707"><img src="https://pbs.twimg.com/amplify_video_thumb/2108203586853257218/img/kzXr9zEndDfxC9l-.jpg" alt="Developer complains about Jev image handling, switches to OpenAI API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kenonews/status/2108203869490528707">Developer complains about Jev image handling, switches to OpenAI API</a></h3>
+<p>A developer says they are done with workarounds for image processing in Jev, switches to OpenAI&#39;s Decisions API for direct image handling, and mentions still selling CAPTCHA solutions in Chinese marketplaces.</p>
+<p><strong>中文摘要：</strong>一位开发者表示受够了Jev在处理图片时的变通麻烦，改用OpenAI的Decisions API直接处理图像，并透露仍在中文市场销售CAPTCHA解决方案。</p>
+<p><strong>keno</strong> · @kenonews · 2026-10-08T14:32:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/kenonews/status/2108203869490528707">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Klonzu/status/2108202336375967838"><img src="https://pbs.twimg.com/amplify_video_thumb/2108202058868289536/img/sLsuUGwme4GVECo3.jpg" alt="How Jev Engineering Reshapes AI Data Pipelines · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Klonzu/status/2108202336375967838">How Jev Engineering Reshapes AI Data Pipelines</a></h3>
+<p>The author shares a breakdown that changed how they build AI data pipelines. A Stanford professor&#39;s data science system sold for $57,500, powered by a decision layer built around Jev engineering, rather than sending every result to an LLM for explanation.</p>
+<p><strong>中文摘要：</strong>作者分享了一次经历，改变了构建AI数据管道的方式。提到斯坦福教授的数据科学系统以57500美元售出，其核心是一个围绕Jev工程构建的决策层，而不是简单将结果交给LLM解释。</p>
+<p><strong>Klonzu</strong> · @Klonzu · 2026-10-08T14:26:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 34</p>
+<p><a href="https://x.com/Klonzu/status/2108202336375967838">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/megadevhq/status/2108199231483765046"><img src="https://pbs.twimg.com/media/HUHTnF_WMAAuWnt?format=jpg&amp;name=medium" alt="Jev Live Event with John Lindquist Starting Soon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/megadevhq/status/2108199231483765046">Jev Live Event with John Lindquist Starting Soon</a></h3>
+<p>Over 2,560 people have signed up for the Jev-related event. The live stream starts at 8:30 AM PT / 5:30 PM CEST.</p>
+<p><strong>中文摘要：</strong>Jev 相关活动已吸引超过2560人报名，直播将于太平洋时间上午8:30 / 中欧时间下午5:30开始。</p>
+<p><strong>MEGA</strong> · @megadevhq · 2026-10-08T14:13:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 47</p>
+<p><a href="https://x.com/megadevhq/status/2108199231483765046">在 X 查看原帖</a> · <a href="https://t.co/SVrxIdq32t">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kikelopezdesign/status/2108196030185668728"><img src="https://pbs.twimg.com/amplify_video_thumb/2108196010111672320/img/rj50i8L2ea0jo8Qt.jpg" alt="Developer Builds Situation-Based Emoji Search with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kikelopezdesign/status/2108196030185668728">Developer Builds Situation-Based Emoji Search with Jev</a></h3>
+<p>Kike Lopez used TypeSafe AI&#39;s Jev model to build an emoji search tool where users describe a situation (like &#39;when your boss texts you on a Sunday&#39;) and get matching emojis, showcasing Jev in a creative real-world use.</p>
+<p><strong>中文摘要：</strong>Kike Lopez 使用 TypeSafe AI 的 Jev 模型制作了一个 emoji 搜索工具，用户输入情景描述（如“老板周日给你发短信”）即可获得匹配的 emoji，展示了 Jev 在创意应用中的实际用法。</p>
+<p><strong>Kike Lopez</strong> · @kikelopezdesign · 2026-10-08T14:01:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/kikelopezdesign/status/2108196030185668728">在 X 查看原帖</a> · <a href="https://t.co/UF7TRbwxeD">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/davekiss/status/2108195822902952432"><img src="https://pbs.twimg.com/amplify_video_thumb/2108195633534324736/img/q9fNB3wL-ntIgYvF.jpg" alt="Jev dominates frontier decision APIs in a Tetris showdown · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davekiss/status/2108195822902952432">Jev dominates frontier decision APIs in a Tetris showdown</a></h3>
+<p>A developer pitted Jev against OpenAI Decisions in a head-to-head Tetris battle with the same game seed. Jev cleared 162 lines, averaged 140ms per move, and cost $0.028, far outperforming the competitor.</p>
+<p><strong>中文摘要：</strong>开发者使用相同游戏种子让Jev与OpenAI Decisions进行头对头俄罗斯方块对决，Jev以162行消除、单步140ms、总成本0.028美元大幅领先。</p>
+<p><strong>Dave Kiss</strong> · @davekiss · 2026-10-08T14:00:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 80</p>
+<p><a href="https://x.com/davekiss/status/2108195822902952432">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ArchiveExplorer/status/2108192539077456096"><img src="https://pbs.twimg.com/media/HUHNbGNW0AASY_l?format=png&amp;name=medium" alt="JEV + Coding Agent: A Killer Combo · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ArchiveExplorer/status/2108192539077456096">JEV + Coding Agent: A Killer Combo</a></h3>
+<p>The post shares a configuration where JEV handles routing and checks in a coding agent, Haiku does the work, and Opus takes hard cases, calling it extremely effective.</p>
+<p><strong>中文摘要：</strong>帖主分享将JEV路由和检查功能集成到编码代理中，由Haiku执行工作，Opus处理复杂案例，称其为极其有效的配置。</p>
+<p><strong>Archive</strong> · @ArchiveExplorer · 2026-10-08T13:47:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 415</p>
+<p><a href="https://x.com/ArchiveExplorer/status/2108192539077456096">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/merccante/status/2108188385135173878"><img src="https://pbs.twimg.com/amplify_video_thumb/2108188178083442688/img/zC4JDBwkdpdB46mm.jpg" alt="Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 68</p>
 <p><a href="https://x.com/merccante/status/2108188385135173878">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YoussefHosni951/status/2108187561109631253"><img src="https://pbs.twimg.com/media/HUHH61uWQAAq-u-?format=jpg&amp;name=medium" alt="Free Live Session: Building Decision Layers for AI Agents Using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
 <p><a href="https://x.com/YoussefHosni951/status/2108187561109631253">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/samoweb3/status/2108185719495909420"><img src="https://pbs.twimg.com/media/HUHHvX5asAA0teU?format=png&amp;name=medium" alt="JEV now has 12 competitors · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/samoweb3/status/2108185719495909420">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/C_2049s/status/2108182905658986914"><img src="https://pbs.twimg.com/media/HUHE_7QaYAA391U?format=jpg&amp;name=900x900" alt="User Complains About 250K Points Deducted for Calling Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/C_2049s/status/2108182905658986914">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/analogalok/status/2108167731380154709"><img src="https://pbs.twimg.com/media/HUG3HdqakAAU3e5?format=jpg&amp;name=medium" alt="Jev 1.13 Tops OpenRouter&#39;s Weekly Decision Model Rankings · 原帖图片" width="100%"></a>
 <br>
@@ -68,6 +151,19 @@
 <p><strong>Alok</strong> · @analogalok · 2026-10-08T12:08:49.000Z</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 395</p>
 <p><a href="https://x.com/analogalok/status/2108167731380154709">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/k_adachi_01/status/2108157303405060283"><img src="https://pbs.twimg.com/media/HUGt4_6bkAAYQXh?format=jpg&amp;name=medium" alt="Jev as Judge Share · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/k_adachi_01/status/2108157303405060283">Jev as Judge Share</a></h3>
+<p>Learned about the interesting &quot;Jev as Judge&quot; from umitsu at JAWS UG Tokyo AI Builders Day 2026.</p>
+<p><strong>中文摘要：</strong>在JAWS UG Tokyo AI Builders Day 2026上，从umitsu先生那里了解到感兴趣的“Jev as Judge”。</p>
+<p><strong>Kazuki_Adachi</strong> · @k_adachi_01 · 2026-10-08T11:27:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
+<p><a href="https://x.com/k_adachi_01/status/2108157303405060283">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/eandualem/status/2108157205883257084"><img src="https://pbs.twimg.com/media/HUGNZgXX0AAl_HX?format=jpg&amp;name=medium" alt="Jev stands out in dictation error-correction comparison · 原帖图片" width="100%"></a>

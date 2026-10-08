@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5369</strong><br>curated posts</td>
-<td align="center"><strong>2732</strong><br>original videos</td>
+<td align="center"><strong>5387</strong><br>curated posts</td>
+<td align="center"><strong>2740</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>950</strong> showcases · <strong>389</strong> videos</p>
+<p><strong>958</strong> showcases · <strong>394</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>558</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>560</strong> showcases · <strong>286</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>426</strong> showcases · <strong>197</strong> videos</p>
+<p><strong>427</strong> showcases · <strong>197</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>410</strong> showcases · <strong>229</strong> videos</p>
+<p><strong>414</strong> showcases · <strong>231</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>345</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>346</strong> showcases · <strong>140</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>112</strong> showcases · <strong>85</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>82</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>83</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/seitkk/status/2108191691715035139"><img src="https://pbs.twimg.com/media/HUHMrxNaEAAoXIY?format=jpg&amp;name=medium" alt="Jev Model for Fast In-Game Decision Making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/seitkk/status/2108191691715035139">Jev Model for Fast In-Game Decision Making</a></h3>
-<p>TypeSafe&#39;s Jev, a fast System One model, makes quick picks from given options. In-game, a rules layer filters legal moves and spells, while Jev chooses where to place runes.</p>
-<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Philip</strong> · @seitkk</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/annabellschfr/status/2108206670916800574">Racing Jev on sentiment classification</a></h3>
+<p>The user races TypeSafe AI&#39;s Jev against OpenAI&#39;s decision API and 5.6 Luna on sentiment classification, showcasing Jev&#39;s real-world usage.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Annabell</strong> · @annabellschfr</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/Aedge_Bricht/status/2108190853873508673"><img src="https://pbs.twimg.com/media/HUHMYmSWEAAXsUZ?format=png&amp;name=medium" alt="Question Design Matters More Than the Model: Jev vs Laya Test · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Aedge_Bricht/status/2108190853873508673">Question Design Matters More Than the Model: Jev vs Laya Test</a></h3>
-<p>In the same 430-case test, Jev let through 68–92% of false agent reports and Laya 84–88% when shown evidence; after asking one literal question instead, Jev let through only about 1% of wrong counts and files. The question matters more than the model.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Houman</strong> · @Aedge_Bricht</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/OpenRouter/status/2108206463755944219"><img src="https://pbs.twimg.com/media/HUHamtlWYAA4rTd?format=jpg&amp;name=medium" alt="OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/OpenRouter/status/2108206463755944219">OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows</a></h3>
+<p>OpenRouter released a model performance comparison, stating GPT-6 Luna is the fastest decision model today (180ms on global requests), followed by Jev and Perplexity Decider.</p>
+<p><strong>791</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 791</p>
+<p><strong>OpenRouter</strong> · @OpenRouter</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/0x_rody/status/2108190728023122305"><img src="https://pbs.twimg.com/amplify_video_thumb/2108189306036604928/img/YDOchMzo8G0-N01H.jpg" alt="Jev: A Tiny Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0x_rody/status/2108190728023122305">Jev: A Tiny Decision Model</a></h3>
-<p>The post points out that we&#39;ve been using our smartest frontier models for basic yes/no decisions, wasting their capability. Jev flips that by being a tiny decision model for simple tasks.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 14</p>
-<p><strong>rody</strong> · @0x_rody</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/StatAP_papers/status/2108205070688903466"><img src="https://pbs.twimg.com/media/HUHZVxTWIAACGV0?format=png&amp;name=medium" alt="Estimating Uncoded Crash Factors with Tabular Foundation and System One Models (Including Jev) · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/StatAP_papers/status/2108205070688903466">Estimating Uncoded Crash Factors with Tabular Foundation and System One Models (Including Jev)</a></h3>
+<p>This post shares an academic paper that explores using models such as Kumo Tabular and Jev (a System One model) to estimate uncoded crash factors, with a link to the code repository.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Applications Papers</strong> · @StatAP_papers</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/merccante/status/2108188385135173878"><img src="https://pbs.twimg.com/amplify_video_thumb/2108188178083442688/img/zC4JDBwkdpdB46mm.jpg" alt="Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/merccante/status/2108188385135173878">Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls</a></h3>
-<p>User shares using jev as a scorer with Haiku 5.5, Sonnet 5.5, and Opus 5.5 to build a cost-optimized smart model stack. By letting each call climb only as far as the task requires, the cost for 1,000 calls drops from $18.00 (all Opus 5.5) to $1.30.</p>
-<p><strong>68</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 68</p>
-<p><strong>mercante</strong> · @merccante</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/goon_nguyen/status/2108204671328542878"><img src="https://pbs.twimg.com/media/HUHY-ITboAAhSwo?format=jpg&amp;name=medium" alt="Jev wins in integration · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/goon_nguyen/status/2108204671328542878">Jev wins in integration</a></h3>
+<p>User shares that while integrating several models into their products, Jev always won with context in their language.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Duy /zuey/</strong> · @goon_nguyen</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/seitkk/status/2108191691715035139"><img src="https://pbs.twimg.com/media/HUHMrxNaEAAoXIY?format=jpg&amp;name=medium" alt="Jev Model for Fast In-Game Decision Making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/seitkk/status/2108191691715035139">Jev Model for Fast In-Game Decision Making</a></h3>
-<p>TypeSafe&#39;s Jev, a fast System One model, makes quick picks from given options. In-game, a rules layer filters legal moves and spells, while Jev chooses where to place runes.</p>
-<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Philip</strong> · @seitkk</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/annabellschfr/status/2108206670916800574">Racing Jev on sentiment classification</a></h3>
+<p>The user races TypeSafe AI&#39;s Jev against OpenAI&#39;s decision API and 5.6 Luna on sentiment classification, showcasing Jev&#39;s real-world usage.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Annabell</strong> · @annabellschfr</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/merccante/status/2108188385135173878"><img src="https://pbs.twimg.com/amplify_video_thumb/2108188178083442688/img/zC4JDBwkdpdB46mm.jpg" alt="Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/merccante/status/2108188385135173878">Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls</a></h3>
-<p>User shares using jev as a scorer with Haiku 5.5, Sonnet 5.5, and Opus 5.5 to build a cost-optimized smart model stack. By letting each call climb only as far as the task requires, the cost for 1,000 calls drops from $18.00 (all Opus 5.5) to $1.30.</p>
-<p><strong>68</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 68</p>
-<p><strong>mercante</strong> · @merccante</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/goon_nguyen/status/2108204671328542878"><img src="https://pbs.twimg.com/media/HUHY-ITboAAhSwo?format=jpg&amp;name=medium" alt="Jev wins in integration · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/goon_nguyen/status/2108204671328542878">Jev wins in integration</a></h3>
+<p>User shares that while integrating several models into their products, Jev always won with context in their language.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Duy /zuey/</strong> · @goon_nguyen</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/OpenBMB/status/2108188162677944478"><img src="https://pbs.twimg.com/media/HUGrM1_b0AAKrvA?format=jpg&amp;name=medium" alt="Jev sparks a question: why generate a paragraph when an agent needs to decide? · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/OpenBMB/status/2108188162677944478">Jev sparks a question: why generate a paragraph when an agent needs to decide?</a></h3>
-<p>OpenBMB discusses how Jev raises the question: why generate a paragraph when an agent only needs to make a decision? It highlights steps like route selection, input classification, and next-action choice in AI workflows as clear choices from known options.</p>
-<p><strong>101</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 101</p>
-<p><strong>OpenBMB</strong> · @OpenBMB</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/kenonews/status/2108203869490528707"><img src="https://pbs.twimg.com/amplify_video_thumb/2108203586853257218/img/kzXr9zEndDfxC9l-.jpg" alt="Developer complains about Jev image handling, switches to OpenAI API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kenonews/status/2108203869490528707">Developer complains about Jev image handling, switches to OpenAI API</a></h3>
+<p>A developer says they are done with workarounds for image processing in Jev, switches to OpenAI&#39;s Decisions API for direct image handling, and mentions still selling CAPTCHA solutions in Chinese marketplaces.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>keno</strong> · @kenonews</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2108185669512073256"><img src="https://pbs.twimg.com/amplify_video_thumb/2108185408068632576/img/jwgX8pmtG-zB_7Ag.jpg" alt="Jev: Millisecond Responses, Low-Cost AI Answers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2108185669512073256">Jev: Millisecond Responses, Low-Cost AI Answers</a></h3>
-<p>Jev answers questions in 70–500 ms at a fraction of the cost of word-by-word chat models. For 1,000 emails with 7 questions each, a chat model takes 5 minutes and $0.62—Jev is faster and cheaper.</p>
-<p><strong>654</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 654</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/codegirl007/status/2108196716759687278"><img src="https://pbs.twimg.com/media/HUF8gvwaoAA-Zgq?format=jpg&amp;name=medium" alt="Developer benchmarks Jev model in code linter · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/codegirl007/status/2108196716759687278">Developer benchmarks Jev model in code linter</a></h3>
+<p>The author shares timing results for multiple decision model providers supported by their code taste linter, including jev-latest (TypeSafe and OpenRouter), gpt-6-luna, Cloudflare clef, and clef-flash, noting they&#39;ve used the TypeSafe one the most.</p>
+<p><strong>68</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 68</p>
+<p><strong>codegirl007</strong> · @codegirl007</p>
 </td>
 </tr>
 </table>

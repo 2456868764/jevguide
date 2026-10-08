@@ -1,9 +1,10 @@
 # Jon Kraayenbrink
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T14:20:26.000Z | [New website for JEV](https://x.com/kraayenJon/status/2108200852561543411) | 产品发布 | Jon Kraayenbrink | 6 |
 | 2026-09-30T13:12:00.000Z | [Jev makes LinkedIn saved posts searchable](https://x.com/kraayenJon/status/2105284527472226410) | 社区实践 | Jon Kraayenbrink | 26 |
 | 2026-09-25 | [Open-Source Jev Alternatives Collection](https://x.com/kraayenJon/status/2103419263746744361) | 开发资源 | Jon Kraayenbrink | 40 |
 | 2026-09-23 | [Welcome @jevhubsh to Made With JEV](https://x.com/kraayenJon/status/2102780660008308800) | 社区实践 | Jon Kraayenbrink | 28 |

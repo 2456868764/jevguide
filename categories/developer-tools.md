@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 558 | 286 | 274 | 3.6M |
+| 560 | 286 | 276 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/goon_nguyen/status/2108204671328542878"><img src="https://pbs.twimg.com/media/HUHY-ITboAAhSwo?format=jpg&amp;name=medium" alt="Jev wins in integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/goon_nguyen/status/2108204671328542878">Jev wins in integration</a></h3>
+<p>User shares that while integrating several models into their products, Jev always won with context in their language.</p>
+<p><strong>中文摘要：</strong>用户分享在将自己的产品集成过程中比较多个模型，Jev在其语言上下文中始终胜出。</p>
+<p><strong>Duy /zuey/</strong> · @goon_nguyen · 2026-10-08T14:35:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/goon_nguyen/status/2108204671328542878">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/codegirl007/status/2108196716759687278"><img src="https://pbs.twimg.com/media/HUF8gvwaoAA-Zgq?format=jpg&amp;name=medium" alt="Developer benchmarks Jev model in code linter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/codegirl007/status/2108196716759687278">Developer benchmarks Jev model in code linter</a></h3>
+<p>The author shares timing results for multiple decision model providers supported by their code taste linter, including jev-latest (TypeSafe and OpenRouter), gpt-6-luna, Cloudflare clef, and clef-flash, noting they&#39;ve used the TypeSafe one the most.</p>
+<p><strong>中文摘要：</strong>作者分享其在代码品味检查器中支持的多款决策模型提供方的计时结果，包括 jev-latest（TypeSafe 和 OpenRouter）、gpt-6-luna、Cloudflare clef 与 clef-flash，并提到最常使用 TypeSafe 版本。</p>
+<p><strong>codegirl007</strong> · @codegirl007 · 2026-10-08T14:04:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 68</p>
+<p><a href="https://x.com/codegirl007/status/2108196716759687278">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NFT_Chen/status/2108137145416421566"><img src="https://pbs.twimg.com/media/HUGbYAjakAAmS45?format=jpg&amp;name=900x900" alt="Train a Local Decision Model with 2.5GB, Turn Any Small LLM into a Jev-Style Engine · 原帖图片" width="100%"></a>

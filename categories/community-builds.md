@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 932 | 385 | 551 | 3.0M |
+| 934 | 386 | 552 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/since1795/status/2108047987062759432">Independent Test of Jev: No Text Generation, 97.5% Accuracy</a></h3>
+<p>This post reports an independent evaluation of the Jev model, achieving 97.5% accuracy on 400 verification questions, comparable to GPT-6 Astra, at roughly 500 times lower cost.</p>
+<p><strong>中文摘要：</strong>该帖报告了对Jev模型的独立评估，在400个验证题上准确率达97.5%，与GPT-6 Astra相当，且成本约为其1/500。</p>
+<p><strong>RSI - рекурсивное самосовершенствование</strong> · @since1795 · 2026-10-08T04:13:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 132</p>
+<p><a href="https://x.com/since1795/status/2108047987062759432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PeterBell/status/2108034352705597941"><img src="https://pbs.twimg.com/media/HUC-jfVW8AAz_Ic.jpg" alt="Developer discusses replacing Haiku 4.5 with Jev for classification tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PeterBell/status/2108034352705597941">Developer discusses replacing Haiku 4.5 with Jev for classification tasks</a></h3>
+<p>Peter Bell tweets that he needs to run more evals, but Jev (or a competitor) is likely his replacement for Haiku 4.5 in classification tasks.</p>
+<p><strong>中文摘要：</strong>Peter Bell在推文中提到，虽然仍需运行一些评估，但他认为Jev（或同类模型）很可能成为分类任务中Haiku 4.5的替代方案。</p>
+<p><strong>Peter Bell</strong> · @PeterBell · 2026-10-08T03:18:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 77</p>
+<p><a href="https://x.com/PeterBell/status/2108034352705597941">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/star_flow_ai/status/2108020555785875928"><img src="https://pbs.twimg.com/media/HUEjg1ObwAAS9-A?format=png&amp;name=900x900" alt="Real A/B Testing of Jev vs Gemini for Tech News Agents · 原帖图片" width="100%"></a>

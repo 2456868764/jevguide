@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5291</strong><br>curated posts</td>
-<td align="center"><strong>2709</strong><br>original videos</td>
+<td align="center"><strong>5306</strong><br>curated posts</td>
+<td align="center"><strong>2716</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>932</strong> showcases · <strong>385</strong> videos</p>
+<p><strong>934</strong> showcases · <strong>386</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>542</strong> showcases · <strong>279</strong> videos</p>
+<p><strong>548</strong> showcases · <strong>282</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>417</strong> showcases · <strong>192</strong> videos</p>
+<p><strong>420</strong> showcases · <strong>194</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>403</strong> showcases · <strong>228</strong> videos</p>
+<p><strong>404</strong> showcases · <strong>228</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>345</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>346</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>220</strong> showcases · <strong>145</strong> videos</p>
+<p><strong>221</strong> showcases · <strong>145</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>37</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>38</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/star_flow_ai/status/2108020555785875928"><img src="https://pbs.twimg.com/media/HUEjg1ObwAAS9-A?format=png&amp;name=900x900" alt="Real A/B Testing of Jev vs Gemini for Tech News Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/star_flow_ai/status/2108020555785875928">Real A/B Testing of Jev vs Gemini for Tech News Agents</a></h3>
-<p>The author shares a two-week real A/B test comparing Jev and Gemini on the same set of sources, detailing pipeline A with rules plus Gemini-only LLM, and notes striking contrast in results.</p>
-<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
-<p><strong>星川 ✨ StarFlow</strong> · @star_flow_ai</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/TeksEdge/status/2108052265521295749"><img src="https://pbs.twimg.com/media/HUEvVxZakAA5Eg0?format=jpg&amp;name=medium" alt="Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TeksEdge/status/2108052265521295749">Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation</a></h3>
+<p>Arena evaluated Jev Router across 4,700+ real-world agentic sessions. It reports performance similar to DeepSeek V4.1 Flash (Max), but with 38% higher cost and 1.7× higher median model-request time.</p>
+<p><strong>97</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 97</p>
+<p><strong>David Hendrickson</strong> · @TeksEdge</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/pitdock_koyama/status/2108018819793047885"><img src="https://pbs.twimg.com/media/HUEv8lrawAAkw0H?format=png&amp;name=900x900" alt="Evaluating RAG Reranking with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pitdock_koyama/status/2108018819793047885">Evaluating RAG Reranking with Jev</a></h3>
-<p>Shares insights on using Jev to rerank RAG candidates, covering latency, cost, and failure points, with practical tips like setting thresholds and freezing candidates.</p>
-<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>こやま@PitDock</strong> · @pitdock_koyama</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/RhysSullivan/status/2108050941287227800"><img src="https://pbs.twimg.com/media/HUFNKJmawAA0aq2?format=jpg&amp;name=medium" alt="Using Jev to Automatically Hide AI Replies on Twitter · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/RhysSullivan/status/2108050941287227800">Using Jev to Automatically Hide AI Replies on Twitter</a></h3>
+<p>A user shares how they set up a Jev automation with executor v2 in about 2 minutes, reusing their X account and Jev API key, registering webhooks, and driving it all with an agent to hide AI replies.</p>
+<p><strong>556</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 556</p>
+<p><strong>Rhys</strong> · @RhysSullivan</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/jrlucas0/status/2108010473694298195"><img src="https://pbs.twimg.com/tweet_video_thumb/HUEoWS_WAAAdQWO.jpg" alt="Discussion on JEV Integration with Haiku and Laya for Tool Calls · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jrlucas0/status/2108010473694298195">Discussion on JEV Integration with Haiku and Laya for Tool Calls</a></h3>
-<p>Discusses the flow of adding a field where JEV sends data to Haiku, uses Laya to make tool calls, and returns confidence to JEV.</p>
-<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 37</p>
-<p><strong>joão</strong> · @jrlucas0</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/KaitoXAI/status/2108050130033422746"><img src="https://pbs.twimg.com/amplify_video_thumb/2108050057660686336/img/DJz8x94I_LzUu4oZ.jpg" alt="laya-mlx: A Fast Jev-like Classification System Running Locally · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/KaitoXAI/status/2108050130033422746">laya-mlx: A Fast Jev-like Classification System Running Locally</a></h3>
+<p>Kaito Ito introduces laya-mlx, an open-source classification system similar to Jev, based on text output probabilities, 50x faster and running on-device with under 1G memory usage, ported to MLX.</p>
+<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><strong>Kaito Ito</strong> · @KaitoXAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/TechSoulGeeta/status/2108008793905021142"><img src="https://pbs.twimg.com/tweet_video_thumb/HUBLIphbQAA_8qr.jpg" alt="Jev + RAG: A Decision Layer Beyond Rerankers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/TechSoulGeeta/status/2108008793905021142">Jev + RAG: A Decision Layer Beyond Rerankers</a></h3>
-<p>The post discusses Jev (TypeSafe&#39;s model) combined with RAG, adding a decision layer that standard rerankers lack. It points out that embedding similarity and conventional rerankers optimize for topical closeness, not whether a passage actually contains usable evidence.</p>
-<p><strong>42</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 42</p>
-<p><strong>Geeta</strong> · @TechSoulGeeta</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/since1795/status/2108047987062759432">Independent Test of Jev: No Text Generation, 97.5% Accuracy</a></h3>
+<p>This post reports an independent evaluation of the Jev model, achieving 97.5% accuracy on 400 verification questions, comparable to GPT-6 Astra, at roughly 500 times lower cost.</p>
+<p><strong>132</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 132</p>
+<p><strong>RSI - рекурсивное самосовершенствование</strong> · @since1795</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/star_flow_ai/status/2108020555785875928"><img src="https://pbs.twimg.com/media/HUEjg1ObwAAS9-A?format=png&amp;name=900x900" alt="Real A/B Testing of Jev vs Gemini for Tech News Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/star_flow_ai/status/2108020555785875928">Real A/B Testing of Jev vs Gemini for Tech News Agents</a></h3>
-<p>The author shares a two-week real A/B test comparing Jev and Gemini on the same set of sources, detailing pipeline A with rules plus Gemini-only LLM, and notes striking contrast in results.</p>
-<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
-<p><strong>星川 ✨ StarFlow</strong> · @star_flow_ai</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/TeksEdge/status/2108052265521295749"><img src="https://pbs.twimg.com/media/HUEvVxZakAA5Eg0?format=jpg&amp;name=medium" alt="Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TeksEdge/status/2108052265521295749">Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation</a></h3>
+<p>Arena evaluated Jev Router across 4,700+ real-world agentic sessions. It reports performance similar to DeepSeek V4.1 Flash (Max), but with 38% higher cost and 1.7× higher median model-request time.</p>
+<p><strong>97</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 97</p>
+<p><strong>David Hendrickson</strong> · @TeksEdge</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/TechSoulGeeta/status/2108008793905021142"><img src="https://pbs.twimg.com/tweet_video_thumb/HUBLIphbQAA_8qr.jpg" alt="Jev + RAG: A Decision Layer Beyond Rerankers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/TechSoulGeeta/status/2108008793905021142">Jev + RAG: A Decision Layer Beyond Rerankers</a></h3>
-<p>The post discusses Jev (TypeSafe&#39;s model) combined with RAG, adding a decision layer that standard rerankers lack. It points out that embedding similarity and conventional rerankers optimize for topical closeness, not whether a passage actually contains usable evidence.</p>
-<p><strong>42</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 42</p>
-<p><strong>Geeta</strong> · @TechSoulGeeta</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/since1795/status/2108047987062759432">Independent Test of Jev: No Text Generation, 97.5% Accuracy</a></h3>
+<p>This post reports an independent evaluation of the Jev model, achieving 97.5% accuracy on 400 verification questions, comparable to GPT-6 Astra, at roughly 500 times lower cost.</p>
+<p><strong>132</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 132</p>
+<p><strong>RSI - рекурсивное самосовершенствование</strong> · @since1795</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/CapitalNoma/status/2108006704050835597"><img src="https://pbs.twimg.com/media/HUEk24JXUAAgANH?format=jpg&amp;name=medium" alt="Jev does not accept images · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CapitalNoma/status/2108006704050835597">Jev does not accept images</a></h3>
-<p>User reports that the Jev model does not accept image inputs.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>CapitalNomad</strong> · @CapitalNoma</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/yanivpresler/status/2108043501736735228"><img src="https://pbs.twimg.com/amplify_video_thumb/2108043316163977217/img/mBHpI1JyCvlSc_Ex.jpg" alt="Discussion on Jev decision model and OpenAI Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yanivpresler/status/2108043501736735228">Discussion on Jev decision model and OpenAI Decisions</a></h3>
+<p>The post mentions the Jev decision model and notes that OpenAI released a similar tool called Decisions, emphasizing the rapid pace of change in AI decision tools.</p>
+<p><strong>55</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 55</p>
+<p><strong>Yaniv Presler</strong> · @yanivpresler</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/anugrah_vibi/status/2107996977254547936"><img src="https://pbs.twimg.com/media/HUEcCJaaEAAKEBd?format=jpg&amp;name=medium" alt="Exploring Backdoor Possibilities in Jev Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/anugrah_vibi/status/2107996977254547936">Exploring Backdoor Possibilities in Jev Models</a></h3>
-<p>The author reads up on Jev/KEV family decision models and attempts to see if a backdoor can be planted in them like in a normal LLM.</p>
-<p><strong>12</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Anugrah Vibi</strong> · @anugrah_vibi</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/akihiko_takai/status/2108033401118974013"><img src="https://pbs.twimg.com/media/HUE6A49aoAA5l_G?format=jpg&amp;name=medium" alt="Sendsignal: An MCP tool that uses Jev to detect AI-written text · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/akihiko_takai/status/2108033401118974013">Sendsignal: An MCP tool that uses Jev to detect AI-written text</a></h3>
+<p>The author believes that having another AI check AI-written text before publishing will become a standard step. The sendsignal MCP can be added to your agent with a single command, using Jev for judgment.</p>
+<p><strong>92</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 92</p>
+<p><strong>たか｜０→１応援</strong> · @akihiko_takai</p>
 </td>
 </tr>
 </table>

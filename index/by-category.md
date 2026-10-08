@@ -1,15 +1,15 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 932
-- [Developer tools](../categories/developer-tools.md) — 542
+- [Community builds](../categories/community-builds.md) — 934
+- [Developer tools](../categories/developer-tools.md) — 548
 - [How it works](../categories/how-it-works.md) — 541
-- [Launch news](../categories/launch-news.md) — 417
-- [Agents](../categories/agents.md) — 403
+- [Launch news](../categories/launch-news.md) — 420
+- [Agents](../categories/agents.md) — 404
 - [Access updates](../categories/access-updates.md) — 382
 - [Gaming](../categories/gaming.md) — 352
-- [Developer resources](../categories/developer-resources.md) — 345
+- [Developer resources](../categories/developer-resources.md) — 346
 - [Finance](../categories/finance.md) — 261
-- [Workflow automation](../categories/workflow-automation.md) — 220
+- [Workflow automation](../categories/workflow-automation.md) — 221
 - [Marketing](../categories/marketing.md) — 137
 - [Content creation](../categories/content-creation.md) — 112
 - [Data analytics](../categories/data-analytics.md) — 111
@@ -19,7 +19,7 @@
 - [Customer support](../categories/customer-support.md) — 51
 - [Robotics](../categories/robotics.md) — 43
 - [Productivity](../categories/productivity.md) — 38
-- [Software development](../categories/software-development.md) — 37
+- [Software development](../categories/software-development.md) — 38
 - [Business operations](../categories/business-operations.md) — 28
 - [Healthcare](../categories/healthcare.md) — 24
 - [Education](../categories/education.md) — 24

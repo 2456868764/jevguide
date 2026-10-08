@@ -185,6 +185,7 @@
 - [Dan McAteer](../authors/dan-mcateer.md) — 3
 - [Daniil](../authors/daniil.md) — 3
 - [Dario Crespo](../authors/dario-crespo.md) — 3
+- [David Hendrickson](../authors/david-hendrickson.md) — 3
 - [deezzex](../authors/deezzex.md) — 3
 - [Deji](../authors/deji.md) — 3
 - [Diogo Almeida](../authors/diogo-almeida.md) — 3
@@ -297,6 +298,7 @@
 - [くらげ｜NoggleChanger®代表/AIアニメ制作](../authors/nogglechanger-代表-ai-制作.md) — 3
 - [じゅん@AI駆動開発](../authors/ai駆動開発.md) — 3
 - [そう｜Claude CodeのX運用で月800万インプ](../authors/claude-code-x運用-月800万.md) — 3
+- [たか｜０→１応援](../authors/0-1応援.md) — 3
 - [たく｜ガチのCopilot達人](../authors/copilot達人.md) — 3
 - [たにぐち まこと／ちゃんとWeb withAI](../authors/web-withai.md) — 3
 - [れん学長｜AIツール実験室](../authors/学長-ai-実験室.md) — 3
@@ -403,7 +405,6 @@
 - [Daniel Liao](../authors/daniel-liao.md) — 2
 - [David Arias, CFA](../authors/david-arias-cfa.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
-- [David Hendrickson](../authors/david-hendrickson.md) — 2
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
 - [Demirhan Aydın](../authors/demirhan-ayd-n.md) — 2
@@ -480,6 +481,7 @@
 - [Kartikey Pandey](../authors/kartikey-pandey.md) — 2
 - [katopz](../authors/katopz.md) — 2
 - [Kaya Jones](../authors/kaya-jones.md) — 2
+- [KEITO💻AIディレクター](../authors/keito-ai.md) — 2
 - [keno](../authors/keno.md) — 2
 - [Kevin Dubois](../authors/kevin-dubois.md) — 2
 - [khaled](../authors/khaled.md) — 2
@@ -706,7 +708,6 @@
 - [クオ⭐︎個人開発｜kitepon.dev](../authors/個人開発-kitepon-dev.md) — 2
 - [ケンちゃん_AIDX](../authors/aidx.md) — 2
 - [しょう | AX](../authors/ax.md) — 2
-- [たか｜０→１応援](../authors/0-1応援.md) — 2
 - [たかし](../authors/jev-showcase.md) — 2
 - [ちとせみ](../authors/jev-showcase.md) — 2
 - [テツメモ｜AI図解×検証｜Newsletter](../authors/ai図解-検証-newsletter.md) — 2
@@ -1106,6 +1107,7 @@
 - [bays wong](../authors/bays-wong.md) — 1
 - [bayu](../authors/bayu.md) — 1
 - [BeeBombshell 🐝](../authors/beebombshell.md) — 1
+- [Behnam](../authors/behnam.md) — 1
 - [Bek](../authors/bek.md) — 1
 - [Belal Ezat](../authors/belal-ezat.md) — 1
 - [belbix](../authors/belbix.md) — 1
@@ -1818,6 +1820,7 @@
 - [inventormiguel_](../authors/inventormiguel.md) — 1
 - [Isaac Miller 🧩](../authors/isaac-miller.md) — 1
 - [Isaac Tai 🧇](../authors/isaac-tai.md) — 1
+- [Ishaan](../authors/ishaan.md) — 1
 - [Ishan Goswami](../authors/ishan-goswami.md) — 1
 - [ishmael](../authors/ishmael.md) — 1
 - [Ishu Agrawal](../authors/ishu-agrawal.md) — 1
@@ -1927,6 +1930,7 @@
 - [Jon Mellon](../authors/jon-mellon.md) — 1
 - [Jon Taylor](../authors/jon-taylor.md) — 1
 - [Jonah](../authors/jonah.md) — 1
+- [Jonathan Ellis](../authors/jonathan-ellis.md) — 1
 - [Jonathan Hu](../authors/jonathan-hu.md) — 1
 - [Jonathan Kleiman](../authors/jonathan-kleiman.md) — 1
 - [Jonathan Lebensold](../authors/jonathan-lebensold.md) — 1
@@ -1996,6 +2000,7 @@
 - [Kahl Sada](../authors/kahl-sada.md) — 1
 - [Kaido](../authors/kaido.md) — 1
 - [kaito](../authors/kaito.md) — 1
+- [Kaito Ito](../authors/kaito-ito.md) — 1
 - [Kalen Jordan](../authors/kalen-jordan.md) — 1
 - [Kalyan KS](../authors/kalyan-ks.md) — 1
 - [kamran Hassan](../authors/kamran-hassan.md) — 1
@@ -2031,7 +2036,6 @@
 - [Kei Nakazawa](../authors/kei-nakazawa.md) — 1
 - [Kei Yagi@生成AIなんでも展示会_C-29/C-30](../authors/kei-yagi-生成ai-展示会-c-29-c-30.md) — 1
 - [KEI_Ediforce](../authors/kei-ediforce.md) — 1
-- [KEITO💻AIディレクター](../authors/keito-ai.md) — 1
 - [Kelaer](../authors/kelaer.md) — 1
 - [Kelbie | Sovran](../authors/kelbie-sovran.md) — 1
 - [KELSEY](../authors/kelsey.md) — 1
@@ -2323,6 +2327,7 @@
 - [Mingfei Guo](../authors/mingfei-guo.md) — 1
 - [Mingtian](../authors/mingtian.md) — 1
 - [Minirouter](../authors/minirouter.md) — 1
+- [minjidevs](../authors/minjidevs.md) — 1
 - [Minsang Daniel Kim](../authors/minsang-daniel-kim.md) — 1
 - [Minsi.AI](../authors/minsi-ai.md) — 1
 - [Minty](../authors/minty.md) — 1
@@ -2555,6 +2560,7 @@
 - [parth ratra](../authors/parth-ratra.md) — 1
 - [pasan](../authors/pasan.md) — 1
 - [Pascual ⚡](../authors/pascual.md) — 1
+- [Pat Simmons](../authors/pat-simmons.md) — 1
 - [Patch](../authors/patch.md) — 1
 - [Pate](../authors/pate.md) — 1
 - [Patricio M](../authors/patricio-m.md) — 1
@@ -2580,6 +2586,7 @@
 - [Perplexity Developers](../authors/perplexity-developers.md) — 1
 - [ᴾᵉʳʷᵉᶻ⁹¹](../authors/perwez91.md) — 1
 - [Pete Soderling](../authors/pete-soderling.md) — 1
+- [Peter Bell](../authors/peter-bell.md) — 1
 - [Peter Dedene](../authors/peter-dedene.md) — 1
 - [Peter Gostev](../authors/peter-gostev.md) — 1
 - [Peter Leung](../authors/peter-leung.md) — 1
@@ -2711,6 +2718,7 @@
 - [Respan](../authors/respan.md) — 1
 - [Retro AI/ML group](../authors/retro-ai-ml-group.md) — 1
 - [Rey Mungai](../authors/rey-mungai.md) — 1
+- [Rhys](../authors/rhys.md) — 1
 - [riba2534](../authors/riba2534.md) — 1
 - [Rich | The Future Studio](../authors/rich-the-future-studio.md) — 1
 - [Richard Artoul](../authors/richard-artoul.md) — 1
@@ -2773,6 +2781,7 @@
 - [Roxx](../authors/roxx.md) — 1
 - [Roxy Rodbeck](../authors/roxy-rodbeck.md) — 1
 - [roy mann](../authors/roy-mann.md) — 1
+- [RSI - рекурсивное самосовершенствование](../authors/rsi.md) — 1
 - [RST Cloud](../authors/rst-cloud.md) — 1
 - [Ruben Hassid](../authors/ruben-hassid.md) — 1
 - [Rubs](../authors/rubs.md) — 1
@@ -3032,6 +3041,7 @@
 - [Swapnil Mitra](../authors/swapnil-mitra.md) — 1
 - [Swapnil Sarkar](../authors/swapnil-sarkar.md) — 1
 - [SWARM Team](../authors/swarm-team.md) — 1
+- [Syb](../authors/syb.md) — 1
 - [Sydney Runkle](../authors/sydney-runkle.md) — 1
 - [Sylvain Charbit](../authors/sylvain-charbit.md) — 1
 - [Sylvain Deauré](../authors/sylvain-deaure.md) — 1
@@ -3328,6 +3338,7 @@
 - [Yajat Gulati](../authors/yajat-gulati.md) — 1
 - [YAMADAI🌐AI×DXコンサル](../authors/yamadai-ai-dx.md) — 1
 - [Yanir Tsarimi](../authors/yanir-tsarimi.md) — 1
+- [Yaniv Presler](../authors/yaniv-presler.md) — 1
 - [Yannis](../authors/yannis.md) — 1
 - [Yaowei Zheng | LlamaFactory](../authors/yaowei-zheng-llamafactory.md) — 1
 - [yara David](../authors/yara-david.md) — 1
@@ -3348,6 +3359,7 @@
 - [Yohei](../authors/yohei.md) — 1
 - [Yorick](../authors/yorick.md) — 1
 - [Yoshinobu Matsubara](../authors/yoshinobu-matsubara.md) — 1
+- [Yousef Rol](../authors/yousef-rol.md) — 1
 - [Youssef 🚜](../authors/youssef.md) — 1
 - [Youssef Hosni](../authors/youssef-hosni.md) — 1
 - [Yu Inada](../authors/yu-inada.md) — 1

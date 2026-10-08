@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 542 | 279 | 265 | 3.6M |
+| 548 | 282 | 268 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/per_simmons_/status/2108043287386882461"><img src="https://pbs.twimg.com/amplify_video_thumb/2108030840521228288/img/rn7lrpkdXdYDtei-.jpg" alt="OpenAI drops Decisions API, its Jev competitor: 7 use cases · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/per_simmons_/status/2108043287386882461">OpenAI drops Decisions API, its Jev competitor: 7 use cases</a></h3>
+<p>This video introduces OpenAI&#39;s newly released Decisions API, compares it with Jev, and demonstrates 7 wild use cases like building a Pomodoro timer.</p>
+<p><strong>中文摘要：</strong>该视频介绍OpenAI新发布的Decisions API，将其与Jev进行比较，并演示7个有趣的实际用例，如构建番茄钟等。</p>
+<p><strong>Pat Simmons</strong> · @per_simmons_ · 2026-10-08T03:54:19.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 59</p>
+<p><a href="https://x.com/per_simmons_/status/2108043287386882461">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/keitowebai/status/2108035902740328597"><img src="https://pbs.twimg.com/amplify_video_thumb/2108035802035044353/img/pAMuPbDI-IbaQJ-N.jpg" alt="Trying OpenAI&#39;s Decisions API (Jev&#39;s OpenAI Version) Fast Image Judgment Feature · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/keitowebai/status/2108035902740328597">Trying OpenAI&#39;s Decisions API (Jev&#39;s OpenAI Version) Fast Image Judgment Feature</a></h3>
+<p>KEITO shares his experience trying OpenAI&#39;s Decisions API (from Jev&#39;s OpenAI version), focusing on its fast image judgment capability.</p>
+<p><strong>中文摘要：</strong>KEITO分享了他尝试OpenAI的Decisions API（源自Jev的OpenAI版本）的体验，重点介绍其快速图像判断功能。</p>
+<p><strong>KEITO💻AIディレクター</strong> · @keitowebai · 2026-10-08T03:24:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 970</p>
+<p><a href="https://x.com/keitowebai/status/2108035902740328597">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/minjidevs/status/2108035898399158614"><img src="https://pbs.twimg.com/media/HUE_aIIakAA3qk3?format=png&amp;name=900x900" alt="Laya: A Faster Open-Source Alternative to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/minjidevs/status/2108035898399158614">Laya: A Faster Open-Source Alternative to Jev</a></h3>
+<p>Developer minjidevs announces Laya, an open-source project claimed to be faster than Jev, with a GitHub link.</p>
+<p><strong>中文摘要：</strong>开发者 minjidevs 介绍了新的开源项目 Laya，声称比 Jev 更快，并附上 GitHub 链接。</p>
+<p><strong>minjidevs</strong> · @minjidevs · 2026-10-08T03:24:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 82</p>
+<p><a href="https://x.com/minjidevs/status/2108035898399158614">在 X 查看原帖</a> · <a href="https://t.co/b0sZW2poPW">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DegenOfWallSt/status/2108032365654356351"><img src="https://pbs.twimg.com/media/HUE8NvBaAAAnVp6?format=png&amp;name=900x900" alt="Jev vs OpenAI Decisions API: How to Choose · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DegenOfWallSt/status/2108032365654356351">Jev vs OpenAI Decisions API: How to Choose</a></h3>
+<p>The post compares OpenAI&#39;s Decisions API with Jev, noting that Jev does not read images but is about 2.4x cheaper per token. Both handle yes/no, pick-one, and score questions without charging for output tokens.</p>
+<p><strong>中文摘要：</strong>帖子对比了OpenAI Decisions API与Jev模型，指出Jev不支持图像读取，但每token成本约为OpenAI的2.4倍差距（即更便宜），两者均擅长回答是非、选择或评分类问题，且不收取输出token费用。</p>
+<p><strong>Syb</strong> · @DegenOfWallSt · 2026-10-08T03:10:55.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><a href="https://x.com/DegenOfWallSt/status/2108032365654356351">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OrganicGPT/status/2108028188060434834"><img src="https://pbs.twimg.com/media/HUE4JWrWQAAURc3?format=jpg&amp;name=medium" alt="Discussion on Cloudflare Marginalizing Jev API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OrganicGPT/status/2108028188060434834">Discussion on Cloudflare Marginalizing Jev API</a></h3>
+<p>The post comments on intense competition, suggesting Cloudflare made the Jev API unnecessary because users can self-host it, especially companies and serious developers.</p>
+<p><strong>中文摘要：</strong>该帖子评论了竞争激烈，认为Cloudflare使得Jev API不再必要，因为用户可以自行托管（尤其对公司和平肃开发者）。</p>
+<p><strong>Behnam</strong> · @OrganicGPT · 2026-10-08T02:54:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/OrganicGPT/status/2108028188060434834">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ishaan_jaff/status/2108023862520885487"><img src="https://pbs.twimg.com/amplify_video_thumb/2108022682637975552/img/4oABsEKoilTfBLKi.jpg" alt="LiteLLM Lens Integrates TypeSafe JEV to Tag Failing Agent Runs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ishaan_jaff/status/2108023862520885487">LiteLLM Lens Integrates TypeSafe JEV to Tag Failing Agent Runs</a></h3>
+<p>LiteLLM Lens now uses TypeSafe AI&#39;s JEV model (~130ms decision) to judge every agent run and tag problematic ones in your logs, helping developers quickly find failing runs without reading traces one by one.</p>
+<p><strong>中文摘要：</strong>LiteLLM Lens现使用TypeSafe AI的JEV模型（约130ms判定）自动审计每次agent运行，并在日志中标记出错项，帮助开发者快速定位失败任务，无需逐条阅读trace。</p>
+<p><strong>Ishaan</strong> · @ishaan_jaff · 2026-10-08T02:37:08.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 537</p>
+<p><a href="https://x.com/ishaan_jaff/status/2108023862520885487">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/som_dutt_/status/2107963636564271407"><img src="https://pbs.twimg.com/media/HUD9rqWbAAAGJg2?format=jpg&amp;name=medium" alt="Jev Router Shows No Cost/Performance Advantage in Agent Arena · 原帖图片" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 537 | 276 | 263 | 3.6M |
+| 539 | 276 | 265 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/som_dutt_/status/2107963636564271407"><img src="https://pbs.twimg.com/media/HUD9rqWbAAAGJg2?format=jpg&amp;name=medium" alt="Jev Router Shows No Cost/Performance Advantage in Agent Arena · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/som_dutt_/status/2107963636564271407">Jev Router Shows No Cost/Performance Advantage in Agent Arena</a></h3>
+<p>TypeSafe&#39;s Jev Router was tested across 4,700+ real agentic sessions. Matching DeepSeek V4.1 Flash (Max) quality costs 38% more, with 1.7x higher median request latency.</p>
+<p><strong>中文摘要：</strong>TypeSafe的Jev Router在4700多个真实代理会话中测试，匹配DeepSeek V4.1 Flash (Max)质量需多花38%成本，中位请求延迟高1.7倍。</p>
+<p><strong>Som Dutt | AI/ML Analyst</strong> · @som_dutt_ · 2026-10-07T22:37:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/som_dutt_/status/2107963636564271407">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/imohitmayank/status/2107840126663676411"><img src="https://pbs.twimg.com/media/HUCNbAZasAACSi_?format=jpg&amp;name=large" alt="Jev vs OpenAI Decisions API: A Benchmark Test · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/imohitmayank/status/2107840126663676411">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ethan_Abimelech/status/2107839368345915786"><img src="https://pbs.twimg.com/media/HUCMUv0WIAAVtMV?format=jpg&amp;name=medium" alt="Jev vs OpenAI Decisions API Benchmark Comparison · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/Ethan_Abimelech/status/2107839368345915786">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mr_easonyang/status/2107835863610921067"><img src="https://pbs.twimg.com/amplify_video_thumb/2107825477188743169/img/cy59Z0MRkAihKZdG.jpg" alt="J-Jump: A Jev-based Terminal Jump Tool · 原帖视频截图" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>Eason Yang</strong> · @mr_easonyang · 2026-10-07T14:10:06.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
 <p><a href="https://x.com/mr_easonyang/status/2107835863610921067">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Tanatosu_DP04/status/2107834166331195658"><img src="https://pbs.twimg.com/media/HUCIAJXaUAArOu-?format=jpg&amp;name=medium" alt="Integrating Jev into Codex · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tanatosu_DP04/status/2107834166331195658">Integrating Jev into Codex</a></h3>
+<p>The author responds to discussions about Jev, stating they have integrated Jev into Codex and believe this is sufficient.</p>
+<p><strong>中文摘要：</strong>作者回应关于Jev的讨论，表示已在Codex中集成Jev，认为这样足够，没有问题。</p>
+<p><strong>Naps43_22</strong> · @Tanatosu_DP04 · 2026-10-07T14:03:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/Tanatosu_DP04/status/2107834166331195658">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Dshyam03/status/2107833324144144736"><img src="https://pbs.twimg.com/amplify_video_thumb/2107706190595764224/img/MjLIoHtcrRQwrxxT.jpg" alt="Jev-powered test automation with Playwright · 原帖视频截图" width="100%"></a>

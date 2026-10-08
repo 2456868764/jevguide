@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 917 | 379 | 542 | 3.0M |
+| 921 | 383 | 542 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ben_corde/status/2107962069840519415"><img src="https://pbs.twimg.com/amplify_video_thumb/2107962053189128192/img/X79swx2GNUKvD3wI.jpg" alt="Jev wins Minesweeper comparison test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ben_corde/status/2107962069840519415">Jev wins Minesweeper comparison test</a></h3>
+<p>A community user had Haiku 5.5, GPT-6 Luna, and Jev play the same Minesweeper board (15 mines, 3 lives). Jev finished in 13s without hitting a mine, Luna in 1:13 with one mine, Haiku in 2:03 without hitting a mine. All solved it, but Jev stood out in speed and cost.</p>
+<p><strong>中文摘要：</strong>社区用户让Haiku 5.5、GPT-6 Luna和Jev玩同一扫雷棋盘（15颗雷、3条命）。结果Jev用13秒且未踩雷，Luna用1分13秒踩1雷，Haiku用2分03秒未踩雷。三个模型都完成，Jev在速度和成本上表现突出。</p>
+<p><strong>Benjamín Cordero</strong> · @ben_corde · 2026-10-07T22:31:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 87</p>
+<p><a href="https://x.com/ben_corde/status/2107962069840519415">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eliotbrown__/status/2107954774381371845"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="OpenAI release kills Jev and decision models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eliotbrown__/status/2107954774381371845">OpenAI release kills Jev and decision models</a></h3>
+<p>Post commenting that OpenAI&#39;s release makes Drex, Jev, and the whole decision model category obsolete.</p>
+<p><strong>中文摘要：</strong>帖子评论 OpenAI 的新发布使 Drex、Jev 及整个决策模型类别过时。</p>
+<p><strong>Eliot</strong> · @eliotbrown__ · 2026-10-07T22:02:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/eliotbrown__/status/2107954774381371845">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/UedaTakehiro/status/2107954448450699481"><img src="https://pbs.twimg.com/media/HT-bLEnWYAAi-US.jpg" alt="Speculation on OpenAI Releasing Something Jev-like · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/UedaTakehiro/status/2107954448450699481">Speculation on OpenAI Releasing Something Jev-like</a></h3>
+<p>The post speculates that OpenAI may have released something similar to Jev, and expresses gratitude for the limited API availability, saying it will eventually come.</p>
+<p><strong>中文摘要：</strong>帖子猜测OpenAI可能推出了类似Jev的产品，同时提到公司API使用许可有限，感谢等待。</p>
+<p><strong>discovery PAPA</strong> · @UedaTakehiro · 2026-10-07T22:01:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/UedaTakehiro/status/2107954448450699481">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/soulesidibe/status/2107842165531361533"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Discussion on Jev&#39;s vision capability · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/soulesidibe/status/2107842165531361533">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TypeLLM/status/2107841123612037384"><img src="https://pbs.twimg.com/media/HUCOQYZbgAAI1Od?format=jpg&amp;name=medium" alt="Warning: Jev Decision Models Show Candidate Order Bias · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +68,17 @@
 <p><strong>TypeLLM</strong> · @TypeLLM · 2026-10-07T14:31:00.000Z</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
 <p><a href="https://x.com/TypeLLM/status/2107841123612037384">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/achammah1/status/2107839437770224097"><img src="https://pbs.twimg.com/tweet_video_thumb/HUCMYY8WoAAbuK2.jpg" alt="Jev Comparison: Higher Cost, Slower Responses, Slightly Worse Quality · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/achammah1/status/2107839437770224097">Jev Comparison: Higher Cost, Slower Responses, Slightly Worse Quality</a></h3>
+<p>A user tested 2,000 sample calls against @typesafeai Jev and found the competing model costs 2x, responds slower with bad outliers, and offers no better quality—slightly worse—but it can handle images.</p>
+<p><strong>中文摘要：</strong>用户用2000个样本调用测试对比 @typesafeai Jev，发现对比模型成本为2倍、响应更慢且存在严重异常值，质量略差于Jev，但支持图像功能。</p>
+<p><strong>Assem</strong> · @achammah1 · 2026-10-07T14:24:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/achammah1/status/2107839437770224097">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

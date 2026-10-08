@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5237</strong><br>curated posts</td>
-<td align="center"><strong>2683</strong><br>original videos</td>
+<td align="center"><strong>5258</strong><br>curated posts</td>
+<td align="center"><strong>2691</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>917</strong> showcases · <strong>379</strong> videos</p>
+<p><strong>921</strong> showcases · <strong>383</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>538</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>541</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>537</strong> showcases · <strong>276</strong> videos</p>
+<p><strong>539</strong> showcases · <strong>276</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>410</strong> showcases · <strong>188</strong> videos</p>
+<p><strong>413</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>395</strong> showcases · <strong>223</strong> videos</p>
+<p><strong>398</strong> showcases · <strong>224</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>218</strong> showcases · <strong>144</strong> videos</p>
+<p><strong>220</strong> showcases · <strong>145</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>109</strong> showcases · <strong>57</strong> videos</p>
+<p><strong>111</strong> showcases · <strong>57</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>77</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>78</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -166,16 +166,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>24</strong> showcases · <strong>17</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
 <p><strong>24</strong> showcases · <strong>12</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>23</strong> showcases · <strong>16</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/soulesidibe/status/2107842165531361533"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Discussion on Jev&#39;s vision capability · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/soulesidibe/status/2107842165531361533">Discussion on Jev&#39;s vision capability</a></h3>
-<p>The user mentions not having heard of Jev&#39;s vision capability before, and notes that for those already in the OpenAI ecosystem, the choice is obvious.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Souleymane Sidibe</strong> · @soulesidibe</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/takeprofit_dev/status/2107966418843320629"><img src="https://pbs.twimg.com/media/HUD_lfzboAA3k8A?format=png&amp;name=small" alt="JEV release update · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/takeprofit_dev/status/2107966418843320629">JEV release update</a></h3>
+<p>The post mentions that JEV from @typesafeai has launched, with thanks to the community.</p>
+<p><strong>62</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 62</p>
+<p><strong>take p</strong> · @takeprofit_dev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/Arindam_1729/status/2107841159032897760"><img src="https://pbs.twimg.com/media/HUCOVtWagAEgKcc?format=jpg&amp;name=medium" alt="How to Build Your First Jev AI Agent · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Arindam_1729/status/2107841159032897760">How to Build Your First Jev AI Agent</a></h3>
-<p>A step-by-step guide to building your first Jev-based AI agent. It highlights that Jev&#39;s real power lies in letting the model make decisions, and shows how to expand on top of it.</p>
-<p><strong>30</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
-<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/som_dutt_/status/2107963636564271407"><img src="https://pbs.twimg.com/media/HUD9rqWbAAAGJg2?format=jpg&amp;name=medium" alt="Jev Router Shows No Cost/Performance Advantage in Agent Arena · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/som_dutt_/status/2107963636564271407">Jev Router Shows No Cost/Performance Advantage in Agent Arena</a></h3>
+<p>TypeSafe&#39;s Jev Router was tested across 4,700+ real agentic sessions. Matching DeepSeek V4.1 Flash (Max) quality costs 38% more, with 1.7x higher median request latency.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>Som Dutt | AI/ML Analyst</strong> · @som_dutt_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/TypeLLM/status/2107841123612037384"><img src="https://pbs.twimg.com/media/HUCOQYZbgAAI1Od?format=jpg&amp;name=medium" alt="Warning: Jev Decision Models Show Candidate Order Bias · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TypeLLM/status/2107841123612037384">Warning: Jev Decision Models Show Candidate Order Bias</a></h3>
-<p>A user found that when using Jev or OpenAI decision models for people/model selection, with two nearly identical CVs, the models consistently preferred the first candidate with high confidence. TypeLLM reproduced this behavior, warning developers about this selection bias.</p>
-<p><strong>34</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 34</p>
-<p><strong>TypeLLM</strong> · @TypeLLM</p>
+<p><strong>03</strong> &nbsp; <code>医疗</code> <code>原帖视频</code></p>
+<a href="https://x.com/helloiamvu/status/2107963245076369749"><img src="https://pbs.twimg.com/tweet_video_thumb/HUD9OaMWwAAXL_R.jpg" alt="JEV Powers Cross-Country Medicine Search · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/helloiamvu/status/2107963245076369749">JEV Powers Cross-Country Medicine Search</a></h3>
+<p>Mr Vu shares a sneak peek of a cross-country medicine search powered by JEV for search planning and EmbeddingGemma 2 for embeddings.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><strong>Mr Vu</strong> · @helloiamvu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/imohitmayank/status/2107840126663676411"><img src="https://pbs.twimg.com/media/HUCNbAZasAACSi_?format=jpg&amp;name=large" alt="Jev vs OpenAI Decisions API: A Benchmark Test · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/imohitmayank/status/2107840126663676411">Jev vs OpenAI Decisions API: A Benchmark Test</a></h3>
-<p>Mohit tested OpenAI&#39;s Decisions API (gpt-6-luna) on his 1,500-pair Quora duplicate holdout, scoring 80.2%, nearly tied with his fine-tuned GLiNER Decide at 80.3%. He notes it&#39;s the same yes/no/pick-from-a-list idea as Jev.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Mohit</strong> · @imohitmayank</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ben_corde/status/2107962069840519415"><img src="https://pbs.twimg.com/amplify_video_thumb/2107962053189128192/img/X79swx2GNUKvD3wI.jpg" alt="Jev wins Minesweeper comparison test · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ben_corde/status/2107962069840519415">Jev wins Minesweeper comparison test</a></h3>
+<p>A community user had Haiku 5.5, GPT-6 Luna, and Jev play the same Minesweeper board (15 mines, 3 lives). Jev finished in 13s without hitting a mine, Luna in 1:13 with one mine, Haiku in 2:03 without hitting a mine. All solved it, but Jev stood out in speed and cost.</p>
+<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 87</p>
+<p><strong>Benjamín Cordero</strong> · @ben_corde</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/soulesidibe/status/2107842165531361533"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Discussion on Jev&#39;s vision capability · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/soulesidibe/status/2107842165531361533">Discussion on Jev&#39;s vision capability</a></h3>
-<p>The user mentions not having heard of Jev&#39;s vision capability before, and notes that for those already in the OpenAI ecosystem, the choice is obvious.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Souleymane Sidibe</strong> · @soulesidibe</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/takeprofit_dev/status/2107966418843320629"><img src="https://pbs.twimg.com/media/HUD_lfzboAA3k8A?format=png&amp;name=small" alt="JEV release update · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/takeprofit_dev/status/2107966418843320629">JEV release update</a></h3>
+<p>The post mentions that JEV from @typesafeai has launched, with thanks to the community.</p>
+<p><strong>62</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 62</p>
+<p><strong>take p</strong> · @takeprofit_dev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/imohitmayank/status/2107840126663676411"><img src="https://pbs.twimg.com/media/HUCNbAZasAACSi_?format=jpg&amp;name=large" alt="Jev vs OpenAI Decisions API: A Benchmark Test · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/imohitmayank/status/2107840126663676411">Jev vs OpenAI Decisions API: A Benchmark Test</a></h3>
-<p>Mohit tested OpenAI&#39;s Decisions API (gpt-6-luna) on his 1,500-pair Quora duplicate holdout, scoring 80.2%, nearly tied with his fine-tuned GLiNER Decide at 80.3%. He notes it&#39;s the same yes/no/pick-from-a-list idea as Jev.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Mohit</strong> · @imohitmayank</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ben_corde/status/2107962069840519415"><img src="https://pbs.twimg.com/amplify_video_thumb/2107962053189128192/img/X79swx2GNUKvD3wI.jpg" alt="Jev wins Minesweeper comparison test · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ben_corde/status/2107962069840519415">Jev wins Minesweeper comparison test</a></h3>
+<p>A community user had Haiku 5.5, GPT-6 Luna, and Jev play the same Minesweeper board (15 mines, 3 lives). Jev finished in 13s without hitting a mine, Luna in 1:13 with one mine, Haiku in 2:03 without hitting a mine. All solved it, but Jev stood out in speed and cost.</p>
+<p><strong>87</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 87</p>
+<p><strong>Benjamín Cordero</strong> · @ben_corde</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/rakeshgohel01/status/2107839555738943792"><img src="https://pbs.twimg.com/tweet_video_thumb/HUCK8z1WsAAJgdb.jpg" alt="Jev: TypeSafe AI&#39;s System One Model for Calibrated AI Agent Answers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rakeshgohel01/status/2107839555738943792">Jev: TypeSafe AI&#39;s System One Model for Calibrated AI Agent Answers</a></h3>
-<p>The post introduces Jev from TypeSafe AI as a System One model: unstructured input goes in, and a typed decision with calibration comes out, helping AI agents get reliable answers. It also mentions an ontology for deciding whether the right question was asked.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
-<p><strong>Rakesh Gohel 🇨🇦</strong> · @rakeshgohel01</p>
+<p><strong>03</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<a href="https://x.com/arena/status/2107961562858492338"><img src="https://pbs.twimg.com/media/HUD7hQ1boAALGjG?format=jpg&amp;name=medium" alt="Jev Router Latency Comparison: 6.18s Median vs DeepSeek V4.1 Flash&#39;s 3.64s · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/arena/status/2107961562858492338">Jev Router Latency Comparison: 6.18s Median vs DeepSeek V4.1 Flash&#39;s 3.64s</a></h3>
+<p>The post compares Jev Router&#39;s end-to-end request latency with nearby Pareto optimal models. Results show Jev Router&#39;s median latency was 6.18 seconds, higher than DeepSeek V4.1 Flash (Max)&#39;s 3.64 seconds, with the gap widening at P90.</p>
+<p><strong>1.1K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.1K</p>
+<p><strong>Arena.ai</strong> · @arena</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/lilroomxyz/status/2107836548427497845"><img src="https://pbs.twimg.com/amplify_video_thumb/2107836407163375616/img/82BONBky1fkF6BY-.jpg" alt="OpenAI launches Decisions API, coming for Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lilroomxyz/status/2107836548427497845">OpenAI launches Decisions API, coming for Jev</a></h3>
-<p>According to @OpenAI, the Decisions API is now in public beta, powered by GPT-6 Luna. It accepts text and images, and outputs choices, scores, and probabilities. Priced at $0.10 per 1M input tokens with no output charges, and claims ~10× faster than Luna&#39;s Responses.</p>
-<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 41</p>
-<p><strong>lil room</strong> · @lilroomxyz</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/the_insculptor/status/2107958637821927681"><img src="https://pbs.twimg.com/media/HUD5NefXYAAZIyT?format=jpg&amp;name=medium" alt="Jev Returns Probabilities over Fixed Answers · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/the_insculptor/status/2107958637821927681">Jev Returns Probabilities over Fixed Answers</a></h3>
+<p>The post explains that Jev takes the current state and questions with predefined answers, returning probabilities over those answers; labels are defined by the app, so the model cannot invent new ones.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Ravi Dhir</strong> · @the_insculptor</p>
 </td>
 </tr>
 </table>

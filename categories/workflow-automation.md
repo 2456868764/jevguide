@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 218 | 144 | 74 | 595K |
+| 220 | 145 | 75 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SSW_TV/status/2107954125757456582"><img src="https://pbs.twimg.com/amplify_video_thumb/2107689599338446848/img/WlIOyRmh0uQDz4Ca.jpg" alt="Jev: Speed Up Fixed-List Classification with Confidence Scores · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SSW_TV/status/2107954125757456582">Jev: Speed Up Fixed-List Classification with Confidence Scores</a></h3>
+<p>Jev returns predefined answers with confidence scores, allowing straightforward cases to be classified in high-volume workflows while uncertain ones go to a larger model.</p>
+<p><strong>中文摘要：</strong>Jev返回预定义答案并附带置信度分数，在高容量工作流中可让简单案例直接完成分类，不确定的案例再交给更大模型处理。</p>
+<p><strong>SSW / SSW TV</strong> · @SSW_TV · 2026-10-07T22:00:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/SSW_TV/status/2107954125757456582">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ScandLtd/status/2107826608383971468"><img src="https://pbs.twimg.com/media/HUCBHqmXoAANHdY?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Enterprise Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ScandLtd/status/2107826608383971468">TypeSafe AI Jev in Enterprise Workflows</a></h3>
+<p>This article explores how TypeSafe AI Jev is used in enterprise workflows—AI doesn&#39;t always need to generate text; sometimes it just needs to decide.</p>
+<p><strong>中文摘要：</strong>文章探讨TypeSafe AI Jev如何用于企业工作流——AI不一定总需要生成文本，有时只需做出决策。</p>
+<p><strong>Scand Ltd.</strong> · @ScandLtd · 2026-10-07T13:33:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/ScandLtd/status/2107826608383971468">在 X 查看原帖</a> · <a href="https://t.co/zUM31GMc8n">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fuzzyxbt/status/2107799333789696152"><img src="https://pbs.twimg.com/amplify_video_thumb/2107799248683048960/img/-66yLWSn1Y9ZuVe5.jpg" alt="Jev filters real messages from X DMs · 原帖视频截图" width="100%"></a>

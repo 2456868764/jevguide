@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 109 | 57 | 53 | 392K |
+| 111 | 57 | 55 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arena/status/2107961562858492338"><img src="https://pbs.twimg.com/media/HUD7hQ1boAALGjG?format=jpg&amp;name=medium" alt="Jev Router Latency Comparison: 6.18s Median vs DeepSeek V4.1 Flash&#39;s 3.64s · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arena/status/2107961562858492338">Jev Router Latency Comparison: 6.18s Median vs DeepSeek V4.1 Flash&#39;s 3.64s</a></h3>
+<p>The post compares Jev Router&#39;s end-to-end request latency with nearby Pareto optimal models. Results show Jev Router&#39;s median latency was 6.18 seconds, higher than DeepSeek V4.1 Flash (Max)&#39;s 3.64 seconds, with the gap widening at P90.</p>
+<p><strong>中文摘要：</strong>帖子展示 Jev Router 与邻近帕累托最优模型的端到端请求延迟对比。结果显示 Jev Router 的中位延迟为 6.18 秒，高于 DeepSeek V4.1 Flash (Max) 的 3.64 秒，P90 延迟差距进一步扩大。</p>
+<p><strong>Arena.ai</strong> · @arena · 2026-10-07T22:29:35.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/arena/status/2107961562858492338">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arena/status/2107961558542557538"><img src="https://pbs.twimg.com/media/HUD7NVZbIAAcmUk?format=jpg&amp;name=medium" alt="Jev Model Call Efficiency Analysis · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arena/status/2107961558542557538">Jev Model Call Efficiency Analysis</a></h3>
+<p>Arena.ai data shows Jev prioritizes efficiency, routing over a quarter (28.1%) of all model calls to DeepSeek V4.1 Flash, while favoring OpenAI models like GPT-6 Astra over Anthropic&#39;s LLMs.</p>
+<p><strong>中文摘要：</strong>Arena.ai的数据显示，Jev优先考虑效率，将超过四分之一（28.1%）的模型调用路由至DeepSeek V4.1 Flash，并表现出对OpenAI模型（如GPT-6 Astra）的偏好，而非Anthropic的LLM。</p>
+<p><strong>Arena.ai</strong> · @arena · 2026-10-07T22:29:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 341</p>
+<p><a href="https://x.com/arena/status/2107961558542557538">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/deezzex/status/2107836525413052900"><img src="https://pbs.twimg.com/amplify_video_thumb/2107836422795259904/img/171gbFuPEzcDaFw2.jpg" alt="Stanford Professor Builds Data Science System with JEV · 原帖视频截图" width="100%"></a>

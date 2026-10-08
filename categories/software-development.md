@@ -11,6 +11,17 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://x.com/zer0point_eth/status/2108186425745178698"><img src="https://pbs.twimg.com/amplify_video_thumb/2108186367431790592/img/_1H-A2OXLESYYXKO.jpg" alt="Jev + Claude Combined Workflow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zer0point_eth/status/2108186425745178698">Jev + Claude Combined Workflow</a></h3>
+<p>The author combines Claude&#39;s reasoning with Jev&#39;s speed in a single coding pipeline, creating a seamless flow from prompt to planning to execution, and claims this makes traditional AI coding agents look slow and expensive.</p>
+<p><strong>中文摘要：</strong>作者将Claude的推理能力与Jev的速度整合到同一个编码流程中，实现从提示到计划再到执行的无缝衔接，并认为这一组合让传统AI编码代理显得缓慢且昂贵。</p>
+<p><strong>Zero</strong> · @zer0point_eth · 2026-10-08T13:23:06.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 54</p>
+<p><a href="https://x.com/zer0point_eth/status/2108186425745178698">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://x.com/spyced/status/2108038992646058484"><img src="https://pbs.twimg.com/media/HUE_-QwWoAAGBLx?format=png&amp;name=medium" alt="ANN Dedup Experiment with Jev: Quality Up, Costly · 原帖图片" width="100%"></a>
 <br>
 <sub><code>软件开发</code> <code>原帖图片</code></sub>
@@ -21,6 +32,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 81</p>
 <p><a href="https://x.com/spyced/status/2108038992646058484">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tessl_io/status/2107788028919820487"><img src="https://pbs.twimg.com/media/HUAzvQbWsAAHDYC?format=jpg&amp;name=medium" alt="Jev Model Outperforms GPT Luna 6 on Codebase Checks · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
 <p><a href="https://x.com/tessl_io/status/2107788028919820487">在 X 查看原帖</a> · <a href="https://t.co/JXHDNCOTaG">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sAignals_dev/status/2107736601451172051"><img src="https://pbs.twimg.com/media/HUAvRUDXAAAWKwR?format=png&amp;name=medium" alt="Can Jev Help with Programming? A Look at TypeSafe AI Coding Agents · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/sAignals_dev/status/2107736601451172051">在 X 查看原帖</a> · <a href="https://t.co/fSuNfHGX4i">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ita_apel/status/2107519470478488006"><img src="https://pbs.twimg.com/media/HT9pv3yXwAA9Z8y?format=jpg&amp;name=medium" alt="Contracts and Structured Returns · 原帖图片" width="100%"></a>
 <br>
@@ -55,19 +68,6 @@
 <p><strong>Itamar Apel 💻 🥃 🏍️</strong> · @ita_apel · 2026-10-06T17:12:52.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/ita_apel/status/2107519470478488006">在 X 查看原帖</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/BohuTANG/status/2107451343644602375"><img src="https://pbs.twimg.com/amplify_video_thumb/2107448505145139200/img/vQKKwo7AVgHo4N2M.jpg" alt="Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>软件开发</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/BohuTANG/status/2107451343644602375">Optimizing a Translation Plugin with Jev: On-Demand DOM Detection and Batching</a></h3>
-<p>The author shares how they use Jev to identify which HTML DOM elements need translation, process only visible areas, batch requests, and load on scroll for a smooth, token-efficient experience with an evot model.</p>
-<p><strong>中文摘要：</strong>作者分享为个人翻译插件引入 Jev 进行 DOM 翻译判断的实践，只处理可见区域，合并请求批量翻译，滚动时按需加载，并结合 evot 模型以节省 token。</p>
-<p><strong>Bohu</strong> · @BohuTANG · 2026-10-06T12:42:09.000Z</p>
-<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><a href="https://x.com/BohuTANG/status/2107451343644602375">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/vmrmax/status/2107335771933856082"><img src="https://pbs.twimg.com/amplify_video_thumb/2107335668170895363/img/767tK-bCI7ZI3Yla.jpg" alt="Jev-Driven Dev Workflow: 70 Hours of Senior Dev Work for $5.01 · 原帖视频截图" width="100%"></a>

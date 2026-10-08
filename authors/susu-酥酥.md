@@ -1,9 +1,10 @@
 # SuSu_酥酥👅
 
-30 Jev showcases.
+31 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T10:07:17.000Z | [Train a Local Decision Model with 2.5GB, Turn Any Small LLM into a Jev-Style Engine](https://x.com/NFT_Chen/status/2108137145416421566) | 开发者工具 | SuSu_酥酥👅 | 1.5K |
 | 2026-10-05T08:25:45.000Z | [Jev Chinese Tutorial and Optimization Recipes](https://x.com/NFT_Chen/status/2107024429335351691) | 开发资源 | SuSu_酥酥👅 | 494 |
 | 2026-10-02T06:00:56.000Z | [JEV Visualization Agent Scheduling Dashboard](https://x.com/NFT_Chen/status/2105900823570243597) | 开发者工具 | SuSu_酥酥👅 | 962 |
 | 2026-09-30T10:37:23.000Z | [Jev vs OpenAI Decisions: 8-Dimension Showdown](https://x.com/NFT_Chen/status/2105245616683233787) | 社区实践 | SuSu_酥酥👅 | 1.1K |

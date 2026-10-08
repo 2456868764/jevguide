@@ -4,11 +4,131 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 940 | 388 | 556 | 3.0M |
+| 950 | 389 | 565 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/merccante/status/2108188385135173878"><img src="https://pbs.twimg.com/amplify_video_thumb/2108188178083442688/img/zC4JDBwkdpdB46mm.jpg" alt="Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/merccante/status/2108188385135173878">Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls</a></h3>
+<p>User shares using jev as a scorer with Haiku 5.5, Sonnet 5.5, and Opus 5.5 to build a cost-optimized smart model stack. By letting each call climb only as far as the task requires, the cost for 1,000 calls drops from $18.00 (all Opus 5.5) to $1.30.</p>
+<p><strong>中文摘要：</strong>用户分享使用jev作为评分器，结合Haiku 5.5、Sonnet 5.5和Opus 5.5构建成本最优的智能模型栈。通过让每个调用按任务需求上升至合适的模型层级，1000次调用成本从全部使用Opus 5.5的18美元降至1.30美元。</p>
+<p><strong>mercante</strong> · @merccante · 2026-10-08T13:30:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 68</p>
+<p><a href="https://x.com/merccante/status/2108188385135173878">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/YoussefHosni951/status/2108187561109631253"><img src="https://pbs.twimg.com/media/HUHH61uWQAAq-u-?format=jpg&amp;name=medium" alt="Free Live Session: Building Decision Layers for AI Agents Using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YoussefHosni951/status/2108187561109631253">Free Live Session: Building Decision Layers for AI Agents Using Jev</a></h3>
+<p>Youssef Hosni will host a free live session on Thursday, October 15, demonstrating how to build decision layers for AI agents using Jev. Register free via the link in the comments.</p>
+<p><strong>中文摘要：</strong>Youssef Hosni 将于 10 月 15 日（下周四）举办免费直播，演示如何用 Jev 为 AI 代理构建决策层。链接见评论区，可免费注册。</p>
+<p><strong>Youssef Hosni</strong> · @YoussefHosni951 · 2026-10-08T13:27:37.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/YoussefHosni951/status/2108187561109631253">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/samoweb3/status/2108185719495909420"><img src="https://pbs.twimg.com/media/HUHHvX5asAA0teU?format=png&amp;name=medium" alt="JEV now has 12 competitors · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/samoweb3/status/2108185719495909420">JEV now has 12 competitors</a></h3>
+<p>A community member notes that TypeSafe&#39;s JEV now has 12 competitors, with Cloudflare and OpenAI standing out as particularly strong, and none of these existed three weeks ago.</p>
+<p><strong>中文摘要：</strong>一位社区成员指出，TypeSafe 的 JEV 目前已有12个竞争对手，其中 Cloudflare 和 OpenAI 的表现尤为突出，而三周前这些竞争对手还不存在。</p>
+<p><strong>samo d/acc</strong> · @samoweb3 · 2026-10-08T13:20:18.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><a href="https://x.com/samoweb3/status/2108185719495909420">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/C_2049s/status/2108182905658986914"><img src="https://pbs.twimg.com/media/HUHE_7QaYAA391U?format=jpg&amp;name=900x900" alt="User Complains About 250K Points Deducted for Calling Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/C_2049s/status/2108182905658986914">User Complains About 250K Points Deducted for Calling Jev</a></h3>
+<p>A user posts complaining that a simple call to Jev cost them 250,000 credits, expressing frustration over the high consumption rate.</p>
+<p><strong>中文摘要：</strong>一名用户发帖吐槽，称仅简单调用Jev就被扣掉25万积分，表达对积分消耗速度的不满。</p>
+<p><strong>C 总在佛系开发赛博产品</strong> · @C_2049s · 2026-10-08T13:09:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/C_2049s/status/2108182905658986914">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/analogalok/status/2108167731380154709"><img src="https://pbs.twimg.com/media/HUG3HdqakAAU3e5?format=jpg&amp;name=medium" alt="Jev 1.13 Tops OpenRouter&#39;s Weekly Decision Model Rankings · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/analogalok/status/2108167731380154709">Jev 1.13 Tops OpenRouter&#39;s Weekly Decision Model Rankings</a></h3>
+<p>A ranking posted by Alok shows TypeSafe&#39;s Jev 1.13 leading OpenRouter&#39;s weekly decision model requests with 981M, far ahead of others.</p>
+<p><strong>中文摘要：</strong>Alok发布的排行榜显示，TypeSafe的Jev 1.13以9.81亿次请求位居OpenRouter本周决策模型请求量第一，远超其他模型。</p>
+<p><strong>Alok</strong> · @analogalok · 2026-10-08T12:08:49.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 395</p>
+<p><a href="https://x.com/analogalok/status/2108167731380154709">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eandualem/status/2108157205883257084"><img src="https://pbs.twimg.com/media/HUGNZgXX0AAl_HX?format=jpg&amp;name=medium" alt="Jev stands out in dictation error-correction comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eandualem/status/2108157205883257084">Jev stands out in dictation error-correction comparison</a></h3>
+<p>A user compared four decision models on dictation error correction. Jev made 38 fixes with only 1 mistake, showing strong accuracy.</p>
+<p><strong>中文摘要：</strong>用户对比了四个决策模型在听写纠错场景中的表现，Jev 完成 38 次修正且仅 1 次错误，展现出较高的准确性。</p>
+<p><strong>Elias Andualem</strong> · @eandualem · 2026-10-08T11:27:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 173</p>
+<p><a href="https://x.com/eandualem/status/2108157205883257084">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kabgaspard/status/2108138593973837968"><img src="https://pbs.twimg.com/media/HUGcsuOWkAAOVMr?format=jpg&amp;name=medium" alt="Jev Model Evaluation: Real Data vs Public Benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kabgaspard/status/2108138593973837968">Jev Model Evaluation: Real Data vs Public Benchmarks</a></h3>
+<p>Kabalan Gaspard shares comparative tests of TypeSafe AI&#39;s Jev and OpenAI&#39;s Decisions API on slide visuals: 95-99% accuracy on synthetic prompts, but only 67-80% on real ones, highlighting that an eval is only as good as its data.</p>
+<p><strong>中文摘要：</strong>Kabalan Gaspard分享了对TypeSafe AI的Jev和OpenAI Decisions API的对比测试：在幻灯片视觉任务上，合成提示词准确率达95-99%，但真实场景仅67-80%，强调评估质量取决于数据。</p>
+<p><strong>Kabalan Gaspard</strong> · @kabgaspard · 2026-10-08T10:13:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><a href="https://x.com/kabgaspard/status/2108138593973837968">在 X 查看原帖</a> · <a href="https://t.co/hEmWz9Ca2P">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bukovinski/status/2108138218453360851"><img src="https://pbs.twimg.com/media/HUGb9soWcAAhlcv?format=jpg&amp;name=medium" alt="Document Decision Model Practice Based on Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bukovinski/status/2108138218453360851">Document Decision Model Practice Based on Jev</a></h3>
+<p>Matej Bukovinski notes that decision models went from a single product to a crowded category in about two weeks, mentioning TypeSafe&#39;s Jev and Cloudflare&#39;s Clef, and shares notes on training a decision model for documents.</p>
+<p><strong>中文摘要：</strong>Matej Bukovinski指出决策模型短期内从单一产品变为拥挤品类，提及TypeSafe的Jev和Cloudflare的Clef等，并分享了自己为文档训练决策模型的一些笔记。</p>
+<p><strong>Matej Bukovinski</strong> · @bukovinski · 2026-10-08T10:11:33.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 51</p>
+<p><a href="https://x.com/bukovinski/status/2108138218453360851">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ZimaSpace/status/2108132590456828369"><img src="https://pbs.twimg.com/media/HUGXAjwa0AAE0GS?format=png&amp;name=900x900" alt="AI Wi-Fi Analysis Tool on ZimaBoard 2 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ZimaSpace/status/2108132590456828369">AI Wi-Fi Analysis Tool on ZimaBoard 2</a></h3>
+<p>Roni Bandini turned a ZimaBoard 2 into an AI-powered Wi-Fi analysis tool using Ubuntu, Python, an Alfa Wi-Fi adapter, and Jev. Wi-Fi packets are processed locally, while Jev evaluates coverage quality, congestion levels, and possible issues.</p>
+<p><strong>中文摘要：</strong>Roni Bandini使用Ubuntu、Python、Alfa Wi-Fi适配器和Jev，将ZimaBoard 2改造成AI驱动的Wi-Fi分析工具。数据包在本地处理，Jev评估覆盖质量、拥塞水平及潜在问题。</p>
+<p><strong>ZimaSpace</strong> · @ZimaSpace · 2026-10-08T09:49:11.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 14 &nbsp; 📊 538</p>
+<p><a href="https://x.com/ZimaSpace/status/2108132590456828369">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zoltanszogyenyi/status/2108132411854729260"><img src="https://pbs.twimg.com/media/HUGXH0WWMAAwFzL?format=jpg&amp;name=900x900" alt="How WebDesignerNews Actually Uses Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zoltanszogyenyi/status/2108132411854729260">How WebDesignerNews Actually Uses Jev</a></h3>
+<p>WebDesignerNews shares how they use Jev for post and comment ranking, safety filtering, user leaderboard scoring, and internal news scouting.</p>
+<p><strong>中文摘要：</strong>WebDesignerNews分享了他们使用Jev进行帖子与评论排名、安全过滤、用户积分榜以及内部新闻挖掘的实践。</p>
+<p><strong>Zoltán Szőgyényi</strong> · @zoltanszogyenyi · 2026-10-08T09:48:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 151</p>
+<p><a href="https://x.com/zoltanszogyenyi/status/2108132411854729260">在 X 查看原帖</a> · <a href="https://t.co/BJLRTxgSdS">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MohitKarekar/status/2108116346919592338"><img src="https://pbs.twimg.com/media/HUGGh_lXEAAW7GV?format=jpg&amp;name=medium" alt="Exploring On-Device AI for Structured Decisions: Like Jev, But Fully Local · 原帖图片" width="100%"></a>

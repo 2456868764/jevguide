@@ -465,6 +465,7 @@
 - [Jak Myers](../authors/jak-myers.md) — 2
 - [James Pardoe](../authors/james-pardoe.md) — 2
 - [Jamie Watters](../authors/jamie-watters.md) — 2
+- [Jared](../authors/jared.md) — 2
 - [Jared Palmer](../authors/jared-palmer.md) — 2
 - [javanesium](../authors/javanesium.md) — 2
 - [Jay Derinbogaz](../authors/jay-derinbogaz.md) — 2
@@ -702,6 +703,7 @@
 - [돼박](../authors/jev-showcase.md) — 2
 - [율무커피 YulmuCoffee](../authors/yulmucoffee.md) — 2
 - [あさひ｜教頭先生のAI活用術](../authors/教頭先生-ai活用術.md) — 2
+- [あそぴテック｜アーキテクトの見方](../authors/見方.md) — 2
 - [インターン採用チーム](../authors/採用.md) — 2
 - [かなめ｜個人開発](../authors/個人開発.md) — 2
 - [かねこつよし](../authors/jev-showcase.md) — 2
@@ -730,6 +732,7 @@
 - [慢走不宋](../authors/慢走不宋.md) — 2
 - [新清士@AIコンテンツ開発者](../authors/新清士-ai-開発者.md) — 2
 - [智东西China AI News](../authors/智东西china-ai-news.md) — 2
+- [李不凯正在研究](../authors/李不凯正在研究.md) — 2
 - [村井隆紘 - CloudPartnersGroup 代表税理士・公認会計士](../authors/村井隆紘-cloudpartnersgroup-代表税理士-公認会計士.md) — 2
 - [查理](../authors/查理.md) — 2
 - [毎日育児頑張るパパ](../authors/毎日育児頑張.md) — 2
@@ -1857,7 +1860,6 @@
 - [Jamieson Becker](../authors/jamieson-becker.md) — 1
 - [Jan Kot](../authors/jan-kot.md) — 1
 - [Jan-Hendrik Müller](../authors/jan-hendrik-muller.md) — 1
-- [Jared](../authors/jared.md) — 1
 - [Jarek](../authors/jarek.md) — 1
 - [Jarod Reyes](../authors/jarod-reyes.md) — 1
 - [Jarrod Watts](../authors/jarrod-watts.md) — 1
@@ -3253,6 +3255,7 @@
 - [Vishnu Aniyan](../authors/vishnu-aniyan.md) — 1
 - [Visrut](../authors/visrut.md) — 1
 - [Viv](../authors/viv.md) — 1
+- [Vivek Anand](../authors/vivek-anand.md) — 1
 - [Vivi Xiao](../authors/vivi-xiao.md) — 1
 - [VKTR.com](../authors/vktr-com.md) — 1
 - [Vlady](../authors/vlady.md) — 1
@@ -3439,7 +3442,6 @@
 - [あざいるぅか🔁AITuber](../authors/aituber.md) — 1
 - [あさひUltimate](../authors/ultimate.md) — 1
 - [あざらし@kintone](../authors/kintone.md) — 1
-- [あそぴテック｜アーキテクトの見方](../authors/見方.md) — 1
 - [あっき〜@中小企業ITコンサルタント🔥](../authors/中小企業it.md) — 1
 - [あっきー｜AIを現場に落とす人](../authors/ai-現場-落-人.md) — 1
 - [あやみ｜マーケティング](../authors/jev-showcase.md) — 1
@@ -3701,7 +3703,6 @@
 - [木曽崇／Takashi Kiso](../authors/木曽崇-takashi-kiso.md) — 1
 - [木浦 幹雄 / KIURA Mikio @ANKR DESIGN](../authors/木浦-幹雄-kiura-mikio-ankr-design.md) — 1
 - [李 | Roy | roylee](../authors/李-roy-roylee.md) — 1
-- [李不凯正在研究](../authors/李不凯正在研究.md) — 1
 - [极客开源](../authors/极客开源.md) — 1
 - [松丸 彗吾(keigo matsumaru)](../authors/松丸-彗吾-keigo-matsumaru.md) — 1
 - [某GPU弱者](../authors/某gpu弱者.md) — 1

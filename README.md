@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5306</strong><br>curated posts</td>
-<td align="center"><strong>2716</strong><br>original videos</td>
+<td align="center"><strong>5310</strong><br>curated posts</td>
+<td align="center"><strong>2719</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>934</strong> showcases · <strong>386</strong> videos</p>
+<p><strong>936</strong> showcases · <strong>387</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>548</strong> showcases · <strong>282</strong> videos</p>
+<p><strong>549</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>111</strong> showcases · <strong>57</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>58</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/TeksEdge/status/2108052265521295749"><img src="https://pbs.twimg.com/media/HUEvVxZakAA5Eg0?format=jpg&amp;name=medium" alt="Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TeksEdge/status/2108052265521295749">Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation</a></h3>
-<p>Arena evaluated Jev Router across 4,700+ real-world agentic sessions. It reports performance similar to DeepSeek V4.1 Flash (Max), but with 38% higher cost and 1.7× higher median model-request time.</p>
-<p><strong>97</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 97</p>
-<p><strong>David Hendrickson</strong> · @TeksEdge</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/libukai/status/2108068742127329664"><img src="https://pbs.twimg.com/amplify_video_thumb/2107901268169478145/img/jlhCZQkznNvHoInz.jpg" alt="Can Jev&#39;s Decisions API replace small model training? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/libukai/status/2108068742127329664">Can Jev&#39;s Decisions API replace small model training?</a></h3>
+<p>A community member asks: with the Decisions API represented by Jev, will development work like training small models for fruit classification be completely replaced? Reflects discussions about the API&#39;s capabilities.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>李不凯正在研究</strong> · @libukai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/RhysSullivan/status/2108050941287227800"><img src="https://pbs.twimg.com/media/HUFNKJmawAA0aq2?format=jpg&amp;name=medium" alt="Using Jev to Automatically Hide AI Replies on Twitter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RhysSullivan/status/2108050941287227800">Using Jev to Automatically Hide AI Replies on Twitter</a></h3>
-<p>A user shares how they set up a Jev automation with executor v2 in about 2 minutes, reusing their X account and Jev API key, registering webhooks, and driving it all with an agent to hide AI replies.</p>
-<p><strong>556</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 556</p>
-<p><strong>Rhys</strong> · @RhysSullivan</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/asopitech_iot/status/2108065227283873802"><img src="https://pbs.twimg.com/media/HUFaBVvboAAugPb?format=jpg&amp;name=medium" alt="Judgment Model Tested on Apple M5 Pro: Jev Stands Out · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/asopitech_iot/status/2108065227283873802">Judgment Model Tested on Apple M5 Pro: Jev Stands Out</a></h3>
+<p>A user shares their comparison of judgment models on Apple M5 Pro, noting Strands Decider 2B as the best local option while Jev remains impressively strong.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>あそぴテック｜アーキテクトの見方</strong> · @asopitech_iot</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/KaitoXAI/status/2108050130033422746"><img src="https://pbs.twimg.com/amplify_video_thumb/2108050057660686336/img/DJz8x94I_LzUu4oZ.jpg" alt="laya-mlx: A Fast Jev-like Classification System Running Locally · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/KaitoXAI/status/2108050130033422746">laya-mlx: A Fast Jev-like Classification System Running Locally</a></h3>
-<p>Kaito Ito introduces laya-mlx, an open-source classification system similar to Jev, based on text output probabilities, 50x faster and running on-device with under 1G memory usage, ported to MLX.</p>
-<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
-<p><strong>Kaito Ito</strong> · @KaitoXAI</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/anandvivekIN/status/2108062359902429419"><img src="https://pbs.twimg.com/amplify_video_thumb/2108062181095063552/img/wTsAXX7ChE1-SU__.jpg" alt="User shares: Jev plays Dino game impressively · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/anandvivekIN/status/2108062359902429419">User shares: Jev plays Dino game impressively</a></h3>
+<p>User @anandvivekIN posts that TypeSafe AI&#39;s Jev plays Dino better than they ever could, and they had to stop it to get back to work.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Vivek Anand</strong> · @anandvivekIN</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/since1795/status/2108047987062759432">Independent Test of Jev: No Text Generation, 97.5% Accuracy</a></h3>
-<p>This post reports an independent evaluation of the Jev model, achieving 97.5% accuracy on 400 verification questions, comparable to GPT-6 Astra, at roughly 500 times lower cost.</p>
-<p><strong>132</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 132</p>
-<p><strong>RSI - рекурсивное самосовершенствование</strong> · @since1795</p>
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/jared_watson1/status/2108058668176678950"><img src="https://pbs.twimg.com/amplify_video_thumb/2108058526123769857/img/0PrxsUBnBmuODxy8.jpg" alt="OneStar: Analyzing App Reviews with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jared_watson1/status/2108058668176678950">OneStar: Analyzing App Reviews with Jev</a></h3>
+<p>Jared introduces OneStar, powered by TypeSafe&#39;s Jev model, which makes it cheap to ask questions across thousands of app reviews, revealing what users love, why they leave, and what they ask for. Launching on Product Hunt tomorrow.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 38</p>
+<p><strong>Jared</strong> · @jared_watson1</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/libukai/status/2108068742127329664"><img src="https://pbs.twimg.com/amplify_video_thumb/2107901268169478145/img/jlhCZQkznNvHoInz.jpg" alt="Can Jev&#39;s Decisions API replace small model training? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/libukai/status/2108068742127329664">Can Jev&#39;s Decisions API replace small model training?</a></h3>
+<p>A community member asks: with the Decisions API represented by Jev, will development work like training small models for fruit classification be completely replaced? Reflects discussions about the API&#39;s capabilities.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>李不凯正在研究</strong> · @libukai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/jared_watson1/status/2108058668176678950"><img src="https://pbs.twimg.com/amplify_video_thumb/2108058526123769857/img/0PrxsUBnBmuODxy8.jpg" alt="OneStar: Analyzing App Reviews with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jared_watson1/status/2108058668176678950">OneStar: Analyzing App Reviews with Jev</a></h3>
+<p>Jared introduces OneStar, powered by TypeSafe&#39;s Jev model, which makes it cheap to ask questions across thousands of app reviews, revealing what users love, why they leave, and what they ask for. Launching on Product Hunt tomorrow.</p>
+<p><strong>38</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 38</p>
+<p><strong>Jared</strong> · @jared_watson1</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/TeksEdge/status/2108052265521295749"><img src="https://pbs.twimg.com/media/HUEvVxZakAA5Eg0?format=jpg&amp;name=medium" alt="Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/TeksEdge/status/2108052265521295749">Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation</a></h3>
 <p>Arena evaluated Jev Router across 4,700+ real-world agentic sessions. It reports performance similar to DeepSeek V4.1 Flash (Max), but with 38% higher cost and 1.7× higher median model-request time.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>David Hendrickson</strong> · @TeksEdge</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/since1795/status/2108047987062759432">Independent Test of Jev: No Text Generation, 97.5% Accuracy</a></h3>
-<p>This post reports an independent evaluation of the Jev model, achieving 97.5% accuracy on 400 verification questions, comparable to GPT-6 Astra, at roughly 500 times lower cost.</p>
-<p><strong>132</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 132</p>
-<p><strong>RSI - рекурсивное самосовершенствование</strong> · @since1795</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/yanivpresler/status/2108043501736735228"><img src="https://pbs.twimg.com/amplify_video_thumb/2108043316163977217/img/mBHpI1JyCvlSc_Ex.jpg" alt="Discussion on Jev decision model and OpenAI Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yanivpresler/status/2108043501736735228">Discussion on Jev decision model and OpenAI Decisions</a></h3>
-<p>The post mentions the Jev decision model and notes that OpenAI released a similar tool called Decisions, emphasizing the rapid pace of change in AI decision tools.</p>
-<p><strong>55</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 55</p>
-<p><strong>Yaniv Presler</strong> · @yanivpresler</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/akihiko_takai/status/2108033401118974013"><img src="https://pbs.twimg.com/media/HUE6A49aoAA5l_G?format=jpg&amp;name=medium" alt="Sendsignal: An MCP tool that uses Jev to detect AI-written text · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/akihiko_takai/status/2108033401118974013">Sendsignal: An MCP tool that uses Jev to detect AI-written text</a></h3>
-<p>The author believes that having another AI check AI-written text before publishing will become a standard step. The sendsignal MCP can be added to your agent with a single command, using Jev for judgment.</p>
-<p><strong>92</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 92</p>
-<p><strong>たか｜０→１応援</strong> · @akihiko_takai</p>
+<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
+<a href="https://x.com/spyced/status/2108038992646058484"><img src="https://pbs.twimg.com/media/HUE_-QwWoAAGBLx?format=png&amp;name=medium" alt="ANN Dedup Experiment with Jev: Quality Up, Costly · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/spyced/status/2108038992646058484">ANN Dedup Experiment with Jev: Quality Up, Costly</a></h3>
+<p>Jonathan Ellis shares his ANN-powered deduplication experiment where Jev classifies top-k candidates. Pros: ~10k lines of code removed and 30 subtle bugs fixed caused by near-duplicates. Cons: not cheap or fast; ~$166 API cost for 207M Opus tokens and nearly 8B Luna subagent tokens (via mjolnir).</p>
+<p><strong>81</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 81</p>
+<p><strong>Jonathan Ellis</strong> · @spyced</p>
 </td>
 </tr>
 </table>

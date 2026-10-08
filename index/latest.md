@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T05:35:28.000Z | [Can Jev's Decisions API replace small model training?](https://x.com/libukai/status/2108068742127329664) | 开发者工具 | 李不凯正在研究 | 10 |
+| 2026-10-08T05:21:30.000Z | [Judgment Model Tested on Apple M5 Pro: Jev Stands Out](https://x.com/asopitech_iot/status/2108065227283873802) | 社区实践 | あそぴテック｜アーキテクトの見方 | 7 |
+| 2026-10-08T05:10:07.000Z | [User shares: Jev plays Dino game impressively](https://x.com/anandvivekIN/status/2108062359902429419) | 社区实践 | Vivek Anand | 10 |
+| 2026-10-08T04:55:26.000Z | [OneStar: Analyzing App Reviews with Jev](https://x.com/jared_watson1/status/2108058668176678950) | 数据分析 | Jared | 38 |
 | 2026-10-08T04:30:00.000Z | [Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation](https://x.com/TeksEdge/status/2108052265521295749) | 智能体 | David Hendrickson | 97 |
 | 2026-10-08T04:24:44.000Z | [Using Jev to Automatically Hide AI Replies on Twitter](https://x.com/RhysSullivan/status/2108050941287227800) | 自动化工作流 | Rhys | 556 |
 | 2026-10-08T04:21:31.000Z | [laya-mlx: A Fast Jev-like Classification System Running Locally](https://x.com/KaitoXAI/status/2108050130033422746) | 开发资源 | Kaito Ito | 37 |
@@ -98,7 +102,3 @@
 | 2026-10-07T13:33:19.000Z | [TypeSafe AI Jev in Enterprise Workflows](https://x.com/ScandLtd/status/2107826608383971468) | 自动化工作流 | Scand Ltd. | 13 |
 | 2026-10-07T13:31:16.000Z | [OpenAI Decisions API vs Jev: Real-World Test](https://x.com/MarkKashef/status/2107826091712717140) | 开发者工具 | Mark Kashef | 44 |
 | 2026-10-07T12:48:07.000Z | [OpenAI Launches Decisions API, Apparently Responding to Jev](https://x.com/iSegar0/status/2107815232366112948) | 产品发布 | iSegar0 \|\| سگارو | 274 |
-| 2026-10-07T12:39:23.000Z | [Bias Issues of Jev-as-Judge in High-Stakes AI Evals](https://x.com/XLNC_CO/status/2107813033800241546) | 科研 | XLNC | 1 |
-| 2026-10-07T12:30:00.000Z | [Jev and pplx-decider handle 669 clinical decisions for about 3 cents](https://x.com/MaziyarPanahi/status/2107810672910508527) | 医疗 | Maziyar PANAHI | 302 |
-| 2026-10-07T12:23:01.000Z | [Built an X viral post viewer with Grok 4.7 + Jev](https://x.com/razeden0/status/2107808914519494746) | 数据分析 | RazeDen | 84 |
-| 2026-10-07T12:21:24.000Z | [Jev's best use cases in known answer spaces](https://x.com/TechSoulGeeta/status/2107808509962404003) | 社区实践 | Geeta | 15 |

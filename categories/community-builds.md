@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 934 | 386 | 552 | 3.0M |
+| 936 | 387 | 553 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/asopitech_iot/status/2108065227283873802"><img src="https://pbs.twimg.com/media/HUFaBVvboAAugPb?format=jpg&amp;name=medium" alt="Judgment Model Tested on Apple M5 Pro: Jev Stands Out · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/asopitech_iot/status/2108065227283873802">Judgment Model Tested on Apple M5 Pro: Jev Stands Out</a></h3>
+<p>A user shares their comparison of judgment models on Apple M5 Pro, noting Strands Decider 2B as the best local option while Jev remains impressively strong.</p>
+<p><strong>中文摘要：</strong>用户分享在Apple M5 Pro上对比判断模型的结果，认为本地最佳是Strands Decider 2B，而Jev依然具有很强的表现。</p>
+<p><strong>あそぴテック｜アーキテクトの見方</strong> · @asopitech_iot · 2026-10-08T05:21:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/asopitech_iot/status/2108065227283873802">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anandvivekIN/status/2108062359902429419"><img src="https://pbs.twimg.com/amplify_video_thumb/2108062181095063552/img/wTsAXX7ChE1-SU__.jpg" alt="User shares: Jev plays Dino game impressively · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anandvivekIN/status/2108062359902429419">User shares: Jev plays Dino game impressively</a></h3>
+<p>User @anandvivekIN posts that TypeSafe AI&#39;s Jev plays Dino better than they ever could, and they had to stop it to get back to work.</p>
+<p><strong>中文摘要：</strong>用户 @anandvivekIN 发帖称 TypeSafe AI 的 Jev 玩 Dino 游戏比自己更好，甚至需要停下来去工作。</p>
+<p><strong>Vivek Anand</strong> · @anandvivekIN · 2026-10-08T05:10:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/anandvivekIN/status/2108062359902429419">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/since1795/status/2108047987062759432"><img src="https://pbs.twimg.com/media/HUFKcEKXMAACbI8?format=jpg&amp;name=medium" alt="Independent Test of Jev: No Text Generation, 97.5% Accuracy · 原帖图片" width="100%"></a>

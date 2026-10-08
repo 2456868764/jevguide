@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 413 | 189 | 227 | 1.1M |
+| 417 | 192 | 228 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/crislenta/status/2107996210355404837"><img src="https://pbs.twimg.com/amplify_video_thumb/2107995227416154112/img/vU2VOrXpWmn7zeNR.jpg" alt="lifesim-social-1 vs OpenAI Decisions: Jev Model Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/crislenta/status/2107996210355404837">lifesim-social-1 vs OpenAI Decisions: Jev Model Benchmark</a></h3>
+<p>Cris Lenta shares benchmark results: lifesim-social-1 achieves 88% accuracy, 102ms p50 latency, and 0.047 calibration error on social decisions, outperforming OpenAI Decisions API.</p>
+<p><strong>中文摘要：</strong>Cris Lenta发布对比结果：lifesim-social-1在社交决策上准确率88%、延迟102ms、校准误差0.047，全面优于OpenAI Decisions API。</p>
+<p><strong>Cris Lenta</strong> · @crislenta · 2026-10-08T00:47:15.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 311</p>
+<p><a href="https://x.com/crislenta/status/2107996210355404837">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/takeprofit_dev/status/2107966418843320629"><img src="https://pbs.twimg.com/media/HUD_lfzboAA3k8A?format=png&amp;name=small" alt="JEV release update · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 62</p>
 <p><a href="https://x.com/takeprofit_dev/status/2107966418843320629">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fayzonnn/status/2107953390764372042"><img src="https://pbs.twimg.com/amplify_video_thumb/2107953358975700992/img/OcPP_WgYUWqumY6f.jpg" alt="Amazon responds to Jev&#39;s $0.042 price with free offering 16 days after launch · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,41 @@
 <p><strong>fayz333</strong> · @fayzonnn · 2026-10-07T21:57:06.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 291</p>
 <p><a href="https://x.com/fayzonnn/status/2107953390764372042">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/biilmann/status/2107952355635503166"><img src="https://pbs.twimg.com/media/HUDze_zaYAA1o1f?format=png&amp;name=900x900" alt="Matt Biilmann announces support for OpenAI&#39;s Decision API, comparing it to TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/biilmann/status/2107952355635503166">Matt Biilmann announces support for OpenAI&#39;s Decision API, comparing it to TypeSafe&#39;s Jev</a></h3>
+<p>The post announces support for OpenAI&#39;s new Decision API, noting it is conceptually similar to TypeSafe&#39;s Jev but multimodal, making it ideal for building apps like &#39;Hotdog or Not Hotdog&#39;.</p>
+<p><strong>中文摘要：</strong>帖子宣布推出对OpenAI新Decision API的支持，指出该API在概念上与TypeSafe的Jev类似，但支持多模态，因此特别适合构建类似“热狗或不是热狗”这样的应用。</p>
+<p><strong>Matt Biilmann</strong> · @biilmann · 2026-10-07T21:53:00.000Z</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 885</p>
+<p><a href="https://x.com/biilmann/status/2107952355635503166">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/torfinpd/status/2107948410913329508"><img src="https://pbs.twimg.com/amplify_video_thumb/2107948203614126080/img/_tH-PI3C7Hnyy5CJ.jpg" alt="16 Days After Jev Launch, Rivals Roll Out Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/torfinpd/status/2107948410913329508">16 Days After Jev Launch, Rivals Roll Out Decision Models</a></h3>
+<p>The post notes that TypeSafe&#39;s Jev model is offered at $0.042 per million tokens with closed weights, and within 16 days of its launch, OpenAI, Amazon, and Cloudflare each released their own decision models, two of which are free to download.</p>
+<p><strong>中文摘要：</strong>帖子指出TypeSafe的Jev模型以每百万tokens 0.042美元的价格提供且权重保持封闭，并在发布后16天内引发OpenAI、亚马逊和Cloudflare相继推出各自的决策模型，其中两个可免费下载。</p>
+<p><strong>Thorfinn</strong> · @torfinpd · 2026-10-07T21:37:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 176</p>
+<p><a href="https://x.com/torfinpd/status/2107948410913329508">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anythingappai/status/2107947712968552784"><img src="https://pbs.twimg.com/amplify_video_thumb/2107947636061884416/img/WTxlAW3-sfuR4ChZ.jpg" alt="Jev 1.13 vs GPT-6 Luna: Side-by-Side Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anythingappai/status/2107947712968552784">Jev 1.13 vs GPT-6 Luna: Side-by-Side Comparison</a></h3>
+<p>The author compares Jev 1.13 and GPT-6 Luna. Both respond in under a second, but Jev rates a sketchy review 7/10 urgent while Luna says 3/10. Try your own head-to-head on Anything App.</p>
+<p><strong>中文摘要：</strong>作者对比了Jev 1.13和GPT-6 Luna，两者在1秒内应答，但Jev将可疑评论评为7/10紧急，而Luna评3/10。可前往Anything App自行对比。</p>
+<p><strong>Anything App</strong> · @anythingappai · 2026-10-07T21:34:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/anythingappai/status/2107947712968552784">在 X 查看原帖</a> · <a href="https://t.co/rsjyrr44Tz">原文链接</a></p>
 </td>
 </tr>
 <tr>

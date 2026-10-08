@@ -1,9 +1,10 @@
 # Suzuki
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T07:00:01.000Z | [Comparing AI decisions: Differences between OpenAI Decisions API, Jev, and Clef](https://x.com/biroi8/status/2108090018917134554) | 开发者工具 | Suzuki | 18 |
 | 2026-09-30T07:00:01.000Z | [AI Task Delegation: Jev Routes Between Claude and GPT](https://x.com/biroi8/status/2105190914289262707) | 智能体 | Suzuki | 53 |
 | 2026-09-29 | [Jev for Lemon AI Inspection: Checking Mold and Scratches One by One](https://x.com/biroi8/status/2104828525446357301) | 社区实践 | Suzuki | 83 |
 | 2026-09-28 | [TypeSafe Jev × Grok Bot Event Routing](https://x.com/biroi8/status/2104360442911207724) | 智能体 | Suzuki | 86 |

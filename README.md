@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5316</strong><br>curated posts</td>
-<td align="center"><strong>2721</strong><br>original videos</td>
+<td align="center"><strong>5328</strong><br>curated posts</td>
+<td align="center"><strong>2726</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>937</strong> showcases · <strong>388</strong> videos</p>
+<p><strong>939</strong> showcases · <strong>388</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>550</strong> showcases · <strong>284</strong> videos</p>
+<p><strong>553</strong> showcases · <strong>287</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>420</strong> showcases · <strong>194</strong> videos</p>
+<p><strong>424</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>383</strong> showcases · <strong>161</strong> videos</p>
+<p><strong>384</strong> showcases · <strong>161</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>137</strong> showcases · <strong>103</strong> videos</p>
+<p><strong>138</strong> showcases · <strong>104</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>38</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>39</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/polydao/status/2108079443650441568"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Claude Opus 5.5: A Goldmine of Cost Savings · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/polydao/status/2108079443650441568">Jev + Claude Opus 5.5: A Goldmine of Cost Savings</a></h3>
-<p>A user shares that after Jev takes over, fork costs drop from about $110 a day to $4, and Jev ranks project notes, making it the best way to run Opus.</p>
-<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 180</p>
-<p><strong>Mr. Buzzoni</strong> · @polydao</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/powlymoli/status/2108095139604496792"><img src="https://pbs.twimg.com/media/HUF1R2MaYAAffLB?format=jpg&amp;name=medium" alt="Jev edges out in transcript classification testing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/powlymoli/status/2108095139604496792">Jev edges out in transcript classification testing</a></h3>
+<p>Paul Jasper tested classifying company mentions for Gemhog and found Jev outperforms OpenAI&#39;s decision model in all categories.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Paul Jasper</strong> · @powlymoli</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/PawelHuryn/status/2108079105857970383"><img src="https://pbs.twimg.com/media/HUFmxdAXAAAXIPD?format=jpg&amp;name=medium" alt="Paweł Huryn: Jev &amp; Perplexity are best decision models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PawelHuryn/status/2108079105857970383">Paweł Huryn: Jev &amp; Perplexity are best decision models</a></h3>
-<p>Paweł Huryn compares decision models and, excluding Claudeflare and OpenAI, finds Jev and Perplexity best for his use case.</p>
-<p><strong>336</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 336</p>
-<p><strong>Paweł Huryn</strong> · @PawelHuryn</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/GoSailGlobal/status/2108095015738294516"><img src="https://pbs.twimg.com/amplify_video_thumb/2108094799568105472/img/VNZWZkGSA7qHrz-W.jpg" alt="Jev-powered low-cost AI brand filtering · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/GoSailGlobal/status/2108095015738294516">Jev-powered low-cost AI brand filtering</a></h3>
+<p>Processing 1,300 social posts daily, Jev filters noise via targeted questions, leaving 332 candidates for a premium model to pick 7 AI brands, with filtering costs at just $0.064.</p>
+<p><strong>54</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/lg/status/2108078907052503409"><img src="https://pbs.twimg.com/media/HUFmmBWbgAAeCqz?format=jpg&amp;name=medium" alt="Running out of Jev credits? · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/lg/status/2108078907052503409">Running out of Jev credits?</a></h3>
-<p>Larry Gadea hints that more Jev credits may be needed, suggesting growing usage or rapid consumption.</p>
-<p><strong>46</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 46</p>
-<p><strong>Larry Gadea</strong> · @lg</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/liderarmente/status/2108094795444818002"><img src="https://pbs.twimg.com/amplify_video_thumb/2108094283710361600/img/IVXKPfVt7OaNZCHo.jpg" alt="OpenAI Decisions API Described as Jev-style System One Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/liderarmente/status/2108094795444818002">OpenAI Decisions API Described as Jev-style System One Model</a></h3>
+<p>The post says OpenAI released Decisions API, a multimodal model with a Jev-like System One style, based on GPT6 Luna, developed by Roboflow.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>Javier Martin</strong> · @liderarmente</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/dmokafa/status/2108075880341713291"><img src="https://pbs.twimg.com/tweet_video_thumb/HUFjiXKXAAAt39N.jpg" alt="QuickE2E: End-to-End Testing Library Using Jev Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dmokafa/status/2108075880341713291">QuickE2E: End-to-End Testing Library Using Jev Decision Models</a></h3>
-<p>QuickE2E is an open-source end-to-end agentic testing library that uses Jev decision models for fast decisions and quick browser navigation, claiming 10x faster and 200x cheaper than normal LLMs.</p>
-<p><strong>149</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 149</p>
-<p><strong>Daniel Moka⚡</strong> · @dmokafa</p>
+<a href="https://x.com/MalikiAoweed/status/2108092515027165683"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Opus for Cheaper API Costs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MalikiAoweed/status/2108092515027165683">Jev + Opus for Cheaper API Costs</a></h3>
+<p>This post shares a strategy of pairing Jev with Opus: letting the big model handle reasoning and the cheap one make picks, significantly cutting daily API costs.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>MalikiAoweed</strong> · @MalikiAoweed</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/polydao/status/2108079443650441568"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Claude Opus 5.5: A Goldmine of Cost Savings · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/polydao/status/2108079443650441568">Jev + Claude Opus 5.5: A Goldmine of Cost Savings</a></h3>
-<p>A user shares that after Jev takes over, fork costs drop from about $110 a day to $4, and Jev ranks project notes, making it the best way to run Opus.</p>
-<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 180</p>
-<p><strong>Mr. Buzzoni</strong> · @polydao</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/powlymoli/status/2108095139604496792"><img src="https://pbs.twimg.com/media/HUF1R2MaYAAffLB?format=jpg&amp;name=medium" alt="Jev edges out in transcript classification testing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/powlymoli/status/2108095139604496792">Jev edges out in transcript classification testing</a></h3>
+<p>Paul Jasper tested classifying company mentions for Gemhog and found Jev outperforms OpenAI&#39;s decision model in all categories.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Paul Jasper</strong> · @powlymoli</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/dmokafa/status/2108075880341713291"><img src="https://pbs.twimg.com/tweet_video_thumb/HUFjiXKXAAAt39N.jpg" alt="QuickE2E: End-to-End Testing Library Using Jev Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dmokafa/status/2108075880341713291">QuickE2E: End-to-End Testing Library Using Jev Decision Models</a></h3>
-<p>QuickE2E is an open-source end-to-end agentic testing library that uses Jev decision models for fast decisions and quick browser navigation, claiming 10x faster and 200x cheaper than normal LLMs.</p>
-<p><strong>149</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 149</p>
-<p><strong>Daniel Moka⚡</strong> · @dmokafa</p>
+<a href="https://x.com/MalikiAoweed/status/2108092515027165683"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Opus for Cheaper API Costs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MalikiAoweed/status/2108092515027165683">Jev + Opus for Cheaper API Costs</a></h3>
+<p>This post shares a strategy of pairing Jev with Opus: letting the big model handle reasoning and the cheap one make picks, significantly cutting daily API costs.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>MalikiAoweed</strong> · @MalikiAoweed</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/AxSaucedo/status/2108075060208554362"><img src="https://pbs.twimg.com/media/HUFjGK_WIAEYvkq?format=jpg&amp;name=medium" alt="Sebastian Raschka: A History of Text Classification from Bag-of-Words to Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AxSaucedo/status/2108075060208554362">Sebastian Raschka: A History of Text Classification from Bag-of-Words to Jev</a></h3>
-<p>A must-read recommendation from Sebastian Raschka, covering the evolution of text classification and introducing Jev, the decision model from TypeSafe AI.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
-<p><strong>Alejandro Saucedo | KubeCon 2025 AI Day Keynote</strong> · @AxSaucedo</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/dave8172/status/2108091621514621022"><img src="https://pbs.twimg.com/media/HUFyJ3kbgAAg0aD?format=jpg&amp;name=medium" alt="Discussion on Jev confidence and option order · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dave8172/status/2108091621514621022">Discussion on Jev confidence and option order</a></h3>
+<p>User reflects on how confidence scores are calculated and shares insights from Jev docs that option order may affect output, touching on practical use of the Decisions API.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>dave</strong> · @dave8172</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/TeksEdge/status/2108052265521295749"><img src="https://pbs.twimg.com/media/HUEvVxZakAA5Eg0?format=jpg&amp;name=medium" alt="Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TeksEdge/status/2108052265521295749">Jev Router shows comparable performance to DeepSeek V4.1 Flash but at higher cost in real-world evaluation</a></h3>
-<p>Arena evaluated Jev Router across 4,700+ real-world agentic sessions. It reports performance similar to DeepSeek V4.1 Flash (Max), but with 38% higher cost and 1.7× higher median model-request time.</p>
-<p><strong>97</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 97</p>
-<p><strong>David Hendrickson</strong> · @TeksEdge</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/DrivenInvestor/status/2108087620609978632"><img src="https://pbs.twimg.com/media/HUFudueXkAAQ4nO?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Tops Ramp&#39;s Trending SaaS Vendors · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DrivenInvestor/status/2108087620609978632">TypeSafe AI&#39;s Jev Model Tops Ramp&#39;s Trending SaaS Vendors</a></h3>
+<p>Ramp&#39;s October SaaS vendor report shows TypeSafe AI&#39;s Jev model (launched in September) ranked #1 trending and #2 fastest growing, behind only Anthropic.</p>
+<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Startup Investor</strong> · @DrivenInvestor</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 937 | 388 | 553 | 3.0M |
+| 939 | 388 | 555 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/powlymoli/status/2108095139604496792"><img src="https://pbs.twimg.com/media/HUF1R2MaYAAffLB?format=jpg&amp;name=medium" alt="Jev edges out in transcript classification testing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/powlymoli/status/2108095139604496792">Jev edges out in transcript classification testing</a></h3>
+<p>Paul Jasper tested classifying company mentions for Gemhog and found Jev outperforms OpenAI&#39;s decision model in all categories.</p>
+<p><strong>中文摘要：</strong>Paul Jasper为Gemhog进行了公司提及分类测试，发现Jev在所有类别中均优于OpenAI决策模型。</p>
+<p><strong>Paul Jasper</strong> · @powlymoli · 2026-10-08T07:20:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/powlymoli/status/2108095139604496792">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dave8172/status/2108091621514621022"><img src="https://pbs.twimg.com/media/HUFyJ3kbgAAg0aD?format=jpg&amp;name=medium" alt="Discussion on Jev confidence and option order · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dave8172/status/2108091621514621022">Discussion on Jev confidence and option order</a></h3>
+<p>User reflects on how confidence scores are calculated and shares insights from Jev docs that option order may affect output, touching on practical use of the Decisions API.</p>
+<p><strong>中文摘要：</strong>用户在社区中反思置信度计算方式，并分享阅读Jev文档后对选项顺序可能影响输出的理解，涉及Decisions API的实际使用经验。</p>
+<p><strong>dave</strong> · @dave8172 · 2026-10-08T07:06:23.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/dave8172/status/2108091621514621022">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2108079443650441568"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Claude Opus 5.5: A Goldmine of Cost Savings · 原帖视频截图" width="100%"></a>

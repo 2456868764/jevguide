@@ -2,6 +2,18 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T07:20:22.000Z | [Jev edges out in transcript classification testing](https://x.com/powlymoli/status/2108095139604496792) | 社区实践 | Paul Jasper | 4 |
+| 2026-10-08T07:19:52.000Z | [Jev-powered low-cost AI brand filtering](https://x.com/GoSailGlobal/status/2108095015738294516) | 营销 | Jason Zhu | 54 |
+| 2026-10-08T07:19:00.000Z | [OpenAI Decisions API Described as Jev-style System One Model](https://x.com/liderarmente/status/2108094795444818002) | 产品发布 | Javier Martin | 23 |
+| 2026-10-08T07:09:56.000Z | [Jev + Opus for Cheaper API Costs](https://x.com/MalikiAoweed/status/2108092515027165683) | 开发者工具 | MalikiAoweed | 5 |
+| 2026-10-08T07:06:23.000Z | [Discussion on Jev confidence and option order](https://x.com/dave8172/status/2108091621514621022) | 社区实践 | dave | 13 |
+| 2026-10-08T07:00:07.000Z | [Cheat code to connect Opus 5.5 and Jev in one prompt](https://x.com/aiedge_/status/2108090045689446401) | 生产力 | AI Edge | 951 |
+| 2026-10-08T07:00:01.000Z | [Comparing AI decisions: Differences between OpenAI Decisions API, Jev, and Clef](https://x.com/biroi8/status/2108090018917134554) | 开发者工具 | Suzuki | 18 |
+| 2026-10-08T06:53:26.000Z | [TypeSafe AI Raises $40M Seed, Jev Model Gains Traction](https://x.com/DrivenInvestor/status/2108088360921354534) | 接入动态 | Startup Investor | 16 |
+| 2026-10-08T06:52:19.000Z | [Jev API Launch: TypeSafe AI's System One Model for Developers](https://x.com/thenameisfedro/status/2108088079009325346) | 产品发布 | FEDRO | 24 |
+| 2026-10-08T06:50:56.000Z | [TypeSafe AI Launches Jev: A System One Model for Software Decisions](https://x.com/thenameisfedro/status/2108087732211700026) | 产品发布 | FEDRO | 30 |
+| 2026-10-08T06:50:29.000Z | [TypeSafe AI's Jev Model Tops Ramp's Trending SaaS Vendors](https://x.com/DrivenInvestor/status/2108087620609978632) | 产品发布 | Startup Investor | 22 |
+| 2026-10-08T06:31:29.000Z | [MediaPipe DecisionMaker Web SDK: Run Jev-like Decisions Locally in Browser](https://x.com/jason_mayes/status/2108082839023677637) | 开发者工具 | Jason Mayes | 266 |
 | 2026-10-08T06:18:00.000Z | [Jev + Claude Opus 5.5: A Goldmine of Cost Savings](https://x.com/polydao/status/2108079443650441568) | 社区实践 | Mr. Buzzoni | 180 |
 | 2026-10-08T06:16:39.000Z | [Paweł Huryn: Jev & Perplexity are best decision models](https://x.com/PawelHuryn/status/2108079105857970383) | 智能体 | Paweł Huryn | 336 |
 | 2026-10-08T06:15:52.000Z | [Running out of Jev credits?](https://x.com/lg/status/2108078907052503409) | 接入动态 | Larry Gadea | 46 |
@@ -90,15 +102,3 @@
 | 2026-10-07T14:12:42.000Z | [Jev Joins Multi-Model AI Team, Exploring Orchestration](https://x.com/Fable5AINEWS/status/2107836518735987175) | 智能体 | Fable5.1 AI NEWS Select｜Fable5.1によるAI情報検証🔍 | 21 |
 | 2026-10-07T14:10:06.000Z | [J-Jump: A Jev-based Terminal Jump Tool](https://x.com/mr_easonyang/status/2107835863610921067) | 开发者工具 | Eason Yang | 36 |
 | 2026-10-07T14:03:21.000Z | [Integrating Jev into Codex](https://x.com/Tanatosu_DP04/status/2107834166331195658) | 开发者工具 | Naps43_22 | 20 |
-| 2026-10-07T14:01:36.000Z | [Validate API requests with Jev in Azure API Management](https://x.com/StephenWThomas/status/2107833726201704932) | 开发资源 | Stephen W. Thomas | 11 |
-| 2026-10-07T14:00:20.000Z | [ChatGPT Co-Creator Launches TypeSafe AI with Machine-Focused Model Jev](https://x.com/vktrnow/status/2107833406189191540) | 产品发布 | VKTR.com | 13 |
-| 2026-10-07T14:00:00.000Z | [Jev-powered test automation with Playwright](https://x.com/Dshyam03/status/2107833324144144736) | 开发者工具 | RDS | 9 |
-| 2026-10-07T13:55:01.000Z | [Simulating Jev with an OSS Language Model and Token Probabilities](https://x.com/HOTHEAD01TH/status/2107832068679889312) | 工作原理 | 𝕏AID ADIL 👨‍💻 | 10 |
-| 2026-10-07T13:52:27.000Z | [Discussion on Jev's performance in JevBench comparison](https://x.com/airesearch12/status/2107831420903133623) | 社区实践 | Florian S | 190 |
-| 2026-10-07T13:52:19.000Z | [Jev Monitoring Evaluation: Comparable Performance at 1/200 Cost](https://x.com/dswg97/status/2107831390007959684) | 社区实践 | Dewi Gould | 19 |
-| 2026-10-07T13:51:54.000Z | [Jev: Redefining AI Agent Decision-Making](https://x.com/maheshaipm/status/2107831285641289831) | 产品发布 | Mahesh Yadav | 24 |
-| 2026-10-07T13:50:31.000Z | [jev-router: Smart Model Routing for Claude Code](https://x.com/ai_katanai/status/2107830938348441624) | 开发者工具 | Katanai | 32 |
-| 2026-10-07T13:49:02.000Z | [Qwen+Jev Layered SQL Security Architecture](https://x.com/Machinelearrn/status/2107830564292108459) | 数据分析 | Machine Learning | 9 |
-| 2026-10-07T13:48:12.000Z | [Jev: Fast Request Routing](https://x.com/plutos_eth/status/2107830354283282611) | 工作原理 | plutos | 792 |
-| 2026-10-07T13:45:41.000Z | [Jev Benchmark: 4x Faster and 34% Cheaper](https://x.com/joserosado/status/2107829720121237696) | 社区实践 | Jose Rosado @ WebScale | 196 |
-| 2026-10-07T13:42:26.000Z | [AI Agent Workflow Powered by JEV for Daily Tasks](https://x.com/xiax0603/status/2107828900818714946) | 智能体 | xiax｜AI & Agents | 191 |

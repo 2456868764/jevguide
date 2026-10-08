@@ -15,10 +15,10 @@
 - [Cuth](../authors/cuth.md) — 10
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 10
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 10
+- [AI Edge](../authors/ai-edge.md) — 9
 - [Daniel San](../authors/daniel-san.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
-- [AI Edge](../authors/ai-edge.md) — 8
 - [AI_GOAT](../authors/ai-goat.md) — 8
 - [Alex](../authors/alex.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
@@ -48,11 +48,13 @@
 - [Chrome](../authors/chrome.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 6
+- [Jason Zhu](../authors/jason-zhu.md) — 6
 - [Michael](../authors/michael.md) — 6
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
 - [rewind](../authors/rewind.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
+- [Suzuki](../authors/suzuki.md) — 6
 - [venus](../authors/venus.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
 - [萩野貴拓](../authors/萩野貴拓.md) — 6
@@ -65,7 +67,6 @@
 - [govin.eth | G哥](../authors/govin-eth-g哥.md) — 5
 - [Hazem Omier](../authors/hazem-omier.md) — 5
 - [hev mind](../authors/hev-mind.md) — 5
-- [Jason Zhu](../authors/jason-zhu.md) — 5
 - [Jetwani Avinash](../authors/jetwani-avinash.md) — 5
 - [Leaf Yeah!](../authors/leaf-yeah.md) — 5
 - [Maziyar PANAHI](../authors/maziyar-panahi.md) — 5
@@ -79,7 +80,6 @@
 - [Skrilla](../authors/skrilla.md) — 5
 - [Somi](../authors/somi.md) — 5
 - [starmex](../authors/starmex.md) — 5
-- [Suzuki](../authors/suzuki.md) — 5
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
 - [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 5
 - [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 5
@@ -428,6 +428,7 @@
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
 - [Fabian Kerj](../authors/fabian-kerj.md) — 2
 - [Featherless AI](../authors/featherless-ai.md) — 2
+- [FEDRO](../authors/fedro.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
@@ -575,6 +576,7 @@
 - [Parker Brown](../authors/parker-brown.md) — 2
 - [parth jain](../authors/parth-jain.md) — 2
 - [Patrick](../authors/patrick.md) — 2
+- [Paul Jasper](../authors/paul-jasper.md) — 2
 - [Paulo Coutinho  🇧🇷](../authors/paulo-coutinho.md) — 2
 - [Pavel Petržela](../authors/pavel-petrzela.md) — 2
 - [PC Watch](../authors/pc-watch.md) — 2
@@ -636,6 +638,7 @@
 - [Som Dutt | AI/ML Analyst](../authors/som-dutt-ai-ml-analyst.md) — 2
 - [spect](../authors/spect.md) — 2
 - [Sprytix](../authors/sprytix.md) — 2
+- [Startup Investor](../authors/startup-investor.md) — 2
 - [Stas Slutsker](../authors/stas-slutsker.md) — 2
 - [stash](../authors/stash.md) — 2
 - [Stephen W. Thomas](../authors/stephen-w-thomas.md) — 2
@@ -1377,6 +1380,7 @@
 - [Databend](../authors/databend.md) — 1
 - [Databricks](../authors/databricks.md) — 1
 - [Dav3 (Ø,G)](../authors/dav3-g.md) — 1
+- [dave](../authors/dave.md) — 1
 - [Dave Lemphers](../authors/dave-lemphers.md) — 1
 - [Dave Wang](../authors/dave-wang.md) — 1
 - [dave.js](../authors/dave-js.md) — 1
@@ -1873,10 +1877,12 @@
 - [Jason Hu](../authors/jason-hu.md) — 1
 - [Jason Jeske](../authors/jason-jeske.md) — 1
 - [Jason Kam](../authors/jason-kam.md) — 1
+- [Jason Mayes](../authors/jason-mayes.md) — 1
 - [Jason Normore](../authors/jason-normore.md) — 1
 - [Jason Torres](../authors/jason-torres.md) — 1
 - [Jason Varga](../authors/jason-varga.md) — 1
 - [Jasper Li](../authors/jasper-li.md) — 1
+- [Javier Martin](../authors/javier-martin.md) — 1
 - [Jay B 😻🚀](../authors/jay-b.md) — 1
 - [Jay F](../authors/jay-f.md) — 1
 - [Jay Rane • Building AI](../authors/jay-rane-building-ai.md) — 1
@@ -2213,6 +2219,7 @@
 - [Maksym Petyak 🇺🇦](../authors/maksym-petyak.md) — 1
 - [Malay](../authors/malay.md) — 1
 - [male_god](../authors/male-god.md) — 1
+- [MalikiAoweed](../authors/malikiaoweed.md) — 1
 - [MalluCuler](../authors/malluculer.md) — 1
 - [Malte Ubl](../authors/malte-ubl.md) — 1
 - [Manfred Steyer](../authors/manfred-steyer.md) — 1
@@ -2576,7 +2583,6 @@
 - [Paul Asjes](../authors/paul-asjes.md) — 1
 - [Paul Crossland](../authors/paul-crossland.md) — 1
 - [Paul Iusztin](../authors/paul-iusztin.md) — 1
-- [Paul Jasper](../authors/paul-jasper.md) — 1
 - [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
 - [Paul-Marie](../authors/paul-marie.md) — 1
 - [paulwei](../authors/paulwei.md) — 1

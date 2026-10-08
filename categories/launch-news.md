@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 420 | 194 | 229 | 1.1M |
+| 424 | 195 | 232 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/liderarmente/status/2108094795444818002"><img src="https://pbs.twimg.com/amplify_video_thumb/2108094283710361600/img/IVXKPfVt7OaNZCHo.jpg" alt="OpenAI Decisions API Described as Jev-style System One Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/liderarmente/status/2108094795444818002">OpenAI Decisions API Described as Jev-style System One Model</a></h3>
+<p>The post says OpenAI released Decisions API, a multimodal model with a Jev-like System One style, based on GPT6 Luna, developed by Roboflow.</p>
+<p><strong>中文摘要：</strong>原帖称，OpenAI发布Decisions API，这是一个多模态模型，具有类似Jev的System One风格，基于GPT6 Luna，由Roboflow开发。</p>
+<p><strong>Javier Martin</strong> · @liderarmente · 2026-10-08T07:19:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/liderarmente/status/2108094795444818002">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thenameisfedro/status/2108088079009325346"><img src="https://pbs.twimg.com/media/HUFu7gOWIAATpcZ?format=jpg&amp;name=medium" alt="Jev API Launch: TypeSafe AI&#39;s System One Model for Developers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thenameisfedro/status/2108088079009325346">Jev API Launch: TypeSafe AI&#39;s System One Model for Developers</a></h3>
+<p>The B.AI API now brings Jev to developers — TypeSafe AI&#39;s first System One model. Unlike traditional LLMs, Jev focuses on fast, structured decision-making within software workflows, not text generation.</p>
+<p><strong>中文摘要：</strong>B.AI API 现已将 Jev 提供给开发者，这是 TypeSafe AI 的首个 System One 模型。与传统 LLM 不同，Jev 专注于在软件工作流中进行快速、结构化的决策，而非文本生成。</p>
+<p><strong>FEDRO</strong> · @thenameisfedro · 2026-10-08T06:52:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/thenameisfedro/status/2108088079009325346">在 X 查看原帖</a> · <a href="https://t.co/YuRnMOdjO2">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thenameisfedro/status/2108087732211700026"><img src="https://pbs.twimg.com/media/HUFunWQXsAAHuMQ?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev: A System One Model for Software Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thenameisfedro/status/2108087732211700026">TypeSafe AI Launches Jev: A System One Model for Software Decisions</a></h3>
+<p>The B.AI API now brings Jev from TypeSafe AI to developers. As the first System One model, Jev is designed not to write text but to make fast, structured decisions directly inside software workflows.</p>
+<p><strong>中文摘要：</strong>B.AI API 现已向开发者提供 TypeSafe AI 的 Jev 模型。作为首个 System One 模型，Jev 不生成文本，而是直接在软件工作流中做出快速、结构化的决策。</p>
+<p><strong>FEDRO</strong> · @thenameisfedro · 2026-10-08T06:50:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/thenameisfedro/status/2108087732211700026">在 X 查看原帖</a> · <a href="https://t.co/YuRnMOdjO2">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DrivenInvestor/status/2108087620609978632"><img src="https://pbs.twimg.com/media/HUFudueXkAAQ4nO?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Tops Ramp&#39;s Trending SaaS Vendors · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DrivenInvestor/status/2108087620609978632">TypeSafe AI&#39;s Jev Model Tops Ramp&#39;s Trending SaaS Vendors</a></h3>
+<p>Ramp&#39;s October SaaS vendor report shows TypeSafe AI&#39;s Jev model (launched in September) ranked #1 trending and #2 fastest growing, behind only Anthropic.</p>
+<p><strong>中文摘要：</strong>Ramp 十月 SaaS 供应商榜单显示，TypeSafe AI 的 Jev 模型（九月发布）位列趋势榜第一，增长榜第二，仅次于 Anthropic。</p>
+<p><strong>Startup Investor</strong> · @DrivenInvestor · 2026-10-08T06:50:29.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/DrivenInvestor/status/2108087620609978632">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yanivpresler/status/2108043501736735228"><img src="https://pbs.twimg.com/amplify_video_thumb/2108043316163977217/img/mBHpI1JyCvlSc_Ex.jpg" alt="Discussion on Jev decision model and OpenAI Decisions · 原帖视频截图" width="100%"></a>

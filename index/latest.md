@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T06:18:00.000Z | [Jev + Claude Opus 5.5: A Goldmine of Cost Savings](https://x.com/polydao/status/2108079443650441568) | 社区实践 | Mr. Buzzoni | 180 |
+| 2026-10-08T06:16:39.000Z | [Paweł Huryn: Jev & Perplexity are best decision models](https://x.com/PawelHuryn/status/2108079105857970383) | 智能体 | Paweł Huryn | 336 |
+| 2026-10-08T06:15:52.000Z | [Running out of Jev credits?](https://x.com/lg/status/2108078907052503409) | 接入动态 | Larry Gadea | 46 |
+| 2026-10-08T06:03:50.000Z | [QuickE2E: End-to-End Testing Library Using Jev Decision Models](https://x.com/dmokafa/status/2108075880341713291) | 开发者工具 | Daniel Moka⚡ | 149 |
+| 2026-10-08T06:00:35.000Z | [Sebastian Raschka: A History of Text Classification from Bag-of-Words to Jev](https://x.com/AxSaucedo/status/2108075060208554362) | 科研 | Alejandro Saucedo \| KubeCon 2025 AI Day Keynote | 18 |
+| 2026-10-08T06:00:06.000Z | [Jev: An AI Model That Generates No Text for Software Decisions](https://x.com/axel_briche/status/2108074941459403182) | 工作原理 | Axel Briche (dev/IA) | 9 |
 | 2026-10-08T05:35:28.000Z | [Can Jev's Decisions API replace small model training?](https://x.com/libukai/status/2108068742127329664) | 开发者工具 | 李不凯正在研究 | 10 |
 | 2026-10-08T05:21:30.000Z | [Judgment Model Tested on Apple M5 Pro: Jev Stands Out](https://x.com/asopitech_iot/status/2108065227283873802) | 社区实践 | あそぴテック｜アーキテクトの見方 | 7 |
 | 2026-10-08T05:10:07.000Z | [User shares: Jev plays Dino game impressively](https://x.com/anandvivekIN/status/2108062359902429419) | 社区实践 | Vivek Anand | 10 |
@@ -96,9 +102,3 @@
 | 2026-10-07T13:48:12.000Z | [Jev: Fast Request Routing](https://x.com/plutos_eth/status/2107830354283282611) | 工作原理 | plutos | 792 |
 | 2026-10-07T13:45:41.000Z | [Jev Benchmark: 4x Faster and 34% Cheaper](https://x.com/joserosado/status/2107829720121237696) | 社区实践 | Jose Rosado @ WebScale | 196 |
 | 2026-10-07T13:42:26.000Z | [AI Agent Workflow Powered by JEV for Daily Tasks](https://x.com/xiax0603/status/2107828900818714946) | 智能体 | xiax｜AI & Agents | 191 |
-| 2026-10-07T13:38:25.000Z | [Jev-Powered BTC Perps Trading Bot](https://x.com/0xGrimmer_/status/2107827889458561243) | 金融 | Grimmer | 247 |
-| 2026-10-07T13:36:55.000Z | [Jev vs Cloudflare Clef](https://x.com/buddypia/status/2107827512445464911) | 开发者工具 | じゅん@AI駆動開発 | 31 |
-| 2026-10-07T13:34:54.000Z | [Jev 1.13 Appears in Decision Model Pricing Comparison](https://x.com/maqsiak/status/2107827008226873556) | 产品发布 | Michal Makowski | 33 |
-| 2026-10-07T13:33:19.000Z | [TypeSafe AI Jev in Enterprise Workflows](https://x.com/ScandLtd/status/2107826608383971468) | 自动化工作流 | Scand Ltd. | 13 |
-| 2026-10-07T13:31:16.000Z | [OpenAI Decisions API vs Jev: Real-World Test](https://x.com/MarkKashef/status/2107826091712717140) | 开发者工具 | Mark Kashef | 44 |
-| 2026-10-07T12:48:07.000Z | [OpenAI Launches Decisions API, Apparently Responding to Jev](https://x.com/iSegar0/status/2107815232366112948) | 产品发布 | iSegar0 \|\| سگارو | 274 |

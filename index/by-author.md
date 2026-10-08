@@ -14,8 +14,8 @@
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
 - [Cuth](../authors/cuth.md) — 10
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 10
+- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 10
 - [Daniel San](../authors/daniel-san.md) — 9
-- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [AI Edge](../authors/ai-edge.md) — 8
@@ -332,6 +332,7 @@
 - [Alan Daitch](../authors/alan-daitch.md) — 2
 - [Alberto Arena](../authors/alberto-arena.md) — 2
 - [Alejandro Carbajo](../authors/alejandro-carbajo.md) — 2
+- [Alejandro Saucedo | KubeCon 2025 AI Day Keynote](../authors/alejandro-saucedo-kubecon-2025-ai-day-keynote.md) — 2
 - [alex nikolic](../authors/alex-nikolic.md) — 2
 - [Alex Strick van Linschoten](../authors/alex-strick-van-linschoten.md) — 2
 - [alpha404](../authors/alpha404.md) — 2
@@ -917,7 +918,6 @@
 - [Alejandro Fanjul 🛸](../authors/alejandro-fanjul.md) — 1
 - [Alejandro Gonzalez](../authors/alejandro-gonzalez.md) — 1
 - [Alejandro Maestre | AI](../authors/alejandro-maestre-ai.md) — 1
-- [Alejandro Saucedo | KubeCon 2025 AI Day Keynote](../authors/alejandro-saucedo-kubecon-2025-ai-day-keynote.md) — 1
 - [Aleksander Patschek - FSGeek](../authors/aleksander-patschek-fsgeek.md) — 1
 - [Aleksandr Sarantsev](../authors/aleksandr-sarantsev.md) — 1
 - [Alessandro](../authors/alessandro.md) — 1
@@ -1085,6 +1085,7 @@
 - [AVIS](../authors/avis.md) — 1
 - [Avra](../authors/avra.md) — 1
 - [Awais.](../authors/awais.md) — 1
+- [Axel Briche (dev/IA)](../authors/axel-briche-dev-ia.md) — 1
 - [Axel Olsson](../authors/axel-olsson.md) — 1
 - [Axia](../authors/axia.md) — 1
 - [𝙰𝚢𝚊𝚊𝚗 🀥🪭](../authors/ayaan.md) — 1
@@ -1355,6 +1356,7 @@
 - [Daniel Lee](../authors/daniel-lee.md) — 1
 - [Daniel López](../authors/daniel-lopez.md) — 1
 - [Daniel McKinnon](../authors/daniel-mckinnon.md) — 1
+- [Daniel Moka⚡](../authors/daniel-moka.md) — 1
 - [Daniel Morris](../authors/daniel-morris.md) — 1
 - [Daniel Muvdi](../authors/daniel-muvdi.md) — 1
 - [Daniel Ofosu](../authors/daniel-ofosu.md) — 1
@@ -2124,6 +2126,7 @@
 - [Lakshmanan LN](../authors/lakshmanan-ln.md) — 1
 - [Langfuse JP同好会](../authors/langfuse-jp同好会.md) — 1
 - [Larry Fuqua](../authors/larry-fuqua.md) — 1
+- [Larry Gadea](../authors/larry-gadea.md) — 1
 - [Laurent](../authors/laurent.md) — 1
 - [Laurent Sigg](../authors/laurent-sigg.md) — 1
 - [Laurent Zuijdwijk](../authors/laurent-zuijdwijk.md) — 1
@@ -2579,6 +2582,7 @@
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
 - [Pavel Hegler 🫆](../authors/pavel-hegler.md) — 1
+- [Paweł Huryn](../authors/pawe-huryn.md) — 1
 - [PayPerQ](../authors/payperq.md) — 1
 - [Pedro Nauck ⌁ compozy.com](../authors/pedro-nauck-compozy-com.md) — 1
 - [PEEP](../authors/peep.md) — 1

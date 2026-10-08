@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 553 | 287 | 268 | 3.6M |
+| 557 | 288 | 271 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/2020_hira/status/2108114265928614136"><img src="https://pbs.twimg.com/media/HUGGTjyaQAAwvGb?format=jpg&amp;name=medium" alt="Integrate Jev and Claude for page translation in a Chrome extension · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/2020_hira/status/2108114265928614136">Integrate Jev and Claude for page translation in a Chrome extension</a></h3>
+<p>The author added an optional Jev-based content judgement for page translation in a Chrome extension, with translation handled by Claude, and explained how Max/Team API credits work.</p>
+<p><strong>中文摘要：</strong>作者在Chrome扩展的页面翻译中增加了可选的Jev正文判定，翻译由Claude完成，并介绍了Max/Team API积分的使用方式。</p>
+<p><strong>hiraoku</strong> · @2020_hira · 2026-10-08T08:36:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/2020_hira/status/2108114265928614136">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/alvaro_ortiz_es/status/2108109305492984221"><img src="https://pbs.twimg.com/media/HUGCAo6WYAA5LsU?format=jpg&amp;name=medium" alt="Using Jev to Predict Form Field Classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alvaro_ortiz_es/status/2108109305492984221">Using Jev to Predict Form Field Classification</a></h3>
+<p>The author proposes extracting features from each field and asking Jev for the probability that it is one of the inventoried fields, without passing any personal data to the model—only characteristics of the empty form.</p>
+<p><strong>中文摘要：</strong>作者提出从每个字段提取特征，交给Jev计算该字段属于已盘点字段的概率，不向模型传递任何个人数据，仅基于空表单的结构特征。</p>
+<p><strong>Álvaro Ortiz</strong> · @alvaro_ortiz_es · 2026-10-08T08:16:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/alvaro_ortiz_es/status/2108109305492984221">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/e_harrod/status/2108105121569939495"><img src="https://pbs.twimg.com/media/HT4O2vIWAAEKogG?format=jpg&amp;name=medium" alt="Jev: 100x cheaper, 40x faster · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/e_harrod/status/2108105121569939495">Jev: 100x cheaper, 40x faster</a></h3>
+<p>TypeSafe&#39;s Jev model stands out for its ultra-low input cost and free output tokens, claiming 40x faster performance than flash models, ideal for latency-sensitive architectures.</p>
+<p><strong>中文摘要：</strong>TypeSafe的Jev模型以极低的输入成本和免费输出成本著称，性能比flash模型快40倍，适合对速度敏感的架构和应用场景。</p>
+<p><strong>Ed Harrod</strong> · @e_harrod · 2026-10-08T08:00:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/e_harrod/status/2108105121569939495">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ZeningChen42844/status/2108104028974358698"><img src="https://pbs.twimg.com/amplify_video_thumb/2108102228209025024/img/YlPLKRFJmhvmQQsQ.jpg" alt="Voice-Controlled Windows Tool · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ZeningChen42844/status/2108104028974358698">Voice-Controlled Windows Tool</a></h3>
+<p>The author built a near-real-time voice control tool for Windows using Simulang and the OpenAI Decisions API, noting that unlike Jev, OpenAI Decisions supports image inputs.</p>
+<p><strong>中文摘要：</strong>作者使用Simulang和OpenAI Decisions API构建了近实时语音控制Windows的工具，并指出与Jev相比，OpenAI Decisions支持图像输入。</p>
+<p><strong>Zening Chen</strong> · @ZeningChen42844 · 2026-10-08T07:55:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 70</p>
+<p><a href="https://x.com/ZeningChen42844/status/2108104028974358698">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MalikiAoweed/status/2108092515027165683"><img src="https://pbs.twimg.com/amplify_video_thumb/2108064420626575360/img/LSqvZTvoUMtL2JvK.jpg" alt="Jev + Opus for Cheaper API Costs · 原帖视频截图" width="100%"></a>

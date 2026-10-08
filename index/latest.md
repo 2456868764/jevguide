@@ -2,6 +2,16 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-08T08:47:10.000Z | [The cheapest setup upgrade using Jev for model routing](https://x.com/Loofyb0i/status/2108116984801988940) | 自动化工作流 | Loofy | 7 |
+| 2026-10-08T08:44:38.000Z | [Exploring On-Device AI for Structured Decisions: Like Jev, But Fully Local](https://x.com/MohitKarekar/status/2108116346919592338) | 社区实践 | Mohit Karekar | 7 |
+| 2026-10-08T08:36:22.000Z | [Integrate Jev and Claude for page translation in a Chrome extension](https://x.com/2020_hira/status/2108114265928614136) | 开发者工具 | hiraoku | 40 |
+| 2026-10-08T08:31:33.000Z | [JEV vs DeepSeek in Gostop Match: JEV Cheaper but More Missed Plays](https://x.com/Cynical_L/status/2108113054252908760) | 游戏 | 시니컬_엘 | 55 |
+| 2026-10-08T08:23:00.000Z | [Jev Open-Source Remake Released: StartLux-Decision for Ticket Option Selection](https://x.com/meng_shengyu/status/2108110901089833097) | 客户支持 | Simon Meng | 30 |
+| 2026-10-08T08:16:39.000Z | [Using Jev to Predict Form Field Classification](https://x.com/alvaro_ortiz_es/status/2108109305492984221) | 开发者工具 | Álvaro Ortiz | 8 |
+| 2026-10-08T08:00:02.000Z | [Jev: 100x cheaper, 40x faster](https://x.com/e_harrod/status/2108105121569939495) | 开发者工具 | Ed Harrod | 6 |
+| 2026-10-08T07:55:41.000Z | [Voice-Controlled Windows Tool](https://x.com/ZeningChen42844/status/2108104028974358698) | 开发者工具 | Zening Chen | 70 |
+| 2026-10-08T07:54:10.000Z | [RubyLLM 2.1 Released with Jev Decision Model Support](https://x.com/paolino/status/2108103644105372136) | 产品发布 | Carmine Paolino | 284 |
+| 2026-10-08T07:36:49.000Z | [Jev-Powered Automated Crypto Trading Bot](https://x.com/balance0014/status/2108099278132654356) | 金融 | 潜水员Balance | 28 |
 | 2026-10-08T07:20:22.000Z | [Jev edges out in transcript classification testing](https://x.com/powlymoli/status/2108095139604496792) | 社区实践 | Paul Jasper | 4 |
 | 2026-10-08T07:19:52.000Z | [Jev-powered low-cost AI brand filtering](https://x.com/GoSailGlobal/status/2108095015738294516) | 营销 | Jason Zhu | 54 |
 | 2026-10-08T07:19:00.000Z | [OpenAI Decisions API Described as Jev-style System One Model](https://x.com/liderarmente/status/2108094795444818002) | 产品发布 | Javier Martin | 23 |
@@ -92,13 +102,3 @@
 | 2026-10-07T14:27:02.000Z | [Jev vs OpenAI Decisions API: A Benchmark Test](https://x.com/imohitmayank/status/2107840126663676411) | 开发者工具 | Mohit | 16 |
 | 2026-10-07T14:24:46.000Z | [Jev: TypeSafe AI's System One Model for Calibrated AI Agent Answers](https://x.com/rakeshgohel01/status/2107839555738943792) | 智能体 | Rakesh Gohel 🇨🇦 | 16 |
 | 2026-10-07T14:24:18.000Z | [Jev Comparison: Higher Cost, Slower Responses, Slightly Worse Quality](https://x.com/achammah1/status/2107839437770224097) | 社区实践 | Assem | 15 |
-| 2026-10-07T14:24:01.000Z | [Jev vs OpenAI Decisions API Benchmark Comparison](https://x.com/Ethan_Abimelech/status/2107839368345915786) | 开发者工具 | Ethan Abimelech | 10 |
-| 2026-10-07T14:23:25.000Z | [Ollama 0.35 Now Supports Running the Jev Decision Model](https://x.com/vibecodingth/status/2107839214905700477) | 工作原理 | Vibe Coding Thailand | 61 |
-| 2026-10-07T14:21:20.000Z | [Autojev vs Jev: A Personal Benchmark](https://x.com/ItsCuthulhu/status/2107838690340856146) | 社区实践 | Cuth | 10 |
-| 2026-10-07T14:17:49.000Z | [A Jev-powered AI news aggregator](https://x.com/nicky_sap/status/2107837804613116278) | 知识与搜索 | ns | 223 |
-| 2026-10-07T14:14:01.000Z | [Jev verifies news sources one by one, so traders only read one](https://x.com/0xOrionVega/status/2107836849683157254) | 金融 | Orion | 186 |
-| 2026-10-07T14:12:49.000Z | [OpenAI launches Decisions API, coming for Jev](https://x.com/lilroomxyz/status/2107836548427497845) | 产品发布 | lil room | 41 |
-| 2026-10-07T14:12:44.000Z | [Stanford Professor Builds Data Science System with JEV](https://x.com/deezzex/status/2107836525413052900) | 数据分析 | deezzex | 290 |
-| 2026-10-07T14:12:42.000Z | [Jev Joins Multi-Model AI Team, Exploring Orchestration](https://x.com/Fable5AINEWS/status/2107836518735987175) | 智能体 | Fable5.1 AI NEWS Select｜Fable5.1によるAI情報検証🔍 | 21 |
-| 2026-10-07T14:10:06.000Z | [J-Jump: A Jev-based Terminal Jump Tool](https://x.com/mr_easonyang/status/2107835863610921067) | 开发者工具 | Eason Yang | 36 |
-| 2026-10-07T14:03:21.000Z | [Integrating Jev into Codex](https://x.com/Tanatosu_DP04/status/2107834166331195658) | 开发者工具 | Naps43_22 | 20 |

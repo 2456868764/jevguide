@@ -207,6 +207,7 @@
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
 - [Hendrik Krack](../authors/hendrik-krack.md) — 3
 - [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
+- [hiraoku](../authors/hiraoku.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
 - [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 3
@@ -450,7 +451,6 @@
 - [Happycapy](../authors/happycapy.md) — 2
 - [Hassan](../authors/hassan.md) — 2
 - [Hemant](../authors/hemant.md) — 2
-- [hiraoku](../authors/hiraoku.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
 - [Ian Arawjo](../authors/ian-arawjo.md) — 2
@@ -634,6 +634,7 @@
 - [Shyam Makwana](../authors/shyam-makwana.md) — 2
 - [silentguy](../authors/silentguy.md) — 2
 - [Simeon Li](../authors/simeon-li.md) — 2
+- [Simon Meng](../authors/simon-meng.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [Som Dutt | AI/ML Analyst](../authors/som-dutt-ai-ml-analyst.md) — 2
 - [spect](../authors/spect.md) — 2
@@ -970,6 +971,7 @@
 - [Alvaro](../authors/alvaro.md) — 1
 - [Alvaro Cintas](../authors/alvaro-cintas.md) — 1
 - [Alvaro Mateos](../authors/alvaro-mateos.md) — 1
+- [Álvaro Ortiz](../authors/alvaro-ortiz.md) — 1
 - [Aly](../authors/aly.md) — 1
 - [AM Bentley](../authors/am-bentley.md) — 1
 - [Ama Senevirathne](../authors/ama-senevirathne.md) — 1
@@ -1216,6 +1218,7 @@
 - [Carlos Gallo](../authors/carlos-gallo.md) — 1
 - [Carlos Miñana](../authors/carlos-minana.md) — 1
 - [Carlos Navarro](../authors/carlos-navarro.md) — 1
+- [Carmine Paolino](../authors/carmine-paolino.md) — 1
 - [Carnage](../authors/carnage.md) — 1
 - [Cartwright](../authors/cartwright.md) — 1
 - [Caseiro.dev](../authors/caseiro-dev.md) — 1
@@ -1485,6 +1488,7 @@
 - [EarlyAccessEpidemics](../authors/earlyaccessepidemics.md) — 1
 - [Eason Yang](../authors/eason-yang.md) — 1
 - [Echosphere](../authors/echosphere.md) — 1
+- [Ed Harrod](../authors/ed-harrod.md) — 1
 - [Ed Plese](../authors/ed-plese.md) — 1
 - [Eddie Bae](../authors/eddie-bae.md) — 1
 - [edos](../authors/edos.md) — 1
@@ -2170,6 +2174,7 @@
 - [Lokesh Bohra](../authors/lokesh-bohra.md) — 1
 - [Loktar 🇺🇸](../authors/loktar.md) — 1
 - [Long Chen](../authors/long-chen.md) — 1
+- [Loofy](../authors/loofy.md) — 1
 - [Loqua.AI](../authors/loqua-ai.md) — 1
 - [lordsnow](../authors/lordsnow.md) — 1
 - [lostinazeroy](../authors/lostinazeroy.md) — 1
@@ -2371,6 +2376,7 @@
 - [Mohd shubair 🌱](../authors/mohd-shubair.md) — 1
 - [Mohit Garg](../authors/mohit-garg.md) — 1
 - [Mohit Goyal (Harness arc)](../authors/mohit-goyal-harness-arc.md) — 1
+- [Mohit Karekar](../authors/mohit-karekar.md) — 1
 - [Mohsen Rastegar .base.eth .ink 🍚 ⛓ 🚢](../authors/mohsen-rastegar-base-eth-ink.md) — 1
 - [Moid](../authors/moid.md) — 1
 - [mojesko](../authors/mojesko.md) — 1
@@ -2960,7 +2966,6 @@
 - [silvan](../authors/silvan.md) — 1
 - [Simar Kohli](../authors/simar-kohli.md) — 1
 - [Simon](../authors/simon.md) — 1
-- [Simon Meng](../authors/simon-meng.md) — 1
 - [Simon Seagrave](../authors/simon-seagrave.md) — 1
 - [sina](../authors/sina.md) — 1
 - [Sirin](../authors/sirin.md) — 1
@@ -3404,6 +3409,7 @@
 - [ZazenCodes](../authors/zazencodes.md) — 1
 - [Zed](../authors/zed.md) — 1
 - [zeeman](../authors/zeeman.md) — 1
+- [Zening Chen](../authors/zening-chen.md) — 1
 - [Zenko | NeuralFrame Labs](../authors/zenko-neuralframe-labs.md) — 1
 - [Zeno Divergent](../authors/zeno-divergent.md) — 1
 - [Zentrix⌚️](../authors/zentrix.md) — 1
@@ -3438,6 +3444,7 @@
 - [말러팔삼](../authors/jev-showcase.md) — 1
 - [미나리무침](../authors/jev-showcase.md) — 1
 - [버섯돌이(Taehyun Kim)](../authors/taehyun-kim.md) — 1
+- [시니컬_엘](../authors/jev-showcase.md) — 1
 - [오뚱](../authors/jev-showcase.md) — 1
 - [위키독스](../authors/jev-showcase.md) — 1
 - [카링또만쥬](../authors/jev-showcase.md) — 1
@@ -3733,6 +3740,7 @@
 - [渥美研司｜中小企業診断士](../authors/渥美研司-中小企業診断士.md) — 1
 - [湯葉](../authors/湯葉.md) — 1
 - [滝澤武](../authors/滝澤武.md) — 1
+- [潜水员Balance](../authors/潜水员balance.md) — 1
 - [激ヵゎおもぺ師ﾃｬﾝ✨️💞【公式】🌐𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞𰻞](../authors/激-師-公式.md) — 1
 - [热点挖掘机🔶BNB](../authors/热点挖掘机-bnb.md) — 1
 - [煜见 AI 未来｜AI 实测](../authors/煜见-ai-未来-ai-实测.md) — 1

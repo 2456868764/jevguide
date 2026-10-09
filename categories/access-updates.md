@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 391 | 163 | 228 | 802K |
+| 393 | 163 | 230 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DiarioBitcoin/status/2108679439856857561"><img src="https://pbs.twimg.com/media/HUOIxpNX0AAXgoV?format=jpg&amp;name=medium" alt="Jev Boosts TypeSafe AI to $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DiarioBitcoin/status/2108679439856857561">Jev Boosts TypeSafe AI to $7.5B Valuation</a></h3>
+<p>TypeSafe AI reaches a $7.5 billion valuation weeks after launching Jev, raising $870 million from investors including a16z, Sequoia, and DCVC. The company claims a third of the Fortune 500 is already using Jev to generate probabilities.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 在推出 Jev 后数周内估值达到 75 亿美元，融资 8.7 亿美元，投资者包括 a16z、Sequoia 和 DCVC。公司称财富 500 强中有三分之一已在用 Jev 生成概率。</p>
+<p><strong>Diario฿itcoin</strong> · @DiarioBitcoin · 2026-10-09T22:02:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 451</p>
+<p><a href="https://x.com/DiarioBitcoin/status/2108679439856857561">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VanessaDuranta/status/2108678438429118504"><img src="https://pbs.twimg.com/media/HUOH2ivXkAAiKhJ?format=jpg&amp;name=medium" alt="TypeSafe AI&#39;s Jev model raises $870M, valued at $7.5B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VanessaDuranta/status/2108678438429118504">TypeSafe AI&#39;s Jev model raises $870M, valued at $7.5B</a></h3>
+<p>According to the post, TypeSafe AI&#39;s non-text AI model Jev helped the company raise $870M at a $7.5B valuation weeks after release, with about a third of the Fortune 500 reportedly using it.</p>
+<p><strong>中文摘要：</strong>据帖子，TypeSafe AI 的非文本 AI 模型 Jev 在发布数周后助公司融资 8.7 亿美元，估值达 75 亿美元，并已有约三分之一财富 500 强企业使用。</p>
+<p><strong>Vanessa</strong> · @VanessaDuranta · 2026-10-09T21:58:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/VanessaDuranta/status/2108678438429118504">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vintcessun/status/2108520382252945790"><img src="https://pbs.twimg.com/media/HUL4G5HbsAEviRb?format=png&amp;name=medium" alt="vllm-jev: Integrating Jev Decision Models into vLLM · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 236 | 152 | 84 | 595K |
+| 238 | 152 | 86 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Brankotrcek/status/2108685508700151848"><img src="https://pbs.twimg.com/media/HUOORu1XUAIXWeK?format=jpg&amp;name=medium" alt="Jev + Opus 5.5 Workflow: Skip Repeated Work · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Brankotrcek/status/2108685508700151848">Jev + Opus 5.5 Workflow: Skip Repeated Work</a></h3>
+<p>Paste this prompt into Claude Code to build a Jev + Opus 5.5 workflow that skips repetitive tasks and batches routine checks, aiming to deliver 20x more useful work per dollar. The article below walks through the setup.</p>
+<p><strong>中文摘要：</strong>向 Claude Code 输入该提示，构建一个结合 Jev 与 Opus 5.5 的工作流，跳过重复任务并将常规检查批量处理，目标是使每美元的有用工作量提升 20 倍。原文下方附有设置教程。</p>
+<p><strong>Branko Trcek</strong> · @Brankotrcek · 2026-10-09T22:26:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 83</p>
+<p><a href="https://x.com/Brankotrcek/status/2108685508700151848">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dailytechonx/status/2108678917653450927"><img src="https://pbs.twimg.com/media/HUOITQeX0AApMPN?format=jpg&amp;name=medium" alt="Jev raises $870M at $7.5B valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dailytechonx/status/2108678917653450927">Jev raises $870M at $7.5B valuation</a></h3>
+<p>Jev, TypeSafe AI&#39;s non-text transformer model, raised $870M at $7.5B valuation. It outputs calibrated decisions for automation and is already used by a third of Fortune 500 firms.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的非文本 Transformer 模型 Jev 获 8.7 亿美元融资，输出校准决策用于自动化，财富 500 强已有三分之一采用。</p>
+<p><strong>The Daily Tech Feed</strong> · @dailytechonx · 2026-10-09T22:00:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/dailytechonx/status/2108678917653450927">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2108597594817474744"><img src="https://pbs.twimg.com/amplify_video_thumb/2108597521941434369/img/ECh6PtNpuFs2GpVl.jpg" alt="Jev engineering cuts AI bills by 90% · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 433 | 238 | 197 | 3.0M |
+| 435 | 238 | 199 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pdurdenj/status/2108696212878602505"><img src="https://pbs.twimg.com/media/HUOYB7NXIAAldYp?format=jpg&amp;name=medium" alt="Jev Model: Probabilistic Judgments, Not Text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pdurdenj/status/2108696212878602505">Jev Model: Probabilistic Judgments, Not Text</a></h3>
+<p>The post discusses the Jev model, which never writes a sentence but outputs typed judgments with probabilities. It mentions the model achieved a $7.5B valuation weeks after launch, that Amazon has already cloned it, and raises questions about pricing the moat.</p>
+<p><strong>中文摘要：</strong>帖子讨论Jev模型的特点：它从不写句子，而是输出带概率的类型化判断。文章提到该模型发布数周后获得75亿美元估值，亚马逊已克隆该模型，并引发对护城河定价的讨论。</p>
+<p><strong>Prajjwal · nanoserve</strong> · @pdurdenj · 2026-10-09T23:08:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><a href="https://x.com/pdurdenj/status/2108696212878602505">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tensorfiend/status/2108679581196845206"><img src="https://pbs.twimg.com/media/HUOI2ESaUAAvnbR?format=jpg&amp;name=large" alt="Self-Improving Agent Recipe with Jev as Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tensorfiend/status/2108679581196845206">Self-Improving Agent Recipe with Jev as Decision Model</a></h3>
+<p>Tensor Fiend proposes a Learner + Memory + Actor recipe, highlighting Jev as an Actor (decision model) for building self-improving agents in any environment, and mentions DeepMind&#39;s Dream RSI as a potential memory direction.</p>
+<p><strong>中文摘要：</strong>Tensor Fiend 提出“学习者+记忆+行动者”配方，指出Jev可作为行动者（决策模型），用于构建任何环境中的自改进智能体，并提及DeepMind的Dream RSI作为记忆方向的潜在参考。</p>
+<p><strong>Tensor Fiend</strong> · @tensorfiend · 2026-10-09T22:02:44.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 37</p>
+<p><a href="https://x.com/tensorfiend/status/2108679581196845206">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PromptQL/status/2108598887199997989"><img src="https://pbs.twimg.com/media/HUM_g6LWwAAa5pX?format=jpg&amp;name=medium" alt="How to Fairly Compare Jev with GPT · 原帖图片" width="100%"></a>

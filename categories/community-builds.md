@@ -4,11 +4,131 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1011 | 412 | 603 | 3.0M |
+| 1021 | 416 | 609 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/keimakawada/status/2108694244370382961"><img src="https://pbs.twimg.com/media/HUOWPSPbIAAVghR?format=jpg&amp;name=medium" alt="Community Discussion: Jev vs. Microsoft Decision-1 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/keimakawada/status/2108694244370382961">Community Discussion: Jev vs. Microsoft Decision-1</a></h3>
+<p>The post notes Microsoft Decision-1 is text-only, on Foundry, and not used for training. It mentions talks comparing Jev in performance/cost, but stresses the importance of making Jev available on the three major clouds.</p>
+<p><strong>中文摘要：</strong>帖子提到 Microsoft Decision-1 为纯文本模型，在 Foundry 上且不用于训练。社区关注 Jev 与其在性能/成本上的比较，但认为关键是要让 Jev 在三大云中可用。</p>
+<p><strong>けーま</strong> · @keimakawada · 2026-10-09T23:01:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/keimakawada/status/2108694244370382961">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ShaosuLiu/status/2108692171637612848"><img src="https://pbs.twimg.com/media/HUOT9EPaQAA5Ivr?format=jpg&amp;name=medium" alt="Jev vs. OpenAI Decisions API: A Community Benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ShaosuLiu/status/2108692171637612848">Jev vs. OpenAI Decisions API: A Community Benchmark</a></h3>
+<p>The author tested the Jev model released last month and found it lacks image input, so it cannot read freight documents. They then compared it with OpenAI&#39;s Decisions API and a self-trained model, which achieved +1 pp accuracy, 3× faster, 3× cheaper, with 0 training data.</p>
+<p><strong>中文摘要：</strong>作者测试了上个月发布的Jev模型，发现它不支持图像输入，无法读取货运文档。随后将其与OpenAI的Decisions API以及自训练模型进行对比，自训练模型在准确率提升1个百分点、速度提升3倍、成本降低3倍的情况下，且无需训练数据。</p>
+<p><strong>Shaosu Liu</strong> · @ShaosuLiu · 2026-10-09T22:52:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/ShaosuLiu/status/2108692171637612848">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mattiadmr/status/2108687264431689774"><img src="https://pbs.twimg.com/media/HUOP4ZAXYAA0L9c?format=png&amp;name=small" alt="Microsoft&#39;s reaction after TypeSafe launched Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mattiadmr/status/2108687264431689774">Microsoft&#39;s reaction after TypeSafe launched Jev</a></h3>
+<p>The post quotes Microsoft saying &#39;Bring me the decision-model guy&#39; after TypeSafe launched Jev, highlighting the attention Jev&#39;s release attracted.</p>
+<p><strong>中文摘要：</strong>帖子引用微软在TypeSafe发布Jev后说“把决策模型那家伙带来”，暗示Jev发布引发的关注。</p>
+<p><strong>Mattia Dimauro 𓇋</strong> · @mattiadmr · 2026-10-09T22:33:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/mattiadmr/status/2108687264431689774">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mattiadmr/status/2108687107460157856"><img src="https://pbs.twimg.com/media/HUOPi7tXsAAXpak?format=png&amp;name=small" alt="Microsoft&#39;s reaction to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mattiadmr/status/2108687107460157856">Microsoft&#39;s reaction to Jev</a></h3>
+<p>The post quotes Microsoft&#39;s comment after TypeSafe launched Jev, highlighting Jev&#39;s impact.</p>
+<p><strong>中文摘要：</strong>帖子引用微软在TypeSafe发布Jev后的评论，凸显Jev的影响。</p>
+<p><strong>Mattia Dimauro 𓇋</strong> · @mattiadmr · 2026-10-09T22:32:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/mattiadmr/status/2108687107460157856">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ThreadedInsight/status/2108683424827621436"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Jev&#39;s popularity prompts frontier labs to build their own decision models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ThreadedInsight/status/2108683424827621436">Jev&#39;s popularity prompts frontier labs to build their own decision models</a></h3>
+<p>The post notes that Jev has become so popular that frontier labs like OpenAI and Microsoft decided to build their own decision models, citing OpenAI&#39;s Decisions API and Microsoft Decision-1, reflecting the major impact of decision models.</p>
+<p><strong>中文摘要：</strong>帖子提到Jev广受欢迎，以至于OpenAI和Microsoft等前沿实验室纷纷决定构建自己的决策模型，OpenAI的Decisions API和Microsoft Decision-1便是例证，反映出决策模型领域的重要影响力。</p>
+<p><strong>Canopus</strong> · @ThreadedInsight · 2026-10-09T22:18:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/ThreadedInsight/status/2108683424827621436">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Solomonrojie/status/2108679013837201770"><img src="https://pbs.twimg.com/amplify_video_thumb/2108678904026189824/img/JlEKGpvSYlxFXqx-.jpg" alt="Jev + Opus Workflow Sharing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Solomonrojie/status/2108679013837201770">Jev + Opus Workflow Sharing</a></h3>
+<p>The author shares a workflow using Jev for focused decisions and Opus for analysis/implementation, aiming to achieve 20x more accepted work on the same API budget.</p>
+<p><strong>中文摘要：</strong>作者分享将Jev用于聚焦判断、Opus用于分析实施的工作流，以在相同API预算下将可接受工作量提升20倍。</p>
+<p><strong>Solomon Rojie</strong> · @Solomonrojie · 2026-10-09T22:00:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 362</p>
+<p><a href="https://x.com/Solomonrojie/status/2108679013837201770">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/coherencia_plis/status/2108678146455454100"><img src="https://pbs.twimg.com/media/HUOGCL-WMAAYcJ0?format=jpg&amp;name=medium" alt="Jev outperforms OpenAI Decisions API on a simple folder classification task · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/coherencia_plis/status/2108678146455454100">Jev outperforms OpenAI Decisions API on a simple folder classification task</a></h3>
+<p>User Harvey benchmarked TypeSafe AI&#39;s Jev against the OpenAI Decisions API. The task was to classify which user folder a chat about phone spending belongs to. Jev scored 250/250, while the OpenAI Decisions API scored 110/250.</p>
+<p><strong>中文摘要：</strong>用户Harvey对TypeSafe AI的Jev和OpenAI Decisions API进行了基准测试，任务是根据聊天内容将用户的文件夹分类。结果显示Jev在250次中正确250次，而OpenAI Decisions API仅正确110次。</p>
+<p><strong>Harvey</strong> · @coherencia_plis · 2026-10-09T21:57:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/coherencia_plis/status/2108678146455454100">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Sanjayyb7/status/2108675344048013730"><img src="https://pbs.twimg.com/amplify_video_thumb/2108675033094852609/img/JDea50gz6eYI88iz.jpg" alt="User Built Gustavo with Jev: Snap a Menu to Know the Taste · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sanjayyb7/status/2108675344048013730">User Built Gustavo with Jev: Snap a Menu to Know the Taste</a></h3>
+<p>A user shared an app called Gustavo built with Jev AI: snap a menu to analyze each dish&#39;s taste, including spice level, and decide what to order. Tested at an Indian restaurant, the user confirmed it worked and validated the spiciness themselves.</p>
+<p><strong>中文摘要：</strong>一位用户分享了用 Jev AI 构建的 Gustavo 应用：拍下菜单即可分析每道菜的口味，包括辣度，帮助决定点什么。该用户在一家印度餐厅实测有效，并亲自验证了辣度判断。</p>
+<p><strong>Sanjay</strong> · @Sanjayyb7 · 2026-10-09T21:45:53.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 171</p>
+<p><a href="https://x.com/Sanjayyb7/status/2108675344048013730">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sarimrmalik/status/2108674642458337578"><img src="https://pbs.twimg.com/media/HUODZbLXwAAsCF6?format=jpg&amp;name=medium" alt="Community user compares Jev with OpenAI Decisions API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sarimrmalik/status/2108674642458337578">Community user compares Jev with OpenAI Decisions API</a></h3>
+<p>The author created 101 scenarios and ran each model 3 times, finding Jev more accurate and half the cost.</p>
+<p><strong>中文摘要：</strong>作者基于博客文章示例创建101个场景，各运行3次对比，发现Jev更准确、成本减半。</p>
+<p><strong>Sarim Malik</strong> · @sarimrmalik · 2026-10-09T21:43:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 371</p>
+<p><a href="https://x.com/sarimrmalik/status/2108674642458337578">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JoeNicol_/status/2108674168468463890"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Plans to compare Jev with ChatGPT · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JoeNicol_/status/2108674168468463890">Plans to compare Jev with ChatGPT</a></h3>
+<p>User expresses excitement about trying and comparing Jev with ChatGPT.</p>
+<p><strong>中文摘要：</strong>用户表达兴奋，表示将尝试并对比Jev和ChatGPT。</p>
+<p><strong>Joe Nicol</strong> · @JoeNicol_ · 2026-10-09T21:41:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/JoeNicol_/status/2108674168468463890">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/itscellou/status/2108596886378611101"><img src="https://pbs.twimg.com/amplify_video_thumb/2101720236332560384/img/yaooo6fILn6Lwdqw.jpg" alt="User Shares Real-World Use of Jev for Scam Detection · 原帖视频截图" width="100%"></a>

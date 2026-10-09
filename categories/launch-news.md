@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 445 | 208 | 240 | 1.1M |
+| 451 | 209 | 245 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/aft1n_/status/2108695100444311896"><img src="https://pbs.twimg.com/media/HUOUBPJW0AACon_?format=jpg&amp;name=medium" alt="nuxt-local-model v0.2.x adds Jev-like decision model support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aft1n_/status/2108695100444311896">nuxt-local-model v0.2.x adds Jev-like decision model support</a></h3>
+<p>nuxt-local-model v0.2.x introduces Jev-like decision models alongside the existing Transformers.js pipelines, enabling typed answers with probabilities for named questions on client or server.</p>
+<p><strong>中文摘要：</strong>nuxt-local-model v0.2.x 在保留现有 Transformers.js 管道的基础上，新增了类 Jev 的决策模型，支持在客户端或服务器端通过命名问题获取带概率的类型化答案。</p>
+<p><strong>Sergii Yarochevskyi 🇺🇦</strong> · @aft1n_ · 2026-10-09T23:04:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><a href="https://x.com/aft1n_/status/2108695100444311896">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TFelizola91057/status/2108694169975992540"><img src="https://pbs.twimg.com/media/HUOWCTvaUAAl7ZL?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: An AI that produces probabilities, not text · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TFelizola91057/status/2108694169975992540">TypeSafe&#39;s Jev: An AI that produces probabilities, not text</a></h3>
+<p>TypeSafe AI&#39;s Jev model doesn&#39;t generate text; it outputs probabilities to support decision-making. The company raised $870 million at a $7.5 billion valuation.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI的Jev模型不生成文本，而是输出概率来支持决策。该公司在最新一轮融资中筹集了8.7亿美元，估值达75亿美元。</p>
+<p><strong>Thiago Felizola</strong> · @TFelizola91057 · 2026-10-09T23:00:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/TFelizola91057/status/2108694169975992540">在 X 查看原帖</a> · <a href="https://t.co/FpmmJNvcWh">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abdulrhman_ai/status/2108689250090950973"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Releases Decision Model Similar to TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abdulrhman_ai/status/2108689250090950973">Microsoft Releases Decision Model Similar to TypeSafe&#39;s Jev</a></h3>
+<p>The post discusses Microsoft&#39;s new decision model, claiming it is the same as TypeSafe&#39;s Jev system, praises its benchmark performance, and anticipates future developments.</p>
+<p><strong>中文摘要：</strong>帖子讨论微软新发布的决策模型，称其与 TypeSafe 的 Jev 系统相同，并对其基准测试表现给予高度评价，引发对后续发展的期待。</p>
+<p><strong>Abdulrhman</strong> · @abdulrhman_ai · 2026-10-09T22:41:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/abdulrhman_ai/status/2108689250090950973">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeeprunNews/status/2108681264178004286"><img src="https://pbs.twimg.com/media/HUOKb4daoAAdCnz?format=jpg&amp;name=medium" alt="Maker of Non-Text AI Model Jev Valued at $7.5B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DeeprunNews/status/2108681264178004286">Maker of Non-Text AI Model Jev Valued at $7.5B</a></h3>
+<p>The developer of non-text AI model Jev is valued at $7.5B just weeks after launch, according to TechCrunch.</p>
+<p><strong>中文摘要：</strong>据TechCrunch报道，非文本AI模型Jev的开发商在发布仅数周后估值达75亿美元。</p>
+<p><strong>Deeprun News</strong> · @DeeprunNews · 2026-10-09T22:09:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/DeeprunNews/status/2108681264178004286">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/newsglobeorg/status/2108675481822236934"><img src="https://pbs.twimg.com/media/HUOFLPMXIAA-xmW?format=jpg&amp;name=medium" alt="TypeSafe AI, maker of Jev model, valued at $7.5B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/newsglobeorg/status/2108675481822236934">TypeSafe AI, maker of Jev model, valued at $7.5B</a></h3>
+<p>TypeSafe AI reportedly raised $870 million in a funding round led by a16Z, reaching a $7.5 billion valuation. Its non-text AI model Jev achieved this valuation weeks after launch, highlighting rapid growth.</p>
+<p><strong>中文摘要：</strong>据报道，TypeSafe AI在a16Z领投的融资中筹集8.7亿美元，估值达75亿美元。该公司开发的非文本AI模型Jev于发布数周后即获得如此高估值，凸显其快速增长势头。</p>
+<p><strong>Globenews</strong> · @newsglobeorg · 2026-10-09T21:46:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/newsglobeorg/status/2108675481822236934">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RandyHamilton/status/2108675061574205588"><img src="https://pbs.twimg.com/media/HUOEyzNasAAp0Rb?format=jpg&amp;name=medium" alt="Maker of Jev AI Model Valued at $7.5B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RandyHamilton/status/2108675061574205588">Maker of Jev AI Model Valued at $7.5B</a></h3>
+<p>The post reports that the maker of the non-text AI model Jev is valued at $7.5B just weeks after launch, highlighting strong market interest.</p>
+<p><strong>中文摘要：</strong>该帖子报道了非文本AI模型Jev的制造商在发布仅数周后估值达到75亿美元，凸显市场对Jev的高度关注。</p>
+<p><strong>Randy Hamilton</strong> · @RandyHamilton · 2026-10-09T21:44:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/RandyHamilton/status/2108675061574205588">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bojie_li/status/2108596476276593073"><img src="https://pbs.twimg.com/amplify_video_thumb/2108588469874487296/img/zWUTDGWBuuRO8WMf.jpg" alt="Pine Computer Launch: Dubbed the Jev of Computer Use · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 31 | 14 | 17 | 115K |
+| 36 | 15 | 21 | 115K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ZeroBot_AI/status/2108685495899189377"><img src="https://pbs.twimg.com/media/HUOORn6XIAAqW1x?format=jpg&amp;name=medium" alt="Meeting Jev&#39;s creator, TypeSafe hits $7.5B valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ZeroBot_AI/status/2108685495899189377">Meeting Jev&#39;s creator, TypeSafe hits $7.5B valuation</a></h3>
+<p>ZeroBot shares meeting Jev&#39;s creator Diogo Almeida right after his first post-launch presentation, noting that TypeSafe, the company behind Jev, already has a $7.5B valuation with a16z leading its Series A just over three weeks in.</p>
+<p><strong>中文摘要：</strong>ZeroBot分享在Jev发布后首次演讲时见到其创作者Diogo Almeida，并提到TypeSafe在成立仅三周多后便获得a16z领投的A轮融资，估值达75亿美元。</p>
+<p><strong>ZeroBot</strong> · @ZeroBot_AI · 2026-10-09T22:26:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><a href="https://x.com/ZeroBot_AI/status/2108685495899189377">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fourweekmba/status/2108685366609788980"><img src="https://pbs.twimg.com/media/HUOOKnhXIAAYEIE?format=jpg&amp;name=medium" alt="TypeSafe Raises $870M at $7.5B Valuation for Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fourweekmba/status/2108685366609788980">TypeSafe Raises $870M at $7.5B Valuation for Jev Model</a></h3>
+<p>Led by Andreessen Horowitz with Martin Casado joining the board. Reportedly, a third of the Fortune 500 uses Jev.</p>
+<p><strong>中文摘要：</strong>据称由Andreessen Horowitz领投，Martin Casado加入董事会。消息称财富500强中有三分之一使用Jev模型。</p>
+<p><strong>Gennaro</strong> · @fourweekmba · 2026-10-09T22:25:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/fourweekmba/status/2108685366609788980">在 X 查看原帖</a> · <a href="https://t.co/0EoVgDPrp8">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/niron/status/2108683715685585074"><img src="https://pbs.twimg.com/media/HUOMipTXUAAGvif?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M at $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/niron/status/2108683715685585074">TypeSafe AI Raises $870M at $7.5B Valuation</a></h3>
+<p>TypeSafe AI, developer of the popular Jev model, raised $870 million at a $7.5 billion valuation, led by Andreessen Horowitz with participation from Sequoia and DCVC.</p>
+<p><strong>中文摘要：</strong>开发热门Jev模型的TypeSafe AI完成新一轮融资，总额8.7亿美元，估值达75亿美元，由Andreessen Horowitz领投，Sequoia和DCVC参投。</p>
+<p><strong>NIR SHΞIN</strong> · @niron · 2026-10-09T22:19:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 100</p>
+<p><a href="https://x.com/niron/status/2108683715685585074">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ramonrodriganez/status/2108679630601261281"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Martin Casado joins TypeSafe board · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ramonrodriganez/status/2108679630601261281">Martin Casado joins TypeSafe board</a></h3>
+<p>Martin Casado, a prominent figure in venture capital, joins the board of TypeSafe, the company behind Jev.</p>
+<p><strong>中文摘要：</strong>风险投资领域的知名人物Martin Casado加入TypeSafe董事会，TypeSafe是Jev背后的公司。</p>
+<p><strong>Ramon Rodrigáñez</strong> · @ramonrodriganez · 2026-10-09T22:02:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/ramonrodriganez/status/2108679630601261281">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hacksgreece/status/2108677000370020359"><img src="https://pbs.twimg.com/media/HUOGjrdWwAAxrAm?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M at $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hacksgreece/status/2108677000370020359">TypeSafe AI Raises $870M at $7.5B Valuation</a></h3>
+<p>TypeSafe AI, the company behind the Jev model, raised $870 million at a $7.5 billion valuation in a round led by Andreessen Horowitz. Jev is designed to automate tasks, not generate text.</p>
+<p><strong>中文摘要：</strong>Jev模型背后的公司TypeSafe AI在由Andreessen Horowitz领投的融资中筹集8.7亿美元，估值达75亿美元。Jev旨在自动化任务，而非生成文本。</p>
+<p><strong>hacks.gr</strong> · @hacksgreece · 2026-10-09T21:52:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/hacksgreece/status/2108677000370020359">在 X 查看原帖</a> · <a href="https://t.co/xLFETGcClt">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/DrivenInvestor/status/2108595310788227162"><img src="https://pbs.twimg.com/media/HUM8MOaXUAA3uXL?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M as Jev Model Goes Viral · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/DrivenInvestor/status/2108595310788227162">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheLatentCo/status/2108562563386712463"><img src="https://pbs.twimg.com/media/HUMeeS1b0AAo7Lf?format=jpg&amp;name=small" alt="TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 133</p>
 <p><a href="https://x.com/TheLatentCo/status/2108562563386712463">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dealroomnews/status/2108552206354190693"><img src="https://pbs.twimg.com/media/HUMVDt7boAAiMoc?format=jpg&amp;name=medium" alt="TypeSafe AI raises $870M at $7.5B valuation · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/dealroomnews/status/2108552206354190693">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/agtmengineer/status/2107050971331207654"><img src="https://pbs.twimg.com/media/HT2-mirWsAAwazJ?format=jpg&amp;name=medium" alt="Using Jev Model to Evaluate TAM Data Sources at Low Cost · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/agtmengineer/status/2107050971331207654">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taira_daishiro/status/2105901724993274012"><img src="https://pbs.twimg.com/media/HTmqKoza8AAdw0a?format=jpg&amp;name=medium" alt="Comment on Cloudflare releasing a model similar to Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 203</p>
 <p><a href="https://x.com/taira_daishiro/status/2105901724993274012">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/IsaacMarks68/status/2105296614315233746"><img src="https://pbs.twimg.com/amplify_video_thumb/2102485256905371648/img/ZFQnSKcoypq2zwU2.jpg" alt="Jev Powers Multi-Source Recruitment Data Classification · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/IsaacMarks68/status/2105296614315233746">在 X 查看原帖</a> · <a href="https://t.co/fFBhnkE0Fj">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tmiyatake1/status/2104724084487840203"><img src="https://pbs.twimg.com/amplify_video_thumb/2104669088626982912/img/51twi9gp6fXNQ38I.jpg" alt="Why SaaS Companies Are Delighted with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 454</p>
 <p><a href="https://x.com/tmiyatake1/status/2104724084487840203">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mikaeru676523/status/2104832476921438597"><img src="https://pbs.twimg.com/media/HTXaY4PbEAAcWg8?format=png&amp;name=medium" alt="Using the Jev Model for Employee Survey Classification: Key Points and Testing Ideas · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/mikaeru676523/status/2104832476921438597">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polydao/status/2104448518966432240"><img src="https://pbs.twimg.com/amplify_video_thumb/2104413316630073344/img/4Lc05FbWdquwO25B.jpg" alt="JEV + Opus 5.5: Ten Steps to Build a Company Brain · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 474</p>
 <p><a href="https://x.com/polydao/status/2104448518966432240">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jules_granier/status/2104426864500711682"><img src="https://pbs.twimg.com/amplify_video_thumb/2104426804522135552/img/lly3hNPe2ElS8tFq.jpg" alt="Jev + Opus 5.5 Powers AI Recruiter · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +189,6 @@
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 123</p>
 <p><a href="https://x.com/jules_granier/status/2104426864500711682">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/thomasdesfrancs/status/2104535935702438308"><img src="https://pbs.twimg.com/amplify_video_thumb/2104525474542100480/img/lmMlzGkQmkxoaBuN.jpg" alt="Jev brings AI into the core of Twenty · 原帖视频截图" width="100%"></a>
 <br>
@@ -141,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/thomasdesfrancs/status/2104535935702438308">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/IsaacMarks68/status/2104571830942261590"><img src="https://pbs.twimg.com/amplify_video_thumb/2102484781984264192/img/mHl1I4JadKUfIypB.jpg" alt="Competitor talent sourcing powered by Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -152,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/IsaacMarks68/status/2104571830942261590">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheLatentCo/status/2103415618087293118"><img src="https://pbs.twimg.com/media/HTDVWtAbUAAGEtX?format=jpg&amp;name=small" alt="TypeSafe AI in Talks to Raise Over $1B at $10B+ Valuation; Jev Model Developer Raised $40M Seed · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 205</p>
 <p><a href="https://x.com/TheLatentCo/status/2103415618087293118">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VizuaraAI/status/2103440869517082938"><img src="https://pbs.twimg.com/tweet_video_thumb/HTDsTyVaQAA8R1B.jpg" alt="Jev and Safe ERP Execution in Vizuara’s Enterprise AI Agents Bootcamp · 原帖视频截图" width="100%"></a>
 <br>
@@ -176,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/VizuaraAI/status/2103440869517082938">在 X 查看原帖</a> · <a href="https://t.co/4Mi9ucSrul">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ojisan_aibaka/status/2102577791015510131"><img src="https://pbs.twimg.com/media/HS3a5aRaEAARhKJ?format=jpg&amp;name=medium" alt="LLM vs Jev: Model Selection for Factory Operations · 原帖图片" width="100%"></a>
 <br>
@@ -189,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/ojisan_aibaka/status/2102577791015510131">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Wlanez/status/2102780832205455754"><img src="https://pbs.twimg.com/media/HS6SWxsacAAdGiX?format=png&amp;name=900x900" alt="Jev Team is Hiring · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Wlanez/status/2102780832205455754">在 X 查看原帖</a> · <a href="https://t.co/RBW4CCFEBr">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/manabu09/status/2102213931653816686"><img src="https://pbs.twimg.com/media/HSyQbXDbMAAspOn?format=jpg&amp;name=medium" alt="Jev Experience: Quantifying Business Accuracy and Confidence · 原帖图片" width="100%"></a>
 <br>
@@ -213,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/manabu09/status/2102213931653816686">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0X_Vetra/status/2102423572207550662"><img src="https://pbs.twimg.com/amplify_video_thumb/2102422223621414912/img/9MLb8WGTZrJAXrob.jpg" alt="JEV Engineering Models Customer Flow with Fluid Math · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +285,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 44</p>
 <p><a href="https://x.com/0X_Vetra/status/2102423572207550662">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sr_hackker/status/2102197494704992312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102197424840421376/img/6pYe8xe9JwYgtmGz.jpg" alt="Using Jev to Determine Social Insurance Procedures from Ambiguous Onboarding Notices · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +296,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/sr_hackker/status/2102197494704992312">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/VenkataSub34/status/2102195443598025029"><img src="https://pbs.twimg.com/media/HSx_HsrbwAAr3jL?format=jpg&amp;name=medium" alt="Jev suits fast bounded decisions, but enterprise explainability still needs context and audit · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
 <p><a href="https://x.com/VenkataSub34/status/2102195443598025029">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/propjerry/status/2102190789547925560"><img src="https://pbs.twimg.com/media/HSx7W2fbEAA-lUB?format=jpg&amp;name=medium" alt="Jev/System One Model Falls Short Where Palantir Does: A Bridge360 Metatheory Lens · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/propjerry/status/2102190789547925560">在 X 查看原帖</a> · <a href="https://t.co/gfAoz47U2j">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yutosuzuki/status/2102173554443968799"><img src="https://pbs.twimg.com/amplify_video_thumb/2102157520739708928/img/osHBmgbK2W3O2G8L.jpg" alt="Scoring Candidate Attractiveness in Casual Interviews with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 247</p>
 <p><a href="https://x.com/yutosuzuki/status/2102173554443968799">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AgroConceptos/status/2102014136112582933"><img src="https://pbs.twimg.com/media/HSvatp7XMAAZVvf?format=jpg&amp;name=medium" alt="JEV Joins AgroConceptos Management System · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 52</p>
 <p><a href="https://x.com/AgroConceptos/status/2102014136112582933">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mileson07/status/2102013810332889185"><img src="https://pbs.twimg.com/amplify_video_thumb/2102012404020477953/img/7PAsi53DwymhDaMA.jpg" alt="Why Jev Is the Standard Answer for Enterprise AI Deployment · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +357,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 25</p>
 <p><a href="https://x.com/Mileson07/status/2102013810332889185">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RogerAI_fm/status/2102177097599127847"><img src="https://pbs.twimg.com/media/HSxu5KVa0AA9fsg?format=jpg&amp;name=medium" alt="Jev and Wave aren&#39;t competitors: a plant could use both · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +368,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/RogerAI_fm/status/2102177097599127847">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1CMartinez/status/2101916922061140237"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2101916892675911680/pu/img/YZ-gDggzbZulVH0s.jpg" alt="Jev Model Screens 100 Interviews in 12.8 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/1CMartinez/status/2101916922061140237">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/masahirochaen/status/2101587412816380413"><img src="https://pbs.twimg.com/amplify_video_thumb/2101587381585682432/img/yzNol-uekjaYEFg9.jpg" alt="Real-time analysis of next moves in business discussions with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +392,8 @@
 <p>💬 4 &nbsp; 🔁 27 &nbsp; ♡ 241 &nbsp; 📊 26K</p>
 <p><a href="https://x.com/masahirochaen/status/2101587412816380413">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechNerdings/status/2101394442057875871"><img src="https://pbs.twimg.com/media/HSmmw9tXwAAKRlT?format=png&amp;name=900x900" alt="Jev for Resume Screening and Hiring Fraud Detection · 原帖图片" width="100%"></a>
 <br>
@@ -344,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/TechNerdings/status/2101394442057875871">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/levie/status/2101007708044574906"><img src="https://pbs.twimg.com/amplify_video_thumb/2100999115949953024/img/6D1_NvmSfMLGDstw.jpg" alt="Box and Jev Demo: Fast Agent Decisions in the Enterprise · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +416,8 @@
 <p>💬 65 &nbsp; 🔁 87 &nbsp; ♡ 663 &nbsp; 📊 108K</p>
 <p><a href="https://x.com/levie/status/2101007708044574906">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yildiz/status/2101015963454095440"><img src="https://pbs.twimg.com/media/HShO312a4AEyjOt?format=jpg&amp;name=medium" alt="Jev tested for observability decision models · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +429,6 @@
 <p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 11 &nbsp; 📊 1.3K</p>
 <p><a href="https://x.com/yildiz/status/2101015963454095440">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nikhilmudholkar/status/2100604560335139083"><img src="https://pbs.twimg.com/media/HSbYODoWoAAKjJR?format=jpg&amp;name=medium" alt="Jev loses to Gemini on email classification benchmark, still considered for production · 原帖图片" width="100%"></a>
 <br>
@@ -381,6 +440,5 @@
 <p>💬 38 &nbsp; 🔁 33 &nbsp; ♡ 438 &nbsp; 📊 115K</p>
 <p><a href="https://x.com/nikhilmudholkar/status/2100604560335139083">在 X 查看原帖</a></p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>

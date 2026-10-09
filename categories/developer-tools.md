@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 582 | 293 | 291 | 3.6M |
+| 584 | 294 | 292 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KolbeYang/status/2108572043734319599"><img src="https://pbs.twimg.com/amplify_video_thumb/2108572032409509888/img/5PMgTC4MGeRpLDAF.jpg" alt="Luna Decisions API vs Jev: Who Can Draw the Better World Map? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KolbeYang/status/2108572043734319599">Luna Decisions API vs Jev: Who Can Draw the Better World Map?</a></h3>
+<p>A playful comparison asking which of Luna Decisions API and Jev can better classify coordinates as land, sea, or Kazakhstan, touching on Jev&#39;s model capabilities.</p>
+<p><strong>中文摘要：</strong>一条趣味对比帖，询问Luna Decisions API和Jev哪个能更好地对每个坐标进行分类（陆地、海洋、哈萨克斯坦），涉及Jev的模型能力比较。</p>
+<p><strong>Kolbe Yang</strong> · @KolbeYang · 2026-10-09T14:55:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/KolbeYang/status/2108572043734319599">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dfinke/status/2108570823472902520"><img src="https://pbs.twimg.com/media/HUMl_YlbUAAnmNh?format=png&amp;name=900x900" alt="Wired up Typesafe AI Jev to Excel using VBA · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dfinke/status/2108570823472902520">Wired up Typesafe AI Jev to Excel using VBA</a></h3>
+<p>Doug Finke demonstrates wiring Typesafe AI Jev to Excel using VBA, enabling AI capabilities within spreadsheets.</p>
+<p><strong>中文摘要：</strong>Doug Finke 演示了如何通过 VBA 将 Typesafe AI Jev 集成到 Excel 中，实现 AI 能力与电子表格的联动。</p>
+<p><strong>Doug Finke</strong> · @dfinke · 2026-10-09T14:50:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 177</p>
+<p><a href="https://x.com/dfinke/status/2108570823472902520">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/umiyosh/status/2108560626083852784"><img src="https://pbs.twimg.com/amplify_video_thumb/2108556374951211008/img/zkX4pWosKxTjnwPY.jpg" alt="Document proofreading tool integrating Jev and Gemini · 原帖视频截图" width="100%"></a>

@@ -2,6 +2,17 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T15:37:48.000Z | [JEV-27B Fooled by Agatha Christie Novel in Reasoning Test](https://x.com/abdennacer0/status/2108582710729949415) | 社区实践 | Abdennacer Badaoui | 2 |
+| 2026-10-09T15:34:59.000Z | [Kenby: A RAG Solution Powered by Jev](https://x.com/faqirfaramarz/status/2108582001489928537) | 产品发布 | Faramarz | 5 |
+| 2026-10-09T15:30:00.000Z | [The Paradigm Shift with Jev Decision Model](https://x.com/HKrackDev/status/2108580749318168937) | 软件开发 | Hendrik Krack | 12 |
+| 2026-10-09T15:27:17.000Z | [Sansi: Adding a Reasoning Loop to JEV](https://x.com/dongyeopkang/status/2108580062765179143) | 社区实践 | Dongyeop Kang (DK) | 5 |
+| 2026-10-09T15:18:00.000Z | [The AI That Can't Write a Sentence Is Taking Over GitHub](https://x.com/0xTekki/status/2108577727515336965) | 智能体 | Tekki | 16 |
+| 2026-10-09T15:12:14.000Z | [Jev is now integrated into the Albedo validator](https://x.com/albedo_wthrboss/status/2108576278865703050) | 产品发布 | ALBEDO \| Weather Boss | 89 |
+| 2026-10-09T15:07:24.000Z | [TypeSafe's decision model Jev launches September 15](https://x.com/DAssetBuzz/status/2108575060025897179) | 产品发布 | DigitalAssetBuzz 🔶 | 7 |
+| 2026-10-09T15:02:09.000Z | [Testing Jev vs OpenAI Decisions API for Intent Routing](https://x.com/JustRouzbeh/status/2108573738765578383) | 社区实践 | Rouzbeh | 118 |
+| 2026-10-09T14:56:07.000Z | [Opus 5.5 + Jev Combo: Blazing Fast and Cost-Effective](https://x.com/0x_rody/status/2108572220763275430) | 开发资源 | rody | 293 |
+| 2026-10-09T14:55:25.000Z | [Luna Decisions API vs Jev: Who Can Draw the Better World Map?](https://x.com/KolbeYang/status/2108572043734319599) | 开发者工具 | Kolbe Yang | 13 |
+| 2026-10-09T14:50:34.000Z | [Wired up Typesafe AI Jev to Excel using VBA](https://x.com/dfinke/status/2108570823472902520) | 开发者工具 | Doug Finke | 177 |
 | 2026-10-09T14:40:21.000Z | [Jev replaces traditional LLMs for decisions, cheaper and more accurate](https://x.com/theayush/status/2108568252486226227) | 社区实践 | Ayush Sharma | 7 |
 | 2026-10-09T14:19:13.000Z | [Jev Sentence-to-Emoji: Learn Languages via Visual Association](https://x.com/halilstation/status/2108562934037151863) | 教育 | Halil | 9 |
 | 2026-10-09T14:17:44.000Z | [TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users](https://x.com/TheLatentCo/status/2108562563386712463) | 企业运营 | The Latent | 133 |
@@ -91,14 +102,3 @@
 | 2026-10-09T03:20:03.000Z | [Planning a Team Night Out with Jev Classifier](https://x.com/schwentker/status/2108397050215973052) | 自动化工作流 | Robert Schwentker | 13 |
 | 2026-10-09T03:11:52.000Z | [Evaluating OpenAI's Decisions API with Jev](https://x.com/dorkitude/status/2108394989030134242) | 开发资源 | Kyle Wild | 71 |
 | 2026-10-09T03:09:29.000Z | [Building Instant Interactive Math Lessons with Jev](https://x.com/tnsamin/status/2108394390007750707) | 教育 | Thanic | 11 |
-| 2026-10-09T03:01:00.000Z | [JEV model sparks discussion: decides only, no text generation](https://x.com/0xverdao/status/2108392255408992502) | 社区实践 | Verdao | 8 |
-| 2026-10-09T02:42:58.000Z | [Redesigning agents with TypeSafe AI's Jev and OpenAI's Luna](https://x.com/ataschz/status/2108387717692129302) | 社区实践 | Ata Herrera 🇦🇷 | 120 |
-| 2026-10-09T02:30:25.000Z | [Tricking Jev to screen our interviews](https://x.com/killainow/status/2108384559582920905) | 社区实践 | KillAINOW | 5 |
-| 2026-10-09T02:17:05.000Z | [GudyBrain: Jev-powered Markdown memory assistant](https://x.com/gudyfut/status/2108381204886012234) | 智能体 | gudyfut | 6 |
-| 2026-10-09T02:16:35.000Z | [Planning Refinance with Jev and ChatGPT](https://x.com/Quanbuilds/status/2108381078859747763) | 金融 | Quan Stewart | 6 |
-| 2026-10-09T02:09:23.000Z | [OpenAI Decisions API: Jev-like Real-Time Egg Sorting](https://x.com/0x0SojalSec/status/2108379264282407301) | 自动化工作流 | Md Ismail Šojal 🕷️ | 352 |
-| 2026-10-09T02:09:07.000Z | [Is Jev secretly distilled from a Chinese OSS model?](https://x.com/francchen/status/2108379198184370672) | 工作原理 | Frank Chen | 90 |
-| 2026-10-09T01:39:07.000Z | [Jev Workflow Practice: Step Mapping and Threshold Settings](https://x.com/amanmaqsood/status/2108371648030363761) | 自动化工作流 | Aman Maqsood | 5 |
-| 2026-10-09T01:39:04.000Z | [First Test Questions in Jev Playground](https://x.com/amanmaqsood/status/2108371634898055368) | 开发者工具 | Aman Maqsood | 7 |
-| 2026-10-09T01:39:00.000Z | [TypeSafe Jev: Decision Engine Based on State and Questions](https://x.com/amanmaqsood/status/2108371619915981258) | 工作原理 | Aman Maqsood | 9 |
-| 2026-10-09T01:38:56.000Z | [Jev and Opus 5.5 Workflow Guide](https://x.com/amanmaqsood/status/2108371602090193006) | 社区实践 | Aman Maqsood | 6 |

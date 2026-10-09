@@ -59,6 +59,7 @@
 - [Philip](../authors/philip.md) — 6
 - [plutos](../authors/plutos.md) — 6
 - [rewind](../authors/rewind.md) — 6
+- [rody](../authors/rody.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [venus](../authors/venus.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
@@ -81,7 +82,6 @@
 - [NO1ennn](../authors/no1ennn.md) — 5
 - [OpenRouter](../authors/openrouter.md) — 5
 - [Rob Hallam](../authors/rob-hallam.md) — 5
-- [rody](../authors/rody.md) — 5
 - [S ᜰ](../authors/s.md) — 5
 - [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 5
 - [Simplifying AI](../authors/simplifying-ai.md) — 5
@@ -110,6 +110,7 @@
 - [Defileo🔮](../authors/defileo.md) — 4
 - [Diogo Almeida](../authors/diogo-almeida.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
+- [Doug Finke](../authors/doug-finke.md) — 4
 - [Elias Andualem](../authors/elias-andualem.md) — 4
 - [Erik Kokalj](../authors/erik-kokalj.md) — 4
 - [Ersin KOÇ](../authors/ersin-koc.md) — 4
@@ -119,6 +120,7 @@
 - [ggwp](../authors/ggwp.md) — 4
 - [Hanako](../authors/hanako.md) — 4
 - [Harry Tandy](../authors/harry-tandy.md) — 4
+- [Hendrik Krack](../authors/hendrik-krack.md) — 4
 - [Higgsfield AI 🧩](../authors/higgsfield-ai.md) — 4
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
@@ -201,7 +203,6 @@
 - [Deji](../authors/deji.md) — 3
 - [Divine 〽️achine](../authors/divine-achine.md) — 3
 - [Dmitriy Kovalenko](../authors/dmitriy-kovalenko.md) — 3
-- [Doug Finke](../authors/doug-finke.md) — 3
 - [each::labs](../authors/each-labs.md) — 3
 - [Edwin Mesa](../authors/edwin-mesa.md) — 3
 - [Eugene Cheah - AI builder @ 🇸🇬|🇺🇸](../authors/eugene-cheah-ai-builder.md) — 3
@@ -214,7 +215,6 @@
 - [HackerNewsTop5](../authors/hackernewstop5.md) — 3
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
-- [Hendrik Krack](../authors/hendrik-krack.md) — 3
 - [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
 - [hiraoku](../authors/hiraoku.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
@@ -694,6 +694,7 @@
 - [Taras](../authors/taras.md) — 2
 - [Tatenda Zhou](../authors/tatenda-zhou.md) — 2
 - [TechVerser](../authors/techverser.md) — 2
+- [Tekki](../authors/tekki.md) — 2
 - [Tetsuro Miyatake](../authors/tetsuro-miyatake.md) — 2
 - [The Latent](../authors/the-latent.md) — 2
 - [The Startup Ideas Podcast (SIP) 🧃](../authors/the-startup-ideas-podcast-sip.md) — 2
@@ -849,6 +850,7 @@
 - [Aayushiii](../authors/aayushiii.md) — 1
 - [Abdallah Shaban](../authors/abdallah-shaban.md) — 1
 - [abdel](../authors/abdel.md) — 1
+- [Abdennacer Badaoui](../authors/abdennacer-badaoui.md) — 1
 - [Abderrahmen Gharsallah](../authors/abderrahmen-gharsallah.md) — 1
 - [Abdessamad id](../authors/abdessamad-id.md) — 1
 - [abdullah a | مبرمج](../authors/abdullah-a.md) — 1
@@ -961,6 +963,7 @@
 - [Alain Ngongang](../authors/alain-ngongang.md) — 1
 - [Alan](../authors/alan.md) — 1
 - [Alan Mathison ⏫](../authors/alan-mathison.md) — 1
+- [ALBEDO | Weather Boss](../authors/albedo-weather-boss.md) — 1
 - [Alberto Marocchino](../authors/alberto-marocchino.md) — 1
 - [Albiona Hoti](../authors/albiona-hoti.md) — 1
 - [ale](../authors/ale.md) — 1
@@ -1505,6 +1508,7 @@
 - [diegotorres.eth](../authors/diegotorres-eth.md) — 1
 - [Digiato | دیجیاتو](../authors/digiato.md) — 1
 - [digital ghost](../authors/digital-ghost.md) — 1
+- [DigitalAssetBuzz 🔶](../authors/digitalassetbuzz.md) — 1
 - [Dillon Mulroy](../authors/dillon-mulroy.md) — 1
 - [discovery PAPA](../authors/discovery-papa.md) — 1
 - [Distill AI](../authors/distill-ai.md) — 1
@@ -1520,6 +1524,7 @@
 - [Doge 🐶](../authors/doge.md) — 1
 - [Domain.News 📈](../authors/domain-news.md) — 1
 - [Donatello](../authors/donatello.md) — 1
+- [Dongyeop Kang (DK)](../authors/dongyeop-kang-dk.md) — 1
 - [DooByte](../authors/doobyte.md) — 1
 - [dopamyn.ai](../authors/dopamyn-ai.md) — 1
 - [double](../authors/double.md) — 1
@@ -1637,6 +1642,7 @@
 - [Faisal Ahammad](../authors/faisal-ahammad.md) — 1
 - [Faisal AlZaben • فيصل الزبن](../authors/faisal-alzaben.md) — 1
 - [Faiz Hadiyan](../authors/faiz-hadiyan.md) — 1
+- [Faramarz](../authors/faramarz.md) — 1
 - [Farhan Azad Shuvra](../authors/farhan-azad-shuvra.md) — 1
 - [Farokh](../authors/farokh.md) — 1
 - [Fastlane](../authors/fastlane.md) — 1
@@ -2179,6 +2185,7 @@
 - [Koichi Nishizuka](../authors/koichi-nishizuka.md) — 1
 - [Koimiao🐈](../authors/koimiao.md) — 1
 - [Koji Ohno](../authors/koji-ohno.md) — 1
+- [Kolbe Yang](../authors/kolbe-yang.md) — 1
 - [Konrad Reczko](../authors/konrad-reczko.md) — 1
 - [Kontentsu kurieta](../authors/kontentsu-kurieta.md) — 1
 - [koodos labs💥](../authors/koodos-labs.md) — 1
@@ -2893,6 +2900,7 @@
 - [RORO](../authors/roro.md) — 1
 - [Ross Simmonds](../authors/ross-simmonds.md) — 1
 - [ROUT_DEV/AIなんでもC14](../authors/rout-dev-ai-c14.md) — 1
+- [Rouzbeh](../authors/rouzbeh.md) — 1
 - [Roxx](../authors/roxx.md) — 1
 - [Roxy Rodbeck](../authors/roxy-rodbeck.md) — 1
 - [roy mann](../authors/roy-mann.md) — 1
@@ -3219,7 +3227,6 @@
 - [Technophile](../authors/technophile.md) — 1
 - [Teddo](../authors/teddo.md) — 1
 - [Teddy Ni](../authors/teddy-ni.md) — 1
-- [Tekki](../authors/tekki.md) — 1
 - [Teknium 🪽](../authors/teknium.md) — 1
 - [Tekticia](../authors/tekticia.md) — 1
 - [Telemetry](../authors/telemetry.md) — 1

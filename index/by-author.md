@@ -43,6 +43,7 @@
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
 - [Automater](../authors/automater.md) — 6
+- [AutoTrust](../authors/autotrust.md) — 6
 - [AVB](../authors/avb.md) — 6
 - [barnyx](../authors/barnyx.md) — 6
 - [Chrome](../authors/chrome.md) — 6
@@ -53,15 +54,16 @@
 - [Michael](../authors/michael.md) — 6
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
+- [Philip](../authors/philip.md) — 6
 - [rewind](../authors/rewind.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [Skrilla](../authors/skrilla.md) — 6
 - [Suzuki](../authors/suzuki.md) — 6
 - [venus](../authors/venus.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
+- [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 6
 - [萩野貴拓](../authors/萩野貴拓.md) — 6
 - [Artimind](../authors/artimind.md) — 5
-- [AutoTrust](../authors/autotrust.md) — 5
 - [bl888m](../authors/bl888m.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
 - [davepoon](../authors/davepoon.md) — 5
@@ -87,7 +89,6 @@
 - [starmex](../authors/starmex.md) — 5
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
 - [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 5
-- [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [8Bit🦞](../authors/8bit.md) — 4
 - [Abdullah](../authors/abdullah.md) — 4
@@ -136,7 +137,6 @@
 - [Movez](../authors/movez.md) — 4
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 4
 - [Phil Greene](../authors/phil-greene.md) — 4
-- [Philip](../authors/philip.md) — 4
 - [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 4
 - [Ricker](../authors/ricker.md) — 4
 - [RM 🖤](../authors/rm.md) — 4
@@ -465,6 +465,7 @@
 - [Golang News & Libs & Jobs - human 🗣️ , no 🤖](../authors/golang-news-libs-jobs-human-no.md) — 2
 - [Gorden Sun](../authors/gorden-sun.md) — 2
 - [Grimmer](../authors/grimmer.md) — 2
+- [GrowthWithHarish](../authors/growthwithharish.md) — 2
 - [Guillermo Rauch](../authors/guillermo-rauch.md) — 2
 - [HAHWUL](../authors/hahwul.md) — 2
 - [Happycapy](../authors/happycapy.md) — 2
@@ -515,6 +516,7 @@
 - [kishi27 ＠ 実践AIエージェント](../authors/kishi27-実践ai.md) — 2
 - [Kisson](../authors/kisson.md) — 2
 - [KK.aWSB](../authors/kk-awsb.md) — 2
+- [komz](../authors/komz.md) — 2
 - [Kshitij](../authors/kshitij.md) — 2
 - [Kushal Patil](../authors/kushal-patil.md) — 2
 - [kwindla](../authors/kwindla.md) — 2
@@ -1196,6 +1198,7 @@
 - [Blue007｜Crypto × AI](../authors/blue007-crypto-ai.md) — 1
 - [blurrd.eth🛹](../authors/blurrd-eth.md) — 1
 - [Bo Brainerd](../authors/bo-brainerd.md) — 1
+- [bo peng](../authors/bo-peng.md) — 1
 - [Bobo Li](../authors/bobo-li.md) — 1
 - [bodka (ぼっか)](../authors/bodka.md) — 1
 - [Bohu](../authors/bohu.md) — 1
@@ -1745,7 +1748,6 @@
 - [Gringo Marc Benedet de Promptopia](../authors/gringo-marc-benedet-de-promptopia.md) — 1
 - [𝗚𝗥𝗜𝗩𝗡.𝗛𝗟 🌎-'](../authors/grivn-hl.md) — 1
 - [Grover](../authors/grover.md) — 1
-- [GrowthWithHarish](../authors/growthwithharish.md) — 1
 - [gudyfut](../authors/gudyfut.md) — 1
 - [Guido](../authors/guido.md) — 1
 - [Guido Pettinari](../authors/guido-pettinari.md) — 1
@@ -1782,6 +1784,7 @@
 - [Hari Krishna](../authors/hari-krishna.md) — 1
 - [Hari Prakash S](../authors/hari-prakash-s.md) — 1
 - [Hari ॐ Vashishtha 🤘](../authors/hari-vashishtha.md) — 1
+- [Harikesh Singh](../authors/harikesh-singh.md) — 1
 - [Harnecient](../authors/harnecient.md) — 1
 - [HarnessRouter](../authors/harnessrouter.md) — 1
 - [Harold](../authors/harold.md) — 1
@@ -2144,7 +2147,6 @@
 - [Koichi Nishizuka](../authors/koichi-nishizuka.md) — 1
 - [Koimiao🐈](../authors/koimiao.md) — 1
 - [Koji Ohno](../authors/koji-ohno.md) — 1
-- [komz](../authors/komz.md) — 1
 - [Konrad Reczko](../authors/konrad-reczko.md) — 1
 - [Kontentsu kurieta](../authors/kontentsu-kurieta.md) — 1
 - [koodos labs💥](../authors/koodos-labs.md) — 1

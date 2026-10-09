@@ -1,9 +1,10 @@
 # AutoTrust
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T04:05:18.000Z | [JEV-27B-VL Hits #1 on Hugging Face Trending](https://x.com/AutoTrustAI/status/2108408436035887109) | 产品发布 | AutoTrust | 97 |
 | 2026-10-03T04:45:05.000Z | [JEV-27B-VL Q&A: Computer Use and 3D](https://x.com/AutoTrustAI/status/2106244121883263132) | 社区实践 | AutoTrust | 90 |
 | 2026-10-01T02:02:18.000Z | [JEV: AutoTrust AI's System 1 Family for Agents](https://x.com/AutoTrustAI/status/2105478378581372970) | 智能体 | AutoTrust | 12 |
 | 2026-10-01T01:55:51.000Z | [JEV-27B-VL Real-Time Tetris Decision Demo](https://x.com/AutoTrustAI/status/2105476755796754470) | 游戏 | AutoTrust | 18 |

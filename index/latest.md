@@ -2,6 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T05:11:07.000Z | [Jev+Opus 5.5 Cuts Costs to a Fraction](https://x.com/bopeng5128/status/2108425000500019693) | 开发者工具 | bo peng | 10 |
+| 2026-10-09T04:29:16.000Z | [Jev + RAG: Improve Retrieval Quality and Avoid Unreliable Answers](https://x.com/GrowthByHarish/status/2108414470142005481) | 知识与搜索 | GrowthWithHarish | 7 |
+| 2026-10-09T04:25:03.000Z | [RPG Battle Test: Jev vs Decisions API](https://x.com/komzweb/status/2108413409389920747) | 社区实践 | komz | 11 |
+| 2026-10-09T04:15:27.000Z | [Improving RAG Reranking with the JEV Model](https://x.com/harikesh_devops/status/2108410992606798263) | 知识与搜索 | Harikesh Singh | 12 |
+| 2026-10-09T04:11:45.000Z | [Strategy Combining Vector Search with Jev Decision Model](https://x.com/taiyop/status/2108410061307683320) | 工作原理 | たいよっぷ \| Harness Engineer | 158 |
+| 2026-10-09T04:08:56.000Z | [Jev Performs Well in Game Boss Fight](https://x.com/seitkk/status/2108409349857309119) | 游戏 | Philip | 20 |
+| 2026-10-09T04:08:55.000Z | [TypeSafe's Jev: A Fast System One Model for Rune Selection](https://x.com/seitkk/status/2108409346703208827) | 游戏 | Philip | 18 |
+| 2026-10-09T04:05:18.000Z | [JEV-27B-VL Hits #1 on Hugging Face Trending](https://x.com/AutoTrustAI/status/2108408436035887109) | 产品发布 | AutoTrust | 97 |
 | 2026-10-09T03:53:29.000Z | [Jev AI vs Traditional ML](https://x.com/e_opore/status/2108405462034948558) | 工作原理 | Dhanian 🗯️ | 300 |
 | 2026-10-09T03:40:20.000Z | [Jev Benchmark on MCP Tool Selection](https://x.com/NeelakandanNC/status/2108402152779718994) | 智能体 | Neelakandan NC | 9 |
 | 2026-10-09T03:20:03.000Z | [Planning a Team Night Out with Jev Classifier](https://x.com/schwentker/status/2108397050215973052) | 自动化工作流 | Robert Schwentker | 13 |
@@ -94,11 +102,3 @@
 | 2026-10-08T18:12:32.000Z | [B.AI Brings TypeSafe Jev to AI Decision Making](https://x.com/ObinaGMI/status/2108259263655080436) | 产品发布 | De Gentle | 19 |
 | 2026-10-08T18:07:24.000Z | [Ditching Jev: Fine-Tuning a Replacement for Anti-Spam](https://x.com/backmeupplz/status/2108257972120113313) | 网络安全 | borodutch | 105 |
 | 2026-10-08T18:00:01.000Z | [Explore Jev call decision details in TraceRoot](https://x.com/TracerootAI/status/2108256114743636279) | 开发者工具 | TraceRoot.AI (YC S25) | 5 |
-| 2026-10-08T14:43:33.000Z | [Racing Jev on sentiment classification](https://x.com/annabellschfr/status/2108206670916800574) | 社区实践 | Annabell | 2 |
-| 2026-10-08T14:42:44.000Z | [OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows](https://x.com/OpenRouter/status/2108206463755944219) | 智能体 | OpenRouter | 791 |
-| 2026-10-08T14:37:12.000Z | [Estimating Uncoded Crash Factors with Tabular Foundation and System One Models (Including Jev)](https://x.com/StatAP_papers/status/2108205070688903466) | 科研 | Applications Papers | 0 |
-| 2026-10-08T14:35:36.000Z | [Jev wins in integration](https://x.com/goon_nguyen/status/2108204671328542878) | 开发者工具 | Duy /zuey/ | 12 |
-| 2026-10-08T14:32:25.000Z | [Developer complains about Jev image handling, switches to OpenAI API](https://x.com/kenonews/status/2108203869490528707) | 社区实践 | keno | 14 |
-| 2026-10-08T14:26:20.000Z | [How Jev Engineering Reshapes AI Data Pipelines](https://x.com/Klonzu/status/2108202336375967838) | 社区实践 | Klonzu | 34 |
-| 2026-10-08T14:23:22.000Z | [Functionality unlock: proactive agents with Jev](https://x.com/birdomens/status/2108201591069155471) | 智能体 | Kalle | 4 |
-| 2026-10-08T14:20:26.000Z | [New website for JEV](https://x.com/kraayenJon/status/2108200852561543411) | 产品发布 | Jon Kraayenbrink | 6 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 358 | 271 | 91 | 588K |
+| 360 | 272 | 92 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/seitkk/status/2108409349857309119"><img src="https://pbs.twimg.com/amplify_video_thumb/2108409116201025536/img/fNDlqHbKr1uR5oxB.jpg" alt="Jev Performs Well in Game Boss Fight · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/seitkk/status/2108409349857309119">Jev Performs Well in Game Boss Fight</a></h3>
+<p>The post discusses Jev clearing the Thunder Qilin boss fight in the seventh realm with 28/34 HP remaining, while Opus 5.5 failed multiple times. It suggests the game prioritizes fast board reading and reaction over long reasoning.</p>
+<p><strong>中文摘要：</strong>帖子讨论Jev在第七领域雷霆麒麟BOSS战中以28/34血量剩余通关，对比Opus 5.5多次失败，并推测该游戏更看重快速读盘与反应而非长程推理。</p>
+<p><strong>Philip</strong> · @seitkk · 2026-10-09T04:08:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/seitkk/status/2108409349857309119">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/seitkk/status/2108409346703208827"><img src="https://pbs.twimg.com/media/HUKSwfRbUAAhASB?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: A Fast System One Model for Rune Selection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/seitkk/status/2108409346703208827">TypeSafe&#39;s Jev: A Fast System One Model for Rune Selection</a></h3>
+<p>Philip introduces Jev from TypeSafe, a fast System One model that doesn&#39;t chat or think at length, but picks from provided options. In the setup, a rules layer filters legal moves and casts spells, while Jev decides where the runes go.</p>
+<p><strong>中文摘要：</strong>Philip介绍了TypeSafe的Jev模型，这是一种不进行长对话或深度思考的快速System One模型，只从给定选项中选择。设置中通过规则层过滤合法动作并施放法术，Jev负责决定符文的位置。</p>
+<p><strong>Philip</strong> · @seitkk · 2026-10-09T04:08:55.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/seitkk/status/2108409346703208827">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Celeris_ai/status/2108341439784767633"><img src="https://pbs.twimg.com/amplify_video_thumb/2108341131029499904/img/qO__vG63kVnVGO2h.jpg" alt="Celeris-1 Decision vs Jev 1.13.0 in Street Fighter · 原帖视频截图" width="100%"></a>

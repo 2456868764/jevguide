@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 109 | 58 | 51 | 235K |
+| 111 | 59 | 52 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/GrowthByHarish/status/2108414470142005481"><img src="https://pbs.twimg.com/amplify_video_thumb/2108412421421580288/img/XFip_bIdoFpfLpqr.jpg" alt="Jev + RAG: Improve Retrieval Quality and Avoid Unreliable Answers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GrowthByHarish/status/2108414470142005481">Jev + RAG: Improve Retrieval Quality and Avoid Unreliable Answers</a></h3>
+<p>This post notes that a RAG pipeline may retrieve relevant documents but doesn&#39;t guarantee accurate answers. The author introduces Jev + RAG as a way to improve retrieval quality and prevent the LLM from answering when evidence isn&#39;t reliable.</p>
+<p><strong>中文摘要：</strong>本帖子指出，RAG管道虽然能检索到相关文档，但不保证答案准确。作者提出Jev + RAG的方案，旨在提高检索质量，并在证据不可靠时阻止LLM作答。</p>
+<p><strong>GrowthWithHarish</strong> · @GrowthByHarish · 2026-10-09T04:29:16.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/GrowthByHarish/status/2108414470142005481">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/harikesh_devops/status/2108410992606798263"><img src="https://pbs.twimg.com/media/HUKTGKGbYAAQiOE?format=jpg&amp;name=medium" alt="Improving RAG Reranking with the JEV Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/harikesh_devops/status/2108410992606798263">Improving RAG Reranking with the JEV Model</a></h3>
+<p>The post notes that RAG requires not only retrieving relevant chunks but also ranking them correctly, and explains that the JEV model can rerank based on matching probability while filtering weak evidence.</p>
+<p><strong>中文摘要：</strong>该帖指出 RAG 不仅需要检索相关块，还需正确排序，并说明 JEV 模型可基于匹配概率进行重排序，同时过滤弱相关证据。</p>
+<p><strong>Harikesh Singh</strong> · @harikesh_devops · 2026-10-09T04:15:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/harikesh_devops/status/2108410992606798263">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/amarHarolikar/status/2108141239170453779"><img src="https://pbs.twimg.com/media/HUGfSP0asAAVlCq?format=jpg&amp;name=medium" alt="Personalized News Ranking with Jev Rank · 原帖图片" width="100%"></a>

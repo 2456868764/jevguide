@@ -2,6 +2,17 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T14:40:21.000Z | [Jev replaces traditional LLMs for decisions, cheaper and more accurate](https://x.com/theayush/status/2108568252486226227) | 社区实践 | Ayush Sharma | 7 |
+| 2026-10-09T14:19:13.000Z | [Jev Sentence-to-Emoji: Learn Languages via Visual Association](https://x.com/halilstation/status/2108562934037151863) | 教育 | Halil | 9 |
+| 2026-10-09T14:17:44.000Z | [TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users](https://x.com/TheLatentCo/status/2108562563386712463) | 企业运营 | The Latent | 133 |
+| 2026-10-09T14:13:21.000Z | [Automate app review analysis with Jev](https://x.com/kikelopezdesign/status/2108561460083519990) | 数据分析 | Kike Lopez | 6 |
+| 2026-10-09T14:10:03.000Z | [Document proofreading tool integrating Jev and Gemini](https://x.com/umiyosh/status/2108560626083852784) | 开发者工具 | umiyosh | 55 |
+| 2026-10-09T14:05:22.000Z | [Type safety with the Jev classifier](https://x.com/ohdearlordylord/status/2108559449308991751) | 开发者工具 | dearlordylord | 11 |
+| 2026-10-09T14:04:09.000Z | [PodPower: A podcast radio that ranks clips with Jev](https://x.com/init_adam/status/2108559142101127533) | 内容创作 | adam | 28 |
+| 2026-10-09T14:00:01.000Z | [Full Breakdown of Jev: A Model for Fast, Typed Decisions](https://x.com/TechWithTimm/status/2108558102929006846) | 社区实践 | Tech With Tim | 235 |
+| 2026-10-09T13:57:23.000Z | [Doomers, an AI launch marketing firm, counts Jev among its clients](https://x.com/AliCreating_/status/2108557441738973472) | 营销 | علي | 35 |
+| 2026-10-09T13:57:11.000Z | [Experience sharing: Jev Signal File as an assistant cuts AI bill](https://x.com/polyhermaeus/status/2108557388458721758) | 生产力 | hermaeus | 54 |
+| 2026-10-09T13:57:01.000Z | [Vela 2.0: RAG without a generative LLM](https://x.com/XunzhuoLiu/status/2108557349799817217) | 产品发布 | Xunzhuo | 366 |
 | 2026-10-09T13:45:25.000Z | [Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days](https://x.com/desireco/status/2108554428529901911) | 社区实践 | Zen Superman | 1 |
 | 2026-10-09T13:40:47.000Z | [JEV model accuracy comparison on code repair benchmarks](https://x.com/imdevman/status/2108553261397717045) | 开发者工具 | imdevman | 1 |
 | 2026-10-09T13:40:46.000Z | [Improving Code Graph Analysis Accuracy with JEV](https://x.com/imdevman/status/2108553256507175054) | 开发者工具 | imdevman | 3 |
@@ -91,14 +102,3 @@
 | 2026-10-09T01:39:04.000Z | [First Test Questions in Jev Playground](https://x.com/amanmaqsood/status/2108371634898055368) | 开发者工具 | Aman Maqsood | 7 |
 | 2026-10-09T01:39:00.000Z | [TypeSafe Jev: Decision Engine Based on State and Questions](https://x.com/amanmaqsood/status/2108371619915981258) | 工作原理 | Aman Maqsood | 9 |
 | 2026-10-09T01:38:56.000Z | [Jev and Opus 5.5 Workflow Guide](https://x.com/amanmaqsood/status/2108371602090193006) | 社区实践 | Aman Maqsood | 6 |
-| 2026-10-09T01:35:41.000Z | [St Louis JUG 30th Anniversary: Agentic AI Workflows Talk](https://x.com/dashaun/status/2108370786897564010) | 社区实践 | DaShaun | 69 |
-| 2026-10-09T01:29:13.000Z | [Discussing the non-writing AI "Jev" and its probability applications](https://x.com/kumehaya/status/2108369159277170996) | 社区实践 | HayatoKumemura（久米村隼人） \| DATAFLUCT（データフラクト）代表取締役CEO | 39 |
-| 2026-10-09T01:01:11.000Z | [New article: Watson Was an Early Jev](https://x.com/pingmurder/status/2108362102503034940) | 工作原理 | Pingmurder | 11 |
-| 2026-10-09T00:47:16.000Z | [Jev vs OpenAI Decisions API: Moderation Differences](https://x.com/noah_vandal/status/2108358600574038051) | 社区实践 | Noah Vandal | 19 |
-| 2026-10-09T00:40:17.000Z | [OpenAI Dots + Jev Low-Cost Agent Setup](https://x.com/mojeskoqq/status/2108356844309578073) | 自动化工作流 | mojesko | 31 |
-| 2026-10-09T00:38:10.000Z | [Chrome extension to filter tweets using Jev](https://x.com/bryanmusuku/status/2108356312061170125) | 社区实践 | Brian | 13 |
-| 2026-10-09T00:32:51.000Z | [Jev Skill Typeahead is now fully open source](https://x.com/dani_avila7/status/2108354971531973028) | 开发资源 | Daniel San | 563 |
-| 2026-10-09T00:18:02.000Z | [Former OpenAI Researcher Releases Jev Decision Model](https://x.com/MinLiBuilds/status/2108351241910989233) | 产品发布 | 实践哥 Li | 296 |
-| 2026-10-09T00:15:45.000Z | [Jev Chat: Read Chat Context and Assist Replies](https://x.com/7uanF/status/2108350668994232764) | 智能体 | Juan | 112 |
-| 2026-10-09T00:10:10.000Z | [Evaluation of Jev Model in Experiment](https://x.com/2Halves1brain/status/2108349262727663921) | 开发者工具 | TwoHalves | 6 |
-| 2026-10-09T00:02:00.000Z | [Developer Builds AI Trading Signal Bot with Jev](https://x.com/yonann/status/2108347208466886911) | 金融 | Yonan | 338 |

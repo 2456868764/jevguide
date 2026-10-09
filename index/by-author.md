@@ -523,6 +523,7 @@
 - [KEITO💻AIディレクター](../authors/keito-ai.md) — 2
 - [Kevin Dubois](../authors/kevin-dubois.md) — 2
 - [khaled](../authors/khaled.md) — 2
+- [Kike Lopez](../authors/kike-lopez.md) — 2
 - [kimura512@開発者](../authors/kimura512-開発者.md) — 2
 - [Kirk Borne](../authors/kirk-borne.md) — 2
 - [kishi27 ＠ 実践AIエージェント](../authors/kishi27-実践ai.md) — 2
@@ -694,6 +695,7 @@
 - [Tatenda Zhou](../authors/tatenda-zhou.md) — 2
 - [TechVerser](../authors/techverser.md) — 2
 - [Tetsuro Miyatake](../authors/tetsuro-miyatake.md) — 2
+- [The Latent](../authors/the-latent.md) — 2
 - [The Startup Ideas Podcast (SIP) 🧃](../authors/the-startup-ideas-podcast-sip.md) — 2
 - [Thor Hovden 🇳🇴❤️🇺🇦](../authors/thor-hovden.md) — 2
 - [Thorfinn](../authors/thorfinn.md) — 2
@@ -744,6 +746,7 @@
 - [λL-D1 | AI for Buzzer 🍉](../authors/l-d1-ai-for-buzzer.md) — 2
 - [Ξric Juta](../authors/ric-juta.md) — 2
 - [امیرحسین اسلامی](../authors/jev-showcase.md) — 2
+- [علي](../authors/jev-showcase.md) — 2
 - [يوسف حسني](../authors/jev-showcase.md) — 2
 - [돼박](../authors/jev-showcase.md) — 2
 - [율무커피 YulmuCoffee](../authors/yulmucoffee.md) — 2
@@ -866,6 +869,7 @@
 - [ABNewswire](../authors/abnewswire.md) — 1
 - [Aboubacar OUATTARA](../authors/aboubacar-ouattara.md) — 1
 - [Ackerman](../authors/ackerman.md) — 1
+- [adam](../authors/adam.md) — 1
 - [Adam Azzam](../authors/adam-azzam.md) — 1
 - [Adam Malone](../authors/adam-malone.md) — 1
 - [Adamya](../authors/adamya.md) — 1
@@ -1144,6 +1148,7 @@
 - [Ayush Jain](../authors/ayush-jain.md) — 1
 - [Ayush Kushwaha](../authors/ayush-kushwaha.md) — 1
 - [Ayush Pandey](../authors/ayush-pandey.md) — 1
+- [Ayush Sharma](../authors/ayush-sharma.md) — 1
 - [Azan](../authors/azan.md) — 1
 - [badboyfoxy](../authors/badboyfoxy.md) — 1
 - [BadGuyTy 🅁🅅🄽 (Tyler Hess)](../authors/badguyty-rvn-tyler-hess.md) — 1
@@ -1460,6 +1465,7 @@
 - [De Gentle](../authors/de-gentle.md) — 1
 - [dealer.eth](../authors/dealer-eth.md) — 1
 - [Dealroom News](../authors/dealroom-news.md) — 1
+- [dearlordylord](../authors/dearlordylord.md) — 1
 - [decimaru｜AI音楽×エコティクノート](../authors/decimaru-ai音楽.md) — 1
 - [Declic IA](../authors/declic-ia.md) — 1
 - [Deep](../authors/deep.md) — 1
@@ -1786,6 +1792,7 @@
 - [Haki](../authors/haki.md) — 1
 - [hakoneko@仙台](../authors/hakoneko-仙台.md) — 1
 - [Haku @Product Design](../authors/haku-product-design.md) — 1
+- [Halil](../authors/halil.md) — 1
 - [Hamed Nilforoshan](../authors/hamed-nilforoshan.md) — 1
 - [Hamel Husain](../authors/hamel-husain.md) — 1
 - [Hamilton Ulmer](../authors/hamilton-ulmer.md) — 1
@@ -1821,6 +1828,7 @@
 - [Henry Love](../authors/henry-love.md) — 1
 - [Henry Mao](../authors/henry-mao.md) — 1
 - [Henry Zhang](../authors/henry-zhang.md) — 1
+- [hermaeus](../authors/hermaeus.md) — 1
 - [Hermes Agent Super-Intel](../authors/hermes-agent-super-intel.md) — 1
 - [Het Limbachiya](../authors/het-limbachiya.md) — 1
 - [HeyHomees](../authors/heyhomees.md) — 1
@@ -2154,7 +2162,6 @@
 - [Kiaan Mittal](../authors/kiaan-mittal.md) — 1
 - [Kid](../authors/kid.md) — 1
 - [Kieran](../authors/kieran.md) — 1
-- [Kike Lopez](../authors/kike-lopez.md) — 1
 - [Kilian Khalif](../authors/kilian-khalif.md) — 1
 - [KillAINOW](../authors/killainow.md) — 1
 - [Kin](../authors/kin.md) — 1
@@ -3205,6 +3212,7 @@
 - [tawasee](../authors/tawasee.md) — 1
 - [Tawfek Sraj](../authors/tawfek-sraj.md) — 1
 - [Tech Ducky](../authors/tech-ducky.md) — 1
+- [Tech With Tim](../authors/tech-with-tim.md) — 1
 - [Techguyver](../authors/techguyver.md) — 1
 - [Techie Sapien](../authors/techie-sapien.md) — 1
 - [techie_trader](../authors/techie-trader.md) — 1
@@ -3227,7 +3235,6 @@
 - [The Aigentic](../authors/the-aigentic.md) — 1
 - [The Arthi AI Collective](../authors/the-arthi-ai-collective.md) — 1
 - [The Daily Tech Feed](../authors/the-daily-tech-feed.md) — 1
-- [The Latent](../authors/the-latent.md) — 1
 - [The SamurAI](../authors/the-samurai.md) — 1
 - [The Year of the Graph](../authors/the-year-of-the-graph.md) — 1
 - [Theclues](../authors/theclues.md) — 1
@@ -3314,6 +3321,7 @@
 - [ƬⲘ](../authors/jev-showcase.md) — 1
 - [Uday Sharma](../authors/uday-sharma.md) — 1
 - [Udit Akhouri](../authors/udit-akhouri.md) — 1
+- [umiyosh](../authors/umiyosh.md) — 1
 - [Unbefallen](../authors/unbefallen.md) — 1
 - [Uncle madKoding 👾](../authors/uncle-madkoding.md) — 1
 - [unemployed](../authors/unemployed.md) — 1
@@ -3457,6 +3465,7 @@
 - [xnaut.dev](../authors/xnaut-dev.md) — 1
 - [Xuanwo](../authors/xuanwo.md) — 1
 - [Xueshi](../authors/xueshi.md) — 1
+- [Xunzhuo](../authors/xunzhuo.md) — 1
 - [xymox](../authors/xymox.md) — 1
 - [yachimat - AI Short Anime](../authors/yachimat-ai-short-anime.md) — 1
 - [Yadong Lu](../authors/yadong-lu.md) — 1
@@ -3545,7 +3554,6 @@
 - [Павел Комаровский](../authors/jev-showcase.md) — 1
 - [ѲӾᒍᑐ](../authors/jev-showcase.md) — 1
 - [امیرحسین ثقه الاسلامی](../authors/jev-showcase.md) — 1
-- [علي](../authors/jev-showcase.md) — 1
 - [มะตู่](../authors/jev-showcase.md) — 1
 - [강걸우 웍스 l K-garoo Works](../authors/l-k-garoo-works.md) — 1
 - [게임장의사](../authors/jev-showcase.md) — 1

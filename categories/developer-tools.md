@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 580 | 291 | 291 | 3.6M |
+| 582 | 293 | 291 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/umiyosh/status/2108560626083852784"><img src="https://pbs.twimg.com/amplify_video_thumb/2108556374951211008/img/zkX4pWosKxTjnwPY.jpg" alt="Document proofreading tool integrating Jev and Gemini · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/umiyosh/status/2108560626083852784">Document proofreading tool integrating Jev and Gemini</a></h3>
+<p>Introduced lindera+mecab-ipadic for morphological analysis in a proofreading tool, defined a shared offset for Jev and Gemini, and enabled parallel requests to improve efficiency.</p>
+<p><strong>中文摘要：</strong>在文档校对工具中引入lindera+mecab-ipadic进行形态素分析，定义了Jev和Gemini共用偏移量，并实现并行请求，以提高处理效率。</p>
+<p><strong>umiyosh</strong> · @umiyosh · 2026-10-09T14:10:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 55</p>
+<p><a href="https://x.com/umiyosh/status/2108560626083852784">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ohdearlordylord/status/2108559449308991751"><img src="https://pbs.twimg.com/amplify_video_thumb/2108557376995430400/img/sTEb76zjNj-dHoHG.jpg" alt="Type safety with the Jev classifier · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ohdearlordylord/status/2108559449308991751">Type safety with the Jev classifier</a></h3>
+<p>The post introduces using classifiers like Jev for blazing fast feedback, making invalid states unrepresentable, and ensuring users own the data sent to the classifier. Hapsland reviews changed types against custom rules, semantically expanding the agent&#39;s diffs.</p>
+<p><strong>中文摘要：</strong>原帖介绍通过Jev等分类器提供快速反馈，使无效状态不可表示，并确保用户拥有发送给分类器的数据。Hapsland根据自定义规则审查变更类型，语义扩展agent的diff。</p>
+<p><strong>dearlordylord</strong> · @ohdearlordylord · 2026-10-09T14:05:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/ohdearlordylord/status/2108559449308991751">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/imdevman/status/2108553261397717045"><img src="https://pbs.twimg.com/media/HUMVooWbgAAiGVk?format=jpg&amp;name=medium" alt="JEV model accuracy comparison on code repair benchmarks · 原帖图片" width="100%"></a>

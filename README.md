@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5552</strong><br>curated posts</td>
-<td align="center"><strong>2806</strong><br>original videos</td>
+<td align="center"><strong>5563</strong><br>curated posts</td>
+<td align="center"><strong>2814</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1001</strong> showcases · <strong>407</strong> videos</p>
+<p><strong>1003</strong> showcases · <strong>408</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>580</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>582</strong> showcases · <strong>293</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>440</strong> showcases · <strong>204</strong> videos</p>
+<p><strong>441</strong> showcases · <strong>205</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>139</strong> showcases · <strong>105</strong> videos</p>
+<p><strong>140</strong> showcases · <strong>105</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>114</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>87</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>113</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>114</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -146,21 +146,21 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>40</strong> showcases · <strong>28</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
 <p><strong>40</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>39</strong> showcases · <strong>27</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>29</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>30</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>26</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/desireco/status/2108554428529901911"><img src="https://pbs.twimg.com/media/HUMW_ySbMAAaQcZ?format=jpg&amp;name=medium" alt="Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/desireco/status/2108554428529901911">Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days</a></h3>
-<p>A practical workflow where AI agents write code, Jev picks what runs next, Herdr keeps sessions warm, and Obsidian holds the plan—no roadmap meetings, just log-driven development.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Zen Superman</strong> · @desireco</p>
+<a href="https://x.com/theayush/status/2108568252486226227"><img src="https://pbs.twimg.com/media/HUMjpbkbEAAslB4?format=jpg&amp;name=medium" alt="Jev replaces traditional LLMs for decisions, cheaper and more accurate · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/theayush/status/2108568252486226227">Jev replaces traditional LLMs for decisions, cheaper and more accurate</a></h3>
+<p>A developer shares experience using TypeSafe&#39;s Jev to replace traditional LLMs for decision-making and structured responses, claiming it outperforms them in cost and accuracy, with high praise.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ayush Sharma</strong> · @theayush</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/imdevman/status/2108553261397717045"><img src="https://pbs.twimg.com/media/HUMVooWbgAAiGVk?format=jpg&amp;name=medium" alt="JEV model accuracy comparison on code repair benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/imdevman/status/2108553261397717045">JEV model accuracy comparison on code repair benchmarks</a></h3>
-<p>The post presents accuracy rates for different configurations (Off, JEV, Clef, Clef-flash) on Graph links and Context gate subsets across 325 fixed cases, with 70 uncertain cases excluded.</p>
-<p><strong>1</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>imdevman</strong> · @imdevman</p>
+<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/halilstation/status/2108562934037151863"><img src="https://pbs.twimg.com/amplify_video_thumb/2108561815529512960/img/RYxtFU8kdZ5hOM2k.jpg" alt="Jev Sentence-to-Emoji: Learn Languages via Visual Association · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/halilstation/status/2108562934037151863">Jev Sentence-to-Emoji: Learn Languages via Visual Association</a></h3>
+<p>Give any sentence and Jev picks related emojis for its words to aid language teaching through visual association. Built with Nuxt and one-shotted by Opus 5.5.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><strong>Halil</strong> · @halilstation</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/imdevman/status/2108553256507175054"><img src="https://pbs.twimg.com/media/HUMWADObkAAaOEB?format=jpg&amp;name=medium" alt="Improving Code Graph Analysis Accuracy with JEV · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/imdevman/status/2108553256507175054">Improving Code Graph Analysis Accuracy with JEV</a></h3>
-<p>A developer forked CodeGraph and integrated JEV/Clef, raising accuracy from 86.5% to 96.5% on 170 graph links while testing latency and cost to assign models appropriately.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>imdevman</strong> · @imdevman</p>
+<p><strong>03</strong> &nbsp; <code>企业运营</code> <code>原帖图片</code></p>
+<a href="https://x.com/TheLatentCo/status/2108562563386712463"><img src="https://pbs.twimg.com/media/HUMeeS1b0AAo7Lf?format=jpg&amp;name=small" alt="TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheLatentCo/status/2108562563386712463">TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users</a></h3>
+<p>TypeSafe AI has raised approximately $870 million at a $7.5 billion valuation in a round led by Andreessen Horowitz, according to Bloomberg. The company says Jev surpassed 1 million users within days and is now used by roughly a third of Fortune 500 firms.</p>
+<p><strong>133</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 133</p>
+<p><strong>The Latent</strong> · @TheLatentCo</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>企业运营</code> <code>原帖图片</code></p>
-<a href="https://x.com/dealroomnews/status/2108552206354190693"><img src="https://pbs.twimg.com/media/HUMVDt7boAAiMoc?format=jpg&amp;name=medium" alt="TypeSafe AI raises $870M at $7.5B valuation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dealroomnews/status/2108552206354190693">TypeSafe AI raises $870M at $7.5B valuation</a></h3>
-<p>According to Dealroom News, after AI model Jev went viral, TypeSafe AI raised $870M at a $7.5B valuation, led by Andreessen Horowitz. Jev has passed one million users and is used by a third of Fortune 500 companies.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Dealroom News</strong> · @dealroomnews</p>
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/kikelopezdesign/status/2108561460083519990"><img src="https://pbs.twimg.com/amplify_video_thumb/2108561441783738368/img/N8Cye4re_YSwoNCh.jpg" alt="Automate app review analysis with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kikelopezdesign/status/2108561460083519990">Automate app review analysis with Jev</a></h3>
+<p>Kike Lopez built a tool where you type any app, and Jev reads its latest 500 reviews and tells you what users complain about most.</p>
+<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>Kike Lopez</strong> · @kikelopezdesign</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/desireco/status/2108554428529901911"><img src="https://pbs.twimg.com/media/HUMW_ySbMAAaQcZ?format=jpg&amp;name=medium" alt="Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/desireco/status/2108554428529901911">Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days</a></h3>
-<p>A practical workflow where AI agents write code, Jev picks what runs next, Herdr keeps sessions warm, and Obsidian holds the plan—no roadmap meetings, just log-driven development.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Zen Superman</strong> · @desireco</p>
+<a href="https://x.com/theayush/status/2108568252486226227"><img src="https://pbs.twimg.com/media/HUMjpbkbEAAslB4?format=jpg&amp;name=medium" alt="Jev replaces traditional LLMs for decisions, cheaper and more accurate · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/theayush/status/2108568252486226227">Jev replaces traditional LLMs for decisions, cheaper and more accurate</a></h3>
+<p>A developer shares experience using TypeSafe&#39;s Jev to replace traditional LLMs for decision-making and structured responses, claiming it outperforms them in cost and accuracy, with high praise.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ayush Sharma</strong> · @theayush</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>企业运营</code> <code>原帖图片</code></p>
-<a href="https://x.com/dealroomnews/status/2108552206354190693"><img src="https://pbs.twimg.com/media/HUMVDt7boAAiMoc?format=jpg&amp;name=medium" alt="TypeSafe AI raises $870M at $7.5B valuation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dealroomnews/status/2108552206354190693">TypeSafe AI raises $870M at $7.5B valuation</a></h3>
-<p>According to Dealroom News, after AI model Jev went viral, TypeSafe AI raised $870M at a $7.5B valuation, led by Andreessen Horowitz. Jev has passed one million users and is used by a third of Fortune 500 companies.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Dealroom News</strong> · @dealroomnews</p>
+<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/kikelopezdesign/status/2108561460083519990"><img src="https://pbs.twimg.com/amplify_video_thumb/2108561441783738368/img/N8Cye4re_YSwoNCh.jpg" alt="Automate app review analysis with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kikelopezdesign/status/2108561460083519990">Automate app review analysis with Jev</a></h3>
+<p>Kike Lopez built a tool where you type any app, and Jev reads its latest 500 reviews and tells you what users complain about most.</p>
+<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>Kike Lopez</strong> · @kikelopezdesign</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/Jamie_within/status/2108550555807199434"><img src="https://pbs.twimg.com/media/HUMTjlSXgAAPgQk?format=png&amp;name=medium" alt="Jev: Sort Emails and Tickets with a Cheap AI · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Jamie_within/status/2108550555807199434">Jev: Sort Emails and Tickets with a Cheap AI</a></h3>
-<p>If you pay an AI to sort emails or tickets, Jev is a cheap AI that picks from answers you give it. At a million emails a month it saves thousands of dollars against Claude, hundreds against a cheap model.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Jamie Watters</strong> · @Jamie_within</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/umiyosh/status/2108560626083852784"><img src="https://pbs.twimg.com/amplify_video_thumb/2108556374951211008/img/zkX4pWosKxTjnwPY.jpg" alt="Document proofreading tool integrating Jev and Gemini · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/umiyosh/status/2108560626083852784">Document proofreading tool integrating Jev and Gemini</a></h3>
+<p>Introduced lindera+mecab-ipadic for morphological analysis in a proofreading tool, defined a shared offset for Jev and Gemini, and enabled parallel requests to improve efficiency.</p>
+<p><strong>55</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 55</p>
+<p><strong>umiyosh</strong> · @umiyosh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/BenENewton/status/2108544448707588141"><img src="https://pbs.twimg.com/media/HUMOAL1XAAEUWTr?format=jpg&amp;name=medium" alt="Jev Model&#39;s Third Round Test in Agent Routing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BenENewton/status/2108544448707588141">Jev Model&#39;s Third Round Test in Agent Routing</a></h3>
-<p>Ben Newton shares how his rule performed in round 3. Jev was 0.88 to 0.98 sure seven of eight fresh lookups were Explore tasks, but only 0.48 to 0.73 sure Haiku was enough, so only one was routed.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Ben Newton ベン</strong> · @BenENewton</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/XunzhuoLiu/status/2108557349799817217"><img src="https://pbs.twimg.com/amplify_video_thumb/2108557277141909504/img/lfimcyn7k34cPNCL.jpg" alt="Vela 2.0: RAG without a generative LLM · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/XunzhuoLiu/status/2108557349799817217">Vela 2.0: RAG without a generative LLM</a></h3>
+<p>Vela 2.0 unifies embedding, reranking, reading, and answering into one model, only using content from your documents. Try it on Hugging Face Space.</p>
+<p><strong>366</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 366</p>
+<p><strong>Xunzhuo</strong> · @XunzhuoLiu</p>
 </td>
 </tr>
 </table>

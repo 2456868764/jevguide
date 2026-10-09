@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1001 | 407 | 598 | 3.0M |
+| 1003 | 408 | 599 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/theayush/status/2108568252486226227"><img src="https://pbs.twimg.com/media/HUMjpbkbEAAslB4?format=jpg&amp;name=medium" alt="Jev replaces traditional LLMs for decisions, cheaper and more accurate · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/theayush/status/2108568252486226227">Jev replaces traditional LLMs for decisions, cheaper and more accurate</a></h3>
+<p>A developer shares experience using TypeSafe&#39;s Jev to replace traditional LLMs for decision-making and structured responses, claiming it outperforms them in cost and accuracy, with high praise.</p>
+<p><strong>中文摘要：</strong>开发者分享使用TypeSafe的Jev替代传统LLM进行决策和结构化响应的经验，称其在成本和准确性上均优于传统模型，并高度评价该模型。</p>
+<p><strong>Ayush Sharma</strong> · @theayush · 2026-10-09T14:40:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/theayush/status/2108568252486226227">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TechWithTimm/status/2108558102929006846"><img src="https://pbs.twimg.com/amplify_video_thumb/2108493781062557696/img/ggQroPiyID0bYneE.jpg" alt="Full Breakdown of Jev: A Model for Fast, Typed Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TechWithTimm/status/2108558102929006846">Full Breakdown of Jev: A Model for Fast, Typed Decisions</a></h3>
+<p>This video provides a full breakdown of Jev, covering how it works, what decisions it can make, and how it compares to a normal LLM, including real-workload tests of accuracy, speed, and cost.</p>
+<p><strong>中文摘要：</strong>本视频全面解析Jev模型：介绍其工作原理、可处理的决策类型，以及与普通LLM的定位差异，并在真实工作负载下对比准确率、速度和成本。</p>
+<p><strong>Tech With Tim</strong> · @TechWithTimm · 2026-10-09T14:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 235</p>
+<p><a href="https://x.com/TechWithTimm/status/2108558102929006846">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/desireco/status/2108554428529901911"><img src="https://pbs.twimg.com/media/HUMW_ySbMAAaQcZ?format=jpg&amp;name=medium" alt="Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days · 原帖图片" width="100%"></a>

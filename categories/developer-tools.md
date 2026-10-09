@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 574 | 291 | 285 | 3.6M |
+| 576 | 291 | 287 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/xueyu1125/status/2108444276850151668"><img src="https://pbs.twimg.com/media/HUKy3oPbAAAWK1B?format=jpg&amp;name=medium" alt="Jev Model Routing Test: Higher Cost and Doubled Latency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xueyu1125/status/2108444276850151668">Jev Model Routing Test: Higher Cost and Doubled Latency</a></h3>
+<p>Arena&#39;s test shows that using the decision model Jev for model routing increases costs and doubles request latency. Jev most frequently selects DeepSeek-V4.1-Flash, and clearly prefers OpenAI over Anthropic, with OpenAI models accounting for more than half. Some suggest local deployment may be a better choice.</p>
+<p><strong>中文摘要：</strong>Arena发布的测试显示，使用决策模型Jev进行模型路由成本更高，请求延迟翻倍，得不偿失。Jev最常选择DeepSeek-V4.1-Flash，且明显偏好OpenAI而非Anthropic，OpenAI系模型占比过半，有观点认为本地部署更优。</p>
+<p><strong>雪瑜</strong> · @xueyu1125 · 2026-10-09T06:27:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/xueyu1125/status/2108444276850151668">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xcPenny6/status/2108441895869546683"><img src="https://pbs.twimg.com/media/HUKwq25bQAAZjrx?format=jpg&amp;name=medium" alt="Jev-powered search tool sift-light releases new version · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xcPenny6/status/2108441895869546683">Jev-powered search tool sift-light releases new version</a></h3>
+<p>sift-light v1.0.3-6 combines Jev, memory search, and quick exact lookup, letting you search everything without dumping your whole codebase into context—an evidence-first approach with better signal-to-noise ratio.</p>
+<p><strong>中文摘要：</strong>sift-light v1.0.3-6 结合 Jev、记忆搜索和快速精确查找，无需将整个代码库载入上下文，以更高信噪比实现基于证据的全库搜索。</p>
+<p><strong>xcPenny</strong> · @xcPenny6 · 2026-10-09T06:18:15.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/xcPenny6/status/2108441895869546683">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bopeng5128/status/2108425000500019693"><img src="https://pbs.twimg.com/media/HUKhWzOXgAAk05R?format=jpg&amp;name=medium" alt="Jev+Opus 5.5 Cuts Costs to a Fraction · 原帖图片" width="100%"></a>

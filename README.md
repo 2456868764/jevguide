@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5487</strong><br>curated posts</td>
-<td align="center"><strong>2781</strong><br>original videos</td>
+<td align="center"><strong>5496</strong><br>curated posts</td>
+<td align="center"><strong>2785</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>981</strong> showcases · <strong>402</strong> videos</p>
+<p><strong>983</strong> showcases · <strong>403</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>574</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>576</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>550</strong> showcases · <strong>236</strong> videos</p>
+<p><strong>551</strong> showcases · <strong>237</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>438</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>439</strong> showcases · <strong>204</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>388</strong> showcases · <strong>162</strong> videos</p>
+<p><strong>390</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
-<p><strong>25</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/bopeng5128/status/2108425000500019693"><img src="https://pbs.twimg.com/media/HUKhWzOXgAAk05R?format=jpg&amp;name=medium" alt="Jev+Opus 5.5 Cuts Costs to a Fraction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/bopeng5128/status/2108425000500019693">Jev+Opus 5.5 Cuts Costs to a Fraction</a></h3>
-<p>Today&#39;s AI digest mentions the combination of Jev and Opus 5.5, which can reduce costs significantly.</p>
-<p><strong>10</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>bo peng</strong> · @bopeng5128</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/MartinSzerment/status/2108447166599417916"><img src="https://pbs.twimg.com/amplify_video_thumb/2108234082530230272/img/y5CsvBHmWdELDBrv.jpg" alt="Jev API latency compared to open-source model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MartinSzerment/status/2108447166599417916">Jev API latency compared to open-source model</a></h3>
+<p>The post compares hosted Jev API latency with local Laya model speed, noting network and queueing costs as the reason for the difference.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/GrowthByHarish/status/2108414470142005481"><img src="https://pbs.twimg.com/amplify_video_thumb/2108412421421580288/img/XFip_bIdoFpfLpqr.jpg" alt="Jev + RAG: Improve Retrieval Quality and Avoid Unreliable Answers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/GrowthByHarish/status/2108414470142005481">Jev + RAG: Improve Retrieval Quality and Avoid Unreliable Answers</a></h3>
-<p>This post notes that a RAG pipeline may retrieve relevant documents but doesn&#39;t guarantee accurate answers. The author introduces Jev + RAG as a way to improve retrieval quality and prevent the LLM from answering when evidence isn&#39;t reliable.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>GrowthWithHarish</strong> · @GrowthByHarish</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/xueyu1125/status/2108444276850151668"><img src="https://pbs.twimg.com/media/HUKy3oPbAAAWK1B?format=jpg&amp;name=medium" alt="Jev Model Routing Test: Higher Cost and Doubled Latency · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/xueyu1125/status/2108444276850151668">Jev Model Routing Test: Higher Cost and Doubled Latency</a></h3>
+<p>Arena&#39;s test shows that using the decision model Jev for model routing increases costs and doubles request latency. Jev most frequently selects DeepSeek-V4.1-Flash, and clearly prefers OpenAI over Anthropic, with OpenAI models accounting for more than half. Some suggest local deployment may be a better choice.</p>
+<p><strong>59</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><strong>雪瑜</strong> · @xueyu1125</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/komzweb/status/2108413409389920747"><img src="https://pbs.twimg.com/amplify_video_thumb/2108413097019105280/img/ukpyEvlY6NV0gPOM.jpg" alt="RPG Battle Test: Jev vs Decisions API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/komzweb/status/2108413409389920747">RPG Battle Test: Jev vs Decisions API</a></h3>
-<p>A user pitted two decision-making AIs, Jev and Decisions API, against each other in an RPG. Out of 100 matches, Decisions API won 82, Jev won 8, though the author notes this doesn&#39;t reflect a performance gap. The video shows one of Jev&#39;s rare wins, highlighting their contrasting styles: Jev plays defensively while Decisions API ignores charged attacks and rushes in.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>komz</strong> · @komzweb</p>
+<p><strong>03</strong> &nbsp; <code>医疗</code> <code>原帖图片</code></p>
+<a href="https://x.com/igs_pr_seminar/status/2108443350156415150"><img src="https://pbs.twimg.com/media/HUKtFy2a4AAvM8s?format=jpg&amp;name=large" alt="Online Seminar: Intro to Generative AI for Healthcare Professionals · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/igs_pr_seminar/status/2108443350156415150">Online Seminar: Intro to Generative AI for Healthcare Professionals</a></h3>
+<p>An online seminar by Igaku-Shoin introducing generative AI basics for healthcare workers, covering OpenAI&#39;s dots and TypeSafe AI&#39;s Jev.</p>
+<p><strong>5.6K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5.6K</p>
+<p><strong>医学書院 セミナー情報</strong> · @igs_pr_seminar</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/harikesh_devops/status/2108410992606798263"><img src="https://pbs.twimg.com/media/HUKTGKGbYAAQiOE?format=jpg&amp;name=medium" alt="Improving RAG Reranking with the JEV Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/harikesh_devops/status/2108410992606798263">Improving RAG Reranking with the JEV Model</a></h3>
-<p>The post notes that RAG requires not only retrieving relevant chunks but also ranking them correctly, and explains that the JEV model can rerank based on matching probability while filtering weak evidence.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
-<p><strong>Harikesh Singh</strong> · @harikesh_devops</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Zils brings custom Jev models to Bittensor · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">Zils brings custom Jev models to Bittensor</a></h3>
+<p>According to Kyoshi.tao, Zils is bringing custom Jev models to the Bittensor network, enabling training decision models on your own examples, evaluating performance, and deploying them via API.</p>
+<p><strong>205</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 205</p>
+<p><strong>Kyoshi.tao</strong> · @KyoshiTakeshiro</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/bopeng5128/status/2108425000500019693"><img src="https://pbs.twimg.com/media/HUKhWzOXgAAk05R?format=jpg&amp;name=medium" alt="Jev+Opus 5.5 Cuts Costs to a Fraction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/bopeng5128/status/2108425000500019693">Jev+Opus 5.5 Cuts Costs to a Fraction</a></h3>
-<p>Today&#39;s AI digest mentions the combination of Jev and Opus 5.5, which can reduce costs significantly.</p>
-<p><strong>10</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>bo peng</strong> · @bopeng5128</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/MartinSzerment/status/2108447166599417916"><img src="https://pbs.twimg.com/amplify_video_thumb/2108234082530230272/img/y5CsvBHmWdELDBrv.jpg" alt="Jev API latency compared to open-source model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MartinSzerment/status/2108447166599417916">Jev API latency compared to open-source model</a></h3>
+<p>The post compares hosted Jev API latency with local Laya model speed, noting network and queueing costs as the reason for the difference.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/harikesh_devops/status/2108410992606798263"><img src="https://pbs.twimg.com/media/HUKTGKGbYAAQiOE?format=jpg&amp;name=medium" alt="Improving RAG Reranking with the JEV Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/harikesh_devops/status/2108410992606798263">Improving RAG Reranking with the JEV Model</a></h3>
-<p>The post notes that RAG requires not only retrieving relevant chunks but also ranking them correctly, and explains that the JEV model can rerank based on matching probability while filtering weak evidence.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
-<p><strong>Harikesh Singh</strong> · @harikesh_devops</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Zils brings custom Jev models to Bittensor · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">Zils brings custom Jev models to Bittensor</a></h3>
+<p>According to Kyoshi.tao, Zils is bringing custom Jev models to the Bittensor network, enabling training decision models on your own examples, evaluating performance, and deploying them via API.</p>
+<p><strong>205</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 205</p>
+<p><strong>Kyoshi.tao</strong> · @KyoshiTakeshiro</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/taiyop/status/2108410061307683320"><img src="https://pbs.twimg.com/tweet_video_thumb/HUBLIphbQAA_8qr.jpg" alt="Strategy Combining Vector Search with Jev Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/taiyop/status/2108410061307683320">Strategy Combining Vector Search with Jev Decision Model</a></h3>
-<p>Discusses why not to use decision models like Jev from the start: processing time increases with volume. So vector search narrows candidates first, then the decision model performs precise checks to exclude irrelevant content.</p>
-<p><strong>158</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 158</p>
-<p><strong>たいよっぷ | Harness Engineer</strong> · @taiyop</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/xcPenny6/status/2108441895869546683"><img src="https://pbs.twimg.com/media/HUKwq25bQAAZjrx?format=jpg&amp;name=medium" alt="Jev-powered search tool sift-light releases new version · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/xcPenny6/status/2108441895869546683">Jev-powered search tool sift-light releases new version</a></h3>
+<p>sift-light v1.0.3-6 combines Jev, memory search, and quick exact lookup, letting you search everything without dumping your whole codebase into context—an evidence-first approach with better signal-to-noise ratio.</p>
+<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><strong>xcPenny</strong> · @xcPenny6</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/schwentker/status/2108397050215973052"><img src="https://pbs.twimg.com/media/HUKDLuvasAAv5qq?format=jpg&amp;name=medium" alt="Planning a Team Night Out with Jev Classifier · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/schwentker/status/2108397050215973052">Planning a Team Night Out with Jev Classifier</a></h3>
-<p>Robert demonstrates a practical workflow: plain code applies hard rules to filter candidate events, and Natali&#39;s Jev classifier ranks them from the filtered list, ensuring no invented events.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Robert Schwentker</strong> · @schwentker</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/komzweb/status/2108413409389920747"><img src="https://pbs.twimg.com/amplify_video_thumb/2108413097019105280/img/ukpyEvlY6NV0gPOM.jpg" alt="RPG Battle Test: Jev vs Decisions API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/komzweb/status/2108413409389920747">RPG Battle Test: Jev vs Decisions API</a></h3>
+<p>A user pitted two decision-making AIs, Jev and Decisions API, against each other in an RPG. Out of 100 matches, Decisions API won 82, Jev won 8, though the author notes this doesn&#39;t reflect a performance gap. The video shows one of Jev&#39;s rare wins, highlighting their contrasting styles: Jev plays defensively while Decisions API ignores charged attacks and rushes in.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>komz</strong> · @komzweb</p>
 </td>
 </tr>
 </table>

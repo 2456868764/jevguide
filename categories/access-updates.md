@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 388 | 162 | 226 | 802K |
+| 390 | 163 | 227 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Zils brings custom Jev models to Bittensor · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">Zils brings custom Jev models to Bittensor</a></h3>
+<p>According to Kyoshi.tao, Zils is bringing custom Jev models to the Bittensor network, enabling training decision models on your own examples, evaluating performance, and deploying them via API.</p>
+<p><strong>中文摘要：</strong>据Kyoshi.tao消息，Zils正在为Bittensor网络提供自定义Jev模型，支持基于自有样本训练决策模型、评估性能并通过API部署。</p>
+<p><strong>Kyoshi.tao</strong> · @KyoshiTakeshiro · 2026-10-09T06:21:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 205</p>
+<p><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KelisShekhaliya/status/2108440018750669188"><img src="https://pbs.twimg.com/media/HUKrLxvbgAAPr_g?format=jpg&amp;name=medium" alt="TypeSafe AI Launches n8n Node for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KelisShekhaliya/status/2108440018750669188">TypeSafe AI Launches n8n Node for Jev</a></h3>
+<p>Kelis Shekhaliya mentions that TypeSafe AI shipped an official n8n node for Jev, and he also built a Jev node with @nativeship_.</p>
+<p><strong>中文摘要：</strong>Kelis Shekhaliya 表示 TypeSafe AI 发布了 Jev 的官方 n8n 节点，同时他也与 @nativeship_ 共同构建了一个 Jev 节点。</p>
+<p><strong>Kelis Shekhaliya</strong> · @KelisShekhaliya · 2026-10-09T06:10:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/KelisShekhaliya/status/2108440018750669188">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sanchitmonga22/status/2108277490842296445"><img src="https://pbs.twimg.com/amplify_video_thumb/2108277186172174336/img/rRslX320kQ07P4J2.jpg" alt="Hosting and performance comparison between JEV and pplx-decider · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 981 | 402 | 583 | 3.0M |
+| 983 | 403 | 584 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dumbfook/status/2108434522400592097"><img src="https://pbs.twimg.com/amplify_video_thumb/2108434169655382018/img/EHBtxq6uawgbetfC.jpg" alt="Take Control of Your Timeline with Jev: Open Source Chrome Extension Released · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dumbfook/status/2108434522400592097">Take Control of Your Timeline with Jev: Open Source Chrome Extension Released</a></h3>
+<p>Ian released an open-source Chrome extension that lets users filter and manage their timeline using Jev or any other decision model, taking back control of their feed.</p>
+<p><strong>中文摘要：</strong>Ian发布了一个开源Chrome扩展，允许用户使用Jev或任何其他决策模型来过滤和管理时间线，重新掌控信息流。</p>
+<p><strong>Ian</strong> · @dumbfook · 2026-10-09T05:48:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/dumbfook/status/2108434522400592097">在 X 查看原帖</a> · <a href="https://t.co/IUmB9Zotby">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/komzweb/status/2108413409389920747"><img src="https://pbs.twimg.com/amplify_video_thumb/2108413097019105280/img/ukpyEvlY6NV0gPOM.jpg" alt="RPG Battle Test: Jev vs Decisions API · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>komz</strong> · @komzweb · 2026-10-09T04:25:03.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/komzweb/status/2108413409389920747">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nono_nonsjp/status/2108406246990905371"><img src="https://pbs.twimg.com/media/HUKQTuqbcAAfqyC?format=jpg&amp;name=medium" alt="Two-Week Jev AI Test: 2,900 Calls for ~19 JPY · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nono_nonsjp/status/2108406246990905371">Two-Week Jev AI Test: 2,900 Calls for ~19 JPY</a></h3>
+<p>The author integrated the judgment-specialized AI &quot;Jev&quot; into their own work and Claude Code for about two weeks, totaling around 2,900 calls at a cost of about 19 yen, and evaluated 15 use cases in a Qiita article.</p>
+<p><strong>中文摘要：</strong>作者将判定专用AI「Jev」集成到自己的业务和Claude Code中使用约两周，累计调用约2900次，总费用约19日元，并对15个应用场景进行了评估，结果已发布在Qiita上。</p>
+<p><strong>野々下 俊｜ノンズ株式会社 代表</strong> · @nono_nonsjp · 2026-10-09T03:56:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/nono_nonsjp/status/2108406246990905371">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0xverdao/status/2108392255408992502"><img src="https://pbs.twimg.com/amplify_video_thumb/2108325368591523840/img/1ttlYwd-h4K2G0m7.jpg" alt="JEV model sparks discussion: decides only, no text generation · 原帖视频截图" width="100%"></a>

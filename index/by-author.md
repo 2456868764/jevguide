@@ -245,6 +245,7 @@
 - [Mahmoud](../authors/mahmoud.md) — 3
 - [MajdAICode](../authors/majdaicode.md) — 3
 - [Marcus Lowe](../authors/marcus-lowe.md) — 3
+- [Martin Szerment | Practical AI](../authors/martin-szerment-practical-ai.md) — 3
 - [Matija Sosic](../authors/matija-sosic.md) — 3
 - [Matt Mastracci](../authors/matt-mastracci.md) — 3
 - [Matt Svensson](../authors/matt-svensson.md) — 3
@@ -474,6 +475,7 @@
 - [Hemant](../authors/hemant.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
+- [Ian](../authors/ian.md) — 2
 - [Ian Arawjo](../authors/ian-arawjo.md) — 2
 - [Ian Nuttall](../authors/ian-nuttall.md) — 2
 - [idoubi](../authors/idoubi.md) — 2
@@ -547,7 +549,6 @@
 - [Marco De Rossi](../authors/marco-de-rossi.md) — 2
 - [Maris](../authors/maris.md) — 2
 - [Martin](../authors/martin.md) — 2
-- [Martin Szerment | Practical AI](../authors/martin-szerment-practical-ai.md) — 2
 - [Matt DesLauriers](../authors/matt-deslauriers.md) — 2
 - [Max Blade](../authors/max-blade.md) — 2
 - [Max Vmr](../authors/max-vmr.md) — 2
@@ -781,6 +782,7 @@
 - [程序员鱼皮](../authors/程序员鱼皮.md) — 2
 - [起業の履歴書](../authors/起業-履歴書.md) — 2
 - [酱紫表](../authors/酱紫表.md) — 2
+- [野々下 俊｜ノンズ株式会社 代表](../authors/野-下-俊-株式会社-代表.md) — 2
 - [_Hadi_](../authors/hadi.md) — 1
 - [。](../authors/jev-showcase.md) — 1
 - [(術式反転) ɐuɐɯı̣ɥsoʎ](../authors/術式反転-u-so.md) — 1
@@ -1842,7 +1844,6 @@
 - [IA Digital Web](../authors/ia-digital-web.md) — 1
 - [iam4x ~ proliquid.xyz](../authors/iam4x-proliquid-xyz.md) — 1
 - [ian](../authors/ian.md) — 1
-- [Ian](../authors/ian.md) — 1
 - [Ian Lapham](../authors/ian-lapham.md) — 1
 - [ibo](../authors/ibo.md) — 1
 - [Ibrahim](../authors/ibrahim.md) — 1
@@ -2104,6 +2105,7 @@
 - [KEI_Ediforce](../authors/kei-ediforce.md) — 1
 - [Kelaer](../authors/kelaer.md) — 1
 - [Kelbie | Sovran](../authors/kelbie-sovran.md) — 1
+- [Kelis Shekhaliya](../authors/kelis-shekhaliya.md) — 1
 - [KELSEY](../authors/kelsey.md) — 1
 - [Kenn Ejima](../authors/kenn-ejima.md) — 1
 - [Kenny Chen｜AI 实战](../authors/kenny-chen-ai-实战.md) — 1
@@ -2178,6 +2180,7 @@
 - [Kyle McLaren](../authors/kyle-mclaren.md) — 1
 - [Kylian SEO AI](../authors/kylian-seo-ai.md) — 1
 - [Kyma API](../authors/kyma-api.md) — 1
+- [Kyoshi.tao](../authors/kyoshi-tao.md) — 1
 - [Kyrox](../authors/kyrox.md) — 1
 - [KyzoroX](../authors/kyzorox.md) — 1
 - [Lachlan](../authors/lachlan.md) — 1
@@ -3125,6 +3128,7 @@
 - [Surbhit Pratik](../authors/surbhit-pratik.md) — 1
 - [Surendra Pandar](../authors/surendra-pandar.md) — 1
 - [Suryansh Tiwari](../authors/suryansh-tiwari.md) — 1
+- [Sushant Koshy](../authors/sushant-koshy.md) — 1
 - [Suyash Jain](../authors/suyash-jain.md) — 1
 - [suzuki.sh | s2terminal](../authors/suzuki-sh-s2terminal.md) — 1
 - [svs 🇮🇳](../authors/svs.md) — 1
@@ -3413,6 +3417,7 @@
 - [Wuyang Zhou](../authors/wuyang-zhou.md) — 1
 - [wyswyswys](../authors/wyswyswys.md) — 1
 - [x1k](../authors/x1k.md) — 1
+- [xcPenny](../authors/xcpenny.md) — 1
 - [Xenova](../authors/xenova.md) — 1
 - [Xiang Wei](../authors/xiang-wei.md) — 1
 - [Xin Eric Wang](../authors/xin-eric-wang.md) — 1
@@ -3750,6 +3755,7 @@
 - [再水和](../authors/再水和.md) — 1
 - [冰山小企鵝](../authors/冰山小企鵝.md) — 1
 - [凤笙休](../authors/凤笙休.md) — 1
+- [医学書院 セミナー情報](../authors/医学書院-情報.md) — 1
 - [原田@AI研究員](../authors/原田-ai研究員.md) — 1
 - [古賀義隆｜九州×AI×経営](../authors/古賀義隆-九州-ai-経営.md) — 1
 - [古野光太朗](../authors/古野光太朗.md) — 1
@@ -3865,7 +3871,6 @@
 - [近藤](../authors/近藤.md) — 1
 - [過労くん](../authors/過労.md) — 1
 - [邦法](../authors/邦法.md) — 1
-- [野々下 俊｜ノンズ株式会社 代表](../authors/野-下-俊-株式会社-代表.md) — 1
 - [野中健吾](../authors/野中健吾.md) — 1
 - [金星](../authors/金星.md) — 1
 - [金马](../authors/金马.md) — 1
@@ -3877,6 +3882,7 @@
 - [陆三金](../authors/陆三金.md) — 1
 - [陈成](../authors/陈成.md) — 1
 - [雨夹雪❄️](../authors/雨夹雪.md) — 1
+- [雪瑜](../authors/雪瑜.md) — 1
 - [電柱](../authors/電柱.md) — 1
 - [電電猫猫/ Naoki](../authors/電電猫猫-naoki.md) — 1
 - [飞向远方的鸟](../authors/飞向远方的鸟.md) — 1

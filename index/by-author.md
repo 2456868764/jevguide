@@ -131,6 +131,7 @@
 - [Marcel Pociot 🧪](../authors/marcel-pociot.md) — 4
 - [marfin](../authors/marfin.md) — 4
 - [Mark Rizzn Hopkins](../authors/mark-rizzn-hopkins.md) — 4
+- [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 4
 - [Michael Yuan](../authors/michael-yuan.md) — 4
 - [Movez](../authors/movez.md) — 4
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 4
@@ -249,7 +250,6 @@
 - [Matt Svensson](../authors/matt-svensson.md) — 3
 - [Matthew Berman](../authors/matthew-berman.md) — 3
 - [Max For AI](../authors/max-for-ai.md) — 3
-- [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 3
 - [Michael Guo](../authors/michael-guo.md) — 3
 - [Mika Heinonen](../authors/mika-heinonen.md) — 3
 - [Milind S](../authors/milind-s.md) — 3
@@ -450,6 +450,7 @@
 - [FOFO](../authors/fofo.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
+- [Frank Chen](../authors/frank-chen.md) — 2
 - [Frank Chiarulli Jr.](../authors/frank-chiarulli-jr.md) — 2
 - [FrankD](../authors/frankd.md) — 2
 - [gabidev](../authors/gabidev.md) — 2
@@ -613,6 +614,7 @@
 - [plastik electrik](../authors/plastik-electrik.md) — 2
 - [Prasad Pilla](../authors/prasad-pilla.md) — 2
 - [qibaz](../authors/qibaz.md) — 2
+- [Quan Stewart](../authors/quan-stewart.md) — 2
 - [QuantizedDen](../authors/quantizedden.md) — 2
 - [Raghav](../authors/raghav.md) — 2
 - [Rajoshi](../authors/rajoshi.md) — 2
@@ -1105,6 +1107,7 @@
 - [Assaf Elovic](../authors/assaf-elovic.md) — 1
 - [Asten](../authors/asten.md) — 1
 - [Aswin Manohar](../authors/aswin-manohar.md) — 1
+- [Ata Herrera 🇦🇷](../authors/ata-herrera.md) — 1
 - [Atai Barkai](../authors/atai-barkai.md) — 1
 - [atharva sindwani](../authors/atharva-sindwani.md) — 1
 - [Athulya](../authors/athulya.md) — 1
@@ -1411,6 +1414,7 @@
 - [Darren Li](../authors/darren-li.md) — 1
 - [Darren Lu, agentsky.dev](../authors/darren-lu-agentsky-dev.md) — 1
 - [Darshan Jain](../authors/darshan-jain.md) — 1
+- [DaShaun](../authors/dashaun.md) — 1
 - [Databend](../authors/databend.md) — 1
 - [Databricks](../authors/databricks.md) — 1
 - [Dav3 (Ø,G)](../authors/dav3-g.md) — 1
@@ -1657,7 +1661,6 @@
 - [Framer](../authors/framer.md) — 1
 - [Francesco Calia](../authors/francesco-calia.md) — 1
 - [Francisco Camacho](../authors/francisco-camacho.md) — 1
-- [Frank Chen](../authors/frank-chen.md) — 1
 - [Fred](../authors/fred.md) — 1
 - [Freddy](../authors/freddy.md) — 1
 - [frevana](../authors/frevana.md) — 1
@@ -1742,6 +1745,7 @@
 - [𝗚𝗥𝗜𝗩𝗡.𝗛𝗟 🌎-'](../authors/grivn-hl.md) — 1
 - [Grover](../authors/grover.md) — 1
 - [GrowthWithHarish](../authors/growthwithharish.md) — 1
+- [gudyfut](../authors/gudyfut.md) — 1
 - [Guido](../authors/guido.md) — 1
 - [Guido Pettinari](../authors/guido-pettinari.md) — 1
 - [Guillaume Laforge](../authors/guillaume-laforge.md) — 1
@@ -2123,6 +2127,7 @@
 - [Kieran](../authors/kieran.md) — 1
 - [Kike Lopez](../authors/kike-lopez.md) — 1
 - [Kilian Khalif](../authors/kilian-khalif.md) — 1
+- [KillAINOW](../authors/killainow.md) — 1
 - [Kin](../authors/kin.md) — 1
 - [Kinari Kuramoto / キナリ](../authors/kinari-kuramoto.md) — 1
 - [Kinder](../authors/kinder.md) — 1
@@ -2731,7 +2736,6 @@
 - [Qcfaya](../authors/qcfaya.md) — 1
 - [Qltysh](../authors/qltysh.md) — 1
 - [qortex](../authors/qortex.md) — 1
-- [Quan Stewart](../authors/quan-stewart.md) — 1
 - [QuantDinger](../authors/quantdinger.md) — 1
 - [QUE (确）](../authors/que-确.md) — 1
 - [Quincy](../authors/quincy.md) — 1

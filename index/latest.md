@@ -2,10 +2,17 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T02:42:58.000Z | [Redesigning agents with TypeSafe AI's Jev and OpenAI's Luna](https://x.com/ataschz/status/2108387717692129302) | 社区实践 | Ata Herrera 🇦🇷 | 120 |
+| 2026-10-09T02:30:25.000Z | [Tricking Jev to screen our interviews](https://x.com/killainow/status/2108384559582920905) | 社区实践 | KillAINOW | 5 |
+| 2026-10-09T02:17:05.000Z | [GudyBrain: Jev-powered Markdown memory assistant](https://x.com/gudyfut/status/2108381204886012234) | 智能体 | gudyfut | 6 |
+| 2026-10-09T02:16:35.000Z | [Planning Refinance with Jev and ChatGPT](https://x.com/Quanbuilds/status/2108381078859747763) | 金融 | Quan Stewart | 6 |
+| 2026-10-09T02:09:23.000Z | [OpenAI Decisions API: Jev-like Real-Time Egg Sorting](https://x.com/0x0SojalSec/status/2108379264282407301) | 自动化工作流 | Md Ismail Šojal 🕷️ | 352 |
+| 2026-10-09T02:09:07.000Z | [Is Jev secretly distilled from a Chinese OSS model?](https://x.com/francchen/status/2108379198184370672) | 工作原理 | Frank Chen | 90 |
 | 2026-10-09T01:39:07.000Z | [Jev Workflow Practice: Step Mapping and Threshold Settings](https://x.com/amanmaqsood/status/2108371648030363761) | 自动化工作流 | Aman Maqsood | 5 |
 | 2026-10-09T01:39:04.000Z | [First Test Questions in Jev Playground](https://x.com/amanmaqsood/status/2108371634898055368) | 开发者工具 | Aman Maqsood | 7 |
 | 2026-10-09T01:39:00.000Z | [TypeSafe Jev: Decision Engine Based on State and Questions](https://x.com/amanmaqsood/status/2108371619915981258) | 工作原理 | Aman Maqsood | 9 |
 | 2026-10-09T01:38:56.000Z | [Jev and Opus 5.5 Workflow Guide](https://x.com/amanmaqsood/status/2108371602090193006) | 社区实践 | Aman Maqsood | 6 |
+| 2026-10-09T01:35:41.000Z | [St Louis JUG 30th Anniversary: Agentic AI Workflows Talk](https://x.com/dashaun/status/2108370786897564010) | 社区实践 | DaShaun | 69 |
 | 2026-10-09T01:29:13.000Z | [Discussing the non-writing AI "Jev" and its probability applications](https://x.com/kumehaya/status/2108369159277170996) | 社区实践 | HayatoKumemura（久米村隼人） \| DATAFLUCT（データフラクト）代表取締役CEO | 39 |
 | 2026-10-09T01:01:11.000Z | [New article: Watson Was an Early Jev](https://x.com/pingmurder/status/2108362102503034940) | 工作原理 | Pingmurder | 11 |
 | 2026-10-09T00:47:16.000Z | [Jev vs OpenAI Decisions API: Moderation Differences](https://x.com/noah_vandal/status/2108358600574038051) | 社区实践 | Noah Vandal | 19 |
@@ -95,10 +102,3 @@
 | 2026-10-08T14:01:16.000Z | [Developer Builds Situation-Based Emoji Search with Jev](https://x.com/kikelopezdesign/status/2108196030185668728) | 社区实践 | Kike Lopez | 4 |
 | 2026-10-08T14:00:27.000Z | [Jev dominates frontier decision APIs in a Tetris showdown](https://x.com/davekiss/status/2108195822902952432) | 社区实践 | Dave Kiss | 80 |
 | 2026-10-08T14:00:08.000Z | [JEV: AI Model Exclusively for Decision-Making Without Text Generation](https://x.com/blast1337305/status/2108195746138972449) | 智能体 | blast | 11 |
-| 2026-10-08T13:50:00.000Z | [Jev Dynamically Controls Reasoning Effort: Half the Cost on Coding Tasks](https://x.com/tezzarc/status/2108193194101928223) | 智能体 | tezarc | 10 |
-| 2026-10-08T13:47:24.000Z | [JEV + Coding Agent: A Killer Combo](https://x.com/ArchiveExplorer/status/2108192539077456096) | 社区实践 | Archive | 415 |
-| 2026-10-08T13:47:00.000Z | [TinyNews.ai: Jev-powered personalized newsletter](https://x.com/gillinghammer/status/2108192439559147984) | 内容创作 | Gillinghammer | 161 |
-| 2026-10-08T13:44:02.000Z | [Jev Model for Fast In-Game Decision Making](https://x.com/seitkk/status/2108191691715035139) | 游戏 | Philip | 1 |
-| 2026-10-08T13:40:42.000Z | [Question Design Matters More Than the Model: Jev vs Laya Test](https://x.com/Aedge_Bricht/status/2108190853873508673) | 科研 | Houman | 1 |
-| 2026-10-08T13:40:12.000Z | [Jev: A Tiny Decision Model](https://x.com/0x_rody/status/2108190728023122305) | 自动化工作流 | rody | 14 |
-| 2026-10-08T13:30:53.000Z | [Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls](https://x.com/merccante/status/2108188385135173878) | 社区实践 | mercante | 68 |

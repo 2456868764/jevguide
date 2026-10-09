@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 995 | 405 | 594 | 3.0M |
+| 1001 | 407 | 598 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/desireco/status/2108554428529901911"><img src="https://pbs.twimg.com/media/HUMW_ySbMAAaQcZ?format=jpg&amp;name=medium" alt="Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/desireco/status/2108554428529901911">Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days</a></h3>
+<p>A practical workflow where AI agents write code, Jev picks what runs next, Herdr keeps sessions warm, and Obsidian holds the plan—no roadmap meetings, just log-driven development.</p>
+<p><strong>中文摘要：</strong>分享一个实际使用Jev协调AI代理开发的流程：代理写代码，Jev选择下一步，Herdr保持会话，Obsidian管理计划，无需路线图会议，以日志驱动开发。</p>
+<p><strong>Zen Superman</strong> · @desireco · 2026-10-09T13:45:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/desireco/status/2108554428529901911">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sleepy0x13/status/2108549051931349352"><img src="https://pbs.twimg.com/media/HUMSIDpaQAAI2xk?format=jpg&amp;name=medium" alt="Community Debates Jev&#39;s Shrinking Moat · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sleepy0x13/status/2108549051931349352">Community Debates Jev&#39;s Shrinking Moat</a></h3>
+<p>A community member questions how long TypeSafe&#39;s Jev model can maintain its lead, citing reports of potential investment at a $10B+ valuation.</p>
+<p><strong>中文摘要：</strong>有社区成员质疑 TypeSafe 的 Jev 模型技术领先能维持多久，并提及投资人可能以超 100 亿美元估值投资的消息。</p>
+<p><strong>sleepy.md</strong> · @sleepy0x13 · 2026-10-09T13:24:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 232</p>
+<p><a href="https://x.com/sleepy0x13/status/2108549051931349352">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AnalyticsCamp/status/2108547144432968065"><img src="https://pbs.twimg.com/media/HUMP3zCWcAE6LlE?format=jpg&amp;name=medium" alt="Jev Fast Classification AI Model Practice · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AnalyticsCamp/status/2108547144432968065">Jev Fast Classification AI Model Practice</a></h3>
+<p>The author demonstrates how to use Jev and its free alternative Laya to build a local organization system with 100% privacy, reducing reliance on heavy LLMs.</p>
+<p><strong>中文摘要：</strong>作者演示如何使用Jev及其免费替代Laya，在本地构建100%私密的组织系统，降低对重型大模型的依赖。</p>
+<p><strong>Analytics Camp</strong> · @AnalyticsCamp · 2026-10-09T13:16:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/AnalyticsCamp/status/2108547144432968065">在 X 查看原帖</a> · <a href="https://t.co/7SmFMenyuU">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0x5am5/status/2108546811048681722"><img src="https://pbs.twimg.com/amplify_video_thumb/2108546532630827008/img/c6PgjbCtilhbvrus.jpg" alt="Can Haiku 5.5 replace decision models? Jev vs Clef benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x5am5/status/2108546811048681722">Can Haiku 5.5 replace decision models? Jev vs Clef benchmark</a></h3>
+<p>A video benchmarking Haiku 5.5, Jev, and Clef across text and image tasks, then pushing models further.</p>
+<p><strong>中文摘要：</strong>视频对比 Haiku 5.5、Jev 和 Clef 在文本与图像基准上的表现，并进一步压测模型能力。</p>
+<p><strong>Samuel Gregory</strong> · @0x5am5 · 2026-10-09T13:15:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/0x5am5/status/2108546811048681722">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BenENewton/status/2108544448707588141"><img src="https://pbs.twimg.com/media/HUMOAL1XAAEUWTr?format=jpg&amp;name=medium" alt="Jev Model&#39;s Third Round Test in Agent Routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BenENewton/status/2108544448707588141">Jev Model&#39;s Third Round Test in Agent Routing</a></h3>
+<p>Ben Newton shares how his rule performed in round 3. Jev was 0.88 to 0.98 sure seven of eight fresh lookups were Explore tasks, but only 0.48 to 0.73 sure Haiku was enough, so only one was routed.</p>
+<p><strong>中文摘要：</strong>Ben Newton 分享其规则在第三轮中的表现，Jev 对八个全新查询中的七个给出 0.88 至 0.98 的 Explore 任务置信度，但多数情况下对 Haiku 是否足够的置信度仅 0.48 至 0.73，最终仅一个查询被路由。</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-09T13:05:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/BenENewton/status/2108544448707588141">在 X 查看原帖</a> · <a href="https://t.co/KjnFSrupKR">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGatiti/status/2108542243678179785"><img src="https://pbs.twimg.com/amplify_video_thumb/2108338659887910912/img/6ASC2Eu7hU0MHvIM.jpg" alt="TypeSafe Kept JEV Weights Closed, GitHub Rebuilt It in 8 Days with 1,142 Repos · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGatiti/status/2108542243678179785">TypeSafe Kept JEV Weights Closed, GitHub Rebuilt It in 8 Days with 1,142 Repos</a></h3>
+<p>JEV dropped on Sep 15, and 8 days later 1,142 repos were built on it. The most starred among them is jev-ultrafast (~21k stars), a web agent where JEV picks every click.</p>
+<p><strong>中文摘要：</strong>JEV于9月15日发布，8天后GitHub上出现1142个基于它的仓库，其中最受关注的是jev-ultrafast，约21000颗星，这是一个由JEV决定每次点击的web代理。</p>
+<p><strong>Gatiti</strong> · @0xGatiti · 2026-10-09T12:57:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/0xGatiti/status/2108542243678179785">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ytiomin/status/2108536824314667351"><img src="https://pbs.twimg.com/media/HUMGcgKbAAAD5rE?format=jpg&amp;name=large" alt="Life Guide Game Integrates Jev Smart Search · 原帖图片" width="100%"></a>

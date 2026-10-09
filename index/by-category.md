@@ -1,14 +1,14 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 995
-- [Developer tools](../categories/developer-tools.md) — 578
+- [Community builds](../categories/community-builds.md) — 1001
+- [Developer tools](../categories/developer-tools.md) — 580
 - [How it works](../categories/how-it-works.md) — 553
 - [Launch news](../categories/launch-news.md) — 440
-- [Agents](../categories/agents.md) — 427
+- [Agents](../categories/agents.md) — 428
 - [Access updates](../categories/access-updates.md) — 391
 - [Gaming](../categories/gaming.md) — 367
-- [Developer resources](../categories/developer-resources.md) — 352
-- [Finance](../categories/finance.md) — 273
+- [Developer resources](../categories/developer-resources.md) — 353
+- [Finance](../categories/finance.md) — 274
 - [Workflow automation](../categories/workflow-automation.md) — 235
 - [Marketing](../categories/marketing.md) — 139
 - [Content creation](../categories/content-creation.md) — 114
@@ -16,11 +16,11 @@
 - [Knowledge & search](../categories/knowledge-search.md) — 111
 - [Scientific research](../categories/scientific-research.md) — 87
 - [Cybersecurity](../categories/cybersecurity.md) — 63
-- [Customer support](../categories/customer-support.md) — 54
+- [Customer support](../categories/customer-support.md) — 55
 - [Robotics](../categories/robotics.md) — 44
 - [Software development](../categories/software-development.md) — 40
 - [Productivity](../categories/productivity.md) — 39
-- [Business operations](../categories/business-operations.md) — 28
+- [Business operations](../categories/business-operations.md) — 29
 - [Healthcare](../categories/healthcare.md) — 27
 - [Education](../categories/education.md) — 26
 - [E-commerce](../categories/e-commerce.md) — 22

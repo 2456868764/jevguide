@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 578 | 291 | 289 | 3.6M |
+| 580 | 291 | 291 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/imdevman/status/2108553261397717045"><img src="https://pbs.twimg.com/media/HUMVooWbgAAiGVk?format=jpg&amp;name=medium" alt="JEV model accuracy comparison on code repair benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/imdevman/status/2108553261397717045">JEV model accuracy comparison on code repair benchmarks</a></h3>
+<p>The post presents accuracy rates for different configurations (Off, JEV, Clef, Clef-flash) on Graph links and Context gate subsets across 325 fixed cases, with 70 uncertain cases excluded.</p>
+<p><strong>中文摘要：</strong>帖子展示了325个已修复案例中，不同配置（Off、JEV、Clef、Clef-flash）在Graph links和Context gate子集上的准确率，其中70个不确定案例被排除。</p>
+<p><strong>imdevman</strong> · @imdevman · 2026-10-09T13:40:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/imdevman/status/2108553261397717045">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/imdevman/status/2108553256507175054"><img src="https://pbs.twimg.com/media/HUMWADObkAAaOEB?format=jpg&amp;name=medium" alt="Improving Code Graph Analysis Accuracy with JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/imdevman/status/2108553256507175054">Improving Code Graph Analysis Accuracy with JEV</a></h3>
+<p>A developer forked CodeGraph and integrated JEV/Clef, raising accuracy from 86.5% to 96.5% on 170 graph links while testing latency and cost to assign models appropriately.</p>
+<p><strong>中文摘要：</strong>开发者fork了CodeGraph并集成JEV/Clef，在170个图链接的测试中将准确率从86.5%提升到96.5%，并评估了不同模型的精度、延迟和成本。</p>
+<p><strong>imdevman</strong> · @imdevman · 2026-10-09T13:40:46.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/imdevman/status/2108553256507175054">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2108532745072775663"><img src="https://pbs.twimg.com/media/HUL-E5vWIAArNYa?format=png&amp;name=large" alt="JevBench v1.6.1 Released with Updated Open Model Leaderboard · 原帖图片" width="100%"></a>

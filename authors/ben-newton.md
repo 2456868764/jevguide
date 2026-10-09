@@ -1,9 +1,10 @@
 # Ben Newton ベン
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T13:05:46.000Z | [Jev Model's Third Round Test in Agent Routing](https://x.com/BenENewton/status/2108544448707588141) | 社区实践 | Ben Newton ベン | 11 |
 | 2026-10-08T21:00:46.000Z | [Jev Routing Rule Test: Lookups Only with High Confidence](https://x.com/BenENewton/status/2108301598732558362) | 智能体 | Ben Newton ベン | 12 |
 | 2026-10-05T13:05:51.000Z | [Routing Claude Code subagents with Jev](https://x.com/BenENewton/status/2107094918715867412) | 开发者工具 | Ben Newton ベン | 126 |
 | 2026-10-05T13:00:50.000Z | [A Claude Code mod that lets Jev pick agents and models per call](https://x.com/BenENewton/status/2107093656943350169) | 智能体 | Ben Newton ベン | 129 |

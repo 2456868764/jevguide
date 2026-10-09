@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 584 | 294 | 292 | 3.6M |
+| 586 | 294 | 294 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIDailyBrief/status/2108592077852578164"><img src="https://pbs.twimg.com/media/HUM5UhwacAAcFUL?format=png&amp;name=medium" alt="TypeSafe&#39;s Jev Joins the Cost-Intelligence Frontier · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIDailyBrief/status/2108592077852578164">TypeSafe&#39;s Jev Joins the Cost-Intelligence Frontier</a></h3>
+<p>The post notes that in June the cost-intelligence Pareto frontier belonged to GLM and DeepSeek, while today it is held by American players: Anthropic, OpenAI, and TypeSafe&#39;s Jev.</p>
+<p><strong>中文摘要：</strong>帖子指出，6月份成本智能帕累托前沿属于 GLM 和 DeepSeek，现在则由美国的 Anthropic、OpenAI 和 TypeSafe 的 Jev 占据。</p>
+<p><strong>The AI Daily Brief - Formerly The AI Breakdown</strong> · @AIDailyBrief · 2026-10-09T16:15:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 76</p>
+<p><a href="https://x.com/AIDailyBrief/status/2108592077852578164">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/luongnv89/status/2108591513059913780"><img src="https://pbs.twimg.com/media/HUM2vU5WoAAYPsl?format=png&amp;name=small" alt="Jev vs Qwen3.6 Benchmark: Jev 50x Slower · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/luongnv89/status/2108591513059913780">Jev vs Qwen3.6 Benchmark: Jev 50x Slower</a></h3>
+<p>User shares initial benchmark results comparing decision model Jev with reasoning model Qwen3.6-35B-A3B, finding Jev to be 50x slower, unexpected and requiring further tests.</p>
+<p><strong>中文摘要：</strong>用户分享初步基准测试结果，比较决策模型Jev与推理模型Qwen3.6-35B-A3B，发现Jev速度慢50倍，出乎意料，需更多测试确认。</p>
+<p><strong>Luong NGUYEN</strong> · @luongnv89 · 2026-10-09T16:12:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/luongnv89/status/2108591513059913780">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KolbeYang/status/2108572043734319599"><img src="https://pbs.twimg.com/amplify_video_thumb/2108572032409509888/img/5PMgTC4MGeRpLDAF.jpg" alt="Luna Decisions API vs Jev: Who Can Draw the Better World Map? · 原帖视频截图" width="100%"></a>

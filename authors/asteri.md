@@ -1,9 +1,10 @@
 # Asteri
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T16:20:52.000Z | [10 GitHub Repos Powered by Jev](https://x.com/Asteri_eth/status/2108593549109252469) | 智能体 | Asteri | 116 |
 | 2026-10-09T10:04:40.000Z | [Jev + Opus 5.5 Drives AI Support Desk](https://x.com/Asteri_eth/status/2108498873748500987) | 客户支持 | Asteri | 448 |
 | 2026-10-07T11:33:33.000Z | [1,142 GitHub Repos Built Around Jev Within a Week](https://x.com/Asteri_eth/status/2107796465976320033) | 社区实践 | Asteri | 512 |
 | 2026-10-05T11:01:43.000Z | [JEV Agent Ran Wild at 3AM](https://x.com/Asteri_eth/status/2107063682622451873) | 智能体 | Asteri | 276 |

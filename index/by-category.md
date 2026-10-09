@@ -1,26 +1,26 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1006
-- [Developer tools](../categories/developer-tools.md) — 584
+- [Community builds](../categories/community-builds.md) — 1011
+- [Developer tools](../categories/developer-tools.md) — 586
 - [How it works](../categories/how-it-works.md) — 553
-- [Launch news](../categories/launch-news.md) — 444
-- [Agents](../categories/agents.md) — 429
+- [Launch news](../categories/launch-news.md) — 445
+- [Agents](../categories/agents.md) — 433
 - [Access updates](../categories/access-updates.md) — 391
 - [Gaming](../categories/gaming.md) — 367
-- [Developer resources](../categories/developer-resources.md) — 354
-- [Finance](../categories/finance.md) — 274
-- [Workflow automation](../categories/workflow-automation.md) — 235
+- [Developer resources](../categories/developer-resources.md) — 355
+- [Finance](../categories/finance.md) — 276
+- [Workflow automation](../categories/workflow-automation.md) — 236
 - [Marketing](../categories/marketing.md) — 140
 - [Content creation](../categories/content-creation.md) — 115
-- [Data analytics](../categories/data-analytics.md) — 114
-- [Knowledge & search](../categories/knowledge-search.md) — 111
-- [Scientific research](../categories/scientific-research.md) — 87
-- [Cybersecurity](../categories/cybersecurity.md) — 63
+- [Data analytics](../categories/data-analytics.md) — 115
+- [Knowledge & search](../categories/knowledge-search.md) — 112
+- [Scientific research](../categories/scientific-research.md) — 88
+- [Cybersecurity](../categories/cybersecurity.md) — 64
 - [Customer support](../categories/customer-support.md) — 55
 - [Robotics](../categories/robotics.md) — 44
 - [Software development](../categories/software-development.md) — 41
 - [Productivity](../categories/productivity.md) — 40
-- [Business operations](../categories/business-operations.md) — 30
+- [Business operations](../categories/business-operations.md) — 31
 - [Healthcare](../categories/healthcare.md) — 27
 - [Education](../categories/education.md) — 27
 - [E-commerce](../categories/e-commerce.md) — 22

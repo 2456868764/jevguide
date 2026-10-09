@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 429 | 237 | 194 | 3.0M |
+| 433 | 238 | 197 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PromptQL/status/2108598887199997989"><img src="https://pbs.twimg.com/media/HUM_g6LWwAAa5pX?format=jpg&amp;name=medium" alt="How to Fairly Compare Jev with GPT · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PromptQL/status/2108598887199997989">How to Fairly Compare Jev with GPT</a></h3>
+<p>Use the same labeled cases and categories, apply strict structured outputs for GPT, and measure how many decisions you can automate safely rather than just the price per call.</p>
+<p><strong>中文摘要：</strong>使用相同的标记案例和类别，对GPT采用严格的结构化输出，衡量可安全自动化的决策数量，而非仅看单次调用价格。</p>
+<p><strong>PromptQL</strong> · @PromptQL · 2026-10-09T16:42:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/PromptQL/status/2108598887199997989">在 X 查看原帖</a> · <a href="https://t.co/oEjGHVQi6A">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KobyleckiMarcin/status/2108596009454453012"><img src="https://pbs.twimg.com/media/HUM8V2KXYAA_M_i?format=jpg&amp;name=medium" alt="Exploring JEV for Building a Scenario Control Tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KobyleckiMarcin/status/2108596009454453012">Exploring JEV for Building a Scenario Control Tool</a></h3>
+<p>The author mentions that while LLMem can be used for analysis, JEV and the basal model @KinasRemek are better suited for such experiments, and begins testing whether they can be used to build a scenario control tool.</p>
+<p><strong>中文摘要：</strong>作者提到可以先用LLMem分析，但JEV和basal模型@KinasRemek更适合此类实验，因此开始测试能否用它们构建场景控制工具。</p>
+<p><strong>Marcin Kobylecki</strong> · @KobyleckiMarcin · 2026-10-09T16:30:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/KobyleckiMarcin/status/2108596009454453012">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Asteri_eth/status/2108593549109252469"><img src="https://pbs.twimg.com/media/HUM6pe6WQAARQNq.jpg" alt="10 GitHub Repos Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Asteri_eth/status/2108593549109252469">10 GitHub Repos Powered by Jev</a></h3>
+<p>A look at 10 GitHub repos where Jev answers the small questions in between—which model, which chunk, which click, is it really done—while the code enforces the answer and agents just do the work.</p>
+<p><strong>中文摘要：</strong>介绍10个GitHub仓库，其中Jev负责回答中间的小问题（选择模型、分块、点击、是否完成），代码强制执行答案，让agent只需专注执行工作。</p>
+<p><strong>Asteri</strong> · @Asteri_eth · 2026-10-09T16:20:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 116</p>
+<p><a href="https://x.com/Asteri_eth/status/2108593549109252469">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RhysSullivan/status/2108586246855643293"><img src="https://pbs.twimg.com/media/HUMzeT-a8AAFttn?format=jpg&amp;name=medium" alt="Building a company brain with Jev and LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RhysSullivan/status/2108586246855643293">Building a company brain with Jev and LLM</a></h3>
+<p>The user shares a prompt for an agent to combine GitHub, multiple X accounts, and Gmail into one inbox, with inbound automatically classified using Jev and an LLM.</p>
+<p><strong>中文摘要：</strong>用户分享通过智能体提示，将 GitHub、多个 X 账号和 Gmail 合并到一个收件箱，并使用 Jev 和 LLM 自动分类入站消息。</p>
+<p><strong>Rhys</strong> · @RhysSullivan · 2026-10-09T15:51:51.000Z</p>
+<p>💬 11 &nbsp; 🔁 1 &nbsp; ♡ 52 &nbsp; 📊 2.9K</p>
+<p><a href="https://x.com/RhysSullivan/status/2108586246855643293">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xTekki/status/2108577727515336965"><img src="https://pbs.twimg.com/amplify_video_thumb/2108348421715132416/img/C6nkUkeM9uJ0Ja3b.jpg" alt="The AI That Can&#39;t Write a Sentence Is Taking Over GitHub · 原帖视频截图" width="100%"></a>

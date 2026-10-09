@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5574</strong><br>curated posts</td>
-<td align="center"><strong>2821</strong><br>original videos</td>
+<td align="center"><strong>5595</strong><br>curated posts</td>
+<td align="center"><strong>2831</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1006</strong> showcases · <strong>410</strong> videos</p>
+<p><strong>1011</strong> showcases · <strong>412</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>584</strong> showcases · <strong>294</strong> videos</p>
+<p><strong>586</strong> showcases · <strong>294</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>444</strong> showcases · <strong>207</strong> videos</p>
+<p><strong>445</strong> showcases · <strong>208</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>429</strong> showcases · <strong>237</strong> videos</p>
+<p><strong>433</strong> showcases · <strong>238</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>354</strong> showcases · <strong>143</strong> videos</p>
+<p><strong>355</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>274</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>276</strong> showcases · <strong>161</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>235</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>236</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,19 +108,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>114</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>111</strong> showcases · <strong>59</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>87</strong> showcases · <strong>28</strong> videos</p>
+<p><strong>88</strong> showcases · <strong>29</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>63</strong> showcases · <strong>20</strong> videos</p>
+<p><strong>64</strong> showcases · <strong>21</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>30</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>31</strong> showcases · <strong>14</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/abdennacer0/status/2108582710729949415"><img src="https://pbs.twimg.com/amplify_video_thumb/2108582482123599872/img/mq-oyEqFiAy-BPOF.jpg" alt="JEV-27B Fooled by Agatha Christie Novel in Reasoning Test · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/abdennacer0/status/2108582710729949415">JEV-27B Fooled by Agatha Christie Novel in Reasoning Test</a></h3>
-<p>The author fed Agatha Christie&#39;s novel to the decision model JEV-27B page by page and asked who the killer was. One page before the reveal, the model was 63% confident in the wrong suspect, while the real killer was at 0.3%, showing it was fooled much like humans.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
-<p><strong>Abdennacer Badaoui</strong> · @abdennacer0</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/PromptQL/status/2108598887199997989"><img src="https://pbs.twimg.com/media/HUM_g6LWwAAa5pX?format=jpg&amp;name=medium" alt="How to Fairly Compare Jev with GPT · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PromptQL/status/2108598887199997989">How to Fairly Compare Jev with GPT</a></h3>
+<p>Use the same labeled cases and categories, apply strict structured outputs for GPT, and measure how many decisions you can automate safely rather than just the price per call.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>PromptQL</strong> · @PromptQL</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/faqirfaramarz/status/2108582001489928537"><img src="https://pbs.twimg.com/amplify_video_thumb/2108581787098087424/img/-xthS8CnB-5Po6iL.jpg" alt="Kenby: A RAG Solution Powered by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/faqirfaramarz/status/2108582001489928537">Kenby: A RAG Solution Powered by Jev</a></h3>
-<p>Thanks to @typesafeai&#39;s Jev, the RAG problem has been solved. Kenby lets you connect your knowledge, documents, PDFs, websites, spreadsheets, Obsidian vaults, and more, then ask anything—it evaluates your question and searches.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Faramarz</strong> · @faqirfaramarz</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/RobxBroderick/status/2108598238144012527"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="TypeSafe AI Raises $870M Series A, Jev Launch Highlights · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RobxBroderick/status/2108598238144012527">TypeSafe AI Raises $870M Series A, Jev Launch Highlights</a></h3>
+<p>TypeSafe AI announced an $870 million Series A led by a16z, with participation from Sequoia, DCVC, USIT and others, valuing the company at $7.5 billion. Jev is hailed as one of the most exciting launches of all time.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 24</p>
+<p><strong>Rob Broderick</strong> · @RobxBroderick</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/HKrackDev/status/2108580749318168937"><img src="https://pbs.twimg.com/amplify_video_thumb/2107352374708981762/img/mWGDEwaRv98l_2Iz.jpg" alt="The Paradigm Shift with Jev Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HKrackDev/status/2108580749318168937">The Paradigm Shift with Jev Decision Model</a></h3>
-<p>When working with a decision model like Jev, don&#39;t make another AI call just because your code took a different branch. Ask more questions all at once.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Hendrik Krack</strong> · @HKrackDev</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/polydao/status/2108597594817474744"><img src="https://pbs.twimg.com/amplify_video_thumb/2108597521941434369/img/ECh6PtNpuFs2GpVl.jpg" alt="Jev engineering cuts AI bills by 90% · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/polydao/status/2108597594817474744">Jev engineering cuts AI bills by 90%</a></h3>
+<p>With Jev engineering, the cost of 100,000 messages per month drops from $7,950 to $773. Jev sorts the inbox in one call, and Kimi K3 only writes the replies that need real thinking. It&#39;s the layer after harness and loop engineering, and it works on anything.</p>
+<p><strong>119</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 119</p>
+<p><strong>Mr. Buzzoni</strong> · @polydao</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/dongyeopkang/status/2108580062765179143"><img src="https://pbs.twimg.com/tweet_video_thumb/HUK0do_W4AA22Rh.jpg" alt="Sansi: Adding a Reasoning Loop to JEV · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dongyeopkang/status/2108580062765179143">Sansi: Adding a Reasoning Loop to JEV</a></h3>
-<p>Dongyeop Kang highlights Shuyu Gan&#39;s work on Sansi, which adds a recursive latent reasoning loop to JEV (or typed decision models), addressing JEV&#39;s limitations in explicit reasoning.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Dongyeop Kang (DK)</strong> · @dongyeopkang</p>
+<a href="https://x.com/itscellou/status/2108596886378611101"><img src="https://pbs.twimg.com/amplify_video_thumb/2101720236332560384/img/yaooo6fILn6Lwdqw.jpg" alt="User Shares Real-World Use of Jev for Scam Detection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/itscellou/status/2108596886378611101">User Shares Real-World Use of Jev for Scam Detection</a></h3>
+<p>A user shares how they used Jev to analyze over 10,000 WhatsApp messages and flag scam content at minimal cost, showcasing a real community application for personal safety.</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>Cellou Diallo</strong> · @itscellou</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/abdennacer0/status/2108582710729949415"><img src="https://pbs.twimg.com/amplify_video_thumb/2108582482123599872/img/mq-oyEqFiAy-BPOF.jpg" alt="JEV-27B Fooled by Agatha Christie Novel in Reasoning Test · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/abdennacer0/status/2108582710729949415">JEV-27B Fooled by Agatha Christie Novel in Reasoning Test</a></h3>
-<p>The author fed Agatha Christie&#39;s novel to the decision model JEV-27B page by page and asked who the killer was. One page before the reveal, the model was 63% confident in the wrong suspect, while the real killer was at 0.3%, showing it was fooled much like humans.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
-<p><strong>Abdennacer Badaoui</strong> · @abdennacer0</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/PromptQL/status/2108598887199997989"><img src="https://pbs.twimg.com/media/HUM_g6LWwAAa5pX?format=jpg&amp;name=medium" alt="How to Fairly Compare Jev with GPT · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PromptQL/status/2108598887199997989">How to Fairly Compare Jev with GPT</a></h3>
+<p>Use the same labeled cases and categories, apply strict structured outputs for GPT, and measure how many decisions you can automate safely rather than just the price per call.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>PromptQL</strong> · @PromptQL</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/dongyeopkang/status/2108580062765179143"><img src="https://pbs.twimg.com/tweet_video_thumb/HUK0do_W4AA22Rh.jpg" alt="Sansi: Adding a Reasoning Loop to JEV · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/dongyeopkang/status/2108580062765179143">Sansi: Adding a Reasoning Loop to JEV</a></h3>
-<p>Dongyeop Kang highlights Shuyu Gan&#39;s work on Sansi, which adds a recursive latent reasoning loop to JEV (or typed decision models), addressing JEV&#39;s limitations in explicit reasoning.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Dongyeop Kang (DK)</strong> · @dongyeopkang</p>
+<a href="https://x.com/itscellou/status/2108596886378611101"><img src="https://pbs.twimg.com/amplify_video_thumb/2101720236332560384/img/yaooo6fILn6Lwdqw.jpg" alt="User Shares Real-World Use of Jev for Scam Detection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/itscellou/status/2108596886378611101">User Shares Real-World Use of Jev for Scam Detection</a></h3>
+<p>A user shares how they used Jev to analyze over 10,000 WhatsApp messages and flag scam content at minimal cost, showcasing a real community application for personal safety.</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>Cellou Diallo</strong> · @itscellou</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xTekki/status/2108577727515336965"><img src="https://pbs.twimg.com/amplify_video_thumb/2108348421715132416/img/C6nkUkeM9uJ0Ja3b.jpg" alt="The AI That Can&#39;t Write a Sentence Is Taking Over GitHub · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xTekki/status/2108577727515336965">The AI That Can&#39;t Write a Sentence Is Taking Over GitHub</a></h3>
-<p>20 repositories built on jev, a model that doesn&#39;t write text but picks the right option, applied to browsers, code review, trading, games, and drone simulation.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Tekki</strong> · @0xTekki</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/bojie_li/status/2108596476276593073"><img src="https://pbs.twimg.com/amplify_video_thumb/2108588469874487296/img/zWUTDGWBuuRO8WMf.jpg" alt="Pine Computer Launch: Dubbed the Jev of Computer Use · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/bojie_li/status/2108596476276593073">Pine Computer Launch: Dubbed the Jev of Computer Use</a></h3>
+<p>Pine Computer is claimed to achieve, for $1, the capabilities that GPT-6 Sol / Opus 5 + native computer use deliver at $25, with 2-5x faster speed.</p>
+<p><strong>299</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 299</p>
+<p><strong>Bojie Li</strong> · @bojie_li</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/dfinke/status/2108570823472902520"><img src="https://pbs.twimg.com/media/HUMl_YlbUAAnmNh?format=png&amp;name=900x900" alt="Wired up Typesafe AI Jev to Excel using VBA · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dfinke/status/2108570823472902520">Wired up Typesafe AI Jev to Excel using VBA</a></h3>
-<p>Doug Finke demonstrates wiring Typesafe AI Jev to Excel using VBA, enabling AI capabilities within spreadsheets.</p>
-<p><strong>177</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 177</p>
-<p><strong>Doug Finke</strong> · @dfinke</p>
+<a href="https://x.com/luongnv89/status/2108591513059913780"><img src="https://pbs.twimg.com/media/HUM2vU5WoAAYPsl?format=png&amp;name=small" alt="Jev vs Qwen3.6 Benchmark: Jev 50x Slower · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/luongnv89/status/2108591513059913780">Jev vs Qwen3.6 Benchmark: Jev 50x Slower</a></h3>
+<p>User shares initial benchmark results comparing decision model Jev with reasoning model Qwen3.6-35B-A3B, finding Jev to be 50x slower, unexpected and requiring further tests.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>Luong NGUYEN</strong> · @luongnv89</p>
 </td>
 </tr>
 </table>

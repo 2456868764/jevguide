@@ -1,9 +1,10 @@
 # Stanislav Sorokin
 
-16 Jev showcases.
+17 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T16:02:53.000Z | [Open small model beats Jev at prompt injection detection](https://x.com/stas_sorokin_/status/2108589024189264059) | 网络安全 | Stanislav Sorokin | 52 |
 | 2026-10-05T13:39:26.000Z | [Clef vs Jev: Faster but Costlier](https://x.com/stas_sorokin_/status/2107103372713013436) | 社区实践 | Stanislav Sorokin | 94 |
 | 2026-09-30T23:12:18.000Z | [Discussion on model confidence and handoff to Jev](https://x.com/stas_sorokin_/status/2105435598047629410) | 工作原理 | Stanislav Sorokin | 21 |
 | 2026-09-30T19:10:48.000Z | [Moving 52% of Jev API calls in a trading bot to a local 322M model](https://x.com/stas_sorokin_/status/2105374822104469811) | 金融 | Stanislav Sorokin | 6 |

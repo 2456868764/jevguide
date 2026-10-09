@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 274 | 159 | 117 | 1.2M |
+| 276 | 161 | 117 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RobxBroderick/status/2108598238144012527"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="TypeSafe AI Raises $870M Series A, Jev Launch Highlights · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RobxBroderick/status/2108598238144012527">TypeSafe AI Raises $870M Series A, Jev Launch Highlights</a></h3>
+<p>TypeSafe AI announced an $870 million Series A led by a16z, with participation from Sequoia, DCVC, USIT and others, valuing the company at $7.5 billion. Jev is hailed as one of the most exciting launches of all time.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI宣布完成由a16z领投、Sequoia、DCVC、USIT等参与的8.7亿美元A轮融资，公司估值达到75亿美元。Jev模型被视为有史以来最激动人心的产品发布之一。</p>
+<p><strong>Rob Broderick</strong> · @RobxBroderick · 2026-10-09T16:39:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 24</p>
+<p><a href="https://x.com/RobxBroderick/status/2108598238144012527">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cryptoflippod/status/2108589330252062831"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2108589162815504384/pu/img/DOekuRtmZY2agqhk.jpg" alt="Jev for Crypto Breakout Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cryptoflippod/status/2108589330252062831">Jev for Crypto Breakout Analysis</a></h3>
+<p>The post shows using Jev to analyze crypto tokens, with five indicators and all the data to identify which coin is primed for a breakout, contrasting with generic AI responses.</p>
+<p><strong>中文摘要：</strong>帖子展示了用Jev分析加密代币，通过五个指标和全部数据判断哪种币可能突破，与普通AI的模糊回答形成对比。</p>
+<p><strong>Crypto Flip Podcast</strong> · @cryptoflippod · 2026-10-09T16:04:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/cryptoflippod/status/2108589330252062831">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PANewsCN/status/2108548213288645004"><img src="https://pbs.twimg.com/media/HUMRNNRbAAAl1B0?format=jpg&amp;name=small" alt="a16z Leads Investment, AI Decision-Making Model Jev Developer TypeSafe AI Valued at $7.5B · 原帖图片" width="100%"></a>

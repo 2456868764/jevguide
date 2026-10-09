@@ -1,9 +1,11 @@
 # Daniel San
 
-9 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T00:32:51.000Z | [Jev Skill Typeahead is now fully open source](https://x.com/dani_avila7/status/2108354971531973028) | 开发资源 | Daniel San | 563 |
+| 2026-10-08T19:19:04.000Z | [Jev Skill Typeahead: Predict Skill Invocations for Claude Code](https://x.com/dani_avila7/status/2108276005886705818) | 开发者工具 | Daniel San | 5.1K |
 | 2026-10-02T22:15:47.000Z | [Play Against Jev with Claude Chess Mod on Desktop](https://x.com/dani_avila7/status/2106146151594344774) | 游戏 | Daniel San | 1.6K |
 | 2026-09-30T13:17:57.000Z | [Running Jev-like Decision Models Locally](https://x.com/dani_avila7/status/2105286024859652379) | 社区实践 | Daniel San | 753 |
 | 2026-09-26 | [Jev Skill Suggestion passes 1.2k downloads](https://x.com/dani_avila7/status/2103982234147360797) | 开发者工具 | Daniel San | 1.1K |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 966 | 399 | 571 | 3.0M |
+| 974 | 400 | 578 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/noah_vandal/status/2108358600574038051">Jev vs OpenAI Decisions API: Moderation Differences</a></h3>
+<p>The post points out that OpenAI&#39;s Decisions API is moderated, unlike TypeSafe&#39;s Jev.</p>
+<p><strong>中文摘要：</strong>该帖指出 OpenAI 的 Decisions API 经过审核，而 TypeSafe 的 Jev 则不受此限制。</p>
+<p><strong>Noah Vandal</strong> · @noah_vandal · 2026-10-09T00:47:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><a href="https://x.com/noah_vandal/status/2108358600574038051">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bryanmusuku/status/2108356312061170125"><img src="https://pbs.twimg.com/media/HUJiJhAXkAAa4wU?format=png&amp;name=small" alt="Chrome extension to filter tweets using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bryanmusuku/status/2108356312061170125">Chrome extension to filter tweets using Jev</a></h3>
+<p>An open-source Chrome extension that uses TypeSafe Jev to filter unwanted tweets from the timeline.</p>
+<p><strong>中文摘要：</strong>作者开发了一个开源的Chrome扩展，利用TypeSafe Jev过滤时间线上不想看到的推文。</p>
+<p><strong>Brian</strong> · @bryanmusuku · 2026-10-09T00:38:10.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/bryanmusuku/status/2108356312061170125">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
@@ -103,6 +127,78 @@
 <p><strong>Chen</strong> · @ch3nweiii · 2026-10-08T20:58:20.000Z</p>
 <p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 1.4K</p>
 <p><a href="https://x.com/ch3nweiii/status/2108300988264161439">在 X 查看原帖</a> · <a href="https://t.co/JkcsJJ5iT7">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jheytvelt/status/2108282869986558258"><img src="https://pbs.twimg.com/media/HUIfyh_W8AAGMfW?format=jpg&amp;name=small" alt="A post about Jev model community discussion · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jheytvelt/status/2108282869986558258">A post about Jev model community discussion</a></h3>
+<p>The user jokes about a seminar attendee, noting that they shared an article comparing Jev vs LLM just ten days after the Jev model&#39;s release.</p>
+<p><strong>中文摘要：</strong>用户发帖调侃一名参会者，提到对方在Jev模型发布仅十天后就分享了Jev vs LLM的文章。</p>
+<p><strong>Josh</strong> · @jheytvelt · 2026-10-08T19:46:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/jheytvelt/status/2108282869986558258">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GabeHernandezOK/status/2108282538703900953"><img src="https://pbs.twimg.com/media/HUIfocWXkAIRd8v?format=jpg&amp;name=medium" alt="Built an Etch A Sketch for Jev&#39;s Open Source Version · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GabeHernandezOK/status/2108282538703900953">Built an Etch A Sketch for Jev&#39;s Open Source Version</a></h3>
+<p>The user had Claude build an etch a sketch for an open source version of Jev, then used it to sketch the Mona Lisa.</p>
+<p><strong>中文摘要：</strong>用户让Claude为Jev的开源版本构建了一个蚀刻素描画板，并用它绘制了蒙娜丽莎。</p>
+<p><strong>Gabe Hernandez - Simplifying Life and Work with AI</strong> · @GabeHernandezOK · 2026-10-08T19:45:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/GabeHernandezOK/status/2108282538703900953">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neilmcgillivray/status/2108281026363490377"><img src="https://pbs.twimg.com/media/HUIea3IXIAApCT0?format=jpg&amp;name=medium" alt="Jev AI Goes Viral in Silicon Valley, OpenAI Hot on Its Heels · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/neilmcgillivray/status/2108281026363490377">Jev AI Goes Viral in Silicon Valley, OpenAI Hot on Its Heels</a></h3>
+<p>Neil McGillivray shares a Fortune article about Jev, an AI model for quick decisions, going viral among Silicon Valley developers, with OpenAI close behind.</p>
+<p><strong>中文摘要：</strong>Neil McGillivray 分享了一篇 Fortune 文章，介绍 Jev，一个用于快速决策的 AI 模型，在硅谷开发者中迅速走红，而 OpenAI 正紧随其后。</p>
+<p><strong>Neil McGillivray</strong> · @neilmcgillivray · 2026-10-08T19:39:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/neilmcgillivray/status/2108281026363490377">在 X 查看原帖</a> · <a href="https://t.co/TnB6GKMtRn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/teknopawn/status/2108280134478504440"><img src="https://pbs.twimg.com/media/HUIcUZtbcAE6qAq?format=jpg&amp;name=medium" alt="Jev fails to flag specific requirement in compiler crash eval · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/teknopawn/status/2108280134478504440">Jev fails to flag specific requirement in compiler crash eval</a></h3>
+<p>Brando Magnani shares an eval example: the task was to fix a compiler crash and demanded an internal representation never specified in the bug report. edith-1 flagged it, while Sonnet-5.5, Muse Spark 1.3, Clef, Jev, and Perplexity&#39;s decider v1 did not.</p>
+<p><strong>中文摘要：</strong>Brando Magnani分享了一个评估示例：任务要求修复编译器崩溃，并隐式要求内部表示。edith-1成功识别，而Sonnet-5.5、Muse Spark 1.3、Clef、Jev和Perplexity的decider v1均未识别。</p>
+<p><strong>Brando Magnani</strong> · @teknopawn · 2026-10-08T19:35:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 91</p>
+<p><a href="https://x.com/teknopawn/status/2108280134478504440">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/teknopawn/status/2108280131576123752"><img src="https://pbs.twimg.com/media/HUIcSxAacAAeDGI?format=png&amp;name=medium" alt="Jev reaches 61.0% balanced accuracy in eval · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/teknopawn/status/2108280131576123752">Jev reaches 61.0% balanced accuracy in eval</a></h3>
+<p>The post shows edith-1&#39;s performance on a held-out eval, comparing it with several models including Jev, which achieved 61.0% balanced accuracy.</p>
+<p><strong>中文摘要：</strong>该帖展示了edith-1在held-out评测中的表现，并对比了包括Jev在内的多个模型，Jev的平衡准确率为61.0%。</p>
+<p><strong>Brando Magnani</strong> · @teknopawn · 2026-10-08T19:35:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 141</p>
+<p><a href="https://x.com/teknopawn/status/2108280131576123752">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_sjl00/status/2108270708413616228"><img src="https://pbs.twimg.com/amplify_video_thumb/2108270331752239104/img/WFL-a5mTHotCG99z.jpg" alt="Building a citation-gap detection writing tool with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_sjl00/status/2108270708413616228">Building a citation-gap detection writing tool with Jev</a></h3>
+<p>SJL shares their first attempt at building a small writing tool with Jev to identify claims in text that lack a citation.</p>
+<p><strong>中文摘要：</strong>SJL分享了自己第一次尝试使用Jev构建小型写作工具的体验，该工具用于识别文本中缺少引用来源的声明。</p>
+<p><strong>SJL</strong> · @_sjl00 · 2026-10-08T18:58:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/_sjl00/status/2108270708413616228">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

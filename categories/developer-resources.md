@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 347 | 141 | 206 | 419K |
+| 349 | 142 | 207 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dani_avila7/status/2108354971531973028"><img src="https://pbs.twimg.com/media/HUJhrAkWcAAsKJP?format=jpg&amp;name=medium" alt="Jev Skill Typeahead is now fully open source · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dani_avila7/status/2108354971531973028">Jev Skill Typeahead is now fully open source</a></h3>
+<p>Jev Skill Typeahead is now fully open source. Explore the code, contribute improvements, and help make skill predictions more accurate.</p>
+<p><strong>中文摘要：</strong>Jev Skill Typeahead现已完全开源，欢迎探索代码并贡献改进，以提升技能预测的准确性。</p>
+<p><strong>Daniel San</strong> · @dani_avila7 · 2026-10-09T00:32:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 563</p>
+<p><a href="https://x.com/dani_avila7/status/2108354971531973028">在 X 查看原帖</a> · <a href="https://t.co/wTOIfMGgd3">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/soderlind/status/2108290856880939187"><img src="https://pbs.twimg.com/amplify_video_thumb/2108290760898412544/img/6Oj0XLbSUZvKZIwu.jpg" alt="Jev Comment Triage: A WordPress Comment Moderation Plugin Using Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Per Søderlind (🦋 @per.soderlind.no) 💙💛</strong> · @soderlind · 2026-10-08T20:18:05.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/soderlind/status/2108290856880939187">在 X 查看原帖</a> · <a href="https://t.co/0KZWgRPCnb">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hwchase17/status/2108272060141301908"><img src="https://pbs.twimg.com/amplify_video_thumb/2108257695853899776/img/fmHZvI_lajeG9tkg.jpg" alt="Guide to Using Jev with LangChain · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hwchase17/status/2108272060141301908">Guide to Using Jev with LangChain</a></h3>
+<p>Harrison Chase shares how to use Jev decision models within a LangChain harness, with a detailed blog post.</p>
+<p><strong>中文摘要：</strong>Harrison Chase分享如何在LangChain中结合Jev决策模型构建harness，并附有详细博客说明。</p>
+<p><strong>Harrison Chase</strong> · @hwchase17 · 2026-10-08T19:03:23.000Z</p>
+<p>💬 12 &nbsp; 🔁 6 &nbsp; ♡ 16 &nbsp; 📊 3.5K</p>
+<p><a href="https://x.com/hwchase17/status/2108272060141301908">在 X 查看原帖</a> · <a href="https://t.co/TgYoOiLJXd">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Sumanth_077/status/2108198978773037422"><img src="https://pbs.twimg.com/media/HUHTus1a8AAsUp9?format=jpg&amp;name=small" alt="Fine-tune Your Own Jev-like Decision Model Locally · 原帖图片" width="100%"></a>

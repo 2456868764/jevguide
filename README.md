@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5421</strong><br>curated posts</td>
-<td align="center"><strong>2759</strong><br>original videos</td>
+<td align="center"><strong>5460</strong><br>curated posts</td>
+<td align="center"><strong>2773</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>966</strong> showcases · <strong>399</strong> videos</p>
+<p><strong>974</strong> showcases · <strong>400</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>563</strong> showcases · <strong>287</strong> videos</p>
+<p><strong>572</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>544</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>545</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>431</strong> showcases · <strong>200</strong> videos</p>
+<p><strong>437</strong> showcases · <strong>203</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>421</strong> showcases · <strong>233</strong> videos</p>
+<p><strong>423</strong> showcases · <strong>234</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>387</strong> showcases · <strong>161</strong> videos</p>
+<p><strong>388</strong> showcases · <strong>162</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>357</strong> showcases · <strong>271</strong> videos</p>
+<p><strong>358</strong> showcases · <strong>271</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>347</strong> showcases · <strong>141</strong> videos</p>
+<p><strong>349</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>264</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>268</strong> showcases · <strong>154</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>227</strong> showcases · <strong>147</strong> videos</p>
+<p><strong>229</strong> showcases · <strong>147</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>84</strong> showcases · <strong>28</strong> videos</p>
+<p><strong>85</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>62</strong> showcases · <strong>20</strong> videos</p>
+<p><strong>63</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>43</strong> showcases · <strong>33</strong> videos</p>
+<p><strong>44</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/2Halves1brain/status/2108345274003317132">Experimental Evaluation of Jev as an Additional Reviewer</a></h3>
-<p>Someone shared an analysis of adding Jev to the review process: for the Flash model, full evidence in the final report improved from 4/6 to 5/6, but runtime already reached 5/6 in both conditions, indicating the gain was in reporting rather than discovery; report acceptance improved from 11/12 to 12/12.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>TwoHalves</strong> · @2Halves1brain</p>
+<a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/noah_vandal/status/2108358600574038051">Jev vs OpenAI Decisions API: Moderation Differences</a></h3>
+<p>The post points out that OpenAI&#39;s Decisions API is moderated, unlike TypeSafe&#39;s Jev.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><strong>Noah Vandal</strong> · @noah_vandal</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/2Halves1brain/status/2108344811136680162"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Evaluating Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/2Halves1brain/status/2108344811136680162">Evaluating Jev as an Additional Reviewer</a></h3>
-<p>The user shares experimental data after adding Jev as a reviewer: full evidence in the final report increased from 4/6 to 5/6 for Flash, and report acceptance rose from 11/12 to 12/12. However, the evidence count already reached 5/6 during runs, so the gain was in reporting rather than new discovery.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>TwoHalves</strong> · @2Halves1brain</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/mojeskoqq/status/2108356844309578073"><img src="https://pbs.twimg.com/media/HUJjTBoW8AAM3un?format=jpg&amp;name=medium" alt="OpenAI Dots + Jev Low-Cost Agent Setup · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mojeskoqq/status/2108356844309578073">OpenAI Dots + Jev Low-Cost Agent Setup</a></h3>
+<p>This post shares a setup combining OpenAI Dots with Jev, turning an expensive always-on agent into a cheaper worker: small decisions go to Jev at $0.042 per million, and routine tasks go to GPT-6.1 Sol.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>mojesko</strong> · @mojeskoqq</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/atharwows/status/2108343356896268545"><img src="https://pbs.twimg.com/amplify_video_thumb/2108342779734859777/img/QLpfIcyKjeQDwQE3.jpg" alt="Pulse: Capture meeting emotions with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/atharwows/status/2108343356896268545">Pulse: Capture meeting emotions with Jev</a></h3>
-<p>An open-source project called Pulse, which uses TypeSafe AI&#39;s Jev for voice scoring and combines OpenAI&#39;s facial recognition to add emotion capturing to meeting notes.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>atharva sindwani</strong> · @atharwows</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/bryanmusuku/status/2108356312061170125"><img src="https://pbs.twimg.com/media/HUJiJhAXkAAa4wU?format=png&amp;name=small" alt="Chrome extension to filter tweets using Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/bryanmusuku/status/2108356312061170125">Chrome extension to filter tweets using Jev</a></h3>
+<p>An open-source Chrome extension that uses TypeSafe Jev to filter unwanted tweets from the timeline.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Brian</strong> · @bryanmusuku</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/Celeris_ai/status/2108341439784767633"><img src="https://pbs.twimg.com/amplify_video_thumb/2108341131029499904/img/qO__vG63kVnVGO2h.jpg" alt="Celeris-1 Decision vs Jev 1.13.0 in Street Fighter · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Celeris_ai/status/2108341439784767633">Celeris-1 Decision vs Jev 1.13.0 in Street Fighter</a></h3>
-<p>Celeris shows Celeris-1 Decision and Jev 1.13.0 in a Street Fighter match, see how it goes.</p>
-<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 44</p>
-<p><strong>Celeris</strong> · @Celeris_ai</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/dani_avila7/status/2108354971531973028"><img src="https://pbs.twimg.com/media/HUJhrAkWcAAsKJP?format=jpg&amp;name=medium" alt="Jev Skill Typeahead is now fully open source · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dani_avila7/status/2108354971531973028">Jev Skill Typeahead is now fully open source</a></h3>
+<p>Jev Skill Typeahead is now fully open source. Explore the code, contribute improvements, and help make skill predictions more accurate.</p>
+<p><strong>563</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 563</p>
+<p><strong>Daniel San</strong> · @dani_avila7</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/2Halves1brain/status/2108345274003317132">Experimental Evaluation of Jev as an Additional Reviewer</a></h3>
-<p>Someone shared an analysis of adding Jev to the review process: for the Flash model, full evidence in the final report improved from 4/6 to 5/6, but runtime already reached 5/6 in both conditions, indicating the gain was in reporting rather than discovery; report acceptance improved from 11/12 to 12/12.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>TwoHalves</strong> · @2Halves1brain</p>
+<a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/noah_vandal/status/2108358600574038051">Jev vs OpenAI Decisions API: Moderation Differences</a></h3>
+<p>The post points out that OpenAI&#39;s Decisions API is moderated, unlike TypeSafe&#39;s Jev.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><strong>Noah Vandal</strong> · @noah_vandal</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/Celeris_ai/status/2108341439784767633"><img src="https://pbs.twimg.com/amplify_video_thumb/2108341131029499904/img/qO__vG63kVnVGO2h.jpg" alt="Celeris-1 Decision vs Jev 1.13.0 in Street Fighter · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Celeris_ai/status/2108341439784767633">Celeris-1 Decision vs Jev 1.13.0 in Street Fighter</a></h3>
-<p>Celeris shows Celeris-1 Decision and Jev 1.13.0 in a Street Fighter match, see how it goes.</p>
-<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 44</p>
-<p><strong>Celeris</strong> · @Celeris_ai</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/dani_avila7/status/2108354971531973028"><img src="https://pbs.twimg.com/media/HUJhrAkWcAAsKJP?format=jpg&amp;name=medium" alt="Jev Skill Typeahead is now fully open source · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dani_avila7/status/2108354971531973028">Jev Skill Typeahead is now fully open source</a></h3>
+<p>Jev Skill Typeahead is now fully open source. Explore the code, contribute improvements, and help make skill predictions more accurate.</p>
+<p><strong>563</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 563</p>
+<p><strong>Daniel San</strong> · @dani_avila7</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Celeris_ai/status/2108340177345368486"><img src="https://pbs.twimg.com/media/HUJT6QragAAEmR_?format=jpg&amp;name=medium" alt="Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Celeris_ai/status/2108340177345368486">Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks</a></h3>
-<p>Celeris announced Celeris-1 Decision is live today. On jev-bench and typed decisions, it outperforms Jev 1.13.0, OpenAI gpt-6-luna, Perplexity pplx-decider-v1.1-27b, and Inception Mercury Decide in both accuracy and Brier score, and also led the benchmark in median response time.</p>
-<p><strong>408</strong> views · 💬 6 &nbsp; 🔁 6 &nbsp; ♡ 21 &nbsp; 📊 408</p>
-<p><strong>Celeris</strong> · @Celeris_ai</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/MinLiBuilds/status/2108351241910989233"><img src="https://pbs.twimg.com/amplify_video_thumb/2108351179281539072/img/ZIjfxKI9tiJewoiJ.jpg" alt="Former OpenAI Researcher Releases Jev Decision Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MinLiBuilds/status/2108351241910989233">Former OpenAI Researcher Releases Jev Decision Model</a></h3>
+<p>On September 15, Diogo Almeida released Jev, a model designed for Agent decision-making that doesn&#39;t generate text but handles judgment, selection, and scoring. The author notes the API cost is extremely low.</p>
+<p><strong>296</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 296</p>
+<p><strong>实践哥 Li</strong> · @MinLiBuilds</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
-<a href="https://x.com/RainerFranz/status/2108326470460358701"><img src="https://pbs.twimg.com/amplify_video_thumb/2107988290603216897/img/PxUDA03ZhgOMlega.jpg" alt="Using Jev for Data Classification · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/RainerFranz/status/2108326470460358701">Using Jev for Data Classification</a></h3>
-<p>The author uses a large volume of Hansard reports, news archives, and social media posts to construct context and stakeholder profiles, and uses Jev for classification.</p>
-<p><strong>61</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 61</p>
-<p><strong>Rainer Franz</strong> · @RainerFranz</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/2Halves1brain/status/2108344811136680162"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Evaluating Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/2Halves1brain/status/2108344811136680162">Evaluating Jev as an Additional Reviewer</a></h3>
+<p>The user shares experimental data after adding Jev as a reviewer: full evidence in the final report increased from 4/6 to 5/6 for Flash, and report acceptance rose from 11/12 to 12/12. However, the evidence count already reached 5/6 during runs, so the gain was in reporting rather than new discovery.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain</p>
 </td>
 </tr>
 </table>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 264 | 151 | 115 | 1.2M |
+| 268 | 154 | 116 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yonann/status/2108347208466886911"><img src="https://pbs.twimg.com/amplify_video_thumb/2108332123966828544/img/mdIPVhxIFlkJAwfX.jpg" alt="Developer Builds AI Trading Signal Bot with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yonann/status/2108347208466886911">Developer Builds AI Trading Signal Bot with Jev</a></h3>
+<p>Miles Deutscher built an AI bot using Jev that reads breaking market news and generates trading signals in milliseconds, showcasing a unique financial application of Jev.</p>
+<p><strong>中文摘要：</strong>Miles Deutscher使用Jev构建了一个AI机器人，能够实时解读突发市场新闻并在毫秒级生成交易信号，展示了Jev在金融信息处理中的独特应用。</p>
+<p><strong>Yonan</strong> · @yonann · 2026-10-09T00:02:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 338</p>
+<p><a href="https://x.com/yonann/status/2108347208466886911">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/tribfifun/status/2108327654311268627"><img src="https://pbs.twimg.com/media/HUJHnXfWEAAQJQ1?format=jpg&amp;name=medium" alt="Ask Jev about tokens on Tribfi · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,43 @@
 <p><strong>Tribfi</strong> · @tribfifun · 2026-10-08T22:44:18.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 34</p>
 <p><a href="https://x.com/tribfifun/status/2108327654311268627">在 X 查看原帖</a> · <a href="https://t.co/jAxMqYfsXM">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Av1dlive/status/2108273753520230529"><img src="https://pbs.twimg.com/amplify_video_thumb/2108270916509880320/img/3GkvaJEYfIrbyUO7.jpg" alt="Building a Zero-Cost Quant Research Desk with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Av1dlive/status/2108273753520230529">Building a Zero-Cost Quant Research Desk with Jev</a></h3>
+<p>A user runs 7 bots on a Mac with Jev, pulling news from 143 X accounts and RSS every 15 minutes. Jev scored 1,131 headlines today, with $0 data cost, and the setup took just one evening.</p>
+<p><strong>中文摘要：</strong>用户利用 Jev 在 Mac 上运行 7 个机器人，每 15 分钟从 143 个 X 账户和 RSS 拉取新闻，Jev 今天完成了 1131 条头条评分，数据成本为零，整个系统一个晚上即可搭建完成。</p>
+<p><strong>Avid</strong> · @Av1dlive · 2026-10-08T19:10:07.000Z</p>
+<p>💬 7 &nbsp; 🔁 4 &nbsp; ♡ 15 &nbsp; 📊 599</p>
+<p><a href="https://x.com/Av1dlive/status/2108273753520230529">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Seymxn/status/2108272338768896057"><img src="https://pbs.twimg.com/amplify_video_thumb/2108272245185404929/img/XXem2E8-QWt77uDo.jpg" alt="Jev-style invoice decisions in milliseconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Seymxn/status/2108272338768896057">Jev-style invoice decisions in milliseconds</a></h3>
+<p>Pass an image of an invoice and a question, get a decision in 101 ms on average using Jev-style model.</p>
+<p><strong>中文摘要：</strong>传入发票图片和问题，Jev-style模型平均仅需101毫秒即可做出决策。</p>
+<p><strong>Simon</strong> · @Seymxn · 2026-10-08T19:04:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/Seymxn/status/2108272338768896057">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jfan001/status/2108267201442746624"><img src="https://pbs.twimg.com/media/HUIRKYxaEAAMlJ9?format=png&amp;name=medium" alt="Built a fraud decision model better and cheaper than Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jfan001/status/2108267201442746624">Built a fraud decision model better and cheaper than Jev</a></h3>
+<p>The author states they built a decision model for fraud detection, claiming it is both better and cheaper than Jev.</p>
+<p><strong>中文摘要：</strong>作者称其团队构建了一个用于欺诈检测的决策模型，声称在性能和成本上均优于Jev。</p>
+<p><strong>Jason Fan</strong> · @jfan001 · 2026-10-08T18:44:05.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 178</p>
+<p><a href="https://x.com/jfan001/status/2108267201442746624">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2108181563511038096"><img src="https://pbs.twimg.com/media/HUHD0KSbMAAmSFD?format=jpg&amp;name=medium" alt="Discussion on Building 24/7 Trading Agents with Grok + Jev · 原帖图片" width="100%"></a>

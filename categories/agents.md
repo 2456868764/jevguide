@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 421 | 233 | 190 | 3.0M |
+| 423 | 234 | 191 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/7uanF/status/2108350668994232764"><img src="https://pbs.twimg.com/media/HUJdugBW4AApMAg?format=jpg&amp;name=medium" alt="Jev Chat: Read Chat Context and Assist Replies · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/7uanF/status/2108350668994232764">Jev Chat: Read Chat Context and Assist Replies</a></h3>
+<p>Jev Chat reads your chat screen, judges the other party&#39;s intent and risk, and leaves ready-made replies in the input field—you just hit send. Runs on Android, Windows, macOS and iOS, with 7,417 stars. The good part: it understands context before you respond.</p>
+<p><strong>中文摘要：</strong>Jev Chat 能读取聊天屏幕，判断对方意图和风险，并在输入框中预备好回复，用户只需点击发送。支持 Android、Windows、macOS 和 iOS，已获 7417 颗星标。亮点是能在你回复前理解上下文。</p>
+<p><strong>Juan</strong> · @7uanF · 2026-10-09T00:15:45.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 112</p>
+<p><a href="https://x.com/7uanF/status/2108350668994232764">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/yoheinakajima/status/2108327134435700744"><img src="https://pbs.twimg.com/media/HUJIPUraoAA55bi?format=jpg&amp;name=medium" alt="Podcast on Jev Experiments and ActiveGraph Agent Architecture · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 6 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 1.5K</p>
 <p><a href="https://x.com/yoheinakajima/status/2108327134435700744">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tomjohndesign/status/2108324479063793956"><img src="https://pbs.twimg.com/amplify_video_thumb/2108321646486667264/img/UpkJ4-KLdb0nkrpU.jpg" alt="Developer shares using Jev to monitor and protect Chat GPTom agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 294</p>
 <p><a href="https://x.com/tomjohndesign/status/2108324479063793956">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rvaniaaaa/status/2108312697037013201"><img src="https://pbs.twimg.com/media/HUI7OMZWsAE_hjF?format=jpg&amp;name=medium" alt="Try Jev Without Touching Your Agent: Quick Decisions via Claude Code · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 411</p>
 <p><a href="https://x.com/rvaniaaaa/status/2108312697037013201">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heysaik/status/2108302526995210600"><img src="https://pbs.twimg.com/amplify_video_thumb/2108301726076018688/img/PdU4wn9Ledez__Rn.jpg" alt="Using Jev to build a macOS Settings search assistant · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 16 &nbsp; 📊 930</p>
 <p><a href="https://x.com/heysaik/status/2108302526995210600">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BenENewton/status/2108301598732558362"><img src="https://pbs.twimg.com/media/HUIxIbFXkAAgrUZ?format=jpg&amp;name=medium" alt="Jev Routing Rule Test: Lookups Only with High Confidence · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
 <p><a href="https://x.com/BenENewton/status/2108301598732558362">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/natzir9/status/2108295265035657392"><img src="https://pbs.twimg.com/media/HUIqGfrWYAAOXz_?format=jpg&amp;name=medium" alt="Jev Performance Comparison in Decision Tasks · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 65</p>
 <p><a href="https://x.com/natzir9/status/2108295265035657392">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_josh_meyer_/status/2108294773635498067"><img src="https://pbs.twimg.com/media/HUIqxc7XYAEcHfA?format=jpg&amp;name=medium" alt="Is Jev the best decision model for voice agents? · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +103,19 @@
 <p><strong>Josh Meyer</strong> · @_josh_meyer_ · 2026-10-08T20:33:38.000Z</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 321</p>
 <p><a href="https://x.com/_josh_meyer_/status/2108294773635498067">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Loofyb0i/status/2108271975374225830"><img src="https://pbs.twimg.com/amplify_video_thumb/2108271755747819521/img/4IKQUKvyokr6cv_O.jpg" alt="Multi-model Agent Setup: Opus 5.5 + Sonnet 5.5 + Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Loofyb0i/status/2108271975374225830">Multi-model Agent Setup: Opus 5.5 + Sonnet 5.5 + Jev</a></h3>
+<p>The author shares an under-discussed agent setup wiring multiple models into one loop, avoiding huge contexts and brittle hardcoded loops.</p>
+<p><strong>中文摘要：</strong>作者分享了一种少有人讨论的Agent设置，将多个模型接入一个循环，避免巨大上下文和硬编码循环的缺点。</p>
+<p><strong>Loofy</strong> · @Loofyb0i · 2026-10-08T19:03:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 494</p>
+<p><a href="https://x.com/Loofyb0i/status/2108271975374225830">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/OpenRouter/status/2108206463755944219"><img src="https://pbs.twimg.com/media/HUHamtlWYAA4rTd?format=jpg&amp;name=medium" alt="OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows · 原帖图片" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 227 | 147 | 80 | 595K |
+| 229 | 147 | 82 | 595K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mojeskoqq/status/2108356844309578073"><img src="https://pbs.twimg.com/media/HUJjTBoW8AAM3un?format=jpg&amp;name=medium" alt="OpenAI Dots + Jev Low-Cost Agent Setup · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mojeskoqq/status/2108356844309578073">OpenAI Dots + Jev Low-Cost Agent Setup</a></h3>
+<p>This post shares a setup combining OpenAI Dots with Jev, turning an expensive always-on agent into a cheaper worker: small decisions go to Jev at $0.042 per million, and routine tasks go to GPT-6.1 Sol.</p>
+<p><strong>中文摘要：</strong>这个帖子分享了一个将 OpenAI Dots 与 Jev 结合使用的配置，把始终在线的昂贵 agent 变成更便宜的工人：小决策交给每百万次仅 $0.042 的 Jev，日常任务交给 GPT-6.1 Sol。</p>
+<p><strong>mojesko</strong> · @mojeskoqq · 2026-10-09T00:40:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/mojeskoqq/status/2108356844309578073">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Gabascvc/status/2108310028784689263"><img src="https://pbs.twimg.com/media/HUI4MSbWoAMT-_D?format=png&amp;name=small" alt="User Cleans 22K Emails with Jev for Just R$3.51 · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 273</p>
 <p><a href="https://x.com/Gabascvc/status/2108310028784689263">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Denaryych/status/2108294588511248514"><img src="https://pbs.twimg.com/amplify_video_thumb/2108294492700766209/img/ekccQkUduiyKs4NA.jpg" alt="Three-layer pipeline: only 131 of 12,637 steps paid for model · 原帖视频截图" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>Denary</strong> · @Denaryych · 2026-10-08T20:32:54.000Z</p>
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 290</p>
 <p><a href="https://x.com/Denaryych/status/2108294588511248514">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/onatm/status/2108264109942681762"><img src="https://pbs.twimg.com/media/HUIN_VUWgAAYApk?format=jpg&amp;name=medium" alt="Building an efficient and low-cost data pipeline for summary extraction with Jev and GPT-6-Luna · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/onatm/status/2108264109942681762">Building an efficient and low-cost data pipeline for summary extraction with Jev and GPT-6-Luna</a></h3>
+<p>The author shares how they built an effective and inexpensive data pipeline using Jev and GPT-6-Luna to extract summaries based on category and format, attributing success to their own efforts and model improvements. They also note no changes were made for about two weeks.</p>
+<p><strong>中文摘要：</strong>作者分享了如何利用Jev和GPT-6-Luna，通过指定类别和格式来提取摘要，构建了一个高效且低成本的数据管道。作者认为自身努力和模型进步是达到该水平的关键，并提到约两周未做改动。</p>
+<p><strong>Onat Yiğit Mercan</strong> · @onatm · 2026-10-08T18:31:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 153</p>
+<p><a href="https://x.com/onatm/status/2108264109942681762">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 431 | 200 | 234 | 1.1M |
+| 437 | 203 | 237 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MinLiBuilds/status/2108351241910989233"><img src="https://pbs.twimg.com/amplify_video_thumb/2108351179281539072/img/ZIjfxKI9tiJewoiJ.jpg" alt="Former OpenAI Researcher Releases Jev Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MinLiBuilds/status/2108351241910989233">Former OpenAI Researcher Releases Jev Decision Model</a></h3>
+<p>On September 15, Diogo Almeida released Jev, a model designed for Agent decision-making that doesn&#39;t generate text but handles judgment, selection, and scoring. The author notes the API cost is extremely low.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 于9月15日发布Jev，该模型专为Agent做决策，不生成文字，只负责判断、选择和评分。作者表示API消费极低，引发关注。</p>
+<p><strong>实践哥 Li</strong> · @MinLiBuilds · 2026-10-09T00:18:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 296</p>
+<p><a href="https://x.com/MinLiBuilds/status/2108351241910989233">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Celeris_ai/status/2108340177345368486"><img src="https://pbs.twimg.com/media/HUJT6QragAAEmR_?format=jpg&amp;name=medium" alt="Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 6 &nbsp; 🔁 6 &nbsp; ♡ 21 &nbsp; 📊 408</p>
 <p><a href="https://x.com/Celeris_ai/status/2108340177345368486">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GaoShanghua/status/2108322470876917862"><img src="https://pbs.twimg.com/amplify_video_thumb/2108322131800997888/img/3nOGVRqL7LAxAalV.jpg" alt="AutoScientists Releases RSI-Jev v6.1-VL 27B Multimodal Decision Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 395</p>
 <p><a href="https://x.com/GaoShanghua/status/2108322470876917862">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/verysmallwoods/status/2108319019811938604"><img src="https://pbs.twimg.com/amplify_video_thumb/2108317813525864448/img/mFQ9VxokqHMF16vS.jpg" alt="OpenAI Decisions API now publicly accessible, focusing on decision models · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 302</p>
 <p><a href="https://x.com/verysmallwoods/status/2108319019811938604">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Skrilla_git/status/2108287486313070760"><img src="https://pbs.twimg.com/amplify_video_thumb/2108287402233987073/img/ezIpKtygG2cKeb8k.jpg" alt="TypeSafe Launches Jev, an AI Model Focused on Judgment · 原帖视频截图" width="100%"></a>
 <br>
@@ -55,6 +68,65 @@
 <p><strong>Skrilla</strong> · @Skrilla_git · 2026-10-08T20:04:41.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 294</p>
 <p><a href="https://x.com/Skrilla_git/status/2108287486313070760">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/framer/status/2108285896923759007"><img src="https://pbs.twimg.com/amplify_video_thumb/2108285870742872064/img/CSBcgZP_s7tVdjfF.jpg" alt="TypeSafe AI launches Jev website on Framer · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/framer/status/2108285896923759007">TypeSafe AI launches Jev website on Framer</a></h3>
+<p>TypeSafe AI partnered with Fuzzco to build and launch a website introducing Jev in Framer in just 4 days. Since launch, it has welcomed 4.8 million visitors, with over 200,000 form submissions in the first 3 days.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 与 Fuzzco 合作，在 Framer 上于4天内构建并发布了介绍 Jev 的网站。上线后已吸引480万访客，前3天收到超过20万份表单提交。</p>
+<p><strong>Framer</strong> · @framer · 2026-10-08T19:58:22.000Z</p>
+<p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 31 &nbsp; 📊 2.5K</p>
+<p><a href="https://x.com/framer/status/2108285896923759007">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MikeTamir/status/2108277504968400953"><img src="https://pbs.twimg.com/media/HUIbN7-XYAEpnWl?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MikeTamir/status/2108277504968400953">TypeSafe AI Launches Jev Model</a></h3>
+<p>TypeSafe AI launches Jev, a System One frontier model optimized for fast, structured decisions and type-safe outputs without string generation or hallucinations.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI推出Jev，一个针对快速、结构化决策优化的System One前沿模型，支持类型安全输出，避免字符串生成和幻觉问题。</p>
+<p><strong>Mike Tamir, PhD</strong> · @MikeTamir · 2026-10-08T19:25:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 388</p>
+<p><a href="https://x.com/MikeTamir/status/2108277504968400953">在 X 查看原帖</a> · <a href="https://t.co/9JKjG409D0">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RunAnywhereAI/status/2108276423970685259"><img src="https://pbs.twimg.com/amplify_video_thumb/2108276349857366016/img/44yGR_ptb1wF8b26.jpg" alt="EVE now runs on your laptop · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RunAnywhereAI/status/2108276423970685259">EVE now runs on your laptop</a></h3>
+<p>RunAnywhere announces that EVE can now run Jev-class decision models locally on your laptop via Wally, powered by Perplexity&#39;s open model, keeping your data on your device.</p>
+<p><strong>中文摘要：</strong>RunAnywhere宣布EVE现在可以在笔记本电脑上通过Wally本地运行Jev-class决策模型，由Perplexity的开放模型提供支持，数据保留在用户设备上。</p>
+<p><strong>RunAnywhere</strong> · @RunAnywhereAI · 2026-10-08T19:20:44.000Z</p>
+<p>💬 2 &nbsp; 🔁 7 &nbsp; ♡ 19 &nbsp; 📊 2.8K</p>
+<p><a href="https://x.com/RunAnywhereAI/status/2108276423970685259">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/StefanoErmon/status/2108262061210042442"><img src="https://pbs.twimg.com/media/HUIM41JbQAA1UlQ?format=png&amp;name=900x900" alt="Mercury Decide vs Jev: More Accurate and More Affordable · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/StefanoErmon/status/2108262061210042442">Mercury Decide vs Jev: More Accurate and More Affordable</a></h3>
+<p>Stefano Ermon announces that Inception AI&#39;s System One decision model Mercury Decide reached #2 on OpenRouter by users one week after launch, with daily improvements. Independent results from ValsAI show Mercury Decide is more accurate and more affordable than Jev.</p>
+<p><strong>中文摘要：</strong>Stefano Ermon 宣布 Inception AI 的 System One 决策模型 Mercury Decide 发布一周后，在 OpenRouter 上按用户数排名第二，并持续改进。独立评测机构 ValsAI 的结果显示，Mercury Decide 比 Jev 更准确且更实惠。</p>
+<p><strong>Stefano Ermon</strong> · @StefanoErmon · 2026-10-08T18:23:39.000Z</p>
+<p>💬 5 &nbsp; 🔁 21 &nbsp; ♡ 78 &nbsp; 📊 6.4K</p>
+<p><a href="https://x.com/StefanoErmon/status/2108262061210042442">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ObinaGMI/status/2108259263655080436"><img src="https://pbs.twimg.com/media/HUIKnVUXkAA5Hx2?format=jpg&amp;name=medium" alt="B.AI Brings TypeSafe Jev to AI Decision Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ObinaGMI/status/2108259263655080436">B.AI Brings TypeSafe Jev to AI Decision Making</a></h3>
+<p>Introduces how the Jev model enables AI to make structured decisions directly, replacing text outputs that require separate parsing.</p>
+<p><strong>中文摘要：</strong>介绍 Jev 模型如何让 AI 直接做出结构化决策，替代需要额外解析的文本输出。</p>
+<p><strong>De Gentle</strong> · @ObinaGMI · 2026-10-08T18:12:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/ObinaGMI/status/2108259263655080436">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

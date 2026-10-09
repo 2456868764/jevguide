@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 38 | 17 | 21 | 88K |
+| 40 | 18 | 22 | 88K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tokenbytoken_ai/status/2108304412691124472"><img src="https://pbs.twimg.com/media/HUIzjucXwAA_5at?format=jpg&amp;name=medium" alt="AI Newsletter #26: Jev Model &amp; Dev Tools · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tokenbytoken_ai/status/2108304412691124472">AI Newsletter #26: Jev Model &amp; Dev Tools</a></h3>
+<p>This issue covers Atlassian&#39;s AI SDLC transformation playbook, an explanation of the Jev model (which doesn&#39;t generate text), Pinterest&#39;s agent-ready metrics layer, ClaudeDevs cost-cutting improvements, and daily LLM release &amp; pricing tracker.</p>
+<p><strong>中文摘要：</strong>本期汇总Atlassian AI SDLC转型手册、关于Jev模型（不生成文本）的解读、Pinterest智能体指标层、ClaudeDevs成本优化以及每日LLM发布与定价追踪。</p>
+<p><strong>token by token</strong> · @tokenbytoken_ai · 2026-10-08T21:11:57.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 128</p>
+<p><a href="https://x.com/tokenbytoken_ai/status/2108304412691124472">在 X 查看原帖</a> · <a href="https://t.co/3MzYJXObGn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mn0g0znalll/status/2108287869630464093"><img src="https://pbs.twimg.com/amplify_video_thumb/2108287598565212160/img/y_JmGe4b5CreQ1bP.jpg" alt="Jev Can&#39;t Process Images? A Discussion on High-Speed Models and Visual Testing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mn0g0znalll/status/2108287869630464093">Jev Can&#39;t Process Images? A Discussion on High-Speed Models and Visual Testing</a></h3>
+<p>The post argues that autonomous UI testing agents need to spot visual bugs and contrast issues in sub-second turns, notes that the Jev model cannot accept images, and cites Cloudflare as proof that high-speed decision models are not necessarily blind.</p>
+<p><strong>中文摘要：</strong>帖子指出自主UI测试代理需要快速发现视觉缺陷和对比度问题，同时强调Jev模型不支持图像输入，并引用Cloudflare作为高速决策模型并非盲目的证明。</p>
+<p><strong>mnogoznalll</strong> · @mn0g0znalll · 2026-10-08T20:06:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/mn0g0znalll/status/2108287869630464093">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zer0point_eth/status/2108186425745178698"><img src="https://pbs.twimg.com/amplify_video_thumb/2108186367431790592/img/_1H-A2OXLESYYXKO.jpg" alt="Jev + Claude Combined Workflow · 原帖视频截图" width="100%"></a>

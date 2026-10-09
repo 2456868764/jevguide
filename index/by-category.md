@@ -1,25 +1,25 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 958
-- [Developer tools](../categories/developer-tools.md) — 560
-- [How it works](../categories/how-it-works.md) — 543
-- [Launch news](../categories/launch-news.md) — 427
-- [Agents](../categories/agents.md) — 414
+- [Community builds](../categories/community-builds.md) — 966
+- [Developer tools](../categories/developer-tools.md) — 563
+- [How it works](../categories/how-it-works.md) — 544
+- [Launch news](../categories/launch-news.md) — 431
+- [Agents](../categories/agents.md) — 421
 - [Access updates](../categories/access-updates.md) — 387
-- [Gaming](../categories/gaming.md) — 354
-- [Developer resources](../categories/developer-resources.md) — 346
-- [Finance](../categories/finance.md) — 263
-- [Workflow automation](../categories/workflow-automation.md) — 225
+- [Gaming](../categories/gaming.md) — 357
+- [Developer resources](../categories/developer-resources.md) — 347
+- [Finance](../categories/finance.md) — 264
+- [Workflow automation](../categories/workflow-automation.md) — 227
 - [Marketing](../categories/marketing.md) — 139
 - [Content creation](../categories/content-creation.md) — 113
-- [Data analytics](../categories/data-analytics.md) — 112
+- [Data analytics](../categories/data-analytics.md) — 113
 - [Knowledge & search](../categories/knowledge-search.md) — 109
-- [Scientific research](../categories/scientific-research.md) — 83
+- [Scientific research](../categories/scientific-research.md) — 84
 - [Cybersecurity](../categories/cybersecurity.md) — 62
 - [Customer support](../categories/customer-support.md) — 52
 - [Robotics](../categories/robotics.md) — 43
+- [Software development](../categories/software-development.md) — 40
 - [Productivity](../categories/productivity.md) — 39
-- [Software development](../categories/software-development.md) — 38
 - [Business operations](../categories/business-operations.md) — 28
 - [Healthcare](../categories/healthcare.md) — 25
 - [Education](../categories/education.md) — 24

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 427 | 197 | 233 | 1.1M |
+| 431 | 200 | 234 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Celeris_ai/status/2108340177345368486"><img src="https://pbs.twimg.com/media/HUJT6QragAAEmR_?format=jpg&amp;name=medium" alt="Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Celeris_ai/status/2108340177345368486">Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks</a></h3>
+<p>Celeris announced Celeris-1 Decision is live today. On jev-bench and typed decisions, it outperforms Jev 1.13.0, OpenAI gpt-6-luna, Perplexity pplx-decider-v1.1-27b, and Inception Mercury Decide in both accuracy and Brier score, and also led the benchmark in median response time.</p>
+<p><strong>中文摘要：</strong>Celeris 宣布 Celeris-1 Decision 今日上线。该模型在 jev-bench 和 typed decisions 上的准确率与 Brier 分数均优于 Jev 1.13.0、OpenAI gpt-6-luna、Perplexity pplx-decider-v1.1-27b 和 Inception Mercury Decide，并在响应时间上领先基准测试中位数。</p>
+<p><strong>Celeris</strong> · @Celeris_ai · 2026-10-08T23:34:04.000Z</p>
+<p>💬 6 &nbsp; 🔁 6 &nbsp; ♡ 21 &nbsp; 📊 408</p>
+<p><a href="https://x.com/Celeris_ai/status/2108340177345368486">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GaoShanghua/status/2108322470876917862"><img src="https://pbs.twimg.com/amplify_video_thumb/2108322131800997888/img/3nOGVRqL7LAxAalV.jpg" alt="AutoScientists Releases RSI-Jev v6.1-VL 27B Multimodal Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GaoShanghua/status/2108322470876917862">AutoScientists Releases RSI-Jev v6.1-VL 27B Multimodal Decision Model</a></h3>
+<p>RSI-Jev v6.1-VL 27B tops the public Decision Index 0.3 with a score of 65.64, ahead of Jev 1.13 (57.96) and other strong decision models. It is a multimodal System One model that reads images and makes decisions in one forward pass.</p>
+<p><strong>中文摘要：</strong>RSI-Jev v6.1-VL 27B在公开决策指数0.3上以65.64分排名第一，超越Jev 1.13（57.96）等模型。这是一个多模态System One模型，可读取图像并在一次前向传播中做出决策。</p>
+<p><strong>Shanghua Gao</strong> · @GaoShanghua · 2026-10-08T22:23:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 395</p>
+<p><a href="https://x.com/GaoShanghua/status/2108322470876917862">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/verysmallwoods/status/2108319019811938604"><img src="https://pbs.twimg.com/amplify_video_thumb/2108317813525864448/img/mFQ9VxokqHMF16vS.jpg" alt="OpenAI Decisions API now publicly accessible, focusing on decision models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/verysmallwoods/status/2108319019811938604">OpenAI Decisions API now publicly accessible, focusing on decision models</a></h3>
+<p>After Jev&#39;s release, decision-making models gained attention. OpenAI&#39;s Decisions API is now public, returning Predicate, Choice, or Score with probabilities in a limited answer space, and supports text as well as image (base64) inputs.</p>
+<p><strong>中文摘要：</strong>Jev 发布后，决策类模型备受关注。OpenAI Decisions API 现已公开，可在有限答案空间中返回 Predicate、Choice 或 Score，并附带概率，支持文字和图片（base64）输入。</p>
+<p><strong>VerySmallWoods</strong> · @verysmallwoods · 2026-10-08T22:09:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 302</p>
+<p><a href="https://x.com/verysmallwoods/status/2108319019811938604">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Skrilla_git/status/2108287486313070760"><img src="https://pbs.twimg.com/amplify_video_thumb/2108287402233987073/img/ezIpKtygG2cKeb8k.jpg" alt="TypeSafe Launches Jev, an AI Model Focused on Judgment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Skrilla_git/status/2108287486313070760">TypeSafe Launches Jev, an AI Model Focused on Judgment</a></h3>
+<p>TypeSafe introduces Jev, a model built for judgment tasks. The speed numbers reportedly look fake until tested. The launch post gained 30 million views.</p>
+<p><strong>中文摘要：</strong>TypeSafe 发布新模型 Jev，专用于判断任务。据称速度数据惊人，测试后确认。相关发布帖子获得 3000 万次浏览。</p>
+<p><strong>Skrilla</strong> · @Skrilla_git · 2026-10-08T20:04:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 294</p>
+<p><a href="https://x.com/Skrilla_git/status/2108287486313070760">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kraayenJon/status/2108200852561543411"><img src="https://pbs.twimg.com/media/HUHVgHvaUAATg0U?format=jpg&amp;name=medium" alt="New website for JEV · 原帖图片" width="100%"></a>

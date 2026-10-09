@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5387</strong><br>curated posts</td>
-<td align="center"><strong>2740</strong><br>original videos</td>
+<td align="center"><strong>5421</strong><br>curated posts</td>
+<td align="center"><strong>2759</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>958</strong> showcases · <strong>394</strong> videos</p>
+<p><strong>966</strong> showcases · <strong>399</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>560</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>563</strong> showcases · <strong>287</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>543</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>544</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>427</strong> showcases · <strong>197</strong> videos</p>
+<p><strong>431</strong> showcases · <strong>200</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>414</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>233</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>354</strong> showcases · <strong>268</strong> videos</p>
+<p><strong>357</strong> showcases · <strong>271</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>346</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>347</strong> showcases · <strong>141</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>263</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>264</strong> showcases · <strong>151</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>225</strong> showcases · <strong>146</strong> videos</p>
+<p><strong>227</strong> showcases · <strong>147</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>112</strong> showcases · <strong>58</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>59</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>83</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>84</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -146,16 +146,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/software-development.md">Software development</a></h3>
+<p><sub>软件开发</sub></p>
+<p><strong>40</strong> showcases · <strong>18</strong> videos</p>
+<p><a href="categories/software-development.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
 <p><strong>39</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/software-development.md">Software development</a></h3>
-<p><sub>软件开发</sub></p>
-<p><strong>38</strong> showcases · <strong>17</strong> videos</p>
-<p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/annabellschfr/status/2108206670916800574">Racing Jev on sentiment classification</a></h3>
-<p>The user races TypeSafe AI&#39;s Jev against OpenAI&#39;s decision API and 5.6 Luna on sentiment classification, showcasing Jev&#39;s real-world usage.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Annabell</strong> · @annabellschfr</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/2Halves1brain/status/2108345274003317132">Experimental Evaluation of Jev as an Additional Reviewer</a></h3>
+<p>Someone shared an analysis of adding Jev to the review process: for the Flash model, full evidence in the final report improved from 4/6 to 5/6, but runtime already reached 5/6 in both conditions, indicating the gain was in reporting rather than discovery; report acceptance improved from 11/12 to 12/12.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/OpenRouter/status/2108206463755944219"><img src="https://pbs.twimg.com/media/HUHamtlWYAA4rTd?format=jpg&amp;name=medium" alt="OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/OpenRouter/status/2108206463755944219">OpenRouter Compares Decision Models: GPT-6 Luna Leads, Jev Follows</a></h3>
-<p>OpenRouter released a model performance comparison, stating GPT-6 Luna is the fastest decision model today (180ms on global requests), followed by Jev and Perplexity Decider.</p>
-<p><strong>791</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 791</p>
-<p><strong>OpenRouter</strong> · @OpenRouter</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/2Halves1brain/status/2108344811136680162"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Evaluating Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/2Halves1brain/status/2108344811136680162">Evaluating Jev as an Additional Reviewer</a></h3>
+<p>The user shares experimental data after adding Jev as a reviewer: full evidence in the final report increased from 4/6 to 5/6 for Flash, and report acceptance rose from 11/12 to 12/12. However, the evidence count already reached 5/6 during runs, so the gain was in reporting rather than new discovery.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/StatAP_papers/status/2108205070688903466"><img src="https://pbs.twimg.com/media/HUHZVxTWIAACGV0?format=png&amp;name=medium" alt="Estimating Uncoded Crash Factors with Tabular Foundation and System One Models (Including Jev) · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/StatAP_papers/status/2108205070688903466">Estimating Uncoded Crash Factors with Tabular Foundation and System One Models (Including Jev)</a></h3>
-<p>This post shares an academic paper that explores using models such as Kumo Tabular and Jev (a System One model) to estimate uncoded crash factors, with a link to the code repository.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Applications Papers</strong> · @StatAP_papers</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/atharwows/status/2108343356896268545"><img src="https://pbs.twimg.com/amplify_video_thumb/2108342779734859777/img/QLpfIcyKjeQDwQE3.jpg" alt="Pulse: Capture meeting emotions with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/atharwows/status/2108343356896268545">Pulse: Capture meeting emotions with Jev</a></h3>
+<p>An open-source project called Pulse, which uses TypeSafe AI&#39;s Jev for voice scoring and combines OpenAI&#39;s facial recognition to add emotion capturing to meeting notes.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>atharva sindwani</strong> · @atharwows</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/goon_nguyen/status/2108204671328542878"><img src="https://pbs.twimg.com/media/HUHY-ITboAAhSwo?format=jpg&amp;name=medium" alt="Jev wins in integration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/goon_nguyen/status/2108204671328542878">Jev wins in integration</a></h3>
-<p>User shares that while integrating several models into their products, Jev always won with context in their language.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Duy /zuey/</strong> · @goon_nguyen</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/Celeris_ai/status/2108341439784767633"><img src="https://pbs.twimg.com/amplify_video_thumb/2108341131029499904/img/qO__vG63kVnVGO2h.jpg" alt="Celeris-1 Decision vs Jev 1.13.0 in Street Fighter · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Celeris_ai/status/2108341439784767633">Celeris-1 Decision vs Jev 1.13.0 in Street Fighter</a></h3>
+<p>Celeris shows Celeris-1 Decision and Jev 1.13.0 in a Street Fighter match, see how it goes.</p>
+<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 44</p>
+<p><strong>Celeris</strong> · @Celeris_ai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/annabellschfr/status/2108206670916800574">Racing Jev on sentiment classification</a></h3>
-<p>The user races TypeSafe AI&#39;s Jev against OpenAI&#39;s decision API and 5.6 Luna on sentiment classification, showcasing Jev&#39;s real-world usage.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Annabell</strong> · @annabellschfr</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/2Halves1brain/status/2108345274003317132">Experimental Evaluation of Jev as an Additional Reviewer</a></h3>
+<p>Someone shared an analysis of adding Jev to the review process: for the Flash model, full evidence in the final report improved from 4/6 to 5/6, but runtime already reached 5/6 in both conditions, indicating the gain was in reporting rather than discovery; report acceptance improved from 11/12 to 12/12.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/goon_nguyen/status/2108204671328542878"><img src="https://pbs.twimg.com/media/HUHY-ITboAAhSwo?format=jpg&amp;name=medium" alt="Jev wins in integration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/goon_nguyen/status/2108204671328542878">Jev wins in integration</a></h3>
-<p>User shares that while integrating several models into their products, Jev always won with context in their language.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Duy /zuey/</strong> · @goon_nguyen</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/Celeris_ai/status/2108341439784767633"><img src="https://pbs.twimg.com/amplify_video_thumb/2108341131029499904/img/qO__vG63kVnVGO2h.jpg" alt="Celeris-1 Decision vs Jev 1.13.0 in Street Fighter · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Celeris_ai/status/2108341439784767633">Celeris-1 Decision vs Jev 1.13.0 in Street Fighter</a></h3>
+<p>Celeris shows Celeris-1 Decision and Jev 1.13.0 in a Street Fighter match, see how it goes.</p>
+<p><strong>44</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 44</p>
+<p><strong>Celeris</strong> · @Celeris_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/kenonews/status/2108203869490528707"><img src="https://pbs.twimg.com/amplify_video_thumb/2108203586853257218/img/kzXr9zEndDfxC9l-.jpg" alt="Developer complains about Jev image handling, switches to OpenAI API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kenonews/status/2108203869490528707">Developer complains about Jev image handling, switches to OpenAI API</a></h3>
-<p>A developer says they are done with workarounds for image processing in Jev, switches to OpenAI&#39;s Decisions API for direct image handling, and mentions still selling CAPTCHA solutions in Chinese marketplaces.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>keno</strong> · @kenonews</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Celeris_ai/status/2108340177345368486"><img src="https://pbs.twimg.com/media/HUJT6QragAAEmR_?format=jpg&amp;name=medium" alt="Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Celeris_ai/status/2108340177345368486">Celeris-1 Decision launches, claims to beat Jev 1.13.0 on multiple benchmarks</a></h3>
+<p>Celeris announced Celeris-1 Decision is live today. On jev-bench and typed decisions, it outperforms Jev 1.13.0, OpenAI gpt-6-luna, Perplexity pplx-decider-v1.1-27b, and Inception Mercury Decide in both accuracy and Brier score, and also led the benchmark in median response time.</p>
+<p><strong>408</strong> views · 💬 6 &nbsp; 🔁 6 &nbsp; ♡ 21 &nbsp; 📊 408</p>
+<p><strong>Celeris</strong> · @Celeris_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/codegirl007/status/2108196716759687278"><img src="https://pbs.twimg.com/media/HUF8gvwaoAA-Zgq?format=jpg&amp;name=medium" alt="Developer benchmarks Jev model in code linter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/codegirl007/status/2108196716759687278">Developer benchmarks Jev model in code linter</a></h3>
-<p>The author shares timing results for multiple decision model providers supported by their code taste linter, including jev-latest (TypeSafe and OpenRouter), gpt-6-luna, Cloudflare clef, and clef-flash, noting they&#39;ve used the TypeSafe one the most.</p>
-<p><strong>68</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 68</p>
-<p><strong>codegirl007</strong> · @codegirl007</p>
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/RainerFranz/status/2108326470460358701"><img src="https://pbs.twimg.com/amplify_video_thumb/2107988290603216897/img/PxUDA03ZhgOMlega.jpg" alt="Using Jev for Data Classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RainerFranz/status/2108326470460358701">Using Jev for Data Classification</a></h3>
+<p>The author uses a large volume of Hansard reports, news archives, and social media posts to construct context and stakeholder profiles, and uses Jev for classification.</p>
+<p><strong>61</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 61</p>
+<p><strong>Rainer Franz</strong> · @RainerFranz</p>
 </td>
 </tr>
 </table>

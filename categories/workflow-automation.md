@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 225 | 146 | 79 | 595K |
+| 227 | 147 | 80 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Gabascvc/status/2108310028784689263"><img src="https://pbs.twimg.com/media/HUI4MSbWoAMT-_D?format=png&amp;name=small" alt="User Cleans 22K Emails with Jev for Just R$3.51 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Gabascvc/status/2108310028784689263">User Cleans 22K Emails with Jev for Just R$3.51</a></h3>
+<p>A developer exploring Jev for reverse engineering decided to test it by having it read and clean their inbox: 22,451 emails read one by one, 7,483 deleted (460 per minute), with an API cost of just R$3.51. A real-world example of Jev-powered automation.</p>
+<p><strong>中文摘要：</strong>一位开发者研究Jev API并用于逆向工程测试，实际让它读取和清理邮箱：共处理22,451封邮件，删除7,483封（每分钟460封），API总成本仅3.51雷亚尔。展示了Jev在真实自动化任务中的高效与低成本。</p>
+<p><strong>Gabas ✌🏻</strong> · @Gabascvc · 2026-10-08T21:34:16.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 273</p>
+<p><a href="https://x.com/Gabascvc/status/2108310028784689263">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Denaryych/status/2108294588511248514"><img src="https://pbs.twimg.com/amplify_video_thumb/2108294492700766209/img/ekccQkUduiyKs4NA.jpg" alt="Three-layer pipeline: only 131 of 12,637 steps paid for model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Denaryych/status/2108294588511248514">Three-layer pipeline: only 131 of 12,637 steps paid for model</a></h3>
+<p>The author shares how code handles most steps, paying for a model on only 131, at fractions of a cent. The second component, Jev, doesn&#39;t write text but participates in other processing.</p>
+<p><strong>中文摘要：</strong>作者分享了如何通过代码处理大部分步骤，仅对131步调用模型，成本极低。其中第二个组件Jev不写文本，而是参与其他处理。</p>
+<p><strong>Denary</strong> · @Denaryych · 2026-10-08T20:32:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 290</p>
+<p><a href="https://x.com/Denaryych/status/2108294588511248514">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0x_rody/status/2108190728023122305"><img src="https://pbs.twimg.com/amplify_video_thumb/2108189306036604928/img/YDOchMzo8G0-N01H.jpg" alt="Jev: A Tiny Decision Model · 原帖视频截图" width="100%"></a>

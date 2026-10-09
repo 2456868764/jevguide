@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 958 | 394 | 568 | 3.0M |
+| 966 | 399 | 571 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/2Halves1brain/status/2108345274003317132"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Experimental Evaluation of Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/2Halves1brain/status/2108345274003317132">Experimental Evaluation of Jev as an Additional Reviewer</a></h3>
+<p>Someone shared an analysis of adding Jev to the review process: for the Flash model, full evidence in the final report improved from 4/6 to 5/6, but runtime already reached 5/6 in both conditions, indicating the gain was in reporting rather than discovery; report acceptance improved from 11/12 to 12/12.</p>
+<p><strong>中文摘要：</strong>有人分享了将Jev添加到审阅流程后的结果分析：在Flash模型上，最终报告中的完整证据从4/6提升到5/6，但运行期间本身已能达到5/6，说明主要改善了报告传递而非发现能力；报告接受率从11/12提高到12/12。</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain · 2026-10-08T23:54:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/2Halves1brain/status/2108345274003317132">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/2Halves1brain/status/2108344811136680162"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Evaluating Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/2Halves1brain/status/2108344811136680162">Evaluating Jev as an Additional Reviewer</a></h3>
+<p>The user shares experimental data after adding Jev as a reviewer: full evidence in the final report increased from 4/6 to 5/6 for Flash, and report acceptance rose from 11/12 to 12/12. However, the evidence count already reached 5/6 during runs, so the gain was in reporting rather than new discovery.</p>
+<p><strong>中文摘要：</strong>用户分享将Jev添加为审阅者后的实验数据：Flash模型最终报告中的完整证据从4/6提升至5/6，报告接受度从11/12提升至12/12。但运行期间证据数量已达5/6，改进主要体现在报告传递而非新发现。</p>
+<p><strong>TwoHalves</strong> · @2Halves1brain · 2026-10-08T23:52:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/2Halves1brain/status/2108344811136680162">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/atharwows/status/2108343356896268545"><img src="https://pbs.twimg.com/amplify_video_thumb/2108342779734859777/img/QLpfIcyKjeQDwQE3.jpg" alt="Pulse: Capture meeting emotions with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/atharwows/status/2108343356896268545">Pulse: Capture meeting emotions with Jev</a></h3>
+<p>An open-source project called Pulse, which uses TypeSafe AI&#39;s Jev for voice scoring and combines OpenAI&#39;s facial recognition to add emotion capturing to meeting notes.</p>
+<p><strong>中文摘要：</strong>一个名为 Pulse 的开源项目，利用 TypeSafe AI 的 Jev 进行语音评分，并结合 OpenAI 的面部识别，为会议记录添加情绪捕捉能力。</p>
+<p><strong>atharva sindwani</strong> · @atharwows · 2026-10-08T23:46:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/atharwows/status/2108343356896268545">在 X 查看原帖</a> · <a href="https://t.co/plNTlK7T0L">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_sarant/status/2108336621980360830"><img src="https://pbs.twimg.com/amplify_video_thumb/2108327073936732161/img/uYV3j4nglgIT1Yzv.jpg" alt="Making an AI battle game with Jev and Anthropic models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_sarant/status/2108336621980360830">Making an AI battle game with Jev and Anthropic models</a></h3>
+<p>Sara used Opus 5.5 and Convex to build a game where AI agents fight each other, incorporating models like Jev, demonstrating Jev in game development.</p>
+<p><strong>中文摘要：</strong>Sara借助Opus 5.5和Convex开发了一款AI智能体互相对战的游戏，其中集成了Jev等模型，展示了Jev在游戏开发场景中的实际应用。</p>
+<p><strong>Sara</strong> · @_sarant · 2026-10-08T23:19:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 165</p>
+<p><a href="https://x.com/_sarant/status/2108336621980360830">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_product_man/status/2108330947997233334"><img src="https://pbs.twimg.com/media/HUJL0yUWEAA506B?format=jpg&amp;name=medium" alt="Will Anthropic launch a Jev-style decision model? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ai_product_man/status/2108330947997233334">Will Anthropic launch a Jev-style decision model?</a></h3>
+<p>A prediction question asking whether Anthropic will release a Jev-style decision model by October 31, inviting users to predict.</p>
+<p><strong>中文摘要：</strong>一个关于Anthropic是否会在10月31日前发布类Jev决策模型的预测话题，邀请用户参与投票。</p>
+<p><strong>Isaac Valadez</strong> · @ai_product_man · 2026-10-08T22:57:23.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 66</p>
+<p><a href="https://x.com/ai_product_man/status/2108330947997233334">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Raleigh_CA/status/2108307072664412275"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Better Scores than TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Raleigh_CA/status/2108307072664412275">Better Scores than TypeSafe Jev</a></h3>
+<p>The user states that their system achieves better scores than TypeSafe AI&#39;s Jev model, mentioning @typesafeai in the post.</p>
+<p><strong>中文摘要：</strong>用户表示其系统在评分上优于TypeSafe AI的Jev模型，并提及@typesafeai账号。</p>
+<p><strong>Raleigh, CA | OOO</strong> · @Raleigh_CA · 2026-10-08T21:22:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 220</p>
+<p><a href="https://x.com/Raleigh_CA/status/2108307072664412275">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CompleteSkeptic/status/2108305631954493938"><img src="https://pbs.twimg.com/amplify_video_thumb/2108238975580467200/img/w-hdUuN7vR1ga7Sm.jpg" alt="Jev as a Universal Verifier · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CompleteSkeptic/status/2108305631954493938">Jev as a Universal Verifier</a></h3>
+<p>The post praises using a universal verifier (Jev) for process rewards, hoping it is adversarially robust enough.</p>
+<p><strong>中文摘要：</strong>该帖子称赞了使用通用验证器（Jev）来处理奖励，并希望其具备足够的对抗鲁棒性。</p>
+<p><strong>Diogo Almeida</strong> · @CompleteSkeptic · 2026-10-08T21:16:47.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 62 &nbsp; 📊 7.4K</p>
+<p><a href="https://x.com/CompleteSkeptic/status/2108305631954493938">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ch3nweiii/status/2108300988264161439"><img src="https://pbs.twimg.com/amplify_video_thumb/2108300069040455680/img/5KLFa3TIYF4QjA9n.jpg" alt="Opus 5.5 + Jev: 10 GitHub repos where agents do the work · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ch3nweiii/status/2108300988264161439">Opus 5.5 + Jev: 10 GitHub repos where agents do the work</a></h3>
+<p>A treasure list shared by the user: Jev makes every call in 10 GitHub repos while agents just do the work. First up is jev-ultrafast, a browser agent where Jev picks the action and the exact DOM element.</p>
+<p><strong>中文摘要：</strong>用户分享的宝藏列表：Jev 在10个GitHub仓库中负责所有调用，代理只需执行。首个为 jev-ultrafast，一个由Jev选择动作和DOM元素的浏览器代理。</p>
+<p><strong>Chen</strong> · @ch3nweiii · 2026-10-08T20:58:20.000Z</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/ch3nweiii/status/2108300988264161439">在 X 查看原帖</a> · <a href="https://t.co/JkcsJJ5iT7">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/annabellschfr/status/2108206670916800574"><img src="https://pbs.twimg.com/amplify_video_thumb/2108206604575227904/img/ggmyGec1tQihw6HN.jpg" alt="Racing Jev on sentiment classification · 原帖视频截图" width="100%"></a>

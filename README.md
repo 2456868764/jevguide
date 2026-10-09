@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5473</strong><br>curated posts</td>
-<td align="center"><strong>2775</strong><br>original videos</td>
+<td align="center"><strong>5479</strong><br>curated posts</td>
+<td align="center"><strong>2777</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>979</strong> showcases · <strong>400</strong> videos</p>
+<p><strong>980</strong> showcases · <strong>401</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>548</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>549</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>424</strong> showcases · <strong>234</strong> videos</p>
+<p><strong>425</strong> showcases · <strong>234</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>349</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>350</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>231</strong> showcases · <strong>148</strong> videos</p>
+<p><strong>232</strong> showcases · <strong>148</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>24</strong> showcases · <strong>12</strong> videos</p>
+<p><strong>25</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ataschz/status/2108387717692129302"><img src="https://pbs.twimg.com/media/HUJ3k3dXwAABMHE?format=jpg&amp;name=medium" alt="Redesigning agents with TypeSafe AI&#39;s Jev and OpenAI&#39;s Luna · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ataschz/status/2108387717692129302">Redesigning agents with TypeSafe AI&#39;s Jev and OpenAI&#39;s Luna</a></h3>
-<p>The @trytrama team shares how they redesigned all their agents around the new Decisions API, using TypeSafe AI (Jev) and OpenAI (Luna). They note Jev is cheap, while Luna is accurate and fast.</p>
-<p><strong>120</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 120</p>
-<p><strong>Ata Herrera 🇦🇷</strong> · @ataschz</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2108405462034948558"><img src="https://pbs.twimg.com/media/HUKPWa2WsAABeNc?format=jpg&amp;name=medium" alt="Jev AI vs Traditional ML · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2108405462034948558">Jev AI vs Traditional ML</a></h3>
+<p>A clear explanation of the differences between Jev AI and traditional machine learning, covering conventional ML&#39;s reliance on algorithms to learn patterns from data, including data collection, feature engineering, model training, evaluation, and deployment.</p>
+<p><strong>300</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 300</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/killainow/status/2108384559582920905"><img src="https://pbs.twimg.com/media/HUJ8JAAboAAIq08?format=jpg&amp;name=medium" alt="Tricking Jev to screen our interviews · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/killainow/status/2108384559582920905">Tricking Jev to screen our interviews</a></h3>
-<p>A user jokes about convincing Jev to screen them for interviews they aren&#39;t qualified for.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>KillAINOW</strong> · @killainow</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/NeelakandanNC/status/2108402152779718994"><img src="https://pbs.twimg.com/media/HUKMMPrbIAA-gkF?format=jpg&amp;name=medium" alt="Jev Benchmark on MCP Tool Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NeelakandanNC/status/2108402152779718994">Jev Benchmark on MCP Tool Selection</a></h3>
+<p>The author lets Jev pick the top 10 from 250 MCP tools and tests it on 3 MCP benchmarks against OpenAI&#39;s decision model. On MCP-Atlas, Jev achieves 80% vs 64% correct tool selection, 96% less tool context, and 3x better calibration.</p>
+<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><strong>Neelakandan NC</strong> · @NeelakandanNC</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/gudyfut/status/2108381204886012234"><img src="https://pbs.twimg.com/media/HUJ48GsWQAAas14?format=jpg&amp;name=medium" alt="GudyBrain: Jev-powered Markdown memory assistant · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gudyfut/status/2108381204886012234">GudyBrain: Jev-powered Markdown memory assistant</a></h3>
-<p>GudyBrain is an assistant using TypeSafe&#39;s Jev AI to manage persistent Markdown memory. Jev decides whether to search, traverses memory branches, and selects files for context. The UI shows the selection path with probabilities.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>gudyfut</strong> · @gudyfut</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/schwentker/status/2108397050215973052"><img src="https://pbs.twimg.com/media/HUKDLuvasAAv5qq?format=jpg&amp;name=medium" alt="Planning a Team Night Out with Jev Classifier · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/schwentker/status/2108397050215973052">Planning a Team Night Out with Jev Classifier</a></h3>
+<p>Robert demonstrates a practical workflow: plain code applies hard rules to filter candidate events, and Natali&#39;s Jev classifier ranks them from the filtered list, ensuring no invented events.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Robert Schwentker</strong> · @schwentker</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/Quanbuilds/status/2108381078859747763"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2108381057368174592/pu/img/jaG_oyN6mfyu6upz.jpg" alt="Planning Refinance with Jev and ChatGPT · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Quanbuilds/status/2108381078859747763">Planning Refinance with Jev and ChatGPT</a></h3>
-<p>A user connected ChatGPT, Jev, and Credit Karma to review debt and plan a refinance cash-out. They helped organize the numbers, compare options, and build a clearer plan.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Quan Stewart</strong> · @Quanbuilds</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/dorkitude/status/2108394989030134242"><img src="https://pbs.twimg.com/media/HUKFUEfaEAAyA80?format=jpg&amp;name=medium" alt="Evaluating OpenAI&#39;s Decisions API with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dorkitude/status/2108394989030134242">Evaluating OpenAI&#39;s Decisions API with Jev</a></h3>
+<p>The author ran OpenAI&#39;s Decisions API through their Jev-based evaluations and published some results. TL;DR: Decisions is viable and useful, but definitely no Jev.</p>
+<p><strong>71</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 71</p>
+<p><strong>Kyle Wild</strong> · @dorkitude</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ataschz/status/2108387717692129302"><img src="https://pbs.twimg.com/media/HUJ3k3dXwAABMHE?format=jpg&amp;name=medium" alt="Redesigning agents with TypeSafe AI&#39;s Jev and OpenAI&#39;s Luna · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ataschz/status/2108387717692129302">Redesigning agents with TypeSafe AI&#39;s Jev and OpenAI&#39;s Luna</a></h3>
-<p>The @trytrama team shares how they redesigned all their agents around the new Decisions API, using TypeSafe AI (Jev) and OpenAI (Luna). They note Jev is cheap, while Luna is accurate and fast.</p>
-<p><strong>120</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 120</p>
-<p><strong>Ata Herrera 🇦🇷</strong> · @ataschz</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/e_opore/status/2108405462034948558"><img src="https://pbs.twimg.com/media/HUKPWa2WsAABeNc?format=jpg&amp;name=medium" alt="Jev AI vs Traditional ML · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/e_opore/status/2108405462034948558">Jev AI vs Traditional ML</a></h3>
+<p>A clear explanation of the differences between Jev AI and traditional machine learning, covering conventional ML&#39;s reliance on algorithms to learn patterns from data, including data collection, feature engineering, model training, evaluation, and deployment.</p>
+<p><strong>300</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 300</p>
+<p><strong>Dhanian 🗯️</strong> · @e_opore</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/Quanbuilds/status/2108381078859747763"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2108381057368174592/pu/img/jaG_oyN6mfyu6upz.jpg" alt="Planning Refinance with Jev and ChatGPT · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Quanbuilds/status/2108381078859747763">Planning Refinance with Jev and ChatGPT</a></h3>
-<p>A user connected ChatGPT, Jev, and Credit Karma to review debt and plan a refinance cash-out. They helped organize the numbers, compare options, and build a clearer plan.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Quan Stewart</strong> · @Quanbuilds</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/dorkitude/status/2108394989030134242"><img src="https://pbs.twimg.com/media/HUKFUEfaEAAyA80?format=jpg&amp;name=medium" alt="Evaluating OpenAI&#39;s Decisions API with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dorkitude/status/2108394989030134242">Evaluating OpenAI&#39;s Decisions API with Jev</a></h3>
+<p>The author ran OpenAI&#39;s Decisions API through their Jev-based evaluations and published some results. TL;DR: Decisions is viable and useful, but definitely no Jev.</p>
+<p><strong>71</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 71</p>
+<p><strong>Kyle Wild</strong> · @dorkitude</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/tnsamin/status/2108394390007750707"><img src="https://pbs.twimg.com/amplify_video_thumb/2108394037069705216/img/UBDUNwHrMhtsmVNK.jpg" alt="Building Instant Interactive Math Lessons with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tnsamin/status/2108394390007750707">Building Instant Interactive Math Lessons with Jev</a></h3>
+<p>The author is building a study tool that uses LLMs to generate interactive lessons and written quizzes, with instant feedback powered by Jev to speed up math learning.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Thanic</strong> · @tnsamin</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/0x0SojalSec/status/2108379264282407301"><img src="https://pbs.twimg.com/amplify_video_thumb/2107901268169478145/img/jlhCZQkznNvHoInz.jpg" alt="OpenAI Decisions API: Jev-like Real-Time Egg Sorting · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/0x0SojalSec/status/2108379264282407301">OpenAI Decisions API: Jev-like Real-Time Egg Sorting</a></h3>
 <p>OpenAI turns egg sorting into a real-time decision problem. Its Jev-like Decisions API, based on GPT-6 Luna multimodal model, returns P(clean, dirty, cracked) in 270 ms, with detection via local RF-DETR.</p>
 <p><strong>352</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 352</p>
 <p><strong>Md Ismail Šojal 🕷️</strong> · @0x0SojalSec</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/dashaun/status/2108370786897564010"><img src="https://pbs.twimg.com/media/HUJwDq1XIAA-QY7?format=jpg&amp;name=medium" alt="St Louis JUG 30th Anniversary: Agentic AI Workflows Talk · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dashaun/status/2108370786897564010">St Louis JUG 30th Anniversary: Agentic AI Workflows Talk</a></h3>
-<p>DaShaun shares that at the St Louis JUG celebrating 30 years, a talk titled &#39;Agentic AI Workflows with #Embabel 1.5 and #Jev&#39; was given, and Dan Idoux showed off his new working Embabel Agent made during the presentation.</p>
-<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 69</p>
-<p><strong>DaShaun</strong> · @dashaun</p>
 </td>
 </tr>
 </table>

@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T03:53:29.000Z | [Jev AI vs Traditional ML](https://x.com/e_opore/status/2108405462034948558) | 工作原理 | Dhanian 🗯️ | 300 |
+| 2026-10-09T03:40:20.000Z | [Jev Benchmark on MCP Tool Selection](https://x.com/NeelakandanNC/status/2108402152779718994) | 智能体 | Neelakandan NC | 9 |
+| 2026-10-09T03:20:03.000Z | [Planning a Team Night Out with Jev Classifier](https://x.com/schwentker/status/2108397050215973052) | 自动化工作流 | Robert Schwentker | 13 |
+| 2026-10-09T03:11:52.000Z | [Evaluating OpenAI's Decisions API with Jev](https://x.com/dorkitude/status/2108394989030134242) | 开发资源 | Kyle Wild | 71 |
+| 2026-10-09T03:09:29.000Z | [Building Instant Interactive Math Lessons with Jev](https://x.com/tnsamin/status/2108394390007750707) | 教育 | Thanic | 11 |
+| 2026-10-09T03:01:00.000Z | [JEV model sparks discussion: decides only, no text generation](https://x.com/0xverdao/status/2108392255408992502) | 社区实践 | Verdao | 8 |
 | 2026-10-09T02:42:58.000Z | [Redesigning agents with TypeSafe AI's Jev and OpenAI's Luna](https://x.com/ataschz/status/2108387717692129302) | 社区实践 | Ata Herrera 🇦🇷 | 120 |
 | 2026-10-09T02:30:25.000Z | [Tricking Jev to screen our interviews](https://x.com/killainow/status/2108384559582920905) | 社区实践 | KillAINOW | 5 |
 | 2026-10-09T02:17:05.000Z | [GudyBrain: Jev-powered Markdown memory assistant](https://x.com/gudyfut/status/2108381204886012234) | 智能体 | gudyfut | 6 |
@@ -96,9 +102,3 @@
 | 2026-10-08T14:26:20.000Z | [How Jev Engineering Reshapes AI Data Pipelines](https://x.com/Klonzu/status/2108202336375967838) | 社区实践 | Klonzu | 34 |
 | 2026-10-08T14:23:22.000Z | [Functionality unlock: proactive agents with Jev](https://x.com/birdomens/status/2108201591069155471) | 智能体 | Kalle | 4 |
 | 2026-10-08T14:20:26.000Z | [New website for JEV](https://x.com/kraayenJon/status/2108200852561543411) | 产品发布 | Jon Kraayenbrink | 6 |
-| 2026-10-08T14:13:59.000Z | [Jev Live Event with John Lindquist Starting Soon](https://x.com/megadevhq/status/2108199231483765046) | 社区实践 | MEGA | 47 |
-| 2026-10-08T14:12:59.000Z | [Fine-tune Your Own Jev-like Decision Model Locally](https://x.com/Sumanth_077/status/2108198978773037422) | 开发资源 | Sumanth | 893 |
-| 2026-10-08T14:04:00.000Z | [Developer benchmarks Jev model in code linter](https://x.com/codegirl007/status/2108196716759687278) | 开发者工具 | codegirl007 | 68 |
-| 2026-10-08T14:01:16.000Z | [Developer Builds Situation-Based Emoji Search with Jev](https://x.com/kikelopezdesign/status/2108196030185668728) | 社区实践 | Kike Lopez | 4 |
-| 2026-10-08T14:00:27.000Z | [Jev dominates frontier decision APIs in a Tetris showdown](https://x.com/davekiss/status/2108195822902952432) | 社区实践 | Dave Kiss | 80 |
-| 2026-10-08T14:00:08.000Z | [JEV: AI Model Exclusively for Decision-Making Without Text Generation](https://x.com/blast1337305/status/2108195746138972449) | 智能体 | blast | 11 |

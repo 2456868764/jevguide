@@ -23,6 +23,7 @@
 - [Alex](../authors/alex.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
+- [Dhanian 🗯️](../authors/dhanian.md) — 8
 - [Gipp 🦅](../authors/gipp.md) — 8
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
@@ -33,7 +34,6 @@
 - [Avid](../authors/avid.md) — 7
 - [Ben Newton ベン](../authors/ben-newton.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
-- [Dhanian 🗯️](../authors/dhanian.md) — 7
 - [ericosiu](../authors/ericosiu.md) — 7
 - [Fluixo](../authors/fluixo.md) — 7
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
@@ -298,6 +298,7 @@
 - [Tony Dinh](../authors/tony-dinh.md) — 3
 - [TwoHalves](../authors/twohalves.md) — 3
 - [TypeSafe AI](../authors/typesafe-ai.md) — 3
+- [Verdao](../authors/verdao.md) — 3
 - [VerySmallWoods](../authors/verysmallwoods.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 3
@@ -517,6 +518,7 @@
 - [Kshitij](../authors/kshitij.md) — 2
 - [Kushal Patil](../authors/kushal-patil.md) — 2
 - [kwindla](../authors/kwindla.md) — 2
+- [Kyle Wild](../authors/kyle-wild.md) — 2
 - [Lahfir](../authors/lahfir.md) — 2
 - [Latent.Space](../authors/latent-space.md) — 2
 - [Laura Lin](../authors/laura-lin.md) — 2
@@ -701,7 +703,6 @@
 - [Venice](../authors/venice.md) — 2
 - [Venkata Subrahmanyam](../authors/venkata-subrahmanyam.md) — 2
 - [Vercel](../authors/vercel.md) — 2
-- [Verdao](../authors/verdao.md) — 2
 - [Vikas gupta](../authors/vikas-gupta.md) — 2
 - [Vinny](../authors/vinny.md) — 2
 - [Vishal Kushwaha](../authors/vishal-kushwaha.md) — 2
@@ -2173,7 +2174,6 @@
 - [Kyle Jeong](../authors/kyle-jeong.md) — 1
 - [Kyle Lee | Kilo Loco](../authors/kyle-lee-kilo-loco.md) — 1
 - [Kyle McLaren](../authors/kyle-mclaren.md) — 1
-- [Kyle Wild](../authors/kyle-wild.md) — 1
 - [Kylian SEO AI](../authors/kylian-seo-ai.md) — 1
 - [Kyma API](../authors/kyma-api.md) — 1
 - [Kyrox](../authors/kyrox.md) — 1
@@ -2493,6 +2493,7 @@
 - [Naveen Chandupatla](../authors/naveen-chandupatla.md) — 1
 - [Naveen Guru](../authors/naveen-guru.md) — 1
 - [Navin Kabra](../authors/navin-kabra.md) — 1
+- [Neelakandan NC](../authors/neelakandan-nc.md) — 1
 - [Neeraj](../authors/neeraj.md) — 1
 - [Neil Agarwal](../authors/neil-agarwal.md) — 1
 - [Neil McGillivray](../authors/neil-mcgillivray.md) — 1
@@ -2825,6 +2826,7 @@
 - [Robert DeVore](../authors/robert-devore.md) — 1
 - [Robert Nowell](../authors/robert-nowell.md) — 1
 - [Robert Penner](../authors/robert-penner.md) — 1
+- [Robert Schwentker](../authors/robert-schwentker.md) — 1
 - [Robert Scoble](../authors/robert-scoble.md) — 1
 - [Robert Soriano](../authors/robert-soriano.md) — 1
 - [Robert Youssef](../authors/robert-youssef.md) — 1
@@ -3186,6 +3188,7 @@
 - [TestMu AI](../authors/testmu-ai.md) — 1
 - [tezarc](../authors/tezarc.md) — 1
 - [TGT Analytics](../authors/tgt-analytics.md) — 1
+- [Thanic](../authors/thanic.md) — 1
 - [The AI Daily Brief - Formerly The AI Breakdown](../authors/the-ai-daily-brief-formerly-the-ai-breakdown.md) — 1
 - [The AI Journal](../authors/the-ai-journal.md) — 1
 - [The Aigentic](../authors/the-aigentic.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 983 | 403 | 584 | 3.0M |
+| 985 | 403 | 586 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/igrgavilan/status/2108454110919868840"><img src="https://pbs.twimg.com/media/HUK7k-hW4AAgKBO?format=jpg&amp;name=small" alt="Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39; · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/igrgavilan/status/2108454110919868840">Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39;</a></h3>
+<p>Ignacio G.R. Gavilán and @adefuros discuss the launch of Jev by TypeSafe AI and its implications on the &#39;Código abierto&#39; podcast.</p>
+<p><strong>中文摘要：</strong>Ignacio G.R. Gavilán与@adefuros在《Código abierto》播客中讨论TypeSafe AI推出Jev的意义及其影响。</p>
+<p><strong>Ignacio G.R. Gavilán</strong> · @igrgavilan · 2026-10-09T07:06:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/igrgavilan/status/2108454110919868840">在 X 查看原帖</a> · <a href="https://t.co/J2WFgoSZOk">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hellonehha/status/2108452682587312516"><img src="https://pbs.twimg.com/media/HUK6EH_XEAAmre6?format=jpg&amp;name=medium" alt="Neha experiments with Jev vs OpenAI decision API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hellonehha/status/2108452682587312516">Neha experiments with Jev vs OpenAI decision API</a></h3>
+<p>Neha Sharma shares her hands-on comparison of TypeSafe AI&#39;s Jev model against OpenAI&#39;s decision API, with a live release planned today or tomorrow and a video coming soon on her YouTube channel.</p>
+<p><strong>中文摘要：</strong>Neha Sharma分享正在使用TypeSafe AI的Jev模型与OpenAI决策API进行对比实验，并预告将在今天或明天上线，同时会在YouTube频道发布相关视频。</p>
+<p><strong>Neha Sharma</strong> · @hellonehha · 2026-10-09T07:01:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
+<p><a href="https://x.com/hellonehha/status/2108452682587312516">在 X 查看原帖</a> · <a href="https://t.co/upyeDUfP5S">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dumbfook/status/2108434522400592097"><img src="https://pbs.twimg.com/amplify_video_thumb/2108434169655382018/img/EHBtxq6uawgbetfC.jpg" alt="Take Control of Your Timeline with Jev: Open Source Chrome Extension Released · 原帖视频截图" width="100%"></a>

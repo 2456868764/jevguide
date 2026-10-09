@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T07:51:05.000Z | [Multiplayer Voice Controlled Minecraft Built with Jev](https://x.com/jessemusa2/status/2108465257848955005) | 游戏 | Jesse Musa | 2 |
+| 2026-10-09T07:35:26.000Z | [Score your post with Jev before publishing](https://x.com/aakkshhayy/status/2108461317342597509) | 内容创作 | Akshay | 15 |
+| 2026-10-09T07:06:47.000Z | [Podcast Conversation: Jev Launch and 'The If After the LLM'](https://x.com/igrgavilan/status/2108454110919868840) | 社区实践 | Ignacio G.R. Gavilán | 21 |
+| 2026-10-09T07:01:07.000Z | [Neha experiments with Jev vs OpenAI decision API](https://x.com/hellonehha/status/2108452682587312516) | 社区实践 | Neha Sharma | 180 |
+| 2026-10-09T07:00:00.000Z | [Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev](https://x.com/biroi8/status/2108452401434997049) | 自动化工作流 | Suzuki | 98 |
 | 2026-10-09T06:39:12.000Z | [Jev API latency compared to open-source model](https://x.com/MartinSzerment/status/2108447166599417916) | 工作原理 | Martin Szerment \| Practical AI | 9 |
 | 2026-10-09T06:27:43.000Z | [Jev Model Routing Test: Higher Cost and Doubled Latency](https://x.com/xueyu1125/status/2108444276850151668) | 开发者工具 | 雪瑜 | 59 |
 | 2026-10-09T06:24:02.000Z | [Online Seminar: Intro to Generative AI for Healthcare Professionals](https://x.com/igs_pr_seminar/status/2108443350156415150) | 医疗 | 医学書院 セミナー情報 | 5.6K |
@@ -97,8 +102,3 @@
 | 2026-10-08T19:20:44.000Z | [EVE now runs on your laptop](https://x.com/RunAnywhereAI/status/2108276423970685259) | 产品发布 | RunAnywhere | 2.8K |
 | 2026-10-08T19:19:04.000Z | [Jev Skill Typeahead: Predict Skill Invocations for Claude Code](https://x.com/dani_avila7/status/2108276005886705818) | 开发者工具 | Daniel San | 5.1K |
 | 2026-10-08T19:15:12.000Z | [Ipau: A Jev-style Model for Robotics](https://x.com/belusochim/status/2108275032942395551) | 机器人 | Belusochim Ugochukwu | 866 |
-| 2026-10-08T19:10:07.000Z | [Building a Zero-Cost Quant Research Desk with Jev](https://x.com/Av1dlive/status/2108273753520230529) | 金融 | Avid | 599 |
-| 2026-10-08T19:04:30.000Z | [Jev-style invoice decisions in milliseconds](https://x.com/Seymxn/status/2108272338768896057) | 金融 | Simon | 36 |
-| 2026-10-08T19:03:23.000Z | [Guide to Using Jev with LangChain](https://x.com/hwchase17/status/2108272060141301908) | 开发资源 | Harrison Chase | 3.5K |
-| 2026-10-08T19:03:03.000Z | [Multi-model Agent Setup: Opus 5.5 + Sonnet 5.5 + Jev](https://x.com/Loofyb0i/status/2108271975374225830) | 智能体 | Loofy | 494 |
-| 2026-10-08T18:58:01.000Z | [Building a citation-gap detection writing tool with Jev](https://x.com/_sjl00/status/2108270708413616228) | 社区实践 | SJL | 11 |

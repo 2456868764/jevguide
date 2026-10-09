@@ -39,6 +39,7 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
+- [Suzuki](../authors/suzuki.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -58,7 +59,6 @@
 - [rewind](../authors/rewind.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [Skrilla](../authors/skrilla.md) — 6
-- [Suzuki](../authors/suzuki.md) — 6
 - [venus](../authors/venus.md) — 6
 - [WquGuru](../authors/wquguru.md) — 6
 - [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 6
@@ -262,6 +262,7 @@
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
 - [nader dabit](../authors/nader-dabit.md) — 3
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 3
+- [Neha Sharma](../authors/neha-sharma.md) — 3
 - [NeilXbt](../authors/neilxbt.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
 - [Niko(la)](../authors/niko-la.md) — 3
@@ -343,6 +344,7 @@
 - [Ajay Shah](../authors/ajay-shah.md) — 2
 - [Akın](../authors/ak-n.md) — 2
 - [Akshat](../authors/akshat.md) — 2
+- [Akshay](../authors/akshay.md) — 2
 - [Alan Daitch](../authors/alan-daitch.md) — 2
 - [Alberto Arena](../authors/alberto-arena.md) — 2
 - [Alejandro Carbajo](../authors/alejandro-carbajo.md) — 2
@@ -586,7 +588,6 @@
 - [Nao Hanamura](../authors/nao-hanamura.md) — 2
 - [Natzir](../authors/natzir.md) — 2
 - [Neelesh](../authors/neelesh.md) — 2
-- [Neha Sharma](../authors/neha-sharma.md) — 2
 - [Nick Lo](../authors/nick-lo.md) — 2
 - [Nikhil Shah MBBS DNB(IM, Neph)🇨🇦](../authors/nikhil-shah-mbbs-dnb-im-neph.md) — 2
 - [Niklas](../authors/niklas.md) — 2
@@ -943,7 +944,6 @@
 - [Akin Yilmaz](../authors/akin-yilmaz.md) — 1
 - [akira @ DataMarket 💹](../authors/akira-datamarket.md) — 1
 - [Akramovic 🦅](../authors/akramovic.md) — 1
-- [Akshay](../authors/akshay.md) — 1
 - [Akshay (lawlens.in)](../authors/akshay-lawlens-in.md) — 1
 - [Akshay Subramaniam](../authors/akshay-subramaniam.md) — 1
 - [Akzhan Kalimatov](../authors/akzhan-kalimatov.md) — 1
@@ -1857,6 +1857,7 @@
 - [Idov Mamane](../authors/idov-mamane.md) — 1
 - [ifourth](../authors/ifourth.md) — 1
 - [Igal Pines](../authors/igal-pines.md) — 1
+- [Ignacio G.R. Gavilán](../authors/ignacio-g-r-gavilan.md) — 1
 - [Igor Kasyanchuk](../authors/igor-kasyanchuk.md) — 1
 - [Igor Tarasenko](../authors/igor-tarasenko.md) — 1
 - [iii](../authors/iii.md) — 1
@@ -1959,6 +1960,7 @@
 - [Jerry the Martian](../authors/jerry-the-martian.md) — 1
 - [Jerry Xu](../authors/jerry-xu.md) — 1
 - [Jesse Lau 遁一子](../authors/jesse-lau-遁一子.md) — 1
+- [Jesse Musa](../authors/jesse-musa.md) — 1
 - [Jesus is Lord | Chev](../authors/jesus-is-lord-chev.md) — 1
 - [JetSquirrel](../authors/jetsquirrel.md) — 1
 - [JEV Route](../authors/jev-route.md) — 1

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5496</strong><br>curated posts</td>
-<td align="center"><strong>2785</strong><br>original videos</td>
+<td align="center"><strong>5501</strong><br>curated posts</td>
+<td align="center"><strong>2787</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>983</strong> showcases · <strong>403</strong> videos</p>
+<p><strong>985</strong> showcases · <strong>403</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>360</strong> showcases · <strong>272</strong> videos</p>
+<p><strong>361</strong> showcases · <strong>273</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>232</strong> showcases · <strong>148</strong> videos</p>
+<p><strong>233</strong> showcases · <strong>149</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>113</strong> showcases · <strong>86</strong> videos</p>
+<p><strong>114</strong> showcases · <strong>86</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/MartinSzerment/status/2108447166599417916"><img src="https://pbs.twimg.com/amplify_video_thumb/2108234082530230272/img/y5CsvBHmWdELDBrv.jpg" alt="Jev API latency compared to open-source model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MartinSzerment/status/2108447166599417916">Jev API latency compared to open-source model</a></h3>
-<p>The post compares hosted Jev API latency with local Laya model speed, noting network and queueing costs as the reason for the difference.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/jessemusa2/status/2108465257848955005"><img src="https://pbs.twimg.com/amplify_video_thumb/2108464284954992640/img/LzZWl-EbF0o3sZow.jpg" alt="Multiplayer Voice Controlled Minecraft Built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jessemusa2/status/2108465257848955005">Multiplayer Voice Controlled Minecraft Built with Jev</a></h3>
+<p>The author demonstrates a Minecraft mod built with Jev and Claude models, enabling speech-to-text and real-time AI execution of player commands on a server.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Jesse Musa</strong> · @jessemusa2</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/xueyu1125/status/2108444276850151668"><img src="https://pbs.twimg.com/media/HUKy3oPbAAAWK1B?format=jpg&amp;name=medium" alt="Jev Model Routing Test: Higher Cost and Doubled Latency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xueyu1125/status/2108444276850151668">Jev Model Routing Test: Higher Cost and Doubled Latency</a></h3>
-<p>Arena&#39;s test shows that using the decision model Jev for model routing increases costs and doubles request latency. Jev most frequently selects DeepSeek-V4.1-Flash, and clearly prefers OpenAI over Anthropic, with OpenAI models accounting for more than half. Some suggest local deployment may be a better choice.</p>
-<p><strong>59</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
-<p><strong>雪瑜</strong> · @xueyu1125</p>
+<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
+<a href="https://x.com/aakkshhayy/status/2108461317342597509"><img src="https://pbs.twimg.com/media/HULCV9tbsAA-jp3?format=png&amp;name=900x900" alt="Score your post with Jev before publishing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/aakkshhayy/status/2108461317342597509">Score your post with Jev before publishing</a></h3>
+<p>Akshay is building a tool that uses TypeSafe&#39;s AI model Jev to evaluate a post&#39;s hook, clarity, and likely replies, helping creators optimize content before publishing.</p>
+<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><strong>Akshay</strong> · @aakkshhayy</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>医疗</code> <code>原帖图片</code></p>
-<a href="https://x.com/igs_pr_seminar/status/2108443350156415150"><img src="https://pbs.twimg.com/media/HUKtFy2a4AAvM8s?format=jpg&amp;name=large" alt="Online Seminar: Intro to Generative AI for Healthcare Professionals · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/igs_pr_seminar/status/2108443350156415150">Online Seminar: Intro to Generative AI for Healthcare Professionals</a></h3>
-<p>An online seminar by Igaku-Shoin introducing generative AI basics for healthcare workers, covering OpenAI&#39;s dots and TypeSafe AI&#39;s Jev.</p>
-<p><strong>5.6K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5.6K</p>
-<p><strong>医学書院 セミナー情報</strong> · @igs_pr_seminar</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/igrgavilan/status/2108454110919868840"><img src="https://pbs.twimg.com/media/HUK7k-hW4AAgKBO?format=jpg&amp;name=small" alt="Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39; · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/igrgavilan/status/2108454110919868840">Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39;</a></h3>
+<p>Ignacio G.R. Gavilán and @adefuros discuss the launch of Jev by TypeSafe AI and its implications on the &#39;Código abierto&#39; podcast.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>Ignacio G.R. Gavilán</strong> · @igrgavilan</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Zils brings custom Jev models to Bittensor · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">Zils brings custom Jev models to Bittensor</a></h3>
-<p>According to Kyoshi.tao, Zils is bringing custom Jev models to the Bittensor network, enabling training decision models on your own examples, evaluating performance, and deploying them via API.</p>
-<p><strong>205</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 205</p>
-<p><strong>Kyoshi.tao</strong> · @KyoshiTakeshiro</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/hellonehha/status/2108452682587312516"><img src="https://pbs.twimg.com/media/HUK6EH_XEAAmre6?format=jpg&amp;name=medium" alt="Neha experiments with Jev vs OpenAI decision API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hellonehha/status/2108452682587312516">Neha experiments with Jev vs OpenAI decision API</a></h3>
+<p>Neha Sharma shares her hands-on comparison of TypeSafe AI&#39;s Jev model against OpenAI&#39;s decision API, with a live release planned today or tomorrow and a video coming soon on her YouTube channel.</p>
+<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
+<p><strong>Neha Sharma</strong> · @hellonehha</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/MartinSzerment/status/2108447166599417916"><img src="https://pbs.twimg.com/amplify_video_thumb/2108234082530230272/img/y5CsvBHmWdELDBrv.jpg" alt="Jev API latency compared to open-source model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MartinSzerment/status/2108447166599417916">Jev API latency compared to open-source model</a></h3>
-<p>The post compares hosted Jev API latency with local Laya model speed, noting network and queueing costs as the reason for the difference.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Martin Szerment | Practical AI</strong> · @MartinSzerment</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/jessemusa2/status/2108465257848955005"><img src="https://pbs.twimg.com/amplify_video_thumb/2108464284954992640/img/LzZWl-EbF0o3sZow.jpg" alt="Multiplayer Voice Controlled Minecraft Built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jessemusa2/status/2108465257848955005">Multiplayer Voice Controlled Minecraft Built with Jev</a></h3>
+<p>The author demonstrates a Minecraft mod built with Jev and Claude models, enabling speech-to-text and real-time AI execution of player commands on a server.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Jesse Musa</strong> · @jessemusa2</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130"><img src="https://pbs.twimg.com/amplify_video_thumb/2108296897106444288/img/pN9J4creiq0vKo-o.jpg" alt="Zils brings custom Jev models to Bittensor · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/KyoshiTakeshiro/status/2108442647333421130">Zils brings custom Jev models to Bittensor</a></h3>
-<p>According to Kyoshi.tao, Zils is bringing custom Jev models to the Bittensor network, enabling training decision models on your own examples, evaluating performance, and deploying them via API.</p>
-<p><strong>205</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 205</p>
-<p><strong>Kyoshi.tao</strong> · @KyoshiTakeshiro</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/hellonehha/status/2108452682587312516"><img src="https://pbs.twimg.com/media/HUK6EH_XEAAmre6?format=jpg&amp;name=medium" alt="Neha experiments with Jev vs OpenAI decision API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hellonehha/status/2108452682587312516">Neha experiments with Jev vs OpenAI decision API</a></h3>
+<p>Neha Sharma shares her hands-on comparison of TypeSafe AI&#39;s Jev model against OpenAI&#39;s decision API, with a live release planned today or tomorrow and a video coming soon on her YouTube channel.</p>
+<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
+<p><strong>Neha Sharma</strong> · @hellonehha</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/xcPenny6/status/2108441895869546683"><img src="https://pbs.twimg.com/media/HUKwq25bQAAZjrx?format=jpg&amp;name=medium" alt="Jev-powered search tool sift-light releases new version · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xcPenny6/status/2108441895869546683">Jev-powered search tool sift-light releases new version</a></h3>
-<p>sift-light v1.0.3-6 combines Jev, memory search, and quick exact lookup, letting you search everything without dumping your whole codebase into context—an evidence-first approach with better signal-to-noise ratio.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>xcPenny</strong> · @xcPenny6</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/biroi8/status/2108452401434997049"><img src="https://pbs.twimg.com/amplify_video_thumb/2107606020855861249/img/WfOZaHEw9p8sQ2gA.jpg" alt="Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/biroi8/status/2108452401434997049">Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev</a></h3>
+<p>A practical guide to splitting tasks with Claude Code while using Jev to oversee rationale and progress, turning the video&#39;s flashy approach into a verifiable single flow.</p>
+<p><strong>98</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 98</p>
+<p><strong>Suzuki</strong> · @biroi8</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/komzweb/status/2108413409389920747"><img src="https://pbs.twimg.com/amplify_video_thumb/2108413097019105280/img/ukpyEvlY6NV0gPOM.jpg" alt="RPG Battle Test: Jev vs Decisions API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/komzweb/status/2108413409389920747">RPG Battle Test: Jev vs Decisions API</a></h3>
-<p>A user pitted two decision-making AIs, Jev and Decisions API, against each other in an RPG. Out of 100 matches, Decisions API won 82, Jev won 8, though the author notes this doesn&#39;t reflect a performance gap. The video shows one of Jev&#39;s rare wins, highlighting their contrasting styles: Jev plays defensively while Decisions API ignores charged attacks and rushes in.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>komz</strong> · @komzweb</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/KelisShekhaliya/status/2108440018750669188"><img src="https://pbs.twimg.com/media/HUKrLxvbgAAPr_g?format=jpg&amp;name=medium" alt="TypeSafe AI Launches n8n Node for Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KelisShekhaliya/status/2108440018750669188">TypeSafe AI Launches n8n Node for Jev</a></h3>
+<p>Kelis Shekhaliya mentions that TypeSafe AI shipped an official n8n node for Jev, and he also built a Jev node with @nativeship_.</p>
+<p><strong>21</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><strong>Kelis Shekhaliya</strong> · @KelisShekhaliya</p>
 </td>
 </tr>
 </table>

@@ -1,9 +1,10 @@
 # 恒星sun
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T11:30:08.000Z | [vllm-jev: Integrating Jev Decision Models into vLLM](https://x.com/vintcessun/status/2108520382252945790) | 接入动态 | 恒星sun | 167 |
 | 2026-10-06T11:11:03.000Z | [TypeSafe Jev Model Resource Collection](https://x.com/vintcessun/status/2107428417499234333) | 开发资源 | 恒星sun | 61 |
 | 2026-10-06T07:38:03.000Z | [Jev Decision Model Resource Directory and Failure Cases](https://x.com/vintcessun/status/2107374812423401711) | 开发资源 | 恒星sun | 23 |
 | 2026-10-02T06:41:02.000Z | [jev-skill: Integrating Jev into Agent Workflows](https://x.com/vintcessun/status/2105910914436542501) | 智能体 | 恒星sun | 12 |

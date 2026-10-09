@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5520</strong><br>curated posts</td>
-<td align="center"><strong>2798</strong><br>original videos</td>
+<td align="center"><strong>5539</strong><br>curated posts</td>
+<td align="center"><strong>2803</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>986</strong> showcases · <strong>404</strong> videos</p>
+<p><strong>995</strong> showcases · <strong>405</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>577</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>578</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>426</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>427</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>390</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>391</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>364</strong> showcases · <strong>275</strong> videos</p>
+<p><strong>367</strong> showcases · <strong>277</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>350</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>352</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>272</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>273</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>25</strong> showcases · <strong>13</strong> videos</p>
+<p><strong>26</strong> showcases · <strong>13</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/cola_runner/status/2108516970115297542"><img src="https://pbs.twimg.com/amplify_video_thumb/2108516274364149760/img/WGXLurIt5BglnQiG.jpg" alt="Jev 1.13 Plays The Legend of Zelda · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cola_runner/status/2108516970115297542">Jev 1.13 Plays The Legend of Zelda</a></h3>
-<p>Language model Jev 1.13 returns to The Legend of Zelda, clearing the first dungeon and continuing the search for dungeon 2. Episode 4 features a fresh look, but Hyrule remains as dangerous as ever.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>cola_runner · AI experiments</strong> · @cola_runner</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/ytiomin/status/2108539717247791324"><img src="https://pbs.twimg.com/media/HUMJsCFaMAA9r-H?format=jpg&amp;name=medium" alt="Turn 672 Life Tips into a Playable 3D Game with Jev for Retrieval · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ytiomin/status/2108539717247791324">Turn 672 Life Tips into a Playable 3D Game with Jev for Retrieval</a></h3>
+<p>Based on 672 tips from the &#39;High-Cost-Performance Life Guide&#39;, the author built a 3D game: risks drop from a well, players have only three advice cards, a wrong choice stacks a layer, and 10 layers end the game. Each move tracks money, time, and perseverance, with Jev used for retrieval verification. The game is open source and playable.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>⛩ytiomin🏰</strong> · @ytiomin</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/appleton_a51105/status/2108513436955205969"><img src="https://pbs.twimg.com/amplify_video_thumb/2108513349973729280/img/IK_PIcnvgnibTh49.jpg" alt="Implemented a Jev-style Decision Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appleton_a51105/status/2108513436955205969">Implemented a Jev-style Decision Model</a></h3>
-<p>The user implemented a Jev-style decision model after studying a video from @neural_avb, showcasing hands-on community exploration of the Jev model.</p>
-<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
-<p><strong>The AI Guy 🇮🇳</strong> · @appleton_a51105</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/Jayyun98_dev/status/2108538099076854274"><img src="https://pbs.twimg.com/media/HUMINQVaMAE5h_W?format=jpg&amp;name=medium" alt="Jev-driven memory model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Jayyun98_dev/status/2108538099076854274">Jev-driven memory model</a></h3>
+<p>Jay Yun introduces a Jev-driven memory model (jev-lucid-memory) using a wake-sleep architecture. LLMs draft lessons, Jev decides what to save and when to use it. Harvey reports all-pass improved from 2.9% to 15.7% with roughly halved costs.</p>
+<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Jay Yun</strong> · @Jayyun98_dev</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/gigazine/status/2108512876876996706"><img src="https://pbs.twimg.com/media/HULxSdLXcAAt8DB?format=jpg&amp;name=small" alt="“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gigazine/status/2108512876876996706">“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man</a></h3>
-<p>A new benchmark “jevman” has emerged for fast-decision probability models, challenging Jev, GPT-6 Luna Decisions, and others to play Pac-Man and measuring their decision-making in real time.</p>
-<p><strong>1.9K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.9K</p>
-<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ytiomin/status/2108536824314667351"><img src="https://pbs.twimg.com/media/HUMGcgKbAAAD5rE?format=jpg&amp;name=large" alt="Life Guide Game Integrates Jev Smart Search · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ytiomin/status/2108536824314667351">Life Guide Game Integrates Jev Smart Search</a></h3>
+<p>The author turned 672 high-cost-performance life tips into a gamified app, integrated Jev for fast smart search, and open-sourced the code.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>⛩ytiomin🏰</strong> · @ytiomin</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xMoysei/status/2108512736086794472"><img src="https://pbs.twimg.com/amplify_video_thumb/2108512261979447296/img/c3jl6Bff19Fs_TRZ.jpg" alt="JEV Agent Trading Performance Update · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xMoysei/status/2108512736086794472">JEV Agent Trading Performance Update</a></h3>
-<p>The author shares results of their JEV Agent: 9 sessions, 74 trades, growing $1,000 to $3,997.01 with max drawdown of 11.6%, and mentions six focus areas: scan, vet, seed, risk, tape, fills.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
-<p><strong>Moysei</strong> · @0xMoysei</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/roxitsu/status/2108536647922946063"><img src="https://pbs.twimg.com/amplify_video_thumb/2108536530134257664/img/bCNA2nDhezi2rFZv.jpg" alt="Jev costs ~460x less than Sonnet 4.5 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/roxitsu/status/2108536647922946063">Jev costs ~460x less than Sonnet 4.5</a></h3>
+<p>Roxitsu highlights that Jev&#39;s safety classifier call costs $0.0000168 vs $0.0078 on Sonnet 4.5, making it ~460x cheaper for the highest-frequency call in coding agents, with no new training, distillation, or fine-tuning.</p>
+<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><strong>Roxitsu</strong> · @roxitsu</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/cola_runner/status/2108516970115297542"><img src="https://pbs.twimg.com/amplify_video_thumb/2108516274364149760/img/WGXLurIt5BglnQiG.jpg" alt="Jev 1.13 Plays The Legend of Zelda · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cola_runner/status/2108516970115297542">Jev 1.13 Plays The Legend of Zelda</a></h3>
-<p>Language model Jev 1.13 returns to The Legend of Zelda, clearing the first dungeon and continuing the search for dungeon 2. Episode 4 features a fresh look, but Hyrule remains as dangerous as ever.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>cola_runner · AI experiments</strong> · @cola_runner</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/ytiomin/status/2108539717247791324"><img src="https://pbs.twimg.com/media/HUMJsCFaMAA9r-H?format=jpg&amp;name=medium" alt="Turn 672 Life Tips into a Playable 3D Game with Jev for Retrieval · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ytiomin/status/2108539717247791324">Turn 672 Life Tips into a Playable 3D Game with Jev for Retrieval</a></h3>
+<p>Based on 672 tips from the &#39;High-Cost-Performance Life Guide&#39;, the author built a 3D game: risks drop from a well, players have only three advice cards, a wrong choice stacks a layer, and 10 layers end the game. Each move tracks money, time, and perseverance, with Jev used for retrieval verification. The game is open source and playable.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>⛩ytiomin🏰</strong> · @ytiomin</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xMoysei/status/2108512736086794472"><img src="https://pbs.twimg.com/amplify_video_thumb/2108512261979447296/img/c3jl6Bff19Fs_TRZ.jpg" alt="JEV Agent Trading Performance Update · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xMoysei/status/2108512736086794472">JEV Agent Trading Performance Update</a></h3>
-<p>The author shares results of their JEV Agent: 9 sessions, 74 trades, growing $1,000 to $3,997.01 with max drawdown of 11.6%, and mentions six focus areas: scan, vet, seed, risk, tape, fills.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
-<p><strong>Moysei</strong> · @0xMoysei</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/roxitsu/status/2108536647922946063"><img src="https://pbs.twimg.com/amplify_video_thumb/2108536530134257664/img/bCNA2nDhezi2rFZv.jpg" alt="Jev costs ~460x less than Sonnet 4.5 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/roxitsu/status/2108536647922946063">Jev costs ~460x less than Sonnet 4.5</a></h3>
+<p>Roxitsu highlights that Jev&#39;s safety classifier call costs $0.0000168 vs $0.0078 on Sonnet 4.5, making it ~460x cheaper for the highest-frequency call in coding agents, with no new training, distillation, or fine-tuning.</p>
+<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><strong>Roxitsu</strong> · @roxitsu</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/GauriTripa94282/status/2108512091024064958"><img src="https://pbs.twimg.com/media/HULwkPjaYAAN7sb?format=jpg&amp;name=medium" alt="JEV vs LLM: They Solve Different Problems · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GauriTripa94282/status/2108512091024064958">JEV vs LLM: They Solve Different Problems</a></h3>
-<p>JEV evaluates predefined decisions with typed answers and confidence, while LLMs generate text, code, and explanations. Knowing when to use each is key.</p>
-<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 106</p>
-<p><strong>Gauri Tripathi</strong> · @GauriTripa94282</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/septendec/status/2108536504817742192"><img src="https://pbs.twimg.com/media/HUMFGHCbcAANQVn?format=jpg&amp;name=large" alt="Jev excels on BANKING77 benchmark · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/septendec/status/2108536504817742192">Jev excels on BANKING77 benchmark</a></h3>
+<p>A user conducted additional validation of Jev using the publicly available BANKING77 benchmark recommended by Claude, finding Jev&#39;s performance outstanding, while emphasizing that both Jev and Jev-like models should be used appropriately based on the use case.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>septendec</strong> · @septendec</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/goldiewhyte/status/2108496783328338388"><img src="https://pbs.twimg.com/amplify_video_thumb/2108496568047292416/img/9D9PuQlAOWuza8Q4.jpg" alt="Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goldiewhyte/status/2108496783328338388">Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights</a></h3>
-<p>A user connected a web crawler to a Jev-based reasoning and Grok bot trading system, enabling automated decision-making. The post stresses that the crawler reads full page content, Jev interprets it, and the bot executes trades.</p>
-<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>银马</strong> · @goldiewhyte</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2108527006279168494"><img src="https://pbs.twimg.com/amplify_video_thumb/2108526589906485248/img/_X0-P6SpBExF_43o.jpg" alt="Jev&#39;s Performance on Bank Message Classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2108527006279168494">Jev&#39;s Performance on Bank Message Classification</a></h3>
+<p>The post notes that while Jev can&#39;t write sentences, it achieved 80% accuracy in classifying 1,000 real bank messages into 77 groups, with a cost of about $71 per 1M and clear speed advantages, scoring close to GPT-5.5.</p>
+<p><strong>841</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 841</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 </tr>
 </table>

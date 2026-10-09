@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 350 | 142 | 208 | 419K |
+| 352 | 143 | 209 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/roxitsu/status/2108536647922946063"><img src="https://pbs.twimg.com/amplify_video_thumb/2108536530134257664/img/bCNA2nDhezi2rFZv.jpg" alt="Jev costs ~460x less than Sonnet 4.5 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/roxitsu/status/2108536647922946063">Jev costs ~460x less than Sonnet 4.5</a></h3>
+<p>Roxitsu highlights that Jev&#39;s safety classifier call costs $0.0000168 vs $0.0078 on Sonnet 4.5, making it ~460x cheaper for the highest-frequency call in coding agents, with no new training, distillation, or fine-tuning.</p>
+<p><strong>中文摘要：</strong>Roxitsu指出Jev在编码智能体最高频的单一调用（安全分类器）上成本仅为0.0000168美元，比Sonnet 4.5的0.0078美元便宜约460倍，且无需新训练、蒸馏或微调。</p>
+<p><strong>Roxitsu</strong> · @roxitsu · 2026-10-09T12:34:46.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/roxitsu/status/2108536647922946063">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tessl_io/status/2108518083854008404"><img src="https://pbs.twimg.com/media/HULl-VDWkAEJNzv?format=jpg&amp;name=medium" alt="JEV Model Benchmarked for Tessl Verifiers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tessl_io/status/2108518083854008404">JEV Model Benchmarked for Tessl Verifiers</a></h3>
+<p>Tessl&#39;s blog highlights JEV&#39;s performance for verifiers, claiming it is 136x faster and 27x cheaper than GPT Luna 6, with a try-it-yourself link.</p>
+<p><strong>中文摘要：</strong>Tessl 博客介绍了 JEV 模型用于验证器的表现，声称比 GPT Luna 6 快 136 倍且成本低 27 倍，并提供试用方法。</p>
+<p><strong>Tessl</strong> · @tessl_io · 2026-10-09T11:21:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 94</p>
+<p><a href="https://x.com/tessl_io/status/2108518083854008404">在 X 查看原帖</a> · <a href="https://t.co/JXHDNCPr0e">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dorkitude/status/2108394989030134242"><img src="https://pbs.twimg.com/media/HUKFUEfaEAAyA80?format=jpg&amp;name=medium" alt="Evaluating OpenAI&#39;s Decisions API with Jev · 原帖图片" width="100%"></a>

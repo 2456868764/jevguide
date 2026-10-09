@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 985
-- [Developer tools](../categories/developer-tools.md) — 576
-- [How it works](../categories/how-it-works.md) — 551
-- [Launch news](../categories/launch-news.md) — 439
-- [Agents](../categories/agents.md) — 425
+- [Community builds](../categories/community-builds.md) — 986
+- [Developer tools](../categories/developer-tools.md) — 577
+- [How it works](../categories/how-it-works.md) — 553
+- [Launch news](../categories/launch-news.md) — 440
+- [Agents](../categories/agents.md) — 426
 - [Access updates](../categories/access-updates.md) — 390
-- [Gaming](../categories/gaming.md) — 361
+- [Gaming](../categories/gaming.md) — 364
 - [Developer resources](../categories/developer-resources.md) — 350
-- [Finance](../categories/finance.md) — 269
-- [Workflow automation](../categories/workflow-automation.md) — 233
+- [Finance](../categories/finance.md) — 272
+- [Workflow automation](../categories/workflow-automation.md) — 235
 - [Marketing](../categories/marketing.md) — 139
 - [Content creation](../categories/content-creation.md) — 114
 - [Data analytics](../categories/data-analytics.md) — 113
 - [Knowledge & search](../categories/knowledge-search.md) — 111
-- [Scientific research](../categories/scientific-research.md) — 85
+- [Scientific research](../categories/scientific-research.md) — 87
 - [Cybersecurity](../categories/cybersecurity.md) — 63
-- [Customer support](../categories/customer-support.md) — 52
+- [Customer support](../categories/customer-support.md) — 54
 - [Robotics](../categories/robotics.md) — 44
 - [Software development](../categories/software-development.md) — 40
 - [Productivity](../categories/productivity.md) — 39
 - [Business operations](../categories/business-operations.md) — 28
-- [Healthcare](../categories/healthcare.md) — 26
+- [Healthcare](../categories/healthcare.md) — 27
 - [Education](../categories/education.md) — 25
 - [E-commerce](../categories/e-commerce.md) — 22
 - [Legal & compliance](../categories/legal-compliance.md) — 21

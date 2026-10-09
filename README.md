@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5501</strong><br>curated posts</td>
-<td align="center"><strong>2787</strong><br>original videos</td>
+<td align="center"><strong>5520</strong><br>curated posts</td>
+<td align="center"><strong>2798</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>985</strong> showcases · <strong>403</strong> videos</p>
+<p><strong>986</strong> showcases · <strong>404</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>576</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>577</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>551</strong> showcases · <strong>237</strong> videos</p>
+<p><strong>553</strong> showcases · <strong>238</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>439</strong> showcases · <strong>204</strong> videos</p>
+<p><strong>440</strong> showcases · <strong>204</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>425</strong> showcases · <strong>234</strong> videos</p>
+<p><strong>426</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>361</strong> showcases · <strong>273</strong> videos</p>
+<p><strong>364</strong> showcases · <strong>275</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>269</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>272</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>233</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>235</strong> showcases · <strong>151</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>85</strong> showcases · <strong>28</strong> videos</p>
+<p><strong>87</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>52</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>54</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
-<p><strong>26</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>27</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/jessemusa2/status/2108465257848955005"><img src="https://pbs.twimg.com/amplify_video_thumb/2108464284954992640/img/LzZWl-EbF0o3sZow.jpg" alt="Multiplayer Voice Controlled Minecraft Built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jessemusa2/status/2108465257848955005">Multiplayer Voice Controlled Minecraft Built with Jev</a></h3>
-<p>The author demonstrates a Minecraft mod built with Jev and Claude models, enabling speech-to-text and real-time AI execution of player commands on a server.</p>
+<a href="https://x.com/cola_runner/status/2108516970115297542"><img src="https://pbs.twimg.com/amplify_video_thumb/2108516274364149760/img/WGXLurIt5BglnQiG.jpg" alt="Jev 1.13 Plays The Legend of Zelda · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cola_runner/status/2108516970115297542">Jev 1.13 Plays The Legend of Zelda</a></h3>
+<p>Language model Jev 1.13 returns to The Legend of Zelda, clearing the first dungeon and continuing the search for dungeon 2. Episode 4 features a fresh look, but Hyrule remains as dangerous as ever.</p>
 <p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Jesse Musa</strong> · @jessemusa2</p>
+<p><strong>cola_runner · AI experiments</strong> · @cola_runner</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/aakkshhayy/status/2108461317342597509"><img src="https://pbs.twimg.com/media/HULCV9tbsAA-jp3?format=png&amp;name=900x900" alt="Score your post with Jev before publishing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aakkshhayy/status/2108461317342597509">Score your post with Jev before publishing</a></h3>
-<p>Akshay is building a tool that uses TypeSafe&#39;s AI model Jev to evaluate a post&#39;s hook, clarity, and likely replies, helping creators optimize content before publishing.</p>
-<p><strong>15</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
-<p><strong>Akshay</strong> · @aakkshhayy</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/appleton_a51105/status/2108513436955205969"><img src="https://pbs.twimg.com/amplify_video_thumb/2108513349973729280/img/IK_PIcnvgnibTh49.jpg" alt="Implemented a Jev-style Decision Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/appleton_a51105/status/2108513436955205969">Implemented a Jev-style Decision Model</a></h3>
+<p>The user implemented a Jev-style decision model after studying a video from @neural_avb, showcasing hands-on community exploration of the Jev model.</p>
+<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>The AI Guy 🇮🇳</strong> · @appleton_a51105</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/igrgavilan/status/2108454110919868840"><img src="https://pbs.twimg.com/media/HUK7k-hW4AAgKBO?format=jpg&amp;name=small" alt="Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39; · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/igrgavilan/status/2108454110919868840">Podcast Conversation: Jev Launch and &#39;The If After the LLM&#39;</a></h3>
-<p>Ignacio G.R. Gavilán and @adefuros discuss the launch of Jev by TypeSafe AI and its implications on the &#39;Código abierto&#39; podcast.</p>
-<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
-<p><strong>Ignacio G.R. Gavilán</strong> · @igrgavilan</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/gigazine/status/2108512876876996706"><img src="https://pbs.twimg.com/media/HULxSdLXcAAt8DB?format=jpg&amp;name=small" alt="“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gigazine/status/2108512876876996706">“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man</a></h3>
+<p>A new benchmark “jevman” has emerged for fast-decision probability models, challenging Jev, GPT-6 Luna Decisions, and others to play Pac-Man and measuring their decision-making in real time.</p>
+<p><strong>1.9K</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.9K</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/hellonehha/status/2108452682587312516"><img src="https://pbs.twimg.com/media/HUK6EH_XEAAmre6?format=jpg&amp;name=medium" alt="Neha experiments with Jev vs OpenAI decision API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hellonehha/status/2108452682587312516">Neha experiments with Jev vs OpenAI decision API</a></h3>
-<p>Neha Sharma shares her hands-on comparison of TypeSafe AI&#39;s Jev model against OpenAI&#39;s decision API, with a live release planned today or tomorrow and a video coming soon on her YouTube channel.</p>
-<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
-<p><strong>Neha Sharma</strong> · @hellonehha</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xMoysei/status/2108512736086794472"><img src="https://pbs.twimg.com/amplify_video_thumb/2108512261979447296/img/c3jl6Bff19Fs_TRZ.jpg" alt="JEV Agent Trading Performance Update · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xMoysei/status/2108512736086794472">JEV Agent Trading Performance Update</a></h3>
+<p>The author shares results of their JEV Agent: 9 sessions, 74 trades, growing $1,000 to $3,997.01 with max drawdown of 11.6%, and mentions six focus areas: scan, vet, seed, risk, tape, fills.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
+<p><strong>Moysei</strong> · @0xMoysei</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/jessemusa2/status/2108465257848955005"><img src="https://pbs.twimg.com/amplify_video_thumb/2108464284954992640/img/LzZWl-EbF0o3sZow.jpg" alt="Multiplayer Voice Controlled Minecraft Built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jessemusa2/status/2108465257848955005">Multiplayer Voice Controlled Minecraft Built with Jev</a></h3>
-<p>The author demonstrates a Minecraft mod built with Jev and Claude models, enabling speech-to-text and real-time AI execution of player commands on a server.</p>
+<a href="https://x.com/cola_runner/status/2108516970115297542"><img src="https://pbs.twimg.com/amplify_video_thumb/2108516274364149760/img/WGXLurIt5BglnQiG.jpg" alt="Jev 1.13 Plays The Legend of Zelda · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cola_runner/status/2108516970115297542">Jev 1.13 Plays The Legend of Zelda</a></h3>
+<p>Language model Jev 1.13 returns to The Legend of Zelda, clearing the first dungeon and continuing the search for dungeon 2. Episode 4 features a fresh look, but Hyrule remains as dangerous as ever.</p>
 <p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Jesse Musa</strong> · @jessemusa2</p>
+<p><strong>cola_runner · AI experiments</strong> · @cola_runner</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/hellonehha/status/2108452682587312516"><img src="https://pbs.twimg.com/media/HUK6EH_XEAAmre6?format=jpg&amp;name=medium" alt="Neha experiments with Jev vs OpenAI decision API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hellonehha/status/2108452682587312516">Neha experiments with Jev vs OpenAI decision API</a></h3>
-<p>Neha Sharma shares her hands-on comparison of TypeSafe AI&#39;s Jev model against OpenAI&#39;s decision API, with a live release planned today or tomorrow and a video coming soon on her YouTube channel.</p>
-<p><strong>180</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 180</p>
-<p><strong>Neha Sharma</strong> · @hellonehha</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xMoysei/status/2108512736086794472"><img src="https://pbs.twimg.com/amplify_video_thumb/2108512261979447296/img/c3jl6Bff19Fs_TRZ.jpg" alt="JEV Agent Trading Performance Update · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xMoysei/status/2108512736086794472">JEV Agent Trading Performance Update</a></h3>
+<p>The author shares results of their JEV Agent: 9 sessions, 74 trades, growing $1,000 to $3,997.01 with max drawdown of 11.6%, and mentions six focus areas: scan, vet, seed, risk, tape, fills.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
+<p><strong>Moysei</strong> · @0xMoysei</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/biroi8/status/2108452401434997049"><img src="https://pbs.twimg.com/amplify_video_thumb/2107606020855861249/img/WfOZaHEw9p8sQ2gA.jpg" alt="Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/biroi8/status/2108452401434997049">Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev</a></h3>
-<p>A practical guide to splitting tasks with Claude Code while using Jev to oversee rationale and progress, turning the video&#39;s flashy approach into a verifiable single flow.</p>
-<p><strong>98</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 98</p>
-<p><strong>Suzuki</strong> · @biroi8</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/GauriTripa94282/status/2108512091024064958"><img src="https://pbs.twimg.com/media/HULwkPjaYAAN7sb?format=jpg&amp;name=medium" alt="JEV vs LLM: They Solve Different Problems · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GauriTripa94282/status/2108512091024064958">JEV vs LLM: They Solve Different Problems</a></h3>
+<p>JEV evaluates predefined decisions with typed answers and confidence, while LLMs generate text, code, and explanations. Knowing when to use each is key.</p>
+<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 106</p>
+<p><strong>Gauri Tripathi</strong> · @GauriTripa94282</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/KelisShekhaliya/status/2108440018750669188"><img src="https://pbs.twimg.com/media/HUKrLxvbgAAPr_g?format=jpg&amp;name=medium" alt="TypeSafe AI Launches n8n Node for Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KelisShekhaliya/status/2108440018750669188">TypeSafe AI Launches n8n Node for Jev</a></h3>
-<p>Kelis Shekhaliya mentions that TypeSafe AI shipped an official n8n node for Jev, and he also built a Jev node with @nativeship_.</p>
-<p><strong>21</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
-<p><strong>Kelis Shekhaliya</strong> · @KelisShekhaliya</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/goldiewhyte/status/2108496783328338388"><img src="https://pbs.twimg.com/amplify_video_thumb/2108496568047292416/img/9D9PuQlAOWuza8Q4.jpg" alt="Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/goldiewhyte/status/2108496783328338388">Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights</a></h3>
+<p>A user connected a web crawler to a Jev-based reasoning and Grok bot trading system, enabling automated decision-making. The post stresses that the crawler reads full page content, Jev interprets it, and the bot executes trades.</p>
+<p><strong>64</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><strong>银马</strong> · @goldiewhyte</p>
 </td>
 </tr>
 </table>

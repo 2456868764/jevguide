@@ -1,9 +1,10 @@
 # GIGAZINE(ギガジン)
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T11:00:18.000Z | [“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man](https://x.com/gigazine/status/2108512876876996706) | 科研 | GIGAZINE(ギガジン) | 1.9K |
 | 2026-10-05T04:06:18.000Z | [Cloudflare unveils Clef, a Jev-like decision model](https://x.com/gigazine/status/2106959135904256034) | 产品发布 | GIGAZINE(ギガジン) | 4.9K |
 | 2026-10-01T12:00:19.000Z | [Ollaya: An Ollama-style App to Run Jev-like Decision Models Locally](https://x.com/gigazine/status/2105628877636722999) | 开发者工具 | GIGAZINE(ギガジン) | 4.4K |
 | 2026-09-30T08:53:18.000Z | [New decision-making model d1 emerges, surpassing Jev in benchmarks](https://x.com/gigazine/status/2105219422663102837) | 产品发布 | GIGAZINE(ギガジン) | 3.3K |

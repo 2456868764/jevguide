@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 233 | 149 | 84 | 595K |
+| 235 | 151 | 84 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/goldiewhyte/status/2108496783328338388"><img src="https://pbs.twimg.com/amplify_video_thumb/2108496568047292416/img/9D9PuQlAOWuza8Q4.jpg" alt="Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/goldiewhyte/status/2108496783328338388">Jev+Grok Bot + Crawler: Turned $100 into $12,161 in Three Nights</a></h3>
+<p>A user connected a web crawler to a Jev-based reasoning and Grok bot trading system, enabling automated decision-making. The post stresses that the crawler reads full page content, Jev interprets it, and the bot executes trades.</p>
+<p><strong>中文摘要：</strong>一位用户将网页爬虫接入Jev判断与Grok机器人交易系统，实现自动化决策与交易。帖子强调爬虫不只是抓标题，而是读取网页内容后由Jev进行判断，再交由机器人执行交易。</p>
+<p><strong>银马</strong> · @goldiewhyte · 2026-10-09T09:56:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><a href="https://x.com/goldiewhyte/status/2108496783328338388">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DonatelloXPro/status/2108493421572939913"><img src="https://pbs.twimg.com/amplify_video_thumb/2107139804794130432/img/LsvT_yiiIN6uLkGi.jpg" alt="Creator uses Jev to send one-tap reminder for unpaid brand deals · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DonatelloXPro/status/2108493421572939913">Creator uses Jev to send one-tap reminder for unpaid brand deals</a></h3>
+<p>A creator found $4,000 of $18,400 in brand deals unpaid for 34 days. One tap with Jev sent the reminder, and 14 brand email threads plus 6 #deals messages now go to Jev first, which asks about stage and lateness.</p>
+<p><strong>中文摘要：</strong>创作者遇到品牌合作共 18,400 美元未结款项，其中 4,000 美元已逾期 34 天；通过 Jev 一键跟进，并且把 Gmail 中的 14 个品牌邮件和 #deals 里的 6 条消息都交给 Jev 先处理，Jev 会询问所处阶段和是否逾期。</p>
+<p><strong>Donatello</strong> · @DonatelloXPro · 2026-10-09T09:43:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 68</p>
+<p><a href="https://x.com/DonatelloXPro/status/2108493421572939913">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/biroi8/status/2108452401434997049"><img src="https://pbs.twimg.com/amplify_video_thumb/2107606020855861249/img/WfOZaHEw9p8sQ2gA.jpg" alt="Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev · 原帖视频截图" width="100%"></a>

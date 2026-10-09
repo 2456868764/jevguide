@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 85 | 28 | 59 | 136K |
+| 87 | 28 | 61 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gigazine/status/2108512876876996706"><img src="https://pbs.twimg.com/media/HULxSdLXcAAt8DB?format=jpg&amp;name=small" alt="“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gigazine/status/2108512876876996706">“jevman” Benchmark: Letting Jev and Other Fast-Decision Models Play Pac-Man</a></h3>
+<p>A new benchmark “jevman” has emerged for fast-decision probability models, challenging Jev, GPT-6 Luna Decisions, and others to play Pac-Man and measuring their decision-making in real time.</p>
+<p><strong>中文摘要：</strong>面向快速判断概率模型的基准测试「jevman」登场，让Jev、GPT-6 Luna Decisions等模型挑战《吃豆人》，衡量它们在实时环境中的决策能力。</p>
+<p><strong>GIGAZINE(ギガジン)</strong> · @gigazine · 2026-10-09T11:00:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/gigazine/status/2108512876876996706">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Connected_Data/status/2108503019964797242"><img src="https://pbs.twimg.com/media/HULoUiHXYAAELAg?format=jpg&amp;name=medium" alt="Beyond System 1: Why Symbolic Reasoning Still Matters for Decision Making · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Connected_Data/status/2108503019964797242">Beyond System 1: Why Symbolic Reasoning Still Matters for Decision Making</a></h3>
+<p>Discusses how System 1 models like Jev return a full probability distribution, while symbolic reasoning builds on rules and constraints, noting that a probability is not yet a decision and highlighting the value of combining both.</p>
+<p><strong>中文摘要：</strong>讨论Jev等System 1模型返回完整概率分布，而符号推理基于规则和约束，概率本身不等于决策，强调两者结合的价值。</p>
+<p><strong>Connected Data</strong> · @Connected_Data · 2026-10-09T10:21:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/Connected_Data/status/2108503019964797242">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pseudotensor/status/2108288895670714506"><img src="https://pbs.twimg.com/amplify_video_thumb/2108287695982321664/img/ph_DUYVIjXB7NTiZ.jpg" alt="H2O-Lightning-4B tops JevBench · 原帖视频截图" width="100%"></a>

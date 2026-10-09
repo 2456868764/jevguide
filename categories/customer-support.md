@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 52 | 31 | 22 | 639K |
+| 54 | 32 | 23 | 639K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Asteri_eth/status/2108498873748500987"><img src="https://pbs.twimg.com/amplify_video_thumb/2108498820552138752/img/ZYbrKBfeAelut5sb.jpg" alt="Jev + Opus 5.5 Drives AI Support Desk · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Asteri_eth/status/2108498873748500987">Jev + Opus 5.5 Drives AI Support Desk</a></h3>
+<p>The author mapped the entire AI support desk workflow onto one page after reviewing TypeSafe and Anthropic docs, listing 10 steps: Jev reads tickets, Opus 5.5 writes the hard replies, and your code holds the branch, reducing support costs.</p>
+<p><strong>中文摘要：</strong>作者通过阅读TypeSafe和Anthropic文档，将AI支持台的运行流程映射在一页纸上，并列出10个步骤：Jev读取工单，Opus 5.5撰写重要回复，代码控制分支，从而减少人工成本。</p>
+<p><strong>Asteri</strong> · @Asteri_eth · 2026-10-09T10:04:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 448</p>
+<p><a href="https://x.com/Asteri_eth/status/2108498873748500987">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/defaiscope/status/2108474547204702386"><img src="https://pbs.twimg.com/media/HULLVaWXkAAHDDg?format=jpg&amp;name=medium" alt="Jev&#39;s Decision Confidence in Ticket Routing and Document Sorting Draws Attention · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/defaiscope/status/2108474547204702386">Jev&#39;s Decision Confidence in Ticket Routing and Document Sorting Draws Attention</a></h3>
+<p>DeFAI Scope highlights that when comparing decision models from OpenAI, Cloudflare, and others, it&#39;s important to note how often Jev confidently decides in document sorting and support ticket routing.</p>
+<p><strong>中文摘要：</strong>DeFAI Scope指出，在对比OpenAI、Cloudflare等决策模型时，应关注Jev在文档分类和支持工单路由中能够自信做出决定的频率。</p>
+<p><strong>DeFAI Scope</strong> · @defaiscope · 2026-10-09T08:28:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/defaiscope/status/2108474547204702386">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/meng_shengyu/status/2108110901089833097"><img src="https://pbs.twimg.com/amplify_video_thumb/2108045122005041152/img/fJQNzclkapojV_Nm.jpg" alt="Jev Open-Source Remake Released: StartLux-Decision for Ticket Option Selection · 原帖视频截图" width="100%"></a>

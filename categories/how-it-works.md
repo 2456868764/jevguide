@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 551 | 237 | 315 | 1.6M |
+| 553 | 238 | 316 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/GauriTripa94282/status/2108512091024064958"><img src="https://pbs.twimg.com/media/HULwkPjaYAAN7sb?format=jpg&amp;name=medium" alt="JEV vs LLM: They Solve Different Problems · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GauriTripa94282/status/2108512091024064958">JEV vs LLM: They Solve Different Problems</a></h3>
+<p>JEV evaluates predefined decisions with typed answers and confidence, while LLMs generate text, code, and explanations. Knowing when to use each is key.</p>
+<p><strong>中文摘要：</strong>JEV用于评估预定义决策，提供类型化答案和置信度；LLM用于生成文本、代码和解释。了解何时使用哪种工具是关键。</p>
+<p><strong>Gauri Tripathi</strong> · @GauriTripa94282 · 2026-10-09T10:57:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 106</p>
+<p><a href="https://x.com/GauriTripa94282/status/2108512091024064958">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aiwithme0001/status/2108509410763174051"><img src="https://pbs.twimg.com/amplify_video_thumb/2108509292219523072/img/1wwJcQJVT_tDH2Hz.jpg" alt="Jev AI Explained: The AI That Makes Decisions, Not Text · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aiwithme0001/status/2108509410763174051">Jev AI Explained: The AI That Makes Decisions, Not Text</a></h3>
+<p>An introduction to Jev AI, highlighting its focus on decision-making rather than text generation.</p>
+<p><strong>中文摘要：</strong>介绍Jev AI的核心特点，强调其专注于决策而非文本生成。</p>
+<p><strong>Divy</strong> · @aiwithme0001 · 2026-10-09T10:46:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 14</p>
+<p><a href="https://x.com/aiwithme0001/status/2108509410763174051">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MartinSzerment/status/2108447166599417916"><img src="https://pbs.twimg.com/amplify_video_thumb/2108234082530230272/img/y5CsvBHmWdELDBrv.jpg" alt="Jev API latency compared to open-source model · 原帖视频截图" width="100%"></a>

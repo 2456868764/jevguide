@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 974 | 400 | 578 | 3.0M |
+| 976 | 400 | 580 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/amanmaqsood/status/2108371602090193006"><img src="https://pbs.twimg.com/media/HUJwuEKb0AARI_A?format=jpg&amp;name=medium" alt="Jev and Opus 5.5 Workflow Guide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/amanmaqsood/status/2108371602090193006">Jev and Opus 5.5 Workflow Guide</a></h3>
+<p>The guide proposes Jev for small, clear judgments, with Opus 5.5 handling deeper reasoning; the 10x output claim is a proposed benefit, not an official test result.</p>
+<p><strong>中文摘要：</strong>该指南提出Jev负责小而明确的判断，Opus 5.5负责深度推理；10倍输出说法是建议而非已测结果，需注意区分。</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood · 2026-10-09T01:38:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/amanmaqsood/status/2108371602090193006">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kumehaya/status/2108369159277170996"><img src="https://pbs.twimg.com/media/HUJuiaWaUAAp7FM?format=jpg&amp;name=medium" alt="Discussing the non-writing AI &quot;Jev&quot; and its probability applications · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kumehaya/status/2108369159277170996">Discussing the non-writing AI &quot;Jev&quot; and its probability applications</a></h3>
+<p>Episode 258 introduces Jev: it does not generate text but provides calibrated probabilities. For example, if a request is 92% likely, it can go to the responsible team; 30/40/30 means route to humans. It highlights that AI expressing uncertainty with numbers is more dependable.</p>
+<p><strong>中文摘要：</strong>播客第258回介绍Jev：它不生成文本，而是提供校正后的概率。例如请求概率92%可直接交给担当，30・40・30则转给人工。强调了能明确表达不确定性的AI更适合委派任务。</p>
+<p><strong>HayatoKumemura（久米村隼人） | DATAFLUCT（データフラクト）代表取締役CEO</strong> · @kumehaya · 2026-10-09T01:29:13.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/kumehaya/status/2108369159277170996">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>

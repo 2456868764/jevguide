@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-09T01:39:07.000Z | [Jev Workflow Practice: Step Mapping and Threshold Settings](https://x.com/amanmaqsood/status/2108371648030363761) | 自动化工作流 | Aman Maqsood | 5 |
+| 2026-10-09T01:39:04.000Z | [First Test Questions in Jev Playground](https://x.com/amanmaqsood/status/2108371634898055368) | 开发者工具 | Aman Maqsood | 7 |
+| 2026-10-09T01:39:00.000Z | [TypeSafe Jev: Decision Engine Based on State and Questions](https://x.com/amanmaqsood/status/2108371619915981258) | 工作原理 | Aman Maqsood | 9 |
+| 2026-10-09T01:38:56.000Z | [Jev and Opus 5.5 Workflow Guide](https://x.com/amanmaqsood/status/2108371602090193006) | 社区实践 | Aman Maqsood | 6 |
+| 2026-10-09T01:29:13.000Z | [Discussing the non-writing AI "Jev" and its probability applications](https://x.com/kumehaya/status/2108369159277170996) | 社区实践 | HayatoKumemura（久米村隼人） \| DATAFLUCT（データフラクト）代表取締役CEO | 39 |
+| 2026-10-09T01:01:11.000Z | [New article: Watson Was an Early Jev](https://x.com/pingmurder/status/2108362102503034940) | 工作原理 | Pingmurder | 11 |
 | 2026-10-09T00:47:16.000Z | [Jev vs OpenAI Decisions API: Moderation Differences](https://x.com/noah_vandal/status/2108358600574038051) | 社区实践 | Noah Vandal | 19 |
 | 2026-10-09T00:40:17.000Z | [OpenAI Dots + Jev Low-Cost Agent Setup](https://x.com/mojeskoqq/status/2108356844309578073) | 自动化工作流 | mojesko | 31 |
 | 2026-10-09T00:38:10.000Z | [Chrome extension to filter tweets using Jev](https://x.com/bryanmusuku/status/2108356312061170125) | 社区实践 | Brian | 13 |
@@ -96,9 +102,3 @@
 | 2026-10-08T13:40:42.000Z | [Question Design Matters More Than the Model: Jev vs Laya Test](https://x.com/Aedge_Bricht/status/2108190853873508673) | 科研 | Houman | 1 |
 | 2026-10-08T13:40:12.000Z | [Jev: A Tiny Decision Model](https://x.com/0x_rody/status/2108190728023122305) | 自动化工作流 | rody | 14 |
 | 2026-10-08T13:30:53.000Z | [Jev Smart Routing: Cut Cost from $18 to $1.30 per 1,000 Calls](https://x.com/merccante/status/2108188385135173878) | 社区实践 | mercante | 68 |
-| 2026-10-08T13:30:00.000Z | [Jev sparks a question: why generate a paragraph when an agent needs to decide?](https://x.com/OpenBMB/status/2108188162677944478) | 智能体 | OpenBMB | 101 |
-| 2026-10-08T13:27:37.000Z | [Free Live Session: Building Decision Layers for AI Agents Using Jev](https://x.com/YoussefHosni951/status/2108187561109631253) | 社区实践 | Youssef Hosni | 17 |
-| 2026-10-08T13:26:53.000Z | [Jev Decodes the Secret Recipe Behind Top Creators' Reels](https://x.com/joonahn_ai/status/2108187376283451410) | 营销 | Joon | 24 |
-| 2026-10-08T13:26:32.000Z | [Closed-loop demo of JEV, Claude Opus 5.5, and GPT Dots](https://x.com/deezzex/status/2108187286919586018) | 智能体 | deezzex | 130 |
-| 2026-10-08T13:23:06.000Z | [Jev + Claude Combined Workflow](https://x.com/zer0point_eth/status/2108186425745178698) | 软件开发 | Zero | 54 |
-| 2026-10-08T13:20:18.000Z | [JEV now has 12 competitors](https://x.com/samoweb3/status/2108185719495909420) | 社区实践 | samo d/acc | 29 |

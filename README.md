@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5460</strong><br>curated posts</td>
+<td align="center"><strong>5466</strong><br>curated posts</td>
 <td align="center"><strong>2773</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>974</strong> showcases · <strong>400</strong> videos</p>
+<p><strong>976</strong> showcases · <strong>400</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>572</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>573</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>545</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>547</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>229</strong> showcases · <strong>147</strong> videos</p>
+<p><strong>230</strong> showcases · <strong>147</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/noah_vandal/status/2108358600574038051">Jev vs OpenAI Decisions API: Moderation Differences</a></h3>
-<p>The post points out that OpenAI&#39;s Decisions API is moderated, unlike TypeSafe&#39;s Jev.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>Noah Vandal</strong> · @noah_vandal</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371648030363761"><img src="https://pbs.twimg.com/media/HUJw13SbsAAIlS6?format=jpg&amp;name=medium" alt="Jev Workflow Practice: Step Mapping and Threshold Settings · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371648030363761">Jev Workflow Practice: Step Mapping and Threshold Settings</a></h3>
+<p>Map each step as judgment, reasoning, or action, ask Jev one clear question at a time. Send low-confidence cases for review, keep decision thresholds in one settings file, and test on real examples before scheduling.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/mojeskoqq/status/2108356844309578073"><img src="https://pbs.twimg.com/media/HUJjTBoW8AAM3un?format=jpg&amp;name=medium" alt="OpenAI Dots + Jev Low-Cost Agent Setup · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mojeskoqq/status/2108356844309578073">OpenAI Dots + Jev Low-Cost Agent Setup</a></h3>
-<p>This post shares a setup combining OpenAI Dots with Jev, turning an expensive always-on agent into a cheaper worker: small decisions go to Jev at $0.042 per million, and routine tasks go to GPT-6.1 Sol.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>mojesko</strong> · @mojeskoqq</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371634898055368"><img src="https://pbs.twimg.com/media/HUJw1EdacAAUY60?format=jpg&amp;name=medium" alt="First Test Questions in Jev Playground · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371634898055368">First Test Questions in Jev Playground</a></h3>
+<p>The author shares the first test questions in the Jev Playground at jevplayground.com.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/bryanmusuku/status/2108356312061170125"><img src="https://pbs.twimg.com/media/HUJiJhAXkAAa4wU?format=png&amp;name=small" alt="Chrome extension to filter tweets using Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/bryanmusuku/status/2108356312061170125">Chrome extension to filter tweets using Jev</a></h3>
-<p>An open-source Chrome extension that uses TypeSafe Jev to filter unwanted tweets from the timeline.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Brian</strong> · @bryanmusuku</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371619915981258"><img src="https://pbs.twimg.com/media/HUJw0OXb0AA2Tso?format=jpg&amp;name=medium" alt="TypeSafe Jev: Decision Engine Based on State and Questions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371619915981258">TypeSafe Jev: Decision Engine Based on State and Questions</a></h3>
+<p>Aman Maqsood explains how to use TypeSafe Jev: provide the current state and a precise question, and Jev returns a choice, score, or true/false answer with a confidence score. Code then executes the chosen action. Diagrams illustrate question types and examples.</p>
+<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/dani_avila7/status/2108354971531973028"><img src="https://pbs.twimg.com/media/HUJhrAkWcAAsKJP?format=jpg&amp;name=medium" alt="Jev Skill Typeahead is now fully open source · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dani_avila7/status/2108354971531973028">Jev Skill Typeahead is now fully open source</a></h3>
-<p>Jev Skill Typeahead is now fully open source. Explore the code, contribute improvements, and help make skill predictions more accurate.</p>
-<p><strong>563</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 563</p>
-<p><strong>Daniel San</strong> · @dani_avila7</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371602090193006"><img src="https://pbs.twimg.com/media/HUJwuEKb0AARI_A?format=jpg&amp;name=medium" alt="Jev and Opus 5.5 Workflow Guide · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371602090193006">Jev and Opus 5.5 Workflow Guide</a></h3>
+<p>The guide proposes Jev for small, clear judgments, with Opus 5.5 handling deeper reasoning; the 10x output claim is a proposed benefit, not an official test result.</p>
+<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/noah_vandal/status/2108358600574038051"><img src="https://pbs.twimg.com/media/HUJk6V9WUAAjNwi?format=png&amp;name=medium" alt="Jev vs OpenAI Decisions API: Moderation Differences · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/noah_vandal/status/2108358600574038051">Jev vs OpenAI Decisions API: Moderation Differences</a></h3>
-<p>The post points out that OpenAI&#39;s Decisions API is moderated, unlike TypeSafe&#39;s Jev.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>Noah Vandal</strong> · @noah_vandal</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371648030363761"><img src="https://pbs.twimg.com/media/HUJw13SbsAAIlS6?format=jpg&amp;name=medium" alt="Jev Workflow Practice: Step Mapping and Threshold Settings · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371648030363761">Jev Workflow Practice: Step Mapping and Threshold Settings</a></h3>
+<p>Map each step as judgment, reasoning, or action, ask Jev one clear question at a time. Send low-confidence cases for review, keep decision thresholds in one settings file, and test on real examples before scheduling.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/dani_avila7/status/2108354971531973028"><img src="https://pbs.twimg.com/media/HUJhrAkWcAAsKJP?format=jpg&amp;name=medium" alt="Jev Skill Typeahead is now fully open source · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dani_avila7/status/2108354971531973028">Jev Skill Typeahead is now fully open source</a></h3>
-<p>Jev Skill Typeahead is now fully open source. Explore the code, contribute improvements, and help make skill predictions more accurate.</p>
-<p><strong>563</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 563</p>
-<p><strong>Daniel San</strong> · @dani_avila7</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/amanmaqsood/status/2108371602090193006"><img src="https://pbs.twimg.com/media/HUJwuEKb0AARI_A?format=jpg&amp;name=medium" alt="Jev and Opus 5.5 Workflow Guide · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amanmaqsood/status/2108371602090193006">Jev and Opus 5.5 Workflow Guide</a></h3>
+<p>The guide proposes Jev for small, clear judgments, with Opus 5.5 handling deeper reasoning; the 10x output claim is a proposed benefit, not an official test result.</p>
+<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/kumehaya/status/2108369159277170996"><img src="https://pbs.twimg.com/media/HUJuiaWaUAAp7FM?format=jpg&amp;name=medium" alt="Discussing the non-writing AI &quot;Jev&quot; and its probability applications · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kumehaya/status/2108369159277170996">Discussing the non-writing AI &quot;Jev&quot; and its probability applications</a></h3>
+<p>Episode 258 introduces Jev: it does not generate text but provides calibrated probabilities. For example, if a request is 92% likely, it can go to the responsible team; 30/40/30 means route to humans. It highlights that AI expressing uncertainty with numbers is more dependable.</p>
+<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>HayatoKumemura（久米村隼人） | DATAFLUCT（データフラクト）代表取締役CEO</strong> · @kumehaya</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
 <a href="https://x.com/MinLiBuilds/status/2108351241910989233"><img src="https://pbs.twimg.com/amplify_video_thumb/2108351179281539072/img/ZIjfxKI9tiJewoiJ.jpg" alt="Former OpenAI Researcher Releases Jev Decision Model · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/MinLiBuilds/status/2108351241910989233">Former OpenAI Researcher Releases Jev Decision Model</a></h3>
 <p>On September 15, Diogo Almeida released Jev, a model designed for Agent decision-making that doesn&#39;t generate text but handles judgment, selection, and scoring. The author notes the API cost is extremely low.</p>
 <p><strong>296</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 296</p>
 <p><strong>实践哥 Li</strong> · @MinLiBuilds</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/2Halves1brain/status/2108344811136680162"><img src="https://pbs.twimg.com/media/HUJYa16WsAAuJK_?format=jpg&amp;name=small" alt="Evaluating Jev as an Additional Reviewer · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/2Halves1brain/status/2108344811136680162">Evaluating Jev as an Additional Reviewer</a></h3>
-<p>The user shares experimental data after adding Jev as a reviewer: full evidence in the final report increased from 4/6 to 5/6 for Flash, and report acceptance rose from 11/12 to 12/12. However, the evidence count already reached 5/6 during runs, so the gain was in reporting rather than new discovery.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>TwoHalves</strong> · @2Halves1brain</p>
 </td>
 </tr>
 </table>

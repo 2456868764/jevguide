@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 545 | 235 | 311 | 1.6M |
+| 547 | 235 | 313 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/amanmaqsood/status/2108371619915981258"><img src="https://pbs.twimg.com/media/HUJw0OXb0AA2Tso?format=jpg&amp;name=medium" alt="TypeSafe Jev: Decision Engine Based on State and Questions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/amanmaqsood/status/2108371619915981258">TypeSafe Jev: Decision Engine Based on State and Questions</a></h3>
+<p>Aman Maqsood explains how to use TypeSafe Jev: provide the current state and a precise question, and Jev returns a choice, score, or true/false answer with a confidence score. Code then executes the chosen action. Diagrams illustrate question types and examples.</p>
+<p><strong>中文摘要：</strong>Aman Maqsood 介绍了 TypeSafe Jev 的使用方式：输入当前状态和精确问题，Jev 返回带置信度评分的选择或真/假答案，代码随后执行所选操作。配图说明了问题类型与示例。</p>
+<p><strong>Aman Maqsood</strong> · @amanmaqsood · 2026-10-09T01:39:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/amanmaqsood/status/2108371619915981258">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pingmurder/status/2108362102503034940"><img src="https://pbs.twimg.com/media/HUJn-QTXMAAKfso?format=jpg&amp;name=medium" alt="New article: Watson Was an Early Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pingmurder/status/2108362102503034940">New article: Watson Was an Early Jev</a></h3>
+<p>The article argues that IBM Watson exhibited core Jev patterns in 2011—typed judgments, calibrated confidence, and bet sizing—which were buried by the LLM decade and are now returning.</p>
+<p><strong>中文摘要：</strong>文章提出IBM Watson在2011年已展现Jev的核心模式——类型化判断、校准置信度、匹配下注大小，并认为这些模式被LLM时代掩埋，如今回归。</p>
+<p><strong>Pingmurder</strong> · @pingmurder · 2026-10-09T01:01:11.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/pingmurder/status/2108362102503034940">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/natzir9/status/2108295252331438291"><img src="https://pbs.twimg.com/media/HUIooOSX0AAVnaE?format=jpg&amp;name=medium" alt="Testing AI models in Chrome: Jev vs Gemini Nano and more · 原帖图片" width="100%"></a>

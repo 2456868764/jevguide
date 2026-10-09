@@ -92,6 +92,7 @@
 - [8Bit🦞](../authors/8bit.md) — 4
 - [Abdullah](../authors/abdullah.md) — 4
 - [Akshay 🚀](../authors/akshay.md) — 4
+- [Aman Maqsood](../authors/aman-maqsood.md) — 4
 - [apolinario (poli)](../authors/apolinario-poli.md) — 4
 - [Arena.ai](../authors/arena-ai.md) — 4
 - [Arnav Gupta](../authors/arnav-gupta.md) — 4
@@ -1786,6 +1787,7 @@
 - [haruka_apps](../authors/haruka-apps.md) — 1
 - [Harukoxd](../authors/harukoxd.md) — 1
 - [Harvey Michael Pratt](../authors/harvey-michael-pratt.md) — 1
+- [HayatoKumemura（久米村隼人） | DATAFLUCT（データフラクト）代表取締役CEO](../authors/hayatokumemura-久米村隼人-datafluct-代表取締役ceo.md) — 1
 - [HEAVY D](../authors/heavy-d.md) — 1
 - [helicerat](../authors/helicerat.md) — 1
 - [Hemanth.HM](../authors/hemanth-hm.md) — 1
@@ -2674,6 +2676,7 @@
 - [Pierre-Eliott Lallemant](../authors/pierre-eliott-lallemant.md) — 1
 - [Pikee](../authors/pikee.md) — 1
 - [PilotCrew AI](../authors/pilotcrew-ai.md) — 1
+- [Pingmurder](../authors/pingmurder.md) — 1
 - [Piotr Czapla](../authors/piotr-czapla.md) — 1
 - [Piotr Mazurek (in SF 🇺🇸 at last 🤗)](../authors/piotr-mazurek-in-sf-at-last.md) — 1
 - [pipix＠シュガーナイト](../authors/pipix.md) — 1

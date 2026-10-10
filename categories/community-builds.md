@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1043 | 427 | 620 | 3.0M |
+| 1049 | 428 | 625 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eldadtsabary/status/2108947758530855266"><img src="https://pbs.twimg.com/media/HUR7uwxWUAAcmyU?format=jpg&amp;name=medium" alt="Jev benchmark: 81.7% vs GPT-6 Luna 61.2% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eldadtsabary/status/2108947758530855266">Jev benchmark: 81.7% vs GPT-6 Luna 61.2%</a></h3>
+<p>The user compared Jev against GPT-6 Luna (2026-10-06 snapshot) on the same 1,000 deterministic logic questions. Jev scored 81.7%, Luna 61.2% (62.3% of answered questions). Luna got 199/201 correct at confidence ≥0.8.</p>
+<p><strong>中文摘要：</strong>用户用同一组1000道确定性逻辑题对比了Jev与GPT-6 Luna（2026-10-06快照）。Jev正确率81.7%，Luna 61.2%（在已答问题中为62.3%）。Luna在置信度≥0.8时为199/201正确。</p>
+<p><strong>Eldad Tsabary</strong> · @eldadtsabary · 2026-10-10T15:48:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/eldadtsabary/status/2108947758530855266">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Eng_MHarby/status/2108946261613088791"><img src="https://pbs.twimg.com/amplify_video_thumb/2108765718305189888/img/M1hU0aJ6-iGAuWUb.jpg" alt="Jev as a fast decision model to split coding agent&#39;s reasoning and choices · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Eng_MHarby/status/2108946261613088791">Jev as a fast decision model to split coding agent&#39;s reasoning and choices</a></h3>
+<p>A simple split: Opus handles hard reasoning, while the fast decision model Jev manages multiple-choice questions like which notes to load, whether to retry or escalate, and whether to use a big model or a cheap one.</p>
+<p><strong>中文摘要：</strong>分享一个简单拆分：Opus 负责硬推理，而快速决策模型 Jev 处理加载哪些笔记、是否重试或升级、选择大模型还是便宜模型等多项选择。</p>
+<p><strong>Mohamed Harby</strong> · @Eng_MHarby · 2026-10-10T15:42:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/Eng_MHarby/status/2108946261613088791">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AkitaOnRails/status/2108946141609869647"><img src="https://pbs.twimg.com/media/HUR7VkCWUAAx-L1?format=png&amp;name=medium" alt="Benchmarking Jev and Other Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AkitaOnRails/status/2108946141609869647">Benchmarking Jev and Other Decision Models</a></h3>
+<p>The author runs their own benchmark comparing Jev with popular classification/decision models like Jef, Clef, Laya, Jebediah, focusing on performance, pricing, and use cases.</p>
+<p><strong>中文摘要：</strong>作者自建基准测试，比较Jev与Jef、Clef、Laya、Jebediah等热门分类/决策模型的性能、价格及适用场景。</p>
+<p><strong>Fabio Makita</strong> · @AkitaOnRails · 2026-10-10T15:41:57.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 72 &nbsp; 📊 2.8K</p>
+<p><a href="https://x.com/AkitaOnRails/status/2108946141609869647">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Armandotrue/status/2108860539111665950"><img src="https://pbs.twimg.com/media/HUQtdxoXUAApECI?format=jpg&amp;name=medium" alt="Clef Better than Jev? Open Source and Flash Variant Draw Attention · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Armandotrue/status/2108860539111665950">Clef Better than Jev? Open Source and Flash Variant Draw Attention</a></h3>
+<p>The author claims Clef is actually better than Jev, and it is open source with a Flash variant small enough to run on cheap consumer hardware, calling it super exciting.</p>
+<p><strong>中文摘要：</strong>作者表示Clef实际优于Jev，且Clef开源并拥有可在廉价消费级硬件上运行的Flash变体，对此感到兴奋。</p>
+<p><strong>Armen Vardanyan</strong> · @Armandotrue · 2026-10-10T10:01:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 56</p>
+<p><a href="https://x.com/Armandotrue/status/2108860539111665950">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/marco_derossi/status/2108858246345687515"><img src="https://pbs.twimg.com/media/HUQrN0AWEAAr35O?format=jpg&amp;name=medium" alt="JevBench Benchmark Controversy: Microsoft Chart Omits Top Rival · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/marco_derossi/status/2108858246345687515">JevBench Benchmark Controversy: Microsoft Chart Omits Top Rival</a></h3>
+<p>Marco De Rossi points out that Microsoft&#39;s JevBench launch chart omits Sage by LevantoLabs, which ranks #1 in the API category where Microsoft, OpenAI, and Jev compete.</p>
+<p><strong>中文摘要：</strong>Marco De Rossi 指出微软在 JevBench 发布图表中遗漏了 LevantoLabs 的 Sage，该模型在 API 类别中排名第一，而该类别中微软、OpenAI 和 Jev 正展开竞争。</p>
+<p><strong>Marco De Rossi</strong> · @marco_derossi · 2026-10-10T09:52:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 166</p>
+<p><a href="https://x.com/marco_derossi/status/2108858246345687515">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Las1mer1/status/2108856760685498863"><img src="https://pbs.twimg.com/media/HUQqDAyW0AAZKdQ?format=jpg&amp;name=medium" alt="Discussion on developing a Jev clone to give LLMs metacognition · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Las1mer1/status/2108856760685498863">Discussion on developing a Jev clone to give LLMs metacognition</a></h3>
+<p>The author states that without developing their own Jev clone to determine which generalized concepts the j-lense reads, no one can give any LLM metacognition.</p>
+<p><strong>中文摘要：</strong>作者表示，如果不能开发自己的 Jev 克隆来决定 j-lense 读取哪些概括性概念，便无法让任何 LLM 具备元认知。</p>
+<p><strong>Lexi</strong> · @Las1mer1 · 2026-10-10T09:46:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Las1mer1/status/2108856760685498863">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadimaster65555/status/2108836310492606757"><img src="https://pbs.twimg.com/media/HUQXcL2bEAADeS6?format=jpg&amp;name=900x900" alt="Model Benchmark: Outperforms Jev and OpenAI in Sentiment Analysis, Higher Latency · 原帖图片" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 473 | 215 | 261 | 1.1M |
+| 477 | 217 | 263 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nvkudva/status/2108953848899604814"><img src="https://pbs.twimg.com/media/HUSCGIwasAAbcS5?format=jpg&amp;name=medium" alt="Ollajev 0.3 Release: Decision Models Now See and Hear · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nvkudva/status/2108953848899604814">Ollajev 0.3 Release: Decision Models Now See and Hear</a></h3>
+<p>Ollajev 0.3 adds support for Cloudflare Clef-Omni and Liquid AI d1-omni. You can now send images, audio, or video to /v1/systemone, or upload an image in the playground and ask, enabling multimodal decision-model inference.</p>
+<p><strong>中文摘要：</strong>Ollajev 0.3 新增对 Cloudflare Clef-Omni 和 Liquid AI d1-omni 的支持，可通过 /v1/systemone 发送图像、音频或视频，或在 playground 上传图像进行询问，实现多模态决策模型推理。</p>
+<p><strong>Vijaykrishna</strong> · @nvkudva · 2026-10-10T16:12:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
+<p><a href="https://x.com/nvkudva/status/2108953848899604814">在 X 查看原帖</a> · <a href="https://t.co/jHExhFrrY8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/XunzhuoLiu/status/2108864432394903806"><img src="https://pbs.twimg.com/amplify_video_thumb/2108864227708645376/img/TotwjAotHtAWSVmz.jpg" alt="System One Auto in vLLM Semantic Router: Jev models on demand · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/XunzhuoLiu/status/2108864432394903806">System One Auto in vLLM Semantic Router: Jev models on demand</a></h3>
+<p>vLLM Semantic Router introduces System One Auto, which answers with Kai 0.6B first and invokes Vega 27B only as needed. Public JevBench requests show an estimated 54% cost reduction and 20% lower mean latency vs Vega-only, plus a +16.45-point accuracy gain vs Kai alone.</p>
+<p><strong>中文摘要：</strong>vLLM语义路由器发布System One Auto，优先使用Kai 0.6B快速响应，仅在需要时调用Vega 27B。根据JevBench请求数据显示，相比仅用Vega，预估成本降低54%，平均延迟降低20%，相比仅用Kai准确率提升16.45个百分点。</p>
+<p><strong>Xunzhuo</strong> · @XunzhuoLiu · 2026-10-10T10:17:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 16</p>
+<p><a href="https://x.com/XunzhuoLiu/status/2108864432394903806">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lucian__03/status/2108849220157657113"><img src="https://pbs.twimg.com/media/HUQi6JvaIAAs-NM?format=jpg&amp;name=medium" alt="Microsoft Releases Decision Model, Competing with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/lucian__03/status/2108849220157657113">Microsoft Releases Decision Model, Competing with Jev</a></h3>
+<p>The post summarizes AI industry news: TypeSafe unveiled Jev in September, OpenAI released the Decisions API on October 6, and Microsoft then released &#39;Microsoft-Decision-1&#39;, highlighting the accelerating competition in decision-making AI models.</p>
+<p><strong>中文摘要：</strong>帖子汇总AI行业动态：TypeSafe于9月公开Jev，10月6日OpenAI发布Decisions API，随后微软公开“Microsoft-Decision-1”，指出决策类AI模型竞争正在加速。</p>
+<p><strong>루샨 lucian</strong> · @lucian__03 · 2026-10-10T09:16:49.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 10 &nbsp; 📊 431</p>
+<p><a href="https://x.com/lucian__03/status/2108849220157657113">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/envromaine/status/2108844125214642484"><img src="https://pbs.twimg.com/amplify_video_thumb/2108843858154885120/img/-hBKeGMGo4BWHQXV.jpg" alt="TypeSafe AI launches Jev: 460x cheaper, 200x faster · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/envromaine/status/2108844125214642484">TypeSafe AI launches Jev: 460x cheaper, 200x faster</a></h3>
+<p>Jev is a new model from TypeSafe AI, led by ex-OpenAI founder Diogo Almeida, with $40M in funding, shipped September 15. At $0.0000168 per classification call vs Sonnet&#39;s $0.0078, Jev is 460x cheaper, 200x faster, and outputs typed data instead of a regex string.</p>
+<p><strong>中文摘要：</strong>Jev是TypeSafe AI的新模型，由前OpenAI创始人Diogo Almeida领导，获4000万美元融资，于9月15日发布。相比Sonnet，Jev每次分类调用仅需$0.0000168，价格低460倍，速度快200倍，并提供类型化输出而非正则字符串。</p>
+<p><strong>envrom</strong> · @envromaine · 2026-10-10T08:56:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 34</p>
+<p><a href="https://x.com/envromaine/status/2108844125214642484">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HIMANSH02282121/status/2108837438252634563"><img src="https://pbs.twimg.com/media/HT-5msnaEAAREi2?format=jpg&amp;name=medium" alt="TypeSafe AI introduces Jev: the first &#39;System One&#39; decision model · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 115 | 87 | 31 | 101K |
+| 117 | 87 | 33 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/connorgallic/status/2108949277552885865"><img src="https://pbs.twimg.com/media/HUR-H6PWAAAi6nM?format=jpg&amp;name=medium" alt="A creator tool built with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/connorgallic/status/2108949277552885865">A creator tool built with Jev</a></h3>
+<p>Connor Gallic shares a small project for creators made while testing Jev.</p>
+<p><strong>中文摘要：</strong>Connor Gallic 分享了一个用 Jev 测试制作的面向创作者的小项目。</p>
+<p><strong>Connor Gallic</strong> · @connorgallic · 2026-10-10T15:54:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/connorgallic/status/2108949277552885865">在 X 查看原帖</a> · <a href="https://t.co/3UUwMuiZpA">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PM80437319/status/2108864005574197528"><img src="https://pbs.twimg.com/media/HUQweuMbYAAtgjs?format=jpg&amp;name=medium" alt="Building a writing editor with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PM80437319/status/2108864005574197528">Building a writing editor with Jev</a></h3>
+<p>A developer is trying to create a user-friendly writing editor using Jev.</p>
+<p><strong>中文摘要：</strong>一位开发者正在尝试使用Jev来制作易用的写作编辑器。</p>
+<p><strong>山野イツキ</strong> · @PM80437319 · 2026-10-10T10:15:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><a href="https://x.com/PM80437319/status/2108864005574197528">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/init_adam/status/2108559142101127533"><img src="https://pbs.twimg.com/amplify_video_thumb/2108556584632668160/img/onHbCWBoHU2rchqv.jpg" alt="PodPower: A podcast radio that ranks clips with Jev · 原帖视频截图" width="100%"></a>

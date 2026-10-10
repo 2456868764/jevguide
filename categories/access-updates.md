@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 399 | 168 | 231 | 802K |
+| 401 | 168 | 233 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kaddisdeployed/status/2108821364849123673"><img src="https://pbs.twimg.com/media/HUQJ2W7XUAAwDFz?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Valued at $7.5B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kaddisdeployed/status/2108821364849123673">TypeSafe AI Raises $870M, Jev Valued at $7.5B</a></h3>
+<p>Led by a16z with Sequoia and DCVC joining. Jev launched on September 15, returning structured decisions with probabilities instead of text.</p>
+<p><strong>中文摘要：</strong>a16z领投，红杉和DCVC参投。Jev于9月15日上线，返回结构化决策及概率，而非纯文本。</p>
+<p><strong>kadd</strong> · @kaddisdeployed · 2026-10-10T07:26:08.000Z</p>
+<p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 7 &nbsp; 📊 222</p>
+<p><a href="https://x.com/kaddisdeployed/status/2108821364849123673">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tweetangelc/status/2108816222615707796"><img src="https://pbs.twimg.com/media/HUQFLfBWEAAU_OY?format=jpg&amp;name=medium" alt="Andreessen Horowitz Values TypeSafe AI at $7.5B; Jev Already Embedded in Fortune 500 Software · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tweetangelc/status/2108816222615707796">Andreessen Horowitz Values TypeSafe AI at $7.5B; Jev Already Embedded in Fortune 500 Software</a></h3>
+<p>According to Bloomberg, Andreessen Horowitz valued TypeSafe AI at $7.5B. Weeks after its Jev model shipped, a third of Fortune 500 firms have embedded it in their own software, not a chat window.</p>
+<p><strong>中文摘要：</strong>据Bloomberg报道，Andreessen Horowitz对TypeSafe AI给出75亿美元估值，其Jev模型发布数周后，已有三分之一的财富500强企业将其嵌入自家软件而非聊天窗口。</p>
+<p><strong>Angel Castro</strong> · @tweetangelc · 2026-10-10T07:05:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/tweetangelc/status/2108816222615707796">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/y4nag1d/status/2108748166137057445"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Finally Jev! Want to integrate into Copasta · 原帖视频截图" width="100%"></a>

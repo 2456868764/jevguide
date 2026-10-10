@@ -1,9 +1,11 @@
 # CyrilXBT
 
-16 Jev showcases.
+18 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T07:45:08.000Z | [Jev cuts coding agent bill by 68.8%](https://x.com/cyrilXBT/status/2108826149006811403) | 软件开发 | CyrilXBT | 2.8K |
+| 2026-10-10T06:45:09.000Z | [Jev: Low-cost decision-making, Opus handles deep thinking](https://x.com/cyrilXBT/status/2108811054834909231) | 智能体 | CyrilXBT | 3.1K |
 | 2026-10-02T02:30:02.000Z | [Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team](https://x.com/cyrilXBT/status/2105847748893536468) | 智能体 | CyrilXBT | 1.9K |
 | 2026-09-30T10:15:02.000Z | [Configure an AI agent team with Opus 5.5, Jev handles routing](https://x.com/cyrilXBT/status/2105239994545946849) | 智能体 | CyrilXBT | 3.4K |
 | 2026-09-27 | [Open Source Jev: Open Jev Runs in Your Browser](https://x.com/cyrilXBT/status/2104130177467076761) | 开发资源 | CyrilXBT | 3.1K |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 356 | 144 | 212 | 419K |
+| 358 | 144 | 214 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vintcessun/status/2108833925741375981"><img src="https://pbs.twimg.com/media/HUQVRolbEAA97zk?format=jpg&amp;name=large" alt="Using Jev Model to Judge Ticket Priority: MCP Connector Example · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vintcessun/status/2108833925741375981">Using Jev Model to Judge Ticket Priority: MCP Connector Example</a></h3>
+<p>Introduces a Go-written MCP connector that delegates ticket urgency judgment to models like Jev, returning structured results and probabilities for threshold-based branching or human handoff.</p>
+<p><strong>中文摘要：</strong>介绍一个Go编写的MCP连接器，将工单急缓判断交给Jev等模型，直接返回结构化结果与概率，按阈值分流或转人工。</p>
+<p><strong>恒星sun</strong> · @vintcessun · 2026-10-10T08:16:02.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 64</p>
+<p><a href="https://x.com/vintcessun/status/2108833925741375981">在 X 查看原帖</a> · <a href="https://t.co/yVwz7UPt5E">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xiax0603/status/2108810009949970694"><img src="https://pbs.twimg.com/media/HUP_gxEbQAAVx2K?format=jpg&amp;name=medium" alt="Unsloth Releases Free Notebooks to Turn Ordinary LLMs into Jev-Style Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xiax0603/status/2108810009949970694">Unsloth Releases Free Notebooks to Turn Ordinary LLMs into Jev-Style Decision Models</a></h3>
+<p>The post introduces free Colab/Kaggle notebooks from Unsloth that train large models like Qwen and Gemma into Jev/Laya/Clef-style decision models on minimal VRAM, with no extra cost.</p>
+<p><strong>中文摘要：</strong>该帖子介绍Unsloth发布的免费Colab/Kaggle笔记本，可在极低显存下训练Qwen、Gemma等大型模型，使其成为Jev/Laya/Clef风格的决策模型，无需额外成本。</p>
+<p><strong>xiax｜AI &amp; Agents</strong> · @xiax0603 · 2026-10-10T06:41:00.000Z</p>
+<p>💬 9 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 517</p>
+<p><a href="https://x.com/xiax0603/status/2108810009949970694">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/justsomeguy741/status/2108694004271550635"><img src="https://pbs.twimg.com/amplify_video_thumb/2108571764716417024/img/qHXCOEI0uYMwBOSJ.jpg" alt="Jev Decision Interface Expands Open Ecosystem · 原帖视频截图" width="100%"></a>

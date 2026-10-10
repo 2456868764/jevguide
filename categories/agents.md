@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 438 | 240 | 200 | 3.0M |
+| 442 | 243 | 201 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Kaizen_DSP/status/2108835902072209693"><img src="https://pbs.twimg.com/media/HUQXE52agAIJsUh?format=jpg&amp;name=large" alt="Self State: A New Layer on Agentic LLMs Using JEV and Global Workspace Theory · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Kaizen_DSP/status/2108835902072209693">Self State: A New Layer on Agentic LLMs Using JEV and Global Workspace Theory</a></h3>
+<p>Kaizen DSP clarifies that SelfState.si is not it, stating Self State is a new layer on top of Agentic LLMs using JEV and Global Workspace Theory.</p>
+<p><strong>中文摘要：</strong>Kaizen DSP 澄清 SelfState.si 并非所指，指出 Self State 是基于 JEV 和全局工作空间理论构建在 Agentic LLM 之上的新层。</p>
+<p><strong>Kaizen DSP</strong> · @Kaizen_DSP · 2026-10-10T08:23:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/Kaizen_DSP/status/2108835902072209693">在 X 查看原帖</a> · <a href="https://t.co/icHsp17OO9">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SiftByte/status/2108814019650044145"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Race to Decision Models: Jev, Decision API, and Microsoft · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SiftByte/status/2108814019650044145">Race to Decision Models: Jev, Decision API, and Microsoft</a></h3>
+<p>The author points out that the decision model space is becoming a new race, with Jev, Decision API, and Microsoft&#39;s decision model emerging, and believes these models will be integrated into large models for decision-making.</p>
+<p><strong>中文摘要：</strong>作者指出决策模型领域正形成新的竞赛，先后出现 Jev、Decision API 和微软的决策模型，并认为这些模型将被集成到大模型中用于决策。</p>
+<p><strong>Dhaval</strong> · @SiftByte · 2026-10-10T06:56:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/SiftByte/status/2108814019650044145">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cyrilXBT/status/2108811054834909231"><img src="https://pbs.twimg.com/amplify_video_thumb/2108811017476255744/img/JI4YTAZMqN8fzEAb.jpg" alt="Jev: Low-cost decision-making, Opus handles deep thinking · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cyrilXBT/status/2108811054834909231">Jev: Low-cost decision-making, Opus handles deep thinking</a></h3>
+<p>This tweet emphasizes that in an agent, Jev handles decisions like reading files, routing models, retrying or giving up, and running tests for $0.042 per million tokens, while Opus 5.5 does the hard thinking, with both collaborating in the same agent.</p>
+<p><strong>中文摘要：</strong>这条推文强调在智能体中，Jev以每百万token 0.042美元的成本处理诸如读取文件、路由模型、重试或放弃、运行测试等决策问题，而Opus 5.5负责困难推理，两者在同一agent中协作。</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT · 2026-10-10T06:45:09.000Z</p>
+<p>💬 4 &nbsp; 🔁 9 &nbsp; ♡ 52 &nbsp; 📊 3.1K</p>
+<p><a href="https://x.com/cyrilXBT/status/2108811054834909231">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Jixiang2026/status/2108802510064595156"><img src="https://pbs.twimg.com/media/HT-a6gmXIAAk5ga.jpg" alt="Jev-class models replace if/else with real-time decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Jixiang2026/status/2108802510064595156">Jev-class models replace if/else with real-time decisions</a></h3>
+<p>The post describes Jev-class models&#39; real-time decision-making capabilities across feed filtering, ad detection, agent routing, browser actions, game AI, robot reflexes, moderation, and triage, highlighting their potential to replace traditional conditional logic.</p>
+<p><strong>中文摘要：</strong>帖子介绍了Jev-class模型在信息流过滤、广告检测、代理路由、浏览器操作、游戏AI、机器人反射、内容审核和分流等场景中的实时决策能力，强调其替代传统条件逻辑的潜力。</p>
+<p><strong>Ji</strong> · @Jixiang2026 · 2026-10-10T06:11:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 63</p>
+<p><a href="https://x.com/Jixiang2026/status/2108802510064595156">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kaizen_DSP/status/2108745089183064334"><img src="https://pbs.twimg.com/media/HUPD6BpbMAA2_yv?format=jpg&amp;name=900x900" alt="AI Expert Predicts AGI Will Emerge from Agent Systems · 原帖图片" width="100%"></a>

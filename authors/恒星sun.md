@@ -1,9 +1,10 @@
 # 恒星sun
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T08:16:02.000Z | [Using Jev Model to Judge Ticket Priority: MCP Connector Example](https://x.com/vintcessun/status/2108833925741375981) | 开发资源 | 恒星sun | 64 |
 | 2026-10-10T02:37:02.000Z | [Jev-Powered Voice Browser Control](https://x.com/vintcessun/status/2108748612981477663) | 自动化工作流 | 恒星sun | 117 |
 | 2026-10-09T11:30:08.000Z | [vllm-jev: Integrating Jev Decision Models into vLLM](https://x.com/vintcessun/status/2108520382252945790) | 接入动态 | 恒星sun | 167 |
 | 2026-10-06T11:11:03.000Z | [TypeSafe Jev Model Resource Collection](https://x.com/vintcessun/status/2107428417499234333) | 开发资源 | 恒星sun | 61 |

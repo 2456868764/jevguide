@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5680</strong><br>curated posts</td>
-<td align="center"><strong>2865</strong><br>original videos</td>
+<td align="center"><strong>5714</strong><br>curated posts</td>
+<td align="center"><strong>2877</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1036</strong> showcases · <strong>423</strong> videos</p>
+<p><strong>1043</strong> showcases · <strong>427</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>591</strong> showcases · <strong>295</strong> videos</p>
+<p><strong>595</strong> showcases · <strong>297</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>462</strong> showcases · <strong>213</strong> videos</p>
+<p><strong>473</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>438</strong> showcases · <strong>240</strong> videos</p>
+<p><strong>442</strong> showcases · <strong>243</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>399</strong> showcases · <strong>168</strong> videos</p>
+<p><strong>401</strong> showcases · <strong>168</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>356</strong> showcases · <strong>144</strong> videos</p>
+<p><strong>358</strong> showcases · <strong>144</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>282</strong> showcases · <strong>166</strong> videos</p>
+<p><strong>283</strong> showcases · <strong>166</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>241</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>242</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>89</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>90</strong> showcases · <strong>29</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>41</strong> showcases · <strong>19</strong> videos</p>
+<p><strong>42</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/emohanx/status/2108755804413403492"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft builds Jev competitor but avoids comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/emohanx/status/2108755804413403492">Microsoft builds Jev competitor but avoids comparison</a></h3>
-<p>The post says Microsoft makes a competitor to Jev but does not want to compare it directly, implying avoidance of direct comparison.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
-<p><strong>Mohan Elango</strong> · @emohanx</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/HIMANSH02282121/status/2108837438252634563"><img src="https://pbs.twimg.com/media/HT-5msnaEAAREi2?format=jpg&amp;name=medium" alt="TypeSafe AI introduces Jev: the first &#39;System One&#39; decision model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HIMANSH02282121/status/2108837438252634563">TypeSafe AI introduces Jev: the first &#39;System One&#39; decision model</a></h3>
+<p>Jev by TypeSafe AI is a new decision model that outputs pure probabilities and confidence scores from context and typed questions in 70–500ms, with parallel evaluation of all choices — no text generation means less token waste and no parsing overhead.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>HIMANSHU TIWARI</strong> · @HIMANSH02282121</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/introsp3ctor/status/2108754622370525627"><img src="https://pbs.twimg.com/media/HUPNJwBXAAES3CB?format=jpg&amp;name=small" alt="Distilled JEB is not distilled Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/introsp3ctor/status/2108754622370525627">Distilled JEB is not distilled Jev</a></h3>
-<p>Clarification that distilled JEB is different from distilled Jev.</p>
-<p><strong>40</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
-<p><strong>Mike Dupont</strong> · @introsp3ctor</p>
+<a href="https://x.com/hadimaster65555/status/2108836310492606757"><img src="https://pbs.twimg.com/media/HUQXcL2bEAADeS6?format=jpg&amp;name=900x900" alt="Model Benchmark: Outperforms Jev and OpenAI in Sentiment Analysis, Higher Latency · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadimaster65555/status/2108836310492606757">Model Benchmark: Outperforms Jev and OpenAI in Sentiment Analysis, Higher Latency</a></h3>
+<p>This post benchmarks a model against Jev and OpenAI on Indonesian sentiment analysis SmSA and CASIA 2.0 tampered image detection. It performs better than Jev and OpenAI in sentiment analysis but with higher latency, and loses in tampered image detection.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Raden Muhammad Hadi</strong> · @hadimaster65555</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/vintcessun/status/2108748612981477663"><img src="https://pbs.twimg.com/media/HUPHrzeacAAmMeU?format=jpg&amp;name=large" alt="Jev-Powered Voice Browser Control · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vintcessun/status/2108748612981477663">Jev-Powered Voice Browser Control</a></h3>
-<p>jev-voice-browser splits voice control into intent detection and execution: Jev only determines intent and selects page elements, returning probabilities in about 300 ms. Code decides whether to execute, wait, or confirm, Playwright performs actions, and the model does not rewrite user input.</p>
-<p><strong>117</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 117</p>
-<p><strong>恒星sun</strong> · @vintcessun</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/Kaizen_DSP/status/2108835902072209693"><img src="https://pbs.twimg.com/media/HUQXE52agAIJsUh?format=jpg&amp;name=large" alt="Self State: A New Layer on Agentic LLMs Using JEV and Global Workspace Theory · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Kaizen_DSP/status/2108835902072209693">Self State: A New Layer on Agentic LLMs Using JEV and Global Workspace Theory</a></h3>
+<p>Kaizen DSP clarifies that SelfState.si is not it, stating Self State is a new layer on top of Agentic LLMs using JEV and Global Workspace Theory.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Kaizen DSP</strong> · @Kaizen_DSP</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/y4nag1d/status/2108748166137057445"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Finally Jev! Want to integrate into Copasta · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/y4nag1d/status/2108748166137057445">Finally Jev! Want to integrate into Copasta</a></h3>
-<p>The author says Jev has finally arrived, hopes to integrate it into Copasta, and looks forward to the price dropping to an easy-to-use level.</p>
-<p><strong>41</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
-<p><strong>やなぎだ</strong> · @y4nag1d</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/TypeLLM/status/2108834353153544367"><img src="https://pbs.twimg.com/media/HUQU8QfbgAAHr9w?format=jpg&amp;name=medium" alt="TypeLLM API New Model Pushes Classification Limit to 512 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TypeLLM/status/2108834353153544367">TypeLLM API New Model Pushes Classification Limit to 512</a></h3>
+<p>TypeLLM announces a new model on its API, enabling classification across up to 512 options with probabilities and confidence scores for each choice. This extends beyond existing models like OpenAI Decisions, Jev, Microsoft Decision-1, and Cloudflare Clef, which are capped at 255 options.</p>
+<p><strong>80</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 80</p>
+<p><strong>TypeLLM</strong> · @TypeLLM</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/emohanx/status/2108755804413403492"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft builds Jev competitor but avoids comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/emohanx/status/2108755804413403492">Microsoft builds Jev competitor but avoids comparison</a></h3>
-<p>The post says Microsoft makes a competitor to Jev but does not want to compare it directly, implying avoidance of direct comparison.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
-<p><strong>Mohan Elango</strong> · @emohanx</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/HIMANSH02282121/status/2108837438252634563"><img src="https://pbs.twimg.com/media/HT-5msnaEAAREi2?format=jpg&amp;name=medium" alt="TypeSafe AI introduces Jev: the first &#39;System One&#39; decision model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HIMANSH02282121/status/2108837438252634563">TypeSafe AI introduces Jev: the first &#39;System One&#39; decision model</a></h3>
+<p>Jev by TypeSafe AI is a new decision model that outputs pure probabilities and confidence scores from context and typed questions in 70–500ms, with parallel evaluation of all choices — no text generation means less token waste and no parsing overhead.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>HIMANSHU TIWARI</strong> · @HIMANSH02282121</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/y4nag1d/status/2108748166137057445"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Finally Jev! Want to integrate into Copasta · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/y4nag1d/status/2108748166137057445">Finally Jev! Want to integrate into Copasta</a></h3>
-<p>The author says Jev has finally arrived, hopes to integrate it into Copasta, and looks forward to the price dropping to an easy-to-use level.</p>
-<p><strong>41</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
-<p><strong>やなぎだ</strong> · @y4nag1d</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/TypeLLM/status/2108834353153544367"><img src="https://pbs.twimg.com/media/HUQU8QfbgAAHr9w?format=jpg&amp;name=medium" alt="TypeLLM API New Model Pushes Classification Limit to 512 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TypeLLM/status/2108834353153544367">TypeLLM API New Model Pushes Classification Limit to 512</a></h3>
+<p>TypeLLM announces a new model on its API, enabling classification across up to 512 options with probabilities and confidence scores for each choice. This extends beyond existing models like OpenAI Decisions, Jev, Microsoft Decision-1, and Cloudflare Clef, which are capped at 255 options.</p>
+<p><strong>80</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 80</p>
+<p><strong>TypeLLM</strong> · @TypeLLM</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/sleepy0x13/status/2108746780145770928"><img src="https://pbs.twimg.com/amplify_video_thumb/2108603658510434304/img/3NMC825Nhz-jiyh8.jpg" alt="Comments on TypeSafe AI Valuation Narrative · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sleepy0x13/status/2108746780145770928">Comments on TypeSafe AI Valuation Narrative</a></h3>
-<p>The author comments on a16z&#39;s narrative that &#39;intelligence becomes cheaper&#39; justifies TypeSafe AI&#39;s $7.5B valuation, and mentions watching an interview with founder Diogo.</p>
-<p><strong>397</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 397</p>
-<p><strong>sleepy.md</strong> · @sleepy0x13</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/vintcessun/status/2108833925741375981"><img src="https://pbs.twimg.com/media/HUQVRolbEAA97zk?format=jpg&amp;name=large" alt="Using Jev Model to Judge Ticket Priority: MCP Connector Example · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vintcessun/status/2108833925741375981">Using Jev Model to Judge Ticket Priority: MCP Connector Example</a></h3>
+<p>Introduces a Go-written MCP connector that delegates ticket urgency judgment to models like Jev, returning structured results and probabilities for threshold-based branching or human handoff.</p>
+<p><strong>64</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 64</p>
+<p><strong>恒星sun</strong> · @vintcessun</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/mp3michael/status/2108734960865833274"><img src="https://pbs.twimg.com/media/HUO7RTXa8AAJISF?format=jpg&amp;name=medium" alt="Cloudflare releases cheaper Jev competitor · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mp3michael/status/2108734960865833274">Cloudflare releases cheaper Jev competitor</a></h3>
-<p>The author notes that Cloudflare has launched a cheaper competitor to Jev, highlighting the brutal competition in AI services.</p>
-<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
-<p><strong>MR - Michael Robertson</strong> · @mp3michael</p>
+<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
+<a href="https://x.com/cyrilXBT/status/2108826149006811403"><img src="https://pbs.twimg.com/amplify_video_thumb/2108826115842408448/img/hZLJcuxzvZvHAX2f.jpg" alt="Jev cuts coding agent bill by 68.8% · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2108826149006811403">Jev cuts coding agent bill by 68.8%</a></h3>
+<p>Jev makes four decisions—context, routing, recovery, and testing—to cut coding agent costs by 68.8%, while Opus 5.5 writes the code.</p>
+<p><strong>2.8K</strong> views · 💬 7 &nbsp; 🔁 9 &nbsp; ♡ 54 &nbsp; 📊 2.8K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 591 | 295 | 298 | 3.6M |
+| 595 | 297 | 300 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DracoVibeCoding/status/2108831202832527498"><img src="https://pbs.twimg.com/media/HUQSx8TWgAAOvNR?format=png&amp;name=medium" alt="Nace Drex 1.5 vs Jev Model Comparison on Decision Index · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DracoVibeCoding/status/2108831202832527498">Nace Drex 1.5 vs Jev Model Comparison on Decision Index</a></h3>
+<p>The post shows Nace Drex 1.5 scoring 58.08 on the Decision Index, slightly ahead of Jev&#39;s 57.96, and mentions using the Jev API, open weights, and low-cost deployment.</p>
+<p><strong>中文摘要：</strong>帖子展示了Nace Drex 1.5在Decision Index上以58.08分略胜Jev的57.96分，并提及使用Jev API、开源权重及低成本部署。</p>
+<p><strong>draco</strong> · @DracoVibeCoding · 2026-10-10T08:05:13.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 85</p>
+<p><a href="https://x.com/DracoVibeCoding/status/2108831202832527498">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jaenanft/status/2108822614508789856"><img src="https://pbs.twimg.com/media/HUMcvaybcAApF-O?format=jpg&amp;name=medium" alt="Swarms Framework v16 OverClock: Three Question Types with Jev Integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jaenanft/status/2108822614508789856">Swarms Framework v16 OverClock: Three Question Types with Jev Integration</a></h3>
+<p>The DecisionModel in Swarms Framework v16 OverClock supports three question types: choice, score, and true/false. Use TypeSafe&#39;s Jev or Cloudflare&#39;s Clef, and let the confidence number decide what ships automatically.</p>
+<p><strong>中文摘要：</strong>Swarms Framework v16 OverClock 的 DecisionModel 支持三种类型的问题：选择、评分、真/假。用户可使用 TypeSafe 的 Jev 或 Cloudflare 的 Clef，根据置信度自动决定发布内容。</p>
+<p><strong>Jaenan</strong> · @jaenanft · 2026-10-10T07:31:05.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 58</p>
+<p><a href="https://x.com/jaenanft/status/2108822614508789856">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heyyritik_/status/2108806701185179703"><img src="https://pbs.twimg.com/amplify_video_thumb/2108795917382070272/img/KNocyR5c4ABdH-Oh.jpg" alt="Jev low-cost calls with Opus reasoning architecture · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/heyyritik_/status/2108806701185179703">Jev low-cost calls with Opus reasoning architecture</a></h3>
+<p>Jev costs only $0.042 per million input tokens with free output, ideal for small decisions, while Opus handles complex reasoning. Total cost is about 100x cheaper than using Opus alone. Full architecture and code included.</p>
+<p><strong>中文摘要：</strong>Jev每百万输入token仅需$0.042，输出免费，适合处理简单决定；Opus负责复杂推理，整体成本约为Opus单用的1/100。帖子附有完整架构和代码。</p>
+<p><strong>Ritik ☄️</strong> · @heyyritik_ · 2026-10-10T06:27:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/heyyritik_/status/2108806701185179703">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KEI_Ediforce/status/2108804179968049394"><img src="https://pbs.twimg.com/amplify_video_thumb/2108804091837313024/img/ubHhvHjMlyWueqa-.jpg" alt="Ollama now supports Jev API for running new judgment models locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KEI_Ediforce/status/2108804179968049394">Ollama now supports Jev API for running new judgment models locally</a></h3>
+<p>Ollama now supports calls following the Jev API, letting users try models like Nimble, Tev1, and Clef locally. AWS and Perplexity have also released new judgment models. However, evaluation methods still vary across providers; the author plans to compare them on his Mac using the same 16 samples.</p>
+<p><strong>中文摘要：</strong>Ollama 已支持按 Jev 的 API 方式调用，用户可以在本地尝试 Nimble、Tev1、Clef 等模型。AWS 和 Perplexity 也各自发布了新的判断模型。不过目前各家评估方法仍不统一，作者计划用自己的 Mac 在同一组 16 个样本上进行比较。</p>
+<p><strong>KEI_Ediforce</strong> · @KEI_Ediforce · 2026-10-10T06:17:50.000Z</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/KEI_Ediforce/status/2108804179968049394">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somaco_sf/status/2108716902575194406"><img src="https://pbs.twimg.com/media/HUOn4sZagAAc35N?format=jpg&amp;name=large" alt="Integrating Muse Browser Wrapper into a Rust File Explorer · 原帖图片" width="100%"></a>

@@ -2,6 +2,22 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T00:14:21.000Z | [Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation](https://x.com/sequoia/status/2108712705041608769) | 金融 | Sequoia Capital | 754 |
+| 2026-10-10T00:05:46.000Z | [Jev model outperforms dedicated cross-encoder in search reranking](https://x.com/ujwaljibhkate/status/2108710546795049323) | 知识与搜索 | Ujwal Jibhkate | 1 |
+| 2026-10-10T00:05:37.000Z | [question-kit: A developer kit for building on Jev](https://x.com/NickGideo/status/2108710506987205109) | 开发者工具 | Nick | 7 |
+| 2026-10-10T00:03:34.000Z | [Jev exits stealth and raises massive Series A](https://x.com/airesearch12/status/2108709992731742323) | 产品发布 | Florian S | 50 |
+| 2026-10-10T00:01:20.000Z | [Building an Automated Decision Quant Bot with Jev](https://x.com/TradingbitAi/status/2108709430334472359) | 金融 | Tradingbit | 13 |
+| 2026-10-09T23:56:21.000Z | [Jev has no moat](https://x.com/AIPonderx/status/2108708175255916794) | 社区实践 | AIPonder | 4 |
+| 2026-10-09T23:54:26.000Z | [TypeSafe Jev Arrives on Microsoft Foundry](https://x.com/hatsune_/status/2108707691254415557) | 接入动态 | Akira Hatsune | 29 |
+| 2026-10-09T23:53:21.000Z | [Microsoft-Decision-1, MS Version of Jev, Appears](https://x.com/yugen_matuni/status/2108707419677426132) | 接入动态 | まつにぃ | 453 |
+| 2026-10-09T23:52:54.000Z | [The Potential of Training Your Own Jev Model Locally](https://x.com/0x0SojalSec/status/2108707305663647845) | 社区实践 | Md Ismail Šojal 🕷️ | 272 |
+| 2026-10-09T23:51:58.000Z | [Microsoft begins offering Jev as managed API](https://x.com/kawamoto_LINER/status/2108707072103862575) | 接入动态 | 河本_Kawamoto \| WRC2026・北京🤖✨️ | 60 |
+| 2026-10-09T23:47:53.000Z | [Cloudflare Clef-flash vs Jev comparison](https://x.com/MikelEcheve/status/2108706046470402285) | 社区实践 | Mikel | 35 |
+| 2026-10-09T23:40:34.000Z | [Integrating JEV and Other AI Models into a Trading Agent](https://x.com/Sprytixl/status/2108704202465685851) | 金融 | Sprytix | 180 |
+| 2026-10-09T23:40:30.000Z | [Train Your Own Jev Model Locally on 8GB VRAM](https://x.com/0x0SojalSec/status/2108704187760734289) | 开发者工具 | Md Ismail Šojal 🕷️ | 524 |
+| 2026-10-09T23:38:06.000Z | [Jev Stands Out in Internal Benchmark](https://x.com/gpt3_eth/status/2108703582883348754) | 社区实践 | Frank ✈️ (📜,📜) | 27 |
+| 2026-10-09T23:30:18.000Z | [Microsoft enters decision model arena after Jev's success](https://x.com/somi_ai/status/2108701619265372399) | 智能体 | Somi | 122 |
+| 2026-10-09T23:23:06.000Z | [Microsoft releases Jev-like AI model](https://x.com/AR_Ojisan/status/2108699806323655143) | 社区实践 | ARおじさん / MESON CEO | 198 |
 | 2026-10-09T23:16:32.000Z | [ElBruno.AI.Decisions: A .NET Decision API with Jev](https://x.com/elbruno/status/2108698155269415182) | 开发者工具 | El Bruno 🇨🇦 🎗️ | 7 |
 | 2026-10-09T23:08:49.000Z | [Jev Model: Probabilistic Judgments, Not Text](https://x.com/pdurdenj/status/2108696212878602505) | 智能体 | Prajjwal · nanoserve | 2 |
 | 2026-10-09T23:04:24.000Z | [nuxt-local-model v0.2.x adds Jev-like decision model support](https://x.com/aft1n_/status/2108695100444311896) | 产品发布 | Sergii Yarochevskyi 🇺🇦 | 7 |
@@ -34,6 +50,14 @@
 | 2026-10-09T21:43:12.000Z | [Jev Powers Generative Gaming and Roleplay](https://x.com/jadenarthurgray/status/2108674667712217374) | 游戏 | jaden gray | 94 |
 | 2026-10-09T21:43:06.000Z | [Community user compares Jev with OpenAI Decisions API](https://x.com/sarimrmalik/status/2108674642458337578) | 社区实践 | Sarim Malik | 371 |
 | 2026-10-09T21:41:13.000Z | [Plans to compare Jev with ChatGPT](https://x.com/JoeNicol_/status/2108674168468463890) | 社区实践 | Joe Nicol | 3 |
+| 2026-10-09T21:39:47.000Z | [Open-Jev Neuromorphic Low-Latency Reasoning Experiment on ARC-AGI](https://x.com/sneed_and_feed/status/2108673807183679902) | 科研 | chud | 24 |
+| 2026-10-09T21:38:00.000Z | [Microsoft Ships Decision-1, Jev 1.13 Ranked for Comparison](https://x.com/notanotherbench/status/2108673358258970768) | 社区实践 | Not Another Bench | 13 |
+| 2026-10-09T21:34:41.000Z | [The Value of Jev Decision Models in Enterprise Governance and Integration](https://x.com/KenGrayAI/status/2108672521574703136) | 自动化工作流 | Ken Gray | 24 |
+| 2026-10-09T21:32:10.000Z | [Claude Code Setup Prompt with Jev + Opus 5.5](https://x.com/Greshamtrade/status/2108671889744826612) | 自动化工作流 | Gresham | 24 |
+| 2026-10-09T21:31:54.000Z | [Microsoft Releases System One Model, Jev Sparks Discussions](https://x.com/Arindam_1729/status/2108671822845907052) | 产品发布 | Arindam Majumder 𝕏 | 1.0K |
+| 2026-10-09T21:30:50.000Z | [Pluggable Jev Interface Avoids Vendor Lock-in](https://x.com/LearnOceanBase/status/2108671555115053303) | 开发者工具 | Learn OceanBase | 10 |
+| 2026-10-09T21:30:22.000Z | [Best Jev Decision Model Explanation Shared](https://x.com/heman10x/status/2108671435468320788) | 社区实践 | Hemant | 6 |
+| 2026-10-09T21:20:46.000Z | [Community Benchmark: mercury-decide-free beats Jev on s1bench](https://x.com/ItsCuthulhu/status/2108669021843521802) | 社区实践 | Cuth | 63 |
 | 2026-10-09T16:42:05.000Z | [How to Fairly Compare Jev with GPT](https://x.com/PromptQL/status/2108598887199997989) | 智能体 | PromptQL | 23 |
 | 2026-10-09T16:39:30.000Z | [TypeSafe AI Raises $870M Series A, Jev Launch Highlights](https://x.com/RobxBroderick/status/2108598238144012527) | 金融 | Rob Broderick | 24 |
 | 2026-10-09T16:36:57.000Z | [Jev engineering cuts AI bills by 90%](https://x.com/polydao/status/2108597594817474744) | 自动化工作流 | Mr. Buzzoni | 119 |
@@ -78,27 +102,3 @@
 | 2026-10-09T13:57:11.000Z | [Experience sharing: Jev Signal File as an assistant cuts AI bill](https://x.com/polyhermaeus/status/2108557388458721758) | 生产力 | hermaeus | 54 |
 | 2026-10-09T13:57:01.000Z | [Vela 2.0: RAG without a generative LLM](https://x.com/XunzhuoLiu/status/2108557349799817217) | 产品发布 | Xunzhuo | 366 |
 | 2026-10-09T13:45:25.000Z | [Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days](https://x.com/desireco/status/2108554428529901911) | 社区实践 | Zen Superman | 1 |
-| 2026-10-09T13:40:47.000Z | [JEV model accuracy comparison on code repair benchmarks](https://x.com/imdevman/status/2108553261397717045) | 开发者工具 | imdevman | 1 |
-| 2026-10-09T13:40:46.000Z | [Improving Code Graph Analysis Accuracy with JEV](https://x.com/imdevman/status/2108553256507175054) | 开发者工具 | imdevman | 3 |
-| 2026-10-09T13:36:35.000Z | [TypeSafe AI raises $870M at $7.5B valuation](https://x.com/dealroomnews/status/2108552206354190693) | 企业运营 | Dealroom News | 6 |
-| 2026-10-09T13:30:02.000Z | [Jev: Sort Emails and Tickets with a Cheap AI](https://x.com/Jamie_within/status/2108550555807199434) | 客户支持 | Jamie Watters | 6 |
-| 2026-10-09T13:24:03.000Z | [Community Debates Jev's Shrinking Moat](https://x.com/sleepy0x13/status/2108549051931349352) | 社区实践 | sleepy.md | 232 |
-| 2026-10-09T13:20:43.000Z | [a16z Leads Investment, AI Decision-Making Model Jev Developer TypeSafe AI Valued at $7.5B](https://x.com/PANewsCN/status/2108548213288645004) | 金融 | PANews丨APP全面升级 | 1.2K |
-| 2026-10-09T13:20:22.000Z | [Jev Model Selection Advice and Benchmark Comparison](https://x.com/airesearch12/status/2108548124063240389) | 开发资源 | Florian S | 19 |
-| 2026-10-09T13:16:28.000Z | [Jev Fast Classification AI Model Practice](https://x.com/AnalyticsCamp/status/2108547144432968065) | 社区实践 | Analytics Camp | 21 |
-| 2026-10-09T13:15:09.000Z | [Can Haiku 5.5 replace decision models? Jev vs Clef benchmark](https://x.com/0x5am5/status/2108546811048681722) | 社区实践 | Samuel Gregory | 23 |
-| 2026-10-09T13:05:46.000Z | [Jev Model's Third Round Test in Agent Routing](https://x.com/BenENewton/status/2108544448707588141) | 社区实践 | Ben Newton ベン | 11 |
-| 2026-10-09T12:57:00.000Z | [TypeSafe Kept JEV Weights Closed, GitHub Rebuilt It in 8 Days with 1,142 Repos](https://x.com/0xGatiti/status/2108542243678179785) | 社区实践 | Gatiti | 19 |
-| 2026-10-09T12:52:52.000Z | [Jev + Opus 5.5 Toolbox: A 200-Agent Coding Setup](https://x.com/mika_systems/status/2108541205638205699) | 智能体 | Mika | 447 |
-| 2026-10-09T12:46:58.000Z | [Turn 672 Life Tips into a Playable 3D Game with Jev for Retrieval](https://x.com/ytiomin/status/2108539717247791324) | 游戏 | ⛩ytiomin🏰 | 17 |
-| 2026-10-09T12:40:32.000Z | [Jev-driven memory model](https://x.com/Jayyun98_dev/status/2108538099076854274) | 智能体 | Jay Yun | 8 |
-| 2026-10-09T12:35:28.000Z | [Life Guide Game Integrates Jev Smart Search](https://x.com/ytiomin/status/2108536824314667351) | 社区实践 | ⛩ytiomin🏰 | 10 |
-| 2026-10-09T12:34:46.000Z | [Jev costs ~460x less than Sonnet 4.5](https://x.com/roxitsu/status/2108536647922946063) | 开发资源 | Roxitsu | 35 |
-| 2026-10-09T12:34:12.000Z | [Jev excels on BANKING77 benchmark](https://x.com/septendec/status/2108536504817742192) | 社区实践 | septendec | 5 |
-| 2026-10-09T12:31:58.000Z | [Jev model leads in new benchmark](https://x.com/luongnv89/status/2108535944110330230) | 社区实践 | Luong NGUYEN | 16 |
-| 2026-10-09T12:25:23.000Z | [Opus doesn't believe Jev is fast](https://x.com/andrehfp/status/2108534288496955746) | 社区实践 | André Prado | 5 |
-| 2026-10-09T12:24:41.000Z | [Jev shows overwhelming performance in decision model comparison](https://x.com/septendec/status/2108534112135033061) | 社区实践 | septendec | 10 |
-| 2026-10-09T12:19:15.000Z | [JevBench v1.6.1 Released with Updated Open Model Leaderboard](https://x.com/airesearch12/status/2108532745072775663) | 开发者工具 | Florian S | 214 |
-| 2026-10-09T12:04:54.000Z | [Jev Model API Performance and Cost Comparison](https://x.com/natzir9/status/2108529131713376303) | 社区实践 | Natzir | 10 |
-| 2026-10-09T11:56:27.000Z | [Jev's Performance on Bank Message Classification](https://x.com/plutos_eth/status/2108527006279168494) | 金融 | plutos | 841 |
-| 2026-10-09T11:43:01.000Z | [Discussion on products following Jev model release](https://x.com/xiaogaifun/status/2108523627163578580) | 社区实践 | 小盖 | 108 |

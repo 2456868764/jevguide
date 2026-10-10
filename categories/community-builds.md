@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1021 | 416 | 609 | 3.0M |
+| 1029 | 420 | 613 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIPonderx/status/2108708175255916794"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Jev has no moat · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AIPonderx/status/2108708175255916794">Jev has no moat</a></h3>
+<p>A brief comment stating that the Jev model lacks a competitive moat.</p>
+<p><strong>中文摘要：</strong>一条关于Jev模型缺乏竞争优势的简短评论。</p>
+<p><strong>AIPonder</strong> · @AIPonderx · 2026-10-09T23:56:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/AIPonderx/status/2108708175255916794">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0x0SojalSec/status/2108707305663647845"><img src="https://pbs.twimg.com/media/HUOh5YYaUAA_hDy?format=jpg&amp;name=medium" alt="The Potential of Training Your Own Jev Model Locally · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0x0SojalSec/status/2108707305663647845">The Potential of Training Your Own Jev Model Locally</a></h3>
+<p>The post claims that with just 8GB VRAM, you can train your own Jev model locally and potentially beat Microsoft&#39;s model.</p>
+<p><strong>中文摘要：</strong>帖子称只需8GB显存即可在本地训练自己的Jev模型，并可能击败Microsoft模型。</p>
+<p><strong>Md Ismail Šojal 🕷️</strong> · @0x0SojalSec · 2026-10-09T23:52:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 272</p>
+<p><a href="https://x.com/0x0SojalSec/status/2108707305663647845">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MikelEcheve/status/2108706046470402285"><img src="https://pbs.twimg.com/media/HUOg86nWQAA9QXO?format=jpg&amp;name=medium" alt="Cloudflare Clef-flash vs Jev comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MikelEcheve/status/2108706046470402285">Cloudflare Clef-flash vs Jev comparison</a></h3>
+<p>The post compares median latency, price per million input tokens, and hosted context length between Cloudflare Clef-flash and Jev, noting Jev is pricier with a 24k context.</p>
+<p><strong>中文摘要：</strong>帖子对比了Cloudflare Clef-flash与Jev的中位延迟、每百万输入token价格及托管上下文长度，指出Jev价格更高但上下文为24k。</p>
+<p><strong>Mikel</strong> · @MikelEcheve · 2026-10-09T23:47:53.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/MikelEcheve/status/2108706046470402285">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gpt3_eth/status/2108703582883348754"><img src="https://pbs.twimg.com/amplify_video_thumb/2107846575582052352/img/q76rTDrzjsEmP53s.jpg" alt="Jev Stands Out in Internal Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gpt3_eth/status/2108703582883348754">Jev Stands Out in Internal Benchmark</a></h3>
+<p>An internal benchmark shows that among Perplexity Decider v1.1, Mercury Decide, GPT-6 Luna Decisions, and Jev, Jev is the only model that is fast, cheap, and ZDR-compliant, while also being the most accurate and consistent.</p>
+<p><strong>中文摘要：</strong>一项内部基准测试显示，在Perplexity Decider v1.1、Mercury Decide、GPT-6 Luna Decisions和Jev四款AI决策模型中，Jev是唯一同时满足快速、廉价和ZDR合规要求的模型，且准确性和一致性最高。</p>
+<p><strong>Frank ✈️ (📜,📜)</strong> · @gpt3_eth · 2026-10-09T23:38:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/gpt3_eth/status/2108703582883348754">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AR_Ojisan/status/2108699806323655143"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft releases Jev-like AI model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AR_Ojisan/status/2108699806323655143">Microsoft releases Jev-like AI model</a></h3>
+<p>MESON CEO points out that Microsoft has released a Jev-like AI model, sparking community attention.</p>
+<p><strong>中文摘要：</strong>MESON CEO指出微软也发布了类似Jev的AI模型，引发社区关注。</p>
+<p><strong>ARおじさん / MESON CEO</strong> · @AR_Ojisan · 2026-10-09T23:23:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 198</p>
+<p><a href="https://x.com/AR_Ojisan/status/2108699806323655143">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/keimakawada/status/2108694244370382961"><img src="https://pbs.twimg.com/media/HUOWPSPbIAAVghR?format=jpg&amp;name=medium" alt="Community Discussion: Jev vs. Microsoft Decision-1 · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/keimakawada/status/2108694244370382961">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ShaosuLiu/status/2108692171637612848"><img src="https://pbs.twimg.com/media/HUOT9EPaQAA5Ivr?format=jpg&amp;name=medium" alt="Jev vs. OpenAI Decisions API: A Community Benchmark · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/ShaosuLiu/status/2108692171637612848">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mattiadmr/status/2108687264431689774"><img src="https://pbs.twimg.com/media/HUOP4ZAXYAA0L9c?format=png&amp;name=small" alt="Microsoft&#39;s reaction after TypeSafe launched Jev · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><a href="https://x.com/mattiadmr/status/2108687264431689774">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mattiadmr/status/2108687107460157856"><img src="https://pbs.twimg.com/media/HUOPi7tXsAAXpak?format=png&amp;name=small" alt="Microsoft&#39;s reaction to Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/mattiadmr/status/2108687107460157856">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ThreadedInsight/status/2108683424827621436"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Jev&#39;s popularity prompts frontier labs to build their own decision models · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/ThreadedInsight/status/2108683424827621436">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Solomonrojie/status/2108679013837201770"><img src="https://pbs.twimg.com/amplify_video_thumb/2108678904026189824/img/JlEKGpvSYlxFXqx-.jpg" alt="Jev + Opus Workflow Sharing · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 362</p>
 <p><a href="https://x.com/Solomonrojie/status/2108679013837201770">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/coherencia_plis/status/2108678146455454100"><img src="https://pbs.twimg.com/media/HUOGCL-WMAAYcJ0?format=jpg&amp;name=medium" alt="Jev outperforms OpenAI Decisions API on a simple folder classification task · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +152,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/coherencia_plis/status/2108678146455454100">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sanjayyb7/status/2108675344048013730"><img src="https://pbs.twimg.com/amplify_video_thumb/2108675033094852609/img/JDea50gz6eYI88iz.jpg" alt="User Built Gustavo with Jev: Snap a Menu to Know the Taste · 原帖视频截图" width="100%"></a>
 <br>
@@ -104,8 +165,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 171</p>
 <p><a href="https://x.com/Sanjayyb7/status/2108675344048013730">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sarimrmalik/status/2108674642458337578"><img src="https://pbs.twimg.com/media/HUODZbLXwAAsCF6?format=jpg&amp;name=medium" alt="Community user compares Jev with OpenAI Decisions API · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 371</p>
 <p><a href="https://x.com/sarimrmalik/status/2108674642458337578">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JoeNicol_/status/2108674168468463890"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Plans to compare Jev with ChatGPT · 原帖视频截图" width="100%"></a>
 <br>
@@ -127,6 +188,41 @@
 <p><strong>Joe Nicol</strong> · @JoeNicol_ · 2026-10-09T21:41:13.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/JoeNicol_/status/2108674168468463890">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/notanotherbench/status/2108673358258970768"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Ships Decision-1, Jev 1.13 Ranked for Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/notanotherbench/status/2108673358258970768">Microsoft Ships Decision-1, Jev 1.13 Ranked for Comparison</a></h3>
+<p>The post notes that Microsoft&#39;s Decision-1 targets structured scoring, not chat, and compares it to the closest ranked decision model Jev 1.13 on the people&#39;s board (#191 of 343, 5.7 vibe, 54 voices). It asks how fast system-one models will climb.</p>
+<p><strong>中文摘要：</strong>博主指出微软推出的decision-1面向结构化评分而非聊天，并在人民榜上对比最接近的决策模型Jev 1.13（排名191/343，vibe分数5.7，54个声音）。并提问系统一模型在榜单上攀升的速度。</p>
+<p><strong>Not Another Bench</strong> · @notanotherbench · 2026-10-09T21:38:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/notanotherbench/status/2108673358258970768">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/heman10x/status/2108671435468320788"><img src="https://pbs.twimg.com/media/HUOBVUbawAAchRn?format=jpg&amp;name=medium" alt="Best Jev Decision Model Explanation Shared · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/heman10x/status/2108671435468320788">Best Jev Decision Model Explanation Shared</a></h3>
+<p>The post recommends an explanation of the Jev decision model with interactive examples and use cases, with the link in the comments.</p>
+<p><strong>中文摘要：</strong>帖子推荐了一份包含交互式示例和用例的Jev决策模型解释，链接位于评论中。</p>
+<p><strong>Hemant</strong> · @heman10x · 2026-10-09T21:30:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/heman10x/status/2108671435468320788">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ItsCuthulhu/status/2108669021843521802"><img src="https://pbs.twimg.com/media/HUN_P_waAAAIC5Q?format=jpg&amp;name=medium" alt="Community Benchmark: mercury-decide-free beats Jev on s1bench · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ItsCuthulhu/status/2108669021843521802">Community Benchmark: mercury-decide-free beats Jev on s1bench</a></h3>
+<p>User Cuth shares benchmark results of mercury-decide-free on s1bench: 1.9 decisions/sec, macro accuracy 0.802 vs Jev&#39;s 0.775 (+0.027), with strong performance on vitaminc-dev.</p>
+<p><strong>中文摘要：</strong>用户Cuth分享mercury-decide-free在s1bench上的测试结果：速度1.9决策/秒，宏准确率0.802，相比Jev的0.775高出0.027，并在vitaminc-dev上表现突出。</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu · 2026-10-09T21:20:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><a href="https://x.com/ItsCuthulhu/status/2108669021843521802">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 238 | 152 | 86 | 595K |
+| 240 | 152 | 88 | 595K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>The Daily Tech Feed</strong> · @dailytechonx · 2026-10-09T22:00:05.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/dailytechonx/status/2108678917653450927">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KenGrayAI/status/2108672521574703136"><img src="https://pbs.twimg.com/media/HUOCey3XQAA1Pg2?format=jpg&amp;name=medium" alt="The Value of Jev Decision Models in Enterprise Governance and Integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KenGrayAI/status/2108672521574703136">The Value of Jev Decision Models in Enterprise Governance and Integration</a></h3>
+<p>Ken Gray highlights how Jev demonstrates the value of decision models. For SMBs using Microsoft 365 and Azure, governance and integration are critical. He proposes Microsoft-Decision-1 + Foundry as a standard architecture: frontier LLM reasons → decision model routes → governed workflow acts.</p>
+<p><strong>中文摘要：</strong>Ken Gray指出Jev展现了决策模型的价值，对于使用Microsoft 365和Azure的中小企业，治理和集成至关重要。提议Microsoft-Decision-1与Foundry组合成为标准架构：前沿LLM推理→决策模型路由→治理工作流执行。</p>
+<p><strong>Ken Gray</strong> · @KenGrayAI · 2026-10-09T21:34:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/KenGrayAI/status/2108672521574703136">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Greshamtrade/status/2108671889744826612"><img src="https://pbs.twimg.com/media/HUOB5TNXgAAQGvk?format=jpg&amp;name=medium" alt="Claude Code Setup Prompt with Jev + Opus 5.5 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Greshamtrade/status/2108671889744826612">Claude Code Setup Prompt with Jev + Opus 5.5</a></h3>
+<p>Share a prompt setup for Claude Code: audit your workflow, skip unchanged inputs, batch repeated checks, let Jev handle focused decisions and reserve Opus for analysis, building, and revisions to save tokens, time, and money.</p>
+<p><strong>中文摘要：</strong>分享一个给 Claude Code 的提示配置：审计工作流、跳过未变化的输入、批量合并重复检查，让 Jev 处理聚焦决策，Opus 负责分析、构建和修订，以节省 token、时间和成本。</p>
+<p><strong>Gresham</strong> · @Greshamtrade · 2026-10-09T21:32:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/Greshamtrade/status/2108671889744826612">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

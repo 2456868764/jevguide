@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5627</strong><br>curated posts</td>
-<td align="center"><strong>2841</strong><br>original videos</td>
+<td align="center"><strong>5651</strong><br>curated posts</td>
+<td align="center"><strong>2854</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1021</strong> showcases · <strong>416</strong> videos</p>
+<p><strong>1029</strong> showcases · <strong>420</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>587</strong> showcases · <strong>294</strong> videos</p>
+<p><strong>590</strong> showcases · <strong>295</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>451</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>453</strong> showcases · <strong>211</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>435</strong> showcases · <strong>238</strong> videos</p>
+<p><strong>436</strong> showcases · <strong>239</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>393</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>396</strong> showcases · <strong>166</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>277</strong> showcases · <strong>162</strong> videos</p>
+<p><strong>280</strong> showcases · <strong>164</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>238</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>240</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>112</strong> showcases · <strong>60</strong> videos</p>
+<p><strong>113</strong> showcases · <strong>60</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>88</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>89</strong> showcases · <strong>29</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/elbruno/status/2108698155269415182"><img src="https://pbs.twimg.com/media/HUOY9dWXsAEqMiu?format=jpg&amp;name=medium" alt="ElBruno.AI.Decisions: A .NET Decision API with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/elbruno/status/2108698155269415182">ElBruno.AI.Decisions: A .NET Decision API with Jev</a></h3>
-<p>An open-source .NET API to choose, score, and assess with Microsoft Foundry, local Ollama models, and Jev. Probabilities over paragraphs—less chat, more decisions.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 7</p>
-<p><strong>El Bruno 🇨🇦 🎗️</strong> · @elbruno</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/sequoia/status/2108712705041608769"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sequoia/status/2108712705041608769">Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation</a></h3>
+<p>Sequoia Capital announces investment in TypeSafe AI, stating Jev creates a new category of true &#39;thinking machine&#39; automation, following ChatGPT and Claude Code.</p>
+<p><strong>754</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 754</p>
+<p><strong>Sequoia Capital</strong> · @sequoia</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/pdurdenj/status/2108696212878602505"><img src="https://pbs.twimg.com/media/HUOYB7NXIAAldYp?format=jpg&amp;name=medium" alt="Jev Model: Probabilistic Judgments, Not Text · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pdurdenj/status/2108696212878602505">Jev Model: Probabilistic Judgments, Not Text</a></h3>
-<p>The post discusses the Jev model, which never writes a sentence but outputs typed judgments with probabilities. It mentions the model achieved a $7.5B valuation weeks after launch, that Amazon has already cloned it, and raises questions about pricing the moat.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
-<p><strong>Prajjwal · nanoserve</strong> · @pdurdenj</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/ujwaljibhkate/status/2108710546795049323"><img src="https://pbs.twimg.com/media/HUOk9BaXsAAAJu_?format=jpg&amp;name=medium" alt="Jev model outperforms dedicated cross-encoder in search reranking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ujwaljibhkate/status/2108710546795049323">Jev model outperforms dedicated cross-encoder in search reranking</a></h3>
+<p>A user tested Jev from TypeSafe AI against bge-reranker-v2-m3 and found it produced better search reranking results on 2 of 3 datasets, covering 2,029 test queries.</p>
+<p><strong>1</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Ujwal Jibhkate</strong> · @ujwaljibhkate</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/aft1n_/status/2108695100444311896"><img src="https://pbs.twimg.com/media/HUOUBPJW0AACon_?format=jpg&amp;name=medium" alt="nuxt-local-model v0.2.x adds Jev-like decision model support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aft1n_/status/2108695100444311896">nuxt-local-model v0.2.x adds Jev-like decision model support</a></h3>
-<p>nuxt-local-model v0.2.x introduces Jev-like decision models alongside the existing Transformers.js pipelines, enabling typed answers with probabilities for named questions on client or server.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>Sergii Yarochevskyi 🇺🇦</strong> · @aft1n_</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/NickGideo/status/2108710506987205109"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="question-kit: A developer kit for building on Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NickGideo/status/2108710506987205109">question-kit: A developer kit for building on Jev</a></h3>
+<p>Nick created question-kit for TypeSafe&#39;s Jev, giving developers a kit for building on Jev.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Nick</strong> · @NickGideo</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/keimakawada/status/2108694244370382961"><img src="https://pbs.twimg.com/media/HUOWPSPbIAAVghR?format=jpg&amp;name=medium" alt="Community Discussion: Jev vs. Microsoft Decision-1 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/keimakawada/status/2108694244370382961">Community Discussion: Jev vs. Microsoft Decision-1</a></h3>
-<p>The post notes Microsoft Decision-1 is text-only, on Foundry, and not used for training. It mentions talks comparing Jev in performance/cost, but stresses the importance of making Jev available on the three major clouds.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>けーま</strong> · @keimakawada</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/airesearch12/status/2108709992731742323"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Jev exits stealth and raises massive Series A · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/airesearch12/status/2108709992731742323">Jev exits stealth and raises massive Series A</a></h3>
+<p>Jev released on Sept 15 and announced an $870M Series A at a $7.5B valuation on Oct 9, just 24 days later.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><strong>Florian S</strong> · @airesearch12</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/elbruno/status/2108698155269415182"><img src="https://pbs.twimg.com/media/HUOY9dWXsAEqMiu?format=jpg&amp;name=medium" alt="ElBruno.AI.Decisions: A .NET Decision API with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/elbruno/status/2108698155269415182">ElBruno.AI.Decisions: A .NET Decision API with Jev</a></h3>
-<p>An open-source .NET API to choose, score, and assess with Microsoft Foundry, local Ollama models, and Jev. Probabilities over paragraphs—less chat, more decisions.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 7</p>
-<p><strong>El Bruno 🇨🇦 🎗️</strong> · @elbruno</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/sequoia/status/2108712705041608769"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sequoia/status/2108712705041608769">Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation</a></h3>
+<p>Sequoia Capital announces investment in TypeSafe AI, stating Jev creates a new category of true &#39;thinking machine&#39; automation, following ChatGPT and Claude Code.</p>
+<p><strong>754</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 754</p>
+<p><strong>Sequoia Capital</strong> · @sequoia</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/keimakawada/status/2108694244370382961"><img src="https://pbs.twimg.com/media/HUOWPSPbIAAVghR?format=jpg&amp;name=medium" alt="Community Discussion: Jev vs. Microsoft Decision-1 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/keimakawada/status/2108694244370382961">Community Discussion: Jev vs. Microsoft Decision-1</a></h3>
-<p>The post notes Microsoft Decision-1 is text-only, on Foundry, and not used for training. It mentions talks comparing Jev in performance/cost, but stresses the importance of making Jev available on the three major clouds.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>けーま</strong> · @keimakawada</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/airesearch12/status/2108709992731742323"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Jev exits stealth and raises massive Series A · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/airesearch12/status/2108709992731742323">Jev exits stealth and raises massive Series A</a></h3>
+<p>Jev released on Sept 15 and announced an $870M Series A at a $7.5B valuation on Oct 9, just 24 days later.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><strong>Florian S</strong> · @airesearch12</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/TFelizola91057/status/2108694169975992540"><img src="https://pbs.twimg.com/media/HUOWCTvaUAAl7ZL?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: An AI that produces probabilities, not text · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TFelizola91057/status/2108694169975992540">TypeSafe&#39;s Jev: An AI that produces probabilities, not text</a></h3>
-<p>TypeSafe AI&#39;s Jev model doesn&#39;t generate text; it outputs probabilities to support decision-making. The company raised $870 million at a $7.5 billion valuation.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Thiago Felizola</strong> · @TFelizola91057</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/TradingbitAi/status/2108709430334472359"><img src="https://pbs.twimg.com/media/HUOkCpIaoAATQMJ?format=jpg&amp;name=medium" alt="Building an Automated Decision Quant Bot with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TradingbitAi/status/2108709430334472359">Building an Automated Decision Quant Bot with Jev</a></h3>
+<p>The author shares experience building a quant trading bot with Jev, using large model decision-making to replace fixed rules, placing orders only when conditions are met, reducing frequent stop-losses, and achieving stable profits.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Tradingbit</strong> · @TradingbitAi</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/mattiadmr/status/2108687107460157856"><img src="https://pbs.twimg.com/media/HUOPi7tXsAAXpak?format=png&amp;name=small" alt="Microsoft&#39;s reaction to Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mattiadmr/status/2108687107460157856">Microsoft&#39;s reaction to Jev</a></h3>
-<p>The post quotes Microsoft&#39;s comment after TypeSafe launched Jev, highlighting Jev&#39;s impact.</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>Mattia Dimauro 𓇋</strong> · @mattiadmr</p>
+<a href="https://x.com/MikelEcheve/status/2108706046470402285"><img src="https://pbs.twimg.com/media/HUOg86nWQAA9QXO?format=jpg&amp;name=medium" alt="Cloudflare Clef-flash vs Jev comparison · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MikelEcheve/status/2108706046470402285">Cloudflare Clef-flash vs Jev comparison</a></h3>
+<p>The post compares median latency, price per million input tokens, and hosted context length between Cloudflare Clef-flash and Jev, noting Jev is pricier with a 24k context.</p>
+<p><strong>35</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><strong>Mikel</strong> · @MikelEcheve</p>
 </td>
 </tr>
 </table>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 451 | 209 | 245 | 1.1M |
+| 453 | 211 | 245 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/airesearch12/status/2108709992731742323"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Jev exits stealth and raises massive Series A · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/airesearch12/status/2108709992731742323">Jev exits stealth and raises massive Series A</a></h3>
+<p>Jev released on Sept 15 and announced an $870M Series A at a $7.5B valuation on Oct 9, just 24 days later.</p>
+<p><strong>中文摘要：</strong>Jev 于9月15日发布，10月9日宣布8.7亿美元A轮融资，估值达75亿美元，整个过程仅24天。</p>
+<p><strong>Florian S</strong> · @airesearch12 · 2026-10-10T00:03:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><a href="https://x.com/airesearch12/status/2108709992731742323">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/aft1n_/status/2108695100444311896"><img src="https://pbs.twimg.com/media/HUOUBPJW0AACon_?format=jpg&amp;name=medium" alt="nuxt-local-model v0.2.x adds Jev-like decision model support · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
 <p><a href="https://x.com/aft1n_/status/2108695100444311896">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TFelizola91057/status/2108694169975992540"><img src="https://pbs.twimg.com/media/HUOWCTvaUAAl7ZL?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: An AI that produces probabilities, not text · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/TFelizola91057/status/2108694169975992540">在 X 查看原帖</a> · <a href="https://t.co/FpmmJNvcWh">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abdulrhman_ai/status/2108689250090950973"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Releases Decision Model Similar to TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/abdulrhman_ai/status/2108689250090950973">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DeeprunNews/status/2108681264178004286"><img src="https://pbs.twimg.com/media/HUOKb4daoAAdCnz?format=jpg&amp;name=medium" alt="Maker of Non-Text AI Model Jev Valued at $7.5B · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/DeeprunNews/status/2108681264178004286">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/newsglobeorg/status/2108675481822236934"><img src="https://pbs.twimg.com/media/HUOFLPMXIAA-xmW?format=jpg&amp;name=medium" alt="TypeSafe AI, maker of Jev model, valued at $7.5B · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/newsglobeorg/status/2108675481822236934">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RandyHamilton/status/2108675061574205588"><img src="https://pbs.twimg.com/media/HUOEyzNasAAp0Rb?format=jpg&amp;name=medium" alt="Maker of Jev AI Model Valued at $7.5B · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>Randy Hamilton</strong> · @RandyHamilton · 2026-10-09T21:44:46.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/RandyHamilton/status/2108675061574205588">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Arindam_1729/status/2108671822845907052"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Releases System One Model, Jev Sparks Discussions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Arindam_1729/status/2108671822845907052">Microsoft Releases System One Model, Jev Sparks Discussions</a></h3>
+<p>The post notes that Microsoft has released its Microsoft-Decision-1 model, praises Jev&#39;s significant impact on the AI industry, and mentions potential uses of decision models in LLM evaluation, output assessment, and scientific hypothesis screening.</p>
+<p><strong>中文摘要：</strong>帖子指出微软发布了Microsoft-Decision-1模型，并评价Jev对AI行业产生了显著影响，同时提到决策模型有望用于LLM评估、输出评价及科研假设筛选等领域。</p>
+<p><strong>Arindam Majumder 𝕏</strong> · @Arindam_1729 · 2026-10-09T21:31:54.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/Arindam_1729/status/2108671822845907052">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

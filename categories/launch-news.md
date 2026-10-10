@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 453 | 211 | 245 | 1.1M |
+| 459 | 212 | 250 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Snz_BTC/status/2108726977112731735"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Snz_BTC/status/2108726977112731735">JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models</a></h3>
+<p>The post notes that after the release of the new class of LLMs JEV, OpenAI and Microsoft quickly introduced their own decision models, and recalls TypeSafe&#39;s characterization of JEV as a System 1 model.</p>
+<p><strong>中文摘要：</strong>帖子提到在新型LLM JEV发布后，OpenAI和Microsoft相继推出了各自的决策模型，并回顾了TypeSafe将JEV定义为System 1模型的看法。</p>
+<p><strong>Sina 🗝️⚡ BI Report</strong> · @Snz_BTC · 2026-10-10T01:11:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 387</p>
+<p><a href="https://x.com/Snz_BTC/status/2108726977112731735">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yuma_prog/status/2108723923722580136"><img src="https://pbs.twimg.com/media/HUOxOx5aYAA9XA7?format=jpg&amp;name=small" alt="Jev Now Available in Foundry, Base Model Change Planned · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yuma_prog/status/2108723923722580136">Jev Now Available in Foundry, Base Model Change Planned</a></h3>
+<p>User shares that Jev is now available in Foundry with text-only input, early version resembling OpenAI Decisions API, but plans to switch base model to MAI or OpenAI, which may enable image input.</p>
+<p><strong>中文摘要：</strong>用户分享Jev在Foundry中正式可用，目前仅支持文本输入，初期版本类似OpenAI Decisions API，但计划将基础模型更换为MAI或OpenAI，届时可能支持图像输入。</p>
+<p><strong>yuma (Maki)</strong> · @yuma_prog · 2026-10-10T00:58:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 115</p>
+<p><a href="https://x.com/yuma_prog/status/2108723923722580136">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ValencianaAbel/status/2108720171380523190"><img src="https://pbs.twimg.com/media/HUOt0i9XwAAZRdq?format=jpg&amp;name=small" alt="TypeSafe AI Raises $870M for Transformer-Based Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ValencianaAbel/status/2108720171380523190">TypeSafe AI Raises $870M for Transformer-Based Jev Model</a></h3>
+<p>According to TechCrunch, TypeSafe AI raised $870 million at a $7.5 billion valuation just weeks after launching Jev, a transformer-based AI model that does not output text. The round was led by Andreessen Horowitz, with Sequoia and existing investors participating.</p>
+<p><strong>中文摘要：</strong>据 TechCrunch 报道，TypeSafe AI 在推出 Jev 模型仅数周后，以 75 亿美元估值完成 8.7 亿美元融资，由 Andreessen Horowitz 领投，Sequoia 及现有投资者参投。Jev 是一种基于 transformer 的 AI 模型，不输出文本。</p>
+<p><strong>Valenciana</strong> · @ValencianaAbel · 2026-10-10T00:44:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/ValencianaAbel/status/2108720171380523190">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SeiraHisada/status/2108716253225615540"><img src="https://pbs.twimg.com/media/HUOqMpeaUAAFjK-?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Model Adopted by ~30% of Fortune 500 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SeiraHisada/status/2108716253225615540">TypeSafe AI Raises $870M, Jev Model Adopted by ~30% of Fortune 500</a></h3>
+<p>According to XGBN, TypeSafe AI announced a $870M Series A at a $7.5B valuation about three weeks after coming out of stealth, with its decision-making model Jev reportedly adopted by ~30% of the Fortune 500.</p>
+<p><strong>中文摘要：</strong>据XGBN报道，TypeSafe AI在解除隐身约三周后宣布系列A融资8.7亿美元，估值75亿美元，其决策模型Jev已被约三成Fortune 500企业采用。</p>
+<p><strong>久田誠良(Seira Hisada)</strong> · @SeiraHisada · 2026-10-10T00:28:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 150</p>
+<p><a href="https://x.com/SeiraHisada/status/2108716253225615540">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iameddycryp/status/2108715912656203848"><img src="https://pbs.twimg.com/media/HUOp8QgWcAAIhr-?format=jpg&amp;name=medium" alt="TypeSafe AI Jev Brings Faster Structured Decisions to B.AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iameddycryp/status/2108715912656203848">TypeSafe AI Jev Brings Faster Structured Decisions to B.AI</a></h3>
+<p>TypeSafe AI&#39;s Jev model is designed for scenarios that don&#39;t require long conversations or detailed text responses, providing software with clear, actionable structured decisions.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型面向无需长对话或详细文本响应的场景，为软件提供可直接执行的结构化决策。</p>
+<p><strong>Eddycrypt</strong> · @iameddycryp · 2026-10-10T00:27:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/iameddycryp/status/2108715912656203848">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iswangwenbin/status/2108714895571317202"><img src="https://pbs.twimg.com/media/HUOo0wsbwAAl5E8?format=jpg&amp;name=medium" alt="Cloudflare launches Clef-omni, expanding its decision model family · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iswangwenbin/status/2108714895571317202">Cloudflare launches Clef-omni, expanding its decision model family</a></h3>
+<p>Cloudflare today released Clef-omni, adding native audio and video input support beyond text and images, while also cutting Clef-flash pricing and speeding up standard Clef inference. Clef, like TypeSafe&#39;s Jev, is a decision model that scores directly against a given schema without generating long-form text.</p>
+<p><strong>中文摘要：</strong>Cloudflare今天发布Clef-omni，在文本与图片之外原生支持音频、视频输入，并同步下调Clef-flash价格、加快普通版Clef的推理速度。Clef与TypeSafe的Jev同属决策模型：按给定schema直接打分判定，不生成长文。</p>
+<p><strong>AI有两下子</strong> · @iswangwenbin · 2026-10-10T00:23:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
+<p><a href="https://x.com/iswangwenbin/status/2108714895571317202">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2108709992731742323"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Jev exits stealth and raises massive Series A · 原帖视频截图" width="100%"></a>

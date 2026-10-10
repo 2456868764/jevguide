@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1029 | 420 | 613 | 3.0M |
+| 1033 | 421 | 616 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/coherencia_plis/status/2108726929520255207"><img src="https://pbs.twimg.com/media/HUOz9pJW8AIVcXl?format=jpg&amp;name=medium" alt="Jev scores perfect 250/250 on simple routing task · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/coherencia_plis/status/2108726929520255207">Jev scores perfect 250/250 on simple routing task</a></h3>
+<p>User shares comparison results: Jev achieves 250/250 on a simple routing task, outperforming Claude Haiku 5.5 (241/250) and GPT-6 Luna (242/250), while GPT-6 Luna Decisions only scores 110/250.</p>
+<p><strong>中文摘要：</strong>用户分享对比结果：Jev在简单路由任务上达到250/250，优于Claude Haiku 5.5（241/250）和GPT-6 Luna（242/250），而GPT-6 Luna Decisions仅得110/250。</p>
+<p><strong>Harvey</strong> · @coherencia_plis · 2026-10-10T01:10:52.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/coherencia_plis/status/2108726929520255207">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KingBootoshi/status/2108724269207482592"><img src="https://pbs.twimg.com/media/HUOxdAgagAAeejJ?format=jpg&amp;name=medium" alt="Finally Found a Good Local Open-Weight Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KingBootoshi/status/2108724269207482592">Finally Found a Good Local Open-Weight Jev</a></h3>
+<p>The author is excited to find a good local open-weight Jev model and plans to test it today on an RTX 5070 desktop GPU.</p>
+<p><strong>中文摘要：</strong>博主表示终于找到合适的本地开源权重 Jev 模型，并计划今天在 RTX 5070 桌面 GPU 上进行测试。</p>
+<p><strong>BOOTOSHI 👑</strong> · @KingBootoshi · 2026-10-10T01:00:18.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 322</p>
+<p><a href="https://x.com/KingBootoshi/status/2108724269207482592">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TKtamilarasan2/status/2108716602049130622"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Discussion comparing Jev and Microsoft Decision 1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TKtamilarasan2/status/2108716602049130622">Discussion comparing Jev and Microsoft Decision 1</a></h3>
+<p>A user is asking which is better between TypeSafe AI&#39;s Jev and Microsoft Decision 1, reflecting community interest and choice considerations in real applications.</p>
+<p><strong>中文摘要：</strong>用户在询问TypeSafe AI的Jev与Microsoft Decision 1哪个更好，反映了社区对Jev的关注和实际应用中的选择困惑。</p>
+<p><strong>TK_Tamilarasan</strong> · @TKtamilarasan2 · 2026-10-10T00:29:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/TKtamilarasan2/status/2108716602049130622">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tdoggyholhol/status/2108716491973550129"><img src="https://pbs.twimg.com/media/HUOqbhiW4AACR6l?format=jpg&amp;name=medium" alt="Marketing instincts behind Jev model naming · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tdoggyholhol/status/2108716491973550129">Marketing instincts behind Jev model naming</a></h3>
+<p>The post praises Diogo and his team for not only being great builders but also having incredible marketing instincts: System One models are named after emotional decision-making, contrasted with slower System 2 logic and reasoning; Jev is named after Jevons Paradox, which explains the demand explosion as token costs drop.</p>
+<p><strong>中文摘要：</strong>帖子称赞Diogo及其团队不仅擅长构建，还拥有出色的营销直觉：System One模型以情感决策命名，与更慢的System 2逻辑推理对比；Jev模型则取自杰文斯悖论，解释了token需求随成本下降而爆炸的现象。</p>
+<p><strong>Tom Hollands</strong> · @tdoggyholhol · 2026-10-10T00:29:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 283</p>
+<p><a href="https://x.com/tdoggyholhol/status/2108716491973550129">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIPonderx/status/2108708175255916794"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Jev has no moat · 原帖视频截图" width="100%"></a>

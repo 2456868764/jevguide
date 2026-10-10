@@ -2,6 +2,21 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T01:11:04.000Z | [JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models](https://x.com/Snz_BTC/status/2108726977112731735) | 产品发布 | Sina 🗝️⚡ BI Report | 387 |
+| 2026-10-10T01:10:52.000Z | [Jev scores perfect 250/250 on simple routing task](https://x.com/coherencia_plis/status/2108726929520255207) | 社区实践 | Harvey | 4 |
+| 2026-10-10T01:04:33.000Z | [Perplexity V1.1 Surpasses Jev in Korean Benchmark](https://x.com/AIBVOTE/status/2108725338746548569) | 知识与搜索 | KnowAI | 6 |
+| 2026-10-10T01:00:18.000Z | [Finally Found a Good Local Open-Weight Jev](https://x.com/KingBootoshi/status/2108724269207482592) | 社区实践 | BOOTOSHI 👑 | 322 |
+| 2026-10-10T00:58:56.000Z | [Jev Now Available in Foundry, Base Model Change Planned](https://x.com/yuma_prog/status/2108723923722580136) | 产品发布 | yuma (Maki) | 115 |
+| 2026-10-10T00:44:01.000Z | [TypeSafe AI Raises $870M for Transformer-Based Jev Model](https://x.com/ValencianaAbel/status/2108720171380523190) | 产品发布 | Valenciana | 33 |
+| 2026-10-10T00:42:43.000Z | [TypeSafe AI raises $870M for Jev model](https://x.com/CharlesChong96/status/2108719845688872963) | 企业运营 | Charles Chong | 15 |
+| 2026-10-10T00:37:26.000Z | [Added @typesafeai Jev](https://x.com/AionForge/status/2108718516073635878) | 接入动态 | AionForge | 16 |
+| 2026-10-10T00:31:02.000Z | [Integrating Muse Browser Wrapper into a Rust File Explorer](https://x.com/somaco_sf/status/2108716902575194406) | 开发者工具 | SomacoSF | 43 |
+| 2026-10-10T00:29:50.000Z | [Discussion comparing Jev and Microsoft Decision 1](https://x.com/TKtamilarasan2/status/2108716602049130622) | 社区实践 | TK_Tamilarasan | 13 |
+| 2026-10-10T00:29:24.000Z | [Marketing instincts behind Jev model naming](https://x.com/tdoggyholhol/status/2108716491973550129) | 社区实践 | Tom Hollands | 283 |
+| 2026-10-10T00:29:01.000Z | [TypeSafe AI's Jev Model Gains a Full Point of Market Share in a Month](https://x.com/AIDailyBrief/status/2108716396331110757) | 接入动态 | The AI Daily Brief - Formerly The AI Breakdown | 61 |
+| 2026-10-10T00:28:27.000Z | [TypeSafe AI Raises $870M, Jev Model Adopted by ~30% of Fortune 500](https://x.com/SeiraHisada/status/2108716253225615540) | 产品发布 | 久田誠良(Seira Hisada) | 150 |
+| 2026-10-10T00:27:06.000Z | [TypeSafe AI Jev Brings Faster Structured Decisions to B.AI](https://x.com/iameddycryp/status/2108715912656203848) | 产品发布 | Eddycrypt | 28 |
+| 2026-10-10T00:23:03.000Z | [Cloudflare launches Clef-omni, expanding its decision model family](https://x.com/iswangwenbin/status/2108714895571317202) | 产品发布 | AI有两下子 | 38 |
 | 2026-10-10T00:14:21.000Z | [Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation](https://x.com/sequoia/status/2108712705041608769) | 金融 | Sequoia Capital | 754 |
 | 2026-10-10T00:05:46.000Z | [Jev model outperforms dedicated cross-encoder in search reranking](https://x.com/ujwaljibhkate/status/2108710546795049323) | 知识与搜索 | Ujwal Jibhkate | 1 |
 | 2026-10-10T00:05:37.000Z | [question-kit: A developer kit for building on Jev](https://x.com/NickGideo/status/2108710506987205109) | 开发者工具 | Nick | 7 |
@@ -87,18 +102,3 @@
 | 2026-10-09T15:12:14.000Z | [Jev is now integrated into the Albedo validator](https://x.com/albedo_wthrboss/status/2108576278865703050) | 产品发布 | ALBEDO \| Weather Boss | 89 |
 | 2026-10-09T15:07:24.000Z | [TypeSafe's decision model Jev launches September 15](https://x.com/DAssetBuzz/status/2108575060025897179) | 产品发布 | DigitalAssetBuzz 🔶 | 7 |
 | 2026-10-09T15:02:09.000Z | [Testing Jev vs OpenAI Decisions API for Intent Routing](https://x.com/JustRouzbeh/status/2108573738765578383) | 社区实践 | Rouzbeh | 118 |
-| 2026-10-09T14:56:07.000Z | [Opus 5.5 + Jev Combo: Blazing Fast and Cost-Effective](https://x.com/0x_rody/status/2108572220763275430) | 开发资源 | rody | 293 |
-| 2026-10-09T14:55:25.000Z | [Luna Decisions API vs Jev: Who Can Draw the Better World Map?](https://x.com/KolbeYang/status/2108572043734319599) | 开发者工具 | Kolbe Yang | 13 |
-| 2026-10-09T14:50:34.000Z | [Wired up Typesafe AI Jev to Excel using VBA](https://x.com/dfinke/status/2108570823472902520) | 开发者工具 | Doug Finke | 177 |
-| 2026-10-09T14:40:21.000Z | [Jev replaces traditional LLMs for decisions, cheaper and more accurate](https://x.com/theayush/status/2108568252486226227) | 社区实践 | Ayush Sharma | 7 |
-| 2026-10-09T14:19:13.000Z | [Jev Sentence-to-Emoji: Learn Languages via Visual Association](https://x.com/halilstation/status/2108562934037151863) | 教育 | Halil | 9 |
-| 2026-10-09T14:17:44.000Z | [TypeSafe AI raises ~$870M at $7.5B valuation; Jev tops 1M users](https://x.com/TheLatentCo/status/2108562563386712463) | 企业运营 | The Latent | 133 |
-| 2026-10-09T14:13:21.000Z | [Automate app review analysis with Jev](https://x.com/kikelopezdesign/status/2108561460083519990) | 数据分析 | Kike Lopez | 6 |
-| 2026-10-09T14:10:03.000Z | [Document proofreading tool integrating Jev and Gemini](https://x.com/umiyosh/status/2108560626083852784) | 开发者工具 | umiyosh | 55 |
-| 2026-10-09T14:05:22.000Z | [Type safety with the Jev classifier](https://x.com/ohdearlordylord/status/2108559449308991751) | 开发者工具 | dearlordylord | 11 |
-| 2026-10-09T14:04:09.000Z | [PodPower: A podcast radio that ranks clips with Jev](https://x.com/init_adam/status/2108559142101127533) | 内容创作 | adam | 28 |
-| 2026-10-09T14:00:01.000Z | [Full Breakdown of Jev: A Model for Fast, Typed Decisions](https://x.com/TechWithTimm/status/2108558102929006846) | 社区实践 | Tech With Tim | 235 |
-| 2026-10-09T13:57:23.000Z | [Doomers, an AI launch marketing firm, counts Jev among its clients](https://x.com/AliCreating_/status/2108557441738973472) | 营销 | علي | 35 |
-| 2026-10-09T13:57:11.000Z | [Experience sharing: Jev Signal File as an assistant cuts AI bill](https://x.com/polyhermaeus/status/2108557388458721758) | 生产力 | hermaeus | 54 |
-| 2026-10-09T13:57:01.000Z | [Vela 2.0: RAG without a generative LLM](https://x.com/XunzhuoLiu/status/2108557349799817217) | 产品发布 | Xunzhuo | 366 |
-| 2026-10-09T13:45:25.000Z | [Jev-Powered AI Dev Workflow: 1,190 Commits in 100 Days](https://x.com/desireco/status/2108554428529901911) | 社区实践 | Zen Superman | 1 |

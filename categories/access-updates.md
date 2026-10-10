@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 396 | 166 | 230 | 802K |
+| 398 | 167 | 231 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AionForge/status/2108718516073635878"><img src="https://pbs.twimg.com/amplify_video_thumb/2108718458321948672/img/NRS8ihujuQq86lw5.jpg" alt="Added @typesafeai Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AionForge/status/2108718516073635878">Added @typesafeai Jev</a></h3>
+<p>The post mentions adding @typesafeai Jev, indicating integration of TypeSafe&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>帖子内容为添加了 @typesafeai Jev，表明正在集成 TypeSafe 的 Jev 模型。</p>
+<p><strong>AionForge</strong> · @AionForge · 2026-10-10T00:37:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/AionForge/status/2108718516073635878">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AIDailyBrief/status/2108716396331110757"><img src="https://pbs.twimg.com/media/HUOqYzmaUAAwhk6?format=png&amp;name=medium" alt="TypeSafe AI&#39;s Jev Model Gains a Full Point of Market Share in a Month · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AIDailyBrief/status/2108716396331110757">TypeSafe AI&#39;s Jev Model Gains a Full Point of Market Share in a Month</a></h3>
+<p>According to Ramp spend data, TypeSafe AI&#39;s Jev decision model gained a full point of market share in a single month, growing faster than every frontier lab except Anthropic.</p>
+<p><strong>中文摘要：</strong>根据Ramp支出数据，TypeSafe AI的Jev决策模型单月市场份额增长一个百分点，增速超过除Anthropic外的所有前沿实验室。</p>
+<p><strong>The AI Daily Brief - Formerly The AI Breakdown</strong> · @AIDailyBrief · 2026-10-10T00:29:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
+<p><a href="https://x.com/AIDailyBrief/status/2108716396331110757">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hatsune_/status/2108707691254415557"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="TypeSafe Jev Arrives on Microsoft Foundry · 原帖视频截图" width="100%"></a>

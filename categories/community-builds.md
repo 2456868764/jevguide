@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1034 | 422 | 616 | 3.0M |
+| 1036 | 423 | 617 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/introsp3ctor/status/2108754622370525627"><img src="https://pbs.twimg.com/media/HUPNJwBXAAES3CB?format=jpg&amp;name=small" alt="Distilled JEB is not distilled Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/introsp3ctor/status/2108754622370525627">Distilled JEB is not distilled Jev</a></h3>
+<p>Clarification that distilled JEB is different from distilled Jev.</p>
+<p><strong>中文摘要：</strong>澄清蒸馏后的JEB与蒸馏后的Jev是不同的。</p>
+<p><strong>Mike Dupont</strong> · @introsp3ctor · 2026-10-10T03:00:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/introsp3ctor/status/2108754622370525627">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AionForge/status/2108746078237368577"><img src="https://pbs.twimg.com/amplify_video_thumb/2108746054225072128/img/-hPPRM49fvRniI52.jpg" alt="Snake-Bench: Jev vs Luna and Decision-1 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AionForge/status/2108746078237368577">Snake-Bench: Jev vs Luna and Decision-1</a></h3>
+<p>The post introduces the Snake-Bench benchmark, comparing Jev against Microsoft Decision-1 and OpenAI Luna, noting Luna&#39;s strong performance.</p>
+<p><strong>中文摘要：</strong>帖子介绍了 Snake-Bench 基准测试，将 Jev 与 Microsoft Decision-1 和 OpenAI Luna 进行对比，并提到 Luna 表现出色。</p>
+<p><strong>AionForge</strong> · @AionForge · 2026-10-10T02:26:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/AionForge/status/2108746078237368577">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gabrielayuso/status/2108736438510698667"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="User Enthusiastically Shares Expectations for Jev · 原帖视频截图" width="100%"></a>

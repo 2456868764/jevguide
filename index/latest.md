@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T03:05:37.000Z | [Microsoft builds Jev competitor but avoids comparison](https://x.com/emohanx/status/2108755804413403492) | 产品发布 | Mohan Elango | 8 |
+| 2026-10-10T03:00:55.000Z | [Distilled JEB is not distilled Jev](https://x.com/introsp3ctor/status/2108754622370525627) | 社区实践 | Mike Dupont | 40 |
+| 2026-10-10T02:37:02.000Z | [Jev-Powered Voice Browser Control](https://x.com/vintcessun/status/2108748612981477663) | 自动化工作流 | 恒星sun | 117 |
+| 2026-10-10T02:35:16.000Z | [Finally Jev! Want to integrate into Copasta](https://x.com/y4nag1d/status/2108748166137057445) | 接入动态 | やなぎだ | 41 |
+| 2026-10-10T02:29:45.000Z | [Comments on TypeSafe AI Valuation Narrative](https://x.com/sleepy0x13/status/2108746780145770928) | 金融 | sleepy.md | 397 |
+| 2026-10-10T02:26:58.000Z | [Snake-Bench: Jev vs Luna and Decision-1](https://x.com/AionForge/status/2108746078237368577) | 社区实践 | AionForge | 25 |
+| 2026-10-10T02:23:02.000Z | [AI Expert Predicts AGI Will Emerge from Agent Systems](https://x.com/Kaizen_DSP/status/2108745089183064334) | 智能体 | Kaizen DSP | 56 |
 | 2026-10-10T02:04:16.000Z | [JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot](https://x.com/codewithimanshu/status/2108740368422596809) | 金融 | Himanshu Kumar | 366 |
 | 2026-10-10T01:54:25.000Z | [Learning Japanese with Open Source Jev](https://x.com/danpablo_x/status/2108737889358029284) | 教育 | DanPabloX | 4 |
 | 2026-10-10T01:48:40.000Z | [User Enthusiastically Shares Expectations for Jev](https://x.com/gabrielayuso/status/2108736438510698667) | 社区实践 | Gabriel Ayuso | 18 |
@@ -95,10 +102,3 @@
 | 2026-10-09T16:04:06.000Z | [Jev for Crypto Breakout Analysis](https://x.com/cryptoflippod/status/2108589330252062831) | 金融 | Crypto Flip Podcast | 8 |
 | 2026-10-09T16:03:02.000Z | [Live Jev Demo: Classify, Rank, and Route Messy Requests](https://x.com/dfinke/status/2108589060700967356) | 社区实践 | Doug Finke | 83 |
 | 2026-10-09T16:02:53.000Z | [Open small model beats Jev at prompt injection detection](https://x.com/stas_sorokin_/status/2108589024189264059) | 网络安全 | Stanislav Sorokin | 52 |
-| 2026-10-09T15:59:14.000Z | [Jev (System One) Centric Agent Harness Showcase](https://x.com/federico_zf_li/status/2108588106396123411) | 开发资源 | Federico Li | 10 |
-| 2026-10-09T15:54:36.000Z | [Processing Data with AWK and Jev](https://x.com/linux_china/status/2108586937980530690) | 数据分析 | Jacky Chan | 20 |
-| 2026-10-09T15:53:04.000Z | [User Test: Jev Wins in Decision Model Comparison](https://x.com/yihlamur/status/2108586553429926185) | 社区实践 | yiğit | 43 |
-| 2026-10-09T15:51:51.000Z | [Building a company brain with Jev and LLM](https://x.com/RhysSullivan/status/2108586246855643293) | 智能体 | Rhys | 2.9K |
-| 2026-10-09T15:47:26.000Z | [Building a scientific paper filtering tool with Jev](https://x.com/sinabooeshaghi/status/2108585133364425093) | 科研 | sina | 174 |
-| 2026-10-09T15:42:41.000Z | [Using Jev to Cut AI Agent Monthly Cost from $84.50 to $7.30](https://x.com/theagenticdaily/status/2108583938763755793) | 社区实践 | The Agentic Daily | 9 |
-| 2026-10-09T15:37:48.000Z | [JEV-27B Fooled by Agatha Christie Novel in Reasoning Test](https://x.com/abdennacer0/status/2108582710729949415) | 社区实践 | Abdennacer Badaoui | 2 |

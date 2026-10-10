@@ -1,9 +1,10 @@
 # 恒星sun
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T02:37:02.000Z | [Jev-Powered Voice Browser Control](https://x.com/vintcessun/status/2108748612981477663) | 自动化工作流 | 恒星sun | 117 |
 | 2026-10-09T11:30:08.000Z | [vllm-jev: Integrating Jev Decision Models into vLLM](https://x.com/vintcessun/status/2108520382252945790) | 接入动态 | 恒星sun | 167 |
 | 2026-10-06T11:11:03.000Z | [TypeSafe Jev Model Resource Collection](https://x.com/vintcessun/status/2107428417499234333) | 开发资源 | 恒星sun | 61 |
 | 2026-10-06T07:38:03.000Z | [Jev Decision Model Resource Directory and Failure Cases](https://x.com/vintcessun/status/2107374812423401711) | 开发资源 | 恒星sun | 23 |

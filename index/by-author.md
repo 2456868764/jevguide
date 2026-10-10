@@ -16,11 +16,11 @@
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
+- [恒星sun](../authors/恒星sun.md) — 10
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Asteri](../authors/asteri.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
-- [恒星sun](../authors/恒星sun.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 8
 - [Alex](../authors/alex.md) — 8
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
@@ -356,6 +356,7 @@
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
 - [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
+- [AionForge](../authors/aionforge.md) — 2
 - [AIガチ勢オジ｜40代×Claude Code](../authors/ai-勢-40代-claude-code.md) — 2
 - [Ajay Shah](../authors/ajay-shah.md) — 2
 - [Akın](../authors/ak-n.md) — 2
@@ -690,6 +691,7 @@
 - [Simon](../authors/simon.md) — 2
 - [Simon Meng](../authors/simon-meng.md) — 2
 - [sina](../authors/sina.md) — 2
+- [sleepy.md](../authors/sleepy-md.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [Som Dutt | AI/ML Analyst](../authors/som-dutt-ai-ml-analyst.md) — 2
 - [spect](../authors/spect.md) — 2
@@ -942,7 +944,6 @@
 - [aiiro | 個人開発](../authors/aiiro-個人開発.md) — 1
 - [aimtm](../authors/aimtm.md) — 1
 - [AINZX](../authors/ainzx.md) — 1
-- [AionForge](../authors/aionforge.md) — 1
 - [AIPOCH](../authors/aipoch.md) — 1
 - [AIPonder](../authors/aiponder.md) — 1
 - [Aircle｜AIコミュニティ](../authors/aircle-ai.md) — 1
@@ -2142,6 +2143,7 @@
 - [Kaido](../authors/kaido.md) — 1
 - [kaito](../authors/kaito.md) — 1
 - [Kaito Ito](../authors/kaito-ito.md) — 1
+- [Kaizen DSP](../authors/kaizen-dsp.md) — 1
 - [Kalen Jordan](../authors/kalen-jordan.md) — 1
 - [Kalle](../authors/kalle.md) — 1
 - [Kalyan KS](../authors/kalyan-ks.md) — 1
@@ -2467,6 +2469,7 @@
 - [Miguel Ríos Berríos](../authors/miguel-rios-berrios.md) — 1
 - [Mikadzyki🌙](../authors/mikadzyki.md) — 1
 - [Mike](../authors/mike.md) — 1
+- [Mike Dupont](../authors/mike-dupont.md) — 1
 - [Mike Kelly](../authors/mike-kelly.md) — 1
 - [Mike Moore](../authors/mike-moore.md) — 1
 - [Mike Que](../authors/mike-que.md) — 1
@@ -2511,6 +2514,7 @@
 - [mohammed mirza](../authors/mohammed-mirza.md) — 1
 - [Mohammed Moyeen](../authors/mohammed-moyeen.md) — 1
 - [Mohan Dolatabadi](../authors/mohan-dolatabadi.md) — 1
+- [Mohan Elango](../authors/mohan-elango.md) — 1
 - [Mohd shubair 🌱](../authors/mohd-shubair.md) — 1
 - [Mohit Garg](../authors/mohit-garg.md) — 1
 - [Mohit Goyal (Harness arc)](../authors/mohit-goyal-harness-arc.md) — 1
@@ -3140,7 +3144,6 @@
 - [Skewbed](../authors/skewbed.md) — 1
 - [Skik](../authors/skik.md) — 1
 - [SLASH](../authors/slash.md) — 1
-- [sleepy.md](../authors/sleepy-md.md) — 1
 - [Slobo](../authors/slobo.md) — 1
 - [smallzero](../authors/smallzero.md) — 1
 - [Sodeh Abadi](../authors/sodeh-abadi.md) — 1
@@ -3811,6 +3814,7 @@
 - [メモリス｜AIボイスメモ](../authors/ai.md) — 1
 - [もっくま(Mistletoe)](../authors/mistletoe.md) — 1
 - [ヤガシロ@天秤AI(愛)してる](../authors/天秤ai-愛.md) — 1
+- [やなぎだ](../authors/jev-showcase.md) — 1
 - [やみち](../authors/jev-showcase.md) — 1
 - [ゆーりんち @ゲームを作っています](../authors/作.md) — 1
 - [ゆう|AI×個人開発](../authors/ai-個人開発.md) — 1

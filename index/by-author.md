@@ -123,6 +123,7 @@
 - [Harry Tandy](../authors/harry-tandy.md) — 4
 - [Hendrik Krack](../authors/hendrik-krack.md) — 4
 - [Higgsfield AI 🧩](../authors/higgsfield-ai.md) — 4
+- [Himanshu Kumar](../authors/himanshu-kumar.md) — 4
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
 - [jaffa](../authors/jaffa.md) — 4
@@ -218,7 +219,6 @@
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
 - [Hemant](../authors/hemant.md) — 3
-- [Himanshu Kumar](../authors/himanshu-kumar.md) — 3
 - [hiraoku](../authors/hiraoku.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
@@ -1457,7 +1457,9 @@
 - [Daniel van Strien](../authors/daniel-van-strien.md) — 1
 - [Daniel Wisenhoff](../authors/daniel-wisenhoff.md) — 1
 - [Daniele](../authors/daniele.md) — 1
+- [Danish Javed](../authors/danish-javed.md) — 1
 - [Danny Livshits](../authors/danny-livshits.md) — 1
+- [DanPabloX](../authors/danpablox.md) — 1
 - [Dante Larroy](../authors/dante-larroy.md) — 1
 - [Dario Nardella](../authors/dario-nardella.md) — 1
 - [Darius Gaynor](../authors/darius-gaynor.md) — 1
@@ -1741,6 +1743,7 @@
 - [Gabas ✌🏻](../authors/gabas.md) — 1
 - [Gabe Hernandez - Simplifying Life and Work with AI](../authors/gabe-hernandez-simplifying-life-and-work-with-ai.md) — 1
 - [gabriel](../authors/gabriel.md) — 1
+- [Gabriel Ayuso](../authors/gabriel-ayuso.md) — 1
 - [Gabriel Pauli](../authors/gabriel-pauli.md) — 1
 - [Gabriel S Håndstad](../authors/gabriel-s-handstad.md) — 1
 - [Gaël Caporale](../authors/gael-caporale.md) — 1
@@ -2528,6 +2531,7 @@
 - [Motion Design Studio](../authors/motion-design-studio.md) — 1
 - [MotionViz](../authors/motionviz.md) — 1
 - [mousepotato](../authors/mousepotato.md) — 1
+- [MR - Michael Robertson](../authors/mr-michael-robertson.md) — 1
 - [MR OFFICIAL](../authors/mr-official.md) — 1
 - [Mr Vu](../authors/mr-vu.md) — 1
 - [Mr. Systems](../authors/mr-systems.md) — 1
@@ -3449,6 +3453,7 @@
 - [Virat Singh](../authors/virat-singh.md) — 1
 - [Vishal](../authors/vishal.md) — 1
 - [Vishal Dubey](../authors/vishal-dubey.md) — 1
+- [Vishal Pandey](../authors/vishal-pandey.md) — 1
 - [Visharad](../authors/visharad.md) — 1
 - [Vishnu Aniyan](../authors/vishnu-aniyan.md) — 1
 - [Visrut](../authors/visrut.md) — 1
@@ -3966,6 +3971,7 @@
 - [角煮星丸](../authors/角煮星丸.md) — 1
 - [豊藏 翔太@ThinkMove Inc.](../authors/豊藏-翔太-thinkmove-inc.md) — 1
 - [财经老王](../authors/财经老王.md) — 1
+- [赚笔刀日记](../authors/赚笔刀日记.md) — 1
 - [超実践AIエージェント×Webマーケティングスクール WEBMARKS](../authors/超実践ai-web-webmarks.md) — 1
 - [超级个体｜柿子](../authors/超级个体-柿子.md) — 1
 - [路飞 🏴‍☠️ AI 研究员🧐](../authors/路飞-ai-研究员.md) — 1

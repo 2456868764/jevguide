@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 459 | 212 | 250 | 1.1M |
+| 461 | 212 | 252 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mp3michael/status/2108734960865833274"><img src="https://pbs.twimg.com/media/HUO7RTXa8AAJISF?format=jpg&amp;name=medium" alt="Cloudflare releases cheaper Jev competitor · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mp3michael/status/2108734960865833274">Cloudflare releases cheaper Jev competitor</a></h3>
+<p>The author notes that Cloudflare has launched a cheaper competitor to Jev, highlighting the brutal competition in AI services.</p>
+<p><strong>中文摘要：</strong>作者指出，Cloudflare推出了比Jev更便宜的竞品，AI服务领域的竞争十分激烈。</p>
+<p><strong>MR - Michael Robertson</strong> · @mp3michael · 2026-10-10T01:42:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/mp3michael/status/2108734960865833274">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/danishjavedfyi/status/2108729979026694218"><img src="https://pbs.twimg.com/media/HUO2if8asAAB2Cq?format=jpg&amp;name=medium" alt="Jev Launch Spurs Quick Competitors · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/danishjavedfyi/status/2108729979026694218">Jev Launch Spurs Quick Competitors</a></h3>
+<p>Jev launched on September 15. Within four weeks, OpenRouter&#39;s compare page lists 12 decision models. This week: OpenAI, Perplexity, Inception, and Microsoft. Microsoft&#39;s is $0.042 per 1M input tokens, with free output. Rivals arrived before most teams tried the original.</p>
+<p><strong>中文摘要：</strong>Jev于9月15日发布。不到四周后，OpenRouter的对比页面已列出12个决策模型。本周新增OpenAI、Perplexity、Inception和Microsoft。Microsoft的模型每百万输入令牌定价0.042美元，输出免费。竞争对手在大多数团队尝试原始Jev之前就出现了。</p>
+<p><strong>Danish Javed</strong> · @danishjavedfyi · 2026-10-10T01:22:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/danishjavedfyi/status/2108729979026694218">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Snz_BTC/status/2108726977112731735"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models · 原帖视频截图" width="100%"></a>

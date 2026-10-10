@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-10T02:04:16.000Z | [JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot](https://x.com/codewithimanshu/status/2108740368422596809) | 金融 | Himanshu Kumar | 366 |
+| 2026-10-10T01:54:25.000Z | [Learning Japanese with Open Source Jev](https://x.com/danpablo_x/status/2108737889358029284) | 教育 | DanPabloX | 4 |
+| 2026-10-10T01:48:40.000Z | [User Enthusiastically Shares Expectations for Jev](https://x.com/gabrielayuso/status/2108736438510698667) | 社区实践 | Gabriel Ayuso | 18 |
+| 2026-10-10T01:42:47.000Z | [Cloudflare releases cheaper Jev competitor](https://x.com/mp3michael/status/2108734960865833274) | 产品发布 | MR - Michael Robertson | 23 |
+| 2026-10-10T01:41:11.000Z | [TypeSafe Raises $870M, Decision Model Jev Gains Traction](https://x.com/zhuanbidao/status/2108734555507364165) | 企业运营 | 赚笔刀日记 | 96 |
+| 2026-10-10T01:24:08.000Z | [TypeSafe Jev: Routing Decisions Between Fast and Slow Models](https://x.com/_vMyth/status/2108730265501651324) | 智能体 | Vishal Pandey | 9 |
+| 2026-10-10T01:22:59.000Z | [Jev Launch Spurs Quick Competitors](https://x.com/danishjavedfyi/status/2108729979026694218) | 产品发布 | Danish Javed | 21 |
 | 2026-10-10T01:11:04.000Z | [JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models](https://x.com/Snz_BTC/status/2108726977112731735) | 产品发布 | Sina 🗝️⚡ BI Report | 387 |
 | 2026-10-10T01:10:52.000Z | [Jev scores perfect 250/250 on simple routing task](https://x.com/coherencia_plis/status/2108726929520255207) | 社区实践 | Harvey | 4 |
 | 2026-10-10T01:04:33.000Z | [Perplexity V1.1 Surpasses Jev in Korean Benchmark](https://x.com/AIBVOTE/status/2108725338746548569) | 知识与搜索 | KnowAI | 6 |
@@ -95,10 +102,3 @@
 | 2026-10-09T15:47:26.000Z | [Building a scientific paper filtering tool with Jev](https://x.com/sinabooeshaghi/status/2108585133364425093) | 科研 | sina | 174 |
 | 2026-10-09T15:42:41.000Z | [Using Jev to Cut AI Agent Monthly Cost from $84.50 to $7.30](https://x.com/theagenticdaily/status/2108583938763755793) | 社区实践 | The Agentic Daily | 9 |
 | 2026-10-09T15:37:48.000Z | [JEV-27B Fooled by Agatha Christie Novel in Reasoning Test](https://x.com/abdennacer0/status/2108582710729949415) | 社区实践 | Abdennacer Badaoui | 2 |
-| 2026-10-09T15:34:59.000Z | [Kenby: A RAG Solution Powered by Jev](https://x.com/faqirfaramarz/status/2108582001489928537) | 产品发布 | Faramarz | 5 |
-| 2026-10-09T15:30:00.000Z | [The Paradigm Shift with Jev Decision Model](https://x.com/HKrackDev/status/2108580749318168937) | 软件开发 | Hendrik Krack | 12 |
-| 2026-10-09T15:27:17.000Z | [Sansi: Adding a Reasoning Loop to JEV](https://x.com/dongyeopkang/status/2108580062765179143) | 社区实践 | Dongyeop Kang (DK) | 5 |
-| 2026-10-09T15:18:00.000Z | [The AI That Can't Write a Sentence Is Taking Over GitHub](https://x.com/0xTekki/status/2108577727515336965) | 智能体 | Tekki | 16 |
-| 2026-10-09T15:12:14.000Z | [Jev is now integrated into the Albedo validator](https://x.com/albedo_wthrboss/status/2108576278865703050) | 产品发布 | ALBEDO \| Weather Boss | 89 |
-| 2026-10-09T15:07:24.000Z | [TypeSafe's decision model Jev launches September 15](https://x.com/DAssetBuzz/status/2108575060025897179) | 产品发布 | DigitalAssetBuzz 🔶 | 7 |
-| 2026-10-09T15:02:09.000Z | [Testing Jev vs OpenAI Decisions API for Intent Routing](https://x.com/JustRouzbeh/status/2108573738765578383) | 社区实践 | Rouzbeh | 118 |

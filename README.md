@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5666</strong><br>curated posts</td>
-<td align="center"><strong>2858</strong><br>original videos</td>
+<td align="center"><strong>5673</strong><br>curated posts</td>
+<td align="center"><strong>2861</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1033</strong> showcases · <strong>421</strong> videos</p>
+<p><strong>1034</strong> showcases · <strong>422</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>459</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>461</strong> showcases · <strong>212</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>436</strong> showcases · <strong>239</strong> videos</p>
+<p><strong>437</strong> showcases · <strong>240</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>280</strong> showcases · <strong>164</strong> videos</p>
+<p><strong>281</strong> showcases · <strong>165</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -160,22 +160,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>37</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>38</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>28</strong> showcases · <strong>14</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>27</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>27</strong> showcases · <strong>14</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/Snz_BTC/status/2108726977112731735"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Snz_BTC/status/2108726977112731735">JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models</a></h3>
-<p>The post notes that after the release of the new class of LLMs JEV, OpenAI and Microsoft quickly introduced their own decision models, and recalls TypeSafe&#39;s characterization of JEV as a System 1 model.</p>
-<p><strong>387</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 387</p>
-<p><strong>Sina 🗝️⚡ BI Report</strong> · @Snz_BTC</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2108740368422596809"><img src="https://pbs.twimg.com/amplify_video_thumb/2108740342883471362/img/6SMCsR3D9J40BbkS.jpg" alt="JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2108740368422596809">JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot</a></h3>
+<p>A Monad engineer built a fully automated trading bot using JEV, reading MON/USDC price in real time, showcasing JEV&#39;s practical application in financial AI.</p>
+<p><strong>366</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 366</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/coherencia_plis/status/2108726929520255207"><img src="https://pbs.twimg.com/media/HUOz9pJW8AIVcXl?format=jpg&amp;name=medium" alt="Jev scores perfect 250/250 on simple routing task · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/coherencia_plis/status/2108726929520255207">Jev scores perfect 250/250 on simple routing task</a></h3>
-<p>User shares comparison results: Jev achieves 250/250 on a simple routing task, outperforming Claude Haiku 5.5 (241/250) and GPT-6 Luna (242/250), while GPT-6 Luna Decisions only scores 110/250.</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Harvey</strong> · @coherencia_plis</p>
+<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/danpablo_x/status/2108737889358029284"><img src="https://pbs.twimg.com/media/HUO8kdlXwAAKzxz?format=jpg&amp;name=medium" alt="Learning Japanese with Open Source Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/danpablo_x/status/2108737889358029284">Learning Japanese with Open Source Jev</a></h3>
+<p>The author introduces using the open source Jev model (Kev) to highlight sentences and get recommended grammar lessons, balancing efficiency and comprehension.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>DanPabloX</strong> · @danpablo_x</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/AIBVOTE/status/2108725338746548569"><img src="https://pbs.twimg.com/amplify_video_thumb/2108588573415145474/img/6-Rg_uzS3FBYgInp.jpg" alt="Perplexity V1.1 Surpasses Jev in Korean Benchmark · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AIBVOTE/status/2108725338746548569">Perplexity V1.1 Surpasses Jev in Korean Benchmark</a></h3>
-<p>The post notes that Perplexity released V1.1 days after V1, showing better results than the original Jev in Korean benchmarks.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>KnowAI</strong> · @AIBVOTE</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/gabrielayuso/status/2108736438510698667"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="User Enthusiastically Shares Expectations for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/gabrielayuso/status/2108736438510698667">User Enthusiastically Shares Expectations for Jev</a></h3>
+<p>Gabriel Ayuso says he loves Jev, calling it a true unlock. Despite clones, he will keep using and integrating it, and looks forward to Jev expanding to give software more super powers without a system two LLM.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>Gabriel Ayuso</strong> · @gabrielayuso</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/KingBootoshi/status/2108724269207482592"><img src="https://pbs.twimg.com/media/HUOxdAgagAAeejJ?format=jpg&amp;name=medium" alt="Finally Found a Good Local Open-Weight Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KingBootoshi/status/2108724269207482592">Finally Found a Good Local Open-Weight Jev</a></h3>
-<p>The author is excited to find a good local open-weight Jev model and plans to test it today on an RTX 5070 desktop GPU.</p>
-<p><strong>322</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 322</p>
-<p><strong>BOOTOSHI 👑</strong> · @KingBootoshi</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/mp3michael/status/2108734960865833274"><img src="https://pbs.twimg.com/media/HUO7RTXa8AAJISF?format=jpg&amp;name=medium" alt="Cloudflare releases cheaper Jev competitor · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mp3michael/status/2108734960865833274">Cloudflare releases cheaper Jev competitor</a></h3>
+<p>The author notes that Cloudflare has launched a cheaper competitor to Jev, highlighting the brutal competition in AI services.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>MR - Michael Robertson</strong> · @mp3michael</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/Snz_BTC/status/2108726977112731735"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Snz_BTC/status/2108726977112731735">JEV Sparks Industry Response: OpenAI and Microsoft Introduce Decision Models</a></h3>
-<p>The post notes that after the release of the new class of LLMs JEV, OpenAI and Microsoft quickly introduced their own decision models, and recalls TypeSafe&#39;s characterization of JEV as a System 1 model.</p>
-<p><strong>387</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 387</p>
-<p><strong>Sina 🗝️⚡ BI Report</strong> · @Snz_BTC</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2108740368422596809"><img src="https://pbs.twimg.com/amplify_video_thumb/2108740342883471362/img/6SMCsR3D9J40BbkS.jpg" alt="JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2108740368422596809">JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot</a></h3>
+<p>A Monad engineer built a fully automated trading bot using JEV, reading MON/USDC price in real time, showcasing JEV&#39;s practical application in financial AI.</p>
+<p><strong>366</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 366</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/mp3michael/status/2108734960865833274"><img src="https://pbs.twimg.com/media/HUO7RTXa8AAJISF?format=jpg&amp;name=medium" alt="Cloudflare releases cheaper Jev competitor · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mp3michael/status/2108734960865833274">Cloudflare releases cheaper Jev competitor</a></h3>
+<p>The author notes that Cloudflare has launched a cheaper competitor to Jev, highlighting the brutal competition in AI services.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>MR - Michael Robertson</strong> · @mp3michael</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>企业运营</code> <code>原帖图片</code></p>
+<a href="https://x.com/zhuanbidao/status/2108734555507364165"><img src="https://pbs.twimg.com/media/HUO65dmaYAAg9NO?format=jpg&amp;name=medium" alt="TypeSafe Raises $870M, Decision Model Jev Gains Traction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/zhuanbidao/status/2108734555507364165">TypeSafe Raises $870M, Decision Model Jev Gains Traction</a></h3>
+<p>AI startup TypeSafe raised $870 million at a $7.5 billion valuation led by a16z. Its structured decision model Jev has gone viral within weeks, with about one-third of Fortune 500 companies adopting it. Jev avoids free-text output for better enterprise automation.</p>
+<p><strong>96</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 96</p>
+<p><strong>赚笔刀日记</strong> · @zhuanbidao</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/KingBootoshi/status/2108724269207482592"><img src="https://pbs.twimg.com/media/HUOxdAgagAAeejJ?format=jpg&amp;name=medium" alt="Finally Found a Good Local Open-Weight Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/KingBootoshi/status/2108724269207482592">Finally Found a Good Local Open-Weight Jev</a></h3>
 <p>The author is excited to find a good local open-weight Jev model and plans to test it today on an RTX 5070 desktop GPU.</p>
 <p><strong>322</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 322</p>
 <p><strong>BOOTOSHI 👑</strong> · @KingBootoshi</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/yuma_prog/status/2108723923722580136"><img src="https://pbs.twimg.com/media/HUOxOx5aYAA9XA7?format=jpg&amp;name=small" alt="Jev Now Available in Foundry, Base Model Change Planned · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/yuma_prog/status/2108723923722580136">Jev Now Available in Foundry, Base Model Change Planned</a></h3>
-<p>User shares that Jev is now available in Foundry with text-only input, early version resembling OpenAI Decisions API, but plans to switch base model to MAI or OpenAI, which may enable image input.</p>
-<p><strong>115</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 115</p>
-<p><strong>yuma (Maki)</strong> · @yuma_prog</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/tdoggyholhol/status/2108716491973550129"><img src="https://pbs.twimg.com/media/HUOqbhiW4AACR6l?format=jpg&amp;name=medium" alt="Marketing instincts behind Jev model naming · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/tdoggyholhol/status/2108716491973550129">Marketing instincts behind Jev model naming</a></h3>
-<p>The post praises Diogo and his team for not only being great builders but also having incredible marketing instincts: System One models are named after emotional decision-making, contrasted with slower System 2 logic and reasoning; Jev is named after Jevons Paradox, which explains the demand explosion as token costs drop.</p>
-<p><strong>283</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 283</p>
-<p><strong>Tom Hollands</strong> · @tdoggyholhol</p>
 </td>
 </tr>
 </table>

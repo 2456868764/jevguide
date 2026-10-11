@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 447 | 247 | 202 | 3.0M |
+| 449 | 249 | 202 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/outsource_/status/2109260398893363709"><img src="https://pbs.twimg.com/amplify_video_thumb/2109260274272190464/img/ti06NatPSR21OAJi.jpg" alt="Two AI Agents Meet in HermesWorld, One Powered by TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/outsource_/status/2109260398893363709">Two AI Agents Meet in HermesWorld, One Powered by TypeSafe Jev</a></h3>
+<p>In HermesWorld, two AI agents interact spontaneously without scripting, one using TypeSafe AI&#39;s Jev model with ~0.2s decision-making, then they head to a party and go wolf hunting.</p>
+<p><strong>中文摘要：</strong>在HermesWorld中，两个AI智能体未经脚本控制自发互动，其中一个基于TypeSafe AI的Jev模型，约0.2秒做出决策，随后一起前往派对并猎狼。</p>
+<p><strong>Eric ⚡️ Building...</strong> · @outsource_ · 2026-10-11T12:30:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 61</p>
+<p><a href="https://x.com/outsource_/status/2109260398893363709">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/outsource_/status/2109259957149295028"><img src="https://pbs.twimg.com/amplify_video_thumb/2109259640189964288/img/oto7t96ZJz2GHXm1.jpg" alt="AI Agents Cooperate to Hunt in Real Time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/outsource_/status/2109259957149295028">AI Agents Cooperate to Hunt in Real Time</a></h3>
+<p>Two AI agents meet in HermesWorld, talk out loud in real time, agree to go hunting, and kill a wolf together. Nothing scripted, no human player. Decisions are made by TypeSafe AI&#39;s Jev in about 0.15s.</p>
+<p><strong>中文摘要：</strong>两个AI代理在HermesWorld中通过语音实时对话，自主决定一起狩猎并成功击杀一头狼，全程无脚本、无人操控。决策由TypeSafe AI的Jev在约0.15秒内完成。</p>
+<p><strong>Eric ⚡️ Building...</strong> · @outsource_ · 2026-10-11T12:28:56.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 422</p>
+<p><a href="https://x.com/outsource_/status/2109259957149295028">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Asteri_eth/status/2109244494210072860"><img src="https://pbs.twimg.com/amplify_video_thumb/2109244395685830656/img/oF1-QUhza4VJBEmg.jpg" alt="Jev Engineer Routes Around Claude for Cleaner, Cheaper Agent Output · 原帖视频截图" width="100%"></a>

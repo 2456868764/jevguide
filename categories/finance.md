@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 288 | 167 | 123 | 1.2M |
+| 290 | 169 | 123 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks</a></h3>
+<p>TypeSafe launched its AI model Jev on Sept 15 at a seed valuation of ~$200M. Less than a month later, a16z led an $870M round at a $7.5B valuation—a 37x jump.</p>
+<p><strong>中文摘要：</strong>TypeSafe于9月15日推出AI模型Jev，种子轮估值约2亿美元，不到一个月后a16z领投8.7亿美元，估值达到75亿美元，增长37倍。</p>
+<p><strong>AI Pulse</strong> · @AIPulseNewsX · 2026-10-11T13:12:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
+<p><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/morbianai/status/2109267586412105794"><img src="https://pbs.twimg.com/amplify_video_thumb/2109267394547814401/img/veykJsOLX86K6zK2.jpg" alt="Jev Trading Desk: Managing Pre-Order Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/morbianai/status/2109267586412105794">Jev Trading Desk: Managing Pre-Order Decisions</a></h3>
+<p>The post points out that even with the best research agent, the 40 decisions before an order is signed can still lose money. Jev Trading Desk doesn&#39;t try to be the genius; it focuses on handling these tedious decisions to make the trading process more robust.</p>
+<p><strong>中文摘要：</strong>帖子指出即使有最好的研究智能体，订单签署前的40个决策仍可能导致亏损。Jev Trading Desk 不追求成为天才，而是专注于处理这些繁琐的决策，确保交易流程更稳健。</p>
+<p><strong>morbian</strong> · @morbianai · 2026-10-11T12:59:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 67</p>
+<p><a href="https://x.com/morbianai/status/2109267586412105794">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cymm66/status/2109164164157509747"><img src="https://pbs.twimg.com/media/HUVBn1YXgAAyFGq?format=png&amp;name=360x360" alt="TypeSafe&#39;s $870M round led by a16z 24 days after launch · 原帖图片" width="100%"></a>

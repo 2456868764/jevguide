@@ -1,9 +1,10 @@
 # plutos
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T12:35:30.000Z | [Jev: No Words, Just Decisions](https://x.com/plutos_eth/status/2109261611089158274) | 社区实践 | plutos | 851 |
 | 2026-10-10T15:44:55.000Z | [Jev: An AI Model That Just Returns a Number and Confidence](https://x.com/plutos_eth/status/2108946889622053195) | 工作原理 | plutos | 835 |
 | 2026-10-09T11:56:27.000Z | [Jev's Performance on Bank Message Classification](https://x.com/plutos_eth/status/2108527006279168494) | 金融 | plutos | 841 |
 | 2026-10-08T13:20:06.000Z | [Jev: Millisecond Responses, Low-Cost AI Answers](https://x.com/plutos_eth/status/2108185669512073256) | 产品发布 | plutos | 654 |

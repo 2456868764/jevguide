@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5786</strong><br>curated posts</td>
-<td align="center"><strong>2906</strong><br>original videos</td>
+<td align="center"><strong>5800</strong><br>curated posts</td>
+<td align="center"><strong>2917</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1062</strong> showcases · <strong>432</strong> videos</p>
+<p><strong>1065</strong> showcases · <strong>435</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>599</strong> showcases · <strong>297</strong> videos</p>
+<p><strong>600</strong> showcases · <strong>298</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>558</strong> showcases · <strong>242</strong> videos</p>
+<p><strong>559</strong> showcases · <strong>242</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>447</strong> showcases · <strong>247</strong> videos</p>
+<p><strong>449</strong> showcases · <strong>249</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>369</strong> showcases · <strong>279</strong> videos</p>
+<p><strong>370</strong> showcases · <strong>280</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>360</strong> showcases · <strong>145</strong> videos</p>
+<p><strong>361</strong> showcases · <strong>146</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>288</strong> showcases · <strong>167</strong> videos</p>
+<p><strong>290</strong> showcases · <strong>169</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>141</strong> showcases · <strong>106</strong> videos</p>
+<p><strong>142</strong> showcases · <strong>107</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>114</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -146,16 +146,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>43</strong> showcases · <strong>28</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
 <p><strong>43</strong> showcases · <strong>21</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>42</strong> showcases · <strong>28</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/Lynx_0C/status/2109257597580910845"><img src="https://pbs.twimg.com/media/HUWWmEGboAALRPp?format=jpg&amp;name=small" alt="Open-source Rime Jev Integration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Lynx_0C/status/2109257597580910845">Open-source Rime Jev Integration</a></h3>
-<p>Lynx open-sourced a Jev integration for the Rime input method, supporting cloud Jev models and local Jev-like models (This-That-Model, Tev 0.8b, Tev 4b). Measured latency is around 600 ms and daily cost is a few cents.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Lynx</strong> · @Lynx_0C</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks</a></h3>
+<p>TypeSafe launched its AI model Jev on Sept 15 at a seed valuation of ~$200M. Less than a month later, a16z led an $870M round at a $7.5B valuation—a 37x jump.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
+<p><strong>AI Pulse</strong> · @AIPulseNewsX</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/thecircuitry_/status/2109247857517609278"><img src="https://pbs.twimg.com/media/HUWNv-SWMAA0Z1C?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M as Jev Model Gains Traction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/thecircuitry_/status/2109247857517609278">TypeSafe AI Raises $870M as Jev Model Gains Traction</a></h3>
-<p>TypeSafe AI has raised $870M in a round led by a16z at a $7.5B valuation, weeks after Jev&#39;s Sept 15 launch. a16z reports 1T tokens generated in 3 days; TypeSafe says a third of the Fortune 500 use Jev.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
-<p><strong>The Circuitry</strong> · @thecircuitry_</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/Skrilla_git/status/2109268249422561677"><img src="https://pbs.twimg.com/amplify_video_thumb/2109268197362810880/img/voa8BhXM654d_PS4.jpg" alt="Nano Jev: A Free Open-Source Clone of Jev AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Skrilla_git/status/2109268249422561677">Nano Jev: A Free Open-Source Clone of Jev AI</a></h3>
+<p>A developer in China shipped Nano Jev, a lightweight open-source model designed to replicate Jev AI&#39;s capabilities without a subscription, running directly inside open code and crossing 2,000 GitHub stars within its first day.</p>
+<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 52</p>
+<p><strong>Skrilla</strong> · @Skrilla_git</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/richie1lmao/status/2109247698230743467"><img src="https://pbs.twimg.com/media/HUWMmBWaUAA1YVS?format=png&amp;name=900x900" alt="Train a Jev vision model for under $75 to beat Clef · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/richie1lmao/status/2109247698230743467">Train a Jev vision model for under $75 to beat Clef</a></h3>
-<p>The author claims to have beaten Jev, Matilda-Jev, and Cloudflare-Clef for under $100, noting that Jev doesn&#39;t support vision yet, but using unsloth&#39;s RLCD pipeline, a Jev vision model can be trained for effectively &lt;$75 that beats Cloudflare Clef 27B &amp; 9B variants.</p>
-<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 27</p>
-<p><strong>Richie Day</strong> · @richie1lmao</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/cultist_dev/status/2109268239612334541"><img src="https://pbs.twimg.com/media/HUWgRwmbgAE-k47?format=jpg&amp;name=medium" alt="Fast semantic search powered by Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cultist_dev/status/2109268239612334541">Fast semantic search powered by Jev</a></h3>
+<p>The author built a knowledge graph and reading list, with search powered by Jev, enabling semantic retrieval across 5000+ docs in under 2 seconds at low cost. The frontend draws inspiration from Apple&#39;s fluid design.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>athrv.sh</strong> · @cultist_dev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>医疗</code> <code>原帖视频</code></p>
-<a href="https://x.com/queryverse_hy/status/2109246420729405558"><img src="https://pbs.twimg.com/amplify_video_thumb/2109246139946213376/img/FbW30HxKoG7qso5U.jpg" alt="Participated in &quot;What would jev Do&quot; hackathon, building a runtime safety layer for AI companions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/queryverse_hy/status/2109246420729405558">Participated in &quot;What would jev Do&quot; hackathon, building a runtime safety layer for AI companions</a></h3>
-<p>At the &quot;What would jev Do&quot; hackathon hosted by @adalagent, we worked on a runtime safety layer for AI companions. The proof of concept focuses on mental health support, where both signs of distress and inappropriate AI replies need careful handling.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Hanyu</strong> · @queryverse_hy</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/BenENewton/status/2109268008765989048"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109267963664535552/pu/img/i84YyNE7E7al2eAf.jpg" alt="Jev Routing Results Share · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/BenENewton/status/2109268008765989048">Jev Routing Results Share</a></h3>
+<p>The author shares an honest version of their Jev routing experiments: one codebase, one run per task, a model as judge, and self-decided which tasks count as lookups. Not claiming overall cost savings yet, but it makes cheap calls cheaper.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/Lynx_0C/status/2109257597580910845"><img src="https://pbs.twimg.com/media/HUWWmEGboAALRPp?format=jpg&amp;name=small" alt="Open-source Rime Jev Integration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Lynx_0C/status/2109257597580910845">Open-source Rime Jev Integration</a></h3>
-<p>Lynx open-sourced a Jev integration for the Rime input method, supporting cloud Jev models and local Jev-like models (This-That-Model, Tev 0.8b, Tev 4b). Measured latency is around 600 ms and daily cost is a few cents.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Lynx</strong> · @Lynx_0C</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks</a></h3>
+<p>TypeSafe launched its AI model Jev on Sept 15 at a seed valuation of ~$200M. Less than a month later, a16z led an $870M round at a $7.5B valuation—a 37x jump.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
+<p><strong>AI Pulse</strong> · @AIPulseNewsX</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>医疗</code> <code>原帖视频</code></p>
-<a href="https://x.com/queryverse_hy/status/2109246420729405558"><img src="https://pbs.twimg.com/amplify_video_thumb/2109246139946213376/img/FbW30HxKoG7qso5U.jpg" alt="Participated in &quot;What would jev Do&quot; hackathon, building a runtime safety layer for AI companions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/queryverse_hy/status/2109246420729405558">Participated in &quot;What would jev Do&quot; hackathon, building a runtime safety layer for AI companions</a></h3>
-<p>At the &quot;What would jev Do&quot; hackathon hosted by @adalagent, we worked on a runtime safety layer for AI companions. The proof of concept focuses on mental health support, where both signs of distress and inappropriate AI replies need careful handling.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Hanyu</strong> · @queryverse_hy</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/BenENewton/status/2109268008765989048"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109267963664535552/pu/img/i84YyNE7E7al2eAf.jpg" alt="Jev Routing Results Share · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/BenENewton/status/2109268008765989048">Jev Routing Results Share</a></h3>
+<p>The author shares an honest version of their Jev routing experiments: one codebase, one run per task, a model as judge, and self-decided which tasks count as lookups. Not claiming overall cost savings yet, but it makes cheap calls cheaper.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Asteri_eth/status/2109244494210072860"><img src="https://pbs.twimg.com/amplify_video_thumb/2109244395685830656/img/oF1-QUhza4VJBEmg.jpg" alt="Jev Engineer Routes Around Claude for Cleaner, Cheaper Agent Output · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Asteri_eth/status/2109244494210072860">Jev Engineer Routes Around Claude for Cleaner, Cheaper Agent Output</a></h3>
-<p>A Jev engineer hasn&#39;t let Claude decide a single next step in three months, routing small calls to another model. Despite the rest of the team spending more, his agents ship cleaner work at a fraction of the cost, demonstrating the value of routing around large models.</p>
-<p><strong>479</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 479</p>
-<p><strong>Asteri</strong> · @Asteri_eth</p>
+<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/snaga/status/2109267874053537916"><img src="https://pbs.twimg.com/media/HUWfd_saAAAaMmN?format=jpg&amp;name=900x900" alt="Plugin for tagging Obsidian notes with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/snaga/status/2109267874053537916">Plugin for tagging Obsidian notes with Jev</a></h3>
+<p>A developer created an Obsidian plugin that uses Jev to recommend tags from a preset list, falling back to Gemini when no suitable tag exists, and will test it in real use.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
+<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2109237678462083134"><img src="https://pbs.twimg.com/amplify_video_thumb/2109237641917149184/img/4Xkrc_1S6lXeImfM.jpg" alt="Jev Optimizes Coding Tasks: Cut Cost per Task from $6.42 to $2.00 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2109237678462083134">Jev Optimizes Coding Tasks: Cut Cost per Task from $6.42 to $2.00</a></h3>
-<p>In one coding task, four key changes deliver major cost savings: smarter notes selection saves 23.7%, moving decisions to Jev saves 51.2%, proper recovery paths save 58.1%, and routing to a fast worker saves 68.8%. Each lever stacks on the last, cutting cost from $6.42 to $2.00.</p>
-<p><strong>2.3K</strong> views · 💬 1 &nbsp; 🔁 8 &nbsp; ♡ 49 &nbsp; 📊 2.3K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2109261611089158274"><img src="https://pbs.twimg.com/amplify_video_thumb/2109261168019660800/img/b30uqxsOHTJDeoHw.jpg" alt="Jev: No Words, Just Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2109261611089158274">Jev: No Words, Just Decisions</a></h3>
+<p>The author shares how they use the smartest AI for yes/no decisions (e.g., is this email urgent, should this tool run), and Jev wins because it doesn&#39;t generate text, only makes judgments.</p>
+<p><strong>851</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 851</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 </tr>
 </table>

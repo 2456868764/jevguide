@@ -19,16 +19,18 @@
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
 - [Asteri](../authors/asteri.md) — 10
 - [AI Edge](../authors/ai-edge.md) — 9
+- [Ben Newton ベン](../authors/ben-newton.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 8
 - [Alex](../authors/alex.md) — 8
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
-- [Ben Newton ベン](../authors/ben-newton.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
 - [Dhanian 🗯️](../authors/dhanian.md) — 8
 - [Gipp 🦅](../authors/gipp.md) — 8
+- [plutos](../authors/plutos.md) — 8
+- [Skrilla](../authors/skrilla.md) — 8
 - [Suzuki](../authors/suzuki.md) — 8
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
@@ -40,10 +42,8 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
-- [plutos](../authors/plutos.md) — 7
 - [rewind](../authors/rewind.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
-- [Skrilla](../authors/skrilla.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -117,6 +117,7 @@
 - [Diogo Almeida](../authors/diogo-almeida.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
 - [Elias Andualem](../authors/elias-andualem.md) — 4
+- [Eric ⚡️ Building...](../authors/eric-building.md) — 4
 - [Erik Kokalj](../authors/erik-kokalj.md) — 4
 - [Ersin KOÇ](../authors/ersin-koc.md) — 4
 - [explos1ve](../authors/explos1ve.md) — 4
@@ -160,6 +161,7 @@
 - [Víctor Falcón](../authors/victor-falcon.md) — 4
 - [VisiveAI](../authors/visiveai.md) — 4
 - [Wyong · 产品增长](../authors/wyong-产品增长.md) — 4
+- [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 4
 - [あきらパパ【生成AI活用エンジニア&３児のパパ】](../authors/生成ai活用-3児.md) — 4
 - [おさじ｜AIじっちゃん｜FIREからの再起動](../authors/ai-fire-再起動.md) — 4
 - [きしだൠ(K1S)](../authors/k1s.md) — 4
@@ -297,6 +299,7 @@
 - [rodon](../authors/rodon.md) — 3
 - [RogerAI](../authors/rogerai.md) — 3
 - [Samarth](../authors/samarth.md) — 3
+- [Satoshi Nagayasu 🧠🤖](../authors/satoshi-nagayasu.md) — 3
 - [SECTOR](../authors/sector.md) — 3
 - [Shann³](../authors/shann3.md) — 3
 - [Shawn](../authors/shawn.md) — 3
@@ -322,7 +325,6 @@
 - [VerySmallWoods](../authors/verysmallwoods.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
-- [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 3
 - [xiax｜AI & Agents](../authors/xiax-ai-agents.md) — 3
 - [Y.Yamashiro](../authors/y-yamashiro.md) — 3
 - [Yum⋆₊˚](../authors/yum.md) — 3
@@ -684,7 +686,6 @@
 - [santifer](../authors/santifer.md) — 2
 - [Sarah Drasner](../authors/sarah-drasner.md) — 2
 - [Satoshi Kume｜AI × Science](../authors/satoshi-kume-ai-science.md) — 2
-- [Satoshi Nagayasu 🧠🤖](../authors/satoshi-nagayasu.md) — 2
 - [saturn](../authors/saturn.md) — 2
 - [sengpt](../authors/sengpt.md) — 2
 - [septendec](../authors/septendec.md) — 2
@@ -946,6 +947,7 @@
 - [AI Mastery Guide](../authors/ai-mastery-guide.md) — 1
 - [AI Native Foundation](../authors/ai-native-foundation.md) — 1
 - [AI News Smoothie](../authors/ai-news-smoothie.md) — 1
+- [AI Pulse](../authors/ai-pulse.md) — 1
 - [AI SDK](../authors/ai-sdk.md) — 1
 - [AI Search](../authors/ai-search.md) — 1
 - [AI Surplus](../authors/ai-surplus.md) — 1
@@ -1067,6 +1069,7 @@
 - [Amir Efrati](../authors/amir-efrati.md) — 1
 - [Amir Hamza](../authors/amir-hamza.md) — 1
 - [Amit B](../authors/amit-b.md) — 1
+- [Amit Gambhir](../authors/amit-gambhir.md) — 1
 - [Amit Mirgal 🇮🇳](../authors/amit-mirgal.md) — 1
 - [Amit Paranjape](../authors/amit-paranjape.md) — 1
 - [AMIT RAWAT](../authors/amit-rawat.md) — 1
@@ -1171,6 +1174,7 @@
 - [Ata Herrera 🇦🇷](../authors/ata-herrera.md) — 1
 - [Atai Barkai](../authors/atai-barkai.md) — 1
 - [atharva sindwani](../authors/atharva-sindwani.md) — 1
+- [athrv.sh](../authors/athrv-sh.md) — 1
 - [Athulya](../authors/athulya.md) — 1
 - [ATK](../authors/atk.md) — 1
 - [attaimen](../authors/attaimen.md) — 1
@@ -1556,6 +1560,7 @@
 - [devrev](../authors/devrev.md) — 1
 - [Dewi Gould](../authors/dewi-gould.md) — 1
 - [Dex](../authors/dex.md) — 1
+- [dextune](../authors/dextune.md) — 1
 - [dfkai](../authors/dfkai.md) — 1
 - [DGrid AI](../authors/dgrid-ai.md) — 1
 - [Dhanji Bhagat](../authors/dhanji-bhagat.md) — 1
@@ -1662,7 +1667,6 @@
 - [Eri Dervishi](../authors/eri-dervishi.md) — 1
 - [Eric](../authors/eric.md) — 1
 - [Eric - add multiplayer to your game in 1 prompt](../authors/eric-add-multiplayer-to-your-game-in-1-prompt.md) — 1
-- [Eric ⚡️ Building...](../authors/eric-building.md) — 1
 - [Eric Cheng](../authors/eric-cheng.md) — 1
 - [Eric MacDougall](../authors/eric-macdougall.md) — 1
 - [Eric Mao](../authors/eric-mao.md) — 1
@@ -2581,6 +2585,7 @@
 - [Moon](../authors/moon.md) — 1
 - [Moonfarm 🇸🇪](../authors/moonfarm.md) — 1
 - [MoonInAI](../authors/mooninai.md) — 1
+- [morbian](../authors/morbian.md) — 1
 - [Morgan](../authors/morgan.md) — 1
 - [Morlex](../authors/morlex.md) — 1
 - [MotherDuck](../authors/motherduck.md) — 1
@@ -3140,6 +3145,7 @@
 - [Seth Kimmel](../authors/seth-kimmel.md) — 1
 - [Shadow Nick](../authors/shadow-nick.md) — 1
 - [ShadowBob](../authors/shadowbob.md) — 1
+- [shadows](../authors/shadows.md) — 1
 - [Shahir](../authors/shahir.md) — 1
 - [Shahriar](../authors/shahriar.md) — 1
 - [shaman](../authors/shaman.md) — 1

@@ -2,6 +2,18 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T16:31:19.000Z | [Jev docs audit costs only $0.0146](https://x.com/cultist_dev/status/2109320952496439615) | 开发者工具 | athrv.sh | 6 |
+| 2026-10-11T16:22:53.000Z | [Jev for Building Trading Bots](https://x.com/bl888m_eth/status/2109318830220824795) | 金融 | bl888m | 202 |
+| 2026-10-11T16:04:12.000Z | [Economic Structure for Jev Decision Agents](https://x.com/emaadmanzoor/status/2109314132021514432) | 智能体 | Emaad Manzoor | 73 |
+| 2026-10-11T16:02:26.000Z | [Using Jev to Play 101 Okey in the Browser](https://x.com/yprkemrullah/status/2109313686368039127) | 游戏 | Emrullah Yaprak | 23 |
+| 2026-10-11T15:59:06.000Z | [Jev Community Practice: Browser Agents, Games, and Routing](https://x.com/ReindentAI/status/2109312845288534193) | 社区实践 | Reindent | 17 |
+| 2026-10-11T15:58:06.000Z | [Microsoft Decision-1 vs Jev: Benchmarks, Billing, and Codex Integration](https://x.com/AleksejAros/status/2109312596943700127) | 开发者工具 | Alex Yarosh · AI expert · CEO of AI Studio | 154 |
+| 2026-10-11T15:55:11.000Z | [Speed comparison with Jev](https://x.com/okiraku_neko/status/2109311863272222886) | 社区实践 | okiraku_neko | 4 |
+| 2026-10-11T15:52:36.000Z | [Jev launched a week ago: traders already plugging it into order books and trading bots](https://x.com/makiriss/status/2109311209371488741) | 金融 | makiris | 219 |
+| 2026-10-11T15:51:24.000Z | [Jev Performs Well in MedQA Benchmarks, Refuting Claims of Its Demise](https://x.com/zarate_ai/status/2109310911223869774) | 社区实践 | Jyan Z. | 7 |
+| 2026-10-11T15:48:10.000Z | [Qwen 3.8 Flash Next tested in Jev evaluation](https://x.com/7shi/status/2109310094668361899) | 科研 | 七誌 | 84 |
+| 2026-10-11T15:48:00.000Z | [Real Estate Agent Handles All Inquiries in Under 5 Minutes with Jev](https://x.com/DonatelloXPro/status/2109310052930629683) | 客户支持 | Donatello | 16 |
+| 2026-10-11T15:43:00.000Z | [The Era of Specialized AI Models: Jev and Microsoft Decision Models](https://x.com/magithar/status/2109308793381371905) | 智能体 | magithar | 10 |
 | 2026-10-11T15:42:00.000Z | [TypeSafe Jev Shines in Rubik's Cube Benchmark](https://x.com/stretchcloud/status/2109308542910091265) | 社区实践 | Prasenjit Sarkar | 4 |
 | 2026-10-11T15:41:33.000Z | [Decision 3.0 Local Test: Tool Call Accuracy Compared with Jev](https://x.com/natzir9/status/2109308431731487073) | 智能体 | Natzir | 29 |
 | 2026-10-11T15:32:34.000Z | [Splitting Decisions into a DAG of Jev Calls with Grok](https://x.com/neuralSWE/status/2109306168493686862) | 科研 | Peacock | 16 |
@@ -90,15 +102,3 @@
 | 2026-10-11T06:33:24.000Z | [TypeSafe Raises ~$870M Led by a16z, Jev Model Launches](https://x.com/ApoloSowcrox/status/2109170485292597425) | 产品发布 | Lerry | 31 |
 | 2026-10-11T06:20:21.000Z | [Jev Autonomously Controls a Character in a Game World](https://x.com/outsource_/status/2109167200632287611) | 游戏 | Eric ⚡️ Building... | 527 |
 | 2026-10-11T06:08:17.000Z | [TypeSafe's $870M round led by a16z 24 days after launch](https://x.com/cymm66/status/2109164164157509747) | 金融 | Crypto满满 | 10K |
-| 2026-10-11T05:52:37.000Z | [Request for a Jev-like model](https://x.com/waefrebeorn/status/2109160221344244145) | 社区实践 | WuBu ⪋ WaefreBeorn 🇺🇸 👑 | 29 |
-| 2026-10-11T05:50:05.000Z | [Jev Model Speed Comparison Sparks Discussion](https://x.com/haoshan98/status/2109159581893210505) | 开发者工具 | haoshan | 21 |
-| 2026-10-11T05:49:46.000Z | [Stress-Testing Jev as a Financial Evidence Judge](https://x.com/HEI/status/2109159503773974867) | 科研 | Natural Language Processing Papers | 64 |
-| 2026-10-11T05:42:39.000Z | [Winning Jev Buildathon Project: Reshaping Your YouTube Feed](https://x.com/Naman_125/status/2109157710960996734) | 社区实践 | Naman Anand | 298 |
-| 2026-10-10T16:12:34.000Z | [Ollajev 0.3 Release: Decision Models Now See and Hear](https://x.com/nvkudva/status/2108953848899604814) | 产品发布 | Vijaykrishna | 8 |
-| 2026-10-10T16:04:43.000Z | [TypeSafe AI Raises $870M to Develop Jev Model](https://x.com/FintechGate1/status/2108951872249774147) | 金融 | FinTech Gate-بوابة التكنولوجيا المالية | 20 |
-| 2026-10-10T16:03:47.000Z | [TypeSafe AI Raises $870M, Jev Model Returns Machine-Readable Decisions](https://x.com/coppercode_/status/2108951638283001986) | 开发者工具 | c0pper c0det | 13 |
-| 2026-10-10T15:54:24.000Z | [A creator tool built with Jev](https://x.com/connorgallic/status/2108949277552885865) | 内容创作 | Connor Gallic | 11 |
-| 2026-10-10T15:52:31.000Z | [Nace.AI Open-Sources Drex 1.5 Decision Model, Benchmarking Against Jev](https://x.com/BenchLM_AI/status/2108948801540993166) | 产品发布 | BenchLM | 6 |
-| 2026-10-10T15:48:22.000Z | [Jev benchmark: 81.7% vs GPT-6 Luna 61.2%](https://x.com/eldadtsabary/status/2108947758530855266) | 社区实践 | Eldad Tsabary | 10 |
-| 2026-10-10T15:45:00.000Z | [OpenAI Dots + JEV + Grok Bots Process 307 Receipts in a Week](https://x.com/DonatelloXPro/status/2108946910341935449) | 自动化工作流 | Donatello | 25 |
-| 2026-10-10T15:44:55.000Z | [Jev: An AI Model That Just Returns a Number and Confidence](https://x.com/plutos_eth/status/2108946889622053195) | 工作原理 | plutos | 835 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 454 | 252 | 204 | 3.0M |
+| 456 | 254 | 204 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/emaadmanzoor/status/2109314132021514432"><img src="https://pbs.twimg.com/amplify_video_thumb/2109311447951912960/img/eP2zQ-GkhNMIHh7f.jpg" alt="Economic Structure for Jev Decision Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/emaadmanzoor/status/2109314132021514432">Economic Structure for Jev Decision Agents</a></h3>
+<p>Discusses how giving Jev decision agents economic structure—weighing rewards, opportunity costs, and option-value of waiting—can reduce time spent on low-value conversations like sales calls.</p>
+<p><strong>中文摘要：</strong>讨论通过赋予Jev决策代理经济结构，如权衡奖励、机会成本和等待的期权价值，来减少低价值对话时间，提升销售等场景的效率。</p>
+<p><strong>Emaad Manzoor</strong> · @emaadmanzoor · 2026-10-11T16:04:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 73</p>
+<p><a href="https://x.com/emaadmanzoor/status/2109314132021514432">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/magithar/status/2109308793381371905"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="The Era of Specialized AI Models: Jev and Microsoft Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/magithar/status/2109308793381371905">The Era of Specialized AI Models: Jev and Microsoft Decision Models</a></h3>
+<p>A user believes we are entering an era of specialized AI models, mentioning Jev and Microsoft Decision models, arguing that a giant general-purpose LLM is not needed for everything, and more task-specific models will emerge.</p>
+<p><strong>中文摘要：</strong>一位用户认为我们正进入专业化AI模型时代，提及Jev和微软决策模型，主张无需大型通用LLM处理一切，未来将有更多面向特定任务的模型。</p>
+<p><strong>magithar</strong> · @magithar · 2026-10-11T15:43:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/magithar/status/2109308793381371905">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/natzir9/status/2109308431731487073"><img src="https://pbs.twimg.com/media/HUXEqL1WEAA8c-4?format=jpg&amp;name=medium" alt="Decision 3.0 Local Test: Tool Call Accuracy Compared with Jev · 原帖图片" width="100%"></a>

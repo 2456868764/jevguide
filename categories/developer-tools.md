@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 600 | 298 | 304 | 3.6M |
+| 602 | 298 | 306 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cultist_dev/status/2109320952496439615"><img src="https://pbs.twimg.com/media/HUXQOevXcAEu9fV?format=jpg&amp;name=medium" alt="Jev docs audit costs only $0.0146 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cultist_dev/status/2109320952496439615">Jev docs audit costs only $0.0146</a></h3>
+<p>The post compares Jev&#39;s cost for docs audits vs FirstRun tests: 7 audits cost $0.0146 in total, while one FirstRun test costs $0.0473. Audits are cheap because the model reads a shortlist of stale pages, while a blobless clone and history scan run in code for $0, and Jev, a model that returns typed answers, reads at most 200 stale pages.</p>
+<p><strong>中文摘要：</strong>帖子对比了Jev模型在文档审计和FirstRun测试中的成本：7次文档审计总成本0.0146美元，而一次FirstRun测试成本0.0473美元。原因在于审计时模型只读取少量陈旧页面，且Jev返回类型化答案，历史扫描由代码执行，成本几乎为零。</p>
+<p><strong>athrv.sh</strong> · @cultist_dev · 2026-10-11T16:31:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/cultist_dev/status/2109320952496439615">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AleksejAros/status/2109312596943700127"><img src="https://pbs.twimg.com/media/HUXIky3XoAEoi2t?format=jpg&amp;name=large" alt="Microsoft Decision-1 vs Jev: Benchmarks, Billing, and Codex Integration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AleksejAros/status/2109312596943700127">Microsoft Decision-1 vs Jev: Benchmarks, Billing, and Codex Integration</a></h3>
+<p>AI expert Alex Yarosh compares Microsoft&#39;s Decision-1 with Jev, analyzing differences in benchmarks, real-world billing, and Codex integration.</p>
+<p><strong>中文摘要：</strong>AI专家Alex Yarosh对微软Decision-1与Jev进行对比，分析其在基准测试、实际计费和Codex集成方面的差异。</p>
+<p><strong>Alex Yarosh · AI expert · CEO of AI Studio</strong> · @AleksejAros · 2026-10-11T15:58:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 154</p>
+<p><a href="https://x.com/AleksejAros/status/2109312596943700127">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HOTHEAD01TH/status/2109265266672566496"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109265260498518016/pu/img/udRADNbRXlZcQWaa.jpg" alt="QuickE2E: An E2E Testing Library Powered by Jev Decision Models · 原帖视频截图" width="100%"></a>

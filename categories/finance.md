@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 292 | 170 | 124 | 1.2M |
+| 294 | 171 | 125 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bl888m_eth/status/2109318830220824795"><img src="https://pbs.twimg.com/media/HUXODxSaAAAQ73a?format=jpg&amp;name=medium" alt="Jev for Building Trading Bots · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bl888m_eth/status/2109318830220824795">Jev for Building Trading Bots</a></h3>
+<p>The post shares the advantages of using Jev to build a trading bot, claiming it is 200x faster and 400x cheaper than running Claude alone, and provides a prompt to drop into Claude for detailed setup guidance.</p>
+<p><strong>中文摘要：</strong>该帖子分享使用Jev构建交易机器人的优势，声称比单独运行Claude快200倍且便宜400倍，并提供可放入Claude的提示词以获取详细设置指导。</p>
+<p><strong>bl888m</strong> · @bl888m_eth · 2026-10-11T16:22:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 202</p>
+<p><a href="https://x.com/bl888m_eth/status/2109318830220824795">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/makiriss/status/2109311209371488741"><img src="https://pbs.twimg.com/amplify_video_thumb/2109311059412623360/img/RXiCOCN_4fAwzyg4.jpg" alt="Jev launched a week ago: traders already plugging it into order books and trading bots · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/makiriss/status/2109311209371488741">Jev launched a week ago: traders already plugging it into order books and trading bots</a></h3>
+<p>Per the post, Jev dropped about a week ago and traders are already using it for live order books, real-time signals, trading bots, and AI hedge funds. Projects like jev-trader on GitHub read the Kuru order book on Monad and ask Jev for buy/sell calls.</p>
+<p><strong>中文摘要：</strong>据帖子，Jev 发布约一周，交易者已开始将其用于实时订单簿、信号生成、交易机器人和 AI 对冲基金。GitHub 上已有项目如 jev-trader，可读取 Monad 上的 Kuru 订单簿并向 Jev 询问买卖建议。</p>
+<p><strong>makiris</strong> · @makiriss · 2026-10-11T15:52:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 219</p>
+<p><a href="https://x.com/makiriss/status/2109311209371488741">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DaveWangMIA/status/2109283300330422663"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283127524999168/img/mxIqVdbFHb76l-cG.jpg" alt="Using Jev for Investment Analysis · 原帖视频截图" width="100%"></a>

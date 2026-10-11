@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1055
-- [Developer tools](../categories/developer-tools.md) — 598
+- [Community builds](../categories/community-builds.md) — 1062
+- [Developer tools](../categories/developer-tools.md) — 599
 - [How it works](../categories/how-it-works.md) — 558
-- [Launch news](../categories/launch-news.md) — 485
-- [Agents](../categories/agents.md) — 445
+- [Launch news](../categories/launch-news.md) — 487
+- [Agents](../categories/agents.md) — 447
 - [Access updates](../categories/access-updates.md) — 401
-- [Gaming](../categories/gaming.md) — 368
+- [Gaming](../categories/gaming.md) — 369
 - [Developer resources](../categories/developer-resources.md) — 360
-- [Finance](../categories/finance.md) — 287
-- [Workflow automation](../categories/workflow-automation.md) — 243
+- [Finance](../categories/finance.md) — 288
+- [Workflow automation](../categories/workflow-automation.md) — 244
 - [Marketing](../categories/marketing.md) — 141
 - [Content creation](../categories/content-creation.md) — 118
 - [Data analytics](../categories/data-analytics.md) — 115
 - [Knowledge & search](../categories/knowledge-search.md) — 114
-- [Scientific research](../categories/scientific-research.md) — 91
+- [Scientific research](../categories/scientific-research.md) — 93
 - [Cybersecurity](../categories/cybersecurity.md) — 65
 - [Customer support](../categories/customer-support.md) — 56
-- [Robotics](../categories/robotics.md) — 44
+- [Robotics](../categories/robotics.md) — 45
 - [Software development](../categories/software-development.md) — 43
-- [Productivity](../categories/productivity.md) — 41
+- [Productivity](../categories/productivity.md) — 42
 - [Business operations](../categories/business-operations.md) — 40
+- [Healthcare](../categories/healthcare.md) — 28
 - [Education](../categories/education.md) — 28
-- [Healthcare](../categories/healthcare.md) — 27
 - [E-commerce](../categories/e-commerce.md) — 22
 - [Legal & compliance](../categories/legal-compliance.md) — 21

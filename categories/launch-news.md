@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 485 | 218 | 270 | 1.1M |
+| 487 | 219 | 271 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thecircuitry_/status/2109247857517609278"><img src="https://pbs.twimg.com/media/HUWNv-SWMAA0Z1C?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M as Jev Model Gains Traction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thecircuitry_/status/2109247857517609278">TypeSafe AI Raises $870M as Jev Model Gains Traction</a></h3>
+<p>TypeSafe AI has raised $870M in a round led by a16z at a $7.5B valuation, weeks after Jev&#39;s Sept 15 launch. a16z reports 1T tokens generated in 3 days; TypeSafe says a third of the Fortune 500 use Jev.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI在Jev于9月15日发布后完成由a16z领投的8.7亿美元融资，估值达75亿美元。a16z称Jev三天内生成1万亿tokens，TypeSafe表示三分之一的财富500强企业使用Jev。</p>
+<p><strong>The Circuitry</strong> · @thecircuitry_ · 2026-10-11T11:40:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
+<p><a href="https://x.com/thecircuitry_/status/2109247857517609278">在 X 查看原帖</a> · <a href="https://t.co/hoiQki2jgH">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SUL5MUN/status/2109237038134268039"><img src="https://pbs.twimg.com/amplify_video_thumb/2109236862199992320/img/fNenSZl5BQE76z4b.jpg" alt="TypeSafe Jev: AI Model That Doesn&#39;t Write a Word Sparks $7.5B Valuation · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/SUL5MUN/status/2109237038134268039">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheCEO_Magazine/status/2109215429008974009"><img src="https://pbs.twimg.com/media/HUQ4WNybQAAjC6X?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Model Drives Enterprise Automation · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/TheCEO_Magazine/status/2109215429008974009">在 X 查看原帖</a> · <a href="https://t.co/M2TNUsHNYO">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tekno_pusulatr/status/2109214253198475287"><img src="https://pbs.twimg.com/media/HUVvL7FXUAEHwlY?format=jpg&amp;name=900x900" alt="TypeSafe AI&#39;s textless model Jev secures $870M investment · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/tekno_pusulatr/status/2109214253198475287">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MarcusSchuler/status/2109201350164619597"><img src="https://pbs.twimg.com/media/HUVjc3TWMAA52mK?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M for Jev Decision Model · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/MarcusSchuler/status/2109201350164619597">在 X 查看原帖</a> · <a href="https://t.co/MhzJbWTLBG">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Voyagervvv/status/2109200328080167000"><img src="https://pbs.twimg.com/media/HUVihVGacAAUs-Y?format=jpg&amp;name=medium" alt="Jev Decision Model Raises $870M, TypeSafe Valuation Soars · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/Voyagervvv/status/2109200328080167000">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aginaut/status/2109192280384922075"><img src="https://pbs.twimg.com/media/HUDXef4XcAAKaTO?format=jpg&amp;name=medium" alt="Cloudflare Launches Clef: Jev-Compatible Decision Models · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +92,17 @@
 <p><strong>aginaut</strong> · @aginaut · 2026-10-11T08:00:01.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
 <p><a href="https://x.com/aginaut/status/2109192280384922075">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ApoloSowcrox/status/2109170485292597425"><img src="https://pbs.twimg.com/amplify_video_thumb/2108622277424377856/img/pJSKVORgBKQsbPD1.jpg" alt="TypeSafe Raises ~$870M Led by a16z, Jev Model Launches · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ApoloSowcrox/status/2109170485292597425">TypeSafe Raises ~$870M Led by a16z, Jev Model Launches</a></h3>
+<p>Jev is a decision model built for typed outputs (classifications, probabilities), bolted directly into software workflows rather than another sidebar chatbot.</p>
+<p><strong>中文摘要：</strong>Jev 是一个为类型化输出（分类、概率）构建的决策模型，直接嵌入软件工作流，而非作为另一个侧边栏聊天机器人。</p>
+<p><strong>Lerry</strong> · @ApoloSowcrox · 2026-10-11T06:33:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/ApoloSowcrox/status/2109170485292597425">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

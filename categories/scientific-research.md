@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 91 | 29 | 64 | 136K |
+| 93 | 30 | 65 | 136K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Kalyan KS</strong> · @kalyan_kpl · 2026-10-11T10:50:48.000Z</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 104</p>
 <p><a href="https://x.com/kalyan_kpl/status/2109235262740115955">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/picampusschool/status/2109185081679987082"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109184863987224578/pu/img/ocWE7C3fSVRbaJsC.jpg" alt="Pi AI Weekly Trends 100: Featuring Jev, Laya &amp; Open-Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/picampusschool/status/2109185081679987082">Pi AI Weekly Trends 100: Featuring Jev, Laya &amp; Open-Jev</a></h3>
+<p>Pi School releases the 100th edition of AI Weekly Trends, curated by Senior Deep Learning Scientist Àlex R. Atrio. This week&#39;s highlights include AI breakthroughs such as Jev, Laya, and Open-Jev.</p>
+<p><strong>中文摘要：</strong>Pi School 发布第100期 AI 每周趋势，由资深深度学习科学家 Àlex R. Atrio 精选，本周亮点包括 Jev、Laya 和 Open-Jev 等 AI 突破。</p>
+<p><strong>Pi School</strong> · @picampusschool · 2026-10-11T07:31:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 67</p>
+<p><a href="https://x.com/picampusschool/status/2109185081679987082">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HEI/status/2109159503773974867"><img src="https://pbs.twimg.com/media/HUU9ZFqW0AAlkMQ?format=png&amp;name=medium" alt="Stress-Testing Jev as a Financial Evidence Judge · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HEI/status/2109159503773974867">Stress-Testing Jev as a Financial Evidence Judge</a></h3>
+<p>This paper evaluates the robustness of the Jev model in financial evidence judgments using same-number citation swaps.</p>
+<p><strong>中文摘要：</strong>该论文通过同号引用交换方法，评估Jev模型在金融证据判断中的稳健性。</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI · 2026-10-11T05:49:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
+<p><a href="https://x.com/HEI/status/2109159503773974867">在 X 查看原帖</a> · <a href="https://t.co/LeMDiLAYnv">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Karthikvarmamkv/status/2108823946099659098"><img src="https://pbs.twimg.com/media/HUQMNFTawAAt-ug?format=jpg&amp;name=medium" alt="Jev Model Helps Uncover 1812 Meteorite Record in India · 原帖图片" width="100%"></a>

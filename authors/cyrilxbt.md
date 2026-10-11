@@ -1,11 +1,12 @@
 # CyrilXBT
 
-20 Jev showcases.
+21 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
 | 2026-10-11T11:00:24.000Z | [Jev Optimizes Coding Tasks: Cut Cost per Task from $6.42 to $2.00](https://x.com/cyrilXBT/status/2109237678462083134) | 软件开发 | CyrilXBT | 2.3K |
 | 2026-10-11T08:00:17.000Z | [Jev Model Layered Architecture: From Single Model to Specialized Layers](https://x.com/cyrilXBT/status/2109192348177682528) | 工作原理 | CyrilXBT | 4.5K |
+| 2026-10-11T06:45:05.000Z | [Run Jev in Shadow Mode](https://x.com/cyrilXBT/status/2109173426028228981) | 社区实践 | CyrilXBT | 5.7K |
 | 2026-10-10T07:45:08.000Z | [Jev cuts coding agent bill by 68.8%](https://x.com/cyrilXBT/status/2108826149006811403) | 软件开发 | CyrilXBT | 2.8K |
 | 2026-10-10T06:45:09.000Z | [Jev: Low-cost decision-making, Opus handles deep thinking](https://x.com/cyrilXBT/status/2108811054834909231) | 智能体 | CyrilXBT | 3.1K |
 | 2026-10-02T02:30:02.000Z | [Claude + Jev: Turn Opus 5.5 into a Multi-Agent Team](https://x.com/cyrilXBT/status/2105847748893536468) | 智能体 | CyrilXBT | 1.9K |

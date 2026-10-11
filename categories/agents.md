@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 445 | 245 | 202 | 3.0M |
+| 447 | 247 | 202 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Asteri_eth/status/2109244494210072860"><img src="https://pbs.twimg.com/amplify_video_thumb/2109244395685830656/img/oF1-QUhza4VJBEmg.jpg" alt="Jev Engineer Routes Around Claude for Cleaner, Cheaper Agent Output · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Asteri_eth/status/2109244494210072860">Jev Engineer Routes Around Claude for Cleaner, Cheaper Agent Output</a></h3>
+<p>A Jev engineer hasn&#39;t let Claude decide a single next step in three months, routing small calls to another model. Despite the rest of the team spending more, his agents ship cleaner work at a fraction of the cost, demonstrating the value of routing around large models.</p>
+<p><strong>中文摘要：</strong>一位Jev工程师三个月不让Claude决定下一步，将每个小调用交给模型处理，团队整体烧钱更多，但他的代理却以更低成本交付更干净的工作。这展示了通过Jev路由绕过大型模型的实际收益。</p>
+<p><strong>Asteri</strong> · @Asteri_eth · 2026-10-11T11:27:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 479</p>
+<p><a href="https://x.com/Asteri_eth/status/2109244494210072860">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/rewind02/status/2109239099332661429"><img src="https://pbs.twimg.com/amplify_video_thumb/2109239010128232449/img/jpau487h63YNmjYM.jpg" alt="Jev Drives Virtual San Francisco in Unreal Engine · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 10 &nbsp; 📊 370</p>
 <p><a href="https://x.com/rewind02/status/2109239099332661429">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lyfocdoteth/status/2109229478170034684"><img src="https://pbs.twimg.com/amplify_video_thumb/2109229405814034432/img/CVCAu3PmF7cztE3U.jpg" alt="Jev makes decision costs negligible · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/lyfocdoteth/status/2109229478170034684">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yyyole/status/2109218895496380558"><img src="https://pbs.twimg.com/media/HUVyzxua8AAg-zD?format=jpg&amp;name=medium" alt="Muse proactively pushes Jev-related updates · 原帖图片" width="100%"></a>
 <br>
@@ -44,6 +55,19 @@
 <p><strong>沐阳</strong> · @yyyole · 2026-10-11T09:45:46.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 393</p>
 <p><a href="https://x.com/yyyole/status/2109218895496380558">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Ryancollins_Ai/status/2109175818459201793"><img src="https://pbs.twimg.com/amplify_video_thumb/2109175459825270784/img/Rj9ytoFa6Id80YdD.jpg" alt="TypeSafe AI raises $870M; Jev model focuses on structured decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Ryancollins_Ai/status/2109175818459201793">TypeSafe AI raises $870M; Jev model focuses on structured decisions</a></h3>
+<p>TypeSafe AI raised $870M at a $7.5B valuation. Its model Jev, unlike ChatGPT or Claude, is designed for structured decisions, probability outputs, action selection, and data software can use, rather than text generation.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 以75亿美元估值融资8.7亿美元。其模型 Jev 与 ChatGPT/Claude 不同，主要面向结构化决策、概率输出、动作选择以及软件可用的数据，而非文本生成。</p>
+<p><strong>Ryan Collins</strong> · @Ryancollins_Ai · 2026-10-11T06:54:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5.5K</p>
+<p><a href="https://x.com/Ryancollins_Ai/status/2109175818459201793">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Kaizen_DSP/status/2108835902072209693"><img src="https://pbs.twimg.com/media/HUQXE52agAIJsUh?format=jpg&amp;name=large" alt="Self State: A New Layer on Agentic LLMs Using JEV and Global Workspace Theory · 原帖图片" width="100%"></a>

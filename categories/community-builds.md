@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1049 | 428 | 625 | 3.0M |
+| 1055 | 428 | 631 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yuu1111main/status/2109237851171049619"><img src="https://pbs.twimg.com/media/HUWEg0IacAAIqax?format=jpg&amp;name=medium" alt="A Chrome Extension Using Jev Rates Posts, and Its Creator&#39;s Own Post Gets &quot;Not Worth Sharing&quot; · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yuu1111main/status/2109237851171049619">A Chrome Extension Using Jev Rates Posts, and Its Creator&#39;s Own Post Gets &quot;Not Worth Sharing&quot;</a></h3>
+<p>While building a Chrome extension that uses the Jev model to classify posts as &quot;worth sharing&quot; or &quot;not worth sharing,&quot; the creator found their own post categorized as &quot;not worth sharing.&quot; A humorous real-world application of Jev in content evaluation.</p>
+<p><strong>中文摘要：</strong>作者在制作一个用Jev模型对帖子进行“值得转载”和“不值得转载”分类的Chrome扩展时，发现自己的帖子竟被归为“不值得转载”，引发苦笑。这是Jev模型在内容筛选中的有趣应用。</p>
+<p><strong>Miyayu</strong> · @yuu1111main · 2026-10-11T11:01:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 177</p>
+<p><a href="https://x.com/yuu1111main/status/2109237851171049619">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/roki3123/status/2109237588930547811"><img src="https://pbs.twimg.com/media/HTKodmSbQAA0Svp?format=jpg&amp;name=medium" alt="Improving Lesson Plan Questions with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/roki3123/status/2109237588930547811">Improving Lesson Plan Questions with Jev</a></h3>
+<p>The author shares notes from trying Jev, discussing how to separate goals, activity conditions, and time expectations in lesson plans to ask AI more effectively.</p>
+<p><strong>中文摘要：</strong>作者分享在尝试Jev时的记录，探讨如何把教案的目标、活动条件和时间预期分开，以便更有效地向AI提问。</p>
+<p><strong>プレフロ先生　Playflow（教室と家庭のちょうどいい）</strong> · @roki3123 · 2026-10-11T11:00:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/roki3123/status/2109237588930547811">在 X 查看原帖</a> · <a href="https://t.co/w0Y0dYelmK">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eldorastudio/status/2109234631547421144"><img src="https://pbs.twimg.com/media/HUWAeEGW0AAJ5SQ?format=png&amp;name=medium" alt="Jev-powered buzz.xyz: VPS and Nostr relay practice · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eldorastudio/status/2109234631547421144">Jev-powered buzz.xyz: VPS and Nostr relay practice</a></h3>
+<p>The user discusses whether heading toward a Jev-powered buzz.xyz and shares setup: VPS relay for 24/7 builds, Mac only for GPU/previews.</p>
+<p><strong>中文摘要：</strong>用户讨论是否迈向Jev驱动的buzz.xyz，并分享运行设置：VPS relay用于24/7构建，Mac仅用于GPU/预览。</p>
+<p><strong>Zee</strong> · @eldorastudio · 2026-10-11T10:48:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/eldorastudio/status/2109234631547421144">在 X 查看原帖</a> · <a href="https://t.co/2gVJ5EMCVV">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gokhanamal/status/2109232231134716088"><img src="https://pbs.twimg.com/media/HUV_V5XWcAAAI3O?format=png&amp;name=900x900" alt="Jev token cost is only $0.35, user says nearly free · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gokhanamal/status/2109232231134716088">Jev token cost is only $0.35, user says nearly free</a></h3>
+<p>The user is experimenting with Jev, noting that this many tokens cost only $0.35, exclaiming Jev is almost free.</p>
+<p><strong>中文摘要：</strong>用户正在尝试使用Jev，提到这样多的token成本仅为0.35美元，感叹Jev几乎免费。</p>
+<p><strong>gokhan</strong> · @gokhanamal · 2026-10-11T10:38:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 79</p>
+<p><a href="https://x.com/gokhanamal/status/2109232231134716088">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MMMusol/status/2109213481027453336"><img src="https://pbs.twimg.com/media/HUVueexa4AAXjTc?format=jpg&amp;name=small" alt="Real-world usage of JEV with open-source input method · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MMMusol/status/2109213481027453336">Real-world usage of JEV with open-source input method</a></h3>
+<p>A user shares a real-world scenario combining JEV with an open-source input method to address the difficulty of finding characters buried deep in the candidate list.</p>
+<p><strong>中文摘要：</strong>用户分享了将JEV与开源输入法结合使用的真实场景，用于解决输入法候选字符列表过长、查找困难的问题。</p>
+<p><strong>Musolsol.𝟎𝐱𝐔</strong> · @MMMusol · 2026-10-11T09:24:15.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 452</p>
+<p><a href="https://x.com/MMMusol/status/2109213481027453336">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mkitokitom/status/2109212903312413058"><img src="https://pbs.twimg.com/media/HUVt9HVasAA58zr?format=jpg&amp;name=medium" alt="LT sharing from Jev to strands decider 2B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mkitokitom/status/2109212903312413058">LT sharing from Jev to strands decider 2B</a></h3>
+<p>Mr. Nagata gave a LT at a JAWS UG event, introducing strands decider 2B as an extension of Jev, and expressed hope that more people can try it more easily.</p>
+<p><strong>中文摘要：</strong>长田先生在JAWS UG活动上进行LT，介绍了从Jev延续而来的strands decider 2B，并表达了希望更多人能轻松尝试的愿望。</p>
+<p><strong>m.kito👹</strong> · @mkitokitom · 2026-10-11T09:21:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 113</p>
+<p><a href="https://x.com/mkitokitom/status/2109212903312413058">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eldadtsabary/status/2108947758530855266"><img src="https://pbs.twimg.com/media/HUR7uwxWUAAcmyU?format=jpg&amp;name=medium" alt="Jev benchmark: 81.7% vs GPT-6 Luna 61.2% · 原帖图片" width="100%"></a>

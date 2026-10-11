@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 596 | 297 | 301 | 3.6M |
+| 598 | 297 | 303 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/adsholoko/status/2109203894031241586"><img src="https://pbs.twimg.com/media/HUVlo6ba4AAdEDQ?format=jpg&amp;name=medium" alt="Using Jev with Cloudflare clef for image overlap detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/adsholoko/status/2109203894031241586">Using Jev with Cloudflare clef for image overlap detection</a></h3>
+<p>Sharing practical experience of using Cloudflare clef to read images and applying Jev model to detect overlapping/duplicate content, finding it effective.</p>
+<p><strong>中文摘要：</strong>分享使用Cloudflare clef读取图像，并利用Jev模型检测图像重叠/重复内容的实践经验，认为效果不错。</p>
+<p><strong>araniwa | Shogo Arakawa</strong> · @adsholoko · 2026-10-11T08:46:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/adsholoko/status/2109203894031241586">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cgnot996/status/2109194597603975413"><img src="https://pbs.twimg.com/media/HUVdMe1bAAAAazW?format=jpg&amp;name=medium" alt="Jev quota exhausted; new accounts require top-up to create Keys · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cgnot996/status/2109194597603975413">Jev quota exhausted; new accounts require top-up to create Keys</a></h3>
+<p>The author says they used up all Jev quota, tried to register a new account with Grok&#39;s email, but Jev has stopped granting free quota; creating a Key requires a minimum top-up of $5.</p>
+<p><strong>中文摘要：</strong>博主表示用光了 Jev 的配额，尝试借助 Grok 的邮箱注册新账号，但 Jev 已不再发放免费配额，创建 Key 需要至少充值 5 美元。</p>
+<p><strong>铁柱AGI</strong> · @cgnot996 · 2026-10-11T08:09:13.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 939</p>
+<p><a href="https://x.com/cgnot996/status/2109194597603975413">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/coppercode_/status/2108951638283001986"><img src="https://pbs.twimg.com/media/HUSARQNXkAAcuk0?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Model Returns Machine-Readable Decisions · 原帖图片" width="100%"></a>

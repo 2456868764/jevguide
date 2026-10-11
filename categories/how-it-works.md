@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 554 | 239 | 316 | 1.6M |
+| 558 | 242 | 317 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/adlrocha/status/2109215681237471722"><img src="https://pbs.twimg.com/media/HUHz7OdWwAAHwK-?format=jpg&amp;name=medium" alt="Millisecond-level decisions with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/adlrocha/status/2109215681237471722">Millisecond-level decisions with Jev</a></h3>
+<p>The author notes that when agents need yes-or-no answers, traditional LLMs take seconds and lack confidence, while decision models like Jev and Cloudflare&#39;s Clef answer in milliseconds without writing a word.</p>
+<p><strong>中文摘要：</strong>作者指出，代理需要是非判断时，传统LLM需要思考数秒且不提供置信度，而决策模型如Jev和Cloudflare的Clef能在毫秒内答题且不生成文字。</p>
+<p><strong>adlrocha</strong> · @adlrocha · 2026-10-11T09:33:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 279</p>
+<p><a href="https://x.com/adlrocha/status/2109215681237471722">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/_can1357/status/2109195967006220719"><img src="https://pbs.twimg.com/amplify_video_thumb/2109184318375403520/img/9ahxMFH-Pwro_cUU.jpg" alt="Jev Visualizing Data · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_can1357/status/2109195967006220719">Jev Visualizing Data</a></h3>
+<p>Can Bölük explains how Jev uses the tabular data returned by models and heuristics to decide which tables get charts, enhancing visual responses.</p>
+<p><strong>中文摘要：</strong>Can Bölük 介绍了 Jev 如何利用模型返回的表格数据，通过启发式规则决定哪些表格生成图表，以增强视觉响应。</p>
+<p><strong>Can Bölük</strong> · @_can1357 · 2026-10-11T08:14:40.000Z</p>
+<p>💬 7 &nbsp; 🔁 3 &nbsp; ♡ 103 &nbsp; 📊 3.4K</p>
+<p><a href="https://x.com/_can1357/status/2109195967006220719">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cyrilXBT/status/2109192348177682528"><img src="https://pbs.twimg.com/amplify_video_thumb/2109192310731018240/img/ZoYvlnXIgf1Dk8eR.jpg" alt="Jev Model Layered Architecture: From Single Model to Specialized Layers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/cyrilXBT/status/2109192348177682528">Jev Model Layered Architecture: From Single Model to Specialized Layers</a></h3>
+<p>Contrasting the traditional single large model approach, this introduces a layered AI system with Jev as the decision layer: Opus 5.5 handles reasoning, Jev handles decisions, and the harness enforces rules. Each layer has a single responsibility, decisions are logged with confidence scores, and it&#39;s cheaper to run and easier to manage.</p>
+<p><strong>中文摘要：</strong>对比传统单一大模型方式，介绍Jev作为决策层的分层AI系统：Opus 5.5负责推理，Jev负责决策，harness负责规则执行。每层单一职责，决策带置信度记录，成本更低且更易维护。</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT · 2026-10-11T08:00:17.000Z</p>
+<p>💬 6 &nbsp; 🔁 9 &nbsp; ♡ 61 &nbsp; 📊 4.5K</p>
+<p><a href="https://x.com/cyrilXBT/status/2109192348177682528">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/plutos_eth/status/2108946889622053195"><img src="https://pbs.twimg.com/amplify_video_thumb/2108945635550392322/img/gjuJLXkbRQHuGmAQ.jpg" alt="Jev: An AI Model That Just Returns a Number and Confidence · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/plutos_eth/status/2108946889622053195">Jev: An AI Model That Just Returns a Number and Confidence</a></h3>
+<p>The post contrasts the high cost of word-by-word responses in typical AI apps, noting that Jev takes given choices and returns a pick with a confidence score, cutting overhead on small questions.</p>
+<p><strong>中文摘要：</strong>帖子对比传统 AI 应用逐字生成回答的高成本，指出 Jev 只需给定选项即可返回选择结果和置信度，从而降低小问题上的开销。</p>
+<p><strong>plutos</strong> · @plutos_eth · 2026-10-10T15:44:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 835</p>
+<p><a href="https://x.com/plutos_eth/status/2108946889622053195">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/divid_lu49394/status/2108689714815566096"><img src="https://pbs.twimg.com/amplify_video_thumb/2107360802047225856/img/vGxR8kQUYwazlLTq.jpg" alt="What is Jev? TypeSafe&#39;s fast probabilistic decision AI · 原帖视频截图" width="100%"></a>

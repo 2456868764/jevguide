@@ -1,9 +1,10 @@
 # rewind
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T11:06:03.000Z | [Jev Drives Virtual San Francisco in Unreal Engine](https://x.com/rewind02/status/2109239099332661429) | 智能体 | rewind | 370 |
 | 2026-10-01T09:59:24.000Z | [The Cheapest Second Brain Stack: GPT Sol 6.1 + Jev](https://x.com/rewind02/status/2105598446937776348) | 社区实践 | rewind | 359 |
 | 2026-09-29 | [Build a Business Second Brain with Jev](https://x.com/rewind02/status/2104963418281095263) | 生产力 | rewind | 420 |
 | 2026-09-29 | [Community practice for building a second brain with Jev](https://x.com/rewind02/status/2104919156097217002) | 社区实践 | rewind | 267 |

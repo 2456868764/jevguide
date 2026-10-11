@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 477 | 217 | 263 | 1.1M |
+| 485 | 218 | 270 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SUL5MUN/status/2109237038134268039"><img src="https://pbs.twimg.com/amplify_video_thumb/2109236862199992320/img/fNenSZl5BQE76z4b.jpg" alt="TypeSafe Jev: AI Model That Doesn&#39;t Write a Word Sparks $7.5B Valuation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SUL5MUN/status/2109237038134268039">TypeSafe Jev: AI Model That Doesn&#39;t Write a Word Sparks $7.5B Valuation</a></h3>
+<p>A company&#39;s valuation jumped from $200M to $7.5B in a month, driven by TypeSafe&#39;s Jev model. It responds in 70-500 ms, costs ~4 cents per million input tokens, and offers free outputs. New era or bubble?</p>
+<p><strong>中文摘要：</strong>一家公司估值一个月内从2亿美元跃升至75亿美元，源于TypeSafe的Jev模型：响应仅需70-500毫秒，百万输入token约4美分，输出免费。新纪元还是泡沫？</p>
+<p><strong>Sultan Munadi</strong> · @SUL5MUN · 2026-10-11T10:57:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/SUL5MUN/status/2109237038134268039">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheCEO_Magazine/status/2109215429008974009"><img src="https://pbs.twimg.com/media/HUQ4WNybQAAjC6X?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Model Drives Enterprise Automation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheCEO_Magazine/status/2109215429008974009">TypeSafe AI Raises $870M, Jev Model Drives Enterprise Automation</a></h3>
+<p>TypeSafe AI raised $870M at a $7.5B valuation led by Andreessen Horowitz, with Sequoia and DCVC. Its non-text AI model Jev, launched Sept 15, is already used by 1/3 of Fortune 500 companies for automation.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI以75亿美元估值获得8.7亿美元融资，由Andreessen Horowitz领投，Sequoia和DCVC参投。其非文本AI模型Jev于9月15日发布，已被三分之一财富500强企业用于自动化。</p>
+<p><strong>The CEO Magazine India</strong> · @TheCEO_Magazine · 2026-10-11T09:32:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/TheCEO_Magazine/status/2109215429008974009">在 X 查看原帖</a> · <a href="https://t.co/M2TNUsHNYO">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tekno_pusulatr/status/2109214253198475287"><img src="https://pbs.twimg.com/media/HUVvL7FXUAEHwlY?format=jpg&amp;name=900x900" alt="TypeSafe AI&#39;s textless model Jev secures $870M investment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tekno_pusulatr/status/2109214253198475287">TypeSafe AI&#39;s textless model Jev secures $870M investment</a></h3>
+<p>TypeSafe AI raised $870 million for its textless AI model Jev, reaching a $7.5 billion valuation just 3 weeks after launch.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI凭借无文本AI模型Jev获得8.7亿美元投资，估值达到75亿美元，距发布仅3周。</p>
+<p><strong>teknopusula</strong> · @tekno_pusulatr · 2026-10-11T09:27:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/tekno_pusulatr/status/2109214253198475287">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MarcusSchuler/status/2109201350164619597"><img src="https://pbs.twimg.com/media/HUVjc3TWMAA52mK?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M for Jev Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MarcusSchuler/status/2109201350164619597">TypeSafe AI Raises $870M for Jev Decision Model</a></h3>
+<p>TypeSafe AI raised $870M for Jev, a decision model that returns structured choices instead of text. OpenAI, AWS, and Cloudflare shipped rivals within weeks.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI宣布为Jev筹集8.7亿美元，Jev是一款返回结构化选择而非文本的决策模型。OpenAI、AWS和Cloudflare在数周内发布了竞争产品。</p>
+<p><strong>Marcus Schuler</strong> · @MarcusSchuler · 2026-10-11T08:36:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/MarcusSchuler/status/2109201350164619597">在 X 查看原帖</a> · <a href="https://t.co/MhzJbWTLBG">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Voyagervvv/status/2109200328080167000"><img src="https://pbs.twimg.com/media/HUVihVGacAAUs-Y?format=jpg&amp;name=medium" alt="Jev Decision Model Raises $870M, TypeSafe Valuation Soars · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Voyagervvv/status/2109200328080167000">Jev Decision Model Raises $870M, TypeSafe Valuation Soars</a></h3>
+<p>Valuation grew 37x in 24 days; TypeSafe raised $870M led by a16Z. Microsoft released Decision-1 and OpenAI opened Decisions API public beta. Decision models output calibrated probabilities instead of text.</p>
+<p><strong>中文摘要：</strong>24天估值翻37倍，TypeSafe获a16Z领投8.7亿美元。微软发布Decision-1，OpenAI开放Decisions API公测。决策模型不生成文本，直接输出校准概率。</p>
+<p><strong>Voyagervvv</strong> · @Voyagervvv · 2026-10-11T08:31:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
+<p><a href="https://x.com/Voyagervvv/status/2109200328080167000">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aginaut/status/2109192280384922075"><img src="https://pbs.twimg.com/media/HUDXef4XcAAKaTO?format=jpg&amp;name=medium" alt="Cloudflare Launches Clef: Jev-Compatible Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aginaut/status/2109192280384922075">Cloudflare Launches Clef: Jev-Compatible Decision Models</a></h3>
+<p>On October 1, Cloudflare introduced Clef and Clef-flash, decision models that return typed answers with probabilities and offer a Jev-compatible API, potentially giving builders more options.</p>
+<p><strong>中文摘要：</strong>Cloudflare于10月1日推出Clef和Clef-flash，这些决策模型返回带概率的类型化答案，并提供Jev兼容API，可能为开发者提供更多选择。</p>
+<p><strong>aginaut</strong> · @aginaut · 2026-10-11T08:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><a href="https://x.com/aginaut/status/2109192280384922075">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nvkudva/status/2108953848899604814"><img src="https://pbs.twimg.com/media/HUSCGIwasAAbcS5?format=jpg&amp;name=medium" alt="Ollajev 0.3 Release: Decision Models Now See and Hear · 原帖图片" width="100%"></a>
@@ -20,6 +92,30 @@
 <p><strong>Vijaykrishna</strong> · @nvkudva · 2026-10-10T16:12:34.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
 <p><a href="https://x.com/nvkudva/status/2108953848899604814">在 X 查看原帖</a> · <a href="https://t.co/jHExhFrrY8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BenchLM_AI/status/2108948801540993166"><img src="https://pbs.twimg.com/media/HUR9tcAWsAASyZZ?format=jpg&amp;name=medium" alt="Nace.AI Open-Sources Drex 1.5 Decision Model, Benchmarking Against Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BenchLM_AI/status/2108948801540993166">Nace.AI Open-Sources Drex 1.5 Decision Model, Benchmarking Against Jev</a></h3>
+<p>Nace.AI has open-sourced Drex 1.5, an 8.95B decision model that scores every option in a single forward pass with no text output. It reports 58.08 on Decision Index 0.3.1, within the 0.9-point tie band with TypeSafe&#39;s closed Jev 1.13.0 at 57.96.</p>
+<p><strong>中文摘要：</strong>Nace.AI开源了Drex 1.5，这是一个8.95B参数的决策模型，能够在一次前向传递中对所有选项进行评分，不生成文本。在Decision Index 0.3.1上，Drex 1.5获得58.08分，而TypeSafe的Jev 1.13.0获得57.96分，两者在0.9分的平带内。</p>
+<p><strong>BenchLM</strong> · @BenchLM_AI · 2026-10-10T15:52:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/BenchLM_AI/status/2108948801540993166">在 X 查看原帖</a> · <a href="https://t.co/oNVwRqDZeI">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Redwoodinsight/status/2108943573123240167"><img src="https://pbs.twimg.com/media/HUR5AFza0AAE9fn?format=jpg&amp;name=medium" alt="TypeSafe Unveils Jev Model, Secures $870M Funding · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Redwoodinsight/status/2108943573123240167">TypeSafe Unveils Jev Model, Secures $870M Funding</a></h3>
+<p>TypeSafe, founded by OpenAI alum Diogo Almeida, reportedly secured $870M in Series A funding just three weeks after unveiling the Jev model, highlighting that smaller and faster models can be highly valuable.</p>
+<p><strong>中文摘要：</strong>据消息，OpenAI校友Diogo Almeida创立的TypeSafe在发布Jev模型仅三周后，完成8.7亿美元A轮融资。这被认为表明更小更快的模型同样具有巨大价值。</p>
+<p><strong>레드우드</strong> · @Redwoodinsight · 2026-10-10T15:31:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 285</p>
+<p><a href="https://x.com/Redwoodinsight/status/2108943573123240167">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/XunzhuoLiu/status/2108864432394903806"><img src="https://pbs.twimg.com/amplify_video_thumb/2108864227708645376/img/TotwjAotHtAWSVmz.jpg" alt="System One Auto in vLLM Semantic Router: Jev models on demand · 原帖视频截图" width="100%"></a>

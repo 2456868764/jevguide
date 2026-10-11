@@ -1,9 +1,10 @@
 # Doug Finke
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T14:03:05.000Z | [Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag](https://x.com/dfinke/status/2109283651506913754) | 自动化工作流 | Doug Finke | 91 |
 | 2026-10-09T16:03:02.000Z | [Live Jev Demo: Classify, Rank, and Route Messy Requests](https://x.com/dfinke/status/2108589060700967356) | 社区实践 | Doug Finke | 83 |
 | 2026-10-09T14:50:34.000Z | [Wired up Typesafe AI Jev to Excel using VBA](https://x.com/dfinke/status/2108570823472902520) | 开发者工具 | Doug Finke | 177 |
 | 2026-10-07T08:37:01.000Z | [PSAIOpenAIDecisions PowerShell Module Released](https://x.com/dfinke/status/2107752041825374318) | 开发者工具 | Doug Finke | 146 |

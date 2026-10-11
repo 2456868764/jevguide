@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1065 | 435 | 634 | 3.0M |
+| 1069 | 435 | 638 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taodaily_io/status/2109280855277322480"><img src="https://pbs.twimg.com/media/HUWrcZlXsAAPjJI?format=jpg&amp;name=medium" alt="What is Jev? A &#39;Jevolution&#39; for Bittensor · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/taodaily_io/status/2109280855277322480">What is Jev? A &#39;Jevolution&#39; for Bittensor</a></h3>
+<p>This article explores how Jev could impact decentralized AI and how Bittensor subnets are already using it.</p>
+<p><strong>中文摘要：</strong>文章探讨Jev如何影响去中心化AI，以及Bittensor子网目前如何使用它。</p>
+<p><strong>The TAO Daily</strong> · @taodaily_io · 2026-10-11T13:51:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 310</p>
+<p><a href="https://x.com/taodaily_io/status/2109280855277322480">在 X 查看原帖</a> · <a href="https://t.co/JppTShO4bU">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mirzaei_mani/status/2109280577115288046"><img src="https://pbs.twimg.com/media/HUWrgOqWAAA_f1M?format=jpg&amp;name=medium" alt="Mizan 4B: A Persian Decision Model Similar to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mirzaei_mani/status/2109280577115288046">Mizan 4B: A Persian Decision Model Similar to Jev</a></h3>
+<p>Mizan 4B is an open-weight decision model designed for Persian. It takes text and questions and, like Jev, outputs answers and probabilities; the GGUF version needs only 2.5G RAM and runs on a laptop.</p>
+<p><strong>中文摘要：</strong>Mizan 4B 是开放权重的决策模型，专为波斯语设计。它接收文本和问题，并像 Jev 一样输出答案和概率；GGUF 版本仅需 2.5G 内存，可在笔记本上运行。</p>
+<p><strong>Mani</strong> · @mirzaei_mani · 2026-10-11T13:50:52.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 258</p>
+<p><a href="https://x.com/mirzaei_mani/status/2109280577115288046">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Chris_Wozniczek/status/2109277085202293091"><img src="https://pbs.twimg.com/media/HUOQf5pXMAAOQk-?format=jpg&amp;name=medium" alt="Open-source project to control your Mac with voice using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Chris_Wozniczek/status/2109277085202293091">Open-source project to control your Mac with voice using Jev</a></h3>
+<p>Chris W shares a quick open-source project that uses Jev (bring your own typesafe API key) to control your Mac by voice, with a demo link and room for improvement.</p>
+<p><strong>中文摘要：</strong>Chris W 分享了一个快速开源项目：使用 Jev（需自带 typesafe API key）通过语音控制 Mac，并附有演示链接和欢迎改进的说明。</p>
+<p><strong>Chris W</strong> · @Chris_Wozniczek · 2026-10-11T13:37:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 47</p>
+<p><a href="https://x.com/Chris_Wozniczek/status/2109277085202293091">在 X 查看原帖</a> · <a href="https://t.co/8x9VsB5aQH">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sull/status/2109274348284719262"><img src="https://pbs.twimg.com/media/HUWlnXDXsAEdwpo?format=png&amp;name=360x360" alt="Discussion about System One (Jev) model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sull/status/2109274348284719262">Discussion about System One (Jev) model</a></h3>
+<p>The post mentions using the System One (Jev) model, related to TypeSafe&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>原帖提及使用 System One (Jev) 模型，与 TypeSafe 的 Jev 模型相关。</p>
+<p><strong>Michael Sullivan</strong> · @sull · 2026-10-11T13:26:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/sull/status/2109274348284719262">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BenENewton/status/2109268008765989048"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109267963664535552/pu/img/i84YyNE7E7al2eAf.jpg" alt="Jev Routing Results Share · 原帖视频截图" width="100%"></a>

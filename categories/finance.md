@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 290 | 169 | 123 | 1.2M |
+| 292 | 170 | 124 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DaveWangMIA/status/2109283300330422663"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283127524999168/img/mxIqVdbFHb76l-cG.jpg" alt="Using Jev for Investment Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DaveWangMIA/status/2109283300330422663">Using Jev for Investment Analysis</a></h3>
+<p>Dave Wang explains why Jev and skinny models matter for investing, with a downloadable one-pager guide.</p>
+<p><strong>中文摘要：</strong>作者Dave Wang解释Jev和轻量模型在投资中的重要性，并提供一页纸指南供下载。</p>
+<p><strong>Dave Wang</strong> · @DaveWangMIA · 2026-10-11T14:01:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/DaveWangMIA/status/2109283300330422663">在 X 查看原帖</a> · <a href="https://t.co/pTyBzGv4M8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Vespergzt/status/2109276582007406883"><img src="https://pbs.twimg.com/media/HUV0Jl8XQAALNQt?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M at $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Vespergzt/status/2109276582007406883">TypeSafe AI Raises $870M at $7.5B Valuation</a></h3>
+<p>TypeSafe AI has raised $870 million, reaching a $7.5 billion valuation. Its Jev model does not generate text; instead, it analyzes information to produce decisions and probability scores. About one-third of major US companies use Jev.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI获得8.7亿美元投资，估值达到75亿美元。其Jev模型不生成文本，而是分析信息并生成决策和概率分数，美国约三分之一的大公司已在使用。</p>
+<p><strong>Vesper</strong> · @Vespergzt · 2026-10-11T13:35:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/Vespergzt/status/2109276582007406883">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>

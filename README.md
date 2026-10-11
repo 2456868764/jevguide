@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5800</strong><br>curated posts</td>
-<td align="center"><strong>2917</strong><br>original videos</td>
+<td align="center"><strong>5815</strong><br>curated posts</td>
+<td align="center"><strong>2922</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1065</strong> showcases · <strong>435</strong> videos</p>
+<p><strong>1069</strong> showcases · <strong>435</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>559</strong> showcases · <strong>242</strong> videos</p>
+<p><strong>560</strong> showcases · <strong>242</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>449</strong> showcases · <strong>249</strong> videos</p>
+<p><strong>450</strong> showcases · <strong>250</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>361</strong> showcases · <strong>146</strong> videos</p>
+<p><strong>362</strong> showcases · <strong>147</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>290</strong> showcases · <strong>169</strong> videos</p>
+<p><strong>292</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>244</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>246</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>93</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>94</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>45</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>35</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>43</strong> showcases · <strong>28</strong> videos</p>
+<p><strong>44</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>40</strong> showcases · <strong>15</strong> videos</p>
+<p><strong>41</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks</a></h3>
-<p>TypeSafe launched its AI model Jev on Sept 15 at a seed valuation of ~$200M. Less than a month later, a16z led an $870M round at a $7.5B valuation—a 37x jump.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
-<p><strong>AI Pulse</strong> · @AIPulseNewsX</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/dfinke/status/2109283651506913754"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283632481460225/img/M2HEl2BQ1S0M7zvC.jpg" alt="Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dfinke/status/2109283651506913754">Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag</a></h3>
+<p>Demo of building an AI decision workflow with Jev in PowerShell: classify messy inputs, prioritize, auto-route clear cases, and flag edge cases for human review.</p>
+<p><strong>91</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 91</p>
+<p><strong>Doug Finke</strong> · @dfinke</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/Skrilla_git/status/2109268249422561677"><img src="https://pbs.twimg.com/amplify_video_thumb/2109268197362810880/img/voa8BhXM654d_PS4.jpg" alt="Nano Jev: A Free Open-Source Clone of Jev AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Skrilla_git/status/2109268249422561677">Nano Jev: A Free Open-Source Clone of Jev AI</a></h3>
-<p>A developer in China shipped Nano Jev, a lightweight open-source model designed to replicate Jev AI&#39;s capabilities without a subscription, running directly inside open code and crossing 2,000 GitHub stars within its first day.</p>
-<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 52</p>
-<p><strong>Skrilla</strong> · @Skrilla_git</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/DaveWangMIA/status/2109283300330422663"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283127524999168/img/mxIqVdbFHb76l-cG.jpg" alt="Using Jev for Investment Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DaveWangMIA/status/2109283300330422663">Using Jev for Investment Analysis</a></h3>
+<p>Dave Wang explains why Jev and skinny models matter for investing, with a downloadable one-pager guide.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>Dave Wang</strong> · @DaveWangMIA</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/cultist_dev/status/2109268239612334541"><img src="https://pbs.twimg.com/media/HUWgRwmbgAE-k47?format=jpg&amp;name=medium" alt="Fast semantic search powered by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cultist_dev/status/2109268239612334541">Fast semantic search powered by Jev</a></h3>
-<p>The author built a knowledge graph and reading list, with search powered by Jev, enabling semantic retrieval across 5000+ docs in under 2 seconds at low cost. The frontend draws inspiration from Apple&#39;s fluid design.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>athrv.sh</strong> · @cultist_dev</p>
+<p><strong>03</strong> &nbsp; <code>企业运营</code> <code>原帖图片</code></p>
+<a href="https://x.com/ApollonVisual/status/2109283229026943033"><img src="https://pbs.twimg.com/media/HUWt5YrW4AASwZF?format=jpg&amp;name=medium" alt="TypeSafe AI raises $870M for Jev model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ApollonVisual/status/2109283229026943033">TypeSafe AI raises $870M for Jev model</a></h3>
+<p>TypeSafe AI raised $870 million at a $7.5 billion valuation, led by Andreessen Horowitz with Sequoia and DCVC participating, for its AI model Jev.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Apollo</strong> · @ApollonVisual</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/BenENewton/status/2109268008765989048"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109267963664535552/pu/img/i84YyNE7E7al2eAf.jpg" alt="Jev Routing Results Share · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/BenENewton/status/2109268008765989048">Jev Routing Results Share</a></h3>
-<p>The author shares an honest version of their Jev routing experiments: one codebase, one run per task, a model as judge, and self-decided which tasks count as lookups. Not claiming overall cost savings yet, but it makes cheap calls cheaper.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Ben Newton ベン</strong> · @BenENewton</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/cazevedo1977/status/2109283141378507062"><img src="https://pbs.twimg.com/amplify_video_thumb/2108866079783100417/img/KaRtDK1f9t9VeznD.jpg" alt="Jev founder releases PDF on building a Jev harness · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cazevedo1977/status/2109283141378507062">Jev founder releases PDF on building a Jev harness</a></h3>
+<p>This PDF is aimed at developers building coding agents, showing that a Jev harness can deliver up to 200x faster performance and 400x lower cost, and suggests the model may no longer be the bottleneck.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Caio Azevedo</strong> · @cazevedo1977</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks</a></h3>
-<p>TypeSafe launched its AI model Jev on Sept 15 at a seed valuation of ~$200M. Less than a month later, a16z led an $870M round at a $7.5B valuation—a 37x jump.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
-<p><strong>AI Pulse</strong> · @AIPulseNewsX</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/dfinke/status/2109283651506913754"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283632481460225/img/M2HEl2BQ1S0M7zvC.jpg" alt="Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/dfinke/status/2109283651506913754">Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag</a></h3>
+<p>Demo of building an AI decision workflow with Jev in PowerShell: classify messy inputs, prioritize, auto-route clear cases, and flag edge cases for human review.</p>
+<p><strong>91</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 91</p>
+<p><strong>Doug Finke</strong> · @dfinke</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/BenENewton/status/2109268008765989048"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109267963664535552/pu/img/i84YyNE7E7al2eAf.jpg" alt="Jev Routing Results Share · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/BenENewton/status/2109268008765989048">Jev Routing Results Share</a></h3>
-<p>The author shares an honest version of their Jev routing experiments: one codebase, one run per task, a model as judge, and self-decided which tasks count as lookups. Not claiming overall cost savings yet, but it makes cheap calls cheaper.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Ben Newton ベン</strong> · @BenENewton</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/cazevedo1977/status/2109283141378507062"><img src="https://pbs.twimg.com/amplify_video_thumb/2108866079783100417/img/KaRtDK1f9t9VeznD.jpg" alt="Jev founder releases PDF on building a Jev harness · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cazevedo1977/status/2109283141378507062">Jev founder releases PDF on building a Jev harness</a></h3>
+<p>This PDF is aimed at developers building coding agents, showing that a Jev harness can deliver up to 200x faster performance and 400x lower cost, and suggests the model may no longer be the bottleneck.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Caio Azevedo</strong> · @cazevedo1977</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/snaga/status/2109267874053537916"><img src="https://pbs.twimg.com/media/HUWfd_saAAAaMmN?format=jpg&amp;name=900x900" alt="Plugin for tagging Obsidian notes with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/snaga/status/2109267874053537916">Plugin for tagging Obsidian notes with Jev</a></h3>
-<p>A developer created an Obsidian plugin that uses Jev to recommend tags from a preset list, falling back to Gemini when no suitable tag exists, and will test it in real use.</p>
-<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
-<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/hagzag/status/2109283127113769269"><img src="https://pbs.twimg.com/media/HUWtxzNWoAEBpDJ?format=jpg&amp;name=large" alt="Jev-style LLM gate for Argo Rollouts canary · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hagzag/status/2109283127113769269">Jev-style LLM gate for Argo Rollouts canary</a></h3>
+<p>User tested an LLM-based gate on Argo Rollouts canary, asking 10x per release. For slow releases, it blocked 7/8 times, while the single call Argo used returned 0.1 and allowed shipping.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Haggai Philip zagury</strong> · @hagzag</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2109261611089158274"><img src="https://pbs.twimg.com/amplify_video_thumb/2109261168019660800/img/b30uqxsOHTJDeoHw.jpg" alt="Jev: No Words, Just Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2109261611089158274">Jev: No Words, Just Decisions</a></h3>
-<p>The author shares how they use the smartest AI for yes/no decisions (e.g., is this email urgent, should this tool run), and Jev wins because it doesn&#39;t generate text, only makes judgments.</p>
-<p><strong>851</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 851</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/Vespergzt/status/2109276582007406883"><img src="https://pbs.twimg.com/media/HUV0Jl8XQAALNQt?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M at $7.5B Valuation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Vespergzt/status/2109276582007406883">TypeSafe AI Raises $870M at $7.5B Valuation</a></h3>
+<p>TypeSafe AI has raised $870 million, reaching a $7.5 billion valuation. Its Jev model does not generate text; instead, it analyzes information to produce decisions and probability scores. About one-third of major US companies use Jev.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Vesper</strong> · @Vespergzt</p>
 </td>
 </tr>
 </table>

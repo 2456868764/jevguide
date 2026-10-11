@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 244 | 154 | 90 | 595K |
+| 246 | 155 | 91 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dfinke/status/2109283651506913754"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283632481460225/img/M2HEl2BQ1S0M7zvC.jpg" alt="Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dfinke/status/2109283651506913754">Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag</a></h3>
+<p>Demo of building an AI decision workflow with Jev in PowerShell: classify messy inputs, prioritize, auto-route clear cases, and flag edge cases for human review.</p>
+<p><strong>中文摘要：</strong>演示在PowerShell中使用Jev构建AI决策工作流：对混乱输入进行分类、确定优先级、自动处理明确案例，并标记边缘案例供人工审核。</p>
+<p><strong>Doug Finke</strong> · @dfinke · 2026-10-11T14:03:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 91</p>
+<p><a href="https://x.com/dfinke/status/2109283651506913754">在 X 查看原帖</a> · <a href="https://t.co/3E38PuH8ua">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hagzag/status/2109283127113769269"><img src="https://pbs.twimg.com/media/HUWtxzNWoAEBpDJ?format=jpg&amp;name=large" alt="Jev-style LLM gate for Argo Rollouts canary · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hagzag/status/2109283127113769269">Jev-style LLM gate for Argo Rollouts canary</a></h3>
+<p>User tested an LLM-based gate on Argo Rollouts canary, asking 10x per release. For slow releases, it blocked 7/8 times, while the single call Argo used returned 0.1 and allowed shipping.</p>
+<p><strong>中文摘要：</strong>用户测试了基于 LLM 的发布门控，在 Argo Rollouts 金丝雀发布中每次发布询问 10 次，慢速发布时 7/8 次被阻止，而 Argo 实际使用的一次调用返回 0.1 并允许发布。</p>
+<p><strong>Haggai Philip zagury</strong> · @hagzag · 2026-10-11T14:01:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/hagzag/status/2109283127113769269">在 X 查看原帖</a> · <a href="https://t.co/CMn0hj8CCw">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/scrblanc/status/2109177369466450133"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109177177711239168/pu/img/FAFQ-PsXfbyt-52V.jpg" alt="TypeSafe Jev Router Handles 310K Requests Monthly, Cuts LLM Bill 36% · 原帖视频截图" width="100%"></a>

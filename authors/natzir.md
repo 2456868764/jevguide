@@ -1,9 +1,11 @@
 # Natzir
 
-3 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T15:41:33.000Z | [Decision 3.0 Local Test: Tool Call Accuracy Compared with Jev](https://x.com/natzir9/status/2109308431731487073) | 智能体 | Natzir | 29 |
+| 2026-10-11T14:28:34.000Z | [Jev Shows Competitive Performance in Tool-Call Benchmark](https://x.com/natzir9/status/2109290064870269209) | 智能体 | Natzir | 258 |
 | 2026-10-09T12:04:54.000Z | [Jev Model API Performance and Cost Comparison](https://x.com/natzir9/status/2108529131713376303) | 社区实践 | Natzir | 10 |
 | 2026-10-08T20:35:36.000Z | [Jev Performance Comparison in Decision Tasks](https://x.com/natzir9/status/2108295265035657392) | 智能体 | Natzir | 65 |
 | 2026-10-08T20:35:33.000Z | [Testing AI models in Chrome: Jev vs Gemini Nano and more](https://x.com/natzir9/status/2108295252331438291) | 工作原理 | Natzir | 440 |

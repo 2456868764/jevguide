@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 450 | 250 | 202 | 3.0M |
+| 454 | 252 | 204 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/natzir9/status/2109308431731487073"><img src="https://pbs.twimg.com/media/HUXEqL1WEAA8c-4?format=jpg&amp;name=medium" alt="Decision 3.0 Local Test: Tool Call Accuracy Compared with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/natzir9/status/2109308431731487073">Decision 3.0 Local Test: Tool Call Accuracy Compared with Jev</a></h3>
+<p>The user locally tested open-weight Decision 3.0 models on a Mac for real website decisions, picking the right WebMCP tool call. d3-flash and d3-mini scored 70/75, on par with Microsoft-Decision-1 (71) and Jev (69); d3-nano 2B scored 68/75. Shuffling options barely changed results (~2%).</p>
+<p><strong>中文摘要：</strong>用户在 Mac 上本地测试 open-weight Decision 3.0 系列模型，在网站真实决策中挑选 WebMCP 工具调用；d3-flash/d3-mini 达 70/75，与 Microsoft-Decision-1（71）和 Jev（69）相当，d3-nano 2B 为 68/75，选项打乱影响约 2%。</p>
+<p><strong>Natzir</strong> · @natzir9 · 2026-10-11T15:41:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/natzir9/status/2109308431731487073">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Vinaybhaskarla/status/2109296938310828281"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Joins the Decision Model Race: Decision 1 vs OpenAI vs Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Vinaybhaskarla/status/2109296938310828281">Microsoft Joins the Decision Model Race: Decision 1 vs OpenAI vs Jev</a></h3>
+<p>This article compares Microsoft&#39;s Decision 1, OpenAI&#39;s models, and TypeSafe&#39;s Jev model in decision-making tasks, exploring the competitive landscape.</p>
+<p><strong>中文摘要：</strong>本文比较了微软发布的Decision 1、OpenAI的模型以及TypeSafe的Jev模型在决策任务中的表现和定位，探讨了竞争格局。</p>
+<p><strong>Vinay</strong> · @Vinaybhaskarla · 2026-10-11T14:55:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/Vinaybhaskarla/status/2109296938310828281">在 X 查看原帖</a> · <a href="https://t.co/RYrh5rpuSd">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/natzir9/status/2109290064870269209"><img src="https://pbs.twimg.com/media/HUWzJL9WAAIMUAT?format=jpg&amp;name=medium" alt="Jev Shows Competitive Performance in Tool-Call Benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/natzir9/status/2109290064870269209">Jev Shows Competitive Performance in Tool-Call Benchmark</a></h3>
+<p>The author tested Microsoft-Decision-1 in a site chat for WebMCP tool selection with 75 held-out questions. Results: 71/75 accuracy, minimal effect from shuffled options (1.1%), beating GPT-6 Luna but not significantly ahead of Jev or tuned Gemini Nano.</p>
+<p><strong>中文摘要：</strong>作者在网站聊天中测试Microsoft-Decision-1，使用75个保留问题验证WebMCP工具调用选择。结果：准确率71/75，选项重排影响极小（1.1%），超过GPT-6 Luna，但与Jev及调整后的Gemini Nano相比无显著优势。</p>
+<p><strong>Natzir</strong> · @natzir9 · 2026-10-11T14:28:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 258</p>
+<p><a href="https://x.com/natzir9/status/2109290064870269209">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mika_systems/status/2109289158107603424"><img src="https://pbs.twimg.com/amplify_video_thumb/2109287644077207552/img/S0pmFmHrRNSOUxDs.jpg" alt="Jev&#39;s founder showcases 80 agents exploring 540k lines of code · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mika_systems/status/2109289158107603424">Jev&#39;s founder showcases 80 agents exploring 540k lines of code</a></h3>
+<p>The post mentions that Jev&#39;s founder, Diogo Almeida, wrote a playbook for coordinating 80 agents to make an entire codebase explorable from a single question, building an interactive map of how the application works.</p>
+<p><strong>中文摘要：</strong>帖子提到Jev创始人Diogo Almeida编写了一份playbook，协调80个Agent从单一问题出发，将54万行代码的整个代码库构建成交互式地图，展示了Jev在智能体协作方面的应用。</p>
+<p><strong>Mika</strong> · @mika_systems · 2026-10-11T14:24:58.000Z</p>
+<p>💬 7 &nbsp; 🔁 4 &nbsp; ♡ 31 &nbsp; 📊 856</p>
+<p><a href="https://x.com/mika_systems/status/2109289158107603424">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/elessarqq/status/2109275575328415805"><img src="https://pbs.twimg.com/amplify_video_thumb/2109214770490384384/img/liR9Y09ck194lG1P.jpg" alt="TypeSafe Launches Jev: A Minimalist Model for AI Agents · 原帖视频截图" width="100%"></a>

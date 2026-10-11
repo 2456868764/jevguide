@@ -9,6 +9,7 @@
 - [Geek Lite](../authors/geek-lite.md) — 15
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [WTome](../authors/wtome.md) — 12
+- [Asteri](../authors/asteri.md) — 11
 - [Cuth](../authors/cuth.md) — 11
 - [Daniel San](../authors/daniel-san.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
@@ -17,7 +18,6 @@
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [恒星sun](../authors/恒星sun.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
-- [Asteri](../authors/asteri.md) — 10
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Ben Newton ベン](../authors/ben-newton.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
@@ -85,9 +85,11 @@
 - [mercante](../authors/mercante.md) — 5
 - [morph](../authors/morph.md) — 5
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 5
+- [Natzir](../authors/natzir.md) — 5
 - [nikhil mudholkar](../authors/nikhil-mudholkar.md) — 5
 - [NO1ennn](../authors/no1ennn.md) — 5
 - [OpenRouter](../authors/openrouter.md) — 5
+- [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 5
 - [Rob Hallam](../authors/rob-hallam.md) — 5
 - [S ᜰ](../authors/s.md) — 5
 - [Sahibzada Allahyar](../authors/sahibzada-allahyar.md) — 5
@@ -124,6 +126,7 @@
 - [explos1ve](../authors/explos1ve.md) — 4
 - [Fei Shen](../authors/fei-shen.md) — 4
 - [fleyta](../authors/fleyta.md) — 4
+- [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 4
 - [Hanako](../authors/hanako.md) — 4
 - [Harry Tandy](../authors/harry-tandy.md) — 4
 - [Hendrik Krack](../authors/hendrik-krack.md) — 4
@@ -144,11 +147,11 @@
 - [Mark Rizzn Hopkins](../authors/mark-rizzn-hopkins.md) — 4
 - [Martin Szerment | Practical AI](../authors/martin-szerment-practical-ai.md) — 4
 - [Michael Yuan](../authors/michael-yuan.md) — 4
+- [Mika](../authors/mika.md) — 4
 - [Movez](../authors/movez.md) — 4
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 4
 - [Phil Greene](../authors/phil-greene.md) — 4
 - [PolyBender](../authors/polybender.md) — 4
-- [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 4
 - [Ricker](../authors/ricker.md) — 4
 - [RM 🖤](../authors/rm.md) — 4
 - [rvaniaaa](../authors/rvaniaaa.md) — 4
@@ -191,6 +194,7 @@
 - [Avyn 👾](../authors/avyn.md) — 3
 - [backchannel](../authors/backchannel.md) — 3
 - [beamnxw ./](../authors/beamnxw.md) — 3
+- [Beaver](../authors/beaver.md) — 3
 - [Brandon Carl](../authors/brandon-carl.md) — 3
 - [Brendan Playford](../authors/brendan-playford.md) — 3
 - [central dogma specialist](../authors/central-dogma-specialist.md) — 3
@@ -225,7 +229,6 @@
 - [Gota](../authors/gota.md) — 3
 - [Guido Frigieri](../authors/guido-frigieri.md) — 3
 - [HackerNewsTop5](../authors/hackernewstop5.md) — 3
-- [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 3
 - [Hamza Khalid](../authors/hamza-khalid.md) — 3
 - [Hemant](../authors/hemant.md) — 3
 - [hiraoku](../authors/hiraoku.md) — 3
@@ -268,7 +271,6 @@
 - [Matthew Berman](../authors/matthew-berman.md) — 3
 - [Max For AI](../authors/max-for-ai.md) — 3
 - [Michael Guo](../authors/michael-guo.md) — 3
-- [Mika](../authors/mika.md) — 3
 - [Mika Heinonen](../authors/mika-heinonen.md) — 3
 - [Milind S](../authors/milind-s.md) — 3
 - [Mnimiy](../authors/mnimiy.md) — 3
@@ -279,7 +281,6 @@
 - [Moysei](../authors/moysei.md) — 3
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
 - [nader dabit](../authors/nader-dabit.md) — 3
-- [Natzir](../authors/natzir.md) — 3
 - [Neha Sharma](../authors/neha-sharma.md) — 3
 - [NeilXbt](../authors/neilxbt.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
@@ -407,7 +408,6 @@
 - [bakigul](../authors/bakigul.md) — 2
 - [Barış Kısır](../authors/bar-s-k-s-r.md) — 2
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
-- [Beaver](../authors/beaver.md) — 2
 - [belorix](../authors/belorix.md) — 2
 - [Bendik Nyheim](../authors/bendik-nyheim.md) — 2
 - [Benjamin Houy](../authors/benjamin-houy.md) — 2
@@ -1440,6 +1440,7 @@
 - [CosmosynthAi](../authors/cosmosynthai.md) — 1
 - [Couch](../authors/couch.md) — 1
 - [CPPAlien](../authors/cppalien.md) — 1
+- [CQI365 (HsuanMing Lin, Hugo Lin)](../authors/cqi365-hsuanming-lin-hugo-lin.md) — 1
 - [crackalamoo](../authors/crackalamoo.md) — 1
 - [Creators' AI](../authors/creators-ai.md) — 1
 - [creedants](../authors/creedants.md) — 1
@@ -1530,6 +1531,7 @@
 - [Davin YC Dong](../authors/davin-yc-dong.md) — 1
 - [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
+- [dbredesen](../authors/dbredesen.md) — 1
 - [De Gentle](../authors/de-gentle.md) — 1
 - [dealer.eth](../authors/dealer-eth.md) — 1
 - [Dealroom News](../authors/dealroom-news.md) — 1
@@ -1650,6 +1652,7 @@
 - [Elio](../authors/elio.md) — 1
 - [Eliot](../authors/eliot.md) — 1
 - [Eliron Giny](../authors/eliron-giny.md) — 1
+- [Elix](../authors/elix.md) — 1
 - [Ellis](../authors/ellis.md) — 1
 - [Elvis](../authors/elvis.md) — 1
 - [EM360Tech](../authors/em360tech.md) — 1
@@ -2808,6 +2811,7 @@
 - [Pavel Hegler 🫆](../authors/pavel-hegler.md) — 1
 - [Paweł Huryn](../authors/pawe-huryn.md) — 1
 - [PayPerQ](../authors/payperq.md) — 1
+- [Peacock](../authors/peacock.md) — 1
 - [Pedro Nauck ⌁ compozy.com](../authors/pedro-nauck-compozy-com.md) — 1
 - [PEEP](../authors/peep.md) — 1
 - [Peng](../authors/peng.md) — 1
@@ -3513,6 +3517,7 @@
 - [Víctor Mollá](../authors/victor-molla.md) — 1
 - [Víctor Rufino Cabrera](../authors/victor-rufino-cabrera.md) — 1
 - [Vida Vidyangi Patil](../authors/vida-vidyangi-patil.md) — 1
+- [Vinay](../authors/vinay.md) — 1
 - [Vinay Gode](../authors/vinay-gode.md) — 1
 - [Vincent](../authors/vincent.md) — 1
 - [Vincent e/acc](../authors/vincent-e-acc.md) — 1
@@ -3888,6 +3893,7 @@
 - [もっくま(Mistletoe)](../authors/mistletoe.md) — 1
 - [ヤガシロ@天秤AI(愛)してる](../authors/天秤ai-愛.md) — 1
 - [やなぎだ](../authors/jev-showcase.md) — 1
+- [やまう](../authors/jev-showcase.md) — 1
 - [やみち](../authors/jev-showcase.md) — 1
 - [ゆーりんち @ゲームを作っています](../authors/作.md) — 1
 - [ゆう|AI×個人開発](../authors/ai-個人開発.md) — 1
@@ -4041,6 +4047,7 @@
 - [茶木 孝晃｜AI × セキュリティ](../authors/茶木-孝晃-ai.md) — 1
 - [菅原のびすけ](../authors/菅原.md) — 1
 - [菅野智洋CPA🇯🇵×ベトナム進出支援🇻🇳×生成AI🤖](../authors/菅野智洋cpa-進出支援-生成ai.md) — 1
+- [葉隠れ](../authors/葉隠.md) — 1
 - [董币哥](../authors/董币哥.md) — 1
 - [蓝哥AI](../authors/蓝哥ai.md) — 1
 - [薩約 (Zai-* )](../authors/薩約-zai.md) — 1

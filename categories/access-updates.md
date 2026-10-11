@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 401 | 168 | 233 | 802K |
+| 403 | 170 | 233 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eliautobot/status/2109294248214347909"><img src="https://pbs.twimg.com/amplify_video_thumb/2109294058719907840/img/ls3x0yF2csW6HODf.jpg" alt="Grok Bot Support Coming with Jev Classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eliautobot/status/2109294248214347909">Grok Bot Support Coming with Jev Classification</a></h3>
+<p>Elix announces upcoming support for Grok @bot. Decisions (free will) are handled by a classification model like Jev, minimizing context usage. Chat via MVW or your Grokbot chat, with easy setup, disable, and control.</p>
+<p><strong>中文摘要：</strong>Elix 宣布即将支持 Grok @bot，决策（自由意志）由类似 Jev 的分类模型处理，上下文占用极小。用户可通过 MVW 或 Grokbot 聊天使用，设置、禁用和控制都很简单。</p>
+<p><strong>Elix</strong> · @eliautobot · 2026-10-11T14:45:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
+<p><a href="https://x.com/eliautobot/status/2109294248214347909">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HsuanMingLin/status/2109288614446485730"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Microsoft Joins JEV&#39;s Decision Model Efforts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HsuanMingLin/status/2109288614446485730">Microsoft Joins JEV&#39;s Decision Model Efforts</a></h3>
+<p>CQI365 notes that Microsoft has joined the decision model initiative led by JEV, suggesting that developing specialized LLMs to reduce token consumption is a promising direction.</p>
+<p><strong>中文摘要：</strong>CQI365 指出，Microsoft 也加入了 JEV 发起的决策模型行列，认为开发专一性 LLM 以降低 token 消耗是一种值得考虑的方向。</p>
+<p><strong>CQI365 (HsuanMing Lin, Hugo Lin)</strong> · @HsuanMingLin · 2026-10-11T14:22:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/HsuanMingLin/status/2109288614446485730">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kaddisdeployed/status/2108821364849123673"><img src="https://pbs.twimg.com/media/HUQJ2W7XUAAwDFz?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M, Jev Valued at $7.5B · 原帖图片" width="100%"></a>

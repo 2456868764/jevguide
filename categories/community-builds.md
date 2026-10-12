@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1081 | 441 | 645 | 3.0M |
+| 1087 | 444 | 648 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JnBrymn/status/2109475553812058258"><img src="https://pbs.twimg.com/media/HUZczy4WQAAykjv?format=jpg&amp;name=medium" alt="Questions Raised About Jev Decision API Accuracy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JnBrymn/status/2109475553812058258">Questions Raised About Jev Decision API Accuracy</a></h3>
+<p>John Berryman expresses skepticism about decision API accuracy, using an unfair coin example to show unexpected answers from TypeSafe&#39;s Jev.</p>
+<p><strong>中文摘要：</strong>John Berryman在帖子中表示仍不相信决策API的准确性，并以不公平硬币为例，说明TypeSafe的Jev给出了意外答案。</p>
+<p><strong>John Berryman</strong> · @JnBrymn · 2026-10-12T02:45:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 115</p>
+<p><a href="https://x.com/JnBrymn/status/2109475553812058258">在 X 查看原帖</a> · <a href="https://t.co/pUNX8wfeyg">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dotpem/status/2109474543249264878"><img src="https://pbs.twimg.com/media/HUZb6XmaYAASMGl?format=jpg&amp;name=medium" alt="Jev Tip: Prefer Choice over Score for Ranking · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dotpem/status/2109474543249264878">Jev Tip: Prefer Choice over Score for Ranking</a></h3>
+<p>A practical tip for ranking with Jev: using a Choice with pairwise comparisons (e.g., &quot;Which is most relevant?&quot;) and Bradley-Terry may work better than asking for a Score and sorting on it.</p>
+<p><strong>中文摘要：</strong>分享在Jev中排序时的一个实用提示：使用Choice进行成对比较（如“哪个最相关？”）并借助Bradley-Terry模型，可能优于直接要求Score再排序。</p>
+<p><strong>Nathan LeClaire</strong> · @dotpem · 2026-10-12T02:41:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 157</p>
+<p><a href="https://x.com/dotpem/status/2109474543249264878">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/justjayvi/status/2109445159264084317"><img src="https://pbs.twimg.com/media/HUZBE2mWYAAdD4N?format=png&amp;name=small" alt="AI Thinks Jev Model Research Is in a Fictional Timeline · 原帖图片" width="100%"></a>
@@ -79,6 +103,54 @@
 <p><strong>Nacho Business</strong> · @NachoQuixotic · 2026-10-11T20:33:38.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 436</p>
 <p><a href="https://x.com/NachoQuixotic/status/2109381935260659890">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/stevengonsalvez/status/2109366743445684669"><img src="https://pbs.twimg.com/amplify_video_thumb/2109366683487883265/img/9rpd-6rsLfNL8i5f.jpg" alt="TypeSafe Jev cost efficiency benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stevengonsalvez/status/2109366743445684669">TypeSafe Jev cost efficiency benchmark</a></h3>
+<p>The user compares TypeSafe Jev against other solutions, showing it achieves 500 points at roughly $0.0024, highlighting its low cost and high performance.</p>
+<p><strong>中文摘要：</strong>用户在对比中展示TypeSafe Jev以约0.0024美元成本获得500分，显著优于其他方案，突出其低成本高性能优势。</p>
+<p><strong>Steven Gonsalvez</strong> · @stevengonsalvez · 2026-10-11T19:33:16.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/stevengonsalvez/status/2109366743445684669">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/eandualem/status/2109358145394897020"><img src="https://pbs.twimg.com/amplify_video_thumb/2109354796620677120/img/DBP7m2n-ecuLg0-v.jpg" alt="Jev vs Perplexity and Others: Visual-Aided Decision Model Race · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eandualem/status/2109358145394897020">Jev vs Perplexity and Others: Visual-Aided Decision Model Race</a></h3>
+<p>Elias Andualem runs round two, comparing the strongest text models Jev and Perplexity against four models that also receive a picture of the runner&#39;s view, exploring whether seeing helps a decision model.</p>
+<p><strong>中文摘要：</strong>Elias Andualem发起第二轮测试，对比最强文本模型Jev和Perplexity，以及额外获得视角图片的四个模型（包括OpenAI、Perplexity、Clef等），探讨视觉信息是否有助于决策模型。</p>
+<p><strong>Elias Andualem</strong> · @eandualem · 2026-10-11T18:59:06.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 288</p>
+<p><a href="https://x.com/eandualem/status/2109358145394897020">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/postimortem/status/2109349841218220120"><img src="https://pbs.twimg.com/amplify_video_thumb/2109207069450752000/img/LjSTs0jUuTHIab6Y.jpg" alt="Jev Sparks Trend of Ultra-Small Models for Edge Inference · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/postimortem/status/2109349841218220120">Jev Sparks Trend of Ultra-Small Models for Edge Inference</a></h3>
+<p>A user appreciates how Jev has pushed labs to release extremely small models for local and edge deployment.</p>
+<p><strong>中文摘要：</strong>用户称赞Jev促使各大实验室开始发布超小型模型，便于本地和边缘环境部署。</p>
+<p><strong>tim ganiev</strong> · @postimortem · 2026-10-11T18:26:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/postimortem/status/2109349841218220120">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HiloW_Ai/status/2109346572328652825"><img src="https://pbs.twimg.com/media/HUXnh16WUAAkw1T?format=jpg&amp;name=medium" alt="Analysis of Jev (TypeSafe AI) and Its Real Use Cases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HiloW_Ai/status/2109346572328652825">Analysis of Jev (TypeSafe AI) and Its Real Use Cases</a></h3>
+<p>HiloW.Ai summarizes the hype around Jev from TypeSafe AI ($870M Series A, $7.5B valuation, 17M views on the launch thread) and argues that while the model is genuinely good, most people may not need it.</p>
+<p><strong>中文摘要：</strong>HiloW.Ai 整理了 TypeSafe AI 旗下 Jev 的热度背景（870M 美元 A 轮融资、75 亿美元估值、发布帖 1700 万次浏览），并指出该模型虽实力不错，但大多数用户未必需要。</p>
+<p><strong>HiloW.Ai</strong> · @HiloW_Ai · 2026-10-11T18:13:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 73</p>
+<p><a href="https://x.com/HiloW_Ai/status/2109346572328652825">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

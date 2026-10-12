@@ -1,9 +1,10 @@
 # Mika
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T18:32:40.000Z | [Jev makes Claude Code more powerful](https://x.com/mika_systems/status/2109351491785880061) | 开发者工具 | Mika | 4.7K |
 | 2026-10-11T14:24:58.000Z | [Jev's founder showcases 80 agents exploring 540k lines of code](https://x.com/mika_systems/status/2109289158107603424) | 智能体 | Mika | 856 |
 | 2026-10-09T12:52:52.000Z | [Jev + Opus 5.5 Toolbox: A 200-Agent Coding Setup](https://x.com/mika_systems/status/2108541205638205699) | 智能体 | Mika | 447 |
 | 2026-09-21 | [TypeSafe Jev handles 13 GDPR questions in one call](https://x.com/mika_systems/status/2102137404660306022) | 法律合规 | Mika | 1.0K |

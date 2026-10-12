@@ -1,9 +1,10 @@
 # Elias Andualem
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T18:59:06.000Z | [Jev vs Perplexity and Others: Visual-Aided Decision Model Race](https://x.com/eandualem/status/2109358145394897020) | 社区实践 | Elias Andualem | 288 |
 | 2026-10-08T11:27:00.000Z | [Jev stands out in dictation error-correction comparison](https://x.com/eandualem/status/2108157205883257084) | 社区实践 | Elias Andualem | 173 |
 | 2026-10-03T00:27:38.000Z | [Entune: Dictation + Jev](https://x.com/eandualem/status/2106179334163595677) | 社区实践 | Elias Andualem | 20 |
 | 2026-10-02T22:33:33.000Z | [Entune: Dictation + Jev](https://x.com/eandualem/status/2106150622395527388) | 开发资源 | Elias Andualem | 13 |

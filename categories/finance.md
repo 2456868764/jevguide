@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 296 | 173 | 125 | 1.2M |
+| 298 | 175 | 125 | 1.2M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Odyssey</strong> · @OdysseyX6 · 2026-10-11T21:05:41.000Z</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
 <p><a href="https://x.com/OdysseyX6/status/2109390001104454135">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xOrionVega/status/2109359520896221673"><img src="https://pbs.twimg.com/amplify_video_thumb/2109226235377102848/img/xNcWDSlgcS7nhHhZ.jpg" alt="Using Jev to Filter Fake News and Avoid False ETF Alerts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xOrionVega/status/2109359520896221673">Using Jev to Filter Fake News and Avoid False ETF Alerts</a></h3>
+<p>The author shares how, after losing money from a fake &#39;SEC halts ETF&#39; post, they built a news desk with Jev as the first filter to verify sources before passing to Opus, processing about 6,000 items per night.</p>
+<p><strong>中文摘要：</strong>作者分享因虚假“SEC暂停ETF”消息导致亏损后，构建了一个以Jev为第一层筛选的新闻工作台，检查来源后再交由Opus处理，每晚处理约6000条内容。</p>
+<p><strong>Orion</strong> · @0xOrionVega · 2026-10-11T19:04:34.000Z</p>
+<p>💬 6 &nbsp; 🔁 5 &nbsp; ♡ 19 &nbsp; 📊 1.2K</p>
+<p><a href="https://x.com/0xOrionVega/status/2109359520896221673">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGrimmer_/status/2109349323087462828"><img src="https://pbs.twimg.com/amplify_video_thumb/2109346789350408192/img/X82bRde4IWZtfyOr.jpg" alt="Jev Model Powers BTC Auto-Trading: Grok Agents Trade Both Sides · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGrimmer_/status/2109349323087462828">Jev Model Powers BTC Auto-Trading: Grok Agents Trade Both Sides</a></h3>
+<p>Grimmer shares a BTC perps system combining a scanning agent, Jev&#39;s decision-making, and six Grok agents that automatically caught a climb and traded both sides while sleeping.</p>
+<p><strong>中文摘要：</strong>Grimmer分享其扫描代理、Jev决策与六个Grok代理组成的BTC永续合约交易系统，在睡眠期间自动捕捉行情并双向获利。</p>
+<p><strong>Grimmer</strong> · @0xGrimmer_ · 2026-10-11T18:24:03.000Z</p>
+<p>💬 4 &nbsp; 🔁 4 &nbsp; ♡ 39 &nbsp; 📊 2.1K</p>
+<p><a href="https://x.com/0xGrimmer_/status/2109349323087462828">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 603 | 299 | 306 | 3.6M |
+| 605 | 300 | 307 | 3.6M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>MidnightSun</strong> · @MidnightSunDusk · 2026-10-12T01:30:49.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 33</p>
 <p><a href="https://x.com/MidnightSunDusk/status/2109456723253571839">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/safishamsii/status/2109355073608569290"><img src="https://pbs.twimg.com/media/HUXvQbyXcAA_Jy5?format=jpg&amp;name=medium" alt="Building a PR and Issue Classifier Bot with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/safishamsii/status/2109355073608569290">Building a PR and Issue Classifier Bot with Jev</a></h3>
+<p>An open-source maintainer discusses using Jev to build a bot that classifies PRs and issues, and reflects on the relative value of issues versus PRs.</p>
+<p><strong>中文摘要：</strong>开源维护者讨论使用Jev构建自动分类PR和Issue的机器人，并探讨问题与PR的价值侧重。</p>
+<p><strong>Safi</strong> · @safishamsii · 2026-10-11T18:46:54.000Z</p>
+<p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 706</p>
+<p><a href="https://x.com/safishamsii/status/2109355073608569290">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mika_systems/status/2109351491785880061"><img src="https://pbs.twimg.com/amplify_video_thumb/2109350523421732864/img/FlzdB9i9uKHiBZ5s.jpg" alt="Jev makes Claude Code more powerful · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mika_systems/status/2109351491785880061">Jev makes Claude Code more powerful</a></h3>
+<p>A developer tested Jev against Anthropic&#39;s Opus 5.5 on 100 coding decisions; both got 97 right, but Jev was about 3.4x faster at 40% of the cost. The post also mentions five repos that give coding agents a way.</p>
+<p><strong>中文摘要：</strong>一位开发者测试了 Jev 和 Anthropic Opus 5.5 在 100 个编码决策上的表现，两者都答对 97 个，但 Jev 速度快约 3.4 倍，成本仅 40%。帖子还提到五个为编码代理提供方式的仓库。</p>
+<p><strong>Mika</strong> · @mika_systems · 2026-10-11T18:32:40.000Z</p>
+<p>💬 12 &nbsp; 🔁 12 &nbsp; ♡ 70 &nbsp; 📊 4.7K</p>
+<p><a href="https://x.com/mika_systems/status/2109351491785880061">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/cultist_dev/status/2109320952496439615"><img src="https://pbs.twimg.com/media/HUXQOevXcAEu9fV?format=jpg&amp;name=medium" alt="Jev docs audit costs only $0.0146 · 原帖图片" width="100%"></a>

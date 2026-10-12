@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5873</strong><br>curated posts</td>
-<td align="center"><strong>2950</strong><br>original videos</td>
+<td align="center"><strong>5890</strong><br>curated posts</td>
+<td align="center"><strong>2957</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1081</strong> showcases · <strong>441</strong> videos</p>
+<p><strong>1087</strong> showcases · <strong>444</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>603</strong> showcases · <strong>299</strong> videos</p>
+<p><strong>605</strong> showcases · <strong>300</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>492</strong> showcases · <strong>220</strong> videos</p>
+<p><strong>495</strong> showcases · <strong>220</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>462</strong> showcases · <strong>258</strong> videos</p>
+<p><strong>465</strong> showcases · <strong>259</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>404</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>405</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>296</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>298</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>电商</code> <code>原帖图片</code></p>
-<a href="https://x.com/dropshippin/status/2109459791240388905"><img src="https://pbs.twimg.com/media/HUZNlc0b0AAF6IR?format=jpg&amp;name=medium" alt="First look at Jev protecting e-commerce stores · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dropshippin/status/2109459791240388905">First look at Jev protecting e-commerce stores</a></h3>
-<p>Jev simulated historical cases from 25 accounts: pesticide violations dropped from 67 to 12 (82% fewer), 17 accounts with zero violations, and members with selling restrictions went from 7 to 0.</p>
-<p><strong>1.1K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.1K</p>
-<p><strong>Dropship Calendar</strong> · @dropshippin</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/GauravAtavale/status/2109484200059691518"><img src="https://pbs.twimg.com/amplify_video_thumb/2109437380277026816/img/l9Ex0hE21bsyM5gw.jpg" alt="Jev + Graphiti: Smarter Agent Memory, But There&#39;s a Catch · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/GauravAtavale/status/2109484200059691518">Jev + Graphiti: Smarter Agent Memory, But There&#39;s a Catch</a></h3>
+<p>Using a travel assistant example, this post explores which information an agent should remember long-term and how Jev with Graphiti contributes to smarter agent memory.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Gaurav Atavale</strong> · @GauravAtavale</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/MidnightSunDusk/status/2109456723253571839"><img src="https://pbs.twimg.com/tweet_video_thumb/HUZLtbcXEAA7FuO.jpg" alt="The Software Strike Back: Replacing LLM Calls with Deterministic Code via Jev Harness · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MidnightSunDusk/status/2109456723253571839">The Software Strike Back: Replacing LLM Calls with Deterministic Code via Jev Harness</a></h3>
-<p>This post discusses a Jev-based harness that recursively replaces non-deterministic LLM calls with more deterministic code, representing a &#39;software strike back&#39; in the AI era, with references to TypeSafe and Agent trends.</p>
-<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 33</p>
-<p><strong>MidnightSun</strong> · @MidnightSunDusk</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/leo114119/status/2109478663322316974"><img src="https://pbs.twimg.com/media/HUZYwMlWYAAaEPX?format=jpg&amp;name=large" alt="Alibaba Cloud Bailian Launches JEV-like Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/leo114119/status/2109478663322316974">Alibaba Cloud Bailian Launches JEV-like Decision Model</a></h3>
+<p>Alibaba Cloud Bailian has launched a decision mini-model, decision-model-preview, which can perform classification, yes/no judgments, and scoring in parallel based on text or business for high-frequency business decisions.</p>
+<p><strong>87</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 87</p>
+<p><strong>Leo · Building w/ AI</strong> · @leo114119</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/chrismountzou/status/2109453497800556790"><img src="https://pbs.twimg.com/media/HUZIxLsWsAABCgU?format=jpg&amp;name=medium" alt="Developer Integrates JEV into Travel Recommendation Project · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/chrismountzou/status/2109453497800556790">Developer Integrates JEV into Travel Recommendation Project</a></h3>
-<p>Chris Mountzouris integrated TypeSafe AI&#39;s JEV model into his side project to recommend travel destinations and is asking for feedback.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Chris Mountzouris</strong> · @chrismountzou</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/JnBrymn/status/2109475553812058258"><img src="https://pbs.twimg.com/media/HUZczy4WQAAykjv?format=jpg&amp;name=medium" alt="Questions Raised About Jev Decision API Accuracy · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/JnBrymn/status/2109475553812058258">Questions Raised About Jev Decision API Accuracy</a></h3>
+<p>John Berryman expresses skepticism about decision API accuracy, using an unfair coin example to show unexpected answers from TypeSafe&#39;s Jev.</p>
+<p><strong>115</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 115</p>
+<p><strong>John Berryman</strong> · @JnBrymn</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
-<a href="https://x.com/nhrdev/status/2109453181780709573"><img src="https://pbs.twimg.com/media/HUZIa0qaUAAt8uw?format=png&amp;name=360x360" alt="Optimize Titles and Headlines with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nhrdev/status/2109453181780709573">Optimize Titles and Headlines with Jev</a></h3>
-<p>A developer shares that using TypeSafe AI&#39;s Jev with AI agents to pick the best-performing titles and headlines works really well.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>Nowshad</strong> · @nhrdev</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/cyrilXBT/status/2109475398845419551"><img src="https://pbs.twimg.com/media/HUZcsiFaAAAzxBO?format=png&amp;name=small" alt="The Best AI Agent in 2026 Uses 4 Models, with Jev for Fast Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2109475398845419551">The Best AI Agent in 2026 Uses 4 Models, with Jev for Fast Decisions</a></h3>
+<p>CyrilXBT says top AI agents in 2026 will combine multiple models, where Jev (TypeSafe) handles yes/no decisions, while Opus 5.5 designs the system.</p>
+<p><strong>2.4K</strong> views · 💬 0 &nbsp; 🔁 9 &nbsp; ♡ 54 &nbsp; 📊 2.4K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>电商</code> <code>原帖图片</code></p>
-<a href="https://x.com/dropshippin/status/2109459791240388905"><img src="https://pbs.twimg.com/media/HUZNlc0b0AAF6IR?format=jpg&amp;name=medium" alt="First look at Jev protecting e-commerce stores · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dropshippin/status/2109459791240388905">First look at Jev protecting e-commerce stores</a></h3>
-<p>Jev simulated historical cases from 25 accounts: pesticide violations dropped from 67 to 12 (82% fewer), 17 accounts with zero violations, and members with selling restrictions went from 7 to 0.</p>
-<p><strong>1.1K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1.1K</p>
-<p><strong>Dropship Calendar</strong> · @dropshippin</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/GauravAtavale/status/2109484200059691518"><img src="https://pbs.twimg.com/amplify_video_thumb/2109437380277026816/img/l9Ex0hE21bsyM5gw.jpg" alt="Jev + Graphiti: Smarter Agent Memory, But There&#39;s a Catch · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/GauravAtavale/status/2109484200059691518">Jev + Graphiti: Smarter Agent Memory, But There&#39;s a Catch</a></h3>
+<p>Using a travel assistant example, this post explores which information an agent should remember long-term and how Jev with Graphiti contributes to smarter agent memory.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Gaurav Atavale</strong> · @GauravAtavale</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
-<a href="https://x.com/nhrdev/status/2109453181780709573"><img src="https://pbs.twimg.com/media/HUZIa0qaUAAt8uw?format=png&amp;name=360x360" alt="Optimize Titles and Headlines with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nhrdev/status/2109453181780709573">Optimize Titles and Headlines with Jev</a></h3>
-<p>A developer shares that using TypeSafe AI&#39;s Jev with AI agents to pick the best-performing titles and headlines works really well.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>Nowshad</strong> · @nhrdev</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/cyrilXBT/status/2109475398845419551"><img src="https://pbs.twimg.com/media/HUZcsiFaAAAzxBO?format=png&amp;name=small" alt="The Best AI Agent in 2026 Uses 4 Models, with Jev for Fast Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2109475398845419551">The Best AI Agent in 2026 Uses 4 Models, with Jev for Fast Decisions</a></h3>
+<p>CyrilXBT says top AI agents in 2026 will combine multiple models, where Jev (TypeSafe) handles yes/no decisions, while Opus 5.5 designs the system.</p>
+<p><strong>2.4K</strong> views · 💬 0 &nbsp; 🔁 9 &nbsp; ♡ 54 &nbsp; 📊 2.4K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/dotpem/status/2109474543249264878"><img src="https://pbs.twimg.com/media/HUZb6XmaYAASMGl?format=jpg&amp;name=medium" alt="Jev Tip: Prefer Choice over Score for Ranking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dotpem/status/2109474543249264878">Jev Tip: Prefer Choice over Score for Ranking</a></h3>
+<p>A practical tip for ranking with Jev: using a Choice with pairwise comparisons (e.g., &quot;Which is most relevant?&quot;) and Bradley-Terry may work better than asking for a Score and sorting on it.</p>
+<p><strong>157</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 157</p>
+<p><strong>Nathan LeClaire</strong> · @dotpem</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/justjayvi/status/2109445159264084317"><img src="https://pbs.twimg.com/media/HUZBE2mWYAAdD4N?format=png&amp;name=small" alt="AI Thinks Jev Model Research Is in a Fictional Timeline · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/justjayvi/status/2109445159264084317">AI Thinks Jev Model Research Is in a Fictional Timeline</a></h3>
 <p>User jay vi shares that after asking Opus 5.5 to research jev-like models, the model concluded we are in a fictional 2026 timeline. A community anecdote about AI interaction with Jev models.</p>
 <p><strong>26</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 26</p>
 <p><strong>jay vi</strong> · @justjayvi</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/iBadley/status/2109420720044552441"><img src="https://pbs.twimg.com/amplify_video_thumb/2109420631611584512/img/wPqaWLFdyJfUjFc1.jpg" alt="TypeSafe Jev raises $870M at $7.5B valuation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/iBadley/status/2109420720044552441">TypeSafe Jev raises $870M at $7.5B valuation</a></h3>
-<p>TypeSafe AI&#39;s Jev model reportedly raised $870M at a $7.5B valuation weeks after launch, led by A16Z with Sequoia and DCVC. The non-text model outputs calibrated decisions for code, claiming 1T tokens in 3 days and adoption by a third of the Fortune 500.</p>
-<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
-<p><strong>BotBuhdy</strong> · @iBadley</p>
 </td>
 </tr>
 </table>

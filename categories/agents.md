@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 468 | 260 | 210 | 3.0M |
+| 470 | 260 | 212 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/signalseeker_v1/status/2109535068255318524"><img src="https://pbs.twimg.com/media/HUaS8NsXsAALwwV?format=jpg&amp;name=medium" alt="Discussion on Routing Jev Scores for Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/signalseeker_v1/status/2109535068255318524">Discussion on Routing Jev Scores for Decisions</a></h3>
+<p>The author explores how to map Jev model scores to binary/ternary actions like accept, reject, or retry, and asks where the threshold should reside.</p>
+<p><strong>中文摘要：</strong>作者探讨如何将Jev模型的评分映射为接受、拒绝或重试等二元/三元操作，并询问阈值应如何设定。</p>
+<p><strong>Signal Seeker</strong> · @signalseeker_v1 · 2026-10-12T06:42:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/signalseeker_v1/status/2109535068255318524">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/patrickmutabazi/status/2109531244971127278"><img src="https://pbs.twimg.com/media/HUaPfA6WwAAm1iY?format=jpg&amp;name=medium" alt="Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/patrickmutabazi/status/2109531244971127278">Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents</a></h3>
+<p>The author argues that not every AI agent decision needs a generative LLM, exploring an agent runtime architecture combining Jev with LLMs.</p>
+<p><strong>中文摘要：</strong>作者提出并非每个 AI Agent 决策都需要生成式 LLM，探讨 Jev 与 LLM 结合的 Agent runtime 架构。</p>
+<p><strong>Patrick Mutabazi</strong> · @patrickmutabazi · 2026-10-12T06:26:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/patrickmutabazi/status/2109531244971127278">在 X 查看原帖</a> · <a href="https://t.co/q6I88oidWI">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>

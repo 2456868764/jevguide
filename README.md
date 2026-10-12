@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5904</strong><br>curated posts</td>
-<td align="center"><strong>2962</strong><br>original videos</td>
+<td align="center"><strong>5910</strong><br>curated posts</td>
+<td align="center"><strong>2964</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1091</strong> showcases · <strong>446</strong> videos</p>
+<p><strong>1092</strong> showcases · <strong>447</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>496</strong> showcases · <strong>220</strong> videos</p>
+<p><strong>498</strong> showcases · <strong>220</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>468</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>470</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>65</strong> showcases · <strong>22</strong> videos</p>
+<p><strong>66</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MirrortekUK/status/2109522754277875990">TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s</a></h3>
-<p>The post compares Rubik&#39;s cube solving speed and cost across multiple AIs. TypeSafe Jev completes in 6.8 seconds at $151 per million solves, close to Microsoft Decision-1 and far better than Qwen3.8-27B.</p>
-<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>英格兰AI哥</strong> · @MirrortekUK</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/massimodeluisa/status/2109536714159218692"><img src="https://pbs.twimg.com/media/HUaUFGJWQAAOIuj?format=jpg&amp;name=large" alt="Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/massimodeluisa/status/2109536714159218692">Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev</a></h3>
+<p>Italian developer Massimo De Luisa posts that Microsoft suddenly dropped Microsoft-Decision-1, which he says basically destroys Jev, adding &#39;Not bad&#39;.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>🇮🇹 Massimo De Luisa</strong> · @massimodeluisa</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2109516942403092750"><img src="https://pbs.twimg.com/amplify_video_thumb/2109516920550756352/img/dcnbUjlD04bFOZGB.jpg" alt="Jev cuts coding costs by $4,420/month · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2109516942403092750">Jev cuts coding costs by $4,420/month</a></h3>
-<p>For 1,000 coding tasks a month, Opus 5.5 alone costs $6,420; with Jev it&#39;s $2,000, saving $53,040 a year.</p>
-<p><strong>2.7K</strong> views · 💬 6 &nbsp; 🔁 9 &nbsp; ♡ 43 &nbsp; 📊 2.7K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/signalseeker_v1/status/2109535068255318524"><img src="https://pbs.twimg.com/media/HUaS8NsXsAALwwV?format=jpg&amp;name=medium" alt="Discussion on Routing Jev Scores for Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/signalseeker_v1/status/2109535068255318524">Discussion on Routing Jev Scores for Decisions</a></h3>
+<p>The author explores how to map Jev model scores to binary/ternary actions like accept, reject, or retry, and asks where the threshold should reside.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Signal Seeker</strong> · @signalseeker_v1</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/321sssrt/status/2109512147638317110"><img src="https://pbs.twimg.com/media/HUZ9s8obAAABJDr?format=jpg&amp;name=medium" alt="Discussion on Jev Model and Deployment Costs · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/321sssrt/status/2109512147638317110">Discussion on Jev Model and Deployment Costs</a></h3>
-<p>The author believes Jev is still stronger despite the Decision API updating to 3.0, but deployment costs are high. They question the reliability of the 3.59b model and note that the 27b model is too expensive for most use cases.</p>
-<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
-<p><strong>Zebro</strong> · @321sssrt</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/tornikegomareli/status/2109533406941888677"><img src="https://pbs.twimg.com/amplify_video_thumb/2109376181036359680/img/3l26pbo0kX4jG-mw.jpg" alt="Using Jolt and Jev for Layered Classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tornikegomareli/status/2109533406941888677">Using Jolt and Jev for Layered Classification</a></h3>
+<p>Tornike Gomareli shares a practical usage: Jolt uses fff under the hood, is fast and accurate, and they use it as the first layer, then pass the results to Jev for classification.</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>Tornike Gomareli</strong> · @tornikegomareli</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/JIN21685260/status/2109512115962986868"><img src="https://pbs.twimg.com/amplify_video_thumb/2108391081092014080/img/023tW5OqG-omAfb_.jpg" alt="Comparison of EmbeddingGemma 2 and Jev for Classification · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JIN21685260/status/2109512115962986868">Comparison of EmbeddingGemma 2 and Jev for Classification</a></h3>
-<p>Introduces EmbeddingGemma 2&#39;s on-device topic classification at about 620 posts per second on Mac, and compares it with TypeSafe&#39;s Jev.</p>
-<p><strong>146</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 146</p>
-<p><strong>JIN@★AI情報×AI自動化x開発xクリプト</strong> · @JIN21685260</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/patrickmutabazi/status/2109531244971127278"><img src="https://pbs.twimg.com/media/HUaPfA6WwAAm1iY?format=jpg&amp;name=medium" alt="Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/patrickmutabazi/status/2109531244971127278">Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents</a></h3>
+<p>The author argues that not every AI agent decision needs a generative LLM, exploring an agent runtime architecture combining Jev with LLMs.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Patrick Mutabazi</strong> · @patrickmutabazi</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MirrortekUK/status/2109522754277875990">TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s</a></h3>
-<p>The post compares Rubik&#39;s cube solving speed and cost across multiple AIs. TypeSafe Jev completes in 6.8 seconds at $151 per million solves, close to Microsoft Decision-1 and far better than Qwen3.8-27B.</p>
-<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>英格兰AI哥</strong> · @MirrortekUK</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/massimodeluisa/status/2109536714159218692"><img src="https://pbs.twimg.com/media/HUaUFGJWQAAOIuj?format=jpg&amp;name=large" alt="Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/massimodeluisa/status/2109536714159218692">Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev</a></h3>
+<p>Italian developer Massimo De Luisa posts that Microsoft suddenly dropped Microsoft-Decision-1, which he says basically destroys Jev, adding &#39;Not bad&#39;.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>🇮🇹 Massimo De Luisa</strong> · @massimodeluisa</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/JIN21685260/status/2109512115962986868"><img src="https://pbs.twimg.com/amplify_video_thumb/2108391081092014080/img/023tW5OqG-omAfb_.jpg" alt="Comparison of EmbeddingGemma 2 and Jev for Classification · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JIN21685260/status/2109512115962986868">Comparison of EmbeddingGemma 2 and Jev for Classification</a></h3>
-<p>Introduces EmbeddingGemma 2&#39;s on-device topic classification at about 620 posts per second on Mac, and compares it with TypeSafe&#39;s Jev.</p>
-<p><strong>146</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 146</p>
-<p><strong>JIN@★AI情報×AI自動化x開発xクリプト</strong> · @JIN21685260</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/patrickmutabazi/status/2109531244971127278"><img src="https://pbs.twimg.com/media/HUaPfA6WwAAm1iY?format=jpg&amp;name=medium" alt="Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/patrickmutabazi/status/2109531244971127278">Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents</a></h3>
+<p>The author argues that not every AI agent decision needs a generative LLM, exploring an agent runtime architecture combining Jev with LLMs.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Patrick Mutabazi</strong> · @patrickmutabazi</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/davepoon/status/2109528938947256580"><img src="https://pbs.twimg.com/amplify_video_thumb/2109520703959818240/img/Y8rQCCXVzPiYqkha.jpg" alt="Jev performs well in 200 real phishing email test · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/davepoon/status/2109528938947256580">Jev performs well in 200 real phishing email test</a></h3>
+<p>The author compared Jev, Cloudflare Clef, and OpenAI&#39;s Decisions API on 200 real phishing emails. Jev caught 181, Clef caught 191 including all of Jev&#39;s catches, and OpenAI caught 185.</p>
+<p><strong>30</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><strong>davepoon</strong> · @davepoon</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/LilithDatura/status/2109511985855689074"><img src="https://pbs.twimg.com/amplify_video_thumb/2109386975463501824/img/2a9Ptyd4xt-lgdG2.jpg" alt="Clone-and-Rename Controversy: Jev Accused of Copying · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/LilithDatura/status/2109511985855689074">Clone-and-Rename Controversy: Jev Accused of Copying</a></h3>
 <p>The author sarcastically notes that removing &#39;Jev&#39; from the explanation makes the original technology obvious, questioning why the cloned version was renamed without calling it a classifier.</p>
 <p><strong>122</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 122</p>
 <p><strong>Lilith Datura</strong> · @LilithDatura</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Kiratchi0328/status/2109491841666363605"><img src="https://pbs.twimg.com/media/HUZrcKEbQAAwnO9?format=jpg&amp;name=medium" alt="Text-To-VRMA v1.1.9 released with Jev (TypeSafe AI) support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Kiratchi0328/status/2109491841666363605">Text-To-VRMA v1.1.9 released with Jev (TypeSafe AI) support</a></h3>
-<p>The new version supports Jev from TypeSafe AI, enabling AI to analyze emotion, gaze, and movement tempo for more natural expressions, blinking, and speech, along with improved posture and landing during continuous generation and a clearer UI.</p>
-<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 74</p>
-<p><strong>きらっち</strong> · @Kiratchi0328</p>
 </td>
 </tr>
 </table>

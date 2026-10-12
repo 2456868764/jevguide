@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T06:48:40.000Z | [Microsoft releases Decision-1, claims it basically 'destroys' Jev](https://x.com/massimodeluisa/status/2109536714159218692) | 产品发布 | 🇮🇹 Massimo De Luisa | 4 |
+| 2026-10-12T06:42:08.000Z | [Discussion on Routing Jev Scores for Decisions](https://x.com/signalseeker_v1/status/2109535068255318524) | 智能体 | Signal Seeker | 9 |
+| 2026-10-12T06:35:32.000Z | [Using Jolt and Jev for Layered Classification](https://x.com/tornikegomareli/status/2109533406941888677) | 社区实践 | Tornike Gomareli | 27 |
+| 2026-10-12T06:26:56.000Z | [Jev+LLMs+Agent Runtime: A Smarter Architecture for AI Agents](https://x.com/patrickmutabazi/status/2109531244971127278) | 智能体 | Patrick Mutabazi | 9 |
+| 2026-10-12T06:17:46.000Z | [Jev performs well in 200 real phishing email test](https://x.com/davepoon/status/2109528938947256580) | 网络安全 | davepoon | 30 |
+| 2026-10-12T06:13:34.000Z | [TypeSafe's Jev Model Launches, Hits $7.5B Valuation](https://x.com/skyler7905/status/2109527878601933162) | 产品发布 | Himanshu Singh | 21 |
 | 2026-10-12T05:53:12.000Z | [TypeSafe Jev Rubik's Cube Benchmark: 6.8s](https://x.com/MirrortekUK/status/2109522754277875990) | 智能体 | 英格兰AI哥 | 11 |
 | 2026-10-12T05:30:06.000Z | [Jev cuts coding costs by $4,420/month](https://x.com/cyrilXBT/status/2109516942403092750) | 开发者工具 | CyrilXBT | 2.7K |
 | 2026-10-12T05:11:03.000Z | [Discussion on Jev Model and Deployment Costs](https://x.com/321sssrt/status/2109512147638317110) | 智能体 | Zebro | 21 |
@@ -96,9 +102,3 @@
 | 2026-10-11T14:01:25.000Z | [TypeSafe AI raises $870M for Jev model](https://x.com/ApollonVisual/status/2109283229026943033) | 企业运营 | Apollo | 10 |
 | 2026-10-11T14:01:04.000Z | [Jev founder releases PDF on building a Jev harness](https://x.com/cazevedo1977/status/2109283141378507062) | 开发资源 | Caio Azevedo | 7 |
 | 2026-10-11T14:01:00.000Z | [Jev-style LLM gate for Argo Rollouts canary](https://x.com/hagzag/status/2109283127113769269) | 自动化工作流 | Haggai Philip zagury | 4 |
-| 2026-10-11T14:00:19.000Z | [Thoughts on Jev and System 1 Models](https://x.com/hagzag/status/2109282952970433011) | 工作原理 | Haggai Philip zagury | 1 |
-| 2026-10-11T13:51:59.000Z | [What is Jev? A 'Jevolution' for Bittensor](https://x.com/taodaily_io/status/2109280855277322480) | 社区实践 | The TAO Daily | 310 |
-| 2026-10-11T13:50:59.000Z | [Persian AI Model Benchmark: 78.7% Score, Compared with Jev](https://x.com/mirzaei_mani/status/2109280604260823360) | 科研 | Mani | 91 |
-| 2026-10-11T13:50:52.000Z | [Mizan 4B: A Persian Decision Model Similar to Jev](https://x.com/mirzaei_mani/status/2109280577115288046) | 社区实践 | Mani | 258 |
-| 2026-10-11T13:37:00.000Z | [Open-source project to control your Mac with voice using Jev](https://x.com/Chris_Wozniczek/status/2109277085202293091) | 社区实践 | Chris W | 47 |
-| 2026-10-11T13:35:00.000Z | [TypeSafe AI Raises $870M at $7.5B Valuation](https://x.com/Vespergzt/status/2109276582007406883) | 金融 | Vesper | 8 |

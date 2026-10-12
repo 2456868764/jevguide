@@ -53,6 +53,7 @@
 - [barnyx](../authors/barnyx.md) — 6
 - [bl888m](../authors/bl888m.md) — 6
 - [Chrome](../authors/chrome.md) — 6
+- [davepoon](../authors/davepoon.md) — 6
 - [Doug Finke](../authors/doug-finke.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [Jason Zhu](../authors/jason-zhu.md) — 6
@@ -73,7 +74,6 @@
 - [Artimind](../authors/artimind.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
 - [Dan Kornas](../authors/dan-kornas.md) — 5
-- [davepoon](../authors/davepoon.md) — 5
 - [Deep Insight Labs](../authors/deep-insight-labs.md) — 5
 - [Dr. Cheems Wang 🏡](../authors/dr-cheems-wang.md) — 5
 - [Elias Andualem](../authors/elias-andualem.md) — 5
@@ -759,6 +759,7 @@
 - [Tong Zhu](../authors/tong-zhu.md) — 2
 - [Tony Schaffert](../authors/tony-schaffert.md) — 2
 - [Tony Simons](../authors/tony-simons.md) — 2
+- [Tornike Gomareli](../authors/tornike-gomareli.md) — 2
 - [Troy Tessalone | Automation Ace ⚡️](../authors/troy-tessalone-automation-ace.md) — 2
 - [Tugrul Guner](../authors/tugrul-guner.md) — 2
 - [ucchy / Yuki Uchida](../authors/ucchy-yuki-uchida.md) — 2
@@ -864,6 +865,7 @@
 - [▼ Radio Chad ▼](../authors/radio-chad.md) — 1
 - [⚡ Marshall ⚡](../authors/marshall.md) — 1
 - [⚡Jessy SEO formation #IA générative #chatGPT 🦊](../authors/jessy-seo-formation-ia-generative-chatgpt.md) — 1
+- [🇮🇹 Massimo De Luisa](../authors/massimo-de-luisa.md) — 1
 - [🍖やきにく🍖](../authors/jev-showcase.md) — 1
 - [🐖 ソロでぶ（solo.dev）｜開発牧場の家畜](../authors/solo-dev-開発牧場-家畜.md) — 1
 - [🐱๓Ꭵʂαԃ𐑾σᎥԃ🐱](../authors/jev-showcase.md) — 1
@@ -1956,6 +1958,7 @@
 - [hikae](../authors/hikae.md) — 1
 - [HiloW.Ai](../authors/hilow-ai.md) — 1
 - [himanshu](../authors/himanshu.md) — 1
+- [Himanshu Singh](../authors/himanshu-singh.md) — 1
 - [Himanshu Singh Tomar](../authors/himanshu-singh-tomar.md) — 1
 - [HIMANSHU TIWARI](../authors/himanshu-tiwari.md) — 1
 - [Hiroki ITO](../authors/hiroki-ito.md) — 1
@@ -2835,6 +2838,7 @@
 - [Patrick DeVivo](../authors/patrick-devivo.md) — 1
 - [Patrick Lawson](../authors/patrick-lawson.md) — 1
 - [patrick mcqueeny](../authors/patrick-mcqueeny.md) — 1
+- [Patrick Mutabazi](../authors/patrick-mutabazi.md) — 1
 - [Patronus Ben](../authors/patronus-ben.md) — 1
 - [Paul Asjes](../authors/paul-asjes.md) — 1
 - [Paul Crossland](../authors/paul-crossland.md) — 1
@@ -3239,6 +3243,7 @@
 - [Shuga](../authors/shuga.md) — 1
 - [siddharth ahuja](../authors/siddharth-ahuja.md) — 1
 - [Siddique Ahmad](../authors/siddique-ahmad.md) — 1
+- [Signal Seeker](../authors/signal-seeker.md) — 1
 - [Signals by Snowplow](../authors/signals-by-snowplow.md) — 1
 - [Siim Haugas](../authors/siim-haugas.md) — 1
 - [Silicon Jungle](../authors/silicon-jungle.md) — 1
@@ -3475,7 +3480,6 @@
 - [Tonino Catapano (tonnoz)](../authors/tonino-catapano-tonnoz.md) — 1
 - [tonyng.eth](../authors/tonyng-eth.md) — 1
 - [Toran Bruce Richards](../authors/toran-bruce-richards.md) — 1
-- [Tornike Gomareli](../authors/tornike-gomareli.md) — 1
 - [towninthesky](../authors/towninthesky.md) — 1
 - [TQX](../authors/tqx.md) — 1
 - [TR-MZ](../authors/tr-mz.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 496 | 220 | 279 | 1.1M |
+| 498 | 220 | 281 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/massimodeluisa/status/2109536714159218692"><img src="https://pbs.twimg.com/media/HUaUFGJWQAAOIuj?format=jpg&amp;name=large" alt="Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/massimodeluisa/status/2109536714159218692">Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev</a></h3>
+<p>Italian developer Massimo De Luisa posts that Microsoft suddenly dropped Microsoft-Decision-1, which he says basically destroys Jev, adding &#39;Not bad&#39;.</p>
+<p><strong>中文摘要：</strong>意大利开发者Massimo De Luisa发帖称，微软突然发布了Microsoft-Decision-1，并认为该模型基本上击败了Jev，表示“还不错”。</p>
+<p><strong>🇮🇹 Massimo De Luisa</strong> · @massimodeluisa · 2026-10-12T06:48:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/massimodeluisa/status/2109536714159218692">在 X 查看原帖</a> · <a href="https://t.co/klSgZDxn1a">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/skyler7905/status/2109527878601933162"><img src="https://pbs.twimg.com/media/HUaMayQbcAE5YOc?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev Model Launches, Hits $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/skyler7905/status/2109527878601933162">TypeSafe&#39;s Jev Model Launches, Hits $7.5B Valuation</a></h3>
+<p>TypeSafe&#39;s Jev is a decision model for agents, not a text model, providing fast, cheap structured outputs for AI agents. Weeks after launch, it secured a $7.5B valuation led by a16z.</p>
+<p><strong>中文摘要：</strong>TypeSafe的Jev是一个面向智能体的决策模型，而非文本模型，能以快速、廉价的结构化输出支持AI代理。上线数周即获a16z领投，估值达75亿美元。</p>
+<p><strong>Himanshu Singh</strong> · @skyler7905 · 2026-10-12T06:13:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/skyler7905/status/2109527878601933162">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kiratchi0328/status/2109491841666363605"><img src="https://pbs.twimg.com/media/HUZrcKEbQAAwnO9?format=jpg&amp;name=medium" alt="Text-To-VRMA v1.1.9 released with Jev (TypeSafe AI) support · 原帖图片" width="100%"></a>

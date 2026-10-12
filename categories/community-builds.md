@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1087 | 444 | 648 | 3.0M |
+| 1089 | 444 | 650 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kk_welfare/status/2109498108820472260"><img src="https://pbs.twimg.com/media/HUZxAlZaEAAeAsa?format=png&amp;name=medium" alt="Jev is so cheap and quiet it flies under the radar · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kk_welfare/status/2109498108820472260">Jev is so cheap and quiet it flies under the radar</a></h3>
+<p>A user comments that TypeSafe&#39;s Jev model is affordable and runs quietly, so it doesn&#39;t get much attention.</p>
+<p><strong>中文摘要：</strong>用户评论TypeSafe的Jev模型价格低廉、运行安静，因此没有成为热议话题。</p>
+<p><strong>KK</strong> · @kk_welfare · 2026-10-12T04:15:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/kk_welfare/status/2109498108820472260">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/JnBrymn/status/2109475553812058258"><img src="https://pbs.twimg.com/media/HUZczy4WQAAykjv?format=jpg&amp;name=medium" alt="Questions Raised About Jev Decision API Accuracy · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 115</p>
 <p><a href="https://x.com/JnBrymn/status/2109475553812058258">在 X 查看原帖</a> · <a href="https://t.co/pUNX8wfeyg">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dotpem/status/2109474543249264878"><img src="https://pbs.twimg.com/media/HUZb6XmaYAASMGl?format=jpg&amp;name=medium" alt="Jev Tip: Prefer Choice over Score for Ranking · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 157</p>
 <p><a href="https://x.com/dotpem/status/2109474543249264878">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/justjayvi/status/2109445159264084317"><img src="https://pbs.twimg.com/media/HUZBE2mWYAAdD4N?format=png&amp;name=small" alt="AI Thinks Jev Model Research Is in a Fictional Timeline · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 26</p>
 <p><a href="https://x.com/justjayvi/status/2109445159264084317">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepInsightLabs/status/2109421958542840202"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs seeks community connections around Jev and System One models · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 71</p>
 <p><a href="https://x.com/DeepInsightLabs/status/2109421958542840202">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gabamnml/status/2109401797802528843"><img src="https://pbs.twimg.com/media/HUYZwVSWQAAIc4Q?format=jpg&amp;name=medium" alt="Jev: Reflections After a Six-Day Fever · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/gabamnml/status/2109401797802528843">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mary_nekyia/status/2109382628444930295"><img src="https://pbs.twimg.com/media/HUYH289XoAAUSEM?format=jpg&amp;name=medium" alt="Nekyia Labs replaces Gemini API with local Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 249</p>
 <p><a href="https://x.com/mary_nekyia/status/2109382628444930295">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KlingonYellow/status/2109382503526191146"><img src="https://pbs.twimg.com/media/HUYH-x_XEAAevox?format=jpg&amp;name=medium" alt="Tuning a Decision Model and Comparing with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
 <p><a href="https://x.com/KlingonYellow/status/2109382503526191146">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NachoQuixotic/status/2109381935260659890"><img src="https://pbs.twimg.com/media/HUYHsPvXoAAxdz7?format=jpg&amp;name=small" alt="Controversial commentary on Jev as a fraud fix · 原帖图片" width="100%"></a>
 <br>
@@ -103,6 +116,17 @@
 <p><strong>Nacho Business</strong> · @NachoQuixotic · 2026-10-11T20:33:38.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 436</p>
 <p><a href="https://x.com/NachoQuixotic/status/2109381935260659890">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fagnersales25/status/2109379168245109237"><img src="https://pbs.twimg.com/media/HUYFHfqXQAE7X2r?format=png&amp;name=medium" alt="User asks what Jev is · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fagnersales25/status/2109379168245109237">User asks what Jev is</a></h3>
+<p>In a social media post, a user asks about the meaning of &#39;Jev&#39; and tags @typesafeai for an official explanation.</p>
+<p><strong>中文摘要：</strong>一条社交媒体帖子中，用户表示不明白&#39;Jev&#39;的含义，并@typesafeai寻求官方解答。</p>
+<p><strong>Fagner Sales</strong> · @fagnersales25 · 2026-10-11T20:22:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/fagnersales25/status/2109379168245109237">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

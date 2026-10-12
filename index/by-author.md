@@ -254,6 +254,7 @@
 - [Kelip](../authors/kelip.md) — 3
 - [keno](../authors/keno.md) — 3
 - [Khairallah AL-Awady](../authors/khairallah-al-awady.md) — 3
+- [Kirk Borne](../authors/kirk-borne.md) — 3
 - [kitze 🛠️ tinkerer.club](../authors/kitze-tinkerer-club.md) — 3
 - [Kiyoro](../authors/kiyoro.md) — 3
 - [Kun Chen](../authors/kun-chen.md) — 3
@@ -470,6 +471,7 @@
 - [Demirhan Aydın](../authors/demirhan-ayd-n.md) — 2
 - [Derya Unutmaz, MD](../authors/derya-unutmaz-md.md) — 2
 - [Dhairya Karekar](../authors/dhairya-karekar.md) — 2
+- [Didier Lopes](../authors/didier-lopes.md) — 2
 - [Diego Araos](../authors/diego-araos.md) — 2
 - [Doug Tallmadge](../authors/doug-tallmadge.md) — 2
 - [echild](../authors/echild.md) — 2
@@ -486,6 +488,7 @@
 - [Ethan Walker](../authors/ethan-walker.md) — 2
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
 - [Fabian Kerj](../authors/fabian-kerj.md) — 2
+- [Fagner Sales](../authors/fagner-sales.md) — 2
 - [Featherless AI](../authors/featherless-ai.md) — 2
 - [FEDRO](../authors/fedro.md) — 2
 - [FOFO](../authors/fofo.md) — 2
@@ -558,9 +561,9 @@
 - [khaled](../authors/khaled.md) — 2
 - [Kike Lopez](../authors/kike-lopez.md) — 2
 - [kimura512@開発者](../authors/kimura512-開発者.md) — 2
-- [Kirk Borne](../authors/kirk-borne.md) — 2
 - [kishi27 ＠ 実践AIエージェント](../authors/kishi27-実践ai.md) — 2
 - [Kisson](../authors/kisson.md) — 2
+- [KK](../authors/kk.md) — 2
 - [KK.aWSB](../authors/kk-awsb.md) — 2
 - [Klonzu](../authors/klonzu.md) — 2
 - [komz](../authors/komz.md) — 2
@@ -807,6 +810,7 @@
 - [インターン採用チーム](../authors/採用.md) — 2
 - [かなめ｜個人開発](../authors/個人開発.md) — 2
 - [かねこつよし](../authors/jev-showcase.md) — 2
+- [きらっち](../authors/jev-showcase.md) — 2
 - [クオ⭐︎個人開発｜kitepon.dev](../authors/個人開発-kitepon-dev.md) — 2
 - [ケンちゃん_AIDX](../authors/aidx.md) — 2
 - [ししかわ/Shinya Ishikawa](../authors/shinya-ishikawa.md) — 2
@@ -934,6 +938,7 @@
 - [Adithya Thatipalli](../authors/adithya-thatipalli.md) — 1
 - [Aditya](../authors/aditya.md) — 1
 - [Aditya A.](../authors/aditya-a.md) — 1
+- [Aditya kumar Singh](../authors/aditya-kumar-singh.md) — 1
 - [Aditya Rao](../authors/aditya-rao.md) — 1
 - [adlrocha](../authors/adlrocha.md) — 1
 - [Adnan](../authors/adnan.md) — 1
@@ -1149,6 +1154,7 @@
 - [Arcveil](../authors/arcveil.md) — 1
 - [Argona](../authors/argona.md) — 1
 - [arhen](../authors/arhen.md) — 1
+- [Ari Heljakka](../authors/ari-heljakka.md) — 1
 - [arize-phoenix](../authors/arize-phoenix.md) — 1
 - [arjun chintapalli 🌐👾](../authors/arjun-chintapalli.md) — 1
 - [Arjun Gupta](../authors/arjun-gupta.md) — 1
@@ -1589,7 +1595,6 @@
 - [diar.ia.br](../authors/diar-ia-br.md) — 1
 - [Diario฿itcoin](../authors/diario-itcoin.md) — 1
 - [Dibya.shree](../authors/dibya-shree.md) — 1
-- [Didier Lopes](../authors/didier-lopes.md) — 1
 - [diegotorres.eth](../authors/diegotorres-eth.md) — 1
 - [Digiato | دیجیاتو](../authors/digiato.md) — 1
 - [digital ghost](../authors/digital-ghost.md) — 1
@@ -1731,7 +1736,6 @@
 - [Fabio Makita](../authors/fabio-makita.md) — 1
 - [Fable5.1 AI NEWS Select｜Fable5.1によるAI情報検証🔍](../authors/fable5-1-ai-news-select-fable5-1-ai情報検証.md) — 1
 - [Fabrício Carraro](../authors/fabricio-carraro.md) — 1
-- [Fagner Sales](../authors/fagner-sales.md) — 1
 - [Fahad Saleem](../authors/fahad-saleem.md) — 1
 - [fahmi irfan](../authors/fahmi-irfan.md) — 1
 - [Faisal - Thumbnail Designer](../authors/faisal-thumbnail-designer.md) — 1
@@ -2297,7 +2301,6 @@
 - [Kiran Gollu](../authors/kiran-gollu.md) — 1
 - [KiRura](../authors/kirura.md) — 1
 - [kitscho.eth](../authors/kitscho-eth.md) — 1
-- [KK](../authors/kk.md) — 1
 - [kkonline.org](../authors/kkonline-org.md) — 1
 - [KnowAI](../authors/knowai.md) — 1
 - [kobayashi](../authors/kobayashi.md) — 1
@@ -2641,6 +2644,7 @@
 - [Muhammad Waris](../authors/muhammad-waris.md) — 1
 - [Muhammad Waseem Nasir](../authors/muhammad-waseem-nasir.md) — 1
 - [Mukesh Bishnoi](../authors/mukesh-bishnoi.md) — 1
+- [Muscle AI](../authors/muscle-ai.md) — 1
 - [Muskan Paliwal](../authors/muskan-paliwal.md) — 1
 - [Muthukumar G.V](../authors/muthukumar-g-v.md) — 1
 - [Mystery Hat](../authors/mystery-hat.md) — 1
@@ -3406,6 +3410,7 @@
 - [The Bullish Broke Guy X](../authors/the-bullish-broke-guy-x.md) — 1
 - [The CEO Magazine India](../authors/the-ceo-magazine-india.md) — 1
 - [The Circuitry](../authors/the-circuitry.md) — 1
+- [The Desk](../authors/the-desk.md) — 1
 - [The Klingon Yellow](../authors/the-klingon-yellow.md) — 1
 - [The SamurAI](../authors/the-samurai.md) — 1
 - [The TAO Daily](../authors/the-tao-daily.md) — 1
@@ -3794,7 +3799,6 @@
 - [からあげ](../authors/jev-showcase.md) — 1
 - [かん吉](../authors/吉.md) — 1
 - [ギネコロ🤱](../authors/jev-showcase.md) — 1
-- [きらっち](../authors/jev-showcase.md) — 1
 - [きりいも｜Where Lanterns Wait 🌙](../authors/where-lanterns-wait.md) — 1
 - [きりまんじゃろ](../authors/jev-showcase.md) — 1
 - [キンボウズ](../authors/jev-showcase.md) — 1

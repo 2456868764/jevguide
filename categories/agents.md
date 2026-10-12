@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 456 | 254 | 204 | 3.0M |
+| 462 | 258 | 206 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mar_ko3/status/2109429184976085293"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Developer Builds Multi-Agent Controller with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mar_ko3/status/2109429184976085293">Developer Builds Multi-Agent Controller with Jev</a></h3>
+<p>0xRicker built and demonstrated an AI agent architecture pattern using TypeSafe AI&#39;s Jev decision model, and used it to create a Multi-Agent Controller that makes decision-making faster and cheaper.</p>
+<p><strong>中文摘要：</strong>0xRicker 构建并演示了基于 TypeSafe AI Jev 决策模型的 AI 智能体系统架构模式，并用该架构打造了多智能体控制器，使决策更快、成本更低。</p>
+<p><strong>Marko.xbt 🔥</strong> · @mar_ko3 · 2026-10-11T23:41:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 79</p>
+<p><a href="https://x.com/mar_ko3/status/2109429184976085293">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mar_ko3/status/2109415737441800211"><img src="https://pbs.twimg.com/amplify_video_thumb/2101703757109006336/img/VMm2Coeq4m1vZaAs.jpg" alt="Developer Builds Multi-Agent Controller Architecture with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mar_ko3/status/2109415737441800211">Developer Builds Multi-Agent Controller Architecture with Jev</a></h3>
+<p>0xRicker demonstrates an AI agent system architecture pattern using Jev (TypeSafe AI&#39;s System One decision model), and builds a Multi-Agent Controller with it, making decision-making faster and cheaper. Followed by big AI founders.</p>
+<p><strong>中文摘要：</strong>0xRicker展示了一种使用Jev（TypeSafe AI的System One决策模型）的AI代理系统架构模式，并用该架构构建多代理控制器，实现更快更经济的决策。该开发者受到大型AI创始人的关注。</p>
+<p><strong>Marko.xbt 🔥</strong> · @mar_ko3 · 2026-10-11T22:47:57.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 776</p>
+<p><a href="https://x.com/mar_ko3/status/2109415737441800211">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EverymansAI/status/2109412997936632071"><img src="https://pbs.twimg.com/media/HUYjrZ_akAA1T5h?format=jpg&amp;name=medium" alt="Microsoft and OpenAI Enter Decision-Model Race, Competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EverymansAI/status/2109412997936632071">Microsoft and OpenAI Enter Decision-Model Race, Competing with TypeSafe&#39;s Jev</a></h3>
+<p>The author shares insights as a builder running such models in production, commenting on Microsoft and OpenAI entering the decision-model space competing with TypeSafe&#39;s Jev, and mentions the ModelFusion.ai + Jev integration.</p>
+<p><strong>中文摘要：</strong>作者以生产环境使用者的视角，分享微软和OpenAI进入决策模型领域与TypeSafe Jev竞争的看法，并提及ModelFusion.ai与Jev的集成。</p>
+<p><strong>Everymans.ai</strong> · @EverymansAI · 2026-10-11T22:37:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
+<p><a href="https://x.com/EverymansAI/status/2109412997936632071">在 X 查看原帖</a> · <a href="https://t.co/ETLMZnKmjD">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BenENewton/status/2109388761767239680"><img src="https://pbs.twimg.com/media/HUYN5q3WEAAIL_-?format=jpg&amp;name=medium" alt="Testing the Jev Agent Routing Mod: A Blind Evaluation Approach · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BenENewton/status/2109388761767239680">Testing the Jev Agent Routing Mod: A Blind Evaluation Approach</a></h3>
+<p>The author shares how they tested the routing mod: each task ran twice (default and routed), with a blind Opus judge checking every path, line number, and config value in random X/Y order. Full results for all three rounds are provided.</p>
+<p><strong>中文摘要：</strong>作者分享了测试路由mod的方法：每个任务默认和路由各运行一次，由盲审Opus法官随机按X/Y顺序检查所有路径、行号和配置值，并附上三轮的完整结果。</p>
+<p><strong>Ben Newton ベン</strong> · @BenENewton · 2026-10-11T21:00:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 40</p>
+<p><a href="https://x.com/BenENewton/status/2109388761767239680">在 X 查看原帖</a> · <a href="https://t.co/V4tYxClPMs">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/razeden0/status/2109374907951771784"><img src="https://pbs.twimg.com/amplify_video_thumb/2109373885162369025/img/6XpLXAZA3J_K9in6.jpg" alt="Jev Agent Self-Healing: Core Rebuilt in 24 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/razeden0/status/2109374907951771784">Jev Agent Self-Healing: Core Rebuilt in 24 Seconds</a></h3>
+<p>The author shares an experiment with Opus 5.5 + Jev Agent: after intentionally killing the core, one of 6,000 small parts automatically built a new core in 24 seconds, demonstrating system resilience and self-healing.</p>
+<p><strong>中文摘要：</strong>作者分享其Opus 5.5 + Jev Agent实验：故意关闭核心后，6000个小部件中有一个在24秒内自动构建了新核心，展示了系统的弹性与自愈能力。</p>
+<p><strong>RazeDen</strong> · @razeden0 · 2026-10-11T20:05:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 400</p>
+<p><a href="https://x.com/razeden0/status/2109374907951771784">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xSkik/status/2109374477024850249"><img src="https://pbs.twimg.com/amplify_video_thumb/2109329354068996096/img/RdxjMWjAYkN2qVUA.jpg" alt="Jev: A Second Brain Built for Agent Loop Forks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xSkik/status/2109374477024850249">Jev: A Second Brain Built for Agent Loop Forks</a></h3>
+<p>Jev is described as a second brain built only for the dozens of tiny forks hidden in every agent loop. No chat, no paragraphs—just a choice with confidence. People already push ~1,000 papers through it.</p>
+<p><strong>中文摘要：</strong>Jev被描述为只服务于agent循环中隐藏的众多分支：无需聊天或长段落，只需给出带置信度的选择，目前已支持约1000篇论文的流转。</p>
+<p><strong>Skik</strong> · @0xSkik · 2026-10-11T20:04:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 109</p>
+<p><a href="https://x.com/0xSkik/status/2109374477024850249">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/emaadmanzoor/status/2109314132021514432"><img src="https://pbs.twimg.com/amplify_video_thumb/2109311447951912960/img/eP2zQ-GkhNMIHh7f.jpg" alt="Economic Structure for Jev Decision Agents · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 488 | 219 | 272 | 1.1M |
+| 492 | 220 | 275 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shiquda123321/status/2109438040880095286"><img src="https://pbs.twimg.com/media/HUY6tSmb0AAMTYw?format=jpg&amp;name=medium" alt="SpotAsk v0.3.0 released with Jev decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/shiquda123321/status/2109438040880095286">SpotAsk v0.3.0 released with Jev decision model</a></h3>
+<p>SpotAsk adds Decision Model (Jev) smart routing, with hotkey and text-selection assistant, offering in-app streaming answers and one-click jump to web AI and local CLI Agent.</p>
+<p><strong>中文摘要：</strong>SpotAsk 新增 Decision Model（Jev）智能路由功能，支持快捷键与划词助手，提供应用内流式回答及一键跳转网页 AI 和本地 CLI Agent。</p>
+<p><strong>shiquda</strong> · @shiquda123321 · 2026-10-12T00:16:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/shiquda123321/status/2109438040880095286">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VirtualFemX/status/2109419302818545878"><img src="https://pbs.twimg.com/media/HUYpHQRbAAAMx9S?format=jpg&amp;name=medium" alt="VF2026 Software Update Integrates System One/Jev Decision Engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/VirtualFemX/status/2109419302818545878">VF2026 Software Update Integrates System One/Jev Decision Engine</a></h3>
+<p>VF2026 RC 21 brings Realism Mode with high difficulty and no hints, powered by the System One decision engine (Laya/Jev), plus new status panels and optional local high-quality Orpheus TTS.</p>
+<p><strong>中文摘要：</strong>VF2026发布RC 21更新，引入高难度无提示的真实模式，搭载System One决策引擎（Laya/Jev），并新增主屏幕状态面板和可选本地高品质语音。</p>
+<p><strong>VirtualFem</strong> · @VirtualFemX · 2026-10-11T23:02:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/VirtualFemX/status/2109419302818545878">在 X 查看原帖</a> · <a href="https://t.co/6RPSf5iMj5">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rodolfobernal/status/2109411361751290139"><img src="https://pbs.twimg.com/media/HUYicwcakAAVU4I?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev Reaches $7.5B Valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rodolfobernal/status/2109411361751290139">TypeSafe&#39;s Jev Reaches $7.5B Valuation</a></h3>
+<p>According to the post, TypeSafe&#39;s non-text decision model Jev reached a $7.5B valuation weeks after launch and is used in about one-third of Fortune 500 companies. The same week, Microsoft released Decision-1, while OpenAI published a large number of AI-written math papers.</p>
+<p><strong>中文摘要：</strong>据帖子内容，TypeSafe的非文本决策模型Jev发布数周后估值达75亿美元，已进入约三分之一的财富500强企业。同一周微软发布了Decision-1，OpenAI则推出了大量AI撰写的数学论文。</p>
+<p><strong>Rodolfo Bernal</strong> · @rodolfobernal · 2026-10-11T22:30:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/rodolfobernal/status/2109411361751290139">在 X 查看原帖</a> · <a href="https://grok.com/imagine/post/bdba1d27-9b31-4571-b792-caec3ea499ae">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/adekzti/status/2109403950612930922"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109403880618336258/pu/img/6Zk37CT6Qx26Rwyr.jpg" alt="TypeSafe Launches Jev Model for Decision Support · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/adekzti/status/2109403950612930922">TypeSafe Launches Jev Model for Decision Support</a></h3>
+<p>TypeSafe introduces Jev, a model that takes data and returns options, scores, and probabilities. It can be used for ticket classification and routing workflows without needing a giant chatbot.</p>
+<p><strong>中文摘要：</strong>TypeSafe 推出 Jev 模型，接收数据后返回选项、评分和概率，适用于工单分类和流程引导等场景，无需依赖大型聊天机器人。</p>
+<p><strong>Adekz TI</strong> · @adekzti · 2026-10-11T22:01:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/adekzti/status/2109403950612930922">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dbredesen/status/2109300498813620555"><img src="https://pbs.twimg.com/media/HUW9GiHWMAAu0qN?format=jpg&amp;name=medium" alt="Jev for Sheets is now live · 原帖图片" width="100%"></a>

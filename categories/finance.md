@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 294 | 171 | 125 | 1.2M |
+| 296 | 173 | 125 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iBadley/status/2109420720044552441"><img src="https://pbs.twimg.com/amplify_video_thumb/2109420631611584512/img/wPqaWLFdyJfUjFc1.jpg" alt="TypeSafe Jev raises $870M at $7.5B valuation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/iBadley/status/2109420720044552441">TypeSafe Jev raises $870M at $7.5B valuation</a></h3>
+<p>TypeSafe AI&#39;s Jev model reportedly raised $870M at a $7.5B valuation weeks after launch, led by A16Z with Sequoia and DCVC. The non-text model outputs calibrated decisions for code, claiming 1T tokens in 3 days and adoption by a third of the Fortune 500.</p>
+<p><strong>中文摘要：</strong>据报道，TypeSafe AI的Jev模型在发布数周后获得8.7亿美元融资，估值达75亿美元，由A16Z领投，红杉和DCVC参投。该模型输出校准决策，声称3天内处理1万亿token，并被财富500强中三分之一的企业使用。</p>
+<p><strong>BotBuhdy</strong> · @iBadley · 2026-10-11T23:07:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/iBadley/status/2109420720044552441">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OdysseyX6/status/2109390001104454135"><img src="https://pbs.twimg.com/amplify_video_thumb/2109389728021635072/img/23K2svsq-PFFUftH.jpg" alt="JEV live trading log: scanned 248 coins, skipped two traps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/OdysseyX6/status/2109390001104454135">JEV live trading log: scanned 248 coins, skipped two traps</a></h3>
+<p>Odyssey posts a Day 8 JEV usage log: balance $21,947.45, 0 wins/0 losses; JEV scanned 248 tokens in one session, killed $BLIP (+33.40%) as a trap and flagged $GRIM (+342.0%) with a failed rug signature, with 0 fills.</p>
+<p><strong>中文摘要：</strong>Odyssey 发文记录其 JEV 的使用结果：第 8 天，余额 $21,947.45，0 胜 0 负；JEV 单次会话扫描 248 个代币，将 $BLIP（+33.40%）和 $GRIM（+342.0%）都视为陷阱/rug 风险，未成交。</p>
+<p><strong>Odyssey</strong> · @OdysseyX6 · 2026-10-11T21:05:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/OdysseyX6/status/2109390001104454135">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2109318830220824795"><img src="https://pbs.twimg.com/media/HUXODxSaAAAQ73a?format=jpg&amp;name=medium" alt="Jev for Building Trading Bots · 原帖图片" width="100%"></a>

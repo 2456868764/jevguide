@@ -1,9 +1,10 @@
 # Ben Newton ベン
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-11T21:00:46.000Z | [Testing the Jev Agent Routing Mod: A Blind Evaluation Approach](https://x.com/BenENewton/status/2109388761767239680) | 智能体 | Ben Newton ベン | 40 |
 | 2026-10-11T13:00:56.000Z | [Jev Routing Results Share](https://x.com/BenENewton/status/2109268008765989048) | 社区实践 | Ben Newton ベン | 4 |
 | 2026-10-09T13:05:46.000Z | [Jev Model's Third Round Test in Agent Routing](https://x.com/BenENewton/status/2108544448707588141) | 社区实践 | Ben Newton ベン | 11 |
 | 2026-10-08T21:00:46.000Z | [Jev Routing Rule Test: Lookups Only with High Confidence](https://x.com/BenENewton/status/2108301598732558362) | 智能体 | Ben Newton ベン | 12 |

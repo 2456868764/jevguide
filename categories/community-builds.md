@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1075 | 440 | 640 | 3.0M |
+| 1081 | 441 | 645 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/justjayvi/status/2109445159264084317"><img src="https://pbs.twimg.com/media/HUZBE2mWYAAdD4N?format=png&amp;name=small" alt="AI Thinks Jev Model Research Is in a Fictional Timeline · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/justjayvi/status/2109445159264084317">AI Thinks Jev Model Research Is in a Fictional Timeline</a></h3>
+<p>User jay vi shares that after asking Opus 5.5 to research jev-like models, the model concluded we are in a fictional 2026 timeline. A community anecdote about AI interaction with Jev models.</p>
+<p><strong>中文摘要：</strong>用户 jay vi 分享：让 Opus 5.5 研究类似 Jev 的模型后，模型认为我们处于虚构的 2026 时间线。一条关于 AI 与 Jev 模型互动的社区趣闻。</p>
+<p><strong>jay vi</strong> · @justjayvi · 2026-10-12T00:44:52.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 26</p>
+<p><a href="https://x.com/justjayvi/status/2109445159264084317">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeepInsightLabs/status/2109421958542840202"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs seeks community connections around Jev and System One models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DeepInsightLabs/status/2109421958542840202">Deep Insight Labs seeks community connections around Jev and System One models</a></h3>
+<p>Deep Insight Labs invites people interested in Clef, Jev, GLiNER, GLIDE, System One models, and decision models to connect and foster community exchange.</p>
+<p><strong>中文摘要：</strong>Deep Insight Labs发帖邀请对Clef、Jev、GLiNER、GLIDE、System One模型及决策模型感兴趣的人建立联系，促进社区交流。</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs · 2026-10-11T23:12:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 71</p>
+<p><a href="https://x.com/DeepInsightLabs/status/2109421958542840202">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gabamnml/status/2109401797802528843"><img src="https://pbs.twimg.com/media/HUYZwVSWQAAIc4Q?format=jpg&amp;name=medium" alt="Jev: Reflections After a Six-Day Fever · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gabamnml/status/2109401797802528843">Jev: Reflections After a Six-Day Fever</a></h3>
+<p>The post recalls Jev as September&#39;s most hyped AI model, but then the community collectively decided they didn&#39;t actually need a 200x faster decision engine that only outputs probabilities. The hype lasted just six days.</p>
+<p><strong>中文摘要：</strong>帖子回顾了Jev作为9月最受关注的AI模型，但随后社区普遍认为并不真正需要这样一个只输出概率、快200倍的决策引擎，热度仅持续了六天。</p>
+<p><strong>Gabriel Aramburu</strong> · @gabamnml · 2026-10-11T21:52:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/gabamnml/status/2109401797802528843">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mary_nekyia/status/2109382628444930295"><img src="https://pbs.twimg.com/media/HUYH289XoAAUSEM?format=jpg&amp;name=medium" alt="Nekyia Labs replaces Gemini API with local Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mary_nekyia/status/2109382628444930295">Nekyia Labs replaces Gemini API with local Jev</a></h3>
+<p>After about two weeks of work, the system&#39;s core has been updated to the best build yet. Everything is local again—no more Gemini API calls—with Jev serving as the local alternative. The team calls it the biggest build in the history of their memory system.</p>
+<p><strong>中文摘要：</strong>经过约两周的改进，该系统的核心已更新到最佳构建，所有流程回归本地化，不再依赖Gemini API调用，转而采用Jev作为本地替代方案。团队称这是其记忆系统历史上最大的一次构建。</p>
+<p><strong>mary vale • nekyia labs</strong> · @mary_nekyia · 2026-10-11T20:36:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 249</p>
+<p><a href="https://x.com/mary_nekyia/status/2109382628444930295">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KlingonYellow/status/2109382503526191146"><img src="https://pbs.twimg.com/media/HUYH-x_XEAAevox?format=jpg&amp;name=medium" alt="Tuning a Decision Model and Comparing with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KlingonYellow/status/2109382503526191146">Tuning a Decision Model and Comparing with Jev</a></h3>
+<p>The author shares initial results of tuning their own decision model based on Gemma4 E4B, noting that despite slower latency, the decision quality is higher than Jev.</p>
+<p><strong>中文摘要：</strong>作者分享基于 Gemma4 E4B 调优自己决策模型的初步结果，指出虽然延迟较慢，但决策质量优于 Jev。</p>
+<p><strong>The Klingon Yellow</strong> · @KlingonYellow · 2026-10-11T20:35:53.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
+<p><a href="https://x.com/KlingonYellow/status/2109382503526191146">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NachoQuixotic/status/2109381935260659890"><img src="https://pbs.twimg.com/media/HUYHsPvXoAAxdz7?format=jpg&amp;name=small" alt="Controversial commentary on Jev as a fraud fix · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NachoQuixotic/status/2109381935260659890">Controversial commentary on Jev as a fraud fix</a></h3>
+<p>The author argues that Jev is being overhyped as a miracle cure for fraud, accusing the West of forming a cartel in models and pricing to protect themselves from challengers.</p>
+<p><strong>中文摘要：</strong>作者认为Jev被过度吹捧为欺诈的灵丹妙药，并指责西方在模型和定价上形成卡特尔垄断，意图保护自身免受挑战。</p>
+<p><strong>Nacho Business</strong> · @NachoQuixotic · 2026-10-11T20:33:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 436</p>
+<p><a href="https://x.com/NachoQuixotic/status/2109381935260659890">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ReindentAI/status/2109312845288534193"><img src="https://pbs.twimg.com/amplify_video_thumb/2109309377291149312/img/s2KNlMP9wkTq_M_9.jpg" alt="Jev Community Practice: Browser Agents, Games, and Routing · 原帖视频截图" width="100%"></a>

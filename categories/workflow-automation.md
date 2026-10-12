@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 246 | 155 | 91 | 595K |
+| 252 | 158 | 94 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Solomonrojie/status/2109422558663803020"><img src="https://pbs.twimg.com/media/HUYsnddXgAAsf5K?format=jpg&amp;name=medium" alt="Jev CEO: Cut AI bill by 95% through routing layer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Solomonrojie/status/2109422558663803020">Jev CEO: Cut AI bill by 95% through routing layer</a></h3>
+<p>Jev&#39;s CEO says that by controlling when agents actually run, using a routing layer to select work and reuse saved results, they cut their AI bill by 95%.</p>
+<p><strong>中文摘要：</strong>Jev CEO表示，通过控制AI代理的实际运行时机，利用路由层选择工作并复用已保存结果，将AI账单削减95%。</p>
+<p><strong>Solomon Rojie</strong> · @Solomonrojie · 2026-10-11T23:15:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 8 &nbsp; ♡ 19 &nbsp; 📊 362</p>
+<p><a href="https://x.com/Solomonrojie/status/2109422558663803020">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Klonzu/status/2109404446962962752"><img src="https://pbs.twimg.com/amplify_video_thumb/2109404016681615360/img/qVIwuLnXEPaPX-7V.jpg" alt="Gate Deployments with Jev Core · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Klonzu/status/2109404446962962752">Gate Deployments with Jev Core</a></h3>
+<p>The post advises letting the gate own deployments instead of the model. Jev core handles routing and planning, while tools act on queries, ensuring releases only happen when checks pass.</p>
+<p><strong>中文摘要：</strong>帖子建议不让模型直接决定部署，而是让门控拥有部署权。Jev核心负责路由和规划，工具执行查询，确保只有通过检查才发布。</p>
+<p><strong>Klonzu</strong> · @Klonzu · 2026-10-11T22:03:05.000Z</p>
+<p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 17 &nbsp; 📊 555</p>
+<p><a href="https://x.com/Klonzu/status/2109404446962962752">在 X 查看原帖</a> · <a href="https://t.co/ctpl2xwt4C">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OmarShahine/status/2109402421185167491"><img src="https://pbs.twimg.com/media/HUYaG49XMAEqlBn?format=jpg&amp;name=medium" alt="Optimizing Email Triage with Jev and Decision-1 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OmarShahine/status/2109402421185167491">Optimizing Email Triage with Jev and Decision-1</a></h3>
+<p>The author shares how their Muse uses Jev via OpenRouter for inbox triage, then uses the cheaper Microsoft Decision-1 model to hill climb and outperform Jev.</p>
+<p><strong>中文摘要：</strong>作者分享其Muse通过OpenRouter使用Jev模型进行收件箱分类，并尝试用更便宜的Microsoft Decision-1模型优化，结果优于Jev。</p>
+<p><strong>Omar Shahine</strong> · @OmarShahine · 2026-10-11T21:55:02.000Z</p>
+<p>💬 10 &nbsp; 🔁 0 &nbsp; ♡ 42 &nbsp; 📊 3.8K</p>
+<p><a href="https://x.com/OmarShahine/status/2109402421185167491">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xnineinch/status/2109392022595576071"><img src="https://pbs.twimg.com/amplify_video_thumb/2109391948591116288/img/18UifnhYcIO7Xg8L.jpg" alt="Jev smart filtering cuts Opus costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xnineinch/status/2109392022595576071">Jev smart filtering cuts Opus costs</a></h3>
+<p>1,200 reports down to 60 worth investigating: Jev filters the queue before expensive Opus tasks, with shadow mode to keep workflows running.</p>
+<p><strong>中文摘要：</strong>1200条报告只需处理60条，Jev在进入昂贵的Opus任务前先过滤队列，支持影子模式，不干扰现有流程。</p>
+<p><strong>9inches</strong> · @0xnineinch · 2026-10-11T21:13:43.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 680</p>
+<p><a href="https://x.com/0xnineinch/status/2109392022595576071">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/swiftwand/status/2109388651709059452"><img src="https://pbs.twimg.com/media/HUYNzNyakAAVPVN?format=jpg&amp;name=medium" alt="What Is Jev? A Decision Model Applied to 3D Printing Workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/swiftwand/status/2109388651709059452">What Is Jev? A Decision Model Applied to 3D Printing Workflow</a></h3>
+<p>This article introduces Jev, a decision model that returns answers and probabilities, placed into a 3D printing workflow.</p>
+<p><strong>中文摘要：</strong>本文介绍Jev这一决策模型，它能够返回答案和概率，并被整合到3D打印工作流中。</p>
+<p><strong>swiftwand</strong> · @swiftwand · 2026-10-11T21:00:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/swiftwand/status/2109388651709059452">在 X 查看原帖</a> · <a href="https://t.co/gziiasqhkv">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Solomonrojie/status/2109379354367299874"><img src="https://pbs.twimg.com/amplify_video_thumb/2109379225987821568/img/fcQyPb1oDC8xSJ_y.jpg" alt="Jev makes workflow 20x more efficient · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Solomonrojie/status/2109379354367299874">Jev makes workflow 20x more efficient</a></h3>
+<p>Opus 5.5 + Jev cut cost for the same accepted output from $400 to $20. Jev screens incoming tasks before Opus starts, catching duplicates and reducing repeated decisions and pointless retries.</p>
+<p><strong>中文摘要：</strong>Opus 5.5与Jev集成，将相同可接受输出的成本从$400降至$20。Jev在Opus开始前筛选传入任务，代码捕获重复，减少重复决策和无效重试。</p>
+<p><strong>Solomon Rojie</strong> · @Solomonrojie · 2026-10-11T20:23:23.000Z</p>
+<p>💬 6 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 753</p>
+<p><a href="https://x.com/Solomonrojie/status/2109379354367299874">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dfinke/status/2109283651506913754"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283632481460225/img/M2HEl2BQ1S0M7zvC.jpg" alt="Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag · 原帖视频截图" width="100%"></a>

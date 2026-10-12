@@ -1,9 +1,10 @@
 # Suzuki
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T07:00:02.000Z | [Jev Harness Building Guide](https://x.com/biroi8/status/2109539573436993786) | 开发资源 | Suzuki | 98 |
 | 2026-10-11T07:00:01.000Z | [Local Training of Jev-Style Decision Model with Qwen3.5 and Unsloth](https://x.com/biroi8/status/2109177183176699972) | 社区实践 | Suzuki | 55 |
 | 2026-10-09T07:00:00.000Z | [Reproducing a Small-Scale Parallel Workflow with Claude Code and Jev](https://x.com/biroi8/status/2108452401434997049) | 自动化工作流 | Suzuki | 98 |
 | 2026-10-08T07:00:01.000Z | [Comparing AI decisions: Differences between OpenAI Decisions API, Jev, and Clef](https://x.com/biroi8/status/2108090018917134554) | 开发者工具 | Suzuki | 18 |

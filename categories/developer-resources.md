@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 363 | 147 | 216 | 419K |
+| 365 | 149 | 216 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/explainx_ai/status/2109540025302155496"><img src="https://pbs.twimg.com/amplify_video_thumb/2109539246419914752/img/iKvO4Cby2AvXaUVP.jpg" alt="Jev Live Workshop: Keep Code Control, Model Answers Narrow Questions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/explainx_ai/status/2109540025302155496">Jev Live Workshop: Keep Code Control, Model Answers Narrow Questions</a></h3>
+<p>Join our 2-day live workshop to learn how to build TypeSafe AI apps with Jev, where your code keeps control and the model answers narrow questions with confidence scores.</p>
+<p><strong>中文摘要：</strong>参加为期两天的Jev现场工作坊，学习如何构建由代码掌控、模型仅以置信分数回答窄范围问题的TypeSafe AI应用。</p>
+<p><strong>explainx.ai</strong> · @explainx_ai · 2026-10-12T07:01:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/explainx_ai/status/2109540025302155496">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/biroi8/status/2109539573436993786"><img src="https://pbs.twimg.com/amplify_video_thumb/2108866079783100417/img/KaRtDK1f9t9VeznD.jpg" alt="Jev Harness Building Guide · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/biroi8/status/2109539573436993786">Jev Harness Building Guide</a></h3>
+<p>The post introduces a workflow combining Jev with Claude, and mentions a PDF by the Jev founder on building the Jev harness.</p>
+<p><strong>中文摘要：</strong>帖子介绍了Jev与Claude配合使用的工作流，并提到Jev founder撰写了关于Jev harness构建方法的PDF。</p>
+<p><strong>Suzuki</strong> · @biroi8 · 2026-10-12T07:00:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 98</p>
+<p><a href="https://x.com/biroi8/status/2109539573436993786">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KirkDBorne/status/2109508509238976965"><img src="https://pbs.twimg.com/media/HUZ6zy4W8AACSSq?format=jpg&amp;name=medium" alt="JEV Practical Visual Guide · 原帖图片" width="100%"></a>

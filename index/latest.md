@@ -2,6 +2,16 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T07:45:09.000Z | [Cutting AI agent costs with Jev and Opus 5.5](https://x.com/cyrilXBT/status/2109550926638030994) | 开发者工具 | CyrilXBT | 1.3K |
+| 2026-10-12T07:37:12.000Z | [Shadow Deployment and AI QA Mechanism via Jev](https://x.com/yyyole/status/2109548927049740442) | 软件开发 | 沐阳 | 132 |
+| 2026-10-12T07:35:27.000Z | [Use Jev as a Gatekeeper to Cut Grok Bot Costs](https://x.com/alucardiox/status/2109548487180247481) | 自动化工作流 | alucardio | 17 |
+| 2026-10-12T07:35:13.000Z | [Developer cuts chatbot tokens by 78% with Jev](https://x.com/jayboricha707/status/2109548427378069861) | 社区实践 | Jay Boricha | 33 |
+| 2026-10-12T07:18:58.000Z | [SyncA UTM Integrates Jev API for Enhanced AI-Powered Attack Detection](https://x.com/menkatsukiroku/status/2109544339533926686) | 网络安全 | Yoshihiro Nishikawa | 92 |
+| 2026-10-12T07:10:00.000Z | [Microsoft Decision-1 priced same as TypeSafe Jev](https://x.com/Tesla_Optimus_K/status/2109542081257787425) | 产品发布 | Tesla_Optimus | 34 |
+| 2026-10-12T07:06:00.000Z | [Jev Decision Index Update: New Models Tie for First, AnyJev Surpasses Jev](https://x.com/multimodalart/status/2109541074549223587) | 社区实践 | apolinario (poli) | 593 |
+| 2026-10-12T07:05:27.000Z | [Jev vs OpenAI Decisions API Demo](https://x.com/hellonehha/status/2109540938381131893) | 社区实践 | Neha Sharma | 186 |
+| 2026-10-12T07:01:50.000Z | [Jev Live Workshop: Keep Code Control, Model Answers Narrow Questions](https://x.com/explainx_ai/status/2109540025302155496) | 开发资源 | explainx.ai | 6 |
+| 2026-10-12T07:00:02.000Z | [Jev Harness Building Guide](https://x.com/biroi8/status/2109539573436993786) | 开发资源 | Suzuki | 98 |
 | 2026-10-12T06:48:40.000Z | [Microsoft releases Decision-1, claims it basically 'destroys' Jev](https://x.com/massimodeluisa/status/2109536714159218692) | 产品发布 | 🇮🇹 Massimo De Luisa | 4 |
 | 2026-10-12T06:42:08.000Z | [Discussion on Routing Jev Scores for Decisions](https://x.com/signalseeker_v1/status/2109535068255318524) | 智能体 | Signal Seeker | 9 |
 | 2026-10-12T06:35:32.000Z | [Using Jolt and Jev for Layered Classification](https://x.com/tornikegomareli/status/2109533406941888677) | 社区实践 | Tornike Gomareli | 27 |
@@ -92,13 +102,3 @@
 | 2026-10-11T15:10:02.000Z | [Jev for Sheets is now live](https://x.com/dbredesen/status/2109300498813620555) | 产品发布 | dbredesen | 27 |
 | 2026-10-11T14:55:53.000Z | [Microsoft Joins the Decision Model Race: Decision 1 vs OpenAI vs Jev](https://x.com/Vinaybhaskarla/status/2109296938310828281) | 智能体 | Vinay | 9 |
 | 2026-10-11T14:52:25.000Z | [Using Jev's Choice for Action Determination](https://x.com/yamasan_hamesan/status/2109296066638348759) | 社区实践 | やまう | 45 |
-| 2026-10-11T14:45:12.000Z | [Grok Bot Support Coming with Jev Classification](https://x.com/eliautobot/status/2109294248214347909) | 接入动态 | Elix | 20 |
-| 2026-10-11T14:39:31.000Z | [Jev: A Tiny Decision Model](https://x.com/Beaver_0x/status/2109292818103411084) | 工作原理 | Beaver | 507 |
-| 2026-10-11T14:28:34.000Z | [Jev Shows Competitive Performance in Tool-Call Benchmark](https://x.com/natzir9/status/2109290064870269209) | 智能体 | Natzir | 258 |
-| 2026-10-11T14:24:58.000Z | [Jev's founder showcases 80 agents exploring 540k lines of code](https://x.com/mika_systems/status/2109289158107603424) | 智能体 | Mika | 856 |
-| 2026-10-11T14:22:49.000Z | [Microsoft Joins JEV's Decision Model Efforts](https://x.com/HsuanMingLin/status/2109288614446485730) | 接入动态 | CQI365 (HsuanMing Lin, Hugo Lin) | 15 |
-| 2026-10-11T14:03:05.000Z | [Build an AI Decision Workflow with Jev: Classify, Prioritize, Auto-route, and Flag](https://x.com/dfinke/status/2109283651506913754) | 自动化工作流 | Doug Finke | 91 |
-| 2026-10-11T14:01:42.000Z | [Using Jev for Investment Analysis](https://x.com/DaveWangMIA/status/2109283300330422663) | 金融 | Dave Wang | 18 |
-| 2026-10-11T14:01:25.000Z | [TypeSafe AI raises $870M for Jev model](https://x.com/ApollonVisual/status/2109283229026943033) | 企业运营 | Apollo | 10 |
-| 2026-10-11T14:01:04.000Z | [Jev founder releases PDF on building a Jev harness](https://x.com/cazevedo1977/status/2109283141378507062) | 开发资源 | Caio Azevedo | 7 |
-| 2026-10-11T14:01:00.000Z | [Jev-style LLM gate for Argo Rollouts canary](https://x.com/hagzag/status/2109283127113769269) | 自动化工作流 | Haggai Philip zagury | 4 |

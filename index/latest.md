@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T05:53:12.000Z | [TypeSafe Jev Rubik's Cube Benchmark: 6.8s](https://x.com/MirrortekUK/status/2109522754277875990) | 智能体 | 英格兰AI哥 | 11 |
+| 2026-10-12T05:30:06.000Z | [Jev cuts coding costs by $4,420/month](https://x.com/cyrilXBT/status/2109516942403092750) | 开发者工具 | CyrilXBT | 2.7K |
+| 2026-10-12T05:11:03.000Z | [Discussion on Jev Model and Deployment Costs](https://x.com/321sssrt/status/2109512147638317110) | 智能体 | Zebro | 21 |
+| 2026-10-12T05:10:55.000Z | [Comparison of EmbeddingGemma 2 and Jev for Classification](https://x.com/JIN21685260/status/2109512115962986868) | 社区实践 | JIN@★AI情報×AI自動化x開発xクリプト | 146 |
+| 2026-10-12T05:10:24.000Z | [Clone-and-Rename Controversy: Jev Accused of Copying](https://x.com/LilithDatura/status/2109511985855689074) | 社区实践 | Lilith Datura | 122 |
 | 2026-10-12T05:04:05.000Z | [Jev Powers Rapid Safety Report Analysis](https://x.com/Tetrascoreio/status/2109510394960138492) | 数据分析 | The Desk | 8 |
 | 2026-10-12T05:03:00.000Z | [contextleleo: Trim Context Transfer with Jev](https://x.com/Adityakuma8784/status/2109510120019501439) | 开发者工具 | Aditya kumar Singh | 8 |
 | 2026-10-12T04:56:36.000Z | [JEV Practical Visual Guide](https://x.com/KirkDBorne/status/2109508509238976965) | 开发资源 | Kirk Borne | 662 |
@@ -97,8 +102,3 @@
 | 2026-10-11T13:50:52.000Z | [Mizan 4B: A Persian Decision Model Similar to Jev](https://x.com/mirzaei_mani/status/2109280577115288046) | 社区实践 | Mani | 258 |
 | 2026-10-11T13:37:00.000Z | [Open-source project to control your Mac with voice using Jev](https://x.com/Chris_Wozniczek/status/2109277085202293091) | 社区实践 | Chris W | 47 |
 | 2026-10-11T13:35:00.000Z | [TypeSafe AI Raises $870M at $7.5B Valuation](https://x.com/Vespergzt/status/2109276582007406883) | 金融 | Vesper | 8 |
-| 2026-10-11T13:31:00.000Z | [TypeSafe Launches Jev: A Minimalist Model for AI Agents](https://x.com/elessarqq/status/2109275575328415805) | 智能体 | Elessar^^ | 115 |
-| 2026-10-11T13:30:33.000Z | [Clef-omni × Jev: Toward Zero-Shot Robots](https://x.com/Ai_Democ/status/2109275463428489389) | 机器人 | Ai Demo（アイデモ） | 17 |
-| 2026-10-11T13:27:07.000Z | [Building a Wipe app with Jev](https://x.com/staskulesh/status/2109274599636808083) | 生产力 | Stas Kulesh | 109 |
-| 2026-10-11T13:26:07.000Z | [Discussion about System One (Jev) model](https://x.com/sull/status/2109274348284719262) | 社区实践 | Michael Sullivan | 39 |
-| 2026-10-11T13:12:19.000Z | [TypeSafe's AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks](https://x.com/AIPulseNewsX/status/2109270875144876459) | 金融 | AI Pulse | 15 |

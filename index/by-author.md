@@ -1,7 +1,7 @@
 # Jev Showcases by Author
 
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 31
-- [CyrilXBT](../authors/cyrilxbt.md) — 22
+- [CyrilXBT](../authors/cyrilxbt.md) — 23
 - [Florian S](../authors/florian-s.md) — 21
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
@@ -578,6 +578,7 @@
 - [LeahW](../authors/leahw.md) — 2
 - [lemon👑](../authors/lemon.md) — 2
 - [Leo](../authors/leo.md) — 2
+- [Lilith Datura](../authors/lilith-datura.md) — 2
 - [Lilys.ai](../authors/lilys-ai.md) — 2
 - [LinearUncle](../authors/linearuncle.md) — 2
 - [Liran Tal](../authors/liran-tal.md) — 2
@@ -2130,6 +2131,7 @@
 - [Jimmy](../authors/jimmy.md) — 1
 - [Jimmy Koppel](../authors/jimmy-koppel.md) — 1
 - [Jimmy Wesley](../authors/jimmy-wesley.md) — 1
+- [JIN@★AI情報×AI自動化x開発xクリプト](../authors/jin-ai情報-ai自動化x開発x.md) — 1
 - [Jinxiang Xie](../authors/jinxiang-xie.md) — 1
 - [Jiri Nohejl](../authors/jiri-nohejl.md) — 1
 - [Jishan](../authors/jishan.md) — 1
@@ -2386,7 +2388,6 @@
 - [Lightdash](../authors/lightdash.md) — 1
 - [Likit D](../authors/likit-d.md) — 1
 - [lil room](../authors/lil-room.md) — 1
-- [Lilith Datura](../authors/lilith-datura.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
 - [LLM-rg 750B Instruct (ryo_grid / Ryo Kanbayashi)](../authors/llm-rg-750b-instruct-ryo-grid-ryo-kanbayashi.md) — 1
@@ -3717,6 +3718,7 @@
 - [Zain](../authors/zain.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
+- [Zebro](../authors/zebro.md) — 1
 - [Zed](../authors/zed.md) — 1
 - [Zee](../authors/zee.md) — 1
 - [zeeman](../authors/zeeman.md) — 1
@@ -4084,6 +4086,7 @@
 - [老白（每日 AI 干货✊）](../authors/老白-每日-ai-干货.md) — 1
 - [老范](../authors/老范.md) — 1
 - [花叔](../authors/花叔.md) — 1
+- [英格兰AI哥](../authors/英格兰ai哥.md) — 1
 - [茶木 孝晃｜AI × セキュリティ](../authors/茶木-孝晃-ai.md) — 1
 - [菅原のびすけ](../authors/菅原.md) — 1
 - [菅野智洋CPA🇯🇵×ベトナム進出支援🇻🇳×生成AI🤖](../authors/菅野智洋cpa-進出支援-生成ai.md) — 1

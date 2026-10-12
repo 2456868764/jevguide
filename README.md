@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5899</strong><br>curated posts</td>
-<td align="center"><strong>2958</strong><br>original videos</td>
+<td align="center"><strong>5904</strong><br>curated posts</td>
+<td align="center"><strong>2962</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1089</strong> showcases · <strong>444</strong> videos</p>
+<p><strong>1091</strong> showcases · <strong>446</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>608</strong> showcases · <strong>301</strong> videos</p>
+<p><strong>609</strong> showcases · <strong>302</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>466</strong> showcases · <strong>259</strong> videos</p>
+<p><strong>468</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/Tetrascoreio/status/2109510394960138492"><img src="https://pbs.twimg.com/media/HUZ8eMoaAAA6l8O?format=jpg&amp;name=medium" alt="Jev Powers Rapid Safety Report Analysis · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Tetrascoreio/status/2109510394960138492">Jev Powers Rapid Safety Report Analysis</a></h3>
-<p>We integrated Jev to read the full Safety Report in a fraction of a second and provide plain answers like whether a token will graduate, greatly reducing manual reading effort.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>The Desk</strong> · @Tetrascoreio</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MirrortekUK/status/2109522754277875990">TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s</a></h3>
+<p>The post compares Rubik&#39;s cube solving speed and cost across multiple AIs. TypeSafe Jev completes in 6.8 seconds at $151 per million solves, close to Microsoft Decision-1 and far better than Qwen3.8-27B.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>英格兰AI哥</strong> · @MirrortekUK</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/Adityakuma8784/status/2109510120019501439"><img src="https://pbs.twimg.com/amplify_video_thumb/2109509665080139776/img/jLQqG9x_q-Csuu1k.jpg" alt="contextleleo: Trim Context Transfer with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Adityakuma8784/status/2109510120019501439">contextleleo: Trim Context Transfer with Jev</a></h3>
-<p>contextleleo is a tool that transfers Claude Code agent context to Antigravity, using Jev to trim irrelevant baggage for the next task.</p>
-<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
-<p><strong>Aditya kumar Singh</strong> · @Adityakuma8784</p>
+<a href="https://x.com/cyrilXBT/status/2109516942403092750"><img src="https://pbs.twimg.com/amplify_video_thumb/2109516920550756352/img/dcnbUjlD04bFOZGB.jpg" alt="Jev cuts coding costs by $4,420/month · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cyrilXBT/status/2109516942403092750">Jev cuts coding costs by $4,420/month</a></h3>
+<p>For 1,000 coding tasks a month, Opus 5.5 alone costs $6,420; with Jev it&#39;s $2,000, saving $53,040 a year.</p>
+<p><strong>2.7K</strong> views · 💬 6 &nbsp; 🔁 9 &nbsp; ♡ 43 &nbsp; 📊 2.7K</p>
+<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/KirkDBorne/status/2109508509238976965"><img src="https://pbs.twimg.com/media/HUZ6zy4W8AACSSq?format=jpg&amp;name=medium" alt="JEV Practical Visual Guide · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KirkDBorne/status/2109508509238976965">JEV Practical Visual Guide</a></h3>
-<p>Kirk Borne shares a guide that clearly explains TypeSafe&#39;s System One model for building software that makes fast, typed, calibrated decisions.</p>
-<p><strong>662</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 662</p>
-<p><strong>Kirk Borne</strong> · @KirkDBorne</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/321sssrt/status/2109512147638317110"><img src="https://pbs.twimg.com/media/HUZ9s8obAAABJDr?format=jpg&amp;name=medium" alt="Discussion on Jev Model and Deployment Costs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/321sssrt/status/2109512147638317110">Discussion on Jev Model and Deployment Costs</a></h3>
+<p>The author believes Jev is still stronger despite the Decision API updating to 3.0, but deployment costs are high. They question the reliability of the 3.59b model and note that the 27b model is too expensive for most use cases.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><strong>Zebro</strong> · @321sssrt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/themuscleai/status/2109502311550587111"><img src="https://pbs.twimg.com/media/HUZ1KelbgAAZUun?format=jpg&amp;name=large" alt="Agent Decision Models: TypeSafe&#39;s Jev vs OpenAI, Microsoft · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/themuscleai/status/2109502311550587111">Agent Decision Models: TypeSafe&#39;s Jev vs OpenAI, Microsoft</a></h3>
-<p>Analyzing recent decision-model launches (TypeSafe Jev, OpenAI Decisions API, Microsoft-Decision-1), the post points out a common pattern: teams are offloading low-value, obvious-answer calls to reduce token waste from agents.</p>
-<p><strong>75</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
-<p><strong>Muscle AI</strong> · @themuscleai</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/JIN21685260/status/2109512115962986868"><img src="https://pbs.twimg.com/amplify_video_thumb/2108391081092014080/img/023tW5OqG-omAfb_.jpg" alt="Comparison of EmbeddingGemma 2 and Jev for Classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/JIN21685260/status/2109512115962986868">Comparison of EmbeddingGemma 2 and Jev for Classification</a></h3>
+<p>Introduces EmbeddingGemma 2&#39;s on-device topic classification at about 620 posts per second on Mac, and compares it with TypeSafe&#39;s Jev.</p>
+<p><strong>146</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 146</p>
+<p><strong>JIN@★AI情報×AI自動化x開発xクリプト</strong> · @JIN21685260</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/Tetrascoreio/status/2109510394960138492"><img src="https://pbs.twimg.com/media/HUZ8eMoaAAA6l8O?format=jpg&amp;name=medium" alt="Jev Powers Rapid Safety Report Analysis · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Tetrascoreio/status/2109510394960138492">Jev Powers Rapid Safety Report Analysis</a></h3>
-<p>We integrated Jev to read the full Safety Report in a fraction of a second and provide plain answers like whether a token will graduate, greatly reducing manual reading effort.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>The Desk</strong> · @Tetrascoreio</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MirrortekUK/status/2109522754277875990">TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s</a></h3>
+<p>The post compares Rubik&#39;s cube solving speed and cost across multiple AIs. TypeSafe Jev completes in 6.8 seconds at $151 per million solves, close to Microsoft Decision-1 and far better than Qwen3.8-27B.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>英格兰AI哥</strong> · @MirrortekUK</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/themuscleai/status/2109502311550587111"><img src="https://pbs.twimg.com/media/HUZ1KelbgAAZUun?format=jpg&amp;name=large" alt="Agent Decision Models: TypeSafe&#39;s Jev vs OpenAI, Microsoft · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/themuscleai/status/2109502311550587111">Agent Decision Models: TypeSafe&#39;s Jev vs OpenAI, Microsoft</a></h3>
-<p>Analyzing recent decision-model launches (TypeSafe Jev, OpenAI Decisions API, Microsoft-Decision-1), the post points out a common pattern: teams are offloading low-value, obvious-answer calls to reduce token waste from agents.</p>
-<p><strong>75</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
-<p><strong>Muscle AI</strong> · @themuscleai</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/JIN21685260/status/2109512115962986868"><img src="https://pbs.twimg.com/amplify_video_thumb/2108391081092014080/img/023tW5OqG-omAfb_.jpg" alt="Comparison of EmbeddingGemma 2 and Jev for Classification · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/JIN21685260/status/2109512115962986868">Comparison of EmbeddingGemma 2 and Jev for Classification</a></h3>
+<p>Introduces EmbeddingGemma 2&#39;s on-device topic classification at about 620 posts per second on Mac, and compares it with TypeSafe&#39;s Jev.</p>
+<p><strong>146</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 146</p>
+<p><strong>JIN@★AI情報×AI自動化x開発xクリプト</strong> · @JIN21685260</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/kk_welfare/status/2109498108820472260"><img src="https://pbs.twimg.com/media/HUZxAlZaEAAeAsa?format=png&amp;name=medium" alt="Jev is so cheap and quiet it flies under the radar · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kk_welfare/status/2109498108820472260">Jev is so cheap and quiet it flies under the radar</a></h3>
-<p>A user comments that TypeSafe&#39;s Jev model is affordable and runs quietly, so it doesn&#39;t get much attention.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>KK</strong> · @kk_welfare</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/LilithDatura/status/2109511985855689074"><img src="https://pbs.twimg.com/amplify_video_thumb/2109386975463501824/img/2a9Ptyd4xt-lgdG2.jpg" alt="Clone-and-Rename Controversy: Jev Accused of Copying · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/LilithDatura/status/2109511985855689074">Clone-and-Rename Controversy: Jev Accused of Copying</a></h3>
+<p>The author sarcastically notes that removing &#39;Jev&#39; from the explanation makes the original technology obvious, questioning why the cloned version was renamed without calling it a classifier.</p>
+<p><strong>122</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 122</p>
+<p><strong>Lilith Datura</strong> · @LilithDatura</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/JnBrymn/status/2109475553812058258"><img src="https://pbs.twimg.com/media/HUZczy4WQAAykjv?format=jpg&amp;name=medium" alt="Questions Raised About Jev Decision API Accuracy · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/JnBrymn/status/2109475553812058258">Questions Raised About Jev Decision API Accuracy</a></h3>
-<p>John Berryman expresses skepticism about decision API accuracy, using an unfair coin example to show unexpected answers from TypeSafe&#39;s Jev.</p>
-<p><strong>115</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 115</p>
-<p><strong>John Berryman</strong> · @JnBrymn</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Kiratchi0328/status/2109491841666363605"><img src="https://pbs.twimg.com/media/HUZrcKEbQAAwnO9?format=jpg&amp;name=medium" alt="Text-To-VRMA v1.1.9 released with Jev (TypeSafe AI) support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Kiratchi0328/status/2109491841666363605">Text-To-VRMA v1.1.9 released with Jev (TypeSafe AI) support</a></h3>
+<p>The new version supports Jev from TypeSafe AI, enabling AI to analyze emotion, gaze, and movement tempo for more natural expressions, blinking, and speech, along with improved posture and landing during continuous generation and a clearer UI.</p>
+<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 74</p>
+<p><strong>きらっち</strong> · @Kiratchi0328</p>
 </td>
 </tr>
 </table>

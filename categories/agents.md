@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 466 | 259 | 209 | 3.0M |
+| 468 | 260 | 210 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MirrortekUK/status/2109522754277875990"><img src="https://pbs.twimg.com/amplify_video_thumb/2109522710313238528/img/GmyHAHzbXdL5m7-L.jpg" alt="TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MirrortekUK/status/2109522754277875990">TypeSafe Jev Rubik&#39;s Cube Benchmark: 6.8s</a></h3>
+<p>The post compares Rubik&#39;s cube solving speed and cost across multiple AIs. TypeSafe Jev completes in 6.8 seconds at $151 per million solves, close to Microsoft Decision-1 and far better than Qwen3.8-27B.</p>
+<p><strong>中文摘要：</strong>帖子对比了多款AI解魔方的速度和成本。TypeSafe Jev以6.8秒完成，每百万次解题成本151美元，性能接近Microsoft Decision-1，但远优于Qwen3.8-27B。</p>
+<p><strong>英格兰AI哥</strong> · @MirrortekUK · 2026-10-12T05:53:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/MirrortekUK/status/2109522754277875990">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/321sssrt/status/2109512147638317110"><img src="https://pbs.twimg.com/media/HUZ9s8obAAABJDr?format=jpg&amp;name=medium" alt="Discussion on Jev Model and Deployment Costs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/321sssrt/status/2109512147638317110">Discussion on Jev Model and Deployment Costs</a></h3>
+<p>The author believes Jev is still stronger despite the Decision API updating to 3.0, but deployment costs are high. They question the reliability of the 3.59b model and note that the 27b model is too expensive for most use cases.</p>
+<p><strong>中文摘要：</strong>作者认为Jev仍然更强，尽管决策API更新到3.0，但部署成本高，并质疑3.59b小模型的可信度，同时指出27b模型对多数场景过于昂贵。</p>
+<p><strong>Zebro</strong> · @321sssrt · 2026-10-12T05:11:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/321sssrt/status/2109512147638317110">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/themuscleai/status/2109502311550587111"><img src="https://pbs.twimg.com/media/HUZ1KelbgAAZUun?format=jpg&amp;name=large" alt="Agent Decision Models: TypeSafe&#39;s Jev vs OpenAI, Microsoft · 原帖图片" width="100%"></a>

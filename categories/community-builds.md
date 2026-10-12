@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1089 | 444 | 650 | 3.0M |
+| 1091 | 446 | 650 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JIN21685260/status/2109512115962986868"><img src="https://pbs.twimg.com/amplify_video_thumb/2108391081092014080/img/023tW5OqG-omAfb_.jpg" alt="Comparison of EmbeddingGemma 2 and Jev for Classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JIN21685260/status/2109512115962986868">Comparison of EmbeddingGemma 2 and Jev for Classification</a></h3>
+<p>Introduces EmbeddingGemma 2&#39;s on-device topic classification at about 620 posts per second on Mac, and compares it with TypeSafe&#39;s Jev.</p>
+<p><strong>中文摘要：</strong>介绍 EmbeddingGemma 2 在 Mac 上每秒约 620 件的设备端主题分类能力，并与 TypeSafe 的 Jev 进行对比，整理两者的不同。</p>
+<p><strong>JIN@★AI情報×AI自動化x開発xクリプト</strong> · @JIN21685260 · 2026-10-12T05:10:55.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 146</p>
+<p><a href="https://x.com/JIN21685260/status/2109512115962986868">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LilithDatura/status/2109511985855689074"><img src="https://pbs.twimg.com/amplify_video_thumb/2109386975463501824/img/2a9Ptyd4xt-lgdG2.jpg" alt="Clone-and-Rename Controversy: Jev Accused of Copying · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LilithDatura/status/2109511985855689074">Clone-and-Rename Controversy: Jev Accused of Copying</a></h3>
+<p>The author sarcastically notes that removing &#39;Jev&#39; from the explanation makes the original technology obvious, questioning why the cloned version was renamed without calling it a classifier.</p>
+<p><strong>中文摘要：</strong>博主讽刺地指出，某篇解释文章去掉“Jev”后完全能认出原始技术，质疑对方克隆后改名却不承认是分类器。</p>
+<p><strong>Lilith Datura</strong> · @LilithDatura · 2026-10-12T05:10:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 122</p>
+<p><a href="https://x.com/LilithDatura/status/2109511985855689074">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kk_welfare/status/2109498108820472260"><img src="https://pbs.twimg.com/media/HUZxAlZaEAAeAsa?format=png&amp;name=medium" alt="Jev is so cheap and quiet it flies under the radar · 原帖图片" width="100%"></a>

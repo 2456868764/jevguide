@@ -2116,6 +2116,7 @@
 - [Jacob Wellinghoff 🦞](../authors/jacob-wellinghoff.md) — 1
 - [jaden gray](../authors/jaden-gray.md) — 1
 - [Jaenan](../authors/jaenan.md) — 1
+- [Jaime Buelta 🌻🌻🌻](../authors/jaime-buelta.md) — 1
 - [Jake Cusack](../authors/jake-cusack.md) — 1
 - [Jake Dahn](../authors/jake-dahn.md) — 1
 - [james](../authors/james.md) — 1
@@ -2681,6 +2682,7 @@
 - [Mohit Karekar](../authors/mohit-karekar.md) — 1
 - [Mohsen Rastegar .base.eth .ink 🍚 ⛓ 🚢](../authors/mohsen-rastegar-base-eth-ink.md) — 1
 - [Moid](../authors/moid.md) — 1
+- [Monglong](../authors/monglong.md) — 1
 - [Monica Cheng](../authors/monica-cheng.md) — 1
 - [Monid](../authors/monid.md) — 1
 - [monoradio](../authors/monoradio.md) — 1
@@ -3511,6 +3513,7 @@
 - [The Circuitry](../authors/the-circuitry.md) — 1
 - [The Decentralized Compute Company](../authors/the-decentralized-compute-company.md) — 1
 - [The Desk](../authors/the-desk.md) — 1
+- [The Distance App Developers](../authors/the-distance-app-developers.md) — 1
 - [The DOOM Guy](../authors/the-doom-guy.md) — 1
 - [The Klingon Yellow](../authors/the-klingon-yellow.md) — 1
 - [The SamurAI](../authors/the-samurai.md) — 1

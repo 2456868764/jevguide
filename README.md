@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6104</strong><br>curated posts</td>
-<td align="center"><strong>3049</strong><br>original videos</td>
+<td align="center"><strong>6107</strong><br>curated posts</td>
+<td align="center"><strong>3050</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1144</strong> showcases · <strong>471</strong> videos</p>
+<p><strong>1145</strong> showcases · <strong>471</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>618</strong> showcases · <strong>308</strong> videos</p>
+<p><strong>619</strong> showcases · <strong>309</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>409</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>410</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
+<p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/TheDistanceHQ/status/2113556215070376208"><img src="https://pbs.twimg.com/media/HVTcK5pWoAAyPvc?format=png&amp;name=900x900" alt="Jev Becomes Vercel&#39;s Fastest-Adopted AI Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheDistanceHQ/status/2113556215070376208">Jev Becomes Vercel&#39;s Fastest-Adopted AI Model</a></h3>
+<p>The Distance&#39;s weekly round-up mentions that Jev became Vercel&#39;s fastest-adopted AI model.</p>
+<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
+<p><strong>The Distance App Developers</strong> · @TheDistanceHQ</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/MongLong0214/status/2113544413729464572"><img src="https://pbs.twimg.com/amplify_video_thumb/2113544365163663360/img/UK887exsBQmFXWw1.jpg" alt="jev-gate real-world test: Claude Code task costs cut to about half · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MongLong0214/status/2113544413729464572">jev-gate real-world test: Claude Code task costs cut to about half</a></h3>
+<p>The author shares test results of jev-gate on two real Claude Code tasks: cost dropped from $42.81 to $19.65 with the same aggregate blind quality score. The tool routes models, delegates work, and compacts context, supporting Claude Code and Codex. The author notes this is a small pilot, not a savings guarantee.</p>
+<p><strong>96</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 96</p>
+<p><strong>Monglong</strong> · @MongLong0214</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
 <p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
 <p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><strong>Sqwish Labs</strong> · @sqwishai</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/omnirailorg/status/2113531116267217308"><img src="https://pbs.twimg.com/media/HVPpt4iW8AESQfx?format=jpg&amp;name=medium" alt="OmniRail opens to builders with Jev decision model support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/omnirailorg/status/2113531116267217308">OmniRail opens to builders with Jev decision model support</a></h3>
-<p>OmniRail announces opening to builders, offering one key to access text, image, video, voice and Jev decision models, plus web search and swaps on Robinhood Chain.</p>
-<p><strong>107</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 107</p>
-<p><strong>OmniRail</strong> · @omnirailorg</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/vraj_ai/status/2113528813821067597"><img src="https://pbs.twimg.com/media/HVK56K4aYAEMDmC?format=jpg&amp;name=medium" alt="Mammoth-1 and Elephant-1 on the Jev Decision Index · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vraj_ai/status/2113528813821067597">Mammoth-1 and Elephant-1 on the Jev Decision Index</a></h3>
-<p>Vraj explains that mammoth-1 doesn&#39;t generate text; it takes a state and a few questions and returns probabilities for every option in one pass, suitable for ticket routing, yes/no checks, and team selection. He also recommends the 9B elephant-1, which scores 62.65 on the Jev Decision Index.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Vraj</strong> · @vraj_ai</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/scrblanc/status/2113526028010172712"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525832702365696/pu/img/vHnroErhyRKlNWpG.jpg" alt="TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/scrblanc/status/2113526028010172712">TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute</a></h3>
-<p>JEV screened 38,000 free-trial sign-ups and blocked 4,100 fake ones, costing $6.63/month while preventing $12,177 in compute waste.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Blanc</strong> · @scrblanc</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
+<p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
 <p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
 <p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><strong>Sqwish Labs</strong> · @sqwishai</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/scrblanc/status/2113526028010172712"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525832702365696/pu/img/vHnroErhyRKlNWpG.jpg" alt="TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/scrblanc/status/2113526028010172712">TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute</a></h3>
-<p>JEV screened 38,000 free-trial sign-ups and blocked 4,100 fake ones, costing $6.63/month while preventing $12,177 in compute waste.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Blanc</strong> · @scrblanc</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/amix3k/status/2113525936360759554"><img src="https://pbs.twimg.com/media/HVTAnzfXkAAsCdU?format=jpg&amp;name=medium" alt="Todoist team experiments with AI inbox classification using Jev model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/amix3k/status/2113525936360759554">Todoist team experiments with AI inbox classification using Jev model</a></h3>
-<p>The Todoist Comms team is experimenting with AI inbox classification using the Jev decision model, showcasing its potential in real-world applications.</p>
-<p><strong>96</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 96</p>
-<p><strong>Amir Salihefendić</strong> · @amix3k</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/omnirailorg/status/2113531116267217308"><img src="https://pbs.twimg.com/media/HVPpt4iW8AESQfx?format=jpg&amp;name=medium" alt="OmniRail opens to builders with Jev decision model support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/omnirailorg/status/2113531116267217308">OmniRail opens to builders with Jev decision model support</a></h3>
+<p>OmniRail announces opening to builders, offering one key to access text, image, video, voice and Jev decision models, plus web search and swaps on Robinhood Chain.</p>
+<p><strong>107</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 107</p>
+<p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/DaisyDiao2/status/2113519513627197717"><img src="https://pbs.twimg.com/amplify_video_thumb/2113518852701290496/img/2FOi7tFfwcPJN1uQ.jpg" alt="Using JEV to filter surveillance footage by appearance · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DaisyDiao2/status/2113519513627197717">Using JEV to filter surveillance footage by appearance</a></h3>
-<p>The author shares a practical workflow: home surveillance first detects an animal, local YOLO performs a secondary check, then JEV is used to filter the front door footage by appearance to extract the clip of a cat catching a mouse.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>daisydiao.eth</strong> · @DaisyDiao2</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_hacks_akira/status/2113523881822527801"><img src="https://pbs.twimg.com/amplify_video_thumb/2113523722854494208/img/IqwS6exdupp2xooT.jpg" alt="TypeSafe Jev powers auto-battle in an AI-made browser RPG · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_hacks_akira/status/2113523881822527801">TypeSafe Jev powers auto-battle in an AI-made browser RPG</a></h3>
+<p>The author integrated TypeSafe&#39;s Jev into a browser-based RPG built entirely with AI. Jev selects actions and targets based on HP, status, and available moves of both sides, eliminating the need to input commands every turn during AI auto-battle. The post also mentions using GPT Image 2 / GPT Image for images.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>AIお役立ち情報局</strong> · @ai_hacks_akira</p>
 </td>
 </tr>
 </table>

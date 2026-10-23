@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T09:36:16.000Z | [Jev Agentic Engineering Workshop Tomorrow](https://x.com/jaimebuelta/status/2113565156294955205) | 社区实践 | Jaime Buelta 🌻🌻🌻 | 24 |
+| 2026-10-23T09:00:44.000Z | [Jev Becomes Vercel's Fastest-Adopted AI Model](https://x.com/TheDistanceHQ/status/2113556215070376208) | 接入动态 | The Distance App Developers | 69 |
+| 2026-10-23T08:13:50.000Z | [jev-gate real-world test: Claude Code task costs cut to about half](https://x.com/MongLong0214/status/2113544413729464572) | 开发者工具 | Monglong | 96 |
 | 2026-10-23T07:34:00.000Z | [Jev Model Benchmark: Accuracy vs. Cost](https://x.com/sqwishai/status/2113534387841081485) | 社区实践 | Sqwish Labs | 7 |
 | 2026-10-23T07:21:00.000Z | [OmniRail opens to builders with Jev decision model support](https://x.com/omnirailorg/status/2113531116267217308) | 接入动态 | OmniRail | 107 |
 | 2026-10-23T07:11:51.000Z | [Mammoth-1 and Elephant-1 on the Jev Decision Index](https://x.com/vraj_ai/status/2113528813821067597) | 工作原理 | Vraj | 8 |
@@ -99,6 +102,3 @@
 | 2026-10-12T14:50:28.000Z | [TypeSafe AI Raises $870M in Funding](https://x.com/TradedVC/status/2109657961907810399) | 金融 | Traded: Venture Capital | 120 |
 | 2026-10-12T14:49:35.000Z | [Jev + OpenAI Dots: Building an AI Side-Hustle Pipeline](https://x.com/deezzex/status/2109657739924263213) | 自动化工作流 | deezzex | 431 |
 | 2026-10-12T14:47:37.000Z | [Benchmark Comparison of Decision Models: Official Jev vs vLLM & LiquidAI](https://x.com/nisten/status/2109657244254048442) | 科研 | nisten | 618 |
-| 2026-10-12T14:38:20.000Z | [TypeSafe's Jev Raises $870M as Decision Models Heat Up](https://x.com/pmainardi/status/2109654907649216586) | 产品发布 | Patricio Mainardi | 12 |
-| 2026-10-12T14:34:41.000Z | [TypeSafe AI Raises $870M Series A at $7.5B Valuation](https://x.com/Punto_Turkiye/status/2109653988618518681) | 金融 | Punto \| haber uygulaması | 5 |
-| 2026-10-12T14:33:45.000Z | [Jev vs luna-6-decisions for Classification Tasks](https://x.com/withloveaal/status/2109653753754480915) | 社区实践 | Alisha (aal) | 11 |

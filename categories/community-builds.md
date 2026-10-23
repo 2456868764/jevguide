@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1145 | 471 | 679 | 3.0M |
+| 1147 | 472 | 680 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ishidafuu/status/2113580664234946807"><img src="https://pbs.twimg.com/media/HVTyFbraEAAuGkX?format=png&amp;name=240x240" alt="Trying JEV: An AI That Sorts Everything Perfectly · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ishidafuu/status/2113580664234946807">Trying JEV: An AI That Sorts Everything Perfectly</a></h3>
+<p>The author tries JEV, an AI said to sort anything perfectly like a prime-time Renho politician, and finds it cheap, fast, and accurate when used with Claude, though he has no clear use case yet.</p>
+<p><strong>中文摘要：</strong>作者试用AI服务JEV，指出其像全盛期莲舫议员一样能将事物完美分类，搭配Claude使用时平价快速且高精度，但自己暂无明确用途。</p>
+<p><strong>いしださん</strong> · @ishidafuu · 2026-10-23T10:37:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/ishidafuu/status/2113580664234946807">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/blondekiri/status/2113574653172351388"><img src="https://pbs.twimg.com/amplify_video_thumb/2112245910335799296/img/ncXXtw3MQ-9153Qc.jpg" alt="Using Jev for simple classification at $0.042 per million tokens · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/blondekiri/status/2113574653172351388">Using Jev for simple classification at $0.042 per million tokens</a></h3>
+<p>A developer showcases a personal customer-reply pipeline: only 1 of 5 steps needs Claude, while the other 4 use Jev for yes/no/pick decisions at ultra-low cost.</p>
+<p><strong>中文摘要：</strong>一位开发者展示了个人客服回复流水线：5 步中仅 1 步需要 Claude，其余 4 步用 Jev 处理是/否/选择类判断，成本极低。</p>
+<p><strong>kiri ✦</strong> · @blondekiri · 2026-10-23T10:14:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/blondekiri/status/2113574653172351388">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>

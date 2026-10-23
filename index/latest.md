@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T10:37:53.000Z | [Trying JEV: An AI That Sorts Everything Perfectly](https://x.com/ishidafuu/status/2113580664234946807) | 社区实践 | いしださん | 14 |
+| 2026-10-23T10:30:00.000Z | [Velpha introduces AI chat powered by TypeSafe's Jev model](https://x.com/velpha_official/status/2113578679406051675) | 金融 | Velpha | 15 |
+| 2026-10-23T10:14:00.000Z | [Using Jev for simple classification at $0.042 per million tokens](https://x.com/blondekiri/status/2113574653172351388) | 社区实践 | kiri ✦ | 7 |
 | 2026-10-23T09:36:16.000Z | [Jev Agentic Engineering Workshop Tomorrow](https://x.com/jaimebuelta/status/2113565156294955205) | 社区实践 | Jaime Buelta 🌻🌻🌻 | 24 |
 | 2026-10-23T09:00:44.000Z | [Jev Becomes Vercel's Fastest-Adopted AI Model](https://x.com/TheDistanceHQ/status/2113556215070376208) | 接入动态 | The Distance App Developers | 69 |
 | 2026-10-23T08:13:50.000Z | [jev-gate real-world test: Claude Code task costs cut to about half](https://x.com/MongLong0214/status/2113544413729464572) | 开发者工具 | Monglong | 96 |
@@ -99,6 +102,3 @@
 | 2026-10-12T15:06:42.000Z | [Jev as classifier in a personal agent setup](https://x.com/soupsranjan/status/2109662047101448517) | 社区实践 | Soups Ranjan | 301 |
 | 2026-10-12T15:01:12.000Z | [Built a quick TLD search site using Jev](https://x.com/nickbreaton/status/2109660665317335499) | 社区实践 | Nick Breaton | 16 |
 | 2026-10-12T14:58:46.000Z | [Model comparison update: Haiku 5.5, MSFT Decision-1 vs Jev](https://x.com/ShrivuShankar/status/2109660053288419770) | 社区实践 | Shrivu Shankar | 48 |
-| 2026-10-12T14:50:28.000Z | [TypeSafe AI Raises $870M in Funding](https://x.com/TradedVC/status/2109657961907810399) | 金融 | Traded: Venture Capital | 120 |
-| 2026-10-12T14:49:35.000Z | [Jev + OpenAI Dots: Building an AI Side-Hustle Pipeline](https://x.com/deezzex/status/2109657739924263213) | 自动化工作流 | deezzex | 431 |
-| 2026-10-12T14:47:37.000Z | [Benchmark Comparison of Decision Models: Official Jev vs vLLM & LiquidAI](https://x.com/nisten/status/2109657244254048442) | 科研 | nisten | 618 |

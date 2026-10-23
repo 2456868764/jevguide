@@ -2360,6 +2360,7 @@
 - [kinewsletter.ch](../authors/kinewsletter-ch.md) — 1
 - [Kingsley Uyi Idehen](../authors/kingsley-uyi-idehen.md) — 1
 - [Kiran Gollu](../authors/kiran-gollu.md) — 1
+- [kiri ✦](../authors/kiri.md) — 1
 - [KiRura](../authors/kirura.md) — 1
 - [kitscho.eth](../authors/kitscho-eth.md) — 1
 - [kkonline.org](../authors/kkonline-org.md) — 1
@@ -3648,6 +3649,7 @@
 - [Vectorize](../authors/vectorize.md) — 1
 - [Vel Yanchina](../authors/vel-yanchina.md) — 1
 - [Veles](../authors/veles.md) — 1
+- [Velpha](../authors/velpha.md) — 1
 - [Ven 🎒 ai explorer](../authors/ven-ai-explorer.md) — 1
 - [Vera](../authors/vera.md) — 1
 - [Vericence](../authors/vericence.md) — 1
@@ -3893,6 +3895,7 @@
 - [あやみ｜マーケティング](../authors/jev-showcase.md) — 1
 - [あるにこ](../authors/jev-showcase.md) — 1
 - [あんでぃ](../authors/jev-showcase.md) — 1
+- [いしださん](../authors/jev-showcase.md) — 1
 - [いちご](../authors/jev-showcase.md) — 1
 - [いろあい｜福祉・保育・教育のAI活用・定着支援](../authors/福祉-保育-教育-ai活用-定着支援.md) — 1
 - [いんすたんす](../authors/jev-showcase.md) — 1

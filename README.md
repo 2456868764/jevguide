@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6107</strong><br>curated posts</td>
-<td align="center"><strong>3050</strong><br>original videos</td>
+<td align="center"><strong>6110</strong><br>curated posts</td>
+<td align="center"><strong>3052</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1145</strong> showcases · <strong>471</strong> videos</p>
+<p><strong>1147</strong> showcases · <strong>472</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>309</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>310</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ishidafuu/status/2113580664234946807"><img src="https://pbs.twimg.com/media/HVTyFbraEAAuGkX?format=png&amp;name=240x240" alt="Trying JEV: An AI That Sorts Everything Perfectly · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ishidafuu/status/2113580664234946807">Trying JEV: An AI That Sorts Everything Perfectly</a></h3>
+<p>The author tries JEV, an AI said to sort anything perfectly like a prime-time Renho politician, and finds it cheap, fast, and accurate when used with Claude, though he has no clear use case yet.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>いしださん</strong> · @ishidafuu</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/velpha_official/status/2113578679406051675"><img src="https://pbs.twimg.com/amplify_video_thumb/2113440110742224896/img/jvZdpc19lPv9u_Ny.jpg" alt="Velpha introduces AI chat powered by TypeSafe&#39;s Jev model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/velpha_official/status/2113578679406051675">Velpha introduces AI chat powered by TypeSafe&#39;s Jev model</a></h3>
+<p>Velpha introduces its AI chat feature: it uses TypeSafe AI&#39;s new model Jev to understand question intent and instantly try purchase simulations, making it easier to search for stocks and investment trusts.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Velpha</strong> · @velpha_official</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/blondekiri/status/2113574653172351388"><img src="https://pbs.twimg.com/amplify_video_thumb/2112245910335799296/img/ncXXtw3MQ-9153Qc.jpg" alt="Using Jev for simple classification at $0.042 per million tokens · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/blondekiri/status/2113574653172351388">Using Jev for simple classification at $0.042 per million tokens</a></h3>
+<p>A developer showcases a personal customer-reply pipeline: only 1 of 5 steps needs Claude, while the other 4 use Jev for yes/no/pick decisions at ultra-low cost.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>kiri ✦</strong> · @blondekiri</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
 <p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
 <p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheDistanceHQ/status/2113556215070376208"><img src="https://pbs.twimg.com/media/HVTcK5pWoAAyPvc?format=png&amp;name=900x900" alt="Jev Becomes Vercel&#39;s Fastest-Adopted AI Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheDistanceHQ/status/2113556215070376208">Jev Becomes Vercel&#39;s Fastest-Adopted AI Model</a></h3>
-<p>The Distance&#39;s weekly round-up mentions that Jev became Vercel&#39;s fastest-adopted AI model.</p>
-<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
-<p><strong>The Distance App Developers</strong> · @TheDistanceHQ</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/MongLong0214/status/2113544413729464572"><img src="https://pbs.twimg.com/amplify_video_thumb/2113544365163663360/img/UK887exsBQmFXWw1.jpg" alt="jev-gate real-world test: Claude Code task costs cut to about half · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MongLong0214/status/2113544413729464572">jev-gate real-world test: Claude Code task costs cut to about half</a></h3>
-<p>The author shares test results of jev-gate on two real Claude Code tasks: cost dropped from $42.81 to $19.65 with the same aggregate blind quality score. The tool routes models, delegates work, and compacts context, supporting Claude Code and Codex. The author notes this is a small pilot, not a savings guarantee.</p>
-<p><strong>96</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 96</p>
-<p><strong>Monglong</strong> · @MongLong0214</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
-<p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Sqwish Labs</strong> · @sqwishai</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ishidafuu/status/2113580664234946807"><img src="https://pbs.twimg.com/media/HVTyFbraEAAuGkX?format=png&amp;name=240x240" alt="Trying JEV: An AI That Sorts Everything Perfectly · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ishidafuu/status/2113580664234946807">Trying JEV: An AI That Sorts Everything Perfectly</a></h3>
+<p>The author tries JEV, an AI said to sort anything perfectly like a prime-time Renho politician, and finds it cheap, fast, and accurate when used with Claude, though he has no clear use case yet.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>いしださん</strong> · @ishidafuu</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
 <p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
 <p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
-<p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Sqwish Labs</strong> · @sqwishai</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/omnirailorg/status/2113531116267217308"><img src="https://pbs.twimg.com/media/HVPpt4iW8AESQfx?format=jpg&amp;name=medium" alt="OmniRail opens to builders with Jev decision model support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/omnirailorg/status/2113531116267217308">OmniRail opens to builders with Jev decision model support</a></h3>
-<p>OmniRail announces opening to builders, offering one key to access text, image, video, voice and Jev decision models, plus web search and swaps on Robinhood Chain.</p>
-<p><strong>107</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 107</p>
-<p><strong>OmniRail</strong> · @omnirailorg</p>
+<a href="https://x.com/TheDistanceHQ/status/2113556215070376208"><img src="https://pbs.twimg.com/media/HVTcK5pWoAAyPvc?format=png&amp;name=900x900" alt="Jev Becomes Vercel&#39;s Fastest-Adopted AI Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheDistanceHQ/status/2113556215070376208">Jev Becomes Vercel&#39;s Fastest-Adopted AI Model</a></h3>
+<p>The Distance&#39;s weekly round-up mentions that Jev became Vercel&#39;s fastest-adopted AI model.</p>
+<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
+<p><strong>The Distance App Developers</strong> · @TheDistanceHQ</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/ai_hacks_akira/status/2113523881822527801"><img src="https://pbs.twimg.com/amplify_video_thumb/2113523722854494208/img/IqwS6exdupp2xooT.jpg" alt="TypeSafe Jev powers auto-battle in an AI-made browser RPG · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ai_hacks_akira/status/2113523881822527801">TypeSafe Jev powers auto-battle in an AI-made browser RPG</a></h3>
-<p>The author integrated TypeSafe&#39;s Jev into a browser-based RPG built entirely with AI. Jev selects actions and targets based on HP, status, and available moves of both sides, eliminating the need to input commands every turn during AI auto-battle. The post also mentions using GPT Image 2 / GPT Image for images.</p>
-<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
-<p><strong>AIお役立ち情報局</strong> · @ai_hacks_akira</p>
+<p><strong>04</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/amix3k/status/2113525936360759554"><img src="https://pbs.twimg.com/media/HVTAnzfXkAAsCdU?format=jpg&amp;name=medium" alt="Todoist team experiments with AI inbox classification using Jev model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amix3k/status/2113525936360759554">Todoist team experiments with AI inbox classification using Jev model</a></h3>
+<p>The Todoist Comms team is experimenting with AI inbox classification using the Jev decision model, showcasing its potential in real-world applications.</p>
+<p><strong>96</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 96</p>
+<p><strong>Amir Salihefendić</strong> · @amix3k</p>
 </td>
 </tr>
 </table>

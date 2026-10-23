@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 514 | 224 | 293 | 1.1M |
+| 520 | 225 | 298 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/abhishek__AI/status/2113458512357625877"><img src="https://pbs.twimg.com/tweet_video_thumb/HVSDTbYbUAA10om.jpg" alt="Jev Ultrafast cuts median browser-agent task time to 7.09s · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/abhishek__AI/status/2113458512357625877">Jev Ultrafast cuts median browser-agent task time to 7.09s</a></h3>
+<p>Jev Ultrafast cuts median browser-agent task time from 9.45s to 7.09s, with 90% fewer protocol calls, 25% faster median execution, dynamic action and target selection, no screenshots in the default loop, and is 100% open source.</p>
+<p><strong>中文摘要：</strong>Jev Ultrafast 将浏览器智能体的中位执行时间从 9.45 秒缩短至 7.09 秒，协议调用减少 90%，执行速度提升 25%，支持动态动作与目标选择，默认循环无需截图，并完全开源。</p>
+<p><strong>Abhishek Yadav</strong> · @abhishek__AI · 2026-10-23T02:32:30.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 123</p>
+<p><a href="https://x.com/abhishek__AI/status/2113458512357625877">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_fengshou/status/2113400757122969710"><img src="https://pbs.twimg.com/media/HVRMmoPXsAEbEIN?format=png&amp;name=900x900" alt="Ant releases LingDT decision model, claims to surpass Jev 1.13 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ai_fengshou/status/2113400757122969710">Ant releases LingDT decision model, claims to surpass Jev 1.13</a></h3>
+<p>The post reports Ant Digital&#39;s LingDT-Decision-1.0, available in 4B and 27B versions, claiming it outperforms Microsoft&#39;s Decision-1 and Jev 1.13 on open benchmarks.</p>
+<p><strong>中文摘要：</strong>帖子报道蚂蚁数科 LingDT-Decision-1.0 发布，包含 4B 和 27B 版本，称其在开源基准上超越微软 Decision-1 和 Jev 1.13。</p>
+<p><strong>丰收</strong> · @ai_fengshou · 2026-10-22T22:43:00.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 267</p>
+<p><a href="https://x.com/ai_fengshou/status/2113400757122969710">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheAIIndex_dev/status/2113384009023557776"><img src="https://pbs.twimg.com/media/HVQ_jsBXgAArpfs?format=png&amp;name=medium" alt="OpenAI Releases Decisions API; Jev Seen as Decision-Model Rival · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheAIIndex_dev/status/2113384009023557776">OpenAI Releases Decisions API; Jev Seen as Decision-Model Rival</a></h3>
+<p>The AI Index reports OpenAI&#39;s rollout of the Decisions API, framing it as a rival to Jev amid growing competition in the decision-model space; the post also notes OpenAI headcount grew 10% over 90 days.</p>
+<p><strong>中文摘要：</strong>The AI Index 报道称 OpenAI 已推出 Decisions API，并将其定位为 Jev 的竞争对手，决策模型赛道竞争升温；帖中还提到 OpenAI 近 90 天员工数增长 10%。</p>
+<p><strong>The AI Index</strong> · @TheAIIndex_dev · 2026-10-22T21:36:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/TheAIIndex_dev/status/2113384009023557776">在 X 查看原帖</a> · <a href="https://t.co/d4U9QrSsfS">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/binavira_ir/status/2113382455885332848"><img src="https://pbs.twimg.com/media/HVQ-JQsWsAIaElz?format=jpg&amp;name=medium" alt="OpenAI Broadly Releases Decisions API, Competing with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/binavira_ir/status/2113382455885332848">OpenAI Broadly Releases Decisions API, Competing with Jev</a></h3>
+<p>OpenAI has made its Decisions API available to public customers, intensifying competition in fast and cost-effective decision models.</p>
+<p><strong>中文摘要：</strong>OpenAI将其Decisions API面向公众客户开放，快速低成本的决策模型竞争进一步升温。</p>
+<p><strong>هوش مصنوعی بینا ویرا</strong> · @binavira_ir · 2026-10-22T21:30:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/binavira_ir/status/2113382455885332848">在 X 查看原帖</a> · <a href="https://t.co/KmkmUCw8tp">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alerts_app_/status/2113367766333804811"><img src="https://pbs.twimg.com/media/HVQwyOBXgAA4exU?format=jpg&amp;name=medium" alt="OpenAI Widely Releases Jev Competitor as Decision Model Competition Heats Up · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alerts_app_/status/2113367766333804811">OpenAI Widely Releases Jev Competitor as Decision Model Competition Heats Up</a></h3>
+<p>According to the post, OpenAI has made its Jev competitor widely available, intensifying competition in AI decision models. It also includes Polymarket odds on the best AI model by the end of 2026.</p>
+<p><strong>中文摘要：</strong>根据帖文，OpenAI已将其Jev竞品广泛开放，显示AI决策模型市场竞争加剧。帖中还包含Polymarket上关于2026年底最佳AI模型的预测市场数据。</p>
+<p><strong>Probable · Polymarket Alerts · Prediction Markets</strong> · @alerts_app_ · 2026-10-22T20:31:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/alerts_app_/status/2113367766333804811">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dailytechonx/status/2113365884114714659"><img src="https://pbs.twimg.com/media/HVQvEhDXUAAkJyA?format=jpg&amp;name=medium" alt="OpenAI Releases Decisions API, Benchmarking Against TypeSafe&#39;s Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dailytechonx/status/2113365884114714659">OpenAI Releases Decisions API, Benchmarking Against TypeSafe&#39;s Jev Model</a></h3>
+<p>The post reports OpenAI&#39;s new Decisions API, powered by Luna, designed to match Jev&#39;s decision speed and confidence scores, with image and voice support and drastically lower latency. It credits TypeSafe&#39;s Jev for defining the category, signaling intensifying competition.</p>
+<p><strong>中文摘要：</strong>帖子介绍OpenAI新推出的Decisions API，采用Luna驱动，号称达到Jev的决策速度、置信度分数，支持图像与语音，并显著降低延迟。内容提及TypeSafe的Jev开创了这一类别，暗示行业竞争加剧。</p>
+<p><strong>The Daily Tech Feed</strong> · @dailytechonx · 2026-10-22T20:24:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><a href="https://x.com/dailytechonx/status/2113365884114714659">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbnd/status/2109666027504050360"><img src="https://pbs.twimg.com/media/HUcKEpKWUAAAt-U?format=png&amp;name=medium" alt="Scala Client 1.5.0 Released with Unified Access to Jev and Other Decision Models · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 100 | 30 | 72 | 136K |
+| 102 | 31 | 73 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yoheinakajima/status/2113372675968262185"><img src="https://pbs.twimg.com/media/HVQ1PzdbAAAzdqb?format=jpg&amp;name=medium" alt="Combining Jev with ActiveGraph for Recommender Systems · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yoheinakajima/status/2113372675968262185">Combining Jev with ActiveGraph for Recommender Systems</a></h3>
+<p>Yohei shares new research that combines decision models like Jev with ActiveGraph to build recommender systems. User activity is turned into a knowledge graph, agents propose candidates from it, and decision models select among them.</p>
+<p><strong>中文摘要：</strong>Yohei 分享了一项新研究，该研究将 Jev 等决策模型与 ActiveGraph 结合，用于构建推荐系统。其思路是将用户活动转化为知识图谱，由代理基于图谱提出候选，再由决策模型进行选择。</p>
+<p><strong>Yohei</strong> · @yoheinakajima · 2026-10-22T20:51:25.000Z</p>
+<p>💬 16 &nbsp; 🔁 1 &nbsp; ♡ 28 &nbsp; 📊 2.6K</p>
+<p><a href="https://x.com/yoheinakajima/status/2113372675968262185">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/imryven/status/2113359464292057286"><img src="https://pbs.twimg.com/amplify_video_thumb/2113358633312337920/img/dYvspfaI758uX3Sc.jpg" alt="Jev: Sort 1,018 Papers for 8 Cents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/imryven/status/2113359464292057286">Jev: Sort 1,018 Papers for 8 Cents</a></h3>
+<p>Jev is an AI model that only makes decisions—choosing an option, rating on a scale, or answering yes/no with a probability—rather than generating text. In the example, it sorted 1,018 research papers for 8 cents at about 256 ms per paper.</p>
+<p><strong>中文摘要：</strong>Jev 是一种只能做选择、打分或二分类等决策、无法生成完整句子的 AI 模型。示例中它用 8 美分和每篇约 256 毫秒的速度，筛选了 1,018 篇研究论文。</p>
+<p><strong>Ryven</strong> · @imryven · 2026-10-22T19:58:55.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 14 &nbsp; 📊 666</p>
+<p><a href="https://x.com/imryven/status/2113359464292057286">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nisten/status/2109657244254048442"><img src="https://pbs.twimg.com/media/HUcB_CvWUAAnwmY?format=jpg&amp;name=medium" alt="Benchmark Comparison of Decision Models: Official Jev vs vLLM &amp; LiquidAI · 原帖图片" width="100%"></a>

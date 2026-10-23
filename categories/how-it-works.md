@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 570 | 247 | 324 | 1.6M |
+| 572 | 248 | 325 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sangamesh_gupta/status/2113465805912297507"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113465748098068480/pu/img/FoD9vcC2ErUZkIm_.jpg" alt="How Jev Works: Intercepting Calls Between Agent and Action · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sangamesh_gupta/status/2113465805912297507">How Jev Works: Intercepting Calls Between Agent and Action</a></h3>
+<p>A short clip explaining Jev as the layer that sits between the agent and the action, catching the call before it runs.</p>
+<p><strong>中文摘要：</strong>短片介绍 Jev 作为中间层，在代理动作实际执行前捕获调用，展示其拦截机制。</p>
+<p><strong>Sangamesh Gella</strong> · @sangamesh_gupta · 2026-10-23T03:01:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/sangamesh_gupta/status/2113465805912297507">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Matthewagi/status/2113370683015344285"><img src="https://pbs.twimg.com/media/HVQt-hIWwAEcicX?format=png&amp;name=medium" alt="Analysis of Jev Model Inference and Pricing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Matthewagi/status/2113370683015344285">Analysis of Jev Model Inference and Pricing</a></h3>
+<p>A community tweet speculates that the Jev model may not use early exit, and estimates service pricing and margins based on $0.01255/Mtok.</p>
+<p><strong>中文摘要：</strong>一条社区推文推测 Jev 模型可能未使用 early exit，并基于 $0.01255/Mtok 推算服务定价与利润率。</p>
+<p><strong>Matt</strong> · @Matthewagi · 2026-10-22T20:43:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/Matthewagi/status/2113370683015344285">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xbnd/status/2109666044583276829"><img src="https://pbs.twimg.com/media/HUcKFnfW4AAcy9X?format=png&amp;name=medium" alt="Jev and other decision models stay flat from 1 to 40 questions · 原帖图片" width="100%"></a>

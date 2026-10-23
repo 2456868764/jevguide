@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1123 | 462 | 666 | 3.0M |
+| 1131 | 463 | 673 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/29meat_ai/status/2113470466295996629"><img src="https://pbs.twimg.com/amplify_video_thumb/2113272564810403842/img/l3eNaaPYJjGBmg0r.jpg" alt="Codex×Jev: Let Jev Handle Model Routing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/29meat_ai/status/2113470466295996629">Codex×Jev: Let Jev Handle Model Routing</a></h3>
+<p>User shares experience that Jev can automatically route models, so non-engineers don&#39;t need to remember model differences, pairing well with Codex.</p>
+<p><strong>中文摘要：</strong>用户分享使用体验，认为Jev能自动分配模型，非工程师无需记住各模型差异，与Codex搭配高效。</p>
+<p><strong>にく</strong> · @29meat_ai · 2026-10-23T03:20:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 73</p>
+<p><a href="https://x.com/29meat_ai/status/2113470466295996629">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nick_kango/status/2113459322005114972"><img src="https://pbs.twimg.com/media/HVSEDWpbwAAqCYr?format=jpg&amp;name=medium" alt="Discussion on Performance Differences Between Jev and Other Routers · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nick_kango/status/2113459322005114972">Discussion on Performance Differences Between Jev and Other Routers</a></h3>
+<p>The author notes that apart from Jev, the other three routers only used 2–4 models, so results may depend more on the underlying model pool than on routing.</p>
+<p><strong>中文摘要：</strong>作者认为除 Jev 外，其他三个路由器仅使用 2-4 个模型，结果可能主要取决于底层模型池而非路由策略。</p>
+<p><strong>Nick</strong> · @nick_kango · 2026-10-23T02:35:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/nick_kango/status/2113459322005114972">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/small2huge/status/2113444541550440862"><img src="https://pbs.twimg.com/amplify_video_thumb/2113444498500132864/img/rR-RNUxn1xm-67Lu.jpg" alt="Hands-on with Jev: Decision-only model saves cost and boosts efficiency · 原帖视频截图" width="100%"></a>
@@ -20,6 +44,78 @@
 <p><strong>蜗牛AI</strong> · @small2huge · 2026-10-23T01:36:59.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/small2huge/status/2113444541550440862">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Powertothepipol/status/2113401416945406034"><img src="https://pbs.twimg.com/media/HVRPYpsXwAMBPvp?format=jpg&amp;name=medium" alt="User says Jev outperforms OpenAI in decision quality and is cheaper · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Powertothepipol/status/2113401416945406034">User says Jev outperforms OpenAI in decision quality and is cheaper</a></h3>
+<p>The post compares Jev with OpenAI, suggesting Jev offers higher decision quality at a lower cost.</p>
+<p><strong>中文摘要：</strong>帖子对比Jev与OpenAI，作者认为Jev的决策质量更高，同时成本更低。</p>
+<p><strong>Powertothepeople</strong> · @Powertothepipol · 2026-10-22T22:45:37.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><a href="https://x.com/Powertothepipol/status/2113401416945406034">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ViralManager/status/2113393608514793685"><img src="https://pbs.twimg.com/media/HVRIKajbQAEcu6l?format=jpg&amp;name=medium" alt="Built a photo manager with Jev image search and face recognition · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ViralManager/status/2113393608514793685">Built a photo manager with Jev image search and face recognition</a></h3>
+<p>A developer shares their experience building a photo file manager using Jev image search and face recognition, calling it fantastic.</p>
+<p><strong>中文摘要：</strong>开发者分享使用 Jev 图像搜索与人脸识别功能构建照片文件管理器的体验，称效果非常棒。</p>
+<p><strong>ras</strong> · @ViralManager · 2026-10-22T22:14:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 116</p>
+<p><a href="https://x.com/ViralManager/status/2113393608514793685">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Matthewagi/status/2113370655957877177"><img src="https://pbs.twimg.com/media/HVQmQ1iWsAASABo?format=jpg&amp;name=medium" alt="Training TERN-35B-A3B to Explore the Cost Frontier of Jev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Matthewagi/status/2113370655957877177">Training TERN-35B-A3B to Explore the Cost Frontier of Jev Model</a></h3>
+<p>The user trained TERN-35B-A3B decision model around TypeSafe&#39;s Jev model goal. On an H100 PCIE, cost reached $0.0116/Mtok, and after modifications, a cost-score Pareto frontier at $0.00773/Mtok.</p>
+<p><strong>中文摘要：</strong>用户围绕TypeSafe的Jev模型目标，训练TERN-35B-A3B决策模型。在H100 PCIE上成本为$0.0116/Mtok，通过调整达到成本-得分帕累托前沿$0.00773/Mtok。</p>
+<p><strong>Matt</strong> · @Matthewagi · 2026-10-22T20:43:23.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 424</p>
+<p><a href="https://x.com/Matthewagi/status/2113370655957877177">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RijnHartman/status/2113369101988934024"><img src="https://pbs.twimg.com/media/HVQx42FWwAAYHSF?format=jpg&amp;name=medium" alt="Diving into Jev and subq snap: no text, just confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/RijnHartman/status/2113369101988934024">Diving into Jev and subq snap: no text, just confidence</a></h3>
+<p>Rijn says they&#39;re diving into new models Jev and subq snap. They don&#39;t write text, they just make a call and return a confidence score. Cost is about 5 cents per million tokens with free output, and they haven&#39;t decided what to build with it yet.</p>
+<p><strong>中文摘要：</strong>Rijn 表示开始研究新模型 Jev 和 subq snap，它们不生成文本，而是通过调用返回置信度。价格约 5 美分/百万 tokens，输出免费，暂未确定具体构建用途。</p>
+<p><strong>Rijn</strong> · @RijnHartman · 2026-10-22T20:37:13.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 277</p>
+<p><a href="https://x.com/RijnHartman/status/2113369101988934024">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/drbetulay/status/2113368581278945692"><img src="https://pbs.twimg.com/media/HVQxhbaWgAIgS1s?format=jpg&amp;name=medium" alt="Analysis of Jev Model as a Decision Layer in RAG Systems · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/drbetulay/status/2113368581278945692">Analysis of Jev Model as a Decision Layer in RAG Systems</a></h3>
+<p>Using Jev as a decision layer in RAG reduced API costs by 63% and 33% on HotpotQA-125 and HotpotQA-375, respectively, with only a 1-2% drop in Exact Match accuracy.</p>
+<p><strong>中文摘要：</strong>在HotpotQA-125和HotpotQA-375数据集上，将Jev模型作为RAG决策层使API成本分别降低63%和33%，而答案准确率（Exact Match）仅下降1-2%。</p>
+<p><strong>Betül Ay</strong> · @drbetulay · 2026-10-22T20:35:08.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 369</p>
+<p><a href="https://x.com/drbetulay/status/2113368581278945692">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Magnosud/status/2113360529343311958"><img src="https://pbs.twimg.com/media/HVQqM8hXIAAv7zc?format=png&amp;name=medium" alt="OpenAI Releases a Jev-like Decisions API, Sparking Community Discussion · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Magnosud/status/2113360529343311958">OpenAI Releases a Jev-like Decisions API, Sparking Community Discussion</a></h3>
+<p>The post notes that OpenAI has just released its own Jev-like product, the Decisions API, now out of beta and available to everyone, running on GPT-6 Luna and built for closed-ended tasks like classification and routing.</p>
+<p><strong>中文摘要：</strong>帖子指出 OpenAI 刚刚发布了自己的 Jev 类产品，即 Decisions API，并已结束测试向所有人开放，运行在 GPT-6 Luna 上，定位于分类、路由等封闭式问题场景。</p>
+<p><strong>Charles Magno</strong> · @Magnosud · 2026-10-22T20:03:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 88</p>
+<p><a href="https://x.com/Magnosud/status/2113360529343311958">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepInsightLabs/status/2109669307248681367"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt · 原帖视频截图" width="100%"></a>

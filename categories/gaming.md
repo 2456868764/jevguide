@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 375 | 284 | 95 | 588K |
+| 377 | 284 | 97 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/algforge/status/2113376085794807982"><img src="https://pbs.twimg.com/media/HVQ32TLWcAAYTRc?format=jpg&amp;name=medium" alt="Jev SystemOne Can Play and Learn from Its Mistakes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/algforge/status/2113376085794807982">Jev SystemOne Can Play and Learn from Its Mistakes</a></h3>
+<p>A developer mentions that Jev SystemOne has a local debug mode for playing a game and learning from mistakes. It is not publicly enabled because each attempt consumes resources.</p>
+<p><strong>中文摘要：</strong>开发者透露Jev SystemOne具有本地调试模式，可在游戏中试玩并从错误中学习，但目前未公开启用，因为每次尝试都会消耗资源。</p>
+<p><strong>Arturo L. Gómez</strong> · @algforge · 2026-10-22T21:04:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/algforge/status/2113376085794807982">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/andrewingram/status/2113376018870497345"><img src="https://pbs.twimg.com/media/HVQ4SaXXcAEQScF?format=jpg&amp;name=medium" alt="User shares auto-tagging Sudoku puzzles with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/andrewingram/status/2113376018870497345">User shares auto-tagging Sudoku puzzles with Jev</a></h3>
+<p>Andy Ingram on X shares his experience using TypeSafe&#39;s Jev to auto-tag Sudoku puzzles by rule/constraint based on puzzle data and description, making it easy to find his favorite &#39;fog of war&#39; puzzles.</p>
+<p><strong>中文摘要：</strong>Andy Ingram 在 X 上分享了他使用 TypeSafe Jev 模型，依据谜题数据和描述按规则/约束自动标记数独谜题的经验，并提到这让他更容易找到喜欢的“战争迷雾”类型。</p>
+<p><strong>Andy Ingram 🌀</strong> · @andrewingram · 2026-10-22T21:04:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 128</p>
+<p><a href="https://x.com/andrewingram/status/2113376018870497345">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xL1C10G/status/2109599978951774315"><img src="https://pbs.twimg.com/amplify_video_thumb/2109310155066400768/img/9T6c7zoqFlUiGy1E.jpg" alt="TypeSafe Jev in Street Fighter 2: AI Battle Turns into Hadouken Spam · 原帖视频截图" width="100%"></a>

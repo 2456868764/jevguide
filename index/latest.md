@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T12:54:19.000Z | [LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready](https://x.com/jayleaton/status/2113615001076601317) | 智能体 | JJ Eaton | 137 |
+| 2026-10-23T12:45:46.000Z | [Papers with Code integrates Jev to highlight methods in abstracts](https://x.com/NielsRogge/status/2113612849389920589) | 接入动态 | Niels Rogge | 376 |
+| 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
+| 2026-10-23T12:16:17.000Z | [Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code](https://x.com/nonepcbl/status/2113605429620023790) | 金融 | nOnEpcbl. | 61 |
+| 2026-10-23T12:07:13.000Z | [Classified 64,946 GitHub repos with Jev for under $2](https://x.com/0xasten/status/2113603146945823034) | 社区实践 | Asten | 35 |
 | 2026-10-23T11:34:45.000Z | [OpenAI Decisions API outputs decisions directly, aiming to rival Jev](https://x.com/mazaki_eth/status/2113594976651079943) | 开发者工具 | Benjamin | 15 |
 | 2026-10-23T11:32:30.000Z | [Pig + Jev + Gemini Flash auto-plays Pokemon TCGP](https://x.com/OnlyAICanDo/status/2113594407987605815) | 游戏 | Bigkaka | 13 |
 | 2026-10-23T11:31:34.000Z | [Plugging Claude + Jev into a VW: A Real Car Assistant](https://x.com/Supriik_/status/2113594175052509624) | 智能体 | Suprik | 14 |
@@ -97,8 +102,3 @@
 | 2026-10-12T15:29:12.000Z | [Build a Claude + Jev Money Lab with Opus 5.5](https://x.com/paonx_eth/status/2109667711156428977) | 自动化工作流 | Paone | 34 |
 | 2026-10-12T15:25:46.000Z | [Earning $IAI via $0G staking and sharing AI usage plans](https://x.com/NewPaguinfo/status/2109666844370190688) | 社区实践 | Paguinfo | 54 |
 | 2026-10-12T15:22:35.000Z | [Jev and other decision models stay flat from 1 to 40 questions](https://x.com/0xbnd/status/2109666044583276829) | 工作原理 | Peter Banda | 7 |
-| 2026-10-12T15:22:31.000Z | [Scala Client 1.5.0 Released with Unified Access to Jev and Other Decision Models](https://x.com/0xbnd/status/2109666027504050360) | 产品发布 | Peter Banda | 10 |
-| 2026-10-12T15:22:00.000Z | [Jev: The AI Agent Model That Never Speaks](https://x.com/0xSheepy/status/2109665897711362351) | 工作原理 | Sheepy | 19 |
-| 2026-10-12T15:21:35.000Z | [MLflow 3.17 Supports TypeSafe Jev Models as Judges](https://x.com/MLflow/status/2109665792778277372) | 开发者工具 | MLflow | 101 |
-| 2026-10-12T15:21:22.000Z | [Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions](https://x.com/MarcvandeLogt/status/2109665737652740288) | 开发资源 | Marc van de Logt | 8 |
-| 2026-10-12T15:18:21.000Z | [Nine Ways to Use Jev in AI Applications and Agent Workflows: A Hands-On Guide](https://x.com/ToDataBeyond/status/2109664980941386214) | 开发资源 | To Data & Beyond | 40 |

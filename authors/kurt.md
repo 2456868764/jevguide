@@ -1,9 +1,10 @@
 # Kurt
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
 | 2026-10-12T12:32:46.000Z | [Jev cuts context waste in Claude Code](https://x.com/0xkurt/status/2109623309499343033) | 开发者工具 | Kurt | 29 |
 | 2026-10-11T11:05:53.000Z | [JEV: Handling the Grunt Work Business Owners Hate](https://x.com/0xkurt/status/2109239054545854956) | 客户支持 | Kurt | 21 |
 | 2026-10-10T09:44:08.000Z | [Open-Source Trading Stack with Jev](https://x.com/0xkurt/status/2108856096345457071) | 金融 | Kurt | 26 |

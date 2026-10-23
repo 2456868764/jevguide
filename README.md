@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6116</strong><br>curated posts</td>
-<td align="center"><strong>3056</strong><br>original videos</td>
+<td align="center"><strong>6121</strong><br>curated posts</td>
+<td align="center"><strong>3058</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1147</strong> showcases · <strong>472</strong> videos</p>
+<p><strong>1148</strong> showcases · <strong>472</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>482</strong> showcases · <strong>270</strong> videos</p>
+<p><strong>483</strong> showcases · <strong>270</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>410</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>411</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>310</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>311</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>104</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>105</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mazaki_eth/status/2113594976651079943">OpenAI Decisions API outputs decisions directly, aiming to rival Jev</a></h3>
-<p>The post says GPT-6 Luna can answer without text to rival Jev; OpenAI&#39;s Decisions API directly returns a choice, probability, or score for closed-ended questions, suitable for embedding in decisions without parsing long text.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Benjamin</strong> · @mazaki_eth</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/jayleaton/status/2113615001076601317"><img src="https://pbs.twimg.com/media/HVUP7sla8AA4Qk3?format=jpg&amp;name=medium" alt="LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jayleaton/status/2113615001076601317">LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready</a></h3>
+<p>The author shares progress on LocalRouter, working on new tools including a Jev-style decision model for computer use, a remote companion and choose-your-own harness, and a smaller quant. Nothing is fully released yet.</p>
+<p><strong>137</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 137</p>
+<p><strong>JJ Eaton</strong> · @jayleaton</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/OnlyAICanDo/status/2113594407987605815"><img src="https://pbs.twimg.com/amplify_video_thumb/2113593270538575872/img/UWC2j6V3T48V5nAA.jpg" alt="Pig + Jev + Gemini Flash auto-plays Pokemon TCGP · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/OnlyAICanDo/status/2113594407987605815">Pig + Jev + Gemini Flash auto-plays Pokemon TCGP</a></h3>
-<p>Bigkaka shares that the Pig agent plays Pokemon TCGP on Android, using Gemini Flash and Jev to charge and play immediately after system animations, and recommends pigagent.dev.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Bigkaka</strong> · @OnlyAICanDo</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/NielsRogge/status/2113612849389920589"><img src="https://pbs.twimg.com/amplify_video_thumb/2113612794641674240/img/B5ihFLxrux4x6Xku.jpg" alt="Papers with Code integrates Jev to highlight methods in abstracts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NielsRogge/status/2113612849389920589">Papers with Code integrates Jev to highlight methods in abstracts</a></h3>
+<p>A new feature on Papers with Code, powered by Jev from TypeSafe AI, highlights methods and benchmarks in paper abstracts, allowing users to hover and click through to relevant pages.</p>
+<p><strong>376</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 376</p>
+<p><strong>Niels Rogge</strong> · @NielsRogge</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Supriik_/status/2113594175052509624"><img src="https://pbs.twimg.com/amplify_video_thumb/2113594128818647040/img/qnRLhXtO3c4wzcgd.jpg" alt="Plugging Claude + Jev into a VW: A Real Car Assistant · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Supriik_/status/2113594175052509624">Plugging Claude + Jev into a VW: A Real Car Assistant</a></h3>
-<p>The author hooked Claude and Jev into their VW using a Raspberry Pi, creating an actual assistant that understands the car, calendar, and daily schedule — not just a phone mount with ChatGPT, and the setup is simpler than it sounds.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>Suprik</strong> · @Supriik_</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xkurt/status/2113605538445439290"><img src="https://pbs.twimg.com/amplify_video_thumb/2113581267098783744/img/UX_-tSbDqKAx8JuI.jpg" alt="JEV Public Evaluation: Research Across 37 Datasets · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xkurt/status/2113605538445439290">JEV Public Evaluation: Research Across 37 Datasets</a></h3>
+<p>Researchers at Bonn, Lamarr, and Fraunhofer IAIS report a public Jev evaluation across 37 datasets, with code and raw responses available. The post notes 346,009 requests for under $10 and argues Claude needs a filter.</p>
+<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 74</p>
+<p><strong>Kurt</strong> · @0xkurt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/Motphys2025/status/2113592293185970192"><img src="https://pbs.twimg.com/amplify_video_thumb/2113591861193666561/img/eFvaQKloSJ8-2l2d.jpg" alt="Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8% · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Motphys2025/status/2113592293185970192">Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8%</a></h3>
-<p>Train TypeSafe&#39;s Jev model in MotrixSim to control rocket recovery, boosting model confidence from 34% to 99.8% with 40ms decision latency. Code and simulation scenarios are now available for testing.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
-<p><strong>Mopi</strong> · @Motphys2025</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/nonepcbl/status/2113605429620023790"><img src="https://pbs.twimg.com/media/HVUHd23XMAE_tp3?format=jpg&amp;name=medium" alt="Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nonepcbl/status/2113605429620023790">Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code</a></h3>
+<p>The post combines Jev&#39;s decision pipeline (markusbug/jevymarket) with the official Polymarket SDK, using Claude Code to connect them for BTC market trading.</p>
+<p><strong>61</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 61</p>
+<p><strong>nOnEpcbl.</strong> · @nonepcbl</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mazaki_eth/status/2113594976651079943">OpenAI Decisions API outputs decisions directly, aiming to rival Jev</a></h3>
-<p>The post says GPT-6 Luna can answer without text to rival Jev; OpenAI&#39;s Decisions API directly returns a choice, probability, or score for closed-ended questions, suitable for embedding in decisions without parsing long text.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Benjamin</strong> · @mazaki_eth</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/jayleaton/status/2113615001076601317"><img src="https://pbs.twimg.com/media/HVUP7sla8AA4Qk3?format=jpg&amp;name=medium" alt="LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jayleaton/status/2113615001076601317">LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready</a></h3>
+<p>The author shares progress on LocalRouter, working on new tools including a Jev-style decision model for computer use, a remote companion and choose-your-own harness, and a smaller quant. Nothing is fully released yet.</p>
+<p><strong>137</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 137</p>
+<p><strong>JJ Eaton</strong> · @jayleaton</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/Motphys2025/status/2113592293185970192"><img src="https://pbs.twimg.com/amplify_video_thumb/2113591861193666561/img/eFvaQKloSJ8-2l2d.jpg" alt="Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8% · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Motphys2025/status/2113592293185970192">Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8%</a></h3>
-<p>Train TypeSafe&#39;s Jev model in MotrixSim to control rocket recovery, boosting model confidence from 34% to 99.8% with 40ms decision latency. Code and simulation scenarios are now available for testing.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
-<p><strong>Mopi</strong> · @Motphys2025</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/nonepcbl/status/2113605429620023790"><img src="https://pbs.twimg.com/media/HVUHd23XMAE_tp3?format=jpg&amp;name=medium" alt="Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nonepcbl/status/2113605429620023790">Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code</a></h3>
+<p>The post combines Jev&#39;s decision pipeline (markusbug/jevymarket) with the official Polymarket SDK, using Claude Code to connect them for BTC market trading.</p>
+<p><strong>61</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 61</p>
+<p><strong>nOnEpcbl.</strong> · @nonepcbl</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/opperai/status/2113589700976120096"><img src="https://pbs.twimg.com/amplify_video_thumb/2113574798357843968/img/9OAjpC1v-Ur-4h-X.jpg" alt="Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/opperai/status/2113589700976120096">Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev</a></h3>
-<p>Opper&#39;s JevMan is a PacMan-style benchmark game that demonstrates AI decision model capabilities, named after TypeSafe AI&#39;s Jev. It has been covered by TechCrunch, letting users watch models play or take them on themselves.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>Opper</strong> · @opperai</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xasten/status/2113603146945823034"><img src="https://pbs.twimg.com/media/HVUCPOhbkAAT8Pg?format=jpg&amp;name=medium" alt="Classified 64,946 GitHub repos with Jev for under $2 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xasten/status/2113603146945823034">Classified 64,946 GitHub repos with Jev for under $2</a></h3>
+<p>The author used TypeSafe&#39;s Jev to classify 64,946 GitHub repositories for under $2, sharing findings that AI agent projects outnumber all robotics, image, video, audio, vision, 3D, and multimodal projects combined, with AI coding also prominent.</p>
+<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><strong>Asten</strong> · @0xasten</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/TheDistanceHQ/status/2113556215070376208"><img src="https://pbs.twimg.com/media/HVTcK5pWoAAyPvc?format=png&amp;name=900x900" alt="Jev Becomes Vercel&#39;s Fastest-Adopted AI Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TheDistanceHQ/status/2113556215070376208">Jev Becomes Vercel&#39;s Fastest-Adopted AI Model</a></h3>
-<p>The Distance&#39;s weekly round-up mentions that Jev became Vercel&#39;s fastest-adopted AI model.</p>
-<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
-<p><strong>The Distance App Developers</strong> · @TheDistanceHQ</p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
+<a href="https://x.com/VengeonsP/status/2113584211768852615"><img src="https://pbs.twimg.com/media/HVT1na1WMAAE95_?format=jpg&amp;name=medium" alt="Achieve SEO Growth with Jev: 44,400 clicks in 16 months · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/VengeonsP/status/2113584211768852615">Achieve SEO Growth with Jev: 44,400 clicks in 16 months</a></h3>
+<p>The author shares their SEO method for a website and suggests handing the article to Grok Bot and Jev to work overnight, showing Jev in content optimization and website traffic growth.</p>
+<p><strong>172</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 172</p>
+<p><strong>Paul Vengeons</strong> · @VengeonsP</p>
 </td>
 </tr>
 </table>

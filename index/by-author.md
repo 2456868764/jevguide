@@ -44,6 +44,7 @@
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
 - [Jason Zhu](../authors/jason-zhu.md) — 7
 - [kiosa](../authors/kiosa.md) — 7
+- [Kurt](../authors/kurt.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 7
 - [rewind](../authors/rewind.md) — 7
@@ -61,7 +62,6 @@
 - [Doug Finke](../authors/doug-finke.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [hev mind](../authors/hev-mind.md) — 6
-- [Kurt](../authors/kurt.md) — 6
 - [Maziyar PANAHI](../authors/maziyar-panahi.md) — 6
 - [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 6
 - [Michael](../authors/michael.md) — 6
@@ -420,6 +420,7 @@
 - [Artificial Intelligence Papers](../authors/artificial-intelligence-papers.md) — 2
 - [ARおじさん / MESON CEO](../authors/ar-meson-ceo.md) — 2
 - [Assem](../authors/assem.md) — 2
+- [Asten](../authors/asten.md) — 2
 - [athrv.sh](../authors/athrv-sh.md) — 2
 - [atomic.chat](../authors/atomic-chat.md) — 2
 - [attrip](../authors/attrip.md) — 2
@@ -666,12 +667,14 @@
 - [Nick](../authors/nick.md) — 2
 - [Nick Lo](../authors/nick-lo.md) — 2
 - [Nidhi Singh](../authors/nidhi-singh.md) — 2
+- [Niels Rogge](../authors/niels-rogge.md) — 2
 - [Nikhil Shah MBBS DNB(IM, Neph)🇨🇦](../authors/nikhil-shah-mbbs-dnb-im-neph.md) — 2
 - [Niklas](../authors/niklas.md) — 2
 - [Nikolaj Sokolowski](../authors/nikolaj-sokolowski.md) — 2
 - [Niko爱学习](../authors/niko爱学习.md) — 2
 - [Nikunj Kothari](../authors/nikunj-kothari.md) — 2
 - [Nilay Coskun](../authors/nilay-coskun.md) — 2
+- [nOnEpcbl.](../authors/nonepcbl.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
 - [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 2
 - [Ochob](../authors/ochob.md) — 2
@@ -1238,7 +1241,6 @@
 - [Aslam Doctor](../authors/aslam-doctor.md) — 1
 - [Assaf Elovic](../authors/assaf-elovic.md) — 1
 - [Assu_Bhadhu](../authors/assu-bhadhu.md) — 1
-- [Asten](../authors/asten.md) — 1
 - [Aswin Manohar](../authors/aswin-manohar.md) — 1
 - [Ata Herrera 🇦🇷](../authors/ata-herrera.md) — 1
 - [Atai Barkai](../authors/atai-barkai.md) — 1
@@ -2193,6 +2195,7 @@
 - [Jinxiang Xie](../authors/jinxiang-xie.md) — 1
 - [Jiri Nohejl](../authors/jiri-nohejl.md) — 1
 - [Jishan](../authors/jishan.md) — 1
+- [JJ Eaton](../authors/jj-eaton.md) — 1
 - [JK](../authors/jk.md) — 1
 - [JMZ](../authors/jmz.md) — 1
 - [jo32](../authors/jo32.md) — 1
@@ -2789,7 +2792,6 @@
 - [nicolay](../authors/nicolay.md) — 1
 - [Nicolò Boschi](../authors/nicolo-boschi.md) — 1
 - [Niels Bantilan](../authors/niels-bantilan.md) — 1
-- [Niels Rogge](../authors/niels-rogge.md) — 1
 - [Nihat Ipekci](../authors/nihat-ipekci.md) — 1
 - [niji](../authors/niji.md) — 1
 - [Nik](../authors/nik.md) — 1
@@ -2821,7 +2823,6 @@
 - [nokia](../authors/nokia.md) — 1
 - [nolja$CP](../authors/nolja-cp.md) — 1
 - [Nomad Analyst](../authors/nomad-analyst.md) — 1
-- [nOnEpcbl.](../authors/nonepcbl.md) — 1
 - [North](../authors/north.md) — 1
 - [Not Another Bench](../authors/not-another-bench.md) — 1
 - [notdevin](../authors/notdevin.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 258 | 162 | 96 | 595K |
+| 260 | 163 | 97 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/paonx_eth/status/2109667711156428977"><img src="https://pbs.twimg.com/media/HUcLjabWAAAlyPy?format=jpg&amp;name=medium" alt="Build a Claude + Jev Money Lab with Opus 5.5 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/paonx_eth/status/2109667711156428977">Build a Claude + Jev Money Lab with Opus 5.5</a></h3>
+<p>The post shares a prompt that uses Opus 5.5 to set up Jev: it reads 5,000 live job posts, finds 3 niches where clients pay and few bids, and turns the run into a video.</p>
+<p><strong>中文摘要：</strong>帖子分享一个提示词，让 Opus 5.5 自动设置 Jev：读取 5000 条实时招聘帖子，找出客户付费且竞争少的 3 个利基市场，并将运行过程生成视频。</p>
+<p><strong>Paone</strong> · @paonx_eth · 2026-10-12T15:29:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 34</p>
+<p><a href="https://x.com/paonx_eth/status/2109667711156428977">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/deezzex/status/2109657739924263213"><img src="https://pbs.twimg.com/amplify_video_thumb/2109657595057205248/img/shBoZsZDGCDK0V56.jpg" alt="Jev + OpenAI Dots: Building an AI Side-Hustle Pipeline · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/deezzex/status/2109657739924263213">Jev + OpenAI Dots: Building an AI Side-Hustle Pipeline</a></h3>
+<p>A user shares how to use Jev with OpenAI Dots to run 4 AI workers, handling each order at $0.63 AI cost and reaching $4,000/month by day 22. The key is putting the most expensive model on review instead of shipping directly.</p>
+<p><strong>中文摘要：</strong>一位用户分享如何用 Jev 和 OpenAI Dots 配置 4 个 AI 工人，以 0.63 美元的 AI 成本处理每笔订单，22 天实现月入 4000 美元。重点是把最贵的模型放在审查环节，而非直接发货。</p>
+<p><strong>deezzex</strong> · @deezzex · 2026-10-12T14:49:35.000Z</p>
+<p>💬 7 &nbsp; 🔁 2 &nbsp; ♡ 28 &nbsp; 📊 431</p>
+<p><a href="https://x.com/deezzex/status/2109657739924263213">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fireandstart/status/2109640388478939591"><img src="https://pbs.twimg.com/amplify_video_thumb/2109631020773359616/img/zwJB_FzcmD-jDMDm.jpg" alt="Jev&#39;s Cost Advantage for Repetitive Judgments in Agent Workflows · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,155 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1111 | 455 | 661 | 3.0M |
+| 1123 | 462 | 666 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/small2huge/status/2113444541550440862"><img src="https://pbs.twimg.com/amplify_video_thumb/2113444498500132864/img/rR-RNUxn1xm-67Lu.jpg" alt="Hands-on with Jev: Decision-only model saves cost and boosts efficiency · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/small2huge/status/2113444541550440862">Hands-on with Jev: Decision-only model saves cost and boosts efficiency</a></h3>
+<p>Claire Vo tests Jev, a decision-focused model that returns only choices and scores: $0.04 per million input tokens, classifies 1,700 PRs for $0.09, and pre-sorts emails before passing them to a full LLM.</p>
+<p><strong>中文摘要：</strong>Claire Vo 实测 Jev 决策模型：只返回选项和分数，每百万 token 4 美分；9 美分分类 1700 个 PR；先分拣邮件再交给大模型精处理，展示判断题场景的价值。</p>
+<p><strong>蜗牛AI</strong> · @small2huge · 2026-10-23T01:36:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/small2huge/status/2113444541550440862">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeepInsightLabs/status/2109669307248681367"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DeepInsightLabs/status/2109669307248681367">Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt</a></h3>
+<p>Deep Insight Labs is working on Seldon AI to make AI apps cheaper, better, and faster. They are looking to connect with people interested in Clef, Jev, GLiNER, GLIDE, System One models, and decision models at TechCrunch Disrupt in SF.</p>
+<p><strong>中文摘要：</strong>Deep Insight Labs 正在开发 Seldon AI，旨在让 AI 应用更便宜、更好、更快，并在旧金山 TechCrunch Disrupt 上寻找对 Clef、Jev、GLiNER、GLIDE、System One 模型和决策模型感兴趣的人。</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs · 2026-10-12T15:35:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/DeepInsightLabs/status/2109669307248681367">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/latentspacepod/status/2109667901905027454"><img src="https://pbs.twimg.com/amplify_video_thumb/2109667451562594304/img/Ul8LKUL5mbIFNy-o.jpg" alt="Podcast Preview: High Taste Testers to Discuss Jev and AI Hot Topics · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/latentspacepod/status/2109667901905027454">Podcast Preview: High Taste Testers to Discuss Jev and AI Hot Topics</a></h3>
+<p>Latent.Space announces new show High Taste Testers; guests will discuss Jev, Grok, Claude, GPT, Gemini and hot topics.</p>
+<p><strong>中文摘要：</strong>Latent.Space 宣布新节目 High Taste Testers，嘉宾将讨论 Jev、Grok、Claude、GPT、Gemini 等热点话题。</p>
+<p><strong>Latent.Space</strong> · @latentspacepod · 2026-10-12T15:29:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 187</p>
+<p><a href="https://x.com/latentspacepod/status/2109667901905027454">在 X 查看原帖</a> · <a href="https://t.co/C6HdLcmlL4">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NewPaguinfo/status/2109666844370190688"><img src="https://pbs.twimg.com/media/HUcKxczbUAAnSGs?format=jpg&amp;name=medium" alt="Earning $IAI via $0G staking and sharing AI usage plans · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NewPaguinfo/status/2109666844370190688">Earning $IAI via $0G staking and sharing AI usage plans</a></h3>
+<p>A user shares that staking more $0G earns $IAI, accumulating $63 credits daily, suitable for Seedance, Astra/Fable5.1, and mentions Opus5.5 now available and plans to add Jev-like models.</p>
+<p><strong>中文摘要：</strong>用户分享通过更多 $0G 质押获得 $IAI，每天可积累 $63 信用，适合用于 Seedance、Astra/Fable5.1 等模型，并提到 Opus5.5 已出现，未来还将添加类似 Jev 的模型。</p>
+<p><strong>Paguinfo</strong> · @NewPaguinfo · 2026-10-12T15:25:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><a href="https://x.com/NewPaguinfo/status/2109666844370190688">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/soupsranjan/status/2109662047101448517"><img src="https://pbs.twimg.com/media/HUcGcs8aUAAyouB?format=jpg&amp;name=medium" alt="Jev as classifier in a personal agent setup · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soupsranjan/status/2109662047101448517">Jev as classifier in a personal agent setup</a></h3>
+<p>Soups Ranjan shares his personal agent setup: Jev handles classification, combined with the Hermes AI harness, Qwen open weights model, and NVIDIA DGX Spark, showing Jev applied in a local hardware workflow.</p>
+<p><strong>中文摘要：</strong>Soups Ranjan 分享其个人智能体方案：Jev 负责分类任务，配合 Hermes AI 框架、Qwen 模型与 NVIDIA DGX Spark，展示 Jev 在本地硬件工作流中的实际应用。</p>
+<p><strong>Soups Ranjan</strong> · @soupsranjan · 2026-10-12T15:06:42.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 16 &nbsp; 📊 301</p>
+<p><a href="https://x.com/soupsranjan/status/2109662047101448517">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nickbreaton/status/2109660665317335499"><img src="https://pbs.twimg.com/amplify_video_thumb/2109658810289684480/img/w-rfLlm-MyN8PDws.jpg" alt="Built a quick TLD search site using Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nickbreaton/status/2109660665317335499">Built a quick TLD search site using Jev</a></h3>
+<p>The author shares a quick site for searching top-level domains, built as a way to try out Jev.</p>
+<p><strong>中文摘要：</strong>作者分享了一个用于搜索顶级域名的快速小站，作为尝试 Jev 的实践。</p>
+<p><strong>Nick Breaton</strong> · @nickbreaton · 2026-10-12T15:01:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/nickbreaton/status/2109660665317335499">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ShrivuShankar/status/2109660053288419770"><img src="https://pbs.twimg.com/media/HUcD2Q-X0AEvQk5?format=jpg&amp;name=large" alt="Model comparison update: Haiku 5.5, MSFT Decision-1 vs Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ShrivuShankar/status/2109660053288419770">Model comparison update: Haiku 5.5, MSFT Decision-1 vs Jev</a></h3>
+<p>The author added results for Haiku 5.5 and MSFT Decision-1. Haiku performs poorly overall compared to Luna; MSFT Decision-1 is slightly worse than Jev but also slightly cheaper.</p>
+<p><strong>中文摘要：</strong>作者添加了Haiku 5.5与MSFT Decision-1的测评结果。Haiku整体表现不如Luna；MSFT Decision-1比Jev略差但价格也略便宜。</p>
+<p><strong>Shrivu Shankar</strong> · @ShrivuShankar · 2026-10-12T14:58:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 48</p>
+<p><a href="https://x.com/ShrivuShankar/status/2109660053288419770">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/withloveaal/status/2109653753754480915"><img src="https://pbs.twimg.com/amplify_video_thumb/2109653424950448129/img/fdbCfpP1qF-fJR00.jpg" alt="Jev vs luna-6-decisions for Classification Tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/withloveaal/status/2109653753754480915">Jev vs luna-6-decisions for Classification Tasks</a></h3>
+<p>Alisha shares her comparison of luna-6-decisions with Jev on classification tasks: 1.6x faster, 2.2x cheaper, with 94.4% agreement.</p>
+<p><strong>中文摘要：</strong>Alisha 分享了使用 luna-6-decisions 与 Jev 在分类任务上的对比：1.6 倍速度、2.2 倍成本优势，以及 94.4% 的一致性。</p>
+<p><strong>Alisha (aal)</strong> · @withloveaal · 2026-10-12T14:33:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/withloveaal/status/2109653753754480915">在 X 查看原帖</a> · <a href="https://t.co/sfSNsfTfCT">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pabloobraseroo/status/2109652807254937670"><img src="https://pbs.twimg.com/amplify_video_thumb/2100190298521337856/img/p7O80DWbiTZbxLWx.jpg" alt="Discussion on Jev&#39;s Real-World Uses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pabloobraseroo/status/2109652807254937670">Discussion on Jev&#39;s Real-World Uses</a></h3>
+<p>The post asks whether Jev is really as good as claimed and invites people to share their real use cases and experiences.</p>
+<p><strong>中文摘要：</strong>帖子询问 Jev 是否真的如传闻中那样出色，并邀请大家分享实际使用体验和真实用途。</p>
+<p><strong>Pablo Brasero</strong> · @pabloobraseroo · 2026-10-12T14:29:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/pabloobraseroo/status/2109652807254937670">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/N8Programs/status/2109652389246501277"><img src="https://pbs.twimg.com/media/HUb87-TWQAECXDP?format=jpg&amp;name=medium" alt="Jev outperforms Microsoft Decision-1 across all 11 benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/N8Programs/status/2109652389246501277">Jev outperforms Microsoft Decision-1 across all 11 benchmarks</a></h3>
+<p>A community post highlights that TypeSafe AI&#39;s Jev outperforms Microsoft&#39;s Decision-1 on 11 of 11 benchmarks. The author notes that while mimicking Jev&#39;s output format is easy, truly matching its performance is difficult, citing GPT-5.6 Terra tier intelligence.</p>
+<p><strong>中文摘要：</strong>社区帖子提到，TypeSafe AI 的 Jev 在 11 项基准测试中全部优于 Microsoft 的 Decision-1。作者指出，让模型输出类似 Jev 的格式很容易，但真正匹配 Jev 的性能很难，并称其具备 GPT-5.6 Terra 级别的智能。</p>
+<p><strong>N8 Programs</strong> · @N8Programs · 2026-10-12T14:28:19.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 102</p>
+<p><a href="https://x.com/N8Programs/status/2109652389246501277">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Daniel035535591/status/2109651999566541157"><img src="https://pbs.twimg.com/amplify_video_thumb/2109412179531227137/img/AeHNf4tQCsA10aMV.jpg" alt="Jev and Opus Team Up to Cut Costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Daniel035535591/status/2109651999566541157">Jev and Opus Team Up to Cut Costs</a></h3>
+<p>A user shares how Jev handles option selection while Opus tackles hard reasoning, saving $106 per day and cutting team costs significantly.</p>
+<p><strong>中文摘要：</strong>用户分享Jev负责选项选择、Opus处理复杂推理，每日节省106美元，显著降低团队成本。</p>
+<p><strong>Daniel</strong> · @Daniel035535591 · 2026-10-12T14:26:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/Daniel035535591/status/2109651999566541157">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zekiworks/status/2109644529355940333"><img src="https://pbs.twimg.com/media/HUb2eIRWkAAoAFQ?format=jpg&amp;name=medium" alt="Celeris-1 Ties with Jev in Decision Model Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zekiworks/status/2109644529355940333">Celeris-1 Ties with Jev in Decision Model Comparison</a></h3>
+<p>Zeki Works reports Celeris-1 is not weak: among 17 decision models, it trails GLiDE and Decider v1.1, showed no difference from 5 others including Luna (Decisions API) and Jev, and beats 9 self-hosted models.</p>
+<p><strong>中文摘要：</strong>Zeki Works 发布对比：Celeris-1 在 17 个决策模型中位列 GLiDE 和 Decider v1.1 之后，与 Luna（Decisions API）和 Jev 等 5 个模型无显著差异，并优于 9 个自托管模型。</p>
+<p><strong>Zeki Works</strong> · @zekiworks · 2026-10-12T13:57:05.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 16</p>
+<p><a href="https://x.com/zekiworks/status/2109644529355940333">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zekiworks/status/2109641186499506272"><img src="https://pbs.twimg.com/media/HUbzb-6XkAEHywZ?format=jpg&amp;name=medium" alt="Jev High-Confidence Accuracy Comparison · 原帖图片" width="100%"></a>

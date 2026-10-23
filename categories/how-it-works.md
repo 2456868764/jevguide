@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 568 | 246 | 323 | 1.6M |
+| 570 | 247 | 324 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xbnd/status/2109666044583276829"><img src="https://pbs.twimg.com/media/HUcKFnfW4AAcy9X?format=png&amp;name=medium" alt="Jev and other decision models stay flat from 1 to 40 questions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xbnd/status/2109666044583276829">Jev and other decision models stay flat from 1 to 40 questions</a></h3>
+<p>The author timed 24 decision models on 6 hosts. Clef Omni, Jev, Luna, d1, Span-01, and Microsoft-Decision-1 answer in about 0.2-0.4 seconds and remain flat from 1 to 40 questions per call, hinting at an efficiency edge over chat LLMs.</p>
+<p><strong>中文摘要：</strong>作者测算了 24 个决策模型在 6 台主机上的响应时间，其中 Clef Omni、Jev、Luna、d1、Span-01 和 Microsoft-Decision-1 在每次调用 1 到 40 个问题的情况下都保持约 0.2-0.4 秒的稳定延迟，暗示比聊天大语言模型更具效率优势。</p>
+<p><strong>Peter Banda</strong> · @0xbnd · 2026-10-12T15:22:35.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/0xbnd/status/2109666044583276829">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xSheepy/status/2109665897711362351"><img src="https://pbs.twimg.com/amplify_video_thumb/2109597242822950912/img/Wka_rm2nu1AybROS.jpg" alt="Jev: The AI Agent Model That Never Speaks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xSheepy/status/2109665897711362351">Jev: The AI Agent Model That Never Speaks</a></h3>
+<p>Introducing TypeSafe&#39;s Jev model, which doesn&#39;t generate text but returns typed answers with probabilities, such as yes/no, options, or scores.</p>
+<p><strong>中文摘要：</strong>介绍TypeSafe的Jev模型，它不生成文本，只返回带有概率的类型化答案，如是否、选项或分数。</p>
+<p><strong>Sheepy</strong> · @0xSheepy · 2026-10-12T15:22:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><a href="https://x.com/0xSheepy/status/2109665897711362351">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/plutos_eth/status/2109634311003541657"><img src="https://pbs.twimg.com/amplify_video_thumb/2109634154757242881/img/WT3YKi1QiZQhPxJM.jpg" alt="Jev&#39;s Divide and Rule: Separating Writing from Decision · 原帖视频截图" width="100%"></a>

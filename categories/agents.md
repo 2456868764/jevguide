@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 475 | 265 | 212 | 3.0M |
+| 477 | 266 | 213 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/realNatalieFort/status/2109662076914249892"><img src="https://pbs.twimg.com/amplify_video_thumb/2109652730641829888/img/e7lYHtPeZYimZcOZ.jpg" alt="Using Jev as a Decision Layer to Cut Agent Call Costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/realNatalieFort/status/2109662076914249892">Using Jev as a Decision Layer to Cut Agent Call Costs</a></h3>
+<p>The author notes that 24/7 agents generate significant cost from meaningless reasoning, and inserts Jev as a typed decision layer to filter noise before calls.</p>
+<p><strong>中文摘要：</strong>作者指出 24/7 Agent 的高频调用产生大量无意义推理成本，于是将 Jev 插入为类型化决策层，在调用前过滤噪声。</p>
+<p><strong>natalie</strong> · @realNatalieFort · 2026-10-12T15:06:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 295</p>
+<p><a href="https://x.com/realNatalieFort/status/2109662076914249892">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NetMindAI/status/2109644852044689863"><img src="https://pbs.twimg.com/media/HUb20C5akAAJxUI?format=jpg&amp;name=medium" alt="Jev 1.13: Low-cost Decisions for Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NetMindAI/status/2109644852044689863">Jev 1.13: Low-cost Decisions for Agents</a></h3>
+<p>On NetMind, Jev 1.13 costs $0 per 1M output tokens and $0.042 per 1M input tokens. Jev returns typed decisions with probabilities, allowing plain code to act on the judgments inside agent loops.</p>
+<p><strong>中文摘要：</strong>在 NetMind 上，Jev 1.13 输出每百万 token 收费 $0，输入每百万 $0.042。Jev 返回带有概率的类型化决策，便于代码直接处理智能体循环中的判断。</p>
+<p><strong>NetMind.AI</strong> · @NetMindAI · 2026-10-12T13:58:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 653</p>
+<p><a href="https://x.com/NetMindAI/status/2109644852044689863">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Bober_smart/status/2109634030035501079"><img src="https://pbs.twimg.com/amplify_video_thumb/2109633990080544769/img/rYygLxNJff5Tls0y.jpg" alt="400 AI Agents Run in Parallel with Jev Backend Verification · 原帖视频截图" width="100%"></a>

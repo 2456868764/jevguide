@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 614 | 307 | 309 | 3.6M |
+| 616 | 307 | 311 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MLflow/status/2109665792778277372"><img src="https://pbs.twimg.com/media/HUcJwIpXcAE8NGw?format=jpg&amp;name=medium" alt="MLflow 3.17 Supports TypeSafe Jev Models as Judges · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MLflow/status/2109665792778277372">MLflow 3.17 Supports TypeSafe Jev Models as Judges</a></h3>
+<p>In MLflow 3.17, TypeSafe&#39;s Jev models can serve as yes/no judges, avoiding slow and expensive general-purpose LLM calls on every row. Keep your existing mlflow.genai.evaluate() flow and set model=&quot;typesafe:/jev-latest&quot; on make_judge().</p>
+<p><strong>中文摘要：</strong>MLflow 3.17 中，TypeSafe 的 Jev 模型可作为 yes/no 评估器，替代每行调用通用 LLM 的方式，提升速度并降低成本。沿用现有 mlflow.genai.evaluate() 流程，只需在 make_judge() 中设置 model=&quot;typesafe:/jev-latest&quot;。</p>
+<p><strong>MLflow</strong> · @MLflow · 2026-10-12T15:21:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 101</p>
+<p><a href="https://x.com/MLflow/status/2109665792778277372">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Praveen_p_a_l/status/2109662274160034144"><img src="https://pbs.twimg.com/media/HUcGp8taUAAJkzv?format=jpg&amp;name=900x900" alt="User asks whether JEV supports embeddings · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Praveen_p_a_l/status/2109662274160034144">User asks whether JEV supports embeddings</a></h3>
+<p>A developer asks whether TypeSafe&#39;s JEV model can do embeddings, or if there is an alternative, to reduce dependence on RunPod.</p>
+<p><strong>中文摘要：</strong>一位开发者询问 TypeSafe 的 JEV 模型是否可以做 embeddings，或者是否有替代方案，以降低对 RunPod 的依赖。</p>
+<p><strong>Praveen Pal</strong> · @Praveen_p_a_l · 2026-10-12T15:07:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/Praveen_p_a_l/status/2109662274160034144">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LysandreJik/status/2109631324751585675"><img src="https://pbs.twimg.com/amplify_video_thumb/2109627556299513856/img/AA4NRWpbsMY5Ip3s.jpg" alt="Turn any model into a JEV-like decision model with transformers serve · 原帖视频截图" width="100%"></a>

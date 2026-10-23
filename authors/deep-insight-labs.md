@@ -1,9 +1,10 @@
 # Deep Insight Labs
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T15:35:33.000Z | [Deep Insight Labs Seeking Jev & System One Connections at TechCrunch Disrupt](https://x.com/DeepInsightLabs/status/2109669307248681367) | 社区实践 | Deep Insight Labs | 2 |
 | 2026-10-11T23:12:40.000Z | [Deep Insight Labs seeks community connections around Jev and System One models](https://x.com/DeepInsightLabs/status/2109421958542840202) | 社区实践 | Deep Insight Labs | 71 |
 | 2026-09-29 | [Jev said to require code rewrites; Seldon claims app-wide fix compilation](https://x.com/DeepInsightLabs/status/2104753027135791455) | 开发者工具 | Deep Insight Labs | 10 |
 | 2026-09-28 | [Jev Launch: AI's Core Is Decisions](https://x.com/DeepInsightLabs/status/2104405594124001492) | 产品发布 | Deep Insight Labs | 32 |

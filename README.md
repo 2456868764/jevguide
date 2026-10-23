@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5996</strong><br>curated posts</td>
-<td align="center"><strong>3004</strong><br>original videos</td>
+<td align="center"><strong>6029</strong><br>curated posts</td>
+<td align="center"><strong>3016</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1111</strong> showcases · <strong>455</strong> videos</p>
+<p><strong>1123</strong> showcases · <strong>462</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>614</strong> showcases · <strong>307</strong> videos</p>
+<p><strong>616</strong> showcases · <strong>307</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>568</strong> showcases · <strong>246</strong> videos</p>
+<p><strong>570</strong> showcases · <strong>247</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>511</strong> showcases · <strong>224</strong> videos</p>
+<p><strong>514</strong> showcases · <strong>224</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>475</strong> showcases · <strong>265</strong> videos</p>
+<p><strong>477</strong> showcases · <strong>266</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>406</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>407</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>370</strong> showcases · <strong>150</strong> videos</p>
+<p><strong>373</strong> showcases · <strong>150</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>304</strong> showcases · <strong>177</strong> videos</p>
+<p><strong>307</strong> showcases · <strong>179</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>258</strong> showcases · <strong>162</strong> videos</p>
+<p><strong>260</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>117</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>118</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>99</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>100</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>67</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>68</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/zekiworks/status/2109641796951126238"><img src="https://pbs.twimg.com/media/HUbz-YRW4AATjS-?format=jpg&amp;name=medium" alt="Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/zekiworks/status/2109641796951126238">Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions</a></h3>
-<p>A third-party evaluation asked all 2,198 questions five times. Decider v1.1 never changed an answer but got the same wrong answer 728 times; Jev changed 314 times, d1 217 times, and Celeris-1 206 times.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Zeki Works</strong> · @zekiworks</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/Vectorizeio/status/2113454122150056392"><img src="https://pbs.twimg.com/media/HVR_UwSWIAAYfiS?format=jpg&amp;name=medium" alt="Vectorize Adds Jev as a Reranker Provider · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Vectorizeio/status/2113454122150056392">Vectorize Adds Jev as a Reranker Provider</a></h3>
+<p>Hindsight 0.10.1 adds Jev as a reranker provider. Jev produces no text; you send a passage and a typed question, and get back a typed answer with calibrated probability.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>Vectorize</strong> · @Vectorizeio</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/zekiworks/status/2109641186499506272"><img src="https://pbs.twimg.com/media/HUbzb-6XkAEHywZ?format=jpg&amp;name=medium" alt="Jev High-Confidence Accuracy Comparison · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/zekiworks/status/2109641186499506272">Jev High-Confidence Accuracy Comparison</a></h3>
-<p>Zeki Works shares test results: keeping only answers a model is at least 99% sure of. Decider v1.1 answered 349 correctly, Jev had 1 wrong out of 312, and Luna had 3 wrong out of 368.</p>
-<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Zeki Works</strong> · @zekiworks</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/small2huge/status/2113444541550440862"><img src="https://pbs.twimg.com/amplify_video_thumb/2113444498500132864/img/rR-RNUxn1xm-67Lu.jpg" alt="Hands-on with Jev: Decision-only model saves cost and boosts efficiency · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/small2huge/status/2113444541550440862">Hands-on with Jev: Decision-only model saves cost and boosts efficiency</a></h3>
+<p>Claire Vo tests Jev, a decision-focused model that returns only choices and scores: $0.04 per million input tokens, classifies 1,700 PRs for $0.09, and pre-sorts emails before passing them to a full LLM.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>蜗牛AI</strong> · @small2huge</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/bl888m_eth/status/2109640678745792906"><img src="https://pbs.twimg.com/amplify_video_thumb/2109639993614614528/img/d1HMXzCUnJZyN_21.jpg" alt="Trading bot cost rant: $412/month for 4-minute polling via Jev API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/bl888m_eth/status/2109640678745792906">Trading bot cost rant: $412/month for 4-minute polling via Jev API</a></h3>
-<p>A user complains that trading bots wake up 11,520 times a month with almost nothing changed; at Jev API rates, running every 4 minutes costs about $412/month, while every 20 minutes drops it to $82 — a 5x cost difference.</p>
-<p><strong>109</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 109</p>
-<p><strong>bl888m</strong> · @bl888m_eth</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/EGafni/status/2113429987504382198"><img src="https://pbs.twimg.com/media/HVRpD5daEAAY2GL?format=jpg&amp;name=medium" alt="Workday&#39;s engagement with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/EGafni/status/2113429987504382198">Workday&#39;s engagement with Jev</a></h3>
+<p>This post mentions that Workday has been working with Jev, with a link provided for more details.</p>
+<p><strong>2.0K</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 20 &nbsp; 📊 2.0K</p>
+<p><strong>Erik Spock Gafni (hiring!)</strong> · @EGafni</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/fireandstart/status/2109640388478939591"><img src="https://pbs.twimg.com/amplify_video_thumb/2109631020773359616/img/zwJB_FzcmD-jDMDm.jpg" alt="Jev&#39;s Cost Advantage for Repetitive Judgments in Agent Workflows · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/fireandstart/status/2109640388478939591">Jev&#39;s Cost Advantage for Repetitive Judgments in Agent Workflows</a></h3>
-<p>The post emphasizes that the key is not simply replacing expensive models with cheaper ones, but extracting the many repetitive, well-structured judgments in agent workflows. For example, for 10,000 binary judgments, Jev input cost is about $0.42 compared to about $40 for Opus.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>星星之火可以燎原</strong> · @fireandstart</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DeepInsightLabs/status/2109669307248681367"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DeepInsightLabs/status/2109669307248681367">Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt</a></h3>
+<p>Deep Insight Labs is working on Seldon AI to make AI apps cheaper, better, and faster. They are looking to connect with people interested in Clef, Jev, GLiNER, GLIDE, System One models, and decision models at TechCrunch Disrupt in SF.</p>
+<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/zekiworks/status/2109641796951126238"><img src="https://pbs.twimg.com/media/HUbz-YRW4AATjS-?format=jpg&amp;name=medium" alt="Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/zekiworks/status/2109641796951126238">Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions</a></h3>
-<p>A third-party evaluation asked all 2,198 questions five times. Decider v1.1 never changed an answer but got the same wrong answer 728 times; Jev changed 314 times, d1 217 times, and Celeris-1 206 times.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Zeki Works</strong> · @zekiworks</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/Vectorizeio/status/2113454122150056392"><img src="https://pbs.twimg.com/media/HVR_UwSWIAAYfiS?format=jpg&amp;name=medium" alt="Vectorize Adds Jev as a Reranker Provider · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Vectorizeio/status/2113454122150056392">Vectorize Adds Jev as a Reranker Provider</a></h3>
+<p>Hindsight 0.10.1 adds Jev as a reranker provider. Jev produces no text; you send a passage and a typed question, and get back a typed answer with calibrated probability.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>Vectorize</strong> · @Vectorizeio</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/fireandstart/status/2109640388478939591"><img src="https://pbs.twimg.com/amplify_video_thumb/2109631020773359616/img/zwJB_FzcmD-jDMDm.jpg" alt="Jev&#39;s Cost Advantage for Repetitive Judgments in Agent Workflows · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/fireandstart/status/2109640388478939591">Jev&#39;s Cost Advantage for Repetitive Judgments in Agent Workflows</a></h3>
-<p>The post emphasizes that the key is not simply replacing expensive models with cheaper ones, but extracting the many repetitive, well-structured judgments in agent workflows. For example, for 10,000 binary judgments, Jev input cost is about $0.42 compared to about $40 for Opus.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>星星之火可以燎原</strong> · @fireandstart</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DeepInsightLabs/status/2109669307248681367"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DeepInsightLabs/status/2109669307248681367">Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt</a></h3>
+<p>Deep Insight Labs is working on Seldon AI to make AI apps cheaper, better, and faster. They are looking to connect with people interested in Clef, Jev, GLiNER, GLIDE, System One models, and decision models at TechCrunch Disrupt in SF.</p>
+<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/TelepathicPug/status/2109639660779573634"><img src="https://pbs.twimg.com/media/HUbyF3dXgAAqgIZ?format=jpg&amp;name=900x900" alt="Classic riddle setup in the Jev playground · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TelepathicPug/status/2109639660779573634">Classic riddle setup in the Jev playground</a></h3>
-<p>The post shows an example setup inside the Jev playground, using the classic bat-and-ball question to illustrate how a trick prompt is configured in the Jev interface.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
-<p><strong>TelepathicPug</strong> · @TelepathicPug</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/latentspacepod/status/2109667901905027454"><img src="https://pbs.twimg.com/amplify_video_thumb/2109667451562594304/img/Ul8LKUL5mbIFNy-o.jpg" alt="Podcast Preview: High Taste Testers to Discuss Jev and AI Hot Topics · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/latentspacepod/status/2109667901905027454">Podcast Preview: High Taste Testers to Discuss Jev and AI Hot Topics</a></h3>
+<p>Latent.Space announces new show High Taste Testers; guests will discuss Jev, Grok, Claude, GPT, Gemini and hot topics.</p>
+<p><strong>187</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 187</p>
+<p><strong>Latent.Space</strong> · @latentspacepod</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2109634311003541657"><img src="https://pbs.twimg.com/amplify_video_thumb/2109634154757242881/img/WT3YKi1QiZQhPxJM.jpg" alt="Jev&#39;s Divide and Rule: Separating Writing from Decision · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2109634311003541657">Jev&#39;s Divide and Rule: Separating Writing from Decision</a></h3>
-<p>A community post explains Jev&#39;s core idea: AI apps should separate content generation from task routing/decision-making, enabling a clearer division of labor.</p>
-<p><strong>747</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 747</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/MLflow/status/2109665792778277372"><img src="https://pbs.twimg.com/media/HUcJwIpXcAE8NGw?format=jpg&amp;name=medium" alt="MLflow 3.17 Supports TypeSafe Jev Models as Judges · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MLflow/status/2109665792778277372">MLflow 3.17 Supports TypeSafe Jev Models as Judges</a></h3>
+<p>In MLflow 3.17, TypeSafe&#39;s Jev models can serve as yes/no judges, avoiding slow and expensive general-purpose LLM calls on every row. Keep your existing mlflow.genai.evaluate() flow and set model=&quot;typesafe:/jev-latest&quot; on make_judge().</p>
+<p><strong>101</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 101</p>
+<p><strong>MLflow</strong> · @MLflow</p>
 </td>
 </tr>
 </table>

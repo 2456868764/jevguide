@@ -1,9 +1,10 @@
 # kiosa
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T15:08:00.000Z | [A Jev-Powered Trading Loop Is Now Open Source](https://x.com/thegreatest_sv/status/2109662374403727630) | 金融 | kiosa | 239 |
 | 2026-10-12T12:05:00.000Z | [Jev: A Decision Brain for Claude](https://x.com/thegreatest_sv/status/2109616321973391680) | 开发者工具 | kiosa | 738 |
 | 2026-10-02T15:09:00.000Z | [Building an Automated Newsroom with Grok and JEV](https://x.com/thegreatest_sv/status/2106038747485855844) | 自动化工作流 | kiosa | 0 |
 | 2026-10-02T12:11:23.000Z | [JEV used by engineers for drones and robot arms](https://x.com/thegreatest_sv/status/2105994047810670818) | 机器人 | kiosa | 64 |

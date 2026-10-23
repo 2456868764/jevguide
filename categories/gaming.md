@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 371 | 281 | 94 | 588K |
+| 373 | 283 | 94 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xL1C10G/status/2109599978951774315"><img src="https://pbs.twimg.com/amplify_video_thumb/2109310155066400768/img/9T6c7zoqFlUiGy1E.jpg" alt="TypeSafe Jev in Street Fighter 2: AI Battle Turns into Hadouken Spam · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xL1C10G/status/2109599978951774315">TypeSafe Jev in Street Fighter 2: AI Battle Turns into Hadouken Spam</a></h3>
+<p>The author pitted two DecisionModels against each other in Street Fighter 2, giving only visual info and rules, no combat hints. Both OpenAI Decisions API (RYU) and TypeSafe Jev (KEN) chose safe long-range attacks, resulting in a passive hadouken exchange.</p>
+<p><strong>中文摘要：</strong>作者用两个 DecisionModel 对战街霸2，仅提供画面信息和规则，不给出战斗提示。结果 OpenAI Decisions API（RYU）和 TypeSafe Jev（KEN）都选择安全远程攻击，形成互相发波动拳的保守局面。</p>
+<p><strong>0xL1C10G | CAD × AI Agent</strong> · @0xL1C10G · 2026-10-12T11:00:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/0xL1C10G/status/2109599978951774315">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SupersocksIntel/status/2109591090206556160"><img src="https://pbs.twimg.com/amplify_video_thumb/2109585118746804225/img/Sj_s2IK-ZHlnCa8a.jpg" alt="Chess Benchmark: Jev vs Clef · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SupersocksIntel/status/2109591090206556160">Chess Benchmark: Jev vs Clef</a></h3>
+<p>Third-party benchmark of Jev vs Clef in chess, including Elo tables, confidence bins, latency and cost comparisons (~$0.14–0.16 per 100 games for Jev), plus 300 PGNs and a replay viewer.</p>
+<p><strong>中文摘要：</strong>第三方发布的 Jev 与 Clef 国际象棋基准测试，包含 Elo 表、置信区间、延迟和成本对比（Jev 每 100 局约 $0.14–0.16），并提供 300 个 PGN 与重放查看器。</p>
+<p><strong>Supersocks Intelligent</strong> · @SupersocksIntel · 2026-10-12T10:24:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/SupersocksIntel/status/2109591090206556160">在 X 查看原帖</a> · <a href="https://t.co/nieiOxEHjr">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yprkemrullah/status/2109313686368039127"><img src="https://pbs.twimg.com/amplify_video_thumb/2109313079901118464/img/JteQvd9mnOZKy1r7.jpg" alt="Using Jev to Play 101 Okey in the Browser · 原帖视频截图" width="100%"></a>

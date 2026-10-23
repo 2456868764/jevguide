@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 298 | 175 | 125 | 1.2M |
+| 300 | 176 | 126 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/1kleos1/status/2109608972378329365"><img src="https://pbs.twimg.com/amplify_video_thumb/2109608188030963712/img/X6JyThTYrWhbWvMN.jpg" alt="Grok and Jev Team Up to Auto-Snipe Memecoin Scams in Real Time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/1kleos1/status/2109608972378329365">Grok and Jev Team Up to Auto-Snipe Memecoin Scams in Real Time</a></h3>
+<p>A user shares their trading bot setup: Grok acts as the eyes reading a massive feed of Memecoin posts on X, while Jev, a tiny AI judge, outputs only yes/no to snipe rug scams before they hit.</p>
+<p><strong>中文摘要：</strong>一位用户分享其交易机器人架构：Grok 作为“眼睛”读取 X 上每分钟海量 Memecoin 帖子，Jev 作为微型 AI 判断器只输出是/否，在 Rug 骗局造成影响前完成狙击。</p>
+<p><strong>1kleos1</strong> · @1kleos1 · 2026-10-12T11:35:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><a href="https://x.com/1kleos1/status/2109608972378329365">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KEI_WorldTrader/status/2109596843693019268"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2109596747559489536/pu/img/fVRkp8omWUdfQRhS.jpg" alt="Jev&#39;s Reference Judgment on Gold: Bearish Advantage · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KEI_WorldTrader/status/2109596843693019268">Jev&#39;s Reference Judgment on Gold: Bearish Advantage</a></h3>
+<p>A heated debate on whether XAUUSD gold will close bullish or bearish, with both sides citing 50% technical and 50% fundamental factors. Jev&#39;s reference judgment favors the bearish side, warning of continued bearish momentum below the opening price of 4193.84, with a reassessment if that level is recovered.</p>
+<p><strong>中文摘要：</strong>围绕XAUUSD黄金收阳线还是阴线，多空双方以各50%的技术面与基本面展开激辩。Jev给出的参考判定为阴线派优势，提示若开盘价低于4193.84则警惕阴线延续，恢复该价位则需重新评估。</p>
+<p><strong>KEI トレード世界大会１位</strong> · @KEI_WorldTrader · 2026-10-12T10:47:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 1.2K</p>
+<p><a href="https://x.com/KEI_WorldTrader/status/2109596843693019268">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alfa123gg/status/2109577950605832681"><img src="https://pbs.twimg.com/media/HUa5QANXoAAax6E?format=jpg&amp;name=medium" alt="Build a 24/7 AI Trading System with Claude + Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alfa123gg/status/2109577950605832681">Build a 24/7 AI Trading System with Claude + Jev</a></h3>
+<p>This post shares a prompt to build an autonomous AI trading system from scratch using Claude Opus 5.5 and Jev, covering agents, strategies, and infrastructure.</p>
+<p><strong>中文摘要：</strong>该帖子分享了一个提示词，可利用 Claude Opus 5.5 与 Jev 从零构建自主 AI 交易系统，涵盖智能体、交易策略和基础设施。</p>
+<p><strong>Alfa123</strong> · @alfa123gg · 2026-10-12T09:32:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/alfa123gg/status/2109577950605832681">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/iBadley/status/2109420720044552441"><img src="https://pbs.twimg.com/amplify_video_thumb/2109420631611584512/img/wPqaWLFdyJfUjFc1.jpg" alt="TypeSafe Jev raises $870M at $7.5B valuation · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/iBadley/status/2109420720044552441">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OdysseyX6/status/2109390001104454135"><img src="https://pbs.twimg.com/amplify_video_thumb/2109389728021635072/img/23K2svsq-PFFUftH.jpg" alt="JEV live trading log: scanned 248 coins, skipped two traps · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 21</p>
 <p><a href="https://x.com/OdysseyX6/status/2109390001104454135">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xOrionVega/status/2109359520896221673"><img src="https://pbs.twimg.com/amplify_video_thumb/2109226235377102848/img/xNcWDSlgcS7nhHhZ.jpg" alt="Using Jev to Filter Fake News and Avoid False ETF Alerts · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 6 &nbsp; 🔁 5 &nbsp; ♡ 19 &nbsp; 📊 1.2K</p>
 <p><a href="https://x.com/0xOrionVega/status/2109359520896221673">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xGrimmer_/status/2109349323087462828"><img src="https://pbs.twimg.com/amplify_video_thumb/2109346789350408192/img/X82bRde4IWZtfyOr.jpg" alt="Jev Model Powers BTC Auto-Trading: Grok Agents Trade Both Sides · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 4 &nbsp; 🔁 4 &nbsp; ♡ 39 &nbsp; 📊 2.1K</p>
 <p><a href="https://x.com/0xGrimmer_/status/2109349323087462828">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bl888m_eth/status/2109318830220824795"><img src="https://pbs.twimg.com/media/HUXODxSaAAAQ73a?format=jpg&amp;name=medium" alt="Jev for Building Trading Bots · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 202</p>
 <p><a href="https://x.com/bl888m_eth/status/2109318830220824795">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/makiriss/status/2109311209371488741"><img src="https://pbs.twimg.com/amplify_video_thumb/2109311059412623360/img/RXiCOCN_4fAwzyg4.jpg" alt="Jev launched a week ago: traders already plugging it into order books and trading bots · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 219</p>
 <p><a href="https://x.com/makiriss/status/2109311209371488741">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DaveWangMIA/status/2109283300330422663"><img src="https://pbs.twimg.com/amplify_video_thumb/2109283127524999168/img/mxIqVdbFHb76l-cG.jpg" alt="Using Jev for Investment Analysis · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/DaveWangMIA/status/2109283300330422663">在 X 查看原帖</a> · <a href="https://t.co/pTyBzGv4M8">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Vespergzt/status/2109276582007406883"><img src="https://pbs.twimg.com/media/HUV0Jl8XQAALNQt?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M at $7.5B Valuation · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/Vespergzt/status/2109276582007406883">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIPulseNewsX/status/2109270875144876459"><img src="https://pbs.twimg.com/amplify_video_thumb/2109270821982121984/img/ZCDWoJSyd_ROJ76C.jpg" alt="TypeSafe&#39;s AI Model Jev Drives Company Valuation to $7.5B Within Three Weeks · 原帖视频截图" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 15</p>
 <p><a href="https://x.com/AIPulseNewsX/status/2109270875144876459">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/morbianai/status/2109267586412105794"><img src="https://pbs.twimg.com/amplify_video_thumb/2109267394547814401/img/veykJsOLX86K6zK2.jpg" alt="Jev Trading Desk: Managing Pre-Order Decisions · 原帖视频截图" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 67</p>
 <p><a href="https://x.com/morbianai/status/2109267586412105794">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cymm66/status/2109164164157509747"><img src="https://pbs.twimg.com/media/HUVBn1YXgAAyFGq?format=png&amp;name=360x360" alt="TypeSafe&#39;s $870M round led by a16z 24 days after launch · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 12 &nbsp; 🔁 0 &nbsp; ♡ 20 &nbsp; 📊 10K</p>
 <p><a href="https://x.com/cymm66/status/2109164164157509747">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FintechGate1/status/2108951872249774147"><img src="https://pbs.twimg.com/media/HUSAi9HWsAAmhjK?format=jpg&amp;name=medium" alt="TypeSafe AI Raises $870M to Develop Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 20</p>
 <p><a href="https://x.com/FintechGate1/status/2108951872249774147">在 X 查看原帖</a> · <a href="https://t.co/MdcgYRqE4m">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TactiXPanel/status/2108864416846418323"><img src="https://pbs.twimg.com/media/HUQxAK7WQAEGCdA?format=jpg&amp;name=medium" alt="Jev trades on Samsung Tablet for the first time · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/TactiXPanel/status/2108864416846418323">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Reed_soul/status/2108858244655673345"><img src="https://pbs.twimg.com/media/HUQrYm3bsAIvgZZ?format=jpg&amp;name=medium" alt="AI business K-shaped divergence: Jev&#39;s parent company valuation soars · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
 <p><a href="https://x.com/Reed_soul/status/2108858244655673345">在 X 查看原帖</a> · <a href="https://grok.com/imagine/post/d51bac7f-97c9-422b-833d-c35a046d5481">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xkurt/status/2108856096345457071"><img src="https://pbs.twimg.com/amplify_video_thumb/2108855811711664128/img/l3sWBiuSYvlh4pZh.jpg" alt="Open-Source Trading Stack with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +224,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 26</p>
 <p><a href="https://x.com/0xkurt/status/2108856096345457071">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/markolixcom/status/2108817233258684775"><img src="https://pbs.twimg.com/media/HUQGF56WIAA1R-s?format=png&amp;name=900x900" alt="Jev AI Model Reaches $7.5 Billion Valuation Weeks After Launch · 原帖图片" width="100%"></a>
 <br>
@@ -200,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/markolixcom/status/2108817233258684775">在 X 查看原帖</a> · <a href="https://t.co/TroplmCuk5">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sleepy0x13/status/2108746780145770928"><img src="https://pbs.twimg.com/amplify_video_thumb/2108603658510434304/img/3NMC825Nhz-jiyh8.jpg" alt="Comments on TypeSafe AI Valuation Narrative · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +248,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 397</p>
 <p><a href="https://x.com/sleepy0x13/status/2108746780145770928">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/codewithimanshu/status/2108740368422596809"><img src="https://pbs.twimg.com/amplify_video_thumb/2108740342883471362/img/6SMCsR3D9J40BbkS.jpg" alt="JEV Model Ignites AI Trading, Developer Builds Automated Trading Bot · 原帖视频截图" width="100%"></a>
 <br>
@@ -224,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 366</p>
 <p><a href="https://x.com/codewithimanshu/status/2108740368422596809">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sequoia/status/2108712705041608769"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="Sequoia Backs TypeSafe AI, Highlighting Jev Thinking-Machine Automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -237,6 +272,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 754</p>
 <p><a href="https://x.com/sequoia/status/2108712705041608769">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TradingbitAi/status/2108709430334472359"><img src="https://pbs.twimg.com/media/HUOkCpIaoAATQMJ?format=jpg&amp;name=medium" alt="Building an Automated Decision Quant Bot with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -248,8 +285,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/TradingbitAi/status/2108709430334472359">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Sprytixl/status/2108704202465685851"><img src="https://pbs.twimg.com/amplify_video_thumb/2108704164142264320/img/ML7QYmko_XzIqo2G.jpg" alt="Integrating JEV and Other AI Models into a Trading Agent · 原帖视频截图" width="100%"></a>
 <br>
@@ -261,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 180</p>
 <p><a href="https://x.com/Sprytixl/status/2108704202465685851">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Korxisi/status/2108677802149241086"><img src="https://pbs.twimg.com/amplify_video_thumb/2108677625191501824/img/uEuPjc2O7BJ0m1No.jpg" alt="Crawler Filters Before JEV: Day 12 Paper Run · 原帖视频截图" width="100%"></a>
 <br>
@@ -272,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 256</p>
 <p><a href="https://x.com/Korxisi/status/2108677802149241086">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RobxBroderick/status/2108598238144012527"><img src="https://pbs.twimg.com/amplify_video_thumb/2108594586310631424/img/wtFhbN7vPAvzU1k9.jpg" alt="TypeSafe AI Raises $870M Series A, Jev Launch Highlights · 原帖视频截图" width="100%"></a>
 <br>
@@ -285,6 +320,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 24</p>
 <p><a href="https://x.com/RobxBroderick/status/2108598238144012527">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cryptoflippod/status/2108589330252062831"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2108589162815504384/pu/img/DOekuRtmZY2agqhk.jpg" alt="Jev for Crypto Breakout Analysis · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/cryptoflippod/status/2108589330252062831">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PANewsCN/status/2108548213288645004"><img src="https://pbs.twimg.com/media/HUMRNNRbAAAl1B0?format=jpg&amp;name=small" alt="a16z Leads Investment, AI Decision-Making Model Jev Developer TypeSafe AI Valued at $7.5B · 原帖图片" width="100%"></a>
 <br>
@@ -309,6 +344,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 0 &nbsp; 📊 1.2K</p>
 <p><a href="https://x.com/PANewsCN/status/2108548213288645004">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/plutos_eth/status/2108527006279168494"><img src="https://pbs.twimg.com/amplify_video_thumb/2108526589906485248/img/_X0-P6SpBExF_43o.jpg" alt="Jev&#39;s Performance on Bank Message Classification · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 841</p>
 <p><a href="https://x.com/plutos_eth/status/2108527006279168494">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xMoysei/status/2108512736086794472"><img src="https://pbs.twimg.com/amplify_video_thumb/2108512261979447296/img/c3jl6Bff19Fs_TRZ.jpg" alt="JEV Agent Trading Performance Update · 原帖视频截图" width="100%"></a>
 <br>
@@ -333,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
 <p><a href="https://x.com/0xMoysei/status/2108512736086794472">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yessicaxbt/status/2108500234254844222"><img src="https://pbs.twimg.com/amplify_video_thumb/2108484693926547456/img/5aSe46hL4cL-1bIH.jpg" alt="Signal Desk Uses Jev for Crypto Alerts · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +381,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
 <p><a href="https://x.com/yessicaxbt/status/2108500234254844222">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xSammyAlpha/status/2108469262759161880"><img src="https://pbs.twimg.com/amplify_video_thumb/2108312830432743424/img/TDvgclJsfdNuiw3N.jpg" alt="Jev: Millisecond Trading Signals · 原帖视频截图" width="100%"></a>
 <br>
@@ -357,6 +392,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 41</p>
 <p><a href="https://x.com/0xSammyAlpha/status/2108469262759161880">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Quanbuilds/status/2108381078859747763"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2108381057368174592/pu/img/jaG_oyN6mfyu6upz.jpg" alt="Planning Refinance with Jev and ChatGPT · 原帖视频截图" width="100%"></a>
 <br>
@@ -368,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/Quanbuilds/status/2108381078859747763">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yonann/status/2108347208466886911"><img src="https://pbs.twimg.com/amplify_video_thumb/2108332123966828544/img/mdIPVhxIFlkJAwfX.jpg" alt="Developer Builds AI Trading Signal Bot with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -381,6 +416,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 338</p>
 <p><a href="https://x.com/yonann/status/2108347208466886911">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tribfifun/status/2108327654311268627"><img src="https://pbs.twimg.com/media/HUJHnXfWEAAQJQ1?format=jpg&amp;name=medium" alt="Ask Jev about tokens on Tribfi · 原帖图片" width="100%"></a>
 <br>
@@ -391,19 +428,6 @@
 <p><strong>Tribfi</strong> · @tribfifun · 2026-10-08T22:44:18.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 34</p>
 <p><a href="https://x.com/tribfifun/status/2108327654311268627">在 X 查看原帖</a> · <a href="https://t.co/jAxMqYfsXM">原文链接</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/Av1dlive/status/2108273753520230529"><img src="https://pbs.twimg.com/amplify_video_thumb/2108270916509880320/img/3GkvaJEYfIrbyUO7.jpg" alt="Building a Zero-Cost Quant Research Desk with Jev · 原帖视频截图" width="100%"></a>
-<br>
-<sub><code>金融</code> <code>原帖视频</code></sub>
-<h3><a href="https://x.com/Av1dlive/status/2108273753520230529">Building a Zero-Cost Quant Research Desk with Jev</a></h3>
-<p>A user runs 7 bots on a Mac with Jev, pulling news from 143 X accounts and RSS every 15 minutes. Jev scored 1,131 headlines today, with $0 data cost, and the setup took just one evening.</p>
-<p><strong>中文摘要：</strong>用户利用 Jev 在 Mac 上运行 7 个机器人，每 15 分钟从 143 个 X 账户和 RSS 拉取新闻，Jev 今天完成了 1131 条头条评分，数据成本为零，整个系统一个晚上即可搭建完成。</p>
-<p><strong>Avid</strong> · @Av1dlive · 2026-10-08T19:10:07.000Z</p>
-<p>💬 7 &nbsp; 🔁 4 &nbsp; ♡ 15 &nbsp; 📊 599</p>
-<p><a href="https://x.com/Av1dlive/status/2108273753520230529">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Seymxn/status/2108272338768896057"><img src="https://pbs.twimg.com/amplify_video_thumb/2108272245185404929/img/XXem2E8-QWt77uDo.jpg" alt="Jev-style invoice decisions in milliseconds · 原帖视频截图" width="100%"></a>

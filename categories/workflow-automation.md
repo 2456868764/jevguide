@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 253 | 159 | 94 | 595K |
+| 255 | 160 | 95 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AI_chosenki/status/2109592843123867713"><img src="https://pbs.twimg.com/amplify_video_thumb/2109588132375261184/img/RqqrikfYJjqfUSJd.jpg" alt="Jev API Test: 20 Emails Classified in 4.87 Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AI_chosenki/status/2109592843123867713">Jev API Test: 20 Emails Classified in 4.87 Seconds</a></h3>
+<p>A non-engineer user used the Jev API to classify 20 fictional emails (inquiries, complaints, thanks, etc.) in real time, completing the task in 4.87 seconds including communication time. The video is real-time footage.</p>
+<p><strong>中文摘要：</strong>非工程师用户通过Jev API对20封虚构邮件（咨询、投诉、感谢等）进行实时分类，包含通信耗时在内仅用4.87秒完成，视频为等速播放实测。</p>
+<p><strong>松本佑太｜スーパーのレジ打ちからAI企業へ｜非エンジニアのAI活用術</strong> · @AI_chosenki · 2026-10-12T10:31:42.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/AI_chosenki/status/2109592843123867713">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GokulaDotDev/status/2109584025165905972"><img src="https://pbs.twimg.com/media/HUa9314bQAAqiVD?format=jpg&amp;name=medium" alt="Building a bookmark automation pipeline with Jev for about $10 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GokulaDotDev/status/2109584025165905972">Building a bookmark automation pipeline with Jev for about $10</a></h3>
+<p>The author shares a low-cost personal automation project: scheduled fetching of X bookmarks, embedding with Gemini, filing by Luna, grading and tagging by Jev, and served as a read-only MCP from a home server over Tailscale.</p>
+<p><strong>中文摘要：</strong>作者分享了一个成本极低的个人自动化项目：定时抓取X书签，用Gemini生成嵌入，Luna负责归档，Jev负责分级和打标，最后通过Tailscale在家用服务器上以只读MCP提供服务。</p>
+<p><strong>Sai Gokula Krishnan</strong> · @GokulaDotDev · 2026-10-12T09:56:40.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 127</p>
+<p><a href="https://x.com/GokulaDotDev/status/2109584025165905972">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alucardiox/status/2109548487180247481"><img src="https://pbs.twimg.com/amplify_video_thumb/2109548196435243008/img/4ZLztBjZuancg3SQ.jpg" alt="Use Jev as a Gatekeeper to Cut Grok Bot Costs · 原帖视频截图" width="100%"></a>

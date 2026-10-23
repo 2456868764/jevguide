@@ -1,9 +1,10 @@
 # CyrilXBT
 
-24 Jev showcases.
+25 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T09:45:09.000Z | [Use Jev for Your Agent's Simple Decisions](https://x.com/cyrilXBT/status/2109581128197919038) | 社区实践 | CyrilXBT | 4.2K |
 | 2026-10-12T07:45:09.000Z | [Cutting AI agent costs with Jev and Opus 5.5](https://x.com/cyrilXBT/status/2109550926638030994) | 开发者工具 | CyrilXBT | 1.3K |
 | 2026-10-12T05:30:06.000Z | [Jev cuts coding costs by $4,420/month](https://x.com/cyrilXBT/status/2109516942403092750) | 开发者工具 | CyrilXBT | 2.7K |
 | 2026-10-12T02:45:01.000Z | [The Best AI Agent in 2026 Uses 4 Models, with Jev for Fast Decisions](https://x.com/cyrilXBT/status/2109475398845419551) | 智能体 | CyrilXBT | 2.4K |

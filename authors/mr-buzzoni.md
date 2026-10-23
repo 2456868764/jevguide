@@ -1,9 +1,10 @@
 # Mr. Buzzoni
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T10:44:00.000Z | [Jev + Claude Opus 5.5: A Practical Cost-Saving Combo](https://x.com/Mr_Buzzoni/status/2109595936389300576) | 社区实践 | Mr. Buzzoni | 898 |
 | 2026-10-09T16:36:57.000Z | [Jev engineering cuts AI bills by 90%](https://x.com/polydao/status/2108597594817474744) | 自动化工作流 | Mr. Buzzoni | 119 |
 | 2026-10-08T06:18:00.000Z | [Jev + Claude Opus 5.5: A Goldmine of Cost Savings](https://x.com/polydao/status/2108079443650441568) | 社区实践 | Mr. Buzzoni | 180 |
 | 2026-10-03T05:56:00.000Z | [Jev Engineering: A 10-Step Guide to Make Coding Agents 200x Faster and 400x Cheaper](https://x.com/polydao/status/2106261967975391339) | 开发者工具 | Mr. Buzzoni | 111 |

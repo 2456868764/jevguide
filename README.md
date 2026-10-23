@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>5920</strong><br>curated posts</td>
-<td align="center"><strong>2971</strong><br>original videos</td>
+<td align="center"><strong>5953</strong><br>curated posts</td>
+<td align="center"><strong>2986</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1095</strong> showcases · <strong>449</strong> videos</p>
+<p><strong>1102</strong> showcases · <strong>453</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>610</strong> showcases · <strong>303</strong> videos</p>
+<p><strong>611</strong> showcases · <strong>304</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>564</strong> showcases · <strong>244</strong> videos</p>
+<p><strong>567</strong> showcases · <strong>245</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>499</strong> showcases · <strong>220</strong> videos</p>
+<p><strong>510</strong> showcases · <strong>224</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>371</strong> showcases · <strong>281</strong> videos</p>
+<p><strong>373</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>365</strong> showcases · <strong>149</strong> videos</p>
+<p><strong>366</strong> showcases · <strong>149</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>298</strong> showcases · <strong>175</strong> videos</p>
+<p><strong>300</strong> showcases · <strong>176</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>253</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>255</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>118</strong> showcases · <strong>88</strong> videos</p>
+<p><strong>119</strong> showcases · <strong>88</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>115</strong> showcases · <strong>61</strong> videos</p>
+<p><strong>116</strong> showcases · <strong>61</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>96</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>97</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>28</strong> showcases · <strong>14</strong> videos</p>
+<p><strong>29</strong> showcases · <strong>15</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2109550926638030994"><img src="https://pbs.twimg.com/amplify_video_thumb/2109550893855309824/img/7GjzNylwxvDp4DhZ.jpg" alt="Cutting AI agent costs with Jev and Opus 5.5 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2109550926638030994">Cutting AI agent costs with Jev and Opus 5.5</a></h3>
-<p>A humorous dialogue about high AI agent costs, followed by an explanation of how Jev and Opus 5.5 were used to fix it, focusing on practical cost optimization.</p>
-<p><strong>1.3K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 1.3K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/NikkiSiapno/status/2109615463466713159"><img src="https://pbs.twimg.com/tweet_video_thumb/HUbbw39agAEjcuK.jpg" alt="Jev Clearly Explained: How It Works · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NikkiSiapno/status/2109615463466713159">Jev Clearly Explained: How It Works</a></h3>
+<p>Explains how Jev evaluates inputs and returns structured decisions instead of generating long-form responses, with the basic flow.</p>
+<p><strong>532</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 532</p>
+<p><strong>Nikki Siapno</strong> · @NikkiSiapno</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/yyyole/status/2109548927049740442"><img src="https://pbs.twimg.com/amplify_video_thumb/2109544661249638400/img/f7uHyGa3tmrASA2t.jpg" alt="Shadow Deployment and AI QA Mechanism via Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yyyole/status/2109548927049740442">Shadow Deployment and AI QA Mechanism via Jev</a></h3>
-<p>Introduces a system built with Jev that combines shadow running, AI quality inspection, quick switching, and instant rollback, demonstrating an innovative Jev use case in software engineering.</p>
-<p><strong>132</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 132</p>
-<p><strong>沐阳</strong> · @yyyole</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xLogan_/status/2109614989363536362"><img src="https://pbs.twimg.com/media/HUbavQ2bMAACIF8?format=jpg&amp;name=medium" alt="Jev: Directly Outputs Classification Results with Probabilities · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xLogan_/status/2109614989363536362">Jev: Directly Outputs Classification Results with Probabilities</a></h3>
+<p>The post notes that Jev differs from ChatGPT by not generating long text; instead, it directly analyzes content and provides classification results with probabilities.</p>
+<p><strong>27</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>蓝鲸-Logan</strong> · @0xLogan_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/alucardiox/status/2109548487180247481"><img src="https://pbs.twimg.com/amplify_video_thumb/2109548196435243008/img/4ZLztBjZuancg3SQ.jpg" alt="Use Jev as a Gatekeeper to Cut Grok Bot Costs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/alucardiox/status/2109548487180247481">Use Jev as a Gatekeeper to Cut Grok Bot Costs</a></h3>
-<p>This tip suggests keeping Grok Bot running 24/7 while using Jev to check a small status snapshot every 5 minutes, avoiding pointless wake-ups and saving costs.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 17</p>
-<p><strong>alucardio</strong> · @alucardiox</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/1kleos1/status/2109608972378329365"><img src="https://pbs.twimg.com/amplify_video_thumb/2109608188030963712/img/X6JyThTYrWhbWvMN.jpg" alt="Grok and Jev Team Up to Auto-Snipe Memecoin Scams in Real Time · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/1kleos1/status/2109608972378329365">Grok and Jev Team Up to Auto-Snipe Memecoin Scams in Real Time</a></h3>
+<p>A user shares their trading bot setup: Grok acts as the eyes reading a massive feed of Memecoin posts on X, while Jev, a tiny AI judge, outputs only yes/no to snipe rug scams before they hit.</p>
+<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><strong>1kleos1</strong> · @1kleos1</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/jayboricha707/status/2109548427378069861"><img src="https://pbs.twimg.com/amplify_video_thumb/2109547810022625280/img/JwjSR2eO6KpXl_md.jpg" alt="Developer cuts chatbot tokens by 78% with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jayboricha707/status/2109548427378069861">Developer cuts chatbot tokens by 78% with Jev</a></h3>
-<p>Jay Boricha shares how using TypeSafe&#39;s small Jev model for tool planning lets the big LLM only write, cutting tokens from 16.0k to 3.5k and time-to-first-word from 2.0s to 1.6s with the same verified answer.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
-<p><strong>Jay Boricha</strong> · @jayboricha707</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/p0lybender/status/2109608834096312808"><img src="https://pbs.twimg.com/amplify_video_thumb/2109608800839770112/img/oIbYHOO9DY1Jkxkf.jpg" alt="jev-pruner: Intercept Bash Output to Cut Claude Code Token Waste · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/p0lybender/status/2109608834096312808">jev-pruner: Intercept Bash Output to Cut Claude Code Token Waste</a></h3>
+<p>PolyBender highlights that Claude Code sessions waste tokens on bloated Bash output like long npm install logs, dependency dumps, and 3,000-line grep results. jev-pruner intercepts Bash to address this.</p>
+<p><strong>30</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><strong>PolyBender</strong> · @p0lybender</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/cyrilXBT/status/2109550926638030994"><img src="https://pbs.twimg.com/amplify_video_thumb/2109550893855309824/img/7GjzNylwxvDp4DhZ.jpg" alt="Cutting AI agent costs with Jev and Opus 5.5 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cyrilXBT/status/2109550926638030994">Cutting AI agent costs with Jev and Opus 5.5</a></h3>
-<p>A humorous dialogue about high AI agent costs, followed by an explanation of how Jev and Opus 5.5 were used to fix it, focusing on practical cost optimization.</p>
-<p><strong>1.3K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 1.3K</p>
-<p><strong>CyrilXBT</strong> · @cyrilXBT</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/NikkiSiapno/status/2109615463466713159"><img src="https://pbs.twimg.com/tweet_video_thumb/HUbbw39agAEjcuK.jpg" alt="Jev Clearly Explained: How It Works · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NikkiSiapno/status/2109615463466713159">Jev Clearly Explained: How It Works</a></h3>
+<p>Explains how Jev evaluates inputs and returns structured decisions instead of generating long-form responses, with the basic flow.</p>
+<p><strong>532</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 532</p>
+<p><strong>Nikki Siapno</strong> · @NikkiSiapno</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/jayboricha707/status/2109548427378069861"><img src="https://pbs.twimg.com/amplify_video_thumb/2109547810022625280/img/JwjSR2eO6KpXl_md.jpg" alt="Developer cuts chatbot tokens by 78% with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jayboricha707/status/2109548427378069861">Developer cuts chatbot tokens by 78% with Jev</a></h3>
-<p>Jay Boricha shares how using TypeSafe&#39;s small Jev model for tool planning lets the big LLM only write, cutting tokens from 16.0k to 3.5k and time-to-first-word from 2.0s to 1.6s with the same verified answer.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
-<p><strong>Jay Boricha</strong> · @jayboricha707</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/p0lybender/status/2109608834096312808"><img src="https://pbs.twimg.com/amplify_video_thumb/2109608800839770112/img/oIbYHOO9DY1Jkxkf.jpg" alt="jev-pruner: Intercept Bash Output to Cut Claude Code Token Waste · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/p0lybender/status/2109608834096312808">jev-pruner: Intercept Bash Output to Cut Claude Code Token Waste</a></h3>
+<p>PolyBender highlights that Claude Code sessions waste tokens on bloated Bash output like long npm install logs, dependency dumps, and 3,000-line grep results. jev-pruner intercepts Bash to address this.</p>
+<p><strong>30</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><strong>PolyBender</strong> · @p0lybender</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/menkatsukiroku/status/2109544339533926686"><img src="https://pbs.twimg.com/media/HUaaGL3akAE6L5v?format=jpg&amp;name=medium" alt="SyncA UTM Integrates Jev API for Enhanced AI-Powered Attack Detection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/menkatsukiroku/status/2109544339533926686">SyncA UTM Integrates Jev API for Enhanced AI-Powered Attack Detection</a></h3>
-<p>SyncA UTM will soon add a feature that uses Jev API Key to enable AI-powered periodic log checks and automatic blocking of malicious attacks.</p>
-<p><strong>92</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 92</p>
-<p><strong>Yoshihiro Nishikawa</strong> · @menkatsukiroku</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/TDataScience/status/2109608275947720716"><img src="https://pbs.twimg.com/media/HUbVjBHXkAAK2mk?format=jpg&amp;name=medium" alt="GraphRAG Meets TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TDataScience/status/2109608275947720716">GraphRAG Meets TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs</a></h3>
+<p>Partha Sarkar explores how calibrated decision models can handle high-frequency graph decisions while keeping LLMs focused on reasoning and synthesis, addressing gaps in vector search.</p>
+<p><strong>715</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 715</p>
+<p><strong>Towards Data Science</strong> · @TDataScience</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/massimodeluisa/status/2109536714159218692"><img src="https://pbs.twimg.com/media/HUaUFGJWQAAOIuj?format=jpg&amp;name=large" alt="Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/massimodeluisa/status/2109536714159218692">Microsoft releases Decision-1, claims it basically &#39;destroys&#39; Jev</a></h3>
-<p>Italian developer Massimo De Luisa posts that Microsoft suddenly dropped Microsoft-Decision-1, which he says basically destroys Jev, adding &#39;Not bad&#39;.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>🇮🇹 Massimo De Luisa</strong> · @massimodeluisa</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/guillaumesimon/status/2109600020999688535"><img src="https://pbs.twimg.com/amplify_video_thumb/2109599974711300096/img/xWS0Mpjczbb7Y13A.jpg" alt="Using the Jev model in a running coach app · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/guillaumesimon/status/2109600020999688535">Using the Jev model in a running coach app</a></h3>
+<p>Developer Guillaume Simon shares how he uses TypeSafe&#39;s Jev model in the running coach app Foulée: letting the coach talk during runs only when it is worth it.</p>
+<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><strong>Guillaume Simon</strong> · @guillaumesimon</p>
 </td>
 </tr>
 </table>

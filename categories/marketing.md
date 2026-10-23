@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 143 | 107 | 36 | 904K |
+| 145 | 109 | 36 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2113346740267143361"><img src="https://pbs.twimg.com/amplify_video_thumb/2113287597313429504/img/2bMLCuJ9MTknhkIQ.jpg" alt="Jev Powers a Reliable Code Firewall for Your Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2113346740267143361">Jev Powers a Reliable Code Firewall for Your Agents</a></h3>
+<p>TypeSafe AI jokes that trust issues may require therapy, but your agents need a reliable code firewall powered by Jev.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI调侃信任问题需要心理治疗，而智能体则需要由Jev驱动的可靠代码防火墙。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-10-22T19:08:21.000Z</p>
+<p>💬 5 &nbsp; 🔁 8 &nbsp; ♡ 69 &nbsp; 📊 9.3K</p>
+<p><a href="https://x.com/typesafeai/status/2113346740267143361">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ericosiu/status/2113324911968321744"><img src="https://pbs.twimg.com/amplify_video_thumb/2113324690106425344/img/Cp8KZoBA7wxICTe5.jpg" alt="Jev Images discussed for marketing and sales · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ericosiu/status/2113324911968321744">Jev Images discussed for marketing and sales</a></h3>
+<p>The post highlights Jev Images as a big opportunity for marketing and sales, citing low-cost AI visibility audits (~$0.007) and ad creative gap analyses (~$0.004), plus its potential as a lead magnet tool for tens of thousands of monthly runs.</p>
+<p><strong>中文摘要：</strong>帖子指出Jev Images在营销和销售领域潜力巨大，提到可用极低成本执行AI可见性审计（约$0.007）和广告创意差距分析（约$0.004），也可作为获客磁铁工具，支撑每月数万次运行。</p>
+<p><strong>ericosiu</strong> · @ericosiu · 2026-10-22T17:41:37.000Z</p>
+<p>💬 4 &nbsp; 🔁 7 &nbsp; ♡ 69 &nbsp; 📊 5.9K</p>
+<p><a href="https://x.com/ericosiu/status/2113324911968321744">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nhrdev/status/2109453181780709573"><img src="https://pbs.twimg.com/media/HUZIa0qaUAAt8uw?format=png&amp;name=360x360" alt="Optimize Titles and Headlines with Jev · 原帖图片" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 261 | 164 | 97 | 595K |
+| 263 | 165 | 98 | 595K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nanasi_rasi/status/2113500584183726101"><img src="https://pbs.twimg.com/media/HVSpXXjagAA08cR?format=png&amp;name=900x900" alt="Considering a WordPress spam-filter plugin using Jev AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nanasi_rasi/status/2113500584183726101">Considering a WordPress spam-filter plugin using Jev AI</a></h3>
+<p>The user collects WordPress spam comments and is thinking about building a plugin that uses something like Jev AI to calculate a spam score and delete them.</p>
+<p><strong>中文摘要：</strong>用户表示正在收集WordPress垃圾评论，并考虑开发一个类似Jev AI的插件来计算垃圾指数并自动删除评论。</p>
+<p><strong>ななしぃ</strong> · @nanasi_rasi · 2026-10-23T05:19:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><a href="https://x.com/nanasi_rasi/status/2113500584183726101">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/hsaffiliate2025/status/2113467374150242586"><img src="https://pbs.twimg.com/amplify_video_thumb/2113467022332080128/img/XYdWwE77ZtRgqBDS.jpg" alt="OpenAI&#39;s decision model challenges Jev: a launch isn&#39;t revenue proof · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Diluc</strong> · @hsaffiliate2025 · 2026-10-23T03:07:42.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/hsaffiliate2025/status/2113467374150242586">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/isagi1000x/status/2113346728602817010"><img src="https://pbs.twimg.com/amplify_video_thumb/2113346686009360385/img/wimmizCutHXeoT5N.jpg" alt="Grok Bot + Jev: The Most Interesting AI Automation Combo of 2026? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/isagi1000x/status/2113346728602817010">Grok Bot + Jev: The Most Interesting AI Automation Combo of 2026?</a></h3>
+<p>This workflow lets Grok Bot handle planning and execution while Jev reviews and approves, adding a decision-making layer to AI automation. Users just provide a prompt, and the loop runs from planning to execution.</p>
+<p><strong>中文摘要：</strong>该工作流让 Grok Bot 负责任务规划与执行，Jev 负责审查和批准，为 AI 自动化增添决策层。用户只需给出提示词，即可完成从规划到执行的闭环。</p>
+<p><strong>Isagii</strong> · @isagi1000x · 2026-10-22T19:08:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 329</p>
+<p><a href="https://x.com/isagi1000x/status/2113346728602817010">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/paonx_eth/status/2109667711156428977"><img src="https://pbs.twimg.com/media/HUcLjabWAAAlyPy?format=jpg&amp;name=medium" alt="Build a Claude + Jev Money Lab with Opus 5.5 · 原帖图片" width="100%"></a>

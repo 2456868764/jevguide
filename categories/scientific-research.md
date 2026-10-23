@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 102 | 31 | 73 | 136K |
+| 104 | 31 | 75 | 136K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Ryven</strong> · @imryven · 2026-10-22T19:58:55.000Z</p>
 <p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 14 &nbsp; 📊 666</p>
 <p><a href="https://x.com/imryven/status/2113359464292057286">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/alex_whedon/status/2113356859977425222"><img src="https://pbs.twimg.com/media/HVQklUeXUAA4OTn?format=jpg&amp;name=medium" alt="Snap 1.1 Leads Jev 1.14 on Enterprise and Agentic Benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alex_whedon/status/2113356859977425222">Snap 1.1 Leads Jev 1.14 on Enterprise and Agentic Benchmarks</a></h3>
+<p>Snap 1.1 leads Jev 1.14 by 7.2 points on average across 16 enterprise benchmarks and beats Snap 1.0 by 5.5, with strong results on agentic tests like When2Call.</p>
+<p><strong>中文摘要：</strong>Snap 1.1 在 16 项企业基准测试中平均领先 Jev 1.14 达 7.2 个百分点，领先 Snap 1.0 5.5 个百分点；在 When2Call 等智能体测试中表现突出。</p>
+<p><strong>Alexander Whedon</strong> · @alex_whedon · 2026-10-22T19:48:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 185</p>
+<p><a href="https://x.com/alex_whedon/status/2113356859977425222">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/calcsam/status/2113323249434247434"><img src="https://pbs.twimg.com/media/HVQIS70asAIZZtD?format=jpg&amp;name=medium" alt="Decision models like Jev also suffer from context rot · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/calcsam/status/2113323249434247434">Decision models like Jev also suffer from context rot</a></h3>
+<p>A test of Jev, Clef, and Luna Decisions across 400 questions shows that recall degrades for decision models as context approaches its limit.</p>
+<p><strong>中文摘要：</strong>对 Jev、Clef 和 Luna Decisions 进行 400 道题的测试，发现当上下文接近长度上限时，决策模型的召回能力同样会下降。</p>
+<p><strong>Sam Bhagwat</strong> · @calcsam · 2026-10-22T17:35:00.000Z</p>
+<p>💬 16 &nbsp; 🔁 8 &nbsp; ♡ 33 &nbsp; 📊 2.1K</p>
+<p><a href="https://x.com/calcsam/status/2113323249434247434">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

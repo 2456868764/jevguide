@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 520 | 225 | 298 | 1.1M |
+| 528 | 227 | 304 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nouchinho_csm/status/2113509627556208854"><img src="https://pbs.twimg.com/media/HVSxtcRaIAAK3tE?format=jpg&amp;name=medium" alt="OpenAI Decisions API launched, compared with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nouchinho_csm/status/2113509627556208854">OpenAI Decisions API launched, compared with Jev</a></h3>
+<p>The post notes that OpenAI Decisions API is now officially available, suggesting that AI which returns typed judgments—such as selections, scores, and probabilities—like Jev may become a common option. The author mentions use cases like inquiry classification and routing, with explanations handled by text generation, while stressing that correctness must still be validated in actual business workflows.</p>
+<p><strong>中文摘要：</strong>原创帖介绍OpenAI Decisions API正式提供，认为它像Jev一样能以选择、评分、概率等类型化形式返回判断。用户提到可用于咨询分类与分配，说明部分交给文章生成，同时强调即使输出类型正确，判断正确性仍需在业务中验证。</p>
+<p><strong>ノウチーニョ｜兼業⚽️コーチ</strong> · @nouchinho_csm · 2026-10-23T05:55:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/nouchinho_csm/status/2113509627556208854">在 X 查看原帖</a> · <a href="https://t.co/qIPsVVStsV">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Tesla_Optimus_K/status/2113505688551031104"><img src="https://pbs.twimg.com/media/HVSuMU2a0AAeiFV?format=jpg&amp;name=medium" alt="OpenAI Launches Luna Decisions API, Rivaling Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Tesla_Optimus_K/status/2113505688551031104">OpenAI Launches Luna Decisions API, Rivaling Jev</a></h3>
+<p>Luna is reportedly ChatGPT rewired for inference, not a custom classifier. The Decisions API launched after Dev Day on September 29, with latency reduced from 1–3 seconds to 100–180 milliseconds, significantly improving responsiveness.</p>
+<p><strong>中文摘要：</strong>据称Luna为ChatGPT重写推理链路，非定制分类器。Decisions API于9月29日Dev Day后上线，延迟从1-3秒降至100-180毫秒，显著提升响应速度。</p>
+<p><strong>Tesla_Optimus</strong> · @Tesla_Optimus_K · 2026-10-23T05:39:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Tesla_Optimus_K/status/2113505688551031104">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/abhishek__AI/status/2113458512357625877"><img src="https://pbs.twimg.com/tweet_video_thumb/HVSDTbYbUAA10om.jpg" alt="Jev Ultrafast cuts median browser-agent task time to 7.09s · 原帖视频截图" width="100%"></a>
@@ -22,6 +46,19 @@
 <p><a href="https://x.com/abhishek__AI/status/2113458512357625877">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://x.com/heliocosta/status/2113456766360932473"><img src="https://pbs.twimg.com/media/HVSBhirW8AAAfLe?format=jpg&amp;name=medium" alt="Jev routing and API key management update · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/heliocosta/status/2113456766360932473">Jev routing and API key management update</a></h3>
+<p>The post announces API key support, per-agent usage tracking and optional spending limits, plus a Jev that assesses request complexity and routes to the appropriate model.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了一项更新：支持 API 密钥、按智能体跟踪消耗并设置独立花费上限，同时由 Jev 评估需求复杂度和路由到合适模型。</p>
+<p><strong>Hélio Costa</strong> · @heliocosta · 2026-10-23T02:25:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 56</p>
+<p><a href="https://x.com/heliocosta/status/2113456766360932473">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://x.com/ai_fengshou/status/2113400757122969710"><img src="https://pbs.twimg.com/media/HVRMmoPXsAEbEIN?format=png&amp;name=900x900" alt="Ant releases LingDT decision model, claims to surpass Jev 1.13 · 原帖图片" width="100%"></a>
 <br>
 <sub><code>产品发布</code> <code>原帖图片</code></sub>
@@ -32,8 +69,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 267</p>
 <p><a href="https://x.com/ai_fengshou/status/2113400757122969710">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TheAIIndex_dev/status/2113384009023557776"><img src="https://pbs.twimg.com/media/HVQ_jsBXgAArpfs?format=png&amp;name=medium" alt="OpenAI Releases Decisions API; Jev Seen as Decision-Model Rival · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/TheAIIndex_dev/status/2113384009023557776">在 X 查看原帖</a> · <a href="https://t.co/d4U9QrSsfS">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/binavira_ir/status/2113382455885332848"><img src="https://pbs.twimg.com/media/HVQ-JQsWsAIaElz?format=jpg&amp;name=medium" alt="OpenAI Broadly Releases Decisions API, Competing with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/binavira_ir/status/2113382455885332848">在 X 查看原帖</a> · <a href="https://t.co/KmkmUCw8tp">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alerts_app_/status/2113367766333804811"><img src="https://pbs.twimg.com/media/HVQwyOBXgAA4exU?format=jpg&amp;name=medium" alt="OpenAI Widely Releases Jev Competitor as Decision Model Competition Heats Up · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/alerts_app_/status/2113367766333804811">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dailytechonx/status/2113365884114714659"><img src="https://pbs.twimg.com/media/HVQvEhDXUAAkJyA?format=jpg&amp;name=medium" alt="OpenAI Releases Decisions API, Benchmarking Against TypeSafe&#39;s Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -79,6 +116,65 @@
 <p><strong>The Daily Tech Feed</strong> · @dailytechonx · 2026-10-22T20:24:25.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
 <p><a href="https://x.com/dailytechonx/status/2113365884114714659">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/alex_whedon/status/2113356853308469444"><img src="https://pbs.twimg.com/media/HVQjcy7WMAArscA?format=png&amp;name=medium" alt="SubQ Snap 1.1 Launch Claims to Outperform Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/alex_whedon/status/2113356853308469444">SubQ Snap 1.1 Launch Claims to Outperform Jev</a></h3>
+<p>Alexander Whedon announced the launch of enterprise-ready decision model SubQ Snap 1.1, claiming it is tied for #1 on the Artificial Analysis Decision Index and has made big gains on agentic tasks, outperforming Jev by +7.2 points across 16 leading enterprise benchmarks.</p>
+<p><strong>中文摘要：</strong>Alexander Whedon宣布推出企业级决策模型SubQ Snap 1.1，称其在Artificial Analysis Decision Index中并列第一，并在agentic任务上大幅进步，在16个领先企业基准上比Jev高出7.2分。</p>
+<p><strong>Alexander Whedon</strong> · @alex_whedon · 2026-10-22T19:48:32.000Z</p>
+<p>💬 7 &nbsp; 🔁 23 &nbsp; ♡ 70 &nbsp; 📊 6.5K</p>
+<p><a href="https://x.com/alex_whedon/status/2113356853308469444">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KantanNewsX/status/2113354867624263836"><img src="https://pbs.twimg.com/media/HVQlC7BWUAAguEI?format=jpg&amp;name=medium" alt="OpenAI Makes Decisions API Generally Available, Positioning It as a Jev Rival · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KantanNewsX/status/2113354867624263836">OpenAI Makes Decisions API Generally Available, Positioning It as a Jev Rival</a></h3>
+<p>OpenAI has opened its decision API model to the public, reportedly reducing inference time to around 100 milliseconds. It aims to replace large language models to cut costs and latency, and is viewed as a rival to Jev.</p>
+<p><strong>中文摘要：</strong>OpenAI 的决策 API 模型已向公众开放，据称推理时间降至约 100 毫秒，旨在替代大语言模型以降低成本和延迟，被视为 Jev 的竞争对手。</p>
+<p><strong>kantan.news</strong> · @KantanNewsX · 2026-10-22T19:40:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 157</p>
+<p><a href="https://x.com/KantanNewsX/status/2113354867624263836">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fourweekmba/status/2113354125152845965"><img src="https://pbs.twimg.com/media/HVQkYDoWQAAFLyb?format=png&amp;name=medium" alt="OpenAI Decisions API becomes generally available, priced above Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fourweekmba/status/2113354125152845965">OpenAI Decisions API becomes generally available, priced above Jev</a></h3>
+<p>OpenAI&#39;s Decisions API is generally available at $0.10 per 1M input tokens. TypeSafe lists rival Jev at $0.042, making OpenAI&#39;s list price about 2.4x higher (per the post&#39;s math). OpenAI also claims it is up to 10x faster than GPT-6 Luna via the Responses API.</p>
+<p><strong>中文摘要：</strong>OpenAI 的 Decisions API 已正式可用，输入 token 价格为每百万 0.10 美元。据 TypeSafe 列出的竞争对手 Jev 价格为每百万 0.042 美元，OpenAI 挂牌价约为 Jev 的 2.4 倍。OpenAI 还称其通过 Responses API 比 GPT-6 Luna 快 10 倍。</p>
+<p><strong>Gennaro</strong> · @fourweekmba · 2026-10-22T19:37:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><a href="https://x.com/fourweekmba/status/2113354125152845965">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jozeppebless/status/2113353431981191399"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113353424263675904/pu/img/Q63eZwyVOBoVfmR1.jpg" alt="OpenAI&#39;s decision model launches, positioned as a Jev rival · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jozeppebless/status/2113353431981191399">OpenAI&#39;s decision model launches, positioned as a Jev rival</a></h3>
+<p>The post reports that OpenAI has made its decision model widely available, with media framing it as a rival to the original Jev model. Whether it can keep up with Jev remains unclear.</p>
+<p><strong>中文摘要：</strong>帖子报道 OpenAI 向所有人开放其决策模型，媒体将其描述为对标原版 Jev 模型；目前尚不清楚它能否与 Jev 匹敌。</p>
+<p><strong>Tokenwire</strong> · @jozeppebless · 2026-10-22T19:34:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/jozeppebless/status/2113353431981191399">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xdotli/status/2113341422594334913"><img src="https://pbs.twimg.com/amplify_video_thumb/2113341399802478592/img/yyZoHbgZf2Ai85Pe.jpg" alt="TypeSafe&#39;s Jev in 0.6.0 for Navigation Tasks · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/xdotli/status/2113341422594334913">TypeSafe&#39;s Jev in 0.6.0 for Navigation Tasks</a></h3>
+<p>The 0.6.0 release notes mention TypeSafe&#39;s Jev applied to navigation tasks.</p>
+<p><strong>中文摘要：</strong>0.6.0 版本更新中提到，TypeSafe 的 Jev 已应用于导航任务。</p>
+<p><strong>Xiangyi Li</strong> · @xdotli · 2026-10-22T18:47:13.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/xdotli/status/2113341422594334913">在 X 查看原帖</a> · <a href="https://t.co/zHhBMUwJOO">原文链接</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 377 | 284 | 97 | 588K |
+| 379 | 286 | 97 | 588K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Andy Ingram 🌀</strong> · @andrewingram · 2026-10-22T21:04:42.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 128</p>
 <p><a href="https://x.com/andrewingram/status/2113376018870497345">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Bleinat/status/2113328147600965691"><img src="https://pbs.twimg.com/amplify_video_thumb/2113328090206162944/img/WSlp8BzmankGi3sE.jpg" alt="JEV studying poker plays · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Bleinat/status/2113328147600965691">JEV studying poker plays</a></h3>
+<p>TypeSafe&#39;s JEV model is analyzing poker moves, with over 500 million plays processed so far.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的 JEV 模型正在分析扑克打法，目前已完成超过 5 亿次操作。</p>
+<p><strong>Klaus</strong> · @Bleinat · 2026-10-22T17:54:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Bleinat/status/2113328147600965691">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/freepass5373/status/2113326841880875419"><img src="https://pbs.twimg.com/amplify_video_thumb/2113326802584457216/img/yDdikQPEKGYKxbK4.jpg" alt="Use Jev FC Buddy collaborative agent for 1 USDC and mine XP · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/freepass5373/status/2113326841880875419">Use Jev FC Buddy collaborative agent for 1 USDC and mine XP</a></h3>
+<p>A user shares their experience using Jev FC Buddy (classic NES co-op themed) collaborative agent on Termix for 1 USDC to mine XP, one of several ways to boost XP with a small usage fee.</p>
+<p><strong>中文摘要：</strong>用户分享在Termix上以1 USDC使用Jev FC Buddy（经典NES合作游戏主题）协作智能体并挖掘XP的体验，提到通过小额使用费获取XP的多种方式之一。</p>
+<p><strong>nolja$CP</strong> · @freepass5373 · 2026-10-22T17:49:17.000Z</p>
+<p>💬 11 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 150</p>
+<p><a href="https://x.com/freepass5373/status/2113326841880875419">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

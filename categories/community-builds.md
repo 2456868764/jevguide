@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1131 | 463 | 673 | 3.0M |
+| 1139 | 469 | 675 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/GoSailGlobal/status/2113502706614882675"><img src="https://pbs.twimg.com/amplify_video_thumb/2113502668132147200/img/KZp0q1_5RaKmMWLP.jpg" alt="Jev Open Source Projects Tested: 8 of 12 Work · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/GoSailGlobal/status/2113502706614882675">Jev Open Source Projects Tested: 8 of 12 Work</a></h3>
+<p>The author tested 12 Jev open-source projects using a single Jev key per the README; 8 of 11 evaluable projects ran successfully in about a minute each. The 3 failures each lacked one item: a second paid key, a logged-in Codex CLI, or a Cloudflare account, including the most-starred jev-ultrafast (22.5k★).</p>
+<p><strong>中文摘要：</strong>作者用一把 Jev 密钥按 README 跑 12 个开源项目，11 个可评价中 8 个约一分钟跑通。未跑通的 3 个分别缺少第二把付费密钥、已登录的 Codex CLI 或 Cloudflare 账号；星数最高的 jev-ultrafast（22.5k★）也未跑通。</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal · 2026-10-23T05:28:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 336</p>
+<p><a href="https://x.com/GoSailGlobal/status/2113502706614882675">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/29meat_ai/status/2113470466295996629"><img src="https://pbs.twimg.com/amplify_video_thumb/2113272564810403842/img/l3eNaaPYJjGBmg0r.jpg" alt="Codex×Jev: Let Jev Handle Model Routing · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 73</p>
 <p><a href="https://x.com/29meat_ai/status/2113470466295996629">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nick_kango/status/2113459322005114972"><img src="https://pbs.twimg.com/media/HVSEDWpbwAAqCYr?format=jpg&amp;name=medium" alt="Discussion on Performance Differences Between Jev and Other Routers · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/nick_kango/status/2113459322005114972">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/small2huge/status/2113444541550440862"><img src="https://pbs.twimg.com/amplify_video_thumb/2113444498500132864/img/rR-RNUxn1xm-67Lu.jpg" alt="Hands-on with Jev: Decision-only model saves cost and boosts efficiency · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/small2huge/status/2113444541550440862">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Powertothepipol/status/2113401416945406034"><img src="https://pbs.twimg.com/media/HVRPYpsXwAMBPvp?format=jpg&amp;name=medium" alt="User says Jev outperforms OpenAI in decision quality and is cheaper · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
 <p><a href="https://x.com/Powertothepipol/status/2113401416945406034">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ViralManager/status/2113393608514793685"><img src="https://pbs.twimg.com/media/HVRIKajbQAEcu6l?format=jpg&amp;name=medium" alt="Built a photo manager with Jev image search and face recognition · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 116</p>
 <p><a href="https://x.com/ViralManager/status/2113393608514793685">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Matthewagi/status/2113370655957877177"><img src="https://pbs.twimg.com/media/HVQmQ1iWsAASABo?format=jpg&amp;name=medium" alt="Training TERN-35B-A3B to Explore the Cost Frontier of Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 424</p>
 <p><a href="https://x.com/Matthewagi/status/2113370655957877177">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RijnHartman/status/2113369101988934024"><img src="https://pbs.twimg.com/media/HVQx42FWwAAYHSF?format=jpg&amp;name=medium" alt="Diving into Jev and subq snap: no text, just confidence · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 277</p>
 <p><a href="https://x.com/RijnHartman/status/2113369101988934024">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/drbetulay/status/2113368581278945692"><img src="https://pbs.twimg.com/media/HVQxhbaWgAIgS1s?format=jpg&amp;name=medium" alt="Analysis of Jev Model as a Decision Layer in RAG Systems · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 369</p>
 <p><a href="https://x.com/drbetulay/status/2113368581278945692">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Magnosud/status/2113360529343311958"><img src="https://pbs.twimg.com/media/HVQqM8hXIAAv7zc?format=png&amp;name=medium" alt="OpenAI Releases a Jev-like Decisions API, Sparking Community Discussion · 原帖图片" width="100%"></a>
 <br>
@@ -116,6 +127,91 @@
 <p><strong>Charles Magno</strong> · @Magnosud · 2026-10-22T20:03:09.000Z</p>
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 88</p>
 <p><a href="https://x.com/Magnosud/status/2113360529343311958">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dotpem/status/2113357105587749360"><img src="https://pbs.twimg.com/amplify_video_thumb/2111171312173617152/img/KN8qwEwjaUy7t7Aj.jpg" alt="Developer shares Jev usage experience · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dotpem/status/2113357105587749360">Developer shares Jev usage experience</a></h3>
+<p>Nathan LeClaire comments that he used Jev in a similar experiment, noting the challenge of translating input into organic motion.</p>
+<p><strong>中文摘要：</strong>Nathan LeClaire 评论称，他曾在类似实验中使用 Jev，但输入到有机运动的转换仍有难度。</p>
+<p><strong>Nathan LeClaire</strong> · @dotpem · 2026-10-22T19:49:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><a href="https://x.com/dotpem/status/2113357105587749360">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ajitomatix/status/2113355201583407323"><img src="https://pbs.twimg.com/media/HVQjkdMasAAOeyv?format=jpg&amp;name=medium" alt="Testing Jev 1.14 Image Support: SOS Draw Benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ajitomatix/status/2113355201583407323">Testing Jev 1.14 Image Support: SOS Draw Benchmark</a></h3>
+<p>The author benchmarks TypeSafe AI&#39;s Jev 1.14 experimental image support on SOS Draw, comparing text, image, and hybrid recognition pipelines.</p>
+<p><strong>中文摘要：</strong>作者用 SOS Draw 对 TypeSafe AI 的 Jev 1.14 实验性图像支持进行评测，对比文本、图像与混合三种识别方式的实际表现。</p>
+<p><strong>Ajit Datar</strong> · @ajitomatix · 2026-10-22T19:41:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/ajitomatix/status/2113355201583407323">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eltc9584/status/2113350494257336686"><img src="https://pbs.twimg.com/media/HVQhDNjW4AA1VC_?format=png&amp;name=medium" alt="Open-source AI model tops Jev Decision Index · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/eltc9584/status/2113350494257336686">Open-source AI model tops Jev Decision Index</a></h3>
+<p>An open-source AI model ranks No. 1 of 208 on the Jev Decision Index 0.4 leaderboard. It skips long chatbot replies and directly returns probabilities for each option, ideal for decisions like sorting support tickets or flagging spam.</p>
+<p><strong>中文摘要：</strong>一个开源AI模型在Jev Decision Index 0.4排行榜上位列208个模型之首，能够跳过冗长聊天回复，直接为每个选项给出概率，适用于工单分类、垃圾邮件标记等决策任务。</p>
+<p><strong>Brandon OPPA</strong> · @eltc9584 · 2026-10-22T19:23:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/eltc9584/status/2113350494257336686">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/explosss1ve/status/2113341178926293314"><img src="https://pbs.twimg.com/amplify_video_thumb/2113340714054524928/img/1N4jTKjc1XiykE51.jpg" alt="JEV 1.14 with Harness² autonomously watches a street and keeps learning · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/explosss1ve/status/2113341178926293314">JEV 1.14 with Harness² autonomously watches a street and keeps learning</a></h3>
+<p>The post says someone connected Google&#39;s Harness² to JEV 1.14 and pointed it at a live street camera. In round one the model kept asking a human for help, but by round three it stopped, showing self-improvement and adaptation.</p>
+<p><strong>中文摘要：</strong>帖文提到有人将 Google 的 Harness² 接入 JEV 1.14，并指向实时街景摄像头。模型在第一轮不断请求人类帮助，到第三轮已不再求助，展示出自主迭代与适应能力。</p>
+<p><strong>explos1ve</strong> · @explosss1ve · 2026-10-22T18:46:15.000Z</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 16 &nbsp; 📊 426</p>
+<p><a href="https://x.com/explosss1ve/status/2113341178926293314">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Sethnuzum/status/2113338194347614435"><img src="https://pbs.twimg.com/amplify_video_thumb/2113338129142956032/img/vCpmvLMKeQU67QX-.jpg" alt="JEV Experiment: CV and Projection Mapping · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Sethnuzum/status/2113338194347614435">JEV Experiment: CV and Projection Mapping</a></h3>
+<p>User shares an experiment using JEV with computer vision and projection mapping, observing interesting results in typing behavior.</p>
+<p><strong>中文摘要：</strong>用户分享使用 JEV 结合计算机视觉和投影映射进行的实验，观察打字行为的有趣结果。</p>
+<p><strong>Seth</strong> · @Sethnuzum · 2026-10-22T18:34:24.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 75 &nbsp; 📊 2.6K</p>
+<p><a href="https://x.com/Sethnuzum/status/2113338194347614435">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/v3ec/status/2113335753610756598"><img src="https://pbs.twimg.com/tweet_video_thumb/HVQTWggbIAAN1j8.jpg" alt="Jev Effect and a Timestral Time-Series Forecasting Tool · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/v3ec/status/2113335753610756598">Jev Effect and a Timestral Time-Series Forecasting Tool</a></h3>
+<p>The author uses MistralAI&#39;s Timestral model for zero-shot time-series forecasting and built an exploration tool, referencing TypeSafe AI&#39;s Jev effect.</p>
+<p><strong>中文摘要：</strong>作者将MistralAI的Timestral模型用于时间序列零样本预测，并制作了探索工具，同时提到TypeSafe AI的Jev效应。</p>
+<p><strong>Alejandro Erickson</strong> · @v3ec · 2026-10-22T18:24:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 49</p>
+<p><a href="https://x.com/v3ec/status/2113335753610756598">在 X 查看原帖</a> · <a href="https://t.co/RDouHZ7aJl">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/anbturki/status/2113330298213810449"><img src="https://pbs.twimg.com/amplify_video_thumb/2113296533835927552/img/gOOcPSsw8g5ICIpd.jpg" alt="Jev Speed Comparison: 8.5s vs 0.1s · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anbturki/status/2113330298213810449">Jev Speed Comparison: 8.5s vs 0.1s</a></h3>
+<p>For the same question, a regular LLM takes 8.5 seconds while Jev takes only 0.1 seconds, and the difference is not just speed.</p>
+<p><strong>中文摘要：</strong>同一问题下，普通LLM耗时8.5秒，Jev仅需0.1秒，且差距不止在速度上。</p>
+<p><strong>Ali Turki | علي تركي</strong> · @anbturki · 2026-10-22T18:03:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/anbturki/status/2113330298213810449">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepInsightLabs/status/2109669307248681367"><img src="https://pbs.twimg.com/amplify_video_thumb/2107958563134214144/img/3YPYBR3giIeCXf64.jpg" alt="Deep Insight Labs Seeking Jev &amp; System One Connections at TechCrunch Disrupt · 原帖视频截图" width="100%"></a>

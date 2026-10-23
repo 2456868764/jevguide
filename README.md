@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6110</strong><br>curated posts</td>
-<td align="center"><strong>3052</strong><br>original videos</td>
+<td align="center"><strong>6116</strong><br>curated posts</td>
+<td align="center"><strong>3056</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,7 +34,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>619</strong> showcases · <strong>309</strong> videos</p>
+<p><strong>621</strong> showcases · <strong>310</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>481</strong> showcases · <strong>269</strong> videos</p>
+<p><strong>482</strong> showcases · <strong>270</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>380</strong> showcases · <strong>287</strong> videos</p>
+<p><strong>381</strong> showcases · <strong>288</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>376</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>377</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>145</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>146</strong> showcases · <strong>109</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ishidafuu/status/2113580664234946807"><img src="https://pbs.twimg.com/media/HVTyFbraEAAuGkX?format=png&amp;name=240x240" alt="Trying JEV: An AI That Sorts Everything Perfectly · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ishidafuu/status/2113580664234946807">Trying JEV: An AI That Sorts Everything Perfectly</a></h3>
-<p>The author tries JEV, an AI said to sort anything perfectly like a prime-time Renho politician, and finds it cheap, fast, and accurate when used with Claude, though he has no clear use case yet.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>いしださん</strong> · @ishidafuu</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mazaki_eth/status/2113594976651079943">OpenAI Decisions API outputs decisions directly, aiming to rival Jev</a></h3>
+<p>The post says GPT-6 Luna can answer without text to rival Jev; OpenAI&#39;s Decisions API directly returns a choice, probability, or score for closed-ended questions, suitable for embedding in decisions without parsing long text.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Benjamin</strong> · @mazaki_eth</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/velpha_official/status/2113578679406051675"><img src="https://pbs.twimg.com/amplify_video_thumb/2113440110742224896/img/jvZdpc19lPv9u_Ny.jpg" alt="Velpha introduces AI chat powered by TypeSafe&#39;s Jev model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/velpha_official/status/2113578679406051675">Velpha introduces AI chat powered by TypeSafe&#39;s Jev model</a></h3>
-<p>Velpha introduces its AI chat feature: it uses TypeSafe AI&#39;s new model Jev to understand question intent and instantly try purchase simulations, making it easier to search for stocks and investment trusts.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Velpha</strong> · @velpha_official</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/OnlyAICanDo/status/2113594407987605815"><img src="https://pbs.twimg.com/amplify_video_thumb/2113593270538575872/img/UWC2j6V3T48V5nAA.jpg" alt="Pig + Jev + Gemini Flash auto-plays Pokemon TCGP · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/OnlyAICanDo/status/2113594407987605815">Pig + Jev + Gemini Flash auto-plays Pokemon TCGP</a></h3>
+<p>Bigkaka shares that the Pig agent plays Pokemon TCGP on Android, using Gemini Flash and Jev to charge and play immediately after system animations, and recommends pigagent.dev.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Bigkaka</strong> · @OnlyAICanDo</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/blondekiri/status/2113574653172351388"><img src="https://pbs.twimg.com/amplify_video_thumb/2112245910335799296/img/ncXXtw3MQ-9153Qc.jpg" alt="Using Jev for simple classification at $0.042 per million tokens · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/blondekiri/status/2113574653172351388">Using Jev for simple classification at $0.042 per million tokens</a></h3>
-<p>A developer showcases a personal customer-reply pipeline: only 1 of 5 steps needs Claude, while the other 4 use Jev for yes/no/pick decisions at ultra-low cost.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>kiri ✦</strong> · @blondekiri</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Supriik_/status/2113594175052509624"><img src="https://pbs.twimg.com/amplify_video_thumb/2113594128818647040/img/qnRLhXtO3c4wzcgd.jpg" alt="Plugging Claude + Jev into a VW: A Real Car Assistant · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Supriik_/status/2113594175052509624">Plugging Claude + Jev into a VW: A Real Car Assistant</a></h3>
+<p>The author hooked Claude and Jev into their VW using a Raspberry Pi, creating an actual assistant that understands the car, calendar, and daily schedule — not just a phone mount with ChatGPT, and the setup is simpler than it sounds.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><strong>Suprik</strong> · @Supriik_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
-<p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
-<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
-<p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/Motphys2025/status/2113592293185970192"><img src="https://pbs.twimg.com/amplify_video_thumb/2113591861193666561/img/eFvaQKloSJ8-2l2d.jpg" alt="Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8% · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Motphys2025/status/2113592293185970192">Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8%</a></h3>
+<p>Train TypeSafe&#39;s Jev model in MotrixSim to control rocket recovery, boosting model confidence from 34% to 99.8% with 40ms decision latency. Code and simulation scenarios are now available for testing.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>Mopi</strong> · @Motphys2025</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ishidafuu/status/2113580664234946807"><img src="https://pbs.twimg.com/media/HVTyFbraEAAuGkX?format=png&amp;name=240x240" alt="Trying JEV: An AI That Sorts Everything Perfectly · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ishidafuu/status/2113580664234946807">Trying JEV: An AI That Sorts Everything Perfectly</a></h3>
-<p>The author tries JEV, an AI said to sort anything perfectly like a prime-time Renho politician, and finds it cheap, fast, and accurate when used with Claude, though he has no clear use case yet.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>いしださん</strong> · @ishidafuu</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mazaki_eth/status/2113594976651079943">OpenAI Decisions API outputs decisions directly, aiming to rival Jev</a></h3>
+<p>The post says GPT-6 Luna can answer without text to rival Jev; OpenAI&#39;s Decisions API directly returns a choice, probability, or score for closed-ended questions, suitable for embedding in decisions without parsing long text.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Benjamin</strong> · @mazaki_eth</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/jaimebuelta/status/2113565156294955205"><img src="https://pbs.twimg.com/media/HVTkKcIW0AAZ4kn?format=jpg&amp;name=medium" alt="Jev Agentic Engineering Workshop Tomorrow · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jaimebuelta/status/2113565156294955205">Jev Agentic Engineering Workshop Tomorrow</a></h3>
-<p>Reminder that the agentic engineering workshop is this Saturday (24th), with an extra discount using code JEV10, covering Jev and AI agents.</p>
-<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 24</p>
-<p><strong>Jaime Buelta 🌻🌻🌻</strong> · @jaimebuelta</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/Motphys2025/status/2113592293185970192"><img src="https://pbs.twimg.com/amplify_video_thumb/2113591861193666561/img/eFvaQKloSJ8-2l2d.jpg" alt="Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8% · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Motphys2025/status/2113592293185970192">Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8%</a></h3>
+<p>Train TypeSafe&#39;s Jev model in MotrixSim to control rocket recovery, boosting model confidence from 34% to 99.8% with 40ms decision latency. Code and simulation scenarios are now available for testing.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>Mopi</strong> · @Motphys2025</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/opperai/status/2113589700976120096"><img src="https://pbs.twimg.com/amplify_video_thumb/2113574798357843968/img/9OAjpC1v-Ur-4h-X.jpg" alt="Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/opperai/status/2113589700976120096">Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev</a></h3>
+<p>Opper&#39;s JevMan is a PacMan-style benchmark game that demonstrates AI decision model capabilities, named after TypeSafe AI&#39;s Jev. It has been covered by TechCrunch, letting users watch models play or take them on themselves.</p>
+<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><strong>Opper</strong> · @opperai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
 <a href="https://x.com/TheDistanceHQ/status/2113556215070376208"><img src="https://pbs.twimg.com/media/HVTcK5pWoAAyPvc?format=png&amp;name=900x900" alt="Jev Becomes Vercel&#39;s Fastest-Adopted AI Model · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/TheDistanceHQ/status/2113556215070376208">Jev Becomes Vercel&#39;s Fastest-Adopted AI Model</a></h3>
 <p>The Distance&#39;s weekly round-up mentions that Jev became Vercel&#39;s fastest-adopted AI model.</p>
 <p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
 <p><strong>The Distance App Developers</strong> · @TheDistanceHQ</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
-<a href="https://x.com/amix3k/status/2113525936360759554"><img src="https://pbs.twimg.com/media/HVTAnzfXkAAsCdU?format=jpg&amp;name=medium" alt="Todoist team experiments with AI inbox classification using Jev model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/amix3k/status/2113525936360759554">Todoist team experiments with AI inbox classification using Jev model</a></h3>
-<p>The Todoist Comms team is experimenting with AI inbox classification using the Jev decision model, showcasing its potential in real-world applications.</p>
-<p><strong>96</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 96</p>
-<p><strong>Amir Salihefendić</strong> · @amix3k</p>
 </td>
 </tr>
 </table>

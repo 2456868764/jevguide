@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T11:34:45.000Z | [OpenAI Decisions API outputs decisions directly, aiming to rival Jev](https://x.com/mazaki_eth/status/2113594976651079943) | 开发者工具 | Benjamin | 15 |
+| 2026-10-23T11:32:30.000Z | [Pig + Jev + Gemini Flash auto-plays Pokemon TCGP](https://x.com/OnlyAICanDo/status/2113594407987605815) | 游戏 | Bigkaka | 13 |
+| 2026-10-23T11:31:34.000Z | [Plugging Claude + Jev into a VW: A Real Car Assistant](https://x.com/Supriik_/status/2113594175052509624) | 智能体 | Suprik | 14 |
+| 2026-10-23T11:24:05.000Z | [Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8%](https://x.com/Motphys2025/status/2113592293185970192) | 开发资源 | Mopi | 6 |
+| 2026-10-23T11:13:47.000Z | [Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe's Jev](https://x.com/opperai/status/2113589700976120096) | 开发者工具 | Opper | 14 |
+| 2026-10-23T10:51:59.000Z | [Achieve SEO Growth with Jev: 44,400 clicks in 16 months](https://x.com/VengeonsP/status/2113584211768852615) | 营销 | Paul Vengeons | 172 |
 | 2026-10-23T10:37:53.000Z | [Trying JEV: An AI That Sorts Everything Perfectly](https://x.com/ishidafuu/status/2113580664234946807) | 社区实践 | いしださん | 14 |
 | 2026-10-23T10:30:00.000Z | [Velpha introduces AI chat powered by TypeSafe's Jev model](https://x.com/velpha_official/status/2113578679406051675) | 金融 | Velpha | 15 |
 | 2026-10-23T10:14:00.000Z | [Using Jev for simple classification at $0.042 per million tokens](https://x.com/blondekiri/status/2113574653172351388) | 社区实践 | kiri ✦ | 7 |
@@ -96,9 +102,3 @@
 | 2026-10-12T15:21:35.000Z | [MLflow 3.17 Supports TypeSafe Jev Models as Judges](https://x.com/MLflow/status/2109665792778277372) | 开发者工具 | MLflow | 101 |
 | 2026-10-12T15:21:22.000Z | [Spring AI and TypeSafe Jev: Fast, Cheap, Structured Decisions](https://x.com/MarcvandeLogt/status/2109665737652740288) | 开发资源 | Marc van de Logt | 8 |
 | 2026-10-12T15:18:21.000Z | [Nine Ways to Use Jev in AI Applications and Agent Workflows: A Hands-On Guide](https://x.com/ToDataBeyond/status/2109664980941386214) | 开发资源 | To Data & Beyond | 40 |
-| 2026-10-12T15:08:00.000Z | [A Jev-Powered Trading Loop Is Now Open Source](https://x.com/thegreatest_sv/status/2109662374403727630) | 金融 | kiosa | 239 |
-| 2026-10-12T15:07:36.000Z | [User asks whether JEV supports embeddings](https://x.com/Praveen_p_a_l/status/2109662274160034144) | 开发者工具 | Praveen Pal | 11 |
-| 2026-10-12T15:06:49.000Z | [Using Jev as a Decision Layer to Cut Agent Call Costs](https://x.com/realNatalieFort/status/2109662076914249892) | 智能体 | natalie | 295 |
-| 2026-10-12T15:06:42.000Z | [Jev as classifier in a personal agent setup](https://x.com/soupsranjan/status/2109662047101448517) | 社区实践 | Soups Ranjan | 301 |
-| 2026-10-12T15:01:12.000Z | [Built a quick TLD search site using Jev](https://x.com/nickbreaton/status/2109660665317335499) | 社区实践 | Nick Breaton | 16 |
-| 2026-10-12T14:58:46.000Z | [Model comparison update: Haiku 5.5, MSFT Decision-1 vs Jev](https://x.com/ShrivuShankar/status/2109660053288419770) | 社区实践 | Shrivu Shankar | 48 |

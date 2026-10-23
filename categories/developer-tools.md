@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 619 | 309 | 312 | 3.6M |
+| 621 | 310 | 313 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mazaki_eth/status/2113594976651079943">OpenAI Decisions API outputs decisions directly, aiming to rival Jev</a></h3>
+<p>The post says GPT-6 Luna can answer without text to rival Jev; OpenAI&#39;s Decisions API directly returns a choice, probability, or score for closed-ended questions, suitable for embedding in decisions without parsing long text.</p>
+<p><strong>中文摘要：</strong>原帖称 GPT-6 Luna 可用无文本方式回答问题，以与 Jev 竞争；OpenAI Decisions API 对封闭问题直接返回选择、概率或分数，适合嵌入决策流程，免去解析长篇文本。</p>
+<p><strong>Benjamin</strong> · @mazaki_eth · 2026-10-23T11:34:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/mazaki_eth/status/2113594976651079943">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/opperai/status/2113589700976120096"><img src="https://pbs.twimg.com/amplify_video_thumb/2113574798357843968/img/9OAjpC1v-Ur-4h-X.jpg" alt="Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/opperai/status/2113589700976120096">Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev</a></h3>
+<p>Opper&#39;s JevMan is a PacMan-style benchmark game that demonstrates AI decision model capabilities, named after TypeSafe AI&#39;s Jev. It has been covered by TechCrunch, letting users watch models play or take them on themselves.</p>
+<p><strong>中文摘要：</strong>Opper的JevMan是一个以PacMan形式展现AI决策模型能力的基准测试游戏，该游戏以TypeSafe AI的Jev命名，并获得了TechCrunch的报道。用户可观看模型游玩或亲自挑战。</p>
+<p><strong>Opper</strong> · @opperai · 2026-10-23T11:13:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><a href="https://x.com/opperai/status/2113589700976120096">在 X 查看原帖</a> · <a href="https://t.co/jArFUYfUOS">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MongLong0214/status/2113544413729464572"><img src="https://pbs.twimg.com/amplify_video_thumb/2113544365163663360/img/UK887exsBQmFXWw1.jpg" alt="jev-gate real-world test: Claude Code task costs cut to about half · 原帖视频截图" width="100%"></a>

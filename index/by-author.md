@@ -432,6 +432,7 @@
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
 - [belorix](../authors/belorix.md) — 2
 - [Bendik Nyheim](../authors/bendik-nyheim.md) — 2
+- [Benjamin](../authors/benjamin.md) — 2
 - [Benjamin Houy](../authors/benjamin-houy.md) — 2
 - [Betül Ay](../authors/betul-ay.md) — 2
 - [Blanc](../authors/blanc.md) — 2
@@ -1298,7 +1299,6 @@
 - [BenchRouter](../authors/benchrouter.md) — 1
 - [Beney de Saxonne](../authors/beney-de-saxonne.md) — 1
 - [BengkelKode](../authors/bengkelkode.md) — 1
-- [Benjamin](../authors/benjamin.md) — 1
 - [Benjamín Cordero](../authors/benjamin-cordero.md) — 1
 - [Benlee星球观察室](../authors/benlee星球观察室.md) — 1
 - [BENZEMA ZHU](../authors/benzema-zhu.md) — 1
@@ -1309,6 +1309,7 @@
 - [Beto Dias](../authors/beto-dias.md) — 1
 - [BHA | NextGen Learning‧Earning‧Hiring](../authors/bha-nextgen-learning-earning-hiring.md) — 1
 - [Bhuwan Panta](../authors/bhuwan-panta.md) — 1
+- [Bigkaka](../authors/bigkaka.md) — 1
 - [Bill Brown](../authors/bill-brown.md) — 1
 - [Bill Murphy](../authors/bill-murphy.md) — 1
 - [Bilu](../authors/bilu.md) — 1
@@ -2691,6 +2692,7 @@
 - [Moon](../authors/moon.md) — 1
 - [Moonfarm 🇸🇪](../authors/moonfarm.md) — 1
 - [MoonInAI](../authors/mooninai.md) — 1
+- [Mopi](../authors/mopi.md) — 1
 - [morbian](../authors/morbian.md) — 1
 - [Morgan](../authors/morgan.md) — 1
 - [Morlex](../authors/morlex.md) — 1
@@ -2874,6 +2876,7 @@
 - [OpenModel](../authors/openmodel.md) — 1
 - [OpenRelayInc](../authors/openrelayinc.md) — 1
 - [OpenRoboto](../authors/openroboto.md) — 1
+- [Opper](../authors/opper.md) — 1
 - [opTrade AI](../authors/optrade-ai.md) — 1
 - [OrcaRouter Japan 🐳](../authors/orcarouter-japan.md) — 1
 - [OrcDev](../authors/orcdev.md) — 1
@@ -2919,6 +2922,7 @@
 - [Paul Crossland](../authors/paul-crossland.md) — 1
 - [Paul Iusztin](../authors/paul-iusztin.md) — 1
 - [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
+- [Paul Vengeons](../authors/paul-vengeons.md) — 1
 - [Paul-Marie](../authors/paul-marie.md) — 1
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
@@ -3428,6 +3432,7 @@
 - [Sunil Sadasivan](../authors/sunil-sadasivan.md) — 1
 - [Supabase](../authors/supabase.md) — 1
 - [Superior](../authors/superior.md) — 1
+- [Suprik](../authors/suprik.md) — 1
 - [Surajan Shrestha](../authors/surajan-shrestha.md) — 1
 - [Surbhit Pratik](../authors/surbhit-pratik.md) — 1
 - [Surendra Pandar](../authors/surendra-pandar.md) — 1

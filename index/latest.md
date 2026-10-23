@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T16:05:16.000Z | [Last Call: JEV Workshop Tomorrow](https://x.com/LightHouse_acc/status/2113663052881301556) | 社区实践 | Lighthouse | 3 |
 | 2026-10-23T12:54:19.000Z | [LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready](https://x.com/jayleaton/status/2113615001076601317) | 智能体 | JJ Eaton | 137 |
 | 2026-10-23T12:45:46.000Z | [Papers with Code integrates Jev to highlight methods in abstracts](https://x.com/NielsRogge/status/2113612849389920589) | 接入动态 | Niels Rogge | 376 |
 | 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
@@ -101,4 +102,3 @@
 | 2026-10-12T15:29:58.000Z | [Podcast Preview: High Taste Testers to Discuss Jev and AI Hot Topics](https://x.com/latentspacepod/status/2109667901905027454) | 社区实践 | Latent.Space | 187 |
 | 2026-10-12T15:29:12.000Z | [Build a Claude + Jev Money Lab with Opus 5.5](https://x.com/paonx_eth/status/2109667711156428977) | 自动化工作流 | Paone | 34 |
 | 2026-10-12T15:25:46.000Z | [Earning $IAI via $0G staking and sharing AI usage plans](https://x.com/NewPaguinfo/status/2109666844370190688) | 社区实践 | Paguinfo | 54 |
-| 2026-10-12T15:22:35.000Z | [Jev and other decision models stay flat from 1 to 40 questions](https://x.com/0xbnd/status/2109666044583276829) | 工作原理 | Peter Banda | 7 |

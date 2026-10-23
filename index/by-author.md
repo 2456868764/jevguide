@@ -2454,6 +2454,7 @@
 - [Lian Lim | Dashboard & AI Automation Expert](../authors/lian-lim-dashboard-ai-automation-expert.md) — 1
 - [libapi](../authors/libapi.md) — 1
 - [Lightdash](../authors/lightdash.md) — 1
+- [Lighthouse](../authors/lighthouse.md) — 1
 - [Likit D](../authors/likit-d.md) — 1
 - [lil room](../authors/lil-room.md) — 1
 - [Lily](../authors/lily.md) — 1

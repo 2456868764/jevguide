@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 97 | 30 | 69 | 136K |
+| 99 | 30 | 71 | 136K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zekiworks/status/2109641796951126238"><img src="https://pbs.twimg.com/media/HUbz-YRW4AATjS-?format=jpg&amp;name=medium" alt="Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/zekiworks/status/2109641796951126238">Model Consistency Evaluation: Jev Changed Answers 314 Times Under Repeated Questions</a></h3>
+<p>A third-party evaluation asked all 2,198 questions five times. Decider v1.1 never changed an answer but got the same wrong answer 728 times; Jev changed 314 times, d1 217 times, and Celeris-1 206 times.</p>
+<p><strong>中文摘要：</strong>第三方对 2198 个问题各重复提问 5 次，发现 Decider v1.1 从未改变答案但有 728 题持续答错；Jev 改变 314 次，d1 改变 217 次，Celeris-1 改变 206 次。</p>
+<p><strong>Zeki Works</strong> · @zekiworks · 2026-10-12T13:46:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/zekiworks/status/2109641796951126238">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/SupersocksIntel/status/2109574942337454188"><img src="https://pbs.twimg.com/media/HUa3NkeXUAAPFA0?format=jpg&amp;name=medium" alt="TypeSafe Jev Decision Splitting Experiment: Flat Call Prevails · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Supersocks Intelligent</strong> · @SupersocksIntel · 2026-10-12T09:20:34.000Z</p>
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 157</p>
 <p><a href="https://x.com/SupersocksIntel/status/2109574942337454188">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BBandpey/status/2109557370107900293"><img src="https://pbs.twimg.com/media/HUam4dfW8AANaI5?format=jpg&amp;name=medium" alt="System One Model Benchmark Results Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BBandpey/status/2109557370107900293">System One Model Benchmark Results Released</a></h3>
+<p>The benchmark is live at jev-bench.cocode.dk, with pplx-decider-v1.1-27b winning without mistakes.</p>
+<p><strong>中文摘要：</strong>基准测试已在 jev-bench.cocode.dk 发布，pplx-decider-v1.1-27b 以零失误成绩胜出。</p>
+<p><strong>ダメト・ガルム</strong> · @BBandpey · 2026-10-12T08:10:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/BBandpey/status/2109557370107900293">在 X 查看原帖</a> · <a href="https://t.co/l9Vae5ScOu">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/7shi/status/2109310094668361899"><img src="https://pbs.twimg.com/media/HUXFd6zakAEN_ya?format=png&amp;name=small" alt="Qwen 3.8 Flash Next tested in Jev evaluation · 原帖图片" width="100%"></a>

@@ -1,9 +1,10 @@
 # AVB
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-12T12:54:37.000Z | [Build a JEV-like Decision Language Model from Scratch: Open-Source Deep Learning Guide](https://x.com/neural_avb/status/2109628808114643429) | 开发资源 | AVB | 63 |
 | 2026-09-30T09:56:01.000Z | [Filming 'Jev from Scratch' Video](https://x.com/neural_avb/status/2105235208358461721) | 开发资源 | AVB | 1.8K |
 | 2026-09-27 | [Released 150K-row decision dataset for training Jev-like models](https://x.com/neural_avb/status/2104125785204572243) | 开发资源 | AVB | 411 |
 | 2026-09-25 | [Discussion on JEV models' sensitivity to choice order](https://x.com/neural_avb/status/2103456555798802750) | 工作原理 | AVB | 575 |

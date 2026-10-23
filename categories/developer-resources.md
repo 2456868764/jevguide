@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 366 | 149 | 217 | 419K |
+| 370 | 150 | 220 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/neural_avb/status/2109628808114643429"><img src="https://pbs.twimg.com/amplify_video_thumb/2109625043336798208/img/TrXvA58POe0-0pr8.jpg" alt="Build a JEV-like Decision Language Model from Scratch: Open-Source Deep Learning Guide · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/neural_avb/status/2109628808114643429">Build a JEV-like Decision Language Model from Scratch: Open-Source Deep Learning Guide</a></h3>
+<p>AVB releases a ~1h45min deep learning guide on building a JEV-like decision model from Qwen, covering network architecture, custom datasets, training, evals, and autoresearch, with open-source code, model, and dataset.</p>
+<p><strong>中文摘要：</strong>AVB发布约1小时45分钟的深度指南，从Qwen构建类Jev决策模型，涵盖网络架构、自定义数据集、训练、评估和自动研究，代码、模型、数据集全部开源。</p>
+<p><strong>AVB</strong> · @neural_avb · 2026-10-12T12:54:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 63</p>
+<p><a href="https://x.com/neural_avb/status/2109628808114643429">在 X 查看原帖</a> · <a href="https://t.co/SZ34kDJro5">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TDataScience/status/2109618090413592651"><img src="https://pbs.twimg.com/media/HUbeeVZWAAAEXqW?format=jpg&amp;name=medium" alt="Build Your Own JEV Model from an Open LLM · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TDataScience/status/2109618090413592651">Build Your Own JEV Model from an Open LLM</a></h3>
+<p>Learn how to build a JEV text classifier by replacing the language-modeling head of an open-source LLM such as Qwen.</p>
+<p><strong>中文摘要：</strong>了解如何用Qwen等开源LLM替换语言建模头，构建JEV文本分类器。</p>
+<p><strong>Towards Data Science</strong> · @TDataScience · 2026-10-12T12:12:02.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 776</p>
+<p><a href="https://x.com/TDataScience/status/2109618090413592651">在 X 查看原帖</a> · <a href="https://t.co/GOqbJgz8CJ">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/e_opore/status/2109600901178511499"><img src="https://pbs.twimg.com/media/HUbO1BXW4AIn_EL?format=jpg&amp;name=medium" alt="Understand the Jev AI Model Architecture · 原帖图片" width="100%"></a>
@@ -20,6 +44,30 @@
 <p><strong>Dhanian 🗯️</strong> · @e_opore · 2026-10-12T11:03:43.000Z</p>
 <p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 10 &nbsp; 📊 783</p>
 <p><a href="https://x.com/e_opore/status/2109600901178511499">在 X 查看原帖</a> · <a href="https://t.co/LzdP3WkSLA">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/elliot1one/status/2109600655757210109"><img src="https://pbs.twimg.com/media/HUbOdJ0XIAA7GU2?format=jpg&amp;name=large" alt="Jev: A New Kind of AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/elliot1one/status/2109600655757210109">Jev: A New Kind of AI</a></h3>
+<p>Issue #48 of The Modern Engineer by Elliot One focuses on Jev, introducing this new kind of AI.</p>
+<p><strong>中文摘要：</strong>Elliot One 的《The Modern Engineer》第48期以 Jev 为主题，介绍这一新型AI。</p>
+<p><strong>Elliot One</strong> · @elliot1one · 2026-10-12T11:02:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/elliot1one/status/2109600655757210109">在 X 查看原帖</a> · <a href="https://t.co/ApBs39ylaI">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/YoussefHosni951/status/2109568640001491310"><img src="https://pbs.twimg.com/media/HUaxRAPXIAIwHxB?format=png&amp;name=900x900" alt="A Hands-On Guide to Nine Ways of Using Jev in AI Applications · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YoussefHosni951/status/2109568640001491310">A Hands-On Guide to Nine Ways of Using Jev in AI Applications</a></h3>
+<p>Includes Python code and measured comparisons against GPT-4.1 mini, covering model routing, prompt-injection screening, tool-call gating, inbox triage, retrieval reranking, and more.</p>
+<p><strong>中文摘要：</strong>包含Python代码及与GPT-4.1 mini的实测对比，覆盖模型路由、提示注入筛查、工具调用门控、收件箱分类、检索重排序等场景。</p>
+<p><strong>Youssef Hosni</strong> · @YoussefHosni951 · 2026-10-12T08:55:32.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 186</p>
+<p><a href="https://x.com/YoussefHosni951/status/2109568640001491310">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/explainx_ai/status/2109540025302155496"><img src="https://pbs.twimg.com/amplify_video_thumb/2109539246419914752/img/iKvO4Cby2AvXaUVP.jpg" alt="Jev Live Workshop: Keep Code Control, Model Answers Narrow Questions · 原帖视频截图" width="100%"></a>

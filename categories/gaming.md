@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 373 | 283 | 94 | 588K |
+| 375 | 284 | 95 | 588K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Supersocks Intelligent</strong> · @SupersocksIntel · 2026-10-12T10:24:44.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/SupersocksIntel/status/2109591090206556160">在 X 查看原帖</a> · <a href="https://t.co/nieiOxEHjr">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/idollivedb/status/2109558004274352588"><img src="https://pbs.twimg.com/amplify_video_thumb/2109557636454809600/img/77WjdAf-49n5A9sy.jpg" alt="New game app uses Jev AI for high-speed binary judgments · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/idollivedb/status/2109558004274352588">New game app uses Jev AI for high-speed binary judgments</a></h3>
+<p>The operator of an unofficial iM@S app announces a new game app inspired by &quot;Minna de Suiri&quot;, using an AI called Jev for high-speed binary judgments, with possible further polish if well received.</p>
+<p><strong>中文摘要：</strong>偶像大师非官方应用运营账号发布：正在开发一款受《みんなで推理》启发的新游戏应用，使用名为 Jev 的 AI 进行高速二元判断；若反响良好，可能会进一步打磨。</p>
+<p><strong>アイドルライブDB運営【アイマス非公式アプリ】</strong> · @idollivedb · 2026-10-12T08:13:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 31 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/idollivedb/status/2109558004274352588">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ccy1871/status/2109554656599019908"><img src="https://pbs.twimg.com/media/HUakxi7b0AAQY1T?format=jpg&amp;name=medium" alt="TermiX Launches Jev FC Buddy Game Campaign · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ccy1871/status/2109554656599019908">TermiX Launches Jev FC Buddy Game Campaign</a></h3>
+<p>TermiX&#39;s official site has launched a campaign for the Jev FC Buddy game. For $1, users can try the game and earn 500 points, requiring the #TermiX tag and direct server connection.</p>
+<p><strong>中文摘要：</strong>TermiX 官方推出 Jev FC Buddy 游戏活动，用户花费 1 美元可试玩并获得 500 积分，需带上 #TermiX 标签并直连服务器。</p>
+<p><strong>Aidang 🦅</strong> · @ccy1871 · 2026-10-12T07:59:58.000Z</p>
+<p>💬 47 &nbsp; 🔁 2 &nbsp; ♡ 49 &nbsp; 📊 4.6K</p>
+<p><a href="https://x.com/ccy1871/status/2109554656599019908">在 X 查看原帖</a> · <a href="https://t.co/PWkrVUhxRn">原文链接</a></p>
 </td>
 </tr>
 <tr>

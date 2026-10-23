@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 29 | 18 | 11 | 92K |
+| 31 | 18 | 13 | 92K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/I_Ejokey_I/status/2109616918386610350"><img src="https://pbs.twimg.com/media/HUbdZceXQAAxihX?format=jpg&amp;name=medium" alt="Vibecoded a Speech Assistance App with Jev in 5 Minutes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/I_Ejokey_I/status/2109616918386610350">Vibecoded a Speech Assistance App with Jev in 5 Minutes</a></h3>
+<p>The author lost their voice due to illness and quickly built an app with TTS, frequent phrases, and AI/Jev corrections to communicate fast—showing Jev in a real-world use case.</p>
+<p><strong>中文摘要：</strong>作者因病失声，用 TTS、常用短语和 AI/Jev 纠错快速搭建了一款帮助快速交流的应用，展示了 Jev 在实际场景中的落地应用。</p>
+<p><strong>This one</strong> · @I_Ejokey_I · 2026-10-12T12:07:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><a href="https://x.com/I_Ejokey_I/status/2109616918386610350">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/raghothams/status/2109569629366751295"><img src="https://pbs.twimg.com/media/HUayOiNagAALy6g?format=jpg&amp;name=medium" alt="TypeSafe Jev Business Experiments in Radiology · 原帖图片" width="100%"></a>
+<br>
+<sub><code>医疗</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/raghothams/status/2109569629366751295">TypeSafe Jev Business Experiments in Radiology</a></h3>
+<p>The author announces a series of experiments with jev that have real business value, starting with radiology, highlighting the global shortage of radiologists and increasing scan volumes.</p>
+<p><strong>中文摘要：</strong>作者宣布将分享一系列基于 jev 的实验结果，这些实验具有实际商业价值。首发主题是放射学，指出全球放射科医生短缺且扫描量逐年增加。</p>
+<p><strong>Raghotham Sripadraj</strong> · @raghothams · 2026-10-12T08:59:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 57</p>
+<p><a href="https://x.com/raghothams/status/2109569629366751295">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MaxHerreraSaid/status/2109427109626028292"><img src="https://pbs.twimg.com/media/HUYm2WiXoAAjZa4?format=jpg&amp;name=medium" alt="Perplexity enters decision models with clinical evaluation comparing Jev and others · 原帖图片" width="100%"></a>

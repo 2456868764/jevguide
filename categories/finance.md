@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 300 | 176 | 126 | 1.2M |
+| 304 | 177 | 129 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bl888m_eth/status/2109640678745792906"><img src="https://pbs.twimg.com/amplify_video_thumb/2109639993614614528/img/d1HMXzCUnJZyN_21.jpg" alt="Trading bot cost rant: $412/month for 4-minute polling via Jev API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bl888m_eth/status/2109640678745792906">Trading bot cost rant: $412/month for 4-minute polling via Jev API</a></h3>
+<p>A user complains that trading bots wake up 11,520 times a month with almost nothing changed; at Jev API rates, running every 4 minutes costs about $412/month, while every 20 minutes drops it to $82 — a 5x cost difference.</p>
+<p><strong>中文摘要：</strong>用户抱怨交易机器人每月唤醒11,520次却几乎无变化，按Jev API费率每4分钟运行一次约花费412美元/月，改为每20分钟一次降至82美元，成本相差5倍。</p>
+<p><strong>bl888m</strong> · @bl888m_eth · 2026-10-12T13:41:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 109</p>
+<p><a href="https://x.com/bl888m_eth/status/2109640678745792906">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/helotogether/status/2109625216255008894"><img src="https://pbs.twimg.com/media/HUbkbn9XUAAUUDw?format=jpg&amp;name=900x900" alt="TypeSafe&#39;s non-text AI model Jev hits $7.5B valuation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/helotogether/status/2109625216255008894">TypeSafe&#39;s non-text AI model Jev hits $7.5B valuation</a></h3>
+<p>This is a funding news brief that mentions TypeSafe&#39;s non-text AI model Jev reaching a $7.5B valuation, alongside other startup funding updates.</p>
+<p><strong>中文摘要：</strong>这是一则融资新闻简报，其中提到 TypeSafe 的非文本 AI 模型 Jev 估值达到 75 亿美元，同时涵盖其他初创公司的融资消息。</p>
+<p><strong>helo!</strong> · @helotogether · 2026-10-12T12:40:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/helotogether/status/2109625216255008894">在 X 查看原帖</a> · <a href="https://t.co/UedqJSP5IF">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/1kleos1/status/2109608972378329365"><img src="https://pbs.twimg.com/amplify_video_thumb/2109608188030963712/img/X6JyThTYrWhbWvMN.jpg" alt="Grok and Jev Team Up to Auto-Snipe Memecoin Scams in Real Time · 原帖视频截图" width="100%"></a>
@@ -44,6 +68,30 @@
 <p><strong>Alfa123</strong> · @alfa123gg · 2026-10-12T09:32:32.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
 <p><a href="https://x.com/alfa123gg/status/2109577950605832681">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xanonku/status/2109568017323442677"><img src="https://pbs.twimg.com/media/HUaw6jEXMAA1I5f?format=png&amp;name=medium" alt="How a Quant Desk Splits Work Across Jev and Other AI Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xanonku/status/2109568017323442677">How a Quant Desk Splits Work Across Jev and Other AI Models</a></h3>
+<p>The author maps a Jane Street-style desk into 4 stacks and assigns them with different prompts across Opus 5.5, Sonnet 5.5, Haiku 5.5, Jev and Grok; one agent gets a job no human trader wants.</p>
+<p><strong>中文摘要：</strong>作者按 Jane Street 风格交易台的思路，把工作分成 4 个栈，用不同提示词分配给 Opus 5.5、Sonnet 5.5、Haiku 5.5、Jev 和 Grok；其中一个智能体承担人类交易员不愿做的任务。</p>
+<p><strong>xanonku</strong> · @xanonku · 2026-10-12T08:53:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 127</p>
+<p><a href="https://x.com/xanonku/status/2109568017323442677">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Yi_2026/status/2109563237993996420"><img src="https://pbs.twimg.com/media/HUasZoQa0AATSnN?format=jpg&amp;name=medium" alt="TypeSafe Raises $870M Led by A16Z · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Yi_2026/status/2109563237993996420">TypeSafe Raises $870M Led by A16Z</a></h3>
+<p>AI Frontier Briefing reports: TypeSafe, developer of non-text AI model Jev, completed $870M funding at a $7.5B post-money valuation.</p>
+<p><strong>中文摘要：</strong>AI前沿简报报道：非文本AI模型Jev开发商TypeSafe完成8.7亿美元融资，投后估值75亿美元。</p>
+<p><strong>AI前沿简报</strong> · @Yi_2026 · 2026-10-12T08:34:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Yi_2026/status/2109563237993996420">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/iBadley/status/2109420720044552441"><img src="https://pbs.twimg.com/amplify_video_thumb/2109420631611584512/img/wPqaWLFdyJfUjFc1.jpg" alt="TypeSafe Jev raises $870M at $7.5B valuation · 原帖视频截图" width="100%"></a>

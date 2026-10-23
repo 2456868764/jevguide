@@ -1,9 +1,10 @@
 # HackerNoon | Learn Any Technology
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T06:53:32.000Z | [20 Local Decision Models Run Free Locally, Most Beat the Original Jev](https://x.com/hackernoon/status/2113524202871365921) | 开发资源 | HackerNoon \| Learn Any Technology | 197 |
 | 2026-10-11T15:23:53.000Z | [JEV Benchmark: Beyond Accuracy, Consistency Matters](https://x.com/hackernoon/status/2109303983177167207) | 工作原理 | HackerNoon \| Learn Any Technology | 278 |
 | 2026-10-05T06:00:03.000Z | [ChatRail Uses Jev as a Production Decision Layer](https://x.com/hackernoon/status/2106987762406596682) | 智能体 | HackerNoon \| Learn Any Technology | 224 |
 | 2026-09-25 | [Build a Reply Co-Pilot on TypeSafe's Jev](https://x.com/hackernoon/status/2103474445213983083) | 开发资源 | HackerNoon \| Learn Any Technology | 245 |

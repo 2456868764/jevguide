@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6088</strong><br>curated posts</td>
-<td align="center"><strong>3044</strong><br>original videos</td>
+<td align="center"><strong>6104</strong><br>curated posts</td>
+<td align="center"><strong>3049</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1139</strong> showcases · <strong>469</strong> videos</p>
+<p><strong>1144</strong> showcases · <strong>471</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>573</strong> showcases · <strong>249</strong> videos</p>
+<p><strong>575</strong> showcases · <strong>249</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>528</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>530</strong> showcases · <strong>227</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>408</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>409</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>379</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>380</strong> showcases · <strong>287</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>374</strong> showcases · <strong>151</strong> videos</p>
+<p><strong>376</strong> showcases · <strong>151</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>263</strong> showcases · <strong>165</strong> videos</p>
+<p><strong>264</strong> showcases · <strong>166</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>119</strong> showcases · <strong>62</strong> videos</p>
+<p><strong>120</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>45</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>29</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/nouchinho_csm/status/2113509627556208854"><img src="https://pbs.twimg.com/media/HVSxtcRaIAAK3tE?format=jpg&amp;name=medium" alt="OpenAI Decisions API launched, compared with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nouchinho_csm/status/2113509627556208854">OpenAI Decisions API launched, compared with Jev</a></h3>
-<p>The post notes that OpenAI Decisions API is now officially available, suggesting that AI which returns typed judgments—such as selections, scores, and probabilities—like Jev may become a common option. The author mentions use cases like inquiry classification and routing, with explanations handled by text generation, while stressing that correctness must still be validated in actual business workflows.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>ノウチーニョ｜兼業⚽️コーチ</strong> · @nouchinho_csm</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
+<p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Sqwish Labs</strong> · @sqwishai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Tesla_Optimus_K/status/2113505688551031104"><img src="https://pbs.twimg.com/media/HVSuMU2a0AAeiFV?format=jpg&amp;name=medium" alt="OpenAI Launches Luna Decisions API, Rivaling Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Tesla_Optimus_K/status/2113505688551031104">OpenAI Launches Luna Decisions API, Rivaling Jev</a></h3>
-<p>Luna is reportedly ChatGPT rewired for inference, not a custom classifier. The Decisions API launched after Dev Day on September 29, with latency reduced from 1–3 seconds to 100–180 milliseconds, significantly improving responsiveness.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Tesla_Optimus</strong> · @Tesla_Optimus_K</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/omnirailorg/status/2113531116267217308"><img src="https://pbs.twimg.com/media/HVPpt4iW8AESQfx?format=jpg&amp;name=medium" alt="OmniRail opens to builders with Jev decision model support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/omnirailorg/status/2113531116267217308">OmniRail opens to builders with Jev decision model support</a></h3>
+<p>OmniRail announces opening to builders, offering one key to access text, image, video, voice and Jev decision models, plus web search and swaps on Robinhood Chain.</p>
+<p><strong>107</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 107</p>
+<p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/GoSailGlobal/status/2113502706614882675"><img src="https://pbs.twimg.com/amplify_video_thumb/2113502668132147200/img/KZp0q1_5RaKmMWLP.jpg" alt="Jev Open Source Projects Tested: 8 of 12 Work · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/GoSailGlobal/status/2113502706614882675">Jev Open Source Projects Tested: 8 of 12 Work</a></h3>
-<p>The author tested 12 Jev open-source projects using a single Jev key per the README; 8 of 11 evaluable projects ran successfully in about a minute each. The 3 failures each lacked one item: a second paid key, a logged-in Codex CLI, or a Cloudflare account, including the most-starred jev-ultrafast (22.5k★).</p>
-<p><strong>336</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 336</p>
-<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/vraj_ai/status/2113528813821067597"><img src="https://pbs.twimg.com/media/HVK56K4aYAEMDmC?format=jpg&amp;name=medium" alt="Mammoth-1 and Elephant-1 on the Jev Decision Index · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vraj_ai/status/2113528813821067597">Mammoth-1 and Elephant-1 on the Jev Decision Index</a></h3>
+<p>Vraj explains that mammoth-1 doesn&#39;t generate text; it takes a state and a few questions and returns probabilities for every option in one pass, suitable for ticket routing, yes/no checks, and team selection. He also recommends the 9B elephant-1, which scores 62.65 on the Jev Decision Index.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Vraj</strong> · @vraj_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/nanasi_rasi/status/2113500584183726101"><img src="https://pbs.twimg.com/media/HVSpXXjagAA08cR?format=png&amp;name=900x900" alt="Considering a WordPress spam-filter plugin using Jev AI · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nanasi_rasi/status/2113500584183726101">Considering a WordPress spam-filter plugin using Jev AI</a></h3>
-<p>The user collects WordPress spam comments and is thinking about building a plugin that uses something like Jev AI to calculate a spam score and delete them.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ななしぃ</strong> · @nanasi_rasi</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/scrblanc/status/2113526028010172712"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525832702365696/pu/img/vHnroErhyRKlNWpG.jpg" alt="TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/scrblanc/status/2113526028010172712">TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute</a></h3>
+<p>JEV screened 38,000 free-trial sign-ups and blocked 4,100 fake ones, costing $6.63/month while preventing $12,177 in compute waste.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Blanc</strong> · @scrblanc</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/nouchinho_csm/status/2113509627556208854"><img src="https://pbs.twimg.com/media/HVSxtcRaIAAK3tE?format=jpg&amp;name=medium" alt="OpenAI Decisions API launched, compared with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nouchinho_csm/status/2113509627556208854">OpenAI Decisions API launched, compared with Jev</a></h3>
-<p>The post notes that OpenAI Decisions API is now officially available, suggesting that AI which returns typed judgments—such as selections, scores, and probabilities—like Jev may become a common option. The author mentions use cases like inquiry classification and routing, with explanations handled by text generation, while stressing that correctness must still be validated in actual business workflows.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>ノウチーニョ｜兼業⚽️コーチ</strong> · @nouchinho_csm</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/sqwishai/status/2113534387841081485"><img src="https://pbs.twimg.com/media/HVQUmv3WUAAkWK8?format=jpg&amp;name=medium" alt="Jev Model Benchmark: Accuracy vs. Cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sqwishai/status/2113534387841081485">Jev Model Benchmark: Accuracy vs. Cost</a></h3>
+<p>Sqwish Labs shares accuracy and cost comparisons of Jev 1.13/1.14 versus kettei-fat in front of Claude Opus 5.5.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Sqwish Labs</strong> · @sqwishai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/nanasi_rasi/status/2113500584183726101"><img src="https://pbs.twimg.com/media/HVSpXXjagAA08cR?format=png&amp;name=900x900" alt="Considering a WordPress spam-filter plugin using Jev AI · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nanasi_rasi/status/2113500584183726101">Considering a WordPress spam-filter plugin using Jev AI</a></h3>
-<p>The user collects WordPress spam comments and is thinking about building a plugin that uses something like Jev AI to calculate a spam score and delete them.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ななしぃ</strong> · @nanasi_rasi</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/scrblanc/status/2113526028010172712"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525832702365696/pu/img/vHnroErhyRKlNWpG.jpg" alt="TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/scrblanc/status/2113526028010172712">TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute</a></h3>
+<p>JEV screened 38,000 free-trial sign-ups and blocked 4,100 fake ones, costing $6.63/month while preventing $12,177 in compute waste.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Blanc</strong> · @scrblanc</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/stock_mentaiko/status/2113481840585806301"><img src="https://pbs.twimg.com/amplify_video_thumb/2112814220194828288/img/RL8lXu0dfq4qop9M.jpg" alt="Discussion on Jev in AI Action Decision-Making · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/stock_mentaiko/status/2113481840585806301">Discussion on Jev in AI Action Decision-Making</a></h3>
-<p>The author questions that while AI agent actions are based on learning, how are decisions made? Mentions harness agent or Jev, and asks if an AI agent controlling an RC car counts as physical AI.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>RYO🌊個人開発</strong> · @stock_mentaiko</p>
+<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/amix3k/status/2113525936360759554"><img src="https://pbs.twimg.com/media/HVTAnzfXkAAsCdU?format=jpg&amp;name=medium" alt="Todoist team experiments with AI inbox classification using Jev model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amix3k/status/2113525936360759554">Todoist team experiments with AI inbox classification using Jev model</a></h3>
+<p>The Todoist Comms team is experimenting with AI inbox classification using the Jev decision model, showcasing its potential in real-world applications.</p>
+<p><strong>96</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 96</p>
+<p><strong>Amir Salihefendić</strong> · @amix3k</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/nick_kango/status/2113459322005114972"><img src="https://pbs.twimg.com/media/HVSEDWpbwAAqCYr?format=jpg&amp;name=medium" alt="Discussion on Performance Differences Between Jev and Other Routers · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nick_kango/status/2113459322005114972">Discussion on Performance Differences Between Jev and Other Routers</a></h3>
-<p>The author notes that apart from Jev, the other three routers only used 2–4 models, so results may depend more on the underlying model pool than on routing.</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>Nick</strong> · @nick_kango</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DaisyDiao2/status/2113519513627197717"><img src="https://pbs.twimg.com/amplify_video_thumb/2113518852701290496/img/2FOi7tFfwcPJN1uQ.jpg" alt="Using JEV to filter surveillance footage by appearance · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DaisyDiao2/status/2113519513627197717">Using JEV to filter surveillance footage by appearance</a></h3>
+<p>The author shares a practical workflow: home surveillance first detects an animal, local YOLO performs a secondary check, then JEV is used to filter the front door footage by appearance to extract the clip of a cat catching a mouse.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>daisydiao.eth</strong> · @DaisyDiao2</p>
 </td>
 </tr>
 </table>

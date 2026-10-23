@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 528 | 227 | 304 | 1.1M |
+| 530 | 227 | 306 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tchsignal/status/2113519130024497530"><img src="https://pbs.twimg.com/media/HVS6cNDasAA-ID2?format=jpg&amp;name=medium" alt="OpenAI Decisions API Goes GA: Why Jev Matters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tchsignal/status/2113519130024497530">OpenAI Decisions API Goes GA: Why Jev Matters</a></h3>
+<p>This article explains the public availability of OpenAI&#39;s Decisions API and why Jev is relevant in this context.</p>
+<p><strong>中文摘要：</strong>这篇文章介绍 OpenAI Decisions API 正式公开带来的新思路，并解释为何 Jev 在这一背景下值得关注。</p>
+<p><strong>TechSignal</strong> · @tchsignal · 2026-10-23T06:33:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/tchsignal/status/2113519130024497530">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/logang2008/status/2113510710307438799"><img src="https://pbs.twimg.com/media/HVSysERW4AAXOjU?format=jpg&amp;name=medium" alt="OpenAI Decisions API Launches, Targeting TypeSafe Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/logang2008/status/2113510710307438799">OpenAI Decisions API Launches, Targeting TypeSafe Jev</a></h3>
+<p>OpenAI&#39;s Decisions API is now widely available, specializing in decision tasks with latency reduced to 100–180 ms, input at $0.10/M tokens and free output. Response interval dropped from 1.4s to 0.13s, directly targeting TypeSafe Jev.</p>
+<p><strong>中文摘要：</strong>OpenAI Decisions API 全面开放，专做决策任务，延迟低至 100-180 毫秒，输入费用 $0.10/百万 token，输出免单。数据显示响应间隔从 1.4 秒降至 0.13 秒，并直指 TypeSafe Jev。</p>
+<p><strong>logang</strong> · @logang2008 · 2026-10-23T05:59:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/logang2008/status/2113510710307438799">在 X 查看原帖</a> · <a href="https://t.co/QHQGJNnAjJ">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nouchinho_csm/status/2113509627556208854"><img src="https://pbs.twimg.com/media/HVSxtcRaIAAK3tE?format=jpg&amp;name=medium" alt="OpenAI Decisions API launched, compared with Jev · 原帖图片" width="100%"></a>

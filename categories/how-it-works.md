@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 573 | 249 | 325 | 1.6M |
+| 575 | 249 | 327 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vraj_ai/status/2113528813821067597"><img src="https://pbs.twimg.com/media/HVK56K4aYAEMDmC?format=jpg&amp;name=medium" alt="Mammoth-1 and Elephant-1 on the Jev Decision Index · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vraj_ai/status/2113528813821067597">Mammoth-1 and Elephant-1 on the Jev Decision Index</a></h3>
+<p>Vraj explains that mammoth-1 doesn&#39;t generate text; it takes a state and a few questions and returns probabilities for every option in one pass, suitable for ticket routing, yes/no checks, and team selection. He also recommends the 9B elephant-1, which scores 62.65 on the Jev Decision Index.</p>
+<p><strong>中文摘要：</strong>Vraj 表示 mammoth-1 不生成文本，而是根据状态和几个问题一次返回所有选项的概率，适合工单路由、yes/no 检查和团队选择；同时推荐 9B 的 elephant-1，它在 Jev Decision Index 上取得 62.65 分。</p>
+<p><strong>Vraj</strong> · @vraj_ai · 2026-10-23T07:11:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/vraj_ai/status/2113528813821067597">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ariG23498/status/2113515431248212392"><img src="https://pbs.twimg.com/media/HVS3DuzbMAAwRy8?format=png&amp;name=medium" alt="Reading Simon Willison on Jev as a black-box decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ariG23498/status/2113515431248212392">Reading Simon Willison on Jev as a black-box decision model</a></h3>
+<p>Aritra shares Simon Willison&#39;s article about Jev, noting his take on it as a black-box decision model.</p>
+<p><strong>中文摘要：</strong>Aritra 在阅读关于决策模型的内容时看到了 Simon Willison 的文章，并分享了他对 Jev 作为黑盒模型的看法。</p>
+<p><strong>Aritra 🤗</strong> · @ariG23498 · 2026-10-23T06:18:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 404</p>
+<p><a href="https://x.com/ariG23498/status/2113515431248212392">在 X 查看原帖</a> · <a href="https://t.co/ykTGehkjjU">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sangamesh_gupta/status/2113465805912297507"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113465748098068480/pu/img/FoD9vcC2ErUZkIm_.jpg" alt="How Jev Works: Intercepting Calls Between Agent and Action · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 374 | 151 | 223 | 419K |
+| 376 | 151 | 225 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hackernoon/status/2113524202871365921"><img src="https://pbs.twimg.com/media/HVS_D5CWAAADzbh?format=jpg&amp;name=medium" alt="20 Local Decision Models Run Free Locally, Most Beat the Original Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hackernoon/status/2113524202871365921">20 Local Decision Models Run Free Locally, Most Beat the Original Jev</a></h3>
+<p>HackerNoon shares 20 decision models that run locally for free, comparing most of them favorably against the original Jev.</p>
+<p><strong>中文摘要：</strong>HackerNoon分享20个可本地免费运行的决策模型，并与原版Jev进行对比，探讨本地决策模型的优势。</p>
+<p><strong>HackerNoon | Learn Any Technology</strong> · @hackernoon · 2026-10-23T06:53:32.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 197</p>
+<p><a href="https://x.com/hackernoon/status/2113524202871365921">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ytiomin/status/2113520877774238131"><img src="https://pbs.twimg.com/media/HVS2pAjbsAAGIfN?format=jpg&amp;name=medium" alt="An Interpretive Skill Combining Jev Concepts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ytiomin/status/2113520877774238131">An Interpretive Skill Combining Jev Concepts</a></h3>
+<p>The author built an interpretive skill combining ideas from pele, Jev, and Karpathy&#39;s ASD-STE100. It automatically selects UI components to render answers, customizes colors for content blocks, and supports component stacking with automatic time tracking.</p>
+<p><strong>中文摘要：</strong>作者结合pele、Jev和Karpathy的ASD-STE100思路，开发了一套解释性技能。该技能可自动挑选UI组件渲染回答，并为内容块自定义配色，支持组件叠加和自动耗时记录。</p>
+<p><strong>⛩ytiomin🏰</strong> · @ytiomin · 2026-10-23T06:40:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/ytiomin/status/2113520877774238131">在 X 查看原帖</a> · <a href="https://t.co/TwbpjjmPOy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MiguelriosEN/status/2113368151794557093"><img src="https://pbs.twimg.com/media/HVQxfl0bUAAPaZg.jpg" alt="Open-sourcing a workflow DSL with TypeSafe Jev-powered routing · 原帖视频截图" width="100%"></a>

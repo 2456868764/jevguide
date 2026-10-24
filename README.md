@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6164</strong><br>curated posts</td>
-<td align="center"><strong>3074</strong><br>original videos</td>
+<td align="center"><strong>6168</strong><br>curated posts</td>
+<td align="center"><strong>3077</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1158</strong> showcases · <strong>479</strong> videos</p>
+<p><strong>1159</strong> showcases · <strong>479</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>624</strong> showcases · <strong>311</strong> videos</p>
+<p><strong>625</strong> showcases · <strong>312</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>311</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>312</strong> showcases · <strong>183</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>58</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>59</strong> showcases · <strong>35</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/dimon3m/status/2113926954650866082"><img src="https://pbs.twimg.com/media/HVYtXO6XYAAWzxq?format=jpg&amp;name=medium" alt="What the Jev model costs per month on OpenRouter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dimon3m/status/2113926954650866082">What the Jev model costs per month on OpenRouter</a></h3>
-<p>Shares a link to an article about the monthly cost of using the Jev model on OpenRouter for a small team.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Dima | AI at Sea</strong> · @dimon3m</p>
+<p><strong>01</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2113960753564627294"><img src="https://pbs.twimg.com/amplify_video_thumb/2113960512132104192/img/HyLTF-gwnlBcIFip.jpg" alt="Jev answers with just one word, avoiding verbose AI replies · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2113960753564627294">Jev answers with just one word, avoiding verbose AI replies</a></h3>
+<p>The post notes that many AI products produce full sentences for simple questions and charge per word, while Jev only outputs one word, making it suitable for deciding ticket urgency and team assignment.</p>
+<p><strong>442</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 442</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/KaiWaehner/status/2113923408844976178"><img src="https://pbs.twimg.com/media/HVYqA2ZW4AA5wG9?format=png&amp;name=medium" alt="Jev as a Decision Model to Improve RAG Pipeline Efficiency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KaiWaehner/status/2113923408844976178">Jev as a Decision Model to Improve RAG Pipeline Efficiency</a></h3>
-<p>ThoughtWorks found that only one model call in a RAG pipeline writes text; the rest are decisions. Moving them to Jev, a decision model, returns a probability per step to route between automation, an LLM, and a human. The same fits Agentic AI.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
-<p><strong>Kai Wähner</strong> · @KaiWaehner</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/emadev01/status/2113955870442717628"><img src="https://pbs.twimg.com/amplify_video_thumb/2113955851786502144/img/ivd6gvqoVFF2-cm2.jpg" alt="DevMotion CLI adds natural language desktop recording · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/emadev01/status/2113955870442717628">DevMotion CLI adds natural language desktop recording</a></h3>
+<p>The devmotion record command in DevMotion CLI drives any desktop app from plain English and records it. Jev finds click targets in ~0.5 s at ~$0.0005 per target.</p>
+<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 24</p>
+<p><strong>EmaDev</strong> · @emadev01</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/codersoar/status/2113916832621162714"><img src="https://pbs.twimg.com/media/HVYkBGGaUAAEmL-?format=jpg&amp;name=medium" alt="Jev Model Performs Well in Multi-Agent Group Chat Decision-Making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/codersoar/status/2113916832621162714">Jev Model Performs Well in Multi-Agent Group Chat Decision-Making</a></h3>
-<p>User reports that the Jev model is both fast and effective when applied to multi-agent group chat decision-making.</p>
-<p><strong>61</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
-<p><strong>soar</strong> · @codersoar</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/PresteignAI/status/2113954028635758833"><img src="https://pbs.twimg.com/media/HVZFMuHXsAAouA7?format=png&amp;name=small" alt="Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PresteignAI/status/2113954028635758833">Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog</a></h3>
+<p>The post remarks that Jev has transitioned from trendy to de facto, recommends re-reading the TypeSafe AI blog post, and praises it as informative and witty.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 4</p>
+<p><strong>Presteign</strong> · @PresteignAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/NFT_Chen/status/2113908951289049599"><img src="https://pbs.twimg.com/media/HVYc-gcakAATVPd?format=jpg&amp;name=900x900" alt="DeepEval Launches JevEval: Use Jev as an Evaluation Judge · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2113908951289049599">DeepEval Launches JevEval: Use Jev as an Evaluation Judge</a></h3>
-<p>DeepEval officially launches JevEval, using Jev as a custom evaluation judge instead of relying on another LLM to generate scores, addressing the flakiness of generative judges.</p>
-<p><strong>1.3K</strong> views · 💬 9 &nbsp; 🔁 5 &nbsp; ♡ 17 &nbsp; 📊 1.3K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/T_I_SHOW/status/2113952643131506758"><img src="https://pbs.twimg.com/amplify_video_thumb/2113951724314730497/img/L1hl2SRdx4ejtgfu.jpg" alt="Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/T_I_SHOW/status/2113952643131506758">Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses</a></h3>
+<p>After adjusting conditions, the user had AI (Jev) judge U.S. stock SPY every second. In about 4 hours, it made 14,285 judgments and 11 round-trip trades, ending with 1 win, 1 draw, 9 losses, and a $1.68 loss. Simply changing the numeric format significantly improved the AI&#39;s decision bias, and the results were compiled into an article.</p>
+<p><strong>80</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 80</p>
+<p><strong>大将</strong> · @T_I_SHOW</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2113960753564627294"><img src="https://pbs.twimg.com/amplify_video_thumb/2113960512132104192/img/HyLTF-gwnlBcIFip.jpg" alt="Jev answers with just one word, avoiding verbose AI replies · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2113960753564627294">Jev answers with just one word, avoiding verbose AI replies</a></h3>
+<p>The post notes that many AI products produce full sentences for simple questions and charge per word, while Jev only outputs one word, making it suitable for deciding ticket urgency and team assignment.</p>
+<p><strong>442</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 442</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/T_I_SHOW/status/2113952643131506758"><img src="https://pbs.twimg.com/amplify_video_thumb/2113951724314730497/img/L1hl2SRdx4ejtgfu.jpg" alt="Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/T_I_SHOW/status/2113952643131506758">Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses</a></h3>
+<p>After adjusting conditions, the user had AI (Jev) judge U.S. stock SPY every second. In about 4 hours, it made 14,285 judgments and 11 round-trip trades, ending with 1 win, 1 draw, 9 losses, and a $1.68 loss. Simply changing the numeric format significantly improved the AI&#39;s decision bias, and the results were compiled into an article.</p>
+<p><strong>80</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 80</p>
+<p><strong>大将</strong> · @T_I_SHOW</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/dimon3m/status/2113926954650866082"><img src="https://pbs.twimg.com/media/HVYtXO6XYAAWzxq?format=jpg&amp;name=medium" alt="What the Jev model costs per month on OpenRouter · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/dimon3m/status/2113926954650866082">What the Jev model costs per month on OpenRouter</a></h3>
 <p>Shares a link to an article about the monthly cost of using the Jev model on OpenRouter for a small team.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>Dima | AI at Sea</strong> · @dimon3m</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/NFT_Chen/status/2113908951289049599"><img src="https://pbs.twimg.com/media/HVYc-gcakAATVPd?format=jpg&amp;name=900x900" alt="DeepEval Launches JevEval: Use Jev as an Evaluation Judge · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NFT_Chen/status/2113908951289049599">DeepEval Launches JevEval: Use Jev as an Evaluation Judge</a></h3>
-<p>DeepEval officially launches JevEval, using Jev as a custom evaluation judge instead of relying on another LLM to generate scores, addressing the flakiness of generative judges.</p>
-<p><strong>1.3K</strong> views · 💬 9 &nbsp; 🔁 5 &nbsp; ♡ 17 &nbsp; 📊 1.3K</p>
-<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xasten/status/2113900072211751323"><img src="https://pbs.twimg.com/amplify_video_thumb/2113669735107727360/img/Xcexkww8nsjs9Hii.jpg" alt="Using JEV as a complement in robot voice setups · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xasten/status/2113900072211751323">Using JEV as a complement in robot voice setups</a></h3>
-<p>The user praises a voice system&#39;s natural conversation feel and envisions using it as the robot&#39;s voice layer, with JEV handling other parts of the full robot setup.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Asten</strong> · @0xasten</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/BuilderOfAgents/status/2113864312037028243"><img src="https://pbs.twimg.com/media/HVPBroma8AAsSbc?format=png&amp;name=medium" alt="Jev Judge Generalization Test: In-Domain High Score Doesn&#39;t Equal Reliability · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BuilderOfAgents/status/2113864312037028243">Jev Judge Generalization Test: In-Domain High Score Doesn&#39;t Equal Reliability</a></h3>
-<p>A test shows a 4B judge trained on human labels outperformed Jev 1.14 in-domain (89.4% vs 82.2%), but ranked 855th out of 2000 on unseen PubMed questions; a 4B model trained on Jev&#39;s answers ranked 1st (922). Conclusion: in-domain scores alone are insufficient—test off-domain before trusting a judge.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Harness Builder | AI Agents</strong> · @BuilderOfAgents</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/sino_tech2026/status/2113887883975381152"><img src="https://pbs.twimg.com/media/HVYJ0vNaYAAHmCd?format=jpg&amp;name=medium" alt="Jev attempts a Final Fight-style homemade game, scoring one-third of a human · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sino_tech2026/status/2113887883975381152">Jev attempts a Final Fight-style homemade game, scoring one-third of a human</a></h3>
+<p>A JAWS-UG Ibaraki community post about having Jev play a homemade Final Fight-style game, achieving about one-third of a human score. The suspected cause was UAT, highlighting the importance of context.</p>
+<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><strong>しのテック</strong> · @sino_tech2026</p>
 </td>
 </tr>
 </table>

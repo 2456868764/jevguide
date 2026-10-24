@@ -19,10 +19,10 @@
 - [恒星sun](../authors/恒星sun.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
+- [plutos](../authors/plutos.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Dhanian 🗯️](../authors/dhanian.md) — 9
-- [plutos](../authors/plutos.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 8
@@ -1733,6 +1733,7 @@
 - [Elvis](../authors/elvis.md) — 1
 - [EM360Tech](../authors/em360tech.md) — 1
 - [Emaad Manzoor](../authors/emaad-manzoor.md) — 1
+- [EmaDev](../authors/emadev.md) — 1
 - [Emergent](../authors/emergent.md) — 1
 - [Emil](../authors/emil.md) — 1
 - [Emilian Siemsia](../authors/emilian-siemsia.md) — 1
@@ -3021,6 +3022,7 @@
 - [Praveen Sundar](../authors/praveen-sundar.md) — 1
 - [Prem](../authors/prem.md) — 1
 - [Prerit Kushwaha](../authors/prerit-kushwaha.md) — 1
+- [Presteign](../authors/presteign.md) — 1
 - [Prime Analytix](../authors/prime-analytix.md) — 1
 - [Prince Ajuzie](../authors/prince-ajuzie.md) — 1
 - [Pritam Chakroborty](../authors/pritam-chakroborty.md) — 1
@@ -4158,6 +4160,7 @@
 - [名人｜マナリンクCTO](../authors/名人-cto.md) — 1
 - [堀江良 | アプリで”音楽を楽しむ”を応援する人](../authors/堀江良-音楽-楽-応援-人.md) — 1
 - [夢桜@りふぃるらばーず⭐](../authors/夢桜.md) — 1
+- [大将](../authors/大将.md) — 1
 - [大有](../authors/大有.md) — 1
 - [大楊Jonathan](../authors/大楊jonathan.md) — 1
 - [大瀧 達生 / 株式会社◯ / AI研究 / 地方創生 /](../authors/大瀧-達生-株式会社-ai研究-地方創生.md) — 1

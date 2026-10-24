@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-24T11:48:13.000Z | [Jev answers with just one word, avoiding verbose AI replies](https://x.com/plutos_eth/status/2113960753564627294) | 客户支持 | plutos | 442 |
+| 2026-10-24T11:28:49.000Z | [DevMotion CLI adds natural language desktop recording](https://x.com/emadev01/status/2113955870442717628) | 开发者工具 | EmaDev | 24 |
+| 2026-10-24T11:21:30.000Z | [Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog](https://x.com/PresteignAI/status/2113954028635758833) | 社区实践 | Presteign | 4 |
+| 2026-10-24T11:16:00.000Z | [Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses](https://x.com/T_I_SHOW/status/2113952643131506758) | 金融 | 大将 | 80 |
 | 2026-10-24T09:33:55.000Z | [What the Jev model costs per month on OpenRouter](https://x.com/dimon3m/status/2113926954650866082) | 开发资源 | Dima \| AI at Sea | 4 |
 | 2026-10-24T09:19:50.000Z | [Jev as a Decision Model to Improve RAG Pipeline Efficiency](https://x.com/KaiWaehner/status/2113923408844976178) | 知识与搜索 | Kai Wähner | 26 |
 | 2026-10-24T08:53:42.000Z | [Jev Model Performs Well in Multi-Agent Group Chat Decision-Making](https://x.com/codersoar/status/2113916832621162714) | 智能体 | soar | 61 |
@@ -98,7 +102,3 @@
 | 2026-10-22T23:04:13.000Z | [Jev 1.14 vs OpenAI Decisions API pricing comparison](https://x.com/DegenOfWallSt/status/2113406096731943110) | 接入动态 | Syb | 108 |
 | 2026-10-22T22:45:37.000Z | [User says Jev outperforms OpenAI in decision quality and is cheaper](https://x.com/Powertothepipol/status/2113401416945406034) | 社区实践 | Powertothepeople | 18 |
 | 2026-10-22T22:43:00.000Z | [Ant releases LingDT decision model, claims to surpass Jev 1.13](https://x.com/ai_fengshou/status/2113400757122969710) | 产品发布 | 丰收 | 267 |
-| 2026-10-22T22:14:35.000Z | [Built a photo manager with Jev image search and face recognition](https://x.com/ViralManager/status/2113393608514793685) | 社区实践 | ras | 116 |
-| 2026-10-22T21:54:31.000Z | [Building Document QA with JEV](https://x.com/EShishniashvili/status/2113388558610243918) | 知识与搜索 | Erekle Shishniashvili | 79 |
-| 2026-10-22T21:36:27.000Z | [OpenAI Releases Decisions API; Jev Seen as Decision-Model Rival](https://x.com/TheAIIndex_dev/status/2113384009023557776) | 产品发布 | The AI Index | 12 |
-| 2026-10-22T21:30:16.000Z | [OpenAI Broadly Releases Decisions API, Competing with Jev](https://x.com/binavira_ir/status/2113382455885332848) | 产品发布 | هوش مصنوعی بینا ویرا | 13 |

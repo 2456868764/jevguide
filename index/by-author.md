@@ -974,6 +974,7 @@
 - [Adarsh Gupta](../authors/adarsh-gupta.md) — 1
 - [Adekz TI](../authors/adekz-ti.md) — 1
 - [Aden](../authors/aden.md) — 1
+- [Adham](../authors/adham.md) — 1
 - [Adi Unnithan](../authors/adi-unnithan.md) — 1
 - [Adithya Thatipalli](../authors/adithya-thatipalli.md) — 1
 - [Aditya](../authors/aditya.md) — 1
@@ -1231,6 +1232,7 @@
 - [Arturo L. Gómez](../authors/arturo-l-gomez.md) — 1
 - [arty.hl](../authors/arty-hl.md) — 1
 - [Arx](../authors/arx.md) — 1
+- [Aryan](../authors/aryan.md) — 1
 - [asahide](../authors/asahide.md) — 1
 - [asanjinez](../authors/asanjinez.md) — 1
 - [Asfar Sadewa](../authors/asfar-sadewa.md) — 1
@@ -1803,6 +1805,7 @@
 - [Faramarz](../authors/faramarz.md) — 1
 - [Farhan Azad Shuvra](../authors/farhan-azad-shuvra.md) — 1
 - [Farid](../authors/farid.md) — 1
+- [Faris](../authors/faris.md) — 1
 - [Farokh](../authors/farokh.md) — 1
 - [Fastlane](../authors/fastlane.md) — 1
 - [fatih kadir akın](../authors/fatih-kadir-ak-n.md) — 1
@@ -2734,6 +2737,7 @@
 - [Muhammad Kashan Ashraf](../authors/muhammad-kashan-ashraf.md) — 1
 - [Muhammad Waris](../authors/muhammad-waris.md) — 1
 - [Muhammad Waseem Nasir](../authors/muhammad-waseem-nasir.md) — 1
+- [mukay](../authors/mukay.md) — 1
 - [Mukesh Bishnoi](../authors/mukesh-bishnoi.md) — 1
 - [Muskan Paliwal](../authors/muskan-paliwal.md) — 1
 - [Muthukumar G.V](../authors/muthukumar-g-v.md) — 1
@@ -3867,6 +3871,7 @@
 - [Zain](../authors/zain.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
+- [Zazzy Stardust](../authors/zazzy-stardust.md) — 1
 - [Zebro](../authors/zebro.md) — 1
 - [Zed](../authors/zed.md) — 1
 - [Zee](../authors/zee.md) — 1

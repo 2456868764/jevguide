@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 535 | 228 | 310 | 1.1M |
+| 537 | 230 | 310 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ifaris25/status/2113980460443607178"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Seeing Jev once convinced me of its market potential · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ifaris25/status/2113980460443607178">Seeing Jev once convinced me of its market potential</a></h3>
+<p>The author says that upon first encountering Jev, they knew this type of model would disrupt the market, as it handles use cases much faster than traditional LLMs at significantly lower cost, and predicts other tech giants will follow with similar architectures.</p>
+<p><strong>中文摘要：</strong>作者表示初次接触Jev就认为这类模型将改变市场，因为其处理用例的速度远超传统LLM，且成本大幅降低，并预测其他科技巨头也会跟进类似架构。</p>
+<p><strong>Faris</strong> · @ifaris25 · 2026-10-24T13:06:32.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/ifaris25/status/2113980460443607178">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xMukay/status/2113967410424283186"><img src="https://pbs.twimg.com/amplify_video_thumb/2113967321567940608/img/Aqa0YoG3Gd65hvaL.jpg" alt="Jev Model Performance and Pricing Metrics · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xMukay/status/2113967410424283186">Jev Model Performance and Pricing Metrics</a></h3>
+<p>Mukay highlights Jev&#39;s decision speed (70-500ms), input token pricing ($0.042/m), 20-200x speedup and 40-400x cost reduction, plus 67.8% frontier consensus at 76x lower cost. Also notes a Monad bot at 81ms and $10-25/month for 24/7 block loop, but lacks the exact TypeSafe four-workflow eval table.</p>
+<p><strong>中文摘要：</strong>mukay介绍了Jev模型的决策速度（70-500ms）、输入token定价（$0.042/m）、相对20-200x加速和40-400x成本降低，以及67.8%前沿一致性（成本低76倍）。同时提到Monad机器人延迟81ms，月费$10-25，但缺少TypeSafe四个工作流评估表的详细数据。</p>
+<p><strong>mukay</strong> · @0xMukay · 2026-10-24T12:14:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 94</p>
+<p><a href="https://x.com/0xMukay/status/2113967410424283186">在 X 查看原帖</a> · <a href="https://grok.com/imagine/post/f1e86d2a-b3e6-44bf-826c-4bcecc1f0845">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NewsAi_Az/status/2113877021835084035"><img src="https://pbs.twimg.com/media/HVX_8XbXIAApDVU?format=jpg&amp;name=medium" alt="OpenAI Releases Decision Model, Raising the Question of Surpassing Jev · 原帖图片" width="100%"></a>

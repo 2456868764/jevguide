@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6168</strong><br>curated posts</td>
-<td align="center"><strong>3077</strong><br>original videos</td>
+<td align="center"><strong>6173</strong><br>curated posts</td>
+<td align="center"><strong>3081</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1159</strong> showcases · <strong>479</strong> videos</p>
+<p><strong>1161</strong> showcases · <strong>481</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>576</strong> showcases · <strong>250</strong> videos</p>
+<p><strong>577</strong> showcases · <strong>250</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>535</strong> showcases · <strong>228</strong> videos</p>
+<p><strong>537</strong> showcases · <strong>230</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2113960753564627294"><img src="https://pbs.twimg.com/amplify_video_thumb/2113960512132104192/img/HyLTF-gwnlBcIFip.jpg" alt="Jev answers with just one word, avoiding verbose AI replies · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2113960753564627294">Jev answers with just one word, avoiding verbose AI replies</a></h3>
-<p>The post notes that many AI products produce full sentences for simple questions and charge per word, while Jev only outputs one word, making it suitable for deciding ticket urgency and team assignment.</p>
-<p><strong>442</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 442</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/ifaris25/status/2113980460443607178"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Seeing Jev once convinced me of its market potential · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ifaris25/status/2113980460443607178">Seeing Jev once convinced me of its market potential</a></h3>
+<p>The author says that upon first encountering Jev, they knew this type of model would disrupt the market, as it handles use cases much faster than traditional LLMs at significantly lower cost, and predicts other tech giants will follow with similar architectures.</p>
+<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Faris</strong> · @ifaris25</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/emadev01/status/2113955870442717628"><img src="https://pbs.twimg.com/amplify_video_thumb/2113955851786502144/img/ivd6gvqoVFF2-cm2.jpg" alt="DevMotion CLI adds natural language desktop recording · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/emadev01/status/2113955870442717628">DevMotion CLI adds natural language desktop recording</a></h3>
-<p>The devmotion record command in DevMotion CLI drives any desktop app from plain English and records it. Jev finds click targets in ~0.5 s at ~$0.0005 per target.</p>
-<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 24</p>
-<p><strong>EmaDev</strong> · @emadev01</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/Adham__Khaled__/status/2113976880751653021"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev Model Test Selection Benchmark · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Adham__Khaled__/status/2113976880751653021">Jev Model Test Selection Benchmark</a></h3>
+<p>User reports Jev model picked the correct test suite in all 12 Claude Code fixes, while Claude only did 9.</p>
+<p><strong>56</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
+<p><strong>Adham</strong> · @Adham__Khaled__</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/PresteignAI/status/2113954028635758833"><img src="https://pbs.twimg.com/media/HVZFMuHXsAAouA7?format=png&amp;name=small" alt="Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PresteignAI/status/2113954028635758833">Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog</a></h3>
-<p>The post remarks that Jev has transitioned from trendy to de facto, recommends re-reading the TypeSafe AI blog post, and praises it as informative and witty.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 4</p>
-<p><strong>Presteign</strong> · @PresteignAI</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/zazzy_stardust/status/2113975527820374068"><img src="https://pbs.twimg.com/amplify_video_thumb/2113975429153669120/img/ZigD2FYMtIXw305O.jpg" alt="Free AI Models List Includes Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/zazzy_stardust/status/2113975527820374068">Free AI Models List Includes Jev</a></h3>
+<p>The post lists top free AI models, including Jev, and asks which one users would try first.</p>
+<p><strong>392</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 392</p>
+<p><strong>Zazzy Stardust</strong> · @zazzy_stardust</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/T_I_SHOW/status/2113952643131506758"><img src="https://pbs.twimg.com/amplify_video_thumb/2113951724314730497/img/L1hl2SRdx4ejtgfu.jpg" alt="Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/T_I_SHOW/status/2113952643131506758">Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses</a></h3>
-<p>After adjusting conditions, the user had AI (Jev) judge U.S. stock SPY every second. In about 4 hours, it made 14,285 judgments and 11 round-trip trades, ending with 1 win, 1 draw, 9 losses, and a $1.68 loss. Simply changing the numeric format significantly improved the AI&#39;s decision bias, and the results were compiled into an article.</p>
-<p><strong>80</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 80</p>
-<p><strong>大将</strong> · @T_I_SHOW</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175"><img src="https://pbs.twimg.com/media/HVZWYZVXQAIjcje?format=jpg&amp;name=medium" alt="TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175">TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values</a></h3>
+<p>The post quotes TypeSafe CEO Diogo Almeida about a massive leak of all customer noul outputs, revealing the leak to be a gist of 101 numbers (0.00 to 1.00) — i.e., the complete set of possible outputs of the Jev model&#39;s yes/no probability, mocking the leak as trivial.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Aryan</strong> · @Aryan_Ali_Pro</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2113960753564627294"><img src="https://pbs.twimg.com/amplify_video_thumb/2113960512132104192/img/HyLTF-gwnlBcIFip.jpg" alt="Jev answers with just one word, avoiding verbose AI replies · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2113960753564627294">Jev answers with just one word, avoiding verbose AI replies</a></h3>
-<p>The post notes that many AI products produce full sentences for simple questions and charge per word, while Jev only outputs one word, making it suitable for deciding ticket urgency and team assignment.</p>
-<p><strong>442</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 442</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/ifaris25/status/2113980460443607178"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Seeing Jev once convinced me of its market potential · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ifaris25/status/2113980460443607178">Seeing Jev once convinced me of its market potential</a></h3>
+<p>The author says that upon first encountering Jev, they knew this type of model would disrupt the market, as it handles use cases much faster than traditional LLMs at significantly lower cost, and predicts other tech giants will follow with similar architectures.</p>
+<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Faris</strong> · @ifaris25</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/T_I_SHOW/status/2113952643131506758"><img src="https://pbs.twimg.com/amplify_video_thumb/2113951724314730497/img/L1hl2SRdx4ejtgfu.jpg" alt="Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/T_I_SHOW/status/2113952643131506758">Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses</a></h3>
-<p>After adjusting conditions, the user had AI (Jev) judge U.S. stock SPY every second. In about 4 hours, it made 14,285 judgments and 11 round-trip trades, ending with 1 win, 1 draw, 9 losses, and a $1.68 loss. Simply changing the numeric format significantly improved the AI&#39;s decision bias, and the results were compiled into an article.</p>
-<p><strong>80</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 80</p>
-<p><strong>大将</strong> · @T_I_SHOW</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175"><img src="https://pbs.twimg.com/media/HVZWYZVXQAIjcje?format=jpg&amp;name=medium" alt="TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175">TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values</a></h3>
+<p>The post quotes TypeSafe CEO Diogo Almeida about a massive leak of all customer noul outputs, revealing the leak to be a gist of 101 numbers (0.00 to 1.00) — i.e., the complete set of possible outputs of the Jev model&#39;s yes/no probability, mocking the leak as trivial.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Aryan</strong> · @Aryan_Ali_Pro</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/dimon3m/status/2113926954650866082"><img src="https://pbs.twimg.com/media/HVYtXO6XYAAWzxq?format=jpg&amp;name=medium" alt="What the Jev model costs per month on OpenRouter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dimon3m/status/2113926954650866082">What the Jev model costs per month on OpenRouter</a></h3>
-<p>Shares a link to an article about the monthly cost of using the Jev model on OpenRouter for a small team.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Dima | AI at Sea</strong> · @dimon3m</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xMukay/status/2113967410424283186"><img src="https://pbs.twimg.com/amplify_video_thumb/2113967321567940608/img/Aqa0YoG3Gd65hvaL.jpg" alt="Jev Model Performance and Pricing Metrics · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xMukay/status/2113967410424283186">Jev Model Performance and Pricing Metrics</a></h3>
+<p>Mukay highlights Jev&#39;s decision speed (70-500ms), input token pricing ($0.042/m), 20-200x speedup and 40-400x cost reduction, plus 67.8% frontier consensus at 76x lower cost. Also notes a Monad bot at 81ms and $10-25/month for 24/7 block loop, but lacks the exact TypeSafe four-workflow eval table.</p>
+<p><strong>94</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 94</p>
+<p><strong>mukay</strong> · @0xMukay</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/sino_tech2026/status/2113887883975381152"><img src="https://pbs.twimg.com/media/HVYJ0vNaYAAHmCd?format=jpg&amp;name=medium" alt="Jev attempts a Final Fight-style homemade game, scoring one-third of a human · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sino_tech2026/status/2113887883975381152">Jev attempts a Final Fight-style homemade game, scoring one-third of a human</a></h3>
-<p>A JAWS-UG Ibaraki community post about having Jev play a homemade Final Fight-style game, achieving about one-third of a human score. The suspected cause was UAT, highlighting the importance of context.</p>
-<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
-<p><strong>しのテック</strong> · @sino_tech2026</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/KaiWaehner/status/2113923408844976178"><img src="https://pbs.twimg.com/media/HVYqA2ZW4AA5wG9?format=png&amp;name=medium" alt="Jev as a Decision Model to Improve RAG Pipeline Efficiency · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KaiWaehner/status/2113923408844976178">Jev as a Decision Model to Improve RAG Pipeline Efficiency</a></h3>
+<p>ThoughtWorks found that only one model call in a RAG pipeline writes text; the rest are decisions. Moving them to Jev, a decision model, returns a probability per step to route between automation, an LLM, and a human. The same fits Agentic AI.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><strong>Kai Wähner</strong> · @KaiWaehner</p>
 </td>
 </tr>
 </table>

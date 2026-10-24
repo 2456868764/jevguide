@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1159 | 479 | 685 | 3.0M |
+| 1161 | 481 | 685 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Adham__Khaled__/status/2113976880751653021"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev Model Test Selection Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Adham__Khaled__/status/2113976880751653021">Jev Model Test Selection Benchmark</a></h3>
+<p>User reports Jev model picked the correct test suite in all 12 Claude Code fixes, while Claude only did 9.</p>
+<p><strong>中文摘要：</strong>用户测试发现Jev模型在12个Claude Code修复案例中全部选对测试套件，而Claude仅答对9个。</p>
+<p><strong>Adham</strong> · @Adham__Khaled__ · 2026-10-24T12:52:18.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
+<p><a href="https://x.com/Adham__Khaled__/status/2113976880751653021">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/zazzy_stardust/status/2113975527820374068"><img src="https://pbs.twimg.com/amplify_video_thumb/2113975429153669120/img/ZigD2FYMtIXw305O.jpg" alt="Free AI Models List Includes Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zazzy_stardust/status/2113975527820374068">Free AI Models List Includes Jev</a></h3>
+<p>The post lists top free AI models, including Jev, and asks which one users would try first.</p>
+<p><strong>中文摘要：</strong>帖子列出了一些顶级免费 AI 模型，其中包括 Jev，并询问用户会优先选择哪一个。</p>
+<p><strong>Zazzy Stardust</strong> · @zazzy_stardust · 2026-10-24T12:46:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 392</p>
+<p><a href="https://x.com/zazzy_stardust/status/2113975527820374068">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PresteignAI/status/2113954028635758833"><img src="https://pbs.twimg.com/media/HVZFMuHXsAAouA7?format=png&amp;name=small" alt="Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog · 原帖图片" width="100%"></a>

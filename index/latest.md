@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-24T13:06:32.000Z | [Seeing Jev once convinced me of its market potential](https://x.com/ifaris25/status/2113980460443607178) | 产品发布 | Faris | 39 |
+| 2026-10-24T12:52:18.000Z | [Jev Model Test Selection Benchmark](https://x.com/Adham__Khaled__/status/2113976880751653021) | 社区实践 | Adham | 56 |
+| 2026-10-24T12:46:56.000Z | [Free AI Models List Includes Jev](https://x.com/zazzy_stardust/status/2113975527820374068) | 社区实践 | Zazzy Stardust | 392 |
+| 2026-10-24T12:33:09.000Z | [TypeSafe Jev Model's "Massive Leak": Just 101 Probability Values](https://x.com/Aryan_Ali_Pro/status/2113972059239768175) | 工作原理 | Aryan | 12 |
+| 2026-10-24T12:14:40.000Z | [Jev Model Performance and Pricing Metrics](https://x.com/0xMukay/status/2113967410424283186) | 产品发布 | mukay | 94 |
 | 2026-10-24T11:48:13.000Z | [Jev answers with just one word, avoiding verbose AI replies](https://x.com/plutos_eth/status/2113960753564627294) | 客户支持 | plutos | 442 |
 | 2026-10-24T11:28:49.000Z | [DevMotion CLI adds natural language desktop recording](https://x.com/emadev01/status/2113955870442717628) | 开发者工具 | EmaDev | 24 |
 | 2026-10-24T11:21:30.000Z | [Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog](https://x.com/PresteignAI/status/2113954028635758833) | 社区实践 | Presteign | 4 |
@@ -97,8 +102,3 @@
 | 2026-10-23T02:25:33.000Z | [Jev routing and API key management update](https://x.com/heliocosta/status/2113456766360932473) | 产品发布 | Hélio Costa | 56 |
 | 2026-10-23T02:15:03.000Z | [Vectorize Adds Jev as a Reranker Provider](https://x.com/Vectorizeio/status/2113454122150056392) | 知识与搜索 | Vectorize | 24 |
 | 2026-10-23T01:36:59.000Z | [Hands-on with Jev: Decision-only model saves cost and boosts efficiency](https://x.com/small2huge/status/2113444541550440862) | 社区实践 | 蜗牛AI | 12 |
-| 2026-10-23T00:39:09.000Z | [Workday's engagement with Jev](https://x.com/EGafni/status/2113429987504382198) | 接入动态 | Erik Spock Gafni (hiring!) | 2.0K |
-| 2026-10-23T00:00:17.000Z | [Jev Lets AI Agents Learn From Each Other's Mistakes](https://x.com/thedoomguy_ai/status/2113420208966697248) | 智能体 | The DOOM Guy | 88 |
-| 2026-10-22T23:04:13.000Z | [Jev 1.14 vs OpenAI Decisions API pricing comparison](https://x.com/DegenOfWallSt/status/2113406096731943110) | 接入动态 | Syb | 108 |
-| 2026-10-22T22:45:37.000Z | [User says Jev outperforms OpenAI in decision quality and is cheaper](https://x.com/Powertothepipol/status/2113401416945406034) | 社区实践 | Powertothepeople | 18 |
-| 2026-10-22T22:43:00.000Z | [Ant releases LingDT decision model, claims to surpass Jev 1.13](https://x.com/ai_fengshou/status/2113400757122969710) | 产品发布 | 丰收 | 267 |

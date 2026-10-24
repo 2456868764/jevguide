@@ -3,8 +3,8 @@
 - [Community builds](../categories/community-builds.md) — 1161
 - [Developer tools](../categories/developer-tools.md) — 625
 - [How it works](../categories/how-it-works.md) — 580
-- [Launch news](../categories/launch-news.md) — 537
-- [Agents](../categories/agents.md) — 487
+- [Launch news](../categories/launch-news.md) — 538
+- [Agents](../categories/agents.md) — 488
 - [Access updates](../categories/access-updates.md) — 411
 - [Gaming](../categories/gaming.md) — 385
 - [Developer resources](../categories/developer-resources.md) — 379

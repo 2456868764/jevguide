@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-24T15:42:34.000Z | [Jev improves test suite selection accuracy in agentic coding loops](https://x.com/JhAquarium/status/2114019729585152082) | 智能体 | Jerry Hong | 8 |
+| 2026-10-24T15:33:53.000Z | [Jev Founder Says JEV Is the Next Era for LLMs](https://x.com/TechByNagma/status/2114017545011470410) | 产品发布 | Nagma parween | 19 |
 | 2026-10-24T14:52:02.000Z | [Mathematical Principles of RLCD for Jev Model](https://x.com/tuzhenzhao/status/2114007011419652508) | 工作原理 | Charlie | 9 |
 | 2026-10-24T14:46:25.000Z | [Jev arrives on Naive to orchestrate a 7-agent AI agency](https://x.com/KanThread/status/2114005599377563726) | 智能体 | Aboubakrine | 7 |
 | 2026-10-24T14:07:33.000Z | [Jev routes events, cutting cost from $397 to $33](https://x.com/maestrooth/status/2113995817300205906) | 自动化工作流 | maestro | 348 |
@@ -100,5 +102,3 @@
 | 2026-10-23T03:35:46.000Z | [Jev boosts bot intent accuracy from 58% to 90%](https://x.com/ryanflorence/status/2113474434489348503) | 智能体 | Ryan Florence | 468 |
 | 2026-10-23T03:20:00.000Z | [Codex×Jev: Let Jev Handle Model Routing](https://x.com/29meat_ai/status/2113470466295996629) | 社区实践 | にく | 73 |
 | 2026-10-23T03:07:42.000Z | [OpenAI's decision model challenges Jev: a launch isn't revenue proof](https://x.com/hsaffiliate2025/status/2113467374150242586) | 自动化工作流 | Diluc | 10 |
-| 2026-10-23T03:01:29.000Z | [How Jev Works: Intercepting Calls Between Agent and Action](https://x.com/sangamesh_gupta/status/2113465805912297507) | 工作原理 | Sangamesh Gella | 4 |
-| 2026-10-23T02:38:22.000Z | [Jev DevTools: Visualize and Tune Jev Logic](https://x.com/diegoarias941/status/2113459990048452806) | 开发者工具 | Diego Arias | 67 |

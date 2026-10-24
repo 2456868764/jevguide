@@ -146,6 +146,7 @@
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
 - [jaffa](../authors/jaffa.md) — 4
+- [Jerry Hong](../authors/jerry-hong.md) — 4
 - [Josef Andre](../authors/josef-andre.md) — 4
 - [Justin Schroeder](../authors/justin-schroeder.md) — 4
 - [Katanai](../authors/katanai.md) — 4
@@ -254,7 +255,6 @@
 - [Jason Zhou](../authors/jason-zhou.md) — 3
 - [Jay Song](../authors/jay-song.md) — 3
 - [Jayant](../authors/jayant.md) — 3
-- [Jerry Hong](../authors/jerry-hong.md) — 3
 - [Jerry Liu](../authors/jerry-liu.md) — 3
 - [JLarky](../authors/jlarky.md) — 3
 - [Justine Moore](../authors/justine-moore.md) — 3
@@ -2754,6 +2754,7 @@
 - [Nabarun](../authors/nabarun.md) — 1
 - [Nabil Baugher](../authors/nabil-baugher.md) — 1
 - [Nacho Business](../authors/nacho-business.md) — 1
+- [Nagma parween](../authors/nagma-parween.md) — 1
 - [nagoya0](../authors/nagoya0.md) — 1
 - [Nahid](../authors/nahid.md) — 1
 - [Nailthy Tang](../authors/nailthy-tang.md) — 1

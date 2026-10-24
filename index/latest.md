@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-24T14:52:02.000Z | [Mathematical Principles of RLCD for Jev Model](https://x.com/tuzhenzhao/status/2114007011419652508) | 工作原理 | Charlie | 9 |
+| 2026-10-24T14:46:25.000Z | [Jev arrives on Naive to orchestrate a 7-agent AI agency](https://x.com/KanThread/status/2114005599377563726) | 智能体 | Aboubakrine | 7 |
+| 2026-10-24T14:07:33.000Z | [Jev routes events, cutting cost from $397 to $33](https://x.com/maestrooth/status/2113995817300205906) | 自动化工作流 | maestro | 348 |
+| 2026-10-24T13:38:32.000Z | [LLM to Jev to CDM Flow](https://x.com/Citomba01/status/2113988512919773541) | 工作原理 | Ayush Mishra | 19 |
+| 2026-10-24T13:36:00.000Z | [Jev Decision Model: Probabilistic Check Before Agent Actions](https://x.com/omnirailorg/status/2113987876249604338) | 工作原理 | OmniRail | 108 |
 | 2026-10-24T13:06:32.000Z | [Seeing Jev once convinced me of its market potential](https://x.com/ifaris25/status/2113980460443607178) | 产品发布 | Faris | 39 |
 | 2026-10-24T12:52:18.000Z | [Jev Model Test Selection Benchmark](https://x.com/Adham__Khaled__/status/2113976880751653021) | 社区实践 | Adham | 56 |
 | 2026-10-24T12:46:56.000Z | [Free AI Models List Includes Jev](https://x.com/zazzy_stardust/status/2113975527820374068) | 社区实践 | Zazzy Stardust | 392 |
@@ -97,8 +102,3 @@
 | 2026-10-23T03:07:42.000Z | [OpenAI's decision model challenges Jev: a launch isn't revenue proof](https://x.com/hsaffiliate2025/status/2113467374150242586) | 自动化工作流 | Diluc | 10 |
 | 2026-10-23T03:01:29.000Z | [How Jev Works: Intercepting Calls Between Agent and Action](https://x.com/sangamesh_gupta/status/2113465805912297507) | 工作原理 | Sangamesh Gella | 4 |
 | 2026-10-23T02:38:22.000Z | [Jev DevTools: Visualize and Tune Jev Logic](https://x.com/diegoarias941/status/2113459990048452806) | 开发者工具 | Diego Arias | 67 |
-| 2026-10-23T02:35:43.000Z | [Discussion on Performance Differences Between Jev and Other Routers](https://x.com/nick_kango/status/2113459322005114972) | 社区实践 | Nick | 25 |
-| 2026-10-23T02:32:30.000Z | [Jev Ultrafast cuts median browser-agent task time to 7.09s](https://x.com/abhishek__AI/status/2113458512357625877) | 产品发布 | Abhishek Yadav | 123 |
-| 2026-10-23T02:25:33.000Z | [Jev routing and API key management update](https://x.com/heliocosta/status/2113456766360932473) | 产品发布 | Hélio Costa | 56 |
-| 2026-10-23T02:15:03.000Z | [Vectorize Adds Jev as a Reranker Provider](https://x.com/Vectorizeio/status/2113454122150056392) | 知识与搜索 | Vectorize | 24 |
-| 2026-10-23T01:36:59.000Z | [Hands-on with Jev: Decision-only model saves cost and boosts efficiency](https://x.com/small2huge/status/2113444541550440862) | 社区实践 | 蜗牛AI | 12 |

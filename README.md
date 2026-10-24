@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6173</strong><br>curated posts</td>
-<td align="center"><strong>3081</strong><br>original videos</td>
+<td align="center"><strong>6178</strong><br>curated posts</td>
+<td align="center"><strong>3084</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>577</strong> showcases · <strong>250</strong> videos</p>
+<p><strong>580</strong> showcases · <strong>252</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>486</strong> showcases · <strong>272</strong> videos</p>
+<p><strong>487</strong> showcases · <strong>272</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>267</strong> showcases · <strong>167</strong> videos</p>
+<p><strong>268</strong> showcases · <strong>168</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/ifaris25/status/2113980460443607178"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Seeing Jev once convinced me of its market potential · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ifaris25/status/2113980460443607178">Seeing Jev once convinced me of its market potential</a></h3>
-<p>The author says that upon first encountering Jev, they knew this type of model would disrupt the market, as it handles use cases much faster than traditional LLMs at significantly lower cost, and predicts other tech giants will follow with similar architectures.</p>
-<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
-<p><strong>Faris</strong> · @ifaris25</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/tuzhenzhao/status/2114007011419652508"><img src="https://pbs.twimg.com/amplify_video_thumb/2114006976472690688/img/ykCigjkro9iWstQ_.jpg" alt="Mathematical Principles of RLCD for Jev Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tuzhenzhao/status/2114007011419652508">Mathematical Principles of RLCD for Jev Model</a></h3>
+<p>The author writes in depth about the mathematical principles behind RLCD, a special reinforcement learning method for the Jev model, emphasizing that Jev calibrates decision-making behavior rather than being a simple multi-choice classifier.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Charlie</strong> · @tuzhenzhao</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Adham__Khaled__/status/2113976880751653021"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev Model Test Selection Benchmark · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Adham__Khaled__/status/2113976880751653021">Jev Model Test Selection Benchmark</a></h3>
-<p>User reports Jev model picked the correct test suite in all 12 Claude Code fixes, while Claude only did 9.</p>
-<p><strong>56</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 56</p>
-<p><strong>Adham</strong> · @Adham__Khaled__</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/KanThread/status/2114005599377563726"><img src="https://pbs.twimg.com/media/HVZ04-0W8AA5ZvX?format=jpg&amp;name=medium" alt="Jev arrives on Naive to orchestrate a 7-agent AI agency · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/KanThread/status/2114005599377563726">Jev arrives on Naive to orchestrate a 7-agent AI agency</a></h3>
+<p>Deploy an automated mini-business from a simple interface. Jev orchestrates 7 AI agents on Naive, from prospecting to website creation, with user-defined roles and control.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Aboubakrine</strong> · @KanThread</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/zazzy_stardust/status/2113975527820374068"><img src="https://pbs.twimg.com/amplify_video_thumb/2113975429153669120/img/ZigD2FYMtIXw305O.jpg" alt="Free AI Models List Includes Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zazzy_stardust/status/2113975527820374068">Free AI Models List Includes Jev</a></h3>
-<p>The post lists top free AI models, including Jev, and asks which one users would try first.</p>
-<p><strong>392</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 392</p>
-<p><strong>Zazzy Stardust</strong> · @zazzy_stardust</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/maestrooth/status/2113995817300205906"><img src="https://pbs.twimg.com/amplify_video_thumb/2113995419919241216/img/_FIQCw3IJAdEVSAU.jpg" alt="Jev routes events, cutting cost from $397 to $33 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/maestrooth/status/2113995817300205906">Jev routes events, cutting cost from $397 to $33</a></h3>
+<p>A user combines Jev with Grok Bot, routing every event through Jev before Grok Bot works, cutting the monthly bill from $397 to $33. They suggest going to @typesafeai to create an API key.</p>
+<p><strong>348</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 348</p>
+<p><strong>maestro</strong> · @maestrooth</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175"><img src="https://pbs.twimg.com/media/HVZWYZVXQAIjcje?format=jpg&amp;name=medium" alt="TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175">TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values</a></h3>
-<p>The post quotes TypeSafe CEO Diogo Almeida about a massive leak of all customer noul outputs, revealing the leak to be a gist of 101 numbers (0.00 to 1.00) — i.e., the complete set of possible outputs of the Jev model&#39;s yes/no probability, mocking the leak as trivial.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Aryan</strong> · @Aryan_Ali_Pro</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/Citomba01/status/2113988512919773541"><img src="https://pbs.twimg.com/amplify_video_thumb/2109974387373821952/img/Hvvv6ZAA9XZkGIbu.jpg" alt="LLM to Jev to CDM Flow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Citomba01/status/2113988512919773541">LLM to Jev to CDM Flow</a></h3>
+<p>The post briefly shows a technical flow from LLM to Jev to CDM, where Jev may refer to TypeSafe&#39;s Jev model.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><strong>Ayush Mishra</strong> · @Citomba01</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/ifaris25/status/2113980460443607178"><img src="https://pbs.twimg.com/amplify_video_thumb/2108626811164999680/img/F8PiWtkxs482oQPJ.jpg" alt="Seeing Jev once convinced me of its market potential · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ifaris25/status/2113980460443607178">Seeing Jev once convinced me of its market potential</a></h3>
-<p>The author says that upon first encountering Jev, they knew this type of model would disrupt the market, as it handles use cases much faster than traditional LLMs at significantly lower cost, and predicts other tech giants will follow with similar architectures.</p>
-<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
-<p><strong>Faris</strong> · @ifaris25</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/tuzhenzhao/status/2114007011419652508"><img src="https://pbs.twimg.com/amplify_video_thumb/2114006976472690688/img/ykCigjkro9iWstQ_.jpg" alt="Mathematical Principles of RLCD for Jev Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tuzhenzhao/status/2114007011419652508">Mathematical Principles of RLCD for Jev Model</a></h3>
+<p>The author writes in depth about the mathematical principles behind RLCD, a special reinforcement learning method for the Jev model, emphasizing that Jev calibrates decision-making behavior rather than being a simple multi-choice classifier.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Charlie</strong> · @tuzhenzhao</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175"><img src="https://pbs.twimg.com/media/HVZWYZVXQAIjcje?format=jpg&amp;name=medium" alt="TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175">TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values</a></h3>
-<p>The post quotes TypeSafe CEO Diogo Almeida about a massive leak of all customer noul outputs, revealing the leak to be a gist of 101 numbers (0.00 to 1.00) — i.e., the complete set of possible outputs of the Jev model&#39;s yes/no probability, mocking the leak as trivial.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Aryan</strong> · @Aryan_Ali_Pro</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/Citomba01/status/2113988512919773541"><img src="https://pbs.twimg.com/amplify_video_thumb/2109974387373821952/img/Hvvv6ZAA9XZkGIbu.jpg" alt="LLM to Jev to CDM Flow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Citomba01/status/2113988512919773541">LLM to Jev to CDM Flow</a></h3>
+<p>The post briefly shows a technical flow from LLM to Jev to CDM, where Jev may refer to TypeSafe&#39;s Jev model.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><strong>Ayush Mishra</strong> · @Citomba01</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xMukay/status/2113967410424283186"><img src="https://pbs.twimg.com/amplify_video_thumb/2113967321567940608/img/Aqa0YoG3Gd65hvaL.jpg" alt="Jev Model Performance and Pricing Metrics · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xMukay/status/2113967410424283186">Jev Model Performance and Pricing Metrics</a></h3>
-<p>Mukay highlights Jev&#39;s decision speed (70-500ms), input token pricing ($0.042/m), 20-200x speedup and 40-400x cost reduction, plus 67.8% frontier consensus at 76x lower cost. Also notes a Monad bot at 81ms and $10-25/month for 24/7 block loop, but lacks the exact TypeSafe four-workflow eval table.</p>
-<p><strong>94</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 94</p>
-<p><strong>mukay</strong> · @0xMukay</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/omnirailorg/status/2113987876249604338"><img src="https://pbs.twimg.com/media/HVWJGP_W0AEFAdu?format=jpg&amp;name=medium" alt="Jev Decision Model: Probabilistic Check Before Agent Actions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/omnirailorg/status/2113987876249604338">Jev Decision Model: Probabilistic Check Before Agent Actions</a></h3>
+<p>Introduces how decision models like Jev answer yes/no or scoring questions with probabilities, enabling agents to quickly check before acting at minimal cost.</p>
+<p><strong>108</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 108</p>
+<p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/KaiWaehner/status/2113923408844976178"><img src="https://pbs.twimg.com/media/HVYqA2ZW4AA5wG9?format=png&amp;name=medium" alt="Jev as a Decision Model to Improve RAG Pipeline Efficiency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KaiWaehner/status/2113923408844976178">Jev as a Decision Model to Improve RAG Pipeline Efficiency</a></h3>
-<p>ThoughtWorks found that only one model call in a RAG pipeline writes text; the rest are decisions. Moving them to Jev, a decision model, returns a probability per step to route between automation, an LLM, and a human. The same fits Agentic AI.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
-<p><strong>Kai Wähner</strong> · @KaiWaehner</p>
+<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
+<a href="https://x.com/plutos_eth/status/2113960753564627294"><img src="https://pbs.twimg.com/amplify_video_thumb/2113960512132104192/img/HyLTF-gwnlBcIFip.jpg" alt="Jev answers with just one word, avoiding verbose AI replies · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/plutos_eth/status/2113960753564627294">Jev answers with just one word, avoiding verbose AI replies</a></h3>
+<p>The post notes that many AI products produce full sentences for simple questions and charge per word, while Jev only outputs one word, making it suitable for deciding ticket urgency and team assignment.</p>
+<p><strong>442</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 442</p>
+<p><strong>plutos</strong> · @plutos_eth</p>
 </td>
 </tr>
 </table>

@@ -685,6 +685,7 @@
 - [oka@個人開発](../authors/oka-個人開発.md) — 2
 - [Oliver Prompts](../authors/oliver-prompts.md) — 2
 - [Olli](../authors/olli.md) — 2
+- [OmniRail](../authors/omnirail.md) — 2
 - [OpenJEV](../authors/openjev.md) — 2
 - [OpenMed](../authors/openmed.md) — 2
 - [ORACLE](../authors/oracle.md) — 2
@@ -966,6 +967,7 @@
 - [Abhishek Yadav](../authors/abhishek-yadav.md) — 1
 - [ABNewswire](../authors/abnewswire.md) — 1
 - [Aboubacar OUATTARA](../authors/aboubacar-ouattara.md) — 1
+- [Aboubakrine](../authors/aboubakrine.md) — 1
 - [Ackerman](../authors/ackerman.md) — 1
 - [adam](../authors/adam.md) — 1
 - [Adam Azzam](../authors/adam-azzam.md) — 1
@@ -1274,6 +1276,7 @@
 - [Ayush Gupta](../authors/ayush-gupta.md) — 1
 - [Ayush Jain](../authors/ayush-jain.md) — 1
 - [Ayush Kushwaha](../authors/ayush-kushwaha.md) — 1
+- [Ayush Mishra](../authors/ayush-mishra.md) — 1
 - [Ayush Pandey](../authors/ayush-pandey.md) — 1
 - [Ayush Sharma](../authors/ayush-sharma.md) — 1
 - [Azan](../authors/azan.md) — 1
@@ -1432,6 +1435,7 @@
 - [Charles Gobina 🐧](../authors/charles-gobina.md) — 1
 - [Charles Magno](../authors/charles-magno.md) — 1
 - [Charles Shen](../authors/charles-shen.md) — 1
+- [Charlie](../authors/charlie.md) — 1
 - [Charlie (Chen Li)](../authors/charlie-chen-li.md) — 1
 - [Charlie Duong](../authors/charlie-duong.md) — 1
 - [CharlieMoney 🌊⛽](../authors/charliemoney.md) — 1
@@ -2522,6 +2526,7 @@
 - [Mac](../authors/mac.md) — 1
 - [Machine Economy](../authors/machine-economy.md) — 1
 - [madecrystalclear](../authors/madecrystalclear.md) — 1
+- [maestro](../authors/maestro.md) — 1
 - [Maeve](../authors/maeve.md) — 1
 - [Magik](../authors/magik.md) — 1
 - [magithar](../authors/magithar.md) — 1
@@ -2886,7 +2891,6 @@
 - [Omid Sayfun](../authors/omid-sayfun.md) — 1
 - [Omkar](../authors/omkar.md) — 1
 - [Omnimes — Smart AI MES](../authors/omnimes-smart-ai-mes.md) — 1
-- [OmniRail](../authors/omnirail.md) — 1
 - [Onat Yiğit Mercan](../authors/onat-yigit-mercan.md) — 1
 - [Ondrej Bacina ⚡️🔋🚗 🤖🇨🇿🇺🇦](../authors/ondrej-bacina.md) — 1
 - [OneLegDave](../authors/onelegdave.md) — 1

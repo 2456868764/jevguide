@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 381 | 288 | 97 | 588K |
+| 383 | 288 | 99 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sino_tech2026/status/2113887883975381152"><img src="https://pbs.twimg.com/media/HVYJ0vNaYAAHmCd?format=jpg&amp;name=medium" alt="Jev attempts a Final Fight-style homemade game, scoring one-third of a human · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sino_tech2026/status/2113887883975381152">Jev attempts a Final Fight-style homemade game, scoring one-third of a human</a></h3>
+<p>A JAWS-UG Ibaraki community post about having Jev play a homemade Final Fight-style game, achieving about one-third of a human score. The suspected cause was UAT, highlighting the importance of context.</p>
+<p><strong>中文摘要：</strong>在 JAWS-UG 茨城活动中分享的案例：让 Jev 试玩 Final Fight 风格的自制游戏，成绩约为人类的三分之一。推测原因是 UAT，并强调上下文的重要性。</p>
+<p><strong>しのテック</strong> · @sino_tech2026 · 2026-10-24T06:58:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/sino_tech2026/status/2113887883975381152">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WfallGo/status/2113886151170043956"><img src="https://pbs.twimg.com/media/HVYIP60aEAA8AVq?format=jpg&amp;name=medium" alt="Trying a Self-Made Game with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WfallGo/status/2113886151170043956">Trying a Self-Made Game with Jev</a></h3>
+<p>Okimoto(Yokichi) shares an experience about a self-made game created with Kiro and having Jev play it, as a community practice.</p>
+<p><strong>中文摘要：</strong>Okimoto(Yokichi)分享从西先生那里得到的、用Kiro制作的自制游戏，并让Jev试玩的内容，属于社区实践分享。</p>
+<p><strong>Okimoto(Yokichi)</strong> · @WfallGo · 2026-10-24T06:51:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 77</p>
+<p><a href="https://x.com/WfallGo/status/2113886151170043956">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OnlyAICanDo/status/2113594407987605815"><img src="https://pbs.twimg.com/amplify_video_thumb/2113593270538575872/img/UWC2j6V3T48V5nAA.jpg" alt="Pig + Jev + Gemini Flash auto-plays Pokemon TCGP · 原帖视频截图" width="100%"></a>

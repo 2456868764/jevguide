@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6122</strong><br>curated posts</td>
-<td align="center"><strong>3059</strong><br>original videos</td>
+<td align="center"><strong>6142</strong><br>curated posts</td>
+<td align="center"><strong>3067</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1149</strong> showcases · <strong>473</strong> videos</p>
+<p><strong>1155</strong> showcases · <strong>477</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>621</strong> showcases · <strong>310</strong> videos</p>
+<p><strong>622</strong> showcases · <strong>311</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>530</strong> showcases · <strong>227</strong> videos</p>
+<p><strong>535</strong> showcases · <strong>228</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>381</strong> showcases · <strong>288</strong> videos</p>
+<p><strong>383</strong> showcases · <strong>288</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,28 +88,28 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>264</strong> showcases · <strong>166</strong> videos</p>
+<p><strong>265</strong> showcases · <strong>166</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>146</strong> showcases · <strong>109</strong> videos</p>
+<p><strong>147</strong> showcases · <strong>110</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
+<td width="33%" valign="top">
+<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
+<p><sub>知识与搜索</sub></p>
+<p><strong>121</strong> showcases · <strong>63</strong> videos</p>
+<p><a href="categories/knowledge-search.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
 <p><strong>120</strong> showcases · <strong>89</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
-<p><sub>知识与搜索</sub></p>
-<p><strong>120</strong> showcases · <strong>63</strong> videos</p>
-<p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>105</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>106</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>69</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>70</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>46</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/LightHouse_acc/status/2113663052881301556"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662880549670912/img/R2HyKBfuvQugmJW_.jpg" alt="Last Call: JEV Workshop Tomorrow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/LightHouse_acc/status/2113663052881301556">Last Call: JEV Workshop Tomorrow</a></h3>
-<p>Bring a laptop, leave with JEV running in your workflow. Ask a 17-time enterprise agent builder anything. 2–6:30 PM, $20 ticket. Bring a charger and OpenRouter credits.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Lighthouse</strong> · @LightHouse_acc</p>
+<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xasten/status/2113900072211751323"><img src="https://pbs.twimg.com/amplify_video_thumb/2113669735107727360/img/Xcexkww8nsjs9Hii.jpg" alt="Using JEV as a complement in robot voice setups · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xasten/status/2113900072211751323">Using JEV as a complement in robot voice setups</a></h3>
+<p>The user praises a voice system&#39;s natural conversation feel and envisions using it as the robot&#39;s voice layer, with JEV handling other parts of the full robot setup.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Asten</strong> · @0xasten</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/jayleaton/status/2113615001076601317"><img src="https://pbs.twimg.com/media/HVUP7sla8AA4Qk3?format=jpg&amp;name=medium" alt="LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jayleaton/status/2113615001076601317">LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready</a></h3>
-<p>The author shares progress on LocalRouter, working on new tools including a Jev-style decision model for computer use, a remote companion and choose-your-own harness, and a smaller quant. Nothing is fully released yet.</p>
-<p><strong>137</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 137</p>
-<p><strong>JJ Eaton</strong> · @jayleaton</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/SylonZero/status/2113898226906783873"><img src="https://pbs.twimg.com/tweet_video_thumb/HVYTOyiXEAA8Bq0.jpg" alt="Discussion on Jev performance targets · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SylonZero/status/2113898226906783873">Discussion on Jev performance targets</a></h3>
+<p>A community comment noting that pursuing a certain use case could serve as good motivation and targets for Jev performance.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><strong>Sai Prakash</strong> · @SylonZero</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/NielsRogge/status/2113612849389920589"><img src="https://pbs.twimg.com/amplify_video_thumb/2113612794641674240/img/B5ihFLxrux4x6Xku.jpg" alt="Papers with Code integrates Jev to highlight methods in abstracts · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/NielsRogge/status/2113612849389920589">Papers with Code integrates Jev to highlight methods in abstracts</a></h3>
-<p>A new feature on Papers with Code, powered by Jev from TypeSafe AI, highlights methods and benchmarks in paper abstracts, allowing users to hover and click through to relevant pages.</p>
-<p><strong>376</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 376</p>
-<p><strong>Niels Rogge</strong> · @NielsRogge</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/sino_tech2026/status/2113887883975381152"><img src="https://pbs.twimg.com/media/HVYJ0vNaYAAHmCd?format=jpg&amp;name=medium" alt="Jev attempts a Final Fight-style homemade game, scoring one-third of a human · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sino_tech2026/status/2113887883975381152">Jev attempts a Final Fight-style homemade game, scoring one-third of a human</a></h3>
+<p>A JAWS-UG Ibaraki community post about having Jev play a homemade Final Fight-style game, achieving about one-third of a human score. The suspected cause was UAT, highlighting the importance of context.</p>
+<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><strong>しのテック</strong> · @sino_tech2026</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xkurt/status/2113605538445439290"><img src="https://pbs.twimg.com/amplify_video_thumb/2113581267098783744/img/UX_-tSbDqKAx8JuI.jpg" alt="JEV Public Evaluation: Research Across 37 Datasets · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xkurt/status/2113605538445439290">JEV Public Evaluation: Research Across 37 Datasets</a></h3>
-<p>Researchers at Bonn, Lamarr, and Fraunhofer IAIS report a public Jev evaluation across 37 datasets, with code and raw responses available. The post notes 346,009 requests for under $10 and argues Claude needs a filter.</p>
-<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 74</p>
-<p><strong>Kurt</strong> · @0xkurt</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/asahidex/status/2113887395267633224"><img src="https://pbs.twimg.com/media/HVYJYXNawAAAtNe?format=jpg&amp;name=medium" alt="Jev says it&#39;s Amazon Bedrock · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/asahidex/status/2113887395267633224">Jev says it&#39;s Amazon Bedrock</a></h3>
+<p>The post cites Jev&#39;s answer to a question, indicating that the result is Amazon Bedrock, with a link attached.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>asahide</strong> · @asahidex</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/LightHouse_acc/status/2113663052881301556"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662880549670912/img/R2HyKBfuvQugmJW_.jpg" alt="Last Call: JEV Workshop Tomorrow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/LightHouse_acc/status/2113663052881301556">Last Call: JEV Workshop Tomorrow</a></h3>
-<p>Bring a laptop, leave with JEV running in your workflow. Ask a 17-time enterprise agent builder anything. 2–6:30 PM, $20 ticket. Bring a charger and OpenRouter credits.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Lighthouse</strong> · @LightHouse_acc</p>
+<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xasten/status/2113900072211751323"><img src="https://pbs.twimg.com/amplify_video_thumb/2113669735107727360/img/Xcexkww8nsjs9Hii.jpg" alt="Using JEV as a complement in robot voice setups · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xasten/status/2113900072211751323">Using JEV as a complement in robot voice setups</a></h3>
+<p>The user praises a voice system&#39;s natural conversation feel and envisions using it as the robot&#39;s voice layer, with JEV handling other parts of the full robot setup.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Asten</strong> · @0xasten</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xkurt/status/2113605538445439290"><img src="https://pbs.twimg.com/amplify_video_thumb/2113581267098783744/img/UX_-tSbDqKAx8JuI.jpg" alt="JEV Public Evaluation: Research Across 37 Datasets · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xkurt/status/2113605538445439290">JEV Public Evaluation: Research Across 37 Datasets</a></h3>
-<p>Researchers at Bonn, Lamarr, and Fraunhofer IAIS report a public Jev evaluation across 37 datasets, with code and raw responses available. The post notes 346,009 requests for under $10 and argues Claude needs a filter.</p>
-<p><strong>74</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 74</p>
-<p><strong>Kurt</strong> · @0xkurt</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/asahidex/status/2113887395267633224"><img src="https://pbs.twimg.com/media/HVYJYXNawAAAtNe?format=jpg&amp;name=medium" alt="Jev says it&#39;s Amazon Bedrock · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/asahidex/status/2113887395267633224">Jev says it&#39;s Amazon Bedrock</a></h3>
+<p>The post cites Jev&#39;s answer to a question, indicating that the result is Amazon Bedrock, with a link attached.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>asahide</strong> · @asahidex</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/nonepcbl/status/2113605429620023790"><img src="https://pbs.twimg.com/media/HVUHd23XMAE_tp3?format=jpg&amp;name=medium" alt="Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nonepcbl/status/2113605429620023790">Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code</a></h3>
-<p>The post combines Jev&#39;s decision pipeline (markusbug/jevymarket) with the official Polymarket SDK, using Claude Code to connect them for BTC market trading.</p>
-<p><strong>61</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 61</p>
-<p><strong>nOnEpcbl.</strong> · @nonepcbl</p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/WfallGo/status/2113886151170043956"><img src="https://pbs.twimg.com/media/HVYIP60aEAA8AVq?format=jpg&amp;name=medium" alt="Trying a Self-Made Game with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WfallGo/status/2113886151170043956">Trying a Self-Made Game with Jev</a></h3>
+<p>Okimoto(Yokichi) shares an experience about a self-made game created with Kiro and having Jev play it, as a community practice.</p>
+<p><strong>77</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 77</p>
+<p><strong>Okimoto(Yokichi)</strong> · @WfallGo</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/opperai/status/2113589700976120096"><img src="https://pbs.twimg.com/amplify_video_thumb/2113574798357843968/img/9OAjpC1v-Ur-4h-X.jpg" alt="Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/opperai/status/2113589700976120096">Opper launches JevMan, a PacMan game benchmark for AI decision models named after TypeSafe&#39;s Jev</a></h3>
-<p>Opper&#39;s JevMan is a PacMan-style benchmark game that demonstrates AI decision model capabilities, named after TypeSafe AI&#39;s Jev. It has been covered by TechCrunch, letting users watch models play or take them on themselves.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>Opper</strong> · @opperai</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/mushan40120676/status/2113829740838797665"><img src="https://pbs.twimg.com/media/HVXUqytbIAAJYEi?format=jpg&amp;name=medium" alt="Benchmarking Decision Models for Content Moderation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mushan40120676/status/2113829740838797665">Benchmarking Decision Models for Content Moderation</a></h3>
+<p>MuShan compared StartLux, Jev, and DashScope decision models for content moderation on 825 Chinese samples. Jev achieved 79.9% accuracy, F1 0.851, and P95 359ms, with benchmark code released.</p>
+<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><strong>木杉</strong> · @mushan40120676</p>
 </td>
 </tr>
 </table>

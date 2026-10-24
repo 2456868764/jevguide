@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1149 | 473 | 681 | 3.0M |
+| 1155 | 477 | 683 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SylonZero/status/2113898226906783873"><img src="https://pbs.twimg.com/tweet_video_thumb/HVYTOyiXEAA8Bq0.jpg" alt="Discussion on Jev performance targets · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SylonZero/status/2113898226906783873">Discussion on Jev performance targets</a></h3>
+<p>A community comment noting that pursuing a certain use case could serve as good motivation and targets for Jev performance.</p>
+<p><strong>中文摘要：</strong>一条社区评论，认为追求特定用例可以为Jev的性能提升提供良好的目标与动力。</p>
+<p><strong>Sai Prakash</strong> · @SylonZero · 2026-10-24T07:39:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><a href="https://x.com/SylonZero/status/2113898226906783873">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tokyonight8/status/2113850607731650780"><img src="https://pbs.twimg.com/media/HVXn68OWgAE-YIi?format=jpg&amp;name=medium" alt="Jev Classifier Generation Loop Experiment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tokyonight8/status/2113850607731650780">Jev Classifier Generation Loop Experiment</a></h3>
+<p>User Tokyonight8 built a loop using TypeSafe AI&#39;s Jev classifier: predict the next token from the sentence so far, iterate 20 rounds, and generate &#39;I are good....... very good.......&#39;. Shows Jev doesn&#39;t write, but can be used for generation in a loop.</p>
+<p><strong>中文摘要：</strong>用户 Tokyonight8 利用 TypeSafe AI 的 Jev 分类器构建循环：基于已有句子预测下一个词，经过 20 轮后生成“I are good....... very good.......”。展示 Jev 本身不写作，但可通过循环方式用于文本生成。</p>
+<p><strong>Tokyonight8</strong> · @tokyonight8 · 2026-10-24T04:30:32.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/tokyonight8/status/2113850607731650780">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SportsDT1/status/2113835372652462299"><img src="https://pbs.twimg.com/media/HVWxfN1X0AAz_kO?format=jpg&amp;name=medium" alt="Jev AI Football Prediction: Bucheon FC vs Gwangju FC · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SportsDT1/status/2113835372652462299">Jev AI Football Prediction: Bucheon FC vs Gwangju FC</a></h3>
+<p>A K League 1 football prediction post generated with Jev AI, showing a cautious lean at 35% confidence and tagged #JevAI.</p>
+<p><strong>中文摘要：</strong>一条使用 Jev AI 生成的 K League 1 足球预测帖，给出谨慎倾向并标注 35% 置信度，附有 #JevAI 标签。</p>
+<p><strong>Football Ant</strong> · @SportsDT1 · 2026-10-24T03:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/SportsDT1/status/2113835372652462299">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chanakyaspeakss/status/2113828858554384638"><img src="https://pbs.twimg.com/tweet_video_thumb/HVXUI_9XoAE2lGO.jpg" alt="User says they need to ask Jev to update probabilities · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chanakyaspeakss/status/2113828858554384638">User says they need to ask Jev to update probabilities</a></h3>
+<p>A user post mentioning that after seeing the noul output, they need to revise probabilities and will ask Jev from @typesafeai.</p>
+<p><strong>中文摘要：</strong>一条用户帖子，提到看到 noul 输出后需要调整概率，并表示要询问 @typesafeai 的 Jev。</p>
+<p><strong>Pattern Preacher</strong> · @chanakyaspeakss · 2026-10-24T03:04:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 142</p>
+<p><a href="https://x.com/chanakyaspeakss/status/2113828858554384638">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2113812290986483774"><img src="https://pbs.twimg.com/amplify_video_thumb/2113798847390461952/img/us5LOD-MMa0FMrpI.jpg" alt="A Useful Learning Tool for Jev Primitives Composition · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2113812290986483774">A Useful Learning Tool for Jev Primitives Composition</a></h3>
+<p>The author praises the showcase as impressive and notes it is a great learning tool for seeing how Jev primitives are composed together in a system.</p>
+<p><strong>中文摘要：</strong>作者赞叹该展示非常出色，称其是观察 Jev 原语如何在系统中组合而成的绝佳学习工具。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-10-24T01:58:17.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 29 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/allietheicon/status/2113812290986483774">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Brankotrcek/status/2113789932946829365"><img src="https://pbs.twimg.com/amplify_video_thumb/2113789887379906560/img/-xGbEBH1r6B-yksy.jpg" alt="Give Grok Bot a Second Brain: Connect JEV to Reuse Yesterday&#39;s Work · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Brankotrcek/status/2113789932946829365">Give Grok Bot a Second Brain: Connect JEV to Reuse Yesterday&#39;s Work</a></h3>
+<p>Keep working chats short, store reusable knowledge in shared files, turn proven workflows into skills, and connect JEV to handle the small tasks, making yesterday&#39;s work cheaper to use tomorrow.</p>
+<p><strong>中文摘要：</strong>保持工作会话简短，将可复用知识存入共享文件，把成熟工作流转化为技能，并连接 JEV 处理小任务，让昨天的成果更便宜地用于明天。</p>
+<p><strong>Branko Trcek</strong> · @Brankotrcek · 2026-10-24T00:29:26.000Z</p>
+<p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 503</p>
+<p><a href="https://x.com/Brankotrcek/status/2113789932946829365">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LightHouse_acc/status/2113663052881301556"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662880549670912/img/R2HyKBfuvQugmJW_.jpg" alt="Last Call: JEV Workshop Tomorrow · 原帖视频截图" width="100%"></a>

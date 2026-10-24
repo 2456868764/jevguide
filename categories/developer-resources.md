@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 377 | 152 | 225 | 419K |
+| 379 | 152 | 227 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dimon3m/status/2113926954650866082"><img src="https://pbs.twimg.com/media/HVYtXO6XYAAWzxq?format=jpg&amp;name=medium" alt="What the Jev model costs per month on OpenRouter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dimon3m/status/2113926954650866082">What the Jev model costs per month on OpenRouter</a></h3>
+<p>Shares a link to an article about the monthly cost of using the Jev model on OpenRouter for a small team.</p>
+<p><strong>中文摘要：</strong>分享一篇关于小型团队在 OpenRouter 上使用 Jev 模型月度成本的文章链接。</p>
+<p><strong>Dima | AI at Sea</strong> · @dimon3m · 2026-10-24T09:33:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/dimon3m/status/2113926954650866082">在 X 查看原帖</a> · <a href="https://t.co/0pJ8nPTZOf">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anoopjoes/status/2113727232174956931"><img src="https://pbs.twimg.com/media/HVV3tWDa0AAAWwz?format=jpg&amp;name=medium" alt="Step-by-Step Guide to Building Agentic RAG with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anoopjoes/status/2113727232174956931">Step-by-Step Guide to Building Agentic RAG with Jev</a></h3>
+<p>This post shares a step-by-step tutorial with code on how to build an Agentic RAG system using Jev.</p>
+<p><strong>中文摘要：</strong>该帖子提供了一篇带代码的逐步教程，讲解如何使用 Jev 构建 Agentic RAG 系统。</p>
+<p><strong>Anoop George Joseph</strong> · @anoopjoes · 2026-10-23T20:20:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/anoopjoes/status/2113727232174956931">在 X 查看原帖</a> · <a href="https://t.co/NBPqh1jcRL">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Motphys2025/status/2113592293185970192"><img src="https://pbs.twimg.com/amplify_video_thumb/2113591861193666561/img/eFvaQKloSJ8-2l2d.jpg" alt="Train Jev in MotrixSim for rocket recovery: confidence up from 34% to 99.8% · 原帖视频截图" width="100%"></a>

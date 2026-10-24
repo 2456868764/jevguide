@@ -1,9 +1,10 @@
 # Diogo Almeida
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T22:33:08.000Z | [Response on getting Jev swag](https://x.com/CompleteSkeptic/status/2113760664124822001) | 社区实践 | Diogo Almeida | 9.5K |
 | 2026-10-08T21:16:47.000Z | [Jev as a Universal Verifier](https://x.com/CompleteSkeptic/status/2108305631954493938) | 社区实践 | Diogo Almeida | 7.4K |
 | 2026-09-24 | [Jev ranks #1 for 1k-10k context on OpenRouter](https://x.com/CompleteSkeptic/status/2103156606318108892) | 社区实践 | Diogo Almeida | 600 |
 | 2026-09-17 | [140k off the Jev waitlist in under 36 hours](https://x.com/CompleteSkeptic/status/2100454726462804333) | 产品发布 | Diogo Almeida | 151K |

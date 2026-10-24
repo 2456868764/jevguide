@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 383 | 288 | 99 | 588K |
+| 385 | 288 | 101 | 588K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Okimoto(Yokichi)</strong> · @WfallGo · 2026-10-24T06:51:47.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 77</p>
 <p><a href="https://x.com/WfallGo/status/2113886151170043956">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ivenaccip/status/2113729174078734815"><img src="https://pbs.twimg.com/media/HVV5e68WYAAVNod?format=png&amp;name=small" alt="Jev Beats Pokémon LeafGreen and Reaches Hall of Fame · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ivenaccip/status/2113729174078734815">Jev Beats Pokémon LeafGreen and Reaches Hall of Fame</a></h3>
+<p>Haiku plans and Jev battles to clear all 8 gyms and the Pokémon League in Pokémon LeafGreen, with 43h 52m playtime and around US$2.62 in API costs.</p>
+<p><strong>中文摘要：</strong>Haiku负责规划，Jev负责对战，二者自主完成《宝可梦 叶绿》全部道馆和宝可梦联盟，累计游戏时间43小时52分，API花费约2.62美元。</p>
+<p><strong>Ivenaccip</strong> · @ivenaccip · 2026-10-23T20:28:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/ivenaccip/status/2113729174078734815">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ivenaccip/status/2113721149913764258"><img src="https://pbs.twimg.com/media/HVVyL1_WwAAqT82?format=png&amp;name=900x900" alt="Jev agent beats Pokémon LeafGreen on its own · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ivenaccip/status/2113721149913764258">Jev agent beats Pokémon LeafGreen on its own</a></h3>
+<p>Haiku plans and Jev battles, playing Pokémon LeafGreen autonomously. After four defeats, the Champion falls. Play time: 43h 46m; API spend: US$2.62.</p>
+<p><strong>中文摘要：</strong>Haiku 担任规划者，Jev 负责战斗，自主游玩《宝可梦 叶绿》。历经 4 次失败后击败冠军，通关耗时 43 小时 46 分，API 花费约 2.62 美元。</p>
+<p><strong>Ivenaccip</strong> · @ivenaccip · 2026-10-23T19:56:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 15</p>
+<p><a href="https://x.com/ivenaccip/status/2113721149913764258">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

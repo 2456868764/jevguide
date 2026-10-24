@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 622 | 311 | 314 | 3.6M |
+| 624 | 311 | 316 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NFT_Chen/status/2113908951289049599"><img src="https://pbs.twimg.com/media/HVYc-gcakAATVPd?format=jpg&amp;name=900x900" alt="DeepEval Launches JevEval: Use Jev as an Evaluation Judge · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NFT_Chen/status/2113908951289049599">DeepEval Launches JevEval: Use Jev as an Evaluation Judge</a></h3>
+<p>DeepEval officially launches JevEval, using Jev as a custom evaluation judge instead of relying on another LLM to generate scores, addressing the flakiness of generative judges.</p>
+<p><strong>中文摘要：</strong>DeepEval 正式发布 JevEval，将 Jev 作为自定义评估判断器，替代传统依赖另一个 LLM 生成评分的方式，避免生成式判断器的不稳定性。</p>
+<p><strong>SuSu_酥酥👅</strong> · @NFT_Chen · 2026-10-24T08:22:23.000Z</p>
+<p>💬 9 &nbsp; 🔁 5 &nbsp; ♡ 17 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/NFT_Chen/status/2113908951289049599">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/diegoarias941/status/2113800814330265926"><img src="https://pbs.twimg.com/amplify_video_thumb/2113798847390461952/img/us5LOD-MMa0FMrpI.jpg" alt="Jev Devtools Adding Support for Complex Flow Visualization · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Diego Arias</strong> · @diegoarias941 · 2026-10-24T01:12:41.000Z</p>
 <p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 16 &nbsp; 📊 2.1K</p>
 <p><a href="https://x.com/diegoarias941/status/2113800814330265926">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/o_kwasniewski/status/2113715013122760983"><img src="https://pbs.twimg.com/media/HVVoDtzWgAAiYDb?format=jpg&amp;name=medium" alt="e2e Launches Test Filters API with Jev Decision Model Support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/o_kwasniewski/status/2113715013122760983">e2e Launches Test Filters API with Jev Decision Model Support</a></h3>
+<p>e2e introduces the Test Filters API to run only tests affected by your PR, use decision models like Jev to decide which tests to run, and write custom filters. Available now via npx e2e init.</p>
+<p><strong>中文摘要：</strong>e2e 引入 Test Filters API，可只运行受 PR 影响的测试，使用 Jev 等决策模型决定测试范围，并支持自定义过滤器。现已可通过 npx e2e init 使用。</p>
+<p><strong>Oskar</strong> · @o_kwasniewski · 2026-10-23T19:31:44.000Z</p>
+<p>💬 9 &nbsp; 🔁 18 &nbsp; ♡ 182 &nbsp; 📊 7.5K</p>
+<p><a href="https://x.com/o_kwasniewski/status/2113715013122760983">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/mazaki_eth/status/2113594976651079943"><img src="https://pbs.twimg.com/media/HVT_bf3WYAAwhxh?format=jpg&amp;name=medium" alt="OpenAI Decisions API outputs decisions directly, aiming to rival Jev · 原帖图片" width="100%"></a>

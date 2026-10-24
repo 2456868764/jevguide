@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 47 | 36 | 11 | 205K |
+| 49 | 37 | 12 | 205K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Asten</strong> · @0xasten · 2026-10-24T07:47:06.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><a href="https://x.com/0xasten/status/2113900072211751323">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HuanxinShe5254/status/2113711933337817311"><img src="https://pbs.twimg.com/media/HVVleUObMAECuBn?format=jpg&amp;name=medium" alt="4B Jev-style Judge Outperforms Up to 27B Models on Robotics Benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HuanxinShe5254/status/2113711933337817311">4B Jev-style Judge Outperforms Up to 27B Models on Robotics Benchmarks</a></h3>
+<p>The author shares a 4B Jev-style judge trained with public data and their own recipe, beating multimodal Jev-style models up to 27B on RoboPulse, RoboRewardBench, and real-robot rollouts, while noting specialist reward models still win at home.</p>
+<p><strong>中文摘要：</strong>作者分享利用公开数据和自有配方训练的4B Jev风格评判模型，在RoboPulse、RoboRewardBench及真实机器人部署中击败了多种多模态Jev风格模型（最高27B），并指出专用奖励模型在特定任务上仍占优势。</p>
+<p><strong>Huanxin Sheng</strong> · @HuanxinShe5254 · 2026-10-23T19:19:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/HuanxinShe5254/status/2113711933337817311">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HuanxinShe5254/status/2113711925104394513"><img src="https://pbs.twimg.com/amplify_video_thumb/2113701700108525568/img/B-Z2OeUsr1AzrIzE.jpg" alt="Jev model for robot manipulation: JevAny-Robotics-4B open-sourced · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HuanxinShe5254/status/2113711925104394513">Jev model for robot manipulation: JevAny-Robotics-4B open-sourced</a></h3>
+<p>After open-sourcing JevAny, an infrastructure for building decision models, the team fine-tuned JevAny-Robotics-4B, a specialized model for robot manipulation judging tasks.</p>
+<p><strong>中文摘要：</strong>开源决策模型基础设施 JevAny 后，团队进一步微调出专用于机器人操作的 JevAny-Robotics-4B 模型，用于操作判断任务。</p>
+<p><strong>Huanxin Sheng</strong> · @HuanxinShe5254 · 2026-10-23T19:19:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 4 &nbsp; ♡ 4 &nbsp; 📊 203</p>
+<p><a href="https://x.com/HuanxinShe5254/status/2113711925104394513">在 X 查看原帖</a> · <a href="https://t.co/QPrwsjGxfR">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Ai_Democ/status/2109275463428489389"><img src="https://pbs.twimg.com/amplify_video_thumb/2109275452854751233/img/5VjuwY7Qbh31qlFt.jpg" alt="Clef-omni × Jev: Toward Zero-Shot Robots · 原帖视频截图" width="100%"></a>

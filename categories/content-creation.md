@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 120 | 89 | 34 | 101K |
+| 122 | 89 | 36 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ha_chi_co_3/status/2113759621576057122"><img src="https://pbs.twimg.com/media/HVU-O3PakAArXH_?format=png&amp;name=small" alt="Using Jev to Check Octopus Sticker Leg Count · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ha_chi_co_3/status/2113759621576057122">Using Jev to Check Octopus Sticker Leg Count</a></h3>
+<p>A creator uses Jev to verify the leg count of an octopus sticker during creation, sharing a small AI-assisted creative practice.</p>
+<p><strong>中文摘要：</strong>创作者在制作章鱼表情包时，用Jev验证腿的数量是否准确，分享这一AI辅助创作的小实践。</p>
+<p><strong>ハチコ | あなたの「難しそう」を「面白い」に変える人</strong> · @ha_chi_co_3 · 2026-10-23T22:29:00.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 107</p>
+<p><a href="https://x.com/ha_chi_co_3/status/2113759621576057122">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aoi_kurochan/status/2113744776222666956"><img src="https://pbs.twimg.com/media/HVUdO1rbYAApzv_?format=jpg&amp;name=medium" alt="Scoring Writing with Jev: A Kindle Author&#39;s New Release · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/aoi_kurochan/status/2113744776222666956">Scoring Writing with Jev: A Kindle Author&#39;s New Release</a></h3>
+<p>A Kindle-publishing author announces two new releases at once, one about using Jev to check whether her writing sounds AI-ish, and another digging into the PHP vulnerability incident.</p>
+<p><strong>中文摘要：</strong>一位 Kindle 出版作者同时发布两部新作，其中一部是使用 Jev 检测自己写作是否带有 AI 感的体验；另一部则深入探讨了 PHP 漏洞事件。</p>
+<p><strong>あおい | Kindle出版でスマートFIRE</strong> · @aoi_kurochan · 2026-10-23T21:30:00.000Z</p>
+<p>💬 21 &nbsp; 🔁 18 &nbsp; ♡ 45 &nbsp; 📊 2.0K</p>
+<p><a href="https://x.com/aoi_kurochan/status/2113744776222666956">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mizinko_kinako/status/2109636572635345204"><img src="https://pbs.twimg.com/amplify_video_thumb/2109634594672975872/img/ZXj2KdpCzqvI2uGR.jpg" alt="Idea for Applying Jev Processing to YouTube MV Creation · 原帖视频截图" width="100%"></a>

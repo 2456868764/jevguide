@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 265 | 166 | 99 | 595K |
+| 267 | 167 | 100 | 595K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Henri Liriani</strong> · @hliriani · 2026-10-24T02:51:12.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 433</p>
 <p><a href="https://x.com/hliriani/status/2113825606349861311">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BoilerPaulie/status/2113727541596848129"><img src="https://pbs.twimg.com/media/HVV3mJLWwAAm77H?format=jpg&amp;name=medium" alt="Optimizing AI Spend with Jev and Self-Improvement Loops · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BoilerPaulie/status/2113727541596848129">Optimizing AI Spend with Jev and Self-Improvement Loops</a></h3>
+<p>Paul Branham shares that he&#39;s optimizing his spending across Grok, Claude, and other AI tools using Jev and self-improvement loops.</p>
+<p><strong>中文摘要：</strong>Paul Branham分享他正在使用Jev和自我改进循环来优化在Grok、Claude等AI工具上的支出。</p>
+<p><strong>Paul Branham</strong> · @BoilerPaulie · 2026-10-23T20:21:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 800</p>
+<p><a href="https://x.com/BoilerPaulie/status/2113727541596848129">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/orbitalisVector/status/2113726437865701774"><img src="https://pbs.twimg.com/amplify_video_thumb/2113724671367446528/img/VWTARTKB3IFmCirJ.jpg" alt="Jev 1.13: 3.5 Cents to Sort 500 Emails in Seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/orbitalisVector/status/2113726437865701774">Jev 1.13: 3.5 Cents to Sort 500 Emails in Seconds</a></h3>
+<p>Citing Riley Brown&#39;s test of Jev 1.13, this post highlights the model&#39;s ability to sort a large volume of emails at minimal cost, emphasizing its cost-effectiveness and efficiency in email automation.</p>
+<p><strong>中文摘要：</strong>引用Riley Brown对Jev 1.13的测试，展示其以极低费用完成大量邮件分类，凸显该模型在邮件自动化场景中的性价比与效率。</p>
+<p><strong>Orbitalis</strong> · @orbitalisVector · 2026-10-23T20:17:08.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 224</p>
+<p><a href="https://x.com/orbitalisVector/status/2113726437865701774">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/scrblanc/status/2113526028010172712"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525832702365696/pu/img/vHnroErhyRKlNWpG.jpg" alt="TypeSafe&#39;s JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute · 原帖视频截图" width="100%"></a>

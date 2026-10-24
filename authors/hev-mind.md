@@ -1,9 +1,10 @@
 # hev mind
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-23T23:21:11.000Z | [Jev has company: benchmark of 16 rerankers](https://x.com/hevmind/status/2113772755955134515) | 知识与搜索 | hev mind | 11 |
 | 2026-10-12T13:23:22.000Z | [Jev reranker benchmark: 0.501 nDCG@10, one call scores 30 candidates](https://x.com/hevmind/status/2109636042517283217) | 知识与搜索 | hev mind | 2 |
 | 2026-10-06T17:14:41.000Z | [Jev Benchmark: Keeping Private Data to Measure Real Skill](https://x.com/hevmind/status/2107519930208006642) | 工作原理 | hev mind | 9 |
 | 2026-10-01T01:13:25.000Z | [Jev decides: LLM thinks, Jev scores, code acts](https://x.com/hevmind/status/2105466077643944394) | 开发资源 | hev mind | 8 |

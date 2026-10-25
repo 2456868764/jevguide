@@ -147,6 +147,7 @@
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
 - [jaffa](../authors/jaffa.md) — 4
+- [Jayant](../authors/jayant.md) — 4
 - [Jerry Hong](../authors/jerry-hong.md) — 4
 - [Josef Andre](../authors/josef-andre.md) — 4
 - [Justin Schroeder](../authors/justin-schroeder.md) — 4
@@ -256,7 +257,6 @@
 - [𝑱𝑨𝑴𝑰𝑵𝑶](../authors/jamino.md) — 3
 - [Jason Zhou](../authors/jason-zhou.md) — 3
 - [Jay Song](../authors/jay-song.md) — 3
-- [Jayant](../authors/jayant.md) — 3
 - [Jerry Liu](../authors/jerry-liu.md) — 3
 - [JLarky](../authors/jlarky.md) — 3
 - [Justine Moore](../authors/justine-moore.md) — 3
@@ -1675,6 +1675,7 @@
 - [Dima | AI at Sea](../authors/dima-ai-at-sea.md) — 1
 - [dimitri.base.eth (some/guy)](../authors/dimitri-base-eth-some-guy.md) — 1
 - [discovery PAPA](../authors/discovery-papa.md) — 1
+- [DisruptiveConcepts](../authors/disruptiveconcepts.md) — 1
 - [Distill AI](../authors/distill-ai.md) — 1
 - [div](../authors/div.md) — 1
 - [Divy](../authors/divy.md) — 1

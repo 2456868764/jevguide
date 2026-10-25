@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T14:37:46.000Z | [Jev-Mem speeds up agent memory construction](https://x.com/de2pressed/status/2114365807904059490) | 智能体 | Jayant | 9 |
+| 2026-10-25T14:24:14.000Z | [Jev Model Selection Benchmark](https://x.com/DisruptConcept/status/2114362401210409185) | 工作原理 | DisruptiveConcepts | 13 |
 | 2026-10-25T14:02:59.000Z | [Pydantic AI now supports TypeSafe's Jev model](https://x.com/marcelotryle/status/2114357054454321585) | 接入动态 | Marcelo Trylesinski | 30 |
 | 2026-10-25T13:21:53.000Z | [Jev batch ties with Perplexity Choice on reranker leaderboard](https://x.com/hevmind/status/2114346710407463033) | 知识与搜索 | hev mind | 9 |
 | 2026-10-25T12:06:52.000Z | [JEV Models Power Dynamic Document Mapping Workflows](https://x.com/build_ai_empire/status/2114327833564606713) | 自动化工作流 | Build AI Empire | 7 |
@@ -100,5 +102,3 @@
 | 2026-10-23T21:31:56.000Z | [Jev/TypeSafe Tip: A Box Return Doesn't Prove Presence](https://x.com/leandrosfer/status/2113745263307129206) | 社区实践 | Leandro Ferreira | 51 |
 | 2026-10-23T21:30:00.000Z | [Scoring Writing with Jev: A Kindle Author's New Release](https://x.com/aoi_kurochan/status/2113744776222666956) | 内容创作 | あおい \| Kindle出版でスマートFIRE | 2.0K |
 | 2026-10-23T20:28:00.000Z | [Jev Beats Pokémon LeafGreen and Reaches Hall of Fame](https://x.com/ivenaccip/status/2113729174078734815) | 游戏 | Ivenaccip | 13 |
-| 2026-10-23T20:21:31.000Z | [Optimizing AI Spend with Jev and Self-Improvement Loops](https://x.com/BoilerPaulie/status/2113727541596848129) | 自动化工作流 | Paul Branham | 800 |
-| 2026-10-23T20:20:17.000Z | [Step-by-Step Guide to Building Agentic RAG with Jev](https://x.com/anoopjoes/status/2113727232174956931) | 开发资源 | Anoop George Joseph | 11 |

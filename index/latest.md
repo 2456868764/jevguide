@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T16:00:54.000Z | [JEV + Grok bot flips $100 to $138K overnight](https://x.com/0xYuzuu/status/2114386728194634199) | 金融 | yuzu | 12 |
+| 2026-10-25T15:38:52.000Z | [JEV by TypeSafe: Turning unstructured requests into automated decisions](https://x.com/innflow_ai/status/2114381186600432051) | 自动化工作流 | innflow | 7 |
+| 2026-10-25T15:28:45.000Z | [7 Weeks of Predictions Live](https://x.com/0rdlibrary/status/2114378638640693297) | 社区实践 | 8Bit🦞 | 187 |
+| 2026-10-25T15:27:00.000Z | [74 Jev demos and 150+ repos list](https://x.com/thegreatest_sv/status/2114378197932617766) | 开发资源 | kiosa | 106 |
 | 2026-10-25T14:37:46.000Z | [Jev-Mem speeds up agent memory construction](https://x.com/de2pressed/status/2114365807904059490) | 智能体 | Jayant | 9 |
 | 2026-10-25T14:24:14.000Z | [Jev Model Selection Benchmark](https://x.com/DisruptConcept/status/2114362401210409185) | 工作原理 | DisruptiveConcepts | 13 |
 | 2026-10-25T14:02:59.000Z | [Pydantic AI now supports TypeSafe's Jev model](https://x.com/marcelotryle/status/2114357054454321585) | 接入动态 | Marcelo Trylesinski | 30 |
@@ -98,7 +102,3 @@
 | 2026-10-23T23:21:11.000Z | [Jev has company: benchmark of 16 rerankers](https://x.com/hevmind/status/2113772755955134515) | 知识与搜索 | hev mind | 11 |
 | 2026-10-23T23:14:56.000Z | [Open-source research agent uses Jev to review evidence](https://x.com/AbuSaud_Cyber/status/2113771183023759692) | 知识与搜索 | ابو سعود 💻 | 423 |
 | 2026-10-23T22:33:08.000Z | [Response on getting Jev swag](https://x.com/CompleteSkeptic/status/2113760664124822001) | 社区实践 | Diogo Almeida | 9.5K |
-| 2026-10-23T22:29:00.000Z | [Using Jev to Check Octopus Sticker Leg Count](https://x.com/ha_chi_co_3/status/2113759621576057122) | 内容创作 | ハチコ \| あなたの「難しそう」を「面白い」に変える人 | 107 |
-| 2026-10-23T21:31:56.000Z | [Jev/TypeSafe Tip: A Box Return Doesn't Prove Presence](https://x.com/leandrosfer/status/2113745263307129206) | 社区实践 | Leandro Ferreira | 51 |
-| 2026-10-23T21:30:00.000Z | [Scoring Writing with Jev: A Kindle Author's New Release](https://x.com/aoi_kurochan/status/2113744776222666956) | 内容创作 | あおい \| Kindle出版でスマートFIRE | 2.0K |
-| 2026-10-23T20:28:00.000Z | [Jev Beats Pokémon LeafGreen and Reaches Hall of Fame](https://x.com/ivenaccip/status/2113729174078734815) | 游戏 | Ivenaccip | 13 |

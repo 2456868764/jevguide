@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6234</strong><br>curated posts</td>
-<td align="center"><strong>3111</strong><br>original videos</td>
+<td align="center"><strong>6238</strong><br>curated posts</td>
+<td align="center"><strong>3113</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1173</strong> showcases · <strong>488</strong> videos</p>
+<p><strong>1174</strong> showcases · <strong>488</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>379</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>380</strong> showcases · <strong>153</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>318</strong> showcases · <strong>187</strong> videos</p>
+<p><strong>319</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>270</strong> showcases · <strong>170</strong> videos</p>
+<p><strong>271</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/de2pressed/status/2114365807904059490"><img src="https://pbs.twimg.com/media/HVe8fb-aIAAxVjT?format=jpg&amp;name=medium" alt="Jev-Mem speeds up agent memory construction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/de2pressed/status/2114365807904059490">Jev-Mem speeds up agent memory construction</a></h3>
-<p>Jev-Mem builds agent memory 6.6x faster by using a fast scorer instead of an LLM for routing. On LoCoMo, memory construction dropped from 1,044s to 158s while answer quality improved to 0.777.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Jayant</strong> · @de2pressed</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xYuzuu/status/2114386728194634199"><img src="https://pbs.twimg.com/amplify_video_thumb/2114386652734885888/img/ODaIOFqazS08Umuj.jpg" alt="JEV + Grok bot flips $100 to $138K overnight · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xYuzuu/status/2114386728194634199">JEV + Grok bot flips $100 to $138K overnight</a></h3>
+<p>User shares night 14 of a $100 challenge: a JEV+Grok trading bot flipped a founder dumping tokens via 11 wallets, turning $100 into $138,217.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 12</p>
+<p><strong>yuzu</strong> · @0xYuzuu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/DisruptConcept/status/2114362401210409185"><img src="https://pbs.twimg.com/media/HVe5YgmXcAATW0S?format=jpg&amp;name=medium" alt="Jev Model Selection Benchmark · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DisruptConcept/status/2114362401210409185">Jev Model Selection Benchmark</a></h3>
-<p>In an OpenRouter API test (Oct 25), Jev selected models from catalog facts alone with an 88.1% pass rate, below the fixed cheapest-capable rule (96.7%). When measured, Jev matched the fixed rule at 93.7%, still lower.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>DisruptiveConcepts</strong> · @DisruptConcept</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/innflow_ai/status/2114381186600432051"><img src="https://pbs.twimg.com/media/HVfKafoXwAEDLtQ?format=jpg&amp;name=medium" alt="JEV by TypeSafe: Turning unstructured requests into automated decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/innflow_ai/status/2114381186600432051">JEV by TypeSafe: Turning unstructured requests into automated decisions</a></h3>
+<p>Using an invoice issue as an example, this post shows how JEV outputs structured judgments via Choice, Score, and Noul, enabling workflows to automatically decide between billing, support, or review.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>innflow</strong> · @innflow_ai</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/marcelotryle/status/2114357054454321585"><img src="https://pbs.twimg.com/media/HVe0iU8WQAAy54i?format=jpg&amp;name=medium" alt="Pydantic AI now supports TypeSafe&#39;s Jev model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/marcelotryle/status/2114357054454321585">Pydantic AI now supports TypeSafe&#39;s Jev model</a></h3>
-<p>Pydantic AI now supports TypeSafe&#39;s Jev model, which answers typed questions instead of writing text. Every answer includes its confidence, and can be used via Agent(&#39;typesafe:jev-latest&#39;, output_type=...).</p>
-<p><strong>30</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 30</p>
-<p><strong>Marcelo Trylesinski</strong> · @marcelotryle</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2114378638640693297"><img src="https://pbs.twimg.com/media/HVfIJlXW4AArRtJ?format=jpg&amp;name=medium" alt="7 Weeks of Predictions Live · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2114378638640693297">7 Weeks of Predictions Live</a></h3>
+<p>@clawddevs launches week 7 predictions using Jup.predict and TypeSafe AI JEV on Polymarket.</p>
+<p><strong>187</strong> views · 💬 0 &nbsp; 🔁 3 &nbsp; ♡ 3 &nbsp; 📊 187</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/hevmind/status/2114346710407463033"><img src="https://pbs.twimg.com/media/HVerHSQa8AAKo4Y?format=jpg&amp;name=medium" alt="Jev batch ties with Perplexity Choice on reranker leaderboard · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hevmind/status/2114346710407463033">Jev batch ties with Perplexity Choice on reranker leaderboard</a></h3>
-<p>On hevmind&#39;s three-corpus reranker leaderboard, Jev batch and Perplexity Choice both score 0.501 mean nDCG@10, while Mixedbread v3.1 listwise leads at 0.511.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>hev mind</strong> · @hevmind</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/thegreatest_sv/status/2114378197932617766"><img src="https://pbs.twimg.com/amplify_video_thumb/2114368202494902272/img/KB8LQNzOvxtdppe3.jpg" alt="74 Jev demos and 150+ repos list · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/thegreatest_sv/status/2114378197932617766">74 Jev demos and 150+ repos list</a></h3>
+<p>The post urges developers to check Jev open-source repos before using Claude Code, featuring 74 ranked demos, 150+ repos, real costs, and known limitations.</p>
+<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 106</p>
+<p><strong>kiosa</strong> · @thegreatest_sv</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xYuzuu/status/2114386728194634199"><img src="https://pbs.twimg.com/amplify_video_thumb/2114386652734885888/img/ODaIOFqazS08Umuj.jpg" alt="JEV + Grok bot flips $100 to $138K overnight · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xYuzuu/status/2114386728194634199">JEV + Grok bot flips $100 to $138K overnight</a></h3>
+<p>User shares night 14 of a $100 challenge: a JEV+Grok trading bot flipped a founder dumping tokens via 11 wallets, turning $100 into $138,217.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 12</p>
+<p><strong>yuzu</strong> · @0xYuzuu</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/thegreatest_sv/status/2114378197932617766"><img src="https://pbs.twimg.com/amplify_video_thumb/2114368202494902272/img/KB8LQNzOvxtdppe3.jpg" alt="74 Jev demos and 150+ repos list · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/thegreatest_sv/status/2114378197932617766">74 Jev demos and 150+ repos list</a></h3>
+<p>The post urges developers to check Jev open-source repos before using Claude Code, featuring 74 ranked demos, 150+ repos, real costs, and known limitations.</p>
+<p><strong>106</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 106</p>
+<p><strong>kiosa</strong> · @thegreatest_sv</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/de2pressed/status/2114365807904059490"><img src="https://pbs.twimg.com/media/HVe8fb-aIAAxVjT?format=jpg&amp;name=medium" alt="Jev-Mem speeds up agent memory construction · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/de2pressed/status/2114365807904059490">Jev-Mem speeds up agent memory construction</a></h3>
 <p>Jev-Mem builds agent memory 6.6x faster by using a fast scorer instead of an LLM for routing. On LoCoMo, memory construction dropped from 1,044s to 158s while answer quality improved to 0.777.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>Jayant</strong> · @de2pressed</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/hevmind/status/2114346710407463033"><img src="https://pbs.twimg.com/media/HVerHSQa8AAKo4Y?format=jpg&amp;name=medium" alt="Jev batch ties with Perplexity Choice on reranker leaderboard · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hevmind/status/2114346710407463033">Jev batch ties with Perplexity Choice on reranker leaderboard</a></h3>
-<p>On hevmind&#39;s three-corpus reranker leaderboard, Jev batch and Perplexity Choice both score 0.501 mean nDCG@10, while Mixedbread v3.1 listwise leads at 0.511.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>hev mind</strong> · @hevmind</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/build_ai_empire/status/2114327833564606713"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114327798688915456/pu/img/KKncFwO2qXGggkyA.jpg" alt="JEV Models Power Dynamic Document Mapping Workflows · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/build_ai_empire/status/2114327833564606713">JEV Models Power Dynamic Document Mapping Workflows</a></h3>
-<p>From the TWIML AI Podcast: JEV models can fit into dynamic workflows for mapping company documents, so large models like Opus 5.5 needn’t reason over the whole collection.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Build AI Empire</strong> · @build_ai_empire</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/Sumanth_077/status/2114309785407652201"><img src="https://pbs.twimg.com/media/HVeJfU8aoAA2BxS?format=png&amp;name=900x900" alt="Jev as a decision layer for LLM agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Sumanth_077/status/2114309785407652201">Jev as a decision layer for LLM agents</a></h3>
-<p>JevAgentHarness explores how Jev can serve as a bounded decision layer for small decisions in LLM agents, such as tool selection, argument choice, and task completion.</p>
-<p><strong>934</strong> views · 💬 7 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 934</p>
-<p><strong>Sumanth</strong> · @Sumanth_077</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Raytar/status/2114318015944683563"><img src="https://pbs.twimg.com/amplify_video_thumb/2114317880481271808/img/UUo_z-2YGsRBxaYP.jpg" alt="Multi-agent AI setup including Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Raytar/status/2114318015944683563">Multi-agent AI setup including Jev</a></h3>
+<p>The author describes building a powerful setup of 6 AI agents, including Jev, with a shared brain, and setting a rule for them to find and fix paid problems to make money.</p>
+<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 170</p>
+<p><strong>Raytar</strong> · @Raytar</p>
 </td>
 </tr>
 </table>

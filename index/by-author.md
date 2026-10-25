@@ -23,6 +23,7 @@
 - [Suzuki](../authors/suzuki.md) — 10
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Dhanian 🗯️](../authors/dhanian.md) — 9
+- [kiosa](../authors/kiosa.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 8
@@ -33,7 +34,6 @@
 - [ericosiu](../authors/ericosiu.md) — 8
 - [Gipp 🦅](../authors/gipp.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
-- [kiosa](../authors/kiosa.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
@@ -78,6 +78,7 @@
 - [WquGuru](../authors/wquguru.md) — 6
 - [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 6
 - [萩野貴拓](../authors/萩野貴拓.md) — 6
+- [8Bit🦞](../authors/8bit.md) — 5
 - [apolinario (poli)](../authors/apolinario-poli.md) — 5
 - [Artimind](../authors/artimind.md) — 5
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
@@ -115,7 +116,6 @@
 - [Zeki Works](../authors/zeki-works.md) — 5
 - [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
-- [8Bit🦞](../authors/8bit.md) — 4
 - [Abdullah](../authors/abdullah.md) — 4
 - [Akshay 🚀](../authors/akshay.md) — 4
 - [Allie the Icon](../authors/allie-the-icon.md) — 4
@@ -2116,6 +2116,7 @@
 - [Indraganti Akshay](../authors/indraganti-akshay.md) — 1
 - [informaticoloco](../authors/informaticoloco.md) — 1
 - [Ingo Elfering](../authors/ingo-elfering.md) — 1
+- [innflow](../authors/innflow.md) — 1
 - [innovaTopia](../authors/innovatopia.md) — 1
 - [Insomnia](../authors/insomnia.md) — 1
 - [Inteligencia Artificial](../authors/inteligencia-artificial.md) — 1
@@ -3892,6 +3893,7 @@
 - [YutoSeta@AI個人開発するのでお小遣いください](../authors/yutoseta-ai個人開発-小遣.md) — 1
 - [Yuvelir](../authors/yuvelir.md) — 1
 - [Yuvraj Singh Rathore](../authors/yuvraj-singh-rathore.md) — 1
+- [yuzu](../authors/yuzu.md) — 1
 - [yypiece＠datascientist](../authors/yypiece-datascientist.md) — 1
 - [YZ](../authors/yz.md) — 1
 - [YZ | 立正](../authors/yz-立正.md) — 1

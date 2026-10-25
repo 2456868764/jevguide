@@ -1393,6 +1393,7 @@
 - [Bruno Volpato](../authors/bruno-volpato.md) — 1
 - [Bryan Lee](../authors/bryan-lee.md) — 1
 - [Build A Goat](../authors/build-a-goat.md) — 1
+- [Build AI Empire](../authors/build-ai-empire.md) — 1
 - [Build Fast with AI](../authors/build-fast-with-ai.md) — 1
 - [BULLCOM](../authors/bullcom.md) — 1
 - [Bullseye Ai - Qc](../authors/bullseye-ai-qc.md) — 1

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6229</strong><br>curated posts</td>
-<td align="center"><strong>3110</strong><br>original videos</td>
+<td align="center"><strong>6230</strong><br>curated posts</td>
+<td align="center"><strong>3111</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>269</strong> showcases · <strong>169</strong> videos</p>
+<p><strong>270</strong> showcases · <strong>170</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/build_ai_empire/status/2114327833564606713"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114327798688915456/pu/img/KKncFwO2qXGggkyA.jpg" alt="JEV Models Power Dynamic Document Mapping Workflows · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/build_ai_empire/status/2114327833564606713">JEV Models Power Dynamic Document Mapping Workflows</a></h3>
+<p>From the TWIML AI Podcast: JEV models can fit into dynamic workflows for mapping company documents, so large models like Opus 5.5 needn’t reason over the whole collection.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Build AI Empire</strong> · @build_ai_empire</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
 <a href="https://x.com/MariaOnchainDev/status/2114318472754720930"><img src="https://pbs.twimg.com/media/HVeRXSlXEAAM0CL?format=jpg&amp;name=medium" alt="JEV-1.13.0: A Judge Model to Improve RAG Retrieval · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/MariaOnchainDev/status/2114318472754720930">JEV-1.13.0: A Judge Model to Improve RAG Retrieval</a></h3>
 <p>On B.AI, JEV-1.13.0 can filter retrieved passages before they reach your expensive model, improving RAG at lower cost.</p>
 <p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><strong>Maria</strong> · @MariaOnchainDev</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/Raytar/status/2114318015944683563"><img src="https://pbs.twimg.com/amplify_video_thumb/2114317880481271808/img/UUo_z-2YGsRBxaYP.jpg" alt="Multi-agent AI setup including Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Raytar/status/2114318015944683563">Multi-agent AI setup including Jev</a></h3>
 <p>The author describes building a powerful setup of 6 AI agents, including Jev, with a shared brain, and setting a rule for them to find and fix paid problems to make money.</p>
 <p><strong>170</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 170</p>
 <p><strong>Raytar</strong> · @Raytar</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/zalzhou/status/2114315134164517370"><img src="https://pbs.twimg.com/amplify_video_thumb/2114314019054206976/img/h4LlSgzNaeIhyBF2.jpg" alt="How Jev Works: A Decision Model Without the Autoregressive Loop · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/zalzhou/status/2114315134164517370">How Jev Works: A Decision Model Without the Autoregressive Loop</a></h3>
 <p>Zal Zhou explains that a decision model is essentially an LLM with the autoregressive loop removed—read the probabilities at one position, write nothing. He notes that many cloned Jev within a month, and the hard part is getting the probabilities right. Full video linked.</p>
 <p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><strong>Zal Zhou</strong> · @zalzhou</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/morpphhhaw/status/2114313418719007028"><img src="https://pbs.twimg.com/amplify_video_thumb/2114313382505365504/img/0yZsS05RkGCSBSzx.jpg" alt="Six AI tools argue over product ideas overnight with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/morpphhhaw/status/2114313418719007028">Six AI tools argue over product ideas overnight with Jev</a></h3>
-<p>The author proposes letting six AI tools, including Opus, Codex, and Jev, debate and evaluate product ideas within seven hours and a $15 budget, with permission to kill the concept early. This highlights Jev in a real automated ideation workflow.</p>
-<p><strong>210</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 210</p>
-<p><strong>morph</strong> · @morpphhhaw</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/MariaOnchainDev/status/2114318472754720930"><img src="https://pbs.twimg.com/media/HVeRXSlXEAAM0CL?format=jpg&amp;name=medium" alt="JEV-1.13.0: A Judge Model to Improve RAG Retrieval · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MariaOnchainDev/status/2114318472754720930">JEV-1.13.0: A Judge Model to Improve RAG Retrieval</a></h3>
-<p>On B.AI, JEV-1.13.0 can filter retrieved passages before they reach your expensive model, improving RAG at lower cost.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Maria</strong> · @MariaOnchainDev</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/build_ai_empire/status/2114327833564606713"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114327798688915456/pu/img/KKncFwO2qXGggkyA.jpg" alt="JEV Models Power Dynamic Document Mapping Workflows · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/build_ai_empire/status/2114327833564606713">JEV Models Power Dynamic Document Mapping Workflows</a></h3>
+<p>From the TWIML AI Podcast: JEV models can fit into dynamic workflows for mapping company documents, so large models like Opus 5.5 needn’t reason over the whole collection.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Build AI Empire</strong> · @build_ai_empire</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/zalzhou/status/2114315134164517370"><img src="https://pbs.twimg.com/amplify_video_thumb/2114314019054206976/img/h4LlSgzNaeIhyBF2.jpg" alt="How Jev Works: A Decision Model Without the Autoregressive Loop · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/zalzhou/status/2114315134164517370">How Jev Works: A Decision Model Without the Autoregressive Loop</a></h3>
+<p>Zal Zhou explains that a decision model is essentially an LLM with the autoregressive loop removed—read the probabilities at one position, write nothing. He notes that many cloned Jev within a month, and the hard part is getting the probabilities right. Full video linked.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Zal Zhou</strong> · @zalzhou</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/morpphhhaw/status/2114313418719007028"><img src="https://pbs.twimg.com/amplify_video_thumb/2114313382505365504/img/0yZsS05RkGCSBSzx.jpg" alt="Six AI tools argue over product ideas overnight with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/morpphhhaw/status/2114313418719007028">Six AI tools argue over product ideas overnight with Jev</a></h3>
 <p>The author proposes letting six AI tools, including Opus, Codex, and Jev, debate and evaluate product ideas within seven hours and a $15 budget, with permission to kill the concept early. This highlights Jev in a real automated ideation workflow.</p>
 <p><strong>210</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 210</p>
 <p><strong>morph</strong> · @morpphhhaw</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/melayaorg/status/2114311223785451616"><img src="https://pbs.twimg.com/media/HVeK2iNagAA2zI6?format=png&amp;name=900x900" alt="Jev-Powered Morning Review of SEC Filings · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/melayaorg/status/2114311223785451616">Jev-Powered Morning Review of SEC Filings</a></h3>
-<p>Melaya demonstrates a daily use case: agents automatically pull SEC filings, Jev scores them, and Device Control opens the most important one on your phone.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
-<p><strong>Melaya</strong> · @melayaorg</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
-<p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
-<p><strong>Abe K</strong> · @akarik3873</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/srmarcmayol/status/2114283710518575309"><img src="https://pbs.twimg.com/amplify_video_thumb/2114283681741180928/img/xyCBT6fdOu-0rHuD.jpg" alt="Persist agent corrections with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/srmarcmayol/status/2114283710518575309">Persist agent corrections with Jev</a></h3>
+<p>Marc Mayol shares that correcting an agent is useless if lost when closing the session. Akshay Pachaar solves it with Beacon (open-source memory) and Jev, which decides what to save. Corrections to Claude Code are applied by Codex, though Codex had to be asked.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Marc Mayol GenAI Tech lead</strong> · @srmarcmayol</p>
 </td>
 </tr>
 </table>

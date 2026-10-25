@@ -692,6 +692,7 @@
 - [Oliver Prompts](../authors/oliver-prompts.md) — 2
 - [Olli](../authors/olli.md) — 2
 - [OmniRail](../authors/omnirail.md) — 2
+- [Onur Oztaskiran](../authors/onur-oztaskiran.md) — 2
 - [OpenJEV](../authors/openjev.md) — 2
 - [OpenMed](../authors/openmed.md) — 2
 - [ORACLE](../authors/oracle.md) — 2
@@ -2915,7 +2916,6 @@
 - [Ondrej Bacina ⚡️🔋🚗 🤖🇨🇿🇺🇦](../authors/ondrej-bacina.md) — 1
 - [OneLegDave](../authors/onelegdave.md) — 1
 - [OneWave AI](../authors/onewave-ai.md) — 1
-- [Onur Oztaskiran](../authors/onur-oztaskiran.md) — 1
 - [Oodle AI](../authors/oodle-ai.md) — 1
 - [oor.sol](../authors/oor-sol.md) — 1
 - [OpenBMB](../authors/openbmb.md) — 1

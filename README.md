@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6222</strong><br>curated posts</td>
+<td align="center"><strong>6223</strong><br>curated posts</td>
 <td align="center"><strong>3107</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1172</strong> showcases · <strong>488</strong> videos</p>
+<p><strong>1173</strong> showcases · <strong>488</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/onuro/status/2114307272348250624"><img src="https://pbs.twimg.com/media/HVeHHL5XoAAEwgF?format=jpg&amp;name=medium" alt="Integrate Jev into Claude to reduce token usage · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/onuro/status/2114307272348250624">Integrate Jev into Claude to reduce token usage</a></h3>
+<p>A user claims that integrating Jev into Claude can reduce token usage by over 50% and speed up tasks.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>Onur Oztaskiran</strong> · @onuro</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
 <a href="https://x.com/adlrocha/status/2114294395717767492"><img src="https://pbs.twimg.com/media/HVJH5wAW8AAsJdf?format=jpg&amp;name=medium" alt="The Mystery of Decision Model Speed: Jev vs LLMs · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/adlrocha/status/2114294395717767492">The Mystery of Decision Model Speed: Jev vs LLMs</a></h3>
 <p>The author asks why decision models are so much faster than LLMs. OpenAI says its Decisions API runs on a specialized GPT-6 Luna, while TypeSafe has only revealed &#39;new architecture&#39; and &#39;parallel sampler&#39; for Jev. Then Cloudflare released open-weight model Clef, offering a clue.</p>
 <p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><strong>adlrocha</strong> · @adlrocha</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
 <a href="https://x.com/web_se/status/2114285858446790879"><img src="https://pbs.twimg.com/media/HVdzb1JbgAA4ccV?format=png&amp;name=small" alt="Question about displaying scores for similar questions in Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/web_se/status/2114285858446790879">Question about displaying scores for similar questions in Jev</a></h3>
 <p>The user asks whether similar questions are generated and wonders if it displays high-scoring items in Jev.</p>
 <p><strong>321</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 321</p>
 <p><strong>s.hiruta</strong> · @web_se</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/srmarcmayol/status/2114283710518575309"><img src="https://pbs.twimg.com/amplify_video_thumb/2114283681741180928/img/xyCBT6fdOu-0rHuD.jpg" alt="Persist agent corrections with Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/srmarcmayol/status/2114283710518575309">Persist agent corrections with Jev</a></h3>
 <p>Marc Mayol shares that correcting an agent is useless if lost when closing the session. Akshay Pachaar solves it with Beacon (open-source memory) and Jev, which decides what to save. Corrections to Claude Code are applied by Codex, though Codex had to be asked.</p>
 <p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><strong>Marc Mayol GenAI Tech lead</strong> · @srmarcmayol</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
-<p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
-<p><strong>Abe K</strong> · @akarik3873</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/adlrocha/status/2114294395717767492"><img src="https://pbs.twimg.com/media/HVJH5wAW8AAsJdf?format=jpg&amp;name=medium" alt="The Mystery of Decision Model Speed: Jev vs LLMs · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/adlrocha/status/2114294395717767492">The Mystery of Decision Model Speed: Jev vs LLMs</a></h3>
-<p>The author asks why decision models are so much faster than LLMs. OpenAI says its Decisions API runs on a specialized GPT-6 Luna, while TypeSafe has only revealed &#39;new architecture&#39; and &#39;parallel sampler&#39; for Jev. Then Cloudflare released open-weight model Clef, offering a clue.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>adlrocha</strong> · @adlrocha</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/onuro/status/2114307272348250624"><img src="https://pbs.twimg.com/media/HVeHHL5XoAAEwgF?format=jpg&amp;name=medium" alt="Integrate Jev into Claude to reduce token usage · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/onuro/status/2114307272348250624">Integrate Jev into Claude to reduce token usage</a></h3>
+<p>A user claims that integrating Jev into Claude can reduce token usage by over 50% and speed up tasks.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>Onur Oztaskiran</strong> · @onuro</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/srmarcmayol/status/2114283710518575309"><img src="https://pbs.twimg.com/amplify_video_thumb/2114283681741180928/img/xyCBT6fdOu-0rHuD.jpg" alt="Persist agent corrections with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/srmarcmayol/status/2114283710518575309">Persist agent corrections with Jev</a></h3>
+<p>Marc Mayol shares that correcting an agent is useless if lost when closing the session. Akshay Pachaar solves it with Beacon (open-source memory) and Jev, which decides what to save. Corrections to Claude Code are applied by Codex, though Codex had to be asked.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Marc Mayol GenAI Tech lead</strong> · @srmarcmayol</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
 <p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
 <p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
 <p><strong>Abe K</strong> · @akarik3873</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/CafeSingularity/status/2114274852857336109"><img src="https://pbs.twimg.com/media/HVdpKF0awAAOcKU?format=jpg&amp;name=medium" alt="Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CafeSingularity/status/2114274852857336109">Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol</a></h3>
-<p>After a long absence, Espressa is back to normal business and has been updated to a new configuration featuring Jev (Decisions API) + GPT-6.1 Sol. The author notes it should be smarter, though a bit anxious about whether it will work properly.</p>
-<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 104</p>
-<p><strong>カフェマス＠XR×VTuber</strong> · @CafeSingularity</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/true_jae_yang/status/2114202971504525312"><img src="https://pbs.twimg.com/amplify_video_thumb/2114202519282892800/img/dZmN_p7mPXnuCgKJ.jpg" alt="Integrating a Jev-like system in chat support · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/true_jae_yang/status/2114202971504525312">Integrating a Jev-like system in chat support</a></h3>
-<p>The author added chat support, using a Jev-like system for quick actions (such as animation activation) and DeepSeek for general interpretation, plus an eye blinking animation.</p>
-<p><strong>135</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
-<p><strong>Jae Yang</strong> · @true_jae_yang</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/jmilldotdev/status/2114203637362925854"><img src="https://pbs.twimg.com/amplify_video_thumb/2114203528617213952/img/q21MH8YInIK3c6Dw.jpg" alt="Building the first agentic text field with Jev? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/jmilldotdev/status/2114203637362925854">Building the first agentic text field with Jev?</a></h3>
+<p>Jmill tweets that they built an agentic text field using Jev to translate keystrokes into ASCII with near-perfect accuracy, low latency and near-zero cost; likely a satire of wrapping plain input in agentic AI jargon.</p>
+<p><strong>236</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 236</p>
+<p><strong>jmill</strong> · @jmilldotdev</p>
 </td>
 </tr>
 </table>

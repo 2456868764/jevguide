@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T10:45:10.000Z | [Integrate Jev into Claude to reduce token usage](https://x.com/onuro/status/2114307272348250624) | 社区实践 | Onur Oztaskiran | 17 |
 | 2026-10-25T09:54:00.000Z | [The Mystery of Decision Model Speed: Jev vs LLMs](https://x.com/adlrocha/status/2114294395717767492) | 工作原理 | adlrocha | 7 |
 | 2026-10-25T09:20:04.000Z | [Question about displaying scores for similar questions in Jev](https://x.com/web_se/status/2114285858446790879) | 知识与搜索 | s.hiruta | 321 |
 | 2026-10-25T09:11:32.000Z | [Persist agent corrections with Jev](https://x.com/srmarcmayol/status/2114283710518575309) | 智能体 | Marc Mayol GenAI Tech lead | 16 |
@@ -101,4 +102,3 @@
 | 2026-10-23T19:17:38.000Z | [JEV Landscape: STATE Packer Collapses Context into One Typed State](https://x.com/0xVarian/status/2113711462585675899) | 工作原理 | Varian | 1.1K |
 | 2026-10-23T19:10:35.000Z | [Jev as a precondition for proactive agents](https://x.com/mikeclarke/status/2113709690291114048) | 智能体 | Mike Clarke | 74 |
 | 2026-10-23T19:10:23.000Z | [JEV Grid's Split Design Sparks Discussion](https://x.com/Rhoxbt/status/2113709637279301731) | 智能体 | Rhoxbt | 1.6K |
-| 2026-10-23T16:05:16.000Z | [Last Call: JEV Workshop Tomorrow](https://x.com/LightHouse_acc/status/2113663052881301556) | 社区实践 | Lighthouse | 3 |

@@ -773,6 +773,7 @@
 - [Skik](../authors/skik.md) — 2
 - [sleepy.md](../authors/sleepy-md.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
+- [soar](../authors/soar.md) — 2
 - [Som Dutt | AI/ML Analyst](../authors/som-dutt-ai-ml-analyst.md) — 2
 - [spect](../authors/spect.md) — 2
 - [Stas Slutsker](../authors/stas-slutsker.md) — 2
@@ -3399,7 +3400,6 @@
 - [SLASH](../authors/slash.md) — 1
 - [Slobo](../authors/slobo.md) — 1
 - [smallzero](../authors/smallzero.md) — 1
-- [soar](../authors/soar.md) — 1
 - [Sodeh Abadi](../authors/sodeh-abadi.md) — 1
 - [Sofiia Matsiutsia](../authors/sofiia-matsiutsia.md) — 1
 - [Sofiia Shvets](../authors/sofiia-shvets.md) — 1

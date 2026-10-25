@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T07:39:31.000Z | [Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection](https://x.com/codersoar/status/2114260552042320184) | 产品发布 | soar | 49 |
 | 2026-10-25T07:01:14.000Z | [Jev on Where Judgment Belongs in Layered Agent Actions](https://x.com/sangamesh_gupta/status/2114250920212959519) | 智能体 | Sangamesh Gella | 1 |
 | 2026-10-25T06:37:24.000Z | [Jev Runs Locally to Assist Accounting Work](https://x.com/YutoSeta/status/2114244919695143022) | 金融 | YutoSeta@AI個人開発するのでお小遣いください | 14 |
 | 2026-10-25T05:47:14.000Z | [Jev and Decisions API: Specialized Models for Fast Decisions](https://x.com/faizan_ali_113/status/2114232297352528345) | 智能体 | Faizan Ali | 10 |
@@ -101,4 +102,3 @@
 | 2026-10-23T12:45:46.000Z | [Papers with Code integrates Jev to highlight methods in abstracts](https://x.com/NielsRogge/status/2113612849389920589) | 接入动态 | Niels Rogge | 376 |
 | 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
 | 2026-10-23T12:16:17.000Z | [Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code](https://x.com/nonepcbl/status/2113605429620023790) | 金融 | nOnEpcbl. | 61 |
-| 2026-10-23T12:07:13.000Z | [Classified 64,946 GitHub repos with Jev for under $2](https://x.com/0xasten/status/2113603146945823034) | 社区实践 | Asten | 35 |

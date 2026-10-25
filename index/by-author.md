@@ -32,6 +32,7 @@
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
 - [ericosiu](../authors/ericosiu.md) — 8
 - [Gipp 🦅](../authors/gipp.md) — 8
+- [hev mind](../authors/hev-mind.md) — 8
 - [kiosa](../authors/kiosa.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8
 - [Troy](../authors/troy.md) — 8
@@ -43,7 +44,6 @@
 - [Fluixo](../authors/fluixo.md) — 7
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
-- [hev mind](../authors/hev-mind.md) — 7
 - [Jason Zhu](../authors/jason-zhu.md) — 7
 - [Kurt](../authors/kurt.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
@@ -2581,6 +2581,7 @@
 - [Marc van de Logt](../authors/marc-van-de-logt.md) — 1
 - [Marcel](../authors/marcel.md) — 1
 - [Marcelo Lebre](../authors/marcelo-lebre.md) — 1
+- [Marcelo Trylesinski](../authors/marcelo-trylesinski.md) — 1
 - [Marcia Ong](../authors/marcia-ong.md) — 1
 - [Marcin](../authors/marcin.md) — 1
 - [Marcin Kłeczek](../authors/marcin-k-eczek.md) — 1

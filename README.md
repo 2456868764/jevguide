@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6180</strong><br>curated posts</td>
-<td align="center"><strong>3086</strong><br>original videos</td>
+<td align="center"><strong>6199</strong><br>curated posts</td>
+<td align="center"><strong>3094</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1161</strong> showcases · <strong>481</strong> videos</p>
+<p><strong>1165</strong> showcases · <strong>484</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>625</strong> showcases · <strong>312</strong> videos</p>
+<p><strong>629</strong> showcases · <strong>313</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>580</strong> showcases · <strong>252</strong> videos</p>
+<p><strong>581</strong> showcases · <strong>253</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>538</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>539</strong> showcases · <strong>231</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>488</strong> showcases · <strong>273</strong> videos</p>
+<p><strong>490</strong> showcases · <strong>274</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>411</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>413</strong> showcases · <strong>171</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>312</strong> showcases · <strong>183</strong> videos</p>
+<p><strong>315</strong> showcases · <strong>185</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -98,18 +98,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
-<p><sub>知识与搜索</sub></p>
-<p><strong>124</strong> showcases · <strong>63</strong> videos</p>
-<p><a href="categories/knowledge-search.md">Open category →</a></p>
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>124</strong> showcases · <strong>89</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>122</strong> showcases · <strong>89</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
+<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
+<p><sub>知识与搜索</sub></p>
+<p><strong>124</strong> showcases · <strong>63</strong> videos</p>
+<p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/JhAquarium/status/2114019729585152082"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev improves test suite selection accuracy in agentic coding loops · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JhAquarium/status/2114019729585152082">Jev improves test suite selection accuracy in agentic coding loops</a></h3>
-<p>Adding a decision-model pause to the Claude Code bug-fix loop: Jev and winnow:e4b selected the expected test suite in 12/12 fixes, while Claude alone scored 9/12 and filename rules only 3/12.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Jerry Hong</strong> · @JhAquarium</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/y_yoheyx/status/2114187840888381444"><img src="https://pbs.twimg.com/media/HVcaa_ga0AATvAF?format=jpg&amp;name=medium" alt="Experience Integrating Jev into a Workflow · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/y_yoheyx/status/2114187840888381444">Experience Integrating Jev into a Workflow</a></h3>
+<p>The author has integrated Jev into a workflow and notes that it is hard to use up the free $5 credit, so there seems to be no need to switch to another product at the moment.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>yohei</strong> · @y_yoheyx</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/TechByNagma/status/2114017545011470410"><img src="https://pbs.twimg.com/amplify_video_thumb/2114017400341598208/img/eWyHgEjeRz35jGqb.jpg" alt="Jev Founder Says JEV Is the Next Era for LLMs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/TechByNagma/status/2114017545011470410">Jev Founder Says JEV Is the Next Era for LLMs</a></h3>
-<p>Jev founder Diogo Almeida (ex-OpenAI) says Claude Code and Codex are still part of the assistance era with humans in the loop. JEV, as the next step for LLMs, claims to be 200x faster, 400x cheaper, with zero hallucination and no human in the loop.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Nagma parween</strong> · @TechByNagma</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/MiguelriosEN/status/2114165520010547468"><img src="https://pbs.twimg.com/amplify_video_thumb/2114165420416790528/img/HC4LrJKxqmjiJ3P_.jpg" alt="Dad uses Jev to build an app for his daughters&#39; Lego car race · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MiguelriosEN/status/2114165520010547468">Dad uses Jev to build an app for his daughters&#39; Lego car race</a></h3>
+<p>This dad used Jev to quickly build an app to determine the winner of his daughters&#39; Lego car race.</p>
+<p><strong>175</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 175</p>
+<p><strong>Miguel Ríos Berríos</strong> · @MiguelriosEN</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/tuzhenzhao/status/2114007011419652508"><img src="https://pbs.twimg.com/amplify_video_thumb/2114006976472690688/img/ykCigjkro9iWstQ_.jpg" alt="Mathematical Principles of RLCD for Jev Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tuzhenzhao/status/2114007011419652508">Mathematical Principles of RLCD for Jev Model</a></h3>
-<p>The author writes in depth about the mathematical principles behind RLCD, a special reinforcement learning method for the Jev model, emphasizing that Jev calibrates decision-making behavior rather than being a simple multi-choice classifier.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Charlie</strong> · @tuzhenzhao</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jon_mellon/status/2114164167792112090"><img src="https://pbs.twimg.com/media/HVcFGxiXAAAee-C?format=jpg&amp;name=medium" alt="Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jon_mellon/status/2114164167792112090">Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice</a></h3>
+<p>Jon Mellon shares a real-world case: for very long prompts, Luna can beat Jev on cost and performance thanks to a 10x caching discount, highlighting how cache pricing affects model selection.</p>
+<p><strong>89</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 89</p>
+<p><strong>Jon Mellon</strong> · @jon_mellon</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/KanThread/status/2114005599377563726"><img src="https://pbs.twimg.com/media/HVZ04-0W8AA5ZvX?format=jpg&amp;name=medium" alt="Jev arrives on Naive to orchestrate a 7-agent AI agency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KanThread/status/2114005599377563726">Jev arrives on Naive to orchestrate a 7-agent AI agency</a></h3>
-<p>Deploy an automated mini-business from a simple interface. Jev orchestrates 7 AI agents on Naive, from prospecting to website creation, with user-defined roles and control.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Aboubakrine</strong> · @KanThread</p>
+<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
+<a href="https://x.com/NeuralCatAccel/status/2114150844861935704"><img src="https://pbs.twimg.com/media/HVb4M1RWsAA8jbQ?format=jpg&amp;name=medium" alt="Using Jev to Refine Narration · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NeuralCatAccel/status/2114150844861935704">Using Jev to Refine Narration</a></h3>
+<p>The post describes using local models and Jev to improve narrated voiceover, including enhanced pronunciation, strategic pauses, and voice/tempo selection, with feedback welcome and free to use and modify.</p>
+<p><strong>19</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><strong>NeuralCat</strong> · @NeuralCatAccel</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/JhAquarium/status/2114019729585152082"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev improves test suite selection accuracy in agentic coding loops · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/JhAquarium/status/2114019729585152082">Jev improves test suite selection accuracy in agentic coding loops</a></h3>
-<p>Adding a decision-model pause to the Claude Code bug-fix loop: Jev and winnow:e4b selected the expected test suite in 12/12 fixes, while Claude alone scored 9/12 and filename rules only 3/12.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Jerry Hong</strong> · @JhAquarium</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/y_yoheyx/status/2114187840888381444"><img src="https://pbs.twimg.com/media/HVcaa_ga0AATvAF?format=jpg&amp;name=medium" alt="Experience Integrating Jev into a Workflow · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/y_yoheyx/status/2114187840888381444">Experience Integrating Jev into a Workflow</a></h3>
+<p>The author has integrated Jev into a workflow and notes that it is hard to use up the free $5 credit, so there seems to be no need to switch to another product at the moment.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>yohei</strong> · @y_yoheyx</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/KanThread/status/2114005599377563726"><img src="https://pbs.twimg.com/media/HVZ04-0W8AA5ZvX?format=jpg&amp;name=medium" alt="Jev arrives on Naive to orchestrate a 7-agent AI agency · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KanThread/status/2114005599377563726">Jev arrives on Naive to orchestrate a 7-agent AI agency</a></h3>
-<p>Deploy an automated mini-business from a simple interface. Jev orchestrates 7 AI agents on Naive, from prospecting to website creation, with user-defined roles and control.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Aboubakrine</strong> · @KanThread</p>
+<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
+<a href="https://x.com/NeuralCatAccel/status/2114150844861935704"><img src="https://pbs.twimg.com/media/HVb4M1RWsAA8jbQ?format=jpg&amp;name=medium" alt="Using Jev to Refine Narration · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NeuralCatAccel/status/2114150844861935704">Using Jev to Refine Narration</a></h3>
+<p>The post describes using local models and Jev to improve narrated voiceover, including enhanced pronunciation, strategic pauses, and voice/tempo selection, with feedback welcome and free to use and modify.</p>
+<p><strong>19</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><strong>NeuralCat</strong> · @NeuralCatAccel</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/maestrooth/status/2113995817300205906"><img src="https://pbs.twimg.com/amplify_video_thumb/2113995419919241216/img/_FIQCw3IJAdEVSAU.jpg" alt="Jev routes events, cutting cost from $397 to $33 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/maestrooth/status/2113995817300205906">Jev routes events, cutting cost from $397 to $33</a></h3>
-<p>A user combines Jev with Grok Bot, routing every event through Jev before Grok Bot works, cutting the monthly bill from $397 to $33. They suggest going to @typesafeai to create an API key.</p>
-<p><strong>348</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 348</p>
-<p><strong>maestro</strong> · @maestrooth</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xVarian/status/2114130661795574077"><img src="https://pbs.twimg.com/amplify_video_thumb/2114129937128968192/img/KCnXlmAqfs_5fZzl.jpg" alt="JEV Neural Atlas Leak: Agent Event Bus Architecture Sparks Discussion · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xVarian/status/2114130661795574077">JEV Neural Atlas Leak: Agent Event Bus Architecture Sparks Discussion</a></h3>
+<p>The author marvels at the agent event bus design in the JEV Neural Atlas, noting it is not a single global emitter with interfering listeners, but a more sophisticated Input Cluster S01 structure.</p>
+<p><strong>423</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 17 &nbsp; 📊 423</p>
+<p><strong>Varian</strong> · @0xVarian</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175"><img src="https://pbs.twimg.com/media/HVZWYZVXQAIjcje?format=jpg&amp;name=medium" alt="TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Aryan_Ali_Pro/status/2113972059239768175">TypeSafe Jev Model&#39;s &quot;Massive Leak&quot;: Just 101 Probability Values</a></h3>
-<p>The post quotes TypeSafe CEO Diogo Almeida about a massive leak of all customer noul outputs, revealing the leak to be a gist of 101 numbers (0.00 to 1.00) — i.e., the complete set of possible outputs of the Jev model&#39;s yes/no probability, mocking the leak as trivial.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Aryan</strong> · @Aryan_Ali_Pro</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/eimen0/status/2114092631395652030"><img src="https://pbs.twimg.com/amplify_video_thumb/2114091274513092608/img/A4ANvogR7zEyIYWc.jpg" alt="Building a New Desktop Experience with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/eimen0/status/2114092631395652030">Building a New Desktop Experience with Jev</a></h3>
+<p>The author is working on a new desktop experience for leveragecpu, with the generative UI powered by TypeSafe AI&#39;s Jev.</p>
+<p><strong>2.7K</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 54 &nbsp; 📊 2.7K</p>
+<p><strong>eimen</strong> · @eimen0</p>
 </td>
 </tr>
 </table>

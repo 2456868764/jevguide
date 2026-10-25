@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1161 | 481 | 685 | 3.0M |
+| 1165 | 484 | 686 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MiguelriosEN/status/2114165520010547468"><img src="https://pbs.twimg.com/amplify_video_thumb/2114165420416790528/img/HC4LrJKxqmjiJ3P_.jpg" alt="Dad uses Jev to build an app for his daughters&#39; Lego car race · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MiguelriosEN/status/2114165520010547468">Dad uses Jev to build an app for his daughters&#39; Lego car race</a></h3>
+<p>This dad used Jev to quickly build an app to determine the winner of his daughters&#39; Lego car race.</p>
+<p><strong>中文摘要：</strong>这位父亲用Jev快速搭建了一个应用，用来判定女儿们乐高车比赛的获胜者。</p>
+<p><strong>Miguel Ríos Berríos</strong> · @MiguelriosEN · 2026-10-25T01:21:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 175</p>
+<p><a href="https://x.com/MiguelriosEN/status/2114165520010547468">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jon_mellon/status/2114164167792112090"><img src="https://pbs.twimg.com/media/HVcFGxiXAAAee-C?format=jpg&amp;name=medium" alt="Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jon_mellon/status/2114164167792112090">Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice</a></h3>
+<p>Jon Mellon shares a real-world case: for very long prompts, Luna can beat Jev on cost and performance thanks to a 10x caching discount, highlighting how cache pricing affects model selection.</p>
+<p><strong>中文摘要：</strong>Jon Mellon 分享了一个实际案例：当提示词很长时，Luna 凭借 10 倍缓存折扣在成本和性能上超过 Jev，说明了缓存定价对模型选型的重要影响。</p>
+<p><strong>Jon Mellon</strong> · @jon_mellon · 2026-10-25T01:16:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 89</p>
+<p><a href="https://x.com/jon_mellon/status/2114164167792112090">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eimen0/status/2114092631395652030"><img src="https://pbs.twimg.com/amplify_video_thumb/2114091274513092608/img/A4ANvogR7zEyIYWc.jpg" alt="Building a New Desktop Experience with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eimen0/status/2114092631395652030">Building a New Desktop Experience with Jev</a></h3>
+<p>The author is working on a new desktop experience for leveragecpu, with the generative UI powered by TypeSafe AI&#39;s Jev.</p>
+<p><strong>中文摘要：</strong>作者正在为 leveragecpu 开发新的桌面体验，其中生成式 UI 由 TypeSafe AI 的 Jev 驱动。</p>
+<p><strong>eimen</strong> · @eimen0 · 2026-10-24T20:32:15.000Z</p>
+<p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 54 &nbsp; 📊 2.7K</p>
+<p><a href="https://x.com/eimen0/status/2114092631395652030">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thegreatest_sv/status/2114059850313609594"><img src="https://pbs.twimg.com/amplify_video_thumb/2113992252309512192/img/xtXEvillS0sFzLVJ.jpg" alt="Jev signal routing to filter input for Claude · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thegreatest_sv/status/2114059850313609594">Jev signal routing to filter input for Claude</a></h3>
+<p>A community user shares a surprisingly simple trick: using Jev as a front-end router, letting a low-cost model decide what Claude needs to see, drastically reducing the information Claude processes.</p>
+<p><strong>中文摘要：</strong>社区用户分享了一个简单而惊人的技巧：用Jev作为前置路由，让低成本模型决定哪些内容需要交给Claude处理，大幅减少Claude需要看到的信息量。</p>
+<p><strong>kiosa</strong> · @thegreatest_sv · 2026-10-24T18:22:00.000Z</p>
+<p>💬 17 &nbsp; 🔁 13 &nbsp; ♡ 110 &nbsp; 📊 3.6K</p>
+<p><a href="https://x.com/thegreatest_sv/status/2114059850313609594">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Adham__Khaled__/status/2113976880751653021"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev Model Test Selection Benchmark · 原帖视频截图" width="100%"></a>

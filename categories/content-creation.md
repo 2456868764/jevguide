@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 122 | 89 | 36 | 101K |
+| 124 | 89 | 38 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NeuralCatAccel/status/2114150844861935704"><img src="https://pbs.twimg.com/media/HVb4M1RWsAA8jbQ?format=jpg&amp;name=medium" alt="Using Jev to Refine Narration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NeuralCatAccel/status/2114150844861935704">Using Jev to Refine Narration</a></h3>
+<p>The post describes using local models and Jev to improve narrated voiceover, including enhanced pronunciation, strategic pauses, and voice/tempo selection, with feedback welcome and free to use and modify.</p>
+<p><strong>中文摘要：</strong>该帖子介绍使用本地模型和Jev来改进叙述配音，包括增强发音、战略停顿等，并允许用户选择音色和语速，欢迎反馈，免费使用和修改。</p>
+<p><strong>NeuralCat</strong> · @NeuralCatAccel · 2026-10-25T00:23:35.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
+<p><a href="https://x.com/NeuralCatAccel/status/2114150844861935704">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NeuralCatAccel/status/2114118173368934462"><img src="https://pbs.twimg.com/media/HVbYtT6W0AA841g?format=jpg&amp;name=medium" alt="Booksmith: Audiobook App Using Jev for Pronunciation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NeuralCatAccel/status/2114118173368934462">Booksmith: Audiobook App Using Jev for Pronunciation</a></h3>
+<p>NeuralCat built Booksmith, an app that points at a Calibre library, picks a voice and pacing, and narrates books. It uses Kokoro on GPU for narration and Jev (TypeSafe) to choose pronunciation, then auto-drops into Plex with chapters and covers; family accesses it from a web page.</p>
+<p><strong>中文摘要：</strong>NeuralCat 发布了 Booksmith，可指向 Calibre 图书馆、选择语音和语速，使用 Kokoro 在 GPU 上生成旁白，并用 Jev (TypeSafe) 选择发音。生成的音频会自动放入 Plex，带章节和封面，家人可通过网页使用。</p>
+<p><strong>NeuralCat</strong> · @NeuralCatAccel · 2026-10-24T22:13:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 172</p>
+<p><a href="https://x.com/NeuralCatAccel/status/2114118173368934462">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ha_chi_co_3/status/2113759621576057122"><img src="https://pbs.twimg.com/media/HVU-O3PakAArXH_?format=png&amp;name=small" alt="Using Jev to Check Octopus Sticker Leg Count · 原帖图片" width="100%"></a>

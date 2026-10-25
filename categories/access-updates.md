@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 411 | 171 | 240 | 802K |
+| 413 | 171 | 242 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/y_yoheyx/status/2114187840888381444"><img src="https://pbs.twimg.com/media/HVcaa_ga0AATvAF?format=jpg&amp;name=medium" alt="Experience Integrating Jev into a Workflow · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/y_yoheyx/status/2114187840888381444">Experience Integrating Jev into a Workflow</a></h3>
+<p>The author has integrated Jev into a workflow and notes that it is hard to use up the free $5 credit, so there seems to be no need to switch to another product at the moment.</p>
+<p><strong>中文摘要：</strong>作者将 Jev 集成到流程中调用，表示免费赠送的 5 美元额度很难用完，目前看不出更换其他产品的必要。</p>
+<p><strong>yohei</strong> · @y_yoheyx · 2026-10-25T02:50:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/y_yoheyx/status/2114187840888381444">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/diego_turati/status/2114061917085929855"><img src="https://pbs.twimg.com/media/HVaoHANXYAA-83M?format=jpg&amp;name=medium" alt="TypeSafe AI connector brings Jev models to Integration Service · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/diego_turati/status/2114061917085929855">TypeSafe AI connector brings Jev models to Integration Service</a></h3>
+<p>Use the TypeSafe AI connector to call Jev models in Integration Service for fast, confident decisions at lower cost and latency.</p>
+<p><strong>中文摘要：</strong>通过 TypeSafe AI 连接器，在 Integration Service 中调用 Jev 模型，实现更低成本与延迟的快速决策。</p>
+<p><strong>Diego Turati</strong> · @diego_turati · 2026-10-24T18:30:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/diego_turati/status/2114061917085929855">在 X 查看原帖</a> · <a href="https://t.co/SpNk7GAK6n">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NielsRogge/status/2113612849389920589"><img src="https://pbs.twimg.com/amplify_video_thumb/2113612794641674240/img/B5ihFLxrux4x6Xku.jpg" alt="Papers with Code integrates Jev to highlight methods in abstracts · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 625 | 312 | 316 | 3.6M |
+| 629 | 313 | 319 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mark_jyo/status/2114112145856319638"><img src="https://pbs.twimg.com/media/HVbVnhGaAAAAl-P?format=png&amp;name=medium" alt="JEV 1000 calls for 200 KRW: cost-effective structured judgment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mark_jyo/status/2114112145856319638">JEV 1000 calls for 200 KRW: cost-effective structured judgment</a></h3>
+<p>The post shares JEV API call costs, noting 1,000 calls cost only 200 KRW, and highlights its high cost-effectiveness for structured judgment.</p>
+<p><strong>中文摘要：</strong>推文分享JEV模型API的调用成本，1000次调用仅需200韩元，并认为其在结构化判断方面极具性价比。</p>
+<p><strong>markjyo</strong> · @mark_jyo · 2026-10-24T21:49:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><a href="https://x.com/mark_jyo/status/2114112145856319638">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yotchang4s/status/2114105020492988815"><img src="https://pbs.twimg.com/media/HVbNbmEaAAA4j_h?format=jpg&amp;name=medium" alt="Build an MCP on Cloudflare Workers to Call Jev-related APIs from Claude.ai · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yotchang4s/status/2114105020492988815">Build an MCP on Cloudflare Workers to Call Jev-related APIs from Claude.ai</a></h3>
+<p>The author created an MCP server on Cloudflare Workers that calls APIs via OpenRouter, enabling Claude.ai to perform tasks like image generation. It also supports the decisions API, allowing access to System One-related Jev and OpenAI endpoints.</p>
+<p><strong>中文摘要：</strong>作者制作了一个MCP服务器，部署在Cloudflare Workers上，用于通过OpenRouter调用API，使Claude.ai能执行图像生成等操作。该MCP还支持decisions API，可调用System One系Jev及OpenAI接口。</p>
+<p><strong>よっちゃん</strong> · @yotchang4s · 2026-10-24T21:21:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/yotchang4s/status/2114105020492988815">在 X 查看原帖</a> · <a href="https://t.co/GHOVPPzwis">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hbryg5/status/2114081924595789843"><img src="https://pbs.twimg.com/media/HVa6PfqbAAA9G6X?format=jpg&amp;name=large" alt="Manga Explainer: Using MLflow and Jev to Check Replies (1/2) · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hbryg5/status/2114081924595789843">Manga Explainer: Using MLflow and Jev to Check Replies (1/2)</a></h3>
+<p>The author uses a manga format to explain how to check replies with MLflow and Jev, part 1 of a series.</p>
+<p><strong>中文摘要：</strong>作者以漫画形式讲解如何使用MLflow和Jev来检查回复，这是系列内容的第一部分。</p>
+<p><strong>ゆん茶 「漫画で読めるAIニュース」</strong> · @hbryg5 · 2026-10-24T19:49:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/hbryg5/status/2114081924595789843">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/diegoarias941/status/2114063721441927401"><img src="https://pbs.twimg.com/amplify_video_thumb/2114062801924718592/img/hN2nGmxNmrbKAVW5.jpg" alt="Jev DevTools Updates: More Flow Methods and Cookbooks Porting · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/diegoarias941/status/2114063721441927401">Jev DevTools Updates: More Flow Methods and Cookbooks Porting</a></h3>
+<p>Developer Diego Arias shares recent Jev DevTools updates, including implementing more methods in jev-devtools/flow (such as task(), if(), map(), etc.) and starting to port Typesafe&#39;s Cookbooks.</p>
+<p><strong>中文摘要：</strong>开发者 Diego Arias 分享了 Jev DevTools 的最新进展，包括在 jev-devtools/flow 中实现更多方法（如 task(), if(), map() 等），并开始将 Typesafe 的 Cookbooks 移植进来。</p>
+<p><strong>Diego Arias</strong> · @diegoarias941 · 2026-10-24T18:37:23.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 199</p>
+<p><a href="https://x.com/diegoarias941/status/2114063721441927401">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/emadev01/status/2113955870442717628"><img src="https://pbs.twimg.com/amplify_video_thumb/2113955851786502144/img/ivd6gvqoVFF2-cm2.jpg" alt="DevMotion CLI adds natural language desktop recording · 原帖视频截图" width="100%"></a>

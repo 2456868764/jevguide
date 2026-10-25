@@ -1,9 +1,10 @@
 # kiosa
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-24T18:22:00.000Z | [Jev signal routing to filter input for Claude](https://x.com/thegreatest_sv/status/2114059850313609594) | 社区实践 | kiosa | 3.6K |
 | 2026-10-22T18:07:31.000Z | [JEV as Claude Code's second brain: processing billions of data points](https://x.com/thegreatest_sv/status/2113331431254728726) | 工作原理 | kiosa | 6.8K |
 | 2026-10-12T15:08:00.000Z | [A Jev-Powered Trading Loop Is Now Open Source](https://x.com/thegreatest_sv/status/2109662374403727630) | 金融 | kiosa | 239 |
 | 2026-10-12T12:05:00.000Z | [Jev: A Decision Brain for Claude](https://x.com/thegreatest_sv/status/2109616321973391680) | 开发者工具 | kiosa | 738 |

@@ -2,6 +2,25 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T02:50:35.000Z | [Experience Integrating Jev into a Workflow](https://x.com/y_yoheyx/status/2114187840888381444) | 接入动态 | yohei | 18 |
+| 2026-10-25T01:21:53.000Z | [Dad uses Jev to build an app for his daughters' Lego car race](https://x.com/MiguelriosEN/status/2114165520010547468) | 社区实践 | Miguel Ríos Berríos | 175 |
+| 2026-10-25T01:16:31.000Z | [Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice](https://x.com/jon_mellon/status/2114164167792112090) | 社区实践 | Jon Mellon | 89 |
+| 2026-10-25T00:23:35.000Z | [Using Jev to Refine Narration](https://x.com/NeuralCatAccel/status/2114150844861935704) | 内容创作 | NeuralCat | 19 |
+| 2026-10-24T23:03:23.000Z | [JEV Neural Atlas Leak: Agent Event Bus Architecture Sparks Discussion](https://x.com/0xVarian/status/2114130661795574077) | 工作原理 | Varian | 423 |
+| 2026-10-24T23:00:46.000Z | [JEV Signal Cascade Leak Sparks Discussion](https://x.com/Flandermaxx/status/2114130004049092659) | 智能体 | Flandermaxx | 1.1K |
+| 2026-10-24T22:13:45.000Z | [Booksmith: Audiobook App Using Jev for Pronunciation](https://x.com/NeuralCatAccel/status/2114118173368934462) | 内容创作 | NeuralCat | 172 |
+| 2026-10-24T22:13:06.000Z | [Crawlbot Launch: Financial Multi-AI Agent Integrates Jev](https://x.com/Nigeloooooo/status/2114118009165844626) | 金融 | Trog | 2.3K |
+| 2026-10-24T21:49:48.000Z | [JEV 1000 calls for 200 KRW: cost-effective structured judgment](https://x.com/mark_jyo/status/2114112145856319638) | 开发者工具 | markjyo | 12 |
+| 2026-10-24T21:21:29.000Z | [Build an MCP on Cloudflare Workers to Call Jev-related APIs from Claude.ai](https://x.com/yotchang4s/status/2114105020492988815) | 开发者工具 | よっちゃん | 49 |
+| 2026-10-24T20:32:15.000Z | [Building a New Desktop Experience with Jev](https://x.com/eimen0/status/2114092631395652030) | 社区实践 | eimen | 2.7K |
+| 2026-10-24T20:28:00.000Z | [Jev + Opus 5.5 in Action](https://x.com/mika_systems/status/2114091561957130299) | 智能体 | Mika | 678 |
+| 2026-10-24T19:49:43.000Z | [Manga Explainer: Using MLflow and Jev to Check Replies (1/2)](https://x.com/hbryg5/status/2114081924595789843) | 开发者工具 | ゆん茶 「漫画で読めるAIニュース」 | 21 |
+| 2026-10-24T19:45:03.000Z | [OpenAI opens Decisions API, competing with JEV](https://x.com/BlueRockID/status/2114080750672785703) | 产品发布 | Max Belov \| BlueRock | 35 |
+| 2026-10-24T18:39:54.000Z | [Built an automated money-making system with Opus, Jev and other AI tools](https://x.com/Bober_smart/status/2114064355729740136) | 金融 | Bober_smart | 6.9K |
+| 2026-10-24T18:37:23.000Z | [Jev DevTools Updates: More Flow Methods and Cookbooks Porting](https://x.com/diegoarias941/status/2114063721441927401) | 开发者工具 | Diego Arias | 199 |
+| 2026-10-24T18:30:13.000Z | [TypeSafe AI connector brings Jev models to Integration Service](https://x.com/diego_turati/status/2114061917085929855) | 接入动态 | Diego Turati | 33 |
+| 2026-10-24T18:22:00.000Z | [Jev signal routing to filter input for Claude](https://x.com/thegreatest_sv/status/2114059850313609594) | 社区实践 | kiosa | 3.6K |
+| 2026-10-24T18:04:52.000Z | [Jev-Driven Trading: Grok Proposes, Jev Judges](https://x.com/0xGrimmer_/status/2114055537797337579) | 金融 | Grimmer | 618 |
 | 2026-10-24T15:42:34.000Z | [Jev improves test suite selection accuracy in agentic coding loops](https://x.com/JhAquarium/status/2114019729585152082) | 智能体 | Jerry Hong | 8 |
 | 2026-10-24T15:33:53.000Z | [Jev Founder Says JEV Is the Next Era for LLMs](https://x.com/TechByNagma/status/2114017545011470410) | 产品发布 | Nagma parween | 19 |
 | 2026-10-24T14:52:02.000Z | [Mathematical Principles of RLCD for Jev Model](https://x.com/tuzhenzhao/status/2114007011419652508) | 工作原理 | Charlie | 9 |
@@ -83,22 +102,3 @@
 | 2026-10-23T07:11:51.000Z | [Mammoth-1 and Elephant-1 on the Jev Decision Index](https://x.com/vraj_ai/status/2113528813821067597) | 工作原理 | Vraj | 8 |
 | 2026-10-23T07:00:47.000Z | [TypeSafe's JEV Blocked 4,100 Fake Trial Sign-Ups, Saving $12,177 in Compute](https://x.com/scrblanc/status/2113526028010172712) | 自动化工作流 | Blanc | 7 |
 | 2026-10-23T07:00:25.000Z | [Todoist team experiments with AI inbox classification using Jev model](https://x.com/amix3k/status/2113525936360759554) | 生产力 | Amir Salihefendić | 96 |
-| 2026-10-23T07:00:00.000Z | [Align SEO evaluation questions with Jev first](https://x.com/biroi8/status/2113525832270356832) | 知识与搜索 | Suzuki | 5 |
-| 2026-10-23T06:53:32.000Z | [20 Local Decision Models Run Free Locally, Most Beat the Original Jev](https://x.com/hackernoon/status/2113524202871365921) | 开发资源 | HackerNoon \| Learn Any Technology | 197 |
-| 2026-10-23T06:52:15.000Z | [TypeSafe Jev powers auto-battle in an AI-made browser RPG](https://x.com/ai_hacks_akira/status/2113523881822527801) | 游戏 | AIお役立ち情報局 | 21 |
-| 2026-10-23T06:40:19.000Z | [An Interpretive Skill Combining Jev Concepts](https://x.com/ytiomin/status/2113520877774238131) | 开发资源 | ⛩ytiomin🏰 | 4 |
-| 2026-10-23T06:40:00.000Z | [Jev for high-frequency Agent actions](https://x.com/ohayou792/status/2113520798120198630) | 社区实践 | Unicorn | 260 |
-| 2026-10-23T06:34:53.000Z | [Using JEV to filter surveillance footage by appearance](https://x.com/DaisyDiao2/status/2113519513627197717) | 社区实践 | daisydiao.eth | 13 |
-| 2026-10-23T06:33:22.000Z | [OpenAI Decisions API Goes GA: Why Jev Matters](https://x.com/tchsignal/status/2113519130024497530) | 产品发布 | TechSignal | 15 |
-| 2026-10-23T06:18:40.000Z | [Reading Simon Willison on Jev as a black-box decision model](https://x.com/ariG23498/status/2113515431248212392) | 工作原理 | Aritra 🤗 | 404 |
-| 2026-10-23T06:14:22.000Z | [Community practice of integrating Jev into a custom MCP on Windows](https://x.com/hatalabora/status/2113514349876928827) | 社区实践 | Hata Laboratory | 10 |
-| 2026-10-23T05:59:55.000Z | [OpenAI Decisions API Launches, Targeting TypeSafe Jev](https://x.com/logang2008/status/2113510710307438799) | 产品发布 | logang | 15 |
-| 2026-10-23T05:55:36.000Z | [OpenAI Decisions API launched, compared with Jev](https://x.com/nouchinho_csm/status/2113509627556208854) | 产品发布 | ノウチーニョ｜兼業⚽️コーチ | 3 |
-| 2026-10-23T05:39:57.000Z | [OpenAI Launches Luna Decisions API, Rivaling Jev](https://x.com/Tesla_Optimus_K/status/2113505688551031104) | 产品发布 | Tesla_Optimus | 13 |
-| 2026-10-23T05:28:06.000Z | [Jev Open Source Projects Tested: 8 of 12 Work](https://x.com/GoSailGlobal/status/2113502706614882675) | 社区实践 | Jason Zhu | 336 |
-| 2026-10-23T05:19:40.000Z | [Considering a WordPress spam-filter plugin using Jev AI](https://x.com/nanasi_rasi/status/2113500584183726101) | 自动化工作流 | ななしぃ | 28 |
-| 2026-10-23T04:43:01.000Z | [Community Talk: Jev – A Fast Decision Model for AI Automation](https://x.com/LaravelAhm/status/2113491357444853798) | 社区实践 | Laravel Ahmedabad Community | 203 |
-| 2026-10-23T04:05:12.000Z | [Discussion on Jev in AI Action Decision-Making](https://x.com/stock_mentaiko/status/2113481840585806301) | 智能体 | RYO🌊個人開発 | 17 |
-| 2026-10-23T03:35:46.000Z | [Jev boosts bot intent accuracy from 58% to 90%](https://x.com/ryanflorence/status/2113474434489348503) | 智能体 | Ryan Florence | 468 |
-| 2026-10-23T03:20:00.000Z | [Codex×Jev: Let Jev Handle Model Routing](https://x.com/29meat_ai/status/2113470466295996629) | 社区实践 | にく | 73 |
-| 2026-10-23T03:07:42.000Z | [OpenAI's decision model challenges Jev: a launch isn't revenue proof](https://x.com/hsaffiliate2025/status/2113467374150242586) | 自动化工作流 | Diluc | 10 |

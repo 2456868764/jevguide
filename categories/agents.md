@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 488 | 273 | 217 | 3.0M |
+| 490 | 274 | 218 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Flandermaxx/status/2114130004049092659"><img src="https://pbs.twimg.com/amplify_video_thumb/2114128707044405248/img/gi3plZsDyPV7FgG_.jpg" alt="JEV Signal Cascade Leak Sparks Discussion · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Flandermaxx/status/2114130004049092659">JEV Signal Cascade Leak Sparks Discussion</a></h3>
+<p>A user marvels at the JEV signal cascade architecture, noting it is not a simple queue-worker-retry loop, and mentions the INGEST stage.</p>
+<p><strong>中文摘要：</strong>一位用户惊叹于 JEV 信号级联的架构，指出其并非简单的单队列、单 worker 加重试循环，并提到 INGEST 阶段的处理方式。</p>
+<p><strong>Flandermaxx</strong> · @Flandermaxx · 2026-10-24T23:00:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 35 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/Flandermaxx/status/2114130004049092659">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mika_systems/status/2114091561957130299"><img src="https://pbs.twimg.com/media/HVbC5t1XYAAObPb?format=jpg&amp;name=medium" alt="Jev + Opus 5.5 in Action · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mika_systems/status/2114091561957130299">Jev + Opus 5.5 in Action</a></h3>
+<p>With one prompt, your Claude Duet runs far cheaper than Opus alone: Jev handles thousands of tiny millisecond decisions, while Opus 5.5 only wakes up for work that needs deeper reasoning.</p>
+<p><strong>中文摘要：</strong>一条提示词即可让 Claude Duet 以远低于单独使用 Opus 的成本运行：Jev 在毫秒级处理海量小决定，Opus 5.5 只处理需要深度推理的任务。</p>
+<p><strong>Mika</strong> · @mika_systems · 2026-10-24T20:28:00.000Z</p>
+<p>💬 16 &nbsp; 🔁 5 &nbsp; ♡ 32 &nbsp; 📊 678</p>
+<p><a href="https://x.com/mika_systems/status/2114091561957130299">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/JhAquarium/status/2114019729585152082"><img src="https://pbs.twimg.com/amplify_video_thumb/2113974362164363264/img/sMG-5Ie0sYFL5IfP.jpg" alt="Jev improves test suite selection accuracy in agentic coding loops · 原帖视频截图" width="100%"></a>

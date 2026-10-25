@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T08:40:29.000Z | [Jev: A System 1 Model Focused on Fast, Structured and Limited Output](https://x.com/akarik3873/status/2114275894814810502) | 工作原理 | Abe K | 10 |
+| 2026-10-25T08:36:20.000Z | [Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol](https://x.com/CafeSingularity/status/2114274852857336109) | 产品发布 | カフェマス＠XR×VTuber | 104 |
 | 2026-10-25T07:39:31.000Z | [Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection](https://x.com/codersoar/status/2114260552042320184) | 产品发布 | soar | 49 |
 | 2026-10-25T07:01:14.000Z | [Jev on Where Judgment Belongs in Layered Agent Actions](https://x.com/sangamesh_gupta/status/2114250920212959519) | 智能体 | Sangamesh Gella | 1 |
 | 2026-10-25T06:37:24.000Z | [Jev Runs Locally to Assist Accounting Work](https://x.com/YutoSeta/status/2114244919695143022) | 金融 | YutoSeta@AI個人開発するのでお小遣いください | 14 |
@@ -100,5 +102,3 @@
 | 2026-10-23T15:53:19.000Z | [JEV breaks down 724 ads in 40 seconds for 9 cents in tokens](https://x.com/maxwell_lenoir/status/2113660046479351875) | 营销 | max | 117 |
 | 2026-10-23T12:54:19.000Z | [LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready](https://x.com/jayleaton/status/2113615001076601317) | 智能体 | JJ Eaton | 137 |
 | 2026-10-23T12:45:46.000Z | [Papers with Code integrates Jev to highlight methods in abstracts](https://x.com/NielsRogge/status/2113612849389920589) | 接入动态 | Niels Rogge | 376 |
-| 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
-| 2026-10-23T12:16:17.000Z | [Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code](https://x.com/nonepcbl/status/2113605429620023790) | 金融 | nOnEpcbl. | 61 |

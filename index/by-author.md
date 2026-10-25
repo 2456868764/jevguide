@@ -962,6 +962,7 @@
 - [Abdullah Ridwan](../authors/abdullah-ridwan.md) — 1
 - [Abdulrhman](../authors/abdulrhman.md) — 1
 - [Abdumajid Rashid](../authors/abdumajid-rashid.md) — 1
+- [Abe K](../authors/abe-k.md) — 1
 - [Abel Coronado, Ph.D.](../authors/abel-coronado-ph-d.md) — 1
 - [AbelardoDS](../authors/abelardods.md) — 1
 - [Abhi Waghela](../authors/abhi-waghela.md) — 1
@@ -3980,6 +3981,7 @@
 - [お寿司@小説](../authors/寿司-小説.md) — 1
 - [ガクシ｜AIキャラ動画を量産する人](../authors/ai-動画-量産-人.md) — 1
 - [かずや１８歳💉 💉💉💉💉たけのこ派](../authors/18歳-派.md) — 1
+- [カフェマス＠XR×VTuber](../authors/xr-vtuber.md) — 1
 - [からあげ](../authors/jev-showcase.md) — 1
 - [かん吉](../authors/吉.md) — 1
 - [ギネコロ🤱](../authors/jev-showcase.md) — 1

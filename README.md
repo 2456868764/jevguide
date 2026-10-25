@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6217</strong><br>curated posts</td>
-<td align="center"><strong>3105</strong><br>original videos</td>
+<td align="center"><strong>6219</strong><br>curated posts</td>
+<td align="center"><strong>3106</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>581</strong> showcases · <strong>253</strong> videos</p>
+<p><strong>582</strong> showcases · <strong>254</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>540</strong> showcases · <strong>231</strong> videos</p>
+<p><strong>541</strong> showcases · <strong>231</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
+<p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
+<p><strong>Abe K</strong> · @akarik3873</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/CafeSingularity/status/2114274852857336109"><img src="https://pbs.twimg.com/media/HVdpKF0awAAOcKU?format=jpg&amp;name=medium" alt="Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CafeSingularity/status/2114274852857336109">Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol</a></h3>
+<p>After a long absence, Espressa is back to normal business and has been updated to a new configuration featuring Jev (Decisions API) + GPT-6.1 Sol. The author notes it should be smarter, though a bit anxious about whether it will work properly.</p>
+<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 104</p>
+<p><strong>カフェマス＠XR×VTuber</strong> · @CafeSingularity</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/codersoar/status/2114260552042320184"><img src="https://pbs.twimg.com/media/HVdcYHxaoAAAjyA?format=png&amp;name=900x900" alt="Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/codersoar/status/2114260552042320184">Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection</a></h3>
 <p>The open-source toolbar Selecto ships v1.3, adding a Jev-based feature to judge whether selected text is authentic or AI-generated, and optimizing DeepSeek calls and settings UI.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>soar</strong> · @codersoar</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/sangamesh_gupta/status/2114250920212959519"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114250888994865152/pu/img/C6olezYa1pwKLal4.jpg" alt="Jev on Where Judgment Belongs in Layered Agent Actions · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/sangamesh_gupta/status/2114250920212959519">Jev on Where Judgment Belongs in Layered Agent Actions</a></h3>
 <p>A quick take from Jev on how judgment should be allocated when an agent takes layered actions.</p>
 <p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><strong>Sangamesh Gella</strong> · @sangamesh_gupta</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/YutoSeta/status/2114244919695143022"><img src="https://pbs.twimg.com/amplify_video_thumb/2113400649283170305/img/1h0pyXmoOP38UuxR.jpg" alt="Jev Runs Locally to Assist Accounting Work · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/YutoSeta/status/2114244919695143022">Jev Runs Locally to Assist Accounting Work</a></h3>
-<p>The author mentions that Perplexity has introduced something enabling Jev to run locally, allowing accounting classification and other bookkeeping tasks to be completed fully offline, and plans to try it later.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>YutoSeta@AI個人開発するのでお小遣いください</strong> · @YutoSeta</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/faizan_ali_113/status/2114232297352528345"><img src="https://pbs.twimg.com/media/HVdDD5PbAAELJAk?format=jpg&amp;name=medium" alt="Jev and Decisions API: Specialized Models for Fast Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/faizan_ali_113/status/2114232297352528345">Jev and Decisions API: Specialized Models for Fast Decisions</a></h3>
-<p>Discusses why not to use a large LLM for every small decision: Jev and OpenAI’s Decisions API show a split where LLMs handle reasoning and specialized models handle fast decisions, with lower latency and cost making AI integration, automation, and robotics more practical.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Faizan Ali</strong> · @faizan_ali_113</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/codersoar/status/2114260552042320184"><img src="https://pbs.twimg.com/media/HVdcYHxaoAAAjyA?format=png&amp;name=900x900" alt="Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/codersoar/status/2114260552042320184">Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection</a></h3>
-<p>The open-source toolbar Selecto ships v1.3, adding a Jev-based feature to judge whether selected text is authentic or AI-generated, and optimizing DeepSeek calls and settings UI.</p>
-<p><strong>49</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 49</p>
-<p><strong>soar</strong> · @codersoar</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
+<p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
+<p><strong>Abe K</strong> · @akarik3873</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/faizan_ali_113/status/2114232297352528345"><img src="https://pbs.twimg.com/media/HVdDD5PbAAELJAk?format=jpg&amp;name=medium" alt="Jev and Decisions API: Specialized Models for Fast Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/faizan_ali_113/status/2114232297352528345">Jev and Decisions API: Specialized Models for Fast Decisions</a></h3>
-<p>Discusses why not to use a large LLM for every small decision: Jev and OpenAI’s Decisions API show a split where LLMs handle reasoning and specialized models handle fast decisions, with lower latency and cost making AI integration, automation, and robotics more practical.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Faizan Ali</strong> · @faizan_ali_113</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/sangamesh_gupta/status/2114250920212959519"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114250888994865152/pu/img/C6olezYa1pwKLal4.jpg" alt="Jev on Where Judgment Belongs in Layered Agent Actions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sangamesh_gupta/status/2114250920212959519">Jev on Where Judgment Belongs in Layered Agent Actions</a></h3>
+<p>A quick take from Jev on how judgment should be allocated when an agent takes layered actions.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Sangamesh Gella</strong> · @sangamesh_gupta</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/jmilldotdev/status/2114203637362925854"><img src="https://pbs.twimg.com/amplify_video_thumb/2114203528617213952/img/q21MH8YInIK3c6Dw.jpg" alt="Building the first agentic text field with Jev? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jmilldotdev/status/2114203637362925854">Building the first agentic text field with Jev?</a></h3>
-<p>Jmill tweets that they built an agentic text field using Jev to translate keystrokes into ASCII with near-perfect accuracy, low latency and near-zero cost; likely a satire of wrapping plain input in agentic AI jargon.</p>
-<p><strong>236</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 236</p>
-<p><strong>jmill</strong> · @jmilldotdev</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/YutoSeta/status/2114244919695143022"><img src="https://pbs.twimg.com/amplify_video_thumb/2113400649283170305/img/1h0pyXmoOP38UuxR.jpg" alt="Jev Runs Locally to Assist Accounting Work · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/YutoSeta/status/2114244919695143022">Jev Runs Locally to Assist Accounting Work</a></h3>
+<p>The author mentions that Perplexity has introduced something enabling Jev to run locally, allowing accounting classification and other bookkeeping tasks to be completed fully offline, and plans to try it later.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
+<p><strong>YutoSeta@AI個人開発するのでお小遣いください</strong> · @YutoSeta</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/NeuralCatAccel/status/2114150844861935704"><img src="https://pbs.twimg.com/media/HVb4M1RWsAA8jbQ?format=jpg&amp;name=medium" alt="Using Jev to Refine Narration · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NeuralCatAccel/status/2114150844861935704">Using Jev to Refine Narration</a></h3>
-<p>The post describes using local models and Jev to improve narrated voiceover, including enhanced pronunciation, strategic pauses, and voice/tempo selection, with feedback welcome and free to use and modify.</p>
-<p><strong>19</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 19</p>
-<p><strong>NeuralCat</strong> · @NeuralCatAccel</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/MiguelriosEN/status/2114165520010547468"><img src="https://pbs.twimg.com/amplify_video_thumb/2114165420416790528/img/HC4LrJKxqmjiJ3P_.jpg" alt="Dad uses Jev to build an app for his daughters&#39; Lego car race · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MiguelriosEN/status/2114165520010547468">Dad uses Jev to build an app for his daughters&#39; Lego car race</a></h3>
+<p>This dad used Jev to quickly build an app to determine the winner of his daughters&#39; Lego car race.</p>
+<p><strong>175</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 175</p>
+<p><strong>Miguel Ríos Berríos</strong> · @MiguelriosEN</p>
 </td>
 </tr>
 </table>

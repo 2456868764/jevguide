@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 490 | 274 | 218 | 3.0M |
+| 494 | 277 | 219 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/faizan_ali_113/status/2114232297352528345"><img src="https://pbs.twimg.com/media/HVdDD5PbAAELJAk?format=jpg&amp;name=medium" alt="Jev and Decisions API: Specialized Models for Fast Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/faizan_ali_113/status/2114232297352528345">Jev and Decisions API: Specialized Models for Fast Decisions</a></h3>
+<p>Discusses why not to use a large LLM for every small decision: Jev and OpenAI’s Decisions API show a split where LLMs handle reasoning and specialized models handle fast decisions, with lower latency and cost making AI integration, automation, and robotics more practical.</p>
+<p><strong>中文摘要：</strong>讨论为何不必为每个小决策使用大型LLM：Jev与OpenAI Decisions API展示了大模型负责推理、专用模型负责快速决策的划分，更低的延迟和成本可推动AI集成、自动化与机器人应用。</p>
+<p><strong>Faizan Ali</strong> · @faizan_ali_113 · 2026-10-25T05:47:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/faizan_ali_113/status/2114232297352528345">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/true_jae_yang/status/2114202971504525312"><img src="https://pbs.twimg.com/amplify_video_thumb/2114202519282892800/img/dZmN_p7mPXnuCgKJ.jpg" alt="Integrating a Jev-like system in chat support · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/true_jae_yang/status/2114202971504525312">Integrating a Jev-like system in chat support</a></h3>
+<p>The author added chat support, using a Jev-like system for quick actions (such as animation activation) and DeepSeek for general interpretation, plus an eye blinking animation.</p>
+<p><strong>中文摘要：</strong>作者表示已添加聊天支持，使用类似 Jev 的系统进行快速动作（如动画激活），并使用 DeepSeek 进行通用解释，还添加了眨眼动画。</p>
+<p><strong>Jae Yang</strong> · @true_jae_yang · 2026-10-25T03:50:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
+<p><a href="https://x.com/true_jae_yang/status/2114202971504525312">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Flandermaxx/status/2114130004049092659"><img src="https://pbs.twimg.com/amplify_video_thumb/2114128707044405248/img/gi3plZsDyPV7FgG_.jpg" alt="JEV Signal Cascade Leak Sparks Discussion · 原帖视频截图" width="100%"></a>
@@ -31,6 +55,30 @@
 <p><strong>Mika</strong> · @mika_systems · 2026-10-24T20:28:00.000Z</p>
 <p>💬 16 &nbsp; 🔁 5 &nbsp; ♡ 32 &nbsp; 📊 678</p>
 <p><a href="https://x.com/mika_systems/status/2114091561957130299">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_rody/status/2114043203326509154"><img src="https://pbs.twimg.com/amplify_video_thumb/2114043110770520064/img/Dnu9JMnldbuyNoLC.jpg" alt="Jev cuts agent fleet monthly cost from $397 to $33 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x_rody/status/2114043203326509154">Jev cuts agent fleet monthly cost from $397 to $33</a></h3>
+<p>A user shares how their agent fleet monthly cost dropped from $397 to $33. Jev reviews every event before the bots see it and only passes on those that need work.</p>
+<p><strong>中文摘要：</strong>用户分享其代理舰队月成本从 397 美元降至 33 美元。Jev 会在机器人处理前查看每个事件，只传递需要处理的部分。</p>
+<p><strong>rody</strong> · @0x_rody · 2026-10-24T17:15:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 1.5K</p>
+<p><a href="https://x.com/0x_rody/status/2114043203326509154">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anahiroxarid/status/2114025053428068627"><img src="https://pbs.twimg.com/amplify_video_thumb/2107766931612921856/img/VhQDpyJWvaJXrxTK.jpg" alt="I Built a Company Inside JEV &amp; Grok Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anahiroxarid/status/2114025053428068627">I Built a Company Inside JEV &amp; Grok Bot</a></h3>
+<p>No employees, meetings, or constant back-and-forth — just 6 AI agents running Research, Writing, Outreach, Operations, Finance, and Support departments inside JEV.</p>
+<p><strong>中文摘要：</strong>无需员工、会议和反复沟通，仅用6个AI代理分别管理研究、写作、外联、运营、财务和支持部门，在JEV中构建了完整公司。</p>
+<p><strong>Himanshú Kumarr</strong> · @anahiroxarid · 2026-10-24T16:03:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/anahiroxarid/status/2114025053428068627">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

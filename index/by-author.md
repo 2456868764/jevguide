@@ -50,6 +50,7 @@
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 7
 - [rewind](../authors/rewind.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
+- [rody](../authors/rody.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -69,7 +70,6 @@
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
 - [Philip](../authors/philip.md) — 6
-- [rody](../authors/rody.md) — 6
 - [Ryven](../authors/ryven.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
 - [Somi](../authors/somi.md) — 6
@@ -303,6 +303,7 @@
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
 - [nader dabit](../authors/nader-dabit.md) — 3
 - [NeilXbt](../authors/neilxbt.md) — 3
+- [NeoSigma](../authors/neosigma.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
 - [Niko(la)](../authors/niko-la.md) — 3
 - [Noisy](../authors/noisy.md) — 3
@@ -407,6 +408,7 @@
 - [alex nikolic](../authors/alex-nikolic.md) — 2
 - [Alex Strick van Linschoten](../authors/alex-strick-van-linschoten.md) — 2
 - [Alexander Whedon](../authors/alexander-whedon.md) — 2
+- [Ali Turki | علي تركي](../authors/ali-turki.md) — 2
 - [alpha404](../authors/alpha404.md) — 2
 - [Amar Harolikar](../authors/amar-harolikar.md) — 2
 - [Anand Prasad](../authors/anand-prasad.md) — 2
@@ -542,6 +544,7 @@
 - [Harvey](../authors/harvey.md) — 2
 - [Hassan](../authors/hassan.md) — 2
 - [Hekate](../authors/hekate.md) — 2
+- [Himanshú Kumarr](../authors/himanshu-kumarr.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Huanxin Sheng](../authors/huanxin-sheng.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
@@ -699,6 +702,7 @@
 - [Parker Brown](../authors/parker-brown.md) — 2
 - [parth jain](../authors/parth-jain.md) — 2
 - [Patrick](../authors/patrick.md) — 2
+- [Paul Branham](../authors/paul-branham.md) — 2
 - [Paul Jasper](../authors/paul-jasper.md) — 2
 - [Paulo Coutinho  🇧🇷](../authors/paulo-coutinho.md) — 2
 - [Pavel Petržela](../authors/pavel-petrzela.md) — 2
@@ -1122,7 +1126,6 @@
 - [Ali Madad](../authors/ali-madad.md) — 1
 - [Ali Rashedi](../authors/ali-rashedi.md) — 1
 - [Ali Rivera](../authors/ali-rivera.md) — 1
-- [Ali Turki | علي تركي](../authors/ali-turki.md) — 1
 - [Alisha (aal)](../authors/alisha-aal.md) — 1
 - [Alisina](../authors/alisina.md) — 1
 - [Alisson](../authors/alisson.md) — 1
@@ -1467,6 +1470,7 @@
 - [Chris Mountzouris](../authors/chris-mountzouris.md) — 1
 - [Chris On 𝕏](../authors/chris-on-x.md) — 1
 - [Chris Short](../authors/chris-short.md) — 1
+- [Christer Papanicolaou](../authors/christer-papanicolaou.md) — 1
 - [Christian Bluethgen](../authors/christian-bluethgen.md) — 1
 - [Christian Koller](../authors/christian-koller.md) — 1
 - [Christian Mathiesen](../authors/christian-mathiesen.md) — 1
@@ -1811,6 +1815,7 @@
 - [Faisal Ahammad](../authors/faisal-ahammad.md) — 1
 - [Faisal AlZaben • فيصل الزبن](../authors/faisal-alzaben.md) — 1
 - [Faiz Hadiyan](../authors/faiz-hadiyan.md) — 1
+- [Faizan Ali](../authors/faizan-ali.md) — 1
 - [Faramarz](../authors/faramarz.md) — 1
 - [Farhan Azad Shuvra](../authors/farhan-azad-shuvra.md) — 1
 - [Farid](../authors/farid.md) — 1
@@ -2141,6 +2146,7 @@
 - [Jacob Matson](../authors/jacob-matson.md) — 1
 - [Jacob Wellinghoff 🦞](../authors/jacob-wellinghoff.md) — 1
 - [jaden gray](../authors/jaden-gray.md) — 1
+- [Jae Yang](../authors/jae-yang.md) — 1
 - [Jaenan](../authors/jaenan.md) — 1
 - [Jaime Buelta 🌻🌻🌻](../authors/jaime-buelta.md) — 1
 - [Jake Cusack](../authors/jake-cusack.md) — 1
@@ -2220,6 +2226,7 @@
 - [Jishan](../authors/jishan.md) — 1
 - [JJ Eaton](../authors/jj-eaton.md) — 1
 - [JK](../authors/jk.md) — 1
+- [jmill](../authors/jmill.md) — 1
 - [JMZ](../authors/jmz.md) — 1
 - [jo32](../authors/jo32.md) — 1
 - [Joakim Sael](../authors/joakim-sael.md) — 1
@@ -2708,6 +2715,7 @@
 - [Mohammad Azam](../authors/mohammad-azam.md) — 1
 - [mohammed mirza](../authors/mohammed-mirza.md) — 1
 - [Mohammed Moyeen](../authors/mohammed-moyeen.md) — 1
+- [Mohammed Reschreiter](../authors/mohammed-reschreiter.md) — 1
 - [Mohan Dolatabadi](../authors/mohan-dolatabadi.md) — 1
 - [Mohan Elango](../authors/mohan-elango.md) — 1
 - [Mohd shubair 🌱](../authors/mohd-shubair.md) — 1
@@ -2954,7 +2962,6 @@
 - [Patronus Ben](../authors/patronus-ben.md) — 1
 - [Pattern Preacher](../authors/pattern-preacher.md) — 1
 - [Paul Asjes](../authors/paul-asjes.md) — 1
-- [Paul Branham](../authors/paul-branham.md) — 1
 - [Paul Crossland](../authors/paul-crossland.md) — 1
 - [Paul Iusztin](../authors/paul-iusztin.md) — 1
 - [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
@@ -3409,6 +3416,7 @@
 - [Sorin Curescu](../authors/sorin-curescu.md) — 1
 - [sorinaji](../authors/sorinaji.md) — 1
 - [SOS](../authors/sos.md) — 1
+- [Sotiris Kaniras](../authors/sotiris-kaniras.md) — 1
 - [Souleymane Sidibe](../authors/souleymane-sidibe.md) — 1
 - [Soumya](../authors/soumya.md) — 1
 - [Soumyaranjan Panda](../authors/soumyaranjan-panda.md) — 1
@@ -3937,6 +3945,7 @@
 - [혼나고랩](../authors/jev-showcase.md) — 1
 - [あdventurers](../authors/dventurers.md) — 1
 - [アイドルライブDB運営【アイマス非公式アプリ】](../authors/db運営-非公式.md) — 1
+- [あいびぃ](../authors/jev-showcase.md) — 1
 - [あいり｜海外AIニュースを毎日届ける人](../authors/海外ai-毎日届-人.md) — 1
 - [あおい | Kindle出版でスマートFIRE](../authors/kindle出版-fire.md) — 1
 - [アキナ＠AIでSES営業の生産性を爆上げ](../authors/ai-ses営業-生産性-爆上.md) — 1

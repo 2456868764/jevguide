@@ -744,6 +744,7 @@
 - [Salih Avcıoğlu](../authors/salih-avc-oglu.md) — 2
 - [Sam Gutentag | Voice AI](../authors/sam-gutentag-voice-ai.md) — 2
 - [Samrat Dutta](../authors/samrat-dutta.md) — 2
+- [Sangamesh Gella](../authors/sangamesh-gella.md) — 2
 - [Sanjay](../authors/sanjay.md) — 2
 - [santi](../authors/santi.md) — 2
 - [Santiago](../authors/santiago.md) — 2
@@ -3268,7 +3269,6 @@
 - [Sanden Gocka](../authors/sanden-gocka.md) — 1
 - [Sandia8x8](../authors/sandia8x8.md) — 1
 - [Sanem Avcil 🚀 Blockchain](../authors/sanem-avcil-blockchain.md) — 1
-- [Sangamesh Gella](../authors/sangamesh-gella.md) — 1
 - [Sanjay Kalra, AI Transformation Sherpa™️](../authors/sanjay-kalra-ai-transformation-sherpatm.md) — 1
 - [Sanjoy Ghosh](../authors/sanjoy-ghosh.md) — 1
 - [Sankalp Sinha (Left $15K+ MRR job to indiehack)](../authors/sankalp-sinha-left-15k-mrr-job-to-indiehack.md) — 1
@@ -3881,6 +3881,7 @@
 - [Yusuke Terada](../authors/yusuke-terada.md) — 1
 - [Yusuke Wada](../authors/yusuke-wada.md) — 1
 - [yuta-hitomi](../authors/yuta-hitomi.md) — 1
+- [YutoSeta@AI個人開発するのでお小遣いください](../authors/yutoseta-ai個人開発-小遣.md) — 1
 - [Yuvelir](../authors/yuvelir.md) — 1
 - [Yuvraj Singh Rathore](../authors/yuvraj-singh-rathore.md) — 1
 - [yypiece＠datascientist](../authors/yypiece-datascientist.md) — 1

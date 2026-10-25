@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T07:01:14.000Z | [Jev on Where Judgment Belongs in Layered Agent Actions](https://x.com/sangamesh_gupta/status/2114250920212959519) | 智能体 | Sangamesh Gella | 1 |
+| 2026-10-25T06:37:24.000Z | [Jev Runs Locally to Assist Accounting Work](https://x.com/YutoSeta/status/2114244919695143022) | 金融 | YutoSeta@AI個人開発するのでお小遣いください | 14 |
 | 2026-10-25T05:47:14.000Z | [Jev and Decisions API: Specialized Models for Fast Decisions](https://x.com/faizan_ali_113/status/2114232297352528345) | 智能体 | Faizan Ali | 10 |
 | 2026-10-25T03:53:21.000Z | [Building the first agentic text field with Jev?](https://x.com/jmilldotdev/status/2114203637362925854) | 社区实践 | jmill | 236 |
 | 2026-10-25T03:50:43.000Z | [Integrating a Jev-like system in chat support](https://x.com/true_jae_yang/status/2114202971504525312) | 智能体 | Jae Yang | 135 |
@@ -100,5 +102,3 @@
 | 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
 | 2026-10-23T12:16:17.000Z | [Build a Polymarket BTC Trading Desk with Jev Pipeline and Claude Code](https://x.com/nonepcbl/status/2113605429620023790) | 金融 | nOnEpcbl. | 61 |
 | 2026-10-23T12:07:13.000Z | [Classified 64,946 GitHub repos with Jev for under $2](https://x.com/0xasten/status/2113603146945823034) | 社区实践 | Asten | 35 |
-| 2026-10-23T11:34:45.000Z | [OpenAI Decisions API outputs decisions directly, aiming to rival Jev](https://x.com/mazaki_eth/status/2113594976651079943) | 开发者工具 | Benjamin | 15 |
-| 2026-10-23T11:32:30.000Z | [Pig + Jev + Gemini Flash auto-plays Pokemon TCGP](https://x.com/OnlyAICanDo/status/2113594407987605815) | 游戏 | Bigkaka | 13 |

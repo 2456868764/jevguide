@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T09:54:00.000Z | [The Mystery of Decision Model Speed: Jev vs LLMs](https://x.com/adlrocha/status/2114294395717767492) | 工作原理 | adlrocha | 7 |
+| 2026-10-25T09:20:04.000Z | [Question about displaying scores for similar questions in Jev](https://x.com/web_se/status/2114285858446790879) | 知识与搜索 | s.hiruta | 321 |
+| 2026-10-25T09:11:32.000Z | [Persist agent corrections with Jev](https://x.com/srmarcmayol/status/2114283710518575309) | 智能体 | Marc Mayol GenAI Tech lead | 16 |
 | 2026-10-25T08:40:29.000Z | [Jev: A System 1 Model Focused on Fast, Structured and Limited Output](https://x.com/akarik3873/status/2114275894814810502) | 工作原理 | Abe K | 10 |
 | 2026-10-25T08:36:20.000Z | [Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol](https://x.com/CafeSingularity/status/2114274852857336109) | 产品发布 | カフェマス＠XR×VTuber | 104 |
 | 2026-10-25T07:39:31.000Z | [Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection](https://x.com/codersoar/status/2114260552042320184) | 产品发布 | soar | 49 |
@@ -99,6 +102,3 @@
 | 2026-10-23T19:10:35.000Z | [Jev as a precondition for proactive agents](https://x.com/mikeclarke/status/2113709690291114048) | 智能体 | Mike Clarke | 74 |
 | 2026-10-23T19:10:23.000Z | [JEV Grid's Split Design Sparks Discussion](https://x.com/Rhoxbt/status/2113709637279301731) | 智能体 | Rhoxbt | 1.6K |
 | 2026-10-23T16:05:16.000Z | [Last Call: JEV Workshop Tomorrow](https://x.com/LightHouse_acc/status/2113663052881301556) | 社区实践 | Lighthouse | 3 |
-| 2026-10-23T15:53:19.000Z | [JEV breaks down 724 ads in 40 seconds for 9 cents in tokens](https://x.com/maxwell_lenoir/status/2113660046479351875) | 营销 | max | 117 |
-| 2026-10-23T12:54:19.000Z | [LocalRouter Update: Jev-Style Decision Model for Computer Use Nearly Ready](https://x.com/jayleaton/status/2113615001076601317) | 智能体 | JJ Eaton | 137 |
-| 2026-10-23T12:45:46.000Z | [Papers with Code integrates Jev to highlight methods in abstracts](https://x.com/NielsRogge/status/2113612849389920589) | 接入动态 | Niels Rogge | 376 |

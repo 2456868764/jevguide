@@ -391,6 +391,7 @@
 - [Abhishek Gupta](../authors/abhishek-gupta.md) — 2
 - [Abol](../authors/abol.md) — 2
 - [Adam Chester 🏴‍☠️](../authors/adam-chester.md) — 2
+- [adlrocha](../authors/adlrocha.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
 - [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
 - [Ai Demo（アイデモ）](../authors/ai-demo.md) — 2
@@ -993,7 +994,6 @@
 - [Aditya A.](../authors/aditya-a.md) — 1
 - [Aditya kumar Singh](../authors/aditya-kumar-singh.md) — 1
 - [Aditya Rao](../authors/aditya-rao.md) — 1
-- [adlrocha](../authors/adlrocha.md) — 1
 - [Adnan](../authors/adnan.md) — 1
 - [Adrian Cortex](../authors/adrian-cortex.md) — 1
 - [Adrien](../authors/adrien.md) — 1
@@ -2574,6 +2574,7 @@
 - [Manyways](../authors/manyways.md) — 1
 - [mappy](../authors/mappy.md) — 1
 - [Marc Brooker](../authors/marc-brooker.md) — 1
+- [Marc Mayol GenAI Tech lead](../authors/marc-mayol-genai-tech-lead.md) — 1
 - [Marc van de Logt](../authors/marc-van-de-logt.md) — 1
 - [Marcel](../authors/marcel.md) — 1
 - [Marcelo Lebre](../authors/marcelo-lebre.md) — 1
@@ -3221,6 +3222,7 @@
 - [Ryan Porter](../authors/ryan-porter.md) — 1
 - [Ryan Truong](../authors/ryan-truong.md) — 1
 - [RYO🌊個人開発](../authors/ryo-個人開発.md) — 1
+- [s.hiruta](../authors/s-hiruta.md) — 1
 - [Sabbir Ahmed](../authors/sabbir-ahmed.md) — 1
 - [Sabeel Dhanish](../authors/sabeel-dhanish.md) — 1
 - [Sabo dev](../authors/sabo-dev.md) — 1

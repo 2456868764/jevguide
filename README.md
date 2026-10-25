@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6219</strong><br>curated posts</td>
-<td align="center"><strong>3106</strong><br>original videos</td>
+<td align="center"><strong>6222</strong><br>curated posts</td>
+<td align="center"><strong>3107</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>582</strong> showcases · <strong>254</strong> videos</p>
+<p><strong>583</strong> showcases · <strong>254</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>495</strong> showcases · <strong>278</strong> videos</p>
+<p><strong>496</strong> showcases · <strong>279</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -98,18 +98,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>124</strong> showcases · <strong>89</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
+<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
+<p><sub>知识与搜索</sub></p>
+<p><strong>125</strong> showcases · <strong>63</strong> videos</p>
+<p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
-<p><sub>知识与搜索</sub></p>
-<p><strong>124</strong> showcases · <strong>63</strong> videos</p>
-<p><a href="categories/knowledge-search.md">Open category →</a></p>
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>124</strong> showcases · <strong>89</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/adlrocha/status/2114294395717767492"><img src="https://pbs.twimg.com/media/HVJH5wAW8AAsJdf?format=jpg&amp;name=medium" alt="The Mystery of Decision Model Speed: Jev vs LLMs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/adlrocha/status/2114294395717767492">The Mystery of Decision Model Speed: Jev vs LLMs</a></h3>
+<p>The author asks why decision models are so much faster than LLMs. OpenAI says its Decisions API runs on a specialized GPT-6 Luna, while TypeSafe has only revealed &#39;new architecture&#39; and &#39;parallel sampler&#39; for Jev. Then Cloudflare released open-weight model Clef, offering a clue.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>adlrocha</strong> · @adlrocha</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/web_se/status/2114285858446790879"><img src="https://pbs.twimg.com/media/HVdzb1JbgAA4ccV?format=png&amp;name=small" alt="Question about displaying scores for similar questions in Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/web_se/status/2114285858446790879">Question about displaying scores for similar questions in Jev</a></h3>
+<p>The user asks whether similar questions are generated and wonders if it displays high-scoring items in Jev.</p>
+<p><strong>321</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 321</p>
+<p><strong>s.hiruta</strong> · @web_se</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/srmarcmayol/status/2114283710518575309"><img src="https://pbs.twimg.com/amplify_video_thumb/2114283681741180928/img/xyCBT6fdOu-0rHuD.jpg" alt="Persist agent corrections with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/srmarcmayol/status/2114283710518575309">Persist agent corrections with Jev</a></h3>
+<p>Marc Mayol shares that correcting an agent is useless if lost when closing the session. Akshay Pachaar solves it with Beacon (open-source memory) and Jev, which decides what to save. Corrections to Claude Code are applied by Codex, though Codex had to be asked.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Marc Mayol GenAI Tech lead</strong> · @srmarcmayol</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
 <p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
 <p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
 <p><strong>Abe K</strong> · @akarik3873</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/CafeSingularity/status/2114274852857336109"><img src="https://pbs.twimg.com/media/HVdpKF0awAAOcKU?format=jpg&amp;name=medium" alt="Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CafeSingularity/status/2114274852857336109">Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol</a></h3>
-<p>After a long absence, Espressa is back to normal business and has been updated to a new configuration featuring Jev (Decisions API) + GPT-6.1 Sol. The author notes it should be smarter, though a bit anxious about whether it will work properly.</p>
-<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 104</p>
-<p><strong>カフェマス＠XR×VTuber</strong> · @CafeSingularity</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/codersoar/status/2114260552042320184"><img src="https://pbs.twimg.com/media/HVdcYHxaoAAAjyA?format=png&amp;name=900x900" alt="Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/codersoar/status/2114260552042320184">Selecto 1.3 adds Jev-based text authenticity and AI-generated content detection</a></h3>
-<p>The open-source toolbar Selecto ships v1.3, adding a Jev-based feature to judge whether selected text is authentic or AI-generated, and optimizing DeepSeek calls and settings UI.</p>
-<p><strong>49</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 49</p>
-<p><strong>soar</strong> · @codersoar</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/sangamesh_gupta/status/2114250920212959519"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114250888994865152/pu/img/C6olezYa1pwKLal4.jpg" alt="Jev on Where Judgment Belongs in Layered Agent Actions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sangamesh_gupta/status/2114250920212959519">Jev on Where Judgment Belongs in Layered Agent Actions</a></h3>
-<p>A quick take from Jev on how judgment should be allocated when an agent takes layered actions.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Sangamesh Gella</strong> · @sangamesh_gupta</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/adlrocha/status/2114294395717767492"><img src="https://pbs.twimg.com/media/HVJH5wAW8AAsJdf?format=jpg&amp;name=medium" alt="The Mystery of Decision Model Speed: Jev vs LLMs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/adlrocha/status/2114294395717767492">The Mystery of Decision Model Speed: Jev vs LLMs</a></h3>
+<p>The author asks why decision models are so much faster than LLMs. OpenAI says its Decisions API runs on a specialized GPT-6 Luna, while TypeSafe has only revealed &#39;new architecture&#39; and &#39;parallel sampler&#39; for Jev. Then Cloudflare released open-weight model Clef, offering a clue.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>adlrocha</strong> · @adlrocha</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/akarik3873/status/2114275894814810502"><img src="https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg" alt="Jev: A System 1 Model Focused on Fast, Structured and Limited Output · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/akarik3873/status/2114275894814810502">Jev: A System 1 Model Focused on Fast, Structured and Limited Output</a></h3>
 <p>Introduces Jev as a System 1 model and explores the possibility of training such models by distilling System 2 models.</p>
 <p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 10</p>
 <p><strong>Abe K</strong> · @akarik3873</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/sangamesh_gupta/status/2114250920212959519"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114250888994865152/pu/img/C6olezYa1pwKLal4.jpg" alt="Jev on Where Judgment Belongs in Layered Agent Actions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sangamesh_gupta/status/2114250920212959519">Jev on Where Judgment Belongs in Layered Agent Actions</a></h3>
-<p>A quick take from Jev on how judgment should be allocated when an agent takes layered actions.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Sangamesh Gella</strong> · @sangamesh_gupta</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/YutoSeta/status/2114244919695143022"><img src="https://pbs.twimg.com/amplify_video_thumb/2113400649283170305/img/1h0pyXmoOP38UuxR.jpg" alt="Jev Runs Locally to Assist Accounting Work · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/YutoSeta/status/2114244919695143022">Jev Runs Locally to Assist Accounting Work</a></h3>
-<p>The author mentions that Perplexity has introduced something enabling Jev to run locally, allowing accounting classification and other bookkeeping tasks to be completed fully offline, and plans to try it later.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 14</p>
-<p><strong>YutoSeta@AI個人開発するのでお小遣いください</strong> · @YutoSeta</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/CafeSingularity/status/2114274852857336109"><img src="https://pbs.twimg.com/media/HVdpKF0awAAOcKU?format=jpg&amp;name=medium" alt="Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CafeSingularity/status/2114274852857336109">Espressa Updated: New Configuration with Jev (Decisions API) + GPT-6.1 Sol</a></h3>
+<p>After a long absence, Espressa is back to normal business and has been updated to a new configuration featuring Jev (Decisions API) + GPT-6.1 Sol. The author notes it should be smarter, though a bit anxious about whether it will work properly.</p>
+<p><strong>104</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 104</p>
+<p><strong>カフェマス＠XR×VTuber</strong> · @CafeSingularity</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/MiguelriosEN/status/2114165520010547468"><img src="https://pbs.twimg.com/amplify_video_thumb/2114165420416790528/img/HC4LrJKxqmjiJ3P_.jpg" alt="Dad uses Jev to build an app for his daughters&#39; Lego car race · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MiguelriosEN/status/2114165520010547468">Dad uses Jev to build an app for his daughters&#39; Lego car race</a></h3>
-<p>This dad used Jev to quickly build an app to determine the winner of his daughters&#39; Lego car race.</p>
-<p><strong>175</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 175</p>
-<p><strong>Miguel Ríos Berríos</strong> · @MiguelriosEN</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/true_jae_yang/status/2114202971504525312"><img src="https://pbs.twimg.com/amplify_video_thumb/2114202519282892800/img/dZmN_p7mPXnuCgKJ.jpg" alt="Integrating a Jev-like system in chat support · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/true_jae_yang/status/2114202971504525312">Integrating a Jev-like system in chat support</a></h3>
+<p>The author added chat support, using a Jev-like system for quick actions (such as animation activation) and DeepSeek for general interpretation, plus an eye blinking animation.</p>
+<p><strong>135</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 135</p>
+<p><strong>Jae Yang</strong> · @true_jae_yang</p>
 </td>
 </tr>
 </table>

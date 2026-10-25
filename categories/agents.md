@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 496 | 279 | 219 | 3.0M |
+| 498 | 280 | 220 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Raytar/status/2114318015944683563"><img src="https://pbs.twimg.com/amplify_video_thumb/2114317880481271808/img/UUo_z-2YGsRBxaYP.jpg" alt="Multi-agent AI setup including Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Raytar/status/2114318015944683563">Multi-agent AI setup including Jev</a></h3>
+<p>The author describes building a powerful setup of 6 AI agents, including Jev, with a shared brain, and setting a rule for them to find and fix paid problems to make money.</p>
+<p><strong>中文摘要：</strong>作者称构建了由6个AI智能体组成的强力系统，集成Jev等工具，并设置规则让智能体自动发现问题、解决问题以赚钱。</p>
+<p><strong>Raytar</strong> · @Raytar · 2026-10-25T11:27:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 170</p>
+<p><a href="https://x.com/Raytar/status/2114318015944683563">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Sumanth_077/status/2114309785407652201"><img src="https://pbs.twimg.com/media/HVeJfU8aoAA2BxS?format=png&amp;name=900x900" alt="Jev as a decision layer for LLM agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Sumanth_077/status/2114309785407652201">Jev as a decision layer for LLM agents</a></h3>
+<p>JevAgentHarness explores how Jev can serve as a bounded decision layer for small decisions in LLM agents, such as tool selection, argument choice, and task completion.</p>
+<p><strong>中文摘要：</strong>JevAgentHarness 探索 Jev 如何为 LLM 智能体在工具调用、参数选择、任务完成判断等小型决策中提供有界决策层。</p>
+<p><strong>Sumanth</strong> · @Sumanth_077 · 2026-10-25T10:55:09.000Z</p>
+<p>💬 7 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 934</p>
+<p><a href="https://x.com/Sumanth_077/status/2114309785407652201">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/srmarcmayol/status/2114283710518575309"><img src="https://pbs.twimg.com/amplify_video_thumb/2114283681741180928/img/xyCBT6fdOu-0rHuD.jpg" alt="Persist agent corrections with Jev · 原帖视频截图" width="100%"></a>

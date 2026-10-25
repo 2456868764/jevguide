@@ -69,6 +69,7 @@
 - [Mika](../authors/mika.md) — 6
 - [mikaeru](../authors/mikaeru.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
+- [morph](../authors/morph.md) — 6
 - [Philip](../authors/philip.md) — 6
 - [Ryven](../authors/ryven.md) — 6
 - [Sadra Majidi](../authors/sadra-majidi.md) — 6
@@ -95,7 +96,6 @@
 - [Jetwani Avinash](../authors/jetwani-avinash.md) — 5
 - [Leaf Yeah!](../authors/leaf-yeah.md) — 5
 - [mercante](../authors/mercante.md) — 5
-- [morph](../authors/morph.md) — 5
 - [Natzir](../authors/natzir.md) — 5
 - [nikhil mudholkar](../authors/nikhil-mudholkar.md) — 5
 - [NO1ennn](../authors/no1ennn.md) — 5
@@ -167,6 +167,7 @@
 - [RM 🖤](../authors/rm.md) — 4
 - [rvaniaaa](../authors/rvaniaaa.md) — 4
 - [Sac](../authors/sac.md) — 4
+- [Sumanth](../authors/sumanth.md) — 4
 - [Supersocks Intelligent](../authors/supersocks-intelligent.md) — 4
 - [Taqi T| Tech consultant & Sr.Engineer](../authors/taqi-t-tech-consultant-sr-engineer.md) — 4
 - [TypeSafe AI](../authors/typesafe-ai.md) — 4
@@ -334,7 +335,6 @@
 - [Sprytix](../authors/sprytix.md) — 3
 - [st1ne](../authors/st1ne.md) — 3
 - [Startup Investor](../authors/startup-investor.md) — 3
-- [Sumanth](../authors/sumanth.md) — 3
 - [Sumjit](../authors/sumjit.md) — 3
 - [Sunil Mehta](../authors/sunil-mehta.md) — 3
 - [Takashi Minoda](../authors/takashi-minoda.md) — 3
@@ -725,6 +725,7 @@
 - [Rajoshi](../authors/rajoshi.md) — 2
 - [Ram Vinjamuri](../authors/ram-vinjamuri.md) — 2
 - [Randy Hamilton](../authors/randy-hamilton.md) — 2
+- [Raytar](../authors/raytar.md) — 2
 - [RDS](../authors/rds.md) — 2
 - [Remek Kinas](../authors/remek-kinas.md) — 2
 - [RepoGems](../authors/repogems.md) — 2
@@ -2590,6 +2591,7 @@
 - [Marcus | AI](../authors/marcus-ai.md) — 1
 - [Marcus Schuler](../authors/marcus-schuler.md) — 1
 - [Margi Shah](../authors/margi-shah.md) — 1
+- [Maria](../authors/maria.md) — 1
 - [Marian Pogran](../authors/marian-pogran.md) — 1
 - [Marina](../authors/marina.md) — 1
 - [Mario T. Misiek](../authors/mario-t-misiek.md) — 1
@@ -2643,6 +2645,7 @@
 - [Meghavi Rao](../authors/meghavi-rao.md) — 1
 - [Meghraj](../authors/meghraj.md) — 1
 - [Mehdi Ouazza](../authors/mehdi-ouazza.md) — 1
+- [Melaya](../authors/melaya.md) — 1
 - [Melih Çat](../authors/melih-cat.md) — 1
 - [Mello](../authors/mello.md) — 1
 - [Melvyn • Builder](../authors/melvyn-builder.md) — 1
@@ -3112,7 +3115,6 @@
 - [Raveesh 折図](../authors/raveesh-折図.md) — 1
 - [Ravi Mandliya](../authors/ravi-mandliya.md) — 1
 - [RAXXO Studios | Creative Studio](../authors/raxxo-studios-creative-studio.md) — 1
-- [Raytar](../authors/raytar.md) — 1
 - [Razvan Ilin (Raz)](../authors/razvan-ilin-raz.md) — 1
 - [Read In Brief](../authors/read-in-brief.md) — 1
 - [Recall](../authors/recall.md) — 1
@@ -3894,6 +3896,7 @@
 - [Zachi](../authors/zachi.md) — 1
 - [Zaddy](../authors/zaddy.md) — 1
 - [Zain](../authors/zain.md) — 1
+- [Zal Zhou](../authors/zal-zhou.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [ZazenCodes](../authors/zazencodes.md) — 1
 - [Zazzy Stardust](../authors/zazzy-stardust.md) — 1

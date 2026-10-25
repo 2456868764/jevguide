@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-25T11:29:40.000Z | [JEV-1.13.0: A Judge Model to Improve RAG Retrieval](https://x.com/MariaOnchainDev/status/2114318472754720930) | 知识与搜索 | Maria | 19 |
+| 2026-10-25T11:27:51.000Z | [Multi-agent AI setup including Jev](https://x.com/Raytar/status/2114318015944683563) | 智能体 | Raytar | 170 |
+| 2026-10-25T11:16:24.000Z | [How Jev Works: A Decision Model Without the Autoregressive Loop](https://x.com/zalzhou/status/2114315134164517370) | 工作原理 | Zal Zhou | 8 |
+| 2026-10-25T11:09:35.000Z | [Six AI tools argue over product ideas overnight with Jev](https://x.com/morpphhhaw/status/2114313418719007028) | 自动化工作流 | morph | 210 |
+| 2026-10-25T11:00:52.000Z | [Jev-Powered Morning Review of SEC Filings](https://x.com/melayaorg/status/2114311223785451616) | 金融 | Melaya | 8 |
+| 2026-10-25T10:55:09.000Z | [Jev as a decision layer for LLM agents](https://x.com/Sumanth_077/status/2114309785407652201) | 智能体 | Sumanth | 934 |
 | 2026-10-25T10:45:10.000Z | [Integrate Jev into Claude to reduce token usage](https://x.com/onuro/status/2114307272348250624) | 社区实践 | Onur Oztaskiran | 17 |
 | 2026-10-25T09:54:00.000Z | [The Mystery of Decision Model Speed: Jev vs LLMs](https://x.com/adlrocha/status/2114294395717767492) | 工作原理 | adlrocha | 7 |
 | 2026-10-25T09:20:04.000Z | [Question about displaying scores for similar questions in Jev](https://x.com/web_se/status/2114285858446790879) | 知识与搜索 | s.hiruta | 321 |
@@ -96,9 +102,3 @@
 | 2026-10-23T20:17:08.000Z | [Jev 1.13: 3.5 Cents to Sort 500 Emails in Seconds](https://x.com/orbitalisVector/status/2113726437865701774) | 自动化工作流 | Orbitalis | 224 |
 | 2026-10-23T19:56:07.000Z | [Jev agent beats Pokémon LeafGreen on its own](https://x.com/ivenaccip/status/2113721149913764258) | 游戏 | Ivenaccip | 15 |
 | 2026-10-23T19:31:44.000Z | [e2e Launches Test Filters API with Jev Decision Model Support](https://x.com/o_kwasniewski/status/2113715013122760983) | 开发者工具 | Oskar | 7.5K |
-| 2026-10-23T19:30:48.000Z | [Jev 1.13 sparks discussion on low-cost handling of agent micro-decisions](https://x.com/DarkFactorr/status/2113714777226690905) | 社区实践 | Dark Factor | 10K |
-| 2026-10-23T19:19:30.000Z | [4B Jev-style Judge Outperforms Up to 27B Models on Robotics Benchmarks](https://x.com/HuanxinShe5254/status/2113711933337817311) | 机器人 | Huanxin Sheng | 29 |
-| 2026-10-23T19:19:28.000Z | [Jev model for robot manipulation: JevAny-Robotics-4B open-sourced](https://x.com/HuanxinShe5254/status/2113711925104394513) | 机器人 | Huanxin Sheng | 203 |
-| 2026-10-23T19:17:38.000Z | [JEV Landscape: STATE Packer Collapses Context into One Typed State](https://x.com/0xVarian/status/2113711462585675899) | 工作原理 | Varian | 1.1K |
-| 2026-10-23T19:10:35.000Z | [Jev as a precondition for proactive agents](https://x.com/mikeclarke/status/2113709690291114048) | 智能体 | Mike Clarke | 74 |
-| 2026-10-23T19:10:23.000Z | [JEV Grid's Split Design Sparks Discussion](https://x.com/Rhoxbt/status/2113709637279301731) | 智能体 | Rhoxbt | 1.6K |

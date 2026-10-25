@@ -2,16 +2,16 @@
 
 - [Community builds](../categories/community-builds.md) — 1173
 - [Developer tools](../categories/developer-tools.md) — 630
-- [How it works](../categories/how-it-works.md) — 583
+- [How it works](../categories/how-it-works.md) — 584
 - [Launch news](../categories/launch-news.md) — 541
-- [Agents](../categories/agents.md) — 496
+- [Agents](../categories/agents.md) — 498
 - [Access updates](../categories/access-updates.md) — 414
 - [Gaming](../categories/gaming.md) — 386
 - [Developer resources](../categories/developer-resources.md) — 379
-- [Finance](../categories/finance.md) — 317
-- [Workflow automation](../categories/workflow-automation.md) — 268
+- [Finance](../categories/finance.md) — 318
+- [Workflow automation](../categories/workflow-automation.md) — 269
 - [Marketing](../categories/marketing.md) — 147
-- [Knowledge & search](../categories/knowledge-search.md) — 125
+- [Knowledge & search](../categories/knowledge-search.md) — 126
 - [Content creation](../categories/content-creation.md) — 124
 - [Data analytics](../categories/data-analytics.md) — 116
 - [Scientific research](../categories/scientific-research.md) — 106

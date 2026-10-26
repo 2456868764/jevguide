@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1174 | 488 | 691 | 3.0M |
+| 1180 | 491 | 694 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yozure5/status/2114550074193903987"><img src="https://pbs.twimg.com/media/HVhkFS3bMAMka0X?format=jpg&amp;name=900x900" alt="Returning to a dual-tool workflow with Claude and Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yozure5/status/2114550074193903987">Returning to a dual-tool workflow with Claude and Jev</a></h3>
+<p>The author says goodbye to a current tool and returns to a combined workflow using Claude and Jev.</p>
+<p><strong>中文摘要：</strong>博主表示将告别当前使用的工具，重新采用Claude与Jev的组合工作流。</p>
+<p><strong>yozure🔥お疲れ様でした！！！！！</strong> · @yozure5 · 2026-10-26T02:49:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/yozure5/status/2114550074193903987">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fzzzan/status/2114543174324736020"><img src="https://pbs.twimg.com/media/HVhdyatakAA4WBm?format=jpg&amp;name=medium" alt="Rebuilding website review with TypeSafe Jev API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fzzzan/status/2114543174324736020">Rebuilding website review with TypeSafe Jev API</a></h3>
+<p>The author shares his experience rebuilding his website review process using the TypeSafe Jev API. He notes that no matter how strong a site is, it still lacks value if Google rates it low. With the Jev API, next steps became clearer, and he praises TypeSafe Jev.</p>
+<p><strong>中文摘要：</strong>作者分享了自己使用TypeSafe Jev API重构个人网站检查流程的经验。他指出即使网站本身做得很强，如果Google评级较低，价值仍然不足。通过Jev API，下一步的行动方向变得更清晰，并称赞TypeSafe Jev的优秀表现。</p>
+<p><strong>Faiz Azizan</strong> · @fzzzan · 2026-10-26T02:22:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><a href="https://x.com/fzzzan/status/2114543174324736020">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Walrus_systems/status/2114453249436881318"><img src="https://pbs.twimg.com/amplify_video_thumb/2114453192721244160/img/OsXDdaL7TgPAjKSt.jpg" alt="JEV ran 10,000 decisions for $0.42 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Walrus_systems/status/2114453249436881318">JEV ran 10,000 decisions for $0.42</a></h3>
+<p>Shows JEV processing large volumes of decisions under a gate threshold of 0.85, providing confidence scores for phishing, reply worthiness, lead quality, and viral fit without involving the LLM.</p>
+<p><strong>中文摘要：</strong>展示JEV在门控阈值0.85下处理大量决策，识别钓鱼、回复价值、销售线索质量和病毒传播适配性等置信度评分，无需LLM参与。</p>
+<p><strong>Walrus</strong> · @Walrus_systems · 2026-10-25T20:25:13.000Z</p>
+<p>💬 11 &nbsp; 🔁 5 &nbsp; ♡ 40 &nbsp; 📊 985</p>
+<p><a href="https://x.com/Walrus_systems/status/2114453249436881318">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gbolagadehq/status/2114440765594288151"><img src="https://pbs.twimg.com/amplify_video_thumb/2114435991066812416/img/d9eaglMhpprnpjvh.jpg" alt="JEV 1.14 vs OpenAI&#39;s Decisions API: Head-to-Head Benchmark · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gbolagadehq/status/2114440765594288151">JEV 1.14 vs OpenAI&#39;s Decisions API: Head-to-Head Benchmark</a></h3>
+<p>A head-to-head comparison of JEV 1.14 and OpenAI&#39;s Decisions API using 5 tests, 7,070 items, and 1,999 product photos, focusing on answer selection and confidence.</p>
+<p><strong>中文摘要：</strong>基于 5 项测试、7,070 个样本和 1,999 张产品照片，对比 JEV 1.14 与 OpenAI Decisions API 的答案选择和置信度表现。</p>
+<p><strong>Gbolagade Ishola</strong> · @gbolagadehq · 2026-10-25T19:35:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 48</p>
+<p><a href="https://x.com/gbolagadehq/status/2114440765594288151">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/thelau/status/2114403224136659050"><img src="https://pbs.twimg.com/amplify_video_thumb/2114402882653130752/img/Py-tbJMiNmgmwikU.jpg" alt="JEV for New Media Art · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/thelau/status/2114403224136659050">JEV for New Media Art</a></h3>
+<p>Type words, JEV interprets emotions across dimensions and renders random visuals.</p>
+<p><strong>中文摘要：</strong>输入文字，JEV 从多维度理解情感并随机生成视觉内容。</p>
+<p><strong>thelau</strong> · @thelau · 2026-10-25T17:06:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/thelau/status/2114403224136659050">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mhgaber/status/2114394747557011562"><img src="https://pbs.twimg.com/media/HVfWvKDWkAAdfta?format=jpg&amp;name=900x900" alt="Putting Jev in the hot path of a live voice call · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mhgaber/status/2114394747557011562">Putting Jev in the hot path of a live voice call</a></h3>
+<p>Since Jev launched, most discussion has centered on its API and benchmarks. The author placed Jev&#39;s decision model directly in the hot path of a live voice call with a total budget of 400ms.</p>
+<p><strong>中文摘要：</strong>Jev 发布后讨论多围绕 API 和基准测试。作者将 Jev 决策模型部署在实时语音通话热路径中，并将整体预算控制在 400ms 内。</p>
+<p><strong>Mohamed Gaber</strong> · @mhgaber · 2026-10-25T16:32:46.000Z</p>
+<p>💬 5 &nbsp; 🔁 3 &nbsp; ♡ 81 &nbsp; 📊 7.9K</p>
+<p><a href="https://x.com/mhgaber/status/2114394747557011562">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2114378638640693297"><img src="https://pbs.twimg.com/media/HVfIJlXW4AArRtJ?format=jpg&amp;name=medium" alt="7 Weeks of Predictions Live · 原帖图片" width="100%"></a>

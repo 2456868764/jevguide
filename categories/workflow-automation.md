@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 271 | 170 | 101 | 595K |
+| 273 | 171 | 102 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/innflow_ai/status/2114442303364362454"><img src="https://pbs.twimg.com/media/HVgCCe4WoAA_yE_?format=jpg&amp;name=medium" alt="JEV by TypeSafe for Bounded Workflow Judgment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/innflow_ai/status/2114442303364362454">JEV by TypeSafe for Bounded Workflow Judgment</a></h3>
+<p>The post discusses how JEV by TypeSafe gives workflows bounded judgment and structured answers, while code handles lookups and permissions.</p>
+<p><strong>中文摘要：</strong>帖子介绍JEV by TypeSafe如何以七种方式为工作流提供有界判断和结构化答案，同时由代码负责查询与权限。</p>
+<p><strong>innflow</strong> · @innflow_ai · 2026-10-25T19:41:44.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/innflow_ai/status/2114442303364362454">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_rody/status/2114401336393343412"><img src="https://pbs.twimg.com/amplify_video_thumb/2114400486526701568/img/bqMZHmN9jppSnSzC.jpg" alt="Putting Jev (TypeSafe System One) in front of Grok Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x_rody/status/2114401336393343412">Putting Jev (TypeSafe System One) in front of Grok Bot</a></h3>
+<p>Most Grok Bot users simply ask a question and move on, but power users put Jev in front of every expensive move to optimize cost and outcomes with TypeSafe&#39;s System One model.</p>
+<p><strong>中文摘要：</strong>大多数 Grok Bot 用户只是提问并关闭标签页，而高效用户会在每次昂贵操作前接入 Jev，用 TypeSafe 的 System One 模型优化成本与结果。</p>
+<p><strong>rody</strong> · @0x_rody · 2026-10-25T16:58:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 23 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/0x_rody/status/2114401336393343412">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/innflow_ai/status/2114381186600432051"><img src="https://pbs.twimg.com/media/HVfKafoXwAEDLtQ?format=jpg&amp;name=medium" alt="JEV by TypeSafe: Turning unstructured requests into automated decisions · 原帖图片" width="100%"></a>

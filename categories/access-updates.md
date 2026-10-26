@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 415 | 171 | 244 | 802K |
+| 419 | 171 | 248 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/KOIYAL_AI/status/2114555161310113885"><img src="https://pbs.twimg.com/media/HVhoto_bAAA8bfg?format=jpg&amp;name=medium" alt="Clef and Microsoft Decision Models Announced Jev-API Compatibility · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KOIYAL_AI/status/2114555161310113885">Clef and Microsoft Decision Models Announced Jev-API Compatibility</a></h3>
+<p>Cloudflare released the Clef model (27B weights, Apache 2.0) and Microsoft released Decision-1 (based on Qwen3.5-9B), both dedicated decision models that return probabilities for given choices, with explicit Jev-API compatibility. Microsoft-Decision-1 is offered via Foundry at $0.042 per million input tokens.</p>
+<p><strong>中文摘要：</strong>Cloudflare发布Clef模型（27B权重，Apache 2.0），Microsoft发布Decision-1（基于Qwen3.5-9B），均为只返回选项概率的判定专用模型，并明确支持Jev-API兼容。Microsoft-Decision-1通过Foundry提供，输入每百万token费用0.042美元。</p>
+<p><strong>AI時代のインハウス経営支援 | KOIYAL</strong> · @KOIYAL_AI · 2026-10-26T03:10:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 4</p>
+<p><a href="https://x.com/KOIYAL_AI/status/2114555161310113885">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/agentictesting/status/2114488646858371163"><img src="https://pbs.twimg.com/media/HVgsN8PWUAAasdE?format=jpg&amp;name=medium" alt="TypeSafe AI Connector in Integration Service Brings in Jev Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/agentictesting/status/2114488646858371163">TypeSafe AI Connector in Integration Service Brings in Jev Models</a></h3>
+<p>The new TypeSafe AI connector in Integration Service lets you bring Jev models into your workflows for fast, confident decisions at lower cost and latency.</p>
+<p><strong>中文摘要：</strong>TypeSafe 的 Integration Service 新增 AI 连接器，支持将 Jev 模型引入工作流，实现更快速、低成本和低延迟的决策。</p>
+<p><strong>agentictesting</strong> · @agentictesting · 2026-10-25T22:45:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/agentictesting/status/2114488646858371163">在 X 查看原帖</a> · <a href="https://t.co/wsCmmNHIgc">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/robots4testing/status/2114488570345820225"><img src="https://pbs.twimg.com/media/HVgsJixXEAA0Cz1?format=jpg&amp;name=medium" alt="TypeSafe AI Connector Now Integrates Jev Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/robots4testing/status/2114488570345820225">TypeSafe AI Connector Now Integrates Jev Models</a></h3>
+<p>TypeSafe AI introduces a connector in Integration Service, bringing Jev models into workflows for fast, confident decisions at lower cost and latency.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 在 Integration Service 中推出连接器，可将 Jev 模型引入工作流，以更低成本与延迟做出快速、可靠的决策。</p>
+<p><strong>robots4testing</strong> · @robots4testing · 2026-10-25T22:45:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/robots4testing/status/2114488570345820225">在 X 查看原帖</a> · <a href="https://t.co/TYMNMvJnI8">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mhgaber/status/2114459436446052444"><img src="https://pbs.twimg.com/media/HVgRfubWMAAONBt?format=jpg&amp;name=900x900" alt="Putting Jev in the Hot Path of a Live Voice Call · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mhgaber/status/2114459436446052444">Putting Jev in the Hot Path of a Live Voice Call</a></h3>
+<p>The author shares an experiment of deploying Jev on a 400 ms budget in the hot path of a live voice call, aiming not to fix something broken but to improve an existing process.</p>
+<p><strong>中文摘要：</strong>作者分享在 400 毫秒预算内，将 Jev 决策模型部署到实时语音通话关键路径的实践，强调这不是修复问题，而是进一步优化现有流程。</p>
+<p><strong>Mohamed Gaber</strong> · @mhgaber · 2026-10-25T20:49:49.000Z</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 10 &nbsp; 📊 953</p>
+<p><a href="https://x.com/mhgaber/status/2114459436446052444">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/marcelotryle/status/2114357054454321585"><img src="https://pbs.twimg.com/media/HVe0iU8WQAAy54i?format=jpg&amp;name=medium" alt="Pydantic AI now supports TypeSafe&#39;s Jev model · 原帖图片" width="100%"></a>

@@ -1,9 +1,10 @@
 # 8Bit🦞
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T01:59:19.000Z | [Jev is killing it on FOMO trading](https://x.com/0rdlibrary/status/2114537325174865986) | 金融 | 8Bit🦞 | 143 |
 | 2026-10-25T15:28:45.000Z | [7 Weeks of Predictions Live](https://x.com/0rdlibrary/status/2114378638640693297) | 社区实践 | 8Bit🦞 | 187 |
 | 2026-10-02T14:41:56.000Z | [Experimenting with Jev and clef model on an ore miner](https://x.com/0rdlibrary/status/2106031938481926301) | 社区实践 | 8Bit🦞 | 166 |
 | 2026-10-02T11:23:12.000Z | [Jev Automates Buys for CLAWD Holders](https://x.com/0rdlibrary/status/2105981925454417957) | 金融 | 8Bit🦞 | 248 |

@@ -1,9 +1,10 @@
 # ericosiu
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T00:03:25.000Z | [Jev: Audit Brand AI Visibility for Pennies](https://x.com/ericosiu/status/2114508160673206579) | 营销 | ericosiu | 819 |
 | 2026-10-22T17:41:37.000Z | [Jev Images discussed for marketing and sales](https://x.com/ericosiu/status/2113324911968321744) | 营销 | ericosiu | 5.9K |
 | 2026-09-28 | [How to Use Jev and Grok Bot to Sort a Lead List](https://x.com/ericosiu/status/2104360444421194064) | 营销 | ericosiu | 297 |
 | 2026-09-27 | [How I'd Use Jev and Grok Bot to Sort a Lead List](https://x.com/ericosiu/status/2104239644103606748) | 自动化工作流 | ericosiu | 139 |

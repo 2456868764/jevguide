@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6268</strong><br>curated posts</td>
-<td align="center"><strong>3124</strong><br>original videos</td>
+<td align="center"><strong>6272</strong><br>curated posts</td>
+<td align="center"><strong>3125</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>587</strong> showcases · <strong>257</strong> videos</p>
+<p><strong>589</strong> showcases · <strong>258</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>420</strong> showcases · <strong>172</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>172</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>321</strong> showcases · <strong>188</strong> videos</p>
+<p><strong>322</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/vintcessun/status/2114638671450382373"><img src="https://pbs.twimg.com/media/HVi0qbZbwAEQG8S?format=png&amp;name=large" alt="Study on Jev&#39;s Probability Allocation in Multi-Answer Tasks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vintcessun/status/2114638671450382373">Study on Jev&#39;s Probability Allocation in Multi-Answer Tasks</a></h3>
-<p>The post shares a study on model behavior in multi-answer tasks: models can rank correct options before distractors yet still assign low probabilities to some correct items. The paper evaluates Jev and other models on MetaTool, HotpotQA, and ECtHR.</p>
-<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
-<p><strong>恒星sun</strong> · @vintcessun</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/ABArkTech_/status/2114653688165965874"><img src="https://pbs.twimg.com/amplify_video_thumb/2114653631408750592/img/Uv3FKmLpPUgzXcHy.jpg" alt="Jev: LLMs Write, Jev Decides · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ABArkTech_/status/2114653688165965874">Jev: LLMs Write, Jev Decides</a></h3>
+<p>A short post about Jev&#39;s different approach: LLMs generate answers while Jev makes decisions, reducing model calls, speeding up execution, and increasing control—highlighting smarter system design.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>AB Ark Solutions</strong> · @ABArkTech_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/defaiscope/status/2114634637331124661"><img src="https://pbs.twimg.com/media/HVijYonXUAAiCs_?format=jpg&amp;name=medium" alt="Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/defaiscope/status/2114634637331124661">Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14</a></h3>
-<p>The Artificial Analysis Decision Index ranks Liquid AI&#39;s d1-ultra at 65, 8 points above Jev 1.14. d1-ultra&#39;s accuracy dropped 9 points to 32%, but it admits when it doesn&#39;t know the answer 85% of the time, up from 2% for d1.</p>
-<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>DeFAI Scope</strong> · @defaiscope</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/nqmaikel/status/2114650966918123679"><img src="https://pbs.twimg.com/media/HVi_10SX0AApVL9?format=jpg&amp;name=medium" alt="jev-trader: An AI Model Trading on Every Monad Block · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nqmaikel/status/2114650966918123679">jev-trader: An AI Model Trading on Every Monad Block</a></h3>
+<p>jev-trader is an AI trading project that makes one buy or sell decision on every Monad block (~300 ms) and quotes it on the Kuru order book. It features a no-private-key dry run mode: real order book with simulated fills, letting you watch it trade without funding a wallet. The project has 3,087 stars on GitHub.</p>
+<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>maikel</strong> · @nqmaikel</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/jmojeda/status/2114622830113669165"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622722835873792/img/ykDYcnysHXWVw0kk.jpg" alt="How Jev Works: A Comparison with Normal LLMs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jmojeda/status/2114622830113669165">How Jev Works: A Comparison with Normal LLMs</a></h3>
-<p>Instead of generating text token by token like a normal LLM, Jev scores options in one pass and picks one, like a multiple-choice exam. It cannot misspell, and its confidence is a real probability.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>jmojeda</strong> · @jmojeda</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/blockphd7/status/2114646988805341581"><img src="https://pbs.twimg.com/media/HVi8K0zX0AAENlH?format=jpg&amp;name=large" alt="TypeSafe Jev Model Now Available via Official Direct Connection on apikey.fan · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/blockphd7/status/2114646988805341581">TypeSafe Jev Model Now Available via Official Direct Connection on apikey.fan</a></h3>
+<p>Jev is TypeSafe&#39;s System One decision model for structured tasks such as yes/no, classification, scoring, and object bounding boxes, not a chat substitute. The post notes apikey.fan has added TypeSafe official direct connection groups with versions jev-1.14.0 and jev-1.13.0.</p>
+<p><strong>143</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 143</p>
+<p><strong>Blockphd区块博士.Ai 🎒</strong> · @blockphd7</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/jmojeda/status/2114622135616544945"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622020147355648/img/Vjio2tfQA8bd7XMy.jpg" alt="Microsoft ships Decision-1 with Jev-compatible API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jmojeda/status/2114622135616544945">Microsoft ships Decision-1 with Jev-compatible API</a></h3>
-<p>Per the post, Microsoft-Decision-1 offers the same /v1/systemone contract and pricing as Jev. A single C# client can talk to Jev, Microsoft, and open-jev. Tests show 48 tickets fully routed with zero flips on reversed options.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>jmojeda</strong> · @jmojeda</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/gagan1v9/status/2114645751137718703"><img src="https://pbs.twimg.com/media/HVi7EaHbQAAnqW7?format=jpg&amp;name=medium" alt="SanSi: A Decision Model If Jev Had Anxiety · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gagan1v9/status/2114645751137718703">SanSi: A Decision Model If Jev Had Anxiety</a></h3>
+<p>The post introduces a decision model called SanSi, whose premise is essentially &quot;what if Jev had anxiety?&quot; Instead of deciding in one pass, it loops through the same states to refine its answer, improving accuracy just by overthinking.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><strong>Gagan Devagiri</strong> · @gagan1v9</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/ABArkTech_/status/2114653688165965874"><img src="https://pbs.twimg.com/amplify_video_thumb/2114653631408750592/img/Uv3FKmLpPUgzXcHy.jpg" alt="Jev: LLMs Write, Jev Decides · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ABArkTech_/status/2114653688165965874">Jev: LLMs Write, Jev Decides</a></h3>
+<p>A short post about Jev&#39;s different approach: LLMs generate answers while Jev makes decisions, reducing model calls, speeding up execution, and increasing control—highlighting smarter system design.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>AB Ark Solutions</strong> · @ABArkTech_</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/gagan1v9/status/2114645751137718703"><img src="https://pbs.twimg.com/media/HVi7EaHbQAAnqW7?format=jpg&amp;name=medium" alt="SanSi: A Decision Model If Jev Had Anxiety · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gagan1v9/status/2114645751137718703">SanSi: A Decision Model If Jev Had Anxiety</a></h3>
+<p>The post introduces a decision model called SanSi, whose premise is essentially &quot;what if Jev had anxiety?&quot; Instead of deciding in one pass, it loops through the same states to refine its answer, improving accuracy just by overthinking.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><strong>Gagan Devagiri</strong> · @gagan1v9</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
 <a href="https://x.com/vintcessun/status/2114638671450382373"><img src="https://pbs.twimg.com/media/HVi0qbZbwAEQG8S?format=png&amp;name=large" alt="Study on Jev&#39;s Probability Allocation in Multi-Answer Tasks · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/vintcessun/status/2114638671450382373">Study on Jev&#39;s Probability Allocation in Multi-Answer Tasks</a></h3>
 <p>The post shares a study on model behavior in multi-answer tasks: models can rank correct options before distractors yet still assign low probabilities to some correct items. The paper evaluates Jev and other models on MetaTool, HotpotQA, and ECtHR.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>恒星sun</strong> · @vintcessun</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/jmojeda/status/2114622135616544945"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622020147355648/img/Vjio2tfQA8bd7XMy.jpg" alt="Microsoft ships Decision-1 with Jev-compatible API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jmojeda/status/2114622135616544945">Microsoft ships Decision-1 with Jev-compatible API</a></h3>
-<p>Per the post, Microsoft-Decision-1 offers the same /v1/systemone contract and pricing as Jev. A single C# client can talk to Jev, Microsoft, and open-jev. Tests show 48 tickets fully routed with zero flips on reversed options.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>jmojeda</strong> · @jmojeda</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/ChanPerco/status/2114609478125416853"><img src="https://pbs.twimg.com/media/HViaHXEWcAAmIIP?format=jpg&amp;name=medium" alt="OpenAI launches Decisions API to compete with models like Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ChanPerco/status/2114609478125416853">OpenAI launches Decisions API to compete with models like Jev</a></h3>
-<p>According to the post, OpenAI is rolling out its Decisions API, aiming to compete with models such as Jev.</p>
-<p><strong>112</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 112</p>
-<p><strong>Jonathan Chan  💡📣</strong> · @ChanPerco</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/bitinblock/status/2114538088555053202"><img src="https://pbs.twimg.com/media/HVhXYboaAAEEqen?format=jpg&amp;name=medium" alt="Relay: Instant Signed Webhooks for AI Agents with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/bitinblock/status/2114538088555053202">Relay: Instant Signed Webhooks for AI Agents with TypeSafe&#39;s Jev</a></h3>
-<p>The author built Relay, giving AI agents instant signed webhooks without polling. Posts are labeled by TypeSafe&#39;s Jev and spam is capped.</p>
-<p><strong>34</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 34</p>
-<p><strong>bitinblock🐣</strong> · @bitinblock</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/YangEndGame/status/2114564453035614274"><img src="https://pbs.twimg.com/media/HVhxKZPXEAABgH0?format=jpg&amp;name=900x900" alt="What&#39;s the point of OpenJev if it&#39;s 25x slower than Jev? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/YangEndGame/status/2114564453035614274">What&#39;s the point of OpenJev if it&#39;s 25x slower than Jev?</a></h3>
+<p>The post questions OpenJev&#39;s 25x speed disadvantage versus Jev, suggesting cost efficiency may collapse even with better hardware.</p>
+<p><strong>3.9K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3.9K</p>
+<p><strong>Yang Liu</strong> · @YangEndGame</p>
 </td>
 </tr>
 </table>

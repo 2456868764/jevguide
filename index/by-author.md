@@ -960,6 +960,7 @@
 - [Aayan Agarwal](../authors/aayan-agarwal.md) — 1
 - [Aayush](../authors/aayush.md) — 1
 - [Aayushiii](../authors/aayushiii.md) — 1
+- [AB Ark Solutions](../authors/ab-ark-solutions.md) — 1
 - [Abdallah Shaban](../authors/abdallah-shaban.md) — 1
 - [abdel](../authors/abdel.md) — 1
 - [Abdennacer Badaoui](../authors/abdennacer-badaoui.md) — 1
@@ -1358,6 +1359,7 @@
 - [Blaylock](../authors/blaylock.md) — 1
 - [blkcatman](../authors/blkcatman.md) — 1
 - [Blockchainys](../authors/blockchainys.md) — 1
+- [Blockphd区块博士.Ai 🎒](../authors/blockphd区块博士-ai.md) — 1
 - [BloxStack](../authors/bloxstack.md) — 1
 - [Blue007｜Crypto × AI](../authors/blue007-crypto-ai.md) — 1
 - [blurrd.eth🛹](../authors/blurrd-eth.md) — 1
@@ -1911,6 +1913,7 @@
 - [Gabriel Pauli](../authors/gabriel-pauli.md) — 1
 - [Gabriel S Håndstad](../authors/gabriel-s-handstad.md) — 1
 - [Gaël Caporale](../authors/gael-caporale.md) — 1
+- [Gagan Devagiri](../authors/gagan-devagiri.md) — 1
 - [GameBot](../authors/gamebot.md) — 1
 - [Ganesh M](../authors/ganesh-m.md) — 1
 - [Ganesh Shanmugam](../authors/ganesh-shanmugam.md) — 1
@@ -2569,6 +2572,7 @@
 - [Mahesh Sathiamoorthy](../authors/mahesh-sathiamoorthy.md) — 1
 - [Mahesh Yadav](../authors/mahesh-yadav.md) — 1
 - [Mahmud Rafid](../authors/mahmud-rafid.md) — 1
+- [maikel](../authors/maikel.md) — 1
 - [Maincode](../authors/maincode.md) — 1
 - [Maker Jackie](../authors/maker-jackie.md) — 1
 - [makiris](../authors/makiris.md) — 1

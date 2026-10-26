@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 587 | 257 | 331 | 1.6M |
+| 589 | 258 | 332 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ABArkTech_/status/2114653688165965874"><img src="https://pbs.twimg.com/amplify_video_thumb/2114653631408750592/img/Uv3FKmLpPUgzXcHy.jpg" alt="Jev: LLMs Write, Jev Decides · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ABArkTech_/status/2114653688165965874">Jev: LLMs Write, Jev Decides</a></h3>
+<p>A short post about Jev&#39;s different approach: LLMs generate answers while Jev makes decisions, reducing model calls, speeding up execution, and increasing control—highlighting smarter system design.</p>
+<p><strong>中文摘要：</strong>短文介绍 Jev 的不同方法：由 LLM 生成回答，Jev 负责决策，以减少模型调用、加快执行并增强控制，强调更智能的系统设计。</p>
+<p><strong>AB Ark Solutions</strong> · @ABArkTech_ · 2026-10-26T09:41:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/ABArkTech_/status/2114653688165965874">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gagan1v9/status/2114645751137718703"><img src="https://pbs.twimg.com/media/HVi7EaHbQAAnqW7?format=jpg&amp;name=medium" alt="SanSi: A Decision Model If Jev Had Anxiety · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gagan1v9/status/2114645751137718703">SanSi: A Decision Model If Jev Had Anxiety</a></h3>
+<p>The post introduces a decision model called SanSi, whose premise is essentially &quot;what if Jev had anxiety?&quot; Instead of deciding in one pass, it loops through the same states to refine its answer, improving accuracy just by overthinking.</p>
+<p><strong>中文摘要：</strong>帖子介绍了名为 SanSi 的决策模型，其核心前提是“如果 Jev 有焦虑会怎样”。它不一次性做决定，而是通过循环遍历相同状态来反复细化答案，依靠“过度思考”提升准确性。</p>
+<p><strong>Gagan Devagiri</strong> · @gagan1v9 · 2026-10-26T09:10:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><a href="https://x.com/gagan1v9/status/2114645751137718703">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jmojeda/status/2114622830113669165"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622722835873792/img/ykDYcnysHXWVw0kk.jpg" alt="How Jev Works: A Comparison with Normal LLMs · 原帖视频截图" width="100%"></a>

@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T09:41:42.000Z | [Jev: LLMs Write, Jev Decides](https://x.com/ABArkTech_/status/2114653688165965874) | 工作原理 | AB Ark Solutions | 5 |
+| 2026-10-26T09:30:53.000Z | [jev-trader: An AI Model Trading on Every Monad Block](https://x.com/nqmaikel/status/2114650966918123679) | 金融 | maikel | 14 |
+| 2026-10-26T09:15:05.000Z | [TypeSafe Jev Model Now Available via Official Direct Connection on apikey.fan](https://x.com/blockphd7/status/2114646988805341581) | 接入动态 | Blockphd区块博士.Ai 🎒 | 143 |
+| 2026-10-26T09:10:09.000Z | [SanSi: A Decision Model If Jev Had Anxiety](https://x.com/gagan1v9/status/2114645751137718703) | 工作原理 | Gagan Devagiri | 13 |
 | 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
 | 2026-10-26T08:26:00.000Z | [Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14](https://x.com/defaiscope/status/2114634637331124661) | 开发者工具 | DeFAI Scope | 16 |
 | 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |
@@ -98,7 +102,3 @@
 | 2026-10-24T13:38:32.000Z | [LLM to Jev to CDM Flow](https://x.com/Citomba01/status/2113988512919773541) | 工作原理 | Ayush Mishra | 19 |
 | 2026-10-24T13:36:00.000Z | [Jev Decision Model: Probabilistic Check Before Agent Actions](https://x.com/omnirailorg/status/2113987876249604338) | 工作原理 | OmniRail | 108 |
 | 2026-10-24T13:06:32.000Z | [Seeing Jev once convinced me of its market potential](https://x.com/ifaris25/status/2113980460443607178) | 产品发布 | Faris | 39 |
-| 2026-10-24T12:52:18.000Z | [Jev Model Test Selection Benchmark](https://x.com/Adham__Khaled__/status/2113976880751653021) | 社区实践 | Adham | 56 |
-| 2026-10-24T12:46:56.000Z | [Free AI Models List Includes Jev](https://x.com/zazzy_stardust/status/2113975527820374068) | 社区实践 | Zazzy Stardust | 392 |
-| 2026-10-24T12:33:09.000Z | [TypeSafe Jev Model's "Massive Leak": Just 101 Probability Values](https://x.com/Aryan_Ali_Pro/status/2113972059239768175) | 工作原理 | Aryan | 12 |
-| 2026-10-24T12:14:40.000Z | [Jev Model Performance and Pricing Metrics](https://x.com/0xMukay/status/2113967410424283186) | 产品发布 | mukay | 94 |

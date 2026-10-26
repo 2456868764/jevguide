@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T19:30:11.000Z | [Jev Scores 1,000 Actions for 4 Cents](https://x.com/0xKarmi/status/2114801786871595120) | 开发者工具 | Karmi | 9 |
+| 2026-10-26T19:22:00.000Z | [Peking University Student Hires 2 AI Coworkers That Never Log Off with Jev](https://x.com/DonatelloXPro/status/2114799725647921455) | 智能体 | Donatello | 20 |
+| 2026-10-26T19:15:00.000Z | [Keeping AI Newsroom Honest with Jev](https://x.com/LiviLivinin/status/2114797963486883984) | 内容创作 | LIVI LIVIN.in | 1 |
 | 2026-10-26T14:09:10.000Z | [Grok Bot + Jev Integration Setup](https://x.com/Mahaximus_/status/2114720998679363705) | 自动化工作流 | Mahax | 113 |
 | 2026-10-26T14:09:01.000Z | [Open-Source Jev-Based Decision Solution](https://x.com/siriy1/status/2114720962730238374) | 开发资源 | Bardplus | 6 |
 | 2026-10-26T14:00:04.000Z | [Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks](https://x.com/davidwbressler/status/2114718710795506095) | 社区实践 | David Bressler | 3 |
@@ -99,6 +102,3 @@
 | 2026-10-25T03:40:56.000Z | [Using Jev to Improve Grok's Context Window Management](https://x.com/BoilerPaulie/status/2114200513403117672) | 开发者工具 | Paul Branham | 33 |
 | 2026-10-25T02:50:35.000Z | [Experience Integrating Jev into a Workflow](https://x.com/y_yoheyx/status/2114187840888381444) | 接入动态 | yohei | 18 |
 | 2026-10-25T01:21:53.000Z | [Dad uses Jev to build an app for his daughters' Lego car race](https://x.com/MiguelriosEN/status/2114165520010547468) | 社区实践 | Miguel Ríos Berríos | 175 |
-| 2026-10-25T01:16:31.000Z | [Jev vs Luna Cost Comparison: Caching Discount Affects Long-Prompt Choice](https://x.com/jon_mellon/status/2114164167792112090) | 社区实践 | Jon Mellon | 89 |
-| 2026-10-25T00:23:35.000Z | [Using Jev to Refine Narration](https://x.com/NeuralCatAccel/status/2114150844861935704) | 内容创作 | NeuralCat | 19 |
-| 2026-10-24T23:03:23.000Z | [JEV Neural Atlas Leak: Agent Event Bus Architecture Sparks Discussion](https://x.com/0xVarian/status/2114130661795574077) | 工作原理 | Varian | 423 |

@@ -86,6 +86,7 @@
 - [deezzex](../authors/deezzex.md) — 5
 - [DeFAI Scope](../authors/defai-scope.md) — 5
 - [Diogo Almeida](../authors/diogo-almeida.md) — 5
+- [Donatello](../authors/donatello.md) — 5
 - [Dr. Cheems Wang 🏡](../authors/dr-cheems-wang.md) — 5
 - [Elias Andualem](../authors/elias-andualem.md) — 5
 - [explos1ve](../authors/explos1ve.md) — 5
@@ -131,7 +132,6 @@
 - [Carlos Martinez](../authors/carlos-martinez.md) — 4
 - [Commisticholy](../authors/commisticholy.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
-- [Donatello](../authors/donatello.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
 - [Eric ⚡️ Building...](../authors/eric-building.md) — 4
 - [Erik Kokalj](../authors/erik-kokalj.md) — 4
@@ -2372,6 +2372,7 @@
 - [kapio](../authors/kapio.md) — 1
 - [Karina Q](../authors/karina-q.md) — 1
 - [Karl Weinmeister](../authors/karl-weinmeister.md) — 1
+- [Karmi](../authors/karmi.md) — 1
 - [Karo (Product with Attitude)](../authors/karo-product-with-attitude.md) — 1
 - [Karthik Varma](../authors/karthik-varma.md) — 1
 - [karthik vetrivel](../authors/karthik-vetrivel.md) — 1
@@ -2532,6 +2533,7 @@
 - [Lily](../authors/lily.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
+- [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1
 - [LLM-rg 750B Instruct (ryo_grid / Ryo Kanbayashi)](../authors/llm-rg-750b-instruct-ryo-grid-ryo-kanbayashi.md) — 1
 - [Logan](../authors/logan.md) — 1
 - [Logan Markewich](../authors/logan-markewich.md) — 1

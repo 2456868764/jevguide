@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6305</strong><br>curated posts</td>
-<td align="center"><strong>3147</strong><br>original videos</td>
+<td align="center"><strong>6308</strong><br>curated posts</td>
+<td align="center"><strong>3149</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,7 +34,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>636</strong> showcases · <strong>313</strong> videos</p>
+<p><strong>637</strong> showcases · <strong>314</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>502</strong> showcases · <strong>282</strong> videos</p>
+<p><strong>503</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>125</strong> showcases · <strong>89</strong> videos</p>
+<p><strong>126</strong> showcases · <strong>89</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xKarmi/status/2114801786871595120"><img src="https://pbs.twimg.com/amplify_video_thumb/2114801135621980160/img/cDHfjrGg1lkHaY61.jpg" alt="Jev Scores 1,000 Actions for 4 Cents · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xKarmi/status/2114801786871595120">Jev Scores 1,000 Actions for 4 Cents</a></h3>
+<p>Jev-guard plants a scoring model between Claude Code and every state-changing tool call. Reads pass through. Cost per check is roughly $0.00004, with three questions per call: risk on a 0-3 scale and whether an engineer would approve.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 9</p>
+<p><strong>Karmi</strong> · @0xKarmi</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/DonatelloXPro/status/2114799725647921455"><img src="https://pbs.twimg.com/amplify_video_thumb/2113911996164808704/img/S8CR1BebsvCdwYyY.jpg" alt="Peking University Student Hires 2 AI Coworkers That Never Log Off with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DonatelloXPro/status/2114799725647921455">Peking University Student Hires 2 AI Coworkers That Never Log Off with Jev</a></h3>
+<p>A 20-year-old Peking University student uses Jev to give two AI coworkers their own cloud computers for 24/7 autonomous work, placing a $25 gate before every send, refund, and delete while connecting 4,000+ apps including OpenAI and Grok Bot.</p>
+<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 20</p>
+<p><strong>Donatello</strong> · @DonatelloXPro</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
+<a href="https://x.com/LiviLivinin/status/2114797963486883984"><img src="https://pbs.twimg.com/media/HVjlrlWbcAAfQ8k?format=jpg&amp;name=medium" alt="Keeping AI Newsroom Honest with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/LiviLivinin/status/2114797963486883984">Keeping AI Newsroom Honest with Jev</a></h3>
+<p>The author explains how to keep an AI newsroom honest: every story drafted goes through Jev, built on TypeSafe AI System One, which flags claims unsupported by the brief. After a fix and recheck, if it still flags, a human decides. Nothing posts without human approval.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>LIVI LIVIN.in</strong> · @LiviLivinin</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
 <p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
 <p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
 <p><strong>Mahax</strong> · @Mahaximus_</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/siriy1/status/2114720962730238374"><img src="https://pbs.twimg.com/amplify_video_thumb/2114720497393160192/img/F8sRLzCwU9HgZ1_a.jpg" alt="Open-Source Jev-Based Decision Solution · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/siriy1/status/2114720962730238374">Open-Source Jev-Based Decision Solution</a></h3>
-<p>Sharing a recently open-sourced Jev-based decision solution, featuring robot control, progress estimation, and low-cost contact lookup.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Bardplus</strong> · @siriy1</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/davidwbressler/status/2114718710795506095"><img src="https://pbs.twimg.com/media/HVj9dglW0AA8Jmd?format=png&amp;name=medium" alt="Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/davidwbressler/status/2114718710795506095">Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks</a></h3>
-<p>Community member shares how using Jev with TF-IDF-retrieved examples improved accuracy on BANKING77, Emotion, CLINC150, and ContractNLI, with 12,671 total judgments.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>David Bressler</strong> · @davidwbressler</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/WasimJalali/status/2114718698594546067"><img src="https://pbs.twimg.com/media/HVBc-UYWwAAtQjW?format=jpg&amp;name=large" alt="Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WasimJalali/status/2114718698594546067">Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model</a></h3>
-<p>The post reports Day 5 of Decision Bench: Microsoft-Decision-1 leads with 96.4% accuracy, while Jev 1.13 trails by just one check, also noting hidden questions and noise comment costs.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xKarmi/status/2114801786871595120"><img src="https://pbs.twimg.com/amplify_video_thumb/2114801135621980160/img/cDHfjrGg1lkHaY61.jpg" alt="Jev Scores 1,000 Actions for 4 Cents · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xKarmi/status/2114801786871595120">Jev Scores 1,000 Actions for 4 Cents</a></h3>
+<p>Jev-guard plants a scoring model between Claude Code and every state-changing tool call. Reads pass through. Cost per check is roughly $0.00004, with three questions per call: risk on a 0-3 scale and whether an engineer would approve.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 9</p>
+<p><strong>Karmi</strong> · @0xKarmi</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
 <a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
 <p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
 <p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
 <p><strong>Mahax</strong> · @Mahaximus_</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/WasimJalali/status/2114718698594546067"><img src="https://pbs.twimg.com/media/HVBc-UYWwAAtQjW?format=jpg&amp;name=large" alt="Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WasimJalali/status/2114718698594546067">Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model</a></h3>
-<p>The post reports Day 5 of Decision Bench: Microsoft-Decision-1 leads with 96.4% accuracy, while Jev 1.13 trails by just one check, also noting hidden questions and noise comment costs.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/what_the_func/status/2114718377981665498"><img src="https://pbs.twimg.com/media/HVj9Gd2WQAAEIW7?format=jpg&amp;name=medium" alt="KIT SDK adds decision API with Jev model support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/what_the_func/status/2114718377981665498">KIT SDK adds decision API with Jev model support</a></h3>
-<p>Ed Zynda announced a new decision API in the KIT SDK, with out-of-the-box support for a variety of Jev-like models for decision-making needs.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Ed Zynda</strong> · @what_the_func</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/siriy1/status/2114720962730238374"><img src="https://pbs.twimg.com/amplify_video_thumb/2114720497393160192/img/F8sRLzCwU9HgZ1_a.jpg" alt="Open-Source Jev-Based Decision Solution · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/siriy1/status/2114720962730238374">Open-Source Jev-Based Decision Solution</a></h3>
+<p>Sharing a recently open-sourced Jev-based decision solution, featuring robot control, progress estimation, and low-cost contact lookup.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Bardplus</strong> · @siriy1</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/notiiivy/status/2114699285094707213"><img src="https://pbs.twimg.com/tweet_video_thumb/HVjrye7XQAAevKk.jpg" alt="Using Jev Integration for Low-Cost Lead Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/notiiivy/status/2114699285094707213">Using Jev Integration for Low-Cost Lead Generation</a></h3>
-<p>The author says Clay&#39;s people search costs $600/month, while the Jev integration offers 4,000+ endpoints at about $0.0089 per lead, and pulled a structured, verified lead list in under two minutes, showing a real-world Jev API workflow.</p>
-<p><strong>191</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 191</p>
-<p><strong>ivy</strong> · @notiiivy</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/NassirAI1/status/2114710408804368820"><img src="https://pbs.twimg.com/media/HVj1516WIAAh7xX?format=jpg&amp;name=medium" alt="Eryma: An LLM Security Project Using Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NassirAI1/status/2114710408804368820">Eryma: An LLM Security Project Using Jev</a></h3>
+<p>This project focuses on LLM security, using a modern decision model like Jev as a buffer layer and testing it with Garak, achieving a 98.86% improvement in detection hits.</p>
+<p><strong>62</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 62</p>
+<p><strong>Nassir</strong> · @NassirAI1</p>
 </td>
 </tr>
 </table>

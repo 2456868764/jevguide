@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T12:30:38.000Z | [Jev: A Cheaper Lead Gen Alternative](https://x.com/khushiirl/status/2114696204521197988) | 营销 | Khushi | 43 |
+| 2026-10-26T12:04:11.000Z | [Open-source people search powered by Jev, priced at $0.0089 per lead](https://x.com/shariqriazzz/status/2114689544444428603) | 开发资源 | Shariq Riaz | 7 |
+| 2026-10-26T11:52:30.000Z | [Build a launch list with Jev](https://x.com/ai_explorer25/status/2114686607223865681) | 营销 | AI_Explorer | 462 |
+| 2026-10-26T11:51:49.000Z | [Jev finds 12 verified creator emails in 4 minutes](https://x.com/athrix_codes/status/2114686432170463320) | 营销 | Athrix ☄️ | 403 |
+| 2026-10-26T11:50:13.000Z | [People search with Jev at $0.0089 per lead](https://x.com/tomosman/status/2114686032406872422) | 营销 | Tom Osman 🐦‍⬛ | 523 |
+| 2026-10-26T11:49:46.000Z | [Find Creator Partners Faster with Jev](https://x.com/droidbuilds/status/2114685919899046094) | 营销 | DROID | 3.7K |
+| 2026-10-26T11:38:50.000Z | [Using a Jev Agent to Create a GitHub Repo Explainer Video](https://x.com/architect_aliy/status/2114683167890399275) | 智能体 | Architect Aliy | 10 |
 | 2026-10-26T11:28:48.000Z | [JEV-powered people search finds prospects complaining about competitors on Reddit/X](https://x.com/tarasshyn/status/2114680642185101600) | 营销 | Taras | 33 |
 | 2026-10-26T11:22:55.000Z | [Treg AI's people search loop wired with Jev](https://x.com/justabdulraouf/status/2114679160182342033) | 营销 | abdul | 35 |
 | 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |
@@ -95,10 +102,3 @@
 | 2026-10-24T18:37:23.000Z | [Jev DevTools Updates: More Flow Methods and Cookbooks Porting](https://x.com/diegoarias941/status/2114063721441927401) | 开发者工具 | Diego Arias | 199 |
 | 2026-10-24T18:30:13.000Z | [TypeSafe AI connector brings Jev models to Integration Service](https://x.com/diego_turati/status/2114061917085929855) | 接入动态 | Diego Turati | 33 |
 | 2026-10-24T18:22:00.000Z | [Jev signal routing to filter input for Claude](https://x.com/thegreatest_sv/status/2114059850313609594) | 社区实践 | kiosa | 3.6K |
-| 2026-10-24T18:04:52.000Z | [Jev-Driven Trading: Grok Proposes, Jev Judges](https://x.com/0xGrimmer_/status/2114055537797337579) | 金融 | Grimmer | 618 |
-| 2026-10-24T18:00:00.000Z | [How to Ask Jev: State and Three Question Types](https://x.com/anbturki/status/2114054316432781563) | 社区实践 | Ali Turki \| علي تركي | 9 |
-| 2026-10-24T17:27:22.000Z | [Chess Matchup: Jev vs OpenAI Decisions API](https://x.com/itssotsot/status/2114046100189634934) | 游戏 | Sotiris Kaniras | 487 |
-| 2026-10-24T17:26:29.000Z | [Jev confidence per-check evaluation: routing costs and calibration issues](https://x.com/neosigma_ai/status/2114045879569244298) | 社区实践 | NeoSigma | 19 |
-| 2026-10-24T17:26:23.000Z | [Jev → Luna benchmark: 900 sessions for $1.30, Failure F1 0.768](https://x.com/neosigma_ai/status/2114045856387309784) | 社区实践 | NeoSigma | 23 |
-| 2026-10-24T17:26:20.000Z | [Routing Evaluation Setup for Jev and OpenAI's Decisions Model](https://x.com/neosigma_ai/status/2114045840843305128) | 社区实践 | NeoSigma | 28 |
-| 2026-10-24T17:15:51.000Z | [Jev cuts agent fleet monthly cost from $397 to $33](https://x.com/0x_rody/status/2114043203326509154) | 智能体 | rody | 1.5K |

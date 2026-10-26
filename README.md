@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6285</strong><br>curated posts</td>
-<td align="center"><strong>3133</strong><br>original videos</td>
+<td align="center"><strong>6292</strong><br>curated posts</td>
+<td align="center"><strong>3140</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>501</strong> showcases · <strong>281</strong> videos</p>
+<p><strong>502</strong> showcases · <strong>282</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>381</strong> showcases · <strong>153</strong> videos</p>
+<p><strong>382</strong> showcases · <strong>154</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>154</strong> showcases · <strong>116</strong> videos</p>
+<p><strong>159</strong> showcases · <strong>121</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/tarasshyn/status/2114680642185101600"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV-powered people search finds prospects complaining about competitors on Reddit/X · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tarasshyn/status/2114680642185101600">JEV-powered people search finds prospects complaining about competitors on Reddit/X</a></h3>
-<p>Taras shares @treg_ai&#39;s people search: with one prompt, find users complaining about competitors on Reddit and X, and get their names, job titles, and work emails. Powered by JEV with 4,000+ data endpoints, it surfaces dozens of potential customers in minutes.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
-<p><strong>Taras</strong> · @tarasshyn</p>
+<a href="https://x.com/khushiirl/status/2114696204521197988"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev: A Cheaper Lead Gen Alternative · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/khushiirl/status/2114696204521197988">Jev: A Cheaper Lead Gen Alternative</a></h3>
+<p>Jev claims to be 85% cheaper than Clay, with open-source code and pay-per-lead pricing instead of an expensive subscription, targeting lead generation.</p>
+<p><strong>43</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 43</p>
+<p><strong>Khushi</strong> · @khushiirl</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/justabdulraouf/status/2114679160182342033"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg AI&#39;s people search loop wired with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/justabdulraouf/status/2114679160182342033">Treg AI&#39;s people search loop wired with Jev</a></h3>
-<p>The post highlights @treg_ai&#39;s new people search loop wired with Jev, used to find people on X and Reddit complaining about specific tooling problems for GTM.</p>
-<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 35</p>
-<p><strong>abdul</strong> · @justabdulraouf</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/shariqriazzz/status/2114689544444428603"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Open-source people search powered by Jev, priced at $0.0089 per lead · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/shariqriazzz/status/2114689544444428603">Open-source people search powered by Jev, priced at $0.0089 per lead</a></h3>
+<p>Treg&#39;s Jev-powered people search is open source, priced at $0.0089 per lead with 0% markup.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><strong>Shariq Riaz</strong> · @shariqriazzz</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
-<a href="https://x.com/NovaXCode/status/2114678227503595720"><img src="https://pbs.twimg.com/media/HVjYoxMaQAA-Rci?format=jpg&amp;name=medium" alt="Find user leads with Jev at a fraction of the cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NovaXCode/status/2114678227503595720">Find user leads with Jev at a fraction of the cost</a></h3>
-<p>Nova shares how TypeSafe AI Jev quickly categorized and looked up leads across 4,000+ endpoints for just $1.49 for 292 lookups, 85% cheaper than Clay.</p>
-<p><strong>184</strong> views · 💬 7 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 184</p>
-<p><strong>Nova</strong> · @NovaXCode</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/ai_explorer25/status/2114686607223865681"><img src="https://pbs.twimg.com/amplify_video_thumb/2114686526399594496/img/Js88MW4pjoq8hVqQ.jpg" alt="Build a launch list with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ai_explorer25/status/2114686607223865681">Build a launch list with Jev</a></h3>
+<p>The author suggests using Jev with @treg_ai to find newsletter writers and creators who cover similar products, then organize their work, public business contacts, and a short pitch in one place for launch outreach.</p>
+<p><strong>462</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 462</p>
+<p><strong>AI_Explorer</strong> · @ai_explorer25</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/fern_kabu/status/2114677189035839492">Use Jev to detect hacking on all access and prevent leaks</a></h3>
-<p>A discussion about using Jev to judge hacking attempts on all access in order to prevent information leaks.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
-<p><strong>JTCの女</strong> · @fern_kabu</p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/athrix_codes/status/2114686432170463320"><img src="https://pbs.twimg.com/amplify_video_thumb/2114686404286631936/img/Q4f_o_Cs-uAdZNgo.jpg" alt="Jev finds 12 verified creator emails in 4 minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/athrix_codes/status/2114686432170463320">Jev finds 12 verified creator emails in 4 minutes</a></h3>
+<p>A developer used TypeSafe AI&#39;s Jev with Treg AI, spending about $0.20 to find 32 potential sharers, 24 qualified, and 12 verified emails for promoting their UI library.</p>
+<p><strong>403</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 403</p>
+<p><strong>Athrix ☄️</strong> · @athrix_codes</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/tarasshyn/status/2114680642185101600"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV-powered people search finds prospects complaining about competitors on Reddit/X · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tarasshyn/status/2114680642185101600">JEV-powered people search finds prospects complaining about competitors on Reddit/X</a></h3>
-<p>Taras shares @treg_ai&#39;s people search: with one prompt, find users complaining about competitors on Reddit and X, and get their names, job titles, and work emails. Powered by JEV with 4,000+ data endpoints, it surfaces dozens of potential customers in minutes.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
-<p><strong>Taras</strong> · @tarasshyn</p>
+<a href="https://x.com/khushiirl/status/2114696204521197988"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev: A Cheaper Lead Gen Alternative · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/khushiirl/status/2114696204521197988">Jev: A Cheaper Lead Gen Alternative</a></h3>
+<p>Jev claims to be 85% cheaper than Clay, with open-source code and pay-per-lead pricing instead of an expensive subscription, targeting lead generation.</p>
+<p><strong>43</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 43</p>
+<p><strong>Khushi</strong> · @khushiirl</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/fern_kabu/status/2114677189035839492">Use Jev to detect hacking on all access and prevent leaks</a></h3>
-<p>A discussion about using Jev to judge hacking attempts on all access in order to prevent information leaks.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
-<p><strong>JTCの女</strong> · @fern_kabu</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/athrix_codes/status/2114686432170463320"><img src="https://pbs.twimg.com/amplify_video_thumb/2114686404286631936/img/Q4f_o_Cs-uAdZNgo.jpg" alt="Jev finds 12 verified creator emails in 4 minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/athrix_codes/status/2114686432170463320">Jev finds 12 verified creator emails in 4 minutes</a></h3>
+<p>A developer used TypeSafe AI&#39;s Jev with Treg AI, spending about $0.20 to find 32 potential sharers, 24 qualified, and 12 verified emails for promoting their UI library.</p>
+<p><strong>403</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 19 &nbsp; 📊 403</p>
+<p><strong>Athrix ☄️</strong> · @athrix_codes</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/hiarun02/status/2114676539594064077"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg launches Jev-powered people search for AI agents to find leads · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/hiarun02/status/2114676539594064077">Treg launches Jev-powered people search for AI agents to find leads</a></h3>
-<p>Treg just launched a people search powered by Jev, letting AI agents find potential customers, founders, investors, and more, with structured data output at a fraction of traditional costs.</p>
-<p><strong>435</strong> views · 💬 13 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 435</p>
-<p><strong>Arun</strong> · @hiarun02</p>
+<a href="https://x.com/tomosman/status/2114686032406872422"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="People search with Jev at $0.0089 per lead · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tomosman/status/2114686032406872422">People search with Jev at $0.0089 per lead</a></h3>
+<p>The author shares how to use Treg + Jev (TypeSafe AI) for people search at $0.0089 per lead, plans a tutorial, and invites Clay/Apollo power users to DM.</p>
+<p><strong>523</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 523</p>
+<p><strong>Tom Osman 🐦‍⬛</strong> · @tomosman</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/hansnoed/status/2114663150922469573"><img src="https://pbs.twimg.com/media/HVjK7B8WQAAfeV2?format=jpg&amp;name=medium" alt="Generating infinite content from a single image and sound with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hansnoed/status/2114663150922469573">Generating infinite content from a single image and sound with Jev</a></h3>
-<p>The author mentions that, starting from at least one image and one sound, the machine can produce infinite output through manual manipulation or via Jev&#39;s probabilistic/random mechanism.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Ah Um</strong> · @hansnoed</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fern_kabu/status/2114677189035839492">Use Jev to detect hacking on all access and prevent leaks</a></h3>
+<p>A discussion about using Jev to judge hacking attempts on all access in order to prevent information leaks.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><strong>JTCの女</strong> · @fern_kabu</p>
 </td>
 </tr>
 </table>

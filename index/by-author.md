@@ -1043,6 +1043,7 @@
 - [AI 전문 정보 플랫폼 AI 매터스](../authors/ai-ai.md) — 1
 - [AI 카페인 ☕️](../authors/ai.md) — 1
 - [AI 码人士｜AI × 移动开发](../authors/ai-码人士-ai-移动开发.md) — 1
+- [AI_Explorer](../authors/ai-explorer.md) — 1
 - [AI_Pioneer](../authors/ai-pioneer.md) — 1
 - [AI/ML API](../authors/ai-ml-api.md) — 1
 - [aiasssistantstore](../authors/aiasssistantstore.md) — 1
@@ -1227,6 +1228,7 @@
 - [Arash Khajelou](../authors/arash-khajelou.md) — 1
 - [Arash Rabani](../authors/arash-rabani.md) — 1
 - [Archil Sharashenidze](../authors/archil-sharashenidze.md) — 1
+- [Architect Aliy](../authors/architect-aliy.md) — 1
 - [Archo](../authors/archo.md) — 1
 - [Arcveil](../authors/arcveil.md) — 1
 - [Argona](../authors/argona.md) — 1
@@ -1279,6 +1281,7 @@
 - [Ata Herrera 🇦🇷](../authors/ata-herrera.md) — 1
 - [Atai Barkai](../authors/atai-barkai.md) — 1
 - [atharva sindwani](../authors/atharva-sindwani.md) — 1
+- [Athrix ☄️](../authors/athrix.md) — 1
 - [Athulya](../authors/athulya.md) — 1
 - [ATK](../authors/atk.md) — 1
 - [attaimen](../authors/attaimen.md) — 1
@@ -1720,6 +1723,7 @@
 - [dresh](../authors/dresh.md) — 1
 - [drew ☤](../authors/drew.md) — 1
 - [DreykØ](../authors/dreyk.md) — 1
+- [DROID](../authors/droid.md) — 1
 - [Dropship Calendar](../authors/dropship-calendar.md) — 1
 - [DryHoleCo](../authors/dryholeco.md) — 1
 - [duckie](../authors/duckie.md) — 1
@@ -2410,6 +2414,7 @@
 - [Khajan Pandey](../authors/khajan-pandey.md) — 1
 - [kharthigeyan PS](../authors/kharthigeyan-ps.md) — 1
 - [Khasky](../authors/khasky.md) — 1
+- [Khushi](../authors/khushi.md) — 1
 - [Kiaan Mittal](../authors/kiaan-mittal.md) — 1
 - [Kid](../authors/kid.md) — 1
 - [Kieran](../authors/kieran.md) — 1
@@ -3380,6 +3385,7 @@
 - [Shaosu Liu](../authors/shaosu-liu.md) — 1
 - [Shapor Naghibzadeh](../authors/shapor-naghibzadeh.md) — 1
 - [Shariff Raffi](../authors/shariff-raffi.md) — 1
+- [Shariq Riaz](../authors/shariq-riaz.md) — 1
 - [Shashank Jha](../authors/shashank-jha.md) — 1
 - [Shashank Singh](../authors/shashank-singh.md) — 1
 - [Shawn Simister](../authors/shawn-simister.md) — 1
@@ -3657,6 +3663,7 @@
 - [Tom Dörr](../authors/tom-dorr.md) — 1
 - [Tom Hollands](../authors/tom-hollands.md) — 1
 - [Tom Johnson](../authors/tom-johnson.md) — 1
+- [Tom Osman 🐦‍⬛](../authors/tom-osman.md) — 1
 - [Tom Smialowski](../authors/tom-smialowski.md) — 1
 - [Tom Smith](../authors/tom-smith.md) — 1
 - [Tom Vaillant](../authors/tom-vaillant.md) — 1

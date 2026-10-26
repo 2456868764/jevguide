@@ -9,6 +9,7 @@
 - [Geek Lite](../authors/geek-lite.md) — 15
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 12
+- [plutos](../authors/plutos.md) — 12
 - [WTome](../authors/wtome.md) — 12
 - [恒星sun](../authors/恒星sun.md) — 12
 - [Asteri](../authors/asteri.md) — 11
@@ -16,7 +17,6 @@
 - [Daniel San](../authors/daniel-san.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
-- [plutos](../authors/plutos.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
@@ -913,6 +913,7 @@
 - [。](../authors/jev-showcase.md) — 1
 - [(術式反転) ɐuɐɯı̣ɥsoʎ](../authors/術式反転-u-so.md) — 1
 - [【公式】Codexアカデミア](../authors/公式-codex.md) — 1
+- [【公式】エスライン・テクノロジーズ - Google Partner認定 デジタルマーケティング企業](../authors/公式-google-partner認定-企業.md) — 1
 - [【公式】実務経営サービス | 税理士・会計事務所のお役立ち](../authors/公式-実務経営-税理士-会計事務所-役立.md) — 1
 - [＊nao＊✨配信支援ツール開発](../authors/nao-配信支援-開発.md) — 1
 - [&.](../authors/jev-showcase.md) — 1
@@ -952,6 +953,7 @@
 - [a16z](../authors/a16z.md) — 1
 - [AA Li](../authors/aa-li.md) — 1
 - [aadithva](../authors/aadithva.md) — 1
+- [Aanya](../authors/aanya.md) — 1
 - [Aarjav shah](../authors/aarjav-shah.md) — 1
 - [aaron](../authors/aaron.md) — 1
 - [Aaron Dishner](../authors/aaron-dishner.md) — 1
@@ -2161,6 +2163,7 @@
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
+- [ivy](../authors/ivy.md) — 1
 - [IwaKen](../authors/iwaken.md) — 1
 - [J-S---](../authors/j-s.md) — 1
 - [J.B.](../authors/j-b.md) — 1
@@ -3183,6 +3186,7 @@
 - [Rijn](../authors/rijn.md) — 1
 - [Rikin Shah](../authors/rikin-shah.md) — 1
 - [Rina W](../authors/rina-w.md) — 1
+- [RinX 🪐](../authors/rinx.md) — 1
 - [𝐑𝐢𝐫𝐢👾](../authors/riri.md) — 1
 - [Rishi Raj Jain](../authors/rishi-raj-jain.md) — 1
 - [Ritesh Biswas](../authors/ritesh-biswas.md) — 1

@@ -1,9 +1,10 @@
 # plutos
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T12:51:46.000Z | [Community Post: Jev vs Traditional Chatbots](https://x.com/plutos_eth/status/2114701522793578975) | 社区实践 | plutos | 681 |
 | 2026-10-25T16:28:40.000Z | [Jev: Choose from a list instead of writing paragraphs](https://x.com/plutos_eth/status/2114393716119003420) | 工作原理 | plutos | 1.1K |
 | 2026-10-24T11:48:13.000Z | [Jev answers with just one word, avoiding verbose AI replies](https://x.com/plutos_eth/status/2113960753564627294) | 客户支持 | plutos | 442 |
 | 2026-10-12T13:16:29.000Z | [Jev's Divide and Rule: Separating Writing from Decision](https://x.com/plutos_eth/status/2109634311003541657) | 工作原理 | plutos | 747 |

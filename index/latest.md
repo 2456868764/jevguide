@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T13:17:48.000Z | [Introducing Jev, a Person Search Service for AI Agents](https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489) | 产品发布 | 【公式】エスライン・テクノロジーズ - Google Partner認定 デジタルマーケティング企業 | 8 |
+| 2026-10-26T12:51:46.000Z | [Community Post: Jev vs Traditional Chatbots](https://x.com/plutos_eth/status/2114701522793578975) | 社区实践 | plutos | 681 |
+| 2026-10-26T12:42:53.000Z | [Using Jev Integration for Low-Cost Lead Generation](https://x.com/notiiivy/status/2114699285094707213) | 营销 | ivy | 191 |
+| 2026-10-26T12:38:28.000Z | [Find Leads at a Fraction of the Cost with Jev](https://x.com/xoaanya/status/2114698171838570898) | 营销 | Aanya | 361 |
+| 2026-10-26T12:34:28.000Z | [Find Customer Conversations with Jev](https://x.com/0xrinx/status/2114697168783040803) | 营销 | RinX 🪐 | 200 |
 | 2026-10-26T12:30:38.000Z | [Jev: A Cheaper Lead Gen Alternative](https://x.com/khushiirl/status/2114696204521197988) | 营销 | Khushi | 43 |
 | 2026-10-26T12:04:11.000Z | [Open-source people search powered by Jev, priced at $0.0089 per lead](https://x.com/shariqriazzz/status/2114689544444428603) | 开发资源 | Shariq Riaz | 7 |
 | 2026-10-26T11:52:30.000Z | [Build a launch list with Jev](https://x.com/ai_explorer25/status/2114686607223865681) | 营销 | AI_Explorer | 462 |
@@ -97,8 +102,3 @@
 | 2026-10-24T20:32:15.000Z | [Building a New Desktop Experience with Jev](https://x.com/eimen0/status/2114092631395652030) | 社区实践 | eimen | 2.7K |
 | 2026-10-24T20:28:00.000Z | [Jev + Opus 5.5 in Action](https://x.com/mika_systems/status/2114091561957130299) | 智能体 | Mika | 678 |
 | 2026-10-24T19:49:43.000Z | [Manga Explainer: Using MLflow and Jev to Check Replies (1/2)](https://x.com/hbryg5/status/2114081924595789843) | 开发者工具 | ゆん茶 「漫画で読めるAIニュース」 | 21 |
-| 2026-10-24T19:45:03.000Z | [OpenAI opens Decisions API, competing with JEV](https://x.com/BlueRockID/status/2114080750672785703) | 产品发布 | Max Belov \| BlueRock | 35 |
-| 2026-10-24T18:39:54.000Z | [Built an automated money-making system with Opus, Jev and other AI tools](https://x.com/Bober_smart/status/2114064355729740136) | 金融 | Bober_smart | 6.9K |
-| 2026-10-24T18:37:23.000Z | [Jev DevTools Updates: More Flow Methods and Cookbooks Porting](https://x.com/diegoarias941/status/2114063721441927401) | 开发者工具 | Diego Arias | 199 |
-| 2026-10-24T18:30:13.000Z | [TypeSafe AI connector brings Jev models to Integration Service](https://x.com/diego_turati/status/2114061917085929855) | 接入动态 | Diego Turati | 33 |
-| 2026-10-24T18:22:00.000Z | [Jev signal routing to filter input for Claude](https://x.com/thegreatest_sv/status/2114059850313609594) | 社区实践 | kiosa | 3.6K |

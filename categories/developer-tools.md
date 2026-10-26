@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 634 | 313 | 324 | 3.6M |
+| 636 | 313 | 326 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/what_the_func/status/2114718377981665498"><img src="https://pbs.twimg.com/media/HVj9Gd2WQAAEIW7?format=jpg&amp;name=medium" alt="KIT SDK adds decision API with Jev model support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/what_the_func/status/2114718377981665498">KIT SDK adds decision API with Jev model support</a></h3>
+<p>Ed Zynda announced a new decision API in the KIT SDK, with out-of-the-box support for a variety of Jev-like models for decision-making needs.</p>
+<p><strong>中文摘要：</strong>Ed Zynda 宣布为 KIT SDK 添加决策 API，开箱即用支持多种 Jev 类模型，满足各类决策需求。</p>
+<p><strong>Ed Zynda</strong> · @what_the_func · 2026-10-26T13:58:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/what_the_func/status/2114718377981665498">在 X 查看原帖</a> · <a href="https://t.co/WRxPCPkRFT">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ChinaAIDaily/status/2114713425981177867"><img src="https://pbs.twimg.com/media/HVj4pKZb0AE72ej?format=png&amp;name=small" alt="jevgrep: Find Files by Meaning with Jev, Not by Name · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChinaAIDaily/status/2114713425981177867">jevgrep: Find Files by Meaning with Jev, Not by Name</a></h3>
+<p>jevgrep (jg) uses Jev to determine relevance across folders, files, and declarations, outputting relevant files, reading cues, and source excerpts. It completes 8/10 tasks on a ten-task SWE-bench, matching baseline with ~30% lower cost, and auto-detects Claude Code / Codex / OpenCode.</p>
+<p><strong>中文摘要：</strong>jevgrep（jg）利用 Jev 跨文件夹、文件与声明判断相关性，输出相关文件、阅读线索和原文摘录。在十任务 SWE-bench 中与基线同样完成 8/10，成本约低 30%，并支持自动探测 Claude Code / Codex / OpenCode。</p>
+<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily · 2026-10-26T13:39:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/ChinaAIDaily/status/2114713425981177867">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/defaiscope/status/2114634637331124661"><img src="https://pbs.twimg.com/media/HVijYonXUAAiCs_?format=jpg&amp;name=medium" alt="Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14 · 原帖图片" width="100%"></a>

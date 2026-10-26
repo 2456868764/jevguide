@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6297</strong><br>curated posts</td>
-<td align="center"><strong>3145</strong><br>original videos</td>
+<td align="center"><strong>6305</strong><br>curated posts</td>
+<td align="center"><strong>3147</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1184</strong> showcases · <strong>493</strong> videos</p>
+<p><strong>1185</strong> showcases · <strong>493</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>634</strong> showcases · <strong>313</strong> videos</p>
+<p><strong>636</strong> showcases · <strong>313</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>382</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>383</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>274</strong> showcases · <strong>172</strong> videos</p>
+<p><strong>275</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>107</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>108</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>72</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>73</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -180,7 +180,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
 <p><sub>电商</sub></p>
-<p><strong>23</strong> showcases · <strong>19</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>19</strong> videos</p>
 <p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Introducing Jev, a Person Search Service for AI Agents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489">Introducing Jev, a Person Search Service for AI Agents</a></h3>
-<p>The post presents Jev, a person search service powered by Typesafeai, highlighting no $600 monthly subscription, $0.0089 per lead, claimed 85% cheaper than Clay, and top accuracy in person search benchmarks.</p>
-<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>【公式】エスライン・テクノロジーズ - Google Partner認定 デジタルマーケティング企業</strong> · @SLT_OFFICIAL_JP</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
+<p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
+<p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
+<p><strong>Mahax</strong> · @Mahaximus_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/plutos_eth/status/2114701522793578975"><img src="https://pbs.twimg.com/amplify_video_thumb/2114701089438101504/img/Rd5fmZKUQQ6aynvU.jpg" alt="Community Post: Jev vs Traditional Chatbots · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/plutos_eth/status/2114701522793578975">Community Post: Jev vs Traditional Chatbots</a></h3>
-<p>A user shares experience relying on one type of AI for emails and ticket routing for four years, noting Jev does not generate word-by-word but directly makes decisions, suggesting it suits classification and routing tasks.</p>
-<p><strong>681</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 681</p>
-<p><strong>plutos</strong> · @plutos_eth</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/siriy1/status/2114720962730238374"><img src="https://pbs.twimg.com/amplify_video_thumb/2114720497393160192/img/F8sRLzCwU9HgZ1_a.jpg" alt="Open-Source Jev-Based Decision Solution · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/siriy1/status/2114720962730238374">Open-Source Jev-Based Decision Solution</a></h3>
+<p>Sharing a recently open-sourced Jev-based decision solution, featuring robot control, progress estimation, and low-cost contact lookup.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Bardplus</strong> · @siriy1</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/notiiivy/status/2114699285094707213"><img src="https://pbs.twimg.com/tweet_video_thumb/HVjrye7XQAAevKk.jpg" alt="Using Jev Integration for Low-Cost Lead Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/notiiivy/status/2114699285094707213">Using Jev Integration for Low-Cost Lead Generation</a></h3>
-<p>The author says Clay&#39;s people search costs $600/month, while the Jev integration offers 4,000+ endpoints at about $0.0089 per lead, and pulled a structured, verified lead list in under two minutes, showing a real-world Jev API workflow.</p>
-<p><strong>191</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 191</p>
-<p><strong>ivy</strong> · @notiiivy</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/davidwbressler/status/2114718710795506095"><img src="https://pbs.twimg.com/media/HVj9dglW0AA8Jmd?format=png&amp;name=medium" alt="Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/davidwbressler/status/2114718710795506095">Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks</a></h3>
+<p>Community member shares how using Jev with TF-IDF-retrieved examples improved accuracy on BANKING77, Emotion, CLINC150, and ContractNLI, with 12,671 total judgments.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>David Bressler</strong> · @davidwbressler</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/xoaanya/status/2114698171838570898"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Find Leads at a Fraction of the Cost with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/xoaanya/status/2114698171838570898">Find Leads at a Fraction of the Cost with Jev</a></h3>
-<p>The post argues that you don&#39;t need to pay hundreds per month for leads—Treg + Jev can find prospects, work emails, and useful data for less than a dollar.</p>
-<p><strong>361</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 361</p>
-<p><strong>Aanya</strong> · @xoaanya</p>
+<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/WasimJalali/status/2114718698594546067"><img src="https://pbs.twimg.com/media/HVBc-UYWwAAtQjW?format=jpg&amp;name=large" alt="Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WasimJalali/status/2114718698594546067">Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model</a></h3>
+<p>The post reports Day 5 of Decision Bench: Microsoft-Decision-1 leads with 96.4% accuracy, while Jev 1.13 trails by just one check, also noting hidden questions and noise comment costs.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Introducing Jev, a Person Search Service for AI Agents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489">Introducing Jev, a Person Search Service for AI Agents</a></h3>
-<p>The post presents Jev, a person search service powered by Typesafeai, highlighting no $600 monthly subscription, $0.0089 per lead, claimed 85% cheaper than Clay, and top accuracy in person search benchmarks.</p>
-<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>【公式】エスライン・テクノロジーズ - Google Partner認定 デジタルマーケティング企業</strong> · @SLT_OFFICIAL_JP</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
+<p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
+<p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
+<p><strong>Mahax</strong> · @Mahaximus_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/xoaanya/status/2114698171838570898"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Find Leads at a Fraction of the Cost with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/xoaanya/status/2114698171838570898">Find Leads at a Fraction of the Cost with Jev</a></h3>
-<p>The post argues that you don&#39;t need to pay hundreds per month for leads—Treg + Jev can find prospects, work emails, and useful data for less than a dollar.</p>
-<p><strong>361</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 13 &nbsp; 📊 361</p>
-<p><strong>Aanya</strong> · @xoaanya</p>
+<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/WasimJalali/status/2114718698594546067"><img src="https://pbs.twimg.com/media/HVBc-UYWwAAtQjW?format=jpg&amp;name=large" alt="Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WasimJalali/status/2114718698594546067">Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model</a></h3>
+<p>The post reports Day 5 of Decision Bench: Microsoft-Decision-1 leads with 96.4% accuracy, while Jev 1.13 trails by just one check, also noting hidden questions and noise comment costs.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xrinx/status/2114697168783040803"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Find Customer Conversations with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xrinx/status/2114697168783040803">Find Customer Conversations with Jev</a></h3>
-<p>This post highlights that potential customers may already be complaining about the exact problem your product solves. Instead of guessing, Treg and Jev can help you discover those conversations on X or Reddit.</p>
-<p><strong>200</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 200</p>
-<p><strong>RinX 🪐</strong> · @0xrinx</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/what_the_func/status/2114718377981665498"><img src="https://pbs.twimg.com/media/HVj9Gd2WQAAEIW7?format=jpg&amp;name=medium" alt="KIT SDK adds decision API with Jev model support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/what_the_func/status/2114718377981665498">KIT SDK adds decision API with Jev model support</a></h3>
+<p>Ed Zynda announced a new decision API in the KIT SDK, with out-of-the-box support for a variety of Jev-like models for decision-making needs.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Ed Zynda</strong> · @what_the_func</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/droidbuilds/status/2114685919899046094"><img src="https://pbs.twimg.com/amplify_video_thumb/2114685611630272512/img/m_jMczAXj7cY7nPt.jpg" alt="Find Creator Partners Faster with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/droidbuilds/status/2114685919899046094">Find Creator Partners Faster with Jev</a></h3>
-<p>Use Treg and Jev to automatically find creator leads on X, organize data, and streamline outreach for startup promotion at just $0.0089 per lead.</p>
-<p><strong>3.7K</strong> views · 💬 27 &nbsp; 🔁 1 &nbsp; ♡ 36 &nbsp; 📊 3.7K</p>
-<p><strong>DROID</strong> · @droidbuilds</p>
+<a href="https://x.com/notiiivy/status/2114699285094707213"><img src="https://pbs.twimg.com/tweet_video_thumb/HVjrye7XQAAevKk.jpg" alt="Using Jev Integration for Low-Cost Lead Generation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/notiiivy/status/2114699285094707213">Using Jev Integration for Low-Cost Lead Generation</a></h3>
+<p>The author says Clay&#39;s people search costs $600/month, while the Jev integration offers 4,000+ endpoints at about $0.0089 per lead, and pulled a structured, verified lead list in under two minutes, showing a real-world Jev API workflow.</p>
+<p><strong>191</strong> views · 💬 3 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 191</p>
+<p><strong>ivy</strong> · @notiiivy</p>
 </td>
 </tr>
 </table>

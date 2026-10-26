@@ -630,6 +630,7 @@
 - [M Lakshmanan](../authors/m-lakshmanan.md) — 2
 - [Machine Learning](../authors/machine-learning.md) — 2
 - [Mahachai 🦇🔊](../authors/mahachai.md) — 2
+- [Mahax](../authors/mahax.md) — 2
 - [Mahi](../authors/mahi.md) — 2
 - [mana｜株式会社MakeAI CEO](../authors/mana-株式会社makeai-ceo.md) — 2
 - [Manny Bernabe](../authors/manny-bernabe.md) — 2
@@ -1313,6 +1314,7 @@
 - [Banandre](../authors/banandre.md) — 1
 - [banzaan](../authors/banzaan.md) — 1
 - [Baptiste JAN](../authors/baptiste-jan.md) — 1
+- [Bardplus](../authors/bardplus.md) — 1
 - [Bargava](../authors/bargava.md) — 1
 - [BARIK](../authors/barik.md) — 1
 - [Baris Terzioglu](../authors/baris-terzioglu.md) — 1
@@ -1476,6 +1478,7 @@
 - [Chetaslua](../authors/chetaslua.md) — 1
 - [Chia Y](../authors/chia-y.md) — 1
 - [Chihiro_ちぃ 3DCGとAI](../authors/chihiro-3dcg-ai.md) — 1
+- [ChinaAIDaily](../authors/chinaaidaily.md) — 1
 - [Chinh](../authors/chinh.md) — 1
 - [Chirag](../authors/chirag.md) — 1
 - [Chirag Asarpota](../authors/chirag-asarpota.md) — 1
@@ -1625,6 +1628,7 @@
 - [davert 🇺🇦](../authors/davert.md) — 1
 - [David](../authors/david.md) — 1
 - [David Arnal](../authors/david-arnal.md) — 1
+- [David Bressler](../authors/david-bressler.md) — 1
 - [david fant](../authors/david-fant.md) — 1
 - [david he](../authors/david-he.md) — 1
 - [David Kats](../authors/david-kats.md) — 1
@@ -1745,6 +1749,7 @@
 - [Echosphere](../authors/echosphere.md) — 1
 - [Ed Harrod](../authors/ed-harrod.md) — 1
 - [Ed Plese](../authors/ed-plese.md) — 1
+- [Ed Zynda](../authors/ed-zynda.md) — 1
 - [Eddie Bae](../authors/eddie-bae.md) — 1
 - [Eddycrypt](../authors/eddycrypt.md) — 1
 - [edos](../authors/edos.md) — 1
@@ -1811,6 +1816,7 @@
 - [Eshaan Kansal](../authors/eshaan-kansal.md) — 1
 - [Essence Solusoft](../authors/essence-solusoft.md) — 1
 - [Esteban](../authors/esteban.md) — 1
+- [Estuary](../authors/estuary.md) — 1
 - [ethan](../authors/ethan.md) — 1
 - [Ethan Abimelech](../authors/ethan-abimelech.md) — 1
 - [Ethan Kam](../authors/ethan-kam.md) — 1
@@ -2579,7 +2585,6 @@
 - [Maeve](../authors/maeve.md) — 1
 - [Magik](../authors/magik.md) — 1
 - [magithar](../authors/magithar.md) — 1
-- [Mahax](../authors/mahax.md) — 1
 - [Mahesh Lambe](../authors/mahesh-lambe.md) — 1
 - [Mahesh Nani](../authors/mahesh-nani.md) — 1
 - [Mahesh Patel](../authors/mahesh-patel.md) — 1
@@ -2830,6 +2835,7 @@
 - [Nas](../authors/nas.md) — 1
 - [Nashi3@デザイン担当（nil）](../authors/nashi3-担当-nil.md) — 1
 - [Nasir](../authors/nasir.md) — 1
+- [Nassir](../authors/nassir.md) — 1
 - [natalie](../authors/natalie.md) — 1
 - [Nate Berkopec](../authors/nate-berkopec.md) — 1
 - [Nate Pacyga](../authors/nate-pacyga.md) — 1
@@ -3817,6 +3823,7 @@
 - [WangErxi](../authors/wangerxi.md) — 1
 - [Wardah](../authors/wardah.md) — 1
 - [Warden](../authors/warden.md) — 1
+- [Wasim Jalali](../authors/wasim-jalali.md) — 1
 - [wassname (with fallback)](../authors/wassname-with-fallback.md) — 1
 - [wast3](../authors/wast3.md) — 1
 - [Wayne Culbreth](../authors/wayne-culbreth.md) — 1

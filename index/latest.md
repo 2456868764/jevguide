@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
+| 2026-10-26T08:26:00.000Z | [Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14](https://x.com/defaiscope/status/2114634637331124661) | 开发者工具 | DeFAI Scope | 16 |
 | 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |
 | 2026-10-26T07:36:19.000Z | [Microsoft ships Decision-1 with Jev-compatible API](https://x.com/jmojeda/status/2114622135616544945) | 接入动态 | jmojeda | 8 |
 | 2026-10-26T06:46:01.000Z | [OpenAI launches Decisions API to compete with models like Jev](https://x.com/ChanPerco/status/2114609478125416853) | 产品发布 | Jonathan Chan  💡📣 | 112 |
@@ -18,6 +20,7 @@
 | 2026-10-25T22:45:53.000Z | [TypeSafe AI Connector in Integration Service Brings in Jev Models](https://x.com/agentictesting/status/2114488646858371163) | 接入动态 | agentictesting | 22 |
 | 2026-10-25T22:45:46.000Z | [TypeSafe AI Integration Service Connector](https://x.com/mikebuttrum/status/2114488616969765301) | 开发者工具 | mike buttrum | 29 |
 | 2026-10-25T22:45:35.000Z | [TypeSafe AI Connector Now Integrates Jev Models](https://x.com/robots4testing/status/2114488570345820225) | 接入动态 | robots4testing | 19 |
+| 2026-10-25T22:00:13.000Z | [Jev 1.14 Released: Image Understanding and Long-Text Processing](https://x.com/brochchain/status/2114477155782402093) | 产品发布 | Ben | 46 |
 | 2026-10-25T20:49:49.000Z | [Putting Jev in the Hot Path of a Live Voice Call](https://x.com/mhgaber/status/2114459436446052444) | 接入动态 | Mohamed Gaber | 953 |
 | 2026-10-25T20:25:13.000Z | [JEV ran 10,000 decisions for $0.42](https://x.com/Walrus_systems/status/2114453249436881318) | 社区实践 | Walrus | 985 |
 | 2026-10-25T19:41:44.000Z | [JEV by TypeSafe for Bounded Workflow Judgment](https://x.com/innflow_ai/status/2114442303364362454) | 自动化工作流 | innflow | 31 |
@@ -99,6 +102,3 @@
 | 2026-10-24T12:46:56.000Z | [Free AI Models List Includes Jev](https://x.com/zazzy_stardust/status/2113975527820374068) | 社区实践 | Zazzy Stardust | 392 |
 | 2026-10-24T12:33:09.000Z | [TypeSafe Jev Model's "Massive Leak": Just 101 Probability Values](https://x.com/Aryan_Ali_Pro/status/2113972059239768175) | 工作原理 | Aryan | 12 |
 | 2026-10-24T12:14:40.000Z | [Jev Model Performance and Pricing Metrics](https://x.com/0xMukay/status/2113967410424283186) | 产品发布 | mukay | 94 |
-| 2026-10-24T11:48:13.000Z | [Jev answers with just one word, avoiding verbose AI replies](https://x.com/plutos_eth/status/2113960753564627294) | 客户支持 | plutos | 442 |
-| 2026-10-24T11:28:49.000Z | [DevMotion CLI adds natural language desktop recording](https://x.com/emadev01/status/2113955870442717628) | 开发者工具 | EmaDev | 24 |
-| 2026-10-24T11:21:30.000Z | [Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog](https://x.com/PresteignAI/status/2113954028635758833) | 社区实践 | Presteign | 4 |

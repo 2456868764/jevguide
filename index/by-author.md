@@ -10,6 +10,7 @@
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 12
 - [WTome](../authors/wtome.md) — 12
+- [恒星sun](../authors/恒星sun.md) — 12
 - [Asteri](../authors/asteri.md) — 11
 - [Cuth](../authors/cuth.md) — 11
 - [Daniel San](../authors/daniel-san.md) — 11
@@ -17,7 +18,6 @@
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
 - [plutos](../authors/plutos.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
-- [恒星sun](../authors/恒星sun.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
@@ -84,6 +84,7 @@
 - [Coach Shweta Bajaj](../authors/coach-shweta-bajaj.md) — 5
 - [Dan Kornas](../authors/dan-kornas.md) — 5
 - [deezzex](../authors/deezzex.md) — 5
+- [DeFAI Scope](../authors/defai-scope.md) — 5
 - [Diogo Almeida](../authors/diogo-almeida.md) — 5
 - [Dr. Cheems Wang 🏡](../authors/dr-cheems-wang.md) — 5
 - [Elias Andualem](../authors/elias-andualem.md) — 5
@@ -129,7 +130,6 @@
 - [Boyang & YUP](../authors/boyang-yup.md) — 4
 - [Carlos Martinez](../authors/carlos-martinez.md) — 4
 - [Commisticholy](../authors/commisticholy.md) — 4
-- [DeFAI Scope](../authors/defai-scope.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
 - [Donatello](../authors/donatello.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
@@ -439,6 +439,7 @@
 - [Barış Kısır](../authors/bar-s-k-s-r.md) — 2
 - [BashBash, the Builder ☀️](../authors/bashbash-the-builder.md) — 2
 - [belorix](../authors/belorix.md) — 2
+- [Ben](../authors/ben.md) — 2
 - [Bendik Nyheim](../authors/bendik-nyheim.md) — 2
 - [Benjamin](../authors/benjamin.md) — 2
 - [Benjamin Houy](../authors/benjamin-houy.md) — 2
@@ -1319,7 +1320,6 @@
 - [belbix](../authors/belbix.md) — 1
 - [Belusochim Ugochukwu](../authors/belusochim-ugochukwu.md) — 1
 - [Belveze Jules](../authors/belveze-jules.md) — 1
-- [Ben](../authors/ben.md) — 1
 - [Ben Chandler](../authors/ben-chandler.md) — 1
 - [Ben Dicken](../authors/ben-dicken.md) — 1
 - [Ben Dickson](../authors/ben-dickson.md) — 1

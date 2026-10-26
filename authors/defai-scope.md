@@ -1,9 +1,10 @@
 # DeFAI Scope
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T08:26:00.000Z | [Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14](https://x.com/defaiscope/status/2114634637331124661) | 开发者工具 | DeFAI Scope | 16 |
 | 2026-10-09T08:57:00.000Z | [Perplexity Decision Model Beats Jev in Medical Tests](https://x.com/defaiscope/status/2108481845277118648) | 医疗 | DeFAI Scope | 24 |
 | 2026-10-09T08:28:00.000Z | [Jev's Decision Confidence in Ticket Routing and Document Sorting Draws Attention](https://x.com/defaiscope/status/2108474547204702386) | 客户支持 | DeFAI Scope | 29 |
 | 2026-10-08T11:18:08.000Z | [Jev Router Performance on Agent Arena](https://x.com/defaiscope/status/2108154977562624294) | 科研 | DeFAI Scope | 34 |

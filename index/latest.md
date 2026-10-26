@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |
+| 2026-10-26T07:36:19.000Z | [Microsoft ships Decision-1 with Jev-compatible API](https://x.com/jmojeda/status/2114622135616544945) | 接入动态 | jmojeda | 8 |
+| 2026-10-26T06:46:01.000Z | [OpenAI launches Decisions API to compete with models like Jev](https://x.com/ChanPerco/status/2114609478125416853) | 产品发布 | Jonathan Chan  💡📣 | 112 |
+| 2026-10-26T06:02:47.000Z | [JEV filter-powered fully autonomous trading on Solana](https://x.com/mitchartgirl/status/2114598598654706055) | 金融 | 🅜🅘🅣🅒🅗🅘🅔 🅣🅗🅔 🅓🅔🅢🅘🅖🅝🅔🅡 | 33 |
+| 2026-10-26T03:47:06.000Z | [What's the point of OpenJev if it's 25x slower than Jev?](https://x.com/YangEndGame/status/2114564453035614274) | 社区实践 | Yang Liu | 3.9K |
 | 2026-10-26T03:10:11.000Z | [Clef and Microsoft Decision Models Announced Jev-API Compatibility](https://x.com/KOIYAL_AI/status/2114555161310113885) | 接入动态 | AI時代のインハウス経営支援 \| KOIYAL | 4 |
 | 2026-10-26T02:49:58.000Z | [Returning to a dual-tool workflow with Claude and Jev](https://x.com/yozure5/status/2114550074193903987) | 社区实践 | yozure🔥お疲れ様でした！！！！！ | 18 |
 | 2026-10-26T02:22:33.000Z | [Rebuilding website review with TypeSafe Jev API](https://x.com/fzzzan/status/2114543174324736020) | 社区实践 | Faiz Azizan | 46 |
@@ -97,8 +102,3 @@
 | 2026-10-24T11:48:13.000Z | [Jev answers with just one word, avoiding verbose AI replies](https://x.com/plutos_eth/status/2113960753564627294) | 客户支持 | plutos | 442 |
 | 2026-10-24T11:28:49.000Z | [DevMotion CLI adds natural language desktop recording](https://x.com/emadev01/status/2113955870442717628) | 开发者工具 | EmaDev | 24 |
 | 2026-10-24T11:21:30.000Z | [Jev Goes from Trendy to De Facto, User Re-reads TypeSafe Blog](https://x.com/PresteignAI/status/2113954028635758833) | 社区实践 | Presteign | 4 |
-| 2026-10-24T11:16:00.000Z | [Jev Judges SPY Every Second: 14,285 Decisions in 4 Hours, 1 Win 1 Draw 9 Losses](https://x.com/T_I_SHOW/status/2113952643131506758) | 金融 | 大将 | 80 |
-| 2026-10-24T09:33:55.000Z | [What the Jev model costs per month on OpenRouter](https://x.com/dimon3m/status/2113926954650866082) | 开发资源 | Dima \| AI at Sea | 4 |
-| 2026-10-24T09:19:50.000Z | [Jev as a Decision Model to Improve RAG Pipeline Efficiency](https://x.com/KaiWaehner/status/2113923408844976178) | 知识与搜索 | Kai Wähner | 26 |
-| 2026-10-24T08:53:42.000Z | [Jev Model Performs Well in Multi-Agent Group Chat Decision-Making](https://x.com/codersoar/status/2113916832621162714) | 智能体 | soar | 61 |
-| 2026-10-24T08:22:23.000Z | [DeepEval Launches JevEval: Use Jev as an Evaluation Judge](https://x.com/NFT_Chen/status/2113908951289049599) | 开发者工具 | SuSu_酥酥👅 | 1.3K |

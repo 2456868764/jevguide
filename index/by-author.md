@@ -573,6 +573,7 @@
 - [Jay Derinbogaz](../authors/jay-derinbogaz.md) — 2
 - [JayBuidl.eth](../authors/jaybuidl-eth.md) — 2
 - [Jevbook](../authors/jevbook.md) — 2
+- [jmojeda](../authors/jmojeda.md) — 2
 - [Joao Bortotti](../authors/joao-bortotti.md) — 2
 - [John](../authors/john.md) — 2
 - [John Berryman](../authors/john-berryman.md) — 2
@@ -2263,6 +2264,7 @@
 - [Johnny ](../authors/johnny.md) — 1
 - [Jon Taylor](../authors/jon-taylor.md) — 1
 - [Jonah](../authors/jonah.md) — 1
+- [Jonathan Chan  💡📣](../authors/jonathan-chan.md) — 1
 - [Jonathan Ellis](../authors/jonathan-ellis.md) — 1
 - [Jonathan Hu](../authors/jonathan-hu.md) — 1
 - [Jonathan Kleiman](../authors/jonathan-kleiman.md) — 1
@@ -2719,6 +2721,7 @@
 - [Misch Strotz](../authors/misch-strotz.md) — 1
 - [MiSteR Kitti](../authors/mister-kitti.md) — 1
 - [Mitchell Bernstein](../authors/mitchell-bernstein.md) — 1
+- [🅜🅘🅣🅒🅗🅘🅔 🅣🅗🅔 🅓🅔🅢🅘🅖🅝🅔🅡](../authors/jev-showcase.md) — 1
 - [mithun shanbhag](../authors/mithun-shanbhag.md) — 1
 - [mitraalice1](../authors/mitraalice1.md) — 1
 - [mittooney | RobloxDev | NOLF](../authors/mittooney-robloxdev-nolf.md) — 1
@@ -3860,6 +3863,7 @@
 - [Yaironen](../authors/yaironen.md) — 1
 - [Yajat Gulati](../authors/yajat-gulati.md) — 1
 - [YAMADAI🌐AI×DXコンサル](../authors/yamadai-ai-dx.md) — 1
+- [Yang Liu](../authors/yang-liu.md) — 1
 - [Yanir Tsarimi](../authors/yanir-tsarimi.md) — 1
 - [Yaniv Presler](../authors/yaniv-presler.md) — 1
 - [Yannis](../authors/yannis.md) — 1

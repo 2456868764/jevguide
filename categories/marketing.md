@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 148 | 111 | 37 | 904K |
+| 154 | 116 | 38 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tarasshyn/status/2114680642185101600"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV-powered people search finds prospects complaining about competitors on Reddit/X · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tarasshyn/status/2114680642185101600">JEV-powered people search finds prospects complaining about competitors on Reddit/X</a></h3>
+<p>Taras shares @treg_ai&#39;s people search: with one prompt, find users complaining about competitors on Reddit and X, and get their names, job titles, and work emails. Powered by JEV with 4,000+ data endpoints, it surfaces dozens of potential customers in minutes.</p>
+<p><strong>中文摘要：</strong>Taras 分享 @treg_ai 的人物搜索功能：可通过一个提示词找到在 Reddit 和 X 上抱怨竞品的用户，并获取姓名、职位和工作邮箱。该能力由 JEV 提供，覆盖 4000+ 数据端点，可在几分钟内获得大量潜在客户。</p>
+<p><strong>Taras</strong> · @tarasshyn · 2026-10-26T11:28:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><a href="https://x.com/tarasshyn/status/2114680642185101600">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/justabdulraouf/status/2114679160182342033"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg AI&#39;s people search loop wired with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/justabdulraouf/status/2114679160182342033">Treg AI&#39;s people search loop wired with Jev</a></h3>
+<p>The post highlights @treg_ai&#39;s new people search loop wired with Jev, used to find people on X and Reddit complaining about specific tooling problems for GTM.</p>
+<p><strong>中文摘要：</strong>帖子介绍 @treg_ai 的新人群搜索循环已接入 Jev，可帮助在 X 和 Reddit 上找到正在抱怨特定工具问题的潜在用户，用于 GTM 场景。</p>
+<p><strong>abdul</strong> · @justabdulraouf · 2026-10-26T11:22:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 35</p>
+<p><a href="https://x.com/justabdulraouf/status/2114679160182342033">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NovaXCode/status/2114678227503595720"><img src="https://pbs.twimg.com/media/HVjYoxMaQAA-Rci?format=jpg&amp;name=medium" alt="Find user leads with Jev at a fraction of the cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/NovaXCode/status/2114678227503595720">Find user leads with Jev at a fraction of the cost</a></h3>
+<p>Nova shares how TypeSafe AI Jev quickly categorized and looked up leads across 4,000+ endpoints for just $1.49 for 292 lookups, 85% cheaper than Clay.</p>
+<p><strong>中文摘要：</strong>Nova分享使用TypeSafe AI Jev在4000+端点中快速分类和查找线索，仅花费1.49美元完成292次查询，比Clay便宜85%。</p>
+<p><strong>Nova</strong> · @NovaXCode · 2026-10-26T11:19:12.000Z</p>
+<p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 184</p>
+<p><a href="https://x.com/NovaXCode/status/2114678227503595720">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hiarun02/status/2114676539594064077"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg launches Jev-powered people search for AI agents to find leads · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hiarun02/status/2114676539594064077">Treg launches Jev-powered people search for AI agents to find leads</a></h3>
+<p>Treg just launched a people search powered by Jev, letting AI agents find potential customers, founders, investors, and more, with structured data output at a fraction of traditional costs.</p>
+<p><strong>中文摘要：</strong>Treg 刚刚发布了由 Jev 驱动的人物搜索，AI 代理可以查找潜在客户、创始人、投资者等，并获取结构化数据，成本远低于传统渠道。</p>
+<p><strong>Arun</strong> · @hiarun02 · 2026-10-26T11:12:30.000Z</p>
+<p>💬 13 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 435</p>
+<p><a href="https://x.com/hiarun02/status/2114676539594064077">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/shub0414/status/2114675763383620033"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev for Cost-Effective Lead Generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/shub0414/status/2114675763383620033">Jev for Cost-Effective Lead Generation</a></h3>
+<p>Comparing $600/month versus $0.0089 per lead, Treg + Jev uses AI agents to find prospects at a fraction of the cost with structured, actionable data.</p>
+<p><strong>中文摘要：</strong>对比每月600美元与每条线索0.0089美元的成本，Treg + Jev 通过 AI 代理以极低价格找到潜在客户，并提供可直接使用的结构化数据。</p>
+<p><strong>Shub</strong> · @shub0414 · 2026-10-26T11:09:25.000Z</p>
+<p>💬 15 &nbsp; 🔁 1 &nbsp; ♡ 21 &nbsp; 📊 440</p>
+<p><a href="https://x.com/shub0414/status/2114675763383620033">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jasonzhou1993/status/2114675661113848294"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev pre-screens leads to cut data costs · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jasonzhou1993/status/2114675661113848294">Jev pre-screens leads to cut data costs</a></h3>
+<p>Jev screens 320 profiles first, then only pays for lookups on the 96 that pass, avoiding wasted spend on leads you&#39;d never email.</p>
+<p><strong>中文摘要：</strong>Jev先筛选320个客户画像，96个通过后才进行付费查询，避免为最终不会联系的无效线索付费。</p>
+<p><strong>Jason Zhou</strong> · @jasonzhou1993 · 2026-10-26T11:09:01.000Z</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 16 &nbsp; 📊 740</p>
+<p><a href="https://x.com/jasonzhou1993/status/2114675661113848294">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ericosiu/status/2114508160673206579"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114507987498749952/pu/img/h3JQIxGxMhDXfYIs.jpg" alt="Jev: Audit Brand AI Visibility for Pennies · 原帖视频截图" width="100%"></a>

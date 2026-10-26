@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6275</strong><br>curated posts</td>
-<td align="center"><strong>3126</strong><br>original videos</td>
+<td align="center"><strong>6285</strong><br>curated posts</td>
+<td align="center"><strong>3133</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>500</strong> showcases · <strong>281</strong> videos</p>
+<p><strong>501</strong> showcases · <strong>281</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>273</strong> showcases · <strong>171</strong> videos</p>
+<p><strong>274</strong> showcases · <strong>172</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>148</strong> showcases · <strong>111</strong> videos</p>
+<p><strong>154</strong> showcases · <strong>116</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>127</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>128</strong> showcases · <strong>64</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>71</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>72</strong> showcases · <strong>23</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/hansnoed/status/2114663150922469573"><img src="https://pbs.twimg.com/media/HVjK7B8WQAAfeV2?format=jpg&amp;name=medium" alt="Generating infinite content from a single image and sound with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hansnoed/status/2114663150922469573">Generating infinite content from a single image and sound with Jev</a></h3>
-<p>The author mentions that, starting from at least one image and one sound, the machine can produce infinite output through manual manipulation or via Jev&#39;s probabilistic/random mechanism.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Ah Um</strong> · @hansnoed</p>
+<p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/tarasshyn/status/2114680642185101600"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV-powered people search finds prospects complaining about competitors on Reddit/X · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tarasshyn/status/2114680642185101600">JEV-powered people search finds prospects complaining about competitors on Reddit/X</a></h3>
+<p>Taras shares @treg_ai&#39;s people search: with one prompt, find users complaining about competitors on Reddit and X, and get their names, job titles, and work emails. Powered by JEV with 4,000+ data endpoints, it surfaces dozens of potential customers in minutes.</p>
+<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><strong>Taras</strong> · @tarasshyn</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/interstella1415/status/2114658622072586509"><img src="https://pbs.twimg.com/amplify_video_thumb/2114655738580881408/img/K5H8IanoIEjIpBtr.jpg" alt="What is Jev? What can it do? Explained in a 1-minute video · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/interstella1415/status/2114658622072586509">What is Jev? What can it do? Explained in a 1-minute video</a></h3>
-<p>A community member summarizes the trending Jev and its capabilities in a one-minute video, referencing TypeSafeAI.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Interstella</strong> · @interstella1415</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/justabdulraouf/status/2114679160182342033"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg AI&#39;s people search loop wired with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/justabdulraouf/status/2114679160182342033">Treg AI&#39;s people search loop wired with Jev</a></h3>
+<p>The post highlights @treg_ai&#39;s new people search loop wired with Jev, used to find people on X and Reddit complaining about specific tooling problems for GTM.</p>
+<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 35</p>
+<p><strong>abdul</strong> · @justabdulraouf</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/liran_tal/status/2114657271527436427"><img src="https://pbs.twimg.com/media/HVjFi50WMAAy_xR?format=png&amp;name=900x900" alt="Jev 1.14 Image Support and Security Camera Use Case · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/liran_tal/status/2114657271527436427">Jev 1.14 Image Support and Security Camera Use Case</a></h3>
-<p>The author mentions using TypeSafe&#39;s Jev 1.14 model for image object annotation and explores connecting it to security cameras for scenarios like detecting if a child is in a pool.</p>
-<p><strong>107</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 107</p>
-<p><strong>Liran Tal</strong> · @liran_tal</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
+<a href="https://x.com/NovaXCode/status/2114678227503595720"><img src="https://pbs.twimg.com/media/HVjYoxMaQAA-Rci?format=jpg&amp;name=medium" alt="Find user leads with Jev at a fraction of the cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NovaXCode/status/2114678227503595720">Find user leads with Jev at a fraction of the cost</a></h3>
+<p>Nova shares how TypeSafe AI Jev quickly categorized and looked up leads across 4,000+ endpoints for just $1.49 for 292 lookups, 85% cheaper than Clay.</p>
+<p><strong>184</strong> views · 💬 7 &nbsp; 🔁 1 &nbsp; ♡ 11 &nbsp; 📊 184</p>
+<p><strong>Nova</strong> · @NovaXCode</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/ABArkTech_/status/2114653688165965874"><img src="https://pbs.twimg.com/amplify_video_thumb/2114653631408750592/img/Uv3FKmLpPUgzXcHy.jpg" alt="Jev: LLMs Write, Jev Decides · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ABArkTech_/status/2114653688165965874">Jev: LLMs Write, Jev Decides</a></h3>
-<p>A short post about Jev&#39;s different approach: LLMs generate answers while Jev makes decisions, reducing model calls, speeding up execution, and increasing control—highlighting smarter system design.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>AB Ark Solutions</strong> · @ABArkTech_</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fern_kabu/status/2114677189035839492">Use Jev to detect hacking on all access and prevent leaks</a></h3>
+<p>A discussion about using Jev to judge hacking attempts on all access in order to prevent information leaks.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><strong>JTCの女</strong> · @fern_kabu</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/tarasshyn/status/2114680642185101600"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV-powered people search finds prospects complaining about competitors on Reddit/X · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tarasshyn/status/2114680642185101600">JEV-powered people search finds prospects complaining about competitors on Reddit/X</a></h3>
+<p>Taras shares @treg_ai&#39;s people search: with one prompt, find users complaining about competitors on Reddit and X, and get their names, job titles, and work emails. Powered by JEV with 4,000+ data endpoints, it surfaces dozens of potential customers in minutes.</p>
+<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
+<p><strong>Taras</strong> · @tarasshyn</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fern_kabu/status/2114677189035839492">Use Jev to detect hacking on all access and prevent leaks</a></h3>
+<p>A discussion about using Jev to judge hacking attempts on all access in order to prevent information leaks.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><strong>JTCの女</strong> · @fern_kabu</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/hiarun02/status/2114676539594064077"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Treg launches Jev-powered people search for AI agents to find leads · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/hiarun02/status/2114676539594064077">Treg launches Jev-powered people search for AI agents to find leads</a></h3>
+<p>Treg just launched a people search powered by Jev, letting AI agents find potential customers, founders, investors, and more, with structured data output at a fraction of traditional costs.</p>
+<p><strong>435</strong> views · 💬 13 &nbsp; 🔁 1 &nbsp; ♡ 17 &nbsp; 📊 435</p>
+<p><strong>Arun</strong> · @hiarun02</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
 <a href="https://x.com/hansnoed/status/2114663150922469573"><img src="https://pbs.twimg.com/media/HVjK7B8WQAAfeV2?format=jpg&amp;name=medium" alt="Generating infinite content from a single image and sound with Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/hansnoed/status/2114663150922469573">Generating infinite content from a single image and sound with Jev</a></h3>
 <p>The author mentions that, starting from at least one image and one sound, the machine can produce infinite output through manual manipulation or via Jev&#39;s probabilistic/random mechanism.</p>
 <p><strong>22</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 22</p>
 <p><strong>Ah Um</strong> · @hansnoed</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/ABArkTech_/status/2114653688165965874"><img src="https://pbs.twimg.com/amplify_video_thumb/2114653631408750592/img/Uv3FKmLpPUgzXcHy.jpg" alt="Jev: LLMs Write, Jev Decides · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ABArkTech_/status/2114653688165965874">Jev: LLMs Write, Jev Decides</a></h3>
-<p>A short post about Jev&#39;s different approach: LLMs generate answers while Jev makes decisions, reducing model calls, speeding up execution, and increasing control—highlighting smarter system design.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>AB Ark Solutions</strong> · @ABArkTech_</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/nqmaikel/status/2114650966918123679"><img src="https://pbs.twimg.com/media/HVi_10SX0AApVL9?format=jpg&amp;name=medium" alt="jev-trader: An AI Model Trading on Every Monad Block · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nqmaikel/status/2114650966918123679">jev-trader: An AI Model Trading on Every Monad Block</a></h3>
-<p>jev-trader is an AI trading project that makes one buy or sell decision on every Monad block (~300 ms) and quotes it on the Kuru order book. It features a no-private-key dry run mode: real order book with simulated fills, letting you watch it trade without funding a wallet. The project has 3,087 stars on GitHub.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>maikel</strong> · @nqmaikel</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/jmojeda/status/2114622135616544945"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622020147355648/img/Vjio2tfQA8bd7XMy.jpg" alt="Microsoft ships Decision-1 with Jev-compatible API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/jmojeda/status/2114622135616544945">Microsoft ships Decision-1 with Jev-compatible API</a></h3>
-<p>Per the post, Microsoft-Decision-1 offers the same /v1/systemone contract and pricing as Jev. A single C# client can talk to Jev, Microsoft, and open-jev. Tests show 48 tickets fully routed with zero flips on reversed options.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>jmojeda</strong> · @jmojeda</p>
 </td>
 </tr>
 </table>

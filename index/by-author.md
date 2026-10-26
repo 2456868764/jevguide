@@ -147,6 +147,7 @@
 - [HOPE | Engineer.](../authors/hope-engineer.md) — 4
 - [iamrobinvv](../authors/iamrobinvv.md) — 4
 - [jaffa](../authors/jaffa.md) — 4
+- [Jason Zhou](../authors/jason-zhou.md) — 4
 - [Jayant](../authors/jayant.md) — 4
 - [Jerry Hong](../authors/jerry-hong.md) — 4
 - [Josef Andre](../authors/josef-andre.md) — 4
@@ -255,7 +256,6 @@
 - [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 3
 - [Jamie Watters](../authors/jamie-watters.md) — 3
 - [𝑱𝑨𝑴𝑰𝑵𝑶](../authors/jamino.md) — 3
-- [Jason Zhou](../authors/jason-zhou.md) — 3
 - [Jay Song](../authors/jay-song.md) — 3
 - [Jerry Liu](../authors/jerry-liu.md) — 3
 - [JLarky](../authors/jlarky.md) — 3
@@ -339,6 +339,7 @@
 - [Sumjit](../authors/sumjit.md) — 3
 - [Sunil Mehta](../authors/sunil-mehta.md) — 3
 - [Takashi Minoda](../authors/takashi-minoda.md) — 3
+- [Taras](../authors/taras.md) — 3
 - [tekario](../authors/tekario.md) — 3
 - [Tekki](../authors/tekki.md) — 3
 - [Tessl](../authors/tessl.md) — 3
@@ -395,6 +396,7 @@
 - [adlrocha](../authors/adlrocha.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
 - [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
+- [AI Builder Club](../authors/ai-builder-club.md) — 2
 - [Ai Demo（アイデモ）](../authors/ai-demo.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
 - [AionForge](../authors/aionforge.md) — 2
@@ -797,7 +799,6 @@
 - [Taj You_Know](../authors/taj-you-know.md) — 2
 - [Taka Tech](../authors/taka-tech.md) — 2
 - [Tanay](../authors/tanay.md) — 2
-- [Taras](../authors/taras.md) — 2
 - [Tatenda Zhou](../authors/tatenda-zhou.md) — 2
 - [TechVerser](../authors/techverser.md) — 2
 - [Tetsuro Miyatake](../authors/tetsuro-miyatake.md) — 2
@@ -814,6 +815,7 @@
 - [Tony Simons](../authors/tony-simons.md) — 2
 - [Tornike Gomareli](../authors/tornike-gomareli.md) — 2
 - [Towards Data Science](../authors/towards-data-science.md) — 2
+- [Treg](../authors/treg.md) — 2
 - [Troy Tessalone | Automation Ace ⚡️](../authors/troy-tessalone-automation-ace.md) — 2
 - [Tugrul Guner](../authors/tugrul-guner.md) — 2
 - [ucchy / Yuki Uchida](../authors/ucchy-yuki-uchida.md) — 2
@@ -966,6 +968,7 @@
 - [Abdennacer Badaoui](../authors/abdennacer-badaoui.md) — 1
 - [Abderrahmen Gharsallah](../authors/abderrahmen-gharsallah.md) — 1
 - [Abdessamad id](../authors/abdessamad-id.md) — 1
+- [abdul](../authors/abdul.md) — 1
 - [abdullah a | مبرمج](../authors/abdullah-a.md) — 1
 - [Abdullah Norain, MD](../authors/abdullah-norain-md.md) — 1
 - [Abdullah Ridwan](../authors/abdullah-ridwan.md) — 1
@@ -1025,7 +1028,6 @@
 - [Ahmed Mukhtar](../authors/ahmed-mukhtar.md) — 1
 - [ai & weekends](../authors/ai-weekends.md) — 1
 - [AI Adoption Agency](../authors/ai-adoption-agency.md) — 1
-- [AI Builder Club](../authors/ai-builder-club.md) — 1
 - [AI Cooked](../authors/ai-cooked.md) — 1
 - [AI FrontPage](../authors/ai-frontpage.md) — 1
 - [AI Guide-Note - 実務で使えるAI活用メディア](../authors/ai-guide-note-実務-使-ai活用.md) — 1
@@ -1253,6 +1255,7 @@
 - [Artur Boss](../authors/artur-boss.md) — 1
 - [Arturo L. Gómez](../authors/arturo-l-gomez.md) — 1
 - [arty.hl](../authors/arty-hl.md) — 1
+- [Arun](../authors/arun.md) — 1
 - [Arx](../authors/arx.md) — 1
 - [Aryan](../authors/aryan.md) — 1
 - [asahide](../authors/asahide.md) — 1
@@ -2299,6 +2302,7 @@
 - [Jotade 🎧](../authors/jotade.md) — 1
 - [Jozef](../authors/jozef.md) — 1
 - [JP](../authors/jp.md) — 1
+- [JTCの女](../authors/jtc-女.md) — 1
 - [Juan Diego Caballero](../authors/juan-diego-caballero.md) — 1
 - [Juan José Fuchs](../authors/juan-jose-fuchs.md) — 1
 - [Juana IA](../authors/juana-ia.md) — 1
@@ -2900,6 +2904,7 @@
 - [notdevin](../authors/notdevin.md) — 1
 - [Notef / NEIGHBOR CEO](../authors/notef-neighbor-ceo.md) — 1
 - [Notty](../authors/notty.md) — 1
+- [Nova](../authors/nova.md) — 1
 - [Nova AI](../authors/nova-ai.md) — 1
 - [Nova Tang](../authors/nova-tang.md) — 1
 - [Nowshad](../authors/nowshad.md) — 1
@@ -3407,6 +3412,7 @@
 - [Shreyans](../authors/shreyans.md) — 1
 - [shreyshahi](../authors/shreyshahi.md) — 1
 - [Shridhar](../authors/shridhar.md) — 1
+- [Shub](../authors/shub.md) — 1
 - [Shubham Saboo](../authors/shubham-saboo.md) — 1
 - [Shuga](../authors/shuga.md) — 1
 - [siddharth ahuja](../authors/siddharth-ahuja.md) — 1
@@ -3677,7 +3683,6 @@
 - [TrainOfError](../authors/trainoferror.md) — 1
 - [Travis](../authors/travis.md) — 1
 - [Treff](../authors/treff.md) — 1
-- [Treg](../authors/treg.md) — 1
 - [Trend0x | Cognitive AI Trading](../authors/trend0x-cognitive-ai-trading.md) — 1
 - [Trevor Schulte](../authors/trevor-schulte.md) — 1
 - [Tribfi](../authors/tribfi.md) — 1
@@ -4299,6 +4304,7 @@
 - [燐夜 Lava](../authors/燐夜-lava.md) — 1
 - [牙龍丸（がりゅうまる）](../authors/牙龍丸.md) — 1
 - [独立开花卓富贵](../authors/独立开花卓富贵.md) — 1
+- [猫好きデータエンジニア*](../authors/猫好.md) — 1
 - [生ビール](../authors/生.md) — 1
 - [痛いマリモ](../authors/痛.md) — 1
 - [白日做梦™](../authors/白日做梦tm.md) — 1

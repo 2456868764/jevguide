@@ -2,6 +2,16 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T11:28:48.000Z | [JEV-powered people search finds prospects complaining about competitors on Reddit/X](https://x.com/tarasshyn/status/2114680642185101600) | 营销 | Taras | 33 |
+| 2026-10-26T11:22:55.000Z | [Treg AI's people search loop wired with Jev](https://x.com/justabdulraouf/status/2114679160182342033) | 营销 | abdul | 35 |
+| 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |
+| 2026-10-26T11:15:05.000Z | [Use Jev to detect hacking on all access and prevent leaks](https://x.com/fern_kabu/status/2114677189035839492) | 网络安全 | JTCの女 | 32 |
+| 2026-10-26T11:12:30.000Z | [Treg launches Jev-powered people search for AI agents to find leads](https://x.com/hiarun02/status/2114676539594064077) | 营销 | Arun | 435 |
+| 2026-10-26T11:09:25.000Z | [Jev for Cost-Effective Lead Generation](https://x.com/shub0414/status/2114675763383620033) | 营销 | Shub | 440 |
+| 2026-10-26T11:09:01.000Z | [Jev pre-screens leads to cut data costs](https://x.com/jasonzhou1993/status/2114675661113848294) | 营销 | Jason Zhou | 740 |
+| 2026-10-26T11:07:47.000Z | [Using Jev as a Judge Before Paid Lookups](https://x.com/aibuilderclub_/status/2114675350580203561) | 自动化工作流 | AI Builder Club | 180 |
+| 2026-10-26T11:03:27.000Z | [Jev-Powered People Search Launch](https://x.com/treg_ai/status/2114674262179188755) | 知识与搜索 | Treg | 6.5K |
+| 2026-10-26T10:55:49.000Z | [LLMs Reason, Jev Decides: Building Better AI Agents](https://x.com/skilluphii/status/2114672341200605343) | 智能体 | 猫好きデータエンジニア* | 7 |
 | 2026-10-26T10:19:18.000Z | [Generating infinite content from a single image and sound with Jev](https://x.com/hansnoed/status/2114663150922469573) | 内容创作 | Ah Um | 22 |
 | 2026-10-26T10:01:18.000Z | [What is Jev? What can it do? Explained in a 1-minute video](https://x.com/interstella1415/status/2114658622072586509) | 社区实践 | Interstella | 5 |
 | 2026-10-26T09:55:56.000Z | [Jev 1.14 Image Support and Security Camera Use Case](https://x.com/liran_tal/status/2114657271527436427) | 社区实践 | Liran Tal | 107 |
@@ -92,13 +102,3 @@
 | 2026-10-24T17:26:23.000Z | [Jev → Luna benchmark: 900 sessions for $1.30, Failure F1 0.768](https://x.com/neosigma_ai/status/2114045856387309784) | 社区实践 | NeoSigma | 23 |
 | 2026-10-24T17:26:20.000Z | [Routing Evaluation Setup for Jev and OpenAI's Decisions Model](https://x.com/neosigma_ai/status/2114045840843305128) | 社区实践 | NeoSigma | 28 |
 | 2026-10-24T17:15:51.000Z | [Jev cuts agent fleet monthly cost from $397 to $33](https://x.com/0x_rody/status/2114043203326509154) | 智能体 | rody | 1.5K |
-| 2026-10-24T17:00:51.000Z | [Expectations for Jev-like Models](https://x.com/asm3r96/status/2114039427513360645) | 社区实践 | Mohammed Reschreiter | 12 |
-| 2026-10-24T17:00:03.000Z | [Qood News switches to Jev decision model, saving AI costs](https://x.com/chrispapa/status/2114039227998429587) | 接入动态 | Christer Papanicolaou | 45 |
-| 2026-10-24T16:41:54.000Z | [VOICEVOX Streaming Test: Jev Reading Correction Not Used](https://x.com/ivy432hz/status/2114034660607201362) | 社区实践 | あいびぃ | 251 |
-| 2026-10-24T16:03:44.000Z | [I Built a Company Inside JEV & Grok Bot](https://x.com/anahiroxarid/status/2114025053428068627) | 智能体 | Himanshú Kumarr | 19 |
-| 2026-10-24T16:00:54.000Z | [Japanese student builds trading bot with JEV & Claude in two days](https://x.com/anahiroxarid/status/2114024342346440876) | 金融 | Himanshú Kumarr | 35 |
-| 2026-10-24T15:42:34.000Z | [Jev improves test suite selection accuracy in agentic coding loops](https://x.com/JhAquarium/status/2114019729585152082) | 智能体 | Jerry Hong | 8 |
-| 2026-10-24T15:33:53.000Z | [Jev Founder Says JEV Is the Next Era for LLMs](https://x.com/TechByNagma/status/2114017545011470410) | 产品发布 | Nagma parween | 19 |
-| 2026-10-24T14:52:02.000Z | [Mathematical Principles of RLCD for Jev Model](https://x.com/tuzhenzhao/status/2114007011419652508) | 工作原理 | Charlie | 9 |
-| 2026-10-24T14:46:25.000Z | [Jev arrives on Naive to orchestrate a 7-agent AI agency](https://x.com/KanThread/status/2114005599377563726) | 智能体 | Aboubakrine | 7 |
-| 2026-10-24T14:07:33.000Z | [Jev routes events, cutting cost from $397 to $33](https://x.com/maestrooth/status/2113995817300205906) | 自动化工作流 | maestro | 348 |

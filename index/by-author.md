@@ -277,6 +277,7 @@
 - [Kun Chen](../authors/kun-chen.md) — 3
 - [Latent.Space](../authors/latent-space.md) — 3
 - [leopardracer](../authors/leopardracer.md) — 3
+- [Liran Tal](../authors/liran-tal.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
 - [Luong NGUYEN](../authors/luong-nguyen.md) — 3
 - [magsimich](../authors/magsimich.md) — 3
@@ -617,7 +618,6 @@
 - [Lilith Datura](../authors/lilith-datura.md) — 2
 - [Lilys.ai](../authors/lilys-ai.md) — 2
 - [LinearUncle](../authors/linearuncle.md) — 2
-- [Liran Tal](../authors/liran-tal.md) — 2
 - [Lomash Kumar](../authors/lomash-kumar.md) — 2
 - [Lonely](../authors/lonely.md) — 2
 - [Loofy](../authors/loofy.md) — 2
@@ -1019,6 +1019,7 @@
 - [Agora](../authors/agora.md) — 1
 - [Agroconceptos 🇦🇷](../authors/agroconceptos.md) — 1
 - [Agushoma](../authors/agushoma.md) — 1
+- [Ah Um](../authors/ah-um.md) — 1
 - [Ahmed Chouaya](../authors/ahmed-chouaya.md) — 1
 - [Ahmed Mohammed](../authors/ahmed-mohammed.md) — 1
 - [Ahmed Mukhtar](../authors/ahmed-mukhtar.md) — 1
@@ -2132,6 +2133,7 @@
 - [innovaTopia](../authors/innovatopia.md) — 1
 - [Insomnia](../authors/insomnia.md) — 1
 - [Inteligencia Artificial](../authors/inteligencia-artificial.md) — 1
+- [Interstella](../authors/interstella.md) — 1
 - [intro - イントロクイズ](../authors/intro.md) — 1
 - [inventormiguel_](../authors/inventormiguel.md) — 1
 - [Isaac Miller 🧩](../authors/isaac-miller.md) — 1

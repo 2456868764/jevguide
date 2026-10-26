@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1181 | 491 | 695 | 3.0M |
+| 1183 | 492 | 696 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/interstella1415/status/2114658622072586509"><img src="https://pbs.twimg.com/amplify_video_thumb/2114655738580881408/img/K5H8IanoIEjIpBtr.jpg" alt="What is Jev? What can it do? Explained in a 1-minute video · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/interstella1415/status/2114658622072586509">What is Jev? What can it do? Explained in a 1-minute video</a></h3>
+<p>A community member summarizes the trending Jev and its capabilities in a one-minute video, referencing TypeSafeAI.</p>
+<p><strong>中文摘要：</strong>社区成员用1分钟视频介绍了当前流行的Jev及其用途，并关联了TypeSafeAI。</p>
+<p><strong>Interstella</strong> · @interstella1415 · 2026-10-26T10:01:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/interstella1415/status/2114658622072586509">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/liran_tal/status/2114657271527436427"><img src="https://pbs.twimg.com/media/HVjFi50WMAAy_xR?format=png&amp;name=900x900" alt="Jev 1.14 Image Support and Security Camera Use Case · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/liran_tal/status/2114657271527436427">Jev 1.14 Image Support and Security Camera Use Case</a></h3>
+<p>The author mentions using TypeSafe&#39;s Jev 1.14 model for image object annotation and explores connecting it to security cameras for scenarios like detecting if a child is in a pool.</p>
+<p><strong>中文摘要：</strong>用户提到可使用 TypeSafe 的 Jev 1.14 模型进行图像目标框标注，并探讨接入监控摄像头检测儿童是否靠近泳池等场景。</p>
+<p><strong>Liran Tal</strong> · @liran_tal · 2026-10-26T09:55:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 107</p>
+<p><a href="https://x.com/liran_tal/status/2114657271527436427">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YangEndGame/status/2114564453035614274"><img src="https://pbs.twimg.com/media/HVhxKZPXEAABgH0?format=jpg&amp;name=900x900" alt="What&#39;s the point of OpenJev if it&#39;s 25x slower than Jev? · 原帖图片" width="100%"></a>

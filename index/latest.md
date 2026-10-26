@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T10:19:18.000Z | [Generating infinite content from a single image and sound with Jev](https://x.com/hansnoed/status/2114663150922469573) | 内容创作 | Ah Um | 22 |
+| 2026-10-26T10:01:18.000Z | [What is Jev? What can it do? Explained in a 1-minute video](https://x.com/interstella1415/status/2114658622072586509) | 社区实践 | Interstella | 5 |
+| 2026-10-26T09:55:56.000Z | [Jev 1.14 Image Support and Security Camera Use Case](https://x.com/liran_tal/status/2114657271527436427) | 社区实践 | Liran Tal | 107 |
 | 2026-10-26T09:41:42.000Z | [Jev: LLMs Write, Jev Decides](https://x.com/ABArkTech_/status/2114653688165965874) | 工作原理 | AB Ark Solutions | 5 |
 | 2026-10-26T09:30:53.000Z | [jev-trader: An AI Model Trading on Every Monad Block](https://x.com/nqmaikel/status/2114650966918123679) | 金融 | maikel | 14 |
 | 2026-10-26T09:15:05.000Z | [TypeSafe Jev Model Now Available via Official Direct Connection on apikey.fan](https://x.com/blockphd7/status/2114646988805341581) | 接入动态 | Blockphd区块博士.Ai 🎒 | 143 |
@@ -99,6 +102,3 @@
 | 2026-10-24T14:52:02.000Z | [Mathematical Principles of RLCD for Jev Model](https://x.com/tuzhenzhao/status/2114007011419652508) | 工作原理 | Charlie | 9 |
 | 2026-10-24T14:46:25.000Z | [Jev arrives on Naive to orchestrate a 7-agent AI agency](https://x.com/KanThread/status/2114005599377563726) | 智能体 | Aboubakrine | 7 |
 | 2026-10-24T14:07:33.000Z | [Jev routes events, cutting cost from $397 to $33](https://x.com/maestrooth/status/2113995817300205906) | 自动化工作流 | maestro | 348 |
-| 2026-10-24T13:38:32.000Z | [LLM to Jev to CDM Flow](https://x.com/Citomba01/status/2113988512919773541) | 工作原理 | Ayush Mishra | 19 |
-| 2026-10-24T13:36:00.000Z | [Jev Decision Model: Probabilistic Check Before Agent Actions](https://x.com/omnirailorg/status/2113987876249604338) | 工作原理 | OmniRail | 108 |
-| 2026-10-24T13:06:32.000Z | [Seeing Jev once convinced me of its market potential](https://x.com/ifaris25/status/2113980460443607178) | 产品发布 | Faris | 39 |

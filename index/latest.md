@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T03:19:17.000Z | [Japanese Decision Model Based on Jev Achieves Top Performance](https://x.com/yuma_1_or/status/2114919838405775625) | 产品发布 | Yuma Ichikawa | 125 |
+| 2026-10-27T03:01:34.000Z | [d3-ultra: New Open 27B Multimodal Decision Model](https://x.com/XunzhuoLiu/status/2114915380926017591) | 产品发布 | Xunzhuo | 342 |
 | 2026-10-27T02:18:48.000Z | [Sentry uses Jev to screen 10M events daily for prompt injection](https://x.com/SingulantChain/status/2114904617717055543) | 网络安全 | AI⁴ \| Recursive Superintelligence | 43 |
 | 2026-10-27T02:03:39.000Z | [Embodied AI × JEV: Streaming Video Understanding and Visual Grounding](https://x.com/yyyole/status/2114900803362377844) | 机器人 | 沐阳 | 382 |
 | 2026-10-27T02:03:08.000Z | [Real-world use case for JEV in robots and drones](https://x.com/AI_Jasonyu/status/2114900673233821966) | 机器人 | 鱼总聊AI | 876 |
@@ -100,5 +102,3 @@
 | 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
 | 2026-10-26T08:26:00.000Z | [Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14](https://x.com/defaiscope/status/2114634637331124661) | 开发者工具 | DeFAI Scope | 16 |
 | 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |
-| 2026-10-26T07:36:19.000Z | [Microsoft ships Decision-1 with Jev-compatible API](https://x.com/jmojeda/status/2114622135616544945) | 接入动态 | jmojeda | 8 |
-| 2026-10-26T06:46:01.000Z | [OpenAI launches Decisions API to compete with models like Jev](https://x.com/ChanPerco/status/2114609478125416853) | 产品发布 | Jonathan Chan  💡📣 | 112 |

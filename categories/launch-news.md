@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 548 | 235 | 316 | 1.1M |
+| 550 | 237 | 316 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yuma_1_or/status/2114919838405775625"><img src="https://pbs.twimg.com/tweet_video_thumb/HVm0WpzbkAAQzqt.jpg" alt="Japanese Decision Model Based on Jev Achieves Top Performance · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yuma_1_or/status/2114919838405775625">Japanese Decision Model Based on Jev Achieves Top Performance</a></h3>
+<p>The company announced that its Japanese model achieved top performance in a Japanese reasoning benchmark. It is powered by the Decision Model Factory, which can automatically generate Jev-like decision models tailored to real-world needs, and runs at high speed on CPUs thanks to proprietary inference technology.</p>
+<p><strong>中文摘要：</strong>公司宣布其日语模型在日语判断基准中取得最高性能，该模型基于Decision Model Factory，可针对实际需求自动生成类似Jev的决策模型，并通过自研推理技术在CPU上高速运行。</p>
+<p><strong>Yuma Ichikawa</strong> · @yuma_1_or · 2026-10-27T03:19:17.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 125</p>
+<p><a href="https://x.com/yuma_1_or/status/2114919838405775625">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/XunzhuoLiu/status/2114915380926017591"><img src="https://pbs.twimg.com/amplify_video_thumb/2114915250294358016/img/uu0ewR_kru3HgLJV.jpg" alt="d3-ultra: New Open 27B Multimodal Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/XunzhuoLiu/status/2114915380926017591">d3-ultra: New Open 27B Multimodal Decision Model</a></h3>
+<p>d3-ultra is a new open 27B multimodal decision model, ranking #2 on the Jev Decision Index text board with +3.03 over d3. It handles text, images, and video, detects and tracks objects over time, and is released under Apache-2.0.</p>
+<p><strong>中文摘要：</strong>d3-ultra 是新的开源 27B 多模态决策模型，在 Jev Decision Index 文本榜单位列第2，较 d3 提升 +3.03。支持文本、图像和视频，识别并追踪目标，采用 Apache-2.0 许可证开源权重。</p>
+<p><strong>Xunzhuo</strong> · @XunzhuoLiu · 2026-10-27T03:01:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 342</p>
+<p><a href="https://x.com/XunzhuoLiu/status/2114915380926017591">在 X 查看原帖</a> · <a href="https://t.co/EwA1JY38Er">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brainstormity/status/2114844697155744205"><img src="https://pbs.twimg.com/media/HVlvgPSWgAAv45q?format=jpg&amp;name=medium" alt="JEV-powered Android Mobile Use is now open source · 原帖图片" width="100%"></a>

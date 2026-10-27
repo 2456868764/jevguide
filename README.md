@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6363</strong><br>curated posts</td>
-<td align="center"><strong>3184</strong><br>original videos</td>
+<td align="center"><strong>6365</strong><br>curated posts</td>
+<td align="center"><strong>3186</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>548</strong> showcases · <strong>235</strong> videos</p>
+<p><strong>550</strong> showcases · <strong>237</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/yuma_1_or/status/2114919838405775625"><img src="https://pbs.twimg.com/tweet_video_thumb/HVm0WpzbkAAQzqt.jpg" alt="Japanese Decision Model Based on Jev Achieves Top Performance · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yuma_1_or/status/2114919838405775625">Japanese Decision Model Based on Jev Achieves Top Performance</a></h3>
+<p>The company announced that its Japanese model achieved top performance in a Japanese reasoning benchmark. It is powered by the Decision Model Factory, which can automatically generate Jev-like decision models tailored to real-world needs, and runs at high speed on CPUs thanks to proprietary inference technology.</p>
+<p><strong>125</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 125</p>
+<p><strong>Yuma Ichikawa</strong> · @yuma_1_or</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/XunzhuoLiu/status/2114915380926017591"><img src="https://pbs.twimg.com/amplify_video_thumb/2114915250294358016/img/uu0ewR_kru3HgLJV.jpg" alt="d3-ultra: New Open 27B Multimodal Decision Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/XunzhuoLiu/status/2114915380926017591">d3-ultra: New Open 27B Multimodal Decision Model</a></h3>
+<p>d3-ultra is a new open 27B multimodal decision model, ranking #2 on the Jev Decision Index text board with +3.03 over d3. It handles text, images, and video, detects and tracks objects over time, and is released under Apache-2.0.</p>
+<p><strong>342</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 342</p>
+<p><strong>Xunzhuo</strong> · @XunzhuoLiu</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
 <a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/SingulantChain/status/2114904617717055543">Sentry uses Jev to screen 10M events daily for prompt injection</a></h3>
 <p>Per the post, Sentry uses Jev to check 10M events daily for prompt injection, spending $263 per day, and is testing its own classifier aiming for 90% cost reduction. Highlights the risk of prompt injection via error reports for coding agents.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>AI⁴ | Recursive Superintelligence</strong> · @SingulantChain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
 <a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/yyyole/status/2114900803362377844">Embodied AI × JEV: Streaming Video Understanding and Visual Grounding</a></h3>
 <p>Sparked by the JEV decision model, this post discusses AI autonomous judgment and timely reminders in the real world, and introduces VLX-Flow and VLX-Seek, two streaming video understanding and visual grounding models for embodied scenarios.</p>
 <p><strong>382</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
 <p><strong>沐阳</strong> · @yyyole</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/AI_Jasonyu/status/2114900673233821966"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900344815632384/img/PGz1eCmv9Rx0aF6B.jpg" alt="Real-world use case for JEV in robots and drones · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AI_Jasonyu/status/2114900673233821966">Real-world use case for JEV in robots and drones</a></h3>
-<p>The post argues that JEV handles judgment, but robots and drones first need to accurately identify the scene, count all targets, and determine when nothing is present before JEV can make reliable decisions.</p>
-<p><strong>876</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 6 &nbsp; 📊 876</p>
-<p><strong>鱼总聊AI</strong> · @AI_Jasonyu</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
-<p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>David Rangel</strong> · @DR1602</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
-<a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SingulantChain/status/2114904617717055543">Sentry uses Jev to screen 10M events daily for prompt injection</a></h3>
-<p>Per the post, Sentry uses Jev to check 10M events daily for prompt injection, spending $263 per day, and is testing its own classifier aiming for 90% cost reduction. Highlights the risk of prompt injection via error reports for coding agents.</p>
-<p><strong>43</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
-<p><strong>AI⁴ | Recursive Superintelligence</strong> · @SingulantChain</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/yuma_1_or/status/2114919838405775625"><img src="https://pbs.twimg.com/tweet_video_thumb/HVm0WpzbkAAQzqt.jpg" alt="Japanese Decision Model Based on Jev Achieves Top Performance · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yuma_1_or/status/2114919838405775625">Japanese Decision Model Based on Jev Achieves Top Performance</a></h3>
+<p>The company announced that its Japanese model achieved top performance in a Japanese reasoning benchmark. It is powered by the Decision Model Factory, which can automatically generate Jev-like decision models tailored to real-world needs, and runs at high speed on CPUs thanks to proprietary inference technology.</p>
+<p><strong>125</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 125</p>
+<p><strong>Yuma Ichikawa</strong> · @yuma_1_or</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
-<p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>David Rangel</strong> · @DR1602</p>
+<p><strong>02</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yyyole/status/2114900803362377844">Embodied AI × JEV: Streaming Video Understanding and Visual Grounding</a></h3>
+<p>Sparked by the JEV decision model, this post discusses AI autonomous judgment and timely reminders in the real world, and introduces VLX-Flow and VLX-Seek, two streaming video understanding and visual grounding models for embodied scenarios.</p>
+<p><strong>382</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
+<p><strong>沐阳</strong> · @yyyole</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/ericosiu/status/2114870531056869594"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114870287971778560/pu/img/r_Bft4-KgiMyl4q_.jpg" alt="Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ericosiu/status/2114870531056869594">Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis</a></h3>
-<p>The user used Jev Images for under a penny to get a 36-page analysis covering competitors, ad offers, campaign duration, and market gaps, which also provided fixes for their own pages.</p>
-<p><strong>230</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 230</p>
-<p><strong>ericosiu</strong> · @ericosiu</p>
+<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/AI_Jasonyu/status/2114900673233821966"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900344815632384/img/PGz1eCmv9Rx0aF6B.jpg" alt="Real-world use case for JEV in robots and drones · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AI_Jasonyu/status/2114900673233821966">Real-world use case for JEV in robots and drones</a></h3>
+<p>The post argues that JEV handles judgment, but robots and drones first need to accurately identify the scene, count all targets, and determine when nothing is present before JEV can make reliable decisions.</p>
+<p><strong>876</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 6 &nbsp; 📊 876</p>
+<p><strong>鱼总聊AI</strong> · @AI_Jasonyu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/TheMattBerman/status/2114837746590347433"><img src="https://pbs.twimg.com/amplify_video_thumb/2114836730998067200/img/kxOmBtcBaOhc-72f.jpg" alt="Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/TheMattBerman/status/2114837746590347433">Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes</a></h3>
-<p>Matthew Berman: Jev ran 100 AI shoppers across 3,092 real US Meta ads from 669 brands in 3 minutes. Only 2 of the top 100 ads had 50% off.</p>
-<p><strong>372</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 372</p>
-<p><strong>Matthew Berman</strong> · @TheMattBerman</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/brainstormity/status/2114844697155744205"><img src="https://pbs.twimg.com/media/HVlvgPSWgAAv45q?format=jpg&amp;name=medium" alt="JEV-powered Android Mobile Use is now open source · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/brainstormity/status/2114844697155744205">JEV-powered Android Mobile Use is now open source</a></h3>
+<p>brainstormity announced that JEV-powered Mobile Use for Android has been open sourced and pushed to the same System-One-Computer-Use repo, noting it works better on mobile than on PC.</p>
+<p><strong>588</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 588</p>
+<p><strong>brainstormity</strong> · @brainstormity</p>
 </td>
 </tr>
 </table>

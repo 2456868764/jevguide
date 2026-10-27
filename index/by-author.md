@@ -183,6 +183,7 @@
 - [VisiveAI](../authors/visiveai.md) — 4
 - [Wyong · 产品增长](../authors/wyong-产品增长.md) — 4
 - [𝕏AID ADIL 👨‍💻](../authors/xaid-adil.md) — 4
+- [Xunzhuo](../authors/xunzhuo.md) — 4
 - [あきらパパ【生成AI活用エンジニア&３児のパパ】](../authors/生成ai活用-3児.md) — 4
 - [おさじ｜AIじっちゃん｜FIREからの再起動](../authors/ai-fire-再起動.md) — 4
 - [きしだൠ(K1S)](../authors/k1s.md) — 4
@@ -356,7 +357,6 @@
 - [VerySmallWoods](../authors/verysmallwoods.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
-- [Xunzhuo](../authors/xunzhuo.md) — 3
 - [Y.Yamashiro](../authors/y-yamashiro.md) — 3
 - [Yohei](../authors/yohei.md) — 3
 - [Youssef Hosni](../authors/youssef-hosni.md) — 3
@@ -3959,6 +3959,7 @@
 - [Yuhan Luo](../authors/yuhan-luo.md) — 1
 - [Yujie Zha](../authors/yujie-zha.md) — 1
 - [yuma (Maki)](../authors/yuma-maki.md) — 1
+- [Yuma Ichikawa](../authors/yuma-ichikawa.md) — 1
 - [yumi](../authors/yumi.md) — 1
 - [Yunn](../authors/yunn.md) — 1
 - [yunus](../authors/yunus.md) — 1

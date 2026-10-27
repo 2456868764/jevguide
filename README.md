@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6378</strong><br>curated posts</td>
-<td align="center"><strong>3192</strong><br>original videos</td>
+<td align="center"><strong>6380</strong><br>curated posts</td>
+<td align="center"><strong>3193</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1204</strong> showcases · <strong>506</strong> videos</p>
+<p><strong>1205</strong> showcases · <strong>507</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>108</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>109</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/brad_bao/status/2114984787761037510"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Community Love for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/brad_bao/status/2114984787761037510">Community Love for Jev</a></h3>
+<p>A TypeSafe community member expresses appreciation for Jev on social media, mentioning @typesafeai.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Brad</strong> · @brad_bao</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/alepom/status/2114978673812029687"><img src="https://pbs.twimg.com/media/HVnp5CTXUAAbvvo?format=jpg&amp;name=medium" alt="Comparative study of decision models inspired by Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/alepom/status/2114978673812029687">Comparative study of decision models inspired by Jev</a></h3>
+<p>The author compares new decision models based on #Jev with small local models, finding that APIs are favorable with few examples while results change with more data.</p>
+<p><strong>10</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Alessio Pomaro</strong> · @alepom</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583"><img src="https://pbs.twimg.com/media/HVnl1Lha8AAL8xB?format=jpg&amp;name=small" alt="A fast judgment website built with Jev AI · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583">A fast judgment website built with Jev AI</a></h3>
 <p>Supports text and image judgment for quickly evaluating anything you&#39;re curious about.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>kimura512@開発者</strong> · @Bioinfo_Kimura</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
 <a href="https://x.com/PraCha98/status/2114972392699076717"><img src="https://pbs.twimg.com/media/HVnkLbEWEAAMWmD?format=jpg&amp;name=medium" alt="How sharply System One decision model probabilities follow policy thresholds · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/PraCha98/status/2114972392699076717">How sharply System One decision model probabilities follow policy thresholds</a></h3>
 <p>The post examines whether System One decision model probabilities closely follow stated policy, noting Decision 3.0 (d3) models come close to Jev, with d3-nano 2B switching from eligible to refused within about a third of a day around the threshold.</p>
 <p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><strong>Pra Cha</strong> · @PraCha98</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/PoyotanP/status/2114970588028756469"><img src="https://pbs.twimg.com/media/HVnieNMa8AAWK6s?format=png&amp;name=small" alt="Jev gives $5 credit every month · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PoyotanP/status/2114970588028756469">Jev gives $5 credit every month</a></h3>
-<p>User post confirming that Jev really gives $5 of credit every month.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
-<p><strong>ぽよたんぴ</strong> · @PoyotanP</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/noot_ai/status/2114967078058778838"><img src="https://pbs.twimg.com/amplify_video_thumb/2113845938699534338/img/WjLwse5bATTt4Pqz.jpg" alt="Jev Integration Drastically Cuts Costs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/noot_ai/status/2114967078058778838">Jev Integration Drastically Cuts Costs</a></h3>
-<p>A user shares combining Jev with Claude Opus 5.5, claiming costs drop from about $110 to $4 per day once Jev takes over, scoring important notes before context loads and handing easy steps to a faster model.</p>
-<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Noot</strong> · @noot_ai</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583"><img src="https://pbs.twimg.com/media/HVnl1Lha8AAL8xB?format=jpg&amp;name=small" alt="A fast judgment website built with Jev AI · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583">A fast judgment website built with Jev AI</a></h3>
-<p>Supports text and image judgment for quickly evaluating anything you&#39;re curious about.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>kimura512@開発者</strong> · @Bioinfo_Kimura</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/brad_bao/status/2114984787761037510"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Community Love for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/brad_bao/status/2114984787761037510">Community Love for Jev</a></h3>
+<p>A TypeSafe community member expresses appreciation for Jev on social media, mentioning @typesafeai.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Brad</strong> · @brad_bao</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/noot_ai/status/2114967078058778838"><img src="https://pbs.twimg.com/amplify_video_thumb/2113845938699534338/img/WjLwse5bATTt4Pqz.jpg" alt="Jev Integration Drastically Cuts Costs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/noot_ai/status/2114967078058778838">Jev Integration Drastically Cuts Costs</a></h3>
-<p>A user shares combining Jev with Claude Opus 5.5, claiming costs drop from about $110 to $4 per day once Jev takes over, scoring important notes before context loads and handing easy steps to a faster model.</p>
-<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Noot</strong> · @noot_ai</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/PraCha98/status/2114972392699076717"><img src="https://pbs.twimg.com/media/HVnkLbEWEAAMWmD?format=jpg&amp;name=medium" alt="How sharply System One decision model probabilities follow policy thresholds · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PraCha98/status/2114972392699076717">How sharply System One decision model probabilities follow policy thresholds</a></h3>
+<p>The post examines whether System One decision model probabilities closely follow stated policy, noting Decision 3.0 (d3) models come close to Jev, with d3-nano 2B switching from eligible to refused within about a third of a day around the threshold.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Pra Cha</strong> · @PraCha98</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/darrell_tw_/status/2114966365706834019"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV for rapid screening in people-finding scenarios · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/darrell_tw_/status/2114966365706834019">JEV for rapid screening in people-finding scenarios</a></h3>
-<p>The author comments that the people-finding scenario is attractive, seemingly integrating suppliers like Apify and using TypeSafe AI&#39;s JEV for rapid screening and decision-making.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Darrell</strong> · @darrell_tw_</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/PoyotanP/status/2114970588028756469"><img src="https://pbs.twimg.com/media/HVnieNMa8AAWK6s?format=png&amp;name=small" alt="Jev gives $5 credit every month · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PoyotanP/status/2114970588028756469">Jev gives $5 credit every month</a></h3>
+<p>User post confirming that Jev really gives $5 of credit every month.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>ぽよたんぴ</strong> · @PoyotanP</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/nutanc/status/2114925951331262852"><img src="https://pbs.twimg.com/amplify_video_thumb/2114925215730057216/img/9uTkMqy2ewUmfoay.jpg" alt="Building a Storyshape Video Pipeline with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nutanc/status/2114925951331262852">Building a Storyshape Video Pipeline with Jev</a></h3>
-<p>The author shares progress on a storyshape expert project: converting text into story shapes, using Jev to select the best match, adjusting the shape in an editor, rewriting the text with an LLM to fit the shape, and finally generating a video with Claude Opus 5.5.</p>
-<p><strong>72</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
-<p><strong>nutanc</strong> · @nutanc</p>
+<p><strong>04</strong> &nbsp; <code>机器人</code> <code>原帖图片</code></p>
+<a href="https://x.com/kawamoto_LINER/status/2114930273003716708"><img src="https://pbs.twimg.com/media/HVm8F00aoAAs2lo?format=jpg&amp;name=medium" alt="Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kawamoto_LINER/status/2114930273003716708">Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API</a></h3>
+<p>This event explores possibilities of combining generative AI Jev with robotics, hands-on with Liquid AI d1-3B and OpenAI Decisions API, plus a recap of the December visit to Shenzhen.</p>
+<p><strong>141</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 141</p>
+<p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER</p>
 </td>
 </tr>
 </table>

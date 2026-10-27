@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T07:37:22.000Z | [Community Love for Jev](https://x.com/brad_bao/status/2114984787761037510) | 社区实践 | Brad | 2 |
+| 2026-10-27T07:13:04.000Z | [Comparative study of decision models inspired by Jev](https://x.com/alepom/status/2114978673812029687) | 科研 | Alessio Pomaro | 10 |
 | 2026-10-27T06:55:19.000Z | [A fast judgment website built with Jev AI](https://x.com/Bioinfo_Kimura/status/2114974205674758583) | 社区实践 | kimura512@開発者 | 13 |
 | 2026-10-27T06:48:07.000Z | [How sharply System One decision model probabilities follow policy thresholds](https://x.com/PraCha98/status/2114972392699076717) | 工作原理 | Pra Cha | 6 |
 | 2026-10-27T06:40:57.000Z | [Jev gives $5 credit every month](https://x.com/PoyotanP/status/2114970588028756469) | 社区实践 | ぽよたんぴ | 26 |
@@ -100,5 +102,3 @@
 | 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |
 | 2026-10-26T11:15:05.000Z | [Use Jev to detect hacking on all access and prevent leaks](https://x.com/fern_kabu/status/2114677189035839492) | 网络安全 | JTCの女 | 32 |
 | 2026-10-26T11:12:30.000Z | [Treg launches Jev-powered people search for AI agents to find leads](https://x.com/hiarun02/status/2114676539594064077) | 营销 | Arun | 435 |
-| 2026-10-26T11:09:25.000Z | [Jev for Cost-Effective Lead Generation](https://x.com/shub0414/status/2114675763383620033) | 营销 | Shub | 440 |
-| 2026-10-26T11:09:01.000Z | [Jev pre-screens leads to cut data costs](https://x.com/jasonzhou1993/status/2114675661113848294) | 营销 | Jason Zhou | 740 |

@@ -416,6 +416,7 @@
 - [Alberto Arena](../authors/alberto-arena.md) — 2
 - [Alejandro Carbajo](../authors/alejandro-carbajo.md) — 2
 - [Alejandro Saucedo | KubeCon 2025 AI Day Keynote](../authors/alejandro-saucedo-kubecon-2025-ai-day-keynote.md) — 2
+- [Alessio Pomaro](../authors/alessio-pomaro.md) — 2
 - [alex nikolic](../authors/alex-nikolic.md) — 2
 - [Alex Strick van Linschoten](../authors/alex-strick-van-linschoten.md) — 2
 - [Alexander Whedon](../authors/alexander-whedon.md) — 2
@@ -460,6 +461,7 @@
 - [BLUECOW009](../authors/bluecow009.md) — 2
 - [Blumi | Orbitagents](../authors/blumi-orbitagents.md) — 2
 - [bodila](../authors/bodila.md) — 2
+- [Brad](../authors/brad.md) — 2
 - [Braintrust](../authors/braintrust.md) — 2
 - [Brando Magnani](../authors/brando-magnani.md) — 2
 - [Branko](../authors/branko.md) — 2
@@ -1126,7 +1128,6 @@
 - [Aleksander Patschek - FSGeek](../authors/aleksander-patschek-fsgeek.md) — 1
 - [Aleksandr Sarantsev](../authors/aleksandr-sarantsev.md) — 1
 - [Alessandro](../authors/alessandro.md) — 1
-- [Alessio Pomaro](../authors/alessio-pomaro.md) — 1
 - [Alex | AI Trends | AI Games](../authors/alex-ai-trends-ai-games.md) — 1
 - [ALEX 💡](../authors/alex.md) — 1
 - [Alex Atallah](../authors/alex-atallah.md) — 1
@@ -1406,7 +1407,6 @@
 - [BotBuhdy](../authors/botbuhdy.md) — 1
 - [BotShelf Vampire](../authors/botshelf-vampire.md) — 1
 - [Boyd](../authors/boyd.md) — 1
-- [Brad](../authors/brad.md) — 1
 - [Brad Wardell](../authors/brad-wardell.md) — 1
 - [Bradley Erickson](../authors/bradley-erickson.md) — 1
 - [BrainAI](../authors/brainai.md) — 1

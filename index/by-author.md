@@ -505,6 +505,7 @@
 - [Daniel](../authors/daniel.md) — 2
 - [Daniel Liao](../authors/daniel-liao.md) — 2
 - [Dark Factor](../authors/dark-factor.md) — 2
+- [darkzodchi](../authors/darkzodchi.md) — 2
 - [Dave Wang](../authors/dave-wang.md) — 2
 - [David Arias, CFA](../authors/david-arias-cfa.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
@@ -803,6 +804,7 @@
 - [Stephen W. Thomas](../authors/stephen-w-thomas.md) — 2
 - [Steven Tey](../authors/steven-tey.md) — 2
 - [StudioYebisu](../authors/studioyebisu.md) — 2
+- [Suprik](../authors/suprik.md) — 2
 - [swiftwand](../authors/swiftwand.md) — 2
 - [Syb](../authors/syb.md) — 2
 - [syumai](../authors/syumai.md) — 2
@@ -1269,6 +1271,7 @@
 - [Arpit Bhayani](../authors/arpit-bhayani.md) — 1
 - [Arshan (❖,❖)](../authors/arshan.md) — 1
 - [Art Quant 🥶](../authors/art-quant.md) — 1
+- [Artale](../authors/artale.md) — 1
 - [Artëm](../authors/artem.md) — 1
 - [Arthur Valverde](../authors/arthur-valverde.md) — 1
 - [Arts et culture](../authors/arts-et-culture.md) — 1
@@ -1297,6 +1300,7 @@
 - [Aswin Manohar](../authors/aswin-manohar.md) — 1
 - [Ata Herrera 🇦🇷](../authors/ata-herrera.md) — 1
 - [Atai Barkai](../authors/atai-barkai.md) — 1
+- [Atenov int.](../authors/atenov-int.md) — 1
 - [atharva sindwani](../authors/atharva-sindwani.md) — 1
 - [Athrix ☄️](../authors/athrix.md) — 1
 - [Athulya](../authors/athulya.md) — 1
@@ -1630,7 +1634,6 @@
 - [Dante Larroy](../authors/dante-larroy.md) — 1
 - [Dario Nardella](../authors/dario-nardella.md) — 1
 - [Darius Gaynor](../authors/darius-gaynor.md) — 1
-- [darkzodchi](../authors/darkzodchi.md) — 1
 - [Darrell](../authors/darrell.md) — 1
 - [Darren Li](../authors/darren-li.md) — 1
 - [Darren Lu, agentsky.dev](../authors/darren-lu-agentsky-dev.md) — 1
@@ -1907,6 +1910,7 @@
 - [firefish](../authors/firefish.md) — 1
 - [Fireside Alpha](../authors/fireside-alpha.md) — 1
 - [fisherdaddy](../authors/fisherdaddy.md) — 1
+- [fkuMnk2 突如現わる―――――――――――――――――――――――――――――――――――🧄](../authors/fkumnk2-突如現.md) — 1
 - [Flandermaxx](../authors/flandermaxx.md) — 1
 - [flâneur](../authors/flaneur.md) — 1
 - [FLO - CREATIVE BUILDER](../authors/flo-creative-builder.md) — 1
@@ -2190,6 +2194,7 @@
 - [Itamar Apel 💻 🥃 🏍️](../authors/itamar-apel.md) — 1
 - [IVAN | IA](../authors/ivan-ia.md) — 1
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
+- [Ivan Khokhlov](../authors/ivan-khokhlov.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
 - [ivy](../authors/ivy.md) — 1
@@ -3565,7 +3570,6 @@
 - [Sunil Sadasivan](../authors/sunil-sadasivan.md) — 1
 - [Supabase](../authors/supabase.md) — 1
 - [Superior](../authors/superior.md) — 1
-- [Suprik](../authors/suprik.md) — 1
 - [Surajan Shrestha](../authors/surajan-shrestha.md) — 1
 - [Surbhit Pratik](../authors/surbhit-pratik.md) — 1
 - [Surendra Pandar](../authors/surendra-pandar.md) — 1

@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T12:08:05.000Z | [Jev mentioned as able to play chess](https://x.com/artale93/status/2115052916104896565) | 社区实践 | Artale | 8 |
+| 2026-10-27T12:02:43.000Z | [Cloudflare releases Clairic: a System One-class extraction model](https://x.com/ivantinkers/status/2115051566444994878) | 产品发布 | Ivan Khokhlov | 82 |
+| 2026-10-27T12:00:05.000Z | [Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev](https://x.com/zodchiii/status/2115050901144531389) | 社区实践 | darkzodchi | 414 |
+| 2026-10-27T11:53:54.000Z | [Claude + Jev Vehicle Sweep Finds Suspicious Signals](https://x.com/Supriik_/status/2115049347981164689) | 网络安全 | Suprik | 61 |
+| 2026-10-27T11:49:30.000Z | [Jev 1.13 Now Free](https://x.com/Atenov_D/status/2115048236989710680) | 接入动态 | Atenov int. | 401 |
+| 2026-10-27T11:40:34.000Z | [Presentation slide sync app built with Jev showcased at Sendai Dev Garage](https://x.com/fku_mnk/status/2115045990759792660) | 社区实践 | fkuMnk2 突如現わる―――――――――――――――――――――――――――――――――――🧄 | 53 |
 | 2026-10-27T11:21:00.000Z | [Grok bot + Jev to create more billionaires than crypto in 2026?](https://x.com/lain_md/status/2115041065535471942) | 金融 | lain レイン | 14 |
 | 2026-10-27T10:50:11.000Z | [Building a network with Jev](https://x.com/nujhongc/status/2115033310506504642) | 社区实践 | nujhong | 36 |
 | 2026-10-27T10:37:43.000Z | [A Research Desk in 8 GitHub Repos (Claude + Jev)](https://x.com/0xkurt/status/2115030172743217359) | 开发资源 | Kurt | 6 |
@@ -96,9 +102,3 @@
 | 2026-10-26T12:42:53.000Z | [Using Jev Integration for Low-Cost Lead Generation](https://x.com/notiiivy/status/2114699285094707213) | 营销 | ivy | 191 |
 | 2026-10-26T12:38:28.000Z | [Find Leads at a Fraction of the Cost with Jev](https://x.com/xoaanya/status/2114698171838570898) | 营销 | Aanya | 361 |
 | 2026-10-26T12:34:28.000Z | [Find Customer Conversations with Jev](https://x.com/0xrinx/status/2114697168783040803) | 营销 | RinX 🪐 | 200 |
-| 2026-10-26T12:30:38.000Z | [Jev: A Cheaper Lead Gen Alternative](https://x.com/khushiirl/status/2114696204521197988) | 营销 | Khushi | 43 |
-| 2026-10-26T12:04:11.000Z | [Open-source people search powered by Jev, priced at $0.0089 per lead](https://x.com/shariqriazzz/status/2114689544444428603) | 开发资源 | Shariq Riaz | 7 |
-| 2026-10-26T11:52:30.000Z | [Build a launch list with Jev](https://x.com/ai_explorer25/status/2114686607223865681) | 营销 | AI_Explorer | 462 |
-| 2026-10-26T11:51:49.000Z | [Jev finds 12 verified creator emails in 4 minutes](https://x.com/athrix_codes/status/2114686432170463320) | 营销 | Athrix ☄️ | 403 |
-| 2026-10-26T11:50:13.000Z | [People search with Jev at $0.0089 per lead](https://x.com/tomosman/status/2114686032406872422) | 营销 | Tom Osman 🐦‍⬛ | 523 |
-| 2026-10-26T11:49:46.000Z | [Find Creator Partners Faster with Jev](https://x.com/droidbuilds/status/2114685919899046094) | 营销 | DROID | 3.7K |

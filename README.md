@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6386</strong><br>curated posts</td>
-<td align="center"><strong>3195</strong><br>original videos</td>
+<td align="center"><strong>6392</strong><br>curated posts</td>
+<td align="center"><strong>3199</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1207</strong> showcases · <strong>507</strong> videos</p>
+<p><strong>1210</strong> showcases · <strong>509</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>552</strong> showcases · <strong>238</strong> videos</p>
+<p><strong>553</strong> showcases · <strong>238</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>422</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>423</strong> showcases · <strong>174</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>75</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>76</strong> showcases · <strong>26</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/lain_md/status/2115041065535471942"><img src="https://pbs.twimg.com/amplify_video_thumb/2113843831108235264/img/QmcPAIzRkJxXFasj.jpg" alt="Grok bot + Jev to create more billionaires than crypto in 2026? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lain_md/status/2115041065535471942">Grok bot + Jev to create more billionaires than crypto in 2026?</a></h3>
-<p>The author believes that combining grok bot with Jev&#39;s judgment can create more billionaires than cryptocurrency by 2026 through a prompt-driven automated pipeline, and suggests pasting this idea along with an article to grok bot.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>lain レイン</strong> · @lain_md</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/artale93/status/2115052916104896565"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776244239638528/img/mUErsE8vTE4hm2pq.jpg" alt="Jev mentioned as able to play chess · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/artale93/status/2115052916104896565">Jev mentioned as able to play chess</a></h3>
+<p>User Artale posts that Jev can slop chess in real life, with crying-laughing emojis.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Artale</strong> · @artale93</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/nujhongc/status/2115033310506504642"><img src="https://pbs.twimg.com/media/HVoafyAbkAA7wdQ?format=jpg&amp;name=medium" alt="Building a network with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nujhongc/status/2115033310506504642">Building a network with Jev</a></h3>
-<p>The author shares a side project built with Jev to connect with founders, engineers, AI enthusiasts, and more, expanding their circle.</p>
-<p><strong>36</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 36</p>
-<p><strong>nujhong</strong> · @nujhongc</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ivantinkers/status/2115051566444994878"><img src="https://pbs.twimg.com/media/HVosMQMWIAEEZr5?format=jpg&amp;name=medium" alt="Cloudflare releases Clairic: a System One-class extraction model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ivantinkers/status/2115051566444994878">Cloudflare releases Clairic: a System One-class extraction model</a></h3>
+<p>The author mentions following the System One idea since TypeSafe&#39;s Jev, and notes Clairic is the first model that extracts, computes, estimates, and forecasts values, covering cases where you can&#39;t list all possibilities.</p>
+<p><strong>82</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 82</p>
+<p><strong>Ivan Khokhlov</strong> · @ivantinkers</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xkurt/status/2115030172743217359"><img src="https://pbs.twimg.com/amplify_video_thumb/2115001901985009664/img/lESGg-rBnyhgEF9d.jpg" alt="A Research Desk in 8 GitHub Repos (Claude + Jev) · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xkurt/status/2115030172743217359">A Research Desk in 8 GitHub Repos (Claude + Jev)</a></h3>
-<p>A stack built around Claude and Jev for reading the web, opening PDFs, and keeping sources—useful for competitor briefs, product research, and technical deep dives.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Kurt</strong> · @0xkurt</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/zodchiii/status/2115050901144531389"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049118686986240/img/XWgPk4-BlZlykIV0.jpg" alt="Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/zodchiii/status/2115050901144531389">Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev</a></h3>
+<p>A developer reverse-engineered Meta Ray-Bans 3 and used Opus 5.5 + Jev to build open-source AI cheat glasses. Running npx chesshacker setup pulls Stockfish to provide real-time moves at a 3000+ Elo level.</p>
+<p><strong>414</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 414</p>
+<p><strong>darkzodchi</strong> · @zodchiii</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
-<p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>LML88</strong> · @LML_88_</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/Supriik_/status/2115049347981164689"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049243719114752/img/PIL8LUJTj531pigb.jpg" alt="Claude + Jev Vehicle Sweep Finds Suspicious Signals · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Supriik_/status/2115049347981164689">Claude + Jev Vehicle Sweep Finds Suspicious Signals</a></h3>
+<p>Before buying a car, the author ran a sweep on the vehicle. With the engine off and phone in airplane mode, Claude listed every signal in the cabin and Jev made one call, uncovering 3 things that shouldn&#39;t be there.</p>
+<p><strong>61</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 61</p>
+<p><strong>Suprik</strong> · @Supriik_</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/lain_md/status/2115041065535471942"><img src="https://pbs.twimg.com/amplify_video_thumb/2113843831108235264/img/QmcPAIzRkJxXFasj.jpg" alt="Grok bot + Jev to create more billionaires than crypto in 2026? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lain_md/status/2115041065535471942">Grok bot + Jev to create more billionaires than crypto in 2026?</a></h3>
-<p>The author believes that combining grok bot with Jev&#39;s judgment can create more billionaires than cryptocurrency by 2026 through a prompt-driven automated pipeline, and suggests pasting this idea along with an article to grok bot.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>lain レイン</strong> · @lain_md</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/artale93/status/2115052916104896565"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776244239638528/img/mUErsE8vTE4hm2pq.jpg" alt="Jev mentioned as able to play chess · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/artale93/status/2115052916104896565">Jev mentioned as able to play chess</a></h3>
+<p>User Artale posts that Jev can slop chess in real life, with crying-laughing emojis.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Artale</strong> · @artale93</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
-<p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>LML88</strong> · @LML_88_</p>
+<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/Supriik_/status/2115049347981164689"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049243719114752/img/PIL8LUJTj531pigb.jpg" alt="Claude + Jev Vehicle Sweep Finds Suspicious Signals · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Supriik_/status/2115049347981164689">Claude + Jev Vehicle Sweep Finds Suspicious Signals</a></h3>
+<p>Before buying a car, the author ran a sweep on the vehicle. With the engine off and phone in airplane mode, Claude listed every signal in the cabin and Jev made one call, uncovering 3 things that shouldn&#39;t be there.</p>
+<p><strong>61</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 61</p>
+<p><strong>Suprik</strong> · @Supriik_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/Atenov_D/status/2115048236989710680"><img src="https://pbs.twimg.com/amplify_video_thumb/2115048047876997120/img/Y99AcM0VaqRmdqlf.jpg" alt="Jev 1.13 Now Free · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Atenov_D/status/2115048236989710680">Jev 1.13 Now Free</a></h3>
+<p>Apinex&#39;s free page now includes Jev 1.13 with 1M context and no card required. It is one of 11 free models on the page.</p>
+<p><strong>401</strong> views · 💬 8 &nbsp; 🔁 2 &nbsp; ♡ 19 &nbsp; 📊 401</p>
+<p><strong>Atenov int.</strong> · @Atenov_D</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/dorkitude/status/2115015112088306112"><img src="https://pbs.twimg.com/media/HVoJdDubUAA9D1a?format=jpg&amp;name=medium" alt="Evaluating Million-Neuron Experiments with TypeSafe Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/dorkitude/status/2115015112088306112">Evaluating Million-Neuron Experiments with TypeSafe Jev</a></h3>
 <p>Kyle Wild is running large-scale experiments where each neurotype is a specific steering configuration for Qwen3.5-4B, each is given 67 varied prompts, and outputs are evaluated by TypeSafe Jev and Fireworks Rune.</p>
 <p><strong>21</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
 <p><strong>Kyle Wild</strong> · @dorkitude</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/PoyotanP/status/2114970588028756469"><img src="https://pbs.twimg.com/media/HVnieNMa8AAWK6s?format=png&amp;name=small" alt="Jev gives $5 credit every month · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PoyotanP/status/2114970588028756469">Jev gives $5 credit every month</a></h3>
-<p>User post confirming that Jev really gives $5 of credit every month.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
-<p><strong>ぽよたんぴ</strong> · @PoyotanP</p>
 </td>
 </tr>
 </table>

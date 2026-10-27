@@ -856,6 +856,7 @@
 - [xiax｜AI & Agents](../authors/xiax-ai-agents.md) — 2
 - [Xuan (Billy) Zhang](../authors/xuan-billy-zhang.md) — 2
 - [yasu｜在宅ワーク準備中の派遣社員](../authors/yasu-在宅-準備中-派遣社員.md) — 2
+- [yenkel](../authors/yenkel.md) — 2
 - [Yerkebulan Rakhimov](../authors/yerkebulan-rakhimov.md) — 2
 - [Yessica](../authors/yessica.md) — 2
 - [Yoshimi Shikase](../authors/yoshimi-shikase.md) — 2
@@ -1127,6 +1128,7 @@
 - [Alejandro Fanjul 🛸](../authors/alejandro-fanjul.md) — 1
 - [Alejandro Gonzalez](../authors/alejandro-gonzalez.md) — 1
 - [Alejandro Maestre | AI](../authors/alejandro-maestre-ai.md) — 1
+- [Aleksander Obuchowski](../authors/aleksander-obuchowski.md) — 1
 - [Aleksander Patschek - FSGeek](../authors/aleksander-patschek-fsgeek.md) — 1
 - [Aleksandr Sarantsev](../authors/aleksandr-sarantsev.md) — 1
 - [Alessandro](../authors/alessandro.md) — 1
@@ -1682,6 +1684,7 @@
 - [Deepthi Connects](../authors/deepthi-connects.md) — 1
 - [DegenAI](../authors/degenai.md) — 1
 - [dei](../authors/dei.md) — 1
+- [Delfina Arambillet](../authors/delfina-arambillet.md) — 1
 - [delost](../authors/delost.md) — 1
 - [DeMinds](../authors/deminds.md) — 1
 - [Denary](../authors/denary.md) — 1
@@ -2115,6 +2118,7 @@
 - [HN Thread Scout 💬](../authors/hn-thread-scout.md) — 1
 - [Hoang Nguyen](../authors/hoang-nguyen.md) — 1
 - [HoneyHive](../authors/honeyhive.md) — 1
+- [Hong Kong Programming Society](../authors/hong-kong-programming-society.md) — 1
 - [Hope](../authors/hope.md) — 1
 - [HOPE.](../authors/hope.md) — 1
 - [Hosenur](../authors/hosenur.md) — 1
@@ -3055,6 +3059,7 @@
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
 - [Pavel Hegler 🫆](../authors/pavel-hegler.md) — 1
+- [Pawel](../authors/pawel.md) — 1
 - [Paweł Huryn](../authors/pawe-huryn.md) — 1
 - [PayPerQ](../authors/payperq.md) — 1
 - [Peacock](../authors/peacock.md) — 1
@@ -3598,6 +3603,7 @@
 - [Taka YAYOI/弥生 隆明@MLflowで実践するLLMOps](../authors/taka-yayoi-弥生-隆明-mlflow-実践-llmops.md) — 1
 - [takahirom](../authors/takahirom.md) — 1
 - [Takao Ken](../authors/takao-ken.md) — 1
+- [Takashi Ishida](../authors/takashi-ishida.md) — 1
 - [Takayuki Fukuda](../authors/takayuki-fukuda.md) — 1
 - [take](../authors/take.md) — 1
 - [take p](../authors/take-p.md) — 1
@@ -3819,6 +3825,7 @@
 - [Vida Vidyangi Patil](../authors/vida-vidyangi-patil.md) — 1
 - [Vinay](../authors/vinay.md) — 1
 - [Vinay Gode](../authors/vinay-gode.md) — 1
+- [Vinay Manjunath](../authors/vinay-manjunath.md) — 1
 - [Vincent](../authors/vincent.md) — 1
 - [Vincent e/acc](../authors/vincent-e-acc.md) — 1
 - [Vincent Wang-Maścianica](../authors/vincent-wang-mascianica.md) — 1
@@ -3949,7 +3956,6 @@
 - [YazCLT](../authors/yazclt.md) — 1
 - [YeahJack](../authors/yeahjack.md) — 1
 - [YeHe (🦾,🧠)](../authors/yehe.md) — 1
-- [yenkel](../authors/yenkel.md) — 1
 - [Yeon Kim](../authors/yeon-kim.md) — 1
 - [yibie](../authors/yibie.md) — 1
 - [yiğit](../authors/yigit.md) — 1

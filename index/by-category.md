@@ -1,8 +1,8 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1211
-- [Developer tools](../categories/developer-tools.md) — 640
-- [How it works](../categories/how-it-works.md) — 596
+- [Community builds](../categories/community-builds.md) — 1213
+- [Developer tools](../categories/developer-tools.md) — 641
+- [How it works](../categories/how-it-works.md) — 597
 - [Launch news](../categories/launch-news.md) — 553
 - [Agents](../categories/agents.md) — 506
 - [Access updates](../categories/access-updates.md) — 423
@@ -14,14 +14,14 @@
 - [Content creation](../categories/content-creation.md) — 129
 - [Knowledge & search](../categories/knowledge-search.md) — 128
 - [Data analytics](../categories/data-analytics.md) — 116
-- [Scientific research](../categories/scientific-research.md) — 109
+- [Scientific research](../categories/scientific-research.md) — 110
 - [Cybersecurity](../categories/cybersecurity.md) — 76
 - [Customer support](../categories/customer-support.md) — 60
 - [Robotics](../categories/robotics.md) — 56
 - [Productivity](../categories/productivity.md) — 46
 - [Business operations](../categories/business-operations.md) — 44
 - [Software development](../categories/software-development.md) — 44
-- [Education](../categories/education.md) — 33
-- [Healthcare](../categories/healthcare.md) — 31
+- [Education](../categories/education.md) — 34
+- [Healthcare](../categories/healthcare.md) — 32
 - [E-commerce](../categories/e-commerce.md) — 24
 - [Legal & compliance](../categories/legal-compliance.md) — 21

@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T14:01:31.000Z | [Jev and Decision Models Explained in 2 Minutes](https://x.com/yenkel/status/2115081461376205221) | 工作原理 | yenkel | 105 |
+| 2026-10-27T14:00:05.000Z | [10 ways Jev-like models are being used in medicine](https://x.com/AlexObuchowski/status/2115081102003962136) | 医疗 | Aleksander Obuchowski | 54 |
+| 2026-10-27T14:00:03.000Z | [Interesting Idea on LLM Calibration: Jev and Decision Models](https://x.com/tksii/status/2115081093414109384) | 科研 | Takashi Ishida | 29 |
+| 2026-10-27T13:50:18.000Z | [Jev Explained Simply](https://x.com/DAarambillet/status/2115078637846212910) | 社区实践 | Delfina Arambillet | 49 |
+| 2026-10-27T13:37:49.000Z | [Jev Course: Prefill-Only Inference & Decision Models from Scratch](https://x.com/hkprogsociety/status/2115075498749632889) | 教育 | Hong Kong Programming Society | 4 |
+| 2026-10-27T13:34:22.000Z | [Evaluating Voice AI Calls: Jev vs LLM](https://x.com/GrungeCoder/status/2115074628141961497) | 开发者工具 | Pawel | 19 |
+| 2026-10-27T13:30:33.000Z | [Discussion on the naming of Jev and System One models](https://x.com/naynay2658/status/2115073668200206548) | 社区实践 | Vinay Manjunath | 5 |
 | 2026-10-27T13:02:44.000Z | [Building an All-in-One Desk with Grok Bot + Jev](https://x.com/Feraser8/status/2115066668909002784) | 社区实践 | Feraser | 13 |
 | 2026-10-27T12:08:05.000Z | [Jev mentioned as able to play chess](https://x.com/artale93/status/2115052916104896565) | 社区实践 | Artale | 8 |
 | 2026-10-27T12:02:43.000Z | [Cloudflare releases Clairic: a System One-class extraction model](https://x.com/ivantinkers/status/2115051566444994878) | 产品发布 | Ivan Khokhlov | 82 |
@@ -95,10 +102,3 @@
 | 2026-10-26T14:00:04.000Z | [Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks](https://x.com/davidwbressler/status/2114718710795506095) | 社区实践 | David Bressler | 3 |
 | 2026-10-26T14:00:01.000Z | [Decision Bench Day 5: Jev 1.13 in Close Race with Microsoft Model](https://x.com/WasimJalali/status/2114718698594546067) | 科研 | Wasim Jalali | 2 |
 | 2026-10-26T13:58:45.000Z | [KIT SDK adds decision API with Jev model support](https://x.com/what_the_func/status/2114718377981665498) | 开发者工具 | Ed Zynda | 15 |
-| 2026-10-26T13:39:04.000Z | [jevgrep: Find Files by Meaning with Jev, Not by Name](https://x.com/ChinaAIDaily/status/2114713425981177867) | 开发者工具 | ChinaAIDaily | 16 |
-| 2026-10-26T13:35:53.000Z | [Real-time AI scoring of carts: Estuary CDC meets Jev](https://x.com/EstuaryDev/status/2114712622557811018) | 电商 | Estuary | 7 |
-| 2026-10-26T13:27:05.000Z | [Eryma: An LLM Security Project Using Jev](https://x.com/NassirAI1/status/2114710408804368820) | 网络安全 | Nassir | 62 |
-| 2026-10-26T13:17:48.000Z | [Introducing Jev, a Person Search Service for AI Agents](https://x.com/SLT_OFFICIAL_JP/status/2114708071234818489) | 产品发布 | 【公式】エスライン・テクノロジーズ - Google Partner認定 デジタルマーケティング企業 | 8 |
-| 2026-10-26T12:51:46.000Z | [Community Post: Jev vs Traditional Chatbots](https://x.com/plutos_eth/status/2114701522793578975) | 社区实践 | plutos | 681 |
-| 2026-10-26T12:42:53.000Z | [Using Jev Integration for Low-Cost Lead Generation](https://x.com/notiiivy/status/2114699285094707213) | 营销 | ivy | 191 |
-| 2026-10-26T12:38:28.000Z | [Find Leads at a Fraction of the Cost with Jev](https://x.com/xoaanya/status/2114698171838570898) | 营销 | Aanya | 361 |

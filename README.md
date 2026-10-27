@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6393</strong><br>curated posts</td>
-<td align="center"><strong>3200</strong><br>original videos</td>
+<td align="center"><strong>6400</strong><br>curated posts</td>
+<td align="center"><strong>3205</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1211</strong> showcases · <strong>510</strong> videos</p>
+<p><strong>1213</strong> showcases · <strong>512</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>640</strong> showcases · <strong>316</strong> videos</p>
+<p><strong>641</strong> showcases · <strong>317</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>596</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>597</strong> showcases · <strong>261</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>109</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>110</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -168,13 +168,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>33</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>34</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
-<p><strong>31</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>32</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Feraser8/status/2115066668909002784"><img src="https://pbs.twimg.com/amplify_video_thumb/2115064944328617984/img/nYzGBxzeYvbMliXK.jpg" alt="Building an All-in-One Desk with Grok Bot + Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Feraser8/status/2115066668909002784">Building an All-in-One Desk with Grok Bot + Jev</a></h3>
-<p>The author shares how they integrated the Grok Bot + Jev workflow into a single-screen multi-seat desk, outlining each seat&#39;s role in discovering emerging narratives and candidate leads.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 13</p>
-<p><strong>Feraser</strong> · @Feraser8</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/yenkel/status/2115081461376205221"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev and Decision Models Explained in 2 Minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yenkel/status/2115081461376205221">Jev and Decision Models Explained in 2 Minutes</a></h3>
+<p>The author shares a concise video explaining TypeSafe AI&#39;s Jev model and decision models, noting his mom says he explains it well.</p>
+<p><strong>105</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 105</p>
+<p><strong>yenkel</strong> · @yenkel</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/artale93/status/2115052916104896565"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776244239638528/img/mUErsE8vTE4hm2pq.jpg" alt="Jev mentioned as able to play chess · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/artale93/status/2115052916104896565">Jev mentioned as able to play chess</a></h3>
-<p>User Artale posts that Jev can slop chess in real life, with crying-laughing emojis.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Artale</strong> · @artale93</p>
+<p><strong>02</strong> &nbsp; <code>医疗</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlexObuchowski/status/2115081102003962136"><img src="https://pbs.twimg.com/media/HVpHDdVWUAAVUiV?format=png&amp;name=medium" alt="10 ways Jev-like models are being used in medicine · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlexObuchowski/status/2115081102003962136">10 ways Jev-like models are being used in medicine</a></h3>
+<p>Thread listing 10 ways Jev-like models are already used in medicine, including in the operating room.</p>
+<p><strong>54</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><strong>Aleksander Obuchowski</strong> · @AlexObuchowski</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/ivantinkers/status/2115051566444994878"><img src="https://pbs.twimg.com/media/HVosMQMWIAEEZr5?format=jpg&amp;name=medium" alt="Cloudflare releases Clairic: a System One-class extraction model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ivantinkers/status/2115051566444994878">Cloudflare releases Clairic: a System One-class extraction model</a></h3>
-<p>The author mentions following the System One idea since TypeSafe&#39;s Jev, and notes Clairic is the first model that extracts, computes, estimates, and forecasts values, covering cases where you can&#39;t list all possibilities.</p>
-<p><strong>82</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 82</p>
-<p><strong>Ivan Khokhlov</strong> · @ivantinkers</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/tksii/status/2115081093414109384"><img src="https://pbs.twimg.com/amplify_video_thumb/2105817601469472768/img/abf9-DNt7fOTS_j_.jpg" alt="Interesting Idea on LLM Calibration: Jev and Decision Models · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tksii/status/2115081093414109384">Interesting Idea on LLM Calibration: Jev and Decision Models</a></h3>
+<p>In the Latent Space podcast, swyx discusses Jev and decision models, touching on a rare topic of LLM calibration, highlighting an element people may not know or understand.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>Takashi Ishida</strong> · @tksii</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/zodchiii/status/2115050901144531389"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049118686986240/img/XWgPk4-BlZlykIV0.jpg" alt="Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zodchiii/status/2115050901144531389">Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev</a></h3>
-<p>A developer reverse-engineered Meta Ray-Bans 3 and used Opus 5.5 + Jev to build open-source AI cheat glasses. Running npx chesshacker setup pulls Stockfish to provide real-time moves at a 3000+ Elo level.</p>
-<p><strong>414</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 414</p>
-<p><strong>darkzodchi</strong> · @zodchiii</p>
+<a href="https://x.com/DAarambillet/status/2115078637846212910"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev Explained Simply · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DAarambillet/status/2115078637846212910">Jev Explained Simply</a></h3>
+<p>Delfina Arambillet shares @yenkel&#39;s simple explanation of Jev for a quick overview.</p>
+<p><strong>49</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><strong>Delfina Arambillet</strong> · @DAarambillet</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Feraser8/status/2115066668909002784"><img src="https://pbs.twimg.com/amplify_video_thumb/2115064944328617984/img/nYzGBxzeYvbMliXK.jpg" alt="Building an All-in-One Desk with Grok Bot + Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Feraser8/status/2115066668909002784">Building an All-in-One Desk with Grok Bot + Jev</a></h3>
-<p>The author shares how they integrated the Grok Bot + Jev workflow into a single-screen multi-seat desk, outlining each seat&#39;s role in discovering emerging narratives and candidate leads.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 13</p>
-<p><strong>Feraser</strong> · @Feraser8</p>
+<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/yenkel/status/2115081461376205221"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev and Decision Models Explained in 2 Minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yenkel/status/2115081461376205221">Jev and Decision Models Explained in 2 Minutes</a></h3>
+<p>The author shares a concise video explaining TypeSafe AI&#39;s Jev model and decision models, noting his mom says he explains it well.</p>
+<p><strong>105</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 105</p>
+<p><strong>yenkel</strong> · @yenkel</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/DAarambillet/status/2115078637846212910"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev Explained Simply · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DAarambillet/status/2115078637846212910">Jev Explained Simply</a></h3>
+<p>Delfina Arambillet shares @yenkel&#39;s simple explanation of Jev for a quick overview.</p>
+<p><strong>49</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><strong>Delfina Arambillet</strong> · @DAarambillet</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/hkprogsociety/status/2115075498749632889"><img src="https://pbs.twimg.com/media/HVpB9GKbsAAKCEe?format=jpg&amp;name=small" alt="Jev Course: Prefill-Only Inference &amp; Decision Models from Scratch · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hkprogsociety/status/2115075498749632889">Jev Course: Prefill-Only Inference &amp; Decision Models from Scratch</a></h3>
+<p>A Jev course by Hong Kong Programming Society, covering how to build prefill-only inference and decision models from scratch.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Hong Kong Programming Society</strong> · @hkprogsociety</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/zodchiii/status/2115050901144531389"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049118686986240/img/XWgPk4-BlZlykIV0.jpg" alt="Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/zodchiii/status/2115050901144531389">Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev</a></h3>
 <p>A developer reverse-engineered Meta Ray-Bans 3 and used Opus 5.5 + Jev to build open-source AI cheat glasses. Running npx chesshacker setup pulls Stockfish to provide real-time moves at a 3000+ Elo level.</p>
 <p><strong>414</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 414</p>
 <p><strong>darkzodchi</strong> · @zodchiii</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
-<a href="https://x.com/Supriik_/status/2115049347981164689"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049243719114752/img/PIL8LUJTj531pigb.jpg" alt="Claude + Jev Vehicle Sweep Finds Suspicious Signals · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Supriik_/status/2115049347981164689">Claude + Jev Vehicle Sweep Finds Suspicious Signals</a></h3>
-<p>Before buying a car, the author ran a sweep on the vehicle. With the engine off and phone in airplane mode, Claude listed every signal in the cabin and Jev made one call, uncovering 3 things that shouldn&#39;t be there.</p>
-<p><strong>61</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 61</p>
-<p><strong>Suprik</strong> · @Supriik_</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
-<p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>LML88</strong> · @LML_88_</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1211 | 510 | 706 | 3.0M |
+| 1213 | 512 | 706 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DAarambillet/status/2115078637846212910"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev Explained Simply · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DAarambillet/status/2115078637846212910">Jev Explained Simply</a></h3>
+<p>Delfina Arambillet shares @yenkel&#39;s simple explanation of Jev for a quick overview.</p>
+<p><strong>中文摘要：</strong>Delfina Arambillet 分享了 @yenkel 对 Jev 的简单解释，方便快速了解。</p>
+<p><strong>Delfina Arambillet</strong> · @DAarambillet · 2026-10-27T13:50:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
+<p><a href="https://x.com/DAarambillet/status/2115078637846212910">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/naynay2658/status/2115073668200206548"><img src="https://pbs.twimg.com/amplify_video_thumb/2114769609073336320/img/61Wq6_4wuv6H49_Z.jpg" alt="Discussion on the naming of Jev and System One models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/naynay2658/status/2115073668200206548">Discussion on the naming of Jev and System One models</a></h3>
+<p>The post notes that content still referring to Jev as the most widely known System One model is outdated, as recently released System One models outperform Jev.</p>
+<p><strong>中文摘要：</strong>原帖指出，仍将Jev称为最广为人知的System One模型的内容已显过时，因为最近发布的System One模型已超越Jev。</p>
+<p><strong>Vinay Manjunath</strong> · @naynay2658 · 2026-10-27T13:30:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/naynay2658/status/2115073668200206548">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Feraser8/status/2115066668909002784"><img src="https://pbs.twimg.com/amplify_video_thumb/2115064944328617984/img/nYzGBxzeYvbMliXK.jpg" alt="Building an All-in-One Desk with Grok Bot + Jev · 原帖视频截图" width="100%"></a>

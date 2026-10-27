@@ -4028,6 +4028,7 @@
 - [มะตู่](../authors/jev-showcase.md) — 1
 - [강걸우 웍스 l K-garoo Works](../authors/l-k-garoo-works.md) — 1
 - [게임장의사](../authors/jev-showcase.md) — 1
+- [김크립토](../authors/jev-showcase.md) — 1
 - [레드우드](../authors/jev-showcase.md) — 1
 - [말러팔삼](../authors/jev-showcase.md) — 1
 - [미나리무침](../authors/jev-showcase.md) — 1

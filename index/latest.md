@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T08:05:29.000Z | [Comparing Perplexity's Decider Flash and JEV](https://x.com/Toby_AgwaB/status/2114991864906723793) | 开发者工具 | 김크립토 | 55 |
 | 2026-10-27T07:37:22.000Z | [Community Love for Jev](https://x.com/brad_bao/status/2114984787761037510) | 社区实践 | Brad | 2 |
 | 2026-10-27T07:13:04.000Z | [Comparative study of decision models inspired by Jev](https://x.com/alepom/status/2114978673812029687) | 科研 | Alessio Pomaro | 10 |
 | 2026-10-27T06:55:19.000Z | [A fast judgment website built with Jev AI](https://x.com/Bioinfo_Kimura/status/2114974205674758583) | 社区实践 | kimura512@開発者 | 13 |
@@ -101,4 +102,3 @@
 | 2026-10-26T11:22:55.000Z | [Treg AI's people search loop wired with Jev](https://x.com/justabdulraouf/status/2114679160182342033) | 营销 | abdul | 35 |
 | 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |
 | 2026-10-26T11:15:05.000Z | [Use Jev to detect hacking on all access and prevent leaks](https://x.com/fern_kabu/status/2114677189035839492) | 网络安全 | JTCの女 | 32 |
-| 2026-10-26T11:12:30.000Z | [Treg launches Jev-powered people search for AI agents to find leads](https://x.com/hiarun02/status/2114676539594064077) | 营销 | Arun | 435 |

@@ -1,7 +1,7 @@
 # Jev Showcases by Category
 
 - [Community builds](../categories/community-builds.md) — 1205
-- [Developer tools](../categories/developer-tools.md) — 639
+- [Developer tools](../categories/developer-tools.md) — 640
 - [How it works](../categories/how-it-works.md) — 596
 - [Launch news](../categories/launch-news.md) — 551
 - [Agents](../categories/agents.md) — 506

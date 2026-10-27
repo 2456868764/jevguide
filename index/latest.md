@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T06:55:19.000Z | [A fast judgment website built with Jev AI](https://x.com/Bioinfo_Kimura/status/2114974205674758583) | 社区实践 | kimura512@開発者 | 13 |
+| 2026-10-27T06:48:07.000Z | [How sharply System One decision model probabilities follow policy thresholds](https://x.com/PraCha98/status/2114972392699076717) | 工作原理 | Pra Cha | 6 |
+| 2026-10-27T06:40:57.000Z | [Jev gives $5 credit every month](https://x.com/PoyotanP/status/2114970588028756469) | 社区实践 | ぽよたんぴ | 26 |
+| 2026-10-27T06:27:00.000Z | [Jev Integration Drastically Cuts Costs](https://x.com/noot_ai/status/2114967078058778838) | 开发者工具 | Noot | 9 |
+| 2026-10-27T06:24:10.000Z | [JEV for rapid screening in people-finding scenarios](https://x.com/darrell_tw_/status/2114966365706834019) | 智能体 | Darrell | 9 |
 | 2026-10-27T04:52:07.000Z | [Using Jev as the trading judgment, author connects it to a bot](https://x.com/ALLINDOGE_Alpha/status/2114943201035637027) | 金融 | ALLIN DOGE \| AI | 1.5K |
 | 2026-10-27T04:21:07.000Z | [Using Local Jev to Split Light Novel Text and Generate Speech](https://x.com/Rasagnoa/status/2114935400984969267) | 社区实践 | ラザノア | 28 |
 | 2026-10-27T04:14:28.000Z | [oh-my-hermes thanks OpenGatewayai for models including Jev](https://x.com/rlaope/status/2114933726262239245) | 社区实践 | HOPE. | 46 |
@@ -97,8 +102,3 @@
 | 2026-10-26T11:12:30.000Z | [Treg launches Jev-powered people search for AI agents to find leads](https://x.com/hiarun02/status/2114676539594064077) | 营销 | Arun | 435 |
 | 2026-10-26T11:09:25.000Z | [Jev for Cost-Effective Lead Generation](https://x.com/shub0414/status/2114675763383620033) | 营销 | Shub | 440 |
 | 2026-10-26T11:09:01.000Z | [Jev pre-screens leads to cut data costs](https://x.com/jasonzhou1993/status/2114675661113848294) | 营销 | Jason Zhou | 740 |
-| 2026-10-26T11:07:47.000Z | [Using Jev as a Judge Before Paid Lookups](https://x.com/aibuilderclub_/status/2114675350580203561) | 自动化工作流 | AI Builder Club | 180 |
-| 2026-10-26T11:03:27.000Z | [Jev-Powered People Search Launch](https://x.com/treg_ai/status/2114674262179188755) | 知识与搜索 | Treg | 6.5K |
-| 2026-10-26T10:55:49.000Z | [LLMs Reason, Jev Decides: Building Better AI Agents](https://x.com/skilluphii/status/2114672341200605343) | 智能体 | 猫好きデータエンジニア* | 7 |
-| 2026-10-26T10:19:18.000Z | [Generating infinite content from a single image and sound with Jev](https://x.com/hansnoed/status/2114663150922469573) | 内容创作 | Ah Um | 22 |
-| 2026-10-26T10:01:18.000Z | [What is Jev? What can it do? Explained in a 1-minute video](https://x.com/interstella1415/status/2114658622072586509) | 社区实践 | Interstella | 5 |

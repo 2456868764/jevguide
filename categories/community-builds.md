@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1202 | 506 | 701 | 3.0M |
+| 1204 | 506 | 703 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583"><img src="https://pbs.twimg.com/media/HVnl1Lha8AAL8xB?format=jpg&amp;name=small" alt="A fast judgment website built with Jev AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583">A fast judgment website built with Jev AI</a></h3>
+<p>Supports text and image judgment for quickly evaluating anything you&#39;re curious about.</p>
+<p><strong>中文摘要：</strong>支持文本和图像判定，可对感兴趣的内容进行快速判定。</p>
+<p><strong>kimura512@開発者</strong> · @Bioinfo_Kimura · 2026-10-27T06:55:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583">在 X 查看原帖</a> · <a href="https://t.co/b2SD5E3x2T">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PoyotanP/status/2114970588028756469"><img src="https://pbs.twimg.com/media/HVnieNMa8AAWK6s?format=png&amp;name=small" alt="Jev gives $5 credit every month · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PoyotanP/status/2114970588028756469">Jev gives $5 credit every month</a></h3>
+<p>User post confirming that Jev really gives $5 of credit every month.</p>
+<p><strong>中文摘要：</strong>用户发帖确认 Jev 每月真的会发放5美元信用额度。</p>
+<p><strong>ぽよたんぴ</strong> · @PoyotanP · 2026-10-27T06:40:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/PoyotanP/status/2114970588028756469">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Rasagnoa/status/2114935400984969267"><img src="https://pbs.twimg.com/amplify_video_thumb/2114935166900764672/img/FZZRbljXwXOUudvQ.jpg" alt="Using Local Jev to Split Light Novel Text and Generate Speech · 原帖视频截图" width="100%"></a>

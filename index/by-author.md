@@ -278,6 +278,7 @@
 - [Kelip](../authors/kelip.md) — 3
 - [keno](../authors/keno.md) — 3
 - [Khairallah AL-Awady](../authors/khairallah-al-awady.md) — 3
+- [kimura512@開発者](../authors/kimura512-開発者.md) — 3
 - [Kirk Borne](../authors/kirk-borne.md) — 3
 - [kitze 🛠️ tinkerer.club](../authors/kitze-tinkerer-club.md) — 3
 - [Kiyoro](../authors/kiyoro.md) — 3
@@ -606,7 +607,6 @@
 - [KGP Talkie | Laxmi Kant](../authors/kgp-talkie-laxmi-kant.md) — 2
 - [khaled](../authors/khaled.md) — 2
 - [Kike Lopez](../authors/kike-lopez.md) — 2
-- [kimura512@開発者](../authors/kimura512-開発者.md) — 2
 - [kishi27 ＠ 実践AIエージェント](../authors/kishi27-実践ai.md) — 2
 - [Kisson](../authors/kisson.md) — 2
 - [KK](../authors/kk.md) — 2
@@ -1631,6 +1631,7 @@
 - [Dario Nardella](../authors/dario-nardella.md) — 1
 - [Darius Gaynor](../authors/darius-gaynor.md) — 1
 - [darkzodchi](../authors/darkzodchi.md) — 1
+- [Darrell](../authors/darrell.md) — 1
 - [Darren Li](../authors/darren-li.md) — 1
 - [Darren Lu, agentsky.dev](../authors/darren-lu-agentsky-dev.md) — 1
 - [Darshan Jain](../authors/darshan-jain.md) — 1
@@ -2937,6 +2938,7 @@
 - [nokia](../authors/nokia.md) — 1
 - [nolja$CP](../authors/nolja-cp.md) — 1
 - [Nomad Analyst](../authors/nomad-analyst.md) — 1
+- [Noot](../authors/noot.md) — 1
 - [North](../authors/north.md) — 1
 - [Not Another Bench](../authors/not-another-bench.md) — 1
 - [notdevin](../authors/notdevin.md) — 1
@@ -3098,6 +3100,7 @@
 - [Povilas Korop | AI Coding & Laravel Educator](../authors/povilas-korop-ai-coding-laravel-educator.md) — 1
 - [Power｜资料过滤器](../authors/power-资料过滤器.md) — 1
 - [Powertothepeople](../authors/powertothepeople.md) — 1
+- [Pra Cha](../authors/pra-cha.md) — 1
 - [Prabahan Kalita](../authors/prabahan-kalita.md) — 1
 - [Pragmatic Dev](../authors/pragmatic-dev.md) — 1
 - [PragmaTwice](../authors/pragmatwice.md) — 1
@@ -4197,6 +4200,7 @@
 - [ぽーん/551](../authors/551.md) — 1
 - [ほし | FDE](../authors/fde.md) — 1
 - [ホタテラボ](../authors/jev-showcase.md) — 1
+- [ぽよたんぴ](../authors/jev-showcase.md) — 1
 - [ボンド｜AIで最高月収7800万](../authors/ai-最高月収7800万.md) — 1
 - [まえだかずひこ](../authors/jev-showcase.md) — 1
 - [まかねこ| AIに働かせる技術](../authors/ai-働-技術.md) — 1

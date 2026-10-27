@@ -2513,6 +2513,7 @@
 - [Lachy](../authors/lachy.md) — 1
 - [Laeffy](../authors/laeffy.md) — 1
 - [Lahiri](../authors/lahiri.md) — 1
+- [lain レイン](../authors/lain.md) — 1
 - [lakshay dang](../authors/lakshay-dang.md) — 1
 - [Lakshmanan LN](../authors/lakshmanan-ln.md) — 1
 - [Langfuse JP同好会](../authors/langfuse-jp同好会.md) — 1
@@ -2958,6 +2959,7 @@
 - [nuco.cloud](../authors/nuco-cloud.md) — 1
 - [nudoscam11](../authors/nudoscam11.md) — 1
 - [nuel](../authors/nuel.md) — 1
+- [nujhong](../authors/nujhong.md) — 1
 - [nullsoft officiall](../authors/nullsoft-officiall.md) — 1
 - [Nuno Sousa](../authors/nuno-sousa.md) — 1
 - [ObjectGraph](../authors/objectgraph.md) — 1

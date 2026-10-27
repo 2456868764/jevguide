@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6384</strong><br>curated posts</td>
-<td align="center"><strong>3194</strong><br>original videos</td>
+<td align="center"><strong>6386</strong><br>curated posts</td>
+<td align="center"><strong>3195</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1206</strong> showcases · <strong>507</strong> videos</p>
+<p><strong>1207</strong> showcases · <strong>507</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>328</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>329</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/lain_md/status/2115041065535471942"><img src="https://pbs.twimg.com/amplify_video_thumb/2113843831108235264/img/QmcPAIzRkJxXFasj.jpg" alt="Grok bot + Jev to create more billionaires than crypto in 2026? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lain_md/status/2115041065535471942">Grok bot + Jev to create more billionaires than crypto in 2026?</a></h3>
+<p>The author believes that combining grok bot with Jev&#39;s judgment can create more billionaires than cryptocurrency by 2026 through a prompt-driven automated pipeline, and suggests pasting this idea along with an article to grok bot.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>lain レイン</strong> · @lain_md</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/nujhongc/status/2115033310506504642"><img src="https://pbs.twimg.com/media/HVoafyAbkAA7wdQ?format=jpg&amp;name=medium" alt="Building a network with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nujhongc/status/2115033310506504642">Building a network with Jev</a></h3>
+<p>The author shares a side project built with Jev to connect with founders, engineers, AI enthusiasts, and more, expanding their circle.</p>
+<p><strong>36</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 36</p>
+<p><strong>nujhong</strong> · @nujhongc</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
 <a href="https://x.com/0xkurt/status/2115030172743217359"><img src="https://pbs.twimg.com/amplify_video_thumb/2115001901985009664/img/lESGg-rBnyhgEF9d.jpg" alt="A Research Desk in 8 GitHub Repos (Claude + Jev) · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/0xkurt/status/2115030172743217359">A Research Desk in 8 GitHub Repos (Claude + Jev)</a></h3>
 <p>A stack built around Claude and Jev for reading the web, opening PDFs, and keeping sources—useful for competitor briefs, product research, and technical deep dives.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Kurt</strong> · @0xkurt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
 <p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
 <p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
 <p><strong>LML88</strong> · @LML_88_</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/dorkitude/status/2115015112088306112"><img src="https://pbs.twimg.com/media/HVoJdDubUAA9D1a?format=jpg&amp;name=medium" alt="Evaluating Million-Neuron Experiments with TypeSafe Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dorkitude/status/2115015112088306112">Evaluating Million-Neuron Experiments with TypeSafe Jev</a></h3>
-<p>Kyle Wild is running large-scale experiments where each neurotype is a specific steering configuration for Qwen3.5-4B, each is given 67 varied prompts, and outputs are evaluated by TypeSafe Jev and Fireworks Rune.</p>
-<p><strong>21</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
-<p><strong>Kyle Wild</strong> · @dorkitude</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/Toby_AgwaB/status/2114991864906723793"><img src="https://pbs.twimg.com/media/HVn1499bgAATLt0?format=jpg&amp;name=medium" alt="Comparing Perplexity&#39;s Decider Flash and JEV · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Toby_AgwaB/status/2114991864906723793">Comparing Perplexity&#39;s Decider Flash and JEV</a></h3>
-<p>The author compares Decider Flash, Perplexity&#39;s new 4B judgment model, with JEV. Decider Flash is based on Qwen3.5-4B, distilled from a 27B model, and can run locally for free via the Mac app. The author tries installing it on an M1 Mac Mini 16GB.</p>
-<p><strong>55</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
-<p><strong>김크립토</strong> · @Toby_AgwaB</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xkurt/status/2115030172743217359"><img src="https://pbs.twimg.com/amplify_video_thumb/2115001901985009664/img/lESGg-rBnyhgEF9d.jpg" alt="A Research Desk in 8 GitHub Repos (Claude + Jev) · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xkurt/status/2115030172743217359">A Research Desk in 8 GitHub Repos (Claude + Jev)</a></h3>
-<p>A stack built around Claude and Jev for reading the web, opening PDFs, and keeping sources—useful for competitor briefs, product research, and technical deep dives.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Kurt</strong> · @0xkurt</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/lain_md/status/2115041065535471942"><img src="https://pbs.twimg.com/amplify_video_thumb/2113843831108235264/img/QmcPAIzRkJxXFasj.jpg" alt="Grok bot + Jev to create more billionaires than crypto in 2026? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lain_md/status/2115041065535471942">Grok bot + Jev to create more billionaires than crypto in 2026?</a></h3>
+<p>The author believes that combining grok bot with Jev&#39;s judgment can create more billionaires than cryptocurrency by 2026 through a prompt-driven automated pipeline, and suggests pasting this idea along with an article to grok bot.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>lain レイン</strong> · @lain_md</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/Toby_AgwaB/status/2114991864906723793"><img src="https://pbs.twimg.com/media/HVn1499bgAATLt0?format=jpg&amp;name=medium" alt="Comparing Perplexity&#39;s Decider Flash and JEV · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Toby_AgwaB/status/2114991864906723793">Comparing Perplexity&#39;s Decider Flash and JEV</a></h3>
-<p>The author compares Decider Flash, Perplexity&#39;s new 4B judgment model, with JEV. Decider Flash is based on Qwen3.5-4B, distilled from a 27B model, and can run locally for free via the Mac app. The author tries installing it on an M1 Mac Mini 16GB.</p>
-<p><strong>55</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
-<p><strong>김크립토</strong> · @Toby_AgwaB</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
+<p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>LML88</strong> · @LML_88_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/brad_bao/status/2114984787761037510"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Community Love for Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/brad_bao/status/2114984787761037510">Community Love for Jev</a></h3>
-<p>A TypeSafe community member expresses appreciation for Jev on social media, mentioning @typesafeai.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Brad</strong> · @brad_bao</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/dorkitude/status/2115015112088306112"><img src="https://pbs.twimg.com/media/HVoJdDubUAA9D1a?format=jpg&amp;name=medium" alt="Evaluating Million-Neuron Experiments with TypeSafe Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dorkitude/status/2115015112088306112">Evaluating Million-Neuron Experiments with TypeSafe Jev</a></h3>
+<p>Kyle Wild is running large-scale experiments where each neurotype is a specific steering configuration for Qwen3.5-4B, each is given 67 varied prompts, and outputs are evaluated by TypeSafe Jev and Fireworks Rune.</p>
+<p><strong>21</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><strong>Kyle Wild</strong> · @dorkitude</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/darrell_tw_/status/2114966365706834019"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV for rapid screening in people-finding scenarios · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/darrell_tw_/status/2114966365706834019">JEV for rapid screening in people-finding scenarios</a></h3>
-<p>The author comments that the people-finding scenario is attractive, seemingly integrating suppliers like Apify and using TypeSafe AI&#39;s JEV for rapid screening and decision-making.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Darrell</strong> · @darrell_tw_</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/PoyotanP/status/2114970588028756469"><img src="https://pbs.twimg.com/media/HVnieNMa8AAWK6s?format=png&amp;name=small" alt="Jev gives $5 credit every month · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PoyotanP/status/2114970588028756469">Jev gives $5 credit every month</a></h3>
+<p>User post confirming that Jev really gives $5 of credit every month.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>ぽよたんぴ</strong> · @PoyotanP</p>
 </td>
 </tr>
 </table>

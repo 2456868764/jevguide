@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T11:21:00.000Z | [Grok bot + Jev to create more billionaires than crypto in 2026?](https://x.com/lain_md/status/2115041065535471942) | 金融 | lain レイン | 14 |
+| 2026-10-27T10:50:11.000Z | [Building a network with Jev](https://x.com/nujhongc/status/2115033310506504642) | 社区实践 | nujhong | 36 |
 | 2026-10-27T10:37:43.000Z | [A Research Desk in 8 GitHub Repos (Claude + Jev)](https://x.com/0xkurt/status/2115030172743217359) | 开发资源 | Kurt | 6 |
 | 2026-10-27T10:30:09.000Z | [OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free](https://x.com/LML_88_/status/2115028271700070416) | 产品发布 | LML88 | 19 |
 | 2026-10-27T09:37:52.000Z | [Evaluating Million-Neuron Experiments with TypeSafe Jev](https://x.com/dorkitude/status/2115015112088306112) | 社区实践 | Kyle Wild | 21 |
@@ -100,5 +102,3 @@
 | 2026-10-26T11:51:49.000Z | [Jev finds 12 verified creator emails in 4 minutes](https://x.com/athrix_codes/status/2114686432170463320) | 营销 | Athrix ☄️ | 403 |
 | 2026-10-26T11:50:13.000Z | [People search with Jev at $0.0089 per lead](https://x.com/tomosman/status/2114686032406872422) | 营销 | Tom Osman 🐦‍⬛ | 523 |
 | 2026-10-26T11:49:46.000Z | [Find Creator Partners Faster with Jev](https://x.com/droidbuilds/status/2114685919899046094) | 营销 | DROID | 3.7K |
-| 2026-10-26T11:38:50.000Z | [Using a Jev Agent to Create a GitHub Repo Explainer Video](https://x.com/architect_aliy/status/2114683167890399275) | 智能体 | Architect Aliy | 10 |
-| 2026-10-26T11:28:48.000Z | [JEV-powered people search finds prospects complaining about competitors on Reddit/X](https://x.com/tarasshyn/status/2114680642185101600) | 营销 | Taras | 33 |

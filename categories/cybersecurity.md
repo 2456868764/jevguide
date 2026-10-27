@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 76 | 26 | 50 | 82K |
+| 78 | 26 | 52 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/theio666/status/2115162532835209429"><img src="https://pbs.twimg.com/media/HVqPxBBaMAAl0WB?format=jpg&amp;name=medium" alt="Jev Model Performance in Prompt Injection Detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/theio666/status/2115162532835209429">Jev Model Performance in Prompt Injection Detection</a></h3>
+<p>In an experiment with 50 prompt injections hidden in 5,000-word articles, Jev and Clef caught all 50 with ≤1 false flag, while Horizon Guard flagged 46/50.</p>
+<p><strong>中文摘要：</strong>实验在5000词文章中隐藏50个提示注入，Jev和Clef全部捕获且误报不超过1次，而Horizon Guard误报46次。</p>
+<p><strong>Modified Bessel Function</strong> · @theio666 · 2026-10-27T19:23:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/theio666/status/2115162532835209429">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/theio666/status/2115160860398424294"><img src="https://pbs.twimg.com/media/HVqPIR9bQAADAM6?format=jpg&amp;name=medium" alt="Prompt-Injection Classifier Comparison: Jev Misses Cluster in Technical Obfuscation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/theio666/status/2115160860398424294">Prompt-Injection Classifier Comparison: Jev Misses Cluster in Technical Obfuscation</a></h3>
+<p>Across 800 prompts, different prompt-injection classifiers fail on different attack types. Jev misses cluster in technical obfuscation, Clef in social engineering, and Wolf&#39;s in linguistic tricks and context manipulation. Horizon Guard misses only 5 (but...).</p>
+<p><strong>中文摘要：</strong>对800个提示的测试显示，不同提示注入分类器在不同的攻击类型上失败。Jev的漏报集中在技术混淆，Clef在社交工程，Wolf在语言技巧和上下文操纵。Horizon Guard仅漏掉5个（但...）。</p>
+<p><strong>Modified Bessel Function</strong> · @theio666 · 2026-10-27T19:17:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/theio666/status/2115160860398424294">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Supriik_/status/2115049347981164689"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049243719114752/img/PIL8LUJTj531pigb.jpg" alt="Claude + Jev Vehicle Sweep Finds Suspicious Signals · 原帖视频截图" width="100%"></a>

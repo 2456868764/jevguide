@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 423 | 174 | 249 | 802K |
+| 425 | 176 | 249 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/georgepickett/status/2115170066547540456"><img src="https://pbs.twimg.com/amplify_video_thumb/2115154100040146944/img/kDOvhgpS8T8fhXQm.jpg" alt="Jev with Web Search · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/georgepickett/status/2115170066547540456">Jev with Web Search</a></h3>
+<p>This tweet mentions something that is like Jev but with web search.</p>
+<p><strong>中文摘要：</strong>这条推文提到一款类似 Jev 但带有网络搜索功能的产品或变体。</p>
+<p><strong>George Pickett</strong> · @georgepickett · 2026-10-27T19:53:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 560</p>
+<p><a href="https://x.com/georgepickett/status/2115170066547540456">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/lightpanda_io/status/2115166932357771702"><img src="https://pbs.twimg.com/amplify_video_thumb/2115164083074797568/img/4vjIGpGm5XpgMCQ9.jpg" alt="Lightpanda agent integrates Jev for fast login handling · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lightpanda_io/status/2115166932357771702">Lightpanda agent integrates Jev for fast login handling</a></h3>
+<p>Lightpanda announces its browser agent now uses Jev to automatically identify username, password fields, and submit button on login pages, completing login in 0.53s with 2 calls, outperforming Claude Haiku&#39;s 7.83s and 8 tool calls.</p>
+<p><strong>中文摘要：</strong>Lightpanda宣布其浏览器代理已支持Jev自动识别登录页面的用户名、密码字段和提交按钮，完成登录仅需0.53秒和2次调用，远超Claude Haiku的7.83秒和8次工具调用。</p>
+<p><strong>Lightpanda</strong> · @lightpanda_io · 2026-10-27T19:41:09.000Z</p>
+<p>💬 3 &nbsp; 🔁 10 &nbsp; ♡ 116 &nbsp; 📊 15K</p>
+<p><a href="https://x.com/lightpanda_io/status/2115166932357771702">在 X 查看原帖</a> · <a href="https://t.co/5bnnuL6dQ3">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Atenov_D/status/2115048236989710680"><img src="https://pbs.twimg.com/amplify_video_thumb/2115048047876997120/img/Y99AcM0VaqRmdqlf.jpg" alt="Jev 1.13 Now Free · 原帖视频截图" width="100%"></a>

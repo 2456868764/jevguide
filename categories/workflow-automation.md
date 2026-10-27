@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 277 | 173 | 104 | 595K |
+| 279 | 174 | 105 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xnineinch/status/2115204789243928854"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204738845233153/img/U_3q1MFOfUAS_Z5x.jpg" alt="Jev + Grok Workflow Automation Speeds Up Processes by 90% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xnineinch/status/2115204789243928854">Jev + Grok Workflow Automation Speeds Up Processes by 90%</a></h3>
+<p>A user shares that combining Jev with Grok bot makes workflows 90% faster. Drop an idea, Grok breaks it into tasks, Jev picks the optimal path, and Grok executes and checks results.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 与 Grok 协作的体验：提交想法后，Grok 拆解任务，Jev 选择最优路径，Grok 执行并检查结果，整体效率提升 90%。</p>
+<p><strong>9inches</strong> · @0xnineinch · 2026-10-27T22:11:35.000Z</p>
+<p>💬 5 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 116</p>
+<p><a href="https://x.com/0xnineinch/status/2115204789243928854">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Itential/status/2115166230055133258"><img src="https://pbs.twimg.com/media/HVqUefLWcAIC-5S?format=jpg&amp;name=medium" alt="Multi-model AI Demo: Claude, Jev, and Gemma Configure a Network Lab · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Itential/status/2115166230055133258">Multi-model AI Demo: Claude, Jev, and Gemma Configure a Network Lab</a></h3>
+<p>In this demo, John Capobianco shows Claude, Jev, and Gemma working together via FlowAI to configure and test a 4-device lab in minutes, with built-in validation, rollback, and governance.</p>
+<p><strong>中文摘要：</strong>演示中，John Capobianco展示Claude、Jev和Gemma如何通过FlowAI协作，在几分钟内完成4台设备的实验室配置与测试，并内置验证、回滚和治理功能。</p>
+<p><strong>Itential</strong> · @Itential · 2026-10-27T19:38:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
+<p><a href="https://x.com/Itential/status/2115166230055133258">在 X 查看原帖</a> · <a href="https://t.co/xHbTbliqLA">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/satishgoda/status/2114929724967490037"><img src="https://pbs.twimg.com/media/HVm9YEIaAAEZDlp?format=jpg&amp;name=medium" alt="Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow · 原帖图片" width="100%"></a>

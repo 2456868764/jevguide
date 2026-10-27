@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 388 | 291 | 101 | 588K |
+| 390 | 293 | 101 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/My_Ai_Bi/status/2115206101683892455"><img src="https://pbs.twimg.com/media/HVq4jJuakAAqXQE.jpg" alt="Build and modify a game world in real time with AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/My_Ai_Bi/status/2115206101683892455">Build and modify a game world in real time with AI</a></h3>
+<p>The post showcases a game built with Claude Opus where the player types anything and the AI makes it happen in the world—cars, planes, dragons, or a meteor on another player. The game can be modified while playing and runs on Jev, GPT-OSS-120b, and more.</p>
+<p><strong>中文摘要：</strong>帖子展示了一个基于Claude Opus构建的游戏，玩家输入任何内容，AI即可在游戏中生成汽车、飞机、龙甚至陨石等元素，并支持在游玩时实时修改游戏，运行在Jev和GPT-OSS-120b等模型上。</p>
+<p><strong>Joe</strong> · @My_Ai_Bi · 2026-10-27T22:16:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 59</p>
+<p><a href="https://x.com/My_Ai_Bi/status/2115206101683892455">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/polyesp/status/2115201885275636177"><img src="https://pbs.twimg.com/amplify_video_thumb/2115137020213305344/img/AJVxiiLt7c6yjIDm.jpg" alt="Turning Ray-Bans into a 3000 Elo Chess Engine with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/polyesp/status/2115201885275636177">Turning Ray-Bans into a 3000 Elo Chess Engine with Jev</a></h3>
+<p>A developer reverse-engineered Meta Ray-Bans 3, combining Opus 5.5 and Jev to build AI chess glasses, and open-sourced the entire workflow.</p>
+<p><strong>中文摘要：</strong>开发者逆向工程Meta Ray-Bans 3，结合Opus 5.5与Jev打造AI国际象棋眼镜，并开源完整工作流程。</p>
+<p><strong>DENIRO</strong> · @polyesp · 2026-10-27T22:00:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 269</p>
+<p><a href="https://x.com/polyesp/status/2115201885275636177">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/chrisjdimarco/status/2114776844390236508"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776711724191744/img/hTXjMj7VTAv-M_L0.jpg" alt="Jev Plays Chess with Light-Speed Orders · 原帖视频截图" width="100%"></a>

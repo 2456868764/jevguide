@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6400</strong><br>curated posts</td>
-<td align="center"><strong>3205</strong><br>original videos</td>
+<td align="center"><strong>6431</strong><br>curated posts</td>
+<td align="center"><strong>3225</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1213</strong> showcases · <strong>512</strong> videos</p>
+<p><strong>1220</strong> showcases · <strong>516</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>553</strong> showcases · <strong>238</strong> videos</p>
+<p><strong>558</strong> showcases · <strong>243</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>506</strong> showcases · <strong>284</strong> videos</p>
+<p><strong>512</strong> showcases · <strong>287</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>423</strong> showcases · <strong>174</strong> videos</p>
+<p><strong>425</strong> showcases · <strong>176</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>388</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>390</strong> showcases · <strong>293</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>385</strong> showcases · <strong>156</strong> videos</p>
+<p><strong>386</strong> showcases · <strong>156</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>329</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>332</strong> showcases · <strong>192</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>277</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>279</strong> showcases · <strong>174</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>76</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>78</strong> showcases · <strong>26</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>46</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/yenkel/status/2115081461376205221"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev and Decision Models Explained in 2 Minutes · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yenkel/status/2115081461376205221">Jev and Decision Models Explained in 2 Minutes</a></h3>
-<p>The author shares a concise video explaining TypeSafe AI&#39;s Jev model and decision models, noting his mom says he explains it well.</p>
-<p><strong>105</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 105</p>
-<p><strong>yenkel</strong> · @yenkel</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/rohanpaul_ai/status/2115219914013471089"><img src="https://pbs.twimg.com/media/HVrE8JYa0AABaJ6?format=jpg&amp;name=medium" alt="Jev Router Unifies 10,000+ Tools with Jev-Driven Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/rohanpaul_ai/status/2115219914013471089">Jev Router Unifies 10,000+ Tools with Jev-Driven Selection</a></h3>
+<p>Rohan Paul highlights that tool selection is becoming one of the most critical decisions for agents. Jev Router exposes 10,000+ tools and models behind a single MCP server, while TypeSafe&#39;s Jev determines which one handles each task.</p>
+<p><strong>575</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 575</p>
+<p><strong>Rohan Paul</strong> · @rohanpaul_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>医疗</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexObuchowski/status/2115081102003962136"><img src="https://pbs.twimg.com/media/HVpHDdVWUAAVUiV?format=png&amp;name=medium" alt="10 ways Jev-like models are being used in medicine · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexObuchowski/status/2115081102003962136">10 ways Jev-like models are being used in medicine</a></h3>
-<p>Thread listing 10 ways Jev-like models are already used in medicine, including in the operating room.</p>
-<p><strong>54</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
-<p><strong>Aleksander Obuchowski</strong> · @AlexObuchowski</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/My_Ai_Bi/status/2115216398767271958"><img src="https://pbs.twimg.com/media/HVq4jJuakAAqXQE.jpg" alt="A cool use case for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/My_Ai_Bi/status/2115216398767271958">A cool use case for Jev</a></h3>
+<p>User Joe shares an interesting use case for Jev, mentioning TypeSafe AI.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Joe</strong> · @My_Ai_Bi</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/tksii/status/2115081093414109384"><img src="https://pbs.twimg.com/amplify_video_thumb/2105817601469472768/img/abf9-DNt7fOTS_j_.jpg" alt="Interesting Idea on LLM Calibration: Jev and Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tksii/status/2115081093414109384">Interesting Idea on LLM Calibration: Jev and Decision Models</a></h3>
-<p>In the Latent Space podcast, swyx discusses Jev and decision models, touching on a rare topic of LLM calibration, highlighting an element people may not know or understand.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>Takashi Ishida</strong> · @tksii</p>
+<p><strong>03</strong> &nbsp; <code>生产力</code> <code>原帖视频</code></p>
+<a href="https://x.com/QQTeng/status/2115213143899324420"><img src="https://pbs.twimg.com/amplify_video_thumb/2115135312884281344/img/tGrnS50MPt9nXJS6.jpg" alt="macOS project turns Dock into AI-native work hub, uses Jev to detect user state · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/QQTeng/status/2115213143899324420">macOS project turns Dock into AI-native work hub, uses Jev to detect user state</a></h3>
+<p>This macOS project makes the Dock an AI-native work entry point, supporting modes like writing and coding. AI agents can customize or create modes, and Jev is used to recognize user activity and notifications in real time to reduce distractions.</p>
+<p><strong>76</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 76</p>
+<p><strong>Joker</strong> · @QQTeng</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/DAarambillet/status/2115078637846212910"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev Explained Simply · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DAarambillet/status/2115078637846212910">Jev Explained Simply</a></h3>
-<p>Delfina Arambillet shares @yenkel&#39;s simple explanation of Jev for a quick overview.</p>
-<p><strong>49</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
-<p><strong>Delfina Arambillet</strong> · @DAarambillet</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/AlexFromAtomic/status/2115209071305564561"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="First Jev-router for agentic tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AlexFromAtomic/status/2115209071305564561">First Jev-router for agentic tools</a></h3>
+<p>The author announces the creation of the first Jev-router designed for agentic tools, highlighting Jev&#39;s use in practical tool routing.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 50</p>
+<p><strong>Alex</strong> · @AlexFromAtomic</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/yenkel/status/2115081461376205221"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev and Decision Models Explained in 2 Minutes · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yenkel/status/2115081461376205221">Jev and Decision Models Explained in 2 Minutes</a></h3>
-<p>The author shares a concise video explaining TypeSafe AI&#39;s Jev model and decision models, noting his mom says he explains it well.</p>
-<p><strong>105</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 105</p>
-<p><strong>yenkel</strong> · @yenkel</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/rohanpaul_ai/status/2115219914013471089"><img src="https://pbs.twimg.com/media/HVrE8JYa0AABaJ6?format=jpg&amp;name=medium" alt="Jev Router Unifies 10,000+ Tools with Jev-Driven Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/rohanpaul_ai/status/2115219914013471089">Jev Router Unifies 10,000+ Tools with Jev-Driven Selection</a></h3>
+<p>Rohan Paul highlights that tool selection is becoming one of the most critical decisions for agents. Jev Router exposes 10,000+ tools and models behind a single MCP server, while TypeSafe&#39;s Jev determines which one handles each task.</p>
+<p><strong>575</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 575</p>
+<p><strong>Rohan Paul</strong> · @rohanpaul_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/DAarambillet/status/2115078637846212910"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800955564740608/img/hkmBsX-udFIfMnQD.jpg" alt="Jev Explained Simply · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DAarambillet/status/2115078637846212910">Jev Explained Simply</a></h3>
-<p>Delfina Arambillet shares @yenkel&#39;s simple explanation of Jev for a quick overview.</p>
-<p><strong>49</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 49</p>
-<p><strong>Delfina Arambillet</strong> · @DAarambillet</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/AlexFromAtomic/status/2115209071305564561"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="First Jev-router for agentic tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AlexFromAtomic/status/2115209071305564561">First Jev-router for agentic tools</a></h3>
+<p>The author announces the creation of the first Jev-router designed for agentic tools, highlighting Jev&#39;s use in practical tool routing.</p>
+<p><strong>50</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 50</p>
+<p><strong>Alex</strong> · @AlexFromAtomic</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/hkprogsociety/status/2115075498749632889"><img src="https://pbs.twimg.com/media/HVpB9GKbsAAKCEe?format=jpg&amp;name=small" alt="Jev Course: Prefill-Only Inference &amp; Decision Models from Scratch · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hkprogsociety/status/2115075498749632889">Jev Course: Prefill-Only Inference &amp; Decision Models from Scratch</a></h3>
-<p>A Jev course by Hong Kong Programming Society, covering how to build prefill-only inference and decision models from scratch.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Hong Kong Programming Society</strong> · @hkprogsociety</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ERoske/status/2115208166757797959"><img src="https://pbs.twimg.com/amplify_video_thumb/2106498440272240640/img/mT5sFznR4qn5vO9A.jpg" alt="Jev Naming Origin and Coin Test Anecdote · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ERoske/status/2115208166757797959">Jev Naming Origin and Coin Test Anecdote</a></h3>
+<p>The post explains that Jev is named after Victorian economist William Stanley Jevons, and shares a test case where Jev answered &quot;heads&quot; with 92% confidence when asked about a fair coin.</p>
+<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Edward Roske</strong> · @ERoske</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/zodchiii/status/2115050901144531389"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049118686986240/img/XWgPk4-BlZlykIV0.jpg" alt="Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zodchiii/status/2115050901144531389">Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev</a></h3>
-<p>A developer reverse-engineered Meta Ray-Bans 3 and used Opus 5.5 + Jev to build open-source AI cheat glasses. Running npx chesshacker setup pulls Stockfish to provide real-time moves at a 3000+ Elo level.</p>
-<p><strong>414</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 18 &nbsp; 📊 414</p>
-<p><strong>darkzodchi</strong> · @zodchiii</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/aimlapi/status/2115204368244818293"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="Introducing Jev Router for Agentic Tools · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aimlapi/status/2115204368244818293">Introducing Jev Router for Agentic Tools</a></h3>
+<p>Connect your agent to 10,000+ tools and models in one MCP, with @TypesafeAI&#39;s Jev picking the best for your task, 96% cheaper than Claude, zero markup.</p>
+<p><strong>6.3K</strong> views · 💬 16 &nbsp; 🔁 9 &nbsp; ♡ 26 &nbsp; 📊 6.3K</p>
+<p><strong>AI/ML API</strong> · @aimlapi</p>
 </td>
 </tr>
 </table>

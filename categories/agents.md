@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 506 | 284 | 224 | 3.0M |
+| 512 | 287 | 227 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rohanpaul_ai/status/2115219914013471089"><img src="https://pbs.twimg.com/media/HVrE8JYa0AABaJ6?format=jpg&amp;name=medium" alt="Jev Router Unifies 10,000+ Tools with Jev-Driven Selection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rohanpaul_ai/status/2115219914013471089">Jev Router Unifies 10,000+ Tools with Jev-Driven Selection</a></h3>
+<p>Rohan Paul highlights that tool selection is becoming one of the most critical decisions for agents. Jev Router exposes 10,000+ tools and models behind a single MCP server, while TypeSafe&#39;s Jev determines which one handles each task.</p>
+<p><strong>中文摘要：</strong>Rohan Paul 指出，工具选择正成为智能体最关键的决定之一。Jev Router 通过单一 MCP 服务器接入 10,000+ 工具和模型，而 TypeSafe 的 Jev 负责判断每个任务应由哪个工具或模型处理。</p>
+<p><strong>Rohan Paul</strong> · @rohanpaul_ai · 2026-10-27T23:11:41.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 575</p>
+<p><a href="https://x.com/rohanpaul_ai/status/2115219914013471089">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2115206780515192929"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="Jev Hands Agents the Right Tool · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2115206780515192929">Jev Hands Agents the Right Tool</a></h3>
+<p>TypeSafe AI tweets that Jev helps AI agents pick the right tool for the job, making them more effective.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 发布推文，介绍 Jev 能够帮助 AI 代理选择合适的工具，让代理更高效地完成任务。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-10-27T22:19:29.000Z</p>
+<p>💬 3 &nbsp; 🔁 6 &nbsp; ♡ 56 &nbsp; 📊 6.6K</p>
+<p><a href="https://x.com/typesafeai/status/2115206780515192929">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NadavAHollander/status/2115155961744859301"><img src="https://pbs.twimg.com/amplify_video_thumb/2115155817930559488/img/fRu1vIWm4oJBg0hO.jpg" alt="Jev as a System One Model for Teaching Routing Policies · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NadavAHollander/status/2115155961744859301">Jev as a System One Model for Teaching Routing Policies</a></h3>
+<p>Discusses model routing policy, mentioning Opus 5.5, GPT 6.1 Sol, and TypeSafe&#39;s Jev as a System One model for teaching routing preferences to Auto_Router.</p>
+<p><strong>中文摘要：</strong>帖子讨论模型路由策略，提到 Opus 5.5、GPT 6.1 Sol，以及 TypeSafe 的 Jev 作为 System One 模型可用于教导 Auto_Router 等路由偏好。</p>
+<p><strong>nadav</strong> · @NadavAHollander · 2026-10-27T18:57:33.000Z</p>
+<p>💬 3 &nbsp; 🔁 3 &nbsp; ♡ 14 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/NadavAHollander/status/2115155961744859301">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jayzhoupro/status/2115155099014308098"><img src="https://pbs.twimg.com/amplify_video_thumb/2115135312884281344/img/tGrnS50MPt9nXJS6.jpg" alt="How Does a Jev-Powered Agent Handle Real-Time Notifications? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jayzhoupro/status/2115155099014308098">How Does a Jev-Powered Agent Handle Real-Time Notifications?</a></h3>
+<p>Discusses how an agent autonomously composes and extends dock modes under Jev&#39;s real-time invocation, while addressing notification interruptions during writing.</p>
+<p><strong>中文摘要：</strong>讨论Agent在Jev实时调用下自主编写并扩展dock modes，同时处理写作时通知干扰的场景。</p>
+<p><strong>Jay Zhou</strong> · @jayzhoupro · 2026-10-27T18:54:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 54</p>
+<p><a href="https://x.com/jayzhoupro/status/2115155099014308098">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/smakosh/status/2115153422362005835"><img src="https://pbs.twimg.com/media/HVqIwDJW0AAfc3E?format=jpg&amp;name=medium" alt="GPT-6 Luna vs Microsoft-Decision-1 vs Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/smakosh/status/2115153422362005835">GPT-6 Luna vs Microsoft-Decision-1 vs Jev</a></h3>
+<p>A tweet comparing GPT-6 Luna, Microsoft-Decision-1, and TypeSafe&#39;s Jev model, highlighting interest in Jev&#39;s performance on decision-related tasks.</p>
+<p><strong>中文摘要：</strong>一条关于GPT-6 Luna、Microsoft-Decision-1与TypeSafe的Jev模型进行对比的推文，引发对Jev在决策类任务中表现的关注。</p>
+<p><strong>Smakosh</strong> · @smakosh · 2026-10-27T18:47:28.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 386</p>
+<p><a href="https://x.com/smakosh/status/2115153422362005835">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/joshwhitfieldai/status/2115152760987644089"><img src="https://pbs.twimg.com/media/HVqIC_hakAA4CGb?format=jpg&amp;name=medium" alt="Jev Model Leads New Trends in Decision APIs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joshwhitfieldai/status/2115152760987644089">Jev Model Leads New Trends in Decision APIs</a></h3>
+<p>The post discusses decisions becoming a key layer in Clay, mentioning JEV, OpenAI&#39;s Decisions API, and @p0&#39;s API, highlighting Jev&#39;s role as a System One model in decision-making.</p>
+<p><strong>中文摘要：</strong>帖子讨论决策层成为Clay中可构建的重要层，提到JEV、OpenAI决策API及@p0的API，强调Jev作为System One模型在决策领域的潜力。</p>
+<p><strong>Josh Whitfield</strong> · @joshwhitfieldai · 2026-10-27T18:44:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/joshwhitfieldai/status/2115152760987644089">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/darrell_tw_/status/2114966365706834019"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV for rapid screening in people-finding scenarios · 原帖视频截图" width="100%"></a>

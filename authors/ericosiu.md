@@ -1,9 +1,10 @@
 # ericosiu
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T19:06:00.000Z | [Using Jev to Check 3,208 Website Pages](https://x.com/ericosiu/status/2115158087086555152) | 社区实践 | ericosiu | 1.3K |
 | 2026-10-27T00:03:21.000Z | [Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis](https://x.com/ericosiu/status/2114870531056869594) | 营销 | ericosiu | 230 |
 | 2026-10-26T17:06:10.000Z | [Jev Images Became My AI Tennis Coach for Less Than a Penny](https://x.com/ericosiu/status/2114765543701889415) | 社区实践 | ericosiu | 622 |
 | 2026-10-26T00:03:25.000Z | [Jev: Audit Brand AI Visibility for Pennies](https://x.com/ericosiu/status/2114508160673206579) | 营销 | ericosiu | 819 |

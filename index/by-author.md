@@ -1894,6 +1894,7 @@
 - [Felix](../authors/felix.md) — 1
 - [Felix Josemon](../authors/felix-josemon.md) — 1
 - [Felix Z](../authors/felix-z.md) — 1
+- [Feraser](../authors/feraser.md) — 1
 - [Ferdinand Terme](../authors/ferdinand-terme.md) — 1
 - [FerdyFennec@GameDev](../authors/ferdyfennec-gamedev.md) — 1
 - [Fiction](../authors/fiction.md) — 1

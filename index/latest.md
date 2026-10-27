@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T13:02:44.000Z | [Building an All-in-One Desk with Grok Bot + Jev](https://x.com/Feraser8/status/2115066668909002784) | 社区实践 | Feraser | 13 |
 | 2026-10-27T12:08:05.000Z | [Jev mentioned as able to play chess](https://x.com/artale93/status/2115052916104896565) | 社区实践 | Artale | 8 |
 | 2026-10-27T12:02:43.000Z | [Cloudflare releases Clairic: a System One-class extraction model](https://x.com/ivantinkers/status/2115051566444994878) | 产品发布 | Ivan Khokhlov | 82 |
 | 2026-10-27T12:00:05.000Z | [Turning Meta Ray-Bans into AI chess cheat glasses with Opus 5.5 + Jev](https://x.com/zodchiii/status/2115050901144531389) | 社区实践 | darkzodchi | 414 |
@@ -101,4 +102,3 @@
 | 2026-10-26T12:51:46.000Z | [Community Post: Jev vs Traditional Chatbots](https://x.com/plutos_eth/status/2114701522793578975) | 社区实践 | plutos | 681 |
 | 2026-10-26T12:42:53.000Z | [Using Jev Integration for Low-Cost Lead Generation](https://x.com/notiiivy/status/2114699285094707213) | 营销 | ivy | 191 |
 | 2026-10-26T12:38:28.000Z | [Find Leads at a Fraction of the Cost with Jev](https://x.com/xoaanya/status/2114698171838570898) | 营销 | Aanya | 361 |
-| 2026-10-26T12:34:28.000Z | [Find Customer Conversations with Jev](https://x.com/0xrinx/status/2114697168783040803) | 营销 | RinX 🪐 | 200 |

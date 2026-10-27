@@ -1163,6 +1163,7 @@
 - [Alisina](../authors/alisina.md) — 1
 - [Alisson](../authors/alisson.md) — 1
 - [Allie Harris](../authors/allie-harris.md) — 1
+- [ALLIN DOGE | AI](../authors/allin-doge-ai.md) — 1
 - [Almanac](../authors/almanac.md) — 1
 - [Along Rocket](../authors/along-rocket.md) — 1
 - [Alpha Batcher](../authors/alpha-batcher.md) — 1

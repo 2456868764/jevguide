@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T04:52:07.000Z | [Using Jev as the trading judgment, author connects it to a bot](https://x.com/ALLINDOGE_Alpha/status/2114943201035637027) | 金融 | ALLIN DOGE \| AI | 1.5K |
 | 2026-10-27T04:21:07.000Z | [Using Local Jev to Split Light Novel Text and Generate Speech](https://x.com/Rasagnoa/status/2114935400984969267) | 社区实践 | ラザノア | 28 |
 | 2026-10-27T04:14:28.000Z | [oh-my-hermes thanks OpenGatewayai for models including Jev](https://x.com/rlaope/status/2114933726262239245) | 社区实践 | HOPE. | 46 |
 | 2026-10-27T04:00:45.000Z | [Jev x Robotics Meetup: Hands-on Physical AI & Decisions API](https://x.com/kawamoto_LINER/status/2114930273003716708) | 机器人 | 河本_Kawamoto \| WRC2026・北京🤖✨️ | 141 |
@@ -101,4 +102,3 @@
 | 2026-10-26T10:55:49.000Z | [LLMs Reason, Jev Decides: Building Better AI Agents](https://x.com/skilluphii/status/2114672341200605343) | 智能体 | 猫好きデータエンジニア* | 7 |
 | 2026-10-26T10:19:18.000Z | [Generating infinite content from a single image and sound with Jev](https://x.com/hansnoed/status/2114663150922469573) | 内容创作 | Ah Um | 22 |
 | 2026-10-26T10:01:18.000Z | [What is Jev? What can it do? Explained in a 1-minute video](https://x.com/interstella1415/status/2114658622072586509) | 社区实践 | Interstella | 5 |
-| 2026-10-26T09:55:56.000Z | [Jev 1.14 Image Support and Security Camera Use Case](https://x.com/liran_tal/status/2114657271527436427) | 社区实践 | Liran Tal | 107 |

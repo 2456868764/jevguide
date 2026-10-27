@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6372</strong><br>curated posts</td>
+<td align="center"><strong>6373</strong><br>curated posts</td>
 <td align="center"><strong>3190</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>327</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>328</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/ALLINDOGE_Alpha/status/2114943201035637027"><img src="https://pbs.twimg.com/media/HVnJn9mbwAAqo-y?format=jpg&amp;name=medium" alt="Using Jev as the trading judgment, author connects it to a bot · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ALLINDOGE_Alpha/status/2114943201035637027">Using Jev as the trading judgment, author connects it to a bot</a></h3>
+<p>The author shares connecting the allindoge.net strategy to a bot using jev as the trading judgment, feels like a genius trader, and invites others to try it.</p>
+<p><strong>1.5K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 1.5K</p>
+<p><strong>ALLIN DOGE | AI</strong> · @ALLINDOGE_Alpha</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/Rasagnoa/status/2114935400984969267"><img src="https://pbs.twimg.com/amplify_video_thumb/2114935166900764672/img/FZZRbljXwXOUudvQ.jpg" alt="Using Local Jev to Split Light Novel Text and Generate Speech · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Rasagnoa/status/2114935400984969267">Using Local Jev to Split Light Novel Text and Generate Speech</a></h3>
 <p>A user shares a personal workflow: after removing DRM from Kindle light novels with Epubor, they use Sokudan (local Jev) to separate narrative from dialogue, then batch-generate audio with irodoriTTS, and are currently adjusting dictionary and particle detection to improve reading accuracy.</p>
 <p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
 <p><strong>ラザノア</strong> · @Rasagnoa</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/rlaope/status/2114933726262239245"><img src="https://pbs.twimg.com/media/HVnAwaKbQAAgEpd?format=jpg&amp;name=medium" alt="oh-my-hermes thanks OpenGatewayai for models including Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/rlaope/status/2114933726262239245">oh-my-hermes thanks OpenGatewayai for models including Jev</a></h3>
 <p>Author HOPE. showcases the oh-my-hermes project and thanks sponsor OpenGatewayai for helping them become a tokenmaxxer, providing models such as glm, deepseek, kimi, and Jev.</p>
 <p><strong>46</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 46</p>
 <p><strong>HOPE.</strong> · @rlaope</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>机器人</code> <code>原帖图片</code></p>
 <a href="https://x.com/kawamoto_LINER/status/2114930273003716708"><img src="https://pbs.twimg.com/media/HVm8F00aoAAs2lo?format=jpg&amp;name=medium" alt="Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/kawamoto_LINER/status/2114930273003716708">Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API</a></h3>
 <p>This event explores possibilities of combining generative AI Jev with robotics, hands-on with Liquid AI d1-3B and OpenAI Decisions API, plus a recap of the December visit to Shenzhen.</p>
 <p><strong>141</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 141</p>
 <p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/satishgoda/status/2114929724967490037"><img src="https://pbs.twimg.com/media/HVm9YEIaAAEZDlp?format=jpg&amp;name=medium" alt="Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/satishgoda/status/2114929724967490037">Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow</a></h3>
-<p>A user shares a practice of using TypeSafe Jev with Ollama decision models to implement a human-in-the-loop workflow that assigns uncategorized bookmarks to the best possible categories.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Satish G</strong> · @satishgoda</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Rasagnoa/status/2114935400984969267"><img src="https://pbs.twimg.com/amplify_video_thumb/2114935166900764672/img/FZZRbljXwXOUudvQ.jpg" alt="Using Local Jev to Split Light Novel Text and Generate Speech · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Rasagnoa/status/2114935400984969267">Using Local Jev to Split Light Novel Text and Generate Speech</a></h3>
-<p>A user shares a personal workflow: after removing DRM from Kindle light novels with Epubor, they use Sokudan (local Jev) to separate narrative from dialogue, then batch-generate audio with irodoriTTS, and are currently adjusting dictionary and particle detection to improve reading accuracy.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ラザノア</strong> · @Rasagnoa</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/ALLINDOGE_Alpha/status/2114943201035637027"><img src="https://pbs.twimg.com/media/HVnJn9mbwAAqo-y?format=jpg&amp;name=medium" alt="Using Jev as the trading judgment, author connects it to a bot · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ALLINDOGE_Alpha/status/2114943201035637027">Using Jev as the trading judgment, author connects it to a bot</a></h3>
+<p>The author shares connecting the allindoge.net strategy to a bot using jev as the trading judgment, feels like a genius trader, and invites others to try it.</p>
+<p><strong>1.5K</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 1.5K</p>
+<p><strong>ALLIN DOGE | AI</strong> · @ALLINDOGE_Alpha</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>机器人</code> <code>原帖图片</code></p>
+<a href="https://x.com/kawamoto_LINER/status/2114930273003716708"><img src="https://pbs.twimg.com/media/HVm8F00aoAAs2lo?format=jpg&amp;name=medium" alt="Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kawamoto_LINER/status/2114930273003716708">Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API</a></h3>
+<p>This event explores possibilities of combining generative AI Jev with robotics, hands-on with Liquid AI d1-3B and OpenAI Decisions API, plus a recap of the December visit to Shenzhen.</p>
+<p><strong>141</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 141</p>
+<p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/satishgoda/status/2114929724967490037"><img src="https://pbs.twimg.com/media/HVm9YEIaAAEZDlp?format=jpg&amp;name=medium" alt="Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/satishgoda/status/2114929724967490037">Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow</a></h3>
 <p>A user shares a practice of using TypeSafe Jev with Ollama decision models to implement a human-in-the-loop workflow that assigns uncategorized bookmarks to the best possible categories.</p>
 <p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><strong>Satish G</strong> · @satishgoda</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/nutanc/status/2114925951331262852"><img src="https://pbs.twimg.com/amplify_video_thumb/2114925215730057216/img/9uTkMqy2ewUmfoay.jpg" alt="Building a Storyshape Video Pipeline with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nutanc/status/2114925951331262852">Building a Storyshape Video Pipeline with Jev</a></h3>
-<p>The author shares progress on a storyshape expert project: converting text into story shapes, using Jev to select the best match, adjusting the shape in an editor, rewriting the text with an LLM to fit the shape, and finally generating a video with Claude Opus 5.5.</p>
-<p><strong>72</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
-<p><strong>nutanc</strong> · @nutanc</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yyyole/status/2114900803362377844">Embodied AI × JEV: Streaming Video Understanding and Visual Grounding</a></h3>
-<p>Sparked by the JEV decision model, this post discusses AI autonomous judgment and timely reminders in the real world, and introduces VLX-Flow and VLX-Seek, two streaming video understanding and visual grounding models for embodied scenarios.</p>
-<p><strong>382</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
-<p><strong>沐阳</strong> · @yyyole</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SingulantChain/status/2114904617717055543">Sentry uses Jev to screen 10M events daily for prompt injection</a></h3>
+<p>Per the post, Sentry uses Jev to check 10M events daily for prompt injection, spending $263 per day, and is testing its own classifier aiming for 90% cost reduction. Highlights the risk of prompt injection via error reports for coding agents.</p>
+<p><strong>43</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><strong>AI⁴ | Recursive Superintelligence</strong> · @SingulantChain</p>
 </td>
 </tr>
 </table>

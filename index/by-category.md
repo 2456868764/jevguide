@@ -15,9 +15,9 @@
 - [Knowledge & search](../categories/knowledge-search.md) — 128
 - [Data analytics](../categories/data-analytics.md) — 116
 - [Scientific research](../categories/scientific-research.md) — 108
-- [Cybersecurity](../categories/cybersecurity.md) — 74
+- [Cybersecurity](../categories/cybersecurity.md) — 75
 - [Customer support](../categories/customer-support.md) — 60
-- [Robotics](../categories/robotics.md) — 52
+- [Robotics](../categories/robotics.md) — 54
 - [Productivity](../categories/productivity.md) — 46
 - [Business operations](../categories/business-operations.md) — 44
 - [Software development](../categories/software-development.md) — 44

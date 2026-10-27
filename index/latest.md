@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T02:18:48.000Z | [Sentry uses Jev to screen 10M events daily for prompt injection](https://x.com/SingulantChain/status/2114904617717055543) | 网络安全 | AI⁴ \| Recursive Superintelligence | 43 |
+| 2026-10-27T02:03:39.000Z | [Embodied AI × JEV: Streaming Video Understanding and Visual Grounding](https://x.com/yyyole/status/2114900803362377844) | 机器人 | 沐阳 | 382 |
+| 2026-10-27T02:03:08.000Z | [Real-world use case for JEV in robots and drones](https://x.com/AI_Jasonyu/status/2114900673233821966) | 机器人 | 鱼总聊AI | 876 |
 | 2026-10-27T00:36:28.000Z | [David Rangel Passed the Jev AI Course on Platzi](https://x.com/DR1602/status/2114878864296165505) | 教育 | David Rangel | 2 |
 | 2026-10-27T00:03:21.000Z | [Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis](https://x.com/ericosiu/status/2114870531056869594) | 营销 | ericosiu | 230 |
 | 2026-10-26T23:26:07.000Z | [RadarLat Ep 1: Intro to Jev and System One Decision Models](https://x.com/yenkel/status/2114861158557508044) | 社区实践 | yenkel | 476 |
@@ -99,6 +102,3 @@
 | 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |
 | 2026-10-26T07:36:19.000Z | [Microsoft ships Decision-1 with Jev-compatible API](https://x.com/jmojeda/status/2114622135616544945) | 接入动态 | jmojeda | 8 |
 | 2026-10-26T06:46:01.000Z | [OpenAI launches Decisions API to compete with models like Jev](https://x.com/ChanPerco/status/2114609478125416853) | 产品发布 | Jonathan Chan  💡📣 | 112 |
-| 2026-10-26T06:02:47.000Z | [JEV filter-powered fully autonomous trading on Solana](https://x.com/mitchartgirl/status/2114598598654706055) | 金融 | 🅜🅘🅣🅒🅗🅘🅔 🅣🅗🅔 🅓🅔🅢🅘🅖🅝🅔🅡 | 33 |
-| 2026-10-26T03:47:06.000Z | [What's the point of OpenJev if it's 25x slower than Jev?](https://x.com/YangEndGame/status/2114564453035614274) | 社区实践 | Yang Liu | 3.9K |
-| 2026-10-26T03:10:11.000Z | [Clef and Microsoft Decision Models Announced Jev-API Compatibility](https://x.com/KOIYAL_AI/status/2114555161310113885) | 接入动态 | AI時代のインハウス経営支援 \| KOIYAL | 4 |

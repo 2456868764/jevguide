@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6360</strong><br>curated posts</td>
-<td align="center"><strong>3181</strong><br>original videos</td>
+<td align="center"><strong>6363</strong><br>curated posts</td>
+<td align="center"><strong>3184</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>74</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>75</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>52</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>54</strong> showcases · <strong>42</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SingulantChain/status/2114904617717055543">Sentry uses Jev to screen 10M events daily for prompt injection</a></h3>
+<p>Per the post, Sentry uses Jev to check 10M events daily for prompt injection, spending $263 per day, and is testing its own classifier aiming for 90% cost reduction. Highlights the risk of prompt injection via error reports for coding agents.</p>
+<p><strong>43</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><strong>AI⁴ | Recursive Superintelligence</strong> · @SingulantChain</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yyyole/status/2114900803362377844">Embodied AI × JEV: Streaming Video Understanding and Visual Grounding</a></h3>
+<p>Sparked by the JEV decision model, this post discusses AI autonomous judgment and timely reminders in the real world, and introduces VLX-Flow and VLX-Seek, two streaming video understanding and visual grounding models for embodied scenarios.</p>
+<p><strong>382</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
+<p><strong>沐阳</strong> · @yyyole</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/AI_Jasonyu/status/2114900673233821966"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900344815632384/img/PGz1eCmv9Rx0aF6B.jpg" alt="Real-world use case for JEV in robots and drones · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AI_Jasonyu/status/2114900673233821966">Real-world use case for JEV in robots and drones</a></h3>
+<p>The post argues that JEV handles judgment, but robots and drones first need to accurately identify the scene, count all targets, and determine when nothing is present before JEV can make reliable decisions.</p>
+<p><strong>876</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 6 &nbsp; 📊 876</p>
+<p><strong>鱼总聊AI</strong> · @AI_Jasonyu</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
 <a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
 <p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
 <p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><strong>David Rangel</strong> · @DR1602</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/ericosiu/status/2114870531056869594"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114870287971778560/pu/img/r_Bft4-KgiMyl4q_.jpg" alt="Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ericosiu/status/2114870531056869594">Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis</a></h3>
-<p>The user used Jev Images for under a penny to get a 36-page analysis covering competitors, ad offers, campaign duration, and market gaps, which also provided fixes for their own pages.</p>
-<p><strong>230</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 230</p>
-<p><strong>ericosiu</strong> · @ericosiu</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/yenkel/status/2114861158557508044"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800748907069440/img/Gfl4mHr1xl51rDyR.jpg" alt="RadarLat Ep 1: Intro to Jev and System One Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yenkel/status/2114861158557508044">RadarLat Ep 1: Intro to Jev and System One Decision Models</a></h3>
-<p>This episode debates AI-native innovation, whether AI progress should be halted, software vulnerabilities, and introduces Jev and System One decision models.</p>
-<p><strong>476</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 476</p>
-<p><strong>yenkel</strong> · @yenkel</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/webxos/status/2114859189973750179"><img src="https://pbs.twimg.com/media/HVl8-ycXQAAzd-3?format=jpg&amp;name=large" alt="JSON prompt export example with Jev decision making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/webxos/status/2114859189973750179">JSON prompt export example with Jev decision making</a></h3>
-<p>The agentowl page shows a JSON prompt export example: all links are automatically gathered via the fanned API and processed with Jev decision making.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 31</p>
-<p><strong>webXOS</strong> · @webxos</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SingulantChain/status/2114904617717055543">Sentry uses Jev to screen 10M events daily for prompt injection</a></h3>
+<p>Per the post, Sentry uses Jev to check 10M events daily for prompt injection, spending $263 per day, and is testing its own classifier aiming for 90% cost reduction. Highlights the risk of prompt injection via error reports for coding agents.</p>
+<p><strong>43</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><strong>AI⁴ | Recursive Superintelligence</strong> · @SingulantChain</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
 <a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
 <p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
 <p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><strong>David Rangel</strong> · @DR1602</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/webxos/status/2114859189973750179"><img src="https://pbs.twimg.com/media/HVl8-ycXQAAzd-3?format=jpg&amp;name=large" alt="JSON prompt export example with Jev decision making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/webxos/status/2114859189973750179">JSON prompt export example with Jev decision making</a></h3>
-<p>The agentowl page shows a JSON prompt export example: all links are automatically gathered via the fanned API and processed with Jev decision making.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 31</p>
-<p><strong>webXOS</strong> · @webxos</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xzynq/status/2114850985914843568"><img src="https://pbs.twimg.com/amplify_video_thumb/2114850174233096192/img/cEG9SfGERx_Mx3Ss.jpg" alt="Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xzynq/status/2114850985914843568">Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K</a></h3>
-<p>The author shares an overnight run of their Grok bot trading desks: after crossing $100K, they kept running, but coins picked by Jev moved against them, dropping the account from $137,350 to $116,675.</p>
-<p><strong>326</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 326</p>
-<p><strong>ZYNQ</strong> · @0xzynq</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/ericosiu/status/2114870531056869594"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114870287971778560/pu/img/r_Bft4-KgiMyl4q_.jpg" alt="Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ericosiu/status/2114870531056869594">Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis</a></h3>
+<p>The user used Jev Images for under a penny to get a 36-page analysis covering competitors, ad offers, campaign duration, and market gaps, which also provided fixes for their own pages.</p>
+<p><strong>230</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 230</p>
+<p><strong>ericosiu</strong> · @ericosiu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/warriors_based/status/2114831079043428364"><img src="https://pbs.twimg.com/media/HVljpwvXcAANMce?format=jpg&amp;name=medium" alt="REM, a Jev-powered SOL trading terminal, is now live · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/warriors_based/status/2114831079043428364">REM, a Jev-powered SOL trading terminal, is now live</a></h3>
-<p>Warriors announced the launch of $REM, a SOL trading terminal powered by Jev, built for advanced trading strategies.</p>
-<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
-<p><strong>Warriors</strong> · @warriors_based</p>
+<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/TheMattBerman/status/2114837746590347433"><img src="https://pbs.twimg.com/amplify_video_thumb/2114836730998067200/img/kxOmBtcBaOhc-72f.jpg" alt="Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/TheMattBerman/status/2114837746590347433">Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes</a></h3>
+<p>Matthew Berman: Jev ran 100 AI shoppers across 3,092 real US Meta ads from 669 brands in 3 minutes. Only 2 of the top 100 ads had 50% off.</p>
+<p><strong>372</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 372</p>
+<p><strong>Matthew Berman</strong> · @TheMattBerman</p>
 </td>
 </tr>
 </table>

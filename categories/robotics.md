@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 52 | 40 | 12 | 205K |
+| 54 | 42 | 12 | 205K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yyyole/status/2114900803362377844">Embodied AI × JEV: Streaming Video Understanding and Visual Grounding</a></h3>
+<p>Sparked by the JEV decision model, this post discusses AI autonomous judgment and timely reminders in the real world, and introduces VLX-Flow and VLX-Seek, two streaming video understanding and visual grounding models for embodied scenarios.</p>
+<p><strong>中文摘要：</strong>由 JEV 决策模型引发讨论，关注 AI 在真实世界中的自主判断和提醒，并介绍 VLX-Flow 与 VLX-Seek 两个面向具身场景的流式视频理解与视觉定位模型。</p>
+<p><strong>沐阳</strong> · @yyyole · 2026-10-27T02:03:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 382</p>
+<p><a href="https://x.com/yyyole/status/2114900803362377844">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AI_Jasonyu/status/2114900673233821966"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900344815632384/img/PGz1eCmv9Rx0aF6B.jpg" alt="Real-world use case for JEV in robots and drones · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AI_Jasonyu/status/2114900673233821966">Real-world use case for JEV in robots and drones</a></h3>
+<p>The post argues that JEV handles judgment, but robots and drones first need to accurately identify the scene, count all targets, and determine when nothing is present before JEV can make reliable decisions.</p>
+<p><strong>中文摘要：</strong>帖子认为 JEV 负责判断，但机器人和无人机需要先准确识别场景、清点目标并判断空无一物，之后 JEV 才能做出可靠决策。</p>
+<p><strong>鱼总聊AI</strong> · @AI_Jasonyu · 2026-10-27T02:03:08.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 6 &nbsp; 📊 876</p>
+<p><a href="https://x.com/AI_Jasonyu/status/2114900673233821966">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BdcauntBen/status/2114817331759034844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114817210505953281/img/JBaIB9PMBk_z_nZo.jpg" alt="Jev Harness for Robot Navigation · 原帖视频截图" width="100%"></a>

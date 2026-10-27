@@ -379,6 +379,7 @@
 - [岚叔](../authors/岚叔.md) — 3
 - [新井 元気@ITエンジニア](../authors/新井-元気-it.md) — 3
 - [梅澤 寛太｜Web・業務システム開発](../authors/梅澤-寛太-web-業務-開発.md) — 3
+- [沐阳](../authors/沐阳.md) — 3
 - [河本_Kawamoto | WRC2026・北京🤖✨️](../authors/河本-kawamoto-wrc2026-北京.md) — 3
 - [玉米_AlphaNotes](../authors/玉米-alphanotes.md) — 3
 - [田中義弘 | taziku CEO / AI × Creative](../authors/田中義弘-taziku-ceo-ai-creative.md) — 3
@@ -906,7 +907,6 @@
 - [村井隆紘 - CloudPartnersGroup 代表税理士・公認会計士](../authors/村井隆紘-cloudpartnersgroup-代表税理士-公認会計士.md) — 2
 - [查理](../authors/查理.md) — 2
 - [毎日育児頑張るパパ](../authors/毎日育児頑張.md) — 2
-- [沐阳](../authors/沐阳.md) — 2
 - [深津 貴之 / THE GUILD, note](../authors/深津-貴之-the-guild-note.md) — 2
 - [濱田優貴](../authors/濱田優貴.md) — 2
 - [田嶋正吾](../authors/田嶋正吾.md) — 2
@@ -1058,6 +1058,7 @@
 - [AI_Pioneer](../authors/ai-pioneer.md) — 1
 - [AI.Engineer 🔜 SF Code Summit](../authors/ai-engineer-sf-code-summit.md) — 1
 - [AI/ML API](../authors/ai-ml-api.md) — 1
+- [AI⁴ | Recursive Superintelligence](../authors/ai4-recursive-superintelligence.md) — 1
 - [aiasssistantstore](../authors/aiasssistantstore.md) — 1
 - [AICX協会公式](../authors/aicx協会公式.md) — 1
 - [Aidan](../authors/aidan.md) — 1
@@ -4415,6 +4416,7 @@
 - [骨しゃぶり](../authors/骨.md) — 1
 - [高橋優輔|株式会社Layer Security](../authors/高橋優輔-株式会社layer-security.md) — 1
 - [魔丸](../authors/魔丸.md) — 1
+- [鱼总聊AI](../authors/鱼总聊ai.md) — 1
 - [鳥居宏一＠ノコヤドットネット｜中小企業のAI現場改善パートナー](../authors/鳥居宏一-中小企業-ai現場改善.md) — 1
 - [鸟叔本鸟](../authors/鸟叔本鸟.md) — 1
 - [鸟哥 | 蓝鸟会🕊️](../authors/鸟哥-蓝鸟会.md) — 1

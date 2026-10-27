@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 54 | 42 | 12 | 205K |
+| 56 | 43 | 13 | 205K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kawamoto_LINER/status/2114930273003716708"><img src="https://pbs.twimg.com/media/HVm8F00aoAAs2lo?format=jpg&amp;name=medium" alt="Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kawamoto_LINER/status/2114930273003716708">Jev x Robotics Meetup: Hands-on Physical AI &amp; Decisions API</a></h3>
+<p>This event explores possibilities of combining generative AI Jev with robotics, hands-on with Liquid AI d1-3B and OpenAI Decisions API, plus a recap of the December visit to Shenzhen.</p>
+<p><strong>中文摘要：</strong>活动探索生成AI Jev 与机器人组合的可能性，并实际试玩Liquid AI『d1-3B』和OpenAI『Decisions API』，同时分享12月深圳访问的内容。</p>
+<p><strong>河本_Kawamoto | WRC2026・北京🤖✨️</strong> · @kawamoto_LINER · 2026-10-27T04:00:45.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 141</p>
+<p><a href="https://x.com/kawamoto_LINER/status/2114930273003716708">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RealYDT/status/2114925698205048889"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900344815632384/img/PGz1eCmv9Rx0aF6B.jpg" alt="Discussion on Combining Jev Decision Model with Vision in Robots/Drones · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RealYDT/status/2114925698205048889">Discussion on Combining Jev Decision Model with Vision in Robots/Drones</a></h3>
+<p>The post notes that decision models like Jev handle judgment, classification, and scoring without directly processing images; in robot and drone applications, a vision system must first tell the model what is in the scene, how many, and where.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 这类决策模型负责判断、分类、打分，本身不直接看画面；在机器人和无人机应用中，需要先由视觉系统告诉模型画面里有什么、有几个、在哪。</p>
+<p><strong>阿良｜AI 工作流</strong> · @RealYDT · 2026-10-27T03:42:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 286</p>
+<p><a href="https://x.com/RealYDT/status/2114925698205048889">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yyyole/status/2114900803362377844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114900752132952064/img/fDwqiEJJ0MrY8WH7.jpg" alt="Embodied AI × JEV: Streaming Video Understanding and Visual Grounding · 原帖视频截图" width="100%"></a>

@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T04:21:07.000Z | [Using Local Jev to Split Light Novel Text and Generate Speech](https://x.com/Rasagnoa/status/2114935400984969267) | 社区实践 | ラザノア | 28 |
+| 2026-10-27T04:14:28.000Z | [oh-my-hermes thanks OpenGatewayai for models including Jev](https://x.com/rlaope/status/2114933726262239245) | 社区实践 | HOPE. | 46 |
+| 2026-10-27T04:00:45.000Z | [Jev x Robotics Meetup: Hands-on Physical AI & Decisions API](https://x.com/kawamoto_LINER/status/2114930273003716708) | 机器人 | 河本_Kawamoto \| WRC2026・北京🤖✨️ | 141 |
+| 2026-10-27T03:58:34.000Z | [Using Jev + Ollama to Implement a HITL Bookmark Categorization Workflow](https://x.com/satishgoda/status/2114929724967490037) | 自动化工作流 | Satish G | 10 |
+| 2026-10-27T03:43:34.000Z | [Building a Storyshape Video Pipeline with Jev](https://x.com/nutanc/status/2114925951331262852) | 内容创作 | nutanc | 72 |
+| 2026-10-27T03:42:34.000Z | [Discussion on Combining Jev Decision Model with Vision in Robots/Drones](https://x.com/RealYDT/status/2114925698205048889) | 机器人 | 阿良｜AI 工作流 | 286 |
+| 2026-10-27T03:38:50.000Z | [Decision Model Hits #1 on Japanese Benchmark; Decision Model Factory Unveiled](https://x.com/yuma_1_or/status/2114924758534180953) | 产品发布 | Yuma Ichikawa | 418 |
 | 2026-10-27T03:19:17.000Z | [Japanese Decision Model Based on Jev Achieves Top Performance](https://x.com/yuma_1_or/status/2114919838405775625) | 产品发布 | Yuma Ichikawa | 125 |
 | 2026-10-27T03:01:34.000Z | [d3-ultra: New Open 27B Multimodal Decision Model](https://x.com/XunzhuoLiu/status/2114915380926017591) | 产品发布 | Xunzhuo | 342 |
 | 2026-10-27T02:18:48.000Z | [Sentry uses Jev to screen 10M events daily for prompt injection](https://x.com/SingulantChain/status/2114904617717055543) | 网络安全 | AI⁴ \| Recursive Superintelligence | 43 |
@@ -95,10 +102,3 @@
 | 2026-10-26T10:19:18.000Z | [Generating infinite content from a single image and sound with Jev](https://x.com/hansnoed/status/2114663150922469573) | 内容创作 | Ah Um | 22 |
 | 2026-10-26T10:01:18.000Z | [What is Jev? What can it do? Explained in a 1-minute video](https://x.com/interstella1415/status/2114658622072586509) | 社区实践 | Interstella | 5 |
 | 2026-10-26T09:55:56.000Z | [Jev 1.14 Image Support and Security Camera Use Case](https://x.com/liran_tal/status/2114657271527436427) | 社区实践 | Liran Tal | 107 |
-| 2026-10-26T09:41:42.000Z | [Jev: LLMs Write, Jev Decides](https://x.com/ABArkTech_/status/2114653688165965874) | 工作原理 | AB Ark Solutions | 5 |
-| 2026-10-26T09:30:53.000Z | [jev-trader: An AI Model Trading on Every Monad Block](https://x.com/nqmaikel/status/2114650966918123679) | 金融 | maikel | 14 |
-| 2026-10-26T09:15:05.000Z | [TypeSafe Jev Model Now Available via Official Direct Connection on apikey.fan](https://x.com/blockphd7/status/2114646988805341581) | 接入动态 | Blockphd区块博士.Ai 🎒 | 143 |
-| 2026-10-26T09:10:09.000Z | [SanSi: A Decision Model If Jev Had Anxiety](https://x.com/gagan1v9/status/2114645751137718703) | 工作原理 | Gagan Devagiri | 13 |
-| 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
-| 2026-10-26T08:26:00.000Z | [Liquid AI d1-ultra leads Decision Index, 8 points ahead of Jev 1.14](https://x.com/defaiscope/status/2114634637331124661) | 开发者工具 | DeFAI Scope | 16 |
-| 2026-10-26T07:39:05.000Z | [How Jev Works: A Comparison with Normal LLMs](https://x.com/jmojeda/status/2114622830113669165) | 工作原理 | jmojeda | 5 |

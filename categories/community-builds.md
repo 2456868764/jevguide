@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1200 | 505 | 700 | 3.0M |
+| 1202 | 506 | 701 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Rasagnoa/status/2114935400984969267"><img src="https://pbs.twimg.com/amplify_video_thumb/2114935166900764672/img/FZZRbljXwXOUudvQ.jpg" alt="Using Local Jev to Split Light Novel Text and Generate Speech · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Rasagnoa/status/2114935400984969267">Using Local Jev to Split Light Novel Text and Generate Speech</a></h3>
+<p>A user shares a personal workflow: after removing DRM from Kindle light novels with Epubor, they use Sokudan (local Jev) to separate narrative from dialogue, then batch-generate audio with irodoriTTS, and are currently adjusting dictionary and particle detection to improve reading accuracy.</p>
+<p><strong>中文摘要：</strong>一位用户分享个人工作流：使用Epubor解除Kindle轻小说DRM后，通过Sokudan（本地Jev）将文本区分为叙述和对话，再用irodoriTTS批量输出语音，并正在调整词典与助词判定以提升朗读精度。</p>
+<p><strong>ラザノア</strong> · @Rasagnoa · 2026-10-27T04:21:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><a href="https://x.com/Rasagnoa/status/2114935400984969267">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rlaope/status/2114933726262239245"><img src="https://pbs.twimg.com/media/HVnAwaKbQAAgEpd?format=jpg&amp;name=medium" alt="oh-my-hermes thanks OpenGatewayai for models including Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/rlaope/status/2114933726262239245">oh-my-hermes thanks OpenGatewayai for models including Jev</a></h3>
+<p>Author HOPE. showcases the oh-my-hermes project and thanks sponsor OpenGatewayai for helping them become a tokenmaxxer, providing models such as glm, deepseek, kimi, and Jev.</p>
+<p><strong>中文摘要：</strong>作者HOPE.展示了其oh-my-hermes项目，并感谢赞助商OpenGatewayai帮助其成为tokenmaxxer，提供的模型包括glm、deepseek、kimi和Jev等。</p>
+<p><strong>HOPE.</strong> · @rlaope · 2026-10-27T04:14:28.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 46</p>
+<p><a href="https://x.com/rlaope/status/2114933726262239245">在 X 查看原帖</a> · <a href="https://t.co/5OoCqbz58X">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yenkel/status/2114861158557508044"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800748907069440/img/Gfl4mHr1xl51rDyR.jpg" alt="RadarLat Ep 1: Intro to Jev and System One Decision Models · 原帖视频截图" width="100%"></a>

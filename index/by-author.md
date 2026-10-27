@@ -192,6 +192,7 @@
 - [内田勉 DirecTune.app β公開中](../authors/内田勉-directune-app-公開中.md) — 4
 - [思维怪怪](../authors/思维怪怪.md) — 4
 - [比特币橙子Trader](../authors/比特币橙子trader.md) — 4
+- [河本_Kawamoto | WRC2026・北京🤖✨️](../authors/河本-kawamoto-wrc2026-北京.md) — 4
 - [知识猫AI实验室](../authors/知识猫ai实验室.md) — 4
 - [長田英幸 | AWS Community Builder AI Engineering](../authors/長田英幸-aws-community-builder-ai-engineering.md) — 4
 - [黄小木](../authors/黄小木.md) — 4
@@ -380,7 +381,6 @@
 - [新井 元気@ITエンジニア](../authors/新井-元気-it.md) — 3
 - [梅澤 寛太｜Web・業務システム開発](../authors/梅澤-寛太-web-業務-開発.md) — 3
 - [沐阳](../authors/沐阳.md) — 3
-- [河本_Kawamoto | WRC2026・北京🤖✨️](../authors/河本-kawamoto-wrc2026-北京.md) — 3
 - [玉米_AlphaNotes](../authors/玉米-alphanotes.md) — 3
 - [田中義弘 | taziku CEO / AI × Creative](../authors/田中義弘-taziku-ceo-ai-creative.md) — 3
 - [超级峰](../authors/超级峰.md) — 3
@@ -702,6 +702,7 @@
 - [Nilay Coskun](../authors/nilay-coskun.md) — 2
 - [nOnEpcbl.](../authors/nonepcbl.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
+- [nutanc](../authors/nutanc.md) — 2
 - [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 2
 - [Ochob](../authors/ochob.md) — 2
 - [oka@個人開発](../authors/oka-個人開発.md) — 2
@@ -854,6 +855,7 @@
 - [Yerkebulan Rakhimov](../authors/yerkebulan-rakhimov.md) — 2
 - [Yessica](../authors/yessica.md) — 2
 - [Yoshimi Shikase](../authors/yoshimi-shikase.md) — 2
+- [Yuma Ichikawa](../authors/yuma-ichikawa.md) — 2
 - [Yury Selivanov](../authors/yury-selivanov.md) — 2
 - [Zach Khorozian](../authors/zach-khorozian.md) — 2
 - [zaru](../authors/zaru.md) — 2
@@ -2107,6 +2109,7 @@
 - [Hoang Nguyen](../authors/hoang-nguyen.md) — 1
 - [HoneyHive](../authors/honeyhive.md) — 1
 - [Hope](../authors/hope.md) — 1
+- [HOPE.](../authors/hope.md) — 1
 - [Hosenur](../authors/hosenur.md) — 1
 - [Houman](../authors/houman.md) — 1
 - [Hoyt Emerson](../authors/hoyt-emerson.md) — 1
@@ -2953,7 +2956,6 @@
 - [nuel](../authors/nuel.md) — 1
 - [nullsoft officiall](../authors/nullsoft-officiall.md) — 1
 - [Nuno Sousa](../authors/nuno-sousa.md) — 1
-- [nutanc](../authors/nutanc.md) — 1
 - [ObjectGraph](../authors/objectgraph.md) — 1
 - [oBrain Arc](../authors/obrain-arc.md) — 1
 - [Ocean Q3](../authors/ocean-q3.md) — 1
@@ -3358,6 +3360,7 @@
 - [Sarvagya Kulshreshtha](../authors/sarvagya-kulshreshtha.md) — 1
 - [sat0xshi](../authors/sat0xshi.md) — 1
 - [Sathish](../authors/sathish.md) — 1
+- [Satish G](../authors/satish-g.md) — 1
 - [Satoshi Wolf](../authors/satoshi-wolf.md) — 1
 - [Sattyam Jain](../authors/sattyam-jain.md) — 1
 - [Satvik Paramkusham](../authors/satvik-paramkusham.md) — 1
@@ -3959,7 +3962,6 @@
 - [Yuhan Luo](../authors/yuhan-luo.md) — 1
 - [Yujie Zha](../authors/yujie-zha.md) — 1
 - [yuma (Maki)](../authors/yuma-maki.md) — 1
-- [Yuma Ichikawa](../authors/yuma-ichikawa.md) — 1
 - [yumi](../authors/yumi.md) — 1
 - [Yunn](../authors/yunn.md) — 1
 - [yunus](../authors/yunus.md) — 1
@@ -4231,6 +4233,7 @@
 - [よたん](../authors/jev-showcase.md) — 1
 - [よっちゃん](../authors/jev-showcase.md) — 1
 - [らけしで / Mizmic Studio](../authors/mizmic-studio.md) — 1
+- [ラザノア](../authors/jev-showcase.md) — 1
 - [ラッキー｜AIを武器に。](../authors/ai-武器.md) — 1
 - [ららぴっち](../authors/jev-showcase.md) — 1
 - [リツト＠AI活用を教える人](../authors/ai活用-教-人.md) — 1
@@ -4405,6 +4408,7 @@
 - [钟老](../authors/钟老.md) — 1
 - [鈴木裕斗 | Offers | AI x HR](../authors/鈴木裕斗-offers-ai-x-hr.md) — 1
 - [银马](../authors/银马.md) — 1
+- [阿良｜AI 工作流](../authors/阿良-ai-工作流.md) — 1
 - [阿蔺A-Lin](../authors/阿蔺a-lin.md) — 1
 - [阿部 隼也](../authors/阿部-隼也.md) — 1
 - [陆三金](../authors/陆三金.md) — 1

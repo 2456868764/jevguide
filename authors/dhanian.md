@@ -1,9 +1,10 @@
 # Dhanian 🗯️
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T15:32:15.000Z | [What is Jev AI and Why Is It Not an LLM?](https://x.com/e_opore/status/2114741909969121622) | 开发资源 | Dhanian 🗯️ | 1.3K |
 | 2026-10-12T11:03:43.000Z | [Understand the Jev AI Model Architecture](https://x.com/e_opore/status/2109600901178511499) | 开发资源 | Dhanian 🗯️ | 783 |
 | 2026-10-09T03:53:29.000Z | [Jev AI vs Traditional ML](https://x.com/e_opore/status/2108405462034948558) | 工作原理 | Dhanian 🗯️ | 300 |
 | 2026-10-05T05:57:28.000Z | [Mastering Jev: Step 1 Understand the Fundamentals](https://x.com/e_opore/status/2106987115632300344) | 教育 | Dhanian 🗯️ | 729 |

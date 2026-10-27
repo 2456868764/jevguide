@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6341</strong><br>curated posts</td>
-<td align="center"><strong>3170</strong><br>original videos</td>
+<td align="center"><strong>6360</strong><br>curated posts</td>
+<td align="center"><strong>3181</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1193</strong> showcases · <strong>500</strong> videos</p>
+<p><strong>1200</strong> showcases · <strong>505</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>592</strong> showcases · <strong>259</strong> videos</p>
+<p><strong>595</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>545</strong> showcases · <strong>233</strong> videos</p>
+<p><strong>548</strong> showcases · <strong>235</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>504</strong> showcases · <strong>283</strong> videos</p>
+<p><strong>505</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>383</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>384</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>326</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>327</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,22 +94,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>166</strong> showcases · <strong>127</strong> videos</p>
+<p><strong>168</strong> showcases · <strong>129</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
+<td width="33%" valign="top">
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>128</strong> showcases · <strong>90</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
 <p><strong>128</strong> showcases · <strong>64</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>127</strong> showcases · <strong>89</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>

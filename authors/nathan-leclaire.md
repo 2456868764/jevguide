@@ -1,9 +1,10 @@
 # Nathan LeClaire
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-26T16:34:02.000Z | [Building a Jev-powered superfan for your services](https://x.com/dotpem/status/2114757455641223458) | 社区实践 | Nathan LeClaire | 603 |
 | 2026-10-22T19:49:32.000Z | [Developer shares Jev usage experience](https://x.com/dotpem/status/2113357105587749360) | 社区实践 | Nathan LeClaire | 89 |
 | 2026-10-12T02:41:37.000Z | [Jev Tip: Prefer Choice over Score for Ranking](https://x.com/dotpem/status/2109474543249264878) | 社区实践 | Nathan LeClaire | 157 |
 | 2026-10-10T07:34:00.000Z | [The fun of making Jev demos and tools](https://x.com/dotpem/status/2108823345496236347) | 社区实践 | Nathan LeClaire | 169 |

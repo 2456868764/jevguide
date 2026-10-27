@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 166 | 127 | 39 | 904K |
+| 168 | 129 | 39 | 904K |
 
 ## Showcase 卡片
 
@@ -55,6 +55,30 @@
 <p><strong>TypeSafe AI</strong> · @typesafeai · 2026-10-26T18:23:54.000Z</p>
 <p>💬 9 &nbsp; 🔁 10 &nbsp; ♡ 103 &nbsp; 📊 9.5K</p>
 <p><a href="https://x.com/typesafeai/status/2114785106858795418">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/firecrawl/status/2114761999003340852"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114761980233805824/pu/img/ksI_zv2WwE7zIorZ.jpg" alt="Jev + Firecrawl: Fast Company Data Classification · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/firecrawl/status/2114761999003340852">Jev + Firecrawl: Fast Company Data Classification</a></h3>
+<p>Firecrawl introduces Jev-powered company data classification, sorting 146 startups by buyer in 2.2 seconds for lead scoring, account research, and market maps.</p>
+<p><strong>中文摘要：</strong>Firecrawl 宣布将 Jev 用于 Alexandria 公司数据分类，在 2.2 秒内将 146 家初创公司按购买者归类，适用于潜在客户评分、账户研究及市场图谱。</p>
+<p><strong>Firecrawl</strong> · @firecrawl · 2026-10-26T16:52:05.000Z</p>
+<p>💬 14 &nbsp; 🔁 42 &nbsp; ♡ 603 &nbsp; 📊 44K</p>
+<p><a href="https://x.com/firecrawl/status/2114761999003340852">在 X 查看原帖</a> · <a href="https://t.co/y5UeKLimrx">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/funnelbound/status/2114744492737876104"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Using Jev via Treg to Classify Emails Quickly · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/funnelbound/status/2114744492737876104">Using Jev via Treg to Classify Emails Quickly</a></h3>
+<p>A user shares their experience using Jev through Treg: they classified over 5,000 emails in just a few minutes, marking the era of low-cost outbound outreach.</p>
+<p><strong>中文摘要：</strong>用户分享通过 Treg 使用 Jev 的体验：仅用几分钟就完成了 5000 多封邮件的分类，认为低成本外联的时代已经到来。</p>
+<p><strong>parv</strong> · @funnelbound · 2026-10-26T15:42:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 29</p>
+<p><a href="https://x.com/funnelbound/status/2114744492737876104">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

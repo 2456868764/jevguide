@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T10:37:43.000Z | [A Research Desk in 8 GitHub Repos (Claude + Jev)](https://x.com/0xkurt/status/2115030172743217359) | 开发资源 | Kurt | 6 |
+| 2026-10-27T10:30:09.000Z | [OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free](https://x.com/LML_88_/status/2115028271700070416) | 产品发布 | LML88 | 19 |
 | 2026-10-27T09:37:52.000Z | [Evaluating Million-Neuron Experiments with TypeSafe Jev](https://x.com/dorkitude/status/2115015112088306112) | 社区实践 | Kyle Wild | 21 |
 | 2026-10-27T08:05:29.000Z | [Comparing Perplexity's Decider Flash and JEV](https://x.com/Toby_AgwaB/status/2114991864906723793) | 开发者工具 | 김크립토 | 55 |
 | 2026-10-27T07:37:22.000Z | [Community Love for Jev](https://x.com/brad_bao/status/2114984787761037510) | 社区实践 | Brad | 2 |
@@ -100,5 +102,3 @@
 | 2026-10-26T11:49:46.000Z | [Find Creator Partners Faster with Jev](https://x.com/droidbuilds/status/2114685919899046094) | 营销 | DROID | 3.7K |
 | 2026-10-26T11:38:50.000Z | [Using a Jev Agent to Create a GitHub Repo Explainer Video](https://x.com/architect_aliy/status/2114683167890399275) | 智能体 | Architect Aliy | 10 |
 | 2026-10-26T11:28:48.000Z | [JEV-powered people search finds prospects complaining about competitors on Reddit/X](https://x.com/tarasshyn/status/2114680642185101600) | 营销 | Taras | 33 |
-| 2026-10-26T11:22:55.000Z | [Treg AI's people search loop wired with Jev](https://x.com/justabdulraouf/status/2114679160182342033) | 营销 | abdul | 35 |
-| 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |

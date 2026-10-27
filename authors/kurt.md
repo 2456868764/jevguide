@@ -1,9 +1,10 @@
 # Kurt
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T10:37:43.000Z | [A Research Desk in 8 GitHub Repos (Claude + Jev)](https://x.com/0xkurt/status/2115030172743217359) | 开发资源 | Kurt | 6 |
 | 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
 | 2026-10-12T12:32:46.000Z | [Jev cuts context waste in Claude Code](https://x.com/0xkurt/status/2109623309499343033) | 开发者工具 | Kurt | 29 |
 | 2026-10-11T11:05:53.000Z | [JEV: Handling the Grunt Work Business Owners Hate](https://x.com/0xkurt/status/2109239054545854956) | 客户支持 | Kurt | 21 |

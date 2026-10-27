@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6382</strong><br>curated posts</td>
-<td align="center"><strong>3193</strong><br>original videos</td>
+<td align="center"><strong>6384</strong><br>curated posts</td>
+<td align="center"><strong>3194</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>551</strong> showcases · <strong>238</strong> videos</p>
+<p><strong>552</strong> showcases · <strong>238</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>384</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>385</strong> showcases · <strong>156</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xkurt/status/2115030172743217359"><img src="https://pbs.twimg.com/amplify_video_thumb/2115001901985009664/img/lESGg-rBnyhgEF9d.jpg" alt="A Research Desk in 8 GitHub Repos (Claude + Jev) · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xkurt/status/2115030172743217359">A Research Desk in 8 GitHub Repos (Claude + Jev)</a></h3>
+<p>A stack built around Claude and Jev for reading the web, opening PDFs, and keeping sources—useful for competitor briefs, product research, and technical deep dives.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Kurt</strong> · @0xkurt</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/LML_88_/status/2115028271700070416"><img src="https://pbs.twimg.com/media/HVoW_KDXoAAuWjo?format=png&amp;name=medium" alt="OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/LML_88_/status/2115028271700070416">OpenCode Gives Away 10 AI Coding Models Including Jev 1.13 for Free</a></h3>
+<p>OpenCode is currently giving away 10 AI coding models for free, including GLM-5.3 Flash, DeepSeek V4.1 Flash, MiMo-V2.6, Nemotron 3 Ultra, Nemotron 3.5 Lightning and Super VL, Big Pickle, Beam, Flint 40B, and Jev 1.13. Some of them do not use your data for training.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>LML88</strong> · @LML_88_</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/dorkitude/status/2115015112088306112"><img src="https://pbs.twimg.com/media/HVoJdDubUAA9D1a?format=jpg&amp;name=medium" alt="Evaluating Million-Neuron Experiments with TypeSafe Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/dorkitude/status/2115015112088306112">Evaluating Million-Neuron Experiments with TypeSafe Jev</a></h3>
 <p>Kyle Wild is running large-scale experiments where each neurotype is a specific steering configuration for Qwen3.5-4B, each is given 67 varied prompts, and outputs are evaluated by TypeSafe Jev and Fireworks Rune.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Kyle Wild</strong> · @dorkitude</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
 <a href="https://x.com/Toby_AgwaB/status/2114991864906723793"><img src="https://pbs.twimg.com/media/HVn1499bgAATLt0?format=jpg&amp;name=medium" alt="Comparing Perplexity&#39;s Decider Flash and JEV · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/Toby_AgwaB/status/2114991864906723793">Comparing Perplexity&#39;s Decider Flash and JEV</a></h3>
 <p>The author compares Decider Flash, Perplexity&#39;s new 4B judgment model, with JEV. Decider Flash is based on Qwen3.5-4B, distilled from a 27B model, and can run locally for free via the Mac app. The author tries installing it on an M1 Mac Mini 16GB.</p>
 <p><strong>55</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
 <p><strong>김크립토</strong> · @Toby_AgwaB</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/brad_bao/status/2114984787761037510"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Community Love for Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/brad_bao/status/2114984787761037510">Community Love for Jev</a></h3>
-<p>A TypeSafe community member expresses appreciation for Jev on social media, mentioning @typesafeai.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Brad</strong> · @brad_bao</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/alepom/status/2114978673812029687"><img src="https://pbs.twimg.com/media/HVnp5CTXUAAbvvo?format=jpg&amp;name=medium" alt="Comparative study of decision models inspired by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/alepom/status/2114978673812029687">Comparative study of decision models inspired by Jev</a></h3>
-<p>The author compares new decision models based on #Jev with small local models, finding that APIs are favorable with few examples while results change with more data.</p>
-<p><strong>10</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Alessio Pomaro</strong> · @alepom</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/dorkitude/status/2115015112088306112"><img src="https://pbs.twimg.com/media/HVoJdDubUAA9D1a?format=jpg&amp;name=medium" alt="Evaluating Million-Neuron Experiments with TypeSafe Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dorkitude/status/2115015112088306112">Evaluating Million-Neuron Experiments with TypeSafe Jev</a></h3>
-<p>Kyle Wild is running large-scale experiments where each neurotype is a specific steering configuration for Qwen3.5-4B, each is given 67 varied prompts, and outputs are evaluated by TypeSafe Jev and Fireworks Rune.</p>
-<p><strong>21</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
-<p><strong>Kyle Wild</strong> · @dorkitude</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xkurt/status/2115030172743217359"><img src="https://pbs.twimg.com/amplify_video_thumb/2115001901985009664/img/lESGg-rBnyhgEF9d.jpg" alt="A Research Desk in 8 GitHub Repos (Claude + Jev) · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xkurt/status/2115030172743217359">A Research Desk in 8 GitHub Repos (Claude + Jev)</a></h3>
+<p>A stack built around Claude and Jev for reading the web, opening PDFs, and keeping sources—useful for competitor briefs, product research, and technical deep dives.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Kurt</strong> · @0xkurt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/alepom/status/2114978673812029687"><img src="https://pbs.twimg.com/media/HVnp5CTXUAAbvvo?format=jpg&amp;name=medium" alt="Comparative study of decision models inspired by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/alepom/status/2114978673812029687">Comparative study of decision models inspired by Jev</a></h3>
-<p>The author compares new decision models based on #Jev with small local models, finding that APIs are favorable with few examples while results change with more data.</p>
-<p><strong>10</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Alessio Pomaro</strong> · @alepom</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/Toby_AgwaB/status/2114991864906723793"><img src="https://pbs.twimg.com/media/HVn1499bgAATLt0?format=jpg&amp;name=medium" alt="Comparing Perplexity&#39;s Decider Flash and JEV · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Toby_AgwaB/status/2114991864906723793">Comparing Perplexity&#39;s Decider Flash and JEV</a></h3>
+<p>The author compares Decider Flash, Perplexity&#39;s new 4B judgment model, with JEV. Decider Flash is based on Qwen3.5-4B, distilled from a 27B model, and can run locally for free via the Mac app. The author tries installing it on an M1 Mac Mini 16GB.</p>
+<p><strong>55</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><strong>김크립토</strong> · @Toby_AgwaB</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583"><img src="https://pbs.twimg.com/media/HVnl1Lha8AAL8xB?format=jpg&amp;name=small" alt="A fast judgment website built with Jev AI · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Bioinfo_Kimura/status/2114974205674758583">A fast judgment website built with Jev AI</a></h3>
-<p>Supports text and image judgment for quickly evaluating anything you&#39;re curious about.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>kimura512@開発者</strong> · @Bioinfo_Kimura</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/brad_bao/status/2114984787761037510"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Community Love for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/brad_bao/status/2114984787761037510">Community Love for Jev</a></h3>
+<p>A TypeSafe community member expresses appreciation for Jev on social media, mentioning @typesafeai.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Brad</strong> · @brad_bao</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Rasagnoa/status/2114935400984969267"><img src="https://pbs.twimg.com/amplify_video_thumb/2114935166900764672/img/FZZRbljXwXOUudvQ.jpg" alt="Using Local Jev to Split Light Novel Text and Generate Speech · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Rasagnoa/status/2114935400984969267">Using Local Jev to Split Light Novel Text and Generate Speech</a></h3>
-<p>A user shares a personal workflow: after removing DRM from Kindle light novels with Epubor, they use Sokudan (local Jev) to separate narrative from dialogue, then batch-generate audio with irodoriTTS, and are currently adjusting dictionary and particle detection to improve reading accuracy.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ラザノア</strong> · @Rasagnoa</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/darrell_tw_/status/2114966365706834019"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="JEV for rapid screening in people-finding scenarios · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/darrell_tw_/status/2114966365706834019">JEV for rapid screening in people-finding scenarios</a></h3>
+<p>The author comments that the people-finding scenario is attractive, seemingly integrating suppliers like Apify and using TypeSafe AI&#39;s JEV for rapid screening and decision-making.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Darrell</strong> · @darrell_tw_</p>
 </td>
 </tr>
 </table>

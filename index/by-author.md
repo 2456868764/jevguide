@@ -35,6 +35,7 @@
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
 - [Gipp 🦅](../authors/gipp.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
+- [Kurt](../authors/kurt.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
 - [rody](../authors/rody.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8
@@ -48,7 +49,6 @@
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
 - [Jason Zhu](../authors/jason-zhu.md) — 7
-- [Kurt](../authors/kurt.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [rewind](../authors/rewind.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
@@ -2559,6 +2559,7 @@
 - [Lisa Yin](../authors/lisa-yin.md) — 1
 - [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1
 - [LLM-rg 750B Instruct (ryo_grid / Ryo Kanbayashi)](../authors/llm-rg-750b-instruct-ryo-grid-ryo-kanbayashi.md) — 1
+- [LML88](../authors/lml88.md) — 1
 - [Logan](../authors/logan.md) — 1
 - [Logan Markewich](../authors/logan-markewich.md) — 1
 - [logang](../authors/logang.md) — 1

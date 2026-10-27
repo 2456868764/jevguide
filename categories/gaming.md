@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 386 | 289 | 101 | 588K |
+| 388 | 291 | 101 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chrisjdimarco/status/2114776844390236508"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776711724191744/img/hTXjMj7VTAv-M_L0.jpg" alt="Jev Plays Chess with Light-Speed Orders · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/chrisjdimarco/status/2114776844390236508">Jev Plays Chess with Light-Speed Orders</a></h3>
+<p>In this chess variant, orders travel at light speed: pieces near the king act instantly, while distant ones take 1–3 turns to receive orders. Claude played against TypeSafe&#39;s Jev, who lost its queen and fell 12 behind before coming back to lead by 8.</p>
+<p><strong>中文摘要：</strong>这个象棋变体中，指令以光速传播：靠近王的棋子立即行动，远处的棋子需要1至3回合收到指令。Claude 与 TypeSafe 的 Jev 对弈时，Jev 虽然失去皇后并落后12分，但最终反超领先8分。</p>
+<p><strong>Christopher J. DiMarco</strong> · @chrisjdimarco · 2026-10-26T17:51:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 160</p>
+<p><a href="https://x.com/chrisjdimarco/status/2114776844390236508">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xMovez/status/2114776375412363288"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776244239638528/img/mUErsE8vTE4hm2pq.jpg" alt="Turning Meta Ray-Bans into chess cheat glasses with Opus 5.5 + Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xMovez/status/2114776375412363288">Turning Meta Ray-Bans into chess cheat glasses with Opus 5.5 + Jev</a></h3>
+<p>Movez shares a community project where someone reverse-engineered Meta Ray-Bans 3 with Opus 5.5 and Jev to create a 3000+ Elo chess engine, open-sourcing the full workflow and showing step-by-step setup on a Mac.</p>
+<p><strong>中文摘要：</strong>Movez 分享了一个社区项目：有人用 Opus 5.5 和 Jev 逆向改造 Meta Ray-Bans 3，做成 3000+ Elo 的国际象棋引擎，并开源了完整工作流程，逐步展示如何在 Mac 上安装使用。</p>
+<p><strong>Movez</strong> · @0xMovez · 2026-10-26T17:49:13.000Z</p>
+<p>💬 17 &nbsp; 🔁 23 &nbsp; ♡ 254 &nbsp; 📊 32K</p>
+<p><a href="https://x.com/0xMovez/status/2114776375412363288">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/itssotsot/status/2114046100189634934"><img src="https://pbs.twimg.com/amplify_video_thumb/2114045463062056960/img/d1B8Dc2j-xTIGIQH.jpg" alt="Chess Matchup: Jev vs OpenAI Decisions API · 原帖视频截图" width="100%"></a>

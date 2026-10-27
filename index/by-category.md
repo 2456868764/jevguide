@@ -1,27 +1,27 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1185
-- [Developer tools](../categories/developer-tools.md) — 637
-- [How it works](../categories/how-it-works.md) — 589
-- [Launch news](../categories/launch-news.md) — 544
-- [Agents](../categories/agents.md) — 503
-- [Access updates](../categories/access-updates.md) — 421
-- [Gaming](../categories/gaming.md) — 386
+- [Community builds](../categories/community-builds.md) — 1193
+- [Developer tools](../categories/developer-tools.md) — 638
+- [How it works](../categories/how-it-works.md) — 592
+- [Launch news](../categories/launch-news.md) — 545
+- [Agents](../categories/agents.md) — 504
+- [Access updates](../categories/access-updates.md) — 422
+- [Gaming](../categories/gaming.md) — 388
 - [Developer resources](../categories/developer-resources.md) — 383
-- [Finance](../categories/finance.md) — 322
-- [Workflow automation](../categories/workflow-automation.md) — 275
-- [Marketing](../categories/marketing.md) — 162
+- [Finance](../categories/finance.md) — 326
+- [Workflow automation](../categories/workflow-automation.md) — 276
+- [Marketing](../categories/marketing.md) — 166
 - [Knowledge & search](../categories/knowledge-search.md) — 128
-- [Content creation](../categories/content-creation.md) — 126
+- [Content creation](../categories/content-creation.md) — 127
 - [Data analytics](../categories/data-analytics.md) — 116
 - [Scientific research](../categories/scientific-research.md) — 108
-- [Cybersecurity](../categories/cybersecurity.md) — 73
-- [Customer support](../categories/customer-support.md) — 59
-- [Robotics](../categories/robotics.md) — 50
+- [Cybersecurity](../categories/cybersecurity.md) — 74
+- [Customer support](../categories/customer-support.md) — 60
+- [Robotics](../categories/robotics.md) — 52
 - [Productivity](../categories/productivity.md) — 46
+- [Business operations](../categories/business-operations.md) — 44
 - [Software development](../categories/software-development.md) — 44
-- [Business operations](../categories/business-operations.md) — 43
-- [Education](../categories/education.md) — 32
+- [Education](../categories/education.md) — 33
 - [Healthcare](../categories/healthcare.md) — 31
 - [E-commerce](../categories/e-commerce.md) — 24
 - [Legal & compliance](../categories/legal-compliance.md) — 21

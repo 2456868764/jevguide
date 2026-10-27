@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 322 | 188 | 136 | 1.2M |
+| 326 | 189 | 139 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xzynq/status/2114850985914843568"><img src="https://pbs.twimg.com/amplify_video_thumb/2114850174233096192/img/cEG9SfGERx_Mx3Ss.jpg" alt="Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xzynq/status/2114850985914843568">Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K</a></h3>
+<p>The author shares an overnight run of their Grok bot trading desks: after crossing $100K, they kept running, but coins picked by Jev moved against them, dropping the account from $137,350 to $116,675.</p>
+<p><strong>中文摘要：</strong>作者分享其 Grok 交易机器人三部交易桌的夜间表现：在账户突破 10 万美元后继续运行，Jev 挑选的新币表现不佳，账户从 137,350 美元回落至 116,675 美元。</p>
+<p><strong>ZYNQ</strong> · @0xzynq · 2026-10-26T22:45:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 326</p>
+<p><a href="https://x.com/0xzynq/status/2114850985914843568">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/warriors_based/status/2114831079043428364"><img src="https://pbs.twimg.com/media/HVljpwvXcAANMce?format=jpg&amp;name=medium" alt="REM, a Jev-powered SOL trading terminal, is now live · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/warriors_based/status/2114831079043428364">REM, a Jev-powered SOL trading terminal, is now live</a></h3>
+<p>Warriors announced the launch of $REM, a SOL trading terminal powered by Jev, built for advanced trading strategies.</p>
+<p><strong>中文摘要：</strong>Warriors 宣布基于 Jev 打造的 SOL 代币 $REM 交易终端已上线，面向高级交易策略。</p>
+<p><strong>Warriors</strong> · @warriors_based · 2026-10-26T21:26:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/warriors_based/status/2114831079043428364">在 X 查看原帖</a> · <a href="https://t.co/e67U8SFPD7">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Bull_Pump/status/2114803134954676731"><img src="https://pbs.twimg.com/media/HVlKPpXbEAAZOqF?format=jpg&amp;name=360x360" alt="Jev Rule Conflicts: How to Choose Between DCA and Conditional Sell? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Bull_Pump/status/2114803134954676731">Jev Rule Conflicts: How to Choose Between DCA and Conditional Sell?</a></h3>
+<p>A discussion on how Jev handles rule conflicts in trading: when a DCA and a conditional sell trigger together, which instruction does Jev prioritize?</p>
+<p><strong>中文摘要：</strong>一条关于Jev在交易中处理规则冲突的讨论：当定投（DCA）与条件卖出同时触发时，Jev会优先执行哪个指令？</p>
+<p><strong>Bull Pump Calls 📈</strong> · @Bull_Pump · 2026-10-26T19:35:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 295</p>
+<p><a href="https://x.com/Bull_Pump/status/2114803134954676731">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2114777608873201964"><img src="https://pbs.twimg.com/media/HVky_7BWwAAUZVk?format=jpg&amp;name=medium" alt="Fomo Explorer Powered by JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2114777608873201964">Fomo Explorer Powered by JEV</a></h3>
+<p>The author announces the arrival of the first true Fomo Explorer with actual on-chain data, using @typesafeai JEV for decisions, once the market cap floor reaches $200,000.</p>
+<p><strong>中文摘要：</strong>作者表示将在市值达到 20 万美元时推出首个使用真实链上数据的 Fomo Explorer，并借助 @typesafeai JEV 做出决策。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-10-26T17:54:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 248</p>
+<p><a href="https://x.com/0rdlibrary/status/2114777608873201964">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nqmaikel/status/2114650966918123679"><img src="https://pbs.twimg.com/media/HVi_10SX0AApVL9?format=jpg&amp;name=medium" alt="jev-trader: An AI Model Trading on Every Monad Block · 原帖图片" width="100%"></a>

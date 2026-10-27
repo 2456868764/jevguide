@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 162 | 124 | 38 | 904K |
+| 166 | 127 | 39 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ericosiu/status/2114870531056869594"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114870287971778560/pu/img/r_Bft4-KgiMyl4q_.jpg" alt="Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ericosiu/status/2114870531056869594">Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis</a></h3>
+<p>The user used Jev Images for under a penny to get a 36-page analysis covering competitors, ad offers, campaign duration, and market gaps, which also provided fixes for their own pages.</p>
+<p><strong>中文摘要：</strong>用户以不到一美分的成本，使用 Jev Images 通过一次提示词获取竞争对手、广告内容、投放时长与市场空白，并得到36页分析用于优化自家页面。</p>
+<p><strong>ericosiu</strong> · @ericosiu · 2026-10-27T00:03:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 230</p>
+<p><a href="https://x.com/ericosiu/status/2114870531056869594">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheMattBerman/status/2114837746590347433"><img src="https://pbs.twimg.com/amplify_video_thumb/2114836730998067200/img/kxOmBtcBaOhc-72f.jpg" alt="Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheMattBerman/status/2114837746590347433">Jev ran Black Friday: 3,092 Meta ads analyzed in 3 minutes</a></h3>
+<p>Matthew Berman: Jev ran 100 AI shoppers across 3,092 real US Meta ads from 669 brands in 3 minutes. Only 2 of the top 100 ads had 50% off.</p>
+<p><strong>中文摘要：</strong>Matthew Berman发布：Jev用3分钟跑了100个AI购物者，分析了669个品牌的3092条真实美国Meta广告。精选的Top 100广告中只有2条打五折。</p>
+<p><strong>Matthew Berman</strong> · @TheMattBerman · 2026-10-26T21:53:05.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 372</p>
+<p><a href="https://x.com/TheMattBerman/status/2114837746590347433">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/stretchcloud/status/2114832692957135054"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev-powered people search: qualified leads at $0.0089 each · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/stretchcloud/status/2114832692957135054">Jev-powered people search: qualified leads at $0.0089 each</a></h3>
+<p>Treg&#39;s Jev-powered people search reportedly finds a qualified lead for $0.0089, compared to Clay&#39;s $600/month after the free tier. The post notes Treg isn&#39;t just a people search tool—an agent does the asking instead of a rep.</p>
+<p><strong>中文摘要：</strong>Treg 采用 Jev 驱动的人员搜索，声称每条合格线索成本仅 0.0089 美元，而 Clay 免费层之后每月高达 600 美元。帖子还指出 Treg 并非单纯的人员搜索工具，而是由智能体代替人工进行问询。</p>
+<p><strong>Prasenjit Sarkar</strong> · @stretchcloud · 2026-10-26T21:33:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 171</p>
+<p><a href="https://x.com/stretchcloud/status/2114832692957135054">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/typesafeai/status/2114785106858795418"><img src="https://pbs.twimg.com/media/HVksM6JbsAAnatn?format=jpg&amp;name=medium" alt="TypeSafe AI Free Ice Cream Event · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/typesafeai/status/2114785106858795418">TypeSafe AI Free Ice Cream Event</a></h3>
+<p>TypeSafe AI teams up with Judgment Labs for a free ice cream event in San Francisco, serving scoops of Jev-Jam on Tuesday, Oct. 27, 11 a.m-1:15 p.m at 235 Pine St.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 与 Judgment Labs 在旧金山举办免费冰淇淋活动，供应 Jev-Jam 口味，时间为10月27日上午11点至下午1点15分。</p>
+<p><strong>TypeSafe AI</strong> · @typesafeai · 2026-10-26T18:23:54.000Z</p>
+<p>💬 9 &nbsp; 🔁 10 &nbsp; ♡ 103 &nbsp; 📊 9.5K</p>
+<p><a href="https://x.com/typesafeai/status/2114785106858795418">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/notiiivy/status/2114699285094707213"><img src="https://pbs.twimg.com/tweet_video_thumb/HVjrye7XQAAevKk.jpg" alt="Using Jev Integration for Low-Cost Lead Generation · 原帖视频截图" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6308</strong><br>curated posts</td>
-<td align="center"><strong>3149</strong><br>original videos</td>
+<td align="center"><strong>6341</strong><br>curated posts</td>
+<td align="center"><strong>3170</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1185</strong> showcases · <strong>493</strong> videos</p>
+<p><strong>1193</strong> showcases · <strong>500</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>637</strong> showcases · <strong>314</strong> videos</p>
+<p><strong>638</strong> showcases · <strong>315</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>589</strong> showcases · <strong>258</strong> videos</p>
+<p><strong>592</strong> showcases · <strong>259</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>544</strong> showcases · <strong>233</strong> videos</p>
+<p><strong>545</strong> showcases · <strong>233</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>503</strong> showcases · <strong>283</strong> videos</p>
+<p><strong>504</strong> showcases · <strong>283</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>421</strong> showcases · <strong>172</strong> videos</p>
+<p><strong>422</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>386</strong> showcases · <strong>289</strong> videos</p>
+<p><strong>388</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>322</strong> showcases · <strong>188</strong> videos</p>
+<p><strong>326</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>275</strong> showcases · <strong>173</strong> videos</p>
+<p><strong>276</strong> showcases · <strong>173</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>162</strong> showcases · <strong>124</strong> videos</p>
+<p><strong>166</strong> showcases · <strong>127</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>126</strong> showcases · <strong>89</strong> videos</p>
+<p><strong>127</strong> showcases · <strong>89</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,19 +128,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>73</strong> showcases · <strong>23</strong> videos</p>
+<p><strong>74</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>59</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>60</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>50</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>52</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -152,23 +152,23 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>44</strong> showcases · <strong>16</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
 <p><strong>44</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>43</strong> showcases · <strong>15</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>32</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>33</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xKarmi/status/2114801786871595120"><img src="https://pbs.twimg.com/amplify_video_thumb/2114801135621980160/img/cDHfjrGg1lkHaY61.jpg" alt="Jev Scores 1,000 Actions for 4 Cents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xKarmi/status/2114801786871595120">Jev Scores 1,000 Actions for 4 Cents</a></h3>
-<p>Jev-guard plants a scoring model between Claude Code and every state-changing tool call. Reads pass through. Cost per check is roughly $0.00004, with three questions per call: risk on a 0-3 scale and whether an engineer would approve.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 9</p>
-<p><strong>Karmi</strong> · @0xKarmi</p>
+<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
+<p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>David Rangel</strong> · @DR1602</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/DonatelloXPro/status/2114799725647921455"><img src="https://pbs.twimg.com/amplify_video_thumb/2113911996164808704/img/S8CR1BebsvCdwYyY.jpg" alt="Peking University Student Hires 2 AI Coworkers That Never Log Off with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/DonatelloXPro/status/2114799725647921455">Peking University Student Hires 2 AI Coworkers That Never Log Off with Jev</a></h3>
-<p>A 20-year-old Peking University student uses Jev to give two AI coworkers their own cloud computers for 24/7 autonomous work, placing a $25 gate before every send, refund, and delete while connecting 4,000+ apps including OpenAI and Grok Bot.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 20</p>
-<p><strong>Donatello</strong> · @DonatelloXPro</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/ericosiu/status/2114870531056869594"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114870287971778560/pu/img/r_Bft4-KgiMyl4q_.jpg" alt="Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ericosiu/status/2114870531056869594">Jev Images Enables Competitive Ad Monitoring with a 36-Page Analysis</a></h3>
+<p>The user used Jev Images for under a penny to get a 36-page analysis covering competitors, ad offers, campaign duration, and market gaps, which also provided fixes for their own pages.</p>
+<p><strong>230</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 230</p>
+<p><strong>ericosiu</strong> · @ericosiu</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖图片</code></p>
-<a href="https://x.com/LiviLivinin/status/2114797963486883984"><img src="https://pbs.twimg.com/media/HVjlrlWbcAAfQ8k?format=jpg&amp;name=medium" alt="Keeping AI Newsroom Honest with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/LiviLivinin/status/2114797963486883984">Keeping AI Newsroom Honest with Jev</a></h3>
-<p>The author explains how to keep an AI newsroom honest: every story drafted goes through Jev, built on TypeSafe AI System One, which flags claims unsupported by the brief. After a fix and recheck, if it still flags, a human decides. Nothing posts without human approval.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>LIVI LIVIN.in</strong> · @LiviLivinin</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/yenkel/status/2114861158557508044"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800748907069440/img/Gfl4mHr1xl51rDyR.jpg" alt="RadarLat Ep 1: Intro to Jev and System One Decision Models · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yenkel/status/2114861158557508044">RadarLat Ep 1: Intro to Jev and System One Decision Models</a></h3>
+<p>This episode debates AI-native innovation, whether AI progress should be halted, software vulnerabilities, and introduces Jev and System One decision models.</p>
+<p><strong>476</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 476</p>
+<p><strong>yenkel</strong> · @yenkel</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
-<p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
-<p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
-<p><strong>Mahax</strong> · @Mahaximus_</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/webxos/status/2114859189973750179"><img src="https://pbs.twimg.com/media/HVl8-ycXQAAzd-3?format=jpg&amp;name=large" alt="JSON prompt export example with Jev decision making · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/webxos/status/2114859189973750179">JSON prompt export example with Jev decision making</a></h3>
+<p>The agentowl page shows a JSON prompt export example: all links are automatically gathered via the fanned API and processed with Jev decision making.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 31</p>
+<p><strong>webXOS</strong> · @webxos</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xKarmi/status/2114801786871595120"><img src="https://pbs.twimg.com/amplify_video_thumb/2114801135621980160/img/cDHfjrGg1lkHaY61.jpg" alt="Jev Scores 1,000 Actions for 4 Cents · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xKarmi/status/2114801786871595120">Jev Scores 1,000 Actions for 4 Cents</a></h3>
-<p>Jev-guard plants a scoring model between Claude Code and every state-changing tool call. Reads pass through. Cost per check is roughly $0.00004, with three questions per call: risk on a 0-3 scale and whether an engineer would approve.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 9</p>
-<p><strong>Karmi</strong> · @0xKarmi</p>
+<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/DR1602/status/2114878864296165505"><img src="https://pbs.twimg.com/media/HVmPHTSWwAA_7JU?format=png&amp;name=900x900" alt="David Rangel Passed the Jev AI Course on Platzi · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DR1602/status/2114878864296165505">David Rangel Passed the Jev AI Course on Platzi</a></h3>
+<p>The author shared on Twitter that they completed the Jev AI course on Platzi, with a link to the course certificate.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>David Rangel</strong> · @DR1602</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mahaximus_/status/2114720998679363705"><img src="https://pbs.twimg.com/amplify_video_thumb/2114717467213762560/img/FQGVSwvRnVC5QQSp.jpg" alt="Grok Bot + Jev Integration Setup · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mahaximus_/status/2114720998679363705">Grok Bot + Jev Integration Setup</a></h3>
-<p>Share a setup for combining Grok Bot with Jev, claiming up to 190x faster decisions and 440x lower costs, with human approval for anything involving money, signatures, or clients.</p>
-<p><strong>113</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 113</p>
-<p><strong>Mahax</strong> · @Mahaximus_</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/webxos/status/2114859189973750179"><img src="https://pbs.twimg.com/media/HVl8-ycXQAAzd-3?format=jpg&amp;name=large" alt="JSON prompt export example with Jev decision making · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/webxos/status/2114859189973750179">JSON prompt export example with Jev decision making</a></h3>
+<p>The agentowl page shows a JSON prompt export example: all links are automatically gathered via the fanned API and processed with Jev decision making.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 31</p>
+<p><strong>webXOS</strong> · @webxos</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/siriy1/status/2114720962730238374"><img src="https://pbs.twimg.com/amplify_video_thumb/2114720497393160192/img/F8sRLzCwU9HgZ1_a.jpg" alt="Open-Source Jev-Based Decision Solution · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/siriy1/status/2114720962730238374">Open-Source Jev-Based Decision Solution</a></h3>
-<p>Sharing a recently open-sourced Jev-based decision solution, featuring robot control, progress estimation, and low-cost contact lookup.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Bardplus</strong> · @siriy1</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0xzynq/status/2114850985914843568"><img src="https://pbs.twimg.com/amplify_video_thumb/2114850174233096192/img/cEG9SfGERx_Mx3Ss.jpg" alt="Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0xzynq/status/2114850985914843568">Jev-Picked Coins Lead Trading Desk to First Red Day: $137K to $116K</a></h3>
+<p>The author shares an overnight run of their Grok bot trading desks: after crossing $100K, they kept running, but coins picked by Jev moved against them, dropping the account from $137,350 to $116,675.</p>
+<p><strong>326</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 326</p>
+<p><strong>ZYNQ</strong> · @0xzynq</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/NassirAI1/status/2114710408804368820"><img src="https://pbs.twimg.com/media/HVj1516WIAAh7xX?format=jpg&amp;name=medium" alt="Eryma: An LLM Security Project Using Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/NassirAI1/status/2114710408804368820">Eryma: An LLM Security Project Using Jev</a></h3>
-<p>This project focuses on LLM security, using a modern decision model like Jev as a buffer layer and testing it with Garak, achieving a 98.86% improvement in detection hits.</p>
-<p><strong>62</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 62</p>
-<p><strong>Nassir</strong> · @NassirAI1</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/warriors_based/status/2114831079043428364"><img src="https://pbs.twimg.com/media/HVljpwvXcAANMce?format=jpg&amp;name=medium" alt="REM, a Jev-powered SOL trading terminal, is now live · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/warriors_based/status/2114831079043428364">REM, a Jev-powered SOL trading terminal, is now live</a></h3>
+<p>Warriors announced the launch of $REM, a SOL trading terminal powered by Jev, built for advanced trading strategies.</p>
+<p><strong>37</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><strong>Warriors</strong> · @warriors_based</p>
 </td>
 </tr>
 </table>

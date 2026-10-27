@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1185 | 493 | 697 | 3.0M |
+| 1193 | 500 | 698 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yenkel/status/2114861158557508044"><img src="https://pbs.twimg.com/amplify_video_thumb/2114800748907069440/img/Gfl4mHr1xl51rDyR.jpg" alt="RadarLat Ep 1: Intro to Jev and System One Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yenkel/status/2114861158557508044">RadarLat Ep 1: Intro to Jev and System One Decision Models</a></h3>
+<p>This episode debates AI-native innovation, whether AI progress should be halted, software vulnerabilities, and introduces Jev and System One decision models.</p>
+<p><strong>中文摘要：</strong>本期节目讨论了AI原生创新、AI进步是否应被叫停、软件漏洞与安全焦虑等话题，并首次介绍了Jev及System One决策模型。</p>
+<p><strong>yenkel</strong> · @yenkel · 2026-10-26T23:26:07.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 476</p>
+<p><a href="https://x.com/yenkel/status/2114861158557508044">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jayppizzle/status/2114822351401754644"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114761980233805824/pu/img/ksI_zv2WwE7zIorZ.jpg" alt="Jev Is Still Underrated: The Real Potential of Decision-Making AI · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jayppizzle/status/2114822351401754644">Jev Is Still Underrated: The Real Potential of Decision-Making AI</a></h3>
+<p>The author believes Jev is still under the radar and its core idea is huge: most software doesn&#39;t need AI to write bloated paragraphs, but it does need AI to make decisions. Building with Jev or adjacent technologies could be a game-changer in many ways.</p>
+<p><strong>中文摘要：</strong>作者认为 Jev 仍未被足够关注，其核心想法非常宏大：大多数软件并不需要 AI 生成冗长文本，而需要 AI 做出决策。基于 Jev 或相邻技术进行构建，可能会在许多方面带来变革。</p>
+<p><strong>jayden</strong> · @jayppizzle · 2026-10-26T20:51:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/jayppizzle/status/2114822351401754644">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xVorzen/status/2114811732304806274"><img src="https://pbs.twimg.com/amplify_video_thumb/2114811618445950976/img/Wv_9MY-cTvCtdCkb.jpg" alt="Jev Public Demo Roundup: Low Cost, High Efficiency · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xVorzen/status/2114811732304806274">Jev Public Demo Roundup: Low Cost, High Efficiency</a></h3>
+<p>A compilation of public Jev demos, showcasing low cost and high speed in tasks like browser use, paper classification, and email sorting.</p>
+<p><strong>中文摘要：</strong>汇总了Jev的公开演示，展示了其在浏览器操作、论文分类、邮件处理等任务上的低成本和高速表现。</p>
+<p><strong>Vorzen</strong> · @0xVorzen · 2026-10-26T20:09:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 237</p>
+<p><a href="https://x.com/0xVorzen/status/2114811732304806274">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gaetanobyarobi/status/2114805777227567155"><img src="https://pbs.twimg.com/amplify_video_thumb/2114805652149170177/img/UevCxXKEgJgth7mW.jpg" alt="Using TypeSafe Jev for routing and selection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gaetanobyarobi/status/2114805777227567155">Using TypeSafe Jev for routing and selection</a></h3>
+<p>Gaetano mentions deploying Jev from @typesafeai for routing and selection.</p>
+<p><strong>中文摘要：</strong>Gaetano 提到部署了 @typesafeai 的 Jev，用于路由和选择。</p>
+<p><strong>Gaetano| Ullumii | Arobi||Openmind🧠</strong> · @gaetanobyarobi · 2026-10-26T19:46:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><a href="https://x.com/gaetanobyarobi/status/2114805777227567155">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/anbturki/status/2114779090741866889"><img src="https://pbs.twimg.com/amplify_video_thumb/2113331601400901632/img/P38ABWJ0r7p62mS9.jpg" alt="Jev returns 0.3 on Refund question · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/anbturki/status/2114779090741866889">Jev returns 0.3 on Refund question</a></h3>
+<p>A community post notes that Jev returned 0.3 on the Refund item, indicating about a 30% refund likelihood, and did not invent a non-existent option.</p>
+<p><strong>中文摘要：</strong>社区用户发帖称，Jev 在 Refund 问题中返回 0.3，即退款概率约为 30%，并且不会虚构不存在的选项。</p>
+<p><strong>Ali Turki | علي تركي</strong> · @anbturki · 2026-10-26T18:00:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/anbturki/status/2114779090741866889">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/christianyun/status/2114777881218044219"><img src="https://pbs.twimg.com/amplify_video_thumb/2114776192461197312/img/dWaZwOW7Z9oRgFQe.jpg" alt="Built a tiny decision model 44,000x faster than Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/christianyun/status/2114777881218044219">Built a tiny decision model 44,000x faster than Jev</a></h3>
+<p>The author shares a 16K-parameter decision model that runs in 2.8 microseconds in browser memory, claiming it is 44,000x faster than Jev, with a playable demo.</p>
+<p><strong>中文摘要：</strong>作者分享了一个仅1.6万参数、在浏览器内存中2.8微秒完成推理的决策模型，宣称比Jev快44000倍，并附有可体验的demo。</p>
+<p><strong>໊</strong> · @christianyun · 2026-10-26T17:55:12.000Z</p>
+<p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 21 &nbsp; 📊 680</p>
+<p><a href="https://x.com/christianyun/status/2114777881218044219">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BenyaminHolley/status/2114766439521374385"><img src="https://pbs.twimg.com/media/HVkonQfWwAAj6I3?format=png&amp;name=small" alt="Jev Contact Sourcing vs Clay/LeadMagic: Comparison Preview · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/BenyaminHolley/status/2114766439521374385">Jev Contact Sourcing vs Clay/LeadMagic: Comparison Preview</a></h3>
+<p>The author plans to test Jev&#39;s lead sourcing for PE-backed companies and fund-level GTM hiring use cases, compare it with Clay/LeadMagic, and later share results on email validation and stakeholder identification.</p>
+<p><strong>中文摘要：</strong>作者计划在 PE 背景公司与基金级 GTM 招聘场景中测试 Jev 的线索寻源能力，并与 Clay/LeadMagic 对比，后续会分享验证邮箱、定位关键利益相关者的结果。</p>
+<p><strong>🏍benyamin</strong> · @BenyaminHolley · 2026-10-26T17:09:44.000Z</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 30 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/BenyaminHolley/status/2114766439521374385">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ericosiu/status/2114765543701889415"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2114765387061465088/pu/img/n_HpLmVVoQ2ofTxp.jpg" alt="Jev Images Became My AI Tennis Coach for Less Than a Penny · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ericosiu/status/2114765543701889415">Jev Images Became My AI Tennis Coach for Less Than a Penny</a></h3>
+<p>A user shares how Jev Images analyzed their tennis footage, rated performance from S to D tier, gave tactical advice (get to the net, take the ball on the rise), and showed exact contact frames. Works for anything you can film.</p>
+<p><strong>中文摘要：</strong>用户分享使用 Jev Images 分析自己的网球比赛视频：将表现从 S 到 D 分级，给出上网、迎球上升击球的战术建议，并精确显示击球接触帧。可用于任何可拍摄的内容。</p>
+<p><strong>ericosiu</strong> · @ericosiu · 2026-10-26T17:06:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 622</p>
+<p><a href="https://x.com/ericosiu/status/2114765543701889415">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidwbressler/status/2114718710795506095"><img src="https://pbs.twimg.com/media/HVj9dglW0AA8Jmd?format=png&amp;name=medium" alt="Jev with TF-IDF Retrieval Boosts Accuracy Across Benchmarks · 原帖图片" width="100%"></a>

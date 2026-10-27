@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 50 | 38 | 12 | 205K |
+| 52 | 40 | 12 | 205K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/BdcauntBen/status/2114817331759034844"><img src="https://pbs.twimg.com/amplify_video_thumb/2114817210505953281/img/JBaIB9PMBk_z_nZo.jpg" alt="Jev Harness for Robot Navigation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BdcauntBen/status/2114817331759034844">Jev Harness for Robot Navigation</a></h3>
+<p>The post mentions a Jev harness for robot navigation, indicating a real-world application of the TypeSafe Jev model.</p>
+<p><strong>中文摘要：</strong>该帖提到一个用于机器人导航的 Jev 工具，可能涉及 TypeSafe Jev 模型在机器人领域的实际应用。</p>
+<p><strong>Ben C</strong> · @BdcauntBen · 2026-10-26T20:31:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 109</p>
+<p><a href="https://x.com/BdcauntBen/status/2114817331759034844">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BdcauntBen/status/2114784662828798400"><img src="https://pbs.twimg.com/amplify_video_thumb/2114784114901450753/img/UqlLbmGVPtr7T1XJ.jpg" alt="Building a Robot Control Harness with TypeSafe AI Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>机器人</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BdcauntBen/status/2114784662828798400">Building a Robot Control Harness with TypeSafe AI Jev</a></h3>
+<p>Developer Ben C is building a robot control harness using TypeSafe AI Jev with Cloudflare Clairic, with an example prompt: &quot;Go to the kitchen and find the stove.&quot;</p>
+<p><strong>中文摘要：</strong>开发者 Ben C 正在使用 TypeSafe AI Jev 配合 Cloudflare Clairic 构建机器人控制工具，示例指令为“去厨房找炉子”。</p>
+<p><strong>Ben C</strong> · @BdcauntBen · 2026-10-26T18:22:09.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 420</p>
+<p><a href="https://x.com/BdcauntBen/status/2114784662828798400">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cg_ftLab/status/2114390475318976840"><img src="https://pbs.twimg.com/amplify_video_thumb/2114389417679020032/img/rZRyX0ccGojBf1jk.jpg" alt="Microduck uses Jev to identify and pick up objects · 原帖视频截图" width="100%"></a>

@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-27T09:37:52.000Z | [Evaluating Million-Neuron Experiments with TypeSafe Jev](https://x.com/dorkitude/status/2115015112088306112) | 社区实践 | Kyle Wild | 21 |
 | 2026-10-27T08:05:29.000Z | [Comparing Perplexity's Decider Flash and JEV](https://x.com/Toby_AgwaB/status/2114991864906723793) | 开发者工具 | 김크립토 | 55 |
 | 2026-10-27T07:37:22.000Z | [Community Love for Jev](https://x.com/brad_bao/status/2114984787761037510) | 社区实践 | Brad | 2 |
 | 2026-10-27T07:13:04.000Z | [Comparative study of decision models inspired by Jev](https://x.com/alepom/status/2114978673812029687) | 科研 | Alessio Pomaro | 10 |
@@ -101,4 +102,3 @@
 | 2026-10-26T11:28:48.000Z | [JEV-powered people search finds prospects complaining about competitors on Reddit/X](https://x.com/tarasshyn/status/2114680642185101600) | 营销 | Taras | 33 |
 | 2026-10-26T11:22:55.000Z | [Treg AI's people search loop wired with Jev](https://x.com/justabdulraouf/status/2114679160182342033) | 营销 | abdul | 35 |
 | 2026-10-26T11:19:12.000Z | [Find user leads with Jev at a fraction of the cost](https://x.com/NovaXCode/status/2114678227503595720) | 营销 | Nova | 184 |
-| 2026-10-26T11:15:05.000Z | [Use Jev to detect hacking on all access and prevent leaks](https://x.com/fern_kabu/status/2114677189035839492) | 网络安全 | JTCの女 | 32 |

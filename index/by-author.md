@@ -283,6 +283,7 @@
 - [kitze 🛠️ tinkerer.club](../authors/kitze-tinkerer-club.md) — 3
 - [Kiyoro](../authors/kiyoro.md) — 3
 - [Kun Chen](../authors/kun-chen.md) — 3
+- [Kyle Wild](../authors/kyle-wild.md) — 3
 - [Latent.Space](../authors/latent-space.md) — 3
 - [leopardracer](../authors/leopardracer.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
@@ -618,7 +619,6 @@
 - [Kshitij](../authors/kshitij.md) — 2
 - [Kushal Patil](../authors/kushal-patil.md) — 2
 - [kwindla](../authors/kwindla.md) — 2
-- [Kyle Wild](../authors/kyle-wild.md) — 2
 - [Lahfir](../authors/lahfir.md) — 2
 - [Laura Lin](../authors/laura-lin.md) — 2
 - [Layton Gott](../authors/layton-gott.md) — 2

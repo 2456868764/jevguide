@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 643 | 318 | 328 | 3.6M |
+| 645 | 320 | 328 | 3.6M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Allen Chou</strong> · @f1470891079 · 2026-10-28T08:32:11.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><a href="https://x.com/f1470891079/status/2115360971460083938">在 X 查看原帖</a> · <a href="https://t.co/7q0NapipIP">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TechByMarkandey/status/2115271451955929517"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="TypeSafe AI Unveils Jev Router: Unify Access to 10K+ Tools and Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TechByMarkandey/status/2115271451955929517">TypeSafe AI Unveils Jev Router: Unify Access to 10K+ Tools and Models</a></h3>
+<p>Jev Router gives AI agents access to 10,000+ tools and models through a single MCP connection and intelligently selects the best tool for each task, reducing cost and complexity.</p>
+<p><strong>中文摘要：</strong>Jev Router通过单一MCP连接为AI代理提供超过10,000个工具和模型的访问，并智能选择每项任务所需的最佳工具，降低成本和复杂度。</p>
+<p><strong>Markandey Sharma</strong> · @TechByMarkandey · 2026-10-28T02:36:28.000Z</p>
+<p>💬 12 &nbsp; 🔁 56 &nbsp; ♡ 259 &nbsp; 📊 26K</p>
+<p><a href="https://x.com/TechByMarkandey/status/2115271451955929517">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Mokhalil01/status/2115245506045878734"><img src="https://pbs.twimg.com/amplify_video_thumb/2115244548456853504/img/fjjN5hFXazjaDTXS.jpg" alt="Open-source tool using Jev to filter GitHub Issues · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mokhalil01/status/2115245506045878734">Open-source tool using Jev to filter GitHub Issues</a></h3>
+<p>The author found the GitHub Issues interface lacking and built an alternative that uses Jev to filter issues in natural language. It is fully open source and designed to run locally.</p>
+<p><strong>中文摘要：</strong>作者认为GitHub Issues界面不好用，因此用Jev构建了一个替代工具，可以用自然语言过滤问题，完全开源且支持本地运行。</p>
+<p><strong>Moe Khalil</strong> · @Mokhalil01 · 2026-10-28T00:53:22.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 162</p>
+<p><a href="https://x.com/Mokhalil01/status/2115245506045878734">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

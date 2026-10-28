@@ -1,9 +1,10 @@
 # 8Bit🦞
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-28T00:30:43.000Z | [TypeSafe AI's JEV Now on Solana](https://x.com/0rdlibrary/status/2115239807337255222) | 金融 | 8Bit🦞 | 245 |
 | 2026-10-26T17:54:07.000Z | [Fomo Explorer Powered by JEV](https://x.com/0rdlibrary/status/2114777608873201964) | 金融 | 8Bit🦞 | 248 |
 | 2026-10-26T16:15:36.000Z | [First W Parlay Using Jev for Predictions](https://x.com/0rdlibrary/status/2114752816107434395) | 金融 | 8Bit🦞 | 272 |
 | 2026-10-26T01:59:19.000Z | [Jev is killing it on FOMO trading](https://x.com/0rdlibrary/status/2114537325174865986) | 金融 | 8Bit🦞 | 143 |

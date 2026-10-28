@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 425 | 176 | 249 | 802K |
+| 427 | 177 | 250 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mu_tradingview/status/2115396716841328721"><img src="https://pbs.twimg.com/media/HVtmF9-WsAE12KC?format=png&amp;name=small" alt="404 When Visiting Jev 1.14 Page on OpenRouter · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mu_tradingview/status/2115396716841328721">404 When Visiting Jev 1.14 Page on OpenRouter</a></h3>
+<p>User reports a 404 when accessing the typesafe/jev-1.14 link on OpenRouter, possibly indicating the model page is moved or unavailable.</p>
+<p><strong>中文摘要：</strong>用户反映访问 OpenRouter 上 typesafe/jev-1.14 的链接时遇到 404，可能意味着模型页面被移动或不可用。</p>
+<p><strong>Law of Question Convergence</strong> · @mu_tradingview · 2026-10-28T10:54:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/mu_tradingview/status/2115396716841328721">在 X 查看原帖</a> · <a href="https://t.co/M1EEyTPI2O">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/krishdotdev/status/2115387162913026206"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Jev gains real-time web search for faster, context-aware decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/krishdotdev/status/2115387162913026206">Jev gains real-time web search for faster, context-aware decisions</a></h3>
+<p>The post praises Jev&#39;s extremely fast AI decisions, which previously lacked real-time context; Parallel&#39;s live web search now lets Jev make rapid decisions using up-to-date information.</p>
+<p><strong>中文摘要：</strong>原帖称赞 Jev 的 AI 决策速度极快，但此前缺乏实时上下文；Parallel 提供的实时网页搜索让 Jev 能结合最新信息做出快速决策。</p>
+<p><strong>Kr$na</strong> · @krishdotdev · 2026-10-28T10:16:16.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 493</p>
+<p><a href="https://x.com/krishdotdev/status/2115387162913026206">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/georgepickett/status/2115170066547540456"><img src="https://pbs.twimg.com/amplify_video_thumb/2115154100040146944/img/kDOvhgpS8T8fhXQm.jpg" alt="Jev with Web Search · 原帖视频截图" width="100%"></a>

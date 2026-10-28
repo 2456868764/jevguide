@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 46 | 23 | 23 | 88K |
+| 48 | 24 | 24 | 88K |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>John Wong</strong> · @jwangkun · 2026-10-28T03:54:30.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><a href="https://x.com/jwangkun/status/2115291088001097997">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ZZisapel/status/2115279073379299663"><img src="https://pbs.twimg.com/media/HVr7GXIWsAA--IE?format=jpg&amp;name=medium" alt="Beating OpenRouter&#39;s Jev Router on OSS Bug Fixes · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ZZisapel/status/2115279073379299663">Beating OpenRouter&#39;s Jev Router on OSS Bug Fixes</a></h3>
+<p>This post claims their router outperforms OpenRouter&#39;s Jev Router and Auto router on pytest-graded bug fix tasks, with higher consistency (94.4% vs 72.2% vs 16.7%), lower cost per task, and lower latency.</p>
+<p><strong>中文摘要：</strong>该帖声称在18个任务×3次尝试的pytest评估中，其路由器的一致性（94.4%）高于OpenRouter Jev Router（72.2%）和Auto router（16.7%），且成本更低、延迟更快。</p>
+<p><strong>Zohar Zisapel</strong> · @ZZisapel · 2026-10-28T03:06:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 85</p>
+<p><a href="https://x.com/ZZisapel/status/2115279073379299663">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gagan1v9/status/2115253730342003068"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Developer builds decision pipeline with Parallel Web Search and Jev for Pi · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gagan1v9/status/2115253730342003068">Developer builds decision pipeline with Parallel Web Search and Jev for Pi</a></h3>
+<p>Gagan Devagiri built a pipeline similar to the Decisions API a few weeks ago using Parallel&#39;s web search and Jev for Pi, noting a preference for separating retrieval and judgment in coding workflows.</p>
+<p><strong>中文摘要：</strong>Gagan Devagiri 几周前在应用层用 Parallel 的 web search 和 Jev for Pi 构建了类似 Decisions API 的管道，并认为应将检索与判断分离，特别是用于编码场景。</p>
+<p><strong>Gagan Devagiri</strong> · @gagan1v9 · 2026-10-28T01:26:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 64</p>
+<p><a href="https://x.com/gagan1v9/status/2115253730342003068">在 X 查看原帖</a> · <a href="https://t.co/KV6x1zkwip">原文链接</a></p>
 </td>
 </tr>
 <tr>

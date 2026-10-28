@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 558 | 243 | 318 | 1.1M |
+| 560 | 245 | 318 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Chinazhidx/status/2115407971618639973"><img src="https://pbs.twimg.com/amplify_video_thumb/2115407789585842176/img/qiDDOD5kvlmNy_-U.jpg" alt="DiffuSpace Previews Clover Decision Model with Independent and Joint Modes, Contrasting TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Chinazhidx/status/2115407971618639973">DiffuSpace Previews Clover Decision Model with Independent and Joint Modes, Contrasting TypeSafe Jev</a></h3>
+<p>The post reports that DiffuSpace previewed a decision model for Clover, supporting Independent and Joint modes. Unlike TypeSafe&#39;s Jev, which evaluates questions individually, Joint Mode reasons across up to 8 related questions at once.</p>
+<p><strong>中文摘要：</strong>帖子报道DiffuSpace预览了针对Clover的决策模型，支持独立和联合模式。与TypeSafe的Jev单独评估问题不同，联合模式可一次推理多达8个相关问题。</p>
+<p><strong>智东西China AI News</strong> · @Chinazhidx · 2026-10-28T11:38:57.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
+<p><a href="https://x.com/Chinazhidx/status/2115407971618639973">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/verysmallwoods/status/2115248119676035547"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Parallel Web Systems Launches Decisions API, Enabling Jev and Other Models to Reference Real-Time Web Info · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/verysmallwoods/status/2115248119676035547">Parallel Web Systems Launches Decisions API, Enabling Jev and Other Models to Reference Real-Time Web Info</a></h3>
+<p>Parallel Web Systems has launched Decisions API, described as the first decision engine grounded in web information, allowing models like Jev to reference latest information while answering quickly. The API is now live, priced at $0.001 per request, with 5,000 free requests. Use cases being explored include fact-checking, updating outdated bank records, and more.</p>
+<p><strong>中文摘要：</strong>Parallel Web Systems 推出 Decisions API，据称为首个以网络信息为依据的决策引擎，使 Jev 等模型在快速作答的同时参考最新资讯。API 现已上线，每次请求收费 0.001 美元，并提供 5,000 次免费请求。团队正在探索的用途包括事实核查、更新过时的银行记录等。</p>
+<p><strong>VerySmallWoods</strong> · @verysmallwoods · 2026-10-28T01:03:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 209</p>
+<p><a href="https://x.com/verysmallwoods/status/2115248119676035547">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AlexFromAtomic/status/2115209071305564561"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="First Jev-router for agentic tools · 原帖视频截图" width="100%"></a>

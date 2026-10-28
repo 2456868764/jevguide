@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 512 | 287 | 227 | 3.0M |
+| 518 | 291 | 229 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Meer_AIIT/status/2115375624319889702"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Concern over Jev&#39;s high-confidence wrong answer in agent pipelines · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Meer_AIIT/status/2115375624319889702">Concern over Jev&#39;s high-confidence wrong answer in agent pipelines</a></h3>
+<p>The author notes that someone asked Jev a yes/no question about an already-shipped feature; Jev answered &#39;no&#39; with 0.86 probability and no sources. The author worries that in agent pipelines, such a wrong answer is indistinguishable from a correct one, a hidden risk for decision models.</p>
+<p><strong>中文摘要：</strong>博主提到，有人向 Jev 询问一个已上线功能的 yes/no 问题，Jev 以 0.86 概率回答“否”且未附来源。作者认为，在智能体管线中，这样的错误答案在外观上与正确答案难以区分，这是决策模型应用中的隐患。</p>
+<p><strong>Meer | AI Tools &amp; News</strong> · @Meer_AIIT · 2026-10-28T09:30:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 9 &nbsp; ♡ 11 &nbsp; 📊 886</p>
+<p><a href="https://x.com/Meer_AIIT/status/2115375624319889702">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/RileyRalmuto/status/2115374808456167704"><img src="https://pbs.twimg.com/media/HVtQfLwXoAA6EQl.jpg" alt="Full-Scale Computer Use with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RileyRalmuto/status/2115374808456167704">Full-Scale Computer Use with Jev</a></h3>
+<p>The author demonstrates full-scale computer use powered by TypeSafe AI&#39;s Jev, which hands off to Claude when complexity permits, and is externally controlled.</p>
+<p><strong>中文摘要：</strong>作者展示了由TypeSafe AI的Jev驱动的全规模计算机使用，复杂度高时交由Claude接管，并可从外部控制。</p>
+<p><strong>Riley Coyote</strong> · @RileyRalmuto · 2026-10-28T09:27:10.000Z</p>
+<p>💬 4 &nbsp; 🔁 5 &nbsp; ♡ 8 &nbsp; 📊 315</p>
+<p><a href="https://x.com/RileyRalmuto/status/2115374808456167704">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zalzhou/status/2115371764708786255"><img src="https://pbs.twimg.com/amplify_video_thumb/2115371362047213568/img/u1RyQMqhn1DUjyrt.jpg" alt="Jev Leads with 94.4% Accuracy on 107 Real Agent Questions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zalzhou/status/2115371764708786255">Jev Leads with 94.4% Accuracy on 107 Real Agent Questions</a></h3>
+<p>The author tested 7 models on 107 real agent questions. Jev ranked first with 94.4% accuracy, surpassing d1-ultra (90.6%) and Luna (89.7%). The post also notes d1&#39;s failure on a &#39;none&#39; option and a model wrongly answering with 100% confidence.</p>
+<p><strong>中文摘要：</strong>作者用 107 个真实代理问题测试了 7 个模型，Jev 以 94.4% 的准确率排名第一，超过 d1-ultra（90.6%）和 Luna（89.7%）。还指出 d1 在“无选项”上失误，以及某个模型以 100% 置信度给出错误答案。</p>
+<p><strong>Zal Zhou</strong> · @zalzhou · 2026-10-28T09:15:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/zalzhou/status/2115371764708786255">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KASperiencexyz/status/2115347308606799939"><img src="https://pbs.twimg.com/media/HVs3gG1XcAA3LC-?format=png&amp;name=small" alt="Jev bots stress-test an emerging L1 trader economy · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KASperiencexyz/status/2115347308606799939">Jev bots stress-test an emerging L1 trader economy</a></h3>
+<p>The author says their only job now is fauceting 10k testnet $KAS per day to a swarm of Jev bots, building liquidity in the testnet-10 AMM pool so the bots can stress-test and benchmark the emerging L1 trader economy.</p>
+<p><strong>中文摘要：</strong>作者表示现在自己的唯一任务就是每天向 Jev 机器人群提供 10k 测试网 $KAS，为 testnet-10 的 AMM 池补充流动性，使机器人能够压力测试和基准测试新兴 L1 交易经济。</p>
+<p><strong>KASperience❄️🌍</strong> · @KASperiencexyz · 2026-10-28T07:37:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 125</p>
+<p><a href="https://x.com/KASperiencexyz/status/2115347308606799939">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/XSuperKOI/status/2115318355221414321"><img src="https://pbs.twimg.com/media/HVsexCPWkAE-7f-?format=jpg&amp;name=medium" alt="Diffusion model as agent? Clover preview claims twice as fast as Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/XSuperKOI/status/2115318355221414321">Diffusion model as agent? Clover preview claims twice as fast as Jev</a></h3>
+<p>The new Clover-35B-A3B-Preview (MoE 35B, ~3B active) acts as an agent, capable of coding, generating web pages, and calling tools; it responds in ~1s on a solar system simulator and has a median 1.52s on WindTunnel 49 tasks, compared with Jev+Mercury.</p>
+<p><strong>中文摘要：</strong>新发布的Clover-35B-A3B-Preview（MoE 350亿，激活约30亿）可作为Agent使用，能写代码、生成网页、调用工具；在太阳系模拟器中约1秒响应，在WindTunnel 49题中位耗时1.52秒，对比Jev+Mercury。</p>
+<p><strong>SuperKOI</strong> · @XSuperKOI · 2026-10-28T05:42:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/XSuperKOI/status/2115318355221414321">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HIMANSH02282121/status/2115306977391988851"><img src="https://pbs.twimg.com/tweet_video_thumb/HVsUeLlaQAAzjlL.jpg" alt="Exploring Intent Routing in AI Agents with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HIMANSH02282121/status/2115306977391988851">Exploring Intent Routing in AI Agents with Jev</a></h3>
+<p>The author shares experiments with Jev by TypeSafe AI on intent routing, discussing how confidence-based routing can improve speed and cost-efficiency in multi-agent systems, using a customer support voice agent as an example.</p>
+<p><strong>中文摘要：</strong>作者分享使用 TypeSafe AI 的 Jev 进行意图路由实验，探讨基于置信度的路由如何提升多智能体系统的速度和成本效率，并以客服语音代理为例。</p>
+<p><strong>HIMANSHU TIWARI</strong> · @HIMANSH02282121 · 2026-10-28T04:57:38.000Z</p>
+<p>💬 4 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 169</p>
+<p><a href="https://x.com/HIMANSH02282121/status/2115306977391988851">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rohanpaul_ai/status/2115219914013471089"><img src="https://pbs.twimg.com/media/HVrE8JYa0AABaJ6?format=jpg&amp;name=medium" alt="Jev Router Unifies 10,000+ Tools with Jev-Driven Selection · 原帖图片" width="100%"></a>

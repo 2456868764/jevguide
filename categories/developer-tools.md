@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 641 | 317 | 327 | 3.6M |
+| 643 | 318 | 328 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/taziku_co/status/2115365227596599515"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Parallel Decisions API: Integrating Real-Time Web Search into AI Agent Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/taziku_co/status/2115365227596599515">Parallel Decisions API: Integrating Real-Time Web Search into AI Agent Decisions</a></h3>
+<p>Introducing the Parallel Decisions API, which lets AI agents like Jev, a high-speed decision model, directly use real-time web search to make judgments based on the latest information, processing multiple queries together at just $0.001 per request.</p>
+<p><strong>中文摘要：</strong>介绍Parallel Decisions API，该API可让AI代理（如Jev这样的高速决策模型）直接使用实时Web搜索，基于最新信息进行判断，并且支持多个问题合并处理，单次请求成本仅0.001美元。</p>
+<p><strong>田中義弘 | taziku CEO / AI × Creative</strong> · @taziku_co · 2026-10-28T08:49:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 440</p>
+<p><a href="https://x.com/taziku_co/status/2115365227596599515">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/f1470891079/status/2115360971460083938"><img src="https://pbs.twimg.com/media/HVtFPnObYAEpf-h?format=jpg&amp;name=900x900" alt="Jev-lite: Latency and Commercialization Potential · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/f1470891079/status/2115360971460083938">Jev-lite: Latency and Commercialization Potential</a></h3>
+<p>The post discusses latency by question count, cites it as evidence that Jev can be commercialized, and includes a PyPI link to jev-lite.</p>
+<p><strong>中文摘要：</strong>原帖讨论按问题数量统计的延迟表现，认为这证明 Jev 可商业化，并附上 jev-lite 的 PyPI 链接。</p>
+<p><strong>Allen Chou</strong> · @f1470891079 · 2026-10-28T08:32:11.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/f1470891079/status/2115360971460083938">在 X 查看原帖</a> · <a href="https://t.co/7q0NapipIP">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/GrungeCoder/status/2115074628141961497"><img src="https://pbs.twimg.com/amplify_video_thumb/2115074289237913600/img/XKyhqTMHdbKqB0Pk.jpg" alt="Evaluating Voice AI Calls: Jev vs LLM · 原帖视频截图" width="100%"></a>

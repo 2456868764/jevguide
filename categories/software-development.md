@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 44 | 22 | 22 | 88K |
+| 46 | 23 | 23 | 88K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/arisetyo_v2/status/2115378056680669250"><img src="https://pbs.twimg.com/amplify_video_thumb/2115272646942167040/img/2zdQ3Kb8av5H6Etz.jpg" alt="Not done integrating Jev, another new AI model appears · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arisetyo_v2/status/2115378056680669250">Not done integrating Jev, another new AI model appears</a></h3>
+<p>The user says Jev is still not fully implemented, while they are trying out Opus 5.5 and motion-graphics libraries, and is amazed by yet another new AI model.</p>
+<p><strong>中文摘要：</strong>用户提到 Jev 的实现尚未完成，正在体验 Opus 5.5 和动态图形库，并感叹又有新 AI 模型发布。</p>
+<p><strong>AMP⚡️</strong> · @arisetyo_v2 · 2026-10-28T09:40:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/arisetyo_v2/status/2115378056680669250">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jwangkun/status/2115291088001097997"><img src="https://pbs.twimg.com/media/HVsF71SaMAAaim_?format=jpg&amp;name=medium" alt="First Benchmark Run: LFM3-VL-2B on JevBench · 原帖图片" width="100%"></a>
+<br>
+<sub><code>软件开发</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jwangkun/status/2115291088001097997">First Benchmark Run: LFM3-VL-2B on JevBench</a></h3>
+<p>John Wong shares LFM3-VL-2B&#39;s JevBench results after 200 LoRA steps with a frozen backbone: dev 0.657 / test 0.452, noting it&#39;s not comparable to the closed-source 0.996, currently ~10 points behind the best open-source model of similar size, and 25–30 points behind Jev itself. Further optimization is planned.</p>
+<p><strong>中文摘要：</strong>John Wong 分享 LFM3-VL-2B 使用冻结主体加 200 步 LoRA 后的 JevBench 成绩：dev 0.657 / test 0.452，并指出与闭源 0.996 不可比，当前落后同量级开源最好水平约 10 个点，离 Jev 本体差 25 到 30 个点，后续将继续优化。</p>
+<p><strong>John Wong</strong> · @jwangkun · 2026-10-28T03:54:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/jwangkun/status/2115291088001097997">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yyyole/status/2109548927049740442"><img src="https://pbs.twimg.com/amplify_video_thumb/2109544661249638400/img/f7uHyGa3tmrASA2t.jpg" alt="Shadow Deployment and AI QA Mechanism via Jev · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 645 | 320 | 328 | 3.6M |
+| 647 | 322 | 328 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/uhimble/status/2115629396958888433"><img src="https://pbs.twimg.com/media/HVwQebcWUAA6B1s.jpg" alt="Decision Comparison Test: Jev vs Decisions API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/uhimble/status/2115629396958888433">Decision Comparison Test: Jev vs Decisions API</a></h3>
+<p>UHIYAMA plans to replace the decision-making part with the Decisions API for validation in talk avatar development, comparing judgment differences. If there are no differences, a full replacement may be considered. The current decision cost is about $0.2 per conversation hour, which could be absorbed by distribution credits.</p>
+<p><strong>中文摘要：</strong>UHIYAMA计划在对话头像开发中，将决策部分从Jev替换为Decisions API进行验证，比较判定差异，若无差异则考虑全面替换。当前每小时对话决策成本约0.2美元，希望用分发积分吸收。</p>
+<p><strong>UHIYAMA</strong> · @uhimble · 2026-10-29T02:18:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/uhimble/status/2115629396958888433">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/testingcatalog/status/2115509202944655793"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="AI/ML API Launches Jev Router Powered by TypeSafe&#39;s Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/testingcatalog/status/2115509202944655793">AI/ML API Launches Jev Router Powered by TypeSafe&#39;s Jev</a></h3>
+<p>Jev Router is an MCP connector for agentic tools that uses TypeSafe&#39;s Jev to rate each request&#39;s difficulty and automatically select the right model and tool: easy requests go to light models, while hard reasoning goes to more capable models.</p>
+<p><strong>中文摘要：</strong>Jev Router 是面向 agentic 工具的 MCP 连接器，利用 TypeSafe 的 Jev 评估每个请求的难度，并自动选择最合适的模型和工具：简单请求交给轻量模型，复杂推理交给更强模型。</p>
+<p><strong>🚨 AI News | TestingCatalog</strong> · @testingcatalog · 2026-10-28T18:21:12.000Z</p>
+<p>💬 18 &nbsp; 🔁 4 &nbsp; ♡ 52 &nbsp; 📊 7.4K</p>
+<p><a href="https://x.com/testingcatalog/status/2115509202944655793">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/taziku_co/status/2115365227596599515"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Parallel Decisions API: Integrating Real-Time Web Search into AI Agent Decisions · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 116 | 60 | 57 | 392K |
+| 118 | 62 | 57 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Origin_AI_01/status/2115624270726570133"><img src="https://pbs.twimg.com/amplify_video_thumb/2115473504636407808/img/HgEKm_n7xZPbFbJF.jpg" alt="Scoring OCR parses with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Origin_AI_01/status/2115624270726570133">Scoring OCR parses with Jev</a></h3>
+<p>The author notes that a misread table can still look perfectly aligned, so they use Jev to score every MiniCPM-OCR parse from 0 to 1, helping them decide which results to check before the numbers reach a report.</p>
+<p><strong>中文摘要：</strong>作者发现表格即使被 OCR 误读也可能看起来排列整齐，因此使用 Jev 对每个 MiniCPM-OCR 解析结果进行 0 到 1 分的质量评分，以便在数字进入报告前优先检查低分项。</p>
+<p><strong>OriginAI</strong> · @Origin_AI_01 · 2026-10-29T01:58:27.000Z</p>
+<p>💬 3 &nbsp; 🔁 3 &nbsp; ♡ 8 &nbsp; 📊 159</p>
+<p><a href="https://x.com/Origin_AI_01/status/2115624270726570133">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aileonardM/status/2115504048497426657"><img src="https://pbs.twimg.com/amplify_video_thumb/2115493774877163520/img/zA5PYcLDNSSi5srY.jpg" alt="Jev’s Cost Edge: People Data for Less · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aileonardM/status/2115504048497426657">Jev’s Cost Edge: People Data for Less</a></h3>
+<p>The post compares people-data costs across ContactOut, Clay Growth, and ZoomInfo, and points to Jev by TypeSafe AI as the obvious choice.</p>
+<p><strong>中文摘要：</strong>帖子对比 ContactOut、Clay Growth 和 ZoomInfo 的人员数据获取成本，并指出 TypeSafe AI 的 Jev 让选择更明显。</p>
+<p><strong>Leonard. M</strong> · @aileonardM · 2026-10-28T18:00:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 794</p>
+<p><a href="https://x.com/aileonardM/status/2115504048497426657">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Tetrascoreio/status/2109510394960138492"><img src="https://pbs.twimg.com/media/HUZ8eMoaAAA6l8O?format=jpg&amp;name=medium" alt="Jev Powers Rapid Safety Report Analysis · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 561 | 246 | 318 | 1.1M |
+| 563 | 248 | 318 | 1.1M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Marcel Hofer</strong> · @3DOfficeAT · 2026-10-28T22:13:32.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/3DOfficeAT/status/2115567671572132042">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MedDX_Innovator/status/2115519931437768952"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204279745032192/img/yVNWC8DRe1MpgYem.jpg" alt="AI/ML API Releases Jev Router Based on TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MedDX_Innovator/status/2115519931437768952">AI/ML API Releases Jev Router Based on TypeSafe Jev</a></h3>
+<p>According to TestingCatalog, AI/ML API has released Jev Router, which uses TypeSafe&#39;s Jev to assess request difficulty and select appropriate models and tools for agent tools.</p>
+<p><strong>中文摘要：</strong>据 TestingCatalog 报道，AI/ML API 发布 Jev Router，通过 TypeSafe 的 Jev 评估请求难度，为代理工具选择合适的模型与工具。</p>
+<p><strong>2年目開業内科医</strong> · @MedDX_Innovator · 2026-10-28T19:03:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 118</p>
+<p><a href="https://x.com/MedDX_Innovator/status/2115519931437768952">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mmastrac/status/2115505657231384683"><img src="https://pbs.twimg.com/amplify_video_thumb/2115504793452154880/img/I1ZBWjo5Iv3h1k7A.jpg" alt="hunch: Jev-like decisions without a GPU · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/mmastrac/status/2115505657231384683">hunch: Jev-like decisions without a GPU</a></h3>
+<p>Introducing hunch, a model built on EmbeddingGemma 2 that makes Jev-like decisions in ~20ms without a GPU, learns live from a teacher model, is multimodal, offers a systemone endpoint, and slots into existing stacks.</p>
+<p><strong>中文摘要：</strong>介绍hunch，一个基于EmbeddingGemma 2的模型，可在约20ms内做出类Jev决策，无需GPU，并能从教师模型实时学习，支持多模态，带有systemone端点，易于集成。</p>
+<p><strong>Matt Mastracci</strong> · @mmastrac · 2026-10-28T18:07:07.000Z</p>
+<p>💬 21 &nbsp; 🔁 34 &nbsp; ♡ 411 &nbsp; 📊 12K</p>
+<p><a href="https://x.com/mmastrac/status/2115505657231384683">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/Chinazhidx/status/2115407971618639973"><img src="https://pbs.twimg.com/amplify_video_thumb/2115407789585842176/img/qiDDOD5kvlmNy_-U.jpg" alt="DiffuSpace Previews Clover Decision Model with Independent and Joint Modes, Contrasting TypeSafe Jev · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 519 | 292 | 229 | 3.0M |
+| 521 | 293 | 230 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/wangcha58403845/status/2115632248577798496"><img src="https://pbs.twimg.com/media/HVw8UXgXwAI_NS_?format=jpg&amp;name=900x900" alt="Lightpanda Agent Uses Jev to Locate Login Fields · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wangcha58403845/status/2115632248577798496">Lightpanda Agent Uses Jev to Locate Login Fields</a></h3>
+<p>Citing Lightpanda&#39;s official post: its browser agent uses Jev to identify username, password, and submit button in login forms, with Jev taking about 0.53 seconds and 2 calls, compared with Claude Haiku.</p>
+<p><strong>中文摘要：</strong>引述Lightpanda官方消息：其浏览器Agent用Jev完成登录表单中用户名、密码与提交按钮的识别，Jev约0.53秒、2次调用，并与Claude Haiku进行对比。</p>
+<p><strong>vv危言耸听</strong> · @wangcha58403845 · 2026-10-29T02:30:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/wangcha58403845/status/2115632248577798496">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/svpino/status/2115506699796975880"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Jev-like decisions API with real-time news · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/svpino/status/2115506699796975880">Jev-like decisions API with real-time news</a></h3>
+<p>Showcases a decisions API like Jev, offering speed, cost, and structural benefits, plus access to current news for decisions based on the latest world state.</p>
+<p><strong>中文摘要：</strong>展示了类似 Jev 的决策 API，兼具速度、成本和结构优势，并支持获取当前新闻，以便基于世界最新状态做出决策。</p>
+<p><strong>Santiago</strong> · @svpino · 2026-10-28T18:11:16.000Z</p>
+<p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 6.8K</p>
+<p><a href="https://x.com/svpino/status/2115506699796975880">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KirkDBorne/status/2115403465396781484"><img src="https://pbs.twimg.com/media/HUM6pe6WQAARQNq.jpg" alt="Jev Engineering for AI Agent Governance and Scheduling · 原帖视频截图" width="100%"></a>

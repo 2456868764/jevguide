@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6550</strong><br>curated posts</td>
-<td align="center"><strong>3294</strong><br>original videos</td>
+<td align="center"><strong>6564</strong><br>curated posts</td>
+<td align="center"><strong>3299</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1245</strong> showcases · <strong>527</strong> videos</p>
+<p><strong>1249</strong> showcases · <strong>528</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>647</strong> showcases · <strong>322</strong> videos</p>
+<p><strong>648</strong> showcases · <strong>323</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>564</strong> showcases · <strong>249</strong> videos</p>
+<p><strong>567</strong> showcases · <strong>251</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>434</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>435</strong> showcases · <strong>180</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>342</strong> showcases · <strong>197</strong> videos</p>
+<p><strong>343</strong> showcases · <strong>197</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>180</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>181</strong> showcases · <strong>138</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>132</strong> showcases · <strong>65</strong> videos</p>
+<p><strong>134</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>113</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>114</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ForgeAI_gg/status/2115799751606092173"><img src="https://pbs.twimg.com/media/HVzUqZCWEAAIVo7?format=jpg&amp;name=medium" alt="ForgeAI agents use JEV for move selection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ForgeAI_gg/status/2115799751606092173">ForgeAI agents use JEV for move selection</a></h3>
-<p>4,941 moves across 23 runs and 9 models; the top 5 finished within 34 points. On ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
-<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/oalanicolas/status/2115828750990319892"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Integrating Jev into Grok Bot: A Practical Approach · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/oalanicolas/status/2115828750990319892">Integrating Jev into Grok Bot: A Practical Approach</a></h3>
+<p>Alan Nicolas shares how he integrated Jev into the Grok Bot workflow, enabling each bot to decide before acting: continue, reuse, stop, or call Alan. The result is higher quality tasks, lower costs, and faster execution.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Alan Nicolas</strong> · @oalanicolas</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/shariqriazzz/status/2115799563969728860"><img src="https://pbs.twimg.com/amplify_video_thumb/2115135312884281344/img/tGrnS50MPt9nXJS6.jpg" alt="macOS Dock Uses Jev to Classify Activity and Notifications in Real Time · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/shariqriazzz/status/2115799563969728860">macOS Dock Uses Jev to Classify Activity and Notifications in Real Time</a></h3>
-<p>This post shows a macOS dock app that uses Jev to classify activity and notifications in real time, with an agent that can add modes and customize behavior.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Shariq Riaz</strong> · @shariqriazzz</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/kisztof/status/2115824040984117603"><img src="https://pbs.twimg.com/amplify_video_thumb/2115823925296832512/img/vtOmnO6I_CSRLUUJ.jpg" alt="Jev routes prompts for Claude Code · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kisztof/status/2115824040984117603">Jev routes prompts for Claude Code</a></h3>
+<p>A developer places Jev as a router in front of Claude Code. Each decision costs about $0.00002, routing prompts to the smallest capable model among Haiku, Sonnet, and Opus, cutting costs while managing latency.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Krzysztof Słomka</strong> · @kisztof</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/davidfano/status/2115797920515780966"><img src="https://pbs.twimg.com/amplify_video_thumb/2115797627220439040/img/SaXQ0BfLUbYK55Au.jpg" alt="Using TypeSafe JEV to Assess Job Fit and Recruiting Beta Testers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/davidfano/status/2115797920515780966">Using TypeSafe JEV to Assess Job Fit and Recruiting Beta Testers</a></h3>
-<p>Dave Fano says they are using @typesafeai&#39;s JEV model to help job seekers understand whether they are truly qualified, maximizing effort-to-outcome ratio, and are looking for more beta testers.</p>
-<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>Dave Fano</strong> · @davidfano</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖图片</code></p>
+<a href="https://x.com/ericosiu/status/2115816273611215220"><img src="https://pbs.twimg.com/media/HVzjVsrXAAAYzJH?format=jpg&amp;name=medium" alt="Running 21 marketing jobs with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ericosiu/status/2115816273611215220">Running 21 marketing jobs with Jev</a></h3>
+<p>The author shares how Jev checks each bot&#39;s decisions for pennies, with human approval required before anything goes out, and lists 5 copyable marketing job examples.</p>
+<p><strong>398</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 398</p>
+<p><strong>ericosiu</strong> · @ericosiu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/victoor/status/2115783462556963207"><img src="https://pbs.twimg.com/media/HVzF2M1b0AIpbPv?format=jpg&amp;name=medium" alt="Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/victoor/status/2115783462556963207">Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50</a></h3>
-<p>Whisper Money reports 39,118 AI calls (78.5M tokens) over 4 weeks for transaction categorization at a total cost of $2.50; since September 30 it has moved from Gemini Flash Lite to TypeSafe AI&#39;s Jev model, and the author stresses the switch was not due to price.</p>
-<p><strong>64</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>Víctor Falcón</strong> · @victoor</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/standardthinkin/status/2115809393476530480"><img src="https://pbs.twimg.com/media/HVzdY18a8AADf8i?format=jpg&amp;name=900x900" alt="Standard One Model Released, Claiming Jev-Level Decision-Making · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/standardthinkin/status/2115809393476530480">Standard One Model Released, Claiming Jev-Level Decision-Making</a></h3>
+<p>Standard Thinking released the open model Standard One (35B SH), scoring 60.1 on the Decision Index in private tests, close to Jev 1.14&#39;s 60.2. It activates only ~3B parameters per token and runs on a single GPU.</p>
+<p><strong>30</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><strong>Standard Thinking</strong> · @standardthinkin</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ForgeAI_gg/status/2115799751606092173"><img src="https://pbs.twimg.com/media/HVzUqZCWEAAIVo7?format=jpg&amp;name=medium" alt="ForgeAI agents use JEV for move selection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ForgeAI_gg/status/2115799751606092173">ForgeAI agents use JEV for move selection</a></h3>
-<p>4,941 moves across 23 runs and 9 models; the top 5 finished within 34 points. On ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
-<p><strong>6</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/oalanicolas/status/2115828750990319892"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Integrating Jev into Grok Bot: A Practical Approach · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/oalanicolas/status/2115828750990319892">Integrating Jev into Grok Bot: A Practical Approach</a></h3>
+<p>Alan Nicolas shares how he integrated Jev into the Grok Bot workflow, enabling each bot to decide before acting: continue, reuse, stop, or call Alan. The result is higher quality tasks, lower costs, and faster execution.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>Alan Nicolas</strong> · @oalanicolas</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/victoor/status/2115783462556963207"><img src="https://pbs.twimg.com/media/HVzF2M1b0AIpbPv?format=jpg&amp;name=medium" alt="Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/victoor/status/2115783462556963207">Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50</a></h3>
-<p>Whisper Money reports 39,118 AI calls (78.5M tokens) over 4 weeks for transaction categorization at a total cost of $2.50; since September 30 it has moved from Gemini Flash Lite to TypeSafe AI&#39;s Jev model, and the author stresses the switch was not due to price.</p>
-<p><strong>64</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 64</p>
-<p><strong>Víctor Falcón</strong> · @victoor</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/standardthinkin/status/2115809393476530480"><img src="https://pbs.twimg.com/media/HVzdY18a8AADf8i?format=jpg&amp;name=900x900" alt="Standard One Model Released, Claiming Jev-Level Decision-Making · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/standardthinkin/status/2115809393476530480">Standard One Model Released, Claiming Jev-Level Decision-Making</a></h3>
+<p>Standard Thinking released the open model Standard One (35B SH), scoring 60.1 on the Decision Index in private tests, close to Jev 1.14&#39;s 60.2. It activates only ~3B parameters per token and runs on a single GPU.</p>
+<p><strong>30</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 30</p>
+<p><strong>Standard Thinking</strong> · @standardthinkin</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/purpleeddy_dev/status/2115783231509274703"><img src="https://pbs.twimg.com/media/HVzFRB6WwAANMC5?format=jpg&amp;name=medium" alt="Jev Configuration Example in Obsidian · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/purpleeddy_dev/status/2115783231509274703">Jev Configuration Example in Obsidian</a></h3>
-<p>This configuration shows Jev filtering duplicate material in Obsidian and selecting which AI to route questions to: simple queries go to Sonnet, complex ones to Opus; wiki content and note linking are handled by Opus 5.5, working alongside Claude Code.</p>
-<p><strong>70</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 70</p>
-<p><strong>퍼플에디</strong> · @purpleeddy_dev</p>
+<a href="https://x.com/WasimJalali/status/2115805860475678872"><img src="https://pbs.twimg.com/media/HVBdqptW8AASe_C?format=jpg&amp;name=900x900" alt="Jev 1.13 Shows Strong Results on Decision Bench · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WasimJalali/status/2115805860475678872">Jev 1.13 Shows Strong Results on Decision Bench</a></h3>
+<p>On day 8 of Decision Bench, Jev 1.13 achieved 95.1% accuracy across 1,734 checks, correctly identified 9 real questions, and cost only about $0.129, performing close to Tev1 4B at roughly one-sixth the cost.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/UncleKripro/status/2115768067422663026"><img src="https://pbs.twimg.com/amplify_video_thumb/2115768029954912256/img/Gz6WvSD5Ua2zXZka.jpg" alt="6 AI tools in one connected system: Jev collaborates with multiple models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/UncleKripro/status/2115768067422663026">6 AI tools in one connected system: Jev collaborates with multiple models</a></h3>
-<p>The post says Grok Bot, Claude Opus 5.5, REA, Jev, Dots and Obsidian are connected as one system instead of six separate apps, with a dashboard showing 212 completed tasks, 7h 40m saved, and $179 saved.</p>
-<p><strong>364</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 364</p>
-<p><strong>OltAi</strong> · @UncleKripro</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/thegreatest_sv/status/2115779290033803462"><img src="https://pbs.twimg.com/amplify_video_thumb/2115779125549957121/img/oCnmxW938tjtoZmR.jpg" alt="6 Weeks of Jev: Community Beats Pokémon Red · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/thegreatest_sv/status/2115779290033803462">6 Weeks of Jev: Community Beats Pokémon Red</a></h3>
+<p>The post highlights community-built projects with Jev across games, browsers, databases, cars, and cities. Jev read Pokémon Red’s memory and made every move itself, finishing in 37h 40m without scripts or cheats.</p>
+<p><strong>422</strong> views · 💬 8 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 422</p>
+<p><strong>kiosa</strong> · @thegreatest_sv</p>
 </td>
 </tr>
 </table>

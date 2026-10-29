@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 132 | 65 | 68 | 235K |
+| 134 | 66 | 69 | 235K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Ivan Panakhno</strong> · @van_van1ch · 2026-10-29T11:03:35.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
 <p><a href="https://x.com/van_van1ch/status/2115761458189378019">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dxd5001/status/2115721313658782105"><img src="https://pbs.twimg.com/media/HVyI4mXbkAAI2YX?format=png&amp;name=small" alt="Jev for RAG Search Strategies · 原帖图片" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dxd5001/status/2115721313658782105">Jev for RAG Search Strategies</a></h3>
+<p>Discusses how hybrid search is not always best for RAG queries; simple questions may skip reranking for lower cost, and fast decision models like Jev can dynamically choose the optimal retrieval strategy.</p>
+<p><strong>中文摘要：</strong>讨论在RAG中并非所有查询都适合混合搜索，简单问题可省略重排序以降低成本，而Jev等快速决策模型可动态判断最优检索策略。</p>
+<p><strong>Daijiro Miyazawa | AI, RAG開発</strong> · @dxd5001 · 2026-10-29T08:24:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/dxd5001/status/2115721313658782105">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/roguevoice/status/2115673681103901088"><img src="https://pbs.twimg.com/amplify_video_thumb/2115673652599357440/img/nJ9zgm4xh2Sqf3TI.jpg" alt="People Search Built on Jev&#39;s Judgment API · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/roguevoice/status/2115673681103901088">People Search Built on Jev&#39;s Judgment API</a></h3>
+<p>A people search app built on Jev&#39;s judgment API. Give it a name and any details, and it picks the intended person with probabilities, including top-two output when close. Runs on your own keys.</p>
+<p><strong>中文摘要：</strong>展示了一个基于Jev judgment API构建的人物搜索应用，输入姓名和已知信息即可定位目标人物，并提供概率与候选。可在自有密钥下运行。</p>
+<p><strong>Antonio Bray</strong> · @roguevoice · 2026-10-29T05:14:47.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 103</p>
+<p><a href="https://x.com/roguevoice/status/2115673681103901088">在 X 查看原帖</a> · <a href="https://t.co/Z48sTyX08A">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/airesearch12/status/2115547707825856601"><img src="https://pbs.twimg.com/media/HVvuwzIXAAAulOv?format=jpg&amp;name=medium" alt="Observations on Jev-class decision models in the LLM landscape · 原帖图片" width="100%"></a>

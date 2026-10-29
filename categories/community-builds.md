@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1245 | 527 | 723 | 3.0M |
+| 1249 | 528 | 726 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/oalanicolas/status/2115828750990319892"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Integrating Jev into Grok Bot: A Practical Approach · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/oalanicolas/status/2115828750990319892">Integrating Jev into Grok Bot: A Practical Approach</a></h3>
+<p>Alan Nicolas shares how he integrated Jev into the Grok Bot workflow, enabling each bot to decide before acting: continue, reuse, stop, or call Alan. The result is higher quality tasks, lower costs, and faster execution.</p>
+<p><strong>中文摘要：</strong>Alan Nicolas分享了将Jev用于Grok Bot的决策流程，让每个机器人在行动前先判断：继续、重用、停止还是呼叫人工。结果提升了任务质量，降低了成本并加快了速度。</p>
+<p><strong>Alan Nicolas</strong> · @oalanicolas · 2026-10-29T15:30:59.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/oalanicolas/status/2115828750990319892">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WasimJalali/status/2115805860475678872"><img src="https://pbs.twimg.com/media/HVBdqptW8AASe_C?format=jpg&amp;name=900x900" alt="Jev 1.13 Shows Strong Results on Decision Bench · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WasimJalali/status/2115805860475678872">Jev 1.13 Shows Strong Results on Decision Bench</a></h3>
+<p>On day 8 of Decision Bench, Jev 1.13 achieved 95.1% accuracy across 1,734 checks, correctly identified 9 real questions, and cost only about $0.129, performing close to Tev1 4B at roughly one-sixth the cost.</p>
+<p><strong>中文摘要：</strong>在Decision Bench第8天测试中，Jev 1.13以95.1%准确率通过1,734次检查，正确识别9个真实问题，成本仅约0.129美元，性能接近Tev1 4B但成本仅为六分之一。</p>
+<p><strong>Wasim Jalali</strong> · @WasimJalali · 2026-10-29T14:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/WasimJalali/status/2115805860475678872">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/purpleeddy_dev/status/2115783231509274703"><img src="https://pbs.twimg.com/media/HVzFRB6WwAANMC5?format=jpg&amp;name=medium" alt="Jev Configuration Example in Obsidian · 原帖图片" width="100%"></a>
@@ -92,6 +116,30 @@
 <p><strong>Domi</strong> · @frmdomi · 2026-10-29T10:36:49.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/frmdomi/status/2115754724393992411">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Valen/status/2115721906896749037"><img src="https://pbs.twimg.com/media/HVyNa8GW8AAT4uk?format=jpg&amp;name=900x900" alt="Using Jev to detect suspicious OCR regions and avoid amount errors · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Valen/status/2115721906896749037">Using Jev to detect suspicious OCR regions and avoid amount errors</a></h3>
+<p>The author suggests using MiniCPM-OCR for text extraction and Jev to identify doubtful regions before loading data, also noting Spanish validation and documentation language issues.</p>
+<p><strong>中文摘要：</strong>作者建议在加载数据前使用MiniCPM-OCR提取文本，并借助Jev识别OCR模糊区域，同时提醒西班牙语验证及文档语言问题。</p>
+<p><strong>Valen 🍺</strong> · @Valen · 2026-10-29T08:26:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 119</p>
+<p><a href="https://x.com/Valen/status/2115721906896749037">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hisuzuya1/status/2115651319885402556"><img src="https://pbs.twimg.com/media/HVxNIGmbIAEHdHJ?format=jpg&amp;name=900x900" alt="RPG-Style Evaluation of Self-Made Jev vs Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hisuzuya1/status/2115651319885402556">RPG-Style Evaluation of Self-Made Jev vs Jev</a></h3>
+<p>Hidehisa Suzuyama will share an RPG-style comparison of self-made Jev and Jev, inviting everyone to join the AI-driven development event.</p>
+<p><strong>中文摘要：</strong>Hidehisa Suzuyama将以RPG风格分享自制Jev与Jev的对比评估，并邀请大家参加AI驱动开发活动。</p>
+<p><strong>Hidehisa Suzuyama</strong> · @hisuzuya1 · 2026-10-29T03:45:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/hisuzuya1/status/2115651319885402556">在 X 查看原帖</a> · <a href="https://t.co/0eusBPzha1">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/bkdgiffug/status/2115618872862879930"><img src="https://pbs.twimg.com/media/HVtKPrvbAAEZeaE?format=png&amp;name=900x900" alt="Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification · 原帖图片" width="100%"></a>

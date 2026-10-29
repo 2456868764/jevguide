@@ -1,9 +1,10 @@
 # Jason Zhu
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-29T08:07:44.000Z | [Introducing Jev Powered People Search](https://x.com/GoSailGlobal/status/2115717203555414259) | 产品发布 | Jason Zhu | 3.9K |
 | 2026-10-23T05:28:06.000Z | [Jev Open Source Projects Tested: 8 of 12 Work](https://x.com/GoSailGlobal/status/2113502706614882675) | 社区实践 | Jason Zhu | 336 |
 | 2026-10-08T07:19:52.000Z | [Jev-powered low-cost AI brand filtering](https://x.com/GoSailGlobal/status/2108095015738294516) | 营销 | Jason Zhu | 54 |
 | 2026-10-03T05:42:10.000Z | [Discussion on Jev Model Evaluation Controversy](https://x.com/GoSailGlobal/status/2106258487579730365) | 社区实践 | Jason Zhu | 144 |

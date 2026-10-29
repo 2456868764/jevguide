@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 282 | 176 | 106 | 595K |
+| 284 | 177 | 107 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/vavanessadev/status/2115771915059024327"><img src="https://pbs.twimg.com/media/HVy7SYBWMAAGT1n?format=jpg&amp;name=medium" alt="Using Jev to Improve Suzu Dictation Fix Workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/vavanessadev/status/2115771915059024327">Using Jev to Improve Suzu Dictation Fix Workflows</a></h3>
+<p>The developer uses Jev to score what types of fixes speech-to-text dictation needs, then passes the result to a small LLM to fix punctuation or rewrite errors, aiming for cheaper and more accurate dictation.</p>
+<p><strong>中文摘要：</strong>开发者使用 Jev 对语音转文字需要的修正类型进行评分，再将结果交给小型 LLM 修复标点或改写内容错误，目标是让听写更便宜、更准确。</p>
+<p><strong>vava 🌸 苗 Dev</strong> · @vavanessadev · 2026-10-29T11:45:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 179</p>
+<p><a href="https://x.com/vavanessadev/status/2115771915059024327">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/UncleKripro/status/2115768067422663026"><img src="https://pbs.twimg.com/amplify_video_thumb/2115768029954912256/img/Gz6WvSD5Ua2zXZka.jpg" alt="6 AI tools in one connected system: Jev collaborates with multiple models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/UncleKripro/status/2115768067422663026">6 AI tools in one connected system: Jev collaborates with multiple models</a></h3>
+<p>The post says Grok Bot, Claude Opus 5.5, REA, Jev, Dots and Obsidian are connected as one system instead of six separate apps, with a dashboard showing 212 completed tasks, 7h 40m saved, and $179 saved.</p>
+<p><strong>中文摘要：</strong>原帖称将 Grok Bot、Claude Opus 5.5、REA、Jev、Dots 和 Obsidian 连接为一个系统而非六个独立应用，并展示仪表板统计：212 个已完成任务、节省 7 小时 40 分钟和 179 美元。</p>
+<p><strong>OltAi</strong> · @UncleKripro · 2026-10-29T11:29:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 364</p>
+<p><a href="https://x.com/UncleKripro/status/2115768067422663026">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Nativ_AI/status/2115533313905742025"><img src="https://pbs.twimg.com/media/HVviVbsWkAApryk?format=jpg&amp;name=medium" alt="Jev&#39;s Read Confidence Scoring · 原帖图片" width="100%"></a>

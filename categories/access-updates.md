@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 432 | 179 | 253 | 802K |
+| 434 | 180 | 254 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davidfano/status/2115797920515780966"><img src="https://pbs.twimg.com/amplify_video_thumb/2115797627220439040/img/SaXQ0BfLUbYK55Au.jpg" alt="Using TypeSafe JEV to Assess Job Fit and Recruiting Beta Testers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/davidfano/status/2115797920515780966">Using TypeSafe JEV to Assess Job Fit and Recruiting Beta Testers</a></h3>
+<p>Dave Fano says they are using @typesafeai&#39;s JEV model to help job seekers understand whether they are truly qualified, maximizing effort-to-outcome ratio, and are looking for more beta testers.</p>
+<p><strong>中文摘要：</strong>Dave Fano 表示，他们正在使用 @typesafeai 的 JEV 模型帮助求职者了解自己是否真正符合职位要求，以优化投入产出比，并正在招募更多 beta 测试者。</p>
+<p><strong>Dave Fano</strong> · @davidfano · 2026-10-29T13:28:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/davidfano/status/2115797920515780966">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/thanhtran/status/2115754400379507137"><img src="https://pbs.twimg.com/media/HVyp5A7XIAA0GwE?format=png&amp;name=900x900" alt="Jev integrated into OrionSpace · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/thanhtran/status/2115754400379507137">Jev integrated into OrionSpace</a></h3>
+<p>Thanh TRAN shares a before/after comparison of integrating Jev into OrionSpace, highlighting its role in speeding up response times and reducing costs.</p>
+<p><strong>中文摘要：</strong>Thanh TRAN 分享了将 Jev 集成到 OrionSpace 前后的对比，指出 Jev 在加速响应时间和降低成本方面发挥了重要作用。</p>
+<p><strong>Thanh TRAN</strong> · @thanhtran · 2026-10-29T10:35:32.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 261</p>
+<p><a href="https://x.com/thanhtran/status/2115754400379507137">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_lexers/status/2115614980254888397"><img src="https://pbs.twimg.com/amplify_video_thumb/2115473504636407808/img/HgEKm_n7xZPbFbJF.jpg" alt="MiniCPM-OCR runs on iPhone/iPad, with Jev scoring every parse 0 to 1 · 原帖视频截图" width="100%"></a>

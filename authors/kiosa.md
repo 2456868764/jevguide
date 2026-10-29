@@ -1,9 +1,10 @@
 # kiosa
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-29T12:14:26.000Z | [6 Weeks of Jev: Community Beats Pokémon Red](https://x.com/thegreatest_sv/status/2115779290033803462) | 社区实践 | kiosa | 422 |
 | 2026-10-25T15:27:00.000Z | [74 Jev demos and 150+ repos list](https://x.com/thegreatest_sv/status/2114378197932617766) | 开发资源 | kiosa | 106 |
 | 2026-10-24T18:22:00.000Z | [Jev signal routing to filter input for Claude](https://x.com/thegreatest_sv/status/2114059850313609594) | 社区实践 | kiosa | 3.6K |
 | 2026-10-22T18:07:31.000Z | [JEV as Claude Code's second brain: processing billions of data points](https://x.com/thegreatest_sv/status/2113331431254728726) | 工作原理 | kiosa | 6.8K |

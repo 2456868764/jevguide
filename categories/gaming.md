@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 392 | 295 | 101 | 588K |
+| 394 | 296 | 102 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/furoku/status/2115758919922655616"><img src="https://pbs.twimg.com/media/HVyvg4ZbwAARNnW?format=jpg&amp;name=large" alt="Jev Compared with OpenAI Decisions API in Game AI Spectator Mode · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/furoku/status/2115758919922655616">Jev Compared with OpenAI Decisions API in Game AI Spectator Mode</a></h3>
+<p>Mojofull updated the Flash slot in the 3-AI spectator mode of &quot;One Exit&quot; to OpenAI&#39;s decision-dedicated API, showing a direct comparison between Jev and gpt as non-text-generating decision-specialized AIs, with 1-step 12-question batch judgment.</p>
+<p><strong>中文摘要：</strong>Mojofull 将“出口ひとつ”3 体 AI 观战模式的 Flash 位刷新为 OpenAI 决策专用 API，并展示了 Jev 与 gpt 在不生成文本的决策特化 AI 之间直接比较，以及 1 步 12 项批量判定。</p>
+<p><strong>Mojofull</strong> · @furoku · 2026-10-29T10:53:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 138</p>
+<p><a href="https://x.com/furoku/status/2115758919922655616">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/justviewnews/status/2115739186481524931"><img src="https://pbs.twimg.com/amplify_video_thumb/2115582818998702080/img/ZG09Dpd60PcRbHC2.jpg" alt="Developer Requests JEV Access to Test Game Integration · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/justviewnews/status/2115739186481524931">Developer Requests JEV Access to Test Game Integration</a></h3>
+<p>A user named JustViewNews says they have built a Battle Royale game powered by decision models and asks whether they could get developer access to JEV to test the integration.</p>
+<p><strong>中文摘要：</strong>一位名为JustViewNews的用户表示已构建了一款由决策模型驱动的Battle Royale游戏，并询问能否获得JEV开发者访问权限，以便测试集成。</p>
+<p><strong>JustViewNews</strong> · @justviewnews · 2026-10-29T09:35:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/justviewnews/status/2115739186481524931">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MaincodeAU/status/2115579365949837388"><img src="https://pbs.twimg.com/amplify_video_thumb/2114584008998989824/img/uvWQz6z7XhyEPdTi.jpg" alt="Matilda vs Matilda Jev: A Poker Showdown of Two Models · 原帖视频截图" width="100%"></a>

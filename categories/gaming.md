@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 390 | 293 | 101 | 588K |
+| 392 | 295 | 101 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MaincodeAU/status/2115579365949837388"><img src="https://pbs.twimg.com/amplify_video_thumb/2114584008998989824/img/uvWQz6z7XhyEPdTi.jpg" alt="Matilda vs Matilda Jev: A Poker Showdown of Two Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MaincodeAU/status/2115579365949837388">Matilda vs Matilda Jev: A Poker Showdown of Two Models</a></h3>
+<p>Maincode showcases the capabilities of Matilda and Matilda Jev by pitting them against each other in a poker game. Matilda is powered by the Agent SDK, while Matilda Jev uses the Client SDK&#39;s new systemOne.evaluate() API, highlighting how the two models approach the same challenge differently.</p>
+<p><strong>中文摘要：</strong>Maincode通过一场扑克游戏对决，展示Matilda和Matilda Jev的不同能力。Matilda由Agent SDK驱动，而Matilda Jev使用Client SDK的systemOne.evaluate() API，直观呈现两种模型在处理同一任务时的不同策略与表现。</p>
+<p><strong>Maincode</strong> · @MaincodeAU · 2026-10-28T23:00:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 144</p>
+<p><a href="https://x.com/MaincodeAU/status/2115579365949837388">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Ox_Shinji/status/2115561798829228275"><img src="https://pbs.twimg.com/amplify_video_thumb/2115561645485547520/img/UXJZrau-4SUKpEXe.jpg" alt="Developer Builds AI Chess Cheat Glasses with Opus 5.5 and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Ox_Shinji/status/2115561798829228275">Developer Builds AI Chess Cheat Glasses with Opus 5.5 and Jev</a></h3>
+<p>A developer reverse-engineered Meta Ray-Bans and used Opus 5.5 and Jev to create 3000+ Elo chess AI glasses. The entire workflow is open source.</p>
+<p><strong>中文摘要：</strong>开发者逆向工程了 Meta Ray-Bans，结合 Opus 5.5 和 Jev，打造了 3000+ Elo 的国际象棋 AI 眼镜，整个工作流已开源。</p>
+<p><strong>Shinji</strong> · @Ox_Shinji · 2026-10-28T21:50:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 107</p>
+<p><a href="https://x.com/Ox_Shinji/status/2115561798829228275">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/My_Ai_Bi/status/2115206101683892455"><img src="https://pbs.twimg.com/media/HVq4jJuakAAqXQE.jpg" alt="Build and modify a game world in real time with AI · 原帖视频截图" width="100%"></a>

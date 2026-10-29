@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 336 | 193 | 145 | 1.2M |
+| 338 | 195 | 145 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Flandermaxx/status/2115569282939531367"><img src="https://pbs.twimg.com/amplify_video_thumb/2115567401311838208/img/SmJ5fMwXJXOPg5II.jpg" alt="JEV decision flow leak: &#39;stay flat&#39; dominates 53.5% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Flandermaxx/status/2115569282939531367">JEV decision flow leak: &#39;stay flat&#39; dominates 53.5%</a></h3>
+<p>A leaked JEV agent decision flow shows that the default behavior is not always acting: STAY_FLAT accounts for 53.5% of decisions, reflecting a risk-first design. The discussion relates to TypeSafe Jev&#39;s real-world usage.</p>
+<p><strong>中文摘要：</strong>有人泄露了 JEV 智能体的决策流：默认动作不是总是行动，而是“STAY_FLAT”占53.5%，体现风险优先的设计。相关讨论指向 TypeSafe Jev 在真实应用中的行为。</p>
+<p><strong>Flandermaxx</strong> · @Flandermaxx · 2026-10-28T22:19:57.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 23 &nbsp; 📊 585</p>
+<p><a href="https://x.com/Flandermaxx/status/2115569282939531367">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xGrimmer_/status/2115549585091580383"><img src="https://pbs.twimg.com/amplify_video_thumb/2115549385006129152/img/4YNdQqVvXV-ZHWrQ.jpg" alt="JEV in Real Trading Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xGrimmer_/status/2115549585091580383">JEV in Real Trading Decisions</a></h3>
+<p>A trading recap shows one $3,810 buy contributed most of the day&#39;s gains, with JEV scoring it 0.92 before any money moved. The flow: Grok proposes, JEV judges, and execution requires both.</p>
+<p><strong>中文摘要：</strong>一段交易记录显示，单笔 3810 美元的买入贡献了当天大半收益，而 JEV 在资金变动前就给出 0.92 评分。流程为 Grok 提议、JEV 判断，两者都通过后才执行。</p>
+<p><strong>Grimmer</strong> · @0xGrimmer_ · 2026-10-28T21:01:40.000Z</p>
+<p>💬 6 &nbsp; 🔁 1 &nbsp; ♡ 19 &nbsp; 📊 461</p>
+<p><a href="https://x.com/0xGrimmer_/status/2115549585091580383">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polytutor/status/2115388859919761675"><img src="https://pbs.twimg.com/media/HVtez4sXMAAqQPs?format=png&amp;name=medium" alt="Jev BTC Trading Bot Test Process · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 279 | 174 | 105 | 595K |
+| 281 | 175 | 106 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Nativ_AI/status/2115533313905742025"><img src="https://pbs.twimg.com/media/HVviVbsWkAApryk?format=jpg&amp;name=medium" alt="Jev&#39;s Read Confidence Scoring · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Nativ_AI/status/2115533313905742025">Jev&#39;s Read Confidence Scoring</a></h3>
+<p>Jev scores each read with a confidence value, about 13 per second, so only low-confidence reads need review.</p>
+<p><strong>中文摘要：</strong>Jev每次读取都会给出置信度评分，约每秒13次，只有低置信度的部分才需要人工复核。</p>
+<p><strong>Nativ</strong> · @Nativ_AI · 2026-10-28T19:57:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 54</p>
+<p><a href="https://x.com/Nativ_AI/status/2115533313905742025">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SelfHostedSI/status/2115529031928119657"><img src="https://pbs.twimg.com/amplify_video_thumb/2115473504636407808/img/HgEKm_n7xZPbFbJF.jpg" alt="Using Jev to Score OCR Results and Route to Human Review · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SelfHostedSI/status/2115529031928119657">Using Jev to Score OCR Results and Route to Human Review</a></h3>
+<p>The author notes that Jev scores each region parsed by the OCR reader and sends uncertain ones to a human, creating an automated verification workflow.</p>
+<p><strong>中文摘要：</strong>作者表示，Jev 会对 OCR 解析的每个区域进行评分，并将不确定的部分交给人工复核，形成自动化检查工作流。</p>
+<p><strong>Steven Kramp | SelfHostedSI</strong> · @SelfHostedSI · 2026-10-28T19:40:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><a href="https://x.com/SelfHostedSI/status/2115529031928119657">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xnineinch/status/2115204789243928854"><img src="https://pbs.twimg.com/amplify_video_thumb/2115204738845233153/img/U_3q1MFOfUAS_Z5x.jpg" alt="Jev + Grok Workflow Automation Speeds Up Processes by 90% · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 387 | 157 | 230 | 419K |
+| 391 | 158 | 233 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/JingyuTang621/status/2115610957980504478"><img src="https://pbs.twimg.com/media/HVwo8U1WsAAP04Y?format=jpg&amp;name=medium" alt="Realtime-Bench: Testing Real-time Capabilities of Models like Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JingyuTang621/status/2115610957980504478">Realtime-Bench: Testing Real-time Capabilities of Models like Jev</a></h3>
+<p>Our team recently released Realtime-Bench to evaluate real-time capabilities of frontier VLMs and decision models such as Jev.</p>
+<p><strong>中文摘要：</strong>团队近期发布Realtime-Bench基准，用于评估前沿视觉语言模型和决策模型（如Jev）的实时能力。</p>
+<p><strong>Jingyu Tang</strong> · @JingyuTang621 · 2026-10-29T01:05:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/JingyuTang621/status/2115610957980504478">在 X 查看原帖</a> · <a href="https://t.co/eccYxuRItz">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bkdgiffug/status/2115595971988267221"><img src="https://pbs.twimg.com/media/HVtIgkfbsAAkvC8?format=png&amp;name=900x900" alt="Asymptote Labs open-sources Beacon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bkdgiffug/status/2115595971988267221">Asymptote Labs open-sources Beacon</a></h3>
+<p>The post notes that JEV has been trending recently, but argues that Beacon deserves attention for practical implementation. It announces that Asymptote Labs has open-sourced Beacon. The full details are truncated, but it reflects community activity around the Jev ecosystem.</p>
+<p><strong>中文摘要：</strong>原帖提到 JEV 最近热度很高，但更关注实际落地；作者认为 Beacon 在切实推进相关工作，并宣布 Asymptote Labs 已开源 Beacon。帖子未完整说明 Beacon 的具体定位，但可视为 Jev 生态相关开源动态。</p>
+<p><strong>lumxss</strong> · @bkdgiffug · 2026-10-29T00:06:00.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 870</p>
+<p><a href="https://x.com/bkdgiffug/status/2115595971988267221">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Ldataengineer/status/2115584555495112969"><img src="https://pbs.twimg.com/tweet_video_thumb/HVwQ65NXMAAMIYB.jpg" alt="Before You Build with Jev, Check This List of 992 Projects · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Ldataengineer/status/2115584555495112969">Before You Build with Jev, Check This List of 992 Projects</a></h3>
+<p>A developer advises checking a list of 992 open-source projects before building anything with Jev, since your use case may already have been attempted. The list has been growing since September 2026.</p>
+<p><strong>中文摘要：</strong>一位开发者提醒，在基于Jev构建任何应用之前，建议先查阅一个包含992个开源项目的列表，因为你的用例可能已有人尝试过。该列表自2026年9月起持续更新。</p>
+<p><strong>Gul Saeed Khattak</strong> · @Ldataengineer · 2026-10-28T23:20:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/Ldataengineer/status/2115584555495112969">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bkdgiffug/status/2115580369810473006"><img src="https://pbs.twimg.com/media/HVtHrB4aEAEKYpl?format=png&amp;name=900x900" alt="Awesome Jev List Curates 640 Open Source Projects · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bkdgiffug/status/2115580369810473006">Awesome Jev List Curates 640 Open Source Projects</a></h3>
+<p>Based on GitHub activity, Jev-related projects are booming. The Awesome Jev list has collected 640 open source projects spanning 11 categories and 27 languages, with 110 added on September 22 alone.</p>
+<p><strong>中文摘要：</strong>据 GitHub 上的观察，Jev 相关项目热度极高，Awesome Jev 清单已收录 640 个开源项目，横跨 11 个类别、27 种语言，仅 9 月 22 日就新增 110 个。</p>
+<p><strong>lumxss</strong> · @bkdgiffug · 2026-10-28T23:04:00.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 695</p>
+<p><a href="https://x.com/bkdgiffug/status/2115580369810473006">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xDeniAi/status/2115323496150544587"><img src="https://pbs.twimg.com/amplify_video_thumb/2115322634137124864/img/2Fto5qiZCddtJT90.jpg" alt="Dev Turns Meta Glasses into Chess AI with Jev · 原帖视频截图" width="100%"></a>

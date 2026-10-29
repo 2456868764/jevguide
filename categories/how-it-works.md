@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 601 | 262 | 340 | 1.6M |
+| 603 | 264 | 340 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Spinzu/status/2115563192080388294"><img src="https://pbs.twimg.com/amplify_video_thumb/2115563136790974464/img/PPGUsSyvR57xWDBY.jpg" alt="Jev doesn&#39;t write—it picks from answers you allow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Spinzu/status/2115563192080388294">Jev doesn&#39;t write—it picks from answers you allow</a></h3>
+<p>Splitting one vague question into five smaller ones lifts accuracy from 62.6% to 95.0% with the same model. Jev chooses among allowed answers, outperforming Haiku 4.5 when asked granular questions.</p>
+<p><strong>中文摘要：</strong>通过将一个大问题拆成五个小问题，准确率从 62.6% 提升到 95.0%；Jev 本身不生成文本，而是在给定候选项中挑选，拆分提问可超越 Haiku 4.5。</p>
+<p><strong>Spinzu</strong> · @Spinzu · 2026-10-28T21:55:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 51</p>
+<p><a href="https://x.com/Spinzu/status/2115563192080388294">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ai_for_success/status/2115435872221024627"><img src="https://pbs.twimg.com/amplify_video_thumb/2115111814765969408/img/XnHeXPBChhpJQ4yy.jpg" alt="Jev Model Limitations and Parallel Decisions API&#39;s Live Web Checking · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ai_for_success/status/2115435872221024627">Jev Model Limitations and Parallel Decisions API&#39;s Live Web Checking</a></h3>
+<p>The post points out that small decision models like Jev are fast but limited to training data, unaware of a company&#39;s latest funding or pricing changes; the Parallel Decisions API checks the live web before answering to compensate for this gap.</p>
+<p><strong>中文摘要：</strong>帖子指出类似Jev的小型决策模型速度快，但只能依赖训练数据，无法知晓公司最新融资或价格变动；Parallel Decisions API会在回答前检查实时网络信息，以弥补这一不足。</p>
+<p><strong>AshutoshShrivastava</strong> · @ai_for_success · 2026-10-28T13:29:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 666</p>
+<p><a href="https://x.com/ai_for_success/status/2115435872221024627">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/wangcha58403845/status/2115352948200943964"><img src="https://pbs.twimg.com/media/HVs-SG3WgAAA06g?format=jpg&amp;name=900x900" alt="TypeSafe Jev: Bringing System 1/System 2 into Agents · 原帖图片" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6473</strong><br>curated posts</td>
-<td align="center"><strong>3249</strong><br>original videos</td>
+<td align="center"><strong>6502</strong><br>curated posts</td>
+<td align="center"><strong>3264</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1226</strong> showcases · <strong>520</strong> videos</p>
+<p><strong>1232</strong> showcases · <strong>522</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>601</strong> showcases · <strong>262</strong> videos</p>
+<p><strong>603</strong> showcases · <strong>264</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>560</strong> showcases · <strong>245</strong> videos</p>
+<p><strong>561</strong> showcases · <strong>246</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>427</strong> showcases · <strong>177</strong> videos</p>
+<p><strong>432</strong> showcases · <strong>179</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>390</strong> showcases · <strong>293</strong> videos</p>
+<p><strong>392</strong> showcases · <strong>295</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>387</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>391</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>336</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>338</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>279</strong> showcases · <strong>174</strong> videos</p>
+<p><strong>281</strong> showcases · <strong>175</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>172</strong> showcases · <strong>132</strong> videos</p>
+<p><strong>174</strong> showcases · <strong>133</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>129</strong> showcases · <strong>64</strong> videos</p>
+<p><strong>130</strong> showcases · <strong>64</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>111</strong> showcases · <strong>33</strong> videos</p>
+<p><strong>112</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>48</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>49</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/Poukyou/status/2115419563349127478"><img src="https://pbs.twimg.com/tweet_video_thumb/HVt60NeWEAEb8v_.jpg" alt="JEV + MCH Analytics: Find X Posts That Bring Paying Customers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Poukyou/status/2115419563349127478">JEV + MCH Analytics: Find X Posts That Bring Paying Customers</a></h3>
-<p>The author built a tool that connects your site and Stripe, combining posts, traffic, and payments on one chart to spot which X posts actually bring paying customers.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Tcho</strong> · @Poukyou</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/bkdgiffug/status/2115618872862879930"><img src="https://pbs.twimg.com/media/HVtKPrvbAAEZeaE?format=png&amp;name=900x900" alt="Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/bkdgiffug/status/2115618872862879930">Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification</a></h3>
+<p>The post says the Jev chat assistant can read on-screen conversations in WeChat, QQ, Feishu, and X, including WeChat obfuscation nodes, without hooking or modifying packets, to help users better infer the other person&#39;s intentions.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>lumxss</strong> · @bkdgiffug</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/Chinazhidx/status/2115407971618639973"><img src="https://pbs.twimg.com/amplify_video_thumb/2115407789585842176/img/qiDDOD5kvlmNy_-U.jpg" alt="DiffuSpace Previews Clover Decision Model with Independent and Joint Modes, Contrasting TypeSafe Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Chinazhidx/status/2115407971618639973">DiffuSpace Previews Clover Decision Model with Independent and Joint Modes, Contrasting TypeSafe Jev</a></h3>
-<p>The post reports that DiffuSpace previewed a decision model for Clover, supporting Independent and Joint modes. Unlike TypeSafe&#39;s Jev, which evaluates questions individually, Joint Mode reasons across up to 8 related questions at once.</p>
-<p><strong>61</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 61</p>
-<p><strong>智东西China AI News</strong> · @Chinazhidx</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/_lexers/status/2115614980254888397"><img src="https://pbs.twimg.com/amplify_video_thumb/2115473504636407808/img/HgEKm_n7xZPbFbJF.jpg" alt="MiniCPM-OCR runs on iPhone/iPad, with Jev scoring every parse 0 to 1 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/_lexers/status/2115614980254888397">MiniCPM-OCR runs on iPhone/iPad, with Jev scoring every parse 0 to 1</a></h3>
+<p>MiniCPM-OCR runs fully on an iPhone or iPad, and Jev scores every parse from 0 to 1 so you know what to double-check. Open weights, 1B.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>LX™</strong> · @_lexers</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/KirkDBorne/status/2115403465396781484"><img src="https://pbs.twimg.com/media/HUM6pe6WQAARQNq.jpg" alt="Jev Engineering for AI Agent Governance and Scheduling · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/KirkDBorne/status/2115403465396781484">Jev Engineering for AI Agent Governance and Scheduling</a></h3>
-<p>The post highlights Jev Engineering for AI agent governance, command &amp; control, task scheduling, monitoring and correction.</p>
-<p><strong>1.1K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.1K</p>
-<p><strong>Kirk Borne</strong> · @KirkDBorne</p>
+<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
+<a href="https://x.com/jameswlepage/status/2115611799475179721"><img src="https://pbs.twimg.com/media/HVwpts-XUAA8kOB?format=jpg&amp;name=medium" alt="Combining Jev with Tests · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jameswlepage/status/2115611799475179721">Combining Jev with Tests</a></h3>
+<p>James LePage suggests that combining something with TypeSafe AI&#39;s Jev can lead to good tests.</p>
+<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><strong>James LePage</strong> · @jameswlepage</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/mu_tradingview/status/2115396716841328721"><img src="https://pbs.twimg.com/media/HVtmF9-WsAE12KC?format=png&amp;name=small" alt="404 When Visiting Jev 1.14 Page on OpenRouter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mu_tradingview/status/2115396716841328721">404 When Visiting Jev 1.14 Page on OpenRouter</a></h3>
-<p>User reports a 404 when accessing the typesafe/jev-1.14 link on OpenRouter, possibly indicating the model page is moved or unavailable.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Law of Question Convergence</strong> · @mu_tradingview</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/JingyuTang621/status/2115610957980504478"><img src="https://pbs.twimg.com/media/HVwo8U1WsAAP04Y?format=jpg&amp;name=medium" alt="Realtime-Bench: Testing Real-time Capabilities of Models like Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/JingyuTang621/status/2115610957980504478">Realtime-Bench: Testing Real-time Capabilities of Models like Jev</a></h3>
+<p>Our team recently released Realtime-Bench to evaluate real-time capabilities of frontier VLMs and decision models such as Jev.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Jingyu Tang</strong> · @JingyuTang621</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/Poukyou/status/2115419563349127478"><img src="https://pbs.twimg.com/tweet_video_thumb/HVt60NeWEAEb8v_.jpg" alt="JEV + MCH Analytics: Find X Posts That Bring Paying Customers · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Poukyou/status/2115419563349127478">JEV + MCH Analytics: Find X Posts That Bring Paying Customers</a></h3>
-<p>The author built a tool that connects your site and Stripe, combining posts, traffic, and payments on one chart to spot which X posts actually bring paying customers.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Tcho</strong> · @Poukyou</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/bkdgiffug/status/2115618872862879930"><img src="https://pbs.twimg.com/media/HVtKPrvbAAEZeaE?format=png&amp;name=900x900" alt="Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/bkdgiffug/status/2115618872862879930">Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification</a></h3>
+<p>The post says the Jev chat assistant can read on-screen conversations in WeChat, QQ, Feishu, and X, including WeChat obfuscation nodes, without hooking or modifying packets, to help users better infer the other person&#39;s intentions.</p>
+<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><strong>lumxss</strong> · @bkdgiffug</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/mu_tradingview/status/2115396716841328721"><img src="https://pbs.twimg.com/media/HVtmF9-WsAE12KC?format=png&amp;name=small" alt="404 When Visiting Jev 1.14 Page on OpenRouter · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mu_tradingview/status/2115396716841328721">404 When Visiting Jev 1.14 Page on OpenRouter</a></h3>
-<p>User reports a 404 when accessing the typesafe/jev-1.14 link on OpenRouter, possibly indicating the model page is moved or unavailable.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Law of Question Convergence</strong> · @mu_tradingview</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/JingyuTang621/status/2115610957980504478"><img src="https://pbs.twimg.com/media/HVwo8U1WsAAP04Y?format=jpg&amp;name=medium" alt="Realtime-Bench: Testing Real-time Capabilities of Models like Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/JingyuTang621/status/2115610957980504478">Realtime-Bench: Testing Real-time Capabilities of Models like Jev</a></h3>
+<p>Our team recently released Realtime-Bench to evaluate real-time capabilities of frontier VLMs and decision models such as Jev.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Jingyu Tang</strong> · @JingyuTang621</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/mocchan_dev/status/2115394802732974511"><img src="https://pbs.twimg.com/amplify_video_thumb/2115392905951211520/img/t9tssc5RJLTu2cGA.jpg" alt="A Jev-like Personalized Scoring Tool Built on EmbeddingGemma 2 · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/mocchan_dev/status/2115394802732974511">A Jev-like Personalized Scoring Tool Built on EmbeddingGemma 2</a></h3>
-<p>This tool uses EmbeddingGemma 2 to provide Jev-like multimodal scoring for text, images, and audio. It personalizes scoring criteria through Q&amp;A, runs lightweight on CPU, and lets you share your criteria. A demo is available from the replies.</p>
-<p><strong>91</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 91</p>
-<p><strong>もつもつ</strong> · @mocchan_dev</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/bkdgiffug/status/2115595971988267221"><img src="https://pbs.twimg.com/media/HVtIgkfbsAAkvC8?format=png&amp;name=900x900" alt="Asymptote Labs open-sources Beacon · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/bkdgiffug/status/2115595971988267221">Asymptote Labs open-sources Beacon</a></h3>
+<p>The post notes that JEV has been trending recently, but argues that Beacon deserves attention for practical implementation. It announces that Asymptote Labs has open-sourced Beacon. The full details are truncated, but it reflects community activity around the Jev ecosystem.</p>
+<p><strong>870</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 10 &nbsp; 📊 870</p>
+<p><strong>lumxss</strong> · @bkdgiffug</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/zalzhou/status/2115371764708786255"><img src="https://pbs.twimg.com/amplify_video_thumb/2115371362047213568/img/u1RyQMqhn1DUjyrt.jpg" alt="Jev Leads with 94.4% Accuracy on 107 Real Agent Questions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zalzhou/status/2115371764708786255">Jev Leads with 94.4% Accuracy on 107 Real Agent Questions</a></h3>
-<p>The author tested 7 models on 107 real agent questions. Jev ranked first with 94.4% accuracy, surpassing d1-ultra (90.6%) and Luna (89.7%). The post also notes d1&#39;s failure on a &#39;none&#39; option and a model wrongly answering with 100% confidence.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Zal Zhou</strong> · @zalzhou</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ibrcyb2/status/2115575977011278170"><img src="https://pbs.twimg.com/media/HVwJICEaYAACHK9?format=jpg&amp;name=medium" alt="TypeSafe JEV Praised by Community · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ibrcyb2/status/2115575977011278170">TypeSafe JEV Praised by Community</a></h3>
+<p>A community tweet expressing high praise for TypeSafe JEV, reflecting a positive user experience.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Ibrahim Yaacob</strong> · @ibrcyb2</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 172 | 132 | 40 | 904K |
+| 174 | 133 | 41 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Areai51/status/2115578156300067088"><img src="https://pbs.twimg.com/media/HVwLCY6X0AAAzFK?format=jpg&amp;name=medium" alt="Fine-tuning results for Propensity One ad click prediction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Areai51/status/2115578156300067088">Fine-tuning results for Propensity One ad click prediction</a></h3>
+<p>The author shares progress fine-tuning Propensity One, a model that predicts which of two comparable ads will get more clicks. On 959 held-out groups of TikTok ads, it picks the winner 59.6% of the time (58.3% when reading only text), versus 52–53% for ChatGPT, Jev and Clef zero-shot.</p>
+<p><strong>中文摘要：</strong>作者介绍其正在微调 Propensity One 模型，用于预测两个可比广告中哪个会获得更多点击。在 959 组 TikTok 广告留出集上，该模型胜出率为 59.6%（仅读文本为 58.3%），而 ChatGPT、Jev 和 Clef 的 zero-shot 表现约为 52–53%。</p>
+<p><strong>Vinci Rufus | Software &amp; Model Factories</strong> · @Areai51 · 2026-10-28T22:55:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 80</p>
+<p><a href="https://x.com/Areai51/status/2115578156300067088">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sripathiteja4/status/2115532728552817014"><img src="https://pbs.twimg.com/amplify_video_thumb/2115532638614392832/img/ijP91BqaMUL7sFOb.jpg" alt="Zendesk Competitor Teardown with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sripathiteja4/status/2115532728552817014">Zendesk Competitor Teardown with Jev</a></h3>
+<p>A user shares a Zendesk competitor teardown using Jev and MonidHQ: covering 4 review sites and 21 calls, total cost only $0.20, with 7 failed upstream calls billed $0.00.</p>
+<p><strong>中文摘要：</strong>一位用户分享使用 Jev 和 MonidHQ 进行 Zendesk 竞品拆解：覆盖 4 个评价网站和 21 通电话，总成本仅 0.20 美元，且上游失败的 7 通电话未产生费用。</p>
+<p><strong>Sripathi Teja</strong> · @sripathiteja4 · 2026-10-28T19:54:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 299</p>
+<p><a href="https://x.com/sripathiteja4/status/2115532728552817014">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Poukyou/status/2115419563349127478"><img src="https://pbs.twimg.com/tweet_video_thumb/HVt60NeWEAEb8v_.jpg" alt="JEV + MCH Analytics: Find X Posts That Bring Paying Customers · 原帖视频截图" width="100%"></a>

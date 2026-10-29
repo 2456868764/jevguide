@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1226 | 520 | 711 | 3.0M |
+| 1232 | 522 | 715 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bkdgiffug/status/2115618872862879930"><img src="https://pbs.twimg.com/media/HVtKPrvbAAEZeaE?format=png&amp;name=900x900" alt="Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bkdgiffug/status/2115618872862879930">Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification</a></h3>
+<p>The post says the Jev chat assistant can read on-screen conversations in WeChat, QQ, Feishu, and X, including WeChat obfuscation nodes, without hooking or modifying packets, to help users better infer the other person&#39;s intentions.</p>
+<p><strong>中文摘要：</strong>用户提到 Jev 聊天助手可读取微信、QQ、飞书、X 等屏幕上的对话，包括微信混淆节点，帮助打工人读老板脸色、恋爱脑读懂对象心思，避免瞎猜。</p>
+<p><strong>lumxss</strong> · @bkdgiffug · 2026-10-29T01:37:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/bkdgiffug/status/2115618872862879930">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Entinode/status/2115591053243789692"><img src="https://pbs.twimg.com/media/HVwQebcWUAA6B1s.jpg" alt="Discussion on Jev 1.14 and Other Model Comparisons and API Limits · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Entinode/status/2115591053243789692">Discussion on Jev 1.14 and Other Model Comparisons and API Limits</a></h3>
+<p>The post discusses Jev 1.14 outperforming other models (e.g., Decisions API) in benchmarks, while complaining about x20 API limits and insufficient $200 credits, calling for restored limits and better models.</p>
+<p><strong>中文摘要：</strong>帖子讨论了 Jev 1.14 在基准测试中超越其他模型（如 Decisions API），同时抱怨 API 的 x20 限制和 $200 额度不足，呼吁恢复限制并提供更好的模型。</p>
+<p><strong>Entinode</strong> · @Entinode · 2026-10-28T23:46:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 120</p>
+<p><a href="https://x.com/Entinode/status/2115591053243789692">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ibrcyb2/status/2115575977011278170"><img src="https://pbs.twimg.com/media/HVwJICEaYAACHK9?format=jpg&amp;name=medium" alt="TypeSafe JEV Praised by Community · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ibrcyb2/status/2115575977011278170">TypeSafe JEV Praised by Community</a></h3>
+<p>A community tweet expressing high praise for TypeSafe JEV, reflecting a positive user experience.</p>
+<p><strong>中文摘要：</strong>一条社区推文，表达对TypeSafe JEV的高度赞赏，反映用户对其的积极体验。</p>
+<p><strong>Ibrahim Yaacob</strong> · @ibrcyb2 · 2026-10-28T22:46:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/ibrcyb2/status/2115575977011278170">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheoVanceln/status/2115556740305404238"><img src="https://pbs.twimg.com/amplify_video_thumb/2115556685032935425/img/Y6SdQFo0xt6SU3zz.jpg" alt="A workflow where Jev scores Obsidian notes · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheoVanceln/status/2115556740305404238">A workflow where Jev scores Obsidian notes</a></h3>
+<p>When a new note arrives, Jev scores the vault and keeps only what matters, Opus fills in missing lines, and links are placed into the Zettelkasten—so the model doesn&#39;t reread the whole vault.</p>
+<p><strong>中文摘要：</strong>新笔记进入后，Jev 对笔记库评分并只保留关键内容，Opus 写出缺失部分，自动在 Zettelkasten 中生成双链，避免让模型重读整个笔记库。</p>
+<p><strong>Theo Vance</strong> · @TheoVanceln · 2026-10-28T21:30:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 76</p>
+<p><a href="https://x.com/TheoVanceln/status/2115556740305404238">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WisdomEngine_/status/2115430198569242742"><img src="https://pbs.twimg.com/media/HVuEjVlbIAAWCjU?format=jpg&amp;name=small" alt="Jev missed-paragraph case: high scores yet incomplete document · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WisdomEngine_/status/2115430198569242742">Jev missed-paragraph case: high scores yet incomplete document</a></h3>
+<p>The post notes that if the layout stage misses an entire paragraph, Jev only sees crops that were successfully detected, so each crop may score highly while the overall document remains incomplete. The author suggests putting this missed-paragraph scenario near the front of a demo.</p>
+<p><strong>中文摘要：</strong>帖子指出，如果版面检测漏掉整个段落，Jev只看到成功检测出的裁剪区域，每个区域都可能获得高分，但文档整体仍不完整。作者建议把这一漏段场景放在演示靠前位置。</p>
+<p><strong>Madison</strong> · @WisdomEngine_ · 2026-10-28T13:07:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/WisdomEngine_/status/2115430198569242742">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenBMB/status/2115428701982908585"><img src="https://pbs.twimg.com/media/HVuDMVSb0AEMf5G?format=jpg&amp;name=medium" alt="Developer Builds Jev Decision Model on MiniCPM5-2B · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OpenBMB/status/2115428701982908585">Developer Builds Jev Decision Model on MiniCPM5-2B</a></h3>
+<p>OpenBMB showcases developer @ActbroDev adapting MiniCPM5-2B into a System 1 decision model, MiniCPM5-2B-Jev, which takes a document and a set of questions and returns probabilities.</p>
+<p><strong>中文摘要：</strong>OpenBMB 展示了开发者 @ActbroDev 将 MiniCPM5-2B 改编为 System 1 决策模型 MiniCPM5-2B-Jev，输入文档和问题集后返回概率结果。</p>
+<p><strong>OpenBMB</strong> · @OpenBMB · 2026-10-28T13:01:19.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 16 &nbsp; 📊 486</p>
+<p><a href="https://x.com/OpenBMB/status/2115428701982908585">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mocchan_dev/status/2115394802732974511"><img src="https://pbs.twimg.com/amplify_video_thumb/2115392905951211520/img/t9tssc5RJLTu2cGA.jpg" alt="A Jev-like Personalized Scoring Tool Built on EmbeddingGemma 2 · 原帖视频截图" width="100%"></a>

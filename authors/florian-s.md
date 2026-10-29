@@ -1,9 +1,10 @@
 # Florian S
 
-21 Jev showcases.
+22 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-28T20:54:13.000Z | [Observations on Jev-class decision models in the LLM landscape](https://x.com/airesearch12/status/2115547707825856601) | 知识与搜索 | Florian S | 467 |
 | 2026-10-10T00:03:34.000Z | [Jev exits stealth and raises massive Series A](https://x.com/airesearch12/status/2108709992731742323) | 产品发布 | Florian S | 50 |
 | 2026-10-09T13:20:22.000Z | [Jev Model Selection Advice and Benchmark Comparison](https://x.com/airesearch12/status/2108548124063240389) | 开发资源 | Florian S | 19 |
 | 2026-10-09T12:19:15.000Z | [JevBench v1.6.1 Released with Updated Open Model Leaderboard](https://x.com/airesearch12/status/2108532745072775663) | 开发者工具 | Florian S | 214 |

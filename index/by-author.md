@@ -28,6 +28,7 @@
 - [AI Edge](../authors/ai-edge.md) — 9
 - [AI_GOAT](../authors/ai-goat.md) — 9
 - [Alex](../authors/alex.md) — 9
+- [rody](../authors/rody.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
@@ -38,7 +39,6 @@
 - [Jason Zhu](../authors/jason-zhu.md) — 8
 - [Kurt](../authors/kurt.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
-- [rody](../authors/rody.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8
 - [Troy](../authors/troy.md) — 8
 - [ギガビット@ゲームつくるひと](../authors/jev-showcase.md) — 8
@@ -213,6 +213,7 @@
 - [Ahab](../authors/ahab.md) — 3
 - [AI Insider](../authors/ai-insider.md) — 3
 - [AI Will](../authors/ai-will.md) — 3
+- [AI/ML API](../authors/ai-ml-api.md) — 3
 - [AIzunA 出雲から、AIをもっとやさしく。](../authors/aizuna-出雲-ai.md) — 3
 - [Alex Volkov](../authors/alex-volkov.md) — 3
 - [Ali](../authors/ali.md) — 3
@@ -424,7 +425,6 @@
 - [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
 - [AI Builder Club](../authors/ai-builder-club.md) — 2
 - [Ai Demo（アイデモ）](../authors/ai-demo.md) — 2
-- [AI/ML API](../authors/ai-ml-api.md) — 2
 - [AIForPeople](../authors/aiforpeople.md) — 2
 - [AionForge](../authors/aionforge.md) — 2
 - [AIガチ勢オジ｜40代×Claude Code](../authors/ai-勢-40代-claude-code.md) — 2
@@ -1253,6 +1253,7 @@
 - [Anders Lie](../authors/anders-lie.md) — 1
 - [André Prado](../authors/andre-prado.md) — 1
 - [Andrea Volpini](../authors/andrea-volpini.md) — 1
+- [Andreas Kruszakin-Liboska](../authors/andreas-kruszakin-liboska.md) — 1
 - [Andrew](../authors/andrew.md) — 1
 - [Andrew Prifer](../authors/andrew-prifer.md) — 1
 - [Andrew Seldenrust](../authors/andrew-seldenrust.md) — 1
@@ -2420,6 +2421,7 @@
 - [Jony Musky](../authors/jony-musky.md) — 1
 - [Jony Shaik](../authors/jony-shaik.md) — 1
 - [Joon](../authors/joon.md) — 1
+- [Jordan](../authors/jordan.md) — 1
 - [Jordan | NEWMEDIUMS](../authors/jordan-newmediums.md) — 1
 - [Jordi Xiol](../authors/jordi-xiol.md) — 1
 - [Jorge Suarez Basañez](../authors/jorge-suarez-basanez.md) — 1

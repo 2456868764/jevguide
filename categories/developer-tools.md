@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 651 | 325 | 329 | 3.6M |
+| 653 | 327 | 329 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nolansym/status/2116191125744566448"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116191114549960705/pu/img/pU0NJV02U5UTad4s.jpg" alt="New AI Pattern: Jev Tool Permissions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nolansym/status/2116191125744566448">New AI Pattern: Jev Tool Permissions</a></h3>
+<p>Introducing an AI pattern that automatically drops unneeded tools based on task description, keeping only what&#39;s needed from 30 tools, reducing tokens per turn. Built with AI SDK v7 and shadcn registry.</p>
+<p><strong>中文摘要：</strong>介绍一种AI模式，通过描述任务自动移除不需要的工具，使30个工具仅保留任务所需，从而减少每轮token消耗。基于AI SDK v7和shadcn registry构建。</p>
+<p><strong>Jordan</strong> · @nolansym · 2026-10-30T15:30:55.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/nolansym/status/2116191125744566448">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/andreaskruszaki/status/2116182353152553380"><img src="https://pbs.twimg.com/amplify_video_thumb/2116182232637546496/img/40U1Wh7FHrwoouFt.jpg" alt="Gen UI Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/andreaskruszaki/status/2116182353152553380">Gen UI Powered by Jev</a></h3>
+<p>Andreas Kruszakin-Liboska shares a generative UI app or demo powered by Jev, showcasing Jev&#39;s practical use in interface generation.</p>
+<p><strong>中文摘要：</strong>Andreas Kruszakin-Liboska 分享了一个由 Jev 驱动的生成式 UI 应用或演示，展示了 Jev 在界面生成方面的实际应用。</p>
+<p><strong>Andreas Kruszakin-Liboska</strong> · @andreaskruszaki · 2026-10-30T14:56:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/andreaskruszaki/status/2116182353152553380">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidwbressler/status/2116168396492472593"><img src="https://pbs.twimg.com/media/HV4j8VyWkAAmy-Q?format=png&amp;name=medium" alt="Jev model performs well on BANKING77 benchmark · 原帖图片" width="100%"></a>

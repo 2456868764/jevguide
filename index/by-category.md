@@ -1,16 +1,16 @@
 # Jev Showcases by Category
 
 - [Community builds](../categories/community-builds.md) — 1263
-- [Developer tools](../categories/developer-tools.md) — 651
+- [Developer tools](../categories/developer-tools.md) — 653
 - [How it works](../categories/how-it-works.md) — 611
 - [Launch news](../categories/launch-news.md) — 576
-- [Agents](../categories/agents.md) — 532
+- [Agents](../categories/agents.md) — 533
 - [Access updates](../categories/access-updates.md) — 436
 - [Gaming](../categories/gaming.md) — 396
 - [Developer resources](../categories/developer-resources.md) — 394
 - [Finance](../categories/finance.md) — 351
 - [Workflow automation](../categories/workflow-automation.md) — 287
-- [Marketing](../categories/marketing.md) — 183
+- [Marketing](../categories/marketing.md) — 184
 - [Knowledge & search](../categories/knowledge-search.md) — 135
 - [Content creation](../categories/content-creation.md) — 132
 - [Data analytics](../categories/data-analytics.md) — 118

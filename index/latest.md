@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-30T15:30:55.000Z | [New AI Pattern: Jev Tool Permissions](https://x.com/nolansym/status/2116191125744566448) | 开发者工具 | Jordan | 19 |
+| 2026-10-30T15:21:29.000Z | [Halloween 0% Markup on AI Models](https://x.com/aimlapi/status/2116188750984171534) | 营销 | AI/ML API | 299 |
+| 2026-10-30T15:04:49.000Z | [The Future Impact of Jev and Grok Bot](https://x.com/0x_rody/status/2116184554281009647) | 智能体 | rody | 119 |
+| 2026-10-30T14:56:04.000Z | [Gen UI Powered by Jev](https://x.com/andreaskruszaki/status/2116182353152553380) | 开发者工具 | Andreas Kruszakin-Liboska | 31 |
 | 2026-10-30T14:07:00.000Z | [Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions](https://x.com/noot_ai/status/2116170004915741059) | 智能体 | Noot | 19 |
 | 2026-10-30T14:00:36.000Z | [Jev model performs well on BANKING77 benchmark](https://x.com/davidwbressler/status/2116168396492472593) | 开发者工具 | David Bressler | 8 |
 | 2026-10-30T14:00:03.000Z | [Decision Bench Results: Jev 1.13 vs Clef Omni](https://x.com/WasimJalali/status/2116168257841303738) | 科研 | Wasim Jalali | 6 |
@@ -98,7 +102,3 @@
 | 2026-10-29T10:35:32.000Z | [Jev integrated into OrionSpace](https://x.com/thanhtran/status/2115754400379507137) | 接入动态 | Thanh TRAN | 261 |
 | 2026-10-29T09:35:05.000Z | [Developer Requests JEV Access to Test Game Integration](https://x.com/justviewnews/status/2115739186481524931) | 游戏 | JustViewNews | 14 |
 | 2026-10-29T09:00:08.000Z | [What is Jev? TypeSafe's ultra-low-cost decision model](https://x.com/thelukejbyrne/status/2115730392195981683) | 产品发布 | Luke Byrne | 16 |
-| 2026-10-29T08:48:55.000Z | [Model beats Jev on guard benchmarks with zero proprietary data](https://x.com/Carlos_MFerr/status/2115727568913781028) | 科研 | Carlos Muñoz Ferrandis | 36 |
-| 2026-10-29T08:26:25.000Z | [Using Jev to detect suspicious OCR regions and avoid amount errors](https://x.com/Valen/status/2115721906896749037) | 社区实践 | Valen 🍺 | 119 |
-| 2026-10-29T08:24:04.000Z | [Jev for RAG Search Strategies](https://x.com/dxd5001/status/2115721313658782105) | 知识与搜索 | Daijiro Miyazawa \| AI, RAG開発 | 36 |
-| 2026-10-29T08:07:44.000Z | [Introducing Jev Powered People Search](https://x.com/GoSailGlobal/status/2115717203555414259) | 产品发布 | Jason Zhu | 3.9K |

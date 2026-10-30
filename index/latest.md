@@ -2,6 +2,18 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-30T13:35:48.000Z | [JEV Picks Each Move in ForgeAI-Hosted Agents](https://x.com/ForgeAI_gg/status/2116162151903588526) | 游戏 | ForgeAI | 11 |
+| 2026-10-30T13:26:44.000Z | [Sharing Jev Prompt Application Test](https://x.com/OnewKonew/status/2116159871343366254) | 社区实践 | Yohaeni CLI | 14 |
+| 2026-10-30T13:21:38.000Z | [Jev BTC 5-min bot marks to bid](https://x.com/polytutor/status/2116158589609910432) | 金融 | Polytutor | 13 |
+| 2026-10-30T13:21:05.000Z | [Using Jev to address the slopreply problem](https://x.com/appodeepa/status/2116158449545589062) | 社区实践 | Mike | 4 |
+| 2026-10-30T13:16:54.000Z | [TypeSafe Jev and OpenAI Decisions API Now Available in Datadog Agent Observability](https://x.com/MattSimonBrown/status/2116157398842806676) | 接入动态 | matt brown | 19 |
+| 2026-10-30T13:14:05.000Z | [Automate post monitoring with Jev and Sonnet](https://x.com/moru3/status/2116156686738300969) | 自动化工作流 | IwaKen | 17 |
+| 2026-10-30T13:10:51.000Z | [Jev Supercharges Auth Logic with Lower Latency](https://x.com/0xDEADDEAF/status/2116155874045743610) | 网络安全 | Boaz Foux | 2 |
+| 2026-10-30T13:07:00.000Z | [SEO diagnosis with the Jev model](https://x.com/Huahuazo/status/2116154905257787695) | 知识与搜索 | LanfAI | 101 |
+| 2026-10-30T13:02:49.000Z | [Jev is fast but lacks reasoning for computer use](https://x.com/samuelekpe/status/2116153852957204511) | 智能体 | Samuel Ekpe | 26 |
+| 2026-10-30T13:01:44.000Z | [Jev-Built AI Trading Terminal: 5-Agent Crew Automatically Profits 34.88x](https://x.com/HodlReaper/status/2116153581476663781) | 金融 | HodlReaper | 332 |
+| 2026-10-30T13:00:52.000Z | [Grok Bot Integrates Jev: A Four-Choice Gate Before Acting](https://x.com/wangcha58403845/status/2116153363922387286) | 智能体 | vv危言耸听 | 8 |
+| 2026-10-30T12:57:51.000Z | [Developer says 0.8B CPU model beats Jev in some cases](https://x.com/johnjoubert/status/2116152603797266646) | 社区实践 | John Joubert | 29 |
 | 2026-10-30T12:47:51.000Z | [Jev RAG Benchmark Fully Updated](https://x.com/ErenAILab/status/2116150086321279378) | 开发资源 | Mehmet Eren Dikmen | 72 |
 | 2026-10-30T12:36:41.000Z | [TypeSafe Jev speeds up AI agent evals by ~50x](https://x.com/datadogdevs/status/2116147276926288372) | 开发者工具 | Datadog Developers | 32 |
 | 2026-10-30T12:10:44.000Z | [Zuse Launches: European Decision Model Compatible with Jev API](https://x.com/Umair_/status/2116140744100737049) | 产品发布 | Umair | 19 |
@@ -90,15 +102,3 @@
 | 2026-10-29T05:25:46.000Z | [Paper experiment: Can AI Jev predict market direction in 15 minutes?](https://x.com/ForexDog1968/status/2115676443518865526) | 金融 | フォレックス・ドッグ \| AIノーコードEA量産 × 相場解説 | 4.2K |
 | 2026-10-29T05:20:45.000Z | [Jev Bridge MCP Launches People Search](https://x.com/roguevoice/status/2115675183402901703) | 产品发布 | Antonio Bray | 14 |
 | 2026-10-29T05:14:47.000Z | [People Search Built on Jev's Judgment API](https://x.com/roguevoice/status/2115673681103901088) | 知识与搜索 | Antonio Bray | 103 |
-| 2026-10-29T04:11:07.000Z | [Tencent Paper Compares Jev with Major LLMs](https://x.com/mm_0824_kb/status/2115657659731046455) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 2.1K |
-| 2026-10-29T03:45:56.000Z | [RPG-Style Evaluation of Self-Made Jev vs Jev](https://x.com/hisuzuya1/status/2115651319885402556) | 社区实践 | Hidehisa Suzuyama | 20 |
-| 2026-10-29T03:27:53.000Z | [LiteTune 0.7 trains on-device Deciders like Jev for flutter_edge_ai](https://x.com/ShuregDenisov/status/2115646779995906500) | 开发资源 | Sasha Denisov | 492 |
-| 2026-10-29T03:25:11.000Z | [TypeSafe AI Connector for Jev Models](https://x.com/philipwieczorek/status/2115646101080428595) | 接入动态 | Philip Wieczorek | 40 |
-| 2026-10-29T02:30:09.000Z | [Lightpanda Agent Uses Jev to Locate Login Fields](https://x.com/wangcha58403845/status/2115632248577798496) | 智能体 | vv危言耸听 | 9 |
-| 2026-10-29T02:18:49.000Z | [Decision Comparison Test: Jev vs Decisions API](https://x.com/uhimble/status/2115629396958888433) | 开发者工具 | UHIYAMA | 16 |
-| 2026-10-29T01:58:27.000Z | [Scoring OCR parses with Jev](https://x.com/Origin_AI_01/status/2115624270726570133) | 数据分析 | OriginAI | 159 |
-| 2026-10-29T01:37:00.000Z | [Jev Chat Assistant Reads On-Screen Conversations Without Hooking or Packet Modification](https://x.com/bkdgiffug/status/2115618872862879930) | 社区实践 | lumxss | 23 |
-| 2026-10-29T01:21:32.000Z | [MiniCPM-OCR runs on iPhone/iPad, with Jev scoring every parse 0 to 1](https://x.com/_lexers/status/2115614980254888397) | 接入动态 | LX™ | 21 |
-| 2026-10-29T01:08:53.000Z | [Combining Jev with Tests](https://x.com/jameswlepage/status/2115611799475179721) | 软件开发 | James LePage | 35 |
-| 2026-10-29T01:05:33.000Z | [Realtime-Bench: Testing Real-time Capabilities of Models like Jev](https://x.com/JingyuTang621/status/2115610957980504478) | 开发资源 | Jingyu Tang | 14 |
-| 2026-10-29T00:06:00.000Z | [Asymptote Labs open-sources Beacon](https://x.com/bkdgiffug/status/2115595971988267221) | 开发资源 | lumxss | 870 |

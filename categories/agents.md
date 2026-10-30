@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 529 | 296 | 235 | 3.0M |
+| 531 | 297 | 236 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/samuelekpe/status/2116153852957204511"><img src="https://pbs.twimg.com/amplify_video_thumb/2116024325103120384/img/0SJ2SVcNF4jYq-qP.jpg" alt="Jev is fast but lacks reasoning for computer use · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/samuelekpe/status/2116153852957204511">Jev is fast but lacks reasoning for computer use</a></h3>
+<p>The post says TypeSafe&#39;s Jev is fast, but lacks reasoning for computer use, which could lead to agents being banned on websites. It imagines an agent that thinks both fast and slow.</p>
+<p><strong>中文摘要：</strong>原帖认为 TypeSafe 的 Jev 速度很快，但缺乏用于计算机操作的推理能力，可能导致智能体在网站上被封禁；并设想结合快速与慢速思考的智能体。</p>
+<p><strong>Samuel Ekpe</strong> · @samuelekpe · 2026-10-30T13:02:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/samuelekpe/status/2116153852957204511">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/wangcha58403845/status/2116153363922387286"><img src="https://pbs.twimg.com/media/HV4WRQeXQAAy9B0?format=jpg&amp;name=900x900" alt="Grok Bot Integrates Jev: A Four-Choice Gate Before Acting · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/wangcha58403845/status/2116153363922387286">Grok Bot Integrates Jev: A Four-Choice Gate Before Acting</a></h3>
+<p>According to the post, the author added Jev to Grok Bot. Before acting, each bot asks whether to continue, reuse, stop, or call Alan, uses confidence thresholds (e.g., only open browser if conf≥0.85), limits research sources, and requires human confirmation before posting or payment, resulting in higher quality, lower cost, and faster execution.</p>
+<p><strong>中文摘要：</strong>根据原帖，作者为 Grok Bot 加入 Jev，每个 bot 行动前先询问继续、复用、停下还是叫 Alan，并利用置信度阈值（如 conf≥0.85 才开浏览器）、限制调研来源数量，以及发帖/付款前人工确认，实现更高质量、更低成本和更快的执行。</p>
+<p><strong>vv危言耸听</strong> · @wangcha58403845 · 2026-10-30T13:00:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/wangcha58403845/status/2116153363922387286">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/agentsplaybook/status/2116117911345766658"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev-powered people search tool demo · 原帖视频截图" width="100%"></a>

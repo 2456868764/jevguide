@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 349 | 199 | 152 | 1.2M |
+| 351 | 200 | 153 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/polytutor/status/2116158589609910432"><img src="https://pbs.twimg.com/media/HV4bALnWMAAbJ57?format=png&amp;name=medium" alt="Jev BTC 5-min bot marks to bid · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/polytutor/status/2116158589609910432">Jev BTC 5-min bot marks to bid</a></h3>
+<p>Polytutor shows how its Jev-based Polymarket BTC 5-minute trading bot values open positions at the best bid instead of mid, falling back to last trade or Gamma price, with a GitHub repo.</p>
+<p><strong>中文摘要：</strong>Polytutor 展示了其基于 Jev 的 Polymarket BTC 5分钟交易机器人如何使用最佳买价（而非中间价）评估未平仓仓位，并在买价偏离时回退到最新成交价或 Gamma 价格，并附有 GitHub 仓库。</p>
+<p><strong>Polytutor</strong> · @polytutor · 2026-10-30T13:21:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/polytutor/status/2116158589609910432">在 X 查看原帖</a> · <a href="https://t.co/gYS5rTOqQ6">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HodlReaper/status/2116153581476663781"><img src="https://pbs.twimg.com/amplify_video_thumb/2116153428413911040/img/U-JK0CfYP4tbZasd.jpg" alt="Jev-Built AI Trading Terminal: 5-Agent Crew Automatically Profits 34.88x · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HodlReaper/status/2116153581476663781">Jev-Built AI Trading Terminal: 5-Agent Crew Automatically Profits 34.88x</a></h3>
+<p>User shares a terminal bot built with Jev and Grok: after setting a $100 spend cap, it auto-made $3,488 in 6h16m. The system is a 5-agent crew — nothing is bought unless all five agree.</p>
+<p><strong>中文摘要：</strong>用户分享使用Jev和Grok构建的终端机器人：设置100美元花费上限后，6小时16分钟内自动获利3488美元。系统由5个代理组成，必须全体一致才会执行买入。</p>
+<p><strong>HodlReaper</strong> · @HodlReaper · 2026-10-30T13:01:44.000Z</p>
+<p>💬 12 &nbsp; 🔁 0 &nbsp; ♡ 23 &nbsp; 📊 332</p>
+<p><a href="https://x.com/HodlReaper/status/2116153581476663781">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SVEN_WAG/status/2116083386905186489"><img src="https://pbs.twimg.com/amplify_video_thumb/2116083177311649792/img/6H2AmVi137dOgYjT.jpg" alt="QuantBot × Jev Reviews Tesla Roadster Polymarket Trade · 原帖视频截图" width="100%"></a>

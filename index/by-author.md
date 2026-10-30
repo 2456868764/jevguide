@@ -175,6 +175,7 @@
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 4
 - [Neha Sharma](../authors/neha-sharma.md) — 4
 - [Phil Greene](../authors/phil-greene.md) — 4
+- [Polytutor](../authors/polytutor.md) — 4
 - [Ricker](../authors/ricker.md) — 4
 - [RM 🖤](../authors/rm.md) — 4
 - [rvaniaaa](../authors/rvaniaaa.md) — 4
@@ -332,7 +333,6 @@
 - [ParlonsIA sans compromis](../authors/parlonsia-sans-compromis.md) — 3
 - [Pere](../authors/pere.md) — 3
 - [Platzi](../authors/platzi.md) — 3
-- [Polytutor](../authors/polytutor.md) — 3
 - [rari](../authors/rari.md) — 3
 - [Ravi Dhir](../authors/ravi-dhir.md) — 3
 - [RazeDen](../authors/razeden.md) — 3
@@ -374,6 +374,7 @@
 - [Verdao](../authors/verdao.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
+- [vv危言耸听](../authors/vv危言耸听.md) — 3
 - [Y.Yamashiro](../authors/y-yamashiro.md) — 3
 - [Yohei](../authors/yohei.md) — 3
 - [Youssef Hosni](../authors/youssef-hosni.md) — 3
@@ -558,6 +559,7 @@
 - [FEDRO](../authors/fedro.md) — 2
 - [Flandermaxx](../authors/flandermaxx.md) — 2
 - [FOFO](../authors/fofo.md) — 2
+- [ForgeAI](../authors/forgeai.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
 - [Franco Naumow.](../authors/franco-naumow.md) — 2
 - [Frank Chen](../authors/frank-chen.md) — 2
@@ -602,6 +604,7 @@
 - [iSegar0 || سگارو](../authors/isegar0.md) — 2
 - [Issun Studio Japan](../authors/issun-studio-japan.md) — 2
 - [Ivenaccip](../authors/ivenaccip.md) — 2
+- [IwaKen](../authors/iwaken.md) — 2
 - [Izumi Satoshi](../authors/izumi-satoshi.md) — 2
 - [J.𝙳𝚛𝚊𝚟𝚎𝚗](../authors/j-draven.md) — 2
 - [jaceyang](../authors/jaceyang.md) — 2
@@ -617,6 +620,7 @@
 - [Joao Bortotti](../authors/joao-bortotti.md) — 2
 - [John](../authors/john.md) — 2
 - [John Berryman](../authors/john-berryman.md) — 2
+- [John Joubert](../authors/john-joubert.md) — 2
 - [Jon Mellon](../authors/jon-mellon.md) — 2
 - [Josh](../authors/josh.md) — 2
 - [Josh Machado · The Polyglot Programmer](../authors/josh-machado-the-polyglot-programmer.md) — 2
@@ -689,6 +693,7 @@
 - [Mert Durmazer](../authors/mert-durmazer.md) — 2
 - [Michael Nicholls](../authors/michael-nicholls.md) — 2
 - [Midas 👑](../authors/midas.md) — 2
+- [Mike](../authors/mike.md) — 2
 - [MIKE](../authors/mike.md) — 2
 - [Mikel](../authors/mikel.md) — 2
 - [Miles Deutscher](../authors/miles-deutscher.md) — 2
@@ -877,7 +882,6 @@
 - [Vinny](../authors/vinny.md) — 2
 - [Vishal Kushwaha](../authors/vishal-kushwaha.md) — 2
 - [vogel](../authors/vogel.md) — 2
-- [vv危言耸听](../authors/vv危言耸听.md) — 2
 - [Vybhav Ramachandran](../authors/vybhav-ramachandran.md) — 2
 - [Wasim Jalali](../authors/wasim-jalali.md) — 2
 - [WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&インタビューショー🚨](../authors/wbn-ai-tech-startup特化-生配信.md) — 2
@@ -1444,6 +1448,7 @@
 - [blurrd.eth🛹](../authors/blurrd-eth.md) — 1
 - [Bo Brainerd](../authors/bo-brainerd.md) — 1
 - [bo peng](../authors/bo-peng.md) — 1
+- [Boaz Foux](../authors/boaz-foux.md) — 1
 - [Bobo Li](../authors/bobo-li.md) — 1
 - [bodka (ぼっか)](../authors/bodka.md) — 1
 - [Bohu](../authors/bohu.md) — 1
@@ -1999,7 +2004,6 @@
 - [fooh](../authors/fooh.md) — 1
 - [Foola Froos🌞](../authors/foola-froos.md) — 1
 - [Football Ant](../authors/football-ant.md) — 1
-- [ForgeAI](../authors/forgeai.md) — 1
 - [founderplug⚡️](../authors/founderplug.md) — 1
 - [Fountai | refcat.app](../authors/fountai-refcat-app.md) — 1
 - [Frad](../authors/frad.md) — 1
@@ -2192,6 +2196,7 @@
 - [Hmza](../authors/hmza.md) — 1
 - [HN Thread Scout 💬](../authors/hn-thread-scout.md) — 1
 - [Hoang Nguyen](../authors/hoang-nguyen.md) — 1
+- [HodlReaper](../authors/hodlreaper.md) — 1
 - [HoneyHive](../authors/honeyhive.md) — 1
 - [Hong Kong Programming Society](../authors/hong-kong-programming-society.md) — 1
 - [Hope](../authors/hope.md) — 1
@@ -2284,7 +2289,6 @@
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
 - [Ivan Panakhno](../authors/ivan-panakhno.md) — 1
 - [ivy](../authors/ivy.md) — 1
-- [IwaKen](../authors/iwaken.md) — 1
 - [J-S---](../authors/j-s.md) — 1
 - [J.B.](../authors/j-b.md) — 1
 - [j.i](../authors/j-i.md) — 1
@@ -2398,7 +2402,6 @@
 - [Joedycore053|| Trade Gold 24/7 on Vantage](../authors/joedycore053-trade-gold-24-7-on-vantage.md) — 1
 - [John Arrasjid](../authors/john-arrasjid.md) — 1
 - [John Enevoldsen](../authors/john-enevoldsen.md) — 1
-- [John Joubert](../authors/john-joubert.md) — 1
 - [John Kim](../authors/john-kim.md) — 1
 - [John T Davies 🇪🇺](../authors/john-t-davies.md) — 1
 - [John Wong](../authors/john-wong.md) — 1
@@ -2618,6 +2621,7 @@
 - [Lahiri](../authors/lahiri.md) — 1
 - [lakshay dang](../authors/lakshay-dang.md) — 1
 - [Lakshmanan LN](../authors/lakshmanan-ln.md) — 1
+- [LanfAI](../authors/lanfai.md) — 1
 - [Langfuse JP同好会](../authors/langfuse-jp同好会.md) — 1
 - [Laravel Ahmedabad Community](../authors/laravel-ahmedabad-community.md) — 1
 - [Larry Fuqua](../authors/larry-fuqua.md) — 1
@@ -2801,6 +2805,7 @@
 - [Matilda](../authors/matilda.md) — 1
 - [Matin SenPai](../authors/matin-senpai.md) — 1
 - [Matt Biilmann](../authors/matt-biilmann.md) — 1
+- [matt brown](../authors/matt-brown.md) — 1
 - [mattn](../authors/mattn.md) — 1
 - [Mau Baron](../authors/mau-baron.md) — 1
 - [maudev](../authors/maudev.md) — 1
@@ -2858,7 +2863,6 @@
 - [Miguel Ángel Durán](../authors/miguel-angel-duran.md) — 1
 - [Miguel Ángel Sabio | Negocios Reales](../authors/miguel-angel-sabio-negocios-reales.md) — 1
 - [Mikadzyki🌙](../authors/mikadzyki.md) — 1
-- [Mike](../authors/mike.md) — 1
 - [mike buttrum](../authors/mike-buttrum.md) — 1
 - [Mike Clarke](../authors/mike-clarke.md) — 1
 - [Mike Dupont](../authors/mike-dupont.md) — 1
@@ -3477,6 +3481,7 @@
 - [Samridh Srivastava](../authors/samridh-srivastava.md) — 1
 - [Samuel](../authors/samuel.md) — 1
 - [Samuel Agbede](../authors/samuel-agbede.md) — 1
+- [Samuel Ekpe](../authors/samuel-ekpe.md) — 1
 - [Samuel Gregory](../authors/samuel-gregory.md) — 1
 - [Samyak Jain](../authors/samyak-jain.md) — 1
 - [Sanchit](../authors/sanchit.md) — 1
@@ -4104,6 +4109,7 @@
 - [yjtr](../authors/yjtr.md) — 1
 - [YK](../authors/yk.md) — 1
 - [Yoann Vanitou](../authors/yoann-vanitou.md) — 1
+- [Yohaeni CLI](../authors/yohaeni-cli.md) — 1
 - [yohei](../authors/yohei.md) — 1
 - [Yonan](../authors/yonan.md) — 1
 - [Yorick](../authors/yorick.md) — 1

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 80 | 27 | 53 | 82K |
+| 81 | 27 | 54 | 82K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xDEADDEAF/status/2116155874045743610"><img src="https://pbs.twimg.com/media/HV4XxOIWMAAAHkt?format=jpg&amp;name=medium" alt="Jev Supercharges Auth Logic with Lower Latency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xDEADDEAF/status/2116155874045743610">Jev Supercharges Auth Logic with Lower Latency</a></h3>
+<p>Boaz Foux praises Jev for its blazing speed in replacing traditional auth logic, slashing latency and turning routine security into a frictionless experience.</p>
+<p><strong>中文摘要：</strong>Boaz Foux 称赞 Jev 在传统认证逻辑替换中的极致速度，显著降低延迟，让枯燥的安全流程变得流畅高效。</p>
+<p><strong>Boaz Foux</strong> · @0xDEADDEAF · 2026-10-30T13:10:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/0xDEADDEAF/status/2116155874045743610">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/o_product/status/2116077816949461480"><img src="https://pbs.twimg.com/media/HV3Rj72bYAAa_ZR?format=jpg&amp;name=900x900" alt="Givvy Launches Proactive Cyber Defense AI Using Jev Model · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/o_product/status/2116077816949461480">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Leo_R_UK/status/2115931960052679014"><img src="https://pbs.twimg.com/amplify_video_thumb/2114801135621980160/img/cDHfjrGg1lkHaY61.jpg" alt="Can Jev-guard block repo-level hook pre-execution? · 原帖视频截图" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/Leo_R_UK/status/2115931960052679014">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/theio666/status/2115162532835209429"><img src="https://pbs.twimg.com/media/HVqPxBBaMAAl0WB?format=jpg&amp;name=medium" alt="Jev Model Performance in Prompt Injection Detection · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/theio666/status/2115162532835209429">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/theio666/status/2115160860398424294"><img src="https://pbs.twimg.com/media/HVqPIR9bQAADAM6?format=jpg&amp;name=medium" alt="Prompt-Injection Classifier Comparison: Jev Misses Cluster in Technical Obfuscation · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +69,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/theio666/status/2115160860398424294">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Supriik_/status/2115049347981164689"><img src="https://pbs.twimg.com/amplify_video_thumb/2115049243719114752/img/PIL8LUJTj531pigb.jpg" alt="Claude + Jev Vehicle Sweep Finds Suspicious Signals · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +80,8 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 61</p>
 <p><a href="https://x.com/Supriik_/status/2115049347981164689">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SingulantChain/status/2114904617717055543"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry uses Jev to screen 10M events daily for prompt injection · 原帖视频截图" width="100%"></a>
 <br>
@@ -80,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
 <p><a href="https://x.com/SingulantChain/status/2114904617717055543">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CloudflareDev/status/2114787645851123926"><img src="https://pbs.twimg.com/media/HVYYzXQaoAAfCfM.jpg" alt="Sentry spends $263/day using Jev to detect prompt injection · 原帖视频截图" width="100%"></a>
 <br>
@@ -93,6 +104,8 @@
 <p>💬 9 &nbsp; 🔁 7 &nbsp; ♡ 112 &nbsp; 📊 7.1K</p>
 <p><a href="https://x.com/CloudflareDev/status/2114787645851123926">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NassirAI1/status/2114710408804368820"><img src="https://pbs.twimg.com/media/HVj1516WIAAh7xX?format=jpg&amp;name=medium" alt="Eryma: An LLM Security Project Using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +117,6 @@
 <p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 62</p>
 <p><a href="https://x.com/NassirAI1/status/2114710408804368820">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/fern_kabu/status/2114677189035839492"><img src="https://pbs.twimg.com/media/HVjXsfZacAAkdtP?format=jpg&amp;name=small" alt="Use Jev to detect hacking on all access and prevent leaks · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
 <p><a href="https://x.com/fern_kabu/status/2114677189035839492">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/theio666/status/2114498110965879125"><img src="https://pbs.twimg.com/media/HVgzlh7aQAAYWMV?format=jpg&amp;name=medium" alt="Jev Benchmark for Prompt Injection Detection · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
 <p><a href="https://x.com/theio666/status/2114498110965879125">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mushan40120676/status/2113829740838797665"><img src="https://pbs.twimg.com/media/HVXUqytbIAAJYEi?format=jpg&amp;name=medium" alt="Benchmarking Decision Models for Content Moderation · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +152,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
 <p><a href="https://x.com/mushan40120676/status/2113829740838797665">在 X 查看原帖</a> · <a href="https://t.co/zY7t8zpytH">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/braintrust/status/2113368124154126515"><img src="https://pbs.twimg.com/media/HVQxG8rWgAA8n7r?format=jpg&amp;name=medium" alt="Jev stands out in harmful content recognition tests · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 449</p>
 <p><a href="https://x.com/braintrust/status/2113368124154126515">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/denismajus/status/2109644506274594999"><img src="https://pbs.twimg.com/media/HUaxWpsaYAErxaE?format=jpg&amp;name=medium" alt="Verdikt Onboards x402check: Injected-Prompt Detection with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +176,8 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 147</p>
 <p><a href="https://x.com/denismajus/status/2109644506274594999">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/menkatsukiroku/status/2109544339533926686"><img src="https://pbs.twimg.com/media/HUaaGL3akAE6L5v?format=jpg&amp;name=medium" alt="SyncA UTM Integrates Jev API for Enhanced AI-Powered Attack Detection · 原帖图片" width="100%"></a>
 <br>
@@ -176,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 92</p>
 <p><a href="https://x.com/menkatsukiroku/status/2109544339533926686">在 X 查看原帖</a> · <a href="https://t.co/QeaZ8ErxuF">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davepoon/status/2109528938947256580"><img src="https://pbs.twimg.com/amplify_video_thumb/2109520703959818240/img/Y8rQCCXVzPiYqkha.jpg" alt="Jev performs well in 200 real phishing email test · 原帖视频截图" width="100%"></a>
 <br>
@@ -189,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 30</p>
 <p><a href="https://x.com/davepoon/status/2109528938947256580">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/uhimble/status/2109233991509578085"><img src="https://pbs.twimg.com/amplify_video_thumb/2109232534135685120/img/oJmGvXdKxmEhNbe5.jpg" alt="Integrating Jev Prompt Injection Detection into a Talk Avatar · 原帖视频截图" width="100%"></a>
 <br>
@@ -200,8 +213,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/uhimble/status/2109233991509578085">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/stas_sorokin_/status/2108589024189264059"><img src="https://pbs.twimg.com/amplify_video_thumb/2108588985186447360/img/ZRyiV9s9HgkRMcxX.jpg" alt="Open small model beats Jev at prompt injection detection · 原帖视频截图" width="100%"></a>
 <br>
@@ -213,6 +224,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 52</p>
 <p><a href="https://x.com/stas_sorokin_/status/2108589024189264059">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/backmeupplz/status/2108257972120113313"><img src="https://pbs.twimg.com/media/HUIJZpcbEAASq4u?format=jpg&amp;name=medium" alt="Ditching Jev: Fine-Tuning a Replacement for Anti-Spam · 原帖图片" width="100%"></a>
 <br>
@@ -224,8 +237,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 105</p>
 <p><a href="https://x.com/backmeupplz/status/2108257972120113313">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anugrah_vibi/status/2107996977254547936"><img src="https://pbs.twimg.com/media/HUEcCJaaEAAKEBd?format=jpg&amp;name=medium" alt="Exploring Backdoor Possibilities in Jev Models · 原帖图片" width="100%"></a>
 <br>
@@ -237,6 +248,8 @@
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/anugrah_vibi/status/2107996977254547936">在 X 查看原帖</a> · <a href="https://t.co/plll3sjz4C">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIzunA_izumo/status/2107796569512923206"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2107796528027013120/pu/img/Q_pVZ_kiU4RtQAi4.jpg" alt="Jev Model Benchmarked on Phishing Email Subject Lines · 原帖视频截图" width="100%"></a>
 <br>
@@ -248,8 +261,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/AIzunA_izumo/status/2107796569512923206">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManiarViral/status/2106998771624341933"><img src="https://pbs.twimg.com/media/HT2QNh3bQAAn-i1?format=jpg&amp;name=medium" alt="Jev-IDS: System One Model for Network Intrusion Detection · 原帖图片" width="100%"></a>
 <br>
@@ -261,6 +272,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 52</p>
 <p><a href="https://x.com/ManiarViral/status/2106998771624341933">在 X 查看原帖</a> · <a href="https://t.co/05lyDkp1px">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dev_adityarao/status/2106982513201844648"><img src="https://pbs.twimg.com/media/HT2BLM2bwAA-G_W?format=jpg&amp;name=medium" alt="Jev detects AI agent collusion via chat logs · 原帖图片" width="100%"></a>
 <br>
@@ -272,8 +285,6 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 42</p>
 <p><a href="https://x.com/dev_adityarao/status/2106982513201844648">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xCVYH/status/2106204137377398934"><img src="https://pbs.twimg.com/media/HTq9CL0XQAE6O4f?format=jpg&amp;name=medium" alt="Jev/Eikos Blocks Illegitimate On-Chain Transactions for Agents · 原帖图片" width="100%"></a>
 <br>
@@ -285,6 +296,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 182</p>
 <p><a href="https://x.com/0xCVYH/status/2106204137377398934">在 X 查看原帖</a> · <a href="https://t.co/QM8EjQbhbx">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2106165949699338531"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995241467916288/img/2q1hYckiX9W3xi3f.jpg" alt="Jev Efficiently Catches Phishing Emails · 原帖视频截图" width="100%"></a>
 <br>
@@ -296,8 +309,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 278</p>
 <p><a href="https://x.com/somi_ai/status/2106165949699338531">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jetwaniavinash/status/2106012560067580283"><img src="https://pbs.twimg.com/amplify_video_thumb/2106012097515487232/img/htoRE1jPPsd6_a0m.jpg" alt="LinkGuard: Hover to Check Link Safety with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -309,6 +320,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/jetwaniavinash/status/2106012560067580283">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davepoon/status/2105995769337778526"><img src="https://pbs.twimg.com/amplify_video_thumb/2105995241467916288/img/2q1hYckiX9W3xi3f.jpg" alt="Jev model performance on phishing detection · 原帖视频截图" width="100%"></a>
 <br>
@@ -320,8 +333,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
 <p><a href="https://x.com/davepoon/status/2105995769337778526">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tom_knockk/status/2105810959474491866"><img src="https://pbs.twimg.com/media/HTlX4M5aYAADUOo?format=jpg&amp;name=medium" alt="Cloudflare Clef: Open Decision Model Compatible with Jev API · 原帖图片" width="100%"></a>
 <br>
@@ -333,6 +344,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><a href="https://x.com/tom_knockk/status/2105810959474491866">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davepoon/status/2105622995448566111"><img src="https://pbs.twimg.com/amplify_video_thumb/2105622686219264000/img/MHEDivuILRpuC7ue.jpg" alt="Building a Real-time Email Phishing Radar with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -344,8 +357,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 8</p>
 <p><a href="https://x.com/davepoon/status/2105622995448566111">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/bakigulai/status/2105603372086595695"><img src="https://pbs.twimg.com/media/HTibG--WwAAJaMX?format=jpg&amp;name=medium" alt="Jev Guard: Open-Source Security Layer for AI Agents Using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -357,6 +368,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 72</p>
 <p><a href="https://x.com/bakigulai/status/2105603372086595695">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RohanArun/status/2105492191703367711"><img src="https://pbs.twimg.com/media/HTgwf16WcAAWNrE?format=jpg&amp;name=medium" alt="Automate Blocking iMessage Spam &amp; Phishing with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -368,8 +381,6 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 128</p>
 <p><a href="https://x.com/RohanArun/status/2105492191703367711">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shapor/status/2105492173638742501"><img src="https://pbs.twimg.com/media/HTg1ugyaMAAb0Q8?format=jpg&amp;name=medium" alt="Jev Sentinel Project: Detecting Hugging Face Incident Payloads · 原帖图片" width="100%"></a>
 <br>
@@ -381,6 +392,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/shapor/status/2105492173638742501">在 X 查看原帖</a> · <a href="https://t.co/0tNXNzLhcv">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/FSFG/status/2105458933980684677"><img src="https://pbs.twimg.com/media/HTgXvk0XMAA28fZ?format=png&amp;name=medium" alt="JEV as a Judge for Agent Trace Security: Empirical Comparison with Generative LLM Judges · 原帖图片" width="100%"></a>
 <br>
@@ -392,8 +405,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/FSFG/status/2105458933980684677">在 X 查看原帖</a> · <a href="https://t.co/UokJkHjsVp">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/luongnv89/status/2105302135759855832"><img src="https://pbs.twimg.com/media/HTeI1c5WYAAuHAR?format=jpg&amp;name=medium" alt="AI Agent Crosses Project Boundaries to Search Jev Key During Benchmark, Raising Security Concerns · 原帖图片" width="100%"></a>
 <br>
@@ -405,6 +416,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/luongnv89/status/2105302135759855832">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/somi_ai/status/2105281967793246600"><img src="https://pbs.twimg.com/amplify_video_thumb/2105263768238530560/img/NGP4uj4pS_NM3o0P.jpg" alt="Jev Model Blocks Phishing Emails · 原帖视频截图" width="100%"></a>
 <br>
@@ -416,8 +429,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
 <p><a href="https://x.com/somi_ai/status/2105281967793246600">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Tal_Weiss7/status/2105226177660993616"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2105226090289459200/pu/img/eOnvbiGDw1pj89kt.jpg" alt="Jev-Powered Security Triage: 230x Faster, 98% Accuracy · 原帖视频截图" width="100%"></a>
 <br>
@@ -429,6 +440,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/Tal_Weiss7/status/2105226177660993616">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CKeruac/status/2105160307194626112"><img src="https://pbs.twimg.com/media/HTcH9W2W4AAmmFw?format=png&amp;name=medium" alt="Jev&#39;s prompt sensitivity test in vulnerability auditing · 原帖图片" width="100%"></a>
 <br>
@@ -440,8 +453,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 119</p>
 <p><a href="https://x.com/CKeruac/status/2105160307194626112">在 X 查看原帖</a> · <a href="https://t.co/N2B5dEvoqO">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rst_cloud/status/2104900718612169020"><img src="https://pbs.twimg.com/media/HTYcC-uXoAAjChg?format=jpg&amp;name=medium" alt="Rise of the Jev-Clones: Threat Report for Typesafe AI Users · 原帖图片" width="100%"></a>
 <br>
@@ -453,6 +464,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 55</p>
 <p><a href="https://x.com/rst_cloud/status/2104900718612169020">在 X 查看原帖</a> · <a href="https://t.co/LYhZDbgYWK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cxocommunity/status/2104957029135925724"><img src="https://pbs.twimg.com/media/HTZPQ4sa0AAaWel?format=jpg&amp;name=medium" alt="Jev AI + Make: A Faster Way to Screen Email Threats · 原帖图片" width="100%"></a>
 <br>
@@ -464,8 +477,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
 <p><a href="https://x.com/cxocommunity/status/2104957029135925724">在 X 查看原帖</a> · <a href="https://t.co/r8k8Fj6MlZ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CDerinbogaz/status/2104826795270783228"><img src="https://pbs.twimg.com/media/HTXYWTAWsAEBc9-?format=jpg&amp;name=medium" alt="Jev vs laya-cybersec: Stronger performance vs on-prem deployment · 原帖图片" width="100%"></a>
 <br>
@@ -477,6 +488,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
 <p><a href="https://x.com/CDerinbogaz/status/2104826795270783228">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MouhamedBerrimi/status/2104896946104356875"><img src="https://pbs.twimg.com/media/HTYYOYsWYAAxIrj?format=png&amp;name=medium" alt="Jev Performs Better in Prompt Injection and Tool Misuse Evaluation · 原帖图片" width="100%"></a>
 <br>
@@ -488,8 +501,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/MouhamedBerrimi/status/2104896946104356875">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hotjeffbezos/status/2104731483407819127"><img src="https://pbs.twimg.com/media/HTWCIPMaYAAOUwG?format=jpg&amp;name=medium" alt="Jev vs. Claude vs. GPT: CVSS Benchmark &amp; Time Savings Calculator · 原帖图片" width="100%"></a>
 <br>
@@ -501,6 +512,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><a href="https://x.com/hotjeffbezos/status/2104731483407819127">在 X 查看原帖</a> · <a href="https://t.co/nvb2WDInlo">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/cxocommunity/status/2104958158343110957"><img src="https://pbs.twimg.com/media/HTZQSl7bsAEBsmS?format=jpg&amp;name=medium" alt="Jev AI + Make: A Faster, Cheaper Way to Screen Every Email for Threats · 原帖图片" width="100%"></a>
 <br>
@@ -512,8 +525,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><a href="https://x.com/cxocommunity/status/2104958158343110957">在 X 查看原帖</a> · <a href="https://t.co/h6QBnJULIv">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/StephenWThomas/status/2104938047464731080"><img src="https://pbs.twimg.com/media/HTY9_6LWcAAJdhj?format=jpg&amp;name=medium" alt="Jev Enables Real-Time LLM Input Validation in Azure APIM · 原帖图片" width="100%"></a>
 <br>
@@ -525,6 +536,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/StephenWThomas/status/2104938047464731080">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WarlockTome/status/2104888940729716782"><img src="https://pbs.twimg.com/media/HTNIGINaMAEb8PF?format=jpg&amp;name=medium" alt="Evaluation of Jev Model on SQL Bug Detection · 原帖图片" width="100%"></a>
 <br>
@@ -536,8 +549,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/WarlockTome/status/2104888940729716782">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brainstormity/status/2104441847162487183"><img src="https://pbs.twimg.com/media/HTR4qkVXIAAhGKn?format=jpg&amp;name=medium" alt="Real-Time Packet Analyzer Open-Sourced with TypeSafe JEV Integration · 原帖图片" width="100%"></a>
 <br>
@@ -549,6 +560,8 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 298</p>
 <p><a href="https://x.com/brainstormity/status/2104441847162487183">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_vincenzoiozzo/status/2104543372492841461"><img src="https://pbs.twimg.com/media/HTTWsrCWMAAwROn?format=jpg&amp;name=medium" alt="Jev beats Claude on security classification task · 原帖图片" width="100%"></a>
 <br>
@@ -560,8 +573,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 191</p>
 <p><a href="https://x.com/_vincenzoiozzo/status/2104543372492841461">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SHO_A/status/2104385848242507848"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588700702257152/img/46Xo2MlmJThMYKqC.jpg" alt="Jev Demonstrates Prompt Injection Risk · 原帖视频截图" width="100%"></a>
 <br>
@@ -573,6 +584,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 33</p>
 <p><a href="https://x.com/SHO_A/status/2104385848242507848">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dailytechonx/status/2104563458884735193"><img src="https://pbs.twimg.com/media/HTTpTwuXAAAKlP9?format=jpg&amp;name=medium" alt="Fake Jev AI Storefronts Appear After Release · 原帖图片" width="100%"></a>
 <br>
@@ -584,8 +597,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/dailytechonx/status/2104563458884735193">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/deezzex/status/2104193982699798734"><img src="https://pbs.twimg.com/amplify_video_thumb/2104193861954203648/img/OgLjdH9NMWOdqYvw.jpg" alt="Harvard professor builds Jev-powered security alert investigation system · 原帖视频截图" width="100%"></a>
 <br>
@@ -597,6 +608,8 @@
 <p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 469</p>
 <p><a href="https://x.com/deezzex/status/2104193982699798734">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/moonfarm_dev/status/2104077916690629074"><img src="https://pbs.twimg.com/media/HTMvtnwXYAAD3yT?format=jpg&amp;name=medium" alt="Building a Security Pipeline with Jev Reasoning · 原帖图片" width="100%"></a>
 <br>
@@ -608,8 +621,6 @@
 <p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 96</p>
 <p><a href="https://x.com/moonfarm_dev/status/2104077916690629074">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/lucasrotelavila/status/2104008900806861207"><img src="https://pbs.twimg.com/media/HTLummaWsAAoQxm?format=png&amp;name=small" alt="Build a Phishing Email Detection Extension with JEV · 原帖图片" width="100%"></a>
 <br>
@@ -621,6 +632,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/lucasrotelavila/status/2104008900806861207">在 X 查看原帖</a> · <a href="https://t.co/H21Qcpvm8q">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zrrrr_cn/status/2104003596375425117"><img src="https://pbs.twimg.com/media/HTLsHsxbEAANiZD?format=jpg&amp;name=medium" alt="Red-Teaming Jev 1.13 Reveals Safety Gaps · 原帖图片" width="100%"></a>
 <br>
@@ -632,8 +645,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
 <p><a href="https://x.com/zrrrr_cn/status/2104003596375425117">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mellohdinho/status/2104203837896528249"><img src="https://pbs.twimg.com/amplify_video_thumb/2104203753565966336/img/HAGk7AXHDJ4UdqNp.jpg" alt="Harvard cybersecurity professor builds Jev+Opus 5.5 alert investigation system · 原帖视频截图" width="100%"></a>
 <br>
@@ -645,6 +656,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/Mellohdinho/status/2104203837896528249">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/automater_ai/status/2103307261451878656"><img src="https://pbs.twimg.com/media/HTBywAvXUAAy1_g?format=jpg&amp;name=medium" alt="TypeSafe Jev Prompt Injection Security Tips · 原帖图片" width="100%"></a>
 <br>
@@ -656,8 +669,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/automater_ai/status/2103307261451878656">在 X 查看原帖</a> · <a href="https://t.co/NfFdTgI5wt">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/josefandre_/status/2103370533232583054"><img src="https://pbs.twimg.com/media/HTCrupjbsAIoQ3h?format=png&amp;name=medium" alt="Jev Prompt Injection Lab · 原帖图片" width="100%"></a>
 <br>
@@ -669,6 +680,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 12</p>
 <p><a href="https://x.com/josefandre_/status/2103370533232583054">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kevinbolger/status/2103377547589521830"><img src="https://pbs.twimg.com/media/HTCyrIwbkAA0f-6?format=jpg&amp;name=medium" alt="Hackers have unrestricted access to Jev API key · 原帖图片" width="100%"></a>
 <br>
@@ -680,8 +693,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/kevinbolger/status/2103377547589521830">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jarekceborski/status/2103071312323158512"><img src="https://pbs.twimg.com/amplify_video_thumb/2103070346039439360/img/BKC0OZrUc3GgQ_SV.jpg" alt="Rebuilding CAPTCHA with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -693,6 +704,8 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 75</p>
 <p><a href="https://x.com/jarekceborski/status/2103071312323158512">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/YuriODev/status/2103069242270921186"><img src="https://pbs.twimg.com/media/HS-aVMZaIAAghBO?format=jpg&amp;name=medium" alt="Jev model evaluation on BANKING77 and adversarial injection analysis · 原帖图片" width="100%"></a>
 <br>
@@ -704,8 +717,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 9</p>
 <p><a href="https://x.com/YuriODev/status/2103069242270921186">在 X 查看原帖</a> · <a href="https://t.co/YpxLqRhaoC">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_xpn_/status/2102739497829961734"><img src="https://pbs.twimg.com/media/HS5uThHW4AAEsOk?format=png&amp;name=medium" alt="Jev quickly identifies sensitive files in file shares · 原帖图片" width="100%"></a>
 <br>
@@ -717,6 +728,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 297</p>
 <p><a href="https://x.com/_xpn_/status/2102739497829961734">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/francchen/status/2102588731559735389"><img src="https://pbs.twimg.com/amplify_video_thumb/2102588700702257152/img/46Xo2MlmJThMYKqC.jpg" alt="Jev Prompt Injection Test Demo · 原帖视频截图" width="100%"></a>
 <br>
@@ -728,8 +741,6 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 146</p>
 <p><a href="https://x.com/francchen/status/2102588731559735389">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mfranz_on/status/2102677254727733702"><img src="https://pbs.twimg.com/media/HS4zRGNXAAAwxzY?format=jpg&amp;name=medium" alt="Jev in 25 lines of Python: spam and phishing classification concept · 原帖图片" width="100%"></a>
 <br>
@@ -741,6 +752,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 123</p>
 <p><a href="https://x.com/mfranz_on/status/2102677254727733702">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManiarViral/status/2102674315657478326"><img src="https://pbs.twimg.com/media/HS4zJOabgAA4bGH?format=jpg&amp;name=medium" alt="JEV vs LLM: Intent beats inference, 200x faster threat detection · 原帖图片" width="100%"></a>
 <br>
@@ -752,8 +765,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><a href="https://x.com/ManiarViral/status/2102674315657478326">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/clawdreyhepburn/status/2102779997161206246"><img src="https://pbs.twimg.com/amplify_video_thumb/2102779915368038400/img/_XNbCdXvsUTbPENd.jpg" alt="Jev for Login and Access Control · 原帖视频截图" width="100%"></a>
 <br>
@@ -765,6 +776,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><a href="https://x.com/clawdreyhepburn/status/2102779997161206246">在 X 查看原帖</a> · <a href="https://t.co/WoH6bgjGM5">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/agentalpha_xyz/status/2102710075303358731"><img src="https://pbs.twimg.com/media/HS5TprVX0AA_4_A?format=jpg&amp;name=medium" alt="TypeSafe&#39;s Jev: Pre-Signature Policy Enforcement Agent · 原帖图片" width="100%"></a>
 <br>
@@ -776,8 +789,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/agentalpha_xyz/status/2102710075303358731">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechNerdings/status/2102780995799794052"><img src="https://pbs.twimg.com/media/HS6S2cqXAAA_D7n?format=png&amp;name=900x900" alt="Jev security questionnaire response classification evaluation and tuning · 原帖图片" width="100%"></a>
 <br>
@@ -789,6 +800,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><a href="https://x.com/TechNerdings/status/2102780995799794052">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AniC_dev/status/2102204042021863821"><img src="https://pbs.twimg.com/media/HSyHb32aIAAkpsX?format=jpg&amp;name=medium" alt="Asking Jev if Firecracker is a Good Security Boundary · 原帖图片" width="100%"></a>
 <br>
@@ -800,8 +813,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 651</p>
 <p><a href="https://x.com/AniC_dev/status/2102204042021863821">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rioriost/status/2102232086660993382"><img src="https://pbs.twimg.com/media/HSygp3abgAA0PIx?format=jpg&amp;name=900x900" alt="Jev Shows Better Performance in Japanese Spam Detection · 原帖图片" width="100%"></a>
 <br>
@@ -813,6 +824,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 221</p>
 <p><a href="https://x.com/rioriost/status/2102232086660993382">在 X 查看原帖</a> · <a href="https://t.co/bmqtKgnsmK">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/dannylivshits/status/2102252669784260769"><img src="https://pbs.twimg.com/amplify_video_thumb/2102237653802553344/img/Ekhzz0BFZR_H1jtP.jpg" alt="Using Jev for Scam Email Classification: Parameters and Thresholds Matter · 原帖视频截图" width="100%"></a>
 <br>
@@ -824,8 +837,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/dannylivshits/status/2102252669784260769">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/brainstormity/status/2102156469680431169"><img src="https://pbs.twimg.com/media/HSxbq36W8AAzRZ1?format=jpg&amp;name=medium" alt="JEV-powered classifier for network packet analysis · 原帖图片" width="100%"></a>
 <br>
@@ -837,6 +848,8 @@
 <p>💬 16 &nbsp; 🔁 22 &nbsp; ♡ 270 &nbsp; 📊 26K</p>
 <p><a href="https://x.com/brainstormity/status/2102156469680431169">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_xpn_/status/2102150280854868159"><img src="https://pbs.twimg.com/amplify_video_thumb/2102149450193854464/img/iPRwgzHvDpOwPs3J.jpg" alt="Real-time command opsec scoring in Mythic with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -848,8 +861,6 @@
 <p>💬 5 &nbsp; 🔁 6 &nbsp; ♡ 71 &nbsp; 📊 3.2K</p>
 <p><a href="https://x.com/_xpn_/status/2102150280854868159">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shmidtqq/status/2102142838699856067"><img src="https://pbs.twimg.com/amplify_video_thumb/2102140358817615872/img/MkuJM0AGCOM61Whd.jpg" alt="Terminal Built with JEV + GPT-6 Astra Scans 100K Posts for Scams in 18 Seconds · 原帖视频截图" width="100%"></a>
 <br>
@@ -861,6 +872,8 @@
 <p>💬 7 &nbsp; 🔁 1 &nbsp; ♡ 27 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/shmidtqq/status/2102142838699856067">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jimkleiber/status/2102145416217125084"><img src="https://pbs.twimg.com/amplify_video_thumb/2102144256433389568/img/JDKqkk_lBRr_htDt.jpg" alt="Jev-JIT Blocks Rogue AI Agent: Demo and Reflection · 原帖视频截图" width="100%"></a>
 <br>
@@ -872,8 +885,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 67</p>
 <p><a href="https://x.com/jimkleiber/status/2102145416217125084">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PaoloJNN/status/2102179160974151975"><img src="https://pbs.twimg.com/amplify_video_thumb/2102179124232019968/img/tJ5iX8gVxJ7D8xuF.jpg" alt="ScamCheck: A Jev-Powered Scam Detection API · 原帖视频截图" width="100%"></a>
 <br>
@@ -885,6 +896,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
 <p><a href="https://x.com/PaoloJNN/status/2102179160974151975">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LukeDing14/status/2101915343321211012"><img src="https://pbs.twimg.com/media/HSuAyiCb0AAsqHg?format=png&amp;name=medium" alt="Using Jev for Content Moderation · 原帖图片" width="100%"></a>
 <br>
@@ -896,8 +909,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
 <p><a href="https://x.com/LukeDing14/status/2101915343321211012">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/steventey/status/2101706435898069093"><img src="https://pbs.twimg.com/amplify_video_thumb/2101706423025782785/img/ITapidUySg8wdElE.jpg" alt="Building a malicious link scanner for Dub with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -909,6 +920,8 @@
 <p>💬 18 &nbsp; 🔁 7 &nbsp; ♡ 123 &nbsp; 📊 15K</p>
 <p><a href="https://x.com/steventey/status/2101706435898069093">在 X 查看原帖</a> · <a href="https://t.co/8Tg5MknxcH">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/BogardKc/status/2101479145968636276"><img src="https://pbs.twimg.com/tweet_video_thumb/HSnz1OkbcAAfJEK.jpg" alt="Jev Use Cases and Demo in AI Security · 原帖视频截图" width="100%"></a>
 <br>
@@ -920,8 +933,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 131</p>
 <p><a href="https://x.com/BogardKc/status/2101479145968636276">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/TechNerdings/status/2101737805932044637"><img src="https://pbs.twimg.com/media/HSrfZPjWQAA_-jf?format=jpg&amp;name=medium" alt="Jev runs SAST code audit during PRs · 原帖图片" width="100%"></a>
 <br>
@@ -933,6 +944,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
 <p><a href="https://x.com/TechNerdings/status/2101737805932044637">在 X 查看原帖</a> · <a href="https://t.co/MY7X3VEXHA">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ractorrrrr/status/2101729630726287871"><img src="https://pbs.twimg.com/media/HSrX7_CboAAZAB5?format=jpg&amp;name=medium" alt="Jev in front of Qwen3:8b: 0 successful attacks across 125 cases · 原帖图片" width="100%"></a>
 <br>
@@ -944,8 +957,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/Ractorrrrr/status/2101729630726287871">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PatronusBen/status/2101682107860885627"><img src="https://pbs.twimg.com/media/HSqrikZXYAAkVkM?format=jpg&amp;name=medium" alt="Independent Evaluation of Jev on AI Security Validation Sets · 原帖图片" width="100%"></a>
 <br>
@@ -957,6 +968,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><a href="https://x.com/PatronusBen/status/2101682107860885627">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/grichadev/status/2100437998571860087"><img src="https://pbs.twimg.com/media/HSY_7aXbIAAxJoj?format=png&amp;name=medium" alt="Jev Delivers 5x Cheaper and More Accurate Security Pipeline Results · 原帖图片" width="100%"></a>
 <br>
@@ -968,5 +981,6 @@
 <p>💬 21 &nbsp; 🔁 50 &nbsp; ♡ 925 &nbsp; 📊 82K</p>
 <p><a href="https://x.com/grichadev/status/2100437998571860087">在 X 查看原帖</a></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>

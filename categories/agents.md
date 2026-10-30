@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 526 | 295 | 233 | 3.0M |
+| 528 | 296 | 234 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/agentsplaybook/status/2116117911345766658"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev-powered people search tool demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/agentsplaybook/status/2116117911345766658">Jev-powered people search tool demo</a></h3>
+<p>Treg&#39;s Jev-powered demo connects a people search tool to an agent, finding relevant public professional profiles for a role or research question.</p>
+<p><strong>中文摘要：</strong>Treg 的 Jev-powered demo 将人物搜索工具连接到 agent，可按角色或研究问题查找相关公开专业档案。</p>
+<p><strong>Agents-PlayBook 📖</strong> · @agentsplaybook · 2026-10-30T10:40:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/agentsplaybook/status/2116117911345766658">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/ErwinWu000/status/2116082992427000308"><img src="https://pbs.twimg.com/media/HV3VA0zasAAMbpB?format=jpg&amp;name=360x360" alt="Design agent uses Jev for furnishing decisions · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/ErwinWu000/status/2116082992427000308">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OpenNavo/status/2116077591052636589"><img src="https://pbs.twimg.com/media/HV3RWOIbMAAaFcQ?format=jpg&amp;name=900x900" alt="Building the OpenBot Brain: Jev as Verifier · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,17 @@
 <p><strong>OpenNavo — macOS Apps</strong> · @OpenNavo · 2026-10-30T07:59:47.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
 <p><a href="https://x.com/OpenNavo/status/2116077591052636589">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/mims3590/status/2115945330562965690"><img src="https://pbs.twimg.com/media/HV1YlKtbAAACkgh?format=jpg&amp;name=medium" alt="Thoughts on Jev and OpenRouter Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mims3590/status/2115945330562965690">Thoughts on Jev and OpenRouter Decision Models</a></h3>
+<p>The author recalls how Jev set a new direction for agentic design flows—letting agents learn the design flow instead of hand-building it—and wonders whether OpenRouter&#39;s 20+ decision models offer an easier path.</p>
+<p><strong>中文摘要：</strong>作者回顾了Jev为代理设计流程设定的新方向——让代理自行学习设计流程而非手工构建，并思考OpenRouter提供20多个决策模型是否会成为更简单的实现方式。</p>
+<p><strong>mims</strong> · @mims3590 · 2026-10-29T23:14:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/mims3590/status/2115945330562965690">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

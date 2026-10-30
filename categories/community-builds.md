@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1250 | 528 | 727 | 3.0M |
+| 1256 | 530 | 731 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pmontp19/status/2116122192635470175"><img src="https://pbs.twimg.com/media/HV34YICXcAAGzJU?format=jpg&amp;name=medium" alt="Developer Tests Jev Model with Pokémon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pmontp19/status/2116122192635470175">Developer Tests Jev Model with Pokémon</a></h3>
+<p>Pere shares his experiment building a harness for the Jev model to play turn-based Pokémon, thinking it was an ideal use case, only to find that the model was the easy part.</p>
+<p><strong>中文摘要：</strong>Pere分享了他为Jev模型构建harness让其玩回合制宝可梦游戏的实验，原本以为这是理想用例，结果发现模型本身才是最简单的部分。</p>
+<p><strong>Pere</strong> · @pmontp19 · 2026-10-30T10:57:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/pmontp19/status/2116122192635470175">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/vintcessun/status/2116082191730192592"><img src="https://pbs.twimg.com/media/HV3Vh9yaMAAeHcG?format=jpg&amp;name=900x900" alt="MiniCPM-OCR introduces Jev for recognition quality verification · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,67 @@
 <p><strong>恒星sun</strong> · @vintcessun · 2026-10-30T08:18:04.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/vintcessun/status/2116082191730192592">在 X 查看原帖</a> · <a href="https://t.co/2d3yT9VA1P">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AriesTheCoder/status/2116042955161325690"><img src="https://pbs.twimg.com/media/HV2xx2fbgAA7SIW?format=jpg&amp;name=medium" alt="Developer Shares Multi-Model Workflow: Jev as Browser QA · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AriesTheCoder/status/2116042955161325690">Developer Shares Multi-Model Workflow: Jev as Browser QA</a></h3>
+<p>AriesTheCoder shares their lineup of models for different tasks, including Jev for browser QA, illustrating a community practice of specialized model assignment.</p>
+<p><strong>中文摘要：</strong>AriesTheCoder介绍了使用不同模型处理不同任务的思路，其中Jev被用作浏览器自动化测试（Browser QA）环节。</p>
+<p><strong>AriesTheCoder</strong> · @AriesTheCoder · 2026-10-30T05:42:09.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><a href="https://x.com/AriesTheCoder/status/2116042955161325690">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/komaki_s60/status/2116032937464586553"><img src="https://pbs.twimg.com/amplify_video_thumb/2115857133707366400/img/cKFjSYpIoyjpAbY4.jpg" alt="Discussion on adding Bash harness to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/komaki_s60/status/2116032937464586553">Discussion on adding Bash harness to Jev</a></h3>
+<p>The post suggests attaching a harness to Jev so it can execute Bash commands, calling it suitable for grassroots tactics and a new source of hope for web search.</p>
+<p><strong>中文摘要：</strong>推文提到给Jev加装工具以执行Bash命令，认为这一做法适合草根战术，并给web搜索带来了新的可能性。</p>
+<p><strong>Motto | Muse魔改造屋</strong> · @komaki_s60 · 2026-10-30T05:02:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/komaki_s60/status/2116032937464586553">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/purusa0x6c/status/2116020883299156108"><img src="https://pbs.twimg.com/media/HV2dhq7bIAAaO-F?format=jpg&amp;name=medium" alt="User shares a video explaining JEV architecture · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/purusa0x6c/status/2116020883299156108">User shares a video explaining JEV architecture</a></h3>
+<p>The tweet says they are watching a video that explains the JEV architecture nicely.</p>
+<p><strong>中文摘要：</strong>该推文表示正在观看一段关于 JEV 架构的讲解视频，并称赞其清晰易懂。</p>
+<p><strong>purusha</strong> · @purusa0x6c · 2026-10-30T04:14:27.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 14 &nbsp; 📊 319</p>
+<p><a href="https://x.com/purusa0x6c/status/2116020883299156108">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arulPrak_/status/2116019494892310645"><img src="https://pbs.twimg.com/tweet_video_thumb/HV2cgg9a8AA4DUg.jpg" alt="Waiting for a Jev-equivalent model from Google · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/arulPrak_/status/2116019494892310645">Waiting for a Jev-equivalent model from Google</a></h3>
+<p>The user expresses anticipation for a Google AI model comparable to TypeSafe Jev, reflecting community interest in Jev&#39;s capabilities.</p>
+<p><strong>中文摘要：</strong>用户表达期待Google AI推出与TypeSafe Jev相当的模型，反映社区对Jev能力的关注。</p>
+<p><strong>Arul</strong> · @arulPrak_ · 2026-10-30T04:08:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 51</p>
+<p><a href="https://x.com/arulPrak_/status/2116019494892310645">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ROUT_DEVELOP/status/2116001438879088944"><img src="https://pbs.twimg.com/media/HV2KO3EbkAAZwlu?format=jpg&amp;name=large" alt="Testing DecisionRAG with a Novel: 4-Second Detail Search and Jev Decision Logs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ROUT_DEVELOP/status/2116001438879088944">Testing DecisionRAG with a Novel: 4-Second Detail Search and Jev Decision Logs</a></h3>
+<p>The author shares their experience testing DecisionRAG with a novel, confirming its usability and posting on note. It searches details in about 4 seconds, allows easy tracking and improvement of Jev&#39;s decision logs, and shows potential for building.</p>
+<p><strong>中文摘要：</strong>作者分享用一本小说测试 DecisionRAG 的体验，确认其实用性并发布在 note 上。约 4 秒内可检索细节，能轻松追踪 Jev 的决策日志并改进，还展示了用于构建应用的潜力。</p>
+<p><strong>ROUT_DEV/AIなんでもC14</strong> · @ROUT_DEVELOP · 2026-10-30T02:57:11.000Z</p>
+<p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 10 &nbsp; 📊 709</p>
+<p><a href="https://x.com/ROUT_DEVELOP/status/2116001438879088944">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/oalanicolas/status/2115828750990319892"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Integrating Jev into Grok Bot: A Practical Approach · 原帖视频截图" width="100%"></a>

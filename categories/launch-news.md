@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 567 | 251 | 319 | 1.1M |
+| 573 | 254 | 322 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hasantoxr/status/2116042725745401867"><img src="https://pbs.twimg.com/media/HV2xpSrbcAAybuO?format=jpg&amp;name=medium" alt="Jev 2B model approaches Qwen3.5-397B on JevOCRBench with 1/200 parameters · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hasantoxr/status/2116042725745401867">Jev 2B model approaches Qwen3.5-397B on JevOCRBench with 1/200 parameters</a></h3>
+<p>The post claims Jev is the real story: a 2B model scores 93.6 AUROC on JevOCRBench, close to Qwen3.5-397B-A17B&#39;s 93.8, and works with any OCR by checking its output.</p>
+<p><strong>中文摘要：</strong>原帖称Jev是真实故事：仅2B参数就在JevOCRBench上取得93.6 AUROC，接近Qwen3.5-397B-A17B的93.8，且不依赖特定OCR，可直接检查其输出。</p>
+<p><strong>Hasan Toor</strong> · @hasantoxr · 2026-10-30T05:41:14.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3.8K</p>
+<p><a href="https://x.com/hasantoxr/status/2116042725745401867">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KirkDBorne/status/2116008338961863143"><img src="https://pbs.twimg.com/amplify_video_thumb/2102833053101940736/img/ju_6OSISX2Vqjr29.jpg" alt="TypeSafe AI Releases Jev in Early Access · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/KirkDBorne/status/2116008338961863143">TypeSafe AI Releases Jev in Early Access</a></h3>
+<p>Grok summarizes the recent release of Jev: Jev launched in limited early access on 15 September 2026. TypeSafe AI, founded in 2024 by Diogo Almeida, Erik Gafni, and Sasha Sheng, announced it that day along with a $40 million seed round led by an undisclosed investor.</p>
+<p><strong>中文摘要：</strong>Grok 总结了 Jev 的近期发布：Jev 于 2026 年 9 月 15 日推出限量早期访问。TypeSafe AI（由 Diogo Almeida、Erik Gafni 和 Sasha Sheng 于 2024 年创立）当日宣布了这一消息，并完成了由领投方支持的 4000 万美元种子轮融资。</p>
+<p><strong>Kirk Borne</strong> · @KirkDBorne · 2026-10-30T03:24:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 3.4K</p>
+<p><a href="https://x.com/KirkDBorne/status/2116008338961863143">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yuma_1_or/status/2115999700247892412"><img src="https://pbs.twimg.com/tweet_video_thumb/HV2KfqVbIAAfnVk.jpg" alt="Japanese-specialized Jev shows good image quality · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yuma_1_or/status/2115999700247892412">Japanese-specialized Jev shows good image quality</a></h3>
+<p>Yuma Ichikawa introduces the Japanese-specialized Jev developed by their team, noting that its image generation also performs well.</p>
+<p><strong>中文摘要：</strong>Yuma Ichikawa介绍了其团队开发的日语特化Jev，并评价图像生成效果也不错。</p>
+<p><strong>Yuma Ichikawa</strong> · @yuma_1_or · 2026-10-30T02:50:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 121</p>
+<p><a href="https://x.com/yuma_1_or/status/2115999700247892412">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pratyush_agr/status/2115994739610976544"><img src="https://pbs.twimg.com/amplify_video_thumb/2115994551185977344/img/UmBUUAFRHHBzBE0p.jpg" alt="Jev decision model adds image recognition · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pratyush_agr/status/2115994739610976544">Jev decision model adds image recognition</a></h3>
+<p>TypeSafe AI&#39;s Jev model now processes images, supporting yes/no, labels, or scores, with fast response and low cost.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 的 Jev 模型现在可处理图片，支持是/否、标签或评分等判断，并强调响应速度快、成本低。</p>
+<p><strong>Pratyush Agarwal</strong> · @pratyush_agr · 2026-10-30T02:30:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><a href="https://x.com/pratyush_agr/status/2115994739610976544">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Eddie_Ho2025/status/2115987460752879927"><img src="https://pbs.twimg.com/media/HV1_VerbEAAbAzD?format=jpg&amp;name=medium" alt="TypeSafe Raises $40M for Jev Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Eddie_Ho2025/status/2115987460752879927">TypeSafe Raises $40M for Jev Decision Model</a></h3>
+<p>TypeSafe raised $40M for Jev, a decision model. Three days later, Convai released Laya, an open-source rival, reporting higher accuracy (company benchmark).</p>
+<p><strong>中文摘要：</strong>TypeSafe为Jev决策模型筹集4000万美元。三天后，Convai发布开源竞品Laya，并宣称其准确率更高（公司基准测试）。</p>
+<p><strong>Eddie Ho</strong> · @Eddie_Ho2025 · 2026-10-30T02:01:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 49</p>
+<p><a href="https://x.com/Eddie_Ho2025/status/2115987460752879927">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DiarioBitcoin/status/2115972729287356703"><img src="https://pbs.twimg.com/media/HV1x_AIWUAAQ9Cc?format=jpg&amp;name=medium" alt="Baseten launches joey-1: low-cost AI decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DiarioBitcoin/status/2115972729287356703">Baseten launches joey-1: low-cost AI decision model</a></h3>
+<p>Baseten releases joey-1, a 2B parameter model for classification and scoring without free-text generation. Inference costs just $0.01 per million tokens, with 20ms P50 latency and a 63.30 score on Jev Decision Index 0.4, compared to 72.24 for elephant-1.</p>
+<p><strong>中文摘要：</strong>Baseten发布2B参数模型joey-1，专用于分类和评分，不生成自由文本。推理成本仅每百万token 0.01美元，P50延迟20ms，Jev Decision Index 0.4得分63.30，对比elephant-1的72.24。</p>
+<p><strong>Diario฿itcoin</strong> · @DiarioBitcoin · 2026-10-30T01:03:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 654</p>
+<p><a href="https://x.com/DiarioBitcoin/status/2115972729287356703">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/standardthinkin/status/2115809393476530480"><img src="https://pbs.twimg.com/media/HVzdY18a8AADf8i?format=jpg&amp;name=900x900" alt="Standard One Model Released, Claiming Jev-Level Decision-Making · 原帖图片" width="100%"></a>

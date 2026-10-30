@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 344 | 198 | 148 | 1.2M |
+| 348 | 198 | 152 | 1.2M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,54 @@
 <p><strong>0xzad</strong> · @SVEN_WAG · 2026-10-30T08:22:49.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/SVEN_WAG/status/2116083386905186489">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/polytutor/status/2116007952595423373"><img src="https://pbs.twimg.com/media/HV2R_SsWYAEI8Ie?format=png&amp;name=medium" alt="Jev BTC 5-min bot: set POLYMARKET_SOURCE=live for real trading · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/polytutor/status/2116007952595423373">Jev BTC 5-min bot: set POLYMARKET_SOURCE=live for real trading</a></h3>
+<p>Polytutor shares operational notes for a Jev BTC 5-minute Polymarket bot: live mode refuses to start on a sample market file, stub model, or missing wallet key; the default auto source silently falls back to sample data after one network error, so real-money users should set POLYMARKET_SOURCE=live to fail loudly.</p>
+<p><strong>中文摘要：</strong>Polytutor 介绍 Jev BTC 5分钟交易机器人：live 模式不会在示例市场文件、stub 模型或无钱包密钥时启动；默认 auto 源在网络错误后会静默回退到示例文件，因此实盘应显式设置 POLYMARKET_SOURCE=live 以便故障时快速失败。</p>
+<p><strong>Polytutor</strong> · @polytutor · 2026-10-30T03:23:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><a href="https://x.com/polytutor/status/2116007952595423373">在 X 查看原帖</a> · <a href="https://t.co/gYS5rTOYFE">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/franfoxfrankfox/status/2115986131812549074"><img src="https://pbs.twimg.com/media/HV1-IrKWEAEv-zr?format=jpg&amp;name=medium" alt="Jev-Powered Trading Execution Pipeline · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/franfoxfrankfox/status/2115986131812549074">Jev-Powered Trading Execution Pipeline</a></h3>
+<p>Code calculates the state, Jev provides the decision, code applies policy, the risk engine checks, and the order is executed—forming a complete automated trading loop.</p>
+<p><strong>中文摘要：</strong>代码计算状态，Jev给出决策，代码应用策略，风控引擎检查，最终执行下单，形成完整的自动化交易链路。</p>
+<p><strong>FrankFox-Dev</strong> · @franfoxfrankfox · 2026-10-30T01:56:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/franfoxfrankfox/status/2115986131812549074">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ForexDog1968/status/2115985069676560413"><img src="https://pbs.twimg.com/media/HV182H1bkAA6UdB?format=jpg&amp;name=large" alt="Jev Prediction AI Tested on FX Short-Term Direction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForexDog1968/status/2115985069676560413">Jev Prediction AI Tested on FX Short-Term Direction</a></h3>
+<p>A user tested the trending prediction AI Jev on FX direction for about one day. The 15-minute direction hit rate was 56.0% (234 times), 60-minute was 44.4% (54 times), noting the past 4-week 15-minute rate was only 48.7%, suggesting short-term FX is hard to predict.</p>
+<p><strong>中文摘要：</strong>有用户对热议的预测AI Jev进行约1天的FX方向验证。15分钟后方向命中率56.0%（234次），60分钟后为44.4%（54次），并指出过去4周15分钟命中率仅48.7%，短周期汇率较难读取。</p>
+<p><strong>フォレックス・ドッグ | AIノーコードEA量産 × 相場解説</strong> · @ForexDog1968 · 2026-10-30T01:52:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 358</p>
+<p><a href="https://x.com/ForexDog1968/status/2115985069676560413">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Canonical/status/2115958114935537892"><img src="https://pbs.twimg.com/media/HV1ksVOWgAAzfXO?format=jpg&amp;name=medium" alt="Jev-like Models for Real-Time Fraud Detection · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Canonical/status/2115958114935537892">Jev-like Models for Real-Time Fraud Detection</a></h3>
+<p>The post notes that conversational AI is great for drafting emails but too slow for real-time fraud detection; modified Jev-like models bypass text generation and evaluate business parameters in a single pass for instant predictions.</p>
+<p><strong>中文摘要：</strong>帖子指出对话式AI虽擅长起草邮件，但自然语言生成对实时欺诈检测太慢；改进的Jev类模型绕过文本生成，单次评估业务参数以实现即时预测。</p>
+<p><strong>Canonical</strong> · @Canonical · 2026-10-30T00:05:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 14 &nbsp; 📊 964</p>
+<p><a href="https://x.com/Canonical/status/2115958114935537892">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/victoor/status/2115783462556963207"><img src="https://pbs.twimg.com/media/HVzF2M1b0AIpbPv?format=jpg&amp;name=medium" alt="Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50 · 原帖图片" width="100%"></a>

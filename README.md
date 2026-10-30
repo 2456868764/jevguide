@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6572</strong><br>curated posts</td>
-<td align="center"><strong>3300</strong><br>original videos</td>
+<td align="center"><strong>6601</strong><br>curated posts</td>
+<td align="center"><strong>3312</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1250</strong> showcases · <strong>528</strong> videos</p>
+<p><strong>1256</strong> showcases · <strong>530</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>605</strong> showcases · <strong>265</strong> videos</p>
+<p><strong>610</strong> showcases · <strong>268</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>567</strong> showcases · <strong>251</strong> videos</p>
+<p><strong>573</strong> showcases · <strong>254</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>526</strong> showcases · <strong>295</strong> videos</p>
+<p><strong>528</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>394</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>395</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>391</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>392</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>344</strong> showcases · <strong>198</strong> videos</p>
+<p><strong>348</strong> showcases · <strong>198</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>284</strong> showcases · <strong>177</strong> videos</p>
+<p><strong>286</strong> showcases · <strong>179</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>57</strong> showcases · <strong>43</strong> videos</p>
+<p><strong>58</strong> showcases · <strong>44</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>47</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>48</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/SVEN_WAG/status/2116083386905186489"><img src="https://pbs.twimg.com/amplify_video_thumb/2116083177311649792/img/6H2AmVi137dOgYjT.jpg" alt="QuantBot × Jev Reviews Tesla Roadster Polymarket Trade · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SVEN_WAG/status/2116083386905186489">QuantBot × Jev Reviews Tesla Roadster Polymarket Trade</a></h3>
-<p>The author connected the Polymarket market &#39;Will Tesla Roadster fly for at least 1 second?&#39; to the QuantBot × Jev trading analysis system and reviewed the whole process from buying YES at 10 cents to the vehicle leaving the ground.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>0xzad</strong> · @SVEN_WAG</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/pmontp19/status/2116122203192517029"><img src="https://pbs.twimg.com/media/HV348KNX0AA5v6m?format=png&amp;name=medium" alt="Jev&#39;s blockages were not bad decisions, but things it cannot see or do · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pmontp19/status/2116122203192517029">Jev&#39;s blockages were not bad decisions, but things it cannot see or do</a></h3>
+<p>The author points out that Jev&#39;s blockages were not due to bad decisions, but to issues like undetected text boxes, different addresses in the Catalan ROM vs the Spanish ROM, door loops, and stuck menus.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Pere</strong> · @pmontp19</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ErwinWu000/status/2116082992427000308"><img src="https://pbs.twimg.com/media/HV3VA0zasAAMbpB?format=jpg&amp;name=360x360" alt="Design agent uses Jev for furnishing decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ErwinWu000/status/2116082992427000308">Design agent uses Jev for furnishing decisions</a></h3>
-<p>The author adds a soft-furnishing step to a custom design agent: Jev makes small per-room decisions, code handles sizing and layout, then a 2.5D isometric view is generated.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Erwin</strong> · @ErwinWu000</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/pmontp19/status/2116122192635470175"><img src="https://pbs.twimg.com/media/HV34YICXcAAGzJU?format=jpg&amp;name=medium" alt="Developer Tests Jev Model with Pokémon · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pmontp19/status/2116122192635470175">Developer Tests Jev Model with Pokémon</a></h3>
+<p>Pere shares his experiment building a harness for the Jev model to play turn-based Pokémon, thinking it was an ideal use case, only to find that the model was the easy part.</p>
+<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><strong>Pere</strong> · @pmontp19</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/vintcessun/status/2116082191730192592"><img src="https://pbs.twimg.com/media/HV3Vh9yaMAAeHcG?format=jpg&amp;name=900x900" alt="MiniCPM-OCR introduces Jev for recognition quality verification · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/vintcessun/status/2116082191730192592">MiniCPM-OCR introduces Jev for recognition quality verification</a></h3>
-<p>Split OCR recognition and verification: MiniCPM-OCR 1.0 parses documents; Jev scores text, formulas, and tables with 0-1 quality scores based on the original image region and recognition results, and can also evaluate other OCR models.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
-<p><strong>恒星sun</strong> · @vintcessun</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/pmontp19/status/2116122195164320016"><img src="https://pbs.twimg.com/media/HV34eOIX0AAV1sI?format=jpg&amp;name=medium" alt="Jev: A Fast Classifier, Not a Text Generator · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pmontp19/status/2116122195164320016">Jev: A Fast Classifier, Not a Text Generator</a></h3>
+<p>Jev (System One from TypeSafe AI) does not write text or call tools. It takes a state and typed questions, and returns probabilities for each option.</p>
+<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><strong>Pere</strong> · @pmontp19</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/Joyful_AI_Team/status/2116078056859377736"><img src="https://pbs.twimg.com/media/HV3RpKZaMAA2FAp?format=jpg&amp;name=medium" alt="Jev Simplifies Support Queues · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Joyful_AI_Team/status/2116078056859377736">Jev Simplifies Support Queues</a></h3>
-<p>TypeSafe AI&#39;s Jev returns defined decisions instead of prose, which could simplify support queues. Test with past enquiries before automating.</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/FirefoxMetzger/status/2116119801114263963"><img src="https://pbs.twimg.com/amplify_video_thumb/2115857133707366400/img/cKFjSYpIoyjpAbY4.jpg" alt="Researcher on Jev decision models: dedicated classifiers are valuable · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/FirefoxMetzger/status/2116119801114263963">Researcher on Jev decision models: dedicated classifiers are valuable</a></h3>
+<p>Dr. Sebastian Wallkötter says he is both excited and confused by decision models like Jev; he loves the idea of a dedicated model category for zero-shot, prompt-driven classifiers and finds such specialized models truly useful.</p>
 <p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Rami Hersonsky</strong> · @Joyful_AI_Team</p>
+<p><strong>Sebastian Wallkötter, PhD</strong> · @FirefoxMetzger</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/SVEN_WAG/status/2116083386905186489"><img src="https://pbs.twimg.com/amplify_video_thumb/2116083177311649792/img/6H2AmVi137dOgYjT.jpg" alt="QuantBot × Jev Reviews Tesla Roadster Polymarket Trade · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SVEN_WAG/status/2116083386905186489">QuantBot × Jev Reviews Tesla Roadster Polymarket Trade</a></h3>
-<p>The author connected the Polymarket market &#39;Will Tesla Roadster fly for at least 1 second?&#39; to the QuantBot × Jev trading analysis system and reviewed the whole process from buying YES at 10 cents to the vehicle leaving the ground.</p>
-<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>0xzad</strong> · @SVEN_WAG</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/pmontp19/status/2116122203192517029"><img src="https://pbs.twimg.com/media/HV348KNX0AA5v6m?format=png&amp;name=medium" alt="Jev&#39;s blockages were not bad decisions, but things it cannot see or do · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pmontp19/status/2116122203192517029">Jev&#39;s blockages were not bad decisions, but things it cannot see or do</a></h3>
+<p>The author points out that Jev&#39;s blockages were not due to bad decisions, but to issues like undetected text boxes, different addresses in the Catalan ROM vs the Spanish ROM, door loops, and stuck menus.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Pere</strong> · @pmontp19</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/FirefoxMetzger/status/2116119801114263963"><img src="https://pbs.twimg.com/amplify_video_thumb/2115857133707366400/img/cKFjSYpIoyjpAbY4.jpg" alt="Researcher on Jev decision models: dedicated classifiers are valuable · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/FirefoxMetzger/status/2116119801114263963">Researcher on Jev decision models: dedicated classifiers are valuable</a></h3>
+<p>Dr. Sebastian Wallkötter says he is both excited and confused by decision models like Jev; he loves the idea of a dedicated model category for zero-shot, prompt-driven classifiers and finds such specialized models truly useful.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Sebastian Wallkötter, PhD</strong> · @FirefoxMetzger</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/agentsplaybook/status/2116117911345766658"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev-powered people search tool demo · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/agentsplaybook/status/2116117911345766658">Jev-powered people search tool demo</a></h3>
+<p>Treg&#39;s Jev-powered demo connects a people search tool to an agent, finding relevant public professional profiles for a role or research question.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>Agents-PlayBook 📖</strong> · @agentsplaybook</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
 <a href="https://x.com/Joyful_AI_Team/status/2116078056859377736"><img src="https://pbs.twimg.com/media/HV3RpKZaMAA2FAp?format=jpg&amp;name=medium" alt="Jev Simplifies Support Queues · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/Joyful_AI_Team/status/2116078056859377736">Jev Simplifies Support Queues</a></h3>
 <p>TypeSafe AI&#39;s Jev returns defined decisions instead of prose, which could simplify support queues. Test with past enquiries before automating.</p>
 <p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><strong>Rami Hersonsky</strong> · @Joyful_AI_Team</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/o_product/status/2116077816949461480"><img src="https://pbs.twimg.com/media/HV3Rj72bYAAa_ZR?format=jpg&amp;name=900x900" alt="Givvy Launches Proactive Cyber Defense AI Using Jev Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/o_product/status/2116077816949461480">Givvy Launches Proactive Cyber Defense AI Using Jev Model</a></h3>
-<p>Analyzes threats via email screening and open-source search, combines rescanning with quarantine/blocking, and continues rule-based decisions when AI is unavailable.</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>O!Product｜AI・IT・DXサービスの最新トレンド</strong> · @o_product</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/standardthinkin/status/2115809393476530480"><img src="https://pbs.twimg.com/media/HVzdY18a8AADf8i?format=jpg&amp;name=900x900" alt="Standard One Model Released, Claiming Jev-Level Decision-Making · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/standardthinkin/status/2115809393476530480">Standard One Model Released, Claiming Jev-Level Decision-Making</a></h3>
-<p>Standard Thinking released the open model Standard One (35B SH), scoring 60.1 on the Decision Index in private tests, close to Jev 1.14&#39;s 60.2. It activates only ~3B parameters per token and runs on a single GPU.</p>
-<p><strong>30</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 30</p>
-<p><strong>Standard Thinking</strong> · @standardthinkin</p>
 </td>
 </tr>
 </table>

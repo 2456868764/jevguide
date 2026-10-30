@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 284 | 177 | 107 | 595K |
+| 286 | 179 | 107 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Graf_Maruf_/status/2116031575754145821"><img src="https://pbs.twimg.com/amplify_video_thumb/2116031414835593216/img/_4MEfjg5nr3Ck4CM.jpg" alt="Jev&#39;s potential in complex automation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Graf_Maruf_/status/2116031575754145821">Jev&#39;s potential in complex automation</a></h3>
+<p>The user shares experience with LangChain and predicts Jev will play a key role in future complex automation, including choosing suitable LLMs.</p>
+<p><strong>中文摘要：</strong>用户分享使用LangChain的经验，并预测Jev将在未来复杂自动化任务中扮演重要角色，包括选择合适的大语言模型。</p>
+<p><strong>Ma&#39;ruf</strong> · @Graf_Maruf_ · 2026-10-30T04:56:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
+<p><a href="https://x.com/Graf_Maruf_/status/2116031575754145821">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pivot_tables/status/2115981614224404579"><img src="https://pbs.twimg.com/amplify_video_thumb/2115981444350664704/img/M1QRID42mNi8Utdu.jpg" alt="Building a Chrome Extension with Jev Model to Replace TV Commercials · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pivot_tables/status/2115981614224404579">Building a Chrome Extension with Jev Model to Replace TV Commercials</a></h3>
+<p>The user says they would pay $100/month to avoid YouTube TV commercials, but since that&#39;s not allowed, they built a Chrome extension using TypeSafe AI&#39;s Jev model to swap commercials for peaceful scenes.</p>
+<p><strong>中文摘要：</strong>用户表示愿意每月支付100美元来避免YouTube TV广告，但既然不被允许，便使用TypeSafe AI的Jev模型构建了Chrome扩展，将商业广告替换为平静场景。</p>
+<p><strong>pivot tables</strong> · @pivot_tables · 2026-10-30T01:38:24.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 416</p>
+<p><a href="https://x.com/pivot_tables/status/2115981614224404579">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vavanessadev/status/2115771915059024327"><img src="https://pbs.twimg.com/media/HVy7SYBWMAAGT1n?format=jpg&amp;name=medium" alt="Using Jev to Improve Suzu Dictation Fix Workflows · 原帖图片" width="100%"></a>

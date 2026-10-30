@@ -375,6 +375,7 @@
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
 - [vv危言耸听](../authors/vv危言耸听.md) — 3
+- [Wasim Jalali](../authors/wasim-jalali.md) — 3
 - [Y.Yamashiro](../authors/y-yamashiro.md) — 3
 - [Yohei](../authors/yohei.md) — 3
 - [Youssef Hosni](../authors/youssef-hosni.md) — 3
@@ -528,6 +529,7 @@
 - [dave](../authors/dave.md) — 2
 - [Dave Wang](../authors/dave-wang.md) — 2
 - [David Arias, CFA](../authors/david-arias-cfa.md) — 2
+- [David Bressler](../authors/david-bressler.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
@@ -736,6 +738,7 @@
 - [Nikunj Kothari](../authors/nikunj-kothari.md) — 2
 - [Nilay Coskun](../authors/nilay-coskun.md) — 2
 - [nOnEpcbl.](../authors/nonepcbl.md) — 2
+- [Noot](../authors/noot.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
 - [nutanc](../authors/nutanc.md) — 2
 - [Ochob](../authors/ochob.md) — 2
@@ -883,7 +886,6 @@
 - [Vishal Kushwaha](../authors/vishal-kushwaha.md) — 2
 - [vogel](../authors/vogel.md) — 2
 - [Vybhav Ramachandran](../authors/vybhav-ramachandran.md) — 2
-- [Wasim Jalali](../authors/wasim-jalali.md) — 2
 - [WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&インタビューショー🚨](../authors/wbn-ai-tech-startup特化-生配信.md) — 2
 - [Whippa](../authors/whippa.md) — 2
 - [Workato Japan 🤖](../authors/workato-japan.md) — 2
@@ -1713,7 +1715,6 @@
 - [davert 🇺🇦](../authors/davert.md) — 1
 - [David](../authors/david.md) — 1
 - [David Arnal](../authors/david-arnal.md) — 1
-- [David Bressler](../authors/david-bressler.md) — 1
 - [david fant](../authors/david-fant.md) — 1
 - [david he](../authors/david-he.md) — 1
 - [David Kats](../authors/david-kats.md) — 1
@@ -3065,7 +3066,6 @@
 - [nokia](../authors/nokia.md) — 1
 - [nolja$CP](../authors/nolja-cp.md) — 1
 - [Nomad Analyst](../authors/nomad-analyst.md) — 1
-- [Noot](../authors/noot.md) — 1
 - [North](../authors/north.md) — 1
 - [Not Another Bench](../authors/not-another-bench.md) — 1
 - [notdevin](../authors/notdevin.md) — 1

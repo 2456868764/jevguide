@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-30T14:07:00.000Z | [Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions](https://x.com/noot_ai/status/2116170004915741059) | 智能体 | Noot | 19 |
+| 2026-10-30T14:00:36.000Z | [Jev model performs well on BANKING77 benchmark](https://x.com/davidwbressler/status/2116168396492472593) | 开发者工具 | David Bressler | 8 |
+| 2026-10-30T14:00:03.000Z | [Decision Bench Results: Jev 1.13 vs Clef Omni](https://x.com/WasimJalali/status/2116168257841303738) | 科研 | Wasim Jalali | 6 |
 | 2026-10-30T13:35:48.000Z | [JEV Picks Each Move in ForgeAI-Hosted Agents](https://x.com/ForgeAI_gg/status/2116162151903588526) | 游戏 | ForgeAI | 11 |
 | 2026-10-30T13:26:44.000Z | [Sharing Jev Prompt Application Test](https://x.com/OnewKonew/status/2116159871343366254) | 社区实践 | Yohaeni CLI | 14 |
 | 2026-10-30T13:21:38.000Z | [Jev BTC 5-min bot marks to bid](https://x.com/polytutor/status/2116158589609910432) | 金融 | Polytutor | 13 |
@@ -99,6 +102,3 @@
 | 2026-10-29T08:26:25.000Z | [Using Jev to detect suspicious OCR regions and avoid amount errors](https://x.com/Valen/status/2115721906896749037) | 社区实践 | Valen 🍺 | 119 |
 | 2026-10-29T08:24:04.000Z | [Jev for RAG Search Strategies](https://x.com/dxd5001/status/2115721313658782105) | 知识与搜索 | Daijiro Miyazawa \| AI, RAG開発 | 36 |
 | 2026-10-29T08:07:44.000Z | [Introducing Jev Powered People Search](https://x.com/GoSailGlobal/status/2115717203555414259) | 产品发布 | Jason Zhu | 3.9K |
-| 2026-10-29T05:25:46.000Z | [Paper experiment: Can AI Jev predict market direction in 15 minutes?](https://x.com/ForexDog1968/status/2115676443518865526) | 金融 | フォレックス・ドッグ \| AIノーコードEA量産 × 相場解説 | 4.2K |
-| 2026-10-29T05:20:45.000Z | [Jev Bridge MCP Launches People Search](https://x.com/roguevoice/status/2115675183402901703) | 产品发布 | Antonio Bray | 14 |
-| 2026-10-29T05:14:47.000Z | [People Search Built on Jev's Judgment API](https://x.com/roguevoice/status/2115673681103901088) | 知识与搜索 | Antonio Bray | 103 |

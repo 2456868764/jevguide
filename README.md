@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6633</strong><br>curated posts</td>
-<td align="center"><strong>3328</strong><br>original videos</td>
+<td align="center"><strong>6636</strong><br>curated posts</td>
+<td align="center"><strong>3329</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,7 +34,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>650</strong> showcases · <strong>325</strong> videos</p>
+<p><strong>651</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>531</strong> showcases · <strong>297</strong> videos</p>
+<p><strong>532</strong> showcases · <strong>298</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>115</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>116</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/noot_ai/status/2116170004915741059"><img src="https://pbs.twimg.com/amplify_video_thumb/2113846666633609216/img/6gwSL6qI0BhyQOQI.jpg" alt="Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/noot_ai/status/2116170004915741059">Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions</a></h3>
+<p>This Jev agent folder takes decisions away from Claude, leaving it only the writing task. Jev makes the calls, code executes the actions, and every step leaves a receipt. The folder includes input docs and AGENTS.md for when to invoke Jev.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Noot</strong> · @noot_ai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/davidwbressler/status/2116168396492472593"><img src="https://pbs.twimg.com/media/HV4j8VyWkAAmy-Q?format=png&amp;name=medium" alt="Jev model performs well on BANKING77 benchmark · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/davidwbressler/status/2116168396492472593">Jev model performs well on BANKING77 benchmark</a></h3>
+<p>Using the same pinned Jev version on 3,080 official BANKING77 test cases, accuracy reaches 80.75% without examples and 91.36% with all 2,446 labeled examples in context — 327 more correct, no weight updates, and only $10.92 of input tokens.</p>
+<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>David Bressler</strong> · @davidwbressler</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/WasimJalali/status/2116168257841303738"><img src="https://pbs.twimg.com/media/HVBd63JXMAACqiL?format=jpg&amp;name=large" alt="Decision Bench Results: Jev 1.13 vs Clef Omni · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WasimJalali/status/2116168257841303738">Decision Bench Results: Jev 1.13 vs Clef Omni</a></h3>
+<p>Wasim Jalali shares Day 9 of Decision Bench: Clef Omni ranks last of 8 with 87.2% accuracy, compared to Jev 1.13 on hidden questions and noise handling. It is conservative and leaves most noise in.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Wasim Jalali</strong> · @WasimJalali</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
 <a href="https://x.com/ForgeAI_gg/status/2116162151903588526"><img src="https://pbs.twimg.com/media/HV4eQ3dX0AEIT9B?format=jpg&amp;name=medium" alt="JEV Picks Each Move in ForgeAI-Hosted Agents · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/ForgeAI_gg/status/2116162151903588526">JEV Picks Each Move in ForgeAI-Hosted Agents</a></h3>
 <p>ForgeAI shares results from 2,010 moves across 8 runs and 4 models, with the top 5 finishing within 225 points of each other; the model writes the plan and JEV picks each move.</p>
 <p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/OnewKonew/status/2116159871343366254"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Sharing Jev Prompt Application Test · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/OnewKonew/status/2116159871343366254">Sharing Jev Prompt Application Test</a></h3>
-<p>The user mentions that Jev was previously introduced, and believes that after applying a certain prompt, Jev can take over most of Grok bot&#39;s decision-making processes. They plan to test it and share results tomorrow.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Yohaeni CLI</strong> · @OnewKonew</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/polytutor/status/2116158589609910432"><img src="https://pbs.twimg.com/media/HV4bALnWMAAbJ57?format=png&amp;name=medium" alt="Jev BTC 5-min bot marks to bid · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/polytutor/status/2116158589609910432">Jev BTC 5-min bot marks to bid</a></h3>
-<p>Polytutor shows how its Jev-based Polymarket BTC 5-minute trading bot values open positions at the best bid instead of mid, falling back to last trade or Gamma price, with a GitHub repo.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Polytutor</strong> · @polytutor</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/appodeepa/status/2116158449545589062"><img src="https://pbs.twimg.com/amplify_video_thumb/2116157244249448449/img/8ebPP07BtT2Jumn-.jpg" alt="Using Jev to address the slopreply problem · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appodeepa/status/2116158449545589062">Using Jev to address the slopreply problem</a></h3>
-<p>A user reports that pointing TypeSafe&#39;s Jev (or similar) at the slopreply problem works wonders.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Mike</strong> · @appodeepa</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/noot_ai/status/2116170004915741059"><img src="https://pbs.twimg.com/amplify_video_thumb/2113846666633609216/img/6gwSL6qI0BhyQOQI.jpg" alt="Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/noot_ai/status/2116170004915741059">Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions</a></h3>
+<p>This Jev agent folder takes decisions away from Claude, leaving it only the writing task. Jev makes the calls, code executes the actions, and every step leaves a receipt. The folder includes input docs and AGENTS.md for when to invoke Jev.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Noot</strong> · @noot_ai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
 <a href="https://x.com/ForgeAI_gg/status/2116162151903588526"><img src="https://pbs.twimg.com/media/HV4eQ3dX0AEIT9B?format=jpg&amp;name=medium" alt="JEV Picks Each Move in ForgeAI-Hosted Agents · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/ForgeAI_gg/status/2116162151903588526">JEV Picks Each Move in ForgeAI-Hosted Agents</a></h3>
 <p>ForgeAI shares results from 2,010 moves across 8 runs and 4 models, with the top 5 finishing within 225 points of each other; the model writes the plan and JEV picks each move.</p>
 <p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 11</p>
 <p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/appodeepa/status/2116158449545589062"><img src="https://pbs.twimg.com/amplify_video_thumb/2116157244249448449/img/8ebPP07BtT2Jumn-.jpg" alt="Using Jev to address the slopreply problem · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appodeepa/status/2116158449545589062">Using Jev to address the slopreply problem</a></h3>
-<p>A user reports that pointing TypeSafe&#39;s Jev (or similar) at the slopreply problem works wonders.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Mike</strong> · @appodeepa</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/MattSimonBrown/status/2116157398842806676"><img src="https://pbs.twimg.com/amplify_video_thumb/2116147165143666688/img/D-smzigfBXQINYkd.jpg" alt="TypeSafe Jev and OpenAI Decisions API Now Available in Datadog Agent Observability · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MattSimonBrown/status/2116157398842806676">TypeSafe Jev and OpenAI Decisions API Now Available in Datadog Agent Observability</a></h3>
-<p>TypeSafe Jev and the OpenAI Decisions API are now integrated into Datadog&#39;s agent observability to help you run faster agent evals.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 19</p>
-<p><strong>matt brown</strong> · @MattSimonBrown</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/OnewKonew/status/2116159871343366254"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Sharing Jev Prompt Application Test · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/OnewKonew/status/2116159871343366254">Sharing Jev Prompt Application Test</a></h3>
+<p>The user mentions that Jev was previously introduced, and believes that after applying a certain prompt, Jev can take over most of Grok bot&#39;s decision-making processes. They plan to test it and share results tomorrow.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Yohaeni CLI</strong> · @OnewKonew</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/wangcha58403845/status/2116153363922387286"><img src="https://pbs.twimg.com/media/HV4WRQeXQAAy9B0?format=jpg&amp;name=900x900" alt="Grok Bot Integrates Jev: A Four-Choice Gate Before Acting · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/wangcha58403845/status/2116153363922387286">Grok Bot Integrates Jev: A Four-Choice Gate Before Acting</a></h3>
-<p>According to the post, the author added Jev to Grok Bot. Before acting, each bot asks whether to continue, reuse, stop, or call Alan, uses confidence thresholds (e.g., only open browser if conf≥0.85), limits research sources, and requires human confirmation before posting or payment, resulting in higher quality, lower cost, and faster execution.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>vv危言耸听</strong> · @wangcha58403845</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/Huahuazo/status/2116154905257787695"><img src="https://pbs.twimg.com/media/HVz5m5HaYAAgBq2?format=png&amp;name=900x900" alt="SEO diagnosis with the Jev model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Huahuazo/status/2116154905257787695">SEO diagnosis with the Jev model</a></h3>
+<p>The post recommends the jev-seo tool: give it a homepage URL, it crawls the entire site in about a minute and checks robots.txt, sitemap, dead links, redirects, canonical, structured data, and Core Web Vitals against Google&#39;s official 52 search guidelines; every page also goes through the TypeSafe Jev model.</p>
+<p><strong>101</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 101</p>
+<p><strong>LanfAI</strong> · @Huahuazo</p>
 </td>
 </tr>
 </table>

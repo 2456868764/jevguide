@@ -26,10 +26,10 @@
 - [Suzuki](../authors/suzuki.md) — 10
 - [8Bit🦞](../authors/8bit.md) — 9
 - [AI Edge](../authors/ai-edge.md) — 9
+- [AI_GOAT](../authors/ai-goat.md) — 9
 - [Alex](../authors/alex.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
-- [AI_GOAT](../authors/ai-goat.md) — 8
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
@@ -293,6 +293,7 @@
 - [Kun Chen](../authors/kun-chen.md) — 3
 - [Kyle Wild](../authors/kyle-wild.md) — 3
 - [Latent.Space](../authors/latent-space.md) — 3
+- [Leo](../authors/leo.md) — 3
 - [leopardracer](../authors/leopardracer.md) — 3
 - [lumxss](../authors/lumxss.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
@@ -306,6 +307,7 @@
 - [Matija Sosic](../authors/matija-sosic.md) — 3
 - [Matt Svensson](../authors/matt-svensson.md) — 3
 - [Max For AI](../authors/max-for-ai.md) — 3
+- [Mehmet Eren Dikmen](../authors/mehmet-eren-dikmen.md) — 3
 - [Michael Guo](../authors/michael-guo.md) — 3
 - [Miguel Ríos Berríos](../authors/miguel-rios-berrios.md) — 3
 - [Mika Heinonen](../authors/mika-heinonen.md) — 3
@@ -459,6 +461,7 @@
 - [athrv.sh](../authors/athrv-sh.md) — 2
 - [atomic.chat](../authors/atomic-chat.md) — 2
 - [attrip](../authors/attrip.md) — 2
+- [Atul Kumar](../authors/atul-kumar.md) — 2
 - [Aurum 😼](../authors/aurum.md) — 2
 - [Avi Chawla](../authors/avi-chawla.md) — 2
 - [Ayush](../authors/ayush.md) — 2
@@ -648,7 +651,6 @@
 - [Layton Gott](../authors/layton-gott.md) — 2
 - [LeahW](../authors/leahw.md) — 2
 - [lemon👑](../authors/lemon.md) — 2
-- [Leo](../authors/leo.md) — 2
 - [Lexi](../authors/lexi.md) — 2
 - [Lilith Datura](../authors/lilith-datura.md) — 2
 - [Lilys.ai](../authors/lilys-ai.md) — 2
@@ -682,7 +684,6 @@
 - [Max Vmr](../authors/max-vmr.md) — 2
 - [MD Emran Hossain](../authors/md-emran-hossain.md) — 2
 - [MEGA](../authors/mega.md) — 2
-- [Mehmet Eren Dikmen](../authors/mehmet-eren-dikmen.md) — 2
 - [Mehmet YILMAZ](../authors/mehmet-yilmaz.md) — 2
 - [Mentis 🇦🇺](../authors/mentis.md) — 2
 - [Mert Durmazer](../authors/mert-durmazer.md) — 2
@@ -715,6 +716,7 @@
 - [Nace AI](../authors/nace-ai.md) — 2
 - [Nao](../authors/nao.md) — 2
 - [Nao Hanamura](../authors/nao-hanamura.md) — 2
+- [Nate Pacyga](../authors/nate-pacyga.md) — 2
 - [Nativ](../authors/nativ.md) — 2
 - [Neelesh](../authors/neelesh.md) — 2
 - [NeuralCat](../authors/neuralcat.md) — 2
@@ -815,6 +817,7 @@
 - [Shrivu Shankar](../authors/shrivu-shankar.md) — 2
 - [Shyam Makwana](../authors/shyam-makwana.md) — 2
 - [silentguy](../authors/silentguy.md) — 2
+- [silvan](../authors/silvan.md) — 2
 - [Simeon Li](../authors/simeon-li.md) — 2
 - [Simon](../authors/simon.md) — 2
 - [Simon Meng](../authors/simon-meng.md) — 2
@@ -1058,6 +1061,7 @@
 - [Aditya kumar Singh](../authors/aditya-kumar-singh.md) — 1
 - [Aditya Rao](../authors/aditya-rao.md) — 1
 - [Adnan](../authors/adnan.md) — 1
+- [Adnan M.](../authors/adnan-m.md) — 1
 - [Adrian Cortex](../authors/adrian-cortex.md) — 1
 - [Adrien](../authors/adrien.md) — 1
 - [afCode](../authors/afcode.md) — 1
@@ -1143,6 +1147,7 @@
 - [Akbar Farooq 🇵🇰](../authors/akbar-farooq.md) — 1
 - [akib](../authors/akib.md) — 1
 - [AkihiroNimura / 新村彰啓](../authors/akihironimura-新村彰啓.md) — 1
+- [Akiko Ishihara a.k.a 高野](../authors/akiko-ishihara-a-k-a-高野.md) — 1
 - [Akin Yilmaz](../authors/akin-yilmaz.md) — 1
 - [akira @ DataMarket 💹](../authors/akira-datamarket.md) — 1
 - [Akira Hatsune](../authors/akira-hatsune.md) — 1
@@ -1233,6 +1238,7 @@
 - [Amit Paranjape](../authors/amit-paranjape.md) — 1
 - [AMIT RAWAT](../authors/amit-rawat.md) — 1
 - [Amodex](../authors/amodex.md) — 1
+- [Amon Nyesigye](../authors/amon-nyesigye.md) — 1
 - [Amos Gyamfi](../authors/amos-gyamfi.md) — 1
 - [AMP⚡️](../authors/amp.md) — 1
 - [Amr Taher](../authors/amr-taher.md) — 1
@@ -1349,7 +1355,6 @@
 - [Athulya](../authors/athulya.md) — 1
 - [ATK](../authors/atk.md) — 1
 - [attaimen](../authors/attaimen.md) — 1
-- [Atul Kumar](../authors/atul-kumar.md) — 1
 - [atulit](../authors/atulit.md) — 1
 - [Austin Way](../authors/austin-way.md) — 1
 - [Automata Room](../authors/automata-room.md) — 1
@@ -1603,6 +1608,7 @@
 - [Colbert](../authors/colbert.md) — 1
 - [Colton Garner](../authors/colton-garner.md) — 1
 - [Colton Harris](../authors/colton-harris.md) — 1
+- [COMMAND LABS](../authors/command-labs.md) — 1
 - [Commencis](../authors/commencis.md) — 1
 - [connect24h](../authors/connect24h.md) — 1
 - [Connected Data](../authors/connected-data.md) — 1
@@ -1693,6 +1699,7 @@
 - [DaShaun](../authors/dashaun.md) — 1
 - [Databend](../authors/databend.md) — 1
 - [Databricks](../authors/databricks.md) — 1
+- [Datadog Developers](../authors/datadog-developers.md) — 1
 - [Dav3 (Ø,G)](../authors/dav3-g.md) — 1
 - [Dave Fano](../authors/dave-fano.md) — 1
 - [Dave Kiss](../authors/dave-kiss.md) — 1
@@ -1858,6 +1865,7 @@
 - [Elix](../authors/elix.md) — 1
 - [Elliot One](../authors/elliot-one.md) — 1
 - [Ellis](../authors/ellis.md) — 1
+- [Elon Zito](../authors/elon-zito.md) — 1
 - [Elvis](../authors/elvis.md) — 1
 - [EM360Tech](../authors/em360tech.md) — 1
 - [Emaad Manzoor](../authors/emaad-manzoor.md) — 1
@@ -1987,6 +1995,7 @@
 - [Fly哥](../authors/fly哥.md) — 1
 - [FMZ Quant](../authors/fmz-quant.md) — 1
 - [FolyAI](../authors/folyai.md) — 1
+- [Fomotion](../authors/fomotion.md) — 1
 - [fooh](../authors/fooh.md) — 1
 - [Foola Froos🌞](../authors/foola-froos.md) — 1
 - [Football Ant](../authors/football-ant.md) — 1
@@ -2557,6 +2566,7 @@
 - [kkonline.org](../authors/kkonline-org.md) — 1
 - [Klaus](../authors/klaus.md) — 1
 - [KnowAI](../authors/knowai.md) — 1
+- [knut](../authors/knut.md) — 1
 - [kobayashi](../authors/kobayashi.md) — 1
 - [kocer](../authors/kocer.md) — 1
 - [Kognitos, Inc.](../authors/kognitos-inc.md) — 1
@@ -2653,6 +2663,7 @@
 - [Lily](../authors/lily.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
+- [Little Moments](../authors/little-moments.md) — 1
 - [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1
 - [LLM Gateway](../authors/llm-gateway.md) — 1
 - [LLM-rg 750B Instruct (ryo_grid / Ryo Kanbayashi)](../authors/llm-rg-750b-instruct-ryo-grid-ryo-kanbayashi.md) — 1
@@ -2901,6 +2912,7 @@
 - [Mohan Dolatabadi](../authors/mohan-dolatabadi.md) — 1
 - [Mohan Elango](../authors/mohan-elango.md) — 1
 - [Mohd shubair 🌱](../authors/mohd-shubair.md) — 1
+- [Mohebifar](../authors/mohebifar.md) — 1
 - [Mohit Garg](../authors/mohit-garg.md) — 1
 - [Mohit Goyal (Harness arc)](../authors/mohit-goyal-harness-arc.md) — 1
 - [Mohit Karekar](../authors/mohit-karekar.md) — 1
@@ -2974,7 +2986,6 @@
 - [Nassir](../authors/nassir.md) — 1
 - [natalie](../authors/natalie.md) — 1
 - [Nate Berkopec](../authors/nate-berkopec.md) — 1
-- [Nate Pacyga](../authors/nate-pacyga.md) — 1
 - [natelriver.base.eth](../authors/natelriver-base-eth.md) — 1
 - [Nathan ✨](../authors/nathan.md) — 1
 - [Nathan Daehyun Nam](../authors/nathan-daehyun-nam.md) — 1
@@ -3011,6 +3022,7 @@
 - [Nick Emb](../authors/nick-emb.md) — 1
 - [Nick Horob](../authors/nick-horob.md) — 1
 - [Nick Khami](../authors/nick-khami.md) — 1
+- [nico](../authors/nico.md) — 1
 - [nicolas](../authors/nicolas.md) — 1
 - [Nicolas Krassas](../authors/nicolas-krassas.md) — 1
 - [Nícolas Villarreal H](../authors/nicolas-villarreal-h.md) — 1
@@ -3321,6 +3333,7 @@
 - [rehen](../authors/rehen.md) — 1
 - [Reindent](../authors/reindent.md) — 1
 - [reizam](../authors/reizam.md) — 1
+- [Rémo](../authors/remo.md) — 1
 - [Remy](../authors/remy.md) — 1
 - [Renan Ferreira](../authors/renan-ferreira.md) — 1
 - [Renchu Song](../authors/renchu-song.md) — 1
@@ -3419,6 +3432,7 @@
 - [Ryan DesJardins](../authors/ryan-desjardins.md) — 1
 - [Ryan Fitzpatrick](../authors/ryan-fitzpatrick.md) — 1
 - [Ryan Porter](../authors/ryan-porter.md) — 1
+- [Ryan Robitaille](../authors/ryan-robitaille.md) — 1
 - [Ryan Truong](../authors/ryan-truong.md) — 1
 - [RYO🌊個人開発](../authors/ryo-個人開発.md) — 1
 - [s.hiruta](../authors/s-hiruta.md) — 1
@@ -3598,7 +3612,6 @@
 - [Signals by Snowplow](../authors/signals-by-snowplow.md) — 1
 - [Siim Haugas](../authors/siim-haugas.md) — 1
 - [Silicon Jungle](../authors/silicon-jungle.md) — 1
-- [silvan](../authors/silvan.md) — 1
 - [Simar Kohli](../authors/simar-kohli.md) — 1
 - [Simon Seagrave](../authors/simon-seagrave.md) — 1
 - [Sina 🗝️⚡ BI Report](../authors/sina-bi-report.md) — 1
@@ -3892,6 +3905,7 @@
 - [Uday Sharma](../authors/uday-sharma.md) — 1
 - [Udit Akhouri](../authors/udit-akhouri.md) — 1
 - [Ujwal Jibhkate](../authors/ujwal-jibhkate.md) — 1
+- [Umair](../authors/umair.md) — 1
 - [umiyosh](../authors/umiyosh.md) — 1
 - [Unbefallen](../authors/unbefallen.md) — 1
 - [Uncle madKoding 👾](../authors/uncle-madkoding.md) — 1

@@ -1,9 +1,10 @@
 # AI_GOAT
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-29T20:55:07.000Z | [Jev in Action: The 7th Agent on the Memecoin Desk](https://x.com/0xAIGOAT/status/2115910324004012346) | 金融 | AI_GOAT | 534 |
 | 2026-09-30T14:08:17.000Z | [How JEV Works Inside an Agent Loop](https://x.com/0xAIGOAT/status/2105298693389779007) | 工作原理 | AI_GOAT | 149 |
 | 2026-09-28 | [551 ways to use Jev](https://x.com/0xAIGOAT/status/2104710616124473626) | 社区实践 | AI_GOAT | 156 |
 | 2026-09-28 | [Jev Ticket Routing: From Ownership to Root Cause](https://x.com/0xAIGOAT/status/2104539116222263501) | 客户支持 | AI_GOAT | 108 |

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6601</strong><br>curated posts</td>
-<td align="center"><strong>3312</strong><br>original videos</td>
+<td align="center"><strong>6621</strong><br>curated posts</td>
+<td align="center"><strong>3322</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1256</strong> showcases · <strong>530</strong> videos</p>
+<p><strong>1260</strong> showcases · <strong>532</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>648</strong> showcases · <strong>323</strong> videos</p>
+<p><strong>650</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>610</strong> showcases · <strong>268</strong> videos</p>
+<p><strong>611</strong> showcases · <strong>268</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>573</strong> showcases · <strong>254</strong> videos</p>
+<p><strong>576</strong> showcases · <strong>256</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>528</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>529</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>392</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>394</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>348</strong> showcases · <strong>198</strong> videos</p>
+<p><strong>349</strong> showcases · <strong>199</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>181</strong> showcases · <strong>138</strong> videos</p>
+<p><strong>183</strong> showcases · <strong>139</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>131</strong> showcases · <strong>93</strong> videos</p>
+<p><strong>132</strong> showcases · <strong>94</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>114</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>115</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>79</strong> showcases · <strong>26</strong> videos</p>
+<p><strong>80</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>49</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>50</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/pmontp19/status/2116122203192517029"><img src="https://pbs.twimg.com/media/HV348KNX0AA5v6m?format=png&amp;name=medium" alt="Jev&#39;s blockages were not bad decisions, but things it cannot see or do · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pmontp19/status/2116122203192517029">Jev&#39;s blockages were not bad decisions, but things it cannot see or do</a></h3>
-<p>The author points out that Jev&#39;s blockages were not due to bad decisions, but to issues like undetected text boxes, different addresses in the Catalan ROM vs the Spanish ROM, door loops, and stuck menus.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Pere</strong> · @pmontp19</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/ErenAILab/status/2116150086321279378"><img src="https://pbs.twimg.com/media/HV4NNOTXYAAkNmd?format=png&amp;name=900x900" alt="Jev RAG Benchmark Fully Updated · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ErenAILab/status/2116150086321279378">Jev RAG Benchmark Fully Updated</a></h3>
+<p>The author has fully updated the Jev RAG benchmark, fixing the previous F1 score issues and including other decision models, so it can now be evaluated with the latest setup. The summary notes that decision models truly excel at source verification...</p>
+<p><strong>72</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
+<p><strong>Mehmet Eren Dikmen</strong> · @ErenAILab</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/pmontp19/status/2116122192635470175"><img src="https://pbs.twimg.com/media/HV34YICXcAAGzJU?format=jpg&amp;name=medium" alt="Developer Tests Jev Model with Pokémon · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pmontp19/status/2116122192635470175">Developer Tests Jev Model with Pokémon</a></h3>
-<p>Pere shares his experiment building a harness for the Jev model to play turn-based Pokémon, thinking it was an ideal use case, only to find that the model was the easy part.</p>
-<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
-<p><strong>Pere</strong> · @pmontp19</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/datadogdevs/status/2116147276926288372"><img src="https://pbs.twimg.com/amplify_video_thumb/2116147165143666688/img/D-smzigfBXQINYkd.jpg" alt="TypeSafe Jev speeds up AI agent evals by ~50x · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/datadogdevs/status/2116147276926288372">TypeSafe Jev speeds up AI agent evals by ~50x</a></h3>
+<p>Datadog Developers highlights TypeSafe Jev&#39;s performance in AI agent evals: ~100ms, roughly 50x faster than GPT-5 nano at 5.6s; one call, multiple criteria, typed answers with probabilities, now in Datadog Agent Observability.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
+<p><strong>Datadog Developers</strong> · @datadogdevs</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/pmontp19/status/2116122195164320016"><img src="https://pbs.twimg.com/media/HV34eOIX0AAV1sI?format=jpg&amp;name=medium" alt="Jev: A Fast Classifier, Not a Text Generator · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pmontp19/status/2116122195164320016">Jev: A Fast Classifier, Not a Text Generator</a></h3>
-<p>Jev (System One from TypeSafe AI) does not write text or call tools. It takes a state and typed questions, and returns probabilities for each option.</p>
-<p><strong>20</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
-<p><strong>Pere</strong> · @pmontp19</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Umair_/status/2116140744100737049"><img src="https://pbs.twimg.com/media/HV4KhivW0AAwjaD?format=jpg&amp;name=medium" alt="Zuse Launches: European Decision Model Compatible with Jev API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Umair_/status/2116140744100737049">Zuse Launches: European Decision Model Compatible with Jev API</a></h3>
+<p>Built in Norway, Zuse offers the same API format as Jev, is hosted in the EU, and reports 90% accuracy across 27 European languages in benchmarks. Free to try.</p>
+<p><strong>19</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>Umair</strong> · @Umair_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/FirefoxMetzger/status/2116119801114263963"><img src="https://pbs.twimg.com/amplify_video_thumb/2115857133707366400/img/cKFjSYpIoyjpAbY4.jpg" alt="Researcher on Jev decision models: dedicated classifiers are valuable · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FirefoxMetzger/status/2116119801114263963">Researcher on Jev decision models: dedicated classifiers are valuable</a></h3>
-<p>Dr. Sebastian Wallkötter says he is both excited and confused by decision models like Jev; he loves the idea of a dedicated model category for zero-shot, prompt-driven classifiers and finds such specialized models truly useful.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Sebastian Wallkötter, PhD</strong> · @FirefoxMetzger</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/TheFomoFactoryX/status/2116136183377924607"><img src="https://pbs.twimg.com/media/HV4GZ8xXMAA2nCy?format=png&amp;name=small" alt="Jev plugin coming soon · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheFomoFactoryX/status/2116136183377924607">Jev plugin coming soon</a></h3>
+<p>The author says Jev is very cheap and only requires your own API key. They plan to release this plugin soon with instructions on how to set up the key, and they are still fine-tuning it.</p>
+<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><strong>Fomotion</strong> · @TheFomoFactoryX</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/pmontp19/status/2116122203192517029"><img src="https://pbs.twimg.com/media/HV348KNX0AA5v6m?format=png&amp;name=medium" alt="Jev&#39;s blockages were not bad decisions, but things it cannot see or do · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pmontp19/status/2116122203192517029">Jev&#39;s blockages were not bad decisions, but things it cannot see or do</a></h3>
-<p>The author points out that Jev&#39;s blockages were not due to bad decisions, but to issues like undetected text boxes, different addresses in the Catalan ROM vs the Spanish ROM, door loops, and stuck menus.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Pere</strong> · @pmontp19</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/ErenAILab/status/2116150086321279378"><img src="https://pbs.twimg.com/media/HV4NNOTXYAAkNmd?format=png&amp;name=900x900" alt="Jev RAG Benchmark Fully Updated · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ErenAILab/status/2116150086321279378">Jev RAG Benchmark Fully Updated</a></h3>
+<p>The author has fully updated the Jev RAG benchmark, fixing the previous F1 score issues and including other decision models, so it can now be evaluated with the latest setup. The summary notes that decision models truly excel at source verification...</p>
+<p><strong>72</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
+<p><strong>Mehmet Eren Dikmen</strong> · @ErenAILab</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/FirefoxMetzger/status/2116119801114263963"><img src="https://pbs.twimg.com/amplify_video_thumb/2115857133707366400/img/cKFjSYpIoyjpAbY4.jpg" alt="Researcher on Jev decision models: dedicated classifiers are valuable · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FirefoxMetzger/status/2116119801114263963">Researcher on Jev decision models: dedicated classifiers are valuable</a></h3>
-<p>Dr. Sebastian Wallkötter says he is both excited and confused by decision models like Jev; he loves the idea of a dedicated model category for zero-shot, prompt-driven classifiers and finds such specialized models truly useful.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Sebastian Wallkötter, PhD</strong> · @FirefoxMetzger</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/TheFomoFactoryX/status/2116136183377924607"><img src="https://pbs.twimg.com/media/HV4GZ8xXMAA2nCy?format=png&amp;name=small" alt="Jev plugin coming soon · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TheFomoFactoryX/status/2116136183377924607">Jev plugin coming soon</a></h3>
+<p>The author says Jev is very cheap and only requires your own API key. They plan to release this plugin soon with instructions on how to set up the key, and they are still fine-tuning it.</p>
+<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><strong>Fomotion</strong> · @TheFomoFactoryX</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/agentsplaybook/status/2116117911345766658"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev-powered people search tool demo · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/agentsplaybook/status/2116117911345766658">Jev-powered people search tool demo</a></h3>
-<p>Treg&#39;s Jev-powered demo connects a people search tool to an agent, finding relevant public professional profiles for a role or research question.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Agents-PlayBook 📖</strong> · @agentsplaybook</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/amon_nyesigye/status/2116135964271853599"><img src="https://pbs.twimg.com/media/HV4GcMOWkAAFNdS?format=jpg&amp;name=medium" alt="Jev falls behind frontier LLMs on hard cases · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amon_nyesigye/status/2116135964271853599">Jev falls behind frontier LLMs on hard cases</a></h3>
+<p>Independent tests show Jev ties LLMs on safety classification and tool routing but lags on open-ended tasks.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Amon Nyesigye</strong> · @amon_nyesigye</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/Joyful_AI_Team/status/2116078056859377736"><img src="https://pbs.twimg.com/media/HV3RpKZaMAA2FAp?format=jpg&amp;name=medium" alt="Jev Simplifies Support Queues · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Joyful_AI_Team/status/2116078056859377736">Jev Simplifies Support Queues</a></h3>
-<p>TypeSafe AI&#39;s Jev returns defined decisions instead of prose, which could simplify support queues. Test with past enquiries before automating.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Rami Hersonsky</strong> · @Joyful_AI_Team</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/Evidenlive/status/2116101691523162547"><img src="https://pbs.twimg.com/media/HV3nRhQXsAAuJLP?format=jpg&amp;name=medium" alt="Can Jev Truly Decide? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Evidenlive/status/2116101691523162547">Can Jev Truly Decide?</a></h3>
+<p>TypeSafe AI presents Jev as a fast, low-cost, calibrated model that classifies data using predefined answers, but classifying is not deciding. Read the full analysis.</p>
+<p><strong>43</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 43</p>
+<p><strong>Eviden</strong> · @Evidenlive</p>
 </td>
 </tr>
 </table>

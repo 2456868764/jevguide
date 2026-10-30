@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 181 | 138 | 43 | 904K |
+| 183 | 139 | 44 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/remoduzk/status/2115925766013698056"><img src="https://pbs.twimg.com/media/HV1GwY4XEAAzpG9?format=jpg&amp;name=medium" alt="Jev + Grokbot: The Outbound Cheat Code · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/remoduzk/status/2115925766013698056">Jev + Grokbot: The Outbound Cheat Code</a></h3>
+<p>This month on Jev: $0.96, 25.4M tokens, 6,377 requests. Used for lead list cleanup, market assessments, copy ideation based on offer &amp; role relevance, and B2B fit checks on every lead. Grokbot runs the bots; Jev scores every lead.</p>
+<p><strong>中文摘要：</strong>本月 Jev 使用成本仅 $0.96，处理 25.4M tokens 和 6,377 次请求，用于线索列表清洗、市场评估、基于产品与角色相关性的文案构思，以及对每条线索进行 B2B 匹配检查。随后 Grokbot 运行机器人，Jev 对每条线索评分。</p>
+<p><strong>Rémo</strong> · @remoduzk · 2026-10-29T21:56:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 17 &nbsp; 📊 790</p>
+<p><a href="https://x.com/remoduzk/status/2115925766013698056">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/soy_adnan3/status/2115902498007605429"><img src="https://pbs.twimg.com/amplify_video_thumb/2115902485953196032/img/0gjQUvEqOw8xY0x1.jpg" alt="Jev surfaces top iced coffee video creators in seconds · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/soy_adnan3/status/2115902498007605429">Jev surfaces top iced coffee video creators in seconds</a></h3>
+<p>Jev analyzes 20 iced coffee videos to quickly surface 3 creators worth contacting, showing views, follower counts, median recent performance, and more—for just $0.002.</p>
+<p><strong>中文摘要：</strong>Jev 分析 20 个冰咖啡视频，快速找出 3 位值得联系的创作者，并展示浏览量、粉丝数、近期表现中位数等数据，成本仅为 $0.002。</p>
+<p><strong>Adnan M.</strong> · @soy_adnan3 · 2026-10-29T20:24:01.000Z</p>
+<p>💬 6 &nbsp; 🔁 8 &nbsp; ♡ 85 &nbsp; 📊 20K</p>
+<p><a href="https://x.com/soy_adnan3/status/2115902498007605429">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ericosiu/status/2115816273611215220"><img src="https://pbs.twimg.com/media/HVzjVsrXAAAYzJH?format=jpg&amp;name=medium" alt="Running 21 marketing jobs with Jev · 原帖图片" width="100%"></a>

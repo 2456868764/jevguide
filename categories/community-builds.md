@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1256 | 530 | 731 | 3.0M |
+| 1260 | 532 | 733 | 3.0M |
 
 ## Showcase 卡片
 
@@ -92,6 +92,54 @@
 <p><strong>ROUT_DEV/AIなんでもC14</strong> · @ROUT_DEVELOP · 2026-10-30T02:57:11.000Z</p>
 <p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 10 &nbsp; 📊 709</p>
 <p><a href="https://x.com/ROUT_DEVELOP/status/2116001438879088944">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/takano0131/status/2115943642280120553"><img src="https://pbs.twimg.com/media/HV1XVVrawAAHwWp?format=jpg&amp;name=medium" alt="Jev Sparks Community Excitement, LT Expected · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/takano0131/status/2115943642280120553">Jev Sparks Community Excitement, LT Expected</a></h3>
+<p>The post mentions that Jev got the community excited when it appeared; the author hasn&#39;t tried it yet and looks forward to a Lightning Talk about it.</p>
+<p><strong>中文摘要：</strong>博主提到 Jev 发布时社区很热闹，虽然自己尚未实际接触，但希望通过 Lightning Talk 了解更多。</p>
+<p><strong>Akiko Ishihara a.k.a 高野</strong> · @takano0131 · 2026-10-29T23:07:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 56</p>
+<p><a href="https://x.com/takano0131/status/2115943642280120553">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ryrobes/status/2115940923490132075"><img src="https://pbs.twimg.com/media/HV1UgE6X0AAM4KC?format=jpg&amp;name=medium" alt="Thoughts on Jev decision trees and IVR call trees · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ryrobes/status/2115940923490132075">Thoughts on Jev decision trees and IVR call trees</a></h3>
+<p>The author reflects that even with Jev decision trees and LLM fallbacks, a call tree remains a call tree, paying respect to builders of traditional IVR systems.</p>
+<p><strong>中文摘要：</strong>作者讨论即使在 Jev 决策树和 LLM 回退的情况下，呼叫树本质不变，并致敬传统 IVR 系统的构建者。</p>
+<p><strong>Ryan Robitaille</strong> · @ryrobes · 2026-10-29T22:56:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 187</p>
+<p><a href="https://x.com/ryrobes/status/2115940923490132075">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kmelve/status/2115912629487317499"><img src="https://pbs.twimg.com/amplify_video_thumb/2115912500017520641/img/Siz9kTuVmAi3ziKa.jpg" alt="Jev&#39;s Rorschach Test: Exploring AI Personality · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kmelve/status/2115912629487317499">Jev&#39;s Rorschach Test: Exploring AI Personality</a></h3>
+<p>The author gave TypeSafe&#39;s Jev model a Rorschach test to see if it has a personality, and the result may not surprise you.</p>
+<p><strong>中文摘要：</strong>作者给 TypeSafe 的 Jev 模型做了罗夏测试，看看它是否具有个性，并分享了一个可能不出所料的结果。</p>
+<p><strong>knut</strong> · @kmelve · 2026-10-29T21:04:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 255</p>
+<p><a href="https://x.com/kmelve/status/2115912629487317499">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nicochristie/status/2115909091587682776"><img src="https://pbs.twimg.com/amplify_video_thumb/2115907983133822976/img/vISb1uye8FqpSVxS.jpg" alt="Using Jev to classify social posts in real time · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nicochristie/status/2115909091587682776">Using Jev to classify social posts in real time</a></h3>
+<p>A user applies the Jev model to classify X replies and LinkedIn posts as low-quality content for real-time blocking.</p>
+<p><strong>中文摘要：</strong>用户使用 Jev 模型实时识别并屏蔽 X 回复和 LinkedIn 帖子中的低质内容。</p>
+<p><strong>nico</strong> · @nicochristie · 2026-10-29T20:50:13.000Z</p>
+<p>💬 19 &nbsp; 🔁 0 &nbsp; ♡ 106 &nbsp; 📊 4.0K</p>
+<p><a href="https://x.com/nicochristie/status/2115909091587682776">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/oalanicolas/status/2115828750990319892"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Integrating Jev into Grok Bot: A Practical Approach · 原帖视频截图" width="100%"></a>

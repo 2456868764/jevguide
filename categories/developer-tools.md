@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 648 | 323 | 328 | 3.6M |
+| 650 | 325 | 328 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/datadogdevs/status/2116147276926288372"><img src="https://pbs.twimg.com/amplify_video_thumb/2116147165143666688/img/D-smzigfBXQINYkd.jpg" alt="TypeSafe Jev speeds up AI agent evals by ~50x · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/datadogdevs/status/2116147276926288372">TypeSafe Jev speeds up AI agent evals by ~50x</a></h3>
+<p>Datadog Developers highlights TypeSafe Jev&#39;s performance in AI agent evals: ~100ms, roughly 50x faster than GPT-5 nano at 5.6s; one call, multiple criteria, typed answers with probabilities, now in Datadog Agent Observability.</p>
+<p><strong>中文摘要：</strong>Datadog 开发者介绍了 TypeSafe Jev 在 AI agent 评测中的性能：约 100ms，相比 GPT-5 nano 的 5.6s 快约 50 倍；支持一次调用、多个标准、带概率的类型化答案，现已集成至 Datadog Agent Observability。</p>
+<p><strong>Datadog Developers</strong> · @datadogdevs · 2026-10-30T12:36:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 32</p>
+<p><a href="https://x.com/datadogdevs/status/2116147276926288372">在 X 查看原帖</a> · <a href="https://t.co/J5K4uX7Oby">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/elonzito/status/2115926665628905819"><img src="https://pbs.twimg.com/amplify_video_thumb/2114551590359109632/img/uJv2PP-FRqF9Sq5i.jpg" alt="Jev: Typed decisions with confidence scores · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/elonzito/status/2115926665628905819">Jev: Typed decisions with confidence scores</a></h3>
+<p>Stop paying ChatGPT for a yes. Jev returns typed decisions with a confidence score, and output tokens cost $0. A cheaper fit for yes/no calls in your app.</p>
+<p><strong>中文摘要：</strong>别再只为一句“是”付费给 ChatGPT。Jev 以置信分数返回类型化决策，输出 token 成本为 $0，适合取代聊天形式的 yes/no 判断。</p>
+<p><strong>Elon Zito</strong> · @elonzito · 2026-10-29T22:00:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/elonzito/status/2115926665628905819">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kisztof/status/2115824040984117603"><img src="https://pbs.twimg.com/amplify_video_thumb/2115823925296832512/img/vtOmnO6I_CSRLUUJ.jpg" alt="Jev routes prompts for Claude Code · 原帖视频截图" width="100%"></a>

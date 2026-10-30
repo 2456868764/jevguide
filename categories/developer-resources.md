@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 392 | 157 | 235 | 419K |
+| 394 | 157 | 237 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ErenAILab/status/2116150086321279378"><img src="https://pbs.twimg.com/media/HV4NNOTXYAAkNmd?format=png&amp;name=900x900" alt="Jev RAG Benchmark Fully Updated · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ErenAILab/status/2116150086321279378">Jev RAG Benchmark Fully Updated</a></h3>
+<p>The author has fully updated the Jev RAG benchmark, fixing the previous F1 score issues and including other decision models, so it can now be evaluated with the latest setup. The summary notes that decision models truly excel at source verification...</p>
+<p><strong>中文摘要：</strong>作者完全更新了Jev的RAG基准测试，修复了先前F1分数的问题，并纳入了其他决策模型，目前可以按最新状态评估。摘要指出，在查证来源方面，决策模型确实表现出……</p>
+<p><strong>Mehmet Eren Dikmen</strong> · @ErenAILab · 2026-10-30T12:47:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 72</p>
+<p><a href="https://x.com/ErenAILab/status/2116150086321279378">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheFomoFactoryX/status/2116136183377924607"><img src="https://pbs.twimg.com/media/HV4GZ8xXMAA2nCy?format=png&amp;name=small" alt="Jev plugin coming soon · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheFomoFactoryX/status/2116136183377924607">Jev plugin coming soon</a></h3>
+<p>The author says Jev is very cheap and only requires your own API key. They plan to release this plugin soon with instructions on how to set up the key, and they are still fine-tuning it.</p>
+<p><strong>中文摘要：</strong>作者表示Jev非常便宜，只需自己的API key。他们计划很快公开这个插件，并附上如何设置key的说明，目前还在微调中。</p>
+<p><strong>Fomotion</strong> · @TheFomoFactoryX · 2026-10-30T11:52:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 28</p>
+<p><a href="https://x.com/TheFomoFactoryX/status/2116136183377924607">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KirkDBorne/status/2116007124220465538"><img src="https://pbs.twimg.com/media/HV2RQ-yWIAA17Iu?format=jpg&amp;name=medium" alt="JEV Made Crystal Clear: A Visual Guide to Building Decision Software with TypeSafe&#39;s System One · 原帖图片" width="100%"></a>

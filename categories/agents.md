@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 524 | 295 | 231 | 3.0M |
+| 526 | 295 | 233 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ErwinWu000/status/2116082992427000308"><img src="https://pbs.twimg.com/media/HV3VA0zasAAMbpB?format=jpg&amp;name=360x360" alt="Design agent uses Jev for furnishing decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ErwinWu000/status/2116082992427000308">Design agent uses Jev for furnishing decisions</a></h3>
+<p>The author adds a soft-furnishing step to a custom design agent: Jev makes small per-room decisions, code handles sizing and layout, then a 2.5D isometric view is generated.</p>
+<p><strong>中文摘要：</strong>作者在自建设计 Agent 中加入软装布置环节，由 Jev 对每个房间做小判断，程序负责尺寸与布局，最后生成 2.5D 等距图。</p>
+<p><strong>Erwin</strong> · @ErwinWu000 · 2026-10-30T08:21:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/ErwinWu000/status/2116082992427000308">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/OpenNavo/status/2116077591052636589"><img src="https://pbs.twimg.com/media/HV3RWOIbMAAaFcQ?format=jpg&amp;name=900x900" alt="Building the OpenBot Brain: Jev as Verifier · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OpenNavo/status/2116077591052636589">Building the OpenBot Brain: Jev as Verifier</a></h3>
+<p>OpenNavo shares the OpenBot Team Rules: OpenBot thinks, plans, delegates, and decides; execution agents do the work; jev verifies results; OpenNavo Secretary coordinates the team.</p>
+<p><strong>中文摘要：</strong>OpenNavo 发布了 OpenBot 团队规则，核心原则是 OpenBot 负责思考、规划、委派和决策，执行代理完成工作，jev 验证结果，OpenNavo Secretary 负责协调团队。</p>
+<p><strong>OpenNavo — macOS Apps</strong> · @OpenNavo · 2026-10-30T07:59:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 24</p>
+<p><a href="https://x.com/OpenNavo/status/2116077591052636589">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ForgeAI_gg/status/2115799751606092173"><img src="https://pbs.twimg.com/media/HVzUqZCWEAAIVo7?format=jpg&amp;name=medium" alt="ForgeAI agents use JEV for move selection · 原帖图片" width="100%"></a>

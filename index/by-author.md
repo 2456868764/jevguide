@@ -10,9 +10,9 @@
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 13
+- [恒星sun](../authors/恒星sun.md) — 13
 - [plutos](../authors/plutos.md) — 12
 - [WTome](../authors/wtome.md) — 12
-- [恒星sun](../authors/恒星sun.md) — 12
 - [Asteri](../authors/asteri.md) — 11
 - [Cuth](../authors/cuth.md) — 11
 - [Daniel San](../authors/daniel-san.md) — 11
@@ -323,6 +323,7 @@
 - [Noisy](../authors/noisy.md) — 3
 - [Numan](../authors/numan.md) — 3
 - [o_devvy](../authors/o-devvy.md) — 3
+- [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 3
 - [Paolo Rosson](../authors/paolo-rosson.md) — 3
 - [Paone](../authors/paone.md) — 3
 - [ParlonsIA sans compromis](../authors/parlonsia-sans-compromis.md) — 3
@@ -725,7 +726,6 @@
 - [nOnEpcbl.](../authors/nonepcbl.md) — 2
 - [NULL=RUN](../authors/null-run.md) — 2
 - [nutanc](../authors/nutanc.md) — 2
-- [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 2
 - [Ochob](../authors/ochob.md) — 2
 - [oka@個人開発](../authors/oka-個人開発.md) — 2
 - [Oliver Prompts](../authors/oliver-prompts.md) — 2
@@ -982,6 +982,7 @@
 - [0xRafy](../authors/0xrafy.md) — 1
 - [0xvexran](../authors/0xvexran.md) — 1
 - [0xYN｜Web3 x Ai](../authors/0xyn-web3-x-ai.md) — 1
+- [0xzad](../authors/0xzad.md) — 1
 - [13](../authors/13.md) — 1
 - [24CYG](../authors/24cyg.md) — 1
 - [2年目開業内科医](../authors/2年目開業内科医.md) — 1
@@ -1886,6 +1887,7 @@
 - [Erik Spock Gafni (hiring!)](../authors/erik-spock-gafni-hiring.md) — 1
 - [erKam 🅰️](../authors/erkam.md) — 1
 - [Ernest](../authors/ernest.md) — 1
+- [Erwin](../authors/erwin.md) — 1
 - [Esac](../authors/esac.md) — 1
 - [esan](../authors/esan.md) — 1
 - [Eshaan Kansal](../authors/eshaan-kansal.md) — 1
@@ -3085,6 +3087,7 @@
 - [Oodle AI](../authors/oodle-ai.md) — 1
 - [oor.sol](../authors/oor-sol.md) — 1
 - [OpenModel](../authors/openmodel.md) — 1
+- [OpenNavo — macOS Apps](../authors/opennavo-macos-apps.md) — 1
 - [OpenRelayInc](../authors/openrelayinc.md) — 1
 - [OpenRoboto](../authors/openroboto.md) — 1
 - [Opper](../authors/opper.md) — 1
@@ -3109,6 +3112,7 @@
 - [Pablo Ramos | Software](../authors/pablo-ramos-software.md) — 1
 - [Packapun](../authors/packapun.md) — 1
 - [Packet Coders](../authors/packet-coders.md) — 1
+- [paco xu](../authors/paco-xu.md) — 1
 - [Paguinfo](../authors/paguinfo.md) — 1
 - [painn](../authors/painn.md) — 1
 - [Panda Coder](../authors/panda-coder.md) — 1
@@ -3275,6 +3279,7 @@
 - [Rama](../authors/rama.md) — 1
 - [𝗿𝗮𝗺𝗮𝗸𝗿𝘂𝘀𝗵𝗻𝗮— 𝗲/𝗮𝗰𝗰](../authors/ramakrushna-e-acc.md) — 1
 - [Ramarao Kadiyala](../authors/ramarao-kadiyala.md) — 1
+- [Rami Hersonsky](../authors/rami-hersonsky.md) — 1
 - [ramie](../authors/ramie.md) — 1
 - [Ramon Rodrigáñez](../authors/ramon-rodriganez.md) — 1
 - [Randomness K.](../authors/randomness-k.md) — 1
@@ -3467,6 +3472,7 @@
 - [sarthak gupta](../authors/sarthak-gupta.md) — 1
 - [Sarthiii](../authors/sarthiii.md) — 1
 - [Sarvagya Kulshreshtha](../authors/sarvagya-kulshreshtha.md) — 1
+- [Sasha Denisov](../authors/sasha-denisov.md) — 1
 - [sat0xshi](../authors/sat0xshi.md) — 1
 - [Sathish](../authors/sathish.md) — 1
 - [Satish G](../authors/satish-g.md) — 1

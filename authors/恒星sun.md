@@ -1,9 +1,10 @@
 # 恒星sun
 
-12 Jev showcases.
+13 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-30T08:18:04.000Z | [MiniCPM-OCR introduces Jev for recognition quality verification](https://x.com/vintcessun/status/2116082191730192592) | 社区实践 | 恒星sun | 26 |
 | 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
 | 2026-10-10T08:16:02.000Z | [Using Jev Model to Judge Ticket Priority: MCP Connector Example](https://x.com/vintcessun/status/2108833925741375981) | 开发资源 | 恒星sun | 64 |
 | 2026-10-10T02:37:02.000Z | [Jev-Powered Voice Browser Control](https://x.com/vintcessun/status/2108748612981477663) | 自动化工作流 | 恒星sun | 117 |

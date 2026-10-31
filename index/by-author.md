@@ -327,6 +327,7 @@
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
 - [nader dabit](../authors/nader-dabit.md) — 3
 - [NeilXbt](../authors/neilxbt.md) — 3
+- [Nidhi Singh](../authors/nidhi-singh.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
 - [Niko(la)](../authors/niko-la.md) — 3
 - [Noisy](../authors/noisy.md) — 3
@@ -334,6 +335,7 @@
 - [o_devvy](../authors/o-devvy.md) — 3
 - [O!Product｜AI・IT・DXサービスの最新トレンド](../authors/o-product-ai-it-dx-最新.md) — 3
 - [OmniRail](../authors/omnirail.md) — 3
+- [PageIndex](../authors/pageindex.md) — 3
 - [Paolo Rosson](../authors/paolo-rosson.md) — 3
 - [Paone](../authors/paone.md) — 3
 - [Parker Brown](../authors/parker-brown.md) — 3
@@ -377,6 +379,7 @@
 - [tom_knock](../authors/tom-knock.md) — 3
 - [Tony Dinh](../authors/tony-dinh.md) — 3
 - [TwoHalves](../authors/twohalves.md) — 3
+- [UHIYAMA](../authors/uhiyama.md) — 3
 - [Verdao](../authors/verdao.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
@@ -734,7 +737,6 @@
 - [NeuralCat](../authors/neuralcat.md) — 2
 - [Nick](../authors/nick.md) — 2
 - [Nick Lo](../authors/nick-lo.md) — 2
-- [Nidhi Singh](../authors/nidhi-singh.md) — 2
 - [Niels Rogge](../authors/niels-rogge.md) — 2
 - [Nikhil Shah MBBS DNB(IM, Neph)🇨🇦](../authors/nikhil-shah-mbbs-dnb-im-neph.md) — 2
 - [Niklas](../authors/niklas.md) — 2
@@ -758,7 +760,6 @@
 - [Orion](../authors/orion.md) — 2
 - [Oskar](../authors/oskar.md) — 2
 - [Pablo Molina](../authors/pablo-molina.md) — 2
-- [PageIndex](../authors/pageindex.md) — 2
 - [parth jain](../authors/parth-jain.md) — 2
 - [Patrick](../authors/patrick.md) — 2
 - [Paul Branham](../authors/paul-branham.md) — 2
@@ -876,7 +877,6 @@
 - [Troy Tessalone | Automation Ace ⚡️](../authors/troy-tessalone-automation-ace.md) — 2
 - [Tugrul Guner](../authors/tugrul-guner.md) — 2
 - [ucchy / Yuki Uchida](../authors/ucchy-yuki-uchida.md) — 2
-- [UHIYAMA](../authors/uhiyama.md) — 2
 - [urbansoul](../authors/urbansoul.md) — 2
 - [usutaku](../authors/usutaku.md) — 2
 - [Vaibhav Sisinty](../authors/vaibhav-sisinty.md) — 2
@@ -3900,6 +3900,7 @@
 - [Tonino Catapano (tonnoz)](../authors/tonino-catapano-tonnoz.md) — 1
 - [tonyng.eth](../authors/tonyng-eth.md) — 1
 - [Toran Bruce Richards](../authors/toran-bruce-richards.md) — 1
+- [Toriumi: ruma](../authors/toriumi-ruma.md) — 1
 - [towninthesky](../authors/towninthesky.md) — 1
 - [TQX](../authors/tqx.md) — 1
 - [TR-MZ](../authors/tr-mz.md) — 1
@@ -4612,6 +4613,7 @@
 - [阿蔺A-Lin](../authors/阿蔺a-lin.md) — 1
 - [阿部 隼也](../authors/阿部-隼也.md) — 1
 - [陆三金](../authors/陆三金.md) — 1
+- [陈大黄](../authors/陈大黄.md) — 1
 - [陈成](../authors/陈成.md) — 1
 - [雨夹雪❄️](../authors/雨夹雪.md) — 1
 - [雪瑜](../authors/雪瑜.md) — 1

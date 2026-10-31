@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-31T07:10:57.000Z | [Jev for RAG? Page Search API Announced](https://x.com/PageIndexAI/status/2116427692140802353) | 知识与搜索 | PageIndex | 12 |
+| 2026-10-31T07:02:16.000Z | [Fulvwa Adds AI Detection Feature](https://x.com/realchendahuang/status/2116425504563900472) | 产品发布 | 陈大黄 | 89 |
+| 2026-10-31T06:59:34.000Z | [Claude Code × Jev Plugin: One-Click Diagram Generation](https://x.com/toriumi_ruma/status/2116424824381960539) | 开发者工具 | Toriumi: ruma | 18 |
+| 2026-10-31T06:24:30.000Z | [Comparing Jev and Decisions API probability outputs](https://x.com/uhimble/status/2116416000552034439) | 社区实践 | UHIYAMA | 13 |
 | 2026-10-31T05:34:26.000Z | [Critique of 'Self-Improving Playtesting Agent': Just a Jev Model Wrapper](https://x.com/saturadev/status/2116403402163015798) | 游戏 | SaturaDev | 67 |
 | 2026-10-31T03:29:00.000Z | [Grok 4.7 + Jev: Smarter and Cheaper](https://x.com/lain_md/status/2116371834321199555) | 社区实践 | lain レイン | 26 |
 | 2026-10-31T03:28:34.000Z | [Game's free input uses Jev's SystemOneModels](https://x.com/localailab_ceo/status/2116371725818720423) | 游戏 | SHO@ローカルAIラボ | 51 |
@@ -41,6 +45,7 @@
 | 2026-10-30T16:06:00.000Z | [Benchmarking Jev Against Baseten Decision Models](https://x.com/askalphaxiv/status/2116199952192069688) | 社区实践 | alphaXiv | 790 |
 | 2026-10-30T16:00:49.000Z | [Benchmarking Jev as a Pre-labeler](https://x.com/sajjad_abdoli/status/2116198646496575528) | 自动化工作流 | Sajjad Abdoli | 108 |
 | 2026-10-30T15:43:18.000Z | [Neon AI Gateway Adds Jev 1.14 and OpenJev Models](https://x.com/neondatabase/status/2116194241357713634) | 接入动态 | Neon | 1.3K |
+| 2026-10-30T15:38:27.000Z | [Automated Model Routing: The herdr + Jev Agent Experience](https://x.com/nidhisinghattri/status/2116193018038591791) | 智能体 | Nidhi Singh | 477 |
 | 2026-10-30T15:30:55.000Z | [New AI Pattern: Jev Tool Permissions](https://x.com/nolansym/status/2116191125744566448) | 开发者工具 | Jordan | 19 |
 | 2026-10-30T15:21:29.000Z | [Halloween 0% Markup on AI Models](https://x.com/aimlapi/status/2116188750984171534) | 营销 | AI/ML API | 299 |
 | 2026-10-30T15:04:49.000Z | [The Future Impact of Jev and Grok Bot](https://x.com/0x_rody/status/2116184554281009647) | 智能体 | rody | 119 |
@@ -97,8 +102,3 @@
 | 2026-10-30T01:56:21.000Z | [Jev-Powered Trading Execution Pipeline](https://x.com/franfoxfrankfox/status/2115986131812549074) | 金融 | FrankFox-Dev | 2 |
 | 2026-10-30T01:52:08.000Z | [Jev Prediction AI Tested on FX Short-Term Direction](https://x.com/ForexDog1968/status/2115985069676560413) | 金融 | フォレックス・ドッグ \| AIノーコードEA量産 × 相場解説 | 358 |
 | 2026-10-30T01:38:24.000Z | [Building a Chrome Extension with Jev Model to Replace TV Commercials](https://x.com/pivot_tables/status/2115981614224404579) | 自动化工作流 | pivot tables | 416 |
-| 2026-10-30T01:03:06.000Z | [Baseten launches joey-1: low-cost AI decision model](https://x.com/DiarioBitcoin/status/2115972729287356703) | 产品发布 | Diario฿itcoin | 654 |
-| 2026-10-30T00:05:01.000Z | [Jev-like Models for Real-Time Fraud Detection](https://x.com/Canonical/status/2115958114935537892) | 金融 | Canonical | 964 |
-| 2026-10-29T23:24:41.000Z | [Macro explores using Jev for email importance ranking](https://x.com/macrodotcom/status/2115947963633610754) | 生产力 | Macro | 284 |
-| 2026-10-29T23:14:13.000Z | [Thoughts on Jev and OpenRouter Decision Models](https://x.com/mims3590/status/2115945330562965690) | 智能体 | mims | 16 |
-| 2026-10-29T23:07:31.000Z | [Jev Sparks Community Excitement, LT Expected](https://x.com/takano0131/status/2115943642280120553) | 社区实践 | Akiko Ishihara a.k.a 高野 | 56 |

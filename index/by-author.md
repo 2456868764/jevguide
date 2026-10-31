@@ -67,6 +67,7 @@
 - [Doug Finke](../authors/doug-finke.md) — 6
 - [elvis](../authors/elvis.md) — 6
 - [Grimmer](../authors/grimmer.md) — 6
+- [Jetwani Avinash](../authors/jetwani-avinash.md) — 6
 - [Maziyar PANAHI](../authors/maziyar-panahi.md) — 6
 - [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 6
 - [Michael](../authors/michael.md) — 6
@@ -101,9 +102,9 @@
 - [govin.eth | G哥](../authors/govin-eth-g哥.md) — 5
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 5
 - [Hazem Omier](../authors/hazem-omier.md) — 5
-- [Jetwani Avinash](../authors/jetwani-avinash.md) — 5
 - [Leaf Yeah!](../authors/leaf-yeah.md) — 5
 - [mercante](../authors/mercante.md) — 5
+- [Mike Taylor](../authors/mike-taylor.md) — 5
 - [Movez](../authors/movez.md) — 5
 - [Natzir](../authors/natzir.md) — 5
 - [nikhil mudholkar](../authors/nikhil-mudholkar.md) — 5
@@ -170,7 +171,6 @@
 - [Matt Mastracci](../authors/matt-mastracci.md) — 4
 - [Matthew Berman](../authors/matthew-berman.md) — 4
 - [Michael Yuan](../authors/michael-yuan.md) — 4
-- [Mike Taylor](../authors/mike-taylor.md) — 4
 - [Modified Bessel Function](../authors/modified-bessel-function.md) — 4
 - [Mojofull](../authors/mojofull.md) — 4
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 4
@@ -336,6 +336,7 @@
 - [OmniRail](../authors/omnirail.md) — 3
 - [Paolo Rosson](../authors/paolo-rosson.md) — 3
 - [Paone](../authors/paone.md) — 3
+- [Parker Brown](../authors/parker-brown.md) — 3
 - [ParlonsIA sans compromis](../authors/parlonsia-sans-compromis.md) — 3
 - [Pere](../authors/pere.md) — 3
 - [Platzi](../authors/platzi.md) — 3
@@ -445,6 +446,7 @@
 - [Alex Strick van Linschoten](../authors/alex-strick-van-linschoten.md) — 2
 - [Alexander Whedon](../authors/alexander-whedon.md) — 2
 - [alpha404](../authors/alpha404.md) — 2
+- [alphaXiv](../authors/alphaxiv.md) — 2
 - [Amar Harolikar](../authors/amar-harolikar.md) — 2
 - [Anand Prasad](../authors/anand-prasad.md) — 2
 - [Andres Vilariño 🇪🇦](../authors/andres-vilarino.md) — 2
@@ -757,7 +759,6 @@
 - [Oskar](../authors/oskar.md) — 2
 - [Pablo Molina](../authors/pablo-molina.md) — 2
 - [PageIndex](../authors/pageindex.md) — 2
-- [Parker Brown](../authors/parker-brown.md) — 2
 - [parth jain](../authors/parth-jain.md) — 2
 - [Patrick](../authors/patrick.md) — 2
 - [Paul Branham](../authors/paul-branham.md) — 2
@@ -2025,6 +2026,7 @@
 - [FrankFox-Dev](../authors/frankfox-dev.md) — 1
 - [Fred](../authors/fred.md) — 1
 - [Freddy](../authors/freddy.md) — 1
+- [freeCodeCamp.org in Arabic](../authors/freecodecamp-org-in-arabic.md) — 1
 - [frevana](../authors/frevana.md) — 1
 - [friz()](../authors/friz.md) — 1
 - [frombit@エンジニア](../authors/frombit.md) — 1
@@ -2509,6 +2511,7 @@
 - [KAP](../authors/kap.md) — 1
 - [Kapil Sareen](../authors/kapil-sareen.md) — 1
 - [kapio](../authors/kapio.md) — 1
+- [Karan Vaidya](../authors/karan-vaidya.md) — 1
 - [Karina Q](../authors/karina-q.md) — 1
 - [Karl Weinmeister](../authors/karl-weinmeister.md) — 1
 - [Karmi](../authors/karmi.md) — 1
@@ -2761,6 +2764,7 @@
 - [Manfred Steyer](../authors/manfred-steyer.md) — 1
 - [Mani Brar](../authors/mani-brar.md) — 1
 - [Manideep Patibandla](../authors/manideep-patibandla.md) — 1
+- [Manling Li](../authors/manling-li.md) — 1
 - [Mann Patel](../authors/mann-patel.md) — 1
 - [MaNNi KoPF](../authors/manni-kopf.md) — 1
 - [Manoj Rajendiran](../authors/manoj-rajendiran.md) — 1
@@ -3018,6 +3022,7 @@
 - [Neil Agarwal](../authors/neil-agarwal.md) — 1
 - [Neil McGillivray](../authors/neil-mcgillivray.md) — 1
 - [Nelly;](../authors/nelly.md) — 1
+- [Neon](../authors/neon.md) — 1
 - [Neqyve](../authors/neqyve.md) — 1
 - [Nerd Snipe](../authors/nerd-snipe.md) — 1
 - [nerea](../authors/nerea.md) — 1
@@ -3479,6 +3484,7 @@
 - [sAIgnals](../authors/saignals.md) — 1
 - [Saikat ](../authors/saikat.md) — 1
 - [saito](../authors/saito.md) — 1
+- [Sajjad Abdoli](../authors/sajjad-abdoli.md) — 1
 - [Sajjad Farrokhzad](../authors/sajjad-farrokhzad.md) — 1
 - [SAKANE](../authors/sakane.md) — 1
 - [Sakata](../authors/sakata.md) — 1
@@ -3529,6 +3535,7 @@
 - [Satish G](../authors/satish-g.md) — 1
 - [Satoshi Wolf](../authors/satoshi-wolf.md) — 1
 - [Sattyam Jain](../authors/sattyam-jain.md) — 1
+- [SaturaDev](../authors/saturadev.md) — 1
 - [Satvik Paramkusham](../authors/satvik-paramkusham.md) — 1
 - [Satya Sedimbi](../authors/satya-sedimbi.md) — 1
 - [Saurabh Bhatnagar](../authors/saurabh-bhatnagar.md) — 1
@@ -3904,6 +3911,7 @@
 - [Travis](../authors/travis.md) — 1
 - [Treff](../authors/treff.md) — 1
 - [Trend0x | Cognitive AI Trading](../authors/trend0x-cognitive-ai-trading.md) — 1
+- [Trevin Chow](../authors/trevin-chow.md) — 1
 - [Trevor Schulte](../authors/trevor-schulte.md) — 1
 - [Tribfi](../authors/tribfi.md) — 1
 - [Tristan Lee](../authors/tristan-lee.md) — 1

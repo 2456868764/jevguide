@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6667</strong><br>curated posts</td>
-<td align="center"><strong>3344</strong><br>original videos</td>
+<td align="center"><strong>6679</strong><br>curated posts</td>
+<td align="center"><strong>3348</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1275</strong> showcases · <strong>538</strong> videos</p>
+<p><strong>1279</strong> showcases · <strong>538</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>438</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>439</strong> showcases · <strong>183</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>398</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>399</strong> showcases · <strong>297</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>289</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>290</strong> showcases · <strong>181</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>116</strong> showcases · <strong>34</strong> videos</p>
+<p><strong>118</strong> showcases · <strong>35</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>82</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>83</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,22 +160,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>45</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>46</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>35</strong> showcases · <strong>16</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>34</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>34</strong> showcases · <strong>16</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/saturadev/status/2116403402163015798"><img src="https://pbs.twimg.com/amplify_video_thumb/2116191229730082816/img/Uo143D2v4cwjCtdY.jpg" alt="Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/saturadev/status/2116403402163015798">Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper</a></h3>
+<p>The author points out that the so-called self-improving playtesting agent is just an LLM writing a game bot, fixing it after errors, essentially a Claude Code wrapper running on a Jev model key, and promotes their own game QA tool.</p>
+<p><strong>67</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 67</p>
+<p><strong>SaturaDev</strong> · @saturadev</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/lain_md/status/2116371834321199555"><img src="https://pbs.twimg.com/amplify_video_thumb/2113845067802894337/img/XF5GGSIQGsF0Yt-Q.jpg" alt="Grok 4.7 + Jev: Smarter and Cheaper · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/lain_md/status/2116371834321199555">Grok 4.7 + Jev: Smarter and Cheaper</a></h3>
 <p>A user shares combining Jev with Grok 4.7: Grok handles reasoning, Jev handles decisions. Jev does not generate text; it only answers via yes/no, choice, and scoring, so it can only decide from allowed answers.</p>
 <p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><strong>lain レイン</strong> · @lain_md</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
 <a href="https://x.com/localailab_ceo/status/2116371725818720423"><img src="https://pbs.twimg.com/media/HV7c0ocbYAAj577?format=jpg&amp;name=medium" alt="Game&#39;s free input uses Jev&#39;s SystemOneModels · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/localailab_ceo/status/2116371725818720423">Game&#39;s free input uses Jev&#39;s SystemOneModels</a></h3>
 <p>This visual novel game supports free input in addition to regular choices. Internally, it uses SystemOneModels defined after Jev&#39;s debut, which constrain output to numeric values, making them cheaper and faster.</p>
 <p><strong>51</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 51</p>
 <p><strong>SHO@ローカルAIラボ</strong> · @localailab_ceo</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/nickwumac/status/2116347101831651638"><img src="https://pbs.twimg.com/media/HV7GeT-acAAJSsM?format=jpg&amp;name=medium" alt="Using Jev for Auto-Categorization in a Personal Budget App · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/nickwumac/status/2116347101831651638">Using Jev for Auto-Categorization in a Personal Budget App</a></h3>
 <p>The author shares a small project integrating Jev into a personal budget app for automatic transaction categorization, saying it is more accurate than regex and cheaper than LLMs.</p>
 <p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
 <p><strong>nick</strong> · @nickwumac</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/omnirailorg/status/2116336854257504279"><img src="https://pbs.twimg.com/media/HV1Mce1XUAAFAY0?format=jpg&amp;name=medium" alt="Jev simplifies supervised agent decisions with numeric thresholds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/omnirailorg/status/2116336854257504279">Jev simplifies supervised agent decisions with numeric thresholds</a></h3>
-<p>The hard part of a supervised agent is how often to ask the human: too often and they stop reading, too rarely and something slips through. Jev gives a number from 0 to 1: above 0.9 the agent proceeds, below 0.1 it stops, and in between it asks.</p>
-<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 42</p>
-<p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/lain_md/status/2116371834321199555"><img src="https://pbs.twimg.com/amplify_video_thumb/2113845067802894337/img/XF5GGSIQGsF0Yt-Q.jpg" alt="Grok 4.7 + Jev: Smarter and Cheaper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lain_md/status/2116371834321199555">Grok 4.7 + Jev: Smarter and Cheaper</a></h3>
-<p>A user shares combining Jev with Grok 4.7: Grok handles reasoning, Jev handles decisions. Jev does not generate text; it only answers via yes/no, choice, and scoring, so it can only decide from allowed answers.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
-<p><strong>lain レイン</strong> · @lain_md</p>
+<p><strong>01</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/saturadev/status/2116403402163015798"><img src="https://pbs.twimg.com/amplify_video_thumb/2116191229730082816/img/Uo143D2v4cwjCtdY.jpg" alt="Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/saturadev/status/2116403402163015798">Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper</a></h3>
+<p>The author points out that the so-called self-improving playtesting agent is just an LLM writing a game bot, fixing it after errors, essentially a Claude Code wrapper running on a Jev model key, and promotes their own game QA tool.</p>
+<p><strong>67</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 67</p>
+<p><strong>SaturaDev</strong> · @saturadev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/nickwumac/status/2116347101831651638"><img src="https://pbs.twimg.com/media/HV7GeT-acAAJSsM?format=jpg&amp;name=medium" alt="Using Jev for Auto-Categorization in a Personal Budget App · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/nickwumac/status/2116347101831651638">Using Jev for Auto-Categorization in a Personal Budget App</a></h3>
+<p>The author shares a small project integrating Jev into a personal budget app for automatic transaction categorization, saying it is more accurate than regex and cheaper than LLMs.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
+<p><strong>nick</strong> · @nickwumac</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/omnirailorg/status/2116336854257504279"><img src="https://pbs.twimg.com/media/HV1Mce1XUAAFAY0?format=jpg&amp;name=medium" alt="Jev simplifies supervised agent decisions with numeric thresholds · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/omnirailorg/status/2116336854257504279">Jev simplifies supervised agent decisions with numeric thresholds</a></h3>
 <p>The hard part of a supervised agent is how often to ask the human: too often and they stop reading, too rarely and something slips through. Jev gives a number from 0 to 1: above 0.9 the agent proceeds, below 0.1 it stops, and in between it asks.</p>
 <p><strong>42</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 42</p>
 <p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Himalayas1989/status/2116334356340089005"><img src="https://pbs.twimg.com/media/HV66unrbsAARikD?format=jpg&amp;name=medium" alt="Drex Max v1 weights released, model card compares with Jev 1.13 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Himalayas1989/status/2116334356340089005">Drex Max v1 weights released, model card compares with Jev 1.13</a></h3>
-<p>Nace AI has released Drex Max v1 weights on Hugging Face: 2.6B? Wait, the post says 260亿参数 (26 billion parameters), bf16 about 52GB. The model does not generate text; given a state and questions, it outputs probabilities for each option in one forward pass, suitable for local routing. The model card compares it with Jev 1.13, scoring 67.52.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Himalaya</strong> · @Himalayas1989</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/MartinHN/status/2116293678662602964"><img src="https://pbs.twimg.com/media/HV6URG6WwAA9zpG?format=png&amp;name=medium" alt="Using Jev to monitor a camera and play deterrent sounds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MartinHN/status/2116293678662602964">Using Jev to monitor a camera and play deterrent sounds</a></h3>
-<p>A user shares that their Model 3 is too old for a feature, so they use TypeSafe AI&#39;s Jev to analyze a UniFi camera stream and play scary ambient sounds, flash lights, and honk when people get close to the car.</p>
-<p><strong>38</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
-<p><strong>Martin Høst Normark</strong> · @MartinHN</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/UEFNDucky/status/2116295293465690412"><img src="https://pbs.twimg.com/media/HV6WMj1XQAADk6r?format=jpg&amp;name=900x900" alt="UEFN Ducky Plugin: Let Jev Play-Test While Building · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/UEFNDucky/status/2116295293465690412">UEFN Ducky Plugin: Let Jev Play-Test While Building</a></h3>
+<p>UEFN Ducky introduces a free, open-source Play Tester Plugin that lets Jev or any chosen model play-test games while building them. Download it to have your agent play-test its own work.</p>
+<p><strong>1.2K</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 20 &nbsp; 📊 1.2K</p>
+<p><strong>UEFN Ducky</strong> · @UEFNDucky</p>
 </td>
 </tr>
 </table>

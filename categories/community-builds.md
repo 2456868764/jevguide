@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1275 | 538 | 742 | 3.0M |
+| 1279 | 538 | 746 | 3.0M |
 
 ## Showcase 卡片
 
@@ -151,6 +151,54 @@
 <p><strong>Haider.</strong> · @haider1 · 2026-10-30T18:00:02.000Z</p>
 <p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 1.9K</p>
 <p><a href="https://x.com/haider1/status/2116228650387296464">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/trevin/status/2116210671843209721"><img src="https://pbs.twimg.com/media/HV5J8F_asAE6-J0?format=jpg&amp;name=medium" alt="Jev vs. Microsoft Decision 1: A Real-World Comparison · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/trevin/status/2116210671843209721">Jev vs. Microsoft Decision 1: A Real-World Comparison</a></h3>
+<p>In a new project, the author compared TypeSafe AI&#39;s Jev with Microsoft Decision 1. Decision 1 accepted 100% of true &quot;same request&quot; matches, while Jev accepted 68%.</p>
+<p><strong>中文摘要：</strong>作者在新项目中将 TypeSafe AI 的 Jev 与 Microsoft Decision 1 进行对比测试，结果显示 Decision 1 在“同请求”真实匹配上接受率为 100%，Jev 为 68%。</p>
+<p><strong>Trevin Chow</strong> · @trevin · 2026-10-30T16:48:36.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 705</p>
+<p><a href="https://x.com/trevin/status/2116210671843209721">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer_mt/status/2116203305584210108"><img src="https://pbs.twimg.com/media/HV5Dk7xWEAAHiEB?format=jpg&amp;name=medium" alt="Jev praised for calibration by community user · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer_mt/status/2116203305584210108">Jev praised for calibration by community user</a></h3>
+<p>User Mike Taylor posted that Jev is better calibrated than the average American, tagging TypeSafe AI. This is a positive community remark about the Jev model.</p>
+<p><strong>中文摘要：</strong>用户 Mike Taylor 发帖称 Jev 的校准能力优于普通美国人，并提及 TypeSafe AI。这是一条社区对 Jev 模型的正面评价。</p>
+<p><strong>Mike Taylor</strong> · @hammer_mt · 2026-10-30T16:19:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/hammer_mt/status/2116203305584210108">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/parkerbrowndev/status/2116200643950195070"><img src="https://pbs.twimg.com/media/HV5AyazbAAAdVPI?format=png&amp;name=small" alt="Using Jev to Assess My Feed with Auto-Translated Summaries · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/parkerbrowndev/status/2116200643950195070">Using Jev to Assess My Feed with Auto-Translated Summaries</a></h3>
+<p>Parker Brown shares how he set up Jev to assess his feed with auto-translated summaries, and discusses using a feedback loop to allocate attention more wisely.</p>
+<p><strong>中文摘要：</strong>Parker Brown 分享他使用 Jev 评估自身信息流并自动翻译摘要的实践，并讨论通过反馈循环来更合理地分配注意力。</p>
+<p><strong>Parker Brown</strong> · @parkerbrowndev · 2026-10-30T16:08:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/parkerbrowndev/status/2116200643950195070">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/askalphaxiv/status/2116199952192069688"><img src="https://pbs.twimg.com/media/HV3g0hca4AAYgOC?format=jpg&amp;name=medium" alt="Benchmarking Jev Against Baseten Decision Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/askalphaxiv/status/2116199952192069688">Benchmarking Jev Against Baseten Decision Models</a></h3>
+<p>alphaXiv benchmarked Jev alongside Baseten&#39;s latest decision models on the same eval, with Mammoth-1 topping the benchmarks.</p>
+<p><strong>中文摘要：</strong>alphaXiv在相同评估中将Jev与Baseten的最新决策模型进行基准测试，Mammoth-1在榜单中表现最佳。</p>
+<p><strong>alphaXiv</strong> · @askalphaxiv · 2026-10-30T16:06:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 790</p>
+<p><a href="https://x.com/askalphaxiv/status/2116199952192069688">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

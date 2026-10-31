@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 116 | 34 | 84 | 136K |
+| 118 | 35 | 85 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ManlingLi_/status/2116211329232941341"><img src="https://pbs.twimg.com/amplify_video_thumb/2113675199971237888/img/v50FPR_x2eicqxes.jpg" alt="Realtime-Bench: Jev Is Fastest, But Scores Only 8% · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ManlingLi_/status/2116211329232941341">Realtime-Bench: Jev Is Fastest, But Scores Only 8%</a></h3>
+<p>Key findings from Realtime-Bench: the best model GPT-6-Astra scores 36%, while Jev answers in under 1 second as the fastest model, scoring 8%. More reasoning helps only when the clock is paused; with a real clock, slow thinking costs the win. Even with time frozen, many tasks remain unsolved.</p>
+<p><strong>中文摘要：</strong>Realtime-Bench 的关键发现：最佳模型 GPT-6-Astra 得分 36%；Jev 在 1 秒内作答，是最快模型但得分 8%。推理增强仅在时钟暂停时有效，真实时钟下慢思考反而失去优势，且即使时间冻结，许多任务仍未解决。</p>
+<p><strong>Manling Li</strong> · @ManlingLi_ · 2026-10-30T16:51:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 10 &nbsp; ♡ 55 &nbsp; 📊 4.8K</p>
+<p><a href="https://x.com/ManlingLi_/status/2116211329232941341">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/askalphaxiv/status/2116199951835582507"><img src="https://pbs.twimg.com/media/HV3gkZubEAAJWPl?format=jpg&amp;name=medium" alt="alphaXiv Unveils 4B Decision Model, Compares with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/askalphaxiv/status/2116199951835582507">alphaXiv Unveils 4B Decision Model, Compares with Jev</a></h3>
+<p>alphaXiv says it trained a 4B model on 117k decision-making examples; it performs nearly identically to Jev except in sarcasm detection, and generalizes to unseen tasks like hate-speech severity.</p>
+<p><strong>中文摘要：</strong>alphaXiv 称基于 117k 个决策示例训练 4B 模型，除讽刺检测外与 Jev 表现几乎一致，并在仇恨言论严重程度等未见任务上有泛化能力。</p>
+<p><strong>alphaXiv</strong> · @askalphaxiv · 2026-10-30T16:06:00.000Z</p>
+<p>💬 15 &nbsp; 🔁 17 &nbsp; ♡ 300 &nbsp; 📊 14K</p>
+<p><a href="https://x.com/askalphaxiv/status/2116199951835582507">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/WasimJalali/status/2116168257841303738"><img src="https://pbs.twimg.com/media/HVBd63JXMAACqiL?format=jpg&amp;name=large" alt="Decision Bench Results: Jev 1.13 vs Clef Omni · 原帖图片" width="100%"></a>

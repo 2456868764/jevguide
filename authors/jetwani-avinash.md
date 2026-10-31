@@ -1,9 +1,10 @@
 # Jetwani Avinash
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-30T16:45:50.000Z | [Peekray: Using Jev to Detect Scam Links](https://x.com/jetwaniavinash/status/2116209975563362493) | 网络安全 | Jetwani Avinash | 42 |
 | 2026-10-02T14:36:32.000Z | [jevmem: Using Jev to Keep Project Memory for Claude Code](https://x.com/jetwaniavinash/status/2106030576557850835) | 开发者工具 | Jetwani Avinash | 13 |
 | 2026-10-02T13:24:56.000Z | [LinkGuard: Hover to Check Link Safety with Jev](https://x.com/jetwaniavinash/status/2106012560067580283) | 网络安全 | Jetwani Avinash | 15 |
 | 2026-10-02T11:58:31.000Z | [jevmem: Implementing Jev Gate in Claude Code via Hooks](https://x.com/jetwaniavinash/status/2105990810202144917) | 开发者工具 | Jetwani Avinash | 18 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1263 | 534 | 734 | 3.0M |
+| 1265 | 534 | 736 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/soly_nex/status/2116300911123337523"><img src="https://pbs.twimg.com/media/HV6cdiFW8AAw1Xc?format=jpg&amp;name=medium" alt="What do you use Jev for? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soly_nex/status/2116300911123337523">What do you use Jev for?</a></h3>
+<p>Soly asks people to share how they use Jev.</p>
+<p><strong>中文摘要：</strong>Soly 发起提问，邀请大家分享使用 Jev 的场景。</p>
+<p><strong>Soly</strong> · @soly_nex · 2026-10-30T22:47:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/soly_nex/status/2116300911123337523">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MartinHN/status/2116293678662602964"><img src="https://pbs.twimg.com/media/HV6URG6WwAA9zpG?format=png&amp;name=medium" alt="Using Jev to monitor a camera and play deterrent sounds · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MartinHN/status/2116293678662602964">Using Jev to monitor a camera and play deterrent sounds</a></h3>
+<p>A user shares that their Model 3 is too old for a feature, so they use TypeSafe AI&#39;s Jev to analyze a UniFi camera stream and play scary ambient sounds, flash lights, and honk when people get close to the car.</p>
+<p><strong>中文摘要：</strong>一位用户分享因Model 3太旧无法使用某功能，转而用TypeSafe AI的Jev模型分析UniFi摄像头画面，在有人靠近车辆时播放恐怖环境音、闪烁车灯并鸣笛。</p>
+<p><strong>Martin Høst Normark</strong> · @MartinHN · 2026-10-30T22:18:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
+<p><a href="https://x.com/MartinHN/status/2116293678662602964">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OnewKonew/status/2116159871343366254"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Sharing Jev Prompt Application Test · 原帖视频截图" width="100%"></a>

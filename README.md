@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6640</strong><br>curated posts</td>
-<td align="center"><strong>3333</strong><br>original videos</td>
+<td align="center"><strong>6647</strong><br>curated posts</td>
+<td align="center"><strong>3334</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1263</strong> showcases · <strong>534</strong> videos</p>
+<p><strong>1265</strong> showcases · <strong>534</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>576</strong> showcases · <strong>256</strong> videos</p>
+<p><strong>577</strong> showcases · <strong>256</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>436</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>437</strong> showcases · <strong>181</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>396</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>397</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>287</strong> showcases · <strong>180</strong> videos</p>
+<p><strong>288</strong> showcases · <strong>181</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>81</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>82</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/nolansym/status/2116191125744566448"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116191114549960705/pu/img/pU0NJV02U5UTad4s.jpg" alt="New AI Pattern: Jev Tool Permissions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nolansym/status/2116191125744566448">New AI Pattern: Jev Tool Permissions</a></h3>
-<p>Introducing an AI pattern that automatically drops unneeded tools based on task description, keeping only what&#39;s needed from 30 tools, reducing tokens per turn. Built with AI SDK v7 and shadcn registry.</p>
-<p><strong>19</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Jordan</strong> · @nolansym</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Himalayas1989/status/2116334356340089005"><img src="https://pbs.twimg.com/media/HV66unrbsAARikD?format=jpg&amp;name=medium" alt="Drex Max v1 weights released, model card compares with Jev 1.13 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Himalayas1989/status/2116334356340089005">Drex Max v1 weights released, model card compares with Jev 1.13</a></h3>
+<p>Nace AI has released Drex Max v1 weights on Hugging Face: 2.6B? Wait, the post says 260亿参数 (26 billion parameters), bf16 about 52GB. The model does not generate text; given a state and questions, it outputs probabilities for each option in one forward pass, suitable for local routing. The model card compares it with Jev 1.13, scoring 67.52.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Himalaya</strong> · @Himalayas1989</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/aimlapi/status/2116188750984171534"><img src="https://pbs.twimg.com/amplify_video_thumb/2116188690510753792/img/5RTLFfKaWRdRUGYP.jpg" alt="Halloween 0% Markup on AI Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/aimlapi/status/2116188750984171534">Halloween 0% Markup on AI Models</a></h3>
-<p>AI/ML API offers a 0% markup on all AI models this Halloween, including Jev, Claude, GPT, DeepSeek, and 1000+ others.</p>
-<p><strong>299</strong> views · 💬 1 &nbsp; 🔁 3 &nbsp; ♡ 7 &nbsp; 📊 299</p>
-<p><strong>AI/ML API</strong> · @aimlapi</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/Bic_Revelation/status/2116327291488006647"><img src="https://pbs.twimg.com/amplify_video_thumb/2116131446725201920/img/aBCtI03mb7C0MkvL.jpg" alt="Cut AI Costs with a Layered Intelligence System Using Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Bic_Revelation/status/2116327291488006647">Cut AI Costs with a Layered Intelligence System Using Jev</a></h3>
+<p>Proposes a smarter cost-cutting approach than switching to a cheaper LLM: stop sending every decision to an LLM. Build a three-layer intelligence system using Jev, DuckDB, Claude, and jev-calibrate, letting software handle facts while Jev manages layered decisions.</p>
+<p><strong>83</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 83</p>
+<p><strong>𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷</strong> · @Bic_Revelation</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/0x_rody/status/2116184554281009647"><img src="https://pbs.twimg.com/amplify_video_thumb/2116184510068932610/img/USKpROSEhVlag-5H.jpg" alt="The Future Impact of Jev and Grok Bot · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0x_rody/status/2116184554281009647">The Future Impact of Jev and Grok Bot</a></h3>
-<p>The author claims Grok Bot and Jev will change more lives in 2026 than any AI ever did, describing a workflow where Grok Bot breaks down ideas, Jev makes calls, and Grok Bot runs the work.</p>
-<p><strong>119</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 119</p>
-<p><strong>rody</strong> · @0x_rody</p>
+<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/aimatter_in/status/2116324849841053806"><img src="https://pbs.twimg.com/media/HV6yOOtbYAA8BPz?format=png&amp;name=medium" alt="Universal suffix attack on Jev model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/aimatter_in/status/2116324849841053806">Universal suffix attack on Jev model</a></h3>
+<p>A study finds that one short suffix flips 43% of unseen documents for the Jev model; a suffix from one task flips 90-100% of samples in other tasks, and the attack finds it in minutes.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>AI Matter</strong> · @aimatter_in</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/andreaskruszaki/status/2116182353152553380"><img src="https://pbs.twimg.com/amplify_video_thumb/2116182232637546496/img/40U1Wh7FHrwoouFt.jpg" alt="Gen UI Powered by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/andreaskruszaki/status/2116182353152553380">Gen UI Powered by Jev</a></h3>
-<p>Andreas Kruszakin-Liboska shares a generative UI app or demo powered by Jev, showcasing Jev&#39;s practical use in interface generation.</p>
-<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
-<p><strong>Andreas Kruszakin-Liboska</strong> · @andreaskruszaki</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/ThirteenYizuka/status/2116314492862935083"><img src="https://pbs.twimg.com/media/HV6ow2BaIAAjqDl?format=jpg&amp;name=medium" alt="TokenRouter Adapts Jev Image Recognition and Box · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ThirteenYizuka/status/2116314492862935083">TokenRouter Adapts Jev Image Recognition and Box</a></h3>
+<p>The developer is working on adapting TokenRouter to support Jev&#39;s new image recognition and box features.</p>
+<p><strong>260</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 260</p>
+<p><strong>芒果刀🥭</strong> · @ThirteenYizuka</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/nolansym/status/2116191125744566448"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116191114549960705/pu/img/pU0NJV02U5UTad4s.jpg" alt="New AI Pattern: Jev Tool Permissions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/nolansym/status/2116191125744566448">New AI Pattern: Jev Tool Permissions</a></h3>
-<p>Introducing an AI pattern that automatically drops unneeded tools based on task description, keeping only what&#39;s needed from 30 tools, reducing tokens per turn. Built with AI SDK v7 and shadcn registry.</p>
-<p><strong>19</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Jordan</strong> · @nolansym</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Himalayas1989/status/2116334356340089005"><img src="https://pbs.twimg.com/media/HV66unrbsAARikD?format=jpg&amp;name=medium" alt="Drex Max v1 weights released, model card compares with Jev 1.13 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Himalayas1989/status/2116334356340089005">Drex Max v1 weights released, model card compares with Jev 1.13</a></h3>
+<p>Nace AI has released Drex Max v1 weights on Hugging Face: 2.6B? Wait, the post says 260亿参数 (26 billion parameters), bf16 about 52GB. The model does not generate text; given a state and questions, it outputs probabilities for each option in one forward pass, suitable for local routing. The model card compares it with Jev 1.13, scoring 67.52.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Himalaya</strong> · @Himalayas1989</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/ThirteenYizuka/status/2116314492862935083"><img src="https://pbs.twimg.com/media/HV6ow2BaIAAjqDl?format=jpg&amp;name=medium" alt="TokenRouter Adapts Jev Image Recognition and Box · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ThirteenYizuka/status/2116314492862935083">TokenRouter Adapts Jev Image Recognition and Box</a></h3>
+<p>The developer is working on adapting TokenRouter to support Jev&#39;s new image recognition and box features.</p>
+<p><strong>260</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 260</p>
+<p><strong>芒果刀🥭</strong> · @ThirteenYizuka</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/soly_nex/status/2116300911123337523"><img src="https://pbs.twimg.com/media/HV6cdiFW8AAw1Xc?format=jpg&amp;name=medium" alt="What do you use Jev for? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/soly_nex/status/2116300911123337523">What do you use Jev for?</a></h3>
+<p>Soly asks people to share how they use Jev.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Soly</strong> · @soly_nex</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/andreaskruszaki/status/2116182353152553380"><img src="https://pbs.twimg.com/amplify_video_thumb/2116182232637546496/img/40U1Wh7FHrwoouFt.jpg" alt="Gen UI Powered by Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/andreaskruszaki/status/2116182353152553380">Gen UI Powered by Jev</a></h3>
 <p>Andreas Kruszakin-Liboska shares a generative UI app or demo powered by Jev, showcasing Jev&#39;s practical use in interface generation.</p>
 <p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
 <p><strong>Andreas Kruszakin-Liboska</strong> · @andreaskruszaki</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/noot_ai/status/2116170004915741059"><img src="https://pbs.twimg.com/amplify_video_thumb/2113846666633609216/img/6gwSL6qI0BhyQOQI.jpg" alt="Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/noot_ai/status/2116170004915741059">Jev Agent Folder: Let Claude Focus on Writing, Jev Handles Decisions</a></h3>
-<p>This Jev agent folder takes decisions away from Claude, leaving it only the writing task. Jev makes the calls, code executes the actions, and every step leaves a receipt. The folder includes input docs and AGENTS.md for when to invoke Jev.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>Noot</strong> · @noot_ai</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/appodeepa/status/2116158449545589062"><img src="https://pbs.twimg.com/amplify_video_thumb/2116157244249448449/img/8ebPP07BtT2Jumn-.jpg" alt="Using Jev to address the slopreply problem · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appodeepa/status/2116158449545589062">Using Jev to address the slopreply problem</a></h3>
-<p>A user reports that pointing TypeSafe&#39;s Jev (or similar) at the slopreply problem works wonders.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Mike</strong> · @appodeepa</p>
 </td>
 </tr>
 </table>

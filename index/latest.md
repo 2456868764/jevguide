@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-31T01:00:04.000Z | [Drex Max v1 weights released, model card compares with Jev 1.13](https://x.com/Himalayas1989/status/2116334356340089005) | 产品发布 | Himalaya | 15 |
+| 2026-10-31T00:32:00.000Z | [Cut AI Costs with a Layered Intelligence System Using Jev](https://x.com/Bic_Revelation/status/2116327291488006647) | 自动化工作流 | 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷 | 83 |
+| 2026-10-31T00:22:18.000Z | [Universal suffix attack on Jev model](https://x.com/aimatter_in/status/2116324849841053806) | 网络安全 | AI Matter | 8 |
+| 2026-10-30T23:41:08.000Z | [TokenRouter Adapts Jev Image Recognition and Box](https://x.com/ThirteenYizuka/status/2116314492862935083) | 接入动态 | 芒果刀🥭 | 260 |
+| 2026-10-30T22:47:10.000Z | [What do you use Jev for?](https://x.com/soly_nex/status/2116300911123337523) | 社区实践 | Soly | 8 |
+| 2026-10-30T22:24:51.000Z | [UEFN Ducky Plugin: Let Jev Play-Test While Building](https://x.com/UEFNDucky/status/2116295293465690412) | 游戏 | UEFN Ducky | 1.2K |
+| 2026-10-30T22:18:26.000Z | [Using Jev to monitor a camera and play deterrent sounds](https://x.com/MartinHN/status/2116293678662602964) | 社区实践 | Martin Høst Normark | 38 |
 | 2026-10-30T15:30:55.000Z | [New AI Pattern: Jev Tool Permissions](https://x.com/nolansym/status/2116191125744566448) | 开发者工具 | Jordan | 19 |
 | 2026-10-30T15:21:29.000Z | [Halloween 0% Markup on AI Models](https://x.com/aimlapi/status/2116188750984171534) | 营销 | AI/ML API | 299 |
 | 2026-10-30T15:04:49.000Z | [The Future Impact of Jev and Grok Bot](https://x.com/0x_rody/status/2116184554281009647) | 智能体 | rody | 119 |
@@ -95,10 +102,3 @@
 | 2026-10-29T11:29:51.000Z | [6 AI tools in one connected system: Jev collaborates with multiple models](https://x.com/UncleKripro/status/2115768067422663026) | 自动化工作流 | OltAi | 364 |
 | 2026-10-29T11:29:14.000Z | [Let Jev judge, let programs act](https://x.com/aship609/status/2115767912548233565) | 社区实践 | あしぴー | 90 |
 | 2026-10-29T11:07:38.000Z | [Jev-based OCR Corrector Demo Deployed on Hugging Face](https://x.com/josephpollack/status/2115762477480706243) | 社区实践 | Joseph Pollack #Ï 🎗️ | 64 |
-| 2026-10-29T11:03:35.000Z | [Jev Reranking Comparison: Evidence Coverage and MRR Gains](https://x.com/van_van1ch/status/2115761458189378019) | 知识与搜索 | Ivan Panakhno | 29 |
-| 2026-10-29T10:55:29.000Z | [Using Jev to Turn Obsidian into a Thinking Second Brain](https://x.com/yang3izc/status/2115759421217546395) | 社区实践 | 洋先森 | 21 |
-| 2026-10-29T10:53:30.000Z | [Jev Compared with OpenAI Decisions API in Game AI Spectator Mode](https://x.com/furoku/status/2115758919922655616) | 游戏 | Mojofull | 138 |
-| 2026-10-29T10:36:49.000Z | [Is Cloudflare's alternative to Jev called Clef?](https://x.com/frmdomi/status/2115754724393992411) | 社区实践 | Domi | 26 |
-| 2026-10-29T10:35:32.000Z | [Jev integrated into OrionSpace](https://x.com/thanhtran/status/2115754400379507137) | 接入动态 | Thanh TRAN | 261 |
-| 2026-10-29T09:35:05.000Z | [Developer Requests JEV Access to Test Game Integration](https://x.com/justviewnews/status/2115739186481524931) | 游戏 | JustViewNews | 14 |
-| 2026-10-29T09:00:08.000Z | [What is Jev? TypeSafe's ultra-low-cost decision model](https://x.com/thelukejbyrne/status/2115730392195981683) | 产品发布 | Luke Byrne | 16 |

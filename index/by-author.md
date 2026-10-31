@@ -834,6 +834,7 @@
 - [sleepy.md](../authors/sleepy-md.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [soar](../authors/soar.md) — 2
+- [Soly](../authors/soly.md) — 2
 - [Som Dutt | AI/ML Analyst](../authors/som-dutt-ai-ml-analyst.md) — 2
 - [Soups Ranjan](../authors/soups-ranjan.md) — 2
 - [spect](../authors/spect.md) — 2
@@ -1096,6 +1097,7 @@
 - [AI Guide-Note - 実務で使えるAI活用メディア](../authors/ai-guide-note-実務-使-ai活用.md) — 1
 - [AI Ladder](../authors/ai-ladder.md) — 1
 - [AI Mastery Guide](../authors/ai-mastery-guide.md) — 1
+- [AI Matter](../authors/ai-matter.md) — 1
 - [AI Native Foundation](../authors/ai-native-foundation.md) — 1
 - [AI News Smoothie](../authors/ai-news-smoothie.md) — 1
 - [AI Pulse](../authors/ai-pulse.md) — 1
@@ -1427,6 +1429,7 @@
 - [Beto Dias](../authors/beto-dias.md) — 1
 - [BHA | NextGen Learning‧Earning‧Hiring](../authors/bha-nextgen-learning-earning-hiring.md) — 1
 - [Bhuwan Panta](../authors/bhuwan-panta.md) — 1
+- [𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷](../authors/bic-revelation.md) — 1
 - [Bigkaka](../authors/bigkaka.md) — 1
 - [Bill Brown](../authors/bill-brown.md) — 1
 - [Bill Murphy](../authors/bill-murphy.md) — 1
@@ -2185,6 +2188,7 @@
 - [high-meh](../authors/high-meh.md) — 1
 - [hikae](../authors/hikae.md) — 1
 - [HiloW.Ai](../authors/hilow-ai.md) — 1
+- [Himalaya](../authors/himalaya.md) — 1
 - [himanshu](../authors/himanshu.md) — 1
 - [Himanshu Singh](../authors/himanshu-singh.md) — 1
 - [Himanshu Singh Tomar](../authors/himanshu-singh-tomar.md) — 1
@@ -2793,6 +2797,7 @@
 - [Marouane Gazouzi](../authors/marouane-gazouzi.md) — 1
 - [Martijn Verbove](../authors/martijn-verbove.md) — 1
 - [Martín Gaitán ⭐⭐⭐](../authors/martin-gaitan.md) — 1
+- [Martin Høst Normark](../authors/martin-h-st-normark.md) — 1
 - [Martino Agostini](../authors/martino-agostini.md) — 1
 - [Marudan KJ](../authors/marudan-kj.md) — 1
 - [Mary Bradley | cranberry season only](../authors/mary-bradley-cranberry-season-only.md) — 1
@@ -3637,7 +3642,6 @@
 - [Sofiia Shvets](../authors/sofiia-shvets.md) — 1
 - [Soft Pudding](../authors/soft-pudding.md) — 1
 - [Solo](../authors/solo.md) — 1
-- [Soly](../authors/soly.md) — 1
 - [Som Mohapatra](../authors/som-mohapatra.md) — 1
 - [SOMA](../authors/soma.md) — 1
 - [SomacoSF](../authors/somacosf.md) — 1
@@ -3911,6 +3915,7 @@
 - [ƬⲘ](../authors/jev-showcase.md) — 1
 - [Uday Sharma](../authors/uday-sharma.md) — 1
 - [Udit Akhouri](../authors/udit-akhouri.md) — 1
+- [UEFN Ducky](../authors/uefn-ducky.md) — 1
 - [Ujwal Jibhkate](../authors/ujwal-jibhkate.md) — 1
 - [Umair](../authors/umair.md) — 1
 - [umiyosh](../authors/umiyosh.md) — 1
@@ -4549,6 +4554,7 @@
 - [綾袮](../authors/綾袮.md) — 1
 - [老白（每日 AI 干货✊）](../authors/老白-每日-ai-干货.md) — 1
 - [老范](../authors/老范.md) — 1
+- [芒果刀🥭](../authors/芒果刀.md) — 1
 - [花叔](../authors/花叔.md) — 1
 - [英格兰AI哥](../authors/英格兰ai哥.md) — 1
 - [茶木 孝晃｜AI × セキュリティ](../authors/茶木-孝晃-ai.md) — 1

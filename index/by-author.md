@@ -560,6 +560,7 @@
 - [EP](../authors/ep.md) — 2
 - [Erhan Meydan](../authors/erhan-meydan.md) — 2
 - [Eric Yang](../authors/eric-yang.md) — 2
+- [Erwin](../authors/erwin.md) — 2
 - [Ethan](../authors/ethan.md) — 2
 - [Ethan Walker](../authors/ethan-walker.md) — 2
 - [Ethan Walkrman](../authors/ethan-walkrman.md) — 2
@@ -1919,7 +1920,6 @@
 - [Erik Spock Gafni (hiring!)](../authors/erik-spock-gafni-hiring.md) — 1
 - [erKam 🅰️](../authors/erkam.md) — 1
 - [Ernest](../authors/ernest.md) — 1
-- [Erwin](../authors/erwin.md) — 1
 - [Esac](../authors/esac.md) — 1
 - [esan](../authors/esan.md) — 1
 - [Eshaan Kansal](../authors/eshaan-kansal.md) — 1
@@ -3543,6 +3543,7 @@
 - [Saurabh Shintre](../authors/saurabh-shintre.md) — 1
 - [Saurav Sah](../authors/saurav-sah.md) — 1
 - [sav](../authors/sav.md) — 1
+- [sawa🖥️IT](../authors/sawa-it.md) — 1
 - [Scalevise](../authors/scalevise.md) — 1
 - [Scand Ltd.](../authors/scand-ltd.md) — 1
 - [scapeman](../authors/scapeman.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 535 | 300 | 237 | 3.0M |
+| 537 | 301 | 238 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sawa__it/status/2116440853732372844">Discussion on Jev judgment criteria and bot autonomy</a></h3>
+<p>The post discusses the need to set judgment criteria for Jev, questions whether bots could judge by themselves if criteria exist, and notes the benefit of abstraction to reduce changes when criteria change.</p>
+<p><strong>中文摘要：</strong>原帖围绕让Jev做出判断时需要设置判断轴展开讨论，提出若已有判断轴，Bot本身是否也能判断，以及通过抽象化减少判断轴变更时的修改范围。</p>
+<p><strong>sawa🖥️IT</strong> · @sawa__it · 2026-10-31T08:03:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/sawa__it/status/2116440853732372844">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ErwinWu000/status/2116434411109707827"><img src="https://pbs.twimg.com/media/HV8VybNasAET5h3?format=jpg&amp;name=large" alt="Jev Automatically Selects and Arranges Furniture · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ErwinWu000/status/2116434411109707827">Jev Automatically Selects and Arranges Furniture</a></h3>
+<p>Demonstrates Jev automatically selecting and placing furniture in AI-native software, reflecting AI decision-making.</p>
+<p><strong>中文摘要：</strong>演示 Jev 在 AI 原生软件中自动完成家具选择与摆放，体现 AI 决策能力。</p>
+<p><strong>Erwin</strong> · @ErwinWu000 · 2026-10-31T07:37:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/ErwinWu000/status/2116434411109707827">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/omnirailorg/status/2116336854257504279"><img src="https://pbs.twimg.com/media/HV1Mce1XUAAFAY0?format=jpg&amp;name=medium" alt="Jev simplifies supervised agent decisions with numeric thresholds · 原帖图片" width="100%"></a>

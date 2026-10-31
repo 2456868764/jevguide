@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6684</strong><br>curated posts</td>
-<td align="center"><strong>3349</strong><br>original videos</td>
+<td align="center"><strong>6686</strong><br>curated posts</td>
+<td align="center"><strong>3350</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>535</strong> showcases · <strong>300</strong> videos</p>
+<p><strong>537</strong> showcases · <strong>301</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sawa__it/status/2116440853732372844">Discussion on Jev judgment criteria and bot autonomy</a></h3>
+<p>The post discusses the need to set judgment criteria for Jev, questions whether bots could judge by themselves if criteria exist, and notes the benefit of abstraction to reduce changes when criteria change.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>sawa🖥️IT</strong> · @sawa__it</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/ErwinWu000/status/2116434411109707827"><img src="https://pbs.twimg.com/media/HV8VybNasAET5h3?format=jpg&amp;name=large" alt="Jev Automatically Selects and Arranges Furniture · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ErwinWu000/status/2116434411109707827">Jev Automatically Selects and Arranges Furniture</a></h3>
+<p>Demonstrates Jev automatically selecting and placing furniture in AI-native software, reflecting AI decision-making.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Erwin</strong> · @ErwinWu000</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
 <a href="https://x.com/PageIndexAI/status/2116427692140802353"><img src="https://pbs.twimg.com/media/HV8PrUmaMAAUEKc?format=jpg&amp;name=medium" alt="Jev for RAG? Page Search API Announced · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/PageIndexAI/status/2116427692140802353">Jev for RAG? Page Search API Announced</a></h3>
 <p>PageIndex announces the Page Search API, claiming it is faster and more accurate than SOTA embedding models, and discusses the Jev decision model&#39;s retrieval performance for RAG.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>PageIndex</strong> · @PageIndexAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/realchendahuang/status/2116425504563900472"><img src="https://pbs.twimg.com/media/HV8NjwoboAA5tW8?format=jpg&amp;name=medium" alt="Fulvwa Adds AI Detection Feature · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/realchendahuang/status/2116425504563900472">Fulvwa Adds AI Detection Feature</a></h3>
 <p>The Fulvwa plugin uses account comment history combined with the Jev model to detect AI-generated content. The plugin is under review and will be shared once approved.</p>
 <p><strong>89</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
 <p><strong>陈大黄</strong> · @realchendahuang</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/toriumi_ruma/status/2116424824381960539"><img src="https://pbs.twimg.com/media/HV8NFnqbIAIbvvE?format=jpg&amp;name=medium" alt="Claude Code × Jev Plugin: One-Click Diagram Generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/toriumi_ruma/status/2116424824381960539">Claude Code × Jev Plugin: One-Click Diagram Generation</a></h3>
-<p>A developer built a plugin combining Claude Code with Jev. It suggests and draws diagrams after long responses, supporting 14 diagram types and light/dark themes.</p>
-<p><strong>18</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
-<p><strong>Toriumi: ruma</strong> · @toriumi_ruma</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/uhimble/status/2116416000552034439"><img src="https://pbs.twimg.com/media/HV8EZkBakAA48jc?format=jpg&amp;name=medium" alt="Comparing Jev and Decisions API probability outputs · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/uhimble/status/2116416000552034439">Comparing Jev and Decisions API probability outputs</a></h3>
-<p>A user&#39;s test shows that Jev returns mid-range probabilities (0.1–0.9) in about 50% of binary decisions, while Decisions API only does so in 22%, mostly giving decisive values like 0.02 or 0.98.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>UHIYAMA</strong> · @uhimble</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/PageIndexAI/status/2116427692140802353"><img src="https://pbs.twimg.com/media/HV8PrUmaMAAUEKc?format=jpg&amp;name=medium" alt="Jev for RAG? Page Search API Announced · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PageIndexAI/status/2116427692140802353">Jev for RAG? Page Search API Announced</a></h3>
-<p>PageIndex announces the Page Search API, claiming it is faster and more accurate than SOTA embedding models, and discusses the Jev decision model&#39;s retrieval performance for RAG.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>PageIndex</strong> · @PageIndexAI</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sawa__it/status/2116440853732372844">Discussion on Jev judgment criteria and bot autonomy</a></h3>
+<p>The post discusses the need to set judgment criteria for Jev, questions whether bots could judge by themselves if criteria exist, and notes the benefit of abstraction to reduce changes when criteria change.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>sawa🖥️IT</strong> · @sawa__it</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/uhimble/status/2116416000552034439"><img src="https://pbs.twimg.com/media/HV8EZkBakAA48jc?format=jpg&amp;name=medium" alt="Comparing Jev and Decisions API probability outputs · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/uhimble/status/2116416000552034439">Comparing Jev and Decisions API probability outputs</a></h3>
-<p>A user&#39;s test shows that Jev returns mid-range probabilities (0.1–0.9) in about 50% of binary decisions, while Decisions API only does so in 22%, mostly giving decisive values like 0.02 or 0.98.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>UHIYAMA</strong> · @uhimble</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/realchendahuang/status/2116425504563900472"><img src="https://pbs.twimg.com/media/HV8NjwoboAA5tW8?format=jpg&amp;name=medium" alt="Fulvwa Adds AI Detection Feature · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/realchendahuang/status/2116425504563900472">Fulvwa Adds AI Detection Feature</a></h3>
+<p>The Fulvwa plugin uses account comment history combined with the Jev model to detect AI-generated content. The plugin is under review and will be shared once approved.</p>
+<p><strong>89</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><strong>陈大黄</strong> · @realchendahuang</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
-<a href="https://x.com/saturadev/status/2116403402163015798"><img src="https://pbs.twimg.com/amplify_video_thumb/2116191229730082816/img/Uo143D2v4cwjCtdY.jpg" alt="Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/saturadev/status/2116403402163015798">Critique of &#39;Self-Improving Playtesting Agent&#39;: Just a Jev Model Wrapper</a></h3>
-<p>The author points out that the so-called self-improving playtesting agent is just an LLM writing a game bot, fixing it after errors, essentially a Claude Code wrapper running on a Jev model key, and promotes their own game QA tool.</p>
-<p><strong>67</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 67</p>
-<p><strong>SaturaDev</strong> · @saturadev</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/toriumi_ruma/status/2116424824381960539"><img src="https://pbs.twimg.com/media/HV8NFnqbIAIbvvE?format=jpg&amp;name=medium" alt="Claude Code × Jev Plugin: One-Click Diagram Generation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/toriumi_ruma/status/2116424824381960539">Claude Code × Jev Plugin: One-Click Diagram Generation</a></h3>
+<p>A developer built a plugin combining Claude Code with Jev. It suggests and draws diagrams after long responses, supporting 14 diagram types and light/dark themes.</p>
+<p><strong>18</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
+<p><strong>Toriumi: ruma</strong> · @toriumi_ruma</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Bic_Revelation/status/2116327291488006647"><img src="https://pbs.twimg.com/amplify_video_thumb/2116131446725201920/img/aBCtI03mb7C0MkvL.jpg" alt="Cut AI Costs with a Layered Intelligence System Using Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Bic_Revelation/status/2116327291488006647">Cut AI Costs with a Layered Intelligence System Using Jev</a></h3>
-<p>Proposes a smarter cost-cutting approach than switching to a cheaper LLM: stop sending every decision to an LLM. Build a three-layer intelligence system using Jev, DuckDB, Claude, and jev-calibrate, letting software handle facts while Jev manages layered decisions.</p>
-<p><strong>83</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 83</p>
-<p><strong>𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷</strong> · @Bic_Revelation</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/omnirailorg/status/2116336854257504279"><img src="https://pbs.twimg.com/media/HV1Mce1XUAAFAY0?format=jpg&amp;name=medium" alt="Jev simplifies supervised agent decisions with numeric thresholds · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/omnirailorg/status/2116336854257504279">Jev simplifies supervised agent decisions with numeric thresholds</a></h3>
+<p>The hard part of a supervised agent is how often to ask the human: too often and they stop reading, too rarely and something slips through. Jev gives a number from 0 to 1: above 0.9 the agent proceeds, below 0.1 it stops, and in between it asks.</p>
+<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 42</p>
+<p><strong>OmniRail</strong> · @omnirailorg</p>
 </td>
 </tr>
 </table>

@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-31T08:03:15.000Z | [Discussion on Jev judgment criteria and bot autonomy](https://x.com/sawa__it/status/2116440853732372844) | 智能体 | sawa🖥️IT | 7 |
+| 2026-10-31T07:37:39.000Z | [Jev Automatically Selects and Arranges Furniture](https://x.com/ErwinWu000/status/2116434411109707827) | 智能体 | Erwin | 22 |
 | 2026-10-31T07:10:57.000Z | [Jev for RAG? Page Search API Announced](https://x.com/PageIndexAI/status/2116427692140802353) | 知识与搜索 | PageIndex | 12 |
 | 2026-10-31T07:02:16.000Z | [Fulvwa Adds AI Detection Feature](https://x.com/realchendahuang/status/2116425504563900472) | 产品发布 | 陈大黄 | 89 |
 | 2026-10-31T06:59:34.000Z | [Claude Code × Jev Plugin: One-Click Diagram Generation](https://x.com/toriumi_ruma/status/2116424824381960539) | 开发者工具 | Toriumi: ruma | 18 |
@@ -100,5 +102,3 @@
 | 2026-10-30T02:30:33.000Z | [Jev decision model adds image recognition](https://x.com/pratyush_agr/status/2115994739610976544) | 产品发布 | Pratyush Agarwal | 39 |
 | 2026-10-30T02:01:38.000Z | [TypeSafe Raises $40M for Jev Decision Model](https://x.com/Eddie_Ho2025/status/2115987460752879927) | 产品发布 | Eddie Ho | 49 |
 | 2026-10-30T01:56:21.000Z | [Jev-Powered Trading Execution Pipeline](https://x.com/franfoxfrankfox/status/2115986131812549074) | 金融 | FrankFox-Dev | 2 |
-| 2026-10-30T01:52:08.000Z | [Jev Prediction AI Tested on FX Short-Term Direction](https://x.com/ForexDog1968/status/2115985069676560413) | 金融 | フォレックス・ドッグ \| AIノーコードEA量産 × 相場解説 | 358 |
-| 2026-10-30T01:38:24.000Z | [Building a Chrome Extension with Jev Model to Replace TV Commercials](https://x.com/pivot_tables/status/2115981614224404579) | 自动化工作流 | pivot tables | 416 |

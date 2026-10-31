@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 351 | 200 | 153 | 1.2M |
+| 353 | 201 | 154 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nickwumac/status/2116347101831651638"><img src="https://pbs.twimg.com/media/HV7GeT-acAAJSsM?format=jpg&amp;name=medium" alt="Using Jev for Auto-Categorization in a Personal Budget App · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/nickwumac/status/2116347101831651638">Using Jev for Auto-Categorization in a Personal Budget App</a></h3>
+<p>The author shares a small project integrating Jev into a personal budget app for automatic transaction categorization, saying it is more accurate than regex and cheaper than LLMs.</p>
+<p><strong>中文摘要：</strong>作者分享了一个小项目：把 Jev 接入个人预算应用，用于交易自动分类，并认为它比正则表达式更准确、比 LLM 更便宜。</p>
+<p><strong>nick</strong> · @nickwumac · 2026-10-31T01:50:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 3</p>
+<p><a href="https://x.com/nickwumac/status/2116347101831651638">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HodlReaper/status/2116272441500500035"><img src="https://pbs.twimg.com/amplify_video_thumb/2116272169269301248/img/pOWzlonsCA2icKT0.jpg" alt="Jev and Grok Built a &#39;Death Note&#39; for Memecoins · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HodlReaper/status/2116272441500500035">Jev and Grok Built a &#39;Death Note&#39; for Memecoins</a></h3>
+<p>A user had Jev read new pump.fun launches and, combined with Grok Bot, 46 of 47 listed tokens dropped 99% as predicted.</p>
+<p><strong>中文摘要：</strong>用户使用Jev读取pump.fun的新发行代币，结合Grok Bot记录后，当天记录的47个代币中有46个按预测暴跌99%。</p>
+<p><strong>HodlReaper</strong> · @HodlReaper · 2026-10-30T20:54:03.000Z</p>
+<p>💬 8 &nbsp; 🔁 1 &nbsp; ♡ 20 &nbsp; 📊 593</p>
+<p><a href="https://x.com/HodlReaper/status/2116272441500500035">在 X 查看原帖</a> · <a href="https://t.co/nN2znxbKlr">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/polytutor/status/2116158589609910432"><img src="https://pbs.twimg.com/media/HV4bALnWMAAbJ57?format=png&amp;name=medium" alt="Jev BTC 5-min bot marks to bid · 原帖图片" width="100%"></a>

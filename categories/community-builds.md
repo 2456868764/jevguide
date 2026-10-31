@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1265 | 534 | 736 | 3.0M |
+| 1275 | 538 | 742 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lain_md/status/2116371834321199555"><img src="https://pbs.twimg.com/amplify_video_thumb/2113845067802894337/img/XF5GGSIQGsF0Yt-Q.jpg" alt="Grok 4.7 + Jev: Smarter and Cheaper · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lain_md/status/2116371834321199555">Grok 4.7 + Jev: Smarter and Cheaper</a></h3>
+<p>A user shares combining Jev with Grok 4.7: Grok handles reasoning, Jev handles decisions. Jev does not generate text; it only answers via yes/no, choice, and scoring, so it can only decide from allowed answers.</p>
+<p><strong>中文摘要：</strong>用户分享将 Jev 与 Grok 4.7 结合的做法：Grok 负责思考，Jev 负责决策。Jev 不生成文本，仅通过“是/否”“选择”“评分”这几种方式回答，因此只能从限定答案中决策。</p>
+<p><strong>lain レイン</strong> · @lain_md · 2026-10-31T03:29:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/lain_md/status/2116371834321199555">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/soly_nex/status/2116300911123337523"><img src="https://pbs.twimg.com/media/HV6cdiFW8AAw1Xc?format=jpg&amp;name=medium" alt="What do you use Jev for? · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><a href="https://x.com/soly_nex/status/2116300911123337523">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MartinHN/status/2116293678662602964"><img src="https://pbs.twimg.com/media/HV6URG6WwAA9zpG?format=png&amp;name=medium" alt="Using Jev to monitor a camera and play deterrent sounds · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +44,113 @@
 <p><strong>Martin Høst Normark</strong> · @MartinHN · 2026-10-30T22:18:26.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 38</p>
 <p><a href="https://x.com/MartinHN/status/2116293678662602964">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Spinzu/status/2116282601786818921"><img src="https://pbs.twimg.com/amplify_video_thumb/2116282564822343680/img/c_7tsL1_st_Smiyv.jpg" alt="Jev: A Decision Costs Less Than a Cent, But a Wrong One Costs the Whole Run · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Spinzu/status/2116282601786818921">Jev: A Decision Costs Less Than a Cent, But a Wrong One Costs the Whole Run</a></h3>
+<p>Community discussion notes Jev&#39;s per-decision cost is extremely low, but emphasizes measuring cost per finished task, not per call.</p>
+<p><strong>中文摘要：</strong>社区讨论指出Jev的单次决策成本极低，但应关注每个完成任务的综合成本，而非单次调用价格。</p>
+<p><strong>Spinzu</strong> · @Spinzu · 2026-10-30T21:34:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 61</p>
+<p><a href="https://x.com/Spinzu/status/2116282601786818921">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tyschultz7/status/2116274094044061725"><img src="https://pbs.twimg.com/amplify_video_thumb/2116273699674296321/img/mBC39MOxuVj6lrRx.jpg" alt="Voice-Activated Checklist Prototype with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tyschultz7/status/2116274094044061725">Voice-Activated Checklist Prototype with Jev</a></h3>
+<p>A demo of using AnyDecisionModel and TypeSafe AI&#39;s Jev to check off checklist items via voice input.</p>
+<p><strong>中文摘要：</strong>展示如何结合AnyDecisionModel与TypeSafe AI的Jev模型，通过语音输入来勾选清单项目。</p>
+<p><strong>Tyler Schultz</strong> · @tyschultz7 · 2026-10-30T21:00:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/tyschultz7/status/2116274094044061725">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer_mt/status/2116262538304495731"><img src="https://pbs.twimg.com/media/HV55jwmW8AEtrIn?format=jpg&amp;name=medium" alt="Pairing Claude with Jev: trainable questioning gets close to the answer · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer_mt/status/2116262538304495731">Pairing Claude with Jev: trainable questioning gets close to the answer</a></h3>
+<p>Mike Taylor notes that teaching Claude to ask better questions and break problems down is a trainable skill; when paired with Jev, it almost always lands within 2x the answer.</p>
+<p><strong>中文摘要：</strong>Mike Taylor 表示，教 Claude 写出更好的提问并拆解问题是一种可训练的技能；与 Jev 配合时，结果几乎总能落在答案的 2 倍以内。</p>
+<p><strong>Mike Taylor</strong> · @hammer_mt · 2026-10-30T20:14:42.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 146</p>
+<p><a href="https://x.com/hammer_mt/status/2116262538304495731">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer_mt/status/2116262293600342295"><img src="https://pbs.twimg.com/media/HV55VgMXkAEWnna?format=jpg&amp;name=medium" alt="Jev Matches Claude on Long-Chain Estimation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer_mt/status/2116262293600342295">Jev Matches Claude on Long-Chain Estimation</a></h3>
+<p>Mike Taylor shares that on long-chain questions without published answers, Claude works it out in thinking traces, and Jev can match its estimations 1:1.</p>
+<p><strong>中文摘要：</strong>Mike Taylor 分享：在没有公开答案的长链条问题上，Claude 通过思考痕迹默默计算，而 Jev 也能与之 1:1 匹配估算结果。</p>
+<p><strong>Mike Taylor</strong> · @hammer_mt · 2026-10-30T20:13:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 116</p>
+<p><a href="https://x.com/hammer_mt/status/2116262293600342295">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer_mt/status/2116261457096479080"><img src="https://pbs.twimg.com/media/HV54dyKW4AA8gkC?format=jpg&amp;name=medium" alt="A workflow combining Claude and Jev for probability estimates · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer_mt/status/2116261457096479080">A workflow combining Claude and Jev for probability estimates</a></h3>
+<p>Mike Taylor shares a practice where Claude handles question breakdown and Jev estimates probabilities, enabling mechanical napkin-math solutions.</p>
+<p><strong>中文摘要：</strong>Mike Taylor 分享了一个实践：Claude 能凭训练数据接近 100% 答对，而结合 Jev 可以通过纸上推算机械地解出问题，由 Claude 分解题目，Jev 估算概率。</p>
+<p><strong>Mike Taylor</strong> · @hammer_mt · 2026-10-30T20:10:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 172</p>
+<p><a href="https://x.com/hammer_mt/status/2116261457096479080">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2116259198828957805"><img src="https://pbs.twimg.com/media/HV52DfzboAAbCmM?format=jpg&amp;name=medium" alt="Using Jev to add &#39;vibe&#39; to Agent Tower · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2116259198828957805">Using Jev to add &#39;vibe&#39; to Agent Tower</a></h3>
+<p>The author shares how they gradually thought about integrating Jev into Agent Tower, from basing room decorations on thread vibes to using Jev to shorten titles.</p>
+<p><strong>中文摘要：</strong>作者分享在 Agent Tower 中逐步引入 Jev 的思考：从让房间装饰基于帖子氛围，到用 Jev 精简标题等。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-10-30T20:01:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 1.6K</p>
+<p><a href="https://x.com/allietheicon/status/2116259198828957805">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer_mt/status/2116234738990223645"><img src="https://pbs.twimg.com/media/HV5gPcsWEAAPSbP?format=jpg&amp;name=medium" alt="Warning on positional bias in Jev-as-a-judge · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer_mt/status/2116234738990223645">Warning on positional bias in Jev-as-a-judge</a></h3>
+<p>A community user warns that Jev-as-a-judge is strongly biased to position and often picks what comes first, so caution is advised.</p>
+<p><strong>中文摘要：</strong>社区用户指出，使用 Jev 作为评判者时存在强位置偏差，常常选择先出现的选项，需谨慎使用。</p>
+<p><strong>Mike Taylor</strong> · @hammer_mt · 2026-10-30T18:24:14.000Z</p>
+<p>💬 7 &nbsp; 🔁 3 &nbsp; ♡ 46 &nbsp; 📊 3.3K</p>
+<p><a href="https://x.com/hammer_mt/status/2116234738990223645">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/PozzerXYZ/status/2116231499095724488"><img src="https://pbs.twimg.com/media/HV5dVYEXIAEsFY0?format=jpg&amp;name=medium" alt="Using Jev as a task router · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PozzerXYZ/status/2116231499095724488">Using Jev as a task router</a></h3>
+<p>The author shares using Jev as a small selection model that reads a task and returns executor, model, effort, and whether approval is needed. Calibrated on 40 real tasks, all successful.</p>
+<p><strong>中文摘要：</strong>作者分享将 Jev 作为小型选择模型，读取任务后返回执行者、模型、努力程度以及是否需要确认。在40个真实任务中校准，全部通过。</p>
+<p><strong>Phill</strong> · @PozzerXYZ · 2026-10-30T18:11:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/PozzerXYZ/status/2116231499095724488">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/haider1/status/2116228650387296464"><img src="https://pbs.twimg.com/amplify_video_thumb/2116213476578541568/img/sVO84b5OqwJch3Xe.jpg" alt="Using Jev to Verify Accuracy of Small OCR Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/haider1/status/2116228650387296464">Using Jev to Verify Accuracy of Small OCR Models</a></h3>
+<p>The author ran an image through OCR 1.0 and had Jev check its results, suggesting that small specialized models will take on more tasks that once required much larger systems.</p>
+<p><strong>中文摘要：</strong>作者运行 OCR 1.0 处理图像，并让 Jev 检查其结果，认为小型专业化模型将承担更多此前需要大型系统的任务。</p>
+<p><strong>Haider.</strong> · @haider1 · 2026-10-30T18:00:02.000Z</p>
+<p>💬 4 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 1.9K</p>
+<p><a href="https://x.com/haider1/status/2116228650387296464">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

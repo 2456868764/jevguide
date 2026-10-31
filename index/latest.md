@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-31T03:29:00.000Z | [Grok 4.7 + Jev: Smarter and Cheaper](https://x.com/lain_md/status/2116371834321199555) | 社区实践 | lain レイン | 26 |
+| 2026-10-31T03:28:34.000Z | [Game's free input uses Jev's SystemOneModels](https://x.com/localailab_ceo/status/2116371725818720423) | 游戏 | SHO@ローカルAIラボ | 51 |
+| 2026-10-31T01:50:43.000Z | [Using Jev for Auto-Categorization in a Personal Budget App](https://x.com/nickwumac/status/2116347101831651638) | 金融 | nick | 3 |
+| 2026-10-31T01:10:00.000Z | [Jev simplifies supervised agent decisions with numeric thresholds](https://x.com/omnirailorg/status/2116336854257504279) | 智能体 | OmniRail | 42 |
 | 2026-10-31T01:00:04.000Z | [Drex Max v1 weights released, model card compares with Jev 1.13](https://x.com/Himalayas1989/status/2116334356340089005) | 产品发布 | Himalaya | 15 |
 | 2026-10-31T00:32:00.000Z | [Cut AI Costs with a Layered Intelligence System Using Jev](https://x.com/Bic_Revelation/status/2116327291488006647) | 自动化工作流 | 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷 | 83 |
 | 2026-10-31T00:22:18.000Z | [Universal suffix attack on Jev model](https://x.com/aimatter_in/status/2116324849841053806) | 网络安全 | AI Matter | 8 |
@@ -9,6 +13,22 @@
 | 2026-10-30T22:47:10.000Z | [What do you use Jev for?](https://x.com/soly_nex/status/2116300911123337523) | 社区实践 | Soly | 8 |
 | 2026-10-30T22:24:51.000Z | [UEFN Ducky Plugin: Let Jev Play-Test While Building](https://x.com/UEFNDucky/status/2116295293465690412) | 游戏 | UEFN Ducky | 1.2K |
 | 2026-10-30T22:18:26.000Z | [Using Jev to monitor a camera and play deterrent sounds](https://x.com/MartinHN/status/2116293678662602964) | 社区实践 | Martin Høst Normark | 38 |
+| 2026-10-30T21:34:25.000Z | [Jev: A Decision Costs Less Than a Cent, But a Wrong One Costs the Whole Run](https://x.com/Spinzu/status/2116282601786818921) | 社区实践 | Spinzu | 61 |
+| 2026-10-30T21:33:28.000Z | [AI Entrepreneur Shares Cost Reduction by Adding Jev to Grok Bot](https://x.com/kekeyon3/status/2116282362099298435) | 接入动态 | kekeyon3@ワサラー団 ワサラー団十六夜 ❄❄❄❄❄❄ | 51 |
+| 2026-10-30T21:00:37.000Z | [Voice-Activated Checklist Prototype with Jev](https://x.com/tyschultz7/status/2116274094044061725) | 社区实践 | Tyler Schultz | 36 |
+| 2026-10-30T20:56:27.000Z | [Using Jev as a task router: 40/40 on test, only 1 in 18 tasks uses Opus](https://x.com/PozzerXYZ/status/2116273045962641438) | 自动化工作流 | Phill | 21 |
+| 2026-10-30T20:54:03.000Z | [Jev and Grok Built a 'Death Note' for Memecoins](https://x.com/HodlReaper/status/2116272441500500035) | 金融 | HodlReaper | 593 |
+| 2026-10-30T20:34:43.000Z | [JEV Neural Core Leak Sparks Brain-Scan Buzz](https://x.com/0xVarian/status/2116267577496289595) | 医疗 | Varian | 1.1K |
+| 2026-10-30T20:34:30.000Z | [Leaked JEV Signal Landscape Sparks Discussion](https://x.com/Flandermaxx/status/2116267521171185722) | 工作原理 | Flandermaxx | 849 |
+| 2026-10-30T20:33:17.000Z | [fastbrowse: Open-Source Browser Agent Powered by Jev](https://x.com/cjberragan/status/2116267217033793920) | 产品发布 | Cillian Berragan | 2.9K |
+| 2026-10-30T20:23:05.000Z | [Generate Art Programmatically with Jev: Cheaper and Faster than Reasoning Models](https://x.com/CarolLiang7/status/2116264650496991605) | 内容创作 | Carol 🍒 | 870 |
+| 2026-10-30T20:14:42.000Z | [Pairing Claude with Jev: trainable questioning gets close to the answer](https://x.com/hammer_mt/status/2116262538304495731) | 社区实践 | Mike Taylor | 146 |
+| 2026-10-30T20:13:43.000Z | [Jev Matches Claude on Long-Chain Estimation](https://x.com/hammer_mt/status/2116262293600342295) | 社区实践 | Mike Taylor | 116 |
+| 2026-10-30T20:10:24.000Z | [A workflow combining Claude and Jev for probability estimates](https://x.com/hammer_mt/status/2116261457096479080) | 社区实践 | Mike Taylor | 172 |
+| 2026-10-30T20:01:25.000Z | [Using Jev to add 'vibe' to Agent Tower](https://x.com/allietheicon/status/2116259198828957805) | 社区实践 | Allie the Icon | 1.6K |
+| 2026-10-30T18:24:14.000Z | [Warning on positional bias in Jev-as-a-judge](https://x.com/hammer_mt/status/2116234738990223645) | 社区实践 | Mike Taylor | 3.3K |
+| 2026-10-30T18:11:21.000Z | [Using Jev as a task router](https://x.com/PozzerXYZ/status/2116231499095724488) | 社区实践 | Phill | 8 |
+| 2026-10-30T18:00:02.000Z | [Using Jev to Verify Accuracy of Small OCR Models](https://x.com/haider1/status/2116228650387296464) | 社区实践 | Haider. | 1.9K |
 | 2026-10-30T15:30:55.000Z | [New AI Pattern: Jev Tool Permissions](https://x.com/nolansym/status/2116191125744566448) | 开发者工具 | Jordan | 19 |
 | 2026-10-30T15:21:29.000Z | [Halloween 0% Markup on AI Models](https://x.com/aimlapi/status/2116188750984171534) | 营销 | AI/ML API | 299 |
 | 2026-10-30T15:04:49.000Z | [The Future Impact of Jev and Grok Bot](https://x.com/0x_rody/status/2116184554281009647) | 智能体 | rody | 119 |
@@ -82,23 +102,3 @@
 | 2026-10-29T21:37:31.000Z | [How Jev spots a creator about to blow up in three steps](https://x.com/atulkumarzz/status/2115920994783359044) | 内容创作 | Atul Kumar | 20K |
 | 2026-10-29T21:04:17.000Z | [Jev's Rorschach Test: Exploring AI Personality](https://x.com/kmelve/status/2115912629487317499) | 社区实践 | knut | 255 |
 | 2026-10-29T20:55:07.000Z | [Jev in Action: The 7th Agent on the Memecoin Desk](https://x.com/0xAIGOAT/status/2115910324004012346) | 金融 | AI_GOAT | 534 |
-| 2026-10-29T20:50:13.000Z | [Using Jev to classify social posts in real time](https://x.com/nicochristie/status/2115909091587682776) | 社区实践 | nico | 4.0K |
-| 2026-10-29T20:24:01.000Z | [Jev surfaces top iced coffee video creators in seconds](https://x.com/soy_adnan3/status/2115902498007605429) | 营销 | Adnan M. | 20K |
-| 2026-10-29T15:30:59.000Z | [Integrating Jev into Grok Bot: A Practical Approach](https://x.com/oalanicolas/status/2115828750990319892) | 社区实践 | Alan Nicolas | 0 |
-| 2026-10-29T15:12:16.000Z | [Jev routes prompts for Claude Code](https://x.com/kisztof/status/2115824040984117603) | 开发者工具 | Krzysztof Słomka | 12 |
-| 2026-10-29T14:41:24.000Z | [Running 21 marketing jobs with Jev](https://x.com/ericosiu/status/2115816273611215220) | 营销 | ericosiu | 398 |
-| 2026-10-29T14:14:03.000Z | [Standard One Model Released, Claiming Jev-Level Decision-Making](https://x.com/standardthinkin/status/2115809393476530480) | 产品发布 | Standard Thinking | 30 |
-| 2026-10-29T14:00:01.000Z | [Jev 1.13 Shows Strong Results on Decision Bench](https://x.com/WasimJalali/status/2115805860475678872) | 社区实践 | Wasim Jalali | 4 |
-| 2026-10-29T13:35:45.000Z | [ForgeAI agents use JEV for move selection](https://x.com/ForgeAI_gg/status/2115799751606092173) | 智能体 | ForgeAI | 6 |
-| 2026-10-29T13:35:00.000Z | [macOS Dock Uses Jev to Classify Activity and Notifications in Real Time](https://x.com/shariqriazzz/status/2115799563969728860) | 智能体 | Shariq Riaz | 0 |
-| 2026-10-29T13:28:28.000Z | [Using TypeSafe JEV to Assess Job Fit and Recruiting Beta Testers](https://x.com/davidfano/status/2115797920515780966) | 接入动态 | Dave Fano | 31 |
-| 2026-10-29T12:31:01.000Z | [Whisper Money uses Jev model for transaction categorization: 39,118 calls in 4 weeks for $2.50](https://x.com/victoor/status/2115783462556963207) | 金融 | Víctor Falcón | 64 |
-| 2026-10-29T12:30:06.000Z | [Jev Configuration Example in Obsidian](https://x.com/purpleeddy_dev/status/2115783231509274703) | 社区实践 | 퍼플에디 | 70 |
-| 2026-10-29T12:14:26.000Z | [6 Weeks of Jev: Community Beats Pokémon Red](https://x.com/thegreatest_sv/status/2115779290033803462) | 社区实践 | kiosa | 422 |
-| 2026-10-29T11:47:00.000Z | [Adding Jev to Grok Bot Prevents Agents from Repeating Failures](https://x.com/lain_md/status/2115772385412391381) | 智能体 | lain レイン | 73 |
-| 2026-10-29T11:45:08.000Z | [Using Jev to Improve Suzu Dictation Fix Workflows](https://x.com/vavanessadev/status/2115771915059024327) | 自动化工作流 | vava 🌸 苗 Dev | 179 |
-| 2026-10-29T11:34:22.000Z | [Jev Verifies OCR Parsing Results](https://x.com/Iriss_Quinn/status/2115769204544598095) | 社区实践 | Iris Quinn | 4.4K |
-| 2026-10-29T11:33:41.000Z | [Jev self-checks OCR output with MiniCPM-OCR](https://x.com/GesoraMeshack/status/2115769033668886620) | 工作原理 | Orikan | 4.1K |
-| 2026-10-29T11:29:51.000Z | [6 AI tools in one connected system: Jev collaborates with multiple models](https://x.com/UncleKripro/status/2115768067422663026) | 自动化工作流 | OltAi | 364 |
-| 2026-10-29T11:29:14.000Z | [Let Jev judge, let programs act](https://x.com/aship609/status/2115767912548233565) | 社区实践 | あしぴー | 90 |
-| 2026-10-29T11:07:38.000Z | [Jev-based OCR Corrector Demo Deployed on Hugging Face](https://x.com/josephpollack/status/2115762477480706243) | 社区实践 | Joseph Pollack #Ï 🎗️ | 64 |

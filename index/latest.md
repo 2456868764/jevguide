@@ -58,7 +58,6 @@
 | 2026-10-30T13:35:48.000Z | [JEV Picks Each Move in ForgeAI-Hosted Agents](https://x.com/ForgeAI_gg/status/2116162151903588526) | 游戏 | ForgeAI | 11 |
 | 2026-10-30T13:26:44.000Z | [Sharing Jev Prompt Application Test](https://x.com/OnewKonew/status/2116159871343366254) | 社区实践 | Yohaeni CLI | 14 |
 | 2026-10-30T13:21:38.000Z | [Jev BTC 5-min bot marks to bid](https://x.com/polytutor/status/2116158589609910432) | 金融 | Polytutor | 13 |
-| 2026-10-30T13:21:05.000Z | [Using Jev to address the slopreply problem](https://x.com/appodeepa/status/2116158449545589062) | 社区实践 | Mike | 4 |
 | 2026-10-30T13:16:54.000Z | [TypeSafe Jev and OpenAI Decisions API Now Available in Datadog Agent Observability](https://x.com/MattSimonBrown/status/2116157398842806676) | 接入动态 | matt brown | 19 |
 | 2026-10-30T13:14:05.000Z | [Automate post monitoring with Jev and Sonnet](https://x.com/moru3/status/2116156686738300969) | 自动化工作流 | IwaKen | 17 |
 | 2026-10-30T13:10:51.000Z | [Jev Supercharges Auth Logic with Lower Latency](https://x.com/0xDEADDEAF/status/2116155874045743610) | 网络安全 | Boaz Foux | 2 |
@@ -102,3 +101,4 @@
 | 2026-10-30T02:30:33.000Z | [Jev decision model adds image recognition](https://x.com/pratyush_agr/status/2115994739610976544) | 产品发布 | Pratyush Agarwal | 39 |
 | 2026-10-30T02:01:38.000Z | [TypeSafe Raises $40M for Jev Decision Model](https://x.com/Eddie_Ho2025/status/2115987460752879927) | 产品发布 | Eddie Ho | 49 |
 | 2026-10-30T01:56:21.000Z | [Jev-Powered Trading Execution Pipeline](https://x.com/franfoxfrankfox/status/2115986131812549074) | 金融 | FrankFox-Dev | 2 |
+| 2026-10-30T01:52:08.000Z | [Jev Prediction AI Tested on FX Short-Term Direction](https://x.com/ForexDog1968/status/2115985069676560413) | 金融 | フォレックス・ドッグ \| AIノーコードEA量産 × 相場解説 | 358 |

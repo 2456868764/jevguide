@@ -704,7 +704,6 @@
 - [Mert Durmazer](../authors/mert-durmazer.md) — 2
 - [Michael Nicholls](../authors/michael-nicholls.md) — 2
 - [Midas 👑](../authors/midas.md) — 2
-- [Mike](../authors/mike.md) — 2
 - [MIKE](../authors/mike.md) — 2
 - [Mikel](../authors/mikel.md) — 2
 - [Miles Deutscher](../authors/miles-deutscher.md) — 2
@@ -2882,6 +2881,7 @@
 - [Miguel Ángel Durán](../authors/miguel-angel-duran.md) — 1
 - [Miguel Ángel Sabio | Negocios Reales](../authors/miguel-angel-sabio-negocios-reales.md) — 1
 - [Mikadzyki🌙](../authors/mikadzyki.md) — 1
+- [Mike](../authors/mike.md) — 1
 - [mike buttrum](../authors/mike-buttrum.md) — 1
 - [Mike Clarke](../authors/mike-clarke.md) — 1
 - [Mike Dupont](../authors/mike-dupont.md) — 1

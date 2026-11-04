@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 547 | 306 | 243 | 3.0M |
+| 549 | 306 | 245 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2116902051602993342"><img src="https://pbs.twimg.com/media/HWC_MspXoAAm0nS?format=jpg&amp;name=medium" alt="ForgeAI testing: JEV drives agents through nearly 3,000 moves · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2116902051602993342">ForgeAI testing: JEV drives agents through nearly 3,000 moves</a></h3>
+<p>ForgeAI reports: 10 runs, 6 models, 2,949 moves total; top five finished within 85 points. On ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
+<p><strong>中文摘要：</strong>ForgeAI公布结果：10次运行、6个模型共产生2,949步；前五名分差在85分以内。在ForgeAI托管的代理中，模型编写计划，JEV负责每一步移动的选择。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-11-01T14:35:53.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2116902051602993342">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2116833148545782255"><img src="https://pbs.twimg.com/media/HWCAh_qXUAA8yEF?format=jpg&amp;name=medium" alt="Jev Decides BrainChain Governance Proposals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2116833148545782255">Jev Decides BrainChain Governance Proposals</a></h3>
+<p>Any agent can bond 250,000 $BRAIN to submit a contract change proposal. Jev decides within seven days. Adopted changes take effect after 48 hours and the bond is returned; rejected proposals lose the bond.</p>
+<p><strong>中文摘要：</strong>任何代理可绑定25万$BRAIN提交合约变更提案，Jev在七天内决定是否采纳。采纳后48小时生效并退还绑定，拒绝则没收绑定。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-01T10:02:06.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 222</p>
+<p><a href="https://x.com/usebrainchain/status/2116833148545782255">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/tetumemo/status/2116654972083540175"><img src="https://pbs.twimg.com/amplify_video_thumb/2100853279089647616/img/H6altwjZQ28_1bfY.jpg" alt="Free Browser Automation Environment Combining Computer Use × Jev · 原帖视频截图" width="100%"></a>

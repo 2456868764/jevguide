@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 583 | 259 | 327 | 1.1M |
+| 585 | 260 | 328 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ppmmzzcn/status/2116775778427736172"><img src="https://pbs.twimg.com/media/HWBMVMfbgAABWwQ?format=png&amp;name=medium" alt="Jev&#39;s parent company TypeSafe AI and Treg open-source low-cost people search tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ppmmzzcn/status/2116775778427736172">Jev&#39;s parent company TypeSafe AI and Treg open-source low-cost people search tool</a></h3>
+<p>TypeSafe AI and Treg open-sourced a people search tool that is 85% cheaper than Clay. Query an email for as low as $0.0089, no charge if not found. Already 6,400 stars.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI与Treg开源了一款比Clay便宜85%的找人工具，最低0.0089美元即可查询邮箱，未找到不收费，已获6400 Star。</p>
+<p><strong>AI观察者 | 平行世界</strong> · @ppmmzzcn · 2026-11-01T06:14:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/ppmmzzcn/status/2116775778427736172">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/rlaope/status/2116771745822830601"><img src="https://pbs.twimg.com/amplify_video_thumb/2116771708124418048/img/WfQAv7Lj5LKN_UXd.jpg" alt="95% off Jev-Omni &amp; Decider-4B decision models on OpenGateway · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rlaope/status/2116771745822830601">95% off Jev-Omni &amp; Decider-4B decision models on OpenGateway</a></h3>
+<p>The post announces a 95% discount on input for Jev-Omni and Decider-4B decision models on OpenGateway, highlighting that agents don&#39;t need to pay frontier prices for every decision.</p>
+<p><strong>中文摘要：</strong>该帖子宣布 OpenGateway 上 Jev-Omni 和 Decider-4B 决策模型输入价格降低 95%，强调代理无需为每个决策支付前沿价格。</p>
+<p><strong>HOPE.</strong> · @rlaope · 2026-11-01T05:58:06.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
+<p><a href="https://x.com/rlaope/status/2116771745822830601">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/OpenGatewayai/status/2116735243596320943"><img src="https://pbs.twimg.com/media/HWAne5xagAIIKgv?format=jpg&amp;name=medium" alt="OpenGateway offers 95% off for Jev · 原帖图片" width="100%"></a>

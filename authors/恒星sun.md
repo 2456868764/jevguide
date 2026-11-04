@@ -1,9 +1,10 @@
 # 恒星sun
 
-13 Jev showcases.
+14 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-01T08:15:03.000Z | [Model Confidence Auditing: Selective Decision Gates and Learn then Test](https://x.com/vintcessun/status/2116806208598556798) | 科研 | 恒星sun | 48 |
 | 2026-10-30T08:18:04.000Z | [MiniCPM-OCR introduces Jev for recognition quality verification](https://x.com/vintcessun/status/2116082191730192592) | 社区实践 | 恒星sun | 26 |
 | 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |
 | 2026-10-10T08:16:02.000Z | [Using Jev Model to Judge Ticket Priority: MCP Connector Example](https://x.com/vintcessun/status/2108833925741375981) | 开发资源 | 恒星sun | 64 |

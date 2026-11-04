@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 358 | 206 | 154 | 1.2M |
+| 360 | 206 | 156 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kingmijinko/status/2117084288583905673"><img src="https://pbs.twimg.com/media/HWFj3FPaMAA2ho4?format=png&amp;name=900x900" alt="Discussion on JEV AI Limitations in Trading · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kingmijinko/status/2117084288583905673">Discussion on JEV AI Limitations in Trading</a></h3>
+<p>The post mentions that JEV AI returns quality judgments and quantification results, easy to judge programmatically, but whether trading succeeds with it remains subtle.</p>
+<p><strong>中文摘要：</strong>原帖提到JEV AI会返回良否判定和量化结果，容易从程序判断，但以此进行交易成功与否仍微妙。</p>
+<p><strong>mildmijinko</strong> · @kingmijinko · 2026-11-02T02:40:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/kingmijinko/status/2117084288583905673">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/davidwbressler/status/2116908205435466077"><img src="https://pbs.twimg.com/media/HWDEy5aXEAABKM6?format=png&amp;name=medium" alt="Jev achieves 91.36% accuracy on BANKING77 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/davidwbressler/status/2116908205435466077">Jev achieves 91.36% accuracy on BANKING77</a></h3>
+<p>Jev full casebook achieves 91.36% accuracy on BANKING77; with 32 retrieved examples it reaches 88.70%, using the same 2,446-record pool and extended context, yielding 82 more correct decisions across 3,080 cases. Recorded inference cost was $10.92 versus $0.37.</p>
+<p><strong>中文摘要：</strong>Jev完整案例库在BANKING77数据集上准确率为91.36%；32个检索示例时为88.70%，同样基于2,446条记录池和扩展上下文，在3,080个案例中多出82个正确决策。记录推理成本为10.92美元对比0.37美元。</p>
+<p><strong>David Bressler</strong> · @davidwbressler · 2026-11-01T15:00:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/davidwbressler/status/2116908205435466077">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/codewithimanshu/status/2116705618572763402"><img src="https://pbs.twimg.com/amplify_video_thumb/2116705598960238592/img/ouWLnArz1GLwoHSu.jpg" alt="Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days · 原帖视频截图" width="100%"></a>

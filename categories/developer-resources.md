@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 400 | 158 | 242 | 419K |
+| 402 | 158 | 244 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gkvoelkl/status/2116910253422027156"><img src="https://pbs.twimg.com/media/HWDGp1mWUAAfCZJ?format=jpg&amp;name=large" alt="Build an ant colony in your browser: steer a decision model with one sentence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gkvoelkl/status/2116910253422027156">Build an ant colony in your browser: steer a decision model with one sentence</a></h3>
+<p>This 8-step tutorial uses Python and Streamlit to build an ant colony simulation where every ant asks a decision model where to go and you, the queen, steer it with one sentence. Available in English and German.</p>
+<p><strong>中文摘要：</strong>这个8步教程使用Python和Streamlit构建一个蚁群模拟：每只蚂蚁询问决策模型去哪，你扮演蚁后用一句话控制方向。提供英文和德文版本。</p>
+<p><strong>Gerhard Völkl 🐘 @gkvoelkl@sueden.social</strong> · @gkvoelkl · 2026-11-01T15:08:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/gkvoelkl/status/2116910253422027156">在 X 查看原帖</a> · <a href="https://t.co/tlWWKFdlQU">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gkvoelkl/status/2116909797865890091"><img src="https://pbs.twimg.com/media/HWDGPayXcAAoSmx?format=jpg&amp;name=medium" alt="Simulate an Ant Colony in the Browser with the Jev Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gkvoelkl/status/2116909797865890091">Simulate an Ant Colony in the Browser with the Jev Decision Model</a></h3>
+<p>An 8-step tutorial using Python and Streamlit to build an ant colony simulation: each ant uses the Jev decision model to decide where to go, and you control the colony as the queen with a single sentence. Available in German and English.</p>
+<p><strong>中文摘要：</strong>一个 8 步教程，使用 Python 和 Streamlit 构建蚁群模拟：每只蚂蚁通过 Jev 决策模型决定移动方向，用户以“女王”身份用一句话全局控制。教程提供德语和英语版本。</p>
+<p><strong>Gerhard Völkl 🐘 @gkvoelkl@sueden.social</strong> · @gkvoelkl · 2026-11-01T15:06:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/gkvoelkl/status/2116909797865890091">在 X 查看原帖</a> · <a href="https://t.co/1li38jiiVi">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/xerakyle/status/2116725835554312538"><img src="https://pbs.twimg.com/media/HWAe0KxWoAAH0Wb?format=jpg&amp;name=medium" alt="Building &#39;XERA JEV&#39;, a new harness for JEV-type models · 原帖图片" width="100%"></a>

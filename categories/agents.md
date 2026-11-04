@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 537 | 301 | 238 | 3.0M |
+| 541 | 305 | 238 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tetumemo/status/2116654972083540175"><img src="https://pbs.twimg.com/amplify_video_thumb/2100853279089647616/img/H6altwjZQ28_1bfY.jpg" alt="Free Browser Automation Environment Combining Computer Use × Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tetumemo/status/2116654972083540175">Free Browser Automation Environment Combining Computer Use × Jev</a></h3>
+<p>A browser automation environment combining Computer Use and Jev has been released for free, enabling faster and more efficient browser operations.</p>
+<p><strong>中文摘要：</strong>一个结合Computer Use和Jev的浏览器操作环境已免费公开，可实现更快速、更高效的浏览器自动化操作。</p>
+<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo · 2026-10-31T22:14:05.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/tetumemo/status/2116654972083540175">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/jason_yingling/status/2116630809255850381"><img src="https://pbs.twimg.com/amplify_video_thumb/2116630725621338112/img/p3DAeJmph30r7eIM.jpg" alt="Talking Pumpkin Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jason_yingling/status/2116630809255850381">Talking Pumpkin Powered by Jev</a></h3>
+<p>The author shares a fun project: using Jev to pick the perfect quote from the boss, combined with GPT live transcription of questions, to build a talking pumpkin.</p>
+<p><strong>中文摘要：</strong>作者分享了一个有趣的项目：用Jev从老板的发言中挑选完美引语，配合GPT实时转录提问，构建一个会说话的南瓜。</p>
+<p><strong>Jason Yingling</strong> · @jason_yingling · 2026-10-31T20:38:04.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/jason_yingling/status/2116630809255850381">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HARNESSROUTER/status/2116628437347819748"><img src="https://pbs.twimg.com/amplify_video_thumb/2116627772387065856/img/IiqbcZSl8Wuv51-C.jpg" alt="Open-source Grok Bot: Combine System One × jev-latest · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HARNESSROUTER/status/2116628437347819748">Open-source Grok Bot: Combine System One × jev-latest</a></h3>
+<p>An open-source Grok Bot that lets you choose your harness and model, with combos like System One × jev-latest for decisions.</p>
+<p><strong>中文摘要：</strong>介绍开源 Grok Bot 中 Harness × 模型组合方式，示例包括 System One × jev-latest 用于决策。</p>
+<p><strong>HarnessRouter</strong> · @HARNESSROUTER · 2026-10-31T20:28:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 236</p>
+<p><a href="https://x.com/HARNESSROUTER/status/2116628437347819748">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Jeff9James/status/2116587767153283401"><img src="https://pbs.twimg.com/amplify_video_thumb/2116587739416281088/img/mmIsx8bCiw5Bqpjq.jpg" alt="Jev-like Multimodal Model Plays Google Word Coach · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Jeff9James/status/2116587767153283401">Jev-like Multimodal Model Plays Google Word Coach</a></h3>
+<p>The video demonstrates a multimodal Jev-like model playing the vocabulary game Google Word Coach, recorded and produced by Instinct.</p>
+<p><strong>中文摘要：</strong>视频展示了多模态Jev类模型在词汇游戏Google Word Coach中的表现，视频由Instinct录制并制作。</p>
+<p><strong>Jeffrin James🆗️</strong> · @Jeff9James · 2026-10-31T17:47:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/Jeff9James/status/2116587767153283401">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 654 | 327 | 330 | 3.6M |
+| 658 | 328 | 333 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tjcages/status/2116622744301310095"><img src="https://pbs.twimg.com/amplify_video_thumb/2116622609429254144/img/gqCBtVz9GfoWuN2s.jpg" alt="Switching AI Models in ChatGPT with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tjcages/status/2116622744301310095">Switching AI Models in ChatGPT with Jev</a></h3>
+<p>A quick demo showing how to switch between AI models in ChatGPT with a three-finger swipe down, using Jev under the hood to decide the best model for each prompt.</p>
+<p><strong>中文摘要：</strong>快速演示：使用三指下滑手势在ChatGPT中切换任意AI模型，底层由Jev判断哪个模型最适合当前提示。</p>
+<p><strong>ty</strong> · @tjcages · 2026-10-31T20:06:01.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 855</p>
+<p><a href="https://x.com/tjcages/status/2116622744301310095">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MikeTamir/status/2116604885466554435"><img src="https://pbs.twimg.com/media/HV-w7S0WwAALXUt?format=jpg&amp;name=medium" alt="Jevgrep: A Jev-powered CLI tool for coding agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MikeTamir/status/2116604885466554435">Jevgrep: A Jev-powered CLI tool for coding agents</a></h3>
+<p>Jevgrep is a new CLI tool for coding agents that uses Jev to locate relevant files and verbatim source excerpts by asking questions of a repo, cutting codebase exploration costs by about 30%.</p>
+<p><strong>中文摘要：</strong>Jevgrep 是一个面向编码智能体的新 CLI 工具，利用 Jev 通过提问来定位仓库中的相关文件和源码片段，可将代码库探索成本降低约 30%。</p>
+<p><strong>Mike Tamir, PhD</strong> · @MikeTamir · 2026-10-31T18:55:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 549</p>
+<p><a href="https://x.com/MikeTamir/status/2116604885466554435">在 X 查看原帖</a> · <a href="https://t.co/0lYrPkhVmn">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/undefinedKi/status/2116596252410359939"><img src="https://pbs.twimg.com/media/HV-on9JWYAApmAr?format=png&amp;name=medium" alt="Jev Dashboard: Extremely Low Usage · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/undefinedKi/status/2116596252410359939">Jev Dashboard: Extremely Low Usage</a></h3>
+<p>The user mentions that the Jev dashboard shows extremely low usage, the balance barely moves, and jokes that $5 will last a lifetime.</p>
+<p><strong>中文摘要：</strong>用户提到 Jev 仪表盘显示使用量极低，余额几乎不变，感叹 $5 能用很久。</p>
+<p><strong>Yarchi</strong> · @undefinedKi · 2026-10-31T18:20:45.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 180</p>
+<p><a href="https://x.com/undefinedKi/status/2116596252410359939">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/undefinedKi/status/2116594043362877769"><img src="https://pbs.twimg.com/media/HV-l13NWsAAcTdl?format=jpg&amp;name=medium" alt="Cut Claude Code costs with jev-router · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/undefinedKi/status/2116594043362877769">Cut Claude Code costs with jev-router</a></h3>
+<p>The author shares how jev-router can cut Claude Code costs by about 40% without losing quality, and mentions testing it firsthand.</p>
+<p><strong>中文摘要：</strong>帖主分享如何通过 jev-router 在保持质量的同时将 Claude Code 的成本降低约 40%，并提到自己进行了实际测试。</p>
+<p><strong>Yarchi</strong> · @undefinedKi · 2026-10-31T18:11:59.000Z</p>
+<p>💬 21 &nbsp; 🔁 1 &nbsp; ♡ 43 &nbsp; 📊 2.0K</p>
+<p><a href="https://x.com/undefinedKi/status/2116594043362877769">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/toriumi_ruma/status/2116424824381960539"><img src="https://pbs.twimg.com/media/HV8NFnqbIAIbvvE?format=jpg&amp;name=medium" alt="Claude Code × Jev Plugin: One-Click Diagram Generation · 原帖图片" width="100%"></a>

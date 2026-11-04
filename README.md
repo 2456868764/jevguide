@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6685</strong><br>curated posts</td>
-<td align="center"><strong>3349</strong><br>original videos</td>
+<td align="center"><strong>6715</strong><br>curated posts</td>
+<td align="center"><strong>3364</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1279</strong> showcases · <strong>537</strong> videos</p>
+<p><strong>1286</strong> showcases · <strong>538</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>654</strong> showcases · <strong>327</strong> videos</p>
+<p><strong>658</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>579</strong> showcases · <strong>257</strong> videos</p>
+<p><strong>580</strong> showcases · <strong>258</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>537</strong> showcases · <strong>301</strong> videos</p>
+<p><strong>541</strong> showcases · <strong>305</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>439</strong> showcases · <strong>183</strong> videos</p>
+<p><strong>441</strong> showcases · <strong>184</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>394</strong> showcases · <strong>157</strong> videos</p>
+<p><strong>398</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>353</strong> showcases · <strong>201</strong> videos</p>
+<p><strong>355</strong> showcases · <strong>203</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>290</strong> showcases · <strong>181</strong> videos</p>
+<p><strong>291</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -108,13 +108,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>133</strong> showcases · <strong>95</strong> videos</p>
+<p><strong>135</strong> showcases · <strong>97</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>118</strong> showcases · <strong>62</strong> videos</p>
+<p><strong>119</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>83</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>84</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>61</strong> showcases · <strong>36</strong> videos</p>
+<p><strong>62</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sawa__it/status/2116440853732372844">Discussion on Jev judgment criteria and bot autonomy</a></h3>
-<p>The post discusses the need to set judgment criteria for Jev, questions whether bots could judge by themselves if criteria exist, and notes the benefit of abstraction to reduce changes when criteria change.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>sawa🖥️IT</strong> · @sawa__it</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CMD_LABS/status/2116720446812877133">Jev Crash Course (16 Minutes)</a></h3>
+<p>COMMAND LABS shares a Jev crash course covering Jev vs. LLMs on speed, cost, and outputs, step-by-step prompting examples, and using images with Jev (multimodality).</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ErwinWu000/status/2116434411109707827"><img src="https://pbs.twimg.com/media/HV8VybNasAET5h3?format=jpg&amp;name=large" alt="Jev Automatically Selects and Arranges Furniture · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ErwinWu000/status/2116434411109707827">Jev Automatically Selects and Arranges Furniture</a></h3>
-<p>Demonstrates Jev automatically selecting and placing furniture in AI-native software, reflecting AI decision-making.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Erwin</strong> · @ErwinWu000</p>
+<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/The1Broom/status/2116713869724795005"><img src="https://pbs.twimg.com/amplify_video_thumb/2116713738225037312/img/FFfTsX5BUSwHpKU_.jpg" alt="3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/The1Broom/status/2116713869724795005">3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong</a></h3>
+<p>The author shares 3 weeks of progress making a supposedly &#39;Pixar-level&#39; animation using Claude Opus with Fable and a Jev grader. The result is so bad it&#39;s hilarious, offering a real-world look at using Jev in a creative pipeline.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>1Broom</strong> · @The1Broom</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/PageIndexAI/status/2116427692140802353"><img src="https://pbs.twimg.com/media/HV8PrUmaMAAUEKc?format=jpg&amp;name=medium" alt="Jev for RAG? Page Search API Announced · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PageIndexAI/status/2116427692140802353">Jev for RAG? Page Search API Announced</a></h3>
-<p>PageIndex announces the Page Search API, claiming it is faster and more accurate than SOTA embedding models, and discusses the Jev decision model&#39;s retrieval performance for RAG.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>PageIndex</strong> · @PageIndexAI</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/codewithimanshu/status/2116705618572763402"><img src="https://pbs.twimg.com/amplify_video_thumb/2116705598960238592/img/ouWLnArz1GLwoHSu.jpg" alt="Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/codewithimanshu/status/2116705618572763402">Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days</a></h3>
+<p>A 19-year-old Japanese student built a trading bot using JEV and Claude in two days, starting with $68 and earning $6,732 on the first night. Total profit now reaches about $750,000. The bot scans over 50 markets simultaneously and syncs live data.</p>
+<p><strong>659</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 9 &nbsp; 📊 659</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/realchendahuang/status/2116425504563900472"><img src="https://pbs.twimg.com/media/HV8NjwoboAA5tW8?format=jpg&amp;name=medium" alt="Fulvwa Adds AI Detection Feature · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/realchendahuang/status/2116425504563900472">Fulvwa Adds AI Detection Feature</a></h3>
-<p>The Fulvwa plugin uses account comment history combined with the Jev model to detect AI-generated content. The plugin is under review and will be shared once approved.</p>
-<p><strong>89</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
-<p><strong>陈大黄</strong> · @realchendahuang</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/appodeepa/status/2116700645713719386"><img src="https://pbs.twimg.com/amplify_video_thumb/2116699609007640576/img/TBEZGTOTDj9FZPYl.jpg" alt="Jev works nicely in an extension · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/appodeepa/status/2116700645713719386">Jev works nicely in an extension</a></h3>
+<p>A user shares that Jev works smoothly in an extension, indicating successful integration and stable performance.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Mike</strong> · @appodeepa</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/sawa__it/status/2116440853732372844"><img src="https://pbs.twimg.com/amplify_video_thumb/2115826854166712320/img/hDYM7FaEmhs8C2wG.jpg" alt="Discussion on Jev judgment criteria and bot autonomy · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/sawa__it/status/2116440853732372844">Discussion on Jev judgment criteria and bot autonomy</a></h3>
-<p>The post discusses the need to set judgment criteria for Jev, questions whether bots could judge by themselves if criteria exist, and notes the benefit of abstraction to reduce changes when criteria change.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>sawa🖥️IT</strong> · @sawa__it</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CMD_LABS/status/2116720446812877133">Jev Crash Course (16 Minutes)</a></h3>
+<p>COMMAND LABS shares a Jev crash course covering Jev vs. LLMs on speed, cost, and outputs, step-by-step prompting examples, and using images with Jev (multimodality).</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/realchendahuang/status/2116425504563900472"><img src="https://pbs.twimg.com/media/HV8NjwoboAA5tW8?format=jpg&amp;name=medium" alt="Fulvwa Adds AI Detection Feature · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/realchendahuang/status/2116425504563900472">Fulvwa Adds AI Detection Feature</a></h3>
-<p>The Fulvwa plugin uses account comment history combined with the Jev model to detect AI-generated content. The plugin is under review and will be shared once approved.</p>
-<p><strong>89</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
-<p><strong>陈大黄</strong> · @realchendahuang</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/appodeepa/status/2116700645713719386"><img src="https://pbs.twimg.com/amplify_video_thumb/2116699609007640576/img/TBEZGTOTDj9FZPYl.jpg" alt="Jev works nicely in an extension · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/appodeepa/status/2116700645713719386">Jev works nicely in an extension</a></h3>
+<p>A user shares that Jev works smoothly in an extension, indicating successful integration and stable performance.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Mike</strong> · @appodeepa</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/toriumi_ruma/status/2116424824381960539"><img src="https://pbs.twimg.com/media/HV8NFnqbIAIbvvE?format=jpg&amp;name=medium" alt="Claude Code × Jev Plugin: One-Click Diagram Generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/toriumi_ruma/status/2116424824381960539">Claude Code × Jev Plugin: One-Click Diagram Generation</a></h3>
-<p>A developer built a plugin combining Claude Code with Jev. It suggests and draws diagrams after long responses, supporting 14 diagram types and light/dark themes.</p>
-<p><strong>18</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 18</p>
-<p><strong>Toriumi: ruma</strong> · @toriumi_ruma</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/javamuffinztx/status/2116699126196805767"><img src="https://pbs.twimg.com/media/HWAGo0MWUAAJUCo?format=jpg&amp;name=medium" alt="Developer integrates Jev System One for AI model routing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/javamuffinztx/status/2116699126196805767">Developer integrates Jev System One for AI model routing</a></h3>
+<p>Developer Milton Smith shares integrating TypeSafe AI&#39;s Jev System One model into his app for AI model routing and other features, reporting significant performance gains over thinking models.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Milton Smith</strong> · @javamuffinztx</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/omnirailorg/status/2116336854257504279"><img src="https://pbs.twimg.com/media/HV1Mce1XUAAFAY0?format=jpg&amp;name=medium" alt="Jev simplifies supervised agent decisions with numeric thresholds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/omnirailorg/status/2116336854257504279">Jev simplifies supervised agent decisions with numeric thresholds</a></h3>
-<p>The hard part of a supervised agent is how often to ask the human: too often and they stop reading, too rarely and something slips through. Jev gives a number from 0 to 1: above 0.9 the agent proceeds, below 0.1 it stops, and in between it asks.</p>
-<p><strong>42</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 42</p>
-<p><strong>OmniRail</strong> · @omnirailorg</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/tetumemo/status/2116654972083540175"><img src="https://pbs.twimg.com/amplify_video_thumb/2100853279089647616/img/H6altwjZQ28_1bfY.jpg" alt="Free Browser Automation Environment Combining Computer Use × Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/tetumemo/status/2116654972083540175">Free Browser Automation Environment Combining Computer Use × Jev</a></h3>
+<p>A browser automation environment combining Computer Use and Jev has been released for free, enabling faster and more efficient browser operations.</p>
+<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
 </td>
 </tr>
 </table>

@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 394 | 157 | 237 | 419K |
+| 398 | 158 | 240 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/CMD_LABS/status/2116720446812877133">Jev Crash Course (16 Minutes)</a></h3>
+<p>COMMAND LABS shares a Jev crash course covering Jev vs. LLMs on speed, cost, and outputs, step-by-step prompting examples, and using images with Jev (multimodality).</p>
+<p><strong>中文摘要：</strong>COMMAND LABS 发布 Jev 速成课程，介绍 Jev 与 LLM 在速度、成本和输出上的对比，逐步演示如何提示 Jev，并展示图像多模态用法。</p>
+<p><strong>COMMAND LABS</strong> · @CMD_LABS · 2026-11-01T02:34:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/CMD_LABS/status/2116720446812877133">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Stanllll6o/status/2116681864270512589"><img src="https://pbs.twimg.com/media/HV_27_SaAAAN3rD?format=jpg&amp;name=medium" alt="Jev Harness Building Guide PDF Released · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Stanllll6o/status/2116681864270512589">Jev Harness Building Guide PDF Released</a></h3>
+<p>The post mentions Jev&#39;s founder released a 12-page PDF detailing how to build Jev Harness, claiming it can make coding agents 200x faster and cost 4x less.</p>
+<p><strong>中文摘要：</strong>文章提及Jev创始人发布了12页PDF，详细介绍如何构建Jev Harness，声称可使编码代理速度提升200倍、成本降低4倍。</p>
+<p><strong>离岸工具包🎒</strong> · @Stanllll6o · 2026-11-01T00:00:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/Stanllll6o/status/2116681864270512589">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0x_rody/status/2116635478464278919"><img src="https://pbs.twimg.com/amplify_video_thumb/2116635403344285696/img/C_nzWZr0nUkbDIR6.jpg" alt="Jev API Experiment Checklist: Agent Desktop Automation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0x_rody/status/2116635478464278919">Jev API Experiment Checklist: Agent Desktop Automation</a></h3>
+<p>rody shares the potential of Jev + Grok bot and provides a checklist for getting started with the Jev API, including desktop automation via agent-desktop reading the system accessibility tree.</p>
+<p><strong>中文摘要：</strong>rody 分享 Jev + Grok bot 的潜力，并给出使用 Jev API 的入门清单，包括通过 agent-desktop 读取系统辅助功能树进行桌面自动化。</p>
+<p><strong>rody</strong> · @0x_rody · 2026-10-31T20:56:37.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 41 &nbsp; 📊 1.2K</p>
+<p><a href="https://x.com/0x_rody/status/2116635478464278919">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DistillAI1/status/2116606162816917898"><img src="https://pbs.twimg.com/media/HV-yFrSaMAA1hkb?format=jpg&amp;name=medium" alt="Curated List of Tools for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DistillAI1/status/2116606162816917898">Curated List of Tools for Jev</a></h3>
+<p>Distill AI curated a list of tools built for Jev, TypeSafe AI&#39;s System One model for typed decisions. It has 734 stars and is growing, serving as a useful reference for developers in the typed AI decision space.</p>
+<p><strong>中文摘要：</strong>Distill AI 整理了一份为 TypeSafe AI 的 Jev 模型（System One，类型化决策）构建的工具列表，已获得 734 颗星并持续增长，适合在类型化 AI 决策领域工作的开发者参考。</p>
+<p><strong>Distill AI</strong> · @DistillAI1 · 2026-10-31T19:00:08.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/DistillAI1/status/2116606162816917898">在 X 查看原帖</a> · <a href="https://t.co/qkSnu0Qzkp">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ErenAILab/status/2116150086321279378"><img src="https://pbs.twimg.com/media/HV4NNOTXYAAkNmd?format=png&amp;name=900x900" alt="Jev RAG Benchmark Fully Updated · 原帖图片" width="100%"></a>

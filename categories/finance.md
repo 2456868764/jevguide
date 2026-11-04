@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 353 | 201 | 154 | 1.2M |
+| 355 | 203 | 154 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/codewithimanshu/status/2116705618572763402"><img src="https://pbs.twimg.com/amplify_video_thumb/2116705598960238592/img/ouWLnArz1GLwoHSu.jpg" alt="Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/codewithimanshu/status/2116705618572763402">Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days</a></h3>
+<p>A 19-year-old Japanese student built a trading bot using JEV and Claude in two days, starting with $68 and earning $6,732 on the first night. Total profit now reaches about $750,000. The bot scans over 50 markets simultaneously and syncs live data.</p>
+<p><strong>中文摘要：</strong>一名19岁日本学生使用JEV与Claude在两天内开发了交易机器人，初始资金68美元，首晚盈利6,732美元，目前总利润约75万美元。该机器人可同时扫描50多个市场并同步实时数据。</p>
+<p><strong>Himanshu Kumar</strong> · @codewithimanshu · 2026-11-01T01:35:20.000Z</p>
+<p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 9 &nbsp; 📊 659</p>
+<p><a href="https://x.com/codewithimanshu/status/2116705618572763402">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2116693021118849275"><img src="https://pbs.twimg.com/amplify_video_thumb/2116692448093069312/img/HybeqP_8yJqsgR4l.jpg" alt="$BRAIN goes live on Robinhood Chain, BrainChain run autonomously by AI agents incl. Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2116693021118849275">$BRAIN goes live on Robinhood Chain, BrainChain run autonomously by AI agents incl. Jev</a></h3>
+<p>BrainChain announces that the $BRAIN token is now live on Robinhood Chain, launched by BrainChain on ripplesdotrun. BrainChain is a blockchain run autonomously by AI agents: Jev hires frontier models and outside workers, and pays only for work it accepts.</p>
+<p><strong>中文摘要：</strong>BrainChain 宣布 $BRAIN 代币已在 Robinhood Chain 上线，由 BrainChain 在 ripplesdotrun 推出。BrainChain 是一个由 AI 代理自主运行的区块链，其中 Jev 负责雇佣前沿模型和外部工作者，并只为接受的工作付费。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-01T00:45:17.000Z</p>
+<p>💬 4 &nbsp; 🔁 8 &nbsp; ♡ 10 &nbsp; 📊 212</p>
+<p><a href="https://x.com/usebrainchain/status/2116693021118849275">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nickwumac/status/2116347101831651638"><img src="https://pbs.twimg.com/media/HV7GeT-acAAJSsM?format=jpg&amp;name=medium" alt="Using Jev for Auto-Categorization in a Personal Budget App · 原帖图片" width="100%"></a>

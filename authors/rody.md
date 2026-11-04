@@ -1,9 +1,10 @@
 # rody
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-10-31T20:56:37.000Z | [Jev API Experiment Checklist: Agent Desktop Automation](https://x.com/0x_rody/status/2116635478464278919) | 开发资源 | rody | 1.2K |
 | 2026-10-30T15:04:49.000Z | [The Future Impact of Jev and Grok Bot](https://x.com/0x_rody/status/2116184554281009647) | 智能体 | rody | 119 |
 | 2026-10-25T16:58:56.000Z | [Putting Jev (TypeSafe System One) in front of Grok Bot](https://x.com/0x_rody/status/2114401336393343412) | 自动化工作流 | rody | 1.1K |
 | 2026-10-24T17:15:51.000Z | [Jev cuts agent fleet monthly cost from $397 to $33](https://x.com/0x_rody/status/2114043203326509154) | 智能体 | rody | 1.5K |

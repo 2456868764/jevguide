@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 439 | 183 | 256 | 802K |
+| 441 | 184 | 257 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/appodeepa/status/2116700645713719386"><img src="https://pbs.twimg.com/amplify_video_thumb/2116699609007640576/img/TBEZGTOTDj9FZPYl.jpg" alt="Jev works nicely in an extension · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/appodeepa/status/2116700645713719386">Jev works nicely in an extension</a></h3>
+<p>A user shares that Jev works smoothly in an extension, indicating successful integration and stable performance.</p>
+<p><strong>中文摘要：</strong>用户分享称 Jev 在扩展中运行顺畅，表明其已成功集成并稳定工作。</p>
+<p><strong>Mike</strong> · @appodeepa · 2026-11-01T01:15:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/appodeepa/status/2116700645713719386">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ryo_dg/status/2116571565550981311"><img src="https://pbs.twimg.com/media/HV-RxvcaIAAjsV1?format=png&amp;name=medium" alt="Recipe app mog uses Jev to speed up AI search · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ryo_dg/status/2116571565550981311">Recipe app mog uses Jev to speed up AI search</a></h3>
+<p>Ryo Nakae shares ongoing improvements to his recipe app mog, recently using Jev in the AI search feature to roughly halve search time.</p>
+<p><strong>中文摘要：</strong>Ryo Nakae分享其食谱应用mog的持续改进，最近在AI搜索功能中使用Jev，使搜索时间缩短约一半。</p>
+<p><strong>Ryo Nakae</strong> · @ryo_dg · 2026-10-31T16:42:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 588</p>
+<p><a href="https://x.com/ryo_dg/status/2116571565550981311">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ThirteenYizuka/status/2116314492862935083"><img src="https://pbs.twimg.com/media/HV6ow2BaIAAjqDl?format=jpg&amp;name=medium" alt="TokenRouter Adapts Jev Image Recognition and Box · 原帖图片" width="100%"></a>

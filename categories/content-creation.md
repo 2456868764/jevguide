@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 133 | 95 | 41 | 101K |
+| 135 | 97 | 41 | 101K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/The1Broom/status/2116713869724795005"><img src="https://pbs.twimg.com/amplify_video_thumb/2116713738225037312/img/FFfTsX5BUSwHpKU_.jpg" alt="3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/The1Broom/status/2116713869724795005">3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong</a></h3>
+<p>The author shares 3 weeks of progress making a supposedly &#39;Pixar-level&#39; animation using Claude Opus with Fable and a Jev grader. The result is so bad it&#39;s hilarious, offering a real-world look at using Jev in a creative pipeline.</p>
+<p><strong>中文摘要：</strong>作者分享了使用 Claude Opus 配合 fable 与 Jev 评分器制作所谓“皮克斯级”动画的 3 周进展，成果糟糕到让人发笑，展示了 Jev 在真实创作流程中的使用体验。</p>
+<p><strong>1Broom</strong> · @The1Broom · 2026-11-01T02:08:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/The1Broom/status/2116713869724795005">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheBCHPodcast/status/2116611092101398625"><img src="https://pbs.twimg.com/amplify_video_thumb/2116610156716859392/img/NIusXE1VB77eMHPa.jpg" alt="The Bitcoin Cash Podcast #192: Does Jev Represent an AI Paradigm Shift? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>内容创作</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheBCHPodcast/status/2116611092101398625">The Bitcoin Cash Podcast #192: Does Jev Represent an AI Paradigm Shift?</a></h3>
+<p>The episode demos PagoConBit for BCH payments, discusses 1-minute blocks, and whether Jev might be an AI paradigm shift.</p>
+<p><strong>中文摘要：</strong>节目演示了 PagoConBit 的 BCH 支付项目，讨论了 1 分钟区块，以及 Jev 是否算得上 AI 范式转变等话题。</p>
+<p><strong>The Bitcoin Cash Podcast</strong> · @TheBCHPodcast · 2026-10-31T19:19:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 255</p>
+<p><a href="https://x.com/TheBCHPodcast/status/2116611092101398625">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CarolLiang7/status/2116264650496991605"><img src="https://pbs.twimg.com/amplify_video_thumb/2116251576616595456/img/JLw1Oronz-EcHEIQ.jpg" alt="Generate Art Programmatically with Jev: Cheaper and Faster than Reasoning Models · 原帖视频截图" width="100%"></a>

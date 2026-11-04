@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 292 | 182 | 110 | 595K |
+| 294 | 182 | 112 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MoyuruAizawa/status/2116978271334400364"><img src="https://pbs.twimg.com/media/HWEA__zbcAA1tJP?format=png&amp;name=small" alt="Use Jev to filter tweets and reduce Grok workload · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MoyuruAizawa/status/2116978271334400364">Use Jev to filter tweets and reduce Grok workload</a></h3>
+<p>The author uses GrokBot to collect hot snowboarding tweets and post them to Slack daily. To avoid wasting Grok on reading all tweets from a 24-hour window, they introduced Jev to pre-screen the tweets before sending them to Grok. After the change, the number of tweets Grok needs to read dropped from 149 to 39.</p>
+<p><strong>中文摘要：</strong>作者用GrokBot收集滑雪相关热门推文并发布到Slack，但让Grok读取24小时全部推文效率太低，因此引入Jev先进行筛选，再将筛选结果交给Grok。改进后，Grok需要读取的推文从149件减少到39件。</p>
+<p><strong>Moyuru Aizawa</strong> · @MoyuruAizawa · 2026-11-01T19:38:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 278</p>
+<p><a href="https://x.com/MoyuruAizawa/status/2116978271334400364">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/farhaduneci/status/2116976965080985669"><img src="https://pbs.twimg.com/media/HWD_cFJWgAAToB7?format=jpg&amp;name=medium" alt="Jev Email Categorization Decision Configuration · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/farhaduneci/status/2116976965080985669">Jev Email Categorization Decision Configuration</a></h3>
+<p>Describes using Jev as a decision model for email categorization, allowing custom actions per category and always forwarding uncertain content.</p>
+<p><strong>中文摘要：</strong>介绍使用Jev作为决策模型处理邮件分类，支持自定义每类邮件的操作，并对不确定内容始终转发。</p>
+<p><strong>Farhad Uneci</strong> · @farhaduneci · 2026-11-01T19:33:34.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><a href="https://x.com/farhaduneci/status/2116976965080985669">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LiLensss/status/2116792828315771162"><img src="https://pbs.twimg.com/media/HWBbtVbasAAx7vl?format=jpg&amp;name=medium" alt="BU Ultrafast: Jev-Powered Automation Engine · 原帖图片" width="100%"></a>

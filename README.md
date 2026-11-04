@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6765</strong><br>curated posts</td>
-<td align="center"><strong>3382</strong><br>original videos</td>
+<td align="center"><strong>6791</strong><br>curated posts</td>
+<td align="center"><strong>3391</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1298</strong> showcases · <strong>544</strong> videos</p>
+<p><strong>1305</strong> showcases · <strong>545</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>661</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>662</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>616</strong> showcases · <strong>272</strong> videos</p>
+<p><strong>617</strong> showcases · <strong>273</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>585</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>586</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>549</strong> showcases · <strong>306</strong> videos</p>
+<p><strong>554</strong> showcases · <strong>306</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>360</strong> showcases · <strong>206</strong> videos</p>
+<p><strong>364</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>292</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>294</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>185</strong> showcases · <strong>140</strong> videos</p>
+<p><strong>188</strong> showcases · <strong>142</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>138</strong> showcases · <strong>68</strong> videos</p>
+<p><strong>139</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -154,7 +154,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>48</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>49</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/kingmijinko/status/2117084288583905673"><img src="https://pbs.twimg.com/media/HWFj3FPaMAA2ho4?format=png&amp;name=900x900" alt="Discussion on JEV AI Limitations in Trading · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kingmijinko/status/2117084288583905673">Discussion on JEV AI Limitations in Trading</a></h3>
-<p>The post mentions that JEV AI returns quality judgments and quantification results, easy to judge programmatically, but whether trading succeeds with it remains subtle.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>mildmijinko</strong> · @kingmijinko</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Studio_UXM/status/2117127434508320970"><img src="https://pbs.twimg.com/media/HWGMKi4boAEU2gR?format=jpg&amp;name=medium" alt="Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Studio_UXM/status/2117127434508320970">Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing</a></h3>
+<p>The author shares a hands-on session using TypeSafe AI&#39;s Jev and OpenAI Decisions API for a prefecture-guessing game, discovering differing opinions on &#39;okonomiyaki&#39; and discussing differences in decision-specialized AI.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Studio UXM</strong> · @Studio_UXM</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/gkvoelkl/status/2116910253422027156"><img src="https://pbs.twimg.com/media/HWDGp1mWUAAfCZJ?format=jpg&amp;name=large" alt="Build an ant colony in your browser: steer a decision model with one sentence · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gkvoelkl/status/2116910253422027156">Build an ant colony in your browser: steer a decision model with one sentence</a></h3>
-<p>This 8-step tutorial uses Python and Streamlit to build an ant colony simulation where every ant asks a decision model where to go and you, the queen, steer it with one sentence. Available in English and German.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
-<p><strong>Gerhard Völkl 🐘 @gkvoelkl@sueden.social</strong> · @gkvoelkl</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/eXpresser_UXM/status/2117127327847182604"><img src="https://pbs.twimg.com/media/HWGLlwcbgAA1-sr?format=jpg&amp;name=medium" alt="Hands-on with Jev: AI Disagrees on Okonomiyaki&#39;s Prefecture · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/eXpresser_UXM/status/2117127327847182604">Hands-on with Jev: AI Disagrees on Okonomiyaki&#39;s Prefecture</a></h3>
+<p>The author played a prefecture-guessing game using TypeSafe AI&#39;s Jev and OpenAI&#39;s Decisions API, finding they disagreed on which prefecture okonomiyaki belongs to. A hands-on comparison of decision-specialized AIs.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>eXpresser</strong> · @eXpresser_UXM</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/gkvoelkl/status/2116909797865890091"><img src="https://pbs.twimg.com/media/HWDGPayXcAAoSmx?format=jpg&amp;name=medium" alt="Simulate an Ant Colony in the Browser with the Jev Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gkvoelkl/status/2116909797865890091">Simulate an Ant Colony in the Browser with the Jev Decision Model</a></h3>
-<p>An 8-step tutorial using Python and Streamlit to build an ant colony simulation: each ant uses the Jev decision model to decide where to go, and you control the colony as the queen with a single sentence. Available in German and English.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Gerhard Völkl 🐘 @gkvoelkl@sueden.social</strong> · @gkvoelkl</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/SaurabhDub28465/status/2117124459559882921"><img src="https://pbs.twimg.com/amplify_video_thumb/2117124441985699840/img/T-lfeQdj39qO_8ac.jpg" alt="RAG vs. retriever-free RAG explained, powered by decision models like Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SaurabhDub28465/status/2117124459559882921">RAG vs. retriever-free RAG explained, powered by decision models like Jev</a></h3>
+<p>The post compares standard RAG with retriever-free RAG, explaining that standard RAG splits documents into chunks, embeds them, stores them in a vector index, and retrieves top-k chunks for queries, noting it is powered by decision models like Jev.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Saurabh Dubey</strong> · @SaurabhDub28465</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/davidwbressler/status/2116908205435466077"><img src="https://pbs.twimg.com/media/HWDEy5aXEAABKM6?format=png&amp;name=medium" alt="Jev achieves 91.36% accuracy on BANKING77 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/davidwbressler/status/2116908205435466077">Jev achieves 91.36% accuracy on BANKING77</a></h3>
-<p>Jev full casebook achieves 91.36% accuracy on BANKING77; with 32 retrieved examples it reaches 88.70%, using the same 2,446-record pool and extended context, yielding 82 more correct decisions across 3,080 cases. Recorded inference cost was $10.92 versus $0.37.</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>David Bressler</strong> · @davidwbressler</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/lachlanscards/status/2117113429970612297"><img src="https://pbs.twimg.com/tweet_video_thumb/HWF_cNvbYAAcqwL.jpg" alt="Jev is a closed, hosted API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lachlanscards/status/2117113429970612297">Jev is a closed, hosted API</a></h3>
+<p>This post states that Jev is a closed, hosted API and therefore cannot be run locally.</p>
+<p><strong>100</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 100</p>
+<p><strong>Lachlan&#39;s Cards</strong> · @lachlanscards</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/kingmijinko/status/2117084288583905673"><img src="https://pbs.twimg.com/media/HWFj3FPaMAA2ho4?format=png&amp;name=900x900" alt="Discussion on JEV AI Limitations in Trading · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kingmijinko/status/2117084288583905673">Discussion on JEV AI Limitations in Trading</a></h3>
-<p>The post mentions that JEV AI returns quality judgments and quantification results, easy to judge programmatically, but whether trading succeeds with it remains subtle.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>mildmijinko</strong> · @kingmijinko</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Studio_UXM/status/2117127434508320970"><img src="https://pbs.twimg.com/media/HWGMKi4boAEU2gR?format=jpg&amp;name=medium" alt="Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Studio_UXM/status/2117127434508320970">Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing</a></h3>
+<p>The author shares a hands-on session using TypeSafe AI&#39;s Jev and OpenAI Decisions API for a prefecture-guessing game, discovering differing opinions on &#39;okonomiyaki&#39; and discussing differences in decision-specialized AI.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Studio UXM</strong> · @Studio_UXM</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/davidwbressler/status/2116908205435466077"><img src="https://pbs.twimg.com/media/HWDEy5aXEAABKM6?format=png&amp;name=medium" alt="Jev achieves 91.36% accuracy on BANKING77 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/davidwbressler/status/2116908205435466077">Jev achieves 91.36% accuracy on BANKING77</a></h3>
-<p>Jev full casebook achieves 91.36% accuracy on BANKING77; with 32 retrieved examples it reaches 88.70%, using the same 2,446-record pool and extended context, yielding 82 more correct decisions across 3,080 cases. Recorded inference cost was $10.92 versus $0.37.</p>
-<p><strong>4</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>David Bressler</strong> · @davidwbressler</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/lachlanscards/status/2117113429970612297"><img src="https://pbs.twimg.com/tweet_video_thumb/HWF_cNvbYAAcqwL.jpg" alt="Jev is a closed, hosted API · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lachlanscards/status/2117113429970612297">Jev is a closed, hosted API</a></h3>
+<p>This post states that Jev is a closed, hosted API and therefore cannot be run locally.</p>
+<p><strong>100</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 100</p>
+<p><strong>Lachlan&#39;s Cards</strong> · @lachlanscards</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ForgeAI_gg/status/2116902051602993342"><img src="https://pbs.twimg.com/media/HWC_MspXoAAm0nS?format=jpg&amp;name=medium" alt="ForgeAI testing: JEV drives agents through nearly 3,000 moves · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ForgeAI_gg/status/2116902051602993342">ForgeAI testing: JEV drives agents through nearly 3,000 moves</a></h3>
-<p>ForgeAI reports: 10 runs, 6 models, 2,949 moves total; top five finished within 85 points. On ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
-<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/KinGao476942/status/2117112240331771912"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev Large Model Powers Contact Search for Lead Generation · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/KinGao476942/status/2117112240331771912">Jev Large Model Powers Contact Search for Lead Generation</a></h3>
+<p>This application showcases a Jev-powered AI agent that quickly finds target people and potential clients, with each solid lead costing only $0.00089, far below comparable past solutions.</p>
+<p><strong>555</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 555</p>
+<p><strong>Kin</strong> · @KinGao476942</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2116833148545782255"><img src="https://pbs.twimg.com/media/HWCAh_qXUAA8yEF?format=jpg&amp;name=medium" alt="Jev Decides BrainChain Governance Proposals · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2116833148545782255">Jev Decides BrainChain Governance Proposals</a></h3>
-<p>Any agent can bond 250,000 $BRAIN to submit a contract change proposal. Jev decides within seven days. Adopted changes take effect after 48 hours and the bond is returned; rejected proposals lose the bond.</p>
-<p><strong>222</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 222</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/rise_raise_ai/status/2117060120383197661"><img src="https://pbs.twimg.com/media/HV9pmatWAAApmu2?format=jpg&amp;name=medium" alt="TypeSafe Jev: A System One Model That Returns Only Decisions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/rise_raise_ai/status/2117060120383197661">TypeSafe Jev: A System One Model That Returns Only Decisions</a></h3>
+<p>Introduces TypeSafe&#39;s Jev model, which focuses on classification, scoring, and routing tasks, avoiding verbose prose and returning only typed, calibrated results.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Rise-Raise</strong> · @rise_raise_ai</p>
 </td>
 </tr>
 </table>

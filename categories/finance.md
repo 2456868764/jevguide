@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 360 | 206 | 156 | 1.2M |
+| 364 | 209 | 157 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rinrin9986xl/status/2117090972270240195"><img src="https://pbs.twimg.com/amplify_video_thumb/2117090935486201856/img/XLcLzjfD0YUHL9Pz.jpg" alt="Jev Trading Analysis System Reviews Polymarket Tesla Roadster Market · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rinrin9986xl/status/2117090972270240195">Jev Trading Analysis System Reviews Polymarket Tesla Roadster Market</a></h3>
+<p>A trader bought YES at $0.10 per share for $19,268, and 7 minutes later the Tesla Roadster actually took off. The post shows how to connect the Polymarket market to the QuantBot × Jev trading analysis system for a full review.</p>
+<p><strong>中文摘要：</strong>一名交易者以19,268美元、每股10美分的成本买入YES，7分钟后特斯拉Roadster成功起飞。该帖子展示了如何将Polymarket市场接入QuantBot × Jev交易分析系统进行全程复盘。</p>
+<p><strong>区块使者</strong> · @rinrin9986xl · 2026-11-02T03:06:36.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 121</p>
+<p><a href="https://x.com/rinrin9986xl/status/2117090972270240195">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/kingmijinko/status/2117084288583905673"><img src="https://pbs.twimg.com/media/HWFj3FPaMAA2ho4?format=png&amp;name=900x900" alt="Discussion on JEV AI Limitations in Trading · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,43 @@
 <p><strong>mildmijinko</strong> · @kingmijinko · 2026-11-02T02:40:02.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/kingmijinko/status/2117084288583905673">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HodlReaper/status/2117027084740808977"><img src="https://pbs.twimg.com/amplify_video_thumb/2117026918025351168/img/kznhijLVHljJbsW1.jpg" alt="Jev AI bot earns 11 SOL overnight · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HodlReaper/status/2117027084740808977">Jev AI bot earns 11 SOL overnight</a></h3>
+<p>User shares a real case where the Jev model autonomously managed Grok Bot trading permissions overnight, growing 0.8 SOL to 11.82 SOL.</p>
+<p><strong>中文摘要：</strong>用户分享Jev模型在睡眠期间自动管理Grok Bot交易权限，将0.8 SOL增值至11.82 SOL的真实案例。</p>
+<p><strong>HodlReaper</strong> · @HodlReaper · 2026-11-01T22:52:44.000Z</p>
+<p>💬 10 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/HodlReaper/status/2117027084740808977">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xAIGOAT/status/2117004535122026845"><img src="https://pbs.twimg.com/amplify_video_thumb/2117004121853112320/img/w9WwpH9hPLCasBdM.jpg" alt="Managing a Trading Bot with Jev Tools · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xAIGOAT/status/2117004535122026845">Managing a Trading Bot with Jev Tools</a></h3>
+<p>The post shows how a trading bot is handed to Grok for management, using Jev tools to read market data while removing direct trading permissions.</p>
+<p><strong>中文摘要：</strong>帖子展示如何将交易机器人交给 Grok 管理，使用 Jev 工具读取市场数据，并移除直接交易权限。</p>
+<p><strong>AI_GOAT</strong> · @0xAIGOAT · 2026-11-01T21:23:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 18 &nbsp; 📊 577</p>
+<p><a href="https://x.com/0xAIGOAT/status/2117004535122026845">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Ox_Shinji/status/2116973548946481543"><img src="https://pbs.twimg.com/media/HWB1oweagAAGptv?format=jpg&amp;name=medium" alt="24/7 Trading Agents with Opus 5.5 + Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Ox_Shinji/status/2116973548946481543">24/7 Trading Agents with Opus 5.5 + Jev</a></h3>
+<p>The post recommends combining Opus 5.5 and Jev to build 24/7 AI trading bots, mentioning a 6-page research paper on discovering profitable strategies around the clock.</p>
+<p><strong>中文摘要：</strong>该帖推荐使用 Opus 5.5 与 Jev 的组合打造全天候 AI 交易机器人，并提到撰写了一份 6 页研究论文，用于发现盈利策略。</p>
+<p><strong>Shinji</strong> · @Ox_Shinji · 2026-11-01T19:20:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/Ox_Shinji/status/2116973548946481543">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/davidwbressler/status/2116908205435466077"><img src="https://pbs.twimg.com/media/HWDEy5aXEAABKM6?format=png&amp;name=medium" alt="Jev achieves 91.36% accuracy on BANKING77 · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 84 | 27 | 57 | 82K |
+| 86 | 27 | 59 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/simo_temprl/status/2117213191063367689"><img src="https://pbs.twimg.com/media/HWHaJ5qaUAI1oLU?format=png&amp;name=medium" alt="Internal Evaluation of Jev 1.14 on Safety Benchmarks: Performance and Cost Advantage · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/simo_temprl/status/2117213191063367689">Internal Evaluation of Jev 1.14 on Safety Benchmarks: Performance and Cost Advantage</a></h3>
+<p>Temprl Labs shared an internal eval: Jev 1.14 achieves a median check time of 706ms across 881 safety prompts, Macro F1 of 86.1, and about a quarter of GPT-6 Luna&#39;s cost per check.</p>
+<p><strong>中文摘要：</strong>Temprl Labs 披露内部评估：Jev 1.14 在 881 个安全提示中位检查时间 706ms，Macro F1 为 86.1，单次检查成本约为 GPT-6 Luna 的四分之一。</p>
+<p><strong>Simo By Temprl Labs</strong> · @simo_temprl · 2026-11-02T11:12:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 22</p>
+<p><a href="https://x.com/simo_temprl/status/2117213191063367689">在 X 查看原帖</a> · <a href="https://t.co/d1lJG7gKiZ">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/simo_temprl/status/2117211444613988549"><img src="https://pbs.twimg.com/media/HWHYhOSbMAEJZ64?format=png&amp;name=medium" alt="Jev 1.14 Performs Strongly in AI Agent Security Tests · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/simo_temprl/status/2117211444613988549">Jev 1.14 Performs Strongly in AI Agent Security Tests</a></h3>
+<p>In an internal evaluation by Temprl Labs, Jev 1.14 caught all 25 attacks across 50 hand-written AI agent security cases (prompt injection, poisoned tool calls, output data leaking, plus safe look-alikes). GPT-6 Luna caught 23. Median responses: 408ms, 512ms, 1.96s.</p>
+<p><strong>中文摘要：</strong>Temprl Labs 的内部评估显示，Jev 1.14 在 50 个手写 AI Agent 安全用例（包括提示注入、投毒工具调用、输出数据泄露及其安全相似用例）中捕获了全部 25 个攻击，GPT-6 Luna 捕获 23 个，中位响应时间分别为 408ms、512ms 和 1.96s。</p>
+<p><strong>Simo By Temprl Labs</strong> · @simo_temprl · 2026-11-02T11:05:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 187</p>
+<p><a href="https://x.com/simo_temprl/status/2117211444613988549">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/RodneyLabNotes/status/2116602539801989262"><img src="https://pbs.twimg.com/media/HV-uq_PXIAAryBT?format=jpg&amp;name=medium" alt="Jev Model Gated Run Test Results Released · 原帖图片" width="100%"></a>

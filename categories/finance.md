@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 364 | 209 | 157 | 1.2M |
+| 366 | 209 | 159 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2117236250600214849"><img src="https://pbs.twimg.com/media/HWHvJpfa0AA8RH0?format=jpg&amp;name=medium" alt="AUD/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2117236250600214849">AUD/USD AI Long Scenario with Jev Review</a></h3>
+<p>HadoHunter posts an AI long scenario for AUD/USD: entry 0.70101, target 0.70298, stop 0.70080, reward/risk 9.38. Uptrend but pattern leans bearish; Jev recommends review (16% certainty).</p>
+<p><strong>中文摘要：</strong>HadoHunter发布AUD/USD的AI看涨交易情景：入场0.70101，目标0.70298，止损0.70080，风险回报比9.38。趋势向上但形态偏空，Jev建议审查（确定性16%）。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-02T12:43:53.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/hadohunter/status/2117236250600214849">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2117141141548372075"><img src="https://pbs.twimg.com/media/HWGYpjvbcAAqzTN?format=jpg&amp;name=medium" alt="EUR/USD AI Short Signal: Jev Assessment Not Supported · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2117141141548372075">EUR/USD AI Short Signal: Jev Assessment Not Supported</a></h3>
+<p>This post presents a short-term short scenario for EUR/USD: entry 1.11817, target 1.11403, stop 1.11934, reward/risk 3.54. Despite a bullish-leaning pattern, the trend is down. Jev model rates the scenario as not supported (certainty 11%).</p>
+<p><strong>中文摘要：</strong>该帖子发布EUR/USD短线做空场景：入场1.11817，目标1.11403，止损1.11934，盈亏比3.54。尽管形态偏多，但处于下跌趋势中。Jev模型对此场景给出不支持（确定性11%）的评估。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-02T06:25:57.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/hadohunter/status/2117141141548372075">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rinrin9986xl/status/2117090972270240195"><img src="https://pbs.twimg.com/amplify_video_thumb/2117090935486201856/img/XLcLzjfD0YUHL9Pz.jpg" alt="Jev Trading Analysis System Reviews Polymarket Tesla Roadster Market · 原帖视频截图" width="100%"></a>

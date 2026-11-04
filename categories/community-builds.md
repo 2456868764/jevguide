@@ -4,12 +4,71 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1305 | 545 | 767 | 3.0M |
+| 1311 | 549 | 769 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/lenny_enderle/status/2117240919409787348"><img src="https://pbs.twimg.com/amplify_video_thumb/2117240775259873280/img/-It-9g0hiXzfHv83.jpg" alt="Using Jev to Filter Founder Demo Posts · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/lenny_enderle/status/2117240919409787348">Using Jev to Filter Founder Demo Posts</a></h3>
+<p>Sharing a real workflow: using Jev to narrow down 86 demo posts on X to 42, ending up with verified emails and drafts, showcasing Jev&#39;s use in information filtering and lead generation.</p>
+<p><strong>中文摘要：</strong>分享一个实际工作流：用Jev将X上的86条演示帖子精简到42条，最终获得经过验证的邮箱和草稿，展示了Jev在信息筛选和线索挖掘中的应用。</p>
+<p><strong>Lenny Enderle</strong> · @lenny_enderle · 2026-11-02T13:02:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 13</p>
+<p><a href="https://x.com/lenny_enderle/status/2117240919409787348">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AutomatitDevOps/status/2117218484539085009"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117218444915449856/pu/img/pEbcM_4pBF2bib0Q.jpg" alt="Breakfast &amp; Learn: Typed Decisions with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AutomatitDevOps/status/2117218484539085009">Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
+<p>Automat-it is hosting a Breakfast &amp; Learn on November 16 to explore why Jev&#39;s typed decision model wins on speed, cost &amp; predictability in agent steps.</p>
+<p><strong>中文摘要：</strong>Automat-it 将于11月16日举办早餐学习会，介绍为何在智能体步骤中使用Jev类型化决策模型能在速度、成本和可预测性上胜出。</p>
+<p><strong>Automat-it</strong> · @AutomatitDevOps · 2026-11-02T11:33:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/AutomatitDevOps/status/2117218484539085009">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NANDEMO_BUILD/status/2117196806824271955"><img src="https://pbs.twimg.com/amplify_video_thumb/2117196599206223872/img/eU-XwHmuyTyAv1hI.jpg" alt="Scoring 3D room designs with Jev&#39;s image recognition · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NANDEMO_BUILD/status/2117196806824271955">Scoring 3D room designs with Jev&#39;s image recognition</a></h3>
+<p>A creator built a 3D room in Meshy and used Jev&#39;s new image recognition feature to grade the design. Furniture objects are separated for repositioning, while sets like chairs and tables are auto-grouped by Meshy.</p>
+<p><strong>中文摘要：</strong>创作者用Meshy制作3D房间模型，并利用Jev新增的图像识别功能对设计进行评分。家具按可移动方式拆分，而椅子、桌子等成套物件由Meshy自动合并。</p>
+<p><strong>赤池ラムネ@なんでもクリエイター</strong> · @NANDEMO_BUILD · 2026-11-02T10:07:09.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 76</p>
+<p><a href="https://x.com/NANDEMO_BUILD/status/2117196806824271955">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/pavle_dav/status/2117157260409618440"><img src="https://pbs.twimg.com/media/HWGZcBHWMAA2k1b?format=jpg&amp;name=medium" alt="Which Decision AI Model to Choose? TypeSafe Jev Option Explained · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/pavle_dav/status/2117157260409618440">Which Decision AI Model to Choose? TypeSafe Jev Option Explained</a></h3>
+<p>The post recommends TypeSafe Jev as a decision AI model option, highlighting its ability to answer typed questions based on application state and support mixed yes/no, multiple-choice, and scoring formats in one request.</p>
+<p><strong>中文摘要：</strong>帖子推荐TypeSafe Jev作为决策AI模型选项，强调其可基于应用状态回答类型化问题，支持在一次请求中混合是非题、多选题和评分格式。</p>
+<p><strong>Pavle Davitkovic</strong> · @pavle_dav · 2026-11-02T07:30:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
+<p><a href="https://x.com/pavle_dav/status/2117157260409618440">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/filipealva/status/2117130387100975399"><img src="https://pbs.twimg.com/amplify_video_thumb/2117130290749444096/img/xEThxoSlXEuI4leI.jpg" alt="Jev finds places based on taste profile · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/filipealva/status/2117130387100975399">Jev finds places based on taste profile</a></h3>
+<p>User shares experience of Jev finding and recommending places based on personal taste profile, related to @typesafeai.</p>
+<p><strong>中文摘要：</strong>用户分享 Jev 根据个人品味偏好查找并推荐地点的实际体验，与 @typesafeai 相关。</p>
+<p><strong>alva</strong> · @filipealva · 2026-11-02T05:43:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 119</p>
+<p><a href="https://x.com/filipealva/status/2117130387100975399">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Studio_UXM/status/2117127434508320970"><img src="https://pbs.twimg.com/media/HWGMKi4boAEU2gR?format=jpg&amp;name=medium" alt="Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +80,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><a href="https://x.com/Studio_UXM/status/2117127434508320970">在 X 查看原帖</a> · <a href="https://t.co/DygpEv2Z07">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/eXpresser_UXM/status/2117127327847182604"><img src="https://pbs.twimg.com/media/HWGLlwcbgAA1-sr?format=jpg&amp;name=medium" alt="Hands-on with Jev: AI Disagrees on Okonomiyaki&#39;s Prefecture · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +93,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/eXpresser_UXM/status/2117127327847182604">在 X 查看原帖</a> · <a href="https://t.co/3SmvIcyZae">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidwbressler/status/2117074490156896749"><img src="https://pbs.twimg.com/media/HWFcB1WX0AA7Cfe?format=jpg&amp;name=medium" alt="Jev Model Improves Image Classification Accuracy with Few Examples · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
 <p><a href="https://x.com/davidwbressler/status/2117074490156896749">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/adalagent/status/2117060291687276613"><img src="https://pbs.twimg.com/amplify_video_thumb/2117059489312677889/img/z4222Hh9AdhacWb8.jpg" alt="What Would Jev Do? Winners Announced · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 207</p>
 <p><a href="https://x.com/adalagent/status/2117060291687276613">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117042861002645819"><img src="https://pbs.twimg.com/media/HWE_Q3GXsAA2T8F?format=jpg&amp;name=medium" alt="Proof of Task Completion with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -69,6 +128,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 178</p>
 <p><a href="https://x.com/usebrainchain/status/2117042861002645819">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sheherenow_/status/2116952932507857163"><img src="https://pbs.twimg.com/media/HWDrwo6agAA2d_N?format=jpg&amp;name=medium" alt="Switched retake detection to Jev; works great · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 343</p>
 <p><a href="https://x.com/sheherenow_/status/2116952932507857163">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PoodleSkirt2/status/2116922648332812626"><img src="https://pbs.twimg.com/media/HWDRwzDXAAATuB1?format=jpg&amp;name=medium" alt="TypeSafeAI uses community Jev emote · 原帖图片" width="100%"></a>
 <br>
@@ -92,6 +151,19 @@
 <p><strong>PoodleSkirt</strong> · @PoodleSkirt2 · 2026-11-01T15:57:44.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 114</p>
 <p><a href="https://x.com/PoodleSkirt2/status/2116922648332812626">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/farhaduneci/status/2116917461568377023"><img src="https://pbs.twimg.com/media/HWDM3_yW8AA4rmL?format=jpg&amp;name=medium" alt="User shares experience with Jev&#39;s System One decision model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/farhaduneci/status/2116917461568377023">User shares experience with Jev&#39;s System One decision model</a></h3>
+<p>Farhad Uneci says he has been using Jev&#39;s System One decision model and likes the idea of type-safe AI making decisions. He notes humans make about 35,000 decisions daily, AI adds decision fatigue, and Jev helps reduce that burden.</p>
+<p><strong>中文摘要：</strong>Farhad Uneci在帖子中表示自己一直在使用Jev的System One决策模型，并喜欢类型安全AI做决策的想法。他提到人类每天约做35,000个决策，AI增加了决策疲劳，而Jev有助于减轻负担。</p>
+<p><strong>Farhad Uneci</strong> · @farhaduneci · 2026-11-01T15:37:07.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/farhaduneci/status/2116917461568377023">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/omnirailorg/status/2116895284026331142"><img src="https://pbs.twimg.com/media/HV1MRraWcAA8yUj?format=jpg&amp;name=medium" alt="Efficiently Moderating Group Chats with Jev · 原帖图片" width="100%"></a>

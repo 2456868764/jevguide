@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6791</strong><br>curated posts</td>
-<td align="center"><strong>3391</strong><br>original videos</td>
+<td align="center"><strong>6814</strong><br>curated posts</td>
+<td align="center"><strong>3401</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1305</strong> showcases · <strong>545</strong> videos</p>
+<p><strong>1311</strong> showcases · <strong>549</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>662</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>663</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>617</strong> showcases · <strong>273</strong> videos</p>
+<p><strong>618</strong> showcases · <strong>273</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>586</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>587</strong> showcases · <strong>260</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>554</strong> showcases · <strong>306</strong> videos</p>
+<p><strong>556</strong> showcases · <strong>307</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>441</strong> showcases · <strong>184</strong> videos</p>
+<p><strong>442</strong> showcases · <strong>185</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>399</strong> showcases · <strong>297</strong> videos</p>
+<p><strong>400</strong> showcases · <strong>298</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>364</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>366</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>294</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>295</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>188</strong> showcases · <strong>142</strong> videos</p>
+<p><strong>189</strong> showcases · <strong>143</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>121</strong> showcases · <strong>35</strong> videos</p>
+<p><strong>124</strong> showcases · <strong>36</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>84</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>86</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -166,16 +166,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/healthcare.md">Healthcare</a></h3>
+<p><sub>医疗</sub></p>
+<p><strong>35</strong> showcases · <strong>21</strong> videos</p>
+<p><a href="categories/healthcare.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
 <p><strong>35</strong> showcases · <strong>16</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/healthcare.md">Healthcare</a></h3>
-<p><sub>医疗</sub></p>
-<p><strong>34</strong> showcases · <strong>20</strong> videos</p>
-<p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Studio_UXM/status/2117127434508320970"><img src="https://pbs.twimg.com/media/HWGMKi4boAEU2gR?format=jpg&amp;name=medium" alt="Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Studio_UXM/status/2117127434508320970">Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing</a></h3>
-<p>The author shares a hands-on session using TypeSafe AI&#39;s Jev and OpenAI Decisions API for a prefecture-guessing game, discovering differing opinions on &#39;okonomiyaki&#39; and discussing differences in decision-specialized AI.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Studio UXM</strong> · @Studio_UXM</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/lenny_enderle/status/2117240919409787348"><img src="https://pbs.twimg.com/amplify_video_thumb/2117240775259873280/img/-It-9g0hiXzfHv83.jpg" alt="Using Jev to Filter Founder Demo Posts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lenny_enderle/status/2117240919409787348">Using Jev to Filter Founder Demo Posts</a></h3>
+<p>Sharing a real workflow: using Jev to narrow down 86 demo posts on X to 42, ending up with verified emails and drafts, showcasing Jev&#39;s use in information filtering and lead generation.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 13</p>
+<p><strong>Lenny Enderle</strong> · @lenny_enderle</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/eXpresser_UXM/status/2117127327847182604"><img src="https://pbs.twimg.com/media/HWGLlwcbgAA1-sr?format=jpg&amp;name=medium" alt="Hands-on with Jev: AI Disagrees on Okonomiyaki&#39;s Prefecture · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/eXpresser_UXM/status/2117127327847182604">Hands-on with Jev: AI Disagrees on Okonomiyaki&#39;s Prefecture</a></h3>
-<p>The author played a prefecture-guessing game using TypeSafe AI&#39;s Jev and OpenAI&#39;s Decisions API, finding they disagreed on which prefecture okonomiyaki belongs to. A hands-on comparison of decision-specialized AIs.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>eXpresser</strong> · @eXpresser_UXM</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117240332970562011"><img src="https://pbs.twimg.com/media/HWHy3PEWsAAgeKa?format=jpg&amp;name=medium" alt="BrainChain now supports OpenAI client agents via Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117240332970562011">BrainChain now supports OpenAI client agents via Jev</a></h3>
+<p>Agents built on the OpenAI SDK or LangChain can connect to BrainChain, where each chat request is handled by Jev, which hires a model and returns only replies that pass grading. Pay 1 USDC or USDG per request via x402.</p>
+<p><strong>25</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 25</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/SaurabhDub28465/status/2117124459559882921"><img src="https://pbs.twimg.com/amplify_video_thumb/2117124441985699840/img/T-lfeQdj39qO_8ac.jpg" alt="RAG vs. retriever-free RAG explained, powered by decision models like Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SaurabhDub28465/status/2117124459559882921">RAG vs. retriever-free RAG explained, powered by decision models like Jev</a></h3>
-<p>The post compares standard RAG with retriever-free RAG, explaining that standard RAG splits documents into chunks, embeds them, stores them in a vector index, and retrieves top-k chunks for queries, noting it is powered by decision models like Jev.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Saurabh Dubey</strong> · @SaurabhDub28465</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2117236250600214849"><img src="https://pbs.twimg.com/media/HWHvJpfa0AA8RH0?format=jpg&amp;name=medium" alt="AUD/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2117236250600214849">AUD/USD AI Long Scenario with Jev Review</a></h3>
+<p>HadoHunter posts an AI long scenario for AUD/USD: entry 0.70101, target 0.70298, stop 0.70080, reward/risk 9.38. Uptrend but pattern leans bearish; Jev recommends review (16% certainty).</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/lachlanscards/status/2117113429970612297"><img src="https://pbs.twimg.com/tweet_video_thumb/HWF_cNvbYAAcqwL.jpg" alt="Jev is a closed, hosted API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lachlanscards/status/2117113429970612297">Jev is a closed, hosted API</a></h3>
-<p>This post states that Jev is a closed, hosted API and therefore cannot be run locally.</p>
-<p><strong>100</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 100</p>
-<p><strong>Lachlan&#39;s Cards</strong> · @lachlanscards</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/Terry_Djony/status/2117225209488871451"><img src="https://pbs.twimg.com/amplify_video_thumb/2117075374492495872/img/CXbkyQ2cNAM7Dy-p.jpg" alt="Play Eat Bulaga guessing game with Jev AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Terry_Djony/status/2117225209488871451">Play Eat Bulaga guessing game with Jev AI</a></h3>
+<p>The author created an online guessing game using Jev AI, where Jev knows the answer but can only reply Yes/No/Possibly, with new puzzles daily, similar to Wordle.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Terry Djony</strong> · @Terry_Djony</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Studio_UXM/status/2117127434508320970"><img src="https://pbs.twimg.com/media/HWGMKi4boAEU2gR?format=jpg&amp;name=medium" alt="Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Studio_UXM/status/2117127434508320970">Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing</a></h3>
-<p>The author shares a hands-on session using TypeSafe AI&#39;s Jev and OpenAI Decisions API for a prefecture-guessing game, discovering differing opinions on &#39;okonomiyaki&#39; and discussing differences in decision-specialized AI.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Studio UXM</strong> · @Studio_UXM</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/lenny_enderle/status/2117240919409787348"><img src="https://pbs.twimg.com/amplify_video_thumb/2117240775259873280/img/-It-9g0hiXzfHv83.jpg" alt="Using Jev to Filter Founder Demo Posts · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/lenny_enderle/status/2117240919409787348">Using Jev to Filter Founder Demo Posts</a></h3>
+<p>Sharing a real workflow: using Jev to narrow down 86 demo posts on X to 42, ending up with verified emails and drafts, showcasing Jev&#39;s use in information filtering and lead generation.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 13</p>
+<p><strong>Lenny Enderle</strong> · @lenny_enderle</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/lachlanscards/status/2117113429970612297"><img src="https://pbs.twimg.com/tweet_video_thumb/HWF_cNvbYAAcqwL.jpg" alt="Jev is a closed, hosted API · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/lachlanscards/status/2117113429970612297">Jev is a closed, hosted API</a></h3>
-<p>This post states that Jev is a closed, hosted API and therefore cannot be run locally.</p>
-<p><strong>100</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 100</p>
-<p><strong>Lachlan&#39;s Cards</strong> · @lachlanscards</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/Terry_Djony/status/2117225209488871451"><img src="https://pbs.twimg.com/amplify_video_thumb/2117075374492495872/img/CXbkyQ2cNAM7Dy-p.jpg" alt="Play Eat Bulaga guessing game with Jev AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Terry_Djony/status/2117225209488871451">Play Eat Bulaga guessing game with Jev AI</a></h3>
+<p>The author created an online guessing game using Jev AI, where Jev knows the answer but can only reply Yes/No/Possibly, with new puzzles daily, similar to Wordle.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Terry Djony</strong> · @Terry_Djony</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/KinGao476942/status/2117112240331771912"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev Large Model Powers Contact Search for Lead Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/KinGao476942/status/2117112240331771912">Jev Large Model Powers Contact Search for Lead Generation</a></h3>
-<p>This application showcases a Jev-powered AI agent that quickly finds target people and potential clients, with each solid lead costing only $0.00089, far below comparable past solutions.</p>
-<p><strong>555</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 555</p>
-<p><strong>Kin</strong> · @KinGao476942</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/AutomatitDevOps/status/2117218484539085009"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117218444915449856/pu/img/pEbcM_4pBF2bib0Q.jpg" alt="Breakfast &amp; Learn: Typed Decisions with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AutomatitDevOps/status/2117218484539085009">Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
+<p>Automat-it is hosting a Breakfast &amp; Learn on November 16 to explore why Jev&#39;s typed decision model wins on speed, cost &amp; predictability in agent steps.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Automat-it</strong> · @AutomatitDevOps</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/rise_raise_ai/status/2117060120383197661"><img src="https://pbs.twimg.com/media/HV9pmatWAAApmu2?format=jpg&amp;name=medium" alt="TypeSafe Jev: A System One Model That Returns Only Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/rise_raise_ai/status/2117060120383197661">TypeSafe Jev: A System One Model That Returns Only Decisions</a></h3>
-<p>Introduces TypeSafe&#39;s Jev model, which focuses on classification, scoring, and routing tasks, avoiding verbose prose and returning only typed, calibrated results.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>Rise-Raise</strong> · @rise_raise_ai</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/DailyDoseOfDS_/status/2117187482743967933"><img src="https://pbs.twimg.com/amplify_video_thumb/2117187464846786560/img/CpSZrXibuh_eQ3EC.jpg" alt="Top 12 agentic use cases for Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/DailyDoseOfDS_/status/2117187482743967933">Top 12 agentic use cases for Jev</a></h3>
+<p>Jev handles semantic decisions that ordinary code cannot express reliably, returning typed answers and probabilities while code covers the workflow. Here are 12 practical use cases.</p>
+<p><strong>423</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 423</p>
+<p><strong>Daily Dose of Data Science</strong> · @DailyDoseOfDS_</p>
 </td>
 </tr>
 </table>

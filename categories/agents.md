@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 554 | 306 | 250 | 3.0M |
+| 556 | 307 | 251 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117240332970562011"><img src="https://pbs.twimg.com/media/HWHy3PEWsAAgeKa?format=jpg&amp;name=medium" alt="BrainChain now supports OpenAI client agents via Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117240332970562011">BrainChain now supports OpenAI client agents via Jev</a></h3>
+<p>Agents built on the OpenAI SDK or LangChain can connect to BrainChain, where each chat request is handled by Jev, which hires a model and returns only replies that pass grading. Pay 1 USDC or USDG per request via x402.</p>
+<p><strong>中文摘要：</strong>使用OpenAI SDK或LangChain构建的代理可接入BrainChain，每个聊天请求由Jev调度模型执行，仅返回通过评级的回复。请求按x402协议以1 USDC或USDG计费。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T13:00:06.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 25</p>
+<p><a href="https://x.com/usebrainchain/status/2117240332970562011">在 X 查看原帖</a> · <a href="https://t.co/LRJIzZRcqB">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DailyDoseOfDS_/status/2117187482743967933"><img src="https://pbs.twimg.com/amplify_video_thumb/2117187464846786560/img/CpSZrXibuh_eQ3EC.jpg" alt="Top 12 agentic use cases for Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DailyDoseOfDS_/status/2117187482743967933">Top 12 agentic use cases for Jev</a></h3>
+<p>Jev handles semantic decisions that ordinary code cannot express reliably, returning typed answers and probabilities while code covers the workflow. Here are 12 practical use cases.</p>
+<p><strong>中文摘要：</strong>Jev 能处理普通代码无法可靠表达的语义决策，返回类型化答案和概率，代码负责工作流。这里列出 12 个实际应用场景。</p>
+<p><strong>Daily Dose of Data Science</strong> · @DailyDoseOfDS_ · 2026-11-02T09:30:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 423</p>
+<p><a href="https://x.com/DailyDoseOfDS_/status/2117187482743967933">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LeawDn/status/2117055511535427943"><img src="https://pbs.twimg.com/media/HWFKtrAWIAAnMjl?format=jpg&amp;name=medium" alt="Agent evolution: Jev handles intent classification and action guidance, LLM handles natural responses · 原帖图片" width="100%"></a>

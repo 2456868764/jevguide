@@ -1,9 +1,12 @@
 # BrainChain
 
-8 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-02T13:00:06.000Z | [BrainChain now supports OpenAI client agents via Jev](https://x.com/usebrainchain/status/2117240332970562011) | 智能体 | BrainChain | 25 |
+| 2026-11-02T08:46:40.000Z | [Jev core model orchestration on BrainChain](https://x.com/usebrainchain/status/2117176552819401164) | 工作原理 | BrainChain | 72 |
+| 2026-11-02T06:23:34.000Z | [BrainChain Runs Code Before Jev Grades It](https://x.com/usebrainchain/status/2117140544346354149) | 开发者工具 | BrainChain | 16 |
 | 2026-11-01T23:55:50.000Z | [Jev Hires DeepSeek for Regex Task](https://x.com/usebrainchain/status/2117042963947618382) | 智能体 | BrainChain | 367 |
 | 2026-11-01T23:55:25.000Z | [Proof of Task Completion with Jev](https://x.com/usebrainchain/status/2117042861002645819) | 社区实践 | BrainChain | 178 |
 | 2026-11-01T21:06:42.000Z | [BrainChain Adds Independent TEE-Hosted Second Opinions for Jev Decisions](https://x.com/usebrainchain/status/2117000402121977978) | 智能体 | BrainChain | 528 |

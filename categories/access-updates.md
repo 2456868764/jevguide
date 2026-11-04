@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 442 | 185 | 257 | 802K |
+| 444 | 186 | 258 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/IkhwanB/status/2117284146590728246"><img src="https://pbs.twimg.com/amplify_video_thumb/2117283999999795200/img/jHVLtROGDTT1u9KO.jpg" alt="Developer integrates Jev into Tumbuhly.com to make AI more reliable · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/IkhwanB/status/2117284146590728246">Developer integrates Jev into Tumbuhly.com to make AI more reliable</a></h3>
+<p>ikhwanb shares how he added Jev to his AI-powered Tumbuhly.com, where Jev selects from a list of answers and provides likelihoods instead of writing content.</p>
+<p><strong>中文摘要：</strong>ikhwanb分享了在AI驱动的Tumbuhly.com中加入Jev，使AI从预设答案中选择并给出可能性，以应对AI写作时盲目自信的问题。</p>
+<p><strong>ikhwanb</strong> · @IkhwanB · 2026-11-02T15:54:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/IkhwanB/status/2117284146590728246">在 X 查看原帖</a> · <a href="https://t.co/pZrpMsbGLo">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cyberbulk911/status/2117276616170909709"><img src="https://pbs.twimg.com/media/HWITGvtb0AAGwmM?format=jpg&amp;name=medium" alt="Binance enters Jev&#39;s TypeSafeAI development · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cyberbulk911/status/2117276616170909709">Binance enters Jev&#39;s TypeSafeAI development</a></h3>
+<p>The post claims Binance has joined Jev&#39;s TypeSafeAI development, noting that agents now buy their own data, rent their own compute, and hire other agents to finish tasks, with every payment needing funding that today often sits in hot wallets requiring manual top-ups.</p>
+<p><strong>中文摘要：</strong>帖子称 Binance 已参与 Jev 的 TypeSafeAI 开发，并指出代理现在可以自主购买数据、租用算力并雇佣其他代理完成任务，这些支付行为需要资金支持，而目前通常依赖需人工充值的热钱包。</p>
+<p><strong>Cy𝕭er₿ULK</strong> · @cyberbulk911 · 2026-11-02T15:24:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 97</p>
+<p><a href="https://x.com/cyberbulk911/status/2117276616170909709">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Leonho8888/status/2117157448448659544"><img src="https://pbs.twimg.com/amplify_video_thumb/2117157236829270016/img/PkpiFJuqAqxyVigI.jpg" alt="MenuBarMijia: Xiaomi Home Control with Jev · 原帖视频截图" width="100%"></a>

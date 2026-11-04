@@ -1,9 +1,10 @@
 # Kurt
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-02T16:08:39.000Z | [TypeSafe Jev Walkthrough: Detecting Unsupported Conclusions in AI Citations](https://x.com/0xkurt/status/2117287782477394334) | 社区实践 | Kurt | 22 |
 | 2026-10-27T10:37:43.000Z | [A Research Desk in 8 GitHub Repos (Claude + Jev)](https://x.com/0xkurt/status/2115030172743217359) | 开发资源 | Kurt | 6 |
 | 2026-10-23T12:16:43.000Z | [JEV Public Evaluation: Research Across 37 Datasets](https://x.com/0xkurt/status/2113605538445439290) | 科研 | Kurt | 74 |
 | 2026-10-12T12:32:46.000Z | [Jev cuts context waste in Claude Code](https://x.com/0xkurt/status/2109623309499343033) | 开发者工具 | Kurt | 29 |

@@ -7,6 +7,7 @@
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
 - [Geek Lite](../authors/geek-lite.md) — 15
+- [BrainChain](../authors/brainchain.md) — 14
 - [恒星sun](../authors/恒星sun.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
@@ -14,7 +15,6 @@
 - [plutos](../authors/plutos.md) — 12
 - [WTome](../authors/wtome.md) — 12
 - [Asteri](../authors/asteri.md) — 11
-- [BrainChain](../authors/brainchain.md) — 11
 - [Cuth](../authors/cuth.md) — 11
 - [Daniel San](../authors/daniel-san.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
@@ -22,14 +22,15 @@
 - [rody](../authors/rody.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
+- [8Bit🦞](../authors/8bit.md) — 10
 - [AI_GOAT](../authors/ai-goat.md) — 10
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
 - [Dhanian 🗯️](../authors/dhanian.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
-- [8Bit🦞](../authors/8bit.md) — 9
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Alex](../authors/alex.md) — 9
+- [Kurt](../authors/kurt.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
@@ -38,7 +39,6 @@
 - [Gipp 🦅](../authors/gipp.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
 - [Jason Zhu](../authors/jason-zhu.md) — 8
-- [Kurt](../authors/kurt.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8
 - [Troy](../authors/troy.md) — 8
@@ -102,6 +102,7 @@
 - [Elias Andualem](../authors/elias-andualem.md) — 5
 - [explos1ve](../authors/explos1ve.md) — 5
 - [Eyisha Zyer](../authors/eyisha-zyer.md) — 5
+- [ForgeAI](../authors/forgeai.md) — 5
 - [ggwp](../authors/ggwp.md) — 5
 - [govin.eth | G哥](../authors/govin-eth-g哥.md) — 5
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 5
@@ -142,6 +143,7 @@
 - [Boyang & YUP](../authors/boyang-yup.md) — 4
 - [Carlos Martinez](../authors/carlos-martinez.md) — 4
 - [Commisticholy](../authors/commisticholy.md) — 4
+- [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
 - [Eric ⚡️ Building...](../authors/eric-building.md) — 4
@@ -150,7 +152,6 @@
 - [Fei Shen](../authors/fei-shen.md) — 4
 - [Flandermaxx](../authors/flandermaxx.md) — 4
 - [fleyta](../authors/fleyta.md) — 4
-- [ForgeAI](../authors/forgeai.md) — 4
 - [Gennaro](../authors/gennaro.md) — 4
 - [Hanako](../authors/hanako.md) — 4
 - [Harry Tandy](../authors/harry-tandy.md) — 4
@@ -254,6 +255,7 @@
 - [Codez](../authors/codez.md) — 3
 - [codila](../authors/codila.md) — 3
 - [Coin Shot ☁️](../authors/coin-shot.md) — 3
+- [COMMAND LABS](../authors/command-labs.md) — 3
 - [CREEIS](../authors/creeis.md) — 3
 - [Cris Lenta](../authors/cris-lenta.md) — 3
 - [CV.YH](../authors/cv-yh.md) — 3
@@ -285,6 +287,7 @@
 - [hiraoku](../authors/hiraoku.md) — 3
 - [Hiroyuki＠個人ゲーム開発](../authors/hiroyuki-個人-開発.md) — 3
 - [HodlReaper](../authors/hodlreaper.md) — 3
+- [HOPE.](../authors/hope.md) — 3
 - [Ira Bodnar](../authors/ira-bodnar.md) — 3
 - [Ivan Escobar | GTM Engineer](../authors/ivan-escobar-gtm-engineer.md) — 3
 - [Jamie Watters](../authors/jamie-watters.md) — 3
@@ -367,6 +370,7 @@
 - [Santiago](../authors/santiago.md) — 3
 - [Satoshi Nagayasu 🧠🤖](../authors/satoshi-nagayasu.md) — 3
 - [SECTOR](../authors/sector.md) — 3
+- [Serhii Chernenko](../authors/serhii-chernenko.md) — 3
 - [Shann³](../authors/shann3.md) — 3
 - [Shawn](../authors/shawn.md) — 3
 - [shay yahal](../authors/shay-yahal.md) — 3
@@ -393,6 +397,7 @@
 - [Verdao](../authors/verdao.md) — 3
 - [Viral Maniar](../authors/viral-maniar.md) — 3
 - [Vizuara](../authors/vizuara.md) — 3
+- [vogel](../authors/vogel.md) — 3
 - [vv危言耸听](../authors/vv危言耸听.md) — 3
 - [Wasim Jalali](../authors/wasim-jalali.md) — 3
 - [Y.Yamashiro](../authors/y-yamashiro.md) — 3
@@ -456,6 +461,7 @@
 - [Alan Daitch](../authors/alan-daitch.md) — 2
 - [Alberto Arena](../authors/alberto-arena.md) — 2
 - [Alejandro Carbajo](../authors/alejandro-carbajo.md) — 2
+- [Alejandro Erickson](../authors/alejandro-erickson.md) — 2
 - [Alejandro Saucedo | KubeCon 2025 AI Day Keynote](../authors/alejandro-saucedo-kubecon-2025-ai-day-keynote.md) — 2
 - [Alessio Pomaro](../authors/alessio-pomaro.md) — 2
 - [alex nikolic](../authors/alex-nikolic.md) — 2
@@ -531,11 +537,9 @@
 - [cocktail peanut](../authors/cocktail-peanut.md) — 2
 - [codegirl007](../authors/codegirl007.md) — 2
 - [Codio](../authors/codio.md) — 2
-- [COMMAND LABS](../authors/command-labs.md) — 2
 - [Coupons Free Discounts](../authors/coupons-free-discounts.md) — 2
 - [Cua](../authors/cua.md) — 2
 - [CXO-Community.com](../authors/cxo-community-com.md) — 2
-- [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 2
 - [Cyris](../authors/cyris.md) — 2
 - [Dain](../authors/dain.md) — 2
 - [Daisuke Majima (MLBoy)](../authors/daisuke-majima-mlboy.md) — 2
@@ -561,6 +565,7 @@
 - [Diego Araos](../authors/diego-araos.md) — 2
 - [Distill AI](../authors/distill-ai.md) — 2
 - [Doug Tallmadge](../authors/doug-tallmadge.md) — 2
+- [Doug Turnbull](../authors/doug-turnbull.md) — 2
 - [echild](../authors/echild.md) — 2
 - [Eito Miyamura | 🇯🇵](../authors/eito-miyamura.md) — 2
 - [Elf](../authors/elf.md) — 2
@@ -614,7 +619,6 @@
 - [Hekate](../authors/hekate.md) — 2
 - [Himanshú Kumarr](../authors/himanshu-kumarr.md) — 2
 - [HIMANSHU TIWARI](../authors/himanshu-tiwari.md) — 2
-- [HOPE.](../authors/hope.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Huanxin Sheng](../authors/huanxin-sheng.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
@@ -918,7 +922,6 @@
 - [Vikas gupta](../authors/vikas-gupta.md) — 2
 - [Vinny](../authors/vinny.md) — 2
 - [Vishal Kushwaha](../authors/vishal-kushwaha.md) — 2
-- [vogel](../authors/vogel.md) — 2
 - [Vybhav Ramachandran](../authors/vybhav-ramachandran.md) — 2
 - [Walrus](../authors/walrus.md) — 2
 - [WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&インタビューショー🚨](../authors/wbn-ai-tech-startup特化-生配信.md) — 2
@@ -971,6 +974,7 @@
 - [まつにぃ](../authors/jev-showcase.md) — 2
 - [みゆ🌹ฅ^•ω•^ฅ @X68KBBS / MSXBBS / FANKS](../authors/x68kbbs-msxbbs-fanks.md) — 2
 - [一地鸡毛](../authors/一地鸡毛.md) — 2
+- [佐藤 勝彦（TANREN_CEO)┃生成AIエバンジェリスト](../authors/佐藤-勝彦-tanren-ceo-生成ai.md) — 2
 - [区块链行情研究](../authors/区块链行情研究.md) — 2
 - [图喜](../authors/图喜.md) — 2
 - [大伟｜AI × Web3](../authors/大伟-ai-web3.md) — 2
@@ -1149,6 +1153,7 @@
 - [AI 码人士｜AI × 移动开发](../authors/ai-码人士-ai-移动开发.md) — 1
 - [AI_Explorer](../authors/ai-explorer.md) — 1
 - [AI_Pioneer](../authors/ai-pioneer.md) — 1
+- [Ai-Realese](../authors/ai-realese.md) — 1
 - [AI.Engineer 🔜 SF Code Summit](../authors/ai-engineer-sf-code-summit.md) — 1
 - [AI⁴ | Recursive Superintelligence](../authors/ai4-recursive-superintelligence.md) — 1
 - [aiasssistantstore](../authors/aiasssistantstore.md) — 1
@@ -1165,6 +1170,7 @@
 - [AIPonder](../authors/aiponder.md) — 1
 - [Aircle｜AIコミュニティ](../authors/aircle-ai.md) — 1
 - [AIRobert](../authors/airobert.md) — 1
+- [AIsa](../authors/aisa.md) — 1
 - [AITO @アプリ開発](../authors/aito-開発.md) — 1
 - [Aitor Murguzur](../authors/aitor-murguzur.md) — 1
 - [AIWG](../authors/aiwg.md) — 1
@@ -1210,7 +1216,6 @@
 - [Albiona Hoti](../authors/albiona-hoti.md) — 1
 - [ale](../authors/ale.md) — 1
 - [ALEEM AHAMED](../authors/aleem-ahamed.md) — 1
-- [Alejandro Erickson](../authors/alejandro-erickson.md) — 1
 - [Alejandro Fanjul 🛸](../authors/alejandro-fanjul.md) — 1
 - [Alejandro Gonzalez](../authors/alejandro-gonzalez.md) — 1
 - [Alejandro Maestre | AI](../authors/alejandro-maestre-ai.md) — 1
@@ -1591,6 +1596,7 @@
 - [Charles 🇺🇦 🇵🇫](../authors/charles.md) — 1
 - [Charles Burdett](../authors/charles-burdett.md) — 1
 - [Charles Chong](../authors/charles-chong.md) — 1
+- [Charles Forsyth](../authors/charles-forsyth.md) — 1
 - [Charles Gobina 🐧](../authors/charles-gobina.md) — 1
 - [Charles Magno](../authors/charles-magno.md) — 1
 - [Charles Shen](../authors/charles-shen.md) — 1
@@ -1816,6 +1822,7 @@
 - [dev.ua](../authors/dev-ua.md) — 1
 - [DevDiary](../authors/devdiary.md) — 1
 - [Devoxx](../authors/devoxx.md) — 1
+- [DevPass](../authors/devpass.md) — 1
 - [devrev](../authors/devrev.md) — 1
 - [Dewi Gould](../authors/dewi-gould.md) — 1
 - [Dex](../authors/dex.md) — 1
@@ -1857,7 +1864,6 @@
 - [DooByte](../authors/doobyte.md) — 1
 - [dopamyn.ai](../authors/dopamyn-ai.md) — 1
 - [double](../authors/double.md) — 1
-- [Doug Turnbull](../authors/doug-turnbull.md) — 1
 - [Douglas Schonholtz](../authors/douglas-schonholtz.md) — 1
 - [Dr. Alcymar Monteiro Júnior](../authors/dr-alcymar-monteiro-junior.md) — 1
 - [Dr. Craig Brown](../authors/dr-craig-brown.md) — 1
@@ -2294,6 +2300,7 @@
 - [Igor Tarasenko](../authors/igor-tarasenko.md) — 1
 - [Igorify](../authors/igorify.md) — 1
 - [iii](../authors/iii.md) — 1
+- [ikhwanb](../authors/ikhwanb.md) — 1
 - [Ikki Shoka | 生賀一輝](../authors/ikki-shoka-生賀一輝.md) — 1
 - [Ikram Rana | AI Automations](../authors/ikram-rana-ai-automations.md) — 1
 - [Ilia](../authors/ilia.md) — 1
@@ -2782,6 +2789,7 @@
 - [m.kito👹](../authors/m-kito.md) — 1
 - [Ma'ruf](../authors/ma-ruf.md) — 1
 - [Maail](../authors/maail.md) — 1
+- [mac](../authors/mac.md) — 1
 - [Mac](../authors/mac.md) — 1
 - [Machine Economy](../authors/machine-economy.md) — 1
 - [Macro](../authors/macro.md) — 1
@@ -3045,6 +3053,7 @@
 - [NAKAMURA Atsushi](../authors/nakamura-atsushi.md) — 1
 - [Nakshatra Saxena](../authors/nakshatra-saxena.md) — 1
 - [Naman Anand](../authors/naman-anand.md) — 1
+- [Naman Jain](../authors/naman-jain.md) — 1
 - [NamasteDev by Akshay Saini](../authors/namastedev-by-akshay-saini.md) — 1
 - [Nan Su](../authors/nan-su.md) — 1
 - [nana kong ✞](../authors/nana-kong.md) — 1
@@ -3056,6 +3065,7 @@
 - [Nasir](../authors/nasir.md) — 1
 - [Nassir](../authors/nassir.md) — 1
 - [natalie](../authors/natalie.md) — 1
+- [nate](../authors/nate.md) — 1
 - [Nate Berkopec](../authors/nate-berkopec.md) — 1
 - [natelriver.base.eth](../authors/natelriver-base-eth.md) — 1
 - [Nathan ✨](../authors/nathan.md) — 1
@@ -3117,6 +3127,7 @@
 - [Nikolai Yakovenko](../authors/nikolai-yakovenko.md) — 1
 - [Nilou Salehi](../authors/nilou-salehi.md) — 1
 - [Nima Hamdi](../authors/nima-hamdi.md) — 1
+- [ninety是九零](../authors/ninety是九零.md) — 1
 - [NIR SHΞIN](../authors/nir-sh-in.md) — 1
 - [Nishaanth Reddy](../authors/nishaanth-reddy.md) — 1
 - [NISHIO Hirokazu](../authors/nishio-hirokazu.md) — 1
@@ -3164,6 +3175,7 @@
 - [Odyssey](../authors/odyssey.md) — 1
 - [Oguressive | エンジニア](../authors/oguressive.md) — 1
 - [Oğuzhan ✷](../authors/oguzhan.md) — 1
+- [Ohad Zadok](../authors/ohad-zadok.md) — 1
 - [Ohans Emmanuel](../authors/ohans-emmanuel.md) — 1
 - [Oikon | Claude Code深掘りガイド](../authors/oikon-claude-code深掘.md) — 1
 - [Ojasv Singh](../authors/ojasv-singh.md) — 1
@@ -4520,7 +4532,6 @@
 - [今野健介｜Claude×EC専門家](../authors/今野健介-claude-ec専門家.md) — 1
 - [伊織](../authors/伊織.md) — 1
 - [伊藤貴將（いとぱん）｜AIエージェント×創作開発](../authors/伊藤貴將-ai-創作開発.md) — 1
-- [佐藤 勝彦（TANREN_CEO)┃生成AIエバンジェリスト](../authors/佐藤-勝彦-tanren-ceo-生成ai.md) — 1
 - [佐藤 裕二／さいたまのWEB広告運用者](../authors/佐藤-裕二-web広告運用者.md) — 1
 - [佐藤みちこ｜AI活用プロデューサー](../authors/佐藤-ai活用.md) — 1
 - [傅盛](../authors/傅盛.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 556 | 307 | 251 | 3.0M |
+| 558 | 307 | 253 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117285950841655367"><img src="https://pbs.twimg.com/media/HWIcWb6WgAIsvkw?format=jpg&amp;name=medium" alt="Ore Mining Agents Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117285950841655367">Ore Mining Agents Powered by Jev</a></h3>
+<p>The author is building new Ore mining agents for the Solana Mobile app, powered by TypeSafe AI&#39;s Jev model, and plans to integrate them into the client this week.</p>
+<p><strong>中文摘要：</strong>作者正在为 Solana Mobile 应用开发新的 Ore 挖掘代理，这些代理使用 TypeSafe 的 Jev 模型进行挖矿操作，并计划本周内集成到客户端中。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-02T16:01:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 6 &nbsp; 📊 246</p>
+<p><a href="https://x.com/0rdlibrary/status/2117285950841655367">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117284605535379615"><img src="https://pbs.twimg.com/media/HWIbIPoWMAAu4wN?format=jpg&amp;name=medium" alt="Jev Task Proof: Hired DeepSeek and Accepted · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117284605535379615">Jev Task Proof: Hired DeepSeek and Accepted</a></h3>
+<p>A task proof minted on ripples.run shows Jev hired DeepSeek at 45% confidence and accepted the work at 74% confidence.</p>
+<p><strong>中文摘要：</strong>在ripples.run上铸造的任务证明显示，Jev以45%置信度雇佣了DeepSeek，并以74%的置信度接受了工作。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T15:56:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 94</p>
+<p><a href="https://x.com/usebrainchain/status/2117284605535379615">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117240332970562011"><img src="https://pbs.twimg.com/media/HWHy3PEWsAAgeKa?format=jpg&amp;name=medium" alt="BrainChain now supports OpenAI client agents via Jev · 原帖图片" width="100%"></a>

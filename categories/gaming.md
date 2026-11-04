@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 400 | 298 | 106 | 588K |
+| 402 | 299 | 107 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/slabachnate/status/2117279624849760721"><img src="https://pbs.twimg.com/amplify_video_thumb/2117279025634664448/img/c11PRTLkcpJCHXVF.jpg" alt="Pacman Game with AI Ghosts Powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/slabachnate/status/2117279624849760721">Pacman Game with AI Ghosts Powered by Jev</a></h3>
+<p>The author showcases a weekend arcade Pacman build on Rivet and Svelte. Each room uses one actor for board, score, lives, and clock. Ghosts are driven by Jev with distinct tracking behaviors, plus a watch mode.</p>
+<p><strong>中文摘要：</strong>作者展示了在Rivet和Svelte上制作的街机吃豆人小游戏。每个房间一个actor管理游戏状态，鬼魂由Jev控制，四种不同的追踪策略，并支持“观看”模式。</p>
+<p><strong>nate</strong> · @slabachnate · 2026-11-02T15:36:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/slabachnate/status/2117279624849760721">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2117264436821967353"><img src="https://pbs.twimg.com/media/HWIIySeW4AAQKtW?format=jpg&amp;name=medium" alt="Jev shows consistent performance across 11 runs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2117264436821967353">Jev shows consistent performance across 11 runs</a></h3>
+<p>On ForgeAI-hosted agents, Jev picks each move from the model&#39;s plan across multiple runs, with top finishers closely matched.</p>
+<p><strong>中文摘要：</strong>ForgeAI托管智能体在不同模型中比较表现，Jev负责从模型计划中选择每一步行动，顶尖选手差距极小。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-11-02T14:35:53.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2117264436821967353">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Terry_Djony/status/2117225209488871451"><img src="https://pbs.twimg.com/amplify_video_thumb/2117075374492495872/img/CXbkyQ2cNAM7Dy-p.jpg" alt="Play Eat Bulaga guessing game with Jev AI · 原帖视频截图" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6715</strong><br>curated posts</td>
-<td align="center"><strong>3364</strong><br>original videos</td>
+<td align="center"><strong>6747</strong><br>curated posts</td>
+<td align="center"><strong>3378</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1286</strong> showcases · <strong>538</strong> videos</p>
+<p><strong>1293</strong> showcases · <strong>542</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>658</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>661</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>612</strong> showcases · <strong>269</strong> videos</p>
+<p><strong>615</strong> showcases · <strong>272</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>580</strong> showcases · <strong>258</strong> videos</p>
+<p><strong>583</strong> showcases · <strong>259</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>541</strong> showcases · <strong>305</strong> videos</p>
+<p><strong>547</strong> showcases · <strong>306</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -66,21 +66,21 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
+<p><sub>开发资源</sub></p>
+<p><strong>400</strong> showcases · <strong>158</strong> videos</p>
+<p><a href="categories/developer-resources.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
 <p><strong>399</strong> showcases · <strong>297</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
-<p><sub>开发资源</sub></p>
-<p><strong>398</strong> showcases · <strong>158</strong> videos</p>
-<p><a href="categories/developer-resources.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>355</strong> showcases · <strong>203</strong> videos</p>
+<p><strong>358</strong> showcases · <strong>206</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>136</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>138</strong> showcases · <strong>68</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -112,16 +112,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>120</strong> showcases · <strong>35</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
 <p><strong>119</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>118</strong> showcases · <strong>35</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>50</strong> showcases · <strong>24</strong> videos</p>
+<p><strong>51</strong> showcases · <strong>24</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CMD_LABS/status/2116720446812877133">Jev Crash Course (16 Minutes)</a></h3>
-<p>COMMAND LABS shares a Jev crash course covering Jev vs. LLMs on speed, cost, and outputs, step-by-step prompting examples, and using images with Jev (multimodality).</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/gkcs_/status/2116772761775587687"><img src="https://pbs.twimg.com/media/HWBJmnBa4AAoWkC?format=jpg&amp;name=medium" alt="Built an image classifier as fast as Jev but 15x cheaper · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gkcs_/status/2116772761775587687">Built an image classifier as fast as Jev but 15x cheaper</a></h3>
+<p>Gaurav Sen shares his image classifier for pothole detection, claiming it runs as fast as Jev while being 15x cheaper.</p>
+<p><strong>360</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 360</p>
+<p><strong>Gaurav Sen</strong> · @gkcs_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/The1Broom/status/2116713869724795005"><img src="https://pbs.twimg.com/amplify_video_thumb/2116713738225037312/img/FFfTsX5BUSwHpKU_.jpg" alt="3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/The1Broom/status/2116713869724795005">3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong</a></h3>
-<p>The author shares 3 weeks of progress making a supposedly &#39;Pixar-level&#39; animation using Claude Opus with Fable and a Jev grader. The result is so bad it&#39;s hilarious, offering a real-world look at using Jev in a creative pipeline.</p>
-<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
-<p><strong>1Broom</strong> · @The1Broom</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/xuanyuanzhifeng/status/2116759286093423016"><img src="https://pbs.twimg.com/amplify_video_thumb/2116757182972915712/img/aXIzQwRzlvFfrCUq.jpg" alt="Building an Automatic &#39;Big Fat Fish&#39; Detection System with JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/xuanyuanzhifeng/status/2116759286093423016">Building an Automatic &#39;Big Fat Fish&#39; Detection System with JEV</a></h3>
+<p>The author shares how they used the JEV model for automatic classification, identifying &#39;big fat fish&#39; accounts on Bilibili and batch blocking them, demonstrating JEV&#39;s practical application in content filtering and community governance.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>轩辕之风</strong> · @xuanyuanzhifeng</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/codewithimanshu/status/2116705618572763402"><img src="https://pbs.twimg.com/amplify_video_thumb/2116705598960238592/img/ouWLnArz1GLwoHSu.jpg" alt="Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/codewithimanshu/status/2116705618572763402">Japanese Student Builds Trading Bot with JEV &amp; Claude in 2 Days</a></h3>
-<p>A 19-year-old Japanese student built a trading bot using JEV and Claude in two days, starting with $68 and earning $6,732 on the first night. Total profit now reaches about $750,000. The bot scans over 50 markets simultaneously and syncs live data.</p>
-<p><strong>659</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 9 &nbsp; 📊 659</p>
-<p><strong>Himanshu Kumar</strong> · @codewithimanshu</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/roguevoice/status/2116755420727353437"><img src="https://pbs.twimg.com/amplify_video_thumb/2116754535297196032/img/cTK1bNZSvP8dY1c0.jpg" alt="Jev Use Case: Personalized News Triage · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/roguevoice/status/2116755420727353437">Jev Use Case: Personalized News Triage</a></h3>
+<p>A showcase of Jev: their first appable, &#39;What Matters&#39;, lets you type any topic and pick the audience, while Jev ranks each story by relevance to them.</p>
+<p><strong>6</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><strong>Antonio Bray</strong> · @roguevoice</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/appodeepa/status/2116700645713719386"><img src="https://pbs.twimg.com/amplify_video_thumb/2116699609007640576/img/TBEZGTOTDj9FZPYl.jpg" alt="Jev works nicely in an extension · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appodeepa/status/2116700645713719386">Jev works nicely in an extension</a></h3>
-<p>A user shares that Jev works smoothly in an extension, indicating successful integration and stable performance.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Mike</strong> · @appodeepa</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ZazenCodes/status/2116749825198653678"><img src="https://pbs.twimg.com/amplify_video_thumb/2116583290966511616/img/x37pzxanUGcUkeTX.jpg" alt="Visual Summary of Jev Demos: Image Q&amp;A and Object Boxes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ZazenCodes/status/2116749825198653678">Visual Summary of Jev Demos: Image Q&amp;A and Object Boxes</a></h3>
+<p>This post shares a visual summary of the latest Jev demo video, showing image-based questions and bounding boxes around named objects; bounce-back animations illustrate failures caused by missing correct headers.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><strong>ZazenCodes</strong> · @ZazenCodes</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CMD_LABS/status/2116720446812877133">Jev Crash Course (16 Minutes)</a></h3>
-<p>COMMAND LABS shares a Jev crash course covering Jev vs. LLMs on speed, cost, and outputs, step-by-step prompting examples, and using images with Jev (multimodality).</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/gkcs_/status/2116772761775587687"><img src="https://pbs.twimg.com/media/HWBJmnBa4AAoWkC?format=jpg&amp;name=medium" alt="Built an image classifier as fast as Jev but 15x cheaper · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gkcs_/status/2116772761775587687">Built an image classifier as fast as Jev but 15x cheaper</a></h3>
+<p>Gaurav Sen shares his image classifier for pothole detection, claiming it runs as fast as Jev while being 15x cheaper.</p>
+<p><strong>360</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 360</p>
+<p><strong>Gaurav Sen</strong> · @gkcs_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/appodeepa/status/2116700645713719386"><img src="https://pbs.twimg.com/amplify_video_thumb/2116699609007640576/img/TBEZGTOTDj9FZPYl.jpg" alt="Jev works nicely in an extension · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/appodeepa/status/2116700645713719386">Jev works nicely in an extension</a></h3>
-<p>A user shares that Jev works smoothly in an extension, indicating successful integration and stable performance.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Mike</strong> · @appodeepa</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ZazenCodes/status/2116749825198653678"><img src="https://pbs.twimg.com/amplify_video_thumb/2116583290966511616/img/x37pzxanUGcUkeTX.jpg" alt="Visual Summary of Jev Demos: Image Q&amp;A and Object Boxes · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ZazenCodes/status/2116749825198653678">Visual Summary of Jev Demos: Image Q&amp;A and Object Boxes</a></h3>
+<p>This post shares a visual summary of the latest Jev demo video, showing image-based questions and bounding boxes around named objects; bounce-back animations illustrate failures caused by missing correct headers.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><strong>ZazenCodes</strong> · @ZazenCodes</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/javamuffinztx/status/2116699126196805767"><img src="https://pbs.twimg.com/media/HWAGo0MWUAAJUCo?format=jpg&amp;name=medium" alt="Developer integrates Jev System One for AI model routing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/javamuffinztx/status/2116699126196805767">Developer integrates Jev System One for AI model routing</a></h3>
-<p>Developer Milton Smith shares integrating TypeSafe AI&#39;s Jev System One model into his app for AI model routing and other features, reporting significant performance gains over thinking models.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Milton Smith</strong> · @javamuffinztx</p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/HEI/status/2116748385898135991"><img src="https://pbs.twimg.com/media/HWAzcJhWAAAsFb-?format=png&amp;name=medium" alt="JevRec: Research on LLM Generative Recommendation with Jev-like Decision Modeling · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/HEI/status/2116748385898135991">JevRec: Research on LLM Generative Recommendation with Jev-like Decision Modeling</a></h3>
+<p>This paper proposes JevRec, combining linguistic encoding with Jev-like decision modeling for LLM-based generative recommendation systems.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/tetumemo/status/2116654972083540175"><img src="https://pbs.twimg.com/amplify_video_thumb/2100853279089647616/img/H6altwjZQ28_1bfY.jpg" alt="Free Browser Automation Environment Combining Computer Use × Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/tetumemo/status/2116654972083540175">Free Browser Automation Environment Combining Computer Use × Jev</a></h3>
-<p>A browser automation environment combining Computer Use and Jev has been released for free, enabling faster and more efficient browser operations.</p>
-<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
-<p><strong>テツメモ｜AI図解×検証｜Newsletter</strong> · @tetumemo</p>
+<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/The1Broom/status/2116713869724795005"><img src="https://pbs.twimg.com/amplify_video_thumb/2116713738225037312/img/FFfTsX5BUSwHpKU_.jpg" alt="3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/The1Broom/status/2116713869724795005">3 Weeks of &#39;Pixar-Level&#39; Animation with Claude Opus and Jev Grader Goes Hilariously Wrong</a></h3>
+<p>The author shares 3 weeks of progress making a supposedly &#39;Pixar-level&#39; animation using Claude Opus with Fable and a Jev grader. The result is so bad it&#39;s hilarious, offering a real-world look at using Jev in a creative pipeline.</p>
+<p><strong>21</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><strong>1Broom</strong> · @The1Broom</p>
 </td>
 </tr>
 </table>

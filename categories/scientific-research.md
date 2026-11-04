@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 118 | 35 | 85 | 136K |
+| 120 | 35 | 87 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HEI/status/2116748385898135991"><img src="https://pbs.twimg.com/media/HWAzcJhWAAAsFb-?format=png&amp;name=medium" alt="JevRec: Research on LLM Generative Recommendation with Jev-like Decision Modeling · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HEI/status/2116748385898135991">JevRec: Research on LLM Generative Recommendation with Jev-like Decision Modeling</a></h3>
+<p>This paper proposes JevRec, combining linguistic encoding with Jev-like decision modeling for LLM-based generative recommendation systems.</p>
+<p><strong>中文摘要：</strong>该论文提出JevRec，将语言编码与类似Jev的决策建模相结合，用于基于大语言模型的生成式推荐系统。</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI · 2026-11-01T04:25:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
+<p><a href="https://x.com/HEI/status/2116748385898135991">在 X 查看原帖</a> · <a href="https://t.co/JV4mLFn0RO">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HEI/status/2116523961043354100"><img src="https://pbs.twimg.com/media/HV9nU7dW0AAwmwc?format=png&amp;name=medium" alt="Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/HEI/status/2116523961043354100">Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?</a></h3>
+<p>This paper investigates Jev-style System One models, examining whether model structure can reduce selection bias. Published on arXiv.</p>
+<p><strong>中文摘要：</strong>该论文研究 Jev 风格的 System One 模型，探讨模型结构是否能够降低选择偏差，发表于 arXiv。</p>
+<p><strong>Natural Language Processing Papers</strong> · @HEI · 2026-10-31T13:33:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 62</p>
+<p><a href="https://x.com/HEI/status/2116523961043354100">在 X 查看原帖</a> · <a href="https://t.co/Ao4gpGLS3O">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ManlingLi_/status/2116211329232941341"><img src="https://pbs.twimg.com/amplify_video_thumb/2113675199971237888/img/v50FPR_x2eicqxes.jpg" alt="Realtime-Bench: Jev Is Fastest, But Scores Only 8% · 原帖视频截图" width="100%"></a>

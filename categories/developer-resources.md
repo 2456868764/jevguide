@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 398 | 158 | 240 | 419K |
+| 400 | 158 | 242 | 419K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/xerakyle/status/2116725835554312538"><img src="https://pbs.twimg.com/media/HWAe0KxWoAAH0Wb?format=jpg&amp;name=medium" alt="Building &#39;XERA JEV&#39;, a new harness for JEV-type models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xerakyle/status/2116725835554312538">Building &#39;XERA JEV&#39;, a new harness for JEV-type models</a></h3>
+<p>Angel and @RoliumGens are working on XERA JEV, a new harness for JEV-type models, and say the result will be shown soon.</p>
+<p><strong>中文摘要：</strong>Angel 与 @RoliumGens 正在合作开发面向 JEV 类型模型的新 harness XERA JEV，并表示成果即将公开。</p>
+<p><strong>Angel.</strong> · @xerakyle · 2026-11-01T02:55:40.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 37</p>
+<p><a href="https://x.com/xerakyle/status/2116725835554312538">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/CMD_LABS/status/2116720446812877133"><img src="https://pbs.twimg.com/media/HWAZyBYXwAArMgS?format=jpg&amp;name=medium" alt="Jev Crash Course (16 Minutes) · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +32,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/CMD_LABS/status/2116720446812877133">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Stanllll6o/status/2116681864270512589"><img src="https://pbs.twimg.com/media/HV_27_SaAAAN3rD?format=jpg&amp;name=medium" alt="Jev Harness Building Guide PDF Released · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +45,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/Stanllll6o/status/2116681864270512589">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0x_rody/status/2116635478464278919"><img src="https://pbs.twimg.com/amplify_video_thumb/2116635403344285696/img/C_nzWZr0nUkbDIR6.jpg" alt="Jev API Experiment Checklist: Agent Desktop Automation · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +56,8 @@
 <p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 41 &nbsp; 📊 1.2K</p>
 <p><a href="https://x.com/0x_rody/status/2116635478464278919">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DistillAI1/status/2116606162816917898"><img src="https://pbs.twimg.com/media/HV-yFrSaMAA1hkb?format=jpg&amp;name=medium" alt="Curated List of Tools for Jev · 原帖图片" width="100%"></a>
 <br>
@@ -55,6 +68,17 @@
 <p><strong>Distill AI</strong> · @DistillAI1 · 2026-10-31T19:00:08.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
 <p><a href="https://x.com/DistillAI1/status/2116606162816917898">在 X 查看原帖</a> · <a href="https://t.co/qkSnu0Qzkp">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ChinaAIDaily/status/2116534615037051372"><img src="https://pbs.twimg.com/media/HV9xAIVa4AAUghL?format=png&amp;name=small" alt="AI Open Source Daily: Agents Take Over Back Office, jev-chat-jarvis Debuts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChinaAIDaily/status/2116534615037051372">AI Open Source Daily: Agents Take Over Back Office, jev-chat-jarvis Debuts</a></h3>
+<p>This issue highlights 5 open-source projects that use agents to handle company back-office tasks. Notable among them is jev-chat-jarvis, which understands intent and risk before drafting replies. Other projects cover virtual boards, self-hosted resume and cover letter generation, and more.</p>
+<p><strong>中文摘要：</strong>本期推荐5个开源项目，聚焦用Agent接管公司中后台任务。其中包括jev-chat-jarvis，它能在每次回复前先理解对方意图与风险，再起草话术。其他项目涵盖虚拟董事会、自托管简历求职信生成等。</p>
+<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily · 2026-10-31T14:15:50.000Z</p>
+<p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 306</p>
+<p><a href="https://x.com/ChinaAIDaily/status/2116534615037051372">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

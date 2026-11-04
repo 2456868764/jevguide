@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 136 | 66 | 71 | 235K |
+| 138 | 68 | 71 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/roguevoice/status/2116755420727353437"><img src="https://pbs.twimg.com/amplify_video_thumb/2116754535297196032/img/cTK1bNZSvP8dY1c0.jpg" alt="Jev Use Case: Personalized News Triage · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/roguevoice/status/2116755420727353437">Jev Use Case: Personalized News Triage</a></h3>
+<p>A showcase of Jev: their first appable, &#39;What Matters&#39;, lets you type any topic and pick the audience, while Jev ranks each story by relevance to them.</p>
+<p><strong>中文摘要：</strong>这是 Jev 模型的一个展示：首个 appable &#39;What Matters&#39; 可输入任意主题并指定受众，Jev 按与他们的相关程度对每条新闻排序。</p>
+<p><strong>Antonio Bray</strong> · @roguevoice · 2026-11-01T04:53:14.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 6</p>
+<p><a href="https://x.com/roguevoice/status/2116755420727353437">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2116543279563259995"><img src="https://pbs.twimg.com/amplify_video_thumb/2116543266955091968/img/38ja2wCci_1VfSZc.jpg" alt="RAG vs. retriever-free RAG, clearly explained · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2116543279563259995">RAG vs. retriever-free RAG, clearly explained</a></h3>
+<p>Explains the difference between standard RAG and retriever-free RAG, powered by decision models like Jev.</p>
+<p><strong>中文摘要：</strong>介绍传统 RAG 与免检索 RAG 的差异，提到由 Jev 等决策模型驱动，用于处理查询与文档检索。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-10-31T14:50:15.000Z</p>
+<p>💬 35 &nbsp; 🔁 28 &nbsp; ♡ 244 &nbsp; 📊 18K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2116543279563259995">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/PageIndexAI/status/2116427692140802353"><img src="https://pbs.twimg.com/media/HV8PrUmaMAAUEKc?format=jpg&amp;name=medium" alt="Jev for RAG? Page Search API Announced · 原帖图片" width="100%"></a>

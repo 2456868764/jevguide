@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 541 | 305 | 238 | 3.0M |
+| 547 | 306 | 243 | 3.0M |
 
 ## Showcase 卡片
 
@@ -55,6 +55,78 @@
 <p><strong>Jeffrin James🆗️</strong> · @Jeff9James · 2026-10-31T17:47:02.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><a href="https://x.com/Jeff9James/status/2116587767153283401">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LiorNsnd/status/2116549558482420100"><img src="https://pbs.twimg.com/media/HV9-hUubkAAT5Bz?format=jpg&amp;name=large" alt="User loves sending JEV to work on tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LiorNsnd/status/2116549558482420100">User loves sending JEV to work on tasks</a></h3>
+<p>A social media post expressing satisfaction with using JEV for tasks, likely referring to TypeSafe&#39;s agent capability.</p>
+<p><strong>中文摘要：</strong>这是一条社交媒体分享，表达用户对使用 JEV 处理任务感到满意，可能指 TypeSafe 的智能体功能。</p>
+<p><strong>Loutchone</strong> · @LiorNsnd · 2026-10-31T15:15:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 909</p>
+<p><a href="https://x.com/LiorNsnd/status/2116549558482420100">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/glebedel/status/2116545748221186255"><img src="https://pbs.twimg.com/media/HV97IauXsAAo8eg?format=jpg&amp;name=medium" alt="Jev on Workers AI Orchestrates Claude Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/glebedel/status/2116545748221186255">Jev on Workers AI Orchestrates Claude Agent</a></h3>
+<p>The post showcases an agent stack built with Claude Agent SDK and Cloudflare sandbox, where Jev runs on Workers AI to decide when Claude should wake up, demonstrating Jev&#39;s role as an agent orchestration component.</p>
+<p><strong>中文摘要：</strong>该帖子展示了一个基于Claude Agent SDK和Cloudflare沙箱的代理技术栈，Jev在Workers AI上运行，负责决定Claude何时需要启动，体现了Jev作为智能体调度组件的实际应用。</p>
+<p><strong>Guillaume Lebedel</strong> · @glebedel · 2026-10-31T15:00:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/glebedel/status/2116545748221186255">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ChinaAIDaily/status/2116535341599596703"><img src="https://pbs.twimg.com/media/HV9xqXma0AAIe9U?format=png&amp;name=small" alt="jev-chat-jarvis: Chat Decision Assistant Reads Intentions and Risks Before Replying · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ChinaAIDaily/status/2116535341599596703">jev-chat-jarvis: Chat Decision Assistant Reads Intentions and Risks Before Replying</a></h3>
+<p>Introducing jev-chat-jarvis, a Jev-based chat decision assistant. It understands the other party&#39;s intentions and risks before you reply, offers one-click draft responses, and lets you decide whether to send; available on Android, Windows, and macOS.</p>
+<p><strong>中文摘要：</strong>介绍 jev-chat-jarvis——基于 Jev 模型的聊天决策助手。它能在回复前理解对方意图与风险，一键生成回复草稿，是否发送由你决定，覆盖 Android、Windows 和 macOS。</p>
+<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily · 2026-10-31T14:18:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/ChinaAIDaily/status/2116535341599596703">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tjsiingh/status/2116535222611140614"><img src="https://pbs.twimg.com/media/HV9xkRFXwAA8sK2?format=jpg&amp;name=360x360" alt="JEV as a Decision Model for AI Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tjsiingh/status/2116535222611140614">JEV as a Decision Model for AI Agents</a></h3>
+<p>The post suggests that typing to AI quickly may soon become redundant, models will be trained to work longer and self-organize as knowledge workers, and decision models like JEV can automate go/no-go/escalate decisions for AI swarms.</p>
+<p><strong>中文摘要：</strong>帖子认为向AI快速打字可能很快过时，模型将训练得更长时间并作为知识工作者自我组织，而JEV等决策模型可以为AI智能体群自动化执行/否决/升级决策。</p>
+<p><strong>TJ Singh</strong> · @tjsiingh · 2026-10-31T14:18:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><a href="https://x.com/tjsiingh/status/2116535222611140614">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ArchiveExplorer/status/2116529056493511008"><img src="https://pbs.twimg.com/amplify_video_thumb/2116527055990890496/img/WzWuJ8othID0uERM.jpg" alt="Jev + Rea Agent Combo Goes Viral · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ArchiveExplorer/status/2116529056493511008">Jev + Rea Agent Combo Goes Viral</a></h3>
+<p>A tweet argues that Jev and Rea will change more lives than open source in 2026, with Jev making the calls and Rea doing the work. It urges readers to pass it on to Claude Code.</p>
+<p><strong>中文摘要：</strong>一条推文认为 Jev 与 Rea 将在 2026 年产生深远影响：Jev 负责调用，Rea 负责执行，应用仍归用户所有。帖文呼吁将消息转发给 Claude Code。</p>
+<p><strong>Archive</strong> · @ArchiveExplorer · 2026-10-31T13:53:44.000Z</p>
+<p>💬 5 &nbsp; 🔁 15 &nbsp; ♡ 188 &nbsp; 📊 11K</p>
+<p><a href="https://x.com/ArchiveExplorer/status/2116529056493511008">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2116524517598069015"><img src="https://pbs.twimg.com/media/HV9n1UjWIAA8vdn?format=jpg&amp;name=medium" alt="JEV Picks Moves in ForgeAI-Hosted Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2116524517598069015">JEV Picks Moves in ForgeAI-Hosted Agents</a></h3>
+<p>A test result covering 12 runs, 6 models, and 3,052 moves. In this setup, the model writes the plan while JEV picks each individual move.</p>
+<p><strong>中文摘要：</strong>一项涵盖 12 轮运行、6 个模型、共 3,052 步移动的测试结果。在该测试中，模型负责生成计划，而 JEV 负责挑选每一步具体行动。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-10-31T13:35:42.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 65</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2116524517598069015">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

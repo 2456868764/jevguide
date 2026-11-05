@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7103</strong><br>curated posts</td>
-<td align="center"><strong>3513</strong><br>original videos</td>
+<td align="center"><strong>7110</strong><br>curated posts</td>
+<td align="center"><strong>3516</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1379</strong> showcases · <strong>574</strong> videos</p>
+<p><strong>1380</strong> showcases · <strong>574</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>599</strong> showcases · <strong>321</strong> videos</p>
+<p><strong>603</strong> showcases · <strong>324</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>393</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>394</strong> showcases · <strong>212</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>130</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>131</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rewind02/status/2118344253428367624">Set up app triggers with Jev</a></h3>
-<p>Learn how to describe what to watch in plain English, and the companion only acts when an event matches.</p>
-<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 52</p>
-<p><strong>rewind</strong> · @rewind02</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/davidwbressler/status/2118357779559710756"><img src="https://pbs.twimg.com/media/HWXrLNMXMAAIeKU?format=png&amp;name=medium" alt="Jev gets 139 of 200 emotion development cases right · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/davidwbressler/status/2118357779559710756">Jev gets 139 of 200 emotion development cases right</a></h3>
+<p>With 32 retrieved examples, Jev correctly handled 139 of 200 emotion development cases, while a random sample of about 6,388 examples yielded 125 correct within a similar 240K-token budget. Same pinned setup, only example selection changed.</p>
+<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>David Bressler</strong> · @davidwbressler</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/gippp69/status/2118340649493639615"><img src="https://pbs.twimg.com/media/HWXbl2zXQAAeFRp?format=jpg&amp;name=medium" alt="Jev Trigger: Full Automation from Support Email to Draft Review · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/gippp69/status/2118340649493639615">Jev Trigger: Full Automation from Support Email to Draft Review</a></h3>
-<p>Demonstrates Jev with Strawberry and TypeSafe: event-triggered agent wake, Notion FAQ retrieval, and draft generation without polling.</p>
-<p><strong>342</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 342</p>
-<p><strong>Gipp 🦅</strong> · @gippp69</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2118355104378319012"><img src="https://pbs.twimg.com/media/HWXovcxbgAAVDJf?format=jpg&amp;name=medium" alt="Jev Reviews EUR/USD Bullish Scenario · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2118355104378319012">Jev Reviews EUR/USD Bullish Scenario</a></h3>
+<p>HadoHunter shares a EUR/USD long scenario with entry 1.12124, target 1.12870, stop 1.11753, R/R 2.01, and a Jev review note with 31% certainty.</p>
+<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/CMD_LABS/status/2118340597354234112"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339799408918528/img/3QjiX6CNe9aFQWmj.jpg" alt="Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CMD_LABS/status/2118340597354234112">Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost</a></h3>
-<p>Pointing a big frontier model at every test case gets expensive. Jev-as-a-Judge applies the same idea as LLM-as-a-Judge, at roughly a third of the cost.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/ForgeAI_gg/status/2118351617166626938"><img src="https://pbs.twimg.com/media/HWXlkffXIAAQdLl?format=jpg&amp;name=medium" alt="JEV Drives Action Selection in ForgeAI Agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ForgeAI_gg/status/2118351617166626938">JEV Drives Action Selection in ForgeAI Agents</a></h3>
+<p>ForgeAI shared results from 21 runs, 14 models, and 14,468 moves, with the top 5 finishing within 86 points. In ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
+<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/aresotik/status/2118339326832517314"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339298281865216/img/6tL-HKgbaZZShlUb.jpg" alt="Your Browser Responds to App Events: Strawberry Feature Explained · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/aresotik/status/2118339326832517314">Your Browser Responds to App Events: Strawberry Feature Explained</a></h3>
-<p>TypeSafe AI&#39;s Strawberry feature lets you specify apps to monitor (Gmail, Slack, Drive) and actions to take. Jev reviews every alert, then your agent follows through.</p>
-<p><strong>282</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 282</p>
-<p><strong>ares. 🎧</strong> · @aresotik</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/HeyAmit_/status/2118351184847389070"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: AI agents that handle tasks autonomously · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HeyAmit_/status/2118351184847389070">Jev: AI agents that handle tasks autonomously</a></h3>
+<p>Amit introduces Jev by TypeSafe AI: it monitors thousands of app events across tools, figures out what matters, and takes the next step automatically—so you don&#39;t have to keep checking on your AI agent.</p>
+<p><strong>1.7K</strong> views · 💬 9 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.7K</p>
+<p><strong>Amit</strong> · @HeyAmit_</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rewind02/status/2118344253428367624">Set up app triggers with Jev</a></h3>
-<p>Learn how to describe what to watch in plain English, and the companion only acts when an event matches.</p>
-<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 52</p>
-<p><strong>rewind</strong> · @rewind02</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/davidwbressler/status/2118357779559710756"><img src="https://pbs.twimg.com/media/HWXrLNMXMAAIeKU?format=png&amp;name=medium" alt="Jev gets 139 of 200 emotion development cases right · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/davidwbressler/status/2118357779559710756">Jev gets 139 of 200 emotion development cases right</a></h3>
+<p>With 32 retrieved examples, Jev correctly handled 139 of 200 emotion development cases, while a random sample of about 6,388 examples yielded 125 correct within a similar 240K-token budget. Same pinned setup, only example selection changed.</p>
+<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>David Bressler</strong> · @davidwbressler</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/HeyAmit_/status/2118351184847389070"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: AI agents that handle tasks autonomously · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HeyAmit_/status/2118351184847389070">Jev: AI agents that handle tasks autonomously</a></h3>
+<p>Amit introduces Jev by TypeSafe AI: it monitors thousands of app events across tools, figures out what matters, and takes the next step automatically—so you don&#39;t have to keep checking on your AI agent.</p>
+<p><strong>1.7K</strong> views · 💬 9 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.7K</p>
+<p><strong>Amit</strong> · @HeyAmit_</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ramsis_ai/status/2118350121385459792"><img src="https://pbs.twimg.com/media/HWQnVjLWoAAq1YP?format=jpg&amp;name=large" alt="Testing Jev Model for Lead Selection · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ramsis_ai/status/2118350121385459792">Testing Jev Model for Lead Selection</a></h3>
+<p>Ramsis compares deepseek-v4.1-flash with a big prompt against TypeSafe&#39;s Jev model with small yes/no questions on lead selection across 27 local business listings.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Ramsis Hammadi</strong> · @ramsis_ai</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
 <a href="https://x.com/aresotik/status/2118339326832517314"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339298281865216/img/6tL-HKgbaZZShlUb.jpg" alt="Your Browser Responds to App Events: Strawberry Feature Explained · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/aresotik/status/2118339326832517314">Your Browser Responds to App Events: Strawberry Feature Explained</a></h3>
 <p>TypeSafe AI&#39;s Strawberry feature lets you specify apps to monitor (Gmail, Slack, Drive) and actions to take. Jev reviews every alert, then your agent follows through.</p>
 <p><strong>282</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 282</p>
 <p><strong>ares. 🎧</strong> · @aresotik</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mekarly/status/2118338388042404152"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="JEV: A New Way to Keep AI Agents Connected Across Apps · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mekarly/status/2118338388042404152">JEV: A New Way to Keep AI Agents Connected Across Apps</a></h3>
-<p>MEK introduces JEV, an approach by Strawberry and TypeSafe AI to address the challenge of keeping AI agents connected across different apps, such as monitoring Gmail and Slack and tracking events.</p>
-<p><strong>2.9K</strong> views · 💬 33 &nbsp; 🔁 1 &nbsp; ♡ 143 &nbsp; 📊 2.9K</p>
-<p><strong>MEK</strong> · @Mekarly</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/Llama_app/status/2118330367593566316"><img src="https://pbs.twimg.com/media/HWWyOmZWUAI1FJN?format=jpg&amp;name=medium" alt="Llama App Adds Support for Multimodal and Jev Decision Index Models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Llama_app/status/2118330367593566316">Llama App Adds Support for Multimodal and Jev Decision Index Models</a></h3>
-<p>Llama app now runs decision models locally with a single click, supporting d1-Omni for multimodal queries and d3-flash by vLLM, alongside the Jev Decision Index. Update Llama to try them.</p>
-<p><strong>1.7K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 1.7K</p>
-<p><strong>Llama</strong> · @Llama_app</p>
 </td>
 </tr>
 </table>

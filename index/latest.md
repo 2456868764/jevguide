@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-05T15:00:26.000Z | [Jev gets 139 of 200 emotion development cases right](https://x.com/davidwbressler/status/2118357779559710756) | 科研 | David Bressler | 2 |
+| 2026-11-05T14:49:48.000Z | [Jev Reviews EUR/USD Bullish Scenario](https://x.com/hadohunter/status/2118355104378319012) | 金融 | HadoHunter | 20 |
+| 2026-11-05T14:35:57.000Z | [JEV Drives Action Selection in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2118351617166626938) | 智能体 | ForgeAI | 17 |
+| 2026-11-05T14:34:14.000Z | [Jev: AI agents that handle tasks autonomously](https://x.com/HeyAmit_/status/2118351184847389070) | 智能体 | Amit | 1.7K |
+| 2026-11-05T14:30:00.000Z | [Testing Jev Model for Lead Selection](https://x.com/ramsis_ai/status/2118350121385459792) | 社区实践 | Ramsis Hammadi | 11 |
+| 2026-11-05T14:14:36.000Z | [Jev App Triggers: Enabling Proactive AI Agents](https://x.com/soulful__ai/status/2118346243537539248) | 智能体 | Soulful Ai | 1.0K |
+| 2026-11-05T14:10:30.000Z | [Jev-Powered Triggers for AI Agents](https://x.com/NovaXCode/status/2118345213186134178) | 智能体 | Nova | 350 |
 | 2026-11-05T14:06:41.000Z | [Set up app triggers with Jev](https://x.com/rewind02/status/2118344253428367624) | 自动化工作流 | rewind | 52 |
 | 2026-11-05T13:52:22.000Z | [Jev Trigger: Full Automation from Support Email to Draft Review](https://x.com/gippp69/status/2118340649493639615) | 自动化工作流 | Gipp 🦅 | 342 |
 | 2026-11-05T13:52:09.000Z | [Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost](https://x.com/CMD_LABS/status/2118340597354234112) | 开发者工具 | COMMAND LABS | 5 |
@@ -95,10 +102,3 @@
 | 2026-11-04T18:03:57.000Z | [Jev for Protein: Introducing Pev Model](https://x.com/yibo_02/status/2118041575259541584) | 科研 | Yibo | 43 |
 | 2026-11-04T18:02:10.000Z | [Nace AI Offers 120% Cashback for Switching from Jev to Drex Max](https://x.com/testingcatalog/status/2118041127114715235) | 接入动态 | 🚨 AI News \| TestingCatalog | 5.9K |
 | 2026-11-04T18:00:26.000Z | [Jev-Model Fighting Game Launched](https://x.com/vkleban/status/2118040691888496734) | 游戏 | Vitaly Kleban | 64K |
-| 2026-11-04T17:23:47.000Z | [Jev Engineering Handbook: 44-Page Build Guide](https://x.com/saidul_dev/status/2118031465615442261) | 开发资源 | Saidul | 27 |
-| 2026-11-04T17:15:03.000Z | [Training a Jev Model with IotaSDK and Planning Finetuning-as-a-Service](https://x.com/Felix_Quinque/status/2118029269075206226) | 开发资源 | Felix Quinque | 174 |
-| 2026-11-04T17:08:05.000Z | [Recommend Clawd Decide Tool](https://x.com/0rdlibrary/status/2118027513880612957) | 社区实践 | 8Bit🦞 | 302 |
-| 2026-11-04T17:01:05.000Z | [Hybrid Dedup: Rules First, Then Jev](https://x.com/TheWalters954/status/2118025754076164582) | 工作原理 | Walters954 | 35 |
-| 2026-11-04T16:50:13.000Z | [Testing TypeSafe AI's JEV for Search](https://x.com/Innovent/status/2118023018563998170) | 社区实践 | Innovent Solutions | 2 |
-| 2026-11-04T16:44:10.000Z | [Jev as a reranker: thoughts on full reranking with tree acceleration](https://x.com/nishio/status/2118021495490494506) | 工作原理 | NISHIO Hirokazu | 73 |
-| 2026-11-04T16:41:16.000Z | [Autonomous agent uses Jev to mine ORE on Solana](https://x.com/0rdlibrary/status/2118020768282062892) | 金融 | 8Bit🦞 | 113 |

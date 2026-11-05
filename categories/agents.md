@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 599 | 321 | 280 | 3.0M |
+| 603 | 324 | 281 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2118351617166626938"><img src="https://pbs.twimg.com/media/HWXlkffXIAAQdLl?format=jpg&amp;name=medium" alt="JEV Drives Action Selection in ForgeAI Agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2118351617166626938">JEV Drives Action Selection in ForgeAI Agents</a></h3>
+<p>ForgeAI shared results from 21 runs, 14 models, and 14,468 moves, with the top 5 finishing within 86 points. In ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
+<p><strong>中文摘要：</strong>ForgeAI发布了多模型智能体运行结果：21次运行、14个模型、共14,468步操作，前五名差距仅86分。在ForgeAI托管的智能体中，由模型制定计划，JEV负责每一步动作选择。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-11-05T14:35:57.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2118351617166626938">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HeyAmit_/status/2118351184847389070"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: AI agents that handle tasks autonomously · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HeyAmit_/status/2118351184847389070">Jev: AI agents that handle tasks autonomously</a></h3>
+<p>Amit introduces Jev by TypeSafe AI: it monitors thousands of app events across tools, figures out what matters, and takes the next step automatically—so you don&#39;t have to keep checking on your AI agent.</p>
+<p><strong>中文摘要：</strong>Amit 介绍 TypeSafe AI 的 Jev：它监控跨工具的数以千计应用事件，判断哪些重要并自动采取下一步，让 AI 代理无需频繁人工检查。</p>
+<p><strong>Amit</strong> · @HeyAmit_ · 2026-11-05T14:34:14.000Z</p>
+<p>💬 9 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/HeyAmit_/status/2118351184847389070">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/soulful__ai/status/2118346243537539248"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev App Triggers: Enabling Proactive AI Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/soulful__ai/status/2118346243537539248">Jev App Triggers: Enabling Proactive AI Agents</a></h3>
+<p>The real value of AI agents lies in proactive action. Jev uses app triggers to monitor thousands of events, helping agents follow through across Gmail, Slack, and Drive with less babysitting.</p>
+<p><strong>中文摘要：</strong>AI代理的真正价值在于主动行动。Jev通过应用触发器监控数千事件，帮助代理在Gmail、Slack和Drive中无缝跟进，减少人工监督。</p>
+<p><strong>Soulful Ai</strong> · @soulful__ai · 2026-11-05T14:14:36.000Z</p>
+<p>💬 18 &nbsp; 🔁 1 &nbsp; ♡ 25 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/soulful__ai/status/2118346243537539248">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/NovaXCode/status/2118345213186134178"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev-Powered Triggers for AI Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NovaXCode/status/2118345213186134178">Jev-Powered Triggers for AI Agents</a></h3>
+<p>Nova highlights that the biggest problem with AI agents is keeping them alive and not missing anything. @strawberry solves this with app triggers powered by Jev, handling thousands of events at minimal cost with less babysitting.</p>
+<p><strong>中文摘要：</strong>Nova指出AI代理的最大问题是保持存活和避免遗漏，@strawberry通过Jev驱动的应用触发器解决该问题，支持大量事件，成本极低，减少人工监控。</p>
+<p><strong>Nova</strong> · @NovaXCode · 2026-11-05T14:10:30.000Z</p>
+<p>💬 12 &nbsp; 🔁 2 &nbsp; ♡ 17 &nbsp; 📊 350</p>
+<p><a href="https://x.com/NovaXCode/status/2118345213186134178">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Mekarly/status/2118338388042404152"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="JEV: A New Way to Keep AI Agents Connected Across Apps · 原帖视频截图" width="100%"></a>

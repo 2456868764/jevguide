@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7064</strong><br>curated posts</td>
-<td align="center"><strong>3490</strong><br>original videos</td>
+<td align="center"><strong>7091</strong><br>curated posts</td>
+<td align="center"><strong>3503</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1377</strong> showcases · <strong>574</strong> videos</p>
+<p><strong>1379</strong> showcases · <strong>574</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>669</strong> showcases · <strong>329</strong> videos</p>
+<p><strong>671</strong> showcases · <strong>329</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>633</strong> showcases · <strong>280</strong> videos</p>
+<p><strong>634</strong> showcases · <strong>280</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,23 +48,29 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>601</strong> showcases · <strong>266</strong> videos</p>
+<p><strong>604</strong> showcases · <strong>269</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>590</strong> showcases · <strong>313</strong> videos</p>
+<p><strong>595</strong> showcases · <strong>317</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>452</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>453</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/gaming.md">Gaming</a></h3>
+<p><sub>游戏</sub></p>
+<p><strong>413</strong> showcases · <strong>306</strong> videos</p>
+<p><a href="categories/gaming.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
@@ -72,15 +78,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/gaming.md">Gaming</a></h3>
-<p><sub>游戏</sub></p>
-<p><strong>412</strong> showcases · <strong>305</strong> videos</p>
-<p><a href="categories/gaming.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>388</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>393</strong> showcases · <strong>212</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>298</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>302</strong> showcases · <strong>185</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>129</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>130</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>52</strong> showcases · <strong>22</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
 <p><strong>51</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>50</strong> showcases · <strong>20</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/TFelizola91057/status/2118241290492260765"><img src="https://pbs.twimg.com/media/HWWBM4SaQAA0IR-?format=jpg&amp;name=medium" alt="AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TFelizola91057/status/2118241290492260765">AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening</a></h3>
-<p>The guide recommends validating results with human evaluations before blocking a version.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Thiago Felizola</strong> · @TFelizola91057</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/Hugo96k/status/2118327432210272620"><img src="https://pbs.twimg.com/media/HWXPj-3bYAAlNtg?format=jpg&amp;name=900x900" alt="Jev Refuses to Sacrifice Itself in Trolley Problem Test · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Hugo96k/status/2118327432210272620">Jev Refuses to Sacrifice Itself in Trolley Problem Test</a></h3>
+<p>A trolley problem test on 14 AI models showed Jev refused to pull the lever (sacrificing itself to save 20 people) about 3 out of 10 times, while GPT-6 Luna never refused.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Hugok</strong> · @Hugo96k</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/Moyanmotion/status/2118235601506111735"><img src="https://pbs.twimg.com/amplify_video_thumb/2117953792620781568/img/dbqlfwF6lSmyQ4Iy.jpg" alt="Linkly shows AI search in action with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Moyanmotion/status/2118235601506111735">Linkly shows AI search in action with Jev</a></h3>
-<p>The post showcases how Linkly uses Jev to help users find and organize information, a real-world use case in AI search and knowledge organization.</p>
-<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
-<p><strong>Moyan motion</strong> · @Moyanmotion</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/zachkry_/status/2118327164055511355"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: Event-Driven AI Agents to Get Things Done · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/zachkry_/status/2118327164055511355">Jev: Event-Driven AI Agents to Get Things Done</a></h3>
+<p>Jev makes AI agents event-driven, monitoring app events and acting at the right time—handling emails, tracking Slack replies, and reducing the need for constant supervision.</p>
+<p><strong>174</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 174</p>
+<p><strong>Zack</strong> · @zachkry_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/jai__toor/status/2118223594715271610"><img src="https://pbs.twimg.com/media/HWVxITxbgAAI3UQ?format=jpg&amp;name=medium" alt="Jai Toor shares excitement about Jev and RLHF · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jai__toor/status/2118223594715271610">Jai Toor shares excitement about Jev and RLHF</a></h3>
-<p>Jai Toor says he was excited after hearing @CompleteSkeptic discuss conviction in Jev and gaps in RLHF, and notes he heavily uses TypeSafe AI.</p>
-<p><strong>45</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
-<p><strong>Jai Toor</strong> · @jai__toor</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/Caden_Flux/status/2118324997118898581"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev empowers AI agents to respond to events independently · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Caden_Flux/status/2118324997118898581">Jev empowers AI agents to respond to events independently</a></h3>
+<p>Jev by Strawberry Browser, powered by TypeSafe AI, enables thousands of app activities to trigger actions automatically—from managing Gmail replies to tracking Slack updates and organizing Drive.</p>
+<p><strong>52</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><strong>Caden Flux</strong> · @Caden_Flux</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/Osynco/status/2118218222680109172"><img src="https://pbs.twimg.com/media/HWVrHvoaUAANE8t?format=jpg&amp;name=medium" alt="Jev-powered inquiry classification and routing system · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Osynco/status/2118218222680109172">Jev-powered inquiry classification and routing system</a></h3>
-<p>A system that uses Jev to classify inquiry messages and automatically route them to appropriate channels.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>おしんこ</strong> · @Osynco</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2118324119653736951"><img src="https://pbs.twimg.com/media/HWXMj8gaAAAjIdA?format=jpg&amp;name=medium" alt="GBP/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2118324119653736951">GBP/USD AI Long Scenario with Jev Review</a></h3>
+<p>HadoHunter shares an AI long scenario for GBP/USD: entry 1.34679, target 1.35020, stop 1.34534, reward/risk 2.35, uptrend leaning bullish. Jev flags &#39;Review needed&#39; with 20% certainty. The post also invites followers to see more chart-backed FX scenarios.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/TFelizola91057/status/2118241290492260765"><img src="https://pbs.twimg.com/media/HWWBM4SaQAA0IR-?format=jpg&amp;name=medium" alt="AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/TFelizola91057/status/2118241290492260765">AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening</a></h3>
-<p>The guide recommends validating results with human evaluations before blocking a version.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Thiago Felizola</strong> · @TFelizola91057</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/Hugo96k/status/2118327432210272620"><img src="https://pbs.twimg.com/media/HWXPj-3bYAAlNtg?format=jpg&amp;name=900x900" alt="Jev Refuses to Sacrifice Itself in Trolley Problem Test · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Hugo96k/status/2118327432210272620">Jev Refuses to Sacrifice Itself in Trolley Problem Test</a></h3>
+<p>A trolley problem test on 14 AI models showed Jev refused to pull the lever (sacrificing itself to save 20 people) about 3 out of 10 times, while GPT-6 Luna never refused.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Hugok</strong> · @Hugo96k</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/Osynco/status/2118218222680109172"><img src="https://pbs.twimg.com/media/HWVrHvoaUAANE8t?format=jpg&amp;name=medium" alt="Jev-powered inquiry classification and routing system · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Osynco/status/2118218222680109172">Jev-powered inquiry classification and routing system</a></h3>
-<p>A system that uses Jev to classify inquiry messages and automatically route them to appropriate channels.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>おしんこ</strong> · @Osynco</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2118324119653736951"><img src="https://pbs.twimg.com/media/HWXMj8gaAAAjIdA?format=jpg&amp;name=medium" alt="GBP/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2118324119653736951">GBP/USD AI Long Scenario with Jev Review</a></h3>
+<p>HadoHunter shares an AI long scenario for GBP/USD: entry 1.34679, target 1.35020, stop 1.34534, reward/risk 2.35, uptrend leaning bullish. Jev flags &#39;Review needed&#39; with 20% certainty. The post also invites followers to see more chart-backed FX scenarios.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118217424583741633"><img src="https://pbs.twimg.com/media/HWVrhe0boAA_tK2?format=jpg&amp;name=medium" alt="Jev Agent Completes Task 37: Hires Claude at 56% Confidence, Accepts at 95% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118217424583741633">Jev Agent Completes Task 37: Hires Claude at 56% Confidence, Accepts at 95%</a></h3>
-<p>This post shows an on-chain proof of Jev autonomously hiring Claude in a workflow and accepting the result with high confidence, demonstrating Jev&#39;s multi-agent coordination.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/HermesWatcher/status/2118323948173861365"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev-powered app triggers let your AI team clock in automatically · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HermesWatcher/status/2118323948173861365">Jev-powered app triggers let your AI team clock in automatically</a></h3>
+<p>Strawberry launches app triggers powered by Jev from TypeSafe. AI teammates like Sales Sally start when something happens in your apps—no re-prompting or babysitting required.</p>
+<p><strong>575</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 575</p>
+<p><strong>Hermes Release Watch</strong> · @HermesWatcher</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118201574887751904"><img src="https://pbs.twimg.com/media/HWVdG6haAAAjYIz?format=jpg&amp;name=medium" alt="Jev task proof: Hired Claude at 45% confidence, accepted work at 95% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118201574887751904">Jev task proof: Hired Claude at 45% confidence, accepted work at 95%</a></h3>
-<p>BrainChain posted proof of task 32: Jev hired Claude at 45% confidence and accepted the output at 95%. The proof was minted by a collector on ripples.run.</p>
-<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/charles_maddock/status/2118318253294673940"><img src="https://pbs.twimg.com/amplify_video_thumb/2118318205416374272/img/gzjrmmwF69wceV9a.jpg" alt="Jev-powered app triggers launched · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/charles_maddock/status/2118318253294673940">Jev-powered app triggers launched</a></h3>
+<p>Charles Maddock released Jev-powered app triggers and noted the entire feature launch video was made with Strawberry.</p>
+<p><strong>361</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 361</p>
+<p><strong>Charles Maddock</strong> · @charles_maddock</p>
 </td>
 </tr>
 </table>

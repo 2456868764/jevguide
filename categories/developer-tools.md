@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 669 | 329 | 343 | 3.6M |
+| 671 | 329 | 345 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/k1ito/status/2118273576038240616"><img src="https://pbs.twimg.com/media/HWWdp03bIAIqn37?format=png&amp;name=900x900" alt="Build a code review and refactoring-plan linter with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/k1ito/status/2118273576038240616">Build a code review and refactoring-plan linter with Jev</a></h3>
+<p>The author introduces a linter powered by Jev that reviews all code and creates refactoring plans, incorporating principles like SOLID, Clean Code, and Readable Code; the open-source repository is linked.</p>
+<p><strong>中文摘要：</strong>作者介绍了自己用 Jev 实现的 Linter，可对全部代码进行审查并生成重构计划，内置 SOLID、Clean Code、Readable Code 等容易被人遗忘的原则；相关仓库已开源。</p>
+<p><strong>いとう @ INDX</strong> · @k1ito · 2026-11-05T09:25:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 12 &nbsp; 📊 682</p>
+<p><a href="https://x.com/k1ito/status/2118273576038240616">在 X 查看原帖</a> · <a href="https://t.co/QLt3sSZDcr">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/soundinspire9/status/2118267271496040618"><img src="https://pbs.twimg.com/media/HWWY2tVb0AA3tYX?format=png&amp;name=medium" alt="&quot;Judgment-only&quot; AI Jev: Surprisingly Cheap · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soundinspire9/status/2118267271496040618">&quot;Judgment-only&quot; AI Jev: Surprisingly Cheap</a></h3>
+<p>A user investigated TypeSafe&#39;s Jev model, finding it doesn&#39;t write text, only returns judgments based on types. Input costs about $0.042 per million tokens, with free output—surprising.</p>
+<p><strong>中文摘要：</strong>有用户调查了TypeSafe的Jev模型，发现它不生成文章，仅按类型返回判断。输入100万token仅需约0.042美元，输出免费，令人惊讶。</p>
+<p><strong>Sound Inspire</strong> · @soundinspire9 · 2026-11-05T09:00:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 41</p>
+<p><a href="https://x.com/soundinspire9/status/2118267271496040618">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/davidwbressler/status/2118078395678429411"><img src="https://pbs.twimg.com/media/HWTtE65WoAAZq9D?format=png&amp;name=medium" alt="Jev auto-selects prompt examples to boost classification accuracy · 原帖图片" width="100%"></a>

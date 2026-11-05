@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 298 | 182 | 116 | 595K |
+| 302 | 185 | 117 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/zachkry_/status/2118327164055511355"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: Event-Driven AI Agents to Get Things Done · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/zachkry_/status/2118327164055511355">Jev: Event-Driven AI Agents to Get Things Done</a></h3>
+<p>Jev makes AI agents event-driven, monitoring app events and acting at the right time—handling emails, tracking Slack replies, and reducing the need for constant supervision.</p>
+<p><strong>中文摘要：</strong>Jev 让 AI 代理无需持续监督，基于应用事件触发自动化，监控数千种事件并在合适时机行动，例如处理邮件、跟踪 Slack 回复。</p>
+<p><strong>Zack</strong> · @zachkry_ · 2026-11-05T12:58:47.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 174</p>
+<p><a href="https://x.com/zachkry_/status/2118327164055511355">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Caden_Flux/status/2118324997118898581"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev empowers AI agents to respond to events independently · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Caden_Flux/status/2118324997118898581">Jev empowers AI agents to respond to events independently</a></h3>
+<p>Jev by Strawberry Browser, powered by TypeSafe AI, enables thousands of app activities to trigger actions automatically—from managing Gmail replies to tracking Slack updates and organizing Drive.</p>
+<p><strong>中文摘要：</strong>由 Strawberry Browser 推出、基于 TypeSafe AI 的 Jev，可让数千种应用活动自动触发操作，例如管理 Gmail 回复、跟踪 Slack 更新和整理 Drive 文件。</p>
+<p><strong>Caden Flux</strong> · @Caden_Flux · 2026-11-05T12:50:10.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><a href="https://x.com/Caden_Flux/status/2118324997118898581">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HermesWatcher/status/2118323948173861365"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev-powered app triggers let your AI team clock in automatically · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HermesWatcher/status/2118323948173861365">Jev-powered app triggers let your AI team clock in automatically</a></h3>
+<p>Strawberry launches app triggers powered by Jev from TypeSafe. AI teammates like Sales Sally start when something happens in your apps—no re-prompting or babysitting required.</p>
+<p><strong>中文摘要：</strong>Strawberry 推出应用触发器，由 TypeSafe 的 Jev 提供支持。AI 团队成员（如销售 Sally）能在应用事件发生时自动启动，无需反复提示或人工监督。</p>
+<p><strong>Hermes Release Watch</strong> · @HermesWatcher · 2026-11-05T12:46:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 575</p>
+<p><a href="https://x.com/HermesWatcher/status/2118323948173861365">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LeahLundqvist/status/2118323265194406257"><img src="https://pbs.twimg.com/media/HWXLsvPWwAAVEvC?format=png&amp;name=small" alt="Automating email unsubscribes with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LeahLundqvist/status/2118323265194406257">Automating email unsubscribes with Jev</a></h3>
+<p>A user shares a real workflow: running Jev across all emails to automatically unsubscribe from marketing mail, while relying on browser activity to keep active services, resulting in a much cleaner inbox after a week.</p>
+<p><strong>中文摘要：</strong>用户分享了一个真实工作流：让 Jev 扫描所有邮件，自动退订营销邮件，并结合浏览器使用状态保留活跃服务通知，一周后收件箱干净了许多。</p>
+<p><strong>leah lundqvist</strong> · @LeahLundqvist · 2026-11-05T12:43:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 62</p>
+<p><a href="https://x.com/LeahLundqvist/status/2118323265194406257">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/waynesutton/status/2117701159054176400"><img src="https://pbs.twimg.com/media/HWOVrMaagAAuanY?format=png&amp;name=small" alt="Using Jev to review email confirmation uploads and prevent abuse · 原帖图片" width="100%"></a>

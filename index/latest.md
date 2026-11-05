@@ -2,6 +2,32 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-05T12:59:51.000Z | [Jev Refuses to Sacrifice Itself in Trolley Problem Test](https://x.com/Hugo96k/status/2118327432210272620) | 科研 | Hugok | 5 |
+| 2026-11-05T12:58:47.000Z | [Jev: Event-Driven AI Agents to Get Things Done](https://x.com/zachkry_/status/2118327164055511355) | 自动化工作流 | Zack | 174 |
+| 2026-11-05T12:50:10.000Z | [Jev empowers AI agents to respond to events independently](https://x.com/Caden_Flux/status/2118324997118898581) | 自动化工作流 | Caden Flux | 52 |
+| 2026-11-05T12:46:41.000Z | [GBP/USD AI Long Scenario with Jev Review](https://x.com/hadohunter/status/2118324119653736951) | 金融 | HadoHunter | 19 |
+| 2026-11-05T12:46:00.000Z | [Jev-powered app triggers let your AI team clock in automatically](https://x.com/HermesWatcher/status/2118323948173861365) | 自动化工作流 | Hermes Release Watch | 575 |
+| 2026-11-05T12:45:18.000Z | [Strawberry + Jev Empowers AI Agent Automation](https://x.com/Kanojiyaaakash1/status/2118323770796728389) | 智能体 | Aakash Kanojiya | 1.2K |
+| 2026-11-05T12:43:48.000Z | [Jev makes event classification in agent workflows cheap and reliable](https://x.com/ShamiWeb3/status/2118323395628605800) | 智能体 | Shami | 3.9K |
+| 2026-11-05T12:43:17.000Z | [Automating email unsubscribes with Jev](https://x.com/LeahLundqvist/status/2118323265194406257) | 自动化工作流 | leah lundqvist | 62 |
+| 2026-11-05T12:34:18.000Z | [Strawberry Browser Uses Jev to Let AI Agents Act on Events](https://x.com/TechByMarkandey/status/2118321005248815379) | 智能体 | Markandey Sharma | 4.3K |
+| 2026-11-05T12:31:29.000Z | [Strawberry Browser Enables Autonomous AI Agents with Jev](https://x.com/techxutkarsh/status/2118320293823521267) | 智能体 | Utkarsh Sharma | 2.9K |
+| 2026-11-05T12:23:22.000Z | [Jev-powered app triggers launched](https://x.com/charles_maddock/status/2118318253294673940) | 产品发布 | Charles Maddock | 361 |
+| 2026-11-05T12:16:31.000Z | [DINQ × Clover: Candidate Analysis with Jev](https://x.com/dinq_me/status/2118316529741856869) | 企业运营 | DINQ | 320 |
+| 2026-11-05T12:16:25.000Z | [Introducing Jev App Triggers](https://x.com/strawberry/status/2118316502814191780) | 产品发布 | Strawberry | 2.4K |
+| 2026-11-05T12:14:29.000Z | [DINQ Builds Personalized Candidate Analysis with Clover and Jev](https://x.com/dinq_me/status/2118316018854707556) | 企业运营 | DINQ | 213 |
+| 2026-11-05T11:57:02.000Z | [Nace AI Pays Users to Switch From Jev](https://x.com/hasantoxr/status/2118311624226599296) | 接入动态 | Hasan Toor | 1.5K |
+| 2026-11-05T10:44:48.000Z | [AUD/USD AI Short Scenario Analysis](https://x.com/hadohunter/status/2118293446104662272) | 金融 | HadoHunter | 40 |
+| 2026-11-05T10:40:06.000Z | [Jev Reviews EUR/USD Long Trade](https://x.com/hadohunter/status/2118292265571692720) | 金融 | HadoHunter | 52 |
+| 2026-11-05T10:36:41.000Z | [Exploring Jev's Performance in Weight-Space Programming](https://x.com/echo_yiyiyi/status/2118291403784732990) | 工作原理 | Echo Ziyi Yang | 32 |
+| 2026-11-05T10:25:36.000Z | [JEV Proves We Don't Need LLMs?](https://x.com/Hossein_Mohebbi/status/2118288617621934462) | 社区实践 | Hossein Mohebbi | 2 |
+| 2026-11-05T10:01:16.000Z | [TypeSafe Jev Makes a High-Profile Debut](https://x.com/dannytook/status/2118282491928994140) | 产品发布 | DANNY 💢 | 9 |
+| 2026-11-05T09:25:50.000Z | [Build a code review and refactoring-plan linter with Jev](https://x.com/k1ito/status/2118273576038240616) | 开发者工具 | いとう @ INDX | 682 |
+| 2026-11-05T09:22:01.000Z | [Introducing Jev and Practical GenAI Use at Kyoto Shumucho Training](https://x.com/KOJIRYUJI1/status/2118272612866637975) | 社区实践 | こうじりゅうじ/Manus Fellow/Yahoo!ニュースエキスパート/DX4TEMPLES | 60 |
+| 2026-11-05T09:00:47.000Z | ["Judgment-only" AI Jev: Surprisingly Cheap](https://x.com/soundinspire9/status/2118267271496040618) | 开发者工具 | Sound Inspire | 41 |
+| 2026-11-05T08:39:02.000Z | [AUD/USD Short Trading Scenario with Jev Assessment](https://x.com/hadohunter/status/2118261795131703519) | 金融 | HadoHunter | 24 |
+| 2026-11-05T08:37:56.000Z | [AUD/JPY AI short scenario with Jev assessment](https://x.com/hadohunter/status/2118261519259664638) | 金融 | HadoHunter | 21 |
+| 2026-11-05T08:06:28.000Z | [Fleet Formation Command with Jev](https://x.com/PieroHerrera1/status/2118253601420410981) | 游戏 | Piero Herrera 필호 | 33 |
 | 2026-11-05T07:17:33.000Z | [AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening](https://x.com/TFelizola91057/status/2118241290492260765) | 接入动态 | Thiago Felizola | 8 |
 | 2026-11-05T06:54:56.000Z | [Linkly shows AI search in action with Jev](https://x.com/Moyanmotion/status/2118235601506111735) | 知识与搜索 | Moyan motion | 29 |
 | 2026-11-05T06:07:14.000Z | [Jai Toor shares excitement about Jev and RLHF](https://x.com/jai__toor/status/2118223594715271610) | 社区实践 | Jai Toor | 45 |
@@ -10,6 +36,7 @@
 | 2026-11-05T05:30:00.000Z | [Jev model test results shared](https://x.com/i_am_brennan/status/2118214225210294651) | 社区实践 | Brennan McEachran 👨‍🚀 | 7 |
 | 2026-11-05T05:18:37.000Z | [Flock Safety for seniors, powered by Jev](https://x.com/michaelhrobersn/status/2118211361729814693) | 社区实践 | Michael Roberson | 169 |
 | 2026-11-05T05:10:00.000Z | [Jev trolley problem experiment extended: 22 models, 761,940 answers](https://x.com/i_am_brennan/status/2118209190871130562) | 社区实践 | Brennan McEachran 👨‍🚀 | 20 |
+| 2026-11-05T04:44:14.000Z | [Proof of Task: Jev Hired Claude](https://x.com/usebrainchain/status/2118202707337269267) | 智能体 | BrainChain | 40 |
 | 2026-11-05T04:40:44.000Z | [Jev Task Proof: Hired Claude and Accepted Work](https://x.com/usebrainchain/status/2118201825539350624) | 社区实践 | BrainChain | 36 |
 | 2026-11-05T04:40:00.000Z | [Testing Jev and Decision Models: Framing Matters](https://x.com/i_am_brennan/status/2118201641442689454) | 社区实践 | Brennan McEachran 👨‍🚀 | 66 |
 | 2026-11-05T04:39:44.000Z | [Jev task proof: Hired Claude at 45% confidence, accepted work at 95%](https://x.com/usebrainchain/status/2118201574887751904) | 智能体 | BrainChain | 41 |
@@ -75,30 +102,3 @@
 | 2026-11-04T13:49:06.000Z | [Reflecting on AI subscription usage](https://x.com/jais_mukesh/status/2117977440840458345) | 生产力 | Mukesh | 2 |
 | 2026-11-04T13:21:34.000Z | [TypeSafe AI Jev: Decision Agents for Trading on Solana](https://x.com/0rdlibrary/status/2117970512001573131) | 金融 | 8Bit🦞 | 218 |
 | 2026-11-04T13:05:08.000Z | [Toloka tests Jev and Astra for robot control](https://x.com/TolokaAI/status/2117966373812904300) | 机器人 | Toloka | 122 |
-| 2026-11-04T13:04:10.000Z | [Jev hired Claude at 50% confidence and accepted the work at 94%](https://x.com/usebrainchain/status/2117966133009748378) | 智能体 | BrainChain | 136 |
-| 2026-11-04T12:47:00.000Z | [Train Your Own Decision Model Like Jev with Unsloth](https://x.com/rgonv/status/2117961811157000332) | 开发资源 | Ricardo Gonzalez | 7 |
-| 2026-11-04T12:43:04.000Z | [Using Jev for Retrieval Result Filtering](https://x.com/BlueeonY/status/2117960821355741331) | 知识与搜索 | Kane | 8 |
-| 2026-11-04T12:40:27.000Z | [Jev assesses AUD/JPY short scenario](https://x.com/hadohunter/status/2117960163021983753) | 金融 | HadoHunter | 44 |
-| 2026-11-04T12:37:54.000Z | [Linkly AI adds Jev support](https://x.com/mossy2026/status/2117959524091076665) | 接入动态 | Mossy | 9 |
-| 2026-11-04T12:36:43.000Z | [Jev Cited as a Better Example of Vertical Foundation Models](https://x.com/chemeris/status/2117959223371878782) | 科研 | Alexander Chemeris | 24 |
-| 2026-11-04T12:00:40.000Z | [AI Trading Bot Replay: Most Signals Blocked Before Reaching Jev](https://x.com/gucci0915/status/2117950151784317197) | 金融 | GucciChang | 25 |
-| 2026-11-04T11:51:20.000Z | [Editing Instead of Training: Boosting Jev-Style Models](https://x.com/zoozoo_ai/status/2117947803456491835) | 开发者工具 | ZOOZOO | 41 |
-| 2026-11-04T10:47:32.000Z | [User shares using Jev to reduce AI bot false positives](https://x.com/Marcia_Ong/status/2117931746260087048) | 社区实践 | Marcia Ong | 57 |
-| 2026-11-04T10:33:03.000Z | [User shares experience using Jev to follow up on tasks](https://x.com/woogieNcrew/status/2117928101829317051) | 社区实践 | Woogie & Crew | 10 |
-| 2026-11-04T10:19:04.000Z | [Jev Chat Jarvis: An Android Co-pilot for Chat Apps](https://x.com/Daviswh/status/2117924583659479060) | 产品发布 | daviswu | 178 |
-| 2026-11-04T10:05:01.000Z | [Jev-Powered Enterprise Prompt Monitoring Framework](https://x.com/SparselyActive/status/2117921047051931905) | 法律合规 | Sparsely Activated Primate | 20 |
-| 2026-11-04T09:17:00.000Z | [Jev-Powered Intelligent Ticket Routing](https://x.com/omnirailorg/status/2117908963408699571) | 客户支持 | OmniRail | 40 |
-| 2026-11-04T09:01:21.000Z | [Jev's Judgment Depends on How Materials Are Provided](https://x.com/soundinspire9/status/2117905026836537647) | 社区实践 | Sound Inspire | 4 |
-| 2026-11-04T09:01:00.000Z | [Practical Notes on Integrating Jev with Claude Code and Codex](https://x.com/soundinspire9/status/2117904938026320348) | 社区实践 | Sound Inspire | 15 |
-| 2026-11-04T07:33:40.000Z | [Explore Jev-style Task Layer with LangGraph](https://x.com/ShinetechQD/status/2117882957918826904) | 开发资源 | ShinetechQingDao | 5 |
-| 2026-11-04T07:30:12.000Z | [Google Tests Jev for AI Coding Agent Routing](https://x.com/thomas_rehmer/status/2117882086656725198) | 智能体 | thomas_R | 26 |
-| 2026-11-04T07:03:05.000Z | [Solving AI coding agent context compression with Jev](https://x.com/minheo93698092/status/2117875261903606194) | 开发者工具 | min heo | 364 |
-| 2026-11-04T06:59:07.000Z | [On-chain proof of Jev hiring DeepSeek](https://x.com/usebrainchain/status/2117874262573019629) | 智能体 | BrainChain | 192 |
-| 2026-11-04T06:48:38.000Z | [Jev Hired DeepSeek to Fix a Pagination Bug](https://x.com/usebrainchain/status/2117871625249136781) | 智能体 | BrainChain | 128 |
-| 2026-11-04T05:31:50.000Z | [A growing routing rule is a good place to try JEV](https://x.com/viorant_ai/status/2117852298655481989) | 客户支持 | Viorant | 1 |
-| 2026-11-04T05:24:58.000Z | [Jev Map Coloring Experiment: How Does It Choose Between Red and Blue?](https://x.com/apolkingg8/status/2117850570207932483) | 社区实践 | Eddie Hsu | 15 |
-| 2026-11-04T04:39:41.000Z | [Tomorrow's Event: Combining Generative AI Jev with Robotics](https://x.com/kawamoto_LINER/status/2117839175290679668) | 机器人 | 河本_Kawamoto \| 深圳・上海 12/10-12/15 🇨🇳 | 19 |
-| 2026-11-04T04:11:47.000Z | [Real-time fortune-telling demo with Jev-powered emotion analysis](https://x.com/ryryo/status/2117832153631522823) | 智能体 | ryo | 44 |
-| 2026-11-04T04:06:24.000Z | [Cloudflare Clairic (Jev-series model) is now available on OpenRouter](https://x.com/mat_m_a_t/status/2117830797638111579) | 接入动态 | 宮秋 保｜会社員のAI活用 | 10 |
-| 2026-11-04T03:44:39.000Z | [Jev Model in Action: Hires Claude and Accepts Work](https://x.com/usebrainchain/status/2117825323903664166) | 智能体 | BrainChain | 14 |
-| 2026-11-04T03:41:30.000Z | [Sarvam AI launches decision model Prism, drawing comparison to Jev](https://x.com/my_musings_ind/status/2117824532711149948) | 社区实践 | Ordinary Indian | 14 |

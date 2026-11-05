@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1377 | 574 | 810 | 3.0M |
+| 1379 | 574 | 812 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Hossein_Mohebbi/status/2118288617621934462"><img src="https://pbs.twimg.com/media/HWWsRT-bYAAf4FE?format=jpg&amp;name=medium" alt="JEV Proves We Don&#39;t Need LLMs? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Hossein_Mohebbi/status/2118288617621934462">JEV Proves We Don&#39;t Need LLMs?</a></h3>
+<p>The author revisits the RLHF paper, calls text generation a massive detour, and agrees that JEV proves traditional LLMs are unnecessary.</p>
+<p><strong>中文摘要：</strong>作者回顾RLHF论文，认为文本生成是巨大弯路，并认可JEV证明无需传统LLM的观点。</p>
+<p><strong>Hossein Mohebbi</strong> · @Hossein_Mohebbi · 2026-11-05T10:25:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/Hossein_Mohebbi/status/2118288617621934462">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KOJIRYUJI1/status/2118272612866637975"><img src="https://pbs.twimg.com/media/HWWdsh6boAAYEmA?format=jpg&amp;name=medium" alt="Introducing Jev and Practical GenAI Use at Kyoto Shumucho Training · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KOJIRYUJI1/status/2118272612866637975">Introducing Jev and Practical GenAI Use at Kyoto Shumucho Training</a></h3>
+<p>The speaker lectured on information literacy and generative AI at a full staff training held by Kyoto Shumucho, focusing on practical usage and future work styles, and introduced Jev.</p>
+<p><strong>中文摘要：</strong>讲师在京都宗务厅全员职员培训中讲解信息素养与生成AI活用，聚焦实务使用和未来工作方式，并介绍了Jev。</p>
+<p><strong>こうじりゅうじ/Manus Fellow/Yahoo!ニュースエキスパート/DX4TEMPLES</strong> · @KOJIRYUJI1 · 2026-11-05T09:22:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 60</p>
+<p><a href="https://x.com/KOJIRYUJI1/status/2118272612866637975">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jai__toor/status/2118223594715271610"><img src="https://pbs.twimg.com/media/HWVxITxbgAAI3UQ?format=jpg&amp;name=medium" alt="Jai Toor shares excitement about Jev and RLHF · 原帖图片" width="100%"></a>

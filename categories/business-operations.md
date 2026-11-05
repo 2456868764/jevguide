@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 50 | 20 | 30 | 115K |
+| 52 | 22 | 30 | 115K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dinq_me/status/2118316529741856869"><img src="https://pbs.twimg.com/amplify_video_thumb/2118316276879933440/img/IBX8RNQlz7dSupUS.jpg" alt="DINQ × Clover: Candidate Analysis with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dinq_me/status/2118316529741856869">DINQ × Clover: Candidate Analysis with Jev</a></h3>
+<p>DINQ built a candidate analysis model using Clover and Jev, leveraging millions of resumes and public sources such as academic homepages, LinkedIn, Dribbble, and Behance to analyze thousands of unique candidates.</p>
+<p><strong>中文摘要：</strong>DINQ 利用 Clover 与 Jev 构建候选人分析模型，数据来自数百万份简历及公开来源（学术个人主页、LinkedIn、Dribbble、Behance 等），用于分析数千名不同候选人的特征。</p>
+<p><strong>DINQ</strong> · @dinq_me · 2026-11-05T12:16:31.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 3 &nbsp; 📊 320</p>
+<p><a href="https://x.com/dinq_me/status/2118316529741856869">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dinq_me/status/2118316018854707556"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315208032841729/img/MeJ0i4QIPkVjORz2.jpg" alt="DINQ Builds Personalized Candidate Analysis with Clover and Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dinq_me/status/2118316018854707556">DINQ Builds Personalized Candidate Analysis with Clover and Jev</a></h3>
+<p>DINQ built a candidate analysis model using Clover and Jev, with a dataset of millions of resumes and public info like academic personal websites and LinkedIn.</p>
+<p><strong>中文摘要：</strong>DINQ 使用 Clover 和 Jev 构建候选人分析模型，数据集包含数百万简历和公开信息（如学术个人网站、LinkedIn）。</p>
+<p><strong>DINQ</strong> · @dinq_me · 2026-11-05T12:14:29.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 213</p>
+<p><a href="https://x.com/dinq_me/status/2118316018854707556">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/samuel_ys92/status/2117676199115997322"><img src="https://pbs.twimg.com/amplify_video_thumb/2117675775210168320/img/qgM509kROZ4WZ_tH.jpg" alt="DINQ: Automated Talent Discovery Platform Powered by Jev · 原帖视频截图" width="100%"></a>

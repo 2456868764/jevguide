@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 369 | 209 | 162 | 1.2M |
+| 371 | 209 | 164 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/sardine/status/2117722757584568805"><img src="https://pbs.twimg.com/media/HWOpoBAXMAATU3G?format=jpg&amp;name=medium" alt="Jev&#39;s fraud detection test results · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/sardine/status/2117722757584568805">Jev&#39;s fraud detection test results</a></h3>
+<p>Sardine shared results from testing TypeSafe AI&#39;s Jev model on a fraud ring, catching 27 of 29 fraudulent transactions.</p>
+<p><strong>中文摘要：</strong>Sardine分享了用TypeSafe AI的Jev模型识别欺诈团伙交易的测试情况，Jev捕捉到29笔欺诈交易中的27笔。</p>
+<p><strong>Sardine</strong> · @sardine · 2026-11-03T20:57:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 22</p>
+<p><a href="https://x.com/sardine/status/2117722757584568805">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117617006929481862"><img src="https://pbs.twimg.com/media/HWNJcaxXkAAk6RG?format=jpg&amp;name=900x900" alt="JEV flagged 321 tokens in 24 hours · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117617006929481862">JEV flagged 321 tokens in 24 hours</a></h3>
+<p>A user shares their experience using TypeSafe AI&#39;s JEV to monitor pump.fun launches: ~9,740 launches seen, ~9,419 filtered out, and JEV flagged 321 coins within 24 hours, calling it a major success for trading.</p>
+<p><strong>中文摘要：</strong>用户分享使用TypeSafe AI的JEV监控pump.fun发射情况，24小时内看到9740次发射，过滤掉9419次，JEV标记了321个代币，并称这是交易领域的重大成功。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T13:56:52.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 211</p>
+<p><a href="https://x.com/0rdlibrary/status/2117617006929481862">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadohunter/status/2117441740080808347"><img src="https://pbs.twimg.com/media/HWKqCtmacAEOmCD?format=jpg&amp;name=medium" alt="Jev-Assessed AUD/USD Trade Signal · 原帖图片" width="100%"></a>

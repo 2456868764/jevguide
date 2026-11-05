@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1333 | 557 | 783 | 3.0M |
+| 1339 | 559 | 787 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2117714107675869374"><img src="https://pbs.twimg.com/media/HWOgaILbQAAXSPD?format=jpg&amp;name=900x900" alt="Handling Multiple Intents with Jev: The “Shopping Cart” Pattern · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2117714107675869374">Handling Multiple Intents with Jev: The “Shopping Cart” Pattern</a></h3>
+<p>The author shares a technique for using Jev&#39;s primitives to handle multiple intents in one user query, recommending a “shopping cart” pattern that recursively picks the next action until Jev signals completion.</p>
+<p><strong>中文摘要：</strong>作者分享使用 Jev 原语处理单一用户查询中多个意图的经验，推荐“购物车”模式：递归选取下一操作，直到 Jev 表示完成。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-11-03T20:22:43.000Z</p>
+<p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 13 &nbsp; 📊 3.0K</p>
+<p><a href="https://x.com/allietheicon/status/2117714107675869374">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117695654055313779"><img src="https://pbs.twimg.com/media/HWOQ-WOW0AA0GyE?format=jpg&amp;name=medium" alt="But does it use TypeSafe Jev? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117695654055313779">But does it use TypeSafe Jev?</a></h3>
+<p>A community post asking whether a product or project uses TypeSafe AI&#39;s Jev model.</p>
+<p><strong>中文摘要：</strong>一条社区帖子在询问某产品或项目是否使用了TypeSafe AI的Jev模型。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T19:09:23.000Z</p>
+<p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 5 &nbsp; 📊 296</p>
+<p><a href="https://x.com/0rdlibrary/status/2117695654055313779">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/flaggedaccount/status/2117609716264378871"><img src="https://pbs.twimg.com/media/HWNCcifaEAAwnnW?format=jpg&amp;name=medium" alt="Impressions of Trying Jev as an NPC Solution · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/flaggedaccount/status/2117609716264378871">Impressions of Trying Jev as an NPC Solution</a></h3>
+<p>User shares impressions of the Jev model, thinking it could be a solution for game NPCs, and created a character named Jev as a reminder to try implementing it.</p>
+<p><strong>中文摘要：</strong>用户分享对Jev模型的印象，认为它可能是解决游戏NPC问题的方案，并制作了一个名为Jev的角色作为尝试实现的提醒。</p>
+<p><strong>flagged account</strong> · @flaggedaccount · 2026-11-03T13:27:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><a href="https://x.com/flaggedaccount/status/2117609716264378871">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xasten/status/2117608997805269122"><img src="https://pbs.twimg.com/amplify_video_thumb/2117607088566546433/img/ByCeArutDKr0dFRB.jpg" alt="Building a voice-controlled toy dog with ESP32-S3 and a sub-$2 screen · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0xasten/status/2117608997805269122">Building a voice-controlled toy dog with ESP32-S3 and a sub-$2 screen</a></h3>
+<p>The author shows an upgraded project: an ESP32-S3 and a cheap screen give a toy dog a face, and it can sit, shake, and spin via voice commands, with no buttons or app. Simple commands never touch the LLM, and JEV is mentioned.</p>
+<p><strong>中文摘要：</strong>作者展示了一个升级版项目：用ESP32-S3和廉价屏幕让玩具狗拥有面部，并可通过语音命令坐下、握手和旋转，无需按钮或应用。简单命令不经过大语言模型，并在帖子中提及JEV。</p>
+<p><strong>Asten</strong> · @0xasten · 2026-11-03T13:25:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/0xasten/status/2117608997805269122">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Keshavatearth/status/2117600782627561874"><img src="https://pbs.twimg.com/media/HWM6a2QbMAAGoMQ?format=png&amp;name=medium" alt="Experiment with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Keshavatearth/status/2117600782627561874">Experiment with TypeSafe&#39;s Jev</a></h3>
+<p>The author shared that they ran an experiment using TypeSafe AI&#39;s Jev, mentioning the model&#39;s practical use.</p>
+<p><strong>中文摘要：</strong>分享者表示使用 TypeSafe AI 的 Jev 进行了某项实验，内容提及了该模型的实际使用。</p>
+<p><strong>Keshav Jindal</strong> · @Keshavatearth · 2026-11-03T12:52:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/Keshavatearth/status/2117600782627561874">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/decision_models/status/2117574331073269981"><img src="https://pbs.twimg.com/amplify_video_thumb/2117282202929049600/img/e9xdbAVjGlhsKAR1.jpg" alt="Jev 1.14 Parallel Call Performance Test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/decision_models/status/2117574331073269981">Jev 1.14 Parallel Call Performance Test</a></h3>
+<p>Decision Models shares benchmark results for Jev 1.14: 7 concurrent calls return 1,400 answers in 282 ms versus 1,092 ms sequentially, with all 200 results shown as a heatmap on Decision Wall.</p>
+<p><strong>中文摘要：</strong>Decision Models 分享了 Jev 1.14 的实测数据：7 个并发调用在 282ms 内返回 1400 个答案，而串行需要 1092ms，并用 Decision Wall 以热力图展示全部 200 个结果。</p>
+<p><strong>Decision Models</strong> · @decision_models · 2026-11-03T11:07:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 7</p>
+<p><a href="https://x.com/decision_models/status/2117574331073269981">在 X 查看原帖</a> · <a href="https://t.co/BLMOHx6EOD">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/javamuffinztx/status/2117494486699745468"><img src="https://pbs.twimg.com/amplify_video_thumb/2117494257413955584/img/ARIsvboLG32PGGqw.jpg" alt="StarRouter: A Project Demonstrating TypeSafe&#39;s JEV System One Model · 原帖视频截图" width="100%"></a>

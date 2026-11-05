@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 65 | 39 | 27 | 639K |
+| 67 | 40 | 28 | 639K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/getdbt/status/2117618578425872779"><img src="https://pbs.twimg.com/media/HWNK391XwAEbI-L.jpg" alt="Jev Model for Customer Interaction Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/getdbt/status/2117618578425872779">Jev Model for Customer Interaction Decisions</a></h3>
+<p>Learn how decision models like Jev enable choosing the best intervention for every customer interaction with low cost, speed, and calibrated probabilities.</p>
+<p><strong>中文摘要：</strong>介绍Jev类决策模型如何以低成本、快速响应和校准概率，为每次客户互动选择最佳干预措施。</p>
+<p><strong>dbt</strong> · @getdbt · 2026-11-03T14:03:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 85</p>
+<p><a href="https://x.com/getdbt/status/2117618578425872779">在 X 查看原帖</a> · <a href="https://t.co/t6hdcTiaGI">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MercityAI/status/2117618194190041539"><img src="https://pbs.twimg.com/media/HWNKhGkaQAAe-DT?format=jpg&amp;name=medium" alt="Can Decision Models Guard a Customer-Facing Agent? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MercityAI/status/2117618194190041539">Can Decision Models Guard a Customer-Facing Agent?</a></h3>
+<p>Mercity AI tested Typesafe&#39;s Jev, Cloudflare&#39;s Clef, and GPT-6.1 Terra across 5 customer-facing agents, scoring 5000+ replies from 964 conversations with Heckler. The verdict: not sufficient on their own.</p>
+<p><strong>中文摘要：</strong>Mercity AI 使用 Heckler 工具对 Typesafe Jev、Cloudflare Clef 和 GPT-6.1 Terra 进行了测试，评估它们在5个客户代理场景、964个会话、5000多条回复中的表现，结论是它们无法单独完成守护任务。</p>
+<p><strong>Mercity AI</strong> · @MercityAI · 2026-11-03T14:01:35.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 34</p>
+<p><a href="https://x.com/MercityAI/status/2117618194190041539">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/matiaspiuma/status/2117377494043296246"><img src="https://pbs.twimg.com/amplify_video_thumb/2117276914591399937/img/UT3OrHoJmR0zyCbG.jpg" alt="JEV for Audio and Customer Service Potential · 原帖视频截图" width="100%"></a>

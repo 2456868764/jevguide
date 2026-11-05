@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6894</strong><br>curated posts</td>
-<td align="center"><strong>3427</strong><br>original videos</td>
+<td align="center"><strong>6921</strong><br>curated posts</td>
+<td align="center"><strong>3438</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1333</strong> showcases · <strong>557</strong> videos</p>
+<p><strong>1339</strong> showcases · <strong>559</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>624</strong> showcases · <strong>275</strong> videos</p>
+<p><strong>626</strong> showcases · <strong>275</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>592</strong> showcases · <strong>262</strong> videos</p>
+<p><strong>595</strong> showcases · <strong>265</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>572</strong> showcases · <strong>310</strong> videos</p>
+<p><strong>574</strong> showcases · <strong>311</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>405</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>406</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>369</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>371</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>296</strong> showcases · <strong>182</strong> videos</p>
+<p><strong>297</strong> showcases · <strong>182</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>192</strong> showcases · <strong>145</strong> videos</p>
+<p><strong>195</strong> showcases · <strong>148</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>87</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>90</strong> showcases · <strong>27</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>65</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>67</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/business-operations.md">Business operations</a></h3>
+<p><sub>企业运营</sub></p>
+<p><strong>49</strong> showcases · <strong>19</strong> videos</p>
+<p><a href="categories/business-operations.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
 <p><strong>49</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/business-operations.md">Business operations</a></h3>
-<p><sub>企业运营</sub></p>
-<p><strong>47</strong> showcases · <strong>18</strong> videos</p>
-<p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/aigclink/status/2117552638585905509"><img src="https://pbs.twimg.com/media/HWMM79caMAAc8z4?format=jpg&amp;name=medium" alt="Sage2, a Jev Rival, Launches with Extraction and Streaming Context · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aigclink/status/2117552638585905509">Sage2, a Jev Rival, Launches with Extraction and Streaming Context</a></h3>
-<p>AIGCLINK highlights Sage2 from Levanto Labs as a peer competitor to Jev. Sage2 offers Extract to turn natural language into structured data and streaming context processing; the post cites claims of 166x lower cost than Opus 5.5, 3x faster decisions in growing-context scenarios, and outperforming Cloudflare&#39;s Clairic.</p>
-<p><strong>214</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 214</p>
-<p><strong>AIGCLINK</strong> · @aigclink</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/sardine/status/2117722757584568805"><img src="https://pbs.twimg.com/media/HWOpoBAXMAATU3G?format=jpg&amp;name=medium" alt="Jev&#39;s fraud detection test results · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sardine/status/2117722757584568805">Jev&#39;s fraud detection test results</a></h3>
+<p>Sardine shared results from testing TypeSafe AI&#39;s Jev model on a fraud ring, catching 27 of 29 fraudulent transactions.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 22</p>
+<p><strong>Sardine</strong> · @sardine</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/kun70706/status/2117552054466216198"><img src="https://pbs.twimg.com/media/HWMOMKGWoAAJfqt?format=jpg&amp;name=medium" alt="Jev Helps Compress Agent Data Query to Under 10 Seconds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kun70706/status/2117552054466216198">Jev Helps Compress Agent Data Query to Under 10 Seconds</a></h3>
-<p>The author shares how they reduced agent data query time to under 10 seconds: using Jev for intent recognition and judgment, with DeepSeek-V4.1 for generation—a real-world application of Jev.</p>
-<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
-<p><strong>杯中风暴</strong> · @kun70706</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/TechByMarkandey/status/2117721749819478199"><img src="https://pbs.twimg.com/amplify_video_thumb/2117718272346853376/img/aExbMjFiGy_tcPJU.jpg" alt="Replace SEO Tools with One Jev Prompt · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/TechByMarkandey/status/2117721749819478199">Replace SEO Tools with One Jev Prompt</a></h3>
+<p>With AI/ML API MCP and Jev, an AI agent can analyze your website and competitors, find 10K+ keywords, and launch Google Ads campaigns for just $0.61 per campaign, no subscriptions.</p>
+<p><strong>282</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 282</p>
+<p><strong>Markandey Sharma</strong> · @TechByMarkandey</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
-<a href="https://x.com/WillDobrev/status/2117550601567678836"><img src="https://pbs.twimg.com/media/HWJqorjWMAAMNCn?format=jpg&amp;name=medium" alt="Parallel frontend/backend with Jev classifier · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WillDobrev/status/2117550601567678836">Parallel frontend/backend with Jev classifier</a></h3>
-<p>The author shares a workflow where Jev is used as a classifier first; if a task involves both frontend and backend, it triggers two agents in parallel — one for backend, one for frontend with mocks.</p>
-<p><strong>63</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 63</p>
-<p><strong>Will Dobrev → criticalthinker.dev</strong> · @WillDobrev</p>
+<p><strong>03</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/aimlapi/status/2117720389946138837"><img src="https://pbs.twimg.com/amplify_video_thumb/2117718272346853376/img/aExbMjFiGy_tcPJU.jpg" alt="Run SEO-optimized campaigns with Jev for just $0.61 · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aimlapi/status/2117720389946138837">Run SEO-optimized campaigns with Jev for just $0.61</a></h3>
+<p>AI/ML API announces that with a single prompt you can run an SEO-optimized campaign, using TypeSafeAI&#39;s Jev to score 10k+ keywords, analyze website and competitor ads, and create, set up, and launch Google Ads at a fraction of the cost of Semrush and Ahrefs.</p>
+<p><strong>179</strong> views · 💬 1 &nbsp; 🔁 3 &nbsp; ♡ 5 &nbsp; 📊 179</p>
+<p><strong>AI/ML API</strong> · @aimlapi</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/freeCodeCamp/status/2117542924221034825"><img src="https://pbs.twimg.com/media/HWMGEWuXwAA0uHu?format=jpg&amp;name=medium" alt="Jev Course: Fast Decision-Oriented Generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/freeCodeCamp/status/2117542924221034825">Jev Course: Fast Decision-Oriented Generation</a></h3>
-<p>freeCodeCamp introduces a Jev course that teaches you how to build super-fast, decision-oriented models as an alternative to slow autoregressive token generation.</p>
-<p><strong>2.2K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 2.2K</p>
-<p><strong>freeCodeCamp.org</strong> · @freeCodeCamp</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/rauchg/status/2117719672951095772"><img src="https://pbs.twimg.com/amplify_video_thumb/2117686344172326912/img/lpb3rdguduQ7XMqr.jpg" alt="ai-cli: Bring Jev-class models to agents via CLI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rauchg/status/2117719672951095772">ai-cli: Bring Jev-class models to agents via CLI</a></h3>
+<p>Guillermo Rauch introduces ai-cli, a simple CLI giving agents access to video, voice, image, and text generation. The ai decide command brings Jev-class models, all behind AI Gateway with cost and ZDR controls.</p>
+<p><strong>5.9K</strong> views · 💬 21 &nbsp; 🔁 4 &nbsp; ♡ 78 &nbsp; 📊 5.9K</p>
+<p><strong>Guillermo Rauch</strong> · @rauchg</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/aigclink/status/2117552638585905509"><img src="https://pbs.twimg.com/media/HWMM79caMAAc8z4?format=jpg&amp;name=medium" alt="Sage2, a Jev Rival, Launches with Extraction and Streaming Context · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aigclink/status/2117552638585905509">Sage2, a Jev Rival, Launches with Extraction and Streaming Context</a></h3>
-<p>AIGCLINK highlights Sage2 from Levanto Labs as a peer competitor to Jev. Sage2 offers Extract to turn natural language into structured data and streaming context processing; the post cites claims of 166x lower cost than Opus 5.5, 3x faster decisions in growing-context scenarios, and outperforming Cloudflare&#39;s Clairic.</p>
-<p><strong>214</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 214</p>
-<p><strong>AIGCLINK</strong> · @aigclink</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/sardine/status/2117722757584568805"><img src="https://pbs.twimg.com/media/HWOpoBAXMAATU3G?format=jpg&amp;name=medium" alt="Jev&#39;s fraud detection test results · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sardine/status/2117722757584568805">Jev&#39;s fraud detection test results</a></h3>
+<p>Sardine shared results from testing TypeSafe AI&#39;s Jev model on a fraud ring, catching 27 of 29 fraudulent transactions.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 22</p>
+<p><strong>Sardine</strong> · @sardine</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
-<a href="https://x.com/freeCodeCamp/status/2117542924221034825"><img src="https://pbs.twimg.com/media/HWMGEWuXwAA0uHu?format=jpg&amp;name=medium" alt="Jev Course: Fast Decision-Oriented Generation · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/freeCodeCamp/status/2117542924221034825">Jev Course: Fast Decision-Oriented Generation</a></h3>
-<p>freeCodeCamp introduces a Jev course that teaches you how to build super-fast, decision-oriented models as an alternative to slow autoregressive token generation.</p>
-<p><strong>2.2K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 2.2K</p>
-<p><strong>freeCodeCamp.org</strong> · @freeCodeCamp</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/rauchg/status/2117719672951095772"><img src="https://pbs.twimg.com/amplify_video_thumb/2117686344172326912/img/lpb3rdguduQ7XMqr.jpg" alt="ai-cli: Bring Jev-class models to agents via CLI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rauchg/status/2117719672951095772">ai-cli: Bring Jev-class models to agents via CLI</a></h3>
+<p>Guillermo Rauch introduces ai-cli, a simple CLI giving agents access to video, voice, image, and text generation. The ai decide command brings Jev-class models, all behind AI Gateway with cost and ZDR controls.</p>
+<p><strong>5.9K</strong> views · 💬 21 &nbsp; 🔁 4 &nbsp; ♡ 78 &nbsp; 📊 5.9K</p>
+<p><strong>Guillermo Rauch</strong> · @rauchg</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/takahirosakashi/status/2117532593210183879"><img src="https://pbs.twimg.com/media/HWL8lRkaEAAlUGX?format=jpg&amp;name=medium" alt="Hindsight reportedly uses Jev for memory processing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/takahirosakashi/status/2117532593210183879">Hindsight reportedly uses Jev for memory processing</a></h3>
-<p>A post mentions Hindsight appears to use Jev for memory processing, suggesting it may be cheaper than LLMs.</p>
-<p><strong>58</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
-<p><strong>さかしー B級ビジネスコレクター</strong> · @takahirosakashi</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/allietheicon/status/2117714107675869374"><img src="https://pbs.twimg.com/media/HWOgaILbQAAXSPD?format=jpg&amp;name=900x900" alt="Handling Multiple Intents with Jev: The “Shopping Cart” Pattern · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/allietheicon/status/2117714107675869374">Handling Multiple Intents with Jev: The “Shopping Cart” Pattern</a></h3>
+<p>The author shares a technique for using Jev&#39;s primitives to handle multiple intents in one user query, recommending a “shopping cart” pattern that recursively picks the next action until Jev signals completion.</p>
+<p><strong>3.0K</strong> views · 💬 5 &nbsp; 🔁 5 &nbsp; ♡ 13 &nbsp; 📊 3.0K</p>
+<p><strong>Allie the Icon</strong> · @allietheicon</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/CMD_LABS/status/2117452825034625187"><img src="https://pbs.twimg.com/amplify_video_thumb/2117451427844952064/img/fU2eGY6gKpgy2jrC.jpg" alt="3 Key Differences Between Jev and LLMs · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CMD_LABS/status/2117452825034625187">3 Key Differences Between Jev and LLMs</a></h3>
-<p>COMMAND LABS notes that while many use LLMs, fewer understand their shortcomings, and highlights three important differences between Jev and LLMs.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/MercityAI/status/2117618209365107122"><img src="https://pbs.twimg.com/media/HWNKiBOasAA5zU-?format=png&amp;name=900x900" alt="Jev Guard Evaluation: Context-Dependent Errors Harder to Catch · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MercityAI/status/2117618209365107122">Jev Guard Evaluation: Context-Dependent Errors Harder to Catch</a></h3>
+<p>This post describes guard models&#39; inspection of reply content using GPT-6.1 Terra as a baseline. Jev catches 65% of leaked tool code and 33% of wrong content; the more context-dependent a mistake is, the harder it is to catch.</p>
+<p><strong>13</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 13</p>
+<p><strong>Mercity AI</strong> · @MercityAI</p>
 </td>
 </tr>
 </table>

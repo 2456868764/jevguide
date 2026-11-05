@@ -1,26 +1,26 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1333
+- [Community builds](../categories/community-builds.md) — 1339
 - [Developer tools](../categories/developer-tools.md) — 664
-- [How it works](../categories/how-it-works.md) — 624
-- [Launch news](../categories/launch-news.md) — 592
-- [Agents](../categories/agents.md) — 572
+- [How it works](../categories/how-it-works.md) — 626
+- [Launch news](../categories/launch-news.md) — 595
+- [Agents](../categories/agents.md) — 574
 - [Access updates](../categories/access-updates.md) — 446
-- [Developer resources](../categories/developer-resources.md) — 405
+- [Developer resources](../categories/developer-resources.md) — 406
 - [Gaming](../categories/gaming.md) — 403
-- [Finance](../categories/finance.md) — 369
-- [Workflow automation](../categories/workflow-automation.md) — 296
-- [Marketing](../categories/marketing.md) — 192
+- [Finance](../categories/finance.md) — 371
+- [Workflow automation](../categories/workflow-automation.md) — 297
+- [Marketing](../categories/marketing.md) — 195
 - [Knowledge & search](../categories/knowledge-search.md) — 141
 - [Content creation](../categories/content-creation.md) — 136
 - [Scientific research](../categories/scientific-research.md) — 124
 - [Data analytics](../categories/data-analytics.md) — 120
-- [Cybersecurity](../categories/cybersecurity.md) — 87
-- [Customer support](../categories/customer-support.md) — 65
+- [Cybersecurity](../categories/cybersecurity.md) — 90
+- [Customer support](../categories/customer-support.md) — 67
 - [Robotics](../categories/robotics.md) — 59
 - [Software development](../categories/software-development.md) — 54
+- [Business operations](../categories/business-operations.md) — 49
 - [Productivity](../categories/productivity.md) — 49
-- [Business operations](../categories/business-operations.md) — 47
 - [Education](../categories/education.md) — 36
 - [Healthcare](../categories/healthcare.md) — 35
 - [E-commerce](../categories/e-commerce.md) — 24

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 624 | 275 | 350 | 1.6M |
+| 626 | 275 | 352 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MercityAI/status/2117618239601594621"><img src="https://pbs.twimg.com/media/HWNKjydbQAAvZom?format=jpg&amp;name=medium" alt="Comparing score distributions of guard models like Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MercityAI/status/2117618239601594621">Comparing score distributions of guard models like Jev</a></h3>
+<p>The post notes that Jev detects violations but often scores them below the cutoff, so some rules never fire; it also compares score distributions of Clef and Terra.</p>
+<p><strong>中文摘要：</strong>帖子指出 Jev 能发现违规但常将分数低于阈值，导致部分规则不触发；同时对比了 Clef 和 Terra 的评分分布特征。</p>
+<p><strong>Mercity AI</strong> · @MercityAI · 2026-11-03T14:01:46.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><a href="https://x.com/MercityAI/status/2117618239601594621">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anoopjoes/status/2117566890361159859"><img src="https://pbs.twimg.com/media/HWMb25SbgAAsmCf?format=jpg&amp;name=900x900" alt="Jev Explained: The Model That Decides Without Writing a Word · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anoopjoes/status/2117566890361159859">Jev Explained: The Model That Decides Without Writing a Word</a></h3>
+<p>This article explains TypeSafe&#39;s new System One model (Jev), what it is, how it decides without writing, and where it may fail you.</p>
+<p><strong>中文摘要：</strong>这篇文章介绍 TypeSafe 的新型 System One 模型（Jev），解释它是什么、如何在不写作的情况下做出决策，以及在哪些场景下会失效。</p>
+<p><strong>Anoop George Joseph</strong> · @anoopjoes · 2026-11-03T10:37:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/anoopjoes/status/2117566890361159859">在 X 查看原帖</a> · <a href="https://t.co/LOhX5nTM1X">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/CMD_LABS/status/2117452825034625187"><img src="https://pbs.twimg.com/amplify_video_thumb/2117451427844952064/img/fU2eGY6gKpgy2jrC.jpg" alt="3 Key Differences Between Jev and LLMs · 原帖视频截图" width="100%"></a>

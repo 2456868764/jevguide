@@ -1,9 +1,11 @@
 # 8Bit🦞
 
-13 Jev showcases.
+15 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-03T19:09:23.000Z | [But does it use TypeSafe Jev?](https://x.com/0rdlibrary/status/2117695654055313779) | 社区实践 | 8Bit🦞 | 296 |
+| 2026-11-03T13:56:52.000Z | [JEV flagged 321 tokens in 24 hours](https://x.com/0rdlibrary/status/2117617006929481862) | 金融 | 8Bit🦞 | 211 |
 | 2026-11-02T18:03:13.000Z | [JEV decision model going live for ORE mining](https://x.com/0rdlibrary/status/2117316615490666943) | 金融 | 8Bit🦞 | 284 |
 | 2026-11-02T17:24:32.000Z | [Mine Ore with TypeSafe JEV on Solana](https://x.com/0rdlibrary/status/2117306881261899869) | 金融 | 8Bit🦞 | 345 |
 | 2026-11-02T16:46:08.000Z | [Jev-Powered ORE Mining Rig Agent](https://x.com/0rdlibrary/status/2117297218151391606) | 智能体 | 8Bit🦞 | 317 |

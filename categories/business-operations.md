@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 47 | 18 | 29 | 115K |
+| 49 | 19 | 30 | 115K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/tinyray1314/status/2117613826543878552"><img src="https://pbs.twimg.com/amplify_video_thumb/2117600771575574529/img/b5dTxMAmNi325CpX.jpg" alt="Jev in Resume Screening: Real Use Case · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tinyray1314/status/2117613826543878552">Jev in Resume Screening: Real Use Case</a></h3>
+<p>Shares a real use case of the Jev decision model in resume screening and evaluation, highlighting significant efficiency gains and mentioning extensions to influencer screening, backlinks, product selection, and email management.</p>
+<p><strong>中文摘要：</strong>分享Jev决策模型在招聘简历筛选与评测场景中的应用案例，指出提效显著，并提到可扩展至筛达人、外链、选品、邮箱管理等辅助提效场景。</p>
+<p><strong>Tiny | AI 创业版</strong> · @tinyray1314 · 2026-11-03T13:44:14.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 41</p>
+<p><a href="https://x.com/tinyray1314/status/2117613826543878552">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/GoSailGlobal/status/2117604205439627428"><img src="https://pbs.twimg.com/media/HWM9jk8bkAAEc8x?format=jpg&amp;name=medium" alt="EasyHire AI recruitment agent powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>企业运营</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/GoSailGlobal/status/2117604205439627428">EasyHire AI recruitment agent powered by Jev</a></h3>
+<p>Jason Zhu shared EasyHire AI, a recruiting agent built with TypeSafe&#39;s Jev model, including a product tour link.</p>
+<p><strong>中文摘要：</strong>Jason Zhu分享了招聘Agent EasyHire AI，该产品基于TypeSafe的Jev模型构建，并提供了产品演示链接。</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal · 2026-11-03T13:06:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 310</p>
+<p><a href="https://x.com/GoSailGlobal/status/2117604205439627428">在 X 查看原帖</a> · <a href="https://t.co/5VuoIsPloI">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/NewsTongueX/status/2117491143193580005"><img src="https://pbs.twimg.com/media/HWLW94UWgAA_6Ss?format=jpg&amp;name=medium" alt="AI defect detection surpasses CLIP with just 2 reference images · 原帖图片" width="100%"></a>

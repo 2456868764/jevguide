@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 572 | 310 | 264 | 3.0M |
+| 574 | 311 | 265 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/teach_fireworks/status/2117614554943467586"><img src="https://pbs.twimg.com/media/HWNEJFuaEAAaOss?format=jpg&amp;name=4096x4096" alt="Jev and Harness Mechanisms Evolving in the Agent Era · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/teach_fireworks/status/2117614554943467586">Jev and Harness Mechanisms Evolving in the Agent Era</a></h3>
+<p>Teacher Fireworks shares observations on the evolution from Jev to Harness Router, noting that as token consumption surges over a hundredfold, agents and harnesses move from rough growth to refinement, requiring mechanisms like Jev or Harness.</p>
+<p><strong>中文摘要：</strong>烟花老师分享了对Jev到Harness Router演进的观察，认为在当前token消耗暴增百倍的背景下，Agent和Harness已从粗放增长走向精细化，需要类似Jev或Harness的机制来优化。</p>
+<p><strong>烟花老师</strong> · @teach_fireworks · 2026-11-03T13:47:07.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 202</p>
+<p><a href="https://x.com/teach_fireworks/status/2117614554943467586">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ClementHu666/status/2117601807203704980"><img src="https://pbs.twimg.com/amplify_video_thumb/2117600771575574529/img/b5dTxMAmNi325CpX.jpg" alt="EasyHire AI: A Jev-Powered Recruiting Agent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ClementHu666/status/2117601807203704980">EasyHire AI: A Jev-Powered Recruiting Agent</a></h3>
+<p>EasyHire AI is a Jev-powered recruiting agent that turns a one-line brief into 1,286 scored candidates from 30+ sources in 60 seconds, flags uncertain profiles, and lets you approve.</p>
+<p><strong>中文摘要：</strong>EasyHire AI 是一个基于 Jev 的招聘智能体，输入一行简介即可在 60 秒内从 30 多个来源筛选出 1,286 名评分候选人，并标注不确定项供人工确认。</p>
+<p><strong>Clement Hu EasyHire AI</strong> · @ClementHu666 · 2026-11-03T12:56:28.000Z</p>
+<p>💬 3 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 290</p>
+<p><a href="https://x.com/ClementHu666/status/2117601807203704980">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kun70706/status/2117552054466216198"><img src="https://pbs.twimg.com/media/HWMOMKGWoAAJfqt?format=jpg&amp;name=medium" alt="Jev Helps Compress Agent Data Query to Under 10 Seconds · 原帖图片" width="100%"></a>

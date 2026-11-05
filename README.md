@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6956</strong><br>curated posts</td>
-<td align="center"><strong>3450</strong><br>original videos</td>
+<td align="center"><strong>6984</strong><br>curated posts</td>
+<td align="center"><strong>3459</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1351</strong> showcases · <strong>563</strong> videos</p>
+<p><strong>1357</strong> showcases · <strong>564</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>665</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>667</strong> showcases · <strong>329</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>627</strong> showcases · <strong>276</strong> videos</p>
+<p><strong>628</strong> showcases · <strong>277</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>578</strong> showcases · <strong>312</strong> videos</p>
+<p><strong>583</strong> showcases · <strong>313</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>447</strong> showcases · <strong>187</strong> videos</p>
+<p><strong>448</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>406</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>409</strong> showcases · <strong>159</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>376</strong> showcases · <strong>210</strong> videos</p>
+<p><strong>379</strong> showcases · <strong>210</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>136</strong> showcases · <strong>98</strong> videos</p>
+<p><strong>137</strong> showcases · <strong>99</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,13 +134,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>67</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>69</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>59</strong> showcases · <strong>45</strong> videos</p>
+<p><strong>62</strong> showcases · <strong>47</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>51</strong> showcases · <strong>32</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
 <p><strong>50</strong> showcases · <strong>20</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>50</strong> showcases · <strong>32</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117825323903664166"><img src="https://pbs.twimg.com/media/HWQG6Nsa8AAhbEU?format=jpg&amp;name=medium" alt="Jev Model in Action: Hires Claude and Accepts Work · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117825323903664166">Jev Model in Action: Hires Claude and Accepts Work</a></h3>
-<p>BrainChain posted a proof-of-task showing Jev hiring Claude at 44% confidence, accepting the completed work at 91%, and minting the result on ripples.run.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/jais_mukesh/status/2117977440840458345"><img src="https://pbs.twimg.com/media/HWSQrj5WwAAeAGH?format=jpg&amp;name=medium" alt="Reflecting on AI subscription usage · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jais_mukesh/status/2117977440840458345">Reflecting on AI subscription usage</a></h3>
+<p>The author reflects on not fully utilizing AI subscriptions, unaware of billing cycles, days remaining, and even forgetting they subscribed to Jev AI and OpenAI API credits.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><strong>Mukesh</strong> · @jais_mukesh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/my_musings_ind/status/2117824532711149948"><img src="https://pbs.twimg.com/amplify_video_thumb/2117672859946672128/img/6ax_z_20eBkvl_Bw.jpg" alt="Sarvam AI launches decision model Prism, drawing comparison to Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/my_musings_ind/status/2117824532711149948">Sarvam AI launches decision model Prism, drawing comparison to Jev</a></h3>
-<p>An Indian commentator notes Sarvam AI&#39;s moves: a token factory for OpenAI-compatible APIs and a decision model Prism, likening it to Jev.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Ordinary Indian</strong> · @my_musings_ind</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2117970512001573131"><img src="https://pbs.twimg.com/media/HWSK9JGXEAAn2I9?format=jpg&amp;name=medium" alt="TypeSafe AI Jev: Decision Agents for Trading on Solana · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2117970512001573131">TypeSafe AI Jev: Decision Agents for Trading on Solana</a></h3>
+<p>The post promotes TypeSafe AI&#39;s Jev, suggesting it lets users see coins for what they naturally are, and announces that decision agents have arrived on Solana, with a link to Musebook.trade/decide.</p>
+<p><strong>218</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 218</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/arushi_ressl/status/2117822177240400189"><img src="https://pbs.twimg.com/media/HWQDRcTbQAAlQI7?format=jpg&amp;name=medium" alt="SarvamAI&#39;s decision model outperforms Jev and others on a 200-task benchmark · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/arushi_ressl/status/2117822177240400189">SarvamAI&#39;s decision model outperforms Jev and others on a 200-task benchmark</a></h3>
-<p>Arushi Gandhi tested 4 decision models on classifying 200 recent emails as cold emails. Prism had the highest accuracy, only two emails ahead of Jev; Jev was the fastest.</p>
-<p><strong>183</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 183</p>
-<p><strong>Arushi Gandhi</strong> · @arushi_ressl</p>
+<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/TolokaAI/status/2117966373812904300"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117966352019275776/pu/img/-HidtC3cohj0lQ7h.jpg" alt="Toloka tests Jev and Astra for robot control · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/TolokaAI/status/2117966373812904300">Toloka tests Jev and Astra for robot control</a></h3>
+<p>Toloka tested OpenAI&#39;s GPT-6 Astra and TypeSafe AI&#39;s Jev for robot control on a Trossen bimanual robot. Astra as a visuomotor policy achieved 90% success on the harder pick-and-place test, compared with 30% for the classical stack it wrote itself.</p>
+<p><strong>122</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 122</p>
+<p><strong>Toloka</strong> · @TolokaAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/n_y_1411/status/2117822176292450561"><img src="https://pbs.twimg.com/media/HWQECoDbUAAZ8a2?format=jpg&amp;name=900x900" alt="Sarvam releases Prism, positioning it as a Jev rival with benchmark comparisons · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/n_y_1411/status/2117822176292450561">Sarvam releases Prism, positioning it as a Jev rival with benchmark comparisons</a></h3>
-<p>The post introduces Sarvam&#39;s new model Prism, claiming higher average benchmark scores than Jev 1.14 and lower response latency, making it a strong competitor with some improvements.</p>
-<p><strong>34</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 34</p>
-<p><strong>NYC!</strong> · @n_y_1411</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117966133009748378"><img src="https://pbs.twimg.com/media/HWSG-YuasAAysfE?format=jpg&amp;name=medium" alt="Jev hired Claude at 50% confidence and accepted the work at 94% · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117966133009748378">Jev hired Claude at 50% confidence and accepted the work at 94%</a></h3>
+<p>This is proof of task #17: TypeSafe&#39;s Jev hired Claude at 50% confidence, accepted the work at 94%, and the result was minted by a collector on ripples.run.</p>
+<p><strong>136</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 136</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117825323903664166"><img src="https://pbs.twimg.com/media/HWQG6Nsa8AAhbEU?format=jpg&amp;name=medium" alt="Jev Model in Action: Hires Claude and Accepts Work · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117825323903664166">Jev Model in Action: Hires Claude and Accepts Work</a></h3>
-<p>BrainChain posted a proof-of-task showing Jev hiring Claude at 44% confidence, accepting the completed work at 91%, and minting the result on ripples.run.</p>
-<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>生产力</code> <code>原帖图片</code></p>
+<a href="https://x.com/jais_mukesh/status/2117977440840458345"><img src="https://pbs.twimg.com/media/HWSQrj5WwAAeAGH?format=jpg&amp;name=medium" alt="Reflecting on AI subscription usage · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jais_mukesh/status/2117977440840458345">Reflecting on AI subscription usage</a></h3>
+<p>The author reflects on not fully utilizing AI subscriptions, unaware of billing cycles, days remaining, and even forgetting they subscribed to Jev AI and OpenAI API credits.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 2</p>
+<p><strong>Mukesh</strong> · @jais_mukesh</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/n_y_1411/status/2117822176292450561"><img src="https://pbs.twimg.com/media/HWQECoDbUAAZ8a2?format=jpg&amp;name=900x900" alt="Sarvam releases Prism, positioning it as a Jev rival with benchmark comparisons · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/n_y_1411/status/2117822176292450561">Sarvam releases Prism, positioning it as a Jev rival with benchmark comparisons</a></h3>
-<p>The post introduces Sarvam&#39;s new model Prism, claiming higher average benchmark scores than Jev 1.14 and lower response latency, making it a strong competitor with some improvements.</p>
-<p><strong>34</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 34</p>
-<p><strong>NYC!</strong> · @n_y_1411</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117966133009748378"><img src="https://pbs.twimg.com/media/HWSG-YuasAAysfE?format=jpg&amp;name=medium" alt="Jev hired Claude at 50% confidence and accepted the work at 94% · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117966133009748378">Jev hired Claude at 50% confidence and accepted the work at 94%</a></h3>
+<p>This is proof of task #17: TypeSafe&#39;s Jev hired Claude at 50% confidence, accepted the work at 94%, and the result was minted by a collector on ripples.run.</p>
+<p><strong>136</strong> views · 💬 2 &nbsp; 🔁 3 &nbsp; ♡ 9 &nbsp; 📊 136</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/DownTimeMachine/status/2117814510446895443"><img src="https://pbs.twimg.com/media/HWP8vmbbgAAvSYw?format=jpg&amp;name=medium" alt="Agent Eval Plans Jev Integration for Classed Summaries · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DownTimeMachine/status/2117814510446895443">Agent Eval Plans Jev Integration for Classed Summaries</a></h3>
-<p>The author shares agent eval results after throwing work at Crouton, and plans next to hook Jev into the workflow for classed summaries.</p>
-<p><strong>23</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
-<p><strong>&quot;͏ ͏&quot;</strong> · @DownTimeMachine</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/rgonv/status/2117961811157000332"><img src="https://pbs.twimg.com/media/HWSDCzQaYAAotMN?format=png&amp;name=medium" alt="Train Your Own Decision Model Like Jev with Unsloth · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/rgonv/status/2117961811157000332">Train Your Own Decision Model Like Jev with Unsloth</a></h3>
+<p>A tutorial on training a decision model similar to Jev using the Unsloth framework, intended for developers who want to build their own model.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ricardo Gonzalez</strong> · @rgonv</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/hooksie1/status/2117803591641751569"><img src="https://pbs.twimg.com/amplify_video_thumb/2117803360497598464/img/_0B9T7x_lQxULF5c.jpg" alt="Proxy Using a Jev-Based Model for NATS Messages · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/hooksie1/status/2117803591641751569">Proxy Using a Jev-Based Model for NATS Messages</a></h3>
-<p>The author is experimenting with a proxy that calls a Jev-based model for NATS messages, running clef-flash locally so responses are a bit slow.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>Vim Halen</strong> · @hooksie1</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/minheo93698092/status/2117875261903606194"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Solving AI coding agent context compression with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/minheo93698092/status/2117875261903606194">Solving AI coding agent context compression with Jev</a></h3>
+<p>The post notes that AI coding agents accumulate large amounts of context during long conversations, limited by the model context window, and discusses using Jev to address this.</p>
+<p><strong>364</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 364</p>
+<p><strong>min heo</strong> · @minheo93698092</p>
 </td>
 </tr>
 </table>

@@ -1,9 +1,10 @@
 # Beaver
 
-4 Jev showcases.
+5 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-03T15:10:00.000Z | [JEV as the Fast Gut Brain](https://x.com/Beaver_0x/status/2117635411237359725) | 工作原理 | Beaver | 2.0K |
 | 2026-10-28T19:12:21.000Z | [Jev's millisecond trading signals spark discussion](https://x.com/Beaver_0x/status/2115522075322626324) | 金融 | Beaver | 3.0K |
 | 2026-10-11T14:39:31.000Z | [Jev: A Tiny Decision Model](https://x.com/Beaver_0x/status/2109292818103411084) | 工作原理 | Beaver | 507 |
 | 2026-10-05T14:02:00.000Z | [Jev API Getting Started and Desktop Automation Checklist](https://x.com/Beaver_0x/status/2107109050362282206) | 开发资源 | Beaver | 76 |

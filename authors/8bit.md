@@ -1,9 +1,10 @@
 # 8Bit🦞
 
-22 Jev showcases.
+24 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-04T13:21:34.000Z | [TypeSafe AI Jev: Decision Agents for Trading on Solana](https://x.com/0rdlibrary/status/2117970512001573131) | 金融 | 8Bit🦞 | 218 |
 | 2026-11-04T02:47:27.000Z | [Leveraging Jev and a decision engine for trading](https://x.com/0rdlibrary/status/2117810929991901664) | 金融 | 8Bit🦞 | 163 |
 | 2026-11-03T22:52:44.000Z | [User shares using Jev](https://x.com/0rdlibrary/status/2117751860551684097) | 社区实践 | 8Bit🦞 | 232 |
 | 2026-11-03T22:47:21.000Z | [This with TypeSafe AI Jev decision engine](https://x.com/0rdlibrary/status/2117750506194129231) | 智能体 | 8Bit🦞 | 214 |
@@ -12,6 +13,7 @@
 | 2026-11-03T18:24:27.000Z | [New token decision tool powered by Jev](https://x.com/0rdlibrary/status/2117684345913692664) | 金融 | 8Bit🦞 | 280 |
 | 2026-11-03T17:29:25.000Z | [Pairing Jev decisions with personal bubble maps](https://x.com/0rdlibrary/status/2117670498150588785) | 社区实践 | 8Bit🦞 | 335 |
 | 2026-11-03T16:48:24.000Z | [Tracking token launches in realtime with the Jev engine](https://x.com/0rdlibrary/status/2117660172587851810) | 社区实践 | 8Bit🦞 | 371 |
+| 2026-11-03T15:59:59.000Z | [Integrating Jev into Trading Bubble Maps](https://x.com/0rdlibrary/status/2117647988185317537) | 金融 | 8Bit🦞 | 341 |
 | 2026-11-03T13:56:52.000Z | [JEV flagged 321 tokens in 24 hours](https://x.com/0rdlibrary/status/2117617006929481862) | 金融 | 8Bit🦞 | 211 |
 | 2026-11-02T18:03:13.000Z | [JEV decision model going live for ORE mining](https://x.com/0rdlibrary/status/2117316615490666943) | 金融 | 8Bit🦞 | 284 |
 | 2026-11-02T17:24:32.000Z | [Mine Ore with TypeSafe JEV on Solana](https://x.com/0rdlibrary/status/2117306881261899869) | 金融 | 8Bit🦞 | 345 |

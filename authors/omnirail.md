@@ -1,9 +1,10 @@
 # OmniRail
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-04T09:17:00.000Z | [Jev-Powered Intelligent Ticket Routing](https://x.com/omnirailorg/status/2117908963408699571) | 客户支持 | OmniRail | 40 |
 | 2026-11-03T17:17:00.000Z | [Pre-filter web pages with Jev](https://x.com/omnirailorg/status/2117667371116810423) | 智能体 | OmniRail | 158 |
 | 2026-11-03T01:17:00.000Z | [Routing agent requests by difficulty with Jev](https://x.com/omnirailorg/status/2117425779042566191) | 工作原理 | OmniRail | 40 |
 | 2026-11-01T14:09:00.000Z | [Efficiently Moderating Group Chats with Jev](https://x.com/omnirailorg/status/2116895284026331142) | 社区实践 | OmniRail | 23 |

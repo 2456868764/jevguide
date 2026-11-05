@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 665 | 328 | 340 | 3.6M |
+| 667 | 329 | 341 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/minheo93698092/status/2117875261903606194"><img src="https://pbs.twimg.com/amplify_video_thumb/2100694537672998912/img/OF8vottg6-45ZgNl.jpg" alt="Solving AI coding agent context compression with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/minheo93698092/status/2117875261903606194">Solving AI coding agent context compression with Jev</a></h3>
+<p>The post notes that AI coding agents accumulate large amounts of context during long conversations, limited by the model context window, and discusses using Jev to address this.</p>
+<p><strong>中文摘要：</strong>帖子指出AI编码代理在长对话中会积累大量上下文，从而受限于模型上下文窗口，并讨论用Jev解决该问题。</p>
+<p><strong>min heo</strong> · @minheo93698092 · 2026-11-04T07:03:05.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 364</p>
+<p><a href="https://x.com/minheo93698092/status/2117875261903606194">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/oliviscusAI/status/2117809308075450438"><img src="https://pbs.twimg.com/media/HWP4RvYbAAArqFs?format=jpg&amp;name=medium" alt="HarnessRouter: A Unified Agent Interface with Jev-Powered System One · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Oliver</strong> · @oliviscusAI · 2026-11-04T02:41:00.000Z</p>
 <p>💬 7 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 658</p>
 <p><a href="https://x.com/oliviscusAI/status/2117809308075450438">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/LLMDevPass/status/2117636589954236680"><img src="https://pbs.twimg.com/media/HWNbQU8X0AEXp7p?format=png&amp;name=medium" alt="Jev 1.14 Grows 162.6% in LLM Gateway 24h Traffic · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LLMDevPass/status/2117636589954236680">Jev 1.14 Grows 162.6% in LLM Gateway 24h Traffic</a></h3>
+<p>DevPass reports Jev 1.14 processed 8.0B tokens in 24h, up 162.6%, ranking #2 on the LLM Gateway with 36.2% of requests.</p>
+<p><strong>中文摘要：</strong>DevPass 报告显示，Jev 1.14 在24小时内处理80亿token，环比增长162.6%，成为LLM Gateway中第二大模型，占请求量的36.2%。</p>
+<p><strong>DevPass</strong> · @LLMDevPass · 2026-11-03T15:14:41.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 80</p>
+<p><a href="https://x.com/LLMDevPass/status/2117636589954236680">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/CKaramoustos/status/2117405927565365289"><img src="https://pbs.twimg.com/media/HWKJCCJWUAAXsUd?format=jpg&amp;name=medium" alt="PhasmaHarness: A Coding Harness Using Jev as a Router · 原帖图片" width="100%"></a>

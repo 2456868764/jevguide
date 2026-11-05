@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1351 | 563 | 795 | 3.0M |
+| 1357 | 564 | 800 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/soundinspire9/status/2117905026836537647"><img src="https://pbs.twimg.com/media/HWRPZDGaIAAq4W3?format=png&amp;name=medium" alt="Jev&#39;s Judgment Depends on How Materials Are Provided · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soundinspire9/status/2117905026836537647">Jev&#39;s Judgment Depends on How Materials Are Provided</a></h3>
+<p>The post points out that even with the same question, Jev&#39;s judgment changes depending on the provided materials. Using a comparison between Claude Code and Codex, it explains that judgment quality depends on how materials are designed.</p>
+<p><strong>中文摘要：</strong>帖子指出，即使提出相同问题，由于所提供材料不同，Jev的判断结果也会不同。以Claude Code和Codex的对比为例，说明判断质量取决于材料的设计。</p>
+<p><strong>Sound Inspire</strong> · @soundinspire9 · 2026-11-04T09:01:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/soundinspire9/status/2117905026836537647">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/soundinspire9/status/2117904938026320348"><img src="https://pbs.twimg.com/media/HWRPUCDaYAA3Oou?format=png&amp;name=medium" alt="Practical Notes on Integrating Jev with Claude Code and Codex · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/soundinspire9/status/2117904938026320348">Practical Notes on Integrating Jev with Claude Code and Codex</a></h3>
+<p>The author integrated Jev, a judgment-only AI, into Claude Code and Codex. Each judgment costs about 0.003 yen, and even a few test calls cost less than 1 yen. The thread also documents three pitfalls encountered during the setup and failure logs to help others avoid the same issues.</p>
+<p><strong>中文摘要：</strong>作者将“仅做判断”的Jev接入Claude Code和Codex，每次判断约0.003日元，几次测试也不到1日元。文章还总结了连接过程中遇到的三个问题及失败日志，帮助遇到相同困扰的人少走弯路。</p>
+<p><strong>Sound Inspire</strong> · @soundinspire9 · 2026-11-04T09:01:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/soundinspire9/status/2117904938026320348">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/apolkingg8/status/2117850570207932483"><img src="https://pbs.twimg.com/amplify_video_thumb/2117850525769359360/img/M9oAqddKW3yfCsMY.jpg" alt="Jev Map Coloring Experiment: How Does It Choose Between Red and Blue? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/apolkingg8/status/2117850570207932483">Jev Map Coloring Experiment: How Does It Choose Between Red and Blue?</a></h3>
+<p>The author is developing a feature that lets Jev quickly decide which map element to use based on search results, and ran a fun experiment: leaving only red and blue area elements to see how Jev colors each state.</p>
+<p><strong>中文摘要：</strong>作者正在开发一个让Jev根据搜索结果快速判断使用哪个地图元素的新功能，并做了一个有趣的小实验：只留下红色和蓝色的area element，观察Jev如何为每个州上色。</p>
+<p><strong>Eddie Hsu</strong> · @apolkingg8 · 2026-11-04T05:24:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 15</p>
+<p><a href="https://x.com/apolkingg8/status/2117850570207932483">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/my_musings_ind/status/2117824532711149948"><img src="https://pbs.twimg.com/amplify_video_thumb/2117672859946672128/img/6ax_z_20eBkvl_Bw.jpg" alt="Sarvam AI launches decision model Prism, drawing comparison to Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +56,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
 <p><a href="https://x.com/my_musings_ind/status/2117824532711149948">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/arushi_ressl/status/2117822177240400189"><img src="https://pbs.twimg.com/media/HWQDRcTbQAAlQI7?format=jpg&amp;name=medium" alt="SarvamAI&#39;s decision model outperforms Jev and others on a 200-task benchmark · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +69,6 @@
 <p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 183</p>
 <p><a href="https://x.com/arushi_ressl/status/2117822177240400189">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DownTimeMachine/status/2117814510446895443"><img src="https://pbs.twimg.com/media/HWP8vmbbgAAvSYw?format=jpg&amp;name=medium" alt="Agent Eval Plans Jev Integration for Classed Summaries · 原帖图片" width="100%"></a>
 <br>
@@ -45,6 +80,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
 <p><a href="https://x.com/DownTimeMachine/status/2117814510446895443">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hooksie1/status/2117803591641751569"><img src="https://pbs.twimg.com/amplify_video_thumb/2117803360497598464/img/_0B9T7x_lQxULF5c.jpg" alt="Proxy Using a Jev-Based Model for NATS Messages · 原帖视频截图" width="100%"></a>
 <br>
@@ -56,8 +93,6 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
 <p><a href="https://x.com/hooksie1/status/2117803591641751569">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Xianbao_QIAN/status/2117787965175083210"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117657977276522496/pu/img/9oSTuBAIwTrJKkMv.jpg" alt="Discussion on combining diffusion LLM with Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +104,8 @@
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 508</p>
 <p><a href="https://x.com/Xianbao_QIAN/status/2117787965175083210">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117751860551684097"><img src="https://pbs.twimg.com/media/HWPEF-BXsAAg5Yv?format=jpg&amp;name=medium" alt="User shares using Jev · 原帖图片" width="100%"></a>
 <br>
@@ -80,8 +117,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 232</p>
 <p><a href="https://x.com/0rdlibrary/status/2117751860551684097">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117742565332312470"><img src="https://pbs.twimg.com/media/HWO7o8UWsAAalnk?format=jpg&amp;name=medium" alt="Jev decision mining rigs used in the community for marketing shots · 原帖图片" width="100%"></a>
 <br>
@@ -93,6 +128,8 @@
 <p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 295</p>
 <p><a href="https://x.com/0rdlibrary/status/2117742565332312470">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MiguelriosEN/status/2117735638464413761"><img src="https://pbs.twimg.com/media/HWO1UvuasAAxNaO?format=jpg&amp;name=medium" alt="Fun example of using Jev to tweak model internals · 原帖图片" width="100%"></a>
 <br>
@@ -104,8 +141,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 304</p>
 <p><a href="https://x.com/MiguelriosEN/status/2117735638464413761">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/allietheicon/status/2117714107675869374"><img src="https://pbs.twimg.com/media/HWOgaILbQAAXSPD?format=jpg&amp;name=900x900" alt="Handling Multiple Intents with Jev: The “Shopping Cart” Pattern · 原帖图片" width="100%"></a>
 <br>
@@ -117,6 +152,8 @@
 <p>💬 5 &nbsp; 🔁 5 &nbsp; ♡ 13 &nbsp; 📊 3.0K</p>
 <p><a href="https://x.com/allietheicon/status/2117714107675869374">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117695654055313779"><img src="https://pbs.twimg.com/media/HWOQ-WOW0AA0GyE?format=jpg&amp;name=medium" alt="But does it use TypeSafe Jev? · 原帖图片" width="100%"></a>
 <br>
@@ -128,8 +165,6 @@
 <p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 5 &nbsp; 📊 296</p>
 <p><a href="https://x.com/0rdlibrary/status/2117695654055313779">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117670498150588785"><img src="https://pbs.twimg.com/media/HWN6GEcXoAAXxTO?format=jpg&amp;name=medium" alt="Pairing Jev decisions with personal bubble maps · 原帖图片" width="100%"></a>
 <br>
@@ -141,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 5 &nbsp; 📊 335</p>
 <p><a href="https://x.com/0rdlibrary/status/2117670498150588785">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/SandipanKundu42/status/2117662459964412114"><img src="https://pbs.twimg.com/media/HWNw26-bEAAaZ4S?format=jpg&amp;name=medium" alt="Sarvam Prism First Thoughts: Competitive with Jev but Watch Cost and Latency · 原帖图片" width="100%"></a>
 <br>
@@ -152,8 +189,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
 <p><a href="https://x.com/SandipanKundu42/status/2117662459964412114">在 X 查看原帖</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117660172587851810"><img src="https://pbs.twimg.com/media/HWNwtCvXYAAKDZT?format=jpg&amp;name=medium" alt="Tracking token launches in realtime with the Jev engine · 原帖图片" width="100%"></a>
 <br>
@@ -165,6 +200,8 @@
 <p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 6 &nbsp; 📊 371</p>
 <p><a href="https://x.com/0rdlibrary/status/2117660172587851810">在 X 查看原帖</a> · <a href="https://t.co/6OvNGnerrV">原文链接</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nolansym/status/2117655706933350806"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117655690076356608/pu/img/TMIPdOhkAZ-Pc1jn.jpg" alt="Jev JSON Render: New AI Pattern for UI Generation · 原帖视频截图" width="100%"></a>
 <br>
@@ -175,6 +212,41 @@
 <p><strong>Jordan</strong> · @nolansym · 2026-11-03T16:30:39.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 317</p>
 <p><a href="https://x.com/nolansym/status/2117655706933350806">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/101xtechnology/status/2117641514306478430"><img src="https://pbs.twimg.com/media/HWNftpGb0AAMmNl?format=jpg&amp;name=medium" alt="Community Benchmark: Sarvam Prism Claims to Outpace Jev in Speed and Score · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/101xtechnology/status/2117641514306478430">Community Benchmark: Sarvam Prism Claims to Outpace Jev in Speed and Score</a></h3>
+<p>A community tweet claims Sarvam AI&#39;s Prism model responds in ~44ms with a score of 71.8, while the Jev model takes ~196ms with a score of around 64, suggesting Prism is faster and more accurate for quick business decisions.</p>
+<p><strong>中文摘要：</strong>一条社区推文称，Sarvam AI 的 Prism 模型响应时间约 44ms、得分 71.8，而 Jev 模型约 196ms、得分约 64，并认为 Prism 更快且更准确，适合快速业务决策。</p>
+<p><strong>Jas</strong> · @101xtechnology · 2026-11-03T15:34:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><a href="https://x.com/101xtechnology/status/2117641514306478430">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/robomotionio/status/2117641256679477760"><img src="https://pbs.twimg.com/media/HWNfbTNXkAEMP_Q?format=jpg&amp;name=medium" alt="Robomotion Builds a QA Test Suite with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/robomotionio/status/2117641256679477760">Robomotion Builds a QA Test Suite with Jev</a></h3>
+<p>Robomotion demonstrates building a fully functional QA test suite app with just 3 prompts, using Jev and RPA. It imports test cases from spreadsheets, executes browser actions described in plain English, and validates expected results.</p>
+<p><strong>中文摘要：</strong>Robomotion展示了仅用3个prompt，通过Jev和RPA构建一个功能完整的自动化QA测试应用：支持从电子表格导入测试用例，以纯英文描述浏览器操作来执行测试，并校验预期结果。</p>
+<p><strong>Robomotion</strong> · @robomotionio · 2026-11-03T15:33:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 99</p>
+<p><a href="https://x.com/robomotionio/status/2117641256679477760">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/davidwbressler/status/2117632919476764744"><img src="https://pbs.twimg.com/media/HWNX6yJXwAA4pNC?format=png&amp;name=medium" alt="Explicit OOS description lifts Jev accuracy to 94.93% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/davidwbressler/status/2117632919476764744">Explicit OOS description lifts Jev accuracy to 94.93%</a></h3>
+<p>Replacing CLINC150&#39;s out-of-scope label with an explicit description raised Jev accuracy from 83.73% to 94.93%. Correct rejections rose from 265 to 898 across 1,000 unsupported requests, while false rejections increased from 7 to 38 across 4,500 supported requests.</p>
+<p><strong>中文摘要：</strong>将CLINC150的out-of-scope标签替换为显式描述后，Jev准确率从83.73%升至94.93%；在1000个不支持请求中，正确拒绝数从265增加到898，4500个支持请求中的误拒也从7增至38。</p>
+<p><strong>David Bressler</strong> · @davidwbressler · 2026-11-03T15:00:06.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 49</p>
+<p><a href="https://x.com/davidwbressler/status/2117632919476764744">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 67 | 40 | 28 | 639K |
+| 69 | 40 | 30 | 639K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/omnirailorg/status/2117908963408699571"><img src="https://pbs.twimg.com/media/HWIucdxWcAAIjOR?format=jpg&amp;name=medium" alt="Jev-Powered Intelligent Ticket Routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/omnirailorg/status/2117908963408699571">Jev-Powered Intelligent Ticket Routing</a></h3>
+<p>Shows a customer support use case where a single Jev call identifies the relevant team, urgency level, and payment-related issues, then routes tickets to the right people via webhooks.</p>
+<p><strong>中文摘要：</strong>演示一次 Jev 调用即可识别工单所属团队、紧急程度及是否涉及支付问题，并自动路由给相关人员的客户支持场景。</p>
+<p><strong>OmniRail</strong> · @omnirailorg · 2026-11-04T09:17:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 40</p>
+<p><a href="https://x.com/omnirailorg/status/2117908963408699571">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/viorant_ai/status/2117852298655481989"><img src="https://pbs.twimg.com/media/HWQfb0maUAAT-h6?format=jpg&amp;name=medium" alt="A growing routing rule is a good place to try JEV · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/viorant_ai/status/2117852298655481989">A growing routing rule is a good place to try JEV</a></h3>
+<p>Example scenario: user says &#39;I was charged twice—refund one and close my account,&#39; useful for testing JEV in customer-service request routing.</p>
+<p><strong>中文摘要：</strong>示例场景：用户请求‘我被扣了两次款——退一笔并关闭我的账户’，可用于测试JEV在客服请求路由中的表现。</p>
+<p><strong>Viorant</strong> · @viorant_ai · 2026-11-04T05:31:50.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/viorant_ai/status/2117852298655481989">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/getdbt/status/2117618578425872779"><img src="https://pbs.twimg.com/media/HWNK391XwAEbI-L.jpg" alt="Jev Model for Customer Interaction Decisions · 原帖视频截图" width="100%"></a>

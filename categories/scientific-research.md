@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 124 | 36 | 90 | 136K |
+| 126 | 37 | 91 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DailyDoseOfDS_/status/2118010458653573179"><img src="https://pbs.twimg.com/amplify_video_thumb/2118010425497554944/img/PRvySyF_E8o2RgYk.jpg" alt="NVIDIA and Stanford Unveil CLM Architecture Challenging Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DailyDoseOfDS_/status/2118010458653573179">NVIDIA and Stanford Unveil CLM Architecture Challenging Jev</a></h3>
+<p>Daily Dose of Data Science highlights NVIDIA and Stanford&#39;s new System 1 architecture, Contrastive Language Model (CLM), which runs up to 9x faster. Like Jev, CLM does not generate text but handles small, repeated decisions inside AI systems, such as choosing a tool.</p>
+<p><strong>中文摘要：</strong>Daily Dose of Data Science 介绍 NVIDIA 与斯坦福的新 System 1 架构 Contrastive Language Model（CLM），称其运行速度最高可提升 9 倍；与 Jev 一样，CLM 不生成文本，而是处理工具选择等 AI 内部的小型重复决策。</p>
+<p><strong>Daily Dose of Data Science</strong> · @DailyDoseOfDS_ · 2026-11-04T16:00:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 556</p>
+<p><a href="https://x.com/DailyDoseOfDS_/status/2118010458653573179">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/chemeris/status/2117959223371878782"><img src="https://pbs.twimg.com/media/HWR9D-sWIAAhsV_?format=jpg&amp;name=large" alt="Jev Cited as a Better Example of Vertical Foundation Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/chemeris/status/2117959223371878782">Jev Cited as a Better Example of Vertical Foundation Models</a></h3>
+<p>Alexander Chemeris commented on X that when YC looks for vertical foundation models, TimesFM is not a good example, while Jev and TabPFN are better ones.</p>
+<p><strong>中文摘要：</strong>Alexander Chemeris 在 X 上评论 YC 寻求垂直基础模型时，指出 TimesFM 并非好例子，而 Jev 和 TabPFN 等是更好的示例。</p>
+<p><strong>Alexander Chemeris</strong> · @chemeris · 2026-11-04T12:36:43.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><a href="https://x.com/chemeris/status/2117959223371878782">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/decision_models/status/2117184413075398682"><img src="https://pbs.twimg.com/amplify_video_thumb/2116803706134138881/img/qaEBqI59cksfv0Ox.jpg" alt="Jev Model Comparison: 68% Agreement with d1-2B on 500 Text Items · 原帖视频截图" width="100%"></a>

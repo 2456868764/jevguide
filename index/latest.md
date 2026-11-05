@@ -2,11 +2,34 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-05T01:08:53.000Z | [Jev beats Opus 5.5 in Othello](https://x.com/pe_tanman/status/2118148514404520413) | 社区实践 | tanman pe_ | 1 |
+| 2026-11-04T16:50:13.000Z | [Testing TypeSafe AI's JEV for Search](https://x.com/Innovent/status/2118023018563998170) | 社区实践 | Innovent Solutions | 2 |
+| 2026-11-04T16:44:10.000Z | [Jev as a reranker: thoughts on full reranking with tree acceleration](https://x.com/nishio/status/2118021495490494506) | 工作原理 | NISHIO Hirokazu | 73 |
+| 2026-11-04T16:41:16.000Z | [Autonomous agent uses Jev to mine ORE on Solana](https://x.com/0rdlibrary/status/2118020768282062892) | 金融 | 8Bit🦞 | 113 |
+| 2026-11-04T16:08:21.000Z | [Building Barista with Postgres, Embeddings, and Jev](https://x.com/teivah/status/2118012482597814394) | 工作原理 | Teiva Harsanyi | 233 |
+| 2026-11-04T16:00:18.000Z | [NVIDIA and Stanford Unveil CLM Architecture Challenging Jev](https://x.com/DailyDoseOfDS_/status/2118010458653573179) | 科研 | Daily Dose of Data Science | 556 |
+| 2026-11-04T15:49:03.000Z | [JEV model completes 16 runs with ultra-low inference cost](https://x.com/hammer0x419/status/2118007627120508970) | 游戏 | Hammer0x419 | 2 |
+| 2026-11-04T15:15:35.000Z | [LLM Gateway 24h Data: Jev 1.14 at 22.7%](https://x.com/LLMDevPass/status/2117999204815470962) | 数据分析 | DevPass | 25 |
+| 2026-11-04T15:00:00.000Z | [Decision Bench Day 12: Decider Flash V1.2 Lands #8, Jev 1.13 Compared](https://x.com/WasimJalali/status/2117995282327847284) | 社区实践 | Wasim Jalali | 5 |
+| 2026-11-04T14:35:58.000Z | [JEV Performance in Agent Benchmarks](https://x.com/ForgeAI_gg/status/2117989232903946448) | 智能体 | ForgeAI | 12 |
+| 2026-11-04T14:33:34.000Z | [Playing Pokémon FireRed with Jev](https://x.com/oraphaelmoura/status/2117988629742064087) | 游戏 | Raphael Moura | 7 |
+| 2026-11-04T14:02:17.000Z | [A Promising RAG Approach: Using a Jev-like Hierarchical Tree Instead of a Vector DB](https://x.com/kenn/status/2117980756761047366) | 知识与搜索 | Kenn Ejima | 4.1K |
+| 2026-11-04T13:55:49.000Z | [On-chain proof of Jev delegating a task to DeepSeek](https://x.com/usebrainchain/status/2117979129031413917) | 智能体 | BrainChain | 105 |
 | 2026-11-04T13:49:06.000Z | [Reflecting on AI subscription usage](https://x.com/jais_mukesh/status/2117977440840458345) | 生产力 | Mukesh | 2 |
 | 2026-11-04T13:21:34.000Z | [TypeSafe AI Jev: Decision Agents for Trading on Solana](https://x.com/0rdlibrary/status/2117970512001573131) | 金融 | 8Bit🦞 | 218 |
 | 2026-11-04T13:05:08.000Z | [Toloka tests Jev and Astra for robot control](https://x.com/TolokaAI/status/2117966373812904300) | 机器人 | Toloka | 122 |
 | 2026-11-04T13:04:10.000Z | [Jev hired Claude at 50% confidence and accepted the work at 94%](https://x.com/usebrainchain/status/2117966133009748378) | 智能体 | BrainChain | 136 |
 | 2026-11-04T12:47:00.000Z | [Train Your Own Decision Model Like Jev with Unsloth](https://x.com/rgonv/status/2117961811157000332) | 开发资源 | Ricardo Gonzalez | 7 |
+| 2026-11-04T12:43:04.000Z | [Using Jev for Retrieval Result Filtering](https://x.com/BlueeonY/status/2117960821355741331) | 知识与搜索 | Kane | 8 |
+| 2026-11-04T12:40:27.000Z | [Jev assesses AUD/JPY short scenario](https://x.com/hadohunter/status/2117960163021983753) | 金融 | HadoHunter | 44 |
+| 2026-11-04T12:37:54.000Z | [Linkly AI adds Jev support](https://x.com/mossy2026/status/2117959524091076665) | 接入动态 | Mossy | 9 |
+| 2026-11-04T12:36:43.000Z | [Jev Cited as a Better Example of Vertical Foundation Models](https://x.com/chemeris/status/2117959223371878782) | 科研 | Alexander Chemeris | 24 |
+| 2026-11-04T12:00:40.000Z | [AI Trading Bot Replay: Most Signals Blocked Before Reaching Jev](https://x.com/gucci0915/status/2117950151784317197) | 金融 | GucciChang | 25 |
+| 2026-11-04T11:51:20.000Z | [Editing Instead of Training: Boosting Jev-Style Models](https://x.com/zoozoo_ai/status/2117947803456491835) | 开发者工具 | ZOOZOO | 41 |
+| 2026-11-04T10:47:32.000Z | [User shares using Jev to reduce AI bot false positives](https://x.com/Marcia_Ong/status/2117931746260087048) | 社区实践 | Marcia Ong | 57 |
+| 2026-11-04T10:33:03.000Z | [User shares experience using Jev to follow up on tasks](https://x.com/woogieNcrew/status/2117928101829317051) | 社区实践 | Woogie & Crew | 10 |
+| 2026-11-04T10:19:04.000Z | [Jev Chat Jarvis: An Android Co-pilot for Chat Apps](https://x.com/Daviswh/status/2117924583659479060) | 产品发布 | daviswu | 178 |
+| 2026-11-04T10:05:01.000Z | [Jev-Powered Enterprise Prompt Monitoring Framework](https://x.com/SparselyActive/status/2117921047051931905) | 法律合规 | Sparsely Activated Primate | 20 |
 | 2026-11-04T09:17:00.000Z | [Jev-Powered Intelligent Ticket Routing](https://x.com/omnirailorg/status/2117908963408699571) | 客户支持 | OmniRail | 40 |
 | 2026-11-04T09:01:21.000Z | [Jev's Judgment Depends on How Materials Are Provided](https://x.com/soundinspire9/status/2117905026836537647) | 社区实践 | Sound Inspire | 4 |
 | 2026-11-04T09:01:00.000Z | [Practical Notes on Integrating Jev with Claude Code and Codex](https://x.com/soundinspire9/status/2117904938026320348) | 社区实践 | Sound Inspire | 15 |
@@ -79,26 +102,3 @@
 | 2026-11-03T14:01:35.000Z | [Can Decision Models Guard a Customer-Facing Agent?](https://x.com/MercityAI/status/2117618194190041539) | 客户支持 | Mercity AI | 34 |
 | 2026-11-03T13:56:52.000Z | [JEV flagged 321 tokens in 24 hours](https://x.com/0rdlibrary/status/2117617006929481862) | 金融 | 8Bit🦞 | 211 |
 | 2026-11-03T13:47:07.000Z | [Jev and Harness Mechanisms Evolving in the Agent Era](https://x.com/teach_fireworks/status/2117614554943467586) | 智能体 | 烟花老师 | 202 |
-| 2026-11-03T13:44:14.000Z | [Jev in Resume Screening: Real Use Case](https://x.com/tinyray1314/status/2117613826543878552) | 企业运营 | Tiny \| AI 创业版 | 41 |
-| 2026-11-03T13:27:54.000Z | [Impressions of Trying Jev as an NPC Solution](https://x.com/flaggedaccount/status/2117609716264378871) | 社区实践 | flagged account | 2 |
-| 2026-11-03T13:25:03.000Z | [Building a voice-controlled toy dog with ESP32-S3 and a sub-$2 screen](https://x.com/0xasten/status/2117608997805269122) | 社区实践 | Asten | 8 |
-| 2026-11-03T13:15:00.000Z | [Resenha is live: local Mac dictation with optional JEV context review](https://x.com/thedoomguy_ai/status/2117606470430625862) | 产品发布 | The DOOM Guy | 2 |
-| 2026-11-03T13:06:00.000Z | [EasyHire AI recruitment agent powered by Jev](https://x.com/GoSailGlobal/status/2117604205439627428) | 企业运营 | Jason Zhu | 310 |
-| 2026-11-03T12:57:15.000Z | [OpenClaw uses Jev for on-chain security review before installs](https://x.com/usebrainchain/status/2117602005388534194) | 网络安全 | BrainChain | 72 |
-| 2026-11-03T12:56:28.000Z | [EasyHire AI: A Jev-Powered Recruiting Agent](https://x.com/ClementHu666/status/2117601807203704980) | 智能体 | Clement Hu EasyHire AI | 290 |
-| 2026-11-03T12:52:24.000Z | [Experiment with TypeSafe's Jev](https://x.com/Keshavatearth/status/2117600782627561874) | 社区实践 | Keshav Jindal | 24 |
-| 2026-11-03T11:07:17.000Z | [Jev 1.14 Parallel Call Performance Test](https://x.com/decision_models/status/2117574331073269981) | 社区实践 | Decision Models | 7 |
-| 2026-11-03T10:42:07.000Z | [How Jev and LLMs Work Together in an AI SOC](https://x.com/HarkXAI/status/2117567995870601649) | 网络安全 | HarkX | 8 |
-| 2026-11-03T10:37:43.000Z | [Jev Explained: The Model That Decides Without Writing a Word](https://x.com/anoopjoes/status/2117566890361159859) | 工作原理 | Anoop George Joseph | 2 |
-| 2026-11-03T10:11:57.000Z | [Jev with ultra-fast search is now available](https://x.com/mat_m_a_t/status/2117560405396693219) | 产品发布 | 宮秋 保｜会社員のAI活用 | 13 |
-| 2026-11-03T10:03:01.000Z | [Whatmodel adds decision model leaderboard, Jev not near top](https://x.com/JakeManger/status/2117558158524834168) | 开发资源 | Jake Manger | 45 |
-| 2026-11-03T09:41:05.000Z | [Sage2, a Jev Rival, Launches with Extraction and Streaming Context](https://x.com/aigclink/status/2117552638585905509) | 产品发布 | AIGCLINK | 214 |
-| 2026-11-03T09:38:46.000Z | [Jev Helps Compress Agent Data Query to Under 10 Seconds](https://x.com/kun70706/status/2117552054466216198) | 智能体 | 杯中风暴 | 33 |
-| 2026-11-03T09:33:00.000Z | [Parallel frontend/backend with Jev classifier](https://x.com/WillDobrev/status/2117550601567678836) | 软件开发 | Will Dobrev → criticalthinker.dev | 63 |
-| 2026-11-03T09:02:29.000Z | [Jev Course: Fast Decision-Oriented Generation](https://x.com/freeCodeCamp/status/2117542924221034825) | 教育 | freeCodeCamp.org | 2.2K |
-| 2026-11-03T08:21:26.000Z | [Hindsight reportedly uses Jev for memory processing](https://x.com/takahirosakashi/status/2117532593210183879) | 接入动态 | さかしー B級ビジネスコレクター | 58 |
-| 2026-11-03T05:56:48.000Z | [Sieve-31B-v3 scores 71.1 on Decision Index, ahead of Jev 1.14](https://x.com/sthanikaai/status/2117496192884174983) | 产品发布 | Sthānika AI | 8 |
-| 2026-11-03T05:50:01.000Z | [StarRouter: A Project Demonstrating TypeSafe's JEV System One Model](https://x.com/javamuffinztx/status/2117494486699745468) | 社区实践 | Milton Smith | 6 |
-| 2026-11-03T05:36:44.000Z | [AI defect detection surpasses CLIP with just 2 reference images](https://x.com/NewsTongueX/status/2117491143193580005) | 企业运营 | NewsTongue | 12 |
-| 2026-11-03T05:23:49.000Z | [Experimenting with Jev for Natural Language Personalization](https://x.com/manji6/status/2117487894436982920) | 营销 | manji6(まんじろー) | 5 |
-| 2026-11-03T04:27:46.000Z | [Shikumi adds support for Jev and OpenAI Decisions API](https://x.com/shinzui/status/2117473787688227293) | 开发资源 | Nadeem Bitar | 9 |

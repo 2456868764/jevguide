@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 141 | 69 | 73 | 235K |
+| 143 | 71 | 73 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kenn/status/2117980756761047366"><img src="https://pbs.twimg.com/amplify_video_thumb/2116543266955091968/img/38ja2wCci_1VfSZc.jpg" alt="A Promising RAG Approach: Using a Jev-like Hierarchical Tree Instead of a Vector DB · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kenn/status/2117980756761047366">A Promising RAG Approach: Using a Jev-like Hierarchical Tree Instead of a Vector DB</a></h3>
+<p>Introduces a new RAG idea: instead of using a DB for search, it uses a Jev-like hierarchical tree and a decision model to traverse down and locate the document. The overwhelming advantage is that no vector DB is needed.</p>
+<p><strong>中文摘要：</strong>提出一种RAG新思路：不使用数据库进行搜索，而是通过类似Jev的层次树和决策模型向下遍历来定位文档，最大优势是不需要向量数据库。</p>
+<p><strong>Kenn Ejima</strong> · @kenn · 2026-11-04T14:02:17.000Z</p>
+<p>💬 0 &nbsp; 🔁 6 &nbsp; ♡ 70 &nbsp; 📊 4.1K</p>
+<p><a href="https://x.com/kenn/status/2117980756761047366">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/BlueeonY/status/2117960821355741331"><img src="https://pbs.twimg.com/amplify_video_thumb/2117953792620781568/img/dbqlfwF6lSmyQ4Iy.jpg" alt="Using Jev for Retrieval Result Filtering · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/BlueeonY/status/2117960821355741331">Using Jev for Retrieval Result Filtering</a></h3>
+<p>A user reports impressive results after applying Jev to retrieval result filtering, demonstrating its practical value in search and knowledge retrieval scenarios.</p>
+<p><strong>中文摘要：</strong>用户反馈将 Jev 应用于检索结果过滤后效果显著，展示了 Jev 在搜索与知识检索场景中的实际效用。</p>
+<p><strong>Kane</strong> · @BlueeonY · 2026-11-04T12:43:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/BlueeonY/status/2117960821355741331">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/shao__meng/status/2117415296931901893"><img src="https://pbs.twimg.com/media/HWKR-rTbcAAgTro?format=jpg&amp;name=medium" alt="When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model · 原帖图片" width="100%"></a>

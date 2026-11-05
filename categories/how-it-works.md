@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 628 | 277 | 352 | 1.6M |
+| 630 | 278 | 353 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nishio/status/2118021495490494506"><img src="https://pbs.twimg.com/amplify_video_thumb/2116543266955091968/img/38ja2wCci_1VfSZc.jpg" alt="Jev as a reranker: thoughts on full reranking with tree acceleration · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nishio/status/2118021495490494506">Jev as a reranker: thoughts on full reranking with tree acceleration</a></h3>
+<p>NISHIO Hirokazu notes that Jev is essentially a reranker. If reranking all documents without search filtering, a pre-built tree could speed things up; but the way to build the tree likely depends heavily on document characteristics.</p>
+<p><strong>中文摘要：</strong>NISHIO Hirokazu 指出 Jev 本质上是重排序器。若省略检索筛选直接对所有文档重排，可预先构建树结构来加速；而树的构建方式会因文档特性而有很大差异。</p>
+<p><strong>NISHIO Hirokazu</strong> · @nishio · 2026-11-04T16:44:10.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 73</p>
+<p><a href="https://x.com/nishio/status/2118021495490494506">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/teivah/status/2118012482597814394"><img src="https://pbs.twimg.com/media/HWSxIGBWEAAbpYL?format=png&amp;name=small" alt="Building Barista with Postgres, Embeddings, and Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/teivah/status/2118012482597814394">Building Barista with Postgres, Embeddings, and Jev</a></h3>
+<p>The author shares how Barista, a personalized RSS reader, was built using Postgres, embeddings, and Jev to email only worthwhile posts daily.</p>
+<p><strong>中文摘要：</strong>作者分享了如何用 Postgres、向量嵌入和 Jev 构建个性化 RSS 阅读器 Barista，每天只推送值得阅读的内容。</p>
+<p><strong>Teiva Harsanyi</strong> · @teivah · 2026-11-04T16:08:21.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 233</p>
+<p><a href="https://x.com/teivah/status/2118012482597814394">在 X 查看原帖</a> · <a href="https://t.co/SU3N5cqy0d">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anbturki/status/2117678192047673388"><img src="https://pbs.twimg.com/amplify_video_thumb/2113290649638522881/img/ysk2QMJkcxCy6YKz.jpg" alt="Jev works alongside LLM: Jev classifies and prioritizes, LLM writes the reply · 原帖视频截图" width="100%"></a>

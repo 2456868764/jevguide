@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 405 | 300 | 109 | 588K |
+| 407 | 301 | 110 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer0x419/status/2118007627120508970"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117989198648979456/pu/img/MjorbC_7n1yI-J5L.jpg" alt="JEV model completes 16 runs with ultra-low inference cost · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hammer0x419/status/2118007627120508970">JEV model completes 16 runs with ultra-low inference cost</a></h3>
+<p>User reports 16 runs, 9 models, 13,455 moves, and a total inference cost of $1.49. The model writes the plan while JEV picks each move, showing that cheap plans remain viable.</p>
+<p><strong>中文摘要：</strong>用户报告了使用JEV模型进行16次运行、9个模型、共13455步，总推理成本仅1.49美元。模型负责制定计划，JEV逐回合选择行动，并验证了廉价计划的有效性。</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419 · 2026-11-04T15:49:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/hammer0x419/status/2118007627120508970">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/oraphaelmoura/status/2117988629742064087"><img src="https://pbs.twimg.com/media/HWSbSVaW4AAsR4p?format=jpg&amp;name=medium" alt="Playing Pokémon FireRed with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/oraphaelmoura/status/2117988629742064087">Playing Pokémon FireRed with Jev</a></h3>
+<p>Raphael says he made TypeSafe&#39;s Jev play Pokémon FireRed, and it&#39;s been fun; he will share it when done.</p>
+<p><strong>中文摘要：</strong>Raphael 表示自己让 TypeSafe 的 Jev 玩《宝可梦 火红》，过程很有趣，完成后会分享。</p>
+<p><strong>Raphael Moura</strong> · @oraphaelmoura · 2026-11-04T14:33:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/oraphaelmoura/status/2117988629742064087">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MiraLunaMocha/status/2117795619326804134"><img src="https://pbs.twimg.com/media/HWPrIqZWoAAf7Bz?format=jpg&amp;name=medium" alt="Trying Jev for action decision-making in Elin · 原帖图片" width="100%"></a>

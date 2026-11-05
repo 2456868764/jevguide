@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 583 | 313 | 272 | 3.0M |
+| 585 | 313 | 274 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2117989232903946448"><img src="https://pbs.twimg.com/media/HWSb--jXMAAXCem?format=jpg&amp;name=medium" alt="JEV Performance in Agent Benchmarks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2117989232903946448">JEV Performance in Agent Benchmarks</a></h3>
+<p>ForgeAI shared results from 16 runs across 9 models, with JEV selecting each move for hosted agents.</p>
+<p><strong>中文摘要：</strong>ForgeAI公布了16次运行、9个模型的对比数据，JEV用于在代理中逐步选择动作。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-11-04T14:35:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2117989232903946448">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117979129031413917"><img src="https://pbs.twimg.com/media/HWSSy29bsAA-s2a?format=jpg&amp;name=medium" alt="On-chain proof of Jev delegating a task to DeepSeek · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117979129031413917">On-chain proof of Jev delegating a task to DeepSeek</a></h3>
+<p>This post shows Jev hiring DeepSeek at 30% confidence in a real task, accepting the work at 92% confidence, and minting the proof on ripples.run.</p>
+<p><strong>中文摘要：</strong>该帖子展示了 Jev 在实际任务中以 30% 置信度雇用 DeepSeek，并在结果达到 92% 置信度时接受其工作，随后在 ripples.run 上铸造为证明。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-04T13:55:49.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 105</p>
+<p><a href="https://x.com/usebrainchain/status/2117979129031413917">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117966133009748378"><img src="https://pbs.twimg.com/media/HWSG-YuasAAysfE?format=jpg&amp;name=medium" alt="Jev hired Claude at 50% confidence and accepted the work at 94% · 原帖图片" width="100%"></a>

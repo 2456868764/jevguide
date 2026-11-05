@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 403 | 300 | 107 | 588K |
+| 405 | 300 | 109 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MiraLunaMocha/status/2117795619326804134"><img src="https://pbs.twimg.com/media/HWPrIqZWoAAf7Bz?format=jpg&amp;name=medium" alt="Trying Jev for action decision-making in Elin · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MiraLunaMocha/status/2117795619326804134">Trying Jev for action decision-making in Elin</a></h3>
+<p>A user tried using Jev for auto-decision picking in Elin action automation, but ended up with convoluted if-elses.</p>
+<p><strong>中文摘要：</strong>用户尝试用 Jev 做 Elin 游戏自动化的决策选择，但最终改用了复杂的 if-else。</p>
+<p><strong>Mira Luna 🌙✨</strong> · @MiraLunaMocha · 2026-11-04T01:46:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
+<p><a href="https://x.com/MiraLunaMocha/status/2117795619326804134">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer0x419/status/2117734483956736102"><img src="https://pbs.twimg.com/media/HWO0SpBXYAA1_Di?format=jpg&amp;name=medium" alt="JEV Runs a GTA V Mission Experiment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer0x419/status/2117734483956736102">JEV Runs a GTA V Mission Experiment</a></h3>
+<p>Hammer0x419 shares a GTA V experiment: deepseek-v4-pro + JEV completes a briefcase recovery at McKenzie Field in 3:55, with 228 model calls, 205K input tokens, 22K output tokens, costing about 5 cents. Every call is scrubbable on a timeline alongside both POVs.</p>
+<p><strong>中文摘要：</strong>Hammer0x419分享其GTA V实验：deepseek-v4-pro与JEV在McKenzie Field完成公文包回收任务，用时3分55秒，228次模型调用，输入205K tokens、输出22K tokens，成本约5美分。每次调用均可在时间线上对照两个视角查看。</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419 · 2026-11-03T21:43:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/hammer0x419/status/2117734483956736102">在 X 查看原帖</a> · <a href="https://t.co/CQz1nke4vJ">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rperry_/status/2117338722031354335"><img src="https://pbs.twimg.com/amplify_video_thumb/2117333245054365696/img/FbQwXfIfjkAiN2HO.jpg" alt="Jev-Powered Agent Bot Beats Level 9 CPU in Smash Melee · 原帖视频截图" width="100%"></a>

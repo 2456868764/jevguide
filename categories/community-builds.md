@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1339 | 559 | 787 | 3.0M |
+| 1351 | 563 | 795 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/my_musings_ind/status/2117824532711149948"><img src="https://pbs.twimg.com/amplify_video_thumb/2117672859946672128/img/6ax_z_20eBkvl_Bw.jpg" alt="Sarvam AI launches decision model Prism, drawing comparison to Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/my_musings_ind/status/2117824532711149948">Sarvam AI launches decision model Prism, drawing comparison to Jev</a></h3>
+<p>An Indian commentator notes Sarvam AI&#39;s moves: a token factory for OpenAI-compatible APIs and a decision model Prism, likening it to Jev.</p>
+<p><strong>中文摘要：</strong>印度博主评论 Sarvam AI 的动态：推出兼容 OpenAI API 的 token factory，并发布决策模型 Prism，将其与 Jev 类比。</p>
+<p><strong>Ordinary Indian</strong> · @my_musings_ind · 2026-11-04T03:41:30.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/my_musings_ind/status/2117824532711149948">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/arushi_ressl/status/2117822177240400189"><img src="https://pbs.twimg.com/media/HWQDRcTbQAAlQI7?format=jpg&amp;name=medium" alt="SarvamAI&#39;s decision model outperforms Jev and others on a 200-task benchmark · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/arushi_ressl/status/2117822177240400189">SarvamAI&#39;s decision model outperforms Jev and others on a 200-task benchmark</a></h3>
+<p>Arushi Gandhi tested 4 decision models on classifying 200 recent emails as cold emails. Prism had the highest accuracy, only two emails ahead of Jev; Jev was the fastest.</p>
+<p><strong>中文摘要：</strong>Arushi Gandhi用200封最新邮件测试了4个决策模型的冷邮件分类能力。Prism准确率最高，仅比Jev领先两封；Jev速度最快。</p>
+<p><strong>Arushi Gandhi</strong> · @arushi_ressl · 2026-11-04T03:32:08.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 183</p>
+<p><a href="https://x.com/arushi_ressl/status/2117822177240400189">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/DownTimeMachine/status/2117814510446895443"><img src="https://pbs.twimg.com/media/HWP8vmbbgAAvSYw?format=jpg&amp;name=medium" alt="Agent Eval Plans Jev Integration for Classed Summaries · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/DownTimeMachine/status/2117814510446895443">Agent Eval Plans Jev Integration for Classed Summaries</a></h3>
+<p>The author shares agent eval results after throwing work at Crouton, and plans next to hook Jev into the workflow for classed summaries.</p>
+<p><strong>中文摘要：</strong>作者分享将任务交给 Crouton 后的代理评估结果，并计划下一步将 Jev 接入工作流，用于生成分类摘要。</p>
+<p><strong>&quot;͏ ͏&quot;</strong> · @DownTimeMachine · 2026-11-04T03:01:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/DownTimeMachine/status/2117814510446895443">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hooksie1/status/2117803591641751569"><img src="https://pbs.twimg.com/amplify_video_thumb/2117803360497598464/img/_0B9T7x_lQxULF5c.jpg" alt="Proxy Using a Jev-Based Model for NATS Messages · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/hooksie1/status/2117803591641751569">Proxy Using a Jev-Based Model for NATS Messages</a></h3>
+<p>The author is experimenting with a proxy that calls a Jev-based model for NATS messages, running clef-flash locally so responses are a bit slow.</p>
+<p><strong>中文摘要：</strong>作者在尝试一个代理，为 NATS 消息调用基于 Jev 的模型，并在本地运行 clef-flash，因此响应稍慢。</p>
+<p><strong>Vim Halen</strong> · @hooksie1 · 2026-11-04T02:18:17.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/hooksie1/status/2117803591641751569">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Xianbao_QIAN/status/2117787965175083210"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117657977276522496/pu/img/9oSTuBAIwTrJKkMv.jpg" alt="Discussion on combining diffusion LLM with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Xianbao_QIAN/status/2117787965175083210">Discussion on combining diffusion LLM with Jev</a></h3>
+<p>A tweet comments that combining diffusion LLM with Jev is an interesting idea and asks where to find more details.</p>
+<p><strong>中文摘要：</strong>一条推文评论称，将扩散LLM与Jev结合是有趣的想法，并询问在哪里可以找到更多细节。</p>
+<p><strong>Tiezhen WANG</strong> · @Xianbao_QIAN · 2026-11-04T01:16:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 508</p>
+<p><a href="https://x.com/Xianbao_QIAN/status/2117787965175083210">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117751860551684097"><img src="https://pbs.twimg.com/media/HWPEF-BXsAAg5Yv?format=jpg&amp;name=medium" alt="User shares using Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117751860551684097">User shares using Jev</a></h3>
+<p>A short user tweet mentioning using Jev from @typesafeai, reflecting community usage feedback.</p>
+<p><strong>中文摘要：</strong>一条简短的用户推文，提到自己正在使用@typesafeai的Jev，属于社区中的使用反馈。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T22:52:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 232</p>
+<p><a href="https://x.com/0rdlibrary/status/2117751860551684097">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117742565332312470"><img src="https://pbs.twimg.com/media/HWO7o8UWsAAalnk?format=jpg&amp;name=medium" alt="Jev decision mining rigs used in the community for marketing shots · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117742565332312470">Jev decision mining rigs used in the community for marketing shots</a></h3>
+<p>The author mentions @typesafeai&#39;s Jev decision mining rigs, saying they used agents to research sites, create marketing shots, and onboard people to new tech, urging others to look into it.</p>
+<p><strong>中文摘要：</strong>作者提到 @typesafeai 的 Jev 决策挖掘机，并表示已通过代理完成网站调研、营销素材制作及新技术接入引导，鼓励大家关注这套方案。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T22:15:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 295</p>
+<p><a href="https://x.com/0rdlibrary/status/2117742565332312470">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MiguelriosEN/status/2117735638464413761"><img src="https://pbs.twimg.com/media/HWO1UvuasAAxNaO?format=jpg&amp;name=medium" alt="Fun example of using Jev to tweak model internals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MiguelriosEN/status/2117735638464413761">Fun example of using Jev to tweak model internals</a></h3>
+<p>The author mentions using Jev to pick internal features of a model to clamp, making it obsessed with any topic, with hilarious results.</p>
+<p><strong>中文摘要：</strong>作者提到最近用 Jev 选择要钳制的模型内部特征，使其对任何话题着迷，结果很有趣。</p>
+<p><strong>Miguel Ríos Berríos</strong> · @MiguelriosEN · 2026-11-03T21:48:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 304</p>
+<p><a href="https://x.com/MiguelriosEN/status/2117735638464413761">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/allietheicon/status/2117714107675869374"><img src="https://pbs.twimg.com/media/HWOgaILbQAAXSPD?format=jpg&amp;name=900x900" alt="Handling Multiple Intents with Jev: The “Shopping Cart” Pattern · 原帖图片" width="100%"></a>
@@ -31,6 +127,54 @@
 <p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T19:09:23.000Z</p>
 <p>💬 3 &nbsp; 🔁 4 &nbsp; ♡ 5 &nbsp; 📊 296</p>
 <p><a href="https://x.com/0rdlibrary/status/2117695654055313779">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117670498150588785"><img src="https://pbs.twimg.com/media/HWN6GEcXoAAXxTO?format=jpg&amp;name=medium" alt="Pairing Jev decisions with personal bubble maps · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117670498150588785">Pairing Jev decisions with personal bubble maps</a></h3>
+<p>The author shares a eureka moment combining TypeSafe AI&#39;s Jev decisions with self-made bubble maps, highlighting a community practice.</p>
+<p><strong>中文摘要：</strong>作者分享将 TypeSafe AI 的 Jev 决策与自行制作的气泡图结合使用的重大发现，属于社区实践分享。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T17:29:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 5 &nbsp; 📊 335</p>
+<p><a href="https://x.com/0rdlibrary/status/2117670498150588785">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SandipanKundu42/status/2117662459964412114"><img src="https://pbs.twimg.com/media/HWNw26-bEAAaZ4S?format=jpg&amp;name=medium" alt="Sarvam Prism First Thoughts: Competitive with Jev but Watch Cost and Latency · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SandipanKundu42/status/2117662459964412114">Sarvam Prism First Thoughts: Competitive with Jev but Watch Cost and Latency</a></h3>
+<p>The author finds Sarvam Prism highly capable and competitive with Jev in real-world use, but notes the 44ms median latency is misleading (p95 is 420ms) and self-hosting is too expensive due to model size, while the official API is heavily subsidized.</p>
+<p><strong>中文摘要：</strong>作者认为 Sarvam Prism 能力很强，实际使用中可与 Jev 竞争，但 44ms 中位延迟有误导性，p95 达 420ms；由于模型过大，自托管成本过高，官方 API 有补贴。</p>
+<p><strong>Sandipan Kundu 🛠</strong> · @SandipanKundu42 · 2026-11-03T16:57:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 76</p>
+<p><a href="https://x.com/SandipanKundu42/status/2117662459964412114">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117660172587851810"><img src="https://pbs.twimg.com/media/HWNwtCvXYAAKDZT?format=jpg&amp;name=medium" alt="Tracking token launches in realtime with the Jev engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117660172587851810">Tracking token launches in realtime with the Jev engine</a></h3>
+<p>A developer shares combining Bubblemaps with TypeSafe AI&#39;s Jev engine to monitor every token launch in realtime, from pumpfun to LaunchOnSF, and sync it into their own stream and listen hub.</p>
+<p><strong>中文摘要：</strong>一位开发者分享将 Bubblemaps 与 TypeSafe AI 的 Jev 引擎结合，实时监控从 pumpfun 到 LaunchOnSF 的每个代币发布，并同步到自己的流与监听中心。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T16:48:24.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 6 &nbsp; 📊 371</p>
+<p><a href="https://x.com/0rdlibrary/status/2117660172587851810">在 X 查看原帖</a> · <a href="https://t.co/6OvNGnerrV">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/nolansym/status/2117655706933350806"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117655690076356608/pu/img/TMIPdOhkAZ-Pc1jn.jpg" alt="Jev JSON Render: New AI Pattern for UI Generation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nolansym/status/2117655706933350806">Jev JSON Render: New AI Pattern for UI Generation</a></h3>
+<p>A new AI pattern, Jev JSON Render, turns English input into UI output. It picks prepared fields rather than writing new copy, and lets you edit the preview after composition. Built with AI SDK v7 and shadcn registry.</p>
+<p><strong>中文摘要：</strong>一个名为 Jev JSON Render 的新 AI 模式：输入英文即可生成 UI，只选用预置字段而不重新编写文案，生成后可在预览中编辑。基于 AI SDK v7 与 shadcn registry 构建。</p>
+<p><strong>Jordan</strong> · @nolansym · 2026-11-03T16:30:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 317</p>
+<p><a href="https://x.com/nolansym/status/2117655706933350806">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

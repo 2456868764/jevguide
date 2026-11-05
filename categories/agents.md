@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 574 | 311 | 265 | 3.0M |
+| 578 | 312 | 268 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117825323903664166"><img src="https://pbs.twimg.com/media/HWQG6Nsa8AAhbEU?format=jpg&amp;name=medium" alt="Jev Model in Action: Hires Claude and Accepts Work · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117825323903664166">Jev Model in Action: Hires Claude and Accepts Work</a></h3>
+<p>BrainChain posted a proof-of-task showing Jev hiring Claude at 44% confidence, accepting the completed work at 91%, and minting the result on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布了一条任务证明帖，展示Jev以44%的置信度雇佣Claude执行任务，随后以91%的置信度接受其工作成果，并将结果铸造在 ripples.run 上。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-04T03:44:39.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/usebrainchain/status/2117825323903664166">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117750506194129231"><img src="https://pbs.twimg.com/media/HWPC3I5WYAA5jAh?format=jpg&amp;name=medium" alt="This with TypeSafe AI Jev decision engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117750506194129231">This with TypeSafe AI Jev decision engine</a></h3>
+<p>The post mentions pairing something with @typesafeai&#39;s Jev decision engine, without further details.</p>
+<p><strong>中文摘要：</strong>原帖提到将某内容与 @typesafeai 的 Jev 决策引擎搭配使用，未展开具体细节。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-03T22:47:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 214</p>
+<p><a href="https://x.com/0rdlibrary/status/2117750506194129231">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/omnirailorg/status/2117667371116810423"><img src="https://pbs.twimg.com/media/HWIuS4OWcAA_L7R?format=jpg&amp;name=medium" alt="Pre-filter web pages with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/omnirailorg/status/2117667371116810423">Pre-filter web pages with Jev</a></h3>
+<p>A web-searching agent gets ten pages back, many irrelevant or spam. Before reading them all into an expensive model, it can ask Jev whether each page actually answers the question, with a numeric score, so only the useful pages proceed.</p>
+<p><strong>中文摘要：</strong>一个联网搜索智能体每次返回十页，其中大量无关或垃圾内容。在把这些页面全部读入昂贵模型之前，可先让Jev逐页判断是否真正回答了问题，并输出一个数值，从而只保留有价值的页面。</p>
+<p><strong>OmniRail</strong> · @omnirailorg · 2026-11-03T17:17:00.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 158</p>
+<p><a href="https://x.com/omnirailorg/status/2117667371116810423">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/samuel_ys92/status/2117659677731504367"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117657977276522496/pu/img/9oSTuBAIwTrJKkMv.jpg" alt="DINQ uses Jev for decisions to build an automated talent discovery platform · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/samuel_ys92/status/2117659677731504367">DINQ uses Jev for decisions to build an automated talent discovery platform</a></h3>
+<p>Sam Gao shares DINQ&#39;s vision: diffusion LLMs for context, TypeSafe AI&#39;s Jev for decisions, to personalize discovery across talent types.</p>
+<p><strong>中文摘要：</strong>Sam Gao 分享了 DINQ 的愿景：用扩散 LLM 提供上下文，用 TypeSafe AI 的 Jev 进行决策，实现跨人才类型的个性化发现。</p>
+<p><strong>Sam Gao</strong> · @samuel_ys92 · 2026-11-03T16:46:26.000Z</p>
+<p>💬 7 &nbsp; 🔁 28 &nbsp; ♡ 36 &nbsp; 📊 10K</p>
+<p><a href="https://x.com/samuel_ys92/status/2117659677731504367">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/teach_fireworks/status/2117614554943467586"><img src="https://pbs.twimg.com/media/HWNEJFuaEAAaOss?format=jpg&amp;name=4096x4096" alt="Jev and Harness Mechanisms Evolving in the Agent Era · 原帖图片" width="100%"></a>

@@ -1,9 +1,10 @@
 # BrainChain
 
-26 Jev showcases.
+27 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-04T03:44:39.000Z | [Jev Model in Action: Hires Claude and Accepts Work](https://x.com/usebrainchain/status/2117825323903664166) | 智能体 | BrainChain | 14 |
 | 2026-11-03T12:57:15.000Z | [OpenClaw uses Jev for on-chain security review before installs](https://x.com/usebrainchain/status/2117602005388534194) | 网络安全 | BrainChain | 72 |
 | 2026-11-03T00:03:48.000Z | [Jev delegates CSV-to-JSON task to DeepSeek](https://x.com/usebrainchain/status/2117407358678696260) | 智能体 | BrainChain | 47 |
 | 2026-11-03T00:03:18.000Z | [Jev hires DeepSeek for task proof](https://x.com/usebrainchain/status/2117407233965240612) | 智能体 | BrainChain | 29 |

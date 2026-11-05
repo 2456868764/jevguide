@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 587 | 260 | 330 | 1.1M |
+| 589 | 261 | 331 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117353845676269994"><img src="https://pbs.twimg.com/media/HWJaGiIXgAAyV8Y?format=jpg&amp;name=medium" alt="BrainChain introduces Jev dual-scoring mechanism · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117353845676269994">BrainChain introduces Jev dual-scoring mechanism</a></h3>
+<p>Every grade on BrainChain is now made twice: Jev and an independent model score the same work from the same brief, and the chain records the lower of the two, so nothing is paid that either grader would refuse.</p>
+<p><strong>中文摘要：</strong>BrainChain 现在对每项评分进行两次：Jev 与独立模型基于相同简报分别评分，链上记录两者中的较低分，确保任何一方不认可都不会支付。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T20:31:09.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 284</p>
+<p><a href="https://x.com/usebrainchain/status/2117353845676269994">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2117318520874881452"><img src="https://pbs.twimg.com/amplify_video_thumb/2117318488910168064/img/F4pGhVeFDVLhGABp.jpg" alt="After Jev: Devs Build Streaming Decision Model Sage2 · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2117318520874881452">After Jev: Devs Build Streaming Decision Model Sage2</a></h3>
+<p>The post discusses how Jev&#39;s decision model computes full context on every call, causing early messages to be reprocessed in long chats, and highlights Sage2, a streaming decision model built by developers as the next step.</p>
+<p><strong>中文摘要：</strong>帖子讨论了Jev决策模型每次调用都会计算完整上下文，导致长对话中早期消息被重复处理，并提及开发者构建了流式决策模型Sage2作为下一步演进。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-11-02T18:10:47.000Z</p>
+<p>💬 9 &nbsp; 🔁 8 &nbsp; ♡ 109 &nbsp; 📊 9.4K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2117318520874881452">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/KaiWaehner/status/2117150035238690883"><img src="https://pbs.twimg.com/media/HWGgqMTXAAAnLRd?format=jpg&amp;name=medium" alt="Apache Flink Agents 0.4 Adds Unified API for TypeSafe Jev, OpenAI, and Alibaba Cloud · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 402 | 158 | 244 | 419K |
+| 404 | 158 | 246 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/bkdgiffug/status/2117407660077162543"><img src="https://pbs.twimg.com/media/HWHnYCLaQAA7MAn?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/bkdgiffug/status/2117407660077162543">Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem</a></h3>
+<p>A community-curated directory of the Jev/System One ecosystem, listing 916 open source projects across SDKs, models, agent tools, browser automation, benchmarks, and more.</p>
+<p><strong>中文摘要：</strong>社区整理的Jev/System One生态导航库，收录916个开源项目，涵盖SDK、模型、Agent工具、自动化、基准测试等分类。</p>
+<p><strong>lumxss</strong> · @bkdgiffug · 2026-11-03T00:05:00.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 262</p>
+<p><a href="https://x.com/bkdgiffug/status/2117407660077162543">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ihor_step/status/2117302881078399240"><img src="https://pbs.twimg.com/media/HWIrshNXsAENDvV?format=jpg&amp;name=medium" alt="GLiNER v0.2.30 Released: Faster Inference and Jev-like Serving API · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ihor_step/status/2117302881078399240">GLiNER v0.2.30 Released: Faster Inference and Jev-like Serving API</a></h3>
+<p>GLiNER v0.2.30 focuses on more efficient inference, confidence calibration, and a Jev-like serving API for easier production deployment of small extraction models.</p>
+<p><strong>中文摘要：</strong>GLiNER v0.2.30重点改进推理效率、置信度校准，并引入类似Jev的serving API，便于小型抽取模型在生产环境部署。</p>
+<p><strong>Ihor Stepanov</strong> · @ihor_step · 2026-11-02T17:08:39.000Z</p>
+<p>💬 2 &nbsp; 🔁 6 &nbsp; ♡ 56 &nbsp; 📊 2.1K</p>
+<p><a href="https://x.com/ihor_step/status/2117302881078399240">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gkvoelkl/status/2116910253422027156"><img src="https://pbs.twimg.com/media/HWDGp1mWUAAfCZJ?format=jpg&amp;name=large" alt="Build an ant colony in your browser: steer a decision model with one sentence · 原帖图片" width="100%"></a>

@@ -1,9 +1,10 @@
 # David Bressler
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-02T20:30:17.000Z | [Emotion benchmark: fine-tuned MiniLM 92.35% vs Jev selector 76.00%](https://x.com/davidwbressler/status/2117353626586714497) | 社区实践 | David Bressler | 19 |
 | 2026-11-02T02:01:06.000Z | [Jev Model Improves Image Classification Accuracy with Few Examples](https://x.com/davidwbressler/status/2117074490156896749) | 社区实践 | David Bressler | 18 |
 | 2026-11-01T15:00:21.000Z | [Jev achieves 91.36% accuracy on BANKING77](https://x.com/davidwbressler/status/2116908205435466077) | 金融 | David Bressler | 4 |
 | 2026-10-31T19:30:19.000Z | [Jev Achieves 89.32% on BANKING77 Intent Classification](https://x.com/davidwbressler/status/2116613758357279097) | 客户支持 | David Bressler | 15 |

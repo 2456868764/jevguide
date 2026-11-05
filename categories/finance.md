@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 366 | 209 | 159 | 1.2M |
+| 368 | 209 | 161 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117316615490666943"><img src="https://pbs.twimg.com/media/HWI4OpWXEAENVuO?format=jpg&amp;name=medium" alt="JEV decision model going live for ORE mining · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117316615490666943">JEV decision model going live for ORE mining</a></h3>
+<p>The author announces going live with Grok 4.7 and TypeSafe AI&#39;s JEV decision model for ORE mining, with a link.</p>
+<p><strong>中文摘要：</strong>作者宣布将使用 Grok 4.7 并结合 TypeSafe AI 的 JEV 决策模型进行 ORE 挖矿，并提供了相关链接。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-02T18:03:13.000Z</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 3 &nbsp; 📊 284</p>
+<p><a href="https://x.com/0rdlibrary/status/2117316615490666943">在 X 查看原帖</a> · <a href="https://t.co/HdYzyvMB0L">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117306881261899869"><img src="https://pbs.twimg.com/media/HWIvWWPXMAAx4mf?format=jpg&amp;name=medium" alt="Mine Ore with TypeSafe JEV on Solana · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117306881261899869">Mine Ore with TypeSafe JEV on Solana</a></h3>
+<p>The post describes mining Ore with TypeSafe AI&#39;s JEV on Solana, and using Musebook.trade/ore to level up the AI mining experience.</p>
+<p><strong>中文摘要：</strong>帖子介绍使用 TypeSafe AI 的 JEV 在 Solana 上挖掘 Ore，并通过 Musebook.trade/ore 提升 AI 挖矿体验。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-02T17:24:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 5 &nbsp; ♡ 5 &nbsp; 📊 345</p>
+<p><a href="https://x.com/0rdlibrary/status/2117306881261899869">在 X 查看原帖</a> · <a href="https://t.co/HdYzyvMB0L">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadohunter/status/2117236250600214849"><img src="https://pbs.twimg.com/media/HWHvJpfa0AA8RH0?format=jpg&amp;name=medium" alt="AUD/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>

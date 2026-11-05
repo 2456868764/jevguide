@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1322 | 554 | 775 | 3.0M |
+| 1328 | 555 | 780 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/pavelsukhachev/status/2117412625143177510"><img src="https://pbs.twimg.com/amplify_video_thumb/2117276914591399937/img/UT3OrHoJmR0zyCbG.jpg" alt="Similar Idea to JEV for Audio · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/pavelsukhachev/status/2117412625143177510">Similar Idea to JEV for Audio</a></h3>
+<p>The post proposes an idea similar to the JEV model but applied to audio.</p>
+<p><strong>中文摘要：</strong>帖子提出一个与JEV模型思路相似但面向音频领域的构想。</p>
+<p><strong>PAVEL SUKHACHEV</strong> · @pavelsukhachev · 2026-11-03T00:24:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/pavelsukhachev/status/2117412625143177510">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117406856251338978"><img src="https://pbs.twimg.com/media/HWKKUKiXEAAlZU0?format=jpg&amp;name=medium" alt="Jev Model Proof of Task with DeepSeek · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,67 @@
 <p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:01:48.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
 <p><a href="https://x.com/usebrainchain/status/2117406856251338978">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dorkitude/status/2117359562089181585"><img src="https://pbs.twimg.com/media/HWJWgSXbgAAxGxm?format=png&amp;name=large" alt="The real cost debate around Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/dorkitude/status/2117359562089181585">The real cost debate around Jev</a></h3>
+<p>The author shares experience using Jev across professional, personal, and academic work, arguing that actual spending far exceeds the &quot;$5&quot; joke, and notes the model is named after Jevons Paradox to make intelligence faster and cheaper.</p>
+<p><strong>中文摘要：</strong>作者分享在专业、个人和学术工作中使用 Jev 的经验，认为实际花费远超“5美元”的玩笑说法，并指出模型命名源自杰文斯悖论，意在让智能更快更便宜。</p>
+<p><strong>Kyle Wild</strong> · @dorkitude · 2026-11-02T20:53:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 469</p>
+<p><a href="https://x.com/dorkitude/status/2117359562089181585">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/otiseleven/status/2117359243435376809"><img src="https://pbs.twimg.com/media/HWJef4-XsAAf0SP?format=jpg&amp;name=medium" alt="WIP Project Using TypeSafe Jev to Filter Posts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/otiseleven/status/2117359243435376809">WIP Project Using TypeSafe Jev to Filter Posts</a></h3>
+<p>The author shares a work-in-progress project, noting that Claude helped develop it and that TypeSafe Jev is used to filter out some posts.</p>
+<p><strong>中文摘要：</strong>作者分享一个仍在开发中的项目，表示借助 Claude 进行开发，并使用了 TypeSafe Jev 来过滤部分帖子。</p>
+<p><strong>Otis Eleven</strong> · @otiseleven · 2026-11-02T20:52:36.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 35</p>
+<p><a href="https://x.com/otiseleven/status/2117359243435376809">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/davidwbressler/status/2117353626586714497"><img src="https://pbs.twimg.com/media/HWJZ5zxXEAAngw6?format=png&amp;name=medium" alt="Emotion benchmark: fine-tuned MiniLM 92.35% vs Jev selector 76.00% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/davidwbressler/status/2117353626586714497">Emotion benchmark: fine-tuned MiniLM 92.35% vs Jev selector 76.00%</a></h3>
+<p>The post compares a fine-tuned MiniLM against the Jev selector on Emotion: MiniLM reached 92.35% accuracy, while the Jev selector scored 76.00%, using the same training library.</p>
+<p><strong>中文摘要：</strong>原帖对比了在 Emotion 数据集上微调 MiniLM 与 Jev selector 的表现：MiniLM 准确率 92.35%，Jev selector 为 76.00%，且两者使用相同训练库。</p>
+<p><strong>David Bressler</strong> · @davidwbressler · 2026-11-02T20:30:17.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
+<p><a href="https://x.com/davidwbressler/status/2117353626586714497">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/omarsar0/status/2117310105314086985"><img src="https://pbs.twimg.com/media/HWIx4oVX0AAvzJy?format=jpg&amp;name=medium" alt="Developer bullish on new system-one extraction model, says it complements Jev decision models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/omarsar0/status/2117310105314086985">Developer bullish on new system-one extraction model, says it complements Jev decision models</a></h3>
+<p>A developer shares enthusiasm for a new type of system-one extraction model, saying it&#39;s great for evidence-based extraction and perfectly complements decision models like Jev. With Sage 2, you describe the fields you need and get structured values with the exact source text.</p>
+<p><strong>中文摘要：</strong>一位开发者表示，这类系统一提取模型非常适合基于证据的提取，并能完美补充像Jev这样的决策模型。通过Sage 2，用户可描述所需字段，获得带有精确来源文本的结构化值。</p>
+<p><strong>elvis</strong> · @omarsar0 · 2026-11-02T17:37:21.000Z</p>
+<p>💬 23 &nbsp; 🔁 8 &nbsp; ♡ 79 &nbsp; 📊 6.4K</p>
+<p><a href="https://x.com/omarsar0/status/2117310105314086985">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117299190472589384"><img src="https://pbs.twimg.com/media/HWIoZMCXcAA3hfh?format=jpg&amp;name=medium" alt="Jev Task 7 Proof: Hired DeepSeek at 41% confidence, accepted at 94% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117299190472589384">Jev Task 7 Proof: Hired DeepSeek at 41% confidence, accepted at 94%</a></h3>
+<p>A community practice record: Jev hired DeepSeek with 41% confidence for a task and accepted the work at 94% confidence, minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>一条社区实践记录：Jev 在任务中雇佣 DeepSeek 的置信度为41%，最终以94%的置信度接受工作成果，并由收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T16:53:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 13 &nbsp; 📊 258</p>
+<p><a href="https://x.com/usebrainchain/status/2117299190472589384">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/v3ec/status/2117289887946948873"><img src="https://pbs.twimg.com/media/HWIf7sebcAAtVGE?format=jpg&amp;name=medium" alt="Thanks to TypeSafe and Home Assistant · 原帖图片" width="100%"></a>

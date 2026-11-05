@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6841</strong><br>curated posts</td>
-<td align="center"><strong>3411</strong><br>original videos</td>
+<td align="center"><strong>6866</strong><br>curated posts</td>
+<td align="center"><strong>3419</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1322</strong> showcases · <strong>554</strong> videos</p>
+<p><strong>1328</strong> showcases · <strong>555</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>587</strong> showcases · <strong>260</strong> videos</p>
+<p><strong>589</strong> showcases · <strong>261</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>558</strong> showcases · <strong>307</strong> videos</p>
+<p><strong>566</strong> showcases · <strong>310</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>402</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>404</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>402</strong> showcases · <strong>299</strong> videos</p>
+<p><strong>403</strong> showcases · <strong>300</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>366</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>368</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>140</strong> showcases · <strong>69</strong> videos</p>
+<p><strong>141</strong> showcases · <strong>69</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>135</strong> showcases · <strong>97</strong> videos</p>
+<p><strong>136</strong> showcases · <strong>98</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>64</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>39</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>52</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>53</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117406856251338978"><img src="https://pbs.twimg.com/media/HWKKUKiXEAAlZU0?format=jpg&amp;name=medium" alt="Jev Model Proof of Task with DeepSeek · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117406856251338978">Jev Model Proof of Task with DeepSeek</a></h3>
-<p>This post shows Jev in practice: Jev tasked DeepSeek at 50% confidence, accepted the output at 93%, and a collector minted the proof on ripples.run.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/shao__meng/status/2117415296931901893"><img src="https://pbs.twimg.com/media/HWKR-rTbcAAgTro?format=jpg&amp;name=medium" alt="When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shao__meng/status/2117415296931901893">When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model</a></h3>
+<p>A paper from Cornell University proposes DecisionRAG, which uses TypeSafe&#39;s Jev decision model to traverse topic-document-paragraph trees and decide whether to dig deeper, addressing the capability gap of retrievers in RAG.</p>
+<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 262</p>
+<p><strong>meng shao</strong> · @shao__meng</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/v3ec/status/2117289887946948873"><img src="https://pbs.twimg.com/media/HWIf7sebcAAtVGE?format=jpg&amp;name=medium" alt="Thanks to TypeSafe and Home Assistant · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/v3ec/status/2117289887946948873">Thanks to TypeSafe and Home Assistant</a></h3>
-<p>User reports that Jev improves daily with more context, expressing gratitude to TypeSafe and Home Assistant.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Alejandro Erickson</strong> · @v3ec</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/pavelsukhachev/status/2117412625143177510"><img src="https://pbs.twimg.com/amplify_video_thumb/2117276914591399937/img/UT3OrHoJmR0zyCbG.jpg" alt="Similar Idea to JEV for Audio · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/pavelsukhachev/status/2117412625143177510">Similar Idea to JEV for Audio</a></h3>
+<p>The post proposes an idea similar to the JEV model but applied to audio.</p>
+<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><strong>PAVEL SUKHACHEV</strong> · @pavelsukhachev</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/0xkurt/status/2117287782477394334"><img src="https://pbs.twimg.com/amplify_video_thumb/2117203499557507072/img/NC2W2rJM0bScpTxZ.jpg" alt="TypeSafe Jev Walkthrough: Detecting Unsupported Conclusions in AI Citations · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0xkurt/status/2117287782477394334">TypeSafe Jev Walkthrough: Detecting Unsupported Conclusions in AI Citations</a></h3>
-<p>This walkthrough shows how Jev checks whether an AI agent can cite a real source while still drawing a conclusion the source doesn&#39;t support. Eight citation examples help users spot this subtle form of misleading research output.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 22</p>
-<p><strong>Kurt</strong> · @0xkurt</p>
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/bkdgiffug/status/2117407660077162543"><img src="https://pbs.twimg.com/media/HWHnYCLaQAA7MAn?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/bkdgiffug/status/2117407660077162543">Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem</a></h3>
+<p>A community-curated directory of the Jev/System One ecosystem, listing 916 open source projects across SDKs, models, agent tools, browser automation, benchmarks, and more.</p>
+<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 262</p>
+<p><strong>lumxss</strong> · @bkdgiffug</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/AIsaOneHQ/status/2117286863849640405"><img src="https://pbs.twimg.com/amplify_video_thumb/2117229040037687297/img/PdFpJoKEN_4ZFVDp.jpg" alt="AIsa launches creator search with Jev-assisted filtering · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AIsaOneHQ/status/2117286863849640405">AIsa launches creator search with Jev-assisted filtering</a></h3>
-<p>AIsa introduces creator search: pulls 329 TikTok, Instagram and YouTube creators, uses Jev to keep 43, shortlists 12 US creators selling blankets, and drafts emails — all for $0.78.</p>
-<p><strong>136</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 136</p>
-<p><strong>AIsa</strong> · @AIsaOneHQ</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117407233965240612">Jev hires DeepSeek for task proof</a></h3>
+<p>BrainChain publishes proof of task 18: Jev hired DeepSeek at 40% confidence and accepted the work at 98%, minted by a collector on ripples.run.</p>
+<p><strong>29</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117406856251338978"><img src="https://pbs.twimg.com/media/HWKKUKiXEAAlZU0?format=jpg&amp;name=medium" alt="Jev Model Proof of Task with DeepSeek · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117406856251338978">Jev Model Proof of Task with DeepSeek</a></h3>
-<p>This post shows Jev in practice: Jev tasked DeepSeek at 50% confidence, accepted the output at 93%, and a collector minted the proof on ripples.run.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/shao__meng/status/2117415296931901893"><img src="https://pbs.twimg.com/media/HWKR-rTbcAAgTro?format=jpg&amp;name=medium" alt="When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/shao__meng/status/2117415296931901893">When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model</a></h3>
+<p>A paper from Cornell University proposes DecisionRAG, which uses TypeSafe&#39;s Jev decision model to traverse topic-document-paragraph trees and decide whether to dig deeper, addressing the capability gap of retrievers in RAG.</p>
+<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 262</p>
+<p><strong>meng shao</strong> · @shao__meng</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
-<a href="https://x.com/AIsaOneHQ/status/2117286863849640405"><img src="https://pbs.twimg.com/amplify_video_thumb/2117229040037687297/img/PdFpJoKEN_4ZFVDp.jpg" alt="AIsa launches creator search with Jev-assisted filtering · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/AIsaOneHQ/status/2117286863849640405">AIsa launches creator search with Jev-assisted filtering</a></h3>
-<p>AIsa introduces creator search: pulls 329 TikTok, Instagram and YouTube creators, uses Jev to keep 43, shortlists 12 US creators selling blankets, and drafts emails — all for $0.78.</p>
-<p><strong>136</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 136</p>
-<p><strong>AIsa</strong> · @AIsaOneHQ</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117407233965240612">Jev hires DeepSeek for task proof</a></h3>
+<p>BrainChain publishes proof of task 18: Jev hired DeepSeek at 40% confidence and accepted the work at 98%, minted by a collector on ripples.run.</p>
+<p><strong>29</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/0rdlibrary/status/2117285950841655367"><img src="https://pbs.twimg.com/media/HWIcWb6WgAIsvkw?format=jpg&amp;name=medium" alt="Ore Mining Agents Powered by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2117285950841655367">Ore Mining Agents Powered by Jev</a></h3>
-<p>The author is building new Ore mining agents for the Solana Mobile app, powered by TypeSafe AI&#39;s Jev model, and plans to integrate them into the client this week.</p>
-<p><strong>246</strong> views · 💬 0 &nbsp; 🔁 4 &nbsp; ♡ 6 &nbsp; 📊 246</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2117406981954625692"><img src="https://pbs.twimg.com/media/HWKKberXkAANoFc?format=jpg&amp;name=medium" alt="Jev Used DeepSeek to Complete US ZIP Code Regex Task · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2117406981954625692">Jev Used DeepSeek to Complete US ZIP Code Regex Task</a></h3>
+<p>The post shows proof of task where Jev hired DeepSeek to write a regex for US ZIP codes, with confidence rising from 81% to 97%, minted by a collector on ripples.run.</p>
+<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/OhadZa/status/2117277501458129208"><img src="https://pbs.twimg.com/amplify_video_thumb/2117275106451845120/img/xgmnuhVVhN8zjINd.jpg" alt="Developer shares new app: Minimax H3 and JEV help · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/OhadZa/status/2117277501458129208">Developer shares new app: Minimax H3 and JEV help</a></h3>
-<p>Developer Ohad Zadok says he is developing a new app, using the Minimax H3 model with amazing results, and the community has done a lot. JEV is very helpful for images. Development is nearly complete, pending payment integration, with iOS first.</p>
-<p><strong>35</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 35</p>
-<p><strong>Ohad Zadok</strong> · @OhadZa</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/dorkitude/status/2117359562089181585"><img src="https://pbs.twimg.com/media/HWJWgSXbgAAxGxm?format=png&amp;name=large" alt="The real cost debate around Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/dorkitude/status/2117359562089181585">The real cost debate around Jev</a></h3>
+<p>The author shares experience using Jev across professional, personal, and academic work, arguing that actual spending far exceeds the &quot;$5&quot; joke, and notes the model is named after Jevons Paradox to make intelligence faster and cheaper.</p>
+<p><strong>469</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 469</p>
+<p><strong>Kyle Wild</strong> · @dorkitude</p>
 </td>
 </tr>
 </table>

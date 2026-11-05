@@ -4,12 +4,95 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 558 | 307 | 253 | 3.0M |
+| 566 | 310 | 258 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117407233965240612">Jev hires DeepSeek for task proof</a></h3>
+<p>BrainChain publishes proof of task 18: Jev hired DeepSeek at 40% confidence and accepted the work at 98%, minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布任务 18 的链上证明：Jev 以 40% 置信度雇佣 DeepSeek，并以 98% 接受其工作，已被收藏家在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:03:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
+<p><a href="https://x.com/usebrainchain/status/2117407233965240612">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117406730564858314"><img src="https://pbs.twimg.com/media/HWKKM2oX0AA1W_s?format=jpg&amp;name=medium" alt="Jev task proof: delegating to Claude to summarize Thoreau · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117406730564858314">Jev task proof: delegating to Claude to summarize Thoreau</a></h3>
+<p>This post shows Jev delegating a task to Claude to summarise Thoreau, with initial confidence at 26% and acceptance at 86%, minted by a collector on ripples.run — a real-world application of the Jev model.</p>
+<p><strong>中文摘要：</strong>该帖子展示了Jev在任务中委托Claude撰写梭罗相关摘要，初始置信度26%，验收置信度86%，并由收藏者在ripples.run上铸造记录，是Jev模型的实际应用示例。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:01:18.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/usebrainchain/status/2117406730564858314">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117406604593078509"><img src="https://pbs.twimg.com/media/HWKKFhfWMAAcUgc?format=jpg&amp;name=medium" alt="Jev hired Claude at 35% confidence and accepted the work at 94% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117406604593078509">Jev hired Claude at 35% confidence and accepted the work at 94%</a></h3>
+<p>BrainChain posted proof of task 11, showing Jev hiring Claude at 35% confidence and accepting the work at 94%, minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布第11号任务证明，显示 Jev 以35%置信度雇用 Claude，并以94%置信度接受其工作，该任务证明已由收藏家铸造在 ripples.run 上。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:00:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/usebrainchain/status/2117406604593078509">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117406483566448826"><img src="https://pbs.twimg.com/media/HWKJ-eSXUAAHMIf?format=jpg&amp;name=medium" alt="Task proof: Jev hired Claude at 44% and accepted at 91% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117406483566448826">Task proof: Jev hired Claude at 44% and accepted at 91%</a></h3>
+<p>BrainChain published Proof of Task 10: Jev hired Claude at 44% confidence and accepted the completed work at 91% confidence. The proof was minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布了第 10 项任务证明：Jev 以 44% 的置信度雇佣 Claude，并以 91% 的置信度接受完成的工作；该证明已由收藏者在 ripples.run 铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:00:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/usebrainchain/status/2117406483566448826">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/El_Capitano_O/status/2117354540047409363"><img src="https://pbs.twimg.com/amplify_video_thumb/2117276914591399937/img/UT3OrHoJmR0zyCbG.jpg" alt="Jev for Voice 2 Voice: Potential of Personal Voice Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/El_Capitano_O/status/2117354540047409363">Jev for Voice 2 Voice: Potential of Personal Voice Agents</a></h3>
+<p>The author notes that while Jev has many clear commercial uses in voice-to-voice scenarios, its greatest potential may lie in personal voice agents we increasingly rely on.</p>
+<p><strong>中文摘要：</strong>作者指出 Jev 在语音到语音场景中有多种商业用途，但认为其最大潜力在于我们越来越依赖的个人语音代理。</p>
+<p><strong>El_Capitano Otman M.</strong> · @El_Capitano_O · 2026-11-02T20:33:55.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/El_Capitano_O/status/2117354540047409363">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DarkFactorr/status/2117316396606480716"><img src="https://pbs.twimg.com/amplify_video_thumb/2117316015142899712/img/KNJS62s3Rj4SKs_t.jpg" alt="Jev model powers AI agent decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DarkFactorr/status/2117316396606480716">Jev model powers AI agent decisions</a></h3>
+<p>A single Python file uses the Jev model to decide each worker&#39;s next action in an AI agent, with each decision costing about four thousandths of a cent. Jev writes no words—it reads task state and picks the next move with confidence.</p>
+<p><strong>中文摘要：</strong>一个Python文件使用Jev模型为AI代理中的每个worker决定下一步行动，每次决策成本约0.004美分。Jev不生成文字，只读取任务状态并选择下一步动作，附带置信度。</p>
+<p><strong>Dark Factor</strong> · @DarkFactorr · 2026-11-02T18:02:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 187</p>
+<p><a href="https://x.com/DarkFactorr/status/2117316396606480716">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_avichawla/status/2117311150488752445"><img src="https://pbs.twimg.com/amplify_video_thumb/2117311092397690880/img/RNU2luFPa7Gle5DS.jpg" alt="Developers Build Sage2, a Live Agent Built on Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_avichawla/status/2117311150488752445">Developers Build Sage2, a Live Agent Built on Jev</a></h3>
+<p>The post notes that Jev works on fixed questions over fixed inputs, making live chat require re-reading full transcripts, and highlights Sage2, which pairs an extraction model with a decision model on the same live stream.</p>
+<p><strong>中文摘要：</strong>帖子指出Jev适合固定问题与固定输入，实时聊天需每次重读完整记录，并介绍开发者构建的Sage2通过结合提取模型和决策模型处理实时流。</p>
+<p><strong>Avi Chawla</strong> · @_avichawla · 2026-11-02T17:41:30.000Z</p>
+<p>💬 12 &nbsp; 🔁 20 &nbsp; ♡ 324 &nbsp; 📊 19K</p>
+<p><a href="https://x.com/_avichawla/status/2117311150488752445">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117285950841655367"><img src="https://pbs.twimg.com/media/HWIcWb6WgAIsvkw?format=jpg&amp;name=medium" alt="Ore Mining Agents Powered by Jev · 原帖图片" width="100%"></a>
 <br>
@@ -21,6 +104,8 @@
 <p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 6 &nbsp; 📊 246</p>
 <p><a href="https://x.com/0rdlibrary/status/2117285950841655367">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117284605535379615"><img src="https://pbs.twimg.com/media/HWIbIPoWMAAu4wN?format=jpg&amp;name=medium" alt="Jev Task Proof: Hired DeepSeek and Accepted · 原帖图片" width="100%"></a>
 <br>
@@ -31,6 +116,17 @@
 <p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T15:56:01.000Z</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 94</p>
 <p><a href="https://x.com/usebrainchain/status/2117284605535379615">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117283729622110484"><img src="https://pbs.twimg.com/media/HWIaVPaWIAAmzXP?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Complete Task and Mint It · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117283729622110484">Jev Hires DeepSeek to Complete Task and Mint It</a></h3>
+<p>BrainChain shows proof of task 4: Jev hired DeepSeek to produce &#39;The eight planets as JSON&#39; at 62% confidence, accepted it at 88%, and it was minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 展示了任务4的证明：Jev 以62%的置信度委托 DeepSeek 生成“八大行星 JSON”数据，并以88%的置信度验收，随后被收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T15:52:33.000Z</p>
+<p>💬 5 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 94</p>
+<p><a href="https://x.com/usebrainchain/status/2117283729622110484">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
 </td>
 </tr>
 <tr>

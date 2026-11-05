@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 410 | 159 | 251 | 419K |
+| 412 | 160 | 252 | 419K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>👨‍💻الـــيـــاســـي👨‍💻</strong> · @ALYASI_MBRMJ · 2026-11-04T20:27:42.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/ALYASI_MBRMJ/status/2118077752918389007">在 X 查看原帖</a> · <a href="https://t.co/FkDY6ZL1Tz">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/saidul_dev/status/2118031465615442261"><img src="https://pbs.twimg.com/media/HWTCY5bbUAAbyUm?format=jpg&amp;name=medium" alt="Jev Engineering Handbook: 44-Page Build Guide · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/saidul_dev/status/2118031465615442261">Jev Engineering Handbook: 44-Page Build Guide</a></h3>
+<p>The post introduces handbooks that go one layer deeper, each ending with a hands-on build, covering knowledge graphs, agent harnesses, loop engineering, eval engineering, and Jev engineering, totaling 44 pages.</p>
+<p><strong>中文摘要：</strong>帖子介绍了深入一层的手册，每本以动手构建收尾，涵盖知识图谱、Agent 框架、循环工程、评估工程和 Jev 工程，共 44 页。</p>
+<p><strong>Saidul</strong> · @saidul_dev · 2026-11-04T17:23:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
+<p><a href="https://x.com/saidul_dev/status/2118031465615442261">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Felix_Quinque/status/2118029269075206226"><img src="https://pbs.twimg.com/amplify_video_thumb/2118022273638543360/img/gyDgJduyq2vQ9hPl.jpg" alt="Training a Jev Model with IotaSDK and Planning Finetuning-as-a-Service · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Felix_Quinque/status/2118029269075206226">Training a Jev Model with IotaSDK and Planning Finetuning-as-a-Service</a></h3>
+<p>The author trained a leaderboard-level Jev model across 16 disaggregated GPUs using IotaSDK, achieving this in under a week of dev time, and is considering offering Jev fine-tuning as a service with custom data.</p>
+<p><strong>中文摘要：</strong>作者表示使用IotaSDK在16个分散的GPU上训练了一个排行榜级别的Jev模型，开发时间不到一周，并考虑未来提供基于自定义数据的Jev微调服务。</p>
+<p><strong>Felix Quinque</strong> · @Felix_Quinque · 2026-11-04T17:15:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 174</p>
+<p><a href="https://x.com/Felix_Quinque/status/2118029269075206226">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/rgonv/status/2117961811157000332"><img src="https://pbs.twimg.com/media/HWSDCzQaYAAotMN?format=png&amp;name=medium" alt="Train Your Own Decision Model Like Jev with Unsloth · 原帖图片" width="100%"></a>

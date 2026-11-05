@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7034</strong><br>curated posts</td>
-<td align="center"><strong>3476</strong><br>original videos</td>
+<td align="center"><strong>7064</strong><br>curated posts</td>
+<td align="center"><strong>3490</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1367</strong> showcases · <strong>568</strong> videos</p>
+<p><strong>1377</strong> showcases · <strong>574</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>632</strong> showcases · <strong>279</strong> videos</p>
+<p><strong>633</strong> showcases · <strong>280</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>600</strong> showcases · <strong>266</strong> videos</p>
+<p><strong>601</strong> showcases · <strong>266</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>587</strong> showcases · <strong>313</strong> videos</p>
+<p><strong>590</strong> showcases · <strong>313</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>450</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>452</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,19 +68,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>410</strong> showcases · <strong>159</strong> videos</p>
+<p><strong>412</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>409</strong> showcases · <strong>302</strong> videos</p>
+<p><strong>412</strong> showcases · <strong>305</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>385</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>388</strong> showcases · <strong>212</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>143</strong> showcases · <strong>71</strong> videos</p>
+<p><strong>144</strong> showcases · <strong>72</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>128</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>129</strong> showcases · <strong>37</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>90</strong> showcases · <strong>27</strong> videos</p>
+<p><strong>91</strong> showcases · <strong>28</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>69</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>70</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>38</strong> showcases · <strong>16</strong> videos</p>
+<p><strong>39</strong> showcases · <strong>17</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118199311133753734"><img src="https://pbs.twimg.com/media/HWVbDJAasAAfqKd?format=jpg&amp;name=medium" alt="Jev hires Claude to complete task and mints as proof · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118199311133753734">Jev hires Claude to complete task and mints as proof</a></h3>
-<p>BrainChain posted proof that Jev hired Claude to review the Solana skill pack, with confidence rising from 26% to 80% upon acceptance, minted on-chain by a collector.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/TFelizola91057/status/2118241290492260765"><img src="https://pbs.twimg.com/media/HWWBM4SaQAA0IR-?format=jpg&amp;name=medium" alt="AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TFelizola91057/status/2118241290492260765">AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening</a></h3>
+<p>The guide recommends validating results with human evaluations before blocking a version.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Thiago Felizola</strong> · @TFelizola91057</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/pe_tanman/status/2118148514404520413"><img src="https://pbs.twimg.com/amplify_video_thumb/2118148376986267648/img/OvfT_HBpZ1LJsCCO.jpg" alt="Jev beats Opus 5.5 in Othello · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/pe_tanman/status/2118148514404520413">Jev beats Opus 5.5 in Othello</a></h3>
-<p>The author shares Jev&#39;s benchmark results in Othello, claiming 5× faster (0.5s/move vs 2.7s) and 14× cheaper ($0.01/game vs $0.14), with tips on engineering its Reasoning Architecture for efficient wins.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>tanman pe_</strong> · @pe_tanman</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/Moyanmotion/status/2118235601506111735"><img src="https://pbs.twimg.com/amplify_video_thumb/2117953792620781568/img/dbqlfwF6lSmyQ4Iy.jpg" alt="Linkly shows AI search in action with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Moyanmotion/status/2118235601506111735">Linkly shows AI search in action with Jev</a></h3>
+<p>The post showcases how Linkly uses Jev to help users find and organize information, a real-world use case in AI search and knowledge organization.</p>
+<p><strong>29</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><strong>Moyan motion</strong> · @Moyanmotion</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118141850750235011"><img src="https://pbs.twimg.com/media/HWUmyg3aEAAjIow?format=jpg&amp;name=medium" alt="Jev Proof of Task #29: Hired Claude at 57% confidence, accepted at 95% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118141850750235011">Jev Proof of Task #29: Hired Claude at 57% confidence, accepted at 95%</a></h3>
-<p>The post shows a Jev proof-of-task record: Claude was engaged at 57% confidence, its work accepted at 95%, and the proof was minted by a collector on ripples.run.</p>
-<p><strong>39</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 39</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<a href="https://x.com/jai__toor/status/2118223594715271610"><img src="https://pbs.twimg.com/media/HWVxITxbgAAI3UQ?format=jpg&amp;name=medium" alt="Jai Toor shares excitement about Jev and RLHF · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jai__toor/status/2118223594715271610">Jai Toor shares excitement about Jev and RLHF</a></h3>
+<p>Jai Toor says he was excited after hearing @CompleteSkeptic discuss conviction in Jev and gaps in RLHF, and notes he heavily uses TypeSafe AI.</p>
+<p><strong>45</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
+<p><strong>Jai Toor</strong> · @jai__toor</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/hammer0x419/status/2118141738992718289"><img src="https://pbs.twimg.com/media/HWUmr9kW4AAfvr5?format=jpg&amp;name=medium" alt="StarCraft II AI Duel: JEV Picks Actions Every 15s · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hammer0x419/status/2118141738992718289">StarCraft II AI Duel: JEV Picks Actions Every 15s</a></h3>
-<p>This post describes a StarCraft II ladder duel where DeepSeek V4.1 Flash and Gemini 3.8 Flash plan once per game minute, while JEV selects from a legal action menu every 15 seconds. Both sides use the same Protoss executor to isolate planning differences, with links to both POVs.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Hammer0x419</strong> · @hammer0x419</p>
+<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
+<a href="https://x.com/Osynco/status/2118218222680109172"><img src="https://pbs.twimg.com/media/HWVrHvoaUAANE8t?format=jpg&amp;name=medium" alt="Jev-powered inquiry classification and routing system · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Osynco/status/2118218222680109172">Jev-powered inquiry classification and routing system</a></h3>
+<p>A system that uses Jev to classify inquiry messages and automatically route them to appropriate channels.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>おしんこ</strong> · @Osynco</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118199311133753734"><img src="https://pbs.twimg.com/media/HWVbDJAasAAfqKd?format=jpg&amp;name=medium" alt="Jev hires Claude to complete task and mints as proof · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118199311133753734">Jev hires Claude to complete task and mints as proof</a></h3>
-<p>BrainChain posted proof that Jev hired Claude to review the Solana skill pack, with confidence rising from 26% to 80% upon acceptance, minted on-chain by a collector.</p>
-<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/TFelizola91057/status/2118241290492260765"><img src="https://pbs.twimg.com/media/HWWBM4SaQAA0IR-?format=jpg&amp;name=medium" alt="AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TFelizola91057/status/2118241290492260765">AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening</a></h3>
+<p>The guide recommends validating results with human evaluations before blocking a version.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Thiago Felizola</strong> · @TFelizola91057</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/hammer0x419/status/2118141738992718289"><img src="https://pbs.twimg.com/media/HWUmr9kW4AAfvr5?format=jpg&amp;name=medium" alt="StarCraft II AI Duel: JEV Picks Actions Every 15s · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hammer0x419/status/2118141738992718289">StarCraft II AI Duel: JEV Picks Actions Every 15s</a></h3>
-<p>This post describes a StarCraft II ladder duel where DeepSeek V4.1 Flash and Gemini 3.8 Flash plan once per game minute, while JEV selects from a legal action menu every 15 seconds. Both sides use the same Protoss executor to isolate planning differences, with links to both POVs.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Hammer0x419</strong> · @hammer0x419</p>
+<p><strong>02</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
+<a href="https://x.com/Osynco/status/2118218222680109172"><img src="https://pbs.twimg.com/media/HWVrHvoaUAANE8t?format=jpg&amp;name=medium" alt="Jev-powered inquiry classification and routing system · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Osynco/status/2118218222680109172">Jev-powered inquiry classification and routing system</a></h3>
+<p>A system that uses Jev to classify inquiry messages and automatically route them to appropriate channels.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>おしんこ</strong> · @Osynco</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/oalanicolas/status/2118137938790002931"><img src="https://pbs.twimg.com/amplify_video_thumb/2118137522140180480/img/5Yo8pO-QFFPfF2eN.jpg" alt="One week with JEV + GROKbot: higher quality, faster tasks, lower cost · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/oalanicolas/status/2118137938790002931">One week with JEV + GROKbot: higher quality, faster tasks, lower cost</a></h3>
-<p>A user shares a one-week experience combining JEV with GROKbot, reporting higher task quality, faster execution and lower cost, and provides a reusable prompt.</p>
-<p><strong>1.1K</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 33 &nbsp; 📊 1.1K</p>
-<p><strong>Alan Nicolas</strong> · @oalanicolas</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2118217424583741633"><img src="https://pbs.twimg.com/media/HWVrhe0boAA_tK2?format=jpg&amp;name=medium" alt="Jev Agent Completes Task 37: Hires Claude at 56% Confidence, Accepts at 95% · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2118217424583741633">Jev Agent Completes Task 37: Hires Claude at 56% Confidence, Accepts at 95%</a></h3>
+<p>This post shows an on-chain proof of Jev autonomously hiring Claude in a workflow and accepting the result with high confidence, demonstrating Jev&#39;s multi-agent coordination.</p>
+<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/i_am_brennan/status/2118113312563233266"><img src="https://pbs.twimg.com/media/HWUKV3eWIAATSTU?format=jpg&amp;name=medium" alt="Jev: An Introduction to TypeSafe&#39;s Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/i_am_brennan/status/2118113312563233266">Jev: An Introduction to TypeSafe&#39;s Decision Model</a></h3>
-<p>Named after Jevons&#39; paradox, Jev aims to make type-safe AI cheaper so we can use far more AI. Given a situation and some buttons, it picks one in a fraction of a second for a fraction of a cent.</p>
-<p><strong>21</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
-<p><strong>Brennan McEachran 👨‍🚀</strong> · @i_am_brennan</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2118201574887751904"><img src="https://pbs.twimg.com/media/HWVdG6haAAAjYIz?format=jpg&amp;name=medium" alt="Jev task proof: Hired Claude at 45% confidence, accepted work at 95% · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2118201574887751904">Jev task proof: Hired Claude at 45% confidence, accepted work at 95%</a></h3>
+<p>BrainChain posted proof of task 32: Jev hired Claude at 45% confidence and accepted the output at 95%. The proof was minted by a collector on ripples.run.</p>
+<p><strong>41</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>

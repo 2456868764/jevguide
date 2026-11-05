@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 450 | 189 | 261 | 802K |
+| 452 | 189 | 263 | 802K |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TFelizola91057/status/2118241290492260765"><img src="https://pbs.twimg.com/media/HWWBM4SaQAA0IR-?format=jpg&amp;name=medium" alt="AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TFelizola91057/status/2118241290492260765">AWS Shows Jev Integration with AgentCore Evaluations for Agent Screening</a></h3>
+<p>The guide recommends validating results with human evaluations before blocking a version.</p>
+<p><strong>中文摘要：</strong>该指南建议在封禁某个版本之前，先用人工评估验证结果。</p>
+<p><strong>Thiago Felizola</strong> · @TFelizola91057 · 2026-11-05T07:17:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/TFelizola91057/status/2118241290492260765">在 X 查看原帖</a> · <a href="https://t.co/1m4XHqQO5A">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/DocumentingAGI/status/2118080351021199619"><img src="https://pbs.twimg.com/media/HWTucrBbIAAGA63?format=jpg&amp;name=medium" alt="Nace AI Offers 120% Cashback to Switch Teams from Jev to Drex Max · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>Documenting AGI</strong> · @DocumentingAGI · 2026-11-04T20:38:02.000Z</p>
 <p>💬 7 &nbsp; 🔁 13 &nbsp; ♡ 140 &nbsp; 📊 13K</p>
 <p><a href="https://x.com/DocumentingAGI/status/2118080351021199619">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/testingcatalog/status/2118041127114715235"><img src="https://pbs.twimg.com/media/HWTLLbBXIAAaHjG?format=jpg&amp;name=medium" alt="Nace AI Offers 120% Cashback for Switching from Jev to Drex Max · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/testingcatalog/status/2118041127114715235">Nace AI Offers 120% Cashback for Switching from Jev to Drex Max</a></h3>
+<p>Nace AI is offering 120% cashback to teams migrating to Drex Max, its decision model for AI agents. Users can switch from Jev or another decision model by changing 3 environment variables and earn $1.20 for every $1 spent on Drex.</p>
+<p><strong>中文摘要：</strong>Nace AI 为迁移到其 AI 代理决策模型 Drex Max 的团队提供 120% 返现。用户可通过更改 3 个环境变量从 Jev 或其他决策模型切换，并在 Drex 上每花费 1 美元获得 1.20 美元。</p>
+<p><strong>🚨 AI News | TestingCatalog</strong> · @testingcatalog · 2026-11-04T18:02:10.000Z</p>
+<p>💬 11 &nbsp; 🔁 1 &nbsp; ♡ 26 &nbsp; 📊 5.9K</p>
+<p><a href="https://x.com/testingcatalog/status/2118041127114715235">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/mossy2026/status/2117959524091076665"><img src="https://pbs.twimg.com/amplify_video_thumb/2117953792620781568/img/dbqlfwF6lSmyQ4Iy.jpg" alt="Linkly AI adds Jev support · 原帖视频截图" width="100%"></a>

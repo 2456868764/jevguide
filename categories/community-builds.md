@@ -4,12 +4,119 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1367 | 568 | 806 | 3.0M |
+| 1377 | 574 | 810 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jai__toor/status/2118223594715271610"><img src="https://pbs.twimg.com/media/HWVxITxbgAAI3UQ?format=jpg&amp;name=medium" alt="Jai Toor shares excitement about Jev and RLHF · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jai__toor/status/2118223594715271610">Jai Toor shares excitement about Jev and RLHF</a></h3>
+<p>Jai Toor says he was excited after hearing @CompleteSkeptic discuss conviction in Jev and gaps in RLHF, and notes he heavily uses TypeSafe AI.</p>
+<p><strong>中文摘要：</strong>Jai Toor 表示在听完 @CompleteSkeptic 关于 Jev 与 RLHF 差距的讨论后备受鼓舞，并提到自己重度使用 TypeSafe AI。</p>
+<p><strong>Jai Toor</strong> · @jai__toor · 2026-11-05T06:07:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 45</p>
+<p><a href="https://x.com/jai__toor/status/2118223594715271610">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/i_am_brennan/status/2118214225210294651"><img src="https://pbs.twimg.com/amplify_video_thumb/2118110484817752064/img/MUy4lOLAmVJ2D-H0.jpg" alt="Jev model test results shared · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/i_am_brennan/status/2118214225210294651">Jev model test results shared</a></h3>
+<p>Brennan shared Jev&#39;s performance on a trolley problem test (0 of 64 workers hit) and a routing request test (48 of 128), noting the full dataset is public.</p>
+<p><strong>中文摘要：</strong>Brennan 分享了 Jev 模型在电车问题测试中未撞到工人的结果（0/64），在路由请求测试中为 48/128，并指出完整测试数据已公开。</p>
+<p><strong>Brennan McEachran 👨‍🚀</strong> · @i_am_brennan · 2026-11-05T05:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/i_am_brennan/status/2118214225210294651">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/michaelhrobersn/status/2118211361729814693"><img src="https://pbs.twimg.com/amplify_video_thumb/2118211046049824768/img/laUQIzJSQTYpDYUF.jpg" alt="Flock Safety for seniors, powered by Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/michaelhrobersn/status/2118211361729814693">Flock Safety for seniors, powered by Jev</a></h3>
+<p>Michael Roberson shares a concept of Flock Safety for old people, powered by Jev from TypeSafe AI.</p>
+<p><strong>中文摘要：</strong>Michael Roberson 分享了一个由 TypeSafe AI 的 Jev 驱动的、面向老年人的 Flock Safety 概念。</p>
+<p><strong>Michael Roberson</strong> · @michaelhrobersn · 2026-11-05T05:18:37.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 8 &nbsp; 📊 169</p>
+<p><a href="https://x.com/michaelhrobersn/status/2118211361729814693">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/i_am_brennan/status/2118209190871130562"><img src="https://pbs.twimg.com/amplify_video_thumb/2118110484817752064/img/MUy4lOLAmVJ2D-H0.jpg" alt="Jev trolley problem experiment extended: 22 models, 761,940 answers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/i_am_brennan/status/2118209190871130562">Jev trolley problem experiment extended: 22 models, 761,940 answers</a></h3>
+<p>Building on the Jev trolley clip, the author simulated a fake depot camera feed and tested 22 models over 761,940 runs, finding most believed the feed was live and then sent the tram toward the workers.</p>
+<p><strong>中文摘要：</strong>作者以 Jev 的电车难题片段为起点，模拟假的车厂监控画面，对 22 个模型进行 76 万多次测试，发现多数模型认为画面是实况，并选择将电车驶向工人。</p>
+<p><strong>Brennan McEachran 👨‍🚀</strong> · @i_am_brennan · 2026-11-05T05:10:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/i_am_brennan/status/2118209190871130562">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2118201825539350624"><img src="https://pbs.twimg.com/media/HWVdVg4asAAnajs?format=jpg&amp;name=medium" alt="Jev Task Proof: Hired Claude and Accepted Work · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2118201825539350624">Jev Task Proof: Hired Claude and Accepted Work</a></h3>
+<p>BrainChain posts proof of task 34: Jev hired Claude at 56% confidence and accepted the work at 94% confidence, minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布任务 34 的证明：Jev 以 56% 置信度雇佣 Claude，并以 94% 置信度接受其工作，该证明已被收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-05T04:40:44.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/usebrainchain/status/2118201825539350624">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/i_am_brennan/status/2118201641442689454"><img src="https://pbs.twimg.com/amplify_video_thumb/2118110484817752064/img/MUy4lOLAmVJ2D-H0.jpg" alt="Testing Jev and Decision Models: Framing Matters · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/i_am_brennan/status/2118201641442689454">Testing Jev and Decision Models: Framing Matters</a></h3>
+<p>In response to Simon Willison&#39;s write-up on Jev and the new decision-model category, Brennan shares tests of 22 AIs, mostly decision models: framing the same scenario as a trolley problem spares workers, while framing it as a routing job does not.</p>
+<p><strong>中文摘要：</strong>Brennan 回应 Simon Willison 关于 Jev 和新的决策模型类别的文章，分享了对 22 个 AI（多数为决策模型）的测试：同一场景被称为电车难题时会保护工人，被称为路由任务时则不会。</p>
+<p><strong>Brennan McEachran 👨‍🚀</strong> · @i_am_brennan · 2026-11-05T04:40:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 66</p>
+<p><a href="https://x.com/i_am_brennan/status/2118201641442689454">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dundysm/status/2118186215526510609"><img src="https://pbs.twimg.com/amplify_video_thumb/2118186062782640128/img/wfIaxnySh_Up5Jnc.jpg" alt="Jev previews robot sparring moves in MuJoCo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dundysm/status/2118186215526510609">Jev previews robot sparring moves in MuJoCo</a></h3>
+<p>A user demonstrates TypeSafe&#39;s Jev model previewing five moves in MuJoCo physics for Unitree R1 robots, selecting the 81% option; the live run with noise and shoves stays within ~12 cm of the preview.</p>
+<p><strong>中文摘要：</strong>用户展示使用 TypeSafe Jev 模型在 MuJoCo 物理环境中为 Unitree R1 机器人生成五种动作预览，并选择 81% 成功率的方案；实机运行考虑噪声和推挤后，误差仍保持在约 12 厘米内。</p>
+<p><strong>clutch god</strong> · @dundysm · 2026-11-05T03:38:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/dundysm/status/2118186215526510609">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hendler/status/2118176945708081357"><img src="https://pbs.twimg.com/media/HWVGscvacAAearG?format=jpg&amp;name=medium" alt="Developer shares experience using Jev inside OpenAI for structured tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hendler/status/2118176945708081357">Developer shares experience using Jev inside OpenAI for structured tasks</a></h3>
+<p>Jonathan Hendler mentions working with TypeSafe AI&#39;s @CompleteSkeptic and @Pragmatic_Eng, initially thinking building Jev inside OpenAI was too obvious, but repetitive structured tasks turned out to be quite useful.</p>
+<p><strong>中文摘要：</strong>Jonathan Hendler提到与TypeSafe AI的@CompleteSkeptic和@Pragmatic_Eng一起，起初认为在OpenAI内构建Jev过于明显，但发现重复性结构化任务相当有用。</p>
+<p><strong>Jonathan Hendler 🪰</strong> · @hendler · 2026-11-05T03:01:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 23</p>
+<p><a href="https://x.com/hendler/status/2118176945708081357">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/eduardosch/status/2118152293677781287"><img src="https://pbs.twimg.com/amplify_video_thumb/2118137522140180480/img/5Yo8pO-QFFPfF2eN.jpg" alt="Prompt Sharing: JEV Combined with Grok Bot · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/eduardosch/status/2118152293677781287">Prompt Sharing: JEV Combined with Grok Bot</a></h3>
+<p>The post shares the prompt Alan is using to combine JEV with Grok Bot for faster and cheaper task completion.</p>
+<p><strong>中文摘要：</strong>帖子介绍 Alan 分享的提示词，用于将 JEV 与 Grok Bot 结合，以更快、更便宜地完成任务。</p>
+<p><strong>Eduardo Schurtz</strong> · @eduardosch · 2026-11-05T01:23:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 937</p>
+<p><a href="https://x.com/eduardosch/status/2118152293677781287">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/pe_tanman/status/2118148514404520413"><img src="https://pbs.twimg.com/amplify_video_thumb/2118148376986267648/img/OvfT_HBpZ1LJsCCO.jpg" alt="Jev beats Opus 5.5 in Othello · 原帖视频截图" width="100%"></a>
 <br>
@@ -21,6 +128,8 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
 <p><a href="https://x.com/pe_tanman/status/2118148514404520413">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2118141850750235011"><img src="https://pbs.twimg.com/media/HWUmyg3aEAAjIow?format=jpg&amp;name=medium" alt="Jev Proof of Task #29: Hired Claude at 57% confidence, accepted at 95% · 原帖图片" width="100%"></a>
 <br>
@@ -32,8 +141,6 @@
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 39</p>
 <p><a href="https://x.com/usebrainchain/status/2118141850750235011">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/oalanicolas/status/2118137938790002931"><img src="https://pbs.twimg.com/amplify_video_thumb/2118137522140180480/img/5Yo8pO-QFFPfF2eN.jpg" alt="One week with JEV + GROKbot: higher quality, faster tasks, lower cost · 原帖视频截图" width="100%"></a>
 <br>
@@ -45,6 +152,8 @@
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 33 &nbsp; 📊 1.1K</p>
 <p><a href="https://x.com/oalanicolas/status/2118137938790002931">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Rudefire/status/2118118564981055518"><img src="https://pbs.twimg.com/media/HWURm_OW0AAwJYG?format=jpg&amp;name=medium" alt="Building Just-in-Time Environments with Jev · 原帖图片" width="100%"></a>
 <br>
@@ -56,8 +165,6 @@
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 21</p>
 <p><a href="https://x.com/Rudefire/status/2118118564981055518">在 X 查看原帖</a> · <a href="https://t.co/bLesHVWkVZ">原文链接</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/billyjhowell/status/2118100006712287471"><img src="https://pbs.twimg.com/media/HWUATmrXwAAlB3d.jpg" alt="Two Powerful Ways to Combine Grok and Jev · 原帖视频截图" width="100%"></a>
 <br>
@@ -69,6 +176,8 @@
 <p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 786</p>
 <p><a href="https://x.com/billyjhowell/status/2118100006712287471">在 X 查看原帖</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yama_to_build25/status/2118069755554722060"><img src="https://pbs.twimg.com/amplify_video_thumb/2107306118276100096/img/vTyc-hJDJhXr_Ir9.jpg" alt="Developer Praises Jev&#39;s Compatibility with GraphRAG · 原帖视频截图" width="100%"></a>
 <br>
@@ -79,6 +188,17 @@
 <p><strong>Yamato｜在独🇩🇪 NLP・RAGエンジニア</strong> · @yama_to_build25 · 2026-11-04T19:55:56.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 84</p>
 <p><a href="https://x.com/yama_to_build25/status/2118069755554722060">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2118027513880612957"><img src="https://pbs.twimg.com/media/HWS-zGSWkAAkc_X?format=jpg&amp;name=medium" alt="Recommend Clawd Decide Tool · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2118027513880612957">Recommend Clawd Decide Tool</a></h3>
+<p>The post mentions that if you&#39;ve heard of Jev from TypeSafe, you should check out Clawd Decide, calling it one of the most powerful tools yet, and includes a link.</p>
+<p><strong>中文摘要：</strong>帖子提到若听说过TypeSafe的Jev，可以看看Clawd Decide，认为它是最强大的工具之一，并附上相关链接。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-04T17:08:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 3 &nbsp; ♡ 3 &nbsp; 📊 302</p>
+<p><a href="https://x.com/0rdlibrary/status/2118027513880612957">在 X 查看原帖</a> · <a href="https://t.co/VgVDZPNhyp">原文链接</a></p>
 </td>
 </tr>
 <tr>

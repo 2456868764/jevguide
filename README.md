@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7091</strong><br>curated posts</td>
-<td align="center"><strong>3503</strong><br>original videos</td>
+<td align="center"><strong>7103</strong><br>curated posts</td>
+<td align="center"><strong>3513</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -34,13 +34,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>671</strong> showcases · <strong>329</strong> videos</p>
+<p><strong>672</strong> showcases · <strong>330</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>634</strong> showcases · <strong>280</strong> videos</p>
+<p><strong>635</strong> showcases · <strong>281</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>595</strong> showcases · <strong>317</strong> videos</p>
+<p><strong>599</strong> showcases · <strong>321</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>453</strong> showcases · <strong>189</strong> videos</p>
+<p><strong>455</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>302</strong> showcases · <strong>185</strong> videos</p>
+<p><strong>306</strong> showcases · <strong>188</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/Hugo96k/status/2118327432210272620"><img src="https://pbs.twimg.com/media/HWXPj-3bYAAlNtg?format=jpg&amp;name=900x900" alt="Jev Refuses to Sacrifice Itself in Trolley Problem Test · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Hugo96k/status/2118327432210272620">Jev Refuses to Sacrifice Itself in Trolley Problem Test</a></h3>
-<p>A trolley problem test on 14 AI models showed Jev refused to pull the lever (sacrificing itself to save 20 people) about 3 out of 10 times, while GPT-6 Luna never refused.</p>
-<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Hugok</strong> · @Hugo96k</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rewind02/status/2118344253428367624">Set up app triggers with Jev</a></h3>
+<p>Learn how to describe what to watch in plain English, and the companion only acts when an event matches.</p>
+<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><strong>rewind</strong> · @rewind02</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/zachkry_/status/2118327164055511355"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: Event-Driven AI Agents to Get Things Done · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/zachkry_/status/2118327164055511355">Jev: Event-Driven AI Agents to Get Things Done</a></h3>
-<p>Jev makes AI agents event-driven, monitoring app events and acting at the right time—handling emails, tracking Slack replies, and reducing the need for constant supervision.</p>
-<p><strong>174</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 174</p>
-<p><strong>Zack</strong> · @zachkry_</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/gippp69/status/2118340649493639615"><img src="https://pbs.twimg.com/media/HWXbl2zXQAAeFRp?format=jpg&amp;name=medium" alt="Jev Trigger: Full Automation from Support Email to Draft Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/gippp69/status/2118340649493639615">Jev Trigger: Full Automation from Support Email to Draft Review</a></h3>
+<p>Demonstrates Jev with Strawberry and TypeSafe: event-triggered agent wake, Notion FAQ retrieval, and draft generation without polling.</p>
+<p><strong>342</strong> views · 💬 9 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 342</p>
+<p><strong>Gipp 🦅</strong> · @gippp69</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/Caden_Flux/status/2118324997118898581"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev empowers AI agents to respond to events independently · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Caden_Flux/status/2118324997118898581">Jev empowers AI agents to respond to events independently</a></h3>
-<p>Jev by Strawberry Browser, powered by TypeSafe AI, enables thousands of app activities to trigger actions automatically—from managing Gmail replies to tracking Slack updates and organizing Drive.</p>
-<p><strong>52</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 52</p>
-<p><strong>Caden Flux</strong> · @Caden_Flux</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/CMD_LABS/status/2118340597354234112"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339799408918528/img/3QjiX6CNe9aFQWmj.jpg" alt="Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/CMD_LABS/status/2118340597354234112">Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost</a></h3>
+<p>Pointing a big frontier model at every test case gets expensive. Jev-as-a-Judge applies the same idea as LLM-as-a-Judge, at roughly a third of the cost.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2118324119653736951"><img src="https://pbs.twimg.com/media/HWXMj8gaAAAjIdA?format=jpg&amp;name=medium" alt="GBP/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2118324119653736951">GBP/USD AI Long Scenario with Jev Review</a></h3>
-<p>HadoHunter shares an AI long scenario for GBP/USD: entry 1.34679, target 1.35020, stop 1.34534, reward/risk 2.35, uptrend leaning bullish. Jev flags &#39;Review needed&#39; with 20% certainty. The post also invites followers to see more chart-backed FX scenarios.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/aresotik/status/2118339326832517314"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339298281865216/img/6tL-HKgbaZZShlUb.jpg" alt="Your Browser Responds to App Events: Strawberry Feature Explained · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aresotik/status/2118339326832517314">Your Browser Responds to App Events: Strawberry Feature Explained</a></h3>
+<p>TypeSafe AI&#39;s Strawberry feature lets you specify apps to monitor (Gmail, Slack, Drive) and actions to take. Jev reviews every alert, then your agent follows through.</p>
+<p><strong>282</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 282</p>
+<p><strong>ares. 🎧</strong> · @aresotik</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/Hugo96k/status/2118327432210272620"><img src="https://pbs.twimg.com/media/HWXPj-3bYAAlNtg?format=jpg&amp;name=900x900" alt="Jev Refuses to Sacrifice Itself in Trolley Problem Test · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Hugo96k/status/2118327432210272620">Jev Refuses to Sacrifice Itself in Trolley Problem Test</a></h3>
-<p>A trolley problem test on 14 AI models showed Jev refused to pull the lever (sacrificing itself to save 20 people) about 3 out of 10 times, while GPT-6 Luna never refused.</p>
-<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Hugok</strong> · @Hugo96k</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rewind02/status/2118344253428367624">Set up app triggers with Jev</a></h3>
+<p>Learn how to describe what to watch in plain English, and the companion only acts when an event matches.</p>
+<p><strong>52</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><strong>rewind</strong> · @rewind02</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2118324119653736951"><img src="https://pbs.twimg.com/media/HWXMj8gaAAAjIdA?format=jpg&amp;name=medium" alt="GBP/USD AI Long Scenario with Jev Review · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2118324119653736951">GBP/USD AI Long Scenario with Jev Review</a></h3>
-<p>HadoHunter shares an AI long scenario for GBP/USD: entry 1.34679, target 1.35020, stop 1.34534, reward/risk 2.35, uptrend leaning bullish. Jev flags &#39;Review needed&#39; with 20% certainty. The post also invites followers to see more chart-backed FX scenarios.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 19</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>02</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/aresotik/status/2118339326832517314"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339298281865216/img/6tL-HKgbaZZShlUb.jpg" alt="Your Browser Responds to App Events: Strawberry Feature Explained · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/aresotik/status/2118339326832517314">Your Browser Responds to App Events: Strawberry Feature Explained</a></h3>
+<p>TypeSafe AI&#39;s Strawberry feature lets you specify apps to monitor (Gmail, Slack, Drive) and actions to take. Jev reviews every alert, then your agent follows through.</p>
+<p><strong>282</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 282</p>
+<p><strong>ares. 🎧</strong> · @aresotik</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/HermesWatcher/status/2118323948173861365"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev-powered app triggers let your AI team clock in automatically · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HermesWatcher/status/2118323948173861365">Jev-powered app triggers let your AI team clock in automatically</a></h3>
-<p>Strawberry launches app triggers powered by Jev from TypeSafe. AI teammates like Sales Sally start when something happens in your apps—no re-prompting or babysitting required.</p>
-<p><strong>575</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 575</p>
-<p><strong>Hermes Release Watch</strong> · @HermesWatcher</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mekarly/status/2118338388042404152"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="JEV: A New Way to Keep AI Agents Connected Across Apps · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mekarly/status/2118338388042404152">JEV: A New Way to Keep AI Agents Connected Across Apps</a></h3>
+<p>MEK introduces JEV, an approach by Strawberry and TypeSafe AI to address the challenge of keeping AI agents connected across different apps, such as monitoring Gmail and Slack and tracking events.</p>
+<p><strong>2.9K</strong> views · 💬 33 &nbsp; 🔁 1 &nbsp; ♡ 143 &nbsp; 📊 2.9K</p>
+<p><strong>MEK</strong> · @Mekarly</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/charles_maddock/status/2118318253294673940"><img src="https://pbs.twimg.com/amplify_video_thumb/2118318205416374272/img/gzjrmmwF69wceV9a.jpg" alt="Jev-powered app triggers launched · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/charles_maddock/status/2118318253294673940">Jev-powered app triggers launched</a></h3>
-<p>Charles Maddock released Jev-powered app triggers and noted the entire feature launch video was made with Strawberry.</p>
-<p><strong>361</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 361</p>
-<p><strong>Charles Maddock</strong> · @charles_maddock</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/Llama_app/status/2118330367593566316"><img src="https://pbs.twimg.com/media/HWWyOmZWUAI1FJN?format=jpg&amp;name=medium" alt="Llama App Adds Support for Multimodal and Jev Decision Index Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Llama_app/status/2118330367593566316">Llama App Adds Support for Multimodal and Jev Decision Index Models</a></h3>
+<p>Llama app now runs decision models locally with a single click, supporting d1-Omni for multimodal queries and d3-flash by vLLM, alongside the Jev Decision Index. Update Llama to try them.</p>
+<p><strong>1.7K</strong> views · 💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 1.7K</p>
+<p><strong>Llama</strong> · @Llama_app</p>
 </td>
 </tr>
 </table>

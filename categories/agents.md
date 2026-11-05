@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 595 | 317 | 280 | 3.0M |
+| 599 | 321 | 280 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Mekarly/status/2118338388042404152"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="JEV: A New Way to Keep AI Agents Connected Across Apps · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Mekarly/status/2118338388042404152">JEV: A New Way to Keep AI Agents Connected Across Apps</a></h3>
+<p>MEK introduces JEV, an approach by Strawberry and TypeSafe AI to address the challenge of keeping AI agents connected across different apps, such as monitoring Gmail and Slack and tracking events.</p>
+<p><strong>中文摘要：</strong>MEK介绍了JEV，由Strawberry和TypeSafe AI提出的方法，用于解决AI智能体在不同应用间保持连接的问题，例如监控Gmail和Slack以及跟踪事件。</p>
+<p><strong>MEK</strong> · @Mekarly · 2026-11-05T13:43:23.000Z</p>
+<p>💬 33 &nbsp; 🔁 1 &nbsp; ♡ 143 &nbsp; 📊 2.9K</p>
+<p><a href="https://x.com/Mekarly/status/2118338388042404152">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/sophiaparkerr_/status/2118335950602535315"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev enables AI agents to know the next step · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/sophiaparkerr_/status/2118335950602535315">Jev enables AI agents to know the next step</a></h3>
+<p>Jev uses app triggers and event monitoring to help AI agents autonomously follow through without constant supervision, improving task continuity.</p>
+<p><strong>中文摘要：</strong>Jev通过应用触发器和事件监控，帮助AI代理在无需持续监督的情况下自主完成后续操作，提升任务执行的连贯性。</p>
+<p><strong>Sophia</strong> · @sophiaparkerr_ · 2026-11-05T13:33:42.000Z</p>
+<p>💬 15 &nbsp; 🔁 4 &nbsp; ♡ 48 &nbsp; 📊 346</p>
+<p><a href="https://x.com/sophiaparkerr_/status/2118335950602535315">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/slash1sol/status/2118335082557497829"><img src="https://pbs.twimg.com/amplify_video_thumb/2118326667500310528/img/cbs1f6w_A2MAtink.jpg" alt="The Agent That Finally Knows How to Wait: Jev Handles Multi-Day Tasks Across Gmail, Slack and Drive · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/slash1sol/status/2118335082557497829">The Agent That Finally Knows How to Wait: Jev Handles Multi-Day Tasks Across Gmail, Slack and Drive</a></h3>
+<p>Jev from TypeSafe AI is reportedly plugged into browser companions, sorting through thousands of app events for cents to find the one that matters, enabling one task to span days across Gmail, Slack and Drive.</p>
+<p><strong>中文摘要：</strong>据称，TypeSafe AI的Jev已接入浏览器伴侣，能以极低成本从数千个应用事件中筛选关键信息，让单一任务跨Gmail、Slack和Drive持续数天。</p>
+<p><strong>slash1s</strong> · @slash1sol · 2026-11-05T13:30:15.000Z</p>
+<p>💬 15 &nbsp; 🔁 4 &nbsp; ♡ 42 &nbsp; 📊 596</p>
+<p><a href="https://x.com/slash1sol/status/2118335082557497829">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ParamSiddh/status/2118331622001180955"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Strawberry Triggers: Jev-Powered Automated AI Agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ParamSiddh/status/2118331622001180955">Strawberry Triggers: Jev-Powered Automated AI Agents</a></h3>
+<p>This app is powered by TypeSafe AI&#39;s Jev model, automatically running agents when events occur—eliminating manual monitoring and continuous polling—while using Jev to classify and route unstructured app payloads.</p>
+<p><strong>中文摘要：</strong>该应用由TypeSafe AI的Jev模型提供支持，可在事件发生时自动运行代理，无需手动监控或持续轮询，并利用Jev对非结构化的应用数据进行分类和路由。</p>
+<p><strong>Param</strong> · @ParamSiddh · 2026-11-05T13:16:30.000Z</p>
+<p>💬 4 &nbsp; 🔁 3 &nbsp; ♡ 8 &nbsp; 📊 254</p>
+<p><a href="https://x.com/ParamSiddh/status/2118331622001180955">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Kanojiyaaakash1/status/2118323770796728389"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Strawberry + Jev Empowers AI Agent Automation · 原帖视频截图" width="100%"></a>

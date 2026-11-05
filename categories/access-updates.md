@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 453 | 189 | 264 | 802K |
+| 455 | 190 | 265 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Llama_app/status/2118330367593566316"><img src="https://pbs.twimg.com/media/HWWyOmZWUAI1FJN?format=jpg&amp;name=medium" alt="Llama App Adds Support for Multimodal and Jev Decision Index Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Llama_app/status/2118330367593566316">Llama App Adds Support for Multimodal and Jev Decision Index Models</a></h3>
+<p>Llama app now runs decision models locally with a single click, supporting d1-Omni for multimodal queries and d3-flash by vLLM, alongside the Jev Decision Index. Update Llama to try them.</p>
+<p><strong>中文摘要：</strong>Llama应用现可一键本地运行决策模型，支持d1-Omni（多模态查询）和vLLM的d3-flash，并提到Jev Decision Index。用户可更新Llama体验这些新模型。</p>
+<p><strong>Llama</strong> · @Llama_app · 2026-11-05T13:11:30.000Z</p>
+<p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 14 &nbsp; 📊 1.7K</p>
+<p><a href="https://x.com/Llama_app/status/2118330367593566316">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AdamHoltererer/status/2118329800007753927"><img src="https://pbs.twimg.com/amplify_video_thumb/2118329777597652993/img/4Q6CloXERqbHztuy.jpg" alt="Jev Leads OpenRouter Requests · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AdamHoltererer/status/2118329800007753927">Jev Leads OpenRouter Requests</a></h3>
+<p>According to the post, Jev receives more requests than any other model on OpenRouter, yet accounts for a tiny fraction of tokens and spend, suggesting efficiency and broad adoption.</p>
+<p><strong>中文摘要：</strong>据帖子，Jev在OpenRouter平台上的请求量超过其他任何模型，但仅占很小比例的token和支出，暗示其高效且被广泛采用。</p>
+<p><strong>Adam Holter</strong> · @AdamHoltererer · 2026-11-05T13:09:15.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 597</p>
+<p><a href="https://x.com/AdamHoltererer/status/2118329800007753927">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hasantoxr/status/2118311624226599296"><img src="https://pbs.twimg.com/media/HWXBMftbIAAuP1x?format=jpg&amp;name=medium" alt="Nace AI Pays Users to Switch From Jev · 原帖图片" width="100%"></a>

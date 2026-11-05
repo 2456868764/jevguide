@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 302 | 185 | 117 | 595K |
+| 306 | 188 | 118 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rewind02/status/2118344253428367624">Set up app triggers with Jev</a></h3>
+<p>Learn how to describe what to watch in plain English, and the companion only acts when an event matches.</p>
+<p><strong>中文摘要：</strong>了解如何用自然语言描述监控事件，让Jev伴侣仅在匹配时执行操作。</p>
+<p><strong>rewind</strong> · @rewind02 · 2026-11-05T14:06:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 52</p>
+<p><a href="https://x.com/rewind02/status/2118344253428367624">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/gippp69/status/2118340649493639615"><img src="https://pbs.twimg.com/media/HWXbl2zXQAAeFRp?format=jpg&amp;name=medium" alt="Jev Trigger: Full Automation from Support Email to Draft Review · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/gippp69/status/2118340649493639615">Jev Trigger: Full Automation from Support Email to Draft Review</a></h3>
+<p>Demonstrates Jev with Strawberry and TypeSafe: event-triggered agent wake, Notion FAQ retrieval, and draft generation without polling.</p>
+<p><strong>中文摘要：</strong>演示Jev模型与Strawberry和TypeSafe结合，根据支持邮件等事件自动唤醒Agent，从Notion拉取FAQ生成草稿，无需轮询。</p>
+<p><strong>Gipp 🦅</strong> · @gippp69 · 2026-11-05T13:52:22.000Z</p>
+<p>💬 9 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 342</p>
+<p><a href="https://x.com/gippp69/status/2118340649493639615">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AIwithJessica/status/2118335055588192522"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev&#39;s Cost and Efficiency Advantage in Event Monitoring · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AIwithJessica/status/2118335055588192522">Jev&#39;s Cost and Efficiency Advantage in Event Monitoring</a></h3>
+<p>The user notes that System One models like Jev are better suited for fast classification than regular LLMs, avoiding token burn and enabling monitoring of large-scale events at minimal cost.</p>
+<p><strong>中文摘要：</strong>用户指出Jev等System One模型比常规LLM更适合快速分类任务，避免了大量token消耗，实现以极低成本监控海量事件。</p>
+<p><strong>Jessica Collins</strong> · @AIwithJessica · 2026-11-05T13:30:08.000Z</p>
+<p>💬 10 &nbsp; 🔁 1 &nbsp; ♡ 43 &nbsp; 📊 2.8K</p>
+<p><a href="https://x.com/AIwithJessica/status/2118335055588192522">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/markfenner/status/2118330587605856262"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Strawberry Introduces Jev-Powered App Triggers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/markfenner/status/2118330587605856262">Strawberry Introduces Jev-Powered App Triggers</a></h3>
+<p>Jev now monitors incoming app events, identifies when something needs the agent&#39;s attention, and automatically takes over repetitive inbox tasks, freeing users from tedious work.</p>
+<p><strong>中文摘要：</strong>Jev 现在可监控传入的应用事件，识别需要代理注意的事项，并自动接管重复性收件箱任务，让用户从繁琐工作中解脱。</p>
+<p><strong>Hybrid 🏃🏾</strong> · @markfenner · 2026-11-05T13:12:23.000Z</p>
+<p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 319</p>
+<p><a href="https://x.com/markfenner/status/2118330587605856262">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/paid-partnerships-policy">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/zachkry_/status/2118327164055511355"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: Event-Driven AI Agents to Get Things Done · 原帖视频截图" width="100%"></a>

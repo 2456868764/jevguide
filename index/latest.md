@@ -2,6 +2,18 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-05T14:06:41.000Z | [Set up app triggers with Jev](https://x.com/rewind02/status/2118344253428367624) | 自动化工作流 | rewind | 52 |
+| 2026-11-05T13:52:22.000Z | [Jev Trigger: Full Automation from Support Email to Draft Review](https://x.com/gippp69/status/2118340649493639615) | 自动化工作流 | Gipp 🦅 | 342 |
+| 2026-11-05T13:52:09.000Z | [Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost](https://x.com/CMD_LABS/status/2118340597354234112) | 开发者工具 | COMMAND LABS | 5 |
+| 2026-11-05T13:47:07.000Z | [Your Browser Responds to App Events: Strawberry Feature Explained](https://x.com/aresotik/status/2118339326832517314) | 工作原理 | ares. 🎧 | 282 |
+| 2026-11-05T13:43:23.000Z | [JEV: A New Way to Keep AI Agents Connected Across Apps](https://x.com/Mekarly/status/2118338388042404152) | 智能体 | MEK | 2.9K |
+| 2026-11-05T13:33:42.000Z | [Jev enables AI agents to know the next step](https://x.com/sophiaparkerr_/status/2118335950602535315) | 智能体 | Sophia | 346 |
+| 2026-11-05T13:30:15.000Z | [The Agent That Finally Knows How to Wait: Jev Handles Multi-Day Tasks Across Gmail, Slack and Drive](https://x.com/slash1sol/status/2118335082557497829) | 智能体 | slash1s | 596 |
+| 2026-11-05T13:30:08.000Z | [Jev's Cost and Efficiency Advantage in Event Monitoring](https://x.com/AIwithJessica/status/2118335055588192522) | 自动化工作流 | Jessica Collins | 2.8K |
+| 2026-11-05T13:16:30.000Z | [Strawberry Triggers: Jev-Powered Automated AI Agents](https://x.com/ParamSiddh/status/2118331622001180955) | 智能体 | Param | 254 |
+| 2026-11-05T13:12:23.000Z | [Strawberry Introduces Jev-Powered App Triggers](https://x.com/markfenner/status/2118330587605856262) | 自动化工作流 | Hybrid 🏃🏾 | 319 |
+| 2026-11-05T13:11:30.000Z | [Llama App Adds Support for Multimodal and Jev Decision Index Models](https://x.com/Llama_app/status/2118330367593566316) | 接入动态 | Llama | 1.7K |
+| 2026-11-05T13:09:15.000Z | [Jev Leads OpenRouter Requests](https://x.com/AdamHoltererer/status/2118329800007753927) | 接入动态 | Adam Holter | 597 |
 | 2026-11-05T12:59:51.000Z | [Jev Refuses to Sacrifice Itself in Trolley Problem Test](https://x.com/Hugo96k/status/2118327432210272620) | 科研 | Hugok | 5 |
 | 2026-11-05T12:58:47.000Z | [Jev: Event-Driven AI Agents to Get Things Done](https://x.com/zachkry_/status/2118327164055511355) | 自动化工作流 | Zack | 174 |
 | 2026-11-05T12:50:10.000Z | [Jev empowers AI agents to respond to events independently](https://x.com/Caden_Flux/status/2118324997118898581) | 自动化工作流 | Caden Flux | 52 |
@@ -90,15 +102,3 @@
 | 2026-11-04T16:50:13.000Z | [Testing TypeSafe AI's JEV for Search](https://x.com/Innovent/status/2118023018563998170) | 社区实践 | Innovent Solutions | 2 |
 | 2026-11-04T16:44:10.000Z | [Jev as a reranker: thoughts on full reranking with tree acceleration](https://x.com/nishio/status/2118021495490494506) | 工作原理 | NISHIO Hirokazu | 73 |
 | 2026-11-04T16:41:16.000Z | [Autonomous agent uses Jev to mine ORE on Solana](https://x.com/0rdlibrary/status/2118020768282062892) | 金融 | 8Bit🦞 | 113 |
-| 2026-11-04T16:08:21.000Z | [Building Barista with Postgres, Embeddings, and Jev](https://x.com/teivah/status/2118012482597814394) | 工作原理 | Teiva Harsanyi | 233 |
-| 2026-11-04T16:00:18.000Z | [NVIDIA and Stanford Unveil CLM Architecture Challenging Jev](https://x.com/DailyDoseOfDS_/status/2118010458653573179) | 科研 | Daily Dose of Data Science | 556 |
-| 2026-11-04T15:49:03.000Z | [JEV model completes 16 runs with ultra-low inference cost](https://x.com/hammer0x419/status/2118007627120508970) | 游戏 | Hammer0x419 | 2 |
-| 2026-11-04T15:15:35.000Z | [LLM Gateway 24h Data: Jev 1.14 at 22.7%](https://x.com/LLMDevPass/status/2117999204815470962) | 数据分析 | DevPass | 25 |
-| 2026-11-04T15:00:00.000Z | [Decision Bench Day 12: Decider Flash V1.2 Lands #8, Jev 1.13 Compared](https://x.com/WasimJalali/status/2117995282327847284) | 社区实践 | Wasim Jalali | 5 |
-| 2026-11-04T14:35:58.000Z | [JEV Performance in Agent Benchmarks](https://x.com/ForgeAI_gg/status/2117989232903946448) | 智能体 | ForgeAI | 12 |
-| 2026-11-04T14:33:34.000Z | [Playing Pokémon FireRed with Jev](https://x.com/oraphaelmoura/status/2117988629742064087) | 游戏 | Raphael Moura | 7 |
-| 2026-11-04T14:02:17.000Z | [A Promising RAG Approach: Using a Jev-like Hierarchical Tree Instead of a Vector DB](https://x.com/kenn/status/2117980756761047366) | 知识与搜索 | Kenn Ejima | 4.1K |
-| 2026-11-04T13:55:49.000Z | [On-chain proof of Jev delegating a task to DeepSeek](https://x.com/usebrainchain/status/2117979129031413917) | 智能体 | BrainChain | 105 |
-| 2026-11-04T13:49:06.000Z | [Reflecting on AI subscription usage](https://x.com/jais_mukesh/status/2117977440840458345) | 生产力 | Mukesh | 2 |
-| 2026-11-04T13:21:34.000Z | [TypeSafe AI Jev: Decision Agents for Trading on Solana](https://x.com/0rdlibrary/status/2117970512001573131) | 金融 | 8Bit🦞 | 218 |
-| 2026-11-04T13:05:08.000Z | [Toloka tests Jev and Astra for robot control](https://x.com/TolokaAI/status/2117966373812904300) | 机器人 | Toloka | 122 |

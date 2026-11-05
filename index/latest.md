@@ -2,15 +2,36 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-03T09:41:05.000Z | [Sage2, a Jev Rival, Launches with Extraction and Streaming Context](https://x.com/aigclink/status/2117552638585905509) | 产品发布 | AIGCLINK | 214 |
+| 2026-11-03T09:38:46.000Z | [Jev Helps Compress Agent Data Query to Under 10 Seconds](https://x.com/kun70706/status/2117552054466216198) | 智能体 | 杯中风暴 | 33 |
+| 2026-11-03T09:33:00.000Z | [Parallel frontend/backend with Jev classifier](https://x.com/WillDobrev/status/2117550601567678836) | 软件开发 | Will Dobrev → criticalthinker.dev | 63 |
+| 2026-11-03T09:02:29.000Z | [Jev Course: Fast Decision-Oriented Generation](https://x.com/freeCodeCamp/status/2117542924221034825) | 教育 | freeCodeCamp.org | 2.2K |
+| 2026-11-03T08:21:26.000Z | [Hindsight reportedly uses Jev for memory processing](https://x.com/takahirosakashi/status/2117532593210183879) | 接入动态 | さかしー B級ビジネスコレクター | 58 |
+| 2026-11-03T05:56:48.000Z | [Sieve-31B-v3 scores 71.1 on Decision Index, ahead of Jev 1.14](https://x.com/sthanikaai/status/2117496192884174983) | 产品发布 | Sthānika AI | 8 |
+| 2026-11-03T05:50:01.000Z | [StarRouter: A Project Demonstrating TypeSafe's JEV System One Model](https://x.com/javamuffinztx/status/2117494486699745468) | 社区实践 | Milton Smith | 6 |
+| 2026-11-03T05:36:44.000Z | [AI defect detection surpasses CLIP with just 2 reference images](https://x.com/NewsTongueX/status/2117491143193580005) | 企业运营 | NewsTongue | 12 |
+| 2026-11-03T05:23:49.000Z | [Experimenting with Jev for Natural Language Personalization](https://x.com/manji6/status/2117487894436982920) | 营销 | manji6(まんじろー) | 5 |
+| 2026-11-03T04:27:46.000Z | [Shikumi adds support for Jev and OpenAI Decisions API](https://x.com/shinzui/status/2117473787688227293) | 开发资源 | Nadeem Bitar | 9 |
+| 2026-11-03T03:04:28.000Z | [3 Key Differences Between Jev and LLMs](https://x.com/CMD_LABS/status/2117452825034625187) | 工作原理 | COMMAND LABS | 5 |
+| 2026-11-03T02:48:37.000Z | [Audio Decision System API Release](https://x.com/nutanc/status/2117448837459853347) | 产品发布 | nutanc | 12 |
+| 2026-11-03T02:45:51.000Z | [Three lightweight approaches to AI agent decisions](https://x.com/ujjwalbsoni2003/status/2117448140148387978) | 智能体 | Ujjwalkumar Soni | 11 |
+| 2026-11-03T02:31:23.000Z | [Note on Jev Score Fluctuation](https://x.com/soundinspire9/status/2117444500138443186) | 社区实践 | Sound Inspire | 2 |
+| 2026-11-03T02:31:02.000Z | [Jev Official API vs Cloudflare: A Comparative Test](https://x.com/soundinspire9/status/2117444409818268147) | 社区实践 | Sound Inspire | 5 |
+| 2026-11-03T02:20:25.000Z | [Jev-Assessed AUD/USD Trade Signal](https://x.com/hadohunter/status/2117441740080808347) | 金融 | HadoHunter | 15 |
+| 2026-11-03T01:17:00.000Z | [Routing agent requests by difficulty with Jev](https://x.com/omnirailorg/status/2117425779042566191) | 工作原理 | OmniRail | 40 |
+| 2026-11-03T01:15:16.000Z | [Jev's Latest Breakout App: A People-Search AI Agent](https://x.com/aChow_hz/status/2117425344630460537) | 营销 | 阿Chow | 16 |
 | 2026-11-03T00:35:21.000Z | [When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model](https://x.com/shao__meng/status/2117415296931901893) | 知识与搜索 | meng shao | 262 |
 | 2026-11-03T00:24:44.000Z | [Similar Idea to JEV for Audio](https://x.com/pavelsukhachev/status/2117412625143177510) | 社区实践 | PAVEL SUKHACHEV | 0 |
 | 2026-11-03T00:05:00.000Z | [Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem](https://x.com/bkdgiffug/status/2117407660077162543) | 开发资源 | lumxss | 262 |
+| 2026-11-03T00:03:48.000Z | [Jev delegates CSV-to-JSON task to DeepSeek](https://x.com/usebrainchain/status/2117407358678696260) | 智能体 | BrainChain | 47 |
 | 2026-11-03T00:03:18.000Z | [Jev hires DeepSeek for task proof](https://x.com/usebrainchain/status/2117407233965240612) | 智能体 | BrainChain | 29 |
+| 2026-11-03T00:02:48.000Z | [Jev Hires DeepSeek to Complete a Calculation Task](https://x.com/usebrainchain/status/2117407108014510117) | 智能体 | BrainChain | 30 |
 | 2026-11-03T00:02:18.000Z | [Jev Used DeepSeek to Complete US ZIP Code Regex Task](https://x.com/usebrainchain/status/2117406981954625692) | 软件开发 | BrainChain | 28 |
 | 2026-11-03T00:01:48.000Z | [Jev Model Proof of Task with DeepSeek](https://x.com/usebrainchain/status/2117406856251338978) | 社区实践 | BrainChain | 2 |
 | 2026-11-03T00:01:18.000Z | [Jev task proof: delegating to Claude to summarize Thoreau](https://x.com/usebrainchain/status/2117406730564858314) | 智能体 | BrainChain | 7 |
 | 2026-11-03T00:00:48.000Z | [Jev hired Claude at 35% confidence and accepted the work at 94%](https://x.com/usebrainchain/status/2117406604593078509) | 智能体 | BrainChain | 9 |
 | 2026-11-03T00:00:19.000Z | [Task proof: Jev hired Claude at 44% and accepted at 91%](https://x.com/usebrainchain/status/2117406483566448826) | 智能体 | BrainChain | 9 |
+| 2026-11-02T23:58:07.000Z | [PhasmaHarness: A Coding Harness Using Jev as a Router](https://x.com/CKaramoustos/status/2117405927565365289) | 开发者工具 | Christos Karamoustos | 6 |
 | 2026-11-02T22:05:08.000Z | [JEV for Audio and Customer Service Potential](https://x.com/matiaspiuma/status/2117377494043296246) | 客户支持 | Matius | 9 |
 | 2026-11-02T20:53:52.000Z | [The real cost debate around Jev](https://x.com/dorkitude/status/2117359562089181585) | 社区实践 | Kyle Wild | 469 |
 | 2026-11-02T20:52:36.000Z | [WIP Project Using TypeSafe Jev to Filter Posts](https://x.com/otiseleven/status/2117359243435376809) | 社区实践 | Otis Eleven | 35 |
@@ -18,15 +39,22 @@
 | 2026-11-02T20:31:09.000Z | [BrainChain introduces Jev dual-scoring mechanism](https://x.com/usebrainchain/status/2117353845676269994) | 产品发布 | BrainChain | 284 |
 | 2026-11-02T20:30:17.000Z | [Emotion benchmark: fine-tuned MiniLM 92.35% vs Jev selector 76.00%](https://x.com/davidwbressler/status/2117353626586714497) | 社区实践 | David Bressler | 19 |
 | 2026-11-02T19:31:04.000Z | [Jev-Powered Agent Bot Beats Level 9 CPU in Smash Melee](https://x.com/rperry_/status/2117338722031354335) | 游戏 | Ryan Perry | 221 |
+| 2026-11-02T19:05:10.000Z | [Building a realtime job search website with Jev](https://x.com/_sarant/status/2117332205705822400) | 社区实践 | Sara | 282 |
 | 2026-11-02T18:32:52.000Z | [Jev + AIsa: A Powerful Combo for Creator Research](https://x.com/0xfemyn/status/2117324076603908554) | 内容创作 | Rafael | 69 |
+| 2026-11-02T18:32:07.000Z | [A Jev-like 27B decision multimodal model runs locally on Mac](https://x.com/0x0SojalSec/status/2117323888346779876) | 社区实践 | Md Ismail Šojal 🕷️ | 892 |
 | 2026-11-02T18:10:47.000Z | [After Jev: Devs Build Streaming Decision Model Sage2](https://x.com/akshay_pachaar/status/2117318520874881452) | 产品发布 | Akshay 🚀 | 9.4K |
 | 2026-11-02T18:03:13.000Z | [JEV decision model going live for ORE mining](https://x.com/0rdlibrary/status/2117316615490666943) | 金融 | 8Bit🦞 | 284 |
 | 2026-11-02T18:02:21.000Z | [Jev model powers AI agent decisions](https://x.com/DarkFactorr/status/2117316396606480716) | 智能体 | Dark Factor | 187 |
+| 2026-11-02T18:00:00.000Z | [Jev Limitations: Text-Only, Weak Math, Susceptible to Hidden Instructions](https://x.com/anbturki/status/2117315806598205624) | 工作原理 | Ali Turki \| علي تركي | 4 |
 | 2026-11-02T17:41:30.000Z | [Developers Build Sage2, a Live Agent Built on Jev](https://x.com/_avichawla/status/2117311150488752445) | 智能体 | Avi Chawla | 19K |
 | 2026-11-02T17:37:21.000Z | [Developer bullish on new system-one extraction model, says it complements Jev decision models](https://x.com/omarsar0/status/2117310105314086985) | 社区实践 | elvis | 6.4K |
 | 2026-11-02T17:24:32.000Z | [Mine Ore with TypeSafe JEV on Solana](https://x.com/0rdlibrary/status/2117306881261899869) | 金融 | 8Bit🦞 | 345 |
 | 2026-11-02T17:08:39.000Z | [GLiNER v0.2.30 Released: Faster Inference and Jev-like Serving API](https://x.com/ihor_step/status/2117302881078399240) | 开发资源 | Ihor Stepanov | 2.1K |
+| 2026-11-02T16:54:57.000Z | [Jev completed proof of task 9: hired Claude at 47% confidence](https://x.com/usebrainchain/status/2117299433364677000) | 智能体 | BrainChain | 316 |
 | 2026-11-02T16:53:59.000Z | [Jev Task 7 Proof: Hired DeepSeek at 41% confidence, accepted at 94%](https://x.com/usebrainchain/status/2117299190472589384) | 社区实践 | BrainChain | 258 |
+| 2026-11-02T16:49:21.000Z | [Using Jev to Help a Litter-Picking Rover Tell Trash from Leaves](https://x.com/metrox_eth/status/2117298025127354680) | 机器人 | metr0x | 832 |
+| 2026-11-02T16:46:08.000Z | [Jev-Powered ORE Mining Rig Agent](https://x.com/0rdlibrary/status/2117297218151391606) | 智能体 | 8Bit🦞 | 317 |
+| 2026-11-02T16:43:31.000Z | [Jev for audio sparks discussion: Will LiveKit support it?](https://x.com/perezcarreno/status/2117296556600697253) | 接入动态 | Armando J. Perez-Carreno | 47 |
 | 2026-11-02T16:17:01.000Z | [Thanks to TypeSafe and Home Assistant](https://x.com/v3ec/status/2117289887946948873) | 社区实践 | Alejandro Erickson | 1 |
 | 2026-11-02T16:08:39.000Z | [TypeSafe Jev Walkthrough: Detecting Unsupported Conclusions in AI Citations](https://x.com/0xkurt/status/2117287782477394334) | 社区实践 | Kurt | 22 |
 | 2026-11-02T16:05:00.000Z | [AIsa launches creator search with Jev-assisted filtering](https://x.com/AIsaOneHQ/status/2117286863849640405) | 营销 | AIsa | 136 |
@@ -74,31 +102,3 @@
 | 2026-11-02T07:01:17.000Z | [Apache Flink Agents 0.4 Adds Unified API for TypeSafe Jev, OpenAI, and Alibaba Cloud](https://x.com/KaiWaehner/status/2117150035238690883) | 产品发布 | Kai Wähner | 44 |
 | 2026-11-02T06:34:02.000Z | [TypeSafe AI valued at $7.5B, Jev model powers enterprise automation](https://x.com/Toggle_News/status/2117143176108458284) | 自动化工作流 | Toggle News | 7 |
 | 2026-11-02T06:25:57.000Z | [EUR/USD AI Short Signal: Jev Assessment Not Supported](https://x.com/hadohunter/status/2117141141548372075) | 金融 | HadoHunter | 7 |
-| 2026-11-02T06:23:34.000Z | [BrainChain Runs Code Before Jev Grades It](https://x.com/usebrainchain/status/2117140544346354149) | 开发者工具 | BrainChain | 16 |
-| 2026-11-02T05:43:13.000Z | [Jev finds places based on taste profile](https://x.com/filipealva/status/2117130387100975399) | 社区实践 | alva | 119 |
-| 2026-11-02T05:31:29.000Z | [Hands-on: Jev vs OpenAI Decisions API in Prefecture Guessing](https://x.com/Studio_UXM/status/2117127434508320970) | 社区实践 | Studio UXM | 7 |
-| 2026-11-02T05:31:03.000Z | [Hands-on with Jev: AI Disagrees on Okonomiyaki's Prefecture](https://x.com/eXpresser_UXM/status/2117127327847182604) | 社区实践 | eXpresser | 14 |
-| 2026-11-02T05:19:40.000Z | [RAG vs. retriever-free RAG explained, powered by decision models like Jev](https://x.com/SaurabhDub28465/status/2117124459559882921) | 知识与搜索 | Saurabh Dubey | 10 |
-| 2026-11-02T04:35:50.000Z | [Jev is a closed, hosted API](https://x.com/lachlanscards/status/2117113429970612297) | 工作原理 | Lachlan's Cards | 100 |
-| 2026-11-02T04:31:06.000Z | [Jev Large Model Powers Contact Search for Lead Generation](https://x.com/KinGao476942/status/2117112240331771912) | 营销 | Kin | 555 |
-| 2026-11-02T03:48:27.000Z | [Using Jev for Cold Email Lead Screening](https://x.com/remoduzk/status/2117101507191472539) | 营销 | Rémo | 516 |
-| 2026-11-02T03:06:36.000Z | [Jev Trading Analysis System Reviews Polymarket Tesla Roadster Market](https://x.com/rinrin9986xl/status/2117090972270240195) | 金融 | 区块使者 | 121 |
-| 2026-11-02T02:40:02.000Z | [Discussion on JEV AI Limitations in Trading](https://x.com/kingmijinko/status/2117084288583905673) | 金融 | mildmijinko | 11 |
-| 2026-11-02T02:01:06.000Z | [Jev Model Improves Image Classification Accuracy with Few Examples](https://x.com/davidwbressler/status/2117074490156896749) | 社区实践 | David Bressler | 18 |
-| 2026-11-02T01:04:41.000Z | [What Would Jev Do? Winners Announced](https://x.com/adalagent/status/2117060291687276613) | 社区实践 | AdaL | 207 |
-| 2026-11-02T01:04:00.000Z | [TypeSafe Jev: A System One Model That Returns Only Decisions](https://x.com/rise_raise_ai/status/2117060120383197661) | 产品发布 | Rise-Raise | 22 |
-| 2026-11-02T00:45:41.000Z | [Agent evolution: Jev handles intent classification and action guidance, LLM handles natural responses](https://x.com/LeawDn/status/2117055511535427943) | 智能体 | LEAW. | 15 |
-| 2026-11-01T23:55:50.000Z | [Jev Hires DeepSeek for Regex Task](https://x.com/usebrainchain/status/2117042963947618382) | 智能体 | BrainChain | 367 |
-| 2026-11-01T23:55:25.000Z | [Proof of Task Completion with Jev](https://x.com/usebrainchain/status/2117042861002645819) | 社区实践 | BrainChain | 178 |
-| 2026-11-01T22:52:44.000Z | [Jev AI bot earns 11 SOL overnight](https://x.com/HodlReaper/status/2117027084740808977) | 金融 | HodlReaper | 1.1K |
-| 2026-11-01T21:23:07.000Z | [Managing a Trading Bot with Jev Tools](https://x.com/0xAIGOAT/status/2117004535122026845) | 金融 | AI_GOAT | 577 |
-| 2026-11-01T21:13:47.000Z | [User plans to add Jev to workflow](https://x.com/itsbrandond/status/2117002184118215157) | 生产力 | Brandon Davenport | 1.0K |
-| 2026-11-01T21:06:42.000Z | [BrainChain Adds Independent TEE-Hosted Second Opinions for Jev Decisions](https://x.com/usebrainchain/status/2117000402121977978) | 智能体 | BrainChain | 528 |
-| 2026-11-01T21:00:10.000Z | [BrainChain Integrates Jev into ACP Job Evaluation](https://x.com/usebrainchain/status/2116998758621745453) | 智能体 | BrainChain | 358 |
-| 2026-11-01T20:12:37.000Z | [Grok Bot + Jev Automates SEO Workflow](https://x.com/0x_rody/status/2116986793006702786) | 营销 | rody | 4.6K |
-| 2026-11-01T19:38:46.000Z | [Use Jev to filter tweets and reduce Grok workload](https://x.com/MoyuruAizawa/status/2116978271334400364) | 自动化工作流 | Moyuru Aizawa | 278 |
-| 2026-11-01T19:33:34.000Z | [Jev Email Categorization Decision Configuration](https://x.com/farhaduneci/status/2116976965080985669) | 自动化工作流 | Farhad Uneci | 18 |
-| 2026-11-01T19:30:22.000Z | [Jev team open-sources Treg: one token to call thousands of paid data tools](https://x.com/CNopenmodels/status/2116976158814196149) | 开发者工具 | CNopen | 58 |
-| 2026-11-01T19:20:00.000Z | [24/7 Trading Agents with Opus 5.5 + Jev](https://x.com/Ox_Shinji/status/2116973548946481543) | 金融 | Shinji | 16 |
-| 2026-11-01T17:58:04.000Z | [Switched retake detection to Jev; works great](https://x.com/sheherenow_/status/2116952932507857163) | 社区实践 | jem 💜🩵🩷 | 343 |
-| 2026-11-01T15:57:44.000Z | [TypeSafeAI uses community Jev emote](https://x.com/PoodleSkirt2/status/2116922648332812626) | 社区实践 | PoodleSkirt | 114 |

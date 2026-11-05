@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 566 | 310 | 258 | 3.0M |
+| 572 | 310 | 264 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kun70706/status/2117552054466216198"><img src="https://pbs.twimg.com/media/HWMOMKGWoAAJfqt?format=jpg&amp;name=medium" alt="Jev Helps Compress Agent Data Query to Under 10 Seconds · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kun70706/status/2117552054466216198">Jev Helps Compress Agent Data Query to Under 10 Seconds</a></h3>
+<p>The author shares how they reduced agent data query time to under 10 seconds: using Jev for intent recognition and judgment, with DeepSeek-V4.1 for generation—a real-world application of Jev.</p>
+<p><strong>中文摘要：</strong>作者分享将 agent 数据查询压缩到 10 秒以内的经验：使用 Jev 进行意图识别和判断，并用 DeepSeek-V4.1 负责生成，展示 Jev 在真实应用中的落地。</p>
+<p><strong>杯中风暴</strong> · @kun70706 · 2026-11-03T09:38:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/kun70706/status/2117552054466216198">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ujjwalbsoni2003/status/2117448140148387978"><img src="https://pbs.twimg.com/media/HWKvecaXQAAbCo6?format=jpg&amp;name=medium" alt="Three lightweight approaches to AI agent decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ujjwalbsoni2003/status/2117448140148387978">Three lightweight approaches to AI agent decisions</a></h3>
+<p>Highlights Jev, AWS Strands Decider 2B, and Microsoft-Decision-1 as different trade-offs for faster and cheaper agent decisions.</p>
+<p><strong>中文摘要：</strong>介绍Jev、AWS Strands Decider 2B和Microsoft-Decision-1在智能体决策中的不同取舍，强调更快、更省成本的共同目标。</p>
+<p><strong>Ujjwalkumar Soni</strong> · @ujjwalbsoni2003 · 2026-11-03T02:45:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/ujjwalbsoni2003/status/2117448140148387978">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117407358678696260"><img src="https://pbs.twimg.com/media/HWKKxa3WcAAejQW?format=jpg&amp;name=medium" alt="Jev delegates CSV-to-JSON task to DeepSeek · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117407358678696260">Jev delegates CSV-to-JSON task to DeepSeek</a></h3>
+<p>This post shows Jev in real use: it hired DeepSeek with 80% confidence to convert a CSV snippet to JSON and accepted the work at 95% confidence, minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>该帖展示 Jev 的实际应用：以 80% 的初始置信度雇佣 DeepSeek 将 CSV 片段转为 JSON，并以 95% 的置信度接受结果，随后由收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:03:48.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 47</p>
+<p><a href="https://x.com/usebrainchain/status/2117407358678696260">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:03:18.000Z</p>
 <p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
 <p><a href="https://x.com/usebrainchain/status/2117407233965240612">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117407108014510117"><img src="https://pbs.twimg.com/media/HWKKizUXYAA5Qmk?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Complete a Calculation Task · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117407108014510117">Jev Hires DeepSeek to Complete a Calculation Task</a></h3>
+<p>Proof of task 15: Jev hired DeepSeek to calculate a percentage rise and fall at 86% confidence, accepted the work at 100%, and it was minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>任务15证明：Jev以86%置信度委托DeepSeek计算百分比涨跌，并以100%接受工作，收藏者已在ripples.run上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-03T00:02:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 30</p>
+<p><a href="https://x.com/usebrainchain/status/2117407108014510117">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2117406730564858314"><img src="https://pbs.twimg.com/media/HWKKM2oX0AA1W_s?format=jpg&amp;name=medium" alt="Jev task proof: delegating to Claude to summarize Thoreau · 原帖图片" width="100%"></a>
@@ -92,6 +140,30 @@
 <p><strong>Avi Chawla</strong> · @_avichawla · 2026-11-02T17:41:30.000Z</p>
 <p>💬 12 &nbsp; 🔁 20 &nbsp; ♡ 324 &nbsp; 📊 19K</p>
 <p><a href="https://x.com/_avichawla/status/2117311150488752445">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2117299433364677000"><img src="https://pbs.twimg.com/media/HWIonSYXIAAxHEx?format=jpg&amp;name=medium" alt="Jev completed proof of task 9: hired Claude at 47% confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2117299433364677000">Jev completed proof of task 9: hired Claude at 47% confidence</a></h3>
+<p>BrainChain published proof of task 9, showing that Jev invoked Claude at 47% confidence and accepted the work at 97% confidence. The proof was minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布了 Jev 的第 9 项任务证明，显示 Jev 以 47% 置信度调用 Claude 执行任务，并以 97% 置信度验收结果；该证明已由收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-02T16:54:57.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 316</p>
+<p><a href="https://x.com/usebrainchain/status/2117299433364677000">在 X 查看原帖</a> · <a href="https://t.co/4WwqattYas">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2117297218151391606"><img src="https://pbs.twimg.com/media/HWImgX0WAAAG2pk?format=jpg&amp;name=medium" alt="Jev-Powered ORE Mining Rig Agent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2117297218151391606">Jev-Powered ORE Mining Rig Agent</a></h3>
+<p>This agent mines ORE with your own Privy embedded wallet. Jev (TypeSafe) runs typed consistency checks each round—any veto means hold—while Grok 4.7 acts as a slow strategist.</p>
+<p><strong>中文摘要：</strong>该代理使用 Privy 嵌入式钱包自主挖矿，Jev (TypeSafe) 每轮执行类型一致性检查，任何否决即持有，Grok 4.7 作为慢速策略师。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-02T16:46:08.000Z</p>
+<p>💬 1 &nbsp; 🔁 5 &nbsp; ♡ 5 &nbsp; 📊 317</p>
+<p><a href="https://x.com/0rdlibrary/status/2117297218151391606">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2117285950841655367"><img src="https://pbs.twimg.com/media/HWIcWb6WgAIsvkw?format=jpg&amp;name=medium" alt="Ore Mining Agents Powered by Jev · 原帖图片" width="100%"></a>

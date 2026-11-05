@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 444 | 186 | 258 | 802K |
+| 446 | 187 | 259 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/takahirosakashi/status/2117532593210183879"><img src="https://pbs.twimg.com/media/HWL8lRkaEAAlUGX?format=jpg&amp;name=medium" alt="Hindsight reportedly uses Jev for memory processing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/takahirosakashi/status/2117532593210183879">Hindsight reportedly uses Jev for memory processing</a></h3>
+<p>A post mentions Hindsight appears to use Jev for memory processing, suggesting it may be cheaper than LLMs.</p>
+<p><strong>中文摘要：</strong>帖子称 Hindsight 似乎在其内存处理中使用了 Jev，并推测费用低于 LLM。</p>
+<p><strong>さかしー B級ビジネスコレクター</strong> · @takahirosakashi · 2026-11-03T08:21:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
+<p><a href="https://x.com/takahirosakashi/status/2117532593210183879">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/perezcarreno/status/2117296556600697253"><img src="https://pbs.twimg.com/amplify_video_thumb/2117295959679905792/img/ABHSkyFPtgVaKamY.jpg" alt="Jev for audio sparks discussion: Will LiveKit support it? · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/perezcarreno/status/2117296556600697253">Jev for audio sparks discussion: Will LiveKit support it?</a></h3>
+<p>User mentions Jev for audio applications and asks whether LiveKit plans to support it in its pipeline.</p>
+<p><strong>中文摘要：</strong>用户提到 Jev 在音频领域的应用，并询问 LiveKit 是否计划在其管线中提供支持。</p>
+<p><strong>Armando J. Perez-Carreno</strong> · @perezcarreno · 2026-11-02T16:43:31.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 47</p>
+<p><a href="https://x.com/perezcarreno/status/2117296556600697253">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/IkhwanB/status/2117284146590728246"><img src="https://pbs.twimg.com/amplify_video_thumb/2117283999999795200/img/jHVLtROGDTT1u9KO.jpg" alt="Developer integrates Jev into Tumbuhly.com to make AI more reliable · 原帖视频截图" width="100%"></a>

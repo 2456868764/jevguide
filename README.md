@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>6866</strong><br>curated posts</td>
-<td align="center"><strong>3419</strong><br>original videos</td>
+<td align="center"><strong>6894</strong><br>curated posts</td>
+<td align="center"><strong>3427</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1328</strong> showcases · <strong>555</strong> videos</p>
+<p><strong>1333</strong> showcases · <strong>557</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>663</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>664</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>621</strong> showcases · <strong>273</strong> videos</p>
+<p><strong>624</strong> showcases · <strong>275</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>589</strong> showcases · <strong>261</strong> videos</p>
+<p><strong>592</strong> showcases · <strong>262</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>566</strong> showcases · <strong>310</strong> videos</p>
+<p><strong>572</strong> showcases · <strong>310</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>444</strong> showcases · <strong>186</strong> videos</p>
+<p><strong>446</strong> showcases · <strong>187</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>404</strong> showcases · <strong>158</strong> videos</p>
+<p><strong>405</strong> showcases · <strong>158</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>368</strong> showcases · <strong>209</strong> videos</p>
+<p><strong>369</strong> showcases · <strong>209</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>190</strong> showcases · <strong>144</strong> videos</p>
+<p><strong>192</strong> showcases · <strong>145</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>58</strong> showcases · <strong>44</strong> videos</p>
+<p><strong>59</strong> showcases · <strong>45</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>53</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>54</strong> showcases · <strong>25</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,22 +160,22 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
-<p><strong>46</strong> showcases · <strong>18</strong> videos</p>
+<p><strong>47</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/education.md">Education</a></h3>
+<p><sub>教育</sub></p>
+<p><strong>36</strong> showcases · <strong>16</strong> videos</p>
+<p><a href="categories/education.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/healthcare.md">Healthcare</a></h3>
 <p><sub>医疗</sub></p>
 <p><strong>35</strong> showcases · <strong>21</strong> videos</p>
 <p><a href="categories/healthcare.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/education.md">Education</a></h3>
-<p><sub>教育</sub></p>
-<p><strong>35</strong> showcases · <strong>16</strong> videos</p>
-<p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/e-commerce.md">E-commerce</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/shao__meng/status/2117415296931901893"><img src="https://pbs.twimg.com/media/HWKR-rTbcAAgTro?format=jpg&amp;name=medium" alt="When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shao__meng/status/2117415296931901893">When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model</a></h3>
-<p>A paper from Cornell University proposes DecisionRAG, which uses TypeSafe&#39;s Jev decision model to traverse topic-document-paragraph trees and decide whether to dig deeper, addressing the capability gap of retrievers in RAG.</p>
-<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 262</p>
-<p><strong>meng shao</strong> · @shao__meng</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/aigclink/status/2117552638585905509"><img src="https://pbs.twimg.com/media/HWMM79caMAAc8z4?format=jpg&amp;name=medium" alt="Sage2, a Jev Rival, Launches with Extraction and Streaming Context · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/aigclink/status/2117552638585905509">Sage2, a Jev Rival, Launches with Extraction and Streaming Context</a></h3>
+<p>AIGCLINK highlights Sage2 from Levanto Labs as a peer competitor to Jev. Sage2 offers Extract to turn natural language into structured data and streaming context processing; the post cites claims of 166x lower cost than Opus 5.5, 3x faster decisions in growing-context scenarios, and outperforming Cloudflare&#39;s Clairic.</p>
+<p><strong>214</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 214</p>
+<p><strong>AIGCLINK</strong> · @aigclink</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/pavelsukhachev/status/2117412625143177510"><img src="https://pbs.twimg.com/amplify_video_thumb/2117276914591399937/img/UT3OrHoJmR0zyCbG.jpg" alt="Similar Idea to JEV for Audio · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/pavelsukhachev/status/2117412625143177510">Similar Idea to JEV for Audio</a></h3>
-<p>The post proposes an idea similar to the JEV model but applied to audio.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>PAVEL SUKHACHEV</strong> · @pavelsukhachev</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/kun70706/status/2117552054466216198"><img src="https://pbs.twimg.com/media/HWMOMKGWoAAJfqt?format=jpg&amp;name=medium" alt="Jev Helps Compress Agent Data Query to Under 10 Seconds · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kun70706/status/2117552054466216198">Jev Helps Compress Agent Data Query to Under 10 Seconds</a></h3>
+<p>The author shares how they reduced agent data query time to under 10 seconds: using Jev for intent recognition and judgment, with DeepSeek-V4.1 for generation—a real-world application of Jev.</p>
+<p><strong>33</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><strong>杯中风暴</strong> · @kun70706</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/bkdgiffug/status/2117407660077162543"><img src="https://pbs.twimg.com/media/HWHnYCLaQAA7MAn?format=jpg&amp;name=medium" alt="Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/bkdgiffug/status/2117407660077162543">Awesome Jev: A Curated Listing of 916 Open Source Projects in the Jev Ecosystem</a></h3>
-<p>A community-curated directory of the Jev/System One ecosystem, listing 916 open source projects across SDKs, models, agent tools, browser automation, benchmarks, and more.</p>
-<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 262</p>
-<p><strong>lumxss</strong> · @bkdgiffug</p>
+<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
+<a href="https://x.com/WillDobrev/status/2117550601567678836"><img src="https://pbs.twimg.com/media/HWJqorjWMAAMNCn?format=jpg&amp;name=medium" alt="Parallel frontend/backend with Jev classifier · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/WillDobrev/status/2117550601567678836">Parallel frontend/backend with Jev classifier</a></h3>
+<p>The author shares a workflow where Jev is used as a classifier first; if a task involves both frontend and backend, it triggers two agents in parallel — one for backend, one for frontend with mocks.</p>
+<p><strong>63</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 63</p>
+<p><strong>Will Dobrev → criticalthinker.dev</strong> · @WillDobrev</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117407233965240612">Jev hires DeepSeek for task proof</a></h3>
-<p>BrainChain publishes proof of task 18: Jev hired DeepSeek at 40% confidence and accepted the work at 98%, minted by a collector on ripples.run.</p>
-<p><strong>29</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/freeCodeCamp/status/2117542924221034825"><img src="https://pbs.twimg.com/media/HWMGEWuXwAA0uHu?format=jpg&amp;name=medium" alt="Jev Course: Fast Decision-Oriented Generation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/freeCodeCamp/status/2117542924221034825">Jev Course: Fast Decision-Oriented Generation</a></h3>
+<p>freeCodeCamp introduces a Jev course that teaches you how to build super-fast, decision-oriented models as an alternative to slow autoregressive token generation.</p>
+<p><strong>2.2K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 2.2K</p>
+<p><strong>freeCodeCamp.org</strong> · @freeCodeCamp</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/shao__meng/status/2117415296931901893"><img src="https://pbs.twimg.com/media/HWKR-rTbcAAgTro?format=jpg&amp;name=medium" alt="When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/shao__meng/status/2117415296931901893">When Jev Meets RAG: DecisionRAG Traverses Document Trees with a Decision Model</a></h3>
-<p>A paper from Cornell University proposes DecisionRAG, which uses TypeSafe&#39;s Jev decision model to traverse topic-document-paragraph trees and decide whether to dig deeper, addressing the capability gap of retrievers in RAG.</p>
-<p><strong>262</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 262</p>
-<p><strong>meng shao</strong> · @shao__meng</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/aigclink/status/2117552638585905509"><img src="https://pbs.twimg.com/media/HWMM79caMAAc8z4?format=jpg&amp;name=medium" alt="Sage2, a Jev Rival, Launches with Extraction and Streaming Context · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/aigclink/status/2117552638585905509">Sage2, a Jev Rival, Launches with Extraction and Streaming Context</a></h3>
+<p>AIGCLINK highlights Sage2 from Levanto Labs as a peer competitor to Jev. Sage2 offers Extract to turn natural language into structured data and streaming context processing; the post cites claims of 166x lower cost than Opus 5.5, 3x faster decisions in growing-context scenarios, and outperforming Cloudflare&#39;s Clairic.</p>
+<p><strong>214</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 214</p>
+<p><strong>AIGCLINK</strong> · @aigclink</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117407233965240612"><img src="https://pbs.twimg.com/media/HWKKqJTWcAAXi2A?format=jpg&amp;name=medium" alt="Jev hires DeepSeek for task proof · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117407233965240612">Jev hires DeepSeek for task proof</a></h3>
-<p>BrainChain publishes proof of task 18: Jev hired DeepSeek at 40% confidence and accepted the work at 98%, minted by a collector on ripples.run.</p>
-<p><strong>29</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 29</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖图片</code></p>
+<a href="https://x.com/freeCodeCamp/status/2117542924221034825"><img src="https://pbs.twimg.com/media/HWMGEWuXwAA0uHu?format=jpg&amp;name=medium" alt="Jev Course: Fast Decision-Oriented Generation · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/freeCodeCamp/status/2117542924221034825">Jev Course: Fast Decision-Oriented Generation</a></h3>
+<p>freeCodeCamp introduces a Jev course that teaches you how to build super-fast, decision-oriented models as an alternative to slow autoregressive token generation.</p>
+<p><strong>2.2K</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 2.2K</p>
+<p><strong>freeCodeCamp.org</strong> · @freeCodeCamp</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2117406981954625692"><img src="https://pbs.twimg.com/media/HWKKberXkAANoFc?format=jpg&amp;name=medium" alt="Jev Used DeepSeek to Complete US ZIP Code Regex Task · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2117406981954625692">Jev Used DeepSeek to Complete US ZIP Code Regex Task</a></h3>
-<p>The post shows proof of task where Jev hired DeepSeek to write a regex for US ZIP codes, with confidence rising from 81% to 97%, minted by a collector on ripples.run.</p>
-<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/takahirosakashi/status/2117532593210183879"><img src="https://pbs.twimg.com/media/HWL8lRkaEAAlUGX?format=jpg&amp;name=medium" alt="Hindsight reportedly uses Jev for memory processing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/takahirosakashi/status/2117532593210183879">Hindsight reportedly uses Jev for memory processing</a></h3>
+<p>A post mentions Hindsight appears to use Jev for memory processing, suggesting it may be cheaper than LLMs.</p>
+<p><strong>58</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 58</p>
+<p><strong>さかしー B級ビジネスコレクター</strong> · @takahirosakashi</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/dorkitude/status/2117359562089181585"><img src="https://pbs.twimg.com/media/HWJWgSXbgAAxGxm?format=png&amp;name=large" alt="The real cost debate around Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/dorkitude/status/2117359562089181585">The real cost debate around Jev</a></h3>
-<p>The author shares experience using Jev across professional, personal, and academic work, arguing that actual spending far exceeds the &quot;$5&quot; joke, and notes the model is named after Jevons Paradox to make intelligence faster and cheaper.</p>
-<p><strong>469</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 469</p>
-<p><strong>Kyle Wild</strong> · @dorkitude</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/CMD_LABS/status/2117452825034625187"><img src="https://pbs.twimg.com/amplify_video_thumb/2117451427844952064/img/fU2eGY6gKpgy2jrC.jpg" alt="3 Key Differences Between Jev and LLMs · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/CMD_LABS/status/2117452825034625187">3 Key Differences Between Jev and LLMs</a></h3>
+<p>COMMAND LABS notes that while many use LLMs, fewer understand their shortcomings, and highlights three important differences between Jev and LLMs.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>COMMAND LABS</strong> · @CMD_LABS</p>
 </td>
 </tr>
 </table>

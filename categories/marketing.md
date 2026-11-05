@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 190 | 144 | 46 | 904K |
+| 192 | 145 | 47 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/manji6/status/2117487894436982920"><img src="https://pbs.twimg.com/media/HWLUAmsa8AA2qU2?format=jpg&amp;name=medium" alt="Experimenting with Jev for Natural Language Personalization · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/manji6/status/2117487894436982920">Experimenting with Jev for Natural Language Personalization</a></h3>
+<p>The author experimented with Jev for personalization, using natural language to check whether a behavior matches an interest, and showing offers when the match is high, enabling targeting with plain words.</p>
+<p><strong>中文摘要：</strong>作者尝试用Jev进行个性化设定，通过自然语言询问特定行为是否对应某种兴趣，匹配度高时自动显示相关提供，实现仅凭普通语句完成目标定向。</p>
+<p><strong>manji6(まんじろー)</strong> · @manji6 · 2026-11-03T05:23:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/manji6/status/2117487894436982920">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/aChow_hz/status/2117425344630460537"><img src="https://pbs.twimg.com/amplify_video_thumb/2114672228629704704/img/lvQcrkO5dZwYjPbc.jpg" alt="Jev&#39;s Latest Breakout App: A People-Search AI Agent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/aChow_hz/status/2117425344630460537">Jev&#39;s Latest Breakout App: A People-Search AI Agent</a></h3>
+<p>The post says Jev has another phenomenal app: a people-search AI agent with effective leads at about $0.0089 each, letting you filter independent developers and tool authors by ICP before enriching—helping avoid wasted spend.</p>
+<p><strong>中文摘要：</strong>帖子称 Jev 又有一个现象级应用——人脉搜索 AI Agent，一条有效线索仅需约 $0.0089，可按 ICP 筛选独立开发者和工具作者，先筛选再 enrich，避免烧钱。</p>
+<p><strong>阿Chow</strong> · @aChow_hz · 2026-11-03T01:15:16.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/aChow_hz/status/2117425344630460537">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/AIsaOneHQ/status/2117286863849640405"><img src="https://pbs.twimg.com/amplify_video_thumb/2117229040037687297/img/PdFpJoKEN_4ZFVDp.jpg" alt="AIsa launches creator search with Jev-assisted filtering · 原帖视频截图" width="100%"></a>

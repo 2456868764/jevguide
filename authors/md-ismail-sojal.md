@@ -1,9 +1,10 @@
 # Md Ismail Šojal 🕷️
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-02T18:32:07.000Z | [A Jev-like 27B decision multimodal model runs locally on Mac](https://x.com/0x0SojalSec/status/2117323888346779876) | 社区实践 | Md Ismail Šojal 🕷️ | 892 |
 | 2026-10-09T23:52:54.000Z | [The Potential of Training Your Own Jev Model Locally](https://x.com/0x0SojalSec/status/2108707305663647845) | 社区实践 | Md Ismail Šojal 🕷️ | 272 |
 | 2026-10-09T23:40:30.000Z | [Train Your Own Jev Model Locally on 8GB VRAM](https://x.com/0x0SojalSec/status/2108704187760734289) | 开发者工具 | Md Ismail Šojal 🕷️ | 524 |
 | 2026-10-09T02:09:23.000Z | [OpenAI Decisions API: Jev-like Real-Time Egg Sorting](https://x.com/0x0SojalSec/status/2108379264282407301) | 自动化工作流 | Md Ismail Šojal 🕷️ | 352 |

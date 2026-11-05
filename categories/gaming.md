@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 407 | 301 | 110 | 588K |
+| 409 | 302 | 111 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer0x419/status/2118141738992718289"><img src="https://pbs.twimg.com/media/HWUmr9kW4AAfvr5?format=jpg&amp;name=medium" alt="StarCraft II AI Duel: JEV Picks Actions Every 15s · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer0x419/status/2118141738992718289">StarCraft II AI Duel: JEV Picks Actions Every 15s</a></h3>
+<p>This post describes a StarCraft II ladder duel where DeepSeek V4.1 Flash and Gemini 3.8 Flash plan once per game minute, while JEV selects from a legal action menu every 15 seconds. Both sides use the same Protoss executor to isolate planning differences, with links to both POVs.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了一场星际争霸II天梯对决实验：DeepSeek V4.1 Flash与Gemini 3.8 Flash每分钟各做一次规划，JEV每15秒从合法动作菜单中选择行动。双方使用相同的Protoss执行器，以对比规划差异，并附有两个视角的链接。</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419 · 2026-11-05T00:41:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><a href="https://x.com/hammer0x419/status/2118141738992718289">在 X 查看原帖</a> · <a href="https://t.co/sjWMyCfnpE">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/clayul/status/2118044009029591174"><img src="https://pbs.twimg.com/amplify_video_thumb/2118043907665567744/img/cpKnwadxO0DqAQmA.jpg" alt="Mental Kombat: A Fighting Game with Jev Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/clayul/status/2118044009029591174">Mental Kombat: A Fighting Game with Jev Models</a></h3>
+<p>Mental Kombat, built by @vkleban, is a fighting game where two Jev decision models battle using lies as their only weapon, demonstrating the dangers of AI agents making real decisions based on convincing fake facts.</p>
+<p><strong>中文摘要：</strong>由 @vkleban 打造的 Mental Kombat 是一款对战游戏，两个 Jev 决策模型以谎言为武器互相攻击，用于演示 AI 智能体在面对令人信服的虚假信息时可能做出的危险决策。</p>
+<p><strong>clay.</strong> · @clayul · 2026-11-04T18:13:37.000Z</p>
+<p>💬 5 &nbsp; 🔁 2 &nbsp; ♡ 9 &nbsp; 📊 1.0K</p>
+<p><a href="https://x.com/clayul/status/2118044009029591174">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hammer0x419/status/2118007627120508970"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117989198648979456/pu/img/MjorbC_7n1yI-J5L.jpg" alt="JEV model completes 16 runs with ultra-low inference cost · 原帖视频截图" width="100%"></a>

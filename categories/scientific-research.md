@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 126 | 37 | 91 | 136K |
+| 128 | 37 | 93 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/mm_0824_kb/status/2118105508057850031"><img src="https://pbs.twimg.com/media/HWRxveTa4AA5QmM?format=jpg&amp;name=medium" alt="ThinkJev: A Study on Adding Thinking Mode to Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/mm_0824_kb/status/2118105508057850031">ThinkJev: A Study on Adding Thinking Mode to Jev</a></h3>
+<p>This paper proposes dynamically enabling reasoning for Jev: reason when confidence is low and stop early once sufficient certainty is reached. ThinkJev achieves 81.6% accuracy, close to the 82.7% of always-reasoning, while reducing thinking tokens by 28%.</p>
+<p><strong>中文摘要：</strong>该论文提出为Jev动态启用推理：低置信度时进行推理，获得足够把握后提前停止。ThinkJev准确率81.6%，接近始终推理的82.7%，同时减少28%的思考令牌。</p>
+<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb · 2026-11-04T22:18:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 26 &nbsp; 📊 1.3K</p>
+<p><a href="https://x.com/mm_0824_kb/status/2118105508057850031">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/yibo_02/status/2118041575259541584"><img src="https://pbs.twimg.com/media/HWTLjlhXMAAk-I_?format=jpg&amp;name=900x900" alt="Jev for Protein: Introducing Pev Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/yibo_02/status/2118041575259541584">Jev for Protein: Introducing Pev Model</a></h3>
+<p>Pev is a general protein evolution policy that predicts the next mutation, its likelihood of improving function, and when to stop, embodying a fast, intuitive System 1.</p>
+<p><strong>中文摘要：</strong>Pev是一个通用的蛋白质进化策略，能够预测下一步突变、功能改进的可能性和终止时机，体现了System 1的快速直观特性。</p>
+<p><strong>Yibo</strong> · @yibo_02 · 2026-11-04T18:03:57.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 43</p>
+<p><a href="https://x.com/yibo_02/status/2118041575259541584">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DailyDoseOfDS_/status/2118010458653573179"><img src="https://pbs.twimg.com/amplify_video_thumb/2118010425497554944/img/PRvySyF_E8o2RgYk.jpg" alt="NVIDIA and Stanford Unveil CLM Architecture Challenging Jev · 原帖视频截图" width="100%"></a>

@@ -1,9 +1,10 @@
 # 8Bit🦞
 
-25 Jev showcases.
+26 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-04T23:27:24.000Z | [Clawd Decide Uses TypeSafe Jev Engine for Crypto Screening](https://x.com/0rdlibrary/status/2118122973962072258) | 金融 | 8Bit🦞 | 241 |
 | 2026-11-04T16:41:16.000Z | [Autonomous agent uses Jev to mine ORE on Solana](https://x.com/0rdlibrary/status/2118020768282062892) | 金融 | 8Bit🦞 | 113 |
 | 2026-11-04T13:21:34.000Z | [TypeSafe AI Jev: Decision Agents for Trading on Solana](https://x.com/0rdlibrary/status/2117970512001573131) | 金融 | 8Bit🦞 | 218 |
 | 2026-11-04T02:47:27.000Z | [Leveraging Jev and a decision engine for trading](https://x.com/0rdlibrary/status/2117810929991901664) | 金融 | 8Bit🦞 | 163 |

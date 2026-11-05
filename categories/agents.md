@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 585 | 313 | 274 | 3.0M |
+| 587 | 313 | 276 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2118199311133753734"><img src="https://pbs.twimg.com/media/HWVbDJAasAAfqKd?format=jpg&amp;name=medium" alt="Jev hires Claude to complete task and mints as proof · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2118199311133753734">Jev hires Claude to complete task and mints as proof</a></h3>
+<p>BrainChain posted proof that Jev hired Claude to review the Solana skill pack, with confidence rising from 26% to 80% upon acceptance, minted on-chain by a collector.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布了 Jev 雇佣 Claude 审查 Solana 技能包的证明，初始置信度 26%，验收时提升至 80%，并由收藏者铸造成链上记录。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-05T04:30:44.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/usebrainchain/status/2118199311133753734">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TheCloudSensei/status/2118052798558548047"><img src="https://pbs.twimg.com/media/HWTVy_aaEAAIwRf?format=jpg&amp;name=medium" alt="Using Jev decision model with Amazon Bedrock AgentCore Evaluations · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TheCloudSensei/status/2118052798558548047">Using Jev decision model with Amazon Bedrock AgentCore Evaluations</a></h3>
+<p>This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations for answering narrow, repeatable agent-evaluation questions.</p>
+<p><strong>中文摘要：</strong>本文演示如何将 Jev 和 Strands Decider 两个决策模型接入 Amazon Bedrock AgentCore 评估，用于回答窄范围且可重复的代理评估问题。</p>
+<p><strong>CloudSensei</strong> · @TheCloudSensei · 2026-11-04T18:48:33.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><a href="https://x.com/TheCloudSensei/status/2118052798558548047">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ForgeAI_gg/status/2117989232903946448"><img src="https://pbs.twimg.com/media/HWSb--jXMAAXCem?format=jpg&amp;name=medium" alt="JEV Performance in Agent Benchmarks · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 198 | 151 | 47 | 904K |
+| 200 | 152 | 48 | 904K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/noahsark769/status/2118116513035190678"><img src="https://pbs.twimg.com/media/HWUOdbma4AA7kDX?format=jpg&amp;name=900x900" alt="Jev Analyzes Customer Quotes in Top Brand Ads · 原帖图片" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/noahsark769/status/2118116513035190678">Jev Analyzes Customer Quotes in Top Brand Ads</a></h3>
+<p>The author used TypeSafe&#39;s Jev to categorize ads from the top 680 brands on Replo&#39;s industry landscape list, finding that ~67% of these brands have customer quotes in some ads.</p>
+<p><strong>中文摘要：</strong>作者使用 TypeSafe 的 Jev 对 Replo 行业列表中前680个品牌的广告进行分类，发现约67%的品牌包含客户引言。</p>
+<p><strong>Noah Gilmore</strong> · @noahsark769 · 2026-11-04T23:01:44.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 105</p>
+<p><a href="https://x.com/noahsark769/status/2118116513035190678">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Israfilv2/status/2118047893613617209"><img src="https://pbs.twimg.com/amplify_video_thumb/2118047872759508992/img/Oz2oz_uTI3PH1aD9.jpg" alt="Drex Max offers 120% cashback on Jev models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>营销</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Israfilv2/status/2118047893613617209">Drex Max offers 120% cashback on Jev models</a></h3>
+<p>User shares surprise at receiving more than spent: Drex Max is offering 120% cashback, spend $100 on Jev or any other decision model to get $120 back in Drex credits, noting the model isn&#39;t just buying users with promos.</p>
+<p><strong>中文摘要：</strong>用户分享首次遇到公司返还超过支出的情况：Drex Max正在提供120%现金返还，消费100美元于Jev或任何决策模型可获120美元Drex积分，并指出该模型并非简单买量。</p>
+<p><strong>Isra</strong> · @Israfilv2 · 2026-11-04T18:29:03.000Z</p>
+<p>💬 10 &nbsp; 🔁 26 &nbsp; ♡ 154 &nbsp; 📊 11K</p>
+<p><a href="https://x.com/Israfilv2/status/2118047893613617209">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ReStructureAI/status/2117811894941564978"><img src="https://pbs.twimg.com/amplify_video_thumb/2117811703777779712/img/hM0KnaN72R4dsx52.jpg" alt="AI Ad Creative System Mentions Jev for Winning Angles · 原帖视频截图" width="100%"></a>

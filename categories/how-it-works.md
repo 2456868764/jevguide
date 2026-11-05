@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 630 | 278 | 353 | 1.6M |
+| 632 | 279 | 354 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MikeTamir/status/2118086608238846377"><img src="https://pbs.twimg.com/media/HWT0i7JWMAAuxWW?format=jpg&amp;name=medium" alt="Jev Explores Lightweight Classification Models for AI Evals · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MikeTamir/status/2118086608238846377">Jev Explores Lightweight Classification Models for AI Evals</a></h3>
+<p>This post highlights Jev&#39;s exploration of using typed yes/no classification models instead of heavyweight LLMs for AI evals, offering significant speedups and cost reductions in production.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了Jev使用类型化的yes/no分类模型替代重型LLM进行AI评估，从而在生产中实现大幅加速和成本降低。</p>
+<p><strong>Mike Tamir, PhD</strong> · @MikeTamir · 2026-11-04T21:02:54.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 206</p>
+<p><a href="https://x.com/MikeTamir/status/2118086608238846377">在 X 查看原帖</a> · <a href="https://t.co/FE42Sm9nFn">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/maheshaipm/status/2118063230027473113"><img src="https://pbs.twimg.com/amplify_video_thumb/2118052459109339136/img/o-Y_jCyAoqTYBLqU.jpg" alt="Jev&#39;s Unique Training: RLCD · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/maheshaipm/status/2118063230027473113">Jev&#39;s Unique Training: RLCD</a></h3>
+<p>The author explains why build Jev among many large AI models: it is trained with RLCD (reinforcement learning with calibrated decisions), where the model is rewarded when the probability it assigns matches the true probability—not just for getting the answer right.</p>
+<p><strong>中文摘要：</strong>作者解释为什么在众多大模型中还要构建 Jev：它通过 RLCD（基于校准决策的强化学习）训练，模型在给出的概率与真实概率匹配时获得奖励，而不仅仅因为答案正确。</p>
+<p><strong>Mahesh Yadav</strong> · @maheshaipm · 2026-11-04T19:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 93</p>
+<p><a href="https://x.com/maheshaipm/status/2118063230027473113">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/nishio/status/2118021495490494506"><img src="https://pbs.twimg.com/amplify_video_thumb/2116543266955091968/img/38ja2wCci_1VfSZc.jpg" alt="Jev as a reranker: thoughts on full reranking with tree acceleration · 原帖视频截图" width="100%"></a>

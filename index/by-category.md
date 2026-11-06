@@ -1,21 +1,21 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1387
-- [Developer tools](../categories/developer-tools.md) — 673
-- [How it works](../categories/how-it-works.md) — 638
-- [Launch news](../categories/launch-news.md) — 608
-- [Agents](../categories/agents.md) — 603
+- [Community builds](../categories/community-builds.md) — 1392
+- [Developer tools](../categories/developer-tools.md) — 674
+- [How it works](../categories/how-it-works.md) — 641
+- [Launch news](../categories/launch-news.md) — 611
+- [Agents](../categories/agents.md) — 604
 - [Access updates](../categories/access-updates.md) — 456
-- [Developer resources](../categories/developer-resources.md) — 414
-- [Gaming](../categories/gaming.md) — 414
-- [Finance](../categories/finance.md) — 400
-- [Workflow automation](../categories/workflow-automation.md) — 308
+- [Developer resources](../categories/developer-resources.md) — 415
+- [Gaming](../categories/gaming.md) — 415
+- [Finance](../categories/finance.md) — 403
+- [Workflow automation](../categories/workflow-automation.md) — 309
 - [Marketing](../categories/marketing.md) — 201
 - [Knowledge & search](../categories/knowledge-search.md) — 144
 - [Content creation](../categories/content-creation.md) — 137
-- [Scientific research](../categories/scientific-research.md) — 131
+- [Scientific research](../categories/scientific-research.md) — 132
 - [Data analytics](../categories/data-analytics.md) — 121
-- [Cybersecurity](../categories/cybersecurity.md) — 91
+- [Cybersecurity](../categories/cybersecurity.md) — 92
 - [Customer support](../categories/customer-support.md) — 70
 - [Robotics](../categories/robotics.md) — 63
 - [Software development](../categories/software-development.md) — 55
@@ -24,4 +24,4 @@
 - [Education](../categories/education.md) — 39
 - [Healthcare](../categories/healthcare.md) — 35
 - [E-commerce](../categories/e-commerce.md) — 25
-- [Legal & compliance](../categories/legal-compliance.md) — 22
+- [Legal & compliance](../categories/legal-compliance.md) — 23

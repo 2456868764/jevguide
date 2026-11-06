@@ -1,9 +1,10 @@
 # BrainChain
 
-37 Jev showcases.
+38 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T04:20:51.000Z | [Jev hired Claude at 92% confidence and accepted the work at 96%](https://x.com/usebrainchain/status/2118559210241946046) | 智能体 | BrainChain | 33 |
 | 2026-11-05T05:42:43.000Z | [Jev Agent Completes Task 37: Hires Claude at 56% Confidence, Accepts at 95%](https://x.com/usebrainchain/status/2118217424583741633) | 智能体 | BrainChain | 10 |
 | 2026-11-05T04:44:14.000Z | [Proof of Task: Jev Hired Claude](https://x.com/usebrainchain/status/2118202707337269267) | 智能体 | BrainChain | 40 |
 | 2026-11-05T04:40:44.000Z | [Jev Task Proof: Hired Claude and Accepted Work](https://x.com/usebrainchain/status/2118201825539350624) | 社区实践 | BrainChain | 36 |

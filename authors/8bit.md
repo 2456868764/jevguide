@@ -1,9 +1,11 @@
 # 8Bit🦞
 
-28 Jev showcases.
+30 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T04:30:05.000Z | [TypeSafe AI Jev-Powered ChatGPT Finance Plugin](https://x.com/0rdlibrary/status/2118561536109101256) | 金融 | 8Bit🦞 | 172 |
+| 2026-11-06T04:28:51.000Z | [Jev Integrated into Pump.fun Launches](https://x.com/0rdlibrary/status/2118561226028376289) | 金融 | 8Bit🦞 | 178 |
 | 2026-11-06T00:46:28.000Z | [TypeSafe AI now gives real-time JEV scores for Pump.fun tokens](https://x.com/0rdlibrary/status/2118505258049548751) | 金融 | 8Bit🦞 | 236 |
 | 2026-11-04T23:27:24.000Z | [Clawd Decide Uses TypeSafe Jev Engine for Crypto Screening](https://x.com/0rdlibrary/status/2118122973962072258) | 金融 | 8Bit🦞 | 241 |
 | 2026-11-04T17:08:05.000Z | [Recommend Clawd Decide Tool](https://x.com/0rdlibrary/status/2118027513880612957) | 社区实践 | 8Bit🦞 | 302 |

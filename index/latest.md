@@ -2,6 +2,34 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T03:39:24.000Z | [Jev Best Practices: Only Make Judgments, Let Code Decide](https://x.com/GoSailGlobal/status/2118548781549625791) | 社区实践 | Jason Zhu | 63 |
+| 2026-11-06T03:24:01.000Z | [Has Jev's Hype Faded? Community Discusses Workflow Usage](https://x.com/_QCAI/status/2118544906545459578) | 社区实践 | Chloe | 7 |
+| 2026-11-06T02:48:41.000Z | [New Comic at Tech Book Festival 21: Jev Explained](https://x.com/hellohazime/status/2118536018475495598) | 社区实践 | hellohazime@え11_技術書典21 | 95 |
+| 2026-11-06T02:45:59.000Z | [Jev 1.14 and d1-ultra are now available on Infron](https://x.com/InfronAI/status/2118535336901095845) | 接入动态 | Infron | 22 |
+| 2026-11-06T02:17:43.000Z | [Jev Assesses GBP/USD Long Scenario](https://x.com/hadohunter/status/2118528225546842607) | 金融 | HadoHunter | 26 |
+| 2026-11-06T01:54:20.000Z | [How Jev Makes Reliable Judgments](https://x.com/typesafeai/status/2118522339235389607) | 工作原理 | TypeSafe AI | 5.0K |
+| 2026-11-06T01:37:57.000Z | [Essential Blog for Jev Users](https://x.com/yoshienagatomo/status/2118518214133256518) | 社区实践 | 長友好江\|AIエージェントの家庭教師 | 36 |
+| 2026-11-06T01:22:48.000Z | [Designer shares how Jev turns sentences into workflow actions](https://x.com/its_grayscale/status/2118514404014882874) | 自动化工作流 | Brendan Gray | 105 |
+| 2026-11-06T01:02:38.000Z | [Jev Anti-Pattern: Don't Use Jev to Replace Code for Big Decisions](https://x.com/CompleteSkeptic/status/2118509326981791781) | 社区实践 | Diogo Almeida | 13K |
+| 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |
+| 2026-11-06T00:55:34.000Z | [Jev API Contract: Behavior When No Category Matches or Target Is Absent](https://x.com/milhouscc/status/2118507550962507947) | 开发资源 | Milhous | 36 |
+| 2026-11-06T00:46:28.000Z | [TypeSafe AI now gives real-time JEV scores for Pump.fun tokens](https://x.com/0rdlibrary/status/2118505258049548751) | 金融 | 8Bit🦞 | 236 |
+| 2026-11-06T00:14:39.000Z | [USD/JPY Trading Scenario Supported by Jev](https://x.com/hadohunter/status/2118497252629254630) | 金融 | HadoHunter | 32 |
+| 2026-11-06T00:03:25.000Z | [Jev answers closed questions in automated trading](https://x.com/kardinall/status/2118494424833384593) | 金融 | Kardinall | 279 |
+| 2026-11-05T23:14:33.000Z | [How the Jev model participates in payment checks](https://x.com/TweetBySoft/status/2118482128266567712) | 金融 | Ben Softie (evm/spice 🌶,🐝) | 27 |
+| 2026-11-05T22:45:05.000Z | [VideoJev: System One Model for Video Understanding and Interaction](https://x.com/ctxzz/status/2118474713634627826) | 产品发布 | atom | 18 |
+| 2026-11-05T22:18:47.000Z | [29,157 Evals: Is Jev Good Enough?](https://x.com/maceip/status/2118468095501357405) | 社区实践 | mac | 41 |
+| 2026-11-05T22:10:01.000Z | [Run Jev-Like System One Models Locally Book Sale](https://x.com/leanpub/status/2118465888928379067) | 开发资源 | Leanpub | 103 |
+| 2026-11-05T22:01:16.000Z | [LayerX internal workshop: over 50 use cases for Jev](https://x.com/ShimizuYusuke/status/2118463686017004013) | 自动化工作流 | 清水勇介｜Yusuke Shimizu | 17 |
+| 2026-11-05T21:43:56.000Z | [JEV-Powered CS 1.6 AI Duel Experiment](https://x.com/hammer0x419/status/2118459324175454470) | 游戏 | Hammer0x419 | 23 |
+| 2026-11-05T21:34:32.000Z | [Using Jev to build a semantic emoji agent](https://x.com/kmelve/status/2118456960203031001) | 社区实践 | knut | 270 |
+| 2026-11-05T21:33:01.000Z | [Live-Web Benchmark Reveals Jev's Performance Gap on Dynamic Questions](https://x.com/p0/status/2118456575761473863) | 开发者工具 | Parallel Web Systems | 979 |
+| 2026-11-05T21:21:19.000Z | [Jev: The Silent Coordinator in Full-Duplex](https://x.com/Sebasti54919704/status/2118453632559616497) | 工作原理 | Sebastian Sosa | 21 |
+| 2026-11-05T20:47:46.000Z | [System Duo: Make Your Agent Think Fast and Slow](https://x.com/XunzhuoLiu/status/2118445187051733452) | 产品发布 | Xunzhuo | 2.8K |
+| 2026-11-05T20:17:25.000Z | [Jev Decision Model upgraded with Recurrent Looped Transformer architecture](https://x.com/singularity_bly/status/2118437549584818481) | 产品发布 | Sahibzada Allahyar | 778 |
+| 2026-11-05T19:48:21.000Z | [Jev appears in a data enrichment cost comparison](https://x.com/alexdevau/status/2118430234605474138) | 营销 | alexa | 269 |
+| 2026-11-05T19:47:32.000Z | [Create and align Jev judges with Judgment Agent](https://x.com/JudgmentLabs/status/2118430029743059000) | 产品发布 | Judgment Labs | 24K |
+| 2026-11-05T19:00:48.000Z | [USD/JPY AI Long Scenario \| Jev Review Needed](https://x.com/hadohunter/status/2118418268683944304) | 金融 | HadoHunter | 70 |
 | 2026-11-05T15:00:26.000Z | [Jev gets 139 of 200 emotion development cases right](https://x.com/davidwbressler/status/2118357779559710756) | 科研 | David Bressler | 2 |
 | 2026-11-05T14:49:48.000Z | [Jev Reviews EUR/USD Bullish Scenario](https://x.com/hadohunter/status/2118355104378319012) | 金融 | HadoHunter | 20 |
 | 2026-11-05T14:35:57.000Z | [JEV Drives Action Selection in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2118351617166626938) | 智能体 | ForgeAI | 17 |
@@ -74,31 +102,3 @@
 | 2026-11-05T01:08:53.000Z | [Jev beats Opus 5.5 in Othello](https://x.com/pe_tanman/status/2118148514404520413) | 社区实践 | tanman pe_ | 1 |
 | 2026-11-05T00:42:25.000Z | [Jev Proof of Task #29: Hired Claude at 57% confidence, accepted at 95%](https://x.com/usebrainchain/status/2118141850750235011) | 社区实践 | BrainChain | 39 |
 | 2026-11-05T00:41:58.000Z | [StarCraft II AI Duel: JEV Picks Actions Every 15s](https://x.com/hammer0x419/status/2118141738992718289) | 游戏 | Hammer0x419 | 9 |
-| 2026-11-05T00:26:52.000Z | [One week with JEV + GROKbot: higher quality, faster tasks, lower cost](https://x.com/oalanicolas/status/2118137938790002931) | 社区实践 | Alan Nicolas | 1.1K |
-| 2026-11-05T00:13:29.000Z | [Security note: agents can disable Jev airlock in Hermes](https://x.com/funeralreceiver/status/2118134572420374732) | 网络安全 | Abbot | 29 |
-| 2026-11-04T23:52:12.000Z | [Complete Jev AI & TypeSafe AI Course: Beginner to Advanced](https://x.com/comidoc/status/2118129213735940371) | 教育 | Comidoc | 45 |
-| 2026-11-04T23:37:46.000Z | [Open-Source JEV Sentiment Analysis System Used for Trading Profit](https://x.com/brainstormity/status/2118125581644558361) | 金融 | brainstormity | 223 |
-| 2026-11-04T23:27:24.000Z | [Clawd Decide Uses TypeSafe Jev Engine for Crypto Screening](https://x.com/0rdlibrary/status/2118122973962072258) | 金融 | 8Bit🦞 | 241 |
-| 2026-11-04T23:27:10.000Z | [What is Jev? A Simple Guide to Saving on AI Costs](https://x.com/LittleMomentsTH/status/2118122914151387462) | 教育 | Little Moments | 550 |
-| 2026-11-04T23:09:53.000Z | [Building Just-in-Time Environments with Jev](https://x.com/Rudefire/status/2118118564981055518) | 社区实践 | zach | 21 |
-| 2026-11-04T23:01:44.000Z | [Jev Analyzes Customer Quotes in Top Brand Ads](https://x.com/noahsark769/status/2118116513035190678) | 营销 | Noah Gilmore | 105 |
-| 2026-11-04T22:49:01.000Z | [Jev: An Introduction to TypeSafe's Decision Model](https://x.com/i_am_brennan/status/2118113312563233266) | 产品发布 | Brennan McEachran 👨‍🚀 | 21 |
-| 2026-11-04T22:18:00.000Z | [ThinkJev: A Study on Adding Thinking Mode to Jev](https://x.com/mm_0824_kb/status/2118105508057850031) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 1.3K |
-| 2026-11-04T21:56:08.000Z | [Two Powerful Ways to Combine Grok and Jev](https://x.com/billyjhowell/status/2118100006712287471) | 社区实践 | Billy Howell | 786 |
-| 2026-11-04T21:10:10.000Z | [Jev-style 0.6.0 Released with New Decision Model v4](https://x.com/SympathyLabs/status/2118088439493263579) | 产品发布 | Sympathy | 59 |
-| 2026-11-04T21:02:54.000Z | [Jev Explores Lightweight Classification Models for AI Evals](https://x.com/MikeTamir/status/2118086608238846377) | 工作原理 | Mike Tamir, PhD | 206 |
-| 2026-11-04T20:38:02.000Z | [Nace AI Offers 120% Cashback to Switch Teams from Jev to Drex Max](https://x.com/DocumentingAGI/status/2118080351021199619) | 接入动态 | Documenting AGI | 13K |
-| 2026-11-04T20:30:16.000Z | [Jev auto-selects prompt examples to boost classification accuracy](https://x.com/davidwbressler/status/2118078395678429411) | 开发者工具 | David Bressler | 16 |
-| 2026-11-04T20:27:42.000Z | [Optimizing Operational Costs with Jev for Gemini Routing](https://x.com/ALYASI_MBRMJ/status/2118077752918389007) | 开发资源 | 👨‍💻الـــيـــاســـي👨‍💻 | 21 |
-| 2026-11-04T20:27:01.000Z | [Optimizing Gemini Routing Costs with Jev Classifier](https://x.com/ALYASI_MBRMJ/status/2118077581019037946) | 软件开发 | 👨‍💻الـــيـــاســـي👨‍💻 | 18 |
-| 2026-11-04T19:55:56.000Z | [Developer Praises Jev's Compatibility with GraphRAG](https://x.com/yama_to_build25/status/2118069755554722060) | 社区实践 | Yamato｜在独🇩🇪 NLP・RAGエンジニア | 84 |
-| 2026-11-04T19:30:35.000Z | [QuantDinger Integrates Jev System One as Open-Source AI Trading OS](https://x.com/argusiccom/status/2118063375150203247) | 金融 | Argusic | 12 |
-| 2026-11-04T19:30:00.000Z | [Jev's Unique Training: RLCD](https://x.com/maheshaipm/status/2118063230027473113) | 工作原理 | Mahesh Yadav | 93 |
-| 2026-11-04T19:06:47.000Z | [Jev Picks Transfer Strategy in CRANE+ Robotics Project](https://x.com/decision_models/status/2118057388314145103) | 机器人 | Decision Models | 69 |
-| 2026-11-04T18:48:33.000Z | [Using Jev decision model with Amazon Bedrock AgentCore Evaluations](https://x.com/TheCloudSensei/status/2118052798558548047) | 智能体 | CloudSensei | 13 |
-| 2026-11-04T18:29:03.000Z | [Drex Max offers 120% cashback on Jev models](https://x.com/Israfilv2/status/2118047893613617209) | 营销 | Isra | 11K |
-| 2026-11-04T18:14:07.000Z | [Reflex launches: first decision model with cached token pricing, 10-20x cheaper than Jev](https://x.com/skeptrune/status/2118044133709545744) | 产品发布 | Nick Khami | 3.0K |
-| 2026-11-04T18:13:37.000Z | [Mental Kombat: A Fighting Game with Jev Models](https://x.com/clayul/status/2118044009029591174) | 游戏 | clay. | 1.0K |
-| 2026-11-04T18:03:57.000Z | [Jev for Protein: Introducing Pev Model](https://x.com/yibo_02/status/2118041575259541584) | 科研 | Yibo | 43 |
-| 2026-11-04T18:02:10.000Z | [Nace AI Offers 120% Cashback for Switching from Jev to Drex Max](https://x.com/testingcatalog/status/2118041127114715235) | 接入动态 | 🚨 AI News \| TestingCatalog | 5.9K |
-| 2026-11-04T18:00:26.000Z | [Jev-Model Fighting Game Launched](https://x.com/vkleban/status/2118040691888496734) | 游戏 | Vitaly Kleban | 64K |

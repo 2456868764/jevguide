@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 306 | 188 | 118 | 595K |
+| 308 | 189 | 119 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/its_grayscale/status/2118514404014882874"><img src="https://pbs.twimg.com/amplify_video_thumb/2118512755057872896/img/jZnSOpdA4uzZYsYu.jpg" alt="Designer shares how Jev turns sentences into workflow actions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/its_grayscale/status/2118514404014882874">Designer shares how Jev turns sentences into workflow actions</a></h3>
+<p>Brendan Gray designed an editable workflow builder for a client, then introduced Jev: each described sentence becomes an action in under a second. The client loved it and expanded the project to use Jev.</p>
+<p><strong>中文摘要：</strong>Brendan Gray 为客户设计了可编辑的工作流构建器，并进一步引入 Jev：用户描述的每句话会在不到一秒内变成一个动作。客户很满意，并扩展项目使用该能力。</p>
+<p><strong>Brendan Gray</strong> · @its_grayscale · 2026-11-06T01:22:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 105</p>
+<p><a href="https://x.com/its_grayscale/status/2118514404014882874">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ShimizuYusuke/status/2118463686017004013"><img src="https://pbs.twimg.com/media/HWZLfydbcAAo07H?format=jpg&amp;name=medium" alt="LayerX internal workshop: over 50 use cases for Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ShimizuYusuke/status/2118463686017004013">LayerX internal workshop: over 50 use cases for Jev</a></h3>
+<p>By reframing work as &quot;choosing options&quot; instead of &quot;writing text,&quot; the team generated more than 50 Jev use cases in 30 minutes. AI adoption starts by counting decision points, not replacing tasks.</p>
+<p><strong>中文摘要：</strong>将业务从“写文章”重构为“做选择”，用高速判断AI“Jev”在30分钟内产出超过50个活用方案。AI导入的关键是先盘点判断数量，而非简单替换。</p>
+<p><strong>清水勇介｜Yusuke Shimizu</strong> · @ShimizuYusuke · 2026-11-05T22:01:16.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
+<p><a href="https://x.com/ShimizuYusuke/status/2118463686017004013">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rewind02/status/2118344253428367624"><img src="https://pbs.twimg.com/amplify_video_thumb/2118344213066559489/img/nMI1fGz304xWgFp9.jpg" alt="Set up app triggers with Jev · 原帖视频截图" width="100%"></a>

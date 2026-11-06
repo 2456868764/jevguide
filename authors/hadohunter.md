@@ -1,9 +1,12 @@
 # HadoHunter
 
-14 Jev showcases.
+17 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T02:17:43.000Z | [Jev Assesses GBP/USD Long Scenario](https://x.com/hadohunter/status/2118528225546842607) | 金融 | HadoHunter | 26 |
+| 2026-11-06T00:14:39.000Z | [USD/JPY Trading Scenario Supported by Jev](https://x.com/hadohunter/status/2118497252629254630) | 金融 | HadoHunter | 32 |
+| 2026-11-05T19:00:48.000Z | [USD/JPY AI Long Scenario \| Jev Review Needed](https://x.com/hadohunter/status/2118418268683944304) | 金融 | HadoHunter | 70 |
 | 2026-11-05T14:49:48.000Z | [Jev Reviews EUR/USD Bullish Scenario](https://x.com/hadohunter/status/2118355104378319012) | 金融 | HadoHunter | 20 |
 | 2026-11-05T12:46:41.000Z | [GBP/USD AI Long Scenario with Jev Review](https://x.com/hadohunter/status/2118324119653736951) | 金融 | HadoHunter | 19 |
 | 2026-11-05T10:44:48.000Z | [AUD/USD AI Short Scenario Analysis](https://x.com/hadohunter/status/2118293446104662272) | 金融 | HadoHunter | 40 |

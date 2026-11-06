@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7110</strong><br>curated posts</td>
-<td align="center"><strong>3516</strong><br>original videos</td>
+<td align="center"><strong>7138</strong><br>curated posts</td>
+<td align="center"><strong>3527</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1380</strong> showcases · <strong>574</strong> videos</p>
+<p><strong>1387</strong> showcases · <strong>577</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>672</strong> showcases · <strong>330</strong> videos</p>
+<p><strong>673</strong> showcases · <strong>330</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>635</strong> showcases · <strong>281</strong> videos</p>
+<p><strong>638</strong> showcases · <strong>284</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>604</strong> showcases · <strong>269</strong> videos</p>
+<p><strong>608</strong> showcases · <strong>271</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,27 +60,27 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>455</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>456</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/gaming.md">Gaming</a></h3>
-<p><sub>游戏</sub></p>
-<p><strong>413</strong> showcases · <strong>306</strong> videos</p>
-<p><a href="categories/gaming.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>412</strong> showcases · <strong>160</strong> videos</p>
+<p><strong>414</strong> showcases · <strong>160</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/gaming.md">Gaming</a></h3>
+<p><sub>游戏</sub></p>
+<p><strong>414</strong> showcases · <strong>306</strong> videos</p>
+<p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>394</strong> showcases · <strong>212</strong> videos</p>
+<p><strong>400</strong> showcases · <strong>213</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>306</strong> showcases · <strong>188</strong> videos</p>
+<p><strong>308</strong> showcases · <strong>189</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>200</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>201</strong> showcases · <strong>153</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/davidwbressler/status/2118357779559710756"><img src="https://pbs.twimg.com/media/HWXrLNMXMAAIeKU?format=png&amp;name=medium" alt="Jev gets 139 of 200 emotion development cases right · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/davidwbressler/status/2118357779559710756">Jev gets 139 of 200 emotion development cases right</a></h3>
-<p>With 32 retrieved examples, Jev correctly handled 139 of 200 emotion development cases, while a random sample of about 6,388 examples yielded 125 correct within a similar 240K-token budget. Same pinned setup, only example selection changed.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>David Bressler</strong> · @davidwbressler</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/GoSailGlobal/status/2118548781549625791"><img src="https://pbs.twimg.com/media/HWaYhNoaEAADdnI?format=jpg&amp;name=medium" alt="Jev Best Practices: Only Make Judgments, Let Code Decide · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GoSailGlobal/status/2118548781549625791">Jev Best Practices: Only Make Judgments, Let Code Decide</a></h3>
+<p>This guide explains the best way to use Jev as a System One model, advises against packing the entire decision into one big multiple-choice question, and uses customer service routing as an example where Jev makes judgments and code makes decisions.</p>
+<p><strong>63</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2118355104378319012"><img src="https://pbs.twimg.com/media/HWXovcxbgAAVDJf?format=jpg&amp;name=medium" alt="Jev Reviews EUR/USD Bullish Scenario · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2118355104378319012">Jev Reviews EUR/USD Bullish Scenario</a></h3>
-<p>HadoHunter shares a EUR/USD long scenario with entry 1.12124, target 1.12870, stop 1.11753, R/R 2.01, and a Jev review note with 31% certainty.</p>
-<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/_QCAI/status/2118544906545459578"><img src="https://pbs.twimg.com/media/HWaVXGRa8AEyES7?format=jpg&amp;name=medium" alt="Has Jev&#39;s Hype Faded? Community Discusses Workflow Usage · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/_QCAI/status/2118544906545459578">Has Jev&#39;s Hype Faded? Community Discusses Workflow Usage</a></h3>
+<p>The author asks whether Jev is still being used and what has changed in users&#39; workflows, reflecting community attention to Jev&#39;s real-world adoption.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Chloe</strong> · @_QCAI</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ForgeAI_gg/status/2118351617166626938"><img src="https://pbs.twimg.com/media/HWXlkffXIAAQdLl?format=jpg&amp;name=medium" alt="JEV Drives Action Selection in ForgeAI Agents · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ForgeAI_gg/status/2118351617166626938">JEV Drives Action Selection in ForgeAI Agents</a></h3>
-<p>ForgeAI shared results from 21 runs, 14 models, and 14,468 moves, with the top 5 finishing within 86 points. In ForgeAI-hosted agents, the model writes the plan and JEV picks each move.</p>
-<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/hellohazime/status/2118536018475495598"><img src="https://pbs.twimg.com/media/HWaLvoGakAAcHWb?format=jpg&amp;name=900x900" alt="New Comic at Tech Book Festival 21: Jev Explained · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hellohazime/status/2118536018475495598">New Comic at Tech Book Festival 21: Jev Explained</a></h3>
+<p>The author researched Jev while overseas to catch up on its popularity, and turned the findings into an explanatory manga and text, releasing it as a new publication at Tech Book Festival 21 for 500 yen.</p>
+<p><strong>95</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 95</p>
+<p><strong>hellohazime@え11_技術書典21</strong> · @hellohazime</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/HeyAmit_/status/2118351184847389070"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: AI agents that handle tasks autonomously · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HeyAmit_/status/2118351184847389070">Jev: AI agents that handle tasks autonomously</a></h3>
-<p>Amit introduces Jev by TypeSafe AI: it monitors thousands of app events across tools, figures out what matters, and takes the next step automatically—so you don&#39;t have to keep checking on your AI agent.</p>
-<p><strong>1.7K</strong> views · 💬 9 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.7K</p>
-<p><strong>Amit</strong> · @HeyAmit_</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/InfronAI/status/2118535336901095845"><img src="https://pbs.twimg.com/media/HWaMpncWwAAQFM6?format=jpg&amp;name=medium" alt="Jev 1.14 and d1-ultra are now available on Infron · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/InfronAI/status/2118535336901095845">Jev 1.14 and d1-ultra are now available on Infron</a></h3>
+<p>Infron now offers Jev 1.14 and d1-ultra decision models for classification, routing, and scoring, both priced at $0.042 per 1M input tokens.</p>
+<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Infron</strong> · @InfronAI</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/davidwbressler/status/2118357779559710756"><img src="https://pbs.twimg.com/media/HWXrLNMXMAAIeKU?format=png&amp;name=medium" alt="Jev gets 139 of 200 emotion development cases right · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/davidwbressler/status/2118357779559710756">Jev gets 139 of 200 emotion development cases right</a></h3>
-<p>With 32 retrieved examples, Jev correctly handled 139 of 200 emotion development cases, while a random sample of about 6,388 examples yielded 125 correct within a similar 240K-token budget. Same pinned setup, only example selection changed.</p>
-<p><strong>2</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>David Bressler</strong> · @davidwbressler</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/GoSailGlobal/status/2118548781549625791"><img src="https://pbs.twimg.com/media/HWaYhNoaEAADdnI?format=jpg&amp;name=medium" alt="Jev Best Practices: Only Make Judgments, Let Code Decide · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GoSailGlobal/status/2118548781549625791">Jev Best Practices: Only Make Judgments, Let Code Decide</a></h3>
+<p>This guide explains the best way to use Jev as a System One model, advises against packing the entire decision into one big multiple-choice question, and uses customer service routing as an example where Jev makes judgments and code makes decisions.</p>
+<p><strong>63</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
+<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/HeyAmit_/status/2118351184847389070"><img src="https://pbs.twimg.com/amplify_video_thumb/2118315919583645696/img/onhOU09VZ5uzjpC-.jpg" alt="Jev: AI agents that handle tasks autonomously · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HeyAmit_/status/2118351184847389070">Jev: AI agents that handle tasks autonomously</a></h3>
-<p>Amit introduces Jev by TypeSafe AI: it monitors thousands of app events across tools, figures out what matters, and takes the next step automatically—so you don&#39;t have to keep checking on your AI agent.</p>
-<p><strong>1.7K</strong> views · 💬 9 &nbsp; 🔁 2 &nbsp; ♡ 11 &nbsp; 📊 1.7K</p>
-<p><strong>Amit</strong> · @HeyAmit_</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/InfronAI/status/2118535336901095845"><img src="https://pbs.twimg.com/media/HWaMpncWwAAQFM6?format=jpg&amp;name=medium" alt="Jev 1.14 and d1-ultra are now available on Infron · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/InfronAI/status/2118535336901095845">Jev 1.14 and d1-ultra are now available on Infron</a></h3>
+<p>Infron now offers Jev 1.14 and d1-ultra decision models for classification, routing, and scoring, both priced at $0.042 per 1M input tokens.</p>
+<p><strong>22</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>Infron</strong> · @InfronAI</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ramsis_ai/status/2118350121385459792"><img src="https://pbs.twimg.com/media/HWQnVjLWoAAq1YP?format=jpg&amp;name=large" alt="Testing Jev Model for Lead Selection · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ramsis_ai/status/2118350121385459792">Testing Jev Model for Lead Selection</a></h3>
-<p>Ramsis compares deepseek-v4.1-flash with a big prompt against TypeSafe&#39;s Jev model with small yes/no questions on lead selection across 27 local business listings.</p>
-<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Ramsis Hammadi</strong> · @ramsis_ai</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2118528225546842607"><img src="https://pbs.twimg.com/media/HWaGMccbwAAjGI1?format=jpg&amp;name=medium" alt="Jev Assesses GBP/USD Long Scenario · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2118528225546842607">Jev Assesses GBP/USD Long Scenario</a></h3>
+<p>HadoHunter shares an AI long scenario for GBP/USD with entry, target, stop, and reward/risk, citing a 49% certainty Jev assessment that suggests review.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/aresotik/status/2118339326832517314"><img src="https://pbs.twimg.com/amplify_video_thumb/2118339298281865216/img/6tL-HKgbaZZShlUb.jpg" alt="Your Browser Responds to App Events: Strawberry Feature Explained · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/aresotik/status/2118339326832517314">Your Browser Responds to App Events: Strawberry Feature Explained</a></h3>
-<p>TypeSafe AI&#39;s Strawberry feature lets you specify apps to monitor (Gmail, Slack, Drive) and actions to take. Jev reviews every alert, then your agent follows through.</p>
-<p><strong>282</strong> views · 💬 10 &nbsp; 🔁 2 &nbsp; ♡ 26 &nbsp; 📊 282</p>
-<p><strong>ares. 🎧</strong> · @aresotik</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/milhouscc/status/2118507550962507947"><img src="https://pbs.twimg.com/media/HWZxMLXbsAAoCSb?format=jpg&amp;name=medium" alt="Jev API Contract: Behavior When No Category Matches or Target Is Absent · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/milhouscc/status/2118507550962507947">Jev API Contract: Behavior When No Category Matches or Target Is Absent</a></h3>
+<p>Discusses a key API contract of TypeSafe&#39;s Jev: it can return a category even when no category fits, and return a bounding box even when the target is absent. Important to understand before wiring outputs into actions.</p>
+<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><strong>Milhous</strong> · @milhouscc</p>
 </td>
 </tr>
 </table>

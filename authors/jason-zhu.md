@@ -1,9 +1,10 @@
 # Jason Zhu
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T03:39:24.000Z | [Jev Best Practices: Only Make Judgments, Let Code Decide](https://x.com/GoSailGlobal/status/2118548781549625791) | 社区实践 | Jason Zhu | 63 |
 | 2026-11-03T13:06:00.000Z | [EasyHire AI recruitment agent powered by Jev](https://x.com/GoSailGlobal/status/2117604205439627428) | 企业运营 | Jason Zhu | 310 |
 | 2026-10-29T08:07:44.000Z | [Introducing Jev Powered People Search](https://x.com/GoSailGlobal/status/2115717203555414259) | 产品发布 | Jason Zhu | 3.9K |
 | 2026-10-23T05:28:06.000Z | [Jev Open Source Projects Tested: 8 of 12 Work](https://x.com/GoSailGlobal/status/2113502706614882675) | 社区实践 | Jason Zhu | 336 |

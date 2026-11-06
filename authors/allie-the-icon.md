@@ -1,9 +1,10 @@
 # Allie the Icon
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |
 | 2026-11-03T20:22:43.000Z | [Handling Multiple Intents with Jev: The “Shopping Cart” Pattern](https://x.com/allietheicon/status/2117714107675869374) | 社区实践 | Allie the Icon | 3.0K |
 | 2026-10-30T20:01:25.000Z | [Using Jev to add 'vibe' to Agent Tower](https://x.com/allietheicon/status/2116259198828957805) | 社区实践 | Allie the Icon | 1.6K |
 | 2026-10-27T22:16:49.000Z | [Jev Pattern: Line-by-Line Search](https://x.com/allietheicon/status/2115206109271331044) | 社区实践 | Allie the Icon | 3.3K |

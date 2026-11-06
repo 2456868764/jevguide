@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 394 | 212 | 184 | 1.2M |
+| 400 | 213 | 189 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2118528225546842607"><img src="https://pbs.twimg.com/media/HWaGMccbwAAjGI1?format=jpg&amp;name=medium" alt="Jev Assesses GBP/USD Long Scenario · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2118528225546842607">Jev Assesses GBP/USD Long Scenario</a></h3>
+<p>HadoHunter shares an AI long scenario for GBP/USD with entry, target, stop, and reward/risk, citing a 49% certainty Jev assessment that suggests review.</p>
+<p><strong>中文摘要：</strong>HadoHunter分享GBP/USD的AI做多方案，包含入场、目标、止损及风险回报比，并引用Jev模型评估（确定性49%），认为需要进一步审查。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-06T02:17:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/hadohunter/status/2118528225546842607">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2118505258049548751"><img src="https://pbs.twimg.com/media/HWZxCNPXsAA4_Al?format=jpg&amp;name=medium" alt="TypeSafe AI now gives real-time JEV scores for Pump.fun tokens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2118505258049548751">TypeSafe AI now gives real-time JEV scores for Pump.fun tokens</a></h3>
+<p>Every token from Pump.fun now receives a real-time JEV score and decision from TypeSafe AI, exposed to agents on Solana via WebMCP tools; set up a wallet and fund it for automation.</p>
+<p><strong>中文摘要：</strong>每个来自 Pump.fun 的代币都会获得 TypeSafe AI 的实时 JEV 评分和决策，并通过 WebMCP 工具开放给 Solana 上的智能体使用；用户可设置钱包并注入资金用于自动化。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-06T00:46:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 236</p>
+<p><a href="https://x.com/0rdlibrary/status/2118505258049548751">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2118497252629254630"><img src="https://pbs.twimg.com/media/HWZqBmvaYAAAwIR?format=jpg&amp;name=medium" alt="USD/JPY Trading Scenario Supported by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2118497252629254630">USD/JPY Trading Scenario Supported by Jev</a></h3>
+<p>HadoHunter shared an AI-based long scenario for USD/JPY, including entry, target, stop, and risk/reward ratio, noting Jev model support with only 10% assessment certainty.</p>
+<p><strong>中文摘要：</strong>HadoHunter发布了基于AI的USD/JPY多头交易方案，包含入场价、目标价、止损和风险回报比，并标注Jev模型支持该场景但评估确定性仅为10%。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-06T00:14:39.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 32</p>
+<p><a href="https://x.com/hadohunter/status/2118497252629254630">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kardinall/status/2118494424833384593"><img src="https://pbs.twimg.com/amplify_video_thumb/2118494226925203456/img/A4OKTVr6Do1VhgI6.jpg" alt="Jev answers closed questions in automated trading · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kardinall/status/2118494424833384593">Jev answers closed questions in automated trading</a></h3>
+<p>The author describes an autonomous trading experiment: Grok on the phone suggested a buy, the Mac declined multiple times, and the balance grew from $95 to $2,214.80; Jev is used to answer closed-form questions.</p>
+<p><strong>中文摘要：</strong>作者描述了一个自主交易实验：手机端 Grok 建议买入，Mac 端多次拒绝，最终从 95 美元增至 2,214.80 美元；Jev 负责回答封闭式问题。</p>
+<p><strong>Kardinall</strong> · @kardinall · 2026-11-06T00:03:25.000Z</p>
+<p>💬 3 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 279</p>
+<p><a href="https://x.com/kardinall/status/2118494424833384593">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TweetBySoft/status/2118482128266567712"><img src="https://pbs.twimg.com/media/HWZcQrsXIAAZb4N?format=jpg&amp;name=medium" alt="How the Jev model participates in payment checks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TweetBySoft/status/2118482128266567712">How the Jev model participates in payment checks</a></h3>
+<p>The post describes the payment checking process: first 13 fixed rules run, then the SERV guard graph uses Jev decisions to judge whether it fits the task, and Errand asks the user if unsure.</p>
+<p><strong>中文摘要：</strong>帖子介绍支付检查流程：先执行13条固定规则，然后由SERV守卫图通过Jev决策判断是否符合任务，若Errand不确定则询问用户。</p>
+<p><strong>Ben Softie (evm/spice 🌶,🐝)</strong> · @TweetBySoft · 2026-11-05T23:14:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 27</p>
+<p><a href="https://x.com/TweetBySoft/status/2118482128266567712">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2118418268683944304"><img src="https://pbs.twimg.com/media/HWYiMJjbYAAD6BH?format=jpg&amp;name=medium" alt="USD/JPY AI Long Scenario | Jev Review Needed · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2118418268683944304">USD/JPY AI Long Scenario | Jev Review Needed</a></h3>
+<p>HadoHunter shares a USD/JPY long scenario: entry 157.734, target 158.469, stop 157.373, reward/risk 2.04. Jev assessment certainty is 34%, review recommended.</p>
+<p><strong>中文摘要：</strong>HadoHunter发布USD/JPY多头交易场景：入场157.734，目标158.469，止损157.373，风险回报比2.04。Jev评估确定性为34%，建议复核。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-05T19:00:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 70</p>
+<p><a href="https://x.com/hadohunter/status/2118418268683944304">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadohunter/status/2118355104378319012"><img src="https://pbs.twimg.com/media/HWXovcxbgAAVDJf?format=jpg&amp;name=medium" alt="Jev Reviews EUR/USD Bullish Scenario · 原帖图片" width="100%"></a>

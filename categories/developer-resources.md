@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 412 | 160 | 252 | 419K |
+| 414 | 160 | 254 | 419K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/milhouscc/status/2118507550962507947"><img src="https://pbs.twimg.com/media/HWZxMLXbsAAoCSb?format=jpg&amp;name=medium" alt="Jev API Contract: Behavior When No Category Matches or Target Is Absent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/milhouscc/status/2118507550962507947">Jev API Contract: Behavior When No Category Matches or Target Is Absent</a></h3>
+<p>Discusses a key API contract of TypeSafe&#39;s Jev: it can return a category even when no category fits, and return a bounding box even when the target is absent. Important to understand before wiring outputs into actions.</p>
+<p><strong>中文摘要：</strong>讨论 TypeSafe Jev 的一个关键 API 契约：即使没有类别匹配也会返回类别，目标不存在时也会返回边界框，在接入动作前需理解该行为。</p>
+<p><strong>Milhous</strong> · @milhouscc · 2026-11-06T00:55:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/milhouscc/status/2118507550962507947">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/leanpub/status/2118465888928379067"><img src="https://pbs.twimg.com/media/HWZNgArbkAArPRo?format=jpg&amp;name=medium" alt="Run Jev-Like System One Models Locally Book Sale · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/leanpub/status/2118465888928379067">Run Jev-Like System One Models Locally Book Sale</a></h3>
+<p>Run Jev-Like System One Models Locally is on sale at Leanpub. Suggested price $35.00, get it for $17.50 with the coupon.</p>
+<p><strong>中文摘要：</strong>Leanpub上正在促销《Run Jev-Like System One Models Locally》，原价$35.00，使用优惠券可半价$17.50购买。</p>
+<p><strong>Leanpub</strong> · @leanpub · 2026-11-05T22:10:01.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 103</p>
+<p><a href="https://x.com/leanpub/status/2118465888928379067">在 X 查看原帖</a> · <a href="https://t.co/WH9Xxn6wXT">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ALYASI_MBRMJ/status/2118077752918389007"><img src="https://pbs.twimg.com/media/HWTsepYaUAA8-nH?format=jpg&amp;name=medium" alt="Optimizing Operational Costs with Jev for Gemini Routing · 原帖图片" width="100%"></a>

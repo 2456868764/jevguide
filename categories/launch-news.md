@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 604 | 269 | 338 | 1.1M |
+| 608 | 271 | 340 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ctxzz/status/2118474713634627826"><img src="https://pbs.twimg.com/media/HWZVhk2W8AAPPEz?format=jpg&amp;name=large" alt="VideoJev: System One Model for Video Understanding and Interaction · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ctxzz/status/2118474713634627826">VideoJev: System One Model for Video Understanding and Interaction</a></h3>
+<p>VideoJev extends Jev with video understanding. It replaces MLLM autoregressive response generation with a shared scoring head that grades time intervals and choices against the video. Average mIoU improves by +6.7/+10.8 points over baselines, with 2.8–3.1× faster inference.</p>
+<p><strong>中文摘要：</strong>VideoJev扩展了Jev的视频理解能力，将MLLM自回归回答生成替换为共享打分头，以视频为基准评估时间区间和选项。平均mIoU较基线提升6.7/10.8个百分点，推理速度提升2.8–3.1倍。</p>
+<p><strong>atom</strong> · @ctxzz · 2026-11-05T22:45:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/ctxzz/status/2118474713634627826">在 X 查看原帖</a> · <a href="https://t.co/8jxCXHLCi0">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/XunzhuoLiu/status/2118445187051733452"><img src="https://pbs.twimg.com/amplify_video_thumb/2118445047486263296/img/9Or-04meIavS4Xw2.jpg" alt="System Duo: Make Your Agent Think Fast and Slow · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/XunzhuoLiu/status/2118445187051733452">System Duo: Make Your Agent Think Fast and Slow</a></h3>
+<p>System Duo is an open-source routing app that combines System One&#39;s fast decisions with System Two&#39;s deep reasoning, letting agents switch between quick and thorough thinking.</p>
+<p><strong>中文摘要：</strong>System Duo 是一个结合 System One 快速决策与 System Two 深度推理的开源路由应用，让 Agent 能在快慢两种思维模式之间切换。</p>
+<p><strong>Xunzhuo</strong> · @XunzhuoLiu · 2026-11-05T20:47:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 19 &nbsp; 📊 2.8K</p>
+<p><a href="https://x.com/XunzhuoLiu/status/2118445187051733452">在 X 查看原帖</a> · <a href="https://t.co/zSPzFm6PLA">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/singularity_bly/status/2118437549584818481"><img src="https://pbs.twimg.com/media/HWYzuIGWQAAdUcc?format=jpg&amp;name=medium" alt="Jev Decision Model upgraded with Recurrent Looped Transformer architecture · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/singularity_bly/status/2118437549584818481">Jev Decision Model upgraded with Recurrent Looped Transformer architecture</a></h3>
+<p>Sahibzada Allahyar says the Jev decision model has been made even stronger with a Recurrent Looped Transformer architecture, already ranking #1 on Artificial Analysis and Hugging Face&#39;s Jev Decision Index.</p>
+<p><strong>中文摘要：</strong>Sahibzada Allahyar表示，TypeSafe的Jev决策模型已通过Recurrent Looped Transformer架构进一步增强，并在Artificial Analysis及Hugging Face Jev Decision Index上保持榜首。</p>
+<p><strong>Sahibzada Allahyar</strong> · @singularity_bly · 2026-11-05T20:17:25.000Z</p>
+<p>💬 2 &nbsp; 🔁 7 &nbsp; ♡ 17 &nbsp; 📊 778</p>
+<p><a href="https://x.com/singularity_bly/status/2118437549584818481">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JudgmentLabs/status/2118430029743059000"><img src="https://pbs.twimg.com/amplify_video_thumb/2118426960758263808/img/rbojKSGnm2XSra-z.jpg" alt="Create and align Jev judges with Judgment Agent · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/JudgmentLabs/status/2118430029743059000">Create and align Jev judges with Judgment Agent</a></h3>
+<p>Introducing Judgment Agent: describe what you want to catch or bring your own rubric to create and align Jev/LLM/agent judges, ensuring evaluations match your standards.</p>
+<p><strong>中文摘要：</strong>介绍Judgment Agent：可描述您想捕捉的内容或使用自有rubric，创建与对齐Jev/LLM/agent评判者，确保评估符合您的标准。</p>
+<p><strong>Judgment Labs</strong> · @JudgmentLabs · 2026-11-05T19:47:32.000Z</p>
+<p>💬 4 &nbsp; 🔁 6 &nbsp; ♡ 46 &nbsp; 📊 24K</p>
+<p><a href="https://x.com/JudgmentLabs/status/2118430029743059000">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/charles_maddock/status/2118318253294673940"><img src="https://pbs.twimg.com/amplify_video_thumb/2118318205416374272/img/gzjrmmwF69wceV9a.jpg" alt="Jev-powered app triggers launched · 原帖视频截图" width="100%"></a>

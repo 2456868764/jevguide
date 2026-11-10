@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 123 | 63 | 61 | 392K |
+| 125 | 65 | 61 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/phil_renaud/status/2120175939946426646"><img src="https://pbs.twimg.com/amplify_video_thumb/2120175092931964928/img/z7AI25Adin8FwvEI.jpg" alt="Jev Helps Parse Data Trends and Patterns · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/phil_renaud/status/2120175939946426646">Jev Helps Parse Data Trends and Patterns</a></h3>
+<p>Phil Renaud shares excitement about how models like Jev can help people parse and see trends and patterns in data, reducing overwhelm from large datasets.</p>
+<p><strong>中文摘要：</strong>Phil Renaud 表示，Jev 等模型能帮助人们解析和发现数据趋势与模式，尤其在面对大量数据时，可避免因信息过载而不知所措。</p>
+<p><strong>Phil Renaud</strong> · @phil_renaud · 2026-11-10T15:25:09.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/phil_renaud/status/2120175939946426646">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/phil_renaud/status/2120174142490103928"><img src="https://pbs.twimg.com/amplify_video_thumb/2120173471762096128/img/OLRn9JUYeg84-LnW.jpg" alt="Turning Web Tables into Visualizations with Jev Decision Model · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/phil_renaud/status/2120174142490103928">Turning Web Tables into Visualizations with Jev Decision Model</a></h3>
+<p>Developer Phil Renaud introduces a Chrome extension that uses @typesafeai&#39;s Jev decision model to turn every table on the web into a data visualization, helping users spot patterns at a glance.</p>
+<p><strong>中文摘要：</strong>开发者 Phil Renaud 介绍了一个 Chrome 扩展，利用 @typesafeai 的 Jev 决策模型，将网页中的每个表格自动转化为数据可视化，帮助用户快速识别模式。</p>
+<p><strong>Phil Renaud</strong> · @phil_renaud · 2026-11-10T15:18:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/phil_renaud/status/2120174142490103928">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/DeepInsightLabs/status/2120161807717236807"><img src="https://pbs.twimg.com/media/HWvmM9tbAAAeXmc?format=jpg&amp;name=medium" alt="Survey on Jev Model Adoption Trends in Vercel AI Gateway · 原帖图片" width="100%"></a>

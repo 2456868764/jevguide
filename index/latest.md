@@ -2,6 +2,13 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T15:46:25.000Z | [Highlight the highest information word in lists with Jev?](https://x.com/mattarderne/status/2120181289621786651) | 智能体 | Matt Arderne 🌊 | 12 |
+| 2026-11-10T15:41:00.000Z | [Jev's Role in SEO Decisions](https://x.com/Mr_Buzzoni/status/2120179926729097538) | 营销 | Mr. Buzzoni | 254 |
+| 2026-11-10T15:31:44.000Z | [JEV-powered search: modest accuracy gain, higher cost](https://x.com/ivanmisuno/status/2120177596340056485) | 知识与搜索 | Ivan Misuno 🇺🇦 | 12 |
+| 2026-11-10T15:25:09.000Z | [Jev Helps Parse Data Trends and Patterns](https://x.com/phil_renaud/status/2120175939946426646) | 数据分析 | Phil Renaud | 11 |
+| 2026-11-10T15:24:01.000Z | [Comparing Gemma4 for Jev-like Tasks](https://x.com/hasegaw/status/2120175652087415061) | 社区实践 | もつなべおじさん | 176 |
+| 2026-11-10T15:23:00.000Z | [Real-world use of Jev in Slack message routing](https://x.com/MarstonConnell/status/2120175397174128864) | 社区实践 | marston connell | 25 |
+| 2026-11-10T15:18:01.000Z | [Turning Web Tables into Visualizations with Jev Decision Model](https://x.com/phil_renaud/status/2120174142490103928) | 数据分析 | Phil Renaud | 25 |
 | 2026-11-10T14:44:00.000Z | [Jev Harness PDF Share: Speed and Cost Optimization](https://x.com/savvy_luvvvv/status/2120165582553190908) | 开发资源 | Ling | 7 |
 | 2026-11-10T14:43:55.000Z | [EUR/USD long scenario with Jev assessment](https://x.com/hadohunter/status/2120165561057644974) | 金融 | HadoHunter | 25 |
 | 2026-11-10T14:35:59.000Z | [JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points](https://x.com/ForgeAI_gg/status/2120163565977935918) | 智能体 | ForgeAI | 9 |
@@ -95,10 +102,3 @@
 | 2026-11-05T17:00:26.000Z | [EMQ Releases Device Agent 0.5.0 with Jev Decision-Making](https://x.com/EMQTech/status/2118387978015744276) | 产品发布 | EMQ Technologies | 113 |
 | 2026-11-05T16:32:03.000Z | [Sequoia Backs TypeSafe's Jev Model](https://x.com/guilleflorvs/status/2118380835124441561) | 产品发布 | Guillermo Flor | 990 |
 | 2026-11-05T16:14:38.000Z | [Open-Source Thinking Decision Model THX-02 Claims to Beat Jev on Decision Index](https://x.com/reversedoofz/status/2118376454564299123) | 产品发布 | doofz | 152K |
-| 2026-11-05T16:05:58.000Z | [Verafy on TypeSafe Jev's Fast Screening](https://x.com/verafyfoundtn/status/2118374269537423759) | 工作原理 | Verafy: AI Predictions, Forecasts & Consensus | 37 |
-| 2026-11-05T15:38:48.000Z | [Jev-powered AI agent triggers for automated workflows](https://x.com/beamnxw/status/2118367436449763630) | 自动化工作流 | beamnxw ./ | 1.2K |
-| 2026-11-05T15:36:38.000Z | [Takeaways from a Conversation with Jev's Creator](https://x.com/rishabhfyi/status/2118366889118487029) | 社区实践 | Rishabh Gupta | 19 |
-| 2026-11-05T15:16:09.000Z | [How the Jev Model Could Impact Legal Workflow Automation](https://x.com/LeeRosen/status/2118361735308419328) | 法律合规 | Lee Rosen | 53 |
-| 2026-11-05T15:06:19.000Z | [Using JEV to Rank Sentence Refinements While Writing](https://x.com/kirancodes/status/2118359260958703905) | 科研 | Kiran | 922 |
-| 2026-11-05T15:00:26.000Z | [Jev gets 139 of 200 emotion development cases right](https://x.com/davidwbressler/status/2118357779559710756) | 科研 | David Bressler | 2 |
-| 2026-11-05T14:49:48.000Z | [Jev Reviews EUR/USD Bullish Scenario](https://x.com/hadohunter/status/2118355104378319012) | 金融 | HadoHunter | 20 |

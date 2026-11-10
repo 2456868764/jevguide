@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7207</strong><br>curated posts</td>
-<td align="center"><strong>3549</strong><br>original videos</td>
+<td align="center"><strong>7214</strong><br>curated posts</td>
+<td align="center"><strong>3552</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1407</strong> showcases · <strong>584</strong> videos</p>
+<p><strong>1409</strong> showcases · <strong>584</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>608</strong> showcases · <strong>325</strong> videos</p>
+<p><strong>609</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>200</strong> showcases · <strong>152</strong> videos</p>
+<p><strong>201</strong> showcases · <strong>153</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>144</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>145</strong> showcases · <strong>72</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>123</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>125</strong> showcases · <strong>65</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/savvy_luvvvv/status/2120165582553190908"><img src="https://pbs.twimg.com/amplify_video_thumb/2119917052924211200/img/UuBjjKsYqApQSmO2.jpg" alt="Jev Harness PDF Share: Speed and Cost Optimization · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/savvy_luvvvv/status/2120165582553190908">Jev Harness PDF Share: Speed and Cost Optimization</a></h3>
-<p>This PDF, released by Jev founder Diogo Almeida, explains how to build a Jev harness, claiming up to 200x faster speed and 400x lower cost, with a linked article for usage guidance.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>Ling</strong> · @savvy_luvvvv</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/mattarderne/status/2120181289621786651"><img src="https://pbs.twimg.com/media/HWxlSZBWwAETc6Y?format=jpg&amp;name=medium" alt="Highlight the highest information word in lists with Jev? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mattarderne/status/2120181289621786651">Highlight the highest information word in lists with Jev?</a></h3>
+<p>Matt Arderne asks: what would it take to highlight the highest information word in each list? He thinks it seems like a good Jev capability, or a good UX design thing.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Matt Arderne 🌊</strong> · @mattarderne</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2120165561057644974"><img src="https://pbs.twimg.com/media/HWxXV7PbAAI6Ox8?format=jpg&amp;name=medium" alt="EUR/USD long scenario with Jev assessment · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2120165561057644974">EUR/USD long scenario with Jev assessment</a></h3>
-<p>HadoHunter shares an EUR/USD long idea with entry 1.11827, target 1.12514, stop 1.11549, reward/risk 2.47. Jev assessment: not supported (25% certainty).</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>02</strong> &nbsp; <code>营销</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mr_Buzzoni/status/2120179926729097538"><img src="https://pbs.twimg.com/amplify_video_thumb/2120017298723323904/img/pMWSZzOUfAMIxIbS.jpg" alt="Jev&#39;s Role in SEO Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mr_Buzzoni/status/2120179926729097538">Jev&#39;s Role in SEO Decisions</a></h3>
+<p>The author claims Claude Opus 5.5, Fable 5.2, and Jev will create more millionaires in 2026 than crypto, proposing a workflow: prompt → Claude → Jev SEO decision → Fable action → profit.</p>
+<p><strong>254</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 254</p>
+<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ForgeAI_gg/status/2120163565977935918"><img src="https://pbs.twimg.com/media/HWxVhwJWIAAFrRa?format=jpg&amp;name=medium" alt="JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ForgeAI_gg/status/2120163565977935918">JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points</a></h3>
-<p>ForgeAI shares results from a multi-model benchmark: 4,767 moves across 6 runs, with the top 5 models finishing within 214 points. In ForgeAI-hosted agents, the model writes the plan and JEV selects each move.</p>
-<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/ivanmisuno/status/2120177596340056485"><img src="https://pbs.twimg.com/media/HWxh1kcXwAA13gX?format=png&amp;name=medium" alt="JEV-powered search: modest accuracy gain, higher cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ivanmisuno/status/2120177596340056485">JEV-powered search: modest accuracy gain, higher cost</a></h3>
+<p>Inspired by a post, Ivan Misuno tried implementing JEV-powered search in his product. Compared to vanilla embedding-cosine-threshold, accuracy is only about 5% higher, with cost between $0.5 and $2.2 per 1,000 calls. He asked @GergelyOrosz for more details.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Ivan Misuno 🇺🇦</strong> · @ivanmisuno</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/DeepInsightLabs/status/2120161807717236807"><img src="https://pbs.twimg.com/media/HWvmM9tbAAAeXmc?format=jpg&amp;name=medium" alt="Survey on Jev Model Adoption Trends in Vercel AI Gateway · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/DeepInsightLabs/status/2120161807717236807">Survey on Jev Model Adoption Trends in Vercel AI Gateway</a></h3>
-<p>Deep Insight Labs presents the System One survey, analyzing Jev and its competitors&#39; share of Vercel AI Gateway requests and spend, questioning whether this is a real paradigm shift.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
-<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/phil_renaud/status/2120175939946426646"><img src="https://pbs.twimg.com/amplify_video_thumb/2120175092931964928/img/z7AI25Adin8FwvEI.jpg" alt="Jev Helps Parse Data Trends and Patterns · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/phil_renaud/status/2120175939946426646">Jev Helps Parse Data Trends and Patterns</a></h3>
+<p>Phil Renaud shares excitement about how models like Jev can help people parse and see trends and patterns in data, reducing overwhelm from large datasets.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Phil Renaud</strong> · @phil_renaud</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
-<a href="https://x.com/savvy_luvvvv/status/2120165582553190908"><img src="https://pbs.twimg.com/amplify_video_thumb/2119917052924211200/img/UuBjjKsYqApQSmO2.jpg" alt="Jev Harness PDF Share: Speed and Cost Optimization · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/savvy_luvvvv/status/2120165582553190908">Jev Harness PDF Share: Speed and Cost Optimization</a></h3>
-<p>This PDF, released by Jev founder Diogo Almeida, explains how to build a Jev harness, claiming up to 200x faster speed and 400x lower cost, with a linked article for usage guidance.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
-<p><strong>Ling</strong> · @savvy_luvvvv</p>
+<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/mattarderne/status/2120181289621786651"><img src="https://pbs.twimg.com/media/HWxlSZBWwAETc6Y?format=jpg&amp;name=medium" alt="Highlight the highest information word in lists with Jev? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mattarderne/status/2120181289621786651">Highlight the highest information word in lists with Jev?</a></h3>
+<p>Matt Arderne asks: what would it take to highlight the highest information word in each list? He thinks it seems like a good Jev capability, or a good UX design thing.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Matt Arderne 🌊</strong> · @mattarderne</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖视频</code></p>
+<a href="https://x.com/phil_renaud/status/2120175939946426646"><img src="https://pbs.twimg.com/amplify_video_thumb/2120175092931964928/img/z7AI25Adin8FwvEI.jpg" alt="Jev Helps Parse Data Trends and Patterns · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/phil_renaud/status/2120175939946426646">Jev Helps Parse Data Trends and Patterns</a></h3>
+<p>Phil Renaud shares excitement about how models like Jev can help people parse and see trends and patterns in data, reducing overwhelm from large datasets.</p>
+<p><strong>11</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Phil Renaud</strong> · @phil_renaud</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/hasegaw/status/2120175652087415061"><img src="https://pbs.twimg.com/media/HWxgWCNbcAAqs8X?format=png&amp;name=medium" alt="Comparing Gemma4 for Jev-like Tasks · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hasegaw/status/2120175652087415061">Comparing Gemma4 for Jev-like Tasks</a></h3>
+<p>The user mentions having a model carry out tasks similar to Jev and asks whether Gemma4 performs well for this method and use case, sparking discussion around Jev-related usage.</p>
+<p><strong>176</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 176</p>
+<p><strong>もつなべおじさん</strong> · @hasegaw</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
 <a href="https://x.com/DeepInsightLabs/status/2120161807717236807"><img src="https://pbs.twimg.com/media/HWvmM9tbAAAeXmc?format=jpg&amp;name=medium" alt="Survey on Jev Model Adoption Trends in Vercel AI Gateway · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/DeepInsightLabs/status/2120161807717236807">Survey on Jev Model Adoption Trends in Vercel AI Gateway</a></h3>
 <p>Deep Insight Labs presents the System One survey, analyzing Jev and its competitors&#39; share of Vercel AI Gateway requests and spend, questioning whether this is a real paradigm shift.</p>
 <p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
 <p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/0xDrexo/status/2120161426627322043"><img src="https://pbs.twimg.com/media/HWxTkxgasAEdY3w?format=jpg&amp;name=medium" alt="Jev and 6 Other AI Models Are Currently Free · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0xDrexo/status/2120161426627322043">Jev and 6 Other AI Models Are Currently Free</a></h3>
-<p>The post lists 7 AI models currently free to access, including Jev, with a link to browse and use them on the platform.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
-<p><strong>Drexo</strong> · @0xDrexo</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
-<p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Robert Sedovšek</strong> · @sedovsek</p>
 </td>
 </tr>
 </table>

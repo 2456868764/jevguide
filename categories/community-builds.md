@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1407 | 584 | 830 | 3.0M |
+| 1409 | 584 | 832 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hasegaw/status/2120175652087415061"><img src="https://pbs.twimg.com/media/HWxgWCNbcAAqs8X?format=png&amp;name=medium" alt="Comparing Gemma4 for Jev-like Tasks · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hasegaw/status/2120175652087415061">Comparing Gemma4 for Jev-like Tasks</a></h3>
+<p>The user mentions having a model carry out tasks similar to Jev and asks whether Gemma4 performs well for this method and use case, sparking discussion around Jev-related usage.</p>
+<p><strong>中文摘要：</strong>用户表示正在让模型执行类似 Jev 的任务，并询问在此类方法和用途下 Gemma4 是否表现出色，引发对 Jev 相关使用场景的讨论。</p>
+<p><strong>もつなべおじさん</strong> · @hasegaw · 2026-11-10T15:24:01.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 176</p>
+<p><a href="https://x.com/hasegaw/status/2120175652087415061">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MarstonConnell/status/2120175397174128864"><img src="https://pbs.twimg.com/media/HWvtKFwX0AAJsqM?format=jpg&amp;name=medium" alt="Real-world use of Jev in Slack message routing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MarstonConnell/status/2120175397174128864">Real-world use of Jev in Slack message routing</a></h3>
+<p>Developer Marston Connell shares how he uses TypeSafe AI&#39;s Jev in a custom Slack connector to determine whether a thread reply is intended for the agent Gilles, avoiding noise in large threads.</p>
+<p><strong>中文摘要：</strong>开发者 Marston Connell 分享：通过自定义 Slack 连接器，利用 TypeSafe AI 的 Jev 判断线程回复是否针对 agent Gilles，从而避免在大型线程中向 agent 发送无关消息。</p>
+<p><strong>marston connell</strong> · @MarstonConnell · 2026-11-10T15:23:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><a href="https://x.com/MarstonConnell/status/2120175397174128864">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>

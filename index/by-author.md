@@ -10,7 +10,7 @@
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
 - [Geek Lite](../authors/geek-lite.md) — 15
-- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 14
+- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 15
 - [恒星sun](../authors/恒星sun.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
@@ -839,6 +839,7 @@
 - [pcherkashin.x](../authors/pcherkashin-x.md) — 2
 - [Pentacles（ペンタクルス）🐧✨](../authors/pentacles.md) — 2
 - [Peter Friese](../authors/peter-friese.md) — 2
+- [Phil Renaud](../authors/phil-renaud.md) — 2
 - [Phill](../authors/phill.md) — 2
 - [Pinaki Dasgupta ,MBA ✨](../authors/pinaki-dasgupta-mba.md) — 2
 - [Piyush Patel](../authors/piyush-patel.md) — 2
@@ -2444,6 +2445,7 @@
 - [Ivan Fioravanti](../authors/ivan-fioravanti.md) — 1
 - [Ivan Khokhlov](../authors/ivan-khokhlov.md) — 1
 - [Ivan Makarov](../authors/ivan-makarov.md) — 1
+- [Ivan Misuno 🇺🇦](../authors/ivan-misuno.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
 - [Ivan Panakhno](../authors/ivan-panakhno.md) — 1
 - [ivy](../authors/ivy.md) — 1
@@ -2973,6 +2975,7 @@
 - [Marktechpost AI](../authors/marktechpost-ai.md) — 1
 - [Marlene Mhangami](../authors/marlene-mhangami.md) — 1
 - [Marouane Gazouzi](../authors/marouane-gazouzi.md) — 1
+- [marston connell](../authors/marston-connell.md) — 1
 - [Martijn Verbove](../authors/martijn-verbove.md) — 1
 - [Martín Gaitán ⭐⭐⭐](../authors/martin-gaitan.md) — 1
 - [Martin Høst Normark](../authors/martin-h-st-normark.md) — 1
@@ -2991,6 +2994,7 @@
 - [Matilda](../authors/matilda.md) — 1
 - [Matin SenPai](../authors/matin-senpai.md) — 1
 - [Matius](../authors/matius.md) — 1
+- [Matt Arderne 🌊](../authors/matt-arderne.md) — 1
 - [Matt Biilmann](../authors/matt-biilmann.md) — 1
 - [matt brown](../authors/matt-brown.md) — 1
 - [mattn](../authors/mattn.md) — 1
@@ -4653,6 +4657,7 @@
 - [むらまさ](../authors/jev-showcase.md) — 1
 - [メモリス｜AIボイスメモ](../authors/ai.md) — 1
 - [もっくま(Mistletoe)](../authors/mistletoe.md) — 1
+- [もつなべおじさん](../authors/jev-showcase.md) — 1
 - [もつもつ](../authors/jev-showcase.md) — 1
 - [ヤガシロ@天秤AI(愛)してる](../authors/天秤ai-愛.md) — 1
 - [やなぎだ](../authors/jev-showcase.md) — 1

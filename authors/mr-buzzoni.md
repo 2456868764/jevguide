@@ -1,9 +1,10 @@
 # Mr. Buzzoni
 
-13 Jev showcases.
+14 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T06:44:00.000Z | [Jev + Claude Opus 5.5: Cutting Daily Cost from ~$110 to $4](https://x.com/Mr_Buzzoni/status/2120044787457720498) | 社区实践 | Mr. Buzzoni | 2.0K |
 | 2026-10-28T19:34:25.000Z | [One page turns Obsidian + Opus 5.5 + Jev into a thinking second brain](https://x.com/Mr_Buzzoni/status/2115527626806763917) | 社区实践 | Mr. Buzzoni | 9.3K |
 | 2026-10-12T10:44:00.000Z | [Jev + Claude Opus 5.5: A Practical Cost-Saving Combo](https://x.com/Mr_Buzzoni/status/2109595936389300576) | 社区实践 | Mr. Buzzoni | 898 |
 | 2026-10-09T16:36:57.000Z | [Jev engineering cuts AI bills by 90%](https://x.com/polydao/status/2108597594817474744) | 自动化工作流 | Mr. Buzzoni | 119 |

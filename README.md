@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7160</strong><br>curated posts</td>
-<td align="center"><strong>3534</strong><br>original videos</td>
+<td align="center"><strong>7179</strong><br>curated posts</td>
+<td align="center"><strong>3540</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1392</strong> showcases · <strong>578</strong> videos</p>
+<p><strong>1403</strong> showcases · <strong>583</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>641</strong> showcases · <strong>284</strong> videos</p>
+<p><strong>642</strong> showcases · <strong>285</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,17 +54,23 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>604</strong> showcases · <strong>324</strong> videos</p>
+<p><strong>605</strong> showcases · <strong>324</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>456</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>458</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<h3><a href="categories/gaming.md">Gaming</a></h3>
+<p><sub>游戏</sub></p>
+<p><strong>417</strong> showcases · <strong>307</strong> videos</p>
+<p><a href="categories/gaming.md">Open category →</a></p>
+</td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
@@ -72,15 +78,9 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/gaming.md">Gaming</a></h3>
-<p><sub>游戏</sub></p>
-<p><strong>415</strong> showcases · <strong>306</strong> videos</p>
-<p><a href="categories/gaming.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>403</strong> showcases · <strong>214</strong> videos</p>
+<p><strong>404</strong> showcases · <strong>214</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,13 +88,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>309</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>310</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>201</strong> showcases · <strong>153</strong> videos</p>
+<p><strong>200</strong> showcases · <strong>152</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -188,7 +188,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
 <p><sub>法律合规</sub></p>
-<p><strong>23</strong> showcases · <strong>8</strong> videos</p>
+<p><strong>24</strong> showcases · <strong>8</strong> videos</p>
 <p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/0rdlibrary/status/2118561536109101256"><img src="https://pbs.twimg.com/media/HWakfPcXIAAdXTp?format=jpg&amp;name=medium" alt="TypeSafe AI Jev-Powered ChatGPT Finance Plugin · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2118561536109101256">TypeSafe AI Jev-Powered ChatGPT Finance Plugin</a></h3>
-<p>The author announces a new PumpFun plugin inside ChatGPT, using TypeSafe AI&#39;s Jev for token and financial execution decisions, with OpenAI and Grok for execution.</p>
-<p><strong>172</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 172</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
+<p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Robert Sedovšek</strong> · @sedovsek</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0rdlibrary/status/2118561226028376289"><img src="https://pbs.twimg.com/amplify_video_thumb/2118561133095243776/img/JqHz5JIR0AhEZNPT.jpg" alt="Jev Integrated into Pump.fun Launches · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2118561226028376289">Jev Integrated into Pump.fun Launches</a></h3>
-<p>The author announces integrating TypeSafe AI&#39;s Jev into every Pump.fun token launch, combined with ChatGPT and Solana plugins for trading decisions.</p>
-<p><strong>178</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 178</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/heybackchannel/status/2120119532177989735"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Voice Coffee-Ordering Demo Built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/heybackchannel/status/2120119532177989735">Voice Coffee-Ordering Demo Built with Jev</a></h3>
+<p>@kunalabcdani built a voice coffee-ordering demo using Jev from TypeSafe. Drinks appear in real time as he speaks, while sizes, extra shots, and milk choices update mid-sentence—and a cappuccino can disappear before the sentence ends.</p>
+<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
+<p><strong>backchannel</strong> · @heybackchannel</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2118559210241946046"><img src="https://pbs.twimg.com/media/HWaiYBaaEAAP-7C?format=jpg&amp;name=medium" alt="Jev hired Claude at 92% confidence and accepted the work at 96% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2118559210241946046">Jev hired Claude at 92% confidence and accepted the work at 96%</a></h3>
-<p>This post shows a real Jev agent use case: it hired Claude to execute a task with 92% confidence, accepted the result at 96% confidence, and the proof was minted on-chain by a collector via ripples.run.</p>
-<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
+<a href="https://x.com/Jomolos/status/2120117013142208763"><img src="https://pbs.twimg.com/amplify_video_thumb/2119973761826840576/img/Xeyk3YNOw17wI4pb.jpg" alt="The Jev model: how an AI that can&#39;t write freely picks the next word · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Jomolos/status/2120117013142208763">The Jev model: how an AI that can&#39;t write freely picks the next word</a></h3>
+<p>The post discusses TypeSafe AI&#39;s Jev model, which is not designed to freely generate sentences like ChatGPT. Instead, it lets the AI pick the next word from given content; the experiment is described as both funny and instructive.</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>Can Matrix</strong> · @Jomolos</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/RealAlphaApp/status/2118553980972544161"><img src="https://pbs.twimg.com/media/HWadniJbUAAGd41?format=jpg&amp;name=medium" alt="Jev creator Diogo Almeida on reliability · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RealAlphaApp/status/2118553980972544161">Jev creator Diogo Almeida on reliability</a></h3>
-<p>Diogo Almeida, creator of Jev and cofounder of TypeSafe AI, discusses with Jacob Effron on Unsupervised Learning why reliability matters more than inventing new model shapes. Almeida coauthored OpenAI&#39;s InstructGPT paper and spent two years building Jev in stealth.</p>
-<p><strong>47</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
-<p><strong>Real Alpha</strong> · @RealAlphaApp</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlexTex2001/status/2120111660384096685"><img src="https://pbs.twimg.com/media/HWwl_VDaQAA3bI3?format=jpg&amp;name=medium" alt="Experimenting with Jev to decide CI/CD builds and lints based on PR changes · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlexTex2001/status/2120111660384096685">Experimenting with Jev to decide CI/CD builds and lints based on PR changes</a></h3>
+<p>A developer shares an experiment using Jev to decide which CI/CD builds and lints to run, based on the packages or apps touched by the PR.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ayush Amawate</strong> · @AlexTex2001</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/0rdlibrary/status/2118561536109101256"><img src="https://pbs.twimg.com/media/HWakfPcXIAAdXTp?format=jpg&amp;name=medium" alt="TypeSafe AI Jev-Powered ChatGPT Finance Plugin · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2118561536109101256">TypeSafe AI Jev-Powered ChatGPT Finance Plugin</a></h3>
-<p>The author announces a new PumpFun plugin inside ChatGPT, using TypeSafe AI&#39;s Jev for token and financial execution decisions, with OpenAI and Grok for execution.</p>
-<p><strong>172</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 172</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
+<p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Robert Sedovšek</strong> · @sedovsek</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/RealAlphaApp/status/2118553980972544161"><img src="https://pbs.twimg.com/media/HWadniJbUAAGd41?format=jpg&amp;name=medium" alt="Jev creator Diogo Almeida on reliability · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/RealAlphaApp/status/2118553980972544161">Jev creator Diogo Almeida on reliability</a></h3>
-<p>Diogo Almeida, creator of Jev and cofounder of TypeSafe AI, discusses with Jacob Effron on Unsupervised Learning why reliability matters more than inventing new model shapes. Almeida coauthored OpenAI&#39;s InstructGPT paper and spent two years building Jev in stealth.</p>
-<p><strong>47</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
-<p><strong>Real Alpha</strong> · @RealAlphaApp</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/AlexTex2001/status/2120111660384096685"><img src="https://pbs.twimg.com/media/HWwl_VDaQAA3bI3?format=jpg&amp;name=medium" alt="Experimenting with Jev to decide CI/CD builds and lints based on PR changes · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AlexTex2001/status/2120111660384096685">Experimenting with Jev to decide CI/CD builds and lints based on PR changes</a></h3>
+<p>A developer shares an experiment using Jev to decide which CI/CD builds and lints to run, based on the packages or apps touched by the PR.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ayush Amawate</strong> · @AlexTex2001</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/GoSailGlobal/status/2118548781549625791"><img src="https://pbs.twimg.com/media/HWaYhNoaEAADdnI?format=jpg&amp;name=medium" alt="Jev Best Practices: Only Make Judgments, Let Code Decide · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/GoSailGlobal/status/2118548781549625791">Jev Best Practices: Only Make Judgments, Let Code Decide</a></h3>
-<p>This guide explains the best way to use Jev as a System One model, advises against packing the entire decision into one big multiple-choice question, and uses customer service routing as an example where Jev makes judgments and code makes decisions.</p>
-<p><strong>63</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 63</p>
-<p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
+<a href="https://x.com/AutomatitDevOps/status/2120085604293607921"><img src="https://pbs.twimg.com/media/HWwOnhKXQAA3Yw0?format=jpg&amp;name=medium" alt="Tel Aviv Breakfast &amp; Learn: Typed Decisions with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AutomatitDevOps/status/2120085604293607921">Tel Aviv Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
+<p>Automat-it and AWS are hosting a Breakfast &amp; Learn in Tel Aviv, discussing why not every agent step needs an LLM and how to use Jev for typed decisions such as ticket ownership, which tool to call next, and whether evidence is sufficient.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><strong>Automat-it</strong> · @AutomatitDevOps</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/yoshienagatomo/status/2118518214133256518"><img src="https://pbs.twimg.com/tweet_video_thumb/HWZ0FelbYAEPHz1.jpg" alt="Essential Blog for Jev Users · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yoshienagatomo/status/2118518214133256518">Essential Blog for Jev Users</a></h3>
-<p>This post recommends a must-read blog for Jev users, stating that Jev makes judgments and code is for decision-making.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
-<p><strong>長友好江|AIエージェントの家庭教師</strong> · @yoshienagatomo</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/tantanyuli/status/2120056866285715540"><img src="https://pbs.twimg.com/media/HWpcqb4bAAAP-j0?format=png&amp;name=small" alt="Awesome Jev: 640 Real-World Projects · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/tantanyuli/status/2120056866285715540">Awesome Jev: 640 Real-World Projects</a></h3>
+<p>Awesome Jev collects 640 open-source projects built with Jev assistance, spanning 11 categories and 27 programming languages, with details on Jev&#39;s specific role in each project.</p>
+<p><strong>257</strong> views · 💬 4 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 257</p>
+<p><strong>阳阳</strong> · @tantanyuli</p>
 </td>
 </tr>
 </table>

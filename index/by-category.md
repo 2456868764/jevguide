@@ -1,16 +1,16 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1392
+- [Community builds](../categories/community-builds.md) — 1403
 - [Developer tools](../categories/developer-tools.md) — 674
-- [How it works](../categories/how-it-works.md) — 641
+- [How it works](../categories/how-it-works.md) — 642
 - [Launch news](../categories/launch-news.md) — 611
-- [Agents](../categories/agents.md) — 604
-- [Access updates](../categories/access-updates.md) — 456
+- [Agents](../categories/agents.md) — 605
+- [Access updates](../categories/access-updates.md) — 458
+- [Gaming](../categories/gaming.md) — 417
 - [Developer resources](../categories/developer-resources.md) — 415
-- [Gaming](../categories/gaming.md) — 415
-- [Finance](../categories/finance.md) — 403
-- [Workflow automation](../categories/workflow-automation.md) — 309
-- [Marketing](../categories/marketing.md) — 201
+- [Finance](../categories/finance.md) — 404
+- [Workflow automation](../categories/workflow-automation.md) — 310
+- [Marketing](../categories/marketing.md) — 200
 - [Knowledge & search](../categories/knowledge-search.md) — 144
 - [Content creation](../categories/content-creation.md) — 137
 - [Scientific research](../categories/scientific-research.md) — 132
@@ -24,4 +24,4 @@
 - [Education](../categories/education.md) — 39
 - [Healthcare](../categories/healthcare.md) — 35
 - [E-commerce](../categories/e-commerce.md) — 25
-- [Legal & compliance](../categories/legal-compliance.md) — 23
+- [Legal & compliance](../categories/legal-compliance.md) — 24

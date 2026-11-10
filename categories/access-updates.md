@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 456 | 190 | 266 | 802K |
+| 458 | 190 | 268 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/iam4x/status/2120039268852670939"><img src="https://pbs.twimg.com/media/HWvkSWUXgAAp6Sf?format=jpg&amp;name=medium" alt="Integrating Jev TypeSafe into bot skills for lead scoring · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/iam4x/status/2120039268852670939">Integrating Jev TypeSafe into bot skills for lead scoring</a></h3>
+<p>The author describes a new feature where bots can install their own skills and manage API keys. In the example, Jev TypeSafe is integrated for lead scoring to support better decisions and reduce LLM usage costs.</p>
+<p><strong>中文摘要：</strong>作者介绍了新功能：机器人可自行安装技能并管理 API 密钥。示例中接入 Jev TypeSafe 进行线索评分，帮助做出更好决策并降低 LLM 使用成本。</p>
+<p><strong>iam4x ~ proliquid.xyz</strong> · @iam4x · 2026-11-10T06:22:04.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 5 &nbsp; 📊 674</p>
+<p><a href="https://x.com/iam4x/status/2120039268852670939">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Token360AI/status/2120027390416245007"><img src="https://pbs.twimg.com/media/HWvZrCWa0AAXolb?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14/1.13 Now on Token360 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Token360AI/status/2120027390416245007">TypeSafe Jev 1.14/1.13 Now on Token360</a></h3>
+<p>TypeSafe Jev 1.14 and 1.13 are now available on Token360, supporting text and image input for structured decision-making tasks like routing and classification, with input pricing from $0.042 per 1M tokens.</p>
+<p><strong>中文摘要：</strong>TypeSafe Jev 1.14 和 1.13 已在 Token360 上线，支持文本与图像输入，用于路由、分类等结构化决策场景，输入价格低至每百万 tokens 0.042 美元。</p>
+<p><strong>Token360</strong> · @Token360AI · 2026-11-10T05:34:52.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><a href="https://x.com/Token360AI/status/2120027390416245007">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/InfronAI/status/2118535336901095845"><img src="https://pbs.twimg.com/media/HWaMpncWwAAQFM6?format=jpg&amp;name=medium" alt="Jev 1.14 and d1-ultra are now available on Infron · 原帖图片" width="100%"></a>

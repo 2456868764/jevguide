@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 415 | 306 | 113 | 588K |
+| 417 | 307 | 114 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/daitasu/status/2120083273070289132"><img src="https://pbs.twimg.com/amplify_video_thumb/2120082848569049088/img/4uIoczk4PzvL5xD2.jpg" alt="AIMAI: A Jev-Powered Game of Ambiguous Japanese · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/daitasu/status/2120083273070289132">AIMAI: A Jev-Powered Game of Ambiguous Japanese</a></h3>
+<p>A developer built AIMAI with Jev, a game where players use deliberately vague Japanese phrases to baffle an AI into 50:50 judgments and aim for the top score.</p>
+<p><strong>中文摘要：</strong>开发者使用Jev制作了一款游戏，让玩家用最模糊的日语表达使AI陷入50:50的两难判断，争夺最高分。</p>
+<p><strong>daitasu</strong> · @daitasu · 2026-11-10T09:16:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 328</p>
+<p><a href="https://x.com/daitasu/status/2120083273070289132">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0xBishu/status/2120012534522736890"><img src="https://pbs.twimg.com/media/HWvMJ4EbsAAtMrQ?format=jpg&amp;name=medium" alt="Play retro co-op games in your browser with Jev AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xBishu/status/2120012534522736890">Play retro co-op games in your browser with Jev AI</a></h3>
+<p>No trading balance needed. @termix_ai&#39;s jev fc buddy lets you play retro co-op games in your browser with AI as player 2. The campaign costs 1 USDC—a simple way to explore an agent marketplace.</p>
+<p><strong>中文摘要：</strong>无需交易账户，通过 @termix_ai 的 jev fc buddy，在浏览器中与 AI 作为玩家2一起玩复古合作游戏，战役仅需 1 USDC，是体验 agent marketplace 的轻量入口。</p>
+<p><strong>Bishu</strong> · @0xBishu · 2026-11-10T04:35:50.000Z</p>
+<p>💬 81 &nbsp; 🔁 14 &nbsp; ♡ 109 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/0xBishu/status/2120012534522736890">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hammer0x419/status/2118459324175454470"><img src="https://pbs.twimg.com/media/HWZHh5XX0AAeaZL?format=jpg&amp;name=medium" alt="JEV-Powered CS 1.6 AI Duel Experiment · 原帖图片" width="100%"></a>

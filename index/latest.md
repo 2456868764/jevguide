@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T14:44:00.000Z | [Jev Harness PDF Share: Speed and Cost Optimization](https://x.com/savvy_luvvvv/status/2120165582553190908) | 开发资源 | Ling | 7 |
+| 2026-11-10T14:43:55.000Z | [EUR/USD long scenario with Jev assessment](https://x.com/hadohunter/status/2120165561057644974) | 金融 | HadoHunter | 25 |
+| 2026-11-10T14:35:59.000Z | [JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points](https://x.com/ForgeAI_gg/status/2120163565977935918) | 智能体 | ForgeAI | 9 |
+| 2026-11-10T14:29:00.000Z | [Survey on Jev Model Adoption Trends in Vercel AI Gateway](https://x.com/DeepInsightLabs/status/2120161807717236807) | 数据分析 | Deep Insight Labs | 26 |
+| 2026-11-10T14:27:29.000Z | [Jev and 6 Other AI Models Are Currently Free](https://x.com/0xDrexo/status/2120161426627322043) | 接入动态 | Drexo | 22 |
+| 2026-11-10T14:24:22.000Z | [Decision models primitive lands in Transformers, with Jev as a reference](https://x.com/LysandreJik/status/2120160642934157609) | 接入动态 | Lysandre | 1.4K |
 | 2026-11-10T13:58:48.000Z | [Kolek: Cataloging tool for the lazy collector](https://x.com/ashthepeasant/status/2120154207215026368) | 开发者工具 | Asfar Sadewa | 2 |
 | 2026-11-10T13:49:34.000Z | [Open-Source Email Prompt Injection Defense with Jev](https://x.com/kevintheo/status/2120151885915062310) | 网络安全 | Kevin Theo | 26 |
 | 2026-11-10T12:14:45.000Z | [7 AI models are free right now](https://x.com/MATKA_r/status/2120128023743910046) | 产品发布 | Moeez | 944 |
@@ -96,9 +102,3 @@
 | 2026-11-05T15:06:19.000Z | [Using JEV to Rank Sentence Refinements While Writing](https://x.com/kirancodes/status/2118359260958703905) | 科研 | Kiran | 922 |
 | 2026-11-05T15:00:26.000Z | [Jev gets 139 of 200 emotion development cases right](https://x.com/davidwbressler/status/2118357779559710756) | 科研 | David Bressler | 2 |
 | 2026-11-05T14:49:48.000Z | [Jev Reviews EUR/USD Bullish Scenario](https://x.com/hadohunter/status/2118355104378319012) | 金融 | HadoHunter | 20 |
-| 2026-11-05T14:35:57.000Z | [JEV Drives Action Selection in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2118351617166626938) | 智能体 | ForgeAI | 17 |
-| 2026-11-05T14:34:14.000Z | [Jev: AI agents that handle tasks autonomously](https://x.com/HeyAmit_/status/2118351184847389070) | 智能体 | Amit | 1.7K |
-| 2026-11-05T14:30:00.000Z | [Testing Jev Model for Lead Selection](https://x.com/ramsis_ai/status/2118350121385459792) | 社区实践 | Ramsis Hammadi | 11 |
-| 2026-11-05T14:14:36.000Z | [Jev App Triggers: Enabling Proactive AI Agents](https://x.com/soulful__ai/status/2118346243537539248) | 智能体 | Soulful Ai | 1.0K |
-| 2026-11-05T14:10:30.000Z | [Jev-Powered Triggers for AI Agents](https://x.com/NovaXCode/status/2118345213186134178) | 智能体 | Nova | 350 |
-| 2026-11-05T14:06:41.000Z | [Set up app triggers with Jev](https://x.com/rewind02/status/2118344253428367624) | 自动化工作流 | rewind | 52 |

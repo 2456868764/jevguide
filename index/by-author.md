@@ -5,8 +5,8 @@
 - [8Bit🦞](../authors/8bit.md) — 31
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
 - [Florian S](../authors/florian-s.md) — 22
+- [HadoHunter](../authors/hadohunter.md) — 20
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
-- [HadoHunter](../authors/hadohunter.md) — 19
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
 - [Geek Lite](../authors/geek-lite.md) — 15
@@ -41,6 +41,7 @@
 - [Arindam Majumder 𝕏](../authors/arindam-majumder-x.md) — 8
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
+- [ForgeAI](../authors/forgeai.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
 - [rewind](../authors/rewind.md) — 8
@@ -51,9 +52,9 @@
 - [AVB](../authors/avb.md) — 7
 - [bl888m](../authors/bl888m.md) — 7
 - [Clawd🦞](../authors/clawd.md) — 7
+- [Deep Insight Labs](../authors/deep-insight-labs.md) — 7
 - [elvis](../authors/elvis.md) — 7
 - [Fluixo](../authors/fluixo.md) — 7
-- [ForgeAI](../authors/forgeai.md) — 7
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 7
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
 - [Kirk Borne](../authors/kirk-borne.md) — 7
@@ -74,7 +75,6 @@
 - [barnyx](../authors/barnyx.md) — 6
 - [Chrome](../authors/chrome.md) — 6
 - [davepoon](../authors/davepoon.md) — 6
-- [Deep Insight Labs](../authors/deep-insight-labs.md) — 6
 - [Diogo Almeida](../authors/diogo-almeida.md) — 6
 - [Doug Finke](../authors/doug-finke.md) — 6
 - [Grimmer](../authors/grimmer.md) — 6
@@ -736,6 +736,7 @@
 - [Luc Allain](../authors/luc-allain.md) — 2
 - [Luis](../authors/luis.md) — 2
 - [Lynx](../authors/lynx.md) — 2
+- [Lysandre](../authors/lysandre.md) — 2
 - [M Lakshmanan](../authors/m-lakshmanan.md) — 2
 - [mac](../authors/mac.md) — 2
 - [Machine Learning](../authors/machine-learning.md) — 2
@@ -1962,6 +1963,7 @@
 - [DreaM](../authors/dream.md) — 1
 - [dresh](../authors/dresh.md) — 1
 - [drew ☤](../authors/drew.md) — 1
+- [Drexo](../authors/drexo.md) — 1
 - [DreykØ](../authors/dreyk.md) — 1
 - [DROID](../authors/droid.md) — 1
 - [Dropship Calendar](../authors/dropship-calendar.md) — 1
@@ -2846,6 +2848,7 @@
 - [lil room](../authors/lil-room.md) — 1
 - [LiLens](../authors/lilens.md) — 1
 - [Lily](../authors/lily.md) — 1
+- [Ling](../authors/ling.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
 - [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1
@@ -2897,7 +2900,6 @@
 - [lyra bubbles](../authors/lyra-bubbles.md) — 1
 - [Lyren_o](../authors/lyren-o.md) — 1
 - [Lyric🌀](../authors/lyric.md) — 1
-- [Lysandre](../authors/lysandre.md) — 1
 - [m.kito👹](../authors/m-kito.md) — 1
 - [Ma'ruf](../authors/ma-ruf.md) — 1
 - [Maail](../authors/maail.md) — 1

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 459 | 190 | 269 | 802K |
+| 461 | 190 | 271 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0xDrexo/status/2120161426627322043"><img src="https://pbs.twimg.com/media/HWxTkxgasAEdY3w?format=jpg&amp;name=medium" alt="Jev and 6 Other AI Models Are Currently Free · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0xDrexo/status/2120161426627322043">Jev and 6 Other AI Models Are Currently Free</a></h3>
+<p>The post lists 7 AI models currently free to access, including Jev, with a link to browse and use them on the platform.</p>
+<p><strong>中文摘要：</strong>该帖列出了当前可免费访问的 7 个 AI 模型，其中包含 Jev，并提供了查看和使用的平台链接。</p>
+<p><strong>Drexo</strong> · @0xDrexo · 2026-11-10T14:27:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><a href="https://x.com/0xDrexo/status/2120161426627322043">在 X 查看原帖</a> · <a href="https://t.co/8I70GXwUfD">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LysandreJik/status/2120160642934157609"><img src="https://pbs.twimg.com/media/HWxS3mxbEAA5AZ0?format=jpg&amp;name=medium" alt="Decision models primitive lands in Transformers, with Jev as a reference · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/LysandreJik/status/2120160642934157609">Decision models primitive lands in Transformers, with Jev as a reference</a></h3>
+<p>A new decision models primitive has landed in HF Transformers. The post highlights @typesafeai&#39;s Jev as one of the representative decision models, calling the addition more significant than supporting any single model.</p>
+<p><strong>中文摘要：</strong>Hugging Face Transformers 引入 decision models 基础能力，帖子提到 @typesafeai 的 Jev 作为代表性决策模型，认为该原语比支持单个模型更重要。</p>
+<p><strong>Lysandre</strong> · @LysandreJik · 2026-11-10T14:24:22.000Z</p>
+<p>💬 2 &nbsp; 🔁 5 &nbsp; ♡ 15 &nbsp; 📊 1.4K</p>
+<p><a href="https://x.com/LysandreJik/status/2120160642934157609">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/iam4x/status/2120039268852670939"><img src="https://pbs.twimg.com/media/HWvkSWUXgAAp6Sf?format=jpg&amp;name=medium" alt="Integrating Jev TypeSafe into bot skills for lead scoring · 原帖图片" width="100%"></a>

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7201</strong><br>curated posts</td>
-<td align="center"><strong>3548</strong><br>original videos</td>
+<td align="center"><strong>7207</strong><br>curated posts</td>
+<td align="center"><strong>3549</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -54,13 +54,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>607</strong> showcases · <strong>325</strong> videos</p>
+<p><strong>608</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>459</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>461</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>418</strong> showcases · <strong>161</strong> videos</p>
+<p><strong>419</strong> showcases · <strong>162</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>408</strong> showcases · <strong>215</strong> videos</p>
+<p><strong>409</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>122</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>123</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/ashthepeasant/status/2120154207215026368"><img src="https://pbs.twimg.com/amplify_video_thumb/2120152044157976576/img/zmiYt0mP7-Oup7Ss.jpg" alt="Kolek: Cataloging tool for the lazy collector · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ashthepeasant/status/2120154207215026368">Kolek: Cataloging tool for the lazy collector</a></h3>
-<p>Asfar Sadewa showcases Kolek, a cataloging app for lazy collectors, which mixes Opus 5.5, Decisions API, and Jev to simplify collection organization.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Asfar Sadewa</strong> · @ashthepeasant</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/savvy_luvvvv/status/2120165582553190908"><img src="https://pbs.twimg.com/amplify_video_thumb/2119917052924211200/img/UuBjjKsYqApQSmO2.jpg" alt="Jev Harness PDF Share: Speed and Cost Optimization · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/savvy_luvvvv/status/2120165582553190908">Jev Harness PDF Share: Speed and Cost Optimization</a></h3>
+<p>This PDF, released by Jev founder Diogo Almeida, explains how to build a Jev harness, claiming up to 200x faster speed and 400x lower cost, with a linked article for usage guidance.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><strong>Ling</strong> · @savvy_luvvvv</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
-<a href="https://x.com/kevintheo/status/2120151885915062310"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120143504697442304/pu/img/DqCgnRaZgi0pK3Ui.jpg" alt="Open-Source Email Prompt Injection Defense with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/kevintheo/status/2120151885915062310">Open-Source Email Prompt Injection Defense with Jev</a></h3>
-<p>Kevin Theo shares how Jev protects agents from email prompt injection and releases the MIT-licensed open-source repo email-ops. On 1,102 texts, Jev detected 82.6% of 528 prompt injections and raised only 4 false alarms on 574 harmless ones.</p>
-<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 26</p>
-<p><strong>Kevin Theo</strong> · @kevintheo</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2120165561057644974"><img src="https://pbs.twimg.com/media/HWxXV7PbAAI6Ox8?format=jpg&amp;name=medium" alt="EUR/USD long scenario with Jev assessment · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2120165561057644974">EUR/USD long scenario with Jev assessment</a></h3>
+<p>HadoHunter shares an EUR/USD long idea with entry 1.11827, target 1.12514, stop 1.11549, reward/risk 2.47. Jev assessment: not supported (25% certainty).</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/MATKA_r/status/2120128023743910046"><img src="https://pbs.twimg.com/media/HWw1Mm-WcAEnnm9?format=jpg&amp;name=900x900" alt="7 AI models are free right now · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/MATKA_r/status/2120128023743910046">7 AI models are free right now</a></h3>
-<p>The post lists 7 AI models currently free, including Claude Fable 5.2, Claude Haiku 5.5, GPT-6 Luna, DeepSeek V4.1 Flash, DeepSeek V4.1 Flash 1017, Clef, and Jev, with a link to the platform&#39;s models page.</p>
-<p><strong>944</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 24 &nbsp; 📊 944</p>
-<p><strong>Moeez</strong> · @MATKA_r</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/ForgeAI_gg/status/2120163565977935918"><img src="https://pbs.twimg.com/media/HWxVhwJWIAAFrRa?format=jpg&amp;name=medium" alt="JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ForgeAI_gg/status/2120163565977935918">JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points</a></h3>
+<p>ForgeAI shares results from a multi-model benchmark: 4,767 moves across 6 runs, with the top 5 models finishing within 214 points. In ForgeAI-hosted agents, the model writes the plan and JEV selects each move.</p>
+<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/kecan0406dev/status/2120125697608077523"><img src="https://pbs.twimg.com/media/HWwrrtwaYAAIipC?format=jpg&amp;name=medium" alt="Real-Time Prompt Suggestion Tool Using Jev and Clef · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kecan0406dev/status/2120125697608077523">Real-Time Prompt Suggestion Tool Using Jev and Clef</a></h3>
-<p>The author is building a tool that uses models like Jev and Clef to analyze the prompt being typed in real time and suggest additional terms, improving context expansion better than expected.</p>
-<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 170</p>
-<p><strong>kecan</strong> · @kecan0406dev</p>
+<p><strong>04</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<a href="https://x.com/DeepInsightLabs/status/2120161807717236807"><img src="https://pbs.twimg.com/media/HWvmM9tbAAAeXmc?format=jpg&amp;name=medium" alt="Survey on Jev Model Adoption Trends in Vercel AI Gateway · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DeepInsightLabs/status/2120161807717236807">Survey on Jev Model Adoption Trends in Vercel AI Gateway</a></h3>
+<p>Deep Insight Labs presents the System One survey, analyzing Jev and its competitors&#39; share of Vercel AI Gateway requests and spend, questioning whether this is a real paradigm shift.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/ashthepeasant/status/2120154207215026368"><img src="https://pbs.twimg.com/amplify_video_thumb/2120152044157976576/img/zmiYt0mP7-Oup7Ss.jpg" alt="Kolek: Cataloging tool for the lazy collector · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ashthepeasant/status/2120154207215026368">Kolek: Cataloging tool for the lazy collector</a></h3>
-<p>Asfar Sadewa showcases Kolek, a cataloging app for lazy collectors, which mixes Opus 5.5, Decisions API, and Jev to simplify collection organization.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Asfar Sadewa</strong> · @ashthepeasant</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖视频</code></p>
+<a href="https://x.com/savvy_luvvvv/status/2120165582553190908"><img src="https://pbs.twimg.com/amplify_video_thumb/2119917052924211200/img/UuBjjKsYqApQSmO2.jpg" alt="Jev Harness PDF Share: Speed and Cost Optimization · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/savvy_luvvvv/status/2120165582553190908">Jev Harness PDF Share: Speed and Cost Optimization</a></h3>
+<p>This PDF, released by Jev founder Diogo Almeida, explains how to build a Jev harness, claiming up to 200x faster speed and 400x lower cost, with a linked article for usage guidance.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 7</p>
+<p><strong>Ling</strong> · @savvy_luvvvv</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/kecan0406dev/status/2120125697608077523"><img src="https://pbs.twimg.com/media/HWwrrtwaYAAIipC?format=jpg&amp;name=medium" alt="Real-Time Prompt Suggestion Tool Using Jev and Clef · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/kecan0406dev/status/2120125697608077523">Real-Time Prompt Suggestion Tool Using Jev and Clef</a></h3>
-<p>The author is building a tool that uses models like Jev and Clef to analyze the prompt being typed in real time and suggest additional terms, improving context expansion better than expected.</p>
-<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 170</p>
-<p><strong>kecan</strong> · @kecan0406dev</p>
+<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<a href="https://x.com/DeepInsightLabs/status/2120161807717236807"><img src="https://pbs.twimg.com/media/HWvmM9tbAAAeXmc?format=jpg&amp;name=medium" alt="Survey on Jev Model Adoption Trends in Vercel AI Gateway · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DeepInsightLabs/status/2120161807717236807">Survey on Jev Model Adoption Trends in Vercel AI Gateway</a></h3>
+<p>Deep Insight Labs presents the System One survey, analyzing Jev and its competitors&#39; share of Vercel AI Gateway requests and spend, questioning whether this is a real paradigm shift.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><strong>Deep Insight Labs</strong> · @DeepInsightLabs</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xDrexo/status/2120161426627322043"><img src="https://pbs.twimg.com/media/HWxTkxgasAEdY3w?format=jpg&amp;name=medium" alt="Jev and 6 Other AI Models Are Currently Free · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xDrexo/status/2120161426627322043">Jev and 6 Other AI Models Are Currently Free</a></h3>
+<p>The post lists 7 AI models currently free to access, including Jev, with a link to browse and use them on the platform.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 22</p>
+<p><strong>Drexo</strong> · @0xDrexo</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
 <p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
 <p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><strong>Robert Sedovšek</strong> · @sedovsek</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/daitasu/status/2120084436683460822"><img src="https://pbs.twimg.com/amplify_video_thumb/2120082848569049088/img/4uIoczk4PzvL5xD2.jpg" alt="User shares something built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/daitasu/status/2120084436683460822">User shares something built with Jev</a></h3>
-<p>The author shares on social media that they used Jev to create something they had always wanted to try.</p>
-<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
-<p><strong>daitasu</strong> · @daitasu</p>
 </td>
 </tr>
 </table>

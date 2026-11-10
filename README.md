@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7179</strong><br>curated posts</td>
-<td align="center"><strong>3540</strong><br>original videos</td>
+<td align="center"><strong>7201</strong><br>curated posts</td>
+<td align="center"><strong>3548</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1403</strong> showcases · <strong>583</strong> videos</p>
+<p><strong>1407</strong> showcases · <strong>584</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>674</strong> showcases · <strong>331</strong> videos</p>
+<p><strong>676</strong> showcases · <strong>332</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,39 +48,39 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>611</strong> showcases · <strong>272</strong> videos</p>
+<p><strong>613</strong> showcases · <strong>272</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>605</strong> showcases · <strong>324</strong> videos</p>
+<p><strong>607</strong> showcases · <strong>325</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>458</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>459</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/gaming.md">Gaming</a></h3>
-<p><sub>游戏</sub></p>
-<p><strong>417</strong> showcases · <strong>307</strong> videos</p>
-<p><a href="categories/gaming.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>415</strong> showcases · <strong>160</strong> videos</p>
+<p><strong>418</strong> showcases · <strong>161</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/gaming.md">Gaming</a></h3>
+<p><sub>游戏</sub></p>
+<p><strong>418</strong> showcases · <strong>308</strong> videos</p>
+<p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>404</strong> showcases · <strong>214</strong> videos</p>
+<p><strong>408</strong> showcases · <strong>215</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>132</strong> showcases · <strong>37</strong> videos</p>
+<p><strong>133</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>121</strong> showcases · <strong>63</strong> videos</p>
+<p><strong>122</strong> showcases · <strong>63</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>92</strong> showcases · <strong>29</strong> videos</p>
+<p><strong>93</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
-<p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Robert Sedovšek</strong> · @sedovsek</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/ashthepeasant/status/2120154207215026368"><img src="https://pbs.twimg.com/amplify_video_thumb/2120152044157976576/img/zmiYt0mP7-Oup7Ss.jpg" alt="Kolek: Cataloging tool for the lazy collector · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ashthepeasant/status/2120154207215026368">Kolek: Cataloging tool for the lazy collector</a></h3>
+<p>Asfar Sadewa showcases Kolek, a cataloging app for lazy collectors, which mixes Opus 5.5, Decisions API, and Jev to simplify collection organization.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Asfar Sadewa</strong> · @ashthepeasant</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/heybackchannel/status/2120119532177989735"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Voice Coffee-Ordering Demo Built with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/heybackchannel/status/2120119532177989735">Voice Coffee-Ordering Demo Built with Jev</a></h3>
-<p>@kunalabcdani built a voice coffee-ordering demo using Jev from TypeSafe. Drinks appear in real time as he speaks, while sizes, extra shots, and milk choices update mid-sentence—and a cappuccino can disappear before the sentence ends.</p>
-<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 53</p>
-<p><strong>backchannel</strong> · @heybackchannel</p>
+<p><strong>02</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/kevintheo/status/2120151885915062310"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120143504697442304/pu/img/DqCgnRaZgi0pK3Ui.jpg" alt="Open-Source Email Prompt Injection Defense with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/kevintheo/status/2120151885915062310">Open-Source Email Prompt Injection Defense with Jev</a></h3>
+<p>Kevin Theo shares how Jev protects agents from email prompt injection and releases the MIT-licensed open-source repo email-ops. On 1,102 texts, Jev detected 82.6% of 528 prompt injections and raised only 4 false alarms on 574 harmless ones.</p>
+<p><strong>26</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 26</p>
+<p><strong>Kevin Theo</strong> · @kevintheo</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/Jomolos/status/2120117013142208763"><img src="https://pbs.twimg.com/amplify_video_thumb/2119973761826840576/img/Xeyk3YNOw17wI4pb.jpg" alt="The Jev model: how an AI that can&#39;t write freely picks the next word · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Jomolos/status/2120117013142208763">The Jev model: how an AI that can&#39;t write freely picks the next word</a></h3>
-<p>The post discusses TypeSafe AI&#39;s Jev model, which is not designed to freely generate sentences like ChatGPT. Instead, it lets the AI pick the next word from given content; the experiment is described as both funny and instructive.</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>Can Matrix</strong> · @Jomolos</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/MATKA_r/status/2120128023743910046"><img src="https://pbs.twimg.com/media/HWw1Mm-WcAEnnm9?format=jpg&amp;name=900x900" alt="7 AI models are free right now · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MATKA_r/status/2120128023743910046">7 AI models are free right now</a></h3>
+<p>The post lists 7 AI models currently free, including Claude Fable 5.2, Claude Haiku 5.5, GPT-6 Luna, DeepSeek V4.1 Flash, DeepSeek V4.1 Flash 1017, Clef, and Jev, with a link to the platform&#39;s models page.</p>
+<p><strong>944</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 24 &nbsp; 📊 944</p>
+<p><strong>Moeez</strong> · @MATKA_r</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexTex2001/status/2120111660384096685"><img src="https://pbs.twimg.com/media/HWwl_VDaQAA3bI3?format=jpg&amp;name=medium" alt="Experimenting with Jev to decide CI/CD builds and lints based on PR changes · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexTex2001/status/2120111660384096685">Experimenting with Jev to decide CI/CD builds and lints based on PR changes</a></h3>
-<p>A developer shares an experiment using Jev to decide which CI/CD builds and lints to run, based on the packages or apps touched by the PR.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Ayush Amawate</strong> · @AlexTex2001</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/kecan0406dev/status/2120125697608077523"><img src="https://pbs.twimg.com/media/HWwrrtwaYAAIipC?format=jpg&amp;name=medium" alt="Real-Time Prompt Suggestion Tool Using Jev and Clef · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kecan0406dev/status/2120125697608077523">Real-Time Prompt Suggestion Tool Using Jev and Clef</a></h3>
+<p>The author is building a tool that uses models like Jev and Clef to analyze the prompt being typed in real time and suggest additional terms, improving context expansion better than expected.</p>
+<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 170</p>
+<p><strong>kecan</strong> · @kecan0406dev</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/ashthepeasant/status/2120154207215026368"><img src="https://pbs.twimg.com/amplify_video_thumb/2120152044157976576/img/zmiYt0mP7-Oup7Ss.jpg" alt="Kolek: Cataloging tool for the lazy collector · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ashthepeasant/status/2120154207215026368">Kolek: Cataloging tool for the lazy collector</a></h3>
+<p>Asfar Sadewa showcases Kolek, a cataloging app for lazy collectors, which mixes Opus 5.5, Decisions API, and Jev to simplify collection organization.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Asfar Sadewa</strong> · @ashthepeasant</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/kecan0406dev/status/2120125697608077523"><img src="https://pbs.twimg.com/media/HWwrrtwaYAAIipC?format=jpg&amp;name=medium" alt="Real-Time Prompt Suggestion Tool Using Jev and Clef · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/kecan0406dev/status/2120125697608077523">Real-Time Prompt Suggestion Tool Using Jev and Clef</a></h3>
+<p>The author is building a tool that uses models like Jev and Clef to analyze the prompt being typed in real time and suggest additional terms, improving context expansion better than expected.</p>
+<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 170</p>
+<p><strong>kecan</strong> · @kecan0406dev</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/sedovsek/status/2120124602508825052"><img src="https://pbs.twimg.com/media/HWwwbPMXAAA63Db?format=jpg&amp;name=medium" alt="Discussion on JEV gating and email redaction · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/sedovsek/status/2120124602508825052">Discussion on JEV gating and email redaction</a></h3>
 <p>Robert Sedovšek references a PostHog decision-model diagram, discussing the use of JEV as a decision gate and whether all incoming emails could simply be redacted to bypass JEV and a more expensive model.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>Robert Sedovšek</strong> · @sedovsek</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexTex2001/status/2120111660384096685"><img src="https://pbs.twimg.com/media/HWwl_VDaQAA3bI3?format=jpg&amp;name=medium" alt="Experimenting with Jev to decide CI/CD builds and lints based on PR changes · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexTex2001/status/2120111660384096685">Experimenting with Jev to decide CI/CD builds and lints based on PR changes</a></h3>
-<p>A developer shares an experiment using Jev to decide which CI/CD builds and lints to run, based on the packages or apps touched by the PR.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Ayush Amawate</strong> · @AlexTex2001</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/AutomatitDevOps/status/2120085604293607921"><img src="https://pbs.twimg.com/media/HWwOnhKXQAA3Yw0?format=jpg&amp;name=medium" alt="Tel Aviv Breakfast &amp; Learn: Typed Decisions with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AutomatitDevOps/status/2120085604293607921">Tel Aviv Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
-<p>Automat-it and AWS are hosting a Breakfast &amp; Learn in Tel Aviv, discussing why not every agent step needs an LLM and how to use Jev for typed decisions such as ticket ownership, which tool to call next, and whether evidence is sufficient.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
-<p><strong>Automat-it</strong> · @AutomatitDevOps</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/tantanyuli/status/2120056866285715540"><img src="https://pbs.twimg.com/media/HWpcqb4bAAAP-j0?format=png&amp;name=small" alt="Awesome Jev: 640 Real-World Projects · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/tantanyuli/status/2120056866285715540">Awesome Jev: 640 Real-World Projects</a></h3>
-<p>Awesome Jev collects 640 open-source projects built with Jev assistance, spanning 11 categories and 27 programming languages, with details on Jev&#39;s specific role in each project.</p>
-<p><strong>257</strong> views · 💬 4 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 257</p>
-<p><strong>阳阳</strong> · @tantanyuli</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/daitasu/status/2120084436683460822"><img src="https://pbs.twimg.com/amplify_video_thumb/2120082848569049088/img/4uIoczk4PzvL5xD2.jpg" alt="User shares something built with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/daitasu/status/2120084436683460822">User shares something built with Jev</a></h3>
+<p>The author shares on social media that they used Jev to create something they had always wanted to try.</p>
+<p><strong>69</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 69</p>
+<p><strong>daitasu</strong> · @daitasu</p>
 </td>
 </tr>
 </table>

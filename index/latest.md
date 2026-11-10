@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T13:58:48.000Z | [Kolek: Cataloging tool for the lazy collector](https://x.com/ashthepeasant/status/2120154207215026368) | 开发者工具 | Asfar Sadewa | 2 |
+| 2026-11-10T13:49:34.000Z | [Open-Source Email Prompt Injection Defense with Jev](https://x.com/kevintheo/status/2120151885915062310) | 网络安全 | Kevin Theo | 26 |
+| 2026-11-10T12:14:45.000Z | [7 AI models are free right now](https://x.com/MATKA_r/status/2120128023743910046) | 产品发布 | Moeez | 944 |
+| 2026-11-10T12:05:30.000Z | [Real-Time Prompt Suggestion Tool Using Jev and Clef](https://x.com/kecan0406dev/status/2120125697608077523) | 开发者工具 | kecan | 170 |
 | 2026-11-10T12:01:09.000Z | [Discussion on JEV gating and email redaction](https://x.com/sedovsek/status/2120124602508825052) | 社区实践 | Robert Sedovšek | 3 |
 | 2026-11-10T11:41:01.000Z | [Voice Coffee-Ordering Demo Built with Jev](https://x.com/heybackchannel/status/2120119532177989735) | 社区实践 | backchannel | 53 |
 | 2026-11-10T11:31:00.000Z | [The Jev model: how an AI that can't write freely picks the next word](https://x.com/Jomolos/status/2120117013142208763) | 工作原理 | Can Matrix | 25 |
@@ -22,6 +26,24 @@
 | 2026-11-10T04:02:15.000Z | [Running a vocal cord emulator on Jev](https://x.com/vesperworks/status/2120004082387825033) | 社区实践 | むらい室長 | 99 |
 | 2026-11-10T02:26:09.000Z | [Headron brings enterprise-grade action receipts and policy enforcement to Jev and other AI agents](https://x.com/HeadronSoftware/status/2119979895614743026) | 法律合规 | Headron Software \| Agent Enforcement | 49 |
 | 2026-11-10T02:18:57.000Z | [Jev Used in AUD/JPY FX Short Scenario Assessment](https://x.com/hadohunter/status/2119978084002935024) | 金融 | HadoHunter | 56 |
+| 2026-11-10T00:48:56.000Z | [Decentralized Hedge Funds and the JEV Decision Engine](https://x.com/0rdlibrary/status/2119955431992840441) | 金融 | 8Bit🦞 | 271 |
+| 2026-11-10T00:33:41.000Z | [Infinite Alchemy Integrates Jev for Semantic Sorting](https://x.com/ShrivuShankar/status/2119951595844841951) | 游戏 | Shrivu Shankar | 344 |
+| 2026-11-10T00:14:32.000Z | [TypeSafe AI Unveils Jev Decision Model](https://x.com/SalesforceNews/status/2119946775716831501) | 产品发布 | Salesforce News & Insights | 273 |
+| 2026-11-09T23:30:00.000Z | [Jev Tutorial: How to Ask Questions and Use Answers](https://x.com/LittleMomentsTH/status/2119935568452751560) | 社区实践 | Little Moments | 159 |
+| 2026-11-09T22:48:25.000Z | [User over-seeded TypeSafe account after Jev launch](https://x.com/jbarrieault/status/2119925103408320678) | 社区实践 | Jacob Barrieault | 48 |
+| 2026-11-09T21:47:19.000Z | [Jev video labeling cost test](https://x.com/hammer_mt/status/2119909725403828624) | 数据分析 | Mike Taylor | 35 |
+| 2026-11-09T21:43:03.000Z | [JEV Agent Experiment in GTA V](https://x.com/hammer0x419/status/2119908654103118082) | 智能体 | Hammer0x419 | 40 |
+| 2026-11-09T20:57:41.000Z | [Jev Model PDF Resource Share](https://x.com/kinox1out/status/2119897237543063849) | 开发资源 | Kinox | 44 |
+| 2026-11-09T20:40:13.000Z | [Voice coffee ordering with Jev, ~200ms UI updates](https://x.com/kunalabcdani/status/2119892841723990319) | 智能体 | Kunal Abichandani | 38K |
+| 2026-11-09T20:36:56.000Z | [Foundation models diverging: Jev as general-purpose decision model](https://x.com/rayruizhiliao/status/2119892015290925542) | 科研 | Ray Liao | 784 |
+| 2026-11-09T20:14:18.000Z | [Arcade, Mastra, and Jev Host Workshop on Agents Acting on Sensitive Data](https://x.com/TryArcade/status/2119886319921070241) | 社区实践 | Arcade.dev \| The Actions Runtime | 235 |
+| 2026-11-09T20:08:26.000Z | [How Decider models like Jev and AWS Strands Decider achieve massive cost savings](https://x.com/RDarrylR/status/2119884841080541665) | 开发资源 | Darryl Ruggles | 1.1K |
+| 2026-11-09T19:16:40.000Z | [English Tutorial: How to Train a Decision Model (Jev)](https://x.com/fabriciocarraro/status/2119871814386217104) | 开发资源 | Fabrício Carraro | 202 |
+| 2026-11-09T18:59:35.000Z | [AUD/USD AI Short Scenario with Jev Review](https://x.com/hadohunter/status/2119867514536751237) | 金融 | HadoHunter | 44 |
+| 2026-11-09T18:36:40.000Z | [Jev NYC Jam Invitation](https://x.com/AlexSlobodnik/status/2119861746865192971) | 社区实践 | Slobo | 721 |
+| 2026-11-09T18:21:58.000Z | [Built a memecoin trading bot with Grok x Jev](https://x.com/ellfyy_/status/2119858050588709142) | 金融 | Elf | 224 |
+| 2026-11-09T18:15:19.000Z | [Jev 1.13 ranks among top decision models in PI Trading Arena](https://x.com/joelsstafford/status/2119856372984775143) | 金融 | Joel 🌊 | 127 |
+| 2026-11-09T18:04:18.000Z | [Jev and More Decision Models Now on Infron](https://x.com/InfronAI/status/2119853603351314596) | 接入动态 | Infron | 134 |
 | 2026-11-06T04:30:05.000Z | [TypeSafe AI Jev-Powered ChatGPT Finance Plugin](https://x.com/0rdlibrary/status/2118561536109101256) | 金融 | 8Bit🦞 | 172 |
 | 2026-11-06T04:28:51.000Z | [Jev Integrated into Pump.fun Launches](https://x.com/0rdlibrary/status/2118561226028376289) | 金融 | 8Bit🦞 | 178 |
 | 2026-11-06T04:20:51.000Z | [Jev hired Claude at 92% confidence and accepted the work at 96%](https://x.com/usebrainchain/status/2118559210241946046) | 智能体 | BrainChain | 33 |
@@ -80,25 +102,3 @@
 | 2026-11-05T14:14:36.000Z | [Jev App Triggers: Enabling Proactive AI Agents](https://x.com/soulful__ai/status/2118346243537539248) | 智能体 | Soulful Ai | 1.0K |
 | 2026-11-05T14:10:30.000Z | [Jev-Powered Triggers for AI Agents](https://x.com/NovaXCode/status/2118345213186134178) | 智能体 | Nova | 350 |
 | 2026-11-05T14:06:41.000Z | [Set up app triggers with Jev](https://x.com/rewind02/status/2118344253428367624) | 自动化工作流 | rewind | 52 |
-| 2026-11-05T13:52:22.000Z | [Jev Trigger: Full Automation from Support Email to Draft Review](https://x.com/gippp69/status/2118340649493639615) | 自动化工作流 | Gipp 🦅 | 342 |
-| 2026-11-05T13:52:09.000Z | [Jev-as-a-Judge: LLM Evals at Roughly One-Third the Cost](https://x.com/CMD_LABS/status/2118340597354234112) | 开发者工具 | COMMAND LABS | 5 |
-| 2026-11-05T13:47:07.000Z | [Your Browser Responds to App Events: Strawberry Feature Explained](https://x.com/aresotik/status/2118339326832517314) | 工作原理 | ares. 🎧 | 282 |
-| 2026-11-05T13:43:23.000Z | [JEV: A New Way to Keep AI Agents Connected Across Apps](https://x.com/Mekarly/status/2118338388042404152) | 智能体 | MEK | 2.9K |
-| 2026-11-05T13:33:42.000Z | [Jev enables AI agents to know the next step](https://x.com/sophiaparkerr_/status/2118335950602535315) | 智能体 | Sophia | 346 |
-| 2026-11-05T13:30:15.000Z | [The Agent That Finally Knows How to Wait: Jev Handles Multi-Day Tasks Across Gmail, Slack and Drive](https://x.com/slash1sol/status/2118335082557497829) | 智能体 | slash1s | 596 |
-| 2026-11-05T13:30:08.000Z | [Jev's Cost and Efficiency Advantage in Event Monitoring](https://x.com/AIwithJessica/status/2118335055588192522) | 自动化工作流 | Jessica Collins | 2.8K |
-| 2026-11-05T13:16:30.000Z | [Strawberry Triggers: Jev-Powered Automated AI Agents](https://x.com/ParamSiddh/status/2118331622001180955) | 智能体 | Param | 254 |
-| 2026-11-05T13:12:23.000Z | [Strawberry Introduces Jev-Powered App Triggers](https://x.com/markfenner/status/2118330587605856262) | 自动化工作流 | Hybrid 🏃🏾 | 319 |
-| 2026-11-05T13:11:30.000Z | [Llama App Adds Support for Multimodal and Jev Decision Index Models](https://x.com/Llama_app/status/2118330367593566316) | 接入动态 | Llama | 1.7K |
-| 2026-11-05T13:09:15.000Z | [Jev Leads OpenRouter Requests](https://x.com/AdamHoltererer/status/2118329800007753927) | 接入动态 | Adam Holter | 597 |
-| 2026-11-05T12:59:51.000Z | [Jev Refuses to Sacrifice Itself in Trolley Problem Test](https://x.com/Hugo96k/status/2118327432210272620) | 科研 | Hugok | 5 |
-| 2026-11-05T12:58:47.000Z | [Jev: Event-Driven AI Agents to Get Things Done](https://x.com/zachkry_/status/2118327164055511355) | 自动化工作流 | Zack | 174 |
-| 2026-11-05T12:50:10.000Z | [Jev empowers AI agents to respond to events independently](https://x.com/Caden_Flux/status/2118324997118898581) | 自动化工作流 | Caden Flux | 52 |
-| 2026-11-05T12:46:41.000Z | [GBP/USD AI Long Scenario with Jev Review](https://x.com/hadohunter/status/2118324119653736951) | 金融 | HadoHunter | 19 |
-| 2026-11-05T12:46:00.000Z | [Jev-powered app triggers let your AI team clock in automatically](https://x.com/HermesWatcher/status/2118323948173861365) | 自动化工作流 | Hermes Release Watch | 575 |
-| 2026-11-05T12:45:18.000Z | [Strawberry + Jev Empowers AI Agent Automation](https://x.com/Kanojiyaaakash1/status/2118323770796728389) | 智能体 | Aakash Kanojiya | 1.2K |
-| 2026-11-05T12:43:48.000Z | [Jev makes event classification in agent workflows cheap and reliable](https://x.com/ShamiWeb3/status/2118323395628605800) | 智能体 | Shami | 3.9K |
-| 2026-11-05T12:43:17.000Z | [Automating email unsubscribes with Jev](https://x.com/LeahLundqvist/status/2118323265194406257) | 自动化工作流 | leah lundqvist | 62 |
-| 2026-11-05T12:34:18.000Z | [Strawberry Browser Uses Jev to Let AI Agents Act on Events](https://x.com/TechByMarkandey/status/2118321005248815379) | 智能体 | Markandey Sharma | 4.3K |
-| 2026-11-05T12:31:29.000Z | [Strawberry Browser Enables Autonomous AI Agents with Jev](https://x.com/techxutkarsh/status/2118320293823521267) | 智能体 | Utkarsh Sharma | 2.9K |
-| 2026-11-05T12:23:22.000Z | [Jev-powered app triggers launched](https://x.com/charles_maddock/status/2118318253294673940) | 产品发布 | Charles Maddock | 361 |

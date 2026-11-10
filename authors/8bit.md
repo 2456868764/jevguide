@@ -1,9 +1,10 @@
 # 8Bit🦞
 
-30 Jev showcases.
+31 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T00:48:56.000Z | [Decentralized Hedge Funds and the JEV Decision Engine](https://x.com/0rdlibrary/status/2119955431992840441) | 金融 | 8Bit🦞 | 271 |
 | 2026-11-06T04:30:05.000Z | [TypeSafe AI Jev-Powered ChatGPT Finance Plugin](https://x.com/0rdlibrary/status/2118561536109101256) | 金融 | 8Bit🦞 | 172 |
 | 2026-11-06T04:28:51.000Z | [Jev Integrated into Pump.fun Launches](https://x.com/0rdlibrary/status/2118561226028376289) | 金融 | 8Bit🦞 | 178 |
 | 2026-11-06T00:46:28.000Z | [TypeSafe AI now gives real-time JEV scores for Pump.fun tokens](https://x.com/0rdlibrary/status/2118505258049548751) | 金融 | 8Bit🦞 | 236 |

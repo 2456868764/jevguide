@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 404 | 214 | 193 | 1.2M |
+| 408 | 215 | 196 | 1.2M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,54 @@
 <p><strong>HadoHunter</strong> · @hadohunter · 2026-11-10T02:18:57.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 56</p>
 <p><a href="https://x.com/hadohunter/status/2119978084002935024">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2119955431992840441"><img src="https://pbs.twimg.com/media/HWuYOvdW4AAlSm0?format=jpg&amp;name=medium" alt="Decentralized Hedge Funds and the JEV Decision Engine · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2119955431992840441">Decentralized Hedge Funds and the JEV Decision Engine</a></h3>
+<p>The post introduces decentralized hedge funds on Solana, powered by the Percolator risk engine and TypeSafe AI&#39;s JEV decision engine.</p>
+<p><strong>中文摘要：</strong>帖子介绍了基于Solana的去中心化对冲基金，采用Percolator风险引擎，并使用TypeSafe AI的JEV决策引擎。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-10T00:48:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 271</p>
+<p><a href="https://x.com/0rdlibrary/status/2119955431992840441">在 X 查看原帖</a> · <a href="https://t.co/cxeY1za94V">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2119867514536751237"><img src="https://pbs.twimg.com/media/HWtIRVUaYAApE3n?format=png&amp;name=medium" alt="AUD/USD AI Short Scenario with Jev Review · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2119867514536751237">AUD/USD AI Short Scenario with Jev Review</a></h3>
+<p>HadoHunter presents an AI short scenario for AUD/USD: entry 0.69112, target 0.68561, stop 0.69247, reward/risk 4.08. Jev model indicates low certainty (24%) and suggests manual review.</p>
+<p><strong>中文摘要：</strong>HadoHunter发布AUD/USD的AI做空方案：入场0.69112，目标0.68561，止损0.69247，盈亏比4.08。Jev模型评估确定性仅24%，建议人工复核。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-09T18:59:35.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 44</p>
+<p><a href="https://x.com/hadohunter/status/2119867514536751237">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ellfyy_/status/2119858050588709142"><img src="https://pbs.twimg.com/amplify_video_thumb/2119858004702953473/img/zgarR93x4AOrSYmP.jpg" alt="Built a memecoin trading bot with Grok x Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ellfyy_/status/2119858050588709142">Built a memecoin trading bot with Grok x Jev</a></h3>
+<p>A developer built a trading bot with Grok and Jev that scanned 4,912 token launches overnight, skipped 4,851, and sniped 61, all coordinated by six agents with one job each.</p>
+<p><strong>中文摘要：</strong>一名开发者使用 Grok 与 Jev 构建交易机器人，一晚扫描 4,912 个代币发行，跳过 4,851 个，狙击 61 个，整个过程由 6 个各司其职的智能体协作完成。</p>
+<p><strong>Elf</strong> · @ellfyy_ · 2026-11-09T18:21:58.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 224</p>
+<p><a href="https://x.com/ellfyy_/status/2119858050588709142">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/joelsstafford/status/2119856372984775143"><img src="https://pbs.twimg.com/media/HWs9hhgW0AAdTo9?format=jpg&amp;name=medium" alt="Jev 1.13 ranks among top decision models in PI Trading Arena · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/joelsstafford/status/2119856372984775143">Jev 1.13 ranks among top decision models in PI Trading Arena</a></h3>
+<p>Joel is testing decision models with PI Trading Arena, a trading eval for decision models, and lists Jev 1.13 as one of the runner-ups.</p>
+<p><strong>中文摘要：</strong>Joel 在 PI Trading Arena（面向决策模型的交易评测环境）中测试多个新模型，并将 Jev 1.13 列为 runner-up 之一。</p>
+<p><strong>Joel 🌊</strong> · @joelsstafford · 2026-11-09T18:15:19.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 127</p>
+<p><a href="https://x.com/joelsstafford/status/2119856372984775143">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2118561536109101256"><img src="https://pbs.twimg.com/media/HWakfPcXIAAdXTp?format=jpg&amp;name=medium" alt="TypeSafe AI Jev-Powered ChatGPT Finance Plugin · 原帖图片" width="100%"></a>

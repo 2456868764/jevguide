@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 605 | 324 | 283 | 3.0M |
+| 607 | 325 | 284 | 3.0M |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>阳阳</strong> · @tantanyuli · 2026-11-10T05:30:00.000Z</p>
 <p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 380</p>
 <p><a href="https://x.com/tantanyuli/status/2120026165368991767">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer0x419/status/2119908654103118082"><img src="https://pbs.twimg.com/media/HWttr0YWsAEb3be?format=jpg&amp;name=medium" alt="JEV Agent Experiment in GTA V · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer0x419/status/2119908654103118082">JEV Agent Experiment in GTA V</a></h3>
+<p>JEV runs a briefcase recovery task in GTA V, completing 86 model calls in 2:31 with 73,340 tokens read and 4,014 written for about 2 cents, with every call logged side-by-side with both POVs.</p>
+<p><strong>中文摘要：</strong>JEV在GTA V游戏中执行公文包回收任务，2分31秒内完成86次模型调用，读取73,340个token、写入4,014个token，成本约2美分，每次调用都与双方视角记录并列展示。</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419 · 2026-11-09T21:43:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 40</p>
+<p><a href="https://x.com/hammer0x419/status/2119908654103118082">在 X 查看原帖</a> · <a href="https://t.co/MalYXcz8f1">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/kunalabcdani/status/2119892841723990319"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Voice coffee ordering with Jev, ~200ms UI updates · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/kunalabcdani/status/2119892841723990319">Voice coffee ordering with Jev, ~200ms UI updates</a></h3>
+<p>A developer built a voice coffee ordering system with @typesafeai Jev; the UI updates in real time as they speak, about 200ms from word to screen.</p>
+<p><strong>中文摘要：</strong>开发者用 @typesafeai Jev 构建了一个语音咖啡点单系统，说话的同时界面实时更新，从语音到屏幕约 200 毫秒。</p>
+<p><strong>Kunal Abichandani</strong> · @kunalabcdani · 2026-11-09T20:40:13.000Z</p>
+<p>💬 50 &nbsp; 🔁 31 &nbsp; ♡ 741 &nbsp; 📊 38K</p>
+<p><a href="https://x.com/kunalabcdani/status/2119892841723990319">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/usebrainchain/status/2118559210241946046"><img src="https://pbs.twimg.com/media/HWaiYBaaEAAP-7C?format=jpg&amp;name=medium" alt="Jev hired Claude at 92% confidence and accepted the work at 96% · 原帖图片" width="100%"></a>

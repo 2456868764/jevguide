@@ -1,9 +1,10 @@
 # Mike Taylor
 
-5 Jev showcases.
+6 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-09T21:47:19.000Z | [Jev video labeling cost test](https://x.com/hammer_mt/status/2119909725403828624) | 数据分析 | Mike Taylor | 35 |
 | 2026-10-30T20:14:42.000Z | [Pairing Claude with Jev: trainable questioning gets close to the answer](https://x.com/hammer_mt/status/2116262538304495731) | 社区实践 | Mike Taylor | 146 |
 | 2026-10-30T20:13:43.000Z | [Jev Matches Claude on Long-Chain Estimation](https://x.com/hammer_mt/status/2116262293600342295) | 社区实践 | Mike Taylor | 116 |
 | 2026-10-30T20:10:24.000Z | [A workflow combining Claude and Jev for probability estimates](https://x.com/hammer_mt/status/2116261457096479080) | 社区实践 | Mike Taylor | 172 |

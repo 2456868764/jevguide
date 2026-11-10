@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1403 | 583 | 827 | 3.0M |
+| 1407 | 584 | 830 | 3.0M |
 
 ## Showcase 卡片
 
@@ -140,6 +140,54 @@
 <p><strong>むらい室長</strong> · @vesperworks · 2026-11-10T04:02:15.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 99</p>
 <p><a href="https://x.com/vesperworks/status/2120004082387825033">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/LittleMomentsTH/status/2119935568452751560"><img src="https://pbs.twimg.com/amplify_video_thumb/2119928806890967040/img/CqCM_ijDgJq5X06N.jpg" alt="Jev Tutorial: How to Ask Questions and Use Answers · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/LittleMomentsTH/status/2119935568452751560">Jev Tutorial: How to Ask Questions and Use Answers</a></h3>
+<p>Thai creator Little Moments shares how to use Jev, showing example questions and how to apply the answers to your work while saving AI costs.</p>
+<p><strong>中文摘要：</strong>泰国创作者 Little Moments 分享 Jev 的使用方法，介绍可选问题类型，以及如何将回答应用到后续工作中，帮助节省 AI 使用成本。</p>
+<p><strong>Little Moments</strong> · @LittleMomentsTH · 2026-11-09T23:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 2 &nbsp; 📊 159</p>
+<p><a href="https://x.com/LittleMomentsTH/status/2119935568452751560">在 X 查看原帖</a> · <a href="https://t.co/9dUf1lonLj">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jbarrieault/status/2119925103408320678"><img src="https://pbs.twimg.com/media/HWt8nQBXQAAzKcl?format=png&amp;name=small" alt="User over-seeded TypeSafe account after Jev launch · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jbarrieault/status/2119925103408320678">User over-seeded TypeSafe account after Jev launch</a></h3>
+<p>Jacob Barrieault shares his mistake of overfunding his TypeSafe account with $10 when Jev came out.</p>
+<p><strong>中文摘要：</strong>Jacob Barrieault 分享在 Jev 发布时给 TypeSafe 账户多充了 10 美元的经历，属于用户社区中的真实使用反馈。</p>
+<p><strong>Jacob Barrieault</strong> · @jbarrieault · 2026-11-09T22:48:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 48</p>
+<p><a href="https://x.com/jbarrieault/status/2119925103408320678">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TryArcade/status/2119886319921070241"><img src="https://pbs.twimg.com/media/HWtZXVUWEAEZE0Z?format=jpg&amp;name=medium" alt="Arcade, Mastra, and Jev Host Workshop on Agents Acting on Sensitive Data · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/TryArcade/status/2119886319921070241">Arcade, Mastra, and Jev Host Workshop on Agents Acting on Sensitive Data</a></h3>
+<p>Arcade.dev recaps last week&#39;s packed workshop at its SF office with Mastra and Jev, focused on building agents that act on sensitive data, thanking the session leads.</p>
+<p><strong>中文摘要：</strong>Arcade.dev回顾了上周在旧金山办公室与Mastra和Jev共同举办的工作坊，聚焦构建可处理敏感数据的智能体，并对主讲人表示感谢。</p>
+<p><strong>Arcade.dev | The Actions Runtime</strong> · @TryArcade · 2026-11-09T20:14:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 235</p>
+<p><a href="https://x.com/TryArcade/status/2119886319921070241">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AlexSlobodnik/status/2119861746865192971"><img src="https://pbs.twimg.com/media/HWtCi6TWwAAFx3t?format=jpg&amp;name=medium" alt="Jev NYC Jam Invitation · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlexSlobodnik/status/2119861746865192971">Jev NYC Jam Invitation</a></h3>
+<p>Join a NYC gathering focused on Jev and decision AI models: overview, three live demos, and open discussion about whether Jev can help with your problem. Space is limited, RSVP required.</p>
+<p><strong>中文摘要：</strong>在纽约参加Jev与决策AI模型的线下交流：包含模型概述、三个现场演示，参与者可自带问题探讨Jev能否提供帮助，名额有限需RSVP。</p>
+<p><strong>Slobo</strong> · @AlexSlobodnik · 2026-11-09T18:36:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 6 &nbsp; 📊 721</p>
+<p><a href="https://x.com/AlexSlobodnik/status/2119861746865192971">在 X 查看原帖</a> · <a href="https://t.co/i8EBBv1RP5">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/RealAlphaApp/status/2118553980972544161"><img src="https://pbs.twimg.com/media/HWadniJbUAAGd41?format=jpg&amp;name=medium" alt="Jev creator Diogo Almeida on reliability · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 611 | 272 | 342 | 1.1M |
+| 613 | 272 | 344 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MATKA_r/status/2120128023743910046"><img src="https://pbs.twimg.com/media/HWw1Mm-WcAEnnm9?format=jpg&amp;name=900x900" alt="7 AI models are free right now · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/MATKA_r/status/2120128023743910046">7 AI models are free right now</a></h3>
+<p>The post lists 7 AI models currently free, including Claude Fable 5.2, Claude Haiku 5.5, GPT-6 Luna, DeepSeek V4.1 Flash, DeepSeek V4.1 Flash 1017, Clef, and Jev, with a link to the platform&#39;s models page.</p>
+<p><strong>中文摘要：</strong>帖子列出目前免费的7个AI模型，包括Claude Fable 5.2、Claude Haiku 5.5、GPT-6 Luna、DeepSeek V4.1 Flash、DeepSeek V4.1 Flash 1017、Clef和Jev，并附有平台模型页面链接。</p>
+<p><strong>Moeez</strong> · @MATKA_r · 2026-11-10T12:14:45.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 24 &nbsp; 📊 944</p>
+<p><a href="https://x.com/MATKA_r/status/2120128023743910046">在 X 查看原帖</a> · <a href="https://t.co/cmQUHtTJ7q">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/SalesforceNews/status/2119946775716831501"><img src="https://pbs.twimg.com/media/HWuQW7rWgAAoZiB?format=png&amp;name=medium" alt="TypeSafe AI Unveils Jev Decision Model · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SalesforceNews/status/2119946775716831501">TypeSafe AI Unveils Jev Decision Model</a></h3>
+<p>TypeSafe AI came out of stealth in mid-September with Jev, a model built to pick from a set of options. Meanwhile, OpenAI&#39;s Decisions API became generally available, and several other AI companies have released decision models.</p>
+<p><strong>中文摘要：</strong>TypeSafe AI 在九月中旬带着 Jev 模型走出隐身模式，该模型旨在从一组选项中做出选择。与此同时，OpenAI 的 Decisions API 也已正式可用，多家AI公司相继发布决策模型。</p>
+<p><strong>Salesforce News &amp; Insights</strong> · @SalesforceNews · 2026-11-10T00:14:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 273</p>
+<p><a href="https://x.com/SalesforceNews/status/2119946775716831501">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ctxzz/status/2118474713634627826"><img src="https://pbs.twimg.com/media/HWZVhk2W8AAPPEz?format=jpg&amp;name=large" alt="VideoJev: System One Model for Video Understanding and Interaction · 原帖图片" width="100%"></a>

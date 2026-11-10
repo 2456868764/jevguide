@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 674 | 331 | 346 | 3.6M |
+| 676 | 332 | 347 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ashthepeasant/status/2120154207215026368"><img src="https://pbs.twimg.com/amplify_video_thumb/2120152044157976576/img/zmiYt0mP7-Oup7Ss.jpg" alt="Kolek: Cataloging tool for the lazy collector · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ashthepeasant/status/2120154207215026368">Kolek: Cataloging tool for the lazy collector</a></h3>
+<p>Asfar Sadewa showcases Kolek, a cataloging app for lazy collectors, which mixes Opus 5.5, Decisions API, and Jev to simplify collection organization.</p>
+<p><strong>中文摘要：</strong>Asfar Sadewa 展示了 Kolek，一个为懒人收藏家设计的目录化应用，混合使用了 Opus 5.5、Decisions API 和 Jev，旨在简化收藏品整理。</p>
+<p><strong>Asfar Sadewa</strong> · @ashthepeasant · 2026-11-10T13:58:48.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><a href="https://x.com/ashthepeasant/status/2120154207215026368">在 X 查看原帖</a> · <a href="https://t.co/cGkPkRnvub">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/kecan0406dev/status/2120125697608077523"><img src="https://pbs.twimg.com/media/HWwrrtwaYAAIipC?format=jpg&amp;name=medium" alt="Real-Time Prompt Suggestion Tool Using Jev and Clef · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/kecan0406dev/status/2120125697608077523">Real-Time Prompt Suggestion Tool Using Jev and Clef</a></h3>
+<p>The author is building a tool that uses models like Jev and Clef to analyze the prompt being typed in real time and suggest additional terms, improving context expansion better than expected.</p>
+<p><strong>中文摘要：</strong>作者正在开发一个工具，利用Jev和Clef等模型实时分析用户正在输入的提示词，并建议添加相关术语，以更好地扩展上下文。</p>
+<p><strong>kecan</strong> · @kecan0406dev · 2026-11-10T12:05:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 170</p>
+<p><a href="https://x.com/kecan0406dev/status/2120125697608077523">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/p0/status/2118456575761473863"><img src="https://pbs.twimg.com/media/HWZE5aZagAEgA7y?format=jpg&amp;name=medium" alt="Live-Web Benchmark Reveals Jev&#39;s Performance Gap on Dynamic Questions · 原帖图片" width="100%"></a>

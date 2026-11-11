@@ -4,11 +4,107 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1409 | 584 | 832 | 3.0M |
+| 1417 | 589 | 836 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
+<p>The author shares a cool video showing off Jev and the rest of Copper.</p>
+<p><strong>中文摘要：</strong>作者分享了一段视频，展示 Jev 以及 Copper 的其他部分。</p>
+<p><strong>Collin Rijock</strong> · @CollinRijock · 2026-11-11T00:19:20.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
+<p><a href="https://x.com/CollinRijock/status/2120310369319043072">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2120288848391651778"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Seeing Amazing Things with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2120288848391651778">Seeing Amazing Things with Jev</a></h3>
+<p>The author shares excitement and emotion upon seeing others&#39; experiments built with Jev, praising the community&#39;s creativity.</p>
+<p><strong>中文摘要：</strong>作者分享看到他人基于 Jev 的实验成果时的兴奋与感动，称赞社区的创造力。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-11-10T22:53:49.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 8 &nbsp; 📊 436</p>
+<p><a href="https://x.com/allietheicon/status/2120288848391651778">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OsamaGweaa/status/2120277675595944172"><img src="https://pbs.twimg.com/media/HWy9TVoWoAAPPOI?format=jpg&amp;name=medium" alt="Hackathon for building with Jev on Loveble · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/OsamaGweaa/status/2120277675595944172">Hackathon for building with Jev on Loveble</a></h3>
+<p>The author shares a hackathon he came across, sponsored by Loveble and Type Safe, where participants bring laptops and spend a few hours building with Jev on Loveble, then showcase what they made. He liked the vibe but couldn&#39;t stay till the end.</p>
+<p><strong>中文摘要：</strong>作者分享了偶然发现的一个黑客松活动，由 Loveble 和 Type Safe 赞助，参与者带笔记本电脑花几小时用 Jev 在 Loveble 上构建项目，然后展示成果。作者喜欢这种氛围，但未能待到结束。</p>
+<p><strong>سكِيلاَتْشِي | Osama Gweaa</strong> · @OsamaGweaa · 2026-11-10T22:09:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 90</p>
+<p><a href="https://x.com/OsamaGweaa/status/2120277675595944172">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/luke_dawgfan/status/2120228326430359984"><img src="https://pbs.twimg.com/tweet_video_thumb/HWyQatwaMAAdljP.jpg" alt="Community discussion on Jev model and deterministic automation · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/luke_dawgfan/status/2120228326430359984">Community discussion on Jev model and deterministic automation</a></h3>
+<p>A user praises the passion behind Jev, agrees with the pragmatic push for more deterministic automation System One models, and humorously debates the spelling of Jevving.</p>
+<p><strong>中文摘要：</strong>一位用户称赞 Jev 背后的热情，并认同其追求更确定性自动化 System One 模型的务实方向，同时幽默地讨论 Jevving 的拼写。</p>
+<p><strong>Luke Hartsock</strong> · @luke_dawgfan · 2026-11-10T18:53:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/luke_dawgfan/status/2120228326430359984">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/everton_dev/status/2120214364355453201"><img src="https://pbs.twimg.com/media/HWyCPAZW4AAL140?format=png&amp;name=small" alt="Jev model: $8.04 for 201 million tokens · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/everton_dev/status/2120214364355453201">Jev model: $8.04 for 201 million tokens</a></h3>
+<p>Developer Everton Carneiro shares the cost of using the Jev model, noting it powers @trysextant&#39;s keyword judging, and emphasizes that you don&#39;t need a frontier model for everything.</p>
+<p><strong>中文摘要：</strong>开发者Everton Carneiro分享Jev模型的使用成本，并指出其用于@trysextant的关键词判断，强调不必所有任务都用前沿模型，应选择合适的模型。</p>
+<p><strong>Everton Carneiro</strong> · @everton_dev · 2026-11-10T17:57:50.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 162</p>
+<p><a href="https://x.com/everton_dev/status/2120214364355453201">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/dfinke/status/2120201648316600323"><img src="https://pbs.twimg.com/amplify_video_thumb/2120201571355271168/img/mt_ctc5IFgoSP0Ry.jpg" alt="Watch AI judgment become a decision with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dfinke/status/2120201648316600323">Watch AI judgment become a decision with Jev</a></h3>
+<p>Doug Finke built an app entirely with AI that asks Jev questions about service tickets and traces how answers flow through the app&#39;s rules, showing AI judgment becoming a decision.</p>
+<p><strong>中文摘要：</strong>Doug Finke 分享了一款完全由 AI 构建的应用，它向 Jev 提出服务工单问题，并追踪答案如何流经应用规则，展示 AI 判断转化为决策的过程。</p>
+<p><strong>Doug Finke</strong> · @dfinke · 2026-11-10T17:07:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 171</p>
+<p><a href="https://x.com/dfinke/status/2120201648316600323">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/TheWalters954/status/2120200081622061337"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120199922540576768/pu/img/6j84aQprrCD0zgEX.jpg" alt="Jev vs GPT-4o mini: Duplicate Account Check Performance &amp; Cost Test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TheWalters954/status/2120200081622061337">Jev vs GPT-4o mini: Duplicate Account Check Performance &amp; Cost Test</a></h3>
+<p>With the same 50 inbound accounts and mock CRM, Jev completed duplicate account checks in about 300ms, while GPT-4o mini took about a second and cost 5-6x more. Full test video included.</p>
+<p><strong>中文摘要：</strong>在相同50个入站账户和模拟CRM环境下，Jev完成重复账户检查约300毫秒，GPT-4o mini约1秒且成本高出5到6倍。完整测试视频已发布。</p>
+<p><strong>Walters954</strong> · @TheWalters954 · 2026-11-10T17:01:05.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 26</p>
+<p><a href="https://x.com/TheWalters954/status/2120200081622061337">在 X 查看原帖</a> · <a href="https://t.co/wYyfD3xNtI">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/KenTheRogers/status/2120199910062702748"><img src="https://pbs.twimg.com/media/HWx2lM0bMAA6DL8?format=jpg&amp;name=medium" alt="Jev 1.14 without web identifies post-cutoff false claims: 24/48 · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/KenTheRogers/status/2120199910062702748">Jev 1.14 without web identifies post-cutoff false claims: 24/48</a></h3>
+<p>A user shares an evaluation: for 24 events after GPT-6 Luna&#39;s cutoff, each paired with a true and a false claim, Jev 1.14 without web access labeled all 24 false statements as false out of 48 total.</p>
+<p><strong>中文摘要：</strong>用户分享评测：对 GPT-6 Luna 截止日期后的 24 个事件，每个事件给出真假两条陈述，Jev 1.14 在无联网情况下将 48 条中的 24 条假陈述全部判定为假。</p>
+<p><strong>Kenny Rogers</strong> · @KenTheRogers · 2026-11-10T17:00:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/KenTheRogers/status/2120199910062702748">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hasegaw/status/2120175652087415061"><img src="https://pbs.twimg.com/media/HWxgWCNbcAAqs8X?format=png&amp;name=medium" alt="Comparing Gemma4 for Jev-like Tasks · 原帖图片" width="100%"></a>

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 93 | 30 | 63 | 82K |
+| 95 | 30 | 65 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/danlovesproofs/status/2120292333698846758"><img src="https://pbs.twimg.com/media/HWzJ4ncaAAACKe0?format=jpg&amp;name=medium" alt="Jev helps target vulnerability scans in codebases · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/danlovesproofs/status/2120292333698846758">Jev helps target vulnerability scans in codebases</a></h3>
+<p>Dan Robinson highlights a Jev capability to identify codebase parts relevant to vulnerability scanning, with fast and cheap classifications to fine-tune targeting and support common-sense UX.</p>
+<p><strong>中文摘要：</strong>Dan Robinson 分享了 Jev 的一项实用能力：定位代码库中与漏洞扫描相关的部分，并通过快速低成本分类来微调扫描目标，为需要“常识判断”的交互体验提供支持。</p>
+<p><strong>Dan Robinson</strong> · @danlovesproofs · 2026-11-10T23:07:40.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/danlovesproofs/status/2120292333698846758">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/madarco/status/2120284469362082274"><img src="https://pbs.twimg.com/media/HWzDfHmbUAA47sQ?format=jpg&amp;name=medium" alt="Write rules in plain sentences; Jev checks requests live · 原帖图片" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/madarco/status/2120284469362082274">Write rules in plain sentences; Jev checks requests live</a></h3>
+<p>The post describes writing rules in plain sentences, e.g., &#39;Only send to @yourcompany.com&#39; and &#39;Refund up to $200&#39;. The firewall uses Jev to check every request live and reviews all logs every 6 hours to spot unusual trends.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一种用自然语言编写规则的方式，例如“仅发送到@yourcompany.com”“退款最高$200”。防火墙使用Jev实时检查每个请求，并每6小时审查日志以识别异常趋势。</p>
+<p><strong>Marco D&#39;Alia</strong> · @madarco · 2026-11-10T22:36:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/madarco/status/2120284469362082274">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kevintheo/status/2120151885915062310"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120143504697442304/pu/img/DqCgnRaZgi0pK3Ui.jpg" alt="Open-Source Email Prompt Injection Defense with Jev · 原帖视频截图" width="100%"></a>

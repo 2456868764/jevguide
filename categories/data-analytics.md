@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 125 | 65 | 61 | 392K |
+| 127 | 66 | 62 | 392K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2120232726133657600"><img src="https://pbs.twimg.com/amplify_video_thumb/2120173471762096128/img/OLRn9JUYeg84-LnW.jpg" alt="Demo Showcasing Jev&#39;s Potential in BI/Data Analysis Praised · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2120232726133657600">Demo Showcasing Jev&#39;s Potential in BI/Data Analysis Praised</a></h3>
+<p>Allie the Icon praises @phil_renaud&#39;s demo video that successfully showcases Jev&#39;s potential in BI and data analysis, after she couldn&#39;t come up with a visually compelling idea herself.</p>
+<p><strong>中文摘要：</strong>Allie the Icon称赞@phil_renaud制作的演示视频，成功展示了Jev在BI和数据分析领域的潜力，此前她未能想出足够视觉化的演示方案。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-11-10T19:10:48.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 7 &nbsp; 📊 449</p>
+<p><a href="https://x.com/allietheicon/status/2120232726133657600">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/noahsark769/status/2120232123600982460"><img src="https://pbs.twimg.com/media/HWyT3njbAAAPshn?format=png&amp;name=medium" alt="Analyzing Brand Ingredient Callout Data with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>数据分析</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/noahsark769/status/2120232123600982460">Analyzing Brand Ingredient Callout Data with Jev</a></h3>
+<p>The author spent $3.85 using TypeSafeAI&#39;s Jev to analyze the entire Replo Sightglass dataset, finding that 57.9% of pages listing ingredients have callouts or mixed callouts.</p>
+<p><strong>中文摘要：</strong>作者花费 3.85 美元使用 TypeSafeAI 的 Jev 对 Replo 的 Sightglass 数据集进行全量分析，发现 57.9% 列出成分的页面包含成分标注或混合标注。</p>
+<p><strong>Noah Gilmore</strong> · @noahsark769 · 2026-11-10T19:08:24.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 158</p>
+<p><a href="https://x.com/noahsark769/status/2120232123600982460">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/phil_renaud/status/2120175939946426646"><img src="https://pbs.twimg.com/amplify_video_thumb/2120175092931964928/img/z7AI25Adin8FwvEI.jpg" alt="Jev Helps Parse Data Trends and Patterns · 原帖视频截图" width="100%"></a>

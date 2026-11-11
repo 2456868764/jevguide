@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 609 | 325 | 286 | 3.0M |
+| 613 | 328 | 287 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/yoshienagatomo/status/2120303668256018490"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev Voice Ordering Demo · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/yoshienagatomo/status/2120303668256018490">Jev Voice Ordering Demo</a></h3>
+<p>A demo of voice ordering experience using Jev, showcasing a futuristic interaction method.</p>
+<p><strong>中文摘要：</strong>利用Jev实现语音下单的体验演示，展示了未来感的交互方式。</p>
+<p><strong>長友好江|AIエージェントの家庭教師</strong> · @yoshienagatomo · 2026-11-10T23:52:42.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><a href="https://x.com/yoshienagatomo/status/2120303668256018490">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PatrikNordinHR/status/2120274132302709227"><img src="https://pbs.twimg.com/amplify_video_thumb/2120274112891285504/img/vB8R9JiRkNy1Mx1W.jpg" alt="Jev Helps Coordinate AI Agent Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/PatrikNordinHR/status/2120274132302709227">Jev Helps Coordinate AI Agent Decisions</a></h3>
+<p>The user shares their AI workflow: Grok Bot from Cursor coordinates, Claude and OpenAI Codex collaborate on tasks, and Jev from TypeSafe is used to decide which agent takes the next step, with Reason Network passing the task and its context.</p>
+<p><strong>中文摘要：</strong>用户分享其 AI 工作流：Cursor 的 Grok Bot 负责协调，Claude 和 OpenAI Codex 协作执行任务，并使用 TypeSafe 的 Jev 来决定下一个代理应采取的步骤，Reason Network 传递任务及上下文。</p>
+<p><strong>Patrik Nordin</strong> · @PatrikNordinHR · 2026-11-10T21:55:20.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 50</p>
+<p><a href="https://x.com/PatrikNordinHR/status/2120274132302709227">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2120239434176286965"><img src="https://pbs.twimg.com/media/HWyah6dbwAAqasE?format=jpg&amp;name=medium" alt="Jev Completes Task 39: Structuring Job Posts · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2120239434176286965">Jev Completes Task 39: Structuring Job Posts</a></h3>
+<p>Jev hired Gemini to structure a job post at 47% confidence, accepted the work at 100%, and the result was minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>Jev以47%的置信度雇佣Gemini完成招聘帖子结构化任务，并以100%置信度接受工作，随后在ripples.run上被收藏家铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-10T19:37:27.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 12 &nbsp; 📊 237</p>
+<p><a href="https://x.com/usebrainchain/status/2120239434176286965">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/akshay_pachaar/status/2120205022046965836"><img src="https://pbs.twimg.com/amplify_video_thumb/2120204991751503872/img/ncDbyMRxJ9KOj9ir.jpg" alt="Jev Decision Model for Agent Memory Management · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/akshay_pachaar/status/2120205022046965836">Jev Decision Model for Agent Memory Management</a></h3>
+<p>The post explains that agents may remember too much, and decision models like Jev can help refine the memory extraction pipeline to decide what to retain.</p>
+<p><strong>中文摘要：</strong>帖子介绍：Agent 可能记忆过多，Jev 这类决策模型可用于改进记忆提取流程，帮助系统更合理地决定保留哪些记忆。</p>
+<p><strong>Akshay 🚀</strong> · @akshay_pachaar · 2026-11-10T17:20:43.000Z</p>
+<p>💬 19 &nbsp; 🔁 6 &nbsp; ♡ 58 &nbsp; 📊 6.5K</p>
+<p><a href="https://x.com/akshay_pachaar/status/2120205022046965836">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/mattarderne/status/2120181289621786651"><img src="https://pbs.twimg.com/media/HWxlSZBWwAETc6Y?format=jpg&amp;name=medium" alt="Highlight the highest information word in lists with Jev? · 原帖图片" width="100%"></a>

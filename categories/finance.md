@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 409 | 215 | 197 | 1.2M |
+| 411 | 216 | 198 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/HodlReaper/status/2120298452957471099"><img src="https://pbs.twimg.com/amplify_video_thumb/2120298142604070912/img/Z6auVPoRr5I0uVky.jpg" alt="User Builds SOL Trading Bot with Jev Model to Chase 10x Return · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HodlReaper/status/2120298452957471099">User Builds SOL Trading Bot with Jev Model to Chase 10x Return</a></h3>
+<p>User shares how Grok drives 4 agents (Scout, Jev, Sniper, Exit) to trade SOL via Phantom wallet, with Jev performing 7 checks on tokens and trading only with the SOL in the account.</p>
+<p><strong>中文摘要：</strong>用户分享如何用Grok驱动4个智能体（Scout、Jev、Sniper、Exit）通过Phantom钱包交易SOL，其中Jev负责对代币执行7项检查，仅用账户内的SOL进行交易。</p>
+<p><strong>HodlReaper</strong> · @HodlReaper · 2026-11-10T23:31:59.000Z</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 286</p>
+<p><a href="https://x.com/HodlReaper/status/2120298452957471099">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/a_khomyakov/status/2120200607004803478"><img src="https://pbs.twimg.com/media/HWx3N0NXoAA3gOf?format=jpg&amp;name=medium" alt="Jev vs LLMs: Numbers or Text for Fraud and Credit Decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/a_khomyakov/status/2120200607004803478">Jev vs LLMs: Numbers or Text for Fraud and Credit Decisions</a></h3>
+<p>This post discusses an AI model (Jev) that cannot generate text, noting its first independent test showed lower accuracy and worse calibration than the LLMs it aims to replace, with the key distinction being numbers rather than text in fraud and credit decisions.</p>
+<p><strong>中文摘要：</strong>该内容围绕一个无法生成文本的AI模型（Jev）展开，指出其首次独立测试在准确率和校准上不如所替代的LLM，并强调关键分野在于数字处理而非文本生成，相关场景包括欺诈检测与信贷决策。</p>
+<p><strong>Alex Khomyakov</strong> · @a_khomyakov · 2026-11-10T17:03:10.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 29</p>
+<p><a href="https://x.com/a_khomyakov/status/2120200607004803478">在 X 查看原帖</a> · <a href="https://t.co/m59630qmYK">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadohunter/status/2120165561057644974"><img src="https://pbs.twimg.com/media/HWxXV7PbAAI6Ox8?format=jpg&amp;name=medium" alt="EUR/USD long scenario with Jev assessment · 原帖图片" width="100%"></a>

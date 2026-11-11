@@ -1,9 +1,10 @@
 # rody
 
-12 Jev showcases.
+13 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-10T18:16:34.000Z | [Jev founder publishes PDF on agent acceleration harness](https://x.com/0x_rody/status/2120219078778609721) | 开发资源 | rody | 1.6K |
 | 2026-11-03T18:55:11.000Z | [Jev + Claude Code: The End of Content Agencies?](https://x.com/0x_rody/status/2117692082060218596) | 营销 | rody | 914 |
 | 2026-11-01T20:12:37.000Z | [Grok Bot + Jev Automates SEO Workflow](https://x.com/0x_rody/status/2116986793006702786) | 营销 | rody | 4.6K |
 | 2026-10-31T20:56:37.000Z | [Jev API Experiment Checklist: Agent Desktop Automation](https://x.com/0x_rody/status/2116635478464278919) | 开发资源 | rody | 1.2K |

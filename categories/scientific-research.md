@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 133 | 38 | 97 | 136K |
+| 135 | 38 | 99 | 136K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/YukunHeZS/status/2120255421587857774"><img src="https://pbs.twimg.com/media/HWyoNjTWIAAZLXR?format=png&amp;name=4096x4096" alt="Jev-as-a-Judge Evaluation Results · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YukunHeZS/status/2120255421587857774">Jev-as-a-Judge Evaluation Results</a></h3>
+<p>Jev-as-a-Judge achieves 91% agreement at 1/510 of the cost and 140x faster; Mixed Judge sends only about a quarter of reports to LLM-as-a-Judge, achieving 98.7% agreement at 74% lower cost.</p>
+<p><strong>中文摘要：</strong>Jev-as-a-Judge 以 1/510 的成本和 140 倍速度达到 91% 的一致性；Mixed Judge 仅将约四分之一报告发送给 LLM-as-a-Judge，以 74% 更低的成本实现 98.7% 一致性。</p>
+<p><strong>Yukun He</strong> · @YukunHeZS · 2026-11-10T20:40:59.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
+<p><a href="https://x.com/YukunHeZS/status/2120255421587857774">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/YukunHeZS/status/2120255415330234487"><img src="https://pbs.twimg.com/media/HWyoLfIXkAAkNpH?format=png&amp;name=medium" alt="Evaluating SRE Diagnosis Reports with Jev-as-a-Judge · 原帖图片" width="100%"></a>
+<br>
+<sub><code>科研</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/YukunHeZS/status/2120255415330234487">Evaluating SRE Diagnosis Reports with Jev-as-a-Judge</a></h3>
+<p>This study shifts from diagnosing SRE incidents to evaluating diagnosis reports, exploring Jev-as-a-Judge to improve the quality and reliability of diagnostic results.</p>
+<p><strong>中文摘要：</strong>该研究从SRE故障诊断转向诊断报告评估，探索使用Jev-as-a-Judge方式提升诊断结果的质量与可靠性。</p>
+<p><strong>Yukun He</strong> · @YukunHeZS · 2026-11-10T20:40:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 3 &nbsp; ♡ 4 &nbsp; 📊 122</p>
+<p><a href="https://x.com/YukunHeZS/status/2120255415330234487">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/rayruizhiliao/status/2119892015290925542"><img src="https://pbs.twimg.com/amplify_video_thumb/2119845669271982080/img/fFtdVeDoPm46Z9sj.jpg" alt="Foundation models diverging: Jev as general-purpose decision model · 原帖视频截图" width="100%"></a>

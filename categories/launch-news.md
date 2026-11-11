@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 613 | 272 | 344 | 1.1M |
+| 615 | 274 | 344 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ScottNLP/status/2120307343015751923"><img src="https://pbs.twimg.com/amplify_video_thumb/2118717614986063872/img/OA_a96MZ68qgH3BN.jpg" alt="Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/ScottNLP/status/2120307343015751923">Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models</a></h3>
+<p>Flide is an open-source inference infrastructure built for Jev-style decision models. It merges 18 questions from an agent into a single inference run instead of executing 18 separate prompts; benchmark data shows it reduces latency from 359 ms to 37.7 ms on Qwen3.5-0.8B, roughly 9.5× faster.</p>
+<p><strong>中文摘要：</strong>Flide 是一个面向 Jev 风格决策模型的开源推理基础设施。它将智能体向 Jev 提出的 18 个问题合并为单次推理，避免传统引擎逐条运行 prompt；展示数据表明在 Qwen3.5-0.8B 上延迟从 359 ms 降至 37.7 ms，速度提升约 9.5 倍。</p>
+<p><strong>Scofield Hao Fei</strong> · @ScottNLP · 2026-11-11T00:07:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/ScottNLP/status/2120307343015751923">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/CompleteSkeptic/status/2120218698745356749"><img src="https://pbs.twimg.com/amplify_video_thumb/2120158594515492864/img/lCC_3H7Hhm4ZWrF5.jpg" alt="Another Jev-powered launch · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/CompleteSkeptic/status/2120218698745356749">Another Jev-powered launch</a></h3>
+<p>Diogo Almeida shares news of another launch powered by Jev.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 分享了一个由 Jev 支持的新发布动态。</p>
+<p><strong>Diogo Almeida</strong> · @CompleteSkeptic · 2026-11-10T18:15:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 39 &nbsp; 📊 6.3K</p>
+<p><a href="https://x.com/CompleteSkeptic/status/2120218698745356749">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/MATKA_r/status/2120128023743910046"><img src="https://pbs.twimg.com/media/HWw1Mm-WcAEnnm9?format=jpg&amp;name=900x900" alt="7 AI models are free right now · 原帖图片" width="100%"></a>

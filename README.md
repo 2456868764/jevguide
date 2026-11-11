@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7277</strong><br>curated posts</td>
-<td align="center"><strong>3580</strong><br>original videos</td>
+<td align="center"><strong>7299</strong><br>curated posts</td>
+<td align="center"><strong>3590</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1429</strong> showcases · <strong>592</strong> videos</p>
+<p><strong>1438</strong> showcases · <strong>596</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -46,16 +46,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>617</strong> showcases · <strong>330</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>616</strong> showcases · <strong>274</strong> videos</p>
+<p><strong>625</strong> showcases · <strong>278</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>618</strong> showcases · <strong>330</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>413</strong> showcases · <strong>217</strong> videos</p>
+<p><strong>414</strong> showcases · <strong>217</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>202</strong> showcases · <strong>153</strong> videos</p>
+<p><strong>203</strong> showcases · <strong>154</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -160,7 +160,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/productivity.md">Productivity</a></h3>
 <p><sub>生产力</sub></p>
-<p><strong>51</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>52</strong> showcases · <strong>33</strong> videos</p>
 <p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
-<a href="https://x.com/rafa_maker/status/2120535342503678461"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120535321943130112/pu/img/Dy_7XQCc4eePiurS.jpg" alt="GRIN: Using Jev to Flag EU Greenwashing Risks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rafa_maker/status/2120535342503678461">GRIN: Using Jev to Flag EU Greenwashing Risks</a></h3>
-<p>At Jev-a-thon, the author built GRIN, which uses Jev to score green claims on shop pages and simple rules to flag risks under new EU greenwashing regulations.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Rafa</strong> · @rafa_maker</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/trevin/status/2120627626666787116"><img src="https://pbs.twimg.com/media/HW3gdxmbMAA7ayz?format=jpg&amp;name=medium" alt="Developer tests Gemini Decision 1 against Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/trevin/status/2120627626666787116">Developer tests Gemini Decision 1 against Jev</a></h3>
+<p>Trevin Chow ran quick tests on Gemini Decision 1 in a project already using TypeSafe Jev and Microsoft Decision 1. Gemini was accurate but never cheaper, and performed worse in request matching tests.</p>
+<p><strong>75</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
+<p><strong>Trevin Chow</strong> · @trevin</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/CrowdCent/status/2120533616065487055"><img src="https://pbs.twimg.com/media/HW2lebqXIAA0k9P?format=jpg&amp;name=medium" alt="Optimizing Jev prompts with DSPyMator + GEPA · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CrowdCent/status/2120533616065487055">Optimizing Jev prompts with DSPyMator + GEPA</a></h3>
-<p>A community user shows how DSPyMator&#39;s fit() with GEPA rewrites Jev prompts, lifting held-out accuracy from 92.9% to 97.2% in about 90 seconds with 600 labels (median of 3 seeds).</p>
-<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
-<p><strong>CrowdCent</strong> · @CrowdCent</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/Consorielle_I/status/2120626630523535387"><img src="https://pbs.twimg.com/amplify_video_thumb/2120626532775276544/img/AOwD-eS8Hmh8tqoY.jpg" alt="Gemini Decision 1 launches: 0 output token decision model, pricing compared with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Consorielle_I/status/2120626630523535387">Gemini Decision 1 launches: 0 output token decision model, pricing compared with Jev</a></h3>
+<p>The post introduces Google&#39;s new Gemini Decision 1, which returns calibrated probabilities (noul, choice, score) with 0 output tokens, and notes it costs $0.10 per 1M, about 2.4x Jev&#39;s $0.042, while being natively multimodal.</p>
+<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 9</p>
+<p><strong>Consorielle Imagine</strong> · @Consorielle_I</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/CrowdCent/status/2120533611837595926"><img src="https://pbs.twimg.com/media/HW2lSrnXAAAqD0H?format=jpg&amp;name=large" alt="centimators 0.4: Bring scikit-learn API to Jev and DSPy programs · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/CrowdCent/status/2120533611837595926">centimators 0.4: Bring scikit-learn API to Jev and DSPy programs</a></h3>
-<p>centimators 0.4 wraps DSPy programs as scikit-learn estimators. Supports fit, predict_proba, cross_val_score, GridSearchCV, StackingClassifier, works with Jev, and can run optimizers like GEPA.</p>
-<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 35</p>
-<p><strong>CrowdCent</strong> · @CrowdCent</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/FumiShingai/status/2120626613662695523"><img src="https://pbs.twimg.com/media/HW36qhBbsAAK25l?format=jpg&amp;name=medium" alt="Google Gemini Decisions API: A Decision AI Aligned with Jev&#39;s Concept · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/FumiShingai/status/2120626613662695523">Google Gemini Decisions API: A Decision AI Aligned with Jev&#39;s Concept</a></h3>
+<p>Google has released the Gemini Decisions API with the Gemini Decision 1 model, available via Google AI Studio. The post notes its philosophy is close to TypeSafe AI&#39;s Jev, marking a shift from generative AI to decision-making AI.</p>
+<p><strong>16</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>Fumi Shingai</strong> · @FumiShingai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/whensdeyi/status/2120527444692308171"><img src="https://pbs.twimg.com/amplify_video_thumb/2120527103510958080/img/2DyJqNj96EbNHGZb.jpg" alt="Real-Time Lisa Simpson Expressions Driven by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/whensdeyi/status/2120527444692308171">Real-Time Lisa Simpson Expressions Driven by Jev</a></h3>
-<p>The author uses TypeSafe&#39;s Jev model for facial expression detection and combines it with MiniMax-H3-Image&#39;s 2-step LoRA for per-frame generation, making Lisa Simpson mimic facial movements in real time.</p>
-<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
-<p><strong>Dawna Yi</strong> · @whensdeyi</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/vwapster/status/2120621963517567384"><img src="https://pbs.twimg.com/media/HW32b7yWEAA8_lq?format=jpg&amp;name=medium" alt="Industry discussion after Jev release · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vwapster/status/2120621963517567384">Industry discussion after Jev release</a></h3>
+<p>A community member notes Google integrated a decision model into Gemini 4 Carbon, reducing tokens and steps per task, and sees this as following Jev&#39;s release.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
-<a href="https://x.com/rafa_maker/status/2120535342503678461"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120535321943130112/pu/img/Dy_7XQCc4eePiurS.jpg" alt="GRIN: Using Jev to Flag EU Greenwashing Risks · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/rafa_maker/status/2120535342503678461">GRIN: Using Jev to Flag EU Greenwashing Risks</a></h3>
-<p>At Jev-a-thon, the author built GRIN, which uses Jev to score green claims on shop pages and simple rules to flag risks under new EU greenwashing regulations.</p>
-<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>Rafa</strong> · @rafa_maker</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/trevin/status/2120627626666787116"><img src="https://pbs.twimg.com/media/HW3gdxmbMAA7ayz?format=jpg&amp;name=medium" alt="Developer tests Gemini Decision 1 against Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/trevin/status/2120627626666787116">Developer tests Gemini Decision 1 against Jev</a></h3>
+<p>Trevin Chow ran quick tests on Gemini Decision 1 in a project already using TypeSafe Jev and Microsoft Decision 1. Gemini was accurate but never cheaper, and performed worse in request matching tests.</p>
+<p><strong>75</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 75</p>
+<p><strong>Trevin Chow</strong> · @trevin</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/whensdeyi/status/2120527444692308171"><img src="https://pbs.twimg.com/amplify_video_thumb/2120527103510958080/img/2DyJqNj96EbNHGZb.jpg" alt="Real-Time Lisa Simpson Expressions Driven by Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/whensdeyi/status/2120527444692308171">Real-Time Lisa Simpson Expressions Driven by Jev</a></h3>
-<p>The author uses TypeSafe&#39;s Jev model for facial expression detection and combines it with MiniMax-H3-Image&#39;s 2-step LoRA for per-frame generation, making Lisa Simpson mimic facial movements in real time.</p>
-<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
-<p><strong>Dawna Yi</strong> · @whensdeyi</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/vwapster/status/2120621963517567384"><img src="https://pbs.twimg.com/media/HW32b7yWEAA8_lq?format=jpg&amp;name=medium" alt="Industry discussion after Jev release · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vwapster/status/2120621963517567384">Industry discussion after Jev release</a></h3>
+<p>A community member notes Google integrated a decision model into Gemini 4 Carbon, reducing tokens and steps per task, and sees this as following Jev&#39;s release.</p>
+<p><strong>31</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 31</p>
+<p><strong>Frit🅾️ Pendej🅾️</strong> · @vwapster</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/defenceability/status/2120522966723444838"><img src="https://pbs.twimg.com/media/HW2cQh3a4AAI-m0?format=jpg&amp;name=medium" alt="Jev test project: Cybersecurity topics page · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/defenceability/status/2120522966723444838">Jev test project: Cybersecurity topics page</a></h3>
-<p>The author shares a cybersecurity topics page created while testing Jev, and gives it a positive review.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>するめ</strong> · @defenceability</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/0xKaveh/status/2120621747997421935"><img src="https://pbs.twimg.com/media/HW20M16WcAAwRJC?format=png&amp;name=medium" alt="Gemini Decision 1 seen as main rival to JEV · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0xKaveh/status/2120621747997421935">Gemini Decision 1 seen as main rival to JEV</a></h3>
+<p>The post says Google unveiled Gemini Decisions API with Gemini Decision 1, which beats rivals on most benchmarks at slightly higher cost, calling it a major competitor to JEV.</p>
+<p><strong>492</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 492</p>
+<p><strong>Kaveh</strong> · @0xKaveh</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
-<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
-<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
+<a href="https://x.com/Antikythera_0/status/2120609547488485834"><img src="https://pbs.twimg.com/media/HW3qmMeXcAE4m6J?format=jpg&amp;name=medium" alt="Jev cannot escape death? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Antikythera_0/status/2120609547488485834">Jev cannot escape death?</a></h3>
+<p>Using historical analogy, the author argues that decision models will repeat the pattern of OSS LLMs being dominated by Anthropic and OpenAI, and small labs like Jev will be acquired or die.</p>
+<p><strong>55</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 55</p>
+<p><strong>Antikythera</strong> · @Antikythera_0</p>
 </td>
 </tr>
 </table>

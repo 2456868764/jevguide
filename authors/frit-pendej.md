@@ -1,9 +1,10 @@
 # Frit🅾️ Pendej🅾️
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T20:57:30.000Z | [Industry discussion after Jev release](https://x.com/vwapster/status/2120621963517567384) | 社区实践 | Frit🅾️ Pendej🅾️ | 31 |
 | 2026-09-28 | [Jev gates used in BTC trading bot comparison test](https://x.com/vwapster/status/2104721725434818613) | 金融 | Frit🅾️ Pendej🅾️ | 9 |
 | 2026-09-24 | [Kalshi BTC 15-Minute Trading Bot Built with Jev](https://x.com/vwapster/status/2102983567345119332) | 金融 | Frit🅾️ Pendej🅾️ | 24 |
 | 2026-09-24 | [Kalshi BTC 15-minute trading bot built with OPUS 5.5 + Jev](https://x.com/vwapster/status/2103103897334399487) | 金融 | Frit🅾️ Pendej🅾️ | 12 |

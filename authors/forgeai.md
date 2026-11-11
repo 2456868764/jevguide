@@ -1,9 +1,10 @@
 # ForgeAI
 
-8 Jev showcases.
+9 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T14:35:54.000Z | [JEV Makes Move-by-Move Decisions in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2120525930770673782) | 智能体 | ForgeAI | 23 |
 | 2026-11-10T14:35:59.000Z | [JEV Powers Move Selection in ForgeAI Agents; Top Models End Within 214 Points](https://x.com/ForgeAI_gg/status/2120163565977935918) | 智能体 | ForgeAI | 9 |
 | 2026-11-05T14:35:57.000Z | [JEV Drives Action Selection in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2118351617166626938) | 智能体 | ForgeAI | 17 |
 | 2026-11-04T14:35:58.000Z | [JEV Performance in Agent Benchmarks](https://x.com/ForgeAI_gg/status/2117989232903946448) | 智能体 | ForgeAI | 12 |

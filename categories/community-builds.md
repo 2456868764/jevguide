@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1424 | 592 | 840 | 3.0M |
+| 1428 | 592 | 844 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
+<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
+<p><strong>中文摘要：</strong>Angela Muñoz在帖子中分享，昨日在itnig举办的活动中，70多位黑客使用Jev（TypeSafe AI）和Lovable进行开发，并感谢@picsoung和@hackbarna的支持。</p>
+<p><strong>Angela Muñoz</strong> · @angelamuba001 · 2026-11-11T12:31:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><a href="https://x.com/angelamuba001/status/2120494726763995445">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/xinsuzuki/status/2120489474174091472"><img src="https://pbs.twimg.com/media/HW194tbbAAMovzy?format=jpg&amp;name=medium" alt="AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xinsuzuki/status/2120489474174091472">AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools</a></h3>
+<p>This video is the 4th talk of the online AI LT event #AIMTG held every 2nd Wednesday. S.Oka discusses whether Osaka or Hiroshima is the true home of okonomiyaki, and shares differences among decision-focused AI tools such as Jev discovered through hands-on testing.</p>
+<p><strong>中文摘要：</strong>本视频是每第二个周三举办的线上AI LT活动#AIMTG的第4个演讲，S.Oka分享了大阪与广岛谁才是御好烧真正故乡的话题，并通过实际操作对比了Jev等决策聚焦AI工具之间的差异。</p>
+<p><strong>xinsuzuki</strong> · @xinsuzuki · 2026-11-11T12:11:02.000Z</p>
+<p>💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 59</p>
+<p><a href="https://x.com/xinsuzuki/status/2120489474174091472">在 X 查看原帖</a> · <a href="https://t.co/GQzc2AfXQj">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jun_mh4g/status/2120487535558447313"><img src="https://pbs.twimg.com/media/HW17jbHa4AA51U3?format=jpg&amp;name=large" alt="Discoveries from Hands-on with Jev, a Judgment-Specialized AI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jun_mh4g/status/2120487535558447313">Discoveries from Hands-on with Jev, a Judgment-Specialized AI</a></h3>
+<p>At the AIMTG event, Mr. Oka shared new discoveries from hands-on practice using Jev, a judgment-specialized AI.</p>
+<p><strong>中文摘要：</strong>在AIMTG活动中，冈先生分享了用判断特化型AI Jev进行动手实践时获得的新发现。</p>
+<p><strong>じゅん@就活中&amp;移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9</strong> · @jun_mh4g · 2026-11-11T12:03:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 27</p>
+<p><a href="https://x.com/jun_mh4g/status/2120487535558447313">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/ShararraTiago/status/2120485212043751561"><img src="https://pbs.twimg.com/media/HW15p0FXUAAeCRA?format=png&amp;name=medium" alt="Developer: Using Jev in app since launch, still on $5 signup credit · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ShararraTiago/status/2120485212043751561">Developer: Using Jev in app since launch, still on $5 signup credit</a></h3>
+<p>The post says the author has been using Jev in their app since it launched, has not paid anything yet, and is still using the $5 signup credit. It reflects community usage of Jev in a real application.</p>
+<p><strong>中文摘要：</strong>该帖子提到作者在自己的 App 中一直使用 Jev，自其上线以来未曾付费，目前仍在使用 $5 注册赠金。这是 Jev 在真实应用场景中的社区使用分享。</p>
+<p><strong>SHARARRA</strong> · @ShararraTiago · 2026-11-11T11:54:05.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/ShararraTiago/status/2120485212043751561">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>

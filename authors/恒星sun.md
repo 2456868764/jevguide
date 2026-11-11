@@ -1,9 +1,10 @@
 # 恒星sun
 
-14 Jev showcases.
+15 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T11:50:02.000Z | [Testing Jev Input Filtering: Trade-off Between Safety and False Rejections](https://x.com/vintcessun/status/2120484191808958585) | 科研 | 恒星sun | 67 |
 | 2026-11-01T08:15:03.000Z | [Model Confidence Auditing: Selective Decision Gates and Learn then Test](https://x.com/vintcessun/status/2116806208598556798) | 科研 | 恒星sun | 48 |
 | 2026-10-30T08:18:04.000Z | [MiniCPM-OCR introduces Jev for recognition quality verification](https://x.com/vintcessun/status/2116082191730192592) | 社区实践 | 恒星sun | 26 |
 | 2026-10-26T08:42:02.000Z | [Study on Jev's Probability Allocation in Multi-Answer Tasks](https://x.com/vintcessun/status/2114638671450382373) | 科研 | 恒星sun | 23 |

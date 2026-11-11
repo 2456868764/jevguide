@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7259</strong><br>curated posts</td>
+<td align="center"><strong>7267</strong><br>curated posts</td>
 <td align="center"><strong>3575</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,34 +28,34 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1424</strong> showcases · <strong>592</strong> videos</p>
+<p><strong>1428</strong> showcases · <strong>592</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>678</strong> showcases · <strong>334</strong> videos</p>
+<p><strong>679</strong> showcases · <strong>334</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>642</strong> showcases · <strong>285</strong> videos</p>
+<p><strong>643</strong> showcases · <strong>285</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/launch-news.md">Launch news</a></h3>
+<p><sub>产品发布</sub></p>
+<p><strong>616</strong> showcases · <strong>274</strong> videos</p>
+<p><a href="categories/launch-news.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
 <p><strong>616</strong> showcases · <strong>329</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/launch-news.md">Launch news</a></h3>
-<p><sub>产品发布</sub></p>
-<p><strong>615</strong> showcases · <strong>274</strong> videos</p>
-<p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
@@ -106,16 +106,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>138</strong> showcases · <strong>39</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
 <p><strong>137</strong> showcases · <strong>99</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>137</strong> showcases · <strong>39</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
-<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
-<p><strong>Manel</strong> · @manelvelasco_</p>
+<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
+<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2120465975086899238"><img src="https://pbs.twimg.com/media/HW1okWTaoAAZFXY?format=jpg&amp;name=medium" alt="Jev agent hires DeepSeek to write a regex for semantic versions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2120465975086899238">Jev agent hires DeepSeek to write a regex for semantic versions</a></h3>
-<p>This is a task proof showing Jev delegating &#39;write a regex for semantic versions&#39; to DeepSeek at 52% confidence, then accepting the work at 99% confidence and having it minted by a collector on ripples.run.</p>
-<p><strong>58</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 58</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Token360AI/status/2120489872075223337"><img src="https://pbs.twimg.com/media/HW1-SqLbcAEtzwC?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 and Jev 1.13 Now on Token360 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Token360AI/status/2120489872075223337">TypeSafe Jev 1.14 and Jev 1.13 Now on Token360</a></h3>
+<p>Structured decision models: context + predefined questions in, typed results out. Built for routing, classification, and fast, predictable decisions. Supports text + image input, from $0.042 / 1M input tokens.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Token360</strong> · @Token360AI</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/MichaelBlazik/status/2120461555674317228"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120163294337957888/pu/img/1h2mtm9d4EAXZP7S.jpg" alt="Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MichaelBlazik/status/2120461555674317228">Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior</a></h3>
-<p>Michael Blažík announces that his trained behavioral models Ember and Orbit beat SOTA LLMs in accuracy and are 1400x faster than Jev, Gemini, and GPT at predicting fight-or-flight behavior.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
-<p><strong>Michael Blažík</strong> · @MichaelBlazik</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/xinsuzuki/status/2120489474174091472"><img src="https://pbs.twimg.com/media/HW194tbbAAMovzy?format=jpg&amp;name=medium" alt="AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/xinsuzuki/status/2120489474174091472">AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools</a></h3>
+<p>This video is the 4th talk of the online AI LT event #AIMTG held every 2nd Wednesday. S.Oka discusses whether Osaka or Hiroshima is the true home of okonomiyaki, and shares differences among decision-focused AI tools such as Jev discovered through hands-on testing.</p>
+<p><strong>59</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 59</p>
+<p><strong>xinsuzuki</strong> · @xinsuzuki</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
-<p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Zebro</strong> · @321sssrt</p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/jun_mh4g/status/2120487968477749517"><img src="https://pbs.twimg.com/media/HW18OCObYAA1tWe?format=jpg&amp;name=large" alt="Jev + Decisions API Comparison Tool · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jun_mh4g/status/2120487968477749517">Jev + Decisions API Comparison Tool</a></h3>
+<p>The author shares a comparison tool for Jev and Decisions API with a public repository. It handles judgments in choice, score, and yes/no formats.</p>
+<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
+<p><strong>じゅん@就活中&amp;移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9</strong> · @jun_mh4g</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
-<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
-<p><strong>Manel</strong> · @manelvelasco_</p>
+<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
+<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
-<p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Zebro</strong> · @321sssrt</p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/jun_mh4g/status/2120487968477749517"><img src="https://pbs.twimg.com/media/HW18OCObYAA1tWe?format=jpg&amp;name=large" alt="Jev + Decisions API Comparison Tool · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jun_mh4g/status/2120487968477749517">Jev + Decisions API Comparison Tool</a></h3>
+<p>The author shares a comparison tool for Jev and Decisions API with a public repository. It handles judgments in choice, score, and yes/no formats.</p>
+<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
+<p><strong>じゅん@就活中&amp;移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9</strong> · @jun_mh4g</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/ChinaAIDaily/status/2120450505776439328"><img src="https://pbs.twimg.com/media/HW1aeyVbMAAQmx0?format=png&amp;name=small" alt="browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ChinaAIDaily/status/2120450505776439328">browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev</a></h3>
-<p>jev-ultrafast turns web agents into a dynamically indexed action space. Given a goal, TypeSafe&#39;s Jev selects operations and elements on its own, calling a small model only for text input, and can book a Zurich–London flight search in 7.1 seconds.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/_handle_name/status/2120487929231638896"><img src="https://pbs.twimg.com/media/HW18XT3bsAAQ55O?format=jpg&amp;name=medium" alt="Jev and decision-specialized AI returning probabilities · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/_handle_name/status/2120487929231638896">Jev and decision-specialized AI returning probabilities</a></h3>
+<p>The post explains that decision-specialized AIs like Jev and OpenAI Decisions API return answers as option probabilities rather than text.</p>
+<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
+<p><strong>H.N</strong> · @_handle_name</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mr_Buzzoni/status/2120394087983710364"><img src="https://pbs.twimg.com/amplify_video_thumb/2120004695141871617/img/67F1cx3Fsptu9n7V.jpg" alt="Jev Agent Memory: 13-Page Guide and Token Optimization · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mr_Buzzoni/status/2120394087983710364">Jev Agent Memory: 13-Page Guide and Token Optimization</a></h3>
-<p>Shares Jev&#39;s agent memory architecture and an optimization case: cutting per-query token usage from 26,000 to 1,800; letting Jev decide memory storage to avoid agents re-reading the same files each morning and being billed again.</p>
-<p><strong>366</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 366</p>
-<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
+<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/MichaelBlazik/status/2120461555674317228"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120163294337957888/pu/img/1h2mtm9d4EAXZP7S.jpg" alt="Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/MichaelBlazik/status/2120461555674317228">Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior</a></h3>
+<p>Michael Blažík announces that his trained behavioral models Ember and Orbit beat SOTA LLMs in accuracy and are 1400x faster than Jev, Gemini, and GPT at predicting fight-or-flight behavior.</p>
+<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
+<p><strong>Michael Blažík</strong> · @MichaelBlazik</p>
 </td>
 </tr>
 </table>

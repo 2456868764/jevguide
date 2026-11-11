@@ -11,7 +11,7 @@
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 16
 - [Geek Lite](../authors/geek-lite.md) — 15
-- [恒星sun](../authors/恒星sun.md) — 14
+- [恒星sun](../authors/恒星sun.md) — 15
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
 - [rody](../authors/rody.md) — 13
@@ -957,6 +957,7 @@
 - [TinyRouter](../authors/tinyrouter.md) — 2
 - [TJ Singh](../authors/tj-singh.md) — 2
 - [token by token](../authors/token-by-token.md) — 2
+- [Token360](../authors/token360.md) — 2
 - [Tong Zhu](../authors/tong-zhu.md) — 2
 - [Tony Schaffert](../authors/tony-schaffert.md) — 2
 - [Tony Simons](../authors/tony-simons.md) — 2
@@ -1025,6 +1026,7 @@
 - [クオ⭐︎個人開発｜kitepon.dev](../authors/個人開発-kitepon-dev.md) — 2
 - [ケンちゃん_AIDX](../authors/aidx.md) — 2
 - [ししかわ/Shinya Ishikawa](../authors/shinya-ishikawa.md) — 2
+- [じゅん@就活中&移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9](../authors/就活中-移住先募集中-10-21xr-北海道-世話-6-14-9.md) — 2
 - [たかし](../authors/jev-showcase.md) — 2
 - [ちとせみ](../authors/jev-showcase.md) — 2
 - [てらじ｜AIエンジニア](../authors/ai.md) — 2
@@ -1383,6 +1385,7 @@
 - [Angel Castro](../authors/angel-castro.md) — 1
 - [Angel Galvis Caballero](../authors/angel-galvis-caballero.md) — 1
 - [Angel.](../authors/angel.md) — 1
+- [Angela Muñoz](../authors/angela-munoz.md) — 1
 - [Angus](../authors/angus.md) — 1
 - [Aníbal Rojas](../authors/anibal-rojas.md) — 1
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
@@ -2287,6 +2290,7 @@
 - [Gustav Ekerot](../authors/gustav-ekerot.md) — 1
 - [Gyomei](../authors/gyomei.md) — 1
 - [Gyver](../authors/gyver.md) — 1
+- [H.N](../authors/h-n.md) — 1
 - [h100envy](../authors/h100envy.md) — 1
 - [hackerlogs](../authors/hackerlogs.md) — 1
 - [hacks.gr](../authors/hacks-gr.md) — 1
@@ -3824,6 +3828,7 @@
 - [Shantanu Goel](../authors/shantanu-goel.md) — 1
 - [Shaosu Liu](../authors/shaosu-liu.md) — 1
 - [Shapor Naghibzadeh](../authors/shapor-naghibzadeh.md) — 1
+- [SHARARRA](../authors/shararra.md) — 1
 - [Shariff Raffi](../authors/shariff-raffi.md) — 1
 - [Sharon Riley](../authors/sharon-riley.md) — 1
 - [Shashank Jha](../authors/shashank-jha.md) — 1
@@ -4114,7 +4119,6 @@
 - [Tobias Naftali](../authors/tobias-naftali.md) — 1
 - [Todd Dailey](../authors/todd-dailey.md) — 1
 - [Toggle News](../authors/toggle-news.md) — 1
-- [Token360](../authors/token360.md) — 1
 - [Tokenwire](../authors/tokenwire.md) — 1
 - [toku_prv](../authors/toku-prv.md) — 1
 - [Tokyonight8](../authors/tokyonight8.md) — 1
@@ -4349,6 +4353,7 @@
 - [Xiangyi Li](../authors/xiangyi-li.md) — 1
 - [Xin Eric Wang](../authors/xin-eric-wang.md) — 1
 - [xingyue](../authors/xingyue.md) — 1
+- [xinsuzuki](../authors/xinsuzuki.md) — 1
 - [Xirfadlay](../authors/xirfadlay.md) — 1
 - [xkonjin](../authors/xkonjin.md) — 1
 - [XL](../authors/xl.md) — 1

@@ -2,6 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T12:31:54.000Z | [70+ Developers Building with Jev and Lovable](https://x.com/angelamuba001/status/2120494726763995445) | 社区实践 | Angela Muñoz | 17 |
+| 2026-11-11T12:12:36.000Z | [TypeSafe Jev 1.14 and Jev 1.13 Now on Token360](https://x.com/Token360AI/status/2120489872075223337) | 产品发布 | Token360 | 3 |
+| 2026-11-11T12:11:02.000Z | [AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools](https://x.com/xinsuzuki/status/2120489474174091472) | 社区实践 | xinsuzuki | 59 |
+| 2026-11-11T12:05:03.000Z | [Jev + Decisions API Comparison Tool](https://x.com/jun_mh4g/status/2120487968477749517) | 开发者工具 | じゅん@就活中&移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9 | 31 |
+| 2026-11-11T12:04:53.000Z | [Jev and decision-specialized AI returning probabilities](https://x.com/_handle_name/status/2120487929231638896) | 工作原理 | H.N | 27 |
+| 2026-11-11T12:03:19.000Z | [Discoveries from Hands-on with Jev, a Judgment-Specialized AI](https://x.com/jun_mh4g/status/2120487535558447313) | 社区实践 | じゅん@就活中&移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9 | 27 |
+| 2026-11-11T11:54:05.000Z | [Developer: Using Jev in app since launch, still on $5 signup credit](https://x.com/ShararraTiago/status/2120485212043751561) | 社区实践 | SHARARRA | 16 |
+| 2026-11-11T11:50:02.000Z | [Testing Jev Input Filtering: Trade-off Between Safety and False Rejections](https://x.com/vintcessun/status/2120484191808958585) | 科研 | 恒星sun | 67 |
 | 2026-11-11T11:11:16.000Z | [Hackathon participant tests Jev classification model](https://x.com/manelvelasco_/status/2120474434414776397) | 社区实践 | Manel | 32 |
 | 2026-11-11T10:37:39.000Z | [Jev agent hires DeepSeek to write a regex for semantic versions](https://x.com/usebrainchain/status/2120465975086899238) | 智能体 | BrainChain | 58 |
 | 2026-11-11T10:20:05.000Z | [Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior](https://x.com/MichaelBlazik/status/2120461555674317228) | 科研 | Michael Blažík | 16 |
@@ -94,11 +102,3 @@
 | 2026-11-09T20:57:41.000Z | [Jev Model PDF Resource Share](https://x.com/kinox1out/status/2119897237543063849) | 开发资源 | Kinox | 44 |
 | 2026-11-09T20:40:13.000Z | [Voice coffee ordering with Jev, ~200ms UI updates](https://x.com/kunalabcdani/status/2119892841723990319) | 智能体 | Kunal Abichandani | 38K |
 | 2026-11-09T20:36:56.000Z | [Foundation models diverging: Jev as general-purpose decision model](https://x.com/rayruizhiliao/status/2119892015290925542) | 科研 | Ray Liao | 784 |
-| 2026-11-09T20:14:18.000Z | [Arcade, Mastra, and Jev Host Workshop on Agents Acting on Sensitive Data](https://x.com/TryArcade/status/2119886319921070241) | 社区实践 | Arcade.dev \| The Actions Runtime | 235 |
-| 2026-11-09T20:08:26.000Z | [How Decider models like Jev and AWS Strands Decider achieve massive cost savings](https://x.com/RDarrylR/status/2119884841080541665) | 开发资源 | Darryl Ruggles | 1.1K |
-| 2026-11-09T19:16:40.000Z | [English Tutorial: How to Train a Decision Model (Jev)](https://x.com/fabriciocarraro/status/2119871814386217104) | 开发资源 | Fabrício Carraro | 202 |
-| 2026-11-09T18:59:35.000Z | [AUD/USD AI Short Scenario with Jev Review](https://x.com/hadohunter/status/2119867514536751237) | 金融 | HadoHunter | 44 |
-| 2026-11-09T18:36:40.000Z | [Jev NYC Jam Invitation](https://x.com/AlexSlobodnik/status/2119861746865192971) | 社区实践 | Slobo | 721 |
-| 2026-11-09T18:21:58.000Z | [Built a memecoin trading bot with Grok x Jev](https://x.com/ellfyy_/status/2119858050588709142) | 金融 | Elf | 224 |
-| 2026-11-09T18:15:19.000Z | [Jev 1.13 ranks among top decision models in PI Trading Arena](https://x.com/joelsstafford/status/2119856372984775143) | 金融 | Joel 🌊 | 127 |
-| 2026-11-09T18:04:18.000Z | [Jev and More Decision Models Now on Infron](https://x.com/InfronAI/status/2119853603351314596) | 接入动态 | Infron | 134 |

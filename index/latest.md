@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T01:54:56.000Z | [Discussing RAG Architecture and Suggesting Jev](https://x.com/Suercha007/status/2120334428581109970) | 知识与搜索 | 苏茶 | 84 |
 | 2026-11-11T01:09:09.000Z | [Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper](https://x.com/mm_0824_kb/status/2120322908782555595) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 47 |
 | 2026-11-11T01:01:05.000Z | [Jev use case: ordering from a menu](https://x.com/goncalo_canhoto/status/2120320878647062685) | 社区实践 | Gonçalo Canhoto 🇵🇹 | 57 |
 | 2026-11-11T00:37:27.000Z | [Jev Hires DeepSeek to Fix Leap Year Check](https://x.com/usebrainchain/status/2120314930033500196) | 智能体 | BrainChain | 71 |
@@ -101,4 +102,3 @@
 | 2026-11-06T01:02:38.000Z | [Jev Anti-Pattern: Don't Use Jev to Replace Code for Big Decisions](https://x.com/CompleteSkeptic/status/2118509326981791781) | 社区实践 | Diogo Almeida | 13K |
 | 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |
 | 2026-11-06T00:55:34.000Z | [Jev API Contract: Behavior When No Category Matches or Target Is Absent](https://x.com/milhouscc/status/2118507550962507947) | 开发资源 | Milhous | 36 |
-| 2026-11-06T00:46:28.000Z | [TypeSafe AI now gives real-time JEV scores for Pump.fun tokens](https://x.com/0rdlibrary/status/2118505258049548751) | 金融 | 8Bit🦞 | 236 |

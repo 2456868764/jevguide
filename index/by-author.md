@@ -4841,6 +4841,7 @@
 - [老范](../authors/老范.md) — 1
 - [芒果刀🥭](../authors/芒果刀.md) — 1
 - [花叔](../authors/花叔.md) — 1
+- [苏茶](../authors/苏茶.md) — 1
 - [英格兰AI哥](../authors/英格兰ai哥.md) — 1
 - [茶木 孝晃｜AI × セキュリティ](../authors/茶木-孝晃-ai.md) — 1
 - [菅原のびすけ](../authors/菅原.md) — 1

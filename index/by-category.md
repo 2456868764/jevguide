@@ -11,7 +11,7 @@
 - [Finance](../categories/finance.md) — 411
 - [Workflow automation](../categories/workflow-automation.md) — 310
 - [Marketing](../categories/marketing.md) — 202
-- [Knowledge & search](../categories/knowledge-search.md) — 145
+- [Knowledge & search](../categories/knowledge-search.md) — 146
 - [Content creation](../categories/content-creation.md) — 137
 - [Scientific research](../categories/scientific-research.md) — 136
 - [Data analytics](../categories/data-analytics.md) — 127

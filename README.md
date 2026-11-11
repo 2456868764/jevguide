@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7243</strong><br>curated posts</td>
-<td align="center"><strong>3567</strong><br>original videos</td>
+<td align="center"><strong>7244</strong><br>curated posts</td>
+<td align="center"><strong>3568</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>145</strong> showcases · <strong>72</strong> videos</p>
+<p><strong>146</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/Suercha007/status/2120334428581109970"><img src="https://pbs.twimg.com/tweet_video_thumb/HWwaBO7aQAAwKTg.jpg" alt="Discussing RAG Architecture and Suggesting Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Suercha007/status/2120334428581109970">Discussing RAG Architecture and Suggesting Jev</a></h3>
+<p>The author notes that RAG architecture should be chosen by scenario, with knowledge base updates more important than architecture; GraphRAG can infer hidden information but graph maintenance is hard, and suggests the newly released Jev could be considered for RAG.</p>
+<p><strong>84</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
+<p><strong>苏茶</strong> · @Suercha007</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
 <a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
 <p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
 <p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
 <p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/goncalo_canhoto/status/2120320878647062685"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev use case: ordering from a menu · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/goncalo_canhoto/status/2120320878647062685">Jev use case: ordering from a menu</a></h3>
 <p>A tweet says ordering from a menu is a perfect use case for Jev, since it involves pre-determined choices and combinations.</p>
 <p><strong>57</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 57</p>
 <p><strong>Gonçalo Canhoto 🇵🇹</strong> · @goncalo_canhoto</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/usebrainchain/status/2120314930033500196"><img src="https://pbs.twimg.com/media/HWzfMXCbMAARMOF?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Fix Leap Year Check · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/usebrainchain/status/2120314930033500196">Jev Hires DeepSeek to Fix Leap Year Check</a></h3>
 <p>Jev hired DeepSeek at 46% confidence to fix a leap year check, then accepted the work at 100% confidence. The task was minted by a collector on ripples.run.</p>
 <p><strong>71</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 71</p>
 <p><strong>BrainChain</strong> · @usebrainchain</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
-<p>The author shares a cool video showing off Jev and the rest of Copper.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Collin Rijock</strong> · @CollinRijock</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
-<p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
-<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
-<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/Suercha007/status/2120334428581109970"><img src="https://pbs.twimg.com/tweet_video_thumb/HWwaBO7aQAAwKTg.jpg" alt="Discussing RAG Architecture and Suggesting Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Suercha007/status/2120334428581109970">Discussing RAG Architecture and Suggesting Jev</a></h3>
+<p>The author notes that RAG architecture should be chosen by scenario, with knowledge base updates more important than architecture; GraphRAG can infer hidden information but graph maintenance is hard, and suggests the newly released Jev could be considered for RAG.</p>
+<p><strong>84</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
+<p><strong>苏茶</strong> · @Suercha007</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2120314930033500196"><img src="https://pbs.twimg.com/media/HWzfMXCbMAARMOF?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Fix Leap Year Check · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2120314930033500196">Jev Hires DeepSeek to Fix Leap Year Check</a></h3>
+<p>Jev hired DeepSeek at 46% confidence to fix a leap year check, then accepted the work at 100% confidence. The task was minted by a collector on ripples.run.</p>
+<p><strong>71</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 71</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
 <p>The author shares a cool video showing off Jev and the rest of Copper.</p>
 <p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><strong>Collin Rijock</strong> · @CollinRijock</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/ScottNLP/status/2120307343015751923"><img src="https://pbs.twimg.com/amplify_video_thumb/2118717614986063872/img/OA_a96MZ68qgH3BN.jpg" alt="Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ScottNLP/status/2120307343015751923">Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models</a></h3>
-<p>Flide is an open-source inference infrastructure built for Jev-style decision models. It merges 18 questions from an agent into a single inference run instead of executing 18 separate prompts; benchmark data shows it reduces latency from 359 ms to 37.7 ms on Qwen3.5-0.8B, roughly 9.5× faster.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Scofield Hao Fei</strong> · @ScottNLP</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/OsamaGweaa/status/2120277675595944172"><img src="https://pbs.twimg.com/media/HWy9TVoWoAAPPOI?format=jpg&amp;name=medium" alt="Hackathon for building with Jev on Loveble · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/OsamaGweaa/status/2120277675595944172">Hackathon for building with Jev on Loveble</a></h3>
-<p>The author shares a hackathon he came across, sponsored by Loveble and Type Safe, where participants bring laptops and spend a few hours building with Jev on Loveble, then showcase what they made. He liked the vibe but couldn&#39;t stay till the end.</p>
-<p><strong>90</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 90</p>
-<p><strong>سكِيلاَتْشِي | Osama Gweaa</strong> · @OsamaGweaa</p>
+<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/madarco/status/2120284469362082274"><img src="https://pbs.twimg.com/media/HWzDfHmbUAA47sQ?format=jpg&amp;name=medium" alt="Write rules in plain sentences; Jev checks requests live · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/madarco/status/2120284469362082274">Write rules in plain sentences; Jev checks requests live</a></h3>
+<p>The post describes writing rules in plain sentences, e.g., &#39;Only send to @yourcompany.com&#39; and &#39;Refund up to $200&#39;. The firewall uses Jev to check every request live and reviews all logs every 6 hours to spot unusual trends.</p>
+<p><strong>8</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Marco D&#39;Alia</strong> · @madarco</p>
 </td>
 </tr>
 </table>

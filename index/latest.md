@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T23:30:00.000Z | [Let Jev Pick the Right Model—Faster and Cheaper](https://x.com/LittleMomentsTH/status/2120660344750424202) | 社区实践 | Little Moments | 18 |
+| 2026-11-11T23:15:18.000Z | [Developer shares using JEV to safely access and bulk-organize work email](https://x.com/ivanrvpereira/status/2120656645965689144) | 社区实践 | Ivan Pereira | 19 |
+| 2026-11-11T22:56:50.000Z | [Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API](https://x.com/topdevfreelance/status/2120651995375964219) | 社区实践 | Alex topDev | 39 |
+| 2026-11-11T22:47:00.000Z | [Awesome Jev List: 640 Open Source Projects](https://x.com/Manorgw/status/2120649521399058816) | 开发资源 | Man ting | 144 |
 | 2026-11-11T22:18:25.000Z | [TypeSafe Jev 1.14 Leads Two Benchmarks](https://x.com/BroadwakeAI/status/2120642328616657184) | 产品发布 | BroadwakeAI | 5 |
 | 2026-11-11T22:17:50.000Z | [TypeSafe Jev 1.14 Cost Comparison on Shared Evals](https://x.com/BroadwakeAI/status/2120642184198467781) | 开发资源 | BroadwakeAI | 9 |
 | 2026-11-11T22:11:58.000Z | [Proposal to embed Jev decision engine into bot](https://x.com/ScottForte/status/2120640705051688997) | 社区实践 | Scott Forte | 5 |
@@ -98,7 +102,3 @@
 | 2026-11-10T22:36:25.000Z | [Write rules in plain sentences; Jev checks requests live](https://x.com/madarco/status/2120284469362082274) | 网络安全 | Marco D'Alia | 8 |
 | 2026-11-10T22:09:25.000Z | [Hackathon for building with Jev on Loveble](https://x.com/OsamaGweaa/status/2120277675595944172) | 社区实践 | سكِيلاَتْشِي \| Osama Gweaa | 90 |
 | 2026-11-10T21:55:20.000Z | [Jev Helps Coordinate AI Agent Decisions](https://x.com/PatrikNordinHR/status/2120274132302709227) | 智能体 | Patrik Nordin | 50 |
-| 2026-11-10T21:45:17.000Z | [CS 1.6 de_dust2 pistol round experiment: Claude Opus 5.5 + JEV vs DeepSeek V4.1 Flash + JEV](https://x.com/hammer0x419/status/2120271601014870443) | 游戏 | Hammer0x419 | 20 |
-| 2026-11-10T20:40:59.000Z | [Jev-as-a-Judge Evaluation Results](https://x.com/YukunHeZS/status/2120255421587857774) | 科研 | Yukun He | 23 |
-| 2026-11-10T20:40:58.000Z | [Evaluating SRE Diagnosis Reports with Jev-as-a-Judge](https://x.com/YukunHeZS/status/2120255415330234487) | 科研 | Yukun He | 122 |
-| 2026-11-10T19:37:27.000Z | [Jev Completes Task 39: Structuring Job Posts](https://x.com/usebrainchain/status/2120239434176286965) | 智能体 | BrainChain | 237 |

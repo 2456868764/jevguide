@@ -189,6 +189,7 @@
 - [King Coin](../authors/king-coin.md) — 4
 - [Kyle Wild](../authors/kyle-wild.md) — 4
 - [Liran Tal](../authors/liran-tal.md) — 4
+- [Little Moments](../authors/little-moments.md) — 4
 - [lumxss](../authors/lumxss.md) — 4
 - [Maki@Sunwood AI Labs.](../authors/maki-sunwood-ai-labs.md) — 4
 - [Marcel Pociot 🧪](../authors/marcel-pociot.md) — 4
@@ -334,7 +335,6 @@
 - [Latent.Space](../authors/latent-space.md) — 3
 - [Leo](../authors/leo.md) — 3
 - [leopardracer](../authors/leopardracer.md) — 3
-- [Little Moments](../authors/little-moments.md) — 3
 - [Lunah Lee](../authors/lunah-lee.md) — 3
 - [Luong NGUYEN](../authors/luong-nguyen.md) — 3
 - [Machine Learning](../authors/machine-learning.md) — 3
@@ -1316,6 +1316,7 @@
 - [Alex Khomyakov](../authors/alex-khomyakov.md) — 1
 - [Alex Lee](../authors/alex-lee.md) — 1
 - [Alex Prompter](../authors/alex-prompter.md) — 1
+- [Alex topDev](../authors/alex-topdev.md) — 1
 - [Alex Vence](../authors/alex-vence.md) — 1
 - [Alex Vikati](../authors/alex-vikati.md) — 1
 - [Alex Yarosh · AI expert · CEO of AI Studio](../authors/alex-yarosh-ai-expert-ceo-of-ai-studio.md) — 1
@@ -2486,6 +2487,7 @@
 - [Ivan Misuno 🇺🇦](../authors/ivan-misuno.md) — 1
 - [Ivan Neustroev](../authors/ivan-neustroev.md) — 1
 - [Ivan Panakhno](../authors/ivan-panakhno.md) — 1
+- [Ivan Pereira](../authors/ivan-pereira.md) — 1
 - [ivy](../authors/ivy.md) — 1
 - [J-S---](../authors/j-s.md) — 1
 - [J.B.](../authors/j-b.md) — 1
@@ -2968,6 +2970,7 @@
 - [MalikiAoweed](../authors/malikiaoweed.md) — 1
 - [MalluCuler](../authors/malluculer.md) — 1
 - [Malte Ubl](../authors/malte-ubl.md) — 1
+- [Man ting](../authors/man-ting.md) — 1
 - [Manel](../authors/manel.md) — 1
 - [Manfred Steyer](../authors/manfred-steyer.md) — 1
 - [Mani Brar](../authors/mani-brar.md) — 1

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7327</strong><br>curated posts</td>
-<td align="center"><strong>3604</strong><br>original videos</td>
+<td align="center"><strong>7331</strong><br>curated posts</td>
+<td align="center"><strong>3605</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1443</strong> showcases · <strong>599</strong> videos</p>
+<p><strong>1446</strong> showcases · <strong>600</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>422</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>423</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/BroadwakeAI/status/2120642328616657184"><img src="https://pbs.twimg.com/media/HW4I6ZxXgAE_aq3?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 Leads Two Benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BroadwakeAI/status/2120642328616657184">TypeSafe Jev 1.14 Leads Two Benchmarks</a></h3>
-<p>The post reports TypeSafe Jev 1.14 outperforming in Mind2Web Multimodal (86.8% vs 86.2%) and When2Call (82.0% vs 79.9%).</p>
-<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>BroadwakeAI</strong> · @BroadwakeAI</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/LittleMomentsTH/status/2120660344750424202"><img src="https://pbs.twimg.com/amplify_video_thumb/2120654017579937792/img/zYMC3Mkm-_k7Hrlf.jpg" alt="Let Jev Pick the Right Model—Faster and Cheaper · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/LittleMomentsTH/status/2120660344750424202">Let Jev Pick the Right Model—Faster and Cheaper</a></h3>
+<p>A user shares how they let Jev assess question difficulty and auto-select the right model—no more manual switching, faster work, and lower token usage.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><strong>Little Moments</strong> · @LittleMomentsTH</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/BroadwakeAI/status/2120642184198467781"><img src="https://pbs.twimg.com/media/HW4IxzjW8AAwKmq?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 Cost Comparison on Shared Evals · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/BroadwakeAI/status/2120642184198467781">TypeSafe Jev 1.14 Cost Comparison on Shared Evals</a></h3>
-<p>On 7 shared evals, TypeSafe Jev 1.14 totals $0.68, undercutting Google Gemini Decision 1 ($0.88), GPT-6 Luna ($0.93), and Gemini 3.5 Flash-Lite ($4.14). Much cheaper than Google&#39;s Flash-Lite, but not the cheapest overall.</p>
-<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>BroadwakeAI</strong> · @BroadwakeAI</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ivanrvpereira/status/2120656645965689144"><img src="https://pbs.twimg.com/media/HW4V-p7a4AABVi8?format=jpg&amp;name=medium" alt="Developer shares using JEV to safely access and bulk-organize work email · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ivanrvpereira/status/2120656645965689144">Developer shares using JEV to safely access and bulk-organize work email</a></h3>
+<p>Ivan Pereira shares on X how he used JEV in his open-source project AgentMailGuard, inspired by @chibionos&#39;s talk at aiDotEngineer, to safely access and bulk-organize work email.</p>
+<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
+<p><strong>Ivan Pereira</strong> · @ivanrvpereira</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/ScottForte/status/2120640705051688997"><img src="https://pbs.twimg.com/amplify_video_thumb/2120640678765981696/img/SLqHWDD6RAMzzhH-.jpg" alt="Proposal to embed Jev decision engine into bot · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ScottForte/status/2120640705051688997">Proposal to embed Jev decision engine into bot</a></h3>
-<p>Scott Forte suggests on X that Elon Musk embed Jev (fast typed probabilistic decisions, no text generation) into a bot, arguing it could streamline agent flows, cut costs for users, and improve routing/classification results.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Scott Forte</strong> · @ScottForte</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/topdevfreelance/status/2120651995375964219"><img src="https://pbs.twimg.com/media/HW4Rv_HX0AAXtOp?format=jpg&amp;name=medium" alt="Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/topdevfreelance/status/2120651995375964219">Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API</a></h3>
+<p>The author notes that after Jev gained traction, a frontier lab released the Gemini Decisions API, praising this fast and cheap new use case.</p>
+<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
+<p><strong>Alex topDev</strong> · @topdevfreelance</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/swyx/status/2120640558184206508"><img src="https://pbs.twimg.com/media/HW4HWM2bcAARJtF?format=jpg&amp;name=medium" alt="TypeSafe AI joins Jev Day on stream · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/swyx/status/2120640558184206508">TypeSafe AI joins Jev Day on stream</a></h3>
-<p>swyx announces @CompleteSkeptic and @typesafeai take over for Jev Day on stream, featuring TypeSafe-related AI content.</p>
-<p><strong>1.3K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 1.3K</p>
-<p><strong>swyx @aiDotEngineer CODE</strong> · @swyx</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/Manorgw/status/2120649521399058816"><img src="https://pbs.twimg.com/media/HWuBnmya8AAKl8i?format=png&amp;name=900x900" alt="Awesome Jev List: 640 Open Source Projects · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Manorgw/status/2120649521399058816">Awesome Jev List: 640 Open Source Projects</a></h3>
+<p>The post highlights the Awesome Jev open-source list, featuring 640 projects built with Jev across 11 categories and 27 languages, with 110 added on September 22 alone, reflecting the Jev ecosystem&#39;s momentum.</p>
+<p><strong>144</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 144</p>
+<p><strong>Man ting</strong> · @Manorgw</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/LittleMomentsTH/status/2120660344750424202"><img src="https://pbs.twimg.com/amplify_video_thumb/2120654017579937792/img/zYMC3Mkm-_k7Hrlf.jpg" alt="Let Jev Pick the Right Model—Faster and Cheaper · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/LittleMomentsTH/status/2120660344750424202">Let Jev Pick the Right Model—Faster and Cheaper</a></h3>
+<p>A user shares how they let Jev assess question difficulty and auto-select the right model—no more manual switching, faster work, and lower token usage.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><strong>Little Moments</strong> · @LittleMomentsTH</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/Manorgw/status/2120649521399058816"><img src="https://pbs.twimg.com/media/HWuBnmya8AAKl8i?format=png&amp;name=900x900" alt="Awesome Jev List: 640 Open Source Projects · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Manorgw/status/2120649521399058816">Awesome Jev List: 640 Open Source Projects</a></h3>
+<p>The post highlights the Awesome Jev open-source list, featuring 640 projects built with Jev across 11 categories and 27 languages, with 110 added on September 22 alone, reflecting the Jev ecosystem&#39;s momentum.</p>
+<p><strong>144</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 144</p>
+<p><strong>Man ting</strong> · @Manorgw</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/BroadwakeAI/status/2120642328616657184"><img src="https://pbs.twimg.com/media/HW4I6ZxXgAE_aq3?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 Leads Two Benchmarks · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/BroadwakeAI/status/2120642328616657184">TypeSafe Jev 1.14 Leads Two Benchmarks</a></h3>
 <p>The post reports TypeSafe Jev 1.14 outperforming in Mind2Web Multimodal (86.8% vs 86.2%) and When2Call (82.0% vs 79.9%).</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>BroadwakeAI</strong> · @BroadwakeAI</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/swyx/status/2120640558184206508"><img src="https://pbs.twimg.com/media/HW4HWM2bcAARJtF?format=jpg&amp;name=medium" alt="TypeSafe AI joins Jev Day on stream · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/swyx/status/2120640558184206508">TypeSafe AI joins Jev Day on stream</a></h3>
-<p>swyx announces @CompleteSkeptic and @typesafeai take over for Jev Day on stream, featuring TypeSafe-related AI content.</p>
-<p><strong>1.3K</strong> views · 💬 3 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 1.3K</p>
-<p><strong>swyx @aiDotEngineer CODE</strong> · @swyx</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/Ipenywis/status/2120638418430640317"><img src="https://pbs.twimg.com/media/HW4EZsKWYAEk9mE?format=png&amp;name=large" alt="Jev is 58% cheaper than Gemini · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Ipenywis/status/2120638418430640317">Jev is 58% cheaper than Gemini</a></h3>
-<p>The user questions Gemini&#39;s pricing, noting that Jev costs $42, 58% cheaper than Gemini&#39;s $100.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Islem (CoderOne)</strong> · @Ipenywis</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/Consorielle_I/status/2120626630523535387"><img src="https://pbs.twimg.com/amplify_video_thumb/2120626532775276544/img/AOwD-eS8Hmh8tqoY.jpg" alt="Gemini Decision 1 launches: 0 output token decision model, pricing compared with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Consorielle_I/status/2120626630523535387">Gemini Decision 1 launches: 0 output token decision model, pricing compared with Jev</a></h3>
-<p>The post introduces Google&#39;s new Gemini Decision 1, which returns calibrated probabilities (noul, choice, score) with 0 output tokens, and notes it costs $0.10 per 1M, about 2.4x Jev&#39;s $0.042, while being natively multimodal.</p>
-<p><strong>9</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 9</p>
-<p><strong>Consorielle Imagine</strong> · @Consorielle_I</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/hammer0x419/status/2120635607869214739"><img src="https://pbs.twimg.com/media/HW4C2SyXQAARapa?format=jpg&amp;name=medium" alt="CS 1.6 Agents Use JEV Action Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hammer0x419/status/2120635607869214739">CS 1.6 Agents Use JEV Action Model</a></h3>
+<p>The post describes a Counter-Strike 1.6 agent system: a strategist model plans while the JEV action model handles real-time calls; movement and aim are identical, leaving decisions as the only variable, with 17 recorded rounds on de_dust2.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419</p>
 </td>
 </tr>
 </table>

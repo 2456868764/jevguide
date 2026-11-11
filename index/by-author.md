@@ -569,6 +569,7 @@
 - [codegirl007](../authors/codegirl007.md) — 2
 - [Codio](../authors/codio.md) — 2
 - [Coupons Free Discounts](../authors/coupons-free-discounts.md) — 2
+- [CrowdCent](../authors/crowdcent.md) — 2
 - [Cua](../authors/cua.md) — 2
 - [Cyris](../authors/cyris.md) — 2
 - [Daily Dose of Data Science](../authors/daily-dose-of-data-science.md) — 2
@@ -1883,6 +1884,7 @@
 - [Davin YC Dong](../authors/davin-yc-dong.md) — 1
 - [daviswu](../authors/daviswu.md) — 1
 - [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
+- [Dawna Yi](../authors/dawna-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
 - [dbredesen](../authors/dbredesen.md) — 1
 - [dbt](../authors/dbt.md) — 1
@@ -3525,6 +3527,7 @@
 - [R@aiaicreate](../authors/r-aiaicreate.md) — 1
 - [raa's](../authors/raa-s.md) — 1
 - [Ractor](../authors/ractor.md) — 1
+- [Rafa](../authors/rafa.md) — 1
 - [Rafael](../authors/rafael.md) — 1
 - [Rafael Quintanilha](../authors/rafael-quintanilha.md) — 1
 - [Rafal Wilinski](../authors/rafal-wilinski.md) — 1

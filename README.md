@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7273</strong><br>curated posts</td>
-<td align="center"><strong>3578</strong><br>original videos</td>
+<td align="center"><strong>7277</strong><br>curated posts</td>
+<td align="center"><strong>3580</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1428</strong> showcases · <strong>592</strong> videos</p>
+<p><strong>1429</strong> showcases · <strong>592</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>679</strong> showcases · <strong>334</strong> videos</p>
+<p><strong>680</strong> showcases · <strong>334</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -106,16 +106,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/content-creation.md">Content creation</a></h3>
+<p><sub>内容创作</sub></p>
+<p><strong>138</strong> showcases · <strong>100</strong> videos</p>
+<p><a href="categories/content-creation.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
 <p><strong>138</strong> showcases · <strong>39</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/content-creation.md">Content creation</a></h3>
-<p><sub>内容创作</sub></p>
-<p><strong>137</strong> showcases · <strong>99</strong> videos</p>
-<p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -178,18 +178,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
-<p><sub>电商</sub></p>
-<p><strong>25</strong> showcases · <strong>19</strong> videos</p>
-<p><a href="categories/e-commerce.md">Open category →</a></p>
+<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
+<p><sub>法律合规</sub></p>
+<p><strong>25</strong> showcases · <strong>9</strong> videos</p>
+<p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
-<p><sub>法律合规</sub></p>
-<p><strong>24</strong> showcases · <strong>8</strong> videos</p>
-<p><a href="categories/legal-compliance.md">Open category →</a></p>
+<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
+<p><sub>电商</sub></p>
+<p><strong>25</strong> showcases · <strong>19</strong> videos</p>
+<p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/defenceability/status/2120522966723444838"><img src="https://pbs.twimg.com/media/HW2cQh3a4AAI-m0?format=jpg&amp;name=medium" alt="Jev test project: Cybersecurity topics page · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/defenceability/status/2120522966723444838">Jev test project: Cybersecurity topics page</a></h3>
-<p>The author shares a cybersecurity topics page created while testing Jev, and gives it a positive review.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>するめ</strong> · @defenceability</p>
+<p><strong>01</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
+<a href="https://x.com/rafa_maker/status/2120535342503678461"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120535321943130112/pu/img/Dy_7XQCc4eePiurS.jpg" alt="GRIN: Using Jev to Flag EU Greenwashing Risks · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rafa_maker/status/2120535342503678461">GRIN: Using Jev to Flag EU Greenwashing Risks</a></h3>
+<p>At Jev-a-thon, the author built GRIN, which uses Jev to score green claims on shop pages and simple rules to flag risks under new EU greenwashing regulations.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Rafa</strong> · @rafa_maker</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mr_Buzzoni/status/2120522937338155045"><img src="https://pbs.twimg.com/amplify_video_thumb/2120009557489430528/img/owxj1UXgquSGGxOR.jpg" alt="Meet Jev: The &#39;Internet&#39; Moment for AI? · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mr_Buzzoni/status/2120522937338155045">Meet Jev: The &#39;Internet&#39; Moment for AI?</a></h3>
-<p>The post introduces Jev as an AI decision layer, claiming up to 193x faster and 444x cheaper in tests with Claude models, with a 10-page research: LLM writes, agents act, Jev picks the next move.</p>
-<p><strong>78</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
-<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/CrowdCent/status/2120533616065487055"><img src="https://pbs.twimg.com/media/HW2lebqXIAA0k9P?format=jpg&amp;name=medium" alt="Optimizing Jev prompts with DSPyMator + GEPA · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CrowdCent/status/2120533616065487055">Optimizing Jev prompts with DSPyMator + GEPA</a></h3>
+<p>A community user shows how DSPyMator&#39;s fit() with GEPA rewrites Jev prompts, lifting held-out accuracy from 92.9% to 97.2% in about 90 seconds with 600 labels (median of 3 seeds).</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 5</p>
+<p><strong>CrowdCent</strong> · @CrowdCent</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
-<a href="https://x.com/pontusab/status/2120516059619033571"><img src="https://pbs.twimg.com/amplify_video_thumb/2120516041847754752/img/xOe1KJxbYYUdMfdI.jpg" alt="Building a great composer: use Jev for intent-based recommendations · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/pontusab/status/2120516059619033571">Building a great composer: use Jev for intent-based recommendations</a></h3>
-<p>Pontus Abrahamsson shares practical tips for building a great composer: prefetching data, Tiptap under the hood, keyboard navigation, localStorage drafts, polished paste behavior, and Jev for intent-based recommendations.</p>
-<p><strong>1.6K</strong> views · 💬 6 &nbsp; 🔁 1 &nbsp; ♡ 61 &nbsp; 📊 1.6K</p>
-<p><strong>Pontus Abrahamsson</strong> · @pontusab</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
+<a href="https://x.com/CrowdCent/status/2120533611837595926"><img src="https://pbs.twimg.com/media/HW2lSrnXAAAqD0H?format=jpg&amp;name=large" alt="centimators 0.4: Bring scikit-learn API to Jev and DSPy programs · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CrowdCent/status/2120533611837595926">centimators 0.4: Bring scikit-learn API to Jev and DSPy programs</a></h3>
+<p>centimators 0.4 wraps DSPy programs as scikit-learn estimators. Supports fit, predict_proba, cross_val_score, GridSearchCV, StackingClassifier, works with Jev, and can run optimizers like GEPA.</p>
+<p><strong>35</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 2 &nbsp; 📊 35</p>
+<p><strong>CrowdCent</strong> · @CrowdCent</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2120511535562821687"><img src="https://pbs.twimg.com/amplify_video_thumb/2120511292574248960/img/KTbQhRfNJqLRY7XK.jpg" alt="Jev-Powered Crypto Trading Bot in Action · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2120511535562821687">Jev-Powered Crypto Trading Bot in Action</a></h3>
-<p>A user gave a bot 0.5 SOL before a flight and landed 4 hours later with 12.72 SOL. The Grok Bot runs 4 agents: Scout finds coins, Jev checks them, Sniper buys, and Exit sells, connected through Phantom and trading only the SOL sent to it.</p>
-<p><strong>256</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 256</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
+<p><strong>04</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/whensdeyi/status/2120527444692308171"><img src="https://pbs.twimg.com/amplify_video_thumb/2120527103510958080/img/2DyJqNj96EbNHGZb.jpg" alt="Real-Time Lisa Simpson Expressions Driven by Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/whensdeyi/status/2120527444692308171">Real-Time Lisa Simpson Expressions Driven by Jev</a></h3>
+<p>The author uses TypeSafe&#39;s Jev model for facial expression detection and combines it with MiniMax-H3-Image&#39;s 2-step LoRA for per-frame generation, making Lisa Simpson mimic facial movements in real time.</p>
+<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
+<p><strong>Dawna Yi</strong> · @whensdeyi</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>法律合规</code> <code>原帖视频</code></p>
+<a href="https://x.com/rafa_maker/status/2120535342503678461"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120535321943130112/pu/img/Dy_7XQCc4eePiurS.jpg" alt="GRIN: Using Jev to Flag EU Greenwashing Risks · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/rafa_maker/status/2120535342503678461">GRIN: Using Jev to Flag EU Greenwashing Risks</a></h3>
+<p>At Jev-a-thon, the author built GRIN, which uses Jev to score green claims on shop pages and simple rules to flag risks under new EU greenwashing regulations.</p>
+<p><strong>7</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Rafa</strong> · @rafa_maker</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
+<a href="https://x.com/whensdeyi/status/2120527444692308171"><img src="https://pbs.twimg.com/amplify_video_thumb/2120527103510958080/img/2DyJqNj96EbNHGZb.jpg" alt="Real-Time Lisa Simpson Expressions Driven by Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/whensdeyi/status/2120527444692308171">Real-Time Lisa Simpson Expressions Driven by Jev</a></h3>
+<p>The author uses TypeSafe&#39;s Jev model for facial expression detection and combines it with MiniMax-H3-Image&#39;s 2-step LoRA for per-frame generation, making Lisa Simpson mimic facial movements in real time.</p>
+<p><strong>53</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 53</p>
+<p><strong>Dawna Yi</strong> · @whensdeyi</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
 <a href="https://x.com/defenceability/status/2120522966723444838"><img src="https://pbs.twimg.com/media/HW2cQh3a4AAI-m0?format=jpg&amp;name=medium" alt="Jev test project: Cybersecurity topics page · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/defenceability/status/2120522966723444838">Jev test project: Cybersecurity topics page</a></h3>
 <p>The author shares a cybersecurity topics page created while testing Jev, and gives it a positive review.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>するめ</strong> · @defenceability</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2120511535562821687"><img src="https://pbs.twimg.com/amplify_video_thumb/2120511292574248960/img/KTbQhRfNJqLRY7XK.jpg" alt="Jev-Powered Crypto Trading Bot in Action · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2120511535562821687">Jev-Powered Crypto Trading Bot in Action</a></h3>
-<p>A user gave a bot 0.5 SOL before a flight and landed 4 hours later with 12.72 SOL. The Grok Bot runs 4 agents: Scout finds coins, Jev checks them, Sniper buys, and Exit sells, connected through Phantom and trading only the SOL sent to it.</p>
-<p><strong>256</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 256</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
-<p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/_handle_name/status/2120487929231638896"><img src="https://pbs.twimg.com/media/HW18XT3bsAAQ55O?format=jpg&amp;name=medium" alt="Jev and decision-specialized AI returning probabilities · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/_handle_name/status/2120487929231638896">Jev and decision-specialized AI returning probabilities</a></h3>
-<p>The post explains that decision-specialized AIs like Jev and OpenAI Decisions API return answers as option probabilities rather than text.</p>
-<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
-<p><strong>H.N</strong> · @_handle_name</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
+<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
+<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
+<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
 </td>
 </tr>
 </table>

@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T15:13:17.000Z | [GRIN: Using Jev to Flag EU Greenwashing Risks](https://x.com/rafa_maker/status/2120535342503678461) | 法律合规 | Rafa | 7 |
+| 2026-11-11T15:06:26.000Z | [Optimizing Jev prompts with DSPyMator + GEPA](https://x.com/CrowdCent/status/2120533616065487055) | 社区实践 | CrowdCent | 5 |
+| 2026-11-11T15:06:25.000Z | [centimators 0.4: Bring scikit-learn API to Jev and DSPy programs](https://x.com/CrowdCent/status/2120533611837595926) | 开发者工具 | CrowdCent | 35 |
+| 2026-11-11T14:41:54.000Z | [Real-Time Lisa Simpson Expressions Driven by Jev](https://x.com/whensdeyi/status/2120527444692308171) | 内容创作 | Dawna Yi | 53 |
 | 2026-11-11T14:24:07.000Z | [Jev test project: Cybersecurity topics page](https://x.com/defenceability/status/2120522966723444838) | 网络安全 | するめ | 7 |
 | 2026-11-11T14:24:00.000Z | [Meet Jev: The 'Internet' Moment for AI?](https://x.com/Mr_Buzzoni/status/2120522937338155045) | 智能体 | Mr. Buzzoni | 78 |
 | 2026-11-11T13:56:40.000Z | [Building a great composer: use Jev for intent-based recommendations](https://x.com/pontusab/status/2120516059619033571) | 软件开发 | Pontus Abrahamsson | 1.6K |
@@ -98,7 +102,3 @@
 | 2026-11-10T04:02:15.000Z | [Running a vocal cord emulator on Jev](https://x.com/vesperworks/status/2120004082387825033) | 社区实践 | むらい室長 | 99 |
 | 2026-11-10T02:26:09.000Z | [Headron brings enterprise-grade action receipts and policy enforcement to Jev and other AI agents](https://x.com/HeadronSoftware/status/2119979895614743026) | 法律合规 | Headron Software \| Agent Enforcement | 49 |
 | 2026-11-10T02:18:57.000Z | [Jev Used in AUD/JPY FX Short Scenario Assessment](https://x.com/hadohunter/status/2119978084002935024) | 金融 | HadoHunter | 56 |
-| 2026-11-10T00:48:56.000Z | [Decentralized Hedge Funds and the JEV Decision Engine](https://x.com/0rdlibrary/status/2119955431992840441) | 金融 | 8Bit🦞 | 271 |
-| 2026-11-10T00:33:41.000Z | [Infinite Alchemy Integrates Jev for Semantic Sorting](https://x.com/ShrivuShankar/status/2119951595844841951) | 游戏 | Shrivu Shankar | 344 |
-| 2026-11-10T00:14:32.000Z | [TypeSafe AI Unveils Jev Decision Model](https://x.com/SalesforceNews/status/2119946775716831501) | 产品发布 | Salesforce News & Insights | 273 |
-| 2026-11-09T23:30:00.000Z | [Jev Tutorial: How to Ask Questions and Use Answers](https://x.com/LittleMomentsTH/status/2119935568452751560) | 社区实践 | Little Moments | 159 |

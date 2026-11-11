@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T11:11:16.000Z | [Hackathon participant tests Jev classification model](https://x.com/manelvelasco_/status/2120474434414776397) | 社区实践 | Manel | 32 |
 | 2026-11-11T10:37:39.000Z | [Jev agent hires DeepSeek to write a regex for semantic versions](https://x.com/usebrainchain/status/2120465975086899238) | 智能体 | BrainChain | 58 |
 | 2026-11-11T10:20:05.000Z | [Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior](https://x.com/MichaelBlazik/status/2120461555674317228) | 科研 | Michael Blažík | 16 |
 | 2026-11-11T09:46:48.000Z | [User Shares Jev Use Case: Comment Classification and Issue Pre-screening](https://x.com/321sssrt/status/2120453178181534161) | 社区实践 | Zebro | 15 |
@@ -101,4 +102,3 @@
 | 2026-11-09T18:21:58.000Z | [Built a memecoin trading bot with Grok x Jev](https://x.com/ellfyy_/status/2119858050588709142) | 金融 | Elf | 224 |
 | 2026-11-09T18:15:19.000Z | [Jev 1.13 ranks among top decision models in PI Trading Arena](https://x.com/joelsstafford/status/2119856372984775143) | 金融 | Joel 🌊 | 127 |
 | 2026-11-09T18:04:18.000Z | [Jev and More Decision Models Now on Infron](https://x.com/InfronAI/status/2119853603351314596) | 接入动态 | Infron | 134 |
-| 2026-11-06T04:30:05.000Z | [TypeSafe AI Jev-Powered ChatGPT Finance Plugin](https://x.com/0rdlibrary/status/2118561536109101256) | 金融 | 8Bit🦞 | 172 |

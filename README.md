@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7258</strong><br>curated posts</td>
+<td align="center"><strong>7259</strong><br>curated posts</td>
 <td align="center"><strong>3575</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1423</strong> showcases · <strong>592</strong> videos</p>
+<p><strong>1424</strong> showcases · <strong>592</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
+<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
+<p><strong>Manel</strong> · @manelvelasco_</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/usebrainchain/status/2120465975086899238"><img src="https://pbs.twimg.com/media/HW1okWTaoAAZFXY?format=jpg&amp;name=medium" alt="Jev agent hires DeepSeek to write a regex for semantic versions · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/usebrainchain/status/2120465975086899238">Jev agent hires DeepSeek to write a regex for semantic versions</a></h3>
 <p>This is a task proof showing Jev delegating &#39;write a regex for semantic versions&#39; to DeepSeek at 52% confidence, then accepting the work at 99% confidence and having it minted by a collector on ripples.run.</p>
 <p><strong>58</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 58</p>
 <p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
 <a href="https://x.com/MichaelBlazik/status/2120461555674317228"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120163294337957888/pu/img/1h2mtm9d4EAXZP7S.jpg" alt="Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/MichaelBlazik/status/2120461555674317228">Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior</a></h3>
 <p>Michael Blažík announces that his trained behavioral models Ember and Orbit beat SOTA LLMs in accuracy and are 1400x faster than Jev, Gemini, and GPT at predicting fight-or-flight behavior.</p>
 <p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
 <p><strong>Michael Blažík</strong> · @MichaelBlazik</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
 <p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
 <p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
 <p><strong>Zebro</strong> · @321sssrt</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/ChinaAIDaily/status/2120450505776439328"><img src="https://pbs.twimg.com/media/HW1aeyVbMAAQmx0?format=png&amp;name=small" alt="browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ChinaAIDaily/status/2120450505776439328">browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev</a></h3>
-<p>jev-ultrafast turns web agents into a dynamically indexed action space. Given a goal, TypeSafe&#39;s Jev selects operations and elements on its own, calling a small model only for text input, and can book a Zurich–London flight search in 7.1 seconds.</p>
-<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
-<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2120465975086899238"><img src="https://pbs.twimg.com/media/HW1okWTaoAAZFXY?format=jpg&amp;name=medium" alt="Jev agent hires DeepSeek to write a regex for semantic versions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2120465975086899238">Jev agent hires DeepSeek to write a regex for semantic versions</a></h3>
-<p>This is a task proof showing Jev delegating &#39;write a regex for semantic versions&#39; to DeepSeek at 52% confidence, then accepting the work at 99% confidence and having it minted by a collector on ripples.run.</p>
-<p><strong>58</strong> views · 💬 1 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 58</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
+<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
+<p><strong>Manel</strong> · @manelvelasco_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
+<p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Zebro</strong> · @321sssrt</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/ChinaAIDaily/status/2120450505776439328"><img src="https://pbs.twimg.com/media/HW1aeyVbMAAQmx0?format=png&amp;name=small" alt="browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/ChinaAIDaily/status/2120450505776439328">browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev</a></h3>
 <p>jev-ultrafast turns web agents into a dynamically indexed action space. Given a goal, TypeSafe&#39;s Jev selects operations and elements on its own, calling a small model only for text input, and can book a Zurich–London flight search in 7.1 seconds.</p>
 <p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><strong>ChinaAIDaily</strong> · @ChinaAIDaily</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/raj73237/status/2120435685387903363"><img src="https://pbs.twimg.com/amplify_video_thumb/2120434534546391041/img/MxNxj9MiQfo7KKJX.jpg" alt="Jev&#39;s Potential in Robotics and Spatial Understanding Challenges · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/raj73237/status/2120435685387903363">Jev&#39;s Potential in Robotics and Spatial Understanding Challenges</a></h3>
-<p>Raj notes that Jev has potential in robotics but currently lacks a strong understanding of physical space, and anticipates that stronger decision models could advance robotics in the future.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Raj</strong> · @raj73237</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
-<p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Cleanera Made</strong> · @CleaneraMade</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mr_Buzzoni/status/2120394087983710364"><img src="https://pbs.twimg.com/amplify_video_thumb/2120004695141871617/img/67F1cx3Fsptu9n7V.jpg" alt="Jev Agent Memory: 13-Page Guide and Token Optimization · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mr_Buzzoni/status/2120394087983710364">Jev Agent Memory: 13-Page Guide and Token Optimization</a></h3>
+<p>Shares Jev&#39;s agent memory architecture and an optimization case: cutting per-query token usage from 26,000 to 1,800; letting Jev decide memory storage to avoid agents re-reading the same files each morning and being billed again.</p>
+<p><strong>366</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 366</p>
+<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
 </td>
 </tr>
 </table>

@@ -2941,6 +2941,7 @@
 - [MalikiAoweed](../authors/malikiaoweed.md) — 1
 - [MalluCuler](../authors/malluculer.md) — 1
 - [Malte Ubl](../authors/malte-ubl.md) — 1
+- [Manel](../authors/manel.md) — 1
 - [Manfred Steyer](../authors/manfred-steyer.md) — 1
 - [Mani Brar](../authors/mani-brar.md) — 1
 - [Manideep Patibandla](../authors/manideep-patibandla.md) — 1

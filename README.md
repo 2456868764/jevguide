@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7240</strong><br>curated posts</td>
-<td align="center"><strong>3566</strong><br>original videos</td>
+<td align="center"><strong>7243</strong><br>curated posts</td>
+<td align="center"><strong>3567</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1417</strong> showcases · <strong>589</strong> videos</p>
+<p><strong>1418</strong> showcases · <strong>590</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>613</strong> showcases · <strong>328</strong> videos</p>
+<p><strong>614</strong> showcases · <strong>328</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>135</strong> showcases · <strong>38</strong> videos</p>
+<p><strong>136</strong> showcases · <strong>38</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
+<p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
+<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
+<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/goncalo_canhoto/status/2120320878647062685"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev use case: ordering from a menu · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/goncalo_canhoto/status/2120320878647062685">Jev use case: ordering from a menu</a></h3>
+<p>A tweet says ordering from a menu is a perfect use case for Jev, since it involves pre-determined choices and combinations.</p>
+<p><strong>57</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 57</p>
+<p><strong>Gonçalo Canhoto 🇵🇹</strong> · @goncalo_canhoto</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2120314930033500196"><img src="https://pbs.twimg.com/media/HWzfMXCbMAARMOF?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Fix Leap Year Check · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2120314930033500196">Jev Hires DeepSeek to Fix Leap Year Check</a></h3>
+<p>Jev hired DeepSeek at 46% confidence to fix a leap year check, then accepted the work at 100% confidence. The task was minted by a collector on ripples.run.</p>
+<p><strong>71</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 71</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
 <p>The author shares a cool video showing off Jev and the rest of Copper.</p>
 <p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><strong>Collin Rijock</strong> · @CollinRijock</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/ScottNLP/status/2120307343015751923"><img src="https://pbs.twimg.com/amplify_video_thumb/2118717614986063872/img/OA_a96MZ68qgH3BN.jpg" alt="Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ScottNLP/status/2120307343015751923">Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models</a></h3>
-<p>Flide is an open-source inference infrastructure built for Jev-style decision models. It merges 18 questions from an agent into a single inference run instead of executing 18 separate prompts; benchmark data shows it reduces latency from 359 ms to 37.7 ms on Qwen3.5-0.8B, roughly 9.5× faster.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Scofield Hao Fei</strong> · @ScottNLP</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/yoshienagatomo/status/2120303668256018490"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev Voice Ordering Demo · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/yoshienagatomo/status/2120303668256018490">Jev Voice Ordering Demo</a></h3>
-<p>A demo of voice ordering experience using Jev, showcasing a futuristic interaction method.</p>
-<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
-<p><strong>長友好江|AIエージェントの家庭教師</strong> · @yoshienagatomo</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2120298452957471099"><img src="https://pbs.twimg.com/amplify_video_thumb/2120298142604070912/img/Z6auVPoRr5I0uVky.jpg" alt="User Builds SOL Trading Bot with Jev Model to Chase 10x Return · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2120298452957471099">User Builds SOL Trading Bot with Jev Model to Chase 10x Return</a></h3>
-<p>User shares how Grok drives 4 agents (Scout, Jev, Sniper, Exit) to trade SOL via Phantom wallet, with Jev performing 7 checks on tokens and trading only with the SOL in the account.</p>
-<p><strong>286</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 286</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
+<a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
+<p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
+<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
+<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
 <p>The author shares a cool video showing off Jev and the rest of Copper.</p>
 <p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
 <p><strong>Collin Rijock</strong> · @CollinRijock</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2120298452957471099"><img src="https://pbs.twimg.com/amplify_video_thumb/2120298142604070912/img/Z6auVPoRr5I0uVky.jpg" alt="User Builds SOL Trading Bot with Jev Model to Chase 10x Return · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2120298452957471099">User Builds SOL Trading Bot with Jev Model to Chase 10x Return</a></h3>
-<p>User shares how Grok drives 4 agents (Scout, Jev, Sniper, Exit) to trade SOL via Phantom wallet, with Jev performing 7 checks on tokens and trading only with the SOL in the account.</p>
-<p><strong>286</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 286</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/danlovesproofs/status/2120292333698846758"><img src="https://pbs.twimg.com/media/HWzJ4ncaAAACKe0?format=jpg&amp;name=medium" alt="Jev helps target vulnerability scans in codebases · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/danlovesproofs/status/2120292333698846758">Jev helps target vulnerability scans in codebases</a></h3>
-<p>Dan Robinson highlights a Jev capability to identify codebase parts relevant to vulnerability scanning, with fast and cheap classifications to fine-tune targeting and support common-sense UX.</p>
-<p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
-<p><strong>Dan Robinson</strong> · @danlovesproofs</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/ScottNLP/status/2120307343015751923"><img src="https://pbs.twimg.com/amplify_video_thumb/2118717614986063872/img/OA_a96MZ68qgH3BN.jpg" alt="Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ScottNLP/status/2120307343015751923">Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models</a></h3>
+<p>Flide is an open-source inference infrastructure built for Jev-style decision models. It merges 18 questions from an agent into a single inference run instead of executing 18 separate prompts; benchmark data shows it reduces latency from 359 ms to 37.7 ms on Qwen3.5-0.8B, roughly 9.5× faster.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Scofield Hao Fei</strong> · @ScottNLP</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/YukunHeZS/status/2120255421587857774"><img src="https://pbs.twimg.com/media/HWyoNjTWIAAZLXR?format=png&amp;name=4096x4096" alt="Jev-as-a-Judge Evaluation Results · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/YukunHeZS/status/2120255421587857774">Jev-as-a-Judge Evaluation Results</a></h3>
-<p>Jev-as-a-Judge achieves 91% agreement at 1/510 of the cost and 140x faster; Mixed Judge sends only about a quarter of reports to LLM-as-a-Judge, achieving 98.7% agreement at 74% lower cost.</p>
-<p><strong>23</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 23</p>
-<p><strong>Yukun He</strong> · @YukunHeZS</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/OsamaGweaa/status/2120277675595944172"><img src="https://pbs.twimg.com/media/HWy9TVoWoAAPPOI?format=jpg&amp;name=medium" alt="Hackathon for building with Jev on Loveble · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/OsamaGweaa/status/2120277675595944172">Hackathon for building with Jev on Loveble</a></h3>
+<p>The author shares a hackathon he came across, sponsored by Loveble and Type Safe, where participants bring laptops and spend a few hours building with Jev on Loveble, then showcase what they made. He liked the vibe but couldn&#39;t stay till the end.</p>
+<p><strong>90</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 90</p>
+<p><strong>سكِيلاَتْشِي | Osama Gweaa</strong> · @OsamaGweaa</p>
 </td>
 </tr>
 </table>

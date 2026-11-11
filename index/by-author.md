@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [BrainChain](../authors/brainchain.md) — 39
+- [BrainChain](../authors/brainchain.md) — 40
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [8Bit🦞](../authors/8bit.md) — 31
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
@@ -452,6 +452,7 @@
 - [玉米_AlphaNotes](../authors/玉米-alphanotes.md) — 3
 - [超级峰](../authors/超级峰.md) — 3
 - [金のニワトリ](../authors/金.md) — 3
+- [金融系DS | LLM・AIエージェント・RAG](../authors/金融系ds-llm-ai-rag.md) — 3
 - [雪踏乌云](../authors/雪踏乌云.md) — 3
 - [【公式】Jinba | AIエージェント開発](../authors/公式-jinba-ai-開発.md) — 2
 - [#./Caglar_t.sh](../authors/caglar-t-sh.md) — 2
@@ -1057,7 +1058,6 @@
 - [起業の履歴書](../authors/起業-履歴書.md) — 2
 - [酱紫表](../authors/酱紫表.md) — 2
 - [野々下 俊｜ノンズ株式会社 代表](../authors/野-下-俊-株式会社-代表.md) — 2
-- [金融系DS | LLM・AIエージェント・RAG](../authors/金融系ds-llm-ai-rag.md) — 2
 - [铁柱AGI](../authors/铁柱agi.md) — 2
 - [長友好江|AIエージェントの家庭教師](../authors/長友好江-ai-家庭教師.md) — 2
 - [阳阳](../authors/阳阳.md) — 2
@@ -2243,6 +2243,7 @@
 - [gold meir מאיר גולד](../authors/gold-meir.md) — 1
 - [Golem Cloud](../authors/golem-cloud.md) — 1
 - [GOMOOT](../authors/gomoot.md) — 1
+- [Gonçalo Canhoto 🇵🇹](../authors/goncalo-canhoto.md) — 1
 - [Good AI Labs](../authors/good-ai-labs.md) — 1
 - [Google Developer Group KAU on Campus](../authors/google-developer-group-kau-on-campus.md) — 1
 - [Google Gemma](../authors/google-gemma.md) — 1

@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T01:09:09.000Z | [Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper](https://x.com/mm_0824_kb/status/2120322908782555595) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 47 |
+| 2026-11-11T01:01:05.000Z | [Jev use case: ordering from a menu](https://x.com/goncalo_canhoto/status/2120320878647062685) | 社区实践 | Gonçalo Canhoto 🇵🇹 | 57 |
+| 2026-11-11T00:37:27.000Z | [Jev Hires DeepSeek to Fix Leap Year Check](https://x.com/usebrainchain/status/2120314930033500196) | 智能体 | BrainChain | 71 |
 | 2026-11-11T00:19:20.000Z | [A video showcasing Jev and the rest of Copper](https://x.com/CollinRijock/status/2120310369319043072) | 社区实践 | Collin Rijock | 0 |
 | 2026-11-11T00:07:18.000Z | [Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models](https://x.com/ScottNLP/status/2120307343015751923) | 产品发布 | Scofield Hao Fei | 8 |
 | 2026-11-10T23:52:42.000Z | [Jev Voice Ordering Demo](https://x.com/yoshienagatomo/status/2120303668256018490) | 智能体 | 長友好江\|AIエージェントの家庭教師 | 22 |
@@ -99,6 +102,3 @@
 | 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |
 | 2026-11-06T00:55:34.000Z | [Jev API Contract: Behavior When No Category Matches or Target Is Absent](https://x.com/milhouscc/status/2118507550962507947) | 开发资源 | Milhous | 36 |
 | 2026-11-06T00:46:28.000Z | [TypeSafe AI now gives real-time JEV scores for Pump.fun tokens](https://x.com/0rdlibrary/status/2118505258049548751) | 金融 | 8Bit🦞 | 236 |
-| 2026-11-06T00:14:39.000Z | [USD/JPY Trading Scenario Supported by Jev](https://x.com/hadohunter/status/2118497252629254630) | 金融 | HadoHunter | 32 |
-| 2026-11-06T00:03:25.000Z | [Jev answers closed questions in automated trading](https://x.com/kardinall/status/2118494424833384593) | 金融 | Kardinall | 279 |
-| 2026-11-05T23:14:33.000Z | [How the Jev model participates in payment checks](https://x.com/TweetBySoft/status/2118482128266567712) | 金融 | Ben Softie (evm/spice 🌶,🐝) | 27 |

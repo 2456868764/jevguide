@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7252</strong><br>curated posts</td>
+<td align="center"><strong>7254</strong><br>curated posts</td>
 <td align="center"><strong>3572</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1421</strong> showcases · <strong>591</strong> videos</p>
+<p><strong>1422</strong> showcases · <strong>591</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>420</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
+<p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Zebro</strong> · @321sssrt</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/ChinaAIDaily/status/2120450505776439328"><img src="https://pbs.twimg.com/media/HW1aeyVbMAAQmx0?format=png&amp;name=small" alt="browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ChinaAIDaily/status/2120450505776439328">browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev</a></h3>
+<p>jev-ultrafast turns web agents into a dynamically indexed action space. Given a goal, TypeSafe&#39;s Jev selects operations and elements on its own, calling a small model only for text input, and can book a Zurich–London flight search in 7.1 seconds.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>ChinaAIDaily</strong> · @ChinaAIDaily</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
 <a href="https://x.com/raj73237/status/2120435685387903363"><img src="https://pbs.twimg.com/amplify_video_thumb/2120434534546391041/img/MxNxj9MiQfo7KKJX.jpg" alt="Jev&#39;s Potential in Robotics and Spatial Understanding Challenges · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/raj73237/status/2120435685387903363">Jev&#39;s Potential in Robotics and Spatial Understanding Challenges</a></h3>
 <p>Raj notes that Jev has potential in robotics but currently lacks a strong understanding of physical space, and anticipates that stronger decision models could advance robotics in the future.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Raj</strong> · @raj73237</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/vcdx001/status/2120428352008052857"><img src="https://pbs.twimg.com/media/HW1GWVma0AAVfx2?format=png&amp;name=small" alt="Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/vcdx001/status/2120428352008052857">Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap</a></h3>
 <p>This post compares Jev and GPT-6.1 Sol in message-routing tests, citing 1,000 tests, a 32× cost gap, and one major caveat.</p>
 <p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
 <p><strong>John Arrasjid</strong> · @vcdx001</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/satya_marketing/status/2120403748988330357"><img src="https://pbs.twimg.com/media/HW0vpf3aAAAWlEb?format=jpg&amp;name=medium" alt="Using Jev for classification and large-scale filtering · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/satya_marketing/status/2120403748988330357">Using Jev for classification and large-scale filtering</a></h3>
-<p>A developer shares using Jev in a real workflow for classification and large-scale filtering, while using Opus for vibe-coding and Muse Ember for high-volume low-intelligence tasks.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Satya Janghu</strong> · @satya_marketing</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mr_Buzzoni/status/2120394087983710364"><img src="https://pbs.twimg.com/amplify_video_thumb/2120004695141871617/img/67F1cx3Fsptu9n7V.jpg" alt="Jev Agent Memory: 13-Page Guide and Token Optimization · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mr_Buzzoni/status/2120394087983710364">Jev Agent Memory: 13-Page Guide and Token Optimization</a></h3>
-<p>Shares Jev&#39;s agent memory architecture and an optimization case: cutting per-query token usage from 26,000 to 1,800; letting Jev decide memory storage to avoid agents re-reading the same files each morning and being billed again.</p>
-<p><strong>366</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 366</p>
-<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/raj73237/status/2120435685387903363"><img src="https://pbs.twimg.com/amplify_video_thumb/2120434534546391041/img/MxNxj9MiQfo7KKJX.jpg" alt="Jev&#39;s Potential in Robotics and Spatial Understanding Challenges · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/raj73237/status/2120435685387903363">Jev&#39;s Potential in Robotics and Spatial Understanding Challenges</a></h3>
-<p>Raj notes that Jev has potential in robotics but currently lacks a strong understanding of physical space, and anticipates that stronger decision models could advance robotics in the future.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Raj</strong> · @raj73237</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/321sssrt/status/2120453178181534161"><img src="https://pbs.twimg.com/media/HW1czV5aQAAB7YV?format=jpg&amp;name=medium" alt="User Shares Jev Use Case: Comment Classification and Issue Pre-screening · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/321sssrt/status/2120453178181534161">User Shares Jev Use Case: Comment Classification and Issue Pre-screening</a></h3>
+<p>The user found that the Jev model can be applied to comment classification and issue pre-screening, demonstrating a practical use case in open-source community maintenance.</p>
+<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><strong>Zebro</strong> · @321sssrt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/Mr_Buzzoni/status/2120394087983710364"><img src="https://pbs.twimg.com/amplify_video_thumb/2120004695141871617/img/67F1cx3Fsptu9n7V.jpg" alt="Jev Agent Memory: 13-Page Guide and Token Optimization · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Mr_Buzzoni/status/2120394087983710364">Jev Agent Memory: 13-Page Guide and Token Optimization</a></h3>
-<p>Shares Jev&#39;s agent memory architecture and an optimization case: cutting per-query token usage from 26,000 to 1,800; letting Jev decide memory storage to avoid agents re-reading the same files each morning and being billed again.</p>
-<p><strong>366</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 366</p>
-<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/vcdx001/status/2120428352008052857"><img src="https://pbs.twimg.com/media/HW1GWVma0AAVfx2?format=png&amp;name=small" alt="Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vcdx001/status/2120428352008052857">Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap</a></h3>
+<p>This post compares Jev and GPT-6.1 Sol in message-routing tests, citing 1,000 tests, a 32× cost gap, and one major caveat.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>John Arrasjid</strong> · @vcdx001</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
-<p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>Cleanera Made</strong> · @CleaneraMade</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/satya_marketing/status/2120403748988330357"><img src="https://pbs.twimg.com/media/HW0vpf3aAAAWlEb?format=jpg&amp;name=medium" alt="Using Jev for classification and large-scale filtering · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/satya_marketing/status/2120403748988330357">Using Jev for classification and large-scale filtering</a></h3>
+<p>A developer shares using Jev in a real workflow for classification and large-scale filtering, while using Opus for vibe-coding and Muse Ember for high-volume low-intelligence tasks.</p>
+<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><strong>Satya Janghu</strong> · @satya_marketing</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/goncalo_canhoto/status/2120320878647062685"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev use case: ordering from a menu · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goncalo_canhoto/status/2120320878647062685">Jev use case: ordering from a menu</a></h3>
-<p>A tweet says ordering from a menu is a perfect use case for Jev, since it involves pre-determined choices and combinations.</p>
-<p><strong>57</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 57</p>
-<p><strong>Gonçalo Canhoto 🇵🇹</strong> · @goncalo_canhoto</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/Suercha007/status/2120334428581109970"><img src="https://pbs.twimg.com/tweet_video_thumb/HWwaBO7aQAAwKTg.jpg" alt="Discussing RAG Architecture and Suggesting Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Suercha007/status/2120334428581109970">Discussing RAG Architecture and Suggesting Jev</a></h3>
+<p>The author notes that RAG architecture should be chosen by scenario, with knowledge base updates more important than architecture; GraphRAG can infer hidden information but graph maintenance is hard, and suggests the newly released Jev could be considered for RAG.</p>
+<p><strong>84</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
+<p><strong>苏茶</strong> · @Suercha007</p>
 </td>
 </tr>
 </table>

@@ -157,6 +157,7 @@
 - [brainstormity](../authors/brainstormity.md) — 4
 - [Brennan McEachran 👨‍🚀](../authors/brennan-mceachran.md) — 4
 - [Carlos Martinez](../authors/carlos-martinez.md) — 4
+- [ChinaAIDaily](../authors/chinaaidaily.md) — 4
 - [Commisticholy](../authors/commisticholy.md) — 4
 - [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
@@ -262,7 +263,6 @@
 - [central dogma specialist](../authors/central-dogma-specialist.md) — 3
 - [Chen](../authors/chen.md) — 3
 - [Chesny](../authors/chesny.md) — 3
-- [ChinaAIDaily](../authors/chinaaidaily.md) — 3
 - [Chris](../authors/chris.md) — 3
 - [claire vo 🖤](../authors/claire-vo.md) — 3
 - [Codez](../authors/codez.md) — 3
@@ -1001,6 +1001,7 @@
 - [Zach Khorozian](../authors/zach-khorozian.md) — 2
 - [Zal Zhou](../authors/zal-zhou.md) — 2
 - [zaru](../authors/zaru.md) — 2
+- [Zebro](../authors/zebro.md) — 2
 - [Zed](../authors/zed.md) — 2
 - [Zero](../authors/zero.md) — 2
 - [zhouluobo](../authors/zhouluobo.md) — 2
@@ -4429,7 +4430,6 @@
 - [Zain](../authors/zain.md) — 1
 - [Zawwar](../authors/zawwar.md) — 1
 - [Zazzy Stardust](../authors/zazzy-stardust.md) — 1
-- [Zebro](../authors/zebro.md) — 1
 - [Zee](../authors/zee.md) — 1
 - [zeeman](../authors/zeeman.md) — 1
 - [Zening Chen](../authors/zening-chen.md) — 1

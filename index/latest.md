@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T09:46:48.000Z | [User Shares Jev Use Case: Comment Classification and Issue Pre-screening](https://x.com/321sssrt/status/2120453178181534161) | 社区实践 | Zebro | 15 |
+| 2026-11-11T09:36:11.000Z | [browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev](https://x.com/ChinaAIDaily/status/2120450505776439328) | 开发资源 | ChinaAIDaily | 7 |
 | 2026-11-11T08:37:17.000Z | [Jev's Potential in Robotics and Spatial Understanding Challenges](https://x.com/raj73237/status/2120435685387903363) | 机器人 | Raj | 1 |
 | 2026-11-11T08:08:09.000Z | [Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap](https://x.com/vcdx001/status/2120428352008052857) | 自动化工作流 | John Arrasjid | 7 |
 | 2026-11-11T06:30:23.000Z | [Using Jev for classification and large-scale filtering](https://x.com/satya_marketing/status/2120403748988330357) | 社区实践 | Satya Janghu | 8 |
@@ -100,5 +102,3 @@
 | 2026-11-06T04:20:51.000Z | [Jev hired Claude at 92% confidence and accepted the work at 96%](https://x.com/usebrainchain/status/2118559210241946046) | 智能体 | BrainChain | 33 |
 | 2026-11-06T04:00:04.000Z | [Jev creator Diogo Almeida on reliability](https://x.com/RealAlphaApp/status/2118553980972544161) | 社区实践 | Real Alpha | 47 |
 | 2026-11-06T03:39:24.000Z | [Jev Best Practices: Only Make Judgments, Let Code Decide](https://x.com/GoSailGlobal/status/2118548781549625791) | 社区实践 | Jason Zhu | 63 |
-| 2026-11-06T03:24:01.000Z | [Has Jev's Hype Faded? Community Discusses Workflow Usage](https://x.com/_QCAI/status/2118544906545459578) | 社区实践 | Chloe | 7 |
-| 2026-11-06T02:48:41.000Z | [New Comic at Tech Book Festival 21: Jev Explained](https://x.com/hellohazime/status/2118536018475495598) | 社区实践 | hellohazime@え11_技術書典21 | 95 |

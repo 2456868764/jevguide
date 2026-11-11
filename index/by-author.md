@@ -9,8 +9,8 @@
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
+- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 16
 - [Geek Lite](../authors/geek-lite.md) — 15
-- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 15
 - [恒星sun](../authors/恒星sun.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
@@ -3758,6 +3758,7 @@
 - [Sattyam Jain](../authors/sattyam-jain.md) — 1
 - [SaturaDev](../authors/saturadev.md) — 1
 - [Satvik Paramkusham](../authors/satvik-paramkusham.md) — 1
+- [Satya Janghu](../authors/satya-janghu.md) — 1
 - [Satya Sedimbi](../authors/satya-sedimbi.md) — 1
 - [Saurabh Bhatnagar](../authors/saurabh-bhatnagar.md) — 1
 - [Saurabh Dubey](../authors/saurabh-dubey.md) — 1

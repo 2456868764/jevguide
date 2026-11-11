@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7246</strong><br>curated posts</td>
-<td align="center"><strong>3568</strong><br>original videos</td>
+<td align="center"><strong>7248</strong><br>curated posts</td>
+<td align="center"><strong>3570</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1419</strong> showcases · <strong>590</strong> videos</p>
+<p><strong>1420</strong> showcases · <strong>591</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>677</strong> showcases · <strong>333</strong> videos</p>
+<p><strong>678</strong> showcases · <strong>334</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
+<p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Cleanera Made</strong> · @CleaneraMade</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/savvy_luvvvv/status/2120382260281327805"><img src="https://pbs.twimg.com/amplify_video_thumb/2120261179440316417/img/c0aCNVeCRkZ6NGKh.jpg" alt="Making Money with Grok Bot + Jev for SEO Decisions · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/savvy_luvvvv/status/2120382260281327805">Making Money with Grok Bot + Jev for SEO Decisions</a></h3>
+<p>The user predicts that in 2026, many millionaires will be created by combining Grok Bot and the Jev model for SEO decisions and execution, and suggests pasting the prompt directly into Grok Bot.</p>
+<p><strong>58</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 58</p>
+<p><strong>Ling</strong> · @savvy_luvvvv</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/hadohunter/status/2120371749091197158"><img src="https://pbs.twimg.com/media/HW0S3p5acAEpJbb?format=jpg&amp;name=medium" alt="AUD/JPY AI Short Scenario: Jev Assessment Not Supported · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/hadohunter/status/2120371749091197158">AUD/JPY AI Short Scenario: Jev Assessment Not Supported</a></h3>
 <p>HadoHunter shares an AUD/JPY short scenario with entry 109.210, target 108.647, stop 109.473, and a 2.14 reward/risk ratio. Downtrend with a bullish pattern lean, very low volume, and a narrow score gap. Jev assessment is not supported (certainty 22%).</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/orpheuuss_/status/2120358757494308928"><img src="https://pbs.twimg.com/media/HW0HDWuX0AAq_wP?format=jpg&amp;name=medium" alt="Jev Job Search Tool for Windows · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/orpheuuss_/status/2120358757494308928">Jev Job Search Tool for Windows</a></h3>
 <p>This post shares a GitHub repository for a job search tool for Windows, with &#39;Jev&#39; in the repo name, likely for automated job searching.</p>
 <p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><strong>✵</strong> · @orpheuuss_</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
-<a href="https://x.com/Suercha007/status/2120334428581109970"><img src="https://pbs.twimg.com/tweet_video_thumb/HWwaBO7aQAAwKTg.jpg" alt="Discussing RAG Architecture and Suggesting Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Suercha007/status/2120334428581109970">Discussing RAG Architecture and Suggesting Jev</a></h3>
-<p>The author notes that RAG architecture should be chosen by scenario, with knowledge base updates more important than architecture; GraphRAG can infer hidden information but graph maintenance is hard, and suggests the newly released Jev could be considered for RAG.</p>
-<p><strong>84</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
-<p><strong>苏茶</strong> · @Suercha007</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
-<p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
-<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
-<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2120371749091197158"><img src="https://pbs.twimg.com/media/HW0S3p5acAEpJbb?format=jpg&amp;name=medium" alt="AUD/JPY AI Short Scenario: Jev Assessment Not Supported · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2120371749091197158">AUD/JPY AI Short Scenario: Jev Assessment Not Supported</a></h3>
-<p>HadoHunter shares an AUD/JPY short scenario with entry 109.210, target 108.647, stop 109.473, and a 2.14 reward/risk ratio. Downtrend with a bullish pattern lean, very low volume, and a narrow score gap. Jev assessment is not supported (certainty 22%).</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
+<p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Cleanera Made</strong> · @CleaneraMade</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖图片</code></p>
-<a href="https://x.com/mm_0824_kb/status/2120322908782555595"><img src="https://pbs.twimg.com/media/HWzmSGCacAA2EoC?format=png&amp;name=medium" alt="Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/mm_0824_kb/status/2120322908782555595">Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper</a></h3>
-<p>A study comparing decision models like Jev with LLMs shows Jev achieves higher accuracy on tasks with clear evaluation criteria and classification/scoring, while being 5-350x faster and 16-357x cheaper in processing time.</p>
-<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 47</p>
-<p><strong>金融系DS | LLM・AIエージェント・RAG</strong> · @mm_0824_kb</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/orpheuuss_/status/2120358757494308928"><img src="https://pbs.twimg.com/media/HW0HDWuX0AAq_wP?format=jpg&amp;name=medium" alt="Jev Job Search Tool for Windows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/orpheuuss_/status/2120358757494308928">Jev Job Search Tool for Windows</a></h3>
+<p>This post shares a GitHub repository for a job search tool for Windows, with &#39;Jev&#39; in the repo name, likely for automated job searching.</p>
+<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
+<p><strong>✵</strong> · @orpheuuss_</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/goncalo_canhoto/status/2120320878647062685"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev use case: ordering from a menu · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/goncalo_canhoto/status/2120320878647062685">Jev use case: ordering from a menu</a></h3>
-<p>A tweet says ordering from a menu is a perfect use case for Jev, since it involves pre-determined choices and combinations.</p>
-<p><strong>57</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 57</p>
-<p><strong>Gonçalo Canhoto 🇵🇹</strong> · @goncalo_canhoto</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/Suercha007/status/2120334428581109970"><img src="https://pbs.twimg.com/tweet_video_thumb/HWwaBO7aQAAwKTg.jpg" alt="Discussing RAG Architecture and Suggesting Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Suercha007/status/2120334428581109970">Discussing RAG Architecture and Suggesting Jev</a></h3>
+<p>The author notes that RAG architecture should be chosen by scenario, with knowledge base updates more important than architecture; GraphRAG can infer hidden information but graph maintenance is hard, and suggests the newly released Jev could be considered for RAG.</p>
+<p><strong>84</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 84</p>
+<p><strong>苏茶</strong> · @Suercha007</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
-<a href="https://x.com/danlovesproofs/status/2120292333698846758"><img src="https://pbs.twimg.com/media/HWzJ4ncaAAACKe0?format=jpg&amp;name=medium" alt="Jev helps target vulnerability scans in codebases · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/danlovesproofs/status/2120292333698846758">Jev helps target vulnerability scans in codebases</a></h3>
-<p>Dan Robinson highlights a Jev capability to identify codebase parts relevant to vulnerability scanning, with fast and cheap classifications to fine-tune targeting and support common-sense UX.</p>
-<p><strong>1.1K</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 10 &nbsp; 📊 1.1K</p>
-<p><strong>Dan Robinson</strong> · @danlovesproofs</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/yoshienagatomo/status/2120303668256018490"><img src="https://pbs.twimg.com/amplify_video_thumb/2119889672293740544/img/H5zxrjEXvNTdsOwI.jpg" alt="Jev Voice Ordering Demo · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/yoshienagatomo/status/2120303668256018490">Jev Voice Ordering Demo</a></h3>
+<p>A demo of voice ordering experience using Jev, showcasing a futuristic interaction method.</p>
+<p><strong>22</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 22</p>
+<p><strong>長友好江|AIエージェントの家庭教師</strong> · @yoshienagatomo</p>
 </td>
 </tr>
 </table>

@@ -559,6 +559,7 @@
 - [Christian Tzolov🇧🇬🇪🇺🇺🇦 🦋@tzolov.bsky.social](../authors/christian-tzolov-tzolov-bsky-social.md) — 2
 - [Chubby♨️](../authors/chubby.md) — 2
 - [Clawby](../authors/clawby.md) — 2
+- [Cleanera Made](../authors/cleanera-made.md) — 2
 - [Clément](../authors/clement.md) — 2
 - [cleofas pereira rocha](../authors/cleofas-pereira-rocha.md) — 2
 - [Cloudways](../authors/cloudways.md) — 2
@@ -731,6 +732,7 @@
 - [Lilith Datura](../authors/lilith-datura.md) — 2
 - [Lilys.ai](../authors/lilys-ai.md) — 2
 - [LinearUncle](../authors/linearuncle.md) — 2
+- [Ling](../authors/ling.md) — 2
 - [Lomash Kumar](../authors/lomash-kumar.md) — 2
 - [Lonely](../authors/lonely.md) — 2
 - [Loofy](../authors/loofy.md) — 2
@@ -1734,7 +1736,6 @@
 - [Claude Code Research Lab](../authors/claude-code-research-lab.md) — 1
 - [Clawdrey Hepburn](../authors/clawdrey-hepburn.md) — 1
 - [clay.](../authors/clay.md) — 1
-- [Cleanera Made](../authors/cleanera-made.md) — 1
 - [clem 🤗](../authors/clem.md) — 1
 - [Clement Hu EasyHire AI](../authors/clement-hu-easyhire-ai.md) — 1
 - [Cline](../authors/cline.md) — 1
@@ -2860,7 +2861,6 @@
 - [lil room](../authors/lil-room.md) — 1
 - [LiLens](../authors/lilens.md) — 1
 - [Lily](../authors/lily.md) — 1
-- [Ling](../authors/ling.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
 - [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1

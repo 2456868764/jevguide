@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T05:30:45.000Z | [Jev Map: Precision Editing for AI, Begins SWE-Bench Testing](https://x.com/CleaneraMade/status/2120388739398594895) | 开发者工具 | Cleanera Made | 10 |
+| 2026-11-11T05:05:00.000Z | [Making Money with Grok Bot + Jev for SEO Decisions](https://x.com/savvy_luvvvv/status/2120382260281327805) | 社区实践 | Ling | 58 |
 | 2026-11-11T04:23:14.000Z | [AUD/JPY AI Short Scenario: Jev Assessment Not Supported](https://x.com/hadohunter/status/2120371749091197158) | 金融 | HadoHunter | 9 |
 | 2026-11-11T03:31:36.000Z | [Jev Job Search Tool for Windows](https://x.com/orpheuuss_/status/2120358757494308928) | 社区实践 | ✵ | 9 |
 | 2026-11-11T01:54:56.000Z | [Discussing RAG Architecture and Suggesting Jev](https://x.com/Suercha007/status/2120334428581109970) | 知识与搜索 | 苏茶 | 84 |
@@ -100,5 +102,3 @@
 | 2026-11-06T02:17:43.000Z | [Jev Assesses GBP/USD Long Scenario](https://x.com/hadohunter/status/2118528225546842607) | 金融 | HadoHunter | 26 |
 | 2026-11-06T01:54:20.000Z | [How Jev Makes Reliable Judgments](https://x.com/typesafeai/status/2118522339235389607) | 工作原理 | TypeSafe AI | 5.0K |
 | 2026-11-06T01:37:57.000Z | [Essential Blog for Jev Users](https://x.com/yoshienagatomo/status/2118518214133256518) | 社区实践 | 長友好江\|AIエージェントの家庭教師 | 36 |
-| 2026-11-06T01:22:48.000Z | [Designer shares how Jev turns sentences into workflow actions](https://x.com/its_grayscale/status/2118514404014882874) | 自动化工作流 | Brendan Gray | 105 |
-| 2026-11-06T01:02:38.000Z | [Jev Anti-Pattern: Don't Use Jev to Replace Code for Big Decisions](https://x.com/CompleteSkeptic/status/2118509326981791781) | 社区实践 | Diogo Almeida | 13K |

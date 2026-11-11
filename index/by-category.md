@@ -3,22 +3,22 @@
 - [Community builds](../categories/community-builds.md) — 1428
 - [Developer tools](../categories/developer-tools.md) — 679
 - [How it works](../categories/how-it-works.md) — 643
+- [Agents](../categories/agents.md) — 617
 - [Launch news](../categories/launch-news.md) — 616
-- [Agents](../categories/agents.md) — 616
 - [Access updates](../categories/access-updates.md) — 461
 - [Developer resources](../categories/developer-resources.md) — 421
 - [Gaming](../categories/gaming.md) — 419
-- [Finance](../categories/finance.md) — 412
+- [Finance](../categories/finance.md) — 413
 - [Workflow automation](../categories/workflow-automation.md) — 314
 - [Marketing](../categories/marketing.md) — 202
 - [Knowledge & search](../categories/knowledge-search.md) — 146
 - [Scientific research](../categories/scientific-research.md) — 138
 - [Content creation](../categories/content-creation.md) — 137
 - [Data analytics](../categories/data-analytics.md) — 127
-- [Cybersecurity](../categories/cybersecurity.md) — 95
+- [Cybersecurity](../categories/cybersecurity.md) — 96
 - [Customer support](../categories/customer-support.md) — 70
 - [Robotics](../categories/robotics.md) — 64
-- [Software development](../categories/software-development.md) — 55
+- [Software development](../categories/software-development.md) — 56
 - [Business operations](../categories/business-operations.md) — 52
 - [Productivity](../categories/productivity.md) — 51
 - [Education](../categories/education.md) — 39

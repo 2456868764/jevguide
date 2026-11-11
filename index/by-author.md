@@ -8,8 +8,8 @@
 - [HadoHunter](../authors/hadohunter.md) — 21
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
+- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
-- [Mr. Buzzoni](../authors/mr-buzzoni.md) — 16
 - [Geek Lite](../authors/geek-lite.md) — 15
 - [恒星sun](../authors/恒星sun.md) — 15
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
@@ -79,6 +79,7 @@
 - [Chrome](../authors/chrome.md) — 6
 - [davepoon](../authors/davepoon.md) — 6
 - [Grimmer](../authors/grimmer.md) — 6
+- [HodlReaper](../authors/hodlreaper.md) — 6
 - [Jetwani Avinash](../authors/jetwani-avinash.md) — 6
 - [Michael](../authors/michael.md) — 6
 - [Mika](../authors/mika.md) — 6
@@ -117,7 +118,6 @@
 - [HackerNoon | Learn Any Technology](../authors/hackernoon-learn-any-technology.md) — 5
 - [Hazem Omier](../authors/hazem-omier.md) — 5
 - [Himanshu Kumar](../authors/himanshu-kumar.md) — 5
-- [HodlReaper](../authors/hodlreaper.md) — 5
 - [Leaf Yeah!](../authors/leaf-yeah.md) — 5
 - [mercante](../authors/mercante.md) — 5
 - [Movez](../authors/movez.md) — 5
@@ -3463,6 +3463,7 @@
 - [PolloAI Creators](../authors/polloai-creators.md) — 1
 - [polyaxon](../authors/polyaxon.md) — 1
 - [polymaddy](../authors/polymaddy.md) — 1
+- [Pontus Abrahamsson](../authors/pontus-abrahamsson.md) — 1
 - [POP](../authors/pop.md) — 1
 - [potemin](../authors/potemin.md) — 1
 - [Povilas Korop | AI Coding & Laravel Educator](../authors/povilas-korop-ai-coding-laravel-educator.md) — 1
@@ -4587,6 +4588,7 @@
 - [すてぃお](../authors/jev-showcase.md) — 1
 - [すてにゃん](../authors/jev-showcase.md) — 1
 - [スナガク | Codexではじめるエージェンティックコーディング](../authors/codex.md) — 1
+- [するめ](../authors/jev-showcase.md) — 1
 - [せい](../authors/jev-showcase.md) — 1
 - [せいぶつ](../authors/jev-showcase.md) — 1
 - [セカヤサ@AI×Web制作💻小林 秀樹](../authors/ai-web制作-小林-秀樹.md) — 1

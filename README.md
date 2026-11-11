@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7269</strong><br>curated posts</td>
-<td align="center"><strong>3575</strong><br>original videos</td>
+<td align="center"><strong>7273</strong><br>curated posts</td>
+<td align="center"><strong>3578</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -46,16 +46,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/agents.md">Agents</a></h3>
+<p><sub>智能体</sub></p>
+<p><strong>617</strong> showcases · <strong>330</strong> videos</p>
+<p><a href="categories/agents.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
 <p><strong>616</strong> showcases · <strong>274</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/agents.md">Agents</a></h3>
-<p><sub>智能体</sub></p>
-<p><strong>616</strong> showcases · <strong>329</strong> videos</p>
-<p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>412</strong> showcases · <strong>216</strong> videos</p>
+<p><strong>413</strong> showcases · <strong>217</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>95</strong> showcases · <strong>30</strong> videos</p>
+<p><strong>96</strong> showcases · <strong>30</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -148,7 +148,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/software-development.md">Software development</a></h3>
 <p><sub>软件开发</sub></p>
-<p><strong>55</strong> showcases · <strong>25</strong> videos</p>
+<p><strong>56</strong> showcases · <strong>26</strong> videos</p>
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
-<p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/defenceability/status/2120522966723444838"><img src="https://pbs.twimg.com/media/HW2cQh3a4AAI-m0?format=jpg&amp;name=medium" alt="Jev test project: Cybersecurity topics page · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/defenceability/status/2120522966723444838">Jev test project: Cybersecurity topics page</a></h3>
+<p>The author shares a cybersecurity topics page created while testing Jev, and gives it a positive review.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>するめ</strong> · @defenceability</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/cxocommunity/status/2120508673986613678"><img src="https://pbs.twimg.com/media/HW2PZwpaYAASzTW?format=jpg&amp;name=medium" alt="Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/cxocommunity/status/2120508673986613678">Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions</a></h3>
-<p>Quick tutorial video: Andrew Forte introduces the TypeSafe AI Jev module, a Make connector built for filtering spam and flagging transactions at a fraction of the cost.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/Mr_Buzzoni/status/2120522937338155045"><img src="https://pbs.twimg.com/amplify_video_thumb/2120009557489430528/img/owxj1UXgquSGGxOR.jpg" alt="Meet Jev: The &#39;Internet&#39; Moment for AI? · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Mr_Buzzoni/status/2120522937338155045">Meet Jev: The &#39;Internet&#39; Moment for AI?</a></h3>
+<p>The post introduces Jev as an AI decision layer, claiming up to 193x faster and 444x cheaper in tests with Claude models, with a 10-page research: LLM writes, agents act, Jev picks the next move.</p>
+<p><strong>78</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 78</p>
+<p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
-<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
-<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
+<p><strong>03</strong> &nbsp; <code>软件开发</code> <code>原帖视频</code></p>
+<a href="https://x.com/pontusab/status/2120516059619033571"><img src="https://pbs.twimg.com/amplify_video_thumb/2120516041847754752/img/xOe1KJxbYYUdMfdI.jpg" alt="Building a great composer: use Jev for intent-based recommendations · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/pontusab/status/2120516059619033571">Building a great composer: use Jev for intent-based recommendations</a></h3>
+<p>Pontus Abrahamsson shares practical tips for building a great composer: prefetching data, Tiptap under the hood, keyboard navigation, localStorage drafts, polished paste behavior, and Jev for intent-based recommendations.</p>
+<p><strong>1.6K</strong> views · 💬 6 &nbsp; 🔁 1 &nbsp; ♡ 61 &nbsp; 📊 1.6K</p>
+<p><strong>Pontus Abrahamsson</strong> · @pontusab</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Token360AI/status/2120489872075223337"><img src="https://pbs.twimg.com/media/HW1-SqLbcAEtzwC?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 and Jev 1.13 Now on Token360 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Token360AI/status/2120489872075223337">TypeSafe Jev 1.14 and Jev 1.13 Now on Token360</a></h3>
-<p>Structured decision models: context + predefined questions in, typed results out. Built for routing, classification, and fast, predictable decisions. Supports text + image input, from $0.042 / 1M input tokens.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Token360</strong> · @Token360AI</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/HodlReaper/status/2120511535562821687"><img src="https://pbs.twimg.com/amplify_video_thumb/2120511292574248960/img/KTbQhRfNJqLRY7XK.jpg" alt="Jev-Powered Crypto Trading Bot in Action · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HodlReaper/status/2120511535562821687">Jev-Powered Crypto Trading Bot in Action</a></h3>
+<p>A user gave a bot 0.5 SOL before a flight and landed 4 hours later with 12.72 SOL. The Grok Bot runs 4 agents: Scout finds coins, Jev checks them, Sniper buys, and Exit sells, connected through Phantom and trading only the SOL sent to it.</p>
+<p><strong>256</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 256</p>
+<p><strong>HodlReaper</strong> · @HodlReaper</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖图片</code></p>
+<a href="https://x.com/defenceability/status/2120522966723444838"><img src="https://pbs.twimg.com/media/HW2cQh3a4AAI-m0?format=jpg&amp;name=medium" alt="Jev test project: Cybersecurity topics page · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/defenceability/status/2120522966723444838">Jev test project: Cybersecurity topics page</a></h3>
+<p>The author shares a cybersecurity topics page created while testing Jev, and gives it a positive review.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>するめ</strong> · @defenceability</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/HodlReaper/status/2120511535562821687"><img src="https://pbs.twimg.com/amplify_video_thumb/2120511292574248960/img/KTbQhRfNJqLRY7XK.jpg" alt="Jev-Powered Crypto Trading Bot in Action · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HodlReaper/status/2120511535562821687">Jev-Powered Crypto Trading Bot in Action</a></h3>
+<p>A user gave a bot 0.5 SOL before a flight and landed 4 hours later with 12.72 SOL. The Grok Bot runs 4 agents: Scout finds coins, Jev checks them, Sniper buys, and Exit sells, connected through Phantom and trading only the SOL sent to it.</p>
+<p><strong>256</strong> views · 💬 6 &nbsp; 🔁 0 &nbsp; ♡ 14 &nbsp; 📊 256</p>
+<p><strong>HodlReaper</strong> · @HodlReaper</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
 <p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>CXO-Community.com</strong> · @cxocommunity</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Token360AI/status/2120489872075223337"><img src="https://pbs.twimg.com/media/HW1-SqLbcAEtzwC?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 and Jev 1.13 Now on Token360 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Token360AI/status/2120489872075223337">TypeSafe Jev 1.14 and Jev 1.13 Now on Token360</a></h3>
-<p>Structured decision models: context + predefined questions in, typed results out. Built for routing, classification, and fast, predictable decisions. Supports text + image input, from $0.042 / 1M input tokens.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Token360</strong> · @Token360AI</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/xinsuzuki/status/2120489474174091472"><img src="https://pbs.twimg.com/media/HW194tbbAAMovzy?format=jpg&amp;name=medium" alt="AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xinsuzuki/status/2120489474174091472">AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools</a></h3>
-<p>This video is the 4th talk of the online AI LT event #AIMTG held every 2nd Wednesday. S.Oka discusses whether Osaka or Hiroshima is the true home of okonomiyaki, and shares differences among decision-focused AI tools such as Jev discovered through hands-on testing.</p>
-<p><strong>59</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 59</p>
-<p><strong>xinsuzuki</strong> · @xinsuzuki</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
-<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
-<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
-<p><strong>Manel</strong> · @manelvelasco_</p>
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/_handle_name/status/2120487929231638896"><img src="https://pbs.twimg.com/media/HW18XT3bsAAQ55O?format=jpg&amp;name=medium" alt="Jev and decision-specialized AI returning probabilities · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/_handle_name/status/2120487929231638896">Jev and decision-specialized AI returning probabilities</a></h3>
+<p>The post explains that decision-specialized AIs like Jev and OpenAI Decisions API return answers as option probabilities rather than text.</p>
+<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
+<p><strong>H.N</strong> · @_handle_name</p>
 </td>
 </tr>
 </table>

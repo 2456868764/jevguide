@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T14:24:07.000Z | [Jev test project: Cybersecurity topics page](https://x.com/defenceability/status/2120522966723444838) | 网络安全 | するめ | 7 |
+| 2026-11-11T14:24:00.000Z | [Meet Jev: The 'Internet' Moment for AI?](https://x.com/Mr_Buzzoni/status/2120522937338155045) | 智能体 | Mr. Buzzoni | 78 |
+| 2026-11-11T13:56:40.000Z | [Building a great composer: use Jev for intent-based recommendations](https://x.com/pontusab/status/2120516059619033571) | 软件开发 | Pontus Abrahamsson | 1.6K |
+| 2026-11-11T13:38:41.000Z | [Jev-Powered Crypto Trading Bot in Action](https://x.com/HodlReaper/status/2120511535562821687) | 金融 | HodlReaper | 256 |
 | 2026-11-11T13:32:26.000Z | [TypeSafe AI Jev in Make: Filter Spam & Flag Transactions at Lower Cost](https://x.com/cxocommunity/status/2120509959402381614) | 自动化工作流 | CXO-Community.com | 4 |
 | 2026-11-11T13:27:19.000Z | [Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions](https://x.com/cxocommunity/status/2120508673986613678) | 自动化工作流 | CXO-Community.com | 5 |
 | 2026-11-11T12:31:54.000Z | [70+ Developers Building with Jev and Lovable](https://x.com/angelamuba001/status/2120494726763995445) | 社区实践 | Angela Muñoz | 17 |
@@ -98,7 +102,3 @@
 | 2026-11-10T00:33:41.000Z | [Infinite Alchemy Integrates Jev for Semantic Sorting](https://x.com/ShrivuShankar/status/2119951595844841951) | 游戏 | Shrivu Shankar | 344 |
 | 2026-11-10T00:14:32.000Z | [TypeSafe AI Unveils Jev Decision Model](https://x.com/SalesforceNews/status/2119946775716831501) | 产品发布 | Salesforce News & Insights | 273 |
 | 2026-11-09T23:30:00.000Z | [Jev Tutorial: How to Ask Questions and Use Answers](https://x.com/LittleMomentsTH/status/2119935568452751560) | 社区实践 | Little Moments | 159 |
-| 2026-11-09T22:48:25.000Z | [User over-seeded TypeSafe account after Jev launch](https://x.com/jbarrieault/status/2119925103408320678) | 社区实践 | Jacob Barrieault | 48 |
-| 2026-11-09T21:47:19.000Z | [Jev video labeling cost test](https://x.com/hammer_mt/status/2119909725403828624) | 数据分析 | Mike Taylor | 35 |
-| 2026-11-09T21:43:03.000Z | [JEV Agent Experiment in GTA V](https://x.com/hammer0x419/status/2119908654103118082) | 智能体 | Hammer0x419 | 40 |
-| 2026-11-09T20:57:41.000Z | [Jev Model PDF Resource Share](https://x.com/kinox1out/status/2119897237543063849) | 开发资源 | Kinox | 44 |

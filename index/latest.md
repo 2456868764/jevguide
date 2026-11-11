@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T13:32:26.000Z | [TypeSafe AI Jev in Make: Filter Spam & Flag Transactions at Lower Cost](https://x.com/cxocommunity/status/2120509959402381614) | 自动化工作流 | CXO-Community.com | 4 |
+| 2026-11-11T13:27:19.000Z | [Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions](https://x.com/cxocommunity/status/2120508673986613678) | 自动化工作流 | CXO-Community.com | 5 |
 | 2026-11-11T12:31:54.000Z | [70+ Developers Building with Jev and Lovable](https://x.com/angelamuba001/status/2120494726763995445) | 社区实践 | Angela Muñoz | 17 |
 | 2026-11-11T12:12:36.000Z | [TypeSafe Jev 1.14 and Jev 1.13 Now on Token360](https://x.com/Token360AI/status/2120489872075223337) | 产品发布 | Token360 | 3 |
 | 2026-11-11T12:11:02.000Z | [AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools](https://x.com/xinsuzuki/status/2120489474174091472) | 社区实践 | xinsuzuki | 59 |
@@ -100,5 +102,3 @@
 | 2026-11-09T21:47:19.000Z | [Jev video labeling cost test](https://x.com/hammer_mt/status/2119909725403828624) | 数据分析 | Mike Taylor | 35 |
 | 2026-11-09T21:43:03.000Z | [JEV Agent Experiment in GTA V](https://x.com/hammer0x419/status/2119908654103118082) | 智能体 | Hammer0x419 | 40 |
 | 2026-11-09T20:57:41.000Z | [Jev Model PDF Resource Share](https://x.com/kinox1out/status/2119897237543063849) | 开发资源 | Kinox | 44 |
-| 2026-11-09T20:40:13.000Z | [Voice coffee ordering with Jev, ~200ms UI updates](https://x.com/kunalabcdani/status/2119892841723990319) | 智能体 | Kunal Abichandani | 38K |
-| 2026-11-09T20:36:56.000Z | [Foundation models diverging: Jev as general-purpose decision model](https://x.com/rayruizhiliao/status/2119892015290925542) | 科研 | Ray Liao | 784 |

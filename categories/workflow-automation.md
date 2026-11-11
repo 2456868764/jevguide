@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 312 | 191 | 121 | 595K |
+| 314 | 191 | 123 | 595K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
+<p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
+<p><strong>中文摘要：</strong>本文介绍 TypeSafe AI 的 Jev 模型如何在 Make 自动化平台中应用，帮助用户以更低的成本过滤垃圾信息并标记可疑交易。</p>
+<p><strong>CXO-Community.com</strong> · @cxocommunity · 2026-11-11T13:32:26.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><a href="https://x.com/cxocommunity/status/2120509959402381614">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/cxocommunity/status/2120508673986613678"><img src="https://pbs.twimg.com/media/HW2PZwpaYAASzTW?format=jpg&amp;name=medium" alt="Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cxocommunity/status/2120508673986613678">Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions</a></h3>
+<p>Quick tutorial video: Andrew Forte introduces the TypeSafe AI Jev module, a Make connector built for filtering spam and flagging transactions at a fraction of the cost.</p>
+<p><strong>中文摘要：</strong>快速教程视频：Andrew Forte 介绍 TypeSafe AI Jev 模块——一个专为过滤垃圾邮件和标记交易而设计的 Make 连接器，成本极低。</p>
+<p><strong>CXO-Community.com</strong> · @cxocommunity · 2026-11-11T13:27:19.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><a href="https://x.com/cxocommunity/status/2120508673986613678">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/vcdx001/status/2120428352008052857"><img src="https://pbs.twimg.com/media/HW1GWVma0AAVfx2?format=png&amp;name=small" alt="Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap · 原帖图片" width="100%"></a>

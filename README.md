@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7267</strong><br>curated posts</td>
+<td align="center"><strong>7269</strong><br>curated posts</td>
 <td align="center"><strong>3575</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>312</strong> showcases · <strong>191</strong> videos</p>
+<p><strong>314</strong> showcases · <strong>191</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
+<p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/cxocommunity/status/2120508673986613678"><img src="https://pbs.twimg.com/media/HW2PZwpaYAASzTW?format=jpg&amp;name=medium" alt="Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cxocommunity/status/2120508673986613678">Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions</a></h3>
+<p>Quick tutorial video: Andrew Forte introduces the TypeSafe AI Jev module, a Make connector built for filtering spam and flagging transactions at a fraction of the cost.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
 <p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>Angela Muñoz</strong> · @angelamuba001</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/Token360AI/status/2120489872075223337"><img src="https://pbs.twimg.com/media/HW1-SqLbcAEtzwC?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 and Jev 1.13 Now on Token360 · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/Token360AI/status/2120489872075223337">TypeSafe Jev 1.14 and Jev 1.13 Now on Token360</a></h3>
 <p>Structured decision models: context + predefined questions in, typed results out. Built for routing, classification, and fast, predictable decisions. Supports text + image input, from $0.042 / 1M input tokens.</p>
 <p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
 <p><strong>Token360</strong> · @Token360AI</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/xinsuzuki/status/2120489474174091472"><img src="https://pbs.twimg.com/media/HW194tbbAAMovzy?format=jpg&amp;name=medium" alt="AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/xinsuzuki/status/2120489474174091472">AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools</a></h3>
-<p>This video is the 4th talk of the online AI LT event #AIMTG held every 2nd Wednesday. S.Oka discusses whether Osaka or Hiroshima is the true home of okonomiyaki, and shares differences among decision-focused AI tools such as Jev discovered through hands-on testing.</p>
-<p><strong>59</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 59</p>
-<p><strong>xinsuzuki</strong> · @xinsuzuki</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/jun_mh4g/status/2120487968477749517"><img src="https://pbs.twimg.com/media/HW18OCObYAA1tWe?format=jpg&amp;name=large" alt="Jev + Decisions API Comparison Tool · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jun_mh4g/status/2120487968477749517">Jev + Decisions API Comparison Tool</a></h3>
-<p>The author shares a comparison tool for Jev and Decisions API with a public repository. It handles judgments in choice, score, and yes/no formats.</p>
-<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
-<p><strong>じゅん@就活中&amp;移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9</strong> · @jun_mh4g</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/angelamuba001/status/2120494726763995445"><img src="https://pbs.twimg.com/media/HW2ChHLWAAAh7Q-?format=jpg&amp;name=medium" alt="70+ Developers Building with Jev and Lovable · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/angelamuba001/status/2120494726763995445">70+ Developers Building with Jev and Lovable</a></h3>
-<p>Angela Muñoz shares that at an itnig event yesterday, 70+ hackers were building with Jev (TypeSafe AI) and Lovable, thanking @picsoung and @hackbarna.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 1 &nbsp; 📊 17</p>
-<p><strong>Angela Muñoz</strong> · @angelamuba001</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/cxocommunity/status/2120509959402381614"><img src="https://pbs.twimg.com/media/HW2QkhqboAAd35Q?format=jpg&amp;name=medium" alt="TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/cxocommunity/status/2120509959402381614">TypeSafe AI Jev in Make: Filter Spam &amp; Flag Transactions at Lower Cost</a></h3>
+<p>This article introduces how TypeSafe AI&#39;s Jev model can be used in the Make automation platform to filter spam and flag suspicious transactions at a lower cost.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>CXO-Community.com</strong> · @cxocommunity</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖图片</code></p>
-<a href="https://x.com/jun_mh4g/status/2120487968477749517"><img src="https://pbs.twimg.com/media/HW18OCObYAA1tWe?format=jpg&amp;name=large" alt="Jev + Decisions API Comparison Tool · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jun_mh4g/status/2120487968477749517">Jev + Decisions API Comparison Tool</a></h3>
-<p>The author shares a comparison tool for Jev and Decisions API with a public repository. It handles judgments in choice, score, and yes/no formats.</p>
-<p><strong>31</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 31</p>
-<p><strong>じゅん@就活中&amp;移住先募集中 10/21XRミーティング北海道のお世話 6/14💉9</strong> · @jun_mh4g</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Token360AI/status/2120489872075223337"><img src="https://pbs.twimg.com/media/HW1-SqLbcAEtzwC?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 and Jev 1.13 Now on Token360 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Token360AI/status/2120489872075223337">TypeSafe Jev 1.14 and Jev 1.13 Now on Token360</a></h3>
+<p>Structured decision models: context + predefined questions in, typed results out. Built for routing, classification, and fast, predictable decisions. Supports text + image input, from $0.042 / 1M input tokens.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Token360</strong> · @Token360AI</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
-<a href="https://x.com/_handle_name/status/2120487929231638896"><img src="https://pbs.twimg.com/media/HW18XT3bsAAQ55O?format=jpg&amp;name=medium" alt="Jev and decision-specialized AI returning probabilities · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/_handle_name/status/2120487929231638896">Jev and decision-specialized AI returning probabilities</a></h3>
-<p>The post explains that decision-specialized AIs like Jev and OpenAI Decisions API return answers as option probabilities rather than text.</p>
-<p><strong>27</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 27</p>
-<p><strong>H.N</strong> · @_handle_name</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/xinsuzuki/status/2120489474174091472"><img src="https://pbs.twimg.com/media/HW194tbbAAMovzy?format=jpg&amp;name=medium" alt="AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/xinsuzuki/status/2120489474174091472">AI Meetup LT: Hands-On with Jev and Other Decision-Focused AI Tools</a></h3>
+<p>This video is the 4th talk of the online AI LT event #AIMTG held every 2nd Wednesday. S.Oka discusses whether Osaka or Hiroshima is the true home of okonomiyaki, and shares differences among decision-focused AI tools such as Jev discovered through hands-on testing.</p>
+<p><strong>59</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 59</p>
+<p><strong>xinsuzuki</strong> · @xinsuzuki</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/MichaelBlazik/status/2120461555674317228"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120163294337957888/pu/img/1h2mtm9d4EAXZP7S.jpg" alt="Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/MichaelBlazik/status/2120461555674317228">Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior</a></h3>
-<p>Michael Blažík announces that his trained behavioral models Ember and Orbit beat SOTA LLMs in accuracy and are 1400x faster than Jev, Gemini, and GPT at predicting fight-or-flight behavior.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 16</p>
-<p><strong>Michael Blažík</strong> · @MichaelBlazik</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/manelvelasco_/status/2120474434414776397"><img src="https://pbs.twimg.com/media/HW1vOmjW8AAAMcV?format=jpg&amp;name=medium" alt="Hackathon participant tests Jev classification model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/manelvelasco_/status/2120474434414776397">Hackathon participant tests Jev classification model</a></h3>
+<p>Manel enjoyed the Jev-a-thon HackNight and tested Jev&#39;s classification model for a dynamic SaaS competitor tracker side-project.</p>
+<p><strong>32</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 32</p>
+<p><strong>Manel</strong> · @manelvelasco_</p>
 </td>
 </tr>
 </table>

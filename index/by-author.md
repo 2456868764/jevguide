@@ -159,6 +159,7 @@
 - [Carlos Martinez](../authors/carlos-martinez.md) — 4
 - [ChinaAIDaily](../authors/chinaaidaily.md) — 4
 - [Commisticholy](../authors/commisticholy.md) — 4
+- [CXO-Community.com](../authors/cxo-community-com.md) — 4
 - [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
@@ -569,7 +570,6 @@
 - [Codio](../authors/codio.md) — 2
 - [Coupons Free Discounts](../authors/coupons-free-discounts.md) — 2
 - [Cua](../authors/cua.md) — 2
-- [CXO-Community.com](../authors/cxo-community-com.md) — 2
 - [Cyris](../authors/cyris.md) — 2
 - [Daily Dose of Data Science](../authors/daily-dose-of-data-science.md) — 2
 - [Dain](../authors/dain.md) — 2

@@ -17,7 +17,7 @@
 - [Data analytics](../categories/data-analytics.md) — 127
 - [Cybersecurity](../categories/cybersecurity.md) — 95
 - [Customer support](../categories/customer-support.md) — 70
-- [Robotics](../categories/robotics.md) — 63
+- [Robotics](../categories/robotics.md) — 64
 - [Software development](../categories/software-development.md) — 55
 - [Business operations](../categories/business-operations.md) — 52
 - [Productivity](../categories/productivity.md) — 51

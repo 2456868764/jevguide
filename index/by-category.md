@@ -8,7 +8,7 @@
 - [Access updates](../categories/access-updates.md) — 461
 - [Developer resources](../categories/developer-resources.md) — 420
 - [Gaming](../categories/gaming.md) — 419
-- [Finance](../categories/finance.md) — 411
+- [Finance](../categories/finance.md) — 412
 - [Workflow automation](../categories/workflow-automation.md) — 310
 - [Marketing](../categories/marketing.md) — 202
 - [Knowledge & search](../categories/knowledge-search.md) — 146

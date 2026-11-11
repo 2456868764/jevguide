@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T04:23:14.000Z | [AUD/JPY AI Short Scenario: Jev Assessment Not Supported](https://x.com/hadohunter/status/2120371749091197158) | 金融 | HadoHunter | 9 |
 | 2026-11-11T03:31:36.000Z | [Jev Job Search Tool for Windows](https://x.com/orpheuuss_/status/2120358757494308928) | 社区实践 | ✵ | 9 |
 | 2026-11-11T01:54:56.000Z | [Discussing RAG Architecture and Suggesting Jev](https://x.com/Suercha007/status/2120334428581109970) | 知识与搜索 | 苏茶 | 84 |
 | 2026-11-11T01:09:09.000Z | [Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper](https://x.com/mm_0824_kb/status/2120322908782555595) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 47 |
@@ -101,4 +102,3 @@
 | 2026-11-06T01:37:57.000Z | [Essential Blog for Jev Users](https://x.com/yoshienagatomo/status/2118518214133256518) | 社区实践 | 長友好江\|AIエージェントの家庭教師 | 36 |
 | 2026-11-06T01:22:48.000Z | [Designer shares how Jev turns sentences into workflow actions](https://x.com/its_grayscale/status/2118514404014882874) | 自动化工作流 | Brendan Gray | 105 |
 | 2026-11-06T01:02:38.000Z | [Jev Anti-Pattern: Don't Use Jev to Replace Code for Big Decisions](https://x.com/CompleteSkeptic/status/2118509326981791781) | 社区实践 | Diogo Almeida | 13K |
-| 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |

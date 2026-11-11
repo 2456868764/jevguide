@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 618 | 330 | 290 | 3.0M |
+| 620 | 330 | 292 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SyrianVeterans/status/2120589239188631598"><img src="https://pbs.twimg.com/media/HW3YqYvbgAEUzpl?format=jpg&amp;name=medium" alt="Jev 1.14 Ties with Gemini Decision 1 on AA Decision Index · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/SyrianVeterans/status/2120589239188631598">Jev 1.14 Ties with Gemini Decision 1 on AA Decision Index</a></h3>
+<p>Google&#39;s decision model Gemini Decision 1 scores 66 on Artificial Analysis&#39; Decision Index v2.1, tying with Elephant 9B and Jev 1.14, and 7 points below Drex Max v1.1 and GLiDE v1.2 at 73. It performs strongly on knowledge reasoning benchmarks.</p>
+<p><strong>中文摘要：</strong>谷歌决策模型 Gemini Decision 1 在 Artificial Analysis 的 Decision Index v2.1 上获得 66 分，与 Elephant 9B 和 Jev 1.14 同分，低于 Drex Max v1.1 和 GLiDE v1.2 的 73 分。其在知识推理类基准上有较强表现。</p>
+<p><strong>versatile</strong> · @SyrianVeterans · 2026-11-11T18:47:27.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><a href="https://x.com/SyrianVeterans/status/2120589239188631598">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/EliotAndres/status/2120588959629897746"><img src="https://pbs.twimg.com/media/HW3YRhxbkAA5Iyk?format=jpg&amp;name=medium" alt="Jev Speeds Up Agentic Loops · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EliotAndres/status/2120588959629897746">Jev Speeds Up Agentic Loops</a></h3>
+<p>Eliot Andres shares michellechen&#39;s point at aiDotEngineer: ultra-fast models like Jev make datacenter proximity valuable again, and replacing some LLM calls with faster models gives a big speedup in agentic loops.</p>
+<p><strong>中文摘要：</strong>Eliot Andres引用michellechen在aiDotEngineer的观点：Jev等超快模型使数据中心靠近用户重新变得有价值，且用更快模型替换部分LLM调用可显著提升智能体循环速度。</p>
+<p><strong>Eliot Andres</strong> · @EliotAndres · 2026-11-11T18:46:21.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 224</p>
+<p><a href="https://x.com/EliotAndres/status/2120588959629897746">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ForgeAI_gg/status/2120525930770673782"><img src="https://pbs.twimg.com/media/HW2fGHNWQAATzXJ?format=jpg&amp;name=medium" alt="JEV Makes Move-by-Move Decisions in ForgeAI Agents · 原帖图片" width="100%"></a>

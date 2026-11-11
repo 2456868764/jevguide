@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 461 | 190 | 271 | 802K |
+| 463 | 192 | 271 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/_ayushwalekar/status/2120588191938048331"><img src="https://pbs.twimg.com/amplify_video_thumb/2120588085734035457/img/clxT0Oztp6IVAtgR.jpg" alt="Jev 1.14 Pricing and Latency on OpenRouter · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/_ayushwalekar/status/2120588191938048331">Jev 1.14 Pricing and Latency on OpenRouter</a></h3>
+<p>Jev 1.14 costs $0.042 per 1M input tokens on OpenRouter with free output; P50 latency is 0.12s, cheaper and faster than alternatives.</p>
+<p><strong>中文摘要：</strong>Jev 1.14 在 OpenRouter 上每百万输入 token 成本为 0.042 美元，输出免费；P50 延迟 0.12 秒，比对照模型更便宜且更快。</p>
+<p><strong>Ayush Walekar</strong> · @_ayushwalekar · 2026-11-11T18:43:18.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/_ayushwalekar/status/2120588191938048331">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/MehulFanawala/status/2120585983444033615"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Jev input token pricing remains $0.042/MTok · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/MehulFanawala/status/2120585983444033615">Jev input token pricing remains $0.042/MTok</a></h3>
+<p>The post notes that Jev&#39;s input token price remains $0.042 per million tokens.</p>
+<p><strong>中文摘要：</strong>该帖指出 Jev 的输入 token 价格仍为每百万 token 0.042 美元。</p>
+<p><strong>Mehul Fanawala</strong> · @MehulFanawala · 2026-11-11T18:34:31.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 199</p>
+<p><a href="https://x.com/MehulFanawala/status/2120585983444033615">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0xDrexo/status/2120161426627322043"><img src="https://pbs.twimg.com/media/HWxTkxgasAEdY3w?format=jpg&amp;name=medium" alt="Jev and 6 Other AI Models Are Currently Free · 原帖图片" width="100%"></a>

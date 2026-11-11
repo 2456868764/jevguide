@@ -1,9 +1,10 @@
 # Hammer0x419
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T21:51:43.000Z | [CS 1.6 Agents Use JEV Action Model](https://x.com/hammer0x419/status/2120635607869214739) | 游戏 | Hammer0x419 | 4 |
 | 2026-11-10T21:45:17.000Z | [CS 1.6 de_dust2 pistol round experiment: Claude Opus 5.5 + JEV vs DeepSeek V4.1 Flash + JEV](https://x.com/hammer0x419/status/2120271601014870443) | 游戏 | Hammer0x419 | 20 |
 | 2026-11-09T21:43:03.000Z | [JEV Agent Experiment in GTA V](https://x.com/hammer0x419/status/2119908654103118082) | 智能体 | Hammer0x419 | 40 |
 | 2026-11-05T21:43:56.000Z | [JEV-Powered CS 1.6 AI Duel Experiment](https://x.com/hammer0x419/status/2118459324175454470) | 游戏 | Hammer0x419 | 23 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 643 | 285 | 359 | 1.6M |
+| 645 | 285 | 361 | 1.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/boobs_scary/status/2120621200833642690"><img src="https://pbs.twimg.com/media/HW31vMfa8AAshzc?format=png&amp;name=small" alt="Early Insight on Stacking LLM Logic Gates · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/boobs_scary/status/2120621200833642690">Early Insight on Stacking LLM Logic Gates</a></h3>
+<p>Before JEV and Google&#39;s &quot;Decision Model&quot;, the author had the insight about 2.5 years ago to set LLM max_token to 1 and ask for &quot;yes&quot;/&quot;no&quot;, stacking enough logic gates to achieve powerful intelligence.</p>
+<p><strong>中文摘要：</strong>作者提到在JEV和谷歌“决策模型”之前，约2.5年前就构想出将LLM的max_token设为1，强制输出“是/否”，通过堆叠这种逻辑门来构建强大智能。</p>
+<p><strong>NFTmachine 🤖</strong> · @boobs_scary · 2026-11-11T20:54:28.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 352</p>
+<p><a href="https://x.com/boobs_scary/status/2120621200833642690">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/monospodcast/status/2120593863945449716"><img src="https://pbs.twimg.com/media/HW3c2oMWQAAGa3B?format=jpg&amp;name=medium" alt="A Jev-style decision model from Google Deepmind · 原帖图片" width="100%"></a>
+<br>
+<sub><code>工作原理</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/monospodcast/status/2120593863945449716">A Jev-style decision model from Google Deepmind</a></h3>
+<p>The post mentions another Jev-style decision model from Google Deepmind and notes it looks pretty good on paper.</p>
+<p><strong>中文摘要：</strong>帖子提及Google Deepmind发布的另一个Jev风格决策模型，并评价其纸上表现不错。</p>
+<p><strong>monos estocásticos</strong> · @monospodcast · 2026-11-11T19:05:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 723</p>
+<p><a href="https://x.com/monospodcast/status/2120593863945449716">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/_handle_name/status/2120487929231638896"><img src="https://pbs.twimg.com/media/HW18XT3bsAAQ55O?format=jpg&amp;name=medium" alt="Jev and decision-specialized AI returning probabilities · 原帖图片" width="100%"></a>

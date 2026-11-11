@@ -1,8 +1,9 @@
 # Derya Unutmaz, MD
 
-2 Jev showcases.
+3 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T18:39:54.000Z | [Google Claims to Surpass Jev on Decision Benchmarks](https://x.com/DeryaTR_/status/2120587337784516757) | 社区实践 | Derya Unutmaz, MD | 8.2K |
 | 2026-09-20 | [User reports burning 100M tokens on Jev to run thousands of simulation experiments](https://x.com/DeryaTR_/status/2101519392395735103) | 接入动态 | Derya Unutmaz, MD | 8.9K |
 | 2026-09-18 | [Jev Praised as Potentially Bigger Than ChatGPT](https://x.com/DeryaTR_/status/2100990428346544213) | 接入动态 | Derya Unutmaz, MD | 108K |

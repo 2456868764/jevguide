@@ -1077,6 +1077,7 @@
 - [⚡ Marshall ⚡](../authors/marshall.md) — 1
 - [⚡Jessy SEO formation #IA générative #chatGPT 🦊](../authors/jessy-seo-formation-ia-generative-chatgpt.md) — 1
 - [🇮🇹 Massimo De Luisa](../authors/massimo-de-luisa.md) — 1
+- [✵](../authors/jev-showcase.md) — 1
 - [🍖やきにく🍖](../authors/jev-showcase.md) — 1
 - [🏍benyamin](../authors/benyamin.md) — 1
 - [🐖 ソロでぶ（solo.dev）｜開発牧場の家畜](../authors/solo-dev-開発牧場-家畜.md) — 1

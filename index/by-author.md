@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [BrainChain](../authors/brainchain.md) — 40
+- [BrainChain](../authors/brainchain.md) — 41
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [8Bit🦞](../authors/8bit.md) — 31
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
@@ -507,6 +507,7 @@
 - [Apify](../authors/apify.md) — 2
 - [Apollo](../authors/apollo.md) — 2
 - [Archer](../authors/archer.md) — 2
+- [Argusic](../authors/argusic.md) — 2
 - [Arman](../authors/arman.md) — 2
 - [Artem](../authors/artem.md) — 2
 - [Artificial Intelligence Papers](../authors/artificial-intelligence-papers.md) — 2
@@ -1425,7 +1426,6 @@
 - [Arcveil](../authors/arcveil.md) — 1
 - [ares. 🎧](../authors/ares.md) — 1
 - [Argona](../authors/argona.md) — 1
-- [Argusic](../authors/argusic.md) — 1
 - [arhen](../authors/arhen.md) — 1
 - [Ari Heljakka](../authors/ari-heljakka.md) — 1
 - [AriesTheCoder](../authors/ariesthecoder.md) — 1
@@ -3054,6 +3054,7 @@
 - [MewCP](../authors/mewcp.md) — 1
 - [Mia Bulids](../authors/mia-bulids.md) — 1
 - [Micha(el) Bladowski 🇩🇪 🇺🇦](../authors/micha-el-bladowski.md) — 1
+- [Michael Blažík](../authors/michael-blazik.md) — 1
 - [Michael Kaiser](../authors/michael-kaiser.md) — 1
 - [Michael Kolkov](../authors/michael-kolkov.md) — 1
 - [Michael Kramarenko](../authors/michael-kramarenko.md) — 1
@@ -4086,6 +4087,7 @@
 - [Thomas Kanze 🌴](../authors/thomas-kanze.md) — 1
 - [Thomas Rossi 👤🦹‍♂️👨‍💻](../authors/thomas-rossi.md) — 1
 - [ThreeRouter1](../authors/threerouter1.md) — 1
+- [Thrifty | Open to Work | Software Engineer](../authors/thrifty-open-to-work-software-engineer.md) — 1
 - [thsnkhn](../authors/thsnkhn.md) — 1
 - [Tianyin Xu](../authors/tianyin-xu.md) — 1
 - [Tibor (Tee)](../authors/tibor-tee.md) — 1

@@ -2,10 +2,14 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T10:37:39.000Z | [Jev agent hires DeepSeek to write a regex for semantic versions](https://x.com/usebrainchain/status/2120465975086899238) | 智能体 | BrainChain | 58 |
+| 2026-11-11T10:20:05.000Z | [Ember and Orbit beat Jev, Gemini, and GPT in predicting fight-or-flight behavior](https://x.com/MichaelBlazik/status/2120461555674317228) | 科研 | Michael Blažík | 16 |
 | 2026-11-11T09:46:48.000Z | [User Shares Jev Use Case: Comment Classification and Issue Pre-screening](https://x.com/321sssrt/status/2120453178181534161) | 社区实践 | Zebro | 15 |
 | 2026-11-11T09:36:11.000Z | [browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev](https://x.com/ChinaAIDaily/status/2120450505776439328) | 开发资源 | ChinaAIDaily | 7 |
 | 2026-11-11T08:37:17.000Z | [Jev's Potential in Robotics and Spatial Understanding Challenges](https://x.com/raj73237/status/2120435685387903363) | 机器人 | Raj | 1 |
 | 2026-11-11T08:08:09.000Z | [Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap](https://x.com/vcdx001/status/2120428352008052857) | 自动化工作流 | John Arrasjid | 7 |
+| 2026-11-11T07:30:26.000Z | [jev-job-search: Automating Job Applications with Jev](https://x.com/argusiccom/status/2120418860507463724) | 自动化工作流 | Argusic | 64 |
+| 2026-11-11T06:46:30.000Z | [Jev scoring in referral networks](https://x.com/thriftyAI/status/2120407805215596674) | 社区实践 | Thrifty \| Open to Work \| Software Engineer | 18 |
 | 2026-11-11T06:30:23.000Z | [Using Jev for classification and large-scale filtering](https://x.com/satya_marketing/status/2120403748988330357) | 社区实践 | Satya Janghu | 8 |
 | 2026-11-11T05:52:00.000Z | [Jev Agent Memory: 13-Page Guide and Token Optimization](https://x.com/Mr_Buzzoni/status/2120394087983710364) | 智能体 | Mr. Buzzoni | 366 |
 | 2026-11-11T05:30:45.000Z | [Jev Map: Precision Editing for AI, Begins SWE-Bench Testing](https://x.com/CleaneraMade/status/2120388739398594895) | 开发者工具 | Cleanera Made | 10 |
@@ -98,7 +102,3 @@
 | 2026-11-09T18:15:19.000Z | [Jev 1.13 ranks among top decision models in PI Trading Arena](https://x.com/joelsstafford/status/2119856372984775143) | 金融 | Joel 🌊 | 127 |
 | 2026-11-09T18:04:18.000Z | [Jev and More Decision Models Now on Infron](https://x.com/InfronAI/status/2119853603351314596) | 接入动态 | Infron | 134 |
 | 2026-11-06T04:30:05.000Z | [TypeSafe AI Jev-Powered ChatGPT Finance Plugin](https://x.com/0rdlibrary/status/2118561536109101256) | 金融 | 8Bit🦞 | 172 |
-| 2026-11-06T04:28:51.000Z | [Jev Integrated into Pump.fun Launches](https://x.com/0rdlibrary/status/2118561226028376289) | 金融 | 8Bit🦞 | 178 |
-| 2026-11-06T04:20:51.000Z | [Jev hired Claude at 92% confidence and accepted the work at 96%](https://x.com/usebrainchain/status/2118559210241946046) | 智能体 | BrainChain | 33 |
-| 2026-11-06T04:00:04.000Z | [Jev creator Diogo Almeida on reliability](https://x.com/RealAlphaApp/status/2118553980972544161) | 社区实践 | Real Alpha | 47 |
-| 2026-11-06T03:39:24.000Z | [Jev Best Practices: Only Make Judgments, Let Code Decide](https://x.com/GoSailGlobal/status/2118548781549625791) | 社区实践 | Jason Zhu | 63 |

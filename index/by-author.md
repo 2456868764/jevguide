@@ -687,6 +687,7 @@
 - [jmojeda](../authors/jmojeda.md) — 2
 - [Joao Bortotti](../authors/joao-bortotti.md) — 2
 - [John](../authors/john.md) — 2
+- [John Arrasjid](../authors/john-arrasjid.md) — 2
 - [John Berryman](../authors/john-berryman.md) — 2
 - [John Joubert](../authors/john-joubert.md) — 2
 - [Jon Mellon](../authors/jon-mellon.md) — 2
@@ -2581,7 +2582,6 @@
 - [Joe Weisenthal](../authors/joe-weisenthal.md) — 1
 - [Joedycore053|| Trade Gold 24/7 on Vantage](../authors/joedycore053-trade-gold-24-7-on-vantage.md) — 1
 - [Joel 🌊](../authors/joel.md) — 1
-- [John Arrasjid](../authors/john-arrasjid.md) — 1
 - [John Enevoldsen](../authors/john-enevoldsen.md) — 1
 - [John Kim](../authors/john-kim.md) — 1
 - [John T Davies 🇪🇺](../authors/john-t-davies.md) — 1

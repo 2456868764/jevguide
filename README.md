@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7250</strong><br>curated posts</td>
+<td align="center"><strong>7251</strong><br>curated posts</td>
 <td align="center"><strong>3571</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>310</strong> showcases · <strong>190</strong> videos</p>
+<p><strong>311</strong> showcases · <strong>190</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/vcdx001/status/2120428352008052857"><img src="https://pbs.twimg.com/media/HW1GWVma0AAVfx2?format=png&amp;name=small" alt="Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vcdx001/status/2120428352008052857">Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap</a></h3>
+<p>This post compares Jev and GPT-6.1 Sol in message-routing tests, citing 1,000 tests, a 32× cost gap, and one major caveat.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>John Arrasjid</strong> · @vcdx001</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
 <a href="https://x.com/satya_marketing/status/2120403748988330357"><img src="https://pbs.twimg.com/media/HW0vpf3aAAAWlEb?format=jpg&amp;name=medium" alt="Using Jev for classification and large-scale filtering · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/satya_marketing/status/2120403748988330357">Using Jev for classification and large-scale filtering</a></h3>
 <p>A developer shares using Jev in a real workflow for classification and large-scale filtering, while using Opus for vibe-coding and Muse Ember for high-volume low-intelligence tasks.</p>
 <p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
 <p><strong>Satya Janghu</strong> · @satya_marketing</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/Mr_Buzzoni/status/2120394087983710364"><img src="https://pbs.twimg.com/amplify_video_thumb/2120004695141871617/img/67F1cx3Fsptu9n7V.jpg" alt="Jev Agent Memory: 13-Page Guide and Token Optimization · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Mr_Buzzoni/status/2120394087983710364">Jev Agent Memory: 13-Page Guide and Token Optimization</a></h3>
 <p>Shares Jev&#39;s agent memory architecture and an optimization case: cutting per-query token usage from 26,000 to 1,800; letting Jev decide memory storage to avoid agents re-reading the same files each morning and being billed again.</p>
 <p><strong>366</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 8 &nbsp; 📊 366</p>
 <p><strong>Mr. Buzzoni</strong> · @Mr_Buzzoni</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
 <a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
 <p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
 <p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
 <p><strong>Cleanera Made</strong> · @CleaneraMade</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/savvy_luvvvv/status/2120382260281327805"><img src="https://pbs.twimg.com/amplify_video_thumb/2120261179440316417/img/c0aCNVeCRkZ6NGKh.jpg" alt="Making Money with Grok Bot + Jev for SEO Decisions · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/savvy_luvvvv/status/2120382260281327805">Making Money with Grok Bot + Jev for SEO Decisions</a></h3>
-<p>The user predicts that in 2026, many millionaires will be created by combining Grok Bot and the Jev model for SEO decisions and execution, and suggests pasting the prompt directly into Grok Bot.</p>
-<p><strong>58</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 58</p>
-<p><strong>Ling</strong> · @savvy_luvvvv</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/satya_marketing/status/2120403748988330357"><img src="https://pbs.twimg.com/media/HW0vpf3aAAAWlEb?format=jpg&amp;name=medium" alt="Using Jev for classification and large-scale filtering · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/satya_marketing/status/2120403748988330357">Using Jev for classification and large-scale filtering</a></h3>
-<p>A developer shares using Jev in a real workflow for classification and large-scale filtering, while using Opus for vibe-coding and Muse Ember for high-volume low-intelligence tasks.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Satya Janghu</strong> · @satya_marketing</p>
+<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/vcdx001/status/2120428352008052857"><img src="https://pbs.twimg.com/media/HW1GWVma0AAVfx2?format=png&amp;name=small" alt="Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/vcdx001/status/2120428352008052857">Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap</a></h3>
+<p>This post compares Jev and GPT-6.1 Sol in message-routing tests, citing 1,000 tests, a 32× cost gap, and one major caveat.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>John Arrasjid</strong> · @vcdx001</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/CleaneraMade/status/2120388739398594895"><img src="https://pbs.twimg.com/amplify_video_thumb/2106858153010761728/img/eX4Q0gduH5o1jUZA.jpg" alt="Jev Map: Precision Editing for AI, Begins SWE-Bench Testing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/CleaneraMade/status/2120388739398594895">Jev Map: Precision Editing for AI, Begins SWE-Bench Testing</a></h3>
+<p>Jev Map is built on Graphify and powered by Jev. The author is setting up SWE Bench to measure real performance, comparing the same project with and without Jev Map on real bugs.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><strong>Cleanera Made</strong> · @CleaneraMade</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/savvy_luvvvv/status/2120382260281327805"><img src="https://pbs.twimg.com/amplify_video_thumb/2120261179440316417/img/c0aCNVeCRkZ6NGKh.jpg" alt="Making Money with Grok Bot + Jev for SEO Decisions · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/savvy_luvvvv/status/2120382260281327805">Making Money with Grok Bot + Jev for SEO Decisions</a></h3>
 <p>The user predicts that in 2026, many millionaires will be created by combining Grok Bot and the Jev model for SEO decisions and execution, and suggests pasting the prompt directly into Grok Bot.</p>
 <p><strong>58</strong> views · 💬 0 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 58</p>
 <p><strong>Ling</strong> · @savvy_luvvvv</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2120371749091197158"><img src="https://pbs.twimg.com/media/HW0S3p5acAEpJbb?format=jpg&amp;name=medium" alt="AUD/JPY AI Short Scenario: Jev Assessment Not Supported · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2120371749091197158">AUD/JPY AI Short Scenario: Jev Assessment Not Supported</a></h3>
-<p>HadoHunter shares an AUD/JPY short scenario with entry 109.210, target 108.647, stop 109.473, and a 2.14 reward/risk ratio. Downtrend with a bullish pattern lean, very low volume, and a narrow score gap. Jev assessment is not supported (certainty 22%).</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/CollinRijock/status/2120310369319043072"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120310348586659840/pu/img/A7wXGRZjwi-O7yMW.jpg" alt="A video showcasing Jev and the rest of Copper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/CollinRijock/status/2120310369319043072">A video showcasing Jev and the rest of Copper</a></h3>
-<p>The author shares a cool video showing off Jev and the rest of Copper.</p>
-<p><strong>0</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 0</p>
-<p><strong>Collin Rijock</strong> · @CollinRijock</p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2120314930033500196"><img src="https://pbs.twimg.com/media/HWzfMXCbMAARMOF?format=jpg&amp;name=medium" alt="Jev Hires DeepSeek to Fix Leap Year Check · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2120314930033500196">Jev Hires DeepSeek to Fix Leap Year Check</a></h3>
+<p>Jev hired DeepSeek at 46% confidence to fix a leap year check, then accepted the work at 100% confidence. The task was minted by a collector on ripples.run.</p>
+<p><strong>71</strong> views · 💬 2 &nbsp; 🔁 1 &nbsp; ♡ 3 &nbsp; 📊 71</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>

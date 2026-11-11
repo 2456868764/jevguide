@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-11T08:08:09.000Z | [Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap](https://x.com/vcdx001/status/2120428352008052857) | 自动化工作流 | John Arrasjid | 7 |
 | 2026-11-11T06:30:23.000Z | [Using Jev for classification and large-scale filtering](https://x.com/satya_marketing/status/2120403748988330357) | 社区实践 | Satya Janghu | 8 |
 | 2026-11-11T05:52:00.000Z | [Jev Agent Memory: 13-Page Guide and Token Optimization](https://x.com/Mr_Buzzoni/status/2120394087983710364) | 智能体 | Mr. Buzzoni | 366 |
 | 2026-11-11T05:30:45.000Z | [Jev Map: Precision Editing for AI, Begins SWE-Bench Testing](https://x.com/CleaneraMade/status/2120388739398594895) | 开发者工具 | Cleanera Made | 10 |
@@ -101,4 +102,3 @@
 | 2026-11-06T03:24:01.000Z | [Has Jev's Hype Faded? Community Discusses Workflow Usage](https://x.com/_QCAI/status/2118544906545459578) | 社区实践 | Chloe | 7 |
 | 2026-11-06T02:48:41.000Z | [New Comic at Tech Book Festival 21: Jev Explained](https://x.com/hellohazime/status/2118536018475495598) | 社区实践 | hellohazime@え11_技術書典21 | 95 |
 | 2026-11-06T02:45:59.000Z | [Jev 1.14 and d1-ultra are now available on Infron](https://x.com/InfronAI/status/2118535336901095845) | 接入动态 | Infron | 22 |
-| 2026-11-06T02:17:43.000Z | [Jev Assesses GBP/USD Long Scenario](https://x.com/hadohunter/status/2118528225546842607) | 金融 | HadoHunter | 26 |

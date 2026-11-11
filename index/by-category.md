@@ -9,7 +9,7 @@
 - [Developer resources](../categories/developer-resources.md) — 420
 - [Gaming](../categories/gaming.md) — 419
 - [Finance](../categories/finance.md) — 412
-- [Workflow automation](../categories/workflow-automation.md) — 310
+- [Workflow automation](../categories/workflow-automation.md) — 311
 - [Marketing](../categories/marketing.md) — 202
 - [Knowledge & search](../categories/knowledge-search.md) — 146
 - [Content creation](../categories/content-creation.md) — 137

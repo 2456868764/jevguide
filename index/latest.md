@@ -2,12 +2,23 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T15:44:14.000Z | [Jev community café: new use cases from the crowd](https://x.com/AlexSlobodnik/status/2120905516352246020) | 社区实践 | Slobo | 15 |
+| 2026-11-12T15:36:10.000Z | [Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment](https://x.com/VishwaMehta30/status/2120903486753964080) | 社区实践 | Vish | 45 |
+| 2026-11-12T15:25:52.000Z | [Jev Powers Lisa's Motion Copy and Expression Generation](https://x.com/whensdeyi/status/2120900896532095108) | 内容创作 | Dawna Yi | 54 |
+| 2026-11-12T15:21:38.000Z | [Jev Can Be Installed Locally](https://x.com/Saschliik/status/2120899829861593546) | 社区实践 | Saschlik | 1 |
+| 2026-11-12T15:20:05.000Z | [Google Introduces a Jev Competitor](https://x.com/aiedge_/status/2120899437732282781) | 产品发布 | AI Edge | 1.3K |
+| 2026-11-12T15:11:50.000Z | [Jev 1.14 is the fastest-growing model on LLM Gateway](https://x.com/LLMDevPass/status/2120897361845031231) | 接入动态 | DevPass | 32 |
+| 2026-11-12T15:02:18.000Z | [Filter e2e tests smartly with Jev](https://x.com/kacperkapusciak/status/2120894966268346405) | 开发者工具 | Kacper Kapuściak | 144 |
 | 2026-11-12T14:38:51.000Z | [Using GOAT to Call DS and Jev, Easier API Management](https://x.com/Shijun537/status/2120889062689305000) | 社区实践 | Shijun537 | 11 |
 | 2026-11-12T14:35:55.000Z | [JEV picks every move in ForgeAI-hosted agents](https://x.com/ForgeAI_gg/status/2120888324831269117) | 智能体 | ForgeAI | 33 |
 | 2026-11-12T14:35:08.000Z | [Google releases Gemini Decisions API, competing with Jev and OpenAI](https://x.com/xcanchal/status/2120888128894386666) | 产品发布 | Xavi | 14 |
 | 2026-11-12T14:30:01.000Z | [Google launches Gemini Decision 1, competing with TypeSafe's Jev](https://x.com/JamesMalsawm/status/2120886838860623936) | 产品发布 | James Malsawm | 238 |
+| 2026-11-12T14:30:00.000Z | [How Jev Decision Models Work](https://x.com/dgalarza/status/2120886834611757083) | 工作原理 | Damian Galarza | 20 |
 | 2026-11-12T14:30:00.000Z | [Jev drives safe decisions with a confidence threshold](https://x.com/TokyoFuturo/status/2120886835987804166) | 工作原理 | Tokyo Futuro | 17 |
 | 2026-11-12T14:30:00.000Z | [Jev's Decisions Are Publicly Recorded via MCP](https://x.com/TokyoFuturo/status/2120886837707424098) | 智能体 | Tokyo Futuro | 6 |
+| 2026-11-12T14:25:03.000Z | [Jev Output Verifier Pattern](https://x.com/nolansym/status/2120885588110741622) | 社区实践 | Jordan | 86 |
+| 2026-11-12T14:17:58.000Z | [Building Efficient Decision-Making into AI Workers](https://x.com/EduRigonato/status/2120883809344504289) | 智能体 | Edu Rigonato \| AI Workers | 12 |
+| 2026-11-12T14:13:31.000Z | [Testing Jev version on Doom: ignoring enemies and rushing to complete the game](https://x.com/buddypia/status/2120882686768386241) | 游戏 | Jun@AI | 34 |
 | 2026-11-12T14:01:01.000Z | [Paul to Explore Jev and System One Models at AICOBoston](https://x.com/realactivityusa/status/2120879540553601400) | 社区实践 | RealActivity - Mission Critical Healthcare Systems | 5 |
 | 2026-11-12T14:00:30.000Z | [Google Launches Gemini Decision API, Rivaling TypeSafe Jev](https://x.com/Linkszh6/status/2120879413591990323) | 产品发布 | Links | 14 |
 | 2026-11-12T13:58:48.000Z | [Can Jev Decide the Model Size?](https://x.com/odelljeremy/status/2120878985919988154) | 智能体 | Jeremy Odell | 1 |
@@ -91,14 +102,3 @@
 | 2026-11-11T21:15:58.000Z | [Google Gemini Decisions API: A Decision AI Aligned with Jev's Concept](https://x.com/FumiShingai/status/2120626613662695523) | 产品发布 | Fumi Shingai | 16 |
 | 2026-11-11T20:57:30.000Z | [Industry discussion after Jev release](https://x.com/vwapster/status/2120621963517567384) | 社区实践 | Frit🅾️ Pendej🅾️ | 31 |
 | 2026-11-11T20:56:38.000Z | [Gemini Decision 1 seen as main rival to JEV](https://x.com/0xKaveh/status/2120621747997421935) | 产品发布 | Kaveh | 492 |
-| 2026-11-11T20:54:28.000Z | [Early Insight on Stacking LLM Logic Gates](https://x.com/boobs_scary/status/2120621200833642690) | 工作原理 | NFTmachine 🤖 | 352 |
-| 2026-11-11T20:53:58.000Z | [More competition for Jev](https://x.com/ealmirall/status/2120621075990229272) | 社区实践 | esteve almirall | 146 |
-| 2026-11-11T20:50:25.000Z | [Trading rules with Claude and Jev as filters](https://x.com/Damir_Akaza/status/2120620181802336766) | 金融 | Damir Akaza | 61 |
-| 2026-11-11T20:40:23.000Z | [Jev vs OpenAI Decisions: Surprisingly Good](https://x.com/thecmdrunner/status/2120617656151880153) | 社区实践 | Pranav — oss/acc | 78 |
-| 2026-11-11T20:24:21.000Z | [Google launches Gemini Decisions API, competing with TypeSafe AI's Jev](https://x.com/Machinelearrn/status/2120613623496147074) | 产品发布 | Machine Learning | 17 |
-| 2026-11-11T20:20:19.000Z | [Jev + Monid: 22 Verified Heads of Growth Under a Dollar](https://x.com/brochchain/status/2120612609661473191) | 营销 | Ben | 20 |
-| 2026-11-11T20:08:09.000Z | [Jev cannot escape death?](https://x.com/Antikythera_0/status/2120609547488485834) | 社区实践 | Antikythera | 55 |
-| 2026-11-11T20:04:42.000Z | [AI Moves from Answering to Deciding: Gemini Decisions API, TypeSafe Jev Mentioned](https://x.com/cursorvers/status/2120608677048840386) | 产品发布 | 大田原正幸｜医療AI/SIガバナンス｜Cursorvers | 274 |
-| 2026-11-11T20:03:04.000Z | [Another Jev killer from Google](https://x.com/fcakyon/status/2120608265725685893) | 产品发布 | fatih c. akyon | 311 |
-| 2026-11-11T19:51:56.000Z | [AI SDK introduces decide() decision models for the launch of Jev](https://x.com/steren/status/2120605466762035571) | 产品发布 | Steren | 646 |
-| 2026-11-11T19:48:00.000Z | [Google releases a Jev-like decision model](https://x.com/Sin_Yiyao/status/2120604474276475300) | 产品发布 | SinFire | 82 |

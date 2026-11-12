@@ -25,6 +25,7 @@
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
+- [AI Edge](../authors/ai-edge.md) — 10
 - [AI_GOAT](../authors/ai-goat.md) — 10
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
 - [Dhanian 🗯️](../authors/dhanian.md) — 10
@@ -33,7 +34,6 @@
 - [Jason Zhu](../authors/jason-zhu.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
-- [AI Edge](../authors/ai-edge.md) — 9
 - [Alex](../authors/alex.md) — 9
 - [David Bressler](../authors/david-bressler.md) — 9
 - [Gipp 🦅](../authors/gipp.md) — 9
@@ -165,6 +165,7 @@
 - [CXO-Community.com](../authors/cxo-community-com.md) — 4
 - [Cy𝕭er₿ULK](../authors/cyber-ulk.md) — 4
 - [Defileo🔮](../authors/defileo.md) — 4
+- [DevPass](../authors/devpass.md) — 4
 - [Dorian Smiley](../authors/dorian-smiley.md) — 4
 - [Eric ⚡️ Building...](../authors/eric-building.md) — 4
 - [Erik Kokalj](../authors/erik-kokalj.md) — 4
@@ -288,7 +289,6 @@
 - [Decision Models](../authors/decision-models.md) — 3
 - [Deji](../authors/deji.md) — 3
 - [Derya Unutmaz, MD](../authors/derya-unutmaz-md.md) — 3
-- [DevPass](../authors/devpass.md) — 3
 - [Diego Arias](../authors/diego-arias.md) — 3
 - [Divine 〽️achine](../authors/divine-achine.md) — 3
 - [Dmitriy Kovalenko](../authors/dmitriy-kovalenko.md) — 3
@@ -320,6 +320,7 @@
 - [Jay Song](../authors/jay-song.md) — 3
 - [Jerry Liu](../authors/jerry-liu.md) — 3
 - [JLarky](../authors/jlarky.md) — 3
+- [Jordan](../authors/jordan.md) — 3
 - [Justine Moore](../authors/justine-moore.md) — 3
 - [Kane](../authors/kane.md) — 3
 - [karminski-牙医](../authors/karminski-牙医.md) — 3
@@ -405,6 +406,7 @@
 - [shay yahal](../authors/shay-yahal.md) — 3
 - [Shrivu Shankar](../authors/shrivu-shankar.md) — 3
 - [Signal Ledger](../authors/signal-ledger.md) — 3
+- [Slobo](../authors/slobo.md) — 3
 - [Solomon Rojie](../authors/solomon-rojie.md) — 3
 - [Spikez 99.9%](../authors/spikez-99-9.md) — 3
 - [Sprytix](../authors/sprytix.md) — 3
@@ -587,6 +589,7 @@
 - [Daisuke Majima (MLBoy)](../authors/daisuke-majima-mlboy.md) — 2
 - [daisydiao.eth](../authors/daisydiao-eth.md) — 2
 - [daitasu](../authors/daitasu.md) — 2
+- [Damian Galarza](../authors/damian-galarza.md) — 2
 - [Damiano Redemagni](../authors/damiano-redemagni.md) — 2
 - [Damien Filiatrault](../authors/damien-filiatrault.md) — 2
 - [Damir Akaza](../authors/damir-akaza.md) — 2
@@ -598,6 +601,7 @@
 - [Dave Wang](../authors/dave-wang.md) — 2
 - [David Arias, CFA](../authors/david-arias-cfa.md) — 2
 - [David Ch](../authors/david-ch.md) — 2
+- [Dawna Yi](../authors/dawna-yi.md) — 2
 - [dax](../authors/dax.md) — 2
 - [Delip Rao e/σ](../authors/delip-rao-e.md) — 2
 - [Demirhan Aydın](../authors/demirhan-ayd-n.md) — 2
@@ -705,7 +709,6 @@
 - [John Berryman](../authors/john-berryman.md) — 2
 - [John Joubert](../authors/john-joubert.md) — 2
 - [Jon Mellon](../authors/jon-mellon.md) — 2
-- [Jordan](../authors/jordan.md) — 2
 - [Josh](../authors/josh.md) — 2
 - [Josh Machado · The Polyglot Programmer](../authors/josh-machado-the-polyglot-programmer.md) — 2
 - [Josh Whitfield](../authors/josh-whitfield.md) — 2
@@ -937,7 +940,6 @@
 - [sina](../authors/sina.md) — 2
 - [Skik](../authors/skik.md) — 2
 - [sleepy.md](../authors/sleepy-md.md) — 2
-- [Slobo](../authors/slobo.md) — 2
 - [Smartpig](../authors/smartpig.md) — 2
 - [soar](../authors/soar.md) — 2
 - [Soly](../authors/soly.md) — 2
@@ -1849,7 +1851,6 @@
 - [Daily AI Tracker](../authors/daily-ai-tracker.md) — 1
 - [Daisy Nguyen](../authors/daisy-nguyen.md) — 1
 - [DaLlama](../authors/dallama.md) — 1
-- [Damian Galarza](../authors/damian-galarza.md) — 1
 - [damkin](../authors/damkin.md) — 1
 - [Dan Billson](../authors/dan-billson.md) — 1
 - [Dan Shamir](../authors/dan-shamir.md) — 1
@@ -1913,7 +1914,6 @@
 - [Davin YC Dong](../authors/davin-yc-dong.md) — 1
 - [daviswu](../authors/daviswu.md) — 1
 - [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
-- [Dawna Yi](../authors/dawna-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
 - [Dayanne Fernandes](../authors/dayanne-fernandes.md) — 1
 - [dbredesen](../authors/dbredesen.md) — 1
@@ -2044,6 +2044,7 @@
 - [Eddycrypt](../authors/eddycrypt.md) — 1
 - [edos](../authors/edos.md) — 1
 - [Edu Calvo](../authors/edu-calvo.md) — 1
+- [Edu Rigonato | AI Workers](../authors/edu-rigonato-ai-workers.md) — 1
 - [Eduardo Montilva](../authors/eduardo-montilva.md) — 1
 - [Eduardo Schurtz](../authors/eduardo-schurtz.md) — 1
 - [Edward Noyola](../authors/edward-noyola.md) — 1
@@ -2687,6 +2688,7 @@
 - [jun](../authors/jun.md) — 1
 - [Jun Penn](../authors/jun-penn.md) — 1
 - [Jun Tamaoki / 玉置絢](../authors/jun-tamaoki-玉置絢.md) — 1
+- [Jun@AI](../authors/jun-ai.md) — 1
 - [Junaid Burke](../authors/junaid-burke.md) — 1
 - [june](../authors/june.md) — 1
 - [Junhao Shen](../authors/junhao-shen.md) — 1
@@ -2711,6 +2713,7 @@
 - [k10](../authors/k10.md) — 1
 - [k1t(外神)](../authors/k1t-外神.md) — 1
 - [K2S](../authors/k2s.md) — 1
+- [Kacper Kapuściak](../authors/kacper-kapusciak.md) — 1
 - [Kacper Trzepieciński](../authors/kacper-trzepiecinski.md) — 1
 - [kadd](../authors/kadd.md) — 1
 - [Kaelo](../authors/kaelo.md) — 1
@@ -3820,6 +3823,7 @@
 - [sarthak gupta](../authors/sarthak-gupta.md) — 1
 - [Sarthiii](../authors/sarthiii.md) — 1
 - [Sarvagya Kulshreshtha](../authors/sarvagya-kulshreshtha.md) — 1
+- [Saschlik](../authors/saschlik.md) — 1
 - [sat0xshi](../authors/sat0xshi.md) — 1
 - [Sathish](../authors/sathish.md) — 1
 - [Satish G](../authors/satish-g.md) — 1
@@ -4333,6 +4337,7 @@
 - [Viraj Bhartiya](../authors/viraj-bhartiya.md) — 1
 - [Virat Singh](../authors/virat-singh.md) — 1
 - [VirtualFem](../authors/virtualfem.md) — 1
+- [Vish](../authors/vish.md) — 1
 - [Vishal](../authors/vishal.md) — 1
 - [Vishal Dubey](../authors/vishal-dubey.md) — 1
 - [Vishal Pandey](../authors/vishal-pandey.md) — 1

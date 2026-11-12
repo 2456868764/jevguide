@@ -4,12 +4,47 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1465 | 609 | 864 | 3.0M |
+| 1469 | 612 | 865 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/AlexSlobodnik/status/2120905516352246020"><img src="https://pbs.twimg.com/media/HW735Q6XMAAwc2V?format=jpg&amp;name=900x900" alt="Jev community café: new use cases from the crowd · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/AlexSlobodnik/status/2120905516352246020">Jev community café: new use cases from the crowd</a></h3>
+<p>Slobo reports high curiosity around Jev, with a packed Corgi Cafe this week. Attendees shared use cases such as selecting tools from Composio&#39;s integration library and identifying Russian regulatory concepts without full translation.</p>
+<p><strong>中文摘要：</strong>Slobo 表示 Jev 的好奇度依然很高，本周 Corgi Cafe 挤满人。参会者展示了选择 Composio 集成库工具、无需完整翻译即可识别俄语监管概念等用例。</p>
+<p><strong>Slobo</strong> · @AlexSlobodnik · 2026-11-12T15:44:14.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/AlexSlobodnik/status/2120905516352246020">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/VishwaMehta30/status/2120903486753964080"><img src="https://pbs.twimg.com/amplify_video_thumb/2120901808839364608/img/oSZzS3_Rbe_BloLV.jpg" alt="Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/VishwaMehta30/status/2120903486753964080">Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment</a></h3>
+<p>The author loves their Fuji XT50 but finds photo editing painful, and shares an idea for a voice-controlled editing app. They show Jev analyzing prompts word by word and deciding whether to act mid-sentence or wait for confirmation.</p>
+<p><strong>中文摘要：</strong>作者喜欢富士XT50但觉得编辑照片很麻烦，萌生了用语音编辑照片的念头，并展示了Jev如何逐词分析提示词，在句中采取行动或等待确认。</p>
+<p><strong>Vish</strong> · @VishwaMehta30 · 2026-11-12T15:36:10.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
+<p><a href="https://x.com/VishwaMehta30/status/2120903486753964080">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Saschliik/status/2120899829861593546"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Jev Can Be Installed Locally · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Saschliik/status/2120899829861593546">Jev Can Be Installed Locally</a></h3>
+<p>The user refutes the &#39;API only&#39; claim, pointing out that Jev supports local installation and strongly recommending it.</p>
+<p><strong>中文摘要：</strong>用户回应“仅 API”的说法，指出 Jev 支持本地安装并强烈推荐这样做。</p>
+<p><strong>Saschlik</strong> · @Saschliik · 2026-11-12T15:21:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><a href="https://x.com/Saschliik/status/2120899829861593546">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/Shijun537/status/2120889062689305000"><img src="https://pbs.twimg.com/media/HW7pMWebEAAv07F?format=jpg&amp;name=medium" alt="Using GOAT to Call DS and Jev, Easier API Management · 原帖图片" width="100%"></a>
 <br>
@@ -20,6 +55,19 @@
 <p><strong>Shijun537</strong> · @Shijun537 · 2026-11-12T14:38:51.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><a href="https://x.com/Shijun537/status/2120889062689305000">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/nolansym/status/2120885588110741622"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2120885560105410560/pu/img/IqINcldk9oqokooa.jpg" alt="Jev Output Verifier Pattern · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/nolansym/status/2120885588110741622">Jev Output Verifier Pattern</a></h3>
+<p>A pattern for using Jev to verify AI outputs: only show the answer when Jev is confident it genuinely answers the question; rewrite once if the first draft misses, and hold back the result if confidence stays below 90% after both attempts. Built with AI SDK v7 and shadcn registry.</p>
+<p><strong>中文摘要：</strong>分享一个使用Jev验证AI输出的模式：仅当Jev确信回答真正回答了问题时才展示结果；首版草稿不满意时重写一次，两次均低于90%则扣住不发布。该模式基于AI SDK v7和shadcn registry构建。</p>
+<p><strong>Jordan</strong> · @nolansym · 2026-11-12T14:25:03.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 86</p>
+<p><a href="https://x.com/nolansym/status/2120885588110741622">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/realactivityusa/status/2120879540553601400"><img src="https://pbs.twimg.com/media/HW7gs9yW0AAXC9k?format=jpg&amp;name=medium" alt="Paul to Explore Jev and System One Models at AICOBoston · 原帖图片" width="100%"></a>

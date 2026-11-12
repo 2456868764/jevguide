@@ -1392,6 +1392,7 @@
 - [amVT](../authors/amvt.md) — 1
 - [Analytics Camp](../authors/analytics-camp.md) — 1
 - [Anders Lie](../authors/anders-lie.md) — 1
+- [Anderson](../authors/anderson.md) — 1
 - [André Prado](../authors/andre-prado.md) — 1
 - [Andrea Volpini](../authors/andrea-volpini.md) — 1
 - [Andreas Kruszakin-Liboska](../authors/andreas-kruszakin-liboska.md) — 1
@@ -2725,6 +2726,7 @@
 - [kapio](../authors/kapio.md) — 1
 - [Karan Vaidya](../authors/karan-vaidya.md) — 1
 - [Kardinall](../authors/kardinall.md) — 1
+- [Karim](../authors/karim.md) — 1
 - [Karina Q](../authors/karina-q.md) — 1
 - [Karl Weinmeister](../authors/karl-weinmeister.md) — 1
 - [Karmi](../authors/karmi.md) — 1

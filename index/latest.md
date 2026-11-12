@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T12:38:35.000Z | [Register agents on Valetto for instant Telegram access](https://x.com/babykswanson/status/2120858797321138344) | 智能体 | Karim | 36 |
+| 2026-11-12T12:33:04.000Z | [TypeSafe's Jev Opens a New Category in AI](https://x.com/ItsGoharr/status/2120857406792143206) | 社区实践 | Anderson | 62 |
 | 2026-11-12T12:03:05.000Z | [Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis](https://x.com/softreviewed/status/2120849861251940629) | 开发者工具 | SOFTREVIEWED | 12 |
 | 2026-11-12T11:49:46.000Z | [Google Ships Gemini Decision 1, Its Own Take on Jev](https://x.com/jmqcooper/status/2120846512099860744) | 产品发布 | Mike Cooper | 6 |
 | 2026-11-12T11:44:56.000Z | [Google launches Gemini Decision 1, author says it's better than Jev but pricing is not good](https://x.com/Adi_AiTech/status/2120845293440925933) | 产品发布 | Aditya | 3 |
@@ -100,5 +102,3 @@
 | 2026-11-11T18:46:21.000Z | [Jev Speeds Up Agentic Loops](https://x.com/EliotAndres/status/2120588959629897746) | 智能体 | Eliot Andres | 224 |
 | 2026-11-11T18:43:18.000Z | [Jev 1.14 Pricing and Latency on OpenRouter](https://x.com/_ayushwalekar/status/2120588191938048331) | 接入动态 | Ayush Walekar | 15 |
 | 2026-11-11T18:42:57.000Z | [Google launches Gemini Decision 1, a direct rival to TypeSafe's Jev](https://x.com/anuragdotdev/status/2120588106634326488) | 产品发布 | Anurag Jha | 420 |
-| 2026-11-11T18:40:17.000Z | [Google has its own Jev-like decision making model](https://x.com/jshai0/status/2120587433763098658) | 产品发布 | Javed | 6 |
-| 2026-11-11T18:40:05.000Z | [Google Gemini Decision 1 Targets TypeSafe Jev 1.14](https://x.com/radioalisadvdsn/status/2120587382172836130) | 产品发布 | Alisa | 17 |

@@ -2,6 +2,15 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T14:01:01.000Z | [Paul to Explore Jev and System One Models at AICOBoston](https://x.com/realactivityusa/status/2120879540553601400) | 社区实践 | RealActivity - Mission Critical Healthcare Systems | 5 |
+| 2026-11-12T14:00:30.000Z | [Google Launches Gemini Decision API, Rivaling TypeSafe Jev](https://x.com/Linkszh6/status/2120879413591990323) | 产品发布 | Links | 14 |
+| 2026-11-12T13:58:48.000Z | [Can Jev Decide the Model Size?](https://x.com/odelljeremy/status/2120878985919988154) | 智能体 | Jeremy Odell | 1 |
+| 2026-11-12T13:56:25.000Z | [Jev classifies support tickets: 500 emails in 5.5 seconds](https://x.com/heyLuminvera/status/2120878384448442767) | 客户支持 | Luminvera \| Custom Software Development \| Forge | 5 |
+| 2026-11-12T13:42:14.000Z | [Organizing Jev-Style Decision Models: What Do They Actually Do?](https://x.com/studio_yebisu/status/2120874813673877865) | 工作原理 | StudioYebisu | 823 |
+| 2026-11-12T13:35:53.000Z | [Google Unveils Gemini Decision 1, Mentions Jev](https://x.com/YouthChina/status/2120873218361979145) | 产品发布 | Youth China | 12 |
+| 2026-11-12T13:26:11.000Z | [Jev no longer one of a kind? Google launches Gemini Decision 1](https://x.com/sudeepsriv/status/2120870774261391572) | 产品发布 | Sudeep Srivastava | 21 |
+| 2026-11-12T13:25:54.000Z | [Grokbot trading bot earns $11,912 in a month, Jev runs 7 pre-buy checks](https://x.com/HodlReaper/status/2120870705554174327) | 金融 | HodlReaper | 225 |
+| 2026-11-12T13:21:43.000Z | [JEV Successfully Blocks Prompt Injection Attack](https://x.com/BabaKhaliid/status/2120869653274599519) | 网络安全 | BABA Khalid \| Youmake.dev | 8 |
 | 2026-11-12T12:38:35.000Z | [Register agents on Valetto for instant Telegram access](https://x.com/babykswanson/status/2120858797321138344) | 智能体 | Karim | 36 |
 | 2026-11-12T12:33:04.000Z | [TypeSafe's Jev Opens a New Category in AI](https://x.com/ItsGoharr/status/2120857406792143206) | 社区实践 | Anderson | 62 |
 | 2026-11-12T12:03:05.000Z | [Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis](https://x.com/softreviewed/status/2120849861251940629) | 开发者工具 | SOFTREVIEWED | 12 |
@@ -93,12 +102,3 @@
 | 2026-11-11T19:25:38.000Z | [Discussion about Jev decision models](https://x.com/neo_zerg/status/2120598844991791338) | 社区实践 | B_a_aB | 5 |
 | 2026-11-11T19:17:25.000Z | [Cloudflare launched its version of Jev?](https://x.com/helloLizZhang/status/2120596778567500086) | 社区实践 | Liz Zhang | 22 |
 | 2026-11-11T19:11:10.000Z | [A Jev killer? TypeSafe's Jev prompts big-tech responses](https://x.com/PacomyICOR/status/2120595205141459228) | 生产力 | Paco Cantero | 215 |
-| 2026-11-11T19:06:20.000Z | [Adding Jev to everything](https://x.com/twid/status/2120593988025807054) | 自动化工作流 | Todd Dailey | 414 |
-| 2026-11-11T19:05:50.000Z | [A Jev-style decision model from Google Deepmind](https://x.com/monospodcast/status/2120593863945449716) | 工作原理 | monos estocásticos | 723 |
-| 2026-11-11T18:59:43.000Z | [Jev: A Model Router at $0.0004 per Decision](https://x.com/0x_rody/status/2120592326443880497) | 产品发布 | rody | 751 |
-| 2026-11-11T18:58:09.000Z | [Google reportedly releasing a Jev-like product](https://x.com/Fumiya_Kume/status/2120591932070252641) | 产品发布 | Kuu🍣 | 458 |
-| 2026-11-11T18:50:34.000Z | [Jev vs Gemini Decisions API Comparison](https://x.com/anhnt256/status/2120590020214231186) | 社区实践 | ChickFool | 82 |
-| 2026-11-11T18:47:27.000Z | [Jev 1.14 Ties with Gemini Decision 1 on AA Decision Index](https://x.com/SyrianVeterans/status/2120589239188631598) | 智能体 | versatile | 20 |
-| 2026-11-11T18:46:21.000Z | [Jev Speeds Up Agentic Loops](https://x.com/EliotAndres/status/2120588959629897746) | 智能体 | Eliot Andres | 224 |
-| 2026-11-11T18:43:18.000Z | [Jev 1.14 Pricing and Latency on OpenRouter](https://x.com/_ayushwalekar/status/2120588191938048331) | 接入动态 | Ayush Walekar | 15 |
-| 2026-11-11T18:42:57.000Z | [Google launches Gemini Decision 1, a direct rival to TypeSafe's Jev](https://x.com/anuragdotdev/status/2120588106634326488) | 产品发布 | Anurag Jha | 420 |

@@ -61,6 +61,7 @@
 - [elvis](../authors/elvis.md) — 7
 - [Fluixo](../authors/fluixo.md) — 7
 - [GIGAZINE(ギガジン)](../authors/gigazine.md) — 7
+- [HodlReaper](../authors/hodlreaper.md) — 7
 - [Kirk Borne](../authors/kirk-borne.md) — 7
 - [Maziyar PANAHI](../authors/maziyar-panahi.md) — 7
 - [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 7
@@ -81,7 +82,6 @@
 - [Chrome](../authors/chrome.md) — 6
 - [davepoon](../authors/davepoon.md) — 6
 - [Grimmer](../authors/grimmer.md) — 6
-- [HodlReaper](../authors/hodlreaper.md) — 6
 - [Jetwani Avinash](../authors/jetwani-avinash.md) — 6
 - [Michael](../authors/michael.md) — 6
 - [Mika](../authors/mika.md) — 6
@@ -410,6 +410,7 @@
 - [Sprytix](../authors/sprytix.md) — 3
 - [st1ne](../authors/st1ne.md) — 3
 - [Startup Investor](../authors/startup-investor.md) — 3
+- [StudioYebisu](../authors/studioyebisu.md) — 3
 - [Sumjit](../authors/sumjit.md) — 3
 - [Sunil Mehta](../authors/sunil-mehta.md) — 3
 - [Suprik](../authors/suprik.md) — 3
@@ -948,7 +949,6 @@
 - [stash](../authors/stash.md) — 2
 - [Stephen W. Thomas](../authors/stephen-w-thomas.md) — 2
 - [Steven Tey](../authors/steven-tey.md) — 2
-- [StudioYebisu](../authors/studioyebisu.md) — 2
 - [swiftwand](../authors/swiftwand.md) — 2
 - [Syb](../authors/syb.md) — 2
 - [Sydney Runkle](../authors/sydney-runkle.md) — 2
@@ -1540,6 +1540,7 @@
 - [Ayush Walekar](../authors/ayush-walekar.md) — 1
 - [Azan](../authors/azan.md) — 1
 - [B_a_aB](../authors/b-a-ab.md) — 1
+- [BABA Khalid | Youmake.dev](../authors/baba-khalid-youmake-dev.md) — 1
 - [badboyfoxy](../authors/badboyfoxy.md) — 1
 - [BadGuyTy 🅁🅅🄽 (Tyler Hess)](../authors/badguyty-rvn-tyler-hess.md) — 1
 - [Banandre](../authors/banandre.md) — 1
@@ -2583,6 +2584,7 @@
 - [Jeffrin James🆗️](../authors/jeffrin-james.md) — 1
 - [Jeremy](../authors/jeremy.md) — 1
 - [Jeremy Lu](../authors/jeremy-lu.md) — 1
+- [Jeremy Odell](../authors/jeremy-odell.md) — 1
 - [Jeremy Person](../authors/jeremy-person.md) — 1
 - [Jerry the Martian](../authors/jerry-the-martian.md) — 1
 - [Jerry Xu](../authors/jerry-xu.md) — 1
@@ -2907,6 +2909,7 @@
 - [lil room](../authors/lil-room.md) — 1
 - [LiLens](../authors/lilens.md) — 1
 - [Lily](../authors/lily.md) — 1
+- [Links](../authors/links.md) — 1
 - [Lionel MIRATON](../authors/lionel-miraton.md) — 1
 - [Lisa Yin](../authors/lisa-yin.md) — 1
 - [LIVI LIVIN.in](../authors/livi-livin-in.md) — 1
@@ -2950,6 +2953,7 @@
 - [Luke Harries](../authors/luke-harries.md) — 1
 - [Luke Hartsock](../authors/luke-hartsock.md) — 1
 - [lumen rot](../authors/lumen-rot.md) — 1
+- [Luminvera | Custom Software Development | Forge](../authors/luminvera-custom-software-development-forge.md) — 1
 - [Luna](../authors/luna.md) — 1
 - [LUNN](../authors/lunn.md) — 1
 - [Lutzfy.21 🇵🇸](../authors/lutzfy-21.md) — 1
@@ -3621,6 +3625,7 @@
 - [Razvan Ilin (Raz)](../authors/razvan-ilin-raz.md) — 1
 - [Read In Brief](../authors/read-in-brief.md) — 1
 - [Real Alpha](../authors/real-alpha.md) — 1
+- [RealActivity - Mission Critical Healthcare Systems](../authors/realactivity-mission-critical-healthcare-systems.md) — 1
 - [Recall](../authors/recall.md) — 1
 - [Red Hot Cyber](../authors/red-hot-cyber.md) — 1
 - [Reedo.dev](../authors/reedo-dev.md) — 1
@@ -4024,6 +4029,7 @@
 - [StyleHub](../authors/stylehub.md) — 1
 - [Subhan](../authors/subhan.md) — 1
 - [Sudeep Pillai](../authors/sudeep-pillai.md) — 1
+- [Sudeep Srivastava](../authors/sudeep-srivastava.md) — 1
 - [Suganthan Mohanadasan](../authors/suganthan-mohanadasan.md) — 1
 - [Sujal gawas](../authors/sujal-gawas.md) — 1
 - [Sultan Munadi](../authors/sultan-munadi.md) — 1
@@ -4463,6 +4469,7 @@
 - [Yoshinobu Matsubara](../authors/yoshinobu-matsubara.md) — 1
 - [Yousef Rol](../authors/yousef-rol.md) — 1
 - [Youssef 🚜](../authors/youssef.md) — 1
+- [Youth China](../authors/youth-china.md) — 1
 - [yozure🔥お疲れ様でした！！！！！](../authors/yozure-疲-様.md) — 1
 - [Yu Inada](../authors/yu-inada.md) — 1
 - [Yu Ukai](../authors/yu-ukai.md) — 1

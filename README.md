@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7387</strong><br>curated posts</td>
-<td align="center"><strong>3628</strong><br>original videos</td>
+<td align="center"><strong>7396</strong><br>curated posts</td>
+<td align="center"><strong>3630</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1463</strong> showcases · <strong>609</strong> videos</p>
+<p><strong>1464</strong> showcases · <strong>609</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>654</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>657</strong> showcases · <strong>292</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>647</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>648</strong> showcases · <strong>286</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>622</strong> showcases · <strong>330</strong> videos</p>
+<p><strong>623</strong> showcases · <strong>330</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>415</strong> showcases · <strong>217</strong> videos</p>
+<p><strong>416</strong> showcases · <strong>218</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,13 +128,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>97</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>98</strong> showcases · <strong>31</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>71</strong> showcases · <strong>41</strong> videos</p>
+<p><strong>72</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/babykswanson/status/2120858797321138344"><img src="https://pbs.twimg.com/media/HW7N1dWWAAANHIi?format=jpg&amp;name=medium" alt="Register agents on Valetto for instant Telegram access · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/babykswanson/status/2120858797321138344">Register agents on Valetto for instant Telegram access</a></h3>
-<p>The author notes that agents registered on Valetto become reachable on Telegram with no extra setup. He also mentions using Telegram to browse X, jokingly saying he over-engineers with Jev to learn his real preferences.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
-<p><strong>Karim</strong> · @babykswanson</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/realactivityusa/status/2120879540553601400"><img src="https://pbs.twimg.com/media/HW7gs9yW0AAXC9k?format=jpg&amp;name=medium" alt="Paul to Explore Jev and System One Models at AICOBoston · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/realactivityusa/status/2120879540553601400">Paul to Explore Jev and System One Models at AICOBoston</a></h3>
+<p>This post announces Paul Swider&#39;s upcoming talk at AICOBoston, where he&#39;ll discuss Jev, System One models, and faster AI agent decisions with Azure AI Foundry.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>RealActivity - Mission Critical Healthcare Systems</strong> · @realactivityusa</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/ItsGoharr/status/2120857406792143206"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="TypeSafe&#39;s Jev Opens a New Category in AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ItsGoharr/status/2120857406792143206">TypeSafe&#39;s Jev Opens a New Category in AI</a></h3>
-<p>The user believes it can be concluded with high certainty that TypeSafe started a whole new category in AI with Jev.</p>
-<p><strong>62</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 62</p>
-<p><strong>Anderson</strong> · @ItsGoharr</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/Linkszh6/status/2120879413591990323"><img src="https://pbs.twimg.com/media/HW7glnMWUAE1oBD?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision API, Rivaling TypeSafe Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Linkszh6/status/2120879413591990323">Google Launches Gemini Decision API, Rivaling TypeSafe Jev</a></h3>
+<p>Google AI Studio released a new Gemini Decision API, powered by the multimodal decision model Gemini Decision 1, capable of batch processing thousands of questions at once and outputting calibrated probability judgments. The post regards it as a big-tech rival to TypeSafe Jev and includes a benchmark table.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Links</strong> · @Linkszh6</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
-<a href="https://x.com/softreviewed/status/2120849861251940629"><img src="https://pbs.twimg.com/amplify_video_thumb/2120849777588125698/img/Zc7ilIeVH7EScoLC.jpg" alt="Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/softreviewed/status/2120849861251940629">Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis</a></h3>
-<p>Compares Gemini Decision 1 and Jev 1.14 for AI decision-making: Gemini offers native audio/video input and lower error rate, while Jev excels in faster inference and cheaper text processing.</p>
-<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
-<p><strong>SOFTREVIEWED</strong> · @softreviewed</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/odelljeremy/status/2120878985919988154"><img src="https://pbs.twimg.com/media/HW7gJFhXsAAiBhJ?format=png&amp;name=medium" alt="Can Jev Decide the Model Size? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/odelljeremy/status/2120878985919988154">Can Jev Decide the Model Size?</a></h3>
+<p>The author shares that in 30 days and 270 coding stories, 56% ran below the top tier, and asks whether a small decision model like Jev should be trusted to pick the model size.</p>
+<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
+<p><strong>Jeremy Odell</strong> · @odelljeremy</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/jmqcooper/status/2120846512099860744"><img src="https://pbs.twimg.com/media/HW7Cn78W4AAa_vU?format=jpg&amp;name=medium" alt="Google Ships Gemini Decision 1, Its Own Take on Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jmqcooper/status/2120846512099860744">Google Ships Gemini Decision 1, Its Own Take on Jev</a></h3>
-<p>Mike Cooper notes Google released Gemini Decision 1, which can ask up to 1,000 yes/no questions on a PDF in about 200ms. Since it reads PDFs, it looks like a claims check in one API call, but the author thinks each answer is a number without source, so a handler may still check the whole file.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
-<p><strong>Mike Cooper</strong> · @jmqcooper</p>
+<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
+<a href="https://x.com/heyLuminvera/status/2120878384448442767"><img src="https://pbs.twimg.com/media/HW7flrLWoAA5mKp?format=jpg&amp;name=medium" alt="Jev classifies support tickets: 500 emails in 5.5 seconds · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/heyLuminvera/status/2120878384448442767">Jev classifies support tickets: 500 emails in 5.5 seconds</a></h3>
+<p>Jev doesn&#39;t write—it picks categories like billing, refund, shipping and provides confidence scores, enabling fast and cheap support ticket routing without expensive frontier models.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Luminvera | Custom Software Development | Forge</strong> · @heyLuminvera</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/babykswanson/status/2120858797321138344"><img src="https://pbs.twimg.com/media/HW7N1dWWAAANHIi?format=jpg&amp;name=medium" alt="Register agents on Valetto for instant Telegram access · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/babykswanson/status/2120858797321138344">Register agents on Valetto for instant Telegram access</a></h3>
-<p>The author notes that agents registered on Valetto become reachable on Telegram with no extra setup. He also mentions using Telegram to browse X, jokingly saying he over-engineers with Jev to learn his real preferences.</p>
-<p><strong>36</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
-<p><strong>Karim</strong> · @babykswanson</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/realactivityusa/status/2120879540553601400"><img src="https://pbs.twimg.com/media/HW7gs9yW0AAXC9k?format=jpg&amp;name=medium" alt="Paul to Explore Jev and System One Models at AICOBoston · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/realactivityusa/status/2120879540553601400">Paul to Explore Jev and System One Models at AICOBoston</a></h3>
+<p>This post announces Paul Swider&#39;s upcoming talk at AICOBoston, where he&#39;ll discuss Jev, System One models, and faster AI agent decisions with Azure AI Foundry.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>RealActivity - Mission Critical Healthcare Systems</strong> · @realactivityusa</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/jmqcooper/status/2120846512099860744"><img src="https://pbs.twimg.com/media/HW7Cn78W4AAa_vU?format=jpg&amp;name=medium" alt="Google Ships Gemini Decision 1, Its Own Take on Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jmqcooper/status/2120846512099860744">Google Ships Gemini Decision 1, Its Own Take on Jev</a></h3>
-<p>Mike Cooper notes Google released Gemini Decision 1, which can ask up to 1,000 yes/no questions on a PDF in about 200ms. Since it reads PDFs, it looks like a claims check in one API call, but the author thinks each answer is a number without source, so a handler may still check the whole file.</p>
-<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
-<p><strong>Mike Cooper</strong> · @jmqcooper</p>
+<p><strong>02</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
+<a href="https://x.com/heyLuminvera/status/2120878384448442767"><img src="https://pbs.twimg.com/media/HW7flrLWoAA5mKp?format=jpg&amp;name=medium" alt="Jev classifies support tickets: 500 emails in 5.5 seconds · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/heyLuminvera/status/2120878384448442767">Jev classifies support tickets: 500 emails in 5.5 seconds</a></h3>
+<p>Jev doesn&#39;t write—it picks categories like billing, refund, shipping and provides confidence scores, enabling fast and cheap support ticket routing without expensive frontier models.</p>
+<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>Luminvera | Custom Software Development | Forge</strong> · @heyLuminvera</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Adi_AiTech/status/2120845293440925933"><img src="https://pbs.twimg.com/media/HW3Mvh9aoAAmICR?format=jpg&amp;name=large" alt="Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Adi_AiTech/status/2120845293440925933">Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good</a></h3>
-<p>Aditya comments on Google&#39;s new Gemini Decision 1 model, saying it performs better than Jev, but is unhappy with the pricing.</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Aditya</strong> · @Adi_AiTech</p>
+<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/studio_yebisu/status/2120874813673877865"><img src="https://pbs.twimg.com/media/HW7TB66aYAAcWZT?format=jpg&amp;name=medium" alt="Organizing Jev-Style Decision Models: What Do They Actually Do? · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/studio_yebisu/status/2120874813673877865">Organizing Jev-Style Decision Models: What Do They Actually Do?</a></h3>
+<p>After Google released Gemini Decision 1, the author reorganized Jev-style decision models and explained that decision models are AI models that only make judgments or decisions.</p>
+<p><strong>823</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 823</p>
+<p><strong>StudioYebisu</strong> · @studio_yebisu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/n8n_io/status/2120831738666500510"><img src="https://pbs.twimg.com/media/HW61OjEWMAA2oth.jpg" alt="Building an AI news filtering workflow with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/n8n_io/status/2120831738666500510">Building an AI news filtering workflow with Jev</a></h3>
-<p>n8n shows an automation example: You.com finds news, Jev filters what&#39;s worth researching for ~$0.00004/article, then You.com research goes deeper, producing cited briefs with less noise and no Slack spam on quiet days.</p>
-<p><strong>846</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 846</p>
-<p><strong>n8n.io</strong> · @n8n_io</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/ItsGoharr/status/2120857406792143206"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="TypeSafe&#39;s Jev Opens a New Category in AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ItsGoharr/status/2120857406792143206">TypeSafe&#39;s Jev Opens a New Category in AI</a></h3>
+<p>The user believes it can be concluded with high certainty that TypeSafe started a whole new category in AI with Jev.</p>
+<p><strong>62</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 62</p>
+<p><strong>Anderson</strong> · @ItsGoharr</p>
 </td>
 </tr>
 </table>

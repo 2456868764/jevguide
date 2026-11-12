@@ -5,7 +5,7 @@
 - [8Bit🦞](../authors/8bit.md) — 31
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
 - [Florian S](../authors/florian-s.md) — 22
-- [HadoHunter](../authors/hadohunter.md) — 21
+- [HadoHunter](../authors/hadohunter.md) — 22
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 17
@@ -139,6 +139,7 @@
 - [Yonatan Gross](../authors/yonatan-gross.md) — 5
 - [Zeki Works](../authors/zeki-works.md) — 5
 - [そら ☁️ AgentSwarm 自動化オタク📱](../authors/agentswarm-自動化.md) — 5
+- [金のニワトリ](../authors/金.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [Abdullah](../authors/abdullah.md) — 4
 - [AI/ML API](../authors/ai-ml-api.md) — 4
@@ -377,6 +378,7 @@
 - [Paone](../authors/paone.md) — 3
 - [Parker Brown](../authors/parker-brown.md) — 3
 - [ParlonsIA sans compromis](../authors/parlonsia-sans-compromis.md) — 3
+- [PC Watch](../authors/pc-watch.md) — 3
 - [Pere](../authors/pere.md) — 3
 - [Platzi](../authors/platzi.md) — 3
 - [rari](../authors/rari.md) — 3
@@ -456,7 +458,6 @@
 - [沐阳](../authors/沐阳.md) — 3
 - [玉米_AlphaNotes](../authors/玉米-alphanotes.md) — 3
 - [超级峰](../authors/超级峰.md) — 3
-- [金のニワトリ](../authors/金.md) — 3
 - [金融系DS | LLM・AIエージェント・RAG](../authors/金融系ds-llm-ai-rag.md) — 3
 - [雪踏乌云](../authors/雪踏乌云.md) — 3
 - [【公式】Jinba | AIエージェント開発](../authors/公式-jinba-ai-開発.md) — 2
@@ -477,6 +478,7 @@
 - [Aditya](../authors/aditya.md) — 2
 - [adlrocha](../authors/adlrocha.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
+- [AGIラボ](../authors/agi.md) — 2
 - [AI Bites | YouTube Channel](../authors/ai-bites-youtube-channel.md) — 2
 - [AI Builder Club](../authors/ai-builder-club.md) — 2
 - [Ai Demo（アイデモ）](../authors/ai-demo.md) — 2
@@ -851,7 +853,6 @@
 - [Paul Jasper](../authors/paul-jasper.md) — 2
 - [Paulo Coutinho  🇧🇷](../authors/paulo-coutinho.md) — 2
 - [Pavel Petržela](../authors/pavel-petrzela.md) — 2
-- [PC Watch](../authors/pc-watch.md) — 2
 - [pcherkashin.x](../authors/pcherkashin-x.md) — 2
 - [Pentacles（ペンタクルス）🐧✨](../authors/pentacles.md) — 2
 - [Peter Friese](../authors/peter-friese.md) — 2
@@ -1204,7 +1205,6 @@
 - [AgentSparko 💥](../authors/agentsparko.md) — 1
 - [Agerico De Villa](../authors/agerico-de-villa.md) — 1
 - [aginaut](../authors/aginaut.md) — 1
-- [AGIラボ](../authors/agi.md) — 1
 - [Agora](../authors/agora.md) — 1
 - [Agroconceptos 🇦🇷](../authors/agroconceptos.md) — 1
 - [Agushoma](../authors/agushoma.md) — 1
@@ -1424,6 +1424,7 @@
 - [Antonio Costa | IA](../authors/antonio-costa-ia.md) — 1
 - [Antonio Leiva](../authors/antonio-leiva.md) — 1
 - [Antunes](../authors/antunes.md) — 1
+- [Anu](../authors/anu.md) — 1
 - [Anugrah Vibi](../authors/anugrah-vibi.md) — 1
 - [Anurag Jha](../authors/anurag-jha.md) — 1
 - [Anurag Kumar](../authors/anurag-kumar.md) — 1
@@ -1904,6 +1905,7 @@
 - [Dawn(DaEun) Yi](../authors/dawn-daeun-yi.md) — 1
 - [Dawna Yi](../authors/dawna-yi.md) — 1
 - [Dax](../authors/dax.md) — 1
+- [Dayanne Fernandes](../authors/dayanne-fernandes.md) — 1
 - [dbredesen](../authors/dbredesen.md) — 1
 - [dbt](../authors/dbt.md) — 1
 - [De Gentle](../authors/de-gentle.md) — 1
@@ -3207,6 +3209,7 @@
 - [Mukesh Bishnoi](../authors/mukesh-bishnoi.md) — 1
 - [Muskan Paliwal](../authors/muskan-paliwal.md) — 1
 - [Muthukumar G.V](../authors/muthukumar-g-v.md) — 1
+- [myles bsi](../authors/myles-bsi.md) — 1
 - [Mystery Hat](../authors/mystery-hat.md) — 1
 - [Mythos Lab](../authors/mythos-lab.md) — 1
 - [Mαulik ✦](../authors/m-ulik.md) — 1
@@ -4934,6 +4937,7 @@
 - [金融系DS](../authors/金融系ds.md) — 1
 - [金马](../authors/金马.md) — 1
 - [钟老](../authors/钟老.md) — 1
+- [鈴木慎吾 / TSUMIKI INC.](../authors/鈴木慎吾-tsumiki-inc.md) — 1
 - [鈴木裕斗 | Offers | AI x HR](../authors/鈴木裕斗-offers-ai-x-hr.md) — 1
 - [银马](../authors/银马.md) — 1
 - [阿Chow](../authors/阿chow.md) — 1

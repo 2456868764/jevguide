@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7340</strong><br>curated posts</td>
-<td align="center"><strong>3610</strong><br>original videos</td>
+<td align="center"><strong>7349</strong><br>curated posts</td>
+<td align="center"><strong>3615</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,13 +28,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1449</strong> showcases · <strong>603</strong> videos</p>
+<p><strong>1452</strong> showcases · <strong>606</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>681</strong> showcases · <strong>334</strong> videos</p>
+<p><strong>682</strong> showcases · <strong>335</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -48,7 +48,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>636</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>639</strong> showcases · <strong>286</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>463</strong> showcases · <strong>192</strong> videos</p>
+<p><strong>464</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>414</strong> showcases · <strong>217</strong> videos</p>
+<p><strong>415</strong> showcases · <strong>217</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/amirmxt/status/2120682052685275422"><img src="https://pbs.twimg.com/media/HW4sxq5W8AA6FJU?format=jpg&amp;name=900x900" alt="Building an autonomous sales agent with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/amirmxt/status/2120682052685275422">Building an autonomous sales agent with Jev</a></h3>
-<p>The author shares an agent built from scratch that uses Apify, Firecrawl, and Perplexity to find leads, verifies and enriches data with Firecrawl and Apify, deploys a custom proposal page, and has Jev review everything. The agent self-learns and updates via Slack, already contributing to revenue.</p>
-<p><strong>45</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 45</p>
-<p><strong>amirmxt</strong> · @amirmxt</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2120703036800782652"><img src="https://pbs.twimg.com/media/HW5ALKKakAAWx7R?format=png&amp;name=medium" alt="GBP/USD Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2120703036800782652">GBP/USD Long Scenario with Jev Review</a></h3>
+<p>A trader shares a GBP/USD long idea based on Jev, with entry, target, stop and risk/reward; Jev flags it as needing review with 31% assessment certainty.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/hammer0x419/status/2120679490854474006"><img src="https://pbs.twimg.com/media/HW4qwnuWAAAncPA?format=jpg&amp;name=medium" alt="JEV vs grok-4.7 decision experiment in GTA V · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hammer0x419/status/2120679490854474006">JEV vs grok-4.7 decision experiment in GTA V</a></h3>
-<p>Hammer0x419 shares one recorded experiment from a 283-run study in GTA V, comparing a JEV-driven agent with grok-4.7 on the same reflex-v1 body, highlighting differences in the decision layer.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>Hammer0x419</strong> · @hammer0x419</p>
+<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/shingo2000/status/2120697679806411026"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini launches Jev-like API with image, audio, and video input · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/shingo2000/status/2120697679806411026">Gemini launches Jev-like API with image, audio, and video input</a></h3>
+<p>Google Gemini has released an API similar to TypeSafe Jev, accepting image, audio, and video inputs for up to 1,000 questions.</p>
+<p><strong>146</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 146</p>
+<p><strong>鈴木慎吾 / TSUMIKI INC.</strong> · @shingo2000</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/Future_AI_TW/status/2120677345103155358"><img src="https://pbs.twimg.com/media/HW4ozt2WQAA7hIe?format=png&amp;name=medium" alt="Jev Nears Opus Accuracy in Identity Sweeps at Lower Cost · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Future_AI_TW/status/2120677345103155358">Jev Nears Opus Accuracy in Identity Sweeps at Lower Cost</a></h3>
-<p>Hightouch tests on simulated data show Jev→Opus achieves 98.8% accuracy in identity sweeps vs 99.0% for pure Opus, with per-thousand-identity costs of ~$0.88 and $3.86 respectively.</p>
-<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>AI觀察日記 | 聽趨勢・看未來</strong> · @Future_AI_TW</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/pc_watch/status/2120696859002122467"><img src="https://pbs.twimg.com/media/HW46jYubcAAiZoE?format=jpg&amp;name=medium" alt="Google offers Jev-style &#39;AI for judgment only&#39; API, supports PDFs and images · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pc_watch/status/2120696859002122467">Google offers Jev-style &#39;AI for judgment only&#39; API, supports PDFs and images</a></h3>
+<p>According to PC Watch, Google also offers a Jev-style &#39;judgment-only&#39; AI via API, with support for PDFs and images.</p>
+<p><strong>2.0K</strong> views · 💬 0 &nbsp; 🔁 5 &nbsp; ♡ 8 &nbsp; 📊 2.0K</p>
+<p><strong>PC Watch</strong> · @pc_watch</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/ItsCuthulhu/status/2120674794190368882"><img src="https://pbs.twimg.com/amplify_video_thumb/2120674752998084608/img/tHQNxAU3POw2RgHl.jpg" alt="Gemini vs Jev Full Benchmark Comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ItsCuthulhu/status/2120674794190368882">Gemini vs Jev Full Benchmark Comparison</a></h3>
-<p>The author notes that Google&#39;s launch table shows Gemini beating Jev 92.2 to 90.0, but that score comes from the public split; running the full battery of all 1,999 questions, Gemini scored 76.9 and was compared against Jev&#39;s results.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/anujasha9/status/2120693468800639469"><img src="https://pbs.twimg.com/media/HW43dmjboAApvxl?format=jpg&amp;name=small" alt="Google Decisions API looks a lot like TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/anujasha9/status/2120693468800639469">Google Decisions API looks a lot like TypeSafe&#39;s Jev</a></h3>
+<p>The post compares Google&#39;s newly launched Decisions API to TypeSafe AI&#39;s Jev: both handle yes/no, choice and score questions, return a probability and confidence for every answer, and charge nothing for output.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Anu</strong> · @anujasha9</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/amirmxt/status/2120682052685275422"><img src="https://pbs.twimg.com/media/HW4sxq5W8AA6FJU?format=jpg&amp;name=900x900" alt="Building an autonomous sales agent with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/amirmxt/status/2120682052685275422">Building an autonomous sales agent with Jev</a></h3>
-<p>The author shares an agent built from scratch that uses Apify, Firecrawl, and Perplexity to find leads, verifies and enriches data with Firecrawl and Apify, deploys a custom proposal page, and has Jev review everything. The agent self-learns and updates via Slack, already contributing to revenue.</p>
-<p><strong>45</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 45</p>
-<p><strong>amirmxt</strong> · @amirmxt</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2120703036800782652"><img src="https://pbs.twimg.com/media/HW5ALKKakAAWx7R?format=png&amp;name=medium" alt="GBP/USD Long Scenario with Jev Review · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2120703036800782652">GBP/USD Long Scenario with Jev Review</a></h3>
+<p>A trader shares a GBP/USD long idea based on Jev, with entry, target, stop and risk/reward; Jev flags it as needing review with 31% assessment certainty.</p>
+<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/ItsCuthulhu/status/2120674794190368882"><img src="https://pbs.twimg.com/amplify_video_thumb/2120674752998084608/img/tHQNxAU3POw2RgHl.jpg" alt="Gemini vs Jev Full Benchmark Comparison · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ItsCuthulhu/status/2120674794190368882">Gemini vs Jev Full Benchmark Comparison</a></h3>
-<p>The author notes that Google&#39;s launch table shows Gemini beating Jev 92.2 to 90.0, but that score comes from the public split; running the full battery of all 1,999 questions, Gemini scored 76.9 and was compared against Jev&#39;s results.</p>
-<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
-<p><strong>Cuth</strong> · @ItsCuthulhu</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/anujasha9/status/2120693468800639469"><img src="https://pbs.twimg.com/media/HW43dmjboAApvxl?format=jpg&amp;name=small" alt="Google Decisions API looks a lot like TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/anujasha9/status/2120693468800639469">Google Decisions API looks a lot like TypeSafe&#39;s Jev</a></h3>
+<p>The post compares Google&#39;s newly launched Decisions API to TypeSafe AI&#39;s Jev: both handle yes/no, choice and score questions, return a probability and confidence for every answer, and charge nothing for output.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Anu</strong> · @anujasha9</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/freeman1266/status/2120673393460834589"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/freeman1266/status/2120673393460834589">Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI</a></h3>
-<p>Lao Jin comments that JEV did not continue developing AI coding, but instead pursued Decisions API, saying JEV&#39;s hype is over and decision-making AI has limited application scenarios.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>老金</strong> · @freeman1266</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/ctgptlb/status/2120692676484055104"><img src="https://pbs.twimg.com/media/HW42tUDb0AAs8Vr?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision 1, Listing Jev Among Similar Decision Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ctgptlb/status/2120692676484055104">Google Launches Gemini Decision 1, Listing Jev Among Similar Decision Models</a></h3>
+<p>The post reports Google&#39;s launch of Gemini Decision 1, a dedicated decision-making model with an API that handles audio and video, processes up to 1,000 yes/no questions in batch, and supports images and PDFs. It mentions Jev alongside OpenAI and others as similar decision-making models.</p>
+<p><strong>4.1K</strong> views · 💬 3 &nbsp; 🔁 4 &nbsp; ♡ 26 &nbsp; 📊 4.1K</p>
+<p><strong>AGIラボ</strong> · @ctgptlb</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ivanrvpereira/status/2120656645965689144"><img src="https://pbs.twimg.com/media/HW4V-p7a4AABVi8?format=jpg&amp;name=medium" alt="Developer shares using JEV to safely access and bulk-organize work email · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ivanrvpereira/status/2120656645965689144">Developer shares using JEV to safely access and bulk-organize work email</a></h3>
-<p>Ivan Pereira shares on X how he used JEV in his open-source project AgentMailGuard, inspired by @chibionos&#39;s talk at aiDotEngineer, to safely access and bulk-organize work email.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>Ivan Pereira</strong> · @ivanrvpereira</p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
+<a href="https://x.com/hammer0x419/status/2120679490854474006"><img src="https://pbs.twimg.com/media/HW4qwnuWAAAncPA?format=jpg&amp;name=medium" alt="JEV vs grok-4.7 decision experiment in GTA V · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hammer0x419/status/2120679490854474006">JEV vs grok-4.7 decision experiment in GTA V</a></h3>
+<p>Hammer0x419 shares one recorded experiment from a 283-run study in GTA V, comparing a JEV-driven agent with grok-4.7 on the same reflex-v1 body, highlighting differences in the decision layer.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419</p>
 </td>
 </tr>
 </table>

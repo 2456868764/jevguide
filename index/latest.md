@@ -2,6 +2,15 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T02:19:39.000Z | [GBP/USD Long Scenario with Jev Review](https://x.com/hadohunter/status/2120703036800782652) | 金融 | HadoHunter | 5 |
+| 2026-11-12T01:58:22.000Z | [Gemini launches Jev-like API with image, audio, and video input](https://x.com/shingo2000/status/2120697679806411026) | 接入动态 | 鈴木慎吾 / TSUMIKI INC. | 146 |
+| 2026-11-12T01:55:06.000Z | [Google offers Jev-style 'AI for judgment only' API, supports PDFs and images](https://x.com/pc_watch/status/2120696859002122467) | 产品发布 | PC Watch | 2.0K |
+| 2026-11-12T01:41:38.000Z | [Google Decisions API looks a lot like TypeSafe's Jev](https://x.com/anujasha9/status/2120693468800639469) | 产品发布 | Anu | 11 |
+| 2026-11-12T01:38:29.000Z | [Google Launches Gemini Decision 1, Listing Jev Among Similar Decision Models](https://x.com/ctgptlb/status/2120692676484055104) | 产品发布 | AGIラボ | 4.1K |
+| 2026-11-12T01:37:00.000Z | [Jev supports image input](https://x.com/gosrum/status/2120692304898142341) | 社区实践 | 金のニワトリ | 304 |
+| 2026-11-12T01:36:59.000Z | [Trying Gemini Decision API: Latency comparison with Jev](https://x.com/gosrum/status/2120692300489851275) | 社区实践 | 金のニワトリ | 753 |
+| 2026-11-12T01:36:57.000Z | [Google launches decision model API, following Jev two months later](https://x.com/dayoffdev/status/2120692289563496499) | 开发者工具 | Dayanne Fernandes | 30 |
+| 2026-11-12T01:30:47.000Z | [Jev 1.14 vs Gemini Decision 1 Benchmark Comparison](https://x.com/mylesBaiM/status/2120690739428614589) | 社区实践 | myles bsi | 145 |
 | 2026-11-12T00:56:16.000Z | [Building an autonomous sales agent with Jev](https://x.com/amirmxt/status/2120682052685275422) | 智能体 | amirmxt | 45 |
 | 2026-11-12T00:46:05.000Z | [JEV vs grok-4.7 decision experiment in GTA V](https://x.com/hammer0x419/status/2120679490854474006) | 游戏 | Hammer0x419 | 13 |
 | 2026-11-12T00:37:34.000Z | [Jev Nears Opus Accuracy in Identity Sweeps at Lower Cost](https://x.com/Future_AI_TW/status/2120677345103155358) | 数据分析 | AI觀察日記 \| 聽趨勢・看未來 | 3 |
@@ -93,12 +102,3 @@
 | 2026-11-11T07:30:26.000Z | [jev-job-search: Automating Job Applications with Jev](https://x.com/argusiccom/status/2120418860507463724) | 自动化工作流 | Argusic | 64 |
 | 2026-11-11T06:46:30.000Z | [Jev scoring in referral networks](https://x.com/thriftyAI/status/2120407805215596674) | 社区实践 | Thrifty \| Open to Work \| Software Engineer | 18 |
 | 2026-11-11T06:30:23.000Z | [Using Jev for classification and large-scale filtering](https://x.com/satya_marketing/status/2120403748988330357) | 社区实践 | Satya Janghu | 8 |
-| 2026-11-11T05:52:00.000Z | [Jev Agent Memory: 13-Page Guide and Token Optimization](https://x.com/Mr_Buzzoni/status/2120394087983710364) | 智能体 | Mr. Buzzoni | 366 |
-| 2026-11-11T05:30:45.000Z | [Jev Map: Precision Editing for AI, Begins SWE-Bench Testing](https://x.com/CleaneraMade/status/2120388739398594895) | 开发者工具 | Cleanera Made | 10 |
-| 2026-11-11T05:05:00.000Z | [Making Money with Grok Bot + Jev for SEO Decisions](https://x.com/savvy_luvvvv/status/2120382260281327805) | 社区实践 | Ling | 58 |
-| 2026-11-11T04:23:14.000Z | [AUD/JPY AI Short Scenario: Jev Assessment Not Supported](https://x.com/hadohunter/status/2120371749091197158) | 金融 | HadoHunter | 9 |
-| 2026-11-11T03:31:36.000Z | [Jev Job Search Tool for Windows](https://x.com/orpheuuss_/status/2120358757494308928) | 社区实践 | ✵ | 9 |
-| 2026-11-11T01:54:56.000Z | [Discussing RAG Architecture and Suggesting Jev](https://x.com/Suercha007/status/2120334428581109970) | 知识与搜索 | 苏茶 | 84 |
-| 2026-11-11T01:09:09.000Z | [Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper](https://x.com/mm_0824_kb/status/2120322908782555595) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 47 |
-| 2026-11-11T01:01:05.000Z | [Jev use case: ordering from a menu](https://x.com/goncalo_canhoto/status/2120320878647062685) | 社区实践 | Gonçalo Canhoto 🇵🇹 | 57 |
-| 2026-11-11T00:37:27.000Z | [Jev Hires DeepSeek to Fix Leap Year Check](https://x.com/usebrainchain/status/2120314930033500196) | 智能体 | BrainChain | 71 |

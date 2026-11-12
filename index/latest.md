@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T10:28:51.000Z | [Google Releases Gemini Decision 1 with JevBench Score 92.2%](https://x.com/Inomsxbt/status/2120826147705692458) | 产品发布 | Inoms | 77 |
+| 2026-11-12T10:09:51.000Z | [Multi-model collaboration: Jev as implementation branch](https://x.com/HarmNao/status/2120821368308846871) | 自动化工作流 | Nao | 60 |
+| 2026-11-12T10:00:06.000Z | [EmbeddingGemma 2 Drives Dash in Infinite Dash Run](https://x.com/ShuregDenisov/status/2120818912875119055) | 工作原理 | Sasha Denisov | 28 |
+| 2026-11-12T09:55:09.000Z | [TypeSafe Releases Jev, a Small Model for Judging](https://x.com/FinanceYF5/status/2120817669637312525) | 产品发布 | AI Will | 446 |
+| 2026-11-12T09:39:18.000Z | [Jev and the Era of Model Tetris](https://x.com/hkprogsociety/status/2120813677641388275) | 开发资源 | Hong Kong Programming Society | 2 |
 | 2026-11-12T09:31:46.000Z | [An extension using Jev for quick overview of affair plot attributes](https://x.com/yakushi_kokushi/status/2120811782327750844) | 内容创作 | なふさ | 29 |
 | 2026-11-12T09:01:28.000Z | [Google Launches Jev-like Decision AI API](https://x.com/yumamaeda1210/status/2120804159746392533) | 产品发布 | 前田悠馬｜御社専用のAIツールをいつでも何個でも開発します | 53 |
 | 2026-11-12T09:00:04.000Z | [JEV: Key to Speed and Cost](https://x.com/senri_naofumi/status/2120803806917128692) | 社区实践 | 東川内尚文 | 10 |
@@ -97,8 +102,3 @@
 | 2026-11-11T18:29:39.000Z | [Google launches Gemini Decisions API, similar to TypeSafe's Jev](https://x.com/ErickSky/status/2120584758077870163) | 产品发布 | Erick | 3.6K |
 | 2026-11-11T15:13:17.000Z | [GRIN: Using Jev to Flag EU Greenwashing Risks](https://x.com/rafa_maker/status/2120535342503678461) | 法律合规 | Rafa | 7 |
 | 2026-11-11T15:06:26.000Z | [Optimizing Jev prompts with DSPyMator + GEPA](https://x.com/CrowdCent/status/2120533616065487055) | 社区实践 | CrowdCent | 5 |
-| 2026-11-11T15:06:25.000Z | [centimators 0.4: Bring scikit-learn API to Jev and DSPy programs](https://x.com/CrowdCent/status/2120533611837595926) | 开发者工具 | CrowdCent | 35 |
-| 2026-11-11T14:41:54.000Z | [Real-Time Lisa Simpson Expressions Driven by Jev](https://x.com/whensdeyi/status/2120527444692308171) | 内容创作 | Dawna Yi | 53 |
-| 2026-11-11T14:35:54.000Z | [JEV Makes Move-by-Move Decisions in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2120525930770673782) | 智能体 | ForgeAI | 23 |
-| 2026-11-11T14:24:07.000Z | [Jev test project: Cybersecurity topics page](https://x.com/defenceability/status/2120522966723444838) | 网络安全 | するめ | 7 |
-| 2026-11-11T14:24:00.000Z | [Meet Jev: The 'Internet' Moment for AI?](https://x.com/Mr_Buzzoni/status/2120522937338155045) | 智能体 | Mr. Buzzoni | 78 |

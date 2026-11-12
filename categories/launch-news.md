@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 647 | 288 | 362 | 1.1M |
+| 649 | 289 | 363 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Inomsxbt/status/2120826147705692458"><img src="https://pbs.twimg.com/media/HW6wIjsa4AAY7pC?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1 with JevBench Score 92.2% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Inomsxbt/status/2120826147705692458">Google Releases Gemini Decision 1 with JevBench Score 92.2%</a></h3>
+<p>Gemini Decision 1 is Google&#39;s new model for agent workflows, scoring 92.2% on JevBench, beating Jev 1.14 on 5 of 7 shared benchmarks, and handling images, audio, video, and PDFs with a 256K context window.</p>
+<p><strong>中文摘要：</strong>Gemini Decision 1是谷歌面向智能体工作流的新模型，在JevBench上得分92.2%，并在7个共享基准中的5个上超过Jev 1.14，支持图像、音频、视频和PDF，上下文窗口达256K。</p>
+<p><strong>Inoms</strong> · @Inomsxbt · 2026-11-12T10:28:51.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 77</p>
+<p><a href="https://x.com/Inomsxbt/status/2120826147705692458">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/FinanceYF5/status/2120817669637312525"><img src="https://pbs.twimg.com/amplify_video_thumb/2120817381958430720/img/NzR5bZWE9c9J3L4P.jpg" alt="TypeSafe Releases Jev, a Small Model for Judging · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/FinanceYF5/status/2120817669637312525">TypeSafe Releases Jev, a Small Model for Judging</a></h3>
+<p>The post mentions that at the 2026 Silicon Valley AIE Conference, startup TypeSafe released Jev, a small model for judging, on September 15, and within eight weeks OpenAI, Cloudflare, and Google followed suit.</p>
+<p><strong>中文摘要：</strong>该帖子提及在 2026 硅谷 AIE 大会上，初创公司 TypeSafe 于 9 月 15 日发布了用于评判的小模型 Jev，并在八周内引发 OpenAI、Cloudflare 和 Google 相继跟进。</p>
+<p><strong>AI Will</strong> · @FinanceYF5 · 2026-11-12T09:55:09.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 446</p>
+<p><a href="https://x.com/FinanceYF5/status/2120817669637312525">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/yumamaeda1210/status/2120804159746392533"><img src="https://pbs.twimg.com/media/HW6cI35a0AENBJo?format=jpg&amp;name=medium" alt="Google Launches Jev-like Decision AI API · 原帖图片" width="100%"></a>

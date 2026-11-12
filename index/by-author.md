@@ -99,6 +99,7 @@
 - [WquGuru](../authors/wquguru.md) — 6
 - [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 6
 - [萩野貴拓](../authors/萩野貴拓.md) — 6
+- [AI Will](../authors/ai-will.md) — 5
 - [Ali Turki | علي تركي](../authors/ali-turki.md) — 5
 - [apolinario (poli)](../authors/apolinario-poli.md) — 5
 - [Artimind](../authors/artimind.md) — 5
@@ -142,7 +143,6 @@
 - [金のニワトリ](../authors/金.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [Abdullah](../authors/abdullah.md) — 4
-- [AI Will](../authors/ai-will.md) — 4
 - [AI/ML API](../authors/ai-ml-api.md) — 4
 - [Aman Maqsood](../authors/aman-maqsood.md) — 4
 - [Anoop George Joseph](../authors/anoop-george-joseph.md) — 4
@@ -366,6 +366,7 @@
 - [Moysei](../authors/moysei.md) — 3
 - [Nabendu Biswas](../authors/nabendu-biswas.md) — 3
 - [nader dabit](../authors/nader-dabit.md) — 3
+- [Nao](../authors/nao.md) — 3
 - [NeilXbt](../authors/neilxbt.md) — 3
 - [Nidhi Singh](../authors/nidhi-singh.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
@@ -663,6 +664,7 @@
 - [Hekate](../authors/hekate.md) — 2
 - [Himanshú Kumarr](../authors/himanshu-kumarr.md) — 2
 - [HIMANSHU TIWARI](../authors/himanshu-tiwari.md) — 2
+- [Hong Kong Programming Society](../authors/hong-kong-programming-society.md) — 2
 - [Houcemeddine Turki](../authors/houcemeddine-turki.md) — 2
 - [Huanxin Sheng](../authors/huanxin-sheng.md) — 2
 - [Human Coders](../authors/human-coders.md) — 2
@@ -815,7 +817,6 @@
 - [Myttle](../authors/myttle.md) — 2
 - [n0geegee](../authors/n0geegee.md) — 2
 - [Nace AI](../authors/nace-ai.md) — 2
-- [Nao](../authors/nao.md) — 2
 - [Nao Hanamura](../authors/nao-hanamura.md) — 2
 - [Nate Pacyga](../authors/nate-pacyga.md) — 2
 - [Nativ](../authors/nativ.md) — 2
@@ -908,6 +909,7 @@
 - [Sara](../authors/sara.md) — 2
 - [Sarah Drasner](../authors/sarah-drasner.md) — 2
 - [Sardine](../authors/sardine.md) — 2
+- [Sasha Denisov](../authors/sasha-denisov.md) — 2
 - [Satoshi Kume｜AI × Science](../authors/satoshi-kume-ai-science.md) — 2
 - [saturn](../authors/saturn.md) — 2
 - [Sebastian Sosa](../authors/sebastian-sosa.md) — 2
@@ -2404,7 +2406,6 @@
 - [HN Thread Scout 💬](../authors/hn-thread-scout.md) — 1
 - [Hoang Nguyen](../authors/hoang-nguyen.md) — 1
 - [HoneyHive](../authors/honeyhive.md) — 1
-- [Hong Kong Programming Society](../authors/hong-kong-programming-society.md) — 1
 - [Hope](../authors/hope.md) — 1
 - [Hosenur](../authors/hosenur.md) — 1
 - [Hossein Mohebbi](../authors/hossein-mohebbi.md) — 1
@@ -2468,6 +2469,7 @@
 - [Ingo Elfering](../authors/ingo-elfering.md) — 1
 - [innovaTopia](../authors/innovatopia.md) — 1
 - [Innovent Solutions](../authors/innovent-solutions.md) — 1
+- [Inoms](../authors/inoms.md) — 1
 - [Insomnia](../authors/insomnia.md) — 1
 - [Inteligencia Artificial](../authors/inteligencia-artificial.md) — 1
 - [Interstella](../authors/interstella.md) — 1
@@ -3805,7 +3807,6 @@
 - [sarthak gupta](../authors/sarthak-gupta.md) — 1
 - [Sarthiii](../authors/sarthiii.md) — 1
 - [Sarvagya Kulshreshtha](../authors/sarvagya-kulshreshtha.md) — 1
-- [Sasha Denisov](../authors/sasha-denisov.md) — 1
 - [sat0xshi](../authors/sat0xshi.md) — 1
 - [Sathish](../authors/sathish.md) — 1
 - [Satish G](../authors/satish-g.md) — 1

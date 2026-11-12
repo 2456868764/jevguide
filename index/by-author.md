@@ -995,6 +995,7 @@
 - [Vybhav Ramachandran](../authors/vybhav-ramachandran.md) — 2
 - [Walrus](../authors/walrus.md) — 2
 - [Walters954](../authors/walters954.md) — 2
+- [Wayne idea bright](../authors/wayne-idea-bright.md) — 2
 - [Wayne Sutton](../authors/wayne-sutton.md) — 2
 - [WBN｜AI,Tech,Startup特化のビルダーのための生配信ニュース&インタビューショー🚨](../authors/wbn-ai-tech-startup特化-生配信.md) — 2
 - [Whippa](../authors/whippa.md) — 2
@@ -1796,6 +1797,7 @@
 - [ContextBoy](../authors/contextboy.md) — 1
 - [ContractorKeith](../authors/contractorkeith.md) — 1
 - [Cooking life hack](../authors/cooking-life-hack.md) — 1
+- [Coolbat](../authors/coolbat.md) — 1
 - [coolguy](../authors/coolguy.md) — 1
 - [Cooper Parker](../authors/cooper-parker.md) — 1
 - [Cooper Simson | Actionable AI | Agents, AI Content](../authors/cooper-simson-actionable-ai-agents-ai-content.md) — 1
@@ -1987,6 +1989,7 @@
 - [doofz](../authors/doofz.md) — 1
 - [dopamyn.ai](../authors/dopamyn-ai.md) — 1
 - [double](../authors/double.md) — 1
+- [double chici](../authors/double-chici.md) — 1
 - [Douglas Schonholtz](../authors/douglas-schonholtz.md) — 1
 - [Dr. Alcymar Monteiro Júnior](../authors/dr-alcymar-monteiro-junior.md) — 1
 - [Dr. Craig Brown](../authors/dr-craig-brown.md) — 1

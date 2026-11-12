@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T03:15:04.000Z | [Gemini Decisions API vs Jev: Competing in the Same Niche](https://x.com/coolbat1999/status/2120716984862302362) | 产品发布 | Coolbat | 3 |
+| 2026-11-12T03:07:58.000Z | [Rapid Startup Idea Evaluation with Jev](https://x.com/WayneIdeaBright/status/2120715197333782844) | 社区实践 | Wayne idea bright | 8 |
+| 2026-11-12T03:00:00.000Z | [Jev kills a startup idea in 187ms](https://x.com/WayneIdeaBright/status/2120713191508546005) | 社区实践 | Wayne idea bright | 15 |
+| 2026-11-12T02:58:43.000Z | [Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe's Jev](https://x.com/QinYi26294/status/2120712867569889669) | 产品发布 | double chici | 10 |
 | 2026-11-12T02:19:39.000Z | [GBP/USD Long Scenario with Jev Review](https://x.com/hadohunter/status/2120703036800782652) | 金融 | HadoHunter | 5 |
 | 2026-11-12T01:58:22.000Z | [Gemini launches Jev-like API with image, audio, and video input](https://x.com/shingo2000/status/2120697679806411026) | 接入动态 | 鈴木慎吾 / TSUMIKI INC. | 146 |
 | 2026-11-12T01:55:06.000Z | [Google offers Jev-style 'AI for judgment only' API, supports PDFs and images](https://x.com/pc_watch/status/2120696859002122467) | 产品发布 | PC Watch | 2.0K |
@@ -98,7 +102,3 @@
 | 2026-11-11T09:46:48.000Z | [User Shares Jev Use Case: Comment Classification and Issue Pre-screening](https://x.com/321sssrt/status/2120453178181534161) | 社区实践 | Zebro | 15 |
 | 2026-11-11T09:36:11.000Z | [browser-use Releases jev-ultrafast: Ultra-Fast Web Agent Powered by TypeSafe Jev](https://x.com/ChinaAIDaily/status/2120450505776439328) | 开发资源 | ChinaAIDaily | 7 |
 | 2026-11-11T08:37:17.000Z | [Jev's Potential in Robotics and Spatial Understanding Challenges](https://x.com/raj73237/status/2120435685387903363) | 机器人 | Raj | 1 |
-| 2026-11-11T08:08:09.000Z | [Jev vs GPT-6.1 Sol: 1,000 Message-Routing Tests and a 32× Cost Gap](https://x.com/vcdx001/status/2120428352008052857) | 自动化工作流 | John Arrasjid | 7 |
-| 2026-11-11T07:30:26.000Z | [jev-job-search: Automating Job Applications with Jev](https://x.com/argusiccom/status/2120418860507463724) | 自动化工作流 | Argusic | 64 |
-| 2026-11-11T06:46:30.000Z | [Jev scoring in referral networks](https://x.com/thriftyAI/status/2120407805215596674) | 社区实践 | Thrifty \| Open to Work \| Software Engineer | 18 |
-| 2026-11-11T06:30:23.000Z | [Using Jev for classification and large-scale filtering](https://x.com/satya_marketing/status/2120403748988330357) | 社区实践 | Satya Janghu | 8 |

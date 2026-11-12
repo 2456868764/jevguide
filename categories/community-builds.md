@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1452 | 606 | 854 | 3.0M |
+| 1454 | 606 | 856 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/WayneIdeaBright/status/2120715197333782844"><img src="https://pbs.twimg.com/media/HW5LOK-bUAAxFWM?format=jpg&amp;name=medium" alt="Rapid Startup Idea Evaluation with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WayneIdeaBright/status/2120715197333782844">Rapid Startup Idea Evaluation with Jev</a></h3>
+<p>A user shows how Jev (TypeSafe AI) scored their startup idea 54/100 in 174ms, inviting others to try their own ideas at killmyidea.biz.</p>
+<p><strong>中文摘要：</strong>一位用户展示了 Jev (TypeSafe AI) 在 174ms 内对其创业点子给出 54/100 评分，并邀请大家在 killmyidea.biz 试用自己的点子。</p>
+<p><strong>Wayne idea bright</strong> · @WayneIdeaBright · 2026-11-12T03:07:58.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
+<p><a href="https://x.com/WayneIdeaBright/status/2120715197333782844">在 X 查看原帖</a> · <a href="https://t.co/8jJK0QU7XU">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/WayneIdeaBright/status/2120713191508546005"><img src="https://pbs.twimg.com/media/HW5JZh6a0AAtDqM?format=jpg&amp;name=medium" alt="Jev kills a startup idea in 187ms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/WayneIdeaBright/status/2120713191508546005">Jev kills a startup idea in 187ms</a></h3>
+<p>A community post shows Jev (TypeSafe AI) quickly evaluating a startup idea with a 35/100 score and includes a trial link.</p>
+<p><strong>中文摘要：</strong>一条社区帖子展示 Jev（TypeSafe AI）快速评估创业想法并给出 35/100 分，附带试用链接。</p>
+<p><strong>Wayne idea bright</strong> · @WayneIdeaBright · 2026-11-12T03:00:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/WayneIdeaBright/status/2120713191508546005">在 X 查看原帖</a> · <a href="https://t.co/bQ0tU4qUZj">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/gosrum/status/2120692304898142341"><img src="https://pbs.twimg.com/amplify_video_thumb/2110651468059676672/img/t4H-I68MthQTBQpl.jpg" alt="Jev supports image input · 原帖视频截图" width="100%"></a>

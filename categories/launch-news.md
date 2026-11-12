@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 639 | 286 | 356 | 1.1M |
+| 641 | 287 | 357 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/coolbat1999/status/2120716984862302362"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini Decisions API vs Jev: Competing in the Same Niche · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/coolbat1999/status/2120716984862302362">Gemini Decisions API vs Jev: Competing in the Same Niche</a></h3>
+<p>The post compares Google&#39;s new Gemini Decisions API with Jev, noting they compete in the same specialized decision-model space. Gemini leads in multimodality and scale, supporting up to 1000 questions per request and inputs including text, image, audio, video, and PDF (up to 256K tokens).</p>
+<p><strong>中文摘要：</strong>帖子指出 Google 新推出的 Gemini Decisions API 与 Jev 同属专用决策模型，二者形成直接竞争。Gemini 在多模态和规模上占优，单次最多支持 1000 个问题，并支持文本、图像、音频、视频及 PDF 输入（最高 256K tokens）。</p>
+<p><strong>Coolbat</strong> · @coolbat1999 · 2026-11-12T03:15:04.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/coolbat1999/status/2120716984862302362">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/QinYi26294/status/2120712867569889669"><img src="https://pbs.twimg.com/media/HW5JGyKaUAAEvOi?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/QinYi26294/status/2120712867569889669">Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev</a></h3>
+<p>The post reports Google&#39;s launch of the decision model Gemini Decision 1, which returns probabilities instead of answers given material and questions. It mentions TypeSafe&#39;s Jev and OpenAI&#39;s Decisions API, citing Simon Willison saying Google&#39;s interface closely follows Jev, even using the same &#39;noul&#39; term for yes/no questions.</p>
+<p><strong>中文摘要：</strong>帖子报道Google发布决策模型Gemini Decision 1，给定材料和问题后仅返回概率而非回答。文中提到TypeSafe的Jev和OpenAI的Decisions API，并引述Simon Willison称Google接口几乎照搬Jev，连是非题术语noul也相同。</p>
+<p><strong>double chici</strong> · @QinYi26294 · 2026-11-12T02:58:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/QinYi26294/status/2120712867569889669">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/pc_watch/status/2120696859002122467"><img src="https://pbs.twimg.com/media/HW46jYubcAAiZoE?format=jpg&amp;name=medium" alt="Google offers Jev-style &#39;AI for judgment only&#39; API, supports PDFs and images · 原帖图片" width="100%"></a>

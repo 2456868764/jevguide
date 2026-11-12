@@ -15,11 +15,11 @@
 - [rody](../authors/rody.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
+- [Cuth](../authors/cuth.md) — 12
 - [plutos](../authors/plutos.md) — 12
 - [WTome](../authors/wtome.md) — 12
 - [Allie the Icon](../authors/allie-the-icon.md) — 11
 - [Asteri](../authors/asteri.md) — 11
-- [Cuth](../authors/cuth.md) — 11
 - [Daniel San](../authors/daniel-san.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
@@ -945,6 +945,7 @@
 - [StudioYebisu](../authors/studioyebisu.md) — 2
 - [swiftwand](../authors/swiftwand.md) — 2
 - [Syb](../authors/syb.md) — 2
+- [Sydney Runkle](../authors/sydney-runkle.md) — 2
 - [syumai](../authors/syumai.md) — 2
 - [t.toda](../authors/t-toda.md) — 2
 - [TactiX Trading Panel](../authors/tactix-trading-panel.md) — 2
@@ -4028,7 +4029,6 @@
 - [Swapnil Sarkar](../authors/swapnil-sarkar.md) — 1
 - [SWARM Team](../authors/swarm-team.md) — 1
 - [swyx @aiDotEngineer CODE](../authors/swyx-aidotengineer-code.md) — 1
-- [Sydney Runkle](../authors/sydney-runkle.md) — 1
 - [Sylvain Charbit](../authors/sylvain-charbit.md) — 1
 - [Sylvain Deauré](../authors/sylvain-deaure.md) — 1
 - [Sylvain Peyronnet](../authors/sylvain-peyronnet.md) — 1
@@ -4171,6 +4171,7 @@
 - [Tom Osman 🐦‍⬛](../authors/tom-osman.md) — 1
 - [Tom Smialowski](../authors/tom-smialowski.md) — 1
 - [Tom Smith](../authors/tom-smith.md) — 1
+- [Tom Solid](../authors/tom-solid.md) — 1
 - [Tom Vaillant](../authors/tom-vaillant.md) — 1
 - [Tommaso Casaburi](../authors/tommaso-casaburi.md) — 1
 - [Tommy](../authors/tommy.md) — 1
@@ -4806,6 +4807,7 @@
 - [宝玉](../authors/宝玉.md) — 1
 - [宮内章宏@現場主義のAI講師](../authors/宮内章宏-現場主義-ai講師.md) — 1
 - [宮本 達朗@中小企業向けのAI活用・DX伴走](../authors/宮本-達朗-中小企業向-ai活用-dx伴走.md) — 1
+- [富(Tomi) | AI Producer](../authors/富-tomi-ai-producer.md) — 1
 - [小串珠美(たま｜AI活用コーチ)](../authors/小串珠美-ai活用.md) — 1
 - [小峰太一 AI×旅行「AVA Travel」](../authors/小峰太一-ai-旅行-ava-travel.md) — 1
 - [小畑タカユキ｜AI×Web制作@大阪](../authors/小畑-ai-web制作-大阪.md) — 1
@@ -4873,6 +4875,7 @@
 - [牙龍丸（がりゅうまる）](../authors/牙龍丸.md) — 1
 - [独立开花卓富贵](../authors/独立开花卓富贵.md) — 1
 - [猫好きデータエンジニア*](../authors/猫好.md) — 1
+- [王小波](../authors/王小波.md) — 1
 - [生ビール](../authors/生.md) — 1
 - [痛いマリモ](../authors/痛.md) — 1
 - [白日做梦™](../authors/白日做梦tm.md) — 1
@@ -4891,6 +4894,7 @@
 - [緑男 (midorio ch.)](../authors/緑男-midorio-ch.md) — 1
 - [老白（每日 AI 干货✊）](../authors/老白-每日-ai-干货.md) — 1
 - [老范](../authors/老范.md) — 1
+- [老金](../authors/老金.md) — 1
 - [芒果刀🥭](../authors/芒果刀.md) — 1
 - [花叔](../authors/花叔.md) — 1
 - [苏茶](../authors/苏茶.md) — 1

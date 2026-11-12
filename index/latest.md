@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T00:27:25.000Z | [Gemini vs Jev Full Benchmark Comparison](https://x.com/ItsCuthulhu/status/2120674794190368882) | 科研 | Cuth | 12 |
+| 2026-11-12T00:21:51.000Z | [Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI](https://x.com/freeman1266/status/2120673393460834589) | 社区实践 | 老金 | 11 |
+| 2026-11-12T00:16:12.000Z | [Gemini Decisions API Launches, Mentions Jev](https://x.com/sydneyrunkle/status/2120671970887164029) | 社区实践 | Sydney Runkle | 532 |
+| 2026-11-12T00:10:46.000Z | [User says Jev was the first decision model](https://x.com/TomSolidPM/status/2120670600758792224) | 社区实践 | Tom Solid | 46 |
+| 2026-11-11T23:57:22.000Z | [Gemini Decisions: A Jev-like AI for Decisions, Usable for Customer Support Ticket Routing](https://x.com/AIPro_Tomi/status/2120667230015017123) | 客户支持 | 富(Tomi) \| AI Producer | 20 |
+| 2026-11-11T23:46:21.000Z | [Discussion sparked by the Jev decision-making model](https://x.com/wanxubo/status/2120664459895329215) | 知识与搜索 | 王小波 | 757 |
 | 2026-11-11T23:30:00.000Z | [Let Jev Pick the Right Model—Faster and Cheaper](https://x.com/LittleMomentsTH/status/2120660344750424202) | 社区实践 | Little Moments | 18 |
 | 2026-11-11T23:15:18.000Z | [Developer shares using JEV to safely access and bulk-organize work email](https://x.com/ivanrvpereira/status/2120656645965689144) | 社区实践 | Ivan Pereira | 19 |
 | 2026-11-11T22:56:50.000Z | [Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API](https://x.com/topdevfreelance/status/2120651995375964219) | 社区实践 | Alex topDev | 39 |
@@ -96,9 +102,3 @@
 | 2026-11-11T00:19:20.000Z | [A video showcasing Jev and the rest of Copper](https://x.com/CollinRijock/status/2120310369319043072) | 社区实践 | Collin Rijock | 0 |
 | 2026-11-11T00:07:18.000Z | [Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models](https://x.com/ScottNLP/status/2120307343015751923) | 产品发布 | Scofield Hao Fei | 8 |
 | 2026-11-10T23:52:42.000Z | [Jev Voice Ordering Demo](https://x.com/yoshienagatomo/status/2120303668256018490) | 智能体 | 長友好江\|AIエージェントの家庭教師 | 22 |
-| 2026-11-10T23:31:59.000Z | [User Builds SOL Trading Bot with Jev Model to Chase 10x Return](https://x.com/HodlReaper/status/2120298452957471099) | 金融 | HodlReaper | 286 |
-| 2026-11-10T23:07:40.000Z | [Jev helps target vulnerability scans in codebases](https://x.com/danlovesproofs/status/2120292333698846758) | 网络安全 | Dan Robinson | 1.1K |
-| 2026-11-10T22:53:49.000Z | [Seeing Amazing Things with Jev](https://x.com/allietheicon/status/2120288848391651778) | 社区实践 | Allie the Icon | 436 |
-| 2026-11-10T22:36:25.000Z | [Write rules in plain sentences; Jev checks requests live](https://x.com/madarco/status/2120284469362082274) | 网络安全 | Marco D'Alia | 8 |
-| 2026-11-10T22:09:25.000Z | [Hackathon for building with Jev on Loveble](https://x.com/OsamaGweaa/status/2120277675595944172) | 社区实践 | سكِيلاَتْشِي \| Osama Gweaa | 90 |
-| 2026-11-10T21:55:20.000Z | [Jev Helps Coordinate AI Agent Decisions](https://x.com/PatrikNordinHR/status/2120274132302709227) | 智能体 | Patrik Nordin | 50 |

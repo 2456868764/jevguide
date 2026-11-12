@@ -1,6 +1,6 @@
 # Jev Showcases by Category
 
-- [Community builds](../categories/community-builds.md) — 1446
+- [Community builds](../categories/community-builds.md) — 1449
 - [Developer tools](../categories/developer-tools.md) — 681
 - [How it works](../categories/how-it-works.md) — 645
 - [Launch news](../categories/launch-news.md) — 636
@@ -11,12 +11,12 @@
 - [Finance](../categories/finance.md) — 414
 - [Workflow automation](../categories/workflow-automation.md) — 315
 - [Marketing](../categories/marketing.md) — 203
-- [Knowledge & search](../categories/knowledge-search.md) — 146
-- [Scientific research](../categories/scientific-research.md) — 139
+- [Knowledge & search](../categories/knowledge-search.md) — 147
+- [Scientific research](../categories/scientific-research.md) — 140
 - [Content creation](../categories/content-creation.md) — 138
 - [Data analytics](../categories/data-analytics.md) — 127
 - [Cybersecurity](../categories/cybersecurity.md) — 97
-- [Customer support](../categories/customer-support.md) — 70
+- [Customer support](../categories/customer-support.md) — 71
 - [Robotics](../categories/robotics.md) — 64
 - [Software development](../categories/software-development.md) — 56
 - [Business operations](../categories/business-operations.md) — 52

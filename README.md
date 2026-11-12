@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7331</strong><br>curated posts</td>
-<td align="center"><strong>3605</strong><br>original videos</td>
+<td align="center"><strong>7337</strong><br>curated posts</td>
+<td align="center"><strong>3610</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1446</strong> showcases · <strong>600</strong> videos</p>
+<p><strong>1449</strong> showcases · <strong>603</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>146</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>147</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>139</strong> showcases · <strong>39</strong> videos</p>
+<p><strong>140</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -134,7 +134,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/customer-support.md">Customer support</a></h3>
 <p><sub>客户支持</sub></p>
-<p><strong>70</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>71</strong> showcases · <strong>41</strong> videos</p>
 <p><a href="categories/customer-support.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/LittleMomentsTH/status/2120660344750424202"><img src="https://pbs.twimg.com/amplify_video_thumb/2120654017579937792/img/zYMC3Mkm-_k7Hrlf.jpg" alt="Let Jev Pick the Right Model—Faster and Cheaper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/LittleMomentsTH/status/2120660344750424202">Let Jev Pick the Right Model—Faster and Cheaper</a></h3>
-<p>A user shares how they let Jev assess question difficulty and auto-select the right model—no more manual switching, faster work, and lower token usage.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
-<p><strong>Little Moments</strong> · @LittleMomentsTH</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/ItsCuthulhu/status/2120674794190368882"><img src="https://pbs.twimg.com/amplify_video_thumb/2120674752998084608/img/tHQNxAU3POw2RgHl.jpg" alt="Gemini vs Jev Full Benchmark Comparison · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ItsCuthulhu/status/2120674794190368882">Gemini vs Jev Full Benchmark Comparison</a></h3>
+<p>The author notes that Google&#39;s launch table shows Gemini beating Jev 92.2 to 90.0, but that score comes from the public split; running the full battery of all 1,999 questions, Gemini scored 76.9 and was compared against Jev&#39;s results.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/ivanrvpereira/status/2120656645965689144"><img src="https://pbs.twimg.com/media/HW4V-p7a4AABVi8?format=jpg&amp;name=medium" alt="Developer shares using JEV to safely access and bulk-organize work email · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ivanrvpereira/status/2120656645965689144">Developer shares using JEV to safely access and bulk-organize work email</a></h3>
-<p>Ivan Pereira shares on X how he used JEV in his open-source project AgentMailGuard, inspired by @chibionos&#39;s talk at aiDotEngineer, to safely access and bulk-organize work email.</p>
-<p><strong>19</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>Ivan Pereira</strong> · @ivanrvpereira</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/freeman1266/status/2120673393460834589"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/freeman1266/status/2120673393460834589">Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI</a></h3>
+<p>Lao Jin comments that JEV did not continue developing AI coding, but instead pursued Decisions API, saying JEV&#39;s hype is over and decision-making AI has limited application scenarios.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>老金</strong> · @freeman1266</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/topdevfreelance/status/2120651995375964219"><img src="https://pbs.twimg.com/media/HW4Rv_HX0AAXtOp?format=jpg&amp;name=medium" alt="Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/topdevfreelance/status/2120651995375964219">Jev Spurs New Classifier Paradigm: Google Launches Gemini Decisions API</a></h3>
-<p>The author notes that after Jev gained traction, a frontier lab released the Gemini Decisions API, praising this fast and cheap new use case.</p>
-<p><strong>39</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 39</p>
-<p><strong>Alex topDev</strong> · @topdevfreelance</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/sydneyrunkle/status/2120671970887164029"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini Decisions API Launches, Mentions Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/sydneyrunkle/status/2120671970887164029">Gemini Decisions API Launches, Mentions Jev</a></h3>
+<p>Sydney Runkle announces the launch of Google&#39;s Gemini Decisions API, noting it feels similar to Jev and other decision models, while being faster and cheaper, with structured outputs and day-0 LangChain support.</p>
+<p><strong>532</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 5 &nbsp; 📊 532</p>
+<p><strong>Sydney Runkle</strong> · @sydneyrunkle</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/Manorgw/status/2120649521399058816"><img src="https://pbs.twimg.com/media/HWuBnmya8AAKl8i?format=png&amp;name=900x900" alt="Awesome Jev List: 640 Open Source Projects · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Manorgw/status/2120649521399058816">Awesome Jev List: 640 Open Source Projects</a></h3>
-<p>The post highlights the Awesome Jev open-source list, featuring 640 projects built with Jev across 11 categories and 27 languages, with 110 added on September 22 alone, reflecting the Jev ecosystem&#39;s momentum.</p>
-<p><strong>144</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 144</p>
-<p><strong>Man ting</strong> · @Manorgw</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/TomSolidPM/status/2120670600758792224"><img src="https://pbs.twimg.com/amplify_video_thumb/2120670190035750912/img/x3szGx9_COWcJSWw.jpg" alt="User says Jev was the first decision model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/TomSolidPM/status/2120670600758792224">User says Jev was the first decision model</a></h3>
+<p>Tom Solid posts about AI slop made by Fable 5.2, noting that Jev was the first decision model, with Google showing something similar two months later.</p>
+<p><strong>46</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><strong>Tom Solid</strong> · @TomSolidPM</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/LittleMomentsTH/status/2120660344750424202"><img src="https://pbs.twimg.com/amplify_video_thumb/2120654017579937792/img/zYMC3Mkm-_k7Hrlf.jpg" alt="Let Jev Pick the Right Model—Faster and Cheaper · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/LittleMomentsTH/status/2120660344750424202">Let Jev Pick the Right Model—Faster and Cheaper</a></h3>
-<p>A user shares how they let Jev assess question difficulty and auto-select the right model—no more manual switching, faster work, and lower token usage.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
-<p><strong>Little Moments</strong> · @LittleMomentsTH</p>
+<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<a href="https://x.com/ItsCuthulhu/status/2120674794190368882"><img src="https://pbs.twimg.com/amplify_video_thumb/2120674752998084608/img/tHQNxAU3POw2RgHl.jpg" alt="Gemini vs Jev Full Benchmark Comparison · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ItsCuthulhu/status/2120674794190368882">Gemini vs Jev Full Benchmark Comparison</a></h3>
+<p>The author notes that Google&#39;s launch table shows Gemini beating Jev 92.2 to 90.0, but that score comes from the public split; running the full battery of all 1,999 questions, Gemini scored 76.9 and was compared against Jev&#39;s results.</p>
+<p><strong>12</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 12</p>
+<p><strong>Cuth</strong> · @ItsCuthulhu</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/Manorgw/status/2120649521399058816"><img src="https://pbs.twimg.com/media/HWuBnmya8AAKl8i?format=png&amp;name=900x900" alt="Awesome Jev List: 640 Open Source Projects · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Manorgw/status/2120649521399058816">Awesome Jev List: 640 Open Source Projects</a></h3>
-<p>The post highlights the Awesome Jev open-source list, featuring 640 projects built with Jev across 11 categories and 27 languages, with 110 added on September 22 alone, reflecting the Jev ecosystem&#39;s momentum.</p>
-<p><strong>144</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 144</p>
-<p><strong>Man ting</strong> · @Manorgw</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/TomSolidPM/status/2120670600758792224"><img src="https://pbs.twimg.com/amplify_video_thumb/2120670190035750912/img/x3szGx9_COWcJSWw.jpg" alt="User says Jev was the first decision model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/TomSolidPM/status/2120670600758792224">User says Jev was the first decision model</a></h3>
+<p>Tom Solid posts about AI slop made by Fable 5.2, noting that Jev was the first decision model, with Google showing something similar two months later.</p>
+<p><strong>46</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 46</p>
+<p><strong>Tom Solid</strong> · @TomSolidPM</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>客户支持</code> <code>原帖视频</code></p>
+<a href="https://x.com/AIPro_Tomi/status/2120667230015017123"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini Decisions: A Jev-like AI for Decisions, Usable for Customer Support Ticket Routing · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/AIPro_Tomi/status/2120667230015017123">Gemini Decisions: A Jev-like AI for Decisions, Usable for Customer Support Ticket Routing</a></h3>
+<p>This post introduces Google&#39;s Gemini Decisions, an AI focused on decision-making rather than writing. Given options and criteria, it can judge up to 1000 items at no extra cost. The author suggests it could be used for automated customer support ticket classification, drawing a comparison with TypeSafe&#39;s Jev model.</p>
+<p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
+<p><strong>富(Tomi) | AI Producer</strong> · @AIPro_Tomi</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/BroadwakeAI/status/2120642328616657184"><img src="https://pbs.twimg.com/media/HW4I6ZxXgAE_aq3?format=jpg&amp;name=medium" alt="TypeSafe Jev 1.14 Leads Two Benchmarks · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/BroadwakeAI/status/2120642328616657184">TypeSafe Jev 1.14 Leads Two Benchmarks</a></h3>
 <p>The post reports TypeSafe Jev 1.14 outperforming in Mind2Web Multimodal (86.8% vs 86.2%) and When2Call (82.0% vs 79.9%).</p>
 <p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
 <p><strong>BroadwakeAI</strong> · @BroadwakeAI</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖图片</code></p>
-<a href="https://x.com/hammer0x419/status/2120635607869214739"><img src="https://pbs.twimg.com/media/HW4C2SyXQAARapa?format=jpg&amp;name=medium" alt="CS 1.6 Agents Use JEV Action Model · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hammer0x419/status/2120635607869214739">CS 1.6 Agents Use JEV Action Model</a></h3>
-<p>The post describes a Counter-Strike 1.6 agent system: a strategist model plans while the JEV action model handles real-time calls; movement and aim are identical, leaving decisions as the only variable, with 17 recorded rounds on de_dust2.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>Hammer0x419</strong> · @hammer0x419</p>
 </td>
 </tr>
 </table>

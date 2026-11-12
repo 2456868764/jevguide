@@ -1,9 +1,10 @@
 # Cuth
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T00:27:25.000Z | [Gemini vs Jev Full Benchmark Comparison](https://x.com/ItsCuthulhu/status/2120674794190368882) | 科研 | Cuth | 12 |
 | 2026-10-09T21:20:46.000Z | [Community Benchmark: mercury-decide-free beats Jev on s1bench](https://x.com/ItsCuthulhu/status/2108669021843521802) | 社区实践 | Cuth | 63 |
 | 2026-10-07T14:21:20.000Z | [Autojev vs Jev: A Personal Benchmark](https://x.com/ItsCuthulhu/status/2107838690340856146) | 社区实践 | Cuth | 10 |
 | 2026-10-02T02:25:26.000Z | [Jev as a Judge on Celeris-1: AIME Up but Higher Cost](https://x.com/ItsCuthulhu/status/2105846590573256856) | 社区实践 | Cuth | 15 |

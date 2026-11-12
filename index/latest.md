@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T00:56:16.000Z | [Building an autonomous sales agent with Jev](https://x.com/amirmxt/status/2120682052685275422) | 智能体 | amirmxt | 45 |
+| 2026-11-12T00:46:05.000Z | [JEV vs grok-4.7 decision experiment in GTA V](https://x.com/hammer0x419/status/2120679490854474006) | 游戏 | Hammer0x419 | 13 |
+| 2026-11-12T00:37:34.000Z | [Jev Nears Opus Accuracy in Identity Sweeps at Lower Cost](https://x.com/Future_AI_TW/status/2120677345103155358) | 数据分析 | AI觀察日記 \| 聽趨勢・看未來 | 3 |
 | 2026-11-12T00:27:25.000Z | [Gemini vs Jev Full Benchmark Comparison](https://x.com/ItsCuthulhu/status/2120674794190368882) | 科研 | Cuth | 12 |
 | 2026-11-12T00:21:51.000Z | [Community Discussion: JEV Pivots to Decisions API, Doubts Raised About Decision AI](https://x.com/freeman1266/status/2120673393460834589) | 社区实践 | 老金 | 11 |
 | 2026-11-12T00:16:12.000Z | [Gemini Decisions API Launches, Mentions Jev](https://x.com/sydneyrunkle/status/2120671970887164029) | 社区实践 | Sydney Runkle | 532 |
@@ -99,6 +102,3 @@
 | 2026-11-11T01:09:09.000Z | [Study Compares Jev Decision Model with LLMs: 5-350x Faster, 16-357x Cheaper](https://x.com/mm_0824_kb/status/2120322908782555595) | 科研 | 金融系DS \| LLM・AIエージェント・RAG | 47 |
 | 2026-11-11T01:01:05.000Z | [Jev use case: ordering from a menu](https://x.com/goncalo_canhoto/status/2120320878647062685) | 社区实践 | Gonçalo Canhoto 🇵🇹 | 57 |
 | 2026-11-11T00:37:27.000Z | [Jev Hires DeepSeek to Fix Leap Year Check](https://x.com/usebrainchain/status/2120314930033500196) | 智能体 | BrainChain | 71 |
-| 2026-11-11T00:19:20.000Z | [A video showcasing Jev and the rest of Copper](https://x.com/CollinRijock/status/2120310369319043072) | 社区实践 | Collin Rijock | 0 |
-| 2026-11-11T00:07:18.000Z | [Flide: Open-Source Inference Infrastructure for Jev-Style Decision Models](https://x.com/ScottNLP/status/2120307343015751923) | 产品发布 | Scofield Hao Fei | 8 |
-| 2026-11-10T23:52:42.000Z | [Jev Voice Ordering Demo](https://x.com/yoshienagatomo/status/2120303668256018490) | 智能体 | 長友好江\|AIエージェントの家庭教師 | 22 |

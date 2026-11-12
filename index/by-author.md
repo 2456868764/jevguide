@@ -36,6 +36,7 @@
 - [David Bressler](../authors/david-bressler.md) — 9
 - [ForgeAI](../authors/forgeai.md) — 9
 - [Gipp 🦅](../authors/gipp.md) — 9
+- [Hammer0x419](../authors/hammer0x419.md) — 9
 - [Kurt](../authors/kurt.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
@@ -43,7 +44,6 @@
 - [Benchmark Heaven](../authors/benchmark-heaven.md) — 8
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 8
-- [Hammer0x419](../authors/hammer0x419.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
 - [rewind](../authors/rewind.md) — 8
@@ -1271,6 +1271,7 @@
 - [AI活用ラボ@Levela](../authors/ai活用-levela.md) — 1
 - [AI蒸留氏](../authors/ai蒸留氏.md) — 1
 - [AI狮傅🦁](../authors/ai狮傅.md) — 1
+- [AI觀察日記 | 聽趨勢・看未來](../authors/ai觀察日記-聽趨勢-看未來.md) — 1
 - [AI速報【AI&ChatGPT最新情報】](../authors/ai速報-ai-chatgpt最新情報.md) — 1
 - [AJ Asver](../authors/aj-asver.md) — 1
 - [Ajain Vivek](../authors/ajain-vivek.md) — 1
@@ -1370,6 +1371,7 @@
 - [Amir Efrati](../authors/amir-efrati.md) — 1
 - [Amir Hamza](../authors/amir-hamza.md) — 1
 - [Amir Salihefendić](../authors/amir-salihefendic.md) — 1
+- [amirmxt](../authors/amirmxt.md) — 1
 - [Amit B](../authors/amit-b.md) — 1
 - [Amit Gambhir](../authors/amit-gambhir.md) — 1
 - [Amit Mirgal 🇮🇳](../authors/amit-mirgal.md) — 1

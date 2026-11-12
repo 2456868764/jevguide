@@ -1,9 +1,10 @@
 # morph
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T11:12:44.000Z | [Jev surpassed? XERJ launches at an ultra-low price](https://x.com/morpphhhaw/status/2120837190594810052) | 产品发布 | morph | 93 |
 | 2026-10-25T11:09:35.000Z | [Six AI tools argue over product ideas overnight with Jev](https://x.com/morpphhhaw/status/2114313418719007028) | 自动化工作流 | morph | 210 |
 | 2026-10-01T11:05:47.000Z | [A treasure for JEV devs: founder's favorite GitHub repos](https://x.com/morpphhhaw/status/2105615151588131032) | 开发资源 | morph | 450 |
 | 2026-09-29 | [Build 24/7 AI Trading Bots with Opus 5.5 + Jev](https://x.com/morpphhhaw/status/2104890981157892255) | 金融 | morph | 190 |

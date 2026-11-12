@@ -66,6 +66,7 @@
 - [Md Ismail Šojal 🕷️](../authors/md-ismail-sojal.md) — 7
 - [Melvin Vivas](../authors/melvin-vivas.md) — 7
 - [mikaeru](../authors/mikaeru.md) — 7
+- [morph](../authors/morph.md) — 7
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 7
 - [OmniRail](../authors/omnirail.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
@@ -86,7 +87,6 @@
 - [Mika](../authors/mika.md) — 6
 - [Mike Taylor](../authors/mike-taylor.md) — 6
 - [Moritz Kremb](../authors/moritz-kremb.md) — 6
-- [morph](../authors/morph.md) — 6
 - [NeoSigma](../authors/neosigma.md) — 6
 - [Philip](../authors/philip.md) — 6
 - [Prasenjit Sarkar](../authors/prasenjit-sarkar.md) — 6
@@ -2877,6 +2877,7 @@
 - [Leandro Ferreira](../authors/leandro-ferreira.md) — 1
 - [Learn OceanBase](../authors/learn-oceanbase.md) — 1
 - [LEAW.](../authors/leaw.md) — 1
+- [Lee](../authors/lee.md) — 1
 - [Lee Rosen](../authors/lee-rosen.md) — 1
 - [leiro](../authors/leiro.md) — 1
 - [Lenny Enderle](../authors/lenny-enderle.md) — 1
@@ -3223,6 +3224,7 @@
 - [Mαulik ✦](../authors/m-ulik.md) — 1
 - [N DIVIJ](../authors/n-divij.md) — 1
 - [N8 Programs](../authors/n8-programs.md) — 1
+- [n8n.io](../authors/n8n-io.md) — 1
 - [Nabarun](../authors/nabarun.md) — 1
 - [Nabil Baugher](../authors/nabil-baugher.md) — 1
 - [Nacho Business](../authors/nacho-business.md) — 1
@@ -4087,6 +4089,7 @@
 - [tawasee](../authors/tawasee.md) — 1
 - [Tawfek Sraj](../authors/tawfek-sraj.md) — 1
 - [Tech Ducky](../authors/tech-ducky.md) — 1
+- [Tech in Asia](../authors/tech-in-asia.md) — 1
 - [TechBiz](../authors/techbiz.md) — 1
 - [Techguyver](../authors/techguyver.md) — 1
 - [Techie Sapien](../authors/techie-sapien.md) — 1

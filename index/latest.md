@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T11:12:44.000Z | [Jev surpassed? XERJ launches at an ultra-low price](https://x.com/morpphhhaw/status/2120837190594810052) | 产品发布 | morph | 93 |
+| 2026-11-12T11:06:01.000Z | [Google Launches Gemini Decisions API, a Major Competitor to Jev](https://x.com/leeknowsAI/status/2120835502496788755) | 产品发布 | Lee | 18 |
+| 2026-11-12T11:00:11.000Z | [TypeSafe's Jev: Two Years in the Making, Facing New Rivals](https://x.com/techinasia/status/2120834035433820630) | 产品发布 | Tech in Asia | 129 |
+| 2026-11-12T10:51:04.000Z | [Building an AI news filtering workflow with Jev](https://x.com/n8n_io/status/2120831738666500510) | 自动化工作流 | n8n.io | 846 |
 | 2026-11-12T10:28:51.000Z | [Google Releases Gemini Decision 1 with JevBench Score 92.2%](https://x.com/Inomsxbt/status/2120826147705692458) | 产品发布 | Inoms | 77 |
 | 2026-11-12T10:09:51.000Z | [Multi-model collaboration: Jev as implementation branch](https://x.com/HarmNao/status/2120821368308846871) | 自动化工作流 | Nao | 60 |
 | 2026-11-12T10:00:06.000Z | [EmbeddingGemma 2 Drives Dash in Infinite Dash Run](https://x.com/ShuregDenisov/status/2120818912875119055) | 工作原理 | Sasha Denisov | 28 |
@@ -98,7 +102,3 @@
 | 2026-11-11T18:35:56.000Z | [Google is launching its own equivalent of Jev](https://x.com/Taytus/status/2120586340089627105) | 产品发布 | Roberto Inetti | 66 |
 | 2026-11-11T18:35:56.000Z | [Jev tested as prompt injection guard for email agent](https://x.com/kevintheo/status/2120586339523694876) | 网络安全 | Kevin Theo | 61 |
 | 2026-11-11T18:34:31.000Z | [Jev input token pricing remains $0.042/MTok](https://x.com/MehulFanawala/status/2120585983444033615) | 接入动态 | Mehul Fanawala | 199 |
-| 2026-11-11T18:30:44.000Z | [Google's Gemini Decision 1 Steps Into TypeSafe Jev's Category](https://x.com/DevvratHans/status/2120585028522696717) | 产品发布 | Devvrat Hans | 95 |
-| 2026-11-11T18:29:39.000Z | [Google launches Gemini Decisions API, similar to TypeSafe's Jev](https://x.com/ErickSky/status/2120584758077870163) | 产品发布 | Erick | 3.6K |
-| 2026-11-11T15:13:17.000Z | [GRIN: Using Jev to Flag EU Greenwashing Risks](https://x.com/rafa_maker/status/2120535342503678461) | 法律合规 | Rafa | 7 |
-| 2026-11-11T15:06:26.000Z | [Optimizing Jev prompts with DSPyMator + GEPA](https://x.com/CrowdCent/status/2120533616065487055) | 社区实践 | CrowdCent | 5 |

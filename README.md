@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7376</strong><br>curated posts</td>
-<td align="center"><strong>3623</strong><br>original videos</td>
+<td align="center"><strong>7380</strong><br>curated posts</td>
+<td align="center"><strong>3626</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>649</strong> showcases · <strong>289</strong> videos</p>
+<p><strong>652</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>317</strong> showcases · <strong>192</strong> videos</p>
+<p><strong>318</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Inomsxbt/status/2120826147705692458"><img src="https://pbs.twimg.com/media/HW6wIjsa4AAY7pC?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1 with JevBench Score 92.2% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Inomsxbt/status/2120826147705692458">Google Releases Gemini Decision 1 with JevBench Score 92.2%</a></h3>
-<p>Gemini Decision 1 is Google&#39;s new model for agent workflows, scoring 92.2% on JevBench, beating Jev 1.14 on 5 of 7 shared benchmarks, and handling images, audio, video, and PDFs with a 256K context window.</p>
-<p><strong>77</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 77</p>
-<p><strong>Inoms</strong> · @Inomsxbt</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/morpphhhaw/status/2120837190594810052"><img src="https://pbs.twimg.com/amplify_video_thumb/2120836989612150784/img/YsAbL3HCFLirPWK_.jpg" alt="Jev surpassed? XERJ launches at an ultra-low price · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/morpphhhaw/status/2120837190594810052">Jev surpassed? XERJ launches at an ultra-low price</a></h3>
+<p>The new model XERJ is extremely cheap: it reads a document and either highlights the exact answer or says “no answer found.” It claims to be roughly 1050x cheaper than Claude Opus 5.5 and 26x cheaper than Jev.</p>
+<p><strong>93</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 93</p>
+<p><strong>morph</strong> · @morpphhhaw</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/HarmNao/status/2120821368308846871"><img src="https://pbs.twimg.com/amplify_video_thumb/2120593723704643584/img/kwDGEdaSJ6uWQS0i.jpg" alt="Multi-model collaboration: Jev as implementation branch · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HarmNao/status/2120821368308846871">Multi-model collaboration: Jev as implementation branch</a></h3>
-<p>The author designs a multi-model workflow: GrokBot for monitoring, Fable5.2 as the commander, Jev for the implementation branch, Paper as the design axis, and notes that Webhook can be used to coordinate with the UI bot on the other side.</p>
-<p><strong>60</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
-<p><strong>Nao</strong> · @HarmNao</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/leeknowsAI/status/2120835502496788755"><img src="https://pbs.twimg.com/amplify_video_thumb/2120833842617651200/img/osoaUs0BMm0pcklt.jpg" alt="Google Launches Gemini Decisions API, a Major Competitor to Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/leeknowsAI/status/2120835502496788755">Google Launches Gemini Decisions API, a Major Competitor to Jev</a></h3>
+<p>Google&#39;s newly introduced Gemini Decisions API takes an approach similar to TypeSafe AI&#39;s Jev: instead of generating natural-language responses, it returns structured decisions for software to use.</p>
+<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
+<p><strong>Lee</strong> · @leeknowsAI</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖视频</code></p>
-<a href="https://x.com/ShuregDenisov/status/2120818912875119055"><img src="https://pbs.twimg.com/tweet_video_thumb/HW6pimWaAAAGF0G.jpg" alt="EmbeddingGemma 2 Drives Dash in Infinite Dash Run · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ShuregDenisov/status/2120818912875119055">EmbeddingGemma 2 Drives Dash in Infinite Dash Run</a></h3>
-<p>After #FlutterCreate, Sasha Denisov integrated EmbeddingGemma 2 into the Infinite Dash Run sample so Dash runs from the screen alone, and shared a PR plus the first part of a &#39;Jev on device&#39; article explaining how it works.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>Sasha Denisov</strong> · @ShuregDenisov</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/techinasia/status/2120834035433820630"><img src="https://pbs.twimg.com/media/HW63Ty-WwAAR5gw?format=jpg&amp;name=900x900" alt="TypeSafe&#39;s Jev: Two Years in the Making, Facing New Rivals · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/techinasia/status/2120834035433820630">TypeSafe&#39;s Jev: Two Years in the Making, Facing New Rivals</a></h3>
+<p>Tech in Asia reports that TypeSafe&#39;s Jev AI decision model took two years to build, while rival decision models emerged within weeks. With competition heating up, the article explores what will set these models apart.</p>
+<p><strong>129</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 129</p>
+<p><strong>Tech in Asia</strong> · @techinasia</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/FinanceYF5/status/2120817669637312525"><img src="https://pbs.twimg.com/amplify_video_thumb/2120817381958430720/img/NzR5bZWE9c9J3L4P.jpg" alt="TypeSafe Releases Jev, a Small Model for Judging · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FinanceYF5/status/2120817669637312525">TypeSafe Releases Jev, a Small Model for Judging</a></h3>
-<p>The post mentions that at the 2026 Silicon Valley AIE Conference, startup TypeSafe released Jev, a small model for judging, on September 15, and within eight weeks OpenAI, Cloudflare, and Google followed suit.</p>
-<p><strong>446</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 446</p>
-<p><strong>AI Will</strong> · @FinanceYF5</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/n8n_io/status/2120831738666500510"><img src="https://pbs.twimg.com/media/HW61OjEWMAA2oth.jpg" alt="Building an AI news filtering workflow with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/n8n_io/status/2120831738666500510">Building an AI news filtering workflow with Jev</a></h3>
+<p>n8n shows an automation example: You.com finds news, Jev filters what&#39;s worth researching for ~$0.00004/article, then You.com research goes deeper, producing cited briefs with less noise and no Slack spam on quiet days.</p>
+<p><strong>846</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 846</p>
+<p><strong>n8n.io</strong> · @n8n_io</p>
 </td>
 </tr>
 </table>
@@ -295,7 +295,25 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/morpphhhaw/status/2120837190594810052"><img src="https://pbs.twimg.com/amplify_video_thumb/2120836989612150784/img/YsAbL3HCFLirPWK_.jpg" alt="Jev surpassed? XERJ launches at an ultra-low price · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/morpphhhaw/status/2120837190594810052">Jev surpassed? XERJ launches at an ultra-low price</a></h3>
+<p>The new model XERJ is extremely cheap: it reads a document and either highlights the exact answer or says “no answer found.” It claims to be roughly 1050x cheaper than Claude Opus 5.5 and 26x cheaper than Jev.</p>
+<p><strong>93</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 93</p>
+<p><strong>morph</strong> · @morpphhhaw</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/n8n_io/status/2120831738666500510"><img src="https://pbs.twimg.com/media/HW61OjEWMAA2oth.jpg" alt="Building an AI news filtering workflow with Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/n8n_io/status/2120831738666500510">Building an AI news filtering workflow with Jev</a></h3>
+<p>n8n shows an automation example: You.com finds news, Jev filters what&#39;s worth researching for ~$0.00004/article, then You.com research goes deeper, producing cited briefs with less noise and no Slack spam on quiet days.</p>
+<p><strong>846</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 846</p>
+<p><strong>n8n.io</strong> · @n8n_io</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/Inomsxbt/status/2120826147705692458"><img src="https://pbs.twimg.com/media/HW6wIjsa4AAY7pC?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1 with JevBench Score 92.2% · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/Inomsxbt/status/2120826147705692458">Google Releases Gemini Decision 1 with JevBench Score 92.2%</a></h3>
 <p>Gemini Decision 1 is Google&#39;s new model for agent workflows, scoring 92.2% on JevBench, beating Jev 1.14 on 5 of 7 shared benchmarks, and handling images, audio, video, and PDFs with a 256K context window.</p>
@@ -303,30 +321,12 @@ Start with verified Jev posts.
 <p><strong>Inoms</strong> · @Inomsxbt</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/FinanceYF5/status/2120817669637312525"><img src="https://pbs.twimg.com/amplify_video_thumb/2120817381958430720/img/NzR5bZWE9c9J3L4P.jpg" alt="TypeSafe Releases Jev, a Small Model for Judging · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/FinanceYF5/status/2120817669637312525">TypeSafe Releases Jev, a Small Model for Judging</a></h3>
-<p>The post mentions that at the 2026 Silicon Valley AIE Conference, startup TypeSafe released Jev, a small model for judging, on September 15, and within eight weeks OpenAI, Cloudflare, and Google followed suit.</p>
-<p><strong>446</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 446</p>
-<p><strong>AI Will</strong> · @FinanceYF5</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/hkprogsociety/status/2120813677641388275"><img src="https://pbs.twimg.com/media/HW6kzF-awAAWWs8?format=jpg&amp;name=medium" alt="Jev and the Era of Model Tetris · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hkprogsociety/status/2120813677641388275">Jev and the Era of Model Tetris</a></h3>
-<p>Hong Kong Programming Society shares a link to an article about Jev and the era of model composition.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Hong Kong Programming Society</strong> · @hkprogsociety</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/KarayatAj/status/2120775743663747079"><img src="https://pbs.twimg.com/media/HW6CLG6asAAxNKJ?format=jpg&amp;name=medium" alt="Jev + Neo4j: A Typed Decision Model in the Graph for Transit Routing · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/KarayatAj/status/2120775743663747079">Jev + Neo4j: A Typed Decision Model in the Graph for Transit Routing</a></h3>
-<p>Ajay Singh Karayat shares Akmal Chaudhri&#39;s talk on building a typed decision model in the graph with Jev and Neo4j, applied to transit routing and logistics.</p>
-<p><strong>19</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 19</p>
-<p><strong>Ajay Singh Karayat</strong> · @KarayatAj</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/yumamaeda1210/status/2120804159746392533"><img src="https://pbs.twimg.com/media/HW6cI35a0AENBJo?format=jpg&amp;name=medium" alt="Google Launches Jev-like Decision AI API · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/yumamaeda1210/status/2120804159746392533">Google Launches Jev-like Decision AI API</a></h3>
+<p>The post introduces Google&#39;s Gemini Decisions API, which evaluates up to 1,000 questions at once, supports text, images, audio, video, and PDF, takes about 0.15–0.25 seconds per decision, costs $0.10 per million input tokens, and outputs confidence scores.</p>
+<p><strong>53</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
+<p><strong>前田悠馬｜御社専用のAIツールをいつでも何個でも開発します</strong> · @yumamaeda1210</p>
 </td>
 </tr>
 </table>

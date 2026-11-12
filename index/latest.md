@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T14:38:51.000Z | [Using GOAT to Call DS and Jev, Easier API Management](https://x.com/Shijun537/status/2120889062689305000) | 社区实践 | Shijun537 | 11 |
+| 2026-11-12T14:35:55.000Z | [JEV picks every move in ForgeAI-hosted agents](https://x.com/ForgeAI_gg/status/2120888324831269117) | 智能体 | ForgeAI | 33 |
+| 2026-11-12T14:35:08.000Z | [Google releases Gemini Decisions API, competing with Jev and OpenAI](https://x.com/xcanchal/status/2120888128894386666) | 产品发布 | Xavi | 14 |
+| 2026-11-12T14:30:01.000Z | [Google launches Gemini Decision 1, competing with TypeSafe's Jev](https://x.com/JamesMalsawm/status/2120886838860623936) | 产品发布 | James Malsawm | 238 |
+| 2026-11-12T14:30:00.000Z | [Jev drives safe decisions with a confidence threshold](https://x.com/TokyoFuturo/status/2120886835987804166) | 工作原理 | Tokyo Futuro | 17 |
+| 2026-11-12T14:30:00.000Z | [Jev's Decisions Are Publicly Recorded via MCP](https://x.com/TokyoFuturo/status/2120886837707424098) | 智能体 | Tokyo Futuro | 6 |
 | 2026-11-12T14:01:01.000Z | [Paul to Explore Jev and System One Models at AICOBoston](https://x.com/realactivityusa/status/2120879540553601400) | 社区实践 | RealActivity - Mission Critical Healthcare Systems | 5 |
 | 2026-11-12T14:00:30.000Z | [Google Launches Gemini Decision API, Rivaling TypeSafe Jev](https://x.com/Linkszh6/status/2120879413591990323) | 产品发布 | Links | 14 |
 | 2026-11-12T13:58:48.000Z | [Can Jev Decide the Model Size?](https://x.com/odelljeremy/status/2120878985919988154) | 智能体 | Jeremy Odell | 1 |
@@ -96,9 +102,3 @@
 | 2026-11-11T20:03:04.000Z | [Another Jev killer from Google](https://x.com/fcakyon/status/2120608265725685893) | 产品发布 | fatih c. akyon | 311 |
 | 2026-11-11T19:51:56.000Z | [AI SDK introduces decide() decision models for the launch of Jev](https://x.com/steren/status/2120605466762035571) | 产品发布 | Steren | 646 |
 | 2026-11-11T19:48:00.000Z | [Google releases a Jev-like decision model](https://x.com/Sin_Yiyao/status/2120604474276475300) | 产品发布 | SinFire | 82 |
-| 2026-11-11T19:40:24.000Z | [Jev After Eight Weeks: 1.4B Weekly Requests, Workday Adoption](https://x.com/JaySym_/status/2120602561787092994) | 社区实践 | JaySym | 14 |
-| 2026-11-11T19:33:50.000Z | [Google Launches Gemini Decisions API, Targeting Jev](https://x.com/VaibhavSisinty/status/2120600909336211491) | 产品发布 | Vaibhav Sisinty | 1.0K |
-| 2026-11-11T19:27:45.000Z | [User considering Jev for multimodal capabilities](https://x.com/kenykore/status/2120599378968904021) | 社区实践 | O.K | 24 |
-| 2026-11-11T19:25:38.000Z | [Discussion about Jev decision models](https://x.com/neo_zerg/status/2120598844991791338) | 社区实践 | B_a_aB | 5 |
-| 2026-11-11T19:17:25.000Z | [Cloudflare launched its version of Jev?](https://x.com/helloLizZhang/status/2120596778567500086) | 社区实践 | Liz Zhang | 22 |
-| 2026-11-11T19:11:10.000Z | [A Jev killer? TypeSafe's Jev prompts big-tech responses](https://x.com/PacomyICOR/status/2120595205141459228) | 生产力 | Paco Cantero | 215 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 657 | 292 | 368 | 1.1M |
+| 659 | 292 | 370 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/xcanchal/status/2120888128894386666"><img src="https://pbs.twimg.com/media/HW7oanbW8AA_GSl?format=jpg&amp;name=medium" alt="Google releases Gemini Decisions API, competing with Jev and OpenAI · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/xcanchal/status/2120888128894386666">Google releases Gemini Decisions API, competing with Jev and OpenAI</a></h3>
+<p>According to the post, Google released the Gemini Decisions API, which is fast and multimodal, scoring 1,000 choices at once with $0 output cost. The move is seen as a bet against Jev and OpenAI.</p>
+<p><strong>中文摘要：</strong>据帖子称，Google 发布了 Gemini Decisions API，具备快速、多模态能力，并以零输出成本同时评估 1000 个选项。此举被视为对 Jev 和 OpenAI 的竞争押注。</p>
+<p><strong>Xavi</strong> · @xcanchal · 2026-11-12T14:35:08.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><a href="https://x.com/xcanchal/status/2120888128894386666">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/JamesMalsawm/status/2120886838860623936"><img src="https://pbs.twimg.com/media/HW7DL8wbsAAxKYm?format=jpg&amp;name=medium" alt="Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/JamesMalsawm/status/2120886838860623936">Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev</a></h3>
+<p>The post notes Google launched Gemini Decision 1 as a competitor to TypeSafe&#39;s Jev, with pricing of $0.10 per 1M input tokens vs. $0.042 for Jev.</p>
+<p><strong>中文摘要：</strong>帖子指出Google推出了Gemini Decision 1，将其定位为TypeSafe Jev的竞品，并给出每百万输入token的价格对比：Gemini 0.10美元 vs Jev 0.042美元。</p>
+<p><strong>James Malsawm</strong> · @JamesMalsawm · 2026-11-12T14:30:01.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 238</p>
+<p><a href="https://x.com/JamesMalsawm/status/2120886838860623936">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Linkszh6/status/2120879413591990323"><img src="https://pbs.twimg.com/media/HW7glnMWUAE1oBD?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision API, Rivaling TypeSafe Jev · 原帖图片" width="100%"></a>

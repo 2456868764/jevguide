@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7396</strong><br>curated posts</td>
-<td align="center"><strong>3630</strong><br>original videos</td>
+<td align="center"><strong>7402</strong><br>curated posts</td>
+<td align="center"><strong>3631</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1464</strong> showcases · <strong>609</strong> videos</p>
+<p><strong>1465</strong> showcases · <strong>609</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>657</strong> showcases · <strong>292</strong> videos</p>
+<p><strong>659</strong> showcases · <strong>292</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>648</strong> showcases · <strong>286</strong> videos</p>
+<p><strong>649</strong> showcases · <strong>286</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>623</strong> showcases · <strong>330</strong> videos</p>
+<p><strong>625</strong> showcases · <strong>331</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -206,37 +206,37 @@ Recently added Jev posts, ordered by source publish date.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/realactivityusa/status/2120879540553601400"><img src="https://pbs.twimg.com/media/HW7gs9yW0AAXC9k?format=jpg&amp;name=medium" alt="Paul to Explore Jev and System One Models at AICOBoston · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/realactivityusa/status/2120879540553601400">Paul to Explore Jev and System One Models at AICOBoston</a></h3>
-<p>This post announces Paul Swider&#39;s upcoming talk at AICOBoston, where he&#39;ll discuss Jev, System One models, and faster AI agent decisions with Azure AI Foundry.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>RealActivity - Mission Critical Healthcare Systems</strong> · @realactivityusa</p>
+<a href="https://x.com/Shijun537/status/2120889062689305000"><img src="https://pbs.twimg.com/media/HW7pMWebEAAv07F?format=jpg&amp;name=medium" alt="Using GOAT to Call DS and Jev, Easier API Management · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Shijun537/status/2120889062689305000">Using GOAT to Call DS and Jev, Easier API Management</a></h3>
+<p>User shares a method learned today: calling DS and Jev via GOAT, making API management easier.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Shijun537</strong> · @Shijun537</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Linkszh6/status/2120879413591990323"><img src="https://pbs.twimg.com/media/HW7glnMWUAE1oBD?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision API, Rivaling TypeSafe Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Linkszh6/status/2120879413591990323">Google Launches Gemini Decision API, Rivaling TypeSafe Jev</a></h3>
-<p>Google AI Studio released a new Gemini Decision API, powered by the multimodal decision model Gemini Decision 1, capable of batch processing thousands of questions at once and outputting calibrated probability judgments. The post regards it as a big-tech rival to TypeSafe Jev and includes a benchmark table.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Links</strong> · @Linkszh6</p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/ForgeAI_gg/status/2120888324831269117"><img src="https://pbs.twimg.com/media/HW7osUFW4AAq9BF?format=jpg&amp;name=medium" alt="JEV picks every move in ForgeAI-hosted agents · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ForgeAI_gg/status/2120888324831269117">JEV picks every move in ForgeAI-hosted agents</a></h3>
+<p>ForgeAI shared results from 8,702 moves across 12 runs and 6 models, with the top five finishing within 49 points of each other. In this setup, the model writes the plan and JEV selects each move on ForgeAI-hosted agents.</p>
+<p><strong>33</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/odelljeremy/status/2120878985919988154"><img src="https://pbs.twimg.com/media/HW7gJFhXsAAiBhJ?format=png&amp;name=medium" alt="Can Jev Decide the Model Size? · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/odelljeremy/status/2120878985919988154">Can Jev Decide the Model Size?</a></h3>
-<p>The author shares that in 30 days and 270 coding stories, 56% ran below the top tier, and asks whether a small decision model like Jev should be trusted to pick the model size.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Jeremy Odell</strong> · @odelljeremy</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/xcanchal/status/2120888128894386666"><img src="https://pbs.twimg.com/media/HW7oanbW8AA_GSl?format=jpg&amp;name=medium" alt="Google releases Gemini Decisions API, competing with Jev and OpenAI · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/xcanchal/status/2120888128894386666">Google releases Gemini Decisions API, competing with Jev and OpenAI</a></h3>
+<p>According to the post, Google released the Gemini Decisions API, which is fast and multimodal, scoring 1,000 choices at once with $0 output cost. The move is seen as a bet against Jev and OpenAI.</p>
+<p><strong>14</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Xavi</strong> · @xcanchal</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/heyLuminvera/status/2120878384448442767"><img src="https://pbs.twimg.com/media/HW7flrLWoAA5mKp?format=jpg&amp;name=medium" alt="Jev classifies support tickets: 500 emails in 5.5 seconds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/heyLuminvera/status/2120878384448442767">Jev classifies support tickets: 500 emails in 5.5 seconds</a></h3>
-<p>Jev doesn&#39;t write—it picks categories like billing, refund, shipping and provides confidence scores, enabling fast and cheap support ticket routing without expensive frontier models.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Luminvera | Custom Software Development | Forge</strong> · @heyLuminvera</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/JamesMalsawm/status/2120886838860623936"><img src="https://pbs.twimg.com/media/HW7DL8wbsAAxKYm?format=jpg&amp;name=medium" alt="Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/JamesMalsawm/status/2120886838860623936">Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev</a></h3>
+<p>The post notes Google launched Gemini Decision 1 as a competitor to TypeSafe&#39;s Jev, with pricing of $0.10 per 1M input tokens vs. $0.042 for Jev.</p>
+<p><strong>238</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 238</p>
+<p><strong>James Malsawm</strong> · @JamesMalsawm</p>
 </td>
 </tr>
 </table>
@@ -296,37 +296,37 @@ Start with verified Jev posts.
 <tr>
 <td width="50%" valign="top">
 <p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/realactivityusa/status/2120879540553601400"><img src="https://pbs.twimg.com/media/HW7gs9yW0AAXC9k?format=jpg&amp;name=medium" alt="Paul to Explore Jev and System One Models at AICOBoston · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/realactivityusa/status/2120879540553601400">Paul to Explore Jev and System One Models at AICOBoston</a></h3>
-<p>This post announces Paul Swider&#39;s upcoming talk at AICOBoston, where he&#39;ll discuss Jev, System One models, and faster AI agent decisions with Azure AI Foundry.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>RealActivity - Mission Critical Healthcare Systems</strong> · @realactivityusa</p>
+<a href="https://x.com/Shijun537/status/2120889062689305000"><img src="https://pbs.twimg.com/media/HW7pMWebEAAv07F?format=jpg&amp;name=medium" alt="Using GOAT to Call DS and Jev, Easier API Management · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Shijun537/status/2120889062689305000">Using GOAT to Call DS and Jev, Easier API Management</a></h3>
+<p>User shares a method learned today: calling DS and Jev via GOAT, making API management easier.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>Shijun537</strong> · @Shijun537</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>客户支持</code> <code>原帖图片</code></p>
-<a href="https://x.com/heyLuminvera/status/2120878384448442767"><img src="https://pbs.twimg.com/media/HW7flrLWoAA5mKp?format=jpg&amp;name=medium" alt="Jev classifies support tickets: 500 emails in 5.5 seconds · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/heyLuminvera/status/2120878384448442767">Jev classifies support tickets: 500 emails in 5.5 seconds</a></h3>
-<p>Jev doesn&#39;t write—it picks categories like billing, refund, shipping and provides confidence scores, enabling fast and cheap support ticket routing without expensive frontier models.</p>
-<p><strong>5</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>Luminvera | Custom Software Development | Forge</strong> · @heyLuminvera</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/JamesMalsawm/status/2120886838860623936"><img src="https://pbs.twimg.com/media/HW7DL8wbsAAxKYm?format=jpg&amp;name=medium" alt="Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/JamesMalsawm/status/2120886838860623936">Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev</a></h3>
+<p>The post notes Google launched Gemini Decision 1 as a competitor to TypeSafe&#39;s Jev, with pricing of $0.10 per 1M input tokens vs. $0.042 for Jev.</p>
+<p><strong>238</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 238</p>
+<p><strong>James Malsawm</strong> · @JamesMalsawm</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
+<a href="https://x.com/TokyoFuturo/status/2120886835987804166"><img src="https://pbs.twimg.com/media/HW5A5DDWEAANx16?format=jpg&amp;name=medium" alt="Jev drives safe decisions with a confidence threshold · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/TokyoFuturo/status/2120886835987804166">Jev drives safe decisions with a confidence threshold</a></h3>
+<p>Jev answers in odds: a chain action is triggered only when it is at least 80 out of 100 sure; otherwise the safe default applies and no action is taken on a hunch.</p>
+<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
+<p><strong>Tokyo Futuro</strong> · @TokyoFuturo</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>工作原理</code> <code>原帖图片</code></p>
 <a href="https://x.com/studio_yebisu/status/2120874813673877865"><img src="https://pbs.twimg.com/media/HW7TB66aYAAcWZT?format=jpg&amp;name=medium" alt="Organizing Jev-Style Decision Models: What Do They Actually Do? · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/studio_yebisu/status/2120874813673877865">Organizing Jev-Style Decision Models: What Do They Actually Do?</a></h3>
 <p>After Google released Gemini Decision 1, the author reorganized Jev-style decision models and explained that decision models are AI models that only make judgments or decisions.</p>
 <p><strong>823</strong> views · 💬 0 &nbsp; 🔁 2 &nbsp; ♡ 15 &nbsp; 📊 823</p>
 <p><strong>StudioYebisu</strong> · @studio_yebisu</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/ItsGoharr/status/2120857406792143206"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="TypeSafe&#39;s Jev Opens a New Category in AI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ItsGoharr/status/2120857406792143206">TypeSafe&#39;s Jev Opens a New Category in AI</a></h3>
-<p>The user believes it can be concluded with high certainty that TypeSafe started a whole new category in AI with Jev.</p>
-<p><strong>62</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 62</p>
-<p><strong>Anderson</strong> · @ItsGoharr</p>
 </td>
 </tr>
 </table>

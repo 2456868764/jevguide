@@ -28,6 +28,7 @@
 - [AI_GOAT](../authors/ai-goat.md) — 10
 - [Ben Newton ベン](../authors/ben-newton.md) — 10
 - [Dhanian 🗯️](../authors/dhanian.md) — 10
+- [ForgeAI](../authors/forgeai.md) — 10
 - [Hammer0x419](../authors/hammer0x419.md) — 10
 - [Jason Zhu](../authors/jason-zhu.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
@@ -35,7 +36,6 @@
 - [AI Edge](../authors/ai-edge.md) — 9
 - [Alex](../authors/alex.md) — 9
 - [David Bressler](../authors/david-bressler.md) — 9
-- [ForgeAI](../authors/forgeai.md) — 9
 - [Gipp 🦅](../authors/gipp.md) — 9
 - [Kurt](../authors/kurt.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
@@ -974,6 +974,7 @@
 - [Todd Dailey](../authors/todd-dailey.md) — 2
 - [token by token](../authors/token-by-token.md) — 2
 - [Token360](../authors/token360.md) — 2
+- [Tokyo Futuro](../authors/tokyo-futuro.md) — 2
 - [Tong Zhu](../authors/tong-zhu.md) — 2
 - [Tony Schaffert](../authors/tony-schaffert.md) — 2
 - [Tony Simons](../authors/tony-simons.md) — 2
@@ -2534,6 +2535,7 @@
 - [James Chambers](../authors/james-chambers.md) — 1
 - [James LePage](../authors/james-lepage.md) — 1
 - [James Long](../authors/james-long.md) — 1
+- [James Malsawm](../authors/james-malsawm.md) — 1
 - [James Odebiyi](../authors/james-odebiyi.md) — 1
 - [James Sandoval](../authors/james-sandoval.md) — 1
 - [Jamieson Becker](../authors/jamieson-becker.md) — 1
@@ -3898,6 +3900,7 @@
 - [Shen Sean Chen](../authors/shen-sean-chen.md) — 1
 - [sheng](../authors/sheng.md) — 1
 - [shi3z](../authors/shi3z.md) — 1
+- [Shijun537](../authors/shijun537.md) — 1
 - [ShikangS](../authors/shikangs.md) — 1
 - [Shimon Moyal](../authors/shimon-moyal.md) — 1
 - [Shin (Shinji Namura)](../authors/shin-shinji-namura.md) — 1
@@ -4412,6 +4415,7 @@
 - [wyswyswys](../authors/wyswyswys.md) — 1
 - [x1k](../authors/x1k.md) — 1
 - [xanonku](../authors/xanonku.md) — 1
+- [Xavi](../authors/xavi.md) — 1
 - [xcPenny](../authors/xcpenny.md) — 1
 - [Xenova](../authors/xenova.md) — 1
 - [xHUB/SI](../authors/xhub-si.md) — 1

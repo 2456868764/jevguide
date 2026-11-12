@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 623 | 330 | 295 | 3.0M |
+| 625 | 331 | 296 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/ForgeAI_gg/status/2120888324831269117"><img src="https://pbs.twimg.com/media/HW7osUFW4AAq9BF?format=jpg&amp;name=medium" alt="JEV picks every move in ForgeAI-hosted agents · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/ForgeAI_gg/status/2120888324831269117">JEV picks every move in ForgeAI-hosted agents</a></h3>
+<p>ForgeAI shared results from 8,702 moves across 12 runs and 6 models, with the top five finishing within 49 points of each other. In this setup, the model writes the plan and JEV selects each move on ForgeAI-hosted agents.</p>
+<p><strong>中文摘要：</strong>ForgeAI 发布了一组结果：在 12 轮运行、6 个模型共 8702 步的对比中，前五名差距在 49 分以内；其中由模型制定计划，JEV 负责在每一步选择动作。</p>
+<p><strong>ForgeAI</strong> · @ForgeAI_gg · 2026-11-12T14:35:55.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 33</p>
+<p><a href="https://x.com/ForgeAI_gg/status/2120888324831269117">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/TokyoFuturo/status/2120886837707424098"><img src="https://pbs.twimg.com/amplify_video_thumb/2120703971132076032/img/4vE47rknt1eq779I.jpg" alt="Jev&#39;s Decisions Are Publicly Recorded via MCP · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/TokyoFuturo/status/2120886837707424098">Jev&#39;s Decisions Are Publicly Recorded via MCP</a></h3>
+<p>Every decision has a public record. Read what Jev answered and how sure it was using nerve_center in MCP or on the Nerve Center page. $ZENI is breaking the mold on agentic AI.</p>
+<p><strong>中文摘要：</strong>每个决策都有公共记录。用户可通过MCP中的nerve_center或Nerve Center页面查看Jev的回答和置信度。$ZENI正在打破代理的传统模式。</p>
+<p><strong>Tokyo Futuro</strong> · @TokyoFuturo · 2026-11-12T14:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/TokyoFuturo/status/2120886837707424098">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/odelljeremy/status/2120878985919988154"><img src="https://pbs.twimg.com/media/HW7gJFhXsAAiBhJ?format=png&amp;name=medium" alt="Can Jev Decide the Model Size? · 原帖图片" width="100%"></a>

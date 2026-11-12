@@ -142,6 +142,7 @@
 - [金のニワトリ](../authors/金.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [Abdullah](../authors/abdullah.md) — 4
+- [AI Will](../authors/ai-will.md) — 4
 - [AI/ML API](../authors/ai-ml-api.md) — 4
 - [Aman Maqsood](../authors/aman-maqsood.md) — 4
 - [Anoop George Joseph](../authors/anoop-george-joseph.md) — 4
@@ -246,7 +247,6 @@
 - [AGTP](../authors/agtp.md) — 3
 - [Ahab](../authors/ahab.md) — 3
 - [AI Insider](../authors/ai-insider.md) — 3
-- [AI Will](../authors/ai-will.md) — 3
 - [AIzunA 出雲から、AIをもっとやさしく。](../authors/aizuna-出雲-ai.md) — 3
 - [Alex Volkov](../authors/alex-volkov.md) — 3
 - [Ali](../authors/ali.md) — 3
@@ -300,6 +300,7 @@
 - [FHILY👑](../authors/fhily.md) — 3
 - [Francesco](../authors/francesco.md) — 3
 - [Gerhard Völkl 🐘 @gkvoelkl@sueden.social](../authors/gerhard-volkl-gkvoelkl-sueden-social.md) — 3
+- [GitHubDaily](../authors/githubdaily.md) — 3
 - [Gota](../authors/gota.md) — 3
 - [Guido Frigieri](../authors/guido-frigieri.md) — 3
 - [Guillermo Rauch](../authors/guillermo-rauch.md) — 3
@@ -644,7 +645,6 @@
 - [Gaurav Sen](../authors/gaurav-sen.md) — 2
 - [Geeta](../authors/geeta.md) — 2
 - [ghtght](../authors/ghtght.md) — 2
-- [GitHubDaily](../authors/githubdaily.md) — 2
 - [Globenews](../authors/globenews.md) — 2
 - [Glyph](../authors/glyph.md) — 2
 - [Golang News & Libs & Jobs - human 🗣️ , no 🤖](../authors/golang-news-libs-jobs-human-no.md) — 2
@@ -1279,6 +1279,7 @@
 - [AI速報【AI&ChatGPT最新情報】](../authors/ai速報-ai-chatgpt最新情報.md) — 1
 - [AJ Asver](../authors/aj-asver.md) — 1
 - [Ajain Vivek](../authors/ajain-vivek.md) — 1
+- [Ajay Singh Karayat](../authors/ajay-singh-karayat.md) — 1
 - [Ajit Datar](../authors/ajit-datar.md) — 1
 - [Akash Jain](../authors/akash-jain.md) — 1
 - [Akbar Ali](../authors/akbar-ali.md) — 1
@@ -4676,6 +4677,7 @@
 - [トリコーーム／🌸](../authors/jev-showcase.md) — 1
 - [なかにし@ナレコム](../authors/jev-showcase.md) — 1
 - [ななしぃ](../authors/jev-showcase.md) — 1
+- [なふさ](../authors/jev-showcase.md) — 1
 - [なりゆき｜OSCILLATION FUTURES](../authors/oscillation-futures.md) — 1
 - [なんぼー｜南坊泰司](../authors/南坊泰司.md) — 1
 - [にあち☕️🔥](../authors/jev-showcase.md) — 1
@@ -4795,6 +4797,7 @@
 - [再水和](../authors/再水和.md) — 1
 - [冰山小企鵝](../authors/冰山小企鵝.md) — 1
 - [凤笙休](../authors/凤笙休.md) — 1
+- [前田悠馬｜御社専用のAIツールをいつでも何個でも開発します](../authors/前田悠馬-御社専用-ai-何個-開発.md) — 1
 - [区块使者](../authors/区块使者.md) — 1
 - [医学書院 セミナー情報](../authors/医学書院-情報.md) — 1
 - [原田@AI研究員](../authors/原田-ai研究員.md) — 1
@@ -4854,6 +4857,7 @@
 - [李戛](../authors/李戛.md) — 1
 - [极客开源](../authors/极客开源.md) — 1
 - [杯中风暴](../authors/杯中风暴.md) — 1
+- [東川内尚文](../authors/東川内尚文.md) — 1
 - [松丸 彗吾(keigo matsumaru)](../authors/松丸-彗吾-keigo-matsumaru.md) — 1
 - [松本佑太｜スーパーのレジ打ちからAI企業へ｜非エンジニアのAI活用術](../authors/松本佑太-打-ai企業-非-ai活用術.md) — 1
 - [某GPU弱者](../authors/某gpu弱者.md) — 1

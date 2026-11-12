@@ -2,6 +2,12 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T09:31:46.000Z | [An extension using Jev for quick overview of affair plot attributes](https://x.com/yakushi_kokushi/status/2120811782327750844) | 内容创作 | なふさ | 29 |
+| 2026-11-12T09:01:28.000Z | [Google Launches Jev-like Decision AI API](https://x.com/yumamaeda1210/status/2120804159746392533) | 产品发布 | 前田悠馬｜御社専用のAIツールをいつでも何個でも開発します | 53 |
+| 2026-11-12T09:00:04.000Z | [JEV: Key to Speed and Cost](https://x.com/senri_naofumi/status/2120803806917128692) | 社区实践 | 東川内尚文 | 10 |
+| 2026-11-12T07:47:30.000Z | [Jev founder at AIECode on first principles: LLMs should move from assistance to automation](https://x.com/FinanceYF5/status/2120785543743357432) | 工作原理 | AI Will | 721 |
+| 2026-11-12T07:30:03.000Z | [Jev Engineering Explains Differences in Coding Agents](https://x.com/GitHub_Daily/status/2120781150507631016) | 开发者工具 | GitHubDaily | 1.4K |
+| 2026-11-12T07:08:34.000Z | [Jev + Neo4j: A Typed Decision Model in the Graph for Transit Routing](https://x.com/KarayatAj/status/2120775743663747079) | 自动化工作流 | Ajay Singh Karayat | 19 |
 | 2026-11-12T06:41:10.000Z | [Google Launches Gemini Decision 1, Competing with TypeSafe's Jev](https://x.com/fayequepeerzade/status/2120768849343852710) | 社区实践 | Fayeque Peerzade | 4 |
 | 2026-11-12T06:32:19.000Z | [Jev vs GPT-OSS 20B in Unreal Tournament, Local Play](https://x.com/loktar00/status/2120766622180733264) | 游戏 | Loktar 🇺🇸 | 10 |
 | 2026-11-12T06:30:54.000Z | [Decision Model Bench: Gemini Decision 1 Leads, New Jev Version Unchanged](https://x.com/elliscrosby/status/2120766267774914860) | 社区实践 | Ellis | 41 |
@@ -96,9 +102,3 @@
 | 2026-11-11T14:35:54.000Z | [JEV Makes Move-by-Move Decisions in ForgeAI Agents](https://x.com/ForgeAI_gg/status/2120525930770673782) | 智能体 | ForgeAI | 23 |
 | 2026-11-11T14:24:07.000Z | [Jev test project: Cybersecurity topics page](https://x.com/defenceability/status/2120522966723444838) | 网络安全 | するめ | 7 |
 | 2026-11-11T14:24:00.000Z | [Meet Jev: The 'Internet' Moment for AI?](https://x.com/Mr_Buzzoni/status/2120522937338155045) | 智能体 | Mr. Buzzoni | 78 |
-| 2026-11-11T13:56:40.000Z | [Building a great composer: use Jev for intent-based recommendations](https://x.com/pontusab/status/2120516059619033571) | 软件开发 | Pontus Abrahamsson | 1.6K |
-| 2026-11-11T13:38:41.000Z | [Jev-Powered Crypto Trading Bot in Action](https://x.com/HodlReaper/status/2120511535562821687) | 金融 | HodlReaper | 256 |
-| 2026-11-11T13:32:26.000Z | [TypeSafe AI Jev in Make: Filter Spam & Flag Transactions at Lower Cost](https://x.com/cxocommunity/status/2120509959402381614) | 自动化工作流 | CXO-Community.com | 4 |
-| 2026-11-11T13:27:19.000Z | [Use TypeSafe AI Jev in Make to Filter Spam and Flag Transactions](https://x.com/cxocommunity/status/2120508673986613678) | 自动化工作流 | CXO-Community.com | 5 |
-| 2026-11-11T12:31:54.000Z | [70+ Developers Building with Jev and Lovable](https://x.com/angelamuba001/status/2120494726763995445) | 社区实践 | Angela Muñoz | 17 |
-| 2026-11-11T12:12:36.000Z | [TypeSafe Jev 1.14 and Jev 1.13 Now on Token360](https://x.com/Token360AI/status/2120489872075223337) | 产品发布 | Token360 | 3 |

@@ -2,6 +2,11 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T12:03:05.000Z | [Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis](https://x.com/softreviewed/status/2120849861251940629) | 开发者工具 | SOFTREVIEWED | 12 |
+| 2026-11-12T11:49:46.000Z | [Google Ships Gemini Decision 1, Its Own Take on Jev](https://x.com/jmqcooper/status/2120846512099860744) | 产品发布 | Mike Cooper | 6 |
+| 2026-11-12T11:44:56.000Z | [Google launches Gemini Decision 1, author says it's better than Jev but pricing is not good](https://x.com/Adi_AiTech/status/2120845293440925933) | 产品发布 | Aditya | 3 |
+| 2026-11-12T11:43:30.000Z | [Discussion on Jev's Pricing Competitiveness](https://x.com/Adi_AiTech/status/2120844936828645797) | 社区实践 | Aditya | 3 |
+| 2026-11-12T11:30:00.000Z | [Last Call: Live Session on Jev and System One Models](https://x.com/PacktPublishing/status/2120841538640982296) | 社区实践 | Packt Publishing | 84 |
 | 2026-11-12T11:12:44.000Z | [Jev surpassed? XERJ launches at an ultra-low price](https://x.com/morpphhhaw/status/2120837190594810052) | 产品发布 | morph | 93 |
 | 2026-11-12T11:06:01.000Z | [Google Launches Gemini Decisions API, a Major Competitor to Jev](https://x.com/leeknowsAI/status/2120835502496788755) | 产品发布 | Lee | 18 |
 | 2026-11-12T11:00:11.000Z | [TypeSafe's Jev: Two Years in the Making, Facing New Rivals](https://x.com/techinasia/status/2120834035433820630) | 产品发布 | Tech in Asia | 129 |
@@ -97,8 +102,3 @@
 | 2026-11-11T18:42:57.000Z | [Google launches Gemini Decision 1, a direct rival to TypeSafe's Jev](https://x.com/anuragdotdev/status/2120588106634326488) | 产品发布 | Anurag Jha | 420 |
 | 2026-11-11T18:40:17.000Z | [Google has its own Jev-like decision making model](https://x.com/jshai0/status/2120587433763098658) | 产品发布 | Javed | 6 |
 | 2026-11-11T18:40:05.000Z | [Google Gemini Decision 1 Targets TypeSafe Jev 1.14](https://x.com/radioalisadvdsn/status/2120587382172836130) | 产品发布 | Alisa | 17 |
-| 2026-11-11T18:39:54.000Z | [Google Claims to Surpass Jev on Decision Benchmarks](https://x.com/DeryaTR_/status/2120587337784516757) | 社区实践 | Derya Unutmaz, MD | 8.2K |
-| 2026-11-11T18:37:07.000Z | [Google's Multimodal System One Takes on Jev?](https://x.com/LoharTushal/status/2120586638237778076) | 社区实践 | Tushal Lohar | 58 |
-| 2026-11-11T18:35:56.000Z | [Google is launching its own equivalent of Jev](https://x.com/Taytus/status/2120586340089627105) | 产品发布 | Roberto Inetti | 66 |
-| 2026-11-11T18:35:56.000Z | [Jev tested as prompt injection guard for email agent](https://x.com/kevintheo/status/2120586339523694876) | 网络安全 | Kevin Theo | 61 |
-| 2026-11-11T18:34:31.000Z | [Jev input token pricing remains $0.042/MTok](https://x.com/MehulFanawala/status/2120585983444033615) | 接入动态 | Mehul Fanawala | 199 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1460 | 608 | 860 | 3.0M |
+| 1462 | 608 | 862 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Adi_AiTech/status/2120844936828645797"><img src="https://pbs.twimg.com/media/HW7BAh0bkAEgTTC?format=png&amp;name=small" alt="Discussion on Jev&#39;s Pricing Competitiveness · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Adi_AiTech/status/2120844936828645797">Discussion on Jev&#39;s Pricing Competitiveness</a></h3>
+<p>The post notes that a product&#39;s pricing is higher than Jev, viewing Jev as a competitor and reflecting Jev&#39;s price advantage.</p>
+<p><strong>中文摘要：</strong>帖子指出某产品的定价高于 Jev，将 Jev 视为竞争对手，体现 Jev 的价格优势。</p>
+<p><strong>Aditya</strong> · @Adi_AiTech · 2026-11-12T11:43:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/Adi_AiTech/status/2120844936828645797">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/PacktPublishing/status/2120841538640982296"><img src="https://pbs.twimg.com/media/HW63-sJakAAle_N?format=jpg&amp;name=medium" alt="Last Call: Live Session on Jev and System One Models · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/PacktPublishing/status/2120841538640982296">Last Call: Live Session on Jev and System One Models</a></h3>
+<p>Packt presents a live session with Renata Andrade on building with Jev and System One models, showing how to route quick decisions to Jev instead of LLMs. Booking closes Fri 13 Nov, 14:00 UTC. Get 40% off with INNERCIRCLE; recording included.</p>
+<p><strong>中文摘要：</strong>Packt 推出在线实战活动，由 Renata Andrade 主讲，演示如何使用 Jev 和 System One 模型，并讲解将快速决策路由到 Jev 而非 LLM 的实践。报名将于 11 月 13 日 14:00 UTC 截止，使用 INNERCIRCLE 可享 40% 折扣，含回放。</p>
+<p><strong>Packt Publishing</strong> · @PacktPublishing · 2026-11-12T11:30:00.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
+<p><a href="https://x.com/PacktPublishing/status/2120841538640982296">在 X 查看原帖</a> · <a href="https://t.co/xeXCDqMi15">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/senri_naofumi/status/2120803806917128692"><img src="https://pbs.twimg.com/amplify_video_thumb/2120218985866088448/img/IdWbLT1sut7-oXlf.jpg" alt="JEV: Key to Speed and Cost · 原帖视频截图" width="100%"></a>

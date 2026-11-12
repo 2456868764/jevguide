@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 652 | 291 | 364 | 1.1M |
+| 654 | 291 | 366 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jmqcooper/status/2120846512099860744"><img src="https://pbs.twimg.com/media/HW7Cn78W4AAa_vU?format=jpg&amp;name=medium" alt="Google Ships Gemini Decision 1, Its Own Take on Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/jmqcooper/status/2120846512099860744">Google Ships Gemini Decision 1, Its Own Take on Jev</a></h3>
+<p>Mike Cooper notes Google released Gemini Decision 1, which can ask up to 1,000 yes/no questions on a PDF in about 200ms. Since it reads PDFs, it looks like a claims check in one API call, but the author thinks each answer is a number without source, so a handler may still check the whole file.</p>
+<p><strong>中文摘要：</strong>Mike Cooper 指出 Google 发布了 Gemini Decision 1，可在约 200ms 内对 PDF 提出多达 1000 个是/否问题。它能读取 PDF，因此貌似一次 API 调用即可完成索赔检查，但作者认为每个答案均为没有来源的数字，可能仍需处理整个文件。</p>
+<p><strong>Mike Cooper</strong> · @jmqcooper · 2026-11-12T11:49:46.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><a href="https://x.com/jmqcooper/status/2120846512099860744">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Adi_AiTech/status/2120845293440925933"><img src="https://pbs.twimg.com/media/HW3Mvh9aoAAmICR?format=jpg&amp;name=large" alt="Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Adi_AiTech/status/2120845293440925933">Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good</a></h3>
+<p>Aditya comments on Google&#39;s new Gemini Decision 1 model, saying it performs better than Jev, but is unhappy with the pricing.</p>
+<p><strong>中文摘要：</strong>Aditya在帖子中评论Google新发布的Gemini Decision 1模型，认为其表现优于Jev，但对定价表示不满。</p>
+<p><strong>Aditya</strong> · @Adi_AiTech · 2026-11-12T11:44:56.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><a href="https://x.com/Adi_AiTech/status/2120845293440925933">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/morpphhhaw/status/2120837190594810052"><img src="https://pbs.twimg.com/amplify_video_thumb/2120836989612150784/img/YsAbL3HCFLirPWK_.jpg" alt="Jev surpassed? XERJ launches at an ultra-low price · 原帖视频截图" width="100%"></a>

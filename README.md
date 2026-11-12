@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7380</strong><br>curated posts</td>
-<td align="center"><strong>3626</strong><br>original videos</td>
+<td align="center"><strong>7385</strong><br>curated posts</td>
+<td align="center"><strong>3627</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1460</strong> showcases · <strong>608</strong> videos</p>
+<p><strong>1462</strong> showcases · <strong>608</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>683</strong> showcases · <strong>335</strong> videos</p>
+<p><strong>684</strong> showcases · <strong>336</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>652</strong> showcases · <strong>291</strong> videos</p>
+<p><strong>654</strong> showcases · <strong>291</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/morpphhhaw/status/2120837190594810052"><img src="https://pbs.twimg.com/amplify_video_thumb/2120836989612150784/img/YsAbL3HCFLirPWK_.jpg" alt="Jev surpassed? XERJ launches at an ultra-low price · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/morpphhhaw/status/2120837190594810052">Jev surpassed? XERJ launches at an ultra-low price</a></h3>
-<p>The new model XERJ is extremely cheap: it reads a document and either highlights the exact answer or says “no answer found.” It claims to be roughly 1050x cheaper than Claude Opus 5.5 and 26x cheaper than Jev.</p>
-<p><strong>93</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 93</p>
-<p><strong>morph</strong> · @morpphhhaw</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/softreviewed/status/2120849861251940629"><img src="https://pbs.twimg.com/amplify_video_thumb/2120849777588125698/img/Zc7ilIeVH7EScoLC.jpg" alt="Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/softreviewed/status/2120849861251940629">Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis</a></h3>
+<p>Compares Gemini Decision 1 and Jev 1.14 for AI decision-making: Gemini offers native audio/video input and lower error rate, while Jev excels in faster inference and cheaper text processing.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><strong>SOFTREVIEWED</strong> · @softreviewed</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/leeknowsAI/status/2120835502496788755"><img src="https://pbs.twimg.com/amplify_video_thumb/2120833842617651200/img/osoaUs0BMm0pcklt.jpg" alt="Google Launches Gemini Decisions API, a Major Competitor to Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/leeknowsAI/status/2120835502496788755">Google Launches Gemini Decisions API, a Major Competitor to Jev</a></h3>
-<p>Google&#39;s newly introduced Gemini Decisions API takes an approach similar to TypeSafe AI&#39;s Jev: instead of generating natural-language responses, it returns structured decisions for software to use.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 18</p>
-<p><strong>Lee</strong> · @leeknowsAI</p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/jmqcooper/status/2120846512099860744"><img src="https://pbs.twimg.com/media/HW7Cn78W4AAa_vU?format=jpg&amp;name=medium" alt="Google Ships Gemini Decision 1, Its Own Take on Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jmqcooper/status/2120846512099860744">Google Ships Gemini Decision 1, Its Own Take on Jev</a></h3>
+<p>Mike Cooper notes Google released Gemini Decision 1, which can ask up to 1,000 yes/no questions on a PDF in about 200ms. Since it reads PDFs, it looks like a claims check in one API call, but the author thinks each answer is a number without source, so a handler may still check the whole file.</p>
+<p><strong>6</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 6</p>
+<p><strong>Mike Cooper</strong> · @jmqcooper</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/techinasia/status/2120834035433820630"><img src="https://pbs.twimg.com/media/HW63Ty-WwAAR5gw?format=jpg&amp;name=900x900" alt="TypeSafe&#39;s Jev: Two Years in the Making, Facing New Rivals · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/techinasia/status/2120834035433820630">TypeSafe&#39;s Jev: Two Years in the Making, Facing New Rivals</a></h3>
-<p>Tech in Asia reports that TypeSafe&#39;s Jev AI decision model took two years to build, while rival decision models emerged within weeks. With competition heating up, the article explores what will set these models apart.</p>
-<p><strong>129</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 129</p>
-<p><strong>Tech in Asia</strong> · @techinasia</p>
+<a href="https://x.com/Adi_AiTech/status/2120845293440925933"><img src="https://pbs.twimg.com/media/HW3Mvh9aoAAmICR?format=jpg&amp;name=large" alt="Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Adi_AiTech/status/2120845293440925933">Google launches Gemini Decision 1, author says it&#39;s better than Jev but pricing is not good</a></h3>
+<p>Aditya comments on Google&#39;s new Gemini Decision 1 model, saying it performs better than Jev, but is unhappy with the pricing.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Aditya</strong> · @Adi_AiTech</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/n8n_io/status/2120831738666500510"><img src="https://pbs.twimg.com/media/HW61OjEWMAA2oth.jpg" alt="Building an AI news filtering workflow with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/n8n_io/status/2120831738666500510">Building an AI news filtering workflow with Jev</a></h3>
-<p>n8n shows an automation example: You.com finds news, Jev filters what&#39;s worth researching for ~$0.00004/article, then You.com research goes deeper, producing cited briefs with less noise and no Slack spam on quiet days.</p>
-<p><strong>846</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 846</p>
-<p><strong>n8n.io</strong> · @n8n_io</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Adi_AiTech/status/2120844936828645797"><img src="https://pbs.twimg.com/media/HW7BAh0bkAEgTTC?format=png&amp;name=small" alt="Discussion on Jev&#39;s Pricing Competitiveness · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Adi_AiTech/status/2120844936828645797">Discussion on Jev&#39;s Pricing Competitiveness</a></h3>
+<p>The post notes that a product&#39;s pricing is higher than Jev, viewing Jev as a competitor and reflecting Jev&#39;s price advantage.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Aditya</strong> · @Adi_AiTech</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/morpphhhaw/status/2120837190594810052"><img src="https://pbs.twimg.com/amplify_video_thumb/2120836989612150784/img/YsAbL3HCFLirPWK_.jpg" alt="Jev surpassed? XERJ launches at an ultra-low price · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/morpphhhaw/status/2120837190594810052">Jev surpassed? XERJ launches at an ultra-low price</a></h3>
-<p>The new model XERJ is extremely cheap: it reads a document and either highlights the exact answer or says “no answer found.” It claims to be roughly 1050x cheaper than Claude Opus 5.5 and 26x cheaper than Jev.</p>
-<p><strong>93</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 15 &nbsp; 📊 93</p>
-<p><strong>morph</strong> · @morpphhhaw</p>
+<p><strong>01</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/softreviewed/status/2120849861251940629"><img src="https://pbs.twimg.com/amplify_video_thumb/2120849777588125698/img/Zc7ilIeVH7EScoLC.jpg" alt="Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/softreviewed/status/2120849861251940629">Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis</a></h3>
+<p>Compares Gemini Decision 1 and Jev 1.14 for AI decision-making: Gemini offers native audio/video input and lower error rate, while Jev excels in faster inference and cheaper text processing.</p>
+<p><strong>12</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 12</p>
+<p><strong>SOFTREVIEWED</strong> · @softreviewed</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
-<a href="https://x.com/n8n_io/status/2120831738666500510"><img src="https://pbs.twimg.com/media/HW61OjEWMAA2oth.jpg" alt="Building an AI news filtering workflow with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/n8n_io/status/2120831738666500510">Building an AI news filtering workflow with Jev</a></h3>
-<p>n8n shows an automation example: You.com finds news, Jev filters what&#39;s worth researching for ~$0.00004/article, then You.com research goes deeper, producing cited briefs with less noise and no Slack spam on quiet days.</p>
-<p><strong>846</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 846</p>
-<p><strong>n8n.io</strong> · @n8n_io</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/Adi_AiTech/status/2120844936828645797"><img src="https://pbs.twimg.com/media/HW7BAh0bkAEgTTC?format=png&amp;name=small" alt="Discussion on Jev&#39;s Pricing Competitiveness · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Adi_AiTech/status/2120844936828645797">Discussion on Jev&#39;s Pricing Competitiveness</a></h3>
+<p>The post notes that a product&#39;s pricing is higher than Jev, viewing Jev as a competitor and reflecting Jev&#39;s price advantage.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Aditya</strong> · @Adi_AiTech</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/Inomsxbt/status/2120826147705692458"><img src="https://pbs.twimg.com/media/HW6wIjsa4AAY7pC?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1 with JevBench Score 92.2% · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Inomsxbt/status/2120826147705692458">Google Releases Gemini Decision 1 with JevBench Score 92.2%</a></h3>
-<p>Gemini Decision 1 is Google&#39;s new model for agent workflows, scoring 92.2% on JevBench, beating Jev 1.14 on 5 of 7 shared benchmarks, and handling images, audio, video, and PDFs with a 256K context window.</p>
-<p><strong>77</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 77</p>
-<p><strong>Inoms</strong> · @Inomsxbt</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/PacktPublishing/status/2120841538640982296"><img src="https://pbs.twimg.com/media/HW63-sJakAAle_N?format=jpg&amp;name=medium" alt="Last Call: Live Session on Jev and System One Models · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PacktPublishing/status/2120841538640982296">Last Call: Live Session on Jev and System One Models</a></h3>
+<p>Packt presents a live session with Renata Andrade on building with Jev and System One models, showing how to route quick decisions to Jev instead of LLMs. Booking closes Fri 13 Nov, 14:00 UTC. Get 40% off with INNERCIRCLE; recording included.</p>
+<p><strong>84</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
+<p><strong>Packt Publishing</strong> · @PacktPublishing</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/yumamaeda1210/status/2120804159746392533"><img src="https://pbs.twimg.com/media/HW6cI35a0AENBJo?format=jpg&amp;name=medium" alt="Google Launches Jev-like Decision AI API · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/yumamaeda1210/status/2120804159746392533">Google Launches Jev-like Decision AI API</a></h3>
-<p>The post introduces Google&#39;s Gemini Decisions API, which evaluates up to 1,000 questions at once, supports text, images, audio, video, and PDF, takes about 0.15–0.25 seconds per decision, costs $0.10 per million input tokens, and outputs confidence scores.</p>
-<p><strong>53</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 53</p>
-<p><strong>前田悠馬｜御社専用のAIツールをいつでも何個でも開発します</strong> · @yumamaeda1210</p>
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖视频</code></p>
+<a href="https://x.com/HarmNao/status/2120821368308846871"><img src="https://pbs.twimg.com/amplify_video_thumb/2120593723704643584/img/kwDGEdaSJ6uWQS0i.jpg" alt="Multi-model collaboration: Jev as implementation branch · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HarmNao/status/2120821368308846871">Multi-model collaboration: Jev as implementation branch</a></h3>
+<p>The author designs a multi-model workflow: GrokBot for monitoring, Fable5.2 as the commander, Jev for the implementation branch, Paper as the design axis, and notes that Webhook can be used to coordinate with the UI bot on the other side.</p>
+<p><strong>60</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 60</p>
+<p><strong>Nao</strong> · @HarmNao</p>
 </td>
 </tr>
 </table>

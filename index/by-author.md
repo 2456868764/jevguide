@@ -143,6 +143,7 @@
 - [金のニワトリ](../authors/金.md) — 5
 - [鈴木@アナログ営業会社を100日後にAIで売上を300％にする人](../authors/鈴木-営業会社-100日後-ai-売上-300-人.md) — 5
 - [Abdullah](../authors/abdullah.md) — 4
+- [Aditya](../authors/aditya.md) — 4
 - [AI/ML API](../authors/ai-ml-api.md) — 4
 - [Aman Maqsood](../authors/aman-maqsood.md) — 4
 - [Anoop George Joseph](../authors/anoop-george-joseph.md) — 4
@@ -477,7 +478,6 @@
 - [Abhishek Gupta](../authors/abhishek-gupta.md) — 2
 - [Abol](../authors/abol.md) — 2
 - [Adam Chester 🏴‍☠️](../authors/adam-chester.md) — 2
-- [Aditya](../authors/aditya.md) — 2
 - [adlrocha](../authors/adlrocha.md) — 2
 - [AGEHITO｜AI業務実装支援](../authors/agehito-ai業務実装支援.md) — 2
 - [AGIラボ](../authors/agi.md) — 2
@@ -3119,6 +3119,7 @@
 - [Mikadzyki🌙](../authors/mikadzyki.md) — 1
 - [mike buttrum](../authors/mike-buttrum.md) — 1
 - [Mike Clarke](../authors/mike-clarke.md) — 1
+- [Mike Cooper](../authors/mike-cooper.md) — 1
 - [Mike Dupont](../authors/mike-dupont.md) — 1
 - [Mike Kelly](../authors/mike-kelly.md) — 1
 - [Mike Moore](../authors/mike-moore.md) — 1
@@ -3414,6 +3415,7 @@
 - [Pablo Ramos | Software](../authors/pablo-ramos-software.md) — 1
 - [Packapun](../authors/packapun.md) — 1
 - [Packet Coders](../authors/packet-coders.md) — 1
+- [Packt Publishing](../authors/packt-publishing.md) — 1
 - [Paco Cantero](../authors/paco-cantero.md) — 1
 - [paco xu](../authors/paco-xu.md) — 1
 - [Paguinfo](../authors/paguinfo.md) — 1
@@ -3944,6 +3946,7 @@
 - [Sofiia Matsiutsia](../authors/sofiia-matsiutsia.md) — 1
 - [Sofiia Shvets](../authors/sofiia-shvets.md) — 1
 - [Soft Pudding](../authors/soft-pudding.md) — 1
+- [SOFTREVIEWED](../authors/softreviewed.md) — 1
 - [Solo](../authors/solo.md) — 1
 - [Som Mohapatra](../authors/som-mohapatra.md) — 1
 - [SOMA](../authors/soma.md) — 1

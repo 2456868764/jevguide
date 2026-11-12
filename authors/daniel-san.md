@@ -1,9 +1,10 @@
 # Daniel San
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T03:43:31.000Z | [Google Launches Gemini Decisions API, a Jev Competitor](https://x.com/dani_avila7/status/2120724143431979362) | 产品发布 | Daniel San | 1.3K |
 | 2026-10-09T00:32:51.000Z | [Jev Skill Typeahead is now fully open source](https://x.com/dani_avila7/status/2108354971531973028) | 开发资源 | Daniel San | 563 |
 | 2026-10-08T19:19:04.000Z | [Jev Skill Typeahead: Predict Skill Invocations for Claude Code](https://x.com/dani_avila7/status/2108276005886705818) | 开发者工具 | Daniel San | 5.1K |
 | 2026-10-02T22:15:47.000Z | [Play Against Jev with Claude Chess Mod on Desktop](https://x.com/dani_avila7/status/2106146151594344774) | 游戏 | Daniel San | 1.6K |

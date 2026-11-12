@@ -1,9 +1,10 @@
 # Hammer0x419
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T05:44:32.000Z | [GTA V 7-Second Duel: JEV for Under a Tenth of a Cent](https://x.com/hammer0x419/status/2120754597916512394) | 游戏 | Hammer0x419 | 11 |
 | 2026-11-12T00:46:05.000Z | [JEV vs grok-4.7 decision experiment in GTA V](https://x.com/hammer0x419/status/2120679490854474006) | 游戏 | Hammer0x419 | 13 |
 | 2026-11-11T21:51:43.000Z | [CS 1.6 Agents Use JEV Action Model](https://x.com/hammer0x419/status/2120635607869214739) | 游戏 | Hammer0x419 | 4 |
 | 2026-11-10T21:45:17.000Z | [CS 1.6 de_dust2 pistol round experiment: Claude Opus 5.5 + JEV vs DeepSeek V4.1 Flash + JEV](https://x.com/hammer0x419/status/2120271601014870443) | 游戏 | Hammer0x419 | 20 |

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7353</strong><br>curated posts</td>
-<td align="center"><strong>3616</strong><br>original videos</td>
+<td align="center"><strong>7365</strong><br>curated posts</td>
+<td align="center"><strong>3619</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1454</strong> showcases · <strong>606</strong> videos</p>
+<p><strong>1459</strong> showcases · <strong>607</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -38,18 +38,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/how-it-works.md">How it works</a></h3>
-<p><sub>工作原理</sub></p>
-<p><strong>645</strong> showcases · <strong>285</strong> videos</p>
-<p><a href="categories/how-it-works.md">Open category →</a></p>
+<h3><a href="categories/launch-news.md">Launch news</a></h3>
+<p><sub>产品发布</sub></p>
+<p><strong>646</strong> showcases · <strong>288</strong> videos</p>
+<p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/launch-news.md">Launch news</a></h3>
-<p><sub>产品发布</sub></p>
-<p><strong>641</strong> showcases · <strong>287</strong> videos</p>
-<p><a href="categories/launch-news.md">Open category →</a></p>
+<h3><a href="categories/how-it-works.md">How it works</a></h3>
+<p><sub>工作原理</sub></p>
+<p><strong>645</strong> showcases · <strong>285</strong> videos</p>
+<p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
@@ -74,7 +74,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>421</strong> showcases · <strong>308</strong> videos</p>
+<p><strong>423</strong> showcases · <strong>309</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/coolbat1999/status/2120716984862302362"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini Decisions API vs Jev: Competing in the Same Niche · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/coolbat1999/status/2120716984862302362">Gemini Decisions API vs Jev: Competing in the Same Niche</a></h3>
-<p>The post compares Google&#39;s new Gemini Decisions API with Jev, noting they compete in the same specialized decision-model space. Gemini leads in multimodality and scale, supporting up to 1000 questions per request and inputs including text, image, audio, video, and PDF (up to 256K tokens).</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Coolbat</strong> · @coolbat1999</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/fayequepeerzade/status/2120768849343852710"><img src="https://pbs.twimg.com/media/HW58BF5bEAA-Xzh?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision 1, Competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fayequepeerzade/status/2120768849343852710">Google Launches Gemini Decision 1, Competing with TypeSafe&#39;s Jev</a></h3>
+<p>The post announces Google&#39;s release of Gemini Decision 1, a System One model, claiming it competes with TypeSafe&#39;s Jev, and lists pricing, native multimodal support, and a 256k context window, while updating the benchmark table.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Fayeque Peerzade</strong> · @fayequepeerzade</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/WayneIdeaBright/status/2120715197333782844"><img src="https://pbs.twimg.com/media/HW5LOK-bUAAxFWM?format=jpg&amp;name=medium" alt="Rapid Startup Idea Evaluation with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WayneIdeaBright/status/2120715197333782844">Rapid Startup Idea Evaluation with Jev</a></h3>
-<p>A user shows how Jev (TypeSafe AI) scored their startup idea 54/100 in 174ms, inviting others to try their own ideas at killmyidea.biz.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Wayne idea bright</strong> · @WayneIdeaBright</p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/loktar00/status/2120766622180733264"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev vs GPT-OSS 20B in Unreal Tournament, Local Play · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/loktar00/status/2120766622180733264">Jev vs GPT-OSS 20B in Unreal Tournament, Local Play</a></h3>
+<p>A community post: the author shares an earlier local run of Jev against GPT-OSS 20B in Unreal Tournament, showing Jev used in a real gameplay context.</p>
+<p><strong>10</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><strong>Loktar 🇺🇸</strong> · @loktar00</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/WayneIdeaBright/status/2120713191508546005"><img src="https://pbs.twimg.com/media/HW5JZh6a0AAtDqM?format=jpg&amp;name=medium" alt="Jev kills a startup idea in 187ms · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/WayneIdeaBright/status/2120713191508546005">Jev kills a startup idea in 187ms</a></h3>
-<p>A community post shows Jev (TypeSafe AI) quickly evaluating a startup idea with a 35/100 score and includes a trial link.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Wayne idea bright</strong> · @WayneIdeaBright</p>
+<a href="https://x.com/elliscrosby/status/2120766267774914860"><img src="https://pbs.twimg.com/media/HW55pMrbkAAG_XL?format=jpg&amp;name=medium" alt="Decision Model Bench: Gemini Decision 1 Leads, New Jev Version Unchanged · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/elliscrosby/status/2120766267774914860">Decision Model Bench: Gemini Decision 1 Leads, New Jev Version Unchanged</a></h3>
+<p>The author ran 26 decision models on OpenRouter through a chess-on-a-clock benchmark. Gemini Decision 1 leads at 755, while the rest cluster between 409 and 616. New versions of jev and d1 did not really move.</p>
+<p><strong>41</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
+<p><strong>Ellis</strong> · @elliscrosby</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/QinYi26294/status/2120712867569889669"><img src="https://pbs.twimg.com/media/HW5JGyKaUAAEvOi?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QinYi26294/status/2120712867569889669">Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev</a></h3>
-<p>The post reports Google&#39;s launch of the decision model Gemini Decision 1, which returns probabilities instead of answers given material and questions. It mentions TypeSafe&#39;s Jev and OpenAI&#39;s Decisions API, citing Simon Willison saying Google&#39;s interface closely follows Jev, even using the same &#39;noul&#39; term for yes/no questions.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>double chici</strong> · @QinYi26294</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/CKeruac/status/2120764981876601211"><img src="https://pbs.twimg.com/media/HW53beAWEAAc_hW?format=png&amp;name=medium" alt="Google Gemini Decision 1 Released, Jev Tested Alongside · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CKeruac/status/2120764981876601211">Google Gemini Decision 1 Released, Jev Tested Alongside</a></h3>
+<p>The author tested Google Gemini Decision 1 on a dataset of 216 Polish bot responses, alongside Jev and their own Serin 4B, recording 33 violations. It shows Jev&#39;s practical performance in this evaluation scenario.</p>
+<p><strong>184</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 184</p>
+<p><strong>Christopher Keruac</strong> · @CKeruac</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/coolbat1999/status/2120716984862302362"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Gemini Decisions API vs Jev: Competing in the Same Niche · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/coolbat1999/status/2120716984862302362">Gemini Decisions API vs Jev: Competing in the Same Niche</a></h3>
-<p>The post compares Google&#39;s new Gemini Decisions API with Jev, noting they compete in the same specialized decision-model space. Gemini leads in multimodality and scale, supporting up to 1000 questions per request and inputs including text, image, audio, video, and PDF (up to 256K tokens).</p>
-<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
-<p><strong>Coolbat</strong> · @coolbat1999</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/fayequepeerzade/status/2120768849343852710"><img src="https://pbs.twimg.com/media/HW58BF5bEAA-Xzh?format=jpg&amp;name=medium" alt="Google Launches Gemini Decision 1, Competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/fayequepeerzade/status/2120768849343852710">Google Launches Gemini Decision 1, Competing with TypeSafe&#39;s Jev</a></h3>
+<p>The post announces Google&#39;s release of Gemini Decision 1, a System One model, claiming it competes with TypeSafe&#39;s Jev, and lists pricing, native multimodal support, and a 256k context window, while updating the benchmark table.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Fayeque Peerzade</strong> · @fayequepeerzade</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/QinYi26294/status/2120712867569889669"><img src="https://pbs.twimg.com/media/HW5JGyKaUAAEvOi?format=jpg&amp;name=medium" alt="Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/QinYi26294/status/2120712867569889669">Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe&#39;s Jev</a></h3>
-<p>The post reports Google&#39;s launch of the decision model Gemini Decision 1, which returns probabilities instead of answers given material and questions. It mentions TypeSafe&#39;s Jev and OpenAI&#39;s Decisions API, citing Simon Willison saying Google&#39;s interface closely follows Jev, even using the same &#39;noul&#39; term for yes/no questions.</p>
-<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
-<p><strong>double chici</strong> · @QinYi26294</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/CKeruac/status/2120764981876601211"><img src="https://pbs.twimg.com/media/HW53beAWEAAc_hW?format=png&amp;name=medium" alt="Google Gemini Decision 1 Released, Jev Tested Alongside · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/CKeruac/status/2120764981876601211">Google Gemini Decision 1 Released, Jev Tested Alongside</a></h3>
+<p>The author tested Google Gemini Decision 1 on a dataset of 216 Polish bot responses, alongside Jev and their own Serin 4B, recording 33 violations. It shows Jev&#39;s practical performance in this evaluation scenario.</p>
+<p><strong>184</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 184</p>
+<p><strong>Christopher Keruac</strong> · @CKeruac</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2120703036800782652"><img src="https://pbs.twimg.com/media/HW5ALKKakAAWx7R?format=png&amp;name=medium" alt="GBP/USD Long Scenario with Jev Review · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2120703036800782652">GBP/USD Long Scenario with Jev Review</a></h3>
-<p>A trader shares a GBP/USD long idea based on Jev, with entry, target, stop and risk/reward; Jev flags it as needing review with 31% assessment certainty.</p>
-<p><strong>5</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 5</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/devsec_ai/status/2120757405659369681"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Jev now has another sibling · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/devsec_ai/status/2120757405659369681">Jev now has another sibling</a></h3>
+<p>Devsec AI announces a new addition to the Jev model family.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>Devsec AI</strong> · @devsec_ai</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/gosrum/status/2120692300489851275"><img src="https://pbs.twimg.com/amplify_video_thumb/2120690472268230656/img/2FsXfj18Mh-rAsH_.jpg" alt="Trying Gemini Decision API: Latency comparison with Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/gosrum/status/2120692300489851275">Trying Gemini Decision API: Latency comparison with Jev</a></h3>
-<p>A user shares a text-input trial of Gemini Decision API, noting that its latency is about twice as long as Jev (with image input) and OpenAI Decisions API; comparison videos are in replies.</p>
-<p><strong>753</strong> views · 💬 1 &nbsp; 🔁 3 &nbsp; ♡ 18 &nbsp; 📊 753</p>
-<p><strong>金のニワトリ</strong> · @gosrum</p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/PatriotComrade/status/2120722032925233295"><img src="https://pbs.twimg.com/media/HW5RcKnaEAAdGW3?format=jpg&amp;name=medium" alt="Google enters decision-model race with Gemini Decision 1 &amp; Decisions API, taking on TypeSafe Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/PatriotComrade/status/2120722032925233295">Google enters decision-model race with Gemini Decision 1 &amp; Decisions API, taking on TypeSafe Jev</a></h3>
+<p>The post highlights Google&#39;s Gemini Decision 1 and Decisions API as a direct answer to TypeSafe&#39;s Jev, discussing implications for AI agent pipelines.</p>
+<p><strong>85</strong> views · 💬 7 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 85</p>
+<p><strong>Patriot Comrade</strong> · @PatriotComrade</p>
 </td>
 </tr>
 </table>

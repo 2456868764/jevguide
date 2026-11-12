@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 421 | 308 | 117 | 588K |
+| 423 | 309 | 118 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/loktar00/status/2120766622180733264"><img src="https://pbs.twimg.com/amplify_video_thumb/2101849327731687425/img/EXuRJfjJNj7AqX4F.jpg" alt="Jev vs GPT-OSS 20B in Unreal Tournament, Local Play · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/loktar00/status/2120766622180733264">Jev vs GPT-OSS 20B in Unreal Tournament, Local Play</a></h3>
+<p>A community post: the author shares an earlier local run of Jev against GPT-OSS 20B in Unreal Tournament, showing Jev used in a real gameplay context.</p>
+<p><strong>中文摘要：</strong>一条社区推文：作者分享此前在本地运行 Jev 模型，与 GPT-OSS 20B 在《虚幻竞技场》中对战的经历，展示了 Jev 在实际游戏场景中的可用性。</p>
+<p><strong>Loktar 🇺🇸</strong> · @loktar00 · 2026-11-12T06:32:19.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><a href="https://x.com/loktar00/status/2120766622180733264">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hammer0x419/status/2120754597916512394"><img src="https://pbs.twimg.com/media/HW5vEaFXUAAtGPG?format=jpg&amp;name=medium" alt="GTA V 7-Second Duel: JEV for Under a Tenth of a Cent · 原帖图片" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hammer0x419/status/2120754597916512394">GTA V 7-Second Duel: JEV for Under a Tenth of a Cent</a></h3>
+<p>Hammer0x419 shares a GTA V experiment: Claude Haiku 5.5 + JEV faces their regular bot in a 7-second duel, making 5 calls with 4,002 input and 562 output tokens for under a tenth of a cent, leaving a full receipt.</p>
+<p><strong>中文摘要：</strong>Hammer0x419分享了GTA V实验：Claude Haiku 5.5 + JEV与常规机器人进行7秒决斗，共5次调用，输入4002个token、输出562个token，总成本不足0.1美分，且留下完整调用记录。</p>
+<p><strong>Hammer0x419</strong> · @hammer0x419 · 2026-11-12T05:44:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><a href="https://x.com/hammer0x419/status/2120754597916512394">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hammer0x419/status/2120679490854474006"><img src="https://pbs.twimg.com/media/HW4qwnuWAAAncPA?format=jpg&amp;name=medium" alt="JEV vs grok-4.7 decision experiment in GTA V · 原帖图片" width="100%"></a>

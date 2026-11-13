@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 685 | 336 | 352 | 3.6M |
+| 687 | 337 | 353 | 3.6M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/NobrainerNg/status/2121060653586653579"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2121060586456829952/pu/img/2oyPZTYv3Ov-jAwW.jpg" alt="Google Gemini Decisions API Compared with TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/NobrainerNg/status/2121060653586653579">Google Gemini Decisions API Compared with TypeSafe Jev</a></h3>
+<p>Introduces Google Gemini Decisions API, an AI that outputs only decision answers with confidence scores, low latency and low cost, noting it is the third option after TypeSafe&#39;s Jev and OpenAI.</p>
+<p><strong>中文摘要：</strong>介绍 Google Gemini Decisions API，一个只输出决策答案的 AI，具有置信度分数、低延迟和低成本，并提及继 TypeSafe 的 Jev 和 OpenAI 之后的第三个选择。</p>
+<p><strong>Nobrainer Labs | Tech &amp; AI</strong> · @NobrainerNg · 2026-11-13T02:00:41.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/NobrainerNg/status/2121060653586653579">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/johnhartquist/status/2120989114262749558"><img src="https://pbs.twimg.com/media/HW9EUiFaAAA0Ef4?format=jpg&amp;name=medium" alt="Use Rust enums as Jev Choice options · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发者工具</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/johnhartquist/status/2120989114262749558">Use Rust enums as Jev Choice options</a></h3>
+<p>The post shows how, in system2, a Rust enum can be used as the options of a Jev Choice: its doc comments describe them to Jev, and the answer is one of the variants. All questions go out in one request, and typed answers come back ready for programmatic decisions.</p>
+<p><strong>中文摘要：</strong>该帖子展示了在system2中，如何将Rust enum用作Jev Choice的选项：其文档注释向Jev描述选项含义，返回结果直接对应一个枚举变体。所有问题通过一次请求发出，答案以类型化形式返回，便于程序化决策。</p>
+<p><strong>John Hartquist</strong> · @johnhartquist · 2026-11-12T21:16:25.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 38</p>
+<p><a href="https://x.com/johnhartquist/status/2120989114262749558">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/kacperkapusciak/status/2120894966268346405"><img src="https://pbs.twimg.com/media/HW7t1vEXAAA_0ar?format=png&amp;name=medium" alt="Filter e2e tests smartly with Jev · 原帖图片" width="100%"></a>

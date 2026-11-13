@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 465 | 193 | 272 | 802K |
+| 467 | 193 | 274 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Ragic/status/2121044212858884494"><img src="https://pbs.twimg.com/media/HW92c02bsAASJyk?format=png&amp;name=medium" alt="Ragic AI Agent Automatically Adopts Jev After Testing · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Ragic/status/2121044212858884494">Ragic AI Agent Automatically Adopts Jev After Testing</a></h3>
+<p>Ragic found in testing that Jev costs less per task than general-purpose LLMs while maintaining comparable accuracy. Users need no extra setup—Ragic&#39;s AI Agent switches to Jev automatically when the task fits.</p>
+<p><strong>中文摘要：</strong>Ragic 在测试中发现，Jev 的单任务成本低于通用大语言模型，且准确度相当。用户无需额外设置，AI Agent 会在任务合适时自动切换到 Jev。</p>
+<p><strong>Ragic</strong> · @Ragic · 2026-11-13T00:55:22.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><a href="https://x.com/Ragic/status/2121044212858884494">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Ragic/status/2121043677233766705"><img src="https://pbs.twimg.com/media/HW91-pZbsAAzp4o?format=jpg&amp;name=medium" alt="Ragic AI Agent Automatically Switches to Jev for Classification · 原帖图片" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/Ragic/status/2121043677233766705">Ragic AI Agent Automatically Switches to Jev for Classification</a></h3>
+<p>Ragic announces that its AI Agent now automatically uses the Jev model when picking from fixed options, with no changes needed, making it faster and cheaper.</p>
+<p><strong>中文摘要：</strong>Ragic 宣布其 AI Agent 在从固定选项中选择时自动使用 Jev 模型，无需用户更改任何设置，速度更快且成本更低。</p>
+<p><strong>Ragic</strong> · @Ragic · 2026-11-13T00:53:14.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 10</p>
+<p><a href="https://x.com/Ragic/status/2121043677233766705">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/LLMDevPass/status/2120897361845031231"><img src="https://pbs.twimg.com/media/HW7w6Q-XkAAByuf?format=png&amp;name=medium" alt="Jev 1.14 is the fastest-growing model on LLM Gateway · 原帖图片" width="100%"></a>

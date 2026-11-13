@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 660 | 292 | 371 | 1.1M |
+| 662 | 293 | 372 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/edward_the6/status/2121017378888634559"><img src="https://pbs.twimg.com/amplify_video_thumb/2121017270361063424/img/-XIxD5qmGny_96LM.jpg" alt="Edward Tian Announces AI Vision 2.0 with Jev Model-Powered Personalized Tags · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/edward_the6/status/2121017378888634559">Edward Tian Announces AI Vision 2.0 with Jev Model-Powered Personalized Tags</a></h3>
+<p>AI Vision 2.0 is the first slop detector that exposes content as you scroll. The 2.0 launch adds full customization, including personalizable content tags powered by Jev models and content blocking.</p>
+<p><strong>中文摘要：</strong>AI Vision 2.0 是首款滚动时暴露低质内容的检测器，新增完全自定义功能，包括由 Jev 模型驱动的个性化内容标签和内容屏蔽能力。</p>
+<p><strong>Edward Tian</strong> · @edward_the6 · 2026-11-12T23:08:44.000Z</p>
+<p>💬 11 &nbsp; 🔁 17 &nbsp; ♡ 63 &nbsp; 📊 3.9K</p>
+<p><a href="https://x.com/edward_the6/status/2121017378888634559">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tymofii/status/2120996170906354040"><img src="https://pbs.twimg.com/media/HW9KtxSWwAA17nq?format=jpg&amp;name=medium" alt="Google Launches Gemini Decisions API, Comparing to Jev System 1 LLMs · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/tymofii/status/2120996170906354040">Google Launches Gemini Decisions API, Comparing to Jev System 1 LLMs</a></h3>
+<p>The post recalls the hype around Jev (System 1 LLMs) a few weeks ago, and notes that Google has just launched Gemini Decisions API, which can score up to 1,000 yes/no, multiple-choice, or rubric questions in one pass over text, images, audio, video, or PDFs, returning calibrated probabilities.</p>
+<p><strong>中文摘要：</strong>帖子回顾几周前 Jev（System 1 LLM）的热度，并指出 Google 刚刚推出 Gemini Decisions API，一次可对文本、图像、音频、视频或 PDF 中的最多 1000 道是非、多选或评分题进行打分，返回经校准的概率。</p>
+<p><strong>Tymofii Antonenko</strong> · @tymofii · 2026-11-12T21:44:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 34</p>
+<p><a href="https://x.com/tymofii/status/2120996170906354040">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/aiedge_/status/2120899437732282781"><img src="https://pbs.twimg.com/media/HW7yzI0boAA5v7P?format=jpg&amp;name=medium" alt="Google Introduces a Jev Competitor · 原帖图片" width="100%"></a>

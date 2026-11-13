@@ -1,9 +1,10 @@
 # TypeSafe AI
 
-7 Jev showcases.
+8 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T20:12:07.000Z | [Jev Gives You Back the Evenings Spent Picking a Vacation Rental](https://x.com/typesafeai/status/2120972933375869140) | 营销 | TypeSafe AI | 7.4K |
 | 2026-11-06T01:54:20.000Z | [How Jev Makes Reliable Judgments](https://x.com/typesafeai/status/2118522339235389607) | 工作原理 | TypeSafe AI | 5.0K |
 | 2026-10-27T22:19:29.000Z | [Jev Hands Agents the Right Tool](https://x.com/typesafeai/status/2115206780515192929) | 智能体 | TypeSafe AI | 6.6K |
 | 2026-10-26T18:23:54.000Z | [TypeSafe AI Free Ice Cream Event](https://x.com/typesafeai/status/2114785106858795418) | 营销 | TypeSafe AI | 9.5K |

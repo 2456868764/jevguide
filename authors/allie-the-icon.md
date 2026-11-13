@@ -1,9 +1,10 @@
 # Allie the Icon
 
-11 Jev showcases.
+12 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-12T17:16:16.000Z | [Upgrading a Personal Voice Assistant with Jev Fast Paths](https://x.com/allietheicon/status/2120928679404638424) | 智能体 | Allie the Icon | 739 |
 | 2026-11-10T22:53:49.000Z | [Seeing Amazing Things with Jev](https://x.com/allietheicon/status/2120288848391651778) | 社区实践 | Allie the Icon | 436 |
 | 2026-11-10T19:10:48.000Z | [Demo Showcasing Jev's Potential in BI/Data Analysis Praised](https://x.com/allietheicon/status/2120232726133657600) | 数据分析 | Allie the Icon | 449 |
 | 2026-11-06T00:58:58.000Z | [Why Jev Is Not a Decision Model?](https://x.com/allietheicon/status/2118508404192981040) | 工作原理 | Allie the Icon | 22K |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 424 | 310 | 118 | 588K |
+| 426 | 312 | 118 | 588K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/rsasaki0109/status/2121006661494358392"><img src="https://pbs.twimg.com/amplify_video_thumb/2121005919278702592/img/kkrc2OMzYzfUWGpC.jpg" alt="Jev Beats Pokémon Red · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/rsasaki0109/status/2121006661494358392">Jev Beats Pokémon Red</a></h3>
+<p>The AI decision model Jev plays Pokémon Red and beats the game in 37h 40m, demonstrating real-world gaming application.</p>
+<p><strong>中文摘要：</strong>AI决策模型Jev游玩《宝可梦 红》，用时37小时40分钟通关，展示了在真实游戏环境中的应用能力。</p>
+<p><strong>Ryohei Sasaki@engineer</strong> · @rsasaki0109 · 2026-11-12T22:26:09.000Z</p>
+<p>💬 1 &nbsp; 🔁 2 &nbsp; ♡ 3 &nbsp; 📊 409</p>
+<p><a href="https://x.com/rsasaki0109/status/2121006661494358392">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tyschultz7/status/2121004373304057937"><img src="https://pbs.twimg.com/amplify_video_thumb/2121004031896092672/img/0SQwgfukviy6A0d_.jpg" alt="Voice-Only Input Prototype Using Jev for Decisions · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>游戏</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/tyschultz7/status/2121004373304057937">Voice-Only Input Prototype Using Jev for Decisions</a></h3>
+<p>A quick prototype converting a Clash Royale clone to voice-only input, using Parakeet for speech and Jev for decisions, exploring voice as the future interface.</p>
+<p><strong>中文摘要：</strong>作者展示了一个将《皇室战争》类游戏改为纯语音输入的原型，使用 Parakeet 听取语音、Jev 负责决策，探索语音成为未来交互方式的可能。</p>
+<p><strong>Tyler Schultz</strong> · @tyschultz7 · 2026-11-12T22:17:03.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 36</p>
+<p><a href="https://x.com/tyschultz7/status/2121004373304057937">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/buddypia/status/2120882686768386241"><img src="https://pbs.twimg.com/amplify_video_thumb/2120858269094989824/img/Py8QjEb7ybtITyHy.jpg" alt="Testing Jev version on Doom: ignoring enemies and rushing to complete the game · 原帖视频截图" width="100%"></a>

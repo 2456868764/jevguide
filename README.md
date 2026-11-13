@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7413</strong><br>curated posts</td>
-<td align="center"><strong>3638</strong><br>original videos</td>
+<td align="center"><strong>7438</strong><br>curated posts</td>
+<td align="center"><strong>3646</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1469</strong> showcases · <strong>612</strong> videos</p>
+<p><strong>1474</strong> showcases · <strong>614</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>685</strong> showcases · <strong>336</strong> videos</p>
+<p><strong>687</strong> showcases · <strong>337</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>660</strong> showcases · <strong>292</strong> videos</p>
+<p><strong>662</strong> showcases · <strong>293</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -48,19 +48,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/how-it-works.md">How it works</a></h3>
 <p><sub>工作原理</sub></p>
-<p><strong>650</strong> showcases · <strong>287</strong> videos</p>
+<p><strong>651</strong> showcases · <strong>287</strong> videos</p>
 <p><a href="categories/how-it-works.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>626</strong> showcases · <strong>332</strong> videos</p>
+<p><strong>630</strong> showcases · <strong>333</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>465</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>467</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -68,13 +68,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>424</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>427</strong> showcases · <strong>163</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
-<p><strong>424</strong> showcases · <strong>310</strong> videos</p>
+<p><strong>426</strong> showcases · <strong>312</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -88,34 +88,34 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>318</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>319</strong> showcases · <strong>193</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>203</strong> showcases · <strong>154</strong> videos</p>
+<p><strong>204</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>147</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>148</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
+<p><sub>科研</sub></p>
+<p><strong>141</strong> showcases · <strong>40</strong> videos</p>
+<p><a href="categories/scientific-research.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
 <p><strong>140</strong> showcases · <strong>101</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/scientific-research.md">Scientific research</a></h3>
-<p><sub>科研</sub></p>
-<p><strong>140</strong> showcases · <strong>40</strong> videos</p>
-<p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexSlobodnik/status/2120905516352246020"><img src="https://pbs.twimg.com/media/HW735Q6XMAAwc2V?format=jpg&amp;name=900x900" alt="Jev community café: new use cases from the crowd · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexSlobodnik/status/2120905516352246020">Jev community café: new use cases from the crowd</a></h3>
-<p>Slobo reports high curiosity around Jev, with a packed Corgi Cafe this week. Attendees shared use cases such as selecting tools from Composio&#39;s integration library and identifying Russian regulatory concepts without full translation.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Slobo</strong> · @AlexSlobodnik</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/DonaldDeFi_/status/2121082001864143073"><img src="https://pbs.twimg.com/media/HW-Y1LlWMAA84qH?format=jpg&amp;name=medium" alt="Chinese Translation of Jev Engineering Released · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DonaldDeFi_/status/2121082001864143073">Chinese Translation of Jev Engineering Released</a></h3>
+<p>This Chinese translation of Jev Engineering preserves the original structure and seven illustrations. It argues that coding-agent differences lie in what each loop feeds the model, not the model-and-tools loop itself.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Donald_KK</strong> · @DonaldDeFi_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/VishwaMehta30/status/2120903486753964080"><img src="https://pbs.twimg.com/amplify_video_thumb/2120901808839364608/img/oSZzS3_Rbe_BloLV.jpg" alt="Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/VishwaMehta30/status/2120903486753964080">Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment</a></h3>
-<p>The author loves their Fuji XT50 but finds photo editing painful, and shares an idea for a voice-controlled editing app. They show Jev analyzing prompts word by word and deciding whether to act mid-sentence or wait for confirmation.</p>
-<p><strong>45</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 45</p>
-<p><strong>Vish</strong> · @VishwaMehta30</p>
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/NTTWestOfficial/status/2121080657304854733"><img src="https://pbs.twimg.com/media/HW-XnCCaUAA2A0v?format=jpg&amp;name=medium" alt="NTT West Engineers&#39; Blog: Comparing Jev and BERT for Automated Classification · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/NTTWestOfficial/status/2121080657304854733">NTT West Engineers&#39; Blog: Comparing Jev and BERT for Automated Classification</a></h3>
+<p>NTT WEST Engineers&#39; Blog publishes a comparative verification of Jev, which can handle new categories without additional training, and BERT, which learns from labeled data, along with key points for choosing between them based on the results.</p>
+<p><strong>204</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 204</p>
+<p><strong>NTT西日本</strong> · @NTTWestOfficial</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>内容创作</code> <code>原帖视频</code></p>
-<a href="https://x.com/whensdeyi/status/2120900896532095108"><img src="https://pbs.twimg.com/amplify_video_thumb/2120898922440970240/img/DTzGiSwfX6FkQPZl.jpg" alt="Jev Powers Lisa&#39;s Motion Copy and Expression Generation · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/whensdeyi/status/2120900896532095108">Jev Powers Lisa&#39;s Motion Copy and Expression Generation</a></h3>
-<p>Dawna Yi shares using Minimax-H3-Image, 2-step pDMD LoRA, and Jev to generate facial expressions and detailed hand motions, output as GIF, while working on body postures.</p>
-<p><strong>54</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 54</p>
-<p><strong>Dawna Yi</strong> · @whensdeyi</p>
+<p><strong>03</strong> &nbsp; <code>开发者工具</code> <code>原帖视频</code></p>
+<a href="https://x.com/NobrainerNg/status/2121060653586653579"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2121060586456829952/pu/img/2oyPZTYv3Ov-jAwW.jpg" alt="Google Gemini Decisions API Compared with TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/NobrainerNg/status/2121060653586653579">Google Gemini Decisions API Compared with TypeSafe Jev</a></h3>
+<p>Introduces Google Gemini Decisions API, an AI that outputs only decision answers with confidence scores, low latency and low cost, noting it is the third option after TypeSafe&#39;s Jev and OpenAI.</p>
+<p><strong>45</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><strong>Nobrainer Labs | Tech &amp; AI</strong> · @NobrainerNg</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Saschliik/status/2120899829861593546"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Jev Can Be Installed Locally · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Saschliik/status/2120899829861593546">Jev Can Be Installed Locally</a></h3>
-<p>The user refutes the &#39;API only&#39; claim, pointing out that Jev supports local installation and strongly recommending it.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Saschlik</strong> · @Saschliik</p>
+<p><strong>04</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/GergelyOrosz/status/2121053731114643785"><img src="https://pbs.twimg.com/media/HW9_G8baUAAWHHj?format=jpg&amp;name=medium" alt="Using Jev for newsletter search reranking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GergelyOrosz/status/2121053731114643785">Using Jev for newsletter search reranking</a></h3>
+<p>The Pragmatic Engineer author built newsletter search, loaded articles into tpuf, and used Jev to rerank search results; tpuf now natively supports Jev reranking.</p>
+<p><strong>631</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 631</p>
+<p><strong>Gergely Orosz</strong> · @GergelyOrosz</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/AlexSlobodnik/status/2120905516352246020"><img src="https://pbs.twimg.com/media/HW735Q6XMAAwc2V?format=jpg&amp;name=900x900" alt="Jev community café: new use cases from the crowd · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/AlexSlobodnik/status/2120905516352246020">Jev community café: new use cases from the crowd</a></h3>
-<p>Slobo reports high curiosity around Jev, with a packed Corgi Cafe this week. Attendees shared use cases such as selecting tools from Composio&#39;s integration library and identifying Russian regulatory concepts without full translation.</p>
-<p><strong>15</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
-<p><strong>Slobo</strong> · @AlexSlobodnik</p>
+<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/DonaldDeFi_/status/2121082001864143073"><img src="https://pbs.twimg.com/media/HW-Y1LlWMAA84qH?format=jpg&amp;name=medium" alt="Chinese Translation of Jev Engineering Released · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/DonaldDeFi_/status/2121082001864143073">Chinese Translation of Jev Engineering Released</a></h3>
+<p>This Chinese translation of Jev Engineering preserves the original structure and seven illustrations. It argues that coding-agent differences lie in what each loop feeds the model, not the model-and-tools loop itself.</p>
+<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
+<p><strong>Donald_KK</strong> · @DonaldDeFi_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Saschliik/status/2120899829861593546"><img src="https://pbs.twimg.com/amplify_video_thumb/2120574108635455488/img/oulKz9YqtupyRljq.jpg" alt="Jev Can Be Installed Locally · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Saschliik/status/2120899829861593546">Jev Can Be Installed Locally</a></h3>
-<p>The user refutes the &#39;API only&#39; claim, pointing out that Jev supports local installation and strongly recommending it.</p>
-<p><strong>1</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 1</p>
-<p><strong>Saschlik</strong> · @Saschliik</p>
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/GergelyOrosz/status/2121053731114643785"><img src="https://pbs.twimg.com/media/HW9_G8baUAAWHHj?format=jpg&amp;name=medium" alt="Using Jev for newsletter search reranking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GergelyOrosz/status/2121053731114643785">Using Jev for newsletter search reranking</a></h3>
+<p>The Pragmatic Engineer author built newsletter search, loaded articles into tpuf, and used Jev to rerank search results; tpuf now natively supports Jev reranking.</p>
+<p><strong>631</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 631</p>
+<p><strong>Gergely Orosz</strong> · @GergelyOrosz</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/aiedge_/status/2120899437732282781"><img src="https://pbs.twimg.com/media/HW7yzI0boAA5v7P?format=jpg&amp;name=medium" alt="Google Introduces a Jev Competitor · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/aiedge_/status/2120899437732282781">Google Introduces a Jev Competitor</a></h3>
-<p>AI Edge comments that Google just introduced a competitor to Jev and predicts more top labs will adopt decision frameworks.</p>
-<p><strong>1.3K</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 6 &nbsp; 📊 1.3K</p>
-<p><strong>AI Edge</strong> · @aiedge_</p>
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/Ragic/status/2121044212858884494"><img src="https://pbs.twimg.com/media/HW92c02bsAASJyk?format=png&amp;name=medium" alt="Ragic AI Agent Automatically Adopts Jev After Testing · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/Ragic/status/2121044212858884494">Ragic AI Agent Automatically Adopts Jev After Testing</a></h3>
+<p>Ragic found in testing that Jev costs less per task than general-purpose LLMs while maintaining comparable accuracy. Users need no extra setup—Ragic&#39;s AI Agent switches to Jev automatically when the task fits.</p>
+<p><strong>7</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 7</p>
+<p><strong>Ragic</strong> · @Ragic</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/JamesMalsawm/status/2120886838860623936"><img src="https://pbs.twimg.com/media/HW7DL8wbsAAxKYm?format=jpg&amp;name=medium" alt="Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/JamesMalsawm/status/2120886838860623936">Google launches Gemini Decision 1, competing with TypeSafe&#39;s Jev</a></h3>
-<p>The post notes Google launched Gemini Decision 1 as a competitor to TypeSafe&#39;s Jev, with pricing of $0.10 per 1M input tokens vs. $0.042 for Jev.</p>
-<p><strong>238</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 238</p>
-<p><strong>James Malsawm</strong> · @JamesMalsawm</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jmbellod92/status/2121007419614703968"><img src="https://pbs.twimg.com/media/HW9TFVXaQAA7Pzz?format=jpg&amp;name=medium" alt="Jev with Web Context Experience · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jmbellod92/status/2121007419614703968">Jev with Web Context Experience</a></h3>
+<p>A community member notes that Jev performs impressively when combined with web context, suggesting better results with real-time web information.</p>
+<p><strong>90</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 90</p>
+<p><strong>Juan Manuel Bello</strong> · @jmbellod92</p>
 </td>
 </tr>
 </table>

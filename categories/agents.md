@@ -4,11 +4,59 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 626 | 332 | 296 | 3.0M |
+| 630 | 333 | 299 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/jpschroeder/status/2121022664987029840"><img src="https://pbs.twimg.com/amplify_video_thumb/2120647086169591808/img/wQPrOP8N6VmgTanN.jpg" alt="Domain-specific agents with Jev and LLM · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/jpschroeder/status/2121022664987029840">Domain-specific agents with Jev and LLM</a></h3>
+<p>Justin Schroeder says small domain-specific agents combining LLM with Jev/decision models are the sweet spot for automation and machine-level intelligence.</p>
+<p><strong>中文摘要：</strong>Justin Schroeder 认为，将 LLM 与 Jev/决策模型结合的小型领域专用智能体，是面向自动化和机器级智能的关键方向。</p>
+<p><strong>Justin Schroeder</strong> · @jpschroeder · 2026-11-12T23:29:44.000Z</p>
+<p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 9 &nbsp; 📊 650</p>
+<p><a href="https://x.com/jpschroeder/status/2121022664987029840">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/johnhartquist/status/2120988991705231774"><img src="https://pbs.twimg.com/media/HW9ENXHasAAv-lg?format=png&amp;name=medium" alt="Jev Shopping Cart Pattern: Handling Multiple Items with Live Preview · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/johnhartquist/status/2120988991705231774">Jev Shopping Cart Pattern: Handling Multiple Items with Live Preview</a></h3>
+<p>Describes using the shopping cart pattern to have Jev confirm items one by one, updating the preview when the user pauses.</p>
+<p><strong>中文摘要：</strong>介绍使用购物车模式让Jev在对话中逐项确认，并以说话暂停为触发条件更新预览。</p>
+<p><strong>John Hartquist</strong> · @johnhartquist · 2026-11-12T21:15:56.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><a href="https://x.com/johnhartquist/status/2120988991705231774">在 X 查看原帖</a> · <a href="https://t.co/EM8dJND4vx">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/johnhartquist/status/2120988883412496533"><img src="https://pbs.twimg.com/media/HW9EDY3akAA9rTH?format=png&amp;name=medium" alt="Jev-powered real-time transcript decisions · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/johnhartquist/status/2120988883412496533">Jev-powered real-time transcript decisions</a></h3>
+<p>As text streams in, a server repeatedly asks Jev which action to take, which existing item to affect, and which words should be the item&#39;s text. Changes require 0.7+ intent confidence (0.85 for delete).</p>
+<p><strong>中文摘要：</strong>服务器在文字流过程中反复询问Jev：应采取什么操作、影响哪个已有条目、应使用哪些词作为条目文本。更改需0.7以上意图置信度（删除需0.85）。</p>
+<p><strong>John Hartquist</strong> · @johnhartquist · 2026-11-12T21:15:30.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 50</p>
+<p><a href="https://x.com/johnhartquist/status/2120988883412496533">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/allietheicon/status/2120928679404638424"><img src="https://pbs.twimg.com/media/HW8NZGUbIAACUfE?format=jpg&amp;name=medium" alt="Upgrading a Personal Voice Assistant with Jev Fast Paths · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/allietheicon/status/2120928679404638424">Upgrading a Personal Voice Assistant with Jev Fast Paths</a></h3>
+<p>The user upgraded their personal voice assistant Spectra to handle simple lookups with Jev and Brave, getting spoken responses in under a second without an LLM, and keeps adding more Jev fast paths.</p>
+<p><strong>中文摘要：</strong>用户将个人语音助手 Spectra 升级，使用 Jev 和 Brave 处理简单查询，无需 LLM 即可在不到一秒内获得语音回复，并持续添加更多 Jev 快速路径。</p>
+<p><strong>Allie the Icon</strong> · @allietheicon · 2026-11-12T17:16:16.000Z</p>
+<p>💬 6 &nbsp; 🔁 0 &nbsp; ♡ 24 &nbsp; 📊 739</p>
+<p><a href="https://x.com/allietheicon/status/2120928679404638424">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/ForgeAI_gg/status/2120888324831269117"><img src="https://pbs.twimg.com/media/HW7osUFW4AAq9BF?format=jpg&amp;name=medium" alt="JEV picks every move in ForgeAI-hosted agents · 原帖图片" width="100%"></a>

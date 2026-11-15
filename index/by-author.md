@@ -11,8 +11,8 @@
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
 - [Stanislav Sorokin](../authors/stanislav-sorokin.md) — 17
 - [Geek Lite](../authors/geek-lite.md) — 15
+- [rody](../authors/rody.md) — 15
 - [恒星sun](../authors/恒星sun.md) — 15
-- [rody](../authors/rody.md) — 14
 - [AI 极客新闻](../authors/ai-极客新闻.md) — 13
 - [ericosiu](../authors/ericosiu.md) — 13
 - [Allie the Icon](../authors/allie-the-icon.md) — 12

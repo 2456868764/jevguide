@@ -1,9 +1,10 @@
 # rody
 
-14 Jev showcases.
+15 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T13:49:23.000Z | [Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no](https://x.com/0x_rody/status/2121963776576500018) | 智能体 | rody | 213 |
 | 2026-11-11T18:59:43.000Z | [Jev: A Model Router at $0.0004 per Decision](https://x.com/0x_rody/status/2120592326443880497) | 产品发布 | rody | 751 |
 | 2026-11-10T18:16:34.000Z | [Jev founder publishes PDF on agent acceleration harness](https://x.com/0x_rody/status/2120219078778609721) | 开发资源 | rody | 1.6K |
 | 2026-11-03T18:55:11.000Z | [Jev + Claude Code: The End of Content Agencies?](https://x.com/0x_rody/status/2117692082060218596) | 营销 | rody | 914 |

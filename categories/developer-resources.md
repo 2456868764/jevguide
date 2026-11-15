@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 428 | 163 | 265 | 419K |
+| 430 | 164 | 266 | 419K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>AI Stack Hacks ⚡ Subscriptions &amp; Productivity</strong> · @GalYouXiku · 2026-11-15T05:42:11.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><a href="https://x.com/GalYouXiku/status/2121841169751777463">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/savvy_luvvvv/status/2121652882453737738"><img src="https://pbs.twimg.com/amplify_video_thumb/2121524726115844096/img/pIl6n7rnRKSjwO-d.jpg" alt="JEV Guide: Drastically Cut AI Bot Costs &amp; Speed Up · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/savvy_luvvvv/status/2121652882453737738">JEV Guide: Drastically Cut AI Bot Costs &amp; Speed Up</a></h3>
+<p>Diogo Almeida&#39;s JEV harness guide shows how an engineering layer around an AI model can dramatically change speed and operating cost, promising up to 400x faster.</p>
+<p><strong>中文摘要：</strong>Diogo Almeida 的 JEV harness 指南展示了在 AI 模型外层增加工程层可显著改变速度与运行成本，并承诺最高可提升 400 倍速度。</p>
+<p><strong>Ling</strong> · @savvy_luvvvv · 2026-11-14T17:14:00.000Z</p>
+<p>💬 6 &nbsp; 🔁 3 &nbsp; ♡ 53 &nbsp; 📊 7.0K</p>
+<p><a href="https://x.com/savvy_luvvvv/status/2121652882453737738">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/18888puys/status/2121596511985553591"><img src="https://pbs.twimg.com/media/HXBGbsrbkAAU1eB?format=png&amp;name=900x900" alt="Awesome Jev List Curates 640 Open Source Projects · 原帖图片" width="100%"></a>
+<br>
+<sub><code>开发资源</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/18888puys/status/2121596511985553591">Awesome Jev List Curates 640 Open Source Projects</a></h3>
+<p>The post shares the Awesome Jev list, which includes 640 open-source projects built with Jev, covering 11 categories and 27 programming languages, and notes that each project explains how Jev is used.</p>
+<p><strong>中文摘要：</strong>帖主分享了 Awesome Jev 清单，其中收录了 640 个基于 Jev 构建的开源项目，覆盖 11 个类别和 27 种编程语言，并强调每个项目都会说明 Jev 的具体用法。</p>
+<p><strong>王小野</strong> · @18888puys · 2026-11-14T13:30:00.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 3 &nbsp; 📊 52</p>
+<p><a href="https://x.com/18888puys/status/2121596511985553591">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/DonaldDeFi_/status/2121082001864143073"><img src="https://pbs.twimg.com/media/HW-Y1LlWMAA84qH?format=jpg&amp;name=medium" alt="Chinese Translation of Jev Engineering Released · 原帖图片" width="100%"></a>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 664 | 293 | 374 | 1.1M |
+| 666 | 294 | 375 | 1.1M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>Fabrizio Degni</strong> · @fabrizio_degni · 2026-11-15T03:42:12.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 98</p>
 <p><a href="https://x.com/fabrizio_degni/status/2121810977255530727">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/EverymansAI/status/2121672863229030424"><img src="https://pbs.twimg.com/media/HXGyNVfakAAVVWs?format=jpg&amp;name=medium" alt="S1 Watch #11: Google releases Gemini Decision 1, joining the S1 race · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/EverymansAI/status/2121672863229030424">S1 Watch #11: Google releases Gemini Decision 1, joining the S1 race</a></h3>
+<p>Google DeepMind released Gemini Decision 1 and a Gemini Decisions API. Like Jev, it writes no prose and returns typed answers with confidence scores your code can act on. S1 Watch: your release gate shouldn&#39;t change.</p>
+<p><strong>中文摘要：</strong>谷歌DeepMind发布了Gemini Decision 1和Gemini Decisions API。与Jev类似，不输出散文，而是返回带置信分数的类型化答案，供代码直接执行。S1观察提醒：你的发布门禁不应因此改变。</p>
+<p><strong>Everymans.ai</strong> · @EverymansAI · 2026-11-14T18:33:24.000Z</p>
+<p>💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 95</p>
+<p><a href="https://x.com/EverymansAI/status/2121672863229030424">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Joyingeth/status/2121623207874556394"><img src="https://pbs.twimg.com/amplify_video_thumb/2121623141042503680/img/T-Ur9Qazdy3JxoOJ.jpg" alt="Jev design notes PDF claims up to 200x faster and 400x cheaper coding agents · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Joyingeth/status/2121623207874556394">Jev design notes PDF claims up to 200x faster and 400x cheaper coding agents</a></h3>
+<p>The post shares a PDF compiled from design notes by TypeSafe AI co-founder Diogo Almeida, breaking down the Jev harness and citing claimed gains in coding agent speed and cost efficiency.</p>
+<p><strong>中文摘要：</strong>推文分享由 TypeSafe AI 联合创始人 Diogo Almeida 设计笔记整理成的 PDF，介绍 Jev 的完整架构，并引用其宣称的编码代理性能提升与成本降低数据。</p>
+<p><strong>Joying.eth</strong> · @Joyingeth · 2026-11-14T15:16:05.000Z</p>
+<p>💬 11 &nbsp; 🔁 3 &nbsp; ♡ 39 &nbsp; 📊 5.4K</p>
+<p><a href="https://x.com/Joyingeth/status/2121623207874556394">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

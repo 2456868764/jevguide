@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 632 | 333 | 301 | 3.0M |
+| 634 | 333 | 303 | 3.0M |
 
 ## Showcase 卡片
 
@@ -31,6 +31,30 @@
 <p><strong>BrainChain</strong> · @usebrainchain · 2026-11-14T21:52:40.000Z</p>
 <p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 184</p>
 <p><a href="https://x.com/usebrainchain/status/2121723011955134670">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2121647436926263341"><img src="https://pbs.twimg.com/media/HXGbGe_aIAAvVu9?format=jpg&amp;name=medium" alt="Jev Real-World Use: Task 44 Hires Claude at 74% Confidence, Accepted at 97% · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2121647436926263341">Jev Real-World Use: Task 44 Hires Claude at 74% Confidence, Accepted at 97%</a></h3>
+<p>BrainChain shares on-chain proof of Jev agent completing a task: Jev engaged Claude at 74% confidence and accepted the output at 97% confidence, then minted by a collector on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布 Jev 智能体执行任务的链上证明：Jev 以 74% 的置信度选择 Claude 完成工作，并以 97% 的置信度验收成果，随后由收藏者在 ripples.run 铸造存档。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-14T16:52:21.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 6 &nbsp; 📊 132</p>
+<p><a href="https://x.com/usebrainchain/status/2121647436926263341">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/18888puys/status/2121581159889199319"><img src="https://pbs.twimg.com/media/HXBGDkCa4AMuhHG?format=png&amp;name=900x900" alt="Jev Chat Assistant: Reads Screen, Analyzes Intent, Generates Replies · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/18888puys/status/2121581159889199319">Jev Chat Assistant: Reads Screen, Analyzes Intent, Generates Replies</a></h3>
+<p>When you&#39;re unsure how to respond, Jev reads on-screen conversations, analyzes context and potential risks, suggests 3 replies, and fills them into the input box with one tap—no copy-paste needed.</p>
+<p><strong>中文摘要：</strong>在聊天中把握不准对方意图时，Jev 可读取屏幕上的对话，分析语境和潜在风险，提供 3 条回复建议，并一键填入输入框，省去复制粘贴。</p>
+<p><strong>王小野</strong> · @18888puys · 2026-11-14T12:29:00.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 66</p>
+<p><a href="https://x.com/18888puys/status/2121581159889199319">在 X 查看原帖</a></p>
 </td>
 </tr>
 <tr>

@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1481 | 615 | 874 | 3.0M |
+| 1483 | 616 | 875 | 3.0M |
 
 ## Showcase 卡片
 
@@ -92,6 +92,30 @@
 <p><strong>Frank Martinez</strong> · @frankismartinez · 2026-11-15T00:41:37.000Z</p>
 <p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 41</p>
 <p><a href="https://x.com/frankismartinez/status/2121765531732832632">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/greenwafflez/status/2121685507637674023"><img src="https://pbs.twimg.com/media/HXG9Id7WcAAz-hN?format=jpg&amp;name=medium" alt="User Shares Real-World Setup Using Jev to Cut Token Usage · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/greenwafflez/status/2121685507637674023">User Shares Real-World Setup Using Jev to Cut Token Usage</a></h3>
+<p>A user says they built an auto-compaction and routing system with Jev about a month ago to reduce token costs on Claude, Hermes, and OpenCode; benchmarks reportedly work well, and they plan to accept the offer and monetize it.</p>
+<p><strong>中文摘要：</strong>一位用户表示，约一个月前用 Jev 构建了自动压缩与路由系统，以降低 Claude、Hermes 和 OpenCode 的 token 开销，并称基准测试结果良好，决定接受提议并将其商业化。</p>
+<p><strong>𝔇𝔞𝔳𝔦𝔫𝔠𝔠𝔦 чужак</strong> · @greenwafflez · 2026-11-14T19:23:38.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
+<p><a href="https://x.com/greenwafflez/status/2121685507637674023">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/OmnimesOfficial/status/2121679718022086752"><img src="https://pbs.twimg.com/amplify_video_thumb/2121428279018299392/img/s0vYYktaiRZtZqev.jpg" alt="Jev shines in recycling classification decision API comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/OmnimesOfficial/status/2121679718022086752">Jev shines in recycling classification decision API comparison</a></h3>
+<p>In a sorting line video shared by Omnimes, 10 of 37 items are marked as “Unsure”, sending 27% of the belt back to a human. Sadao Tokuyama compared three decision APIs: Jev hits 72% accuracy, behind Gemini’s 76% and ahead of OpenAI’s 53%.</p>
+<p><strong>中文摘要：</strong>Omnimes 分享的分拣线视频中，37 件物品有 10 件被标为“不确定”，模型将 27% 的物料交回人工处理。Sadao Tokuyama 对比三个决策 API，结果显示 Jev 准确率 72%，仅次于 Gemini 的 76%，高于 OpenAI 的 53%。</p>
+<p><strong>Omnimes - Smart AI MES</strong> · @OmnimesOfficial · 2026-11-14T19:00:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/OmnimesOfficial/status/2121679718022086752">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/NathanOyler/status/2121035024602669448"><img src="https://pbs.twimg.com/media/HW82tOPWUAAsEFY.jpg" alt="User shares their creation built with Jev · 原帖视频截图" width="100%"></a>

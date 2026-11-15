@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7460</strong><br>curated posts</td>
-<td align="center"><strong>3652</strong><br>original videos</td>
+<td align="center"><strong>7479</strong><br>curated posts</td>
+<td align="center"><strong>3659</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1481</strong> showcases · <strong>615</strong> videos</p>
+<p><strong>1483</strong> showcases · <strong>616</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>664</strong> showcases · <strong>293</strong> videos</p>
+<p><strong>666</strong> showcases · <strong>294</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>632</strong> showcases · <strong>333</strong> videos</p>
+<p><strong>634</strong> showcases · <strong>333</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -68,7 +68,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/developer-resources.md">Developer resources</a></h3>
 <p><sub>开发资源</sub></p>
-<p><strong>428</strong> showcases · <strong>163</strong> videos</p>
+<p><strong>430</strong> showcases · <strong>164</strong> videos</p>
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -80,7 +80,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>418</strong> showcases · <strong>219</strong> videos</p>
+<p><strong>421</strong> showcases · <strong>220</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
@@ -88,19 +88,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>320</strong> showcases · <strong>193</strong> videos</p>
+<p><strong>322</strong> showcases · <strong>194</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>204</strong> showcases · <strong>155</strong> videos</p>
+<p><strong>205</strong> showcases · <strong>155</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>148</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>149</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/scientific-research.md">Scientific research</a></h3>
 <p><sub>科研</sub></p>
-<p><strong>141</strong> showcases · <strong>40</strong> videos</p>
+<p><strong>142</strong> showcases · <strong>40</strong> videos</p>
 <p><a href="categories/scientific-research.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>129</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>130</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/robotics.md">Robotics</a></h3>
 <p><sub>机器人</sub></p>
-<p><strong>64</strong> showcases · <strong>49</strong> videos</p>
+<p><strong>65</strong> showcases · <strong>50</strong> videos</p>
 <p><a href="categories/robotics.md">Open category →</a></p>
 </td>
 </tr>
@@ -178,18 +178,18 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/healthcare.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
-<p><sub>法律合规</sub></p>
-<p><strong>25</strong> showcases · <strong>9</strong> videos</p>
-<p><a href="categories/legal-compliance.md">Open category →</a></p>
+<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
+<p><sub>电商</sub></p>
+<p><strong>26</strong> showcases · <strong>20</strong> videos</p>
+<p><a href="categories/e-commerce.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/e-commerce.md">E-commerce</a></h3>
-<p><sub>电商</sub></p>
-<p><strong>25</strong> showcases · <strong>19</strong> videos</p>
-<p><a href="categories/e-commerce.md">Open category →</a></p>
+<h3><a href="categories/legal-compliance.md">Legal &amp; compliance</a></h3>
+<p><sub>法律合规</sub></p>
+<p><strong>25</strong> showcases · <strong>9</strong> videos</p>
+<p><a href="categories/legal-compliance.md">Open category →</a></p>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/cg_ftLab/status/2121921094307533196"><img src="https://pbs.twimg.com/amplify_video_thumb/2121920174328807424/img/T0CqxulPTFdID2NN.jpg" alt="Microduck robot uses Jev to optimize pick-up and carry flow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cg_ftLab/status/2121921094307533196">Microduck robot uses Jev to optimize pick-up and carry flow</a></h3>
+<p>A developer is using Jev in the Microduck project to find targets and drive the robot to approach, pick up with its mouth, and deliver to a red circle, aiming for natural animal-like movement.</p>
+<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><strong>ft-lab</strong> · @cg_ftLab</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
 <a href="https://x.com/comm1ted0/status/2121911894097252686"><img src="https://pbs.twimg.com/media/HXKLfCyXcAAPApN?format=png&amp;name=900x900" alt="Comparing Jev with Cloudflare decision models: price and benchmarks · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/comm1ted0/status/2121911894097252686">Comparing Jev with Cloudflare decision models: price and benchmarks</a></h3>
 <p>Recaps the earlier discussion on Jev versus Cloudflare decision models, then points to comparing price against benchmarks.</p>
 <p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><strong>MT</strong> · @comm1ted0</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/RetroChainer/status/2121908091633508666"><img src="https://pbs.twimg.com/amplify_video_thumb/2121908016530288641/img/Phwn_M3CQZc5sYLq.jpg" alt="ETH Desk Uses AI Chain Featuring JEV · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RetroChainer/status/2121908091633508666">ETH Desk Uses AI Chain Featuring JEV</a></h3>
 <p>The post describes an ETH trading desk that uses a 5-step chain of GitHub repos, Claude, GPT, JEV, and Grok Bot, with JEV contributing to trading decisions.</p>
 <p><strong>226</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 226</p>
 <p><strong>RetroChainer</strong> · @RetroChainer</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
 <p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
 <p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><strong>Superagentic AI</strong> · @SuperagenticAI</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/Shashikant86/status/2121881649730249148"><img src="https://pbs.twimg.com/amplify_video_thumb/2121880945309450240/img/T96kk6jrFeaZtRFW.jpg" alt="SuperQode SystemOne Adds OpenAI and Google Decision Model Support · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Shashikant86/status/2121881649730249148">SuperQode SystemOne Adds OpenAI and Google Decision Model Support</a></h3>
-<p>SuperQode&#39;s SystemOne harness now supports OpenAI and Google decision models alongside TypeSafe Jev, letting you choose a decision model separately from your coding model and see SystemOne&#39;s recommendations.</p>
-<p><strong>134</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 134</p>
-<p><strong>Shashi 🇬🇧 🌉</strong> · @Shashikant86</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
-<a href="https://x.com/comm1ted0/status/2121911894097252686"><img src="https://pbs.twimg.com/media/HXKLfCyXcAAPApN?format=png&amp;name=900x900" alt="Comparing Jev with Cloudflare decision models: price and benchmarks · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/comm1ted0/status/2121911894097252686">Comparing Jev with Cloudflare decision models: price and benchmarks</a></h3>
-<p>Recaps the earlier discussion on Jev versus Cloudflare decision models, then points to comparing price against benchmarks.</p>
-<p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
-<p><strong>MT</strong> · @comm1ted0</p>
+<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<a href="https://x.com/cg_ftLab/status/2121921094307533196"><img src="https://pbs.twimg.com/amplify_video_thumb/2121920174328807424/img/T0CqxulPTFdID2NN.jpg" alt="Microduck robot uses Jev to optimize pick-up and carry flow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cg_ftLab/status/2121921094307533196">Microduck robot uses Jev to optimize pick-up and carry flow</a></h3>
+<p>A developer is using Jev in the Microduck project to find targets and drive the robot to approach, pick up with its mouth, and deliver to a red circle, aiming for natural animal-like movement.</p>
+<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
+<p><strong>ft-lab</strong> · @cg_ftLab</p>
 </td>
 <td width="50%" valign="top">
 <p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
+<p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
+<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><strong>Superagentic AI</strong> · @SuperagenticAI</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/Shashikant86/status/2121881649730249148"><img src="https://pbs.twimg.com/amplify_video_thumb/2121880945309450240/img/T96kk6jrFeaZtRFW.jpg" alt="SuperQode SystemOne Adds OpenAI and Google Decision Model Support · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Shashikant86/status/2121881649730249148">SuperQode SystemOne Adds OpenAI and Google Decision Model Support</a></h3>
 <p>SuperQode&#39;s SystemOne harness now supports OpenAI and Google decision models alongside TypeSafe Jev, letting you choose a decision model separately from your coding model and see SystemOne&#39;s recommendations.</p>
 <p><strong>134</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 134</p>
 <p><strong>Shashi 🇬🇧 🌉</strong> · @Shashikant86</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2121874065468400059"><img src="https://pbs.twimg.com/media/HXJpN_SawAAaHk3?format=jpg&amp;name=medium" alt="Jev Task Proof #47 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2121874065468400059">Jev Task Proof #47</a></h3>
-<p>Jev hired Claude at 87% confidence and accepted the work at 95%. The task proof was minted by a collector on ripples.run.</p>
-<p><strong>149</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 149</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/0rdlibrary/status/2121826325459828796"><img src="https://pbs.twimg.com/media/HXI9y3HWoAAPzke?format=jpg&amp;name=medium" alt="PumpAI Decision Platform Powered by Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2121826325459828796">PumpAI Decision Platform Powered by Jev</a></h3>
-<p>This post introduces decide.pumpai.ai, a Solana decision platform powered by TypeSafe AI&#39;s Jev and built with PumpFun, PhoenixTrade, and ImperialPerps.</p>
-<p><strong>320</strong> views · 💬 2 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 320</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/snaga/status/2121836702209814562"><img src="https://pbs.twimg.com/media/HXJGx_0b0AAGs9o?format=png&amp;name=small" alt="Adding Jev-powered auto-tagging to a bookmark app · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/snaga/status/2121836702209814562">Adding Jev-powered auto-tagging to a bookmark app</a></h3>
+<p>The author implemented a tag-add screen for a personal bookmark app, using Gemini to generate the tagging prompt for Jev, sharing an approach to intelligent software.</p>
+<p><strong>136</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 136</p>
+<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga</p>
 </td>
 </tr>
 </table>

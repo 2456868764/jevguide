@@ -4,7 +4,7 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 320 | 193 | 127 | 595K |
+| 322 | 194 | 128 | 595K |
 
 ## Showcase 卡片
 
@@ -20,6 +20,30 @@
 <p><strong>Lenny Enderle</strong> · @lenny_enderle · 2026-11-14T22:14:41.000Z</p>
 <p>💬 2 &nbsp; 🔁 1 &nbsp; ♡ 4 &nbsp; 📊 43</p>
 <p><a href="https://x.com/lenny_enderle/status/2121728553121448298">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AKadry99/status/2121634127543718088"><img src="https://pbs.twimg.com/amplify_video_thumb/2121630851473563648/img/eeFURbxW8V784AWQ.jpg" alt="Jev as the decision layer: Fable 5.2 proposes, Jev chooses, code has the last word · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/AKadry99/status/2121634127543718088">Jev as the decision layer: Fable 5.2 proposes, Jev chooses, code has the last word</a></h3>
+<p>The author argues running Fable 5.2 raw is costly and describes a loop: Fable 5.2 proposes, Jev selects, code makes the final decision and logs everything. The idea is to use Jev as a decision layer to cut the cost of the same number of decisions.</p>
+<p><strong>中文摘要：</strong>作者表示直接运行 Fable 5.2 成本很高，并提出一个循环：Fable 5.2 生成建议，Jev 负责选择，代码做最终决定并留下记录。核心是让 Jev 担任决策层来降低同样决策量的成本。</p>
+<p><strong>Kadry</strong> · @AKadry99 · 2026-11-14T15:59:28.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 295</p>
+<p><a href="https://x.com/AKadry99/status/2121634127543718088">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/hanipcode/status/2121592375034487213"><img src="https://pbs.twimg.com/media/HXFolrfa8AADcEO?format=jpg&amp;name=medium" alt="Filtering email expenses with Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>自动化工作流</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hanipcode/status/2121592375034487213">Filtering email expenses with Jev</a></h3>
+<p>Automatically reads Gmail, uses Jev to check if an email is an expense, and only wakes an agent to extract data when it is, saving tokens.</p>
+<p><strong>中文摘要：</strong>自动读取Gmail邮件，先用Jev判断是否为支出，只有支出才唤醒代理提取数据并录入追踪器，从而节省token。</p>
+<p><strong>hanip</strong> · @hanipcode · 2026-11-14T13:13:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 1 &nbsp; ♡ 0 &nbsp; 📊 45</p>
+<p><a href="https://x.com/hanipcode/status/2121592375034487213">在 X 查看原帖</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/codex_aca/status/2121000088655069367"><img src="https://pbs.twimg.com/media/HW9IMAObEAAos2Y?format=jpg&amp;name=medium" alt="Automate Email Routing with Jev: Compare with OpenAI Decisions API · 原帖图片" width="100%"></a>

@@ -37,6 +37,7 @@
 - [Alex](../authors/alex.md) — 9
 - [David Bressler](../authors/david-bressler.md) — 9
 - [Gipp 🦅](../authors/gipp.md) — 9
+- [HodlReaper](../authors/hodlreaper.md) — 9
 - [Kurt](../authors/kurt.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
@@ -45,7 +46,6 @@
 - [Charly Wargnier ♨️](../authors/charly-wargnier.md) — 8
 - [Frit🅾️ Pendej🅾️](../authors/frit-pendej.md) — 8
 - [hev mind](../authors/hev-mind.md) — 8
-- [HodlReaper](../authors/hodlreaper.md) — 8
 - [Nathan LeClaire](../authors/nathan-leclaire.md) — 8
 - [rewind](../authors/rewind.md) — 8
 - [Skrilla](../authors/skrilla.md) — 8

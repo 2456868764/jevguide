@@ -2,7 +2,7 @@
 
 - [Community builds](../categories/community-builds.md) — 1485
 - [Developer tools](../categories/developer-tools.md) — 689
-- [Launch news](../categories/launch-news.md) — 667
+- [Launch news](../categories/launch-news.md) — 668
 - [How it works](../categories/how-it-works.md) — 652
 - [Agents](../categories/agents.md) — 636
 - [Access updates](../categories/access-updates.md) — 469
@@ -15,7 +15,7 @@
 - [Scientific research](../categories/scientific-research.md) — 142
 - [Content creation](../categories/content-creation.md) — 141
 - [Data analytics](../categories/data-analytics.md) — 130
-- [Cybersecurity](../categories/cybersecurity.md) — 98
+- [Cybersecurity](../categories/cybersecurity.md) — 99
 - [Customer support](../categories/customer-support.md) — 74
 - [Robotics](../categories/robotics.md) — 65
 - [Software development](../categories/software-development.md) — 56

@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T17:00:17.000Z | [Enable Jev judgment for every new CVE in Kafka Streams](https://x.com/alginte_sw/status/2122011818310680619) | 网络安全 | alginte software | 3 |
+| 2026-11-15T16:54:02.000Z | [TypeSafe AI Launches Jev Decision Model](https://x.com/MikeTamir/status/2122010245799047540) | 产品发布 | Mike Tamir, PhD | 96 |
 | 2026-11-15T16:10:41.000Z | [Inspiration for combining Jev with Generative UI](https://x.com/Rubber__Soul_/status/2121999335978381645) | 社区实践 | 毎晩カレー | 2 |
 | 2026-11-15T14:39:48.000Z | [Jev Rating Filters GTA 6 Hype Coin Trades](https://x.com/HodlReaper/status/2121976464769683741) | 金融 | HodlReaper | 257 |
 | 2026-11-15T13:49:23.000Z | [Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no](https://x.com/0x_rody/status/2121963776576500018) | 智能体 | rody | 213 |
@@ -100,5 +102,3 @@
 | 2026-11-12T13:56:25.000Z | [Jev classifies support tickets: 500 emails in 5.5 seconds](https://x.com/heyLuminvera/status/2120878384448442767) | 客户支持 | Luminvera \| Custom Software Development \| Forge | 5 |
 | 2026-11-12T13:42:14.000Z | [Organizing Jev-Style Decision Models: What Do They Actually Do?](https://x.com/studio_yebisu/status/2120874813673877865) | 工作原理 | StudioYebisu | 823 |
 | 2026-11-12T13:35:53.000Z | [Google Unveils Gemini Decision 1, Mentions Jev](https://x.com/YouthChina/status/2120873218361979145) | 产品发布 | Youth China | 12 |
-| 2026-11-12T13:26:11.000Z | [Jev no longer one of a kind? Google launches Gemini Decision 1](https://x.com/sudeepsriv/status/2120870774261391572) | 产品发布 | Sudeep Srivastava | 21 |
-| 2026-11-12T13:25:54.000Z | [Grokbot trading bot earns $11,912 in a month, Jev runs 7 pre-buy checks](https://x.com/HodlReaper/status/2120870705554174327) | 金融 | HodlReaper | 225 |

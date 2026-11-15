@@ -207,6 +207,7 @@
 - [Matthew Berman](../authors/matthew-berman.md) — 4
 - [Michael Yuan](../authors/michael-yuan.md) — 4
 - [Miguel Ríos Berríos](../authors/miguel-rios-berrios.md) — 4
+- [Mike Tamir, PhD](../authors/mike-tamir-phd.md) — 4
 - [Modified Bessel Function](../authors/modified-bessel-function.md) — 4
 - [Mohit](../authors/mohit.md) — 4
 - [Mojofull](../authors/mojofull.md) — 4
@@ -360,7 +361,6 @@
 - [Mercity AI](../authors/mercity-ai.md) — 3
 - [Michael Guo](../authors/michael-guo.md) — 3
 - [Mika Heinonen](../authors/mika-heinonen.md) — 3
-- [Mike Tamir, PhD](../authors/mike-tamir-phd.md) — 3
 - [Milind S](../authors/milind-s.md) — 3
 - [min heo](../authors/min-heo.md) — 3
 - [Mnimiy](../authors/mnimiy.md) — 3
@@ -1361,6 +1361,7 @@
 - [alexxx](../authors/alexxx.md) — 1
 - [Alexy B](../authors/alexy-b.md) — 1
 - [Alfa123](../authors/alfa123.md) — 1
+- [alginte software](../authors/alginte-software.md) — 1
 - [Alhimik](../authors/alhimik.md) — 1
 - [ali](../authors/ali.md) — 1
 - [Ali Imran Memon](../authors/ali-imran-memon.md) — 1

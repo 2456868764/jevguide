@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7488</strong><br>curated posts</td>
-<td align="center"><strong>3667</strong><br>original videos</td>
+<td align="center"><strong>7490</strong><br>curated posts</td>
+<td align="center"><strong>3668</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>667</strong> showcases · <strong>295</strong> videos</p>
+<p><strong>668</strong> showcases · <strong>295</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>98</strong> showcases · <strong>31</strong> videos</p>
+<p><strong>99</strong> showcases · <strong>32</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,7 +205,25 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/alginte_sw/status/2122011818310680619"><img src="https://pbs.twimg.com/amplify_video_thumb/2122011367964110849/img/ZEyJv1NZkH6rsHg6.jpg" alt="Enable Jev judgment for every new CVE in Kafka Streams · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/alginte_sw/status/2122011818310680619">Enable Jev judgment for every new CVE in Kafka Streams</a></h3>
+<p>This post demonstrates a simulated production scenario: an Enrich step in a Kafka Streams topology calls TypeSafe&#39;s Jev model to judge each new CVE, simulated in preview and real in production.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>alginte software</strong> · @alginte_sw</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/MikeTamir/status/2122010245799047540"><img src="https://pbs.twimg.com/media/HXLlEtvWIAAnFrs?format=jpg&amp;name=medium" alt="TypeSafe AI Launches Jev Decision Model · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/MikeTamir/status/2122010245799047540">TypeSafe AI Launches Jev Decision Model</a></h3>
+<p>Jev is a decision-only model that skips text generation to return typed probabilistic decisions, targeting fast routing, classification, and agent pre-screening.</p>
+<p><strong>96</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 96</p>
+<p><strong>Mike Tamir, PhD</strong> · @MikeTamir</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/Rubber__Soul_/status/2121999335978381645"><img src="https://pbs.twimg.com/amplify_video_thumb/2121015547387076608/img/X10kVib4QjRhWnJH.jpg" alt="Inspiration for combining Jev with Generative UI · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Rubber__Soul_/status/2121999335978381645">Inspiration for combining Jev with Generative UI</a></h3>
 <p>The user says the content is really good and mentions wanting to reference it to create something by combining Jev and Generative UI.</p>
@@ -213,30 +231,12 @@ Recently added Jev posts, ordered by source publish date.
 <p><strong>毎晩カレー</strong> · @Rubber__Soul_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/HodlReaper/status/2121976464769683741"><img src="https://pbs.twimg.com/amplify_video_thumb/2121976285433851904/img/_G0EGzGOEy7C84QF.jpg" alt="Jev Rating Filters GTA 6 Hype Coin Trades · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/HodlReaper/status/2121976464769683741">Jev Rating Filters GTA 6 Hype Coin Trades</a></h3>
 <p>A user had a Grok bot trade GTA 6 hype coins on pump.fun, with Jev rating each coin before buying (4+ stars = no entry), cutting losers at -6%, and hitting a 10x goal by Sunday.</p>
 <p><strong>257</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 257</p>
 <p><strong>HodlReaper</strong> · @HodlReaper</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
-<a href="https://x.com/0x_rody/status/2121963776576500018"><img src="https://pbs.twimg.com/amplify_video_thumb/2121961513762082816/img/0Be8d9bADf2OOWEO.jpg" alt="Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0x_rody/status/2121963776576500018">Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no</a></h3>
-<p>The Jev founder consolidated everything published on Jev Engineering into a one-page PDF. The core formula is Decision Layer = LLM Writes + Jev Decides + Code Acts, with a step-by-step setup to help developers build a more efficient agent decision layer.</p>
-<p><strong>213</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 213</p>
-<p><strong>rody</strong> · @0x_rody</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2121949596377313568"><img src="https://pbs.twimg.com/media/HXKt6d3bAAAGqz9?format=jpg&amp;name=medium" alt="Jev completes task 48 and gets minted · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2121949596377313568">Jev completes task 48 and gets minted</a></h3>
-<p>Jev hired Claude at 89% confidence to execute a task, accepted the work at 95% confidence, and a collector minted the proof on ripples.run.</p>
-<p><strong>37</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/Rubber__Soul_/status/2121999335978381645"><img src="https://pbs.twimg.com/amplify_video_thumb/2121015547387076608/img/X10kVib4QjRhWnJH.jpg" alt="Inspiration for combining Jev with Generative UI · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Rubber__Soul_/status/2121999335978381645">Inspiration for combining Jev with Generative UI</a></h3>
-<p>The user says the content is really good and mentions wanting to reference it to create something by combining Jev and Generative UI.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>毎晩カレー</strong> · @Rubber__Soul_</p>
+<p><strong>01</strong> &nbsp; <code>网络安全</code> <code>原帖视频</code></p>
+<a href="https://x.com/alginte_sw/status/2122011818310680619"><img src="https://pbs.twimg.com/amplify_video_thumb/2122011367964110849/img/ZEyJv1NZkH6rsHg6.jpg" alt="Enable Jev judgment for every new CVE in Kafka Streams · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/alginte_sw/status/2122011818310680619">Enable Jev judgment for every new CVE in Kafka Streams</a></h3>
+<p>This post demonstrates a simulated production scenario: an Enrich step in a Kafka Streams topology calls TypeSafe&#39;s Jev model to judge each new CVE, simulated in preview and real in production.</p>
+<p><strong>3</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>alginte software</strong> · @alginte_sw</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2121949596377313568"><img src="https://pbs.twimg.com/media/HXKt6d3bAAAGqz9?format=jpg&amp;name=medium" alt="Jev completes task 48 and gets minted · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2121949596377313568">Jev completes task 48 and gets minted</a></h3>
-<p>Jev hired Claude at 89% confidence to execute a task, accepted the work at 95% confidence, and a collector minted the proof on ripples.run.</p>
-<p><strong>37</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/HodlReaper/status/2121976464769683741"><img src="https://pbs.twimg.com/amplify_video_thumb/2121976285433851904/img/_G0EGzGOEy7C84QF.jpg" alt="Jev Rating Filters GTA 6 Hype Coin Trades · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/HodlReaper/status/2121976464769683741">Jev Rating Filters GTA 6 Hype Coin Trades</a></h3>
+<p>A user had a Grok bot trade GTA 6 hype coins on pump.fun, with Jev rating each coin before buying (4+ stars = no entry), cutting losers at -6%, and hitting a 10x goal by Sunday.</p>
+<p><strong>257</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 257</p>
+<p><strong>HodlReaper</strong> · @HodlReaper</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
-<a href="https://x.com/ToDataBeyond/status/2121942235402920174"><img src="https://pbs.twimg.com/amplify_video_thumb/2121939869740015616/img/91K1yEPqhC4AdlEJ.jpg" alt="JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ToDataBeyond/status/2121942235402920174">JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow</a></h3>
-<p>A 4-hour live workshop comparing JEV with a general-purpose LLM across eight agent-workflow use cases, then building a local decision model. Early-bird pricing ends Nov 16.</p>
-<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
-<p><strong>To Data &amp; Beyond</strong> · @ToDataBeyond</p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<a href="https://x.com/0x_rody/status/2121963776576500018"><img src="https://pbs.twimg.com/amplify_video_thumb/2121961513762082816/img/0Be8d9bADf2OOWEO.jpg" alt="Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0x_rody/status/2121963776576500018">Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no</a></h3>
+<p>The Jev founder consolidated everything published on Jev Engineering into a one-page PDF. The core formula is Decision Layer = LLM Writes + Jev Decides + Code Acts, with a step-by-step setup to help developers build a more efficient agent decision layer.</p>
+<p><strong>213</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 213</p>
+<p><strong>rody</strong> · @0x_rody</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/usebrainchain/status/2121874065468400059"><img src="https://pbs.twimg.com/media/HXJpN_SawAAaHk3?format=jpg&amp;name=medium" alt="Jev Task Proof #47 · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/usebrainchain/status/2121874065468400059">Jev Task Proof #47</a></h3>
-<p>Jev hired Claude at 87% confidence and accepted the work at 95%. The task proof was minted by a collector on ripples.run.</p>
-<p><strong>149</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 149</p>
-<p><strong>BrainChain</strong> · @usebrainchain</p>
+<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
+<p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
+<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><strong>Superagentic AI</strong> · @SuperagenticAI</p>
 </td>
 </tr>
 </table>

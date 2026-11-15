@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T17:53:08.000Z | [On-chain proof of Jev hiring Claude to complete a task](https://x.com/usebrainchain/status/2122025117723361454) | 智能体 | BrainChain | 16 |
+| 2026-11-15T17:47:12.000Z | [This Is What It Looks Like When You Give Jev the Latest AI Model Alex Hormozi's Entire Meta Ad Library](https://x.com/JonYekarAI/status/2122023626857975958) | 营销 | Jon Yekar | 1 |
 | 2026-11-15T17:00:17.000Z | [Enable Jev judgment for every new CVE in Kafka Streams](https://x.com/alginte_sw/status/2122011818310680619) | 网络安全 | alginte software | 3 |
 | 2026-11-15T16:54:02.000Z | [TypeSafe AI Launches Jev Decision Model](https://x.com/MikeTamir/status/2122010245799047540) | 产品发布 | Mike Tamir, PhD | 96 |
 | 2026-11-15T16:10:41.000Z | [Inspiration for combining Jev with Generative UI](https://x.com/Rubber__Soul_/status/2121999335978381645) | 社区实践 | 毎晩カレー | 2 |
@@ -100,5 +102,3 @@
 | 2026-11-12T14:00:30.000Z | [Google Launches Gemini Decision API, Rivaling TypeSafe Jev](https://x.com/Linkszh6/status/2120879413591990323) | 产品发布 | Links | 14 |
 | 2026-11-12T13:58:48.000Z | [Can Jev Decide the Model Size?](https://x.com/odelljeremy/status/2120878985919988154) | 智能体 | Jeremy Odell | 1 |
 | 2026-11-12T13:56:25.000Z | [Jev classifies support tickets: 500 emails in 5.5 seconds](https://x.com/heyLuminvera/status/2120878384448442767) | 客户支持 | Luminvera \| Custom Software Development \| Forge | 5 |
-| 2026-11-12T13:42:14.000Z | [Organizing Jev-Style Decision Models: What Do They Actually Do?](https://x.com/studio_yebisu/status/2120874813673877865) | 工作原理 | StudioYebisu | 823 |
-| 2026-11-12T13:35:53.000Z | [Google Unveils Gemini Decision 1, Mentions Jev](https://x.com/YouthChina/status/2120873218361979145) | 产品发布 | Youth China | 12 |

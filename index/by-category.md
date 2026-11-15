@@ -4,13 +4,13 @@
 - [Developer tools](../categories/developer-tools.md) — 689
 - [Launch news](../categories/launch-news.md) — 668
 - [How it works](../categories/how-it-works.md) — 652
-- [Agents](../categories/agents.md) — 636
+- [Agents](../categories/agents.md) — 637
 - [Access updates](../categories/access-updates.md) — 469
 - [Developer resources](../categories/developer-resources.md) — 430
 - [Gaming](../categories/gaming.md) — 426
 - [Finance](../categories/finance.md) — 422
 - [Workflow automation](../categories/workflow-automation.md) — 322
-- [Marketing](../categories/marketing.md) — 205
+- [Marketing](../categories/marketing.md) — 206
 - [Knowledge & search](../categories/knowledge-search.md) — 149
 - [Scientific research](../categories/scientific-research.md) — 142
 - [Content creation](../categories/content-creation.md) — 141

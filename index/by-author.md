@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [BrainChain](../authors/brainchain.md) — 46
+- [BrainChain](../authors/brainchain.md) — 47
 - [8Bit🦞](../authors/8bit.md) — 33
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
@@ -2664,6 +2664,7 @@
 - [Johnny ](../authors/johnny.md) — 1
 - [Joker](../authors/joker.md) — 1
 - [Jon Taylor](../authors/jon-taylor.md) — 1
+- [Jon Yekar](../authors/jon-yekar.md) — 1
 - [Jonah](../authors/jonah.md) — 1
 - [Jonathan Chan  💡📣](../authors/jonathan-chan.md) — 1
 - [Jonathan Ellis](../authors/jonathan-ellis.md) — 1

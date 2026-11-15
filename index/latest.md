@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T12:23:47.000Z | [JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow](https://x.com/ToDataBeyond/status/2121942235402920174) | 教育 | To Data & Beyond | 17 |
 | 2026-11-15T10:59:46.000Z | [Microduck robot uses Jev to optimize pick-up and carry flow](https://x.com/cg_ftLab/status/2121921094307533196) | 机器人 | ft-lab | 47 |
 | 2026-11-15T10:23:13.000Z | [Comparing Jev with Cloudflare decision models: price and benchmarks](https://x.com/comm1ted0/status/2121911894097252686) | 数据分析 | MT | 4 |
 | 2026-11-15T10:08:06.000Z | [ETH Desk Uses AI Chain Featuring JEV](https://x.com/RetroChainer/status/2121908091633508666) | 金融 | RetroChainer | 226 |
@@ -36,6 +37,8 @@
 | 2026-11-14T15:59:28.000Z | [Jev as the decision layer: Fable 5.2 proposes, Jev chooses, code has the last word](https://x.com/AKadry99/status/2121634127543718088) | 自动化工作流 | Kadry | 295 |
 | 2026-11-14T15:16:05.000Z | [Jev design notes PDF claims up to 200x faster and 400x cheaper coding agents](https://x.com/Joyingeth/status/2121623207874556394) | 产品发布 | Joying.eth | 5.4K |
 | 2026-11-14T14:38:02.000Z | [Jev for Marketing Lead Filtering](https://x.com/Roy_Banwell/status/2121613635109978576) | 营销 | Roy Banwell | 547 |
+| 2026-11-14T14:14:00.000Z | [Jev Engineering + Claude Fable 5.2: Low-Cost AI Decision Framework](https://x.com/Mr_Buzzoni/status/2121607584260202870) | 开发者工具 | Mr. Buzzoni | 13K |
+| 2026-11-14T14:00:02.000Z | [Jev launch video surpasses 4.3 million views](https://x.com/TankTalkPodcast/status/2121604068158386340) | 产品发布 | Tank Talks | 51 |
 | 2026-11-14T13:58:43.000Z | [A crypto coin avoidance terminal integrating TypeSafe Jev](https://x.com/0rdlibrary/status/2121603737886335354) | 金融 | 8Bit🦞 | 389 |
 | 2026-11-14T13:30:00.000Z | [Awesome Jev List Curates 640 Open Source Projects](https://x.com/18888puys/status/2121596511985553591) | 开发资源 | 王小野 | 52 |
 | 2026-11-14T13:13:34.000Z | [Filtering email expenses with Jev](https://x.com/hanipcode/status/2121592375034487213) | 自动化工作流 | hanip | 45 |
@@ -43,6 +46,8 @@
 | 2026-11-14T12:29:00.000Z | [Jev Chat Assistant: Reads Screen, Analyzes Intent, Generates Replies](https://x.com/18888puys/status/2121581159889199319) | 智能体 | 王小野 | 66 |
 | 2026-11-14T11:51:51.000Z | [Jev Trader Era3 Model Trading Performance Update](https://x.com/Vibe_AI_dev/status/2121571811867435136) | 金融 | VIBE Giraffe | 623 |
 | 2026-11-14T10:30:00.000Z | [Jev-tagged football prediction: Sheffield Wednesday vs Plymouth Argyle](https://x.com/SportsDT1/status/2121551215573991611) | 数据分析 | Football Ant | 66 |
+| 2026-11-14T10:16:29.000Z | [Jev 1.14 tested on waste-sorting line: 72% accuracy, compared with Gemini and OpenAI](https://x.com/slashui/status/2121547813758669092) | 社区实践 | 洛克船长 | 11K |
+| 2026-11-14T09:25:04.000Z | [Creating AI Videos with Grok, Jev, and Picsart](https://x.com/hayyantechtalks/status/2121534871642480911) | 内容创作 | Hayyan \| Creative AI | 31K |
 | 2026-11-13T03:25:31.000Z | [Chinese Translation of Jev Engineering Released](https://x.com/DonaldDeFi_/status/2121082001864143073) | 开发资源 | Donald_KK | 4 |
 | 2026-11-13T03:20:11.000Z | [NTT West Engineers' Blog: Comparing Jev and BERT for Automated Classification](https://x.com/NTTWestOfficial/status/2121080657304854733) | 开发资源 | NTT西日本 | 204 |
 | 2026-11-13T02:00:41.000Z | [Google Gemini Decisions API Compared with TypeSafe Jev](https://x.com/NobrainerNg/status/2121060653586653579) | 开发者工具 | Nobrainer Labs \| Tech & AI | 45 |
@@ -97,8 +102,3 @@
 | 2026-11-12T12:38:35.000Z | [Register agents on Valetto for instant Telegram access](https://x.com/babykswanson/status/2120858797321138344) | 智能体 | Karim | 36 |
 | 2026-11-12T12:33:04.000Z | [TypeSafe's Jev Opens a New Category in AI](https://x.com/ItsGoharr/status/2120857406792143206) | 社区实践 | Anderson | 62 |
 | 2026-11-12T12:03:05.000Z | [Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis](https://x.com/softreviewed/status/2120849861251940629) | 开发者工具 | SOFTREVIEWED | 12 |
-| 2026-11-12T11:49:46.000Z | [Google Ships Gemini Decision 1, Its Own Take on Jev](https://x.com/jmqcooper/status/2120846512099860744) | 产品发布 | Mike Cooper | 6 |
-| 2026-11-12T11:44:56.000Z | [Google launches Gemini Decision 1, author says it's better than Jev but pricing is not good](https://x.com/Adi_AiTech/status/2120845293440925933) | 产品发布 | Aditya | 3 |
-| 2026-11-12T11:43:30.000Z | [Discussion on Jev's Pricing Competitiveness](https://x.com/Adi_AiTech/status/2120844936828645797) | 社区实践 | Aditya | 3 |
-| 2026-11-12T11:30:00.000Z | [Last Call: Live Session on Jev and System One Models](https://x.com/PacktPublishing/status/2120841538640982296) | 社区实践 | Packt Publishing | 84 |
-| 2026-11-12T11:12:44.000Z | [Jev surpassed? XERJ launches at an ultra-low price](https://x.com/morpphhhaw/status/2120837190594810052) | 产品发布 | morph | 93 |

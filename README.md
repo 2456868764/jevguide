@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7479</strong><br>curated posts</td>
-<td align="center"><strong>3659</strong><br>original videos</td>
+<td align="center"><strong>7484</strong><br>curated posts</td>
+<td align="center"><strong>3664</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,19 +28,19 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1483</strong> showcases · <strong>616</strong> videos</p>
+<p><strong>1484</strong> showcases · <strong>617</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/developer-tools.md">Developer tools</a></h3>
 <p><sub>开发者工具</sub></p>
-<p><strong>688</strong> showcases · <strong>338</strong> videos</p>
+<p><strong>689</strong> showcases · <strong>339</strong> videos</p>
 <p><a href="categories/developer-tools.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>666</strong> showcases · <strong>294</strong> videos</p>
+<p><strong>667</strong> showcases · <strong>295</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/content-creation.md">Content creation</a></h3>
 <p><sub>内容创作</sub></p>
-<p><strong>140</strong> showcases · <strong>101</strong> videos</p>
+<p><strong>141</strong> showcases · <strong>102</strong> videos</p>
 <p><a href="categories/content-creation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -168,7 +168,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/education.md">Education</a></h3>
 <p><sub>教育</sub></p>
-<p><strong>39</strong> showcases · <strong>17</strong> videos</p>
+<p><strong>40</strong> showcases · <strong>18</strong> videos</p>
 <p><a href="categories/education.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/ToDataBeyond/status/2121942235402920174"><img src="https://pbs.twimg.com/amplify_video_thumb/2121939869740015616/img/91K1yEPqhC4AdlEJ.jpg" alt="JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ToDataBeyond/status/2121942235402920174">JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow</a></h3>
+<p>A 4-hour live workshop comparing JEV with a general-purpose LLM across eight agent-workflow use cases, then building a local decision model. Early-bird pricing ends Nov 16.</p>
+<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
+<p><strong>To Data &amp; Beyond</strong> · @ToDataBeyond</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
 <a href="https://x.com/cg_ftLab/status/2121921094307533196"><img src="https://pbs.twimg.com/amplify_video_thumb/2121920174328807424/img/T0CqxulPTFdID2NN.jpg" alt="Microduck robot uses Jev to optimize pick-up and carry flow · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/cg_ftLab/status/2121921094307533196">Microduck robot uses Jev to optimize pick-up and carry flow</a></h3>
 <p>A developer is using Jev in the Microduck project to find targets and drive the robot to approach, pick up with its mouth, and deliver to a red circle, aiming for natural animal-like movement.</p>
 <p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
 <p><strong>ft-lab</strong> · @cg_ftLab</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>数据分析</code> <code>原帖图片</code></p>
 <a href="https://x.com/comm1ted0/status/2121911894097252686"><img src="https://pbs.twimg.com/media/HXKLfCyXcAAPApN?format=png&amp;name=900x900" alt="Comparing Jev with Cloudflare decision models: price and benchmarks · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/comm1ted0/status/2121911894097252686">Comparing Jev with Cloudflare decision models: price and benchmarks</a></h3>
 <p>Recaps the earlier discussion on Jev versus Cloudflare decision models, then points to comparing price against benchmarks.</p>
 <p><strong>4</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 4</p>
 <p><strong>MT</strong> · @comm1ted0</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/RetroChainer/status/2121908091633508666"><img src="https://pbs.twimg.com/amplify_video_thumb/2121908016530288641/img/Phwn_M3CQZc5sYLq.jpg" alt="ETH Desk Uses AI Chain Featuring JEV · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/RetroChainer/status/2121908091633508666">ETH Desk Uses AI Chain Featuring JEV</a></h3>
 <p>The post describes an ETH trading desk that uses a 5-step chain of GitHub repos, Claude, GPT, JEV, and Grok Bot, with JEV contributing to trading decisions.</p>
 <p><strong>226</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 226</p>
 <p><strong>RetroChainer</strong> · @RetroChainer</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
-<p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
-<p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
-<p><strong>Superagentic AI</strong> · @SuperagenticAI</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/cg_ftLab/status/2121921094307533196"><img src="https://pbs.twimg.com/amplify_video_thumb/2121920174328807424/img/T0CqxulPTFdID2NN.jpg" alt="Microduck robot uses Jev to optimize pick-up and carry flow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cg_ftLab/status/2121921094307533196">Microduck robot uses Jev to optimize pick-up and carry flow</a></h3>
-<p>A developer is using Jev in the Microduck project to find targets and drive the robot to approach, pick up with its mouth, and deliver to a red circle, aiming for natural animal-like movement.</p>
-<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
-<p><strong>ft-lab</strong> · @cg_ftLab</p>
+<p><strong>01</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<a href="https://x.com/ToDataBeyond/status/2121942235402920174"><img src="https://pbs.twimg.com/amplify_video_thumb/2121939869740015616/img/91K1yEPqhC4AdlEJ.jpg" alt="JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/ToDataBeyond/status/2121942235402920174">JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow</a></h3>
+<p>A 4-hour live workshop comparing JEV with a general-purpose LLM across eight agent-workflow use cases, then building a local decision model. Early-bird pricing ends Nov 16.</p>
+<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
+<p><strong>To Data &amp; Beyond</strong> · @ToDataBeyond</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/RetroChainer/status/2121908091633508666"><img src="https://pbs.twimg.com/amplify_video_thumb/2121908016530288641/img/Phwn_M3CQZc5sYLq.jpg" alt="ETH Desk Uses AI Chain Featuring JEV · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/RetroChainer/status/2121908091633508666">ETH Desk Uses AI Chain Featuring JEV</a></h3>
+<p>The post describes an ETH trading desk that uses a 5-step chain of GitHub repos, Claude, GPT, JEV, and Grok Bot, with JEV contributing to trading decisions.</p>
+<p><strong>226</strong> views · 💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 226</p>
+<p><strong>RetroChainer</strong> · @RetroChainer</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
 <a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
 <p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
 <p><strong>28</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
 <p><strong>Superagentic AI</strong> · @SuperagenticAI</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖视频</code></p>
-<a href="https://x.com/Shashikant86/status/2121881649730249148"><img src="https://pbs.twimg.com/amplify_video_thumb/2121880945309450240/img/T96kk6jrFeaZtRFW.jpg" alt="SuperQode SystemOne Adds OpenAI and Google Decision Model Support · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Shashikant86/status/2121881649730249148">SuperQode SystemOne Adds OpenAI and Google Decision Model Support</a></h3>
-<p>SuperQode&#39;s SystemOne harness now supports OpenAI and Google decision models alongside TypeSafe Jev, letting you choose a decision model separately from your coding model and see SystemOne&#39;s recommendations.</p>
-<p><strong>134</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 134</p>
-<p><strong>Shashi 🇬🇧 🌉</strong> · @Shashikant86</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/snaga/status/2121836702209814562"><img src="https://pbs.twimg.com/media/HXJGx_0b0AAGs9o?format=png&amp;name=small" alt="Adding Jev-powered auto-tagging to a bookmark app · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/snaga/status/2121836702209814562">Adding Jev-powered auto-tagging to a bookmark app</a></h3>
-<p>The author implemented a tag-add screen for a personal bookmark app, using Gemini to generate the tagging prompt for Jev, sharing an approach to intelligent software.</p>
-<p><strong>136</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 136</p>
-<p><strong>Satoshi Nagayasu 🧠🤖</strong> · @snaga</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/GalYouXiku/status/2121841169751777463"><img src="https://pbs.twimg.com/media/HXJLSUlacAAnIK2?format=jpg&amp;name=medium" alt="awesome-jev: Curated List of Jev Projects and Typed Decision Workflows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/GalYouXiku/status/2121841169751777463">awesome-jev: Curated List of Jev Projects and Typed Decision Workflows</a></h3>
+<p>yibie/awesome-jev has 2,590 stars, featuring a curated list of public projects and typed decision workflows built on Jev. Self-host it to drop marginal costs to zero and test the actual architecture fit.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>AI Stack Hacks ⚡ Subscriptions &amp; Productivity</strong> · @GalYouXiku</p>
 </td>
 </tr>
 </table>

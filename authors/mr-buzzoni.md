@@ -1,9 +1,10 @@
 # Mr. Buzzoni
 
-17 Jev showcases.
+18 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-14T14:14:00.000Z | [Jev Engineering + Claude Fable 5.2: Low-Cost AI Decision Framework](https://x.com/Mr_Buzzoni/status/2121607584260202870) | 开发者工具 | Mr. Buzzoni | 13K |
 | 2026-11-11T14:24:00.000Z | [Meet Jev: The 'Internet' Moment for AI?](https://x.com/Mr_Buzzoni/status/2120522937338155045) | 智能体 | Mr. Buzzoni | 78 |
 | 2026-11-11T05:52:00.000Z | [Jev Agent Memory: 13-Page Guide and Token Optimization](https://x.com/Mr_Buzzoni/status/2120394087983710364) | 智能体 | Mr. Buzzoni | 366 |
 | 2026-11-10T15:41:00.000Z | [Jev's Role in SEO Decisions](https://x.com/Mr_Buzzoni/status/2120179926729097538) | 营销 | Mr. Buzzoni | 254 |

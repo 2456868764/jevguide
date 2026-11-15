@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T12:53:02.000Z | [Jev completes task 48 and gets minted](https://x.com/usebrainchain/status/2121949596377313568) | 智能体 | BrainChain | 37 |
 | 2026-11-15T12:23:47.000Z | [JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow](https://x.com/ToDataBeyond/status/2121942235402920174) | 教育 | To Data & Beyond | 17 |
 | 2026-11-15T10:59:46.000Z | [Microduck robot uses Jev to optimize pick-up and carry flow](https://x.com/cg_ftLab/status/2121921094307533196) | 机器人 | ft-lab | 47 |
 | 2026-11-15T10:23:13.000Z | [Comparing Jev with Cloudflare decision models: price and benchmarks](https://x.com/comm1ted0/status/2121911894097252686) | 数据分析 | MT | 4 |
@@ -101,4 +102,3 @@
 | 2026-11-12T13:21:43.000Z | [JEV Successfully Blocks Prompt Injection Attack](https://x.com/BabaKhaliid/status/2120869653274599519) | 网络安全 | BABA Khalid \| Youmake.dev | 8 |
 | 2026-11-12T12:38:35.000Z | [Register agents on Valetto for instant Telegram access](https://x.com/babykswanson/status/2120858797321138344) | 智能体 | Karim | 36 |
 | 2026-11-12T12:33:04.000Z | [TypeSafe's Jev Opens a New Category in AI](https://x.com/ItsGoharr/status/2120857406792143206) | 社区实践 | Anderson | 62 |
-| 2026-11-12T12:03:05.000Z | [Gemini Decision 1 vs Jev 1.14: AI Decision Model Performance and Cost Analysis](https://x.com/softreviewed/status/2120849861251940629) | 开发者工具 | SOFTREVIEWED | 12 |

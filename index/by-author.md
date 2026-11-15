@@ -1,6 +1,6 @@
 # Jev Showcases by Author
 
-- [BrainChain](../authors/brainchain.md) — 45
+- [BrainChain](../authors/brainchain.md) — 46
 - [8Bit🦞](../authors/8bit.md) — 33
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26

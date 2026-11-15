@@ -1,9 +1,10 @@
 # BrainChain
 
-45 Jev showcases.
+46 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T12:53:02.000Z | [Jev completes task 48 and gets minted](https://x.com/usebrainchain/status/2121949596377313568) | 智能体 | BrainChain | 37 |
 | 2026-11-15T07:52:54.000Z | [Jev Task Proof #47](https://x.com/usebrainchain/status/2121874065468400059) | 社区实践 | BrainChain | 149 |
 | 2026-11-15T02:52:47.000Z | [Jev Hires Claude to Review Skill and Mint Task Proof](https://x.com/usebrainchain/status/2121798538237731273) | 智能体 | BrainChain | 104 |
 | 2026-11-14T21:52:40.000Z | [Jev Task Proof: Agent Hires Claude and Accepts with High Confidence](https://x.com/usebrainchain/status/2121723011955134670) | 智能体 | BrainChain | 184 |

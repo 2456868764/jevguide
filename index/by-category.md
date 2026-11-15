@@ -4,7 +4,7 @@
 - [Developer tools](../categories/developer-tools.md) — 689
 - [Launch news](../categories/launch-news.md) — 667
 - [How it works](../categories/how-it-works.md) — 652
-- [Agents](../categories/agents.md) — 634
+- [Agents](../categories/agents.md) — 635
 - [Access updates](../categories/access-updates.md) — 469
 - [Developer resources](../categories/developer-resources.md) — 430
 - [Gaming](../categories/gaming.md) — 426

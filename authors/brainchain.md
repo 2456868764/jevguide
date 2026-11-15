@@ -1,9 +1,12 @@
 # BrainChain
 
-41 Jev showcases.
+44 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T07:52:54.000Z | [Jev Task Proof #47](https://x.com/usebrainchain/status/2121874065468400059) | 社区实践 | BrainChain | 149 |
+| 2026-11-15T02:52:47.000Z | [Jev Hires Claude to Review Skill and Mint Task Proof](https://x.com/usebrainchain/status/2121798538237731273) | 智能体 | BrainChain | 104 |
+| 2026-11-14T21:52:40.000Z | [Jev Task Proof: Agent Hires Claude and Accepts with High Confidence](https://x.com/usebrainchain/status/2121723011955134670) | 智能体 | BrainChain | 184 |
 | 2026-11-11T10:37:39.000Z | [Jev agent hires DeepSeek to write a regex for semantic versions](https://x.com/usebrainchain/status/2120465975086899238) | 智能体 | BrainChain | 58 |
 | 2026-11-11T00:37:27.000Z | [Jev Hires DeepSeek to Fix Leap Year Check](https://x.com/usebrainchain/status/2120314930033500196) | 智能体 | BrainChain | 71 |
 | 2026-11-10T19:37:27.000Z | [Jev Completes Task 39: Structuring Job Posts](https://x.com/usebrainchain/status/2120239434176286965) | 智能体 | BrainChain | 237 |

@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 467 | 193 | 274 | 802K |
+| 469 | 195 | 274 | 802K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/SuperagenticAI/status/2121881773697040789"><img src="https://pbs.twimg.com/amplify_video_thumb/2121881721939374080/img/Y4WGydRya9p3JUTk.jpg" alt="SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/SuperagenticAI/status/2121881773697040789">SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev</a></h3>
+<p>Superagentic AI announces that SystemOne harness in SuperQode 2.31.17 and SuperQode for macOS 0.4.10 now supports OpenAI and Google decision models alongside TypeSafe Jev, with a demo and full blog available.</p>
+<p><strong>中文摘要：</strong>Superagentic AI 宣布 SuperQode 2.31.17 及 macOS 版 0.4.10 的 SystemOne harness 已支持 OpenAI 和 Google 决策模型，并可与 TypeSafe Jev 一同使用，官方提供了演示和完整博客。</p>
+<p><strong>Superagentic AI</strong> · @SuperagenticAI · 2026-11-15T08:23:32.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 28</p>
+<p><a href="https://x.com/SuperagenticAI/status/2121881773697040789">在 X 查看原帖</a> · <a href="https://t.co/lb1c3ciZJl">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/Shashikant86/status/2121881649730249148"><img src="https://pbs.twimg.com/amplify_video_thumb/2121880945309450240/img/T96kk6jrFeaZtRFW.jpg" alt="SuperQode SystemOne Adds OpenAI and Google Decision Model Support · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>接入动态</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Shashikant86/status/2121881649730249148">SuperQode SystemOne Adds OpenAI and Google Decision Model Support</a></h3>
+<p>SuperQode&#39;s SystemOne harness now supports OpenAI and Google decision models alongside TypeSafe Jev, letting you choose a decision model separately from your coding model and see SystemOne&#39;s recommendations.</p>
+<p><strong>中文摘要：</strong>SuperQode 的 SystemOne harness 现在除了 TypeSafe Jev 外，还可搭配 OpenAI 和 Google 的决策模型使用；用户可将决策模型与编码模型分开选择，并查看 SystemOne 的推荐。</p>
+<p><strong>Shashi 🇬🇧 🌉</strong> · @Shashikant86 · 2026-11-15T08:23:02.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 134</p>
+<p><a href="https://x.com/Shashikant86/status/2121881649730249148">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/Ragic/status/2121044212858884494"><img src="https://pbs.twimg.com/media/HW92c02bsAASJyk?format=png&amp;name=medium" alt="Ragic AI Agent Automatically Adopts Jev After Testing · 原帖图片" width="100%"></a>

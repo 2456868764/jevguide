@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 630 | 333 | 299 | 3.0M |
+| 632 | 333 | 301 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2121798538237731273"><img src="https://pbs.twimg.com/media/HXIkhvNboAAdR8L?format=jpg&amp;name=medium" alt="Jev Hires Claude to Review Skill and Mint Task Proof · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2121798538237731273">Jev Hires Claude to Review Skill and Mint Task Proof</a></h3>
+<p>BrainChain posted proof of task 46: Jev hired Claude at 51% confidence to review ClawHub skill nansen-devops/nansen-tradi…, accepted the work at 84%, and a collector minted it on ripples.run.</p>
+<p><strong>中文摘要：</strong>BrainChain 发布了任务 46 的证明：Jev 以 51% 的初始置信度雇佣 Claude 审查 ClawHub 技能 nansen-devops/nansen-tradi…，最终以 84% 置信度接受工作，并由收藏者在 ripples.run 上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-15T02:52:47.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 4 &nbsp; 📊 104</p>
+<p><a href="https://x.com/usebrainchain/status/2121798538237731273">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/usebrainchain/status/2121723011955134670"><img src="https://pbs.twimg.com/media/HXHf1gobEAAm2LD?format=jpg&amp;name=medium" alt="Jev Task Proof: Agent Hires Claude and Accepts with High Confidence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>智能体</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/usebrainchain/status/2121723011955134670">Jev Task Proof: Agent Hires Claude and Accepts with High Confidence</a></h3>
+<p>Jev hired Claude with 91% confidence and accepted the work at 96% confidence, then a collector minted it on ripples.run.</p>
+<p><strong>中文摘要：</strong>Jev以91%置信度雇佣Claude完成任务，并以96%置信度接受结果，随后由收藏者在ripples.run上铸造。</p>
+<p><strong>BrainChain</strong> · @usebrainchain · 2026-11-14T21:52:40.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 7 &nbsp; 📊 184</p>
+<p><a href="https://x.com/usebrainchain/status/2121723011955134670">在 X 查看原帖</a> · <a href="https://t.co/4Wwqatuw00">原文链接</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/jpschroeder/status/2121022664987029840"><img src="https://pbs.twimg.com/amplify_video_thumb/2120647086169591808/img/wQPrOP8N6VmgTanN.jpg" alt="Domain-specific agents with Jev and LLM · 原帖视频截图" width="100%"></a>

@@ -1,8 +1,7 @@
-# Shashi
+# Shashi 🇬🇧 🌉
 
-2 Jev showcases.
+1 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
-| 2026-09-24 | [SuperQode Evaluated Against Jev Engineering for Coding Agents Guide](https://x.com/Shashikant86/status/2103117475340517860) | 开发资源 | Shashi | 43 |
-| 2026-09-24 | [Jev Tool Router and Codex Experiment](https://x.com/Shashikant86/status/2103121005015085234) | 智能体 | Shashi | 19 |
+| 2026-11-15T08:23:02.000Z | [SuperQode SystemOne Adds OpenAI and Google Decision Model Support](https://x.com/Shashikant86/status/2121881649730249148) | 接入动态 | Shashi 🇬🇧 🌉 | 134 |

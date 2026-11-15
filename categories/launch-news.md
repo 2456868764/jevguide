@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 662 | 293 | 372 | 1.1M |
+| 664 | 293 | 374 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2121826325459828796"><img src="https://pbs.twimg.com/media/HXI9y3HWoAAPzke?format=jpg&amp;name=medium" alt="PumpAI Decision Platform Powered by Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2121826325459828796">PumpAI Decision Platform Powered by Jev</a></h3>
+<p>This post introduces decide.pumpai.ai, a Solana decision platform powered by TypeSafe AI&#39;s Jev and built with PumpFun, PhoenixTrade, and ImperialPerps.</p>
+<p><strong>中文摘要：</strong>该帖子介绍了由TypeSafe AI的Jev驱动、并与PumpFun、PhoenixTrade和ImperialPerps合作构建的Solana上的决策平台decide.pumpai.ai。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-15T04:43:12.000Z</p>
+<p>💬 2 &nbsp; 🔁 2 &nbsp; ♡ 4 &nbsp; 📊 320</p>
+<p><a href="https://x.com/0rdlibrary/status/2121826325459828796">在 X 查看原帖</a> · <a href="https://t.co/QYKRNNKIHC">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/fabrizio_degni/status/2121810977255530727"><img src="https://pbs.twimg.com/media/HXIv1RDWYAAw9W9?format=jpg&amp;name=medium" alt="TypeSafe AI Jev Introduces System One Paradigm · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/fabrizio_degni/status/2121810977255530727">TypeSafe AI Jev Introduces System One Paradigm</a></h3>
+<p>The post notes that Jev did more than launch a new AI model—it exposed a missing layer in AI governance, introducing the System One paradigm from TypeSafe AI Jev in September 2026: fast and structured.</p>
+<p><strong>中文摘要：</strong>帖子指出Jev不仅仅是发布新AI模型，还揭示了AI治理中缺失的一层，并介绍2026年9月TypeSafe AI Jev引入的System One范式：快速、结构化。</p>
+<p><strong>Fabrizio Degni</strong> · @fabrizio_degni · 2026-11-15T03:42:12.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 98</p>
+<p><a href="https://x.com/fabrizio_degni/status/2121810977255530727">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/edward_the6/status/2121017378888634559"><img src="https://pbs.twimg.com/amplify_video_thumb/2121017270361063424/img/-XIxD5qmGny_96LM.jpg" alt="Edward Tian Announces AI Vision 2.0 with Jev Model-Powered Personalized Tags · 原帖视频截图" width="100%"></a>

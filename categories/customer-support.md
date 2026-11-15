@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 72 | 41 | 32 | 639K |
+| 74 | 42 | 33 | 639K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Flandermaxx/status/2121764974745772146"><img src="https://pbs.twimg.com/amplify_video_thumb/2121761285461127168/img/CFH51Bjrxmvp1OO_.jpg" alt="Leaked JEV Triage-Inbox: Redefining Support Ticket Routing · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Flandermaxx/status/2121764974745772146">Leaked JEV Triage-Inbox: Redefining Support Ticket Routing</a></h3>
+<p>The post marvels at JEV&#39;s triage-inbox, noting it handles 700 support tickets daily more efficiently and interestingly than manual Zendesk sorting.</p>
+<p><strong>中文摘要：</strong>该帖子对JEV的triage-inbox表示惊讶，指出它处理每天700个支持工单的方式比传统Zendesk人工分类更高效且更有趣。</p>
+<p><strong>Flandermaxx</strong> · @Flandermaxx · 2026-11-15T00:39:25.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 13 &nbsp; 📊 3.3K</p>
+<p><a href="https://x.com/Flandermaxx/status/2121764974745772146">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/INTJYAN/status/2121722030227611934"><img src="https://pbs.twimg.com/media/HXHe8ZMWUAE0UnJ?format=jpg&amp;name=medium" alt="TypeSafe valuation surges 37x in a month; Jev model targets automated customer support · 原帖图片" width="100%"></a>
+<br>
+<sub><code>客户支持</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/INTJYAN/status/2121722030227611934">TypeSafe valuation surges 37x in a month; Jev model targets automated customer support</a></h3>
+<p>San Francisco-based AI company TypeSafe&#39;s valuation rose from about 2 billion to 74 billion SEK (~$7.5B). Its first model, Jev, is designed for direct software integration, focusing on high-frequency decisions such as automated customer support. The company raised a $870M Series A led by a16z with Sequoia participation.</p>
+<p><strong>中文摘要：</strong>旧金山AI公司TypeSafe估值从约20亿涨至740亿瑞典克朗（约75亿美元），其首款模型Jev面向软件直接调用，主打自动化客服等高频决策场景。公司完成8.7亿美元A轮融资，a16z领投，红杉参投。</p>
+<p><strong>INTJ投资笔记</strong> · @INTJYAN · 2026-11-14T21:48:46.000Z</p>
+<p>💬 3 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 68</p>
+<p><a href="https://x.com/INTJYAN/status/2121722030227611934">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/heyLuminvera/status/2120878384448442767"><img src="https://pbs.twimg.com/media/HW7flrLWoAA5mKp?format=jpg&amp;name=medium" alt="Jev classifies support tickets: 500 emails in 5.5 seconds · 原帖图片" width="100%"></a>

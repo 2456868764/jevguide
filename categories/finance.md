@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 416 | 218 | 201 | 1.2M |
+| 418 | 219 | 202 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/RetroChainer/status/2121908091633508666"><img src="https://pbs.twimg.com/amplify_video_thumb/2121908016530288641/img/Phwn_M3CQZc5sYLq.jpg" alt="ETH Desk Uses AI Chain Featuring JEV · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/RetroChainer/status/2121908091633508666">ETH Desk Uses AI Chain Featuring JEV</a></h3>
+<p>The post describes an ETH trading desk that uses a 5-step chain of GitHub repos, Claude, GPT, JEV, and Grok Bot, with JEV contributing to trading decisions.</p>
+<p><strong>中文摘要：</strong>帖子介绍了一个ETH交易台，将GitHub仓库、Claude、GPT、JEV和Grok Bot串联成5步链，JEV在其中承担交易决策任务。</p>
+<p><strong>RetroChainer</strong> · @RetroChainer · 2026-11-15T10:08:06.000Z</p>
+<p>💬 4 &nbsp; 🔁 0 &nbsp; ♡ 11 &nbsp; 📊 226</p>
+<p><a href="https://x.com/RetroChainer/status/2121908091633508666">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/miraclemasui/status/2121849839860564276"><img src="https://pbs.twimg.com/media/HXJSVBxaMAA3zUM?format=png&amp;name=900x900" alt="Can AI Beat the Stock Market by Reading News? · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/miraclemasui/status/2121849839860564276">Can AI Beat the Stock Market by Reading News?</a></h3>
+<p>The post tests using only news published after Jev&#39;s release, questioning whether AI predicts stock prices from news or merely confirms reports after price moves, and notes that AI can memorize past events from training data.</p>
+<p><strong>中文摘要：</strong>帖子测试了仅使用Jev发布后的新闻数据，探讨AI是通过新闻预测股价，还是只是在股价变动后确认相关报道，并指出AI能记忆训练数据中的过往事件。</p>
+<p><strong>増井</strong> · @miraclemasui · 2026-11-15T06:16:38.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 1.1K</p>
+<p><a href="https://x.com/miraclemasui/status/2121849839860564276">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/HodlReaper/status/2120870705554174327"><img src="https://pbs.twimg.com/amplify_video_thumb/2120870096428011520/img/C_T7ZQUK7MrdckIK.jpg" alt="Grokbot trading bot earns $11,912 in a month, Jev runs 7 pre-buy checks · 原帖视频截图" width="100%"></a>

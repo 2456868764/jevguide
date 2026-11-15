@@ -2,6 +2,28 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T10:23:13.000Z | [Comparing Jev with Cloudflare decision models: price and benchmarks](https://x.com/comm1ted0/status/2121911894097252686) | 数据分析 | MT | 4 |
+| 2026-11-15T10:08:06.000Z | [ETH Desk Uses AI Chain Featuring JEV](https://x.com/RetroChainer/status/2121908091633508666) | 金融 | RetroChainer | 226 |
+| 2026-11-15T08:23:32.000Z | [SuperQode SystemOne Adds OpenAI/Google Decision Models Alongside TypeSafe Jev](https://x.com/SuperagenticAI/status/2121881773697040789) | 接入动态 | Superagentic AI | 28 |
+| 2026-11-15T08:23:02.000Z | [SuperQode SystemOne Adds OpenAI and Google Decision Model Support](https://x.com/Shashikant86/status/2121881649730249148) | 接入动态 | Shashi 🇬🇧 🌉 | 134 |
+| 2026-11-15T07:52:54.000Z | [Jev Task Proof #47](https://x.com/usebrainchain/status/2121874065468400059) | 社区实践 | BrainChain | 149 |
+| 2026-11-15T06:47:36.000Z | [Vercel's Parallel Decisions Fast free until Nov 23, compared with Jev](https://x.com/Toby_AgwaB/status/2121857632793452605) | 社区实践 | 김크립토 | 527 |
+| 2026-11-15T06:16:38.000Z | [Can AI Beat the Stock Market by Reading News?](https://x.com/miraclemasui/status/2121849839860564276) | 金融 | 増井 | 1.1K |
+| 2026-11-15T06:09:39.000Z | [Use JEV to Traverse Graphs and Replace RAG](https://x.com/noahseidman/status/2121848084187480426) | 社区实践 | Captain Rational 🧮📐✏️ | 618 |
+| 2026-11-15T05:42:11.000Z | [awesome-jev: Curated List of Jev Projects and Typed Decision Workflows](https://x.com/GalYouXiku/status/2121841169751777463) | 开发资源 | AI Stack Hacks ⚡ Subscriptions & Productivity | 13 |
+| 2026-11-15T05:24:26.000Z | [Adding Jev-powered auto-tagging to a bookmark app](https://x.com/snaga/status/2121836702209814562) | 社区实践 | Satoshi Nagayasu 🧠🤖 | 136 |
+| 2026-11-15T04:43:12.000Z | [PumpAI Decision Platform Powered by Jev](https://x.com/0rdlibrary/status/2121826325459828796) | 产品发布 | 8Bit🦞 | 320 |
+| 2026-11-15T04:12:39.000Z | [Perplexity's new decision model compared against Jev on the same benchmark](https://x.com/imohitmayank/status/2121818638638583881) | 社区实践 | Mohit | 34 |
+| 2026-11-15T03:42:48.000Z | [Jev's monthly $5 free credit is amazing](https://x.com/NatashaTheRobot/status/2121811125029486703) | 社区实践 | NatashaTheRobot | 848 |
+| 2026-11-15T03:42:12.000Z | [TypeSafe AI Jev Introduces System One Paradigm](https://x.com/fabrizio_degni/status/2121810977255530727) | 产品发布 | Fabrizio Degni | 98 |
+| 2026-11-15T02:52:47.000Z | [Jev Hires Claude to Review Skill and Mint Task Proof](https://x.com/usebrainchain/status/2121798538237731273) | 智能体 | BrainChain | 104 |
+| 2026-11-15T00:41:37.000Z | [Adding Jev as platform judge, Codex scores higher](https://x.com/frankismartinez/status/2121765531732832632) | 社区实践 | Frank Martinez | 41 |
+| 2026-11-15T00:39:42.000Z | [Leaked JEV Model-Router Could Replace Pricey OpenAI Bills](https://x.com/Rhoxbt/status/2121765046770413680) | 开发者工具 | Rhoxbt | 1.3K |
+| 2026-11-15T00:39:25.000Z | [Leaked JEV Triage-Inbox: Redefining Support Ticket Routing](https://x.com/Flandermaxx/status/2121764974745772146) | 客户支持 | Flandermaxx | 3.3K |
+| 2026-11-14T22:14:41.000Z | [Jev model can run offline and trigger notifications by agreement](https://x.com/lenny_enderle/status/2121728553121448298) | 自动化工作流 | Lenny Enderle | 43 |
+| 2026-11-14T22:10:50.000Z | [How Jev Makes Decisions Without Generating Text](https://x.com/hbouammar/status/2121727582102024533) | 工作原理 | Haitham Bou Ammar | 1.1K |
+| 2026-11-14T21:52:40.000Z | [Jev Task Proof: Agent Hires Claude and Accepts with High Confidence](https://x.com/usebrainchain/status/2121723011955134670) | 智能体 | BrainChain | 184 |
+| 2026-11-14T21:48:46.000Z | [TypeSafe valuation surges 37x in a month; Jev model targets automated customer support](https://x.com/INTJYAN/status/2121722030227611934) | 客户支持 | INTJ投资笔记 | 68 |
 | 2026-11-13T03:25:31.000Z | [Chinese Translation of Jev Engineering Released](https://x.com/DonaldDeFi_/status/2121082001864143073) | 开发资源 | Donald_KK | 4 |
 | 2026-11-13T03:20:11.000Z | [NTT West Engineers' Blog: Comparing Jev and BERT for Automated Classification](https://x.com/NTTWestOfficial/status/2121080657304854733) | 开发资源 | NTT西日本 | 204 |
 | 2026-11-13T02:00:41.000Z | [Google Gemini Decisions API Compared with TypeSafe Jev](https://x.com/NobrainerNg/status/2121060653586653579) | 开发者工具 | Nobrainer Labs \| Tech & AI | 45 |
@@ -80,25 +102,3 @@
 | 2026-11-12T06:30:54.000Z | [Decision Model Bench: Gemini Decision 1 Leads, New Jev Version Unchanged](https://x.com/elliscrosby/status/2120766267774914860) | 社区实践 | Ellis | 41 |
 | 2026-11-12T06:25:48.000Z | [Google Gemini Decision 1 Released, Jev Tested Alongside](https://x.com/CKeruac/status/2120764981876601211) | 社区实践 | Christopher Keruac | 184 |
 | 2026-11-12T05:55:41.000Z | [Jev now has another sibling](https://x.com/devsec_ai/status/2120757405659369681) | 产品发布 | Devsec AI | 13 |
-| 2026-11-12T05:44:32.000Z | [GTA V 7-Second Duel: JEV for Under a Tenth of a Cent](https://x.com/hammer0x419/status/2120754597916512394) | 游戏 | Hammer0x419 | 11 |
-| 2026-11-12T05:44:00.000Z | [Speculation on Notion Auto Using Jev for Model Routing](https://x.com/FisicaCCC/status/2120754463631954120) | 社区实践 | トリコーーム／🌸 | 3 |
-| 2026-11-12T04:55:31.000Z | [Google Launches Jev-Style System 1 Model Gemini Decision 1](https://x.com/hqmank/status/2120742261583405423) | 产品发布 | Kai | 1.0K |
-| 2026-11-12T04:45:10.000Z | [Discussion on Jev Model Cost and Accuracy](https://x.com/nutanc/status/2120739659160699313) | 社区实践 | nutanc | 76 |
-| 2026-11-12T03:43:31.000Z | [Google Launches Gemini Decisions API, a Jev Competitor](https://x.com/dani_avila7/status/2120724143431979362) | 产品发布 | Daniel San | 1.3K |
-| 2026-11-12T03:35:08.000Z | [Google enters decision-model race with Gemini Decision 1 & Decisions API, taking on TypeSafe Jev](https://x.com/PatriotComrade/status/2120722032925233295) | 产品发布 | Patriot Comrade | 85 |
-| 2026-11-12T03:30:08.000Z | [Google launches Gemini Decision 1 to compete with TypeSafe's Jev model](https://x.com/SultanAlFardan/status/2120720776575742286) | 产品发布 | سلطان الفردان | 1.4K |
-| 2026-11-12T03:15:04.000Z | [Gemini Decisions API vs Jev: Competing in the Same Niche](https://x.com/coolbat1999/status/2120716984862302362) | 产品发布 | Coolbat | 3 |
-| 2026-11-12T03:07:58.000Z | [Rapid Startup Idea Evaluation with Jev](https://x.com/WayneIdeaBright/status/2120715197333782844) | 社区实践 | Wayne idea bright | 8 |
-| 2026-11-12T03:00:00.000Z | [Jev kills a startup idea in 187ms](https://x.com/WayneIdeaBright/status/2120713191508546005) | 社区实践 | Wayne idea bright | 15 |
-| 2026-11-12T02:58:43.000Z | [Google Releases Gemini Decision 1, Said to Closely Mirror TypeSafe's Jev](https://x.com/QinYi26294/status/2120712867569889669) | 产品发布 | double chici | 10 |
-| 2026-11-12T02:19:39.000Z | [GBP/USD Long Scenario with Jev Review](https://x.com/hadohunter/status/2120703036800782652) | 金融 | HadoHunter | 5 |
-| 2026-11-12T01:58:22.000Z | [Gemini launches Jev-like API with image, audio, and video input](https://x.com/shingo2000/status/2120697679806411026) | 接入动态 | 鈴木慎吾 / TSUMIKI INC. | 146 |
-| 2026-11-12T01:55:06.000Z | [Google offers Jev-style 'AI for judgment only' API, supports PDFs and images](https://x.com/pc_watch/status/2120696859002122467) | 产品发布 | PC Watch | 2.0K |
-| 2026-11-12T01:41:38.000Z | [Google Decisions API looks a lot like TypeSafe's Jev](https://x.com/anujasha9/status/2120693468800639469) | 产品发布 | Anu | 11 |
-| 2026-11-12T01:38:29.000Z | [Google Launches Gemini Decision 1, Listing Jev Among Similar Decision Models](https://x.com/ctgptlb/status/2120692676484055104) | 产品发布 | AGIラボ | 4.1K |
-| 2026-11-12T01:37:00.000Z | [Jev supports image input](https://x.com/gosrum/status/2120692304898142341) | 社区实践 | 金のニワトリ | 304 |
-| 2026-11-12T01:36:59.000Z | [Trying Gemini Decision API: Latency comparison with Jev](https://x.com/gosrum/status/2120692300489851275) | 社区实践 | 金のニワトリ | 753 |
-| 2026-11-12T01:36:57.000Z | [Google launches decision model API, following Jev two months later](https://x.com/dayoffdev/status/2120692289563496499) | 开发者工具 | Dayanne Fernandes | 30 |
-| 2026-11-12T01:30:47.000Z | [Jev 1.14 vs Gemini Decision 1 Benchmark Comparison](https://x.com/mylesBaiM/status/2120690739428614589) | 社区实践 | myles bsi | 145 |
-| 2026-11-12T00:56:16.000Z | [Building an autonomous sales agent with Jev](https://x.com/amirmxt/status/2120682052685275422) | 智能体 | amirmxt | 45 |
-| 2026-11-12T00:46:05.000Z | [JEV vs grok-4.7 decision experiment in GTA V](https://x.com/hammer0x419/status/2120679490854474006) | 游戏 | Hammer0x419 | 13 |

@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7487</strong><br>curated posts</td>
-<td align="center"><strong>3666</strong><br>original videos</td>
+<td align="center"><strong>7488</strong><br>curated posts</td>
+<td align="center"><strong>3667</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1484</strong> showcases · <strong>617</strong> videos</p>
+<p><strong>1485</strong> showcases · <strong>618</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/Rubber__Soul_/status/2121999335978381645"><img src="https://pbs.twimg.com/amplify_video_thumb/2121015547387076608/img/X10kVib4QjRhWnJH.jpg" alt="Inspiration for combining Jev with Generative UI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Rubber__Soul_/status/2121999335978381645">Inspiration for combining Jev with Generative UI</a></h3>
+<p>The user says the content is really good and mentions wanting to reference it to create something by combining Jev and Generative UI.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>毎晩カレー</strong> · @Rubber__Soul_</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
 <a href="https://x.com/HodlReaper/status/2121976464769683741"><img src="https://pbs.twimg.com/amplify_video_thumb/2121976285433851904/img/_G0EGzGOEy7C84QF.jpg" alt="Jev Rating Filters GTA 6 Hype Coin Trades · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/HodlReaper/status/2121976464769683741">Jev Rating Filters GTA 6 Hype Coin Trades</a></h3>
 <p>A user had a Grok bot trade GTA 6 hype coins on pump.fun, with Jev rating each coin before buying (4+ stars = no entry), cutting losers at -6%, and hitting a 10x goal by Sunday.</p>
 <p><strong>257</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 257</p>
 <p><strong>HodlReaper</strong> · @HodlReaper</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖视频</code></p>
 <a href="https://x.com/0x_rody/status/2121963776576500018"><img src="https://pbs.twimg.com/amplify_video_thumb/2121961513762082816/img/0Be8d9bADf2OOWEO.jpg" alt="Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/0x_rody/status/2121963776576500018">Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no</a></h3>
 <p>The Jev founder consolidated everything published on Jev Engineering into a one-page PDF. The core formula is Decision Layer = LLM Writes + Jev Decides + Code Acts, with a step-by-step setup to help developers build a more efficient agent decision layer.</p>
 <p><strong>213</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 213</p>
 <p><strong>rody</strong> · @0x_rody</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/usebrainchain/status/2121949596377313568"><img src="https://pbs.twimg.com/media/HXKt6d3bAAAGqz9?format=jpg&amp;name=medium" alt="Jev completes task 48 and gets minted · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/usebrainchain/status/2121949596377313568">Jev completes task 48 and gets minted</a></h3>
 <p>Jev hired Claude at 89% confidence to execute a task, accepted the work at 95% confidence, and a collector minted the proof on ripples.run.</p>
 <p><strong>37</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
 <p><strong>BrainChain</strong> · @usebrainchain</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
-<a href="https://x.com/ToDataBeyond/status/2121942235402920174"><img src="https://pbs.twimg.com/amplify_video_thumb/2121939869740015616/img/91K1yEPqhC4AdlEJ.jpg" alt="JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/ToDataBeyond/status/2121942235402920174">JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow</a></h3>
-<p>A 4-hour live workshop comparing JEV with a general-purpose LLM across eight agent-workflow use cases, then building a local decision model. Early-bird pricing ends Nov 16.</p>
-<p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
-<p><strong>To Data &amp; Beyond</strong> · @ToDataBeyond</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2121976464769683741"><img src="https://pbs.twimg.com/amplify_video_thumb/2121976285433851904/img/_G0EGzGOEy7C84QF.jpg" alt="Jev Rating Filters GTA 6 Hype Coin Trades · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2121976464769683741">Jev Rating Filters GTA 6 Hype Coin Trades</a></h3>
-<p>A user had a Grok bot trade GTA 6 hype coins on pump.fun, with Jev rating each coin before buying (4+ stars = no entry), cutting losers at -6%, and hitting a 10x goal by Sunday.</p>
-<p><strong>257</strong> views · 💬 5 &nbsp; 🔁 0 &nbsp; ♡ 12 &nbsp; 📊 257</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/Rubber__Soul_/status/2121999335978381645"><img src="https://pbs.twimg.com/amplify_video_thumb/2121015547387076608/img/X10kVib4QjRhWnJH.jpg" alt="Inspiration for combining Jev with Generative UI · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Rubber__Soul_/status/2121999335978381645">Inspiration for combining Jev with Generative UI</a></h3>
+<p>The user says the content is really good and mentions wanting to reference it to create something by combining Jev and Generative UI.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>毎晩カレー</strong> · @Rubber__Soul_</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<a href="https://x.com/usebrainchain/status/2121949596377313568"><img src="https://pbs.twimg.com/media/HXKt6d3bAAAGqz9?format=jpg&amp;name=medium" alt="Jev completes task 48 and gets minted · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2121949596377313568">Jev completes task 48 and gets minted</a></h3>
+<p>Jev hired Claude at 89% confidence to execute a task, accepted the work at 95% confidence, and a collector minted the proof on ripples.run.</p>
+<p><strong>37</strong> views · 💬 2 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 37</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>教育</code> <code>原帖视频</code></p>
 <a href="https://x.com/ToDataBeyond/status/2121942235402920174"><img src="https://pbs.twimg.com/amplify_video_thumb/2121939869740015616/img/91K1yEPqhC4AdlEJ.jpg" alt="JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/ToDataBeyond/status/2121942235402920174">JEV Decision Models Workshop: Early-Bird Price Ends Tomorrow</a></h3>
 <p>A 4-hour live workshop comparing JEV with a general-purpose LLM across eight agent-workflow use cases, then building a local decision model. Early-bird pricing ends Nov 16.</p>
 <p><strong>17</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 2 &nbsp; 📊 17</p>
 <p><strong>To Data &amp; Beyond</strong> · @ToDataBeyond</p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>机器人</code> <code>原帖视频</code></p>
-<a href="https://x.com/cg_ftLab/status/2121921094307533196"><img src="https://pbs.twimg.com/amplify_video_thumb/2121920174328807424/img/T0CqxulPTFdID2NN.jpg" alt="Microduck robot uses Jev to optimize pick-up and carry flow · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cg_ftLab/status/2121921094307533196">Microduck robot uses Jev to optimize pick-up and carry flow</a></h3>
-<p>A developer is using Jev in the Microduck project to find targets and drive the robot to approach, pick up with its mouth, and deliver to a red circle, aiming for natural animal-like movement.</p>
-<p><strong>47</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 47</p>
-<p><strong>ft-lab</strong> · @cg_ftLab</p>
-</td>
 <td width="50%" valign="top">
 <p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/Toby_AgwaB/status/2121857632793452605"><img src="https://pbs.twimg.com/media/HXJZhZSbgAABkxk?format=jpg&amp;name=medium" alt="Vercel&#39;s Parallel Decisions Fast free until Nov 23, compared with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/Toby_AgwaB/status/2121857632793452605">Vercel&#39;s Parallel Decisions Fast free until Nov 23, compared with Jev</a></h3>
-<p>This tweet notes Vercel&#39;s decision model Parallel Decisions Fast is free until November 23 and compares it with Jev: Parallel performs real-time web search and returns probabilities with sources, while Jev only reasons over passed-in data; both support yes/no, choice, and scoring, but image input and Box/location detection are Jev-only.</p>
-<p><strong>527</strong> views · 💬 8 &nbsp; 🔁 2 &nbsp; ♡ 18 &nbsp; 📊 527</p>
-<p><strong>김크립토</strong> · @Toby_AgwaB</p>
+<a href="https://x.com/usebrainchain/status/2121874065468400059"><img src="https://pbs.twimg.com/media/HXJpN_SawAAaHk3?format=jpg&amp;name=medium" alt="Jev Task Proof #47 · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/usebrainchain/status/2121874065468400059">Jev Task Proof #47</a></h3>
+<p>Jev hired Claude at 87% confidence and accepted the work at 95%. The task proof was minted by a collector on ripples.run.</p>
+<p><strong>149</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 149</p>
+<p><strong>BrainChain</strong> · @usebrainchain</p>
 </td>
 </tr>
 </table>

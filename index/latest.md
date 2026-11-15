@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T16:10:41.000Z | [Inspiration for combining Jev with Generative UI](https://x.com/Rubber__Soul_/status/2121999335978381645) | 社区实践 | 毎晩カレー | 2 |
 | 2026-11-15T14:39:48.000Z | [Jev Rating Filters GTA 6 Hype Coin Trades](https://x.com/HodlReaper/status/2121976464769683741) | 金融 | HodlReaper | 257 |
 | 2026-11-15T13:49:23.000Z | [Jev founder packs engineering insights into 1-page PDF: A formula to stop agents paying frontier models to say yes or no](https://x.com/0x_rody/status/2121963776576500018) | 智能体 | rody | 213 |
 | 2026-11-15T12:53:02.000Z | [Jev completes task 48 and gets minted](https://x.com/usebrainchain/status/2121949596377313568) | 智能体 | BrainChain | 37 |
@@ -101,4 +102,3 @@
 | 2026-11-12T13:35:53.000Z | [Google Unveils Gemini Decision 1, Mentions Jev](https://x.com/YouthChina/status/2120873218361979145) | 产品发布 | Youth China | 12 |
 | 2026-11-12T13:26:11.000Z | [Jev no longer one of a kind? Google launches Gemini Decision 1](https://x.com/sudeepsriv/status/2120870774261391572) | 产品发布 | Sudeep Srivastava | 21 |
 | 2026-11-12T13:25:54.000Z | [Grokbot trading bot earns $11,912 in a month, Jev runs 7 pre-buy checks](https://x.com/HodlReaper/status/2120870705554174327) | 金融 | HodlReaper | 225 |
-| 2026-11-12T13:21:43.000Z | [JEV Successfully Blocks Prompt Injection Attack](https://x.com/BabaKhaliid/status/2120869653274599519) | 网络安全 | BABA Khalid \| Youmake.dev | 8 |

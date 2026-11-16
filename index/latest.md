@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T07:07:12.000Z | [Using Jev-type model to drive MotionBricks for natural poses](https://x.com/smorce1/status/2122224954314039602) | 社区实践 | smorce@AITuber 紅璃ロゼ&デルタもん (not エンジニア) | 16 |
+| 2026-11-16T06:44:29.000Z | [Discussing Jev integration with AI workflows](https://x.com/anishwelde/status/2122219237062431057) | 社区实践 | Anish Welde | 18 |
 | 2026-11-16T06:37:06.000Z | [Integrating Jev into Second Brain & AI OS Workflows](https://x.com/anishwelde/status/2122217376670216368) | 社区实践 | Anish Welde | 2 |
 | 2026-11-16T05:30:00.000Z | [JEV-35B: A Probabilistic Decision Model for Agent Steps](https://x.com/cutetoxicguy/status/2122200491765485996) | 产品发布 | CuteGuy☣️ | 11 |
 | 2026-11-16T04:00:09.000Z | [Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored](https://x.com/amarHarolikar/status/2122177879178137662) | 知识与搜索 | Amar Harolikar | 24 |
@@ -100,5 +102,3 @@
 | 2026-11-12T20:12:07.000Z | [Jev Gives You Back the Evenings Spent Picking a Vacation Rental](https://x.com/typesafeai/status/2120972933375869140) | 营销 | TypeSafe AI | 7.4K |
 | 2026-11-12T19:32:08.000Z | [Handy AI Decision Model Benchmarked Against TypeSafe Jev](https://x.com/jakehandy/status/2120962872175976716) | 社区实践 | Jake Handy | 14 |
 | 2026-11-12T17:16:16.000Z | [Upgrading a Personal Voice Assistant with Jev Fast Paths](https://x.com/allietheicon/status/2120928679404638424) | 智能体 | Allie the Icon | 739 |
-| 2026-11-12T16:51:00.000Z | [Jev Beats Gemini Decisions API in HotdogBench](https://x.com/hamiltonulmer/status/2120922318507528585) | 科研 | Hamilton Ulmer | 1.2K |
-| 2026-11-12T16:00:39.000Z | [Jev vs. Google Decision Model: A User Comparison](https://x.com/NikolajSen4141/status/2120909648496578562) | 社区实践 | Nick Senin | 7 |

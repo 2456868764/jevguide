@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 1489 | 618 | 879 | 3.0M |
+| 1491 | 619 | 880 | 3.0M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/smorce1/status/2122224954314039602"><img src="https://pbs.twimg.com/amplify_video_thumb/2122224207950188544/img/kzxhOPHL-WCT-C5u.jpg" alt="Using Jev-type model to drive MotionBricks for natural poses · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/smorce1/status/2122224954314039602">Using Jev-type model to drive MotionBricks for natural poses</a></h3>
+<p>The author built a diorama where clicking a yellow marker makes a Jev-type model decide the appropriate pose and pass it to MotionBricks to generate the motion, with natural-looking results.</p>
+<p><strong>中文摘要：</strong>作者制作了一个箱庭场景，点击指定黄色标记后，由 Jev 型模型判断合适姿势并交给 MotionBricks 生成动作，效果看起来自然。</p>
+<p><strong>smorce@AITuber 紅璃ロゼ&amp;デルタもん (not エンジニア)</strong> · @smorce1 · 2026-11-16T07:07:12.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><a href="https://x.com/smorce1/status/2122224954314039602">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/anishwelde/status/2122219237062431057"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Discussing Jev integration with AI workflows · 原帖图片" width="100%"></a>
+<br>
+<sub><code>社区实践</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/anishwelde/status/2122219237062431057">Discussing Jev integration with AI workflows</a></h3>
+<p>The author asks the community how they integrate Jev into their second brain or AI OS workflows, and discusses whether the use case of &#39;Jev on top of your for you feed&#39; would work.</p>
+<p><strong>中文摘要：</strong>作者询问社区如何将 Jev 集成到第二大脑或 AI 操作系统工作流中，并探讨“Jev 叠加在个性化信息流上”的使用场景是否可行。</p>
+<p><strong>Anish Welde</strong> · @anishwelde · 2026-11-16T06:44:29.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
+<p><a href="https://x.com/anishwelde/status/2122219237062431057">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/anishwelde/status/2122217376670216368"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Integrating Jev into Second Brain &amp; AI OS Workflows · 原帖图片" width="100%"></a>

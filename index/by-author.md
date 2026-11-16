@@ -517,6 +517,7 @@
 - [Andres Vilariño 🇪🇦](../authors/andres-vilarino.md) — 2
 - [Andy Ingram 🌀](../authors/andy-ingram.md) — 2
 - [Anicet](../authors/anicet.md) — 2
+- [Anish Welde](../authors/anish-welde.md) — 2
 - [Anjula Dwivedi](../authors/anjula-dwivedi.md) — 2
 - [Anshu](../authors/anshu.md) — 2
 - [ANURAG SINGH BHANDARI](../authors/anurag-singh-bhandari.md) — 2
@@ -1434,7 +1435,6 @@
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
 - [anil kalm](../authors/anil-kalm.md) — 1
 - [Anirudh](../authors/anirudh.md) — 1
-- [Anish Welde](../authors/anish-welde.md) — 1
 - [anish.](../authors/anish.md) — 1
 - [Anjan](../authors/anjan.md) — 1
 - [Ankit Pansari](../authors/ankit-pansari.md) — 1
@@ -4006,6 +4006,7 @@
 - [slash1s](../authors/slash1s.md) — 1
 - [Smakosh](../authors/smakosh.md) — 1
 - [smallzero](../authors/smallzero.md) — 1
+- [smorce@AITuber 紅璃ロゼ&デルタもん (not エンジニア)](../authors/smorce-aituber-紅璃-not.md) — 1
 - [Sodeh Abadi](../authors/sodeh-abadi.md) — 1
 - [Sofiia Matsiutsia](../authors/sofiia-matsiutsia.md) — 1
 - [Sofiia Shvets](../authors/sofiia-shvets.md) — 1

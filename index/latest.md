@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T12:08:07.000Z | [Breakfast & Learn: Typed Decisions with Jev](https://x.com/AutomatitDevOps/status/2122300681063133624) | 社区实践 | Automat-it | 3 |
 | 2026-11-16T11:41:00.000Z | [Awesome Jev List: 640 Open Source Projects Collected](https://x.com/ruyi3699/status/2122293856448176529) | 开发资源 | 如意｜Ruyi | 13 |
 | 2026-11-16T11:40:36.000Z | [Jev model used in autonomous tram driving experiment](https://x.com/dumbuffalo/status/2122293757248995825) | 社区实践 | DrQuicheEater | 20 |
 | 2026-11-16T11:29:00.000Z | [Experiment video of Jev playing Doom](https://x.com/numazo_g3/status/2122290836134039889) | 游戏 | あぬま🍣技術書典21「え06」 | 10 |
@@ -101,4 +102,3 @@
 | 2026-11-12T22:17:03.000Z | [Voice-Only Input Prototype Using Jev for Decisions](https://x.com/tyschultz7/status/2121004373304057937) | 游戏 | Tyler Schultz | 36 |
 | 2026-11-12T22:00:02.000Z | [Automate Email Routing with Jev: Compare with OpenAI Decisions API](https://x.com/codex_aca/status/2121000088655069367) | 自动化工作流 | 【公式】Codexアカデミア | 147 |
 | 2026-11-12T21:44:28.000Z | [Google Launches Gemini Decisions API, Comparing to Jev System 1 LLMs](https://x.com/tymofii/status/2120996170906354040) | 产品发布 | Tymofii Antonenko | 34 |
-| 2026-11-12T21:16:25.000Z | [Use Rust enums as Jev Choice options](https://x.com/johnhartquist/status/2120989114262749558) | 开发者工具 | John Hartquist | 38 |

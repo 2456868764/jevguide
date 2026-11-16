@@ -264,6 +264,7 @@
 - [Antonio Bray](../authors/antonio-bray.md) — 3
 - [Archive](../authors/archive.md) — 3
 - [Arthur Marques](../authors/arthur-marques.md) — 3
+- [Automat-it](../authors/automat-it.md) — 3
 - [Avi Chawla](../authors/avi-chawla.md) — 3
 - [Avyn 👾](../authors/avyn.md) — 3
 - [Ben](../authors/ben.md) — 3
@@ -538,7 +539,6 @@
 - [attrip](../authors/attrip.md) — 2
 - [Atul Kumar](../authors/atul-kumar.md) — 2
 - [Aurum 😼](../authors/aurum.md) — 2
-- [Automat-it](../authors/automat-it.md) — 2
 - [Ayush](../authors/ayush.md) — 2
 - [B.AI](../authors/b-ai.md) — 2
 - [bakigul](../authors/bakigul.md) — 2

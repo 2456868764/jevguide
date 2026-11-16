@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7522</strong><br>curated posts</td>
+<td align="center"><strong>7523</strong><br>curated posts</td>
 <td align="center"><strong>3677</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1493</strong> showcases · <strong>620</strong> videos</p>
+<p><strong>1494</strong> showcases · <strong>620</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AutomatitDevOps/status/2122300681063133624"><img src="https://pbs.twimg.com/media/HXPtMtHXAAAqNdi?format=jpg&amp;name=medium" alt="Breakfast &amp; Learn: Typed Decisions with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AutomatitDevOps/status/2122300681063133624">Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
+<p>Thank you to everyone who joined Automat-it&#39;s Breakfast &amp; Learn session in Tel Aviv on &#39;Not Every Agent Step Needs an LLM: Typed Decisions with Jev&#39;, led by Nir Shney-Dor and Gili Nachum.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Automat-it</strong> · @AutomatitDevOps</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
 <a href="https://x.com/ruyi3699/status/2122293856448176529"><img src="https://pbs.twimg.com/media/HXIvm7YaUAAM2Nh?format=png&amp;name=small" alt="Awesome Jev List: 640 Open Source Projects Collected · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/ruyi3699/status/2122293856448176529">Awesome Jev List: 640 Open Source Projects Collected</a></h3>
 <p>The Awesome Jev list on GitHub includes 640 open-source projects built with Jev, covering 11 categories and 27 languages, with 110 added on September 22 alone.</p>
 <p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
 <p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
 <a href="https://x.com/dumbuffalo/status/2122293757248995825"><img src="https://pbs.twimg.com/amplify_video_thumb/2122293629683122176/img/Ytpnxvi7B9qXn1CS.jpg" alt="Jev model used in autonomous tram driving experiment · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/dumbuffalo/status/2122293757248995825">Jev model used in autonomous tram driving experiment</a></h3>
 <p>A user integrated TypeSafe&#39;s Jev model as an autonomous tram driving assistant—it processes existing tram routes and suggests actions, not real-time video.</p>
 <p><strong>20</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 20</p>
 <p><strong>DrQuicheEater</strong> · @dumbuffalo</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<p><strong>04</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
 <a href="https://x.com/numazo_g3/status/2122290836134039889"><img src="https://pbs.twimg.com/amplify_video_thumb/2122218894538780673/img/ok7iBNuTaVU8GNmb.jpg" alt="Experiment video of Jev playing Doom · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/numazo_g3/status/2122290836134039889">Experiment video of Jev playing Doom</a></h3>
 <p>In the Jev Experiment Report, the author tries letting Jev choose its next actions to play Doom, comparing response and cost with OpenAI&#39;s Decisions API and rule-based methods.</p>
 <p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
 <p><strong>あぬま🍣技術書典21「え06」</strong> · @numazo_g3</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2122277595907817557">Jev reviews USD/JPY AI long scenario</a></h3>
-<p>HadoHunter posts a USD/JPY AI long signal: entry 159.626, target 160.066, stop 159.553, reward/risk 6.03. Jev recommends review with 38% certainty.</p>
-<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/ruyi3699/status/2122293856448176529"><img src="https://pbs.twimg.com/media/HXIvm7YaUAAM2Nh?format=png&amp;name=small" alt="Awesome Jev List: 640 Open Source Projects Collected · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ruyi3699/status/2122293856448176529">Awesome Jev List: 640 Open Source Projects Collected</a></h3>
-<p>The Awesome Jev list on GitHub includes 640 open-source projects built with Jev, covering 11 categories and 27 languages, with 110 added on September 22 alone.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AutomatitDevOps/status/2122300681063133624"><img src="https://pbs.twimg.com/media/HXPtMtHXAAAqNdi?format=jpg&amp;name=medium" alt="Breakfast &amp; Learn: Typed Decisions with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AutomatitDevOps/status/2122300681063133624">Breakfast &amp; Learn: Typed Decisions with Jev</a></h3>
+<p>Thank you to everyone who joined Automat-it&#39;s Breakfast &amp; Learn session in Tel Aviv on &#39;Not Every Agent Step Needs an LLM: Typed Decisions with Jev&#39;, led by Nir Shney-Dor and Gili Nachum.</p>
+<p><strong>3</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 3</p>
+<p><strong>Automat-it</strong> · @AutomatitDevOps</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>游戏</code> <code>原帖视频</code></p>
+<a href="https://x.com/numazo_g3/status/2122290836134039889"><img src="https://pbs.twimg.com/amplify_video_thumb/2122218894538780673/img/ok7iBNuTaVU8GNmb.jpg" alt="Experiment video of Jev playing Doom · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/numazo_g3/status/2122290836134039889">Experiment video of Jev playing Doom</a></h3>
+<p>In the Jev Experiment Report, the author tries letting Jev choose its next actions to play Doom, comparing response and cost with OpenAI&#39;s Decisions API and rule-based methods.</p>
+<p><strong>10</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 10</p>
+<p><strong>あぬま🍣技術書典21「え06」</strong> · @numazo_g3</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/hadohunter/status/2122277595907817557">Jev reviews USD/JPY AI long scenario</a></h3>
 <p>HadoHunter posts a USD/JPY AI long signal: entry 159.626, target 160.066, stop 159.553, reward/risk 6.03. Jev recommends review with 38% certainty.</p>
 <p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/jwbobbink/status/2122276076722286847"><img src="https://pbs.twimg.com/media/HXPWxawXIAEZHWk?format=jpg&amp;name=medium" alt="SlopAway Plugin: Using Jev to Filter AI Slop · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/jwbobbink/status/2122276076722286847">SlopAway Plugin: Using Jev to Filter AI Slop</a></h3>
-<p>Jan-Willem Bobbink is building a browser plugin, SlopAway, to compare Jev with other models and automatically filter out AI slop and spam.</p>
-<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
-<p><strong>Jan-Willem Bobbink</strong> · @jwbobbink</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/cutetoxicguy/status/2122200491765485996"><img src="https://pbs.twimg.com/amplify_video_thumb/2122192689839894528/img/jhom29K8yaLIOEOp.jpg" alt="JEV-35B: A Probabilistic Decision Model for Agent Steps · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cutetoxicguy/status/2122200491765485996">JEV-35B: A Probabilistic Decision Model for Agent Steps</a></h3>
-<p>JEV-35B takes a state, a question, and a list of options, then returns probabilities over the choices, designed for agent steps that need one decision rather than another paragraph. AutoTrust&#39;s model is built on Qwen3.5-35B-A3B, with about 35B total parameters and 3B active per token.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>CuteGuy☣️</strong> · @cutetoxicguy</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/anishwelde/status/2122217376670216368"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Integrating Jev into Second Brain &amp; AI OS Workflows · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/anishwelde/status/2122217376670216368">Integrating Jev into Second Brain &amp; AI OS Workflows</a></h3>
+<p>A community member asks how others integrate Jev into their second brain/AI OS setups, and whether a &#39;Jev on top of your for-you feed&#39; use case would be viable.</p>
+<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
+<p><strong>Anish Welde</strong> · @anishwelde</p>
 </td>
 </tr>
 </table>

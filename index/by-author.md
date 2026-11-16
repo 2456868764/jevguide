@@ -4,7 +4,7 @@
 - [8Bit🦞](../authors/8bit.md) — 35
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
-- [HadoHunter](../authors/hadohunter.md) — 23
+- [HadoHunter](../authors/hadohunter.md) — 24
 - [Florian S](../authors/florian-s.md) — 22
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 18
@@ -1664,6 +1664,7 @@
 - [Brazil Journal](../authors/brazil-journal.md) — 1
 - [bregas](../authors/bregas.md) — 1
 - [Brendan Gray](../authors/brendan-gray.md) — 1
+- [Brennan Dunn](../authors/brennan-dunn.md) — 1
 - [Brian Donatiello](../authors/brian-donatiello.md) — 1
 - [brian taylor](../authors/brian-taylor.md) — 1
 - [broke boy](../authors/broke-boy.md) — 1
@@ -2572,6 +2573,7 @@
 - [Jamieson Becker](../authors/jamieson-becker.md) — 1
 - [Jan Kot](../authors/jan-kot.md) — 1
 - [Jan-Hendrik Müller](../authors/jan-hendrik-muller.md) — 1
+- [Jan-Willem Bobbink](../authors/jan-willem-bobbink.md) — 1
 - [Jarek](../authors/jarek.md) — 1
 - [Jarod Reyes](../authors/jarod-reyes.md) — 1
 - [Jarrod Watts](../authors/jarrod-watts.md) — 1

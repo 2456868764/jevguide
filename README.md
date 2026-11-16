@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7516</strong><br>curated posts</td>
+<td align="center"><strong>7519</strong><br>curated posts</td>
 <td align="center"><strong>3675</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1491</strong> showcases · <strong>619</strong> videos</p>
+<p><strong>1492</strong> showcases · <strong>619</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -72,23 +72,23 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/finance.md">Finance</a></h3>
+<p><sub>金融</sub></p>
+<p><strong>427</strong> showcases · <strong>222</strong> videos</p>
+<p><a href="categories/finance.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
 <p><sub>游戏</sub></p>
 <p><strong>426</strong> showcases · <strong>312</strong> videos</p>
 <p><a href="categories/gaming.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/finance.md">Finance</a></h3>
-<p><sub>金融</sub></p>
-<p><strong>426</strong> showcases · <strong>222</strong> videos</p>
-<p><a href="categories/finance.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="categories/workflow-automation.md">Workflow automation</a></h3>
 <p><sub>自动化工作流</sub></p>
-<p><strong>324</strong> showcases · <strong>194</strong> videos</p>
+<p><strong>325</strong> showcases · <strong>194</strong> videos</p>
 <p><a href="categories/workflow-automation.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2122277595907817557">Jev reviews USD/JPY AI long scenario</a></h3>
+<p>HadoHunter posts a USD/JPY AI long signal: entry 159.626, target 160.066, stop 159.553, reward/risk 6.03. Jev recommends review with 38% certainty.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/jwbobbink/status/2122276076722286847"><img src="https://pbs.twimg.com/media/HXPWxawXIAEZHWk?format=jpg&amp;name=medium" alt="SlopAway Plugin: Using Jev to Filter AI Slop · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/jwbobbink/status/2122276076722286847">SlopAway Plugin: Using Jev to Filter AI Slop</a></h3>
+<p>Jan-Willem Bobbink is building a browser plugin, SlopAway, to compare Jev with other models and automatically filter out AI slop and spam.</p>
+<p><strong>14</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 14</p>
+<p><strong>Jan-Willem Bobbink</strong> · @jwbobbink</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<a href="https://x.com/brennandunn/status/2122271586481008718"><img src="https://pbs.twimg.com/media/HXPSHcWXMAAb2Y2?format=jpg&amp;name=medium" alt="Jev cheaply detects whether the garage door is open · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/brennandunn/status/2122271586481008718">Jev cheaply detects whether the garage door is open</a></h3>
+<p>A user uses Jev to periodically analyze whether the garage door is open, at a cost far below ordering and installing a reed switch. Integrated with Home Assistant, it pings when the door is left open unintentionally—a real-world AI vision application.</p>
+<p><strong>243</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 7 &nbsp; 📊 243</p>
+<p><strong>Brennan Dunn</strong> · @brennandunn</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/GoSailGlobal/status/2122241674269340124"><img src="https://pbs.twimg.com/media/HXO3Qa_aEAAPHow?format=png&amp;name=medium" alt="Jev Workflow for Data Filtering and API Queries · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/GoSailGlobal/status/2122241674269340124">Jev Workflow for Data Filtering and API Queries</a></h3>
 <p>The author shares a workflow using Jev for data filtering and refined API queries, claiming it saves money and is fast, and suggests letting AI examine this workflow to optimize business processes.</p>
 <p><strong>115</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/smorce1/status/2122224954314039602"><img src="https://pbs.twimg.com/amplify_video_thumb/2122224207950188544/img/kzxhOPHL-WCT-C5u.jpg" alt="Using Jev-type model to drive MotionBricks for natural poses · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/smorce1/status/2122224954314039602">Using Jev-type model to drive MotionBricks for natural poses</a></h3>
-<p>The author built a diorama where clicking a yellow marker makes a Jev-type model decide the appropriate pose and pass it to MotionBricks to generate the motion, with natural-looking results.</p>
-<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
-<p><strong>smorce@AITuber 紅璃ロゼ&amp;デルタもん (not エンジニア)</strong> · @smorce1</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/anishwelde/status/2122219237062431057"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Discussing Jev integration with AI workflows · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/anishwelde/status/2122219237062431057">Discussing Jev integration with AI workflows</a></h3>
-<p>The author asks the community how they integrate Jev into their second brain or AI OS workflows, and discusses whether the use case of &#39;Jev on top of your for you feed&#39; would work.</p>
-<p><strong>18</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 18</p>
-<p><strong>Anish Welde</strong> · @anishwelde</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/anishwelde/status/2122217376670216368"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Integrating Jev into Second Brain &amp; AI OS Workflows · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/anishwelde/status/2122217376670216368">Integrating Jev into Second Brain &amp; AI OS Workflows</a></h3>
-<p>A community member asks how others integrate Jev into their second brain/AI OS setups, and whether a &#39;Jev on top of your for-you feed&#39; use case would be viable.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Anish Welde</strong> · @anishwelde</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2122277595907817557">Jev reviews USD/JPY AI long scenario</a></h3>
+<p>HadoHunter posts a USD/JPY AI long signal: entry 159.626, target 160.066, stop 159.553, reward/risk 6.03. Jev recommends review with 38% certainty.</p>
+<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/GoSailGlobal/status/2122241674269340124"><img src="https://pbs.twimg.com/media/HXO3Qa_aEAAPHow?format=png&amp;name=medium" alt="Jev Workflow for Data Filtering and API Queries · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/GoSailGlobal/status/2122241674269340124">Jev Workflow for Data Filtering and API Queries</a></h3>
 <p>The author shares a workflow using Jev for data filtering and refined API queries, claiming it saves money and is fast, and suggests letting AI examine this workflow to optimize business processes.</p>
 <p><strong>115</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 115</p>
 <p><strong>Jason Zhu</strong> · @GoSailGlobal</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/anishwelde/status/2122217376670216368"><img src="https://pbs.twimg.com/media/HXOhdPgXoAA4YC2?format=jpg&amp;name=medium" alt="Integrating Jev into Second Brain &amp; AI OS Workflows · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/anishwelde/status/2122217376670216368">Integrating Jev into Second Brain &amp; AI OS Workflows</a></h3>
-<p>A community member asks how others integrate Jev into their second brain/AI OS setups, and whether a &#39;Jev on top of your for-you feed&#39; use case would be viable.</p>
-<p><strong>2</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 2</p>
-<p><strong>Anish Welde</strong> · @anishwelde</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/cutetoxicguy/status/2122200491765485996"><img src="https://pbs.twimg.com/amplify_video_thumb/2122192689839894528/img/jhom29K8yaLIOEOp.jpg" alt="JEV-35B: A Probabilistic Decision Model for Agent Steps · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/cutetoxicguy/status/2122200491765485996">JEV-35B: A Probabilistic Decision Model for Agent Steps</a></h3>
-<p>JEV-35B takes a state, a question, and a list of options, then returns probabilities over the choices, designed for agent steps that need one decision rather than another paragraph. AutoTrust&#39;s model is built on Qwen3.5-35B-A3B, with about 35B total parameters and 3B active per token.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>CuteGuy☣️</strong> · @cutetoxicguy</p>
+<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
+<a href="https://x.com/smorce1/status/2122224954314039602"><img src="https://pbs.twimg.com/amplify_video_thumb/2122224207950188544/img/kzxhOPHL-WCT-C5u.jpg" alt="Using Jev-type model to drive MotionBricks for natural poses · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/smorce1/status/2122224954314039602">Using Jev-type model to drive MotionBricks for natural poses</a></h3>
+<p>The author built a diorama where clicking a yellow marker makes a Jev-type model decide the appropriate pose and pass it to MotionBricks to generate the motion, with natural-looking results.</p>
+<p><strong>16</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 16</p>
+<p><strong>smorce@AITuber 紅璃ロゼ&amp;デルタもん (not エンジニア)</strong> · @smorce1</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/PCGLOVEv/status/2122111678120862131"><img src="https://pbs.twimg.com/media/HXNAwTSbkAAHf00?format=png&amp;name=900x900" alt="Implementing AI mute on X with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PCGLOVEv/status/2122111678120862131">Implementing AI mute on X with Jev</a></h3>
-<p>A user shares how they used Jev to build a custom AI mute on X, with keyword-based judgment and differentiated handling for spouse/children/pregnancy content.</p>
-<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ゆみこっち</strong> · @PCGLOVEv</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2122151920915906965"><img src="https://pbs.twimg.com/media/HXNl7SEasAABCiS?format=png&amp;name=medium" alt="EUR/USD AI short scenario: Jev review needed · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2122151920915906965">EUR/USD AI short scenario: Jev review needed</a></h3>
+<p>HadoHunter shares an AI short scenario for EUR/USD: entry 1.10231, target 1.09519, stop 1.10585, reward/risk 2.01. Downtrend with a bullish-leaning pattern, low volume and a narrow score gap. Jev flags review needed with 24% assessment certainty.</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
 </tr>
 </table>

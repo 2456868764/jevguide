@@ -2041,6 +2041,7 @@
 - [DreykØ](../authors/dreyk.md) — 1
 - [DROID](../authors/droid.md) — 1
 - [Dropship Calendar](../authors/dropship-calendar.md) — 1
+- [DrQuicheEater](../authors/drquicheeater.md) — 1
 - [DryHoleCo](../authors/dryholeco.md) — 1
 - [DuckDegen is for hire 🛡️](../authors/duckdegen-is-for-hire.md) — 1
 - [duckie](../authors/duckie.md) — 1
@@ -4637,6 +4638,7 @@
 - [あしぴー](../authors/jev-showcase.md) — 1
 - [あっき〜@中小企業ITコンサルタント🔥](../authors/中小企業it.md) — 1
 - [あっきー｜AIを現場に落とす人](../authors/ai-現場-落-人.md) — 1
+- [あぬま🍣技術書典21「え06」](../authors/技術書典21-06.md) — 1
 - [あやみ｜マーケティング](../authors/jev-showcase.md) — 1
 - [あるにこ](../authors/jev-showcase.md) — 1
 - [あんでぃ](../authors/jev-showcase.md) — 1
@@ -4899,6 +4901,7 @@
 - [大田原正幸｜医療AIガバナンス｜Cursorvers](../authors/大田原正幸-医療ai-cursorvers.md) — 1
 - [奥村 龍晃@AI整体師](../authors/奥村-龍晃-ai整体師.md) — 1
 - [奥村よしひろ🇯🇵国民民主党 参議院議員（東京都）](../authors/奥村-国民民主党-参議院議員-東京都.md) — 1
+- [如意｜Ruyi](../authors/如意-ruyi.md) — 1
 - [姚金刚](../authors/姚金刚.md) — 1
 - [守屋貴行 Takayuki Moriya](../authors/守屋貴行-takayuki-moriya.md) — 1
 - [宝玉](../authors/宝玉.md) — 1

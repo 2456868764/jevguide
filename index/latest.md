@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T11:41:00.000Z | [Awesome Jev List: 640 Open Source Projects Collected](https://x.com/ruyi3699/status/2122293856448176529) | 开发资源 | 如意｜Ruyi | 13 |
+| 2026-11-16T11:40:36.000Z | [Jev model used in autonomous tram driving experiment](https://x.com/dumbuffalo/status/2122293757248995825) | 社区实践 | DrQuicheEater | 20 |
+| 2026-11-16T11:29:00.000Z | [Experiment video of Jev playing Doom](https://x.com/numazo_g3/status/2122290836134039889) | 游戏 | あぬま🍣技術書典21「え06」 | 10 |
 | 2026-11-16T10:36:23.000Z | [Jev reviews USD/JPY AI long scenario](https://x.com/hadohunter/status/2122277595907817557) | 金融 | HadoHunter | 24 |
 | 2026-11-16T10:30:21.000Z | [SlopAway Plugin: Using Jev to Filter AI Slop](https://x.com/jwbobbink/status/2122276076722286847) | 社区实践 | Jan-Willem Bobbink | 14 |
 | 2026-11-16T10:12:30.000Z | [Jev cheaply detects whether the garage door is open](https://x.com/brennandunn/status/2122271586481008718) | 自动化工作流 | Brennan Dunn | 243 |
@@ -99,6 +102,3 @@
 | 2026-11-12T22:00:02.000Z | [Automate Email Routing with Jev: Compare with OpenAI Decisions API](https://x.com/codex_aca/status/2121000088655069367) | 自动化工作流 | 【公式】Codexアカデミア | 147 |
 | 2026-11-12T21:44:28.000Z | [Google Launches Gemini Decisions API, Comparing to Jev System 1 LLMs](https://x.com/tymofii/status/2120996170906354040) | 产品发布 | Tymofii Antonenko | 34 |
 | 2026-11-12T21:16:25.000Z | [Use Rust enums as Jev Choice options](https://x.com/johnhartquist/status/2120989114262749558) | 开发者工具 | John Hartquist | 38 |
-| 2026-11-12T21:15:56.000Z | [Jev Shopping Cart Pattern: Handling Multiple Items with Live Preview](https://x.com/johnhartquist/status/2120988991705231774) | 智能体 | John Hartquist | 47 |
-| 2026-11-12T21:15:30.000Z | [Jev-powered real-time transcript decisions](https://x.com/johnhartquist/status/2120988883412496533) | 智能体 | John Hartquist | 50 |
-| 2026-11-12T21:14:51.000Z | [Building a Jev smartwatch Q&A app with the Rust SDK](https://x.com/johnhartquist/status/2120988719109079335) | 开发资源 | John Hartquist | 65 |

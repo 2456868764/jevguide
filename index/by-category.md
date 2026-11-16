@@ -5,7 +5,7 @@
 - [Launch news](../categories/launch-news.md) — 670
 - [How it works](../categories/how-it-works.md) — 653
 - [Agents](../categories/agents.md) — 640
-- [Access updates](../categories/access-updates.md) — 470
+- [Access updates](../categories/access-updates.md) — 471
 - [Developer resources](../categories/developer-resources.md) — 431
 - [Gaming](../categories/gaming.md) — 427
 - [Finance](../categories/finance.md) — 427

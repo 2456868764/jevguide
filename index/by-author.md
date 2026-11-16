@@ -1080,6 +1080,7 @@
 - [大伟｜AI × Web3](../authors/大伟-ai-web3.md) — 2
 - [太郎｜ 残業ゼロへのAIマネジメント](../authors/太郎-残業-ai.md) — 2
 - [头雁](../authors/头雁.md) — 2
+- [如意｜Ruyi](../authors/如意-ruyi.md) — 2
 - [宋宋](../authors/宋宋.md) — 2
 - [实践哥 Li](../authors/实践哥-li.md) — 2
 - [宮秋 保｜会社員のAI活用](../authors/宮秋-保-会社員-ai活用.md) — 2
@@ -4903,7 +4904,6 @@
 - [大田原正幸｜医療AIガバナンス｜Cursorvers](../authors/大田原正幸-医療ai-cursorvers.md) — 1
 - [奥村 龍晃@AI整体師](../authors/奥村-龍晃-ai整体師.md) — 1
 - [奥村よしひろ🇯🇵国民民主党 参議院議員（東京都）](../authors/奥村-国民民主党-参議院議員-東京都.md) — 1
-- [如意｜Ruyi](../authors/如意-ruyi.md) — 1
 - [姚金刚](../authors/姚金刚.md) — 1
 - [守屋貴行 Takayuki Moriya](../authors/守屋貴行-takayuki-moriya.md) — 1
 - [宝玉](../authors/宝玉.md) — 1

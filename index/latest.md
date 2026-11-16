@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T13:43:00.000Z | [Beacon Open-Sourced: A Practical JEV Example](https://x.com/ruyi3699/status/2122324558912864267) | 接入动态 | 如意｜Ruyi | 39 |
 | 2026-11-16T13:28:52.000Z | [Jev-Inspired Model Tops Decision Index Leaderboard](https://x.com/alexnqchen/status/2122321001644237303) | 社区实践 | Alex Chen | 8 |
 | 2026-11-16T13:27:21.000Z | [JEV Model Spots Tiny Differences in Images](https://x.com/taupirho/status/2122320621002510829) | 工作原理 | Thomas Reid | 2 |
 | 2026-11-16T12:08:07.000Z | [Breakfast & Learn: Typed Decisions with Jev](https://x.com/AutomatitDevOps/status/2122300681063133624) | 社区实践 | Automat-it | 3 |
@@ -101,4 +102,3 @@
 | 2026-11-12T23:08:44.000Z | [Edward Tian Announces AI Vision 2.0 with Jev Model-Powered Personalized Tags](https://x.com/edward_the6/status/2121017378888634559) | 产品发布 | Edward Tian | 3.9K |
 | 2026-11-12T22:29:09.000Z | [Jev with Web Context Experience](https://x.com/jmbellod92/status/2121007419614703968) | 社区实践 | Juan Manuel Bello | 90 |
 | 2026-11-12T22:26:09.000Z | [Jev Beats Pokémon Red](https://x.com/rsasaki0109/status/2121006661494358392) | 游戏 | Ryohei Sasaki@engineer | 409 |
-| 2026-11-12T22:17:03.000Z | [Voice-Only Input Prototype Using Jev for Decisions](https://x.com/tyschultz7/status/2121004373304057937) | 游戏 | Tyler Schultz | 36 |

@@ -1434,6 +1434,7 @@
 - [Aniket Tapre](../authors/aniket-tapre.md) — 1
 - [anil kalm](../authors/anil-kalm.md) — 1
 - [Anirudh](../authors/anirudh.md) — 1
+- [Anish Welde](../authors/anish-welde.md) — 1
 - [anish.](../authors/anish.md) — 1
 - [Anjan](../authors/anjan.md) — 1
 - [Ankit Pansari](../authors/ankit-pansari.md) — 1

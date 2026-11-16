@@ -2,7 +2,7 @@
 
 - [Community builds](../categories/community-builds.md) — 1488
 - [Developer tools](../categories/developer-tools.md) — 690
-- [Launch news](../categories/launch-news.md) — 669
+- [Launch news](../categories/launch-news.md) — 670
 - [How it works](../categories/how-it-works.md) — 652
 - [Agents](../categories/agents.md) — 640
 - [Access updates](../categories/access-updates.md) — 470

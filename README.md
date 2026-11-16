@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7511</strong><br>curated posts</td>
-<td align="center"><strong>3673</strong><br>original videos</td>
+<td align="center"><strong>7512</strong><br>curated posts</td>
+<td align="center"><strong>3674</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>669</strong> showcases · <strong>295</strong> videos</p>
+<p><strong>670</strong> showcases · <strong>296</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/cutetoxicguy/status/2122200491765485996"><img src="https://pbs.twimg.com/amplify_video_thumb/2122192689839894528/img/jhom29K8yaLIOEOp.jpg" alt="JEV-35B: A Probabilistic Decision Model for Agent Steps · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cutetoxicguy/status/2122200491765485996">JEV-35B: A Probabilistic Decision Model for Agent Steps</a></h3>
+<p>JEV-35B takes a state, a question, and a list of options, then returns probabilities over the choices, designed for agent steps that need one decision rather than another paragraph. AutoTrust&#39;s model is built on Qwen3.5-35B-A3B, with about 35B total parameters and 3B active per token.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>CuteGuy☣️</strong> · @cutetoxicguy</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
 <a href="https://x.com/amarHarolikar/status/2122177879178137662"><img src="https://pbs.twimg.com/media/HXN9iIbasAAE68o?format=jpg&amp;name=medium" alt="Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/amarHarolikar/status/2122177879178137662">Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored</a></h3>
 <p>Jev Rank lets you describe your interest in plain words and scores news headlines for you. Analysts can pull news from one angle, while tool builders or integrators can tune a news panel for a screen. It shows the standard score and your personal score side by side.</p>
 <p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
 <p><strong>Amar Harolikar</strong> · @amarHarolikar</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<p><strong>03</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
 <a href="https://x.com/Gauravpiscean/status/2122152910239023460"><img src="https://pbs.twimg.com/amplify_video_thumb/2122152839183302656/img/Tjh8VwZj-I_rwQFR.jpg" alt="Decido vs Jev 1.14: Browser Agent Benchmark · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Gauravpiscean/status/2122152910239023460">Decido vs Jev 1.14: Browser Agent Benchmark</a></h3>
 <p>Comparing the same browser-use agent with different decision models: offline Mind2Web benchmark scores 78.6% for Decido vs 59.9% for Jev 1.14; live tasks are a near tie (74% vs 75%). Includes a video of a NYC→London flight search demo.</p>
 <p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><strong>Gaurav Agarwal</strong> · @Gauravpiscean</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/hadohunter/status/2122151920915906965"><img src="https://pbs.twimg.com/media/HXNl7SEasAABCiS?format=png&amp;name=medium" alt="EUR/USD AI short scenario: Jev review needed · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/hadohunter/status/2122151920915906965">EUR/USD AI short scenario: Jev review needed</a></h3>
 <p>HadoHunter shares an AI short scenario for EUR/USD: entry 1.10231, target 1.09519, stop 1.10585, reward/risk 2.01. Downtrend with a bullish-leaning pattern, low volume and a narrow score gap. Jev flags review needed with 24% assessment certainty.</p>
 <p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><strong>HadoHunter</strong> · @hadohunter</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
-<a href="https://x.com/andrewingram/status/2122141500100297145"><img src="https://pbs.twimg.com/media/HXNbRl9XIAA9tA-?format=jpg&amp;name=medium" alt="Jev Judgements Add Blog Series and OCR Support · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/andrewingram/status/2122141500100297145">Jev Judgements Add Blog Series and OCR Support</a></h3>
-<p>Updated Jev-powered judgements with support for blog post series, OCR-based book excerpts, and refined appearance.</p>
-<p><strong>84</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
-<p><strong>Andy Ingram 🌀</strong> · @andrewingram</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
-<a href="https://x.com/amarHarolikar/status/2122177879178137662"><img src="https://pbs.twimg.com/media/HXN9iIbasAAE68o?format=jpg&amp;name=medium" alt="Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/amarHarolikar/status/2122177879178137662">Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored</a></h3>
-<p>Jev Rank lets you describe your interest in plain words and scores news headlines for you. Analysts can pull news from one angle, while tool builders or integrators can tune a news panel for a screen. It shows the standard score and your personal score side by side.</p>
-<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
-<p><strong>Amar Harolikar</strong> · @amarHarolikar</p>
+<p><strong>01</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/cutetoxicguy/status/2122200491765485996"><img src="https://pbs.twimg.com/amplify_video_thumb/2122192689839894528/img/jhom29K8yaLIOEOp.jpg" alt="JEV-35B: A Probabilistic Decision Model for Agent Steps · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/cutetoxicguy/status/2122200491765485996">JEV-35B: A Probabilistic Decision Model for Agent Steps</a></h3>
+<p>JEV-35B takes a state, a question, and a list of options, then returns probabilities over the choices, designed for agent steps that need one decision rather than another paragraph. AutoTrust&#39;s model is built on Qwen3.5-35B-A3B, with about 35B total parameters and 3B active per token.</p>
+<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
+<p><strong>CuteGuy☣️</strong> · @cutetoxicguy</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/hadohunter/status/2122151920915906965"><img src="https://pbs.twimg.com/media/HXNl7SEasAABCiS?format=png&amp;name=medium" alt="EUR/USD AI short scenario: Jev review needed · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/hadohunter/status/2122151920915906965">EUR/USD AI short scenario: Jev review needed</a></h3>
+<p>HadoHunter shares an AI short scenario for EUR/USD: entry 1.10231, target 1.09519, stop 1.10585, reward/risk 2.01. Downtrend with a bullish-leaning pattern, low volume and a narrow score gap. Jev flags review needed with 24% assessment certainty.</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>HadoHunter</strong> · @hadohunter</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/andrewingram/status/2122141500100297145"><img src="https://pbs.twimg.com/media/HXNbRl9XIAA9tA-?format=jpg&amp;name=medium" alt="Jev Judgements Add Blog Series and OCR Support · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/andrewingram/status/2122141500100297145">Jev Judgements Add Blog Series and OCR Support</a></h3>
 <p>Updated Jev-powered judgements with support for blog post series, OCR-based book excerpts, and refined appearance.</p>
 <p><strong>84</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
 <p><strong>Andy Ingram 🌀</strong> · @andrewingram</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/nicovalemko/status/2122136913356218511"><img src="https://pbs.twimg.com/media/HXNYRj-W8AAFbKz?format=jpg&amp;name=900x900" alt="How JEV Speeds Up AI Automation Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nicovalemko/status/2122136913356218511">How JEV Speeds Up AI Automation Decisions</a></h3>
-<p>The post points out that much AI automation is just waiting for an LLM to make quick decisions, and decision-making models like JEV will fit in to speed up workflows and reduce costs.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>Nico Valemko</strong> · @nicovalemko</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/pauline_makes/status/2122099139072971027"><img src="https://pbs.twimg.com/media/HXM165wbIAAO0Jz?format=jpg&amp;name=medium" alt="The viral emoji search with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/pauline_makes/status/2122099139072971027">The viral emoji search with Jev</a></h3>
-<p>The post showcases a widely shared emoji search with Jev, mentioning @heystefan_.</p>
-<p><strong>111</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 111</p>
-<p><strong>pauline</strong> · @pauline_makes</p>
+<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2122099907737907632"><img src="https://pbs.twimg.com/media/HXM2dqPWQAAB8Bn?format=jpg&amp;name=medium" alt="Developer uses JEV for real-time decisions on Solana/PumpFun · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2122099907737907632">Developer uses JEV for real-time decisions on Solana/PumpFun</a></h3>
+<p>8Bit🦞 says they are using TypeSafe AI&#39;s JEV as a complete layer on top of Solana and PumpFun, making real-time decisions inside MCP, and have shut down musebook.trade while going through each route.</p>
+<p><strong>288</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 288</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 </tr>
 </table>

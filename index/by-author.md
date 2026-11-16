@@ -1858,6 +1858,7 @@
 - [Cryptoverse](../authors/cryptoverse.md) — 1
 - [Crypto满满](../authors/crypto满满.md) — 1
 - [Cure](../authors/cure.md) — 1
+- [CuteGuy☣️](../authors/cuteguy.md) — 1
 - [CWEY-O 🐰](../authors/cwey-o.md) — 1
 - [CyberMonk 赛博行者](../authors/cybermonk-赛博行者.md) — 1
 - [Cynthia Zhang - FutureX](../authors/cynthia-zhang-futurex.md) — 1

@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T05:30:00.000Z | [JEV-35B: A Probabilistic Decision Model for Agent Steps](https://x.com/cutetoxicguy/status/2122200491765485996) | 产品发布 | CuteGuy☣️ | 11 |
 | 2026-11-16T04:00:09.000Z | [Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored](https://x.com/amarHarolikar/status/2122177879178137662) | 知识与搜索 | Amar Harolikar | 24 |
 | 2026-11-16T02:20:56.000Z | [Decido vs Jev 1.14: Browser Agent Benchmark](https://x.com/Gauravpiscean/status/2122152910239023460) | 科研 | Gaurav Agarwal | 9 |
 | 2026-11-16T02:17:00.000Z | [EUR/USD AI short scenario: Jev review needed](https://x.com/hadohunter/status/2122151920915906965) | 金融 | HadoHunter | 25 |
@@ -101,4 +102,3 @@
 | 2026-11-12T16:51:00.000Z | [Jev Beats Gemini Decisions API in HotdogBench](https://x.com/hamiltonulmer/status/2120922318507528585) | 科研 | Hamilton Ulmer | 1.2K |
 | 2026-11-12T16:00:39.000Z | [Jev vs. Google Decision Model: A User Comparison](https://x.com/NikolajSen4141/status/2120909648496578562) | 社区实践 | Nick Senin | 7 |
 | 2026-11-12T15:44:14.000Z | [Jev community café: new use cases from the crowd](https://x.com/AlexSlobodnik/status/2120905516352246020) | 社区实践 | Slobo | 15 |
-| 2026-11-12T15:36:10.000Z | [Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment](https://x.com/VishwaMehta30/status/2120903486753964080) | 社区实践 | Vish | 45 |

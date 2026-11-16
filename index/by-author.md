@@ -22,6 +22,7 @@
 - [WTome](../authors/wtome.md) — 12
 - [Asteri](../authors/asteri.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
+- [Jason Zhu](../authors/jason-zhu.md) — 11
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
 - [梭哈.AI](../authors/梭哈-ai.md) — 11
@@ -32,7 +33,6 @@
 - [ForgeAI](../authors/forgeai.md) — 10
 - [Hammer0x419](../authors/hammer0x419.md) — 10
 - [HodlReaper](../authors/hodlreaper.md) — 10
-- [Jason Zhu](../authors/jason-zhu.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
 - [Alex](../authors/alex.md) — 9

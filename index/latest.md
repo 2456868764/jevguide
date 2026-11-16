@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T08:13:39.000Z | [Jev Workflow for Data Filtering and API Queries](https://x.com/GoSailGlobal/status/2122241674269340124) | 自动化工作流 | Jason Zhu | 115 |
 | 2026-11-16T07:07:12.000Z | [Using Jev-type model to drive MotionBricks for natural poses](https://x.com/smorce1/status/2122224954314039602) | 社区实践 | smorce@AITuber 紅璃ロゼ&デルタもん (not エンジニア) | 16 |
 | 2026-11-16T06:44:29.000Z | [Discussing Jev integration with AI workflows](https://x.com/anishwelde/status/2122219237062431057) | 社区实践 | Anish Welde | 18 |
 | 2026-11-16T06:37:06.000Z | [Integrating Jev into Second Brain & AI OS Workflows](https://x.com/anishwelde/status/2122217376670216368) | 社区实践 | Anish Welde | 2 |
@@ -101,4 +102,3 @@
 | 2026-11-12T21:12:18.000Z | [Hands-free Jevving on Apple Watch](https://x.com/johnhartquist/status/2120988079867695515) | 社区实践 | John Hartquist | 717 |
 | 2026-11-12T20:12:07.000Z | [Jev Gives You Back the Evenings Spent Picking a Vacation Rental](https://x.com/typesafeai/status/2120972933375869140) | 营销 | TypeSafe AI | 7.4K |
 | 2026-11-12T19:32:08.000Z | [Handy AI Decision Model Benchmarked Against TypeSafe Jev](https://x.com/jakehandy/status/2120962872175976716) | 社区实践 | Jake Handy | 14 |
-| 2026-11-12T17:16:16.000Z | [Upgrading a Personal Voice Assistant with Jev Fast Paths](https://x.com/allietheicon/status/2120928679404638424) | 智能体 | Allie the Icon | 739 |

@@ -1,11 +1,11 @@
 # Jev Showcases by Author
 
-- [BrainChain](../authors/brainchain.md) — 47
-- [8Bit🦞](../authors/8bit.md) — 33
+- [BrainChain](../authors/brainchain.md) — 48
+- [8Bit🦞](../authors/8bit.md) — 35
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
+- [HadoHunter](../authors/hadohunter.md) — 23
 - [Florian S](../authors/florian-s.md) — 22
-- [HadoHunter](../authors/hadohunter.md) — 22
 - [Julian Goldie SEO](../authors/julian-goldie-seo.md) — 20
 - [Mr. Buzzoni](../authors/mr-buzzoni.md) — 18
 - [0xMarioNawfal](../authors/0xmarionawfal.md) — 17
@@ -515,6 +515,7 @@
 - [Amit](../authors/amit.md) — 2
 - [Anand Prasad](../authors/anand-prasad.md) — 2
 - [Andres Vilariño 🇪🇦](../authors/andres-vilarino.md) — 2
+- [Andy Ingram 🌀](../authors/andy-ingram.md) — 2
 - [Anicet](../authors/anicet.md) — 2
 - [Anjula Dwivedi](../authors/anjula-dwivedi.md) — 2
 - [Anshu](../authors/anshu.md) — 2
@@ -643,6 +644,7 @@
 - [Farhad Uneci](../authors/farhad-uneci.md) — 2
 - [Featherless AI](../authors/featherless-ai.md) — 2
 - [FEDRO](../authors/fedro.md) — 2
+- [Flying Higher AI](../authors/flying-higher-ai.md) — 2
 - [FOFO](../authors/fofo.md) — 2
 - [Football Ant](../authors/football-ant.md) — 2
 - [Francesco Oddo | AI Arc](../authors/francesco-oddo-ai-arc.md) — 2
@@ -1423,7 +1425,6 @@
 - [Andrey Gubanov — Software Architect](../authors/andrey-gubanov-software-architect.md) — 1
 - [Andrey Popov](../authors/andrey-popov.md) — 1
 - [Andy Gao](../authors/andy-gao.md) — 1
-- [Andy Ingram 🌀](../authors/andy-ingram.md) — 1
 - [Angel Castro](../authors/angel-castro.md) — 1
 - [Angel Galvis Caballero](../authors/angel-galvis-caballero.md) — 1
 - [Angel.](../authors/angel.md) — 1
@@ -2043,6 +2044,7 @@
 - [Duncan](../authors/duncan.md) — 1
 - [Duncan Rogoff](../authors/duncan-rogoff.md) — 1
 - [Dunsin🎙️](../authors/dunsin.md) — 1
+- [dust](../authors/dust.md) — 1
 - [Duy /zuey/](../authors/duy-zuey.md) — 1
 - [duyet](../authors/duyet.md) — 1
 - [Dwid Lee](../authors/dwid-lee.md) — 1
@@ -2222,7 +2224,6 @@
 - [Florian Hönicke](../authors/florian-honicke.md) — 1
 - [Florin](../authors/florin.md) — 1
 - [Flowers ☾](../authors/flowers.md) — 1
-- [Flying Higher AI](../authors/flying-higher-ai.md) — 1
 - [Fly哥](../authors/fly哥.md) — 1
 - [FMZ Quant](../authors/fmz-quant.md) — 1
 - [FolyAI](../authors/folyai.md) — 1
@@ -2268,6 +2269,7 @@
 - [Gareth ⌥ Agentik {OS}](../authors/gareth-agentik-os.md) — 1
 - [Gatiti](../authors/gatiti.md) — 1
 - [gatorp](../authors/gatorp.md) — 1
+- [Gaurav Agarwal](../authors/gaurav-agarwal.md) — 1
 - [Gaurav Atavale](../authors/gaurav-atavale.md) — 1
 - [Gaurav Goyal](../authors/gaurav-goyal.md) — 1
 - [Gaurav Shrivastav](../authors/gaurav-shrivastav.md) — 1
@@ -2788,6 +2790,7 @@
 - [Kawa](../authors/kawa.md) — 1
 - [Kazuki_Adachi](../authors/kazuki-adachi.md) — 1
 - [kazzz_33 | AIで作り直す](../authors/kazzz-33-ai-作-直.md) — 1
+- [kbat](../authors/kbat.md) — 1
 - [kecan](../authors/kecan.md) — 1
 - [Kedr](../authors/kedr.md) — 1
 - [Kei Nakayama (kexi) 🐷](../authors/kei-nakayama-kexi.md) — 1
@@ -3303,6 +3306,7 @@
 - [Nathan Daehyun Nam](../authors/nathan-daehyun-nam.md) — 1
 - [Nathan Flurry 🔩](../authors/nathan-flurry.md) — 1
 - [Nathan Oyler](../authors/nathan-oyler.md) — 1
+- [Nature Towow.ai](../authors/nature-towow-ai.md) — 1
 - [Nav](../authors/nav.md) — 1
 - [Naveen Chandupatla](../authors/naveen-chandupatla.md) — 1
 - [Naveen Guru](../authors/naveen-guru.md) — 1
@@ -3339,6 +3343,7 @@
 - [Nick Horob](../authors/nick-horob.md) — 1
 - [Nick Senin](../authors/nick-senin.md) — 1
 - [nico](../authors/nico.md) — 1
+- [Nico Valemko](../authors/nico-valemko.md) — 1
 - [nicolas](../authors/nicolas.md) — 1
 - [Nicolas Krassas](../authors/nicolas-krassas.md) — 1
 - [Nícolas Villarreal H](../authors/nicolas-villarreal-h.md) — 1
@@ -3503,6 +3508,7 @@
 - [Paul Lemaistre](../authors/paul-lemaistre.md) — 1
 - [Paul Vengeons](../authors/paul-vengeons.md) — 1
 - [Paul-Marie](../authors/paul-marie.md) — 1
+- [pauline](../authors/pauline.md) — 1
 - [paulwei](../authors/paulwei.md) — 1
 - [Pavel ✨ keenthinker](../authors/pavel-keenthinker.md) — 1
 - [Pavel Hegler 🫆](../authors/pavel-hegler.md) — 1
@@ -4559,6 +4565,7 @@
 - [Zazzy Stardust](../authors/zazzy-stardust.md) — 1
 - [Zee](../authors/zee.md) — 1
 - [zeeman](../authors/zeeman.md) — 1
+- [Zeeshh | AI Decoded](../authors/zeeshh-ai-decoded.md) — 1
 - [Zening Chen](../authors/zening-chen.md) — 1
 - [Zenko | NeuralFrame Labs](../authors/zenko-neuralframe-labs.md) — 1
 - [Zeno Divergent](../authors/zeno-divergent.md) — 1
@@ -4816,6 +4823,7 @@
 - [ゆきんこ](../authors/jev-showcase.md) — 1
 - [ゆっくりーむ](../authors/jev-showcase.md) — 1
 - [ゆにねこ](../authors/jev-showcase.md) — 1
+- [ゆみこっち](../authors/jev-showcase.md) — 1
 - [ゆもかず♨️ SESを再定義するエンジニア部長](../authors/ses-再定義-部長.md) — 1
 - [ゆゆうたと友達になりたい](../authors/友達.md) — 1
 - [ゆるリーマン](../authors/jev-showcase.md) — 1

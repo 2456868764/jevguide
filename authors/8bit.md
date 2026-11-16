@@ -1,9 +1,11 @@
 # 8Bit🦞
 
-33 Jev showcases.
+35 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T23:15:17.000Z | [JEV decision layer goes live for Solana perps](https://x.com/0rdlibrary/status/2122106190268141885) | 金融 | 8Bit🦞 | 316 |
+| 2026-11-15T22:50:19.000Z | [Developer uses JEV for real-time decisions on Solana/PumpFun](https://x.com/0rdlibrary/status/2122099907737907632) | 金融 | 8Bit🦞 | 288 |
 | 2026-11-15T04:43:12.000Z | [PumpAI Decision Platform Powered by Jev](https://x.com/0rdlibrary/status/2121826325459828796) | 产品发布 | 8Bit🦞 | 320 |
 | 2026-11-14T13:58:43.000Z | [A crypto coin avoidance terminal integrating TypeSafe Jev](https://x.com/0rdlibrary/status/2121603737886335354) | 金融 | 8Bit🦞 | 389 |
 | 2026-11-10T00:48:56.000Z | [Decentralized Hedge Funds and the JEV Decision Engine](https://x.com/0rdlibrary/status/2119955431992840441) | 金融 | 8Bit🦞 | 271 |

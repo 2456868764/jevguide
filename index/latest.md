@@ -2,10 +2,24 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T02:20:56.000Z | [Decido vs Jev 1.14: Browser Agent Benchmark](https://x.com/Gauravpiscean/status/2122152910239023460) | 科研 | Gaurav Agarwal | 9 |
+| 2026-11-16T02:17:00.000Z | [EUR/USD AI short scenario: Jev review needed](https://x.com/hadohunter/status/2122151920915906965) | 金融 | HadoHunter | 25 |
+| 2026-11-16T01:35:35.000Z | [Jev Judgements Add Blog Series and OCR Support](https://x.com/andrewingram/status/2122141500100297145) | 产品发布 | Andy Ingram 🌀 | 84 |
+| 2026-11-16T01:17:22.000Z | [How JEV Speeds Up AI Automation Decisions](https://x.com/nicovalemko/status/2122136913356218511) | 自动化工作流 | Nico Valemko | 17 |
+| 2026-11-15T23:37:05.000Z | [Implementing AI mute on X with Jev](https://x.com/PCGLOVEv/status/2122111678120862131) | 社区实践 | ゆみこっち | 28 |
+| 2026-11-15T23:15:17.000Z | [JEV decision layer goes live for Solana perps](https://x.com/0rdlibrary/status/2122106190268141885) | 金融 | 8Bit🦞 | 316 |
+| 2026-11-15T22:53:33.000Z | [User praises TypeSafe AI Jev pricing](https://x.com/k6bat/status/2122100721256665405) | 社区实践 | kbat | 11 |
+| 2026-11-15T22:53:14.000Z | [Jev hired Claude for a task and minted a Proof of task](https://x.com/usebrainchain/status/2122100641787199939) | 智能体 | BrainChain | 73 |
+| 2026-11-15T22:50:19.000Z | [Developer uses JEV for real-time decisions on Solana/PumpFun](https://x.com/0rdlibrary/status/2122099907737907632) | 金融 | 8Bit🦞 | 288 |
+| 2026-11-15T22:47:16.000Z | [The viral emoji search with Jev](https://x.com/pauline_makes/status/2122099139072971027) | 社区实践 | pauline | 111 |
+| 2026-11-15T22:31:00.000Z | [Jev 1.13 decision model leads in agent usage](https://x.com/ZeeshhDecodes/status/2122095046103085354) | 智能体 | Zeeshh \| AI Decoded | 37 |
+| 2026-11-15T22:07:02.000Z | [Jev Demo for Coding Agents: One Inbox Without Thread Confusion](https://x.com/dustADD/status/2122089015407251746) | 智能体 | dust | 8 |
 | 2026-11-15T22:05:12.000Z | [Jev Used to Screen 340 Pump.fun Tokens](https://x.com/HodlReaper/status/2122088553924477166) | 金融 | HodlReaper | 88 |
 | 2026-11-15T21:18:01.000Z | [sem-jiff: Semantic & Structural Diff Library Launch](https://x.com/plannotator/status/2122076678155604016) | 开发者工具 | plannotator | 738 |
+| 2026-11-15T20:33:04.000Z | [Boolean Diagnosis Primitive Comparison: Google Decision 1 vs TypeSafe Jev](https://x.com/flyinghigherai/status/2122065370249036009) | 科研 | Flying Higher AI | 10 |
 | 2026-11-15T20:17:54.000Z | [AgriTech Decision Benchmark: Google vs. TypeSafe Jev](https://x.com/flyinghigherai/status/2122061551733493973) | 科研 | Flying Higher AI | 13 |
 | 2026-11-15T20:16:50.000Z | [TypeSafe Jev SDK Integrates with meraGPT Decider 1.1](https://x.com/latent_node/status/2122061282459451739) | 接入动态 | Latent Node | 22 |
+| 2026-11-15T18:30:51.000Z | [Jev judges group cooperation closeness: 12/12 hit by removing members](https://x.com/NatureBlueee/status/2122034610469044444) | 科研 | Nature Towow.ai | 10 |
 | 2026-11-15T17:53:08.000Z | [On-chain proof of Jev hiring Claude to complete a task](https://x.com/usebrainchain/status/2122025117723361454) | 智能体 | BrainChain | 16 |
 | 2026-11-15T17:47:12.000Z | [This Is What It Looks Like When You Give Jev the Latest AI Model Alex Hormozi's Entire Meta Ad Library](https://x.com/JonYekarAI/status/2122023626857975958) | 营销 | Jon Yekar | 1 |
 | 2026-11-15T17:00:17.000Z | [Enable Jev judgment for every new CVE in Kafka Streams](https://x.com/alginte_sw/status/2122011818310680619) | 网络安全 | alginte software | 3 |
@@ -88,17 +102,3 @@
 | 2026-11-12T15:44:14.000Z | [Jev community café: new use cases from the crowd](https://x.com/AlexSlobodnik/status/2120905516352246020) | 社区实践 | Slobo | 15 |
 | 2026-11-12T15:36:10.000Z | [Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment](https://x.com/VishwaMehta30/status/2120903486753964080) | 社区实践 | Vish | 45 |
 | 2026-11-12T15:25:52.000Z | [Jev Powers Lisa's Motion Copy and Expression Generation](https://x.com/whensdeyi/status/2120900896532095108) | 内容创作 | Dawna Yi | 54 |
-| 2026-11-12T15:21:38.000Z | [Jev Can Be Installed Locally](https://x.com/Saschliik/status/2120899829861593546) | 社区实践 | Saschlik | 1 |
-| 2026-11-12T15:20:05.000Z | [Google Introduces a Jev Competitor](https://x.com/aiedge_/status/2120899437732282781) | 产品发布 | AI Edge | 1.3K |
-| 2026-11-12T15:11:50.000Z | [Jev 1.14 is the fastest-growing model on LLM Gateway](https://x.com/LLMDevPass/status/2120897361845031231) | 接入动态 | DevPass | 32 |
-| 2026-11-12T15:02:18.000Z | [Filter e2e tests smartly with Jev](https://x.com/kacperkapusciak/status/2120894966268346405) | 开发者工具 | Kacper Kapuściak | 144 |
-| 2026-11-12T14:38:51.000Z | [Using GOAT to Call DS and Jev, Easier API Management](https://x.com/Shijun537/status/2120889062689305000) | 社区实践 | Shijun537 | 11 |
-| 2026-11-12T14:35:55.000Z | [JEV picks every move in ForgeAI-hosted agents](https://x.com/ForgeAI_gg/status/2120888324831269117) | 智能体 | ForgeAI | 33 |
-| 2026-11-12T14:35:08.000Z | [Google releases Gemini Decisions API, competing with Jev and OpenAI](https://x.com/xcanchal/status/2120888128894386666) | 产品发布 | Xavi | 14 |
-| 2026-11-12T14:30:01.000Z | [Google launches Gemini Decision 1, competing with TypeSafe's Jev](https://x.com/JamesMalsawm/status/2120886838860623936) | 产品发布 | James Malsawm | 238 |
-| 2026-11-12T14:30:00.000Z | [How Jev Decision Models Work](https://x.com/dgalarza/status/2120886834611757083) | 工作原理 | Damian Galarza | 20 |
-| 2026-11-12T14:30:00.000Z | [Jev drives safe decisions with a confidence threshold](https://x.com/TokyoFuturo/status/2120886835987804166) | 工作原理 | Tokyo Futuro | 17 |
-| 2026-11-12T14:30:00.000Z | [Jev's Decisions Are Publicly Recorded via MCP](https://x.com/TokyoFuturo/status/2120886837707424098) | 智能体 | Tokyo Futuro | 6 |
-| 2026-11-12T14:25:03.000Z | [Jev Output Verifier Pattern](https://x.com/nolansym/status/2120885588110741622) | 社区实践 | Jordan | 86 |
-| 2026-11-12T14:17:58.000Z | [Building Efficient Decision-Making into AI Workers](https://x.com/EduRigonato/status/2120883809344504289) | 智能体 | Edu Rigonato \| AI Workers | 12 |
-| 2026-11-12T14:13:31.000Z | [Testing Jev version on Doom: ignoring enemies and rushing to complete the game](https://x.com/buddypia/status/2120882686768386241) | 游戏 | Jun@AI | 34 |

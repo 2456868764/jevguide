@@ -1,9 +1,10 @@
 # HodlReaper
 
-9 Jev showcases.
+10 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T22:05:12.000Z | [Jev Used to Screen 340 Pump.fun Tokens](https://x.com/HodlReaper/status/2122088553924477166) | 金融 | HodlReaper | 88 |
 | 2026-11-15T14:39:48.000Z | [Jev Rating Filters GTA 6 Hype Coin Trades](https://x.com/HodlReaper/status/2121976464769683741) | 金融 | HodlReaper | 257 |
 | 2026-11-14T20:50:59.000Z | [Grok and Jev Team Up to Build a Pump.fun Trading Bot](https://x.com/HodlReaper/status/2121707489880396127) | 金融 | HodlReaper | 1.8K |
 | 2026-11-12T13:25:54.000Z | [Grokbot trading bot earns $11,912 in a month, Jev runs 7 pre-buy checks](https://x.com/HodlReaper/status/2120870705554174327) | 金融 | HodlReaper | 225 |

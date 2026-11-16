@@ -2,6 +2,10 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-15T22:05:12.000Z | [Jev Used to Screen 340 Pump.fun Tokens](https://x.com/HodlReaper/status/2122088553924477166) | 金融 | HodlReaper | 88 |
+| 2026-11-15T21:18:01.000Z | [sem-jiff: Semantic & Structural Diff Library Launch](https://x.com/plannotator/status/2122076678155604016) | 开发者工具 | plannotator | 738 |
+| 2026-11-15T20:17:54.000Z | [AgriTech Decision Benchmark: Google vs. TypeSafe Jev](https://x.com/flyinghigherai/status/2122061551733493973) | 科研 | Flying Higher AI | 13 |
+| 2026-11-15T20:16:50.000Z | [TypeSafe Jev SDK Integrates with meraGPT Decider 1.1](https://x.com/latent_node/status/2122061282459451739) | 接入动态 | Latent Node | 22 |
 | 2026-11-15T17:53:08.000Z | [On-chain proof of Jev hiring Claude to complete a task](https://x.com/usebrainchain/status/2122025117723361454) | 智能体 | BrainChain | 16 |
 | 2026-11-15T17:47:12.000Z | [This Is What It Looks Like When You Give Jev the Latest AI Model Alex Hormozi's Entire Meta Ad Library](https://x.com/JonYekarAI/status/2122023626857975958) | 营销 | Jon Yekar | 1 |
 | 2026-11-15T17:00:17.000Z | [Enable Jev judgment for every new CVE in Kafka Streams](https://x.com/alginte_sw/status/2122011818310680619) | 网络安全 | alginte software | 3 |
@@ -98,7 +102,3 @@
 | 2026-11-12T14:25:03.000Z | [Jev Output Verifier Pattern](https://x.com/nolansym/status/2120885588110741622) | 社区实践 | Jordan | 86 |
 | 2026-11-12T14:17:58.000Z | [Building Efficient Decision-Making into AI Workers](https://x.com/EduRigonato/status/2120883809344504289) | 智能体 | Edu Rigonato \| AI Workers | 12 |
 | 2026-11-12T14:13:31.000Z | [Testing Jev version on Doom: ignoring enemies and rushing to complete the game](https://x.com/buddypia/status/2120882686768386241) | 游戏 | Jun@AI | 34 |
-| 2026-11-12T14:01:01.000Z | [Paul to Explore Jev and System One Models at AICOBoston](https://x.com/realactivityusa/status/2120879540553601400) | 社区实践 | RealActivity - Mission Critical Healthcare Systems | 5 |
-| 2026-11-12T14:00:30.000Z | [Google Launches Gemini Decision API, Rivaling TypeSafe Jev](https://x.com/Linkszh6/status/2120879413591990323) | 产品发布 | Links | 14 |
-| 2026-11-12T13:58:48.000Z | [Can Jev Decide the Model Size?](https://x.com/odelljeremy/status/2120878985919988154) | 智能体 | Jeremy Odell | 1 |
-| 2026-11-12T13:56:25.000Z | [Jev classifies support tickets: 500 emails in 5.5 seconds](https://x.com/heyLuminvera/status/2120878384448442767) | 客户支持 | Luminvera \| Custom Software Development \| Forge | 5 |

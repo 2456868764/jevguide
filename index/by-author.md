@@ -31,13 +31,13 @@
 - [Dhanian 🗯️](../authors/dhanian.md) — 10
 - [ForgeAI](../authors/forgeai.md) — 10
 - [Hammer0x419](../authors/hammer0x419.md) — 10
+- [HodlReaper](../authors/hodlreaper.md) — 10
 - [Jason Zhu](../authors/jason-zhu.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
 - [Alex](../authors/alex.md) — 9
 - [David Bressler](../authors/david-bressler.md) — 9
 - [Gipp 🦅](../authors/gipp.md) — 9
-- [HodlReaper](../authors/hodlreaper.md) — 9
 - [Kurt](../authors/kurt.md) — 9
 - [The Incident Challenge](../authors/the-incident-challenge.md) — 9
 - [Wizard Glacier](../authors/wizard-glacier.md) — 9
@@ -2222,6 +2222,7 @@
 - [Florian Hönicke](../authors/florian-honicke.md) — 1
 - [Florin](../authors/florin.md) — 1
 - [Flowers ☾](../authors/flowers.md) — 1
+- [Flying Higher AI](../authors/flying-higher-ai.md) — 1
 - [Fly哥](../authors/fly哥.md) — 1
 - [FMZ Quant](../authors/fmz-quant.md) — 1
 - [FolyAI](../authors/folyai.md) — 1
@@ -2900,6 +2901,7 @@
 - [Larry Fuqua](../authors/larry-fuqua.md) — 1
 - [Larry Gadea](../authors/larry-gadea.md) — 1
 - [larrymask](../authors/larrymask.md) — 1
+- [Latent Node](../authors/latent-node.md) — 1
 - [Laurent](../authors/laurent.md) — 1
 - [Laurent Sigg](../authors/laurent-sigg.md) — 1
 - [Laurent Zuijdwijk](../authors/laurent-zuijdwijk.md) — 1
@@ -3554,6 +3556,7 @@
 - [pivot tables](../authors/pivot-tables.md) — 1
 - [Piyush Choudhari ⋰⋰](../authors/piyush-choudhari.md) — 1
 - [Piyush Mali 🧞](../authors/piyush-mali.md) — 1
+- [plannotator](../authors/plannotator.md) — 1
 - [Plena](../authors/plena.md) — 1
 - [plusminushalf.eth 🐾](../authors/plusminushalf-eth.md) — 1
 - [PolloAI Creators](../authors/polloai-creators.md) — 1

@@ -1,9 +1,10 @@
 # HodlReaper
 
-10 Jev showcases.
+11 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T17:01:51.000Z | [Jev bot hits 8x while user sleeps: Solana trading case](https://x.com/HodlReaper/status/2122374602919702772) | 金融 | HodlReaper | 170 |
 | 2026-11-15T22:05:12.000Z | [Jev Used to Screen 340 Pump.fun Tokens](https://x.com/HodlReaper/status/2122088553924477166) | 金融 | HodlReaper | 88 |
 | 2026-11-15T14:39:48.000Z | [Jev Rating Filters GTA 6 Hype Coin Trades](https://x.com/HodlReaper/status/2121976464769683741) | 金融 | HodlReaper | 257 |
 | 2026-11-14T20:50:59.000Z | [Grok and Jev Team Up to Build a Pump.fun Trading Bot](https://x.com/HodlReaper/status/2121707489880396127) | 金融 | HodlReaper | 1.8K |

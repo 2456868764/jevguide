@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T17:20:36.000Z | [Gave a board game to decision models](https://x.com/nibzard/status/2122379321608118744) | 智能体 | Niko(la) | 11 |
+| 2026-11-16T17:02:27.000Z | [TypeSafe AI Jev decision layer is live on Solana](https://x.com/0rdlibrary/status/2122374750743953466) | 金融 | 8Bit🦞 | 322 |
+| 2026-11-16T17:01:51.000Z | [Jev bot hits 8x while user sleeps: Solana trading case](https://x.com/HodlReaper/status/2122374602919702772) | 金融 | HodlReaper | 170 |
 | 2026-11-16T13:43:00.000Z | [Beacon Open-Sourced: A Practical JEV Example](https://x.com/ruyi3699/status/2122324558912864267) | 接入动态 | 如意｜Ruyi | 39 |
 | 2026-11-16T13:28:52.000Z | [Jev-Inspired Model Tops Decision Index Leaderboard](https://x.com/alexnqchen/status/2122321001644237303) | 社区实践 | Alex Chen | 8 |
 | 2026-11-16T13:27:21.000Z | [JEV Model Spots Tiny Differences in Images](https://x.com/taupirho/status/2122320621002510829) | 工作原理 | Thomas Reid | 2 |
@@ -99,6 +102,3 @@
 | 2026-11-13T00:30:00.000Z | [Jev: Why Ask for Text When You Need a Choice?](https://x.com/0xpiyushvm/status/2121037831413875050) | 工作原理 | Piyush Mali 🧞 | 12 |
 | 2026-11-13T00:18:51.000Z | [User shares their creation built with Jev](https://x.com/NathanOyler/status/2121035024602669448) | 社区实践 | Nathan Oyler | 22 |
 | 2026-11-12T23:29:44.000Z | [Domain-specific agents with Jev and LLM](https://x.com/jpschroeder/status/2121022664987029840) | 智能体 | Justin Schroeder | 650 |
-| 2026-11-12T23:08:44.000Z | [Edward Tian Announces AI Vision 2.0 with Jev Model-Powered Personalized Tags](https://x.com/edward_the6/status/2121017378888634559) | 产品发布 | Edward Tian | 3.9K |
-| 2026-11-12T22:29:09.000Z | [Jev with Web Context Experience](https://x.com/jmbellod92/status/2121007419614703968) | 社区实践 | Juan Manuel Bello | 90 |
-| 2026-11-12T22:26:09.000Z | [Jev Beats Pokémon Red](https://x.com/rsasaki0109/status/2121006661494358392) | 游戏 | Ryohei Sasaki@engineer | 409 |

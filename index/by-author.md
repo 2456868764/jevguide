@@ -1,7 +1,7 @@
 # Jev Showcases by Author
 
 - [BrainChain](../authors/brainchain.md) — 48
-- [8Bit🦞](../authors/8bit.md) — 35
+- [8Bit🦞](../authors/8bit.md) — 36
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
 - [HadoHunter](../authors/hadohunter.md) — 24
@@ -22,6 +22,7 @@
 - [WTome](../authors/wtome.md) — 12
 - [Asteri](../authors/asteri.md) — 11
 - [George リバネスCIO/リバネスナレッジ代表](../authors/george-cio-代表.md) — 11
+- [HodlReaper](../authors/hodlreaper.md) — 11
 - [Jason Zhu](../authors/jason-zhu.md) — 11
 - [Jon Kraayenbrink](../authors/jon-kraayenbrink.md) — 11
 - [Yurii Oksamytnyi](../authors/yurii-oksamytnyi.md) — 11
@@ -32,7 +33,6 @@
 - [Dhanian 🗯️](../authors/dhanian.md) — 10
 - [ForgeAI](../authors/forgeai.md) — 10
 - [Hammer0x419](../authors/hammer0x419.md) — 10
-- [HodlReaper](../authors/hodlreaper.md) — 10
 - [kiosa](../authors/kiosa.md) — 10
 - [Suzuki](../authors/suzuki.md) — 10
 - [Alex](../authors/alex.md) — 9
@@ -212,6 +212,7 @@
 - [Mohit](../authors/mohit.md) — 4
 - [Mojofull](../authors/mojofull.md) — 4
 - [Neha Sharma](../authors/neha-sharma.md) — 4
+- [Niko(la)](../authors/niko-la.md) — 4
 - [nutanc](../authors/nutanc.md) — 4
 - [Phil Greene](../authors/phil-greene.md) — 4
 - [Polytutor](../authors/polytutor.md) — 4
@@ -377,7 +378,6 @@
 - [NeilXbt](../authors/neilxbt.md) — 3
 - [Nidhi Singh](../authors/nidhi-singh.md) — 3
 - [Nikhil](../authors/nikhil.md) — 3
-- [Niko(la)](../authors/niko-la.md) — 3
 - [Noisy](../authors/noisy.md) — 3
 - [Numan](../authors/numan.md) — 3
 - [o_devvy](../authors/o-devvy.md) — 3

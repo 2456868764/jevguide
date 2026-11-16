@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 427 | 222 | 208 | 1.2M |
+| 429 | 224 | 208 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2122374750743953466"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374707378892802/img/zrqUmysrj4LPy5yg.jpg" alt="TypeSafe AI Jev decision layer is live on Solana · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2122374750743953466">TypeSafe AI Jev decision layer is live on Solana</a></h3>
+<p>A user announced that a Jev-based decision layer from @typesafeai is now live across Solana, covering Pump.fun and perps trading.</p>
+<p><strong>中文摘要：</strong>用户宣布基于 @typesafeai Jev 的决策层现已在 Solana 全链上线，覆盖 Pump.fun 和永续合约交易。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-16T17:02:27.000Z</p>
+<p>💬 3 &nbsp; 🔁 6 &nbsp; ♡ 10 &nbsp; 📊 322</p>
+<p><a href="https://x.com/0rdlibrary/status/2122374750743953466">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/HodlReaper/status/2122374602919702772"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374278712627200/img/k7jnoyRJCr86L1Ne.jpg" alt="Jev bot hits 8x while user sleeps: Solana trading case · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/HodlReaper/status/2122374602919702772">Jev bot hits 8x while user sleeps: Solana trading case</a></h3>
+<p>A user sent 25 SOL to the Jev bot, which automatically blocked 2 rugs overnight and reached the 8x target after about 8 hours, ending with roughly 200.58 SOL.</p>
+<p><strong>中文摘要：</strong>用户向 Jev bot 发送 25 SOL，bot 在夜间自动拦截 2 个 rug 项目，并在约 8 小时后达到 8 倍目标，最终余额约 200.58 SOL。</p>
+<p><strong>HodlReaper</strong> · @HodlReaper · 2026-11-16T17:01:51.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 170</p>
+<p><a href="https://x.com/HodlReaper/status/2122374602919702772">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>

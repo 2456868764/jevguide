@@ -2,6 +2,8 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T13:28:52.000Z | [Jev-Inspired Model Tops Decision Index Leaderboard](https://x.com/alexnqchen/status/2122321001644237303) | 社区实践 | Alex Chen | 8 |
+| 2026-11-16T13:27:21.000Z | [JEV Model Spots Tiny Differences in Images](https://x.com/taupirho/status/2122320621002510829) | 工作原理 | Thomas Reid | 2 |
 | 2026-11-16T12:08:07.000Z | [Breakfast & Learn: Typed Decisions with Jev](https://x.com/AutomatitDevOps/status/2122300681063133624) | 社区实践 | Automat-it | 3 |
 | 2026-11-16T11:41:00.000Z | [Awesome Jev List: 640 Open Source Projects Collected](https://x.com/ruyi3699/status/2122293856448176529) | 开发资源 | 如意｜Ruyi | 13 |
 | 2026-11-16T11:40:36.000Z | [Jev model used in autonomous tram driving experiment](https://x.com/dumbuffalo/status/2122293757248995825) | 社区实践 | DrQuicheEater | 20 |
@@ -100,5 +102,3 @@
 | 2026-11-12T22:29:09.000Z | [Jev with Web Context Experience](https://x.com/jmbellod92/status/2121007419614703968) | 社区实践 | Juan Manuel Bello | 90 |
 | 2026-11-12T22:26:09.000Z | [Jev Beats Pokémon Red](https://x.com/rsasaki0109/status/2121006661494358392) | 游戏 | Ryohei Sasaki@engineer | 409 |
 | 2026-11-12T22:17:03.000Z | [Voice-Only Input Prototype Using Jev for Decisions](https://x.com/tyschultz7/status/2121004373304057937) | 游戏 | Tyler Schultz | 36 |
-| 2026-11-12T22:00:02.000Z | [Automate Email Routing with Jev: Compare with OpenAI Decisions API](https://x.com/codex_aca/status/2121000088655069367) | 自动化工作流 | 【公式】Codexアカデミア | 147 |
-| 2026-11-12T21:44:28.000Z | [Google Launches Gemini Decisions API, Comparing to Jev System 1 LLMs](https://x.com/tymofii/status/2120996170906354040) | 产品发布 | Tymofii Antonenko | 34 |

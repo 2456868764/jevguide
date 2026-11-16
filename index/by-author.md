@@ -1340,6 +1340,7 @@
 - [Alex Boniske](../authors/alex-boniske.md) — 1
 - [Alex Builds](../authors/alex-builds.md) — 1
 - [Alex C.](../authors/alex-c.md) — 1
+- [Alex Chen](../authors/alex-chen.md) — 1
 - [Alex Franch Tapia](../authors/alex-franch-tapia.md) — 1
 - [Alex G](../authors/alex-g.md) — 1
 - [Alex Hancock](../authors/alex-hancock.md) — 1
@@ -4219,6 +4220,7 @@
 - [Thomas Christensen](../authors/thomas-christensen.md) — 1
 - [Thomas des Francs](../authors/thomas-des-francs.md) — 1
 - [Thomas Kanze 🌴](../authors/thomas-kanze.md) — 1
+- [Thomas Reid](../authors/thomas-reid.md) — 1
 - [Thomas Rossi 👤🦹‍♂️👨‍💻](../authors/thomas-rossi.md) — 1
 - [ThreeRouter1](../authors/threerouter1.md) — 1
 - [Thrifty | Open to Work | Software Engineer](../authors/thrifty-open-to-work-software-engineer.md) — 1

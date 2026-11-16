@@ -2,6 +2,7 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-16T04:00:09.000Z | [Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored](https://x.com/amarHarolikar/status/2122177879178137662) | 知识与搜索 | Amar Harolikar | 24 |
 | 2026-11-16T02:20:56.000Z | [Decido vs Jev 1.14: Browser Agent Benchmark](https://x.com/Gauravpiscean/status/2122152910239023460) | 科研 | Gaurav Agarwal | 9 |
 | 2026-11-16T02:17:00.000Z | [EUR/USD AI short scenario: Jev review needed](https://x.com/hadohunter/status/2122151920915906965) | 金融 | HadoHunter | 25 |
 | 2026-11-16T01:35:35.000Z | [Jev Judgements Add Blog Series and OCR Support](https://x.com/andrewingram/status/2122141500100297145) | 产品发布 | Andy Ingram 🌀 | 84 |
@@ -101,4 +102,3 @@
 | 2026-11-12T16:00:39.000Z | [Jev vs. Google Decision Model: A User Comparison](https://x.com/NikolajSen4141/status/2120909648496578562) | 社区实践 | Nick Senin | 7 |
 | 2026-11-12T15:44:14.000Z | [Jev community café: new use cases from the crowd](https://x.com/AlexSlobodnik/status/2120905516352246020) | 社区实践 | Slobo | 15 |
 | 2026-11-12T15:36:10.000Z | [Jev in Action: Voice-Based Photo Editing with Word-by-Word Judgment](https://x.com/VishwaMehta30/status/2120903486753964080) | 社区实践 | Vish | 45 |
-| 2026-11-12T15:25:52.000Z | [Jev Powers Lisa's Motion Copy and Expression Generation](https://x.com/whensdeyi/status/2120900896532095108) | 内容创作 | Dawna Yi | 54 |

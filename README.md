@@ -10,7 +10,7 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7510</strong><br>curated posts</td>
+<td align="center"><strong>7511</strong><br>curated posts</td>
 <td align="center"><strong>3673</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
@@ -100,7 +100,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>149</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>150</strong> showcases · <strong>73</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/amarHarolikar/status/2122177879178137662"><img src="https://pbs.twimg.com/media/HXN9iIbasAAE68o?format=jpg&amp;name=medium" alt="Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amarHarolikar/status/2122177879178137662">Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored</a></h3>
+<p>Jev Rank lets you describe your interest in plain words and scores news headlines for you. Analysts can pull news from one angle, while tool builders or integrators can tune a news panel for a screen. It shows the standard score and your personal score side by side.</p>
+<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>Amar Harolikar</strong> · @amarHarolikar</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
 <a href="https://x.com/Gauravpiscean/status/2122152910239023460"><img src="https://pbs.twimg.com/amplify_video_thumb/2122152839183302656/img/Tjh8VwZj-I_rwQFR.jpg" alt="Decido vs Jev 1.14: Browser Agent Benchmark · 原帖视频截图" width="100%"></a>
 <h3><a href="https://x.com/Gauravpiscean/status/2122152910239023460">Decido vs Jev 1.14: Browser Agent Benchmark</a></h3>
 <p>Comparing the same browser-use agent with different decision models: offline Mind2Web benchmark scores 78.6% for Decido vs 59.9% for Jev 1.14; live tasks are a near tie (74% vs 75%). Includes a video of a NYC→London flight search demo.</p>
 <p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
 <p><strong>Gaurav Agarwal</strong> · @Gauravpiscean</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
 <a href="https://x.com/hadohunter/status/2122151920915906965"><img src="https://pbs.twimg.com/media/HXNl7SEasAABCiS?format=png&amp;name=medium" alt="EUR/USD AI short scenario: Jev review needed · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/hadohunter/status/2122151920915906965">EUR/USD AI short scenario: Jev review needed</a></h3>
 <p>HadoHunter shares an AI short scenario for EUR/USD: entry 1.10231, target 1.09519, stop 1.10585, reward/risk 2.01. Downtrend with a bullish-leaning pattern, low volume and a narrow score gap. Jev flags review needed with 24% assessment certainty.</p>
 <p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
 <p><strong>HadoHunter</strong> · @hadohunter</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<p><strong>04</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
 <a href="https://x.com/andrewingram/status/2122141500100297145"><img src="https://pbs.twimg.com/media/HXNbRl9XIAA9tA-?format=jpg&amp;name=medium" alt="Jev Judgements Add Blog Series and OCR Support · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/andrewingram/status/2122141500100297145">Jev Judgements Add Blog Series and OCR Support</a></h3>
 <p>Updated Jev-powered judgements with support for blog post series, OCR-based book excerpts, and refined appearance.</p>
 <p><strong>84</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
 <p><strong>Andy Ingram 🌀</strong> · @andrewingram</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
-<a href="https://x.com/nicovalemko/status/2122136913356218511"><img src="https://pbs.twimg.com/media/HXNYRj-W8AAFbKz?format=jpg&amp;name=900x900" alt="How JEV Speeds Up AI Automation Decisions · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nicovalemko/status/2122136913356218511">How JEV Speeds Up AI Automation Decisions</a></h3>
-<p>The post points out that much AI automation is just waiting for an LLM to make quick decisions, and decision-making models like JEV will fit in to speed up workflows and reduce costs.</p>
-<p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
-<p><strong>Nico Valemko</strong> · @nicovalemko</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>科研</code> <code>原帖视频</code></p>
-<a href="https://x.com/Gauravpiscean/status/2122152910239023460"><img src="https://pbs.twimg.com/amplify_video_thumb/2122152839183302656/img/Tjh8VwZj-I_rwQFR.jpg" alt="Decido vs Jev 1.14: Browser Agent Benchmark · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/Gauravpiscean/status/2122152910239023460">Decido vs Jev 1.14: Browser Agent Benchmark</a></h3>
-<p>Comparing the same browser-use agent with different decision models: offline Mind2Web benchmark scores 78.6% for Decido vs 59.9% for Jev 1.14; live tasks are a near tie (74% vs 75%). Includes a video of a NYC→London flight search demo.</p>
-<p><strong>9</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 9</p>
-<p><strong>Gaurav Agarwal</strong> · @Gauravpiscean</p>
+<p><strong>01</strong> &nbsp; <code>知识与搜索</code> <code>原帖图片</code></p>
+<a href="https://x.com/amarHarolikar/status/2122177879178137662"><img src="https://pbs.twimg.com/media/HXN9iIbasAAE68o?format=jpg&amp;name=medium" alt="Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/amarHarolikar/status/2122177879178137662">Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored</a></h3>
+<p>Jev Rank lets you describe your interest in plain words and scores news headlines for you. Analysts can pull news from one angle, while tool builders or integrators can tune a news panel for a screen. It shows the standard score and your personal score side by side.</p>
+<p><strong>24</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
+<p><strong>Amar Harolikar</strong> · @amarHarolikar</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖图片</code></p>
+<a href="https://x.com/andrewingram/status/2122141500100297145"><img src="https://pbs.twimg.com/media/HXNbRl9XIAA9tA-?format=jpg&amp;name=medium" alt="Jev Judgements Add Blog Series and OCR Support · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/andrewingram/status/2122141500100297145">Jev Judgements Add Blog Series and OCR Support</a></h3>
+<p>Updated Jev-powered judgements with support for blog post series, OCR-based book excerpts, and refined appearance.</p>
+<p><strong>84</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 84</p>
+<p><strong>Andy Ingram 🌀</strong> · @andrewingram</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>自动化工作流</code> <code>原帖图片</code></p>
 <a href="https://x.com/nicovalemko/status/2122136913356218511"><img src="https://pbs.twimg.com/media/HXNYRj-W8AAFbKz?format=jpg&amp;name=900x900" alt="How JEV Speeds Up AI Automation Decisions · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/nicovalemko/status/2122136913356218511">How JEV Speeds Up AI Automation Decisions</a></h3>
 <p>The post points out that much AI automation is just waiting for an LLM to make quick decisions, and decision-making models like JEV will fit in to speed up workflows and reduce costs.</p>
 <p><strong>17</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 17</p>
 <p><strong>Nico Valemko</strong> · @nicovalemko</p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/PCGLOVEv/status/2122111678120862131"><img src="https://pbs.twimg.com/media/HXNAwTSbkAAHf00?format=png&amp;name=900x900" alt="Implementing AI mute on X with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/PCGLOVEv/status/2122111678120862131">Implementing AI mute on X with Jev</a></h3>
-<p>A user shares how they used Jev to build a custom AI mute on X, with keyword-based judgment and differentiated handling for spouse/children/pregnancy content.</p>
-<p><strong>28</strong> views · 💬 1 &nbsp; 🔁 1 &nbsp; ♡ 1 &nbsp; 📊 28</p>
-<p><strong>ゆみこっち</strong> · @PCGLOVEv</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/ZeeshhDecodes/status/2122095046103085354"><img src="https://pbs.twimg.com/media/HXLb_UFaYAAsghJ?format=jpg&amp;name=medium" alt="Jev 1.13 decision model leads in agent usage · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ZeeshhDecodes/status/2122095046103085354">Jev 1.13 decision model leads in agent usage</a></h3>
-<p>The author argues most agent steps are decisions, not writing, citing OpenRouter data where Jev 1.13 handled 636M requests vs GPT 6 Luna&#39;s 311M in one week, and calls sending simple yes/no calls to frontier models a waste.</p>
-<p><strong>37</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 37</p>
-<p><strong>Zeeshh | AI Decoded</strong> · @ZeeshhDecodes</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/pauline_makes/status/2122099139072971027"><img src="https://pbs.twimg.com/media/HXM165wbIAAO0Jz?format=jpg&amp;name=medium" alt="The viral emoji search with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/pauline_makes/status/2122099139072971027">The viral emoji search with Jev</a></h3>
+<p>The post showcases a widely shared emoji search with Jev, mentioning @heystefan_.</p>
+<p><strong>111</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 111</p>
+<p><strong>pauline</strong> · @pauline_makes</p>
 </td>
 </tr>
 </table>

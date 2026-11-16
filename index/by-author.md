@@ -257,6 +257,7 @@
 - [Alex Volkov](../authors/alex-volkov.md) — 3
 - [Ali](../authors/ali.md) — 3
 - [Alok](../authors/alok.md) — 3
+- [Amar Harolikar](../authors/amar-harolikar.md) — 3
 - [Anatoli Kopadze](../authors/anatoli-kopadze.md) — 3
 - [Andy](../authors/andy.md) — 3
 - [Angework公式アカウント](../authors/angework公式.md) — 3
@@ -511,7 +512,6 @@
 - [Alexander Whedon](../authors/alexander-whedon.md) — 2
 - [alpha404](../authors/alpha404.md) — 2
 - [alphaXiv](../authors/alphaxiv.md) — 2
-- [Amar Harolikar](../authors/amar-harolikar.md) — 2
 - [Amit](../authors/amit.md) — 2
 - [Anand Prasad](../authors/anand-prasad.md) — 2
 - [Andres Vilariño 🇪🇦](../authors/andres-vilarino.md) — 2

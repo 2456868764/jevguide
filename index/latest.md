@@ -2,6 +2,9 @@
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-17T01:30:46.000Z | [Using the OpenAI Decisions API to Find Jev Integration Points](https://x.com/8thpark/status/2122502675287966110) | 社区实践 | Charlie | 25 |
+| 2026-11-17T01:12:58.000Z | [JEV Adds Visual Capabilities Using VLX-Seek Model](https://x.com/wquguru/status/2122498197012783452) | 产品发布 | WquGuru | 974 |
+| 2026-11-17T01:11:46.000Z | [Developer Builds Solana Earn Platform with Jev](https://x.com/0rdlibrary/status/2122497892287967722) | 接入动态 | 8Bit🦞 | 190 |
 | 2026-11-16T17:20:36.000Z | [Gave a board game to decision models](https://x.com/nibzard/status/2122379321608118744) | 智能体 | Niko(la) | 11 |
 | 2026-11-16T17:02:27.000Z | [TypeSafe AI Jev decision layer is live on Solana](https://x.com/0rdlibrary/status/2122374750743953466) | 金融 | 8Bit🦞 | 322 |
 | 2026-11-16T17:01:51.000Z | [Jev bot hits 8x while user sleeps: Solana trading case](https://x.com/HodlReaper/status/2122374602919702772) | 金融 | HodlReaper | 170 |
@@ -99,6 +102,3 @@
 | 2026-11-13T01:33:11.000Z | [Using Jev for newsletter search reranking](https://x.com/GergelyOrosz/status/2121053731114643785) | 知识与搜索 | Gergely Orosz | 631 |
 | 2026-11-13T00:55:22.000Z | [Ragic AI Agent Automatically Adopts Jev After Testing](https://x.com/Ragic/status/2121044212858884494) | 接入动态 | Ragic | 7 |
 | 2026-11-13T00:53:14.000Z | [Ragic AI Agent Automatically Switches to Jev for Classification](https://x.com/Ragic/status/2121043677233766705) | 接入动态 | Ragic | 10 |
-| 2026-11-13T00:30:00.000Z | [Jev: Why Ask for Text When You Need a Choice?](https://x.com/0xpiyushvm/status/2121037831413875050) | 工作原理 | Piyush Mali 🧞 | 12 |
-| 2026-11-13T00:18:51.000Z | [User shares their creation built with Jev](https://x.com/NathanOyler/status/2121035024602669448) | 社区实践 | Nathan Oyler | 22 |
-| 2026-11-12T23:29:44.000Z | [Domain-specific agents with Jev and LLM](https://x.com/jpschroeder/status/2121022664987029840) | 智能体 | Justin Schroeder | 650 |

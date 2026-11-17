@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7529</strong><br>curated posts</td>
-<td align="center"><strong>3680</strong><br>original videos</td>
+<td align="center"><strong>7532</strong><br>curated posts</td>
+<td align="center"><strong>3681</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1495</strong> showcases · <strong>621</strong> videos</p>
+<p><strong>1496</strong> showcases · <strong>621</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>670</strong> showcases · <strong>296</strong> videos</p>
+<p><strong>671</strong> showcases · <strong>297</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/access-updates.md">Access updates</a></h3>
 <p><sub>接入动态</sub></p>
-<p><strong>471</strong> showcases · <strong>195</strong> videos</p>
+<p><strong>472</strong> showcases · <strong>195</strong> videos</p>
 <p><a href="categories/access-updates.md">Open category →</a></p>
 </td>
 </tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/8thpark/status/2122502675287966110"><img src="https://pbs.twimg.com/media/HXSkHP-a4AAoceJ?format=png&amp;name=medium" alt="Using the OpenAI Decisions API to Find Jev Integration Points · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/8thpark/status/2122502675287966110">Using the OpenAI Decisions API to Find Jev Integration Points</a></h3>
+<p>The author shares the prompt they used with the OpenAI Decisions API to find suitable places in an existing codebase to use System One models (Jev).</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>Charlie</strong> · @8thpark</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/wquguru/status/2122498197012783452"><img src="https://pbs.twimg.com/amplify_video_thumb/2122497854535315456/img/M6qh5onI4fYaM1x5.jpg" alt="JEV Adds Visual Capabilities Using VLX-Seek Model · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/wquguru/status/2122498197012783452">JEV Adds Visual Capabilities Using VLX-Seek Model</a></h3>
+<p>Explains how JEV gained visual capabilities via the open-source visual grounding model VLX-Seek: give it an image and describe the target in natural language, and it will locate the objects, even counting eggs in a fridge.</p>
+<p><strong>974</strong> views · 💬 18 &nbsp; 🔁 13 &nbsp; ♡ 15 &nbsp; 📊 974</p>
+<p><strong>WquGuru</strong> · @wquguru</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2122497892287967722"><img src="https://pbs.twimg.com/media/HXSgkO-XEAAVp9n?format=jpg&amp;name=medium" alt="Developer Builds Solana Earn Platform with Jev · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2122497892287967722">Developer Builds Solana Earn Platform with Jev</a></h3>
+<p>A developer shares that they are using TypeSafe&#39;s Jev model to build a Solana train-to-earn platform where users connect wallets, submit data, and get paid.</p>
+<p><strong>190</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 190</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/nibzard/status/2122379321608118744"><img src="https://pbs.twimg.com/media/HXQ0g8CXkAEkfv8?format=jpg&amp;name=medium" alt="Gave a board game to decision models · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/nibzard/status/2122379321608118744">Gave a board game to decision models</a></h3>
 <p>Niko(la) says that since no one wants to play board games, they gave the game to decision models including Jev, Luna, Decider, and Clef.</p>
 <p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><strong>Niko(la)</strong> · @nibzard</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0rdlibrary/status/2122374750743953466"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374707378892802/img/zrqUmysrj4LPy5yg.jpg" alt="TypeSafe AI Jev decision layer is live on Solana · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2122374750743953466">TypeSafe AI Jev decision layer is live on Solana</a></h3>
-<p>A user announced that a Jev-based decision layer from @typesafeai is now live across Solana, covering Pump.fun and perps trading.</p>
-<p><strong>322</strong> views · 💬 3 &nbsp; 🔁 6 &nbsp; ♡ 10 &nbsp; 📊 322</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/HodlReaper/status/2122374602919702772"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374278712627200/img/k7jnoyRJCr86L1Ne.jpg" alt="Jev bot hits 8x while user sleeps: Solana trading case · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/HodlReaper/status/2122374602919702772">Jev bot hits 8x while user sleeps: Solana trading case</a></h3>
-<p>A user sent 25 SOL to the Jev bot, which automatically blocked 2 rugs overnight and reached the 8x target after about 8 hours, ending with roughly 200.58 SOL.</p>
-<p><strong>170</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 170</p>
-<p><strong>HodlReaper</strong> · @HodlReaper</p>
-</td>
-<td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/ruyi3699/status/2122324558912864267"><img src="https://pbs.twimg.com/media/HXIwGlyacAAENb4?format=png&amp;name=small" alt="Beacon Open-Sourced: A Practical JEV Example · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ruyi3699/status/2122324558912864267">Beacon Open-Sourced: A Practical JEV Example</a></h3>
-<p>The author says JEV is getting buzz and points to Beacon as an example of practical use; asymptotelabs has open-sourced Beacon, a self-evolving agent memory layer.</p>
-<p><strong>39</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
-<p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
+<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/8thpark/status/2122502675287966110"><img src="https://pbs.twimg.com/media/HXSkHP-a4AAoceJ?format=png&amp;name=medium" alt="Using the OpenAI Decisions API to Find Jev Integration Points · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/8thpark/status/2122502675287966110">Using the OpenAI Decisions API to Find Jev Integration Points</a></h3>
+<p>The author shares the prompt they used with the OpenAI Decisions API to find suitable places in an existing codebase to use System One models (Jev).</p>
+<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
+<p><strong>Charlie</strong> · @8thpark</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
 <a href="https://x.com/nibzard/status/2122379321608118744"><img src="https://pbs.twimg.com/media/HXQ0g8CXkAEkfv8?format=jpg&amp;name=medium" alt="Gave a board game to decision models · 原帖图片" width="100%"></a>
 <h3><a href="https://x.com/nibzard/status/2122379321608118744">Gave a board game to decision models</a></h3>
 <p>Niko(la) says that since no one wants to play board games, they gave the game to decision models including Jev, Luna, Decider, and Clef.</p>
 <p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
 <p><strong>Niko(la)</strong> · @nibzard</p>
 </td>
-<td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/ruyi3699/status/2122324558912864267"><img src="https://pbs.twimg.com/media/HXIwGlyacAAENb4?format=png&amp;name=small" alt="Beacon Open-Sourced: A Practical JEV Example · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ruyi3699/status/2122324558912864267">Beacon Open-Sourced: A Practical JEV Example</a></h3>
-<p>The author says JEV is getting buzz and points to Beacon as an example of practical use; asymptotelabs has open-sourced Beacon, a self-evolving agent memory layer.</p>
-<p><strong>39</strong> views · 💬 3 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 39</p>
-<p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>社区实践</code> <code>原帖视频</code></p>
-<a href="https://x.com/alexnqchen/status/2122321001644237303"><img src="https://pbs.twimg.com/amplify_video_thumb/2122315414076268544/img/pELju2PmuYyGR930.jpg" alt="Jev-Inspired Model Tops Decision Index Leaderboard · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/alexnqchen/status/2122321001644237303">Jev-Inspired Model Tops Decision Index Leaderboard</a></h3>
-<p>Alex Chen congratulates the team on taking #1 on the Decision Index leaderboard, thanking TypeSafe AI for Jev as the inspiration behind the model, noting that decision models have improved many features in Karpo.</p>
-<p><strong>8</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 8</p>
-<p><strong>Alex Chen</strong> · @alexnqchen</p>
+<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/0rdlibrary/status/2122374750743953466"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374707378892802/img/zrqUmysrj4LPy5yg.jpg" alt="TypeSafe AI Jev decision layer is live on Solana · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2122374750743953466">TypeSafe AI Jev decision layer is live on Solana</a></h3>
+<p>A user announced that a Jev-based decision layer from @typesafeai is now live across Solana, covering Pump.fun and perps trading.</p>
+<p><strong>322</strong> views · 💬 3 &nbsp; 🔁 6 &nbsp; ♡ 10 &nbsp; 📊 322</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>金融</code> <code>原帖图片</code></p>
-<a href="https://x.com/hadohunter/status/2122277595907817557"><img src="https://pbs.twimg.com/media/HXPYOi2acAAdvRS?format=jpg&amp;name=medium" alt="Jev reviews USD/JPY AI long scenario · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/hadohunter/status/2122277595907817557">Jev reviews USD/JPY AI long scenario</a></h3>
-<p>HadoHunter posts a USD/JPY AI long signal: entry 159.626, target 160.066, stop 159.553, reward/risk 6.03. Jev recommends review with 38% certainty.</p>
-<p><strong>24</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 24</p>
-<p><strong>HadoHunter</strong> · @hadohunter</p>
+<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
+<a href="https://x.com/ruyi3699/status/2122293856448176529"><img src="https://pbs.twimg.com/media/HXIvm7YaUAAM2Nh?format=png&amp;name=small" alt="Awesome Jev List: 640 Open Source Projects Collected · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ruyi3699/status/2122293856448176529">Awesome Jev List: 640 Open Source Projects Collected</a></h3>
+<p>The Awesome Jev list on GitHub includes 640 open-source projects built with Jev, covering 11 categories and 27 languages, with 110 added on September 22 alone.</p>
+<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
+<p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
 </td>
 </tr>
 </table>

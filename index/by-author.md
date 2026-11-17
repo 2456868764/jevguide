@@ -1,7 +1,7 @@
 # Jev Showcases by Author
 
 - [BrainChain](../authors/brainchain.md) — 48
-- [8Bit🦞](../authors/8bit.md) — 36
+- [8Bit🦞](../authors/8bit.md) — 37
 - [SuSu_酥酥👅](../authors/susu-酥酥.md) — 32
 - [CyrilXBT](../authors/cyrilxbt.md) — 26
 - [HadoHunter](../authors/hadohunter.md) — 24
@@ -72,6 +72,7 @@
 - [Natural Language Processing Papers](../authors/natural-language-processing-papers.md) — 7
 - [OmniRail](../authors/omnirail.md) — 7
 - [Rishabh singh](../authors/rishabh-singh.md) — 7
+- [WquGuru](../authors/wquguru.md) — 7
 - [泉水亮介 │ 大学でVibe Codingを教えてます。](../authors/泉水亮介-大学-vibe-coding-教.md) — 7
 - [akhila](../authors/akhila.md) — 6
 - [Aman](../authors/aman.md) — 6
@@ -96,7 +97,6 @@
 - [Somi](../authors/somi.md) — 6
 - [Sound Inspire](../authors/sound-inspire.md) — 6
 - [venus](../authors/venus.md) — 6
-- [WquGuru](../authors/wquguru.md) — 6
 - [たいよっぷ | Harness Engineer](../authors/harness-engineer.md) — 6
 - [萩野貴拓](../authors/萩野貴拓.md) — 6
 - [AI Will](../authors/ai-will.md) — 5
@@ -569,6 +569,7 @@
 - [Celeris](../authors/celeris.md) — 2
 - [cetusian](../authors/cetusian.md) — 2
 - [Charles Macnish](../authors/charles-macnish.md) — 2
+- [Charlie](../authors/charlie.md) — 2
 - [Charlie Hills](../authors/charlie-hills.md) — 2
 - [Cheryl A](../authors/cheryl-a.md) — 2
 - [Chetan Ankola](../authors/chetan-ankola.md) — 2
@@ -1743,7 +1744,6 @@
 - [Charles Maddock](../authors/charles-maddock.md) — 1
 - [Charles Magno](../authors/charles-magno.md) — 1
 - [Charles Shen](../authors/charles-shen.md) — 1
-- [Charlie](../authors/charlie.md) — 1
 - [Charlie (Chen Li)](../authors/charlie-chen-li.md) — 1
 - [Charlie Duong](../authors/charlie-duong.md) — 1
 - [CharlieMoney 🌊⛽](../authors/charliemoney.md) — 1

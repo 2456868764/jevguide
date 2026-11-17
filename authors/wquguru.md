@@ -1,9 +1,10 @@
 # WquGuru
 
-6 Jev showcases.
+7 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-17T01:12:58.000Z | [JEV Adds Visual Capabilities Using VLX-Seek Model](https://x.com/wquguru/status/2122498197012783452) | 产品发布 | WquGuru | 974 |
 | 2026-09-30 | [OpenAI Decisions API Sparks Discussion, Jev Compared](https://x.com/wquguru/status/2105123302973030776) | 智能体 | WquGuru | 271 |
 | 2026-09-24 | [Laya Goes Viral: A 33ms Jev Alternative](https://x.com/wquguru/status/2103044332790194242) | 社区实践 | WquGuru | 427 |
 | 2026-09-23 | [Jev open-source alternatives benchmark: Laya 50x faster than official](https://x.com/wquguru/status/2102781165619032087) | 社区实践 | WquGuru | 75 |

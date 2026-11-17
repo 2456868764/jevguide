@@ -4,11 +4,83 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 429 | 224 | 208 | 1.2M |
+| 435 | 227 | 211 | 1.2M |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925"><img src="https://pbs.twimg.com/amplify_video_thumb/2122516829990170624/img/BXh1VqOJXVwDgwRo.jpg" alt="Kairos backtest claims to outperform Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925">Kairos backtest claims to outperform Jev</a></h3>
+<p>dmind_ai introduces Kairos, a fast System 1 AI model for event trading and prediction markets. Their backtest shows a $10K strategy with 24h holds returning +245.2%, outperforming Jev&#39;s +147%.</p>
+<p><strong>中文摘要：</strong>dmind_ai 发布 Kairos，一款用于事件交易和预测市场的 System 1 AI 模型。团队回测显示，$10K 策略在 24 小时持有下回报 +245.2%，优于 Jev 的 +147%。</p>
+<p><strong>HL HUB (Community)</strong> · @Hyperliquid_Hub · 2026-11-17T02:41:37.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 176</p>
+<p><a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925">在 X 查看原帖</a> · <a href="https://help.x.com/rules-and-policies/authenticity">原文链接</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/minara/status/2122518444805648872"><img src="https://pbs.twimg.com/amplify_video_thumb/2122518176844193792/img/Z85r2jC8C4sEhnwc.jpg" alt="Jev Trading Model Performance Comparison · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/minara/status/2122518444805648872">Jev Trading Model Performance Comparison</a></h3>
+<p>The post shows Jev achieved a Sharpe ratio of 1.66 and max drawdown of -4.2% in trading, outperforming OpenAI Decisions among others.</p>
+<p><strong>中文摘要：</strong>帖子展示了 Jev 在交易中的 Sharpe 比率为 1.66，最大回撤 -4.2%，优于 OpenAI Decisions 等对比模型。</p>
+<p><strong>Minara AI</strong> · @minara · 2026-11-17T02:33:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 15</p>
+<p><a href="https://x.com/minara/status/2122518444805648872">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/dmind_ai/status/2122517394472214905"><img src="https://pbs.twimg.com/amplify_video_thumb/2122516953575370752/img/DL40DWqVwkfrOTxY.jpg" alt="Jev Model Posts 147% Return in 24H in Financial News Trading Test · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/dmind_ai/status/2122517394472214905">Jev Model Posts 147% Return in 24H in Financial News Trading Test</a></h3>
+<p>In a model comparison using the same news and rules, Jev returned 147% on $10,000 held for 24h after costs, between Kairos&#39; 245.2% and MS-Decision-1&#39;s 55.4%; per-trade gain was about 1/4 of Kairos on 13% as many trades.</p>
+<p><strong>中文摘要：</strong>在同一新闻和规则下的模型对比中，Jev在扣除成本后，以1万美元本金持有24小时收益147%，介于Kairos（245.2%）和MS-Decision-1（55.4%）之间；每笔交易收益约为Kairos的1/4，交易次数为Kairos的13%。</p>
+<p><strong>DMind AI</strong> · @dmind_ai · 2026-11-17T02:29:15.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 21</p>
+<p><a href="https://x.com/dmind_ai/status/2122517394472214905">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2122464185808470095"><img src="https://pbs.twimg.com/media/HXSB7QQWYAAvBwD?format=jpg&amp;name=medium" alt="A Clawd Clef Decision Engine: A Finance-Built Jev · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2122464185808470095">A Clawd Clef Decision Engine: A Finance-Built Jev</a></h3>
+<p>The author showcases their own version of TypeSafe Jev, built on Cloudflare Clef, tailored for finance.</p>
+<p><strong>中文摘要：</strong>作者展示了自己基于 Cloudflare Clef 构建的 TypeSafe Jev 变体，面向金融场景。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-16T22:57:50.000Z</p>
+<p>💬 0 &nbsp; 🔁 4 &nbsp; ♡ 4 &nbsp; 📊 285</p>
+<p><a href="https://x.com/0rdlibrary/status/2122464185808470095">在 X 查看原帖</a> · <a href="https://t.co/fO6EIyVIU1">原文链接</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/0rdlibrary/status/2122418375653814656"><img src="https://pbs.twimg.com/media/HXRYJ0TXQAAKRp1?format=jpg&amp;name=medium" alt="Running JEV decision engines 24/7 on crypto trading platforms · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/0rdlibrary/status/2122418375653814656">Running JEV decision engines 24/7 on crypto trading platforms</a></h3>
+<p>8Bit says they feel like one of the few people paying attention to JEV and decision engines, and claims to have given several of them 10,000 USDC to run 24/7 on PhoenixTrade, HyperliquidX and ImperialPerps, starting with pumpfun and fomo.</p>
+<p><strong>中文摘要：</strong>8Bit发帖称自己是为数不多关注JEV和决策引擎的人之一，并称已向多个JEV引擎投入10000 USDC，让它们在PhoenixTrade、HyperliquidX、ImperialPerps等平台全天候运行，最初从pumpfun和fomo开始。</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary · 2026-11-16T19:55:48.000Z</p>
+<p>💬 2 &nbsp; 🔁 4 &nbsp; ♡ 8 &nbsp; 📊 322</p>
+<p><a href="https://x.com/0rdlibrary/status/2122418375653814656">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/hadohunter/status/2122403220643516516"><img src="https://pbs.twimg.com/media/HXRKe4paEAA136T?format=jpg&amp;name=medium" alt="AUD/USD trade analysis references Jev assessment · 原帖图片" width="100%"></a>
+<br>
+<sub><code>金融</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/hadohunter/status/2122403220643516516">AUD/USD trade analysis references Jev assessment</a></h3>
+<p>HadoHunter shares an AUD/USD long setup, citing Jev model assessment: unsupported (42% certainty).</p>
+<p><strong>中文摘要：</strong>HadoHunter发布AUD/USD做多计划，并引用Jev模型评估：不支持该交易（确定性42%）。</p>
+<p><strong>HadoHunter</strong> · @hadohunter · 2026-11-16T18:55:34.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 48</p>
+<p><a href="https://x.com/hadohunter/status/2122403220643516516">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/0rdlibrary/status/2122374750743953466"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374707378892802/img/zrqUmysrj4LPy5yg.jpg" alt="TypeSafe AI Jev decision layer is live on Solana · 原帖视频截图" width="100%"></a>

@@ -4,12 +4,23 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 671 | 297 | 377 | 1.1M |
+| 673 | 298 | 378 | 1.1M |
 
 ## Showcase 卡片
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://x.com/minara/status/2122518447133516070"><img src="https://pbs.twimg.com/amplify_video_thumb/2122518234629111808/img/epDjxmuhbhrWpM8-.jpg" alt="Jev 1.14 Benchmarks: News Reading Is the Edge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/minara/status/2122518447133516070">Jev 1.14 Benchmarks: News Reading Is the Edge</a></h3>
+<p>Minara AI reports Jev 1.14 achieves 86.1% mean accuracy across six public benchmarks, ahead of Kairos (85.6%) and MS-Decision-1 (84.5%), and notes news-reading ability is the key differentiator.</p>
+<p><strong>中文摘要：</strong>Minara AI 发布 Jev 1.14 在六个公共基准上的平均准确率 86.1%，高于 Kairos 的 85.6% 和 MS-Decision-1 的 84.5%，并指出新闻阅读能力是拉开差距的关键。</p>
+<p><strong>Minara AI</strong> · @minara · 2026-11-17T02:33:26.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><a href="https://x.com/minara/status/2122518447133516070">在 X 查看原帖</a></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://x.com/wquguru/status/2122498197012783452"><img src="https://pbs.twimg.com/amplify_video_thumb/2122497854535315456/img/M6qh5onI4fYaM1x5.jpg" alt="JEV Adds Visual Capabilities Using VLX-Seek Model · 原帖视频截图" width="100%"></a>
 <br>
@@ -20,6 +31,19 @@
 <p><strong>WquGuru</strong> · @wquguru · 2026-11-17T01:12:58.000Z</p>
 <p>💬 18 &nbsp; 🔁 13 &nbsp; ♡ 15 &nbsp; 📊 974</p>
 <p><a href="https://x.com/wquguru/status/2122498197012783452">在 X 查看原帖</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/cjamesmay/status/2122478548250161293"><img src="https://pbs.twimg.com/media/HXSO_VLWwAA9DGF?format=jpg&amp;name=medium" alt="TypeSafe claims Jev is roughly Sonnet-level intelligence · 原帖图片" width="100%"></a>
+<br>
+<sub><code>产品发布</code> <code>原帖图片</code></sub>
+<h3><a href="https://x.com/cjamesmay/status/2122478548250161293">TypeSafe claims Jev is roughly Sonnet-level intelligence</a></h3>
+<p>Christian May notes that TypeSafe only claims Jev to be roughly Sonnet-level intelligence, linking to the blog introducing System One models and Jev.</p>
+<p><strong>中文摘要：</strong>Christian May提到TypeSafe只声称Jev大致达到Sonnet级别的智能，并附上System One模型与Jev的发布博客链接。</p>
+<p><strong>Christian May</strong> · @cjamesmay · 2026-11-16T23:54:54.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 42</p>
+<p><a href="https://x.com/cjamesmay/status/2122478548250161293">在 X 查看原帖</a> · <a href="https://t.co/IC7zd7jibT">原文链接</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://x.com/cutetoxicguy/status/2122200491765485996"><img src="https://pbs.twimg.com/amplify_video_thumb/2122192689839894528/img/jhom29K8yaLIOEOp.jpg" alt="JEV-35B: A Probabilistic Decision Model for Agent Steps · 原帖视频截图" width="100%"></a>

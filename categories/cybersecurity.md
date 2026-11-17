@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 99 | 32 | 67 | 82K |
+| 101 | 34 | 67 | 82K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/gareth_w/status/2122444780538146867"><img src="https://pbs.twimg.com/amplify_video_thumb/2122376143336861696/img/t6fl6c6XxVWM9PA3.jpg" alt="Using Jev to Classify Chats for Fraud Detection · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/gareth_w/status/2122444780538146867">Using Jev to Classify Chats for Fraud Detection</a></h3>
+<p>This post suggests allowing only your own models by default and introduces an idea: using the low-cost Jev decision model to classify chats, quickly determining whether a conversation is fraudulent or genuine work to reduce risk and cost.</p>
+<p><strong>中文摘要：</strong>该帖建议默认只允许自己提供的模型，并介绍了一种思路：使用便宜的Jev决策模型对聊天内容进行分类，快速判断会话是欺诈还是真实工作，以降低风险与成本。</p>
+<p><strong>Gareth Wham</strong> · @gareth_w · 2026-11-16T21:40:43.000Z</p>
+<p>💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 51</p>
+<p><a href="https://x.com/gareth_w/status/2122444780538146867">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DanielPetroAI/status/2122437944728580270"><img src="https://pbs.twimg.com/amplify_video_thumb/2122434006583001088/img/50FwXFGYzFTb_QLZ.jpg" alt="Jevathon Project: A CVE Watchdog Built with Jev · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>网络安全</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/DanielPetroAI/status/2122437944728580270">Jevathon Project: A CVE Watchdog Built with Jev</a></h3>
+<p>Daniel Petro shares his experience at Jevathon, building a CVE watchdog with Jev-based tools, and thanks his teammate and HeyAgents for their support.</p>
+<p><strong>中文摘要：</strong>Daniel Petro 分享其在 Jevathon 黑客马拉松中使用 Jev 相关技术构建 CVE 监控器的经历，并感谢队友和 HeyAgents 等工具的帮助。</p>
+<p><strong>Daniel Petro</strong> · @DanielPetroAI · 2026-11-16T21:13:33.000Z</p>
+<p>💬 1 &nbsp; 🔁 1 &nbsp; ♡ 5 &nbsp; 📊 222</p>
+<p><a href="https://x.com/DanielPetroAI/status/2122437944728580270">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/alginte_sw/status/2122011818310680619"><img src="https://pbs.twimg.com/amplify_video_thumb/2122011367964110849/img/ZEyJv1NZkH6rsHg6.jpg" alt="Enable Jev judgment for every new CVE in Kafka Streams · 原帖视频截图" width="100%"></a>

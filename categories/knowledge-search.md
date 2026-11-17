@@ -4,11 +4,35 @@
 
 | 已收录 | 原帖视频 | 含图片 | 最高浏览 |
 |---:|---:|---:|---:|
-| 150 | 73 | 78 | 235K |
+| 152 | 75 | 78 | 235K |
 
 ## Showcase 卡片
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/minara/status/2122519083979825618"><img src="https://pbs.twimg.com/amplify_video_thumb/2122518985182978048/img/xbiOrBA3wgwgCOVP.jpg" alt="Jev 1.14 Benchmark: News Reading Is the Edge · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/minara/status/2122519083979825618">Jev 1.14 Benchmark: News Reading Is the Edge</a></h3>
+<p>Minara AI&#39;s evaluation shows Jev 1.14 reaches 86.1% average accuracy across six public benchmarks, ahead of Kairos at 85.6% and MS-Decision-1 at 84.5%. The post suggests general skill is not the edge; reading the news is.</p>
+<p><strong>中文摘要：</strong>Minara AI 发布的评测显示，Jev 1.14 在六项公共基准上的平均准确率为 86.1%，高于 Kairos 的 85.6% 和 MS-Decision-1 的 84.5%。帖子认为通用能力差距不大，真正的优势在于新闻阅读与决策。</p>
+<p><strong>Minara AI</strong> · @minara · 2026-11-17T02:35:58.000Z</p>
+<p>💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 110</p>
+<p><a href="https://x.com/minara/status/2122519083979825618">在 X 查看原帖</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/bearlyai/status/2122419967845126562"><img src="https://pbs.twimg.com/amplify_video_thumb/2122419945854394368/img/E_8nYSqp45S5j1BU.jpg" alt="TypeSafe AI CEO on AI&#39;s jagged intelligence · 原帖视频截图" width="100%"></a>
+<br>
+<sub><code>知识与搜索</code> <code>原帖视频</code></sub>
+<h3><a href="https://x.com/bearlyai/status/2122419967845126562">TypeSafe AI CEO on AI&#39;s jagged intelligence</a></h3>
+<p>Bearly AI shares TypeSafe AI (Jev) CEO Diogo Almeida&#39;s view: AI is Einstein 95% of the time and Mr. Bean 5% of the time, making white-collar automation hard to justify in expected value.</p>
+<p><strong>中文摘要：</strong>Bearly AI分享TypeSafe AI（Jev）CEO Diogo Almeida的观点：AI在95%的时候像爱因斯坦，5%的时候像憨豆先生，导致白领任务自动化在期望值上难以成立。</p>
+<p><strong>Bearly AI</strong> · @bearlyai · 2026-11-16T20:02:07.000Z</p>
+<p>💬 2 &nbsp; 🔁 3 &nbsp; ♡ 17 &nbsp; 📊 11K</p>
+<p><a href="https://x.com/bearlyai/status/2122419967845126562">在 X 查看原帖</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://x.com/amarHarolikar/status/2122177879178137662"><img src="https://pbs.twimg.com/media/HXN9iIbasAAE68o?format=jpg&amp;name=medium" alt="Jev Rank: Describe Your Interest in Plain Words and Get News Headlines Scored · 原帖图片" width="100%"></a>

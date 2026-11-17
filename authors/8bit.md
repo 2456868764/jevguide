@@ -1,10 +1,14 @@
 # 8Bit🦞
 
-37 Jev showcases.
+41 Jev showcases.
 
 | Date | Showcase | Category | Author | Views |
 |---|---|---|---|---|
+| 2026-11-17T02:41:36.000Z | [Submit Solana training data, earn $CLAWD rewards](https://x.com/0rdlibrary/status/2122520499968242017) | 社区实践 | 8Bit🦞 | 244 |
 | 2026-11-17T01:11:46.000Z | [Developer Builds Solana Earn Platform with Jev](https://x.com/0rdlibrary/status/2122497892287967722) | 接入动态 | 8Bit🦞 | 190 |
+| 2026-11-16T22:57:50.000Z | [A Clawd Clef Decision Engine: A Finance-Built Jev](https://x.com/0rdlibrary/status/2122464185808470095) | 金融 | 8Bit🦞 | 285 |
+| 2026-11-16T21:19:54.000Z | [Imagining Jev with a Jarvis Agent](https://x.com/0rdlibrary/status/2122439542359965779) | 智能体 | 8Bit🦞 | 370 |
+| 2026-11-16T19:55:48.000Z | [Running JEV decision engines 24/7 on crypto trading platforms](https://x.com/0rdlibrary/status/2122418375653814656) | 金融 | 8Bit🦞 | 322 |
 | 2026-11-16T17:02:27.000Z | [TypeSafe AI Jev decision layer is live on Solana](https://x.com/0rdlibrary/status/2122374750743953466) | 金融 | 8Bit🦞 | 322 |
 | 2026-11-15T23:15:17.000Z | [JEV decision layer goes live for Solana perps](https://x.com/0rdlibrary/status/2122106190268141885) | 金融 | 8Bit🦞 | 316 |
 | 2026-11-15T22:50:19.000Z | [Developer uses JEV for real-time decisions on Solana/PumpFun](https://x.com/0rdlibrary/status/2122099907737907632) | 金融 | 8Bit🦞 | 288 |

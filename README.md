@@ -10,8 +10,8 @@ Explore TypeSafe Jev in one place, from launch posts to real demos. Find use cas
 
 <table>
 <tr>
-<td align="center"><strong>7532</strong><br>curated posts</td>
-<td align="center"><strong>3681</strong><br>original videos</td>
+<td align="center"><strong>7564</strong><br>curated posts</td>
+<td align="center"><strong>3693</strong><br>original videos</td>
 <td align="center"><strong>25</strong><br>categories</td>
 <td align="center"><strong>0.72</strong><br>minimum confidence</td>
 </tr>
@@ -28,7 +28,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/community-builds.md">Community builds</a></h3>
 <p><sub>社区实践</sub></p>
-<p><strong>1496</strong> showcases · <strong>621</strong> videos</p>
+<p><strong>1509</strong> showcases · <strong>623</strong> videos</p>
 <p><a href="categories/community-builds.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/launch-news.md">Launch news</a></h3>
 <p><sub>产品发布</sub></p>
-<p><strong>671</strong> showcases · <strong>297</strong> videos</p>
+<p><strong>673</strong> showcases · <strong>298</strong> videos</p>
 <p><a href="categories/launch-news.md">Open category →</a></p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/agents.md">Agents</a></h3>
 <p><sub>智能体</sub></p>
-<p><strong>641</strong> showcases · <strong>335</strong> videos</p>
+<p><strong>644</strong> showcases · <strong>335</strong> videos</p>
 <p><a href="categories/agents.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -66,16 +66,16 @@ From finance and gaming to security review. Every listed post is checked against
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
-<p><sub>开发资源</sub></p>
-<p><strong>431</strong> showcases · <strong>164</strong> videos</p>
-<p><a href="categories/developer-resources.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
 <h3><a href="categories/finance.md">Finance</a></h3>
 <p><sub>金融</sub></p>
-<p><strong>429</strong> showcases · <strong>224</strong> videos</p>
+<p><strong>435</strong> showcases · <strong>227</strong> videos</p>
 <p><a href="categories/finance.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="categories/developer-resources.md">Developer resources</a></h3>
+<p><sub>开发资源</sub></p>
+<p><strong>432</strong> showcases · <strong>165</strong> videos</p>
+<p><a href="categories/developer-resources.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/gaming.md">Gaming</a></h3>
@@ -94,13 +94,13 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/marketing.md">Marketing</a></h3>
 <p><sub>营销</sub></p>
-<p><strong>206</strong> showcases · <strong>156</strong> videos</p>
+<p><strong>207</strong> showcases · <strong>157</strong> videos</p>
 <p><a href="categories/marketing.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="categories/knowledge-search.md">Knowledge &amp; search</a></h3>
 <p><sub>知识与搜索</sub></p>
-<p><strong>150</strong> showcases · <strong>73</strong> videos</p>
+<p><strong>152</strong> showcases · <strong>75</strong> videos</p>
 <p><a href="categories/knowledge-search.md">Open category →</a></p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/data-analytics.md">Data analytics</a></h3>
 <p><sub>数据分析</sub></p>
-<p><strong>130</strong> showcases · <strong>66</strong> videos</p>
+<p><strong>131</strong> showcases · <strong>66</strong> videos</p>
 <p><a href="categories/data-analytics.md">Open category →</a></p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ From finance and gaming to security review. Every listed post is checked against
 <td width="33%" valign="top">
 <h3><a href="categories/cybersecurity.md">Cybersecurity</a></h3>
 <p><sub>网络安全</sub></p>
-<p><strong>99</strong> showcases · <strong>32</strong> videos</p>
+<p><strong>101</strong> showcases · <strong>34</strong> videos</p>
 <p><a href="categories/cybersecurity.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
@@ -152,16 +152,16 @@ From finance and gaming to security review. Every listed post is checked against
 <p><a href="categories/software-development.md">Open category →</a></p>
 </td>
 <td width="33%" valign="top">
+<h3><a href="categories/productivity.md">Productivity</a></h3>
+<p><sub>生产力</sub></p>
+<p><strong>53</strong> showcases · <strong>33</strong> videos</p>
+<p><a href="categories/productivity.md">Open category →</a></p>
+</td>
+<td width="33%" valign="top">
 <h3><a href="categories/business-operations.md">Business operations</a></h3>
 <p><sub>企业运营</sub></p>
 <p><strong>52</strong> showcases · <strong>22</strong> videos</p>
 <p><a href="categories/business-operations.md">Open category →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="categories/productivity.md">Productivity</a></h3>
-<p><sub>生产力</sub></p>
-<p><strong>52</strong> showcases · <strong>33</strong> videos</p>
-<p><a href="categories/productivity.md">Open category →</a></p>
 </td>
 </tr>
 <tr>
@@ -205,38 +205,38 @@ Recently added Jev posts, ordered by source publish date.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/8thpark/status/2122502675287966110"><img src="https://pbs.twimg.com/media/HXSkHP-a4AAoceJ?format=png&amp;name=medium" alt="Using the OpenAI Decisions API to Find Jev Integration Points · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/8thpark/status/2122502675287966110">Using the OpenAI Decisions API to Find Jev Integration Points</a></h3>
-<p>The author shares the prompt they used with the OpenAI Decisions API to find suitable places in an existing codebase to use System One models (Jev).</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>Charlie</strong> · @8thpark</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925"><img src="https://pbs.twimg.com/amplify_video_thumb/2122516829990170624/img/BXh1VqOJXVwDgwRo.jpg" alt="Kairos backtest claims to outperform Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925">Kairos backtest claims to outperform Jev</a></h3>
+<p>dmind_ai introduces Kairos, a fast System 1 AI model for event trading and prediction markets. Their backtest shows a $10K strategy with 24h holds returning +245.2%, outperforming Jev&#39;s +147%.</p>
+<p><strong>176</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 176</p>
+<p><strong>HL HUB (Community)</strong> · @Hyperliquid_Hub</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
-<a href="https://x.com/wquguru/status/2122498197012783452"><img src="https://pbs.twimg.com/amplify_video_thumb/2122497854535315456/img/M6qh5onI4fYaM1x5.jpg" alt="JEV Adds Visual Capabilities Using VLX-Seek Model · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/wquguru/status/2122498197012783452">JEV Adds Visual Capabilities Using VLX-Seek Model</a></h3>
-<p>Explains how JEV gained visual capabilities via the open-source visual grounding model VLX-Seek: give it an image and describe the target in natural language, and it will locate the objects, even counting eggs in a fridge.</p>
-<p><strong>974</strong> views · 💬 18 &nbsp; 🔁 13 &nbsp; ♡ 15 &nbsp; 📊 974</p>
-<p><strong>WquGuru</strong> · @wquguru</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/0rdlibrary/status/2122520499968242017"><img src="https://pbs.twimg.com/media/HXS1JOAWoAART4L?format=jpg&amp;name=medium" alt="Submit Solana training data, earn $CLAWD rewards · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/0rdlibrary/status/2122520499968242017">Submit Solana training data, earn $CLAWD rewards</a></h3>
+<p>Connect Solana wallet, submit Solana training data, the Jev engine decides, participants can earn $CLAWD rewards.</p>
+<p><strong>244</strong> views · 💬 1 &nbsp; 🔁 4 &nbsp; ♡ 4 &nbsp; 📊 244</p>
+<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>接入动态</code> <code>原帖图片</code></p>
-<a href="https://x.com/0rdlibrary/status/2122497892287967722"><img src="https://pbs.twimg.com/media/HXSgkO-XEAAVp9n?format=jpg&amp;name=medium" alt="Developer Builds Solana Earn Platform with Jev · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2122497892287967722">Developer Builds Solana Earn Platform with Jev</a></h3>
-<p>A developer shares that they are using TypeSafe&#39;s Jev model to build a Solana train-to-earn platform where users connect wallets, submit data, and get paid.</p>
-<p><strong>190</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 190</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>03</strong> &nbsp; <code>知识与搜索</code> <code>原帖视频</code></p>
+<a href="https://x.com/minara/status/2122519083979825618"><img src="https://pbs.twimg.com/amplify_video_thumb/2122518985182978048/img/xbiOrBA3wgwgCOVP.jpg" alt="Jev 1.14 Benchmark: News Reading Is the Edge · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/minara/status/2122519083979825618">Jev 1.14 Benchmark: News Reading Is the Edge</a></h3>
+<p>Minara AI&#39;s evaluation shows Jev 1.14 reaches 86.1% average accuracy across six public benchmarks, ahead of Kairos at 85.6% and MS-Decision-1 at 84.5%. The post suggests general skill is not the edge; reading the news is.</p>
+<p><strong>110</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 110</p>
+<p><strong>Minara AI</strong> · @minara</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/nibzard/status/2122379321608118744"><img src="https://pbs.twimg.com/media/HXQ0g8CXkAEkfv8?format=jpg&amp;name=medium" alt="Gave a board game to decision models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nibzard/status/2122379321608118744">Gave a board game to decision models</a></h3>
-<p>Niko(la) says that since no one wants to play board games, they gave the game to decision models including Jev, Luna, Decider, and Clef.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Niko(la)</strong> · @nibzard</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AGTPinsights/status/2122519008566034596"><img src="https://pbs.twimg.com/media/HXSzhsSWwAAPnMB?format=jpg&amp;name=medium" alt="One Month After Launch: Developers Question Whether Jev Is Really Used · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AGTPinsights/status/2122519008566034596">One Month After Launch: Developers Question Whether Jev Is Really Used</a></h3>
+<p>Developers are debating whether Jev, TypeSafe AI&#39;s decision model, is actually being used after its launch hype. Jason Cohen asked if anyone really uses Jev.</p>
+<p><strong>99</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 99</p>
+<p><strong>AGTP</strong> · @AGTPinsights</p>
 </td>
 </tr>
 </table>
@@ -295,38 +295,38 @@ Start with verified Jev posts.
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>01</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
-<a href="https://x.com/8thpark/status/2122502675287966110"><img src="https://pbs.twimg.com/media/HXSkHP-a4AAoceJ?format=png&amp;name=medium" alt="Using the OpenAI Decisions API to Find Jev Integration Points · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/8thpark/status/2122502675287966110">Using the OpenAI Decisions API to Find Jev Integration Points</a></h3>
-<p>The author shares the prompt they used with the OpenAI Decisions API to find suitable places in an existing codebase to use System One models (Jev).</p>
-<p><strong>25</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 25</p>
-<p><strong>Charlie</strong> · @8thpark</p>
+<p><strong>01</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
+<a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925"><img src="https://pbs.twimg.com/amplify_video_thumb/2122516829990170624/img/BXh1VqOJXVwDgwRo.jpg" alt="Kairos backtest claims to outperform Jev · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/Hyperliquid_Hub/status/2122520504330526925">Kairos backtest claims to outperform Jev</a></h3>
+<p>dmind_ai introduces Kairos, a fast System 1 AI model for event trading and prediction markets. Their backtest shows a $10K strategy with 24h holds returning +245.2%, outperforming Jev&#39;s +147%.</p>
+<p><strong>176</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 1 &nbsp; 📊 176</p>
+<p><strong>HL HUB (Community)</strong> · @Hyperliquid_Hub</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>02</strong> &nbsp; <code>智能体</code> <code>原帖图片</code></p>
-<a href="https://x.com/nibzard/status/2122379321608118744"><img src="https://pbs.twimg.com/media/HXQ0g8CXkAEkfv8?format=jpg&amp;name=medium" alt="Gave a board game to decision models · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/nibzard/status/2122379321608118744">Gave a board game to decision models</a></h3>
-<p>Niko(la) says that since no one wants to play board games, they gave the game to decision models including Jev, Luna, Decider, and Clef.</p>
-<p><strong>11</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 11</p>
-<p><strong>Niko(la)</strong> · @nibzard</p>
+<p><strong>02</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/AGTPinsights/status/2122519008566034596"><img src="https://pbs.twimg.com/media/HXSzhsSWwAAPnMB?format=jpg&amp;name=medium" alt="One Month After Launch: Developers Question Whether Jev Is Really Used · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/AGTPinsights/status/2122519008566034596">One Month After Launch: Developers Question Whether Jev Is Really Used</a></h3>
+<p>Developers are debating whether Jev, TypeSafe AI&#39;s decision model, is actually being used after its launch hype. Jason Cohen asked if anyone really uses Jev.</p>
+<p><strong>99</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 99</p>
+<p><strong>AGTP</strong> · @AGTPinsights</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><strong>03</strong> &nbsp; <code>金融</code> <code>原帖视频</code></p>
-<a href="https://x.com/0rdlibrary/status/2122374750743953466"><img src="https://pbs.twimg.com/amplify_video_thumb/2122374707378892802/img/zrqUmysrj4LPy5yg.jpg" alt="TypeSafe AI Jev decision layer is live on Solana · 原帖视频截图" width="100%"></a>
-<h3><a href="https://x.com/0rdlibrary/status/2122374750743953466">TypeSafe AI Jev decision layer is live on Solana</a></h3>
-<p>A user announced that a Jev-based decision layer from @typesafeai is now live across Solana, covering Pump.fun and perps trading.</p>
-<p><strong>322</strong> views · 💬 3 &nbsp; 🔁 6 &nbsp; ♡ 10 &nbsp; 📊 322</p>
-<p><strong>8Bit🦞</strong> · @0rdlibrary</p>
+<p><strong>03</strong> &nbsp; <code>产品发布</code> <code>原帖视频</code></p>
+<a href="https://x.com/minara/status/2122518447133516070"><img src="https://pbs.twimg.com/amplify_video_thumb/2122518234629111808/img/epDjxmuhbhrWpM8-.jpg" alt="Jev 1.14 Benchmarks: News Reading Is the Edge · 原帖视频截图" width="100%"></a>
+<h3><a href="https://x.com/minara/status/2122518447133516070">Jev 1.14 Benchmarks: News Reading Is the Edge</a></h3>
+<p>Minara AI reports Jev 1.14 achieves 86.1% mean accuracy across six public benchmarks, ahead of Kairos (85.6%) and MS-Decision-1 (84.5%), and notes news-reading ability is the key differentiator.</p>
+<p><strong>89</strong> views · 💬 1 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 89</p>
+<p><strong>Minara AI</strong> · @minara</p>
 </td>
 <td width="50%" valign="top">
-<p><strong>04</strong> &nbsp; <code>开发资源</code> <code>原帖图片</code></p>
-<a href="https://x.com/ruyi3699/status/2122293856448176529"><img src="https://pbs.twimg.com/media/HXIvm7YaUAAM2Nh?format=png&amp;name=small" alt="Awesome Jev List: 640 Open Source Projects Collected · 原帖图片" width="100%"></a>
-<h3><a href="https://x.com/ruyi3699/status/2122293856448176529">Awesome Jev List: 640 Open Source Projects Collected</a></h3>
-<p>The Awesome Jev list on GitHub includes 640 open-source projects built with Jev, covering 11 categories and 27 languages, with 110 added on September 22 alone.</p>
-<p><strong>13</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 0 &nbsp; 📊 13</p>
-<p><strong>如意｜Ruyi</strong> · @ruyi3699</p>
+<p><strong>04</strong> &nbsp; <code>社区实践</code> <code>原帖图片</code></p>
+<a href="https://x.com/ibamarief/status/2122495943035773143"><img src="https://pbs.twimg.com/media/HXSeADEbMAAIFBp?format=jpg&amp;name=medium" alt="Community observation: Jev decision-making degrades with more context; consider micro-benchmarking · 原帖图片" width="100%"></a>
+<h3><a href="https://x.com/ibamarief/status/2122495943035773143">Community observation: Jev decision-making degrades with more context; consider micro-benchmarking</a></h3>
+<p>The author notes that Jev&#39;s decision quality visibly declines as more context is fed in, and suggests having agents run a small benchmark to compare Jev against other decision models for your own use case. Details are in the linked post (tap translate).</p>
+<p><strong>361</strong> views · 💬 0 &nbsp; 🔁 0 &nbsp; ♡ 9 &nbsp; 📊 361</p>
+<p><strong>Ibrahim Arief</strong> · @ibamarief</p>
 </td>
 </tr>
 </table>
